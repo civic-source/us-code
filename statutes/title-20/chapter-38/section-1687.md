@@ -3,9 +3,9 @@ title: "Section 1687 - Interpretation of “program or activity”"
 usc_title: 20
 usc_section: "1687"
 chapter: 38
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "20 U.S.C. § 1687"
-generated_at: "2026-03-30T03:10:17.329Z"
+generated_at: "2026-03-30T03:12:49.493Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ For the purposes of this chapter, the term “program or activity” and “prog
       - **(i)** if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
       - **(ii)** which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
     - **(B)** the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
-  - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3); any part of which is extended Federal financial assistance, except that such term does not include any operation of an entity which is controlled by a religious organization if the application of section 1681 of this title to such operation would not be consistent with the religious tenets of such organization.
+  - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);

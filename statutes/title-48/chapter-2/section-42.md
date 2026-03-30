@@ -3,9 +3,9 @@ title: "Section 42 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 48
 usc_section: "42"
 chapter: 2
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "48 U.S.C. § 42"
-generated_at: "2026-03-30T03:11:49.617Z"
+generated_at: "2026-03-30T03:14:59.448Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2035 - Simplified supplemental nutrition assistance program"
 usc_title: 7
 usc_section: "2035"
 chapter: 51
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 2035"
-generated_at: "2026-03-30T03:10:00.548Z"
+generated_at: "2026-03-30T03:12:09.406Z"
 status: "active"
 ---
 

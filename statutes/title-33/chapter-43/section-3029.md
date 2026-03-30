@@ -3,9 +3,9 @@ title: "Section 3029 - Temporary appointments and promotions generally"
 usc_title: 33
 usc_section: "3029"
 chapter: 43
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 3029"
-generated_at: "2026-03-30T03:11:12.271Z"
+generated_at: "2026-03-30T03:13:40.568Z"
 status: "active"
 ---
 

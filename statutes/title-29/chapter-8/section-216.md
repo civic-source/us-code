@@ -3,9 +3,9 @@ title: "Section 216 - Penalties"
 usc_title: 29
 usc_section: "216"
 chapter: 8
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "29 U.S.C. § 216"
-generated_at: "2026-03-30T03:10:48.994Z"
+generated_at: "2026-03-30T03:13:29.107Z"
 status: "active"
 ---
 

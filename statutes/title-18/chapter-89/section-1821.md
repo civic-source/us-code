@@ -3,9 +3,9 @@ title: "Section 1821 - Transportation of dentures"
 usc_title: 18
 usc_section: "1821"
 chapter: 89
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 1821"
-generated_at: "2026-03-30T03:10:19.980Z"
+generated_at: "2026-03-30T03:12:44.447Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Whoever transports by mail or otherwise to or within the District of Columbia or
 
   - **(1)** the taking of impressions or casts of the human mouth or teeth by a person not licensed under such laws to practice dentistry;
   - **(2)** the construction or supply of dentures by a person other than, or without the authorization or prescription of, a person licensed under such laws to practice dentistry; or
-  - **(3)** the construction or supply of dentures from impressions or casts made by a person not licensed under such laws to practice dentistry— Shall be fined under this title or imprisoned not more than one year, or both.
+  - **(3)** the construction or supply of dentures from impressions or casts made by a person not licensed under such laws to practice dentistry—

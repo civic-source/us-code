@@ -3,9 +3,9 @@ title: "Section 1462 - Importation or transportation of obscene matters"
 usc_title: 18
 usc_section: "1462"
 chapter: 71
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 1462"
-generated_at: "2026-03-30T03:10:19.975Z"
+generated_at: "2026-03-30T03:12:44.442Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Whoever brings into the United States, or any place subject to the jurisdiction 
 
 - **(a)** any obscene, lewd, lascivious, or filthy book, pamphlet, picture, motion-picture film, paper, letter, writing, print, or other matter of indecent character; or
 - **(b)** any obscene, lewd, lascivious, or filthy phonograph recording, electrical transcription, or other article or thing capable of producing sound; or
-- **(c)** any drug, medicine, article, or thing designed, adapted, or intended for producing abortion, or for any indecent or immoral use; or any written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, how, or of whom, or by what means any of such mentioned articles, matters, or things may be obtained or made; or Whoever knowingly takes or receives, from such express company or other common carrier or interactive computer service (as defined in section 230(e)(2) 1 of the Communications Act of 1934) any matter or thing the carriage or importation of which is herein made unlawful— Shall be fined under this title or imprisoned not more than five years, or both, for the first such offense and shall be fined under this title or imprisoned not more than ten years, or both, for each such offense thereafter.
+- **(c)** any drug, medicine, article, or thing designed, adapted, or intended for producing abortion, or for any indecent or immoral use; or any written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, how, or of whom, or by what means any of such mentioned articles, matters, or things may be obtained or made; or

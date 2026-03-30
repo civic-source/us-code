@@ -3,18 +3,18 @@ title: "Section 5775 - Grants"
 usc_title: 42
 usc_section: "5775"
 chapter: 72
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 5775"
-generated_at: "2026-03-30T03:11:40.384Z"
+generated_at: "2026-03-30T03:14:51.884Z"
 status: "active"
 ---
 
 # § 5775. Grants
 
 - **(a)** The Administrator is authorized to make grants to and enter into contracts with the Center and with public agencies or nonprofit private organizations, or combinations thereof, for research, demonstration projects, or service programs designed—
-  - **(1)** to educate parents, children, and community agencies and organizations in ways to prevent the abduction and sexual exploitation of children;
+  - **(1)** to educate parents, children, schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers, and community agencies and organizations in ways to prevent the abduction and sexual exploitation of children;
   - **(2)** to provide information to assist in the locating and return of missing children;
-  - **(3)** to aid communities in the collection of materials which would be useful to parents in assisting others in the identification of missing children;
+  - **(3)** to aid communities and schools in the collection of materials which would be useful to parents in assisting others in the identification of missing children;
   - **(4)** to increase knowledge of and develop effective treatment pertaining to the psychological consequences, on both parents and children, of—
     - **(A)** the abduction of a child, both during the period of disappearance and after the child is recovered; and
     - **(B)** the sexual exploitation of a missing child;

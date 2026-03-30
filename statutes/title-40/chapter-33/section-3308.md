@@ -3,9 +3,9 @@ title: "Section 3308 - Architectural or engineering services"
 usc_title: 40
 usc_section: "3308"
 chapter: 33
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "40 U.S.C. § 3308"
-generated_at: "2026-03-30T03:11:16.237Z"
+generated_at: "2026-03-30T03:14:01.758Z"
 status: "active"
 ---
 

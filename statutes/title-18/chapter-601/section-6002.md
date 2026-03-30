@@ -3,9 +3,9 @@ title: "Section 6002 - Immunity generally"
 usc_title: 18
 usc_section: "6002"
 chapter: 601
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 6002"
-generated_at: "2026-03-30T03:10:20.008Z"
+generated_at: "2026-03-30T03:12:44.479Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Whenever a witness refuses, on the basis of his privilege against self-incrimina
 
   - **(1)** a court or grand jury of the United States,
   - **(2)** an agency of the United States, or
-  - **(3)** either House of Congress, a joint committee of the two Houses, or a committee or a subcommittee of either House, and the person presiding over the proceeding communicates to the witness an order issued under this title, the witness may not refuse to comply with the order on the basis of his privilege against self-incrimination; but no testimony or other information compelled under the order (or any information directly or indirectly derived from such testimony or other information) may be used against the witness in any criminal case, except a prosecution for perjury, giving a false statement, or otherwise failing to comply with the order.
+  - **(3)** either House of Congress, a joint committee of the two Houses, or a committee or a subcommittee of either House,

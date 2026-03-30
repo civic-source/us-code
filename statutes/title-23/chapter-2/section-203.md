@@ -3,9 +3,9 @@ title: "Section 203 - Federal lands transportation program"
 usc_title: 23
 usc_section: "203"
 chapter: 2
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "23 U.S.C. § 203"
-generated_at: "2026-03-30T03:10:33.262Z"
+generated_at: "2026-03-30T03:12:52.316Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(A)** Subject to subparagraph (B), construction of each project shall be performed by contract awarded by competitive bidding.
     - **(B)** Subparagraph (A) shall not apply if the Secretary or the Secretary of the appropriate Federal land management agency affirmatively finds that, under the circumstances relating to the project, a different method is in the public interest.
 - **(b)**
-  - **(1)**
+  - **(1)** On October 1, 2011 , and on October 1 of each fiscal year thereafter, the Secretary shall allocate the sums authorized to be appropriated for the fiscal year for the Federal lands transportation program on the basis of applications of need, as determined by the Secretary—
     - **(A)** in consultation with the Secretaries of the applicable Federal land management agencies; and
     - **(B)** in coordination with the transportation plans required under section 201 of the respective transportation systems of—
       - **(i)** the National Park Service;

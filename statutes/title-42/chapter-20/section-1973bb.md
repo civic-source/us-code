@@ -3,9 +3,9 @@ title: "Section 1973bb - Enforcement of twenty-sixth amendment"
 usc_title: 42
 usc_section: "1973bb"
 chapter: 20
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1973bb"
-generated_at: "2026-03-30T03:11:40.283Z"
+generated_at: "2026-03-30T03:14:51.771Z"
 status: "active"
 ---
 

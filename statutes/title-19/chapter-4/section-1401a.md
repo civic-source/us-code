@@ -3,9 +3,9 @@ title: "Section 1401a - Value"
 usc_title: 19
 usc_section: "1401a"
 chapter: 4
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "19 U.S.C. § 1401a"
-generated_at: "2026-03-30T03:10:25.176Z"
+generated_at: "2026-03-30T03:12:39.150Z"
 status: "active"
 ---
 
@@ -130,7 +130,7 @@ status: "active"
   - **(2)** The term “identical merchandise” means—
     - **(A)** merchandise that is identical in all respects to, and was produced in the same country and by the same person as, the merchandise being appraised; or
     - **(B)** if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that is identical in all respects to, and was produced in the same country as, but not produced by the same person as, the merchandise being appraised.
-    - **(I)** was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
+        - **(I)** was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
         - **(II)** is not an assist because undertaken within the United States.
   - **(3)** The term “packing costs” means the cost of all containers and coverings of whatever nature and of packing, whether for labor or materials, used in placing merchandise in condition, packed ready for shipment to the United States.
   - **(4)** The term “similar merchandise” means—
@@ -141,7 +141,7 @@ status: "active"
     - **(B)** if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that—
       - **(i)** was produced in the same country as, but not produced by the same person as, the merchandise being appraised, and
       - **(ii)** meets the requirement set forth in subparagraph (A)(ii) and (iii).
-    - **(I)** was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
+        - **(I)** was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
         - **(II)** is not an assist because undertaken within the United States.
   - **(5)** The term “sufficient information”, when required under this section for determining—
     - **(A)** any amount—

@@ -3,9 +3,9 @@ title: "Section 4 - Reporting requirements"
 usc_title: 21
 usc_section: "4"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "21 U.S.C. § 4"
-generated_at: "2026-03-30T03:10:45.019Z"
+generated_at: "2026-03-30T03:12:53.383Z"
 status: "active"
 ---
 

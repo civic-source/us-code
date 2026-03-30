@@ -3,9 +3,9 @@ title: "Section 6684 - Assessable penalties with respect to liability for tax un
 usc_title: 26
 usc_section: "6684"
 chapter: 68
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 6684"
-generated_at: "2026-03-30T03:11:08.873Z"
+generated_at: "2026-03-30T03:13:21.934Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 If any person becomes liable for tax under any section of chapter 42 (relating to private foundations and certain other tax-exempt organizations) by reason of any act or failure to act which is not due to reasonable cause and either—
 
   - **(1)** such person has theretofore been liable for tax under such chapter, or
-  - **(2)** such act or failure to act is both willful and flagrant, then such person shall be liable for a penalty equal to the amount of such tax.
+  - **(2)** such act or failure to act is both willful and flagrant,

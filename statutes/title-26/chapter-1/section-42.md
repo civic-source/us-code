@@ -3,9 +3,9 @@ title: "Section 42 - Low-income housing credit"
 usc_title: 26
 usc_section: "42"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 42"
-generated_at: "2026-03-30T03:11:08.646Z"
+generated_at: "2026-03-30T03:13:21.675Z"
 status: "active"
 ---
 
@@ -16,6 +16,13 @@ status: "active"
   - **(2)** the qualified basis of each qualified low-income building.
 - **(b)**
   - **(1)** For purposes of this section, the term “applicable percentage” means, with respect to any building, the appropriate percentage prescribed by the Secretary for the earlier of—
+    - **(B)** The percentages prescribed by the Secretary for any month shall be percentages which will yield over a 10-year period amounts of credit under subsection (a) which have a present value equal to—
+      - **(i)** 70 percent of the qualified basis of a new building which is not federally subsidized for the taxable year, and
+      - **(ii)** 30 percent of the qualified basis of a building not described in clause (i).
+    - **(C)** The present value under subparagraph (B) shall be determined—
+      - **(i)** as of the last day of the 1st year of the 10-year period referred to in subparagraph (B),
+      - **(ii)** by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) 1 and compounded annually, and
+      - **(iii)** by assuming that the credit allowable under this section for any year is received on the last day of such year.
       - **(i)** the month in which such building is placed in service, or
       - **(ii)** at the election of the taxpayer—
         - **(I)** the month in which the taxpayer and the housing credit agency enter into an agreement with respect to such building (which is binding on such agency, the taxpayer, and all successors in interest) as to the housing credit dollar amount to be allocated to such building, or
@@ -27,13 +34,6 @@ status: "active"
     - **(A)** For treatment of certain rehabilitation expenditures as separate new buildings, see subsection (e).
     - **(B)** For determination of applicable percentage for increases in qualified basis after the 1st year of the credit period, see subsection (f)(3).
     - **(C)** For authority of housing credit agency to limit applicable percentage and qualified basis which may be taken into account under this section with respect to any building, see subsection (h)(7).
-    - **(B)** The percentages prescribed by the Secretary for any month shall be percentages which will yield over a 10-year period amounts of credit under subsection (a) which have a present value equal to—
-      - **(i)** 70 percent of the qualified basis of a new building which is not federally subsidized for the taxable year, and
-      - **(ii)** 30 percent of the qualified basis of a building not described in clause (i).
-    - **(C)** The present value under subparagraph (B) shall be determined—
-      - **(i)** as of the last day of the 1st year of the 10-year period referred to in subparagraph (B),
-      - **(ii)** by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) 1 and compounded annually, and
-      - **(iii)** by assuming that the credit allowable under this section for any year is received on the last day of such year.
 - **(c)** For purposes of this section—
   - **(1)**
     - **(A)** The qualified basis of any qualified low-income building for any taxable year is an amount equal to—

@@ -3,9 +3,9 @@ title: "Section 97 - Procurement of buoy chain"
 usc_title: 14
 usc_section: "97"
 chapter: 5
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "14 U.S.C. § 97"
-generated_at: "2026-03-30T03:10:05.916Z"
+generated_at: "2026-03-30T03:12:20.515Z"
 status: "active"
 ---
 

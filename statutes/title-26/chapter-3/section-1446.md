@@ -3,9 +3,9 @@ title: "Section 1446 - Withholding 1 1 So in original. Probably should be follow
 usc_title: 26
 usc_section: "1446"
 chapter: 3
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 1446"
-generated_at: "2026-03-30T03:11:08.798Z"
+generated_at: "2026-03-30T03:13:21.846Z"
 status: "active"
 ---
 

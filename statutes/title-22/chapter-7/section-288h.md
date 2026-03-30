@@ -3,9 +3,9 @@ title: "Section 288h - Commission of European Communities; extension of privileg
 usc_title: 22
 usc_section: "288h"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 288h"
-generated_at: "2026-03-30T03:10:34.660Z"
+generated_at: "2026-03-30T03:12:56.136Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3281 - Commissioned officer grades"
 usc_title: 10
 usc_section: "3281"
 chapter: 335
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 3281"
-generated_at: "2026-03-30T03:10:03.062Z"
+generated_at: "2026-03-30T03:12:15.196Z"
 status: "active"
 ---
 

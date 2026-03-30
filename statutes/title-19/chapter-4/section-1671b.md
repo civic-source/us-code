@@ -3,9 +3,9 @@ title: "Section 1671b - Preliminary determinations"
 usc_title: 19
 usc_section: "1671b"
 chapter: 4
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "19 U.S.C. § 1671b"
-generated_at: "2026-03-30T03:10:25.188Z"
+generated_at: "2026-03-30T03:12:39.163Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
       - **(ii)** a developing country with respect to which the Trade Representative has notified the administering authority that the country has eliminated its export subsidies on an expedited basis within the meaning of Article 27.11 of the Subsidies Agreement,
     - **(D)**
       - **(i)** In the case of a country described in subparagraph (C)(i), the provisions of subparagraph (C) shall not apply after the date that is 8 years after the date the WTO Agreement enters into force.
-      - **(ii)**
+      - **(ii)** In the case of a country described in subparagraph (C)(ii), the provisions of subparagraph (C) shall not apply after the earlier of—
         - **(I)** the date that is 8 years after the date the WTO Agreement enters into force, or
         - **(II)** the date on which the Trade Representative notifies the administering authority that such country is providing an export subsidy.
   - **(5)** If the only subsidy under investigation is a subsidy with respect to which the administering authority received notice from the Trade Representative of a violation of Article 8 of the Subsidies Agreement, paragraph (1) shall be applied by substituting “60 days” for “65 days”.

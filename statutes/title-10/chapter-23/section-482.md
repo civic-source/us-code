@@ -3,9 +3,9 @@ title: "Section 482 - Quarterly reports: personnel and unit readiness"
 usc_title: 10
 usc_section: "482"
 chapter: 23
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 482"
-generated_at: "2026-03-30T03:10:02.978Z"
+generated_at: "2026-03-30T03:12:15.108Z"
 status: "active"
 ---
 
@@ -38,15 +38,15 @@ status: "active"
     - **(B)** Operations tempo.
     - **(C)** Training funding.
     - **(D)** Training commitments and deployments.
-  - **(5)**
+  - **(5)** equipment fill.—
     - **(A)** Deployed equipment.
     - **(B)** Equipment availability.
     - **(C)** Equipment that is not mission capable.
     - **(D)** Age of equipment.
     - **(E)** Condition of nonpacing items.
-  - **(6)**
+  - **(6)** equipment maintenance.—
     - **(A)** Maintenance backlog.
-  - **(7)**
+  - **(7)** supply.—
     - **(A)** Availability of ordnance and spares.
     - **(B)** Status of prepositioned equipment.
 - **(e)** Each report shall also include information regarding the readiness of each active component unit of the armed forces at the battalion, squadron, or an equivalent level (or a higher level) that received a readiness rating of C–3 (or below) for any month of the calendar-year quarter covered by the report. With respect to each such unit, the report shall separately provide the following information:

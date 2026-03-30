@@ -3,9 +3,9 @@ title: "Section 2 - Validity, irrevocability, and enforcement of agreements to a
 usc_title: 9
 usc_section: "2"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "9 U.S.C. § 2"
-generated_at: "2026-03-30T03:09:54.534Z"
+generated_at: "2026-03-30T03:12:05.611Z"
 status: "active"
 ---
 

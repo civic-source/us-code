@@ -3,9 +3,9 @@ title: "Section 1707 - Repealed. Pub. L. 104–295, § 3(a)(2) , Oct. 11, 1996 ,
 usc_title: 19
 usc_section: "1707"
 chapter: 5
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "19 U.S.C. § 1707"
-generated_at: "2026-03-30T03:10:25.196Z"
+generated_at: "2026-03-30T03:12:39.171Z"
 status: "repealed"
 ---
 

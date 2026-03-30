@@ -3,9 +3,9 @@ title: "Section 1812 - Covered birth defects"
 usc_title: 38
 usc_section: "1812"
 chapter: 18
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 1812"
-generated_at: "2026-03-30T03:11:17.751Z"
+generated_at: "2026-03-30T03:14:12.955Z"
 status: "active"
 ---
 

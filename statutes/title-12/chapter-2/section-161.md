@@ -3,9 +3,9 @@ title: "Section 161 - Reports to Comptroller of the Currency"
 usc_title: 12
 usc_section: "161"
 chapter: 2
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 161"
-generated_at: "2026-03-30T03:10:09.698Z"
+generated_at: "2026-03-30T03:12:30.236Z"
 status: "active"
 ---
 

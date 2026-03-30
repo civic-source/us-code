@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T03:11:08.711Z"
+generated_at: "2026-03-30T03:13:21.744Z"
 status: "active"
 ---
 
@@ -116,6 +116,7 @@ status: "active"
     - **(A)** to the extent that the amount of the assets involved in the purchase are not attributable to the purchase of life insurance, the purchase is treated as a rollover contribution described in subsection (d)(3), and
     - **(B)** to the extent that the amount of the assets involved in the purchase are attributable to the purchase of life, health, accident, or other insurance, such amounts are treated as distributed to that individual (but the provisions of subsection (f) do not apply).
   - **(6)** Any common trust fund or common investment fund of individual retirement account assets which is exempt from taxation under this subtitle does not cease to be exempt on account of the participation or inclusion of assets of a trust exempt from taxation under section 501(a) which is described in section 401(a).
+- **[(f)**
 - **(g)** This section shall be applied without regard to any community property laws.
 - **(h)** For purposes of this section, a custodial account shall be treated as a trust if the assets of such account are held by a bank (as defined in subsection (n)) or another person who demonstrates, to the satisfaction of the Secretary, that the manner in which he will administer the account will be consistent with the requirements of this section, and if the custodial account would, except for the fact that it is not a trust, constitute an individual retirement account described in subsection (a). For purposes of this title, in the case of a custodial account treated as a trust by reason of the preceding sentence, the custodian of such account shall be treated as the trustee thereof.
 - **(i)** The trustee of an individual retirement account and the issuer of an endowment contract described in subsection (b) or an individual retirement annuity shall make such reports regarding such account, contract, or annuity to the Secretary and to the individuals for whom the account, contract, or annuity is, or is to be, maintained with respect to contributions (and the years to which they relate), distributions aggregating $10 or more in any calendar year, and such other matters as the Secretary may require. The reports required by this subsection—

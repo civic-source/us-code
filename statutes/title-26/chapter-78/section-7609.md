@@ -3,9 +3,9 @@ title: "Section 7609 - Special procedures for third-party summonses"
 usc_title: 26
 usc_section: "7609"
 chapter: 78
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 7609"
-generated_at: "2026-03-30T03:11:08.886Z"
+generated_at: "2026-03-30T03:13:21.950Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 416 - Special rules for top-heavy plans"
 usc_title: 26
 usc_section: "416"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 416"
-generated_at: "2026-03-30T03:11:08.719Z"
+generated_at: "2026-03-30T03:13:21.754Z"
 status: "active"
 ---
 
@@ -45,6 +45,7 @@ status: "active"
       - **(ii)**
         - **(I)** For purposes of this subparagraph, all defined contribution plans required to be included in an aggregation group under subsection (g)(2)(A)(i) shall be treated as one plan.
         - **(II)** This subparagraph shall not apply to any plan required to be included in an aggregation group if such plan enables a defined benefit plan required to be included in such group to meet the requirements of section 401(a)(4) or 410.
+- **[(d)**
 - **(e)** A top-heavy plan shall not be treated as meeting the requirement of subsection (b) or (c) unless such plan meets such requirement without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law.
 - **(f)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section where the employer has 2 or more plans including (but not limited to) regulations to prevent inappropriate omissions or required duplication of minimum benefits or contributions.
 - **(g)** For purposes of this section—
@@ -84,6 +85,7 @@ status: "active"
     - **(H)** The term “top-heavy plan” shall not include a plan which consists solely of—
       - **(i)** a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13), and
       - **(ii)** matching contributions with respect to which the requirements of section 401(m)(11) or 401(m)(12) are met.
+- **[(h)**
 - **(i)** For purposes of this section—
   - **(1)**
     - **(A)** The term “key employee” means an employee who, at any time during the plan year, is—

@@ -3,9 +3,9 @@ title: "Section 4011 - Functions and powers of Secretary"
 usc_title: 16
 usc_section: "4011"
 chapter: 60
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 4011"
-generated_at: "2026-03-30T03:10:27.304Z"
+generated_at: "2026-03-30T03:12:42.339Z"
 status: "active"
 ---
 

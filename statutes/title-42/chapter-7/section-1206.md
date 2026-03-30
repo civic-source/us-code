@@ -3,9 +3,9 @@ title: "Section 1206 - “Aid to the blind” defined"
 usc_title: 42
 usc_section: "1206"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1206"
-generated_at: "2026-03-30T03:11:40.113Z"
+generated_at: "2026-03-30T03:14:51.592Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ For the purposes of this subchapter, the term “aid to the blind” means money
   - **(2)** making such payments only in cases in which such payments will, under the rules otherwise applicable under the State plan for determining need and the amount of aid to the blind to be paid (and in conjunction with other income and resources), meet all the need 1 1 So in original. Probably should be “needs”. of the individuals with respect to whom such payments are made;
   - **(3)** undertaking and continuing special efforts to protect the welfare of such individual and to improve, to the extent possible, his capacity for self-care and to manage funds;
   - **(4)** periodic review by such State agency of the determination under paragraph (1) of this subsection to ascertain whether conditions justifying such determination still exist, with provision for termination of such payments if they do not and for seeking judicial appointment of a guardian or other legal representative, as described in section 1311 of this title , if and when it appears that such action will best serve the interests of such needy individual; and
-  - **(5)** opportunity for a fair hearing before the State agency on the determination referred to in paragraph (1) of this subsection for any individual with respect to whom it is made. At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not include money payments to an individual who has been absent from such State for a period in excess of 90 consecutive days (regardless of whether he has maintained his residence in such State during such period) until he has been present in such State for 30 consecutive days in the case of such an individual who has maintained his residence in such State during such period or 90 consecutive days in the case of any other such individual, and (ii) may include rent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of aid under such plan.
+  - **(5)** opportunity for a fair hearing before the State agency on the determination referred to in paragraph (1) of this subsection for any individual with respect to whom it is made.

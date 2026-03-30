@@ -3,9 +3,9 @@ title: "Section 5111 - Repealed. Pub. L. 109–59, title VII, § 7111 , Aug. 10,
 usc_title: 49
 usc_section: "5111"
 chapter: 51
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 5111"
-generated_at: "2026-03-30T03:11:48.061Z"
+generated_at: "2026-03-30T03:15:03.290Z"
 status: "repealed"
 ---
 

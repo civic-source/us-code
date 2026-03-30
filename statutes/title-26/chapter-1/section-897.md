@@ -3,9 +3,9 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-30T03:11:08.764Z"
+generated_at: "2026-03-30T03:13:21.807Z"
 status: "active"
 ---
 
@@ -70,6 +70,7 @@ status: "active"
       - **(i)** transfers of property in reorganization, and
       - **(ii)** changes in interests in, or distributions from, a partnership, trust, or estate,
   - **(3)** For purposes of this subsection, the term “nonrecognition provision” means any provision of this title for not recognizing gain or loss.
+- **[(f)**
 - **(g)** Under regulations prescribed by the Secretary, the amount of any money, and the fair market value of any property, received by a nonresident alien individual or foreign corporation in exchange for all or part of its interest in a partnership, trust, or estate shall, to the extent attributable to United States real property interests, be considered as an amount received from the sale or exchange in the United States of such property.
 - **(h)** For purposes of this section—
   - **(1)** Any distribution by a qualified investment entity to a nonresident alien individual, a foreign corporation, or other qualified investment entity shall, to the extent attributable to gain from sales or exchanges by the qualified investment entity of United States real property interests, be treated as gain recognized by such nonresident alien individual, foreign corporation, or other qualified investment entity from the sale or exchange of a United States real property interest. Notwithstanding the preceding sentence, any distribution by a qualified investment entity to a nonresident alien individual or a foreign corporation with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if such individual or corporation did not own more than 5 percent of such class of stock at any time during the 1-year period ending on the date of such distribution.

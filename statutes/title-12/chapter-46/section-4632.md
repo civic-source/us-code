@@ -3,9 +3,9 @@ title: "Section 4632 - Temporary cease-and-desist orders"
 usc_title: 12
 usc_section: "4632"
 chapter: 46
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 4632"
-generated_at: "2026-03-30T03:10:09.823Z"
+generated_at: "2026-03-30T03:12:30.363Z"
 status: "active"
 ---
 

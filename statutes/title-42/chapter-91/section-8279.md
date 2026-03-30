@@ -3,9 +3,9 @@ title: "Section 8279 - National Action Plan for Demand Response"
 usc_title: 42
 usc_section: "8279"
 chapter: 91
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 8279"
-generated_at: "2026-03-30T03:11:40.469Z"
+generated_at: "2026-03-30T03:14:51.975Z"
 status: "active"
 ---
 

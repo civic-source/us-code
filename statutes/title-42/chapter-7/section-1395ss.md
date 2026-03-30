@@ -3,9 +3,9 @@ title: "Section 1395ss - Certification of medicare supplemental health insurance
 usc_title: 42
 usc_section: "1395ss"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1395ss"
-generated_at: "2026-03-30T03:11:40.185Z"
+generated_at: "2026-03-30T03:14:51.669Z"
 status: "active"
 ---
 
@@ -65,7 +65,7 @@ status: "active"
         - **(III)** A policy described in this subclause (to which subclauses (I) and (II) do not apply) is a Medicare supplemental policy, a policy described in clause (v), or a health insurance policy identified under 60 Federal Register 30880 ( June 12, 1995 ) as a policy not required to have a disclosure statement.
         - **(IV)** Any reference in this section to the revised NAIC model regulation (referred to in subsection (m)(1)(A) of this section) is deemed a reference to such regulation as revised by section 171(m)(2) of the Social Security Act Amendments of 1994 ( Public Law 103–432 ) and as modified by substituting, for the disclosure required under section 16D(2), disclosure under subclause (I) of an appropriate disclosure statement under clause (vii).
       - **(vii)** The disclosure statement described in this clause for a type of policy is the statement specified under subparagraph (D) of this paragraph (as in effect before August 21, 1996 ) for that type of policy, as revised as follows:
-        - **(I)** In each statement, amend the second line to read as follows:
+        - **(I)** In each statement, amend the second line to read as follows: “THIS IS NOT MEDICARE SUPPLEMENT
         - **(II)** In each statement, strike the third line and insert the following: “ Some health care services paid for by Medicare may also trigger the payment of benefits under this policy. ”.
         - **(III)** In each statement not described in subclause (V), strike the boldface matter that begins “ This insurance ” and all that follows up to the next paragraph that begins “ Medicare ”.
         - **(IV)** In each statement not described in subclause (V), insert before the boxed matter (that states “ Before You Buy This Insurance ”) the following: “ This policy must pay benefits without regard to other health benefit coverage to which you may be entitled under Medicare or other insurance. ”.

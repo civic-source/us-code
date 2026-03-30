@@ -3,9 +3,9 @@ title: "Section 1864 - Director of Foundation"
 usc_title: 42
 usc_section: "1864"
 chapter: 16
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1864"
-generated_at: "2026-03-30T03:11:40.277Z"
+generated_at: "2026-03-30T03:14:51.764Z"
 status: "active"
 ---
 

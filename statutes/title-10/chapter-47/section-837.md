@@ -3,9 +3,9 @@ title: "Section 837 - Art. 37. Unlawfully influencing action of court"
 usc_title: 10
 usc_section: "837"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 837"
-generated_at: "2026-03-30T03:10:02.988Z"
+generated_at: "2026-03-30T03:12:15.118Z"
 status: "active"
 ---
 

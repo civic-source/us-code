@@ -3,9 +3,9 @@ title: "Section 12904 - Eligible activities"
 usc_title: 42
 usc_section: "12904"
 chapter: 131
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 12904"
-generated_at: "2026-03-30T03:11:40.553Z"
+generated_at: "2026-03-30T03:14:52.070Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ Grants allocated under this chapter shall be available only for approved activit
   - **(3)** provide rental assistance to such persons under section 12908 of this title ;
   - **(4)** facilitate (through project-based rental assistance or other means) the moderate rehabilitation of single room occupancy dwellings (SROs) that would be made available only to such persons under section 12909 of this title ;
   - **(5)** facilitate the development of community residences for eligible persons under section 12910 of this title ;
-  - **(6)** carry out other activities that the Secretary develops in cooperation with eligible States and localities, except that activities developed under this paragraph may be assisted only with amounts provided under section 12903(c)(3) of this title . The Secretary shall establish standards and guidelines for approved activities. The Secretary shall permit grantees to refine and adapt such standards and guidelines for individual projects, where such refinements and adaptations are made necessary by local circumstances.
+  - **(6)** carry out other activities that the Secretary develops in cooperation with eligible States and localities, except that activities developed under this paragraph may be assisted only with amounts provided under section 12903(c)(3) of this title .

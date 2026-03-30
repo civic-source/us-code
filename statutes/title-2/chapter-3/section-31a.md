@@ -3,9 +3,9 @@ title: "Section 31a - Repealed. Mar. 2, 1955, ch. 9, § 4(b) , 69 Stat. 11 , eff
 usc_title: 2
 usc_section: "31a"
 chapter: 3
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 31a"
-generated_at: "2026-03-30T03:09:51.225Z"
+generated_at: "2026-03-30T03:12:02.378Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395xx - Payment of provider-based physicians and payment under 
 usc_title: 42
 usc_section: "1395xx"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1395xx"
-generated_at: "2026-03-30T03:11:40.195Z"
+generated_at: "2026-03-30T03:14:51.679Z"
 status: "active"
 ---
 

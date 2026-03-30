@@ -1,0 +1,13 @@
+---
+title: "Section 9866to9869 - Repealed. Pub. L. 103–382, title III, § 391(w) , Oct. 20, 1994 , 108 Stat. 4025"
+usc_title: 42
+usc_section: "9866to9869"
+chapter: 105
+current_through: "PL 113-44"
+classification: "42 U.S.C. § 9866to9869"
+generated_at: "2026-03-30T03:14:52.010Z"
+status: "repealed"
+---
+
+# §§ 9866 to 9869. Repealed. Pub. L. 103–382, title III, § 391(w) , Oct. 20, 1994 , 108 Stat. 4025
+

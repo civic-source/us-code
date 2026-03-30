@@ -1,13 +1,16 @@
 ---
-title: "Section 2 - Omitted"
+title: "Section 2 - Payment of insurance benefits"
 usc_title: 12
 usc_section: "2"
 chapter: 13
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T03:10:09.752Z"
-status: "omitted"
+generated_at: "2026-03-30T03:12:30.291Z"
+status: "active"
 ---
 
-# §§ 1749bbb to 1749bbb–2. Omitted
+# § 1749aaa–2. Payment of insurance benefits
+
+- **(g)** of section 1713 of this title with respect to mortgages insured under that section. For such purpose the provisions of subsections (g), (h), (i), (j), (k), ( l ), and
+- **(n)** of such section 1713 shall apply to mortgages insured under this subchapter and all references in such subsections to such section 1713 shall be deemed to refer to this subchapter.
 

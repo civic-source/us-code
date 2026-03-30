@@ -3,9 +3,9 @@ title: "Section 771 - Benefits for surviving spouses of Lighthouse Service emplo
 usc_title: 33
 usc_section: "771"
 chapter: 16
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 771"
-generated_at: "2026-03-30T03:11:12.227Z"
+generated_at: "2026-03-30T03:13:40.522Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Where—
 
   - **(1)** any former employee of the Lighthouse Service has died or shall hereafter die at a time when that employee was receiving or was entitled to receive retirement pay under section 763 of this title , as amended and supplemented, and
-  - **(2)** the surviving spouse of the former employee was married to the former employee prior to the retirement of the former employee from the Lighthouse Service and has not remarried— the surviving spouse, so long as the surviving spouse does not remarry, shall be paid $100 per month by the Secretary of Transportation.
+  - **(2)** the surviving spouse of the former employee was married to the former employee prior to the retirement of the former employee from the Lighthouse Service and has not remarried—

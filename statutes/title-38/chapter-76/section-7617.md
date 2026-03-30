@@ -3,9 +3,9 @@ title: "Section 7617 - Breach of agreement: liability"
 usc_title: 38
 usc_section: "7617"
 chapter: 76
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 7617"
-generated_at: "2026-03-30T03:11:17.789Z"
+generated_at: "2026-03-30T03:14:12.992Z"
 status: "active"
 ---
 
@@ -20,8 +20,8 @@ status: "active"
   - **(5)** In the case of a participant who is a part-time student, the participant fails to maintain employment, while enrolled in the course of training being pursued by such participant, as a Department employee permanently assigned to a Department health-care facility.
 - **(c)**
   - **(1)** If a participant in the Scholarship Program breaches the agreement by failing (for any reason) to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
+  - **(2)** Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.
     - **(A)** “A” is the amount the United States is entitled to recover.
     - **(B)** “Φ” is the sum of (i) the amounts paid under this subchapter to or on behalf of the participant, and (ii) the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
     - **(C)** “t” is the total number of months in the participant’s period of obligated service, including any additional period of obligated service in accordance with section 7616(b)(4) of this title .
     - **(D)** “s” is the number of months of such period served by the participant in accordance with section 7613 of this title .
-  - **(2)** Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.

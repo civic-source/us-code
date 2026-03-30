@@ -3,9 +3,9 @@ title: "Section 441 - Period for computation of taxable income"
 usc_title: 26
 usc_section: "441"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 441"
-generated_at: "2026-03-30T03:11:08.727Z"
+generated_at: "2026-03-30T03:13:21.762Z"
 status: "active"
 ---
 

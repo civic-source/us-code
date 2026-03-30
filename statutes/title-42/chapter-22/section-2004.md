@@ -3,9 +3,9 @@ title: "Section 2004 - Transfer of personnel, property, records, monies"
 usc_title: 42
 usc_section: "2004"
 chapter: 22
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 2004"
-generated_at: "2026-03-30T03:11:40.293Z"
+generated_at: "2026-03-30T03:14:51.781Z"
 status: "active"
 ---
 

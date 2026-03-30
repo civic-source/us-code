@@ -3,9 +3,9 @@ title: "Section 5 - Regional innovation grants program"
 usc_title: 7
 usc_section: "5"
 chapter: 50
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T03:10:00.539Z"
+generated_at: "2026-03-30T03:12:09.397Z"
 status: "active"
 ---
 

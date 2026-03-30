@@ -3,9 +3,9 @@ title: "Section 1496a - Clearance restrictions of individuals returning from abr
 usc_title: 19
 usc_section: "1496a"
 chapter: 4
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "19 U.S.C. § 1496a"
-generated_at: "2026-03-30T03:10:25.179Z"
+generated_at: "2026-03-30T03:12:39.154Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Except as otherwise provided by law, no individual returning to the United States from abroad shall be—
 
   - **(1)** entitled to the admission of his or her baggage and effects free of duty without entry; or
-  - **(2)** entitled to expedited customs examination and clearance of his or her baggage and effects. Paragraph (2) shall not apply to individuals in special circumstances (including being seriously ill or infirm, having been summoned by news of affliction or disaster, and accompanying the body of a deceased relative). For purposes of this section, the term “baggage and effects” means any article which was in the possession of the individual while abroad and is being imported in connection with his or her arrival and is intended for his or her bona fide personal or household use. Such term does not include any article imported as an accommodation to others or for sale or other commercial use.
+  - **(2)** entitled to expedited customs examination and clearance of his or her baggage and effects.

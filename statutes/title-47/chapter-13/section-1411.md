@@ -3,9 +3,9 @@ title: "Section 1411 - Reallocation of D block to public safety"
 usc_title: 47
 usc_section: "1411"
 chapter: 13
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "47 U.S.C. § 1411"
-generated_at: "2026-03-30T03:11:46.499Z"
+generated_at: "2026-03-30T03:15:10.916Z"
 status: "active"
 ---
 

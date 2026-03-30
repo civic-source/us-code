@@ -3,9 +3,9 @@ title: "Section 918 - Art. 118. Murder"
 usc_title: 10
 usc_section: "918"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 918"
-generated_at: "2026-03-30T03:10:02.991Z"
+generated_at: "2026-03-30T03:12:15.121Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ Any person subject to this chapter who, without justification or excuse, unlawfu
   - **(1)** has a premeditated design to kill;
   - **(2)** intends to kill or inflict great bodily harm;
   - **(3)** is engaged in an act which is inherently dangerous to another and evinces a wanton disregard of human life; or
-  - **(4)** is engaged in the perpetration or attempted perpetration of burglary, sodomy, rape, rape of a child, sexual assault, sexual assault of a child, aggravated sexual contact, sexual abuse of a child, robbery, or aggravated arson; is guilty of murder, and shall suffer such punishment as a court-martial may direct, except that if found guilty under clause (1) or (4), he shall suffer death or imprisonment for life as a court-martial may direct.
+  - **(4)** is engaged in the perpetration or attempted perpetration of burglary, sodomy, rape, rape of a child, sexual assault, sexual assault of a child, aggravated sexual contact, sexual abuse of a child, robbery, or aggravated arson;

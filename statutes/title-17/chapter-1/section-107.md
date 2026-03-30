@@ -3,9 +3,9 @@ title: "Section 107 - Limitations on exclusive rights: Fair use"
 usc_title: 17
 usc_section: "107"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "17 U.S.C. § 107"
-generated_at: "2026-03-30T03:10:20.144Z"
+generated_at: "2026-03-30T03:12:38.045Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyr
   - **(1)** the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;
   - **(2)** the nature of the copyrighted work;
   - **(3)** the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
-  - **(4)** the effect of the use upon the potential market for or value of the copyrighted work. The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
+  - **(4)** the effect of the use upon the potential market for or value of the copyrighted work.

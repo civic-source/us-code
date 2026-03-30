@@ -3,9 +3,9 @@ title: "Section 2385 - Advocating overthrow of Government"
 usc_title: 18
 usc_section: "2385"
 chapter: 115
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 2385"
-generated_at: "2026-03-30T03:10:19.989Z"
+generated_at: "2026-03-30T03:12:44.458Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1240a - Certification"
 usc_title: 30
 usc_section: "1240a"
 chapter: 25
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "30 U.S.C. § 1240a"
-generated_at: "2026-03-30T03:10:47.987Z"
+generated_at: "2026-03-30T03:13:32.350Z"
 status: "active"
 ---
 
@@ -48,3 +48,9 @@ status: "active"
     - **(A)** The annual amount allocated under subparagraph (A) or (B) of section 1232(g)(1) of this title to any State or Indian tribe that makes a certification under subsection (a) of this section in which the Secretary concurs shall be reallocated and available for grants under section 1232(g)(5) of this title .
     - **(B)** The grants shall be allocated based on the amount of coal historically produced before August 3, 1977 , in the same manner as under section 1232(g)(5) of this title .
   - **(5)** Notwithstanding any other provision of this subsection, the total annual payment to a certified State or Indian tribe under this subsection shall be not more than $15,000,000.
+  - **(6)**
+    - **(A)** Notwithstanding paragraph (5), the limitation on the total annual payments to a certified State or Indian tribe under this subsection shall not apply for fiscal years 2014 and 2015.
+    - **(B)** Notwithstanding subparagraph (A), the total annual payment to a certified State or Indian tribe under this subsection for fiscal year 2014 shall not be more than $28,000,000 and for fiscal year 2015 shall not be more than $75,000,000.
+    - **(C)** If the total annual payment to a certified State or Indian tribe under paragraphs (1) and (2) is limited by subparagraph (B), the Secretary shall—
+      - **(i)** give priority to making payments under paragraph (2); and
+      - **(ii)** use any remaining funds to make payments under paragraph (1).

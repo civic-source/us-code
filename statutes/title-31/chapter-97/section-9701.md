@@ -3,9 +3,9 @@ title: "Section 9701 - Fees and charges for Government services and things of va
 usc_title: 31
 usc_section: "9701"
 chapter: 97
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "31 U.S.C. § 9701"
-generated_at: "2026-03-30T03:11:11.393Z"
+generated_at: "2026-03-30T03:13:48.956Z"
 status: "active"
 ---
 

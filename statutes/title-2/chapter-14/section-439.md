@@ -3,9 +3,9 @@ title: "Section 439 - Statements filed with State officers; “appropriate State
 usc_title: 2
 usc_section: "439"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 439"
-generated_at: "2026-03-30T03:09:51.247Z"
+generated_at: "2026-03-30T03:12:02.403Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4713 - Incentives for depository institution participation"
 usc_title: 12
 usc_section: "4713"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 4713"
-generated_at: "2026-03-30T03:10:09.825Z"
+generated_at: "2026-03-30T03:12:30.366Z"
 status: "active"
 ---
 
@@ -34,6 +34,7 @@ status: "active"
     - **“(A)** with respect to qualifying activities described in paragraph (2)(A), the amount which is equal to—
       - **“(i)** 5 percent of the sum of the amounts determined under such subparagraph, in the case of an institution which is not a community development financial institution; or
       - **“(ii)** 15 percent of the sum of the amounts determined under such subparagraph, in the case of an institution which is a community development financial institution; and
+    - **“(B)** with respect to qualifying activities described in paragraph (2)(C), 15 percent of the amounts determined under such subparagraph.”
   - **(3)** Section 233(a)(5) of the Bank Enterprise Act of 1991 [ 12 U.S.C. 1834a(a)(5) ] shall be applied for purposes of this section by—
     - **(A)** substituting “institutions which are community development financial institutions” for “institutions which meet the community development organization requirements under section 234 [ 12 U.S.C. 1834b ]”; and
     - **(B)** substituting “institutions which are not community development financial institutions” for “institutions which do not meet such requirements”.

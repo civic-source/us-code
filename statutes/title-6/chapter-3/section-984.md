@@ -3,9 +3,9 @@ title: "Section 984 - Pilot program to improve the security of empty containers"
 usc_title: 6
 usc_section: "984"
 chapter: 3
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "6 U.S.C. § 984"
-generated_at: "2026-03-30T03:09:53.447Z"
+generated_at: "2026-03-30T03:12:06.048Z"
 status: "active"
 ---
 

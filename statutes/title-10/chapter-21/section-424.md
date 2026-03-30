@@ -3,9 +3,9 @@ title: "Section 424 - Disclosure of organizational and personnel information: ex
 usc_title: 10
 usc_section: "424"
 chapter: 21
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 424"
-generated_at: "2026-03-30T03:10:02.977Z"
+generated_at: "2026-03-30T03:12:15.107Z"
 status: "active"
 ---
 

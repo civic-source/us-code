@@ -3,9 +3,9 @@ title: "Section 653 - Analysis by Congressional Budget Office"
 usc_title: 2
 usc_section: "653"
 chapter: 17
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 653"
-generated_at: "2026-03-30T03:09:51.253Z"
+generated_at: "2026-03-30T03:12:02.410Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ The Director of the Congressional Budget Office shall, to the extent practicable
 
   - **(1)** an estimate of the costs which would be incurred in carrying out such bill or resolution in the fiscal year in which it is to become effective and in each of the 4 fiscal years following such fiscal year, together with the basis for each such estimate;
   - **(2)** a comparison of the estimates of costs described in paragraph (1) with any available estimates of costs made by such committee or by any Federal agency; and
-  - **(3)** a description of each method for establishing a Federal financial commitment contained in such bill or resolution. The estimates, comparison, and description so submitted shall be included in the report accompanying such bill or resolution if timely submitted to such committee before such report is filed.
+  - **(3)** a description of each method for establishing a Federal financial commitment contained in such bill or resolution.

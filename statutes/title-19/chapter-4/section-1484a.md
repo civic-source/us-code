@@ -3,9 +3,9 @@ title: "Section 1484a - Articles returned from space not to be construed as impo
 usc_title: 19
 usc_section: "1484a"
 chapter: 4
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "19 U.S.C. § 1484a"
-generated_at: "2026-03-30T03:10:25.178Z"
+generated_at: "2026-03-30T03:12:39.153Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ The return of articles from space shall not be considered an importation, and an
     - **(B)** in substantial part by United States persons, or
     - **(C)** by the United States;
   - **(2)** such articles were maintained or utilized while in space solely on board such spacecraft or aboard another spacecraft which meets the requirements of paragraph (1)(A) through (C) of this section; and
-  - **(3)** such articles were returned to the customs territory directly from space aboard such spacecraft or aboard another spacecraft which meets the requirements of paragraph (1)(A) through (C) of this section; without regard to whether such articles have been advanced in value or improved in condition by any process of manufacture or other means while in space.
+  - **(3)** such articles were returned to the customs territory directly from space aboard such spacecraft or aboard another spacecraft which meets the requirements of paragraph (1)(A) through (C) of this section;

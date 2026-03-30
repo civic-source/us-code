@@ -3,9 +3,9 @@ title: "Section 15307 - Tribal participation"
 usc_title: 40
 usc_section: "15307"
 chapter: 2
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "40 U.S.C. § 15307"
-generated_at: "2026-03-30T03:11:16.245Z"
+generated_at: "2026-03-30T03:14:01.767Z"
 status: "active"
 ---
 

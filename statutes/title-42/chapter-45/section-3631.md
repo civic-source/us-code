@@ -3,9 +3,9 @@ title: "Section 3631 - Violations; penalties"
 usc_title: 42
 usc_section: "3631"
 chapter: 45
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 3631"
-generated_at: "2026-03-30T03:11:40.334Z"
+generated_at: "2026-03-30T03:14:51.825Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ Whoever, whether or not acting under color of law, by force or threat of force w
 - **(b)** any person because he is or has been, or in order to intimidate such person or any other person or any class of persons from—
   - **(1)** participating, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in section 3602 of this title ), familial status (as such term is defined in section 3602 of this title ), or national origin, in any of the activities, services, organizations or facilities described in subsection (a) of this section; or
   - **(2)** affording another person or class of persons opportunity or protection so to participate; or
-- **(c)** any citizen because he is or has been, or in order to discourage such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in section 3602 of this title ), familial status (as such term is defined in section 3602 of this title ), or national origin, in any of the activities, services, organizations or facilities described in subsection (a) of this section, or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate— shall be fined under title 18 or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under title 18 or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under title 18 or imprisoned for any term of years or for life, or both.
+- **(c)** any citizen because he is or has been, or in order to discourage such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in section 3602 of this title ), familial status (as such term is defined in section 3602 of this title ), or national origin, in any of the activities, services, organizations or facilities described in subsection (a) of this section, or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—

@@ -3,9 +3,9 @@ title: "Section 2489 - Overseas commissary and exchange stores: access and purch
 usc_title: 10
 usc_section: "2489"
 chapter: 147
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 2489"
-generated_at: "2026-03-30T03:10:03.045Z"
+generated_at: "2026-03-30T03:12:15.178Z"
 status: "active"
 ---
 

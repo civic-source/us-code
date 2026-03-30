@@ -3,9 +3,9 @@ title: "Section 5673 - Withholding"
 usc_title: 42
 usc_section: "5673"
 chapter: 72
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 5673"
-generated_at: "2026-03-30T03:11:40.383Z"
+generated_at: "2026-03-30T03:14:51.882Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Whenever the Administrator, after giving reasonable notice and opportunity for hearing to a recipient of financial assistance under this subchapter, finds that—
 
   - **(1)** the program or activity for which the grant or contract involved was made has been so changed that it no longer complies with this subchapter; or
-  - **(2)** in the operation of such program or activity there is failure to comply substantially with any provision of this subchapter; the Administrator shall initiate such proceedings as are appropriate.
+  - **(2)** in the operation of such program or activity there is failure to comply substantially with any provision of this subchapter;

@@ -3,9 +3,9 @@ title: "Section 17243 - Bright Tomorrow Lighting Prizes"
 usc_title: 42
 usc_section: "17243"
 chapter: 152
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 17243"
-generated_at: "2026-03-30T03:11:40.620Z"
+generated_at: "2026-03-30T03:14:52.143Z"
 status: "active"
 ---
 

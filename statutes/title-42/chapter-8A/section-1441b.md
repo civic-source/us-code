@@ -3,9 +3,9 @@ title: "Section 1441b - Plan for elimination of all substandard housing and real
 usc_title: 42
 usc_section: "1441b"
 chapter: 8
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1441b"
-generated_at: "2026-03-30T03:11:40.248Z"
+generated_at: "2026-03-30T03:14:51.734Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ Not later than January 15, 1969 , the President shall make a report to the Congr
   - **(2)** indicate the reduction in the number of occupied substandard housing units which it is anticipated will have to occur during each fiscal year of the ten-year period in order to achieve the objectives of the plan;
   - **(3)** provide an estimate of the cost of carrying out the plan for each of the various Federal programs and for each fiscal year during the ten-year period to the extent that such costs will be reflected in the Federal budget;
   - **(4)** make recommendations with respect to the legislative and administrative actions necessary or desirable to achieve the objectives of the plan; and
-  - **(5)** provide such other pertinent data, estimates, and recommendations as the President deems advisable. Such report shall, in addition, contain a projection of the residential mortgage market needs and prospects during the coming year, including an estimate of the requirements with respect to the availability, need, and flow of mortgage funds (particularly in declining urban and rural areas) during such year, together with such recommendations as may be deemed appropriate for encouraging the availability of such funds.
+  - **(5)** provide such other pertinent data, estimates, and recommendations as the President deems advisable.

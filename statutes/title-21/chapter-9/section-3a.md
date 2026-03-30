@@ -3,9 +3,9 @@ title: "Section 3a - Emergency use of medical products"
 usc_title: 21
 usc_section: "3a"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "21 U.S.C. § 3a"
-generated_at: "2026-03-30T03:10:45.015Z"
+generated_at: "2026-03-30T03:12:53.380Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
 - **(c)**
   - **(1)** The Secretary may, when the circumstances of a domestic, military, or public health emergency or material threat described in subsection (a)(1)(C) so warrant, authorize, with respect to an eligible product, deviations from current good manufacturing practice requirements otherwise applicable to the manufacture, processing, packing, or holding of products subject to regulation under this chapter, including requirements under section 351 or 360j(f)(1) of this title or applicable conditions prescribed with respect to the eligible product by an order under section 360j(f)(2) of this title .
   - **(2)** Notwithstanding any other provision of this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.], an eligible product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title ) and shall not be deemed adulterated or misbranded under this chapter because, with respect to such product, the Secretary has authorized deviations from current good manufacturing practices under paragraph (1).
-- **(d)** The requirements of sections 353 and 360j(e) of this title shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title ) and shall not be deemed adulterated or misbranded under this chapter because it is dispensed without an individual prescription, if—
+- **(d)** The requirements of sections 353(b) and 360j(e) of this title shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title ) and shall not be deemed adulterated or misbranded under this chapter because it is dispensed without an individual prescription, if—
   - **(1)** the product is dispensed during the circumstances described in subsection (a)(1)(C); and
   - **(2)** such dispensing without an individual prescription occurs—
     - **(A)** as permitted under the law of the State in which the product is dispensed; or

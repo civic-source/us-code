@@ -3,9 +3,9 @@ title: "Section 31 - Compensation of Members of Congress"
 usc_title: 2
 usc_section: "31"
 chapter: 3
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 31"
-generated_at: "2026-03-30T03:09:51.225Z"
+generated_at: "2026-03-30T03:12:02.378Z"
 status: "active"
 ---
 

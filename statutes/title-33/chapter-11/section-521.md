@@ -3,9 +3,9 @@ title: "Section 521 - Regulations and orders"
 usc_title: 33
 usc_section: "521"
 chapter: 11
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 521"
-generated_at: "2026-03-30T03:11:12.217Z"
+generated_at: "2026-03-30T03:13:40.511Z"
 status: "active"
 ---
 

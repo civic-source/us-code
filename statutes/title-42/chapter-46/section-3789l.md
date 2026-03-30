@@ -3,9 +3,9 @@ title: "Section 3789l - Indian liability waiver"
 usc_title: 42
 usc_section: "3789l"
 chapter: 46
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 3789l"
-generated_at: "2026-03-30T03:11:40.337Z"
+generated_at: "2026-03-30T03:14:51.831Z"
 status: "active"
 ---
 

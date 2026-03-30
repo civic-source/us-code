@@ -3,9 +3,9 @@ title: "Section 2102 - Limitations on assistance furnished"
 usc_title: 38
 usc_section: "2102"
 chapter: 21
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 2102"
-generated_at: "2026-03-30T03:11:17.757Z"
+generated_at: "2026-03-30T03:14:12.961Z"
 status: "active"
 ---
 

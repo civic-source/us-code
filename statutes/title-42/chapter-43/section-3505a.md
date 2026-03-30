@@ -3,9 +3,9 @@ title: "Section 3505a - Office of Population Affairs; establishment; Deputy Assi
 usc_title: 42
 usc_section: "3505a"
 chapter: 43
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 3505a"
-generated_at: "2026-03-30T03:11:40.329Z"
+generated_at: "2026-03-30T03:14:51.821Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3293 - Financial institution offenses"
 usc_title: 18
 usc_section: "3293"
 chapter: 213
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 3293"
-generated_at: "2026-03-30T03:10:19.997Z"
+generated_at: "2026-03-30T03:12:44.466Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ No person shall be prosecuted, tried, or punished for a violation of, or a consp
 
   - **(1)** section 215, 656, 657, 1005, 1006, 1007, 1014, 1033, or 1344;
   - **(2)** section 1341 or 1343, if the offense affects a financial institution; or
-  - **(3)** section 1963, to the extent that the racketeering activity involves a violation of section 1344; unless the indictment is returned or the information is filed within 10 years after the commission of the offense.
+  - **(3)** section 1963, to the extent that the racketeering activity involves a violation of section 1344;

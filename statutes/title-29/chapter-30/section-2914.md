@@ -3,9 +3,9 @@ title: "Section 2914 - Youth opportunity grants"
 usc_title: 29
 usc_section: "2914"
 chapter: 30
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "29 U.S.C. § 2914"
-generated_at: "2026-03-30T03:10:49.049Z"
+generated_at: "2026-03-30T03:13:29.161Z"
 status: "active"
 ---
 

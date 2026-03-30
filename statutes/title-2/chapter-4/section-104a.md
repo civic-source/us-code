@@ -3,9 +3,9 @@ title: "Section 104a - Semiannual statements of expenditures by Secretary of Sen
 usc_title: 2
 usc_section: "104a"
 chapter: 4
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 104a"
-generated_at: "2026-03-30T03:09:51.235Z"
+generated_at: "2026-03-30T03:12:02.388Z"
 status: "active"
 ---
 
@@ -24,6 +24,3 @@ status: "active"
     - **(B)** Subparagraph (A) shall not apply to the reporting of expenditures relating to personnel compensation, travel and transportation of persons, other contractual services, and acquisition of assets.
     - **(C)** In carrying out this paragraph the Secretary of the Senate shall apply the Standard Federal Object Classification of Expenses as the Secretary determines appropriate.
   - **(6)** Beginning with the report covering the first full semiannual period of the 112th Congress, the Secretary of the Senate—
-        - **(1)** shall publicly post on-line on the website of the Senate each report in a searchable, itemized format as required under this section;
-        - **(2)** shall issue each report required under this section in electronic form; and
-        - **(3)** may issue each report required under this section in other forms at the discretion of the Secretary of the Senate.

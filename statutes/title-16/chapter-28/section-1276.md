@@ -3,9 +3,9 @@ title: "Section 1276 - Rivers constituting potential additions to national wild 
 usc_title: 16
 usc_section: "1276"
 chapter: 28
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 1276"
-generated_at: "2026-03-30T03:10:27.245Z"
+generated_at: "2026-03-30T03:12:42.284Z"
 status: "active"
 ---
 
@@ -105,8 +105,8 @@ status: "active"
   - **(91)** The North Umpqua, Oregon: The segment from the Soda Springs Powerhouse to the confluence of Rock Creek. The provisions of section 1278(a) of this title shall apply to tributary Steamboat Creek in the same manner as such provisions apply to the rivers referred to in such section 1278(a) of this title . The Secretary of Agriculture shall, in the Umpqua National Forest plan, provide that management practices for Steamboat Creek and its immediate environment conserve, protect, and enhance the anadromous fish habitat and population.
   - **(92)** Farmington, West Branch, Connecticut and Massachusetts: The segment from the intersection of the New Hartford-Canton, Connecticut, town line upstream to the base of the West Branch Reservoir in Hartland, Connecticut; and the segment from the confluence with Thorp Brook in Sandisfield, Massachusetts, to Hayden Pond in Otis, Massachusetts.
   - **(93)** Great Egg Harbor River, New Jersey: The entire river.
-  - **(94)**
-  - **(95)**
+  - **(94)** The segment from the southern boundary of the Yakima Indian Reservation, Washington, as described in the Treaty with the Yakimas of 1855 ( 12 Stat. 951 ), and as acknowledged by the Indian Claims Commission in Yakima Tribe of Indians v. U.S., 16 Ind. Cl. Comm. 536 (1966), to its confluence with the Little Klickitat River, Washington: Provided , That said study shall be carried on in consultation with the Yakima Indian Nation and shall include a determination of the degree to which the Yakima Indian Nation should participate in the preservation and administration of the river segment should it be proposed for inclusion in the Wild and Scenic Rivers system.
+  - **(95)** The segment from its confluence with Trout Lake Creek, Washington, to its confluence with Gilmer Creek, Washington, near the town of B Z Corner, Washington.
   - **(96)** The segment from Shell Pile to the point three miles north of Laurel Lake.
   - **(97)** The segment from its confluence with the Maurice River to the crossing of State Route 49.
   - **(98)** The segment from its confluence with the Maurice River to its source.
@@ -119,7 +119,7 @@ status: "active"
   - **(105)** The segment from its confluence with the Minam River to its confluence with the Grande Ronde River; by the Secretary of Agriculture.
   - **(106)** The segment from its origin at the confluence of the Pemigewasset and Winnipesaukee Rivers in Franklin, New Hampshire, to the backwater impoundment at Hooksett Dam, excluding the Garvins Falls Dam and its impoundment.
   - **(107)** The segments from Profile Lake downstream to the southern boundary of the Franconia Notch State Park and from the northern Thornton town-line downstream to the backwater of the Ayers Island Dam; by the Secretary of the Interior.
-  - **(108)** The segment from its headwaters to its confluence with the Bells River.
+  - **(108)** Marys River, Florida and Georgia .—The segment from its headwaters to its confluence with the Bells River.
   - **(109)** The North Fork from the bottom of the spillway of the Hendersonville Reservoir downstream to its confluence with the South Fork; the South Fork from its confluence with the Pigeon Branch downstream to its confluence with the North Fork; and the main stem from the confluence of the North and South Forks downstream to a point 750 feet upstream from the centerline of North Carolina Highway 191/280.
   - **(110)** The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990 .
   - **(111)** The 6-mile segment of the river from its confluence with Chimney Creek to its confluence with Rock Creek.

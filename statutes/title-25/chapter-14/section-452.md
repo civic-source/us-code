@@ -3,9 +3,9 @@ title: "Section 452 - Contracts for education, medical attention, relief and soc
 usc_title: 25
 usc_section: "452"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 452"
-generated_at: "2026-03-30T03:10:32.877Z"
+generated_at: "2026-03-30T03:13:04.414Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4806 - Protection of foreign consulates"
 usc_title: 22
 usc_section: "4806"
 chapter: 58
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 4806"
-generated_at: "2026-03-30T03:10:34.739Z"
+generated_at: "2026-03-30T03:12:56.219Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 171 - Congressional declaration of findings and purpose as to Ce
 usc_title: 2
 usc_section: "171"
 chapter: 5
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 171"
-generated_at: "2026-03-30T03:09:51.240Z"
+generated_at: "2026-03-30T03:12:02.393Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ The Congress hereby finds and declares—
   - **(4)** that the Congress of the United States has through statute and appropriations made this library accessible to any member of the public;
   - **(5)** that this collection of books and other library materials has now become one of the greatest libraries in civilization;
   - **(6)** that the book and the printed word have had the most profound influence on American civilization and learning and have been the very foundation on which our democratic principles have survived through our two hundred-year history;
-  - **(7)** that in the year 1977, the Congress of the United States assembled hereby declares its reaffirmation of the importance of the printed word and the book and recognizes the importance of a Center for the Book to the continued study and development of written record as central to our understanding of ourselves and our world. It is therefore the purpose of sections 171 to 175 of this title to establish a Center for the Book in the Library of Congress to provide a program for the investigation of the transmission of human knowledge and to heighten public interest in the role of books and printing in the diffusion of this knowledge.
+  - **(7)** that in the year 1977, the Congress of the United States assembled hereby declares its reaffirmation of the importance of the printed word and the book and recognizes the importance of a Center for the Book to the continued study and development of written record as central to our understanding of ourselves and our world.

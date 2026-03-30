@@ -3,9 +3,9 @@ title: "Section 346e - Authorization for park facilities to be located outside t
 usc_title: 16
 usc_section: "346e"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 346e"
-generated_at: "2026-03-30T03:10:27.099Z"
+generated_at: "2026-03-30T03:12:42.150Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ In order to facilitate the administration of Zion National Park and Yosemite Nat
 
   - **(1)** avoid undue degradation of natural or cultural resources within the park;
   - **(2)** enhance service to the public; or
-  - **(3)** provide a cost saving to the Federal Government. The Secretary is authorized to enter into cooperative agreements with State or local governments or private entities to undertake the authority granted under this section. The Secretary is encouraged to identify and utilize funding sources to supplement any Federal funding used for these facilities.
+  - **(3)** provide a cost saving to the Federal Government.

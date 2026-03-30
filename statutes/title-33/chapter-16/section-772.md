@@ -3,9 +3,9 @@ title: "Section 772 - Death of employee due to non-service-connected causes afte
 usc_title: 33
 usc_section: "772"
 chapter: 16
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 772"
-generated_at: "2026-03-30T03:11:12.227Z"
+generated_at: "2026-03-30T03:13:40.522Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Where—
 
   - **(1)** any employee of the Lighthouse Service has died or shall hereafter die from non-service-connected causes after fifteen or more years of employment in such service, and
-  - **(2)** the surviving spouse of the employee has not since remarried, the surviving spouse, so long as the surviving spouse does not marry, shall be paid $100 per month by the Secretary of Transportation.
+  - **(2)** the surviving spouse of the employee has not since remarried,

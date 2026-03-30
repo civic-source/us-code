@@ -3,9 +3,9 @@ title: "Section 6103 - Confidentiality and disclosure of returns and return info
 usc_title: 26
 usc_section: "6103"
 chapter: 61
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 6103"
-generated_at: "2026-03-30T03:11:08.852Z"
+generated_at: "2026-03-30T03:13:21.909Z"
 status: "active"
 ---
 
@@ -338,7 +338,8 @@ status: "active"
       - **(iii)** the amount of such reduction,
       - **(iv)** whether such taxpayer filed a joint return, and
       - **(v)** the fact that a payment was made (and the amount of the payment) to the spouse of the taxpayer on the basis of a joint return.
-    - **(B)** Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
+    - **(B)**
+      - **(i)** Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
       - **(ii)** Notwithstanding clause (i), return information disclosed to officers and employees of the Department of Labor may be accessed by agents who maintain and provide technological support to the Department of Labor’s Interstate Connection Network (ICON) solely for the purpose of providing such maintenance and support.
   - **(11)**
     - **(A)** The Commissioner of Social Security shall, on written request, disclose to the Office of Personnel Management return information from returns with respect to net earnings from self-employment (as defined in section 1402), wages (as defined in section 3121(a) or 3401(a)), and payments of retirement income, which have been disclosed to the Social Security Administration as provided by paragraph (1) or (5).

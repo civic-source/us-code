@@ -3,9 +3,9 @@ title: "Section 1818 - Termination of status as insured depository institution"
 usc_title: 12
 usc_section: "1818"
 chapter: 16
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 1818"
-generated_at: "2026-03-30T03:10:09.763Z"
+generated_at: "2026-03-30T03:12:30.302Z"
 status: "active"
 ---
 
@@ -169,8 +169,8 @@ status: "active"
       - **(ii)** In the case of a judgment of conviction or agreement against an institution-affiliated party in connection with a violation described in subparagraph (A)(ii), the appropriate Federal banking agency shall issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of any depository institution without the prior written consent of the appropriate agency.
     - **(D)**
       - **(i)** A copy of any order under subparagraph (C) shall also be served upon any depository institution that the subject of the order is affiliated with at the time the order is issued, whereupon the institution-affiliated party who is subject to the order (if a director or an officer) shall cease to be a director or officer of such depository institution.
-      - **(ii)**
-      - **(iii)**
+      - **(ii)** A finding of not guilty or other disposition of the charge shall not preclude the agency from instituting proceedings after such finding or disposition to remove such party from office or to prohibit further participation in depository institution affairs, pursuant to paragraph (1), (2), or (3) of subsection (e) of this section.
+      - **(iii)** Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) unless terminated by the agency.
     - **(E)** For purposes of this subsection, the term “relevant depository institution” means any depository institution of which the party is or was an institution-affiliated party at the time at which—
       - **(i)** the information, indictment, or complaint described in subparagraph (A) was issued; or
       - **(ii)** the notice is issued under subparagraph (A) or the order is issued under subparagraph (C)(i).

@@ -3,9 +3,9 @@ title: "Section 5505 - Monthly pay periods; computation of pay"
 usc_title: 5
 usc_section: "5505"
 chapter: 55
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "5 U.S.C. § 5505"
-generated_at: "2026-03-30T03:09:48.946Z"
+generated_at: "2026-03-30T03:12:04.069Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ The pay period for an individual in the service of the United States whose pay i
   - **(1)** A month’s pay is one-twelfth of a year’s pay.
   - **(2)** A day’s pay is one-thirtieth of a month’s pay.
   - **(3)** The 31st day of a calendar month is ignored in computing pay, except that one day’s pay is forfeited for one day’s unauthorized absence on the 31st day of a calendar month.
-  - **(4)** For each day of the month elapsing before entering the service, one day’s pay is deducted from the first month’s pay of the individual. This section does not apply to an employee whose pay is computed under section 5504(b) of this title .
+  - **(4)** For each day of the month elapsing before entering the service, one day’s pay is deducted from the first month’s pay of the individual.

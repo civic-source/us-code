@@ -3,9 +3,9 @@ title: "Section 70107 - Restrictions"
 usc_title: 36
 usc_section: "70107"
 chapter: 701
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "36 U.S.C. § 70107"
-generated_at: "2026-03-30T03:11:15.029Z"
+generated_at: "2026-03-30T03:13:54.247Z"
 status: "active"
 ---
 

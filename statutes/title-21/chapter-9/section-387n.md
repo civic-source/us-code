@@ -3,9 +3,9 @@ title: "Section 387n - Jurisdiction of and coordination with the Federal Trade C
 usc_title: 21
 usc_section: "387n"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "21 U.S.C. § 387n"
-generated_at: "2026-03-30T03:10:45.032Z"
+generated_at: "2026-03-30T03:12:53.396Z"
 status: "active"
 ---
 

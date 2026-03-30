@@ -3,9 +3,9 @@ title: "Section 15027 - Withholding of payments for planning, administration, an
 usc_title: 42
 usc_section: "15027"
 chapter: 144
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 15027"
-generated_at: "2026-03-30T03:11:40.584Z"
+generated_at: "2026-03-30T03:14:52.104Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Whenever the Secretary, after providing reasonable notice and an opportunity for a hearing to the Council and the designated State agency, finds that—
 
   - **(1)** the Council or agency has failed to comply substantially with any of the provisions required by section 15024 of this title to be included in the State plan, particularly provisions required by paragraphs (4)(A) and (5)(B)(vii) of section 15024(c) of this title , or with any of the provisions required by section 15025(b)(3) of this title ; or
-  - **(2)** the Council or agency has failed to comply substantially with any regulations of the Secretary that are applicable to this part, the Secretary shall notify such Council and agency that the Secretary will not make further payments to the State under section 15022 of this title (or, in the discretion of the Secretary, that further payments to the State under section 15022 of this title for activities for which there is such failure), until the Secretary is satisfied that there will no longer be such failure. Until the Secretary is so satisfied, the Secretary shall make no further payments to the State under section 15022 of this title , or shall limit further payments under section 15022 of this title to such State to activities for which there is no such failure.
+  - **(2)** the Council or agency has failed to comply substantially with any regulations of the Secretary that are applicable to this part,

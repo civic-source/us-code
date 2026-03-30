@@ -3,9 +3,9 @@ title: "Section 892 - Art. 92. Failure to obey order or regulation"
 usc_title: 10
 usc_section: "892"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 892"
-generated_at: "2026-03-30T03:10:02.990Z"
+generated_at: "2026-03-30T03:12:15.120Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Any person subject to this chapter who—
 
   - **(1)** violates or fails to obey any lawful general order or regulation;
   - **(2)** having knowledge of any other lawful order issued by a member of the armed forces, which it is his duty to obey, fails to obey the order; or
-  - **(3)** is derelict in the performance of his duties; shall be punished as a court-martial may direct.
+  - **(3)** is derelict in the performance of his duties;

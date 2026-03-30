@@ -3,9 +3,9 @@ title: "Section 5843 - Records and returns"
 usc_title: 26
 usc_section: "5843"
 chapter: 53
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 5843"
-generated_at: "2026-03-30T03:11:08.843Z"
+generated_at: "2026-03-30T03:13:21.899Z"
 status: "active"
 ---
 

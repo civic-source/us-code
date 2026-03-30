@@ -3,9 +3,9 @@ title: "Section 31502 - Requirements for qualifications, hours of service, safet
 usc_title: 49
 usc_section: "31502"
 chapter: 315
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 31502"
-generated_at: "2026-03-30T03:11:48.101Z"
+generated_at: "2026-03-30T03:15:03.332Z"
 status: "active"
 ---
 

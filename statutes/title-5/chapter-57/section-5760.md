@@ -3,9 +3,9 @@ title: "Section 5760 - Travel and transportation allowances: transportation of f
 usc_title: 5
 usc_section: "5760"
 chapter: 57
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "5 U.S.C. § 5760"
-generated_at: "2026-03-30T03:09:48.952Z"
+generated_at: "2026-03-30T03:12:04.074Z"
 status: "active"
 ---
 

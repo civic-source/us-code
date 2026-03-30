@@ -3,9 +3,9 @@ title: "Section 404 - Deduction for contributions of an employer to an employees
 usc_title: 26
 usc_section: "404"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 404"
-generated_at: "2026-03-30T03:11:08.709Z"
+generated_at: "2026-03-30T03:13:21.743Z"
 status: "active"
 ---
 
@@ -105,6 +105,7 @@ status: "active"
     - **(C)** The amount deductible in a taxable year for a simplified employee pension shall not exceed 25 percent of the compensation paid to the employees during the calendar year ending with or within the taxable year (or during the taxable year in the case of a taxable year described in subparagraph (A)(ii)). The excess of the amount contributed over the amount deductible for a taxable year shall be deductible in the succeeding taxable years in order of time, subject to the 25 percent limit of the preceding sentence.
   - **(2)** For any taxable year for which the employer has a deduction under paragraph (1), the otherwise applicable limitations in subsection (a)(3)(A) shall be reduced by the amount of the allowable deductions under paragraph (1) with respect to participants in the trust subject to subsection (a)(3)(A).
   - **(3)** For purposes of subsection (a)(7), a simplified employee pension shall be treated as if it were a separate stock bonus or profit-sharing trust.
+- **[(i)**
 - **(j)**
   - **(1)** In computing the amount of any deduction allowable under paragraph (1), (2), (3), (4), (7), or (9) of subsection (a) for any year—
     - **(A)** in the case of a defined benefit plan, there shall not be taken into account any benefits for any year in excess of any limitation on such benefits under section 415 for such year, or

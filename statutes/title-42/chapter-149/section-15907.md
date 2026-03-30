@@ -3,9 +3,9 @@ title: "Section 15907 - Orphaned, abandoned, or idled wells on Federal land"
 usc_title: 42
 usc_section: "15907"
 chapter: 149
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 15907"
-generated_at: "2026-03-30T03:11:40.595Z"
+generated_at: "2026-03-30T03:14:52.117Z"
 status: "active"
 ---
 
@@ -44,3 +44,4 @@ status: "active"
 - **(h)**
   - **(1)** There are authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2006 through 2010.
   - **(2)** Of the amounts authorized under paragraph (1), $5,000,000 are authorized for each fiscal year for activities under subsection (f).
+- **(i)** Out of any amounts in the Treasury not otherwise appropriated, $10,000,000 for fiscal year 2014, $36,000,000 for fiscal year 2015, and $4,000,000 for fiscal year 2019 shall be made available to the Secretary, without further appropriation and to remain available until expended, to remediate, reclaim, and close abandoned oil and gas wells on current or former National Petroleum Reserve land.

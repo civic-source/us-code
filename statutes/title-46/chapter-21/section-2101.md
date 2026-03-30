@@ -3,9 +3,9 @@ title: "Section 2101 - General definitions"
 usc_title: 46
 usc_section: "2101"
 chapter: 21
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "46 U.S.C. § 2101"
-generated_at: "2026-03-30T03:11:46.109Z"
+generated_at: "2026-03-30T03:15:00.456Z"
 status: "active"
 ---
 
@@ -18,6 +18,7 @@ In this subtitle—
       - **(i)** a system, accessory, component, or appurtenance of a recreational vessel; or
       - **(ii)** a marine safety article intended for use on board a recreational vessel; but
     - **(B)** with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes, does not include radio equipment.
+  - **[(2)** to (3a) Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
   - **(4)** “Coast Guard” means the organization established and continued under section 1 of title 14 .
   - **(5)** “commercial service” includes any type of trade or business involving the transportation of goods or individuals, except service performed by a combatant vessel. (5a) “consideration” means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual, person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
   - **[(6)** Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
@@ -115,6 +116,7 @@ In this subtitle—
     - **(C)** that is chartered with no crew provided or specified by the owner or the owner’s representative and carrying more than 12 passengers;
     - **(D)** that is a submersible vessel carrying at least one passenger for hire; or
     - **(E)** that is a ferry carrying more than 6 passengers.
+  - **[(36)** Repealed. Pub. L. 109–304, § 15(2)(A) , Oct. 6, 2006 , 120 Stat. 1702 .]
   - **(37)** “steam vessel” means a vessel propelled in whole or in part by steam, except a recreational vessel of not more than 40 feet in length. (37a) “submersible vessel” means a vessel that is capable of operating below the surface of the water.
   - **(38)** “tanker” means a self-propelled tank vessel constructed or adapted primarily to carry oil or hazardous material in bulk in the cargo spaces.
   - **(39)** “tank vessel” means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—

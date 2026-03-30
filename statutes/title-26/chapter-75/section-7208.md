@@ -3,9 +3,9 @@ title: "Section 7208 - Offenses relating to stamps"
 usc_title: 26
 usc_section: "7208"
 chapter: 75
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 7208"
-generated_at: "2026-03-30T03:11:08.877Z"
+generated_at: "2026-03-30T03:13:21.939Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ Any person who—
     - **(A)** Willfully removes, or alters the cancellation or defacing marks of, or otherwise prepares, any adhesive stamp, with intent to use, or cause the same to be used, after it has already been used; or
     - **(B)** Knowingly or willfully buys, sells, offers for sale, or gives away, any such washed or restored stamp to any person for use, or knowingly uses the same; or
     - **(C)** Knowingly and without lawful excuse (the burden of proof of such excuse being on the accused) has in possession any washed, restored, altered stamp, which has been removed from any vellum, parchment, paper, instrument, writing, package, or article; or
-  - **(5)** Commits the offense described in section 7271 (relating to disposal and receipt of stamped packages) with intent to defraud the revenue, or to defraud any person; shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both.
+  - **(5)** Commits the offense described in section 7271 (relating to disposal and receipt of stamped packages) with intent to defraud the revenue, or to defraud any person;

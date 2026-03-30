@@ -3,9 +3,9 @@ title: "Section 2815 - Repealed. Pub. L. 112–81, div. A, title X, § 1061(23)(
 usc_title: 10
 usc_section: "2815"
 chapter: 169
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 2815"
-generated_at: "2026-03-30T03:10:03.057Z"
+generated_at: "2026-03-30T03:12:15.190Z"
 status: "repealed"
 ---
 

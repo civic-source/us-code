@@ -1,0 +1,13 @@
+---
+title: "Section 837838 - Repealed. Pub. L. 105–178, title VII, § 7203(a)(2) , June 9, 1998 , 112 Stat. 477"
+usc_title: 45
+usc_section: "837838"
+chapter: 17
+current_through: "PL 113-44"
+classification: "45 U.S.C. § 837838"
+generated_at: "2026-03-30T03:14:25.804Z"
+status: "repealed"
+---
+
+# §§ 837, 838. Repealed. Pub. L. 105–178, title VII, § 7203(a)(2) , June 9, 1998 , 112 Stat. 477
+

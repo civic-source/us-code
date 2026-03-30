@@ -3,9 +3,9 @@ title: "Section 7215a - Administrative authority"
 usc_title: 20
 usc_section: "7215a"
 chapter: 70
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "20 U.S.C. § 7215a"
-generated_at: "2026-03-30T03:10:17.373Z"
+generated_at: "2026-03-30T03:12:49.539Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1035 - False statements relating to health care matters"
 usc_title: 18
 usc_section: "1035"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 1035"
-generated_at: "2026-03-30T03:10:19.972Z"
+generated_at: "2026-03-30T03:12:44.438Z"
 status: "active"
 ---
 

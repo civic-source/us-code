@@ -3,9 +3,9 @@ title: "Section 402 - Taxability of beneficiary of employees’ trust"
 usc_title: 26
 usc_section: "402"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 402"
-generated_at: "2026-03-30T03:11:08.708Z"
+generated_at: "2026-03-30T03:13:21.741Z"
 status: "active"
 ---
 
@@ -101,6 +101,7 @@ status: "active"
     - **(E)** For purposes of this paragraph—
       - **(i)** The term “securities” means only shares of stock and bonds or debentures issued by a corporation with interest coupons or in registered form.
       - **(ii)** The term “securities of the employer corporation” includes securities of a parent or subsidiary corporation (as defined in subsections (e) and (f) of section 424) of the employer corporation.
+  - **[(5)**
   - **(6)** Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of such transfer.
 - **(f)**
   - **(1)** The plan administrator of any plan shall, within a reasonable period of time before making an eligible rollover distribution, provide a written explanation to the recipient—

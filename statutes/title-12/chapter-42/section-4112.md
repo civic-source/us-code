@@ -3,9 +3,9 @@ title: "Section 4112 - Criteria for approval of plan of action involving incenti
 usc_title: 12
 usc_section: "4112"
 chapter: 42
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 4112"
-generated_at: "2026-03-30T03:10:09.812Z"
+generated_at: "2026-03-30T03:12:30.352Z"
 status: "active"
 ---
 

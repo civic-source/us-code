@@ -3,9 +3,9 @@ title: "Section 1311 - Effluent limitations"
 usc_title: 33
 usc_section: "1311"
 chapter: 26
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 1311"
-generated_at: "2026-03-30T03:11:12.242Z"
+generated_at: "2026-03-30T03:13:40.536Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
   - **(3)**
     - **(A)** An application for a modification under subsection (g) of this section and a petition for listing of a pollutant as a pollutant for which modifications are authorized under such subsection shall not stay the requirement that the person seeking such modification or listing comply with effluent limitations under this chapter for all pollutants not the subject of such application or petition.
     - **(B)** Disapproval of an application for a modification under subsection (g) of this section shall not stay the requirement that the person seeking such modification comply with all applicable effluent limitations under this chapter.
-  - **(4)**
+  - **(4)** An application for a modification with respect to a pollutant filed under subsection (g) of this section must be approved or disapproved not later than 365 days after the date of such filing; except that in any case in which a petition for listing such pollutant as a pollutant for which modifications are authorized under such subsection is approved, such application must be approved or disapproved not later than 365 days after the date of approval of such petition.
   - **(5)**
     - **(A)** In the 180-day period beginning on October 31, 1994 , the city of San Diego, California, may apply for a modification pursuant to subsection (h) of this section of the requirements of subsection (b)(1)(B) of this section with respect to biological oxygen demand and total suspended solids in the effluent discharged into marine waters.
     - **(B)** An application under this paragraph shall include a commitment by the applicant to implement a waste water reclamation program that, at a minimum, will—

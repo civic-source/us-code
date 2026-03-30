@@ -3,9 +3,9 @@ title: "Section 7727 - Duration of stay"
 usc_title: 10
 usc_section: "7727"
 chapter: 657
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 7727"
-generated_at: "2026-03-30T03:10:03.080Z"
+generated_at: "2026-03-30T03:12:15.215Z"
 status: "active"
 ---
 

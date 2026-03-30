@@ -3,9 +3,9 @@ title: "Section 175 - Soil and water conservation expenditures; endangered speci
 usc_title: 26
 usc_section: "175"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 175"
-generated_at: "2026-03-30T03:11:08.686Z"
+generated_at: "2026-03-30T03:13:21.719Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(A)** Notwithstanding any other provision of this section, subsection (a) shall not apply to any expenditures unless such expenditures are consistent with—
       - **(i)** the plan (if any) approved by the Soil Conservation Service of the Department of Agriculture or the recovery plan approved pursuant to the Endangered Species Act of 1973 for the area in which the land is located, or
       - **(ii)** if there is no plan described in clause (i), any soil conservation plan of a comparable State agency.
-    - **(B)** Subsection (a) shall not apply to any expenditures in connection with the draining or filling of wetlands or land preparation for center pivot irrigation systems.
+    - **(B)** , activities not qualified .—Subsection (a) shall not apply to any expenditures in connection with the draining or filling of wetlands or land preparation for center pivot irrigation systems.
 - **(d)**
   - **(1)** A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for his first taxable year—
     - **(A)** which begins after December 31, 1953 , and ends after August 16, 1954 , and

@@ -3,9 +3,9 @@ title: "Section 13342 - Oil substitution through coal liquefaction"
 usc_title: 42
 usc_section: "13342"
 chapter: 134
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 13342"
-generated_at: "2026-03-30T03:11:40.559Z"
+generated_at: "2026-03-30T03:14:52.075Z"
 status: "active"
 ---
 

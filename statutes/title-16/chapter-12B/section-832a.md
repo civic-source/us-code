@@ -3,9 +3,9 @@ title: "Section 832a - General administrative provisions"
 usc_title: 16
 usc_section: "832a"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 832a"
-generated_at: "2026-03-30T03:10:27.225Z"
+generated_at: "2026-03-30T03:12:42.265Z"
 status: "active"
 ---
 

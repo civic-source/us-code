@@ -3,9 +3,9 @@ title: "Section 559b - Prevention of manufacture, etc., of marijuana and other c
 usc_title: 16
 usc_section: "559b"
 chapter: 3
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 559b"
-generated_at: "2026-03-30T03:10:27.189Z"
+generated_at: "2026-03-30T03:12:42.232Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4483 - Exemptions"
 usc_title: 26
 usc_section: "4483"
 chapter: 36
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 4483"
-generated_at: "2026-03-30T03:11:08.823Z"
+generated_at: "2026-03-30T03:13:21.875Z"
 status: "active"
 ---
 
@@ -43,6 +43,7 @@ status: "active"
 - **(e)** The tax imposed by section 4481 shall be reduced by 25 percent with respect to any highway motor vehicle if—
   - **(1)** the exclusive use of such vehicle during any taxable period is the transportation, to and from a point located on a forested site, of products harvested from such forested site, and
   - **(2)** such vehicle is registered (under the laws of the State in which such vehicle is required to be registered) as a highway motor vehicle used in the transportation of harvested forest products.
+- **[(f)**
 - **(g)** No tax shall be imposed by section 4481 on the use of any vehicle described in section 4053(8).
 - **(h)**
   - **(1)** No tax shall be imposed by section 4481 on the use of any qualified blood collector vehicle by a qualified blood collector organization.

@@ -3,9 +3,9 @@ title: "Section 101 - Certain death benefits"
 usc_title: 26
 usc_section: "101"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 101"
-generated_at: "2026-03-30T03:11:08.664Z"
+generated_at: "2026-03-30T03:13:21.693Z"
 status: "active"
 ---
 
@@ -16,6 +16,7 @@ status: "active"
   - **(2)** In the case of a transfer for a valuable consideration, by assignment or otherwise, of a life insurance contract or any interest therein, the amount excluded from gross income by paragraph (1) shall not exceed an amount equal to the sum of the actual value of such consideration and the premiums and other amounts subsequently paid by the transferee. The preceding sentence shall not apply in the case of such a transfer—
     - **(A)** if such contract or interest therein has a basis for determining gain or loss in the hands of a transferee determined in whole or in part by reference to such basis of such contract or interest therein in the hands of the transferor, or
     - **(B)** if such transfer is to the insured, to a partner of the insured, to a partnership in which the insured is a partner, or to a corporation in which the insured is a shareholder or officer.
+- **[(b)**
 - **(c)** If any amount excluded from gross income by subsection (a) is held under an agreement to pay interest thereon, the interest payments shall be included in gross income.
 - **(d)**
   - **(1)** The amounts held by an insurer with respect to any beneficiary shall be prorated (in accordance with such regulations as may be prescribed by the Secretary) over the period or periods with respect to which such payments are to be made. There shall be excluded from the gross income of such beneficiary in the taxable year received any amount determined by such proration. Gross income includes, to the extent not excluded by the preceding sentence, amounts received under agreements to which this subsection applies.
@@ -25,6 +26,7 @@ status: "active"
       - **(i)** as of the date of death of the insured (as if any option exercised under the life insurance contract were exercised at such time), and
       - **(ii)** as discounted on the basis of the interest rate used by the insurer in calculating payments under the agreement and mortality tables prescribed by the Secretary.
   - **(3)** This subsection shall not apply to any amount to which subsection (c) is applicable.
+- **[(e)**
 - **(f)**
   - **(1)** Any amount paid by reason of the death of the insured under a flexible premium life insurance contract issued before January 1, 1985 shall be excluded from gross income only if—
     - **(A)** under such contract—

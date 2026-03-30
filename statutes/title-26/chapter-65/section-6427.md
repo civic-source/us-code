@@ -3,9 +3,9 @@ title: "Section 6427 - Fuels not used for taxable purposes"
 usc_title: 26
 usc_section: "6427"
 chapter: 65
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 6427"
-generated_at: "2026-03-30T03:11:08.866Z"
+generated_at: "2026-03-30T03:13:21.926Z"
 status: "active"
 ---
 
@@ -47,6 +47,8 @@ status: "active"
     - **(C)** except as provided in subparagraph (D), any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2013 ,
     - **(D)** any alternative fuel (as so defined) involving liquefied hydrogen sold or used after September 30, 2014 , and
     - **(E)** any alternative fuel mixture (as defined in section 6426(e)(2)) sold or used after December 31, 2011 .
+- **[(f)**
+- **[(g)**
 - **(h)**
   - **(1)** Except as provided in subsection (k), if any gasoline blend stock or additive (within the meaning of section 4083(a)(2)) is not used by any person to produce gasoline and such person establishes that the ultimate use of such gasoline blend stock or additive is not to produce gasoline, the Secretary shall pay (without interest) to such person an amount equal to the aggregate amount of the tax imposed on such person with respect to such gasoline blend stock or additive.
   - **(2)** Except as provided in subsection (k), if any diesel fuel blend stock is not used by any person to produce diesel fuel and such person establishes that the ultimate use of such diesel fuel blend stock is not to produce diesel fuel, the Secretary shall pay (without interest) to such person an amount equal to the aggregate amount of the tax imposed on such person with respect to such diesel fuel blend stock.

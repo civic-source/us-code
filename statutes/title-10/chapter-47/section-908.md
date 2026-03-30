@@ -3,9 +3,9 @@ title: "Section 908 - Art. 108. Military property of United States—Loss, damag
 usc_title: 10
 usc_section: "908"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 908"
-generated_at: "2026-03-30T03:10:02.991Z"
+generated_at: "2026-03-30T03:12:15.121Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Any person subject to this chapter who, without proper authority—
 
   - **(1)** sells or otherwise disposes of;
   - **(2)** willfully or through neglect damages, destroys, or loses; or
-  - **(3)** willfully or through neglect suffers to be lost, damaged, destroyed, sold, or wrongfully disposed of; any military property of the United States, shall be punished as a court-martial may direct.
+  - **(3)** willfully or through neglect suffers to be lost, damaged, destroyed, sold, or wrongfully disposed of;

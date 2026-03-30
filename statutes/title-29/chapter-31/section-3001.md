@@ -3,9 +3,9 @@ title: "Section 3001 - Findings and purposes"
 usc_title: 29
 usc_section: "3001"
 chapter: 31
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "29 U.S.C. § 3001"
-generated_at: "2026-03-30T03:10:49.054Z"
+generated_at: "2026-03-30T03:13:29.165Z"
 status: "active"
 ---
 

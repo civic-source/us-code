@@ -3,9 +3,9 @@ title: "Section 843 - Prohibited acts C"
 usc_title: 21
 usc_section: "843"
 chapter: 13
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "21 U.S.C. § 843"
-generated_at: "2026-03-30T03:10:45.043Z"
+generated_at: "2026-03-30T03:12:53.406Z"
 status: "active"
 ---
 
@@ -35,11 +35,11 @@ status: "active"
   - **(1)** Except as provided in paragraph (2), any person who violates this section shall be sentenced to a term of imprisonment of not more than 4 years, a fine under title 18, or both; except that if any person commits such a violation after one or more prior convictions of him for violation of this section, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 8 years, a fine under title 18, or both.
   - **(2)** Any person who, with the intent to manufacture or to facilitate the manufacture of methamphetamine, violates paragraph (6) or (7) of subsection (a) of this section, shall be sentenced to a term of imprisonment of not more than 10 years, a fine under title 18, or both; except that if any person commits such a violation after one or more prior convictions of that person—
     - **(A)** for a violation of paragraph (6) or (7) of subsection (a) of this section;
-    - **(B)** for a felony under any other provision of this subchapter or subchapter II of this chapter; or
+    - **(B)** for a felony under any other provision of this subchapter or subchapter II of this chapter; 2 2 See References in Text note below. or
     - **(C)** under any other law of the United States or any State relating to controlled substances or listed chemicals,
 - **(e)** In addition to any other applicable penalty, any person convicted of a felony violation of this section relating to the receipt, distribution, manufacture, exportation, or importation of a listed chemical may be enjoined from engaging in any transaction involving a listed chemical for not more than ten years.
 - **(f)**
-  - **(1)** In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title , or 856 2 2 So in original. Probably should be preceded by “section”. of this title.
+  - **(1)** In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title , or 856 3 3 So in original. Probably should be preceded by “section”. of this title.
   - **(2)** Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
   - **(3)** Any order or judgment issued by the court pursuant to this subsection shall be tailored to restrain violations of this section or section 842 of this title .
   - **(4)** The court shall proceed as soon as practicable to the hearing and determination of such an action. An action under this subsection is governed by the Federal Rules of Civil Procedure except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.

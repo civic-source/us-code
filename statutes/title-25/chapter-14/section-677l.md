@@ -3,15 +3,13 @@ title: "Section 677l - Distribution to individual members of mixed-blood group; 
 usc_title: 25
 usc_section: "677l"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 677l"
-generated_at: "2026-03-30T03:10:32.891Z"
+generated_at: "2026-03-30T03:13:04.430Z"
 status: "active"
 ---
 
 # § 677l. Distribution to individual members of mixed-blood group; preparation and approval of plan; assistance; provisions permitted in plan
-
-After the adoption of a plan for the division of the assets between the two groups, a plan for distribution of the assets of the mixed-blood group to the individual members thereof shall be prepared and ratified by a majority of said group, within the period of six months from such adoption and presented to the Secretary for approval. The Secretary is authorized to provide such reasonable assistance, including necessary technical service of Government employees at Fort Duchesne, Utah, and arranging for necessary consultations with representatives of Federal departments and agencies, officials of the State of Utah and political subdivisions thereof, as may be required by the mixed-blood group in the preparation of such plan.
 
   - **(1)** Complete disposition of all cash assets of said group, reserving, however, sufficient funds to cover—
       - **(i)** the proportionate share of said mixed-blood group in and to all expenses incurred in effecting the purposes of this subchapter, including, but not limited to, the necessary expense incurred under this section and section 677m of this title ;
@@ -21,3 +19,4 @@ After the adoption of a plan for the division of the assets between the two grou
   - **(3)** Organization of corporations for the grazing of livestock, handling of water and water rights, and the shares therein may be issued to the members of said group in proportion to their interests in the assets of such corporations. When, in the opinion of said mixed-blood group, it is to the best interest of said group to transfer a portion of the assets of said group to a corporation or other legal entity for any purpose, the Secretary is authorized to make such transfer.
   - **(4)** A transfer of assets to one or more trustees designated by said group who shall hold title to all or any part of the property of said group for management or liquidation purposes under terms and conditions prescribed by said mixed-blood group. The Secretary is authorized to make such transfer, and approve the trustees, and the terms and conditions of the trust.
   - **(5)** Sale of any portion of the assets of said group subject to the approval of the Secretary. In addition to the sales herein otherwise authorized, authority is granted to the authorized representatives of said group to sell any property of said group when, in the opinion of the majority of said mixed-blood group, a practicable partition cannot be made, or for any other reason it is deemed to the best interests of the group, and the proceeds of such sales shall be distributed equitably among the members of said mixed-blood group; after deducting reasonable cost of sale and distribution.
+

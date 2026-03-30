@@ -3,9 +3,9 @@ title: "Section 6612 - State applications"
 usc_title: 20
 usc_section: "6612"
 chapter: 70
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "20 U.S.C. § 6612"
-generated_at: "2026-03-30T03:10:17.362Z"
+generated_at: "2026-03-30T03:12:49.528Z"
 status: "active"
 ---
 

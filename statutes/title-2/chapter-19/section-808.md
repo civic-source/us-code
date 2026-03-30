@@ -3,13 +3,13 @@ title: "Section 808 - Termination"
 usc_title: 2
 usc_section: "808"
 chapter: 19
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 808"
-generated_at: "2026-03-30T03:09:51.255Z"
+generated_at: "2026-03-30T03:12:02.412Z"
 status: "active"
 ---
 
 # § 808. Termination
 
-The Board shall terminate October 1, 2013 .
+The Board shall terminate October 1, 2018 .
 

@@ -3,9 +3,9 @@ title: "Section 54C - New clean renewable energy bonds"
 usc_title: 26
 usc_section: "54C"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 54C"
-generated_at: "2026-03-30T03:11:08.657Z"
+generated_at: "2026-03-30T03:13:21.687Z"
 status: "active"
 ---
 

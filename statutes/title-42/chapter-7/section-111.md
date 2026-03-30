@@ -3,9 +3,9 @@ title: "Section 111 - PDP regions; submission of bids; plan approval"
 usc_title: 42
 usc_section: "111"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-30T03:11:40.166Z"
+generated_at: "2026-03-30T03:14:51.648Z"
 status: "active"
 ---
 
@@ -83,7 +83,7 @@ status: "active"
       - **(ii)** With respect to all fallback service areas in any PDP region for a contract period, the Secretary shall approve the offering of only 1 fallback prescription drug plan.
       - **(iii)** Competitive procedures (as defined in section 132 of title 41 ) shall be used to enter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
       - **(iv)** The Secretary shall approve a fallback prescription drug plan for a PDP region in a manner so that, if there are any fallback service areas in the region for a year, the fallback prescription drug plan is offered at the same time as prescription drug plans would otherwise be offered.
-        - **(V)** The Secretary shall not enter into a contract with a single fallback entity for the offering of fallback plans throughout the United States.
+    - **(V)** The Secretary shall not enter into a contract with a single fallback entity for the offering of fallback plans throughout the United States.
   - **(2)** For purposes of this section, the term “eligible fallback entity” means, with respect to all fallback service areas in a PDP region for a contract period, an entity that—
     - **(A)** meets the requirements to be a PDP sponsor (or would meet such requirements but for the fact that the entity is not a risk-bearing entity); and
     - **(B)** does not submit a bid under subsection (b) of this section for any prescription drug plan for any PDP region for the first year of such contract period.

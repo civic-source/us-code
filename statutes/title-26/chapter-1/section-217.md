@@ -3,9 +3,9 @@ title: "Section 217 - Moving expenses"
 usc_title: 26
 usc_section: "217"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 217"
-generated_at: "2026-03-30T03:11:08.691Z"
+generated_at: "2026-03-30T03:13:21.722Z"
 status: "active"
 ---
 
@@ -32,6 +32,7 @@ status: "active"
   - **(3)** If—
     - **(A)** for any taxable year moving expenses have been deducted in accordance with the rule provided in paragraph (2), and
     - **(B)** the condition of subsection (c)(2) cannot be satisfied at the close of a subsequent taxable year,
+- **[(e)**
 - **(f)** For purposes of this section, the term “self-employed individual” means an individual who performs personal services—
   - **(1)** as the owner of the entire interest in an unincorporated trade or business, or
   - **(2)** as a partner in a partnership carrying on a trade or business.

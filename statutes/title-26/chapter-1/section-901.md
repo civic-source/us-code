@@ -3,9 +3,9 @@ title: "Section 901 - Taxes of foreign countries and of possessions of United St
 usc_title: 26
 usc_section: "901"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 901"
-generated_at: "2026-03-30T03:11:08.764Z"
+generated_at: "2026-03-30T03:13:21.807Z"
 status: "active"
 ---
 
@@ -40,6 +40,7 @@ status: "active"
       - **(i)** if a dividends received deduction is allowable with respect to such distribution under part VIII of subchapter B, or
       - **(ii)** to the extent that such distribution is received in connection with a liquidation or other transaction with respect to which gain or loss is not recognized,
   - **(2)** For purposes of paragraph (1), a corporation shall be treated as a possessions corporation for any period during which an election under section 936 applied to such corporation, during which section 931 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1976) applied to such corporation, or during which section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such corporation.
+- **[(h)**
 - **(i)** Any income, war profits, or excess profits tax shall not be treated as a tax for purposes of this title to the extent—
   - **(1)** the amount of such tax is used (directly or indirectly) by the country imposing such tax to provide a subsidy by any means to the taxpayer, a related person (within the meaning of section 482), or any party to the transaction or to a related transaction, and
   - **(2)** such subsidy is determined (directly or indirectly) by reference to the amount of such tax, or the base used to compute the amount of such tax.

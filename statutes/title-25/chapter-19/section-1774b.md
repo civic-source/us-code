@@ -3,9 +3,9 @@ title: "Section 1774b - New leases and extinguishment of claims"
 usc_title: 25
 usc_section: "1774b"
 chapter: 19
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 1774b"
-generated_at: "2026-03-30T03:10:32.924Z"
+generated_at: "2026-03-30T03:13:04.465Z"
 status: "active"
 ---
 

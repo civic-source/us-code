@@ -3,9 +3,9 @@ title: "Section 7315a - Consolidation and use of funds"
 usc_title: 20
 usc_section: "7315a"
 chapter: 70
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "20 U.S.C. § 7315a"
-generated_at: "2026-03-30T03:10:17.380Z"
+generated_at: "2026-03-30T03:12:49.548Z"
 status: "active"
 ---
 

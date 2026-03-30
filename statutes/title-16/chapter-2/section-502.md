@@ -3,9 +3,9 @@ title: "Section 502 - Rental of property for Forest Service; forage, care, and h
 usc_title: 16
 usc_section: "502"
 chapter: 2
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 502"
-generated_at: "2026-03-30T03:10:27.175Z"
+generated_at: "2026-03-30T03:12:42.224Z"
 status: "active"
 ---
 

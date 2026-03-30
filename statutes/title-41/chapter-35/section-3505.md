@@ -3,9 +3,9 @@ title: "Section 3505 - Submission of other information"
 usc_title: 41
 usc_section: "3505"
 chapter: 35
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "41 U.S.C. § 3505"
-generated_at: "2026-03-30T03:11:19.724Z"
+generated_at: "2026-03-30T03:14:14.851Z"
 status: "active"
 ---
 

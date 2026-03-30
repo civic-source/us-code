@@ -3,9 +3,9 @@ title: "Section 2667 - Radon in schools"
 usc_title: 15
 usc_section: "2667"
 chapter: 53
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 2667"
-generated_at: "2026-03-30T03:10:11.589Z"
+generated_at: "2026-03-30T03:12:35.365Z"
 status: "active"
 ---
 

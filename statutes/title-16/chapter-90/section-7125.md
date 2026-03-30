@@ -3,9 +3,9 @@ title: "Section 7125 - Resource advisory committees"
 usc_title: 16
 usc_section: "7125"
 chapter: 90
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 7125"
-generated_at: "2026-03-30T03:10:27.325Z"
+generated_at: "2026-03-30T03:12:42.359Z"
 status: "active"
 ---
 
@@ -18,8 +18,8 @@ status: "active"
     - **(B)** to provide advice and recommendations to the land management agencies consistent with the purposes of this subchapter.
   - **(3)** To ensure that each unit of Federal land has access to a resource advisory committee, and that there is sufficient interest in participation on a committee to ensure that membership can be balanced in terms of the points of view represented and the functions to be performed, the Secretary concerned may, 1 1 So in original. The comma probably should not appear. establish resource advisory committees for part of, or 1 or more, units of Federal land.
   - **(4)**
-    - **(A)** An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2011 , or an advisory committee determined by the Secretary concerned before September 29, 2011 , to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
-    - **(B)** A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2011 , shall be considered to be filed for purposes of this chapter.
+    - **(A)** An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2012 , or an advisory committee determined by the Secretary concerned before September 29, 2012 , to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
+    - **(B)** A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2012 , shall be considered to be filed for purposes of this chapter.
     - **(C)** The Secretary of the Interior may deem a resource advisory committee meeting the requirements of subpart 1784 of part 1780 of title 43, Code of Federal Regulations, as a resource advisory committee for the purposes of this subchapter.
 - **(b)** A resource advisory committee shall—
   - **(1)** review projects proposed under this subchapter by participating counties and other persons;

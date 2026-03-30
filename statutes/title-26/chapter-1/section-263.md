@@ -3,9 +3,9 @@ title: "Section 263 - Capital expenditures"
 usc_title: 26
 usc_section: "263"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 263"
-generated_at: "2026-03-30T03:11:08.694Z"
+generated_at: "2026-03-30T03:13:21.726Z"
 status: "active"
 ---
 
@@ -26,6 +26,7 @@ status: "active"
     - **(K)** expenditures for which a deduction is allowed under section 179D, or
     - **(L)** expenditures for which a deduction is allowed under section 179E.
   - **(2)** Any amount expended in restoring property or in making good the exhaustion thereof for which an allowance is or has been made.
+- **[(b)**
 - **(c)** Notwithstanding subsection (a), and except as provided in subsection (i), regulations shall be prescribed by the Secretary under this subtitle corresponding to the regulations which granted the option to deduct as expenses intangible drilling and development costs in the case of oil and gas wells and which were recognized and approved by the Congress in House Concurrent Resolution 50, Seventy-ninth Congress. Such regulations shall also grant the option to deduct as expenses intangible drilling and development costs in the case of wells drilled for any geothermal deposit (as defined in section 613(e)(2)) to the same extent and in the same manner as such expenses are deductible in the case of oil and gas wells. This subsection shall not apply with respect to any costs to which any deduction is allowed under section 59(e) or 291.
 - **(d)** In the case of expenditures in connection with the rehabilitation of a unit of railroad rolling stock (except a locomotive) used by a domestic common carrier by railroad which would, but for this subsection, be properly chargeable to capital account, such expenditures, if during any 12-month period they do not exceed an amount equal to 20 percent of the basis of such unit in the hands of the taxpayer, shall, at the election of the taxpayer, be treated (notwithstanding subsection (a)) as deductible repairs under section 162 or 212. An election under this subsection shall be made for any taxable year at such time and in such manner as the Secretary prescribes by regulations. An election may not be made under this subsection for any taxable year to which an election under subsection (e) applies to railroad rolling stock (other than locomotives).
 - **[(e)**

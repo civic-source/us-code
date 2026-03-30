@@ -3,9 +3,9 @@ title: "Section 14052 - Enhanced penalties for illegal drug use in Federal priso
 usc_title: 42
 usc_section: "14052"
 chapter: 136
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 14052"
-generated_at: "2026-03-30T03:11:40.574Z"
+generated_at: "2026-03-30T03:14:52.093Z"
 status: "active"
 ---
 

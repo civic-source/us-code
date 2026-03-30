@@ -3,9 +3,9 @@ title: "Section 6 - Risk communication"
 usc_title: 21
 usc_section: "6"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "21 U.S.C. § 6"
-generated_at: "2026-03-30T03:10:45.016Z"
+generated_at: "2026-03-30T03:12:53.380Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10505 - Confidentiality of information"
 usc_title: 42
 usc_section: "10505"
 chapter: 111
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 10505"
-generated_at: "2026-03-30T03:11:40.512Z"
+generated_at: "2026-03-30T03:14:52.024Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Section 3789g of this title shall apply with respect to—
 
   - **(1)** information furnished under this chapter,
   - **(2)** criminal history information collected, stored, or disseminated with the support of Federal law enforcement assistance provided under this chapter, and
-  - **(3)** criminal intelligence systems operating with the support of Federal law enforcement assistance provided under this chapter, except that the terms “this chapter” and “this section”, as such terms appear in such section 3789g of this title , shall be deemed to be references to this chapter and this section, respectively, and a reference to the Office of Justice Programs in such section 3789g shall be deemed to be a reference to the Attorney General.
+  - **(3)** criminal intelligence systems operating with the support of Federal law enforcement assistance provided under this chapter,

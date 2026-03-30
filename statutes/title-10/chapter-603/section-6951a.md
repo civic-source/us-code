@@ -3,9 +3,9 @@ title: "Section 6951a - Superintendent"
 usc_title: 10
 usc_section: "6951a"
 chapter: 603
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 6951a"
-generated_at: "2026-03-30T03:10:03.074Z"
+generated_at: "2026-03-30T03:12:15.209Z"
 status: "active"
 ---
 

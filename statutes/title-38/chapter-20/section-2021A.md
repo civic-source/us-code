@@ -3,9 +3,9 @@ title: "Section 2021A - Homeless women veterans and homeless veterans with child
 usc_title: 38
 usc_section: "2021A"
 chapter: 20
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 2021A"
-generated_at: "2026-03-30T03:11:17.756Z"
+generated_at: "2026-03-30T03:14:12.959Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** Grants under this section shall be used to provide job training, counseling, placement services (including job readiness and literacy and skills training) and child care services to expedite the reintegration of homeless women veterans and homeless veterans with children into the labor force.
 - **(c)**
   - **(1)** The Secretary of Labor shall collect such information as that Secretary considers appropriate to monitor and evaluate the distribution and expenditure of funds appropriated to carry out this section. The information shall include data with respect to the results or outcomes of the services provided to each homeless veteran under this section.
-        - **(2)** Information under paragraph (1) shall be furnished in such form and manner as the Secretary of Labor may specify.
+  - **(2)** Information under paragraph (1) shall be furnished in such form and manner as the Secretary of Labor may specify.
 - **(d)** The Secretary of Labor shall carry out this section through the Assistant Secretary of Labor for Veterans’ Employment and Training.
 - **(e)** The Secretary of Labor shall include as part of the report required under section 2021(d) of this title an evaluation of the grant program under this section, which shall include an evaluation of services furnished to veterans under this section and an analysis of the information collected under subsection (c).
 - **(f)**

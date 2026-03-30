@@ -3,9 +3,9 @@ title: "Section 7112 - Payments to States and counties"
 usc_title: 16
 usc_section: "7112"
 chapter: 90
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 7112"
-generated_at: "2026-03-30T03:10:27.324Z"
+generated_at: "2026-03-30T03:12:42.359Z"
 status: "active"
 ---
 
@@ -20,11 +20,11 @@ status: "active"
     - **(B)** the county payment for the eligible county.
 - **(b)**
   - **(1)**
-    - **(A)** The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2012 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
+    - **(A)** The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2013 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
     - **(B)** If an election for an affected county is not transmitted to the Secretary concerned by the date specified under subparagraph (A), the affected county shall be considered to have elected to receive a share of the State payment, the county payment, or a share of the State payment and the county payment, as applicable.
   - **(2)**
     - **(A)** A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years.
-    - **(B)** If a county elects to receive a share of the State payment or the county payment in 2012, the election shall be effective for all subsequent fiscal years through fiscal year 2012.
+    - **(B)** If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2013.
   - **(3)** The payment to an eligible State or eligible county under this section for a fiscal year shall be derived from—
     - **(A)** any amounts that are appropriated to carry out this chapter;
     - **(B)** any revenues, fees, penalties, or miscellaneous receipts, exclusive of deposits to any relevant trust fund, special account, or permanent operating funds, received by the Federal Government from activities by the Bureau of Land Management or the Forest Service on the applicable Federal land; and

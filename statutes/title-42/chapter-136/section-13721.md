@@ -3,9 +3,9 @@ title: "Section 13721 - Task force on prison construction standardization and te
 usc_title: 42
 usc_section: "13721"
 chapter: 136
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 13721"
-generated_at: "2026-03-30T03:11:40.566Z"
+generated_at: "2026-03-30T03:14:52.084Z"
 status: "active"
 ---
 

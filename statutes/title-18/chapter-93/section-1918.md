@@ -3,9 +3,9 @@ title: "Section 1918 - Disloyalty and asserting the right to strike against the 
 usc_title: 18
 usc_section: "1918"
 chapter: 93
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 1918"
-generated_at: "2026-03-30T03:10:19.981Z"
+generated_at: "2026-03-30T03:12:44.448Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ Whoever violates the provision of section 7311 of title 5 that an individual may
   - **(1)** advocates the overthrow of our constitutional form of government;
   - **(2)** is a member of an organization that he knows advocates the overthrow of our constitutional form of government;
   - **(3)** participates in a strike, or asserts the right to strike, against the Government of the United States or the government of the District of Columbia; or
-  - **(4)** is a member of an organization of employees of the Government of the United States or of individuals employed by the government of the District of Columbia that he knows asserts the right to strike against the Government of the United States or the government of the District of Columbia; shall be fined under this title or imprisoned not more than one year and a day, or both.
+  - **(4)** is a member of an organization of employees of the Government of the United States or of individuals employed by the government of the District of Columbia that he knows asserts the right to strike against the Government of the United States or the government of the District of Columbia;

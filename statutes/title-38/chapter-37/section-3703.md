@@ -3,9 +3,9 @@ title: "Section 3703 - Basic provisions relating to loan guaranty and insurance"
 usc_title: 38
 usc_section: "3703"
 chapter: 37
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 3703"
-generated_at: "2026-03-30T03:11:17.769Z"
+generated_at: "2026-03-30T03:14:12.973Z"
 status: "active"
 ---
 

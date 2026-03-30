@@ -3,9 +3,9 @@ title: "Section 924 - Art. 124. Maiming"
 usc_title: 10
 usc_section: "924"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 924"
-generated_at: "2026-03-30T03:10:02.991Z"
+generated_at: "2026-03-30T03:12:15.121Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Any person subject to this chapter who, with intent to injure, disfigure, or dis
 
   - **(1)** seriously disfigures his person by any mutilation thereof;
   - **(2)** destroys or disables any member or organ of his body; or
-  - **(3)** seriously diminishes his physical vigor by the injury of any member or organ; is guilty of maiming and shall be punished as a court-martial may direct.
+  - **(3)** seriously diminishes his physical vigor by the injury of any member or organ;

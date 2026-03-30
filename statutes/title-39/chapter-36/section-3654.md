@@ -3,9 +3,9 @@ title: "Section 3654 - Additional financial reporting"
 usc_title: 39
 usc_section: "3654"
 chapter: 36
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "39 U.S.C. § 3654"
-generated_at: "2026-03-30T03:11:15.898Z"
+generated_at: "2026-03-30T03:13:52.655Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(C)** periodic reports within the time frame and containing the information prescribed in Form 8–K of the Securities and Exchange Commission, as such Form (or any successor form) may be revised from time to time.
   - **(2)** For purposes of defining the reports required by paragraph (1), the Postal Service shall be deemed to be the “registrant” described in the Securities and Exchange Commission Forms, and references contained in such Forms to Securities and Exchange Commission regulations are incorporated herein by reference, as amended.
   - **(3)** For purposes of defining the reports required by paragraph (1)(B), the Postal Service shall comply with the rules prescribed by the Securities and Exchange Commission implementing section 404 of the Sarbanes-Oxley Act of 2002 ( 15 U.S.C. 7262 ), beginning with the annual report for fiscal year 2010.
-- **(b)**
+- **(b)** 1 1 So in original. Probably should be capitalized.
   - **(1)** The reports required by subsection (a)(1)(B) shall include, with respect to the Postal Service’s pension and post-retirement health obligations—
     - **(A)** the funded status of the Postal Service’s pension and postretirement health obligations;
     - **(B)** components of the net change in the fund balances and obligations and the nature and cause of any significant changes;

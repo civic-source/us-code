@@ -3,9 +3,9 @@ title: "Section 404 - Overpayments and underpayments"
 usc_title: 42
 usc_section: "404"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 404"
-generated_at: "2026-03-30T03:11:40.079Z"
+generated_at: "2026-03-30T03:14:51.555Z"
 status: "active"
 ---
 

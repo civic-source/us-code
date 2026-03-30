@@ -3,9 +3,9 @@ title: "Section 1793 - Grants for expansion of school breakfast programs"
 usc_title: 42
 usc_section: "1793"
 chapter: 13
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1793"
-generated_at: "2026-03-30T03:11:40.272Z"
+generated_at: "2026-03-30T03:14:51.760Z"
 status: "active"
 ---
 

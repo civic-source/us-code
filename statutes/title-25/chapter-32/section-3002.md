@@ -3,9 +3,9 @@ title: "Section 3002 - Ownership"
 usc_title: 25
 usc_section: "3002"
 chapter: 32
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 3002"
-generated_at: "2026-03-30T03:10:32.944Z"
+generated_at: "2026-03-30T03:13:04.486Z"
 status: "active"
 ---
 
@@ -17,8 +17,6 @@ status: "active"
     - **(A)** in the Indian tribe or Native Hawaiian organization on whose tribal land such objects or remains were discovered;
     - **(B)** in the Indian tribe or Native Hawaiian organization which has the closest cultural affiliation with such remains or objects and which, upon notice, states a claim for such remains or objects; or
     - **(C)** if the cultural affiliation of the objects cannot be reasonably ascertained and if the objects were discovered on Federal land that is recognized by a final judgment of the Indian Claims Commission or the United States Court of Claims as the aboriginal land of some Indian tribe—
-        - **(1)** in the Indian tribe that is recognized as aboriginally occupying the area in which the objects were discovered, if upon notice, such tribe states a claim for such remains or objects, or
-        - **(2)** if it can be shown by a preponderance of the evidence that a different tribe has a stronger cultural relationship with the remains or objects than the tribe or organization specified in paragraph (1), in the Indian tribe that has the strongest demonstrated relationship, if upon notice, such tribe states a claim for such remains or objects.
 - **(b)** Native American cultural items not claimed under subsection (a) of this section shall be disposed of in accordance with regulations promulgated by the Secretary in consultation with the review committee established under section 3006 of this title , Native American groups, representatives of museums and the scientific community.
 - **(c)** The intentional removal from or excavation of Native American cultural items from Federal or tribal lands for purposes of discovery, study, or removal of such items is permitted only if—
   - **(1)** such items are excavated or removed pursuant to a permit issued under section 470cc of title 16 which shall be consistent with this chapter;

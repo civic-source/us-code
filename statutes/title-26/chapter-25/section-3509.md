@@ -3,9 +3,9 @@ title: "Section 3509 - Determination of employer’s liability for certain emplo
 usc_title: 26
 usc_section: "3509"
 chapter: 25
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 3509"
-generated_at: "2026-03-30T03:11:08.817Z"
+generated_at: "2026-03-30T03:13:21.867Z"
 status: "active"
 ---
 

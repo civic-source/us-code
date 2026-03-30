@@ -3,9 +3,9 @@ title: "Section 32 - Earned income"
 usc_title: 26
 usc_section: "32"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 32"
-generated_at: "2026-03-30T03:11:08.641Z"
+generated_at: "2026-03-30T03:13:21.670Z"
 status: "active"
 ---
 
@@ -76,6 +76,8 @@ status: "active"
   - **(2)** The tables prescribed under paragraph (1) shall reflect the provisions of subsections (a) and (b) and shall have income brackets of not greater than $50 each—
     - **(A)** for earned income between $0 and the amount of earned income at which the credit is phased out under subsection (b), and
     - **(B)** for adjusted gross income between the dollar amount at which the phaseout begins under subsection (b) and the amount of adjusted gross income at which the credit is phased out under subsection (b).
+- **[(g)**
+- **[(h)**
 - **(i)**
   - **(1)** No credit shall be allowed under subsection (a) for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $2,200.
   - **(2)** For purposes of paragraph (1), the term “disqualified income” means—

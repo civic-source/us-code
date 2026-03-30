@@ -3,9 +3,9 @@ title: "Section 6872 - Suspension of period on assessment"
 usc_title: 26
 usc_section: "6872"
 chapter: 70
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 6872"
-generated_at: "2026-03-30T03:11:08.876Z"
+generated_at: "2026-03-30T03:13:21.938Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5155 - Renumbered § 5150]"
 usc_title: 10
 usc_section: "5155"
 chapter: 513
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 5155"
-generated_at: "2026-03-30T03:10:03.070Z"
+generated_at: "2026-03-30T03:12:15.204Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 44715 - Controlling aircraft noise and sonic boom"
 usc_title: 49
 usc_section: "44715"
 chapter: 447
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 44715"
-generated_at: "2026-03-30T03:11:48.119Z"
+generated_at: "2026-03-30T03:15:03.350Z"
 status: "active"
 ---
 

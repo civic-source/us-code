@@ -3,9 +3,9 @@ title: "Section 313 - Federal Insurance Office"
 usc_title: 31
 usc_section: "313"
 chapter: 3
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "31 U.S.C. § 313"
-generated_at: "2026-03-30T03:11:11.365Z"
+generated_at: "2026-03-30T03:13:48.927Z"
 status: "active"
 ---
 
@@ -85,7 +85,7 @@ status: "active"
 - **(n)**
   - **(1)** Beginning September 30, 2011 , the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committees on Financial Services and Ways and Means of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Finance of the Senate on any actions taken by the Office pursuant to subsection (f) (regarding preemption of inconsistent State insurance measures).
   - **(2)** Beginning September 30, 2011 , the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the insurance industry and any other information as deemed relevant by the Director or requested by such Committees.
-- **(o)** The Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
+- **(o)** S. and Global Reinsurance Market .—The Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
   - **(1)** a report received not later than September 30, 2012 , describing the breadth and scope of the global reinsurance market and the critical role such market plays in supporting insurance in the United States; and
   - **(2)** a report received not later than January 1, 2013 , and updated not later than January 1, 2015 , describing the impact of part II of the Nonadmitted and Reinsurance Reform Act of 2010 on the ability of State regulators to access reinsurance information for regulated companies in their jurisdictions.
 - **(p)**

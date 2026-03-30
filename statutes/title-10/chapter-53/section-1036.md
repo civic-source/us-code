@@ -3,9 +3,9 @@ title: "Section 1036 - Escorts for dependents of members: transportation and tra
 usc_title: 10
 usc_section: "1036"
 chapter: 53
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 1036"
-generated_at: "2026-03-30T03:10:02.997Z"
+generated_at: "2026-03-30T03:12:15.126Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Under regulations to be prescribed by the Secretary concerned, round trip transp
 
   - **(1)** dies;
   - **(2)** is missing; or
-  - **(3)** is otherwise unable to accompany his dependents; and it has been determined that travel by the dependents is necessary and that they are incapable of traveling alone because of age, mental or physical incapacity, or other extraordinary circumstances. Such allowances may be paid in advance.
+  - **(3)** is otherwise unable to accompany his dependents;

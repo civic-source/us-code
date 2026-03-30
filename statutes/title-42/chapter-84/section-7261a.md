@@ -3,9 +3,9 @@ title: "Section 7261a - Protection of sensitive technical information"
 usc_title: 42
 usc_section: "7261a"
 chapter: 84
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 7261a"
-generated_at: "2026-03-30T03:11:40.426Z"
+generated_at: "2026-03-30T03:14:51.928Z"
 status: "active"
 ---
 

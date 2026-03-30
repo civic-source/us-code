@@ -3,9 +3,9 @@ title: "Section 415 - Repealed. Pub. L. 97–164, title I, § 113 , Apr. 2, 1982
 usc_title: 28
 usc_section: "415"
 chapter: 19
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "28 U.S.C. § 415"
-generated_at: "2026-03-30T03:10:49.962Z"
+generated_at: "2026-03-30T03:13:10.196Z"
 status: "repealed"
 ---
 

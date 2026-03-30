@@ -3,9 +3,9 @@ title: "Section 349 - Bottled drinking water standards; publication in Federal R
 usc_title: 21
 usc_section: "349"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "21 U.S.C. § 349"
-generated_at: "2026-03-30T03:10:44.996Z"
+generated_at: "2026-03-30T03:12:53.360Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 535a - Congressional consent to State agreements with Canada and
 usc_title: 33
 usc_section: "535a"
 chapter: 11
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 535a"
-generated_at: "2026-03-30T03:11:12.218Z"
+generated_at: "2026-03-30T03:13:40.513Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 The consent of Congress is hereby granted for a State or a subdivision or instrumentality thereof to enter into agreements—
 
   - **(1)** with the Government of Canada, a Canadian Province, or a subdivision or instrumentality of either, in the case of a bridge connecting the United States and Canada, or
-  - **(2)** with the Government of Mexico, a Mexican State, or a subdivision or instrumentality of either, in the case of a bridge connecting the United States and Mexico, for the construction, operation, and maintenance of such bridge in accordance with the applicable provisions of this subchapter. The effectiveness of such agreement shall be conditioned on its approval by the Secretary of State.
+  - **(2)** with the Government of Mexico, a Mexican State, or a subdivision or instrumentality of either, in the case of a bridge connecting the United States and Mexico,

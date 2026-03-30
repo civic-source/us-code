@@ -3,9 +3,9 @@ title: "Section 1395bb - Effect of accreditation"
 usc_title: 42
 usc_section: "1395bb"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1395bb"
-generated_at: "2026-03-30T03:11:40.176Z"
+generated_at: "2026-03-30T03:14:51.659Z"
 status: "active"
 ---
 

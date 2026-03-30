@@ -3,9 +3,9 @@ title: "Section 336 - Saving provision"
 usc_title: 2
 usc_section: "336"
 chapter: 10
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 336"
-generated_at: "2026-03-30T03:09:51.244Z"
+generated_at: "2026-03-30T03:12:02.400Z"
 status: "active"
 ---
 

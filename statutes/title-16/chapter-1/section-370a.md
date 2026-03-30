@@ -3,9 +3,9 @@ title: "Section 370a - Retention of Arlington Hotel site for park and landscape 
 usc_title: 16
 usc_section: "370a"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 370a"
-generated_at: "2026-03-30T03:10:27.100Z"
+generated_at: "2026-03-30T03:12:42.151Z"
 status: "active"
 ---
 

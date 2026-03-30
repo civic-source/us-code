@@ -3,9 +3,9 @@ title: "Section 905 - Art. 105. Misconduct as prisoner"
 usc_title: 10
 usc_section: "905"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 905"
-generated_at: "2026-03-30T03:10:02.991Z"
+generated_at: "2026-03-30T03:12:15.120Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Any person subject to this chapter who, while in the hands of the enemy in time of war—
 
   - **(1)** for the purpose of securing favorable treatment by his captors acts without proper authority in a manner contrary to law, custom, or regulation, to the detriment of others of whatever nationality held by the enemy as civilian or military prisoners; or
-  - **(2)** while in a position of authority over such persons maltreats them without justifiable cause; shall be punished as a court-martial may direct.
+  - **(2)** while in a position of authority over such persons maltreats them without justifiable cause;

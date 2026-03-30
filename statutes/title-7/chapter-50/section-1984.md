@@ -3,9 +3,9 @@ title: "Section 1984 - Taxation"
 usc_title: 7
 usc_section: "1984"
 chapter: 50
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 1984"
-generated_at: "2026-03-30T03:10:00.530Z"
+generated_at: "2026-03-30T03:12:09.388Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ All property subject to a lien held by the United States or the title to which i
 
   - **(1)** the value of any notes or mortgages or other lien instruments held by or transferred to the Secretary;
   - **(2)** any notes or lien instruments administered under this chapter which are made, assigned, or held by a person otherwise liable for such tax; or
-  - **(3)** the value of any property conveyed or transferred to the Secretary, whether as a tax on the instrument, the privilege of conveying or transferring or the recordation thereof; nor shall the failure to pay or collect any such tax be a ground for refusal to record or file such instruments, or for failure to impart notice, or prevent the enforcement of its provisions in any State or Federal court.
+  - **(3)** the value of any property conveyed or transferred to the Secretary,

@@ -3,9 +3,9 @@ title: "Section 428a - Acquisition of land; options"
 usc_title: 7
 usc_section: "428a"
 chapter: 17
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 428a"
-generated_at: "2026-03-30T03:10:00.478Z"
+generated_at: "2026-03-30T03:12:09.338Z"
 status: "active"
 ---
 

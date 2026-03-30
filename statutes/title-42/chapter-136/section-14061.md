@@ -3,9 +3,9 @@ title: "Section 14061 - Juvenile anti-drug and anti-gang grants in federally ass
 usc_title: 42
 usc_section: "14061"
 chapter: 136
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 14061"
-generated_at: "2026-03-30T03:11:40.575Z"
+generated_at: "2026-03-30T03:14:52.093Z"
 status: "active"
 ---
 

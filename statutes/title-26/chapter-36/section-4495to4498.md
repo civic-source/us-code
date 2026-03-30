@@ -1,0 +1,13 @@
+---
+title: "Section 4495to4498 - Repealed. Pub. L. 105–34, title XIV, § 1432(b)(1) , Aug. 5, 1997 , 111 Stat. 1050 ]"
+usc_title: 26
+usc_section: "4495to4498"
+chapter: 36
+current_through: "PL 113-44"
+classification: "26 U.S.C. § 4495to4498"
+generated_at: "2026-03-30T03:13:21.875Z"
+status: "repealed"
+---
+
+# [§§ 4495 to 4498. Repealed. Pub. L. 105–34, title XIV, § 1432(b)(1) , Aug. 5, 1997 , 111 Stat. 1050 ]
+

@@ -3,9 +3,9 @@ title: "Section 5964 - Promotion of sale of Indian, Alaska Native, Native Samoan
 usc_title: 16
 usc_section: "5964"
 chapter: 79
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 5964"
-generated_at: "2026-03-30T03:10:27.316Z"
+generated_at: "2026-03-30T03:12:42.351Z"
 status: "active"
 ---
 

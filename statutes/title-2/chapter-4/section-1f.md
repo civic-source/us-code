@@ -3,9 +3,9 @@ title: "Section 1f - Designation by Senator who is Chairman or Vice Chairman of 
 usc_title: 2
 usc_section: "1f"
 chapter: 4
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 1f"
-generated_at: "2026-03-30T03:09:51.232Z"
+generated_at: "2026-03-30T03:12:02.386Z"
 status: "active"
 ---
 

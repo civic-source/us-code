@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-30T03:11:08.887Z"
+generated_at: "2026-03-30T03:13:21.951Z"
 status: "active"
 ---
 
@@ -89,6 +89,7 @@ status: "active"
     - **(F)** A corporation engaged in the furnishing or sale of transportation by a water carrier subject to jurisdiction under subchapter II of chapter 135 of title 49.
     - **(G)** A rail carrier subject to part A of subtitle IV of title 49, if (i) substantially all of its railroad properties have been leased to another such railroad corporation or corporations by an agreement or agreements entered into before January 1, 1954 , (ii) each lease is for a term of more than 20 years, and (iii) at least 80 percent or more of its gross income (computed without regard to dividends and capital gains and losses) for the taxable year is derived from such leases and from sources described in subparagraphs (A) through (F), inclusive. For purposes of the preceding sentence, an agreement for lease of railroad properties entered into before January 1, 1954 , shall be considered to be a lease including such term as the total number of years of such agreement may, unless sooner terminated, be renewed or continued under the terms of the agreement, and any such renewal or continuance under such agreement shall be considered part of the lease entered into before January 1, 1954 .
     - **(H)** A common parent corporation which is a common carrier by railroad subject to part A of subtitle IV of title 49 if at least 80 percent of its gross income (computed without regard to capital gains or losses) is derived directly or indirectly from sources described in subparagraphs (A) through (F), inclusive. For purposes of the preceding sentence, dividends and interest, and income from leases described in subparagraph (G), received from a regulated public utility shall be considered as derived from sources described in subparagraphs (A) through (F), inclusive, if the regulated public utility is a member of an affiliated group (as defined in section 1504) which includes the common parent corporation.
+  - **[(34)**
   - **(35)** The term “enrolled actuary” means a person who is enrolled by the Joint Board for the Enrollment of Actuaries established under subtitle C of the title III of the Employee Retirement Income Security Act of 1974.
   - **(36)**
     - **(A)** The term “tax return preparer” means any person who prepares for compensation, or who employs one or more persons to prepare for compensation, any return of tax imposed by this title or any claim for refund of tax imposed by this title. For purposes of the preceding sentence, the preparation of a substantial portion of a return or claim for refund shall be treated as if it were the preparation of such return or claim for refund.
@@ -317,13 +318,13 @@ status: "active"
     - **(D)** The term “transaction” includes a series of transactions.
 - **(p)**
   - **(1)** For other definitions, see the following sections of Title 1 of the United States Code:
-        - **(1)** Singular as including plural, section 1.
-        - **(2)** Plural as including singular, section 1.
-        - **(3)** Masculine as including feminine, section 1.
-        - **(4)** Officer, section 1.
-        - **(5)** Oath as including affirmation, section 1.
-        - **(6)** County as including parish, section 2.
-        - **(7)** Vessel as including all means of water transportation, section 3.
-        - **(8)** Vehicle as including all means of land transportation, section 4.
-        - **(9)** Company or association as including successors and assigns, section 5.
+  - **(1)** Singular as including plural, section 1.
+  - **(2)** Plural as including singular, section 1.
+  - **(3)** Masculine as including feminine, section 1.
+  - **(4)** Officer, section 1.
+  - **(5)** Oath as including affirmation, section 1.
+  - **(6)** County as including parish, section 2.
+  - **(7)** Vessel as including all means of water transportation, section 3.
+  - **(8)** Vehicle as including all means of land transportation, section 4.
+  - **(9)** Company or association as including successors and assigns, section 5.
   - **(2)** For effect of cross references in this title, see section 7806(a).

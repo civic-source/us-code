@@ -3,9 +3,9 @@ title: "Section 7675 - Breach of agreement: liability"
 usc_title: 38
 usc_section: "7675"
 chapter: 76
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 7675"
-generated_at: "2026-03-30T03:11:17.790Z"
+generated_at: "2026-03-30T03:14:12.993Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(E)** In the case of a participant who is a part-time student, the participant fails to maintain employment, while enrolled in the course of training being pursued by the participant, as a Department employee.
   - **(2)** Liability under this subsection is in lieu of any service obligation arising under a participant’s agreement.
 - **(c)**
-  - **(1)** Except as provided in subsection (d), if a participant in the Program breaches the agreement by failing for any reason to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula: t−s A=3Φ ( —— ) t
+  - **(1)** Except as provided in subsection (d), if a participant in the Program breaches the agreement by failing for any reason to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
   - **(2)** In such formula:
     - **(A)** “A” is the amount the United States is entitled to recover.
     - **(B)** “Φ” is the sum of—

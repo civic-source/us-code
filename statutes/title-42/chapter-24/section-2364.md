@@ -3,9 +3,9 @@ title: "Section 2364 - Community employment and population"
 usc_title: 42
 usc_section: "2364"
 chapter: 24
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 2364"
-generated_at: "2026-03-30T03:11:40.310Z"
+generated_at: "2026-03-30T03:14:51.799Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 The indemnity obligation specified in section 2363 of this title shall arise only if, for the six months just preceding the date on which it is invoked—
 
 - **(a)** the total number of operating, maintenance, and administrative employees in the project area, as determined by the Commission, has been less than fourteen thousand three hundred and thirty-seven in the case of Oak Ridge or seven thousand six hundred and twenty-two in the case of Richland or four thousand six hundred and twenty in the case of Los Alamos; and
-- **(b)** the population in the community has been less than twenty-nine thousand two hundred and fifty in the case of Oak Ridge or twenty-five thousand two hundred in the case of Richland or eleven thousand seven hundred and sixty-nine in the case of Los Alamos. For purposes of this section employment shall be determined on the basis of the pay period or periods ending nearest the 15th of each month.
+- **(b)** the population in the community has been less than twenty-nine thousand two hundred and fifty in the case of Oak Ridge or twenty-five thousand two hundred in the case of Richland or eleven thousand seven hundred and sixty-nine in the case of Los Alamos.

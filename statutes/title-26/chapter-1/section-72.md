@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-30T03:11:08.661Z"
+generated_at: "2026-03-30T03:13:21.691Z"
 status: "active"
 ---
 
@@ -108,6 +108,7 @@ status: "active"
   - **(6)** For purposes of this subsection, the investment in the contract as of any date is—
     - **(A)** the aggregate amount of premiums or other consideration paid for the contract before such date, minus
     - **(B)** the aggregate amount received under the contract before such date, to the extent that such amount was excludable from gross income under this subtitle or prior income tax laws.
+  - **[(7)**
   - **(8)**
     - **(A)** Notwithstanding any other provision of this subsection, in the case of any amount received before the annuity starting date from a trust or contract described in paragraph (5)(D), paragraph (2)(B) shall apply to such amounts.
     - **(B)** For purposes of paragraph (2)(B), the amount allocated to the investment in the contract shall be the portion of the amount described in subparagraph (A) which bears the same ratio to such amount as the investment in the contract bears to the account balance. The determination under the preceding sentence shall be made as of the time of the distribution or at such other time as the Secretary may prescribe.
@@ -138,6 +139,7 @@ status: "active"
   - **(1)** a contract provides for payment of a lump sum in full discharge of an obligation under the contract, subject to an option to receive an annuity in lieu of such lump sum;
   - **(2)** the option is exercised within 60 days after the day on which such lump sum first became payable; and
   - **(3)** part or all of such lump sum would (but for this subsection) be includible in gross income by reason of subsection (e)(1),
+- **[(i)**
 - **(j)** Notwithstanding any other provision of this section, if any amount is held under an agreement to pay interest thereon, the interest payments shall be included in gross income.
 - **[(k)**
 - **(l)** For purposes of this section, the term “endowment contract” includes a face-amount certificate, as defined in section 2(a)(15) of the Investment Company Act of 1940 (15 U.S.C., sec. 80a–2), issued after December 31, 1954 .
@@ -152,6 +154,7 @@ status: "active"
       - **(ii)** purchased by a trust described in section 401(a) which is exempt from tax under section 501(a) if the proceeds of such contract are payable directly or indirectly to a participant in such trust or to a beneficiary of such participant.
     - **(B)** Any contribution to a plan described in subparagraph (A)(i) or a trust described in subparagraph (A)(ii) which is allowed as a deduction under section 404, and any income of a trust described in subparagraph (A)(ii), which is determined in accordance with regulations prescribed by the Secretary to have been applied to purchase the life insurance protection under a contract described in subparagraph (A), is includible in the gross income of the participant for the taxable year when so applied.
     - **(C)** In the case of the death of an individual insured under a contract described in subparagraph (A), an amount equal to the cash surrender value of the contract immediately before the death of the insured shall be treated as a payment under such plan or a distribution by such trust, and the excess of the amount payable by reason of the death of the insured over such cash surrender value shall not be includible in gross income under this section and shall be treated as provided in section 101.
+  - **[(4)**
   - **(5)**
     - **(A)** This paragraph applies to amounts which are received from a qualified trust described in section 401(a) or under a plan described in section 403(a) at any time by an individual who is, or has been, a 5-percent owner, or by a successor of such an individual, but only to the extent such amounts are determined, under regulations prescribed by the Secretary, to exceed the benefits provided for such individual under the plan formula.
     - **(B)** If a person receives an amount to which this paragraph applies, his tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of the amount so received which is includible in his gross income for such taxable year.

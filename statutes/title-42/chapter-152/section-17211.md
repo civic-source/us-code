@@ -3,9 +3,9 @@ title: "Section 17211 - Definition"
 usc_title: 42
 usc_section: "17211"
 chapter: 152
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 17211"
-generated_at: "2026-03-30T03:11:40.619Z"
+generated_at: "2026-03-30T03:14:52.143Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ For purposes of this part, the term “marine and hydrokinetic renewable energy�
   - **(1)** waves, tides, and currents in oceans, estuaries, and tidal areas;
   - **(2)** free flowing water in rivers, lakes, and streams;
   - **(3)** free flowing water in man-made channels; and
-  - **(4)** differentials in ocean temperature (ocean thermal energy conversion). The term “marine and hydrokinetic renewable energy” does not include energy from any source that uses a dam, diversionary structure, or impoundment for electric power purposes.
+  - **(4)** differentials in ocean temperature (ocean thermal energy conversion).

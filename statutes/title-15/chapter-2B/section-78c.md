@@ -3,9 +3,9 @@ title: "Section 78c - Definitions and application"
 usc_title: 15
 usc_section: "78c"
 chapter: 2
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 78c"
-generated_at: "2026-03-30T03:10:11.467Z"
+generated_at: "2026-03-30T03:12:35.233Z"
 status: "active"
 ---
 
@@ -67,10 +67,10 @@ status: "active"
       - **(i)** in the capacity as trustee, executor, administrator, registrar of stocks and bonds, transfer agent, guardian, assignee, receiver, or custodian under a uniform gift to minor act, or as an investment adviser if the bank receives a fee for its investment advice;
       - **(ii)** in any capacity in which the bank possesses investment discretion on behalf of another; or
       - **(iii)** in any other similar capacity.
-    - **(E)**
-    - **(F)** The Commission and the Board of Governors of the Federal Reserve System shall jointly adopt a single set of rules or regulations to implement the exceptions in subparagraph (B).
+    - **(E)** The term “broker” does not include a bank that—
       - **(i)** was, on the day before November 12, 1999 , subject to section 78 o (e) 1 of this title; and
       - **(ii)** is subject to such restrictions and requirements as the Commission considers appropriate.
+    - **(F)** The Commission and the Board of Governors of the Federal Reserve System shall jointly adopt a single set of rules or regulations to implement the exceptions in subparagraph (B).
   - **(5)**
     - **(A)** The term “dealer” means any person engaged in the business of buying and selling securities (not including security-based swaps, other than security-based swaps with or for persons that are not eligible contract participants) for such person’s own account through a broker or otherwise.
     - **(B)** The term “dealer” does not include a person that buys or sells securities (not including security-based swaps, other than security-based swaps with or for persons that are not eligible contract participants) for such person’s own account, either individually or in a fiduciary capacity, but not as a part of a regular business.

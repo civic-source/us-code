@@ -3,9 +3,9 @@ title: "Section 2369 - Repealed. Pub. L. 103–355, title III, § 3062(a) , Oct.
 usc_title: 10
 usc_section: "2369"
 chapter: 139
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 2369"
-generated_at: "2026-03-30T03:10:03.039Z"
+generated_at: "2026-03-30T03:12:15.171Z"
 status: "repealed"
 ---
 

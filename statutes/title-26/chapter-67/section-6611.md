@@ -3,9 +3,9 @@ title: "Section 6611 - Interest on overpayments"
 usc_title: 26
 usc_section: "6611"
 chapter: 67
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 6611"
-generated_at: "2026-03-30T03:11:08.870Z"
+generated_at: "2026-03-30T03:13:21.930Z"
 status: "active"
 ---
 
@@ -16,6 +16,7 @@ status: "active"
   - **(1)** In the case of a credit, from the date of the overpayment to the due date of the amount against which the credit is taken.
   - **(2)** In the case of a refund, from the date of the overpayment to a date (to be determined by the Secretary) preceding the date of the refund check by not more than 30 days, whether or not such refund check is accepted by the taxpayer after tender of such check to the taxpayer. The acceptance of such check shall be without prejudice to any right of the taxpayer to claim any additional overpayment and interest thereon.
   - **(3)** Notwithstanding paragraph (1) or (2) in the case of a return of tax which is filed after the last date prescribed for filing such return (determined with regard to extensions), no interest shall be allowed or paid for any day before the date on which the return is filed.
+- **[(c)**
 - **(d)** The provisions of section 6513 (except the provisions of subsection (c) thereof, applicable in determining the date of payment of tax for purposes of determining the period of limitation on credit or refund, shall be applicable in determining the date of payment for purposes of subsection (a).
 - **(e)**
   - **(1)** If any overpayment of tax imposed by this title is refunded within 45 days after the last day prescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in the case of a return filed after such last date, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.

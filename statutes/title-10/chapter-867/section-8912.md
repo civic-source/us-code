@@ -3,9 +3,9 @@ title: "Section 8912 - Repealed. Pub. L. 85–155, title IV, § 401(1) , Aug. 21
 usc_title: 10
 usc_section: "8912"
 chapter: 867
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 8912"
-generated_at: "2026-03-30T03:10:03.084Z"
+generated_at: "2026-03-30T03:12:15.219Z"
 status: "repealed"
 ---
 

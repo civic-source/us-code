@@ -3,9 +3,9 @@ title: "Section 1808 - Responsibilities and duties of Director"
 usc_title: 30
 usc_section: "1808"
 chapter: 30
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "30 U.S.C. § 1808"
-generated_at: "2026-03-30T03:10:47.998Z"
+generated_at: "2026-03-30T03:13:32.361Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2952 - International discussions"
 usc_title: 15
 usc_section: "2952"
 chapter: 56
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 2952"
-generated_at: "2026-03-30T03:10:11.593Z"
+generated_at: "2026-03-30T03:12:35.370Z"
 status: "active"
 ---
 

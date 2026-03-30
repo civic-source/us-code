@@ -3,9 +3,9 @@ title: "Section 1616a - Indian Health Service Loan Repayment Program"
 usc_title: 25
 usc_section: "1616a"
 chapter: 18
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 1616a"
-generated_at: "2026-03-30T03:10:32.910Z"
+generated_at: "2026-03-30T03:13:04.450Z"
 status: "active"
 ---
 
@@ -100,16 +100,16 @@ status: "active"
       - **(iii)** is dismissed from such educational institution before completion of such course of study; or
     - **(B)** is enrolled in a graduate training program, fails to complete such training program, and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
   - **(2)** If, for any reason not specified in paragraph (1), an individual breaches his written contract under this section by failing either to begin, or complete, such individual’s period of obligated service in accordance with subsection (f) of this section, the United States shall be entitled to recover from such individual an amount to be determined in accordance with the following formula:
-    - **(A)** “A” is the amount the United States is entitled to recover;
-    - **(B)** “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
-    - **(C)** “t” is the total number of months in the individual’s period of obligated service in accordance with subsection (f) of this section; and
-    - **(D)** “s” is the number of months of such period served by such individual in accordance with this section.
   - **(3)**
     - **(A)** Any amount of damages which the United States is entitled to recover under this subsection shall be paid to the United States within the 1-year period beginning on the date of the breach or such longer period beginning on such date as shall be specified by the Secretary.
     - **(B)** If damages described in subparagraph (A) are delinquent for 3 months, the Secretary shall, for the purpose of recovering such damages—
       - **(i)** utilize collection agencies contracted with by the Administrator of the General Services Administration; or
       - **(ii)** enter into contracts for the recovery of such damages with collection agencies selected by the Secretary.
     - **(C)** Each contract for recovering damages pursuant to this subsection shall provide that the contractor will, not less than once each 6 months, submit to the Secretary a status report on the success of the contractor in collecting such damages. Section 3718 of title 31 shall apply to any such contract to the extent not inconsistent with this subsection.
+    - **(A)** “A” is the amount the United States is entitled to recover;
+    - **(B)** “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
+    - **(C)** “t” is the total number of months in the individual’s period of obligated service in accordance with subsection (f) of this section; and
+    - **(D)** “s” is the number of months of such period served by such individual in accordance with this section.
 - **(m)**
   - **(1)** Any obligation of an individual under the Loan Repayment Program for service or payment of damages shall be canceled upon the death of the individual.
   - **(2)** The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Loan Repayment Program whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.

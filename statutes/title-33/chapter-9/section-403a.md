@@ -3,9 +3,9 @@ title: "Section 403a - Creation or continuance of obstruction of navigable water
 usc_title: 33
 usc_section: "403a"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 403a"
-generated_at: "2026-03-30T03:11:12.213Z"
+generated_at: "2026-03-30T03:13:40.506Z"
 status: "active"
 ---
 

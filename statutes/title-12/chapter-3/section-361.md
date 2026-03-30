@@ -3,9 +3,9 @@ title: "Section 361 - Bills receivable, bills of exchange, acceptances; regulati
 usc_title: 12
 usc_section: "361"
 chapter: 3
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 361"
-generated_at: "2026-03-30T03:10:09.704Z"
+generated_at: "2026-03-30T03:12:30.242Z"
 status: "active"
 ---
 

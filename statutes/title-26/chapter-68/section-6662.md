@@ -3,9 +3,9 @@ title: "Section 6662 - Imposition of accuracy-related penalty on underpayments"
 usc_title: 26
 usc_section: "6662"
 chapter: 68
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 6662"
-generated_at: "2026-03-30T03:11:08.871Z"
+generated_at: "2026-03-30T03:13:21.933Z"
 status: "active"
 ---
 
@@ -89,7 +89,7 @@ status: "active"
   - **(1)** For purposes of this section, the term “undisclosed foreign financial asset understatement” means, for any taxable year, the portion of the understatement for such taxable year which is attributable to any transaction involving an undisclosed foreign financial asset.
   - **(2)** For purposes of this subsection, the term “undisclosed foreign financial asset” means, with respect to any taxable year, any asset with respect to which information was required to be provided under section 6038, 6038B, 6038D, 6046A, or 6048 for such taxable year but was not provided by the taxpayer as required under the provisions of those sections.
   - **(3)** In the case of any portion of an underpayment which is attributable to any undisclosed foreign financial asset understatement, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
-      - **(i)**
+- **(i)**
   - **(1)** In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
   - **(2)** For purposes of this subsection, the term “nondisclosed noneconomic substance transaction” means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.
   - **(3)** In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.

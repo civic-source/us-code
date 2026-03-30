@@ -3,9 +3,9 @@ title: "Section 2576 - Arms control information"
 usc_title: 22
 usc_section: "2576"
 chapter: 35
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 2576"
-generated_at: "2026-03-30T03:10:34.706Z"
+generated_at: "2026-03-30T03:12:56.182Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ In order to assist the Secretary of State in the performance of his duties with 
   - **(2)** any program of research, development, testing, engineering, construction, deployment, or modernization with respect to armaments, ammunition, implements of war, or military facilities, having—
     - **(A)** an estimated total program cost in excess of $250,000,000, or
     - **(B)** an estimated annual program cost in excess of $50,000,000, or
-  - **(3)** any other program involving technology with potential military application or weapons systems which such Government agency or the Secretary of State believes may have a significant impact on arms control, nonproliferation, and disarmament policy or negotiations, shall, on a continuing basis, provide the Secretary of State with full and timely access to detailed information with respect to the nature, scope, and purpose of such proposal.
+  - **(3)** any other program involving technology with potential military application or weapons systems which such Government agency or the Secretary of State believes may have a significant impact on arms control, nonproliferation, and disarmament policy or negotiations,

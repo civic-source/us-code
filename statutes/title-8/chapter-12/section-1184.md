@@ -3,9 +3,9 @@ title: "Section 1184 - Admission of nonimmigrants"
 usc_title: 8
 usc_section: "1184"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "8 U.S.C. § 1184"
-generated_at: "2026-03-30T03:09:58.640Z"
+generated_at: "2026-03-30T03:12:09.951Z"
 status: "active"
 ---
 
@@ -262,7 +262,7 @@ status: "active"
     - **(A)** at a public elementary school or in a publicly funded adult education program; or
     - **(B)** at a public secondary school unless—
       - **(i)** the aggregate period of such status at such a school does not exceed 12 months with respect to any alien, and (ii) the alien demonstrates that the alien has reimbursed the local educational agency that administers the school for the full, unsubsidized per capita cost of providing education at such school for the period of the alien’s attendance.
-        - **(2)** An alien who obtains the status of a nonimmigrant under clause (i) or (iii) of section 1101(a)(15)(F) of this title in order to pursue a course of study at a private elementary or secondary school or in a language training program that is not publicly funded shall be considered to have violated such status, and the alien’s visa under section 1101(a)(15)(F) of this title shall be void, if the alien terminates or abandons such course of study at such a school and undertakes a course of study at a public elementary school, in a publicly funded adult education program, in a publicly funded adult education language training program, or at a public secondary school (unless the requirements of paragraph (1)(B) are met).
+  - **(2)** An alien who obtains the status of a nonimmigrant under clause (i) or (iii) of section 1101(a)(15)(F) of this title in order to pursue a course of study at a private elementary or secondary school or in a language training program that is not publicly funded shall be considered to have violated such status, and the alien’s visa under section 1101(a)(15)(F) of this title shall be void, if the alien terminates or abandons such course of study at such a school and undertakes a course of study at a public elementary school, in a publicly funded adult education program, in a publicly funded adult education language training program, or at a public secondary school (unless the requirements of paragraph (1)(B) are met).
 - **(n)**
   - **(1)** A nonimmigrant alien described in paragraph (2) who was previously issued a visa or otherwise provided nonimmigrant status under section 1101(a)(15)(H)(i)(b) of this title is authorized to accept new employment upon the filing by the prospective employer of a new petition on behalf of such nonimmigrant as provided under subsection (a) of this section. Employment authorization shall continue for such alien until the new petition is adjudicated. If the new petition is denied, such authorization shall cease.
   - **(2)** A nonimmigrant alien described in this paragraph is a nonimmigrant alien—

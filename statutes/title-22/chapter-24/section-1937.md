@@ -3,9 +3,9 @@ title: "Section 1937 - Irish counterpart account; approval of disposition"
 usc_title: 22
 usc_section: "1937"
 chapter: 24
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 1937"
-generated_at: "2026-03-30T03:10:34.676Z"
+generated_at: "2026-03-30T03:12:56.152Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Pursuant to section 1513(b)(6) 1 1 See References in Text note below. of this ti
 
   - **(1)** scholarship exchange between the United States and Ireland;
   - **(2)** other programs and projects (including the establishment of an Agricultural Institute) to improve and develop the agricultural production and marketing potential of Ireland and to increase the production and efficiency of Irish industry; and
-  - **(3)** development programs and projects in aid of the foregoing objectives, is approved, as provided in the agreement between the Government of the United States of America and the Government of Ireland, dated June 17, 1954 .
+  - **(3)** development programs and projects in aid of the foregoing objectives,

@@ -3,9 +3,9 @@ title: "Section 8711 - Base acres"
 usc_title: 7
 usc_section: "8711"
 chapter: 113
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 8711"
-generated_at: "2026-03-30T03:10:00.619Z"
+generated_at: "2026-03-30T03:12:09.476Z"
 status: "active"
 ---
 

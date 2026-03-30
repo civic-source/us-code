@@ -3,9 +3,9 @@ title: "Section 2503 - Taxable gifts"
 usc_title: 26
 usc_section: "2503"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 2503"
-generated_at: "2026-03-30T03:11:08.805Z"
+generated_at: "2026-03-30T03:13:21.855Z"
 status: "active"
 ---
 
@@ -22,6 +22,7 @@ status: "active"
   - **(2)** will to the extent not so expended—
     - **(A)** pass to the donee on his attaining the age of 21 years, and
     - **(B)** in the event the donee dies before attaining the age of 21 years, be payable to the estate of the donee or as he may appoint under a general power of appointment as defined in section 2514(c).
+- **[(d)**
 - **(e)**
   - **(1)** Any qualified transfer shall not be treated as a transfer of property by gift for purposes of this chapter.
   - **(2)** For purposes of this subsection, the term “qualified transfer” means any amount paid on behalf of an individual—

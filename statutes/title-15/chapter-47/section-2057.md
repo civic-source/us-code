@@ -3,9 +3,9 @@ title: "Section 2057 - Banned hazardous products"
 usc_title: 15
 usc_section: "2057"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 2057"
-generated_at: "2026-03-30T03:10:11.575Z"
+generated_at: "2026-03-30T03:12:35.350Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Whenever the Commission finds that—
 
   - **(1)** a consumer product is being, or will be, distributed in commerce and such consumer product presents an unreasonable risk of injury; and
-  - **(2)** no feasible consumer product safety standard under this chapter would adequately protect the public from the unreasonable risk of injury associated with such product, the Commission may, in accordance with section 2058 of this title , promulgate a rule declaring such product a banned hazardous product.
+  - **(2)** no feasible consumer product safety standard under this chapter would adequately protect the public from the unreasonable risk of injury associated with such product,

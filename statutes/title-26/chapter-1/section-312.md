@@ -3,9 +3,9 @@ title: "Section 312 - Effect on earnings and profits"
 usc_title: 26
 usc_section: "312"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 312"
-generated_at: "2026-03-30T03:11:08.700Z"
+generated_at: "2026-03-30T03:13:21.733Z"
 status: "active"
 ---
 
@@ -27,6 +27,7 @@ status: "active"
     - **(B)** if the distribution was not subject to tax in the hands of such distributee by reason of section 305(a).
   - **(2)** In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be.
   - **(3)** For purposes of this subsection, the term “stock or securities” includes rights to acquire stock or securities.
+- **[(e)**
 - **(f)**
   - **(1)** The gain or loss realized from the sale or other disposition (after February 28, 1913 ) of property by a corporation—
     - **(A)** for the purpose of the computation of the earnings and profits of the corporation, shall (except as provided in subparagraph (B)) be determined by using as the adjusted basis the adjusted basis (under the law applicable to the year in which the sale or other disposition was made) for determining gain, except that no regard shall be had to the value of the property as of March 1, 1913 ; but
@@ -43,6 +44,7 @@ status: "active"
 - **(i)** If a corporation distributes property with respect to its stock and if, at the time of distribution—
   - **(1)** there is outstanding a loan to such corporation which was made, guaranteed, or insured by the United States (or by any agency or instrumentality thereof), and
   - **(2)** the amount of such loan so outstanding exceeds the adjusted basis of the property constituting security for such loan,
+- **[(j)**
 - **(k)**
   - **(1)** For purposes of computing the earnings and profits of a corporation for any taxable year beginning after June 30, 1972 , the allowance for depreciation (and amortization, if any) shall be deemed to be the amount which would be allowable for such year if the straight line method of depreciation had been used for each taxable year beginning after June 30, 1972 .
   - **(2)** If for any taxable year a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a) and which is the unit-of-production method or other method not expressed in a term of years, then the adjustment to earnings and profits for depreciation for such year shall be determined under the method so used (in lieu of the straight line method).

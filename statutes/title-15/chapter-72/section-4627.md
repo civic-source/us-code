@@ -3,9 +3,9 @@ title: "Section 4627 - Cost-sharing agreements"
 usc_title: 15
 usc_section: "4627"
 chapter: 72
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 4627"
-generated_at: "2026-03-30T03:10:11.605Z"
+generated_at: "2026-03-30T03:12:35.382Z"
 status: "active"
 ---
 

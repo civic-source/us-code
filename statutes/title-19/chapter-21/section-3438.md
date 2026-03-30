@@ -3,9 +3,9 @@ title: "Section 3438 - Treatment of amendments to antidumping and countervailing
 usc_title: 19
 usc_section: "3438"
 chapter: 21
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "19 U.S.C. § 3438"
-generated_at: "2026-03-30T03:10:25.224Z"
+generated_at: "2026-03-30T03:12:39.200Z"
 status: "active"
 ---
 

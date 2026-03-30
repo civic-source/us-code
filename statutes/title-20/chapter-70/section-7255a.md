@@ -3,9 +3,9 @@ title: "Section 7255a - Purposes"
 usc_title: 20
 usc_section: "7255a"
 chapter: 70
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "20 U.S.C. § 7255a"
-generated_at: "2026-03-30T03:10:17.377Z"
+generated_at: "2026-03-30T03:12:49.542Z"
 status: "active"
 ---
 

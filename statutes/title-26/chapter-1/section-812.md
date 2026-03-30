@@ -3,9 +3,9 @@ title: "Section 812 - Definition of company’s share and policyholders’ share
 usc_title: 26
 usc_section: "812"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 812"
-generated_at: "2026-03-30T03:11:08.752Z"
+generated_at: "2026-03-30T03:13:21.792Z"
 status: "active"
 ---
 

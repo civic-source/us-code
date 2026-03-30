@@ -3,9 +3,9 @@ title: "Section 5312 - Research, development, demonstration, and deployment proj
 usc_title: 49
 usc_section: "5312"
 chapter: 53
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 5312"
-generated_at: "2026-03-30T03:11:48.067Z"
+generated_at: "2026-03-30T03:15:03.297Z"
 status: "active"
 ---
 
@@ -74,6 +74,7 @@ status: "active"
       - **(i)** The term “eligible area” means an area that is—
         - **(I)** designated as a nonattainment area for ozone or carbon monoxide under section 107(d) of the Clean Air Act ( 42 U.S.C. 7407(d) ); or
         - **(II)** a maintenance area, as defined in section 5303, for ozone or carbon monoxide.
+      - **“(ii)** The term “eligible project” means a project or program of projects in an eligible area for—
         - **(I)** acquiring or leasing low or no emission vehicles;
         - **(II)** constructing or leasing facilities and related equipment for low or no emission vehicles;
         - **(III)** constructing new public transportation facilities to accommodate low or no emission vehicles; or

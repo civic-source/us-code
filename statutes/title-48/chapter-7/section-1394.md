@@ -3,9 +3,9 @@ title: "Section 1394 - Customs duties and internal-revenue taxes"
 usc_title: 48
 usc_section: "1394"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "48 U.S.C. § 1394"
-generated_at: "2026-03-30T03:11:49.620Z"
+generated_at: "2026-03-30T03:14:59.450Z"
 status: "active"
 ---
 

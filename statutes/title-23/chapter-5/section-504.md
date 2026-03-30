@@ -3,9 +3,9 @@ title: "Section 504 - Training and education"
 usc_title: 23
 usc_section: "504"
 chapter: 5
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "23 U.S.C. § 504"
-generated_at: "2026-03-30T03:10:33.267Z"
+generated_at: "2026-03-30T03:12:52.322Z"
 status: "active"
 ---
 
@@ -83,7 +83,7 @@ status: "active"
   - **(2)**
     - **(A)** The Secretary shall establish and implement a transportation research fellowship program for the purpose of attracting qualified students to the field of transportation, which program shall be known as the “Dwight David Eisenhower Transportation Fellowship Program”.
     - **(B)** Amounts provided to institutions of higher education to carry out this paragraph shall be used to provide direct support of student expenses.
-- **(d)**
+- **(d)** Morgan Technology and Transportation Education Program.—
   - **(1)** The Secretary shall establish the Garrett A. Morgan Technology and Transportation Education Program to improve the preparation of students, particularly women and minorities, in science, technology, engineering, and mathematics through curriculum development and other activities related to transportation.
   - **(2)** The Secretary shall award grants under this subsection on the basis of competitive peer review. Grants awarded under this subsection may be used for enhancing science, technology, engineering, and mathematics at the elementary and secondary school level through such means as—
     - **(A)** internships that offer students experience in the transportation field;

@@ -3,9 +3,9 @@ title: "Section 2159 - Purchase and sale of obligations; additional powers"
 usc_title: 12
 usc_section: "2159"
 chapter: 23
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 2159"
-generated_at: "2026-03-30T03:10:09.788Z"
+generated_at: "2026-03-30T03:12:30.328Z"
 status: "active"
 ---
 

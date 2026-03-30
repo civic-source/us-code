@@ -3,9 +3,9 @@ title: "Section 8104 - Repowering assistance"
 usc_title: 7
 usc_section: "8104"
 chapter: 107
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 8104"
-generated_at: "2026-03-30T03:10:00.614Z"
+generated_at: "2026-03-30T03:12:09.471Z"
 status: "active"
 ---
 

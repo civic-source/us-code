@@ -3,9 +3,9 @@ title: "Section 1475e - Use of English-teaching program fees"
 usc_title: 22
 usc_section: "1475e"
 chapter: 18
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 1475e"
-generated_at: "2026-03-30T03:10:34.671Z"
+generated_at: "2026-03-30T03:12:56.147Z"
 status: "active"
 ---
 

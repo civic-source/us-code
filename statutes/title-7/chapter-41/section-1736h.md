@@ -3,9 +3,9 @@ title: "Section 1736h - Congressional consultation on bilateral commodity supply
 usc_title: 7
 usc_section: "1736h"
 chapter: 41
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 1736h"
-generated_at: "2026-03-30T03:10:00.521Z"
+generated_at: "2026-03-30T03:12:09.380Z"
 status: "active"
 ---
 

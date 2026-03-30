@@ -3,9 +3,9 @@ title: "Section 2006 - Execution against revenue officer"
 usc_title: 28
 usc_section: "2006"
 chapter: 127
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "28 U.S.C. § 2006"
-generated_at: "2026-03-30T03:10:49.979Z"
+generated_at: "2026-03-30T03:13:10.211Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Execution shall not issue against a collector or other revenue officer on a final judgment in any proceeding against him for any of his acts, or for the recovery of any money exacted by or paid to him and subsequently paid into the Treasury, in performing his official duties, if the court certifies that:
 
   - **(1)** probable cause existed; or
-  - **(2)** the officer acted under the directions of the Secretary of the Treasury, the Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, or other proper Government officer. When such certificate has been issued, the amount of the judgment shall be paid out of the proper appropriation by the Treasury.
+  - **(2)** the officer acted under the directions of the Secretary of the Treasury, the Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, or other proper Government officer.

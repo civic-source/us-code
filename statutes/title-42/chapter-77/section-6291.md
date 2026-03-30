@@ -3,9 +3,9 @@ title: "Section 6291 - Definitions"
 usc_title: 42
 usc_section: "6291"
 chapter: 77
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 6291"
-generated_at: "2026-03-30T03:11:40.392Z"
+generated_at: "2026-03-30T03:14:51.892Z"
 status: "active"
 ---
 
@@ -190,12 +190,14 @@ For purposes of this part:
       - **(ii)** is designated and marketed for the intended application, with—
         - **(I)** the designation on the lamp packaging; and
         - **(II)** marketing materials that identify the lamp as being shatter-resistant, shatter-proof, or shatter-protected.
+    - **(AA)** The term “vibration service lamp” means a lamp that—
       - **(i)** has filament configurations that are C–5, C–7A, or C–9, as listed in Figure 6–12 of the 9th Edition of the IESNA Lighting Handbook or similar configurations;
       - **(ii)** has a maximum wattage of 60 watts;
       - **(iii)** is sold at retail in packages of 2 lamps or less; and
       - **(iv)** is designated and marketed specifically for vibration service or vibration-resistant applications, with—
         - **(I)** the designation appearing on the lamp packaging; and
         - **(II)** marketing materials that identify the lamp as being vibration service only.
+    - **(BB)**
       - **(i)** The term “general service lamp” includes—
         - **(I)** general service incandescent lamps;
         - **(II)** compact fluorescent lamps;
@@ -204,11 +206,14 @@ For purposes of this part:
       - **(ii)** The term “general service lamp” does not include—
         - **(I)** any lighting application or bulb shape described in any of subclauses (I) through (XXII) of subparagraph (D)(ii); or
         - **(II)** any general service fluorescent lamp or incandescent reflector lamp.
+    - **(CC)**
       - **(i)** The terms “light-emitting diode” and “LED” means a p-n junction solid state device the radiated output of which is a function of the physical construction, material used, and exciting current of the device.
       - **(ii)** The output of a light-emitting diode may be in—
         - **(I)** the infrared region;
         - **(II)** the visible region; or
         - **(III)** the ultraviolet region.
+    - **(DD)** The terms “organic light-emitting diode” and “OLED” mean a thin-film light-emitting device that typically consists of a series of organic layers between 2 electrical contacts (electrodes).
+    - **(EE)** The term “colored incandescent lamp” means an incandescent lamp designated and marketed as a colored lamp that has—
       - **(i)** a color rendering index of less than 50, as determined according to the test method given in C.I.E. publication 13.3–1995; or
       - **(ii)** a correlated color temperature of less than 2,500K, or greater than 4,600K, where correlated temperature is computed according to the Journal of Optical Society of America, Vol. 58, pages 1528–1595 (1986).
   - **(31)**

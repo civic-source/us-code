@@ -3,9 +3,9 @@ title: "Section 5019 - General Counsel"
 usc_title: 10
 usc_section: "5019"
 chapter: 503
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 5019"
-generated_at: "2026-03-30T03:10:03.069Z"
+generated_at: "2026-03-30T03:12:15.203Z"
 status: "active"
 ---
 

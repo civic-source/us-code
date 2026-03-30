@@ -3,9 +3,9 @@ title: "Section 30122 - Making safety devices and elements inoperative"
 usc_title: 49
 usc_section: "30122"
 chapter: 301
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 30122"
-generated_at: "2026-03-30T03:11:48.093Z"
+generated_at: "2026-03-30T03:15:03.323Z"
 status: "active"
 ---
 

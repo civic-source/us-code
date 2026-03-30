@@ -3,9 +3,9 @@ title: "Section 36b - Mental and behavioral health services on campus"
 usc_title: 42
 usc_section: "36b"
 chapter: 6
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 36b"
-generated_at: "2026-03-30T03:11:40.010Z"
+generated_at: "2026-03-30T03:14:51.478Z"
 status: "active"
 ---
 

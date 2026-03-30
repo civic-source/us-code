@@ -3,9 +3,9 @@ title: "Section 7279b - Allotments to States"
 usc_title: 20
 usc_section: "7279b"
 chapter: 70
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "20 U.S.C. § 7279b"
-generated_at: "2026-03-30T03:10:17.379Z"
+generated_at: "2026-03-30T03:12:49.546Z"
 status: "active"
 ---
 

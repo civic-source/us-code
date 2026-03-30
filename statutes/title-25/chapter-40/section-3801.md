@@ -3,9 +3,9 @@ title: "Section 3801 - Findings"
 usc_title: 25
 usc_section: "3801"
 chapter: 40
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 3801"
-generated_at: "2026-03-30T03:10:32.950Z"
+generated_at: "2026-03-30T03:13:04.493Z"
 status: "active"
 ---
 

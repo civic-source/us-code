@@ -3,13 +3,11 @@ title: "Section 3498 - Depositions—(Rule)"
 usc_title: 18
 usc_section: "3498"
 chapter: 223
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 3498"
-generated_at: "2026-03-30T03:10:19.998Z"
+generated_at: "2026-03-30T03:12:44.468Z"
 status: "active"
 ---
 
 # § 3498. Depositions—(Rule)
-
-See Federal Rules of Criminal Procedure Time, manner and conditions of taking depositions; costs; notice; use; objections; written interrogatories, Rule 15. Subpoenas on taking depositions, Rule 17(f).
 

@@ -3,9 +3,9 @@ title: "Section 13792 - Repealed. Pub. L. 105–277, div. A, § 101(f) [title VI
 usc_title: 42
 usc_section: "13792"
 chapter: 136
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 13792"
-generated_at: "2026-03-30T03:11:40.567Z"
+generated_at: "2026-03-30T03:14:52.085Z"
 status: "repealed"
 ---
 

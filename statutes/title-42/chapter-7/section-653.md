@@ -3,9 +3,9 @@ title: "Section 653 - Federal Parent Locator Service"
 usc_title: 42
 usc_section: "653"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 653"
-generated_at: "2026-03-30T03:11:40.097Z"
+generated_at: "2026-03-30T03:14:51.576Z"
 status: "active"
 ---
 
@@ -171,7 +171,9 @@ status: "active"
       - **(ii)** after removal of personal identifiers, to conduct analyses of the employment and income reporting of individuals described in subparagraph (A).
     - **(E)** The Secretary of Veterans Affairs shall reimburse the Secretary, in accordance with subsection (k)(3), for the costs incurred by the Secretary in furnishing the information requested under this paragraph.
     - **(F)** The Secretary of Veterans Affairs shall not seek, use, or disclose information under this paragraph relating to an individual without the prior written consent of such individual (or of a person legally authorized to consent on behalf of such individual).
-    - **(G)** The authority under this paragraph shall expire on November 18, 2011 .
+    - **(G)** The authority under this paragraph shall be in effect as follows:
+      - **(i)** During the period beginning on December 26, 2007 , and ending on November 18, 2011 .
+      - **(ii)** During the period beginning on September 30, 2013 , and ending 180 days after that date.
 - **(k)**
   - **(1)** The Secretary shall reimburse the Commissioner of Social Security, at a rate negotiated between the Secretary and the Commissioner, for the costs incurred by the Commissioner in performing the verification services described in subsection (j) of this section.
   - **(2)** The Secretary shall reimburse costs incurred by State directories of new hires in furnishing information as required by section 653a(g)(2) of this title , at rates which the Secretary determines to be reasonable (which rates shall not include payment for the costs of obtaining, compiling, or maintaining such information).

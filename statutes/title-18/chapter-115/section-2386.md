@@ -3,9 +3,9 @@ title: "Section 2386 - Registration of certain organizations"
 usc_title: 18
 usc_section: "2386"
 chapter: 115
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 2386"
-generated_at: "2026-03-30T03:10:19.989Z"
+generated_at: "2026-03-30T03:12:44.458Z"
 status: "active"
 ---
 
@@ -34,11 +34,4 @@ status: "active"
     - **(C)** The Attorney General is authorized at any time to make, amend, and rescind such rules and regulations as may be necessary to carry out this section, including rules and regulations governing the statements required to be filed.
     - **(D)** Whoever violates any of the provisions of this section shall be fined under this title or imprisoned not more than five years, or both. Whoever in a statement filed pursuant to this section willfully makes any false statement or willfully omits to state any fact which is required to be stated, or which is necessary to make the statements made not misleading, shall be fined under this title or imprisoned not more than five years, or both.
     - **(A)** For the purposes of this section:
-        - **(1)** it gives instruction to, or prescribes instruction for, its members in the use of firearms or other weapons or any substitute therefor, or military or naval science; or
-        - **(2)** it receives from any other organization or from any individual instruction in military or naval science; or
-        - **(3)** it engages in any military or naval maneuvers or activities; or
-        - **(4)** it engages, either with or without arms, in drills or parades of a military or naval character; or
-        - **(5)** it engages in any other form of organized activity which in the opinion of the Attorney General constitutes preparation for military action;
     - **(B)**
-        - **(1)** The following organizations shall be required to register with the Attorney General: Every organization subject to foreign control which engages in political activity; Every organization which engages both in civilian military activity and in political activity; Every organization subject to foreign control which engages in civilian military activity; and Every organization, the purpose or aim of which, or one of the purposes or aims of which, is the establishment, control, conduct, seizure, or overthrow of a government or subdivision thereof by the use of force, violence, military measures, or threats of any one or more of the foregoing. Every such organization shall register by filing with the Attorney General, on such forms and in such detail as the Attorney General may by rules and regulations prescribe, a registration statement containing the information and documents prescribed in subsection (B)(3) and shall within thirty days after the expiration of each period of six months succeeding the filing of such registration statement, file with the Attorney General, on such forms and in such detail as the Attorney General may by rules and regulations prescribe, a supplemental statement containing such information and documents as may be necessary to make the information and documents previously filed under this section accurate and current with respect to such preceding six months’ period. Every statement required to be filed by this section shall be subscribed, under oath, by all of the officers of the organization.
-        - **(2)** This section shall not require registration or the filing of any statement with the Attorney General by:

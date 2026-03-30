@@ -3,9 +3,9 @@ title: "Section 772 - Per capita payments to tribal members; tax exemption"
 usc_title: 25
 usc_section: "772"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 772"
-generated_at: "2026-03-30T03:10:32.896Z"
+generated_at: "2026-03-30T03:13:04.435Z"
 status: "active"
 ---
 

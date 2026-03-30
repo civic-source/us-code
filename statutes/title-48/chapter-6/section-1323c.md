@@ -3,9 +3,9 @@ title: "Section 1323c - Omitted"
 usc_title: 48
 usc_section: "1323c"
 chapter: 6
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "48 U.S.C. § 1323c"
-generated_at: "2026-03-30T03:11:49.619Z"
+generated_at: "2026-03-30T03:14:59.450Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40501 - General rate and tariff requirements"
 usc_title: 46
 usc_section: "40501"
 chapter: 405
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "46 U.S.C. § 40501"
-generated_at: "2026-03-30T03:11:46.126Z"
+generated_at: "2026-03-30T03:15:00.476Z"
 status: "active"
 ---
 

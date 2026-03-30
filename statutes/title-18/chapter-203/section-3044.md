@@ -3,13 +3,11 @@ title: "Section 3044 - Complaint—(Rule)"
 usc_title: 18
 usc_section: "3044"
 chapter: 203
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 3044"
-generated_at: "2026-03-30T03:10:19.993Z"
+generated_at: "2026-03-30T03:12:44.461Z"
 status: "active"
 ---
 
 # § 3044. Complaint—(Rule)
-
-See Federal Rules of Criminal Procedure Contents of complaint; oath, Rule 3.
 

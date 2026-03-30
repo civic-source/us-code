@@ -3,9 +3,9 @@ title: "Section 210307 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "210307"
 chapter: 2103
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "36 U.S.C. § 210307"
-generated_at: "2026-03-30T03:11:15.039Z"
+generated_at: "2026-03-30T03:13:54.257Z"
 status: "active"
 ---
 

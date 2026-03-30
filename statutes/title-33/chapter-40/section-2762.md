@@ -3,9 +3,9 @@ title: "Section 2762 - Submerged oil program"
 usc_title: 33
 usc_section: "2762"
 chapter: 40
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 2762"
-generated_at: "2026-03-30T03:11:12.269Z"
+generated_at: "2026-03-30T03:13:40.567Z"
 status: "active"
 ---
 

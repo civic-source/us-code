@@ -3,9 +3,9 @@ title: "Section 1 - Annual report on nuclear transfer activities"
 usc_title: 22
 usc_section: "1"
 chapter: 32
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T03:10:34.701Z"
+generated_at: "2026-03-30T03:12:56.177Z"
 status: "active"
 ---
 

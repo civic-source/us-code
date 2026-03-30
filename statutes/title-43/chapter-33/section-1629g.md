@@ -3,9 +3,9 @@ title: "Section 1629g - Open season for certain Alaska Native veterans for allot
 usc_title: 43
 usc_section: "1629g"
 chapter: 33
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "43 U.S.C. § 1629g"
-generated_at: "2026-03-30T03:11:20.611Z"
+generated_at: "2026-03-30T03:14:28.878Z"
 status: "active"
 ---
 
@@ -24,11 +24,6 @@ status: "active"
     - **(G)** lands withdrawn or reserved for national defense purposes other than National Petroleum Reserve-Alaska;
     - **(H)** National Forest Lands; and
     - **(I)** lands selected or claimed, but not conveyed, under a public land law, including but not limited to the following:
-        - **(1)** Lands within a recorded mining claim.
-        - **(2)** Home sites.
-        - **(3)** Trade and Manufacturing sites.
-        - **(4)** Reindeer sites or headquarters sites.
-        - **(5)** Cemetery sites.
   - **(4)** A person who qualifies for an allotment on lands prohibited from conveyance by a provision of subsection (a)(3) of this section may select an alternative allotment from the following lands located within the geographic boundaries of the same Regional Corporation as the excluded allotment—
     - **(A)** lands withdrawn pursuant to section 1610(a)(1) of this title which were not selected, or were relinquished after selection;
     - **(B)** lands contiguous to the outer boundary of lands withdrawn pursuant to section 1610(a)(1)(C) of this title , except lands excluded from selection by a provision of subsection (a)(3) of this section and lands within a National Park; or

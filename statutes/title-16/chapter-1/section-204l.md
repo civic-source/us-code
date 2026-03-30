@@ -3,9 +3,9 @@ title: "Section 204l - Application of Federal Power Act"
 usc_title: 16
 usc_section: "204l"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 204l"
-generated_at: "2026-03-30T03:10:27.093Z"
+generated_at: "2026-03-30T03:12:42.144Z"
 status: "active"
 ---
 

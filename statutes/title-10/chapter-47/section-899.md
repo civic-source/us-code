@@ -3,9 +3,9 @@ title: "Section 899 - Art. 99. Misbehavior before the enemy"
 usc_title: 10
 usc_section: "899"
 chapter: 47
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 899"
-generated_at: "2026-03-30T03:10:02.990Z"
+generated_at: "2026-03-30T03:12:15.120Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ Any member of the armed forces who before or in the presence of the enemy—
   - **(6)** quits his place of duty to plunder or pillage;
   - **(7)** causes false alarms in any command, unit, or place under control of the armed forces;
   - **(8)** willfully fails to do his utmost to encounter, engage, capture, or destroy any enemy troops, combatants, vessels, aircraft, or any other thing, which it is his duty so to encounter, engage, capture, or destroy; or
-  - **(9)** does not afford all practicable relief and assistance to any troops, combatants, vessels, or aircraft of the armed forces belonging to the United States or their allies when engaged in battle; shall be punished by death or such other punishment as a court-martial may direct.
+  - **(9)** does not afford all practicable relief and assistance to any troops, combatants, vessels, or aircraft of the armed forces belonging to the United States or their allies when engaged in battle;

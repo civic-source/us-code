@@ -3,9 +3,9 @@ title: "Section 677o - Termination of restrictions on individually owned propert
 usc_title: 25
 usc_section: "677o"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 677o"
-generated_at: "2026-03-30T03:10:32.891Z"
+generated_at: "2026-03-30T03:13:04.430Z"
 status: "active"
 ---
 

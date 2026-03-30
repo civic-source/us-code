@@ -3,9 +3,9 @@ title: "Section 3224 - Death of participant"
 usc_title: 38
 usc_section: "3224"
 chapter: 32
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 3224"
-generated_at: "2026-03-30T03:11:17.763Z"
+generated_at: "2026-03-30T03:14:12.967Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ In the event of a participant’s death, the amount of such participant’s unus
   - **(1)** The beneficiary or beneficiaries designated by such participant under such participant’s Servicemembers’ Group Life Insurance policy.
   - **(2)** The surviving spouse of the participant.
   - **(3)** The surviving child or children of the participant, in equal shares.
-  - **(4)** The surviving parent or parents of the participant, in equal shares. If there is no such person living, such amount shall be paid to such participant’s estate.
+  - **(4)** The surviving parent or parents of the participant, in equal shares.

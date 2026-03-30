@@ -3,9 +3,9 @@ title: "Section 78aaa - Short title"
 usc_title: 15
 usc_section: "78aaa"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 78aaa"
-generated_at: "2026-03-30T03:10:11.489Z"
+generated_at: "2026-03-30T03:12:35.256Z"
 status: "active"
 ---
 

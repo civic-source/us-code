@@ -3,9 +3,9 @@ title: "Section 4 - Violation of final order by live poultry dealer; penalty"
 usc_title: 7
 usc_section: "4"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T03:10:00.474Z"
+generated_at: "2026-03-30T03:12:09.334Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Any live poultry dealer, or any officer, director, agent, or employee of a live 
 
   - **(1)** after the expiration of the time allowed for filing a petition in the court of appeals to set aside or modify such order, if no such petition has been filed within such time;
   - **(2)** after the expiration of the time allowed for applying for a writ of certiorari, if such order, or such order as modified, has been sustained by the court of appeals and no such writ has been applied for within such time; or
-  - **(3)** after such order, or such order as modified, has been sustained by the courts as provided in section 228b–3 of this title ; shall on conviction be fined not less than $1,000 nor more than $20,000. Each day during which such failure continues shall be deemed a separate offense.
+  - **(3)** after such order, or such order as modified, has been sustained by the courts as provided in section 228b–3 of this title ;

@@ -3,9 +3,9 @@ title: "Section 424 - Increased micro-purchase threshold for certain procurement
 usc_title: 6
 usc_section: "424"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "6 U.S.C. § 424"
-generated_at: "2026-03-30T03:09:53.436Z"
+generated_at: "2026-03-30T03:12:06.035Z"
 status: "active"
 ---
 

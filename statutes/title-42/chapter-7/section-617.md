@@ -3,9 +3,9 @@ title: "Section 617 - Limitation on Federal authority"
 usc_title: 42
 usc_section: "617"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 617"
-generated_at: "2026-03-30T03:11:40.094Z"
+generated_at: "2026-03-30T03:14:51.573Z"
 status: "active"
 ---
 

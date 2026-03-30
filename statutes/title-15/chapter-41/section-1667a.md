@@ -3,9 +3,9 @@ title: "Section 1667a - Consumer lease disclosures"
 usc_title: 15
 usc_section: "1667a"
 chapter: 41
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 1667a"
-generated_at: "2026-03-30T03:10:11.560Z"
+generated_at: "2026-03-30T03:12:35.333Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
   - **(8)** A description of any security interest held or to be retained by the lessor in connection with the lease and a clear identification of the property to which the security interest relates;
   - **(9)** The number, amount, and due dates or periods of payments under the lease and the total amount of such periodic payments;
   - **(10)** Where the lease provides that the lessee shall be liable for the anticipated fair market value of the property on expiration of the lease, the fair market value of the property at the inception of the lease, the aggregate cost of the lease on expiration, and the differential between them; and
-  - **(11)** A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penalty or other charge for delinquency, default, late payments, or early termination. The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Bureau may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
+  - **(11)** A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penalty or other charge for delinquency, default, late payments, or early termination.

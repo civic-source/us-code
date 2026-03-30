@@ -3,9 +3,9 @@ title: "Section 3070 - Army Medical Specialist Corps: organization; Chief and as
 usc_title: 10
 usc_section: "3070"
 chapter: 307
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 3070"
-generated_at: "2026-03-30T03:10:03.062Z"
+generated_at: "2026-03-30T03:12:15.195Z"
 status: "active"
 ---
 

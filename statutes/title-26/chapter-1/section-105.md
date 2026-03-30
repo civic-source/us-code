@@ -3,9 +3,9 @@ title: "Section 105 - Amounts received under accident and health plans"
 usc_title: 26
 usc_section: "105"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 105"
-generated_at: "2026-03-30T03:11:08.665Z"
+generated_at: "2026-03-30T03:13:21.694Z"
 status: "active"
 ---
 
@@ -16,6 +16,7 @@ status: "active"
 - **(c)** Gross income does not include amounts referred to in subsection (a) to the extent such amounts—
   - **(1)** constitute payment for the permanent loss or loss of use of a member or function of the body, or the permanent disfigurement, of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), and
   - **(2)** are computed with reference to the nature of the injury without regard to the period the employee is absent from work.
+- **[(d)**
 - **(e)** For purposes of this section and section 104—
   - **(1)** amounts received under an accident or health plan for employees, and
   - **(2)** amounts received from a sickness and disability fund for employees maintained under the law of a State or the District of Columbia,

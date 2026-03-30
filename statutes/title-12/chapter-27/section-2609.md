@@ -3,9 +3,9 @@ title: "Section 2609 - Limitation on requirement of advance deposits in escrow a
 usc_title: 12
 usc_section: "2609"
 chapter: 27
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 2609"
-generated_at: "2026-03-30T03:10:09.799Z"
+generated_at: "2026-03-30T03:12:30.340Z"
 status: "active"
 ---
 

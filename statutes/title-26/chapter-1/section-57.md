@@ -3,9 +3,9 @@ title: "Section 57 - Items of tax preference"
 usc_title: 26
 usc_section: "57"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 57"
-generated_at: "2026-03-30T03:11:08.659Z"
+generated_at: "2026-03-30T03:13:21.689Z"
 status: "active"
 ---
 
@@ -27,6 +27,8 @@ status: "active"
     - **(E)** In the case of any oil or gas well—
       - **(i)** In the case of any taxable year beginning after December 31, 1992 , this paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section 291(b)(4)).
       - **(ii)** The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent (30 percent in case of taxable years beginning in 1993) of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
+  - **[(3)**
+  - **[(4)**
   - **(5)**
     - **(A)** Interest on specified private activity bonds reduced by any deduction (not allowable in computing the regular tax) which would have been allowable if such interest were includible in gross income.
     - **(B)** Under regulations prescribed by the Secretary, any exempt-interest dividend (as defined in section 852(b)(5)(A)) shall be treated as interest on a specified private activity bond to the extent of its proportionate share of the interest on such bonds received by the company paying such dividend.

@@ -3,9 +3,9 @@ title: "Section 175 - Prohibitions with respect to biological weapons"
 usc_title: 18
 usc_section: "175"
 chapter: 10
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 175"
-generated_at: "2026-03-30T03:10:19.956Z"
+generated_at: "2026-03-30T03:12:44.419Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 742 - Powers and duties of Corporation"
 usc_title: 45
 usc_section: "742"
 chapter: 16
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "45 U.S.C. § 742"
-generated_at: "2026-03-30T03:11:21.014Z"
+generated_at: "2026-03-30T03:14:25.800Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ The Corporation shall have all of the powers and is subject to all of the duties
 - **(a)** acquire rail properties designated in the final system plan to be transferred or conveyed to it;
 - **(b)** operate rail service over such rail properties except as provided under sections 744(e) and 791(d)(3) of this title;
 - **(c)** rehabilitate, improve, and modernize such rail properties; and
-- **(d)** maintain adequate and efficient rail services. So long as 50 per centum or more, as determined by the Secretary of the Treasury, of the outstanding indebtedness of the Corporation consists of obligations of the Association or other debts owing to or guaranteed by the United States, the Corporation shall not engage in activities which are not related to transportation.
+- **(d)** maintain adequate and efficient rail services.

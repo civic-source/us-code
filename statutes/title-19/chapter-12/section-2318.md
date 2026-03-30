@@ -3,9 +3,9 @@ title: "Section 2318 - Reemployment trade adjustment assistance program"
 usc_title: 19
 usc_section: "2318"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "19 U.S.C. § 2318"
-generated_at: "2026-03-30T03:10:25.204Z"
+generated_at: "2026-03-30T03:12:39.179Z"
 status: "active"
 ---
 

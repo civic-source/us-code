@@ -3,9 +3,9 @@ title: "Section 6871 - Annual report by Secretary and Director to President and 
 usc_title: 42
 usc_section: "6871"
 chapter: 81
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 6871"
-generated_at: "2026-03-30T03:11:40.410Z"
+generated_at: "2026-03-30T03:14:51.912Z"
 status: "active"
 ---
 

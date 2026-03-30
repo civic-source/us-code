@@ -3,15 +3,13 @@ title: "Section 4272 - Declaration of purpose"
 usc_title: 42
 usc_section: "4272"
 chapter: 53
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 4272"
-generated_at: "2026-03-30T03:11:40.352Z"
+generated_at: "2026-03-30T03:14:51.847Z"
 status: "active"
 ---
 
 # § 4272. Declaration of purpose
-
-Because the complexity of modern life intensifies the need in a federal form of government for the fullest cooperation and coordination of activities between the levels of government, and because population growth and scientific developments portend an increasingly complex society in future years, it is essential that an appropriate agency be established to give continuing attention to intergovernmental problems.
 
   - **(1)** bring together representatives of the Federal, State, and local governments for the consideration of common problems;
   - **(2)** provide a forum for discussing the administration and coordination of Federal grant and other programs requiring intergovernmental cooperation;
@@ -20,3 +18,4 @@ Because the complexity of modern life intensifies the need in a federal form of 
   - **(5)** encourage discussion and study at an early stage of emerging public problems that are likely to require intergovernmental cooperation;
   - **(6)** recommend, within the framework of the Constitution, the most desirable allocation of governmental functions, responsibilities, and revenues among the several levels of government; and
   - **(7)** recommend methods of coordinating and simplifying tax laws and administrative practices to achieve a more orderly and less competitive fiscal relationship between the levels of government and to reduce the burden of compliance for taxpayers.
+

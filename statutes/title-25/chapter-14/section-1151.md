@@ -3,9 +3,9 @@ title: "Section 1151 - Membership roll; preparation; eligibility for enrollment;
 usc_title: 25
 usc_section: "1151"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 1151"
-generated_at: "2026-03-30T03:10:32.902Z"
+generated_at: "2026-03-30T03:13:04.441Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1484 - Interpretation and administration; other right, duty, pri
 usc_title: 33
 usc_section: "1484"
 chapter: 28
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 1484"
-generated_at: "2026-03-30T03:11:12.254Z"
+generated_at: "2026-03-30T03:13:40.551Z"
 status: "active"
 ---
 

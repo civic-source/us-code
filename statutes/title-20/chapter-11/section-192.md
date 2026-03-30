@@ -3,9 +3,9 @@ title: "Section 192 - Omitted"
 usc_title: 20
 usc_section: "192"
 chapter: 11
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "20 U.S.C. § 192"
-generated_at: "2026-03-30T03:10:17.252Z"
+generated_at: "2026-03-30T03:12:49.411Z"
 status: "omitted"
 ---
 

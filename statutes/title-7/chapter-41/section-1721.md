@@ -3,9 +3,9 @@ title: "Section 1721 - General authority"
 usc_title: 7
 usc_section: "1721"
 chapter: 41
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 1721"
-generated_at: "2026-03-30T03:10:00.519Z"
+generated_at: "2026-03-30T03:12:09.377Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ The President shall establish a program under this subchapter to provide agricul
   - **(4)** promote economic and community development;
   - **(5)** promote food security and support sound environmental practices;
   - **(6)** carry out feeding programs; and
-  - **(7)** promote economic and nutritional security by increasing educational, training, and other productive activities. Such program shall be implemented by the Administrator.
+  - **(7)** promote economic and nutritional security by increasing educational, training, and other productive activities.

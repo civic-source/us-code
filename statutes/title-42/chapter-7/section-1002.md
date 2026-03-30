@@ -3,9 +3,9 @@ title: "Section 1002 - Qualified individuals"
 usc_title: 42
 usc_section: "1002"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1002"
-generated_at: "2026-03-30T03:11:40.110Z"
+generated_at: "2026-03-30T03:14:51.588Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ Except as otherwise provided in this subchapter, an individual—
     - **(B)** the month in which the individual files an application for benefits under this subchapter;
   - **(4)** whose total benefit income is less than 75 percent of the Federal benefit rate under subchapter XVI of this chapter;
   - **(5)** who has filed an application for benefits under this subchapter; and
-  - **(6)** who is in compliance with all requirements imposed by the Commissioner of Social Security under this subchapter, shall be a qualified individual for purposes of this subchapter.
+  - **(6)** who is in compliance with all requirements imposed by the Commissioner of Social Security under this subchapter,

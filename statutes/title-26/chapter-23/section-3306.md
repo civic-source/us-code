@@ -3,9 +3,9 @@ title: "Section 3306 - Definitions"
 usc_title: 26
 usc_section: "3306"
 chapter: 23
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 3306"
-generated_at: "2026-03-30T03:11:08.813Z"
+generated_at: "2026-03-30T03:13:21.864Z"
 status: "active"
 ---
 
@@ -26,6 +26,7 @@ status: "active"
     - **(A)** sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term “wages” only payments which are received under a workmen’s compensation law), or
     - **(B)** medical or hospitalization expenses in connection with sickness or accident disability, or
     - **(C)** death;
+  - **[(3)** Repealed. Pub. L. 98–21, title III, § 324(b)(3)(B) , Apr. 20, 1983 , 97 Stat. 124 ]
   - **(4)** any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
   - **(5)** any payment made to, or on behalf of, an employee or his beneficiary—
     - **(A)** from or to a trust described in section 401(a) which is exempt from tax under section 501(a) at the time of such payment unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust, or
@@ -123,6 +124,7 @@ status: "active"
     - **(D)** a corporation organized under the laws of the United States or of any State.
 - **(k)** For purposes of this chapter, the term “agricultural labor” has the meaning assigned to such term by subsection (g) of section 3121, except that for purposes of this chapter subparagraph (B) of paragraph (4) of such subsection (g) shall be treated as reading:
     - **“(B)** in the employ of a group of operators of farms (or a cooperative organization of which such operators are members) in the performance of service described in subparagraph (A), but only if such operators produced more than one-half of the commodity with respect to which such service is performed;”.
+- **[(l)**
 - **(m)** For purposes of this chapter, the term “American vessel” means any vessel documented or numbered under the laws of the United States; and includes any vessel which is neither documented or numbered under the laws of the United States nor documented under the laws of any foreign country, if its crew is employed solely by one or more citizens or residents of the United States or corporations organized under the laws of the United States or of any State; and the term “American aircraft” means an aircraft registered under the laws of the United States.
 - **(n)** Notwithstanding the provisions of subsection (c)(6), service performed by officers and members of the crew of a vessel which would otherwise be included as employment under subsection (c) shall not be excluded by reason of the fact that it is performed on or in connection with an American vessel—
   - **(1)** owned by or bareboat chartered to the United States and

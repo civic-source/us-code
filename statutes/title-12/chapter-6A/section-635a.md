@@ -3,9 +3,9 @@ title: "Section 635a - Management of Bank"
 usc_title: 12
 usc_section: "635a"
 chapter: 6
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 635a"
-generated_at: "2026-03-30T03:10:09.710Z"
+generated_at: "2026-03-30T03:12:30.247Z"
 status: "active"
 ---
 
@@ -116,6 +116,4 @@ status: "active"
     - **(A)** the sum of the interest and fees collected by the Bank; exceeds
     - **(B)** the sum of—
         - **(I)** 1 1 So in original. Probably should be “(i)”. the funds set aside to cover expected losses on transactions financed by the Bank; and
-      - **(ii)** the costs incurred to cover the administrative expenses of the Bank.
-  - **(3)** The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2012, 2013, and 2014 shall not exceed $20,000,000.
-  - **(4)** The authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.
+- **(ii)** the costs incurred to cover the administrative expenses of the Bank.

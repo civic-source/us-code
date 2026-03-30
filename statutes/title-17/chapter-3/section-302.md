@@ -3,9 +3,9 @@ title: "Section 302 - Duration of copyright: Works created on or after January 1
 usc_title: 17
 usc_section: "302"
 chapter: 3
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "17 U.S.C. § 302"
-generated_at: "2026-03-30T03:10:20.148Z"
+generated_at: "2026-03-30T03:12:38.050Z"
 status: "active"
 ---
 

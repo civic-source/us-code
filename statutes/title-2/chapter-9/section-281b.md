@@ -3,9 +3,9 @@ title: "Section 281b - Functions"
 usc_title: 2
 usc_section: "281b"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 281b"
-generated_at: "2026-03-30T03:09:51.243Z"
+generated_at: "2026-03-30T03:12:02.399Z"
 status: "active"
 ---
 

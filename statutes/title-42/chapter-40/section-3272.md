@@ -3,9 +3,9 @@ title: "Section 3272 - Cooperative assistance to State and other public agencies
 usc_title: 42
 usc_section: "3272"
 chapter: 40
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 3272"
-generated_at: "2026-03-30T03:11:40.328Z"
+generated_at: "2026-03-30T03:14:51.820Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ In order to provide soil surveys to assist States, their political subdivisions,
   - **(1)** the making of studies and reports necessary for the classification and interpretation of kinds of soil;
   - **(2)** an intensification of the use and benefits of the National Cooperative Soil Survey;
   - **(3)** the furnishing of technical and other assistance needed for use of soil surveys; and
-  - **(4)** consultation with other Federal agencies participating or assisting in the planning and development of such areas in order to assure the coordination of the work under this chapter with the related work of such other agencies. The provision by the Secretary of such assistance shall not interfere with the furnishing of engineering services by private engineering firms or consultants for on-site sampling and testing of sites or for design and construction of specific engineering works.
+  - **(4)** consultation with other Federal agencies participating or assisting in the planning and development of such areas in order to assure the coordination of the work under this chapter with the related work of such other agencies.

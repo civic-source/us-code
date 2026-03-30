@@ -3,9 +3,9 @@ title: "Section 704 - Reprinting bills, laws, and reports from committees not ex
 usc_title: 44
 usc_section: "704"
 chapter: 7
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "44 U.S.C. § 704"
-generated_at: "2026-03-30T03:11:19.529Z"
+generated_at: "2026-03-30T03:14:15.225Z"
 status: "active"
 ---
 

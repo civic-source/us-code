@@ -3,9 +3,9 @@ title: "Section 235 - Administration of grants in multigrant proj­ects; promulg
 usc_title: 42
 usc_section: "235"
 chapter: 6
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 235"
-generated_at: "2026-03-30T03:11:39.953Z"
+generated_at: "2026-03-30T03:14:51.414Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ For the purpose of facilitating the administration of, and expediting the carryi
 
   - **(1)** under which the administrative functions under such programs with respect to such project will be performed by a single administrative unit which is the administrative unit charged with the administration of any of such programs or is the administrative unit charged with the supervision of two or more of such programs;
   - **(2)** designed to reduce the number of applications, reports, and other materials required under such programs to be submitted with respect to such project, and otherwise to simplify, consolidate, and make uniform (to the extent feasible), the data and information required to be contained in such applications, reports, and other materials; and
-  - **(3)** under which inconsistent or duplicative requirements imposed by such programs will be revised and made uniform with respect to such project; except that nothing in this section shall be construed to authorize the Secretary to waive or suspend, with respect to any such project, any requirement with respect to any of such programs if such requirement is imposed by law or by any regulation required by law.
+  - **(3)** under which inconsistent or duplicative requirements imposed by such programs will be revised and made uniform with respect to such project;

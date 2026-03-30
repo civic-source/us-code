@@ -3,9 +3,9 @@ title: "Section 954 - Foreign base company income"
 usc_title: 26
 usc_section: "954"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 954"
-generated_at: "2026-03-30T03:11:08.770Z"
+generated_at: "2026-03-30T03:13:21.814Z"
 status: "active"
 ---
 
@@ -97,6 +97,7 @@ status: "active"
   - **(2)** Paragraph (1) shall not apply to income derived in connection with the performance of services which are directly related to—
     - **(A)** the sale or exchange by the controlled foreign corporation of property manufactured, produced, grown, or extracted by it and which are performed before the time of the sale or exchange, or
     - **(B)** an offer or effort to sell or exchange such property.
+- **[(f)**
 - **(g)** For purposes of this section—
   - **(1)** Except as otherwise provided in this subsection, the term “foreign base company oil related income” means foreign oil related income (within the meaning of paragraphs (2) and (3) of section 907(c)) other than income derived from a source within a foreign country in connection with—
     - **(A)** oil or gas which was extracted from an oil or gas well located in such foreign country, or

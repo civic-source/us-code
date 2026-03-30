@@ -3,9 +3,9 @@ title: "Section 5848 - Abnormal occurrence reports"
 usc_title: 42
 usc_section: "5848"
 chapter: 73
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 5848"
-generated_at: "2026-03-30T03:11:40.386Z"
+generated_at: "2026-03-30T03:14:51.887Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ The Commission shall submit to the Congress an annual report listing for the pre
   - **(1)** the date and place of each occurrence;
   - **(2)** the nature and probable consequence of each occurrence;
   - **(3)** the cause or causes of each; and
-  - **(4)** any action taken to prevent reoccurrence; the Commission shall also provide as wide dissemination to the public of the information specified in clauses (1) and (2) of this section as reasonably possible within fifteen days of its receiving information of each abnormal occurrence and shall provide as wide dissemination to the public as reasonably possible of the information specified in clauses (3) and (4) as soon as such information becomes available to it.
+  - **(4)** any action taken to prevent reoccurrence;

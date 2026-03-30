@@ -3,9 +3,9 @@ title: "Section 56 - Adjustments in computing alternative minimum taxable income
 usc_title: 26
 usc_section: "56"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 56"
-generated_at: "2026-03-30T03:11:08.658Z"
+generated_at: "2026-03-30T03:13:21.688Z"
 status: "active"
 ---
 
@@ -98,6 +98,7 @@ status: "active"
     - **(B)** is secured by property which, at the time such indebtedness was incurred, was—
       - **(i)** the principal residence (within the meaning of section 121) of the taxpayer, or
       - **(ii)** a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section 267(c)(4))).
+- **[(f)**
 - **(g)**
   - **(1)** The alternative minimum taxable income of any corporation for any taxable year shall be increased by 75 percent of the excess (if any) of—
     - **(A)** the adjusted current earnings of the corporation, over

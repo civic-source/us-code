@@ -3,9 +3,9 @@ title: "Section 1867 - Advancement and reimbursement of expenses for flying Amer
 usc_title: 2
 usc_section: "1867"
 chapter: 28
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 1867"
-generated_at: "2026-03-30T03:09:51.267Z"
+generated_at: "2026-03-30T03:12:02.427Z"
 status: "active"
 ---
 

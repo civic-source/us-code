@@ -3,9 +3,9 @@ title: "Section 30903 - Governing body"
 usc_title: 36
 usc_section: "30903"
 chapter: 309
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "36 U.S.C. § 30903"
-generated_at: "2026-03-30T03:11:15.027Z"
+generated_at: "2026-03-30T03:13:54.246Z"
 status: "active"
 ---
 

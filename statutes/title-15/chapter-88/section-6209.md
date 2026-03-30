@@ -3,9 +3,9 @@ title: "Section 6209 - Preservation of existing authority"
 usc_title: 15
 usc_section: "6209"
 chapter: 88
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 6209"
-generated_at: "2026-03-30T03:10:11.612Z"
+generated_at: "2026-03-30T03:12:35.389Z"
 status: "active"
 ---
 

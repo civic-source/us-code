@@ -3,9 +3,9 @@ title: "Section 8111 - Sharing of Department of Veterans Affairs and Department 
 usc_title: 38
 usc_section: "8111"
 chapter: 81
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 8111"
-generated_at: "2026-03-30T03:11:17.791Z"
+generated_at: "2026-03-30T03:14:12.994Z"
 status: "active"
 ---
 
@@ -17,6 +17,7 @@ status: "active"
   - **(2)** Jointly fund the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title .
   - **(3)** Continue to facilitate and improve sharing between individual Department of Veterans Affairs and Department of Defense health care facilities, but giving priority of effort to initiatives (A) that improve sharing and coordination of health resources at the intraregional and nationwide levels, and (B) that improve the ability of both Departments to provide coordinated health care.
   - **(4)** Establish a joint incentive program under subsection (d).
+- **[(c)** Repealed. Pub. L. 108–136, div. A, title V, § 583(b)(1) , Nov. 24, 2003 , 117 Stat. 1491 .]
 - **(d)**
   - **(1)** Pursuant to subsection (b)(4), the two Secretaries shall carry out a program to identify, provide incentives to, implement, fund, and evaluate creative coordination and sharing initiatives at the facility, intraregional, and nationwide levels. The program shall be administered by the Department of Veterans Affairs-Department of Defense Joint Executive Committee, under procedures jointly prescribed by the two Secretaries.
   - **(2)** To facilitate the incentive program, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary’s Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.

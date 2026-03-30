@@ -3,9 +3,9 @@ title: "Section 2111 - Material accepted for deposit"
 usc_title: 44
 usc_section: "2111"
 chapter: 21
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "44 U.S.C. § 2111"
-generated_at: "2026-03-30T03:11:19.534Z"
+generated_at: "2026-03-30T03:14:15.230Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 When the Archivist considers it to be in the public interest he may accept for deposit—
 
   - **(1)** the papers and other historical materials of a President or former President of the United States, or other official or former official of the Government, and other papers relating to and contemporary with a President or former President of the United States, subject to restrictions agreeable to the Archivist as to their use; and
-  - **(2)** documents, including motion-picture films, still pictures, and sound recordings, from private sources that are appropriate for preservation by the Government as evidence of its organization, functions, policies, decisions, procedures, and transactions. This section shall not apply in the case of any Presidential records which are subject to the provisions of chapter 22 of this title.
+  - **(2)** documents, including motion-picture films, still pictures, and sound recordings, from private sources that are appropriate for preservation by the Government as evidence of its organization, functions, policies, decisions, procedures, and transactions.

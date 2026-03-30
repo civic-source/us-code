@@ -3,9 +3,9 @@ title: "Section 9101 - Standards for foreign tank vessels"
 usc_title: 46
 usc_section: "9101"
 chapter: 91
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "46 U.S.C. § 9101"
-generated_at: "2026-03-30T03:11:46.118Z"
+generated_at: "2026-03-30T03:15:00.468Z"
 status: "active"
 ---
 

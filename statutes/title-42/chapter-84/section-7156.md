@@ -3,9 +3,9 @@ title: "Section 7156 - Transfers from Department of the Navy"
 usc_title: 42
 usc_section: "7156"
 chapter: 84
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 7156"
-generated_at: "2026-03-30T03:11:40.424Z"
+generated_at: "2026-03-30T03:14:51.926Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ There are transferred to and vested in the Secretary all functions vested by cha
   - **(3)** Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915 ;
   - **(4)** Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916 , as amended by Executive order dated June 12, 1919 ;
   - **(5)** Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916 ; and
-  - **(6)** Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924 . In the administration of any of the functions transferred to, and vested in, the Secretary by this section the Secretary shall take into consideration the requirements of national security.
+  - **(6)** Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924 .

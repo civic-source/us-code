@@ -3,9 +3,9 @@ title: "Section 110 - Limitations on exclusive rights: Exemption of certain perf
 usc_title: 17
 usc_section: "110"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "17 U.S.C. § 110"
-generated_at: "2026-03-30T03:10:20.144Z"
+generated_at: "2026-03-30T03:12:38.046Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1599 - Renumbered § 1611]"
 usc_title: 10
 usc_section: "1599"
 chapter: 81
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 1599"
-generated_at: "2026-03-30T03:10:03.018Z"
+generated_at: "2026-03-30T03:12:15.149Z"
 status: "renumbered"
 ---
 

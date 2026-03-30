@@ -3,9 +3,9 @@ title: "Section 12 - Definitions"
 usc_title: 25
 usc_section: "12"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 12"
-generated_at: "2026-03-30T03:10:32.904Z"
+generated_at: "2026-03-30T03:13:04.443Z"
 status: "active"
 ---
 

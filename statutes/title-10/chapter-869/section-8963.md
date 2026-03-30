@@ -3,9 +3,9 @@ title: "Section 8963 - Highest grade held satisfactorily: Reserve enlisted membe
 usc_title: 10
 usc_section: "8963"
 chapter: 869
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 8963"
-generated_at: "2026-03-30T03:10:03.084Z"
+generated_at: "2026-03-30T03:12:15.219Z"
 status: "active"
 ---
 

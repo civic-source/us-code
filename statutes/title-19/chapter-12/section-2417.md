@@ -3,9 +3,9 @@ title: "Section 2417 - Modification and termination of actions"
 usc_title: 19
 usc_section: "2417"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "19 U.S.C. § 2417"
-generated_at: "2026-03-30T03:10:25.207Z"
+generated_at: "2026-03-30T03:12:39.182Z"
 status: "active"
 ---
 

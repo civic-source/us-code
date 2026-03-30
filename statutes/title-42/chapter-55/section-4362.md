@@ -3,9 +3,9 @@ title: "Section 4362 - Interagency cooperation on prevention of environmental ca
 usc_title: 42
 usc_section: "4362"
 chapter: 55
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 4362"
-generated_at: "2026-03-30T03:11:40.353Z"
+generated_at: "2026-03-30T03:14:51.850Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3507 - Public information collection activities; submission to D
 usc_title: 44
 usc_section: "3507"
 chapter: 35
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "44 U.S.C. § 3507"
-generated_at: "2026-03-30T03:11:19.537Z"
+generated_at: "2026-03-30T03:14:15.233Z"
 status: "active"
 ---
 

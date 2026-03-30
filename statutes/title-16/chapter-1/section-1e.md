@@ -3,9 +3,9 @@ title: "Section 1e - National Capital region arts and cultural affairs; grant pr
 usc_title: 16
 usc_section: "1e"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 1e"
-generated_at: "2026-03-30T03:10:27.080Z"
+generated_at: "2026-03-30T03:12:42.131Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ There is hereby established under the direction of the National Park Service a p
   - **(1)** an annual operating budget in excess of $1,000,000;
   - **(2)** an annual audience or visitation of at least 200,000 people;
   - **(3)** a paid staff of at least one hundred persons; or
-  - **(4)** eligibility under the Historic Sites Act of 1935 ( 16 U.S.C. 462(e) ). Public or private colleges and universities are not eligible for grants under this program. Grants awarded under this section may be used to support general operations and maintenance, security, or special projects. No organization may receive a grant in excess of $500,000 in a single year. The Director of the National Park Service shall establish an application process, appoint a review panel of five qualified persons, at least a majority of whom reside in the National Capital region, and develop other program guidelines and definitions as required. The contractual amounts required for the support of Ford’s Theater and Wolf Trap National Park for the Performing Arts shall be available within the amount herein provided without regard to any other provisions of this section.
+  - **(4)** eligibility under the Historic Sites Act of 1935 ( 16 U.S.C. 462(e) ).

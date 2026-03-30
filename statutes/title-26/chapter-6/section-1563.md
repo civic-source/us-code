@@ -3,9 +3,9 @@ title: "Section 1563 - Definitions and special rules"
 usc_title: 26
 usc_section: "1563"
 chapter: 6
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 1563"
-generated_at: "2026-03-30T03:11:08.800Z"
+generated_at: "2026-03-30T03:13:21.848Z"
 status: "active"
 ---
 
@@ -94,4 +94,7 @@ status: "active"
     - **(F)** all of the conditions contained in subparagraphs (A), (B), (C), (D), and (E) have been met for one-half (or more) of the number of days preceding the December 31 included within the taxable year (or if the taxable year does not include December 31, the last day of such year) of the franchised corporation,
   - **(5)**
     - **(A)** Except as specifically provided in an applicable provision, subsection (a)(2) shall be applied to an applicable provision as if it read as follows:
+  - **“(2)** “Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2) stock possessing—
+    - **“(A)** at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
+    - **“(B)** more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
     - **(B)** For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).

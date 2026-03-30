@@ -3,9 +3,9 @@ title: "Section 2679c - Prohibition on discriminatory contracts"
 usc_title: 22
 usc_section: "2679c"
 chapter: 38
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 2679c"
-generated_at: "2026-03-30T03:10:34.710Z"
+generated_at: "2026-03-30T03:12:56.185Z"
 status: "active"
 ---
 
@@ -25,6 +25,9 @@ status: "active"
 - **“(a)** As used in this clause—
   - **“(1)** the term ‘foreign person’ means any person other than a United States person as defined in paragraph (2); and
   - **“(2)** the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.
+- **“(b)** By submitting this offer, the Offeror certifies that it is not—
+  - **“(1)** taking or knowingly agreeing to take any action, with respect to the boycott of Israel by Arab League countries, which section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)) prohibits a United States person from taking; or
+  - **“(2)** discriminating in the award of subcontracts on the basis of religion.”
   - **(2)** An Offeror would not be required to include the certification required by paragraph (1), if the Offeror is deemed not to comply with the Arab League boycott of Israel by the Secretary of State or a designee on the basis of available information. Certification by the Secretary of State or a designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
   - **(3)** The Secretary of State shall ensure that all State Department contract solicitations include a detailed explanation of the requirements of section 2407(a) of title 50 , Appendix.
 - **(d)**

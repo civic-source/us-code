@@ -3,9 +3,9 @@ title: "Section 1503 - Denial of rights and privileges as national"
 usc_title: 8
 usc_section: "1503"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "8 U.S.C. § 1503"
-generated_at: "2026-03-30T03:09:58.662Z"
+generated_at: "2026-03-30T03:12:09.972Z"
 status: "active"
 ---
 

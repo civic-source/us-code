@@ -3,9 +3,9 @@ title: "Section 411 - Minimum vesting standards"
 usc_title: 26
 usc_section: "411"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 411"
-generated_at: "2026-03-30T03:11:08.714Z"
+generated_at: "2026-03-30T03:13:21.748Z"
 status: "active"
 ---
 
@@ -112,6 +112,7 @@ status: "active"
     - **(B)** For purposes of subparagraph (A), the present value shall be calculated in accordance with section 417(e)(3).
     - **(C)** This paragraph shall not apply to any distribution of dividends to which section 404(k) applies.
     - **(D)** A plan shall not fail to meet the requirements of this paragraph if, under the terms of the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16).
+  - **[(12)**
   - **(13)**
     - **(A)** An applicable defined benefit plan shall not be treated as failing to meet—
       - **(i)** subject to subparagraph (B), the requirements of subsection (a)(2), or
@@ -217,6 +218,7 @@ status: "active"
   - **(3)** Notwithstanding the provisions of subsection (a), a trust shall not constitute a qualified trust under section 401(a) unless the plan of which such trust is a part provides that—
     - **(A)** upon its termination or partial termination, or
     - **(B)** in the case of a plan to which section 412 does not apply, upon complete discontinuance of contributions under the plan,
+  - **[(4)**
   - **(5)** In the case of a defined benefit plan which permits voluntary employee contributions, the portion of an employee’s accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
   - **(6)**
     - **(A)** A plan shall be treated as not satisfying the requirements of this section if the accrued benefit of a participant is decreased by an amendment of the plan, other than an amendment described in section 412(d)(2), or section 4281 of the Employee Retirement Income Security Act of 1974.

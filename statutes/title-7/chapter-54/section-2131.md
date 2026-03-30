@@ -3,9 +3,9 @@ title: "Section 2131 - Congressional statement of policy"
 usc_title: 7
 usc_section: "2131"
 chapter: 54
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 2131"
-generated_at: "2026-03-30T03:10:00.549Z"
+generated_at: "2026-03-30T03:12:09.407Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ The Congress finds that animals and activities which are regulated under this ch
 
   - **(1)** to insure that animals intended for use in research facilities or for exhibition purposes or for use as pets are provided humane care and treatment;
   - **(2)** to assure the humane treatment of animals during transportation in commerce; and
-  - **(3)** to protect the owners of animals from the theft of their animals by preventing the sale or use of animals which have been stolen. The Congress further finds that it is essential to regulate, as provided in this chapter, the transportation, purchase, sale, housing, care, handling, and treatment of animals by carriers or by persons or organizations engaged in using them for research or experimental purposes or for exhibition purposes or holding them for sale as pets or for any such purpose or use.
+  - **(3)** to protect the owners of animals from the theft of their animals by preventing the sale or use of animals which have been stolen.

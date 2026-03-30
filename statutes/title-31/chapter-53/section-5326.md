@@ -3,9 +3,9 @@ title: "Section 5326 - Records of certain domestic coin and currency transaction
 usc_title: 31
 usc_section: "5326"
 chapter: 53
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "31 U.S.C. § 5326"
-generated_at: "2026-03-30T03:11:11.386Z"
+generated_at: "2026-03-30T03:13:48.950Z"
 status: "active"
 ---
 

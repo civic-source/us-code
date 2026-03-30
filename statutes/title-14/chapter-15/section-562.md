@@ -3,9 +3,9 @@ title: "Section 562 - Improvements in Coast Guard acquisition management"
 usc_title: 14
 usc_section: "562"
 chapter: 15
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "14 U.S.C. § 562"
-generated_at: "2026-03-30T03:10:05.919Z"
+generated_at: "2026-03-30T03:12:20.517Z"
 status: "active"
 ---
 
@@ -49,6 +49,7 @@ status: "active"
   - **(2)** Information maintained with such capability shall include the following standardized information on individuals assigned to positions in the workforce:
     - **(A)** Qualifications, assignment history, and tenure of those individuals assigned to positions in the acquisition workforce or holding acquisition-related certifications.
     - **(B)** Promotion rates for officers and members of the Coast Guard in the acquisition workforce.
+- **[(e)** Repealed. Pub. L. 112–213, title II, § 210(c)(2)(A) , Dec. 20, 2012 , 126 Stat. 1551 .]
 - **(f)** The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of persons for positions in the acquisition workforce.
 - **(g)**
   - **(1)** To establish acquisition management as a core competency of the Coast Guard, the Commandant shall—

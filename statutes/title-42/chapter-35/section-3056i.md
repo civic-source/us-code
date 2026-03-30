@@ -3,9 +3,9 @@ title: "Section 3056i - Coordination with the Workforce Investment Act of 1998"
 usc_title: 42
 usc_section: "3056i"
 chapter: 35
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 3056i"
-generated_at: "2026-03-30T03:11:40.323Z"
+generated_at: "2026-03-30T03:14:51.813Z"
 status: "active"
 ---
 

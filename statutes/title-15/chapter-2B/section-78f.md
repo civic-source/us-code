@@ -3,9 +3,9 @@ title: "Section 78f - National securities exchanges"
 usc_title: 15
 usc_section: "78f"
 chapter: 2
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 78f"
-generated_at: "2026-03-30T03:10:11.470Z"
+generated_at: "2026-03-30T03:12:35.238Z"
 status: "active"
 ---
 
@@ -65,8 +65,6 @@ status: "active"
       - **(ii)** No member of any class of persons with respect to which the Commission has specified the manner in which its interests shall be represented pursuant to clause (i) of this subparagraph shall be denied, pursuant to such clause (i), the opportunity to conduct (or have conducted) cross-examination as to issues affecting his particular interests if he satisfies the Commission that he has made a reasonable and good faith effort to reach agreement upon group representation and there are substantial and relevant issues which would not be presented adequately by group representation.
     - **(D)** A transcript shall be kept of any oral presentation and cross-examination.
     - **(E)** In addition to the bases specified in section 78y(a) of this title , a reviewing Court may set aside an order of the Commission under section 78s(b) of this title approving an exchange rule imposing a schedule or fixing rates of commissions, allowances, discounts, or other fees, if the Court finds—
-        - **(1)** a Commission determination under subparagraph (A) of this paragraph that an interested person is not entitled to conduct cross-examination or make rebuttal submissions, or
-        - **(2)** a Commission rule or ruling under subparagraph (B) of this paragraph limiting the petitioner’s cross-examination or rebuttal submissions,
 - **(f)** The Commission, by rule or order, as it deems necessary or appropriate in the public interest and for the protection of investors, to maintain fair and orderly markets, or to assure equal regulation, may require—
   - **(1)** any person not a member or a designated representative of a member of a national securities exchange effecting transactions on such exchange without the services of another person acting as a broker, or
   - **(2)** any broker or dealer not a member of a national securities exchange effecting transactions on such exchange on a regular basis,

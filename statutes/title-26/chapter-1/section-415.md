@@ -3,9 +3,9 @@ title: "Section 415 - Limitations on benefits and contribution under qualified p
 usc_title: 26
 usc_section: "415"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 415"
-generated_at: "2026-03-30T03:11:08.718Z"
+generated_at: "2026-03-30T03:13:21.753Z"
 status: "active"
 ---
 
@@ -101,6 +101,8 @@ status: "active"
       - **(i)** any elective deferral (as defined in section 402(g)(3)), and
       - **(ii)** any amount which is contributed or deferred by the employer at the election of the employee and which is not includible in the gross income of the employee by reason of section 125, 132(f)(4), or 457.
     - **(E)** In the case of an annuity contract described in section 403(b), the term “participant’s compensation” means the participant’s includible compensation determined under section 403(b)(3).
+  - **[(4)**
+  - **[(5)**
   - **(6)** If no more than one-third of the employer contributions to an employee stock ownership plan (as described in section 4975(e)(7)) for a year which are deductible under paragraph (9) of section 404(a) are allocated to highly compensated employees (within the meaning of section 414(q)), the limitations imposed by this section shall not apply to—
     - **(A)** forfeitures of employer securities (within the meaning of section 409) under such an employee stock ownership plan if such securities were acquired with the proceeds of a loan (as described in section 404(a)(9)(A)), or
     - **(B)** employer contributions to such an employee stock ownership plan which are deductible under section 404(a)(9)(B) and charged against the participant’s account.
@@ -132,6 +134,7 @@ status: "active"
   - **(4)**
     - **(A)** Any increase under subparagraph (A) of paragraph (1) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000. This subparagraph shall also apply for purposes of any provision of this title that provides for adjustments in accordance with the method contained in this subsection, except to the extent provided in such provision.
     - **(B)** Any increase under subparagraph (C) of paragraph (1) which is not a multiple of $1,000 shall be rounded to the next lowest multiple of $1,000.
+- **[(e)**
 - **(f)**
   - **(1)** For purposes of applying the limitations of subsections (b) and (c)—
     - **(A)** all defined benefit plans (whether or not terminated) of an employer are to be treated as one defined benefit plan, and

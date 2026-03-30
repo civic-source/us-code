@@ -3,9 +3,9 @@ title: "Section 15 - Civil money penalties against multifamily mortgagors"
 usc_title: 12
 usc_section: "15"
 chapter: 13
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 15"
-generated_at: "2026-03-30T03:10:09.748Z"
+generated_at: "2026-03-30T03:12:30.287Z"
 status: "active"
 ---
 
@@ -16,13 +16,13 @@ status: "active"
   - **(1)** Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
   - **(2)** The amount of the penalty, as determined by the Secretary, for a violation of this subsection may not exceed the amount of the loss the Secretary would experience at a foreclosure sale, or a sale after foreclosure, of the property involved.
 - **(c)**
-  - **(1)** The Secretary may also impose a civil money penalty under this section on—
+  - **(1)**
+    - **(A)** The Secretary may also impose a civil money penalty under this section on—
       - **(i)** any mortgagor of a property that includes 5 or more living units and that has a mortgage insured, coinsured, or held pursuant to this chapter;
       - **(ii)** any general partner of a partnership mortgagor of such property;
       - **(iii)** any officer or director of a corporate mortgagor;
       - **(iv)** any agent employed to manage the property that has an identity of interest with the mortgagor, with the general partner of a partnership mortgagor, or with any officer or director of a corporate mortgagor of such property; or
       - **(v)** any member of a limited liability company that is the mortgagor of such property or is the general partner of a limited partnership mortgagor or is a partner of a general partnership mortgagor.
-  - **(2)** A penalty imposed for a violation under this subsection, as determined by the Secretary, may not exceed $25,000.
     - **(B)** A penalty may be imposed under this section upon any liable party under subparagraph (A) that knowingly and materially takes any of the following actions:
       - **(i)** Conveyance, transfer, or encumbrance of any of the mortgaged property, or permitting the conveyance, transfer, or encumbrance of such property, without the prior written approval of the Secretary.
       - **(ii)** Assignment, transfer, disposition, or encumbrance of any personal property of the project, including rents, other revenues, or contract rights, or paying out any funds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
@@ -42,6 +42,7 @@ status: "active"
       - **(xiii)** Failure to maintain the premises, accommodations, any living unit in the project, and the grounds and equipment appurtenant thereto in good repair and condition in accordance with regulations and requirements of the Secretary, except that nothing in this clause shall have the effect of altering the provisions of an existing regulatory agreement or federally insured mortgage on the property.
       - **(xiv)** Failure, by a mortgagor, a general partner of a partnership mortgagor, or an officer or director of a corporate mortgagor, to provide management for the project that is acceptable to the Secretary pursuant to regulations and requirements of the Secretary.
       - **(xv)** Failure to provide access to the books, records, and accounts related to the operations of the mortgaged property and of the project.
+  - **(2)** A penalty imposed for a violation under this subsection, as determined by the Secretary, may not exceed $25,000.
 - **(d)**
   - **(1)** The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsections (b) and (c) of this section. These standards and procedures—
     - **(A)** shall provide for the Secretary or other department official (such as the Assistant Secretary for Housing) to make the determination to impose a penalty;

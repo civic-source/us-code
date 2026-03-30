@@ -3,9 +3,9 @@ title: "Section 1038 - Certain reacquisitions of real property"
 usc_title: 26
 usc_section: "1038"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 1038"
-generated_at: "2026-03-30T03:11:08.777Z"
+generated_at: "2026-03-30T03:13:21.822Z"
 status: "active"
 ---
 
@@ -31,6 +31,7 @@ status: "active"
 - **(e)** If—
   - **(1)** subsection (a) applies to a reacquisition of real property with respect to the sale of which gain was not recognized under section 121 (relating to gain on sale of principal residence); and
   - **(2)** within 1 year after the date of the reacquisition of such property by the seller, such property is resold by him,
+- **[(f)**
 - **(g)** Under regulations prescribed by the Secretary, if an installment obligation is indebtedness to the seller which is described in subsection (a), and if such obligation is, in the hands of the taxpayer, an obligation with respect to which section 691(a)(4)(B) applies, then—
   - **(1)** for purposes of subsection (a), acquisition of real property by the taxpayer shall be treated as reacquisition by the seller, and
   - **(2)** the basis of the real property acquired by the taxpayer shall be increased by an amount equal to the deduction under section 691(c) which would (but for this subsection) have been allowable to the taxpayer with respect to the gain on the exchange of the obligation for the real property.

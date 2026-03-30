@@ -3,9 +3,9 @@ title: "Section 331 - Prohibited acts"
 usc_title: 21
 usc_section: "331"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "21 U.S.C. § 331"
-generated_at: "2026-03-30T03:10:44.989Z"
+generated_at: "2026-03-30T03:12:53.355Z"
 status: "active"
 ---
 
@@ -97,3 +97,5 @@ The following acts and the causing thereof are prohibited:
 - **(xx)** The refusal or failure to follow an order under section 350 l of this title.
 - **(yy)** The knowing and willful failure to comply with the notification requirement under section 350f(h) of this title .
 - **(zz)** The importation or offering for importation of a food if the importer (as defined in section 384a of this title ) does not have in place a foreign supplier verification program in compliance with such section 384a of this title .
+- **(aaa)** The failure to register in accordance with section 381(s) of this title .
+- **(bbb)** The failure to notify the Secretary in violation of section 360bbb–7 of this title .

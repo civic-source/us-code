@@ -3,9 +3,9 @@ title: "Section 1507 - Filing document as constructive notice; publication in Fe
 usc_title: 44
 usc_section: "1507"
 chapter: 15
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "44 U.S.C. § 1507"
-generated_at: "2026-03-30T03:11:19.532Z"
+generated_at: "2026-03-30T03:14:15.228Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ A document required by section 1505(a) of this title to be published in the Fede
   - **(1)** that it was duly issued, prescribed, or promulgated;
   - **(2)** that it was filed with the Office of the Federal Register and made available for public inspection at the day and hour stated in the printed notation;
   - **(3)** that the copy contained in the Federal Register is a true copy of the original; and
-  - **(4)** that all requirements of this chapter and the regulations prescribed under it relative to the document have been complied with. The contents of the Federal Register shall be judicially noticed and without prejudice to any other mode of citation, may be cited by volume and page number.
+  - **(4)** that all requirements of this chapter and the regulations prescribed under it relative to the document have been complied with.

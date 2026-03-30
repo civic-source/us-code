@@ -3,9 +3,9 @@ title: "Section 281 - Organization of National Institutes of Health"
 usc_title: 42
 usc_section: "281"
 chapter: 6
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 281"
-generated_at: "2026-03-30T03:11:39.989Z"
+generated_at: "2026-03-30T03:14:51.456Z"
 status: "active"
 ---
 

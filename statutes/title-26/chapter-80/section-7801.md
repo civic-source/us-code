@@ -3,9 +3,9 @@ title: "Section 7801 - Authority of Department of the Treasury"
 usc_title: 26
 usc_section: "7801"
 chapter: 80
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 7801"
-generated_at: "2026-03-30T03:11:08.890Z"
+generated_at: "2026-03-30T03:13:21.954Z"
 status: "active"
 ---
 
@@ -18,4 +18,5 @@ status: "active"
       - **(i)** Chapter 53.
       - **(ii)** Chapters 61 through 80, to the extent such chapters relate to the enforcement and administration of the provisions referred to in clause (i).
     - **(B)** Nothing in this Act 1 1 So in original. alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of the Homeland Security Act of 2002, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
+- **[(b)**
 - **(c)** Nothing in this section or section 301(f) of title 31 shall be considered to affect the duties, powers, or functions imposed upon, or vested in, the Department of Justice, or any officer thereof, by law existing on May 10, 1934 .

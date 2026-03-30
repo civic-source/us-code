@@ -3,9 +3,9 @@ title: "Section 1425 - Omitted"
 usc_title: 48
 usc_section: "1425"
 chapter: 8
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "48 U.S.C. § 1425"
-generated_at: "2026-03-30T03:11:49.622Z"
+generated_at: "2026-03-30T03:14:59.455Z"
 status: "omitted"
 ---
 

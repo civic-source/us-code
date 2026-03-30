@@ -3,9 +3,9 @@ title: "Section 6381e - Eligible participants"
 usc_title: 20
 usc_section: "6381e"
 chapter: 70
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "20 U.S.C. § 6381e"
-generated_at: "2026-03-30T03:10:17.358Z"
+generated_at: "2026-03-30T03:12:49.523Z"
 status: "active"
 ---
 

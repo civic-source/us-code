@@ -3,9 +3,9 @@ title: "Section 185 - Protection of Indians desiring civilized life"
 usc_title: 25
 usc_section: "185"
 chapter: 5
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 185"
-generated_at: "2026-03-30T03:10:32.866Z"
+generated_at: "2026-03-30T03:13:04.403Z"
 status: "active"
 ---
 

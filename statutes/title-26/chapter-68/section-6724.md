@@ -3,9 +3,9 @@ title: "Section 6724 - Waiver; definitions and special rules"
 usc_title: 26
 usc_section: "6724"
 chapter: 68
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 6724"
-generated_at: "2026-03-30T03:11:08.875Z"
+generated_at: "2026-03-30T03:13:21.936Z"
 status: "active"
 ---
 
@@ -80,6 +80,12 @@ status: "active"
     - **(X)** section 6053(b) or (c) (relating to reports of tips),
     - **(Y)** section 6048(b)(1)(B) (relating to foreign trust reporting requirements),
     - **(Z)** section 408(i) (relating to reports with respect to individual retirement plans) to any person other than the Secretary with respect to the amount of payments made to such person,
+    - **(AA)** section 6047(d) (relating to reports by plan administrators) to any person other than the Secretary with respect to the amount of payments made to such person,
+    - **(BB)** section 6050S(d) (relating to returns relating to qualified tuition and related expenses),
+    - **(CC)** section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
+    - **(DD)** section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals) 6 6 So in original. A comma probably should appear.
+    - **(EE)** section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements), or
+    - **(FF)** section 6050W(c) (relating to returns relating to payments made in settlement of payment card transactions).
   - **(3)** The term “specified information reporting requirement” means—
     - **(A)** the notice required by section 6050K(c)(1) (relating to requirement that transferor notify partnership of exchange),
     - **(B)** any requirement contained in the regulations prescribed under section 6109 that a person—

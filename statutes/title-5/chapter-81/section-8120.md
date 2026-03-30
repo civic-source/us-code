@@ -3,9 +3,9 @@ title: "Section 8120 - Report of injury"
 usc_title: 5
 usc_section: "8120"
 chapter: 81
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "5 U.S.C. § 8120"
-generated_at: "2026-03-30T03:09:48.961Z"
+generated_at: "2026-03-30T03:12:04.084Z"
 status: "active"
 ---
 

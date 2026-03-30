@@ -3,9 +3,9 @@ title: "Section 1229b - Cancellation of removal; adjustment of status"
 usc_title: 8
 usc_section: "1229b"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "8 U.S.C. § 1229b"
-generated_at: "2026-03-30T03:09:58.647Z"
+generated_at: "2026-03-30T03:12:09.958Z"
 status: "active"
 ---
 

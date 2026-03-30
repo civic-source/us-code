@@ -3,9 +3,9 @@ title: "Section 904 - Limitation on credit"
 usc_title: 26
 usc_section: "904"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 904"
-generated_at: "2026-03-30T03:11:08.766Z"
+generated_at: "2026-03-30T03:13:21.808Z"
 status: "active"
 ---
 
@@ -144,6 +144,7 @@ status: "active"
     - **(A)** for the application of paragraph (3) and subsection (f)(5) in the case of income paid (or loans made) through 1 or more entities or between 2 or more chains of entities,
     - **(B)** preventing the manipulation of the character of income the effect of which is to avoid the purposes of this subsection, and
     - **(C)** providing that rules similar to the rules of paragraph (3)(C) shall apply to interest, rents, and royalties received or accrued from entities which would be controlled foreign corporations if they were foreign corporations.
+- **[(e)**
 - **(f)**
   - **(1)** For purposes of this subpart and section 936, in the case of any taxpayer who sustains an overall foreign loss for any taxable year, that portion of the taxpayer’s taxable income from sources without the United States for each succeeding taxable year which is equal to the lesser of—
     - **(A)** the amount of such loss (to the extent not used under this paragraph in prior taxable years), or

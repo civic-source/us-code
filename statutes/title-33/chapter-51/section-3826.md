@@ -3,9 +3,9 @@ title: "Section 3826 - Communication and exchange of information"
 usc_title: 33
 usc_section: "3826"
 chapter: 51
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "33 U.S.C. § 3826"
-generated_at: "2026-03-30T03:11:12.275Z"
+generated_at: "2026-03-30T03:13:40.572Z"
 status: "active"
 ---
 

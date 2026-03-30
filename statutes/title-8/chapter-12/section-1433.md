@@ -3,16 +3,16 @@ title: "Section 1433 - Children born and residing outside the United States; con
 usc_title: 8
 usc_section: "1433"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "8 U.S.C. § 1433"
-generated_at: "2026-03-30T03:09:58.659Z"
+generated_at: "2026-03-30T03:12:09.970Z"
 status: "active"
 ---
 
 # § 1433. Children born and residing outside the United States; conditions for acquiring certificate of citizenship
 
 - **(a)** A parent who is a citizen of the United States (or, if the citizen parent has died during the preceding 5 years, a citizen grandparent or citizen legal guardian) may apply for naturalization on behalf of a child born outside of the United States who has not acquired citizenship automatically under section 1431 of this title . The Attorney General shall issue a certificate of citizenship to such applicant upon proof, to the satisfaction of the Attorney General, that the following conditions have been fulfilled:
-  - **(1)** At least one parent (or, at the time of his or her death, was) is a citizen of the United States, whether by birth or naturalization.
+  - **(1)** At least one parent (or, at the time of his or her death, was) is 1 1 So in original. The word “is” probably should appear after “parent”. a citizen of the United States, whether by birth or naturalization.
   - **(2)** The United States citizen parent—
     - **(A)** has (or, at the time of his or her death, had) been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years; or
     - **(B)** has (or, at the time of his or her death, had) a citizen parent who has been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years.

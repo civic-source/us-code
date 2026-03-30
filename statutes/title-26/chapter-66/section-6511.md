@@ -3,9 +3,9 @@ title: "Section 6511 - Limitations on credit or refund"
 usc_title: 26
 usc_section: "6511"
 chapter: 66
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 6511"
-generated_at: "2026-03-30T03:11:08.868Z"
+generated_at: "2026-03-30T03:13:21.929Z"
 status: "active"
 ---
 
@@ -53,6 +53,7 @@ status: "active"
       - **(i)** the reduction of uniformed services retired pay computed under section 1406 or 1407 of title 10, United States Code, or
       - **(ii)** the waiver of such pay under section 5305 of title 38 of such Code,
     - **(B)** Subparagraph (A) shall not apply with respect to any taxable year which began more than 5 years before the date of such determination.
+- **[(e)**
 - **(f)** For purposes of any tax imposed by section 4912, chapter 42, or section 4975, the return referred to in subsection (a) shall be the return specified in section 6501( l )(1).
 - **(g)** In the case of any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (as defined in section 6231(a)(3)), the provisions of section 6227 and subsections (c) and (d) of section 6230 shall apply in lieu of the provisions of this subchapter.
 - **(h)**

@@ -3,9 +3,9 @@ title: "Section 936 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17
 usc_title: 22
 usc_section: "936"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 936"
-generated_at: "2026-03-30T03:10:34.667Z"
+generated_at: "2026-03-30T03:12:56.143Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1621j - California contract health services demonstration progra
 usc_title: 25
 usc_section: "1621j"
 chapter: 18
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 1621j"
-generated_at: "2026-03-30T03:10:32.913Z"
+generated_at: "2026-03-30T03:13:04.453Z"
 status: "active"
 ---
 

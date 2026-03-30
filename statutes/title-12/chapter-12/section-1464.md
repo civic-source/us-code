@@ -3,9 +3,9 @@ title: "Section 1464 - Federal savings associations"
 usc_title: 12
 usc_section: "1464"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 1464"
-generated_at: "2026-03-30T03:10:09.720Z"
+generated_at: "2026-03-30T03:12:30.258Z"
 status: "active"
 ---
 
@@ -158,7 +158,7 @@ status: "active"
   - **(3)** if there is a reasonable probability of its usefulness and success, and
   - **(4)** if the association can be established without undue injury to properly conducted existing local thrift and home financing institutions.
 - **(f)** After the end of the 6-month period beginning on November 12, 1999 , a Federal savings association may become a member of the Federal Home Loan Bank System, and shall qualify for such membership in the manner provided by the Federal Home Loan Bank Act [ 12 U.S.C. 1421 et seq.].
-- **(g)** [Repealed.]
+- **(g)**
 - **(h)** No State, county, municipal, or local taxing authority may impose any tax on Federal savings associations or their franchise, capital, reserves, surplus, loans, or income greater than that imposed by such authority on other similar local mutual or cooperative thrift and home financing institutions.
 - **(i)**
   - **(1)** Any savings association which is, or is eligible to become, a member of a Federal home loan bank may convert into a Federal savings association (and in so doing may change directly from the mutual form to the stock form, or from the stock form to the mutual form). Such conversion shall be subject to such regulations as the Comptroller shall prescribe. Thereafter such Federal savings association shall be entitled to all the benefits of this section and shall be subject to examination and regulation to the same extent as other associations incorporated pursuant to this chapter.
@@ -193,7 +193,7 @@ status: "active"
     - **(C)** No application under section 18(c) of the Federal Deposit Insurance Act [ 12 U.S.C. 1828(c) ] shall be required for a conversion under this paragraph.
     - **(D)** For purposes of this paragraph, the terms “State bank” and “State bank supervisor” have the same meanings as in section 3 of the Federal Deposit Insurance Act [ 12 U.S.C. 1813 ].
   - **(6)** A Federal savings association may not convert to a State bank or State savings association during any period in which the Federal savings association is subject to a cease and desist order (or other formal enforcement order) issued by, or a memorandum of understanding entered into with, the Office of Thrift Supervision or the Comptroller of the Currency with respect to a significant supervisory matter.
-- **(j)** [Repealed.]
+- **(j)**
 - **(k)** When designated for that purpose by the Secretary of the Treasury, a savings association the deposits of which are insured by the Corporation shall be a depository of public money and may be employed as fiscal agent of the Government under such regulations as may be prescribed by the Secretary and shall perform all such reasonable duties as fiscal agent of the Government as may be required of it. A savings association the deposits of which are insured by the Corporation may act as agent for any other instrumentality of the United States when designated for that purpose by such instrumentality, including services in connection with the collection of taxes and other obligations owed the United States, and the Secretary of the Treasury may deposit public money in any such savings association, and shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
 - **(l)** A Federal savings association is authorized to act as trustee of any trust created or organized in the United States and forming part of a stock bonus, pension, or profit-sharing plan which qualifies or qualified for specific tax treatment under section 401(d) of the Internal Revenue Code of 1986 [ 26 U.S.C. 401(d) ] and to act as trustee or custodian of an individual retirement account within the meaning of section 408 of such Code [ 26 U.S.C. 408 ] if the funds of such trust or account are invested only in savings accounts or deposits in such Federal savings association or in obligations or securities issued by such Federal savings association. All funds held in such fiduciary capacity by any Federal savings association may be commingled for appropriate purposes of investment, but individual records shall be kept by the fiduciary for each participant and shall show in proper detail all transactions engaged in under this paragraph.
 - **(m)**

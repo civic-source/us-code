@@ -3,9 +3,9 @@ title: "Section 5204a - Authorization of appropriations for insular areas"
 usc_title: 42
 usc_section: "5204a"
 chapter: 68
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 5204a"
-generated_at: "2026-03-30T03:11:40.372Z"
+generated_at: "2026-03-30T03:14:51.870Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to—
 
   - **(1)** reconstruct essential public facilities damaged by disasters in the insular areas that occurred prior to February 24, 1992 ; and
-  - **(2)** enhance the survivability of essential public facilities in the event of disasters in the insular areas, except that with respect to the disaster declared by the President in the case of Hurricane Hugo, September 1989, amounts for any fiscal year shall not exceed 25 percent of the estimated aggregate amount of grants to be made under sections 5170b and 5172 of this title for such disaster. Such sums shall remain available until expended.
+  - **(2)** enhance the survivability of essential public facilities in the event of disasters in the insular areas,

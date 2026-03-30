@@ -3,9 +3,9 @@ title: "Section 2013 - Authorization of appropriations"
 usc_title: 38
 usc_section: "2013"
 chapter: 20
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 2013"
-generated_at: "2026-03-30T03:11:17.756Z"
+generated_at: "2026-03-30T03:14:12.959Z"
 status: "active"
 ---
 
@@ -18,4 +18,5 @@ There is authorized to be appropriated to carry out this subchapter amounts as f
   - **(3)** $217,700,000 for fiscal year 2011.
   - **(4)** $250,000,000 for fiscal year 2012.
   - **(5)** $250,000,000 for fiscal year 2013.
-  - **(6)** $150,000,000 for fiscal year 2014 and each subsequent fiscal year.
+  - **(6)** $250,000,000 for fiscal year 2014.
+  - **(7)** $150,000,000 for fiscal year 2015 and each subsequent fiscal year.

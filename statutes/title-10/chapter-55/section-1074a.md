@@ -3,9 +3,9 @@ title: "Section 1074a - Medical and dental care: members on duty other than acti
 usc_title: 10
 usc_section: "1074a"
 chapter: 55
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 1074a"
-generated_at: "2026-03-30T03:10:02.999Z"
+generated_at: "2026-03-30T03:12:15.129Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 396 - Allowance of party’s expenses"
 usc_title: 2
 usc_section: "396"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 396"
-generated_at: "2026-03-30T03:09:51.245Z"
+generated_at: "2026-03-30T03:12:02.401Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 620j - Authority of Export Administration Act of 1979"
 usc_title: 16
 usc_section: "620j"
 chapter: 4
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 620j"
-generated_at: "2026-03-30T03:10:27.198Z"
+generated_at: "2026-03-30T03:12:42.240Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Nothing in sections 620 to 620j of this title shall be construed to—
 
   - **(1)** prejudice the outcome of pending or prospective petitions filed under, or
-  - **(2)** warrant the exercise of the authority contained in, section 7 of the Export Administration Act of 1979 [50 U.S.C. App. 2406] with respect to the export of unprocessed timber.
+  - **(2)** warrant the exercise of the authority contained in,

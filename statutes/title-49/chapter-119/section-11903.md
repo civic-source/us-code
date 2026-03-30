@@ -3,9 +3,9 @@ title: "Section 11903 - Record keeping and reporting violations"
 usc_title: 49
 usc_section: "11903"
 chapter: 119
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 11903"
-generated_at: "2026-03-30T03:11:48.076Z"
+generated_at: "2026-03-30T03:15:03.306Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ A person required to make a report to the Board, or make, prepare, or preserve a
   - **(2)** destroys, mutilates, changes, or by another means falsifies the record;
   - **(3)** does not enter business related facts and transactions in the record;
   - **(4)** makes, prepares, or preserves the record in violation of a regulation or order of the Board; or
-  - **(5)** files a false report or record with the Board, shall be fined not more than $5,000, imprisoned for not more than 2 years, or both.
+  - **(5)** files a false report or record with the Board,

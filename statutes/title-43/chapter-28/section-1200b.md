@@ -3,9 +3,9 @@ title: "Section 1200b - Inclusion of other provisions in contracts for condemnat
 usc_title: 43
 usc_section: "1200b"
 chapter: 28
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "43 U.S.C. § 1200b"
-generated_at: "2026-03-30T03:11:20.597Z"
+generated_at: "2026-03-30T03:14:28.864Z"
 status: "active"
 ---
 

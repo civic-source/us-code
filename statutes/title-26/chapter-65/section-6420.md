@@ -3,9 +3,9 @@ title: "Section 6420 - Gasoline used on farms"
 usc_title: 26
 usc_section: "6420"
 chapter: 65
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 6420"
-generated_at: "2026-03-30T03:11:08.865Z"
+generated_at: "2026-03-30T03:13:21.925Z"
 status: "active"
 ---
 
@@ -40,6 +40,7 @@ status: "active"
     - **(A)** the United States or an agency or instrumentality thereof, a State, a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions, or
     - **(B)** an organization exempt from tax under section 501(a) (other than an organization required to make a return of the tax imposed under subtitle A for its taxable year).
   - **(2)** For allowance of credit against the tax imposed by subtitle A, see section 34.
+- **[(h)**
 - **(i)**
   - **(1)** For exemption from tax in case of special fuels used on a farm for farming purposes, see section 4041(f).
   - **(2)** For civil penalty for excessive claim under this section, see section 6675.

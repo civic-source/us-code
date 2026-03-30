@@ -3,9 +3,9 @@ title: "Section 1602 - Definitions and rules of construction"
 usc_title: 15
 usc_section: "1602"
 chapter: 41
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 1602"
-generated_at: "2026-03-30T03:10:11.552Z"
+generated_at: "2026-03-30T03:12:35.324Z"
 status: "active"
 ---
 
@@ -56,13 +56,16 @@ status: "active"
       - **(i)** any premium provided by an agency of the Federal Government or an agency of a State;
       - **(ii)** any amount that is not in excess of the amount payable under policies in effect at the time of origination under section 203(c)(2)(A) of the National Housing Act ( 12 U.S.C. 1709(c)(2)(A) ), provided that the premium, charge, or fee is required to be refundable on a pro-rated basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage loan; and
       - **(iii)** any premium paid by the consumer after closing.
-        - **(2)**
+  - **(2)**
+    - **(A)** After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
+      - **(i)** consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
+      - **(ii)** warranted by the need for credit.
     - **(B)** An increase or decrease under subparagraph (A)—
       - **(i)** may not result in the number of percentage points referred to in paragraph (1)(A)(i)(I) being less than 6 percentage points or greater than 10 percentage points; and
       - **(ii)** may not result in the number of percentage points referred to in paragraph (1)(A)(i)(II) being less than 8 percentage points or greater than 12 percentage points.
     - **(C)** In determining whether to increase or decrease the number of percentage points referred to in subparagraph (A), the Bureau shall consult with representatives of consumers, including low-income consumers, and lenders.
-        - **(3)** The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
-        - **(4)** For purposes of paragraph (1)(B), points and fees shall include—
+  - **(3)** The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
+  - **(4)** For purposes of paragraph (1)(B), points and fees shall include—
     - **(A)** all items included in the finance charge, except interest or the time-price differential;
     - **(B)** all compensation paid directly or indirectly by a consumer or creditor to a mortgage originator from any source, including a mortgage originator that is also the creditor in a table-funded transaction;
     - **(C)** each of the charges listed in section 1605(e) of this title (except an escrow for future payment of taxes), unless—
@@ -73,8 +76,8 @@ status: "active"
     - **(E)** the maximum prepayment fees and penalties which may be charged or collected under the terms of the credit transaction;
     - **(F)** all prepayment fees or penalties that are incurred by the consumer if the loan refinances a previous loan made or currently held by the same creditor or an affiliate of the creditor; and
     - **(G)** such other charges as the Bureau determines to be appropriate.
-        - **(5)** In the case of open-end consumer credit plans, points and fees shall be calculated, for purposes of this section and section 1639 of this title , by adding the total points and fees known at or before closing, including the maximum prepayment penalties which may be charged or collected under the terms of the credit transaction, plus the minimum additional fees the consumer would be required to pay to draw down an amount equal to the total credit line.
-        - **(6)** This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
+  - **(5)** In the case of open-end consumer credit plans, points and fees shall be calculated, for purposes of this section and section 1639 of this title , by adding the total points and fees known at or before closing, including the maximum prepayment penalties which may be charged or collected under the terms of the credit transaction, plus the minimum additional fees the consumer would be required to pay to draw down an amount equal to the total credit line.
+  - **(6)** This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
 - **(cc)** 1 1 So in original. Two subsecs. (cc) have been enacted. The term “reverse mortgage transaction” means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer’s principal dwelling—
   - **(1)** securing one or more advances; and
   - **(2)** with respect to which the payment of any principal, interest, and shared appreciation or equity is due and payable (other than in the case of default) only after—

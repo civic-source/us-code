@@ -3,9 +3,9 @@ title: "Section 3105 - Powers and duties of Secretary"
 usc_title: 42
 usc_section: "3105"
 chapter: 37
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 3105"
-generated_at: "2026-03-30T03:11:40.326Z"
+generated_at: "2026-03-30T03:14:51.816Z"
 status: "active"
 ---
 

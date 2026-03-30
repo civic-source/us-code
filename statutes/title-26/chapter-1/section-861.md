@@ -3,9 +3,9 @@ title: "Section 861 - Income from sources within the United States"
 usc_title: 26
 usc_section: "861"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 861"
-generated_at: "2026-03-30T03:11:08.759Z"
+generated_at: "2026-03-30T03:13:21.802Z"
 status: "active"
 ---
 
@@ -31,13 +31,13 @@ status: "active"
   - **(4)** Rentals or royalties from property located in the United States or from any interest in such property, including rentals or royalties for the use of or for the privilege of using in the United States patents, copyrights, secret processes and formulas, good will, trade-marks, trade brands, franchises, and other like property.
   - **(5)** Gains, profits, and income from the disposition of a United States real property interest (as defined in section 897(c)).
   - **(6)** Gains, profits, and income derived from the purchase of inventory property (within the meaning of section 865(i)(1)) without the United States (other than within a possession of the United States) and its sale or exchange within the United States.
-        - **(7)** Amounts received as underwriting income (as defined in section 832(b)(3)) derived from the issuing (or reinsuring) of any insurance or annuity contract—
+  - **(7)** Amounts received as underwriting income (as defined in section 832(b)(3)) derived from the issuing (or reinsuring) of any insurance or annuity contract—
+    - **(A)** in connection with property in, liability arising out of an activity in, or in connection with the lives or health of residents of, the United States, or
+    - **(B)** in connection with risks not described in subparagraph (A) as a result of any arrangement whereby another corporation receives a substantially equal amount of premiums or other consideration in respect to issuing (or reinsuring) any insurance or annuity contract in connection with property in, liability arising out of activity in, or in connection with the lives or health of residents of, the United States.
   - **(8)** Any social security benefit (as defined in section 86(d)).
   - **(9)** Amounts received, directly or indirectly, from—
     - **(A)** a noncorporate resident or domestic corporation for the provision of a guarantee of any indebtedness of such resident or corporation, or
     - **(B)** any foreign person for the provision of a guarantee of any indebtedness of such person, if such amount is connected with income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States.
-    - **(A)** in connection with property in, liability arising out of an activity in, or in connection with the lives or health of residents of, the United States, or
-    - **(B)** in connection with risks not described in subparagraph (A) as a result of any arrangement whereby another corporation receives a substantially equal amount of premiums or other consideration in respect to issuing (or reinsuring) any insurance or annuity contract in connection with property in, liability arising out of activity in, or in connection with the lives or health of residents of, the United States.
 - **(b)** From the items of gross income specified in subsection (a) as being income from sources within the United States there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
 - **(c)** For purposes of subsection (a)(2)(B), if the foreign corporation has no gross income from any source for the 3-year period (or part thereof) specified, the requirements of such subsection shall be applied with respect to the taxable year of such corporation in which the payment of the dividend is made.
 - **(d)**

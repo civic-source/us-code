@@ -3,9 +3,9 @@ title: "Section 431 - Definitions"
 usc_title: 2
 usc_section: "431"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 431"
-generated_at: "2026-03-30T03:09:51.245Z"
+generated_at: "2026-03-30T03:12:02.401Z"
 status: "active"
 ---
 
@@ -48,14 +48,8 @@ When used in this Act:
         - **(I)** any political committee of a political party if the person paying for such services is the regular employer of the person rendering such services and if such services are not attributable to activities which directly further the election of any designated candidate to Federal office; or
         - **(II)** an authorized committee of a candidate or any other political committee, if the person paying for such services is the regular employer of the individual rendering such services and if such services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
       - **(ix)** the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: Provided , That—
-        - **(1)** such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
-        - **(2)** such payments are made from contributions subject to the limitations and prohibitions of this Act; and
-        - **(3)** such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
       - **(x)** the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): Provided , That such payments are made from contributions subject to the limitations and prohibitions of this Act;
       - **(xi)** the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: Provided , That—
-        - **(1)** such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
-        - **(2)** such payments are made from contributions subject to the limitations and prohibitions of this Act; and
-        - **(3)** such payments are not made from contributions designated to be spent on behalf of a particular candidate or candidates;
       - **(xii)** payments made by a candidate or the authorized committee of a candidate as a condition of ballot access and payments received by any political party committee as a condition of ballot access;
       - **(xiii)** any honorarium (within the meaning of section 441i of this title ); and
       - **(xiv)** any loan of money derived from an advance on a candidate’s brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate’s brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person’s business.
@@ -74,13 +68,7 @@ When used in this Act:
         - **(I)** rendered to or on behalf of any political committee of a political party if the person paying for such services is the regular employer of the individual rendering such services, and if such services are not attributable to activities which directly further the election of any designated candidate to Federal office; or
         - **(II)** rendered to or on behalf of a candidate or political committee if the person paying for such services is the regular employer of the individual rendering such services, and if such services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
       - **(viii)** the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: Provided , That—
-        - **(1)** such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
-        - **(2)** such payments are made from contributions subject to the limitations and prohibitions of this Act; and
-        - **(3)** such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
       - **(ix)** the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: Provided , That—
-        - **(1)** such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
-        - **(2)** such payments are made from contributions subject to the limitations and prohibitions of this Act; and
-        - **(3)** such payments are not made from contributions designated to be spent on behalf of a particular candidate or candidates; and
       - **(x)** payments received by a political party committee as a condition of ballot access which are transferred to another political party committee or the appropriate State official.
   - **(10)** The term “Commission” means the Federal Election Commission.
   - **(11)** The term “person” includes an individual, partnership, committee, association, corporation, labor organization, or any other organization or group of persons, but such term does not include the Federal Government or any authority of the Federal Government.

@@ -3,9 +3,9 @@ title: "Section 7243c - Studies of national significance"
 usc_title: 20
 usc_section: "7243c"
 chapter: 70
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "20 U.S.C. § 7243c"
-generated_at: "2026-03-30T03:10:17.376Z"
+generated_at: "2026-03-30T03:12:49.541Z"
 status: "active"
 ---
 

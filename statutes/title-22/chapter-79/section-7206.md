@@ -3,9 +3,9 @@ title: "Section 7206 - Congressional procedures"
 usc_title: 22
 usc_section: "7206"
 chapter: 79
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 7206"
-generated_at: "2026-03-30T03:10:34.762Z"
+generated_at: "2026-03-30T03:12:56.243Z"
 status: "active"
 ---
 

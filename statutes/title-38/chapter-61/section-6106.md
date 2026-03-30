@@ -3,9 +3,9 @@ title: "Section 6106 - Misuse of benefits by fiduciaries"
 usc_title: 38
 usc_section: "6106"
 chapter: 61
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 6106"
-generated_at: "2026-03-30T03:11:17.780Z"
+generated_at: "2026-03-30T03:14:12.983Z"
 status: "active"
 ---
 

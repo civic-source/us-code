@@ -3,9 +3,9 @@ title: "Section 22705 - Content"
 usc_title: 49
 usc_section: "22705"
 chapter: 227
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 22705"
-generated_at: "2026-03-30T03:11:48.088Z"
+generated_at: "2026-03-30T03:15:03.317Z"
 status: "active"
 ---
 

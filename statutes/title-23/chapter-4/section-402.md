@@ -3,9 +3,9 @@ title: "Section 402 - Highway safety programs"
 usc_title: 23
 usc_section: "402"
 chapter: 4
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "23 U.S.C. § 402"
-generated_at: "2026-03-30T03:10:33.264Z"
+generated_at: "2026-03-30T03:12:52.318Z"
 status: "active"
 ---
 
@@ -100,6 +100,7 @@ status: "active"
       - **(ii)** require the State to resubmit the plan with any modifications that the Secretary determines to be necessary.
     - **(D)** If the Secretary requires a State to resubmit a highway safety plan, with modifications, the Secretary shall review and approve or disapprove the modified plan not later than 30 days after the date on which the Secretary receives such plan.
     - **(E)** A State shall make the State’s highway safety plan, and decisions of the Secretary concerning approval or disapproval of a revised plan, available to the public.
+- **[(l)** redesignated (j).]
 - **(m)**
   - **(1)** Subject to the requirements of a State’s highway safety plan, as approved by the Secretary under subsection (k), a State may use a portion of the amounts received under this section to implement statewide efforts to improve traffic safety for teen drivers.
   - **(2)** Statewide efforts under paragraph (1)—

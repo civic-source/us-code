@@ -3,9 +3,9 @@ title: "Section 1778 - Congressional findings and purpose"
 usc_title: 25
 usc_section: "1778"
 chapter: 19
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 1778"
-generated_at: "2026-03-30T03:10:32.927Z"
+generated_at: "2026-03-30T03:13:04.468Z"
 status: "active"
 ---
 

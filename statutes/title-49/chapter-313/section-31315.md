@@ -3,9 +3,9 @@ title: "Section 31315 - Waivers, exemptions, and pilot programs"
 usc_title: 49
 usc_section: "31315"
 chapter: 313
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 31315"
-generated_at: "2026-03-30T03:11:48.101Z"
+generated_at: "2026-03-30T03:15:03.331Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1537 - Custody and release after removal hearing"
 usc_title: 8
 usc_section: "1537"
 chapter: 12
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "8 U.S.C. § 1537"
-generated_at: "2026-03-30T03:09:58.663Z"
+generated_at: "2026-03-30T03:12:09.974Z"
 status: "active"
 ---
 

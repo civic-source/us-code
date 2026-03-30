@@ -3,9 +3,9 @@ title: "Section 1055 - Requirement of joint and survivor annuity and preretireme
 usc_title: 29
 usc_section: "1055"
 chapter: 18
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "29 U.S.C. § 1055"
-generated_at: "2026-03-30T03:10:49.015Z"
+generated_at: "2026-03-30T03:13:29.127Z"
 status: "active"
 ---
 
@@ -70,7 +70,10 @@ status: "active"
       - **(i)** A plan may provide the written explanation described in paragraph (3)(A) after the annuity starting date. In any case to which this subparagraph applies, the applicable election period under paragraph (7) shall not end before the 30th day after the date on which such explanation is provided.
       - **(ii)** The Secretary of the Treasury may by regulations limit the application of clause (i), except that such regulations may not limit the period of time by which the annuity starting date precedes the provision of the written explanation other than by providing that the annuity starting date may not be earlier than termination of employment.
     - **(B)** A plan may permit a participant to elect (with any applicable spousal consent) to waive any requirement that the written explanation be provided at least 30 days before the annuity starting date (or to waive the 30-day requirement under subparagraph (A)) if the distribution commences more than 7 days after such explanation is provided.
-- **(d)** For purposes of this section, the term “qualified joint and survivor annuity” means an annuity—
+- **(d)**
+  - **(1)** For purposes of this section, the term “qualified joint and survivor annuity” means an annuity—
+    - **(A)** for the life of the participant with a survivor annuity for the life of the spouse which is not less than 50 percent of (and is not greater than 100 percent of) the amount of the annuity which is payable during the joint lives of the participant and the spouse, and
+    - **(B)** which is the actuarial equivalent of a single annuity for the life of the participant.
   - **(2)**
     - **(A)** For purposes of this section, the term “qualified optional survivor annuity” means an annuity—
       - **(i)** for the life of the participant with a survivor annuity for the life of the spouse which is equal to the applicable percentage of the amount of the annuity which is payable during the joint lives of the participant and the spouse, and
@@ -80,8 +83,6 @@ status: "active"
         - **(I)** is less than 75 percent, the applicable percentage is 75 percent, and
         - **(II)** is greater than or equal to 75 percent, the applicable percentage is 50 percent.
       - **(ii)** For purposes of clause (i), the term “survivor annuity percentage” means the percentage which the survivor annuity under the plan’s qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
-    - **(A)** for the life of the participant with a survivor annuity for the life of the spouse which is not less than 50 percent of (and is not greater than 100 percent of) the amount of the annuity which is payable during the joint lives of the participant and the spouse, and
-    - **(B)** which is the actuarial equivalent of a single annuity for the life of the participant.
 - **(e)** For purposes of this section—
   - **(1)** Except as provided in paragraph (2), the term “qualified preretirement survivor annuity” means a survivor annuity for the life of the surviving spouse of the participant if—
     - **(A)** the payments to the surviving spouse under such annuity are not less than the amounts which would be payable as a survivor annuity under the qualified joint and survivor annuity under the plan (or the actuarial equivalent thereof) if—

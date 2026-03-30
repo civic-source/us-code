@@ -3,9 +3,9 @@ title: "Section 2004 - Applications for approval of proposed crude oil transport
 usc_title: 43
 usc_section: "2004"
 chapter: 38
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "43 U.S.C. § 2004"
-generated_at: "2026-03-30T03:11:20.619Z"
+generated_at: "2026-03-30T03:14:28.886Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 The following applications for construction and operation of a crude oil transportation system submitted to the Secretary of the Interior by an applicant are eligible for consideration under this chapter:
 
   - **(1)** Applications received by the Secretary before the 30th day after November 9, 1978 .
-  - **(2)** Applications received by the Secretary during the 60-day period beginning on the 30th day after November 9, 1978 , if the Secretary determines that consideration and review of the proposal contained in such application is in the national interest and that such consideration and review could be completed within the time limits established under this chapter. An application under this section may be accepted by the Secretary only if it contains a general description of the route of the proposed system and identification of the applicant and any other person who, at the time of filing, has a financial or other interest in the system or is a party to an agreement under which such person would acquire a financial or other interest in the system.
+  - **(2)** Applications received by the Secretary during the 60-day period beginning on the 30th day after November 9, 1978 , if the Secretary determines that consideration and review of the proposal contained in such application is in the national interest and that such consideration and review could be completed within the time limits established under this chapter.

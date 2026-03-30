@@ -3,9 +3,9 @@ title: "Section 564 - Dividend carryover"
 usc_title: 26
 usc_section: "564"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 564"
-generated_at: "2026-03-30T03:11:08.742Z"
+generated_at: "2026-03-30T03:13:21.779Z"
 status: "active"
 ---
 

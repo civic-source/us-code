@@ -3,9 +3,9 @@ title: "Section 3783 - Notice and hearing on denial or termination of grant"
 usc_title: 42
 usc_section: "3783"
 chapter: 46
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 3783"
-generated_at: "2026-03-30T03:11:40.337Z"
+generated_at: "2026-03-30T03:14:51.830Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Whenever, after reasonable notice and opportunity for a hearing on the record in
 
   - **(1)** any provisions of this chapter;
   - **(2)** any regulations or guidelines promulgated under this chapter; or
-  - **(3)** any application submitted in accordance with the provisions of this chapter, or the provisions of any other applicable Federal Act; the Director involved shall, until satisfied that there is no longer any such failure to comply, terminate payments to the recipient under this chapter, reduce payments to the recipient under this chapter by an amount equal to the amount of such payments which were not expended in accordance with this chapter, or limit the availability of payments under this chapter to programs, projects, or activities not affected by such failure to comply.
+  - **(3)** any application submitted in accordance with the provisions of this chapter, or the provisions of any other applicable Federal Act;

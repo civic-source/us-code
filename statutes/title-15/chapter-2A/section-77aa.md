@@ -3,15 +3,13 @@ title: "Section 77aa - Schedule of information required in registration statemen
 usc_title: 15
 usc_section: "77aa"
 chapter: 2
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 77aa"
-generated_at: "2026-03-30T03:10:11.464Z"
+generated_at: "2026-03-30T03:12:35.230Z"
 status: "active"
 ---
 
 # § 77aa. Schedule of information required in registration statement
-
-schedule a
 
   - **(1)** The name under which the issuer is doing or intends to do business;
   - **(2)** the name of the State or other sovereign power under which the issuer is organized;
@@ -44,7 +42,7 @@ schedule a
   - **(29)** a copy of the opinion or opinions of counsel in respect to the legality of the issue, with a translation of such opinion, when necessary, into the English language;
   - **(30)** a copy of all material contracts referred to in paragraph (24) of this schedule, but no disclosure shall be required of any portion of any such contract if the Commission determines that disclosure of such portion would impair the value of the contract and would not be necessary for the protection of the investors;
   - **(31)** unless previously filed and registered under the provisions of this subchapter, and brought up to date, (a) a copy of its articles of incorporation, with all amendments thereof and of its existing bylaws or instruments corresponding thereto, whatever the name, if the issuer be a corporation; (b) copy of all instruments by which the trust is created or declared, if the issuer is a trust; (c) a copy of its articles of partnership or association and all other papers pertaining to its organization, if the issuer is a partnership, unincorporated association, joint-stock company, or any other form of organization; and
-  - **(32)** a copy of the underlying agreements or indentures affecting any stock, bonds, or debentures offered or to be offered. In case of certificates of deposit, voting trust certificates, collateral trust certificates, certificates of interest or shares in unincorporated investment trusts, equipment trust certificates, interim or other receipts for certificates, and like securities, the Commission shall establish rules and regulations requiring the submission of information of a like character applicable to such cases, together with such other information as it may deem appropriate and necessary regarding the character, financial or otherwise, of the actual issuer of the securities and/or the person performing the acts and assuming the duties of depositor or manager. schedule b
+  - **(32)** a copy of the underlying agreements or indentures affecting any stock, bonds, or debentures offered or to be offered. In case of certificates of deposit, voting trust certificates, collateral trust certificates, certificates of interest or shares in unincorporated investment trusts, equipment trust certificates, interim or other receipts for certificates, and like securities, the Commission shall establish rules and regulations requiring the submission of information of a like character applicable to such cases, together with such other information as it may deem appropriate and necessary regarding the character, financial or otherwise, of the actual issuer of the securities and/or the person performing the acts and assuming the duties of depositor or manager.
   - **(1)** Name of borrowing government or subdivision thereof;
   - **(2)** specific purposes in detail and the approximate amounts to be devoted to such purposes, so far as determinable, for which the security to be offered is to supply funds, and if the funds are to be raised in part from other sources, the amounts thereof and the sources thereof, shall be stated;
   - **(3)** the amount of the funded debt and the estimated amount of the floating debt outstanding and to be created by the security to be offered, excluding intergovernmental debt, and a brief description of the date, maturity, character of such debt, rate of interest, character of amortization provisions, and the security, if any, therefor. If substitution of any security is permissible, a statement of the conditions under which such substitution is permitted. If substitution is permissible without notice, a specific statement to that effect;

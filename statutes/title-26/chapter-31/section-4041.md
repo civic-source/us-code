@@ -3,9 +3,9 @@ title: "Section 4041 - Imposition of tax"
 usc_title: 26
 usc_section: "4041"
 chapter: 31
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 4041"
-generated_at: "2026-03-30T03:11:08.817Z"
+generated_at: "2026-03-30T03:13:21.868Z"
 status: "active"
 ---
 
@@ -69,6 +69,7 @@ status: "active"
     - **(B)** used by any person as a fuel in a diesel-powered train unless there was a taxable sale of such fuel under subparagraph (A).
   - **(4)** The taxes imposed by this subsection shall not apply during any period during which the Leaking Underground Storage Tank Trust Fund financing rate under section 4081 does not apply.
   - **(5)** For purposes of this section, the tax imposed under this subsection shall be determined without regard to subsections (b)(1)(A), (f), (g), (h), and ( l ). The preceding sentence shall not apply with respect to subsection (g)(3) and so much of subsection (g)(1) as relates to vessels (within the meaning of section 4221(d)(3)) employed in foreign trade or trade between the United States and any of its possessions.
+- **[(e)**
 - **(f)**
   - **(1)** Under regulations prescribed by the Secretary, no tax shall be imposed under this section on any liquid sold for use or used on a farm for farming purposes.
   - **(2)** For purposes of paragraph (1) of this subsection, use on a farm for farming purposes shall be determined in accordance with paragraphs (1), (2), and (3) of section 6420(c).
@@ -84,6 +85,7 @@ status: "active"
     - **(A)** described in section 501(c)(3) which is exempt from income tax under section 501(a),
     - **(B)** operated as a museum under charter by a State or the District of Columbia, and
     - **(C)** operated exclusively for the procurement, care, and exhibition of aircraft of the type used for combat or transport in World War II.
+- **[(i)**
 - **(j)** The taxes imposed by this section shall apply with respect to liquids sold at retail by the United States, or by any agency or instrumentality of the United States, unless sales by such agency or instrumentality are by statute specifically exempted from such taxes.
 - **[(k)**
 - **(l)** No tax shall be imposed under this section on any liquid sold for use in, or used in, a helicopter or a fixed-wing aircraft for purposes of providing transportation with respect to which the requirements of subsection (f) or (g) of section 4261 are met.

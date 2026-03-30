@@ -3,9 +3,9 @@ title: "Section 2113 - Certification of cotton producer organizations"
 usc_title: 7
 usc_section: "2113"
 chapter: 53
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 2113"
-generated_at: "2026-03-30T03:10:00.549Z"
+generated_at: "2026-03-30T03:12:09.406Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ The eligibility of each cotton producer organization to represent cotton produce
 - **(d)** Evidence of stability and permanency of the organization;
 - **(e)** Sources from which the organization’s operating funds are derived;
 - **(f)** Functions of the organization; and
-- **(g)** The organization’s ability and willingness to further the aims and objectives of this chapter: Provided, however , That the primary consideration in determining the eligibility of an organization shall be whether its cotton farmer membership consists of a sufficiently large number of the cotton producers who produce a relatively significant volume of cotton to reasonably warrant its participation in the nomination of members for the Cotton Board. The Secretary shall certify any cotton producer organization which he finds to be eligible under this section, and his determination as to eligibility shall be final.
+- **(g)** The organization’s ability and willingness to further the aims and objectives of this chapter:

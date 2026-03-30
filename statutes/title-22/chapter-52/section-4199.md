@@ -3,9 +3,9 @@ title: "Section 4199 - Penalty for failure to give bond and for embezzlement"
 usc_title: 22
 usc_section: "4199"
 chapter: 52
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 4199"
-generated_at: "2026-03-30T03:10:34.735Z"
+generated_at: "2026-03-30T03:12:56.214Z"
 status: "active"
 ---
 

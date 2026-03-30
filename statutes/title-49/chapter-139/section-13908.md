@@ -3,9 +3,9 @@ title: "Section 13908 - Registration and other reforms"
 usc_title: 49
 usc_section: "13908"
 chapter: 139
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 13908"
-generated_at: "2026-03-30T03:11:48.080Z"
+generated_at: "2026-03-30T03:15:03.308Z"
 status: "active"
 ---
 

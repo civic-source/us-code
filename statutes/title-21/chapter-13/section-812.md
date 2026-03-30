@@ -3,9 +3,9 @@ title: "Section 812 - Schedules of controlled substances"
 usc_title: 21
 usc_section: "812"
 chapter: 13
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "21 U.S.C. § 812"
-generated_at: "2026-03-30T03:10:45.040Z"
+generated_at: "2026-03-30T03:12:53.403Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(A)** The drug or other substance has a low potential for abuse relative to the drugs or other substances in schedule IV.
     - **(B)** The drug or other substance has a currently accepted medical use in treatment in the United States.
     - **(C)** Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule IV.
-- **(c)** Schedules I, II, III, IV, and V shall, unless and until amended 1 1 Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs. pursuant to section 811 of this title , consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated: Schedule I
+- **(c)** Schedules I, II, III, IV, and V shall, unless and until amended 1 1 Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs. pursuant to section 811 of this title , consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
 - **(a)** Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
   - **(1)** Acetylmethadol.
   - **(2)** Allylprodine.
@@ -73,7 +73,7 @@ status: "active"
   - **(36)** Phenomorphan.
   - **(37)** Phenoperidine.
   - **(38)** Piritramide.
-  - **(39)** Propheptazine.
+  - **(39)** Proheptazine.
   - **(40)** Properidine.
   - **(41)** Racemoramide.
   - **(42)** Trimeperidine.
@@ -107,7 +107,7 @@ status: "active"
   - **(4)** Bufotenine.
   - **(5)** Diethyltryptamine.
   - **(6)** Dimethyltryptamine.
-  - **(7)** 4-methyl-2,5-diamethoxyamphetamine.
+  - **(7)** 4-methyl-2,5-dimethoxyamphetamine.
   - **(8)** Ibogaine.
   - **(9)** Lysergic acid diethylamide.
   - **(10)** Marihuana.
@@ -181,7 +181,7 @@ status: "active"
   - **(19)** Piminodine.
   - **(20)** Racemethorphan.
   - **(21)** Racemorphan.
-- **(c)** Unless specifically excepted or unless listed in another schedule, any injectable liquid which contains any quantity of methamphetamine, including its salts, isomers, and salts of isomers. Schedule III
+- **(c)** Unless specifically excepted or unless listed in another schedule, any injectable liquid which contains any quantity of methamphetamine, including its salts, isomers, and salts of isomers.
 - **(a)** Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
   - **(1)** Amphetamine, its salts, optical isomers, and salts of its optical isomers.
   - **(2)** Phenmetrazine and its salts.
@@ -220,8 +220,3 @@ status: "active"
   - **(9)** Paraldehyde.
   - **(10)** Petrichloral.
   - **(11)** Phenobarbital.
-        - **(1)** Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams.
-        - **(2)** Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams.
-        - **(3)** Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams.
-        - **(4)** Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit.
-        - **(5)** Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.

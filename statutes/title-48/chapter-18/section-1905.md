@@ -3,9 +3,9 @@ title: "Section 1905 - Supplemental provisions"
 usc_title: 48
 usc_section: "1905"
 chapter: 18
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "48 U.S.C. § 1905"
-generated_at: "2026-03-30T03:11:49.631Z"
+generated_at: "2026-03-30T03:14:59.465Z"
 status: "active"
 ---
 
@@ -21,9 +21,6 @@ status: "active"
 - **(c)** The authorization provided by the Act of June 30, 1954 , as amended ( 68 Stat. 330 ) shall remain available after the effective date of the Compact with respect to the Federated States of Micronesia and the Marshall Islands for the following purposes:
   - **(1)** Prior to October 1, 1986 , for any purpose authorized by the Compact or this joint resolution.
   - **(2)** Transition purposes, including but not limited to, completion of projects and fulfillment of commitments or obligations; termination of the Trust Territory Government and termination of the High Court; health and education as a result of exceptional circumstances; ex gratia contributions for the populations of Bikini, Enewetak, Rongelap, and Utrik; and technical assistance and training in financial management, program administration, and maintenance of infrastructure, except that, for purposes of an orderly reduction of United States programs and services in the Federated States of Micronesia, the Marshall Islands, and Palau, United States programs or services not specifically authorized by the Compact of Free Association or by other provisions of law may continue but, unless reimbursed by the respective freely associated state, not in excess of the following amounts:
-        - **(1)** For fiscal year 1987, an amount not to exceed 75 per centum of the total amount appropriated for such programs for fiscal year 1986;
-        - **(2)** For fiscal year 1988, an amount not to exceed 50 per centum of the total amount appropriated for such programs for fiscal year 1986;
-        - **(3)** For fiscal year 1989, an amount not to exceed 25 per centum of the total amount appropriated for such programs for fiscal year 1986.
 - **(d)**
   - **(1)** In addition to the funds provided in Title Two, Article II, section 221(b) of the Compact, following approval of the Compact with respect to the Federated States of Micronesia, the United States shall make available to the Government of the Federated States of Micronesia such sums as may be necessary for the payment of the obligations incurred for the use of medical facilities in the United States, including any territories and commonwealths, by citizens of the Federated States of Micronesia before September 1, 1985 .
   - **(2)** In addition to the funds provided in Title Two, Article II, section 221(b) of the Compact, following approval of the Compact with respect to the Marshall Islands, the United States shall make available to the Government of the Marshall Islands such sums as may be necessary for the payment of the obligations incurred for the use of medical facilities in the United States, its territories and commonwealths by citizens of the Marshall Islands before September 1, 1985 .

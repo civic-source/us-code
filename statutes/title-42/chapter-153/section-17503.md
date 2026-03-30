@@ -3,9 +3,9 @@ title: "Section 17503 - Submission of reports to Congress"
 usc_title: 42
 usc_section: "17503"
 chapter: 153
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 17503"
-generated_at: "2026-03-30T03:11:40.624Z"
+generated_at: "2026-03-30T03:14:52.147Z"
 status: "active"
 ---
 

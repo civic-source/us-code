@@ -3,9 +3,9 @@ title: "Section 3835a - Conversion of land subject to contract to other conservi
 usc_title: 16
 usc_section: "3835a"
 chapter: 58
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 3835a"
-generated_at: "2026-03-30T03:10:27.296Z"
+generated_at: "2026-03-30T03:12:42.332Z"
 status: "active"
 ---
 

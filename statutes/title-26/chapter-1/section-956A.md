@@ -3,9 +3,9 @@ title: "Section 956A - Repealed. Pub. L. 104–188, title I, § 1501(a)(2) , Aug
 usc_title: 26
 usc_section: "956A"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 956A"
-generated_at: "2026-03-30T03:11:08.771Z"
+generated_at: "2026-03-30T03:13:21.815Z"
 status: "repealed"
 ---
 

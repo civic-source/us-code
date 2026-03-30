@@ -3,9 +3,9 @@ title: "Section 3123 - Periodic reports"
 usc_title: 16
 usc_section: "3123"
 chapter: 51
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 3123"
-generated_at: "2026-03-30T03:10:27.285Z"
+generated_at: "2026-03-30T03:12:42.322Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ Within four years after December 2, 1980 , and within every three-year period th
   - **(4)** the role of subsistence uses in the economy and culture of rural Alaska;
   - **(5)** comments on the Secretary’s report by the State, the local advisory councils and regional advisory councils established by the Secretary or the State pursuant to section 3115 of this title , and other appropriate persons and organizations;
   - **(6)** a description of those actions taken, or which may need to be taken in the future, to permit the opportunity for continuation of activities relating to subsistence uses on the public lands; and
-  - **(7)** such other recommendations the Secretary deems appropriate. A notice of the report shall be published in the Federal Register and the report shall be made available to the public.
+  - **(7)** such other recommendations the Secretary deems appropriate.

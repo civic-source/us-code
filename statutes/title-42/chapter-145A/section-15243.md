@@ -3,9 +3,9 @@ title: "Section 15243 - Federal Law Enforcement Congressional Badge of Bravery B
 usc_title: 42
 usc_section: "15243"
 chapter: 145
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 15243"
-generated_at: "2026-03-30T03:11:40.587Z"
+generated_at: "2026-03-30T03:14:52.108Z"
 status: "active"
 ---
 

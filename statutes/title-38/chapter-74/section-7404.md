@@ -3,9 +3,9 @@ title: "Section 7404 - Grades and pay scales"
 usc_title: 38
 usc_section: "7404"
 chapter: 74
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "38 U.S.C. § 7404"
-generated_at: "2026-03-30T03:11:17.786Z"
+generated_at: "2026-03-30T03:14:12.989Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
       - **(i)** in the case the position is not described in clause (ii), the rate of basic pay payable for level III of the Executive Schedule; or
       - **(ii)** in the case that the position is covered by a performance appraisal system that meets the certification criteria established by regulation under section 5307(d) of title 5 , the rate of basic pay payable for level II of the Executive Schedule.
     - **(C)** Notwithstanding the provisions of subsection (d) of section 5307 of title 5 , the Secretary may make any certification under that subsection instead of the Office of Personnel Management and without concurrence of the Office of Management and Budget.
-- **(b)** The grades for positions provided for in paragraph (1) of section 7401 of this title shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law: physician and dentist schedule Physician grade. Dentist grade. nurse schedule Nurse V. Nurse IV. Nurse III. Nurse II. Nurse I. clinical podiatrist, chiropractor, and optometrist schedule Chief grade. Senior grade. Intermediate grade. Full grade. Associate grade.
+- **(b)** The grades for positions provided for in paragraph (1) of section 7401 of this title shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
 - **(c)** Notwithstanding the provisions of section 7425(a) of this title , a person appointed under section 7306 of this title who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
 - **(d)** Except as provided under subsection (e), subchapter III, and section 7457 of this title , pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
 - **(e)** The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of section 7451 of this title and shall be paid at a rate determined by the Secretary, not to exceed the maximum rate established for the Senior Executive Service under section 5382 of title 5 .

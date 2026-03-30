@@ -3,9 +3,9 @@ title: "Section 11a - Disposition of HUD-owned properties"
 usc_title: 12
 usc_section: "11a"
 chapter: 13
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "12 U.S.C. § 11a"
-generated_at: "2026-03-30T03:10:09.741Z"
+generated_at: "2026-03-30T03:12:30.280Z"
 status: "active"
 ---
 

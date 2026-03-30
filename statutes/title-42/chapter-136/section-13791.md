@@ -3,9 +3,9 @@ title: "Section 13791 - Community schools youth services and supervision grant p
 usc_title: 42
 usc_section: "13791"
 chapter: 136
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 13791"
-generated_at: "2026-03-30T03:11:40.567Z"
+generated_at: "2026-03-30T03:14:52.085Z"
 status: "active"
 ---
 
@@ -13,6 +13,16 @@ status: "active"
 
 - **(a)** This section may be cited as the “Community Schools Youth Services and Supervision Grant Program Act of 1994”.
 - **(b)** In this section—
+    - **(A)** is a nonprofit organization, as defined in section 5603(23) of this title ; and
+    - **(B)** is operated by a consortium of service providers, consisting of representatives of 5 or more of the following categories of persons:
+      - **(i)** Residents of the community.
+      - **(ii)** Business and civic leaders actively involved in providing employment and business development opportunities in the community.
+      - **(iii)** Educators.
+      - **(iv)** Religious organizations (which shall not provide any sectarian instruction or sectarian worship in connection with an activity funded under this subchapter).
+      - **(v)** Law enforcement agencies.
+      - **(vi)** Public housing agencies.
+      - **(vii)** Other public agencies.
+      - **(viii)** Other interested parties.
 - **(c)**
   - **(1)**
     - **(A)** For any fiscal year in which the sums appropriated to carry out this section equal or exceed $20,000,000, from the sums appropriated to carry out this subsection, the Secretary shall allocate, for grants under subparagraph (B) to community-based organizations in each State, an amount bearing the same ratio to such sums as the number of children in the State who are from families with incomes below the poverty line bears to the number of children in all States who are from families with incomes below the poverty line. In view of the extraordinary need for assistance in Indian country, an appropriate amount of funds available under this part shall be made available for such grants in Indian country.
@@ -104,13 +114,3 @@ status: "active"
   - **(2)** the academic achievement of such children;
   - **(3)** school attendance and graduation rates of such children; and
   - **(4)** the number of such children being processed by the juvenile justice system.
-    - **(A)** is a nonprofit organization, as defined in section 5603(23) of this title ; and
-    - **(B)** is operated by a consortium of service providers, consisting of representatives of 5 or more of the following categories of persons:
-      - **(i)** Residents of the community.
-      - **(ii)** Business and civic leaders actively involved in providing employment and business development opportunities in the community.
-      - **(iii)** Educators.
-      - **(iv)** Religious organizations (which shall not provide any sectarian instruction or sectarian worship in connection with an activity funded under this subchapter).
-      - **(v)** Law enforcement agencies.
-      - **(vi)** Public housing agencies.
-      - **(vii)** Other public agencies.
-      - **(viii)** Other interested parties.

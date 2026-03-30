@@ -3,9 +3,9 @@ title: "Section 286a - Board of Regents"
 usc_title: 42
 usc_section: "286a"
 chapter: 6
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 286a"
-generated_at: "2026-03-30T03:11:40.001Z"
+generated_at: "2026-03-30T03:14:51.469Z"
 status: "active"
 ---
 

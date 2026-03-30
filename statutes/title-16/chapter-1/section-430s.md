@@ -3,9 +3,9 @@ title: "Section 430s - Authorization of appropriations"
 usc_title: 16
 usc_section: "430s"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 430s"
-generated_at: "2026-03-30T03:10:27.127Z"
+generated_at: "2026-03-30T03:12:42.176Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ There are hereby authorized to be appropriated such sums as may be necessary, bu
 
   - **(1)** the facilities needed to accommodate the health, safety, and interpretive needs of the visiting public;
   - **(2)** the location and estimated cost of all facilities; and
-  - **(3)** the projected need for any additional facilities within the battlefield. No funds authorized to be appropriated pursuant to this section shall be available prior to October 1, 1977 .
+  - **(3)** the projected need for any additional facilities within the battlefield.

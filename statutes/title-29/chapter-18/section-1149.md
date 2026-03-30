@@ -3,9 +3,9 @@ title: "Section 1149 - Prohibition on false statements and representations"
 usc_title: 29
 usc_section: "1149"
 chapter: 18
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "29 U.S.C. § 1149"
-generated_at: "2026-03-30T03:10:49.025Z"
+generated_at: "2026-03-30T03:13:29.137Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ No person, in connection with a plan or other arrangement that is 1 1 So in orig
   - **(1)** the financial condition or solvency of such plan or arrangement;
   - **(2)** the benefits provided by such plan or arrangement;
   - **(3)** the regulatory status of such plan or other arrangement under any Federal or State law governing collective bargaining, labor management relations, or intern union affairs; or
-  - **(4)** the regulatory status of such plan or other arrangement regarding exemption from state 2 2 So in original. Probably should be capitalized. regulatory authority under this chapter. This section shall not apply to any plan or arrangement that does not fall within the meaning of the term “multiple employer welfare arrangement” under section 1002(40)(A) of this title .
+  - **(4)** the regulatory status of such plan or other arrangement regarding exemption from state 2 2 So in original. Probably should be capitalized. regulatory authority under this chapter.

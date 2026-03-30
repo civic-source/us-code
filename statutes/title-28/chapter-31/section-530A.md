@@ -3,9 +3,9 @@ title: "Section 530A - Authorization of appropriations for travel and related ex
 usc_title: 28
 usc_section: "530A"
 chapter: 31
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "28 U.S.C. § 530A"
-generated_at: "2026-03-30T03:10:49.965Z"
+generated_at: "2026-03-30T03:13:10.197Z"
 status: "active"
 ---
 

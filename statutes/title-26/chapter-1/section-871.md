@@ -3,9 +3,9 @@ title: "Section 871 - Tax on nonresident alien individuals"
 usc_title: 26
 usc_section: "871"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 871"
-generated_at: "2026-03-30T03:11:08.761Z"
+generated_at: "2026-03-30T03:13:21.803Z"
 status: "active"
 ---
 
@@ -33,6 +33,7 @@ status: "active"
     - **(B)** which, but for this subsection, would not be treated as income which is effectively connected with the conduct of a trade or business within the United States,
   - **(2)** If an election has been made under paragraph (1) and such election has been revoked, a new election may not be made under such paragraph for any taxable year before the 5th taxable year which begins after the first taxable year for which such revocation is effective, unless the Secretary consents to such new election.
   - **(3)** An election under paragraph (1), and any revocation of such an election, may be made only in such manner and at such time as the Secretary may by regulations prescribe.
+- **[(e)**
 - **(f)**
   - **(1)** For purposes of this section, gross income does not include any amount received as an annuity under a qualified annuity plan described in section 403(a)(1), or from a qualified trust described in section 401(a) which is exempt from tax under section 501(a), if—
     - **(A)** all of the personal services by reason of which the annuity is payable were either—

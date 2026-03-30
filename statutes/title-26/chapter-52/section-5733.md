@@ -3,9 +3,9 @@ title: "Section 5733 - Provisions relating to liability for occupational taxes"
 usc_title: 26
 usc_section: "5733"
 chapter: 52
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 5733"
-generated_at: "2026-03-30T03:11:08.843Z"
+generated_at: "2026-03-30T03:13:21.898Z"
 status: "active"
 ---
 

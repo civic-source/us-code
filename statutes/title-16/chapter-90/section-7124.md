@@ -3,9 +3,9 @@ title: "Section 7124 - Evaluation and approval of projects by Secretary concerne
 usc_title: 16
 usc_section: "7124"
 chapter: 90
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 7124"
-generated_at: "2026-03-30T03:10:27.325Z"
+generated_at: "2026-03-30T03:12:42.359Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
     - **(B)** Under the pilot program, the Secretary concerned shall ensure that, on a nationwide basis, not less than the following percentage of all approved projects involving the sale of merchantable timber are implemented using separate contracts:
       - **(i)** For fiscal year 2008, 35 percent.
       - **(ii)** For fiscal year 2009, 45 percent.
-      - **(iii)** For each of fiscal years 2010 through 2012, 50 percent.
+      - **(iii)** For each of fiscal years 2010 through 2013, 50 percent.
     - **(C)** The decision whether to use separate contracts to implement a project involving the sale of merchantable timber shall be made by the Secretary concerned after the approval of the project under this subchapter.
     - **(D)**
       - **(i)** The Secretary concerned may use funds from any appropriated account available to the Secretary for the Federal land to assist in the administration of projects conducted under the pilot program.

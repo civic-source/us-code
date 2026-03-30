@@ -3,9 +3,9 @@ title: "Section 641 - Disposal of certain material"
 usc_title: 14
 usc_section: "641"
 chapter: 17
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "14 U.S.C. § 641"
-generated_at: "2026-03-30T03:10:05.920Z"
+generated_at: "2026-03-30T03:12:20.518Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6d - Repealed. Pub. L. 91–604, § 8(a) , Dec. 31, 1970 , 84 St
 usc_title: 42
 usc_section: "6d"
 chapter: 15
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 6d"
-generated_at: "2026-03-30T03:11:40.273Z"
+generated_at: "2026-03-30T03:14:51.760Z"
 status: "repealed"
 ---
 

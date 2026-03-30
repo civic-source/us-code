@@ -3,9 +3,9 @@ title: "Section 33118 - Preemption of State and local law"
 usc_title: 49
 usc_section: "33118"
 chapter: 331
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 33118"
-generated_at: "2026-03-30T03:11:48.107Z"
+generated_at: "2026-03-30T03:15:03.336Z"
 status: "active"
 ---
 

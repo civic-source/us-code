@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T03:10:11.510Z"
+generated_at: "2026-03-30T03:12:35.280Z"
 status: "active"
 ---
 
@@ -62,6 +62,7 @@ status: "active"
   - **(11)** The Administration may provide loans under this subsection to any small business concern, or to any qualified person seeking to establish such a concern when it determines that such loan will further the policies established in section 631(c) 2 2 See References in Text note below. of this title, with particular emphasis on the preservation or establishment of small business concerns located in urban or rural areas with high proportions of unemployed or low-income individuals or owned by low-income individuals.
   - **(12)**
     - **(A)** The Administration may provide loans under this subsection to assist any small business concern, including start up, to enable such concern to design architecturally or engineer, manufacture, distribute, market, install, or service energy measures: Provided, however , That such loan proceeds shall not be used primarily for research and development.
+- **(b)** 3 3 So in original. Probably should be “(B)”. The Administration may provide deferred participation loans under this subsection to finance the planning, design, or installation of pollution control facilities for the purposes set forth in section 404 of the Small Business Investment Act of 1958 [ 15 U.S.C. 694–1 ]. Notwithstanding the limitation expressed in paragraph (3) of this subsection, a loan made under this paragraph may not result in a total amount outstanding and committed to a borrower from the business loan and investment fund of more than $1,000,000.
   - **(13)** The Administration may provide fi­nancings under this subsection to State and local development companies for the purposes of, and subject to the restrictions in, title V of the Small Business Investment Act of 1958 [ 15 U.S.C. 695 et seq.].
   - **(14)**
     - **(A)** The Administrator may provide extensions of credit, standby letters of credit, revolving lines of credit for export purposes, and other financing to enable small business concerns, including small business export trading companies and small business export management companies, to develop foreign markets. A bank or participating lending institution may establish the rate of interest on such financings as may be legal and reasonable.
@@ -629,7 +630,8 @@ status: "active"
     - **(D)** The Administrator may not review individual loans made by an eligible intermediary to a small business concern before approval of the loan by the eligible intermediary.
   - **(6)** The authority of the Administrator to make loans under the Program shall terminate 3 years after September 27, 2010 .
 - **(m)**
-  - **(1)** The purposes of the Microloan Program are—
+  - **(1)**
+    - **(A)** The purposes of the Microloan Program are—
       - **(i)** to assist women, low-income, veteran (within the meaning of such term under section 632(q) of this title ), and minority entrepreneurs and business owners and other such individuals possessing the capability to operate successful business concerns;
       - **(ii)** to assist small business concerns in those areas suffering from a lack of credit due to economic downturns;
       - **(iii)** to establish a microloan program to be administered by the Small Business Administration—
@@ -640,6 +642,10 @@ status: "active"
       - **(iv)** to establish a welfare-to-work microloan initiative, which shall be administered by the Administration, in order to test the feasibility of supplementing the technical assistance grants provided under clauses (ii) and (iii) of subparagraph (B) to individuals who are receiving assistance under the State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.), or under any comparable State funded means tested program of assistance for low-income individuals, in order to adequately assist those individuals in—
         - **(I)** establishing small businesses; and
         - **(II)** eliminating their dependence on that assistance.
+    - **(B)** There is established a microloan program, under which the Administration may—
+      - **(i)** make direct loans to eligible intermediaries, as provided under paragraph (3), for the purpose of making short-term, fixed interest rate microloans to startup, newly established, and growing small business concerns under paragraph (6);
+      - **(ii)** in conjunction with such loans and subject to the requirements of paragraph (4), make grants to such intermediaries for the purpose of providing intensive marketing, management, and technical assistance to small business concerns that are borrowers under this subsection; and
+      - **(iii)** subject to the requirements of paragraph (5), make grants to nonprofit entities for the purpose of providing marketing, management, and technical assistance to low-income individuals seeking to start or enlarge their own businesses, if such assistance includes working with the grant recipient to secure loans in amounts not to exceed $50,000 from private sector lending institutions, with or without a loan guarantee from the nonprofit entity.
   - **(2)** An intermediary shall be eligible to receive loans and grants under subparagraphs (B)(i) and (B)(ii) of paragraph (1) if it—
     - **(A)** meets the definition in paragraph (10); 2 and
     - **(B)** has at least 1 year of experience making microloans to startup, newly established, or growing small business concerns and providing, as an integral part of its microloan program, intensive marketing, management, and technical assistance to its borrowers.
@@ -657,7 +663,8 @@ status: "active"
       - **(ii)** In selecting intermediaries to participate in the program established under this subsection, the Administration shall give priority to those applicants that provide loans in amounts averaging not more than $10,000.
     - **(B)** As a condition of any loan made to an intermediary under subparagraph (B)(i) of paragraph (1), the Administrator shall require the intermediary to contribute not less than 15 percent of the loan amount in cash from non-Federal sources.
     - **(C)** Notwithstanding subsection (a)(3) of this section, no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, and $5,000,000 in the remaining years of the intermediary’s participation in the program.
-    - **(D)** The Administrator shall, by regulation, require each intermediary to establish a loan loss reserve fund, and to maintain such reserve fund until all obligations owed to the Administration under this subsection are repaid.
+    - **(D)**
+      - **(i)** The Administrator shall, by regulation, require each intermediary to establish a loan loss reserve fund, and to maintain such reserve fund until all obligations owed to the Administration under this subsection are repaid.
       - **(ii)**
         - **(I)** Subject to subclause (III), the Administrator shall require the loan loss reserve fund of an intermediary to be maintained at a level equal to 15 percent of the outstanding balance of the notes receivable owed to the intermediary.
         - **(II)** After the initial 5 years of an intermediary’s participation in the program authorized by this subsection, the Administrator shall, at the request of the intermediary, conduct a review of the annual loss rate of the intermediary. Any intermediary in operation under this subsection prior to October 1, 1994 , that requests a reduction in its loan loss reserve shall be reviewed based on the most recent 5-year period preceding the request.
@@ -744,10 +751,6 @@ status: "active"
     - **(B)** The term of each loan shall be 10 years. During the first year of the loan, the intermediary shall not be required to repay any interest or principal. During the second through fifth years of the loan, the intermediary shall be required to pay interest only. During the sixth through tenth years of the loan, the intermediary shall be required to make interest payments and fully amortize the principal.
     - **(C)** The interest rate on each loan shall be the rate specified by paragraph (3)(F) for direct loans.
   - **(13)** On January 31, 1999 , and annually thereafter, the Administration shall submit to the Committees on Small Business of the House of Representatives and the Senate a report on any monies distributed pursuant to paragraph (4)(F).
-    - **(B)** There is established a microloan program, under which the Administration may—
-      - **(i)** make direct loans to eligible intermediaries, as provided under paragraph (3), for the purpose of making short-term, fixed interest rate microloans to startup, newly established, and growing small business concerns under paragraph (6);
-      - **(ii)** in conjunction with such loans and subject to the requirements of paragraph (4), make grants to such intermediaries for the purpose of providing intensive marketing, management, and technical assistance to small business concerns that are borrowers under this subsection; and
-      - **(iii)** subject to the requirements of paragraph (5), make grants to nonprofit entities for the purpose of providing marketing, management, and technical assistance to low-income individuals seeking to start or enlarge their own businesses, if such assistance includes working with the grant recipient to secure loans in amounts not to exceed $50,000 from private sector lending institutions, with or without a loan guarantee from the nonprofit entity.
 - **(n)**
   - **(1)** In this subsection:
     - **(A)** The term “eligible reservist” means a member of a reserve component of the Armed Forces ordered to active duty during a period of military conflict.

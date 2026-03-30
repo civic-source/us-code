@@ -3,9 +3,9 @@ title: "Section 1973a - Proceeding to enforce the right to vote"
 usc_title: 42
 usc_section: "1973a"
 chapter: 20
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1973a"
-generated_at: "2026-03-30T03:11:40.282Z"
+generated_at: "2026-03-30T03:14:51.770Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1141 - Effect of confirmation"
 usc_title: 11
 usc_section: "1141"
 chapter: 11
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "11 U.S.C. § 1141"
-generated_at: "2026-03-30T03:10:06.287Z"
+generated_at: "2026-03-30T03:12:22.040Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(C)** the court may grant a discharge if, after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge, the court finds that there is no reasonable cause to believe that—
       - **(i)** section 522(q)(1) may be applicable to the debtor; and
       - **(ii)** there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B);
-        - **(6)** Notwithstanding paragraph (1), the confirmation of a plan does not discharge a debtor that is a corporation from any debt—
+  - **(6)** Notwithstanding paragraph (1), the confirmation of a plan does not discharge a debtor that is a corporation from any debt—
     - **(A)** of a kind specified in paragraph (2)(A) or (2)(B) of section 523(a) that is owed to a domestic governmental unit, or owed to a person as the result of an action filed under subchapter III of chapter 37 of title 31 or any similar State statute; or
     - **(B)** for a tax or customs duty with respect to which the debtor—
       - **(i)** made a fraudulent return; or

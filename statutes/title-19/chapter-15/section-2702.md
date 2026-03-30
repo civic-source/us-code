@@ -3,9 +3,9 @@ title: "Section 2702 - Beneficiary country"
 usc_title: 19
 usc_section: "2702"
 chapter: 15
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "19 U.S.C. § 2702"
-generated_at: "2026-03-30T03:10:25.214Z"
+generated_at: "2026-03-30T03:12:39.189Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(E)** The terms “WTO” and “WTO member” have the meanings given those terms in section 3501 of this title .
     - **(F)** The term “former beneficiary country” means a country that ceases to be designated as a beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
   - **(2)** If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
-- **(b)** In designating countries as “beneficiary countries” under this chapter the President shall consider only the following countries and territories or successor political entities: Anguilla Saint Lucia Antigua and Barbuda Saint Vincent and the Bahamas, The Grenadines Barbados Suriname Belize Trinidad and Tobago Dominica Cayman Islands Grenada Montserrat Guyana Netherlands Antilles Haiti Saint Christopher-Nevis Jamaica Turks and Caicos Islands Virgin Islands, British
+- **(b)** In designating countries as “beneficiary countries” under this chapter the President shall consider only the following countries and territories or successor political entities:
   - **(1)** if such country is a Communist country;
   - **(2)** if such country—
     - **(A)** has nationalized, expropriated or otherwise seized ownership or control of property owned by a United States citizen or by a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens,

@@ -3,9 +3,9 @@ title: "Section 31 - Authority to collect and use fees"
 usc_title: 21
 usc_section: "31"
 chapter: 9
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "21 U.S.C. § 31"
-generated_at: "2026-03-30T03:10:45.023Z"
+generated_at: "2026-03-30T03:12:53.387Z"
 status: "active"
 ---
 
@@ -35,10 +35,9 @@ status: "active"
       - **(iv)** under subparagraph (D) of subsection (a)(1) for a fiscal year shall be based on the Secretary’s estimate of 100 percent of the costs of the activities described in such subparagraph (D) for such year.
     - **(B)**
       - **(i)** In establishing the fee amounts under subparagraph (A)(iii) for a fiscal year, the Secretary shall provide for the number of importers who have submitted to the Secretary a notice under section 384b(c) of this title informing the Secretary of the intent of such importer to participate in the program under section 384b of this title in such fiscal year.
-        - **(II)** In establishing the fee amounts under subparagraph (A)(iii) for the first 5 fiscal years after January 4, 2011 , the Secretary shall include in such fee a reasonable surcharge that provides a recoupment of the costs expended by the Secretary to establish and implement the first year of the program under section 384b of this title .
-      - **(ii)** In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out such activities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
-      - **(iii)** Not later than 180 days after January 4, 2011 , the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjust the fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
-  - **(3)** The Secretary shall make all of the fees collected pursuant to clause 2 2 So in original. Probably should be “clauses”. (i), (ii), (iii), and (iv) of paragraph (2)(A) available solely to pay for the costs referred to in such clause (i), (ii), (iii), and (iv) of paragraph (2)(A), respectively.
+    - **(II)** In establishing the fee amounts under subparagraph (A)(iii) for the first 5 fiscal years after January 4, 2011 , the Secretary shall include in such fee a reasonable surcharge that provides a recoupment of the costs expended by the Secretary to establish and implement the first year of the program under section 384b of this title .
+- **(ii)** In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out such activities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
+- **(iii)** Not later than 180 days after January 4, 2011 , the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjust the fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
 - **(c)**
   - **(1)** Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 2010 unless the amount of the total appropriations for food safety activities at the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) is equal to or greater than the amount of appropriations for food safety activities at the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year), multiplied by the adjustment factor under paragraph (3).
   - **(2)** If—

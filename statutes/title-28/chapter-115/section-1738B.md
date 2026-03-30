@@ -3,9 +3,9 @@ title: "Section 1738B - Full faith and credit for child support orders"
 usc_title: 28
 usc_section: "1738B"
 chapter: 115
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "28 U.S.C. § 1738B"
-generated_at: "2026-03-30T03:10:49.976Z"
+generated_at: "2026-03-30T03:13:10.208Z"
 status: "active"
 ---
 
@@ -15,6 +15,17 @@ status: "active"
   - **(1)** shall enforce according to its terms a child support order made consistently with this section by a court of another State; and
   - **(2)** shall not seek or make a modification of such an order except in accordance with subsections (e), (f), and (i).
 - **(b)** In this section:
+    - **(A)** a person under 18 years of age; and
+    - **(B)** a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
+    - **(A)** means a judgment, decree, or order of a court requiring the payment of child support in periodic amounts or in a lump sum; and
+    - **(B)** includes—
+      - **(i)** a permanent or temporary order; and
+      - **(ii)** an initial order or a modification of an order.
+    - **(A)** a person (including a parent) who—
+      - **(i)** claims a right to receive child support;
+      - **(ii)** is a party to a proceeding that may result in the issuance of a child support order; or
+      - **(iii)** is under a child support order; and
+    - **(B)** a State or political subdivision of a State to which the right to obtain child support has been assigned.
 - **(c)** A child support order made by a court of a State is made consistently with this section if—
   - **(1)** a court that makes the order, pursuant to the laws of the State in which the court is located and subsections (e), (f), and (g)—
     - **(A)** has subject matter jurisdiction to hear the matter and enter such an order; and
@@ -38,14 +49,3 @@ status: "active"
   - **(2)** In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply the law of the State of the court that issued the order.
   - **(3)** In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
 - **(i)** If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
-    - **(A)** a person under 18 years of age; and
-    - **(B)** a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
-    - **(A)** means a judgment, decree, or order of a court requiring the payment of child support in periodic amounts or in a lump sum; and
-    - **(B)** includes—
-      - **(i)** a permanent or temporary order; and
-      - **(ii)** an initial order or a modification of an order.
-    - **(A)** a person (including a parent) who—
-      - **(i)** claims a right to receive child support;
-      - **(ii)** is a party to a proceeding that may result in the issuance of a child support order; or
-      - **(iii)** is under a child support order; and
-    - **(B)** a State or political subdivision of a State to which the right to obtain child support has been assigned.

@@ -3,9 +3,9 @@ title: "Section 1508 - Recording, listening to, or observing proceedings of gran
 usc_title: 18
 usc_section: "1508"
 chapter: 73
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 1508"
-generated_at: "2026-03-30T03:10:19.976Z"
+generated_at: "2026-03-30T03:12:44.443Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Whoever knowingly and willfully, by any means or device whatsoever—
 
 - **(a)** records, or attempts to record, the proceedings of any grand or petit jury in any court of the United States while such jury is deliberating or voting; or
-- **(b)** listens to or observes, or attempts to listen to or observe, the proceedings of any grand or petit jury of which he is not a member in any court of the United States while such jury is deliberating or voting— shall be fined under this title or imprisoned not more than one year, or both. Nothing in paragraph (a) of this section shall be construed to prohibit the taking of notes by a grand or petit juror in any court of the United States in connection with and solely for the purpose of assisting him in the performance of his duties as such juror.
+- **(b)** listens to or observes, or attempts to listen to or observe, the proceedings of any grand or petit jury of which he is not a member in any court of the United States while such jury is deliberating or voting—

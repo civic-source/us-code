@@ -3,9 +3,9 @@ title: "Section 41718 - Special rules for Ronald Reagan Washington National Airp
 usc_title: 49
 usc_section: "41718"
 chapter: 417
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "49 U.S.C. § 41718"
-generated_at: "2026-03-30T03:11:48.112Z"
+generated_at: "2026-03-30T03:15:03.343Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(A)** without regard to the criteria contained in subsection (b)(1), six shall be for air transportation to small hub airports and nonhub airports;
     - **(B)** ten shall be for air transportation to medium hub and smaller airports; and
     - **(C)** four shall be for air transportation to airports without regard to their size.
-  - **(4)** Nothing in this section affects Exemption No. 5133, as from time-to-time amended and extended.
+  - **(4)** 5133 .—Nothing in this section affects Exemption No. 5133, as from time-to-time amended and extended.
 - **(d)** The Secretary shall establish procedures to ensure that all requests for exemptions under this section are granted or denied within 90 days after the date on which the request is made.
 - **(e)** Neither the request for, nor the granting of an exemption, under this section shall be considered for purposes of any Federal law a major Federal action significantly affecting the quality of the human environment.
 - **(f)** For purposes of aircraft operations at Ronald Reagan Washington National Airport under subpart K of part 93 of title 14, Code of Federal Regulations, the term “commuters” means aircraft operations using aircraft having a certificated maximum seating capacity of 76 or less.

@@ -3,9 +3,9 @@ title: "Section 1437d - Contract provisions and requirements; loans and annual c
 usc_title: 42
 usc_section: "1437d"
 chapter: 8
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 1437d"
-generated_at: "2026-03-30T03:11:40.237Z"
+generated_at: "2026-03-30T03:14:51.723Z"
 status: "active"
 ---
 
@@ -61,9 +61,6 @@ status: "active"
     - **(J)** The extent to which the public housing agency is providing acceptable basic housing conditions.
     - **(K)** Any other factors as the Secretary deems appropriate which shall not exceed the seven factors in the statute, plus an additional five.
         - **(I)** 3 3 Another subpar. (I) is set out before subpar. (J). The Secretary shall:
-  - **(1)** administer the system of evaluating public housing agencies flexibly to ensure that such agencies are not penalized as result of circumstances beyond their control;
-  - **(2)** reflect in the weights assigned to the various indicators the differences in the difficulty of managing individual projects that result from their physical condition and their neighborhood environment; and
-  - **(3)** determine a public housing agency’s status as “troubled with respect to the program under section 1437 l 4 4 See References in Text note below. of this title” based upon factors solely related to its ability to carry out that program.
   - **(2)**
     - **(A)**
       - **(i)** The Secretary shall, under the rulemaking procedures under section 553 of title 5 , establish procedures for designating troubled public housing agencies, which procedures shall include identification of serious and substantial failure to perform as measured by the performance indicators specified under paragraph (1) and such other factors as the Secretary may deem to be appropriate. Such procedures shall provide that an agency that fails on a widespread basis to provide acceptable basic housing conditions for its residents shall be designated as a troubled public housing agency. The Secretary may use a simplified set of indicators for public housing agencies with less than 250 public housing units. The Secretary shall also designate, by rule under section 553 of title 5 , agencies that are troubled with respect to the program for assistance from the Capital Fund under section 1437g(d) of this title .

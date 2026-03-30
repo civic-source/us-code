@@ -3,9 +3,9 @@ title: "Section 631 - Basic program for conservation and development of resource
 usc_title: 25
 usc_section: "631"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 631"
-generated_at: "2026-03-30T03:10:32.886Z"
+generated_at: "2026-03-30T03:13:04.424Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ In order to further the purposes of existing treaties with the Navajo Indians, t
   - **(11)** Hospital buildings and equipment, and other health conservation measures, $4,750,000.
   - **(12)** School buildings and equipment, and other educational measures, $25,000,000.
   - **(13)** Housing and necessary facilities and equipment, $820,000.
-  - **(14)** Common service facilities, $500,000. Funds so appropriated shall be available for administration, investigations, plans, construction, and all other objects necessary for or appropriate to the carrying out of the provisions of this subchapter. Such further sums as may be necessary for or appropriate to the annual operation and maintenance of the projects herein enumerated are also authorized to be appropriated. Funds appropriated under these authorizations shall be in addition to funds made available for use on the Navajo and Hopi Reservations, or with respect to Indians of the Navajo Tribes, out of appropriations heretofore or hereafter granted for the benefit, care, or assistance of Indians in general, or made pursuant to other authorizations now in effect.
+  - **(14)** Common service facilities, $500,000.

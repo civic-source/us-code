@@ -3,9 +3,9 @@ title: "Section 796 - Use of aircraft for photographing defense installations"
 usc_title: 18
 usc_section: "796"
 chapter: 37
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 796"
-generated_at: "2026-03-30T03:10:19.965Z"
+generated_at: "2026-03-30T03:12:44.429Z"
 status: "active"
 ---
 

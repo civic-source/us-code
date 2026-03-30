@@ -3,9 +3,9 @@ title: "Section 5812 - Officers of Administration"
 usc_title: 42
 usc_section: "5812"
 chapter: 73
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 5812"
-generated_at: "2026-03-30T03:11:40.385Z"
+generated_at: "2026-03-30T03:14:51.885Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2312 - Remission of liquidated damages"
 usc_title: 10
 usc_section: "2312"
 chapter: 137
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 2312"
-generated_at: "2026-03-30T03:10:03.033Z"
+generated_at: "2026-03-30T03:12:15.165Z"
 status: "active"
 ---
 

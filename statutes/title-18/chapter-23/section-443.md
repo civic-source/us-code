@@ -3,9 +3,9 @@ title: "Section 443 - War contracts"
 usc_title: 18
 usc_section: "443"
 chapter: 23
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "18 U.S.C. § 443"
-generated_at: "2026-03-30T03:10:19.960Z"
+generated_at: "2026-03-30T03:12:44.424Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 Whoever willfully secretes, mutilates, obliterates, or destroys—
 
 - **(a)** any records of a war contractor relating to the negotiation, award, performance, payment, interim financing, cancellation or other termination, or settlement of a war contract of $25,000 or more; or
-- **(b)** any records of a war contractor or purchaser relating to any disposition of termination inventory in which the consideration received by any war contractor or any government agency is $5,000 or more, before the lapse of (1) five years after such disposition of termination inventory by such war contractor or government agency, or (2) five years after the final settlement of such war contract, whichever applicable period is longer, shall be fined under this title or imprisoned not more than five years, or both. The Administrator of General Services, by regulation, may authorize the destruction of such records upon such terms and conditions as he deems appropriate, including the requirement for the making and retaining of photographs or microphotographs, which shall have the same force and effect as the originals thereof. The definitions of terms in section 103 1 1 See References in Text note below. of Title 41 shall apply to similar terms used in this section.
+- **(b)** any records of a war contractor or purchaser relating to any disposition of termination inventory in which the consideration received by any war contractor or any government agency is $5,000 or more,

@@ -3,9 +3,9 @@ title: "Section 912 - Election"
 usc_title: 45
 usc_section: "912"
 chapter: 18
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "45 U.S.C. § 912"
-generated_at: "2026-03-30T03:11:21.017Z"
+generated_at: "2026-03-30T03:14:25.804Z"
 status: "active"
 ---
 

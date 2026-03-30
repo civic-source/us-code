@@ -3,9 +3,9 @@ title: "Section 4b - Cooperation with individuals, municipalities, etc.; contrac
 usc_title: 30
 usc_section: "4b"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "30 U.S.C. § 4b"
-generated_at: "2026-03-30T03:10:47.962Z"
+generated_at: "2026-03-30T03:13:32.328Z"
 status: "active"
 ---
 

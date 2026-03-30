@@ -3,9 +3,9 @@ title: "Section 8101 - Definitions"
 usc_title: 5
 usc_section: "8101"
 chapter: 81
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "5 U.S.C. § 8101"
-generated_at: "2026-03-30T03:09:48.961Z"
+generated_at: "2026-03-30T03:12:04.082Z"
 status: "active"
 ---
 
@@ -19,6 +19,7 @@ For the purpose of this subchapter—
     - **(C)** an individual, other than an independent contractor or an individual employed by an independent contractor, employed on the Menominee Indian Reservation in Wisconsin in operations conducted under a statute relating to tribal timber and logging operations on that reservation;
     - **(D)** an individual employed by the government of the District of Columbia; and
     - **(E)** an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 ( 72 Stat. 838 );
+    - **(F)** 1 1 So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E). an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;
       - **(i)** a commissioned officer of the Regular Corps of the Public Health Service;
       - **(ii)** a commissioned officer of the Reserve Corps of the Public Health Service on active duty;
       - **(iii)** a commissioned officer of the Environmental Science Services Administration; or
@@ -54,4 +55,3 @@ For the purpose of this subchapter—
   - **(18)** “price index” means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
   - **(19)** “organ” means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
   - **(20)** “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
-    - **(F)** 1 1 So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E). an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;

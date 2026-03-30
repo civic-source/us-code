@@ -3,9 +3,9 @@ title: "Section 289c - Research on public health emergencies"
 usc_title: 42
 usc_section: "289c"
 chapter: 6
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 289c"
-generated_at: "2026-03-30T03:11:40.004Z"
+generated_at: "2026-03-30T03:14:51.473Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ If the Secretary determines, after consultation with the Director of NIH, the Co
   - **(1)** shall expedite the review by advisory councils under section 284a of this title and by peer review groups under section 289a of this title of applications for grants for research on such disease or disorder or proposals for contracts for such research;
   - **(2)** shall exercise the authority in section 6101 of title 41 respecting public exigencies to waive the advertising requirements of such section in the case of proposals for contracts for such research;
   - **(3)** may provide administrative supplemental increases in existing grants and contracts to support new research relevant to such disease or disorder; and
-  - **(4)** shall disseminate, to health professionals and the public, information on the cause, prevention, and treatment of such disease or disorder that has been developed in research assisted under this section. The amount of an increase in a grant or contract provided under paragraph (3) may not exceed one-half the original amount of the grant or contract.
+  - **(4)** shall disseminate, to health professionals and the public, information on the cause, prevention, and treatment of such disease or disorder that has been developed in research assisted under this section.

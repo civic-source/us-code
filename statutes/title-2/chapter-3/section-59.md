@@ -3,9 +3,9 @@ title: "Section 59 - Home State office space for Senators; lease of office space
 usc_title: 2
 usc_section: "59"
 chapter: 3
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "2 U.S.C. § 59"
-generated_at: "2026-03-30T03:09:51.227Z"
+generated_at: "2026-03-30T03:12:02.380Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(2)** The maximum aggregate annual rental payments and operating costs (except furniture, equipment, and furnishings) that may be paid to a Senator under paragraph (1) shall not at any time exceed an amount determined by multiplying (A) the highest applicable rate per square foot charged Federal agencies by the Administrator of General Services in the State which that Senator represents, based upon a 100 percent building quality rating, by (B) the maximum aggregate square feet of office space to which that Senator is entitled under subsection (b) of this section reduced by the number of square feet contained in offices secured for that Senator under subsection (a) of this section and used by that Senator and his employees to perform their duties.
   - **(3)** No payment shall be made under paragraph (1) for rental payments and operating costs of a mobile office of a Senator unless the following provisions are included in its lease:
     - **(A)** Liability insurance in the amount of $1,000,000 shall be provided with respect to the operation and use of such mobile office.
-    - **(B)** Either of the following inscriptions shall be clearly visible on three sides of such mobile office in letters not less than three inches high:
+    - **(B)** Either of the following inscriptions shall be clearly visible on three sides of such mobile office in letters not less than three inches high: “UNITED STATES GOVERNMENT VEHICLE “FOR OFFICIAL USE ONLY”; Or “MOBILE OFFICE OF SENATOR _____ “FOR OFFICIAL USE ONLY”.
   - **(4)** No payment shall be made under paragraph (1) for rental payments and operating costs of a mobile office of a Senator which are attributable to or incurred during the 60-day period ending with the date of any primary or general election (whether regular, special, or runoff) in which that Senator is a candidate for public office, unless his candidacy in such election is uncontested.
   - **(5)** Payment under paragraph (1) shall be made on a monthly basis and shall be paid upon vouchers approved by the Sergeant at Arms of the Senate.
 - **(g)** This section is effective on and after July 1, 1974 .

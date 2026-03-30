@@ -3,9 +3,9 @@ title: "Section 3121 - Definitions"
 usc_title: 26
 usc_section: "3121"
 chapter: 21
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "26 U.S.C. § 3121"
-generated_at: "2026-03-30T03:11:08.810Z"
+generated_at: "2026-03-30T03:13:21.860Z"
 status: "active"
 ---
 
@@ -17,6 +17,7 @@ status: "active"
     - **(A)** sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term “wages” only payments which are received under a workman’s compensation law), or
     - **(B)** medical or hospitalization expenses in connection with sickness or accident disability, or
     - **(C)** death, except that this paragraph does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee;
+  - **[(3)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B) , Apr. 20, 1983 , 97 Stat. 123 ]
   - **(4)** any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
   - **(5)** any payment made to, or on behalf of, an employee or his beneficiary—
     - **(A)** from or to a trust described in section 401(a) which is exempt from tax under section 501(a) at the time of such payment unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust,
@@ -40,6 +41,7 @@ status: "active"
     - **(B)** cash remuneration paid by an employer in any calendar year to an employee for agricultural labor unless—
       - **(i)** the cash remuneration paid in such year by the employer to the employee for such labor is $150 or more, or
       - **(ii)** the employer’s expenditures for agricultural labor in such year equal or exceed $2,500,
+  - **[(9)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B) , Apr. 20, 1983 , 97 Stat. 123 ]
   - **(10)** remuneration paid by an employer in any calendar year to an employee for service described in subsection (d)(3)(C) (relating to home workers), if the cash remuneration paid in such year by the employer to the employee for such service is less than $100;
   - **(11)** remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it is reasonable to believe that a corresponding deduction is allowable under section 217 (determined without regard to section 274(n));
   - **(12)**
@@ -199,6 +201,7 @@ status: "active"
       - **(i)** a State,
       - **(ii)** one or more political subdivisions of a State, or
       - **(iii)** a State and one or more of its political subdivisions.
+- **[(k)**
 - **(l)**
   - **(1)** The Secretary shall, at the American employer’s request, enter into an agreement (in such manner and form as may be prescribed by the Secretary) with any American employer (as defined in subsection (h)) who desires to have the insurance system established by title II of the Social Security Act extended to service performed outside the United States in the employ of any 1 or more of such employer’s foreign affiliates (as defined in paragraph (6)) by all employees who are citizens or residents of the United States, except that the agreement shall not apply to any service performed by, or remuneration paid to, an employee if such service or remuneration would be excluded from the term “employment” or “wages”, as defined in this section, had the service been performed in the United States. Such agreement may be amended at any time so as to be made applicable, in the same manner and under the same conditions, with respect to any other foreign affiliate of such American employer. Such agreement shall be applicable with respect to citizens or residents of the United States who, on or after the effective date of the agreement, are employees of and perform services outside the United States for any foreign affiliate specified in the agreement. Such agreement shall provide—
     - **(A)** that the American employer shall pay to the Secretary, at such time or times as the Secretary may by regulations prescribe, amounts equivalent to the sum of the taxes which would be imposed by sections 3101 and 3111 (including amounts equivalent to the interest, additions to the taxes, additional amounts, and penalties which would be applicable) with respect to the remuneration which would be wages if the services covered by the agreement constituted employment as defined in this section; and
@@ -250,6 +253,7 @@ status: "active"
     - **(B)** If a certificate of election filed pursuant to this subsection is effective for one or more calendar quarters prior to the quarter in which such certificate is filed, then—
       - **(i)** for purposes of computing interest and for purposes of section 6651 (relating to addition to tax for failure to file tax return), the due date for the return and payment of the tax for such prior calendar quarters resulting from the filing of such certificate shall be the last day of the calendar month following the calendar quarter in which the certificate is filed; and
       - **(ii)** the statutory period for the assessment of such tax shall not expire before the expiration of 3 years from such due date.
+  - **[(4)**
 - **(s)** For purposes of sections 3102, 3111, and 3121(a)(1), if two or more related corporations concurrently employ the same individual and compensate such individual through a common paymaster which is one of such corporations, each such corporation shall be considered to have paid as remuneration to such individual only the amounts actually disbursed by it to such individual and shall not be considered to have paid as remuneration to such individual amounts actually disbursed to such individual by another of such corporations.
 - **[(t)**
 - **(u)**

@@ -3,9 +3,9 @@ title: "Section 788a - Disposition of judgment funds; preparation of Indian roll
 usc_title: 25
 usc_section: "788a"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 788a"
-generated_at: "2026-03-30T03:10:32.896Z"
+generated_at: "2026-03-30T03:13:04.435Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ The Secretary of the Interior shall prepare a roll of all persons who meet the f
   - **(3)** Census of the Creek Nation, 1833, made pursuant to article 2 of the treaty concluded March 24, 1832 (Senate Doc. 512, 1835, Emigration Correspondence, 1831–1833, pages 239–395);
   - **(4)** Land Location Registers of Creek Indian Lands, made pursuant to the Treaty of March 24, 1832 ;
   - **(5)** Any emigration or muster rolls of Creek Indians;
-  - **(6)** Any lists of self-emigrant Creek claimants (including those contained in Senate Ex. Doc. 198, 50:1, 1888, and H.R. Ex. Doc. 238, 51:2, 1891). Applications for enrollment must be filed with the Area Director of the Bureau of Indian Affairs, Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose. The determination of the Secretary regarding the eligibility of an applicant shall be final.
+  - **(6)** Any lists of self-emigrant Creek claimants (including those contained in Senate Ex. Doc. 198, 50:1, 1888, and H.R. Ex. Doc. 238, 51:2, 1891).

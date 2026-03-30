@@ -3,9 +3,9 @@ title: "Section 205 - Additional lands for administrative headquarters site"
 usc_title: 16
 usc_section: "205"
 chapter: 1
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 205"
-generated_at: "2026-03-30T03:10:27.093Z"
+generated_at: "2026-03-30T03:12:42.144Z"
 status: "active"
 ---
 

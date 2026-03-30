@@ -3,9 +3,9 @@ title: "Section 2303 - Transportation projects"
 usc_title: 16
 usc_section: "2303"
 chapter: 43
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "16 U.S.C. § 2303"
-generated_at: "2026-03-30T03:10:27.278Z"
+generated_at: "2026-03-30T03:12:42.315Z"
 status: "active"
 ---
 

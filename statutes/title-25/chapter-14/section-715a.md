@@ -3,9 +3,9 @@ title: "Section 715a - Restoration of Federal recognition, rights, and privilege
 usc_title: 25
 usc_section: "715a"
 chapter: 14
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "25 U.S.C. § 715a"
-generated_at: "2026-03-30T03:10:32.894Z"
+generated_at: "2026-03-30T03:13:04.432Z"
 status: "active"
 ---
 

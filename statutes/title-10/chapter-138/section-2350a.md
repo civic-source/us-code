@@ -3,9 +3,9 @@ title: "Section 2350a - Cooperative research and development agreements: NATO or
 usc_title: 10
 usc_section: "2350a"
 chapter: 138
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 2350a"
-generated_at: "2026-03-30T03:10:03.037Z"
+generated_at: "2026-03-30T03:12:15.169Z"
 status: "active"
 ---
 
@@ -34,6 +34,7 @@ status: "active"
     - **(B)** If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment by the Under Secretary of Defense for Acquisition, Technology, and Logistics as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
     - **(C)** An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
     - **(D)** The recommendation of the Under Secretary as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
+- **[(f)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(17) , Nov. 24, 2003 , 117 Stat. 1597 .]
 - **(g)**
   - **(1)** It is the sense of Congress—
     - **(A)** that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and

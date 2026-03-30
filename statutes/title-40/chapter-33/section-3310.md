@@ -3,9 +3,9 @@ title: "Section 3310 - Special rules for leased buildings"
 usc_title: 40
 usc_section: "3310"
 chapter: 33
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "40 U.S.C. § 3310"
-generated_at: "2026-03-30T03:11:16.237Z"
+generated_at: "2026-03-30T03:14:01.758Z"
 status: "active"
 ---
 

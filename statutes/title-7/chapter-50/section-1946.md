@@ -3,9 +3,9 @@ title: "Section 1946 - Liability of borrower"
 usc_title: 7
 usc_section: "1946"
 chapter: 50
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 1946"
-generated_at: "2026-03-30T03:10:00.528Z"
+generated_at: "2026-03-30T03:12:09.387Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 336 - Repealed. Pub. L. 96–513, title V, § 511(11)(B) , Dec. 
 usc_title: 10
 usc_section: "336"
 chapter: 15
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "10 U.S.C. § 336"
-generated_at: "2026-03-30T03:10:02.976Z"
+generated_at: "2026-03-30T03:12:15.106Z"
 status: "repealed"
 ---
 

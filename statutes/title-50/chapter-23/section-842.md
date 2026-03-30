@@ -3,9 +3,9 @@ title: "Section 842 - Proscription of Communist Party, its successors, and subsi
 usc_title: 50
 usc_section: "842"
 chapter: 23
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "50 U.S.C. § 842"
-generated_at: "2026-03-30T03:11:43.693Z"
+generated_at: "2026-03-30T03:14:55.710Z"
 status: "active"
 ---
 

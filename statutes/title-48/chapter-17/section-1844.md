@@ -3,9 +3,9 @@ title: "Section 1844 - Political union between Territory of Guam and Commonwealt
 usc_title: 48
 usc_section: "1844"
 chapter: 17
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "48 U.S.C. § 1844"
-generated_at: "2026-03-30T03:11:49.630Z"
+generated_at: "2026-03-30T03:14:59.461Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ In the event that a political union is effected at a future time between the Ter
 
       - **(i)** there will be no diminution of any rights or entitlements otherwise eligible to said territory and Commonwealth in effect on the effective date of such union,
       - **(ii)** there will be no adverse effect on any funds which have been or may hereafter be authorized or appropriated for said territory or Commonwealth, as of the effective date of such union, or
-      - **(iii)** no action is taken that would in any manner discourage such unification. Whenever any discrepancy exists or arises between the benefits available for either said territory or Commonwealth under any policies or programs authorized by law (including, but not limited to, any formulas for matching grants-in-aid or comparable programs or benefits), the most favorable terms available to either said territory or Commonwealth shall be deemed applicable to said unified area after the effective date of unification.
+      - **(iii)** no action is taken that would in any manner discourage such unification.

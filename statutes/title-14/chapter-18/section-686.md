@@ -3,9 +3,9 @@ title: "Section 686 - Repealed. Pub. L. 111–281, title II, § 221(a)(5) , Oct.
 usc_title: 14
 usc_section: "686"
 chapter: 18
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "14 U.S.C. § 686"
-generated_at: "2026-03-30T03:10:05.921Z"
+generated_at: "2026-03-30T03:12:20.519Z"
 status: "repealed"
 ---
 

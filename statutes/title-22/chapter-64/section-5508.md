@@ -3,9 +3,9 @@ title: "Section 5508 - Assessment of Lockerbie experience"
 usc_title: 22
 usc_section: "5508"
 chapter: 64
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "22 U.S.C. § 5508"
-generated_at: "2026-03-30T03:10:34.743Z"
+generated_at: "2026-03-30T03:12:56.223Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8739 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "8739"
 chapter: 113
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "7 U.S.C. § 8739"
-generated_at: "2026-03-30T03:10:00.621Z"
+generated_at: "2026-03-30T03:12:09.478Z"
 status: "active"
 ---
 

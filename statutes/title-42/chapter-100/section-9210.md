@@ -3,9 +3,9 @@ title: "Section 9210 - Analysis of applications of wind energy systems"
 usc_title: 42
 usc_section: "9210"
 chapter: 100
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "42 U.S.C. § 9210"
-generated_at: "2026-03-30T03:11:40.480Z"
+generated_at: "2026-03-30T03:14:51.988Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ The Secretary shall—
   - **(2)** study the effects, at varying levels of market penetration, of the widespread utilization of wind energy systems on the existing electrical utility system;
   - **(3)** determine the necessity for, and make recommendations to the Committee on Energy and Natural Resources of the Senate and the Committee on Science and Technology of the House of Representatives within eighteen months after September 8, 1980 , on, the need for any additional incentives for either users or manufacturers, in each of the potential markets for wind energy systems, to accelerate the widespread utilization of wind energy technologies;
   - **(4)** evaluate the actual performance of wind energy systems in various applications, including but not limited to residential, agricultural, large and small scale irrigation pumping, industrial, commercial, remote nonnetwork utility, and other applications, and report thereon to the Congress within two years after September 8, 1980 ; and
-  - **(5)** in carrying out his functions under this section, consult with the appropriate government agencies, industry representatives, and members of the scientific and technical community having expertise and interest in this subject. The Secretary, as appropriate, may merge any continuing or on-going studies within the Department of Energy or any other Federal agency with those required under this section to avoid any unnecessary duplication of effort or funding.
+  - **(5)** in carrying out his functions under this section, consult with the appropriate government agencies, industry representatives, and members of the scientific and technical community having expertise and interest in this subject.

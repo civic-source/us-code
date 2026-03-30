@@ -3,9 +3,9 @@ title: "Section 47a - Information concerning illegal introduction, manufacture, 
 usc_title: 50
 usc_section: "47a"
 chapter: 4
-current_through: "PL 113-36"
+current_through: "PL 113-44"
 classification: "50 U.S.C. § 47a"
-generated_at: "2026-03-30T03:11:43.689Z"
+generated_at: "2026-03-30T03:14:55.705Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ Any person who furnishes original information to the United States—
 
 - **(a)** leading to the finding or other acquisition by the United States of special nuclear material or an atomic weapon which has been introduced into the United States or manufactured or acquired therein contrary to the laws of the United States, or
 - **(b)** with respect to the introduction or attempted introduction into the United States or the manufacture or acquisition or attempted manufacture or acquisition of, or a conspiracy to introduce into the United States or to manufacture or acquire, special nuclear material or an atomic weapon contrary to the laws of the United States, or
-- **(c)** with respect to the export or attempted export, or a conspiracy to export, special nuclear material or an atomic weapon from the United States contrary to the laws of the United States, shall be rewarded by the payment of an amount not to exceed $500,000.
+- **(c)** with respect to the export or attempted export, or a conspiracy to export, special nuclear material or an atomic weapon from the United States contrary to the laws of the United States,
