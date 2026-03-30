@@ -3,9 +3,9 @@ title: "Section 5383 - Systemic risk determination"
 usc_title: 12
 usc_section: "5383"
 chapter: 53
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 5383"
-generated_at: "2026-03-30T01:56:28.303Z"
+generated_at: "2026-03-30T01:58:32.783Z"
 ---
 
 # § 5383. Systemic risk determination

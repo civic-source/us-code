@@ -3,9 +3,9 @@ title: "Section 1169b - Use of local entities"
 usc_title: 16
 usc_section: "1169b"
 chapter: 24
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 1169b"
-generated_at: "2026-03-30T01:56:36.365Z"
+generated_at: "2026-03-30T01:59:04.602Z"
 ---
 
 # § 1169b. Use of local entities

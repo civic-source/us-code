@@ -3,9 +3,9 @@ title: "Section 27 - Periodic payment plans"
 usc_title: 15
 usc_section: "27"
 chapter: 2
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 27"
-generated_at: "2026-03-30T01:56:25.445Z"
+generated_at: "2026-03-30T01:58:54.176Z"
 ---
 
 # § 80a–27. Periodic payment plans

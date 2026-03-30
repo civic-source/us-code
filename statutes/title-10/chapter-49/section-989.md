@@ -3,9 +3,9 @@ title: "Section 989 - Prohibition on former members of the armed forces acceptin
 usc_title: 10
 usc_section: "989"
 chapter: 49
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 989"
-generated_at: "2026-03-30T01:56:18.366Z"
+generated_at: "2026-03-30T01:58:27.004Z"
 ---
 
 # § 989. Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments

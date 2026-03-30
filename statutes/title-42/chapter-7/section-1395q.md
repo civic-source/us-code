@@ -3,9 +3,9 @@ title: "Section 1395q - Coverage period"
 usc_title: 42
 usc_section: "1395q"
 chapter: 7
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 1395q"
-generated_at: "2026-03-30T01:57:35.220Z"
+generated_at: "2026-03-30T02:00:42.658Z"
 ---
 
 # § 1395q. Coverage period

@@ -3,9 +3,9 @@ title: "Section 1164 - Presumptions of service-connection for Coronavirus Diseas
 usc_title: 38
 usc_section: "1164"
 chapter: 11
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "38 U.S.C. § 1164"
-generated_at: "2026-03-30T01:57:15.684Z"
+generated_at: "2026-03-30T02:00:04.470Z"
 ---
 
 # § 1164. Presumptions of service-connection for Coronavirus Disease 2019

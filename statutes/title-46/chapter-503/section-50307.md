@@ -3,9 +3,9 @@ title: "Section 50307 - Maritime environmental and technical assistance program"
 usc_title: 46
 usc_section: "50307"
 chapter: 503
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "46 U.S.C. § 50307"
-generated_at: "2026-03-30T01:57:39.583Z"
+generated_at: "2026-03-30T02:00:50.911Z"
 ---
 
 # § 50307. Maritime environmental and technical assistance program

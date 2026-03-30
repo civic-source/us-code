@@ -3,9 +3,9 @@ title: "Section 7242 - Grants authorized."
 usc_title: 20
 usc_section: "7242"
 chapter: 70
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 7242"
-generated_at: "2026-03-30T01:56:43.246Z"
+generated_at: "2026-03-30T01:59:01.743Z"
 ---
 
 # § 7242. Grants authorized.

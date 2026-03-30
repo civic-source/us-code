@@ -3,9 +3,9 @@ title: "Section 4328 - Weapon system design: sustainment factors"
 usc_title: 10
 usc_section: "4328"
 chapter: 323
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 4328"
-generated_at: "2026-03-30T01:56:18.467Z"
+generated_at: "2026-03-30T01:58:27.090Z"
 ---
 
 # § 4328. Weapon system design: sustainment factors

@@ -3,9 +3,9 @@ title: "Section 1523 - Posthumous commissions and warrants: effect on pay and al
 usc_title: 10
 usc_section: "1523"
 chapter: 77
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 1523"
-generated_at: "2026-03-30T01:56:18.398Z"
+generated_at: "2026-03-30T01:58:27.030Z"
 ---
 
 # § 1523. Posthumous commissions and warrants: effect on pay and allowances

@@ -3,9 +3,9 @@ title: "Section 591 - Reference to chapters 1205 and 1207"
 usc_title: 10
 usc_section: "591"
 chapter: 34
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 591"
-generated_at: "2026-03-30T01:56:18.341Z"
+generated_at: "2026-03-30T01:58:26.985Z"
 ---
 
 # § 591. Reference to chapters 1205 and 1207

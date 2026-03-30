@@ -3,9 +3,9 @@ title: "Section 3 - Condemnation of land"
 usc_title: 43
 usc_section: "3"
 chapter: 22
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-30T01:57:18.916Z"
+generated_at: "2026-03-30T02:00:22.292Z"
 ---
 
 # § 942–3. Condemnation of land

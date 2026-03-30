@@ -3,9 +3,9 @@ title: "Section 2607 - Prohibition against kickbacks and unearned fees"
 usc_title: 12
 usc_section: "2607"
 chapter: 27
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 2607"
-generated_at: "2026-03-30T01:56:28.262Z"
+generated_at: "2026-03-30T01:58:32.740Z"
 ---
 
 # § 2607. Prohibition against kickbacks and unearned fees

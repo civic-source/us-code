@@ -3,9 +3,9 @@ title: "Section 142 - Chief Information Officer"
 usc_title: 10
 usc_section: "142"
 chapter: 4
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 142"
-generated_at: "2026-03-30T01:56:18.314Z"
+generated_at: "2026-03-30T01:58:26.965Z"
 ---
 
 # § 142. Chief Information Officer

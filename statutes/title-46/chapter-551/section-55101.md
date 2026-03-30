@@ -3,9 +3,9 @@ title: "Section 55101 - Application of coastwise laws"
 usc_title: 46
 usc_section: "55101"
 chapter: 551
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "46 U.S.C. § 55101"
-generated_at: "2026-03-30T01:57:39.594Z"
+generated_at: "2026-03-30T02:00:50.921Z"
 ---
 
 # § 55101. Application of coastwise laws

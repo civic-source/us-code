@@ -3,9 +3,9 @@ title: "Section 973g - Licenses"
 usc_title: 16
 usc_section: "973g"
 chapter: 16
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 973g"
-generated_at: "2026-03-30T01:56:36.362Z"
+generated_at: "2026-03-30T01:59:04.598Z"
 ---
 
 # § 973g. Licenses

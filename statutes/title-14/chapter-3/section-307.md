@@ -3,9 +3,9 @@ title: "Section 307 - Vice admirals and admiral, continuity of grade"
 usc_title: 14
 usc_section: "307"
 chapter: 3
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "14 U.S.C. § 307"
-generated_at: "2026-03-30T01:56:21.696Z"
+generated_at: "2026-03-30T01:58:29.383Z"
 ---
 
 # § 307. Vice admirals and admiral, continuity of grade

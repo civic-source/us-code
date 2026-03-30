@@ -3,9 +3,9 @@ title: "Section 7115 - Repealed. Pub. L. 115–282, title VI, § 601(c)(2) , Dec
 usc_title: 46
 usc_section: "7115"
 chapter: 71
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "46 U.S.C. § 7115"
-generated_at: "2026-03-30T01:57:39.566Z"
+generated_at: "2026-03-30T02:00:50.894Z"
 ---
 
 # [§ 7115. Repealed. Pub. L. 115–282, title VI, § 601(c)(2) , Dec. 4, 2018 , 132 Stat. 4289 ]

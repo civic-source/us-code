@@ -3,9 +3,9 @@ title: "Section 10504 - Imposition of sanctions under Global Magnitsky Human Rig
 usc_title: 22
 usc_section: "10504"
 chapter: 112
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 10504"
-generated_at: "2026-03-30T01:56:51.997Z"
+generated_at: "2026-03-30T01:59:25.604Z"
 ---
 
 # § 10504. Imposition of sanctions under Global Magnitsky Human Rights Accountability Act

@@ -3,9 +3,9 @@ title: "Section 4502 - Appropriation of funds for compensation of Members of Con
 usc_title: 2
 usc_section: "4502"
 chapter: 45
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 4502"
-generated_at: "2026-03-30T01:55:42.929Z"
+generated_at: "2026-03-30T01:58:02.850Z"
 ---
 
 # § 4502. Appropriation of funds for compensation of Members of Congress and for administrative expenses at levels authorized by law and recommended by the President for Federal employees

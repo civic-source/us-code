@@ -3,9 +3,9 @@ title: "Section 187 - Unlawful activities or conduct; right to sue; jurisdiction
 usc_title: 29
 usc_section: "187"
 chapter: 7
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "29 U.S.C. § 187"
-generated_at: "2026-03-30T01:56:56.233Z"
+generated_at: "2026-03-30T01:59:47.471Z"
 ---
 
 # § 187. Unlawful activities or conduct; right to sue; jurisdiction; limitations; damages

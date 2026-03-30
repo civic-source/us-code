@@ -3,9 +3,9 @@ title: "Section 909 - Congressional Record: exchange for Parliamentary Hansard"
 usc_title: 44
 usc_section: "909"
 chapter: 9
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "44 U.S.C. § 909"
-generated_at: "2026-03-30T01:57:17.735Z"
+generated_at: "2026-03-30T02:00:18.352Z"
 ---
 
 # § 909. Congressional Record: exchange for Parliamentary Hansard

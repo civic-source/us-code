@@ -3,9 +3,9 @@ title: "Section 721 - Responses to safety recommendations"
 usc_title: 14
 usc_section: "721"
 chapter: 7
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "14 U.S.C. § 721"
-generated_at: "2026-03-30T01:56:21.699Z"
+generated_at: "2026-03-30T01:58:29.386Z"
 ---
 
 # § 721. Responses to safety recommendations

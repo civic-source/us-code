@@ -3,9 +3,9 @@ title: "Section 15028 - Appeals by States"
 usc_title: 42
 usc_section: "15028"
 chapter: 144
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 15028"
-generated_at: "2026-03-30T01:57:35.706Z"
+generated_at: "2026-03-30T02:00:43.115Z"
 ---
 
 # § 15028. Appeals by States

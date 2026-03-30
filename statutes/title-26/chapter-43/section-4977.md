@@ -3,9 +3,9 @@ title: "Section 4977 - Tax on certain fringe benefits provided by an employer"
 usc_title: 26
 usc_section: "4977"
 chapter: 43
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 4977"
-generated_at: "2026-03-30T01:57:03.764Z"
+generated_at: "2026-03-30T01:59:46.178Z"
 ---
 
 # § 4977. Tax on certain fringe benefits provided by an employer

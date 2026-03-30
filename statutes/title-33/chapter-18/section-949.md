@@ -3,9 +3,9 @@ title: "Section 949 - Effect of unconstitutionality"
 usc_title: 33
 usc_section: "949"
 chapter: 18
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 949"
-generated_at: "2026-03-30T01:57:08.409Z"
+generated_at: "2026-03-30T01:59:51.325Z"
 ---
 
 # § 949. Effect of unconstitutionality

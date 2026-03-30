@@ -3,9 +3,9 @@ title: "Section 412 - Liability of masters, pilots, etc., and of vessels engaged
 usc_title: 33
 usc_section: "412"
 chapter: 9
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 412"
-generated_at: "2026-03-30T01:57:08.387Z"
+generated_at: "2026-03-30T01:59:51.303Z"
 ---
 
 # § 412. Liability of masters, pilots, etc., and of vessels engaged in violations

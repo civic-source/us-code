@@ -3,9 +3,9 @@ title: "Section 2501 - Time for filing suit"
 usc_title: 28
 usc_section: "2501"
 chapter: 165
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "28 U.S.C. § 2501"
-generated_at: "2026-03-30T01:56:55.374Z"
+generated_at: "2026-03-30T01:59:41.078Z"
 ---
 
 # § 2501. Time for filing suit

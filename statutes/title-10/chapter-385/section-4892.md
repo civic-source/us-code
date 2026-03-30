@@ -3,9 +3,9 @@ title: "Section 4892 - Availability of samples, drawings, information, equipment
 usc_title: 10
 usc_section: "4892"
 chapter: 385
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 4892"
-generated_at: "2026-03-30T01:56:18.475Z"
+generated_at: "2026-03-30T01:58:27.097Z"
 ---
 
 # § 4892. Availability of samples, drawings, information, equipment, materials, and certain services

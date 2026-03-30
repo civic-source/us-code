@@ -3,9 +3,9 @@ title: "Section 9077 - Tax payer protection"
 usc_title: 15
 usc_section: "9077"
 chapter: 116
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 9077"
-generated_at: "2026-03-30T01:56:25.635Z"
+generated_at: "2026-03-30T01:58:54.348Z"
 ---
 
 # § 9077. Tax payer protection

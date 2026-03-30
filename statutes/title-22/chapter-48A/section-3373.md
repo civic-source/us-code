@@ -3,9 +3,9 @@ title: "Section 3373 - Meaningful participation of Taiwan in the International C
 usc_title: 22
 usc_section: "3373"
 chapter: 48
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 3373"
-generated_at: "2026-03-30T01:56:51.913Z"
+generated_at: "2026-03-30T01:59:25.518Z"
 ---
 
 # § 3373. Meaningful participation of Taiwan in the International Civil Aviation Organization

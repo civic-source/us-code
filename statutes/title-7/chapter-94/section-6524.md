@@ -3,9 +3,9 @@ title: "Section 6524 - Organically produced food"
 usc_title: 7
 usc_section: "6524"
 chapter: 94
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "7 U.S.C. § 6524"
-generated_at: "2026-03-30T01:55:52.455Z"
+generated_at: "2026-03-30T01:58:09.602Z"
 ---
 
 # § 6524. Organically produced food

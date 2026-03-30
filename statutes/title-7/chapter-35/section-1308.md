@@ -3,9 +3,9 @@ title: "Section 1308 - Payment limitations"
 usc_title: 7
 usc_section: "1308"
 chapter: 35
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "7 U.S.C. § 1308"
-generated_at: "2026-03-30T01:55:52.350Z"
+generated_at: "2026-03-30T01:58:09.492Z"
 ---
 
 # § 1308. Payment limitations

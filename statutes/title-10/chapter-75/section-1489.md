@@ -3,9 +3,9 @@ title: "Section 1489 - Death gratuity: members and employees dying outside the U
 usc_title: 10
 usc_section: "1489"
 chapter: 75
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 1489"
-generated_at: "2026-03-30T01:56:18.397Z"
+generated_at: "2026-03-30T01:58:27.029Z"
 ---
 
 # § 1489. Death gratuity: members and employees dying outside the United States while assigned to intelligence duties

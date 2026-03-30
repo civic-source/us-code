@@ -3,9 +3,9 @@ title: "Section 19055 - Social, behavioral, and economic sciences"
 usc_title: 42
 usc_section: "19055"
 chapter: 163
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 19055"
-generated_at: "2026-03-30T01:57:35.783Z"
+generated_at: "2026-03-30T02:00:43.190Z"
 ---
 
 # § 19055. Social, behavioral, and economic sciences

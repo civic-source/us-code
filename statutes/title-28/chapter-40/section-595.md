@@ -3,9 +3,9 @@ title: "Section 595 - Congressional oversight"
 usc_title: 28
 usc_section: "595"
 chapter: 40
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "28 U.S.C. § 595"
-generated_at: "2026-03-30T01:56:55.359Z"
+generated_at: "2026-03-30T01:59:41.060Z"
 ---
 
 # § 595. Congressional oversight

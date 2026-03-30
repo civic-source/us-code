@@ -3,9 +3,9 @@ title: "Section 689j - Reporting requirement"
 usc_title: 15
 usc_section: "689j"
 chapter: 14
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 689j"
-generated_at: "2026-03-30T01:56:25.491Z"
+generated_at: "2026-03-30T01:58:54.219Z"
 ---
 
 # § 689j. Reporting requirement

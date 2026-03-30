@@ -3,9 +3,9 @@ title: "Section 1441 - Special use permits"
 usc_title: 16
 usc_section: "1441"
 chapter: 32
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 1441"
-generated_at: "2026-03-30T01:56:36.383Z"
+generated_at: "2026-03-30T01:59:04.619Z"
 ---
 
 # § 1441. Special use permits

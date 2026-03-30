@@ -3,9 +3,9 @@ title: "Section 1 - Additional requirements applicable to rulemaking"
 usc_title: 42
 usc_section: "1"
 chapter: 34
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:57:35.422Z"
+generated_at: "2026-03-30T02:00:42.847Z"
 ---
 
 # § 2992b–1. Additional requirements applicable to rulemaking

@@ -3,9 +3,9 @@ title: "Section 355a - Pediatric studies of drugs"
 usc_title: 21
 usc_section: "355a"
 chapter: 9
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "21 U.S.C. § 355a"
-generated_at: "2026-03-30T01:56:47.458Z"
+generated_at: "2026-03-30T01:59:20.943Z"
 ---
 
 # § 355a. Pediatric studies of drugs

@@ -3,9 +3,9 @@ title: "Section 8304 - Implementing the Officers’ Competency Certificates Conv
 usc_title: 46
 usc_section: "8304"
 chapter: 83
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "46 U.S.C. § 8304"
-generated_at: "2026-03-30T01:57:39.568Z"
+generated_at: "2026-03-30T02:00:50.896Z"
 ---
 
 # § 8304. Implementing the Officers’ Competency Certificates Convention, 1936

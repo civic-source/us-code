@@ -3,9 +3,9 @@ title: "Section 3611 - Subpoenas; giving of evidence"
 usc_title: 42
 usc_section: "3611"
 chapter: 45
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 3611"
-generated_at: "2026-03-30T01:57:35.444Z"
+generated_at: "2026-03-30T02:00:42.868Z"
 ---
 
 # § 3611. Subpoenas; giving of evidence

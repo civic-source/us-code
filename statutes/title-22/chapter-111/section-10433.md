@@ -3,9 +3,9 @@ title: "Section 10433 - Appropriate congressional committees and leadership defi
 usc_title: 22
 usc_section: "10433"
 chapter: 111
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 10433"
-generated_at: "2026-03-30T01:56:51.997Z"
+generated_at: "2026-03-30T01:59:25.604Z"
 ---
 
 # § 10433. Appropriate congressional committees and leadership defined

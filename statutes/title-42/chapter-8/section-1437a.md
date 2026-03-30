@@ -3,9 +3,9 @@ title: "Section 1437a - Rental payments"
 usc_title: 42
 usc_section: "1437a"
 chapter: 8
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 1437a"
-generated_at: "2026-03-30T01:57:35.333Z"
+generated_at: "2026-03-30T02:00:42.765Z"
 ---
 
 # § 1437a. Rental payments

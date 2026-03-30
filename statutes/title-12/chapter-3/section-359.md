@@ -3,9 +3,9 @@ title: "Section 359 - Purchase and sale of acceptances of intermediate credit ba
 usc_title: 12
 usc_section: "359"
 chapter: 3
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 359"
-generated_at: "2026-03-30T01:56:28.162Z"
+generated_at: "2026-03-30T01:58:32.635Z"
 ---
 
 # § 359. Purchase and sale of acceptances of intermediate credit banks and agricultural credit corporations

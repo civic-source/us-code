@@ -3,9 +3,9 @@ title: "Section 103305 - Travel expenses incident to study of battlefields"
 usc_title: 54
 usc_section: "103305"
 chapter: 1033
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "54 U.S.C. § 103305"
-generated_at: "2026-03-30T01:57:46.944Z"
+generated_at: "2026-03-30T02:01:49.073Z"
 ---
 
 # § 103305. Travel expenses incident to study of battlefields

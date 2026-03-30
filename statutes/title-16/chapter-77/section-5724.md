@@ -3,9 +3,9 @@ title: "Section 5724 - Authority and responsibility"
 usc_title: 16
 usc_section: "5724"
 chapter: 77
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 5724"
-generated_at: "2026-03-30T01:56:36.441Z"
+generated_at: "2026-03-30T01:59:04.677Z"
 ---
 
 # § 5724. Authority and responsibility

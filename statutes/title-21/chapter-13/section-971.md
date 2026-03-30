@@ -3,9 +3,9 @@ title: "Section 971 - Notification, suspension of shipment, and penalties with r
 usc_title: 21
 usc_section: "971"
 chapter: 13
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "21 U.S.C. § 971"
-generated_at: "2026-03-30T01:56:47.514Z"
+generated_at: "2026-03-30T01:59:21.002Z"
 ---
 
 # § 971. Notification, suspension of shipment, and penalties with respect to importation and exportation of listed chemicals

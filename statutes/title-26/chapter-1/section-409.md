@@ -3,9 +3,9 @@ title: "Section 409 - Qualifications for tax credit employee stock ownership pla
 usc_title: 26
 usc_section: "409"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 409"
-generated_at: "2026-03-30T01:57:03.584Z"
+generated_at: "2026-03-30T01:59:46.064Z"
 ---
 
 # § 409. Qualifications for tax credit employee stock ownership plans

@@ -3,9 +3,9 @@ title: "Section 1175 - Specific jurisdictions within which manufacturing, repair
 usc_title: 15
 usc_section: "1175"
 chapter: 24
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 1175"
-generated_at: "2026-03-30T01:56:25.510Z"
+generated_at: "2026-03-30T01:58:54.237Z"
 ---
 
 # § 1175. Specific jurisdictions within which manufacturing, repairing, selling, possessing, etc., prohibited; exceptions

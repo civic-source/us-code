@@ -3,9 +3,9 @@ title: "Section 5687 - Penalty for offenses not specifically covered"
 usc_title: 26
 usc_section: "5687"
 chapter: 51
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 5687"
-generated_at: "2026-03-30T01:57:03.776Z"
+generated_at: "2026-03-30T01:59:46.190Z"
 ---
 
 # § 5687. Penalty for offenses not specifically covered

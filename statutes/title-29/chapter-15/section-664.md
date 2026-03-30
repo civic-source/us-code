@@ -3,9 +3,9 @@ title: "Section 664 - Disclosure of trade secrets; protective orders"
 usc_title: 29
 usc_section: "664"
 chapter: 15
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "29 U.S.C. § 664"
-generated_at: "2026-03-30T01:56:56.242Z"
+generated_at: "2026-03-30T01:59:47.479Z"
 ---
 
 # § 664. Disclosure of trade secrets; protective orders

@@ -3,9 +3,9 @@ title: "Section 164 - Taxes"
 usc_title: 26
 usc_section: "164"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 164"
-generated_at: "2026-03-30T01:57:03.547Z"
+generated_at: "2026-03-30T01:59:46.030Z"
 ---
 
 # § 164. Taxes

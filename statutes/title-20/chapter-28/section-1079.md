@@ -3,9 +3,9 @@ title: "Section 1079 - Certificate of Federal loan insurance—effective date of
 usc_title: 20
 usc_section: "1079"
 chapter: 28
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 1079"
-generated_at: "2026-03-30T01:56:43.154Z"
+generated_at: "2026-03-30T01:59:01.658Z"
 ---
 
 # § 1079. Certificate of Federal loan insurance—effective date of insurance

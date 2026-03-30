@@ -3,9 +3,9 @@ title: "Section 44814 - ASSUREd Safe credentialing authority"
 usc_title: 49
 usc_section: "44814"
 chapter: 448
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "49 U.S.C. § 44814"
-generated_at: "2026-03-30T01:57:44.953Z"
+generated_at: "2026-03-30T02:01:46.870Z"
 ---
 
 # § 44814. ASSUREd Safe credentialing authority

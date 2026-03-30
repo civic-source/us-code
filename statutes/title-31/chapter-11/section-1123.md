@@ -3,9 +3,9 @@ title: "Section 1123 - Chief Operating Officers"
 usc_title: 31
 usc_section: "1123"
 chapter: 11
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "31 U.S.C. § 1123"
-generated_at: "2026-03-30T01:57:06.710Z"
+generated_at: "2026-03-30T01:59:59.619Z"
 ---
 
 # § 1123. Chief Operating Officers

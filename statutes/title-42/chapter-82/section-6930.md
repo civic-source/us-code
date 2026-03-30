@@ -3,9 +3,9 @@ title: "Section 6930 - Effective date"
 usc_title: 42
 usc_section: "6930"
 chapter: 82
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 6930"
-generated_at: "2026-03-30T01:57:35.523Z"
+generated_at: "2026-03-30T02:00:42.942Z"
 ---
 
 # § 6930. Effective date

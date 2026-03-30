@@ -3,9 +3,9 @@ title: "Section 16131a - Accelerated payment of educational assistance"
 usc_title: 10
 usc_section: "16131a"
 chapter: 1606
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 16131a"
-generated_at: "2026-03-30T01:56:18.524Z"
+generated_at: "2026-03-30T01:58:27.138Z"
 ---
 
 # § 16131a. Accelerated payment of educational assistance

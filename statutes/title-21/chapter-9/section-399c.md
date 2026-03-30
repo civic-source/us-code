@@ -3,9 +3,9 @@ title: "Section 399c - Improving the training of State, local, territorial, and 
 usc_title: 21
 usc_section: "399c"
 chapter: 9
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "21 U.S.C. § 399c"
-generated_at: "2026-03-30T01:56:47.499Z"
+generated_at: "2026-03-30T01:59:20.987Z"
 ---
 
 # § 399c. Improving the training of State, local, territorial, and tribal food safety officials

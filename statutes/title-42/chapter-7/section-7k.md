@@ -3,9 +3,9 @@ title: "Section 7k - Medicare and Medicaid program integrity provisions"
 usc_title: 42
 usc_section: "7k"
 chapter: 7
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 7k"
-generated_at: "2026-03-30T01:57:35.181Z"
+generated_at: "2026-03-30T02:00:42.619Z"
 ---
 
 # § 1320a–7k. Medicare and Medicaid program integrity provisions

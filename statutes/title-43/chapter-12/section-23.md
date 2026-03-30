@@ -3,9 +3,9 @@ title: "Section 23 - Southern California desert region integrated water and econ
 usc_title: 43
 usc_section: "23"
 chapter: 12
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "43 U.S.C. § 23"
-generated_at: "2026-03-30T01:57:18.898Z"
+generated_at: "2026-03-30T02:00:22.274Z"
 ---
 
 # § 390h–23. Southern California desert region integrated water and economic sustainability plan

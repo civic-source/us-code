@@ -3,9 +3,9 @@ title: "Section 7712 - Annual report"
 usc_title: 22
 usc_section: "7712"
 chapter: 84
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 7712"
-generated_at: "2026-03-30T01:56:51.967Z"
+generated_at: "2026-03-30T01:59:25.573Z"
 ---
 
 # § 7712. Annual report

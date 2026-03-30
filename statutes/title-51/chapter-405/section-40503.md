@@ -3,9 +3,9 @@ title: "Section 40503 - Biomedical research fellowships"
 usc_title: 51
 usc_section: "40503"
 chapter: 405
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "51 U.S.C. § 40503"
-generated_at: "2026-03-30T01:57:47.221Z"
+generated_at: "2026-03-30T02:01:52.763Z"
 ---
 
 # § 40503. Biomedical research fellowships

@@ -3,9 +3,9 @@ title: "Section 5105 - Research and assistance activities"
 usc_title: 42
 usc_section: "5105"
 chapter: 67
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 5105"
-generated_at: "2026-03-30T01:57:35.468Z"
+generated_at: "2026-03-30T02:00:42.891Z"
 ---
 
 # § 5105. Research and assistance activities

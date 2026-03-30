@@ -3,9 +3,9 @@ title: "Section 12372 - Authority of President and Secretary; final report"
 usc_title: 42
 usc_section: "12372"
 chapter: 127
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 12372"
-generated_at: "2026-03-30T01:57:35.664Z"
+generated_at: "2026-03-30T02:00:43.075Z"
 ---
 
 # § 12372. Authority of President and Secretary; final report

@@ -3,9 +3,9 @@ title: "Section 504 - Electromagnetic spectrum superiority implementation plan"
 usc_title: 10
 usc_section: "504"
 chapter: 25
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 504"
-generated_at: "2026-03-30T01:56:18.337Z"
+generated_at: "2026-03-30T01:58:26.982Z"
 ---
 
 # § 504. 1 1 Another section 504 is set out in chapter 31 of this title. Electromagnetic spectrum superiority implementation plan

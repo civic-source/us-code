@@ -3,9 +3,9 @@ title: "Section 5220 - Assistance to homeowners"
 usc_title: 12
 usc_section: "5220"
 chapter: 52
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 5220"
-generated_at: "2026-03-30T01:56:28.296Z"
+generated_at: "2026-03-30T01:58:32.776Z"
 ---
 
 # § 5220. Assistance to homeowners

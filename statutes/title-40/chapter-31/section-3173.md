@@ -3,9 +3,9 @@ title: "Section 3173 - Working capital fund for General Services Administration"
 usc_title: 40
 usc_section: "3173"
 chapter: 31
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "40 U.S.C. § 3173"
-generated_at: "2026-03-30T01:57:13.779Z"
+generated_at: "2026-03-30T02:00:16.504Z"
 ---
 
 # § 3173. Working capital fund for General Services Administration

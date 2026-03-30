@@ -3,9 +3,9 @@ title: "Section 4 - Subscription of stock"
 usc_title: 22
 usc_section: "4"
 chapter: 7
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 4"
-generated_at: "2026-03-30T01:56:51.848Z"
+generated_at: "2026-03-30T01:59:25.452Z"
 ---
 
 # § 290o–4. Subscription of stock

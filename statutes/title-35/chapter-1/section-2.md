@@ -3,9 +3,9 @@ title: "Section 2 - Powers and duties"
 usc_title: 35
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "35 U.S.C. § 2"
-generated_at: "2026-03-30T01:57:10.631Z"
+generated_at: "2026-03-30T01:59:53.390Z"
 ---
 
 # § 2. Powers and duties

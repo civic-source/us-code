@@ -3,9 +3,9 @@ title: "Section 124j - Rural Policing Institute"
 usc_title: 6
 usc_section: "124j"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "6 U.S.C. § 124j"
-generated_at: "2026-03-30T01:55:45.435Z"
+generated_at: "2026-03-30T01:58:11.132Z"
 ---
 
 # § 124j. Rural Policing Institute

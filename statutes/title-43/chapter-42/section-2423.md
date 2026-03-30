@@ -3,9 +3,9 @@ title: "Section 2423 - Loan guarantees"
 usc_title: 43
 usc_section: "2423"
 chapter: 42
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "43 U.S.C. § 2423"
-generated_at: "2026-03-30T01:57:18.946Z"
+generated_at: "2026-03-30T02:00:22.322Z"
 ---
 
 # § 2423. Loan guarantees

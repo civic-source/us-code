@@ -3,9 +3,9 @@ title: "Section 1712 - Documents for use of the Director of the Government Publi
 usc_title: 44
 usc_section: "1712"
 chapter: 17
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "44 U.S.C. § 1712"
-generated_at: "2026-03-30T01:57:17.737Z"
+generated_at: "2026-03-30T02:00:18.354Z"
 ---
 
 # § 1712. Documents for use of the Director of the Government Publishing Office

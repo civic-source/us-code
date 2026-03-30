@@ -3,9 +3,9 @@ title: "Section 15 - Validity of contracts"
 usc_title: 15
 usc_section: "15"
 chapter: 2
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 15"
-generated_at: "2026-03-30T01:56:25.452Z"
+generated_at: "2026-03-30T01:58:54.181Z"
 ---
 
 # § 80b–15. Validity of contracts

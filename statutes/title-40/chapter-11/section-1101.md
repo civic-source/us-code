@@ -3,9 +3,9 @@ title: "Section 1101 - Policy"
 usc_title: 40
 usc_section: "1101"
 chapter: 11
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "40 U.S.C. § 1101"
-generated_at: "2026-03-30T01:57:13.777Z"
+generated_at: "2026-03-30T02:00:16.502Z"
 ---
 
 # § 1101. Policy

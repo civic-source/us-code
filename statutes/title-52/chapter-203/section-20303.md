@@ -3,9 +3,9 @@ title: "Section 20303 - Federal write-in absentee ballot in general elections fo
 usc_title: 52
 usc_section: "20303"
 chapter: 203
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "52 U.S.C. § 20303"
-generated_at: "2026-03-30T01:57:47.561Z"
+generated_at: "2026-03-30T02:01:48.643Z"
 ---
 
 # § 20303. Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters

@@ -3,9 +3,9 @@ title: "Section 60909 - Multiple agencies"
 usc_title: 34
 usc_section: "60909"
 chapter: 609
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "34 U.S.C. § 60909"
-generated_at: "2026-03-30T01:57:09.550Z"
+generated_at: "2026-03-30T01:59:58.827Z"
 ---
 
 # § 60909. Multiple agencies

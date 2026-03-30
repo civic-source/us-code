@@ -3,9 +3,9 @@ title: "Section 7111 - Purpose"
 usc_title: 20
 usc_section: "7111"
 chapter: 70
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 7111"
-generated_at: "2026-03-30T01:56:43.242Z"
+generated_at: "2026-03-30T01:59:01.739Z"
 ---
 
 # § 7111. Purpose

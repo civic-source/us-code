@@ -3,9 +3,9 @@ title: "Section 1287 - Denial of capital gain treatment for gains on certain obl
 usc_title: 26
 usc_section: "1287"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 1287"
-generated_at: "2026-03-30T01:57:03.718Z"
+generated_at: "2026-03-30T01:59:46.138Z"
 ---
 
 # § 1287. Denial of capital gain treatment for gains on certain obligations not in registered form

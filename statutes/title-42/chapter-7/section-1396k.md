@@ -3,9 +3,9 @@ title: "Section 1396k - Assignment, enforcement, and collection of rights of pay
 usc_title: 42
 usc_section: "1396k"
 chapter: 7
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 1396k"
-generated_at: "2026-03-30T01:57:35.302Z"
+generated_at: "2026-03-30T02:00:42.734Z"
 ---
 
 # § 1396k. Assignment, enforcement, and collection of rights of payments for medical care; establishment of procedures pursuant to State plan; amounts retained by State

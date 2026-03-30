@@ -3,9 +3,9 @@ title: "Section 13104 - Contents of reports"
 usc_title: 5
 usc_section: "13104"
 chapter: 131
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "5 U.S.C. § 13104"
-generated_at: "2026-03-30T01:55:40.165Z"
+generated_at: "2026-03-30T01:58:01.900Z"
 ---
 
 # § 13104. Contents of reports

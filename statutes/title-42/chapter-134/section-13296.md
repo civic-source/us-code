@@ -3,9 +3,9 @@ title: "Section 13296 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13296"
 chapter: 134
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 13296"
-generated_at: "2026-03-30T01:57:35.691Z"
+generated_at: "2026-03-30T02:00:43.102Z"
 ---
 
 # § 13296. Authorization of appropriations

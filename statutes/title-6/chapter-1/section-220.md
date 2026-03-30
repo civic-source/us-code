@@ -3,9 +3,9 @@ title: "Section 220 - Methamphetamine and methamphetamine precursor chemicals"
 usc_title: 6
 usc_section: "220"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "6 U.S.C. § 220"
-generated_at: "2026-03-30T01:55:45.441Z"
+generated_at: "2026-03-30T01:58:11.138Z"
 ---
 
 # § 220. Methamphetamine and methamphetamine precursor chemicals

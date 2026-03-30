@@ -3,9 +3,9 @@ title: "Section 70903 - Membership"
 usc_title: 36
 usc_section: "70903"
 chapter: 709
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "36 U.S.C. § 70903"
-generated_at: "2026-03-30T01:57:12.903Z"
+generated_at: "2026-03-30T02:00:05.189Z"
 ---
 
 # § 70903. Membership

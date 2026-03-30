@@ -3,9 +3,9 @@ title: "Section 949u - Execution of confinement"
 usc_title: 10
 usc_section: "949u"
 chapter: 47
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 949u"
-generated_at: "2026-03-30T01:56:18.363Z"
+generated_at: "2026-03-30T01:58:27.002Z"
 ---
 
 # § 949u. Execution of confinement

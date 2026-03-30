@@ -3,9 +3,9 @@ title: "Section 3508 - Crime scene preservation training for passenger vessel cr
 usc_title: 46
 usc_section: "3508"
 chapter: 35
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "46 U.S.C. § 3508"
-generated_at: "2026-03-30T01:57:39.563Z"
+generated_at: "2026-03-30T02:00:50.891Z"
 ---
 
 # § 3508. Crime scene preservation training for passenger vessel crewmembers

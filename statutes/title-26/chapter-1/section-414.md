@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-30T01:57:03.589Z"
+generated_at: "2026-03-30T01:59:46.068Z"
 ---
 
 # § 414. Definitions and special rules
@@ -528,7 +528,7 @@ generated_at: "2026-03-30T01:57:03.589Z"
   - **(2)** For purposes of this subsection, the term “corrected error” means a reasonable administrative error—
     - **(A)**
       - **(i)** made in implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee covered by such feature), or
-      - **(ii)** made by failing to afford an eligible employee the opportunity to make an affirmative election because such employee was improperly excluded from the plan], and
+      - **(ii)** made by failing to afford an eligible employee the opportunity to make an affirmative election because such employee was improperly excluded from the plan], 3 3 So in original. and
     - **(B)** that is corrected prospectively by implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee) determined in accordance with the terms of an eligible automatic contribution arrangement (as defined under subsection (w)(3)), provided that—
       - **(i)** such implementation error is corrected not later than—
         - **(I)** the date of the first payment of compensation made by the employer to the employee on or after the last day of the 9½ month-period after the end of the plan year during which such error with respect to the employee first occurred, or

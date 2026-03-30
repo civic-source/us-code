@@ -3,9 +3,9 @@ title: "Section 3803 - Alternative mortgage authority"
 usc_title: 12
 usc_section: "3803"
 chapter: 39
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 3803"
-generated_at: "2026-03-30T01:56:28.272Z"
+generated_at: "2026-03-30T01:58:32.751Z"
 ---
 
 # § 3803. Alternative mortgage authority

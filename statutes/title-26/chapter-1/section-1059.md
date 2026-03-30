@@ -3,9 +3,9 @@ title: "Section 1059 - Corporate shareholder’s basis in stock reduced by nonta
 usc_title: 26
 usc_section: "1059"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 1059"
-generated_at: "2026-03-30T01:57:03.710Z"
+generated_at: "2026-03-30T01:59:46.131Z"
 ---
 
 # § 1059. Corporate shareholder’s basis in stock reduced by nontaxed portion of extraordinary dividends

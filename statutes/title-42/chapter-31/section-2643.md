@@ -3,9 +3,9 @@ title: "Section 2643 - Increase of State or local expenditures"
 usc_title: 42
 usc_section: "2643"
 chapter: 31
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 2643"
-generated_at: "2026-03-30T01:57:35.420Z"
+generated_at: "2026-03-30T02:00:42.845Z"
 ---
 
 # § 2643. Increase of State or local expenditures

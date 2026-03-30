@@ -3,9 +3,9 @@ title: "Section 7709 - Exclusive economic zone notification"
 usc_title: 16
 usc_section: "7709"
 chapter: 96
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 7709"
-generated_at: "2026-03-30T01:56:36.456Z"
+generated_at: "2026-03-30T01:59:04.692Z"
 ---
 
 # § 7709. Exclusive economic zone notification

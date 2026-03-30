@@ -3,9 +3,9 @@ title: "Section 109 - Granting of restraining order or injunction as dependent o
 usc_title: 29
 usc_section: "109"
 chapter: 6
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "29 U.S.C. § 109"
-generated_at: "2026-03-30T01:56:56.230Z"
+generated_at: "2026-03-30T01:59:47.469Z"
 ---
 
 # § 109. Granting of restraining order or injunction as dependent on previous findings of fact; limitation on prohibitions included in restraining orders and injunctions

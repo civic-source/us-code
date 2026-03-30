@@ -3,9 +3,9 @@ title: "Section 207 - Preparation of standards by Secretary of Commerce"
 usc_title: 15
 usc_section: "207"
 chapter: 6
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 207"
-generated_at: "2026-03-30T01:56:25.454Z"
+generated_at: "2026-03-30T01:58:54.184Z"
 ---
 
 # § 207. Preparation of standards by Secretary of Commerce

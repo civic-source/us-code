@@ -3,9 +3,9 @@ title: "Section 430kk - Wilson’s Creek National Battlefield: establishment and
 usc_title: 16
 usc_section: "430kk"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 430kk"
-generated_at: "2026-03-30T01:56:36.263Z"
+generated_at: "2026-03-30T01:59:04.498Z"
 ---
 
 # § 430kk. Wilson’s Creek National Battlefield: establishment and acquisition of lands

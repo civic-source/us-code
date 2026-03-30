@@ -3,9 +3,9 @@ title: "Section 2293 - Reprogramming during national emergencies"
 usc_title: 33
 usc_section: "2293"
 chapter: 36
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 2293"
-generated_at: "2026-03-30T01:57:08.447Z"
+generated_at: "2026-03-30T01:59:51.363Z"
 ---
 
 # § 2293. Reprogramming during national emergencies

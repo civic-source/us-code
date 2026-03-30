@@ -3,9 +3,9 @@ title: "Section 2492a - Limitation on Department of Defense entities competing w
 usc_title: 10
 usc_section: "2492a"
 chapter: 147
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 2492a"
-generated_at: "2026-03-30T01:56:18.428Z"
+generated_at: "2026-03-30T01:58:27.055Z"
 ---
 
 # § 2492a. Limitation on Department of Defense entities competing with private sector in offering personal information services

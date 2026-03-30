@@ -3,9 +3,9 @@ title: "Section 963 - Technical Study Panel"
 usc_title: 30
 usc_section: "963"
 chapter: 22
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "30 U.S.C. § 963"
-generated_at: "2026-03-30T01:56:54.367Z"
+generated_at: "2026-03-30T01:59:46.589Z"
 ---
 
 # § 963. Technical Study Panel

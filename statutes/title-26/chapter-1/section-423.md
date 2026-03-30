@@ -3,9 +3,9 @@ title: "Section 423 - Employee stock purchase plans"
 usc_title: 26
 usc_section: "423"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 423"
-generated_at: "2026-03-30T01:57:03.595Z"
+generated_at: "2026-03-30T01:59:46.075Z"
 ---
 
 # § 423. Employee stock purchase plans

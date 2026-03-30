@@ -3,9 +3,9 @@ title: "Section 17053 - Federal fleet fueling centers"
 usc_title: 42
 usc_section: "17053"
 chapter: 152
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 17053"
-generated_at: "2026-03-30T01:57:35.740Z"
+generated_at: "2026-03-30T02:00:43.149Z"
 ---
 
 # § 17053. Federal fleet fueling centers

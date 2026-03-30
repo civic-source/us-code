@@ -3,9 +3,9 @@ title: "Section 160a - Establishment; notice in Federal Register; donation of la
 usc_title: 16
 usc_section: "160a"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 160a"
-generated_at: "2026-03-30T01:56:36.222Z"
+generated_at: "2026-03-30T01:59:04.341Z"
 ---
 
 # § 160a. Establishment; notice in Federal Register; donation of lands; acquisition by purchase of other lands

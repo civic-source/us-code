@@ -3,9 +3,9 @@ title: "Section 15301 - General pipeline jurisdiction"
 usc_title: 49
 usc_section: "15301"
 chapter: 153
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "49 U.S.C. § 15301"
-generated_at: "2026-03-30T01:57:44.901Z"
+generated_at: "2026-03-30T02:01:46.779Z"
 ---
 
 # § 15301. General pipeline jurisdiction

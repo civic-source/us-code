@@ -3,9 +3,9 @@ title: "Section 572 - Prohibition on buy outs"
 usc_title: 47
 usc_section: "572"
 chapter: 5
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "47 U.S.C. § 572"
-generated_at: "2026-03-30T01:57:41.752Z"
+generated_at: "2026-03-30T02:00:56.473Z"
 ---
 
 # § 572. Prohibition on buy outs

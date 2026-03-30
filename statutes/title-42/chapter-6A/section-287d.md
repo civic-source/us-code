@@ -3,9 +3,9 @@ title: "Section 287d - Office of Research on Women’s Health"
 usc_title: 42
 usc_section: "287d"
 chapter: 6
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 287d"
-generated_at: "2026-03-30T01:57:35.027Z"
+generated_at: "2026-03-30T02:00:42.474Z"
 ---
 
 # § 287d. Office of Research on Women’s Health

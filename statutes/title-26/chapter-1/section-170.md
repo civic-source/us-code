@@ -3,9 +3,9 @@ title: "Section 170 - Charitable, etc., contributions and gifts"
 usc_title: 26
 usc_section: "170"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 170"
-generated_at: "2026-03-30T01:57:03.552Z"
+generated_at: "2026-03-30T01:59:46.034Z"
 ---
 
 # § 170. Charitable, etc., contributions and gifts
@@ -26,8 +26,9 @@ generated_at: "2026-03-30T01:57:03.552Z"
       - **(v)** a governmental unit referred to in subsection (c)(1),
       - **(vi)** an organization referred to in subsection (c)(2) which normally receives a substantial part of its support (exclusive of income received in the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501(a)) from a governmental unit referred to in subsection (c)(1) or from direct or indirect contributions from the general public,
       - **(vii)** a private foundation described in subparagraph (F),
-      - **(viii)** an organization described in section 509(a)(2) or (3), or
-      - **(ix)** an agricultural research organization directly engaged in the continuous active conduct of agricultural research (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977) in conjunction with a land-grant college or university (as defined in such section) or a non-land grant college of agriculture (as defined in such section), and during the calendar year in which the contribution is made such organization is committed to spend such contribution for such research before January 1 of the fifth calendar year which begins after the date such contribution is made,
+      - **(viii)** an organization described in section 509(a)(2) or (3),
+      - **(ix)** an agricultural research organization directly engaged in the continuous active conduct of agricultural research (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977) in conjunction with a land-grant college or university (as defined in such section) or a non-land grant college of agriculture (as defined in such section), and during the calendar year in which the contribution is made such organization is committed to spend such contribution for such research before January 1 of the fifth calendar year which begins after the date such contribution is made, or
+      - **(x)** an organization described in section 501(c)(19) that is a federally chartered corporation,
     - **(B)** Any charitable contribution other than a charitable contribution to which subparagraph (A) applies shall be allowed to the extent that the aggregate of such contributions does not exceed the lesser of—
       - **(i)** 30 percent of the taxpayer’s contribution base for the taxable year, or
       - **(ii)** the excess of 50 percent of the taxpayer’s contribution base for the taxable year over the amount of charitable contributions allowable under subparagraph (A) (determined without regard to subparagraph (C)).
@@ -91,6 +92,7 @@ generated_at: "2026-03-30T01:57:03.552Z"
     - **(B)** no part of the net earnings of which inures to the benefit of any private shareholder or individual.
   - **(4)** In the case of a contribution or gift by an individual, a domestic fraternal society, order, or association, operating under the lodge system, but only if such contribution or gift is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals.
   - **(5)** A cemetery company owned and operated exclusively for the benefit of its members, or any corporation chartered solely for burial purposes as a cemetery corporation and not permitted by its charter to engage in any business not necessarily incident to that purpose, if such company or corporation is not operated for profit and no part of the net earnings of such company or corporation inures to the benefit of any private shareholder or individual.
+  - **(6)** An organization described in section 501(c)(19) that is a federally chartered corporation.
 - **(d)**
   - **(1)**
     - **(A)** In the case of an individual, if the amount of charitable contributions described in subsection (b)(1)(A) payment of which is made within a taxable year (hereinafter in this paragraph referred to as the “contribution year”) exceeds 50 percent of the taxpayer’s contribution base for such year, such excess shall be treated as a charitable contribution described in subsection (b)(1)(A) paid in each of the 5 succeeding taxable years in order of time, but, with respect to any such succeeding taxable year, only to the extent of the lesser of the two following amounts:

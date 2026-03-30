@@ -3,9 +3,9 @@ title: "Section 323 - Western Alaska Oil Spill Planning Criteria Program"
 usc_title: 14
 usc_section: "323"
 chapter: 3
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "14 U.S.C. § 323"
-generated_at: "2026-03-30T01:56:21.697Z"
+generated_at: "2026-03-30T01:58:29.384Z"
 ---
 
 # § 323. Western Alaska Oil Spill Planning Criteria Program

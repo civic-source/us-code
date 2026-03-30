@@ -3,9 +3,9 @@ title: "Section 1075a - TRICARE Prime: cost sharing"
 usc_title: 10
 usc_section: "1075a"
 chapter: 55
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 1075a"
-generated_at: "2026-03-30T01:56:18.373Z"
+generated_at: "2026-03-30T01:58:27.010Z"
 ---
 
 # § 1075a. TRICARE Prime: cost sharing

@@ -3,9 +3,9 @@ title: "Section 12 - Notice of motions to vacate or modify; service; stay of pro
 usc_title: 9
 usc_section: "12"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "9 U.S.C. § 12"
-generated_at: "2026-03-30T01:55:44.912Z"
+generated_at: "2026-03-30T01:58:04.267Z"
 ---
 
 # § 12. Notice of motions to vacate or modify; service; stay of proceedings

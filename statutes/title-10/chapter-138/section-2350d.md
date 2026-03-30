@@ -3,9 +3,9 @@ title: "Section 2350d - Cooperative acquisition and logistics support agreements
 usc_title: 10
 usc_section: "2350d"
 chapter: 138
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 2350d"
-generated_at: "2026-03-30T01:56:18.422Z"
+generated_at: "2026-03-30T01:58:27.051Z"
 ---
 
 # § 2350d. Cooperative acquisition and logistics support agreements: NATO countries

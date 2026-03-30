@@ -3,9 +3,9 @@ title: "Section 6821 - Privacy protection for customer information of financial 
 usc_title: 15
 usc_section: "6821"
 chapter: 94
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 6821"
-generated_at: "2026-03-30T01:56:25.604Z"
+generated_at: "2026-03-30T01:58:54.322Z"
 ---
 
 # § 6821. Privacy protection for customer information of financial institutions

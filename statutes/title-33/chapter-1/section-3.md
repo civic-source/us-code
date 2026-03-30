@@ -3,9 +3,9 @@ title: "Section 3 - Queens County, New York"
 usc_title: 33
 usc_section: "3"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 3"
-generated_at: "2026-03-30T01:57:08.382Z"
+generated_at: "2026-03-30T01:59:51.300Z"
 ---
 
 # § 59c–3. Queens County, New York

@@ -3,9 +3,9 @@ title: "Section 590l - Expansion of domestic and foreign markets for agricultura
 usc_title: 16
 usc_section: "590l"
 chapter: 3
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 590l"
-generated_at: "2026-03-30T01:56:36.322Z"
+generated_at: "2026-03-30T01:59:04.559Z"
 ---
 
 # § 590l. Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation

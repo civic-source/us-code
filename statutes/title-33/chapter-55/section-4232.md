@@ -3,9 +3,9 @@ title: "Section 4232 - Genius Prize for Save Our Seas Innovations"
 usc_title: 33
 usc_section: "4232"
 chapter: 55
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 4232"
-generated_at: "2026-03-30T01:57:08.473Z"
+generated_at: "2026-03-30T01:59:51.389Z"
 ---
 
 # § 4232. Genius Prize for Save Our Seas Innovations

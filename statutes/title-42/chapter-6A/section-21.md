@@ -3,9 +3,9 @@ title: "Section 21 - Identification of WTC responders and provision of WTC-relat
 usc_title: 42
 usc_section: "21"
 chapter: 6
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T01:57:35.121Z"
+generated_at: "2026-03-30T02:00:42.563Z"
 ---
 
 # § 300mm–21. Identification of WTC responders and provision of WTC-related monitoring services

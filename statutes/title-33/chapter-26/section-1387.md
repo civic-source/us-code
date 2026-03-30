@@ -3,9 +3,9 @@ title: "Section 1387 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1387"
 chapter: 26
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 1387"
-generated_at: "2026-03-30T01:57:08.433Z"
+generated_at: "2026-03-30T01:59:51.349Z"
 ---
 
 # § 1387. Authorization of appropriations

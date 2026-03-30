@@ -3,9 +3,9 @@ title: "Section 281b - Functions"
 usc_title: 2
 usc_section: "281b"
 chapter: 9
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 281b"
-generated_at: "2026-03-30T01:55:42.896Z"
+generated_at: "2026-03-30T01:58:02.814Z"
 ---
 
 # § 281b. Functions

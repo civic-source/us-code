@@ -3,9 +3,9 @@ title: "Section 6984 - Full-scale demonstration facilities"
 usc_title: 42
 usc_section: "6984"
 chapter: 82
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 6984"
-generated_at: "2026-03-30T01:57:35.530Z"
+generated_at: "2026-03-30T02:00:42.948Z"
 ---
 
 # § 6984. Full-scale demonstration facilities

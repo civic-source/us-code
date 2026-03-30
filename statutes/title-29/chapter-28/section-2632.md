@@ -3,9 +3,9 @@ title: "Section 2632 - Duties"
 usc_title: 29
 usc_section: "2632"
 chapter: 28
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "29 U.S.C. § 2632"
-generated_at: "2026-03-30T01:56:56.294Z"
+generated_at: "2026-03-30T01:59:47.531Z"
 ---
 
 # § 2632. Duties

@@ -3,9 +3,9 @@ title: "Section 1762 - Demonstration project relating to certain acquisition per
 usc_title: 10
 usc_section: "1762"
 chapter: 87
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 1762"
-generated_at: "2026-03-30T01:56:18.406Z"
+generated_at: "2026-03-30T01:58:27.037Z"
 ---
 
 # § 1762. Demonstration project relating to certain acquisition personnel management policies and procedures

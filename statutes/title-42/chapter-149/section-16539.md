@@ -3,9 +3,9 @@ title: "Section 16539 - National Laboratory Jobs ACCESS Program"
 usc_title: 42
 usc_section: "16539"
 chapter: 149
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 16539"
-generated_at: "2026-03-30T01:57:35.738Z"
+generated_at: "2026-03-30T02:00:43.147Z"
 ---
 
 # § 16539. National Laboratory Jobs ACCESS Program

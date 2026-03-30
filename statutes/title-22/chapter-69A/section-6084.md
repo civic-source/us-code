@@ -3,9 +3,9 @@ title: "Section 6084 - Limitation of actions"
 usc_title: 22
 usc_section: "6084"
 chapter: 69
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 6084"
-generated_at: "2026-03-30T01:56:51.945Z"
+generated_at: "2026-03-30T01:59:25.551Z"
 ---
 
 # § 6084. Limitation of actions

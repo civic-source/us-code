@@ -3,9 +3,9 @@ title: "Section 2073 - Rules of procedure and evidence; method of prescribing"
 usc_title: 28
 usc_section: "2073"
 chapter: 131
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "28 U.S.C. § 2073"
-generated_at: "2026-03-30T01:56:55.371Z"
+generated_at: "2026-03-30T01:59:41.074Z"
 ---
 
 # § 2073. Rules of procedure and evidence; method of prescribing

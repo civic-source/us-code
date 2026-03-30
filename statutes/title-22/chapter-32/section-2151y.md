@@ -3,9 +3,9 @@ title: "Section 2151y - Accelerated loan repayments; annual review of countries 
 usc_title: 22
 usc_section: "2151y"
 chapter: 32
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 2151y"
-generated_at: "2026-03-30T01:56:51.869Z"
+generated_at: "2026-03-30T01:59:25.472Z"
 ---
 
 # § 2151y. Accelerated loan repayments; annual review of countries with bilateral concessional loan balances; priority of determinations respecting negotiations with countries having balances; criteria for determinations

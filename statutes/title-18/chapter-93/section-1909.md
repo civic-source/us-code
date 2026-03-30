@@ -3,9 +3,9 @@ title: "Section 1909 - Examiner performing other services"
 usc_title: 18
 usc_section: "1909"
 chapter: 93
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "18 U.S.C. § 1909"
-generated_at: "2026-03-30T01:56:31.841Z"
+generated_at: "2026-03-30T01:59:16.360Z"
 ---
 
 # § 1909. Examiner performing other services

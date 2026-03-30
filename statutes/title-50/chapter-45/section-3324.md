@@ -3,9 +3,9 @@ title: "Section 3324 - Prohibition on using journalists as agents or assets"
 usc_title: 50
 usc_section: "3324"
 chapter: 45
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "50 U.S.C. § 3324"
-generated_at: "2026-03-30T01:57:40.887Z"
+generated_at: "2026-03-30T02:00:49.219Z"
 ---
 
 # § 3324. Prohibition on using journalists as agents or assets

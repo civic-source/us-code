@@ -3,9 +3,9 @@ title: "Section 294 - Manner of use of buildings; contracts for construction, et
 usc_title: 22
 usc_section: "294"
 chapter: 8
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 294"
-generated_at: "2026-03-30T01:56:51.849Z"
+generated_at: "2026-03-30T01:59:25.452Z"
 ---
 
 # § 294. Manner of use of buildings; contracts for construction, etc.

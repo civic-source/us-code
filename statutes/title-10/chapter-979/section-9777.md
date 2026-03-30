@@ -3,9 +3,9 @@ title: "Section 9777 - Permits: military reservations; landing ferries, erecting
 usc_title: 10
 usc_section: "9777"
 chapter: 979
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 9777"
-generated_at: "2026-03-30T01:56:18.510Z"
+generated_at: "2026-03-30T01:58:27.126Z"
 ---
 
 # § 9777. Permits: military reservations; landing ferries, erecting bridges, driving livestock

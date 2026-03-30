@@ -3,9 +3,9 @@ title: "Section 4728 - Brown tree snake control program"
 usc_title: 16
 usc_section: "4728"
 chapter: 67
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 4728"
-generated_at: "2026-03-30T01:56:36.436Z"
+generated_at: "2026-03-30T01:59:04.672Z"
 ---
 
 # § 4728. Brown tree snake control program

@@ -3,9 +3,9 @@ title: "Section 482a - Mining rights in Prescott National Forest"
 usc_title: 16
 usc_section: "482a"
 chapter: 2
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 482a"
-generated_at: "2026-03-30T01:56:36.304Z"
+generated_at: "2026-03-30T01:59:04.542Z"
 ---
 
 # § 482a. Mining rights in Prescott National Forest

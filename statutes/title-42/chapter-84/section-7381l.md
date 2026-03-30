@@ -3,9 +3,9 @@ title: "Section 7381l - National Laboratories Centers of Excellence in Science, 
 usc_title: 42
 usc_section: "7381l"
 chapter: 84
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 7381l"
-generated_at: "2026-03-30T01:57:35.540Z"
+generated_at: "2026-03-30T02:00:42.957Z"
 ---
 
 # § 7381l. National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education

@@ -3,9 +3,9 @@ title: "Section 5721 - Definitions"
 usc_title: 5
 usc_section: "5721"
 chapter: 57
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "5 U.S.C. § 5721"
-generated_at: "2026-03-30T01:55:40.128Z"
+generated_at: "2026-03-30T01:58:01.862Z"
 ---
 
 # § 5721. Definitions

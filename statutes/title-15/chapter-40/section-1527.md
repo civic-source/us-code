@@ -3,9 +3,9 @@ title: "Section 1527 - Fees or charges for services or publications under existi
 usc_title: 15
 usc_section: "1527"
 chapter: 40
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 1527"
-generated_at: "2026-03-30T01:56:25.519Z"
+generated_at: "2026-03-30T01:58:54.245Z"
 ---
 
 # § 1527. Fees or charges for services or publications under existing law unaffected

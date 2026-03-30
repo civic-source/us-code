@@ -3,9 +3,9 @@ title: "Section 7332 - Risk management education"
 usc_title: 7
 usc_section: "7332"
 chapter: 100
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "7 U.S.C. § 7332"
-generated_at: "2026-03-30T01:55:52.468Z"
+generated_at: "2026-03-30T01:58:09.616Z"
 ---
 
 # § 7332. Risk management education

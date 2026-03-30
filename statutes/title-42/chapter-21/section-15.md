@@ -3,9 +3,9 @@ title: "Section 15 - Presidential conferences; acquaintance of leadership with p
 usc_title: 42
 usc_section: "15"
 chapter: 21
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T01:57:35.393Z"
+generated_at: "2026-03-30T02:00:42.820Z"
 ---
 
 # § 2000e–15. Presidential conferences; acquaintance of leadership with provisions for employment rights and obligations; plans for fair administration; membership

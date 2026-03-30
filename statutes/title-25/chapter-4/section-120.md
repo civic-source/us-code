@@ -3,9 +3,9 @@ title: "Section 120 - Per capita payments to enrolled members of Choctaw and Chi
 usc_title: 25
 usc_section: "120"
 chapter: 4
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "25 U.S.C. § 120"
-generated_at: "2026-03-30T01:56:48.674Z"
+generated_at: "2026-03-30T01:59:21.886Z"
 ---
 
 # § 120. Per capita payments to enrolled members of Choctaw and Chickasaw Tribes

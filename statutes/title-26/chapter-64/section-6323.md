@@ -3,9 +3,9 @@ title: "Section 6323 - Validity and priority against certain persons"
 usc_title: 26
 usc_section: "6323"
 chapter: 64
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 6323"
-generated_at: "2026-03-30T01:57:03.798Z"
+generated_at: "2026-03-30T01:59:46.210Z"
 ---
 
 # § 6323. Validity and priority against certain persons

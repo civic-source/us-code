@@ -3,9 +3,9 @@ title: "Section 3334j - Access to certain facilities of United States Government
 usc_title: 50
 usc_section: "3334j"
 chapter: 45
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "50 U.S.C. § 3334j"
-generated_at: "2026-03-30T01:57:40.888Z"
+generated_at: "2026-03-30T02:00:49.222Z"
 ---
 
 # § 3334j. Access to certain facilities of United States Government for assessment of anomalous health conditions

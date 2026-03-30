@@ -3,9 +3,9 @@ title: "Section 1316 - Dependency and indemnity compensation in cases of prior d
 usc_title: 38
 usc_section: "1316"
 chapter: 13
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "38 U.S.C. § 1316"
-generated_at: "2026-03-30T01:57:15.686Z"
+generated_at: "2026-03-30T02:00:04.472Z"
 ---
 
 # § 1316. Dependency and indemnity compensation in cases of prior deaths

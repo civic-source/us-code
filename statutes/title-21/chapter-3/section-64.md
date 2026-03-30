@@ -3,9 +3,9 @@ title: "Section 64 - Regulations for enforcement"
 usc_title: 21
 usc_section: "64"
 chapter: 3
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "21 U.S.C. § 64"
-generated_at: "2026-03-30T01:56:47.438Z"
+generated_at: "2026-03-30T01:59:20.922Z"
 ---
 
 # § 64. Regulations for enforcement

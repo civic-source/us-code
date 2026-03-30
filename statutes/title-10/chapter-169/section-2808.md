@@ -3,9 +3,9 @@ title: "Section 2808 - Construction authority in the event of a declaration of w
 usc_title: 10
 usc_section: "2808"
 chapter: 169
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 2808"
-generated_at: "2026-03-30T01:56:18.441Z"
+generated_at: "2026-03-30T01:58:27.068Z"
 ---
 
 # § 2808. Construction authority in the event of a declaration of war or national emergency

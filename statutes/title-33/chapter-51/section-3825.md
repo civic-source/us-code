@@ -3,9 +3,9 @@ title: "Section 3825 - Scientific and technical research and monitoring; communi
 usc_title: 33
 usc_section: "3825"
 chapter: 51
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 3825"
-generated_at: "2026-03-30T01:57:08.469Z"
+generated_at: "2026-03-30T01:59:51.385Z"
 ---
 
 # § 3825. Scientific and technical research and monitoring; communication and information

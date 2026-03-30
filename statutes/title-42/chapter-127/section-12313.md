@@ -3,9 +3,9 @@ title: "Section 12313 - Federal agency consultations"
 usc_title: 42
 usc_section: "12313"
 chapter: 127
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 12313"
-generated_at: "2026-03-30T01:57:35.663Z"
+generated_at: "2026-03-30T02:00:43.073Z"
 ---
 
 # § 12313. Federal agency consultations

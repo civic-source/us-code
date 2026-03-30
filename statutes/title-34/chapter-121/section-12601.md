@@ -3,9 +3,9 @@ title: "Section 12601 - Cause of action"
 usc_title: 34
 usc_section: "12601"
 chapter: 121
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "34 U.S.C. § 12601"
-generated_at: "2026-03-30T01:57:09.522Z"
+generated_at: "2026-03-30T01:59:58.798Z"
 ---
 
 # § 12601. Cause of action

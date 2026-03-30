@@ -3,9 +3,9 @@ title: "Section 6124 - Flexible schedules; holidays"
 usc_title: 5
 usc_section: "6124"
 chapter: 61
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "5 U.S.C. § 6124"
-generated_at: "2026-03-30T01:55:40.131Z"
+generated_at: "2026-03-30T01:58:01.864Z"
 ---
 
 # § 6124. Flexible schedules; holidays

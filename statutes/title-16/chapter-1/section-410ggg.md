@@ -3,9 +3,9 @@ title: "Section 410ggg - Rosie the Riveter/World War II Home Front National Hist
 usc_title: 16
 usc_section: "410ggg"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 410ggg"
-generated_at: "2026-03-30T01:56:36.250Z"
+generated_at: "2026-03-30T01:59:04.372Z"
 ---
 
 # § 410ggg. Rosie the Riveter/World War II Home Front National Historical Park

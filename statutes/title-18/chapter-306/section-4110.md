@@ -3,9 +3,9 @@ title: "Section 4110 - Transfer of juveniles"
 usc_title: 18
 usc_section: "4110"
 chapter: 306
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "18 U.S.C. § 4110"
-generated_at: "2026-03-30T01:56:31.873Z"
+generated_at: "2026-03-30T01:59:16.390Z"
 ---
 
 # § 4110. Transfer of juveniles

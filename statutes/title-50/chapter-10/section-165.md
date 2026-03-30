@@ -3,9 +3,9 @@ title: "Section 165 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(13),
 usc_title: 50
 usc_section: "165"
 chapter: 10
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "50 U.S.C. § 165"
-generated_at: "2026-03-30T01:57:40.840Z"
+generated_at: "2026-03-30T02:00:49.170Z"
 ---
 
 # § 165. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(13), 68 Stat. 861

@@ -3,9 +3,9 @@ title: "Section 9819 - Evaluation of programs; implementation and funding, etc.;
 usc_title: 42
 usc_section: "9819"
 chapter: 105
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 9819"
-generated_at: "2026-03-30T01:57:35.618Z"
+generated_at: "2026-03-30T02:00:43.028Z"
 ---
 
 # § 9819. Evaluation of programs; implementation and funding, etc.; research and demonstration projects; implementation and purposes

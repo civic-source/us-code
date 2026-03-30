@@ -3,9 +3,9 @@ title: "Section 3263 - Delivery to authorities of foreign countries"
 usc_title: 18
 usc_section: "3263"
 chapter: 212
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "18 U.S.C. § 3263"
-generated_at: "2026-03-30T01:56:31.860Z"
+generated_at: "2026-03-30T01:59:16.379Z"
 ---
 
 # § 3263. Delivery to authorities of foreign countries

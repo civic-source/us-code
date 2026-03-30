@@ -3,9 +3,9 @@ title: "Section 100733 - Recordation of mining claims; publication of notice"
 usc_title: 54
 usc_section: "100733"
 chapter: 1007
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "54 U.S.C. § 100733"
-generated_at: "2026-03-30T01:57:46.941Z"
+generated_at: "2026-03-30T02:01:49.070Z"
 ---
 
 # § 100733. Recordation of mining claims; publication of notice

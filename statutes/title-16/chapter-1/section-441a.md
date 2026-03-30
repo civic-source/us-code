@@ -3,9 +3,9 @@ title: "Section 441a - Boundaries"
 usc_title: 16
 usc_section: "441a"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 441a"
-generated_at: "2026-03-30T01:56:36.264Z"
+generated_at: "2026-03-30T01:59:04.499Z"
 ---
 
 # § 441a. Boundaries

@@ -3,9 +3,9 @@ title: "Section 1715 - Acquisitions of public lands and access over non-Federal 
 usc_title: 43
 usc_section: "1715"
 chapter: 35
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "43 U.S.C. § 1715"
-generated_at: "2026-03-30T01:57:18.937Z"
+generated_at: "2026-03-30T02:00:22.312Z"
 ---
 
 # § 1715. Acquisitions of public lands and access over non-Federal lands to National Forest System units

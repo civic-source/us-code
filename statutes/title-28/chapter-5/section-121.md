@@ -3,9 +3,9 @@ title: "Section 121 - South Carolina"
 usc_title: 28
 usc_section: "121"
 chapter: 5
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "28 U.S.C. § 121"
-generated_at: "2026-03-30T01:56:55.348Z"
+generated_at: "2026-03-30T01:59:41.049Z"
 ---
 
 # § 121. South Carolina

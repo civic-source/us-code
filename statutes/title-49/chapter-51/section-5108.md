@@ -3,9 +3,9 @@ title: "Section 5108 - Registration"
 usc_title: 49
 usc_section: "5108"
 chapter: 51
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "49 U.S.C. § 5108"
-generated_at: "2026-03-30T01:57:44.875Z"
+generated_at: "2026-03-30T02:01:46.752Z"
 ---
 
 # § 5108. Registration

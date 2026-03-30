@@ -3,9 +3,9 @@ title: "Section 17533 - Transferred"
 usc_title: 42
 usc_section: "17533"
 chapter: 153
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 17533"
-generated_at: "2026-03-30T01:57:35.755Z"
+generated_at: "2026-03-30T02:00:43.163Z"
 ---
 
 # § 17533. Transferred

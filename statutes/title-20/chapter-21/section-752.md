@@ -3,9 +3,9 @@ title: "Section 752 - Repealed. Pub. L. 91–230, title IV, § 401(c)(6) , (h)(2
 usc_title: 20
 usc_section: "752"
 chapter: 21
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 752"
-generated_at: "2026-03-30T01:56:43.121Z"
+generated_at: "2026-03-30T01:59:01.630Z"
 ---
 
 # § 752. Repealed. Pub. L. 91–230, title IV, § 401(c)(6) , (h)(2), Apr. 13, 1970 , 84 Stat. 173 , 174

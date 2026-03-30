@@ -3,9 +3,9 @@ title: "Section 112b - United States international agreements and non-binding in
 usc_title: 1
 usc_section: "112b"
 chapter: 2
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "1 U.S.C. § 112b"
-generated_at: "2026-03-30T01:55:36.399Z"
+generated_at: "2026-03-30T01:57:59.448Z"
 ---
 
 # § 112b. United States international agreements and non-binding instruments; transparency provisions

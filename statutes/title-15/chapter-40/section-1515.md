@@ -3,9 +3,9 @@ title: "Section 1515 - Records, etc., of bureaus transferred to Department of Co
 usc_title: 15
 usc_section: "1515"
 chapter: 40
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 1515"
-generated_at: "2026-03-30T01:56:25.519Z"
+generated_at: "2026-03-30T01:58:54.245Z"
 ---
 
 # § 1515. Records, etc., of bureaus transferred to Department of Commerce

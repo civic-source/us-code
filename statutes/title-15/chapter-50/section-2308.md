@@ -3,9 +3,9 @@ title: "Section 2308 - Implied warranties"
 usc_title: 15
 usc_section: "2308"
 chapter: 50
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 2308"
-generated_at: "2026-03-30T01:56:25.556Z"
+generated_at: "2026-03-30T01:58:54.278Z"
 ---
 
 # § 2308. Implied warranties

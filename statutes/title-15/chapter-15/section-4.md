@@ -3,9 +3,9 @@ title: "Section 4 - Obligations of Commodity Credit Corporation; issuance; sale;
 usc_title: 15
 usc_section: "4"
 chapter: 15
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T01:56:25.496Z"
+generated_at: "2026-03-30T01:58:54.222Z"
 ---
 
 # § 713a–4. Obligations of Commodity Credit Corporation; issuance; sale; purchase; redemption; etc.

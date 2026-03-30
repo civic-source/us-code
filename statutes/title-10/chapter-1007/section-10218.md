@@ -3,9 +3,9 @@ title: "Section 10218 - Army and Air Force Reserve technicians: conditions for r
 usc_title: 10
 usc_section: "10218"
 chapter: 1007
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 10218"
-generated_at: "2026-03-30T01:56:18.512Z"
+generated_at: "2026-03-30T01:58:27.128Z"
 ---
 
 # § 10218. Army and Air Force Reserve technicians: conditions for retention; mandatory retirement under civil service laws

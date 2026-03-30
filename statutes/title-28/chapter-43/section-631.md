@@ -3,9 +3,9 @@ title: "Section 631 - Appointment and tenure"
 usc_title: 28
 usc_section: "631"
 chapter: 43
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "28 U.S.C. § 631"
-generated_at: "2026-03-30T01:56:55.361Z"
+generated_at: "2026-03-30T01:59:41.062Z"
 ---
 
 # § 631. Appointment and tenure

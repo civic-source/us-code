@@ -3,9 +3,9 @@ title: "Section 5904 - Definitions"
 usc_title: 15
 usc_section: "5904"
 chapter: 85
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 5904"
-generated_at: "2026-03-30T01:56:25.595Z"
+generated_at: "2026-03-30T01:58:54.314Z"
 ---
 
 # § 5904. Definitions

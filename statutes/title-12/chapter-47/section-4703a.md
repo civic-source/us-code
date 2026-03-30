@@ -3,9 +3,9 @@ title: "Section 4703a - Capital investments for neighborhoods disproportionately
 usc_title: 12
 usc_section: "4703a"
 chapter: 47
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 4703a"
-generated_at: "2026-03-30T01:56:28.288Z"
+generated_at: "2026-03-30T01:58:32.768Z"
 ---
 
 # § 4703a. Capital investments for neighborhoods disproportionately impacted by the COVID–19 pandemic

@@ -3,9 +3,9 @@ title: "Section 2011 - Implementation of the Agreement"
 usc_title: 19
 usc_section: "2011"
 chapter: 8
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "19 U.S.C. § 2011"
-generated_at: "2026-03-30T01:56:33.517Z"
+generated_at: "2026-03-30T01:58:58.947Z"
 ---
 
 # § 2011. Implementation of the Agreement

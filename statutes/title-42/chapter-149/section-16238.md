@@ -3,9 +3,9 @@ title: "Section 16238 - Solar energy research and development"
 usc_title: 42
 usc_section: "16238"
 chapter: 149
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 16238"
-generated_at: "2026-03-30T01:57:35.723Z"
+generated_at: "2026-03-30T02:00:43.131Z"
 ---
 
 # § 16238. Solar energy research and development

@@ -3,9 +3,9 @@ title: "Section 1456c - Technical assistance"
 usc_title: 16
 usc_section: "1456c"
 chapter: 33
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 1456c"
-generated_at: "2026-03-30T01:56:36.386Z"
+generated_at: "2026-03-30T01:59:04.622Z"
 ---
 
 # § 1456c. Technical assistance

@@ -3,9 +3,9 @@ title: "Section 4403 - Ingredient reporting"
 usc_title: 15
 usc_section: "4403"
 chapter: 70
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 4403"
-generated_at: "2026-03-30T01:56:25.586Z"
+generated_at: "2026-03-30T01:58:54.305Z"
 ---
 
 # § 4403. Ingredient reporting

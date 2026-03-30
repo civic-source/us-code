@@ -3,9 +3,9 @@ title: "Section 1193 - Modification of plan"
 usc_title: 11
 usc_section: "1193"
 chapter: 11
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "11 U.S.C. § 1193"
-generated_at: "2026-03-30T01:56:22.785Z"
+generated_at: "2026-03-30T01:58:29.759Z"
 ---
 
 # § 1193. Modification of plan

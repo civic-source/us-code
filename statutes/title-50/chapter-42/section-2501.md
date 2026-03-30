@@ -3,9 +3,9 @@ title: "Section 2501 - Definitions"
 usc_title: 50
 usc_section: "2501"
 chapter: 42
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "50 U.S.C. § 2501"
-generated_at: "2026-03-30T01:57:40.865Z"
+generated_at: "2026-03-30T02:00:49.196Z"
 ---
 
 # § 2501. Definitions

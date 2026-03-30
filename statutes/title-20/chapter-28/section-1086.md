@@ -3,9 +3,9 @@ title: "Section 1086 - Delegation of functions"
 usc_title: 20
 usc_section: "1086"
 chapter: 28
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 1086"
-generated_at: "2026-03-30T01:56:43.156Z"
+generated_at: "2026-03-30T01:59:01.660Z"
 ---
 
 # § 1086. Delegation of functions

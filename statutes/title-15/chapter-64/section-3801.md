@@ -3,9 +3,9 @@ title: "Section 3801 - Congressional statement of findings and declaration of po
 usc_title: 15
 usc_section: "3801"
 chapter: 64
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 3801"
-generated_at: "2026-03-30T01:56:25.584Z"
+generated_at: "2026-03-30T01:58:54.303Z"
 ---
 
 # § 3801. Congressional statement of findings and declaration of policy

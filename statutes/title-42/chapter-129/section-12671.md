@@ -3,9 +3,9 @@ title: "Section 12671 - Projects"
 usc_title: 42
 usc_section: "12671"
 chapter: 129
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 12671"
-generated_at: "2026-03-30T01:57:35.679Z"
+generated_at: "2026-03-30T02:00:43.090Z"
 ---
 
 # § 12671. Projects

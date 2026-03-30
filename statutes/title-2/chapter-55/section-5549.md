@@ -3,9 +3,9 @@ title: "Section 5549 - House Intern Resource Office"
 usc_title: 2
 usc_section: "5549"
 chapter: 55
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 5549"
-generated_at: "2026-03-30T01:55:42.936Z"
+generated_at: "2026-03-30T01:58:02.857Z"
 ---
 
 # § 5549. House Intern Resource Office

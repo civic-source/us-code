@@ -3,9 +3,9 @@ title: "Section 4212 - Risk management and mitigation in major defense acquisiti
 usc_title: 10
 usc_section: "4212"
 chapter: 322
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 4212"
-generated_at: "2026-03-30T01:56:18.466Z"
+generated_at: "2026-03-30T01:58:27.089Z"
 ---
 
 # § 4212. Risk management and mitigation in major defense acquisition programs and major systems

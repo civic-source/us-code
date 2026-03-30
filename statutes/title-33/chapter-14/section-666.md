@@ -3,9 +3,9 @@ title: "Section 666 - Noting conditions of navigable channels"
 usc_title: 33
 usc_section: "666"
 chapter: 14
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 666"
-generated_at: "2026-03-30T01:57:08.397Z"
+generated_at: "2026-03-30T01:59:51.313Z"
 ---
 
 # § 666. Noting conditions of navigable channels

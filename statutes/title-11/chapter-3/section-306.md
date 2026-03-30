@@ -3,9 +3,9 @@ title: "Section 306 - Limited appearance"
 usc_title: 11
 usc_section: "306"
 chapter: 3
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "11 U.S.C. § 306"
-generated_at: "2026-03-30T01:56:22.773Z"
+generated_at: "2026-03-30T01:58:29.745Z"
 ---
 
 # § 306. Limited appearance

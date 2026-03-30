@@ -3,9 +3,9 @@ title: "Section 308d - Special pay: members of the Selected Reserve assigned to 
 usc_title: 37
 usc_section: "308d"
 chapter: 5
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "37 U.S.C. § 308d"
-generated_at: "2026-03-30T01:57:13.341Z"
+generated_at: "2026-03-30T02:00:14.932Z"
 ---
 
 # § 308d. Special pay: members of the Selected Reserve assigned to certain high priority units

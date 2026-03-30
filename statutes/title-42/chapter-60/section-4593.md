@@ -3,9 +3,9 @@ title: "Section 4593 - Payments"
 usc_title: 42
 usc_section: "4593"
 chapter: 60
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 4593"
-generated_at: "2026-03-30T01:57:35.459Z"
+generated_at: "2026-03-30T02:00:42.882Z"
 ---
 
 # § 4593. Payments

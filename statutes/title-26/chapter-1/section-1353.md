@@ -3,9 +3,9 @@ title: "Section 1353 - Notional shipping income"
 usc_title: 26
 usc_section: "1353"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 1353"
-generated_at: "2026-03-30T01:57:03.720Z"
+generated_at: "2026-03-30T01:59:46.140Z"
 ---
 
 # § 1353. Notional shipping income

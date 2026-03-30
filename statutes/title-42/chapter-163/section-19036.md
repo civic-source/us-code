@@ -3,9 +3,9 @@ title: "Section 19036 - Authorities"
 usc_title: 42
 usc_section: "19036"
 chapter: 163
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 19036"
-generated_at: "2026-03-30T01:57:35.782Z"
+generated_at: "2026-03-30T02:00:43.189Z"
 ---
 
 # § 19036. Authorities

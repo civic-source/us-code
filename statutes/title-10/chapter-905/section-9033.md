@@ -3,9 +3,9 @@ title: "Section 9033 - Chief of Staff"
 usc_title: 10
 usc_section: "9033"
 chapter: 905
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 9033"
-generated_at: "2026-03-30T01:56:18.503Z"
+generated_at: "2026-03-30T01:58:27.120Z"
 ---
 
 # § 9033. Chief of Staff

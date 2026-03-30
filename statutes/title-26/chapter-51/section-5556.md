@@ -3,9 +3,9 @@ title: "Section 5556 - Regulations"
 usc_title: 26
 usc_section: "5556"
 chapter: 51
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 5556"
-generated_at: "2026-03-30T01:57:03.775Z"
+generated_at: "2026-03-30T01:59:46.188Z"
 ---
 
 # § 5556. Regulations

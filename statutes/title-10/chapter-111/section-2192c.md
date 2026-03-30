@@ -3,9 +3,9 @@ title: "Section 2192c - Office for academic engagement relating to cyber activit
 usc_title: 10
 usc_section: "2192c"
 chapter: 111
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 2192c"
-generated_at: "2026-03-30T01:56:18.415Z"
+generated_at: "2026-03-30T01:58:27.044Z"
 ---
 
 # § 2192c. Office for academic engagement relating to cyber activities

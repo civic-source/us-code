@@ -3,9 +3,9 @@ title: "Section 15 - Postbaccalaureate achievement program authority"
 usc_title: 20
 usc_section: "15"
 chapter: 28
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 15"
-generated_at: "2026-03-30T01:56:43.141Z"
+generated_at: "2026-03-30T01:59:01.647Z"
 ---
 
 # § 1070a–15. Postbaccalaureate achievement program authority

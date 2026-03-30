@@ -3,9 +3,9 @@ title: "Section 3106 - Officer authorized to serve search warrant—(Rule)"
 usc_title: 18
 usc_section: "3106"
 chapter: 205
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "18 U.S.C. § 3106"
-generated_at: "2026-03-30T01:56:31.857Z"
+generated_at: "2026-03-30T01:59:16.376Z"
 ---
 
 # § 3106. Officer authorized to serve search warrant—(Rule)

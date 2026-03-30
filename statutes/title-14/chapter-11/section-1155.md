@@ -3,9 +3,9 @@ title: "Section 1155 - Contract termination"
 usc_title: 14
 usc_section: "1155"
 chapter: 11
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "14 U.S.C. § 1155"
-generated_at: "2026-03-30T01:56:21.701Z"
+generated_at: "2026-03-30T01:58:29.390Z"
 ---
 
 # § 1155. Contract termination

@@ -3,9 +3,9 @@ title: "Section 403f - Great Smoky Mountains National Park; extension of boundar
 usc_title: 16
 usc_section: "403f"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 403f"
-generated_at: "2026-03-30T01:56:36.235Z"
+generated_at: "2026-03-30T01:59:04.356Z"
 ---
 
 # § 403f. Great Smoky Mountains National Park; extension of boundaries

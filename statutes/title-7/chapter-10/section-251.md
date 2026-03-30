@@ -3,9 +3,9 @@ title: "Section 251 - Conditions for delivery of agricultural products"
 usc_title: 7
 usc_section: "251"
 chapter: 10
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "7 U.S.C. § 251"
-generated_at: "2026-03-30T01:55:52.333Z"
+generated_at: "2026-03-30T01:58:09.474Z"
 ---
 
 # § 251. Conditions for delivery of agricultural products

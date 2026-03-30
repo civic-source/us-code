@@ -3,9 +3,9 @@ title: "Section 736 - Payments to a retiring partner or a deceased partner’s s
 usc_title: 26
 usc_section: "736"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 736"
-generated_at: "2026-03-30T01:57:03.682Z"
+generated_at: "2026-03-30T01:59:46.104Z"
 ---
 
 # § 736. Payments to a retiring partner or a deceased partner’s successor in interest

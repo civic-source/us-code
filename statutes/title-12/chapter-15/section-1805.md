@@ -3,9 +3,9 @@ title: "Section 1805 - Omitted"
 usc_title: 12
 usc_section: "1805"
 chapter: 15
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 1805"
-generated_at: "2026-03-30T01:56:28.222Z"
+generated_at: "2026-03-30T01:58:32.698Z"
 ---
 
 # §§ 1801 to 1805. Omitted

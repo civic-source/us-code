@@ -3,9 +3,9 @@ title: "Section 63 - Penalties; acts of agents deemed acts of principals"
 usc_title: 21
 usc_section: "63"
 chapter: 3
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "21 U.S.C. § 63"
-generated_at: "2026-03-30T01:56:47.438Z"
+generated_at: "2026-03-30T01:59:20.922Z"
 ---
 
 # § 63. Penalties; acts of agents deemed acts of principals

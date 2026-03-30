@@ -3,9 +3,9 @@ title: "Section 123c - Transferred"
 usc_title: 2
 usc_section: "123c"
 chapter: 4
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 123c"
-generated_at: "2026-03-30T01:55:42.891Z"
+generated_at: "2026-03-30T01:58:02.808Z"
 ---
 
 # § 123c. Transferred

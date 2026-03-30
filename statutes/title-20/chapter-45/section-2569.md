@@ -3,9 +3,9 @@ title: "Section 2569 - Authorization of appropriations for Humphrey Institute an
 usc_title: 20
 usc_section: "2569"
 chapter: 45
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 2569"
-generated_at: "2026-03-30T01:56:43.214Z"
+generated_at: "2026-03-30T01:59:01.712Z"
 ---
 
 # § 2569. Authorization of appropriations for Humphrey Institute and Dirksen Center

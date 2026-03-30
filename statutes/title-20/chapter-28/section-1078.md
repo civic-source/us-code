@@ -3,9 +3,9 @@ title: "Section 1078 - Federal payments to reduce student interest costs"
 usc_title: 20
 usc_section: "1078"
 chapter: 28
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 1078"
-generated_at: "2026-03-30T01:56:43.148Z"
+generated_at: "2026-03-30T01:59:01.653Z"
 ---
 
 # § 1078. Federal payments to reduce student interest costs

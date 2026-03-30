@@ -3,9 +3,9 @@ title: "Section 4241 - Determination of mental competency to stand trial to unde
 usc_title: 18
 usc_section: "4241"
 chapter: 313
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "18 U.S.C. § 4241"
-generated_at: "2026-03-30T01:56:31.873Z"
+generated_at: "2026-03-30T01:59:16.391Z"
 ---
 
 # § 4241. Determination of mental competency to stand trial to undergo postrelease proceedings 1 1 So in original. Probably should be “stand trial or to undergo postrelease proceedings”.

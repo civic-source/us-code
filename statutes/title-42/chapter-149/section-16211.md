@@ -3,9 +3,9 @@ title: "Section 16211 - Distributed energy and electric energy systems"
 usc_title: 42
 usc_section: "16211"
 chapter: 149
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 16211"
-generated_at: "2026-03-30T01:57:35.722Z"
+generated_at: "2026-03-30T02:00:43.130Z"
 ---
 
 # § 16211. Distributed energy and electric energy systems

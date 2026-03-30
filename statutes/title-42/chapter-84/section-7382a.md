@@ -3,9 +3,9 @@ title: "Section 7382a - Purpose; designation"
 usc_title: 42
 usc_section: "7382a"
 chapter: 84
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 7382a"
-generated_at: "2026-03-30T01:57:35.540Z"
+generated_at: "2026-03-30T02:00:42.958Z"
 ---
 
 # § 7382a. Purpose; designation

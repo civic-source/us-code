@@ -3,9 +3,9 @@ title: "Section 286 - Sending child to school out of State without consent"
 usc_title: 25
 usc_section: "286"
 chapter: 7
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "25 U.S.C. § 286"
-generated_at: "2026-03-30T01:56:48.677Z"
+generated_at: "2026-03-30T01:59:21.888Z"
 ---
 
 # § 286. Sending child to school out of State without consent

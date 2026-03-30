@@ -3,9 +3,9 @@ title: "Section 2 - Multistate conservation grant program"
 usc_title: 16
 usc_section: "2"
 chapter: 5
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T01:56:36.329Z"
+generated_at: "2026-03-30T01:59:04.566Z"
 ---
 
 # § 669h–2. Multistate conservation grant program

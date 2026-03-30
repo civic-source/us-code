@@ -3,9 +3,9 @@ title: "Section 83 - Homestead or desert-land and other entries"
 usc_title: 30
 usc_section: "83"
 chapter: 3
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "30 U.S.C. § 83"
-generated_at: "2026-03-30T01:56:54.349Z"
+generated_at: "2026-03-30T01:59:46.572Z"
 ---
 
 # § 83. Homestead or desert-land and other entries

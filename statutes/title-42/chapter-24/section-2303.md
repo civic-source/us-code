@@ -3,9 +3,9 @@ title: "Section 2303 - Purpose of chapter"
 usc_title: 42
 usc_section: "2303"
 chapter: 24
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 2303"
-generated_at: "2026-03-30T01:57:35.417Z"
+generated_at: "2026-03-30T02:00:42.843Z"
 ---
 
 # § 2303. Purpose of chapter

@@ -3,9 +3,9 @@ title: "Section 40904 - Compensation by common carriers"
 usc_title: 46
 usc_section: "40904"
 chapter: 409
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "46 U.S.C. § 40904"
-generated_at: "2026-03-30T01:57:39.581Z"
+generated_at: "2026-03-30T02:00:50.909Z"
 ---
 
 # § 40904. Compensation by common carriers

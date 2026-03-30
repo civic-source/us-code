@@ -3,9 +3,9 @@ title: "Section 3352d - Reports on reciprocity for security clearances inside of
 usc_title: 50
 usc_section: "3352d"
 chapter: 45
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "50 U.S.C. § 3352d"
-generated_at: "2026-03-30T01:57:40.892Z"
+generated_at: "2026-03-30T02:00:49.224Z"
 ---
 
 # § 3352d. Reports on reciprocity for security clearances inside of departments and agencies

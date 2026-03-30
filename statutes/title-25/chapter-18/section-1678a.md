@@ -3,9 +3,9 @@ title: "Section 1678a - North Dakota and South Dakota as contract health service
 usc_title: 25
 usc_section: "1678a"
 chapter: 18
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "25 U.S.C. § 1678a"
-generated_at: "2026-03-30T01:56:48.704Z"
+generated_at: "2026-03-30T01:59:21.914Z"
 ---
 
 # § 1678a. North Dakota and South Dakota as contract health service delivery area

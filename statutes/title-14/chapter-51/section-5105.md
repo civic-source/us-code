@@ -3,9 +3,9 @@ title: "Section 5105 - Inventory of real property"
 usc_title: 14
 usc_section: "5105"
 chapter: 51
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "14 U.S.C. § 5105"
-generated_at: "2026-03-30T01:56:21.710Z"
+generated_at: "2026-03-30T01:58:29.399Z"
 ---
 
 # § 5105. Inventory of real property

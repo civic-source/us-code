@@ -3,9 +3,9 @@ title: "Section 80507 - Employee protection"
 usc_title: 46
 usc_section: "80507"
 chapter: 805
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "46 U.S.C. § 80507"
-generated_at: "2026-03-30T01:57:39.604Z"
+generated_at: "2026-03-30T02:00:50.931Z"
 ---
 
 # § 80507. Employee protection

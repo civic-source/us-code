@@ -3,9 +3,9 @@ title: "Section 7152 - Transfers from Department of the Interior"
 usc_title: 42
 usc_section: "7152"
 chapter: 84
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 7152"
-generated_at: "2026-03-30T01:57:35.534Z"
+generated_at: "2026-03-30T02:00:42.952Z"
 ---
 
 # § 7152. Transfers from Department of the Interior

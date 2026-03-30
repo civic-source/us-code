@@ -3,9 +3,9 @@ title: "Section 717p - Joint boards"
 usc_title: 15
 usc_section: "717p"
 chapter: 15
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 717p"
-generated_at: "2026-03-30T01:56:25.499Z"
+generated_at: "2026-03-30T01:58:54.226Z"
 ---
 
 # § 717p. Joint boards

@@ -3,9 +3,9 @@ title: "Section 4642 - Duties"
 usc_title: 19
 usc_section: "4642"
 chapter: 29
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "19 U.S.C. § 4642"
-generated_at: "2026-03-30T01:56:33.561Z"
+generated_at: "2026-03-30T01:58:58.993Z"
 ---
 
 # § 4642. Duties

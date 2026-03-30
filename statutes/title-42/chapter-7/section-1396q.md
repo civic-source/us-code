@@ -3,9 +3,9 @@ title: "Section 1396q - Application of provisions of subchapter II relating to s
 usc_title: 42
 usc_section: "1396q"
 chapter: 7
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 1396q"
-generated_at: "2026-03-30T01:57:35.306Z"
+generated_at: "2026-03-30T02:00:42.738Z"
 ---
 
 # § 1396q. Application of provisions of subchapter II relating to subpoenas

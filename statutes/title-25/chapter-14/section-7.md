@@ -3,9 +3,9 @@ title: "Section 7 - Omitted"
 usc_title: 25
 usc_section: "7"
 chapter: 14
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "25 U.S.C. § 7"
-generated_at: "2026-03-30T01:56:48.690Z"
+generated_at: "2026-03-30T01:59:21.900Z"
 ---
 
 # § 1300m–7. Omitted

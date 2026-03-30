@@ -3,9 +3,9 @@ title: "Section 1121 - Congressional declaration of policy"
 usc_title: 33
 usc_section: "1121"
 chapter: 22
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 1121"
-generated_at: "2026-03-30T01:57:08.409Z"
+generated_at: "2026-03-30T01:59:51.326Z"
 ---
 
 # § 1121. Congressional declaration of policy

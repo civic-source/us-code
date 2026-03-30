@@ -3,9 +3,9 @@ title: "Section 1663 - Office of Direct Service Tribes"
 usc_title: 25
 usc_section: "1663"
 chapter: 18
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "25 U.S.C. § 1663"
-generated_at: "2026-03-30T01:56:48.701Z"
+generated_at: "2026-03-30T01:59:21.911Z"
 ---
 
 # § 1663. Office of Direct Service Tribes

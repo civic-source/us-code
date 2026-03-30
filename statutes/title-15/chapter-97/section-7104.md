@@ -3,9 +3,9 @@ title: "Section 7104 - Reports from the Interagency Committee"
 usc_title: 15
 usc_section: "7104"
 chapter: 97
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 7104"
-generated_at: "2026-03-30T01:56:25.606Z"
+generated_at: "2026-03-30T01:58:54.324Z"
 ---
 
 # § 7104. Reports from the Interagency Committee

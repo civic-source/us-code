@@ -3,9 +3,9 @@ title: "Section 1501 - Lands in Territories"
 usc_title: 48
 usc_section: "1501"
 chapter: 11
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "48 U.S.C. § 1501"
-generated_at: "2026-03-30T01:57:38.481Z"
+generated_at: "2026-03-30T02:00:46.920Z"
 ---
 
 # § 1501. Lands in Territories

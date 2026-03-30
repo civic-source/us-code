@@ -3,9 +3,9 @@ title: "Section 104906 - Protection of right of individuals to bear arms"
 usc_title: 54
 usc_section: "104906"
 chapter: 1049
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "54 U.S.C. § 104906"
-generated_at: "2026-03-30T01:57:46.944Z"
+generated_at: "2026-03-30T02:01:49.073Z"
 ---
 
 # § 104906. Protection of right of individuals to bear arms

@@ -3,9 +3,9 @@ title: "Section 5 - Mandatory actions applicable to level II"
 usc_title: 12
 usc_section: "5"
 chapter: 23
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-30T01:56:28.260Z"
+generated_at: "2026-03-30T01:58:32.739Z"
 ---
 
 # § 2279bb–5. Mandatory actions applicable to level II

@@ -3,9 +3,9 @@ title: "Section 543b - Acquisition of lands"
 usc_title: 16
 usc_section: "543b"
 chapter: 2
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 543b"
-generated_at: "2026-03-30T01:56:36.313Z"
+generated_at: "2026-03-30T01:59:04.550Z"
 ---
 
 # § 543b. Acquisition of lands

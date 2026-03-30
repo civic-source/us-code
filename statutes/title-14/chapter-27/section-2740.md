@@ -3,9 +3,9 @@ title: "Section 2740 - Insignia for additional awards"
 usc_title: 14
 usc_section: "2740"
 chapter: 27
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "14 U.S.C. § 2740"
-generated_at: "2026-03-30T01:56:21.707Z"
+generated_at: "2026-03-30T01:58:29.394Z"
 ---
 
 # § 2740. Insignia for additional awards

@@ -3,9 +3,9 @@ title: "Section 1734 - Court record lost or destroyed, generally"
 usc_title: 28
 usc_section: "1734"
 chapter: 115
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "28 U.S.C. § 1734"
-generated_at: "2026-03-30T01:56:55.368Z"
+generated_at: "2026-03-30T01:59:41.071Z"
 ---
 
 # § 1734. Court record lost or destroyed, generally

@@ -3,9 +3,9 @@ title: "Section 55317 - Repealed. Pub. L. 113–67, div. A, title VI, § 602(a) 
 usc_title: 46
 usc_section: "55317"
 chapter: 553
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "46 U.S.C. § 55317"
-generated_at: "2026-03-30T01:57:39.595Z"
+generated_at: "2026-03-30T02:00:50.922Z"
 ---
 
 # [§§ 55316, 55317. Repealed. Pub. L. 113–67, div. A, title VI, § 602(a) , Dec. 26, 2013 , 127 Stat. 1188 ]

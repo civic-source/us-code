@@ -3,9 +3,9 @@ title: "Section 81f - Authorization of appropriation"
 usc_title: 16
 usc_section: "81f"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 81f"
-generated_at: "2026-03-30T01:56:36.219Z"
+generated_at: "2026-03-30T01:59:04.338Z"
 ---
 
 # § 81f. Authorization of appropriation

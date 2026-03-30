@@ -3,9 +3,9 @@ title: "Section 230i - Report to Congressional committees"
 usc_title: 16
 usc_section: "230i"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 230i"
-generated_at: "2026-03-30T01:56:36.227Z"
+generated_at: "2026-03-30T01:59:04.347Z"
 ---
 
 # § 230i. Report to Congressional committees

@@ -3,9 +3,9 @@ title: "Section 1202a - Employee plans compliance resolution system"
 usc_title: 29
 usc_section: "1202a"
 chapter: 18
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "29 U.S.C. § 1202a"
-generated_at: "2026-03-30T01:56:56.280Z"
+generated_at: "2026-03-30T01:59:47.515Z"
 ---
 
 # § 1202a. Employee plans compliance resolution system

@@ -3,9 +3,9 @@ title: "Section 1408c - Grants-in-aid by Federal Government"
 usc_title: 48
 usc_section: "1408c"
 chapter: 7
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "48 U.S.C. § 1408c"
-generated_at: "2026-03-30T01:57:38.478Z"
+generated_at: "2026-03-30T02:00:46.915Z"
 ---
 
 # § 1408c. Grants-in-aid by Federal Government

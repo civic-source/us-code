@@ -3,9 +3,9 @@ title: "Section 920b - Art. 120b. Rape and sexual assault of a child"
 usc_title: 10
 usc_section: "920b"
 chapter: 47
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 920b"
-generated_at: "2026-03-30T01:56:18.359Z"
+generated_at: "2026-03-30T01:58:26.998Z"
 ---
 
 # § 920b. Art. 120b. Rape and sexual assault of a child

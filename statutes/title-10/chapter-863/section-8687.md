@@ -3,9 +3,9 @@ title: "Section 8687 - Status of Government rights in the designs of vessels, bo
 usc_title: 10
 usc_section: "8687"
 chapter: 863
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 8687"
-generated_at: "2026-03-30T01:56:18.497Z"
+generated_at: "2026-03-30T01:58:27.115Z"
 ---
 
 # § 8687. Status of Government rights in the designs of vessels, boats, and craft, and components thereof

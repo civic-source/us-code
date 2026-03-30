@@ -3,9 +3,9 @@ title: "Section 8922 - Agricultural biosecurity grant program"
 usc_title: 7
 usc_section: "8922"
 chapter: 114
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "7 U.S.C. § 8922"
-generated_at: "2026-03-30T01:55:52.494Z"
+generated_at: "2026-03-30T01:58:09.646Z"
 ---
 
 # § 8922. Agricultural biosecurity grant program

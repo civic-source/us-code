@@ -3,9 +3,9 @@ title: "Section 3302 - Prohibition on construction of buildings except by Admini
 usc_title: 40
 usc_section: "3302"
 chapter: 33
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "40 U.S.C. § 3302"
-generated_at: "2026-03-30T01:57:13.780Z"
+generated_at: "2026-03-30T02:00:16.505Z"
 ---
 
 # § 3302. Prohibition on construction of buildings except by Administrator of General Services

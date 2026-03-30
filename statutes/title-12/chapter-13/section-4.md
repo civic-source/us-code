@@ -3,9 +3,9 @@ title: "Section 4 - Administration"
 usc_title: 12
 usc_section: "4"
 chapter: 13
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-30T01:56:28.213Z"
+generated_at: "2026-03-30T01:58:32.688Z"
 ---
 
 # § 1749aaa–4. Administration

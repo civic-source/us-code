@@ -3,9 +3,9 @@ title: "Section 12731b - Special rule for members with physical disabilities not
 usc_title: 10
 usc_section: "12731b"
 chapter: 1223
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 12731b"
-generated_at: "2026-03-30T01:56:18.519Z"
+generated_at: "2026-03-30T01:58:27.134Z"
 ---
 
 # § 12731b. Special rule for members with physical disabilities not incurred in line of duty

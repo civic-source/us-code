@@ -3,9 +3,9 @@ title: "Section 3031 - Time limitation for use of eligibility and entitlement"
 usc_title: 38
 usc_section: "3031"
 chapter: 30
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "38 U.S.C. § 3031"
-generated_at: "2026-03-30T01:57:15.708Z"
+generated_at: "2026-03-30T02:00:04.491Z"
 ---
 
 # § 3031. Time limitation for use of eligibility and entitlement

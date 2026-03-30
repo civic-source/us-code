@@ -3,9 +3,9 @@ title: "Section 6402 - Authority to make credits or refunds"
 usc_title: 26
 usc_section: "6402"
 chapter: 65
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 6402"
-generated_at: "2026-03-30T01:57:03.801Z"
+generated_at: "2026-03-30T01:59:46.213Z"
 ---
 
 # § 6402. Authority to make credits or refunds

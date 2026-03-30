@@ -3,9 +3,9 @@ title: "Section 1306 - Connecting minority communities"
 usc_title: 47
 usc_section: "1306"
 chapter: 12
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "47 U.S.C. § 1306"
-generated_at: "2026-03-30T01:57:41.763Z"
+generated_at: "2026-03-30T02:00:56.483Z"
 ---
 
 # § 1306. Connecting minority communities

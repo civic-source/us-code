@@ -3,9 +3,9 @@ title: "Section 6 - Information from other Federal departments and agencies; acq
 usc_title: 13
 usc_section: "6"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "13 U.S.C. § 6"
-generated_at: "2026-03-30T01:56:20.353Z"
+generated_at: "2026-03-30T01:58:30.292Z"
 ---
 
 # § 6. Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources

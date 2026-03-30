@@ -3,9 +3,9 @@ title: "Section 40B - Sustainable aviation fuel credit"
 usc_title: 26
 usc_section: "40B"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 40B"
-generated_at: "2026-03-30T01:57:03.507Z"
+generated_at: "2026-03-30T01:59:45.994Z"
 ---
 
 # § 40B. Sustainable aviation fuel credit

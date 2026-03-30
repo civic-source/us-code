@@ -3,9 +3,9 @@ title: "Section 8181 - Authorization of appropriations"
 usc_title: 22
 usc_section: "8181"
 chapter: 88
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 8181"
-generated_at: "2026-03-30T01:56:51.971Z"
+generated_at: "2026-03-30T01:59:25.577Z"
 ---
 
 # § 8181. Authorization of appropriations

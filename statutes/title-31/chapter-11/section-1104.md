@@ -3,9 +3,9 @@ title: "Section 1104 - Budget and appropriations authority of the President"
 usc_title: 31
 usc_section: "1104"
 chapter: 11
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "31 U.S.C. § 1104"
-generated_at: "2026-03-30T01:57:06.709Z"
+generated_at: "2026-03-30T01:59:59.617Z"
 ---
 
 # § 1104. Budget and appropriations authority of the President

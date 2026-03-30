@@ -3,9 +3,9 @@ title: "Section 8 - Authority of Secretary of the Interior over lands, contracts
 usc_title: 16
 usc_section: "8"
 chapter: 3
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T01:56:36.323Z"
+generated_at: "2026-03-30T01:59:04.560Z"
 ---
 
 # § 590z–8. Authority of Secretary of the Interior over lands, contracts, water rights, etc.

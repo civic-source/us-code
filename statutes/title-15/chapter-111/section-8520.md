@@ -3,9 +3,9 @@ title: "Section 8520 - United States Weather Research Program"
 usc_title: 15
 usc_section: "8520"
 chapter: 111
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 8520"
-generated_at: "2026-03-30T01:56:25.621Z"
+generated_at: "2026-03-30T01:58:54.336Z"
 ---
 
 # § 8520. United States Weather Research Program

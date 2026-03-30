@@ -3,9 +3,9 @@ title: "Section 77bbb - Necessity for regulation"
 usc_title: 15
 usc_section: "77bbb"
 chapter: 2
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 77bbb"
-generated_at: "2026-03-30T01:56:25.407Z"
+generated_at: "2026-03-30T01:58:54.145Z"
 ---
 
 # § 77bbb. Necessity for regulation

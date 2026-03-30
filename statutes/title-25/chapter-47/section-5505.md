@@ -3,9 +3,9 @@ title: "Section 5505 - Gross receipts from conveyed lands"
 usc_title: 25
 usc_section: "5505"
 chapter: 47
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "25 U.S.C. § 5505"
-generated_at: "2026-03-30T01:56:48.749Z"
+generated_at: "2026-03-30T01:59:21.957Z"
 ---
 
 # § 5505. Gross receipts from conveyed lands

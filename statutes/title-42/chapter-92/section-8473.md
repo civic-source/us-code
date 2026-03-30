@@ -3,9 +3,9 @@ title: "Section 8473 - Environmental impact statements under section 4332 of thi
 usc_title: 42
 usc_section: "8473"
 chapter: 92
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 8473"
-generated_at: "2026-03-30T01:57:35.595Z"
+generated_at: "2026-03-30T02:00:43.007Z"
 ---
 
 # § 8473. Environmental impact statements under section 4332 of this title

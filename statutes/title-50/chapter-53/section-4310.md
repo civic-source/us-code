@@ -3,9 +3,9 @@ title: "Section 4310 - Acts permitted; applications for patents, or registration
 usc_title: 50
 usc_section: "4310"
 chapter: 53
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "50 U.S.C. § 4310"
-generated_at: "2026-03-30T01:57:40.913Z"
+generated_at: "2026-03-30T02:00:49.246Z"
 ---
 
 # § 4310. Acts permitted; applications for patents, or registration of trade-marks or copyrights; payment of tax in relation thereto; licenses under enemy owned patent or copyright; statements by licensees; term and cancellation; suits against licensees; restraining infringements; powers of attorney; keeping secret inventions

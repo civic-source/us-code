@@ -3,9 +3,9 @@ title: "Section 988 - Prohibition on ownership or trading of stocks in certain c
 usc_title: 10
 usc_section: "988"
 chapter: 49
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 988"
-generated_at: "2026-03-30T01:56:18.365Z"
+generated_at: "2026-03-30T01:58:27.004Z"
 ---
 
 # § 988. Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense

@@ -3,9 +3,9 @@ title: "Section 4864 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "4864"
 chapter: 385
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 4864"
-generated_at: "2026-03-30T01:56:18.474Z"
+generated_at: "2026-03-30T01:58:27.096Z"
 ---
 
 # § 4864. Miscellaneous limitations on the procurement of goods other than United States goods

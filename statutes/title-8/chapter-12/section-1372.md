@@ -3,9 +3,9 @@ title: "Section 1372 - Program to collect information relating to nonimmigrant f
 usc_title: 8
 usc_section: "1372"
 chapter: 12
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "8 U.S.C. § 1372"
-generated_at: "2026-03-30T01:55:46.097Z"
+generated_at: "2026-03-30T01:58:05.785Z"
 ---
 
 # § 1372. Program to collect information relating to nonimmigrant foreign students and other exchange program participants

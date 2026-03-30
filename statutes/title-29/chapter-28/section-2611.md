@@ -3,9 +3,9 @@ title: "Section 2611 - Definitions"
 usc_title: 29
 usc_section: "2611"
 chapter: 28
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "29 U.S.C. § 2611"
-generated_at: "2026-03-30T01:56:56.293Z"
+generated_at: "2026-03-30T01:59:47.529Z"
 ---
 
 # § 2611. Definitions

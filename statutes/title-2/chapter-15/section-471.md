@@ -3,9 +3,9 @@ title: "Section 471 - Congressional findings and declaration of purpose"
 usc_title: 2
 usc_section: "471"
 chapter: 15
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 471"
-generated_at: "2026-03-30T01:55:42.900Z"
+generated_at: "2026-03-30T01:58:02.817Z"
 ---
 
 # § 471. Congressional findings and declaration of purpose

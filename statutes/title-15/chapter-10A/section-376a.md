@@ -3,9 +3,9 @@ title: "Section 376a - Delivery sales"
 usc_title: 15
 usc_section: "376a"
 chapter: 10
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 376a"
-generated_at: "2026-03-30T01:56:25.462Z"
+generated_at: "2026-03-30T01:58:54.190Z"
 ---
 
 # § 376a. Delivery sales

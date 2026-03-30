@@ -3,9 +3,9 @@ title: "Section 2347b - Purpose and need"
 usc_title: 33
 usc_section: "2347b"
 chapter: 36
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 2347b"
-generated_at: "2026-03-30T01:57:08.454Z"
+generated_at: "2026-03-30T01:59:51.369Z"
 ---
 
 # § 2347b. Purpose and need

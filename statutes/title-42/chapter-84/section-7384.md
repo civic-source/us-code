@@ -3,9 +3,9 @@ title: "Section 7384 - Findings; sense of Congress"
 usc_title: 42
 usc_section: "7384"
 chapter: 84
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 7384"
-generated_at: "2026-03-30T01:57:35.541Z"
+generated_at: "2026-03-30T02:00:42.958Z"
 ---
 
 # § 7384. Findings; sense of Congress

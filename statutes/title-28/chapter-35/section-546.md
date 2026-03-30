@@ -3,9 +3,9 @@ title: "Section 546 - Vacancies"
 usc_title: 28
 usc_section: "546"
 chapter: 35
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "28 U.S.C. § 546"
-generated_at: "2026-03-30T01:56:55.357Z"
+generated_at: "2026-03-30T01:59:41.059Z"
 ---
 
 # § 546. Vacancies

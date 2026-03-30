@@ -3,9 +3,9 @@ title: "Section 360oo - Prohibited acts"
 usc_title: 21
 usc_section: "360oo"
 chapter: 9
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "21 U.S.C. § 360oo"
-generated_at: "2026-03-30T01:56:47.472Z"
+generated_at: "2026-03-30T01:59:20.958Z"
 ---
 
 # § 360oo. Prohibited acts

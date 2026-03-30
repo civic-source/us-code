@@ -3,9 +3,9 @@ title: "Section 605 - Searching vessels for letters"
 usc_title: 39
 usc_section: "605"
 chapter: 6
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "39 U.S.C. § 605"
-generated_at: "2026-03-30T01:57:15.936Z"
+generated_at: "2026-03-30T02:00:02.601Z"
 ---
 
 # § 605. Searching vessels for letters

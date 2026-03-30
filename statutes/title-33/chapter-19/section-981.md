@@ -3,9 +3,9 @@ title: "Section 981 - Creation of Corporation"
 usc_title: 33
 usc_section: "981"
 chapter: 19
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 981"
-generated_at: "2026-03-30T01:57:08.409Z"
+generated_at: "2026-03-30T01:59:51.325Z"
 ---
 
 # § 981. Creation of Corporation

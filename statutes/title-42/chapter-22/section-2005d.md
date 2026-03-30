@@ -3,9 +3,9 @@ title: "Section 2005d - Eligibility of assisted project for aid under other acts
 usc_title: 42
 usc_section: "2005d"
 chapter: 22
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 2005d"
-generated_at: "2026-03-30T01:57:35.398Z"
+generated_at: "2026-03-30T02:00:42.825Z"
 ---
 
 # § 2005d. Eligibility of assisted project for aid under other acts; excluded costs

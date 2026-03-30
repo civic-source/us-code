@@ -3,9 +3,9 @@ title: "Section 20943 - Federal assistance in identification and location of sex
 usc_title: 34
 usc_section: "20943"
 chapter: 209
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "34 U.S.C. § 20943"
-generated_at: "2026-03-30T01:57:09.533Z"
+generated_at: "2026-03-30T01:59:58.808Z"
 ---
 
 # § 20943. Federal assistance in identification and location of sex offenders relocated as a result of a major disaster

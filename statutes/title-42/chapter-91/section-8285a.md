@@ -3,9 +3,9 @@ title: "Section 8285a - Definitions"
 usc_title: 42
 usc_section: "8285a"
 chapter: 91
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 8285a"
-generated_at: "2026-03-30T01:57:35.591Z"
+generated_at: "2026-03-30T02:00:43.004Z"
 ---
 
 # § 8285a. Definitions

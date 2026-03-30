@@ -3,9 +3,9 @@ title: "Section 3902 - Risk retention groups"
 usc_title: 15
 usc_section: "3902"
 chapter: 65
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 3902"
-generated_at: "2026-03-30T01:56:25.584Z"
+generated_at: "2026-03-30T01:58:54.303Z"
 ---
 
 # § 3902. Risk retention groups

@@ -3,9 +3,9 @@ title: "Section 12 - Repealed. Pub. L. 95–63, § 7(a) , July 5, 1977 , 91 Stat
 usc_title: 33
 usc_section: "12"
 chapter: 17
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 12"
-generated_at: "2026-03-30T01:57:08.403Z"
+generated_at: "2026-03-30T01:59:51.319Z"
 ---
 
 # §§ 857–6 to 857–12. Repealed. Pub. L. 95–63, § 7(a) , July 5, 1977 , 91 Stat. 267

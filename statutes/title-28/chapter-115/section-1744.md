@@ -3,9 +3,9 @@ title: "Section 1744 - Copies of United States Patent and Trademark Office docum
 usc_title: 28
 usc_section: "1744"
 chapter: 115
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "28 U.S.C. § 1744"
-generated_at: "2026-03-30T01:56:55.369Z"
+generated_at: "2026-03-30T01:59:41.072Z"
 ---
 
 # § 1744. Copies of United States Patent and Trademark Office documents, generally

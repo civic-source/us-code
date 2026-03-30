@@ -3,9 +3,9 @@ title: "Section 1149 - Excess leave and permissive temporary duty"
 usc_title: 10
 usc_section: "1149"
 chapter: 58
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 1149"
-generated_at: "2026-03-30T01:56:18.382Z"
+generated_at: "2026-03-30T01:58:27.018Z"
 ---
 
 # § 1149. Excess leave and permissive temporary duty

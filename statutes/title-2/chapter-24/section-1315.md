@@ -3,9 +3,9 @@ title: "Section 1315 - Rights and protections under Worker Adjustment and Retrai
 usc_title: 2
 usc_section: "1315"
 chapter: 24
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 1315"
-generated_at: "2026-03-30T01:55:42.911Z"
+generated_at: "2026-03-30T01:58:02.831Z"
 ---
 
 # § 1315. Rights and protections under Worker Adjustment and Retraining Notification Act

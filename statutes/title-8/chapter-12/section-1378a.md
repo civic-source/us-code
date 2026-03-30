@@ -3,9 +3,9 @@ title: "Section 1378a - Report on aliens detained"
 usc_title: 8
 usc_section: "1378a"
 chapter: 12
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "8 U.S.C. § 1378a"
-generated_at: "2026-03-30T01:55:46.098Z"
+generated_at: "2026-03-30T01:58:05.787Z"
 ---
 
 # § 1378a. Report on aliens detained

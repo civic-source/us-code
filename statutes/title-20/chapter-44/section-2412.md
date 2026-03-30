@@ -3,9 +3,9 @@ title: "Section 2412 - Prohibition on use of funds to induce out-of-State reloca
 usc_title: 20
 usc_section: "2412"
 chapter: 44
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 2412"
-generated_at: "2026-03-30T01:56:43.213Z"
+generated_at: "2026-03-30T01:59:01.712Z"
 ---
 
 # § 2412. Prohibition on use of funds to induce out-of-State relocation of businesses

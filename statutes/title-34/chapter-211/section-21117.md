@@ -3,9 +3,9 @@ title: "Section 21117 - Authorization of appropriations"
 usc_title: 34
 usc_section: "21117"
 chapter: 211
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "34 U.S.C. § 21117"
-generated_at: "2026-03-30T01:57:09.534Z"
+generated_at: "2026-03-30T01:59:58.810Z"
 ---
 
 # § 21117. Authorization of appropriations

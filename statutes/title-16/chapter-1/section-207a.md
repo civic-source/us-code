@@ -3,9 +3,9 @@ title: "Section 207a - Application of Federal Power Act to lands acquired under 
 usc_title: 16
 usc_section: "207a"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 207a"
-generated_at: "2026-03-30T01:56:36.225Z"
+generated_at: "2026-03-30T01:59:04.345Z"
 ---
 
 # § 207a. Application of Federal Power Act to lands acquired under section 207

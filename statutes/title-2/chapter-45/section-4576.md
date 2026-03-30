@@ -3,9 +3,9 @@ title: "Section 4576 - Availability of appropriated funds for payment to an indi
 usc_title: 2
 usc_section: "4576"
 chapter: 45
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 4576"
-generated_at: "2026-03-30T01:55:42.931Z"
+generated_at: "2026-03-30T01:58:02.852Z"
 ---
 
 # § 4576. Availability of appropriated funds for payment to an individual of pay from more than one position; conditions

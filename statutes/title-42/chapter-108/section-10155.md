@@ -3,9 +3,9 @@ title: "Section 10155 - Storage of spent nuclear fuel"
 usc_title: 42
 usc_section: "10155"
 chapter: 108
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 10155"
-generated_at: "2026-03-30T01:57:35.634Z"
+generated_at: "2026-03-30T02:00:43.044Z"
 ---
 
 # § 10155. Storage of spent nuclear fuel

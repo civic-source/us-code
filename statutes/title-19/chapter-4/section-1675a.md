@@ -3,9 +3,9 @@ title: "Section 1675a - Special rules for section 1675(b) and 1675(c) reviews"
 usc_title: 19
 usc_section: "1675a"
 chapter: 4
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "19 U.S.C. § 1675a"
-generated_at: "2026-03-30T01:56:33.510Z"
+generated_at: "2026-03-30T01:58:58.939Z"
 ---
 
 # § 1675a. Special rules for section 1675(b) and 1675(c) reviews

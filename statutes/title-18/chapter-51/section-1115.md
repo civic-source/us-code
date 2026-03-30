@@ -3,9 +3,9 @@ title: "Section 1115 - Misconduct or neglect of ship officers"
 usc_title: 18
 usc_section: "1115"
 chapter: 51
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "18 U.S.C. § 1115"
-generated_at: "2026-03-30T01:56:31.832Z"
+generated_at: "2026-03-30T01:59:16.351Z"
 ---
 
 # § 1115. Misconduct or neglect of ship officers

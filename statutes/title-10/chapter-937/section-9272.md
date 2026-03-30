@@ -3,9 +3,9 @@ title: "Section 9272 - Air Force cross: award"
 usc_title: 10
 usc_section: "9272"
 chapter: 937
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 9272"
-generated_at: "2026-03-30T01:56:18.504Z"
+generated_at: "2026-03-30T01:58:27.121Z"
 ---
 
 # § 9272. Air Force cross: award

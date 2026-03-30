@@ -3,9 +3,9 @@ title: "Section 8061 - Department of the Navy: composition"
 usc_title: 10
 usc_section: "8061"
 chapter: 807
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 8061"
-generated_at: "2026-03-30T01:56:18.487Z"
+generated_at: "2026-03-30T01:58:27.107Z"
 ---
 
 # § 8061. Department of the Navy: composition

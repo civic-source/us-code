@@ -3,9 +3,9 @@ title: "Section 3204 - International Trade Commission reports on impact of this 
 usc_title: 19
 usc_section: "3204"
 chapter: 20
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "19 U.S.C. § 3204"
-generated_at: "2026-03-30T01:56:33.541Z"
+generated_at: "2026-03-30T01:58:58.971Z"
 ---
 
 # § 3204. International Trade Commission reports on impact of this chapter

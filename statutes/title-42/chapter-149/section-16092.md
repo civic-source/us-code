@@ -3,9 +3,9 @@ title: "Section 16092 - Diesel truck retrofit and fleet modernization program"
 usc_title: 42
 usc_section: "16092"
 chapter: 149
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 16092"
-generated_at: "2026-03-30T01:57:35.717Z"
+generated_at: "2026-03-30T02:00:43.126Z"
 ---
 
 # § 16092. Diesel truck retrofit and fleet modernization program

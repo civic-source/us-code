@@ -3,9 +3,9 @@ title: "Section 1453 - Applications"
 usc_title: 20
 usc_section: "1453"
 chapter: 33
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 1453"
-generated_at: "2026-03-30T01:56:43.203Z"
+generated_at: "2026-03-30T01:59:01.702Z"
 ---
 
 # § 1453. Applications

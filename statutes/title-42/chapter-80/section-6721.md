@@ -3,9 +3,9 @@ title: "Section 6721 - Congressional findings of fact and declaration of policy"
 usc_title: 42
 usc_section: "6721"
 chapter: 80
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 6721"
-generated_at: "2026-03-30T01:57:35.516Z"
+generated_at: "2026-03-30T02:00:42.935Z"
 ---
 
 # § 6721. Congressional findings of fact and declaration of policy

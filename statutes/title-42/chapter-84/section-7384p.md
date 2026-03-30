@@ -3,9 +3,9 @@ title: "Section 7384p - Responsibilities of Secretary of Health and Human Servic
 usc_title: 42
 usc_section: "7384p"
 chapter: 84
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 7384p"
-generated_at: "2026-03-30T01:57:35.542Z"
+generated_at: "2026-03-30T02:00:42.960Z"
 ---
 
 # § 7384p. Responsibilities of Secretary of Health and Human Services

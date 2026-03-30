@@ -3,9 +3,9 @@ title: "Section 722 - Omitted"
 usc_title: 15
 usc_section: "722"
 chapter: 16
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 722"
-generated_at: "2026-03-30T01:56:25.501Z"
+generated_at: "2026-03-30T01:58:54.229Z"
 ---
 
 # §§ 721, 722. Omitted

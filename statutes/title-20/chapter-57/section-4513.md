@@ -3,9 +3,9 @@ title: "Section 4513 - Administrative provisions"
 usc_title: 20
 usc_section: "4513"
 chapter: 57
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 4513"
-generated_at: "2026-03-30T01:56:43.222Z"
+generated_at: "2026-03-30T01:59:01.721Z"
 ---
 
 # § 4513. Administrative provisions

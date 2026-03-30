@@ -3,9 +3,9 @@ title: "Section 2707 - Recovery by foreign claimants"
 usc_title: 33
 usc_section: "2707"
 chapter: 40
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "33 U.S.C. § 2707"
-generated_at: "2026-03-30T01:57:08.458Z"
+generated_at: "2026-03-30T01:59:51.373Z"
 ---
 
 # § 2707. Recovery by foreign claimants

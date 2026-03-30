@@ -3,9 +3,9 @@ title: "Section 3484 - Subpoenas—(Rule)"
 usc_title: 18
 usc_section: "3484"
 chapter: 223
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "18 U.S.C. § 3484"
-generated_at: "2026-03-30T01:56:31.862Z"
+generated_at: "2026-03-30T01:59:16.381Z"
 ---
 
 # § 3484. Subpoenas—(Rule)

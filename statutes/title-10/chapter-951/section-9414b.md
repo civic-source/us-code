@@ -3,9 +3,9 @@ title: "Section 9414b - United States Air Force Institute of Technology: adminis
 usc_title: 10
 usc_section: "9414b"
 chapter: 951
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 9414b"
-generated_at: "2026-03-30T01:56:18.506Z"
+generated_at: "2026-03-30T01:58:27.122Z"
 ---
 
 # § 9414b. United States Air Force Institute of Technology: administration

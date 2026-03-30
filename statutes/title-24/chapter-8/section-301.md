@@ -3,9 +3,9 @@ title: "Section 301 - Ancon Hospital to be known as Gorgas Hospital"
 usc_title: 24
 usc_section: "301"
 chapter: 8
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "24 U.S.C. § 301"
-generated_at: "2026-03-30T01:56:46.547Z"
+generated_at: "2026-03-30T01:59:19.560Z"
 ---
 
 # § 301. Ancon Hospital to be known as Gorgas Hospital

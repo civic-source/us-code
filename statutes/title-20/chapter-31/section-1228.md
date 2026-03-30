@@ -3,9 +3,9 @@ title: "Section 1228 - Repealed. Pub. L. 116–260, div. H, title III, § 314(a)
 usc_title: 20
 usc_section: "1228"
 chapter: 31
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "20 U.S.C. § 1228"
-generated_at: "2026-03-30T01:56:43.192Z"
+generated_at: "2026-03-30T01:59:01.692Z"
 ---
 
 # § 1228. Repealed. Pub. L. 116–260, div. H, title III, § 314(a) , Dec. 27, 2020 , 134 Stat. 1610

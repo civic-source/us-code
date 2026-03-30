@@ -3,9 +3,9 @@ title: "Section 667a - Omitted"
 usc_title: 16
 usc_section: "667a"
 chapter: 5
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 667a"
-generated_at: "2026-03-30T01:56:36.327Z"
+generated_at: "2026-03-30T01:59:04.563Z"
 ---
 
 # § 667a. Omitted

@@ -3,9 +3,9 @@ title: "Section 2656h - International credit reports"
 usc_title: 22
 usc_section: "2656h"
 chapter: 38
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "22 U.S.C. § 2656h"
-generated_at: "2026-03-30T01:56:51.895Z"
+generated_at: "2026-03-30T01:59:25.500Z"
 ---
 
 # § 2656h. International credit reports

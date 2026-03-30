@@ -3,9 +3,9 @@ title: "Section 2090 - Grant program for carbon monoxide poisoning prevention"
 usc_title: 15
 usc_section: "2090"
 chapter: 47
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 2090"
-generated_at: "2026-03-30T01:56:25.552Z"
+generated_at: "2026-03-30T01:58:54.274Z"
 ---
 
 # § 2090. Grant program for carbon monoxide poisoning prevention

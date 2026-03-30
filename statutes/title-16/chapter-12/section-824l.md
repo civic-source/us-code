@@ -3,9 +3,9 @@ title: "Section 824l - Information requirements"
 usc_title: 16
 usc_section: "824l"
 chapter: 12
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 824l"
-generated_at: "2026-03-30T01:56:36.347Z"
+generated_at: "2026-03-30T01:59:04.584Z"
 ---
 
 # § 824l. Information requirements

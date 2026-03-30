@@ -3,9 +3,9 @@ title: "Section 5 - Applicability to certain uranium employees"
 usc_title: 42
 usc_section: "5"
 chapter: 84
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T01:57:35.543Z"
+generated_at: "2026-03-30T02:00:42.961Z"
 ---
 
 # § 7385s–5. Applicability to certain uranium employees

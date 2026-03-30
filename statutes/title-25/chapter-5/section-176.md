@@ -3,9 +3,9 @@ title: "Section 176 - Survey of reservations"
 usc_title: 25
 usc_section: "176"
 chapter: 5
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "25 U.S.C. § 176"
-generated_at: "2026-03-30T01:56:48.676Z"
+generated_at: "2026-03-30T01:59:21.887Z"
 ---
 
 # § 176. Survey of reservations

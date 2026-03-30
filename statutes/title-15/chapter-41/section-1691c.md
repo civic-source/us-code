@@ -3,9 +3,9 @@ title: "Section 1691c - Administrative enforcement"
 usc_title: 15
 usc_section: "1691c"
 chapter: 41
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "15 U.S.C. § 1691c"
-generated_at: "2026-03-30T01:56:25.538Z"
+generated_at: "2026-03-30T01:58:54.262Z"
 ---
 
 # § 1691c. Administrative enforcement

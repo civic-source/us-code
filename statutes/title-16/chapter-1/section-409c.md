@@ -3,9 +3,9 @@ title: "Section 409c - Board of advisers"
 usc_title: 16
 usc_section: "409c"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 409c"
-generated_at: "2026-03-30T01:56:36.237Z"
+generated_at: "2026-03-30T01:59:04.358Z"
 ---
 
 # § 409c. Board of advisers

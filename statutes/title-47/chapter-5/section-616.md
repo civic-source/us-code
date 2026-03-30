@@ -3,9 +3,9 @@ title: "Section 616 - Internet protocol-based relay services"
 usc_title: 47
 usc_section: "616"
 chapter: 5
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "47 U.S.C. § 616"
-generated_at: "2026-03-30T01:57:41.754Z"
+generated_at: "2026-03-30T02:00:56.475Z"
 ---
 
 # § 616. Internet protocol-based relay services

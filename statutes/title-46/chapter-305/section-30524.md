@@ -3,9 +3,9 @@ title: "Section 30524 - Limit of liability for personal injury or death"
 usc_title: 46
 usc_section: "30524"
 chapter: 305
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "46 U.S.C. § 30524"
-generated_at: "2026-03-30T01:57:39.577Z"
+generated_at: "2026-03-30T02:00:50.905Z"
 ---
 
 # § 30524. Limit of liability for personal injury or death

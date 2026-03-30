@@ -3,9 +3,9 @@ title: "Section 935 - Calculating a sequestration"
 usc_title: 2
 usc_section: "935"
 chapter: 20
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 935"
-generated_at: "2026-03-30T01:55:42.909Z"
+generated_at: "2026-03-30T01:58:02.828Z"
 ---
 
 # § 935. Calculating a sequestration

@@ -3,9 +3,9 @@ title: "Section 142d - Disbursing officer of the Library of Congress; disburseme
 usc_title: 2
 usc_section: "142d"
 chapter: 5
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 142d"
-generated_at: "2026-03-30T01:55:42.892Z"
+generated_at: "2026-03-30T01:58:02.809Z"
 ---
 
 # § 142d. Disbursing officer of the Library of Congress; disbursements in accordance with voucher; examination of vouchers; liability

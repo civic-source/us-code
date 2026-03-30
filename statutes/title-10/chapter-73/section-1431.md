@@ -3,9 +3,9 @@ title: "Section 1431 - Election of annuity: members of armed forces"
 usc_title: 10
 usc_section: "1431"
 chapter: 73
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "10 U.S.C. § 1431"
-generated_at: "2026-03-30T01:56:18.391Z"
+generated_at: "2026-03-30T01:58:27.024Z"
 ---
 
 # § 1431. Election of annuity: members of armed forces

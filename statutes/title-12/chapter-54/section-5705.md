@@ -3,9 +3,9 @@ title: "Section 5705 - Approving collateral support and other innovative credit 
 usc_title: 12
 usc_section: "5705"
 chapter: 54
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "12 U.S.C. § 5705"
-generated_at: "2026-03-30T01:56:28.319Z"
+generated_at: "2026-03-30T01:58:32.800Z"
 ---
 
 # § 5705. Approving collateral support and other innovative credit access and guarantee initiatives for small businesses and manufacturers

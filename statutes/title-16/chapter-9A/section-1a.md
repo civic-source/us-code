@@ -3,9 +3,9 @@ title: "Section 1a - Cooperative program for development of tuna and other laten
 usc_title: 16
 usc_section: "1a"
 chapter: 9
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "16 U.S.C. § 1a"
-generated_at: "2026-03-30T01:56:36.339Z"
+generated_at: "2026-03-30T01:59:04.576Z"
 ---
 
 # § 758e–1a. Cooperative program for development of tuna and other latent fishery resources in area; establishment; availability of project information

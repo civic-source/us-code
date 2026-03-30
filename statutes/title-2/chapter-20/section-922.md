@@ -3,9 +3,9 @@ title: "Section 922 - Judicial review"
 usc_title: 2
 usc_section: "922"
 chapter: 20
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "2 U.S.C. § 922"
-generated_at: "2026-03-30T01:55:42.909Z"
+generated_at: "2026-03-30T01:58:02.828Z"
 ---
 
 # § 922. Judicial review

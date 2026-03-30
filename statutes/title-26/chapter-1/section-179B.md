@@ -3,9 +3,9 @@ title: "Section 179B - Deduction for capital costs incurred in complying with En
 usc_title: 26
 usc_section: "179B"
 chapter: 1
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "26 U.S.C. § 179B"
-generated_at: "2026-03-30T01:57:03.555Z"
+generated_at: "2026-03-30T01:59:46.037Z"
 ---
 
 # § 179B. Deduction for capital costs incurred in complying with Environmental Protection Agency sulfur regulations

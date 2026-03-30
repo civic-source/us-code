@@ -3,9 +3,9 @@ title: "Section 3609 - Roles and responsibilities of the General Services Admini
 usc_title: 44
 usc_section: "3609"
 chapter: 36
-current_through: "PL 118-145"
+current_through: "PL 118-150"
 classification: "44 U.S.C. § 3609"
-generated_at: "2026-03-30T01:57:17.745Z"
+generated_at: "2026-03-30T02:00:18.362Z"
 ---
 
 # § 3609. Roles and responsibilities of the General Services Administration
