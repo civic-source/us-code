@@ -3,9 +3,9 @@ title: "Section 131 - Definitions"
 usc_title: 6
 usc_section: "131"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "6 U.S.C. § 131"
-generated_at: "2026-03-30T03:33:36.156Z"
+generated_at: "2026-03-30T03:35:56.433Z"
 status: "active"
 ---
 

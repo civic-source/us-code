@@ -3,9 +3,9 @@ title: "Section 81b - Establishment of zones"
 usc_title: 19
 usc_section: "81b"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "19 U.S.C. § 81b"
-generated_at: "2026-03-30T03:34:07.360Z"
+generated_at: "2026-03-30T03:36:24.419Z"
 status: "active"
 ---
 

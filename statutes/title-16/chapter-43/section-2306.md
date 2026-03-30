@@ -3,9 +3,9 @@ title: "Section 2306 - Authorization of appropriations; availability of amounts"
 usc_title: 16
 usc_section: "2306"
 chapter: 43
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 2306"
-generated_at: "2026-03-30T03:33:55.175Z"
+generated_at: "2026-03-30T03:36:30.230Z"
 status: "active"
 ---
 

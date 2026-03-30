@@ -3,9 +3,9 @@ title: "Section 723 - Service of notice in Board proceedings"
 usc_title: 49
 usc_section: "723"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "49 U.S.C. § 723"
-generated_at: "2026-03-30T03:35:36.137Z"
+generated_at: "2026-03-30T03:37:32.372Z"
 status: "active"
 ---
 

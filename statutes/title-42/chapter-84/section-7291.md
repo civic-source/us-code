@@ -3,9 +3,9 @@ title: "Section 7291 - Transfer and allocations of appropriations and personnel"
 usc_title: 42
 usc_section: "7291"
 chapter: 84
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 7291"
-generated_at: "2026-03-30T03:35:29.187Z"
+generated_at: "2026-03-30T03:37:24.356Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 650 - Supervisory and enforcement authority for small business l
 usc_title: 15
 usc_section: "650"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 650"
-generated_at: "2026-03-30T03:33:43.804Z"
+generated_at: "2026-03-30T03:36:13.269Z"
 status: "active"
 ---
 
@@ -80,7 +80,7 @@ status: "active"
     - **(A)** After a hearing under this subsection, and not later than 30 days after the Administrator notifies the parties that the case has been submitted for final decision, the Administrator shall render a decision in the matter (which shall include findings of fact upon which its decision is predicated), and shall issue and cause to be served upon each party to the proceeding an order or orders consistent with this section. The decision of the Administrator shall constitute final agency action for purposes of chapter 7 of title 5.
     - **(B)** An adversely aggrieved party shall have 20 days from the date of issuance of the order to seek judicial review in an appropriate district court.
 - **(h)**
-  - **(1)** In any proceeding under subsection (f)(4) of this section or subsection (g)(6)(C) of this section, the court may take exclusive jurisdiction of a small business lending company or a non-Federally regulated lender and appoint a receiver to hold and administer the assets of the company or lender.
+  - **(1)** In any proceeding under subsection (f)(4) of this section or subsection (g)(6)(C) 1 1 So in original. There is no subsec. (f)(4) or (g)(6)(C) of this section. of this section, the court may take exclusive jurisdiction of a small business lending company or a non-Federally regulated lender and appoint a receiver to hold and administer the assets of the company or lender.
   - **(2)** Upon request of the Administrator, the court may appoint the Administrator as a receiver under paragraph (1).
 - **(i)**
   - **(1)** If a small business lending company or a non-Federally regulated lender is not in compliance with capital requirements or is insolvent, the Administrator may take possession of the portfolio of loans guaranteed by the Administrator and sell such loans to a third party by means of a receiver appointed under subsection (h) of this section.

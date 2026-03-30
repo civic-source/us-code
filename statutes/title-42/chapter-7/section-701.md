@@ -3,9 +3,9 @@ title: "Section 701 - Authorization of appropriations; purposes; definitions"
 usc_title: 42
 usc_section: "701"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 701"
-generated_at: "2026-03-30T03:35:28.817Z"
+generated_at: "2026-03-30T03:37:23.835Z"
 status: "active"
 ---
 
@@ -40,8 +40,9 @@ status: "active"
   - **(1)**
     - **(A)** For the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance for the development and support of family-to-family health information centers described in paragraph (2), there is appropriated to the Secretary, out of any money in the Treasury not otherwise appropriated—
       - **(i)** $3,000,000 for fiscal year 2007;
-      - **(ii)** $4,000,000 for fiscal year 2008; and
-      - **(iii)** $5,000,000 for each of fiscal years 2009 through 2013.
+      - **(ii)** $4,000,000 for fiscal year 2008;
+      - **(iii)** $5,000,000 for each of fiscal years 2009 through 2013; and
+      - **(iv)** $2,500,000 for the portion of fiscal year 2014 before April 1, 2014 .
     - **(B)** Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
       - **(i)** be in addition to amounts appropriated under subsection (a) and retained under section 702(a)(1) of this title for the purpose of carrying out activities described in subsection (a)(2); and
       - **(ii)** remain available until expended.

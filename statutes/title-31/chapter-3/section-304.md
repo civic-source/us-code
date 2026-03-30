@@ -3,9 +3,9 @@ title: "Section 304 - United States Mint"
 usc_title: 31
 usc_section: "304"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "31 U.S.C. § 304"
-generated_at: "2026-03-30T03:34:46.876Z"
+generated_at: "2026-03-30T03:36:57.156Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 706 - Taxable years of partner and partnership"
 usc_title: 26
 usc_section: "706"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "26 U.S.C. § 706"
-generated_at: "2026-03-30T03:34:31.323Z"
+generated_at: "2026-03-30T03:36:52.310Z"
 status: "active"
 ---
 

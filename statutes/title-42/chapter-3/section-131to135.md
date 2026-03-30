@@ -3,9 +3,9 @@ title: "Section 131to135 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313
 usc_title: 42
 usc_section: "131to135"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 131to135"
-generated_at: "2026-03-30T03:35:28.632Z"
+generated_at: "2026-03-30T03:37:23.596Z"
 status: "repealed"
 ---
 

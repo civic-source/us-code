@@ -3,9 +3,9 @@ title: "Section 453 - Regulations"
 usc_title: 22
 usc_section: "453"
 chapter: 9
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 453"
-generated_at: "2026-03-30T03:34:15.071Z"
+generated_at: "2026-03-30T03:36:39.821Z"
 status: "active"
 ---
 

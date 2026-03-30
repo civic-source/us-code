@@ -3,9 +3,9 @@ title: "Section 574 - Acquisition, production, deployment, and support"
 usc_title: 14
 usc_section: "574"
 chapter: 15
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "14 U.S.C. § 574"
-generated_at: "2026-03-30T03:33:49.161Z"
+generated_at: "2026-03-30T03:36:06.896Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 110 - Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1
 usc_title: 23
 usc_section: "110"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "23 U.S.C. § 110"
-generated_at: "2026-03-30T03:34:12.614Z"
+generated_at: "2026-03-30T03:36:33.480Z"
 status: "repealed"
 ---
 

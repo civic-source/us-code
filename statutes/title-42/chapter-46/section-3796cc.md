@@ -3,9 +3,9 @@ title: "Section 3796cc - Grant authorization"
 usc_title: 42
 usc_section: "3796cc"
 chapter: 46
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 3796cc"
-generated_at: "2026-03-30T03:35:29.084Z"
+generated_at: "2026-03-30T03:37:24.202Z"
 status: "active"
 ---
 

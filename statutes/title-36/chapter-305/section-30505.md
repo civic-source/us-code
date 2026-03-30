@@ -3,9 +3,9 @@ title: "Section 30505 - Governing body"
 usc_title: 36
 usc_section: "30505"
 chapter: 305
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "36 U.S.C. § 30505"
-generated_at: "2026-03-30T03:34:49.232Z"
+generated_at: "2026-03-30T03:37:03.067Z"
 status: "active"
 ---
 

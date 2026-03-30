@@ -3,9 +3,9 @@ title: "Section 1891 - Investment in United States seafood processing facilities
 usc_title: 16
 usc_section: "1891"
 chapter: 38
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 1891"
-generated_at: "2026-03-30T03:33:55.171Z"
+generated_at: "2026-03-30T03:36:30.226Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4231to4233 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 198
 usc_title: 42
 usc_section: "4231to4233"
 chapter: 52
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 4231to4233"
-generated_at: "2026-03-30T03:35:29.101Z"
+generated_at: "2026-03-30T03:37:24.229Z"
 status: "repealed"
 ---
 

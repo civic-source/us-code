@@ -3,13 +3,13 @@ title: "Section 2671 - Review of certain documents before declassification and r
 usc_title: 50
 usc_section: "2671"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2671"
-generated_at: "2026-03-30T03:35:33.534Z"
+generated_at: "2026-03-30T03:37:33.598Z"
 status: "active"
 ---
 
 # § 2671. Review of certain documents before declassification and release
 
-- **(a)** The Secretary of Energy shall ensure that, before a document of the Department of Energy that contains national security information is released or declassified, such document is reviewed to determine whether it contains restricted data.
-- **(b)** The Secretary may not implement the automatic declassification provisions of Executive Order 12958 if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing restricted data.
+- **(a)** The Secretary of Energy shall ensure that, before a document of the Department of Energy that contains national security information is released or declassified, such document is reviewed to determine whether it contains Restricted Data.
+- **(b)** The Secretary may not implement the automatic declassification provisions of Executive Order 12958 if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing Restricted Data.

@@ -3,9 +3,9 @@ title: "Section 2296 - Increase not authorized in amounts of obligations issued,
 usc_title: 12
 usc_section: "2296"
 chapter: 24
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 2296"
-generated_at: "2026-03-30T03:33:47.388Z"
+generated_at: "2026-03-30T03:36:10.704Z"
 status: "active"
 ---
 

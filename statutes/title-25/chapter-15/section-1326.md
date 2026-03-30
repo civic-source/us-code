@@ -3,9 +3,9 @@ title: "Section 1326 - Special election"
 usc_title: 25
 usc_section: "1326"
 chapter: 15
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 1326"
-generated_at: "2026-03-30T03:34:13.454Z"
+generated_at: "2026-03-30T03:36:34.753Z"
 status: "active"
 ---
 

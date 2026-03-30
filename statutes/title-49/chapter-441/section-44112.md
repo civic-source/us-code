@@ -3,9 +3,9 @@ title: "Section 44112 - Limitation of liability"
 usc_title: 49
 usc_section: "44112"
 chapter: 441
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "49 U.S.C. § 44112"
-generated_at: "2026-03-30T03:35:36.209Z"
+generated_at: "2026-03-30T03:37:32.465Z"
 status: "active"
 ---
 

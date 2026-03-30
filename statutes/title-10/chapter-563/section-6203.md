@@ -3,9 +3,9 @@ title: "Section 6203 - Emergency medical treatment: reimbursement for expense"
 usc_title: 10
 usc_section: "6203"
 chapter: 563
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 6203"
-generated_at: "2026-03-30T03:33:33.051Z"
+generated_at: "2026-03-30T03:36:02.551Z"
 status: "active"
 ---
 

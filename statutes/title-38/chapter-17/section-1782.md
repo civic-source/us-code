@@ -3,9 +3,9 @@ title: "Section 1782 - Counseling, training, and mental health services for imme
 usc_title: 38
 usc_section: "1782"
 chapter: 17
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "38 U.S.C. § 1782"
-generated_at: "2026-03-30T03:34:51.028Z"
+generated_at: "2026-03-30T03:37:01.906Z"
 status: "active"
 ---
 

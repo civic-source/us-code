@@ -3,9 +3,9 @@ title: "Section 16456 - Applicability"
 usc_title: 42
 usc_section: "16456"
 chapter: 149
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 16456"
-generated_at: "2026-03-30T03:35:29.416Z"
+generated_at: "2026-03-30T03:37:24.635Z"
 status: "active"
 ---
 

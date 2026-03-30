@@ -3,9 +3,9 @@ title: "Section 8991 - Computation of retired pay"
 usc_title: 10
 usc_section: "8991"
 chapter: 871
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 8991"
-generated_at: "2026-03-30T03:33:33.072Z"
+generated_at: "2026-03-30T03:36:02.566Z"
 status: "active"
 ---
 

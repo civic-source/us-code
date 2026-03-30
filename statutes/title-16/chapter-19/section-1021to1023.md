@@ -3,9 +3,9 @@ title: "Section 1021to1023 - Repealed. Pub. L. 102–567, title VIII, § 814 , O
 usc_title: 16
 usc_section: "1021to1023"
 chapter: 19
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 1021to1023"
-generated_at: "2026-03-30T03:33:55.133Z"
+generated_at: "2026-03-30T03:36:30.180Z"
 status: "repealed"
 ---
 

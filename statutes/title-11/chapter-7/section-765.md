@@ -3,9 +3,9 @@ title: "Section 765 - Customer instructions"
 usc_title: 11
 usc_section: "765"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "11 U.S.C. § 765"
-generated_at: "2026-03-30T03:33:45.645Z"
+generated_at: "2026-03-30T03:36:14.103Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1032 - Absentee and Eastern Bands; authorization for use of fund
 usc_title: 25
 usc_section: "1032"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 1032"
-generated_at: "2026-03-30T03:34:13.445Z"
+generated_at: "2026-03-30T03:36:34.741Z"
 status: "active"
 ---
 

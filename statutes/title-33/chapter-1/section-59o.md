@@ -3,9 +3,9 @@ title: "Section 59o - Hackensack River, Hudson County, New Jersey"
 usc_title: 33
 usc_section: "59o"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "33 U.S.C. § 59o"
-generated_at: "2026-03-30T03:34:36.890Z"
+generated_at: "2026-03-30T03:36:55.395Z"
 status: "active"
 ---
 

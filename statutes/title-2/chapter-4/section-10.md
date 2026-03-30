@@ -1,15 +1,13 @@
 ---
-title: "Section 10 - Lump-sum allowances for House Minority Leader and Majority Whip"
+title: "Section 10 - Transferred"
 usc_title: 2
 usc_section: "10"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 10"
-generated_at: "2026-03-30T03:33:16.296Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 74a–10. Lump-sum allowances for House Minority Leader and Majority Whip
+# § 74a–10. Transferred
 
-- **(a)** The aggregate amount otherwise authorized to be appropriated for a fiscal year for the lump-sum allowance for the Office of the Minority Leader of the House of Representatives and the aggregate amount otherwise authorized to be appropriated for a fiscal year for the lump-sum allowance for the Office of the Majority Whip of the House of Representatives shall each be increased by $333,000.
-- **(b)** This section shall apply with respect to fiscal year 2000 and each succeeding fiscal year.

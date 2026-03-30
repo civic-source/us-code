@@ -3,9 +3,9 @@ title: "Section 2525 - Annual assessments and reports to the President and Congr
 usc_title: 50
 usc_section: "2525"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2525"
-generated_at: "2026-03-30T03:35:33.530Z"
+generated_at: "2026-03-30T03:37:33.594Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** The officials referred to in subsection (a) are the following:
   - **(1)** The head of each national security laboratory.
   - **(2)** The commander 1 1 So in original. Probably should be capitalized. of the United States Strategic Command.
-- **(c)** In support of the assessments required by subsection (a), the Administrator for Nuclear Security may establish teams, known as “dual validation teams”, to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
+- **(c)** In support of the assessments required by subsection (a), the Administrator may establish teams, known as “dual validation teams”, to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
   - **(1)** be comprised of weapons experts from the laboratory that does not have lead responsibility for fielding the warhead being evaluated;
   - **(2)** have access to all surveillance and underground test data for all stockpile systems for use in the independent evaluations;
   - **(3)** use all relevant available data to conduct independent calculations; and
@@ -35,20 +35,22 @@ status: "active"
   - **(3)** In the case of a report submitted by the head of a national security laboratory—
     - **(A)** a concise statement regarding the adequacy of the science-based tools and methods being used to determine the matters covered by the assessments;
     - **(B)** a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments;
-    - **(C)** a concise summary of the findings and recommendations of any teams under subsection (d) that relate to the assessments, together with a discussion of those findings and recommendations; and
-    - **(D)** a concise summary of the results of any independent evaluation conducted by a dual validation team under subsection (c).
-  - **(4)** In the case of a report submitted by the Commander of the United States Strategic Command, a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types.
+    - **(C)** a concise summary of the findings and recommendations of any teams under subsection (d) that relate to the assessments, together with a discussion of those findings and recommendations;
+    - **(D)** a concise summary of the results of any independent evaluation conducted by a dual validation team under subsection (c); and
+    - **(E)** a concise summary of any significant finding investigations initiated or active during the previous year for which the head of the national security laboratory has full or partial responsibility.
+  - **(4)** In the case of a report submitted by the Commander of the United States Strategic Command—
+    - **(A)** a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types; and
+    - **(B)** a summary of all major assembly releases in place as of the date of the report for the active and inactive nuclear weapon stockpiles.
   - **(5)** An identification and discussion of any matter having an adverse effect on the capability of the official submitting the report to accurately determine the matters covered by the assessments.
 - **(f)**
-  - **(1)** Not later than March 1 of each year, the Secretary of Defense and the Secretary of Energy shall submit to the President—
+  - **(1)** Not later than February 1 of each year, the Secretary of Defense and the Secretary of Energy shall submit to the President—
     - **(A)** each report, without change, submitted to either Secretary under subsection (e) during the preceding year;
     - **(B)** any comments that the Secretaries individually or jointly consider appropriate with respect to each such report;
     - **(C)** the conclusions that the Secretaries individually or jointly reach as to the safety, reliability, performance, and military effectiveness of the nuclear weapons stockpile of the United States; and
     - **(D)** any other information that the Secretaries individually or jointly consider appropriate.
   - **(2)** Not later than March 15 of each year, the President shall forward to Congress the matters received by the President under paragraph (1) for that year, together with any comments the President considers appropriate.
+  - **(3)** If the President does not forward to Congress the matters required under paragraph (2) by the date required by such paragraph, the officials specified in subsection (b) shall provide a briefing to the congressional defense committees not later than March 30 on the report such officials submitted to the Secretary concerned under subsection (e).
 - **(g)** Each submittal under subsection (f) shall be in classified form only, with the classification level required for each portion of such submittal marked appropriately.
-- **(h)** In this section:
-  - **(1)** The term “national security laboratory” has the meaning given such term in section 2471 of this title .
-  - **(2)** The term “Secretary concerned” means—
-    - **(A)** the Secretary of Energy, with respect to matters concerning the Department of Energy; and
-    - **(B)** the Secretary of Defense, with respect to matters concerning the Department of Defense.
+- **(h)** In this section, the term “Secretary concerned” means—
+  - **(1)** the Secretary of Energy, with respect to matters concerning the Department of Energy; and
+  - **(2)** the Secretary of Defense, with respect to matters concerning the Department of Defense.

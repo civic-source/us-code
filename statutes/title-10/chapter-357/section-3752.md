@@ -3,9 +3,9 @@ title: "Section 3752 - Medals: posthumous award and presentation"
 usc_title: 10
 usc_section: "3752"
 chapter: 357
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 3752"
-generated_at: "2026-03-30T03:33:33.036Z"
+generated_at: "2026-03-30T03:36:02.541Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3548 - Duties: warrant officers; limitations"
 usc_title: 10
 usc_section: "3548"
 chapter: 343
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 3548"
-generated_at: "2026-03-30T03:33:33.034Z"
+generated_at: "2026-03-30T03:36:02.540Z"
 status: "active"
 ---
 

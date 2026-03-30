@@ -3,9 +3,9 @@ title: "Section 3701 - Labor-management relations"
 usc_title: 22
 usc_section: "3701"
 chapter: 51
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 3701"
-generated_at: "2026-03-30T03:34:15.128Z"
+generated_at: "2026-03-30T03:36:39.908Z"
 status: "active"
 ---
 

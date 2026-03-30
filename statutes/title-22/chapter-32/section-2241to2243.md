@@ -3,9 +3,9 @@ title: "Section 2241to2243 - Repealed. Pub. L. 92–226 , pt. II, § 202(b), Feb
 usc_title: 22
 usc_section: "2241to2243"
 chapter: 32
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 2241to2243"
-generated_at: "2026-03-30T03:34:15.094Z"
+generated_at: "2026-03-30T03:36:39.854Z"
 status: "repealed"
 ---
 

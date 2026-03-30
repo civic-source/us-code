@@ -3,9 +3,9 @@ title: "Section 252to254 - Repealed. Pub. L. 95–393, § 3(a)(1) , Sept. 30, 19
 usc_title: 22
 usc_section: "252to254"
 chapter: 6
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 252to254"
-generated_at: "2026-03-30T03:34:15.049Z"
+generated_at: "2026-03-30T03:36:39.788Z"
 status: "repealed"
 ---
 

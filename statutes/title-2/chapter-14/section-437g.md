@@ -3,9 +3,9 @@ title: "Section 437g - Enforcement"
 usc_title: 2
 usc_section: "437g"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 437g"
-generated_at: "2026-03-30T03:33:16.310Z"
+generated_at: "2026-03-30T03:35:51.710Z"
 status: "active"
 ---
 
@@ -23,12 +23,15 @@ status: "active"
       - **(i)** No action by the Commission or any person, and no information derived, in connection with any conciliation attempt by the Commission under subparagraph (A) may be made public by the Commission without the written consent of the respondent and the Commission.
       - **(ii)** If a conciliation agreement is agreed upon by the Commission and the respondent, the Commission shall make public any conciliation agreement signed by both the Commission and the respondent. If the Commission makes a determination that a person has not violated this Act or chapter 95 or chapter 96 of title 26, the Commission shall make public such determination.
     - **(C)**
-      - **(i)** Notwithstanding subparagraph (A), in the case of a violation of any requirement of section 434(a) of this title , the Commission may—
+      - **(i)** Notwithstanding subparagraph (A), in the case of a violation of a qualified disclosure requirement, the Commission may—
         - **(I)** find that a person committed such a violation on the basis of information obtained pursuant to the procedures described in paragraphs (1) and (2); and
-        - **(II)** based on such finding, require the person to pay a civil money penalty in an amount determined under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
+        - **(II)** based on such finding, require the person to pay a civil money penalty in an amount determined, for violations of each qualified disclosure requirement, under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
       - **(ii)** The Commission may not make any determination adverse to a person under clause (i) until the person has been given written notice and an opportunity to be heard before the Commission.
       - **(iii)** Any person against whom an adverse determination is made under this subparagraph may obtain a review of such determination in the district court of the United States for the district in which the person resides, or transacts business, by filing in such court (prior to the expiration of the 30-day period which begins on the date the person receives notification of the determination) a written petition requesting that the determination be modified or set aside.
-      - **(iv)** This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000 , and that end on or before December 31, 2013 .
+      - **(iv)** In this subparagraph, the term “qualified disclosure requirement” means any requirement of—
+        - **(I)** subsections (a), (c), (e), (f), (g), or (i) of section 434 of this title ; or
+        - **(II)** section 437 of this title .
+      - **(v)** This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000 , and that end on or before December 31, 2018 .
   - **(5)**
     - **(A)** If the Commission believes that a violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may include a requirement that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $5,000 or an amount equal to any contribution or expenditure involved in such violation.
     - **(B)** If the Commission believes that a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may require that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation (or, in the case of a violation of section 441f of this title , which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation).

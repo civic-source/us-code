@@ -3,9 +3,9 @@ title: "Section 2124a2124b - Repealed. Pub. L. 104–288 , §§ 9(a), 11, Oct. 1
 usc_title: 22
 usc_section: "2124a2124b"
 chapter: 31
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 2124a2124b"
-generated_at: "2026-03-30T03:34:15.084Z"
+generated_at: "2026-03-30T03:36:39.840Z"
 status: "repealed"
 ---
 

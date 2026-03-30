@@ -3,15 +3,16 @@ title: "Section 2732 - Safety oversight and enforcement at defense nuclear facil
 usc_title: 50
 usc_section: "2732"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2732"
-generated_at: "2026-03-30T03:35:33.535Z"
+generated_at: "2026-03-30T03:37:33.601Z"
 status: "active"
 ---
 
 # § 2732. Safety oversight and enforcement at defense nuclear facilities
 
-- **(a)** The Secretary of Energy shall take appropriate actions to ensure that—
+The Secretary of Energy shall take appropriate actions to ensure that—
+
   - **(1)** officials of the Department of Energy who are responsible for independent oversight of matters relating to nuclear safety at defense nuclear facilities and enforcement of nuclear safety standards at such facilities maintain independence from officials who are engaged in, or who are advising persons who are engaged in, management of such facilities;
   - **(2)** the independent, internal oversight functions carried out by the Department include activities relating to—
     - **(A)** the assessment of the safety of defense nuclear facilities;
@@ -22,10 +23,3 @@ status: "active"
     - **(D)** the development of clear performance standards to be used in assessing the adequacy of the programs referred to in subparagraph (C)(ii);
   - **(3)** the Department has a system for bringing issues relating to nuclear safety at defense nuclear facilities to the attention of the officials of the Department (including the Secretary of Energy) who have authority to resolve such issues in an adequate and timely manner; and
   - **(4)** an adequate number of qualified personnel of the Department are assigned to oversee matters relating to nuclear safety at defense nuclear facilities and enforce nuclear safety standards at such facilities.
-- **(b)** Not later than January 5, 1995 , the Secretary shall submit to Congress a report describing the following:
-  - **(1)** The actions that the Secretary has taken or will take to fulfill the requirements set forth in paragraphs (1), (2), and (3) of subsection (a).
-  - **(2)** The actions in addition to the actions described under paragraph (1) that the Secretary could take in order to fulfill such requirements.
-  - **(3)** The respective roles with regard to nuclear safety at defense nuclear facilities of the following officials:
-    - **(A)** The Associate Deputy Secretary of Energy for Field Management.
-    - **(B)** The Assistant Secretary of Energy for Defense Programs.
-    - **(C)** The Assistant Secretary of Energy for Environmental Restoration and Waste Management.

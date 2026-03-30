@@ -3,9 +3,9 @@ title: "Section 1 - Grants to centers for independent living in States in which 
 usc_title: 29
 usc_section: "1"
 chapter: 16
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-30T03:34:33.878Z"
+generated_at: "2026-03-30T03:36:46.395Z"
 status: "active"
 ---
 

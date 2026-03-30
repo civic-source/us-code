@@ -3,9 +3,9 @@ title: "Section 3005 - Applicable laws"
 usc_title: 50
 usc_section: "3005"
 chapter: 44
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 3005"
-generated_at: "2026-03-30T03:35:33.538Z"
+generated_at: "2026-03-30T03:37:33.604Z"
 status: "active"
 ---
 

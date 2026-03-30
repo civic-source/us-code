@@ -3,9 +3,9 @@ title: "Section 4526 - Regulations and orders"
 usc_title: 12
 usc_section: "4526"
 chapter: 46
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 4526"
-generated_at: "2026-03-30T03:33:47.407Z"
+generated_at: "2026-03-30T03:36:10.727Z"
 status: "active"
 ---
 

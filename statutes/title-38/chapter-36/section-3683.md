@@ -3,9 +3,9 @@ title: "Section 3683 - Conflicting interests"
 usc_title: 38
 usc_section: "3683"
 chapter: 36
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "38 U.S.C. § 3683"
-generated_at: "2026-03-30T03:34:51.045Z"
+generated_at: "2026-03-30T03:37:01.939Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1649 - Certain limitations on liability"
 usc_title: 15
 usc_section: "1649"
 chapter: 41
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 1649"
-generated_at: "2026-03-30T03:33:43.844Z"
+generated_at: "2026-03-30T03:36:13.330Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5305 - Activities eligible for assistance"
 usc_title: 42
 usc_section: "5305"
 chapter: 69
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 5305"
-generated_at: "2026-03-30T03:35:29.124Z"
+generated_at: "2026-03-30T03:37:24.265Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(D)** creates or retains businesses owned by community residents;
     - **(E)** assists businesses that provide goods or services needed by, and affordable to, low- and moderate-income residents; or
     - **(F)** provides technical assistance to promote any of the activities under subparagraphs (A) through (E);
-  - **(18)** the rehabilitation or development of housing assisted under section 1437 o 2 2 See References in Text note below. of this title;
+  - **(18)** the rehabilitation or development of housing assisted under section 1437 o 1 of this title;
   - **(19)** provision of technical assistance to public or nonprofit entities to increase the capacity of such entities to carry out eligible neighborhood revitalization or economic development activities, which assistance shall not be considered a planning cost as defined in paragraph (12) or administrative cost as defined in paragraph (13);
   - **(20)** housing services, such as housing counseling in connection with tenant-based rental assistance and affordable housing projects assisted under title II of the Cranston-Gonzalez National Affordable Housing Act [ 42 U.S.C. 12721 et seq.], energy auditing, preparation of work specifications, loan processing, inspections, tenant selection, management of tenant-based rental assistance, and other services related to assisting owners, tenants, contractors, and other entities, participating or seeking to participate in housing activities assisted under title II of the Cranston-Gonzalez National Affordable Housing Act;
   - **(21)** provision of assistance by recipients under this chapter to institutions of higher education having a demonstrated capacity to carry out eligible activities under this subsection for carrying out such activities;
@@ -67,7 +67,7 @@ status: "active"
       - **(ii)** in the case of a building code enforcement department serving an area with a population of between 20,001 and 50,000, equal to not less than 25 percent of the total amount of any funds made available under this chapter that are used under this paragraph; and
       - **(iii)** in the case of a building code enforcement department serving an area with a population of less than 20,000, equal to not less than 12.5 percent of the total amount of any funds made available under this chapter that are used under this paragraph,
     - **(B)** any building code enforcement department using funds made available under this chapter for purposes under this paragraph shall empanel a code administration and enforcement team consisting of at least 1 full-time building code enforcement officer, a city planner, and a health planner or similar officer; and
-  - **(28)** provision of assistance to local governmental agencies responsible for floodplain management activities (including such agencies of Indians tribes, as such term is defined in section 4103 of title 25 ) in communities that participate in the national flood insurance program under the National Flood Insurance Act of 1968 ( 42 U.S.C. 4001 et seq.), only for carrying out outreach activities to encourage and facilitate the purchase of flood insurance protection under such Act by owners and renters of properties in such communities and to promote educational activities that increase awareness of flood risk reduction; except that—
+  - **(28)** provision of assistance to local governmental agencies responsible for floodplain management activities (including such agencies of Indians 2 2 So in original. Probably should be “Indian”. tribes, as such term is defined in section 4103 of title 25 ) in communities that participate in the national flood insurance program under the National Flood Insurance Act of 1968 ( 42 U.S.C. 4001 et seq.), only for carrying out outreach activities to encourage and facilitate the purchase of flood insurance protection under such Act by owners and renters of properties in such communities and to promote educational activities that increase awareness of flood risk reduction; except that—
     - **(A)** amounts used as provided under this paragraph shall be used only for activities designed to—
       - **(i)** identify owners and renters of properties in communities that participate in the national flood insurance program, including owners of residential and commercial properties;
       - **(ii)** notify such owners and renters when their properties become included in, or when they are excluded from, an area having special flood hazards and the effect of such inclusion or exclusion on the applicability of the mandatory flood insurance purchase requirement under section 4012a of this title to such properties;

@@ -3,9 +3,9 @@ title: "Section 828to852 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 ,
 usc_title: 15
 usc_section: "828to852"
 chapter: 17
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 828to852"
-generated_at: "2026-03-30T03:33:43.823Z"
+generated_at: "2026-03-30T03:36:13.296Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3106 - Definitions"
 usc_title: 42
 usc_section: "3106"
 chapter: 37
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 3106"
-generated_at: "2026-03-30T03:35:29.069Z"
+generated_at: "2026-03-30T03:37:24.183Z"
 status: "active"
 ---
 

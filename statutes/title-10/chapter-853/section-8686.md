@@ -3,9 +3,9 @@ title: "Section 8686 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(g
 usc_title: 10
 usc_section: "8686"
 chapter: 853
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 8686"
-generated_at: "2026-03-30T03:33:33.070Z"
+generated_at: "2026-03-30T03:36:02.564Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395mm - Payments to health maintenance organizations and compet
 usc_title: 42
 usc_section: "1395mm"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1395mm"
-generated_at: "2026-03-30T03:35:28.905Z"
+generated_at: "2026-03-30T03:37:23.951Z"
 status: "active"
 ---
 
@@ -154,7 +154,7 @@ status: "active"
       - **(ii)** the Secretary determines that the organization with the contract continues to meet the requirements applicable to such organizations and contracts under this section.
     - **(C)**
       - **(i)** Subject to clause (ii), a reasonable cost reimbursement contract under this subsection may be extended or renewed indefinitely.
-      - **(ii)** For any period beginning on or after January 1, 2014 , a reasonable cost reimbursement contract under this subsection may not be extended or renewed for a service area insofar as such area during the entire previous year was within the service area of—
+      - **(ii)** For any period beginning on or after January 1, 2015 , a reasonable cost reimbursement contract under this subsection may not be extended or renewed for a service area insofar as such area during the entire previous year was within the service area of—
         - **(I)** 2 or more MA regional plans described in clause (iii), provided that all such plans are not offered by the same Medicare Advantage organization; or
         - **(II)** 2 or more MA local plans described in clause (iii), provided that all such plans are not offered by the same Medicare Advantage organization.
       - **(iii)** A plan described in this clause for a year for a service area is a plan described in section 1395w–21(a)(2)(A)(i) of this title if the service area for the year meets the following minimum enrollment requirements:

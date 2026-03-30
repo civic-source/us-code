@@ -3,9 +3,9 @@ title: "Section 561to563 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 ,
 usc_title: 45
 usc_section: "561to563"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "45 U.S.C. § 561to563"
-generated_at: "2026-03-30T03:35:10.139Z"
+generated_at: "2026-03-30T03:37:06.803Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 150aato150jj - Repealed. Pub. L. 106–224, title IV, § 438(a)(
 usc_title: 7
 usc_section: "150aato150jj"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 150aato150jj"
-generated_at: "2026-03-30T03:33:26.263Z"
+generated_at: "2026-03-30T03:36:04.571Z"
 status: "repealed"
 ---
 

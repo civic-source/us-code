@@ -1,16 +1,13 @@
 ---
-title: "Section 65f - Funds for Secretary of Senate to assist in proper discharge within United States of responsibilities to foreign parliamentary groups or other foreign officials"
+title: "Section 65f - Transferred"
 usc_title: 2
 usc_section: "65f"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 65f"
-generated_at: "2026-03-30T03:33:16.294Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.693Z"
+status: "transferred"
 ---
 
-# § 65f. Funds for Secretary of Senate to assist in proper discharge within United States of responsibilities to foreign parliamentary groups or other foreign officials
+# § 65f. Transferred
 
-- **(a)** On and after July 11, 1987 , the Secretary of the Senate is authorized to use any available funds (but not in excess of $50,000 for any fiscal year), out of the appropriation account (within the Contingent Fund of the Senate) for the Secretary of the Senate, to assist him in the proper discharge, within the United States, of his appropriate responsibilities to members of foreign parliamentary groups or other foreign officials.
-- **(b)** The provisions of subsection (a) of this section shall be effective in the case of expenditures for fiscal years ending after September 30, 1986 .
-- **(c)** Upon the written request of the Secretary of the Senate, and upon notification to the Committee on Appropriations of the Senate, there shall be transferred any amount of funds available under subsection (a) of this section specified in the request, but not to exceed $10,000 in any fiscal year, from the appropriation account (within the contingent fund of the Senate) for expenses of the Office of the Secretary of the Senate to the appropriation account for the expense allowance of the Secretary of the Senate. Any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.

@@ -3,9 +3,9 @@ title: "Section 2466a - Designation of sub-Saharan African countries for certain
 usc_title: 19
 usc_section: "2466a"
 chapter: 12
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "19 U.S.C. § 2466a"
-generated_at: "2026-03-30T03:34:07.402Z"
+generated_at: "2026-03-30T03:36:24.486Z"
 status: "active"
 ---
 

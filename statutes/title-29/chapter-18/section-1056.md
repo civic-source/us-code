@@ -3,9 +3,9 @@ title: "Section 1056 - Form and payment of benefits"
 usc_title: 29
 usc_section: "1056"
 chapter: 18
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 1056"
-generated_at: "2026-03-30T03:34:33.884Z"
+generated_at: "2026-03-30T03:36:46.404Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
         - **(III)** in any form in which such benefits may be paid under the plan to the participant (other than in the form of a joint and survivor annuity with respect to the alternate payee and his or her subsequent spouse).
       - **(ii)** For purposes of this subparagraph, the term “earliest retirement age” means the earlier of—
         - **(I)** the date on which the participant is entitled to a distribution under the plan, or
-        - **(II)** the later of the date of the participant attains age 50 or the earliest date on which the participant could begin receiving benefits under the plan if the participant separated from service.
+        - **(II)** the later of the date of 1 1 So in original. The word “of” probably should not appear. the participant attains age 50 or the earliest date on which the participant could begin receiving benefits under the plan if the participant separated from service.
     - **(F)** To the extent provided in any qualified domestic relations order—
       - **(i)** the former spouse of a participant shall be treated as a surviving spouse of such participant for purposes of section 1055 of this title (and any spouse of the participant shall not be treated as a spouse of the participant for such purposes), and
       - **(ii)** if married for at least 1 year, the surviving former spouse shall be treated as meeting the requirements of section 1055(f) of this title .
@@ -134,7 +134,7 @@ status: "active"
         - **(I)** The plan shall also provide that only 1 prohibited payment meeting the requirements of clause (i) may be made with respect to any participant during any period of consecutive plan years to which the limitations under either subparagraph (A) or (B) or this subparagraph applies.
         - **(II)** For purposes of this clause, a participant and any beneficiary on his behalf (including an alternate payee, as defined in subsection (d)(3)(K)) shall be treated as 1 participant. If the accrued benefit of a participant is allocated to such an alternate payee and 1 or more other persons, the amount under clause (i) shall be allocated among such persons in the same manner as the accrued benefit is allocated unless the qualified domestic relations order (as defined in subsection (d)(3)(B)(i)) provides otherwise.
     - **(D)** This paragraph shall not apply to any plan for any plan year if the terms of such plan (as in effect for the period beginning on September 1, 2005 , and ending with such plan year) provide for no benefit accruals with respect to any participant during such period.
-    - **(E)** For purpose 1 1 So in original. Probably should be “purposes”. of this paragraph, the term “prohibited payment” means—
+    - **(E)** For purpose 2 2 So in original. Probably should be “purposes”. of this paragraph, the term “prohibited payment” means—
       - **(i)** any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title ), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title ) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
       - **(ii)** any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
       - **(iii)** any other payment specified by the Secretary of the Treasury by regulations.

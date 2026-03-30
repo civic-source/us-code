@@ -3,9 +3,9 @@ title: "Section 1417 - Prohibitions"
 usc_title: 16
 usc_section: "1417"
 chapter: 31
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 1417"
-generated_at: "2026-03-30T03:33:55.151Z"
+generated_at: "2026-03-30T03:36:30.204Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** It is unlawful—
   - **(1)** for any person to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product unless the tuna or tuna product is either dolphin safe or has been harvested in compliance with the International Dolphin Conservation Program by a country that is a member of the Inter-American Tropical Tuna Commission or has initiated and within 6 months thereafter completed all steps required of applicant nations in accordance with Article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
-  - **(2)** except as provided for in sub section 1371(d) of this title , for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and 1 1 So in original. The word “and” probably should not appear.
+  - **(2)** except as provided for in subsection 1 1 So in original. Probably should be “section”. 1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and 2 2 So in original. The word “and” probably should not appear.
   - **(3)** for any person to import any yellowfin tuna or yellowfin tuna product or any other fish or fish product in violation of a ban on importation imposed under section 1371(a)(2) of this title ;
   - **(4)** for any person to violate any regulation promulgated under this subchapter;
   - **(5)** for any person to refuse to permit any duly authorized officer to board a vessel subject to that person’s control for purposes of conducting any search or inspection in connection with the enforcement of this subchapter; and

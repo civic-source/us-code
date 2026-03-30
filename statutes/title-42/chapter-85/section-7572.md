@@ -3,9 +3,9 @@ title: "Section 7572 - Enforcement of standards"
 usc_title: 42
 usc_section: "7572"
 chapter: 85
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 7572"
-generated_at: "2026-03-30T03:35:29.215Z"
+generated_at: "2026-03-30T03:37:24.392Z"
 status: "active"
 ---
 

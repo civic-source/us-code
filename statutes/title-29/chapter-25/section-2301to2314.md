@@ -3,9 +3,9 @@ title: "Section 2301to2314 - Repealed. Pub. L. 105–220, title I, § 199(a)(3) 
 usc_title: 29
 usc_section: "2301to2314"
 chapter: 25
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 2301to2314"
-generated_at: "2026-03-30T03:34:33.910Z"
+generated_at: "2026-03-30T03:36:46.446Z"
 status: "repealed"
 ---
 

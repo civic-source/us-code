@@ -3,9 +3,9 @@ title: "Section 8287c - Definitions"
 usc_title: 42
 usc_section: "8287c"
 chapter: 91
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 8287c"
-generated_at: "2026-03-30T03:35:29.238Z"
+generated_at: "2026-03-30T03:37:24.421Z"
 status: "active"
 ---
 

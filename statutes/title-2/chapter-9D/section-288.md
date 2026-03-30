@@ -3,9 +3,9 @@ title: "Section 288 - Office of Senate Legal Counsel"
 usc_title: 2
 usc_section: "288"
 chapter: 9
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 288"
-generated_at: "2026-03-30T03:33:16.306Z"
+generated_at: "2026-03-30T03:35:51.704Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
 - **(b)**
   - **(1)** The Counsel shall select and fix the compensation of such Assistant Senate Legal Counsels (hereinafter referred to as “Assistant Counsels”) and of such other personnel, within the limits of available funds, as may be necessary to carry out the provisions of this chapter and may prescribe the duties and responsibilities of such personnel. The compensation fixed for each Assistant Counsel shall not be in excess of a rate equal to the annual rate of basic pay for level V of the Executive Schedule under section 5316 of title 5 . Any selection made under this paragraph shall be made without regard to political affiliation and solely on the basis of fitness to perform the duties of the position. Any individual selected as an Assistant Counsel shall be learned in the law, a member of the bar of a State or the District of Columbia, and shall not engage in any other business, vocation, or employment during his term of service. The Counsel may remove any individual appointed under this paragraph.
   - **(2)** For purposes of pay (other than the rate of pay of the Counsel and Deputy Counsel) and employment benefits, right, and privileges, all personnel of the Office shall be treated as employees of the Senate.
-- **(c)** In carrying out the functions of the Office, the Counsel may procure the temporary (not to exceed one year) or intermittent services of individual consultants (including outside counsel), or organizations thereof, in the same manner and under the same conditions as a standing committee of the Senate may procure such services under section 72a(i) of this title .
+- **(c)** In carrying out the functions of the Office, the Counsel may procure the temporary (not to exceed one year) or intermittent services of individual consultants (including outside counsel), or organizations thereof, in the same manner and under the same conditions as a standing committee of the Senate may procure such services under section 4301(i) of this title .
 - **(d)** The Counsel may establish such policies and procedures as may be necessary to carry out the provisions of this chapter.
 - **(e)** The counsel 1 1 So in original. Probably should be capitalized. may delegate authority for the performance of any function imposed by this chapter except any function imposed upon the Counsel under section 288e(b) of this title .
 - **(f)** The Counsel and other employees of the Office shall maintain the attorney-client relationship with respect to all communications between them and any Member, officer, or employee of the Senate.

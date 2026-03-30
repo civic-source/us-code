@@ -3,9 +3,9 @@ title: "Section 1801to1805 - Repealed. Pub. L. 104–106, div. A, title X, § 10
 usc_title: 10
 usc_section: "1801to1805"
 chapter: 89
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 1801to1805"
-generated_at: "2026-03-30T03:33:32.957Z"
+generated_at: "2026-03-30T03:36:02.489Z"
 status: "repealed"
 ---
 

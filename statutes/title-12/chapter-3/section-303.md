@@ -3,9 +3,9 @@ title: "Section 303 - Qualifications and disabilities"
 usc_title: 12
 usc_section: "303"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 303"
-generated_at: "2026-03-30T03:33:47.284Z"
+generated_at: "2026-03-30T03:36:10.601Z"
 status: "active"
 ---
 

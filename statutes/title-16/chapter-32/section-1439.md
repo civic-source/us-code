@@ -3,9 +3,9 @@ title: "Section 1439 - Regulations"
 usc_title: 16
 usc_section: "1439"
 chapter: 32
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 1439"
-generated_at: "2026-03-30T03:33:55.153Z"
+generated_at: "2026-03-30T03:36:30.206Z"
 status: "active"
 ---
 

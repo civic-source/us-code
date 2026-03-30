@@ -3,9 +3,9 @@ title: "Section 56307 - Return of vessels"
 usc_title: 46
 usc_section: "56307"
 chapter: 563
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "46 U.S.C. § 56307"
-generated_at: "2026-03-30T03:35:34.226Z"
+generated_at: "2026-03-30T03:37:29.123Z"
 status: "active"
 ---
 

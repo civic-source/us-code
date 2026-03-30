@@ -3,9 +3,9 @@ title: "Section 2662 - Transferred"
 usc_title: 22
 usc_section: "2662"
 chapter: 38
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 2662"
-generated_at: "2026-03-30T03:34:15.113Z"
+generated_at: "2026-03-30T03:36:39.884Z"
 status: "transferred"
 ---
 

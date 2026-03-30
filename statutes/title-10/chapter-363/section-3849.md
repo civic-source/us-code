@@ -3,9 +3,9 @@ title: "Section 3849 - Repealed. Pub. L. 86–559, § 1(27) , June 30, 1960 , 74
 usc_title: 10
 usc_section: "3849"
 chapter: 363
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 3849"
-generated_at: "2026-03-30T03:33:33.036Z"
+generated_at: "2026-03-30T03:36:02.541Z"
 status: "repealed"
 ---
 

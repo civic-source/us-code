@@ -3,9 +3,9 @@ title: "Section 1715 - Operation of Office; House privileges; compensation, allo
 usc_title: 48
 usc_section: "1715"
 chapter: 16
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "48 U.S.C. § 1715"
-generated_at: "2026-03-30T03:35:32.339Z"
+generated_at: "2026-03-30T03:37:29.637Z"
 status: "active"
 ---
 

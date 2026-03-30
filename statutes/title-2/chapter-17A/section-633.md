@@ -3,9 +3,9 @@ title: "Section 633 - Committee allocations"
 usc_title: 2
 usc_section: "633"
 chapter: 17
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 633"
-generated_at: "2026-03-30T03:33:16.314Z"
+generated_at: "2026-03-30T03:35:51.718Z"
 status: "active"
 ---
 
@@ -48,5 +48,5 @@ status: "active"
       - **(ii)** the adoption and enactment of that amendment; or
       - **(iii)** the enactment of that bill or resolution in the form recommended in that conference report,
   - **(2)**
-    - **(A)** As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee 1 1 So in original. Probably should be capitalized. on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+    - **(A)** As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the Committee on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
     - **(B)** Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.

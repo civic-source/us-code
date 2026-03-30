@@ -3,9 +3,9 @@ title: "Section 3502 - Order of retention"
 usc_title: 5
 usc_section: "3502"
 chapter: 35
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "5 U.S.C. § 3502"
-generated_at: "2026-03-30T03:33:07.154Z"
+generated_at: "2026-03-30T03:35:54.001Z"
 status: "active"
 ---
 
@@ -55,4 +55,4 @@ status: "active"
   - **(2)** The separation of an employee under paragraph (1)(A) shall be treated as an involuntary separation due to a reduction in force.
   - **(3)** An employee with critical knowledge and skills (as defined by the Secretary concerned) may not participate in a voluntary separation under paragraph (1)(A) if the Secretary concerned determines that such participation would impair the performance of the mission of the Department of Defense or the military department concerned.
   - **(4)** The regulations prescribed under this section shall incorporate the authority provided in this subsection.
-  - **(5)** No authority under paragraph (1) may be exercised after September 30, 2014 .
+  - **(5)** No authority under paragraph (1) may be exercised after September 30, 2018 .

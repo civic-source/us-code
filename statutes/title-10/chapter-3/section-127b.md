@@ -3,9 +3,9 @@ title: "Section 127b - Assistance in combating terrorism: rewards"
 usc_title: 10
 usc_section: "127b"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 127b"
-generated_at: "2026-03-30T03:33:32.865Z"
+generated_at: "2026-03-30T03:36:02.424Z"
 status: "active"
 ---
 

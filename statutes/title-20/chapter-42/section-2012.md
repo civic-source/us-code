@@ -3,9 +3,9 @@ title: "Section 2012 - Administrative provisions"
 usc_title: 20
 usc_section: "2012"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "20 U.S.C. § 2012"
-generated_at: "2026-03-30T03:34:04.243Z"
+generated_at: "2026-03-30T03:36:22.850Z"
 status: "active"
 ---
 

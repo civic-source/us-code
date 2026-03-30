@@ -3,9 +3,9 @@ title: "Section 8031to8037 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A)
 usc_title: 20
 usc_section: "8031to8037"
 chapter: 70
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "20 U.S.C. § 8031to8037"
-generated_at: "2026-03-30T03:34:04.305Z"
+generated_at: "2026-03-30T03:36:22.950Z"
 status: "repealed"
 ---
 

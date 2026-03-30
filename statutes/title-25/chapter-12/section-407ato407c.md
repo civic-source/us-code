@@ -3,9 +3,9 @@ title: "Section 407ato407c - Omitted"
 usc_title: 25
 usc_section: "407ato407c"
 chapter: 12
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 407ato407c"
-generated_at: "2026-03-30T03:34:13.417Z"
+generated_at: "2026-03-30T03:36:34.703Z"
 status: "omitted"
 ---
 

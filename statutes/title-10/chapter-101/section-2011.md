@@ -3,9 +3,9 @@ title: "Section 2011 - Special operations forces: training with friendly foreign
 usc_title: 10
 usc_section: "2011"
 chapter: 101
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 2011"
-generated_at: "2026-03-30T03:33:32.958Z"
+generated_at: "2026-03-30T03:36:02.490Z"
 status: "active"
 ---
 

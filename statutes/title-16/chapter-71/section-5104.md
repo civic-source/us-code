@@ -3,9 +3,9 @@ title: "Section 5104 - State implementation of coastal fishery management plans"
 usc_title: 16
 usc_section: "5104"
 chapter: 71
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 5104"
-generated_at: "2026-03-30T03:33:55.209Z"
+generated_at: "2026-03-30T03:36:30.266Z"
 status: "active"
 ---
 

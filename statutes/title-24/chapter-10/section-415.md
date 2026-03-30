@@ -3,9 +3,9 @@ title: "Section 415 - Chief Operating Officer"
 usc_title: 24
 usc_section: "415"
 chapter: 10
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "24 U.S.C. § 415"
-generated_at: "2026-03-30T03:34:10.677Z"
+generated_at: "2026-03-30T03:36:32.281Z"
 status: "active"
 ---
 

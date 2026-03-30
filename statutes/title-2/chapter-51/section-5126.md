@@ -1,0 +1,15 @@
+---
+title: "Section 5126 - Allowance available to former Speaker for payment of office and other expenses for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker"
+usc_title: 2
+usc_section: "5126"
+chapter: 51
+current_through: "PL 113-75"
+classification: "2 U.S.C. § 5126"
+generated_at: "2026-03-30T03:35:51.762Z"
+status: "active"
+---
+
+# § 5126. Allowance available to former Speaker for payment of office and other expenses for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker
+
+The Speaker is entitled to have the applicable accounts of the House of Representatives be available for payment of, for as long as he determines there is need therefor, commencing at the expiration of his term of office as a Representative in Congress, an allowance equal to the Members’ Representational Allowance (to be paid in the same manner as such Allowance) for office and other expenses incurred in connection with the administration, settlement, and conclusion of matters pertaining to or arising out of his incumbency in office as a Representative in Congress and as Speaker of the House of Representatives.
+

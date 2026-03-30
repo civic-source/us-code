@@ -3,9 +3,9 @@ title: "Section 3425 - Reports to Congress"
 usc_title: 22
 usc_section: "3425"
 chapter: 49
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 3425"
-generated_at: "2026-03-30T03:34:15.126Z"
+generated_at: "2026-03-30T03:36:39.903Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** Not later than January 15 of each year (beginning in 1983), the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a written report which describes—
   - **(1)** the activities performed by the Multinational Force and Observers during the preceding year;
   - **(2)** the composition of the Multinational Force and Observers, including a description of the responsibilities and deployment of the military personnel of each participating country;
-  - **(3)** All costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
+  - **(3)** All 1 1 So in original. Probably should not be capitalized. costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
     - **(A)** the costs associated with the United States units and personnel participating in the Multinational Force and Observers (including salaries, allowances, retirement and other benefits, transportation, housing, and operating and maintenance costs), and
     - **(B)** the identifiable costs relating to property, support, and services provided by the United States to the Multinational Force and Observers;
   - **(4)** the costs which the United States Government would have incurred in maintaining in the United States those United States units and personnel participating in the Multinational Force and Observers;

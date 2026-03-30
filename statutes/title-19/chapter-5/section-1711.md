@@ -3,9 +3,9 @@ title: "Section 1711 - Citation of chapter"
 usc_title: 19
 usc_section: "1711"
 chapter: 5
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "19 U.S.C. § 1711"
-generated_at: "2026-03-30T03:34:07.387Z"
+generated_at: "2026-03-30T03:36:24.463Z"
 status: "active"
 ---
 

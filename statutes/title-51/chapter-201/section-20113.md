@@ -3,9 +3,9 @@ title: "Section 20113 - Powers of the Administration in performance of functions
 usc_title: 51
 usc_section: "20113"
 chapter: 201
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "51 U.S.C. § 20113"
-generated_at: "2026-03-30T03:35:38.030Z"
+generated_at: "2026-03-30T03:37:35.445Z"
 status: "active"
 ---
 

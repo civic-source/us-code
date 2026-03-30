@@ -3,9 +3,9 @@ title: "Section 278j - Studies by National Research Council"
 usc_title: 15
 usc_section: "278j"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 278j"
-generated_at: "2026-03-30T03:33:43.786Z"
+generated_at: "2026-03-30T03:36:13.240Z"
 status: "active"
 ---
 

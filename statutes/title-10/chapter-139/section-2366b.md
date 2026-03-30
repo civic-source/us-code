@@ -3,9 +3,9 @@ title: "Section 2366b - Major defense acquisition programs: certification requir
 usc_title: 10
 usc_section: "2366b"
 chapter: 139
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 2366b"
-generated_at: "2026-03-30T03:33:32.988Z"
+generated_at: "2026-03-30T03:36:02.510Z"
 status: "active"
 ---
 
@@ -17,15 +17,17 @@ status: "active"
     - **(B)** appropriate trade-offs among cost, schedule, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;
     - **(C)** reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program; and
     - **(D)** funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made, consistent with the estimates described in subparagraph (C) for the program;
-  - **(2)** has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission; and
+  - **(2)** has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission;
   - **(3)** further certifies that—
     - **(A)** appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
     - **(B)** the Department of Defense has completed an analysis of alternatives with respect to the program;
     - **(C)** the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to section 181(b) of this title , including an analysis of the operational requirements for the program;
     - **(D)** the technology in the program has been demonstrated in a relevant environment, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation;
     - **(E)** life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
-    - **(F)** an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements; and
-    - **(G)** the program complies with all relevant policies, regulations, and directives of the Department of Defense.
+    - **(F)** an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements;
+    - **(G)** there is a plan to mitigate and account for any costs in connection with any anticipated de-certification of cryptographic systems and components during the production and procurement of the major defense acquisition program to be acquired; and
+    - **(H)** the program complies with all relevant policies, regulations, and directives of the Department of Defense; and
+  - **(4)** in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019 .
 - **(b)**
   - **(1)** The program manager for a major defense acquisition program that has received certification under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
     - **(A)** alter the substantive basis for the certification of the milestone decision authority relating to any component of such certification specified in paragraph (1) or (2) of subsection (a); or

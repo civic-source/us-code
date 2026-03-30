@@ -3,9 +3,9 @@ title: "Section 1439 - Naturalization through service in the armed forces"
 usc_title: 8
 usc_section: "1439"
 chapter: 12
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "8 U.S.C. § 1439"
-generated_at: "2026-03-30T03:33:33.989Z"
+generated_at: "2026-03-30T03:35:57.401Z"
 status: "active"
 ---
 
@@ -21,9 +21,3 @@ status: "active"
 - **(d)** The applicant shall comply with the requirements of section 1427(a) of this title , if the termination of such service has been more than six months preceding the date of filing the application for naturalization, except that such service within five years immediately preceding the date of filing such application shall be considered as residence and physical presence within the United States.
 - **(e)** Any such period or periods of service under honorable conditions, and good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during such service, shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service, and such authenticated copies of records shall be accepted in lieu of compliance with the provisions of section 1427(a) of this title .
 - **(f)** Citizenship granted pursuant to this section may be revoked in accordance with section 1451 of this title if the person is separated from the Armed Forces under other than honorable conditions before the person has served honorably for a period or periods aggregating five years. Such ground for revocation shall be in addition to any other provided by law, including the grounds described in section 1451 of this title . The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation. Any period or periods of service shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service.
-- **(g)** Not later than 6 months after receiving an application for naturalization filed by a current member of the Armed Forces under subsection (a), section 1440(a) of this title , or section 1440–1 of this title , by the spouse of such member under section 1430(b) of this title , or by a surviving spouse or child under section 1430(d) of this title , United States Citizenship and Immigration Services shall—
-  - **(1)** process and adjudicate the application, including completing all required background checks to the satisfaction of the Secretary of Homeland Security; or
-  - **(2)** provide the applicant with—
-    - **(A)** an explanation for its inability to meet the processing and adjudication deadline under this subsection; and
-    - **(B)** an estimate of the date by which the application will be processed and adjudicated.
-- **(h)** The Director of United States Citizenship and Immigration Services shall submit an annual report to the Subcommittee on Immigration, Border Security, and Refugees and the Subcommittee on Homeland Security 1 1 So in original. Probably should be “Committee on Homeland Security and Governmental Affairs”. of the Senate and the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law and the Subcommittee 2 2 So in original. Probably should be “Committee”. on Homeland Security of the House of Representatives that identifies every application filed under subsection (a), subsection (b) or (d) of section 1430 of this title , section 1440(a) of this title , or section 1440–1 of this title that is not processed and adjudicated within 1 year after it was filed due to delays in conducting required background checks.

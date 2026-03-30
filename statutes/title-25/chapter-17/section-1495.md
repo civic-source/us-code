@@ -3,9 +3,9 @@ title: "Section 1495 - Land and personal property titles"
 usc_title: 25
 usc_section: "1495"
 chapter: 17
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 1495"
-generated_at: "2026-03-30T03:34:13.455Z"
+generated_at: "2026-03-30T03:36:34.755Z"
 status: "active"
 ---
 

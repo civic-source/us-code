@@ -3,9 +3,9 @@ title: "Section 473 - Repealed. Pub. L. 97–295, § 2(15)(A) , Oct. 12, 1982 , 
 usc_title: 14
 usc_section: "473"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "14 U.S.C. § 473"
-generated_at: "2026-03-30T03:33:49.159Z"
+generated_at: "2026-03-30T03:36:06.895Z"
 status: "repealed"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 69a - Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses"
+title: "Section 69a - Transferred"
 usc_title: 2
 usc_section: "69a"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 69a"
-generated_at: "2026-03-30T03:33:16.295Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 69a. Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses
-
-Effective July 1, 1979 , there is authorized an expense allowance for the Office of the Secretary of the Senate and the Office of Sergeant at Arms and Doorkeeper of the Senate which shall not exceed $30,000 each fiscal year for each such office. Payments made under this section shall be reimbursements only for actual expenses (including meals and food-related expenses) incurred in the course of conducting orientation seminars for Senators, Senate officials, or members of the staffs of Senators or Senate officials and other similar meetings, in the Capitol Building or the Senate Office Buildings. Such payments shall be made upon certification and documentation of such expenses by the Secretary and Sergeant at Arms, respectively, and shall be made out of the contingent fund of the Senate upon vouchers signed by the Secretary and the Sergeant at Arms, respectively. Amounts received as reimbursement of such expenses shall not be reported as income, and the expenses so reimbursed shall not be allowed as a deduction, under title 26.
+# § 69a. Transferred
 

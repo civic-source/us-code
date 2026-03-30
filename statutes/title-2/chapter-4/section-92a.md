@@ -1,15 +1,13 @@
 ---
-title: "Section 92a - Pay of clerical assistants as affected by death of Senator or Representative"
+title: "Section 92a - Transferred"
 usc_title: 2
 usc_section: "92a"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 92a"
-generated_at: "2026-03-30T03:33:16.297Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 92a. Pay of clerical assistants as affected by death of Senator or Representative
-
-When a Senator or Member of the House of Representatives or Delegate or Resident Commissioner dies during his term of office the clerical assistants appointed by him, and then borne upon the pay rolls of the Senate or House of Representatives, shall be continued on such pay rolls in their respective positions and be paid for a period not longer than one month: Provided , That this shall not apply to clerical assistants of standing committees of the Senate or House of Representatives, when their service otherwise would continue beyond such period.
+# § 92a. Transferred
 

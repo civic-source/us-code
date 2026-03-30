@@ -3,9 +3,9 @@ title: "Section 839 - Congressional declaration of purpose"
 usc_title: 16
 usc_section: "839"
 chapter: 12
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 839"
-generated_at: "2026-03-30T03:33:55.124Z"
+generated_at: "2026-03-30T03:36:30.171Z"
 status: "active"
 ---
 

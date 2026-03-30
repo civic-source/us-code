@@ -3,9 +3,9 @@ title: "Section 900901 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct.
 usc_title: 22
 usc_section: "900901"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 900901"
-generated_at: "2026-03-30T03:34:15.073Z"
+generated_at: "2026-03-30T03:36:39.823Z"
 status: "repealed"
 ---
 

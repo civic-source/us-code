@@ -3,9 +3,9 @@ title: "Section 2112 - Personal property of United States"
 usc_title: 18
 usc_section: "2112"
 chapter: 103
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "18 U.S.C. § 2112"
-generated_at: "2026-03-30T03:34:08.314Z"
+generated_at: "2026-03-30T03:36:18.299Z"
 status: "active"
 ---
 

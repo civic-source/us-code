@@ -3,9 +3,9 @@ title: "Section 1289 - Basin planning"
 usc_title: 33
 usc_section: "1289"
 chapter: 26
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "33 U.S.C. § 1289"
-generated_at: "2026-03-30T03:34:36.922Z"
+generated_at: "2026-03-30T03:36:55.435Z"
 status: "active"
 ---
 

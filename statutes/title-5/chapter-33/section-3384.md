@@ -3,9 +3,9 @@ title: "Section 3384 - Regulations"
 usc_title: 5
 usc_section: "3384"
 chapter: 33
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "5 U.S.C. § 3384"
-generated_at: "2026-03-30T03:33:07.154Z"
+generated_at: "2026-03-30T03:35:54.000Z"
 status: "active"
 ---
 

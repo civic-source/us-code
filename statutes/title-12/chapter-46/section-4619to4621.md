@@ -3,9 +3,9 @@ title: "Section 4619to4621 - Repealed. Pub. L. 110–289, div. A, title I, § 11
 usc_title: 12
 usc_section: "4619to4621"
 chapter: 46
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 4619to4621"
-generated_at: "2026-03-30T03:33:47.414Z"
+generated_at: "2026-03-30T03:36:10.734Z"
 status: "repealed"
 ---
 

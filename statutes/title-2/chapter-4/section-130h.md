@@ -1,18 +1,13 @@
 ---
-title: "Section 130h - Support services for House during emergency; memorandum of understanding with an executive agency"
+title: "Section 130h - Transferred"
 usc_title: 2
 usc_section: "130h"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 130h"
-generated_at: "2026-03-30T03:33:16.301Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 130h. Support services for House during emergency; memorandum of understanding with an executive agency
+# § 130h. Transferred
 
-- **(a)** Notwithstanding any other provision of law—
-  - **(1)** subject to subsection (b) of this section, the Chief Administrative Officer of the House of Representatives and the head of an executive agency (as defined in section 105 of title 5 ) may enter into a memorandum of understanding under which the agency may provide facilities, equipment, supplies, personnel, and other support services for the use of the House of Representatives during an emergency situation; and
-  - **(2)** the Chief Administrative Officer and the head of the agency may take any action necessary to carry out the terms of the memorandum of understanding.
-- **(b)** The Chief Administrative Officer of the House of Representatives may not enter into a memorandum of understanding described in subsection (a)(1) of this section without the approval of the Speaker of the House of Representatives.
-- **(c)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.

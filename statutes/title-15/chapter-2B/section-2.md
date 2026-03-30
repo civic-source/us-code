@@ -3,9 +3,9 @@ title: "Section 2 - Prohibited foreign trade practices by domestic concerns"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T03:33:43.768Z"
+generated_at: "2026-03-30T03:36:13.212Z"
 status: "active"
 ---
 

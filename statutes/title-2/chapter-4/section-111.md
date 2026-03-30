@@ -1,15 +1,13 @@
 ---
-title: "Section 111 - Purchase of supplies for Senate and House"
+title: "Section 111 - Transferred"
 usc_title: 2
 usc_section: "111"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 111"
-generated_at: "2026-03-30T03:33:16.297Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 111. Purchase of supplies for Senate and House
-
-Supplies for use of the Senate and the House of Representatives may be purchased in accordance with the schedule of contract articles and prices of the Administrator of General Services.
+# § 111. Transferred
 

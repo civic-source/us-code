@@ -3,9 +3,9 @@ title: "Section 476b - Travel and transportation allowances: members of the unif
 usc_title: 37
 usc_section: "476b"
 chapter: 8
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "37 U.S.C. § 476b"
-generated_at: "2026-03-30T03:34:57.927Z"
+generated_at: "2026-03-30T03:37:03.782Z"
 status: "active"
 ---
 
@@ -13,6 +13,6 @@ status: "active"
 
 - **(a)** Under regulations prescribed by the Secretary concerned, a member of the uniformed services who is on permanent duty aboard a ship which is being overhauled or inactivated away from its home port and whose dependents are residing at the home port of the ship is entitled to transportation, transportation in kind, reimbursement for personally procured transportation, or an allowance for transportation as provided in section 474(d)(3) of this title for round-trip travel from the port of overhaul or inactivation to the home port on or after after the thirty-first calendar day, and every sixtieth calendar day after the thirty-first calendar day after the date on which the ship enters the overhaul or inactivation port or after the date on which the member becomes permanently attached to the ship, whichever date is later. However, in no event shall the amount of reimbursement for personally procured transportation or allowance for transportation exceed the cost of Government-procured commercial round-trip air travel.
 - **(b)** Transportation in kind, reimbursement for personally procured transportation, or a monetary allowance in place of the cost of transportation as provided in section 474(d)(1) of this title may be provided, in lieu of the member’s entitlement to transportation, for the member’s dependents from the location that was the home port of the ship before commencement of overhaul or inactivation to the port of overhaul or inactivation. The total reimbursement for transportation for the member’s dependents may not exceed the cost of Government-procured commercial round-trip travel.
-- **(c)** In any case in which a member of the uniformed services is assigned to permanent duty aboard a ship that undergoes a change of home port to the overhaul or inactivation port, the dependents of the member may be provided transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by section 476 of this title and section 2634 of title 10 .
+- **(c)** In any case in which a member of the uniformed services is assigned to permanent duty aboard a ship that undergoes a change of home port to the overhaul or inactivation port, the dependents of the member may be provided transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by section 476 of this title and section 2634 1 1 See References in Text note below. of title 10.
 - **(d)** Section 421 of this title does not apply with respect to transportation or allowances provided under this section.
 - **(e)** No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.

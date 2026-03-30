@@ -3,9 +3,9 @@ title: "Section 4402 - Definitions"
 usc_title: 7
 usc_section: "4402"
 chapter: 75
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 4402"
-generated_at: "2026-03-30T03:33:26.438Z"
+generated_at: "2026-03-30T03:36:04.687Z"
 status: "active"
 ---
 

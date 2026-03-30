@@ -3,9 +3,9 @@ title: "Section 5923 - Rural electronic commerce extension program"
 usc_title: 7
 usc_section: "5923"
 chapter: 88
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 5923"
-generated_at: "2026-03-30T03:33:26.451Z"
+generated_at: "2026-03-30T03:36:04.699Z"
 status: "active"
 ---
 

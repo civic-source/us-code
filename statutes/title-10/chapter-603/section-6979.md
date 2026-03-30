@@ -3,9 +3,9 @@ title: "Section 6979 - Midshipmen: charges and fees for attendance; limitation"
 usc_title: 10
 usc_section: "6979"
 chapter: 603
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 6979"
-generated_at: "2026-03-30T03:33:33.056Z"
+generated_at: "2026-03-30T03:36:02.555Z"
 status: "active"
 ---
 

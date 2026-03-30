@@ -3,9 +3,9 @@ title: "Section 44903 - Air transportation security"
 usc_title: 49
 usc_section: "44903"
 chapter: 449
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "49 U.S.C. § 44903"
-generated_at: "2026-03-30T03:35:36.214Z"
+generated_at: "2026-03-30T03:37:32.472Z"
 status: "active"
 ---
 
@@ -160,3 +160,6 @@ status: "active"
     - **(C)** incorporating any new screening protocols into an existing trusted passenger program, as established pursuant to section 109(a)(3) of the Aviation and Transportation Security Act ( 49 U.S.C. 114 note), or into the development of any new credential or system that incorporates biometric technology and other applicable technologies to verify the identity of individuals traveling in air transportation.
   - **(3)** Nothing in this subsection shall affect the authority of the Assistant Secretary to require additional screening of a member of the armed forces if intelligence or law enforcement information indicates that additional screening is necessary.
   - **(4)** The Assistant Secretary shall submit to the appropriate committees of Congress a report on the implementation of the plan.
+- **(n)**
+  - **(1)** The Secretary of Homeland Security shall ensure that the Transportation Security Administration is responsible for monitoring passenger exit points from the sterile area of airports at which the Transportation Security Administration provided such monitoring as of December 1, 2013 .
+  - **(2)** In this section, the term “sterile area” has the meaning given that term in section 1540.5 of title 49, Code of Federal Regulations (or any corresponding similar regulation or ruling).

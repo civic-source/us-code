@@ -3,9 +3,9 @@ title: "Section 3764 - Qualified non-Native American veterans"
 usc_title: 38
 usc_section: "3764"
 chapter: 37
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "38 U.S.C. § 3764"
-generated_at: "2026-03-30T03:34:51.051Z"
+generated_at: "2026-03-30T03:37:01.950Z"
 status: "active"
 ---
 

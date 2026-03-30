@@ -3,9 +3,9 @@ title: "Section 1396m - Withholding of Federal share of payments for certain med
 usc_title: 42
 usc_section: "1396m"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1396m"
-generated_at: "2026-03-30T03:35:28.936Z"
+generated_at: "2026-03-30T03:37:23.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 674c - Boundary and division fences for Sullys Hill National Gam
 usc_title: 16
 usc_section: "674c"
 chapter: 6
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 674c"
-generated_at: "2026-03-30T03:33:55.098Z"
+generated_at: "2026-03-30T03:36:30.142Z"
 status: "active"
 ---
 

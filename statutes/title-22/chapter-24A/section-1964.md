@@ -3,9 +3,9 @@ title: "Section 1964 - Report to Congress"
 usc_title: 22
 usc_section: "1964"
 chapter: 24
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 1964"
-generated_at: "2026-03-30T03:34:15.082Z"
+generated_at: "2026-03-30T03:36:39.837Z"
 status: "active"
 ---
 

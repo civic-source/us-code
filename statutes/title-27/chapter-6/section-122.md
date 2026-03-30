@@ -3,9 +3,9 @@ title: "Section 122 - Shipments into States for possession or sale in violation 
 usc_title: 27
 usc_section: "122"
 chapter: 6
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "27 U.S.C. § 122"
-generated_at: "2026-03-30T03:34:17.540Z"
+generated_at: "2026-03-30T03:36:41.940Z"
 status: "active"
 ---
 

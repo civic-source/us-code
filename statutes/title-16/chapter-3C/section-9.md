@@ -3,9 +3,9 @@ title: "Section 9 - Powers and duties of Secretaries of the Interior and Agricul
 usc_title: 16
 usc_section: "9"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T03:33:55.090Z"
+generated_at: "2026-03-30T03:36:30.135Z"
 status: "active"
 ---
 

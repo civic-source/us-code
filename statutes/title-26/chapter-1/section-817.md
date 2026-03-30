@@ -3,9 +3,9 @@ title: "Section 817 - Treatment of variable contracts"
 usc_title: 26
 usc_section: "817"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "26 U.S.C. § 817"
-generated_at: "2026-03-30T03:34:31.327Z"
+generated_at: "2026-03-30T03:36:52.314Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10173 - Benefits agreements"
 usc_title: 42
 usc_section: "10173"
 chapter: 108
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 10173"
-generated_at: "2026-03-30T03:35:29.281Z"
+generated_at: "2026-03-30T03:37:24.477Z"
 status: "active"
 ---
 

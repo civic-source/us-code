@@ -3,9 +3,9 @@ title: "Section 2871 - Performance accountability system"
 usc_title: 29
 usc_section: "2871"
 chapter: 30
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 2871"
-generated_at: "2026-03-30T03:34:33.917Z"
+generated_at: "2026-03-30T03:36:46.457Z"
 status: "active"
 ---
 

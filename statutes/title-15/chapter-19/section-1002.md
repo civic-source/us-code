@@ -3,9 +3,9 @@ title: "Section 1002 - Golden Gate Bridge tolls; Government traffic and personne
 usc_title: 15
 usc_section: "1002"
 chapter: 19
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 1002"
-generated_at: "2026-03-30T03:33:43.823Z"
+generated_at: "2026-03-30T03:36:13.297Z"
 status: "active"
 ---
 

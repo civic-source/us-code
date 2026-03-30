@@ -3,9 +3,9 @@ title: "Section 2535 - Replacement project for Chemistry and Metallurgy Research
 usc_title: 50
 usc_section: "2535"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2535"
-generated_at: "2026-03-30T03:35:33.530Z"
+generated_at: "2026-03-30T03:37:33.595Z"
 status: "active"
 ---
 
@@ -16,5 +16,5 @@ status: "active"
 - **(c)** The construction authorized by subsection (a) shall use as its basis the facility project in the Department of Energy Readiness and Technical Base designated 04–D–125 (chemistry and metallurgy facility replacement project at Los Alamos National Laboratory).
 - **(d)**
   - **(1)** In carrying out this section, the Secretary shall procure the services of the Commander of the Naval Facilities Engineering Command to assist the Secretary with respect to the program management, oversight, and design activities of the project authorized by subsection (a).
-  - **(2)** The Secretary shall carry out this subsection using funds made available for the National Nuclear Security Administration.
+  - **(2)** The Secretary shall carry out this subsection using funds made available for the Administration.
 - **(e)** The building constructed under subsection (a) shall commence operations by not later than December 31, 2026 .

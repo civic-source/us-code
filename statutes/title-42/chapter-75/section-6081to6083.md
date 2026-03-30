@@ -3,9 +3,9 @@ title: "Section 6081to6083 - Repealed. Pub. L. 106–402, title IV, § 401(a) , 
 usc_title: 42
 usc_section: "6081to6083"
 chapter: 75
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 6081to6083"
-generated_at: "2026-03-30T03:35:29.142Z"
+generated_at: "2026-03-30T03:37:24.293Z"
 status: "repealed"
 ---
 

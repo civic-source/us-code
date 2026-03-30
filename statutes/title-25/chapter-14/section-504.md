@@ -3,9 +3,9 @@ title: "Section 504 - Cooperative associations; charter; purposes; voting rights
 usc_title: 25
 usc_section: "504"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 504"
-generated_at: "2026-03-30T03:34:13.426Z"
+generated_at: "2026-03-30T03:36:34.715Z"
 status: "active"
 ---
 

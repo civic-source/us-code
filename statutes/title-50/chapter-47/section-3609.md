@@ -3,9 +3,9 @@ title: "Section 3609 - Enhancement of security authorities"
 usc_title: 50
 usc_section: "3609"
 chapter: 47
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 3609"
-generated_at: "2026-03-30T03:35:33.552Z"
+generated_at: "2026-03-30T03:37:33.624Z"
 status: "active"
 ---
 

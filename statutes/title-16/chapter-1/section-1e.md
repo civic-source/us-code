@@ -3,9 +3,9 @@ title: "Section 1e - National Capital region arts and cultural affairs; grant pr
 usc_title: 16
 usc_section: "1e"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 1e"
-generated_at: "2026-03-30T03:33:54.978Z"
+generated_at: "2026-03-30T03:36:30.009Z"
 status: "active"
 ---
 

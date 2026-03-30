@@ -3,9 +3,9 @@ title: "Section 1604 - Reports by registered lobbyists"
 usc_title: 2
 usc_section: "1604"
 chapter: 26
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 1604"
-generated_at: "2026-03-30T03:33:16.328Z"
+generated_at: "2026-03-30T03:35:51.740Z"
 status: "active"
 ---
 

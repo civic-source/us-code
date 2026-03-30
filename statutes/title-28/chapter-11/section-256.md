@@ -3,9 +3,9 @@ title: "Section 256 - Trials at ports other than New York"
 usc_title: 28
 usc_section: "256"
 chapter: 11
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "28 U.S.C. § 256"
-generated_at: "2026-03-30T03:34:25.069Z"
+generated_at: "2026-03-30T03:36:47.878Z"
 status: "active"
 ---
 

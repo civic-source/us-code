@@ -3,9 +3,9 @@ title: "Section 941l - Games of chance"
 usc_title: 25
 usc_section: "941l"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 941l"
-generated_at: "2026-03-30T03:34:13.443Z"
+generated_at: "2026-03-30T03:36:34.739Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7474 - Consultation"
 usc_title: 38
 usc_section: "7474"
 chapter: 74
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "38 U.S.C. § 7474"
-generated_at: "2026-03-30T03:34:51.068Z"
+generated_at: "2026-03-30T03:37:01.977Z"
 status: "active"
 ---
 

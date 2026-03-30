@@ -3,9 +3,9 @@ title: "Section 1962d - Authorization of appropriations to the Water Resources C
 usc_title: 42
 usc_section: "1962d"
 chapter: 19
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1962d"
-generated_at: "2026-03-30T03:35:29.016Z"
+generated_at: "2026-03-30T03:37:24.108Z"
 status: "active"
 ---
 

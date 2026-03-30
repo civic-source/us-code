@@ -3,9 +3,9 @@ title: "Section 2675 - Identification in budget materials of amounts for declass
 usc_title: 50
 usc_section: "2675"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2675"
-generated_at: "2026-03-30T03:35:33.535Z"
+generated_at: "2026-03-30T03:37:33.598Z"
 status: "active"
 ---
 
@@ -13,7 +13,3 @@ status: "active"
 
 - **(a)** The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31 ) specific identification, as a budgetary line item, of the amounts required to carry out programmed activities during that fiscal year to declassify records pursuant to Executive Order No. 12958 ([former] 50 U.S.C. 435 note) [now 50 U.S.C. 3161 note], or any successor Executive order, or to comply with any statutory requirement to declassify Government records.
 - **(b)** No records of the Department of Energy that have not as of October 5, 1999 , been reviewed for declassification shall be subject to automatic declassification unless the Secretary of Energy certifies to Congress that such declassification would not harm the national security.
-- **(c)** Not later than February 1, 2001 , the Secretary of Energy shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate a report on the efforts of the Department of Energy relating to the declassification of classified records under the control of the Department of Energy. Such report shall include the following:
-  - **(1)** An assessment of whether the Department will be able to review all relevant records for declassification before any date established for automatic declassification.
-  - **(2)** An estimate of the number of records, if any, that the Department will be unable to review for declassification before any such date and the effect on national security of the automatic declassification of those records.
-  - **(3)** An estimate of the length of time by which any such date would need to be extended to avoid the automatic declassification of records that have not yet been reviewed as of such date.

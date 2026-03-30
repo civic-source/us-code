@@ -3,9 +3,9 @@ title: "Section 1714 - Taxation"
 usc_title: 12
 usc_section: "1714"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 1714"
-generated_at: "2026-03-30T03:33:47.320Z"
+generated_at: "2026-03-30T03:36:10.634Z"
 status: "active"
 ---
 

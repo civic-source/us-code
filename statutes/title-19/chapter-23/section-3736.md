@@ -3,9 +3,9 @@ title: "Section 3736 - Donation of air traffic control equipment to eligible sub
 usc_title: 19
 usc_section: "3736"
 chapter: 23
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "19 U.S.C. § 3736"
-generated_at: "2026-03-30T03:34:07.422Z"
+generated_at: "2026-03-30T03:36:24.519Z"
 status: "active"
 ---
 

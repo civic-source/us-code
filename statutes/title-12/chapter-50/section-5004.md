@@ -3,9 +3,9 @@ title: "Section 5004 - Substitute check warranties"
 usc_title: 12
 usc_section: "5004"
 chapter: 50
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 5004"
-generated_at: "2026-03-30T03:33:47.419Z"
+generated_at: "2026-03-30T03:36:10.740Z"
 status: "active"
 ---
 

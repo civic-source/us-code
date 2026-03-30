@@ -3,9 +3,9 @@ title: "Section 12687 - Reserves under confinement by sentence of court-martial:
 usc_title: 10
 usc_section: "12687"
 chapter: 1221
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 12687"
-generated_at: "2026-03-30T03:33:33.095Z"
+generated_at: "2026-03-30T03:36:02.578Z"
 status: "active"
 ---
 

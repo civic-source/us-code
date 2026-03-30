@@ -3,9 +3,9 @@ title: "Section 6866 - Monitoring and evaluation of funded projects; technical a
 usc_title: 42
 usc_section: "6866"
 chapter: 81
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 6866"
-generated_at: "2026-03-30T03:35:29.168Z"
+generated_at: "2026-03-30T03:37:24.330Z"
 status: "active"
 ---
 

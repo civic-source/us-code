@@ -1,17 +1,13 @@
 ---
-title: "Section 104c - Preservation of reports, statements, or documents filed with Clerk of House"
+title: "Section 104c - Transferred"
 usc_title: 2
 usc_section: "104c"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 104c"
-generated_at: "2026-03-30T03:33:16.297Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 104c. Preservation of reports, statements, or documents filed with Clerk of House
+# § 104c. Transferred
 
-- **(a)** If the Clerk of the House of Representatives is required under any law, rule, or regulation to make available for public inspection a report, statement, or other document filed with the Office of the Clerk, the Clerk shall preserve the report, statement, or document—
-  - **(1)** for a period of 6 years from the date on which the document is filed; or
-  - **(2)** if the law, rule, or regulation so provides, the period required under such law, rule, or regulation.
-- **(b)** Subsection (a) of this section shall apply with respect to reports, statements, and documents filed before, on, or after December 8, 2004 .

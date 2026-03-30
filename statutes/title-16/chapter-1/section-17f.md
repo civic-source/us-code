@@ -3,9 +3,9 @@ title: "Section 17f - Property of employee lost, damaged, or destroyed while in 
 usc_title: 16
 usc_section: "17f"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 17f"
-generated_at: "2026-03-30T03:33:54.981Z"
+generated_at: "2026-03-30T03:36:30.010Z"
 status: "active"
 ---
 

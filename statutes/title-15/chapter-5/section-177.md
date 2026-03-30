@@ -3,9 +3,9 @@ title: "Section 177 - Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat
 usc_title: 15
 usc_section: "177"
 chapter: 5
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 177"
-generated_at: "2026-03-30T03:33:43.781Z"
+generated_at: "2026-03-30T03:36:13.235Z"
 status: "repealed"
 ---
 

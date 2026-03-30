@@ -1,15 +1,13 @@
 ---
-title: "Section 117k - Rebates under Government Travel Charge Card Program"
+title: "Section 117k - Transferred"
 usc_title: 2
 usc_section: "117k"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 117k"
-generated_at: "2026-03-30T03:33:16.298Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 117k. Rebates under Government Travel Charge Card Program
-
-Effective with respect to fiscal years beginning with fiscal year 1995, amounts received by the Chief Administrative Officer of the House of Representatives from the Administrator of General Services for rebates under the Government Travel Charge Card Program shall be deposited in the Treasury as miscellaneous receipts.
+# § 117k. Transferred
 

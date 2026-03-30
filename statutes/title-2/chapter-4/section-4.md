@@ -1,18 +1,13 @@
 ---
-title: "Section 4 - Definitions"
+title: "Section 4 - Transferred"
 usc_title: 2
 usc_section: "4"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 4"
-generated_at: "2026-03-30T03:33:16.296Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 88c–4. Definitions
+# § 88c–4. Transferred
 
-As used in sections 88c–2 to 88c–4 of this title, the term—
-
-  - **(1)** “academic year” means a regular school year, consisting of two semesters;
-  - **(2)** “page” means a page of the House of Representatives, but such term does not include a full time, permanent employee of the House of Representatives with supervisory responsibility for pages; and
-  - **(3)** “congressional page” means a page of the House of Representatives or the Senate.

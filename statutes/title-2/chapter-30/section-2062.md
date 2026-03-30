@@ -3,9 +3,9 @@ title: "Section 2062 - House of Representatives Child Care Center"
 usc_title: 2
 usc_section: "2062"
 chapter: 30
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 2062"
-generated_at: "2026-03-30T03:33:16.334Z"
+generated_at: "2026-03-30T03:35:51.749Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(3)** The House of Representatives shall make payments from amounts provided in appropriations acts for salaries and expenses of the Office of the Chief Administrative Officer for the following activities carried out under this section:
     - **(A)** The payment of the salary of the director of the center.
     - **(B)** The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
-- **(e)** The Fund shall be treated as a category of allowances and expenses for purposes of section 95b(a) of this title .
+- **(e)** The Fund shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title .
 - **(f)** As used in this section—
   - **(1)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
   - **(2)** the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and

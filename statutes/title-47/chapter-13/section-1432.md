@@ -3,9 +3,9 @@ title: "Section 1432 - Prohibition on direct offering of commercial telecommunic
 usc_title: 47
 usc_section: "1432"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "47 U.S.C. § 1432"
-generated_at: "2026-03-30T03:35:32.766Z"
+generated_at: "2026-03-30T03:37:28.092Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T03:35:28.862Z"
+generated_at: "2026-03-30T03:37:23.894Z"
 status: "active"
 ---
 
@@ -525,7 +525,7 @@ status: "active"
     - **(E)** For 2010 and each succeeding year, the blended rate shall be based 100 percent on the fee schedule under paragraph (1).
   - **(11)** In the case of ground ambulance services furnished on or after July 1, 2004 , and before January 1, 2009 , regardless of where the transportation originates, the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 50 miles the per mile rate otherwise established shall be increased by ¼ of the payment per mile otherwise applicable to miles in excess of 50 miles in such trip.
   - **(12)**
-    - **(A)** In the case of ground ambulance services furnished on or after July 1, 2004 , and before January 1, 2014 , for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
+    - **(A)** In the case of ground ambulance services furnished on or after July 1, 2004 , and before April 1, 2014 , for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
     - **(B)**
       - **(i)** Based upon data from the United States decennial census for the year 2000, the Secretary shall determine, for each rural area, the population density for that area.
       - **(ii)** The Secretary shall rank each such area based on such population density.
@@ -533,9 +533,9 @@ status: "active"
       - **(iv)** For purposes of this paragraph, the term “rural area” has the meaning given such term in section 1395ww(d)(2)(D) of this title . If feasible, the Secretary shall treat a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725) as a rural area for purposes of this paragraph.
       - **(v)** There shall be no administrative or judicial review under section 1395ff, 1395 oo of this title, or otherwise, respecting the identification of an area under this subparagraph.
   - **(13)**
-    - **(A)** After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004 , and before January 1, 2007 , and for such services furnished on or after July 1, 2008 , and before January 1, 2014 ,, 4 for which the transportation originates in—
-      - **(i)** a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008 , and before January 1, 2014 ); and
-      - **(ii)** an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008 , and before January 1, 2014 ).
+    - **(A)** After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004 , and before January 1, 2007 , and for such services furnished on or after July 1, 2008 , and before April 1, 2014 ,, 4 for which the transportation originates in—
+      - **(i)** a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008 , and before April 1, 2014 ); and
+      - **(ii)** an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008 , and before April 1, 2014 ).
     - **(B)** The increased payments under subparagraph (A) shall not be taken into account in calculating payments for services furnished after the applicable period specified in such subparagraph.
   - **(14)**
     - **(A)** The regulations described in section 1395x(s)(7) of this title shall provide, to the extent that any ambulance services (whether ground or air) may be covered under such section, that a rural air ambulance service (as defined in subparagraph (C)) is reimbursed under this subsection at the air ambulance rate if the air ambulance service—

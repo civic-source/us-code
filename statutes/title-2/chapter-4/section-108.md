@@ -1,15 +1,13 @@
 ---
-title: "Section 108 - Contracts for separate parts of Senate stationery"
+title: "Section 108 - Transferred"
 usc_title: 2
 usc_section: "108"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 108"
-generated_at: "2026-03-30T03:33:16.297Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 108. Contracts for separate parts of Senate stationery
-
-Sections 106 and 107 of this title shall not prevent the Secretary from contracting for separate parts of the supplies of stationery required to be furnished.
+# § 108. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 1920 - Suits by and against Secretary of Commerce"
 usc_title: 19
 usc_section: "1920"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "19 U.S.C. § 1920"
-generated_at: "2026-03-30T03:34:07.388Z"
+generated_at: "2026-03-30T03:36:24.465Z"
 status: "active"
 ---
 

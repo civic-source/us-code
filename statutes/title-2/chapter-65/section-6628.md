@@ -1,0 +1,15 @@
+---
+title: "Section 6628 - Treatment of electronic services provided by Sergeant at Arms"
+usc_title: 2
+usc_section: "6628"
+chapter: 65
+current_through: "PL 113-75"
+classification: "2 U.S.C. § 6628"
+generated_at: "2026-03-30T03:35:51.773Z"
+status: "active"
+---
+
+# § 6628. Treatment of electronic services provided by Sergeant at Arms
+
+- **(a)** The Office of the Sergeant at Arms and Doorkeeper of the United States Senate, and any officer, employee, or agent of the Office, shall not be treated as acquiring possession, custody, or control of any electronic mail or other electronic communication, data, or information by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office.
+- **(b)** This section shall apply to fiscal year 2005 and each fiscal year thereafter.

@@ -3,9 +3,9 @@ title: "Section 2014 - Recruitment of Indian educators"
 usc_title: 25
 usc_section: "2014"
 chapter: 22
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 2014"
-generated_at: "2026-03-30T03:34:13.482Z"
+generated_at: "2026-03-30T03:36:34.790Z"
 status: "active"
 ---
 

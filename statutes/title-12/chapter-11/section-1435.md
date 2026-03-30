@@ -3,9 +3,9 @@ title: "Section 1435 - Obligations as lawful investments; liability of United St
 usc_title: 12
 usc_section: "1435"
 chapter: 11
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 1435"
-generated_at: "2026-03-30T03:33:47.299Z"
+generated_at: "2026-03-30T03:36:10.614Z"
 status: "active"
 ---
 

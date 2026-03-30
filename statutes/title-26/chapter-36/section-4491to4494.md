@@ -3,9 +3,9 @@ title: "Section 4491to4494 - Repealed. Pub. L. 97–248, title II, § 280(c)(1) 
 usc_title: 26
 usc_section: "4491to4494"
 chapter: 36
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "26 U.S.C. § 4491to4494"
-generated_at: "2026-03-30T03:34:31.398Z"
+generated_at: "2026-03-30T03:36:52.390Z"
 status: "repealed"
 ---
 

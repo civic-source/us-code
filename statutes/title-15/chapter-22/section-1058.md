@@ -3,9 +3,9 @@ title: "Section 1058 - Duration, affidavits and fees"
 usc_title: 15
 usc_section: "1058"
 chapter: 22
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 1058"
-generated_at: "2026-03-30T03:33:43.825Z"
+generated_at: "2026-03-30T03:36:13.300Z"
 status: "active"
 ---
 

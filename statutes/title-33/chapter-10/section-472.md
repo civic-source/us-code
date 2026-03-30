@@ -3,9 +3,9 @@ title: "Section 472 - Marking anchorage grounds by Commandant of the Coast Guard
 usc_title: 33
 usc_section: "472"
 chapter: 10
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "33 U.S.C. § 472"
-generated_at: "2026-03-30T03:34:36.896Z"
+generated_at: "2026-03-30T03:36:55.405Z"
 status: "active"
 ---
 

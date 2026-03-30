@@ -1,15 +1,13 @@
 ---
-title: "Section 65d - Funds advanced by Secretary of Senate to Sergeant at Arms and Doorkeeper of Senate to defray office expenses; accountability; maximum amount; vouchers"
+title: "Section 65d - Transferred"
 usc_title: 2
 usc_section: "65d"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 65d"
-generated_at: "2026-03-30T03:33:16.294Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.693Z"
+status: "transferred"
 ---
 
-# § 65d. Funds advanced by Secretary of Senate to Sergeant at Arms and Doorkeeper of Senate to defray office expenses; accountability; maximum amount; vouchers
-
-From funds available for any fiscal year (commencing with the fiscal year ending September 30, 1984 ), the Secretary of the Senate shall advance to the Sergeant at Arms and Doorkeeper of the Senate for the purpose of defraying office expenses such sums (for which the Sergeant at Arms and Doorkeeper shall be accountable) not in excess of $1,000 at any one time, as such Sergeant at Arms shall from time to time request; except that the aggregate of the sums so advanced during the fiscal year shall not exceed $10,000. In accordance with the provisions of this section, a detailed voucher shall be submitted to the Secretary of the Senate by such Sergeant at Arms whenever necessary, in order to replenish funds expended.
+# § 65d. Transferred
 

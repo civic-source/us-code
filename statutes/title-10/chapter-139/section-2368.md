@@ -3,9 +3,9 @@ title: "Section 2368 - Repealed. Pub. L. 102–190, div. A, title VIII, § 821(c
 usc_title: 10
 usc_section: "2368"
 chapter: 139
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 2368"
-generated_at: "2026-03-30T03:33:32.988Z"
+generated_at: "2026-03-30T03:36:02.511Z"
 status: "repealed"
 ---
 

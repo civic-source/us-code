@@ -3,9 +3,9 @@ title: "Section 4012a - Flood insurance purchase and compliance requirements and
 usc_title: 42
 usc_section: "4012a"
 chapter: 50
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 4012a"
-generated_at: "2026-03-30T03:35:29.094Z"
+generated_at: "2026-03-30T03:37:24.220Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(7)** In this subsection, the term “private flood insurance” means an insurance policy that—
     - **(A)** is issued by an insurance company that is—
       - **(i)** licensed, admitted, or otherwise approved to engage in the business of insurance in the State or jurisdiction in which the insured building is located, by the insurance regulator of that State or jurisdiction; or
-      - **(ii)** in the case of a policy of difference in conditions, multiple peril, all risk, or other blanket coverage insuring nonresidential commercial property, is 1 1 So in original. The word “is”probably should not appear. recognized, or not disapproved, as a surplus lines insurer by the insurance regulator of the State or jurisdiction where the property to be insured is located;
+      - **(ii)** in the case of a policy of difference in conditions, multiple peril, all risk, or other blanket coverage insuring nonresidential commercial property, is 1 1 So in original. The word “is” probably should not appear. recognized, or not disapproved, as a surplus lines insurer by the insurance regulator of the State or jurisdiction where the property to be insured is located;
     - **(B)** provides flood insurance coverage which is at least as broad as the coverage provided under a standard flood insurance policy under the national flood insurance program, including when considering deductibles, exclusions, and conditions offered by the insurer;
     - **(C)** includes—
       - **(i)** a requirement for the insurer to give 45 days’ written notice of cancellation or non-renewal of flood insurance coverage to—

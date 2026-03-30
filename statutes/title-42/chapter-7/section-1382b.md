@@ -3,9 +3,9 @@ title: "Section 1382b - Resources"
 usc_title: 42
 usc_section: "1382b"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1382b"
-generated_at: "2026-03-30T03:35:28.845Z"
+generated_at: "2026-03-30T03:37:23.871Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(7)** any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual’s (or spouse’s) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 9 months following the month in which such amount is received, and written notice of this limitation shall be given to the recipient concurrently with the payment of such amount;
   - **(8)** the value of assistance referred to in section 1382a(b)(14) of this title , paid with respect to the dwelling unit occupied by such individual (or such individual and spouse);
   - **(9)** for the 9-month period beginning after the month in which received, any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime, to the extent that such individual (or such spouse) demonstrates that such amount was paid as compensation for expenses incurred or losses suffered as a result of a crime;
-  - **(10)** for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act [ 42 U.S.C. 4636 ];
+  - **(10)** for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions 1 1 So in original. Probably should be “Acquisition”. Policies Act of 1970 which is subject to the treatment required by section 216 of such Act [ 42 U.S.C. 4636 ];
   - **(11)** for the 9-month period beginning after the month in which received—
     - **(A)** notwithstanding section 203 of the Economic Growth and Tax Relief Reconciliation Act of 2001, any refund of Federal income taxes made to such individual (or such spouse) under section 24 of the Internal Revenue Code of 1986 (relating to child tax credit) by reason of subsection (d) thereof; and
     - **(B)** any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
@@ -74,7 +74,7 @@ status: "active"
     - **(E)** In the case of a transfer by the spouse of an individual that results in a period of ineligibility for the individual under this subsection, the Commissioner shall apportion the period (or any portion of the period) among the individual and the individual’s spouse if the spouse becomes eligible for benefits under this subchapter.
     - **(F)** For purposes of this paragraph—
       - **(i)** the term “benefits under this subchapter” includes payments of the type described in section 1382e(a) of this title and of the type described in section 212(b) of Public Law 93–66 ;
-      - **(ii)** the term “institutionalized individual” has the meaning given such term in section 1396p(e)(3) 1 1 See References in Text note below. of this title; and
+      - **(ii)** the term “institutionalized individual” has the meaning given such term in section 1396p(e)(3) 2 2 See References in Text note below. of this title; and
       - **(iii)** the term “trust” has the meaning given such term in subsection (e)(6)(A) of this section.
   - **(2)**
     - **(A)** At the time an individual (and the individual’s eligible spouse, if any) applies for benefits under this subchapter, and at the time the eligibility of an individual (and such spouse, if any) for such benefits is redetermined, the Commissioner of Social Security shall—

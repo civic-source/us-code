@@ -3,9 +3,9 @@ title: "Section 4057 - Alternative loss allocation system for indeterminate clai
 usc_title: 42
 usc_section: "4057"
 chapter: 50
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 4057"
-generated_at: "2026-03-30T03:35:29.097Z"
+generated_at: "2026-03-30T03:37:24.224Z"
 status: "active"
 ---
 
@@ -47,10 +47,10 @@ status: "active"
     - **(A)**
       - **(i)** Upon the issuance of the rule establishing the COASTAL Formula, and each time the Administrator modifies the COASTAL Formula, the National Academy of Sciences shall—
         - **(I)** evaluate the expected financial impact on the national flood insurance program of the use of the COASTAL Formula as so established or modified; and
-        - **(II)** evaluate the validity of the scientific assumptions upon which the formula is based and determine whether the COASTAL formula can achieve a degree of accuracy of not less than 90 percent in allocating flood losses for indeterminate losses.
+        - **(II)** evaluate the validity of the scientific assumptions upon which the formula is based and determine whether the COASTAL formula 1 1 So in original. Probably should be capitalized. can achieve a degree of accuracy of not less than 90 percent in allocating flood losses for indeterminate losses.
       - **(ii)** The National Academy of Sciences shall submit a report containing the results of each evaluation under clause (i) to the Administrator, the Committee on Banking, Housing, and Urban Affairs and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Financial Services and the Committee on Science, Space, and Technology of the House of Representatives.
     - **(B)**
-      - **(i)** Paragraphs (1) and (2) of this subsection shall not take effect unless the report under subparagraph (A) relating to the establishment of the COASTAL Formula concludes that the use of the COASTAL Formula for purposes of paragraph (1) and (2) would not have an adverse financial impact on the national flood insurance program and that the COASTAL Formula is based on valid scientific assumptions that would allow a degree of accuracy of not less than 90 percent to be achieved in allocating flood losses for indeterminate losses.
+      - **(i)** Paragraphs (1) and (2) of this subsection shall not take effect unless the report under subparagraph (A) relating to the establishment of the COASTAL Formula concludes that the use of the COASTAL Formula for purposes of paragraph 2 2 So in original. Probably should be “paragraphs”. (1) and (2) would not have an adverse financial impact on the national flood insurance program and that the COASTAL Formula is based on valid scientific assumptions that would allow a degree of accuracy of not less than 90 percent to be achieved in allocating flood losses for indeterminate losses.
       - **(ii)** Unless the report under subparagraph (A) relating to a modification of the COASTAL Formula concludes that the use of the COASTAL Formula, as so modified, for purposes of paragraphs (1) and (2) would not have an adverse financial impact on the national flood insurance program and that the COASTAL Formula is based on valid scientific assumptions that would allow a degree of accuracy of not less than 90 percent to be achieved in allocating flood losses for indeterminate losses the Administrator may not use the COASTAL Formula, as so modified, for purposes of paragraphs (1) and (2).
     - **(C)** Notwithstanding section 4017 of this title , there shall be available to the Administrator from the National Flood Insurance Fund, of amounts not otherwise obligated, not more than $750,000 to carry out this paragraph.
 - **(d)** Not later than 30 days after the date on which a post-storm assessment is submitted to the Secretary under section 3611(b)(2)(C) of title 33 , for each indeterminate loss for which the COASTAL Formula is used pursuant to subsection (c)(2), the Administrator shall disclose to the policyholder that makes a claim relating to the indeterminate loss—
@@ -68,6 +68,6 @@ status: "active"
 - **(g)**
   - **(1)** If an insurance claims adjuster knowingly and willfully makes a false or inaccurate determination relating to an indeterminate loss, the Administrator may, after notice and opportunity for hearing, impose on the insurance claims adjuster a civil penalty of not more than $1,000.
   - **(2)** Notwithstanding section 3302 of title 31 or any other law relating to the crediting of money, the Administrator shall deposit in the National Flood Insurance Fund any amounts received under this subsection, which shall remain available until expended and be available to the Administrator for purposes authorized for the National Flood Insurance Fund without further appropriation.
-- **(h)** Nothing in this subsection shall be construed to require the Administrator to make any payment under the national flood insurance program, or an insurance company to make any payment, for an indeterminate loss based upon post-storm assessment or the COASTAL Formula.
+- **(h)** Nothing in this subsection 3 3 So in original. Probably should be “this section”. shall be construed to require the Administrator to make any payment under the national flood insurance program, or an insurance company to make any payment, for an indeterminate loss based upon post-storm assessment or the COASTAL Formula.
 - **(i)** Subsection (c) shall apply with respect to an indeterminate loss associated with a named storm that occurs after the date on which the Administrator issues the rule establishing the COASTAL Formula under subsection (b).
-- **(j)** Nothing in this subsection 1 1 So in original. Probably should be “this section”. shall be construed to negate, set aside, or void any policy limit, including any loss limitation, set forth in a standard insurance policy.
+- **(j)** Nothing in this subsection 3 shall be construed to negate, set aside, or void any policy limit, including any loss limitation, set forth in a standard insurance policy.

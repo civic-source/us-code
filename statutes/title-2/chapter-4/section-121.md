@@ -1,15 +1,13 @@
 ---
-title: "Section 121 - Senate restaurant deficit fund; deposit of proceeds from surcharge on orders"
+title: "Section 121 - Transferred"
 usc_title: 2
 usc_section: "121"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 121"
-generated_at: "2026-03-30T03:33:16.298Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 121. Senate restaurant deficit fund; deposit of proceeds from surcharge on orders
-
-The Committee on Rules and Administration of the United States Senate is authorized and directed hereafter to add a minimum of 10 per centum to each order in excess of 10 cents served in the Senate restaurants and 20 per centum to all orders served outside of said restaurants, and the proceeds accruing therefrom shall be placed in a fund to be used in the payment of any deficit incurred in the management of such kitchens and restaurants.
+# § 121. Transferred
 

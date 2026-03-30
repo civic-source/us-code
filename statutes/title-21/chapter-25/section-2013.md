@@ -3,9 +3,9 @@ title: "Section 2013 - NMIC requirements and review"
 usc_title: 21
 usc_section: "2013"
 chapter: 25
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "21 U.S.C. § 2013"
-generated_at: "2026-03-30T03:34:12.258Z"
+generated_at: "2026-03-30T03:36:35.999Z"
 status: "active"
 ---
 

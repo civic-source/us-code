@@ -3,9 +3,9 @@ title: "Section 416 - Letting contract for packeting, etc., of seeds, etc., for 
 usc_title: 7
 usc_section: "416"
 chapter: 17
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 416"
-generated_at: "2026-03-30T03:33:26.269Z"
+generated_at: "2026-03-30T03:36:04.579Z"
 status: "active"
 ---
 

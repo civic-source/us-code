@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T03:33:43.793Z"
+generated_at: "2026-03-30T03:36:13.250Z"
 status: "active"
 ---
 
@@ -242,17 +242,6 @@ status: "active"
         - **(III)** an evaluation of the efficacy and potential fraud and abuse of the pilot program; and
         - **(IV)** recommendations for improving the pilot program.
   - **(34)**
-    - **(A)** In this paragraph, the term “eligible retail good”—
-      - **(i)** means a good for which a title may be obtained under State law; and
-      - **(ii)** includes an automobile, recreational vehicle, boat, and manufactured home.
-    - **(B)** The Administrator may guarantee the timely payment of an open-end extension of credit to a small business concern, the proceeds of which may be used for the purchase of eligible retail goods for resale.
-    - **(C)** An open-end extension of credit guaranteed under this paragraph shall be in an amount not less than $500,000 and not more than $5,000,000.
-    - **(D)** An open-end extension of credit guaranteed under this paragraph shall have a term of not more than 5 years.
-    - **(E)** The Administrator may guarantee—
-      - **(i)** not less than 60 percent of an open-end extension of credit under this paragraph; and
-      - **(ii)** not more than 75 percent of an open-end extension of credit under this paragraph.
-    - **(F)** The lender for an open-end extension of credit guaranteed under this paragraph may allow the borrower to draw funds on the line of credit in an amount equal to not more than 100 percent of the value of the eligible retail goods to be purchased.
-  - **(35)**
     - **(A)** In this paragraph—
       - **(i)** the term “export development activity” includes—
         - **(I)** obtaining a standby letter of credit when required as a bid bond, performance bond, or advance payment guarantee;

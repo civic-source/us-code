@@ -3,9 +3,9 @@ title: "Section 3841to3844 - Repealed. Pub. L. 104–201, div. C, title XXXV, §
 usc_title: 22
 usc_section: "3841to3844"
 chapter: 51
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 3841to3844"
-generated_at: "2026-03-30T03:34:15.131Z"
+generated_at: "2026-03-30T03:36:39.910Z"
 status: "repealed"
 ---
 

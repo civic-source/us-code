@@ -3,9 +3,9 @@ title: "Section 15344 - Membership of Board of Advisors"
 usc_title: 42
 usc_section: "15344"
 chapter: 146
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 15344"
-generated_at: "2026-03-30T03:35:29.390Z"
+generated_at: "2026-03-30T03:37:24.605Z"
 status: "active"
 ---
 

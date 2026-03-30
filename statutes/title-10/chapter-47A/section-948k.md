@@ -3,9 +3,9 @@ title: "Section 948k - Detail of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "948k"
 chapter: 47
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 948k"
-generated_at: "2026-03-30T03:33:32.904Z"
+generated_at: "2026-03-30T03:36:02.453Z"
 status: "active"
 ---
 

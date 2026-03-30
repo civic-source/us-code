@@ -3,15 +3,15 @@ title: "Section 2524 - Stockpile management program"
 usc_title: 50
 usc_section: "2524"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2524"
-generated_at: "2026-03-30T03:35:33.529Z"
+generated_at: "2026-03-30T03:37:33.594Z"
 status: "active"
 ---
 
 # § 2524. Stockpile management program
 
-- **(a)** The Secretary of Energy, acting through the Administrator for Nuclear Security and in consultation with the Secretary of Defense, shall carry out a program, in support of the stockpile stewardship program, to provide for the effective management of the weapons in the nuclear weapons stockpile, including the extension of the effective life of such weapons. The program shall have the following objectives:
+- **(a)** The Secretary of Energy, acting through the Administrator and in consultation with the Secretary of Defense, shall carry out a program, in support of the stockpile stewardship program, to provide for the effective management of the weapons in the nuclear weapons stockpile, including the extension of the effective life of such weapons. The program shall have the following objectives:
   - **(1)** To increase the reliability, safety, and security of the nuclear weapons stockpile of the United States.
   - **(2)** To further reduce the likelihood of the resumption of underground nuclear weapons testing.
   - **(3)** To achieve reductions in the future size of the nuclear weapons stockpile.

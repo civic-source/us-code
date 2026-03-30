@@ -3,9 +3,9 @@ title: "Section 6439 - Evaluation; technical assistance; annual model program"
 usc_title: 20
 usc_section: "6439"
 chapter: 70
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "20 U.S.C. § 6439"
-generated_at: "2026-03-30T03:34:04.274Z"
+generated_at: "2026-03-30T03:36:22.903Z"
 status: "active"
 ---
 

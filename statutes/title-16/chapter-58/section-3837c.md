@@ -3,9 +3,9 @@ title: "Section 3837c - Duties of Secretary"
 usc_title: 16
 usc_section: "3837c"
 chapter: 58
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 3837c"
-generated_at: "2026-03-30T03:33:55.194Z"
+generated_at: "2026-03-30T03:36:30.250Z"
 status: "active"
 ---
 

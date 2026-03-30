@@ -1,15 +1,13 @@
 ---
-title: "Section 61a - Compensation of Secretary of Senate"
+title: "Section 61a - Transferred"
 usc_title: 2
 usc_section: "61a"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 61a"
-generated_at: "2026-03-30T03:33:16.293Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.693Z"
+status: "transferred"
 ---
 
-# § 61a. Compensation of Secretary of Senate
-
-The Secretary of the Senate shall be paid at an annual rate of compensation of $40,000.
+# § 61a. Transferred
 

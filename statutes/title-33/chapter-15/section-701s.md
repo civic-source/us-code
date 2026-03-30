@@ -3,9 +3,9 @@ title: "Section 701s - Small flood control projects; appropriations; amount limi
 usc_title: 33
 usc_section: "701s"
 chapter: 15
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "33 U.S.C. § 701s"
-generated_at: "2026-03-30T03:34:36.905Z"
+generated_at: "2026-03-30T03:36:55.415Z"
 status: "active"
 ---
 

@@ -1,17 +1,13 @@
 ---
-title: "Section 336 - Saving provision"
+title: "Section 336 - Transferred"
 usc_title: 2
 usc_section: "336"
 chapter: 10
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 336"
-generated_at: "2026-03-30T03:33:16.307Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.706Z"
+status: "transferred"
 ---
 
-# § 336. Saving provision
+# § 336. Transferred
 
-The provisions of this chapter shall not be construed to—
-
-  - **(1)** limit or otherwise affect any authority for the making of any appointment to, or for fixing or adjusting the pay for, any position for which the pay is disbursed by the Chief Administrative Officer of the House of Representatives; or
-  - **(2)** affect the continuity of employment of, or reduce the pay of, any employee whose pay is disbursed by the Chief Administrative Officer of the House.

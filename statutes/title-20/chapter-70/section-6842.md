@@ -3,9 +3,9 @@ title: "Section 6842 - Achievement objectives and accountability"
 usc_title: 20
 usc_section: "6842"
 chapter: 70
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "20 U.S.C. § 6842"
-generated_at: "2026-03-30T03:34:04.282Z"
+generated_at: "2026-03-30T03:36:22.914Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 721to728 - Repealed. Pub. L. 90–248, title II, § 240(e)(1) , 
 usc_title: 42
 usc_section: "721to728"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 721to728"
-generated_at: "2026-03-30T03:35:28.821Z"
+generated_at: "2026-03-30T03:37:23.839Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1115 - Federal Government and agency performance plans"
 usc_title: 31
 usc_section: "1115"
 chapter: 11
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "31 U.S.C. § 1115"
-generated_at: "2026-03-30T03:34:46.882Z"
+generated_at: "2026-03-30T03:36:57.164Z"
 status: "active"
 ---
 
@@ -55,6 +55,9 @@ status: "active"
   - **(2)** state why it is infeasible or impractical to express a performance goal in any form for the program activity.
 - **(d)** For the purpose of complying with this section, an agency may aggregate, disaggregate, or consolidate program activities, except that any aggregation or consolidation may not omit or minimize the significance of any program activity constituting a major function or operation for the agency.
 - **(e)** An agency may submit with an annual performance plan an appendix covering any portion of the plan that—
+  - **(1)** is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy; and
+  - **(2)** is properly classified pursuant to such Executive order.
+- **(f)** The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of performance plans under this section shall be performed only by Federal employees.
 - **(g)** With respect to each agency with a Chief Human Capital Officer, the Chief Human Capital Officer shall prepare that portion of the annual performance plan described under subsection (b)(5)(A).
 - **(h)** For purposes of this section and sections 1116 through 1125, and sections 9703 1 1 See References in Text note below. and 9704, the term—
   - **(1)** “agency” has the same meaning as such term is defined under section 306(f) of title 5 ;
@@ -69,4 +72,3 @@ status: "active"
   - **(10)** “performance indicator” means a particular value or characteristic used to measure output or outcome;
   - **(11)** “program activity” means a specific activity or project as listed in the program and financing schedules of the annual budget of the United States Government; and
   - **(12)** “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
-  - **(1)** is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy; and

@@ -3,9 +3,9 @@ title: "Section 645 - Adjustments"
 usc_title: 2
 usc_section: "645"
 chapter: 17
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 645"
-generated_at: "2026-03-30T03:33:16.315Z"
+generated_at: "2026-03-30T03:35:51.720Z"
 status: "active"
 ---
 
@@ -20,9 +20,8 @@ status: "active"
 - **(d)**
   - **(1)** In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency requirement pursuant to 901(b)(2)(A) 1 1 So in original. Probably should be preceded by the word “section”. of this title, the chair of the Committee on the Budget of the House of Representatives shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
   - **(2)**
-    - **(A)** In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
-    - **(B)** In the House of Representatives, a proposal to strike a designation under subparagraph (A) shall be excluded from an evaluation of budgetary effects for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
-    - **(C)** An amendment offered under subparagraph (B) that also proposes to reduce each amount appropriated or otherwise made available by the pending measure that is not required to be appropriated or otherwise made available shall be in order at any point in the reading of the pending measure.
+    - **(A)** In the House of Representatives, a proposal to strike a designation under paragraph (1) shall be excluded from an evaluation of budgetary effects for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
+    - **(B)** An amendment offered under subparagraph (A) that also proposes to reduce each amount appropriated or otherwise made available by the pending measure that is not required to be appropriated or otherwise made available shall be in order at any point in the reading of the pending measure.
 - **(e)**
   - **(1)** When the Senate is considering a bill, resolution, amendment, motion, amendment between the Houses, or conference report, if a point of order is made by a Senator against an emergency designation in that measure, that provision making such a designation shall be stricken from the measure and may not be offered as an amendment from the floor.
   - **(2)**

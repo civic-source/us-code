@@ -3,9 +3,9 @@ title: "Section 1666g - Tie-in services prohibited for issuance of credit card"
 usc_title: 15
 usc_section: "1666g"
 chapter: 41
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 1666g"
-generated_at: "2026-03-30T03:33:43.845Z"
+generated_at: "2026-03-30T03:36:13.331Z"
 status: "active"
 ---
 

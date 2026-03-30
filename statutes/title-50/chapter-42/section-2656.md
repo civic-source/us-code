@@ -3,9 +3,9 @@ title: "Section 2656 - Notice to congressional committees of certain security an
 usc_title: 50
 usc_section: "2656"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2656"
-generated_at: "2026-03-30T03:35:33.534Z"
+generated_at: "2026-03-30T03:37:33.598Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
 - **(d)** The Secretary of Energy and the Committees on Armed Services of the Senate and House of Representatives shall each establish such procedures as may be necessary to protect from unauthorized disclosure classified information, information relating to intelligence sources and methods, and sensitive law enforcement information that is submitted to those committees pursuant to this section and that are otherwise necessary to carry out the provisions of this section.
 - **(e)**
   - **(1)** Nothing in this section shall be construed as authority to withhold any information from the Committees on Armed Services of the Senate and House of Representatives on the grounds that providing the information to those committees would constitute the unauthorized disclosure of classified information, information relating to intelligence sources and methods, or sensitive law enforcement information.
-  - **(2)** Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 3091 of this title for the President to ensure that the congressional intelligence committees are kept fully informed of the intelligence activities of the United States and for those committees to notify promptly other congressional committees of any matter relating to intelligence activities requiring the attention of those committees.
+  - **(2)** Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to Congress, including the requirement under section 3091 of this title for the President to ensure that the congressional intelligence committees are kept fully informed of the intelligence activities of the United States and for those committees to notify promptly other congressional committees of any matter relating to intelligence activities requiring the attention of those committees.

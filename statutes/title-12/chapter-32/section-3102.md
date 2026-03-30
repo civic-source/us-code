@@ -3,9 +3,9 @@ title: "Section 3102 - Establishment of Federal branches and agencies by foreign
 usc_title: 12
 usc_section: "3102"
 chapter: 32
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 3102"
-generated_at: "2026-03-30T03:33:47.392Z"
+generated_at: "2026-03-30T03:36:10.709Z"
 status: "active"
 ---
 

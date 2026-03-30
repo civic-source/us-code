@@ -3,9 +3,9 @@ title: "Section 1307 - Minutes"
 usc_title: 5
 usc_section: "1307"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "5 U.S.C. § 1307"
-generated_at: "2026-03-30T03:33:07.148Z"
+generated_at: "2026-03-30T03:35:53.990Z"
 status: "active"
 ---
 

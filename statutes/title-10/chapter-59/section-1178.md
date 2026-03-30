@@ -3,9 +3,9 @@ title: "Section 1178 - System and procedures for tracking separations resulting 
 usc_title: 10
 usc_section: "1178"
 chapter: 59
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 1178"
-generated_at: "2026-03-30T03:33:32.931Z"
+generated_at: "2026-03-30T03:36:02.471Z"
 status: "active"
 ---
 

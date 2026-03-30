@@ -3,9 +3,9 @@ title: "Section 21 - Expenses for household and dependent care services necessar
 usc_title: 26
 usc_section: "21"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "26 U.S.C. § 21"
-generated_at: "2026-03-30T03:34:31.215Z"
+generated_at: "2026-03-30T03:36:52.187Z"
 status: "active"
 ---
 

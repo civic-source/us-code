@@ -3,9 +3,9 @@ title: "Section 910 - Determination of pay"
 usc_title: 33
 usc_section: "910"
 chapter: 18
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "33 U.S.C. § 910"
-generated_at: "2026-03-30T03:34:36.911Z"
+generated_at: "2026-03-30T03:36:55.422Z"
 status: "active"
 ---
 

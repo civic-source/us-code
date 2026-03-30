@@ -3,9 +3,9 @@ title: "Section 178h - Powers of Secretary of Commerce"
 usc_title: 7
 usc_section: "178h"
 chapter: 8
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 178h"
-generated_at: "2026-03-30T03:33:26.263Z"
+generated_at: "2026-03-30T03:36:04.572Z"
 status: "active"
 ---
 

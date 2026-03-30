@@ -3,9 +3,9 @@ title: "Section 5b - Grants for ecstasy and other club drugs abuse prevention"
 usc_title: 42
 usc_section: "5b"
 chapter: 6
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 5b"
-generated_at: "2026-03-30T03:35:28.698Z"
+generated_at: "2026-03-30T03:37:23.680Z"
 status: "active"
 ---
 

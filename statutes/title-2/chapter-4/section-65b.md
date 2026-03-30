@@ -1,15 +1,13 @@
 ---
-title: "Section 65b - Advances to Sergeant at Arms of Senate for extraordinary expenses"
+title: "Section 65b - Transferred"
 usc_title: 2
 usc_section: "65b"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 65b"
-generated_at: "2026-03-30T03:33:16.294Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.693Z"
+status: "transferred"
 ---
 
-# § 65b. Advances to Sergeant at Arms of Senate for extraordinary expenses
-
-The Secretary of the Senate on and after July 31, 1958 , is authorized, in his discretion, to advance to the Sergeant at Arms of the Senate such sums as may be necessary, not exceeding $4,000, to meet any extraordinary expenses of the Senate.
+# § 65b. Transferred
 

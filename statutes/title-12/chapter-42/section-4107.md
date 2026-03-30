@@ -3,9 +3,9 @@ title: "Section 4107 - Plan of action"
 usc_title: 12
 usc_section: "4107"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 4107"
-generated_at: "2026-03-30T03:33:47.401Z"
+generated_at: "2026-03-30T03:36:10.720Z"
 status: "active"
 ---
 

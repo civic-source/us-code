@@ -3,9 +3,9 @@ title: "Section 1 - Kentucky fish hatchery; authorization of appropriations"
 usc_title: 16
 usc_section: "1"
 chapter: 9
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T03:33:55.107Z"
+generated_at: "2026-03-30T03:36:30.153Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 111b - Contracts to furnish property, supplies, or services to Congress; terms varying from those offered other entities of Federal Government"
+title: "Section 111b - Transferred"
 usc_title: 2
 usc_section: "111b"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 111b"
-generated_at: "2026-03-30T03:33:16.297Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 111b. Contracts to furnish property, supplies, or services to Congress; terms varying from those offered other entities of Federal Government
-
-Notwithstanding any provision to the contrary in any contract which is entered into by any person and either the Administrator of General Services or a contracting officer of any executive agency and under which such person agrees to sell or lease to the Federal Government (or any one or more entities thereof) any unit of property, supplies, or services at a specified price or under specified terms and conditions (or both), such person may sell or lease to the Congress the same type of such property, supplies, or services at a unit price or under terms and conditions (or both) which are different from those specified in such contract; and any such sale or lease of any unit or units of such property, supplies, or services to the Congress shall not be taken into account for the purpose of determining the price at which, or the terms and conditions under which, such person is obligated under such contract to sell or lease any unit of such property, supplies, or services to any entity of the Federal Government other than the Congress. For purposes of the preceding sentence, any sale or lease of property, supplies, or services to the Senate (or any office or instrumentality thereof) or to the House of Representatives (or any office or instrumentality thereof) shall be deemed to be a sale or lease of such property, supplies, or services to the Congress.
+# § 111b. Transferred
 

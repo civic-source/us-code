@@ -1,0 +1,15 @@
+---
+title: "Section 504 - Mass mailings by Senate offices; quarterly statements; publication of summary tabulations"
+usc_title: 2
+usc_section: "504"
+chapter: 16
+current_through: "PL 113-75"
+classification: "2 U.S.C. § 504"
+generated_at: "2026-03-30T03:35:51.717Z"
+status: "active"
+---
+
+# § 504. Mass mailings by Senate offices; quarterly statements; publication of summary tabulations
+
+Two weeks after the close of each calendar quarter, or as soon as practicable thereafter, the Sergeant at Arms and Doorkeeper of the Senate shall send to each Senate office a statement of the cost of postage and paper and of the other operating expenses incurred as a result of mass mailings processed for such Senate office during such quarter. The statement shall separately identify the cost of postage and paper and other costs, and shall distinguish the costs attributable to newsletters and all other mass mailings. The statement shall also include the total cost per capita in the State. A compilation of all such statements shall be sent to the Senate Committee on Rules and Administration. A summary tabulation of such information shall be published quarterly in the Congressional Record and included in the semiannual report of the Secretary of the Senate. Such summary tabulation shall set forth for each Senate office the following information: the Senate office’s name, the total number of pieces of mass mail mailed during the quarter, the total cost of such mail, and, in the case of Senators, the cost of such mail divided by the total population of the State from which the Senator was elected, and the total number of pieces of mass mail divided by the total population of the State from which the Senator was elected, and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses.
+

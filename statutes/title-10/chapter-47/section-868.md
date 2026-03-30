@@ -3,9 +3,9 @@ title: "Section 868 - Art. 68. Branch offices"
 usc_title: 10
 usc_section: "868"
 chapter: 47
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 868"
-generated_at: "2026-03-30T03:33:32.900Z"
+generated_at: "2026-03-30T03:36:02.450Z"
 status: "active"
 ---
 

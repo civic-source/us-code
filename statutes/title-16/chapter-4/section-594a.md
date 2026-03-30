@@ -3,9 +3,9 @@ title: "Section 594a - Repealed. Pub. L. 95–313, § 16(a)(2) , formerly § 13(
 usc_title: 16
 usc_section: "594a"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 594a"
-generated_at: "2026-03-30T03:33:55.090Z"
+generated_at: "2026-03-30T03:36:30.136Z"
 status: "repealed"
 ---
 

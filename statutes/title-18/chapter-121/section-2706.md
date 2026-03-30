@@ -3,9 +3,9 @@ title: "Section 2706 - Cost reimbursement"
 usc_title: 18
 usc_section: "2706"
 chapter: 121
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "18 U.S.C. § 2706"
-generated_at: "2026-03-30T03:34:08.323Z"
+generated_at: "2026-03-30T03:36:18.312Z"
 status: "active"
 ---
 

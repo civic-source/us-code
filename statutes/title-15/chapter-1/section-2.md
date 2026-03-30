@@ -3,9 +3,9 @@ title: "Section 2 - Special provisions of a liquidation proceeding"
 usc_title: 15
 usc_section: "2"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T03:33:43.770Z"
+generated_at: "2026-03-30T03:36:13.215Z"
 status: "active"
 ---
 

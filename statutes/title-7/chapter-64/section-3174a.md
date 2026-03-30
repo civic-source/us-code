@@ -3,9 +3,9 @@ title: "Section 3174a - Pilot research program to combine medical and agricultur
 usc_title: 7
 usc_section: "3174a"
 chapter: 64
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 3174a"
-generated_at: "2026-03-30T03:33:26.428Z"
+generated_at: "2026-03-30T03:36:04.678Z"
 status: "active"
 ---
 

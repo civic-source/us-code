@@ -3,9 +3,9 @@ title: "Section 451 - Definitions"
 usc_title: 37
 usc_section: "451"
 chapter: 8
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "37 U.S.C. § 451"
-generated_at: "2026-03-30T03:34:57.925Z"
+generated_at: "2026-03-30T03:37:03.780Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(2)** The term “authorized traveler” means a person who is authorized travel and transportation allowances when performing official travel ordered or authorized by the administering Secretary. Such term includes the following:
     - **(A)** A member of the uniformed services.
     - **(B)** A family member of a member of the uniformed services.
-    - **(C)** A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member.
+    - **(C)** A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone.
     - **(D)** A person who participates in a military funeral honors detail.
     - **(E)** A Senior Reserve Officers’ Training Corps cadet or midshipman.
     - **(F)** An applicant or rejected applicant for enlistment.

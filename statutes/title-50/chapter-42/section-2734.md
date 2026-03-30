@@ -3,9 +3,9 @@ title: "Section 2734 - Programs for persons who may have been exposed to radiati
 usc_title: 50
 usc_section: "2734"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2734"
-generated_at: "2026-03-30T03:35:33.536Z"
+generated_at: "2026-03-30T03:37:33.601Z"
 status: "active"
 ---
 
@@ -18,9 +18,9 @@ status: "active"
   - **(3)** Evaluating and, if feasible, implementing, registration and monitoring of persons who may have been exposed to radiation released from the Hanford Nuclear Reservation.
 - **(c)**
   - **(1)** The States of Washington, Oregon, and Idaho shall jointly develop a single plan for implementing this section.
-  - **(2)** Not later than May 5, 1991 , such States shall submit to the Secretary of Energy and the Congress a copy of the plan developed under paragraph (1).
-  - **(3)** Not later than May 5, 1992 , such States shall submit to the Secretary of Energy and the Congress a single report on the implementation of the plan developed under paragraph (1).
-  - **(4)** In developing and implementing the plan, such States shall consult with persons carrying out current radiation dose and epidemiological research programs (including the Hanford Thyroid Disease Study of the Centers for Disease Control and the Hanford Environmental Dose Reconstruction Project of the Department of Energy), and may not cause substantial damage to such research programs.
+  - **(2)** Not later than May 5, 1991 , such States shall submit to the Secretary of Energy and Congress a copy of the plan developed under paragraph (1).
+  - **(3)** Not later than May 5, 1992 , such States shall submit to the Secretary of Energy and Congress a single report on the implementation of the plan developed under paragraph (1).
+  - **(4)** In developing and implementing the plan, such States shall consult with persons carrying out current radiation dose and epidemiological research programs (including the Hanford Thyroid Disease Study of the Centers for Disease Control and Prevention and the Hanford Environmental Dose Reconstruction Project of the Department of Energy), and may not cause substantial damage to such research programs.
 - **(d)**
   - **(1)** Except as provided in paragraph (2), a person may not disclose to the public the following:
     - **(A)** Any information obtained through a program that identifies a person who may have been exposed to radiation released from the Hanford Nuclear Reservation.

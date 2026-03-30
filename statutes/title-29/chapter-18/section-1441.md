@@ -3,9 +3,9 @@ title: "Section 1441 - Benefits under certain terminated plans"
 usc_title: 29
 usc_section: "1441"
 chapter: 18
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 1441"
-generated_at: "2026-03-30T03:34:33.907Z"
+generated_at: "2026-03-30T03:36:46.441Z"
 status: "active"
 ---
 

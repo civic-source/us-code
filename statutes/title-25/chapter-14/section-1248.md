@@ -3,9 +3,9 @@ title: "Section 1248 - Rules and regulations"
 usc_title: 25
 usc_section: "1248"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 1248"
-generated_at: "2026-03-30T03:34:13.447Z"
+generated_at: "2026-03-30T03:36:34.745Z"
 status: "active"
 ---
 

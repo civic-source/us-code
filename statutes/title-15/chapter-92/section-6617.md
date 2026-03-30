@@ -3,9 +3,9 @@ title: "Section 6617 - Suspension of penalties for certain year 2000 failures by
 usc_title: 15
 usc_section: "6617"
 chapter: 92
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 6617"
-generated_at: "2026-03-30T03:33:43.903Z"
+generated_at: "2026-03-30T03:36:13.421Z"
 status: "active"
 ---
 

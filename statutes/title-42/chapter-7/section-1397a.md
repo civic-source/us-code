@@ -3,9 +3,9 @@ title: "Section 1397a - Payments to States"
 usc_title: 42
 usc_section: "1397a"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1397a"
-generated_at: "2026-03-30T03:35:28.955Z"
+generated_at: "2026-03-30T03:37:24.021Z"
 status: "active"
 ---
 

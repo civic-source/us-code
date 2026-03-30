@@ -3,9 +3,9 @@ title: "Section 1675 - Administrative review of determinations"
 usc_title: 19
 usc_section: "1675"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "19 U.S.C. § 1675"
-generated_at: "2026-03-30T03:34:07.381Z"
+generated_at: "2026-03-30T03:36:24.454Z"
 status: "active"
 ---
 
@@ -83,7 +83,7 @@ status: "active"
       - **(iv)** No transition order may be revoked under this subsection before the date that is 5 years after the date the WTO Agreement enters into force with respect to the United States.
     - **(B)** The administering authority, in consultation with the Commission, shall determine such sequence of review of transition orders as it deems appropriate to promote administrative efficiency. To the extent practicable, older orders shall be reviewed first.
     - **(C)** For purposes of this section, the term “transition order” means—
-      - **(i)** a countervailing duty order under this subtitle or under section 1303 2 2 See References in Text note below. of this title,
+      - **(i)** a countervailing duty order under this subtitle or under section 1303 1 of this title,
       - **(ii)** an antidumping duty order under this subtitle or a finding under the Antidumping Act, 1921, or
       - **(iii)** a suspension of an investigation under section 1671c or 1673c of this title,
     - **(D)** For purposes of this subsection, a transition order shall be treated as issued on the date the WTO Agreement enters into force with respect to the United States, if such order is based on an investigation conducted by both the administering authority and the Commission.

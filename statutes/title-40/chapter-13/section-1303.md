@@ -3,9 +3,9 @@ title: "Section 1303 - Disposition of surplus real property"
 usc_title: 40
 usc_section: "1303"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "40 U.S.C. § 1303"
-generated_at: "2026-03-30T03:35:02.219Z"
+generated_at: "2026-03-30T03:37:04.446Z"
 status: "active"
 ---
 

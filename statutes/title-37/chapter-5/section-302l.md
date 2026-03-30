@@ -3,9 +3,9 @@ title: "Section 302l - Special pay: accession bonus for dental specialist office
 usc_title: 37
 usc_section: "302l"
 chapter: 5
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "37 U.S.C. § 302l"
-generated_at: "2026-03-30T03:34:57.919Z"
+generated_at: "2026-03-30T03:37:03.770Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
 - **(d)** The agreement referred to in subsection (a) shall provide that, consistent with the needs of the armed force concerned, the person executing the agreement will be assigned to duty, for the period of obligated service covered by the agreement, as an officer of the Dental Corps of the Army or the Navy or as an officer of the Air Force designated as a dental officer in a specialty designated by regulations as a critically short wartime specialty.
 - **(e)** A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a dentist, or does not complete the period of active duty in a specialty specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(f)** A person eligible to execute an agreement under both subsection (a) and section 302h of this title shall elect which authority to execute the agreement under. A person may not execute an agreement under both subsection (a) and such section 302h.
-- **(g)** No agreement under this section may be entered into after December 31, 2013 .
+- **(g)** No agreement under this section may be entered into after December 31, 2014 .

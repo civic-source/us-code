@@ -3,9 +3,9 @@ title: "Section 2731 - Worker protection at nuclear weapons facilities"
 usc_title: 50
 usc_section: "2731"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2731"
-generated_at: "2026-03-30T03:35:33.535Z"
+generated_at: "2026-03-30T03:37:33.599Z"
 status: "active"
 ---
 
@@ -28,4 +28,3 @@ status: "active"
   - **(2)** Civil penalties assessed under this subsection may not exceed $5,000 for each day in which a failure referred to in paragraph (1)(B) occurs.
 - **(c)** The Secretary shall prescribe regulations to carry out this section.
 - **(d)** For the purposes of this section, the term “hazardous substance” includes radioactive waste and mixed radioactive and hazardous waste.
-- **(e)** Of the funds authorized to be appropriated pursuant to section 3101(9)(A) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 ( Public Law 102–190 ), $10,000,000 may be used for the purpose of carrying out this section.

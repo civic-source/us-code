@@ -3,9 +3,9 @@ title: "Section 1677j - Prevention of circumvention of antidumping and counterva
 usc_title: 19
 usc_section: "1677j"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "19 U.S.C. § 1677j"
-generated_at: "2026-03-30T03:34:07.386Z"
+generated_at: "2026-03-30T03:36:24.461Z"
 status: "active"
 ---
 
@@ -57,10 +57,10 @@ status: "active"
     - **(A)** an investigation under this subtitle,
     - **(B)** an antidumping duty order issued under section 1673e of this title ,
     - **(C)** a finding issued under the Antidumping Act, 1921, or
-    - **(D)** a countervailing duty order issued under section 1671e of this title or section 1303 2 2 See References in Text note below. of this title,
+    - **(D)** a countervailing duty order issued under section 1671e of this title or section 1303 1 of this title,
   - **(2)** Paragraph (1) shall not apply with respect to altered merchandise if the administering authority determines that it would be unnecessary to consider the altered merchandise within the scope of the investigation, order, or finding.
 - **(d)**
-  - **(1)** For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 2 of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 2 of this title as a result of such investigation, the administering authority shall consider whether—
+  - **(1)** For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 1 of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 1 of this title as a result of such investigation, the administering authority shall consider whether—
     - **(A)** the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
     - **(B)** the expectations of the ultimate purchasers of the later-developed merchandise are the same as for the earlier product,
     - **(C)** the ultimate use of the earlier product and the later-developed merchandise are the same,

@@ -3,9 +3,9 @@ title: "Section 6368 - Termination of medical emergency"
 usc_title: 5
 usc_section: "6368"
 chapter: 63
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "5 U.S.C. § 6368"
-generated_at: "2026-03-30T03:33:07.170Z"
+generated_at: "2026-03-30T03:35:54.032Z"
 status: "active"
 ---
 

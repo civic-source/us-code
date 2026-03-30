@@ -3,9 +3,9 @@ title: "Section 715p - Cooperation of State in enforcement of provisions"
 usc_title: 16
 usc_section: "715p"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 715p"
-generated_at: "2026-03-30T03:33:55.103Z"
+generated_at: "2026-03-30T03:36:30.150Z"
 status: "active"
 ---
 

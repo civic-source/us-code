@@ -3,9 +3,9 @@ title: "Section 8 - Historic light station sales"
 usc_title: 16
 usc_section: "8"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T03:33:55.070Z"
+generated_at: "2026-03-30T03:36:30.113Z"
 status: "active"
 ---
 

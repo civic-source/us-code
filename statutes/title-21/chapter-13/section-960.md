@@ -3,9 +3,9 @@ title: "Section 960 - Prohibited acts A"
 usc_title: 21
 usc_section: "960"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "21 U.S.C. § 960"
-generated_at: "2026-03-30T03:34:12.250Z"
+generated_at: "2026-03-30T03:36:35.987Z"
 status: "active"
 ---
 

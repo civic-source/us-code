@@ -3,9 +3,9 @@ title: "Section 2021 - Cooperation with States"
 usc_title: 42
 usc_section: "2021"
 chapter: 23
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 2021"
-generated_at: "2026-03-30T03:35:29.032Z"
+generated_at: "2026-03-30T03:37:24.133Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(3)** the disposal into the ocean or sea of byproduct, source, or special nuclear waste materials as defined in regulations or orders of the Commission;
   - **(4)** the disposal of such other byproduct, source, or special nuclear material as the Commission determines by regulation or order should, because of the hazards or potential hazards thereof, not be so disposed of without a license from the Commission.
 - **(d)** The Commission shall enter into an agreement under subsection (b) of this section with any State if—
-  - **(1)** The Governor of that State certifies that the State has a program for the control of radiation hazards adequate to protect the public health and safety with respect to the materials within the State covered by the proposed agreement, and that the State desires to assume regulatory responsibility for such materials; and
+  - **(1)** The 1 1 So in original. Probably should not be capitalized. Governor of that State certifies that the State has a program for the control of radiation hazards adequate to protect the public health and safety with respect to the materials within the State covered by the proposed agreement, and that the State desires to assume regulatory responsibility for such materials; and
   - **(2)** the Commission finds that the State program is in accordance with the requirements of subsection ( o ) of this section and in all other respects compatible with the Commission’s program for the regulation of such materials, and that the State program is adequate to protect the public health and safety with respect to the materials covered by the proposed agreement.
 - **(e)**
   - **(1)** Before any agreement under subsection (b) of this section is signed by the Commission, the terms of the proposed agreement and of proposed exemptions pursuant to subsection (f) of this section shall be published once each week for four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.

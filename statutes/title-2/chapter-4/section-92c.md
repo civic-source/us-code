@@ -1,15 +1,13 @@
 ---
-title: "Section 92c - Performance of duties by clerical assistants of dead or resigned Member of House"
+title: "Section 92c - Transferred"
 usc_title: 2
 usc_section: "92c"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 92c"
-generated_at: "2026-03-30T03:33:16.297Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 92c. Performance of duties by clerical assistants of dead or resigned Member of House
-
-Any clerical assistants who continue on the House pay rolls under the provisions of section 92b of this title shall, while so continued, perform their duties under the direction of the Clerk of the House, and he is authorized and directed to remove from such pay rolls any such clerks who are not attending to the duties for which their services are continued.
+# § 92c. Transferred
 

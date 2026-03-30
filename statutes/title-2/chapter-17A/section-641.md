@@ -3,9 +3,9 @@ title: "Section 641 - Reconciliation"
 usc_title: 2
 usc_section: "641"
 chapter: 17
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 641"
-generated_at: "2026-03-30T03:33:16.315Z"
+generated_at: "2026-03-30T03:35:51.719Z"
 status: "active"
 ---
 
@@ -26,10 +26,10 @@ status: "active"
 - **(c)**
   - **(1)** Any committee of the House of Representatives or the Senate that is directed, pursuant to a concurrent resolution on the budget, to determine and recommend changes of the type described in paragraphs (1) and (2) of subsection (a) of this section with respect to laws within its jurisdiction, shall be deemed to have complied with such directions—
     - **(A)** if—
-      - **(i)** the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than 1 1 So in original. Probably should be “than—”.
+      - **(i)** the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than—
         - **(I)** in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
         - **(II)** in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
-      - **(ii)** the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than 1
+      - **(ii)** the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than—
         - **(I)** in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
         - **(II)** in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
     - **(B)** if the total amount of the changes recommended by such committee is not less than the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection.

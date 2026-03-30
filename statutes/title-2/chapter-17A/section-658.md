@@ -3,9 +3,9 @@ title: "Section 658 - Definitions"
 usc_title: 2
 usc_section: "658"
 chapter: 17
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 658"
-generated_at: "2026-03-30T03:33:16.316Z"
+generated_at: "2026-03-30T03:35:51.720Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ For purposes of this part:
     - **(A)** any provision in legislation, statute, or regulation that—
       - **(i)** would impose an enforceable duty upon State, local, or tribal governments, except—
         - **(I)** a condition of Federal assistance; or
-        - **(II)** a duty arising from participation in a voluntary Federal program, except as provided in subparagraph (B)); 1 1 So in original. Second closing parenthesis probably should not appear. or
+        - **(II)** a duty arising from participation in a voluntary Federal program, except as provided in subparagraph (B); or
       - **(ii)** would reduce or eliminate the amount of authorization of appropriations for—
         - **(I)** Federal financial assistance that would be provided to State, local, or tribal governments for the purpose of complying with any such previously imposed duty unless such duty is reduced or eliminated by a corresponding amount; or
         - **(II)** the control of borders by the Federal Government; or reimbursement to State, local, or tribal governments for the net cost associated with illegal, deportable, and excludable aliens, including court-mandated expenses related to emergency health care, education or criminal justice; when such a reduction or elimination would result in increased net costs to State, local, or tribal governments in providing education or emergency health care to, or incarceration of, illegal aliens; except that this subclause shall not be in effect with respect to a State, local, or tribal government, to the extent that such government has not fully cooperated in the efforts of the Federal Government to locate, apprehend, and deport illegal aliens;

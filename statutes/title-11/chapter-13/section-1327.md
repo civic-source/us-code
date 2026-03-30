@@ -3,9 +3,9 @@ title: "Section 1327 - Effect of confirmation"
 usc_title: 11
 usc_section: "1327"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "11 U.S.C. § 1327"
-generated_at: "2026-03-30T03:33:45.649Z"
+generated_at: "2026-03-30T03:36:14.111Z"
 status: "active"
 ---
 

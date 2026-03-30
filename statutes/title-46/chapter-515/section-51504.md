@@ -3,9 +3,9 @@ title: "Section 51504 - Use of training vessels"
 usc_title: 46
 usc_section: "51504"
 chapter: 515
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "46 U.S.C. § 51504"
-generated_at: "2026-03-30T03:35:34.219Z"
+generated_at: "2026-03-30T03:37:29.111Z"
 status: "active"
 ---
 

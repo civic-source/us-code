@@ -3,9 +3,9 @@ title: "Section 14102 - Definitions"
 usc_title: 40
 usc_section: "14102"
 chapter: 141
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "40 U.S.C. § 14102"
-generated_at: "2026-03-30T03:35:02.232Z"
+generated_at: "2026-03-30T03:37:04.459Z"
 status: "active"
 ---
 

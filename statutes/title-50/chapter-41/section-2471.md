@@ -3,9 +3,9 @@ title: "Section 2471 - Definitions"
 usc_title: 50
 usc_section: "2471"
 chapter: 41
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2471"
-generated_at: "2026-03-30T03:35:33.529Z"
+generated_at: "2026-03-30T03:37:33.593Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ For purposes of this chapter:
     - **(C)** The Y–12 National Security Complex, Oak Ridge, Tennessee.
     - **(D)** The Savannah River Site, Aiken, South Carolina.
     - **(E)** The Nevada National Security Site, Nevada.
-    - **(F)** Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and the Congress, determines to be consistent with the mission of the Administration.
+    - **(F)** Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and Congress, determines to be consistent with the mission of the Administration.
   - **(3)** The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 ([former] 50 U.S.C. 401 note) [now 50 U.S.C. 3001 note], Executive Order No. 12958 of April 17, 1995 ([former] 50 U.S.C. 435 note) [now 50 U.S.C. 3161 note], or successor orders, to require protection against unauthorized disclosure and that is so designated.
   - **(4)** The term “Restricted Data” has the meaning given such term in section 2014(y) of title 42 .
   - **(5)** The term “congressional defense committees” means—

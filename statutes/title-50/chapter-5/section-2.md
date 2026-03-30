@@ -3,9 +3,9 @@ title: "Section 2 - Reports to Congress"
 usc_title: 50
 usc_section: "2"
 chapter: 5
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2"
-generated_at: "2026-03-30T03:35:33.505Z"
+generated_at: "2026-03-30T03:37:33.561Z"
 status: "active"
 ---
 
@@ -20,5 +20,5 @@ status: "active"
   - **(6)** such other pertinent information on the administration of this subchapter as will enable the Congress to evaluate the effectiveness of the program provided for under this subchapter and to determine the need for additional legislation.
 - **(b)**
   - **(1)** Not later than February 15 of each year, the President shall submit to the appropriate committees of the Congress a report containing an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years.
-  - **(2)** Each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. Each such report shall also contain details regarding the materials development and research projects to be conducted under section 98h(b)(2)(G) of this title during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
+  - **(2)** Each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. Each such report shall also contain details regarding the materials development and research projects to be conducted under section 98h(b)(2)(G) 1 1 See References in Text note below. of this title during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
   - **(3)** Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to section 98d(a)(2) of this title , that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with section 98d(a)(2) of this title , as appropriate.

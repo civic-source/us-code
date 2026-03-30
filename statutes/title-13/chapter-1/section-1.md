@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 13
 usc_section: "1"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "13 U.S.C. § 1"
-generated_at: "2026-03-30T03:33:47.492Z"
+generated_at: "2026-03-30T03:36:06.601Z"
 status: "active"
 ---
 

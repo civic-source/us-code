@@ -1,0 +1,15 @@
+---
+title: "Section 5306 - Deductions for absence"
+usc_title: 2
+usc_section: "5306"
+chapter: 53
+current_through: "PL 113-75"
+classification: "2 U.S.C. § 5306"
+generated_at: "2026-03-30T03:35:51.763Z"
+status: "active"
+---
+
+# § 5306. Deductions for absence
+
+The Chief Administrative Officer of the House of Representatives (upon certification by the Clerk of the House of Representatives) shall deduct from the monthly payments (or other periodic payments authorized by law) of each Member or Delegate the amount of his salary for each day that he has been absent from the House, unless such Member or Delegate assigns as the reason for such absence the sickness of himself or of some member of his family.
+

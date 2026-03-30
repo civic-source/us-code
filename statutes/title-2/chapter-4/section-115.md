@@ -1,15 +1,13 @@
 ---
-title: "Section 115 - Index to House daily calendar"
+title: "Section 115 - Transferred"
 usc_title: 2
 usc_section: "115"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 115"
-generated_at: "2026-03-30T03:33:16.298Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 115. Index to House daily calendar
-
-The index to the daily calendar of business of the House of Representatives shall be printed only on Monday of each week.
+# § 115. Transferred
 

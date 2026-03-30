@@ -3,9 +3,9 @@ title: "Section 7300 - Contracts for nuclear ships: sales of naval shipyard arti
 usc_title: 10
 usc_section: "7300"
 chapter: 633
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 7300"
-generated_at: "2026-03-30T03:33:33.059Z"
+generated_at: "2026-03-30T03:36:02.557Z"
 status: "active"
 ---
 

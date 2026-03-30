@@ -3,9 +3,9 @@ title: "Section 565b - Time of payment; claims for shares of deceased enrollees"
 usc_title: 25
 usc_section: "565b"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 565b"
-generated_at: "2026-03-30T03:34:13.428Z"
+generated_at: "2026-03-30T03:36:34.717Z"
 status: "active"
 ---
 

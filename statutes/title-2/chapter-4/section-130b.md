@@ -1,32 +1,13 @@
 ---
-title: "Section 130b - Jury and witness service by Senate and House employees"
+title: "Section 130b - Transferred"
 usc_title: 2
 usc_section: "130b"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 130b"
-generated_at: "2026-03-30T03:33:16.299Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 130b. Jury and witness service by Senate and House employees
+# § 130b. Transferred
 
-- **(a)** For purposes of this section—
-  - **(1)** “employee” means any individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
-  - **(2)** “court of the United States” has the meaning given it by section 451 of title 28 and includes the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands.
-- **(b)** The pay of an employee shall not be reduced during a period of absence with respect to which the employee is summoned (and permitted to respond to such summons by the appropriate authority of the House of the Congress disbursing his pay), in connection with a judicial proceeding by a court or authority responsible for the conduct of that proceeding, to serve—
-  - **(1)** as a juror; or
-  - **(2)** other than as provided in subsection (c) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party;
-- **(c)** An employee is performing official duty during the period with respect to which he is summoned (and is authorized to respond to such summons by the House of the Congress disbursing his pay), or is assigned by such House, to—
-  - **(1)** testify or produce official records on behalf of the United States or the District of Columbia; or
-  - **(2)** testify in his official capacity or produce official records on behalf of a party other than the United States or the District of Columbia.
-- **(d)**
-  - **(1)** An employee may not receive fees for service—
-    - **(A)** as juror in a court of the United States or the District of Columbia; or
-    - **(B)** as a witness on behalf of the United States or the District of Columbia.
-  - **(2)** If an employee receives an amount (other than travel expenses) for service as a juror or witness during a period in which his pay may not be reduced under subsection (b) of this section, or for which he is performing official duty under subsection (c) of this section, the employee shall remit such amount to the officer who disburses the pay of the employee, which amount shall be covered into the general fund of the Treasury as miscellaneous receipts.
-- **(e)**
-  - **(1)** An employee summoned (and authorized to respond to such summons by the House of the Congress disbursing his pay), or assigned by such House, to testify or produce official rec­ords on behalf of the United States is entitled to travel expenses. If the case involves an activity in connection with which he is employed, the travel expenses shall be paid from funds otherwise available for the payment of travel expenses of such House in accordance with travel regulations of that House. If the case does not involve such an activity, the department, agency, or independent establishment of the United States on whose behalf he is so testifying or producing records shall pay to the employee his travel expenses out of appropriations otherwise available, and in accordance with regulation applicable, to that department, agency, or independent establishment for the payment of travel expenses.
-  - **(2)** An employee summoned (and permitted to respond to such summons by the House of the Congress disbursing his pay), or assigned by such House, to testify in his official capacity or produce official records on behalf of a party other than the United States, is entitled to travel expenses, unless any travel expenses are paid to the employee for his appearance by the court, authority, or party which caused him to be summoned.
-- **(f)** The Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives are authorized to prescribe, for employees of their respective Houses, such rules and regulations as may be necessary to carry out the provisions of this section.
-- **(g)** No provision of this section shall be construed to confer the consent of either House of the Congress to the production of official records of that House or to testimony by an employee of that House concerning activities related to his employment.

@@ -1,27 +1,13 @@
 ---
-title: "Section 104b - Report of disbursements for House of Representatives"
+title: "Section 104b - Transferred"
 usc_title: 2
 usc_section: "104b"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 104b"
-generated_at: "2026-03-30T03:33:16.297Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 104b. Report of disbursements for House of Representatives
+# § 104b. Transferred
 
-- **(a)** Not later than 60 days after the last day of each semiannual period, the Chief Administrative Officer of the House of Representatives shall submit to the House of Representatives, with respect to that period, a detailed, itemized report of the disbursements for the operations of the House of Representatives.
-- **(b)** The report required by subsection (a) of this section shall include—
-  - **(1)** the name of each person who receives a payment from the House of Representatives;
-  - **(2)** the quantity and price of any item furnished to the House of Representatives;
-  - **(3)** a description of any service rendered to the House of Representatives, together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
-  - **(4)** a statement of all amounts appropriated to, or received, or expended by the House of Representatives, and any unexpended balances of such amounts;
-  - **(5)** the information submitted to the Comptroller General under section 3523(a) of title 31 ; and
-  - **(6)** such additional information as may be required by regulation of the Committee on House Oversight of the House of Representatives.
-- **(c)** Notwithstanding subsection (b) of this section, if a voucher is for payment to an individual for attendance as a witness before a committee of the Congress in executive session, the report for the semiannual period in which the appearance occurs shall show only the date of payment, voucher number, and amount paid. Any information excluded from a report under the preceding sentence shall be included in the report for the next period.
-- **(d)** Each report under this section shall be printed as a House document.
-- **(e)** The provisions of—
-  - **(1)** sections 102, 103, and 104 1 1 See References in Text note below. of this title; and
-  - **(2)** section 104a of this title ;
-- **(f)** This section shall apply to the semiannual periods of January 1 through June 30 and July 1 through December 31 of each year, beginning with the semiannual period in which this section is enacted.

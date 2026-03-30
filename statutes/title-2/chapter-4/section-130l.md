@@ -1,17 +1,13 @@
 ---
-title: "Section 130l - Media support services"
+title: "Section 130l - Transferred"
 usc_title: 2
 usc_section: "130l"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 130l"
-generated_at: "2026-03-30T03:33:16.301Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 130l. Media support services
+# § 130l. Transferred
 
-- **(a)** The responsibilities of positions under the House Press Gallery, the House Periodical Press Gallery, and the House Radio and Television Correspondents’ Gallery shall include providing media support services with respect to the presidential nominating conventions of the national committees of political parties.
-- **(b)** The Standing Committee of Correspondents may enter into agreements with national committees of political parties under which the committees and persons authorized by the committees may reimburse employees for necessary expenses incurred in carrying out the responsibilities described in subsection (a) and employees may accept such reimbursement.
-- **(c)** The terms and conditions under which employees exercise responsibilities under subsection (a), and the terms and conditions of any agreement entered into under subsection (b), shall be subject to the approval of the Chief Administrative Officer of the House of Representatives.
-- **(d)** In this section, the terms “national committee” and “political party” have the meaning given such terms in section 431 of this title .

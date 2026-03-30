@@ -3,9 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-30T03:34:33.899Z"
+generated_at: "2026-03-30T03:36:46.428Z"
 status: "active"
 ---
 
@@ -23,8 +23,10 @@ status: "active"
     - **(A)** Except as provided in subparagraph (C), the annual premium rate payable to the corporation by all plans for basic benefits guaranteed under this subchapter is—
       - **(i)** in the case of a single-employer plan, an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
         - **(I)** for plan years beginning after December 31, 2005 , and before January 1, 2013 , $30;
-        - **(II)** for plan years beginning after December 31, 2012 , and before January 1, 2014 , $42; and
-        - **(III)** for plan years beginning after December 31, 2013 , $49. 1 1 So in original. The period probably should be a comma.
+        - **(II)** for plan years beginning after December 31, 2012 , and before January 1, 2014 , $42;
+        - **(III)** for plan years beginning after December 31, 2013 and before January 1, 2015 ,, 1 1 So in original. The second comma probably should follow “2013”. $49. 2 2 So in original. The period probably should be a semicolon.
+        - **(IV)** for plan years beginning after December 31, 2014 , and before January 1, 2016 , $57; and
+        - **(V)** for plan years beginning after December 31, 2015 , and before January 1, 2017 , $64.
       - **(ii)** in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
         - **(I)** 50 cents, multiplied by a fraction the numerator of which is the number of months in such year ending on or before such date and the denominator of which is 12, and
         - **(II)** $1.00, multiplied by a fraction equal to 1 minus the fraction determined under clause (i),
@@ -48,35 +50,46 @@ status: "active"
       - **(ii)** The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
     - **(E)**
       - **(i)** Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
-        - **(I)** shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year; and
-        - **(II)** in the case of plan years beginning in a calendar year after 2012, shall not exceed $400.
+        - **(I)** shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year;
+        - **(II)** in the case of plan years beginning in a calendar year after 2012 and before 2016, shall not exceed $400 3 3 So in original. Probably should be followed by a semicolon. and
+        - **(III)** in the case of plan years beginning in a calendar year after 2015, shall not exceed $500.
       - **(ii)** The amount determined under this clause for any plan year shall be an amount equal to the applicable dollar amount under paragraph (8) for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
       - **(iii)** For purposes of clause (ii), the term “unfunded vested benefits” means, for a plan year, the excess (if any) of—
         - **(I)** the funding target of the plan as determined under section 1083(d) of this title for the plan year by only taking into account vested benefits and by using the interest rate described in clause (iv), over
         - **(II)** the fair market value of plan assets for the plan year which are held by the plan on the valuation date.
       - **(iv)** The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title (notwithstanding any regulations issued by the corporation, determined by not taking into account any adjustment under clause (iv) thereof) if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
-    - **(F)** For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
+    - **(F)** For each plan year beginning in a calendar year after 2006 and before 2013, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
       - **(i)** the product derived by multiplying the premium rate specified in clause (i) of subparagraph (A) by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for 2004 (2012 in the case of plan years beginning after calendar year 2014); and
       - **(ii)** the premium rate in effect under clause (i) of subparagraph (A) for plan years beginning in the preceding calendar year.
-    - **(G)** For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (iv) of subparagraph (A) an amount equal to the greater of—
+    - **(G)** For each plan year beginning in a calendar year after 2016, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
+      - **(i)** the product derived by multiplying the premium rate specified in clause (i) of subparagraph (A) by the ratio of—
+        - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+        - **(II)** the national average wage index (as so defined) for 2014; and
+      - **(ii)** the premium rate in effect under clause (i) of subparagraph (A) for plan years beginning in the preceding calendar year.
+    - **(H)** For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (iv) of subparagraph (A) an amount equal to the greater of—
       - **(i)** the product derived by multiplying the premium rate specified in clause (iv) of subparagraph (A) by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for 2004; and
       - **(ii)** the premium rate in effect under clause (iv) of subparagraph (A) for plan years beginning in the preceding calendar year.
-    - **(H)**
+    - **(I)**
       - **(i)** In the case of an employer who has 25 or fewer employees on the first day of the plan year, the additional premium determined under subparagraph (E) for each participant shall not exceed $5 multiplied by the number of participants in the plan as of the close of the preceding plan year.
       - **(ii)** For purposes of clause (i), whether an employer has 25 or fewer employees on the first day of the plan year is determined by taking into consideration all of the employees of all members of the contributing sponsor’s controlled group. In the case of a plan maintained by two or more contributing sponsors, the employees of all contributing sponsors and their controlled groups shall be aggregated for purposes of determining whether the 25-or-fewer-employees limitation has been satisfied.
-    - **(I)** For each plan year beginning in a calendar year after 2013, there shall be substituted for the premium rate specified in clause (v) of subparagraph (A) an amount equal to the greater of—
+    - **(J)** For each plan year beginning in a calendar year after 2013, there shall be substituted for the premium rate specified in clause (v) of subparagraph (A) an amount equal to the greater of—
       - **(i)** the product derived by multiplying the premium rate specified in clause (v) of subparagraph (A) by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for 2011; and
       - **(ii)** the premium rate in effect under clause (v) of subparagraph (A) for plan years beginning in the preceding calendar year.
-    - **(J)** For each plan year beginning in a calendar year after 2013, there shall be substituted for the dollar amount specified in subclause (II) of subparagraph (E)(i) an amount equal to the greater of—
+    - **(K)** For each plan year beginning in a calendar year after 2013 and before 2016, there shall be substituted for the dollar amount specified in subclause (II) of subparagraph (E)(i) an amount equal to the greater of—
       - **(i)** the product derived by multiplying such dollar amount by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for 2011; and
+      - **(ii)** such dollar amount for plan years beginning in the preceding calendar year.
+    - **(L)** For each plan year beginning in a calendar year after 2016, there shall be substituted for the dollar amount specified in subclause (III) of subparagraph (E)(i) an amount equal to the greater of—
+      - **(i)** the product derived by multiplying such dollar amount by the ratio of—
+        - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+        - **(II)** the national average wage index (as so defined) for 2014; and
       - **(ii)** such dollar amount for plan years beginning in the preceding calendar year.
   - **(4)** The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title , alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
   - **(5)**
@@ -111,20 +124,23 @@ status: "active"
   - **(8)** For purposes of paragraph (3)(E)(ii)—
     - **(A)** Except as provided in subparagraphs (B) and (C), the applicable dollar amount shall be—
       - **(i)** $9 for plan years beginning in a calendar year before 2015;
-      - **(ii)** for plan years beginning in calendar year 2015, the amount in effect for plan years beginning in 2014 (determined after application of subparagraph (C)); and
-      - **(iii)** for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C)).
+      - **(ii)** for plan years beginning in calendar year 2015, the amount in effect for plan years beginning in 2014 (determined after application of subparagraph (C));
+      - **(iii)** for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C)); and
+      - **(iv)** for plan years beginning after calendar year 2016, the amount in effect for plan years beginning in 2016 (determined after application of subparagraph (C)).
     - **(B)** For each plan year beginning in a calendar year after 2012, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
       - **(i)** the product derived by multiplying such applicable dollar amount for plan years beginning in that calendar year by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for the base year; and
       - **(ii)** such applicable dollar amount in effect for plan years beginning in the preceding calendar year.
     - **(C)** The applicable dollar amount determined under subparagraph (A) (after the application of subparagraph (B)) shall be increased—
-      - **(i)** in the case of plan years beginning in calendar year 2014, by $4; and
-      - **(ii)** in the case of plan years beginning in calendar year 2015, by $5.
+      - **(i)** in the case of plan years beginning in calendar year 2014, by $4;
+      - **(ii)** in the case of plan years beginning in calendar year 2015, by $10; and
+      - **(iii)** in the case of plan years beginning in calendar year 2016, by $5.
     - **(D)** For purposes of subparagraph (B), the base year is—
       - **(i)** 2010, in the case of plan years beginning in calendar year 2013 or 2014;
-      - **(ii)** 2012, in the case of plan years beginning in calendar year 2015; and
-      - **(iii)** 2013, in the case of plan years beginning after calendar year 2015.
+      - **(ii)** 2012, in the case of plan years beginning in calendar year 2015;
+      - **(iii)** 2013, in the case of plan years beginning after calendar year 2015; and
+      - **(iv)** 2014, in the case of plan years beginning after calendar year 2016.
 - **(b)**
   - **(1)** In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
   - **(2)** The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
@@ -137,7 +153,7 @@ status: "active"
   - **(1)** Except as provided in subsection (a)(3) of this section, and subject to paragraph (2), the rate for all plans for basic benefits guaranteed under this subchapter with respect to plan years ending after September 2, 1974 , is—
     - **(A)** in the case of each plan which was not a multiemployer plan in a plan year—
       - **(i)** with respect to each plan year beginning before January 1, 1978 , an amount equal to $1 for each individual who was a participant in such plan during the plan year,
-      - **(ii)** with respect to each plan year beginning after December 31, 1977 , and before January 1, 1986 , an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and 2 2 So in original. The word “and” probably should not appear.
+      - **(ii)** with respect to each plan year beginning after December 31, 1977 , and before January 1, 1986 , an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and 4 4 So in original. The word “and” probably should not appear.
       - **(iii)** with respect to each plan year beginning after December 31, 1985 , and before January 1, 1988 , an amount equal to $8.50 for each individual who was a participant in such plan during the plan year, and
       - **(iv)** with respect to each plan year beginning after December 31, 1987 , and before January 1, 1991 , an amount equal to $16 for each individual who was a participant in such plan during the plan year, and
     - **(B)** in the case of each plan which was a multiemployer plan in a plan year, an amount equal to 50 cents for each individual who was a participant in such plan during the plan year.

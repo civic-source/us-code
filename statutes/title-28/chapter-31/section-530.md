@@ -3,9 +3,9 @@ title: "Section 530 - Payment of travel and transportation expenses of newly app
 usc_title: 28
 usc_section: "530"
 chapter: 31
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "28 U.S.C. § 530"
-generated_at: "2026-03-30T03:34:25.073Z"
+generated_at: "2026-03-30T03:36:47.883Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1001a - Additional Congressional findings and declaration of pol
 usc_title: 29
 usc_section: "1001a"
 chapter: 18
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 1001a"
-generated_at: "2026-03-30T03:34:33.879Z"
+generated_at: "2026-03-30T03:36:46.397Z"
 status: "active"
 ---
 

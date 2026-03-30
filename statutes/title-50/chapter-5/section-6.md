@@ -3,15 +3,15 @@ title: "Section 6 - Development of domestic sources"
 usc_title: 50
 usc_section: "6"
 chapter: 5
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 6"
-generated_at: "2026-03-30T03:35:33.505Z"
+generated_at: "2026-03-30T03:37:33.562Z"
 status: "active"
 ---
 
 # § 98h–6. Development of domestic sources
 
-- **(a)** Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development of domestic sources for materials determined pursuant to section 98b(a) of this title to be strategic and critical materials—
+- **(a)** Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development and appropriate conservation of domestic sources for materials determined pursuant to section 98b(a) of this title to be strategic and critical materials—
   - **(1)** by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile; and
   - **(2)** by contracting with domestic facilities, or making a commitment to contract with domestic facilities, for the processing or refining of strategic and critical materials in the stockpile when processing or refining is necessary to convert such materials into a form more suitable for storage and subsequent disposition.
 - **(b)** A contract or commitment made under subsection (a) of this section may not exceed five years from the date of the contract or commitment. Such purchases and commitments to purchase may be made for such quantities and on such terms and conditions, including advance payments, as the President considers to be necessary.

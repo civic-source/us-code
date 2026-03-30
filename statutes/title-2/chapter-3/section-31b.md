@@ -1,15 +1,13 @@
 ---
-title: "Section 31b - Expense allowance of Speaker of House of Representatives"
+title: "Section 31b - Transferred"
 usc_title: 2
 usc_section: "31b"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 31b"
-generated_at: "2026-03-30T03:33:16.288Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.692Z"
+status: "transferred"
 ---
 
-# § 31b. Expense allowance of Speaker of House of Representatives
-
-There shall be paid to the Speaker of the House of Representatives in equal monthly installments an expense allowance of $10,000 per annum to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
+# § 31b. Transferred
 

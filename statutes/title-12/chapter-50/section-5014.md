@@ -3,9 +3,9 @@ title: "Section 5014 - Regulations"
 usc_title: 12
 usc_section: "5014"
 chapter: 50
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 5014"
-generated_at: "2026-03-30T03:33:47.420Z"
+generated_at: "2026-03-30T03:36:10.742Z"
 status: "active"
 ---
 

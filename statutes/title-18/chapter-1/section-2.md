@@ -3,9 +3,9 @@ title: "Section 2 - Principals"
 usc_title: 18
 usc_section: "2"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "18 U.S.C. § 2"
-generated_at: "2026-03-30T03:34:08.282Z"
+generated_at: "2026-03-30T03:36:18.250Z"
 status: "active"
 ---
 

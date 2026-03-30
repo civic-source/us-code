@@ -3,9 +3,9 @@ title: "Section 8415 - Computation of basic annuity"
 usc_title: 5
 usc_section: "8415"
 chapter: 84
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "5 U.S.C. § 8415"
-generated_at: "2026-03-30T03:33:07.184Z"
+generated_at: "2026-03-30T03:35:54.059Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Except as otherwise provided in this section, the annuity of an employee retiring under this subchapter is 1 percent of that individual’s average pay multiplied by such individual’s total service.
 - **(b)** The annuity of a Member, or former Member with title to a Member annuity, retiring under this subchapter is computed under subsection (a), except that if the individual has had at least 5 years of service as a Member or Congressional employee, or any combination thereof, so much of the annuity as is computed with respect to either such type of service (or a combination thereof), not exceeding a total of 20 years, shall be computed by multiplying 1 7 ⁄ 10 percent of the individual’s average pay by the years of such service.
 - **(c)** The annuity of a Congressional employee, or former Congressional employee, retiring under this subchapter is computed under subsection (a), except that if the individual has had at least 5 years of service as a Congressional employee or Member, or any combination thereof, so much of the annuity as is computed with respect to either such type of service (or a combination thereof), not exceeding a total of 20 years, shall be computed by multiplying 1 7 ⁄ 10 percent of the individual’s average pay by the years of such service.
-- **(d)** Notwithstanding any other provision of law, the annuity of an individual described in subsection (b) or (c) who is a revised annuity employee shall be computed in the same manner as in the case of an individual described in subsection (a).
+- **(d)** Notwithstanding any other provision of law, the annuity of an individual described in subsection (b) or (c) who is a revised annuity employee or a further revised annuity employee shall be computed in the same manner as in the case of an individual described in subsection (a).
 - **(e)** The annuity of an employee retiring under subsection (d) or (e) of section 8412 or under subsection (a), (b), or (c) of section 8425 is—
   - **(1)** 1 7 ⁄ 10 percent of that individual’s average pay multiplied by so much of such individual’s total service as does not exceed 20 years; plus
   - **(2)** 1 percent of that individual’s average pay multiplied by so much of such individual’s total service as exceeds 20 years.

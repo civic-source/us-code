@@ -1,15 +1,13 @@
 ---
-title: "Section 68a - Materials, supplies, and fuel payments from Senate contingent fund"
+title: "Section 68a - Transferred"
 usc_title: 2
 usc_section: "68a"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 68a"
-generated_at: "2026-03-30T03:33:16.295Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 68a. Materials, supplies, and fuel payments from Senate contingent fund
-
-Payments from the contingent fund of the Senate for materials and supplies (including fuel) purchased on and after July 8, 1935 , through the Administrator of General Services shall be made by check upon vouchers approved by the Committee on Rules and Administration of the Senate.
+# § 68a. Transferred
 

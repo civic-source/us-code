@@ -3,9 +3,9 @@ title: "Section 157d - Additional boundary revision; acquisition of lands and in
 usc_title: 16
 usc_section: "157d"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 157d"
-generated_at: "2026-03-30T03:33:54.990Z"
+generated_at: "2026-03-30T03:36:30.020Z"
 status: "active"
 ---
 

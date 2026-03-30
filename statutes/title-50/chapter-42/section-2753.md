@@ -3,9 +3,9 @@ title: "Section 2753 - Notification of cost overruns for certain Department of E
 usc_title: 50
 usc_section: "2753"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2753"
-generated_at: "2026-03-30T03:35:33.536Z"
+generated_at: "2026-03-30T03:37:33.602Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
       - **(ii)** carried out by the Department using funds authorized to be appropriated for a fiscal year pursuant to a DOE national security authorization.
     - **(B)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Secretary shall submit the cost and schedule baseline to the congressional defense committees.
   - **(3)**
-    - **(A)** The Secretary shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each defense environmental management project that is—
+    - **(A)** The Secretary shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each defense environmental cleanup project that is—
       - **(i)** in excess of $50,000,000; and
       - **(ii)** carried out by the Department pursuant to such protocols.
     - **(B)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Secretary shall submit the cost and schedule baseline to the congressional defense committees.

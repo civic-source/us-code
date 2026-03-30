@@ -1,15 +1,13 @@
 ---
-title: "Section 32a - Compensation of Deputy President pro tempore of Senate"
+title: "Section 32a - Transferred"
 usc_title: 2
 usc_section: "32a"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 32a"
-generated_at: "2026-03-30T03:33:16.288Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.692Z"
+status: "transferred"
 ---
 
-# § 32a. Compensation of Deputy President pro tempore of Senate
-
-Effective January 5, 1977 , the compensation of a Deputy President pro tempore of the Senate shall be at a rate equal to the rate of annual compensation of the President pro tempore and the Majority and Minority Leaders of the Senate.
+# § 32a. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 9481 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) , Aug. 
 usc_title: 42
 usc_section: "9481"
 chapter: 102
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 9481"
-generated_at: "2026-03-30T03:35:29.250Z"
+generated_at: "2026-03-30T03:37:24.438Z"
 status: "repealed"
 ---
 

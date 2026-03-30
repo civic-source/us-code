@@ -3,9 +3,9 @@ title: "Section 1a - Recovery of expenditures under certain conditions"
 usc_title: 42
 usc_section: "1a"
 chapter: 6
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T03:35:28.741Z"
+generated_at: "2026-03-30T03:37:23.735Z"
 status: "active"
 ---
 

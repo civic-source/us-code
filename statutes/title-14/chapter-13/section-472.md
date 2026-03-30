@@ -3,9 +3,9 @@ title: "Section 472 - Education loan repayment program"
 usc_title: 14
 usc_section: "472"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "14 U.S.C. § 472"
-generated_at: "2026-03-30T03:33:49.159Z"
+generated_at: "2026-03-30T03:36:06.894Z"
 status: "active"
 ---
 

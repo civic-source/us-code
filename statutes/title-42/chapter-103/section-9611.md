@@ -3,9 +3,9 @@ title: "Section 9611 - Uses of Fund"
 usc_title: 42
 usc_section: "9611"
 chapter: 103
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 9611"
-generated_at: "2026-03-30T03:35:29.256Z"
+generated_at: "2026-03-30T03:37:24.445Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(2)** No money in the Fund may be used for the payment of any claim under subsection (b) of this section where such expenses are associated with injury or loss resulting from long-term exposure to ambient concentrations of air pollutants from multiple or diffuse sources.
 - **(e)**
   - **(1)** Claims against or presented to the Fund shall not be valid or paid in excess of the total money in the Fund at any one time. Such claims become valid only when additional money is collected, appropriated, or otherwise added to the Fund. Should the total claims outstanding at any time exceed the current balance of the Fund, the President shall pay such claims, to the extent authorized under this section, in full in the order in which they were finally determined.
-  - **(2)** In any fiscal year, 85 percent of the money credited to the Fund under subchapter II 2 2 See References in Text note below. of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
+  - **(2)** In any fiscal year, 85 percent of the money credited to the Fund under subchapter II 1 of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
   - **(3)** No money in the Fund shall be available for remedial action, other than actions specified in subsection (c) of this section, with respect to federally owned facilities; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party.
   - **(4)** Paragraphs (1) and (4) of subsection (a) of this section shall in the aggregate be subject to such amounts as are provided in appropriation Acts.
 - **(f)** The President is authorized to promulgate regulations designating one or more Federal officials who may obligate money in the Fund in accordance with this section or portions thereof. The President is also authorized to delegate authority to obligate money in the Fund or to settle claims to officials of a State or Indian tribe operating under a contract or cooperative agreement with the Federal Government pursuant to section 9604(d) of this title .

@@ -3,9 +3,9 @@ title: "Section 8401 - Definitions"
 usc_title: 5
 usc_section: "8401"
 chapter: 84
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "5 U.S.C. § 8401"
-generated_at: "2026-03-30T03:33:07.183Z"
+generated_at: "2026-03-30T03:35:54.057Z"
 status: "active"
 ---
 
@@ -97,10 +97,16 @@ For the purpose of this chapter—
   - **(35)** the term “air traffic controller” or “controller” means—
     - **(A)** a controller within the meaning of section 2109(1); and
     - **(B)** a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
-  - **(36)** the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007 ) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years; and
+  - **(36)** the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007 ) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
   - **(37)** the term “revised annuity employee” means any individual who—
     - **(A)** on December 31, 2012 —
       - **(i)** is not an employee or Member covered under this chapter;
       - **(ii)** is not performing civilian service which is creditable service under section 8411; and
       - **(iii)** has less than 5 years of creditable civilian service under section 8411; and
-    - **(B)** after December 31, 2012 , becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
+    - **(B)** after December 31, 2012 , and before January 1, 2014 , becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
+  - **(38)** the term “further revised annuity employee” means any individual who—
+    - **(A)** on December 31, 2013 —
+      - **(i)** is not an employee or Member covered under this chapter;
+      - **(ii)** is not performing civilian service which is creditable service under section 8411; and
+      - **(iii)** has less than 5 years of creditable civilian service under section 8411; and
+    - **(B)** after December 31, 2013 , becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.

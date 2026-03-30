@@ -3,9 +3,9 @@ title: "Section 10164 - Survey"
 usc_title: 42
 usc_section: "10164"
 chapter: 108
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 10164"
-generated_at: "2026-03-30T03:35:29.281Z"
+generated_at: "2026-03-30T03:37:24.476Z"
 status: "active"
 ---
 

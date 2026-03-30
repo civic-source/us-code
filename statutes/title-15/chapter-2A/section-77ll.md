@@ -3,9 +3,9 @@ title: "Section 77ll - Effective date of subchapter"
 usc_title: 15
 usc_section: "77ll"
 chapter: 2
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 77ll"
-generated_at: "2026-03-30T03:33:43.743Z"
+generated_at: "2026-03-30T03:36:13.175Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7256 - Contracts, leases, etc., with public agencies and private
 usc_title: 42
 usc_section: "7256"
 chapter: 84
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 7256"
-generated_at: "2026-03-30T03:35:29.185Z"
+generated_at: "2026-03-30T03:37:24.353Z"
 status: "active"
 ---
 
@@ -48,4 +48,4 @@ status: "active"
       - **(i)** the use by the Department of authorities under this section, including the ability to attract nontraditional Government contractors; and
       - **(ii)** whether additional safeguards are necessary to carry out the authorities.
   - **(9)** The authority of the Secretary under this subsection may be delegated only to an officer of the Department who is appointed by the President by and with the advice and consent of the Senate.
-  - **(10)** Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2015 .
+  - **(10)** Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2020 .

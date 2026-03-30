@@ -3,9 +3,9 @@ title: "Section 1050a - African cooperation: payment of personnel expenses"
 usc_title: 10
 usc_section: "1050a"
 chapter: 53
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 1050a"
-generated_at: "2026-03-30T03:33:32.913Z"
+generated_at: "2026-03-30T03:36:02.459Z"
 status: "active"
 ---
 

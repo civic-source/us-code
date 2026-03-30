@@ -3,9 +3,9 @@ title: "Section 1481 - Recovery, care, and disposition of remains: decedents cov
 usc_title: 10
 usc_section: "1481"
 chapter: 75
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 1481"
-generated_at: "2026-03-30T03:33:32.944Z"
+generated_at: "2026-03-30T03:36:02.480Z"
 status: "active"
 ---
 
@@ -33,5 +33,6 @@ status: "active"
     - **(B)** is not covered by subparagraph (A) and, while in a retired status by reason of eligibility to retire under chapter 61 of this title, dies during a continuous hospitalization of the person that began while the person was on active duty as a Regular of an armed force under the Secretary’s jurisdiction.
   - **(8)** Any military prisoner who dies while in his custody.
   - **(9)** To the extent authorized under section 1482(f) of this title , any retired member of an armed force who dies while outside the United States or any individual who dies outside the United States while a dependent of such a member.
+  - **(10)** To the extent authorized under section 1482(g) of this title , any person not otherwise covered by the preceding paragraphs whose remains (or partial remains) have been retained by the Secretary concerned for purposes of a forensic pathology investigation by the Armed Forces Medical Examiner under section 1471 of this title .
 - **(b)** This section applies to each person covered by subsection (a)(1)–(7) even though he may have been temporarily absent from active duty, with or without leave, at the time of his death, unless he had been dropped from the rolls of his organization before his death.
 - **(c)** In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title .

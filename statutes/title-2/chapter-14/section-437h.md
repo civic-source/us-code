@@ -3,9 +3,9 @@ title: "Section 437h - Judicial review"
 usc_title: 2
 usc_section: "437h"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 437h"
-generated_at: "2026-03-30T03:33:16.310Z"
+generated_at: "2026-03-30T03:35:51.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1281a - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(3
 usc_title: 22
 usc_section: "1281a"
 chapter: 15
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 1281a"
-generated_at: "2026-03-30T03:34:15.074Z"
+generated_at: "2026-03-30T03:36:39.824Z"
 status: "repealed"
 ---
 

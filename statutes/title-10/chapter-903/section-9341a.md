@@ -3,9 +3,9 @@ title: "Section 9341a - Cadets: appointment by the President"
 usc_title: 10
 usc_section: "9341a"
 chapter: 903
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 9341a"
-generated_at: "2026-03-30T03:33:33.075Z"
+generated_at: "2026-03-30T03:36:02.567Z"
 status: "active"
 ---
 

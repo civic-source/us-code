@@ -3,9 +3,9 @@ title: "Section 2883 - Establishment"
 usc_title: 29
 usc_section: "2883"
 chapter: 30
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 2883"
-generated_at: "2026-03-30T03:34:33.917Z"
+generated_at: "2026-03-30T03:36:46.458Z"
 status: "active"
 ---
 

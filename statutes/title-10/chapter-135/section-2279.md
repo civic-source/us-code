@@ -1,0 +1,26 @@
+---
+title: "Section 2279 - Foreign commercial satellite services"
+usc_title: 10
+usc_section: "2279"
+chapter: 135
+current_through: "PL 113-75"
+classification: "10 U.S.C. § 2279"
+generated_at: "2026-03-30T03:36:02.500Z"
+status: "active"
+---
+
+# § 2279. Foreign commercial satellite services
+
+- **(a)** Except as provided in subsection (b), the Secretary of Defense may not enter into a contract for satellite services with a foreign entity if the Secretary reasonably believes that—
+  - **(1)** the foreign entity is an entity in which the government of a covered foreign country has an ownership interest that enables that government to affect satellite operations; or
+  - **(2)** the foreign entity plans to or is expected to provide launch or other satellite services under the contract from a covered foreign country.
+- **(b)** The prohibition in subsection (a) shall not apply to a contract if—
+  - **(1)** the Secretary determines it is in the national security of the United States to enter into such contract; and
+  - **(2)** not later than 7 days before entering into such contract, the Secretary, in consultation with the Director of National Intelligence, submits to the congressional defense committees a national security assessment for such contract that includes the following:
+    - **(A)** The projected period of performance (including any period covered by options to extend the contract), the financial terms, and a description of the services to be provided under the contract.
+    - **(B)** To the extent practicable, a description of the ownership interest that a covered foreign country has in the foreign entity providing satellite services to the Department of Defense under the contract and the launch or other satellite services that will be provided in a covered foreign country under the contract.
+    - **(C)** A justification for entering into a contract with such foreign entity and a description of the actions necessary to eliminate the need to enter into such a contract with such foreign entity in the future.
+    - **(D)** A risk assessment of entering into a contract with such foreign entity, including an assessment of mission assurance and security of information and a description of any measures necessary to mitigate risks found by such risk assessment.
+- **(c)** The Secretary of Defense may only delegate the authority under subsection (b) to enter into a contract subject to the prohibition under subsection (a) to the Deputy Secretary of Defense, the Under Secretary of Defense for Policy, or the Under Secretary of Defense for Acquisition, Technology, and Logistics and such authority may not be further delegated.
+- **(d)** Each assessment under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
+- **(e)** In this section, the term “covered foreign country” means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 ( Public Law 112–239 ; 126 Stat. 2019 ).

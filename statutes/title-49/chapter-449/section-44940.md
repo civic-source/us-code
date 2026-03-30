@@ -3,9 +3,9 @@ title: "Section 44940 - Security service fee"
 usc_title: 49
 usc_section: "44940"
 chapter: 449
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "49 U.S.C. § 44940"
-generated_at: "2026-03-30T03:35:36.220Z"
+generated_at: "2026-03-30T03:37:32.479Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
       - **(iv)** Determinations of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334 : Provided, That such judicial review shall be pursuant to section 46110 of title 49 , United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007 .
     - **(C)** The amount of fees collected under this paragraph from any carrier for fiscal year 2002 may not exceed the amounts paid by that carrier for screening passengers and property for a period of time in calendar year 2000 proportionate to the period of time in fiscal year 2002 during which fees are collected under this paragraph.
 - **(b)** In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration’s costs of providing services rendered.
-- **(c)** Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip.
+- **(c)** Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.
 - **(d)**
   - **(1)** Notwithstanding section 9701 of title 31 and the procedural requirements of section 553 of title 5 , the Under Secretary shall impose the fee under subsection (a)(1), and may impose a fee under subsection (a)(2), through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
   - **(2)** A fee imposed under subsection (a)(1) through the procedures under subsection (d) shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
@@ -51,7 +51,17 @@ status: "active"
 - **(g)** The Under Secretary may refund any fee paid by mistake or any amount paid in excess of that required.
 - **(h)** The Under Secretary may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 - **(i)**
-  - **(1)** There is established in the Department of Homeland Security a fund to be known as the “Checkpoint Screening Security Fund”.
-  - **(2)** In fiscal year 2008, after amounts are made available under section 44923(h), the next $250,000,000 derived from fees received under subsection (a)(1) shall be available to be deposited in the Fund.
-  - **(3)** The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect at least $250,000,000 in fiscal year 2008 for deposit into the Fund.
-  - **(4)** Amounts in the Fund shall be available until expended by the Administrator of the Transportation Security Administration for the purchase, deployment, installation, research, and development of equipment to improve the ability of security screening personnel at screening checkpoints to detect explosives.
+  - **(1)** Beginning in fiscal year 2014, out of fees received in a fiscal year under subsection (a)(1), after amounts are made available in the fiscal year under section 44923(h), the next funds derived from such fees in the fiscal year, in the amount specified for the fiscal year in paragraph (4), shall be credited as offsetting receipts and deposited in the general fund of the Treasury.
+  - **(2)** The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect in a fiscal year at least the amount specified in paragraph (4) for the fiscal year for making deposits under paragraph (1).
+  - **(3)** Subsections (b) and (f) shall not apply to amounts to be used for making deposits under this subsection.
+  - **(4)** For purposes of paragraphs (1) and (2), the fiscal year amounts are as follows:
+    - **(A)** $390,000,000 for fiscal year 2014.
+    - **(B)** $1,190,000,000 for fiscal year 2015.
+    - **(C)** $1,250,000,000 for fiscal year 2016.
+    - **(D)** $1,280,000,000 for fiscal year 2017.
+    - **(E)** $1,320,000,000 for fiscal year 2018.
+    - **(F)** $1,360,000,000 for fiscal year 2019.
+    - **(G)** $1,400,000,000 for fiscal year 2020.
+    - **(H)** $1,440,000,000 for fiscal year 2021.
+    - **(I)** $1,480,000,000 for fiscal year 2022.
+    - **(J)** $1,520,000,000 for fiscal year 2023.

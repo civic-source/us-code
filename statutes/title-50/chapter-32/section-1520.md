@@ -3,9 +3,9 @@ title: "Section 1520 - Repealed. Pub. L. 105–85, div. A, title X, § 1078(g) ,
 usc_title: 50
 usc_section: "1520"
 chapter: 32
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 1520"
-generated_at: "2026-03-30T03:35:33.512Z"
+generated_at: "2026-03-30T03:37:33.571Z"
 status: "repealed"
 ---
 

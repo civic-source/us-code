@@ -3,9 +3,9 @@ title: "Section 7571 - Quarters or other accommodations: to whom furnished"
 usc_title: 10
 usc_section: "7571"
 chapter: 649
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 7571"
-generated_at: "2026-03-30T03:33:33.064Z"
+generated_at: "2026-03-30T03:36:02.559Z"
 status: "active"
 ---
 

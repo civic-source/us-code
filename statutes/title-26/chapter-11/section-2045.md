@@ -3,9 +3,9 @@ title: "Section 2045 - Prior interests"
 usc_title: 26
 usc_section: "2045"
 chapter: 11
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "26 U.S.C. § 2045"
-generated_at: "2026-03-30T03:34:31.378Z"
+generated_at: "2026-03-30T03:36:52.369Z"
 status: "active"
 ---
 

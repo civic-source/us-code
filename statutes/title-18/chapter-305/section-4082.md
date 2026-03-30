@@ -3,9 +3,9 @@ title: "Section 4082 - Commitment to Attorney General; residential treatment cen
 usc_title: 18
 usc_section: "4082"
 chapter: 305
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "18 U.S.C. § 4082"
-generated_at: "2026-03-30T03:34:08.338Z"
+generated_at: "2026-03-30T03:36:18.335Z"
 status: "active"
 ---
 

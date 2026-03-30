@@ -3,9 +3,9 @@ title: "Section 1771a - Gay Head Indian claims settlement fund"
 usc_title: 25
 usc_section: "1771a"
 chapter: 19
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 1771a"
-generated_at: "2026-03-30T03:34:13.470Z"
+generated_at: "2026-03-30T03:36:34.774Z"
 status: "active"
 ---
 

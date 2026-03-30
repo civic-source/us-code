@@ -3,9 +3,9 @@ title: "Section 2854 - Use of funds for youth activities"
 usc_title: 29
 usc_section: "2854"
 chapter: 30
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 2854"
-generated_at: "2026-03-30T03:34:33.916Z"
+generated_at: "2026-03-30T03:36:46.455Z"
 status: "active"
 ---
 

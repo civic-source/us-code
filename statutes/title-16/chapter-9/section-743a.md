@@ -3,9 +3,9 @@ title: "Section 743a - Detail of personnel and loan of equipment to Director of 
 usc_title: 16
 usc_section: "743a"
 chapter: 9
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 743a"
-generated_at: "2026-03-30T03:33:55.106Z"
+generated_at: "2026-03-30T03:36:30.152Z"
 status: "active"
 ---
 

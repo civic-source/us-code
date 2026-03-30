@@ -3,9 +3,9 @@ title: "Section 1849 - Federal Reserve banks as fiscal agents"
 usc_title: 15
 usc_section: "1849"
 chapter: 45
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 1849"
-generated_at: "2026-03-30T03:33:43.858Z"
+generated_at: "2026-03-30T03:36:13.351Z"
 status: "active"
 ---
 

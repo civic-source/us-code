@@ -3,9 +3,9 @@ title: "Section 616 - Recommendations for promotion by selection boards"
 usc_title: 10
 usc_section: "616"
 chapter: 36
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 616"
-generated_at: "2026-03-30T03:33:32.888Z"
+generated_at: "2026-03-30T03:36:02.441Z"
 status: "active"
 ---
 

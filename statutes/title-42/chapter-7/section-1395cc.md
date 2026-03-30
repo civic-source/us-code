@@ -3,9 +3,9 @@ title: "Section 1395cc - Agreements with providers of services; enrollment proce
 usc_title: 42
 usc_section: "1395cc"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1395cc"
-generated_at: "2026-03-30T03:35:28.899Z"
+generated_at: "2026-03-30T03:37:23.943Z"
 status: "active"
 ---
 
@@ -93,7 +93,7 @@ status: "active"
   - **(1)** a clinic, rehabilitation agency, or public health agency if, in the case of a clinic or rehabilitation agency, such clinic or agency meets the requirements of section 1395x(p)(4)(A) of this title (or meets the requirements of such section through the operation of subsection (g) or ( ll )(2) of section 1395x of this title ), or if, in the case of a public health agency, such agency meets the requirements of section 1395x(p)(4)(B) of this title (or meets the requirements of such section through the operation of subsection (g) or ( ll )(2) of section 1395x of this title ), but only with respect to the furnishing of outpatient physical therapy services (as therein defined), (through the operation of section 1395x(g) of this title ) with respect to the furnishing of outpatient occupational therapy services, or (through the operation of section 1395x( ll )(2) of this title) with respect to the furnishing of outpatient speech-language pathology; and
   - **(2)** a community mental health center (as defined in section 1395x(ff)(3)(B) of this title ), but only with respect to the furnishing of partial hospitalization services (as described in section 1395x(ff)(1) of this title ).
 - **(f)**
-  - **(1)** For purposes of subsection (a)(1)(Q) of this section and sections 1395i–3(c)(2)(E), 1395 l (s), 1395w–25(i), 1395mm(c)(8), and 1395bbb(a)(6) of this title, the requirement of this subsection is that a provider of services, Medicare+Choice organization, or prepaid or eligible organization (as the case may be) maintain written policies and procedures with respect to all adult individuals receiving medical care by or through the provider or organization—
+  - **(1)** For purposes of subsection (a)(1)(Q) of this section and sections 1395i–3(c)(2)(E), 6 6 So in original. Probably should refer to section 1395i–3(c)(1)(E). 1395 l (s), 1395w–25(i), 1395mm(c)(8), and 1395bbb(a)(6) of this title, the requirement of this subsection is that a provider of services, Medicare+Choice organization, or prepaid or eligible organization (as the case may be) maintain written policies and procedures with respect to all adult individuals receiving medical care by or through the provider or organization—
     - **(A)** to provide written information to each such individual concerning—
       - **(i)** an individual’s rights under State law (whether statutory or as recognized by the courts of the State) to make decisions concerning such medical care, including the right to accept or refuse medical or surgical treatment and the right to formulate advance directives (as defined in paragraph (3)), and
       - **(ii)** the written policies of the provider or organization respecting the implementation of such rights;
@@ -158,7 +158,7 @@ status: "active"
     - **(E)** In reviewing the application of a provider of services or supplier to enroll or reenroll under the program under this subchapter, the Secretary shall take into account the information supplied by the Secretary of the Treasury pursuant to section 6103( l )(22) of the Internal Revenue Code of 1986, in determining whether to deny such application or to apply enhanced oversight to such provider of services or supplier pursuant to paragraph (3) if the Secretary determines such provider of services or supplier owes such a debt.
     - **(F)** The Secretary may promulgate an interim final rule to carry out this paragraph.
   - **(3)**
-    - **(A)** The Secretary shall establish procedures to provide for a provisional period of not less than 30 days and not more than 1 year during which new providers of medical or other items or services and suppliers, as the Secretary determines appropriate, including categories of providers or suppliers, would be subject to enhanced oversight, such as prepayment review and payment caps, under the program under this subchapter, the Medicaid program under subchapter XIX. 6 6 So in original. Probably should be a comma. and the CHIP program under subchapter XXI.
+    - **(A)** The Secretary shall establish procedures to provide for a provisional period of not less than 30 days and not more than 1 year during which new providers of medical or other items or services and suppliers, as the Secretary determines appropriate, including categories of providers or suppliers, would be subject to enhanced oversight, such as prepayment review and payment caps, under the program under this subchapter, the Medicaid program under subchapter XIX. 7 7 So in original. Probably should be a comma. and the CHIP program under subchapter XXI.
     - **(B)** The Secretary may establish by program instruction or otherwise the procedures under this paragraph.
   - **(4)** For periods beginning after January 1, 2011 , if the Secretary determines that there is a significant risk of fraudulent activity among suppliers of durable medical equipment, in the case of a supplier of durable medical equipment who is within a category or geographic area under this subchapter identified pursuant to such determination and who is initially enrolling under such subchapter, the Secretary shall, notwithstanding sections 1395h(c), 1395u(c), and 1395ff(a)(2) of this title, withhold payment under such subchapter with respect to durable medical equipment furnished by such supplier during the 90-day period beginning on the date of the first submission of a claim under such subchapter for durable medical equipment furnished by such supplier.
   - **(5)**

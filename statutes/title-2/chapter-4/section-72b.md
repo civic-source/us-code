@@ -1,15 +1,13 @@
 ---
-title: "Section 72b - Regulations governing availability of appropriations for House committee employees"
+title: "Section 72b - Transferred"
 usc_title: 2
 usc_section: "72b"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 72b"
-generated_at: "2026-03-30T03:33:16.295Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 72b. Regulations governing availability of appropriations for House committee employees
-
-Appropriations for committee employees shall be available in such amounts and under such regulations as may be approved by the Committee on House Oversight for compensation of employees of the standing committees of the House of Representatives, except the Committee on Appropriations.
+# § 72b. Transferred
 

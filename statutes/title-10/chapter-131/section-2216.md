@@ -3,9 +3,9 @@ title: "Section 2216 - Defense Modernization Account"
 usc_title: 10
 usc_section: "2216"
 chapter: 131
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 2216"
-generated_at: "2026-03-30T03:33:32.969Z"
+generated_at: "2026-03-30T03:36:02.496Z"
 status: "active"
 ---
 
@@ -55,15 +55,9 @@ status: "active"
     - **(C)** the calculation of—
       - **(i)** the savings to be derived from projects described in subsection (d)(1) that are to be funded out of the Defense Modernization Account; and
       - **(ii)** the amounts to be reimbursed to the Defense Modernization Account out of such savings pursuant to subsection (c)(1)(B)(iii).
-- **(i)**
-  - **(1)** Not later than 15 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional committees specified in paragraph (2) a report on the Defense Modernization Account. Each such report shall set forth the following:
-    - **(A)** The amount and source of each credit to the account during that fiscal year.
-    - **(B)** The amount and purpose of each transfer from the account during that fiscal year.
-    - **(C)** The balance in the account at the end of the fiscal year and, of such balance, the amount attributable to transfers to the account from each Secretary concerned.
-  - **(2)** The committees referred to in paragraph (1) are the congressional defense committees and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives.
-- **(j)** In this section:
+- **(i)** In this section:
   - **(1)** The term “Secretary concerned” includes the Secretary of Defense with respect to Defense-wide appropriations accounts.
   - **(2)** The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
-- **(k)**
+- **(j)**
   - **(1)** The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2006 .
   - **(2)** Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.

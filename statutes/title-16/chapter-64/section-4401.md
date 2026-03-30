@@ -3,9 +3,9 @@ title: "Section 4401 - Findings and statement of purpose"
 usc_title: 16
 usc_section: "4401"
 chapter: 64
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 4401"
-generated_at: "2026-03-30T03:33:55.204Z"
+generated_at: "2026-03-30T03:36:30.261Z"
 status: "active"
 ---
 

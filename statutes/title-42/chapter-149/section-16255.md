@@ -3,9 +3,9 @@ title: "Section 16255 - Preprocessing and harvesting demonstration grants"
 usc_title: 42
 usc_section: "16255"
 chapter: 149
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 16255"
-generated_at: "2026-03-30T03:35:29.409Z"
+generated_at: "2026-03-30T03:37:24.629Z"
 status: "active"
 ---
 

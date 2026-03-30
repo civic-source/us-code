@@ -3,9 +3,9 @@ title: "Section 523 - Authorized strengths: commissioned officers on active duty
 usc_title: 10
 usc_section: "523"
 chapter: 32
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 523"
-generated_at: "2026-03-30T03:33:32.884Z"
+generated_at: "2026-03-30T03:36:02.438Z"
 status: "active"
 ---
 

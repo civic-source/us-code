@@ -3,9 +3,9 @@ title: "Section 7361to7364 - Repealed. Pub. L. 102–486, title XVI, § 1606 , O
 usc_title: 42
 usc_section: "7361to7364"
 chapter: 84
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 7361to7364"
-generated_at: "2026-03-30T03:35:29.188Z"
+generated_at: "2026-03-30T03:37:24.357Z"
 status: "repealed"
 ---
 

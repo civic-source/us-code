@@ -3,9 +3,9 @@ title: "Section 460ii - Establishment; boundaries; publication in Federal Regist
 usc_title: 16
 usc_section: "460ii"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 460ii"
-generated_at: "2026-03-30T03:33:55.049Z"
+generated_at: "2026-03-30T03:36:30.089Z"
 status: "active"
 ---
 

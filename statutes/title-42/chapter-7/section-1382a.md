@@ -3,9 +3,9 @@ title: "Section 1382a - Income; earned and unearned income defined; exclusions f
 usc_title: 42
 usc_section: "1382a"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1382a"
-generated_at: "2026-03-30T03:35:28.845Z"
+generated_at: "2026-03-30T03:37:23.870Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
   - **(15)** the value of any commercial transportation ticket, for travel by such individual (or spouse) among the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands, which is received as a gift by such individual (or such spouse) and is not converted to cash;
   - **(16)** interest accrued on the value of an agreement entered into by such individual (or such spouse) representing the purchase of a burial space excluded under section 1382b(a)(2)(B) of this title , and left to accumulate;
   - **(17)** any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime;
-  - **(18)** relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act [ 42 U.S.C. 4636 ];
+  - **(18)** relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions 2 2 So in original. Probably should be “Acquisition”. Policies Act of 1970 which is subject to the treatment required by section 216 of such Act [ 42 U.S.C. 4636 ];
   - **(19)** any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
   - **(20)** special pay received pursuant to section 310 of title 37 ;
   - **(21)** the interest or other earnings on any account established and maintained in accordance with section 1383(a)(2)(F) of this title ;

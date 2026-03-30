@@ -1,15 +1,13 @@
 ---
-title: "Section 1 - Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials; meetings with Government officials"
+title: "Section 1 - Transferred"
 usc_title: 2
 usc_section: "1"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-30T03:33:16.299Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 130–1. Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials; meetings with Government officials
+# § 130–1. Transferred
 
-- **(a)** It is the purpose of this section to enable the House of Representatives more properly to discharge and coordinate its activities and responsibilities in connection with participation in various interparliamentary institutions, to facilitate the interchange and reception in the United States of members of foreign legislative bodies and permanent officials of foreign governments, and to enable the House of Representatives to host meetings with senior United States Government officials and other dignitaries in order to discuss matters relevant to United States relations with other countries.
-- **(b)** For payment of expenses incurred in carrying out subsection (a) of this section, there shall be paid out of the applicable accounts of the House of Representatives, until otherwise provided by law, such sums as may be necessary but not to exceed $40,000 in any calendar year. Such payments shall be made on vouchers signed by the chairman of the Committee on Foreign Affairs and approved by the Committee on House Oversight.

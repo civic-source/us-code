@@ -3,9 +3,9 @@ title: "Section 6709 - Information used in allocation formulas"
 usc_title: 31
 usc_section: "6709"
 chapter: 67
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "31 U.S.C. § 6709"
-generated_at: "2026-03-30T03:34:46.904Z"
+generated_at: "2026-03-30T03:36:57.192Z"
 status: "active"
 ---
 

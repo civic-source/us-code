@@ -3,9 +3,9 @@ title: "Section 3027 - State plans"
 usc_title: 42
 usc_section: "3027"
 chapter: 35
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 3027"
-generated_at: "2026-03-30T03:35:29.061Z"
+generated_at: "2026-03-30T03:37:24.172Z"
 status: "active"
 ---
 

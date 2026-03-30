@@ -1,15 +1,13 @@
 ---
-title: "Section 331 - Single per annum gross rates of pay for employees"
+title: "Section 331 - Transferred"
 usc_title: 2
 usc_section: "331"
 chapter: 10
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 331"
-generated_at: "2026-03-30T03:33:16.306Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.705Z"
+status: "transferred"
 ---
 
-# § 331. Single per annum gross rates of pay for employees
-
-Whenever the rate of pay of an employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives is fixed or adjusted on or after the effective date of this section, that rate, as so fixed or adjusted, shall be a single per annum gross rate.
+# § 331. Transferred
 

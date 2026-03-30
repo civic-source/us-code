@@ -1,15 +1,13 @@
 ---
-title: "Section 117d - Reimbursements to Sergeant at Arms and Doorkeeper of Senate for equipment provided to Senators, etc., which has been lost, stolen, damaged, or otherwise unaccounted for; deposit of receipts"
+title: "Section 117d - Transferred"
 usc_title: 2
 usc_section: "117d"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 117d"
-generated_at: "2026-03-30T03:33:16.298Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 117d. Reimbursements to Sergeant at Arms and Doorkeeper of Senate for equipment provided to Senators, etc., which has been lost, stolen, damaged, or otherwise unaccounted for; deposit of receipts
-
-The Sergeant at Arms and Doorkeeper of the Senate shall deposit in the United States Treasury for credit to the appropriation account, within the contingent fund of the Senate, for the “Sergeant at Arms and Doorkeeper of the Senate”, all moneys received by him as reimbursement for equipment provided to Senators, committee chairmen, and other officers and employees of the Senate, which has been lost, stolen, damaged, or otherwise unaccounted for.
+# § 117d. Transferred
 

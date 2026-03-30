@@ -3,9 +3,9 @@ title: "Section 662 - Powers and duties of Secretary"
 usc_title: 30
 usc_section: "662"
 chapter: 18
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "30 U.S.C. § 662"
-generated_at: "2026-03-30T03:34:31.779Z"
+generated_at: "2026-03-30T03:36:42.958Z"
 status: "active"
 ---
 

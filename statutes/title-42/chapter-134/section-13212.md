@@ -3,9 +3,9 @@ title: "Section 13212 - Minimum Federal fleet requirement"
 usc_title: 42
 usc_section: "13212"
 chapter: 134
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 13212"
-generated_at: "2026-03-30T03:35:29.345Z"
+generated_at: "2026-03-30T03:37:24.555Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
   - **(1)** In this subsection:
     - **(A)** The term “Federal agency” does not include any office of the legislative branch, except that it does include the House of Representatives with respect to an acquisition described in paragraph (2)(C).
     - **(B)** The term “medium duty passenger vehicle” has the meaning given that term 1 1 So in original. The word “in” probably should appear after “term”. section 523.2 of title 49 of the Code of Federal Regulations, as in effect on December 19, 2007 .
-    - **(C)** The term “Member’s Representational Allowance” means the allowance described in section 57b(a) of title 2 .
+    - **(C)** The term “Member’s Representational Allowance” means the allowance described in section 5341(a) of title 2 .
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), no Federal agency shall acquire a light duty motor vehicle or medium duty passenger vehicle that is not a low greenhouse gas emitting vehicle.
     - **(B)** The prohibition in subparagraph (A) shall not apply to acquisition of a vehicle if the head of the agency certifies in writing, in a separate certification for each individual vehicle purchased, either—

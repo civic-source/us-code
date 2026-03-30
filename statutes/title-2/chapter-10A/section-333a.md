@@ -1,15 +1,13 @@
 ---
-title: "Section 333a - Limits on uses of funds provided under section 333"
+title: "Section 333a - Omitted"
 usc_title: 2
 usc_section: "333a"
 chapter: 10
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 333a"
-generated_at: "2026-03-30T03:33:16.307Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.705Z"
+status: "omitted"
 ---
 
-# § 333a. Limits on uses of funds provided under section 333
-
-The funds provided under the provisions of section 333 of this title shall be limited to use for the compensation of additional personnel and other necessary official expenses.
+# § 333a. Omitted
 

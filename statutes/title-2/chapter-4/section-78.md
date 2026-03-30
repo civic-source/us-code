@@ -1,15 +1,13 @@
 ---
-title: "Section 78 - Duties of Sergeant at Arms"
+title: "Section 78 - Transferred"
 usc_title: 2
 usc_section: "78"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 78"
-generated_at: "2026-03-30T03:33:16.296Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 78. Duties of Sergeant at Arms
-
-It shall be the duty of the Sergeant at Arms of the House of Representatives to attend the House during its sittings, to maintain order under the direction of the Speaker, and, pending the election of a Speaker or Speaker pro tempore, under the direction of the Clerk, execute the commands of the House and all processes issued by authority thereof, directed to him by the Speaker.
+# § 78. Transferred
 

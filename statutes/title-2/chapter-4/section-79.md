@@ -1,15 +1,13 @@
 ---
-title: "Section 79 - Symbol of office of Sergeant at Arms"
+title: "Section 79 - Transferred"
 usc_title: 2
 usc_section: "79"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 79"
-generated_at: "2026-03-30T03:33:16.296Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 79. Symbol of office of Sergeant at Arms
-
-The symbol of his office shall be the mace, which shall be borne by him while enforcing order on the floor.
+# § 79. Transferred
 

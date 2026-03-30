@@ -3,9 +3,9 @@ title: "Section 824i - Interconnection authority"
 usc_title: 16
 usc_section: "824i"
 chapter: 12
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 824i"
-generated_at: "2026-03-30T03:33:55.114Z"
+generated_at: "2026-03-30T03:36:30.161Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(D)** such increase in transmission capacity as may be necessary to carry out the purposes of any order under subparagraph (A) or (B).
   - **(2)** Any State regulatory authority may apply to the Commission for an order for any action referred to in subparagraph (A), (B), (C), or (D) of paragraph (1). No such order may be issued by the Commission with respect to a Federal power marketing agency upon application of a State regulatory authority.
 - **(b)** Upon receipt of an application under subsection (a) of this section, the Commission shall—
-  - **(1)** issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public.
+  - **(1)** issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public. 1 1 So in original. The period probably should be a comma.
   - **(2)** afford an opportunity for an evidentiary hearing, and
   - **(3)** make a determination with respect to the matters referred to in subsection (c) of this section.
 - **(c)** No order may be issued by the Commission under subsection (a) of this section unless the Commission determines that such order—

@@ -3,9 +3,9 @@ title: "Section 715h - Hearings and investigation by boards; appointment of boar
 usc_title: 15
 usc_section: "715h"
 chapter: 15
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 715h"
-generated_at: "2026-03-30T03:33:43.816Z"
+generated_at: "2026-03-30T03:36:13.287Z"
 status: "active"
 ---
 

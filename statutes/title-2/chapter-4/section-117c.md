@@ -1,15 +1,13 @@
 ---
-title: "Section 117c - Disposal of used or surplus automobiles and trucks by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts"
+title: "Section 117c - Transferred"
 usc_title: 2
 usc_section: "117c"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 117c"
-generated_at: "2026-03-30T03:33:16.298Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 117c. Disposal of used or surplus automobiles and trucks by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts
-
-On and after October 1, 1982 , the Sergeant at Arms and Doorkeeper of the Senate is authorized to dispose of used or surplus automobiles and trucks by trade-in or by sale through the General Services Administration. Receipts from the sale of such automobiles and trucks shall be deposited in the United States Treasury for credit to the appropriation for “Automobiles and Maintenance” under the heading “Contingent Expenses of the Senate”.
+# § 117c. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 303 - Public Printer and Deputy Public Printer: pay"
 usc_title: 44
 usc_section: "303"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "44 U.S.C. § 303"
-generated_at: "2026-03-30T03:35:04.147Z"
+generated_at: "2026-03-30T03:37:06.425Z"
 status: "active"
 ---
 

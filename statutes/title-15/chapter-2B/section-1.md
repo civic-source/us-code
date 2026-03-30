@@ -3,9 +3,9 @@ title: "Section 1 - Effective date of certain sections"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T03:33:43.769Z"
+generated_at: "2026-03-30T03:36:13.213Z"
 status: "active"
 ---
 

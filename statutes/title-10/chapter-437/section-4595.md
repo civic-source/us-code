@@ -3,9 +3,9 @@ title: "Section 4595 - Army Military History Institute: fee for providing histor
 usc_title: 10
 usc_section: "4595"
 chapter: 437
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 4595"
-generated_at: "2026-03-30T03:33:33.042Z"
+generated_at: "2026-03-30T03:36:02.545Z"
 status: "active"
 ---
 

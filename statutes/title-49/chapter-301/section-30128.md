@@ -3,9 +3,9 @@ title: "Section 30128 - Vehicle rollover prevention and crash mitigation"
 usc_title: 49
 usc_section: "30128"
 chapter: 301
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "49 U.S.C. § 30128"
-generated_at: "2026-03-30T03:35:36.179Z"
+generated_at: "2026-03-30T03:37:32.428Z"
 status: "active"
 ---
 

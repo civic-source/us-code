@@ -3,9 +3,9 @@ title: "Section 3731 - False claims procedure"
 usc_title: 31
 usc_section: "3731"
 chapter: 37
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "31 U.S.C. § 3731"
-generated_at: "2026-03-30T03:34:46.892Z"
+generated_at: "2026-03-30T03:36:57.178Z"
 status: "active"
 ---
 

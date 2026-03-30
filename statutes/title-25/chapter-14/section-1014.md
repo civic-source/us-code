@@ -3,9 +3,9 @@ title: "Section 1014 - Costs"
 usc_title: 25
 usc_section: "1014"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 1014"
-generated_at: "2026-03-30T03:34:13.444Z"
+generated_at: "2026-03-30T03:36:34.741Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 117g - Monies received by Attending Physician from sale of prescription drugs or other sources; deposit of receipts"
+title: "Section 117g - Transferred"
 usc_title: 2
 usc_section: "117g"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 117g"
-generated_at: "2026-03-30T03:33:16.298Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 117g. Monies received by Attending Physician from sale of prescription drugs or other sources; deposit of receipts
-
-On November 21, 1989 , the Office of the Attending Physician Revolving Fund established by the first undesignated paragraph under the center heading “ Office of the Attending Physician Revolving Fund ” in title III of the Legislative Branch Appropriation Act, 1976 ( 89 Stat. 283 ) is abolished and all monies in the Fund on such date or subsequently received by the Attending Physician from the sale of prescription drugs or from any other source shall be deposited in the Treasury as miscellaneous receipts.
+# § 117g. Transferred
 

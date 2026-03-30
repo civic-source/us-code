@@ -3,9 +3,9 @@ title: "Section 124f - Intelligence training development for State and local gov
 usc_title: 6
 usc_section: "124f"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "6 U.S.C. § 124f"
-generated_at: "2026-03-30T03:33:36.153Z"
+generated_at: "2026-03-30T03:35:56.432Z"
 status: "active"
 ---
 

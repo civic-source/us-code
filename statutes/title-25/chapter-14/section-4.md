@@ -3,9 +3,9 @@ title: "Section 4 - Membership rolls"
 usc_title: 25
 usc_section: "4"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 4"
-generated_at: "2026-03-30T03:34:13.453Z"
+generated_at: "2026-03-30T03:36:34.752Z"
 status: "active"
 ---
 

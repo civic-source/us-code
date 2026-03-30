@@ -3,9 +3,9 @@ title: "Section 1021to1024 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat
 usc_title: 50
 usc_section: "1021to1024"
 chapter: 25
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 1021to1024"
-generated_at: "2026-03-30T03:35:33.511Z"
+generated_at: "2026-03-30T03:37:33.570Z"
 status: "repealed"
 ---
 

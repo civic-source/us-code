@@ -3,9 +3,9 @@ title: "Section 271 - Establishment of Bureau of Citizenship and Immigration Ser
 usc_title: 6
 usc_section: "271"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "6 U.S.C. § 271"
-generated_at: "2026-03-30T03:33:36.160Z"
+generated_at: "2026-03-30T03:35:56.442Z"
 status: "active"
 ---
 
@@ -56,10 +56,3 @@ status: "active"
 - **(f)**
   - **(1)** There shall be a position of Chief of the Office of Citizenship for the Bureau of Citizenship and Immigration Services.
   - **(2)** The Chief of the Office of Citizenship for the Bureau of Citizenship and Immigration Services shall be responsible for promoting instruction and training on citizenship responsibilities for aliens interested in becoming naturalized citizens of the United States, including the development of educational materials.
-- **(g)**
-  - **(1)** There shall be an Office of the FBI Liaison in the Department of Homeland Security.
-  - **(2)** The Office of the FBI Liaison shall monitor the progress of the functions of the Federal Bureau of Investigation in the naturalization process to assist in the expeditious completion of all such functions pertaining to naturalization applications filed by, or on behalf of—
-    - **(A)** current or former members of the Armed Forces under section 1439 or 1440 of title 8;
-    - **(B)** current spouses of United States citizens who are currently serving on active duty in the Armed Forces, who qualify for naturalization under section 1430(b) of title 8 , and surviving spouses and children who qualify for naturalization under section 1430(d) of title 8 ; or
-    - **(C)** a deceased individual who is eligible for posthumous citizenship under section 1440–1 of title 8 .
-  - **(3)** There are authorized to be appropriated such sums as may be necessary to carry out this subsection.

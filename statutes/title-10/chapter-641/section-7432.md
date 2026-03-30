@@ -3,9 +3,9 @@ title: "Section 7432 - Authorizations of appropriations"
 usc_title: 10
 usc_section: "7432"
 chapter: 641
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 7432"
-generated_at: "2026-03-30T03:33:33.061Z"
+generated_at: "2026-03-30T03:36:02.558Z"
 status: "active"
 ---
 

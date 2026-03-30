@@ -3,9 +3,9 @@ title: "Section 1013to1016 - Repealed. Pub. L. 96–478, § 12 , Oct. 21, 1980 ,
 usc_title: 33
 usc_section: "1013to1016"
 chapter: 20
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "33 U.S.C. § 1013to1016"
-generated_at: "2026-03-30T03:34:36.914Z"
+generated_at: "2026-03-30T03:36:55.426Z"
 status: "repealed"
 ---
 

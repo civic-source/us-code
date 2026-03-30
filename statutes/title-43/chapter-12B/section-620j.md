@@ -3,9 +3,9 @@ title: "Section 620j - Court decree; effectivity and approval"
 usc_title: 43
 usc_section: "620j"
 chapter: 12
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "43 U.S.C. § 620j"
-generated_at: "2026-03-30T03:35:05.937Z"
+generated_at: "2026-03-30T03:37:08.081Z"
 status: "active"
 ---
 

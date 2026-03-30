@@ -3,9 +3,9 @@ title: "Section 715f - Consent of State to conveyance in fee"
 usc_title: 16
 usc_section: "715f"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 715f"
-generated_at: "2026-03-30T03:33:55.103Z"
+generated_at: "2026-03-30T03:36:30.149Z"
 status: "active"
 ---
 

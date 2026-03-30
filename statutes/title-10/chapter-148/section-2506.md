@@ -3,9 +3,9 @@ title: "Section 2506 - Department of Defense technology and industrial base poli
 usc_title: 10
 usc_section: "2506"
 chapter: 148
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 2506"
-generated_at: "2026-03-30T03:33:33.001Z"
+generated_at: "2026-03-30T03:36:02.520Z"
 status: "active"
 ---
 

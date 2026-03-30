@@ -3,9 +3,9 @@ title: "Section 5708 - Administrative matters"
 usc_title: 16
 usc_section: "5708"
 chapter: 77
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 5708"
-generated_at: "2026-03-30T03:33:55.212Z"
+generated_at: "2026-03-30T03:36:30.271Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 87j - Advisory committee"
 usc_title: 7
 usc_section: "87j"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 87j"
-generated_at: "2026-03-30T03:33:26.246Z"
+generated_at: "2026-03-30T03:36:04.555Z"
 status: "active"
 ---
 

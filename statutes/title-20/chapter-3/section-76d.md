@@ -3,9 +3,9 @@ title: "Section 76d - Donations of works of art from Government agencies"
 usc_title: 20
 usc_section: "76d"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "20 U.S.C. § 76d"
-generated_at: "2026-03-30T03:34:04.155Z"
+generated_at: "2026-03-30T03:36:22.722Z"
 status: "active"
 ---
 

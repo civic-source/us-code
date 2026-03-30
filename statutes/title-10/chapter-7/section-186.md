@@ -3,9 +3,9 @@ title: "Section 186 - Defense Business System Management Committee"
 usc_title: 10
 usc_section: "186"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 186"
-generated_at: "2026-03-30T03:33:32.874Z"
+generated_at: "2026-03-30T03:36:02.431Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3343 - Construction with fishery conservation and management pro
 usc_title: 16
 usc_section: "3343"
 chapter: 52
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 3343"
-generated_at: "2026-03-30T03:33:55.187Z"
+generated_at: "2026-03-30T03:36:30.243Z"
 status: "active"
 ---
 

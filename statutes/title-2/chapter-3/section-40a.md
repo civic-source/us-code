@@ -1,15 +1,13 @@
 ---
-title: "Section 40a - Deductions for delinquent indebtedness"
+title: "Section 40a - Transferred"
 usc_title: 2
 usc_section: "40a"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 40a"
-generated_at: "2026-03-30T03:33:16.288Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.692Z"
+status: "transferred"
 ---
 
-# § 40a. Deductions for delinquent indebtedness
-
-Whenever a Representative, Delegate, Resident Commissioner, or a United States Senator, shall fail to pay any sum or sums due from such person to the House of Representatives or Senate, respectively, the appropriate committee or officer of the House of Representatives or Senate, as the case may be, having jurisdiction of the activity under which such debt arose, shall certify such delinquent sum or sums to the Chief Administrative Officer of the House of Representatives in the case of an indebtedness to the House of Representatives and to the Secretary of the Senate in the case of an indebtedness to the Senate, and such latter officials are authorized and directed, respectively, to deduct from any salary, mileage, or expense money due to any such delinquent such certified amounts or so much thereof as the balance or balances due such delinquent may cover. Sums so deducted by the Secretary of the Senate shall be disposed of by him in accordance with existing law, and sums so deducted by the Chief Administrative Officer of the House of Representatives shall be disposed of by him in accordance with existing law.
+# § 40a. Transferred
 

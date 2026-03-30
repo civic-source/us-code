@@ -3,9 +3,9 @@ title: "Section 7231 - Exemption authority"
 usc_title: 15
 usc_section: "7231"
 chapter: 98
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 7231"
-generated_at: "2026-03-30T03:33:43.910Z"
+generated_at: "2026-03-30T03:36:13.433Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 467 - Conflict of laws"
 usc_title: 16
 usc_section: "467"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 467"
-generated_at: "2026-03-30T03:33:55.066Z"
+generated_at: "2026-03-30T03:36:30.108Z"
 status: "active"
 ---
 

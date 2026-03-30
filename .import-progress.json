@@ -1,9 +1,9 @@
 {
-  "currentReleasePoint": "PL 113-56",
-  "totalProcessed": 10,
-  "totalRemaining": 148,
-  "sectionsChangedTotal": 495708,
-  "peakMemoryMB": 975,
-  "elapsedSeconds": 1742,
-  "estimatedRemainingSeconds": 25775
+  "currentReleasePoint": "PL 113-65",
+  "totalProcessed": 11,
+  "totalRemaining": 147,
+  "sectionsChangedTotal": 545859,
+  "peakMemoryMB": 1668,
+  "elapsedSeconds": 1907,
+  "estimatedRemainingSeconds": 25483
 }

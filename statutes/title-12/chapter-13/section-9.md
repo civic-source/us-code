@@ -3,9 +3,9 @@ title: "Section 9 - Limitation on commitments to insure loans and mortgages"
 usc_title: 12
 usc_section: "9"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "12 U.S.C. § 9"
-generated_at: "2026-03-30T03:33:47.334Z"
+generated_at: "2026-03-30T03:36:10.649Z"
 status: "active"
 ---
 

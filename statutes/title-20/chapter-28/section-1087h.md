@@ -3,9 +3,9 @@ title: "Section 1087h - Funds for administrative expenses"
 usc_title: 20
 usc_section: "1087h"
 chapter: 28
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "20 U.S.C. § 1087h"
-generated_at: "2026-03-30T03:34:04.198Z"
+generated_at: "2026-03-30T03:36:22.787Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** For fiscal year 2006, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for—
     - **(A)** administrative costs under this part and part B, including the costs of the direct student loan programs under this part; and
     - **(B)** account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsections (b) and (c),
-  - **(2)** For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in section 1087f of this title .
+  - **(2)**
   - **(3)** For each of the fiscal years 2007 through 2014, there are authorized to be appropriated such sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
   - **(4)** For each of the fiscal years 2007 through 2014, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
   - **(5)** Account maintenance fees under paragraph (3) 1 1 See References in Text note below. shall be paid quarterly and deposited in the Agency Operating Fund established under section 1072b of this title .

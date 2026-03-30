@@ -3,9 +3,9 @@ title: "Section 2192a - Science, Mathematics, and Research for Transformation (S
 usc_title: 10
 usc_section: "2192a"
 chapter: 111
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 2192a"
-generated_at: "2026-03-30T03:33:32.967Z"
+generated_at: "2026-03-30T03:36:02.495Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** is a citizen of the United States;
     - **(B)** is pursuing an associates degree, undergraduate degree, or advanced degree in a critical skill or discipline described in subsection (a) at an accredited institution of higher education; and
     - **(C)** enters into a service agreement with the Secretary of Defense as described in subsection (c).
-  - **(2)** The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board.
+  - **(2)** The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be an amount determined by the Secretary of Defense.
   - **(3)** Financial assistance provided under a scholarship or fellowship awarded under this section may be paid directly to the recipient of such scholarship or fellowship or to an administering entity for disbursement of the funds.
 - **(c)**
   - **(1)** To receive financial assistance under this section—

@@ -1,0 +1,15 @@
+---
+title: "Section 4573 - Senate pay adjustments; action by President pro tempore of Senate"
+usc_title: 2
+usc_section: "4573"
+chapter: 45
+current_through: "PL 113-75"
+classification: "2 U.S.C. § 4573"
+generated_at: "2026-03-30T03:35:51.759Z"
+status: "active"
+---
+
+# § 4573. Senate pay adjustments; action by President pro tempore of Senate
+
+- **(a)** Whenever, after November 5, 1990 , there is an adjustment in rates of pay for Senators (other than an adjustment which occurs by virtue of an adjustment under section 5303 of title 5 in rates of pay under the General Schedule), the President pro tempore of the Senate may, notwithstanding any other provision of law, rule, or regulation, adjust the rate of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Secretary of the Senate to the extent necessary to maintain the same pay relationships that existed on December 31, 1986 , between personnel and Senators and between positions.
+- **(b)** Adjustments made by the President pro tempore under this section shall be made in such manner as he considers advisable and shall have the force and effect of law.

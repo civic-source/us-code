@@ -3,9 +3,9 @@ title: "Section 13 - Authorization of appropriations"
 usc_title: 43
 usc_section: "13"
 chapter: 12
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "43 U.S.C. § 13"
-generated_at: "2026-03-30T03:35:05.925Z"
+generated_at: "2026-03-30T03:37:08.060Z"
 status: "active"
 ---
 

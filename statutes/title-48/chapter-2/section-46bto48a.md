@@ -3,9 +3,9 @@ title: "Section 46bto48a - Repealed. July 28, 1956, ch. 772 , title III, § 301(
 usc_title: 48
 usc_section: "46bto48a"
 chapter: 2
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "48 U.S.C. § 46bto48a"
-generated_at: "2026-03-30T03:35:32.327Z"
+generated_at: "2026-03-30T03:37:29.615Z"
 status: "repealed"
 ---
 

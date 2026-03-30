@@ -3,9 +3,9 @@ title: "Section 4109 - Coordination and review of budget requests; Office of Sci
 usc_title: 15
 usc_section: "4109"
 chapter: 67
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 4109"
-generated_at: "2026-03-30T03:33:43.890Z"
+generated_at: "2026-03-30T03:36:13.402Z"
 status: "active"
 ---
 

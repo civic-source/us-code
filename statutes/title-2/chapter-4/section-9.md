@@ -1,15 +1,13 @@
 ---
-title: "Section 9 - Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation"
+title: "Section 9 - Transferred"
 usc_title: 2
 usc_section: "9"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 9"
-generated_at: "2026-03-30T03:33:16.296Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 74a–9. Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation
+# § 74a–9. Transferred
 
-- **(a)** The Speaker, Majority Leader, and Minority Leader of the House of Representatives are each authorized to appoint and fix the compensation of one consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the House.
-- **(b)** This section shall apply with respect to fiscal year 1999 and each succeeding fiscal year.

@@ -3,9 +3,9 @@ title: "Section 1781 - Preschool programs"
 usc_title: 42
 usc_section: "1781"
 chapter: 13
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 1781"
-generated_at: "2026-03-30T03:35:29.003Z"
+generated_at: "2026-03-30T03:37:24.093Z"
 status: "active"
 ---
 

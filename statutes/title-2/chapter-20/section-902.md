@@ -3,9 +3,9 @@ title: "Section 902 - Enforcing pay-as-you-go"
 usc_title: 2
 usc_section: "902"
 chapter: 20
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 902"
-generated_at: "2026-03-30T03:33:16.319Z"
+generated_at: "2026-03-30T03:35:51.724Z"
 status: "active"
 ---
 
@@ -16,14 +16,14 @@ status: "active"
   - **(1)** Not later than 15 calendar days after the date Congress adjourns to end a session and on the same day as a sequestration (if any) under section 901 or 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase caused by all direct spending and receipts legislation enacted before October 1, 2002 , as calculated under paragraph (2).
   - **(2)** OMB shall calculate the amount of deficit increase or decrease by adding—
     - **(A)** all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d) of this section;
-    - **(B)** the estimated amount of savings in direct spending programs applicable to budget year resulting from the prior year’s sequestration under this section or section 903 of this title , if any, as published in OMB’s final sequestration report for that prior year; and
+    - **(B)** the estimated amount of savings in direct spending programs applicable to the budget year resulting from the prior year’s sequestration under this section or section 903 of this title , if any, as published in OMB’s final sequestration report for that prior year; and
     - **(C)** any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) of this section that were not reflected in the final OMB sequestration report for the current year.
 - **(c)**
   - **(1)** The amount required to be sequestered in a fiscal year under subsection (b) of this section shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
     - **(A)** All reductions in automatic spending increases specified in section 906(a) 1 1 See References in Text note below. of this title shall be made.
     - **(B)** If additional reductions in direct spending accounts are required to be made, the maximum reductions permissible under sections 906(b) of this title (guaranteed and direct student loans) and 906(c) 1 of this title (foster care and adoption assistance) shall be made.
     - **(C)**
-      - **(i)** If additional reductions in direct spending accounts are required to be made, each remaining non-exempt direct spending account shall be reduced by the uniform percentage necessary to make the reductions in direct spending required by paragraph (1); except that the medicare programs specified in section 906(d) of this title shall not be reduced by more than 4 percent and the uniform percentage applicable to all other direct spending programs under this paragraph shall be increased (if necessary) to a level sufficient to achieve the required reduction in direct spending.
+      - **(i)** If additional reductions in direct spending accounts are required to be made, each remaining non-exempt direct spending account shall be reduced by the uniform percentage necessary to make the reductions in direct spending required by subsection (b); except that the medicare programs specified in section 906(d) of this title shall not be reduced by more than 4 percent and the uniform percentage applicable to all other direct spending programs under this paragraph shall be increased (if necessary) to a level sufficient to achieve the required reduction in direct spending.
       - **(ii)** For purposes of determining reductions under clause (i), outlay reductions (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
   - **(2)** For purposes of this subsection, accounts shall be assumed to be at the level in the baseline.
 - **(d)**

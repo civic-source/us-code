@@ -3,9 +3,9 @@ title: "Section 2654 - Department of Energy counterintelligence polygraph progra
 usc_title: 50
 usc_section: "2654"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2654"
-generated_at: "2026-03-30T03:35:33.534Z"
+generated_at: "2026-03-30T03:37:33.598Z"
 status: "active"
 ---
 
@@ -17,7 +17,4 @@ status: "active"
   - **(2)** In prescribing regulations for the new program, the Secretary shall take into account the results of the Polygraph Review.
   - **(3)** Not later than six months after obtaining the results of the Polygraph Review, the Secretary shall issue a notice of proposed rulemaking for the new program.
 - **(c)**
-- **(d)**
-  - **(1)** Not later than January 1, 2003 , the Administrator for Nuclear Security shall submit to Congress a report setting forth the recommendations of the Administrator for any legislative action that the Administrator considers appropriate in order to enhance the personnel security program of the Department of Energy.
-  - **(2)** Any recommendations under paragraph (1) regarding the use of polygraphs shall take into account the results of the Polygraph Review.
-- **(e)** In this section, the term “Polygraph Review” means the review of the Committee to Review the Scientific Evidence on the Polygraph of the National Academy of Sciences.
+- **(d)** In this section, the term “Polygraph Review” means the review of the Committee to Review the Scientific Evidence on the Polygraph of the National Academy of Sciences.

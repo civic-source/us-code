@@ -3,9 +3,9 @@ title: "Section 3175c - Program of food, nutrition, and consumer education by St
 usc_title: 7
 usc_section: "3175c"
 chapter: 64
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 3175c"
-generated_at: "2026-03-30T03:33:26.429Z"
+generated_at: "2026-03-30T03:36:04.679Z"
 status: "active"
 ---
 

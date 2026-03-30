@@ -1,15 +1,13 @@
 ---
-title: "Section 35 - Salaries payable monthly after taking oath"
+title: "Section 35 - Transferred"
 usc_title: 2
 usc_section: "35"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 35"
-generated_at: "2026-03-30T03:33:16.288Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.692Z"
+status: "transferred"
 ---
 
-# § 35. Salaries payable monthly after taking oath
-
-Each Member and Delegate, after he has taken and subscribed the required oath, is entitled to receive his salary at the end of each month.
+# § 35. Transferred
 

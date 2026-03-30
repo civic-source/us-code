@@ -1,22 +1,13 @@
 ---
-title: "Section 72d - Discretionary authority of Senate Committee on Appropriations"
+title: "Section 72d - Transferred"
 usc_title: 2
 usc_section: "72d"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 72d"
-generated_at: "2026-03-30T03:33:16.295Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 72d. Discretionary authority of Senate Committee on Appropriations
+# § 72d. Transferred
 
-- **(a)** The Committee on Appropriations is authorized in its discretion—
-  - **(1)** to hold hearings, report such hearings, and make investigations as authorized by paragraph 1 of rule XXVI of the Standing Rules of the Senate;
-  - **(2)** to make expenditures from the contingent fund of the Senate;
-  - **(3)** to employ personnel;
-  - **(4)** with the prior consent of the Government department or agency concerned and the Committee on Rules and Administration to use, on a reimbursable or nonreimbursable basis, the services of personnel of any such department or agency;
-  - **(5)** to procure the services of individual consultants, or organizations thereof (as authorized by section 72a(i) of this title and Senate Resolution 140, agreed to May 14, 1975 , except that any approval (and related reporting requirement) shall not apply); and
-  - **(6)** to provide for the training of the professional staff of such committee (under procedures specified by section 72a(j) of this title ).
-- **(b)**
-- **(c)** This section shall be effective on and after October 1, 1998 , or the date of enactment of this Act [ October 21, 1998 ], whichever is later.

@@ -3,9 +3,9 @@ title: "Section 60122 - Civil penalties"
 usc_title: 49
 usc_section: "60122"
 chapter: 601
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "49 U.S.C. § 60122"
-generated_at: "2026-03-30T03:35:36.240Z"
+generated_at: "2026-03-30T03:37:32.499Z"
 status: "active"
 ---
 

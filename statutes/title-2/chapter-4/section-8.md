@@ -1,18 +1,13 @@
 ---
-title: "Section 8 - Training and program development activities of Republican Conference and Democratic Steering and Policy Committee"
+title: "Section 8 - Transferred"
 usc_title: 2
 usc_section: "8"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 8"
-generated_at: "2026-03-30T03:33:16.296Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 74a–8. Training and program development activities of Republican Conference and Democratic Steering and Policy Committee
+# § 74a–8. Transferred
 
-- **(a)** There is hereby established an account in the House of Representatives for purposes of carrying out training and program development activities of the Republican Conference and the Democratic Steering and Policy Committee.
-- **(b)** Funds in the account established under subsection (a) of this section shall be paid—
-  - **(1)** for activities of the Republican Conference in such amounts, at such times, and under such terms and conditions as the Speaker of the House of Representatives may direct (or, if the Speaker is not a member of the Republican Party, under such terms and conditions as the Minority Leader of the House of Representatives may direct); and
-  - **(2)** for activities of the Democratic Steering and Policy Committee in such amounts, at such times, and under such terms and conditions as the Minority Leader of the House of Representatives may direct (or, if the Speaker is a member of the Democratic Party, under such terms and conditions as the Speaker may direct).
-- **(c)** There are authorized to be appropriated to the account under this section for fiscal year 1999 and each succeeding fiscal year such sums as may be necessary for training and program development activities of the Republican Conference and the Democratic Steering and Policy Committee during the fiscal year.

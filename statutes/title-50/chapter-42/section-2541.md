@@ -3,9 +3,9 @@ title: "Section 2541 - Tritium production program"
 usc_title: 50
 usc_section: "2541"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2541"
-generated_at: "2026-03-30T03:35:33.530Z"
+generated_at: "2026-03-30T03:37:33.595Z"
 status: "active"
 ---
 
@@ -13,3 +13,4 @@ status: "active"
 
 - **(a)** The Secretary of Energy shall establish a tritium production program that is capable of meeting the tritium requirements of the United States for nuclear weapons.
 - **(b)** The Secretary shall locate any new tritium production facility of the Department of Energy at the Savannah River Site, South Carolina.
+- **(c)** The Secretary may perform in-reactor tests of tritium target rods as part of the activities carried out under the commercial light water reactor program.

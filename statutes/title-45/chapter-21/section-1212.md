@@ -3,9 +3,9 @@ title: "Section 1212 - Applicability of other laws"
 usc_title: 45
 usc_section: "1212"
 chapter: 21
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "45 U.S.C. § 1212"
-generated_at: "2026-03-30T03:35:10.149Z"
+generated_at: "2026-03-30T03:37:06.818Z"
 status: "active"
 ---
 

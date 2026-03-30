@@ -1,17 +1,13 @@
 ---
-title: "Section 69b - Senate Leader’s Lecture Series"
+title: "Section 69b - Transferred"
 usc_title: 2
 usc_section: "69b"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 69b"
-generated_at: "2026-03-30T03:33:16.295Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 69b. Senate Leader’s Lecture Series
+# § 69b. Transferred
 
-- **(a)** There is established the Senate Leader’s Lecture Series (hereinafter referred to as the “lecture series”). Expenses incurred in connection with the lecture series shall be paid from the appropriations account “Secretary of the Senate” within the contingent fund of the Senate and shall not exceed $30,000 in any fiscal year.
-- **(b)** Payments for expenses in connection with the lecture series may cover expenses incurred by speakers, including travel, subsistence, and per diem, and the cost of receptions, including food, food related items, and hospitality.
-- **(c)** Payments for expenses of the lecture series shall be made on vouchers approved by the Secretary of the Senate.
-- **(d)** This section is effective on and after October 1, 1997 .

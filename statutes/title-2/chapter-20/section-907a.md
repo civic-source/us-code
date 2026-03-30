@@ -3,16 +3,16 @@ title: "Section 907a - Suspension in event of war or low growth"
 usc_title: 2
 usc_section: "907a"
 chapter: 20
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 907a"
-generated_at: "2026-03-30T03:33:16.320Z"
+generated_at: "2026-03-30T03:35:51.728Z"
 status: "active"
 ---
 
 # § 907a. Suspension in event of war or low growth
 
 - **(a)**
-  - **(1)** Whenever CBO issues a low-growth report under section 254(j), 1 1 See References in Text note below. the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 254(j) 1 are met and suspending the relevant provisions of this title, 1 titles III and VI 1 of the Congressional Budget Act of 1974 [ 2 U.S.C. 631 et seq.], and section 1103 of title 31 .
+  - **(1)** Whenever CBO issues a low-growth report under section 254(i) [ 2 U.S.C. 904(i) ], the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 254(i) are met and suspending the relevant provisions of this title, 1 1 See References in Text note below. titles III and VI 1 of the Congressional Budget Act of 1974 [ 2 U.S.C. 631 et seq.], and section 1103 of title 31 .
   - **(2)**
     - **(A)** The matter after the resolving clause in any joint resolution introduced pursuant to paragraph (1) shall be as follows: “That the Congress declares that the conditions specified in section 254(j) 1 of the Balanced Budget and Emergency Deficit Control Act of 1985 are met, and the implementation of the Congressional Budget and Impoundment Control Act of 1974, chapter 11 of title 31, United States Code, and part C of the Balanced Budget and Emergency Deficit Control Act of 1985 are modified as described in section 258(b) of the Balanced Budget and Emergency Deficit Control Act of 1985.”
     - **(B)** The title of the joint resolution shall be “Joint resolution suspending certain provisions of law pursuant to section 258(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985.”; and the joint resolution shall not contain any preamble.

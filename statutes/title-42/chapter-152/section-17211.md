@@ -3,9 +3,9 @@ title: "Section 17211 - Definition"
 usc_title: 42
 usc_section: "17211"
 chapter: 152
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 17211"
-generated_at: "2026-03-30T03:35:29.430Z"
+generated_at: "2026-03-30T03:37:24.650Z"
 status: "active"
 ---
 

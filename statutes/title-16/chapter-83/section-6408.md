@@ -3,9 +3,9 @@ title: "Section 6408 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6408"
 chapter: 83
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 6408"
-generated_at: "2026-03-30T03:33:55.217Z"
+generated_at: "2026-03-30T03:36:30.275Z"
 status: "active"
 ---
 

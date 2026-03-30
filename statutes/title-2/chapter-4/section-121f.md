@@ -1,20 +1,13 @@
 ---
-title: "Section 121f - Senate Staff Health and Fitness Facility Revolving Fund"
+title: "Section 121f - Transferred"
 usc_title: 2
 usc_section: "121f"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 121f"
-generated_at: "2026-03-30T03:33:16.299Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 121f. Senate Staff Health and Fitness Facility Revolving Fund
+# § 121f. Transferred
 
-- **(a)** There is established in the Treasury of the United States a revolving fund to be known as the Senate Staff Health and Fitness Facility Revolving Fund (“the revolving fund”).
-- **(b)** The Architect of the Capitol shall deposit in the revolving fund—
-  - **(1)** any amounts received as dues or other assessments for use of the Senate Staff Health and Fitness Facility, and
-  - **(2)** any amounts received from the operation of the Senate waste recycling program.
-- **(c)** Subject to the approval of the Committee on Appropriations of the Senate, amounts in the revolving fund shall be available to the Architect of the Capitol, without fiscal year limitation, for payment of costs of the Senate Staff Health and Fitness Facility.
-- **(d)** The Architect of the Capitol shall withdraw from the revolving fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in the revolving fund that the Architect determines are in excess of the current and reasonably foreseeable needs of the Senate Staff Health and Fitness Facility.
-- **(e)** The Committee on Rules and Administration of the Senate shall promulgate regulations pertaining to the operation and use of the Senate Staff Health and Fitness Facility.

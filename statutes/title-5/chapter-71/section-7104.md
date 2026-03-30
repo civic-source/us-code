@@ -3,9 +3,9 @@ title: "Section 7104 - Federal Labor Relations Authority"
 usc_title: 5
 usc_section: "7104"
 chapter: 71
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "5 U.S.C. § 7104"
-generated_at: "2026-03-30T03:33:07.171Z"
+generated_at: "2026-03-30T03:35:54.034Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 242d - Transferred"
 usc_title: 42
 usc_section: "242d"
 chapter: 6
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 242d"
-generated_at: "2026-03-30T03:35:28.639Z"
+generated_at: "2026-03-30T03:37:23.605Z"
 status: "transferred"
 ---
 

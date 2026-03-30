@@ -3,9 +3,9 @@ title: "Section 5148 - Judge Advocate General’s Corps: Office of the Judge Adv
 usc_title: 10
 usc_section: "5148"
 chapter: 513
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 5148"
-generated_at: "2026-03-30T03:33:33.047Z"
+generated_at: "2026-03-30T03:36:02.549Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 467i - Statutory construction"
 usc_title: 33
 usc_section: "467i"
 chapter: 9
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "33 U.S.C. § 467i"
-generated_at: "2026-03-30T03:34:36.896Z"
+generated_at: "2026-03-30T03:36:55.404Z"
 status: "active"
 ---
 

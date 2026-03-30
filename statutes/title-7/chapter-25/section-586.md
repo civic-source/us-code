@@ -3,9 +3,9 @@ title: "Section 586 - Refusal of certificates for violations of laws; penalties 
 usc_title: 7
 usc_section: "586"
 chapter: 25
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 586"
-generated_at: "2026-03-30T03:33:26.276Z"
+generated_at: "2026-03-30T03:36:04.586Z"
 status: "active"
 ---
 

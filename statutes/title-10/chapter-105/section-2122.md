@@ -3,9 +3,9 @@ title: "Section 2122 - Eligibility for participation"
 usc_title: 10
 usc_section: "2122"
 chapter: 105
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 2122"
-generated_at: "2026-03-30T03:33:32.962Z"
+generated_at: "2026-03-30T03:36:02.492Z"
 status: "active"
 ---
 

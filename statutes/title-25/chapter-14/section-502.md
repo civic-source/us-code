@@ -3,9 +3,9 @@ title: "Section 502 - Purchase of restricted Indian lands; preference to Secreta
 usc_title: 25
 usc_section: "502"
 chapter: 14
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 502"
-generated_at: "2026-03-30T03:34:13.426Z"
+generated_at: "2026-03-30T03:36:34.715Z"
 status: "active"
 ---
 

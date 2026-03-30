@@ -1,15 +1,13 @@
 ---
-title: "Section 83 - Tenure of office of Sergeant at Arms"
+title: "Section 83 - Transferred"
 usc_title: 2
 usc_section: "83"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 83"
-generated_at: "2026-03-30T03:33:16.296Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 83. Tenure of office of Sergeant at Arms
-
-Any person duly elected and qualified as Sergeant at Arms of the House of Representatives shall continue in said office until his successor is chosen and qualified, subject however, to removal by the House of Representatives.
+# § 83. Transferred
 

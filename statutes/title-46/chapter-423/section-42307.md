@@ -3,9 +3,9 @@ title: "Section 42307 - Review of regulations and orders"
 usc_title: 46
 usc_section: "42307"
 chapter: 423
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "46 U.S.C. § 42307"
-generated_at: "2026-03-30T03:35:34.217Z"
+generated_at: "2026-03-30T03:37:29.108Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 65a - Insurance of office funds of Secretary of Senate and Sergeant at Arms; payment of premiums"
+title: "Section 65a - Transferred"
 usc_title: 2
 usc_section: "65a"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 65a"
-generated_at: "2026-03-30T03:33:16.294Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.693Z"
+status: "transferred"
 ---
 
-# § 65a. Insurance of office funds of Secretary of Senate and Sergeant at Arms; payment of premiums
-
-The Secretary of the Senate and the Sergeant at Arms on and after June 27, 1956 , are authorized and directed to protect the funds of their respective offices by purchasing insurance in an amount necessary to protect said funds against loss. Premiums on such insurance shall be paid out of the contingent fund of the Senate, upon vouchers approved by the chairman of the Committee on Rules and Administration.
+# § 65a. Transferred
 

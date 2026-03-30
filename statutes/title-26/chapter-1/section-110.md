@@ -3,9 +3,9 @@ title: "Section 110 - Qualified lessee construction allowances for short-term le
 usc_title: 26
 usc_section: "110"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "26 U.S.C. § 110"
-generated_at: "2026-03-30T03:34:31.243Z"
+generated_at: "2026-03-30T03:36:52.219Z"
 status: "active"
 ---
 

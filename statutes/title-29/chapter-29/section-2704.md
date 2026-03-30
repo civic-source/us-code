@@ -3,9 +3,9 @@ title: "Section 2704 - Grants"
 usc_title: 29
 usc_section: "2704"
 chapter: 29
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 2704"
-generated_at: "2026-03-30T03:34:33.913Z"
+generated_at: "2026-03-30T03:36:46.450Z"
 status: "active"
 ---
 

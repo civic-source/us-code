@@ -3,9 +3,9 @@ title: "Section 4074 - Construction"
 usc_title: 20
 usc_section: "4074"
 chapter: 52
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "20 U.S.C. § 4074"
-generated_at: "2026-03-30T03:34:04.254Z"
+generated_at: "2026-03-30T03:36:22.870Z"
 status: "active"
 ---
 

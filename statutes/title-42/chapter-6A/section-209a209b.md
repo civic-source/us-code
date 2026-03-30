@@ -3,9 +3,9 @@ title: "Section 209a209b - Omitted"
 usc_title: 42
 usc_section: "209a209b"
 chapter: 6
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 209a209b"
-generated_at: "2026-03-30T03:35:28.633Z"
+generated_at: "2026-03-30T03:37:23.597Z"
 status: "omitted"
 ---
 

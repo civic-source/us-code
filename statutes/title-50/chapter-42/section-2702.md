@@ -3,9 +3,9 @@ title: "Section 2702 - Whistleblower protection program"
 usc_title: 50
 usc_section: "2702"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2702"
-generated_at: "2026-03-30T03:35:33.535Z"
+generated_at: "2026-03-30T03:37:33.598Z"
 status: "active"
 ---
 
@@ -53,8 +53,7 @@ status: "active"
   - **(2)**
     - **(A)** If a contractor fails to comply with an order issued under paragraph (1)(B), the Secretary may file an action for enforcement of the order in the appropriate United States district court.
     - **(B)** In any action brought under subparagraph (A), the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
-- **(l)** The protections provided by this section are independent of, and not subject to any limitations that may be provided in, the Whistleblower Protection Act of 1989 ( Public Law 101–512 ) 1 1 See References in Text note below. or any other law that may provide protection for disclosures of information by employees of the Department of Energy or of a contractor of the Department.
+- **(l)** The protections provided by this section are independent of, and not subject to any limitations that may be provided in, the Whistleblower Protection Act of 1989 ( Public Law 101–12 ; 103 Stat. 16 ) or any other law that may provide protection for disclosures of information by employees of the Department of Energy or of a contractor of the Department.
 - **(m)**
   - **(1)** Not later than 30 days after the commencement of each fiscal year, the Director shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the investigations undertaken under subsection (j)(1)(B) during the preceding fiscal year, including a summary of the results of each such investigation.
   - **(2)** A report under paragraph (1) may not identify or otherwise provide any information about an individual submitting a complaint under this section without the consent of the individual.
-- **(n)** Not later than December 5, 1999 , the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the implementation of the program required by this section.

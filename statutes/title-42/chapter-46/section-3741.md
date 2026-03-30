@@ -3,9 +3,9 @@ title: "Section 3741 - Establishment of Bureau of Justice Assistance"
 usc_title: 42
 usc_section: "3741"
 chapter: 46
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 3741"
-generated_at: "2026-03-30T03:35:29.081Z"
+generated_at: "2026-03-30T03:37:24.197Z"
 status: "active"
 ---
 

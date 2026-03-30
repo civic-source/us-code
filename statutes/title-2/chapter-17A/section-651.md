@@ -3,9 +3,9 @@ title: "Section 651 - Budget-related legislation not subject to appropriations"
 usc_title: 2
 usc_section: "651"
 chapter: 17
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 651"
-generated_at: "2026-03-30T03:33:16.315Z"
+generated_at: "2026-03-30T03:35:51.720Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** new credit authority;
 - **(b)**
   - **(1)** It shall not be in order in either the House of Representatives or the Senate to consider any bill or joint resolution (in the House of Representatives only, as reported), amendment, motion, or conference report that provides new entitlement authority that is to become effective during the current fiscal year.
-  - **(2)** If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under section 633(b) of this title in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee’s recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
+  - **(2)** If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under section 633(a) of this title in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee’s recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
   - **(3)** The Committee on Appropriations of each House shall have jurisdiction to report any bill or resolution referred to it under paragraph (2) with an amendment which limits the total amount of new spending authority provided in such bill or resolution.
 - **(c)**
   - **(1)** Subsections (a) and (b) of this section shall not apply to new authority described in those subsections if outlays from that new authority will flow—
@@ -26,3 +26,4 @@ status: "active"
   - **(2)** Subsections (a) and (b) of this section shall not apply to new authority described in those subsections to the extent that—
     - **(A)** the outlays resulting therefrom are made by an organization which is (i) a mixed-ownership Government corporation (as defined in section 9101(2) of title 31 ), or (ii) a wholly owned Government corporation (as defined in section 9101(3) of title 31 ) which is specifically exempted by law from compliance with any or all of the provisions of chapter 91 of title 31, as of December 12, 1985 ; or
     - **(B)** the outlays resulting therefrom consist exclusively of the proceeds of gifts or bequests made to the United States for a specific purpose.
+  - **(3)** In the House of Representatives, subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that a provision in a bill or joint resolution, or an amendment thereto or a conference report thereon, establishes prospectively for a Federal office or position a specified or minimum level of compensation to be funded by annual discretionary appropriations.

@@ -3,9 +3,9 @@ title: "Section 7 - State flexibility in benefit packages"
 usc_title: 42
 usc_section: "7"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T03:35:28.952Z"
+generated_at: "2026-03-30T03:37:24.018Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
       - **(v)** The individual is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, and is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of the individual’s income required for personal needs.
       - **(vi)** The individual is medically frail or otherwise an individual with special medical needs (as identified in accordance with regulations of the Secretary).
       - **(vii)** The individual qualifies based on medical condition for medical assistance for long-term care services described in section 1396p(c)(1)(C) of this title .
-      - **(viii)** The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
+      - **(viii)** The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age, or the individual qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(i)(IX) of this title .
       - **(ix)** The individual qualifies for medical assistance on the basis of eligibility to receive assistance under a State plan funded under part A of subchapter IV (as in effect on or after the welfare reform effective date defined in section 1396u–1(i) of this title ).
       - **(x)** The individual is a woman who is receiving medical assistance by virtue of the application of sections 1396a(a)(10)(A)(ii)(XVIII) and 1396a(aa) of this title.
       - **(xi)** The individual—

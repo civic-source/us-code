@@ -3,9 +3,9 @@ title: "Section 5631to5633 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 ,
 usc_title: 15
 usc_section: "5631to5633"
 chapter: 82
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 5631to5633"
-generated_at: "2026-03-30T03:33:43.898Z"
+generated_at: "2026-03-30T03:36:13.412Z"
 status: "repealed"
 ---
 

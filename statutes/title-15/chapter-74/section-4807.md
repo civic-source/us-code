@@ -3,9 +3,9 @@ title: "Section 4807 - Annual report"
 usc_title: 15
 usc_section: "4807"
 chapter: 74
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "15 U.S.C. § 4807"
-generated_at: "2026-03-30T03:33:43.895Z"
+generated_at: "2026-03-30T03:36:13.407Z"
 status: "active"
 ---
 

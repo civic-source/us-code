@@ -3,9 +3,9 @@ title: "Section 10 - Savings provisions"
 usc_title: 16
 usc_section: "10"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-30T03:33:55.072Z"
+generated_at: "2026-03-30T03:36:30.115Z"
 status: "active"
 ---
 

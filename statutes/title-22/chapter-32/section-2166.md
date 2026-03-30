@@ -3,9 +3,9 @@ title: "Section 2166 - Regional development in Africa"
 usc_title: 22
 usc_section: "2166"
 chapter: 32
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 2166"
-generated_at: "2026-03-30T03:34:15.090Z"
+generated_at: "2026-03-30T03:36:39.848Z"
 status: "active"
 ---
 

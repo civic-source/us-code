@@ -3,9 +3,9 @@ title: "Section 41904 - Noncitizens transporting mail"
 usc_title: 49
 usc_section: "41904"
 chapter: 419
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "49 U.S.C. § 41904"
-generated_at: "2026-03-30T03:35:36.207Z"
+generated_at: "2026-03-30T03:37:32.462Z"
 status: "active"
 ---
 

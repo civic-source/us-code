@@ -3,9 +3,9 @@ title: "Section 8103 - Biorefinery assistance"
 usc_title: 7
 usc_section: "8103"
 chapter: 107
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 8103"
-generated_at: "2026-03-30T03:33:26.497Z"
+generated_at: "2026-03-30T03:36:04.739Z"
 status: "active"
 ---
 

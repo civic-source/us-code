@@ -3,9 +3,9 @@ title: "Section 15325 - Powers"
 usc_title: 42
 usc_section: "15325"
 chapter: 146
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 15325"
-generated_at: "2026-03-30T03:35:29.389Z"
+generated_at: "2026-03-30T03:37:24.605Z"
 status: "active"
 ---
 

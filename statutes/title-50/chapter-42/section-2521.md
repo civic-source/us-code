@@ -3,15 +3,15 @@ title: "Section 2521 - Stockpile stewardship program"
 usc_title: 50
 usc_section: "2521"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2521"
-generated_at: "2026-03-30T03:35:33.529Z"
+generated_at: "2026-03-30T03:37:33.594Z"
 status: "active"
 ---
 
 # § 2521. Stockpile stewardship program
 
-- **(a)** The Secretary of Energy, acting through the Administrator for Nuclear Security, shall establish a stewardship program to ensure—
+- **(a)** The Secretary of Energy, acting through the Administrator, shall establish a stewardship program to ensure—
   - **(1)** the preservation of the core intellectual and technical competencies of the United States in nuclear weapons, including weapons design, system integration, manufacturing, security, use control, reliability assessment, and certification; and
   - **(2)** that the nuclear weapons stockpile is safe, secure, and reliable without the use of underground nuclear weapons testing.
 - **(b)** The program shall include the following:
@@ -24,8 +24,5 @@ status: "active"
     - **(C)** the Z Machine at Sandia National Laboratories; and
     - **(D)** the experimental facilities at the Nevada National Security Site.
   - **(5)** Support for the sustainment and modernization of facilities with production and manufacturing capabilities that are necessary to ensure the safety, security, and reliability of the nuclear weapons stockpile, including—
-    - **(A)** the Pantex Plant;
-    - **(B)** the Y–12 National Security Complex;
-    - **(C)** the Kansas City Plant;
-    - **(D)** the Savannah River Site; and
-    - **(E)** production and manufacturing capabilities resident in the national security laboratories.
+    - **(A)** the nuclear weapons production facilities; and
+    - **(B)** production and manufacturing capabilities resident in the national security laboratories.

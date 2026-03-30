@@ -3,9 +3,9 @@ title: "Section 2913 - Veterans’ workforce investment programs"
 usc_title: 29
 usc_section: "2913"
 chapter: 30
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "29 U.S.C. § 2913"
-generated_at: "2026-03-30T03:34:33.919Z"
+generated_at: "2026-03-30T03:36:46.460Z"
 status: "active"
 ---
 

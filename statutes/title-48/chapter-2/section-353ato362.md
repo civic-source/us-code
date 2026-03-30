@@ -3,9 +3,9 @@ title: "Section 353ato362 - Transferred"
 usc_title: 48
 usc_section: "353ato362"
 chapter: 2
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "48 U.S.C. § 353ato362"
-generated_at: "2026-03-30T03:35:32.328Z"
+generated_at: "2026-03-30T03:37:29.618Z"
 status: "transferred"
 ---
 

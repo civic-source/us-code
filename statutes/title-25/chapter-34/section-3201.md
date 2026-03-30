@@ -3,9 +3,9 @@ title: "Section 3201 - Findings and purpose"
 usc_title: 25
 usc_section: "3201"
 chapter: 34
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "25 U.S.C. § 3201"
-generated_at: "2026-03-30T03:34:13.494Z"
+generated_at: "2026-03-30T03:36:34.807Z"
 status: "active"
 ---
 

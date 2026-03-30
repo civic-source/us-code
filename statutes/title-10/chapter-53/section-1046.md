@@ -3,9 +3,9 @@ title: "Section 1046 - Overseas temporary foster care program"
 usc_title: 10
 usc_section: "1046"
 chapter: 53
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 1046"
-generated_at: "2026-03-30T03:33:32.913Z"
+generated_at: "2026-03-30T03:36:02.459Z"
 status: "active"
 ---
 

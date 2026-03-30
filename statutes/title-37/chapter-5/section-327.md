@@ -3,9 +3,9 @@ title: "Section 327 - Incentive bonus: transfer between armed forces"
 usc_title: 37
 usc_section: "327"
 chapter: 5
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "37 U.S.C. § 327"
-generated_at: "2026-03-30T03:34:57.921Z"
+generated_at: "2026-03-30T03:37:03.774Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ status: "active"
 - **(e)** A bonus paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 - **(f)** A member who is paid a bonus under an agreement under this section and who, voluntarily or because of misconduct, fails to serve for the period covered by such agreement shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(g)** The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department under this subsection shall be subject to the approval of the Secretary of Defense.
-- **(h)** No agreement under this section may be entered into after December 31, 2013 .
+- **(h)** No agreement under this section may be entered into after December 31, 2014 .

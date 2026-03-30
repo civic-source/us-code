@@ -3,9 +3,9 @@ title: "Section 6091 - Exclusion from United States of aliens who have confiscat
 usc_title: 22
 usc_section: "6091"
 chapter: 69
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 6091"
-generated_at: "2026-03-30T03:34:15.156Z"
+generated_at: "2026-03-30T03:36:39.950Z"
 status: "active"
 ---
 

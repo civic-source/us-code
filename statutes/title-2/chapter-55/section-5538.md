@@ -1,0 +1,18 @@
+---
+title: "Section 5538 - Net Expenses of Telecommunications Revolving Fund"
+usc_title: 2
+usc_section: "5538"
+chapter: 55
+current_through: "PL 113-75"
+classification: "2 U.S.C. § 5538"
+generated_at: "2026-03-30T03:35:51.764Z"
+status: "active"
+---
+
+# § 5538. Net Expenses of Telecommunications Revolving Fund
+
+- **(a)** There is hereby established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the Net Expenses of Telecommunications Revolving Fund (hereafter in this section referred to as the “Revolving Fund”), consisting of funds deposited by the Chief Administrative Officer of the House of Representatives from amounts provided by legislative branch offices to purchase, lease, obtain, and maintain the data and voice telecommunications services and equipment located in such offices.
+- **(b)** Amounts in the Revolving Fund shall be used by the Chief Administrative Officer without fiscal year limitation to purchase, lease, obtain, and maintain the data and voice telecommunications services and equipment of legislative branch offices.
+- **(c)** The Revolving Fund shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title .
+- **(d)**
+- **(f)** This section and the amendments made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year, except that for purposes of making deposits into the Revolving Fund under subsection (a), the Chief Administrative Officer may deposit amounts provided by legislative branch offices during fiscal year 2004 or any succeeding fiscal year.

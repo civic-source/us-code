@@ -3,9 +3,9 @@ title: "Section 2367 - Termination expenses"
 usc_title: 22
 usc_section: "2367"
 chapter: 32
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 2367"
-generated_at: "2026-03-30T03:34:15.100Z"
+generated_at: "2026-03-30T03:36:39.865Z"
 status: "active"
 ---
 

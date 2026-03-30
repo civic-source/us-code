@@ -3,9 +3,9 @@ title: "Section 2330a - Procurement of services: tracking of purchases"
 usc_title: 10
 usc_section: "2330a"
 chapter: 137
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 2330a"
-generated_at: "2026-03-30T03:33:32.983Z"
+generated_at: "2026-03-30T03:36:02.506Z"
 status: "active"
 ---
 
@@ -59,8 +59,12 @@ status: "active"
   - **(2)** ensure the inventory is used to inform strategic workforce planning;
   - **(3)** facilitate use of the inventory for compliance with section 235 of this title ; and
   - **(4)** provide for appropriate consideration of the conversion of activities identified under subsection (e)(3) within a reasonable period of time.
-- **(g)** Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
-- **(h)** In this section:
+- **(g)** Not later than May 1 of each year, beginning with 2014 and ending with 2016, the Inspector General of the Department of Defense shall submit to the congressional defense committees a report containing the Inspector General’s assessment of—
+  - **(1)** the efforts by the Department of Defense to compile the inventory pursuant to subsection (c); and
+  - **(2)** the reviews conducted under subsection (e), including the actions taken to resolve the findings of the reviews in accordance with section 2463 of this title .
+- **(h)** Not later than September 30 of each year, beginning with 2014 and ending with 2016, the Comptroller General of the United States shall submit to the congressional defense committees a report containing the Comptroller General’s assessment of the efforts by the Department of Defense to implement subsections (e) and (f).
+- **(i)** Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
+- **(j)** In this section:
   - **(1)** The term “performance-based”, with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
   - **(2)** The definitions set forth in section 2225(f) of this title for the terms “simplified acquisition threshold”, “small business concern”, “small business concern owned and controlled by socially and economically disadvantaged individuals”, and “small business concern owned and controlled by women” shall apply.
   - **(3)** The term “function closely associated with inherently governmental functions” has the meaning given that term in section 2383(b)(3) of this title .

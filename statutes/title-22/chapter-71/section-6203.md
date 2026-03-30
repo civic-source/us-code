@@ -3,9 +3,9 @@ title: "Section 6203 - Establishment of Broadcasting Board of Governors"
 usc_title: 22
 usc_section: "6203"
 chapter: 71
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "22 U.S.C. § 6203"
-generated_at: "2026-03-30T03:34:15.157Z"
+generated_at: "2026-03-30T03:36:39.951Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 239 - Omitted"
 usc_title: 8
 usc_section: "239"
 chapter: 6
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "8 U.S.C. § 239"
-generated_at: "2026-03-30T03:33:33.941Z"
+generated_at: "2026-03-30T03:35:57.351Z"
 status: "omitted"
 ---
 

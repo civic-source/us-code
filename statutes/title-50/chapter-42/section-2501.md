@@ -3,15 +3,15 @@ title: "Section 2501 - Definitions"
 usc_title: 50
 usc_section: "2501"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2501"
-generated_at: "2026-03-30T03:35:33.529Z"
+generated_at: "2026-03-30T03:37:33.593Z"
 status: "active"
 ---
 
 # § 2501. Definitions
 
-In this chapter:
+Except as otherwise provided, in this chapter:
 
   - **(1)** The term “Administration” means the National Nuclear Security Administration.
   - **(2)** The term “Administrator” means the Administrator for Nuclear Security.
@@ -19,16 +19,18 @@ In this chapter:
   - **(4)** The term “congressional defense committees” means—
     - **(A)** the Committee on Armed Services and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-  - **(5)** The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
-  - **(6)** The term “national security laboratory” means any of the following:
+  - **(5)** The terms “defense nuclear facility” and “Department of Energy defense nuclear facility” have the meaning given the term “Department of Energy defense nuclear facility” in section 2286g of title 42 .
+  - **(6)** The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
+  - **(7)** The term “national security laboratory” means any of the following:
     - **(A)** Los Alamos National Laboratory, Los Alamos, New Mexico.
     - **(B)** Sandia National Laboratories, Albuquerque, New Mexico, and Livermore, California.
     - **(C)** Lawrence Livermore National Laboratory, Livermore, California.
-  - **(7)** The term “nuclear weapons production facility” means any of the following:
+  - **(8)** The term “Nuclear Weapons Council” means the Nuclear Weapons Council established by section 179 of title 10 .
+  - **(9)** The term “nuclear weapons production facility” means any of the following:
     - **(A)** The Kansas City Plant, Kansas City, Missouri.
     - **(B)** The Pantex Plant, Amarillo, Texas.
     - **(C)** The Y–12 National Security Complex, Oak Ridge, Tennessee.
     - **(D)** The Savannah River Site, Aiken, South Carolina.
     - **(E)** The Nevada National Security Site, Nevada.
     - **(F)** Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and Congress, determines to be consistent with the mission of the Administration.
-  - **(8)** The term “restricted data” has the meaning given such term in section 2014(y) of title 42 .
+  - **(10)** The term “Restricted Data” has the meaning given such term in section 2014(y) of title 42 .

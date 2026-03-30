@@ -3,9 +3,9 @@ title: "Section 280g - Children’s asthma treatment grants program"
 usc_title: 42
 usc_section: "280g"
 chapter: 6
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 280g"
-generated_at: "2026-03-30T03:35:28.672Z"
+generated_at: "2026-03-30T03:37:23.648Z"
 status: "active"
 ---
 

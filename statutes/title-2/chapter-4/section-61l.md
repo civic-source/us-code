@@ -1,15 +1,13 @@
 ---
-title: "Section 61l - Appointment and compensation of Administrative Assistant, Legislative Assistant, and Executive Secretary for Deputy President pro tempore of Senate"
+title: "Section 61l - Transferred"
 usc_title: 2
 usc_section: "61l"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 61l"
-generated_at: "2026-03-30T03:33:16.294Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.693Z"
+status: "transferred"
 ---
 
-# § 61l. Appointment and compensation of Administrative Assistant, Legislative Assistant, and Executive Secretary for Deputy President pro tempore of Senate
-
-Effective April 1, 1977 , the Deputy President pro tempore is authorized to appoint and fix the compensation of an Administrative Assis­tant at not to exceed $47,595 per annum; a Legislative Assistant at not to exceed $40,080 per annum, and an Executive Secretary at not to exceed $23,380 per annum.
+# § 61l. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 485g - Classification of lands"
 usc_title: 43
 usc_section: "485g"
 chapter: 12
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "43 U.S.C. § 485g"
-generated_at: "2026-03-30T03:35:05.931Z"
+generated_at: "2026-03-30T03:37:08.071Z"
 status: "active"
 ---
 

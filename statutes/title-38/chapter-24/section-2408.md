@@ -3,9 +3,9 @@ title: "Section 2408 - Aid to States for establishment, expansion, and improveme
 usc_title: 38
 usc_section: "2408"
 chapter: 24
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "38 U.S.C. § 2408"
-generated_at: "2026-03-30T03:34:51.036Z"
+generated_at: "2026-03-30T03:37:01.921Z"
 status: "active"
 ---
 

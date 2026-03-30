@@ -1,15 +1,13 @@
 ---
-title: "Section 39 - Deductions for absence"
+title: "Section 39 - Transferred"
 usc_title: 2
 usc_section: "39"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 39"
-generated_at: "2026-03-30T03:33:16.288Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.692Z"
+status: "transferred"
 ---
 
-# § 39. Deductions for absence
-
-The Chief Administrative Officer of the House of Representatives (upon certification by the Clerk of the House of Representatives) shall deduct from the monthly payments (or other periodic payments authorized by law) of each Member or Delegate the amount of his salary for each day that he has been absent from the House, unless such Member or Delegate assigns as the reason for such absence the sickness of himself or of some member of his family.
+# § 39. Transferred
 

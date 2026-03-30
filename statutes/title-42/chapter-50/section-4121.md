@@ -3,9 +3,9 @@ title: "Section 4121 - Definitions"
 usc_title: 42
 usc_section: "4121"
 chapter: 50
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 4121"
-generated_at: "2026-03-30T03:35:29.100Z"
+generated_at: "2026-03-30T03:37:24.228Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** As used in this chapter—
   - **(1)** the term “flood” shall have such meaning as may be prescribed in regulations of the Administrator, and may include inundation from rising waters or from the overflow of streams, rivers, or other bodies of water, or from tidal surges, abnormally high tidal water, tidal waves, tsunamis, hurricanes, or other severe storms or deluge;
   - **(2)** the terms “United States” (when used in a geographic sense) and “State” includes the several States, the District of Columbia, the territories and possessions, the Commonwealth of Puerto Rico, and the Trust Territory of the Pacific Islands;
-  - **(3)** the terms “Insurance company”, “other insurer” and “insurance agent or broker” include any organization or person that is authorized to engage in the business of insurance under the laws of any State, subject to the reporting requirements of the Securities Exchange Act of 1934 [ 15 U.S.C. 78a et seq.] pursuant to section 13(a) or 15(d) of such Act ( 15 U.S.C. 78m(a) and 78 o (d)), or authorized by the Administrator to assume reinsurance on risks insured by the flood insurance program;
+  - **(3)** the terms “insurance company”, “other insurer” and “insurance agent or broker” include any organization or person that is authorized to engage in the business of insurance under the laws of any State, subject to the reporting requirements of the Securities Exchange Act of 1934 [ 15 U.S.C. 78a et seq.] pursuant to section 13(a) or 15(d) of such Act ( 15 U.S.C. 78m(a) and 78 o (d)), or authorized by the Administrator to assume reinsurance on risks insured by the flood insurance program;
   - **(4)** the term “insurance adjustment organization” includes any organizations and persons engaged in the business of adjusting loss claims arising under insurance policies issued by any insurance company or other insurer;
   - **(5)** the term “person” includes any individual or group of individuals, corporation, partnership, association, or any other organized group of persons, including State and local governments and agencies thereof;
   - **(6)** the term “Administrator” means the Administrator of the Federal Emergency Management Agency;

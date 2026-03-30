@@ -3,9 +3,9 @@ title: "Section 206 - Rates and charges generally; discrimination"
 usc_title: 7
 usc_section: "206"
 chapter: 9
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 206"
-generated_at: "2026-03-30T03:33:26.264Z"
+generated_at: "2026-03-30T03:36:04.573Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 152307 - Restrictions"
 usc_title: 36
 usc_section: "152307"
 chapter: 1523
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "36 U.S.C. § 152307"
-generated_at: "2026-03-30T03:34:49.241Z"
+generated_at: "2026-03-30T03:37:03.079Z"
 status: "active"
 ---
 

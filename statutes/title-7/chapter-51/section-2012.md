@@ -3,9 +3,9 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-03-30T03:33:26.400Z"
+generated_at: "2026-03-30T03:36:04.652Z"
 status: "active"
 ---
 

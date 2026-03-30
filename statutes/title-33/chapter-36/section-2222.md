@@ -3,9 +3,9 @@ title: "Section 2222 - Use of other Federal funds"
 usc_title: 33
 usc_section: "2222"
 chapter: 36
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "33 U.S.C. § 2222"
-generated_at: "2026-03-30T03:34:36.940Z"
+generated_at: "2026-03-30T03:36:55.458Z"
 status: "active"
 ---
 

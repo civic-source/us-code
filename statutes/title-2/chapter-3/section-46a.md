@@ -1,15 +1,13 @@
 ---
-title: "Section 46a - Stationery allowance for President of Senate"
+title: "Section 46a - Transferred"
 usc_title: 2
 usc_section: "46a"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 46a"
-generated_at: "2026-03-30T03:33:16.289Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.692Z"
+status: "transferred"
 ---
 
-# § 46a. Stationery allowance for President of Senate
-
-Effective April 1, 1975 , and each fiscal year thereafter, the annual allowance for stationery for the President of the Senate shall be $8,000.
+# § 46a. Transferred
 

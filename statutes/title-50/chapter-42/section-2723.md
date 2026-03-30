@@ -3,16 +3,16 @@ title: "Section 2723 - Fellowship program for development of skills critical to 
 usc_title: 50
 usc_section: "2723"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2723"
-generated_at: "2026-03-30T03:35:33.535Z"
+generated_at: "2026-03-30T03:37:33.599Z"
 status: "active"
 ---
 
 # § 2723. Fellowship program for development of skills critical to the nuclear security enterprise
 
 - **(a)** The Secretary of Energy shall conduct a fellowship program for the development of skills critical to the ongoing mission of the nuclear security enterprise. Under the fellowship program, the Secretary shall provide educational assistance and research assistance to eligible individuals to facilitate the development by such individuals of skills critical to maintaining the ongoing mission of the nuclear security enterprise.
-- **(b)** Individuals eligible for participation in the fellowship program are United States citizens who are the following:
+- **(b)** Individuals eligible for participation in the fellowship program are United States citizens who are either of the following:
   - **(1)** Students pursuing graduate degrees in fields of science or engineering that are related to nuclear weapons engineering or to the science and technology base of the Department of Energy.
   - **(2)** Individuals engaged in postdoctoral studies in such fields.
 - **(c)** The Secretary shall carry out the fellowship program at or in connection with the national security laboratories and nuclear weapons production facilities.

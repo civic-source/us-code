@@ -3,9 +3,9 @@ title: "Section 1241to1243 - Omitted"
 usc_title: 48
 usc_section: "1241to1243"
 chapter: 5
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "48 U.S.C. § 1241to1243"
-generated_at: "2026-03-30T03:35:32.330Z"
+generated_at: "2026-03-30T03:37:29.622Z"
 status: "omitted"
 ---
 

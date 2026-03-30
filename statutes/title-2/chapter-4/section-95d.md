@@ -1,16 +1,13 @@
 ---
-title: "Section 95d - Account in House of Representatives for Employees’ Compensation Fund"
+title: "Section 95d - Transferred"
 usc_title: 2
 usc_section: "95d"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 95d"
-generated_at: "2026-03-30T03:33:16.297Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.694Z"
+status: "transferred"
 ---
 
-# § 95d. Account in House of Representatives for Employees’ Compensation Fund
+# § 95d. Transferred
 
-- **(a)** There is hereby established an account in the House of Representatives for purposes of making payments of the House of Representatives to the Employees’ Compensation Fund under section 8147 of title 5 .
-- **(b)** Notwithstanding any other provision of law, payments may be made from the account established under subsection (a) of this section at any time after October 7, 1997 , without regard to the fiscal year for which the obligation to make such payments is incurred.
-- **(c)** The account established under subsection (a) of this section shall be treated as a category of allowances and expenses for purposes of section 95b(a) of this title .

@@ -1,21 +1,13 @@
 ---
-title: "Section 130j - Program to increase employment opportunities in House of Representatives for individuals with disabilities"
+title: "Section 130j - Transferred"
 usc_title: 2
 usc_section: "130j"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 130j"
-generated_at: "2026-03-30T03:33:16.301Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.695Z"
+status: "transferred"
 ---
 
-# § 130j. Program to increase employment opportunities in House of Representatives for individuals with disabilities
+# § 130j. Transferred
 
-- **(a)** In order to promote an increase in opportunities for individuals with disabilities to provide services to the House of Representatives, the Chief Administrative Officer of the House of Representatives is authorized to—
-  - **(1)** enter into 1 or more contracts with nongovernmental entities to provide for the performance of services for offices of the House of Representatives by individuals with disabilities who are employees of, or under contract with, such entities; and
-  - **(2)** provide reasonable accommodations, including assistive technology devices and assistive technology services, to enable such individuals to perform such services under such contracts.
-- **(b)** The Chief Administrative Officer of the House of Representatives, in entering into any contract under subsection (a) of this section, shall seek to ensure that—
-  - **(1)** traditional and nontraditional outreach efforts are used to attract individuals with disabilities for educational benefit and employment opportunities in the House;
-  - **(2)** the non-governmental entity provides adequate education and training for individuals with disabilities to enhance such employment opportunities; and
-  - **(3)** efforts are made to educate employing offices in the House about opportunities to employ individuals with disabilities.
-- **(c)** There are authorized to be appropriated from the applicable accounts of the House of Representatives $500,000 to carry out this section for each of the fiscal years 2003 through 2007.

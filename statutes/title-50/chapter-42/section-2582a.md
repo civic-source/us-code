@@ -1,21 +1,21 @@
 ---
-title: "Section 2582a - Future-years defense environmental management plan"
+title: "Section 2582a - Future-years defense environmental cleanup plan"
 usc_title: 50
 usc_section: "2582a"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2582a"
-generated_at: "2026-03-30T03:35:33.532Z"
+generated_at: "2026-03-30T03:37:33.597Z"
 status: "active"
 ---
 
-# § 2582a. Future-years defense environmental management plan
+# § 2582a. Future-years defense environmental cleanup plan
 
-- **(a)** The Secretary of Energy shall submit to Congress each year, at or about the same time that the President’s budget is submitted to Congress for a fiscal year under section 1105(a) of title 31 , a future-years defense environmental management plan that—
-  - **(1)** reflects the estimated expenditures and proposed appropriations included in that budget for the Department of Energy for environmental management; and
+- **(a)** The Secretary of Energy shall submit to Congress each year, at or about the same time that the President’s budget is submitted to Congress for a fiscal year under section 1105(a) of title 31 , a future-years defense environmental cleanup plan that—
+  - **(1)** reflects the estimated expenditures and proposed appropriations included in that budget for the Department of Energy for defense environmental cleanup; and
   - **(2)** covers a period that includes the fiscal year for which that budget is submitted and not less than the four succeeding fiscal years.
-- **(b)** Each future-years defense environmental management plan required by subsection (a) shall contain the following:
-  - **(1)** A detailed description of the projects and activities relating to defense environmental management to be carried out during the period covered by the plan at the sites specified in subsection (c) and with respect to the activities specified in subsection (d).
+- **(b)** Each future-years defense environmental cleanup plan required by subsection (a) shall contain the following:
+  - **(1)** A detailed description of the projects and activities relating to defense environmental cleanup to be carried out during the period covered by the plan at the sites specified in subsection (c) and with respect to the activities specified in subsection (d).
   - **(2)** A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support such projects and activities.
   - **(3)** With respect to each site specified in subsection (c), the following:
     - **(A)** A statement of each milestone included in an enforceable agreement governing cleanup and waste remediation for that site for each fiscal year covered by the plan.

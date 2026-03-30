@@ -3,9 +3,9 @@ title: "Section 111 - PDP regions; submission of bids; plan approval"
 usc_title: 42
 usc_section: "111"
 chapter: 7
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-30T03:35:28.886Z"
+generated_at: "2026-03-30T03:37:23.928Z"
 status: "active"
 ---
 
@@ -107,7 +107,7 @@ status: "active"
       - **(i)** Subject to clause (ii), a contract approved for a fallback prescription drug plan for fallback service areas for a PDP region under this section shall be for a period of 3 years (except as may be renewed after a subsequent bidding process).
       - **(ii)** A fallback prescription drug plan may be offered under a contract in an area for a year only if that area is a fallback service area for that year.
     - **(C)** An eligible fallback entity with a contract under this subsection may not engage in any marketing or branding of a fallback prescription drug plan.
-- **(h)** The Secretary shall submit to Congress an annual report that describes instances in which limited risk plans and fallback prescription drug plans were offered under subsections (f) and (g) of this section. The Secretary shall include in such report such recommendations as may be appropriate to limit the need for the provision of such plans and to maximize the assumption of financial risk under section subsection (f) of this section.
+- **(h)** The Secretary shall submit to Congress an annual report that describes instances in which limited risk plans and fallback prescription drug plans were offered under subsections (f) and (g) of this section. The Secretary shall include in such report such recommendations as may be appropriate to limit the need for the provision of such plans and to maximize the assumption of financial risk under section subsection 3 3 So in original. (f) of this section.
 - **(i)** In order to promote competition under this part and in carrying out this part, the Secretary—
   - **(1)** may not interfere with the negotiations between drug manufacturers and pharmacies and PDP sponsors; and
   - **(2)** may not require a particular formulary or institute a price structure for the reimbursement of covered part D drugs.

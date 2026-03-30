@@ -3,9 +3,9 @@ title: "Section 476c - Travel and transportation allowances: members assigned to
 usc_title: 37
 usc_section: "476c"
 chapter: 8
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "37 U.S.C. § 476c"
-generated_at: "2026-03-30T03:34:57.927Z"
+generated_at: "2026-03-30T03:37:03.782Z"
 status: "active"
 ---
 
@@ -22,6 +22,6 @@ status: "active"
 - **(b)**
   - **(1)** In lieu of the entitlement of a member of the uniformed services to transportation under subsection (a), the Secretary concerned may provide transportation in kind, reimbursement for personally procured transportation, or a monetary allowance in place of the cost of transportation as provided in section 474(d)(1) of this title for the travel of the dependents of the member from the designated home port of the ship, or the area where the dependents of the member are residing, to the port of construction.
   - **(2)** The total reimbursement for transportation for the member’s dependents under paragraph (1) may not exceed the cost of Government-procured commercial round-trip travel.
-- **(c)** In any case in which a member of the uniformed services assigned to permanent duty aboard a ship that undergoes a change of home port to the port at which the ship is being constructed, the dependents of such member may be provided the transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by section 476 of this title and section 2634 of title 10 .
+- **(c)** In any case in which a member of the uniformed services assigned to permanent duty aboard a ship that undergoes a change of home port to the port at which the ship is being constructed, the dependents of such member may be provided the transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by section 476 of this title and section 2634 1 1 See References in Text note below. of title 10.
 - **(d)** Section 420 of this title does not apply with respect to transportation or allowances provided under this section.
 - **(e)** No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.

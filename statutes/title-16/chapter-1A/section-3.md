@@ -3,9 +3,9 @@ title: "Section 3 - Preservation Technology and Training Board"
 usc_title: 16
 usc_section: "3"
 chapter: 1
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T03:33:55.071Z"
+generated_at: "2026-03-30T03:36:30.113Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 2543 - Tritium production"
+title: "Section 2543 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 3146(c)(11)(B) , Dec. 26, 2013 , 127 Stat. 1075"
 usc_title: 50
 usc_section: "2543"
 chapter: 42
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2543"
-generated_at: "2026-03-30T03:35:33.530Z"
-status: "active"
+generated_at: "2026-03-30T03:37:33.595Z"
+status: "repealed"
 ---
 
-# § 2543. Tritium production
+# § 2543. Repealed. Pub. L. 113–66, div. C, title XXXI, § 3146(c)(11)(B) , Dec. 26, 2013 , 127 Stat. 1075
 
-- **(a)** The Secretary of Energy shall commence planning and design activities and infrastructure development for a new tritium production facility.
-- **(b)** The Secretary may perform in-reactor tests of tritium target rods as part of the activities carried out under the commercial light water reactor program.

@@ -3,9 +3,9 @@ title: "Section 6223 - Repealed. Pub. L. 110–181, div. A, title V, § 590(b)(1
 usc_title: 10
 usc_section: "6223"
 chapter: 565
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "10 U.S.C. § 6223"
-generated_at: "2026-03-30T03:33:33.051Z"
+generated_at: "2026-03-30T03:36:02.551Z"
 status: "repealed"
 ---
 

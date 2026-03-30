@@ -1,15 +1,13 @@
 ---
-title: "Section 58a - Telecommunications services for Senators; payment of costs out of contingent fund"
+title: "Section 58a - Transferred"
 usc_title: 2
 usc_section: "58a"
 chapter: 3
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 58a"
-generated_at: "2026-03-30T03:33:16.290Z"
-status: "active"
+generated_at: "2026-03-30T03:35:51.692Z"
+status: "transferred"
 ---
 
-# § 58a. Telecommunications services for Senators; payment of costs out of contingent fund
-
-The Sergeant at Arms and Doorkeeper of the Senate shall furnish each Senator local and long-distance telecommunications services in Washington, District of Columbia, and in such Senator’s State in accordance with regulations prescribed by the Senate Committee on Rules and Administration; and the costs of such service shall be paid out of the contingent fund of the Senate from moneys made available to him for that purpose.
+# § 58a. Transferred
 

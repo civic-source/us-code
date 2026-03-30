@@ -3,9 +3,9 @@ title: "Section 96to100 - Repealed. Pub. L. 104–186, title II, § 204(46) –(
 usc_title: 2
 usc_section: "96to100"
 chapter: 4
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "2 U.S.C. § 96to100"
-generated_at: "2026-03-30T03:33:16.297Z"
+generated_at: "2026-03-30T03:35:51.694Z"
 status: "repealed"
 ---
 

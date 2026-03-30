@@ -3,9 +3,9 @@ title: "Section 2757 - Repealed. Pub. L. 90–575, title I, § 131(a) , Oct. 16,
 usc_title: 42
 usc_section: "2757"
 chapter: 34
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 2757"
-generated_at: "2026-03-30T03:35:29.054Z"
+generated_at: "2026-03-30T03:37:24.161Z"
 status: "repealed"
 ---
 

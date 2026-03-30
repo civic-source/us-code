@@ -1,0 +1,22 @@
+---
+title: "Section 4554 - Waiver by Speaker of House of claims of United States arising out of erroneous payments to officers or employees paid by Chief Administrative Officer of House"
+usc_title: 2
+usc_section: "4554"
+chapter: 45
+current_through: "PL 113-75"
+classification: "2 U.S.C. § 4554"
+generated_at: "2026-03-30T03:35:51.758Z"
+status: "active"
+---
+
+# § 4554. Waiver by Speaker of House of claims of United States arising out of erroneous payments to officers or employees paid by Chief Administrative Officer of House
+
+- **(a)** A claim of the United States against a person arising out of an erroneous payment of any pay or allowances, other than travel and transportation expenses and allowances, on or after July 25, 1974 , to an officer or employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives, the collection of which would be against equity and good conscience and not in the best interests of the United States, may be waived in whole or in part by the Speaker of the House.
+- **(b)** An application for waiver of a claim shall be investigated by the Chief Administrative Officer of the House of Representatives who shall submit a written report of his investigation to the Speaker of the House.
+- **(c)** The Speaker of the House may not exercise his authority under this section to waive any claim—
+  - **(1)** if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the officer or employee or any other person having an interest in obtaining a waiver of the claim; or
+  - **(2)** if the application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered.
+- **(d)** In the audit and settlement of the accounts of any accountable officer or official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
+- **(e)** An erroneous payment, the collection of which is waived under this section, is deemed a valid payment for all purposes.
+- **(f)** This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
+- **(g)** The Speaker of the House shall prescribe rules and regulations to carry out the provisions of this section.

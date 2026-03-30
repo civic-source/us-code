@@ -3,9 +3,9 @@ title: "Section 15521 - Establishment of program"
 usc_title: 42
 usc_section: "15521"
 chapter: 146
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "42 U.S.C. § 15521"
-generated_at: "2026-03-30T03:35:29.393Z"
+generated_at: "2026-03-30T03:37:24.611Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2402 - Administrator for Nuclear Security"
 usc_title: 50
 usc_section: "2402"
 chapter: 41
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "50 U.S.C. § 2402"
-generated_at: "2026-03-30T03:35:33.528Z"
+generated_at: "2026-03-30T03:37:33.591Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(17)** Public affairs.
   - **(18)** Eliminating inventories of surplus fissile materials usable for nuclear weapons.
   - **(19)** Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
-- **(c)** The Administrator is the senior procurement executive for the Administration for the purposes of section 414(3) of title 41 . 1 1 See References in Text note below.
+- **(c)** The Administrator is the senior procurement executive for the Administration for the purposes of section 1702(c) of title 41 .
 - **(d)** The Administrator may establish Administration-specific policies, unless disapproved by the Secretary of Energy.
 - **(e)** The Administrator serves as a member of the Nuclear Weapons Council under section 179 of title 10 .
 - **(f)** Except as provided by subsections (b) and (c) of section 2481 of this title :

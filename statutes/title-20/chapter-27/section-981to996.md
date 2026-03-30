@@ -3,9 +3,9 @@ title: "Section 981to996 - Repealed. Pub. L. 90–575, title I, § 116(c)(1) , O
 usc_title: 20
 usc_section: "981to996"
 chapter: 27
-current_through: "PL 113-65"
+current_through: "PL 113-75"
 classification: "20 U.S.C. § 981to996"
-generated_at: "2026-03-30T03:34:04.166Z"
+generated_at: "2026-03-30T03:36:22.739Z"
 status: "repealed"
 ---
 
