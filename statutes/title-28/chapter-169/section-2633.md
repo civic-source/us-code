@@ -3,9 +3,9 @@ title: "Section 2633 - Procedure and fees"
 usc_title: 28
 usc_section: "2633"
 chapter: 169
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "28 U.S.C. § 2633"
-generated_at: "2026-03-30T08:18:20.920Z"
+generated_at: "2026-03-30T08:22:20.213Z"
 status: "active"
 ---
 

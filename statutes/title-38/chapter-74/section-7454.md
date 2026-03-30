@@ -3,9 +3,9 @@ title: "Section 7454 - Physician assistants and other health care professionals:
 usc_title: 38
 usc_section: "7454"
 chapter: 74
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "38 U.S.C. § 7454"
-generated_at: "2026-03-30T08:19:01.452Z"
+generated_at: "2026-03-30T08:23:36.363Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 711a - “Woodsy Owl” character, name, or slogan"
 usc_title: 18
 usc_section: "711a"
 chapter: 33
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "18 U.S.C. § 711a"
-generated_at: "2026-03-30T08:17:54.907Z"
+generated_at: "2026-03-30T08:21:21.533Z"
 status: "active"
 ---
 

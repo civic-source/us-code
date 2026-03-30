@@ -3,9 +3,9 @@ title: "Section 2503 - Executive director, staff, transportation expenses"
 usc_title: 44
 usc_section: "2503"
 chapter: 25
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "44 U.S.C. § 2503"
-generated_at: "2026-03-30T08:19:14.532Z"
+generated_at: "2026-03-30T08:23:39.399Z"
 status: "active"
 ---
 

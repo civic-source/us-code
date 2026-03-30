@@ -3,9 +3,9 @@ title: "Section 47102 - Definitions"
 usc_title: 49
 usc_section: "47102"
 chapter: 471
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 47102"
-generated_at: "2026-03-30T08:19:57.557Z"
+generated_at: "2026-03-30T08:24:01.382Z"
 status: "active"
 ---
 

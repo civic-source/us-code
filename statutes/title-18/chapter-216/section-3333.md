@@ -3,9 +3,9 @@ title: "Section 3333 - Reports"
 usc_title: 18
 usc_section: "3333"
 chapter: 216
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "18 U.S.C. § 3333"
-generated_at: "2026-03-30T08:17:54.942Z"
+generated_at: "2026-03-30T08:21:21.569Z"
 status: "active"
 ---
 

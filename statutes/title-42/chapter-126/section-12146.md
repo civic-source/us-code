@@ -3,9 +3,9 @@ title: "Section 12146 - New facilities"
 usc_title: 42
 usc_section: "12146"
 chapter: 126
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 12146"
-generated_at: "2026-03-30T08:19:32.516Z"
+generated_at: "2026-03-30T08:23:52.845Z"
 status: "active"
 ---
 

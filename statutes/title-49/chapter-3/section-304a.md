@@ -3,9 +3,9 @@ title: "Section 304a - Accelerated decisionmaking in environmental reviews"
 usc_title: 49
 usc_section: "304a"
 chapter: 3
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 304a"
-generated_at: "2026-03-30T08:19:57.488Z"
+generated_at: "2026-03-30T08:24:01.305Z"
 status: "active"
 ---
 

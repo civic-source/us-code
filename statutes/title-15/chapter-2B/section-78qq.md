@@ -3,9 +3,9 @@ title: "Section 78qq - Small Business Capital Formation Advisory Committee"
 usc_title: 15
 usc_section: "78qq"
 chapter: 2
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "15 U.S.C. § 78qq"
-generated_at: "2026-03-30T08:17:50.008Z"
+generated_at: "2026-03-30T08:21:10.491Z"
 status: "active"
 ---
 

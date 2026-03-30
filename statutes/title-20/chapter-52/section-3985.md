@@ -3,9 +3,9 @@ title: "Section 3985 - Application"
 usc_title: 20
 usc_section: "3985"
 chapter: 52
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "20 U.S.C. § 3985"
-generated_at: "2026-03-30T08:18:07.778Z"
+generated_at: "2026-03-30T08:21:51.349Z"
 status: "active"
 ---
 

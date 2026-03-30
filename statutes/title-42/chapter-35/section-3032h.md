@@ -3,9 +3,9 @@ title: "Section 3032h - Repealed. Pub. L. 114–144, § 5(d) , Apr. 19, 2016 , 1
 usc_title: 42
 usc_section: "3032h"
 chapter: 35
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 3032h"
-generated_at: "2026-03-30T08:19:32.317Z"
+generated_at: "2026-03-30T08:23:52.647Z"
 status: "repealed"
 ---
 

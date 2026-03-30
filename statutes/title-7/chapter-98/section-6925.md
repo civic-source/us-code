@@ -3,9 +3,9 @@ title: "Section 6925 - Food Access Liaison"
 usc_title: 7
 usc_section: "6925"
 chapter: 98
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 6925"
-generated_at: "2026-03-30T08:17:09.921Z"
+generated_at: "2026-03-30T08:20:24.483Z"
 status: "active"
 ---
 

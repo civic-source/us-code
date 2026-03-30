@@ -3,9 +3,9 @@ title: "Section 6201 - Congressional findings and declaration of purposes"
 usc_title: 22
 usc_section: "6201"
 chapter: 71
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "22 U.S.C. § 6201"
-generated_at: "2026-03-30T08:18:17.822Z"
+generated_at: "2026-03-30T08:21:58.419Z"
 status: "active"
 ---
 

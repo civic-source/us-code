@@ -3,9 +3,9 @@ title: "Section 3724 - Claims for damages caused by investigative or law enforce
 usc_title: 31
 usc_section: "3724"
 chapter: 37
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "31 U.S.C. § 3724"
-generated_at: "2026-03-30T08:18:55.369Z"
+generated_at: "2026-03-30T08:23:13.272Z"
 status: "active"
 ---
 

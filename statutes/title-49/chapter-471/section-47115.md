@@ -3,9 +3,9 @@ title: "Section 47115 - Discretionary fund"
 usc_title: 49
 usc_section: "47115"
 chapter: 471
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 47115"
-generated_at: "2026-03-30T08:19:57.559Z"
+generated_at: "2026-03-30T08:24:01.386Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
     - **(B)** Except as otherwise provided in this subsection, grants made under this subsection shall not be subject to subsection (c), section 47117(e), or any other apportionment formula, special apportionment category, or minimum percentage set forth in this chapter.
   - **(3)**
     - **(A)** The Secretary may provide grants under this subsection for an airport or terminal development project at any airport that is eligible to receive a grant from the discretionary fund under subsection (a) of this section.
-    - **(B)** Not less than 50 percent of the amounts available under this subsection shall used to provide grants at—
+    - **(B)** Not less than 50 percent of the amounts available under this subsection shall 1 1 So in original. The word “be” probably should appear. used to provide grants at—
       - **(i)** airports that are eligible for apportionment under section 47114(d)(3); and
       - **(ii)** nonhub and small hub airports.
   - **(4)**

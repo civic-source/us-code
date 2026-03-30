@@ -3,9 +3,9 @@ title: "Section 2403 - Rural water programs assessment"
 usc_title: 43
 usc_section: "2403"
 chapter: 42
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "43 U.S.C. § 2403"
-generated_at: "2026-03-30T08:19:06.814Z"
+generated_at: "2026-03-30T08:23:53.501Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 131 - Office of the Secretary of Defense"
 usc_title: 10
 usc_section: "131"
 chapter: 4
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 131"
-generated_at: "2026-03-30T08:17:25.782Z"
+generated_at: "2026-03-30T08:20:30.053Z"
 status: "active"
 ---
 
@@ -22,6 +22,7 @@ status: "active"
     - **(D)** The Under Secretary of Defense (Comptroller).
     - **(E)** The Under Secretary of Defense for Personnel and Readiness.
     - **(F)** The Under Secretary of Defense for Intelligence.
+  - **(4)** Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
     - **(A)** The Director of Cost Assessment and Program Evaluation.
     - **(B)** The Director of Operational Test and Evaluation.
     - **(C)** The General Counsel of the Department of Defense.

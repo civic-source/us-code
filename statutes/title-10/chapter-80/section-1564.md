@@ -3,9 +3,9 @@ title: "Section 1564 - Security clearance investigations"
 usc_title: 10
 usc_section: "1564"
 chapter: 80
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 1564"
-generated_at: "2026-03-30T08:17:25.843Z"
+generated_at: "2026-03-30T08:20:30.108Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
       - **(iii)** fraud against the United States; or
       - **(iv)** any other violation that the Secretary determines renders that individual susceptible to blackmail or raises serious concern regarding the ability of that individual to hold a security clearance; or
     - **(B)** determination by a commanding officer that that individual has committed an offense described in subparagraph (A).
-  - **(2)** An individual described in this paragraph in an individual who has a security clearance and is—
+  - **(2)** An individual described in this paragraph in 1 1 So in original. Probably should be “is”. an individual who has a security clearance and is—
     - **(A)** a flag officer;
     - **(B)** a general officer; or
     - **(C)** an employee of the Department of Defense in the Senior Executive Service.

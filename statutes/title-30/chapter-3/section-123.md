@@ -3,9 +3,9 @@ title: "Section 123 - Persons locating lands subsequently withdrawn or classifie
 usc_title: 30
 usc_section: "123"
 chapter: 3
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "30 U.S.C. § 123"
-generated_at: "2026-03-30T08:18:20.304Z"
+generated_at: "2026-03-30T08:22:39.605Z"
 status: "active"
 ---
 

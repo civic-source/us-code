@@ -3,9 +3,9 @@ title: "Section 3614 - Tribal judicial conferences"
 usc_title: 25
 usc_section: "3614"
 chapter: 38
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "25 U.S.C. § 3614"
-generated_at: "2026-03-30T08:18:14.308Z"
+generated_at: "2026-03-30T08:22:05.475Z"
 status: "active"
 ---
 

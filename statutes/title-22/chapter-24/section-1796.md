@@ -3,9 +3,9 @@ title: "Section 1796 - Participation in Joint Commission on Rural Reconstruction
 usc_title: 22
 usc_section: "1796"
 chapter: 24
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "22 U.S.C. § 1796"
-generated_at: "2026-03-30T08:18:17.747Z"
+generated_at: "2026-03-30T08:21:58.343Z"
 status: "active"
 ---
 

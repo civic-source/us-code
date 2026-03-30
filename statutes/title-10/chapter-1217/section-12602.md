@@ -3,9 +3,9 @@ title: "Section 12602 - Members of Army National Guard of United States and Air 
 usc_title: 10
 usc_section: "12602"
 chapter: 1217
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 12602"
-generated_at: "2026-03-30T08:17:25.921Z"
+generated_at: "2026-03-30T08:20:30.184Z"
 status: "active"
 ---
 

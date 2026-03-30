@@ -3,9 +3,9 @@ title: "Section 14506 - Identification of vehicles"
 usc_title: 49
 usc_section: "14506"
 chapter: 145
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 14506"
-generated_at: "2026-03-30T08:19:57.511Z"
+generated_at: "2026-03-30T08:24:01.331Z"
 status: "active"
 ---
 

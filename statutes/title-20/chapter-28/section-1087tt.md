@@ -3,9 +3,9 @@ title: "Section 1087tt - Discretion of student financial aid administrators"
 usc_title: 20
 usc_section: "1087tt"
 chapter: 28
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "20 U.S.C. § 1087tt"
-generated_at: "2026-03-30T08:18:07.735Z"
+generated_at: "2026-03-30T08:21:51.307Z"
 status: "active"
 ---
 

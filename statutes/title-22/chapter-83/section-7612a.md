@@ -3,9 +3,9 @@ title: "Section 7612a - HIV/AIDS Working Capital Fund"
 usc_title: 22
 usc_section: "7612a"
 chapter: 83
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "22 U.S.C. § 7612a"
-generated_at: "2026-03-30T08:18:17.838Z"
+generated_at: "2026-03-30T08:21:58.435Z"
 status: "active"
 ---
 

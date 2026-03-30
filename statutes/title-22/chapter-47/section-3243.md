@@ -3,9 +3,9 @@ title: "Section 3243 - Negotiations"
 usc_title: 22
 usc_section: "3243"
 chapter: 47
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "22 U.S.C. § 3243"
-generated_at: "2026-03-30T08:18:17.791Z"
+generated_at: "2026-03-30T08:21:58.388Z"
 status: "active"
 ---
 

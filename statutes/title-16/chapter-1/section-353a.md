@@ -3,9 +3,9 @@ title: "Section 353a - Repealed. Pub. L. 97–468, title VI, § 615(a)(1) , Jan.
 usc_title: 16
 usc_section: "353a"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 353a"
-generated_at: "2026-03-30T08:17:57.147Z"
+generated_at: "2026-03-30T08:21:26.420Z"
 status: "repealed"
 ---
 

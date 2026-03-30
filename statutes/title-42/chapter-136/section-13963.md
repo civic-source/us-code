@@ -3,9 +3,9 @@ title: "Section 13963 - Transferred"
 usc_title: 42
 usc_section: "13963"
 chapter: 136
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 13963"
-generated_at: "2026-03-30T08:19:32.550Z"
+generated_at: "2026-03-30T08:23:52.879Z"
 status: "transferred"
 ---
 

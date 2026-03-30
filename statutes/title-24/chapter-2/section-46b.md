@@ -3,9 +3,9 @@ title: "Section 46b - Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(
 usc_title: 24
 usc_section: "46b"
 chapter: 2
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "24 U.S.C. § 46b"
-generated_at: "2026-03-30T08:18:12.212Z"
+generated_at: "2026-03-30T08:21:58.525Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1009 - Repealed. Pub. L. 87–128, title III, § 341(a) , Aug. 8
 usc_title: 7
 usc_section: "1009"
 chapter: 33
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 1009"
-generated_at: "2026-03-30T08:17:09.813Z"
+generated_at: "2026-03-30T08:20:24.372Z"
 status: "repealed"
 ---
 

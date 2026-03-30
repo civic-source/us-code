@@ -3,9 +3,9 @@ title: "Section 14045c - Repealed. Pub. L. 113–4, title IV, § 402(b)(2) , Mar
 usc_title: 42
 usc_section: "14045c"
 chapter: 136
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 14045c"
-generated_at: "2026-03-30T08:19:32.551Z"
+generated_at: "2026-03-30T08:23:52.880Z"
 status: "repealed"
 ---
 

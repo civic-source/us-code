@@ -3,9 +3,9 @@ title: "Section 6334 - Property exempt from levy"
 usc_title: 26
 usc_section: "6334"
 chapter: 64
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 6334"
-generated_at: "2026-03-30T08:18:35.080Z"
+generated_at: "2026-03-30T08:23:10.722Z"
 status: "active"
 ---
 

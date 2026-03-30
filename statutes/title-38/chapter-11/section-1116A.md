@@ -3,9 +3,9 @@ title: "Section 1116A - Presumptions of service connection for veterans who serv
 usc_title: 38
 usc_section: "1116A"
 chapter: 11
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "38 U.S.C. § 1116A"
-generated_at: "2026-03-30T08:19:01.405Z"
+generated_at: "2026-03-30T08:23:36.317Z"
 status: "active"
 ---
 

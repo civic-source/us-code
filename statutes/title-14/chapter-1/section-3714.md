@@ -3,9 +3,9 @@ title: "Section 3714 - Enlistment of members engaged in schooling"
 usc_title: 14
 usc_section: "3714"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "14 U.S.C. § 3714"
-generated_at: "2026-03-30T08:17:37.921Z"
+generated_at: "2026-03-30T08:20:40.395Z"
 status: "active"
 ---
 

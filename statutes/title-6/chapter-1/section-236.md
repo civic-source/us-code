@@ -3,9 +3,9 @@ title: "Section 236 - Visa issuance"
 usc_title: 6
 usc_section: "236"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "6 U.S.C. § 236"
-generated_at: "2026-03-30T08:17:05.015Z"
+generated_at: "2026-03-30T08:20:38.221Z"
 status: "active"
 ---
 

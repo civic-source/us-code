@@ -3,9 +3,9 @@ title: "Section 559f - Approval of Secretary of Agriculture and Attorney General
 usc_title: 16
 usc_section: "559f"
 chapter: 3
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 559f"
-generated_at: "2026-03-30T08:17:57.231Z"
+generated_at: "2026-03-30T08:21:26.503Z"
 status: "active"
 ---
 

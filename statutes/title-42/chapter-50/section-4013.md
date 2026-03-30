@@ -3,9 +3,9 @@ title: "Section 4013 - Nature and limitation of insurance coverage"
 usc_title: 42
 usc_section: "4013"
 chapter: 50
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 4013"
-generated_at: "2026-03-30T08:19:32.332Z"
+generated_at: "2026-03-30T08:23:52.663Z"
 status: "active"
 ---
 

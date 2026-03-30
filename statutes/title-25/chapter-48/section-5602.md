@@ -3,9 +3,9 @@ title: "Section 5602 - Reaffirmation of policy"
 usc_title: 25
 usc_section: "5602"
 chapter: 48
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "25 U.S.C. § 5602"
-generated_at: "2026-03-30T08:18:14.323Z"
+generated_at: "2026-03-30T08:22:05.491Z"
 status: "active"
 ---
 

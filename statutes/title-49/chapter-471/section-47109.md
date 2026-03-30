@@ -3,9 +3,9 @@ title: "Section 47109 - United States Government’s share of project costs"
 usc_title: 49
 usc_section: "47109"
 chapter: 471
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 47109"
-generated_at: "2026-03-30T08:19:57.558Z"
+generated_at: "2026-03-30T08:24:01.385Z"
 status: "active"
 ---
 

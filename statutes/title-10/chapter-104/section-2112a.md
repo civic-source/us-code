@@ -3,9 +3,9 @@ title: "Section 2112a - Continued operation of University"
 usc_title: 10
 usc_section: "2112a"
 chapter: 104
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 2112a"
-generated_at: "2026-03-30T08:17:25.851Z"
+generated_at: "2026-03-30T08:20:30.116Z"
 status: "active"
 ---
 

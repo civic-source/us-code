@@ -3,9 +3,9 @@ title: "Section 57522 - Books and records, balance sheets, and inspection and au
 usc_title: 46
 usc_section: "57522"
 chapter: 575
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "46 U.S.C. § 57522"
-generated_at: "2026-03-30T08:19:48.513Z"
+generated_at: "2026-03-30T08:23:59.252Z"
 status: "active"
 ---
 

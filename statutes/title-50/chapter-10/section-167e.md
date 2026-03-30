@@ -3,9 +3,9 @@ title: "Section 167e - Intragovernmental cooperation"
 usc_title: 50
 usc_section: "167e"
 chapter: 10
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "50 U.S.C. § 167e"
-generated_at: "2026-03-30T08:19:49.497Z"
+generated_at: "2026-03-30T08:24:02.325Z"
 status: "active"
 ---
 

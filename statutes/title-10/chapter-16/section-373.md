@@ -3,9 +3,9 @@ title: "Section 373 - Renumbered § 273]"
 usc_title: 10
 usc_section: "373"
 chapter: 16
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 373"
-generated_at: "2026-03-30T08:17:25.795Z"
+generated_at: "2026-03-30T08:20:30.062Z"
 status: "renumbered"
 ---
 

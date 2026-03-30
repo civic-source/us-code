@@ -3,9 +3,9 @@ title: "Section 6901 - Transferred assets"
 usc_title: 26
 usc_section: "6901"
 chapter: 71
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 6901"
-generated_at: "2026-03-30T08:18:35.092Z"
+generated_at: "2026-03-30T08:23:10.735Z"
 status: "transferred"
 ---
 

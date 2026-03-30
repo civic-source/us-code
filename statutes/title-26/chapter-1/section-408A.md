@@ -3,9 +3,9 @@ title: "Section 408A - Roth IRAs"
 usc_title: 26
 usc_section: "408A"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 408A"
-generated_at: "2026-03-30T08:18:34.938Z"
+generated_at: "2026-03-30T08:23:10.582Z"
 status: "active"
 ---
 

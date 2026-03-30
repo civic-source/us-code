@@ -3,9 +3,9 @@ title: "Section 6708 - Failure to maintain lists of advisees with respect to rep
 usc_title: 26
 usc_section: "6708"
 chapter: 68
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 6708"
-generated_at: "2026-03-30T08:18:35.090Z"
+generated_at: "2026-03-30T08:23:10.733Z"
 status: "active"
 ---
 

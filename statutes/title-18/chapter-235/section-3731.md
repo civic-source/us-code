@@ -3,9 +3,9 @@ title: "Section 3731 - Appeal by United States"
 usc_title: 18
 usc_section: "3731"
 chapter: 235
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "18 U.S.C. § 3731"
-generated_at: "2026-03-30T08:17:54.950Z"
+generated_at: "2026-03-30T08:21:21.577Z"
 status: "active"
 ---
 

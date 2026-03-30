@@ -3,9 +3,9 @@ title: "Section 9818 - Coordination and eligibility"
 usc_title: 42
 usc_section: "9818"
 chapter: 105
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 9818"
-generated_at: "2026-03-30T08:19:32.477Z"
+generated_at: "2026-03-30T08:23:52.807Z"
 status: "active"
 ---
 

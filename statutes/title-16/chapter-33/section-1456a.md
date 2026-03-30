@@ -3,9 +3,9 @@ title: "Section 1456a - Coastal Zone Management Fund"
 usc_title: 16
 usc_section: "1456a"
 chapter: 33
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 1456a"
-generated_at: "2026-03-30T08:17:57.295Z"
+generated_at: "2026-03-30T08:21:26.567Z"
 status: "active"
 ---
 

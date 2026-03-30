@@ -3,9 +3,9 @@ title: "Section 3115 - Expedited hiring authority for college graduates; competi
 usc_title: 5
 usc_section: "3115"
 chapter: 31
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "5 U.S.C. § 3115"
-generated_at: "2026-03-30T08:16:59.587Z"
+generated_at: "2026-03-30T08:20:18.465Z"
 status: "active"
 ---
 

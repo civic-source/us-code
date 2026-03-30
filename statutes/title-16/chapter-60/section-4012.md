@@ -3,9 +3,9 @@ title: "Section 4012 - Assessments"
 usc_title: 16
 usc_section: "4012"
 chapter: 60
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 4012"
-generated_at: "2026-03-30T08:17:57.338Z"
+generated_at: "2026-03-30T08:21:26.609Z"
 status: "active"
 ---
 

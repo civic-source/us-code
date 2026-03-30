@@ -3,9 +3,9 @@ title: "Section 14907 - Army National Guard of the United States and Air Nationa
 usc_title: 10
 usc_section: "14907"
 chapter: 1411
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 14907"
-generated_at: "2026-03-30T08:17:25.924Z"
+generated_at: "2026-03-30T08:20:30.188Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 164 - Omitted"
 usc_title: 50
 usc_section: "164"
 chapter: 10
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "50 U.S.C. § 164"
-generated_at: "2026-03-30T08:19:49.496Z"
+generated_at: "2026-03-30T08:24:02.325Z"
 status: "omitted"
 ---
 

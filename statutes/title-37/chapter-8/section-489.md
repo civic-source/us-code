@@ -3,9 +3,9 @@ title: "Section 489 - Travel and transportation allowances: minor dependent scho
 usc_title: 37
 usc_section: "489"
 chapter: 8
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "37 U.S.C. § 489"
-generated_at: "2026-03-30T08:18:59.020Z"
+generated_at: "2026-03-30T08:23:34.708Z"
 status: "active"
 ---
 

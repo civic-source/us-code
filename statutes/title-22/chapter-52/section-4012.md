@@ -3,9 +3,9 @@ title: "Section 4012 - Termination of appointments of consular agents and foreig
 usc_title: 22
 usc_section: "4012"
 chapter: 52
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "22 U.S.C. § 4012"
-generated_at: "2026-03-30T08:18:17.799Z"
+generated_at: "2026-03-30T08:21:58.397Z"
 status: "active"
 ---
 

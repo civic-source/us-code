@@ -3,9 +3,9 @@ title: "Section 2535 - Replacement project for Chemistry and Metallurgy Research
 usc_title: 50
 usc_section: "2535"
 chapter: 42
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "50 U.S.C. § 2535"
-generated_at: "2026-03-30T08:19:49.521Z"
+generated_at: "2026-03-30T08:24:02.350Z"
 status: "active"
 ---
 

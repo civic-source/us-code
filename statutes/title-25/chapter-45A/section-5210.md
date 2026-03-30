@@ -3,9 +3,9 @@ title: "Section 5210 - Payment of gross production taxes; method"
 usc_title: 25
 usc_section: "5210"
 chapter: 45
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "25 U.S.C. § 5210"
-generated_at: "2026-03-30T08:18:14.318Z"
+generated_at: "2026-03-30T08:22:05.485Z"
 status: "active"
 ---
 

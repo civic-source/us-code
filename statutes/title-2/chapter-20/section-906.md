@@ -3,9 +3,9 @@ title: "Section 906 - General and special sequestration rules"
 usc_title: 2
 usc_section: "906"
 chapter: 20
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "2 U.S.C. § 906"
-generated_at: "2026-03-30T08:17:02.968Z"
+generated_at: "2026-03-30T08:20:16.764Z"
 status: "active"
 ---
 

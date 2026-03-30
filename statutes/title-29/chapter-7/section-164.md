@@ -3,9 +3,9 @@ title: "Section 164 - Construction of provisions"
 usc_title: 29
 usc_section: "164"
 chapter: 7
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "29 U.S.C. § 164"
-generated_at: "2026-03-30T08:18:21.726Z"
+generated_at: "2026-03-30T08:22:23.821Z"
 status: "active"
 ---
 

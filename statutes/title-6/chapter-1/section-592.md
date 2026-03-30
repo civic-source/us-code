@@ -3,9 +3,9 @@ title: "Section 592 - Responsibilities"
 usc_title: 6
 usc_section: "592"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "6 U.S.C. § 592"
-generated_at: "2026-03-30T08:17:05.028Z"
+generated_at: "2026-03-30T08:20:38.234Z"
 status: "active"
 ---
 

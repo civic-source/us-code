@@ -3,9 +3,9 @@ title: "Section 1454 - Transferred"
 usc_title: 50
 usc_section: "1454"
 chapter: 30
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "50 U.S.C. § 1454"
-generated_at: "2026-03-30T08:19:49.501Z"
+generated_at: "2026-03-30T08:24:02.329Z"
 status: "transferred"
 ---
 

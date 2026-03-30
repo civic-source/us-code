@@ -3,9 +3,9 @@ title: "Section 122 - Access to information"
 usc_title: 6
 usc_section: "122"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "6 U.S.C. § 122"
-generated_at: "2026-03-30T08:17:05.008Z"
+generated_at: "2026-03-30T08:20:38.213Z"
 status: "active"
 ---
 

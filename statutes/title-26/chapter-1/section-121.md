@@ -3,9 +3,9 @@ title: "Section 121 - Exclusion of gain from sale of principal residence"
 usc_title: 26
 usc_section: "121"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 121"
-generated_at: "2026-03-30T08:18:34.896Z"
+generated_at: "2026-03-30T08:23:10.540Z"
 status: "active"
 ---
 

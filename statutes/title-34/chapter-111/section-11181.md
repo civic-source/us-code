@@ -3,9 +3,9 @@ title: "Section 11181 - Repealed. Pub. L. 115–385, title IV, § 402(c)(1) , De
 usc_title: 34
 usc_section: "11181"
 chapter: 111
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "34 U.S.C. § 11181"
-generated_at: "2026-03-30T08:18:50.059Z"
+generated_at: "2026-03-30T08:23:31.835Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1518 - Obstruction of criminal investigations of health care off
 usc_title: 18
 usc_section: "1518"
 chapter: 73
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "18 U.S.C. § 1518"
-generated_at: "2026-03-30T08:17:54.920Z"
+generated_at: "2026-03-30T08:21:21.546Z"
 status: "active"
 ---
 

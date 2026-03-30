@@ -3,9 +3,9 @@ title: "Section 642 - Entitlement of officers discharged or retired under this c
 usc_title: 10
 usc_section: "642"
 chapter: 36
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 642"
-generated_at: "2026-03-30T08:17:25.804Z"
+generated_at: "2026-03-30T08:20:30.071Z"
 status: "active"
 ---
 

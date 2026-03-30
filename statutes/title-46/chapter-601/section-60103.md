@@ -3,9 +3,9 @@ title: "Section 60103 - Oath of ownership on entry"
 usc_title: 46
 usc_section: "60103"
 chapter: 601
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "46 U.S.C. § 60103"
-generated_at: "2026-03-30T08:19:48.514Z"
+generated_at: "2026-03-30T08:23:59.252Z"
 status: "active"
 ---
 

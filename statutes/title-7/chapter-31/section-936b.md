@@ -3,9 +3,9 @@ title: "Section 936b - Sale or prepayment of direct or insured loans"
 usc_title: 7
 usc_section: "936b"
 chapter: 31
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 936b"
-generated_at: "2026-03-30T08:17:09.810Z"
+generated_at: "2026-03-30T08:20:24.369Z"
 status: "active"
 ---
 

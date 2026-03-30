@@ -3,9 +3,9 @@ title: "Section 18024 - Related definitions"
 usc_title: 42
 usc_section: "18024"
 chapter: 157
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 18024"
-generated_at: "2026-03-30T08:19:32.590Z"
+generated_at: "2026-03-30T08:23:52.922Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1795i - Annual report"
 usc_title: 12
 usc_section: "1795i"
 chapter: 14
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "12 U.S.C. § 1795i"
-generated_at: "2026-03-30T08:17:41.462Z"
+generated_at: "2026-03-30T08:21:17.658Z"
 status: "active"
 ---
 

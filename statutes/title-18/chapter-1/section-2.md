@@ -3,9 +3,9 @@ title: "Section 2 - Principals"
 usc_title: 18
 usc_section: "2"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "18 U.S.C. § 2"
-generated_at: "2026-03-30T08:17:54.896Z"
+generated_at: "2026-03-30T08:21:21.522Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4108 - Verification of consent of offender to transfer to the Un
 usc_title: 18
 usc_section: "4108"
 chapter: 306
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "18 U.S.C. § 4108"
-generated_at: "2026-03-30T08:17:54.953Z"
+generated_at: "2026-03-30T08:21:21.579Z"
 status: "active"
 ---
 

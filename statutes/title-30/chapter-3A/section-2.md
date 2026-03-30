@@ -3,9 +3,9 @@ title: "Section 2 - Limitations for filing oil and gas contests"
 usc_title: 30
 usc_section: "2"
 chapter: 3
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "30 U.S.C. § 2"
-generated_at: "2026-03-30T08:18:20.308Z"
+generated_at: "2026-03-30T08:22:39.611Z"
 status: "active"
 ---
 

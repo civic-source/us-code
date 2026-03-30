@@ -3,9 +3,9 @@ title: "Section 44901 - Screening passengers and property"
 usc_title: 49
 usc_section: "44901"
 chapter: 449
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 44901"
-generated_at: "2026-03-30T08:19:57.550Z"
+generated_at: "2026-03-30T08:24:01.375Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
   - **(3)** The Administrator shall make available, beginning not later than July 1, 2008 , blast-resistant cargo containers to air carriers for use on a risk managed basis as determined by the Administrator.
 - **(k)**
   - **(1)** The Administrator of the Transportation Security Administration shall—
-    - **(A)** develop a standardized threat and vulnerability assessment program for general aviation airports (as defined in section 47134(m)); 1 and
+    - **(A)** develop a standardized threat and vulnerability assessment program for general aviation airports (as defined in section 47134(m)); 1 1 See References in Text note below. and
     - **(B)** implement a program to perform such assessments on a risk-managed basis at general aviation airports.
   - **(2)** The Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) 1 for projects to upgrade security at such airports. If the Administrator determines that such a program is feasible, the Administrator shall establish such a program.
   - **(3)** The Administrator shall develop a risk-based system under which—

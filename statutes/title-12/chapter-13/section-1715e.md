@@ -3,9 +3,9 @@ title: "Section 1715e - Cooperative housing insurance"
 usc_title: 12
 usc_section: "1715e"
 chapter: 13
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "12 U.S.C. § 1715e"
-generated_at: "2026-03-30T08:17:41.434Z"
+generated_at: "2026-03-30T08:21:17.632Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2218 - Fee for administering or taking oaths, affirmations, and 
 usc_title: 7
 usc_section: "2218"
 chapter: 55
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 2218"
-generated_at: "2026-03-30T08:17:09.876Z"
+generated_at: "2026-03-30T08:20:24.439Z"
 status: "active"
 ---
 

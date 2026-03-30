@@ -3,9 +3,9 @@ title: "Section 580 - Regular warrant officers twice failing of selection for pr
 usc_title: 10
 usc_section: "580"
 chapter: 33
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 580"
-generated_at: "2026-03-30T08:17:25.800Z"
+generated_at: "2026-03-30T08:20:30.068Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** If a warrant officer described in paragraph (1) has at least 18 but not more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title , or (B) the date on which his name was removed from the recommended list under section 579 of this title , whichever applies, the warrant officer shall be retired not later than the date determined under the next sentence unless he is selected for promotion to the next higher regular warrant officer grade before that date. The date of the retirement of a warrant officer under the preceding sentence shall be on a date specified by the Secretary concerned, but not later than the first day of the seventh calendar month beginning after the date upon which he completes 20 years of active service, except as provided by section 8301 of title 5 . A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title .
   - **(4)**
     - **(A)** If a warrant officer described in paragraph (1) has less than 18 years of creditable active service on (i) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title , or (ii) the date on which his name was removed from the recommended list under section 579 of this title , whichever applies, the warrant officer shall be separated (except as provided in subparagraph (C)). The date of such separation shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence.
-    - **(B)** A warrant officer separated under this paragraph shall receive separation pay computed under section 1174 of this title , or severance pay computed under section 286a 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, as appropriate, except in a case in which—
+    - **(B)** A warrant officer separated under this paragraph shall receive separation pay computed under section 1174 of this title , or severance pay computed under section 286a 1 1 See References in Text note below. of title 14, as appropriate, except in a case in which—
       - **(i)** upon his request and in the discretion of the Secretary concerned, he is enlisted in the grade prescribed by the Secretary; or
       - **(ii)** he is serving on active duty in a grade above chief warrant officer, W–5, and he elects, with the consent of the Secretary concerned, to remain on active duty in that status.
     - **(C)** If on the date on which a warrant officer is to be separated under subparagraph (A) the warrant officer has at least 18 years of creditable active service, the warrant officer shall be retained on active duty until retired under paragraph (3) in the same manner as if the warrant officer had had at least 18 years of service on the applicable date under subparagraph (A) or (B) of that paragraph.

@@ -3,9 +3,9 @@ title: "Section 4741 - Authorization of appropriations"
 usc_title: 16
 usc_section: "4741"
 chapter: 67
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 4741"
-generated_at: "2026-03-30T08:17:57.343Z"
+generated_at: "2026-03-30T08:21:26.614Z"
 status: "active"
 ---
 

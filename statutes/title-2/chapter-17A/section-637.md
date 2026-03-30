@@ -3,9 +3,9 @@ title: "Section 637 - Legislation dealing with Congressional budget must be hand
 usc_title: 2
 usc_section: "637"
 chapter: 17
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "2 U.S.C. § 637"
-generated_at: "2026-03-30T08:17:02.963Z"
+generated_at: "2026-03-30T08:20:16.760Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 957 - National Council on the Humanities"
 usc_title: 20
 usc_section: "957"
 chapter: 26
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "20 U.S.C. § 957"
-generated_at: "2026-03-30T08:18:07.700Z"
+generated_at: "2026-03-30T08:21:51.273Z"
 status: "active"
 ---
 

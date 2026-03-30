@@ -3,9 +3,9 @@ title: "Section 300 - Dispositions of property; damage payments; acceptance of g
 usc_title: 22
 usc_section: "300"
 chapter: 8
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "22 U.S.C. § 300"
-generated_at: "2026-03-30T08:18:17.737Z"
+generated_at: "2026-03-30T08:21:58.332Z"
 status: "active"
 ---
 

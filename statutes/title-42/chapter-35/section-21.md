@@ -3,9 +3,9 @@ title: "Section 21 - Nutrition"
 usc_title: 42
 usc_section: "21"
 chapter: 35
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T08:19:32.316Z"
+generated_at: "2026-03-30T08:23:52.647Z"
 status: "active"
 ---
 

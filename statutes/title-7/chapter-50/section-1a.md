@@ -3,9 +3,9 @@ title: "Section 1a - Interstate cooperation for economic opportunity and efficie
 usc_title: 7
 usc_section: "1a"
 chapter: 50
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-30T08:17:09.859Z"
+generated_at: "2026-03-30T08:20:24.421Z"
 status: "active"
 ---
 

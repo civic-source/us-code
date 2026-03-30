@@ -3,9 +3,9 @@ title: "Section 1838 - Construction with other laws"
 usc_title: 18
 usc_section: "1838"
 chapter: 90
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "18 U.S.C. § 1838"
-generated_at: "2026-03-30T08:17:54.924Z"
+generated_at: "2026-03-30T08:21:21.549Z"
 status: "active"
 ---
 

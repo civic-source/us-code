@@ -3,9 +3,9 @@ title: "Section 73 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 43
 usc_section: "73"
 chapter: 4
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "43 U.S.C. § 73"
-generated_at: "2026-03-30T08:19:06.763Z"
+generated_at: "2026-03-30T08:23:53.450Z"
 status: "repealed"
 ---
 

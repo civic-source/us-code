@@ -3,9 +3,9 @@ title: "Section 2222 - Defense business systems: business process reengineering;
 usc_title: 10
 usc_section: "2222"
 chapter: 131
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 2222"
-generated_at: "2026-03-30T08:17:25.856Z"
+generated_at: "2026-03-30T08:20:30.120Z"
 status: "active"
 ---
 
@@ -105,4 +105,4 @@ status: "active"
   - **(8)** The term “national security system” has the meaning given that term in section 3552(b)(6)(A) of title 44 .
   - **(9)** The term “business process mapping” means a procedure in which the steps in a business process are clarified and documented in both written form and in a flow chart.
   - **(10)** The term “common enterprise data” means business operations or management-related data, generally from defense business systems, in a usable format that is automatically accessible by authorized personnel and organizations.
-  - **(11)** The term “data governance process” means a system to manage the timely Department of Defense-wide sharing of data described under subsection (a)(6)(A). 2 2 So in original. Probably should be “subsection (e)(6)(A).”
+  - **(11)** The term “data governance process” means a system to manage the timely Department of Defense-wide sharing of data described under subsection (a)(6)(A). 1 1 So in original. Probably should be “subsection (e)(6)(A).”

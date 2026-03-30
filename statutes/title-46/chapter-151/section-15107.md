@@ -3,9 +3,9 @@ title: "Section 15107 - National Navigation Safety Advisory Committee"
 usc_title: 46
 usc_section: "15107"
 chapter: 151
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "46 U.S.C. § 15107"
-generated_at: "2026-03-30T08:19:48.497Z"
+generated_at: "2026-03-30T08:23:59.235Z"
 status: "active"
 ---
 

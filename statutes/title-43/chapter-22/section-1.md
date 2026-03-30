@@ -3,9 +3,9 @@ title: "Section 1 - Rights of way in Alaska; railroad rights of way; reservation
 usc_title: 43
 usc_section: "1"
 chapter: 22
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T08:19:06.786Z"
+generated_at: "2026-03-30T08:23:53.472Z"
 status: "active"
 ---
 

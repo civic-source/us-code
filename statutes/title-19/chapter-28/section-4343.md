@@ -3,9 +3,9 @@ title: "Section 4343 - Enforcement by U.S. Customs and Border Protection of work
 usc_title: 19
 usc_section: "4343"
 chapter: 28
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "19 U.S.C. § 4343"
-generated_at: "2026-03-30T08:18:10.370Z"
+generated_at: "2026-03-30T08:21:22.706Z"
 status: "active"
 ---
 

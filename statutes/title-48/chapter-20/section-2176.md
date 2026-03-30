@@ -3,9 +3,9 @@ title: "Section 2176 - Compensation of professionals"
 usc_title: 48
 usc_section: "2176"
 chapter: 20
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "48 U.S.C. § 2176"
-generated_at: "2026-03-30T08:19:35.803Z"
+generated_at: "2026-03-30T08:24:05.508Z"
 status: "active"
 ---
 

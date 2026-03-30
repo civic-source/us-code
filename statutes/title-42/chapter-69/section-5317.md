@@ -3,9 +3,9 @@ title: "Section 5317 - Liquidation of superseded or inactive programs"
 usc_title: 42
 usc_section: "5317"
 chapter: 69
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 5317"
-generated_at: "2026-03-30T08:19:32.362Z"
+generated_at: "2026-03-30T08:23:52.694Z"
 status: "active"
 ---
 

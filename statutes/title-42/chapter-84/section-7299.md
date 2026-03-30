@@ -3,9 +3,9 @@ title: "Section 7299 - Transition"
 usc_title: 42
 usc_section: "7299"
 chapter: 84
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 7299"
-generated_at: "2026-03-30T08:19:32.411Z"
+generated_at: "2026-03-30T08:23:52.742Z"
 status: "active"
 ---
 

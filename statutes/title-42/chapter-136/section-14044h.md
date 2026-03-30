@@ -3,9 +3,9 @@ title: "Section 14044h - Transferred"
 usc_title: 42
 usc_section: "14044h"
 chapter: 136
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 14044h"
-generated_at: "2026-03-30T08:19:32.551Z"
+generated_at: "2026-03-30T08:23:52.880Z"
 status: "transferred"
 ---
 

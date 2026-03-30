@@ -3,9 +3,9 @@ title: "Section 5315 - Positions at level IV"
 usc_title: 5
 usc_section: "5315"
 chapter: 53
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "5 U.S.C. § 5315"
-generated_at: "2026-03-30T08:16:59.596Z"
+generated_at: "2026-03-30T08:20:18.473Z"
 status: "active"
 ---
 

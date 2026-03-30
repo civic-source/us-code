@@ -3,9 +3,9 @@ title: "Section 15 - Repealed. Pub. L. 99–410, title II, § 203 , Aug. 28, 198
 usc_title: 42
 usc_section: "15"
 chapter: 20
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T08:19:32.279Z"
+generated_at: "2026-03-30T08:23:52.613Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2329 - Procurement of services: data analysis and requirements v
 usc_title: 10
 usc_section: "2329"
 chapter: 137
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 2329"
-generated_at: "2026-03-30T08:17:25.864Z"
+generated_at: "2026-03-30T08:20:30.127Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
   - **(2)** services contracts in support of a national security emergency declared with respect to a named operation; or
   - **(3)** services contracts entered into pursuant to an international agreement.
 - **(g)** In this section:
-  - **(1)** The term “bridge contact” means—
+  - **(1)** The term “bridge contact” 1 1 So in original. Probably should be “ ‘bridge contract’ ”. means—
     - **(A)** an extension to an existing contract beyond the period of performance to avoid a lapse in service caused by a delay in awarding a subsequent contract; or
     - **(B)** a new short-term contract awarded on a sole-source basis to avoid a lapse in service caused by a delay in awarding a subsequent contract.
   - **(2)** The term “requirements owner” means a member of the armed forces (other than the Coast Guard) or a civilian employee of the Department of Defense responsible for a requirement for a service to be performed through a services contract.

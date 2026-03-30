@@ -3,9 +3,9 @@ title: "Section 20110 - Effect on employee qualifications and collective bargain
 usc_title: 49
 usc_section: "20110"
 chapter: 201
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 20110"
-generated_at: "2026-03-30T08:19:57.513Z"
+generated_at: "2026-03-30T08:24:01.334Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 591h - Relationship to other Department components and Federal a
 usc_title: 6
 usc_section: "591h"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "6 U.S.C. § 591h"
-generated_at: "2026-03-30T08:17:05.028Z"
+generated_at: "2026-03-30T08:20:38.234Z"
 status: "active"
 ---
 

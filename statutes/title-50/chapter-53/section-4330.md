@@ -3,9 +3,9 @@ title: "Section 4330 - Notice of claim; institution of suits; computation of tim
 usc_title: 50
 usc_section: "4330"
 chapter: 53
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "50 U.S.C. § 4330"
-generated_at: "2026-03-30T08:19:49.555Z"
+generated_at: "2026-03-30T08:24:02.385Z"
 status: "active"
 ---
 

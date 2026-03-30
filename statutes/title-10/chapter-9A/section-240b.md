@@ -3,9 +3,9 @@ title: "Section 240b - Financial Improvement and Audit Remediation Plan"
 usc_title: 10
 usc_section: "240b"
 chapter: 9
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 240b"
-generated_at: "2026-03-30T08:17:25.790Z"
+generated_at: "2026-03-30T08:20:30.059Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(1)**
     - **(A)** Not later than June 30, 2019 , and annually thereafter, the Under Secretary of Defense (Comptroller) shall submit to the congressional defense committees a report on the status of the implementation by the Department of Defense of the Financial Improvement and Audit Remediation Plan under subsection (a).
     - **(B)** Each report under subparagraph (A) shall include the following:
-      - **(i)** An analysis of the consolidated corrective action plan management summary prepared pursuant to section 253a 2 2 So in original. Probably should be “section 253”. of this title.
+      - **(i)** An analysis of the consolidated corrective action plan management summary prepared pursuant to section 253a 1 1 So in original. Probably should be “section 240c”. of this title.
       - **(ii)** Current Department of Defense-wide information on the status of corrective actions plans related to critical capabilities and material weaknesses, including the standard data elements recommended in the implementation guide for Office of Management and Budget Circular A–123, for the armed forces, military departments, and Defense Agencies.
       - **(iii)** A current description of the work undertaken and planned to be undertaken by the Department of Defense, and the military departments, Defense Agencies, and other organizations and elements of the Department, to test and verify transaction data pertinent to obtaining an unqualified audit of their financial statements, including from feeder systems.
       - **(iv)** A current projected timeline of the Department in connection with the audit of the full financial statements of the Department, to be submitted to Congress annually not later than six months after the submittal to Congress of the budget of the President for a fiscal year under section 1105 of title 31 , including the following:

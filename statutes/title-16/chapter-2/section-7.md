@@ -3,9 +3,9 @@ title: "Section 7 - Subdivisions and other property interests"
 usc_title: 16
 usc_section: "7"
 chapter: 2
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T08:17:57.223Z"
+generated_at: "2026-03-30T08:21:26.495Z"
 status: "active"
 ---
 

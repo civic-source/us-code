@@ -3,9 +3,9 @@ title: "Section 14 - Repealed. Pub. L. 113–79, title I, § 1423(a) , Feb. 7, 2
 usc_title: 15
 usc_section: "14"
 chapter: 15
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "15 U.S.C. § 14"
-generated_at: "2026-03-30T08:17:50.053Z"
+generated_at: "2026-03-30T08:21:10.539Z"
 status: "repealed"
 ---
 

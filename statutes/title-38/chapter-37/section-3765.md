@@ -3,9 +3,9 @@ title: "Section 3765 - Definitions"
 usc_title: 38
 usc_section: "3765"
 chapter: 37
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "38 U.S.C. § 3765"
-generated_at: "2026-03-30T08:19:01.436Z"
+generated_at: "2026-03-30T08:23:36.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7275 - Definitions"
 usc_title: 42
 usc_section: "7275"
 chapter: 84
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 7275"
-generated_at: "2026-03-30T08:19:32.410Z"
+generated_at: "2026-03-30T08:23:52.741Z"
 status: "active"
 ---
 

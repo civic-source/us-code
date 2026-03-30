@@ -3,9 +3,9 @@ title: "Section 1406 - Retired pay base for members who first became members bef
 usc_title: 10
 usc_section: "1406"
 chapter: 71
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 1406"
-generated_at: "2026-03-30T08:17:25.835Z"
+generated_at: "2026-03-30T08:20:30.100Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
 - **(e)**
   - **(1)** In the case of a member whose retired pay is computed under section 9361 of this title or who is entitled to retired pay computed under section 9362 of this title , the retired pay base is determined in accordance with the following table. For a member entitled to retired pay under section: The retired pay base is: 1 For the purposes of this subsection, determine member’s retired grade as if section 9342 did not apply. 9311 9318 9320 9324 Monthly basic pay of member’s retired grade. 1 9314 9317 Monthly basic pay to which member was entitled on day before he retired. 9362 Monthly basic pay of grade to which member is advanced on retired list.
   - **(2)** The rate of basic pay to be used under paragraph (1) is the rate applicable on the date of the member’s retirement.
-- **(f)** In the case of a member who is retired under any section of title 14, the member’s retired pay is computed under section 423(a) 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14 in the manner provided in that section.
+- **(f)** In the case of a member who is retired under any section of title 14, the member’s retired pay is computed under section 423(a) 1 1 See References in Text note below. of title 14 in the manner provided in that section.
 - **(g)** In the case of an officer whose retired pay is computed under section 245 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 ( 33 U.S.C. 3045 ), the retired pay base is the basic pay of the rank with which the officer retired.
 - **(h)** In the case of an officer who is retired under section 210(g) or 211(a) of the Public Health Service Act ( 42 U.S.C. 211(g) , 212(a)), the retired pay base is determined as follows:
   - **(1)** If the officer is retired under section 210(g) of such Act, the retired pay base is the basic pay of the permanent grade held by the officer at the time of retirement.

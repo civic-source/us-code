@@ -3,9 +3,9 @@ title: "Section 151f - Omitted"
 usc_title: 50
 usc_section: "151f"
 chapter: 9
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "50 U.S.C. § 151f"
-generated_at: "2026-03-30T08:19:49.496Z"
+generated_at: "2026-03-30T08:24:02.325Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1146 - Approval or disapproval of loan guarantee applications"
 usc_title: 30
 usc_section: "1146"
 chapter: 24
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "30 U.S.C. § 1146"
-generated_at: "2026-03-30T08:18:20.322Z"
+generated_at: "2026-03-30T08:22:39.628Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Vending machine income"
 usc_title: 20
 usc_section: "3"
 chapter: 6
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T08:18:07.696Z"
+generated_at: "2026-03-30T08:21:51.268Z"
 status: "active"
 ---
 

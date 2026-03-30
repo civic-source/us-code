@@ -3,9 +3,9 @@ title: "Section 8870 - Costs and expenses a charge on prize property"
 usc_title: 10
 usc_section: "8870"
 chapter: 883
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 8870"
-generated_at: "2026-03-30T08:17:25.908Z"
+generated_at: "2026-03-30T08:20:30.171Z"
 status: "active"
 ---
 

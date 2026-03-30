@@ -3,9 +3,9 @@ title: "Section 1623 - Authorization of appropriations; allotments to States"
 usc_title: 7
 usc_section: "1623"
 chapter: 38
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 1623"
-generated_at: "2026-03-30T08:17:09.835Z"
+generated_at: "2026-03-30T08:20:24.395Z"
 status: "active"
 ---
 

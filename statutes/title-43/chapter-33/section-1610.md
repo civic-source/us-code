@@ -3,9 +3,9 @@ title: "Section 1610 - Withdrawal of public lands"
 usc_title: 43
 usc_section: "1610"
 chapter: 33
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "43 U.S.C. § 1610"
-generated_at: "2026-03-30T08:19:06.799Z"
+generated_at: "2026-03-30T08:23:53.485Z"
 status: "active"
 ---
 

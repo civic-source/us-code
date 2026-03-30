@@ -3,9 +3,9 @@ title: "Section 45C - Clinical testing expenses for certain drugs for rare disea
 usc_title: 26
 usc_section: "45C"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 45C"
-generated_at: "2026-03-30T08:18:34.882Z"
+generated_at: "2026-03-30T08:23:10.525Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5108 - Backup authority to establish a nationwide mortgage licen
 usc_title: 12
 usc_section: "5108"
 chapter: 51
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "12 U.S.C. § 5108"
-generated_at: "2026-03-30T08:17:41.535Z"
+generated_at: "2026-03-30T08:21:17.727Z"
 status: "active"
 ---
 

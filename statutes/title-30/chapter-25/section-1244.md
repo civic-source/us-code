@@ -3,9 +3,9 @@ title: "Section 1244 - Remining incentives"
 usc_title: 30
 usc_section: "1244"
 chapter: 25
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "30 U.S.C. § 1244"
-generated_at: "2026-03-30T08:18:20.325Z"
+generated_at: "2026-03-30T08:22:39.631Z"
 status: "active"
 ---
 

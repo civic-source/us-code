@@ -3,9 +3,9 @@ title: "Section 983 - Functions of Corporation"
 usc_title: 33
 usc_section: "983"
 chapter: 19
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "33 U.S.C. § 983"
-generated_at: "2026-03-30T08:18:38.330Z"
+generated_at: "2026-03-30T08:23:25.204Z"
 status: "active"
 ---
 

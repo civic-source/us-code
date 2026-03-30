@@ -3,9 +3,9 @@ title: "Section 408a - Expediting approval of modifications and alterations of p
 usc_title: 33
 usc_section: "408a"
 chapter: 9
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "33 U.S.C. § 408a"
-generated_at: "2026-03-30T08:18:38.309Z"
+generated_at: "2026-03-30T08:23:25.182Z"
 status: "active"
 ---
 

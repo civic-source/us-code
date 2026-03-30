@@ -3,9 +3,9 @@ title: "Section 3652 - Panama Canal Employment System; merit and other employmen
 usc_title: 22
 usc_section: "3652"
 chapter: 51
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "22 U.S.C. § 3652"
-generated_at: "2026-03-30T08:18:17.794Z"
+generated_at: "2026-03-30T08:21:58.391Z"
 status: "active"
 ---
 

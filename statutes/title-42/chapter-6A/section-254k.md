@@ -3,9 +3,9 @@ title: "Section 254k - Authorization of appropriations"
 usc_title: 42
 usc_section: "254k"
 chapter: 6
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 254k"
-generated_at: "2026-03-30T08:19:31.942Z"
+generated_at: "2026-03-30T08:23:52.296Z"
 status: "active"
 ---
 

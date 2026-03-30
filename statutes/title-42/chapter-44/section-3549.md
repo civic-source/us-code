@@ -3,9 +3,9 @@ title: "Section 3549 - Investigation of violations"
 usc_title: 42
 usc_section: "3549"
 chapter: 44
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 3549"
-generated_at: "2026-03-30T08:19:32.327Z"
+generated_at: "2026-03-30T08:23:52.659Z"
 status: "active"
 ---
 

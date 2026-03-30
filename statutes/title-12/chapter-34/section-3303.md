@@ -3,9 +3,9 @@ title: "Section 3303 - Financial Institutions Examination Council"
 usc_title: 12
 usc_section: "3303"
 chapter: 34
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "12 U.S.C. § 3303"
-generated_at: "2026-03-30T08:17:41.508Z"
+generated_at: "2026-03-30T08:21:17.701Z"
 status: "active"
 ---
 

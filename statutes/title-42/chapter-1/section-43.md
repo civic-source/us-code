@@ -3,9 +3,9 @@ title: "Section 43 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 S
 usc_title: 42
 usc_section: "43"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 43"
-generated_at: "2026-03-30T08:19:31.917Z"
+generated_at: "2026-03-30T08:23:52.273Z"
 status: "repealed"
 ---
 

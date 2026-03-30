@@ -3,9 +3,9 @@ title: "Section 5103a - Limitation on issuance of hazmat licenses"
 usc_title: 49
 usc_section: "5103a"
 chapter: 51
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 5103a"
-generated_at: "2026-03-30T08:19:57.492Z"
+generated_at: "2026-03-30T08:24:01.310Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(1)**
     - **(A)** Not later than 90 days after the date of enactment of this subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant’s background record check, if—
       - **(i)** such notification is appropriate considering the potential security implications; and
-      - **(ii)** the Director, in a final notification of threat assessment, 1 1 So in original. Comma probably should appear after “applicant”. served on the applicant 1 determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
+      - **(ii)** the Director, in a final notification of threat assessment, 2 2 So in original. Comma probably should appear after “applicant”. served on the applicant 2 determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
     - **(B)**
       - **(i)** An individual with respect to whom the Transportation Security Administration—
         - **(I)** has performed a security threat assessment under this section; and

@@ -3,9 +3,9 @@ title: "Section 1304 - Contract clauses and certifications"
 usc_title: 41
 usc_section: "1304"
 chapter: 13
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "41 U.S.C. § 1304"
-generated_at: "2026-03-30T08:19:09.800Z"
+generated_at: "2026-03-30T08:23:38.084Z"
 status: "active"
 ---
 

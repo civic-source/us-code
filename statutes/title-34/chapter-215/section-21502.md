@@ -3,9 +3,9 @@ title: "Section 21502 - Definitions"
 usc_title: 34
 usc_section: "21502"
 chapter: 215
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "34 U.S.C. § 21502"
-generated_at: "2026-03-30T08:18:50.082Z"
+generated_at: "2026-03-30T08:23:31.856Z"
 status: "active"
 ---
 

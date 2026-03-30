@@ -3,9 +3,9 @@ title: "Section 251j - Property retention rights of landowners; use and occupanc
 usc_title: 16
 usc_section: "251j"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 251j"
-generated_at: "2026-03-30T08:17:57.144Z"
+generated_at: "2026-03-30T08:21:26.417Z"
 status: "active"
 ---
 

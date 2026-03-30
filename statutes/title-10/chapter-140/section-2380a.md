@@ -3,9 +3,9 @@ title: "Section 2380a - Treatment of certain items as commercial items"
 usc_title: 10
 usc_section: "2380a"
 chapter: 140
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 2380a"
-generated_at: "2026-03-30T08:17:25.869Z"
+generated_at: "2026-03-30T08:20:30.133Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 92 - Transferred"
 usc_title: 21
 usc_section: "92"
 chapter: 4
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "21 U.S.C. § 92"
-generated_at: "2026-03-30T08:18:15.567Z"
+generated_at: "2026-03-30T08:22:17.301Z"
 status: "transferred"
 ---
 

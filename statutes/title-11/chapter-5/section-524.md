@@ -3,9 +3,9 @@ title: "Section 524 - Effect of discharge"
 usc_title: 11
 usc_section: "524"
 chapter: 5
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "11 U.S.C. § 524"
-generated_at: "2026-03-30T08:17:33.078Z"
+generated_at: "2026-03-30T08:20:47.022Z"
 status: "active"
 ---
 

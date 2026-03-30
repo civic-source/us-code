@@ -3,9 +3,9 @@ title: "Section 10541 - National Guard and reserve component equipment: annual r
 usc_title: 10
 usc_section: "10541"
 chapter: 1013
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 10541"
-generated_at: "2026-03-30T08:17:25.917Z"
+generated_at: "2026-03-30T08:20:30.181Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(6)** A narrative explanation of the plan of the Secretary concerned to provide equipment needed to fill the war-time requirement for each major item of equipment to all units of the Selected Reserve, including an explanation of the plan to equip units of the Selected Reserve that are short of major items of equipment at the outset of war.
   - **(7)** For each item of major equipment reported under paragraph (3) in a report for one of the three previous years under this section as an item expected to be procured for the Selected Reserve or to be transferred to the Selected Reserve, the quantity of such equipment actually procured for or transferred to the Selected Reserve.
   - **(8)** A statement of the current status of the compatibility of equipment between the Army reserve components and active forces of the Army, the effect of that level of incompatibility on combat effectiveness, and a plan to achieve full equipment compatibility.
-  - **(9)** An assessment of the extent to which the National Guard possesses the equipment required to perform the responsibilities of the National Guard pursuant to sections 251, 252, 253, 1 1 See References in Text note below. 12304(b), and 12406 of this title in response to an emergency or major disaster (as such terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5122 )). Such assessment shall—
+  - **(9)** An assessment of the extent to which the National Guard possesses the equipment required to perform the responsibilities of the National Guard pursuant to sections 251, 252, 253, 12304(b), and 12406 of this title in response to an emergency or major disaster (as such terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5122 )). Such assessment shall—
     - **(A)** identify any shortfall in equipment provided to the National Guard by the Department of Defense throughout the United States and the territories and possessions of the United States that is likely to affect the ability of the National Guard to perform such responsibilities;
     - **(B)** evaluate the effect of any such shortfall on the capacity of the National Guard to perform such responsibilities in response to an emergency or major disaster that occurs in the United States or a territory or possession of the United States; and
     - **(C)** identify the requirements and investment strategies for equipment provided to the National Guard by the Department of Defense that are necessary to plan for a reduction or elimination of any such shortfall.

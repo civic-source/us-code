@@ -3,9 +3,9 @@ title: "Section 1257 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(38
 usc_title: 48
 usc_section: "1257"
 chapter: 5
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "48 U.S.C. § 1257"
-generated_at: "2026-03-30T08:19:35.785Z"
+generated_at: "2026-03-30T08:24:05.490Z"
 status: "repealed"
 ---
 

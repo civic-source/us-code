@@ -3,9 +3,9 @@ title: "Section 1011 - Termination of leases"
 usc_title: 30
 usc_section: "1011"
 chapter: 23
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "30 U.S.C. § 1011"
-generated_at: "2026-03-30T08:18:20.321Z"
+generated_at: "2026-03-30T08:22:39.626Z"
 status: "active"
 ---
 

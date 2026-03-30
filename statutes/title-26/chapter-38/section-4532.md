@@ -3,9 +3,9 @@ title: "Section 4532 - Repealed. Pub. L. 87–456, title III, § 302(d) , May 24
 usc_title: 26
 usc_section: "4532"
 chapter: 38
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 4532"
-generated_at: "2026-03-30T08:18:35.039Z"
+generated_at: "2026-03-30T08:23:10.683Z"
 status: "repealed"
 ---
 

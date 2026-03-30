@@ -3,9 +3,9 @@ title: "Section 2001 - Findings"
 usc_title: 43
 usc_section: "2001"
 chapter: 38
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "43 U.S.C. § 2001"
-generated_at: "2026-03-30T08:19:06.812Z"
+generated_at: "2026-03-30T08:23:53.499Z"
 status: "active"
 ---
 

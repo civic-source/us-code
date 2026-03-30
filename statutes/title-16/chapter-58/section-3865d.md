@@ -3,9 +3,9 @@ title: "Section 3865d - Administration"
 usc_title: 16
 usc_section: "3865d"
 chapter: 58
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 3865d"
-generated_at: "2026-03-30T08:17:57.335Z"
+generated_at: "2026-03-30T08:21:26.607Z"
 status: "active"
 ---
 

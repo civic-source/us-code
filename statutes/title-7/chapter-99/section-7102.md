@@ -3,9 +3,9 @@ title: "Section 7102 - Definitions"
 usc_title: 7
 usc_section: "7102"
 chapter: 99
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 7102"
-generated_at: "2026-03-30T08:17:09.924Z"
+generated_at: "2026-03-30T08:20:24.487Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 301 - Department of the Treasury"
 usc_title: 31
 usc_section: "301"
 chapter: 3
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "31 U.S.C. § 301"
-generated_at: "2026-03-30T08:18:55.354Z"
+generated_at: "2026-03-30T08:23:13.257Z"
 status: "active"
 ---
 

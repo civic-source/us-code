@@ -3,9 +3,9 @@ title: "Section 6a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "6a"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 6a"
-generated_at: "2026-03-30T08:17:57.187Z"
+generated_at: "2026-03-30T08:21:26.460Z"
 status: "repealed"
 ---
 

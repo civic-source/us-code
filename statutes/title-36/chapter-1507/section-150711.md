@@ -3,9 +3,9 @@ title: "Section 150711 - Service of process"
 usc_title: 36
 usc_section: "150711"
 chapter: 1507
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "36 U.S.C. § 150711"
-generated_at: "2026-03-30T08:19:04.072Z"
+generated_at: "2026-03-30T08:23:34.233Z"
 status: "active"
 ---
 

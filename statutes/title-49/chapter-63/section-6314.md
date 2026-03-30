@@ -3,9 +3,9 @@ title: "Section 6314 - Port performance freight statistics program"
 usc_title: 49
 usc_section: "6314"
 chapter: 63
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 6314"
-generated_at: "2026-03-30T08:19:57.503Z"
+generated_at: "2026-03-30T08:24:01.323Z"
 status: "active"
 ---
 
@@ -50,4 +50,4 @@ status: "active"
   - **(1)** the statistics compiled under this section—
     - **(A)** are readily accessible to the public; and
     - **(B)** are consistent with applicable security constraints and confidentiality interests; and
-  - **(2)** the data acquired, regardless of source, shall be protected in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ( 44 U.S.C. 3501 note; Public Law 107–347 ).
+  - **(2)** the data acquired, regardless of source, shall be protected in accordance with section 3572 of title 44 .

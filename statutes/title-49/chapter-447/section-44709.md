@@ -3,9 +3,9 @@ title: "Section 44709 - Amendments, modifications, suspensions, and revocations 
 usc_title: 49
 usc_section: "44709"
 chapter: 447
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 44709"
-generated_at: "2026-03-30T08:19:57.548Z"
+generated_at: "2026-03-30T08:24:01.372Z"
 status: "active"
 ---
 

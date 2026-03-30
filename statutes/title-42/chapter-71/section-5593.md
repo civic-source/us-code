@@ -3,9 +3,9 @@ title: "Section 5593 - Construction with National Energy Conservation Policy Act
 usc_title: 42
 usc_section: "5593"
 chapter: 71
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 5593"
-generated_at: "2026-03-30T08:19:32.367Z"
+generated_at: "2026-03-30T08:23:52.699Z"
 status: "active"
 ---
 

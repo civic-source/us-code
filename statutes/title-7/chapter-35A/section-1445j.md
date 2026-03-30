@@ -3,9 +3,9 @@ title: "Section 1445j - Deficiency and land diversion payments"
 usc_title: 7
 usc_section: "1445j"
 chapter: 35
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 1445j"
-generated_at: "2026-03-30T08:17:09.825Z"
+generated_at: "2026-03-30T08:20:24.384Z"
 status: "active"
 ---
 

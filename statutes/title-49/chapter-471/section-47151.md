@@ -3,9 +3,9 @@ title: "Section 47151 - Authority to transfer an interest in surplus property"
 usc_title: 49
 usc_section: "47151"
 chapter: 471
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 47151"
-generated_at: "2026-03-30T08:19:57.561Z"
+generated_at: "2026-03-30T08:24:01.388Z"
 status: "active"
 ---
 

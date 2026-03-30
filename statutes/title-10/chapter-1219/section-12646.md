@@ -3,9 +3,9 @@ title: "Section 12646 - Commissioned officers: retention of after completing 18 
 usc_title: 10
 usc_section: "12646"
 chapter: 1219
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 12646"
-generated_at: "2026-03-30T08:17:25.921Z"
+generated_at: "2026-03-30T08:20:30.184Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(1)** officers who are discharged or transferred from an active status for physical disability, for cause, or because they have reached the age at which transfer from an active status or discharge is required by law; or
   - **(2)** commissioned warrant officers.
 - **(e)**
-  - **(1)** A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on the date on which the officer would otherwise be removed from an active status under section 8373, 14513, or 14514 of this title or section 740 2 2 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, is within two years of qualifying for retirement under section 7311, 8323, or 9311 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
+  - **(1)** A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on the date on which the officer would otherwise be removed from an active status under section 8373, 14513, or 14514 of this title or section 740 1 of title 14, is within two years of qualifying for retirement under section 7311, 8323, or 9311 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
   - **(2)** An officer may be retained on active duty or full-time National Guard duty under paragraph (1) only if—
     - **(A)** at the end of the period for which the officer is retained the officer will be qualified for retirement under section 7311, 8323, or 9311 of this title; and
     - **(B)** the officer will not, before the end of that period, reach the age at which transfer from an active status or discharge is required by this title or title 14.

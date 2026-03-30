@@ -3,9 +3,9 @@ title: "Section 6302 - Bureau of Transportation Statistics"
 usc_title: 49
 usc_section: "6302"
 chapter: 63
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 6302"
-generated_at: "2026-03-30T08:19:57.503Z"
+generated_at: "2026-03-30T08:24:01.322Z"
 status: "active"
 ---
 
@@ -67,4 +67,4 @@ status: "active"
     - **(A)** all hiring, grants, cooperative agreements, and contracts awarded by the Bureau to carry out this section; and
     - **(B)** the disposition and allocation of amounts paid to the Bureau for cost-reimbursable projects.
   - **(3)** The Secretary shall direct external support functions, such as the coordination of activities involving multiple modal administrations.
-  - **(4)** The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ( 44 U.S.C. 3501 note; Public Law 107–347 ).
+  - **(4)** The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with section 3572 of title 44 .

@@ -3,9 +3,9 @@ title: "Section 5314 - Implementation of comprehensive plan"
 usc_title: 7
 usc_section: "5314"
 chapter: 84
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 5314"
-generated_at: "2026-03-30T08:17:09.902Z"
+generated_at: "2026-03-30T08:20:24.465Z"
 status: "active"
 ---
 

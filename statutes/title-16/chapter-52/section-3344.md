@@ -3,9 +3,9 @@ title: "Section 3344 - Construction with other laws"
 usc_title: 16
 usc_section: "3344"
 chapter: 52
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 3344"
-generated_at: "2026-03-30T08:17:57.323Z"
+generated_at: "2026-03-30T08:21:26.594Z"
 status: "active"
 ---
 

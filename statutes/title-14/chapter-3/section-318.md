@@ -3,9 +3,9 @@ title: "Section 318 - Environmental Compliance and Restoration Program"
 usc_title: 14
 usc_section: "318"
 chapter: 3
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "14 U.S.C. § 318"
-generated_at: "2026-03-30T08:17:37.912Z"
+generated_at: "2026-03-30T08:20:40.386Z"
 status: "active"
 ---
 

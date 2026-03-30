@@ -3,9 +3,9 @@ title: "Section 12561 - Higher education innovative programs for community servi
 usc_title: 42
 usc_section: "12561"
 chapter: 129
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 12561"
-generated_at: "2026-03-30T08:19:32.521Z"
+generated_at: "2026-03-30T08:23:52.849Z"
 status: "active"
 ---
 

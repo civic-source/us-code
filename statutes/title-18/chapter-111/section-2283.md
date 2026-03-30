@@ -3,9 +3,9 @@ title: "Section 2283 - Transportation of explosive, biological, chemical, or rad
 usc_title: 18
 usc_section: "2283"
 chapter: 111
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "18 U.S.C. § 2283"
-generated_at: "2026-03-30T08:17:54.931Z"
+generated_at: "2026-03-30T08:21:21.557Z"
 status: "active"
 ---
 

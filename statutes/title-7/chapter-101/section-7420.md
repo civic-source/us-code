@@ -3,9 +3,9 @@ title: "Section 7420 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7420"
 chapter: 101
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 7420"
-generated_at: "2026-03-30T08:17:09.931Z"
+generated_at: "2026-03-30T08:20:24.493Z"
 status: "active"
 ---
 

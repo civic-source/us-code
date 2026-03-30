@@ -3,9 +3,9 @@ title: "Section 521 - Exemption of farmers’ cooperatives from tax"
 usc_title: 26
 usc_section: "521"
 chapter: 1
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 521"
-generated_at: "2026-03-30T08:18:34.964Z"
+generated_at: "2026-03-30T08:23:10.608Z"
 status: "active"
 ---
 

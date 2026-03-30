@@ -3,9 +3,9 @@ title: "Section 9091 - Administration generally"
 usc_title: 7
 usc_section: "9091"
 chapter: 115
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "7 U.S.C. § 9091"
-generated_at: "2026-03-30T08:17:09.961Z"
+generated_at: "2026-03-30T08:20:24.522Z"
 status: "active"
 ---
 

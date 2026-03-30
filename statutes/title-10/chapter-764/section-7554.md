@@ -3,9 +3,9 @@ title: "Section 7554 - Property management contracts and leases"
 usc_title: 10
 usc_section: "7554"
 chapter: 764
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 7554"
-generated_at: "2026-03-30T08:17:25.896Z"
+generated_at: "2026-03-30T08:20:30.160Z"
 status: "active"
 ---
 

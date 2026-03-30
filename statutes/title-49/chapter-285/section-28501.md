@@ -3,9 +3,9 @@ title: "Section 28501 - Definitions"
 usc_title: 49
 usc_section: "28501"
 chapter: 285
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 28501"
-generated_at: "2026-03-30T08:19:57.522Z"
+generated_at: "2026-03-30T08:24:01.343Z"
 status: "active"
 ---
 

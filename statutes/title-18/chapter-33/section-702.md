@@ -3,9 +3,9 @@ title: "Section 702 - Uniform of armed forces and Public Health Service"
 usc_title: 18
 usc_section: "702"
 chapter: 33
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "18 U.S.C. § 702"
-generated_at: "2026-03-30T08:17:54.906Z"
+generated_at: "2026-03-30T08:21:21.532Z"
 status: "active"
 ---
 

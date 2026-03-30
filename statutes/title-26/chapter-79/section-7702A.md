@@ -3,9 +3,9 @@ title: "Section 7702A - Modified endowment contract defined"
 usc_title: 26
 usc_section: "7702A"
 chapter: 79
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 7702A"
-generated_at: "2026-03-30T08:18:35.106Z"
+generated_at: "2026-03-30T08:23:10.748Z"
 status: "active"
 ---
 

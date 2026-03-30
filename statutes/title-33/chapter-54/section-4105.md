@@ -3,9 +3,9 @@ title: "Section 4105 - Reports on unmanned maritime systems and usage for missio
 usc_title: 33
 usc_section: "4105"
 chapter: 54
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "33 U.S.C. § 4105"
-generated_at: "2026-03-30T08:18:38.382Z"
+generated_at: "2026-03-30T08:23:25.258Z"
 status: "active"
 ---
 

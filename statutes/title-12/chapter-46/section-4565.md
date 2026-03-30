@@ -3,9 +3,9 @@ title: "Section 4565 - Duty to serve underserved markets and other requirements"
 usc_title: 12
 usc_section: "4565"
 chapter: 46
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "12 U.S.C. § 4565"
-generated_at: "2026-03-30T08:17:41.523Z"
+generated_at: "2026-03-30T08:21:17.715Z"
 status: "active"
 ---
 

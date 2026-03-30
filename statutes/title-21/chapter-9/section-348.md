@@ -3,9 +3,9 @@ title: "Section 348 - Food additives"
 usc_title: 21
 usc_section: "348"
 chapter: 9
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "21 U.S.C. § 348"
-generated_at: "2026-03-30T08:18:15.574Z"
+generated_at: "2026-03-30T08:22:17.311Z"
 status: "active"
 ---
 

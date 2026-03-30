@@ -3,9 +3,9 @@ title: "Section 70131 - Definitions"
 usc_title: 46
 usc_section: "70131"
 chapter: 701
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "46 U.S.C. § 70131"
-generated_at: "2026-03-30T08:19:48.517Z"
+generated_at: "2026-03-30T08:23:59.256Z"
 status: "active"
 ---
 

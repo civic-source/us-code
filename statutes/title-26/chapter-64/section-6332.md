@@ -3,9 +3,9 @@ title: "Section 6332 - Surrender of property subject to levy"
 usc_title: 26
 usc_section: "6332"
 chapter: 64
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 6332"
-generated_at: "2026-03-30T08:18:35.080Z"
+generated_at: "2026-03-30T08:23:10.722Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2284 - Explosive Ordnance Disposal Defense Program"
 usc_title: 10
 usc_section: "2284"
 chapter: 136
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 2284"
-generated_at: "2026-03-30T08:17:25.859Z"
+generated_at: "2026-03-30T08:20:30.123Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** The Secretary of Defense shall carry out a program to be known as the “Explosive Ordnance Disposal Defense Program” (in this section referred to as the “Program”) under which the Secretary shall ensure close and continuous coordination between military departments on matters relating to explosive ordnance disposal support for commanders of geographic and functional combatant commands.
 - **(b)** The plan under subsection (a) shall include provisions under which—
   - **(1)** the Secretary of Defense shall—
-    - **(A)** assign the responsibility for the direction, coordination, integration of the Program within the Department of Defense to an Assistant Secretary of Defense;
-    - **(B)** the Assistant Secretary of Defense to whom responsibility is assigned under paragraph (1) shall serve as the key individual for the Program responsible for developing and overseeing policy, plans, programs, and budgets, and issuing guidance and providing direction on Department of Defense explosive ordnance disposal activities;
+    - **(A)** assign the responsibility for the direction, coordination, 1 1 So in original. The word “and” probably should appear. integration of the Program within the Department of Defense to an Assistant Secretary of Defense;
+    - **(B)** the Assistant Secretary of Defense to whom responsibility is assigned under paragraph (1) 2 2 So in original. shall serve as the key individual for the Program responsible for developing and overseeing policy, plans, programs, and budgets, and issuing guidance and providing direction on Department of Defense explosive ordnance disposal activities;
     - **(C)** designate the Secretary of the Navy, or a designee of the Secretary’s choice, as the executive agent for the Department of Defense responsible for providing oversight of the joint program executive officer who coordinates and integrates joint requirements for explosive ordnance disposal and carries out joint research, development, test, and evaluation and procurement activities on behalf of the military departments and combatant commands with respect to explosive ordnance disposal;
     - **(D)** designate a combat support agency to exercise fund management responsibility of the Department of Defense-wide program element for explosive ordnance disposal research, development, test, and evaluation, transactions other than contracts, cooperative agreements, and grants related to section 2371 of this title during research projects including rapid prototyping and limited procurement urgent activities, and acquisition; and
     - **(E)** designate an Army explosive ordnance disposal-qualified general officer from the combat support agency designated under subparagraph (D) to serve as the Chairman of the Department of Defense explosive ordnance disposal defense program board; and

@@ -3,9 +3,9 @@ title: "Section 8 - Additional roads; construction by United States"
 usc_title: 33
 usc_section: "8"
 chapter: 15
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "33 U.S.C. § 8"
-generated_at: "2026-03-30T08:18:38.322Z"
+generated_at: "2026-03-30T08:23:25.195Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5097 - Repealed. Pub. L. 103–382, title III, § 391(i) , Oct. 
 usc_title: 20
 usc_section: "5097"
 chapter: 62
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "20 U.S.C. § 5097"
-generated_at: "2026-03-30T08:18:07.782Z"
+generated_at: "2026-03-30T08:21:51.353Z"
 status: "repealed"
 ---
 

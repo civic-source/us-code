@@ -3,9 +3,9 @@ title: "Section 29a - Early organization of House of Representatives"
 usc_title: 2
 usc_section: "29a"
 chapter: 2
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "2 U.S.C. § 29a"
-generated_at: "2026-03-30T08:17:02.951Z"
+generated_at: "2026-03-30T08:20:16.746Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2251 - Action to facilitate positive adjustment to import compet
 usc_title: 19
 usc_section: "2251"
 chapter: 12
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "19 U.S.C. § 2251"
-generated_at: "2026-03-30T08:18:10.334Z"
+generated_at: "2026-03-30T08:21:22.669Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8141 - Congressional findings"
 usc_title: 42
 usc_section: "8141"
 chapter: 90
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 8141"
-generated_at: "2026-03-30T08:19:32.451Z"
+generated_at: "2026-03-30T08:23:52.781Z"
 status: "active"
 ---
 

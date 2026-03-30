@@ -3,9 +3,9 @@ title: "Section 472 - Office of Technology Assessment"
 usc_title: 2
 usc_section: "472"
 chapter: 15
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "2 U.S.C. § 472"
-generated_at: "2026-03-30T08:17:02.961Z"
+generated_at: "2026-03-30T08:20:16.757Z"
 status: "active"
 ---
 

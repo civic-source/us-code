@@ -3,9 +3,9 @@ title: "Section 5372 - Sampling"
 usc_title: 26
 usc_section: "5372"
 chapter: 51
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 5372"
-generated_at: "2026-03-30T08:18:35.056Z"
+generated_at: "2026-03-30T08:23:10.699Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5373 - Wine spirits"
 usc_title: 26
 usc_section: "5373"
 chapter: 51
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 5373"
-generated_at: "2026-03-30T08:18:35.056Z"
+generated_at: "2026-03-30T08:23:10.699Z"
 status: "active"
 ---
 

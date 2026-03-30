@@ -3,9 +3,9 @@ title: "Section 1464 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1464"
 chapter: 33
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 1464"
-generated_at: "2026-03-30T08:17:57.296Z"
+generated_at: "2026-03-30T08:21:26.567Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 160 - Prevention of unfair labor practices"
 usc_title: 29
 usc_section: "160"
 chapter: 7
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "29 U.S.C. § 160"
-generated_at: "2026-03-30T08:18:21.725Z"
+generated_at: "2026-03-30T08:22:23.821Z"
 status: "active"
 ---
 

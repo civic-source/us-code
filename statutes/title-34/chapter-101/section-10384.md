@@ -3,9 +3,9 @@ title: "Section 10384 - Limitation on use of funds"
 usc_title: 34
 usc_section: "10384"
 chapter: 101
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "34 U.S.C. § 10384"
-generated_at: "2026-03-30T08:18:50.049Z"
+generated_at: "2026-03-30T08:23:31.795Z"
 status: "active"
 ---
 

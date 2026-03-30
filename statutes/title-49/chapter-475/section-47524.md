@@ -3,9 +3,9 @@ title: "Section 47524 - Airport noise and access restriction review program"
 usc_title: 49
 usc_section: "47524"
 chapter: 475
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 47524"
-generated_at: "2026-03-30T08:19:57.562Z"
+generated_at: "2026-03-30T08:24:01.389Z"
 status: "active"
 ---
 

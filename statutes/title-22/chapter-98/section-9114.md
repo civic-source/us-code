@@ -3,9 +3,9 @@ title: "Section 9114 - Report to congressional representatives"
 usc_title: 22
 usc_section: "9114"
 chapter: 98
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "22 U.S.C. § 9114"
-generated_at: "2026-03-30T08:18:17.854Z"
+generated_at: "2026-03-30T08:21:58.452Z"
 status: "active"
 ---
 

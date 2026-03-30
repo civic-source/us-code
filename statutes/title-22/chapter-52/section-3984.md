@@ -3,9 +3,9 @@ title: "Section 3984 - Service in United States and abroad"
 usc_title: 22
 usc_section: "3984"
 chapter: 52
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "22 U.S.C. § 3984"
-generated_at: "2026-03-30T08:18:17.799Z"
+generated_at: "2026-03-30T08:21:58.396Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8322 - Officers: 30 years"
 usc_title: 10
 usc_section: "8322"
 chapter: 841
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 8322"
-generated_at: "2026-03-30T08:17:25.901Z"
+generated_at: "2026-03-30T08:20:30.165Z"
 status: "active"
 ---
 

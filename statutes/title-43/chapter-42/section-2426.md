@@ -3,9 +3,9 @@ title: "Section 2426 - Title to newly constructed facilities"
 usc_title: 43
 usc_section: "2426"
 chapter: 42
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "43 U.S.C. § 2426"
-generated_at: "2026-03-30T08:19:06.815Z"
+generated_at: "2026-03-30T08:23:53.501Z"
 status: "active"
 ---
 

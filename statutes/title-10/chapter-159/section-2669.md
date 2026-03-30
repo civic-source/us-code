@@ -3,9 +3,9 @@ title: "Section 2669 - Repealed. Pub. L. 109–364, div. B, title XXVIII, § 282
 usc_title: 10
 usc_section: "2669"
 chapter: 159
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "10 U.S.C. § 2669"
-generated_at: "2026-03-30T08:17:25.882Z"
+generated_at: "2026-03-30T08:20:30.146Z"
 status: "repealed"
 ---
 

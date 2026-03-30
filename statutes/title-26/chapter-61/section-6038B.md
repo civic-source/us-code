@@ -3,9 +3,9 @@ title: "Section 6038B - Notice of certain transfers to foreign persons"
 usc_title: 26
 usc_section: "6038B"
 chapter: 61
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 6038B"
-generated_at: "2026-03-30T08:18:35.064Z"
+generated_at: "2026-03-30T08:23:10.707Z"
 status: "active"
 ---
 

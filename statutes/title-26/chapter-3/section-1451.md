@@ -3,9 +3,9 @@ title: "Section 1451 - Repealed. Pub. L. 98–369, div. A, title IV, § 474(r)(2
 usc_title: 26
 usc_section: "1451"
 chapter: 3
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "26 U.S.C. § 1451"
-generated_at: "2026-03-30T08:18:35.015Z"
+generated_at: "2026-03-30T08:23:10.661Z"
 status: "repealed"
 ---
 

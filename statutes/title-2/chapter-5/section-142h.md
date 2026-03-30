@@ -3,9 +3,9 @@ title: "Section 142h - Biomedical Ethics Board; disbursement of funds, computati
 usc_title: 2
 usc_section: "142h"
 chapter: 5
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "2 U.S.C. § 142h"
-generated_at: "2026-03-30T08:17:02.954Z"
+generated_at: "2026-03-30T08:20:16.750Z"
 status: "active"
 ---
 

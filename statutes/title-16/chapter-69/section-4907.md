@@ -3,9 +3,9 @@ title: "Section 4907 - Moratoria for species not covered by Convention"
 usc_title: 16
 usc_section: "4907"
 chapter: 69
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "16 U.S.C. § 4907"
-generated_at: "2026-03-30T08:17:57.343Z"
+generated_at: "2026-03-30T08:21:26.614Z"
 status: "active"
 ---
 

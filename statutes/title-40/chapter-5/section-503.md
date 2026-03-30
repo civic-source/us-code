@@ -3,9 +3,9 @@ title: "Section 503 - Exchange or sale of similar items"
 usc_title: 40
 usc_section: "503"
 chapter: 5
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "40 U.S.C. § 503"
-generated_at: "2026-03-30T08:18:59.393Z"
+generated_at: "2026-03-30T08:23:35.055Z"
 status: "active"
 ---
 

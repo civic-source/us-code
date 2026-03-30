@@ -3,9 +3,9 @@ title: "Section 1402a - Preliminary review of claims"
 usc_title: 2
 usc_section: "1402a"
 chapter: 24
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "2 U.S.C. § 1402a"
-generated_at: "2026-03-30T08:17:02.975Z"
+generated_at: "2026-03-30T08:20:16.771Z"
 status: "active"
 ---
 

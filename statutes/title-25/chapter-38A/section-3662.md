@@ -3,9 +3,9 @@ title: "Section 3662 - Tribal civil legal assistance grants"
 usc_title: 25
 usc_section: "3662"
 chapter: 38
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "25 U.S.C. § 3662"
-generated_at: "2026-03-30T08:18:14.309Z"
+generated_at: "2026-03-30T08:22:05.476Z"
 status: "active"
 ---
 

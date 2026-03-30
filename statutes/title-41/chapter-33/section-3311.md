@@ -3,9 +3,9 @@ title: "Section 3311 - Qualification requirement"
 usc_title: 41
 usc_section: "3311"
 chapter: 33
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "41 U.S.C. § 3311"
-generated_at: "2026-03-30T08:19:09.805Z"
+generated_at: "2026-03-30T08:23:38.089Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 663 - Representation in civil litigation"
 usc_title: 29
 usc_section: "663"
 chapter: 15
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "29 U.S.C. § 663"
-generated_at: "2026-03-30T08:18:21.734Z"
+generated_at: "2026-03-30T08:22:23.830Z"
 status: "active"
 ---
 

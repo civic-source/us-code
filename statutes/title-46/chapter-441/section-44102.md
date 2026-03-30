@@ -3,9 +3,9 @@ title: "Section 44102 - Financial responsibility to indemnify passengers for non
 usc_title: 46
 usc_section: "44102"
 chapter: 441
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "46 U.S.C. § 44102"
-generated_at: "2026-03-30T08:19:48.501Z"
+generated_at: "2026-03-30T08:23:59.239Z"
 status: "active"
 ---
 

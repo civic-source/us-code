@@ -3,9 +3,9 @@ title: "Section 2183 - Nonmilitary utilization"
 usc_title: 42
 usc_section: "2183"
 chapter: 23
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "42 U.S.C. § 2183"
-generated_at: "2026-03-30T08:19:32.296Z"
+generated_at: "2026-03-30T08:23:52.629Z"
 status: "active"
 ---
 

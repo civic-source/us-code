@@ -3,9 +3,9 @@ title: "Section 60503 - Effect of enactment"
 usc_title: 49
 usc_section: "60503"
 chapter: 605
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 60503"
-generated_at: "2026-03-30T08:19:57.568Z"
+generated_at: "2026-03-30T08:24:01.396Z"
 status: "active"
 ---
 

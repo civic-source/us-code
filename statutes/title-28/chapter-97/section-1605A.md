@@ -3,9 +3,9 @@ title: "Section 1605A - Terrorism exception to the jurisdictional immunity of a 
 usc_title: 28
 usc_section: "1605A"
 chapter: 97
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "28 U.S.C. § 1605A"
-generated_at: "2026-03-30T08:18:20.912Z"
+generated_at: "2026-03-30T08:22:20.205Z"
 status: "active"
 ---
 

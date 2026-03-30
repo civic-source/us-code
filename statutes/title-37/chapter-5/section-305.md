@@ -3,9 +3,9 @@ title: "Section 305 - Special pay: hardship duty pay"
 usc_title: 37
 usc_section: "305"
 chapter: 5
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "37 U.S.C. § 305"
-generated_at: "2026-03-30T08:18:59.009Z"
+generated_at: "2026-03-30T08:23:34.699Z"
 status: "active"
 ---
 

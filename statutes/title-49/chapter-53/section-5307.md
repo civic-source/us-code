@@ -3,9 +3,9 @@ title: "Section 5307 - Urbanized area formula grants"
 usc_title: 49
 usc_section: "5307"
 chapter: 53
-current_through: "PL 116-33"
+current_through: "PL 116-34"
 classification: "49 U.S.C. § 5307"
-generated_at: "2026-03-30T08:19:57.496Z"
+generated_at: "2026-03-30T08:24:01.315Z"
 status: "active"
 ---
 
