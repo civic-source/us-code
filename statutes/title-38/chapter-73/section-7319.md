@@ -3,9 +3,9 @@ title: "Section 7319 - Mammography quality standards"
 usc_title: 38
 usc_section: "7319"
 chapter: 73
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "38 U.S.C. § 7319"
-generated_at: "2026-03-30T04:29:01.158Z"
+generated_at: "2026-03-30T04:31:01.362Z"
 status: "active"
 ---
 

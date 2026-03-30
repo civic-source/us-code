@@ -3,9 +3,9 @@ title: "Section 4332a - Accelerated decisionmaking in environmental reviews"
 usc_title: 42
 usc_section: "4332a"
 chapter: 55
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 4332a"
-generated_at: "2026-03-30T04:29:16.835Z"
+generated_at: "2026-03-30T04:31:22.047Z"
 status: "active"
 ---
 

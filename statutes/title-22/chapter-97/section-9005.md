@@ -3,9 +3,9 @@ title: "Section 9005 - Admissibility of documents"
 usc_title: 22
 usc_section: "9005"
 chapter: 97
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "22 U.S.C. § 9005"
-generated_at: "2026-03-30T04:28:29.146Z"
+generated_at: "2026-03-30T04:30:30.165Z"
 status: "active"
 ---
 

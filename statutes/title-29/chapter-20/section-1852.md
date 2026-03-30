@@ -3,9 +3,9 @@ title: "Section 1852 - Judicial enforcement"
 usc_title: 29
 usc_section: "1852"
 chapter: 20
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "29 U.S.C. § 1852"
-generated_at: "2026-03-30T04:28:33.768Z"
+generated_at: "2026-03-30T04:30:39.350Z"
 status: "active"
 ---
 

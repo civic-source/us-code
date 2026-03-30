@@ -3,9 +3,9 @@ title: "Section 1400J - Increase in expensing under section 179"
 usc_title: 26
 usc_section: "1400J"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "26 U.S.C. § 1400J"
-generated_at: "2026-03-30T04:28:52.847Z"
+generated_at: "2026-03-30T04:30:50.387Z"
 status: "active"
 ---
 

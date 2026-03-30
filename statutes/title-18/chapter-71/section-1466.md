@@ -3,9 +3,9 @@ title: "Section 1466 - Engaging in the business of selling or transferring obsce
 usc_title: 18
 usc_section: "1466"
 chapter: 71
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "18 U.S.C. § 1466"
-generated_at: "2026-03-30T04:28:16.566Z"
+generated_at: "2026-03-30T04:30:14.554Z"
 status: "active"
 ---
 

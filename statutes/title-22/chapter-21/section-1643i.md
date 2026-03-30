@@ -3,9 +3,9 @@ title: "Section 1643i - Time limitation on completion of affairs of Commission"
 usc_title: 22
 usc_section: "1643i"
 chapter: 21
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "22 U.S.C. § 1643i"
-generated_at: "2026-03-30T04:28:29.043Z"
+generated_at: "2026-03-30T04:30:30.058Z"
 status: "active"
 ---
 

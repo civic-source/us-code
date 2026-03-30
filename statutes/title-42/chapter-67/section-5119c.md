@@ -3,9 +3,9 @@ title: "Section 5119c - Definitions"
 usc_title: 42
 usc_section: "5119c"
 chapter: 67
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 5119c"
-generated_at: "2026-03-30T04:29:16.849Z"
+generated_at: "2026-03-30T04:31:22.065Z"
 status: "active"
 ---
 

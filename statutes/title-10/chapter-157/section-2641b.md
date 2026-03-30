@@ -3,9 +3,9 @@ title: "Section 2641b - Space-available travel on Department of Defense aircraft
 usc_title: 10
 usc_section: "2641b"
 chapter: 157
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 2641b"
-generated_at: "2026-03-30T04:27:24.770Z"
+generated_at: "2026-03-30T04:29:56.819Z"
 status: "active"
 ---
 

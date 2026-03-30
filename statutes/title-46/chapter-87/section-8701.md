@@ -3,9 +3,9 @@ title: "Section 8701 - Merchant mariners’ documents required"
 usc_title: 46
 usc_section: "8701"
 chapter: 87
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "46 U.S.C. § 8701"
-generated_at: "2026-03-30T04:29:20.455Z"
+generated_at: "2026-03-30T04:31:32.745Z"
 status: "active"
 ---
 

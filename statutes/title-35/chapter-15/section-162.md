@@ -3,9 +3,9 @@ title: "Section 162 - Description, claim"
 usc_title: 35
 usc_section: "162"
 chapter: 15
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "35 U.S.C. § 162"
-generated_at: "2026-03-30T04:28:55.378Z"
+generated_at: "2026-03-30T04:30:52.875Z"
 status: "active"
 ---
 

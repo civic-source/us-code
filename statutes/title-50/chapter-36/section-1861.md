@@ -3,9 +3,9 @@ title: "Section 1861 - Access to certain business records for foreign intelligen
 usc_title: 50
 usc_section: "1861"
 chapter: 36
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 1861"
-generated_at: "2026-03-30T04:29:28.810Z"
+generated_at: "2026-03-30T04:31:33.456Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
       - **(iii)** an individual in contact with, or known to, a suspected agent of a foreign power who is the subject of such authorized investigation; and
     - **(B)** an enumeration of the minimization procedures adopted by the Attorney General under subsection (g) that are applicable to the retention and dissemination by the Federal Bureau of Investigation of any tangible things to be made available to the Federal Bureau of Investigation based on the order requested in such application.
 - **(c)**
-  - **(1)** Upon an application made pursuant to this section, if the judge finds that the application meets the requirements of subsections (a) and (b), the judge shall enter an ex parte order as requested, or as modified, approving the release of tangible things. Such order shall direct that minimization procedures adopted pursuant to subsection (g) be followed.
+  - **(1)** Upon an application made pursuant to this section, if the judge finds that the application meets the requirements of subsections (a) and (b) and that the minimization procedures submitted in accordance with subsection (b)(2)(D) meet the definition of minimization procedures under subsection (g), the judge shall enter an ex parte order as requested, or as modified, approving the release of tangible things. Such order shall direct that minimization procedures adopted pursuant to subsection (g) be followed.
   - **(2)** An order under this subsection—
     - **(A)** shall describe the tangible things that are ordered to be produced with sufficient particularity to permit them to be fairly identified;
     - **(B)** shall include the date on which the tangible things must be provided, which shall allow a reasonable period of time within which the tangible things can be assembled and made available;
@@ -44,29 +44,55 @@ status: "active"
     - **(A)** A person to whom disclosure is made pursuant to paragraph (1) shall be subject to the nondisclosure requirements applicable to a person to whom an order is directed under this section in the same manner as such person.
     - **(B)** Any person who discloses to a person described in subparagraph (A), (B), or (C) of paragraph (1) that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order under this section shall notify such person of the nondisclosure requirements of this subsection.
     - **(C)** At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under subparagraph (A) or (C) of paragraph (1) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
-- **(e)** A person who, in good faith, produces tangible things under an order pursuant to this section shall not be liable to any other person for such production. Such production shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.
+- **(e)**
+  - **(1)** No cause of action shall lie in any court against a person who—
+    - **(A)** produces tangible things or provides information, facilities, or technical assistance in accordance with an order issued or an emergency production required under this section; or
+    - **(B)** otherwise provides technical assistance to the Government under this section or to implement the amendments made to this section by the USA FREEDOM Act of 2015.
+  - **(2)** A production or provision of information, facilities, or technical assistance described in paragraph (1) shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.
 - **(f)**
   - **(1)** In this subsection—
     - **(A)** the term “production order” means an order to produce any tangible thing under this section; and
     - **(B)** the term “nondisclosure order” means an order imposed under subsection (d).
   - **(2)**
     - **(A)**
-      - **(i)** A person receiving a production order may challenge the legality of that order by filing a petition with the pool established by section 1803(e)(1) of this title . Not less than 1 year after the date of the issuance of the production order, the recipient of a production order may challenge the nondisclosure order imposed in connection with such production order by filing a petition to modify or set aside such nondisclosure order, consistent with the requirements of subparagraph (C), with the pool established by section 1803(e)(1) of this title .
+      - **(i)** A person receiving a production order may challenge the legality of the production order or any nondisclosure order imposed in connection with the production order by filing a petition with the pool established by section 1803(e)(1) of this title .
       - **(ii)** The presiding judge shall immediately assign a petition under clause (i) to 1 of the judges serving in the pool established by section 1803(e)(1) of this title . Not later than 72 hours after the assignment of such petition, the assigned judge shall conduct an initial review of the petition. If the assigned judge determines that the petition is frivolous, the assigned judge shall immediately deny the petition and affirm the production order or nondisclosure order. If the assigned judge determines the petition is not frivolous, the assigned judge shall promptly consider the petition in accordance with the procedures established under section 1803(e)(2) of this title .
       - **(iii)** The assigned judge shall promptly provide a written statement for the record of the reasons for any determination under this subsection. Upon the request of the Government, any order setting aside a nondisclosure order shall be stayed pending review pursuant to paragraph (3).
     - **(B)** A judge considering a petition to modify or set aside a production order may grant such petition only if the judge finds that such order does not meet the requirements of this section or is otherwise unlawful. If the judge does not modify or set aside the production order, the judge shall immediately affirm such order, and order the recipient to comply therewith.
     - **(C)**
       - **(i)** A judge considering a petition to modify or set aside a nondisclosure order may grant such petition only if the judge finds that there is no reason to believe that disclosure may endanger the national security of the United States, interfere with a criminal, counterterrorism, or counterintelligence investigation, interfere with diplomatic relations, or endanger the life or physical safety of any person.
-      - **(ii)** If, upon filing of such a petition, the Attorney General, Deputy Attorney General, an Assistant Attorney General, or the Director of the Federal Bureau of Investigation certifies that disclosure may endanger the national security of the United States or interfere with diplomatic relations, such certification shall be treated as conclusive, unless the judge finds that the certification was made in bad faith.
-      - **(iii)** If the judge denies a petition to modify or set aside a nondisclosure order, the recipient of such order shall be precluded for a period of 1 year from filing another such petition with respect to such nondisclosure order.
+      - **(ii)** If the judge denies a petition to modify or set aside a nondisclosure order, the recipient of such order shall be precluded for a period of 1 year from filing another such petition with respect to such nondisclosure order.
     - **(D)** Any production or nondisclosure order not explicitly modified or set aside consistent with this subsection shall remain in full effect.
   - **(3)** A petition for review of a decision under paragraph (2) to affirm, modify, or set aside an order by the Government or any person receiving such order shall be made to the court of review established under section 1803(b) of this title , which shall have jurisdiction to consider such petitions. The court of review shall provide for the record a written statement of the reasons for its decision and, on petition by the Government or any person receiving such order for writ of certiorari, the record shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
   - **(4)** Judicial proceedings under this subsection shall be concluded as expeditiously as possible. The record of proceedings, including petitions filed, orders granted, and statements of reasons for decision, shall be maintained under security measures established by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
   - **(5)** All petitions under this subsection shall be filed under seal. In any proceedings under this subsection, the court shall, upon request of the Government, review ex parte and in camera any Government submission, or portions thereof, which may include classified information.
 - **(g)**
-  - **(1)** Not later than 180 days after March 9, 2006 , the Attorney General shall adopt specific minimization procedures governing the retention and dissemination by the Federal Bureau of Investigation of any tangible things, or information therein, received by the Federal Bureau of Investigation in response to an order under this subchapter.
+  - **(1)**
   - **(2)** In this section, the term “minimization procedures” means—
     - **(A)** specific procedures that are reasonably designed in light of the purpose and technique of an order for the production of tangible things, to minimize the retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
     - **(B)** procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in section 1801(e)(1) of this title , shall not be disseminated in a manner that identifies any United States person, without such person’s consent, unless such person’s identity is necessary to understand foreign intelligence information or assess its importance; and
     - **(C)** notwithstanding subparagraphs (A) and (B), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes.
+  - **(3)** Nothing in this subsection shall limit the authority of the court established under section 1803(a) of this title to impose additional, particularized minimization procedures with regard to the production, retention, or dissemination of nonpublicly available information concerning unconsenting United States persons, including additional, particularized procedures related to the destruction of information within a reasonable time period.
 - **(h)** Information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures adopted pursuant to subsection (g). No otherwise privileged information acquired from tangible things received by the Federal Bureau of Investigation in accordance with the provisions of this subchapter shall lose its privileged character. No information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
+- **(j)** The Government shall compensate a person for reasonable expenses incurred for—
+  - **(1)** producing tangible things or providing information, facilities, or assistance in accordance with an order issued with respect to an application described in subsection (b)(2)(C) or an emergency production under subsection (i) that, to comply with subsection (i)(1)(D), requires an application described in subsection (b)(2)(C); or
+  - **(2)** otherwise providing technical assistance to the Government under this section or to implement the amendments made to this section by the USA FREEDOM Act of 2015.
+- **(k)** In this section:
+  - **(1)** The terms “foreign power”, “agent of a foreign power”, “international terrorism”, “foreign intelligence information”, “Attorney General”, “United States person”, “United States”, “person”, and “State” have the meanings provided those terms in section 1801 of this title .
+  - **(2)** The term “address” means a physical address or electronic address, such as an electronic mail address or temporarily assigned network address (including an Internet protocol address).
+  - **(3)** The term “call detail record”—
+    - **(A)** means session-identifying information (including an originating or terminating telephone number, an International Mobile Subscriber Identity number, or an International Mobile Station Equipment Identity number), a telephone calling card number, or the time or duration of a call; and
+    - **(B)** does not include—
+      - **(i)** the contents (as defined in section 2510(8) of title 18 ) of any communication;
+      - **(ii)** the name, address, or financial information of a subscriber or customer; or
+      - **(iii)** cell site location or global positioning system information.
+  - **(4)**
+    - **(A)**
+      - **(i)** Except as provided in subparagraph (B), a “specific selection term”—
+        - **(I)** is a term that specifically identifies a person, account, address, or personal device, or any other specific identifier; and
+        - **(II)** is used to limit, to the greatest extent reasonably practicable, the scope of tangible things sought consistent with the purpose for seeking the tangible things.
+      - **(ii)** A specific selection term under clause (i) does not include an identifier that does not limit, to the greatest extent reasonably practicable, the scope of tangible things sought consistent with the purpose for seeking the tangible things, such as an identifier that—
+        - **(I)** identifies an electronic communication service provider (as that term is defined in section 1881 of this title ) or a provider of remote computing service (as that term is defined in section 2711 of title 18 ), when not used as part of a specific identifier as described in clause (i), unless the provider is itself a subject of an authorized investigation for which the specific selection term is used as the basis for the production; or
+        - **(II)** identifies a broad geographic region, including the United States, a city, a county, a State, a zip code, or an area code, when not used as part of a specific identifier as described in clause (i).
+      - **(iii)** Nothing in this paragraph shall be construed to preclude the use of multiple terms or identifiers to meet the requirements of clause (i).
+    - **(B)** For purposes of an application submitted under subsection (b)(2)(C), the term “specific selection term” means a term that specifically identifies an individual, account, or personal device.

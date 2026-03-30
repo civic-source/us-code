@@ -3,9 +3,9 @@ title: "Section 3341 - Security clearances"
 usc_title: 50
 usc_section: "3341"
 chapter: 45
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 3341"
-generated_at: "2026-03-30T04:29:28.838Z"
+generated_at: "2026-03-30T04:31:33.487Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(A)** the Permanent Select Committee on Intelligence and the Committees on Armed Services, Homeland Security, Government Reform, and the Judiciary of the House of Representatives; and
     - **(B)** the Select Committee on Intelligence and the Committees on Armed Services, Homeland Security and Governmental Affairs, and the Judiciary of the Senate.
   - **(9)** The term “access determination” means the determination regarding whether an employee—
-    - **(A)** is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry), or any successor thereto; and
+    - **(A)** is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with 2 2 So in original. Probably should be “within”. industry), or any successor thereto; and
     - **(B)** possesses a need to know under such an Order.
 - **(b)** Except as otherwise provided, not later than 90 days after December 17, 2004 , the President shall select a single department, agency, or element of the executive branch to be responsible for—
   - **(1)** directing day-to-day oversight of investigations and adjudications for personnel security clearances, including for highly sensitive programs, throughout the United States Government;

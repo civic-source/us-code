@@ -3,9 +3,9 @@ title: "Section 7309 - Readjustment Counseling Service"
 usc_title: 38
 usc_section: "7309"
 chapter: 73
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "38 U.S.C. § 7309"
-generated_at: "2026-03-30T04:29:01.157Z"
+generated_at: "2026-03-30T04:31:01.361Z"
 status: "active"
 ---
 

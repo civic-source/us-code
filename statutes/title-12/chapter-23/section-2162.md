@@ -3,9 +3,9 @@ title: "Section 2162 - Protection of borrower stock"
 usc_title: 12
 usc_section: "2162"
 chapter: 23
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 2162"
-generated_at: "2026-03-30T04:28:13.352Z"
+generated_at: "2026-03-30T04:30:07.224Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** This section does not affect the authority of any institution of the Farm Credit System—
   - **(1)** to retire or cancel borrower stock at par value for application against a loan in default;
   - **(2)** to cancel borrower stock at par value under section 2202b of this title ; or
-  - **(3)** to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2) of this section, the par value of borrower stock frozen in such liquidation.
+  - **(3)** to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2), the par value of borrower stock frozen in such liquidation.
 - **(c)** If an institution is unable to retire eligible borrower stock at par value due to the liquidation of the institution, the receiver of the institution shall retire such stock at par value as would have been retired in the ordinary course of business of the institution, and—
   - **(1)** during the 5-year period beginning on January 6, 1988 , the Assistance Board shall direct the Financial Assistance Corporation to provide the receiver with sufficient funds to enable the receiver to carry out this subsection; and
   - **(2)** after such 5-year period, the Farm Credit System Insurance Corporation shall provide the receiver with sufficient funds from the Farm Credit Insurance Fund to enable the receiver to carry out this subsection.

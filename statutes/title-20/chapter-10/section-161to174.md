@@ -3,9 +3,9 @@ title: "Section 161to174 - Omitted"
 usc_title: 20
 usc_section: "161to174"
 chapter: 10
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 161to174"
-generated_at: "2026-03-30T04:28:19.358Z"
+generated_at: "2026-03-30T04:30:23.689Z"
 status: "omitted"
 ---
 

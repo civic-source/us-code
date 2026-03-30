@@ -3,9 +3,9 @@ title: "Section 8305 - Prohibition against Federal Government bailouts of swaps 
 usc_title: 15
 usc_section: "8305"
 chapter: 109
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 8305"
-generated_at: "2026-03-30T04:27:46.600Z"
+generated_at: "2026-03-30T04:30:11.438Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(3)**
     - **(A)** an insured depository institution, as that term is defined in section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813 ); and
     - **(B)** a United States uninsured branch or agency of a foreign bank.
-- **(c)** The prohibition on Federal assistance contained in subsection (a) does not apply to and shall not prevent a covered depository institution from having or establishing an affiliate which is a swaps entity, as long as such covered depository institution is part of a bank holding company, savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(o))), that is supervised by the Federal Reserve and such swaps entity affiliate complies with sections 371c and 371c–1 of title 12 and such other requirements as the Commodity Futures Trading Commission or the Securities Exchange Commission, as appropriate, and the Board of Governors of the Federal Reserve System, may determine to be necessary and appropriate.
+- **(c)** The prohibition on Federal assistance contained in subsection (a) does not apply to and shall not prevent a covered depository institution from having or establishing an affiliate which is a swaps entity, as long as such covered depository institution is part of a bank holding company, savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21( o ))), that is supervised by the Federal Reserve and such swaps entity affiliate complies with sections 371c and 371c–1 of title 12 and such other requirements as the Commodity Futures Trading Commission or the Securities Exchange Commission, as appropriate, and the Board of Governors of the Federal Reserve System, may determine to be necessary and appropriate.
 - **(d)**
   - **(1)** The prohibition in subsection (a) shall not apply to any covered depository institution that limits its swap and security-based swap activities to the following:
     - **(A)** Hedging and other similar risk mitigating activities directly related to the covered depository institution’s activities.

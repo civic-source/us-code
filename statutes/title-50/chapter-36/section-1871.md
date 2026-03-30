@@ -3,9 +3,9 @@ title: "Section 1871 - Semiannual report of the Attorney General"
 usc_title: 50
 usc_section: "1871"
 chapter: 36
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 1871"
-generated_at: "2026-03-30T04:29:28.811Z"
+generated_at: "2026-03-30T04:31:33.456Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(5)** copies of all decisions, orders, or opinions of the Foreign Intelligence Surveillance Court or Foreign Intelligence Surveillance Court of Review that include significant construction or interpretation of the provisions of this chapter.
 - **(b)** The first report under this section shall be submitted not later than 6 months after December 17, 2004 . Subsequent reports under this section shall be submitted semi-annually thereafter.
 - **(c)** The Attorney General shall submit to the committees of Congress referred to in subsection (a)—
-  - **(1)** a copy of any decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review that includes significant construction or interpretation of any provision of this chapter, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, not later than 45 days after such decision, order, or opinion is issued; and
+  - **(1)** not later than 45 days after the date on which the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review issues a decision, order, or opinion, including any denial or modification of an application under this chapter, that includes significant construction or interpretation of any provision of law or results in a change of application of any provision of this chapter or a novel application of any provision of this chapter, a copy of such decision, order, or opinion and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion; and
   - **(2)** a copy of each such decision, order, or opinion, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, that was issued during the 5-year period ending on July 10, 2008 , and not previously submitted in a report under subsection (a).
 - **(d)** The Attorney General, in consultation with the Director of National Intelligence, may authorize redactions of materials described in subsection (c) that are provided to the committees of Congress referred to in subsection (a), if such redactions are necessary to protect the national security of the United States and are limited to sensitive sources and methods information or the identities of targets.
 - **(e)** In this section:

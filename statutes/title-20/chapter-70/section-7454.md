@@ -3,9 +3,9 @@ title: "Section 7454 - Gifted and talented Indian students"
 usc_title: 20
 usc_section: "7454"
 chapter: 70
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 7454"
-generated_at: "2026-03-30T04:28:19.484Z"
+generated_at: "2026-03-30T04:30:23.831Z"
 status: "active"
 ---
 

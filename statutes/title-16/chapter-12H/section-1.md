@@ -3,9 +3,9 @@ title: "Section 1 - Federal projects in Pacific Northwest"
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T04:28:23.188Z"
+generated_at: "2026-03-30T04:30:21.140Z"
 status: "active"
 ---
 

@@ -1,0 +1,15 @@
+---
+title: "Section 1473 - Acceptance of contributions from private and public sources by Mineral Management Service"
+usc_title: 43
+usc_section: "1473"
+chapter: 31
+current_through: "PL 114-25"
+classification: "43 U.S.C. § 1473"
+generated_at: "2026-03-30T04:31:04.667Z"
+status: "active"
+---
+
+# § 1473. Acceptance of contributions from private and public sources by Mineral Management Service
+
+In fiscal year 1987 and thereafter, the Minerals Management Service is authorized to accept land, buildings, equipment and other contributions, from public and private sources, which shall be available for the purposes provided for in this account, including, in fiscal years 2010 through 2013, contributions of money and services to conduct work in support of the orderly exploration and development of Outer Continental Shelf resources, including but not limited to, preparation of environmental documents such as impact statements and assessments, studies, and related research.
+

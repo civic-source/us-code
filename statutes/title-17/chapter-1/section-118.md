@@ -3,9 +3,9 @@ title: "Section 118 - Scope of exclusive rights: Use of certain works in connect
 usc_title: 17
 usc_section: "118"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "17 U.S.C. § 118"
-generated_at: "2026-03-30T04:28:15.252Z"
+generated_at: "2026-03-30T04:30:13.630Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 561 - Advances by private parties; repayment"
 usc_title: 33
 usc_section: "561"
 chapter: 12
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "33 U.S.C. § 561"
-generated_at: "2026-03-30T04:28:56.655Z"
+generated_at: "2026-03-30T04:30:55.618Z"
 status: "active"
 ---
 

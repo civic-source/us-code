@@ -3,9 +3,9 @@ title: "Section 303 - Involuntary cases"
 usc_title: 11
 usc_section: "303"
 chapter: 3
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "11 U.S.C. § 303"
-generated_at: "2026-03-30T04:27:50.335Z"
+generated_at: "2026-03-30T04:29:58.849Z"
 status: "active"
 ---
 

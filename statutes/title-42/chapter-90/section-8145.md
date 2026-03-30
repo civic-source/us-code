@@ -3,9 +3,9 @@ title: "Section 8145 - Coordination and development of program with other Federa
 usc_title: 42
 usc_section: "8145"
 chapter: 90
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 8145"
-generated_at: "2026-03-30T04:29:16.953Z"
+generated_at: "2026-03-30T04:31:22.189Z"
 status: "active"
 ---
 

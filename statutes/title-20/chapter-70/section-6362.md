@@ -3,9 +3,9 @@ title: "Section 6362 - Formula grants to State educational agencies"
 usc_title: 20
 usc_section: "6362"
 chapter: 70
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 6362"
-generated_at: "2026-03-30T04:28:19.457Z"
+generated_at: "2026-03-30T04:30:23.802Z"
 status: "active"
 ---
 

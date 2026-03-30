@@ -3,9 +3,9 @@ title: "Section 4303 - Authorities of Secretary of State"
 usc_title: 22
 usc_section: "4303"
 chapter: 53
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "22 U.S.C. § 4303"
-generated_at: "2026-03-30T04:28:29.101Z"
+generated_at: "2026-03-30T04:30:30.119Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1881 - Registration and information management"
 usc_title: 16
 usc_section: "1881"
 chapter: 38
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 1881"
-generated_at: "2026-03-30T04:28:23.228Z"
+generated_at: "2026-03-30T04:30:21.177Z"
 status: "active"
 ---
 

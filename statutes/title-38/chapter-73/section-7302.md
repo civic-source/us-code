@@ -3,9 +3,9 @@ title: "Section 7302 - Functions of Veterans Health Administration: health-care 
 usc_title: 38
 usc_section: "7302"
 chapter: 73
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "38 U.S.C. § 7302"
-generated_at: "2026-03-30T04:29:01.157Z"
+generated_at: "2026-03-30T04:31:01.360Z"
 status: "active"
 ---
 

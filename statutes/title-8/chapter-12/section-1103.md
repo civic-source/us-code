@@ -3,9 +3,9 @@ title: "Section 1103 - Powers and duties of the Secretary, the Under Secretary, 
 usc_title: 8
 usc_section: "1103"
 chapter: 12
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "8 U.S.C. § 1103"
-generated_at: "2026-03-30T04:27:19.375Z"
+generated_at: "2026-03-30T04:29:51.368Z"
 status: "active"
 ---
 

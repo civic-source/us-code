@@ -3,9 +3,9 @@ title: "Section 3507 - Special master at foreign deposition"
 usc_title: 18
 usc_section: "3507"
 chapter: 223
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "18 U.S.C. § 3507"
-generated_at: "2026-03-30T04:28:16.587Z"
+generated_at: "2026-03-30T04:30:14.577Z"
 status: "active"
 ---
 

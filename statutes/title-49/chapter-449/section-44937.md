@@ -3,9 +3,9 @@ title: "Section 44937 - Prohibition on transferring duties and powers"
 usc_title: 49
 usc_section: "44937"
 chapter: 449
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "49 U.S.C. § 44937"
-generated_at: "2026-03-30T04:29:23.987Z"
+generated_at: "2026-03-30T04:31:28.370Z"
 status: "active"
 ---
 

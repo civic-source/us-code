@@ -3,9 +3,9 @@ title: "Section 7255f - Definitions"
 usc_title: 20
 usc_section: "7255f"
 chapter: 70
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 7255f"
-generated_at: "2026-03-30T04:28:19.478Z"
+generated_at: "2026-03-30T04:30:23.826Z"
 status: "active"
 ---
 

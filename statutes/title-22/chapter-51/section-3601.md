@@ -3,9 +3,9 @@ title: "Section 3601 - Congressional statement of purpose"
 usc_title: 22
 usc_section: "3601"
 chapter: 51
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "22 U.S.C. § 3601"
-generated_at: "2026-03-30T04:28:29.087Z"
+generated_at: "2026-03-30T04:30:30.105Z"
 status: "active"
 ---
 

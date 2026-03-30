@@ -3,9 +3,9 @@ title: "Section 215 - Definition"
 usc_title: 6
 usc_section: "215"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "6 U.S.C. § 215"
-generated_at: "2026-03-30T04:27:39.405Z"
+generated_at: "2026-03-30T04:29:52.416Z"
 status: "active"
 ---
 

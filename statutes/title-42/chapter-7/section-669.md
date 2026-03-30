@@ -3,9 +3,9 @@ title: "Section 669 - Collection and reporting of child support enforcement data
 usc_title: 42
 usc_section: "669"
 chapter: 7
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 669"
-generated_at: "2026-03-30T04:29:16.580Z"
+generated_at: "2026-03-30T04:31:21.733Z"
 status: "active"
 ---
 

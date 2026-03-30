@@ -3,9 +3,9 @@ title: "Section 21to25 - Repealed. July 22, 1932, ch. 524 , 47 Stat. 741"
 usc_title: 29
 usc_section: "21to25"
 chapter: 3
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "29 U.S.C. § 21to25"
-generated_at: "2026-03-30T04:28:33.717Z"
+generated_at: "2026-03-30T04:30:39.295Z"
 status: "repealed"
 ---
 

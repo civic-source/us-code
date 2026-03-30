@@ -3,9 +3,9 @@ title: "Section 3730 - Civil actions for false claims"
 usc_title: 31
 usc_section: "3730"
 chapter: 37
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "31 U.S.C. § 3730"
-generated_at: "2026-03-30T04:28:55.966Z"
+generated_at: "2026-03-30T04:30:54.361Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1272 - Publicity; reports; dissemination of information"
 usc_title: 15
 usc_section: "1272"
 chapter: 30
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 1272"
-generated_at: "2026-03-30T04:27:46.483Z"
+generated_at: "2026-03-30T04:30:11.357Z"
 status: "active"
 ---
 

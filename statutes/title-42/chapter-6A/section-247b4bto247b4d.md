@@ -3,9 +3,9 @@ title: "Section 247b4bto247b4d - Repealed. Pub. L. 109–416, § 3(b)(1) –(3),
 usc_title: 42
 usc_section: "247b4bto247b4d"
 chapter: 6
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 247b4bto247b4d"
-generated_at: "2026-03-30T04:29:16.436Z"
+generated_at: "2026-03-30T04:31:21.555Z"
 status: "repealed"
 ---
 

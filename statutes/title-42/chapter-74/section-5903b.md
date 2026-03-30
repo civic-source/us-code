@@ -3,9 +3,9 @@ title: "Section 5903b - Environmental and safety research, development, and demo
 usc_title: 42
 usc_section: "5903b"
 chapter: 74
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 5903b"
-generated_at: "2026-03-30T04:29:16.869Z"
+generated_at: "2026-03-30T04:31:22.092Z"
 status: "active"
 ---
 

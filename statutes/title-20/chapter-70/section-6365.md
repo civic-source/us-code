@@ -3,9 +3,9 @@ title: "Section 6365 - External evaluation"
 usc_title: 20
 usc_section: "6365"
 chapter: 70
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 6365"
-generated_at: "2026-03-30T04:28:19.458Z"
+generated_at: "2026-03-30T04:30:23.803Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7702 - Life insurance contract defined"
 usc_title: 26
 usc_section: "7702"
 chapter: 79
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "26 U.S.C. § 7702"
-generated_at: "2026-03-30T04:28:52.941Z"
+generated_at: "2026-03-30T04:30:50.539Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 630 - Discharge of commissioned officers with less then six year
 usc_title: 10
 usc_section: "630"
 chapter: 36
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 630"
-generated_at: "2026-03-30T04:27:24.699Z"
+generated_at: "2026-03-30T04:29:56.748Z"
 status: "active"
 ---
 

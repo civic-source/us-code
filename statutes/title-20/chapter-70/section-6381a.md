@@ -3,9 +3,9 @@ title: "Section 6381a - Program authorized"
 usc_title: 20
 usc_section: "6381a"
 chapter: 70
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 6381a"
-generated_at: "2026-03-30T04:28:19.459Z"
+generated_at: "2026-03-30T04:30:23.804Z"
 status: "active"
 ---
 

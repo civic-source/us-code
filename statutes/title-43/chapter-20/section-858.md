@@ -1,0 +1,15 @@
+---
+title: "Section 858 - Grants to counties for seats of justice"
+usc_title: 43
+usc_section: "858"
+chapter: 20
+current_through: "PL 114-25"
+classification: "43 U.S.C. § 858"
+generated_at: "2026-03-30T04:31:04.649Z"
+status: "active"
+---
+
+# § 858. Grants to counties for seats of justice
+
+There shall be granted to the several counties or parishes of each State and Territory, where there are public lands, at the minimum price for which public lands of the United States are sold, the right of preemption to one quarter section of land, in each of the counties or parishes, in trust for such counties or parishes, respectively, for the establishment of seats of justice therein; but the proceeds of the sale of each of such quarter section shall be appropriated for the purpose of erecting public buildings in the county or parish for which it is located, after deducting therefrom the amount originally paid for the same. And the seat of justice for such counties or parishes, respectively, shall be fixed previously to a sale of the adjoining lands within the county or parish for which the same is located.
+

@@ -3,9 +3,9 @@ title: "Section 4154a - Standards for design, construction, and alteration of bu
 usc_title: 42
 usc_section: "4154a"
 chapter: 51
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 4154a"
-generated_at: "2026-03-30T04:29:16.835Z"
+generated_at: "2026-03-30T04:31:22.046Z"
 status: "active"
 ---
 

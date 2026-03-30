@@ -3,9 +3,9 @@ title: "Section 2566 - Disposition of weapons-usable plutonium at Savannah River
 usc_title: 50
 usc_section: "2566"
 chapter: 42
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 2566"
-generated_at: "2026-03-30T04:29:28.823Z"
+generated_at: "2026-03-30T04:31:33.471Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
       - **(i)** one metric ton, in each of any two consecutive calendar years; and
       - **(ii)** three metric tons total,
     - **(B)** Nothing in this paragraph may be construed to terminate, supersede, or otherwise affect any other requirements of this section.
-  - **(3)** If the State of South Carolina obtains an injunction that prohibits the Department of Energy from taking any action necessary for the Department of Energy to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
+  - **(3)** If the State of South Carolina obtains an injunction that prohibits the Department of Energy from taking any action necessary for the Department to meet any deadline specified by this subsection, that deadline shall be extended for a period of time equal to the period of time during which the injunction is in effect.
 - **(e)** If on July 1 each year beginning in 2025 and continuing for as long as the MOX facility is in use, less than 34 metric tons of defense plutonium or defense plutonium materials have been processed by the MOX facility, the Secretary shall submit to Congress a plan for—
   - **(1)** completing the processing of 34 metric tons of defense plutonium and defense plutonium material by the MOX facility; or
   - **(2)** removing from the State of South Carolina an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site after April 15, 2002 , but not processed by the MOX facility.

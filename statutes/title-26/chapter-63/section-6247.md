@@ -3,9 +3,9 @@ title: "Section 6247 - Judicial review of partnership adjustment"
 usc_title: 26
 usc_section: "6247"
 chapter: 63
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "26 U.S.C. § 6247"
-generated_at: "2026-03-30T04:28:52.913Z"
+generated_at: "2026-03-30T04:30:50.493Z"
 status: "active"
 ---
 

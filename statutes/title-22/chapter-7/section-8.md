@@ -3,9 +3,9 @@ title: "Section 8 - Congressional consultations"
 usc_title: 22
 usc_section: "8"
 chapter: 7
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "22 U.S.C. § 8"
-generated_at: "2026-03-30T04:28:29.033Z"
+generated_at: "2026-03-30T04:30:30.047Z"
 status: "active"
 ---
 

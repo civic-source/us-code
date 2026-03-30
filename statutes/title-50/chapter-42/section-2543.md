@@ -3,9 +3,9 @@ title: "Section 2543 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 3146(c
 usc_title: 50
 usc_section: "2543"
 chapter: 42
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 2543"
-generated_at: "2026-03-30T04:29:28.823Z"
+generated_at: "2026-03-30T04:31:33.470Z"
 status: "repealed"
 ---
 

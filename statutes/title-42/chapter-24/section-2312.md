@@ -3,9 +3,9 @@ title: "Section 2312 - Authorization of appropriations"
 usc_title: 42
 usc_section: "2312"
 chapter: 24
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 2312"
-generated_at: "2026-03-30T04:29:16.789Z"
+generated_at: "2026-03-30T04:31:21.992Z"
 status: "active"
 ---
 

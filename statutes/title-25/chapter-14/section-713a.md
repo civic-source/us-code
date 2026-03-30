@@ -3,9 +3,9 @@ title: "Section 713a - Consideration of Confederated Tribes of Grand Ronde Commu
 usc_title: 25
 usc_section: "713a"
 chapter: 14
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 713a"
-generated_at: "2026-03-30T04:28:26.931Z"
+generated_at: "2026-03-30T04:30:33.598Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 563a - Acquisition justification and reports"
 usc_title: 6
 usc_section: "563a"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "6 U.S.C. § 563a"
-generated_at: "2026-03-30T04:27:39.417Z"
+generated_at: "2026-03-30T04:29:52.425Z"
 status: "active"
 ---
 

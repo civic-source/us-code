@@ -3,9 +3,9 @@ title: "Section 357 - Repealed. Pub. L. 105–115, title I, § 125(b)(1) , Nov. 
 usc_title: 21
 usc_section: "357"
 chapter: 9
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "21 U.S.C. § 357"
-generated_at: "2026-03-30T04:28:29.987Z"
+generated_at: "2026-03-30T04:30:27.339Z"
 status: "repealed"
 ---
 

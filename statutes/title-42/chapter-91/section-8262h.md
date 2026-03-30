@@ -3,9 +3,9 @@ title: "Section 8262h - United States Postal Service energy regulations"
 usc_title: 42
 usc_section: "8262h"
 chapter: 91
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 8262h"
-generated_at: "2026-03-30T04:29:16.955Z"
+generated_at: "2026-03-30T04:31:22.193Z"
 status: "active"
 ---
 

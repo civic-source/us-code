@@ -3,9 +3,9 @@ title: "Section 379e - Listing and certification of color additives for foods, d
 usc_title: 21
 usc_section: "379e"
 chapter: 9
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "21 U.S.C. § 379e"
-generated_at: "2026-03-30T04:28:30.001Z"
+generated_at: "2026-03-30T04:30:27.353Z"
 status: "active"
 ---
 

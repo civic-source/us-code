@@ -3,9 +3,9 @@ title: "Section 1141e - Extension of protection of an international registration
 usc_title: 15
 usc_section: "1141e"
 chapter: 22
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 1141e"
-generated_at: "2026-03-30T04:27:46.479Z"
+generated_at: "2026-03-30T04:30:11.354Z"
 status: "active"
 ---
 

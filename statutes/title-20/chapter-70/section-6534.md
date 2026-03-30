@@ -3,9 +3,9 @@ title: "Section 6534 - Advanced placement test fee program"
 usc_title: 20
 usc_section: "6534"
 chapter: 70
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 6534"
-generated_at: "2026-03-30T04:28:19.462Z"
+generated_at: "2026-03-30T04:30:23.808Z"
 status: "active"
 ---
 

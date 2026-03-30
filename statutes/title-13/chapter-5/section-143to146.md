@@ -3,9 +3,9 @@ title: "Section 143to146 - Repealed. Pub. L. 85–207, § 11 , Aug. 28, 1957 , 7
 usc_title: 13
 usc_section: "143to146"
 chapter: 5
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "13 U.S.C. § 143to146"
-generated_at: "2026-03-30T04:27:40.997Z"
+generated_at: "2026-03-30T04:29:59.714Z"
 status: "repealed"
 ---
 

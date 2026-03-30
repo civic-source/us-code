@@ -3,9 +3,9 @@ title: "Section 1101to1103 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(
 usc_title: 26
 usc_section: "1101to1103"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "26 U.S.C. § 1101to1103"
-generated_at: "2026-03-30T04:28:52.832Z"
+generated_at: "2026-03-30T04:30:50.364Z"
 status: "repealed"
 ---
 

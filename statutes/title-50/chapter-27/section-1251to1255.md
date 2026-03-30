@@ -3,9 +3,9 @@ title: "Section 1251to1255 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 
 usc_title: 50
 usc_section: "1251to1255"
 chapter: 27
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 1251to1255"
-generated_at: "2026-03-30T04:29:28.806Z"
+generated_at: "2026-03-30T04:31:33.451Z"
 status: "repealed"
 ---
 

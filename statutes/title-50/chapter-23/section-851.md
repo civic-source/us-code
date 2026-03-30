@@ -3,9 +3,9 @@ title: "Section 851 - Registration of certain persons; filing statement; regulat
 usc_title: 50
 usc_section: "851"
 chapter: 23
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 851"
-generated_at: "2026-03-30T04:29:28.805Z"
+generated_at: "2026-03-30T04:31:33.450Z"
 status: "active"
 ---
 

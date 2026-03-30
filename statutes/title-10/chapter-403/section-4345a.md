@@ -3,9 +3,9 @@ title: "Section 4345a - Foreign and cultural exchange activities"
 usc_title: 10
 usc_section: "4345a"
 chapter: 403
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 4345a"
-generated_at: "2026-03-30T04:27:24.786Z"
+generated_at: "2026-03-30T04:29:56.835Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7407 - Administrative provisions for section 7405 and 7406 appoi
 usc_title: 38
 usc_section: "7407"
 chapter: 74
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "38 U.S.C. § 7407"
-generated_at: "2026-03-30T04:29:01.161Z"
+generated_at: "2026-03-30T04:31:01.366Z"
 status: "active"
 ---
 

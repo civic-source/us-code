@@ -3,9 +3,9 @@ title: "Section 444to449 - Repealed. Aug. 5, 1954, ch. 658, § 5 , 68 Stat. 675"
 usc_title: 25
 usc_section: "444to449"
 chapter: 14
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 444to449"
-generated_at: "2026-03-30T04:28:26.914Z"
+generated_at: "2026-03-30T04:30:33.580Z"
 status: "repealed"
 ---
 

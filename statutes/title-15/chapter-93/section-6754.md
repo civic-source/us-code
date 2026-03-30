@@ -1,15 +1,58 @@
 ---
-title: "Section 6754 - Relationship to the Federal Government"
+title: "Section 6754 - Board of directors"
 usc_title: 15
 usc_section: "6754"
 chapter: 93
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 6754"
-generated_at: "2026-03-30T04:27:46.587Z"
+generated_at: "2026-03-30T04:30:11.426Z"
 status: "active"
 ---
 
-# § 6754. Relationship to the Federal Government
+# § 6754. Board of directors
 
-The Association shall be subject to the supervision and oversight of the NAIC.
-
+- **(a)** There is established a board of directors of the Association, which shall have authority to govern and supervise all activities of the Association.
+- **(b)** The Board shall have such of the powers and authority of the Association as may be specified in the bylaws of the Association. 1 1 So in original. Probably should be “such powers and authority as may be specified in the bylaws of the Association.”
+- **(c)**
+  - **(1)** The Board shall consist of 13 members who shall be appointed by the President, by and with the advice and consent of the Senate, in accordance with the procedures established under Senate Resolution 116 of the 112th Congress, of whom—
+    - **(A)** 8 shall be State insurance commissioners appointed in the manner provided in paragraph (2), 1 of whom shall be designated by the President to serve as the chairperson of the Board until the Board elects one such State insurance commissioner Board member to serve as the chairperson of the Board;
+    - **(B)** 3 shall have demonstrated expertise and experience with property and casualty insurance producer licensing; and
+    - **(C)** 2 shall have demonstrated expertise and experience with life or health insurance producer licensing.
+  - **(2)**
+    - **(A)** Before making any appointments pursuant to paragraph (1)(A), the President shall request a list of recommended candidates from the States through the NAIC, which shall not be binding on the President. If the NAIC fails to submit a list of recommendations not later than 15 business days after the date of the request, the President may make the requisite appointments without considering the views of the NAIC.
+    - **(B)** Not more than 4 Board members appointed under paragraph (1)(A) shall belong to the same political party.
+    - **(C)**
+      - **(i)** If, after offering each currently serving State insurance commissioner an appointment to the Board, fewer than 8 State insurance commissioners have accepted appointment to the Board, the President may appoint the remaining State insurance commissioner Board members, as required under paragraph (1)(A), of the appropriate political party as required under subparagraph (B), from among individuals who are former State insurance commissioners.
+      - **(ii)** A former State insurance commissioner appointed as described in clause (i) may not be employed by or have any present direct or indirect financial interest in any insurer, insurance producer, or other entity in the insurance industry, other than direct or indirect ownership of, or beneficial interest in, an insurance policy or annuity contract written or sold by an insurer.
+    - **(D)** If a Board member appointed under paragraph (1)(A) ceases to be a State insurance commissioner during the term of the Board member, the Board member shall cease to be a Board member.
+  - **(3)** In making any appointment pursuant to subparagraph (B) or (C) of paragraph (1), the President may seek recommendations for candidates from groups representing the category of individuals described, which shall not be binding on the President.
+  - **(4)** For purposes of this subsection, the term “State insurance commissioner” means a person who serves in the position in State government, or on the board, commission, or other body that is the primary insurance regulatory authority for the State.
+- **(d)**
+  - **(1)** Except as provided under paragraph (2), the term of service for each Board member shall be 2 years.
+  - **(2)**
+    - **(A)** The term of service shall be 1 year, as designated by the President at the time of the nomination of the subject Board members for—
+      - **(i)** 4 of the State insurance commissioner Board members initially appointed under paragraph (1)(A), 2 2 So in original. Probably should be “paragraph (1)(A) of subsection (c),”. of whom not more than 2 shall belong to the same political party;
+      - **(ii)** 1 of the Board members initially appointed under paragraph (1)(B); 3 3 So in original. Probably should be “paragraph (1)(B) of subsection (c);”. and
+      - **(iii)** 1 of the Board members initially appointed under paragraph (1)(C). 4 4 So in original. Probably should be “paragraph (1)(C) of subsection (c).”
+    - **(B)** A Board member may continue to serve after the expiration of the term to which the Board member was appointed for the earlier of 2 years or until a successor is appointed.
+    - **(C)** A Board member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of the Board member was appointed shall be appointed only for the remainder of that term.
+  - **(3)** Board members may be reappointed to successive terms.
+- **(e)** The appointment of initial Board members shall be made no later than 90 days after January 12, 2015 .
+- **(f)**
+  - **(1)** The Board shall meet—
+    - **(A)** at the call of the chairperson;
+    - **(B)** as requested in writing to the chairperson by not fewer than 5 Board members; or
+    - **(C)** as otherwise provided by the bylaws of the Association.
+  - **(2)** A majority of all Board members shall constitute a quorum.
+  - **(3)** Decisions of the Board shall require the approval of a majority of all Board members present at a meeting, a quorum being present.
+  - **(4)** The Board shall hold its first meeting not later than 45 days after the date on which all initial Board members have been appointed.
+- **(g)** Board members appointed pursuant to subparagraphs (B) and (C) of subsection (c)(1) shall not have access to confidential information received by the Association in connection with complaints, investigations, or disciplinary proceedings involving insurance producers.
+- **(h)** The Board shall issue and enforce an ethical conduct code to address permissible and prohibited activities of Board members and Association officers, employees, agents, or consultants. The code shall, at a minimum, include provisions that prohibit any Board member or Association officer, employee, agent or consultant from—
+  - **(1)** engaging in unethical conduct in the course of performing Association duties;
+  - **(2)** participating in the making or influencing the making of any Association decision, the outcome of which the Board member, officer, employee, agent, or consultant knows or had reason to know would have a reasonably foreseeable material financial effect, distinguishable from its effect on the public generally, on the person or a member of the immediate family of the person;
+  - **(3)** accepting any gift from any person or entity other than the Association that is given because of the position held by the person in the Association;
+  - **(4)** making political contributions to any person or entity on behalf of the Association; and
+  - **(5)** lobbying or paying a person to lobby on behalf of the Association.
+- **(i)**
+  - **(1)** Except as provided in paragraph (2), no Board member may receive any compensation from the Association or any other person or entity on account of Board membership.
+  - **(2)** Board members may be reimbursed only by the Association for travel expenses, including per diem in lieu of subsistence, at rates consistent with rates authorized for employees of Federal agencies under subchapter I of chapter 57 of title 5, while away from home or regular places of business in performance of services for the Association.

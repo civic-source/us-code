@@ -3,9 +3,9 @@ title: "Section 3066 - Repealed. Pub. L. 96–513, title II, § 201 , Dec. 12, 1
 usc_title: 10
 usc_section: "3066"
 chapter: 307
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 3066"
-generated_at: "2026-03-30T04:27:24.783Z"
+generated_at: "2026-03-30T04:29:56.831Z"
 status: "repealed"
 ---
 

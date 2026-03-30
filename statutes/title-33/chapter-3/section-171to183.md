@@ -3,9 +3,9 @@ title: "Section 171to183 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 ,
 usc_title: 33
 usc_section: "171to183"
 chapter: 3
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "33 U.S.C. § 171to183"
-generated_at: "2026-03-30T04:28:56.648Z"
+generated_at: "2026-03-30T04:30:55.607Z"
 status: "repealed"
 ---
 

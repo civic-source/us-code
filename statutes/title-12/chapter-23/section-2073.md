@@ -3,9 +3,9 @@ title: "Section 2073 - General corporate powers"
 usc_title: 12
 usc_section: "2073"
 chapter: 23
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 2073"
-generated_at: "2026-03-30T04:28:13.350Z"
+generated_at: "2026-03-30T04:30:07.222Z"
 status: "active"
 ---
 
@@ -39,4 +39,4 @@ Each production credit association shall be a body corporate and, subject to sup
   - **(18)** elect by the board of directors of the association a loan committee with power to approve applications for membership in the association and loans or participations or, with the approval of the bank, delegate the approval of applications for membership and loans or participations within specified limits to other committees or to authorized officers and employees of the association;
   - **(19)** perform any functions delegated to the association by the bank;
   - **(20)** exercise by the board of directors or authorized officers or employees of the association, all such incidental powers as may be necessary or expedient to carry on the business of the association; and
-  - **(21)** operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
+  - **(21)** operate as an originator and become certified as a certified facility under subchapter VIII.

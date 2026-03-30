@@ -3,9 +3,9 @@ title: "Section 181 - Lands subject to disposition; persons entitled to benefits
 usc_title: 30
 usc_section: "181"
 chapter: 3
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "30 U.S.C. § 181"
-generated_at: "2026-03-30T04:28:34.057Z"
+generated_at: "2026-03-30T04:30:38.371Z"
 status: "active"
 ---
 

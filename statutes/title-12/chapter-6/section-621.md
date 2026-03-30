@@ -3,9 +3,9 @@ title: "Section 621 - Liability of shareholders on unpaid subscriptions; members
 usc_title: 12
 usc_section: "621"
 chapter: 6
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 621"
-generated_at: "2026-03-30T04:28:13.269Z"
+generated_at: "2026-03-30T04:30:07.147Z"
 status: "active"
 ---
 

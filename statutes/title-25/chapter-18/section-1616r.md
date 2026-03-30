@@ -3,9 +3,9 @@ title: "Section 1616r - Repealed. Pub. L. 111–148, title X, § 10221(b)(2) , M
 usc_title: 25
 usc_section: "1616r"
 chapter: 18
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 1616r"
-generated_at: "2026-03-30T04:28:26.948Z"
+generated_at: "2026-03-30T04:30:33.617Z"
 status: "repealed"
 ---
 

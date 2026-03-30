@@ -3,9 +3,9 @@ title: "Section 1381 - Establishment of Office of Compliance"
 usc_title: 2
 usc_section: "1381"
 chapter: 24
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "2 U.S.C. § 1381"
-generated_at: "2026-03-30T04:27:15.250Z"
+generated_at: "2026-03-30T04:29:46.879Z"
 status: "active"
 ---
 

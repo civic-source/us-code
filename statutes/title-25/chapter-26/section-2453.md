@@ -3,9 +3,9 @@ title: "Section 2453 - Juvenile detention centers"
 usc_title: 25
 usc_section: "2453"
 chapter: 26
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 2453"
-generated_at: "2026-03-30T04:28:26.975Z"
+generated_at: "2026-03-30T04:30:33.644Z"
 status: "active"
 ---
 

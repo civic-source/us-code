@@ -3,9 +3,9 @@ title: "Section 44510 - Airway science curriculum grants"
 usc_title: 49
 usc_section: "44510"
 chapter: 445
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "49 U.S.C. § 44510"
-generated_at: "2026-03-30T04:29:23.980Z"
+generated_at: "2026-03-30T04:31:28.364Z"
 status: "active"
 ---
 

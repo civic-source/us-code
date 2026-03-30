@@ -3,9 +3,9 @@ title: "Section 7267c - Applications"
 usc_title: 20
 usc_section: "7267c"
 chapter: 70
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 7267c"
-generated_at: "2026-03-30T04:28:19.479Z"
+generated_at: "2026-03-30T04:30:23.826Z"
 status: "active"
 ---
 

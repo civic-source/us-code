@@ -3,9 +3,9 @@ title: "Section 426 - Predatory and other wild animals"
 usc_title: 7
 usc_section: "426"
 chapter: 17
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "7 U.S.C. § 426"
-generated_at: "2026-03-30T04:27:20.308Z"
+generated_at: "2026-03-30T04:29:50.879Z"
 status: "active"
 ---
 

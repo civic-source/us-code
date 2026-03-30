@@ -3,9 +3,9 @@ title: "Section 2306b - Multiyear contracts: acquisition of property"
 usc_title: 10
 usc_section: "2306b"
 chapter: 137
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 2306b"
-generated_at: "2026-03-30T04:27:24.751Z"
+generated_at: "2026-03-30T04:29:56.800Z"
 status: "active"
 ---
 

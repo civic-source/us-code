@@ -3,9 +3,9 @@ title: "Section 318 - Transfer of surplus property; acceptance of voluntary serv
 usc_title: 44
 usc_section: "318"
 chapter: 3
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "44 U.S.C. § 318"
-generated_at: "2026-03-30T04:29:04.582Z"
+generated_at: "2026-03-30T04:31:03.898Z"
 status: "active"
 ---
 

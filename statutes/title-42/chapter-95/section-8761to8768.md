@@ -3,9 +3,9 @@ title: "Section 8761to8768 - Omitted"
 usc_title: 42
 usc_section: "8761to8768"
 chapter: 95
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 8761to8768"
-generated_at: "2026-03-30T04:29:16.962Z"
+generated_at: "2026-03-30T04:31:22.200Z"
 status: "omitted"
 ---
 

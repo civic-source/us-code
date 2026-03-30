@@ -3,9 +3,9 @@ title: "Section 166to175 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 
 usc_title: 43
 usc_section: "166to175"
 chapter: 7
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "43 U.S.C. § 166to175"
-generated_at: "2026-03-30T04:29:02.634Z"
+generated_at: "2026-03-30T04:31:04.614Z"
 status: "repealed"
 ---
 

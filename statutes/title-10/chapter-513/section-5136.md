@@ -3,9 +3,9 @@ title: "Section 5136 - Repealed. Pub. L. 86–174, § 2(3) , Aug. 18, 1959 , 73 
 usc_title: 10
 usc_section: "5136"
 chapter: 513
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 5136"
-generated_at: "2026-03-30T04:27:24.791Z"
+generated_at: "2026-03-30T04:29:56.839Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2013 - General corporate powers"
 usc_title: 12
 usc_section: "2013"
 chapter: 23
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 2013"
-generated_at: "2026-03-30T04:28:13.350Z"
+generated_at: "2026-03-30T04:30:07.220Z"
 status: "active"
 ---
 
@@ -49,4 +49,4 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
   - **(21)** exercise through the board of directors or authorized officers, employees, or agents of the bank, all such incidental powers as may be necessary or expedient to carry on the business of the bank;
   - **(22)** accept contributions to the capital of the bank from associations and account for such in accordance with generally accepted accounting principles, except as may be authorized by the Farm Credit Administration;
   - **(23)** as may be authorized by the board of directors of the bank, agree with other Farm Credit System institutions to share loan and other losses, whether to protect against capital impairment or for any other purpose; and
-  - **(24)** operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
+  - **(24)** operate as an originator and become certified as a certified facility under subchapter VIII.

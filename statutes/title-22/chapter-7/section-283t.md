@@ -3,9 +3,9 @@ title: "Section 283t - Authorization to vote on proposed resolutions"
 usc_title: 22
 usc_section: "283t"
 chapter: 7
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "22 U.S.C. § 283t"
-generated_at: "2026-03-30T04:28:29.025Z"
+generated_at: "2026-03-30T04:30:30.039Z"
 status: "active"
 ---
 

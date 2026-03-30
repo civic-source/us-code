@@ -3,16 +3,16 @@ title: "Section 3234 - Prohibited personnel practices in the intelligence commun
 usc_title: 50
 usc_section: "3234"
 chapter: 44
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 3234"
-generated_at: "2026-03-30T04:29:28.837Z"
+generated_at: "2026-03-30T04:31:33.486Z"
 status: "active"
 ---
 
 # § 3234. Prohibited personnel practices in the intelligence community
 
 - **(a)** In this section:
-  - **(1)** The term “agency” means an executive department or independent establishment, as defined under sections 101 and 104 of title 5, United States Code, that contains an intelligence community element, except the Federal Bureau of Investigation.
+  - **(1)** The term “agency” means an executive department or independent establishment, as defined under sections 101 and 104 of title 5, that contains an intelligence community element, except the Federal Bureau of Investigation.
   - **(2)** The term “covered intelligence community element”—
     - **(A)** means—
       - **(i)** the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and

@@ -3,9 +3,9 @@ title: "Section 31c - Repealed. Pub. L. 97–51, § 139(b)(2) , Oct. 1, 1981 , 9
 usc_title: 2
 usc_section: "31c"
 chapter: 3
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "2 U.S.C. § 31c"
-generated_at: "2026-03-30T04:27:15.225Z"
+generated_at: "2026-03-30T04:29:46.857Z"
 status: "repealed"
 ---
 

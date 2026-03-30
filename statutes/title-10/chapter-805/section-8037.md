@@ -3,9 +3,9 @@ title: "Section 8037 - Judge Advocate General, Deputy Judge Advocate General: ap
 usc_title: 10
 usc_section: "8037"
 chapter: 805
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 8037"
-generated_at: "2026-03-30T04:27:24.803Z"
+generated_at: "2026-03-30T04:29:56.851Z"
 status: "active"
 ---
 

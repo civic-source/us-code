@@ -1,0 +1,15 @@
+---
+title: "Section 970 - Forfeiture of Arkansas pipeline right of way for violation of antitrust law"
+usc_title: 43
+usc_section: "970"
+chapter: 22
+current_through: "PL 114-25"
+classification: "43 U.S.C. § 970"
+generated_at: "2026-03-30T04:31:04.654Z"
+status: "active"
+---
+
+# § 970. Forfeiture of Arkansas pipeline right of way for violation of antitrust law
+
+If any citizen, company, or corporation taking advantage of the benefits of sections 966 to 970 of this title shall violate the Act of July 2, 1890 , entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, (commonly known as the Sherman antitrust act), or any amendment thereof, the right of way granted in sections 966 to 970 of this title shall be forfeited without further action or declaration on the part of the Government or any proceedings or judgment of any court.
+

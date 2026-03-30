@@ -3,9 +3,9 @@ title: "Section 1268 - Great Lakes"
 usc_title: 33
 usc_section: "1268"
 chapter: 26
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "33 U.S.C. § 1268"
-generated_at: "2026-03-30T04:28:56.673Z"
+generated_at: "2026-03-30T04:30:55.648Z"
 status: "active"
 ---
 

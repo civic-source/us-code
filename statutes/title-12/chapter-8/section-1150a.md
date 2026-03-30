@@ -3,9 +3,9 @@ title: "Section 1150a - Farm loans to which chapter is applicable"
 usc_title: 12
 usc_section: "1150a"
 chapter: 8
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 1150a"
-generated_at: "2026-03-30T04:28:13.274Z"
+generated_at: "2026-03-30T04:30:07.151Z"
 status: "active"
 ---
 

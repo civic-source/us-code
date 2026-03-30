@@ -3,9 +3,9 @@ title: "Section 1473 - Revenue and customs or tariff treatment of deep seabed mi
 usc_title: 30
 usc_section: "1473"
 chapter: 26
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "30 U.S.C. § 1473"
-generated_at: "2026-03-30T04:28:34.085Z"
+generated_at: "2026-03-30T04:30:38.400Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 662a - Transmission of annual Coast Guard authorization request"
 usc_title: 14
 usc_section: "662a"
 chapter: 17
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "14 U.S.C. § 662a"
-generated_at: "2026-03-30T04:27:50.070Z"
+generated_at: "2026-03-30T04:29:59.172Z"
 status: "active"
 ---
 

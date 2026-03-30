@@ -3,9 +3,9 @@ title: "Section 3762 - Disposition of sale proceeds"
 usc_title: 12
 usc_section: "3762"
 chapter: 38
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 3762"
-generated_at: "2026-03-30T04:28:13.374Z"
+generated_at: "2026-03-30T04:30:07.243Z"
 status: "active"
 ---
 

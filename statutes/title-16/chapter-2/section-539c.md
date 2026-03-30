@@ -3,9 +3,9 @@ title: "Section 539c - Cooperative fisheries planning; report to Congress"
 usc_title: 16
 usc_section: "539c"
 chapter: 2
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 539c"
-generated_at: "2026-03-30T04:28:23.142Z"
+generated_at: "2026-03-30T04:30:21.097Z"
 status: "active"
 ---
 

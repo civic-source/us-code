@@ -3,9 +3,9 @@ title: "Section 9222 - State distribution of funds; matching requirement"
 usc_title: 20
 usc_section: "9222"
 chapter: 73
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 9222"
-generated_at: "2026-03-30T04:28:19.493Z"
+generated_at: "2026-03-30T04:30:23.840Z"
 status: "active"
 ---
 

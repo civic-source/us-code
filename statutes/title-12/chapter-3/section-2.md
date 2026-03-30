@@ -3,9 +3,9 @@ title: "Section 2 - Interbank liabilities"
 usc_title: 12
 usc_section: "2"
 chapter: 3
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T04:28:13.265Z"
+generated_at: "2026-03-30T04:30:07.142Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The purpose of this section is to limit the risks that the failure of a large depository institution (whether or not that institution is an insured depository institution) would pose to insured depository institutions.
 - **(b)** The Board shall, by regulation or order, prescribe standards that have the effect of limiting the risks posed by an insured depository institution’s exposure to any other depository institution.
 - **(c)**
-  - **(1)** For purposes of subsection (b) of this section, an insured depository institution’s “exposure” to another depository institution means—
+  - **(1)** For purposes of subsection (b), an insured depository institution’s “exposure” to another depository institution means—
     - **(A)** all extensions of credit to the other depository institution, regardless of name or description, including—
       - **(i)** all deposits at the other depository institution;
       - **(ii)** all purchases of securities or other assets from the other depository institution subject to an agreement to repurchase; and

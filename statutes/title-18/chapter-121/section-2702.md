@@ -3,9 +3,9 @@ title: "Section 2702 - Voluntary disclosure of customer communications or record
 usc_title: 18
 usc_section: "2702"
 chapter: 121
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "18 U.S.C. § 2702"
-generated_at: "2026-03-30T04:28:16.580Z"
+generated_at: "2026-03-30T04:30:14.569Z"
 status: "active"
 ---
 
@@ -38,7 +38,8 @@ status: "active"
   - **(5)** to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 2258A; or
   - **(6)** to any person other than a governmental entity.
 - **(d)** On an annual basis, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing—
-  - **(1)** the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8); and
+  - **(1)** the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8);
   - **(2)** a summary of the basis for disclosure in those instances where—
     - **(A)** voluntary disclosures under subsection (b)(8) were made to the Department of Justice; and
-    - **(B)** the investigation pertaining to those disclosures was closed without the filing of criminal charges.
+    - **(B)** the investigation pertaining to those disclosures was closed without the filing of criminal charges; and
+  - **(3)** the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (c)(4).

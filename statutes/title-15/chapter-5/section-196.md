@@ -3,9 +3,9 @@ title: "Section 196 - Payments for rent of offices in foreign countries"
 usc_title: 15
 usc_section: "196"
 chapter: 5
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 196"
-generated_at: "2026-03-30T04:27:46.434Z"
+generated_at: "2026-03-30T04:30:11.311Z"
 status: "active"
 ---
 

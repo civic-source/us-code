@@ -3,9 +3,9 @@ title: "Section 331 - Federal aid for State governments"
 usc_title: 10
 usc_section: "331"
 chapter: 15
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 331"
-generated_at: "2026-03-30T04:27:24.690Z"
+generated_at: "2026-03-30T04:29:56.741Z"
 status: "active"
 ---
 

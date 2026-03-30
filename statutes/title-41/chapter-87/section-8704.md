@@ -3,9 +3,9 @@ title: "Section 8704 - Inspection authority"
 usc_title: 41
 usc_section: "8704"
 chapter: 87
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "41 U.S.C. § 8704"
-generated_at: "2026-03-30T04:29:02.994Z"
+generated_at: "2026-03-30T04:31:06.145Z"
 status: "active"
 ---
 

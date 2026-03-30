@@ -3,9 +3,9 @@ title: "Section 1401f - Omitted"
 usc_title: 48
 usc_section: "1401f"
 chapter: 7
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "48 U.S.C. § 1401f"
-generated_at: "2026-03-30T04:29:19.759Z"
+generated_at: "2026-03-30T04:31:25.294Z"
 status: "omitted"
 ---
 

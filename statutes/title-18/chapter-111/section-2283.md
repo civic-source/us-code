@@ -3,9 +3,9 @@ title: "Section 2283 - Transportation of explosive, biological, chemical, or rad
 usc_title: 18
 usc_section: "2283"
 chapter: 111
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "18 U.S.C. § 2283"
-generated_at: "2026-03-30T04:28:16.576Z"
+generated_at: "2026-03-30T04:30:14.564Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(2)** The term “by-product material” has the meaning given that term in section 11(e) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014(e) ).
   - **(3)** The term “chemical weapon” has the meaning given that term in section 229F(1).
   - **(4)** The term “explosive or incendiary device” has the meaning given the term in section 232(5) and includes explosive materials, as that term is defined in section 841(c) and explosive as defined in section 844(j).
-  - **(5)** The term “nuclear material” has the meaning given that term in section 831(f)(1).
+  - **(5)** The term “nuclear material” has the meaning given that term in section 831(f)(1). 1 1 See References in Text note below.
   - **(6)** The term “radioactive material” means—
     - **(A)** source material and special nuclear material, but does not include natural or depleted uranium;
     - **(B)** nuclear by-product material;

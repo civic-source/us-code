@@ -3,9 +3,9 @@ title: "Section 12893 - Implementation grants"
 usc_title: 42
 usc_section: "12893"
 chapter: 130
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 12893"
-generated_at: "2026-03-30T04:29:17.040Z"
+generated_at: "2026-03-30T04:31:22.296Z"
 status: "active"
 ---
 

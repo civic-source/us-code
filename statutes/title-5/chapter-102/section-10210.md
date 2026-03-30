@@ -3,9 +3,9 @@ title: "Section 10210 - Reporting requirement"
 usc_title: 5
 usc_section: "10210"
 chapter: 102
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "5 U.S.C. § 10210"
-generated_at: "2026-03-30T04:27:17.048Z"
+generated_at: "2026-03-30T04:29:48.563Z"
 status: "active"
 ---
 

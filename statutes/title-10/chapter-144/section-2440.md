@@ -3,9 +3,9 @@ title: "Section 2440 - Technology and industrial base plans"
 usc_title: 10
 usc_section: "2440"
 chapter: 144
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 2440"
-generated_at: "2026-03-30T04:27:24.762Z"
+generated_at: "2026-03-30T04:29:56.811Z"
 status: "active"
 ---
 

@@ -1,0 +1,15 @@
+---
+title: "Section 620b - Congressional intent; additional undesignated projects not precluded; construction not authorized within national park or monument"
+usc_title: 43
+usc_section: "620b"
+chapter: 12
+current_through: "PL 114-25"
+classification: "43 U.S.C. § 620b"
+generated_at: "2026-03-30T04:31:04.643Z"
+status: "active"
+---
+
+# § 620b. Congressional intent; additional undesignated projects not precluded; construction not authorized within national park or monument
+
+It is not the intention of Congress, in authorizing only those projects designated in section 620 of this title , and in authorizing priority in planning only those additional projects designated in section 620a of this title , to limit, restrict, or otherwise interfere with such comprehensive development as will provide for the consumptive use by States of the Upper Colorado River Basin of waters, the use of which is apportioned to the Upper Colorado River Basin by the Colorado River Compact and to each State thereof by the Upper Colorado River Basin Compact, nor to preclude consideration and authorization by the Congress of additional projects under the allocations in the compacts as additional needs are indicated. It is the intention of Congress that no dam or reservoir constructed under the authorization of this chapter shall be within any national park or monument.
+

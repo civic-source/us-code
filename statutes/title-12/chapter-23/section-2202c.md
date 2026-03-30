@@ -3,9 +3,9 @@ title: "Section 2202c - Review of restructuring denials"
 usc_title: 12
 usc_section: "2202c"
 chapter: 23
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 2202c"
-generated_at: "2026-03-30T04:28:13.353Z"
+generated_at: "2026-03-30T04:30:07.224Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(2)** If a special asset group determines under paragraph (1) that a loan under review should be restructured, the group shall prescribe a restructuring plan for the loan that the qualified lender shall implement.
 - **(c)**
   - **(1)** A National Special Asset Council shall be established by the Assistance Board to—
-    - **(A)** monitor compliance with the restructuring requirements of this section by qualified lenders certified to issue preferred stock under section 2278b–7 of this title , and by special asset groups established under subsection (b) of this section; and
+    - **(A)** monitor compliance with the restructuring requirements of this section by qualified lenders certified to issue preferred stock under section 2278b–7 of this title , and by special asset groups established under subsection (b); and
     - **(B)** review a sample of determinations made by each special asset group that a loan will not be restructured.
   - **(2)** The National Special Asset Council shall review a sufficient number of determinations made by each special asset group to foreclose on any loan to assure the Council that such group is complying with this section. With regard to each determination reviewed, the Council shall make an independent judgment on the merits of the decision to foreclose rather than restructure the loan.
   - **(3)** If the National Special Asset Council determines that any special asset group is not in substantial compliance with this section, the Council shall notify the group of the determination, and may take such other action as the Council considers necessary to ensure that such group complies with this section.

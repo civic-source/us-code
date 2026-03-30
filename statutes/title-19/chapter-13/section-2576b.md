@@ -3,9 +3,9 @@ title: "Section 2576b - Subpart definitions"
 usc_title: 19
 usc_section: "2576b"
 chapter: 13
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "19 U.S.C. § 2576b"
-generated_at: "2026-03-30T04:28:17.506Z"
+generated_at: "2026-03-30T04:30:15.559Z"
 status: "active"
 ---
 

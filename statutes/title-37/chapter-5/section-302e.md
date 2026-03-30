@@ -3,9 +3,9 @@ title: "Section 302e - Special pay: nurse anesthetists"
 usc_title: 37
 usc_section: "302e"
 chapter: 5
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "37 U.S.C. § 302e"
-generated_at: "2026-03-30T04:28:58.574Z"
+generated_at: "2026-03-30T04:30:59.531Z"
 status: "active"
 ---
 

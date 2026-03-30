@@ -3,9 +3,9 @@ title: "Section 1751 - Delegate to House of Representatives from Commonwealth of
 usc_title: 48
 usc_section: "1751"
 chapter: 16
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "48 U.S.C. § 1751"
-generated_at: "2026-03-30T04:29:19.767Z"
+generated_at: "2026-03-30T04:31:25.302Z"
 status: "active"
 ---
 

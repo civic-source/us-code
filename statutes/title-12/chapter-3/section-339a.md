@@ -3,9 +3,9 @@ title: "Section 339a - Resolution of clearing banks"
 usc_title: 12
 usc_section: "339a"
 chapter: 3
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 339a"
-generated_at: "2026-03-30T04:28:13.263Z"
+generated_at: "2026-03-30T04:30:07.141Z"
 status: "active"
 ---
 
@@ -14,5 +14,5 @@ status: "active"
 - **(a)**
   - **(1)** The Board may appoint a conservator or receiver to take possession and control of any uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 1 1 See References in Text note below. of this title to the same extent and in the same manner as the Comptroller of the Currency may appoint a conservator or receiver for a national bank.
   - **(2)** The conservator or receiver for an uninsured State member bank referred to in paragraph (1) shall exercise the same powers, functions, and duties, subject to the same limitations, as a conservator or receiver for a national bank.
-- **(b)** The Board shall have the same authority with respect to any conservator or receiver appointed under subsection (a) of this section, and the uninsured State member bank for which the conservator or receiver has been appointed, as the Comptroller of the Currency has with respect to a conservator or receiver for a national bank and the national bank for which the conservator or receiver has been appointed.
+- **(b)** The Board shall have the same authority with respect to any conservator or receiver appointed under subsection (a), and the uninsured State member bank for which the conservator or receiver has been appointed, as the Comptroller of the Currency has with respect to a conservator or receiver for a national bank and the national bank for which the conservator or receiver has been appointed.
 - **(c)** The Board (in the case of an uninsured State member bank which operates, or operates as, such a multilateral clearing organization) may direct a conservator or receiver appointed for the bank to file a petition pursuant to title 11, in which case, title 11 shall apply to the bank in lieu of otherwise applicable Federal or State insolvency law.

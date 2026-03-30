@@ -3,9 +3,9 @@ title: "Section 9685 - Obsolete ordnance: loan to educational institutions and S
 usc_title: 10
 usc_section: "9685"
 chapter: 943
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 9685"
-generated_at: "2026-03-30T04:27:24.809Z"
+generated_at: "2026-03-30T04:29:56.857Z"
 status: "active"
 ---
 

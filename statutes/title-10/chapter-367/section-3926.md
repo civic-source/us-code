@@ -3,9 +3,9 @@ title: "Section 3926 - Computation of years of service: voluntary retirement; re
 usc_title: 10
 usc_section: "3926"
 chapter: 367
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 3926"
-generated_at: "2026-03-30T04:27:24.785Z"
+generated_at: "2026-03-30T04:29:56.833Z"
 status: "active"
 ---
 

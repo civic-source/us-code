@@ -3,9 +3,9 @@ title: "Section 17931 - Application of security provisions and penalties to busi
 usc_title: 42
 usc_section: "17931"
 chapter: 156
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 17931"
-generated_at: "2026-03-30T04:29:17.113Z"
+generated_at: "2026-03-30T04:31:22.389Z"
 status: "active"
 ---
 

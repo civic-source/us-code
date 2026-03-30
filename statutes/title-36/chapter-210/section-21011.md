@@ -3,9 +3,9 @@ title: "Section 21011 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "21011"
 chapter: 210
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "36 U.S.C. § 21011"
-generated_at: "2026-03-30T04:28:59.143Z"
+generated_at: "2026-03-30T04:30:58.390Z"
 status: "active"
 ---
 

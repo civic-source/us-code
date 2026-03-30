@@ -3,9 +3,9 @@ title: "Section 44 - Definitions"
 usc_title: 15
 usc_section: "44"
 chapter: 2
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 44"
-generated_at: "2026-03-30T04:27:46.387Z"
+generated_at: "2026-03-30T04:30:11.266Z"
 status: "active"
 ---
 

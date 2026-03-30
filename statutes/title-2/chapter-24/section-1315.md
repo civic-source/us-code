@@ -3,9 +3,9 @@ title: "Section 1315 - Rights and protections under Worker Adjustment and Retrai
 usc_title: 2
 usc_section: "1315"
 chapter: 24
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "2 U.S.C. § 1315"
-generated_at: "2026-03-30T04:27:15.249Z"
+generated_at: "2026-03-30T04:29:46.878Z"
 status: "active"
 ---
 

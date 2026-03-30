@@ -3,9 +3,9 @@ title: "Section 31342 - Establishing maritime liens"
 usc_title: 46
 usc_section: "31342"
 chapter: 313
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "46 U.S.C. § 31342"
-generated_at: "2026-03-30T04:29:20.464Z"
+generated_at: "2026-03-30T04:31:32.753Z"
 status: "active"
 ---
 

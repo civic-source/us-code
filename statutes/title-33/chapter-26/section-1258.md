@@ -3,9 +3,9 @@ title: "Section 1258 - Pollution control in the Great Lakes"
 usc_title: 33
 usc_section: "1258"
 chapter: 26
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "33 U.S.C. § 1258"
-generated_at: "2026-03-30T04:28:56.673Z"
+generated_at: "2026-03-30T04:30:55.647Z"
 status: "active"
 ---
 

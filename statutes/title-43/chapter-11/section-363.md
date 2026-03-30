@@ -3,9 +3,9 @@ title: "Section 363 - Rules and regulations by Secretary"
 usc_title: 43
 usc_section: "363"
 chapter: 11
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "43 U.S.C. § 363"
-generated_at: "2026-03-30T04:29:02.636Z"
+generated_at: "2026-03-30T04:31:04.620Z"
 status: "active"
 ---
 

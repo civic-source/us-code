@@ -3,9 +3,9 @@ title: "Section 7151a - Jurisdiction over matters transferred from Energy Resear
 usc_title: 42
 usc_section: "7151a"
 chapter: 84
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 7151a"
-generated_at: "2026-03-30T04:29:16.908Z"
+generated_at: "2026-03-30T04:31:22.137Z"
 status: "active"
 ---
 

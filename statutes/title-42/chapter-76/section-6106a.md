@@ -3,9 +3,9 @@ title: "Section 6106a - Reports to the Secretary and Congress"
 usc_title: 42
 usc_section: "6106a"
 chapter: 76
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 6106a"
-generated_at: "2026-03-30T04:29:16.871Z"
+generated_at: "2026-03-30T04:31:22.094Z"
 status: "active"
 ---
 

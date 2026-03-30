@@ -1,0 +1,15 @@
+---
+title: "Section 1471e - Reimbursement of employee license costs and certification fees"
+usc_title: 43
+usc_section: "1471e"
+chapter: 31
+current_through: "PL 114-25"
+classification: "43 U.S.C. § 1471e"
+generated_at: "2026-03-30T04:31:04.667Z"
+status: "active"
+---
+
+# § 1471e. Reimbursement of employee license costs and certification fees
+
+Notwithstanding any other provision of law, in fiscal year 1993 and thereafter, appropriations or funds available to the Department of the Interior or the Forest Service, Department of Agriculture, may be used to reimburse employees for the cost of State licenses and certification fees pursuant to their employment and that are necessary to comply with State or Federal laws, regulations, or requirements.
+

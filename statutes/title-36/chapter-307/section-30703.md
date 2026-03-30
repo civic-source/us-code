@@ -3,9 +3,9 @@ title: "Section 30703 - Membership"
 usc_title: 36
 usc_section: "30703"
 chapter: 307
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "36 U.S.C. § 30703"
-generated_at: "2026-03-30T04:28:59.146Z"
+generated_at: "2026-03-30T04:30:58.394Z"
 status: "active"
 ---
 

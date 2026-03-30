@@ -3,9 +3,9 @@ title: "Section 7420 - Definitions"
 usc_title: 10
 usc_section: "7420"
 chapter: 641
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 7420"
-generated_at: "2026-03-30T04:27:24.799Z"
+generated_at: "2026-03-30T04:29:56.847Z"
 status: "active"
 ---
 

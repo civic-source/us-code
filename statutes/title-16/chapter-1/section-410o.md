@@ -3,9 +3,9 @@ title: "Section 410o - Exchange of land, water, and interests therein"
 usc_title: 16
 usc_section: "410o"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 410o"
-generated_at: "2026-03-30T04:28:23.045Z"
+generated_at: "2026-03-30T04:30:21.036Z"
 status: "active"
 ---
 

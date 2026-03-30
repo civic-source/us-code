@@ -3,9 +3,9 @@ title: "Section 1863 - Applicability of other laws"
 usc_title: 25
 usc_section: "1863"
 chapter: 20
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 1863"
-generated_at: "2026-03-30T04:28:26.965Z"
+generated_at: "2026-03-30T04:30:33.635Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 392 - Consent to or approval of alienation of allotments by Secr
 usc_title: 25
 usc_section: "392"
 chapter: 12
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 392"
-generated_at: "2026-03-30T04:28:26.911Z"
+generated_at: "2026-03-30T04:30:33.577Z"
 status: "active"
 ---
 

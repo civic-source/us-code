@@ -3,9 +3,9 @@ title: "Section 1803 - Designation of judges"
 usc_title: 50
 usc_section: "1803"
 chapter: 36
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 1803"
-generated_at: "2026-03-30T04:29:28.808Z"
+generated_at: "2026-03-30T04:31:33.453Z"
 status: "active"
 ---
 
@@ -40,3 +40,31 @@ status: "active"
     - **(G)** The Permanent Select Committee on Intelligence of the House of Representatives.
   - **(3)** The transmissions required by paragraph (2) shall be submitted in unclassified form, but may include a classified annex.
 - **(h)** Nothing in this chapter shall be construed to reduce or contravene the inherent authority of the court established under subsection (a) to determine or enforce compliance with an order or a rule of such court or with a procedure approved by such court.
+- **(i)**
+  - **(1)** The presiding judges of the courts established under subsections (a) and (b) shall, not later than 180 days after June 2, 2015 , jointly designate not fewer than 5 individuals to be eligible to serve as amicus curiae, who shall serve pursuant to rules the presiding judges may establish. In designating such individuals, the presiding judges may consider individuals recommended by any source, including members of the Privacy and Civil Liberties Oversight Board, the judges determine appropriate.
+  - **(2)** A court established under subsection (a) or (b), consistent with the requirement of subsection (c) and any other statutory requirement that the court act expeditiously or within a stated time—
+    - **(A)** shall appoint an individual who has been designated under paragraph (1) to serve as amicus curiae to assist such court in the consideration of any application for an order or review that, in the opinion of the court, presents a novel or significant interpretation of the law, unless the court issues a finding that such appointment is not appropriate; and
+    - **(B)** may appoint an individual or organization to serve as amicus curiae, including to provide technical expertise, in any instance as such court deems appropriate or, upon motion, permit an individual or organization leave to file an amicus curiae brief.
+  - **(3)**
+    - **(A)** Individuals designated under paragraph (1) shall be persons who possess expertise in privacy and civil liberties, intelligence collection, communications technology, or any other area that may lend legal or technical expertise to a court established under subsection (a) or (b).
+    - **(B)** Individuals designated pursuant to paragraph (1) shall be persons who are determined to be eligible for access to classified information necessary to participate in matters before the courts. Amicus curiae appointed by the court pursuant to paragraph (2) shall be persons who are determined to be eligible for access to classified information, if such access is necessary to participate in the matters in which they may be appointed.
+  - **(4)** If a court established under subsection (a) or (b) appoints an amicus curiae under paragraph (2)(A), the amicus curiae shall provide to the court, as appropriate—
+    - **(A)** legal arguments that advance the protection of individual privacy and civil liberties;
+    - **(B)** information related to intelligence collection or communications technology; or
+    - **(C)** legal arguments or information regarding any other area relevant to the issue presented to the court.
+  - **(5)** An amicus curiae appointed under paragraph (2)(A) may request that the court designate or appoint additional amici curiae pursuant to paragraph (1) or paragraph (2), to be available to assist the amicus curiae.
+  - **(6)**
+    - **(A)** If a court established under subsection (a) or (b) appoints an amicus curiae under paragraph (2), the amicus curiae—
+      - **(i)** shall have access to any legal precedent, application, certification, petition, motion, or such other materials that the court determines are relevant to the duties of the amicus curiae; and
+      - **(ii)** may, if the court determines that it is relevant to the duties of the amicus curiae, consult with any other individuals designated pursuant to paragraph (1) regarding information relevant to any assigned proceeding.
+    - **(B)** The Attorney General may periodically brief or provide relevant materials to individuals designated pursuant to paragraph (1) regarding constructions and interpretations of this chapter and legal, technological, and other issues related to actions authorized by this chapter.
+    - **(C)** An amicus curiae designated or appointed by the court may have access to classified documents, information, and other materials or proceedings only if that individual is eligible for access to classified information and to the extent consistent with the national security of the United States.
+    - **(D)** Nothing in this section shall be construed to require the Government to provide information to an amicus curiae appointed by the court that is privileged from disclosure.
+  - **(7)** A presiding judge of a court established under subsection (a) or (b) shall notify the Attorney General of each exercise of the authority to appoint an individual to serve as amicus curiae under paragraph (2).
+  - **(8)** A court established under subsection (a) or (b) may request and receive (including on a nonreimbursable basis) the assistance of the executive branch in the implementation of this subsection.
+  - **(9)** A court established under subsection (a) or (b) may provide for the designation, appointment, removal, training, or other support for an individual designated to serve as amicus curiae under paragraph (1) or appointed to serve as amicus curiae under paragraph (2) in a manner that is not inconsistent with this subsection.
+  - **(10)** Nothing in this subsection shall limit the ability of a court established under subsection (a) or (b) to request or receive information or materials from, or otherwise communicate with, the Government or amicus curiae appointed under paragraph (2) on an ex parte basis, nor limit any special or heightened obligation in any ex parte communication or proceeding.
+- **(j)** Following issuance of an order under this chapter, a court established under subsection (a) shall certify for review to the court established under subsection (b) any question of law that may affect resolution of the matter in controversy that the court determines warrants such review because of a need for uniformity or because consideration by the court established under subsection (b) would serve the interests of justice. Upon certification of a question of law under this subsection, the court established under subsection (b) may give binding instructions or require the entire record to be sent up for decision of the entire matter in controversy.
+- **(k)**
+  - **(1)** For purposes of section 1254(2) of title 28 , the court of review established under subsection (b) shall be considered to be a court of appeals.
+  - **(2)** Upon certification of an application under paragraph (1), the Supreme Court of the United States may appoint an amicus curiae designated under subsection (i)(1), or any other person, to provide briefing or other assistance.

@@ -3,9 +3,9 @@ title: "Section 46304 - Liens on aircraft"
 usc_title: 49
 usc_section: "46304"
 chapter: 463
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "49 U.S.C. § 46304"
-generated_at: "2026-03-30T04:29:23.989Z"
+generated_at: "2026-03-30T04:31:28.372Z"
 status: "active"
 ---
 

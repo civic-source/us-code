@@ -3,9 +3,9 @@ title: "Section 156 - Deposit of funds from sales of lands and property of Five 
 usc_title: 25
 usc_section: "156"
 chapter: 4
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 156"
-generated_at: "2026-03-30T04:28:26.906Z"
+generated_at: "2026-03-30T04:30:33.571Z"
 status: "active"
 ---
 

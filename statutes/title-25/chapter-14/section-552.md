@@ -3,9 +3,9 @@ title: "Section 552 - Payments in lieu of allotments"
 usc_title: 25
 usc_section: "552"
 chapter: 14
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 552"
-generated_at: "2026-03-30T04:28:26.922Z"
+generated_at: "2026-03-30T04:30:33.588Z"
 status: "active"
 ---
 

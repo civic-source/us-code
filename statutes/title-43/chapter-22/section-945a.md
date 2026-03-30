@@ -1,0 +1,15 @@
+---
+title: "Section 945a - Compensation for rights-of-way for certain reclamation projects"
+usc_title: 43
+usc_section: "945a"
+chapter: 22
+current_through: "PL 114-25"
+classification: "43 U.S.C. § 945a"
+generated_at: "2026-03-30T04:31:04.653Z"
+status: "active"
+---
+
+# § 945a. Compensation for rights-of-way for certain reclamation projects
+
+Notwithstanding the existence of any reservation of right-of-way to the United States for canals under section 945 of this title , or any State statute, the Secretary of the Interior shall pay just compensation, including severance damages, to the owners of private land utilized for ditches or canals in connection with any reclamation project, or any unit or any division of a reclamation project, provided the construction of said ditches or canals commenced after January 1, 1961 , and such compensation shall be paid notwithstanding the execution of any agreements or any judgments entered in any condemnation proceeding, prior to September 2, 1964 .
+

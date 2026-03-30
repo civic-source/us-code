@@ -3,9 +3,9 @@ title: "Section 5 - Mandatory actions applicable to level II"
 usc_title: 12
 usc_section: "5"
 chapter: 23
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-30T04:28:13.361Z"
+generated_at: "2026-03-30T04:30:07.232Z"
 status: "active"
 ---
 

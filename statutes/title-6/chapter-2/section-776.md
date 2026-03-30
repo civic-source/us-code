@@ -3,9 +3,9 @@ title: "Section 776 - Individuals and households pilot program"
 usc_title: 6
 usc_section: "776"
 chapter: 2
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "6 U.S.C. § 776"
-generated_at: "2026-03-30T04:27:39.423Z"
+generated_at: "2026-03-30T04:29:52.431Z"
 status: "active"
 ---
 

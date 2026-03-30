@@ -3,9 +3,9 @@ title: "Section 32 - Management; provisions applicable"
 usc_title: 16
 usc_section: "32"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 32"
-generated_at: "2026-03-30T04:28:23.123Z"
+generated_at: "2026-03-30T04:30:21.080Z"
 status: "active"
 ---
 

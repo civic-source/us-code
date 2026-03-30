@@ -3,16 +3,16 @@ title: "Section 657q - Consolidation of contract requirements"
 usc_title: 15
 usc_section: "657q"
 chapter: 14
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 657q"
-generated_at: "2026-03-30T04:27:46.460Z"
+generated_at: "2026-03-30T04:30:11.335Z"
 status: "active"
 ---
 
 # § 657q. Consolidation of contract requirements
 
 - **(a)** In this section—
-  - **(1)** the term “Chief Acquisition Officer” means the employee of a Federal agency appointed or designated as the Chief Acquisition Officer for the Federal agency under section section 1702(a) of title 41 ;
+  - **(1)** the term “Chief Acquisition Officer” means the employee of a Federal agency appointed or designated as the Chief Acquisition Officer for the Federal agency under section 1702(a) of title 41 ;
   - **(2)** the term “consolidation of contract requirements”, with respect to contract requirements of a Federal agency, means a use of a solicitation to obtain offers for a single contract or a multiple award contract—
     - **(A)** to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; or
     - **(B)** to satisfy requirements of the Federal agency for construction projects to be performed at 2 or more discrete sites; and

@@ -3,9 +3,9 @@ title: "Section 489 - Repealed. Aug. 1, 1956, ch. 837 , title V, § 502(8)(A), 7
 usc_title: 14
 usc_section: "489"
 chapter: 13
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "14 U.S.C. § 489"
-generated_at: "2026-03-30T04:27:50.068Z"
+generated_at: "2026-03-30T04:29:59.170Z"
 status: "repealed"
 ---
 

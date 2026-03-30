@@ -3,9 +3,9 @@ title: "Section 1701q - Supportive housing for the elderly"
 usc_title: 12
 usc_section: "1701q"
 chapter: 13
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 1701q"
-generated_at: "2026-03-30T04:28:13.289Z"
+generated_at: "2026-03-30T04:30:07.163Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
     - **(A)** The Secretary shall establish procedures to delegate the award, review and processing of projects, selected by the Secretary in a national competition, to a State or local housing agency that—
       - **(i)** is in geographic proximity to the property;
       - **(ii)** has demonstrated experience in and capacity for underwriting multifamily housing loans that provide housing and supportive services;
-      - **(iii)** may or may not be providing low-income housing tax credits in combination with the funding under this section;
+      - **(iii)** may or may not be providing low-income housing tax credits in combination with the funding under this section; and
       - **(iv)** agrees to issue a firm commitment within 12 months of delegation.
     - **(B)** The Secretary shall retain the authority to process funding under this section in cases in which no State or local housing agency has applied to provide delegated processing pursuant to this paragraph or no such agency has entered into an agreement with the Secretary to serve as a delegated processing agency.
     - **(C)** The Secretary shall develop a schedule for reasonable fees under this subparagraph to be paid to delegated processing agencies, which shall take into consideration any other fees to be paid to the agency for other funding provided to the project by the agency, including bonds, tax credits, and other gap funding.

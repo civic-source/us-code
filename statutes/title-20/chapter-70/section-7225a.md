@@ -3,9 +3,9 @@ title: "Section 7225a - Uses of funds"
 usc_title: 20
 usc_section: "7225a"
 chapter: 70
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 7225a"
-generated_at: "2026-03-30T04:28:19.475Z"
+generated_at: "2026-03-30T04:30:23.823Z"
 status: "active"
 ---
 

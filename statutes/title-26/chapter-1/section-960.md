@@ -3,9 +3,9 @@ title: "Section 960 - Special rules for foreign tax credit"
 usc_title: 26
 usc_section: "960"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "26 U.S.C. § 960"
-generated_at: "2026-03-30T04:28:52.825Z"
+generated_at: "2026-03-30T04:30:50.352Z"
 status: "active"
 ---
 

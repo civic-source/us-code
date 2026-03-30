@@ -3,9 +3,9 @@ title: "Section 773 - Computations at partnership level"
 usc_title: 26
 usc_section: "773"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "26 U.S.C. § 773"
-generated_at: "2026-03-30T04:28:52.804Z"
+generated_at: "2026-03-30T04:30:50.318Z"
 status: "active"
 ---
 

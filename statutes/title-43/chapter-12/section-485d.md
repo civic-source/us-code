@@ -1,0 +1,16 @@
+---
+title: "Section 485d - Time of payments to the United States"
+usc_title: 43
+usc_section: "485d"
+chapter: 12
+current_through: "PL 114-25"
+classification: "43 U.S.C. § 485d"
+generated_at: "2026-03-30T04:31:04.635Z"
+status: "active"
+---
+
+# § 485d. Time of payments to the United States
+
+  - **(1)** that the payments for each year to be made to the United States shall become due and payable on such date or dates, not exceeding two, in each year as the Secretary determines will be substantially contemporaneous with the time or times in each year when water users receive crop returns and
+  - **(2)** if the contract be with an organization, that assessments or levies for the purpose of obtaining moneys sufficient to meet the organization’s payments under said contract shall be made and shall become due and payable within a certain period or periods of time prior to the date or dates on which the organization’s payments to the United States are due and payable, said period or periods of time to be agreed upon in each said contract. The Secretary may provide such deferments of construction charges as in his judgment are necessary to prevent said requirements from resulting in inequitable pyramiding of payments of said charges.
+

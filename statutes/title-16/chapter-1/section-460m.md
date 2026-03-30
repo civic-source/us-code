@@ -3,9 +3,9 @@ title: "Section 460m - Establishment"
 usc_title: 16
 usc_section: "460m"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 460m"
-generated_at: "2026-03-30T04:28:23.110Z"
+generated_at: "2026-03-30T04:30:21.068Z"
 status: "active"
 ---
 

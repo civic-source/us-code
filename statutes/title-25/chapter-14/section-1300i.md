@@ -3,9 +3,9 @@ title: "Section 1300i - Short title and definitions"
 usc_title: 25
 usc_section: "1300i"
 chapter: 14
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 1300i"
-generated_at: "2026-03-30T04:28:26.942Z"
+generated_at: "2026-03-30T04:30:33.610Z"
 status: "active"
 ---
 

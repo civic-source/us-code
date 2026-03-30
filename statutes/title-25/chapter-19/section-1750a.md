@@ -3,9 +3,9 @@ title: "Section 1750a - Definitions"
 usc_title: 25
 usc_section: "1750a"
 chapter: 19
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 1750a"
-generated_at: "2026-03-30T04:28:26.958Z"
+generated_at: "2026-03-30T04:30:33.627Z"
 status: "active"
 ---
 

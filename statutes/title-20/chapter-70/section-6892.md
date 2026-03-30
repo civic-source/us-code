@@ -3,9 +3,9 @@ title: "Section 6892 - Purpose"
 usc_title: 20
 usc_section: "6892"
 chapter: 70
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "20 U.S.C. § 6892"
-generated_at: "2026-03-30T04:28:19.469Z"
+generated_at: "2026-03-30T04:30:23.815Z"
 status: "active"
 ---
 

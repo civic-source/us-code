@@ -3,9 +3,9 @@ title: "Section 1373 - Regulations on taking of marine mammals"
 usc_title: 16
 usc_section: "1373"
 chapter: 31
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 1373"
-generated_at: "2026-03-30T04:28:23.206Z"
+generated_at: "2026-03-30T04:30:21.157Z"
 status: "active"
 ---
 

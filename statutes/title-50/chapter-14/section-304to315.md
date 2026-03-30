@@ -3,9 +3,9 @@ title: "Section 304to315 - Repealed. Apr. 1, 1944, ch. 150 , 58 Stat. 136"
 usc_title: 50
 usc_section: "304to315"
 chapter: 14
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "50 U.S.C. § 304to315"
-generated_at: "2026-03-30T04:29:28.803Z"
+generated_at: "2026-03-30T04:31:33.447Z"
 status: "repealed"
 ---
 

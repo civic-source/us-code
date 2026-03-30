@@ -3,9 +3,9 @@ title: "Section 8313 - Absence from the United States to avoid prosecution"
 usc_title: 5
 usc_section: "8313"
 chapter: 83
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "5 U.S.C. § 8313"
-generated_at: "2026-03-30T04:27:17.027Z"
+generated_at: "2026-03-30T04:29:48.542Z"
 status: "active"
 ---
 

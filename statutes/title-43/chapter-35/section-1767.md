@@ -1,0 +1,15 @@
+---
+title: "Section 1767 - Rights-of-way for Federal departments and agencies"
+usc_title: 43
+usc_section: "1767"
+chapter: 35
+current_through: "PL 114-25"
+classification: "43 U.S.C. § 1767"
+generated_at: "2026-03-30T04:31:04.691Z"
+status: "active"
+---
+
+# § 1767. Rights-of-way for Federal departments and agencies
+
+- **(a)** The Secretary concerned may provide under applicable provisions of this subchapter for the use of any department or agency of the United States a right-of-way over, upon, under or through the land administered by him, subject to such terms and conditions as he may impose.
+- **(b)** Where a right-of-way has been reserved for the use of any department or agency of the United States, the Secretary shall take no action to terminate, or otherwise limit, that use without the consent of the head of such department or agency.

@@ -3,9 +3,9 @@ title: "Section 950q - Principals"
 usc_title: 10
 usc_section: "950q"
 chapter: 47
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 950q"
-generated_at: "2026-03-30T04:27:24.710Z"
+generated_at: "2026-03-30T04:29:56.760Z"
 status: "active"
 ---
 

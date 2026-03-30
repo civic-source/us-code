@@ -3,9 +3,9 @@ title: "Section 1283 - Plans, specifications, estimates, and payments"
 usc_title: 33
 usc_section: "1283"
 chapter: 26
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "33 U.S.C. § 1283"
-generated_at: "2026-03-30T04:28:56.675Z"
+generated_at: "2026-03-30T04:30:55.652Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30508 - Provisions requiring notice of claim or limiting time fo
 usc_title: 46
 usc_section: "30508"
 chapter: 305
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "46 U.S.C. § 30508"
-generated_at: "2026-03-30T04:29:20.462Z"
+generated_at: "2026-03-30T04:31:32.752Z"
 status: "active"
 ---
 

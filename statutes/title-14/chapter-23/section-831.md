@@ -3,9 +3,9 @@ title: "Section 831 - Assignment and performance of duties"
 usc_title: 14
 usc_section: "831"
 chapter: 23
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "14 U.S.C. § 831"
-generated_at: "2026-03-30T04:27:50.072Z"
+generated_at: "2026-03-30T04:29:59.173Z"
 status: "active"
 ---
 

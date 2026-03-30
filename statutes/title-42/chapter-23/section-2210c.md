@@ -3,9 +3,9 @@ title: "Section 2210c - Elimination of pension offset for certain rehired Federa
 usc_title: 42
 usc_section: "2210c"
 chapter: 23
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 2210c"
-generated_at: "2026-03-30T04:29:16.782Z"
+generated_at: "2026-03-30T04:31:21.984Z"
 status: "active"
 ---
 

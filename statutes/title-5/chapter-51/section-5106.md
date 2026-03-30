@@ -3,9 +3,9 @@ title: "Section 5106 - Basis for classifying positions"
 usc_title: 5
 usc_section: "5106"
 chapter: 51
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "5 U.S.C. § 5106"
-generated_at: "2026-03-30T04:27:17.003Z"
+generated_at: "2026-03-30T04:29:48.521Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8462 - Cost-of-living adjustments"
 usc_title: 5
 usc_section: "8462"
 chapter: 84
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "5 U.S.C. § 8462"
-generated_at: "2026-03-30T04:27:17.039Z"
+generated_at: "2026-03-30T04:29:48.554Z"
 status: "active"
 ---
 

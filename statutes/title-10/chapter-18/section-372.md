@@ -3,9 +3,9 @@ title: "Section 372 - Use of military equipment and facilities"
 usc_title: 10
 usc_section: "372"
 chapter: 18
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 372"
-generated_at: "2026-03-30T04:27:24.691Z"
+generated_at: "2026-03-30T04:29:56.741Z"
 status: "active"
 ---
 

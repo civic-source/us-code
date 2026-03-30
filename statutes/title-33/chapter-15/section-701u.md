@@ -3,9 +3,9 @@ title: "Section 701u - International engineering or scientific conferences; atte
 usc_title: 33
 usc_section: "701u"
 chapter: 15
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "33 U.S.C. § 701u"
-generated_at: "2026-03-30T04:28:56.660Z"
+generated_at: "2026-03-30T04:30:55.628Z"
 status: "active"
 ---
 

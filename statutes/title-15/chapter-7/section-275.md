@@ -3,9 +3,9 @@ title: "Section 275 - Appointment of officers and employees"
 usc_title: 15
 usc_section: "275"
 chapter: 7
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 275"
-generated_at: "2026-03-30T04:27:46.437Z"
+generated_at: "2026-03-30T04:30:11.313Z"
 status: "active"
 ---
 

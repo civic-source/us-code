@@ -3,9 +3,9 @@ title: "Section 1261 - Distribution of funds; attorney fees and expenses"
 usc_title: 25
 usc_section: "1261"
 chapter: 14
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 1261"
-generated_at: "2026-03-30T04:28:26.940Z"
+generated_at: "2026-03-30T04:30:33.608Z"
 status: "active"
 ---
 

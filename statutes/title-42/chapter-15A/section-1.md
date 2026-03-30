@@ -3,9 +3,9 @@ title: "Section 1 - Reciprocal agreements with liability coverage"
 usc_title: 42
 usc_section: "1"
 chapter: 15
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T04:29:16.755Z"
+generated_at: "2026-03-30T04:31:21.949Z"
 status: "active"
 ---
 

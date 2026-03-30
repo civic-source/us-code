@@ -3,9 +3,9 @@ title: "Section 2108 - Veteran; disabled veteran; preference eligible"
 usc_title: 5
 usc_section: "2108"
 chapter: 21
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "5 U.S.C. § 2108"
-generated_at: "2026-03-30T04:27:16.994Z"
+generated_at: "2026-03-30T04:29:48.512Z"
 status: "active"
 ---
 

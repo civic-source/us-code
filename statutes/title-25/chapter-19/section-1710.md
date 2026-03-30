@@ -3,9 +3,9 @@ title: "Section 1710 - Authorization of appropriations"
 usc_title: 25
 usc_section: "1710"
 chapter: 19
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 1710"
-generated_at: "2026-03-30T04:28:26.957Z"
+generated_at: "2026-03-30T04:30:33.626Z"
 status: "active"
 ---
 

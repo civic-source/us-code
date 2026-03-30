@@ -3,9 +3,9 @@ title: "Section 4d - Plants, machinery, and equipment"
 usc_title: 30
 usc_section: "4d"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "30 U.S.C. § 4d"
-generated_at: "2026-03-30T04:28:34.055Z"
+generated_at: "2026-03-30T04:30:38.367Z"
 status: "active"
 ---
 

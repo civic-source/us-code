@@ -3,9 +3,9 @@ title: "Section 9448 - Regulations"
 usc_title: 10
 usc_section: "9448"
 chapter: 909
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 9448"
-generated_at: "2026-03-30T04:27:24.808Z"
+generated_at: "2026-03-30T04:29:56.856Z"
 status: "active"
 ---
 

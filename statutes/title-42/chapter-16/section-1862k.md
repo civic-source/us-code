@@ -3,9 +3,9 @@ title: "Section 1862k - Findings; core strategies"
 usc_title: 42
 usc_section: "1862k"
 chapter: 16
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 1862k"
-generated_at: "2026-03-30T04:29:16.755Z"
+generated_at: "2026-03-30T04:31:21.950Z"
 status: "active"
 ---
 

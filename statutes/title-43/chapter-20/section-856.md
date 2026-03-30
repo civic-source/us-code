@@ -1,0 +1,15 @@
+---
+title: "Section 856 - Selection of school lands on ceded Indian reservations"
+usc_title: 43
+usc_section: "856"
+chapter: 20
+current_through: "PL 114-25"
+classification: "43 U.S.C. § 856"
+generated_at: "2026-03-30T04:31:04.649Z"
+status: "active"
+---
+
+# § 856. Selection of school lands on ceded Indian reservations
+
+Any State or Territory entitled to indemnity school lands or entitled to select lands for educational purposes under law existing prior to March 2, 1895 , may select such lands within the boundaries of any Indian reservation in such State or Territory from the surplus lands thereof, purchased by the United States after allotments have been made to the Indians of such reservation, and prior to the opening of such reservation to settlement.
+

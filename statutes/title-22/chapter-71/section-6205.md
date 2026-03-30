@@ -3,9 +3,9 @@ title: "Section 6205 - Role of Secretary of State"
 usc_title: 22
 usc_section: "6205"
 chapter: 71
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "22 U.S.C. § 6205"
-generated_at: "2026-03-30T04:28:29.115Z"
+generated_at: "2026-03-30T04:30:30.134Z"
 status: "active"
 ---
 

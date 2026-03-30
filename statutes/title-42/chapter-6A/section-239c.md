@@ -3,9 +3,9 @@ title: "Section 239c - Medical benefits"
 usc_title: 42
 usc_section: "239c"
 chapter: 6
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 239c"
-generated_at: "2026-03-30T04:29:16.432Z"
+generated_at: "2026-03-30T04:31:21.549Z"
 status: "active"
 ---
 

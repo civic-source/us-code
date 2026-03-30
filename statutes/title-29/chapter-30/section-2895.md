@@ -3,9 +3,9 @@ title: "Section 2895 - Advisory committees"
 usc_title: 29
 usc_section: "2895"
 chapter: 30
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "29 U.S.C. § 2895"
-generated_at: "2026-03-30T04:28:33.777Z"
+generated_at: "2026-03-30T04:30:39.359Z"
 status: "active"
 ---
 

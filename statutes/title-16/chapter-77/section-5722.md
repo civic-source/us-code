@@ -3,9 +3,9 @@ title: "Section 5722 - Advisory committee"
 usc_title: 16
 usc_section: "5722"
 chapter: 77
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 5722"
-generated_at: "2026-03-30T04:28:23.265Z"
+generated_at: "2026-03-30T04:30:21.212Z"
 status: "active"
 ---
 

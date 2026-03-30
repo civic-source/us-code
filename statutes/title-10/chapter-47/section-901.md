@@ -3,9 +3,9 @@ title: "Section 901 - Art. 101. Improper use of countersign"
 usc_title: 10
 usc_section: "901"
 chapter: 47
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 901"
-generated_at: "2026-03-30T04:27:24.706Z"
+generated_at: "2026-03-30T04:29:56.756Z"
 status: "active"
 ---
 

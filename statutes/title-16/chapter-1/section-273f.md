@@ -3,9 +3,9 @@ title: "Section 273f - Authorization of appropriations"
 usc_title: 16
 usc_section: "273f"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 273f"
-generated_at: "2026-03-30T04:28:23.037Z"
+generated_at: "2026-03-30T04:30:21.028Z"
 status: "active"
 ---
 

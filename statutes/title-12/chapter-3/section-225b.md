@@ -3,9 +3,9 @@ title: "Section 225b - Appearances before and reports to the Congress"
 usc_title: 12
 usc_section: "225b"
 chapter: 3
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 225b"
-generated_at: "2026-03-30T04:28:13.259Z"
+generated_at: "2026-03-30T04:30:07.139Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** The Chairman of the Board shall appear before the Congress at semi-annual hearings, as specified in paragraph (2), regarding—
     - **(A)** the efforts, activities, objectives and plans of the Board and the Federal Open Market Committee with respect to the conduct of monetary policy; and
-    - **(B)** economic developments and prospects for the future described in the report required in subsection (b) of this section.
+    - **(B)** economic developments and prospects for the future described in the report required in subsection (b).
   - **(2)** The Chairman of the Board shall appear—
     - **(A)** before the Committee on Banking and Financial Services of the House of Representatives on or about February 20 of even numbered calendar years and on or about July 20 of odd numbered calendar years;
     - **(B)** before the Committee on Banking, Housing, and Urban Affairs of the Senate on or about July 20 of even numbered calendar years and on or about February 20 of odd numbered calendar years; and

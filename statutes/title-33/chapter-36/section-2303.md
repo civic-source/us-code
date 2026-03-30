@@ -3,9 +3,9 @@ title: "Section 2303 - Historical properties"
 usc_title: 33
 usc_section: "2303"
 chapter: 36
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "33 U.S.C. § 2303"
-generated_at: "2026-03-30T04:28:56.700Z"
+generated_at: "2026-03-30T04:30:55.695Z"
 status: "active"
 ---
 

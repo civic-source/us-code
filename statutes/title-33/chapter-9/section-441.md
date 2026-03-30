@@ -3,9 +3,9 @@ title: "Section 441 - Deposit of refuse prohibited; penalty"
 usc_title: 33
 usc_section: "441"
 chapter: 9
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "33 U.S.C. § 441"
-generated_at: "2026-03-30T04:28:56.650Z"
+generated_at: "2026-03-30T04:30:55.611Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1681p - Jurisdiction of courts; limitation of actions"
 usc_title: 15
 usc_section: "1681p"
 chapter: 41
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 1681p"
-generated_at: "2026-03-30T04:27:46.533Z"
+generated_at: "2026-03-30T04:30:11.375Z"
 status: "active"
 ---
 

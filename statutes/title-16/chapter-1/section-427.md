@@ -3,9 +3,9 @@ title: "Section 427 - Site of battle with Sioux Indians; purchase; erection of m
 usc_title: 16
 usc_section: "427"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 427"
-generated_at: "2026-03-30T04:28:23.095Z"
+generated_at: "2026-03-30T04:30:21.054Z"
 status: "active"
 ---
 

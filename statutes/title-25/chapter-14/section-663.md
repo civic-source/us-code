@@ -3,9 +3,9 @@ title: "Section 663 - Rules and regulations; filing deadline"
 usc_title: 25
 usc_section: "663"
 chapter: 14
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 663"
-generated_at: "2026-03-30T04:28:26.927Z"
+generated_at: "2026-03-30T04:30:33.594Z"
 status: "active"
 ---
 

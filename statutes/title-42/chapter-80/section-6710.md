@@ -3,9 +3,9 @@ title: "Section 6710 - Authorization of appropriations"
 usc_title: 42
 usc_section: "6710"
 chapter: 80
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 6710"
-generated_at: "2026-03-30T04:29:16.892Z"
+generated_at: "2026-03-30T04:31:22.117Z"
 status: "active"
 ---
 

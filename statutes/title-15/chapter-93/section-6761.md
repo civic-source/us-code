@@ -1,15 +1,15 @@
 ---
-title: "Section 6761 - Liability of the Association and the directors, officers, and employees of the Association"
+title: "Section 6761 - Coordination with Financial Industry Regulatory Authority"
 usc_title: 15
 usc_section: "6761"
 chapter: 93
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "15 U.S.C. § 6761"
-generated_at: "2026-03-30T04:27:46.588Z"
+generated_at: "2026-03-30T04:30:11.426Z"
 status: "active"
 ---
 
-# § 6761. Liability of the Association and the directors, officers, and employees of the Association
+# § 6761. Coordination with Financial Industry Regulatory Authority
 
-- **(a)** The Association shall not be deemed to be an insurer or insurance producer within the meaning of any State law, rule, regulation, or order regulating or taxing insurers, insurance producers, or other entities engaged in the business of insurance, including provisions imposing premium taxes, regulating insurer solvency or financial condition, establishing guaranty funds and levying assessments, or requiring claims settlement practices.
-- **(b)** Neither the Association nor any of its directors, officers, or employees shall have any liability to any person for any action taken or omitted in good faith under or in connection with any matter subject to this subchapter.
+The Association shall coordinate with the Financial Industry Regulatory Authority in order to ease any administrative burdens that fall on members of the Association that are subject to regulation by the Financial Industry Regulatory Authority, consistent with the requirements of this subchapter and the Federal securities laws.
+

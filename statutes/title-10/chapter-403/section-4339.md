@@ -3,9 +3,9 @@ title: "Section 4339 - Repealed. Pub. L. 89–716, § 1 , Nov. 2, 1966 , 80 Stat
 usc_title: 10
 usc_section: "4339"
 chapter: 403
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 4339"
-generated_at: "2026-03-30T04:27:24.786Z"
+generated_at: "2026-03-30T04:29:56.834Z"
 status: "repealed"
 ---
 

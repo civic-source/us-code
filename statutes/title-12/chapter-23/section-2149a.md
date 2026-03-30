@@ -3,9 +3,9 @@ title: "Section 2149a - Reports by merged banks for cooperatives"
 usc_title: 12
 usc_section: "2149a"
 chapter: 23
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "12 U.S.C. § 2149a"
-generated_at: "2026-03-30T04:28:13.352Z"
+generated_at: "2026-03-30T04:30:07.223Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
   - **(1)** analyzes the effect of the merger;
   - **(2)** includes a breakdown of loans outstanding according to the size of the cooperative stockholders of the bank; and
   - **(3)** describes the adequacy of credit and other assistance services provided to smaller cooperatives.
-- **(b)** A copy of the report required in subsection (a) of this section shall be made available to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+- **(b)** A copy of the report required in subsection (a) shall be made available to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.

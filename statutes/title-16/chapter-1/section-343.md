@@ -3,9 +3,9 @@ title: "Section 343 - Acceptance of property on Mount Desert Island"
 usc_title: 16
 usc_section: "343"
 chapter: 1
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "16 U.S.C. § 343"
-generated_at: "2026-03-30T04:28:23.038Z"
+generated_at: "2026-03-30T04:30:21.029Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450d - Criminal activities involving grants, contracts, etc.; pe
 usc_title: 25
 usc_section: "450d"
 chapter: 14
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "25 U.S.C. § 450d"
-generated_at: "2026-03-30T04:28:26.914Z"
+generated_at: "2026-03-30T04:30:33.580Z"
 status: "active"
 ---
 

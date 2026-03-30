@@ -3,9 +3,9 @@ title: "Section 1905 - Distribution to depositories; designation of additional l
 usc_title: 44
 usc_section: "1905"
 chapter: 19
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "44 U.S.C. § 1905"
-generated_at: "2026-03-30T04:29:04.586Z"
+generated_at: "2026-03-30T04:31:03.903Z"
 status: "active"
 ---
 

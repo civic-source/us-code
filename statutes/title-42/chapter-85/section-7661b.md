@@ -3,9 +3,9 @@ title: "Section 7661b - Permit applications"
 usc_title: 42
 usc_section: "7661b"
 chapter: 85
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "42 U.S.C. § 7661b"
-generated_at: "2026-03-30T04:29:16.945Z"
+generated_at: "2026-03-30T04:31:22.180Z"
 status: "active"
 ---
 

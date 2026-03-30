@@ -3,9 +3,9 @@ title: "Section 165 - Transferred"
 usc_title: 43
 usc_section: "165"
 chapter: 7
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "43 U.S.C. § 165"
-generated_at: "2026-03-30T04:29:02.634Z"
+generated_at: "2026-03-30T04:31:04.614Z"
 status: "transferred"
 ---
 

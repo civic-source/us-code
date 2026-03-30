@@ -3,9 +3,9 @@ title: "Section 7213 - Repealed. Pub. L. 103–160, div. A, title VIII, § 824(a
 usc_title: 10
 usc_section: "7213"
 chapter: 631
-current_through: "PL 114-22"
+current_through: "PL 114-25"
 classification: "10 U.S.C. § 7213"
-generated_at: "2026-03-30T04:27:24.798Z"
+generated_at: "2026-03-30T04:29:56.846Z"
 status: "repealed"
 ---
 
