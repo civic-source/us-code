@@ -3,9 +3,9 @@ title: "Section 7915 - Producer agreement required as condition of provision of 
 usc_title: 7
 usc_section: "7915"
 chapter: 106
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 7915"
-generated_at: "2026-03-30T02:38:22.729Z"
+generated_at: "2026-03-30T02:42:50.899Z"
 ---
 
 # § 7915. Producer agreement required as condition of provision of direct payments and counter-cyclical payments

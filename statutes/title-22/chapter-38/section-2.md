@@ -3,9 +3,9 @@ title: "Section 2 - Facilitating access to Department of State"
 usc_title: 22
 usc_section: "2"
 chapter: 38
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T02:39:30.630Z"
+generated_at: "2026-03-30T02:44:42.886Z"
 ---
 
 # § 2680–2. Facilitating access to Department of State

@@ -3,9 +3,9 @@ title: "Section 5603 - Establishment of Morris K. Udall and Stewart L. Udall Fou
 usc_title: 20
 usc_section: "5603"
 chapter: 66
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 5603"
-generated_at: "2026-03-30T02:39:22.367Z"
+generated_at: "2026-03-30T02:43:39.282Z"
 ---
 
 # § 5603. Establishment of Morris K. Udall and Stewart L. Udall Foundation

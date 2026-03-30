@@ -3,9 +3,9 @@ title: "Section 5332a - Special base rates of pay for wildland firefighters"
 usc_title: 5
 usc_section: "5332a"
 chapter: 53
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 5332a"
-generated_at: "2026-03-30T02:38:10.799Z"
+generated_at: "2026-03-30T02:42:23.333Z"
 ---
 
 # § 5332a. Special base rates of pay for wildland firefighters

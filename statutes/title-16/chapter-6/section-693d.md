@@ -3,9 +3,9 @@ title: "Section 693d - Cooperation with public and private agencies; contributio
 usc_title: 16
 usc_section: "693d"
 chapter: 6
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 693d"
-generated_at: "2026-03-30T02:39:18.020Z"
+generated_at: "2026-03-30T02:43:50.371Z"
 ---
 
 # § 693d. Cooperation with public and private agencies; contributions and gifts for Robert S. Kerr Center

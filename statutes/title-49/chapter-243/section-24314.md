@@ -3,9 +3,9 @@ title: "Section 24314 - Repealed. Pub. L. 105–134, title IV, § 404 , Dec. 2, 
 usc_title: 49
 usc_section: "24314"
 chapter: 243
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "49 U.S.C. § 24314"
-generated_at: "2026-03-30T02:41:31.804Z"
+generated_at: "2026-03-30T02:46:14.239Z"
 ---
 
 # [§ 24314. Repealed. Pub. L. 105–134, title IV, § 404 , Dec. 2, 1997 , 111 Stat. 2586 ]

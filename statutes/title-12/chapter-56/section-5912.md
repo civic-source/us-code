@@ -3,9 +3,9 @@ title: "Section 5912 - Interoperability standards"
 usc_title: 12
 usc_section: "5912"
 chapter: 56
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 5912"
-generated_at: "2026-03-30T02:38:51.126Z"
+generated_at: "2026-03-30T02:43:29.962Z"
 ---
 
 # § 5912. Interoperability standards

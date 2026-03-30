@@ -3,9 +3,9 @@ title: "Section 581 - United States trustees"
 usc_title: 28
 usc_section: "581"
 chapter: 39
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "28 U.S.C. § 581"
-generated_at: "2026-03-30T02:39:50.649Z"
+generated_at: "2026-03-30T02:44:47.245Z"
 ---
 
 # § 581. United States trustees

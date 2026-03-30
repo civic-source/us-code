@@ -3,9 +3,9 @@ title: "Section 5412 - Indian Law Enforcement Foundation"
 usc_title: 25
 usc_section: "5412"
 chapter: 46
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "25 U.S.C. § 5412"
-generated_at: "2026-03-30T02:39:26.304Z"
+generated_at: "2026-03-30T02:43:58.431Z"
 ---
 
 # § 5412. Indian Law Enforcement Foundation

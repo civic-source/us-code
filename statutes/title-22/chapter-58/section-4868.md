@@ -3,9 +3,9 @@ title: "Section 4868 - Assignment of personnel at high risk, high threat posts"
 usc_title: 22
 usc_section: "4868"
 chapter: 58
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 4868"
-generated_at: "2026-03-30T02:39:30.676Z"
+generated_at: "2026-03-30T02:44:42.946Z"
 ---
 
 # § 4868. Assignment of personnel at high risk, high threat posts

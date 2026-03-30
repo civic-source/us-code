@@ -3,9 +3,9 @@ title: "Section 471 - Effective date"
 usc_title: 3
 usc_section: "471"
 chapter: 5
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "3 U.S.C. § 471"
-generated_at: "2026-03-30T02:38:03.177Z"
+generated_at: "2026-03-30T02:42:13.331Z"
 ---
 
 # § 471. Effective date

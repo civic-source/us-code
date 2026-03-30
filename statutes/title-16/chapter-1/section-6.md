@@ -3,9 +3,9 @@ title: "Section 6 - Advisory Council"
 usc_title: 16
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T02:39:17.973Z"
+generated_at: "2026-03-30T02:43:50.322Z"
 ---
 
 # § 460zzz–6. Advisory Council

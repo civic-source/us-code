@@ -3,9 +3,9 @@ title: "Section 9 - Authorization of special studies, compilations, and transcri
 usc_title: 29
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "29 U.S.C. § 9"
-generated_at: "2026-03-30T02:39:49.536Z"
+generated_at: "2026-03-30T02:45:08.747Z"
 ---
 
 # § 9. Authorization of special studies, compilations, and transcripts on request; cost

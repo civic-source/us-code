@@ -3,9 +3,9 @@ title: "Section 21507 - Implementation plan"
 usc_title: 34
 usc_section: "21507"
 chapter: 215
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "34 U.S.C. § 21507"
-generated_at: "2026-03-30T02:40:15.458Z"
+generated_at: "2026-03-30T02:45:37.030Z"
 ---
 
 # § 21507. Implementation plan

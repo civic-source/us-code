@@ -3,9 +3,9 @@ title: "Section 6407 - Date of allowance of refund or credit"
 usc_title: 26
 usc_section: "6407"
 chapter: 65
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "26 U.S.C. § 6407"
-generated_at: "2026-03-30T02:40:09.833Z"
+generated_at: "2026-03-30T02:45:23.216Z"
 ---
 
 # § 6407. Date of allowance of refund or credit

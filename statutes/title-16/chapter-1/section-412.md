@@ -3,9 +3,9 @@ title: "Section 412 - Omitted"
 usc_title: 16
 usc_section: "412"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 412"
-generated_at: "2026-03-30T02:39:17.913Z"
+generated_at: "2026-03-30T02:43:50.260Z"
 ---
 
 # § 412. Omitted

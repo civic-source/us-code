@@ -3,9 +3,9 @@ title: "Section 2104 - Military cemeteries in foreign countries"
 usc_title: 36
 usc_section: "2104"
 chapter: 21
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "36 U.S.C. § 2104"
-generated_at: "2026-03-30T02:40:22.787Z"
+generated_at: "2026-03-30T02:45:40.866Z"
 ---
 
 # § 2104. Military cemeteries in foreign countries

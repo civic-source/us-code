@@ -3,9 +3,9 @@ title: "Section 2423 - Laundry and dry cleaning services: procurement from facil
 usc_title: 10
 usc_section: "2423"
 chapter: 143
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 2423"
-generated_at: "2026-03-30T02:38:38.439Z"
+generated_at: "2026-03-30T02:42:43.877Z"
 ---
 
 # § 2423. Laundry and dry cleaning services: procurement from facilities operated by the Navy Resale and Services Support Office

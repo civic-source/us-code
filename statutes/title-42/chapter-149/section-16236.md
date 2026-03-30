@@ -3,9 +3,9 @@ title: "Section 16236 - Research and development into integrating renewable ener
 usc_title: 42
 usc_section: "16236"
 chapter: 149
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 16236"
-generated_at: "2026-03-30T02:41:05.776Z"
+generated_at: "2026-03-30T02:46:04.957Z"
 ---
 
 # § 16236. Research and development into integrating renewable energy onto the electric grid

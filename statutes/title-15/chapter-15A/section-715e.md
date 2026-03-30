@@ -3,9 +3,9 @@ title: "Section 715e - Penalties for violation of chapter"
 usc_title: 15
 usc_section: "715e"
 chapter: 15
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 715e"
-generated_at: "2026-03-30T02:38:47.716Z"
+generated_at: "2026-03-30T02:43:01.733Z"
 ---
 
 # § 715e. Penalties for violation of chapter

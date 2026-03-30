@@ -3,9 +3,9 @@ title: "Section 1491 - Claims against United States generally; actions involving
 usc_title: 28
 usc_section: "1491"
 chapter: 91
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "28 U.S.C. § 1491"
-generated_at: "2026-03-30T02:39:50.661Z"
+generated_at: "2026-03-30T02:44:47.257Z"
 ---
 
 # § 1491. Claims against United States generally; actions involving Tennessee Valley Authority

@@ -3,9 +3,9 @@ title: "Section 4103 - Establishment of training programs"
 usc_title: 5
 usc_section: "4103"
 chapter: 41
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 4103"
-generated_at: "2026-03-30T02:38:10.794Z"
+generated_at: "2026-03-30T02:42:23.327Z"
 ---
 
 # § 4103. Establishment of training programs

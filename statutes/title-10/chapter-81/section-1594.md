@@ -3,9 +3,9 @@ title: "Section 1594 - Reimbursement for financial institution charges incurred 
 usc_title: 10
 usc_section: "1594"
 chapter: 81
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 1594"
-generated_at: "2026-03-30T02:38:38.413Z"
+generated_at: "2026-03-30T02:42:43.846Z"
 ---
 
 # § 1594. Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay

@@ -3,9 +3,9 @@ title: "Section 5809 - Repealed. Pub. L. 115–334, title II, § 2813 , Dec. 20,
 usc_title: 16
 usc_section: "5809"
 chapter: 78
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 5809"
-generated_at: "2026-03-30T02:39:18.179Z"
+generated_at: "2026-03-30T02:43:50.535Z"
 ---
 
 # §§ 5801 to 5809. Repealed. Pub. L. 115–334, title II, § 2813 , Dec. 20, 2018 , 132 Stat. 4602

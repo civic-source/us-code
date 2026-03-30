@@ -3,9 +3,9 @@ title: "Section 239 - Office of Cargo Security Policy"
 usc_title: 6
 usc_section: "239"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "6 U.S.C. § 239"
-generated_at: "2026-03-30T02:38:13.717Z"
+generated_at: "2026-03-30T02:42:31.120Z"
 ---
 
 # § 239. Office of Cargo Security Policy

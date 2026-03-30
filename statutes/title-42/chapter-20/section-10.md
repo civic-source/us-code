@@ -3,9 +3,9 @@ title: "Section 10 - Transferred"
 usc_title: 42
 usc_section: "10"
 chapter: 20
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T02:41:05.331Z"
+generated_at: "2026-03-30T02:46:04.513Z"
 ---
 
 # § 1973gg–10. Transferred

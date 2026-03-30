@@ -3,9 +3,9 @@ title: "Section 2160e - Congressional review and oversight of agreements with Ir
 usc_title: 42
 usc_section: "2160e"
 chapter: 23
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 2160e"
-generated_at: "2026-03-30T02:41:05.354Z"
+generated_at: "2026-03-30T02:46:04.535Z"
 ---
 
 # § 2160e. Congressional review and oversight of agreements with Iran

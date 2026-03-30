@@ -3,9 +3,9 @@ title: "Section 48E - Clean electricity investment credit"
 usc_title: 26
 usc_section: "48E"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "26 U.S.C. § 48E"
-generated_at: "2026-03-30T02:40:09.550Z"
+generated_at: "2026-03-30T02:45:22.918Z"
 ---
 
 # § 48E. Clean electricity investment credit

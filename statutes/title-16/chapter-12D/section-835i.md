@@ -3,9 +3,9 @@ title: "Section 835i - Contracts with State of Washington for maintenance and op
 usc_title: 16
 usc_section: "835i"
 chapter: 12
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 835i"
-generated_at: "2026-03-30T02:39:18.053Z"
+generated_at: "2026-03-30T02:43:50.405Z"
 ---
 
 # § 835i. Contracts with State of Washington for maintenance and operation of fish hatcheries

@@ -3,9 +3,9 @@ title: "Section 2301 - Merit system principles"
 usc_title: 5
 usc_section: "2301"
 chapter: 23
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 2301"
-generated_at: "2026-03-30T02:38:10.784Z"
+generated_at: "2026-03-30T02:42:23.316Z"
 ---
 
 # § 2301. Merit system principles

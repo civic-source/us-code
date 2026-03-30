@@ -3,9 +3,9 @@ title: "Section 4128 - Joint Federated Assurance Center"
 usc_title: 10
 usc_section: "4128"
 chapter: 303
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 4128"
-generated_at: "2026-03-30T02:38:38.486Z"
+generated_at: "2026-03-30T02:42:43.929Z"
 ---
 
 # § 4128. 1 1 Another section 4128 is set out preceding this section. Joint Federated Assurance Center

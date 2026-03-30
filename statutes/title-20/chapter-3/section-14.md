@@ -3,9 +3,9 @@ title: "Section 14 - Definitions"
 usc_title: 20
 usc_section: "14"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-03-30T02:39:22.228Z"
+generated_at: "2026-03-30T02:43:39.126Z"
 ---
 
 # § 80q–14. Definitions

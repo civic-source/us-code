@@ -3,9 +3,9 @@ title: "Section 757 - Cost of survey of private land claims to be reported and p
 usc_title: 43
 usc_section: "757"
 chapter: 18
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 757"
-generated_at: "2026-03-30T02:40:30.260Z"
+generated_at: "2026-03-30T02:45:48.504Z"
 ---
 
 # § 757. Cost of survey of private land claims to be reported and paid

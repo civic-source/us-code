@@ -3,9 +3,9 @@ title: "Section 2335 - Limitation of actions"
 usc_title: 18
 usc_section: "2335"
 chapter: 113
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 2335"
-generated_at: "2026-03-30T02:39:19.669Z"
+generated_at: "2026-03-30T02:43:43.769Z"
 ---
 
 # § 2335. Limitation of actions

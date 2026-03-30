@@ -3,9 +3,9 @@ title: "Section 60133 - Technology demonstration program"
 usc_title: 51
 usc_section: "60133"
 chapter: 601
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "51 U.S.C. § 60133"
-generated_at: "2026-03-30T02:41:38.465Z"
+generated_at: "2026-03-30T02:46:19.267Z"
 ---
 
 # § 60133. Technology demonstration program

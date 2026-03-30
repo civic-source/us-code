@@ -3,9 +3,9 @@ title: "Section 3698 - Comprehensive policy on providing education information t
 usc_title: 38
 usc_section: "3698"
 chapter: 36
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "38 U.S.C. § 3698"
-generated_at: "2026-03-30T02:40:27.244Z"
+generated_at: "2026-03-30T02:45:44.054Z"
 ---
 
 # § 3698. Comprehensive policy on providing education information to veterans

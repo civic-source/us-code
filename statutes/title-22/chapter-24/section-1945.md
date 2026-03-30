@@ -3,9 +3,9 @@ title: "Section 1945 - Utilization of funds for assistance in Latin America; ava
 usc_title: 22
 usc_section: "1945"
 chapter: 24
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 1945"
-generated_at: "2026-03-30T02:39:30.589Z"
+generated_at: "2026-03-30T02:44:42.834Z"
 ---
 
 # § 1945. Utilization of funds for assistance in Latin America; availability for transportation of immigrants from Ryukyuan Archipelago

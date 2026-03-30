@@ -3,9 +3,9 @@ title: "Section 670 - Definitions"
 usc_title: 16
 usc_section: "670"
 chapter: 5
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 670"
-generated_at: "2026-03-30T02:39:18.017Z"
+generated_at: "2026-03-30T02:43:50.367Z"
 ---
 
 # § 670. Definitions

@@ -3,9 +3,9 @@ title: "Section 31134 - Requirement for registration and USDOT number"
 usc_title: 49
 usc_section: "31134"
 chapter: 311
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "49 U.S.C. § 31134"
-generated_at: "2026-03-30T02:41:31.818Z"
+generated_at: "2026-03-30T02:46:14.254Z"
 ---
 
 # § 31134. Requirement for registration and USDOT number

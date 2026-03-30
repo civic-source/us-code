@@ -3,9 +3,9 @@ title: "Section 1731 - Implementation of an integrated entry and exit data syste
 usc_title: 8
 usc_section: "1731"
 chapter: 15
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "8 U.S.C. § 1731"
-generated_at: "2026-03-30T02:38:28.570Z"
+generated_at: "2026-03-30T02:42:32.107Z"
 ---
 
 # § 1731. Implementation of an integrated entry and exit data system

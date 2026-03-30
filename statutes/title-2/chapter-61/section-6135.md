@@ -3,9 +3,9 @@ title: "Section 6135 - Representation Allowance Account for Majority and Minorit
 usc_title: 2
 usc_section: "6135"
 chapter: 61
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 6135"
-generated_at: "2026-03-30T02:38:04.758Z"
+generated_at: "2026-03-30T02:42:18.915Z"
 ---
 
 # § 6135. Representation Allowance Account for Majority and Minority Leaders of Senate

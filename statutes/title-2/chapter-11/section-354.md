@@ -3,9 +3,9 @@ title: "Section 354 - Use of United States mails"
 usc_title: 2
 usc_section: "354"
 chapter: 11
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 354"
-generated_at: "2026-03-30T02:38:04.704Z"
+generated_at: "2026-03-30T02:42:18.854Z"
 ---
 
 # § 354. Use of United States mails

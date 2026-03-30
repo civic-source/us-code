@@ -3,9 +3,9 @@ title: "Section 277e - Disposal of lands; issuance of licenses for use of lands;
 usc_title: 22
 usc_section: "277e"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 277e"
-generated_at: "2026-03-30T02:39:30.560Z"
+generated_at: "2026-03-30T02:44:42.794Z"
 ---
 
 # § 277e. Disposal of lands; issuance of licenses for use of lands; compensation for injured property

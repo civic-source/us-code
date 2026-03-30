@@ -3,9 +3,9 @@ title: "Section 4404 - Clearing organization netting"
 usc_title: 12
 usc_section: "4404"
 chapter: 45
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 4404"
-generated_at: "2026-03-30T02:38:51.066Z"
+generated_at: "2026-03-30T02:43:29.914Z"
 ---
 
 # § 4404. Clearing organization netting

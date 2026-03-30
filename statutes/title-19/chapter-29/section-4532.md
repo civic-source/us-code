@@ -3,9 +3,9 @@ title: "Section 4532 - Special rules for automotive goods"
 usc_title: 19
 usc_section: "4532"
 chapter: 29
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "19 U.S.C. § 4532"
-generated_at: "2026-03-30T02:39:13.563Z"
+generated_at: "2026-03-30T02:43:41.678Z"
 ---
 
 # § 4532. Special rules for automotive goods

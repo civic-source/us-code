@@ -3,9 +3,9 @@ title: "Section 1048 - Administrative detention of violative articles; duration;
 usc_title: 21
 usc_section: "1048"
 chapter: 15
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "21 U.S.C. § 1048"
-generated_at: "2026-03-30T02:39:44.013Z"
+generated_at: "2026-03-30T02:43:56.784Z"
 ---
 
 # § 1048. Administrative detention of violative articles; duration; release; removal of official marks

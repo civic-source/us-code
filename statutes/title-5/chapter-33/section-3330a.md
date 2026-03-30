@@ -3,9 +3,9 @@ title: "Section 3330a - Preference eligibles; administrative redress"
 usc_title: 5
 usc_section: "3330a"
 chapter: 33
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 3330a"
-generated_at: "2026-03-30T02:38:10.789Z"
+generated_at: "2026-03-30T02:42:23.321Z"
 ---
 
 # § 3330a. Preference eligibles; administrative redress

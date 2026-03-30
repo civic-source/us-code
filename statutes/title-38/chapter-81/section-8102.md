@@ -3,9 +3,9 @@ title: "Section 8102 - Acquisition of medical facilities"
 usc_title: 38
 usc_section: "8102"
 chapter: 81
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "38 U.S.C. § 8102"
-generated_at: "2026-03-30T02:40:27.282Z"
+generated_at: "2026-03-30T02:45:44.092Z"
 ---
 
 # § 8102. Acquisition of medical facilities

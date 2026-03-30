@@ -3,9 +3,9 @@ title: "Section 2213 - Critical Projects"
 usc_title: 48
 usc_section: "2213"
 chapter: 20
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "48 U.S.C. § 2213"
-generated_at: "2026-03-30T02:41:22.283Z"
+generated_at: "2026-03-30T02:46:08.440Z"
 ---
 
 # § 2213. Critical Projects

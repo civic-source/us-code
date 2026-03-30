@@ -3,9 +3,9 @@ title: "Section 76c - Policy to foster appreciation of past and contemporary art
 usc_title: 20
 usc_section: "76c"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 76c"
-generated_at: "2026-03-30T02:39:22.223Z"
+generated_at: "2026-03-30T02:43:39.120Z"
 ---
 
 # § 76c. Policy to foster appreciation of past and contemporary art

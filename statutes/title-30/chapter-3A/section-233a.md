@@ -3,9 +3,9 @@ title: "Section 233a - Permits or leases of certain lands in Okla­homa; retenti
 usc_title: 30
 usc_section: "233a"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "30 U.S.C. § 233a"
-generated_at: "2026-03-30T02:39:47.421Z"
+generated_at: "2026-03-30T02:44:53.594Z"
 ---
 
 # § 233a. Permits or leases of certain lands in Okla­homa; retention of royalties

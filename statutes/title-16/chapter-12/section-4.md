@@ -3,9 +3,9 @@ title: "Section 4 - Southwestern Power Administration; deposit and availability 
 usc_title: 16
 usc_section: "4"
 chapter: 12
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T02:39:18.046Z"
+generated_at: "2026-03-30T02:43:50.398Z"
 ---
 
 # § 825s–4. Southwestern Power Administration; deposit and availability of advance payments

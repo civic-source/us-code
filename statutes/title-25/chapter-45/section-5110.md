@@ -3,9 +3,9 @@ title: "Section 5110 - New Indian reservations"
 usc_title: 25
 usc_section: "5110"
 chapter: 45
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "25 U.S.C. § 5110"
-generated_at: "2026-03-30T02:39:26.296Z"
+generated_at: "2026-03-30T02:43:58.419Z"
 ---
 
 # § 5110. New Indian reservations

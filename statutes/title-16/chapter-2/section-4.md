@@ -3,9 +3,9 @@ title: "Section 4 - Acquisition"
 usc_title: 16
 usc_section: "4"
 chapter: 2
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T02:39:17.998Z"
+generated_at: "2026-03-30T02:43:50.349Z"
 ---
 
 # § 546a–4. Acquisition

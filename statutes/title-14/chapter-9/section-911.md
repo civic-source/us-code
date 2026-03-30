@@ -3,9 +3,9 @@ title: "Section 911 - Search and rescue center standards"
 usc_title: 14
 usc_section: "911"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "14 U.S.C. § 911"
-generated_at: "2026-03-30T02:38:41.337Z"
+generated_at: "2026-03-30T02:42:54.115Z"
 ---
 
 # § 911. Search and rescue center standards

@@ -3,9 +3,9 @@ title: "Section 1772 - Territorial application of chapter"
 usc_title: 12
 usc_section: "1772"
 chapter: 14
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 1772"
-generated_at: "2026-03-30T02:38:50.979Z"
+generated_at: "2026-03-30T02:43:29.843Z"
 ---
 
 # § 1772. Territorial application of chapter

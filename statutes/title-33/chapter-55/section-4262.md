@@ -3,9 +3,9 @@ title: "Section 4262 - Prioritization of efforts and assistance to combat marine
 usc_title: 33
 usc_section: "4262"
 chapter: 55
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "33 U.S.C. § 4262"
-generated_at: "2026-03-30T02:40:17.746Z"
+generated_at: "2026-03-30T02:45:34.156Z"
 ---
 
 # § 4262. Prioritization of efforts and assistance to combat marine debris and improve plastic waste management

@@ -3,9 +3,9 @@ title: "Section 8432 - Recruit basic training: privacy"
 usc_title: 10
 usc_section: "8432"
 chapter: 852
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 8432"
-generated_at: "2026-03-30T02:38:38.517Z"
+generated_at: "2026-03-30T02:42:43.966Z"
 ---
 
 # § 8432. Recruit basic training: privacy

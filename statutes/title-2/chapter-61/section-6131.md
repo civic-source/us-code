@@ -3,9 +3,9 @@ title: "Section 6131 - Appointment of employees by Senate Majority and Minority 
 usc_title: 2
 usc_section: "6131"
 chapter: 61
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 6131"
-generated_at: "2026-03-30T02:38:04.758Z"
+generated_at: "2026-03-30T02:42:18.914Z"
 ---
 
 # § 6131. Appointment of employees by Senate Majority and Minority Leaders; compensation

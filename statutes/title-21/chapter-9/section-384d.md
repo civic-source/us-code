@@ -3,9 +3,9 @@ title: "Section 384d - Accreditation of third-party auditors"
 usc_title: 21
 usc_section: "384d"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "21 U.S.C. § 384d"
-generated_at: "2026-03-30T02:39:43.979Z"
+generated_at: "2026-03-30T02:43:56.752Z"
 ---
 
 # § 384d. Accreditation of third-party auditors

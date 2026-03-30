@@ -3,9 +3,9 @@ title: "Section 358 - Repeal of statutory provisions relating to survey, classif
 usc_title: 25
 usc_section: "358"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "25 U.S.C. § 358"
-generated_at: "2026-03-30T02:39:26.238Z"
+generated_at: "2026-03-30T02:43:58.331Z"
 ---
 
 # § 358. Repeal of statutory provisions relating to survey, classification, and allotments which provide for repayment out of Indian moneys

@@ -3,9 +3,9 @@ title: "Section 7541 - Army arsenals: treatment of unutilized or underutilized p
 usc_title: 10
 usc_section: "7541"
 chapter: 763
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 7541"
-generated_at: "2026-03-30T02:38:38.507Z"
+generated_at: "2026-03-30T02:42:43.954Z"
 ---
 
 # § 7541. Army arsenals: treatment of unutilized or underutilized plant-capacity costs

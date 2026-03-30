@@ -3,9 +3,9 @@ title: "Section 9118 - Marine environmental protection and safety of life and pr
 usc_title: 42
 usc_section: "9118"
 chapter: 99
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 9118"
-generated_at: "2026-03-30T02:41:05.610Z"
+generated_at: "2026-03-30T02:46:04.794Z"
 ---
 
 # § 9118. Marine environmental protection and safety of life and property at sea

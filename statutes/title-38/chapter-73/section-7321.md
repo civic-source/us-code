@@ -3,9 +3,9 @@ title: "Section 7321 - Committee on Care of Severely Chronically Mentally Ill Ve
 usc_title: 38
 usc_section: "7321"
 chapter: 73
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "38 U.S.C. § 7321"
-generated_at: "2026-03-30T02:40:27.270Z"
+generated_at: "2026-03-30T02:45:44.081Z"
 ---
 
 # § 7321. Committee on Care of Severely Chronically Mentally Ill Veterans

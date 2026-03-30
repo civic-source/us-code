@@ -3,9 +3,9 @@ title: "Section 3545 - Civil action to recover money"
 usc_title: 31
 usc_section: "3545"
 chapter: 35
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "31 U.S.C. § 3545"
-generated_at: "2026-03-30T02:40:13.385Z"
+generated_at: "2026-03-30T02:45:32.596Z"
 ---
 
 # § 3545. Civil action to recover money

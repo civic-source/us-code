@@ -3,9 +3,9 @@ title: "Section 1641 - Customs brokers"
 usc_title: 19
 usc_section: "1641"
 chapter: 4
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "19 U.S.C. § 1641"
-generated_at: "2026-03-30T02:39:13.421Z"
+generated_at: "2026-03-30T02:43:41.599Z"
 ---
 
 # § 1641. Customs brokers

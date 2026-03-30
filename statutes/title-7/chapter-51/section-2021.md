@@ -3,9 +3,9 @@ title: "Section 2021 - Civil penalties and disqualification of retail food store
 usc_title: 7
 usc_section: "2021"
 chapter: 51
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 2021"
-generated_at: "2026-03-30T02:38:22.623Z"
+generated_at: "2026-03-30T02:42:50.788Z"
 ---
 
 # § 2021. Civil penalties and disqualification of retail food stores and wholesale food concerns

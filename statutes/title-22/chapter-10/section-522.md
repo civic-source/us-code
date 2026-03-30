@@ -3,9 +3,9 @@ title: "Section 522 - Transmission of information pertaining to implements of wa
 usc_title: 22
 usc_section: "522"
 chapter: 10
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 522"
-generated_at: "2026-03-30T02:39:30.576Z"
+generated_at: "2026-03-30T02:44:42.817Z"
 ---
 
 # § 522. Transmission of information pertaining to implements of war, vessels, etc.

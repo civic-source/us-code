@@ -3,9 +3,9 @@ title: "Section 1782 - Counseling, training, and mental health services for imme
 usc_title: 38
 usc_section: "1782"
 chapter: 17
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "38 U.S.C. § 1782"
-generated_at: "2026-03-30T02:40:27.213Z"
+generated_at: "2026-03-30T02:45:44.022Z"
 ---
 
 # § 1782. Counseling, training, and mental health services for immediate family members and caregivers

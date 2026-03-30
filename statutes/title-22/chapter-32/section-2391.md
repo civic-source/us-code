@@ -3,9 +3,9 @@ title: "Section 2391 - Missions and staffs abroad"
 usc_title: 22
 usc_section: "2391"
 chapter: 32
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 2391"
-generated_at: "2026-03-30T02:39:30.614Z"
+generated_at: "2026-03-30T02:44:42.866Z"
 ---
 
 # § 2391. Missions and staffs abroad

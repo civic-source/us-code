@@ -3,9 +3,9 @@ title: "Section 9039 - Reports to Congress; regulations"
 usc_title: 26
 usc_section: "9039"
 chapter: 96
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "26 U.S.C. § 9039"
-generated_at: "2026-03-30T02:40:09.878Z"
+generated_at: "2026-03-30T02:45:23.264Z"
 ---
 
 # § 9039. Reports to Congress; regulations

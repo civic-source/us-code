@@ -3,9 +3,9 @@ title: "Section 781 - Taking or catching, in waters of Gulf or Straits of Florid
 usc_title: 16
 usc_section: "781"
 chapter: 11
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 781"
-generated_at: "2026-03-30T02:39:18.035Z"
+generated_at: "2026-03-30T02:43:50.386Z"
 ---
 
 # § 781. Taking or catching, in waters of Gulf or Straits of Florida, commercial sponges of less than prescribed size, and landing or possession of same

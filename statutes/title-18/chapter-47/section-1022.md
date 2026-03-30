@@ -3,9 +3,9 @@ title: "Section 1022 - Delivery of certificate, voucher, receipt for military or
 usc_title: 18
 usc_section: "1022"
 chapter: 47
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 1022"
-generated_at: "2026-03-30T02:39:19.639Z"
+generated_at: "2026-03-30T02:43:43.740Z"
 ---
 
 # § 1022. Delivery of certificate, voucher, receipt for military or naval property

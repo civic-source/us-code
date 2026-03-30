@@ -3,9 +3,9 @@ title: "Section 6 - Effectiveness of Agreement"
 usc_title: 22
 usc_section: "6"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 6"
-generated_at: "2026-03-30T02:39:30.574Z"
+generated_at: "2026-03-30T02:44:42.813Z"
 ---
 
 # § 290o–6. Effectiveness of Agreement

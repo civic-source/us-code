@@ -3,9 +3,9 @@ title: "Section 1862e - Evaluations of research centers"
 usc_title: 42
 usc_section: "1862e"
 chapter: 16
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 1862e"
-generated_at: "2026-03-30T02:41:05.316Z"
+generated_at: "2026-03-30T02:46:04.498Z"
 ---
 
 # § 1862e. Evaluations of research centers

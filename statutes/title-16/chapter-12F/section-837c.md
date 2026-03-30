@@ -3,9 +3,9 @@ title: "Section 837c - Contract limitations and conditions for use of electric e
 usc_title: 16
 usc_section: "837c"
 chapter: 12
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 837c"
-generated_at: "2026-03-30T02:39:18.054Z"
+generated_at: "2026-03-30T02:43:50.405Z"
 ---
 
 # § 837c. Contract limitations and conditions for use of electric energy and peaking capacity of plants in other marketing areas for use within Pacific Northwest

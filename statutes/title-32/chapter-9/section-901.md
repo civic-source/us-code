@@ -3,9 +3,9 @@ title: "Section 901 - Definitions"
 usc_title: 32
 usc_section: "901"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "32 U.S.C. § 901"
-generated_at: "2026-03-30T02:40:18.022Z"
+generated_at: "2026-03-30T02:45:29.725Z"
 ---
 
 # § 901. Definitions

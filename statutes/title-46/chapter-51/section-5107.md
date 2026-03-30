@@ -3,9 +3,9 @@ title: "Section 5107 - Delegation of authority"
 usc_title: 46
 usc_section: "5107"
 chapter: 51
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "46 U.S.C. § 5107"
-generated_at: "2026-03-30T02:41:10.785Z"
+generated_at: "2026-03-30T02:46:10.513Z"
 ---
 
 # § 5107. Delegation of authority

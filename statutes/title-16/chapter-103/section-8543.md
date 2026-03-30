@@ -3,9 +3,9 @@ title: "Section 8543 - Permit administration"
 usc_title: 16
 usc_section: "8543"
 chapter: 103
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 8543"
-generated_at: "2026-03-30T02:39:18.211Z"
+generated_at: "2026-03-30T02:43:50.569Z"
 ---
 
 # § 8543. Permit administration

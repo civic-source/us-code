@@ -3,9 +3,9 @@ title: "Section 4112 - Requirement for information sharing agreements"
 usc_title: 2
 usc_section: "4112"
 chapter: 41
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 4112"
-generated_at: "2026-03-30T02:38:04.747Z"
+generated_at: "2026-03-30T02:42:18.902Z"
 ---
 
 # § 4112. Requirement for information sharing agreements

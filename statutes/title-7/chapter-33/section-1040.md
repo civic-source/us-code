@@ -3,9 +3,9 @@ title: "Section 1040 - Farmers’ Home Administration funds account"
 usc_title: 7
 usc_section: "1040"
 chapter: 33
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 1040"
-generated_at: "2026-03-30T02:38:22.547Z"
+generated_at: "2026-03-30T02:42:50.707Z"
 ---
 
 # § 1040. Farmers’ Home Administration funds account

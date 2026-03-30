@@ -3,9 +3,9 @@ title: "Section 754 - Use of existing resources"
 usc_title: 6
 usc_section: "754"
 chapter: 2
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "6 U.S.C. § 754"
-generated_at: "2026-03-30T02:38:13.757Z"
+generated_at: "2026-03-30T02:42:31.162Z"
 ---
 
 # § 754. Use of existing resources

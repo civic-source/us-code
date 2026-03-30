@@ -3,9 +3,9 @@ title: "Section 663 - Territorial jurisdiction over hydraulic mining; hydraulic 
 usc_title: 33
 usc_section: "663"
 chapter: 14
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "33 U.S.C. § 663"
-generated_at: "2026-03-30T02:40:17.639Z"
+generated_at: "2026-03-30T02:45:34.055Z"
 ---
 
 # § 663. Territorial jurisdiction over hydraulic mining; hydraulic mining injurious to navigation prohibited

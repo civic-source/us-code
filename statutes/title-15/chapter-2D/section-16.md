@@ -3,9 +3,9 @@ title: "Section 16 - Omitted"
 usc_title: 15
 usc_section: "16"
 chapter: 2
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 16"
-generated_at: "2026-03-30T02:38:47.648Z"
+generated_at: "2026-03-30T02:43:01.669Z"
 ---
 
 # § 80b–16. Omitted

@@ -3,9 +3,9 @@ title: "Section 2311 - Report to Congress covering proposals for water impoundme
 usc_title: 33
 usc_section: "2311"
 chapter: 36
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "33 U.S.C. § 2311"
-generated_at: "2026-03-30T02:40:17.712Z"
+generated_at: "2026-03-30T02:45:34.123Z"
 ---
 
 # § 2311. Report to Congress covering proposals for water impoundment facilities

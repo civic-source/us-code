@@ -3,9 +3,9 @@ title: "Section 410gggg - Homestead National Historical Park; establishment"
 usc_title: 16
 usc_section: "410gggg"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 410gggg"
-generated_at: "2026-03-30T02:39:17.912Z"
+generated_at: "2026-03-30T02:43:50.258Z"
 ---
 
 # § 410gggg. Homestead National Historical Park; establishment

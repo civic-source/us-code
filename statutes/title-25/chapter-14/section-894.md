@@ -3,9 +3,9 @@ title: "Section 894 - Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "894"
 chapter: 14
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "25 U.S.C. § 894"
-generated_at: "2026-03-30T02:39:26.245Z"
+generated_at: "2026-03-30T02:43:58.342Z"
 ---
 
 # § 894. Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 Stat. 770

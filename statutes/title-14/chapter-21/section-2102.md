@@ -3,9 +3,9 @@ title: "Section 2102 - Active duty promotion list"
 usc_title: 14
 usc_section: "2102"
 chapter: 21
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "14 U.S.C. § 2102"
-generated_at: "2026-03-30T02:38:41.341Z"
+generated_at: "2026-03-30T02:42:54.122Z"
 ---
 
 # § 2102. Active duty promotion list

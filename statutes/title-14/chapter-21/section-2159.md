@@ -3,9 +3,9 @@ title: "Section 2159 - Boards of inquiry"
 usc_title: 14
 usc_section: "2159"
 chapter: 21
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "14 U.S.C. § 2159"
-generated_at: "2026-03-30T02:38:41.345Z"
+generated_at: "2026-03-30T02:42:54.127Z"
 ---
 
 # § 2159. Boards of inquiry

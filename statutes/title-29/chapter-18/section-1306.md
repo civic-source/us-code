@@ -3,9 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-30T02:39:49.607Z"
+generated_at: "2026-03-30T02:45:08.869Z"
 ---
 
 # § 1306. Premium rates
@@ -39,7 +39,7 @@ generated_at: "2026-03-30T02:39:49.607Z"
         - **(IV)** $2.60 for each participant, for the ninth plan year, and for each succeeding plan year,
       - **(iv)** in the case of a multiemployer plan, for plan years beginning after December 31, 2005 , and before January 1, 2013 , $8.00 for each individual who is a participant in such plan during the applicable plan year,
       - **(v)** in the case of a multiemployer plan, for plan years beginning after December 31, 2012 , and before January 1, 2015 , $12.00 for each individual who is a participant in such plan during the applicable plan year,
-      - **(vi)** in the case of a multiemployer plan, for plan years beginning after December 31, 2014 , and before January 1, 2031 , $26 for each individual who is a participant in such plan during the applicable plan year,
+      - **(vi)** in the case of a multiemployer plan, for plan years beginning after December 31, 2014 ,, 1 and before January 1, 2031 , $26 for each individual who is a participant in such plan during the applicable plan year,
       - **(vii)** in the case of a CSEC plan (as defined in section 1060(f)(1) of this title ), for plan years beginning after December 31, 2018 , for each individual who is a participant in such plan during the plan year an amount equal to the sum of—
         - **(I)** the additional premium (if any) determined under subparagraph (E), and
         - **(II)** $19, or

@@ -3,9 +3,9 @@ title: "Section 17d - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "17d"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 17d"
-generated_at: "2026-03-30T02:39:17.849Z"
+generated_at: "2026-03-30T02:43:50.194Z"
 ---
 
 # § 17d. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

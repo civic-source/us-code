@@ -3,9 +3,9 @@ title: "Section 1526 - Cooperation and direct communication between the trustee 
 usc_title: 11
 usc_section: "1526"
 chapter: 15
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "11 U.S.C. § 1526"
-generated_at: "2026-03-30T02:38:48.415Z"
+generated_at: "2026-03-30T02:43:09.321Z"
 ---
 
 # § 1526. Cooperation and direct communication between the trustee and foreign courts or foreign representatives

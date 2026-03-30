@@ -3,9 +3,9 @@ title: "Section 4272 - Definition of taxable transportation, etc."
 usc_title: 26
 usc_section: "4272"
 chapter: 33
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "26 U.S.C. § 4272"
-generated_at: "2026-03-30T02:40:09.772Z"
+generated_at: "2026-03-30T02:45:23.153Z"
 ---
 
 # § 4272. Definition of taxable transportation, etc.

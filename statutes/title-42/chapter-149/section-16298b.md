@@ -3,9 +3,9 @@ title: "Section 16298b - High efficiency turbines"
 usc_title: 42
 usc_section: "16298b"
 chapter: 149
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 16298b"
-generated_at: "2026-03-30T02:41:05.785Z"
+generated_at: "2026-03-30T02:46:04.965Z"
 ---
 
 # § 16298b. High efficiency turbines

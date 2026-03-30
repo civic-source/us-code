@@ -3,9 +3,9 @@ title: "Section 8707 - Petition and review"
 usc_title: 15
 usc_section: "8707"
 chapter: 113
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 8707"
-generated_at: "2026-03-30T02:38:47.890Z"
+generated_at: "2026-03-30T02:43:01.901Z"
 ---
 
 # § 8707. Petition and review

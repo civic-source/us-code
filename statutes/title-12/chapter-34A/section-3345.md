@@ -3,9 +3,9 @@ title: "Section 3345 - Certification and licensing requirements"
 usc_title: 12
 usc_section: "3345"
 chapter: 34
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 3345"
-generated_at: "2026-03-30T02:38:51.050Z"
+generated_at: "2026-03-30T02:43:29.901Z"
 ---
 
 # § 3345. Certification and licensing requirements

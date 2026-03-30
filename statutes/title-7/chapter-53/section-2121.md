@@ -3,9 +3,9 @@ title: "Section 2121 - Cotton ginning investigations; publication of results; co
 usc_title: 7
 usc_section: "2121"
 chapter: 53
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 2121"
-generated_at: "2026-03-30T02:38:22.632Z"
+generated_at: "2026-03-30T02:42:50.797Z"
 ---
 
 # § 2121. Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies

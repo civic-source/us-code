@@ -3,9 +3,9 @@ title: "Section 3801 - Findings and purpose"
 usc_title: 12
 usc_section: "3801"
 chapter: 39
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 3801"
-generated_at: "2026-03-30T02:38:51.056Z"
+generated_at: "2026-03-30T02:43:29.906Z"
 ---
 
 # § 3801. Findings and purpose

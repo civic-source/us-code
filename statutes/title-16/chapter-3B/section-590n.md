@@ -3,9 +3,9 @@ title: "Section 590n - Payments reviewable only by Secretary"
 usc_title: 16
 usc_section: "590n"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 590n"
-generated_at: "2026-03-30T02:39:18.007Z"
+generated_at: "2026-03-30T02:43:50.357Z"
 ---
 
 # § 590n. Payments reviewable only by Secretary

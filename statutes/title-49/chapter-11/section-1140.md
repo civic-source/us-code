@@ -3,9 +3,9 @@ title: "Section 1140 - Information 1 1 So in original. Probably should be follow
 usc_title: 49
 usc_section: "1140"
 chapter: 11
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "49 U.S.C. § 1140"
-generated_at: "2026-03-30T02:41:31.754Z"
+generated_at: "2026-03-30T02:46:14.183Z"
 ---
 
 # § 1140. Information 1 1 So in original. Probably should be followed by “for”. individuals involved in accidents and families of such individuals

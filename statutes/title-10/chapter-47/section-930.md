@@ -3,9 +3,9 @@ title: "Section 930 - Art. 130. Stalking"
 usc_title: 10
 usc_section: "930"
 chapter: 47
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 930"
-generated_at: "2026-03-30T02:38:38.365Z"
+generated_at: "2026-03-30T02:42:43.792Z"
 ---
 
 # § 930. Art. 130. Stalking

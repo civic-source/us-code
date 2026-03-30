@@ -3,9 +3,9 @@ title: "Section 2708 - Exclusivity of remedies"
 usc_title: 18
 usc_section: "2708"
 chapter: 121
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 2708"
-generated_at: "2026-03-30T02:39:19.675Z"
+generated_at: "2026-03-30T02:43:43.775Z"
 ---
 
 # § 2708. Exclusivity of remedies

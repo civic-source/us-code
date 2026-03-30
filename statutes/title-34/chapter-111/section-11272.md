@@ -3,9 +3,9 @@ title: "Section 11272 - Lease of surplus Federal facilities for use as runaway a
 usc_title: 34
 usc_section: "11272"
 chapter: 111
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "34 U.S.C. § 11272"
-generated_at: "2026-03-30T02:40:15.424Z"
+generated_at: "2026-03-30T02:45:36.997Z"
 ---
 
 # § 11272. Lease of surplus Federal facilities for use as runaway and homeless youth centers or as transitional living youth shelter facilities

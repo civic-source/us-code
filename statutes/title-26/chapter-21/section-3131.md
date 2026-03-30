@@ -3,9 +3,9 @@ title: "Section 3131 - Credit for paid sick leave"
 usc_title: 26
 usc_section: "3131"
 chapter: 21
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "26 U.S.C. § 3131"
-generated_at: "2026-03-30T02:40:09.758Z"
+generated_at: "2026-03-30T02:45:23.137Z"
 ---
 
 # § 3131. Credit for paid sick leave

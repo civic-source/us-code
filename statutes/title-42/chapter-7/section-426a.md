@@ -3,9 +3,9 @@ title: "Section 426a - Transitional provision on eligibility of uninsured indivi
 usc_title: 42
 usc_section: "426a"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 426a"
-generated_at: "2026-03-30T02:41:04.992Z"
+generated_at: "2026-03-30T02:46:04.177Z"
 ---
 
 # § 426a. Transitional provision on eligibility of uninsured individuals for hospital insurance benefits

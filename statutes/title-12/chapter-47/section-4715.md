@@ -3,9 +3,9 @@ title: "Section 4715 - Special provisions with respect to institutions that are 
 usc_title: 12
 usc_section: "4715"
 chapter: 47
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 4715"
-generated_at: "2026-03-30T02:38:51.082Z"
+generated_at: "2026-03-30T02:43:29.926Z"
 ---
 
 # § 4715. Special provisions with respect to institutions that are supervised by Federal banking agencies

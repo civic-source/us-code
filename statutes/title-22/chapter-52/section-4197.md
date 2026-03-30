@@ -3,9 +3,9 @@ title: "Section 4197 - Following testamentary directions; assistance to testamen
 usc_title: 22
 usc_section: "4197"
 chapter: 52
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 4197"
-generated_at: "2026-03-30T02:39:30.669Z"
+generated_at: "2026-03-30T02:44:42.937Z"
 ---
 
 # § 4197. Following testamentary directions; assistance to testamentary appointee

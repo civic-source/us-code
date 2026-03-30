@@ -3,9 +3,9 @@ title: "Section 100 - Definitions"
 usc_title: 35
 usc_section: "100"
 chapter: 10
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "35 U.S.C. § 100"
-generated_at: "2026-03-30T02:40:18.205Z"
+generated_at: "2026-03-30T02:45:26.683Z"
 ---
 
 # § 100. Definitions

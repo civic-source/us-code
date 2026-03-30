@@ -3,9 +3,9 @@ title: "Section 567 - Collection of fees; accounting"
 usc_title: 28
 usc_section: "567"
 chapter: 37
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "28 U.S.C. § 567"
-generated_at: "2026-03-30T02:39:50.649Z"
+generated_at: "2026-03-30T02:44:47.245Z"
 ---
 
 # § 567. Collection of fees; accounting

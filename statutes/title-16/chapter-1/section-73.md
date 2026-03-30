@@ -3,9 +3,9 @@ title: "Section 73 - Land disposal"
 usc_title: 16
 usc_section: "73"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 73"
-generated_at: "2026-03-30T02:39:17.898Z"
+generated_at: "2026-03-30T02:43:50.243Z"
 ---
 
 # § 410aaa–73. Land disposal

@@ -3,9 +3,9 @@ title: "Section 611 - Retirement of Director"
 usc_title: 28
 usc_section: "611"
 chapter: 41
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "28 U.S.C. § 611"
-generated_at: "2026-03-30T02:39:50.652Z"
+generated_at: "2026-03-30T02:44:47.247Z"
 ---
 
 # § 611. Retirement of Director

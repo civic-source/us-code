@@ -3,9 +3,9 @@ title: "Section 3963 - Foreign Service Schedule"
 usc_title: 22
 usc_section: "3963"
 chapter: 52
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 3963"
-generated_at: "2026-03-30T02:39:30.657Z"
+generated_at: "2026-03-30T02:44:42.922Z"
 ---
 
 # § 3963. Foreign Service Schedule

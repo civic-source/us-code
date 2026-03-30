@@ -3,9 +3,9 @@ title: "Section 1453 - Requirements of labeling; placement, form, and contents o
 usc_title: 15
 usc_section: "1453"
 chapter: 39
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 1453"
-generated_at: "2026-03-30T02:38:47.743Z"
+generated_at: "2026-03-30T02:43:01.760Z"
 ---
 
 # § 1453. Requirements of labeling; placement, form, and contents of statement of quantity; supplemental statement of quantity

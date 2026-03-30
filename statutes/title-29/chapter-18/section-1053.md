@@ -3,9 +3,9 @@ title: "Section 1053 - Minimum vesting standards"
 usc_title: 29
 usc_section: "1053"
 chapter: 18
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "29 U.S.C. § 1053"
-generated_at: "2026-03-30T02:39:49.576Z"
+generated_at: "2026-03-30T02:45:08.837Z"
 ---
 
 # § 1053. Minimum vesting standards
@@ -83,7 +83,10 @@ generated_at: "2026-03-30T02:39:49.576Z"
       - **(v)** A plan may provide that no credit will be given pursuant to this subparagraph unless the individual furnishes to the plan administrator such timely information as the plan may reasonably require to establish—
         - **(I)** that the absence from work is for reasons referred to in clause (i), and
         - **(II)** the number of days for which there was such an absence.
-  - **(4)** Cross references
+  - **(4)** For purposes of determining whether an employee who became eligible to participate in a qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of section 1052(c)(1)(B) of this title has a nonforfeitable right to employer contributions—
+    - **(A)** except as provided in subparagraph (B), each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service; and
+    - **(B)** paragraph (3) shall be applied by substituting “at least 500 hours of service” for “more than 500 hours of service” in subparagraph (A) thereof.
+  - **(5)** Cross references
     - **(A)** For definitions of “accrued benefit” and “normal retirement age”, see sections 1002(23) and (24) of this title.
     - **(B)** For effect of certain cash out distributions, see section 1054(d)(1) of this title .
 - **(c)**

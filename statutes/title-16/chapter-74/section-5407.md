@@ -3,9 +3,9 @@ title: "Section 5407 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5407"
 chapter: 74
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 5407"
-generated_at: "2026-03-30T02:39:18.176Z"
+generated_at: "2026-03-30T02:43:50.533Z"
 ---
 
 # § 5407. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

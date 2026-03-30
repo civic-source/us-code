@@ -3,9 +3,9 @@ title: "Section 742 - Omitted"
 usc_title: 16
 usc_section: "742"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 742"
-generated_at: "2026-03-30T02:39:18.028Z"
+generated_at: "2026-03-30T02:43:50.379Z"
 ---
 
 # § 742. Omitted

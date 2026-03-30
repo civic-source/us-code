@@ -3,9 +3,9 @@ title: "Section 2901 - Definitions"
 usc_title: 44
 usc_section: "2901"
 chapter: 29
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "44 U.S.C. § 2901"
-generated_at: "2026-03-30T02:40:29.367Z"
+generated_at: "2026-03-30T02:45:47.566Z"
 ---
 
 # § 2901. Definitions

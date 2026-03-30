@@ -3,9 +3,9 @@ title: "Section 3507 - Council on International Scientific and Technological Coo
 usc_title: 22
 usc_section: "3507"
 chapter: 50
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 3507"
-generated_at: "2026-03-30T02:39:30.651Z"
+generated_at: "2026-03-30T02:44:42.912Z"
 ---
 
 # § 3507. Council on International Scientific and Technological Cooperation

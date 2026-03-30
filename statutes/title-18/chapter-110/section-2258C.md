@@ -3,9 +3,9 @@ title: "Section 2258C - Use to combat child pornography of technical elements re
 usc_title: 18
 usc_section: "2258C"
 chapter: 110
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 2258C"
-generated_at: "2026-03-30T02:39:19.663Z"
+generated_at: "2026-03-30T02:43:43.763Z"
 ---
 
 # § 2258C. Use to combat child pornography of technical elements relating to reports made to the CyberTipline

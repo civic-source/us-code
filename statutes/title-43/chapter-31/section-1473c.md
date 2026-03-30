@@ -3,9 +3,9 @@ title: "Section 1473c - Payment of costs incidental to services contributed by v
 usc_title: 43
 usc_section: "1473c"
 chapter: 31
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 1473c"
-generated_at: "2026-03-30T02:40:30.277Z"
+generated_at: "2026-03-30T02:45:48.521Z"
 ---
 
 # § 1473c. Payment of costs incidental to services contributed by volunteers

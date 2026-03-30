@@ -3,9 +3,9 @@ title: "Section 2641a - Transportation of American Samoa veterans on Department 
 usc_title: 10
 usc_section: "2641a"
 chapter: 157
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 2641a"
-generated_at: "2026-03-30T02:38:38.448Z"
+generated_at: "2026-03-30T02:42:43.887Z"
 ---
 
 # § 2641a. Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii

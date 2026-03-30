@@ -3,9 +3,9 @@ title: "Section 9624 - Medical supplies: civilian employees of the Air Force; Am
 usc_title: 10
 usc_section: "9624"
 chapter: 969
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 9624"
-generated_at: "2026-03-30T02:38:38.538Z"
+generated_at: "2026-03-30T02:42:43.989Z"
 ---
 
 # § 9624. Medical supplies: civilian employees of the Air Force; American National Red Cross; Armed Forces Retirement Home

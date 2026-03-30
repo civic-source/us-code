@@ -3,9 +3,9 @@ title: "Section 254f - Corps personnel"
 usc_title: 42
 usc_section: "254f"
 chapter: 6
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 254f"
-generated_at: "2026-03-30T02:41:04.783Z"
+generated_at: "2026-03-30T02:46:03.976Z"
 ---
 
 # § 254f. Corps personnel

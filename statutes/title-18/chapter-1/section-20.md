@@ -3,9 +3,9 @@ title: "Section 20 - Financial institution defined"
 usc_title: 18
 usc_section: "20"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 20"
-generated_at: "2026-03-30T02:39:19.611Z"
+generated_at: "2026-03-30T02:43:43.713Z"
 ---
 
 # § 20. Financial institution defined

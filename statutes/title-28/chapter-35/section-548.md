@@ -3,9 +3,9 @@ title: "Section 548 - Salaries"
 usc_title: 28
 usc_section: "548"
 chapter: 35
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "28 U.S.C. § 548"
-generated_at: "2026-03-30T02:39:50.649Z"
+generated_at: "2026-03-30T02:44:47.244Z"
 ---
 
 # § 548. Salaries

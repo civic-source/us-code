@@ -3,9 +3,9 @@ title: "Section 50102 - Definitions"
 usc_title: 34
 usc_section: "50102"
 chapter: 501
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "34 U.S.C. § 50102"
-generated_at: "2026-03-30T02:40:15.472Z"
+generated_at: "2026-03-30T02:45:37.044Z"
 ---
 
 # § 50102. Definitions

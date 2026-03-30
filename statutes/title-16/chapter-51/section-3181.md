@@ -3,9 +3,9 @@ title: "Section 3181 - Alaska Land Use Council"
 usc_title: 16
 usc_section: "3181"
 chapter: 51
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 3181"
-generated_at: "2026-03-30T02:39:18.139Z"
+generated_at: "2026-03-30T02:43:50.494Z"
 ---
 
 # § 3181. Alaska Land Use Council

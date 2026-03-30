@@ -3,9 +3,9 @@ title: "Section 6408 - Emergency assistance"
 usc_title: 16
 usc_section: "6408"
 chapter: 83
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 6408"
-generated_at: "2026-03-30T02:39:18.182Z"
+generated_at: "2026-03-30T02:43:50.539Z"
 ---
 
 # § 6408. Emergency assistance

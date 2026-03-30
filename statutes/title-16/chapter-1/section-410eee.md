@@ -3,9 +3,9 @@ title: "Section 410eee - Findings and purposes"
 usc_title: 16
 usc_section: "410eee"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 410eee"
-generated_at: "2026-03-30T02:39:17.901Z"
+generated_at: "2026-03-30T02:43:50.247Z"
 ---
 
 # § 410eee. Findings and purposes

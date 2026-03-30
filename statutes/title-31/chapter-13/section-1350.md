@@ -3,9 +3,9 @@ title: "Section 1350 - Criminal penalty"
 usc_title: 31
 usc_section: "1350"
 chapter: 13
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "31 U.S.C. § 1350"
-generated_at: "2026-03-30T02:40:13.376Z"
+generated_at: "2026-03-30T02:45:32.587Z"
 ---
 
 # § 1350. Criminal penalty

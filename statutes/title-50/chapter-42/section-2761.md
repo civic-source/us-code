@@ -3,9 +3,9 @@ title: "Section 2761 - Restriction on use of funds to pay penalties under enviro
 usc_title: 50
 usc_section: "2761"
 chapter: 42
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 2761"
-generated_at: "2026-03-30T02:41:33.710Z"
+generated_at: "2026-03-30T02:46:16.199Z"
 ---
 
 # § 2761. Restriction on use of funds to pay penalties under environmental laws

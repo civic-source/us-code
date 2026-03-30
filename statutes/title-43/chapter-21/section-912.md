@@ -3,9 +3,9 @@ title: "Section 912 - Disposition of abandoned or forfeited railroad grants"
 usc_title: 43
 usc_section: "912"
 chapter: 21
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 912"
-generated_at: "2026-03-30T02:40:30.265Z"
+generated_at: "2026-03-30T02:45:48.509Z"
 ---
 
 # § 912. Disposition of abandoned or forfeited railroad grants

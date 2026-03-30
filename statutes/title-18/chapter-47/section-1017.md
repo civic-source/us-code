@@ -3,9 +3,9 @@ title: "Section 1017 - Government seals wrongfully used and instruments wrongful
 usc_title: 18
 usc_section: "1017"
 chapter: 47
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 1017"
-generated_at: "2026-03-30T02:39:19.639Z"
+generated_at: "2026-03-30T02:43:43.740Z"
 ---
 
 # § 1017. Government seals wrongfully used and instruments wrongfully sealed

@@ -3,9 +3,9 @@ title: "Section 2201 - Definitions"
 usc_title: 25
 usc_section: "2201"
 chapter: 24
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "25 U.S.C. § 2201"
-generated_at: "2026-03-30T02:39:26.269Z"
+generated_at: "2026-03-30T02:43:58.377Z"
 ---
 
 # § 2201. Definitions

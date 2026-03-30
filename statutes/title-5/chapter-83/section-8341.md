@@ -3,9 +3,9 @@ title: "Section 8341 - Survivor annuities"
 usc_title: 5
 usc_section: "8341"
 chapter: 83
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 8341"
-generated_at: "2026-03-30T02:38:10.835Z"
+generated_at: "2026-03-30T02:42:23.373Z"
 ---
 
 # § 8341. Survivor annuities

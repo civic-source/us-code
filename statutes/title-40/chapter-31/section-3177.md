@@ -3,9 +3,9 @@ title: "Section 3177 - Use of photovoltaic energy in public buildings"
 usc_title: 40
 usc_section: "3177"
 chapter: 31
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "40 U.S.C. § 3177"
-generated_at: "2026-03-30T02:40:20.740Z"
+generated_at: "2026-03-30T02:45:39.993Z"
 ---
 
 # § 3177. Use of photovoltaic energy in public buildings

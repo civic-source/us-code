@@ -3,9 +3,9 @@ title: "Section 2690 - Foreign gifts; audit; reports to Congress"
 usc_title: 22
 usc_section: "2690"
 chapter: 38
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 2690"
-generated_at: "2026-03-30T02:39:30.631Z"
+generated_at: "2026-03-30T02:44:42.887Z"
 ---
 
 # § 2690. Foreign gifts; audit; reports to Congress

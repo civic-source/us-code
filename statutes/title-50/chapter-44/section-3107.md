@@ -3,9 +3,9 @@ title: "Section 3107 - Certification of compliance with oversight requirements"
 usc_title: 50
 usc_section: "3107"
 chapter: 44
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 3107"
-generated_at: "2026-03-30T02:41:33.725Z"
+generated_at: "2026-03-30T02:46:16.216Z"
 ---
 
 # § 3107. Certification of compliance with oversight requirements

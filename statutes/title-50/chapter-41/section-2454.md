@@ -3,9 +3,9 @@ title: "Section 2454 - Semiannual financial reports on defense nuclear nonprolif
 usc_title: 50
 usc_section: "2454"
 chapter: 41
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 2454"
-generated_at: "2026-03-30T02:41:33.700Z"
+generated_at: "2026-03-30T02:46:16.188Z"
 ---
 
 # § 2454. Semiannual financial reports on defense nuclear nonproliferation programs

@@ -3,9 +3,9 @@ title: "Section 2103 - Supervision and maintenance of Old Senate Chamber"
 usc_title: 2
 usc_section: "2103"
 chapter: 30
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 2103"
-generated_at: "2026-03-30T02:38:04.743Z"
+generated_at: "2026-03-30T02:42:18.897Z"
 ---
 
 # § 2103. Supervision and maintenance of Old Senate Chamber

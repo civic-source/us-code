@@ -3,9 +3,9 @@ title: "Section 1966 - Protection of Members of Congress, officers of Congress, 
 usc_title: 2
 usc_section: "1966"
 chapter: 29
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 1966"
-generated_at: "2026-03-30T02:38:04.738Z"
+generated_at: "2026-03-30T02:42:18.892Z"
 ---
 
 # § 1966. Protection of Members of Congress, officers of Congress, and members of their families

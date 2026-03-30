@@ -3,9 +3,9 @@ title: "Section 2214 - State laws"
 usc_title: 12
 usc_section: "2214"
 chapter: 23
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 2214"
-generated_at: "2026-03-30T02:38:51.028Z"
+generated_at: "2026-03-30T02:43:29.883Z"
 ---
 
 # § 2214. State laws

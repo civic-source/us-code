@@ -3,9 +3,9 @@ title: "Section 657 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 16
 usc_section: "657"
 chapter: 5
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 657"
-generated_at: "2026-03-30T02:39:18.011Z"
+generated_at: "2026-03-30T02:43:50.362Z"
 ---
 
 # § 657. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 632

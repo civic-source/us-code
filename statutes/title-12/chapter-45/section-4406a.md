@@ -3,9 +3,9 @@ title: "Section 4406a - Treatment of contracts with uninsured national banks, un
 usc_title: 12
 usc_section: "4406a"
 chapter: 45
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 4406a"
-generated_at: "2026-03-30T02:38:51.066Z"
+generated_at: "2026-03-30T02:43:29.914Z"
 ---
 
 # § 4406a. Treatment of contracts with uninsured national banks, uninsured Federal branches and agencies, certain uninsured State member banks, and Edge Act corporations

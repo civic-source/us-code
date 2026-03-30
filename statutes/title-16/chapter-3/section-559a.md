@@ -3,9 +3,9 @@ title: "Section 559a - Reward for information leading to arrest and conviction f
 usc_title: 16
 usc_section: "559a"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 559a"
-generated_at: "2026-03-30T02:39:18.000Z"
+generated_at: "2026-03-30T02:43:50.350Z"
 ---
 
 # § 559a. Reward for information leading to arrest and conviction for violating laws and regulations

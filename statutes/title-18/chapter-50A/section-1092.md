@@ -3,9 +3,9 @@ title: "Section 1092 - Exclusive remedies"
 usc_title: 18
 usc_section: "1092"
 chapter: 50
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 1092"
-generated_at: "2026-03-30T02:39:19.642Z"
+generated_at: "2026-03-30T02:43:43.743Z"
 ---
 
 # § 1092. Exclusive remedies

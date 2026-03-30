@@ -3,9 +3,9 @@ title: "Section 1691 - Scope of prohibition"
 usc_title: 15
 usc_section: "1691"
 chapter: 41
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 1691"
-generated_at: "2026-03-30T02:38:47.771Z"
+generated_at: "2026-03-30T02:43:01.787Z"
 ---
 
 # § 1691. Scope of prohibition

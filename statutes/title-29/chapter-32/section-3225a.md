@@ -3,9 +3,9 @@ title: "Section 3225a - Addressing economic and workforce impacts of the opioid 
 usc_title: 29
 usc_section: "3225a"
 chapter: 32
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "29 U.S.C. § 3225a"
-generated_at: "2026-03-30T02:39:49.644Z"
+generated_at: "2026-03-30T02:45:08.907Z"
 ---
 
 # § 3225a. Addressing economic and workforce impacts of the opioid crisis
@@ -172,7 +172,7 @@ generated_at: "2026-03-30T02:39:49.644Z"
     - **(A)** The Secretary shall ensure that an independent evaluation is conducted on the pilot program carried out under this section to determine the impact of the program on employment of individuals with substance use disorders. The Secretary shall enter into an agreement with eligible entities receiving grants under this section to pay for all or part of such evaluation.
     - **(B)** The independent evaluation required under this paragraph shall use experimental designs using random assignment or, when random assignment is not feasible, other reliable, evidence-based research methodologies that allow for the strongest possible causal inferences.
 - **(g)**
-  - **(1)** In this subsection, the term “covered fiscal year” means any of fiscal years 2019 through 2023.
+  - **(1)** In this subsection, the term “covered fiscal year” means any of fiscal years 2019 through 2030.
   - **(2)** Subject to paragraph (4) and notwithstanding section 132(a)(2)(A) and subtitle D 1 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3172(a)(2)(A) , 3221 et seq.), the Secretary may use, to carry out the pilot program under this section for a covered fiscal year—
     - **(A)** funds made available to carry out section 170 of such Act ( 29 U.S.C. 3225 ) for that fiscal year;
     - **(B)** funds made available to carry out section 170 of such Act that remain available for that fiscal year; and

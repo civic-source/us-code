@@ -3,9 +3,9 @@ title: "Section 1759 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1759"
 chapter: 24
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 1759"
-generated_at: "2026-03-30T02:39:30.589Z"
+generated_at: "2026-03-30T02:44:42.832Z"
 ---
 
 # §§ 1755 to 1759. Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept. 4, 1961 , 75 Stat. 460

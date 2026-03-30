@@ -3,9 +3,9 @@ title: "Section 3405 - Task order contracts: advisory and assistance services"
 usc_title: 10
 usc_section: "3405"
 chapter: 245
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 3405"
-generated_at: "2026-03-30T02:38:38.475Z"
+generated_at: "2026-03-30T02:42:43.916Z"
 ---
 
 # § 3405. Task order contracts: advisory and assistance services

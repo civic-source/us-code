@@ -3,9 +3,9 @@ title: "Section 3904a - Additional reserve requirements"
 usc_title: 12
 usc_section: "3904a"
 chapter: 40
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 3904a"
-generated_at: "2026-03-30T02:38:51.057Z"
+generated_at: "2026-03-30T02:43:29.907Z"
 ---
 
 # § 3904a. Additional reserve requirements

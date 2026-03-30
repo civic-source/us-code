@@ -3,9 +3,9 @@ title: "Section 1111 - Improving economy and efficiency"
 usc_title: 31
 usc_section: "1111"
 chapter: 11
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "31 U.S.C. § 1111"
-generated_at: "2026-03-30T02:40:13.371Z"
+generated_at: "2026-03-30T02:45:32.582Z"
 ---
 
 # § 1111. Improving economy and efficiency

@@ -3,9 +3,9 @@ title: "Section 907a - National Commission on Social Security"
 usc_title: 42
 usc_section: "907a"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 907a"
-generated_at: "2026-03-30T02:41:05.034Z"
+generated_at: "2026-03-30T02:46:04.217Z"
 ---
 
 # § 907a. National Commission on Social Security

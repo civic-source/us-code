@@ -3,9 +3,9 @@ title: "Section 424 - Chickamauga and Chattanooga National Military Park"
 usc_title: 16
 usc_section: "424"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 424"
-generated_at: "2026-03-30T02:39:17.914Z"
+generated_at: "2026-03-30T02:43:50.261Z"
 ---
 
 # § 424. Chickamauga and Chattanooga National Military Park

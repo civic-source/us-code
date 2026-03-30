@@ -3,9 +3,9 @@ title: "Section 952 - Repealed. Pub. L. 92–310, title II, § 206(e)(1) , June 
 usc_title: 28
 usc_section: "952"
 chapter: 57
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "28 U.S.C. § 952"
-generated_at: "2026-03-30T02:39:50.656Z"
+generated_at: "2026-03-30T02:44:47.250Z"
 ---
 
 # [§ 952. Repealed. Pub. L. 92–310, title II, § 206(e)(1) , June 6, 1972 , 86 Stat. 203 ]

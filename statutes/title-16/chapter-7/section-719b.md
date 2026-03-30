@@ -3,9 +3,9 @@ title: "Section 719b - Acceptance of gifts, devises, and bequests"
 usc_title: 16
 usc_section: "719b"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 719b"
-generated_at: "2026-03-30T02:39:18.027Z"
+generated_at: "2026-03-30T02:43:50.379Z"
 ---
 
 # § 719b. Acceptance of gifts, devises, and bequests

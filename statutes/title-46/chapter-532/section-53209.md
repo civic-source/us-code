@@ -3,9 +3,9 @@ title: "Section 53209 - Authorization of appropriations"
 usc_title: 46
 usc_section: "53209"
 chapter: 532
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "46 U.S.C. § 53209"
-generated_at: "2026-03-30T02:41:10.830Z"
+generated_at: "2026-03-30T02:46:10.548Z"
 ---
 
 # § 53209. Authorization of appropriations

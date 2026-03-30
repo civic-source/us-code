@@ -3,9 +3,9 @@ title: "Section 1521 - Central Arizona Project"
 usc_title: 43
 usc_section: "1521"
 chapter: 32
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 1521"
-generated_at: "2026-03-30T02:40:30.278Z"
+generated_at: "2026-03-30T02:45:48.523Z"
 ---
 
 # § 1521. Central Arizona Project

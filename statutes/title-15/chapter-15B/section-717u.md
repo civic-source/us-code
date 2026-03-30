@@ -3,9 +3,9 @@ title: "Section 717u - Jurisdiction of offenses; enforcement of liabilities and 
 usc_title: 15
 usc_section: "717u"
 chapter: 15
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 717u"
-generated_at: "2026-03-30T02:38:47.719Z"
+generated_at: "2026-03-30T02:43:01.736Z"
 ---
 
 # § 717u. Jurisdiction of offenses; enforcement of liabilities and duties

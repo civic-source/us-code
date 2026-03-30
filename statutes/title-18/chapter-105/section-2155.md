@@ -3,9 +3,9 @@ title: "Section 2155 - Destruction of national-defense materials, national-defen
 usc_title: 18
 usc_section: "2155"
 chapter: 105
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 2155"
-generated_at: "2026-03-30T02:39:19.659Z"
+generated_at: "2026-03-30T02:43:43.760Z"
 ---
 
 # § 2155. Destruction of national-defense materials, national-defense premises, or national-defense utilities

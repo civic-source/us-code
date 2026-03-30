@@ -3,9 +3,9 @@ title: "Section 4601 - Establishment of Take Pride in America Program"
 usc_title: 16
 usc_section: "4601"
 chapter: 66
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 4601"
-generated_at: "2026-03-30T02:39:18.169Z"
+generated_at: "2026-03-30T02:43:50.526Z"
 ---
 
 # § 4601. Establishment of Take Pride in America Program

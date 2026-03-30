@@ -3,9 +3,9 @@ title: "Section 1635m - Mandatory reporting for lambs"
 usc_title: 7
 usc_section: "1635m"
 chapter: 38
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 1635m"
-generated_at: "2026-03-30T02:38:22.583Z"
+generated_at: "2026-03-30T02:42:50.745Z"
 ---
 
 # § 1635m. Mandatory reporting for lambs

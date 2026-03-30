@@ -3,9 +3,9 @@ title: "Section 41 - Hunting, fishing, trapping; disturbance or injury on wildli
 usc_title: 18
 usc_section: "41"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 41"
-generated_at: "2026-03-30T02:39:19.612Z"
+generated_at: "2026-03-30T02:43:43.714Z"
 ---
 
 # § 41. Hunting, fishing, trapping; disturbance or injury on wildlife refuges

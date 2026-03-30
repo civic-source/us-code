@@ -3,9 +3,9 @@ title: "Section 1682 - Pilot projects and demonstrations"
 usc_title: 16
 usc_section: "1682"
 chapter: 36
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 1682"
-generated_at: "2026-03-30T02:39:18.108Z"
+generated_at: "2026-03-30T02:43:50.462Z"
 ---
 
 # § 1682. Pilot projects and demonstrations

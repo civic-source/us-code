@@ -3,9 +3,9 @@ title: "Section 541h - Cooperation with State of Oregon in administration and pr
 usc_title: 16
 usc_section: "541h"
 chapter: 2
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 541h"
-generated_at: "2026-03-30T02:39:17.993Z"
+generated_at: "2026-03-30T02:43:50.343Z"
 ---
 
 # § 541h. Cooperation with State of Oregon in administration and protection of lands; civil and criminal jurisdiction; power of taxation

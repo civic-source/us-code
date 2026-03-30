@@ -3,9 +3,9 @@ title: "Section 41104 - Processing of fingerprint identification records and nam
 usc_title: 34
 usc_section: "41104"
 chapter: 411
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "34 U.S.C. § 41104"
-generated_at: "2026-03-30T02:40:15.470Z"
+generated_at: "2026-03-30T02:45:37.043Z"
 ---
 
 # § 41104. Processing of fingerprint identification records and name checks by FBI

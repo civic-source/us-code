@@ -3,9 +3,9 @@ title: "Section 423f - Protection of monuments, etc."
 usc_title: 16
 usc_section: "423f"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 423f"
-generated_at: "2026-03-30T02:39:17.914Z"
+generated_at: "2026-03-30T02:43:50.261Z"
 ---
 
 # § 423f. Protection of monuments, etc.

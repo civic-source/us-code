@@ -3,9 +3,9 @@ title: "Section 2721 - Prohibition on release and use of certain personal inform
 usc_title: 18
 usc_section: "2721"
 chapter: 123
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 2721"
-generated_at: "2026-03-30T02:39:19.675Z"
+generated_at: "2026-03-30T02:43:43.775Z"
 ---
 
 # § 2721. Prohibition on release and use of certain personal information from State motor vehicle records

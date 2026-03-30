@@ -3,9 +3,9 @@ title: "Section 4141b - Report to Congress"
 usc_title: 22
 usc_section: "4141b"
 chapter: 52
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 4141b"
-generated_at: "2026-03-30T02:39:30.668Z"
+generated_at: "2026-03-30T02:44:42.936Z"
 ---
 
 # § 4141b. Report to Congress

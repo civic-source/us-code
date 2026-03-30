@@ -3,9 +3,9 @@ title: "Section 1665j - Behavioral health program"
 usc_title: 25
 usc_section: "1665j"
 chapter: 18
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "25 U.S.C. § 1665j"
-generated_at: "2026-03-30T02:39:26.258Z"
+generated_at: "2026-03-30T02:43:58.362Z"
 ---
 
 # § 1665j. Behavioral health program

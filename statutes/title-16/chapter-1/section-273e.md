@@ -3,9 +3,9 @@ title: "Section 273e - Omitted"
 usc_title: 16
 usc_section: "273e"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 273e"
-generated_at: "2026-03-30T02:39:17.870Z"
+generated_at: "2026-03-30T02:43:50.216Z"
 ---
 
 # § 273e. Omitted

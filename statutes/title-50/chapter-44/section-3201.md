@@ -3,9 +3,9 @@ title: "Section 3201 - Program on advancement of foreign languages critical to t
 usc_title: 50
 usc_section: "3201"
 chapter: 44
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 3201"
-generated_at: "2026-03-30T02:41:33.728Z"
+generated_at: "2026-03-30T02:46:16.220Z"
 ---
 
 # § 3201. Program on advancement of foreign languages critical to the intelligence community

@@ -3,9 +3,9 @@ title: "Section 1591a - Construction by private enterprise"
 usc_title: 42
 usc_section: "1591a"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 1591a"
-generated_at: "2026-03-30T02:41:05.291Z"
+generated_at: "2026-03-30T02:46:04.475Z"
 ---
 
 # § 1591a. Construction by private enterprise

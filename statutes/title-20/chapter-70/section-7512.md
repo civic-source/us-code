@@ -3,9 +3,9 @@ title: "Section 7512 - Findings"
 usc_title: 20
 usc_section: "7512"
 chapter: 70
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 7512"
-generated_at: "2026-03-30T02:39:22.400Z"
+generated_at: "2026-03-30T02:43:39.320Z"
 ---
 
 # § 7512. Findings

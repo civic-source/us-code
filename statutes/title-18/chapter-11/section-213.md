@@ -3,9 +3,9 @@ title: "Section 213 - Acceptance of loan or gratuity by financial institution ex
 usc_title: 18
 usc_section: "213"
 chapter: 11
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 213"
-generated_at: "2026-03-30T02:39:19.615Z"
+generated_at: "2026-03-30T02:43:43.718Z"
 ---
 
 # § 213. Acceptance of loan or gratuity by financial institution examiner

@@ -3,9 +3,9 @@ title: "Section 77ppp - Directions and waivers by bondholders; prohibition of im
 usc_title: 15
 usc_section: "77ppp"
 chapter: 2
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 77ppp"
-generated_at: "2026-03-30T02:38:47.592Z"
+generated_at: "2026-03-30T02:43:01.616Z"
 ---
 
 # § 77ppp. Directions and waivers by bondholders; prohibition of impairment of holder’s right to payment; record date

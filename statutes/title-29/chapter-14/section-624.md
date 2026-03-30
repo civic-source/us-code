@@ -3,9 +3,9 @@ title: "Section 624 - Study by Secretary of Labor; reports to President and Cong
 usc_title: 29
 usc_section: "624"
 chapter: 14
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "29 U.S.C. § 624"
-generated_at: "2026-03-30T02:39:49.551Z"
+generated_at: "2026-03-30T02:45:08.765Z"
 ---
 
 # § 624. Study by Secretary of Labor; reports to President and Congress; scope of study; implementation of study; transmittal date of reports

@@ -3,9 +3,9 @@ title: "Section 191 - Appointment of receiver for a national bank"
 usc_title: 12
 usc_section: "191"
 chapter: 2
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 191"
-generated_at: "2026-03-30T02:38:50.899Z"
+generated_at: "2026-03-30T02:43:29.776Z"
 ---
 
 # § 191. Appointment of receiver for a national bank

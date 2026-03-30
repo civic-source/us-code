@@ -3,9 +3,9 @@ title: "Section 6338 - Prohibition of coercion"
 usc_title: 5
 usc_section: "6338"
 chapter: 63
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 6338"
-generated_at: "2026-03-30T02:38:10.818Z"
+generated_at: "2026-03-30T02:42:23.353Z"
 ---
 
 # § 6338. Prohibition of coercion

@@ -3,9 +3,9 @@ title: "Section 2668 - Omitted"
 usc_title: 7
 usc_section: "2668"
 chapter: 59
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 2668"
-generated_at: "2026-03-30T02:38:22.646Z"
+generated_at: "2026-03-30T02:42:50.813Z"
 ---
 
 # § 2668. Omitted

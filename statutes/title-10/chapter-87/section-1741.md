@@ -3,9 +3,9 @@ title: "Section 1741 - Policies and programs: establishment and implementation"
 usc_title: 10
 usc_section: "1741"
 chapter: 87
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 1741"
-generated_at: "2026-03-30T02:38:38.416Z"
+generated_at: "2026-03-30T02:42:43.851Z"
 ---
 
 # § 1741. Policies and programs: establishment and implementation

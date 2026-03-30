@@ -3,9 +3,9 @@ title: "Section 358 - Rights under prior leases; priority of pending application
 usc_title: 30
 usc_section: "358"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "30 U.S.C. § 358"
-generated_at: "2026-03-30T02:39:47.422Z"
+generated_at: "2026-03-30T02:44:53.596Z"
 ---
 
 # § 358. Rights under prior leases; priority of pending applications; exchange of leases

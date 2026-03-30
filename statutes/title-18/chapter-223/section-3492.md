@@ -3,9 +3,9 @@ title: "Section 3492 - Commission to consular officers to authenticate foreign d
 usc_title: 18
 usc_section: "3492"
 chapter: 223
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 3492"
-generated_at: "2026-03-30T02:39:19.685Z"
+generated_at: "2026-03-30T02:43:43.785Z"
 ---
 
 # § 3492. Commission to consular officers to authenticate foreign documents

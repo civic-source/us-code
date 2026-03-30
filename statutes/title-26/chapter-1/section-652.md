@@ -3,9 +3,9 @@ title: "Section 652 - Inclusion of amounts in gross income of beneficiaries of t
 usc_title: 26
 usc_section: "652"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "26 U.S.C. § 652"
-generated_at: "2026-03-30T02:40:09.680Z"
+generated_at: "2026-03-30T02:45:23.054Z"
 ---
 
 # § 652. Inclusion of amounts in gross income of beneficiaries of trusts distributing current income only

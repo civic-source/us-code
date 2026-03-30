@@ -3,9 +3,9 @@ title: "Section 21721 - Establishment of best practices for local, State, and Fe
 usc_title: 34
 usc_section: "21721"
 chapter: 217
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "34 U.S.C. § 21721"
-generated_at: "2026-03-30T02:40:15.459Z"
+generated_at: "2026-03-30T02:45:37.031Z"
 ---
 
 # § 21721. Establishment of best practices for local, State, and Federal data collection

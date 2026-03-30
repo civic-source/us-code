@@ -3,9 +3,9 @@ title: "Section 1067c - Use of funds"
 usc_title: 20
 usc_section: "1067c"
 chapter: 28
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 1067c"
-generated_at: "2026-03-30T02:39:22.255Z"
+generated_at: "2026-03-30T02:43:39.156Z"
 ---
 
 # § 1067c. Use of funds

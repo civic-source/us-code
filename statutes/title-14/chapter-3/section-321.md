@@ -3,9 +3,9 @@ title: "Section 321 - Congressional affairs; Director"
 usc_title: 14
 usc_section: "321"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "14 U.S.C. § 321"
-generated_at: "2026-03-30T02:38:41.334Z"
+generated_at: "2026-03-30T02:42:54.111Z"
 ---
 
 # § 321. Congressional affairs; Director

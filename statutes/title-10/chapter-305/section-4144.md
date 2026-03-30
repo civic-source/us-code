@@ -3,9 +3,9 @@ title: "Section 4144 - Research and educational programs and activities: histori
 usc_title: 10
 usc_section: "4144"
 chapter: 305
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 4144"
-generated_at: "2026-03-30T02:38:38.486Z"
+generated_at: "2026-03-30T02:42:43.929Z"
 ---
 
 # § 4144. Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education

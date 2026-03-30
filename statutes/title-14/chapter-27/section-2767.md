@@ -3,9 +3,9 @@ title: "Section 2767 - Reimbursement for medical-related travel expenses for cer
 usc_title: 14
 usc_section: "2767"
 chapter: 27
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "14 U.S.C. § 2767"
-generated_at: "2026-03-30T02:38:41.347Z"
+generated_at: "2026-03-30T02:42:54.130Z"
 ---
 
 # § 2767. Reimbursement for medical-related travel expenses for certain individuals residing on islands in the continental United States

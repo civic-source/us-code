@@ -3,9 +3,9 @@ title: "Section 1693c - Terms and conditions of transfers"
 usc_title: 15
 usc_section: "1693c"
 chapter: 41
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 1693c"
-generated_at: "2026-03-30T02:38:47.774Z"
+generated_at: "2026-03-30T02:43:01.791Z"
 ---
 
 # § 1693c. Terms and conditions of transfers

@@ -3,9 +3,9 @@ title: "Section 5912 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5912"
 chapter: 79
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 5912"
-generated_at: "2026-03-30T02:39:18.179Z"
+generated_at: "2026-03-30T02:43:50.535Z"
 ---
 
 # § 5912. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

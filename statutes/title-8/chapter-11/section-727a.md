@@ -3,9 +3,9 @@ title: "Section 727a - Repealed. Feb. 29, 1952, ch. 49, § 3 , 66 Stat. 10"
 usc_title: 8
 usc_section: "727a"
 chapter: 11
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "8 U.S.C. § 727a"
-generated_at: "2026-03-30T02:38:28.518Z"
+generated_at: "2026-03-30T02:42:32.049Z"
 ---
 
 # § 727a. Repealed. Feb. 29, 1952, ch. 49, § 3 , 66 Stat. 10

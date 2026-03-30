@@ -3,9 +3,9 @@ title: "Section 4624 - Personnel exchanges"
 usc_title: 15
 usc_section: "4624"
 chapter: 72
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 4624"
-generated_at: "2026-03-30T02:38:47.841Z"
+generated_at: "2026-03-30T02:43:01.855Z"
 ---
 
 # § 4624. Personnel exchanges

@@ -3,9 +3,9 @@ title: "Section 826 - Limitation on certain liability for rescue operations"
 usc_title: 30
 usc_section: "826"
 chapter: 22
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "30 U.S.C. § 826"
-generated_at: "2026-03-30T02:39:47.430Z"
+generated_at: "2026-03-30T02:44:53.603Z"
 ---
 
 # § 826. Limitation on certain liability for rescue operations

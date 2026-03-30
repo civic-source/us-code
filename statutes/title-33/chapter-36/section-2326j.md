@@ -3,9 +3,9 @@ title: "Section 2326j - Transfer of suitable dredged material"
 usc_title: 33
 usc_section: "2326j"
 chapter: 36
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "33 U.S.C. § 2326j"
-generated_at: "2026-03-30T02:40:17.715Z"
+generated_at: "2026-03-30T02:45:34.127Z"
 ---
 
 # § 2326j. Transfer of suitable dredged material

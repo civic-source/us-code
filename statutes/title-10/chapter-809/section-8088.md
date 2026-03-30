@@ -3,9 +3,9 @@ title: "Section 8088 - Judge Advocate General’s Corps: Office of the Judge Adv
 usc_title: 10
 usc_section: "8088"
 chapter: 809
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 8088"
-generated_at: "2026-03-30T02:38:38.513Z"
+generated_at: "2026-03-30T02:42:43.962Z"
 ---
 
 # § 8088. Judge Advocate General’s Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties

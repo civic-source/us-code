@@ -3,9 +3,9 @@ title: "Section 3332 - Cooperation between Federal agencies"
 usc_title: 42
 usc_section: "3332"
 chapter: 41
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 3332"
-generated_at: "2026-03-30T02:41:05.399Z"
+generated_at: "2026-03-30T02:46:04.579Z"
 ---
 
 # § 3332. Cooperation between Federal agencies

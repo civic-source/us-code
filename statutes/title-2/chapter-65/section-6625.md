@@ -3,9 +3,9 @@ title: "Section 6625 - Receipts from sales of items by Sergeant at Arms and Door
 usc_title: 2
 usc_section: "6625"
 chapter: 65
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 6625"
-generated_at: "2026-03-30T02:38:04.762Z"
+generated_at: "2026-03-30T02:42:18.920Z"
 ---
 
 # § 6625. Receipts from sales of items by Sergeant at Arms and Doorkeeper of Senate, to Senators, etc., to be credited to appropriation from which purchased

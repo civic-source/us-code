@@ -3,9 +3,9 @@ title: "Section 16277 - High-performance computation and supportive research"
 usc_title: 42
 usc_section: "16277"
 chapter: 149
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 16277"
-generated_at: "2026-03-30T02:41:05.779Z"
+generated_at: "2026-03-30T02:46:04.960Z"
 ---
 
 # § 16277. High-performance computation and supportive research

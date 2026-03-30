@@ -3,9 +3,9 @@ title: "Section 783 - Repealed. Pub. L. 87–558, § 1 , July 27, 1962 , 76 Stat
 usc_title: 43
 usc_section: "783"
 chapter: 19
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 783"
-generated_at: "2026-03-30T02:40:30.261Z"
+generated_at: "2026-03-30T02:45:48.505Z"
 ---
 
 # §§ 782, 783. Repealed. Pub. L. 87–558, § 1 , July 27, 1962 , 76 Stat. 246

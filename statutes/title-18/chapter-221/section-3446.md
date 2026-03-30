@@ -3,9 +3,9 @@ title: "Section 3446 - New trial—(Rule)"
 usc_title: 18
 usc_section: "3446"
 chapter: 221
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 3446"
-generated_at: "2026-03-30T02:39:19.685Z"
+generated_at: "2026-03-30T02:43:43.784Z"
 ---
 
 # § 3446. New trial—(Rule)

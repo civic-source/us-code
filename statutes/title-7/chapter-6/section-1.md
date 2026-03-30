@@ -3,9 +3,9 @@ title: "Section 1 - State primary enforcement responsibility"
 usc_title: 7
 usc_section: "1"
 chapter: 6
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:38:22.503Z"
+generated_at: "2026-03-30T02:42:50.662Z"
 ---
 
 # § 136w–1. State primary enforcement responsibility

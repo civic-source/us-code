@@ -3,9 +3,9 @@ title: "Section 3273 - Contributions of State or other public agencies toward co
 usc_title: 42
 usc_section: "3273"
 chapter: 40
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 3273"
-generated_at: "2026-03-30T02:41:05.399Z"
+generated_at: "2026-03-30T02:46:04.579Z"
 ---
 
 # § 3273. Contributions of State or other public agencies toward cost of soil surveys

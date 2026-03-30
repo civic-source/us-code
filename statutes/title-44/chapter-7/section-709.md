@@ -3,9 +3,9 @@ title: "Section 709 - Public and private laws, postal conventions, and treaties"
 usc_title: 44
 usc_section: "709"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "44 U.S.C. § 709"
-generated_at: "2026-03-30T02:40:29.360Z"
+generated_at: "2026-03-30T02:45:47.557Z"
 ---
 
 # § 709. Public and private laws, postal conventions, and treaties

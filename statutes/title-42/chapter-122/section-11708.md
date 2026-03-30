@@ -3,9 +3,9 @@ title: "Section 11708 - Assignment of personnel"
 usc_title: 42
 usc_section: "11708"
 chapter: 122
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 11708"
-generated_at: "2026-03-30T02:41:05.684Z"
+generated_at: "2026-03-30T02:46:04.865Z"
 ---
 
 # § 11708. Assignment of personnel

@@ -3,9 +3,9 @@ title: "Section 19120 - Evaluation"
 usc_title: 42
 usc_section: "19120"
 chapter: 163
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 19120"
-generated_at: "2026-03-30T02:41:05.866Z"
+generated_at: "2026-03-30T02:46:05.040Z"
 ---
 
 # § 19120. Evaluation

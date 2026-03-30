@@ -3,9 +3,9 @@ title: "Section 158a - Temporary possession of gifts of money or securities to L
 usc_title: 2
 usc_section: "158a"
 chapter: 5
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 158a"
-generated_at: "2026-03-30T02:38:04.698Z"
+generated_at: "2026-03-30T02:42:18.844Z"
 ---
 
 # § 158a. Temporary possession of gifts of money or securities to Library of Congress; investment

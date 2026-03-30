@@ -3,9 +3,9 @@ title: "Section 291a - Cooperative agreements with property owners of non-Federa
 usc_title: 16
 usc_section: "291a"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 291a"
-generated_at: "2026-03-30T02:39:17.873Z"
+generated_at: "2026-03-30T02:43:50.217Z"
 ---
 
 # § 291a. Cooperative agreements with property owners of non-Federal property

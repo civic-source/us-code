@@ -3,9 +3,9 @@ title: "Section 440a - Change in name of Fort McHenry Park"
 usc_title: 16
 usc_section: "440a"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 440a"
-generated_at: "2026-03-30T02:39:17.923Z"
+generated_at: "2026-03-30T02:43:50.269Z"
 ---
 
 # § 440a. Change in name of Fort McHenry Park

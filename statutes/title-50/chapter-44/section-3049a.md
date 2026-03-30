@@ -3,9 +3,9 @@ title: "Section 3049a - Special pay authority for science, technology, engineeri
 usc_title: 50
 usc_section: "3049a"
 chapter: 44
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 3049a"
-generated_at: "2026-03-30T02:41:33.719Z"
+generated_at: "2026-03-30T02:46:16.210Z"
 ---
 
 # § 3049a. Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise

@@ -3,9 +3,9 @@ title: "Section 2752 - Funds available for all national security programs of the
 usc_title: 50
 usc_section: "2752"
 chapter: 42
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 2752"
-generated_at: "2026-03-30T02:41:33.709Z"
+generated_at: "2026-03-30T02:46:16.198Z"
 ---
 
 # § 2752. Funds available for all national security programs of the Department of Energy

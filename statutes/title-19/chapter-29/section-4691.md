@@ -3,9 +3,9 @@ title: "Section 4691 - Transmission of reports"
 usc_title: 19
 usc_section: "4691"
 chapter: 29
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "19 U.S.C. § 4691"
-generated_at: "2026-03-30T02:39:13.567Z"
+generated_at: "2026-03-30T02:43:41.684Z"
 ---
 
 # § 4691. Transmission of reports

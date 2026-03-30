@@ -3,9 +3,9 @@ title: "Section 260 - Congressional declaration of policy; adoption and observan
 usc_title: 15
 usc_section: "260"
 chapter: 6
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 260"
-generated_at: "2026-03-30T02:38:47.654Z"
+generated_at: "2026-03-30T02:43:01.673Z"
 ---
 
 # § 260. Congressional declaration of policy; adoption and observance of uniform standard of time; authority of Secretary of Transportation

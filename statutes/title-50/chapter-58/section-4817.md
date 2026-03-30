@@ -3,9 +3,9 @@ title: "Section 4817 - Requirements to identify and control the export of emergi
 usc_title: 50
 usc_section: "4817"
 chapter: 58
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 4817"
-generated_at: "2026-03-30T02:41:33.779Z"
+generated_at: "2026-03-30T02:46:16.278Z"
 ---
 
 # § 4817. Requirements to identify and control the export of emerging and foundational technologies

@@ -3,9 +3,9 @@ title: "Section 1969 - Repealed. Pub. L. 93–24, § 1 , Apr. 20, 1973 , 87 Stat
 usc_title: 7
 usc_section: "1969"
 chapter: 50
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 1969"
-generated_at: "2026-03-30T02:38:22.601Z"
+generated_at: "2026-03-30T02:42:50.765Z"
 ---
 
 # § 1969. Repealed. Pub. L. 93–24, § 1 , Apr. 20, 1973 , 87 Stat. 24

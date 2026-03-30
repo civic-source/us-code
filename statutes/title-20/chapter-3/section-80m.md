@@ -3,9 +3,9 @@ title: "Section 80m - Powers of Board"
 usc_title: 20
 usc_section: "80m"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 80m"
-generated_at: "2026-03-30T02:39:22.226Z"
+generated_at: "2026-03-30T02:43:39.124Z"
 ---
 
 # § 80m. Powers of Board

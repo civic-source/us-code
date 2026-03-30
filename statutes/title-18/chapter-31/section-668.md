@@ -3,9 +3,9 @@ title: "Section 668 - Theft of major artwork"
 usc_title: 18
 usc_section: "668"
 chapter: 31
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "18 U.S.C. § 668"
-generated_at: "2026-03-30T02:39:19.626Z"
+generated_at: "2026-03-30T02:43:43.727Z"
 ---
 
 # § 668. Theft of major artwork

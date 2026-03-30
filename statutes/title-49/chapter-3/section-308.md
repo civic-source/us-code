@@ -3,9 +3,9 @@ title: "Section 308 - Reports"
 usc_title: 49
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "49 U.S.C. § 308"
-generated_at: "2026-03-30T02:41:31.746Z"
+generated_at: "2026-03-30T02:46:14.174Z"
 ---
 
 # § 308. Reports

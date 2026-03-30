@@ -3,9 +3,9 @@ title: "Section 1712 - Duties of lessees, operators, and motor vehicle transport
 usc_title: 30
 usc_section: "1712"
 chapter: 29
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "30 U.S.C. § 1712"
-generated_at: "2026-03-30T02:39:47.456Z"
+generated_at: "2026-03-30T02:44:53.632Z"
 ---
 
 # § 1712. Duties of lessees, operators, and motor vehicle transporters

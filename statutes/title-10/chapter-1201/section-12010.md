@@ -3,9 +3,9 @@ title: "Section 12010 - Computations for Navy Reserve and Marine Corps Reserve: 
 usc_title: 10
 usc_section: "12010"
 chapter: 1201
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 12010"
-generated_at: "2026-03-30T02:38:38.543Z"
+generated_at: "2026-03-30T02:42:43.996Z"
 ---
 
 # § 12010. Computations for Navy Reserve and Marine Corps Reserve: rule when fraction occurs in final result

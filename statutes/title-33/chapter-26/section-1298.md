@@ -3,9 +3,9 @@ title: "Section 1298 - Cost effectiveness"
 usc_title: 33
 usc_section: "1298"
 chapter: 26
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "33 U.S.C. § 1298"
-generated_at: "2026-03-30T02:40:17.668Z"
+generated_at: "2026-03-30T02:45:34.083Z"
 ---
 
 # § 1298. Cost effectiveness

@@ -3,9 +3,9 @@ title: "Section 1416 - Denial of certification of applications and of issuance, 
 usc_title: 30
 usc_section: "1416"
 chapter: 26
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "30 U.S.C. § 1416"
-generated_at: "2026-03-30T02:39:47.452Z"
+generated_at: "2026-03-30T02:44:53.626Z"
 ---
 
 # § 1416. Denial of certification of applications and of issuance, transfer, suspension, and revocation of licenses and permits; suspension and modification of activities

@@ -3,9 +3,9 @@ title: "Section 1132 - Presentation of decorations: prohibition on entering corr
 usc_title: 10
 usc_section: "1132"
 chapter: 57
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 1132"
-generated_at: "2026-03-30T02:38:38.390Z"
+generated_at: "2026-03-30T02:42:43.820Z"
 ---
 
 # § 1132. Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies

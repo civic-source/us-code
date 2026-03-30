@@ -3,9 +3,9 @@ title: "Section 1600h - Separability"
 usc_title: 43
 usc_section: "1600h"
 chapter: 32
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 1600h"
-generated_at: "2026-03-30T02:40:30.282Z"
+generated_at: "2026-03-30T02:45:48.528Z"
 ---
 
 # § 1600h. Separability

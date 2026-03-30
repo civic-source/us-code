@@ -3,9 +3,9 @@ title: "Section 1629b - Procedures for considering amendments and resolutions"
 usc_title: 43
 usc_section: "1629b"
 chapter: 33
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 1629b"
-generated_at: "2026-03-30T02:40:30.288Z"
+generated_at: "2026-03-30T02:45:48.534Z"
 ---
 
 # § 1629b. Procedures for considering amendments and resolutions

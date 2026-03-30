@@ -3,9 +3,9 @@ title: "Section 825j - Investigations relating to electric energy; reports to Co
 usc_title: 16
 usc_section: "825j"
 chapter: 12
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 825j"
-generated_at: "2026-03-30T02:39:18.045Z"
+generated_at: "2026-03-30T02:43:50.397Z"
 ---
 
 # § 825j. Investigations relating to electric energy; reports to Congress

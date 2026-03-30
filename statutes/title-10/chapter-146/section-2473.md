@@ -3,9 +3,9 @@ title: "Section 2473 - Annual five-year plans on improvement of depot infrastruc
 usc_title: 10
 usc_section: "2473"
 chapter: 146
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 2473"
-generated_at: "2026-03-30T02:38:38.441Z"
+generated_at: "2026-03-30T02:42:43.878Z"
 ---
 
 # § 2473. Annual five-year plans on improvement of depot infrastructure

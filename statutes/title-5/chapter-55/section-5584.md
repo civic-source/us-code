@@ -3,9 +3,9 @@ title: "Section 5584 - Claims for overpayment of pay and allowances, and of trav
 usc_title: 5
 usc_section: "5584"
 chapter: 55
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 5584"
-generated_at: "2026-03-30T02:38:10.808Z"
+generated_at: "2026-03-30T02:42:23.343Z"
 ---
 
 # § 5584. Claims for overpayment of pay and allowances, and of travel, transportation and relocation expenses and allowances

@@ -3,19 +3,21 @@ title: "Section 629g - Discretionary and targeted grants"
 usc_title: 42
 usc_section: "629g"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 629g"
-generated_at: "2026-03-30T02:41:05.007Z"
+generated_at: "2026-03-30T02:46:04.192Z"
 ---
 
 # § 629g. Discretionary and targeted grants
 
-- **(a)** In addition to any amount appropriated pursuant to section 629f of this title , there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2017 through 2023.
+- **(a)** In addition to any amount appropriated pursuant to section 629f of this title , there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2025 through 2029.
 - **(b)** From the amount (if any) appropriated pursuant to subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:
-  - **(1)** The Secretary shall reserve 3.3 percent for expenditure by the Secretary for the activities described in section 629f(b)(1) of this title .
+  - **(1)** The Secretary shall reserve 3.3 percent for expenditure by the Secretary for the activities described in section 629e of this title .
   - **(2)** The Secretary shall reserve 3.3 percent for grants under section 629h of this title .
   - **(3)** The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1).
   - **(4)** The Secretary shall reserve $5,000,000 of the amount made available for fiscal year 2018 for grants under subsection (g), and the amount so reserved shall remain available through fiscal year 2022.
+  - **(5)** The Secretary shall reserve $5,000,000 for grants under section 629e(f) of this title for each of fiscal years 2026 through 2029.
+  - **(6)** The Secretary shall reserve $10,000,000 for grants under section 627 of this title for each of fiscal years 2026 through 2029.
 - **(c)**
   - **(1)** From the amount (if any) reserved pursuant to subsection (b)(3) for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
   - **(2)** From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection 1 1 So in original. Probably should be “subsection”. (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title .
@@ -25,13 +27,13 @@ generated_at: "2026-03-30T02:41:05.007Z"
   - **(2)** the allotment of the State under subsection (c) for the fiscal year.
 - **(e)** The rules of subsections (b) and (c) of section 629d of this title shall apply in like manner to the amounts made available pursuant to subsection (a).
 - **(f)**
-  - **(1)** The purpose of this subsection is to authorize the Secretary to make competitive grants to regional partnerships to provide, through interagency collaboration and integration of programs and services, services and activities that are designed to increase the well-being of, improve permanency outcomes for, and enhance the safety of children who are in an out-of-home placement or are at risk of being placed in an out-of-home placement as a result of a parent’s or caretaker’s substance abuse.
+  - **(1)** The purpose of this subsection is to authorize the Secretary to make competitive grants to regional partnerships to provide, through interagency collaboration and integration of programs and services, services and activities that are designed to increase the well-being of, improve permanency outcomes for, and enhance the safety of children who are in an out-of-home placement or are at risk of being placed in an out-of-home placement as a result of a parent’s or caretaker’s substance abuse, and expand the scope of the evidence-based services that may be approved by the clearinghouse established under section 676(d) of this title .
   - **(2)** In this subsection, the term “regional partnership” means a collaborative agreement (which may be established on an interstate, State, or intrastate basis) entered into by the following:
     - **(A)**
       - **(i)** The State child welfare agency that is responsible for the administration of the State plan under this part and part E.
       - **(ii)** The State agency responsible for administering the substance abuse prevention and treatment block grant provided under subpart II of part B of title XIX of the Public Health Service Act [ 42 U.S.C. 300x–21 et seq.].
-    - **(B)** If the partnership proposes to serve children in out-of-home placements, the Juvenile Court or Administrative Office of the Court that is most appropriate to oversee the administration of court programs in the region to address the population of families who come to the attention of the court due to child abuse or neglect.
-    - **(C)** At the option of the partnership, any of the following:
+      - **(iii)** The most appropriate administrative office of the juvenile court or State court overseeing court proceedings involving families who come to the attention of the court due to child abuse or neglect.
+    - **(B)** At the option of the partnership, any of the following:
       - **(i)** An Indian tribe or tribal consortium.
       - **(ii)** Nonprofit child welfare service providers.
       - **(iii)** For-profit child welfare service providers.
@@ -40,17 +42,19 @@ generated_at: "2026-03-30T02:41:05.007Z"
       - **(vi)** Local law enforcement agencies.
       - **(vii)** School personnel.
       - **(viii)** Tribal child welfare agencies (or a consortia of the agencies).
-      - **(ix)** Any other providers, agencies, personnel, officials, or entities that are related to the provision of child and family services under a State plan approved under this subpart.
-    - **(D)** If an Indian tribe or tribal consortium enters into a regional partnership for purposes of this subsection, the Indian tribe or tribal consortium—
-      - **(i)** may (but is not required to) include the State child welfare agency as a partner in the collaborative agreement;
-      - **(ii)** may not enter into a collaborative agreement only with tribal child welfare agencies (or a consortium of the agencies); and
-      - **(iii)** if the condition described in paragraph (2)(B) applies, may include tribal court organizations in lieu of other judicial partners.
+      - **(ix)** State or local agencies that administer Federal health care, housing, family support, or other related programs.
+      - **(x)** Any other providers, agencies, personnel, officials, or entities that are related to the provision of child and family services under a State plan approved under this subpart.
+    - **(C)** If an Indian tribe or tribal consortium enters into a regional partnership for purposes of this subsection, the Indian tribe or tribal consortium—
+      - **(i)** may (but is not required to) include the State child welfare agency as a partner in the collaborative agreement; and
+      - **(ii)** may not enter into a collaborative agreement only with tribal child welfare agencies (or a consortium of the agencies).
   - **(3)**
-    - **(A)** In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2017 through 2023 under section 629f(b)(5) of this title , to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.
+    - **(A)** The Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2025 through 2029 under section 629f(b)(4) of this title , to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.
     - **(B)**
       - **(i)** A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years, subject to clauses (ii) and (iii).
       - **(ii)** On application of the grantee, the Secretary may extend for not more than 2 fiscal years the period for which a grant is awarded under this subsection.
-      - **(iii)** A grant awarded under this subsection shall be disbursed in two phases: a planning phase (not to exceed 2 years) and an implementation phase. The total disbursement to a grantee for the planning phase may not exceed $250,000, and may not exceed the total anticipated funding for the implementation phase.
+      - **(iii)**
+        - **(I)** A grant awarded under this subsection shall be disbursed in two phases: a planning phase (not to exceed 2 years) and an implementation phase. The total disbursement to a grantee for the planning phase may not exceed the total anticipated funding for the implementation phase.
+        - **(II)** The Secretary, on a case-by-case basis, may waive the planning phase for a partnership that demonstrates that the partnership has engaged in sufficient planning before submitting an application for a grant under this subsection.
     - **(C)** This subsection shall not be interpreted to prevent a grantee from applying for, or being awarded, separate grants under this subsection.
     - **(D)** No payment shall be made under subparagraph (A) or (C) for a fiscal year until the Secretary determines that the eligible partnership has made sufficient progress in meeting the goals of the grant and that the members of the eligible partnership are coordinating to a reasonable degree with the other members of the eligible partnership.
   - **(4)** To be eligible for a grant under this subsection, a regional partnership shall submit to the Secretary a written application containing the following:
@@ -84,23 +88,27 @@ generated_at: "2026-03-30T02:41:05.007Z"
     - **(A)** demonstrate that substance abuse by parents or caretakers has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;
     - **(B)** have limited resources for addressing the needs of children affected by such abuse;
     - **(C)** have a lack of capacity for, or access to, comprehensive family treatment services;
-    - **(D)** demonstrate a track record of successful collaboration among child welfare, substance abuse disorder treatment and mental health agencies; and
-    - **(E)** demonstrate a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period.
+    - **(D)** demonstrate a track record of successful collaboration among child welfare, substance abuse disorder treatment and mental health agencies;
+    - **(E)** demonstrate a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period;
+    - **(F)** have submitted information pursuant to paragraph (4)(F) that demonstrates the capability to participate in rigorous evaluation of program effectiveness; and
+    - **(G)** are a State or public agency, or outline a plan to increase the availability of services funded under the grant statewide.
   - **(8)**
-    - **(A)** Not later than 9 months after September 28, 2006 , the Secretary shall review indicators that are used to assess periodically the performance of the grant recipients under this subsection and establish a set of core indicators related to child safety, parental recovery, parenting capacity, and family well-being. In developing the core indicators, to the extent possible, indicators shall be made consistent with the outcome measures described in section 671(e)(6) of this title .
+    - **(A)** Not later than 9 months after September 28, 2006 , the Secretary shall review indicators that are used to assess periodically the performance of the grant recipients under the Protecting America’s Children by Strengthening Families Act and establish a set of core indicators related to child safety, child permanency, reunification, re-entry into care, parental recovery, parenting capacity, and family well-being, and access to services for families with substance use disorder, including those with children who are overrepresented in foster care, difficult to place, or have disproportionately low permanency rates. In developing the core indicators, to the extent possible, indicators shall be made consistent with the outcome measures described in section 671(e)(6) of this title .
     - **(B)** In establishing the performance indicators required by subparagraph (A), the Secretary shall base the performance measures on lessons learned from prior rounds of regional partnership grants under this subsection, and consult with the following:
       - **(i)** The Assistant Secretary for the Administration for Children and Families.
       - **(ii)** The Administrator of the Substance Abuse and Mental Health Services Administration.
-      - **(iii)** Other stakeholders or constituencies as determined by the Secretary.
+      - **(iii)** The Administrator of the National Institute on Drug Abuse.
+      - **(iv)** Other stakeholders or constituencies as determined by the Secretary.
   - **(9)**
     - **(A)**
       - **(i)** Not later than September 30 of each fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and every 6 months thereafter, the grant recipient shall submit to the Secretary a report on the services provided and activities carried out during the reporting period, progress made in achieving the goals of the program, the number of children, adults, and families receiving services, and such additional information as the Secretary determines is necessary. The report due not later than September 30 of the last such fiscal year shall include, at a minimum, data on each of the performance indicators included in the evaluation of the regional partnership.
       - **(ii)** Each recipient of a grant under this subsection shall incorporate into the first annual report required by clause (i) that is submitted after the establishment of performance indicators under paragraph (8), information required in relation to such indicators.
     - **(B)** On the basis of the reports submitted under subparagraph (A), the Secretary annually shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
       - **(i)** the services provided and activities conducted with funds provided under grants awarded under this subsection;
-      - **(ii)** the performance indicators established under paragraph (8); and
-      - **(iii)** the progress that has been made in addressing the needs of families with substance abuse problems who come to the attention of the child welfare system and in achieving the goals of child safety, permanence, and family stability.
-  - **(10)** Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2017 through 2023 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
+      - **(ii)** the performance indicators established under paragraph (8);
+      - **(iii)** the progress that has been made in addressing the needs of families with substance abuse problems who come to the attention of the child welfare system and in achieving the goals of child safety, permanence, and family stability; and
+      - **(iv)** whether any programs funded by the grants were submitted to the clearinghouse established under section 676(d) of this title for review and the results of any such review.
+  - **(10)** Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
 - **(g)**
   - **(1)** The purpose of this subsection is to facilitate the development of an electronic interstate case-processing system for the exchange of data and documents to expedite the placements of children in foster, guardianship, or adoptive homes across State lines.
   - **(2)** A State that seeks funding under this subsection shall submit to the Secretary the following:

@@ -3,9 +3,9 @@ title: "Section 8708 - Government contributions"
 usc_title: 5
 usc_section: "8708"
 chapter: 87
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 8708"
-generated_at: "2026-03-30T02:38:10.850Z"
+generated_at: "2026-03-30T02:42:23.390Z"
 ---
 
 # § 8708. Government contributions

@@ -3,9 +3,9 @@ title: "Section 2095 - Recovery of payments"
 usc_title: 50
 usc_section: "2095"
 chapter: 38
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 2095"
-generated_at: "2026-03-30T02:41:33.694Z"
+generated_at: "2026-03-30T02:46:16.182Z"
 ---
 
 # § 2095. Recovery of payments

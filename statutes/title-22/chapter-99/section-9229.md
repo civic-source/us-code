@@ -3,9 +3,9 @@ title: "Section 9229 - Report on and imposition of sanctions to address persons 
 usc_title: 22
 usc_section: "9229"
 chapter: 99
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 9229"
-generated_at: "2026-03-30T02:39:30.731Z"
+generated_at: "2026-03-30T02:44:43.019Z"
 ---
 
 # § 9229. Report on and imposition of sanctions to address persons responsible for knowingly engaging in significant activities undermining cybersecurity

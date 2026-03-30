@@ -3,9 +3,9 @@ title: "Section 2013 - Training at non-Government facilities"
 usc_title: 10
 usc_section: "2013"
 chapter: 101
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 2013"
-generated_at: "2026-03-30T02:38:38.421Z"
+generated_at: "2026-03-30T02:42:43.855Z"
 ---
 
 # § 2013. Training at non-Government facilities

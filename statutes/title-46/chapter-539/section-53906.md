@@ -3,9 +3,9 @@ title: "Section 53906 - Hull insurance valuation"
 usc_title: 46
 usc_section: "53906"
 chapter: 539
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "46 U.S.C. § 53906"
-generated_at: "2026-03-30T02:41:10.840Z"
+generated_at: "2026-03-30T02:46:10.553Z"
 ---
 
 # § 53906. Hull insurance valuation

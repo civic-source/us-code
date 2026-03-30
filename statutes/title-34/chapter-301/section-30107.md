@@ -3,9 +3,9 @@ title: "Section 30107 - Local law enforcement grants for enforcement of cybercri
 usc_title: 34
 usc_section: "30107"
 chapter: 301
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "34 U.S.C. § 30107"
-generated_at: "2026-03-30T02:40:15.460Z"
+generated_at: "2026-03-30T02:45:37.032Z"
 ---
 
 # § 30107. Local law enforcement grants for enforcement of cybercrimes

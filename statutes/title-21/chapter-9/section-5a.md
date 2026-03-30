@@ -3,9 +3,9 @@ title: "Section 5a - Emerging technology program"
 usc_title: 21
 usc_section: "5a"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "21 U.S.C. § 5a"
-generated_at: "2026-03-30T02:39:43.947Z"
+generated_at: "2026-03-30T02:43:56.721Z"
 ---
 
 # § 360bbb–5a. Emerging technology program

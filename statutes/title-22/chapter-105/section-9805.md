@@ -3,9 +3,9 @@ title: "Section 9805 - Priority country and regional plans"
 usc_title: 22
 usc_section: "9805"
 chapter: 105
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 9805"
-generated_at: "2026-03-30T02:39:30.741Z"
+generated_at: "2026-03-30T02:44:43.031Z"
 ---
 
 # § 9805. Priority country and regional plans

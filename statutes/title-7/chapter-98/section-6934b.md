@@ -3,9 +3,9 @@ title: "Section 6934b - Agricultural Youth Organization Coordinator"
 usc_title: 7
 usc_section: "6934b"
 chapter: 98
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 6934b"
-generated_at: "2026-03-30T02:38:22.701Z"
+generated_at: "2026-03-30T02:42:50.869Z"
 ---
 
 # § 6934b. Agricultural Youth Organization Coordinator

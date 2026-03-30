@@ -3,9 +3,9 @@ title: "Section 3313 - Competitive service; registers of eligibles"
 usc_title: 5
 usc_section: "3313"
 chapter: 33
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 3313"
-generated_at: "2026-03-30T02:38:10.788Z"
+generated_at: "2026-03-30T02:42:23.320Z"
 ---
 
 # § 3313. Competitive service; registers of eligibles

@@ -3,9 +3,9 @@ title: "Section 231m - Assignability; exemption from levy"
 usc_title: 45
 usc_section: "231m"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "45 U.S.C. § 231m"
-generated_at: "2026-03-30T02:40:47.225Z"
+generated_at: "2026-03-30T02:45:46.513Z"
 ---
 
 # § 231m. Assignability; exemption from levy

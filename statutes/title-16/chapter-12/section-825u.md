@@ -3,9 +3,9 @@ title: "Section 825u - Interest rate on power bonds held by Administrator of Gen
 usc_title: 16
 usc_section: "825u"
 chapter: 12
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 825u"
-generated_at: "2026-03-30T02:39:18.046Z"
+generated_at: "2026-03-30T02:43:50.398Z"
 ---
 
 # § 825u. Interest rate on power bonds held by Administrator of General Services

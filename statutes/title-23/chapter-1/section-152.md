@@ -3,9 +3,9 @@ title: "Section 152 - Hazard elimination program"
 usc_title: 23
 usc_section: "152"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "23 U.S.C. § 152"
-generated_at: "2026-03-30T02:39:38.553Z"
+generated_at: "2026-03-30T02:43:54.425Z"
 ---
 
 # § 152. Hazard elimination program

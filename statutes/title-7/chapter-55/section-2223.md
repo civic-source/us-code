@@ -3,9 +3,9 @@ title: "Section 2223 - Details of employees from and to library and bureaus and 
 usc_title: 7
 usc_section: "2223"
 chapter: 55
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 2223"
-generated_at: "2026-03-30T02:38:22.637Z"
+generated_at: "2026-03-30T02:42:50.803Z"
 ---
 
 # § 2223. Details of employees from and to library and bureaus and offices

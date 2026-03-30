@@ -3,9 +3,9 @@ title: "Section 3620 - Authority of Ambassador; independence of Commission regar
 usc_title: 22
 usc_section: "3620"
 chapter: 51
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 3620"
-generated_at: "2026-03-30T02:39:30.652Z"
+generated_at: "2026-03-30T02:44:42.915Z"
 ---
 
 # § 3620. Authority of Ambassador; independence of Commission regarding its Panama Canal responsibilities

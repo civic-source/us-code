@@ -3,9 +3,9 @@ title: "Section 10603d - Transferred"
 usc_title: 42
 usc_section: "10603d"
 chapter: 112
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 10603d"
-generated_at: "2026-03-30T02:41:05.665Z"
+generated_at: "2026-03-30T02:46:04.847Z"
 ---
 
 # § 10603d. Transferred

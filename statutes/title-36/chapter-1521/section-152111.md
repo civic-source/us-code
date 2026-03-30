@@ -3,9 +3,9 @@ title: "Section 152111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "152111"
 chapter: 1521
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "36 U.S.C. § 152111"
-generated_at: "2026-03-30T02:40:22.803Z"
+generated_at: "2026-03-30T02:45:40.885Z"
 ---
 
 # § 152111. Liability for acts of officers and agents

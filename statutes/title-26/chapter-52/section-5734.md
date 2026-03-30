@@ -3,9 +3,9 @@ title: "Section 5734 - Application of State laws"
 usc_title: 26
 usc_section: "5734"
 chapter: 52
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "26 U.S.C. § 5734"
-generated_at: "2026-03-30T02:40:09.802Z"
+generated_at: "2026-03-30T02:45:23.184Z"
 ---
 
 # § 5734. Application of State laws

@@ -3,9 +3,9 @@ title: "Section 8101 - Prescribed number; vacancies"
 usc_title: 10
 usc_section: "8101"
 chapter: 811
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 8101"
-generated_at: "2026-03-30T02:38:38.513Z"
+generated_at: "2026-03-30T02:42:43.962Z"
 ---
 
 # § 8101. Prescribed number; vacancies

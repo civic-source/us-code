@@ -3,9 +3,9 @@ title: "Section 2933 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2933"
 chapter: 34
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 2933"
-generated_at: "2026-03-30T02:41:05.374Z"
+generated_at: "2026-03-30T02:46:04.554Z"
 ---
 
 # §§ 2931 to 2933. Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13, 1981 , 95 Stat. 519

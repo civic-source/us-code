@@ -3,9 +3,9 @@ title: "Section 939 - Accounting for industrial work"
 usc_title: 14
 usc_section: "939"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "14 U.S.C. § 939"
-generated_at: "2026-03-30T02:38:41.337Z"
+generated_at: "2026-03-30T02:42:54.116Z"
 ---
 
 # § 939. Accounting for industrial work

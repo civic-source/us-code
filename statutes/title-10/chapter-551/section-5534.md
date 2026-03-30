@@ -3,9 +3,9 @@ title: "Section 5534 - Integration and interoperability of air and missile defen
 usc_title: 10
 usc_section: "5534"
 chapter: 551
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 5534"
-generated_at: "2026-03-30T02:38:38.500Z"
+generated_at: "2026-03-30T02:42:43.947Z"
 ---
 
 # § 5534. Integration and interoperability of air and missile defense capabilities

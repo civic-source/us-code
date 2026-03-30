@@ -3,9 +3,9 @@ title: "Section 1506 - Conduct of proceedings"
 usc_title: 17
 usc_section: "1506"
 chapter: 15
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "17 U.S.C. § 1506"
-generated_at: "2026-03-30T02:39:05.161Z"
+generated_at: "2026-03-30T02:43:46.319Z"
 ---
 
 # § 1506. Conduct of proceedings

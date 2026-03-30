@@ -3,9 +3,9 @@ title: "Section 9567a - Commissioner for Special Education Research"
 usc_title: 20
 usc_section: "9567a"
 chapter: 76
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 9567a"
-generated_at: "2026-03-30T02:39:22.419Z"
+generated_at: "2026-03-30T02:43:39.342Z"
 ---
 
 # § 9567a. Commissioner for Special Education Research

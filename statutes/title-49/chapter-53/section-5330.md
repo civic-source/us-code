@@ -3,9 +3,9 @@ title: "Section 5330 - Repealed. Pub. L. 112–141, div. B, § 20030(e) , July 6
 usc_title: 49
 usc_section: "5330"
 chapter: 53
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "49 U.S.C. § 5330"
-generated_at: "2026-03-30T02:41:31.768Z"
+generated_at: "2026-03-30T02:46:14.199Z"
 ---
 
 # [§ 5330. Repealed. Pub. L. 112–141, div. B, § 20030(e) , July 6, 2012 , 126 Stat. 731 ]

@@ -3,9 +3,9 @@ title: "Section 41767 - Termination"
 usc_title: 49
 usc_section: "41767"
 chapter: 417
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "49 U.S.C. § 41767"
-generated_at: "2026-03-30T02:41:31.845Z"
+generated_at: "2026-03-30T02:46:14.281Z"
 ---
 
 # § 41767. Termination

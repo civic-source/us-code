@@ -3,9 +3,9 @@ title: "Section 12474 - Collaborative grants to increase the long-term stability
 usc_title: 34
 usc_section: "12474"
 chapter: 121
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "34 U.S.C. § 12474"
-generated_at: "2026-03-30T02:40:15.435Z"
+generated_at: "2026-03-30T02:45:37.009Z"
 ---
 
 # § 12474. Collaborative grants to increase the long-term stability of victims

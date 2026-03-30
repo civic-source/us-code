@@ -3,9 +3,9 @@ title: "Section 5389 - Construction projects"
 usc_title: 25
 usc_section: "5389"
 chapter: 46
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "25 U.S.C. § 5389"
-generated_at: "2026-03-30T02:39:26.304Z"
+generated_at: "2026-03-30T02:43:58.430Z"
 ---
 
 # § 5389. Construction projects

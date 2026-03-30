@@ -3,9 +3,9 @@ title: "Section 1532 - Telecommunications; electromagnetic radiation; research, 
 usc_title: 15
 usc_section: "1532"
 chapter: 40
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 1532"
-generated_at: "2026-03-30T02:38:47.746Z"
+generated_at: "2026-03-30T02:43:01.763Z"
 ---
 
 # § 1532. Telecommunications; electromagnetic radiation; research, analysis, dissemination of information; other functions of Secretary

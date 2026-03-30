@@ -3,9 +3,9 @@ title: "Section 1885b - Preemption"
 usc_title: 50
 usc_section: "1885b"
 chapter: 36
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 1885b"
-generated_at: "2026-03-30T02:41:33.688Z"
+generated_at: "2026-03-30T02:46:16.173Z"
 ---
 
 # § 1885b. Preemption

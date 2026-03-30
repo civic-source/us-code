@@ -3,9 +3,9 @@ title: "Section 3774 - Delays for which no responsibility is assumed"
 usc_title: 22
 usc_section: "3774"
 chapter: 51
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 3774"
-generated_at: "2026-03-30T02:39:30.655Z"
+generated_at: "2026-03-30T02:44:42.918Z"
 ---
 
 # § 3774. Delays for which no responsibility is assumed

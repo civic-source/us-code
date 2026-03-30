@@ -3,9 +3,9 @@ title: "Section 4007 - Effect on State law"
 usc_title: 12
 usc_section: "4007"
 chapter: 41
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 4007"
-generated_at: "2026-03-30T02:38:51.060Z"
+generated_at: "2026-03-30T02:43:29.908Z"
 ---
 
 # § 4007. Effect on State law

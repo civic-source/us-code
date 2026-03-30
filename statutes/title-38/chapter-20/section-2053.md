@@ -3,9 +3,9 @@ title: "Section 2053 - Default"
 usc_title: 38
 usc_section: "2053"
 chapter: 20
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "38 U.S.C. § 2053"
-generated_at: "2026-03-30T02:40:27.222Z"
+generated_at: "2026-03-30T02:45:44.032Z"
 ---
 
 # § 2053. Default

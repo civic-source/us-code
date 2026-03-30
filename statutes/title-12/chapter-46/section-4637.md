@@ -3,9 +3,9 @@ title: "Section 4637 - Notice after separation from service"
 usc_title: 12
 usc_section: "4637"
 chapter: 46
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 4637"
-generated_at: "2026-03-30T02:38:51.078Z"
+generated_at: "2026-03-30T02:43:29.924Z"
 ---
 
 # § 4637. Notice after separation from service

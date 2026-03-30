@@ -3,9 +3,9 @@ title: "Section 2106 - Relationship to other laws"
 usc_title: 43
 usc_section: "2106"
 chapter: 39
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 2106"
-generated_at: "2026-03-30T02:40:30.304Z"
+generated_at: "2026-03-30T02:45:48.552Z"
 ---
 
 # § 2106. Relationship to other laws

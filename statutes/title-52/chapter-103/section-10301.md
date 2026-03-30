@@ -3,9 +3,9 @@ title: "Section 10301 - Denial or abridgement of right to vote on account of rac
 usc_title: 52
 usc_section: "10301"
 chapter: 103
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "52 U.S.C. § 10301"
-generated_at: "2026-03-30T02:41:40.124Z"
+generated_at: "2026-03-30T02:46:18.467Z"
 ---
 
 # § 10301. Denial or abridgement of right to vote on account of race or color through voting qualifications or prerequisites; establishment of violation

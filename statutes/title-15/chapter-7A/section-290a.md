@@ -3,9 +3,9 @@ title: "Section 290a - Definitions"
 usc_title: 15
 usc_section: "290a"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 290a"
-generated_at: "2026-03-30T02:38:47.661Z"
+generated_at: "2026-03-30T02:43:01.682Z"
 ---
 
 # § 290a. Definitions

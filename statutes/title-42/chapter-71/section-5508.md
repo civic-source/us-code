@@ -3,9 +3,9 @@ title: "Section 5508 - Program of applied research by Secretary of Energy for im
 usc_title: 42
 usc_section: "5508"
 chapter: 71
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 5508"
-generated_at: "2026-03-30T02:41:05.464Z"
+generated_at: "2026-03-30T02:46:04.643Z"
 ---
 
 # § 5508. Program of applied research by Secretary of Energy for improvement and development of heating systems for commercial application; transmission of results to Secretary and Administrator

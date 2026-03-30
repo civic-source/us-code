@@ -3,9 +3,9 @@ title: "Section 15a - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 42
 usc_section: "15a"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 15a"
-generated_at: "2026-03-30T02:41:04.742Z"
+generated_at: "2026-03-30T02:46:03.939Z"
 ---
 
 # §§ 6 to 15a. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

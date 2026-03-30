@@ -3,9 +3,9 @@ title: "Section 703 - Attendance of witnesses"
 usc_title: 22
 usc_section: "703"
 chapter: 13
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 703"
-generated_at: "2026-03-30T02:39:30.577Z"
+generated_at: "2026-03-30T02:44:42.818Z"
 ---
 
 # § 703. Attendance of witnesses

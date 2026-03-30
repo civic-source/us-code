@@ -3,9 +3,9 @@ title: "Section 390 - Concessions on reservoir sites and other lands in Indian i
 usc_title: 25
 usc_section: "390"
 chapter: 11
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "25 U.S.C. § 390"
-generated_at: "2026-03-30T02:39:26.239Z"
+generated_at: "2026-03-30T02:43:58.333Z"
 ---
 
 # § 390. Concessions on reservoir sites and other lands in Indian irrigation projects; leases for agricultural, grazing, and other purposes

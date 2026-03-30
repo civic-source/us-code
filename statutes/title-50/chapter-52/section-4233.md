@@ -3,9 +3,9 @@ title: "Section 4233 - Aleutian and Pribilof Islands Restitution Fund"
 usc_title: 50
 usc_section: "4233"
 chapter: 52
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 4233"
-generated_at: "2026-03-30T02:41:33.764Z"
+generated_at: "2026-03-30T02:46:16.262Z"
 ---
 
 # § 4233. Aleutian and Pribilof Islands Restitution Fund

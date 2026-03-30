@@ -3,9 +3,9 @@ title: "Section 1735 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1735"
 chapter: 19
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "29 U.S.C. § 1735"
-generated_at: "2026-03-30T02:39:49.619Z"
+generated_at: "2026-03-30T02:45:08.881Z"
 ---
 
 # §§ 1731 to 1735. Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug. 7, 1998 , 112 Stat. 1059

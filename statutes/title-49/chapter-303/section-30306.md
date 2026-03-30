@@ -3,9 +3,9 @@ title: "Section 30306 - Repealed. Pub. L. 117–58, div. B, title IV, § 24218(a
 usc_title: 49
 usc_section: "30306"
 chapter: 303
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "49 U.S.C. § 30306"
-generated_at: "2026-03-30T02:41:31.815Z"
+generated_at: "2026-03-30T02:46:14.251Z"
 ---
 
 # [§ 30306. Repealed. Pub. L. 117–58, div. B, title IV, § 24218(a) , Nov. 15, 2021 , 135 Stat. 831 ]

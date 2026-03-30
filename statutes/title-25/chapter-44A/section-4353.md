@@ -3,9 +3,9 @@ title: "Section 4353 - Integrating Federal tourism assets to strengthen Native t
 usc_title: 25
 usc_section: "4353"
 chapter: 44
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "25 U.S.C. § 4353"
-generated_at: "2026-03-30T02:39:26.295Z"
+generated_at: "2026-03-30T02:43:58.418Z"
 ---
 
 # § 4353. Integrating Federal tourism assets to strengthen Native tourism opportunities

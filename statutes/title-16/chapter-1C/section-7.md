@@ -3,9 +3,9 @@ title: "Section 7 - Rewards and forfeiture"
 usc_title: 16
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T02:39:17.979Z"
+generated_at: "2026-03-30T02:43:50.328Z"
 ---
 
 # § 470aaa–7. Rewards and forfeiture

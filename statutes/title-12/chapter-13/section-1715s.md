@@ -3,9 +3,9 @@ title: "Section 1715s - Treatment of mortgages covering tax credit projects"
 usc_title: 12
 usc_section: "1715s"
 chapter: 13
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 1715s"
-generated_at: "2026-03-30T02:38:50.955Z"
+generated_at: "2026-03-30T02:43:29.823Z"
 ---
 
 # § 1715s. Treatment of mortgages covering tax credit projects

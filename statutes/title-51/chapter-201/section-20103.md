@@ -3,9 +3,9 @@ title: "Section 20103 - Definitions"
 usc_title: 51
 usc_section: "20103"
 chapter: 201
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "51 U.S.C. § 20103"
-generated_at: "2026-03-30T02:41:38.451Z"
+generated_at: "2026-03-30T02:46:19.254Z"
 ---
 
 # § 20103. Definitions

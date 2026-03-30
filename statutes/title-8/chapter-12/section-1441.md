@@ -3,9 +3,9 @@ title: "Section 1441 - Constructive residence through service on certain United 
 usc_title: 8
 usc_section: "1441"
 chapter: 12
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "8 U.S.C. § 1441"
-generated_at: "2026-03-30T02:38:28.562Z"
+generated_at: "2026-03-30T02:42:32.098Z"
 ---
 
 # § 1441. Constructive residence through service on certain United States vessels

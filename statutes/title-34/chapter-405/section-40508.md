@@ -3,9 +3,9 @@ title: "Section 40508 - Report to Congress"
 usc_title: 34
 usc_section: "40508"
 chapter: 405
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "34 U.S.C. § 40508"
-generated_at: "2026-03-30T02:40:15.465Z"
+generated_at: "2026-03-30T02:45:37.038Z"
 ---
 
 # § 40508. Report to Congress

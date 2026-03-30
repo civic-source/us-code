@@ -3,9 +3,9 @@ title: "Section 482 - Definitions"
 usc_title: 28
 usc_section: "482"
 chapter: 23
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "28 U.S.C. § 482"
-generated_at: "2026-03-30T02:39:50.646Z"
+generated_at: "2026-03-30T02:44:47.240Z"
 ---
 
 # § 482. Definitions

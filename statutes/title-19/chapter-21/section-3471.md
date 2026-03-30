@@ -3,9 +3,9 @@ title: "Section 3471 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 
 usc_title: 19
 usc_section: "3471"
 chapter: 21
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "19 U.S.C. § 3471"
-generated_at: "2026-03-30T02:39:13.537Z"
+generated_at: "2026-03-30T02:43:41.652Z"
 ---
 
 # § 3471. Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78

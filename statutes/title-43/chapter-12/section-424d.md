@@ -3,9 +3,9 @@ title: "Section 424d - Use of moneys collected from sales, project construction 
 usc_title: 43
 usc_section: "424d"
 chapter: 12
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 424d"
-generated_at: "2026-03-30T02:40:30.247Z"
+generated_at: "2026-03-30T02:45:48.490Z"
 ---
 
 # § 424d. Use of moneys collected from sales, project construction charges and water rentals respecting unproductive lands

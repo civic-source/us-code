@@ -3,9 +3,9 @@ title: "Section 6615 - Deposit of moneys for credit to account within Senate con
 usc_title: 2
 usc_section: "6615"
 chapter: 65
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 6615"
-generated_at: "2026-03-30T02:38:04.762Z"
+generated_at: "2026-03-30T02:42:18.920Z"
 ---
 
 # § 6615. Deposit of moneys for credit to account within Senate contingent fund for “Sergeant at Arms and Doorkeeper of the Senate”

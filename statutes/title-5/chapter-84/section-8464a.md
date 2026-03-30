@@ -3,9 +3,9 @@ title: "Section 8464a - Relationship between annuity and workers’ compensation
 usc_title: 5
 usc_section: "8464a"
 chapter: 84
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 8464a"
-generated_at: "2026-03-30T02:38:10.847Z"
+generated_at: "2026-03-30T02:42:23.386Z"
 ---
 
 # § 8464a. Relationship between annuity and workers’ compensation

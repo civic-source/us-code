@@ -3,9 +3,9 @@ title: "Section 3333 - Employee affidavit; loyalty and striking against the Gove
 usc_title: 5
 usc_section: "3333"
 chapter: 33
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 3333"
-generated_at: "2026-03-30T02:38:10.790Z"
+generated_at: "2026-03-30T02:42:23.323Z"
 ---
 
 # § 3333. Employee affidavit; loyalty and striking against the Government

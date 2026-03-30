@@ -3,9 +3,9 @@ title: "Section 1524 - Repealed. Pub. L. 118–159, div. C, title XXXV, § 3535(
 usc_title: 33
 usc_section: "1524"
 chapter: 29
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "33 U.S.C. § 1524"
-generated_at: "2026-03-30T02:40:17.696Z"
+generated_at: "2026-03-30T02:45:34.108Z"
 ---
 
 # § 1524. Repealed. Pub. L. 118–159, div. C, title XXXV, § 3535(k) , Dec. 23, 2024 , 138 Stat. 2315

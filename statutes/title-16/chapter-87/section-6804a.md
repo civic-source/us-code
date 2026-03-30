@@ -3,9 +3,9 @@ title: "Section 6804a - Availability of Federal, State, and local recreation pas
 usc_title: 16
 usc_section: "6804a"
 chapter: 87
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 6804a"
-generated_at: "2026-03-30T02:39:18.193Z"
+generated_at: "2026-03-30T02:43:50.550Z"
 ---
 
 # § 6804a. Availability of Federal, State, and local recreation passes

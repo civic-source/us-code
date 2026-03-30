@@ -3,9 +3,9 @@ title: "Section 2627 - Relationship to State law"
 usc_title: 16
 usc_section: "2627"
 chapter: 46
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 2627"
-generated_at: "2026-03-30T02:39:18.132Z"
+generated_at: "2026-03-30T02:43:50.488Z"
 ---
 
 # § 2627. Relationship to State law

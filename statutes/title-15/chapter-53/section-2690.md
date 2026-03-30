@@ -3,9 +3,9 @@ title: "Section 2690 - Relationship to other Federal law"
 usc_title: 15
 usc_section: "2690"
 chapter: 53
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 2690"
-generated_at: "2026-03-30T02:38:47.814Z"
+generated_at: "2026-03-30T02:43:01.828Z"
 ---
 
 # § 2690. Relationship to other Federal law

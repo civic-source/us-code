@@ -3,9 +3,9 @@ title: "Section 1022e - Teacher development"
 usc_title: 20
 usc_section: "1022e"
 chapter: 28
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 1022e"
-generated_at: "2026-03-30T02:39:22.249Z"
+generated_at: "2026-03-30T02:43:39.150Z"
 ---
 
 # § 1022e. Teacher development

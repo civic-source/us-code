@@ -3,9 +3,9 @@ title: "Section 905 - Homestead entries on forfeited lands"
 usc_title: 43
 usc_section: "905"
 chapter: 21
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 905"
-generated_at: "2026-03-30T02:40:30.265Z"
+generated_at: "2026-03-30T02:45:48.508Z"
 ---
 
 # § 905. Homestead entries on forfeited lands

@@ -3,9 +3,9 @@ title: "Section 47153 - Waiving and adding terms"
 usc_title: 49
 usc_section: "47153"
 chapter: 471
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "49 U.S.C. § 47153"
-generated_at: "2026-03-30T02:41:31.878Z"
+generated_at: "2026-03-30T02:46:14.316Z"
 ---
 
 # § 47153. Waiving and adding terms

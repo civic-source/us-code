@@ -3,9 +3,9 @@ title: "Section 763 - Deposits in Louisiana applicable to resurveys"
 usc_title: 43
 usc_section: "763"
 chapter: 18
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 763"
-generated_at: "2026-03-30T02:40:30.261Z"
+generated_at: "2026-03-30T02:45:48.505Z"
 ---
 
 # § 763. Deposits in Louisiana applicable to resurveys

@@ -3,9 +3,9 @@ title: "Section 3621 - Security legislation"
 usc_title: 22
 usc_section: "3621"
 chapter: 51
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 3621"
-generated_at: "2026-03-30T02:39:30.652Z"
+generated_at: "2026-03-30T02:44:42.915Z"
 ---
 
 # § 3621. Security legislation

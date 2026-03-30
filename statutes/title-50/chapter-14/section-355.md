@@ -3,9 +3,9 @@ title: "Section 355 - Repealed. Aug. 9, 1955, ch. 656 , title III, § 307, 69 St
 usc_title: 50
 usc_section: "355"
 chapter: 14
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 355"
-generated_at: "2026-03-30T02:41:33.669Z"
+generated_at: "2026-03-30T02:46:16.154Z"
 ---
 
 # §§ 351 to 355. Repealed. Aug. 9, 1955, ch. 656 , title III, § 307, 69 Stat. 589

@@ -3,9 +3,9 @@ title: "Section 9837 - Powers and functions of Head Start agencies"
 usc_title: 42
 usc_section: "9837"
 chapter: 105
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 9837"
-generated_at: "2026-03-30T02:41:05.634Z"
+generated_at: "2026-03-30T02:46:04.818Z"
 ---
 
 # § 9837. Powers and functions of Head Start agencies

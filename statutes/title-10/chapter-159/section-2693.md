@@ -3,9 +3,9 @@ title: "Section 2693 - Sentinel Landscapes Partnership"
 usc_title: 10
 usc_section: "2693"
 chapter: 159
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 2693"
-generated_at: "2026-03-30T02:38:38.453Z"
+generated_at: "2026-03-30T02:42:43.892Z"
 ---
 
 # § 2693. Sentinel Landscapes Partnership

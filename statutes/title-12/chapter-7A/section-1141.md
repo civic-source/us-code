@@ -3,9 +3,9 @@ title: "Section 1141 - Declaration of policy; effective merchandising of agricul
 usc_title: 12
 usc_section: "1141"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 1141"
-generated_at: "2026-03-30T02:38:50.920Z"
+generated_at: "2026-03-30T02:43:29.794Z"
 ---
 
 # § 1141. Declaration of policy; effective merchandising of agricultural commodities; speculation; cooperative marketing; surpluses; administration of chapter

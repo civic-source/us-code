@@ -3,9 +3,9 @@ title: "Section 5912 - Quarters in Government owned or rented buildings; employe
 usc_title: 5
 usc_section: "5912"
 chapter: 59
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 5912"
-generated_at: "2026-03-30T02:38:10.813Z"
+generated_at: "2026-03-30T02:42:23.349Z"
 ---
 
 # § 5912. Quarters in Government owned or rented buildings; employees in foreign countries

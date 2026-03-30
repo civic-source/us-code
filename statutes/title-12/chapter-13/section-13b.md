@@ -3,9 +3,9 @@ title: "Section 13b - Loan guarantees for Native Hawaiian housing"
 usc_title: 12
 usc_section: "13b"
 chapter: 13
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 13b"
-generated_at: "2026-03-30T02:38:50.963Z"
+generated_at: "2026-03-30T02:43:29.828Z"
 ---
 
 # § 1715z–13b. Loan guarantees for Native Hawaiian housing

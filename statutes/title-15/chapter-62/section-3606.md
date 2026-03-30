@@ -3,9 +3,9 @@ title: "Section 3606 - Federal Housing Administration mortgage or loan insurance
 usc_title: 15
 usc_section: "3606"
 chapter: 62
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 3606"
-generated_at: "2026-03-30T02:38:47.827Z"
+generated_at: "2026-03-30T02:43:01.841Z"
 ---
 
 # § 3606. Federal Housing Administration mortgage or loan insurance; expedition of application process and decision

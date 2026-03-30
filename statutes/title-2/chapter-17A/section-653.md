@@ -3,9 +3,9 @@ title: "Section 653 - Analysis by Congressional Budget Office"
 usc_title: 2
 usc_section: "653"
 chapter: 17
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "2 U.S.C. § 653"
-generated_at: "2026-03-30T02:38:04.712Z"
+generated_at: "2026-03-30T02:42:18.862Z"
 ---
 
 # § 653. Analysis by Congressional Budget Office

@@ -3,9 +3,9 @@ title: "Section 323 - Lead agency officials for Government service delivery"
 usc_title: 5
 usc_section: "323"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 323"
-generated_at: "2026-03-30T02:38:10.765Z"
+generated_at: "2026-03-30T02:42:23.295Z"
 ---
 
 # § 323. Lead agency officials for Government service delivery

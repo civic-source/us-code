@@ -3,9 +3,9 @@ title: "Section 346b - Consolidation of Zion National Park and Zion National Mon
 usc_title: 16
 usc_section: "346b"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 346b"
-generated_at: "2026-03-30T02:39:17.874Z"
+generated_at: "2026-03-30T02:43:50.218Z"
 ---
 
 # § 346b. Consolidation of Zion National Park and Zion National Monument

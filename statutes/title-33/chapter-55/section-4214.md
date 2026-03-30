@@ -3,9 +3,9 @@ title: "Section 4214 - Administrative services and support"
 usc_title: 33
 usc_section: "4214"
 chapter: 55
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "33 U.S.C. § 4214"
-generated_at: "2026-03-30T02:40:17.746Z"
+generated_at: "2026-03-30T02:45:34.155Z"
 ---
 
 # § 4214. Administrative services and support

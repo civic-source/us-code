@@ -3,9 +3,9 @@ title: "Section 1202 - State plans for aid to blind"
 usc_title: 42
 usc_section: "1202"
 chapter: 7
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 1202"
-generated_at: "2026-03-30T02:41:05.040Z"
+generated_at: "2026-03-30T02:46:04.222Z"
 ---
 
 # § 1202. State plans for aid to blind

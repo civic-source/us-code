@@ -3,9 +3,9 @@ title: "Section 3391a - “Essential agricultural use” defined"
 usc_title: 15
 usc_section: "3391a"
 chapter: 60
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 3391a"
-generated_at: "2026-03-30T02:38:47.826Z"
+generated_at: "2026-03-30T02:43:01.840Z"
 ---
 
 # § 3391a. “Essential agricultural use” defined

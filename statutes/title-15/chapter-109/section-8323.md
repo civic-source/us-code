@@ -3,9 +3,9 @@ title: "Section 8323 - Rulemaking on conflict of interest"
 usc_title: 15
 usc_section: "8323"
 chapter: 109
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 8323"
-generated_at: "2026-03-30T02:38:47.884Z"
+generated_at: "2026-03-30T02:43:01.897Z"
 ---
 
 # § 8323. Rulemaking on conflict of interest

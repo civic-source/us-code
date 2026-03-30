@@ -3,9 +3,9 @@ title: "Section 32 - Findings by jury; costs"
 usc_title: 30
 usc_section: "32"
 chapter: 2
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "30 U.S.C. § 32"
-generated_at: "2026-03-30T02:39:47.413Z"
+generated_at: "2026-03-30T02:44:53.584Z"
 ---
 
 # § 32. Findings by jury; costs

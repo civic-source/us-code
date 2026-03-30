@@ -3,9 +3,9 @@ title: "Section 1843 - Limitations and conditions of loan guarantees"
 usc_title: 15
 usc_section: "1843"
 chapter: 45
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 1843"
-generated_at: "2026-03-30T02:38:47.780Z"
+generated_at: "2026-03-30T02:43:01.796Z"
 ---
 
 # § 1843. Limitations and conditions of loan guarantees

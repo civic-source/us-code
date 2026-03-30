@@ -3,9 +3,9 @@ title: "Section 2608 - Title companies; liability of seller"
 usc_title: 12
 usc_section: "2608"
 chapter: 27
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 2608"
-generated_at: "2026-03-30T02:38:51.041Z"
+generated_at: "2026-03-30T02:43:29.895Z"
 ---
 
 # § 2608. Title companies; liability of seller

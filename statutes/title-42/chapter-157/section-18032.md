@@ -3,9 +3,9 @@ title: "Section 18032 - Consumer choice"
 usc_title: 42
 usc_section: "18032"
 chapter: 157
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 18032"
-generated_at: "2026-03-30T02:41:05.829Z"
+generated_at: "2026-03-30T02:46:05.006Z"
 ---
 
 # § 18032. Consumer choice

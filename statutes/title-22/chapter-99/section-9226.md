@@ -3,9 +3,9 @@ title: "Section 9226 - Travel sanctions"
 usc_title: 22
 usc_section: "9226"
 chapter: 99
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "22 U.S.C. § 9226"
-generated_at: "2026-03-30T02:39:30.731Z"
+generated_at: "2026-03-30T02:44:43.019Z"
 ---
 
 # § 9226. Travel sanctions

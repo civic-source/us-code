@@ -3,9 +3,9 @@ title: "Section 3104 - Small business concerns"
 usc_title: 41
 usc_section: "3104"
 chapter: 31
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "41 U.S.C. § 3104"
-generated_at: "2026-03-30T02:40:46.870Z"
+generated_at: "2026-03-30T02:45:46.909Z"
 ---
 
 # § 3104. Small business concerns

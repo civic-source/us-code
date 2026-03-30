@@ -3,9 +3,9 @@ title: "Section 28 - Cemeteries"
 usc_title: 16
 usc_section: "28"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "16 U.S.C. § 28"
-generated_at: "2026-03-30T02:39:17.965Z"
+generated_at: "2026-03-30T02:43:50.314Z"
 ---
 
 # § 460lll–28. Cemeteries

@@ -3,9 +3,9 @@ title: "Section 18342 - Requirements applicable to development of commercial cre
 usc_title: 42
 usc_section: "18342"
 chapter: 159
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 18342"
-generated_at: "2026-03-30T02:41:05.837Z"
+generated_at: "2026-03-30T02:46:05.013Z"
 ---
 
 # § 18342. Requirements applicable to development of commercial crew transportation capabilities and services

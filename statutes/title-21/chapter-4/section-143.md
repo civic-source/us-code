@@ -3,9 +3,9 @@ title: "Section 143 - Inspection; certified statement in lieu thereof; waiver of
 usc_title: 21
 usc_section: "143"
 chapter: 4
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "21 U.S.C. § 143"
-generated_at: "2026-03-30T02:39:43.887Z"
+generated_at: "2026-03-30T02:43:56.669Z"
 ---
 
 # § 143. Inspection; certified statement in lieu thereof; waiver of requirements of section 142; regulations; suspension and revocation of permits

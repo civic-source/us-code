@@ -3,9 +3,9 @@ title: "Section 8102 - Drug-free workplace requirements for Federal contractors"
 usc_title: 41
 usc_section: "8102"
 chapter: 81
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "41 U.S.C. § 8102"
-generated_at: "2026-03-30T02:40:46.882Z"
+generated_at: "2026-03-30T02:45:46.918Z"
 ---
 
 # § 8102. Drug-free workplace requirements for Federal contractors

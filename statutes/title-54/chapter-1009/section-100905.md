@@ -3,9 +3,9 @@ title: "Section 100905 - Filming and still photography in System units"
 usc_title: 54
 usc_section: "100905"
 chapter: 1009
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "54 U.S.C. § 100905"
-generated_at: "2026-03-30T02:41:39.894Z"
+generated_at: "2026-03-30T02:46:18.903Z"
 ---
 
 # § 100905. Filming and still photography in System units

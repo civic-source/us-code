@@ -3,9 +3,9 @@ title: "Section 2811 - Transfers of real property at certain Department of Energ
 usc_title: 50
 usc_section: "2811"
 chapter: 42
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "50 U.S.C. § 2811"
-generated_at: "2026-03-30T02:41:33.712Z"
+generated_at: "2026-03-30T02:46:16.201Z"
 ---
 
 # § 2811. Transfers of real property at certain Department of Energy facilities

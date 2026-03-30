@@ -3,9 +3,9 @@ title: "Section 906 - Art. 106. Impersonation of officer, noncommissioned or pet
 usc_title: 10
 usc_section: "906"
 chapter: 47
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "10 U.S.C. § 906"
-generated_at: "2026-03-30T02:38:38.363Z"
+generated_at: "2026-03-30T02:42:43.791Z"
 ---
 
 # § 906. Art. 106. Impersonation of officer, noncommissioned or petty officer, or agent or official

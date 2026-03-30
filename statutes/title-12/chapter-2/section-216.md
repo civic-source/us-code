@@ -3,9 +3,9 @@ title: "Section 216 - Purpose"
 usc_title: 12
 usc_section: "216"
 chapter: 2
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 216"
-generated_at: "2026-03-30T02:38:50.903Z"
+generated_at: "2026-03-30T02:43:29.778Z"
 ---
 
 # § 216. Purpose

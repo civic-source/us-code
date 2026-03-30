@@ -3,9 +3,9 @@ title: "Section 1266 - Hearing before report of criminal violation"
 usc_title: 15
 usc_section: "1266"
 chapter: 30
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "15 U.S.C. § 1266"
-generated_at: "2026-03-30T02:38:47.738Z"
+generated_at: "2026-03-30T02:43:01.755Z"
 ---
 
 # § 1266. Hearing before report of criminal violation

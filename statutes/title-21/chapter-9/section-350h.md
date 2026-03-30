@@ -3,9 +3,9 @@ title: "Section 350h - Standards for produce safety"
 usc_title: 21
 usc_section: "350h"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "21 U.S.C. § 350h"
-generated_at: "2026-03-30T02:39:43.904Z"
+generated_at: "2026-03-30T02:43:56.684Z"
 ---
 
 # § 350h. Standards for produce safety

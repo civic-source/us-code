@@ -3,9 +3,9 @@ title: "Section 465 - Basis for ascertaining deposits against which required bal
 usc_title: 12
 usc_section: "465"
 chapter: 3
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "12 U.S.C. § 465"
-generated_at: "2026-03-30T02:38:50.911Z"
+generated_at: "2026-03-30T02:43:29.786Z"
 ---
 
 # § 465. Basis for ascertaining deposits against which required balance is determined

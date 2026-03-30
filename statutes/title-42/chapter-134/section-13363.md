@@ -3,9 +3,9 @@ title: "Section 13363 - Conventional coal technology transfer"
 usc_title: 42
 usc_section: "13363"
 chapter: 134
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 13363"
-generated_at: "2026-03-30T02:41:05.733Z"
+generated_at: "2026-03-30T02:46:04.914Z"
 ---
 
 # § 13363. Conventional coal technology transfer

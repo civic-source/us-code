@@ -3,9 +3,9 @@ title: "Section 681g - Federal sharing of incident reports"
 usc_title: 6
 usc_section: "681g"
 chapter: 1
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "6 U.S.C. § 681g"
-generated_at: "2026-03-30T02:38:13.756Z"
+generated_at: "2026-03-30T02:42:31.160Z"
 ---
 
 # § 681g. Federal sharing of incident reports

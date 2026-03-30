@@ -3,9 +3,9 @@ title: "Section 8734 - Repayment of loans"
 usc_title: 7
 usc_section: "8734"
 chapter: 113
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "7 U.S.C. § 8734"
-generated_at: "2026-03-30T02:38:22.744Z"
+generated_at: "2026-03-30T02:42:50.915Z"
 ---
 
 # § 8734. Repayment of loans

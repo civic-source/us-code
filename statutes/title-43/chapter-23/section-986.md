@@ -3,9 +3,9 @@ title: "Section 986 - Selection of lands confirmed"
 usc_title: 43
 usc_section: "986"
 chapter: 23
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "43 U.S.C. § 986"
-generated_at: "2026-03-30T02:40:30.268Z"
+generated_at: "2026-03-30T02:45:48.512Z"
 ---
 
 # § 986. Selection of lands confirmed

@@ -3,9 +3,9 @@ title: "Section 7704 - Policies and procedures relating to children residing on 
 usc_title: 20
 usc_section: "7704"
 chapter: 70
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 7704"
-generated_at: "2026-03-30T02:39:22.404Z"
+generated_at: "2026-03-30T02:43:39.324Z"
 ---
 
 # § 7704. Policies and procedures relating to children residing on Indian lands

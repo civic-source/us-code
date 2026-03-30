@@ -3,9 +3,9 @@ title: "Section 284h - Pediatric Research Initiative"
 usc_title: 42
 usc_section: "284h"
 chapter: 6
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 284h"
-generated_at: "2026-03-30T02:41:04.821Z"
+generated_at: "2026-03-30T02:46:04.014Z"
 ---
 
 # § 284h. Pediatric Research Initiative

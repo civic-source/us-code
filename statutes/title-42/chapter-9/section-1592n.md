@@ -3,9 +3,9 @@ title: "Section 1592n - Definitions"
 usc_title: 42
 usc_section: "1592n"
 chapter: 9
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "42 U.S.C. § 1592n"
-generated_at: "2026-03-30T02:41:05.292Z"
+generated_at: "2026-03-30T02:46:04.476Z"
 ---
 
 # § 1592n. Definitions

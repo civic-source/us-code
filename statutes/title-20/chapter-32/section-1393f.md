@@ -3,9 +3,9 @@ title: "Section 1393f - Omitted"
 usc_title: 20
 usc_section: "1393f"
 chapter: 32
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "20 U.S.C. § 1393f"
-generated_at: "2026-03-30T02:39:22.329Z"
+generated_at: "2026-03-30T02:43:39.237Z"
 ---
 
 # §§ 1247 to 1393f. Omitted

@@ -3,9 +3,9 @@ title: "Section 4501 - Definitions"
 usc_title: 5
 usc_section: "4501"
 chapter: 45
-current_through: "PL 119-43"
+current_through: "PL 119-46"
 classification: "5 U.S.C. § 4501"
-generated_at: "2026-03-30T02:38:10.795Z"
+generated_at: "2026-03-30T02:42:23.329Z"
 ---
 
 # § 4501. Definitions
