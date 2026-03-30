@@ -3,9 +3,9 @@ title: "Section 1603 - National Forest System resource inventories; development,
 usc_title: 16
 usc_section: "1603"
 chapter: 36
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 1603"
-generated_at: "2026-03-30T07:35:06.153Z"
+generated_at: "2026-03-30T07:37:27.806Z"
 status: "active"
 ---
 

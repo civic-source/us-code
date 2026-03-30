@@ -3,9 +3,9 @@ title: "Section 572 - General authority"
 usc_title: 5
 usc_section: "572"
 chapter: 5
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "5 U.S.C. § 572"
-generated_at: "2026-03-30T07:34:33.428Z"
+generated_at: "2026-03-30T07:36:31.291Z"
 status: "active"
 ---
 

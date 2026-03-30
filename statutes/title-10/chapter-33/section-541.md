@@ -3,9 +3,9 @@ title: "Section 541 - Graduates of the United States Military, Naval, and Air Fo
 usc_title: 10
 usc_section: "541"
 chapter: 33
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 541"
-generated_at: "2026-03-30T07:34:41.781Z"
+generated_at: "2026-03-30T07:36:40.031Z"
 status: "active"
 ---
 

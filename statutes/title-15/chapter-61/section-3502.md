@@ -3,9 +3,9 @@ title: "Section 3502 - Price fixing agreements, horizontal restraints of trade, 
 usc_title: 15
 usc_section: "3502"
 chapter: 61
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 3502"
-generated_at: "2026-03-30T07:34:54.928Z"
+generated_at: "2026-03-30T07:37:02.158Z"
 status: "active"
 ---
 

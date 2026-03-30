@@ -3,9 +3,9 @@ title: "Section 1621 - Perjury generally"
 usc_title: 18
 usc_section: "1621"
 chapter: 79
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "18 U.S.C. § 1621"
-generated_at: "2026-03-30T07:35:00.244Z"
+generated_at: "2026-03-30T07:37:07.627Z"
 status: "active"
 ---
 

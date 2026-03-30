@@ -3,9 +3,9 @@ title: "Section 226 - Repealed. Pub. L. 91–138 , § 18, Dec. 5, 1969 , 83 Stat
 usc_title: 2
 usc_section: "226"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "2 U.S.C. § 226"
-generated_at: "2026-03-30T07:34:31.280Z"
+generated_at: "2026-03-30T07:36:29.475Z"
 status: "repealed"
 ---
 

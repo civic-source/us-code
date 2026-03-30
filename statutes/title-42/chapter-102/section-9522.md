@@ -3,9 +3,9 @@ title: "Section 9522 - Report on shelter and basic living needs of chronically m
 usc_title: 42
 usc_section: "9522"
 chapter: 102
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 9522"
-generated_at: "2026-03-30T07:36:01.562Z"
+generated_at: "2026-03-30T07:38:36.912Z"
 status: "active"
 ---
 

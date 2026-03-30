@@ -3,9 +3,9 @@ title: "Section 7 - Delmarva Peninsula hydrologic study; duties of Secretary of 
 usc_title: 42
 usc_section: "7"
 chapter: 19
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T07:36:01.381Z"
+generated_at: "2026-03-30T07:38:36.727Z"
 status: "active"
 ---
 

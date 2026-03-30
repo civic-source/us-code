@@ -3,9 +3,9 @@ title: "Section 6716 - Repealed. Pub. L. 111–312, title III , § 301(a), Dec. 
 usc_title: 26
 usc_section: "6716"
 chapter: 68
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 6716"
-generated_at: "2026-03-30T07:35:27.662Z"
+generated_at: "2026-03-30T07:37:55.445Z"
 status: "repealed"
 ---
 

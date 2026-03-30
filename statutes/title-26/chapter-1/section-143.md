@@ -3,9 +3,9 @@ title: "Section 143 - Mortgage revenue bonds: qualified mortgage bond and qualif
 usc_title: 26
 usc_section: "143"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 143"
-generated_at: "2026-03-30T07:35:27.473Z"
+generated_at: "2026-03-30T07:37:55.261Z"
 status: "active"
 ---
 

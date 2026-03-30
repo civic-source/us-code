@@ -3,9 +3,9 @@ title: "Section 520 - Transmission of petitions in United States Court of Federa
 usc_title: 28
 usc_section: "520"
 chapter: 31
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "28 U.S.C. § 520"
-generated_at: "2026-03-30T07:35:20.786Z"
+generated_at: "2026-03-30T07:37:48.496Z"
 status: "active"
 ---
 

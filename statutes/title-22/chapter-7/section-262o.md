@@ -3,9 +3,9 @@ title: "Section 262o - Negotiations concerning replenishment or increase in capi
 usc_title: 22
 usc_section: "262o"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 262o"
-generated_at: "2026-03-30T07:35:12.791Z"
+generated_at: "2026-03-30T07:37:35.684Z"
 status: "active"
 ---
 

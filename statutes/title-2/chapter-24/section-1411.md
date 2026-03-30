@@ -3,9 +3,9 @@ title: "Section 1411 - Effect of failure to issue regulations"
 usc_title: 2
 usc_section: "1411"
 chapter: 24
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "2 U.S.C. § 1411"
-generated_at: "2026-03-30T07:34:31.300Z"
+generated_at: "2026-03-30T07:36:29.493Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 986 - Subpoenas for bank records"
 usc_title: 18
 usc_section: "986"
 chapter: 46
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "18 U.S.C. § 986"
-generated_at: "2026-03-30T07:35:00.236Z"
+generated_at: "2026-03-30T07:37:07.620Z"
 status: "active"
 ---
 

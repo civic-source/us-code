@@ -3,9 +3,9 @@ title: "Section 635 - Permissible revisions of concurrent resolutions on the bud
 usc_title: 2
 usc_section: "635"
 chapter: 17
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "2 U.S.C. § 635"
-generated_at: "2026-03-30T07:34:31.287Z"
+generated_at: "2026-03-30T07:36:29.482Z"
 status: "active"
 ---
 

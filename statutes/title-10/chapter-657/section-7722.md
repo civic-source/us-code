@@ -3,9 +3,9 @@ title: "Section 7722 - Stay of suit"
 usc_title: 10
 usc_section: "7722"
 chapter: 657
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 7722"
-generated_at: "2026-03-30T07:34:41.889Z"
+generated_at: "2026-03-30T07:36:40.139Z"
 status: "active"
 ---
 

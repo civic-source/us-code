@@ -3,9 +3,9 @@ title: "Section 7803 - Applicability to Bureau of Indian Education operated scho
 usc_title: 20
 usc_section: "7803"
 chapter: 70
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "20 U.S.C. § 7803"
-generated_at: "2026-03-30T07:35:03.875Z"
+generated_at: "2026-03-30T07:37:06.654Z"
 status: "active"
 ---
 

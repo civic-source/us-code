@@ -3,9 +3,9 @@ title: "Section 717a - Definitions"
 usc_title: 15
 usc_section: "717a"
 chapter: 15
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 717a"
-generated_at: "2026-03-30T07:34:54.861Z"
+generated_at: "2026-03-30T07:37:02.090Z"
 status: "active"
 ---
 

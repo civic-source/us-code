@@ -3,9 +3,9 @@ title: "Section 780 - Repealed. Pub. L. 97–35, title XI , § 1144(a)(1), Aug. 
 usc_title: 45
 usc_section: "780"
 chapter: 16
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "45 U.S.C. § 780"
-generated_at: "2026-03-30T07:35:48.892Z"
+generated_at: "2026-03-30T07:38:20.990Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1806 - Immigration and transition"
 usc_title: 48
 usc_section: "1806"
 chapter: 17
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "48 U.S.C. § 1806"
-generated_at: "2026-03-30T07:36:12.711Z"
+generated_at: "2026-03-30T07:38:51.745Z"
 status: "active"
 ---
 
@@ -13,14 +13,29 @@ status: "active"
 
 - **(a)**
   - **(1)** Subject to paragraphs (2) and (3), effective on the first day of the first full month commencing 1 year after May 8, 2008 (hereafter referred to as the “transition program effective date”), the provisions of the “immigration laws” (as defined in section 101(a)(17) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(17) )) shall apply to the Commonwealth of the Northern Mariana Islands (referred to in this section as the “Commonwealth”), except as otherwise provided in this section.
-  - **(2)** There shall be a transition period beginning on the transition program effective date and ending on December 31, 2019 , during which the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, the Secretary of Labor, and the Secretary of the Interior, shall establish, administer, and enforce a transition program to regulate immigration to the Commonwealth, as provided in this section (hereafter referred to as the “transition program”).
+  - **(2)** There shall be a transition period beginning on the transition program effective date and ending on December 31, 2029 , during which the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, the Secretary of Labor, and the Secretary of the Interior, shall establish, administer, and enforce a transition program to regulate immigration to the Commonwealth, as provided in this section (hereafter referred to as the “transition program”).
   - **(3)**
     - **(A)** The Secretary of Homeland Security, in the Secretary’s sole discretion, in consultation with the Secretary of the Interior, the Secretary of Labor, the Secretary of State, the Attorney General, and the Governor of the Commonwealth, may determine that the transition program effective date be delayed for a period not to exceed more than 180 days after such date.
     - **(B)** The Secretary of Homeland Security shall notify the Congress of a determination under subparagraph (A) not later than 30 days prior to the transition program effective date.
     - **(C)** A delay of the transition program effective date shall not take effect until 30 days after the date on which the notification under subparagraph (B) is made.
   - **(4)** The transition program shall be implemented pursuant to regulations to be promulgated, as appropriate, by the head of each agency or department of the United States having responsibilities under the transition program.
   - **(5)** The Secretary of Homeland Security, the Secretary of State, the Secretary of Labor, and the Secretary of the Interior shall negotiate and implement agreements among their agencies to identify and assign their respective duties so as to ensure timely and proper implementation of the provisions of this section. The agreements should address, at a minimum, procedures to ensure that Commonwealth employers have access to adequate labor, and that tourists, students, retirees, and other visitors have access to the Commonwealth without unnecessary delay or impediment. The agreements may also allocate funding between the respective agencies tasked with various responsibilities under this section.
-  - **(6)** In addition to fees charged pursuant to section 286(m) of the Immigration and Nationality Act ( 8 U.S.C. 1356(m) ) to recover the full costs of providing adjudication services, the Secretary of Homeland Security shall charge an annual supplemental fee of $200 per nonimmigrant worker to each prospective employer who is issued a permit under subsection (d) of this section during the transition period. Such supplemental fee shall be paid into the Treasury of the Commonwealth government for the purpose of funding ongoing vocational educational curricula and program development by Commonwealth educational entities.
+  - **(6)**
+    - **(A)**
+      - **(i)** In addition to fees imposed pursuant to section 286(m) of the Immigration and Nationality Act ( 8 U.S.C. 1356(m) ) to recover the full costs of adjudication services, the Secretary shall impose an annual supplemental fee of $200 per nonimmigrant worker on each prospective employer who is issued a permit under subsection (d)(3) during the transition program. A prospective employer that is issued a permit with a validity period of longer than 1 year shall pay the fee for each year of requested validity at the time the permit is requested.
+      - **(ii)** Beginning in fiscal year 2020, the Secretary, through notice in the Federal Register, may annually adjust the supplemental fee imposed under clause (i) by a percentage equal to the annual change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics.
+      - **(iii)** Amounts collected pursuant to clause (i) shall be deposited into the Treasury of the Commonwealth Government for the sole and exclusive purpose of funding vocational education, apprenticeships, or other training programs for United States workers.
+      - **(iv)** In addition to the fees described in clause (i), the Secretary—
+        - **(I)** shall impose, on each prospective employer filing a petition under this subsection for one or more nonimmigrant workers, a $50 fraud prevention and detection fee; and
+        - **(II)** shall deposit and use the fees collected under subclause (I) for the sole purpose of preventing and detecting immigration benefit fraud in the Northern Mariana Islands, in accordance with section 286(v)(2)(B) of the Immigration and Nationality Act ( 8 U.S.C. 1356(v)(2)(B) ).
+    - **(B)** Not later than 120 days before the first day of fiscal year 2020, and annually thereafter, the Governor of the Commonwealth Government shall submit to the Secretary of Labor—
+      - **(i)** a plan for the expenditures of amounts deposited under subparagraph (A)(iii);
+      - **(ii)** a projection of the effectiveness of such expenditures in the placement of United States workers into jobs held by non-United States workers; and
+      - **(iii)** a report on the changes in employment of United States workers attributable to expenditures of such amounts during the previous year.
+    - **(C)** Not later than 120 days after receiving each expenditure plan under subparagraph (B)(i), the Secretary of Labor shall—
+      - **(i)** issue a determination on the plan; and
+      - **(ii)** submit a report to Congress that describes the effectiveness of the Commonwealth Government at meeting the goals set forth in such plan.
+    - **(D)** Payments may not be made in a fiscal year from amounts deposited under subparagraph (A)(iii) before the Secretary of Labor has approved the expenditure plan submitted under subparagraph (B)(i) for that fiscal year.
   - **(7)** Section 208 of the Immigration and Nationality Act ( 8 U.S.C. 1158 ) shall not apply during the transition period to persons physically present in the Commonwealth or arriving in the Commonwealth (whether or not at a designated port of arrival), including persons brought to the Commonwealth after having been interdicted in international or United States waters.
 - **(b)**
   - **(1)**
@@ -29,6 +44,9 @@ status: "active"
   - **(2)**
     - **(A)** For any fiscal year, not more 3 3 So in original. Probably should be followed by “than”. 4,000 aliens may be admitted to Guam and the Commonwealth pursuant to paragraph (1)(B).
     - **(B)** Paragraph (1)(B) does not apply with respect to the performance of services or labor at a location other than Guam or the Commonwealth.
+  - **(3)** Not later than December 1, 2027 , the Secretary shall submit a report to the Committee on Energy and Natural Resources of the Senate, the Committee on the Judiciary of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on the Judiciary of the House of Representatives that—
+    - **(A)** projects the number of asylum claims the Secretary anticipates following the termination of the transition period; and
+    - **(B)** describes the efforts of the Secretary to ensure appropriate interdiction efforts, provide for appropriate treatment of asylum seekers, and prepare to accept and adjudicate asylum claims in the Commonwealth.
 - **(c)**
   - **(1)** Notwithstanding the treaty requirements in section 101(a)(15)(E) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(E) ), during the transition period, the Secretary of Homeland Security may, upon the application of an alien, classify an alien as a CNMI-only nonimmigrant under section 101(a)(15)(E)(ii) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(E)(ii) ) if the alien—
     - **(A)** has been admitted to the Commonwealth in long-term investor status under the immigration laws of the Commonwealth before the transition program effective date;
@@ -38,10 +56,59 @@ status: "active"
   - **(2)** Not later than 60 days before the transition program effective date, the Secretary of Homeland Security shall publish regulations in the Federal Register to implement this subsection.
 - **(d)** An alien who is seeking to enter the Commonwealth as a nonimmigrant worker may be admitted to perform work during the transition period subject to the following requirements:
   - **(1)** Such an alien shall be treated as a nonimmigrant described in section 101(a)(15) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15) ), including the ability to apply, if otherwise eligible, for a change of nonimmigrant classification under section 248 of such Act ( 8 U.S.C. 1258 ) or adjustment of status under this section and section 245 of such Act ( 8 U.S.C. 1255 ).
-  - **(2)** The Secretary of Homeland Security shall establish, administer, and enforce a system for allocating and determining the number, terms, and conditions of permits to be issued to prospective employers for each such nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.), except a permit for construction occupations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 47–0000 or any successor provision) shall only be issued to extend a permit first issued before October 1, 2015 . In adopting and enforcing this system, the Secretary shall also consider, in good faith and not later than 30 days after receipt by the Secretary, any comments and advice submitted by the Governor of the Commonwealth. This system shall provide for a reduction in the allocation of permits for such workers on an annual basis to zero, during a period ending on December 31, 2019 , except that for fiscal year 2017 an additional 350 permits shall be made available for extension of existing permits, expiring after August 22, 2017 , through September 30, 2017 , of which no fewer than 60 shall be reserved for healthcare practitioners and technical operations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 29–0000 or any successor provision), and no fewer than 10 shall be reserved for plant and system operators (as that term is defined by the Department of Labor as Standard Occupational Classification Group 51–8000 or any successor provision). In no event shall a permit be valid beyond the expiration of the transition period. This system may be based on any reasonable method and criteria determined by the Secretary of Homeland Security to promote the maximum use of, and to prevent adverse effects on wages and working conditions of, workers authorized to be employed in the United States, including lawfully admissible freely associated state citizen labor. No alien shall be granted nonimmigrant classification or a visa under this subsection unless the permit requirements established under this paragraph have been met.
-  - **(3)** The Secretary of Homeland Security shall set the conditions for admission of such an alien under the transition program, and the Secretary of State shall authorize the issuance of nonimmigrant visas for such an alien. Such a visa shall not be valid for admission to the United States, as defined in section 101(a)(38) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(38) ), except admission to the Commonwealth. An alien admitted to the Commonwealth on the basis of such a visa shall be permitted to engage in employment only as authorized pursuant to the transition program.
-  - **(4)** Such an alien shall be permitted to transfer between employers in the Commonwealth during the period of such alien’s authorized stay therein, without permission of the employee’s current or prior employer, within the alien’s occupational category or another occupational category the Secretary of Homeland Security has found requires alien workers to supplement the resident workforce.
-  - **(5)** The Secretary of Homeland Security may authorize the admission of a spouse or minor child accompanying or following to join a worker admitted pursuant to this subsection.
+  - **(2)**
+    - **(A)**
+      - **(i)** Beginning with petitions filed with employment start dates in fiscal year 2020, a petition to import a nonimmigrant worker under this subsection may not be approved by the Secretary unless the petitioner has applied to the Secretary of Labor for a temporary labor certification confirming that—
+        - **(I)** there are not sufficient United States workers in the Commonwealth who are able, willing, qualified, and available at the time and place needed to perform the services or labor involved in the petition; and
+        - **(II)** employment of the nonimmigrant worker will not adversely affect the wages and working conditions of similarly employed United States workers.
+      - **(ii)** After receiving a temporary labor certification under clause (i), a prospective employer may submit a petition to the Secretary for a Commonwealth Only Transitional Worker permit on behalf of the nonimmigrant worker.
+    - **(B)**
+      - **(i)** In order to effectuate the requirement for a temporary labor certification under subparagraph (A)(i), the Secretary of Labor shall use, or make available to employers, an occupational wage survey conducted by the Governor that the Secretary of Labor has determined meets the statistical standards for determining prevailing wages in the Commonwealth on an annual basis.
+      - **(ii)** In the absence of an occupational wage survey approved by the Secretary of Labor under clause (i), the prevailing wage for an occupation in the Commonwealth shall be the arithmetic mean of the wages of workers similarly employed in the territory of Guam according to the wage component of the Occupational Employment Statistics Survey conducted by the Bureau of Labor Statistics.
+    - **(C)** An employer shall pay each Commonwealth Only Transitional Worker a wage that is not less than the greater of—
+      - **(i)** the statutory minimum wage in the Commonwealth;
+      - **(ii)** the Federal minimum wage; or
+      - **(iii)** the prevailing wage in the Commonwealth for the occupation in which the worker is employed.
+  - **(3)**
+    - **(A)** The Secretary shall establish, administer, and enforce a system for allocating and determining terms and conditions of permits to be issued to prospective employers for each nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.).
+    - **(B)** The number of permits issued under subparagraph (A) may not exceed—
+      - **(i)** 13,000 for fiscal year 2019;
+      - **(ii)** 12,500 for fiscal year 2020;
+      - **(iii)** 12,000 for fiscal year 2021;
+      - **(iv)** 11,500 for fiscal year 2022;
+      - **(v)** 11,000 for fiscal year 2023;
+      - **(vi)** 10,000 for fiscal year 2024;
+      - **(vii)** 9,000 for fiscal year 2025;
+      - **(viii)** 8,000 for fiscal year 2026;
+      - **(ix)** 7,000 for fiscal year 2027;
+      - **(x)** 6,000 for fiscal year 2028;
+      - **(xi)** 5,000 for fiscal year 2029; and
+      - **(xii)** 1,000 for the first quarter of fiscal year 2030.
+    - **(C)**
+      - **(i)** Not later than 60 days before the end of each calendar year, the Governor shall submit a report to the Secretary that identifies the ratio between United States workers and other workers in the Commonwealth’s workforce based on income tax filings with the Commonwealth for the tax year.
+      - **(ii)** Not later than December 31, 2019 , and biennially thereafter, the Comptroller General of the United States shall submit a report to the Chair and Ranking Member of the Committee on Energy and Natural Resources of the Senate, the Chair and Ranking Member of the Committee on Natural Resources of the House of Representatives, the Chair and Ranking Member of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chair and Ranking Member of the Committee on Education and the Workforce of the House of Representatives that identifies the ratio between United States workers and other workers in the Commonwealth’s workforce during each of the previous 5 calendar years.
+    - **(D)**
+      - **(i)** A prospective employer may submit a petition for a permit under this paragraph not earlier than—
+        - **(I)** 120 days before the date on which the prospective employer needs the beneficiary’s services; or
+        - **(II)** if the petition is for the renewal of an existing permit, not earlier than 180 days before the expiration of such permit.
+      - **(ii)** The Secretary shall establish a system for each employer of a Commonwealth Only Transitional Worker to submit a semiannual report to the Secretary and the Secretary of Labor that provides evidence to verify the continuing employment and payment of such worker under the terms and conditions set forth in the permit petition that the employer filed on behalf of such worker.
+      - **(iii)**
+        - **(I)** The Secretary, in the Secretary’s discretion, may revoke a permit approved under this paragraph for good cause, including if—
+        - **(II)** Notwithstanding subparagraph (C), for each permit revoked under subclause (I) in a fiscal year, an additional permit shall be made available for use in the subsequent fiscal year.
+      - **(iv)**
+        - **(I)** A permit may not be approved for a prospective employer that is not a legitimate business.
+        - **(II)** In this clause, the term “legitimate business” means a real, active, and operating commercial or entrepreneurial undertaking that the Secretary, in the Secretary’s sole discretion, determines—
+      - **(v)** A permit for Construction and Extraction Occupations (as defined by the Department of Labor as Standard Occupational Classification Group 47–0000) may not be issued for any worker other than a worker described in paragraph (7)(B).
+  - **(4)** The Secretary of Homeland Security shall set the conditions for admission of such an alien under the transition program, and the Secretary of State shall authorize the issuance of nonimmigrant visas for such an alien. Such a visa shall not be valid for admission to the United States, as defined in section 101(a)(38) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(38) ), except admission to the Commonwealth or to Guam for the purpose of transit only. An alien admitted to the Commonwealth on the basis of such a visa shall be permitted to engage in employment only as authorized pursuant to the transition program.
+  - **(5)** Such an alien shall be permitted to transfer between employers in the Commonwealth during the period of such alien’s authorized stay therein, without permission of the employee’s current or prior employer, within the alien’s occupational category or another occupational category the Secretary of Homeland Security has found requires alien workers to supplement the resident workforce. Approval of a petition filed by the new employer with a start date within the same fiscal year as the current permit shall not count against the numerical limitation for that period.
+  - **(6)** The Secretary of Homeland Security may authorize the admission of a spouse or minor child accompanying or following to join a worker admitted pursuant to this subsection.
+  - **(7)**
+    - **(A)** Except as provided in subparagraph (B)—
+      - **(i)** a permit for a Commonwealth Only Transitional Worker—
+        - **(I)** shall remain valid for a period that may not exceed 1 year; and
+        - **(II)** may be renewed for not more than two consecutive, 1-year periods; and
+      - **(ii)** at the expiration of the second renewal period, an alien may not again be eligible for such a permit until after the alien has remained outside of the United States for a continuous period of at least 30 days prior to the submission of a renewal petition on their behalf.
+    - **(B)** An alien who was admitted to the Commonwealth as a Commonwealth Only Transitional Worker during fiscal year 2015, and during every subsequent fiscal year beginning before July 24, 2018 , may receive a permit for a Commonwealth Only Transitional Worker that is valid for a period that may not exceed 3 years and may be renewed for additional 3-year periods during the transition period. A permit issued under this subparagraph shall be counted toward the numerical cap for each fiscal year within the period of petition validity.
 - **(e)**
   - **(1)**
     - **(A)** Subject to subparagraph (B), no alien who is lawfully present in the Commonwealth pursuant to the immigration laws of the Commonwealth on the transition program effective date shall be removed from the United States on the grounds that such alien’s presence in the Commonwealth is in violation of section 212(a)(6)(A) of the Immigration and Nationality Act ( 8 U.S.C. 1182(a)(6)(A) ), until the earlier of the date—
@@ -62,3 +129,15 @@ status: "active"
   - **(3)** the number of years each alien has been residing in the Commonwealth;
   - **(4)** the current and future requirements of the Commonwealth economy for an alien workforce; and
   - **(5)** such recommendations to the Congress, as the Secretary may deem appropriate, related to whether or not the Congress should consider permitting lawfully admitted guest workers lawfully residing in the Commonwealth on May 8, 2008 , to apply for long-term status under the immigration and nationality laws of the United States.
+- **(i)** In this section:
+  - **(1)** The term “Commonwealth” means the Commonwealth of the Northern Mariana Islands.
+  - **(2)** The term “Commonwealth Only Transition Worker” means an alien who has been admitted into the Commonwealth under the transition program and is eligible for a permit under subsection (d)(3).
+  - **(3)** The term “Governor” means the Governor of the Commonwealth of the Northern Mariana Islands.
+  - **(4)** The term “Secretary” means the Secretary of Homeland Security.
+  - **(5)** The term “tax year” means the fiscal year immediately preceding the current fiscal year.
+  - **(6)** The term “United States worker” means any worker who is—
+    - **(A)** a citizen or national of the United States;
+    - **(B)** an alien who has been lawfully admitted for permanent residence; or
+    - **(C)** a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau (known collectively as the “Freely Associated States”) who has been lawfully admitted to the United States pursuant to—
+      - **(i)** section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia ( 48 U.S.C. 1921 note); 1 1 See References in Text note below. or
+      - **(ii)** section 141 of the Compact of Free Association between the United States and the Government of Palau ( 48 U.S.C. 1931 note).

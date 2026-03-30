@@ -3,9 +3,9 @@ title: "Section 293 - Centers of excellence"
 usc_title: 42
 usc_section: "293"
 chapter: 6
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 293"
-generated_at: "2026-03-30T07:36:01.102Z"
+generated_at: "2026-03-30T07:38:36.448Z"
 status: "active"
 ---
 

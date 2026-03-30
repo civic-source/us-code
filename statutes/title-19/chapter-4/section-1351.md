@@ -3,9 +3,9 @@ title: "Section 1351 - Foreign trade agreements"
 usc_title: 19
 usc_section: "1351"
 chapter: 4
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "19 U.S.C. § 1351"
-generated_at: "2026-03-30T07:35:01.271Z"
+generated_at: "2026-03-30T07:37:19.503Z"
 status: "active"
 ---
 

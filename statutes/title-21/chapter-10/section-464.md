@@ -3,9 +3,9 @@ title: "Section 464 - Exemptions"
 usc_title: 21
 usc_section: "464"
 chapter: 10
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "21 U.S.C. § 464"
-generated_at: "2026-03-30T07:35:09.831Z"
+generated_at: "2026-03-30T07:37:45.735Z"
 status: "active"
 ---
 

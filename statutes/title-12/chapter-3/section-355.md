@@ -3,9 +3,9 @@ title: "Section 355 - Purchase and sale of obligations of National, State, and m
 usc_title: 12
 usc_section: "355"
 chapter: 3
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "12 U.S.C. § 355"
-generated_at: "2026-03-30T07:34:56.708Z"
+generated_at: "2026-03-30T07:36:51.562Z"
 status: "active"
 ---
 

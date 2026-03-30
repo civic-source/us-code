@@ -3,9 +3,9 @@ title: "Section 7908 - Authorization of appropriations"
 usc_title: 22
 usc_section: "7908"
 chapter: 86
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 7908"
-generated_at: "2026-03-30T07:35:12.910Z"
+generated_at: "2026-03-30T07:37:35.811Z"
 status: "active"
 ---
 

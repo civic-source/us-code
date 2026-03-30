@@ -3,9 +3,9 @@ title: "Section 1143 - Distribution"
 usc_title: 11
 usc_section: "1143"
 chapter: 11
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "11 U.S.C. § 1143"
-generated_at: "2026-03-30T07:34:48.058Z"
+generated_at: "2026-03-30T07:36:47.683Z"
 status: "active"
 ---
 

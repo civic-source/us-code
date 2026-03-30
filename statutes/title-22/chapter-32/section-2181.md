@@ -3,9 +3,9 @@ title: "Section 2181 - Policy"
 usc_title: 22
 usc_section: "2181"
 chapter: 32
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 2181"
-generated_at: "2026-03-30T07:35:12.827Z"
+generated_at: "2026-03-30T07:37:35.723Z"
 status: "active"
 ---
 

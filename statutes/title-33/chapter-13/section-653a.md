@@ -3,9 +3,9 @@ title: "Section 653a - Extension of jurisdiction of Mississippi River Commission
 usc_title: 33
 usc_section: "653a"
 chapter: 13
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "33 U.S.C. § 653a"
-generated_at: "2026-03-30T07:35:39.517Z"
+generated_at: "2026-03-30T07:38:06.095Z"
 status: "active"
 ---
 

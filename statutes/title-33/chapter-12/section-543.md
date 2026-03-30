@@ -3,9 +3,9 @@ title: "Section 543 - Employment of civil engineers on western and northwestern 
 usc_title: 33
 usc_section: "543"
 chapter: 12
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "33 U.S.C. § 543"
-generated_at: "2026-03-30T07:35:39.514Z"
+generated_at: "2026-03-30T07:38:06.091Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17 - Permits"
 usc_title: 16
 usc_section: "17"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 17"
-generated_at: "2026-03-30T07:35:06.060Z"
+generated_at: "2026-03-30T07:37:27.712Z"
 status: "active"
 ---
 

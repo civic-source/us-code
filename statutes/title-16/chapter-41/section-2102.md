@@ -3,9 +3,9 @@ title: "Section 2102 - Rural forestry assistance"
 usc_title: 16
 usc_section: "2102"
 chapter: 41
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 2102"
-generated_at: "2026-03-30T07:35:06.165Z"
+generated_at: "2026-03-30T07:37:27.819Z"
 status: "active"
 ---
 

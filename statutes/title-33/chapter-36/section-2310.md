@@ -3,9 +3,9 @@ title: "Section 2310 - Cost sharing for Territories and Indian tribes"
 usc_title: 33
 usc_section: "2310"
 chapter: 36
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "33 U.S.C. § 2310"
-generated_at: "2026-03-30T07:35:39.560Z"
+generated_at: "2026-03-30T07:38:06.139Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 752b - Omitted"
 usc_title: 33
 usc_section: "752b"
 chapter: 16
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "33 U.S.C. § 752b"
-generated_at: "2026-03-30T07:35:39.522Z"
+generated_at: "2026-03-30T07:38:06.101Z"
 status: "omitted"
 ---
 

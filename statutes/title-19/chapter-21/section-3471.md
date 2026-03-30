@@ -3,9 +3,9 @@ title: "Section 3471 - Agreement on Labor Cooperation"
 usc_title: 19
 usc_section: "3471"
 chapter: 21
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "19 U.S.C. § 3471"
-generated_at: "2026-03-30T07:35:01.323Z"
+generated_at: "2026-03-30T07:37:19.555Z"
 status: "active"
 ---
 

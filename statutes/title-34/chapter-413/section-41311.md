@@ -3,9 +3,9 @@ title: "Section 41311 - Improving Department of Justice data collection on menta
 usc_title: 34
 usc_section: "41311"
 chapter: 413
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "34 U.S.C. § 41311"
-generated_at: "2026-03-30T07:35:32.686Z"
+generated_at: "2026-03-30T07:38:07.379Z"
 status: "active"
 ---
 

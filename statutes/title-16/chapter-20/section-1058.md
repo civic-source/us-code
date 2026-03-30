@@ -3,9 +3,9 @@ title: "Section 1058 - Limitation on appropriations and expenditures; charges fo
 usc_title: 16
 usc_section: "1058"
 chapter: 20
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 1058"
-generated_at: "2026-03-30T07:35:06.130Z"
+generated_at: "2026-03-30T07:37:27.783Z"
 status: "active"
 ---
 

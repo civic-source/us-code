@@ -3,9 +3,9 @@ title: "Section 122 - Discontinuance of land offices by Secretary of the Interio
 usc_title: 43
 usc_section: "122"
 chapter: 5
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "43 U.S.C. § 122"
-generated_at: "2026-03-30T07:35:49.389Z"
+generated_at: "2026-03-30T07:38:18.265Z"
 status: "active"
 ---
 

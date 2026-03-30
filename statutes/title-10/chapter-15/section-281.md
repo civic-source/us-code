@@ -3,9 +3,9 @@ title: "Section 281 - Procurement of equipment by State and local governments th
 usc_title: 10
 usc_section: "281"
 chapter: 15
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 281"
-generated_at: "2026-03-30T07:34:41.773Z"
+generated_at: "2026-03-30T07:36:40.023Z"
 status: "active"
 ---
 

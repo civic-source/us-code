@@ -3,9 +3,9 @@ title: "Section 670l - Stamp requirements not applicable to Forest Service and B
 usc_title: 16
 usc_section: "670l"
 chapter: 5
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 670l"
-generated_at: "2026-03-30T07:35:06.098Z"
+generated_at: "2026-03-30T07:37:27.752Z"
 status: "active"
 ---
 

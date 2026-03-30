@@ -3,9 +3,9 @@ title: "Section 1123 - Right to wear badges of military societies"
 usc_title: 10
 usc_section: "1123"
 chapter: 57
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 1123"
-generated_at: "2026-03-30T07:34:41.807Z"
+generated_at: "2026-03-30T07:36:40.057Z"
 status: "active"
 ---
 

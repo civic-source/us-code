@@ -3,9 +3,9 @@ title: "Section 4005 - Definitions applicable to Homeowner Flood Insurance Affor
 usc_title: 42
 usc_section: "4005"
 chapter: 50
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 4005"
-generated_at: "2026-03-30T07:36:01.433Z"
+generated_at: "2026-03-30T07:38:36.779Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1728 - Nondisplacement"
 usc_title: 16
 usc_section: "1728"
 chapter: 37
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 1728"
-generated_at: "2026-03-30T07:35:06.156Z"
+generated_at: "2026-03-30T07:37:27.809Z"
 status: "active"
 ---
 

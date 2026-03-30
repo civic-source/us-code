@@ -3,9 +3,9 @@ title: "Section 6991m - Authorization of appropriations"
 usc_title: 42
 usc_section: "6991m"
 chapter: 82
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 6991m"
-generated_at: "2026-03-30T07:36:01.503Z"
+generated_at: "2026-03-30T07:38:36.853Z"
 status: "active"
 ---
 

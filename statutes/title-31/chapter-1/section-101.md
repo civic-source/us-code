@@ -3,9 +3,9 @@ title: "Section 101 - Agency"
 usc_title: 31
 usc_section: "101"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "31 U.S.C. § 101"
-generated_at: "2026-03-30T07:35:30.874Z"
+generated_at: "2026-03-30T07:38:08.513Z"
 status: "active"
 ---
 

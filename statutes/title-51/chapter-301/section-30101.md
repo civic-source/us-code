@@ -3,9 +3,9 @@ title: "Section 30101 - Prior authorization of appropriations required"
 usc_title: 51
 usc_section: "30101"
 chapter: 301
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "51 U.S.C. § 30101"
-generated_at: "2026-03-30T07:36:17.957Z"
+generated_at: "2026-03-30T07:38:58.188Z"
 status: "active"
 ---
 

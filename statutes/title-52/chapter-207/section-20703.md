@@ -3,9 +3,9 @@ title: "Section 20703 - Demand for records or papers by Attorney General or repr
 usc_title: 52
 usc_section: "20703"
 chapter: 207
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "52 U.S.C. § 20703"
-generated_at: "2026-03-30T07:36:18.090Z"
+generated_at: "2026-03-30T07:38:57.991Z"
 status: "active"
 ---
 

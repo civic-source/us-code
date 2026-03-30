@@ -3,9 +3,9 @@ title: "Section 1721 - Congressional findings and purpose"
 usc_title: 16
 usc_section: "1721"
 chapter: 37
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 1721"
-generated_at: "2026-03-30T07:35:06.156Z"
+generated_at: "2026-03-30T07:37:27.808Z"
 status: "active"
 ---
 

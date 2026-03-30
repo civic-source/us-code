@@ -3,9 +3,9 @@ title: "Section 6401 - Findings"
 usc_title: 15
 usc_section: "6401"
 chapter: 90
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 6401"
-generated_at: "2026-03-30T07:34:54.945Z"
+generated_at: "2026-03-30T07:37:02.174Z"
 status: "active"
 ---
 

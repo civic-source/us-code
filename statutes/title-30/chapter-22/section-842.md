@@ -3,9 +3,9 @@ title: "Section 842 - Dust concentration and respiratory equipment"
 usc_title: 30
 usc_section: "842"
 chapter: 22
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "30 U.S.C. § 842"
-generated_at: "2026-03-30T07:35:18.365Z"
+generated_at: "2026-03-30T07:37:48.904Z"
 status: "active"
 ---
 

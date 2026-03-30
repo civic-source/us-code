@@ -3,9 +3,9 @@ title: "Section 191 - Repealed. Pub. L. 94–579, title VII , § 702, Oct. 21, 1
 usc_title: 43
 usc_section: "191"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "43 U.S.C. § 191"
-generated_at: "2026-03-30T07:35:49.390Z"
+generated_at: "2026-03-30T07:38:18.266Z"
 status: "repealed"
 ---
 

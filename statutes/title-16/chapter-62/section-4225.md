@@ -3,9 +3,9 @@ title: "Section 4225 - Rewards"
 usc_title: 16
 usc_section: "4225"
 chapter: 62
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 4225"
-generated_at: "2026-03-30T07:35:06.192Z"
+generated_at: "2026-03-30T07:37:27.845Z"
 status: "active"
 ---
 

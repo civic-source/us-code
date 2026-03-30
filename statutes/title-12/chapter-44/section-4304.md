@@ -3,9 +3,9 @@ title: "Section 4304 - Disclosure requirements for certain accounts"
 usc_title: 12
 usc_section: "4304"
 chapter: 44
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "12 U.S.C. § 4304"
-generated_at: "2026-03-30T07:34:56.818Z"
+generated_at: "2026-03-30T07:36:51.688Z"
 status: "active"
 ---
 

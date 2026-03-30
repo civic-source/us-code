@@ -3,9 +3,9 @@ title: "Section 7808 - Service to be independent unit"
 usc_title: 38
 usc_section: "7808"
 chapter: 78
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "38 U.S.C. § 7808"
-generated_at: "2026-03-30T07:35:46.693Z"
+generated_at: "2026-03-30T07:38:12.535Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 90103 - Board of directors"
 usc_title: 36
 usc_section: "90103"
 chapter: 901
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "36 U.S.C. § 90103"
-generated_at: "2026-03-30T07:35:43.414Z"
+generated_at: "2026-03-30T07:38:15.627Z"
 status: "active"
 ---
 

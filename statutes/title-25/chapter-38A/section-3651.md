@@ -3,9 +3,9 @@ title: "Section 3651 - Findings"
 usc_title: 25
 usc_section: "3651"
 chapter: 38
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "25 U.S.C. § 3651"
-generated_at: "2026-03-30T07:35:15.643Z"
+generated_at: "2026-03-30T07:37:38.594Z"
 status: "active"
 ---
 

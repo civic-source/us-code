@@ -3,9 +3,9 @@ title: "Section 1477 - Enforcement by State Attorneys General"
 usc_title: 15
 usc_section: "1477"
 chapter: 39
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 1477"
-generated_at: "2026-03-30T07:34:54.879Z"
+generated_at: "2026-03-30T07:37:02.108Z"
 status: "active"
 ---
 

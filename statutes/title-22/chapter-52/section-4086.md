@@ -3,9 +3,9 @@ title: "Section 4086 - Entitlement to vote in a State in a Federal election; pre
 usc_title: 22
 usc_section: "4086"
 chapter: 52
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 4086"
-generated_at: "2026-03-30T07:35:12.874Z"
+generated_at: "2026-03-30T07:37:35.772Z"
 status: "active"
 ---
 

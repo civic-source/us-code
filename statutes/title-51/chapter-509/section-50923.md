@@ -3,9 +3,9 @@ title: "Section 50923 - Report to Congress"
 usc_title: 51
 usc_section: "50923"
 chapter: 509
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "51 U.S.C. § 50923"
-generated_at: "2026-03-30T07:36:17.961Z"
+generated_at: "2026-03-30T07:38:58.193Z"
 status: "active"
 ---
 

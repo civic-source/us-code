@@ -3,9 +3,9 @@ title: "Section 2158 - Conduct resulting in termination of nuclear exports"
 usc_title: 42
 usc_section: "2158"
 chapter: 23
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 2158"
-generated_at: "2026-03-30T07:36:01.396Z"
+generated_at: "2026-03-30T07:38:36.743Z"
 status: "active"
 ---
 

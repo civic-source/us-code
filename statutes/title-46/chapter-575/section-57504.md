@@ -3,9 +3,9 @@ title: "Section 57504 - Charter or sale of vessels acquired by Department of Tra
 usc_title: 46
 usc_section: "57504"
 chapter: 575
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "46 U.S.C. § 57504"
-generated_at: "2026-03-30T07:36:05.082Z"
+generated_at: "2026-03-30T07:38:48.782Z"
 status: "active"
 ---
 

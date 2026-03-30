@@ -3,9 +3,9 @@ title: "Section 60 - Capital structure"
 usc_title: 15
 usc_section: "60"
 chapter: 2
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 60"
-generated_at: "2026-03-30T07:34:54.823Z"
+generated_at: "2026-03-30T07:37:02.049Z"
 status: "active"
 ---
 

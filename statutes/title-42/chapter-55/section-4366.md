@@ -3,9 +3,9 @@ title: "Section 4366 - Identification and coordination of research, development,
 usc_title: 42
 usc_section: "4366"
 chapter: 55
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 4366"
-generated_at: "2026-03-30T07:36:01.439Z"
+generated_at: "2026-03-30T07:38:36.786Z"
 status: "active"
 ---
 

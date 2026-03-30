@@ -3,9 +3,9 @@ title: "Section 40509 - Service of process"
 usc_title: 36
 usc_section: "40509"
 chapter: 405
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "36 U.S.C. § 40509"
-generated_at: "2026-03-30T07:35:43.411Z"
+generated_at: "2026-03-30T07:38:15.625Z"
 status: "active"
 ---
 

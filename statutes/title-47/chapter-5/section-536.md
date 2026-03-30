@@ -3,9 +3,9 @@ title: "Section 536 - Regulation of carriage agreements"
 usc_title: 47
 usc_section: "536"
 chapter: 5
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "47 U.S.C. § 536"
-generated_at: "2026-03-30T07:36:12.368Z"
+generated_at: "2026-03-30T07:38:39.852Z"
 status: "active"
 ---
 

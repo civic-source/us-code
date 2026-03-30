@@ -3,9 +3,9 @@ title: "Section 1731 - Implementation of an integrated entry and exit data syste
 usc_title: 8
 usc_section: "1731"
 chapter: 15
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "8 U.S.C. § 1731"
-generated_at: "2026-03-30T07:34:36.305Z"
+generated_at: "2026-03-30T07:36:42.123Z"
 status: "active"
 ---
 

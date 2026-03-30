@@ -3,9 +3,9 @@ title: "Section 1447b - Regional Marine Research Boards"
 usc_title: 16
 usc_section: "1447b"
 chapter: 32
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 1447b"
-generated_at: "2026-03-30T07:35:06.148Z"
+generated_at: "2026-03-30T07:37:27.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1111 - Exemption from taxation"
 usc_title: 16
 usc_section: "1111"
 chapter: 22
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 1111"
-generated_at: "2026-03-30T07:35:06.130Z"
+generated_at: "2026-03-30T07:37:27.783Z"
 status: "active"
 ---
 

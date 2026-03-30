@@ -3,9 +3,9 @@ title: "Section 317 - Special pay: officers in critical acquisition positions ex
 usc_title: 37
 usc_section: "317"
 chapter: 5
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "37 U.S.C. § 317"
-generated_at: "2026-03-30T07:35:42.762Z"
+generated_at: "2026-03-30T07:38:10.462Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7238 - Repealed. Pub. L. 91–513, title III , § 1101(b)(4)(A),
 usc_title: 26
 usc_section: "7238"
 chapter: 75
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 7238"
-generated_at: "2026-03-30T07:35:27.664Z"
+generated_at: "2026-03-30T07:37:55.449Z"
 status: "repealed"
 ---
 

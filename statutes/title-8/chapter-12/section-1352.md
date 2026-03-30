@@ -3,9 +3,9 @@ title: "Section 1352 - Printing of reentry permits and blank forms of manifest a
 usc_title: 8
 usc_section: "1352"
 chapter: 12
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "8 U.S.C. § 1352"
-generated_at: "2026-03-30T07:34:36.290Z"
+generated_at: "2026-03-30T07:36:42.112Z"
 status: "active"
 ---
 

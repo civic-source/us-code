@@ -3,9 +3,9 @@ title: "Section 829 - Radio station deemed government station"
 usc_title: 14
 usc_section: "829"
 chapter: 23
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "14 U.S.C. § 829"
-generated_at: "2026-03-30T07:34:47.787Z"
+generated_at: "2026-03-30T07:36:47.055Z"
 status: "active"
 ---
 

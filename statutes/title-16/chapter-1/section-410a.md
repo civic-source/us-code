@@ -3,9 +3,9 @@ title: "Section 410a - Acceptance of title to lands"
 usc_title: 16
 usc_section: "410a"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 410a"
-generated_at: "2026-03-30T07:35:06.013Z"
+generated_at: "2026-03-30T07:37:27.664Z"
 status: "active"
 ---
 

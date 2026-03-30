@@ -3,9 +3,9 @@ title: "Section 6935 - Under Secretary of Agriculture for Trade and Foreign Agri
 usc_title: 7
 usc_section: "6935"
 chapter: 98
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "7 U.S.C. § 6935"
-generated_at: "2026-03-30T07:34:45.594Z"
+generated_at: "2026-03-30T07:36:45.036Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13493 - Commercialization of advanced light water reactor techno
 usc_title: 42
 usc_section: "13493"
 chapter: 134
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 13493"
-generated_at: "2026-03-30T07:36:01.642Z"
+generated_at: "2026-03-30T07:38:36.992Z"
 status: "active"
 ---
 

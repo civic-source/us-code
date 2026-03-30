@@ -3,9 +3,9 @@ title: "Section 2017a - Omitted"
 usc_title: 42
 usc_section: "2017a"
 chapter: 23
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 2017a"
-generated_at: "2026-03-30T07:36:01.391Z"
+generated_at: "2026-03-30T07:38:36.737Z"
 status: "omitted"
 ---
 

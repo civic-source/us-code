@@ -3,9 +3,9 @@ title: "Section 7622 - Authority to administer oaths and certify"
 usc_title: 26
 usc_section: "7622"
 chapter: 78
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 7622"
-generated_at: "2026-03-30T07:35:27.673Z"
+generated_at: "2026-03-30T07:37:55.457Z"
 status: "active"
 ---
 

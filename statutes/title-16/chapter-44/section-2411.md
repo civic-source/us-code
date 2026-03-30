@@ -3,9 +3,9 @@ title: "Section 2411 - Federal agency cooperation"
 usc_title: 16
 usc_section: "2411"
 chapter: 44
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 2411"
-generated_at: "2026-03-30T07:35:06.169Z"
+generated_at: "2026-03-30T07:37:27.822Z"
 status: "active"
 ---
 

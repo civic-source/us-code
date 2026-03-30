@@ -3,9 +3,9 @@ title: "Section 21023 - Requirements for eligibility"
 usc_title: 52
 usc_section: "21023"
 chapter: 209
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "52 U.S.C. § 21023"
-generated_at: "2026-03-30T07:36:18.094Z"
+generated_at: "2026-03-30T07:38:57.993Z"
 status: "active"
 ---
 

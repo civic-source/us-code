@@ -3,9 +3,9 @@ title: "Section 2 - Jurisdiction of States"
 usc_title: 7
 usc_section: "2"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T07:34:45.451Z"
+generated_at: "2026-03-30T07:36:44.889Z"
 status: "active"
 ---
 

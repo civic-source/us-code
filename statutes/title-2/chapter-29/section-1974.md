@@ -3,9 +3,9 @@ title: "Section 1974 - Capitol Police special officers"
 usc_title: 2
 usc_section: "1974"
 chapter: 29
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "2 U.S.C. § 1974"
-generated_at: "2026-03-30T07:34:31.309Z"
+generated_at: "2026-03-30T07:36:29.500Z"
 status: "active"
 ---
 

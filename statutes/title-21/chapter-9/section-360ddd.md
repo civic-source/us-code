@@ -3,9 +3,9 @@ title: "Section 360ddd - Definitions"
 usc_title: 21
 usc_section: "360ddd"
 chapter: 9
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "21 U.S.C. § 360ddd"
-generated_at: "2026-03-30T07:35:09.808Z"
+generated_at: "2026-03-30T07:37:45.712Z"
 status: "active"
 ---
 

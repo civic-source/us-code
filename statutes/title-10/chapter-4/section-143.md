@@ -3,9 +3,9 @@ title: "Section 143 - Office of the Secretary of Defense personnel: limitation"
 usc_title: 10
 usc_section: "143"
 chapter: 4
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 143"
-generated_at: "2026-03-30T07:34:41.767Z"
+generated_at: "2026-03-30T07:36:40.018Z"
 status: "active"
 ---
 

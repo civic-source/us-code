@@ -3,9 +3,9 @@ title: "Section 1395ggg - Omitted"
 usc_title: 42
 usc_section: "1395ggg"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 1395ggg"
-generated_at: "2026-03-30T07:36:01.299Z"
+generated_at: "2026-03-30T07:38:36.643Z"
 status: "omitted"
 ---
 

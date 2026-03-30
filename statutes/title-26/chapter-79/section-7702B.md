@@ -3,9 +3,9 @@ title: "Section 7702B - Treatment of qualified long-term care insurance"
 usc_title: 26
 usc_section: "7702B"
 chapter: 79
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 7702B"
-generated_at: "2026-03-30T07:35:27.676Z"
+generated_at: "2026-03-30T07:37:55.460Z"
 status: "active"
 ---
 

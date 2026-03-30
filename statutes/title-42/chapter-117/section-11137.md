@@ -3,9 +3,9 @@ title: "Section 11137 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "11137"
 chapter: 117
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 11137"
-generated_at: "2026-03-30T07:36:01.599Z"
+generated_at: "2026-03-30T07:38:36.949Z"
 status: "active"
 ---
 

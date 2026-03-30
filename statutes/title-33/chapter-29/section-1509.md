@@ -3,9 +3,9 @@ title: "Section 1509 - Marine environmental protection and navigational safety"
 usc_title: 33
 usc_section: "1509"
 chapter: 29
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "33 U.S.C. § 1509"
-generated_at: "2026-03-30T07:35:39.551Z"
+generated_at: "2026-03-30T07:38:06.130Z"
 status: "active"
 ---
 

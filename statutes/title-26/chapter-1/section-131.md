@@ -3,9 +3,9 @@ title: "Section 131 - Certain foster care payments"
 usc_title: 26
 usc_section: "131"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 131"
-generated_at: "2026-03-30T07:35:27.470Z"
+generated_at: "2026-03-30T07:37:55.258Z"
 status: "active"
 ---
 

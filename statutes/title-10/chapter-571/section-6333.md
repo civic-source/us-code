@@ -3,9 +3,9 @@ title: "Section 6333 - Computation of retired and retainer pay"
 usc_title: 10
 usc_section: "6333"
 chapter: 571
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 6333"
-generated_at: "2026-03-30T07:34:41.882Z"
+generated_at: "2026-03-30T07:36:40.132Z"
 status: "active"
 ---
 

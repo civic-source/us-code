@@ -3,9 +3,9 @@ title: "Section 1928d - Auditing and accounting"
 usc_title: 22
 usc_section: "1928d"
 chapter: 24
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 1928d"
-generated_at: "2026-03-30T07:35:12.819Z"
+generated_at: "2026-03-30T07:37:35.714Z"
 status: "active"
 ---
 

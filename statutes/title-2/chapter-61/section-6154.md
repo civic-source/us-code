@@ -3,9 +3,9 @@ title: "Section 6154 - Offices of the Secretaries of the Conference of the Major
 usc_title: 2
 usc_section: "6154"
 chapter: 61
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "2 U.S.C. § 6154"
-generated_at: "2026-03-30T07:34:31.325Z"
+generated_at: "2026-03-30T07:36:29.514Z"
 status: "active"
 ---
 

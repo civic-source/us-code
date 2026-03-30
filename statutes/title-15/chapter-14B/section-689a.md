@@ -3,9 +3,9 @@ title: "Section 689a - Purposes"
 usc_title: 15
 usc_section: "689a"
 chapter: 14
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 689a"
-generated_at: "2026-03-30T07:34:54.856Z"
+generated_at: "2026-03-30T07:37:02.084Z"
 status: "active"
 ---
 

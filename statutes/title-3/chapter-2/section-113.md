@@ -3,9 +3,9 @@ title: "Section 113 - Personnel report"
 usc_title: 3
 usc_section: "113"
 chapter: 2
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "3 U.S.C. § 113"
-generated_at: "2026-03-30T07:34:30.351Z"
+generated_at: "2026-03-30T07:36:28.561Z"
 status: "active"
 ---
 

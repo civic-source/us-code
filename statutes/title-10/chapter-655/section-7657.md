@@ -3,9 +3,9 @@ title: "Section 7657 - Duties of commanding officer of capturing vessel"
 usc_title: 10
 usc_section: "7657"
 chapter: 655
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 7657"
-generated_at: "2026-03-30T07:34:41.888Z"
+generated_at: "2026-03-30T07:36:40.139Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7705 - Candidate countries"
 usc_title: 22
 usc_section: "7705"
 chapter: 84
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 7705"
-generated_at: "2026-03-30T07:35:12.908Z"
+generated_at: "2026-03-30T07:37:35.808Z"
 status: "active"
 ---
 

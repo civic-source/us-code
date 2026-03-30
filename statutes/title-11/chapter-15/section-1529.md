@@ -3,9 +3,9 @@ title: "Section 1529 - Coordination of a case under this title and a foreign pro
 usc_title: 11
 usc_section: "1529"
 chapter: 15
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "11 U.S.C. § 1529"
-generated_at: "2026-03-30T07:34:48.061Z"
+generated_at: "2026-03-30T07:36:47.685Z"
 status: "active"
 ---
 

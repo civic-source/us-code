@@ -3,9 +3,9 @@ title: "Section 1061 - Effective dates"
 usc_title: 29
 usc_section: "1061"
 chapter: 18
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "29 U.S.C. § 1061"
-generated_at: "2026-03-30T07:35:19.890Z"
+generated_at: "2026-03-30T07:38:02.810Z"
 status: "active"
 ---
 

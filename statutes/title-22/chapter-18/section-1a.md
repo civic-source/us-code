@@ -3,9 +3,9 @@ title: "Section 1a - Clarification on domestic distribution of program material"
 usc_title: 22
 usc_section: "1a"
 chapter: 18
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 1a"
-generated_at: "2026-03-30T07:35:12.813Z"
+generated_at: "2026-03-30T07:37:35.707Z"
 status: "active"
 ---
 

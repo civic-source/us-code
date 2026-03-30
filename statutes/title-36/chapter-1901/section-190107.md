@@ -3,9 +3,9 @@ title: "Section 190107 - Restrictions"
 usc_title: 36
 usc_section: "190107"
 chapter: 1901
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "36 U.S.C. § 190107"
-generated_at: "2026-03-30T07:35:43.421Z"
+generated_at: "2026-03-30T07:38:15.635Z"
 status: "active"
 ---
 

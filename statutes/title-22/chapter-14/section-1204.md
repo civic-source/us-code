@@ -3,9 +3,9 @@ title: "Section 1204 - Transferred"
 usc_title: 22
 usc_section: "1204"
 chapter: 14
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 1204"
-generated_at: "2026-03-30T07:35:12.811Z"
+generated_at: "2026-03-30T07:37:35.706Z"
 status: "transferred"
 ---
 

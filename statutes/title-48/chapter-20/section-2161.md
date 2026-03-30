@@ -3,9 +3,9 @@ title: "Section 2161 - Applicability of other laws; definitions"
 usc_title: 48
 usc_section: "2161"
 chapter: 20
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "48 U.S.C. § 2161"
-generated_at: "2026-03-30T07:36:12.719Z"
+generated_at: "2026-03-30T07:38:51.753Z"
 status: "active"
 ---
 

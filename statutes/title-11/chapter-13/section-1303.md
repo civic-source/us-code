@@ -3,9 +3,9 @@ title: "Section 1303 - Rights and powers of debtor"
 usc_title: 11
 usc_section: "1303"
 chapter: 13
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "11 U.S.C. § 1303"
-generated_at: "2026-03-30T07:34:48.060Z"
+generated_at: "2026-03-30T07:36:47.684Z"
 status: "active"
 ---
 

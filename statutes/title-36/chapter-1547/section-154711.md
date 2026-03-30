@@ -3,9 +3,9 @@ title: "Section 154711 - Service of process"
 usc_title: 36
 usc_section: "154711"
 chapter: 1547
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "36 U.S.C. § 154711"
-generated_at: "2026-03-30T07:35:43.421Z"
+generated_at: "2026-03-30T07:38:15.634Z"
 status: "active"
 ---
 

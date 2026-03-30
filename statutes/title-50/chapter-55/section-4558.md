@@ -3,9 +3,9 @@ title: "Section 4558 - Voluntary agreements and plans of action for preparedness
 usc_title: 50
 usc_section: "4558"
 chapter: 55
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "50 U.S.C. § 4558"
-generated_at: "2026-03-30T07:36:06.214Z"
+generated_at: "2026-03-30T07:38:51.382Z"
 status: "active"
 ---
 

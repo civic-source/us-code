@@ -3,9 +3,9 @@ title: "Section 936d - Eligibility of distribution borrowers for loans, loan gua
 usc_title: 7
 usc_section: "936d"
 chapter: 31
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "7 U.S.C. § 936d"
-generated_at: "2026-03-30T07:34:45.489Z"
+generated_at: "2026-03-30T07:36:44.929Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1622 - National emergencies"
 usc_title: 50
 usc_section: "1622"
 chapter: 34
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "50 U.S.C. § 1622"
-generated_at: "2026-03-30T07:36:06.160Z"
+generated_at: "2026-03-30T07:38:51.330Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10501 - Application of prohibition to other States; “test or d
 usc_title: 52
 usc_section: "10501"
 chapter: 105
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "52 U.S.C. § 10501"
-generated_at: "2026-03-30T07:36:18.088Z"
+generated_at: "2026-03-30T07:38:57.988Z"
 status: "active"
 ---
 

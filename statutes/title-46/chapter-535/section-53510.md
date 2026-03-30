@@ -3,9 +3,9 @@ title: "Section 53510 - Tax treatment of qualified withdrawals and basis of prop
 usc_title: 46
 usc_section: "53510"
 chapter: 535
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "46 U.S.C. § 53510"
-generated_at: "2026-03-30T07:36:05.077Z"
+generated_at: "2026-03-30T07:38:48.777Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5606 - Repealed. Pub. L. 107–228, div. B, title XIII , § 1308
 usc_title: 22
 usc_section: "5606"
 chapter: 65
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 5606"
-generated_at: "2026-03-30T07:35:12.885Z"
+generated_at: "2026-03-30T07:37:35.784Z"
 status: "repealed"
 ---
 

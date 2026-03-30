@@ -3,9 +3,9 @@ title: "Section 1171 - Definitions"
 usc_title: 15
 usc_section: "1171"
 chapter: 24
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 1171"
-generated_at: "2026-03-30T07:34:54.873Z"
+generated_at: "2026-03-30T07:37:02.100Z"
 status: "active"
 ---
 

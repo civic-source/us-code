@@ -3,9 +3,9 @@ title: "Section 0 - Training and technical assistance"
 usc_title: 29
 usc_section: "0"
 chapter: 16
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "29 U.S.C. § 0"
-generated_at: "2026-03-30T07:35:19.882Z"
+generated_at: "2026-03-30T07:38:02.802Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40504 - Grants for the assistance of organizations to find missi
 usc_title: 34
 usc_section: "40504"
 chapter: 405
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "34 U.S.C. § 40504"
-generated_at: "2026-03-30T07:35:32.683Z"
+generated_at: "2026-03-30T07:38:07.376Z"
 status: "active"
 ---
 

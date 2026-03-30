@@ -3,9 +3,9 @@ title: "Section 233 - Penalty for violations"
 usc_title: 15
 usc_section: "233"
 chapter: 6
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 233"
-generated_at: "2026-03-30T07:34:54.828Z"
+generated_at: "2026-03-30T07:37:02.055Z"
 status: "active"
 ---
 

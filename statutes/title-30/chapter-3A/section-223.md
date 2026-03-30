@@ -3,9 +3,9 @@ title: "Section 223 - Leases; amount and survey of land; term of lease; royaltie
 usc_title: 30
 usc_section: "223"
 chapter: 3
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "30 U.S.C. § 223"
-generated_at: "2026-03-30T07:35:18.356Z"
+generated_at: "2026-03-30T07:37:48.898Z"
 status: "active"
 ---
 

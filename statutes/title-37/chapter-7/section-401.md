@@ -3,9 +3,9 @@ title: "Section 401 - Definitions"
 usc_title: 37
 usc_section: "401"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "37 U.S.C. § 401"
-generated_at: "2026-03-30T07:35:42.766Z"
+generated_at: "2026-03-30T07:38:10.464Z"
 status: "active"
 ---
 

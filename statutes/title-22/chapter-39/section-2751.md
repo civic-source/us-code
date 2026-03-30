@@ -3,9 +3,9 @@ title: "Section 2751 - Need for international defense cooperation and military e
 usc_title: 22
 usc_section: "2751"
 chapter: 39
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 2751"
-generated_at: "2026-03-30T07:35:12.854Z"
+generated_at: "2026-03-30T07:37:35.751Z"
 status: "active"
 ---
 

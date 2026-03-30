@@ -3,9 +3,9 @@ title: "Section 11384 - Incentives for high-performing communities"
 usc_title: 42
 usc_section: "11384"
 chapter: 119
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 11384"
-generated_at: "2026-03-30T07:36:01.603Z"
+generated_at: "2026-03-30T07:38:36.952Z"
 status: "active"
 ---
 

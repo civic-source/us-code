@@ -3,9 +3,9 @@ title: "Section 154 - Improved Medicare prescription drug plan and MA–PD plan 
 usc_title: 42
 usc_section: "154"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 154"
-generated_at: "2026-03-30T07:36:01.269Z"
+generated_at: "2026-03-30T07:38:36.614Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2529 - Requirements for specific request for new or modified nuc
 usc_title: 50
 usc_section: "2529"
 chapter: 42
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "50 U.S.C. § 2529"
-generated_at: "2026-03-30T07:36:06.177Z"
+generated_at: "2026-03-30T07:38:51.346Z"
 status: "active"
 ---
 

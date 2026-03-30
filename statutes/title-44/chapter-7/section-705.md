@@ -3,9 +3,9 @@ title: "Section 705 - Duplicate orders to print"
 usc_title: 44
 usc_section: "705"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "44 U.S.C. § 705"
-generated_at: "2026-03-30T07:35:48.377Z"
+generated_at: "2026-03-30T07:38:17.457Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1483 - Repealed. Pub. L. 97–446, title II , § 201(c), Jan. 12
 usc_title: 19
 usc_section: "1483"
 chapter: 4
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "19 U.S.C. § 1483"
-generated_at: "2026-03-30T07:35:01.275Z"
+generated_at: "2026-03-30T07:37:19.506Z"
 status: "repealed"
 ---
 

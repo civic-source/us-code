@@ -3,9 +3,9 @@ title: "Section 884 - Branch profits tax"
 usc_title: 26
 usc_section: "884"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 884"
-generated_at: "2026-03-30T07:35:27.560Z"
+generated_at: "2026-03-30T07:37:55.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4845 - Repealed. Pub. L. 95–626, title II , § 208(b), Nov. 10
 usc_title: 42
 usc_section: "4845"
 chapter: 63
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 4845"
-generated_at: "2026-03-30T07:36:01.445Z"
+generated_at: "2026-03-30T07:38:36.792Z"
 status: "repealed"
 ---
 

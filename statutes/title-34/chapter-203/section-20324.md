@@ -3,9 +3,9 @@ title: "Section 20324 - Authorization of appropriations"
 usc_title: 34
 usc_section: "20324"
 chapter: 203
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "34 U.S.C. § 20324"
-generated_at: "2026-03-30T07:35:32.673Z"
+generated_at: "2026-03-30T07:38:07.367Z"
 status: "active"
 ---
 

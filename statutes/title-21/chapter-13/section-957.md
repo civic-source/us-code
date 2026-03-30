@@ -3,9 +3,9 @@ title: "Section 957 - Persons required to register"
 usc_title: 21
 usc_section: "957"
 chapter: 13
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "21 U.S.C. § 957"
-generated_at: "2026-03-30T07:35:09.843Z"
+generated_at: "2026-03-30T07:37:45.746Z"
 status: "active"
 ---
 

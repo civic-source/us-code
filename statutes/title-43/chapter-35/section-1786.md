@@ -3,9 +3,9 @@ title: "Section 1786 - Piedras Blancas Historic Light Station"
 usc_title: 43
 usc_section: "1786"
 chapter: 35
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "43 U.S.C. § 1786"
-generated_at: "2026-03-30T07:35:49.437Z"
+generated_at: "2026-03-30T07:38:18.310Z"
 status: "active"
 ---
 

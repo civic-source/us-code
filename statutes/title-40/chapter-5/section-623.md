@@ -3,9 +3,9 @@ title: "Section 623 - Establishment of a Federal Real Property Council"
 usc_title: 40
 usc_section: "623"
 chapter: 5
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "40 U.S.C. § 623"
-generated_at: "2026-03-30T07:35:45.171Z"
+generated_at: "2026-03-30T07:38:15.075Z"
 status: "active"
 ---
 

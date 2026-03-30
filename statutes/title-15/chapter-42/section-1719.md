@@ -3,9 +3,9 @@ title: "Section 1719 - Jurisdiction of offenses and suits"
 usc_title: 15
 usc_section: "1719"
 chapter: 42
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 1719"
-generated_at: "2026-03-30T07:34:54.901Z"
+generated_at: "2026-03-30T07:37:02.130Z"
 status: "active"
 ---
 

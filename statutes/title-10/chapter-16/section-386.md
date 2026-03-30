@@ -3,9 +3,9 @@ title: "Section 386 - Annual report"
 usc_title: 10
 usc_section: "386"
 chapter: 16
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 386"
-generated_at: "2026-03-30T07:34:41.776Z"
+generated_at: "2026-03-30T07:36:40.027Z"
 status: "active"
 ---
 

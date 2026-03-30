@@ -3,9 +3,9 @@ title: "Section 10174a - Report"
 usc_title: 42
 usc_section: "10174a"
 chapter: 108
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 10174a"
-generated_at: "2026-03-30T07:36:01.589Z"
+generated_at: "2026-03-30T07:38:36.938Z"
 status: "active"
 ---
 

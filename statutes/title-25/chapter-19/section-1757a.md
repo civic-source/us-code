@@ -3,9 +3,9 @@ title: "Section 1757a - Omitted"
 usc_title: 25
 usc_section: "1757a"
 chapter: 19
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "25 U.S.C. § 1757a"
-generated_at: "2026-03-30T07:35:15.623Z"
+generated_at: "2026-03-30T07:37:38.574Z"
 status: "omitted"
 ---
 

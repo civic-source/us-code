@@ -3,9 +3,9 @@ title: "Section 720 - Repealed. Pub. L. 114–328, div. A, title V , § 502(g)(1
 usc_title: 10
 usc_section: "720"
 chapter: 41
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 720"
-generated_at: "2026-03-30T07:34:41.786Z"
+generated_at: "2026-03-30T07:36:40.037Z"
 status: "repealed"
 ---
 

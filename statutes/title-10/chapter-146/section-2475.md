@@ -3,9 +3,9 @@ title: "Section 2475 - Consolidation, restructuring, or reengineering of organiz
 usc_title: 10
 usc_section: "2475"
 chapter: 146
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 2475"
-generated_at: "2026-03-30T07:34:41.852Z"
+generated_at: "2026-03-30T07:36:40.102Z"
 status: "active"
 ---
 

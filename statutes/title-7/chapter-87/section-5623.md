@@ -3,9 +3,9 @@ title: "Section 5623 - Market access program"
 usc_title: 7
 usc_section: "5623"
 chapter: 87
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "7 U.S.C. § 5623"
-generated_at: "2026-03-30T07:34:45.579Z"
+generated_at: "2026-03-30T07:36:45.020Z"
 status: "active"
 ---
 

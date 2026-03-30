@@ -3,9 +3,9 @@ title: "Section 190301 - Definition"
 usc_title: 36
 usc_section: "190301"
 chapter: 1903
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "36 U.S.C. § 190301"
-generated_at: "2026-03-30T07:35:43.421Z"
+generated_at: "2026-03-30T07:38:15.635Z"
 status: "active"
 ---
 

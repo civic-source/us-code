@@ -3,9 +3,9 @@ title: "Section 8343 - Additional annuities; voluntary contributions"
 usc_title: 5
 usc_section: "8343"
 chapter: 83
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "5 U.S.C. § 8343"
-generated_at: "2026-03-30T07:34:33.475Z"
+generated_at: "2026-03-30T07:36:31.336Z"
 status: "active"
 ---
 

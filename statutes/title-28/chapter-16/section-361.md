@@ -3,9 +3,9 @@ title: "Section 361 - Reimbursement of expenses"
 usc_title: 28
 usc_section: "361"
 chapter: 16
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "28 U.S.C. § 361"
-generated_at: "2026-03-30T07:35:20.783Z"
+generated_at: "2026-03-30T07:37:48.494Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 214 - Definitions"
 usc_title: 12
 usc_section: "214"
 chapter: 2
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "12 U.S.C. § 214"
-generated_at: "2026-03-30T07:34:56.703Z"
+generated_at: "2026-03-30T07:36:51.557Z"
 status: "active"
 ---
 

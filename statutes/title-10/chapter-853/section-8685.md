@@ -3,9 +3,9 @@ title: "Section 8685 - Repealed. Pub. L. 90–235 , § 7(a)(3), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "8685"
 chapter: 853
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 8685"
-generated_at: "2026-03-30T07:34:41.892Z"
+generated_at: "2026-03-30T07:36:40.142Z"
 status: "repealed"
 ---
 

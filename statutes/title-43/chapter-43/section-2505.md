@@ -3,9 +3,9 @@ title: "Section 2505 - Suspension of entries for correction of clerical errors; 
 usc_title: 43
 usc_section: "2505"
 chapter: 43
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "43 U.S.C. § 2505"
-generated_at: "2026-03-30T07:35:49.442Z"
+generated_at: "2026-03-30T07:38:18.314Z"
 status: "active"
 ---
 

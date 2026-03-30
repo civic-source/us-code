@@ -3,9 +3,9 @@ title: "Section 4104 - Local veterans’ employment representatives"
 usc_title: 38
 usc_section: "4104"
 chapter: 41
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "38 U.S.C. § 4104"
-generated_at: "2026-03-30T07:35:46.675Z"
+generated_at: "2026-03-30T07:38:12.517Z"
 status: "active"
 ---
 

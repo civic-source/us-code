@@ -3,9 +3,9 @@ title: "Section 5175 - Export bonds"
 usc_title: 26
 usc_section: "5175"
 chapter: 51
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 5175"
-generated_at: "2026-03-30T07:35:27.625Z"
+generated_at: "2026-03-30T07:37:55.411Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 595 - King Hill project, Idaho"
 usc_title: 43
 usc_section: "595"
 chapter: 12
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "43 U.S.C. § 595"
-generated_at: "2026-03-30T07:35:49.405Z"
+generated_at: "2026-03-30T07:38:18.279Z"
 status: "active"
 ---
 

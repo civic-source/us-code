@@ -3,9 +3,9 @@ title: "Section 218b - Notice to employees"
 usc_title: 29
 usc_section: "218b"
 chapter: 8
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "29 U.S.C. § 218b"
-generated_at: "2026-03-30T07:35:19.866Z"
+generated_at: "2026-03-30T07:38:02.787Z"
 status: "active"
 ---
 

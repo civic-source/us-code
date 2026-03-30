@@ -3,9 +3,9 @@ title: "Section 1 - Proclamation to disperse"
 usc_title: 10
 usc_section: "1"
 chapter: 13
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T07:34:41.773Z"
+generated_at: "2026-03-30T07:36:40.023Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 396a - Lease of lands to native Hawaiians, residence requirement
 usc_title: 16
 usc_section: "396a"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 396a"
-generated_at: "2026-03-30T07:35:06.009Z"
+generated_at: "2026-03-30T07:37:27.660Z"
 status: "active"
 ---
 

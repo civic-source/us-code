@@ -3,9 +3,9 @@ title: "Section 272 - Administration of oaths by quarantine officers"
 usc_title: 42
 usc_section: "272"
 chapter: 6
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 272"
-generated_at: "2026-03-30T07:36:01.063Z"
+generated_at: "2026-03-30T07:38:36.411Z"
 status: "active"
 ---
 

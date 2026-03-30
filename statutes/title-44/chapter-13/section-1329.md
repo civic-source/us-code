@@ -3,9 +3,9 @@ title: "Section 1329 - Mint: reports of Director"
 usc_title: 44
 usc_section: "1329"
 chapter: 13
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "44 U.S.C. § 1329"
-generated_at: "2026-03-30T07:35:48.380Z"
+generated_at: "2026-03-30T07:38:17.460Z"
 status: "active"
 ---
 

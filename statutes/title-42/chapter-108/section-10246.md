@@ -3,9 +3,9 @@ title: "Section 10246 - Monitored retrievable storage"
 usc_title: 42
 usc_section: "10246"
 chapter: 108
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 10246"
-generated_at: "2026-03-30T07:36:01.590Z"
+generated_at: "2026-03-30T07:38:36.940Z"
 status: "active"
 ---
 

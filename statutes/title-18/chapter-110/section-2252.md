@@ -3,9 +3,9 @@ title: "Section 2252 - Certain activities relating to material involving the sex
 usc_title: 18
 usc_section: "2252"
 chapter: 110
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "18 U.S.C. § 2252"
-generated_at: "2026-03-30T07:35:00.251Z"
+generated_at: "2026-03-30T07:37:07.634Z"
 status: "active"
 ---
 

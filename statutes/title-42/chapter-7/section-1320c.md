@@ -3,9 +3,9 @@ title: "Section 1320c - Purpose"
 usc_title: 42
 usc_section: "1320c"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 1320c"
-generated_at: "2026-03-30T07:36:01.214Z"
+generated_at: "2026-03-30T07:38:36.562Z"
 status: "active"
 ---
 

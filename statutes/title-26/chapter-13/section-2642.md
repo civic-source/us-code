@@ -3,9 +3,9 @@ title: "Section 2642 - Inclusion ratio"
 usc_title: 26
 usc_section: "2642"
 chapter: 13
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 2642"
-generated_at: "2026-03-30T07:35:27.596Z"
+generated_at: "2026-03-30T07:37:55.382Z"
 status: "active"
 ---
 

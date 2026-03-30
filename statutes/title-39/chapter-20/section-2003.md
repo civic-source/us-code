@@ -3,9 +3,9 @@ title: "Section 2003 - The Postal Service Fund"
 usc_title: 39
 usc_section: "2003"
 chapter: 20
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "39 U.S.C. § 2003"
-generated_at: "2026-03-30T07:35:41.199Z"
+generated_at: "2026-03-30T07:38:12.706Z"
 status: "active"
 ---
 

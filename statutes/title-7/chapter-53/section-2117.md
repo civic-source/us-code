@@ -3,9 +3,9 @@ title: "Section 2117 - Separability"
 usc_title: 7
 usc_section: "2117"
 chapter: 53
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "7 U.S.C. § 2117"
-generated_at: "2026-03-30T07:34:45.550Z"
+generated_at: "2026-03-30T07:36:44.990Z"
 status: "active"
 ---
 

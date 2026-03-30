@@ -3,9 +3,9 @@ title: "Section 78l - Registration requirements for securities"
 usc_title: 15
 usc_section: "78l"
 chapter: 2
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 78l"
-generated_at: "2026-03-30T07:34:54.799Z"
+generated_at: "2026-03-30T07:37:02.024Z"
 status: "active"
 ---
 

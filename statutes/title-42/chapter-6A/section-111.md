@@ -3,9 +3,9 @@ title: "Section 111 - HIV/AIDS communities, schools, and centers"
 usc_title: 42
 usc_section: "111"
 chapter: 6
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-30T07:36:01.147Z"
+generated_at: "2026-03-30T07:38:36.495Z"
 status: "active"
 ---
 

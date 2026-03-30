@@ -3,9 +3,9 @@ title: "Section 482j - Santa Fe National Forest; mining rights; protection of sc
 usc_title: 16
 usc_section: "482j"
 chapter: 2
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "16 U.S.C. § 482j"
-generated_at: "2026-03-30T07:35:06.075Z"
+generated_at: "2026-03-30T07:37:27.728Z"
 status: "active"
 ---
 

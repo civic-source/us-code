@@ -3,9 +3,9 @@ title: "Section 111 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "111"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "17 U.S.C. § 111"
-generated_at: "2026-03-30T07:34:58.545Z"
+generated_at: "2026-03-30T07:37:04.083Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1501 - Congressional statement of findings"
 usc_title: 30
 usc_section: "1501"
 chapter: 27
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "30 U.S.C. § 1501"
-generated_at: "2026-03-30T07:35:18.385Z"
+generated_at: "2026-03-30T07:37:48.921Z"
 status: "active"
 ---
 

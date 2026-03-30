@@ -3,9 +3,9 @@ title: "Section 3018 - Reports to Congress"
 usc_title: 42
 usc_section: "3018"
 chapter: 35
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 3018"
-generated_at: "2026-03-30T07:36:01.414Z"
+generated_at: "2026-03-30T07:38:36.760Z"
 status: "active"
 ---
 

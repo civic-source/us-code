@@ -3,9 +3,9 @@ title: "Section 2372 - Repealed. Pub. L. 97–113, title VII , § 725(a), Dec. 2
 usc_title: 22
 usc_section: "2372"
 chapter: 32
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 2372"
-generated_at: "2026-03-30T07:35:12.838Z"
+generated_at: "2026-03-30T07:37:35.734Z"
 status: "repealed"
 ---
 

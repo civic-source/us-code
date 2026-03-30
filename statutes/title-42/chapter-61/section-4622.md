@@ -3,9 +3,9 @@ title: "Section 4622 - Moving and related expenses"
 usc_title: 42
 usc_section: "4622"
 chapter: 61
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 4622"
-generated_at: "2026-03-30T07:36:01.443Z"
+generated_at: "2026-03-30T07:38:36.790Z"
 status: "active"
 ---
 

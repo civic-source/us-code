@@ -3,9 +3,9 @@ title: "Section 9503 - Streamlined critical pay authority"
 usc_title: 5
 usc_section: "9503"
 chapter: 95
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "5 U.S.C. § 9503"
-generated_at: "2026-03-30T07:34:33.491Z"
+generated_at: "2026-03-30T07:36:31.351Z"
 status: "active"
 ---
 

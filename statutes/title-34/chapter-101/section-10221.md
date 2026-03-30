@@ -3,9 +3,9 @@ title: "Section 10221 - Rules, regulations, and procedures; consultations and es
 usc_title: 34
 usc_section: "10221"
 chapter: 101
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "34 U.S.C. § 10221"
-generated_at: "2026-03-30T07:35:32.643Z"
+generated_at: "2026-03-30T07:38:07.339Z"
 status: "active"
 ---
 

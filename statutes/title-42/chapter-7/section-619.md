@@ -3,9 +3,9 @@ title: "Section 619 - Definitions"
 usc_title: 42
 usc_section: "619"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 619"
-generated_at: "2026-03-30T07:36:01.182Z"
+generated_at: "2026-03-30T07:38:36.530Z"
 status: "active"
 ---
 

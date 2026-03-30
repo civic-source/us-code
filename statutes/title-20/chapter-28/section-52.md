@@ -3,9 +3,9 @@ title: "Section 52 - Allocation of funds"
 usc_title: 20
 usc_section: "52"
 chapter: 28
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "20 U.S.C. § 52"
-generated_at: "2026-03-30T07:35:03.788Z"
+generated_at: "2026-03-30T07:37:06.570Z"
 status: "active"
 ---
 

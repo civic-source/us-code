@@ -3,9 +3,9 @@ title: "Section 1375 - Tax imposed when passive investment income of corporation
 usc_title: 26
 usc_section: "1375"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 1375"
-generated_at: "2026-03-30T07:35:27.584Z"
+generated_at: "2026-03-30T07:37:55.371Z"
 status: "active"
 ---
 

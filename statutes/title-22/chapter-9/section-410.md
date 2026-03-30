@@ -3,9 +3,9 @@ title: "Section 410 - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , e
 usc_title: 22
 usc_section: "410"
 chapter: 9
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 410"
-generated_at: "2026-03-30T07:35:12.808Z"
+generated_at: "2026-03-30T07:37:35.702Z"
 status: "repealed"
 ---
 

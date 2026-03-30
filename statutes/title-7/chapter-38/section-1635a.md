@@ -3,9 +3,9 @@ title: "Section 1635a - Definitions"
 usc_title: 7
 usc_section: "1635a"
 chapter: 38
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "7 U.S.C. § 1635a"
-generated_at: "2026-03-30T07:34:45.516Z"
+generated_at: "2026-03-30T07:36:44.956Z"
 status: "active"
 ---
 

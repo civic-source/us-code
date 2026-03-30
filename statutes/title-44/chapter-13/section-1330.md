@@ -3,9 +3,9 @@ title: "Section 1330 - Monthly Summary Statement of Imports and Exports"
 usc_title: 44
 usc_section: "1330"
 chapter: 13
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "44 U.S.C. § 1330"
-generated_at: "2026-03-30T07:35:48.380Z"
+generated_at: "2026-03-30T07:38:17.460Z"
 status: "active"
 ---
 

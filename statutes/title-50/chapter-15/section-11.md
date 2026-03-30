@@ -3,9 +3,9 @@ title: "Section 11 - Transferred"
 usc_title: 50
 usc_section: "11"
 chapter: 15
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "50 U.S.C. § 11"
-generated_at: "2026-03-30T07:36:06.157Z"
+generated_at: "2026-03-30T07:38:51.325Z"
 status: "transferred"
 ---
 

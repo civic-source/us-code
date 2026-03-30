@@ -3,9 +3,9 @@ title: "Section 282n - Authority to agree to amendments to Articles of Agreement
 usc_title: 22
 usc_section: "282n"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 282n"
-generated_at: "2026-03-30T07:35:12.798Z"
+generated_at: "2026-03-30T07:37:35.691Z"
 status: "active"
 ---
 

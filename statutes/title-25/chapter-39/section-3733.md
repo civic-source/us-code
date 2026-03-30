@@ -3,9 +3,9 @@ title: "Section 3733 - Cooperative agreement between Department of the Interior 
 usc_title: 25
 usc_section: "3733"
 chapter: 39
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "25 U.S.C. § 3733"
-generated_at: "2026-03-30T07:35:15.644Z"
+generated_at: "2026-03-30T07:37:38.594Z"
 status: "active"
 ---
 

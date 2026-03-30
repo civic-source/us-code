@@ -3,9 +3,9 @@ title: "Section 2470 - Depot-level activities of the Department of Defense: auth
 usc_title: 10
 usc_section: "2470"
 chapter: 146
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 2470"
-generated_at: "2026-03-30T07:34:41.851Z"
+generated_at: "2026-03-30T07:36:40.102Z"
 status: "active"
 ---
 

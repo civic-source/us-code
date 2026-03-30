@@ -3,9 +3,9 @@ title: "Section 8 - Innovation Corps"
 usc_title: 42
 usc_section: "8"
 chapter: 16
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T07:36:01.378Z"
+generated_at: "2026-03-30T07:38:36.724Z"
 status: "active"
 ---
 

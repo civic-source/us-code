@@ -3,9 +3,9 @@ title: "Section 208 - Omitted"
 usc_title: 45
 usc_section: "208"
 chapter: 9
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "45 U.S.C. § 208"
-generated_at: "2026-03-30T07:35:48.879Z"
+generated_at: "2026-03-30T07:38:20.977Z"
 status: "omitted"
 ---
 

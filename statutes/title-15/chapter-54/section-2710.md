@@ -3,9 +3,9 @@ title: "Section 2710 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2710"
 chapter: 54
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 2710"
-generated_at: "2026-03-30T07:34:54.923Z"
+generated_at: "2026-03-30T07:37:02.153Z"
 status: "active"
 ---
 

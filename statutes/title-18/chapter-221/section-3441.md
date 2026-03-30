@@ -3,9 +3,9 @@ title: "Section 3441 - Jury; number of jurors; waiver—(Rule)"
 usc_title: 18
 usc_section: "3441"
 chapter: 221
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "18 U.S.C. § 3441"
-generated_at: "2026-03-30T07:35:00.267Z"
+generated_at: "2026-03-30T07:37:07.649Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 346 - Tolerances for poisonous or deleterious substances in food
 usc_title: 21
 usc_section: "346"
 chapter: 9
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "21 U.S.C. § 346"
-generated_at: "2026-03-30T07:35:09.780Z"
+generated_at: "2026-03-30T07:37:45.642Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20131 - Restricted access to rolling equipment"
 usc_title: 49
 usc_section: "20131"
 chapter: 201
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "49 U.S.C. § 20131"
-generated_at: "2026-03-30T07:36:15.923Z"
+generated_at: "2026-03-30T07:38:55.881Z"
 status: "active"
 ---
 

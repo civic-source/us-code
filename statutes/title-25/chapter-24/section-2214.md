@@ -3,9 +3,9 @@ title: "Section 2214 - Establishing fair market value"
 usc_title: 25
 usc_section: "2214"
 chapter: 24
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "25 U.S.C. § 2214"
-generated_at: "2026-03-30T07:35:15.632Z"
+generated_at: "2026-03-30T07:37:38.583Z"
 status: "active"
 ---
 

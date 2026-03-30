@@ -3,9 +3,9 @@ title: "Section 7271b - Repealed. Pub. L. 106–65, div. C, title XXXII , § 329
 usc_title: 42
 usc_section: "7271b"
 chapter: 84
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 7271b"
-generated_at: "2026-03-30T07:36:01.508Z"
+generated_at: "2026-03-30T07:38:36.857Z"
 status: "repealed"
 ---
 

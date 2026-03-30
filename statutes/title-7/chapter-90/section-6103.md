@@ -3,9 +3,9 @@ title: "Section 6103 - Issuance of orders"
 usc_title: 7
 usc_section: "6103"
 chapter: 90
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "7 U.S.C. § 6103"
-generated_at: "2026-03-30T07:34:45.585Z"
+generated_at: "2026-03-30T07:36:45.026Z"
 status: "active"
 ---
 

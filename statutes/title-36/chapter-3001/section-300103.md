@@ -3,9 +3,9 @@ title: "Section 300103 - Membership and chapters"
 usc_title: 36
 usc_section: "300103"
 chapter: 3001
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "36 U.S.C. § 300103"
-generated_at: "2026-03-30T07:35:43.424Z"
+generated_at: "2026-03-30T07:38:15.638Z"
 status: "active"
 ---
 

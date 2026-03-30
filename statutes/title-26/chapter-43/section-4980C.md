@@ -3,9 +3,9 @@ title: "Section 4980C - Requirements for issuers of qualified long-term care ins
 usc_title: 26
 usc_section: "4980C"
 chapter: 43
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 4980C"
-generated_at: "2026-03-30T07:35:27.620Z"
+generated_at: "2026-03-30T07:37:55.405Z"
 status: "active"
 ---
 

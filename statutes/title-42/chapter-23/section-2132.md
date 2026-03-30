@@ -3,9 +3,9 @@ title: "Section 2132 - Utilization and production facilities for industrial or c
 usc_title: 42
 usc_section: "2132"
 chapter: 23
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 2132"
-generated_at: "2026-03-30T07:36:01.395Z"
+generated_at: "2026-03-30T07:38:36.741Z"
 status: "active"
 ---
 

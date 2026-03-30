@@ -3,9 +3,9 @@ title: "Section 9817 - Department of Agriculture; Rural Development Administrati
 usc_title: 42
 usc_section: "9817"
 chapter: 105
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 9817"
-generated_at: "2026-03-30T07:36:01.573Z"
+generated_at: "2026-03-30T07:38:36.923Z"
 status: "active"
 ---
 

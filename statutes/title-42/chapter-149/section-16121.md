@@ -3,9 +3,9 @@ title: "Section 16121 - Definitions"
 usc_title: 42
 usc_section: "16121"
 chapter: 149
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 16121"
-generated_at: "2026-03-30T07:36:01.661Z"
+generated_at: "2026-03-30T07:38:37.010Z"
 status: "active"
 ---
 

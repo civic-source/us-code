@@ -3,9 +3,9 @@ title: "Section 111 - Application to division C (except sections 3302, 3501(b), 
 usc_title: 40
 usc_section: "111"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "40 U.S.C. § 111"
-generated_at: "2026-03-30T07:35:45.167Z"
+generated_at: "2026-03-30T07:38:15.071Z"
 status: "active"
 ---
 

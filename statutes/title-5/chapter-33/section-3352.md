@@ -3,9 +3,9 @@ title: "Section 3352 - Preference in transfers for employees making certain disc
 usc_title: 5
 usc_section: "3352"
 chapter: 33
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "5 U.S.C. § 3352"
-generated_at: "2026-03-30T07:34:33.438Z"
+generated_at: "2026-03-30T07:36:31.301Z"
 status: "active"
 ---
 

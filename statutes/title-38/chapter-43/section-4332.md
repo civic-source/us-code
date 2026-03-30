@@ -3,9 +3,9 @@ title: "Section 4332 - Reports"
 usc_title: 38
 usc_section: "4332"
 chapter: 43
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "38 U.S.C. § 4332"
-generated_at: "2026-03-30T07:35:46.678Z"
+generated_at: "2026-03-30T07:38:12.520Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2304 - Prohibited personnel practices affecting the Transportati
 usc_title: 5
 usc_section: "2304"
 chapter: 23
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "5 U.S.C. § 2304"
-generated_at: "2026-03-30T07:34:33.435Z"
+generated_at: "2026-03-30T07:36:31.298Z"
 status: "active"
 ---
 

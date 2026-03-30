@@ -3,9 +3,9 @@ title: "Section 2302e - Contract authority for advanced development of initial o
 usc_title: 10
 usc_section: "2302e"
 chapter: 137
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 2302e"
-generated_at: "2026-03-30T07:34:41.836Z"
+generated_at: "2026-03-30T07:36:40.086Z"
 status: "active"
 ---
 

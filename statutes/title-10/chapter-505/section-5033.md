@@ -3,9 +3,9 @@ title: "Section 5033 - Chief of Naval Operations"
 usc_title: 10
 usc_section: "5033"
 chapter: 505
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 5033"
-generated_at: "2026-03-30T07:34:41.878Z"
+generated_at: "2026-03-30T07:36:40.128Z"
 status: "active"
 ---
 

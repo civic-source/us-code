@@ -3,9 +3,9 @@ title: "Section 6512 - Limitations in case of petition to Tax Court"
 usc_title: 26
 usc_section: "6512"
 chapter: 66
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 6512"
-generated_at: "2026-03-30T07:35:27.656Z"
+generated_at: "2026-03-30T07:37:55.440Z"
 status: "active"
 ---
 

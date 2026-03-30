@@ -3,9 +3,9 @@ title: "Section 45 - Electricity produced from certain renewable resources, etc.
 usc_title: 26
 usc_section: "45"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 45"
-generated_at: "2026-03-30T07:35:27.454Z"
+generated_at: "2026-03-30T07:37:55.241Z"
 status: "active"
 ---
 

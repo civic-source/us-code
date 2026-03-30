@@ -3,9 +3,9 @@ title: "Section 1694 - Carriage of matter out of mail over post routes"
 usc_title: 18
 usc_section: "1694"
 chapter: 83
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "18 U.S.C. § 1694"
-generated_at: "2026-03-30T07:35:00.244Z"
+generated_at: "2026-03-30T07:37:07.627Z"
 status: "active"
 ---
 

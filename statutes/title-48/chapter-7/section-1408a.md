@@ -3,9 +3,9 @@ title: "Section 1408a - Issuance of notes, bonds, and obligations"
 usc_title: 48
 usc_section: "1408a"
 chapter: 7
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "48 U.S.C. § 1408a"
-generated_at: "2026-03-30T07:36:12.704Z"
+generated_at: "2026-03-30T07:38:51.738Z"
 status: "active"
 ---
 

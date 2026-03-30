@@ -3,9 +3,9 @@ title: "Section 327 - Courts-martial of National Guard not in Federal service: c
 usc_title: 32
 usc_section: "327"
 chapter: 3
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "32 U.S.C. § 327"
-generated_at: "2026-03-30T07:35:29.292Z"
+generated_at: "2026-03-30T07:38:04.424Z"
 status: "active"
 ---
 

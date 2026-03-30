@@ -3,9 +3,9 @@ title: "Section 5197g - Federal Bureau of Investigation"
 usc_title: 42
 usc_section: "5197g"
 chapter: 68
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 5197g"
-generated_at: "2026-03-30T07:36:01.459Z"
+generated_at: "2026-03-30T07:38:36.806Z"
 status: "active"
 ---
 

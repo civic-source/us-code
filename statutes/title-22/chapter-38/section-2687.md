@@ -3,9 +3,9 @@ title: "Section 2687 - Use of appropriated funds for unusual expenses of United 
 usc_title: 22
 usc_section: "2687"
 chapter: 38
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 2687"
-generated_at: "2026-03-30T07:35:12.851Z"
+generated_at: "2026-03-30T07:37:35.748Z"
 status: "active"
 ---
 

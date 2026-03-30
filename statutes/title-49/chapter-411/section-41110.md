@@ -3,9 +3,9 @@ title: "Section 41110 - Effective periods and amendments, modifications, suspens
 usc_title: 49
 usc_section: "41110"
 chapter: 411
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "49 U.S.C. § 41110"
-generated_at: "2026-03-30T07:36:15.950Z"
+generated_at: "2026-03-30T07:38:55.906Z"
 status: "active"
 ---
 

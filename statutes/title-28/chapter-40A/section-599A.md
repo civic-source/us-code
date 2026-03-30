@@ -3,9 +3,9 @@ title: "Section 599A - Bureau of alcohol, tobacco, firearms, and Explosives 1 1 
 usc_title: 28
 usc_section: "599A"
 chapter: 40
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "28 U.S.C. § 599A"
-generated_at: "2026-03-30T07:35:20.789Z"
+generated_at: "2026-03-30T07:37:48.499Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1666d - Treatment of credit balances"
 usc_title: 15
 usc_section: "1666d"
 chapter: 41
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "15 U.S.C. § 1666d"
-generated_at: "2026-03-30T07:34:54.889Z"
+generated_at: "2026-03-30T07:37:02.117Z"
 status: "active"
 ---
 

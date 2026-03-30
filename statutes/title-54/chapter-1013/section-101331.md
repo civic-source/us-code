@@ -3,9 +3,9 @@ title: "Section 101331 - Definitions"
 usc_title: 54
 usc_section: "101331"
 chapter: 1013
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "54 U.S.C. § 101331"
-generated_at: "2026-03-30T07:36:17.771Z"
+generated_at: "2026-03-30T07:38:57.852Z"
 status: "active"
 ---
 

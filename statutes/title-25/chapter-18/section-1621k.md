@@ -3,9 +3,9 @@ title: "Section 1621k - Coverage of screening mammography"
 usc_title: 25
 usc_section: "1621k"
 chapter: 18
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "25 U.S.C. § 1621k"
-generated_at: "2026-03-30T07:35:15.615Z"
+generated_at: "2026-03-30T07:37:38.566Z"
 status: "active"
 ---
 

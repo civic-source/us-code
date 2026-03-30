@@ -3,9 +3,9 @@ title: "Section 10 - Publications"
 usc_title: 35
 usc_section: "10"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "35 U.S.C. § 10"
-generated_at: "2026-03-30T07:35:31.383Z"
+generated_at: "2026-03-30T07:38:06.414Z"
 status: "active"
 ---
 

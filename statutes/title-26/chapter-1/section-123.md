@@ -3,9 +3,9 @@ title: "Section 123 - Amounts received under insurance contracts for certain liv
 usc_title: 26
 usc_section: "123"
 chapter: 1
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "26 U.S.C. § 123"
-generated_at: "2026-03-30T07:35:27.469Z"
+generated_at: "2026-03-30T07:37:55.257Z"
 status: "active"
 ---
 

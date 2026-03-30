@@ -3,9 +3,9 @@ title: "Section 46a - Repealed. July 1, 1944, ch. 373 , title VII, § 711, forme
 usc_title: 48
 usc_section: "46a"
 chapter: 2
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "48 U.S.C. § 46a"
-generated_at: "2026-03-30T07:36:12.699Z"
+generated_at: "2026-03-30T07:38:51.736Z"
 status: "repealed"
 ---
 

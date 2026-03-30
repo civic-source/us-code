@@ -3,9 +3,9 @@ title: "Section 4861 - Inspector General for Department of State"
 usc_title: 22
 usc_section: "4861"
 chapter: 58
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "22 U.S.C. § 4861"
-generated_at: "2026-03-30T07:35:12.882Z"
+generated_at: "2026-03-30T07:37:35.780Z"
 status: "active"
 ---
 

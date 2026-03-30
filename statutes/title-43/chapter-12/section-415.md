@@ -3,9 +3,9 @@ title: "Section 415 - Receipts applicable to project generally"
 usc_title: 43
 usc_section: "415"
 chapter: 12
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "43 U.S.C. § 415"
-generated_at: "2026-03-30T07:35:49.399Z"
+generated_at: "2026-03-30T07:38:18.274Z"
 status: "active"
 ---
 

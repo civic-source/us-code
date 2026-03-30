@@ -3,9 +3,9 @@ title: "Section 11113 - Voluntary and uncompensated services"
 usc_title: 34
 usc_section: "11113"
 chapter: 111
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "34 U.S.C. § 11113"
-generated_at: "2026-03-30T07:35:32.655Z"
+generated_at: "2026-03-30T07:38:07.350Z"
 status: "active"
 ---
 

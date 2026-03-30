@@ -3,9 +3,9 @@ title: "Section 1437 - Resident Philippine citizens excepted from certain requir
 usc_title: 8
 usc_section: "1437"
 chapter: 12
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "8 U.S.C. § 1437"
-generated_at: "2026-03-30T07:34:36.297Z"
+generated_at: "2026-03-30T07:36:42.117Z"
 status: "active"
 ---
 

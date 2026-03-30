@@ -3,9 +3,9 @@ title: "Section 5150 - Use of local firms and individuals"
 usc_title: 42
 usc_section: "5150"
 chapter: 68
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "42 U.S.C. § 5150"
-generated_at: "2026-03-30T07:36:01.454Z"
+generated_at: "2026-03-30T07:38:36.801Z"
 status: "active"
 ---
 

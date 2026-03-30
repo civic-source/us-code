@@ -3,9 +3,9 @@ title: "Section 2279a - Repealed. Pub. L. 115–91, div. A, title XVI , § 1601(
 usc_title: 10
 usc_section: "2279a"
 chapter: 135
-current_through: "PL 115-201"
+current_through: "PL 115-218"
 classification: "10 U.S.C. § 2279a"
-generated_at: "2026-03-30T07:34:41.835Z"
+generated_at: "2026-03-30T07:36:40.086Z"
 status: "repealed"
 ---
 
