@@ -3,9 +3,9 @@ title: "Section 290hh - Children and violence"
 usc_title: 42
 usc_section: "290hh"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 290hh"
-generated_at: "2026-03-30T01:46:24.307Z"
+generated_at: "2026-03-30T01:49:23.529Z"
 ---
 
 # § 290hh. Children and violence

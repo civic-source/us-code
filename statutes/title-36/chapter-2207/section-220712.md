@@ -3,9 +3,9 @@ title: "Section 220712 - Annual report"
 usc_title: 36
 usc_section: "220712"
 chapter: 2207
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "36 U.S.C. § 220712"
-generated_at: "2026-03-30T01:46:03.905Z"
+generated_at: "2026-03-30T01:49:04.969Z"
 ---
 
 # § 220712. Annual report

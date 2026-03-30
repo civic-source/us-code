@@ -3,9 +3,9 @@ title: "Section 2750 - Transfer of defense environmental cleanup funds"
 usc_title: 50
 usc_section: "2750"
 chapter: 42
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "50 U.S.C. § 2750"
-generated_at: "2026-03-30T01:46:30.982Z"
+generated_at: "2026-03-30T01:49:29.564Z"
 ---
 
 # § 2750. Transfer of defense environmental cleanup funds

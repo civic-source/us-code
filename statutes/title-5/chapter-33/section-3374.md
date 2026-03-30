@@ -3,9 +3,9 @@ title: "Section 3374 - Assignments of employees from State or local governments"
 usc_title: 5
 usc_section: "3374"
 chapter: 33
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "5 U.S.C. § 3374"
-generated_at: "2026-03-30T01:44:48.940Z"
+generated_at: "2026-03-30T01:46:54.542Z"
 ---
 
 # § 3374. Assignments of employees from State or local governments

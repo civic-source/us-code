@@ -3,9 +3,9 @@ title: "Section 8696 - Navy shipbuilding workforce development special incentive
 usc_title: 10
 usc_section: "8696"
 chapter: 863
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 8696"
-generated_at: "2026-03-30T01:45:05.291Z"
+generated_at: "2026-03-30T01:47:12.727Z"
 ---
 
 # § 8696. Navy shipbuilding workforce development special incentive

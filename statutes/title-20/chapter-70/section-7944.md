@@ -3,9 +3,9 @@ title: "Section 7944 - Applicability"
 usc_title: 20
 usc_section: "7944"
 chapter: 70
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "20 U.S.C. § 7944"
-generated_at: "2026-03-30T01:45:22.533Z"
+generated_at: "2026-03-30T01:47:57.350Z"
 ---
 
 # § 7944. Applicability

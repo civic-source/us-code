@@ -3,9 +3,9 @@ title: "Section 2507 - Board for Correction of Military Records deadline"
 usc_title: 14
 usc_section: "2507"
 chapter: 25
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "14 U.S.C. § 2507"
-generated_at: "2026-03-30T01:45:15.582Z"
+generated_at: "2026-03-30T01:47:15.200Z"
 ---
 
 # § 2507. Board for Correction of Military Records deadline

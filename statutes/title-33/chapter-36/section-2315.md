@@ -3,9 +3,9 @@ title: "Section 2315 - Periodic statements"
 usc_title: 33
 usc_section: "2315"
 chapter: 36
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "33 U.S.C. § 2315"
-generated_at: "2026-03-30T01:46:01.129Z"
+generated_at: "2026-03-30T01:49:01.742Z"
 ---
 
 # § 2315. Periodic statements

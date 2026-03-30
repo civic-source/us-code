@@ -3,9 +3,9 @@ title: "Section 1625 - Securities laws exemption"
 usc_title: 43
 usc_section: "1625"
 chapter: 33
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "43 U.S.C. § 1625"
-generated_at: "2026-03-30T01:46:09.750Z"
+generated_at: "2026-03-30T01:49:09.844Z"
 ---
 
 # § 1625. Securities laws exemption

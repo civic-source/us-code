@@ -3,9 +3,9 @@ title: "Section 14 - Equal Employment Opportunity Coordinating Council; establis
 usc_title: 42
 usc_section: "14"
 chapter: 21
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T01:46:24.677Z"
+generated_at: "2026-03-30T01:49:23.861Z"
 ---
 
 # § 2000e–14. Equal Employment Opportunity Coordinating Council; establishment; composition; duties; report to President and Congress

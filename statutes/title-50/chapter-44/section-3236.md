@@ -3,9 +3,9 @@ title: "Section 3236 - Inspector General external review panel"
 usc_title: 50
 usc_section: "3236"
 chapter: 44
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "50 U.S.C. § 3236"
-generated_at: "2026-03-30T01:46:30.997Z"
+generated_at: "2026-03-30T01:49:29.578Z"
 ---
 
 # § 3236. Inspector General external review panel

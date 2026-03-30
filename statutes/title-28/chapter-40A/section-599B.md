@@ -3,9 +3,9 @@ title: "Section 599B - Personnel Management demonstration 1 1 So in original. Pr
 usc_title: 28
 usc_section: "599B"
 chapter: 40
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "28 U.S.C. § 599B"
-generated_at: "2026-03-30T01:45:50.228Z"
+generated_at: "2026-03-30T01:48:30.261Z"
 ---
 
 # § 599B. Personnel Management demonstration 1 1 So in original. Probably should be capitalized. project 1

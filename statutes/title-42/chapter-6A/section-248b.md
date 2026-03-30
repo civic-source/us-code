@@ -3,9 +3,9 @@ title: "Section 248b - Transfer or financial self-sufficiency of public health s
 usc_title: 42
 usc_section: "248b"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 248b"
-generated_at: "2026-03-30T01:46:24.242Z"
+generated_at: "2026-03-30T01:49:23.473Z"
 ---
 
 # § 248b. Transfer or financial self-sufficiency of public health service hospitals and clinics

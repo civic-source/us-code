@@ -3,9 +3,9 @@ title: "Section 2513 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2513"
 chapter: 45
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 2513"
-generated_at: "2026-03-30T01:45:26.383Z"
+generated_at: "2026-03-30T01:47:59.924Z"
 ---
 
 # § 2513. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

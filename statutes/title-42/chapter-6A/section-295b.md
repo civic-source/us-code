@@ -3,9 +3,9 @@ title: "Section 295b - Public health traineeships"
 usc_title: 42
 usc_section: "295b"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 295b"
-generated_at: "2026-03-30T01:46:24.317Z"
+generated_at: "2026-03-30T01:49:23.539Z"
 ---
 
 # § 295b. Public health traineeships

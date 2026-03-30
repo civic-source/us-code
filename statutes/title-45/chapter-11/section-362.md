@@ -3,9 +3,9 @@ title: "Section 362 - Duties and powers of Board"
 usc_title: 45
 usc_section: "362"
 chapter: 11
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "45 U.S.C. § 362"
-generated_at: "2026-03-30T01:46:09.060Z"
+generated_at: "2026-03-30T01:49:09.211Z"
 ---
 
 # § 362. Duties and powers of Board

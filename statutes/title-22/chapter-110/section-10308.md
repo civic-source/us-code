@@ -3,9 +3,9 @@ title: "Section 10308 - Cyber protection support for personnel of the Department
 usc_title: 22
 usc_section: "10308"
 chapter: 110
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 10308"
-generated_at: "2026-03-30T01:45:40.203Z"
+generated_at: "2026-03-30T01:48:20.779Z"
 ---
 
 # § 10308. Cyber protection support for personnel of the Department of State in positions highly vulnerable to cyber attack

@@ -3,9 +3,9 @@ title: "Section 503 - Service of notice and process on certain motor carriers of
 usc_title: 49
 usc_section: "503"
 chapter: 5
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "49 U.S.C. § 503"
-generated_at: "2026-03-30T01:46:33.517Z"
+generated_at: "2026-03-30T01:49:35.383Z"
 ---
 
 # § 503. Service of notice and process on certain motor carriers of migrant workers and on motor private carriers

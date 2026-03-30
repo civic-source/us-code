@@ -3,9 +3,9 @@ title: "Section 5101 - Repealed. Pub. L. 103–149, § 4(a)(1) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5101"
 chapter: 60
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 5101"
-generated_at: "2026-03-30T01:45:40.143Z"
+generated_at: "2026-03-30T01:48:20.723Z"
 ---
 
 # § 5101. Repealed. Pub. L. 103–149, § 4(a)(1) , Nov. 23, 1993 , 107 Stat. 1504

@@ -3,9 +3,9 @@ title: "Section 519 - Infrastructure development"
 usc_title: 23
 usc_section: "519"
 chapter: 5
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "23 U.S.C. § 519"
-generated_at: "2026-03-30T01:45:29.375Z"
+generated_at: "2026-03-30T01:48:22.810Z"
 ---
 
 # § 519. Infrastructure development

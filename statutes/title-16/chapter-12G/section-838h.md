@@ -3,9 +3,9 @@ title: "Section 838h - Uniform schedules of rates and charges for sale of Federa
 usc_title: 16
 usc_section: "838h"
 chapter: 12
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 838h"
-generated_at: "2026-03-30T01:45:26.327Z"
+generated_at: "2026-03-30T01:47:59.871Z"
 ---
 
 # § 838h. Uniform schedules of rates and charges for sale of Federal power and transmission of non-Federal power; allocation of cost recovery

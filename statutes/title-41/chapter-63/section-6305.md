@@ -3,9 +3,9 @@ title: "Section 6305 - Prohibition on transfer of contract and certain allowable
 usc_title: 41
 usc_section: "6305"
 chapter: 63
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "41 U.S.C. § 6305"
-generated_at: "2026-03-30T01:46:08.524Z"
+generated_at: "2026-03-30T01:49:08.950Z"
 ---
 
 # § 6305. Prohibition on transfer of contract and certain allowable assignments

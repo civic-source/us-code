@@ -3,9 +3,9 @@ title: "Section 458bb - Transferred"
 usc_title: 25
 usc_section: "458bb"
 chapter: 14
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 458bb"
-generated_at: "2026-03-30T01:45:36.872Z"
+generated_at: "2026-03-30T01:48:06.548Z"
 ---
 
 # § 458bb. Transferred

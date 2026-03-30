@@ -3,9 +3,9 @@ title: "Section 2928 - Programs on reduction of fuel reliance and promotion of e
 usc_title: 10
 usc_section: "2928"
 chapter: 173
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 2928"
-generated_at: "2026-03-30T01:45:05.254Z"
+generated_at: "2026-03-30T01:47:12.684Z"
 ---
 
 # § 2928. Programs on reduction of fuel reliance and promotion of energy-aware behaviors

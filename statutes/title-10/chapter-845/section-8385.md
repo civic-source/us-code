@@ -3,9 +3,9 @@ title: "Section 8385 - Members of the Fleet Reserve and Fleet Marine Corps Reser
 usc_title: 10
 usc_section: "8385"
 chapter: 845
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 8385"
-generated_at: "2026-03-30T01:45:05.286Z"
+generated_at: "2026-03-30T01:47:12.721Z"
 ---
 
 # § 8385. Members of the Fleet Reserve and Fleet Marine Corps Reserve: authority to recall

@@ -3,9 +3,9 @@ title: "Section 1007 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1007"
 chapter: 18
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 1007"
-generated_at: "2026-03-30T01:45:26.335Z"
+generated_at: "2026-03-30T01:47:59.878Z"
 ---
 
 # § 1007. Authorization of appropriations

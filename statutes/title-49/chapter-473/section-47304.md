@@ -3,9 +3,9 @@ title: "Section 47304 - Transfer of airport and airway property"
 usc_title: 49
 usc_section: "47304"
 chapter: 473
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "49 U.S.C. § 47304"
-generated_at: "2026-03-30T01:46:33.626Z"
+generated_at: "2026-03-30T01:49:35.467Z"
 ---
 
 # § 47304. Transfer of airport and airway property

@@ -3,9 +3,9 @@ title: "Section 717n - Process coordination; hearings; rules of procedure"
 usc_title: 15
 usc_section: "717n"
 chapter: 15
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 717n"
-generated_at: "2026-03-30T01:45:14.914Z"
+generated_at: "2026-03-30T01:47:48.160Z"
 ---
 
 # § 717n. Process coordination; hearings; rules of procedure

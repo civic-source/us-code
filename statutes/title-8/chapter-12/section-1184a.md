@@ -3,9 +3,9 @@ title: "Section 1184a - Philippine Traders as nonimmigrants"
 usc_title: 8
 usc_section: "1184a"
 chapter: 12
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "8 U.S.C. § 1184a"
-generated_at: "2026-03-30T01:45:06.350Z"
+generated_at: "2026-03-30T01:46:59.634Z"
 ---
 
 # § 1184a. Philippine Traders as nonimmigrants

@@ -3,9 +3,9 @@ title: "Section 1617 - United States attorney; appointment; duties"
 usc_title: 48
 usc_section: "1617"
 chapter: 12
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "48 U.S.C. § 1617"
-generated_at: "2026-03-30T01:46:28.084Z"
+generated_at: "2026-03-30T01:49:27.496Z"
 ---
 
 # § 1617. United States attorney; appointment; duties

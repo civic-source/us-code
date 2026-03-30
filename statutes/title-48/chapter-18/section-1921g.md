@@ -3,9 +3,9 @@ title: "Section 1921g - Compensatory adjustments"
 usc_title: 48
 usc_section: "1921g"
 chapter: 18
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "48 U.S.C. § 1921g"
-generated_at: "2026-03-30T01:46:28.093Z"
+generated_at: "2026-03-30T01:49:27.503Z"
 ---
 
 # § 1921g. Compensatory adjustments

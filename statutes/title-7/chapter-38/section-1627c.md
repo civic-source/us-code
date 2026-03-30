@@ -3,9 +3,9 @@ title: "Section 1627c - Local agriculture market program"
 usc_title: 7
 usc_section: "1627c"
 chapter: 38
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 1627c"
-generated_at: "2026-03-30T01:44:55.336Z"
+generated_at: "2026-03-30T01:47:03.650Z"
 ---
 
 # § 1627c. Local agriculture market program

@@ -3,9 +3,9 @@ title: "Section 2036 - Availability of commodities for emergency food assistance
 usc_title: 7
 usc_section: "2036"
 chapter: 51
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 2036"
-generated_at: "2026-03-30T01:44:55.371Z"
+generated_at: "2026-03-30T01:47:03.694Z"
 ---
 
 # § 2036. Availability of commodities for emergency food assistance program

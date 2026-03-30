@@ -3,9 +3,9 @@ title: "Section 421h - Procedural and substantive requirements applicable to wor
 usc_title: 43
 usc_section: "421h"
 chapter: 12
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "43 U.S.C. § 421h"
-generated_at: "2026-03-30T01:46:09.718Z"
+generated_at: "2026-03-30T01:49:09.814Z"
 ---
 
 # § 421h. Procedural and substantive requirements applicable to works financed by loans pursuant to sections 421a to 421h of this title

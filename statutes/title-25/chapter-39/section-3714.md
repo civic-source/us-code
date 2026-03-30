@@ -3,9 +3,9 @@ title: "Section 3714 - Assessment of Indian agricultural management programs"
 usc_title: 25
 usc_section: "3714"
 chapter: 39
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 3714"
-generated_at: "2026-03-30T01:45:36.913Z"
+generated_at: "2026-03-30T01:48:06.587Z"
 ---
 
 # § 3714. Assessment of Indian agricultural management programs

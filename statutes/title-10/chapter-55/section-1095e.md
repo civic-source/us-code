@@ -3,9 +3,9 @@ title: "Section 1095e - TRICARE program: beneficiary counseling and assistance c
 usc_title: 10
 usc_section: "1095e"
 chapter: 55
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 1095e"
-generated_at: "2026-03-30T01:45:05.196Z"
+generated_at: "2026-03-30T01:47:12.618Z"
 ---
 
 # § 1095e. TRICARE program: beneficiary counseling and assistance coordinators

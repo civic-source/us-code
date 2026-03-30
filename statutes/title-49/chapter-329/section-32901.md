@@ -3,9 +3,9 @@ title: "Section 32901 - Definitions"
 usc_title: 49
 usc_section: "32901"
 chapter: 329
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "49 U.S.C. § 32901"
-generated_at: "2026-03-30T01:46:33.583Z"
+generated_at: "2026-03-30T01:49:35.434Z"
 ---
 
 # § 32901. Definitions

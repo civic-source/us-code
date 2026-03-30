@@ -3,9 +3,9 @@ title: "Section 8072 - Bureaus: distribution of business; orders; records; expen
 usc_title: 10
 usc_section: "8072"
 chapter: 809
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 8072"
-generated_at: "2026-03-30T01:45:05.284Z"
+generated_at: "2026-03-30T01:47:12.717Z"
 ---
 
 # § 8072. Bureaus: distribution of business; orders; records; expenses

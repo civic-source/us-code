@@ -3,9 +3,9 @@ title: "Section 3361 - Declaration of emergency"
 usc_title: 15
 usc_section: "3361"
 chapter: 60
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 3361"
-generated_at: "2026-03-30T01:45:14.988Z"
+generated_at: "2026-03-30T01:47:48.225Z"
 ---
 
 # § 3361. Declaration of emergency

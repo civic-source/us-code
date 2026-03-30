@@ -3,9 +3,9 @@ title: "Section 403 - Obstruction of navigable waters generally; wharves; piers,
 usc_title: 33
 usc_section: "403"
 chapter: 9
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "33 U.S.C. § 403"
-generated_at: "2026-03-30T01:46:01.067Z"
+generated_at: "2026-03-30T01:49:01.684Z"
 ---
 
 # § 403. Obstruction of navigable waters generally; wharves; piers, etc.; excavations and filling in

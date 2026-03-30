@@ -3,9 +3,9 @@ title: "Section 14061 - Transferred"
 usc_title: 42
 usc_section: "14061"
 chapter: 136
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 14061"
-generated_at: "2026-03-30T01:46:24.989Z"
+generated_at: "2026-03-30T01:49:24.148Z"
 ---
 
 # § 14061. Transferred

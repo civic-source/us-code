@@ -3,9 +3,9 @@ title: "Section 5377 - Pay authority for critical positions"
 usc_title: 5
 usc_section: "5377"
 chapter: 53
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "5 U.S.C. § 5377"
-generated_at: "2026-03-30T01:44:48.949Z"
+generated_at: "2026-03-30T01:46:54.553Z"
 ---
 
 # § 5377. Pay authority for critical positions

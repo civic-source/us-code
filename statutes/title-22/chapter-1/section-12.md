@@ -3,9 +3,9 @@ title: "Section 12 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(38), (
 usc_title: 22
 usc_section: "12"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 12"
-generated_at: "2026-03-30T01:45:40.029Z"
+generated_at: "2026-03-30T01:48:20.615Z"
 ---
 
 # §§ 11, 12. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(38), (39), 60 Stat. 1038

@@ -3,9 +3,9 @@ title: "Section 313c - Authorized activities of the National Oceanic and Atmosph
 usc_title: 15
 usc_section: "313c"
 chapter: 9
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 313c"
-generated_at: "2026-03-30T01:45:14.876Z"
+generated_at: "2026-03-30T01:47:48.126Z"
 ---
 
 # § 313c. Authorized activities of the National Oceanic and Atmospheric Administration

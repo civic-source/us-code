@@ -3,9 +3,9 @@ title: "Section 669e - Submission and approval of plans and projects"
 usc_title: 16
 usc_section: "669e"
 chapter: 5
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 669e"
-generated_at: "2026-03-30T01:45:26.299Z"
+generated_at: "2026-03-30T01:47:59.843Z"
 ---
 
 # § 669e. Submission and approval of plans and projects

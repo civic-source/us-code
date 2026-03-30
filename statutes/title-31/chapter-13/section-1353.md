@@ -3,9 +3,9 @@ title: "Section 1353 - Acceptance of travel and related expenses from non-Federa
 usc_title: 31
 usc_section: "1353"
 chapter: 13
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "31 U.S.C. § 1353"
-generated_at: "2026-03-30T01:45:58.839Z"
+generated_at: "2026-03-30T01:48:49.926Z"
 ---
 
 # § 1353. Acceptance of travel and related expenses from non-Federal sources

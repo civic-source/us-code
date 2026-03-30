@@ -3,9 +3,9 @@ title: "Section 7175 - Right of Secretary to intervene in Commission proceedings
 usc_title: 42
 usc_section: "7175"
 chapter: 84
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 7175"
-generated_at: "2026-03-30T01:46:24.824Z"
+generated_at: "2026-03-30T01:49:23.996Z"
 ---
 
 # § 7175. Right of Secretary to intervene in Commission proceedings

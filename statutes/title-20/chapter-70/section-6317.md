@@ -3,9 +3,9 @@ title: "Section 6317 - Repealed. Pub. L. 114–95, title I, § 1000(1) , Dec. 10
 usc_title: 20
 usc_section: "6317"
 chapter: 70
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "20 U.S.C. § 6317"
-generated_at: "2026-03-30T01:45:22.508Z"
+generated_at: "2026-03-30T01:47:57.324Z"
 ---
 
 # §§ 6316, 6317. Repealed. Pub. L. 114–95, title I, § 1000(1) , Dec. 10, 2015 , 129 Stat. 1814

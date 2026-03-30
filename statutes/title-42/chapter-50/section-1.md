@@ -3,9 +3,9 @@ title: "Section 1 - Scientific Resolution Panel"
 usc_title: 42
 usc_section: "1"
 chapter: 50
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:46:24.739Z"
+generated_at: "2026-03-30T01:49:23.916Z"
 ---
 
 # § 4104–1. Scientific Resolution Panel

@@ -3,9 +3,9 @@ title: "Section 544h - Interim management"
 usc_title: 16
 usc_section: "544h"
 chapter: 2
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 544h"
-generated_at: "2026-03-30T01:45:26.285Z"
+generated_at: "2026-03-30T01:47:59.829Z"
 ---
 
 # § 544h. Interim management

@@ -3,9 +3,9 @@ title: "Section 7625 - National Food Safety Training, Education, Extension, Outr
 usc_title: 7
 usc_section: "7625"
 chapter: 103
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 7625"
-generated_at: "2026-03-30T01:44:55.436Z"
+generated_at: "2026-03-30T01:47:03.773Z"
 ---
 
 # § 7625. National Food Safety Training, Education, Extension, Outreach, and Technical Assistance Program

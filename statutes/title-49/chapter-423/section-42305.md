@@ -3,9 +3,9 @@ title: "Section 42305 - Refunds for cancelled or significantly delayed or change
 usc_title: 49
 usc_section: "42305"
 chapter: 423
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "49 U.S.C. § 42305"
-generated_at: "2026-03-30T01:46:33.598Z"
+generated_at: "2026-03-30T01:49:35.446Z"
 ---
 
 # § 42305. Refunds for cancelled or significantly delayed or changed flights

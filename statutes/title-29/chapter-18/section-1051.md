@@ -3,9 +3,9 @@ title: "Section 1051 - Coverage"
 usc_title: 29
 usc_section: "1051"
 chapter: 18
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "29 U.S.C. § 1051"
-generated_at: "2026-03-30T01:45:44.222Z"
+generated_at: "2026-03-30T01:48:31.180Z"
 ---
 
 # § 1051. Coverage

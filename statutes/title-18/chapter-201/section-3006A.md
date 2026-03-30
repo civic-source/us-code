@@ -3,9 +3,9 @@ title: "Section 3006A - Adequate representation of defendants"
 usc_title: 18
 usc_section: "3006A"
 chapter: 201
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "18 U.S.C. § 3006A"
-generated_at: "2026-03-30T01:45:19.094Z"
+generated_at: "2026-03-30T01:47:52.677Z"
 ---
 
 # § 3006A. Adequate representation of defendants

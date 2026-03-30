@@ -3,9 +3,9 @@ title: "Section 2055 - Repealed. Pub. L. 97–470, title V, § 523 , Jan. 14, 19
 usc_title: 7
 usc_section: "2055"
 chapter: 52
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 2055"
-generated_at: "2026-03-30T01:44:55.372Z"
+generated_at: "2026-03-30T01:47:03.695Z"
 ---
 
 # §§ 2041 to 2055. Repealed. Pub. L. 97–470, title V, § 523 , Jan. 14, 1983 , 96 Stat. 2600

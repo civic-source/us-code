@@ -3,9 +3,9 @@ title: "Section 2291 - Policy, general authorities, coordination, foreign police
 usc_title: 22
 usc_section: "2291"
 chapter: 32
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 2291"
-generated_at: "2026-03-30T01:45:40.079Z"
+generated_at: "2026-03-30T01:48:20.662Z"
 ---
 
 # § 2291. Policy, general authorities, coordination, foreign police actions, definitions, and other provisions

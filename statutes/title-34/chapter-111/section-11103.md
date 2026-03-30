@@ -3,9 +3,9 @@ title: "Section 11103 - Definitions"
 usc_title: 34
 usc_section: "11103"
 chapter: 111
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "34 U.S.C. § 11103"
-generated_at: "2026-03-30T01:45:59.643Z"
+generated_at: "2026-03-30T01:48:50.685Z"
 ---
 
 # § 11103. Definitions

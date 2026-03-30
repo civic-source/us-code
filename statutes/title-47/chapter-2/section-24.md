@@ -3,9 +3,9 @@ title: "Section 24 - Vessels laying cables; signals; avoidance of buoys"
 usc_title: 47
 usc_section: "24"
 chapter: 2
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "47 U.S.C. § 24"
-generated_at: "2026-03-30T01:46:28.618Z"
+generated_at: "2026-03-30T01:49:27.041Z"
 ---
 
 # § 24. Vessels laying cables; signals; avoidance of buoys

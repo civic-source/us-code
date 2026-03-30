@@ -3,9 +3,9 @@ title: "Section 280l - Technical assistance for employer-based wellness programs
 usc_title: 42
 usc_section: "280l"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 280l"
-generated_at: "2026-03-30T01:46:24.272Z"
+generated_at: "2026-03-30T01:49:23.499Z"
 ---
 
 # § 280l. Technical assistance for employer-based wellness programs

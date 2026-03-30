@@ -3,9 +3,9 @@ title: "Section 1769h - Repealed. Pub. L. 111–296, title IV, § 441(a)(14) , D
 usc_title: 42
 usc_section: "1769h"
 chapter: 13
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 1769h"
-generated_at: "2026-03-30T01:46:24.652Z"
+generated_at: "2026-03-30T01:49:23.840Z"
 ---
 
 # § 1769h. Repealed. Pub. L. 111–296, title IV, § 441(a)(14) , Dec. 13, 2010 , 124 Stat. 3264

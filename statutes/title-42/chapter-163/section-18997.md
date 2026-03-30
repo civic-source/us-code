@@ -3,9 +3,9 @@ title: "Section 18997 - Microelectronics workforce development activities"
 usc_title: 42
 usc_section: "18997"
 chapter: 163
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 18997"
-generated_at: "2026-03-30T01:46:25.075Z"
+generated_at: "2026-03-30T01:49:24.231Z"
 ---
 
 # § 18997. Microelectronics workforce development activities

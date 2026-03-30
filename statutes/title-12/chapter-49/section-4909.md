@@ -3,9 +3,9 @@ title: "Section 4909 - Enforcement"
 usc_title: 12
 usc_section: "4909"
 chapter: 49
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "12 U.S.C. § 4909"
-generated_at: "2026-03-30T01:45:12.347Z"
+generated_at: "2026-03-30T01:47:38.031Z"
 ---
 
 # § 4909. Enforcement

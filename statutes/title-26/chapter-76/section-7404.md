@@ -3,9 +3,9 @@ title: "Section 7404 - Authority to bring civil action for estate taxes"
 usc_title: 26
 usc_section: "7404"
 chapter: 76
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "26 U.S.C. § 7404"
-generated_at: "2026-03-30T01:45:56.131Z"
+generated_at: "2026-03-30T01:48:44.794Z"
 ---
 
 # § 7404. Authority to bring civil action for estate taxes

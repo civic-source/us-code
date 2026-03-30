@@ -3,9 +3,9 @@ title: "Section 6155 - Payment of expenses of Conference of Majority and Confere
 usc_title: 2
 usc_section: "6155"
 chapter: 61
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 6155"
-generated_at: "2026-03-30T01:44:29.109Z"
+generated_at: "2026-03-30T01:46:55.970Z"
 ---
 
 # § 6155. Payment of expenses of Conference of Majority and Conference of Minority from Senate contingent fund

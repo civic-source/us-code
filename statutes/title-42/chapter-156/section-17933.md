@@ -3,9 +3,9 @@ title: "Section 17933 - Education on health information privacy"
 usc_title: 42
 usc_section: "17933"
 chapter: 156
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 17933"
-generated_at: "2026-03-30T01:46:25.049Z"
+generated_at: "2026-03-30T01:49:24.204Z"
 ---
 
 # § 17933. Education on health information privacy

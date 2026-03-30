@@ -3,9 +3,9 @@ title: "Section 139F - Certain amounts received by wrongfully incarcerated indiv
 usc_title: 26
 usc_section: "139F"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "26 U.S.C. § 139F"
-generated_at: "2026-03-30T01:45:55.914Z"
+generated_at: "2026-03-30T01:48:44.591Z"
 ---
 
 # § 139F. Certain amounts received by wrongfully incarcerated individuals

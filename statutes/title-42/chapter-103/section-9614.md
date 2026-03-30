@@ -3,9 +3,9 @@ title: "Section 9614 - Relationship to other law"
 usc_title: 42
 usc_section: "9614"
 chapter: 103
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 9614"
-generated_at: "2026-03-30T01:46:24.899Z"
+generated_at: "2026-03-30T01:49:24.065Z"
 ---
 
 # § 9614. Relationship to other law

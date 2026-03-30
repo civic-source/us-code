@@ -3,9 +3,9 @@ title: "Section 2 - Omitted"
 usc_title: 25
 usc_section: "2"
 chapter: 2
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-30T01:45:36.861Z"
+generated_at: "2026-03-30T01:48:06.539Z"
 ---
 
 # §§ 70 to 70n–2. Omitted

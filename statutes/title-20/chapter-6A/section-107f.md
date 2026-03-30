@@ -3,9 +3,9 @@ title: "Section 107f - Authorization of appropriations"
 usc_title: 20
 usc_section: "107f"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "20 U.S.C. § 107f"
-generated_at: "2026-03-30T01:45:22.408Z"
+generated_at: "2026-03-30T01:47:57.224Z"
 ---
 
 # § 107f. Authorization of appropriations

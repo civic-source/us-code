@@ -3,9 +3,9 @@ title: "Section 159 - Revocation or suspension of drivers’ licenses of individ
 usc_title: 23
 usc_section: "159"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "23 U.S.C. § 159"
-generated_at: "2026-03-30T01:45:29.359Z"
+generated_at: "2026-03-30T01:48:22.797Z"
 ---
 
 # § 159. Revocation or suspension of drivers’ licenses of individuals convicted of drug offenses

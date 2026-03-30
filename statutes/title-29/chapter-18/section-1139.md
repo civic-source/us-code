@@ -3,9 +3,9 @@ title: "Section 1139 - Separability"
 usc_title: 29
 usc_section: "1139"
 chapter: 18
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "29 U.S.C. § 1139"
-generated_at: "2026-03-30T01:45:44.236Z"
+generated_at: "2026-03-30T01:48:31.191Z"
 ---
 
 # § 1139. Separability

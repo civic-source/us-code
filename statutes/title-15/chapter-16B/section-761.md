@@ -3,9 +3,9 @@ title: "Section 761 - Congressional declaration of purpose"
 usc_title: 15
 usc_section: "761"
 chapter: 16
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 761"
-generated_at: "2026-03-30T01:45:14.917Z"
+generated_at: "2026-03-30T01:47:48.164Z"
 ---
 
 # § 761. Congressional declaration of purpose

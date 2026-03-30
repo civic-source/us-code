@@ -3,9 +3,9 @@ title: "Section 567b - Conditions and requirements for cooperation in acquisitio
 usc_title: 16
 usc_section: "567b"
 chapter: 3
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 567b"
-generated_at: "2026-03-30T01:45:26.289Z"
+generated_at: "2026-03-30T01:47:59.832Z"
 ---
 
 # § 567b. Conditions and requirements for cooperation in acquisition and management of State forests

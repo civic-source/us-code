@@ -3,9 +3,9 @@ title: "Section 100723 - Actions"
 usc_title: 54
 usc_section: "100723"
 chapter: 1007
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "54 U.S.C. § 100723"
-generated_at: "2026-03-30T01:46:36.204Z"
+generated_at: "2026-03-30T01:49:37.324Z"
 ---
 
 # § 100723. Actions

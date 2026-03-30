@@ -3,9 +3,9 @@ title: "Section 53909 - War risk insurance revolving fund"
 usc_title: 46
 usc_section: "53909"
 chapter: 539
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "46 U.S.C. § 53909"
-generated_at: "2026-03-30T01:46:29.577Z"
+generated_at: "2026-03-30T01:49:28.348Z"
 ---
 
 # § 53909. War risk insurance revolving fund

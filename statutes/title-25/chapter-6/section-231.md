@@ -3,9 +3,9 @@ title: "Section 231 - Enforcement of State laws affecting health and education; 
 usc_title: 25
 usc_section: "231"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 231"
-generated_at: "2026-03-30T01:45:36.865Z"
+generated_at: "2026-03-30T01:48:06.541Z"
 ---
 
 # § 231. Enforcement of State laws affecting health and education; entry of State employees on Indian lands

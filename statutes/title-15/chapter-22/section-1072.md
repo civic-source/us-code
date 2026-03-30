@@ -3,9 +3,9 @@ title: "Section 1072 - Registration as constructive notice of claim of ownership
 usc_title: 15
 usc_section: "1072"
 chapter: 22
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 1072"
-generated_at: "2026-03-30T01:45:14.923Z"
+generated_at: "2026-03-30T01:47:48.168Z"
 ---
 
 # § 1072. Registration as constructive notice of claim of ownership

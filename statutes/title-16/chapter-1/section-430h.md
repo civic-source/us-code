@@ -3,9 +3,9 @@ title: "Section 430h - Vicksburg National Military Park"
 usc_title: 16
 usc_section: "430h"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 430h"
-generated_at: "2026-03-30T01:45:26.230Z"
+generated_at: "2026-03-30T01:47:59.774Z"
 ---
 
 # § 430h. Vicksburg National Military Park

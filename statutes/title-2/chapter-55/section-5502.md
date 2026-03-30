@@ -3,9 +3,9 @@ title: "Section 5502 - House emergency operations positions"
 usc_title: 2
 usc_section: "5502"
 chapter: 55
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 5502"
-generated_at: "2026-03-30T01:44:29.107Z"
+generated_at: "2026-03-30T01:46:55.967Z"
 ---
 
 # § 5502. House emergency operations positions

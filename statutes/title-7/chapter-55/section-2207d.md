@@ -3,9 +3,9 @@ title: "Section 2207d - Reports on disbursement of funds for agricultural resear
 usc_title: 7
 usc_section: "2207d"
 chapter: 55
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 2207d"
-generated_at: "2026-03-30T01:44:55.376Z"
+generated_at: "2026-03-30T01:47:03.700Z"
 ---
 
 # § 2207d. Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee University

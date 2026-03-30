@@ -3,9 +3,9 @@ title: "Section 426j - Authorization of appropriation; fixing of boundaries as c
 usc_title: 16
 usc_section: "426j"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 426j"
-generated_at: "2026-03-30T01:45:26.228Z"
+generated_at: "2026-03-30T01:47:59.772Z"
 ---
 
 # § 426j. Authorization of appropriation; fixing of boundaries as condition to purchase of lands

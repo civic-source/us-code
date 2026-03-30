@@ -3,9 +3,9 @@ title: "Section 1107 - Limitation with respect to acquisition and holding of emp
 usc_title: 29
 usc_section: "1107"
 chapter: 18
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "29 U.S.C. § 1107"
-generated_at: "2026-03-30T01:45:44.234Z"
+generated_at: "2026-03-30T01:48:31.189Z"
 ---
 
 # § 1107. Limitation with respect to acquisition and holding of employer securities and employer real property by certain plans

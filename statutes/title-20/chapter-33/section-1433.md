@@ -3,9 +3,9 @@ title: "Section 1433 - General authority"
 usc_title: 20
 usc_section: "1433"
 chapter: 33
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "20 U.S.C. § 1433"
-generated_at: "2026-03-30T01:45:22.480Z"
+generated_at: "2026-03-30T01:47:57.296Z"
 ---
 
 # § 1433. General authority

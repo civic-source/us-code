@@ -3,9 +3,9 @@ title: "Section 583 - Definitions"
 usc_title: 10
 usc_section: "583"
 chapter: 33
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 583"
-generated_at: "2026-03-30T01:45:05.169Z"
+generated_at: "2026-03-30T01:47:12.585Z"
 ---
 
 # § 583. Definitions

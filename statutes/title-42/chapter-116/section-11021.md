@@ -3,9 +3,9 @@ title: "Section 11021 - Material safety data sheets"
 usc_title: 42
 usc_section: "11021"
 chapter: 116
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 11021"
-generated_at: "2026-03-30T01:46:24.932Z"
+generated_at: "2026-03-30T01:49:24.096Z"
 ---
 
 # § 11021. Material safety data sheets

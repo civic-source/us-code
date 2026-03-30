@@ -3,9 +3,9 @@ title: "Section 286jj - Partial guarantees in connection with debt reduction for
 usc_title: 22
 usc_section: "286jj"
 chapter: 7
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 286jj"
-generated_at: "2026-03-30T01:45:40.047Z"
+generated_at: "2026-03-30T01:48:20.632Z"
 ---
 
 # § 286jj. Partial guarantees in connection with debt reduction for borrower countries

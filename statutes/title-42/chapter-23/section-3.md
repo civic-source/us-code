@@ -3,9 +3,9 @@ title: "Section 3 - Establishment of private corporation"
 usc_title: 42
 usc_section: "3"
 chapter: 23
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T01:46:24.701Z"
+generated_at: "2026-03-30T01:49:23.882Z"
 ---
 
 # § 2297h–3. Establishment of private corporation

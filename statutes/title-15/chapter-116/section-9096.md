@@ -3,9 +3,9 @@ title: "Section 9096 - Limitation on certain employee compensation"
 usc_title: 15
 usc_section: "9096"
 chapter: 116
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 9096"
-generated_at: "2026-03-30T01:45:15.044Z"
+generated_at: "2026-03-30T01:47:48.276Z"
 ---
 
 # § 9096. Limitation on certain employee compensation

@@ -3,9 +3,9 @@ title: "Section 284g - Status, privileges, and immunities of the United States"
 usc_title: 22
 usc_section: "284g"
 chapter: 7
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 284g"
-generated_at: "2026-03-30T01:45:40.044Z"
+generated_at: "2026-03-30T01:48:20.627Z"
 ---
 
 # § 284g. Status, privileges, and immunities of the United States

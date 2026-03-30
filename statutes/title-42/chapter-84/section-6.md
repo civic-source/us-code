@@ -3,9 +3,9 @@ title: "Section 6 - Administrative and judicial review"
 usc_title: 42
 usc_section: "6"
 chapter: 84
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T01:46:24.833Z"
+generated_at: "2026-03-30T01:49:24.003Z"
 ---
 
 # § 7385s–6. Administrative and judicial review

@@ -3,9 +3,9 @@ title: "Section 39a - Best practices for behavioral and mental health interventi
 usc_title: 42
 usc_section: "39a"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 39a"
-generated_at: "2026-03-30T01:46:24.300Z"
+generated_at: "2026-03-30T01:49:23.524Z"
 ---
 
 # § 290bb–39a. Best practices for behavioral and mental health intervention teams

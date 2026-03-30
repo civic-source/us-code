@@ -3,9 +3,9 @@ title: "Section 1394 - Payments to States; adjustments; advances or reimbursemen
 usc_title: 42
 usc_section: "1394"
 chapter: 7
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 1394"
-generated_at: "2026-03-30T01:46:24.475Z"
+generated_at: "2026-03-30T01:49:23.678Z"
 ---
 
 # § 1394. Payments to States; adjustments; advances or reimbursement; installments; conditions

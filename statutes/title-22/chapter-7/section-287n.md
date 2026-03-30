@@ -3,9 +3,9 @@ title: "Section 287n - Representatives in General Conference; number; citizenshi
 usc_title: 22
 usc_section: "287n"
 chapter: 7
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 287n"
-generated_at: "2026-03-30T01:45:40.049Z"
+generated_at: "2026-03-30T01:48:20.633Z"
 ---
 
 # § 287n. Representatives in General Conference; number; citizenship; compensation

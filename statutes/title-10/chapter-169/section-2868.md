@@ -3,9 +3,9 @@ title: "Section 2868 - Utility services: furnishing for certain buildings"
 usc_title: 10
 usc_section: "2868"
 chapter: 169
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 2868"
-generated_at: "2026-03-30T01:45:05.250Z"
+generated_at: "2026-03-30T01:47:12.679Z"
 ---
 
 # § 2868. Utility services: furnishing for certain buildings

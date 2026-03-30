@@ -3,9 +3,9 @@ title: "Section 1487 - Value in entry; amendment"
 usc_title: 19
 usc_section: "1487"
 chapter: 4
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "19 U.S.C. § 1487"
-generated_at: "2026-03-30T01:45:20.382Z"
+generated_at: "2026-03-30T01:47:53.825Z"
 ---
 
 # § 1487. Value in entry; amendment

@@ -3,9 +3,9 @@ title: "Section 151 - Battle Mountain Sanitarium Reserve; establishment; rights 
 usc_title: 24
 usc_section: "151"
 chapter: 3
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "24 U.S.C. § 151"
-generated_at: "2026-03-30T01:45:33.989Z"
+generated_at: "2026-03-30T01:48:10.142Z"
 ---
 
 # § 151. Battle Mountain Sanitarium Reserve; establishment; rights to lands, not affected

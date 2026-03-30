@@ -3,9 +3,9 @@ title: "Section 6997 - Division hearings"
 usc_title: 7
 usc_section: "6997"
 chapter: 98
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 6997"
-generated_at: "2026-03-30T01:44:55.424Z"
+generated_at: "2026-03-30T01:47:03.758Z"
 ---
 
 # § 6997. Division hearings

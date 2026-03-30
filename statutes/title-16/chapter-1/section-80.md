@@ -3,9 +3,9 @@ title: "Section 80 - Land appraisal"
 usc_title: 16
 usc_section: "80"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 80"
-generated_at: "2026-03-30T01:45:26.215Z"
+generated_at: "2026-03-30T01:47:59.760Z"
 ---
 
 # § 410aaa–80. Land appraisal

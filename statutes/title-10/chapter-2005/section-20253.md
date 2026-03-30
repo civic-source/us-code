@@ -3,9 +3,9 @@ title: "Section 20253 - Retirement: retirement for years of service"
 usc_title: 10
 usc_section: "20253"
 chapter: 2005
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 20253"
-generated_at: "2026-03-30T01:45:05.319Z"
+generated_at: "2026-03-30T01:47:12.755Z"
 ---
 
 # § 20253. Retirement: retirement for years of service

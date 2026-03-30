@@ -3,9 +3,9 @@ title: "Section 8018 - Administrative Assistant"
 usc_title: 10
 usc_section: "8018"
 chapter: 803
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 8018"
-generated_at: "2026-03-30T01:45:05.282Z"
+generated_at: "2026-03-30T01:47:12.716Z"
 ---
 
 # § 8018. Administrative Assistant

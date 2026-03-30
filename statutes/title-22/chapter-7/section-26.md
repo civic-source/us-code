@@ -3,9 +3,9 @@ title: "Section 26 - Sixteenth replenishment"
 usc_title: 22
 usc_section: "26"
 chapter: 7
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 26"
-generated_at: "2026-03-30T01:45:40.051Z"
+generated_at: "2026-03-30T01:48:20.635Z"
 ---
 
 # § 290g–26. Sixteenth replenishment

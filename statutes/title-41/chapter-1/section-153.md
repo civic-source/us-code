@@ -3,9 +3,9 @@ title: "Section 153 - Simplified acquisition threshold for contract in support o
 usc_title: 41
 usc_section: "153"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "41 U.S.C. § 153"
-generated_at: "2026-03-30T01:46:08.514Z"
+generated_at: "2026-03-30T01:49:08.940Z"
 ---
 
 # § 153. Simplified acquisition threshold for contract in support of humanitarian or peacekeeping operation

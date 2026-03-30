@@ -3,9 +3,9 @@ title: "Section 2388 - Security clearances for facilities of certain companies"
 usc_title: 10
 usc_section: "2388"
 chapter: 141
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 2388"
-generated_at: "2026-03-30T01:45:05.233Z"
+generated_at: "2026-03-30T01:47:12.659Z"
 ---
 
 # § 2388. Security clearances for facilities of certain companies

@@ -3,9 +3,9 @@ title: "Section 95 - Uniform fraud and abuse referral format"
 usc_title: 42
 usc_section: "95"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 95"
-generated_at: "2026-03-30T01:46:24.380Z"
+generated_at: "2026-03-30T01:49:23.593Z"
 ---
 
 # § 300gg–95. Uniform fraud and abuse referral format

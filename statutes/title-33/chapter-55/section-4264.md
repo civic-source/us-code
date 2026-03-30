@@ -3,9 +3,9 @@ title: "Section 4264 - Enhancing international outreach and partnership of Unite
 usc_title: 33
 usc_section: "4264"
 chapter: 55
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "33 U.S.C. § 4264"
-generated_at: "2026-03-30T01:46:01.153Z"
+generated_at: "2026-03-30T01:49:01.766Z"
 ---
 
 # § 4264. Enhancing international outreach and partnership of United States agencies involved in marine debris activities

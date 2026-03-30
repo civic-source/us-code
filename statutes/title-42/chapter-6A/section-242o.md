@@ -3,9 +3,9 @@ title: "Section 242o - Health conferences; publication of health educational inf
 usc_title: 42
 usc_section: "242o"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 242o"
-generated_at: "2026-03-30T01:46:24.227Z"
+generated_at: "2026-03-30T01:49:23.460Z"
 ---
 
 # § 242o. Health conferences; publication of health educational information

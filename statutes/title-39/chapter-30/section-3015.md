@@ -3,9 +3,9 @@ title: "Section 3015 - Nonmailable plant pests and injurious animals"
 usc_title: 39
 usc_section: "3015"
 chapter: 30
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "39 U.S.C. § 3015"
-generated_at: "2026-03-30T01:46:02.985Z"
+generated_at: "2026-03-30T01:49:04.181Z"
 ---
 
 # § 3015. Nonmailable plant pests and injurious animals

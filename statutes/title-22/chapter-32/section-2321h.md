@@ -3,9 +3,9 @@ title: "Section 2321h - Stockpiling of defense articles for foreign countries"
 usc_title: 22
 usc_section: "2321h"
 chapter: 32
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 2321h"
-generated_at: "2026-03-30T01:45:40.083Z"
+generated_at: "2026-03-30T01:48:20.667Z"
 ---
 
 # § 2321h. Stockpiling of defense articles for foreign countries

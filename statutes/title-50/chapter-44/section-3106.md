@@ -3,9 +3,9 @@ title: "Section 3106 - Dates for submittal of various annual and semiannual repo
 usc_title: 50
 usc_section: "3106"
 chapter: 44
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "50 U.S.C. § 3106"
-generated_at: "2026-03-30T01:46:30.994Z"
+generated_at: "2026-03-30T01:49:29.575Z"
 ---
 
 # § 3106. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees

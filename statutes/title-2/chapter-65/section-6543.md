@@ -3,9 +3,9 @@ title: "Section 6543 - Designation of reporters"
 usc_title: 2
 usc_section: "6543"
 chapter: 65
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 6543"
-generated_at: "2026-03-30T01:44:29.111Z"
+generated_at: "2026-03-30T01:46:55.972Z"
 ---
 
 # § 6543. Designation of reporters

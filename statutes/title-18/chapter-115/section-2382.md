@@ -3,9 +3,9 @@ title: "Section 2382 - Misprision of treason"
 usc_title: 18
 usc_section: "2382"
 chapter: 115
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "18 U.S.C. § 2382"
-generated_at: "2026-03-30T01:45:19.091Z"
+generated_at: "2026-03-30T01:47:52.674Z"
 ---
 
 # § 2382. Misprision of treason

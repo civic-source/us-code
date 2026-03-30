@@ -3,9 +3,9 @@ title: "Section 21901 - Definitions"
 usc_title: 34
 usc_section: "21901"
 chapter: 219
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "34 U.S.C. § 21901"
-generated_at: "2026-03-30T01:45:59.674Z"
+generated_at: "2026-03-30T01:48:50.711Z"
 ---
 
 # § 21901. Definitions

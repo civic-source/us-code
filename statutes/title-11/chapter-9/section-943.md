@@ -3,9 +3,9 @@ title: "Section 943 - Confirmation"
 usc_title: 11
 usc_section: "943"
 chapter: 9
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "11 U.S.C. § 943"
-generated_at: "2026-03-30T01:45:09.351Z"
+generated_at: "2026-03-30T01:47:27.456Z"
 ---
 
 # § 943. Confirmation

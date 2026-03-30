@@ -3,9 +3,9 @@ title: "Section 5441 - Educational and cultural exchanges and sister institution
 usc_title: 22
 usc_section: "5441"
 chapter: 63
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 5441"
-generated_at: "2026-03-30T01:45:40.146Z"
+generated_at: "2026-03-30T01:48:20.725Z"
 ---
 
 # § 5441. Educational and cultural exchanges and sister institutions programs with Poland and Hungary

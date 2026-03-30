@@ -3,9 +3,9 @@ title: "Section 2002 - Transfer of hospitals and facilities to State or private 
 usc_title: 42
 usc_section: "2002"
 chapter: 22
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 2002"
-generated_at: "2026-03-30T01:46:24.681Z"
+generated_at: "2026-03-30T01:49:23.865Z"
 ---
 
 # § 2002. Transfer of hospitals and facilities to State or private institutions; conditions and restrictions; failure to meet requirements

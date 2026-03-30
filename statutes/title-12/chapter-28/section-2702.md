@@ -3,9 +3,9 @@ title: "Section 2702 - Mortgages eligible for assistance"
 usc_title: 12
 usc_section: "2702"
 chapter: 28
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "12 U.S.C. § 2702"
-generated_at: "2026-03-30T01:45:12.314Z"
+generated_at: "2026-03-30T01:47:38.002Z"
 ---
 
 # § 2702. Mortgages eligible for assistance

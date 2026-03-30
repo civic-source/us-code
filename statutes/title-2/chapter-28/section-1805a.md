@@ -3,9 +3,9 @@ title: "Section 1805a - Deputy Architect of the Capitol to serve as acting in ca
 usc_title: 2
 usc_section: "1805a"
 chapter: 28
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 1805a"
-generated_at: "2026-03-30T01:44:29.088Z"
+generated_at: "2026-03-30T01:46:55.944Z"
 ---
 
 # § 1805a. Deputy Architect of the Capitol to serve as acting in case of absence, disability, or vacancy

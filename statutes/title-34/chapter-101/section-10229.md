@@ -3,9 +3,9 @@ title: "Section 10229 - Report to President and Congress"
 usc_title: 34
 usc_section: "10229"
 chapter: 101
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "34 U.S.C. § 10229"
-generated_at: "2026-03-30T01:45:59.630Z"
+generated_at: "2026-03-30T01:48:50.673Z"
 ---
 
 # § 10229. Report to President and Congress

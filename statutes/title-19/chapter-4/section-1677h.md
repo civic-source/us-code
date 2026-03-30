@@ -3,9 +3,9 @@ title: "Section 1677h - Drawback treatment"
 usc_title: 19
 usc_section: "1677h"
 chapter: 4
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "19 U.S.C. § 1677h"
-generated_at: "2026-03-30T01:45:20.399Z"
+generated_at: "2026-03-30T01:47:53.842Z"
 ---
 
 # § 1677h. Drawback treatment

@@ -3,9 +3,9 @@ title: "Section 8514 - Judicial review"
 usc_title: 42
 usc_section: "8514"
 chapter: 93
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 8514"
-generated_at: "2026-03-30T01:46:24.885Z"
+generated_at: "2026-03-30T01:49:24.052Z"
 ---
 
 # § 8514. Judicial review

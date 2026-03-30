@@ -3,9 +3,9 @@ title: "Section 1645 - General provisions"
 usc_title: 16
 usc_section: "1645"
 chapter: 36
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 1645"
-generated_at: "2026-03-30T01:45:26.366Z"
+generated_at: "2026-03-30T01:47:59.907Z"
 ---
 
 # § 1645. General provisions

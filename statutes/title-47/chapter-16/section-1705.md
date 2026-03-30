@@ -3,9 +3,9 @@ title: "Section 1705 - Grants for broadband connectivity"
 usc_title: 47
 usc_section: "1705"
 chapter: 16
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "47 U.S.C. § 1705"
-generated_at: "2026-03-30T01:46:28.673Z"
+generated_at: "2026-03-30T01:49:27.084Z"
 ---
 
 # § 1705. Grants for broadband connectivity

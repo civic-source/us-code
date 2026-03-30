@@ -3,9 +3,9 @@ title: "Section 14192 - Omitted"
 usc_title: 42
 usc_section: "14192"
 chapter: 136
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 14192"
-generated_at: "2026-03-30T01:46:24.989Z"
+generated_at: "2026-03-30T01:49:24.148Z"
 ---
 
 # § 14192. Omitted

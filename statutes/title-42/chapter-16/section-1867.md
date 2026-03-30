@@ -3,9 +3,9 @@ title: "Section 1867 - Repealed. Pub. L. 90–407, § 4 , July 18, 1968 , 82 Sta
 usc_title: 42
 usc_section: "1867"
 chapter: 16
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 1867"
-generated_at: "2026-03-30T01:46:24.667Z"
+generated_at: "2026-03-30T01:49:23.852Z"
 ---
 
 # § 1867. Repealed. Pub. L. 90–407, § 4 , July 18, 1968 , 82 Stat. 363

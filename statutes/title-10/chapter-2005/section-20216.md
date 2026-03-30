@@ -3,9 +3,9 @@ title: "Section 20216 - Reports of selection boards"
 usc_title: 10
 usc_section: "20216"
 chapter: 2005
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 20216"
-generated_at: "2026-03-30T01:45:05.318Z"
+generated_at: "2026-03-30T01:47:12.754Z"
 ---
 
 # § 20216. Reports of selection boards

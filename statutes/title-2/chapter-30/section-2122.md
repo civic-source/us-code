@@ -3,9 +3,9 @@ title: "Section 2122 - Acceptance of gifts on behalf of the House of Representat
 usc_title: 2
 usc_section: "2122"
 chapter: 30
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 2122"
-generated_at: "2026-03-30T01:44:29.097Z"
+generated_at: "2026-03-30T01:46:55.954Z"
 ---
 
 # § 2122. Acceptance of gifts on behalf of the House of Representatives

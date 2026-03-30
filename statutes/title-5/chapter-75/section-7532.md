@@ -3,9 +3,9 @@ title: "Section 7532 - Suspension and removal"
 usc_title: 5
 usc_section: "7532"
 chapter: 75
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "5 U.S.C. § 7532"
-generated_at: "2026-03-30T01:44:48.967Z"
+generated_at: "2026-03-30T01:46:54.575Z"
 ---
 
 # § 7532. Suspension and removal

@@ -3,9 +3,9 @@ title: "Section 423l - Repealed. Pub. L. 106–511, title V, § 507 , Nov. 13, 2
 usc_title: 16
 usc_section: "423l"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 423l"
-generated_at: "2026-03-30T01:45:26.227Z"
+generated_at: "2026-03-30T01:47:59.771Z"
 ---
 
 # §§ 423j to 423l. Repealed. Pub. L. 106–511, title V, § 507 , Nov. 13, 2000 , 114 Stat. 2376

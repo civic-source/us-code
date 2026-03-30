@@ -3,9 +3,9 @@ title: "Section 1463 - Rules and regulations"
 usc_title: 16
 usc_section: "1463"
 chapter: 33
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 1463"
-generated_at: "2026-03-30T01:45:26.360Z"
+generated_at: "2026-03-30T01:47:59.902Z"
 ---
 
 # § 1463. Rules and regulations

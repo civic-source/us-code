@@ -3,9 +3,9 @@ title: "Section 52 - Authority to assess and use biosimilar biological product f
 usc_title: 21
 usc_section: "52"
 chapter: 9
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "21 U.S.C. § 52"
-generated_at: "2026-03-30T01:45:30.897Z"
+generated_at: "2026-03-30T01:48:09.903Z"
 ---
 
 # § 379j–52. Authority to assess and use biosimilar biological product fees

@@ -3,9 +3,9 @@ title: "Section 3753 - Maximum ages for retention in an active status"
 usc_title: 14
 usc_section: "3753"
 chapter: 37
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "14 U.S.C. § 3753"
-generated_at: "2026-03-30T01:45:15.586Z"
+generated_at: "2026-03-30T01:47:15.203Z"
 ---
 
 # § 3753. Maximum ages for retention in an active status

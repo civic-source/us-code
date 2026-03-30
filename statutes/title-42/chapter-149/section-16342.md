@@ -3,9 +3,9 @@ title: "Section 16342 - International energy training"
 usc_title: 42
 usc_section: "16342"
 chapter: 149
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 16342"
-generated_at: "2026-03-30T01:46:25.022Z"
+generated_at: "2026-03-30T01:49:24.179Z"
 ---
 
 # § 16342. International energy training

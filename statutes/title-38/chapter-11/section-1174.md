@@ -3,9 +3,9 @@ title: "Section 1174 - Regulations regarding presumptions of service connection 
 usc_title: 38
 usc_section: "1174"
 chapter: 11
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "38 U.S.C. § 1174"
-generated_at: "2026-03-30T01:46:05.832Z"
+generated_at: "2026-03-30T01:49:06.738Z"
 ---
 
 # § 1174. Regulations regarding presumptions of service connection based on toxic exposure

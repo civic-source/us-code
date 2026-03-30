@@ -3,9 +3,9 @@ title: "Section 3020g - National Technical Assistance Center on Grandfamilies an
 usc_title: 42
 usc_section: "3020g"
 chapter: 35
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 3020g"
-generated_at: "2026-03-30T01:46:24.711Z"
+generated_at: "2026-03-30T01:49:23.892Z"
 ---
 
 # § 3020g. National Technical Assistance Center on Grandfamilies and Kinship Families

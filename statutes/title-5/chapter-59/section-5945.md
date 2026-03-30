@@ -3,9 +3,9 @@ title: "Section 5945 - Notary public commission expenses"
 usc_title: 5
 usc_section: "5945"
 chapter: 59
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "5 U.S.C. § 5945"
-generated_at: "2026-03-30T01:44:48.959Z"
+generated_at: "2026-03-30T01:46:54.565Z"
 ---
 
 # § 5945. Notary public commission expenses

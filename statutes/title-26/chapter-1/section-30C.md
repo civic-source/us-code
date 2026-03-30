@@ -3,9 +3,9 @@ title: "Section 30C - Alternative fuel vehicle refueling property credit"
 usc_title: 26
 usc_section: "30C"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "26 U.S.C. § 30C"
-generated_at: "2026-03-30T01:45:55.880Z"
+generated_at: "2026-03-30T01:48:44.559Z"
 ---
 
 # § 30C. Alternative fuel vehicle refueling property credit

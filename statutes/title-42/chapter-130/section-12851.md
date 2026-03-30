@@ -3,9 +3,9 @@ title: "Section 12851 - National Homeownership Trust"
 usc_title: 42
 usc_section: "12851"
 chapter: 130
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 12851"
-generated_at: "2026-03-30T01:46:24.972Z"
+generated_at: "2026-03-30T01:49:24.132Z"
 ---
 
 # § 12851. National Homeownership Trust

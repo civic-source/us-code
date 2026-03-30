@@ -3,9 +3,9 @@ title: "Section 4111 - Annual report by Comptroller General of the United States
 usc_title: 2
 usc_section: "4111"
 chapter: 41
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 4111"
-generated_at: "2026-03-30T01:44:29.099Z"
+generated_at: "2026-03-30T01:46:55.958Z"
 ---
 
 # § 4111. Annual report by Comptroller General of the United States on cybersecurity and surveillance threats to Congress

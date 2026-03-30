@@ -3,9 +3,9 @@ title: "Section 6975 - Separability"
 usc_title: 42
 usc_section: "6975"
 chapter: 82
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 6975"
-generated_at: "2026-03-30T01:46:24.819Z"
+generated_at: "2026-03-30T01:49:23.990Z"
 ---
 
 # § 6975. Separability

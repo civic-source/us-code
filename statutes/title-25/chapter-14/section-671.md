@@ -3,9 +3,9 @@ title: "Section 671 - Omitted"
 usc_title: 25
 usc_section: "671"
 chapter: 14
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 671"
-generated_at: "2026-03-30T01:45:36.873Z"
+generated_at: "2026-03-30T01:48:06.549Z"
 ---
 
 # § 671. Omitted

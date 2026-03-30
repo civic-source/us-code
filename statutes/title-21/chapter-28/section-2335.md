@@ -3,9 +3,9 @@ title: "Section 2335 - Exception relating to importation of goods"
 usc_title: 21
 usc_section: "2335"
 chapter: 28
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "21 U.S.C. § 2335"
-generated_at: "2026-03-30T01:45:30.934Z"
+generated_at: "2026-03-30T01:48:09.938Z"
 ---
 
 # § 2335. Exception relating to importation of goods

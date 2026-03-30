@@ -3,9 +3,9 @@ title: "Section 12632 - Reports"
 usc_title: 42
 usc_section: "12632"
 chapter: 129
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 12632"
-generated_at: "2026-03-30T01:46:24.959Z"
+generated_at: "2026-03-30T01:49:24.121Z"
 ---
 
 # § 12632. Reports

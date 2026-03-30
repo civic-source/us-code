@@ -3,9 +3,9 @@ title: "Section 30303 - National prison rape statistics, data, and research"
 usc_title: 34
 usc_section: "30303"
 chapter: 303
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "34 U.S.C. § 30303"
-generated_at: "2026-03-30T01:45:59.676Z"
+generated_at: "2026-03-30T01:48:50.713Z"
 ---
 
 # § 30303. National prison rape statistics, data, and research

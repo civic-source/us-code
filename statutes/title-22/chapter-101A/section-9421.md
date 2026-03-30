@@ -3,9 +3,9 @@ title: "Section 9421 - Findings"
 usc_title: 22
 usc_section: "9421"
 chapter: 101
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 9421"
-generated_at: "2026-03-30T01:45:40.194Z"
+generated_at: "2026-03-30T01:48:20.770Z"
 ---
 
 # § 9421. Findings

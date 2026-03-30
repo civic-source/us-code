@@ -3,9 +3,9 @@ title: "Section 8478 - Mixed-funded athletic and recreational extracurricular pr
 usc_title: 10
 usc_section: "8478"
 chapter: 853
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 8478"
-generated_at: "2026-03-30T01:45:05.287Z"
+generated_at: "2026-03-30T01:47:12.723Z"
 ---
 
 # § 8478. Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds

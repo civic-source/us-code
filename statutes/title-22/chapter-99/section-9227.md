@@ -3,9 +3,9 @@ title: "Section 9227 - Travel recommendations for United States citizens to Nort
 usc_title: 22
 usc_section: "9227"
 chapter: 99
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 9227"
-generated_at: "2026-03-30T01:45:40.192Z"
+generated_at: "2026-03-30T01:48:20.768Z"
 ---
 
 # § 9227. Travel recommendations for United States citizens to North Korea

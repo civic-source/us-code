@@ -3,9 +3,9 @@ title: "Section 3431 - Term of court; power of court unaffected by expiration—
 usc_title: 18
 usc_section: "3431"
 chapter: 221
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "18 U.S.C. § 3431"
-generated_at: "2026-03-30T01:45:19.101Z"
+generated_at: "2026-03-30T01:47:52.683Z"
 ---
 
 # § 3431. Term of court; power of court unaffected by expiration—(Rule)

@@ -3,9 +3,9 @@ title: "Section 200302 - Purposes"
 usc_title: 36
 usc_section: "200302"
 chapter: 2003
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "36 U.S.C. § 200302"
-generated_at: "2026-03-30T01:46:03.901Z"
+generated_at: "2026-03-30T01:49:04.966Z"
 ---
 
 # § 200302. Purposes

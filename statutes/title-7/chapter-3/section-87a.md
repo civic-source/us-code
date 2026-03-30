@@ -3,9 +3,9 @@ title: "Section 87a - Records"
 usc_title: 7
 usc_section: "87a"
 chapter: 3
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 87a"
-generated_at: "2026-03-30T01:44:55.274Z"
+generated_at: "2026-03-30T01:47:03.574Z"
 ---
 
 # § 87a. Records

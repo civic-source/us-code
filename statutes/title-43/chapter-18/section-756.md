@@ -3,9 +3,9 @@ title: "Section 756 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "756"
 chapter: 18
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "43 U.S.C. § 756"
-generated_at: "2026-03-30T01:46:09.730Z"
+generated_at: "2026-03-30T01:49:09.825Z"
 ---
 
 # §§ 754 to 756. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

@@ -3,9 +3,9 @@ title: "Section 14 - Repealed. Pub. L. 89–473, § 2(a) , June 29, 1966 , 80 St
 usc_title: 13
 usc_section: "14"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "13 U.S.C. § 14"
-generated_at: "2026-03-30T01:45:08.204Z"
+generated_at: "2026-03-30T01:47:16.194Z"
 ---
 
 # [§ 14. Repealed. Pub. L. 89–473, § 2(a) , June 29, 1966 , 80 Stat. 221 ]

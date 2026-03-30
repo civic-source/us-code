@@ -3,9 +3,9 @@ title: "Section 7801 - Definitions"
 usc_title: 16
 usc_section: "7801"
 chapter: 97
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 7801"
-generated_at: "2026-03-30T01:45:26.432Z"
+generated_at: "2026-03-30T01:47:59.973Z"
 ---
 
 # § 7801. Definitions

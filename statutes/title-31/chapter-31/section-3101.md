@@ -3,9 +3,9 @@ title: "Section 3101 - Public debt limit"
 usc_title: 31
 usc_section: "3101"
 chapter: 31
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "31 U.S.C. § 3101"
-generated_at: "2026-03-30T01:45:58.840Z"
+generated_at: "2026-03-30T01:48:49.927Z"
 ---
 
 # § 3101. Public debt limit

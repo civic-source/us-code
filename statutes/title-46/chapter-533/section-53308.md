@@ -3,9 +3,9 @@ title: "Section 53308 - Order and proportions of deposits and withdrawals"
 usc_title: 46
 usc_section: "53308"
 chapter: 533
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "46 U.S.C. § 53308"
-generated_at: "2026-03-30T01:46:29.574Z"
+generated_at: "2026-03-30T01:49:28.345Z"
 ---
 
 # § 53308. Order and proportions of deposits and withdrawals

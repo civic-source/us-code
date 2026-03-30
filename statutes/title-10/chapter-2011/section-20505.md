@@ -3,9 +3,9 @@ title: "Section 20505 - Officer considered for removal: voluntary retirement or 
 usc_title: 10
 usc_section: "20505"
 chapter: 2011
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 20505"
-generated_at: "2026-03-30T01:45:05.319Z"
+generated_at: "2026-03-30T01:47:12.756Z"
 ---
 
 # § 20505. Officer considered for removal: voluntary retirement or discharge

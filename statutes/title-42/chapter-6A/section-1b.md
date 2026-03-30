@@ -3,9 +3,9 @@ title: "Section 1b - Use of allotments for rape prevention education"
 usc_title: 42
 usc_section: "1b"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 1b"
-generated_at: "2026-03-30T01:46:24.262Z"
+generated_at: "2026-03-30T01:49:23.490Z"
 ---
 
 # § 280b–1b. Use of allotments for rape prevention education

@@ -3,9 +3,9 @@ title: "Section 60102 - Organization"
 usc_title: 36
 usc_section: "60102"
 chapter: 601
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "36 U.S.C. § 60102"
-generated_at: "2026-03-30T01:46:03.892Z"
+generated_at: "2026-03-30T01:49:04.957Z"
 ---
 
 # § 60102. Organization

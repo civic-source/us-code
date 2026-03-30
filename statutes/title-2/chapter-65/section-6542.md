@@ -3,9 +3,9 @@ title: "Section 6542 - Employees of Senate Disbursing Office; designation by Sec
 usc_title: 2
 usc_section: "6542"
 chapter: 65
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 6542"
-generated_at: "2026-03-30T01:44:29.111Z"
+generated_at: "2026-03-30T01:46:55.972Z"
 ---
 
 # § 6542. Employees of Senate Disbursing Office; designation by Secretary of Senate to administer oaths and affirmations

@@ -3,9 +3,9 @@ title: "Section 16 - Annual audited financial statements"
 usc_title: 12
 usc_section: "16"
 chapter: 13
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "12 U.S.C. § 16"
-generated_at: "2026-03-30T01:45:12.258Z"
+generated_at: "2026-03-30T01:47:37.949Z"
 ---
 
 # § 1735f–16. Annual audited financial statements

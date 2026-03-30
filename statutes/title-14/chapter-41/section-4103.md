@@ -3,9 +3,9 @@ title: "Section 4103 - Limitation on rights of members of the Auxiliary and temp
 usc_title: 14
 usc_section: "4103"
 chapter: 41
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "14 U.S.C. § 4103"
-generated_at: "2026-03-30T01:45:15.587Z"
+generated_at: "2026-03-30T01:47:15.203Z"
 ---
 
 # § 4103. Limitation on rights of members of the Auxiliary and temporary members of the Reserve

@@ -3,9 +3,9 @@ title: "Section 8793 - Omitted"
 usc_title: 42
 usc_section: "8793"
 chapter: 95
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 8793"
-generated_at: "2026-03-30T01:46:24.887Z"
+generated_at: "2026-03-30T01:49:24.053Z"
 ---
 
 # §§ 8791 to 8793. Omitted

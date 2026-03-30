@@ -3,9 +3,9 @@ title: "Section 2361 - Treatment of transnational criminal organizations in susp
 usc_title: 21
 usc_section: "2361"
 chapter: 28
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "21 U.S.C. § 2361"
-generated_at: "2026-03-30T01:45:30.934Z"
+generated_at: "2026-03-30T01:48:09.939Z"
 ---
 
 # § 2361. Treatment of transnational criminal organizations in suspicious transactions reports of the Financial Crimes Enforcement Network

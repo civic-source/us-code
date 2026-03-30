@@ -3,9 +3,9 @@ title: "Section 2000 - Declaration of policy"
 usc_title: 25
 usc_section: "2000"
 chapter: 22
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 2000"
-generated_at: "2026-03-30T01:45:36.892Z"
+generated_at: "2026-03-30T01:48:06.567Z"
 ---
 
 # § 2000. Declaration of policy

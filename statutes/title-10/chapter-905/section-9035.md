@@ -3,9 +3,9 @@ title: "Section 9035 - Deputy Chiefs of Staff and Assistant Chiefs of Staff"
 usc_title: 10
 usc_section: "9035"
 chapter: 905
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 9035"
-generated_at: "2026-03-30T01:45:05.296Z"
+generated_at: "2026-03-30T01:47:12.732Z"
 ---
 
 # § 9035. Deputy Chiefs of Staff and Assistant Chiefs of Staff

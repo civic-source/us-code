@@ -3,9 +3,9 @@ title: "Section 19 - Transferred"
 usc_title: 22
 usc_section: "19"
 chapter: 5
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 19"
-generated_at: "2026-03-30T01:45:40.030Z"
+generated_at: "2026-03-30T01:48:20.616Z"
 ---
 
 # §§ 245j to 245j–19. Transferred

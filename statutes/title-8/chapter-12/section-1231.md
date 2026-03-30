@@ -3,9 +3,9 @@ title: "Section 1231 - Detention and removal of aliens ordered removed"
 usc_title: 8
 usc_section: "1231"
 chapter: 12
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "8 U.S.C. § 1231"
-generated_at: "2026-03-30T01:45:06.356Z"
+generated_at: "2026-03-30T01:46:59.641Z"
 ---
 
 # § 1231. Detention and removal of aliens ordered removed

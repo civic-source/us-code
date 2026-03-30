@@ -3,9 +3,9 @@ title: "Section 4308 - General provisions"
 usc_title: 22
 usc_section: "4308"
 chapter: 53
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 4308"
-generated_at: "2026-03-30T01:45:40.139Z"
+generated_at: "2026-03-30T01:48:20.718Z"
 ---
 
 # § 4308. General provisions

@@ -3,9 +3,9 @@ title: "Section 8894 - Stay of proceedings for taking evidence before suit is fi
 usc_title: 10
 usc_section: "8894"
 chapter: 885
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 8894"
-generated_at: "2026-03-30T01:45:05.295Z"
+generated_at: "2026-03-30T01:47:12.730Z"
 ---
 
 # § 8894. Stay of proceedings for taking evidence before suit is filed

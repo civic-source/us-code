@@ -3,9 +3,9 @@ title: "Section 1055 - Members of Advisory Board"
 usc_title: 16
 usc_section: "1055"
 chapter: 20
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 1055"
-generated_at: "2026-03-30T01:45:26.336Z"
+generated_at: "2026-03-30T01:47:59.879Z"
 ---
 
 # § 1055. Members of Advisory Board

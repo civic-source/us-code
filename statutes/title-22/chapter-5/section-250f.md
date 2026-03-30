@@ -3,9 +3,9 @@ title: "Section 250f - Transferred"
 usc_title: 22
 usc_section: "250f"
 chapter: 5
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 250f"
-generated_at: "2026-03-30T01:45:40.030Z"
+generated_at: "2026-03-30T01:48:20.616Z"
 ---
 
 # §§ 249 to 250f. Transferred

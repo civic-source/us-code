@@ -3,9 +3,9 @@ title: "Section 3418 - Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Ap
 usc_title: 16
 usc_section: "3418"
 chapter: 54
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 3418"
-generated_at: "2026-03-30T01:45:26.392Z"
+generated_at: "2026-03-30T01:47:59.933Z"
 ---
 
 # §§ 3416 to 3418. Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Apr. 4, 1996 , 110 Stat. 1007

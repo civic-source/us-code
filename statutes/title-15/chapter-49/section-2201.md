@@ -3,9 +3,9 @@ title: "Section 2201 - Congressional findings"
 usc_title: 15
 usc_section: "2201"
 chapter: 49
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 2201"
-generated_at: "2026-03-30T01:45:14.965Z"
+generated_at: "2026-03-30T01:47:48.205Z"
 ---
 
 # § 2201. Congressional findings

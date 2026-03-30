@@ -3,9 +3,9 @@ title: "Section 2009bb - Definitions"
 usc_title: 7
 usc_section: "2009bb"
 chapter: 50
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 2009bb"
-generated_at: "2026-03-30T01:44:55.359Z"
+generated_at: "2026-03-30T01:47:03.679Z"
 ---
 
 # § 2009bb. Definitions

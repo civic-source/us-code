@@ -3,9 +3,9 @@ title: "Section 19231 - Requirements for foreign talent recruitment programs"
 usc_title: 42
 usc_section: "19231"
 chapter: 163
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 19231"
-generated_at: "2026-03-30T01:46:25.082Z"
+generated_at: "2026-03-30T01:49:24.239Z"
 ---
 
 # § 19231. Requirements for foreign talent recruitment programs

@@ -3,9 +3,9 @@ title: "Section 6613 - Appointment of special masters or magistrate judges for Y
 usc_title: 15
 usc_section: "6613"
 chapter: 92
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 6613"
-generated_at: "2026-03-30T01:45:15.012Z"
+generated_at: "2026-03-30T01:47:48.247Z"
 ---
 
 # § 6613. Appointment of special masters or magistrate judges for Y2K actions

@@ -3,9 +3,9 @@ title: "Section 1161k - Pilot programs to increase college persistence and succe
 usc_title: 20
 usc_section: "1161k"
 chapter: 28
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "20 U.S.C. § 1161k"
-generated_at: "2026-03-30T01:45:22.467Z"
+generated_at: "2026-03-30T01:47:57.283Z"
 ---
 
 # § 1161k. Pilot programs to increase college persistence and success

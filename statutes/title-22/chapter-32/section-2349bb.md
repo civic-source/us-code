@@ -3,9 +3,9 @@ title: "Section 2349bb - Purposes"
 usc_title: 22
 usc_section: "2349bb"
 chapter: 32
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 2349bb"
-generated_at: "2026-03-30T01:45:40.085Z"
+generated_at: "2026-03-30T01:48:20.668Z"
 ---
 
 # § 2349bb. Purposes

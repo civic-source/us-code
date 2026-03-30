@@ -3,9 +3,9 @@ title: "Section 4408 - Restoration, management, and protection of wetlands and h
 usc_title: 16
 usc_section: "4408"
 chapter: 64
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 4408"
-generated_at: "2026-03-30T01:45:26.409Z"
+generated_at: "2026-03-30T01:47:59.950Z"
 ---
 
 # § 4408. Restoration, management, and protection of wetlands and habitat for migratory birds on Federal lands

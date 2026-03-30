@@ -3,9 +3,9 @@ title: "Section 7611 - Development of a comprehensive, five-year, global strateg
 usc_title: 22
 usc_section: "7611"
 chapter: 83
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 7611"
-generated_at: "2026-03-30T01:45:40.170Z"
+generated_at: "2026-03-30T01:48:20.748Z"
 ---
 
 # § 7611. Development of a comprehensive, five-year, global strategy

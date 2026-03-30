@@ -3,9 +3,9 @@ title: "Section 823 - Repeal of inconsistent laws"
 usc_title: 16
 usc_section: "823"
 chapter: 12
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 823"
-generated_at: "2026-03-30T01:45:26.315Z"
+generated_at: "2026-03-30T01:47:59.859Z"
 ---
 
 # § 823. Repeal of inconsistent laws

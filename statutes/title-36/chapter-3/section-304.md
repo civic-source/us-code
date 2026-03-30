@@ -3,9 +3,9 @@ title: "Section 304 - National march"
 usc_title: 36
 usc_section: "304"
 chapter: 3
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "36 U.S.C. § 304"
-generated_at: "2026-03-30T01:46:03.882Z"
+generated_at: "2026-03-30T01:49:04.950Z"
 ---
 
 # § 304. National march

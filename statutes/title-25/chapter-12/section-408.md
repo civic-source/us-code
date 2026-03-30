@@ -3,9 +3,9 @@ title: "Section 408 - Surrender of allotments by relinquishment for benefit of c
 usc_title: 25
 usc_section: "408"
 chapter: 12
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 408"
-generated_at: "2026-03-30T01:45:36.870Z"
+generated_at: "2026-03-30T01:48:06.547Z"
 ---
 
 # § 408. Surrender of allotments by relinquishment for benefit of children

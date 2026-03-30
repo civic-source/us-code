@@ -3,9 +3,9 @@ title: "Section 2003 - Methane hydrate research and development program"
 usc_title: 30
 usc_section: "2003"
 chapter: 32
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "30 U.S.C. § 2003"
-generated_at: "2026-03-30T01:45:44.630Z"
+generated_at: "2026-03-30T01:48:37.703Z"
 ---
 
 # § 2003. Methane hydrate research and development program

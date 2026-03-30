@@ -3,9 +3,9 @@ title: "Section 8445 - Rights of a former spouse"
 usc_title: 5
 usc_section: "8445"
 chapter: 84
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "5 U.S.C. § 8445"
-generated_at: "2026-03-30T01:44:48.984Z"
+generated_at: "2026-03-30T01:46:54.598Z"
 ---
 
 # § 8445. Rights of a former spouse

@@ -3,9 +3,9 @@ title: "Section 443 - Transferred"
 usc_title: 25
 usc_section: "443"
 chapter: 14
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 443"
-generated_at: "2026-03-30T01:45:36.871Z"
+generated_at: "2026-03-30T01:48:06.548Z"
 ---
 
 # § 443. Transferred

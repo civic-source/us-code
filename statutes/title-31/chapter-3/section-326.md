@@ -3,9 +3,9 @@ title: "Section 326 - Availability of appropriations for certain expenses"
 usc_title: 31
 usc_section: "326"
 chapter: 3
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "31 U.S.C. § 326"
-generated_at: "2026-03-30T01:45:58.832Z"
+generated_at: "2026-03-30T01:48:49.919Z"
 ---
 
 # § 326. Availability of appropriations for certain expenses

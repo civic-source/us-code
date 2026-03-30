@@ -3,9 +3,9 @@ title: "Section 423e - Completion of new projects or new division; execution of 
 usc_title: 43
 usc_section: "423e"
 chapter: 12
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "43 U.S.C. § 423e"
-generated_at: "2026-03-30T01:46:09.719Z"
+generated_at: "2026-03-30T01:49:09.815Z"
 ---
 
 # § 423e. Completion of new projects or new division; execution of contract with district as condition precedent to delivery of water; contents of contract; cooperation of States with United States; limitations on sale of land

@@ -3,9 +3,9 @@ title: "Section 12 - Regulations; conformity of regulations with administrative 
 usc_title: 42
 usc_section: "12"
 chapter: 21
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T01:46:24.677Z"
+generated_at: "2026-03-30T01:49:23.861Z"
 ---
 
 # § 2000e–12. Regulations; conformity of regulations with administrative procedure provisions; reliance on interpretations and instructions of Commission

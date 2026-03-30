@@ -3,9 +3,9 @@ title: "Section 15902 - Enforcement by the Board"
 usc_title: 49
 usc_section: "15902"
 chapter: 159
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "49 U.S.C. § 15902"
-generated_at: "2026-03-30T01:46:33.552Z"
+generated_at: "2026-03-30T01:49:35.410Z"
 ---
 
 # § 15902. Enforcement by the Board

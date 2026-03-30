@@ -3,9 +3,9 @@ title: "Section 1442 - Research program respecting possible long-range effects o
 usc_title: 33
 usc_section: "1442"
 chapter: 27
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "33 U.S.C. § 1442"
-generated_at: "2026-03-30T01:46:01.115Z"
+generated_at: "2026-03-30T01:49:01.730Z"
 ---
 
 # § 1442. Research program respecting possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems

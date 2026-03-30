@@ -3,9 +3,9 @@ title: "Section 360e - Premarket approval"
 usc_title: 21
 usc_section: "360e"
 chapter: 9
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "21 U.S.C. § 360e"
-generated_at: "2026-03-30T01:45:30.874Z"
+generated_at: "2026-03-30T01:48:09.880Z"
 ---
 
 # § 360e. Premarket approval

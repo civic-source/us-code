@@ -3,9 +3,9 @@ title: "Section 460ddd - Establishment"
 usc_title: 16
 usc_section: "460ddd"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 460ddd"
-generated_at: "2026-03-30T01:45:26.260Z"
+generated_at: "2026-03-30T01:47:59.804Z"
 ---
 
 # § 460ddd. Establishment

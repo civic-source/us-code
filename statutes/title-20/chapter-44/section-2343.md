@@ -3,9 +3,9 @@ title: "Section 2343 - Improvement plans"
 usc_title: 20
 usc_section: "2343"
 chapter: 44
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "20 U.S.C. § 2343"
-generated_at: "2026-03-30T01:45:22.489Z"
+generated_at: "2026-03-30T01:47:57.305Z"
 ---
 
 # § 2343. Improvement plans

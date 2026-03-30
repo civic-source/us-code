@@ -3,9 +3,9 @@ title: "Section 1389 - Personnel"
 usc_title: 7
 usc_section: "1389"
 chapter: 35
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 1389"
-generated_at: "2026-03-30T01:44:55.321Z"
+generated_at: "2026-03-30T01:47:03.630Z"
 ---
 
 # § 1389. Personnel

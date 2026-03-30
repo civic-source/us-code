@@ -3,9 +3,9 @@ title: "Section 6808 - Reports"
 usc_title: 16
 usc_section: "6808"
 chapter: 87
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 6808"
-generated_at: "2026-03-30T01:45:26.426Z"
+generated_at: "2026-03-30T01:47:59.967Z"
 ---
 
 # § 6808. Reports

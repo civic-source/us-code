@@ -3,9 +3,9 @@ title: "Section 1692a - Definitions"
 usc_title: 15
 usc_section: "1692a"
 chapter: 41
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 1692a"
-generated_at: "2026-03-30T01:45:14.952Z"
+generated_at: "2026-03-30T01:47:48.194Z"
 ---
 
 # § 1692a. Definitions

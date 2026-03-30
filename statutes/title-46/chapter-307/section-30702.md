@@ -3,9 +3,9 @@ title: "Section 30702 - Application"
 usc_title: 46
 usc_section: "30702"
 chapter: 307
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "46 U.S.C. § 30702"
-generated_at: "2026-03-30T01:46:29.563Z"
+generated_at: "2026-03-30T01:49:28.335Z"
 ---
 
 # § 30702. Application

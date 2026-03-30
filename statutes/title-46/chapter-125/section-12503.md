@@ -3,9 +3,9 @@ title: "Section 12503 - Information available to the system"
 usc_title: 46
 usc_section: "12503"
 chapter: 125
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "46 U.S.C. § 12503"
-generated_at: "2026-03-30T01:46:29.560Z"
+generated_at: "2026-03-30T01:49:28.332Z"
 ---
 
 # § 12503. Information available to the system

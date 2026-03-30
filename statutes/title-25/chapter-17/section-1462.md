@@ -3,9 +3,9 @@ title: "Section 1462 - Economic development; educational loans; limitation of lo
 usc_title: 25
 usc_section: "1462"
 chapter: 17
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 1462"
-generated_at: "2026-03-30T01:45:36.878Z"
+generated_at: "2026-03-30T01:48:06.554Z"
 ---
 
 # § 1462. Economic development; educational loans; limitation of loans to or investments in non-Indian organizations

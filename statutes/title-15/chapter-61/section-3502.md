@@ -3,9 +3,9 @@ title: "Section 3502 - Price fixing agreements, horizontal restraints of trade, 
 usc_title: 15
 usc_section: "3502"
 chapter: 61
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 3502"
-generated_at: "2026-03-30T01:45:14.989Z"
+generated_at: "2026-03-30T01:47:48.227Z"
 ---
 
 # § 3502. Price fixing agreements, horizontal restraints of trade, or group boycotts

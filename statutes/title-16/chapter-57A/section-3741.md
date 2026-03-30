@@ -3,9 +3,9 @@ title: "Section 3741 - Findings"
 usc_title: 16
 usc_section: "3741"
 chapter: 57
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 3741"
-generated_at: "2026-03-30T01:45:26.395Z"
+generated_at: "2026-03-30T01:47:59.936Z"
 ---
 
 # § 3741. Findings

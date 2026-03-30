@@ -3,9 +3,9 @@ title: "Section 254u - Public health departments"
 usc_title: 42
 usc_section: "254u"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 254u"
-generated_at: "2026-03-30T01:46:24.251Z"
+generated_at: "2026-03-30T01:49:23.481Z"
 ---
 
 # § 254u. Public health departments

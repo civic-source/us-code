@@ -3,9 +3,9 @@ title: "Section 590y - Authorization and purpose of investigation, construction,
 usc_title: 16
 usc_section: "590y"
 chapter: 3
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 590y"
-generated_at: "2026-03-30T01:45:26.293Z"
+generated_at: "2026-03-30T01:47:59.837Z"
 ---
 
 # § 590y. Authorization and purpose of investigation, construction, and maintenance of projects; title to projects; limitation on costs

@@ -3,9 +3,9 @@ title: "Section 297d - Allotments and payments of Federal capital contributions"
 usc_title: 42
 usc_section: "297d"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 297d"
-generated_at: "2026-03-30T01:46:24.321Z"
+generated_at: "2026-03-30T01:49:23.543Z"
 ---
 
 # § 297d. Allotments and payments of Federal capital contributions

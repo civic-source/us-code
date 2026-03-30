@@ -3,9 +3,9 @@ title: "Section 530 - Cooperation for purposes of development and administration
 usc_title: 16
 usc_section: "530"
 chapter: 2
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 530"
-generated_at: "2026-03-30T01:45:26.277Z"
+generated_at: "2026-03-30T01:47:59.821Z"
 ---
 
 # § 530. Cooperation for purposes of development and administration with State and local governmental agencies and others

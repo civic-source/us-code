@@ -3,9 +3,9 @@ title: "Section 10141 - Establishment of Bureau of Justice Assistance"
 usc_title: 34
 usc_section: "10141"
 chapter: 101
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "34 U.S.C. § 10141"
-generated_at: "2026-03-30T01:45:59.626Z"
+generated_at: "2026-03-30T01:48:50.670Z"
 ---
 
 # § 10141. Establishment of Bureau of Justice Assistance

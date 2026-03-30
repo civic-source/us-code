@@ -3,9 +3,9 @@ title: "Section 1058 - Definitions; eligibility"
 usc_title: 20
 usc_section: "1058"
 chapter: 28
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "20 U.S.C. § 1058"
-generated_at: "2026-03-30T01:45:22.421Z"
+generated_at: "2026-03-30T01:47:57.236Z"
 ---
 
 # § 1058. Definitions; eligibility

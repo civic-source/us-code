@@ -3,9 +3,9 @@ title: "Section 491 - Renumbered § 431]"
 usc_title: 37
 usc_section: "491"
 chapter: 8
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "37 U.S.C. § 491"
-generated_at: "2026-03-30T01:46:06.638Z"
+generated_at: "2026-03-30T01:49:03.846Z"
 ---
 
 # [§ 491. Renumbered § 431]

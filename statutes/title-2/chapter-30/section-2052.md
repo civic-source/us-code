@@ -3,9 +3,9 @@ title: "Section 2052 - Senate restaurant deficit fund; deposit of proceeds from 
 usc_title: 2
 usc_section: "2052"
 chapter: 30
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 2052"
-generated_at: "2026-03-30T01:44:29.096Z"
+generated_at: "2026-03-30T01:46:55.953Z"
 ---
 
 # § 2052. Senate restaurant deficit fund; deposit of proceeds from surcharge on orders

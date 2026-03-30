@@ -3,9 +3,9 @@ title: "Section 22905 - Grant conditions"
 usc_title: 49
 usc_section: "22905"
 chapter: 229
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "49 U.S.C. § 22905"
-generated_at: "2026-03-30T01:46:33.562Z"
+generated_at: "2026-03-30T01:49:35.417Z"
 ---
 
 # § 22905. Grant conditions

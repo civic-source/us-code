@@ -3,9 +3,9 @@ title: "Section 932 - Definitions and applications"
 usc_title: 2
 usc_section: "932"
 chapter: 20
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 932"
-generated_at: "2026-03-30T01:44:29.076Z"
+generated_at: "2026-03-30T01:46:55.930Z"
 ---
 
 # § 932. Definitions and applications

@@ -3,9 +3,9 @@ title: "Section 1981d - Notice of loan service programs"
 usc_title: 7
 usc_section: "1981d"
 chapter: 50
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 1981d"
-generated_at: "2026-03-30T01:44:55.352Z"
+generated_at: "2026-03-30T01:47:03.670Z"
 ---
 
 # § 1981d. Notice of loan service programs

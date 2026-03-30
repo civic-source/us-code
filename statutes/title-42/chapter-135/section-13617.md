@@ -3,9 +3,9 @@ title: "Section 13617 - Treatment of covered section 8 housing not subject to el
 usc_title: 42
 usc_section: "13617"
 chapter: 135
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 13617"
-generated_at: "2026-03-30T01:46:24.987Z"
+generated_at: "2026-03-30T01:49:24.146Z"
 ---
 
 # § 13617. Treatment of covered section 8 housing not subject to elderly preference

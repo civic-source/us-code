@@ -3,9 +3,9 @@ title: "Section 484 - Limitation on visitorial powers"
 usc_title: 12
 usc_section: "484"
 chapter: 3
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "12 U.S.C. § 484"
-generated_at: "2026-03-30T01:45:12.212Z"
+generated_at: "2026-03-30T01:47:37.906Z"
 ---
 
 # § 484. Limitation on visitorial powers

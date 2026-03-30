@@ -3,9 +3,9 @@ title: "Section 2822 - Automotive fuel rating testing and disclosure requirement
 usc_title: 15
 usc_section: "2822"
 chapter: 55
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 2822"
-generated_at: "2026-03-30T01:45:14.982Z"
+generated_at: "2026-03-30T01:47:48.220Z"
 ---
 
 # § 2822. Automotive fuel rating testing and disclosure requirements

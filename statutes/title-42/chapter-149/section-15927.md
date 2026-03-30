@@ -3,9 +3,9 @@ title: "Section 15927 - Oil shale, tar sands, and other strategic unconventional
 usc_title: 42
 usc_section: "15927"
 chapter: 149
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 15927"
-generated_at: "2026-03-30T01:46:25.004Z"
+generated_at: "2026-03-30T01:49:24.161Z"
 ---
 
 # § 15927. Oil shale, tar sands, and other strategic unconventional fuels

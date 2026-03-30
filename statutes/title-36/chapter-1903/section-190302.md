@@ -3,9 +3,9 @@ title: "Section 190302 - Organization"
 usc_title: 36
 usc_section: "190302"
 chapter: 1903
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "36 U.S.C. § 190302"
-generated_at: "2026-03-30T01:46:03.901Z"
+generated_at: "2026-03-30T01:49:04.966Z"
 ---
 
 # § 190302. Organization

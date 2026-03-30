@@ -3,9 +3,9 @@ title: "Section 694b - Rules and regulations for administration of sanctuaries i
 usc_title: 16
 usc_section: "694b"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 694b"
-generated_at: "2026-03-30T01:45:26.302Z"
+generated_at: "2026-03-30T01:47:59.847Z"
 ---
 
 # § 694b. Rules and regulations for administration of sanctuaries in national forests; jurisdiction of States

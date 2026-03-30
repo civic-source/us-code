@@ -3,9 +3,9 @@ title: "Section 52 - Carriers in Territories or other possessions of United Stat
 usc_title: 45
 usc_section: "52"
 chapter: 2
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "45 U.S.C. § 52"
-generated_at: "2026-03-30T01:46:09.048Z"
+generated_at: "2026-03-30T01:49:09.201Z"
 ---
 
 # § 52. Carriers in Territories or other possessions of United States

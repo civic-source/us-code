@@ -3,9 +3,9 @@ title: "Section 176 - Payments with respect to employees of certain foreign corp
 usc_title: 26
 usc_section: "176"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "26 U.S.C. § 176"
-generated_at: "2026-03-30T01:45:55.930Z"
+generated_at: "2026-03-30T01:48:44.606Z"
 ---
 
 # § 176. Payments with respect to employees of certain foreign corporations

@@ -3,9 +3,9 @@ title: "Section 2738 - Mid-Career Mentoring Program"
 usc_title: 22
 usc_section: "2738"
 chapter: 38
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 2738"
-generated_at: "2026-03-30T01:45:40.109Z"
+generated_at: "2026-03-30T01:48:20.691Z"
 ---
 
 # § 2738. Mid-Career Mentoring Program

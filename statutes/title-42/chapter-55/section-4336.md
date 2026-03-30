@@ -3,9 +3,9 @@ title: "Section 4336 - Procedure for determination of level of review"
 usc_title: 42
 usc_section: "4336"
 chapter: 55
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 4336"
-generated_at: "2026-03-30T01:46:24.741Z"
+generated_at: "2026-03-30T01:49:23.918Z"
 ---
 
 # § 4336. Procedure for determination of level of review

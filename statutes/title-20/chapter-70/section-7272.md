@@ -3,9 +3,9 @@ title: "Section 7272 - Definitions"
 usc_title: 20
 usc_section: "7272"
 chapter: 70
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "20 U.S.C. § 7272"
-generated_at: "2026-03-30T01:45:22.522Z"
+generated_at: "2026-03-30T01:47:57.338Z"
 ---
 
 # § 7272. Definitions

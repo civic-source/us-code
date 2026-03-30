@@ -3,9 +3,9 @@ title: "Section 5106 - Allowance for compensation of interns in House leadership
 usc_title: 2
 usc_section: "5106"
 chapter: 51
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "2 U.S.C. § 5106"
-generated_at: "2026-03-30T01:44:29.106Z"
+generated_at: "2026-03-30T01:46:55.965Z"
 ---
 
 # § 5106. Allowance for compensation of interns in House leadership offices

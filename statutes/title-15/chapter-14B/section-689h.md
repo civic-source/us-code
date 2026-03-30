@@ -3,9 +3,9 @@ title: "Section 689h - Bank participation"
 usc_title: 15
 usc_section: "689h"
 chapter: 14
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 689h"
-generated_at: "2026-03-30T01:45:14.905Z"
+generated_at: "2026-03-30T01:47:48.154Z"
 ---
 
 # § 689h. Bank participation

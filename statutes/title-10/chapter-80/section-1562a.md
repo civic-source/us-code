@@ -3,9 +3,9 @@ title: "Section 1562a - Complaints of retaliation by victims of sexual assault o
 usc_title: 10
 usc_section: "1562a"
 chapter: 80
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 1562a"
-generated_at: "2026-03-30T01:45:05.213Z"
+generated_at: "2026-03-30T01:47:12.637Z"
 ---
 
 # § 1562a. Complaints of retaliation by victims of sexual assault or sexual harassment and related persons: tracking by Department of Defense

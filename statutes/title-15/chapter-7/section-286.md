@@ -3,9 +3,9 @@ title: "Section 286 - Repealed. Pub. L. 85–890, § 3 , Sept. 2, 1958 , 72 Stat
 usc_title: 15
 usc_section: "286"
 chapter: 7
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 286"
-generated_at: "2026-03-30T01:45:14.875Z"
+generated_at: "2026-03-30T01:47:48.126Z"
 ---
 
 # §§ 285, 286. Repealed. Pub. L. 85–890, § 3 , Sept. 2, 1958 , 72 Stat. 1712

@@ -3,9 +3,9 @@ title: "Section 1 - Social impact partnership application"
 usc_title: 42
 usc_section: "1"
 chapter: 7
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:46:24.606Z"
+generated_at: "2026-03-30T01:49:23.797Z"
 ---
 
 # § 1397n–1. Social impact partnership application

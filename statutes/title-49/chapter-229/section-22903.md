@@ -3,9 +3,9 @@ title: "Section 22903 - Project management oversight"
 usc_title: 49
 usc_section: "22903"
 chapter: 229
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "49 U.S.C. § 22903"
-generated_at: "2026-03-30T01:46:33.561Z"
+generated_at: "2026-03-30T01:49:35.417Z"
 ---
 
 # § 22903. Project management oversight

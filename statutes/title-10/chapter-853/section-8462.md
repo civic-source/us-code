@@ -3,9 +3,9 @@ title: "Section 8462 - Midshipmen: discharge for unsatisfactory conduct or inapt
 usc_title: 10
 usc_section: "8462"
 chapter: 853
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 8462"
-generated_at: "2026-03-30T01:45:05.287Z"
+generated_at: "2026-03-30T01:47:12.722Z"
 ---
 
 # § 8462. Midshipmen: discharge for unsatisfactory conduct or inaptitude

@@ -3,9 +3,9 @@ title: "Section 8003 - Federal swimming pool and spa drain cover standard"
 usc_title: 15
 usc_section: "8003"
 chapter: 106
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 8003"
-generated_at: "2026-03-30T01:45:15.026Z"
+generated_at: "2026-03-30T01:47:48.260Z"
 ---
 
 # § 8003. Federal swimming pool and spa drain cover standard

@@ -3,9 +3,9 @@ title: "Section 4509 - Prohibition of cash award to Executive Schedule officers"
 usc_title: 5
 usc_section: "4509"
 chapter: 45
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "5 U.S.C. § 4509"
-generated_at: "2026-03-30T01:44:48.945Z"
+generated_at: "2026-03-30T01:46:54.547Z"
 ---
 
 # § 4509. Prohibition of cash award to Executive Schedule officers

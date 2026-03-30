@@ -3,9 +3,9 @@ title: "Section 7402 - Qualifications of appointees"
 usc_title: 38
 usc_section: "7402"
 chapter: 74
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "38 U.S.C. § 7402"
-generated_at: "2026-03-30T01:46:05.886Z"
+generated_at: "2026-03-30T01:49:06.820Z"
 ---
 
 # § 7402. Qualifications of appointees

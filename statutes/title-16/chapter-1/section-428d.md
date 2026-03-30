@@ -3,9 +3,9 @@ title: "Section 428d - Receipt of report of commission by Secretary of the Inter
 usc_title: 16
 usc_section: "428d"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 428d"
-generated_at: "2026-03-30T01:45:26.229Z"
+generated_at: "2026-03-30T01:47:59.772Z"
 ---
 
 # § 428d. Receipt of report of commission by Secretary of the Interior; acquisition of land for battlefield; other duties of Secretary

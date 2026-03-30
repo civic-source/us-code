@@ -3,9 +3,9 @@ title: "Section 15ggg - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 1
 usc_title: 20
 usc_section: "15ggg"
 chapter: 2
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "20 U.S.C. § 15ggg"
-generated_at: "2026-03-30T01:45:22.401Z"
+generated_at: "2026-03-30T01:47:57.216Z"
 ---
 
 # §§ 15aaa to 15ggg. Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 1968 , 82 Stat. 1091

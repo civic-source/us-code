@@ -3,9 +3,9 @@ title: "Section 6805 - Redemption of stamps"
 usc_title: 26
 usc_section: "6805"
 chapter: 69
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "26 U.S.C. § 6805"
-generated_at: "2026-03-30T01:45:56.127Z"
+generated_at: "2026-03-30T01:48:44.791Z"
 ---
 
 # § 6805. Redemption of stamps

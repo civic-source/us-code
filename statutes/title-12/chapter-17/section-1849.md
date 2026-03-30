@@ -3,9 +3,9 @@ title: "Section 1849 - Saving provision"
 usc_title: 12
 usc_section: "1849"
 chapter: 17
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "12 U.S.C. § 1849"
-generated_at: "2026-03-30T01:45:12.296Z"
+generated_at: "2026-03-30T01:47:37.985Z"
 ---
 
 # § 1849. Saving provision

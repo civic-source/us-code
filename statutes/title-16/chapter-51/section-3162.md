@@ -3,9 +3,9 @@ title: "Section 3162 - Definitions"
 usc_title: 16
 usc_section: "3162"
 chapter: 51
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 3162"
-generated_at: "2026-03-30T01:45:26.387Z"
+generated_at: "2026-03-30T01:47:59.929Z"
 ---
 
 # § 3162. Definitions

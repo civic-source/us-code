@@ -3,9 +3,9 @@ title: "Section 8550 - Improvements to Cooperative Observer Program of National 
 usc_title: 15
 usc_section: "8550"
 chapter: 111
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 8550"
-generated_at: "2026-03-30T01:45:15.032Z"
+generated_at: "2026-03-30T01:47:48.264Z"
 ---
 
 # § 8550. Improvements to Cooperative Observer Program of National Weather Service

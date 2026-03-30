@@ -3,9 +3,9 @@ title: "Section 2231b - First amendment rights of employees of the United States
 usc_title: 7
 usc_section: "2231b"
 chapter: 55
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 2231b"
-generated_at: "2026-03-30T01:44:55.377Z"
+generated_at: "2026-03-30T01:47:03.701Z"
 ---
 
 # § 2231b. First amendment rights of employees of the United States Department of Agriculture

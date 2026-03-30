@@ -3,9 +3,9 @@ title: "Section 9548 - Appropriate congressional committees defined"
 usc_title: 22
 usc_section: "9548"
 chapter: 102
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 9548"
-generated_at: "2026-03-30T01:45:40.196Z"
+generated_at: "2026-03-30T01:48:20.772Z"
 ---
 
 # § 9548. Appropriate congressional committees defined

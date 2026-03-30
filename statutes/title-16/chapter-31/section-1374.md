@@ -3,9 +3,9 @@ title: "Section 1374 - Permits"
 usc_title: 16
 usc_section: "1374"
 chapter: 31
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 1374"
-generated_at: "2026-03-30T01:45:26.350Z"
+generated_at: "2026-03-30T01:47:59.892Z"
 ---
 
 # § 1374. Permits

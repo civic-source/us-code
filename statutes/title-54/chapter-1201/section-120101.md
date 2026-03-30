@@ -3,9 +3,9 @@ title: "Section 120101 - Definition of National Heritage Area"
 usc_title: 54
 usc_section: "120101"
 chapter: 1201
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "54 U.S.C. § 120101"
-generated_at: "2026-03-30T01:46:36.208Z"
+generated_at: "2026-03-30T01:49:37.329Z"
 ---
 
 # § 120101. Definition of National Heritage Area

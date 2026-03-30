@@ -3,9 +3,9 @@ title: "Section 3907 - Determination of eligibility and project selection"
 usc_title: 33
 usc_section: "3907"
 chapter: 52
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "33 U.S.C. § 3907"
-generated_at: "2026-03-30T01:46:01.149Z"
+generated_at: "2026-03-30T01:49:01.763Z"
 ---
 
 # § 3907. Determination of eligibility and project selection

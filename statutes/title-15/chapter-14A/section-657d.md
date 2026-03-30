@@ -3,9 +3,9 @@ title: "Section 657d - Federal and State Technology Partnership Program"
 usc_title: 15
 usc_section: "657d"
 chapter: 14
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 657d"
-generated_at: "2026-03-30T01:45:14.900Z"
+generated_at: "2026-03-30T01:47:48.149Z"
 ---
 
 # § 657d. Federal and State Technology Partnership Program

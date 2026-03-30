@@ -3,9 +3,9 @@ title: "Section 46502 - Aircraft piracy"
 usc_title: 49
 usc_section: "46502"
 chapter: 465
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "49 U.S.C. § 46502"
-generated_at: "2026-03-30T01:46:33.617Z"
+generated_at: "2026-03-30T01:49:35.460Z"
 ---
 
 # § 46502. Aircraft piracy

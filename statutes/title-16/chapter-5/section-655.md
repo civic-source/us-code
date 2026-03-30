@@ -3,9 +3,9 @@ title: "Section 655 - Agents to be disinterested"
 usc_title: 16
 usc_section: "655"
 chapter: 5
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 655"
-generated_at: "2026-03-30T01:45:26.296Z"
+generated_at: "2026-03-30T01:47:59.840Z"
 ---
 
 # § 655. Agents to be disinterested

@@ -3,9 +3,9 @@ title: "Section 3a - Adjusted gross income limitation"
 usc_title: 7
 usc_section: "3a"
 chapter: 35
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 3a"
-generated_at: "2026-03-30T01:44:55.315Z"
+generated_at: "2026-03-30T01:47:03.622Z"
 ---
 
 # § 1308–3a. Adjusted gross income limitation

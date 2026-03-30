@@ -3,9 +3,9 @@ title: "Section 383 - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674 , 67
 usc_title: 7
 usc_section: "383"
 chapter: 14
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 383"
-generated_at: "2026-03-30T01:44:55.298Z"
+generated_at: "2026-03-30T01:47:03.602Z"
 ---
 
 # §§ 382, 383. Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674 , 675

@@ -3,9 +3,9 @@ title: "Section 903a - Art. 103a. Espionage"
 usc_title: 10
 usc_section: "903a"
 chapter: 47
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 903a"
-generated_at: "2026-03-30T01:45:05.180Z"
+generated_at: "2026-03-30T01:47:12.599Z"
 ---
 
 # § 903a. Art. 103a. Espionage

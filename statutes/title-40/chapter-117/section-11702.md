@@ -3,9 +3,9 @@ title: "Section 11702 - Index of certain information in information systems incl
 usc_title: 40
 usc_section: "11702"
 chapter: 117
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "40 U.S.C. § 11702"
-generated_at: "2026-03-30T01:46:06.336Z"
+generated_at: "2026-03-30T01:49:05.386Z"
 ---
 
 # § 11702. Index of certain information in information systems included in directory established under section 4101 of title 44

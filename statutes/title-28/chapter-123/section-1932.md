@@ -3,9 +3,9 @@ title: "Section 1932 - Revocation of earned release credit"
 usc_title: 28
 usc_section: "1932"
 chapter: 123
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "28 U.S.C. § 1932"
-generated_at: "2026-03-30T01:45:50.239Z"
+generated_at: "2026-03-30T01:48:30.272Z"
 ---
 
 # § 1932. 1 1 Another section 1932 is set out preceding this section. Revocation of earned release credit

@@ -3,9 +3,9 @@ title: "Section 544 - Relanding of goods"
 usc_title: 18
 usc_section: "544"
 chapter: 27
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "18 U.S.C. § 544"
-generated_at: "2026-03-30T01:45:19.057Z"
+generated_at: "2026-03-30T01:47:52.640Z"
 ---
 
 # § 544. Relanding of goods

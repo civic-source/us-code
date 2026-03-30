@@ -3,9 +3,9 @@ title: "Section 435 - Funeral honors duty: allowance"
 usc_title: 37
 usc_section: "435"
 chapter: 7
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "37 U.S.C. § 435"
-generated_at: "2026-03-30T01:46:06.637Z"
+generated_at: "2026-03-30T01:49:03.845Z"
 ---
 
 # § 435. Funeral honors duty: allowance

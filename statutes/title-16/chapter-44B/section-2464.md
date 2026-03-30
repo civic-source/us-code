@@ -3,9 +3,9 @@ title: "Section 2464 - Repealed. Pub. L. 104–227, title II, § 202(b) , Oct. 2
 usc_title: 16
 usc_section: "2464"
 chapter: 44
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 2464"
-generated_at: "2026-03-30T01:45:26.383Z"
+generated_at: "2026-03-30T01:47:59.923Z"
 ---
 
 # § 2464. Repealed. Pub. L. 104–227, title II, § 202(b) , Oct. 2, 1996 , 110 Stat. 3044

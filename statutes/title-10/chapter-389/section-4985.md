@@ -3,9 +3,9 @@ title: "Section 4985 - Reports"
 usc_title: 10
 usc_section: "4985"
 chapter: 389
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 4985"
-generated_at: "2026-03-30T01:45:05.275Z"
+generated_at: "2026-03-30T01:47:12.708Z"
 ---
 
 # § 4985. Reports

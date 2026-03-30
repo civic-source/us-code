@@ -3,9 +3,9 @@ title: "Section 18933 - Software security and authentication"
 usc_title: 42
 usc_section: "18933"
 chapter: 163
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 18933"
-generated_at: "2026-03-30T01:46:25.073Z"
+generated_at: "2026-03-30T01:49:24.229Z"
 ---
 
 # § 18933. Software security and authentication

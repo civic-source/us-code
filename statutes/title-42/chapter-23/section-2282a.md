@@ -3,9 +3,9 @@ title: "Section 2282a - Civil monetary penalties for violation of Department of 
 usc_title: 42
 usc_section: "2282a"
 chapter: 23
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 2282a"
-generated_at: "2026-03-30T01:46:24.697Z"
+generated_at: "2026-03-30T01:49:23.880Z"
 ---
 
 # § 2282a. Civil monetary penalties for violation of Department of Energy safety and whistleblower regulations

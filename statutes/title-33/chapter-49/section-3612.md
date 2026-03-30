@@ -3,9 +3,9 @@ title: "Section 3612 - Accelerating innovation at Cooperative Institutes"
 usc_title: 33
 usc_section: "3612"
 chapter: 49
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "33 U.S.C. § 3612"
-generated_at: "2026-03-30T01:46:01.147Z"
+generated_at: "2026-03-30T01:49:01.760Z"
 ---
 
 # § 3612. Accelerating innovation at Cooperative Institutes

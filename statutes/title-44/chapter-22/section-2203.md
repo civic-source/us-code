@@ -3,9 +3,9 @@ title: "Section 2203 - Management and custody of Presidential records"
 usc_title: 44
 usc_section: "2203"
 chapter: 22
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "44 U.S.C. § 2203"
-generated_at: "2026-03-30T01:46:08.795Z"
+generated_at: "2026-03-30T01:49:08.674Z"
 ---
 
 # § 2203. Management and custody of Presidential records

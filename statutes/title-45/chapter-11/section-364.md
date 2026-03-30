@@ -3,9 +3,9 @@ title: "Section 364 - District of Columbia account, transfer of funds to railroa
 usc_title: 45
 usc_section: "364"
 chapter: 11
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "45 U.S.C. § 364"
-generated_at: "2026-03-30T01:46:09.061Z"
+generated_at: "2026-03-30T01:49:09.212Z"
 ---
 
 # § 364. District of Columbia account, transfer of funds to railroad unemployment insurance account

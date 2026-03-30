@@ -3,9 +3,9 @@ title: "Section 1782 - Centralization in Department of Agriculture of administra
 usc_title: 42
 usc_section: "1782"
 chapter: 13
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 1782"
-generated_at: "2026-03-30T01:46:24.654Z"
+generated_at: "2026-03-30T01:49:23.841Z"
 ---
 
 # § 1782. Centralization in Department of Agriculture of administration of food service programs for children

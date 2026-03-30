@@ -3,9 +3,9 @@ title: "Section 2603 - Uniform settlement statement"
 usc_title: 12
 usc_section: "2603"
 chapter: 27
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "12 U.S.C. § 2603"
-generated_at: "2026-03-30T01:45:12.313Z"
+generated_at: "2026-03-30T01:47:38.000Z"
 ---
 
 # § 2603. Uniform settlement statement

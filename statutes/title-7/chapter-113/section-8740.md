@@ -3,9 +3,9 @@ title: "Section 8740 - Adjustments of loans"
 usc_title: 7
 usc_section: "8740"
 chapter: 113
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 8740"
-generated_at: "2026-03-30T01:44:55.453Z"
+generated_at: "2026-03-30T01:47:03.795Z"
 ---
 
 # § 8740. Adjustments of loans

@@ -3,9 +3,9 @@ title: "Section 90b - Land acquisition; authority of Secretary; manner and place
 usc_title: 16
 usc_section: "90b"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 90b"
-generated_at: "2026-03-30T01:45:26.186Z"
+generated_at: "2026-03-30T01:47:59.730Z"
 ---
 
 # § 90b. Land acquisition; authority of Secretary; manner and place; donation of State lands; transfer to administrative jurisdiction of Secretary; elimination of lands from national forests

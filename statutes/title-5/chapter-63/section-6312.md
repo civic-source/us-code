@@ -3,9 +3,9 @@ title: "Section 6312 - Accrual and accumulation for former ASCS county office an
 usc_title: 5
 usc_section: "6312"
 chapter: 63
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "5 U.S.C. § 6312"
-generated_at: "2026-03-30T01:44:48.962Z"
+generated_at: "2026-03-30T01:46:54.567Z"
 ---
 
 # § 6312. Accrual and accumulation for former ASCS county office and nonappropriated fund employees

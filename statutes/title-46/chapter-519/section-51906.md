@@ -3,9 +3,9 @@ title: "Section 51906 - Special certificates for civilian service to armed force
 usc_title: 46
 usc_section: "51906"
 chapter: 519
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "46 U.S.C. § 51906"
-generated_at: "2026-03-30T01:46:29.573Z"
+generated_at: "2026-03-30T01:49:28.344Z"
 ---
 
 # § 51906. Special certificates for civilian service to armed forces

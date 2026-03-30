@@ -3,9 +3,9 @@ title: "Section 4513b - Prudential management and operations standards"
 usc_title: 12
 usc_section: "4513b"
 chapter: 46
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "12 U.S.C. § 4513b"
-generated_at: "2026-03-30T01:45:12.332Z"
+generated_at: "2026-03-30T01:47:38.018Z"
 ---
 
 # § 4513b. Prudential management and operations standards

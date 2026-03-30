@@ -3,9 +3,9 @@ title: "Section 360ll - Notification of defects in and repair or replacement of 
 usc_title: 21
 usc_section: "360ll"
 chapter: 9
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "21 U.S.C. § 360ll"
-generated_at: "2026-03-30T01:45:30.879Z"
+generated_at: "2026-03-30T01:48:09.885Z"
 ---
 
 # § 360ll. Notification of defects in and repair or replacement of electronic products

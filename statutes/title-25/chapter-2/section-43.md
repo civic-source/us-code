@@ -3,9 +3,9 @@ title: "Section 43 - Persons paid for other services not paid for interpreting"
 usc_title: 25
 usc_section: "43"
 chapter: 2
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "25 U.S.C. § 43"
-generated_at: "2026-03-30T01:45:36.860Z"
+generated_at: "2026-03-30T01:48:06.539Z"
 ---
 
 # § 43. Persons paid for other services not paid for interpreting

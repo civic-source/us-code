@@ -3,9 +3,9 @@ title: "Section 1193 - Pension-linked emergency savings accounts"
 usc_title: 29
 usc_section: "1193"
 chapter: 18
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "29 U.S.C. § 1193"
-generated_at: "2026-03-30T01:45:44.243Z"
+generated_at: "2026-03-30T01:48:31.198Z"
 ---
 
 # § 1193. Pension-linked emergency savings accounts

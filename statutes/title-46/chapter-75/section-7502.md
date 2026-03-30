@@ -3,9 +3,9 @@ title: "Section 7502 - Records"
 usc_title: 46
 usc_section: "7502"
 chapter: 75
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "46 U.S.C. § 7502"
-generated_at: "2026-03-30T01:46:29.550Z"
+generated_at: "2026-03-30T01:49:28.326Z"
 ---
 
 # § 7502. Records

@@ -3,9 +3,9 @@ title: "Section 4c - Expanding access to forensics for victims of interpersonal 
 usc_title: 42
 usc_section: "4c"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 4c"
-generated_at: "2026-03-30T01:46:24.268Z"
+generated_at: "2026-03-30T01:49:23.495Z"
 ---
 
 # § 280g–4c. Expanding access to forensics for victims of interpersonal violence

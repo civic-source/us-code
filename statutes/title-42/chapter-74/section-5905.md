@@ -3,9 +3,9 @@ title: "Section 5905 - Comprehensive planning and programming"
 usc_title: 42
 usc_section: "5905"
 chapter: 74
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 5905"
-generated_at: "2026-03-30T01:46:24.779Z"
+generated_at: "2026-03-30T01:49:23.953Z"
 ---
 
 # § 5905. Comprehensive planning and programming

@@ -3,9 +3,9 @@ title: "Section 2612 - Definitions"
 usc_title: 7
 usc_section: "2612"
 chapter: 58
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 2612"
-generated_at: "2026-03-30T01:44:55.381Z"
+generated_at: "2026-03-30T01:47:03.708Z"
 ---
 
 # § 2612. Definitions

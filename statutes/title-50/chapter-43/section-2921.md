@@ -3,9 +3,9 @@ title: "Section 2921 - Statement of policy"
 usc_title: 50
 usc_section: "2921"
 chapter: 43
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "50 U.S.C. § 2921"
-generated_at: "2026-03-30T01:46:30.984Z"
+generated_at: "2026-03-30T01:49:29.566Z"
 ---
 
 # § 2921. Statement of policy

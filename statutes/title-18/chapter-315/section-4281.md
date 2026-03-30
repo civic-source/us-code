@@ -3,9 +3,9 @@ title: "Section 4281 - Repealed. Pub. L. 98–473, title II, § 218(a)(7) , Oct.
 usc_title: 18
 usc_section: "4281"
 chapter: 315
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "18 U.S.C. § 4281"
-generated_at: "2026-03-30T01:45:19.113Z"
+generated_at: "2026-03-30T01:47:52.694Z"
 ---
 
 # [§ 4281. Repealed. Pub. L. 98–473, title II, § 218(a)(7) , Oct. 12, 1984 , 98 Stat. 2027 ]

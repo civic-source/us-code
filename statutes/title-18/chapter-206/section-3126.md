@@ -3,9 +3,9 @@ title: "Section 3126 - Reports concerning pen registers and trap and trace devic
 usc_title: 18
 usc_section: "3126"
 chapter: 206
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "18 U.S.C. § 3126"
-generated_at: "2026-03-30T01:45:19.098Z"
+generated_at: "2026-03-30T01:47:52.679Z"
 ---
 
 # § 3126. Reports concerning pen registers and trap and trace devices

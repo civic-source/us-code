@@ -3,9 +3,9 @@ title: "Section 3801 - Congressional findings and declaration of purpose"
 usc_title: 7
 usc_section: "3801"
 chapter: 69
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 3801"
-generated_at: "2026-03-30T01:44:55.394Z"
+generated_at: "2026-03-30T01:47:03.723Z"
 ---
 
 # § 3801. Congressional findings and declaration of purpose

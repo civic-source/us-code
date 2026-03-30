@@ -3,9 +3,9 @@ title: "Section 4671 - Imposition of tax"
 usc_title: 26
 usc_section: "4671"
 chapter: 38
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "26 U.S.C. § 4671"
-generated_at: "2026-03-30T01:45:56.070Z"
+generated_at: "2026-03-30T01:48:44.738Z"
 ---
 
 # § 4671. Imposition of tax

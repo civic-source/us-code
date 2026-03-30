@@ -3,9 +3,9 @@ title: "Section 19f - Operational sustainability of small public water systems"
 usc_title: 42
 usc_section: "19f"
 chapter: 6
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 19f"
-generated_at: "2026-03-30T01:46:24.345Z"
+generated_at: "2026-03-30T01:49:23.563Z"
 ---
 
 # § 300j–19f. Operational sustainability of small public water systems

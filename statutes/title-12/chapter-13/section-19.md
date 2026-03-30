@@ -3,9 +3,9 @@ title: "Section 19 - Partial payment of claims on defaulted mortgages and in con
 usc_title: 12
 usc_section: "19"
 chapter: 13
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "12 U.S.C. § 19"
-generated_at: "2026-03-30T01:45:12.258Z"
+generated_at: "2026-03-30T01:47:37.949Z"
 ---
 
 # § 1735f–19. Partial payment of claims on defaulted mortgages and in connection with mortgage restructuring

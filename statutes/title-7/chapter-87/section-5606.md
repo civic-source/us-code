@@ -3,9 +3,9 @@ title: "Section 5606 - Implementation of commitments under Uruguay Round Agreeme
 usc_title: 7
 usc_section: "5606"
 chapter: 87
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "7 U.S.C. § 5606"
-generated_at: "2026-03-30T01:44:55.403Z"
+generated_at: "2026-03-30T01:47:03.733Z"
 ---
 
 # § 5606. Implementation of commitments under Uruguay Round Agreements

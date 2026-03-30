@@ -3,9 +3,9 @@ title: "Section 3006 - Acquisition workforce"
 usc_title: 10
 usc_section: "3006"
 chapter: 201
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 3006"
-generated_at: "2026-03-30T01:45:05.254Z"
+generated_at: "2026-03-30T01:47:12.684Z"
 ---
 
 # § 3006. Acquisition workforce

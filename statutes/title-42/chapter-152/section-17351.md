@@ -3,9 +3,9 @@ title: "Section 17351 - Definitions"
 usc_title: 42
 usc_section: "17351"
 chapter: 152
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 17351"
-generated_at: "2026-03-30T01:46:25.043Z"
+generated_at: "2026-03-30T01:49:24.200Z"
 ---
 
 # § 17351. Definitions

@@ -3,9 +3,9 @@ title: "Section 18648 - Accelerator research and development"
 usc_title: 42
 usc_section: "18648"
 chapter: 161
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 18648"
-generated_at: "2026-03-30T01:46:25.063Z"
+generated_at: "2026-03-30T01:49:24.219Z"
 ---
 
 # § 18648. Accelerator research and development

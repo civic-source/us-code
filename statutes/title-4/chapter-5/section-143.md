@@ -3,9 +3,9 @@ title: "Section 143 - Employment and utilization of other personnel; cost of cop
 usc_title: 4
 usc_section: "143"
 chapter: 5
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "4 U.S.C. § 143"
-generated_at: "2026-03-30T01:44:25.452Z"
+generated_at: "2026-03-30T01:46:51.280Z"
 ---
 
 # § 143. Employment and utilization of other personnel; cost of copy reading and indexing

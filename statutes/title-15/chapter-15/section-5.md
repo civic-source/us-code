@@ -3,9 +3,9 @@ title: "Section 5 - Exemption of Commodity Credit Corporation and its obligation
 usc_title: 15
 usc_section: "5"
 chapter: 15
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T01:45:14.911Z"
+generated_at: "2026-03-30T01:47:48.157Z"
 ---
 
 # § 713a–5. Exemption of Commodity Credit Corporation and its obligations from taxation

@@ -3,9 +3,9 @@ title: "Section 162 - Control; regulations; leases; sale and removal of timber"
 usc_title: 16
 usc_section: "162"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 162"
-generated_at: "2026-03-30T01:45:26.189Z"
+generated_at: "2026-03-30T01:47:59.734Z"
 ---
 
 # § 162. Control; regulations; leases; sale and removal of timber

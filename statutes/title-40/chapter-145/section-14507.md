@@ -3,9 +3,9 @@ title: "Section 14507 - Supplements to federal grant programs"
 usc_title: 40
 usc_section: "14507"
 chapter: 145
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "40 U.S.C. § 14507"
-generated_at: "2026-03-30T01:46:06.338Z"
+generated_at: "2026-03-30T01:49:05.387Z"
 ---
 
 # § 14507. Supplements to federal grant programs

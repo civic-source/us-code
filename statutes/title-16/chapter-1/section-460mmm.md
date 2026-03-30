@@ -3,9 +3,9 @@ title: "Section 460mmm - Findings and purpose"
 usc_title: 16
 usc_section: "460mmm"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 460mmm"
-generated_at: "2026-03-30T01:45:26.264Z"
+generated_at: "2026-03-30T01:47:59.807Z"
 ---
 
 # § 460mmm. Findings and purpose

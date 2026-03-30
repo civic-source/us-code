@@ -3,9 +3,9 @@ title: "Section 1137a - Local law enforcement security training"
 usc_title: 6
 usc_section: "1137a"
 chapter: 4
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "6 U.S.C. § 1137a"
-generated_at: "2026-03-30T01:44:52.334Z"
+generated_at: "2026-03-30T01:47:04.881Z"
 ---
 
 # § 1137a. Local law enforcement security training

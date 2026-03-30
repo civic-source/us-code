@@ -3,9 +3,9 @@ title: "Section 4237 - Termination of authority"
 usc_title: 33
 usc_section: "4237"
 chapter: 55
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "33 U.S.C. § 4237"
-generated_at: "2026-03-30T01:46:01.153Z"
+generated_at: "2026-03-30T01:49:01.766Z"
 ---
 
 # § 4237. Termination of authority

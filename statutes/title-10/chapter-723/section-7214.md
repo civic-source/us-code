@@ -3,9 +3,9 @@ title: "Section 7214 - Corps of Engineers: detail of officers to assist Mayor of
 usc_title: 10
 usc_section: "7214"
 chapter: 723
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 7214"
-generated_at: "2026-03-30T01:45:05.277Z"
+generated_at: "2026-03-30T01:47:12.710Z"
 ---
 
 # § 7214. Corps of Engineers: detail of officers to assist Mayor of District of Columbia

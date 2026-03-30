@@ -3,9 +3,9 @@ title: "Section 667i - Chronic wasting disease research and management program"
 usc_title: 16
 usc_section: "667i"
 chapter: 5
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 667i"
-generated_at: "2026-03-30T01:45:26.298Z"
+generated_at: "2026-03-30T01:47:59.842Z"
 ---
 
 # § 667i. Chronic wasting disease research and management program

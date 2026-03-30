@@ -3,9 +3,9 @@ title: "Section 1058 - Transfers of securities under certain agreements"
 usc_title: 26
 usc_section: "1058"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "26 U.S.C. § 1058"
-generated_at: "2026-03-30T01:45:56.027Z"
+generated_at: "2026-03-30T01:48:44.697Z"
 ---
 
 # § 1058. Transfers of securities under certain agreements

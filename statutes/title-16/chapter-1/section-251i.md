@@ -3,9 +3,9 @@ title: "Section 251i - Land acquisition of privately owned land; report to Congr
 usc_title: 16
 usc_section: "251i"
 chapter: 1
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "16 U.S.C. § 251i"
-generated_at: "2026-03-30T01:45:26.195Z"
+generated_at: "2026-03-30T01:47:59.739Z"
 ---
 
 # § 251i. Land acquisition of privately owned land; report to Congress; condemnation proceedings; compensation

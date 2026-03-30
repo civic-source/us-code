@@ -3,9 +3,9 @@ title: "Section 6902 - Assignment of right, title, and interest in the Union Sta
 usc_title: 40
 usc_section: "6902"
 chapter: 69
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "40 U.S.C. § 6902"
-generated_at: "2026-03-30T01:46:06.333Z"
+generated_at: "2026-03-30T01:49:05.383Z"
 ---
 
 # § 6902. Assignment of right, title, and interest in the Union Station complex to the Secretary of Transportation

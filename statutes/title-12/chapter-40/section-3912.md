@@ -3,9 +3,9 @@ title: "Section 3912 - Repealed. Pub. L. 104–208, div. A, title II, § 2224(c)
 usc_title: 12
 usc_section: "3912"
 chapter: 40
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "12 U.S.C. § 3912"
-generated_at: "2026-03-30T01:45:12.325Z"
+generated_at: "2026-03-30T01:47:38.012Z"
 ---
 
 # § 3912. Repealed. Pub. L. 104–208, div. A, title II, § 2224(c) , Sept. 30, 1996 , 110 Stat. 3009–415

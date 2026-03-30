@@ -3,9 +3,9 @@ title: "Section 2786 - Department of Defense payments by electronic transfers of
 usc_title: 10
 usc_section: "2786"
 chapter: 165
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "10 U.S.C. § 2786"
-generated_at: "2026-03-30T01:45:05.246Z"
+generated_at: "2026-03-30T01:47:12.675Z"
 ---
 
 # § 2786. Department of Defense payments by electronic transfers of funds: exercise of authority for waivers

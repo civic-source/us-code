@@ -3,9 +3,9 @@ title: "Section 1710 - Public-private competition required before conversion to 
 usc_title: 41
 usc_section: "1710"
 chapter: 17
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "41 U.S.C. § 1710"
-generated_at: "2026-03-30T01:46:08.516Z"
+generated_at: "2026-03-30T01:49:08.944Z"
 ---
 
 # § 1710. Public-private competition required before conversion to contractor performance

@@ -3,9 +3,9 @@ title: "Section 47173 - Airport funding of FAA staff"
 usc_title: 49
 usc_section: "47173"
 chapter: 471
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "49 U.S.C. § 47173"
-generated_at: "2026-03-30T01:46:33.626Z"
+generated_at: "2026-03-30T01:49:35.467Z"
 ---
 
 # § 47173. Airport funding of FAA staff

@@ -3,9 +3,9 @@ title: "Section 3385 - Reports and audits"
 usc_title: 22
 usc_section: "3385"
 chapter: 48
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "22 U.S.C. § 3385"
-generated_at: "2026-03-30T01:45:40.120Z"
+generated_at: "2026-03-30T01:48:20.701Z"
 ---
 
 # § 3385. Reports and audits

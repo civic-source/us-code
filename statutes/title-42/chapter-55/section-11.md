@@ -3,9 +3,9 @@ title: "Section 11 - Savings provision"
 usc_title: 42
 usc_section: "11"
 chapter: 55
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T01:46:24.745Z"
+generated_at: "2026-03-30T01:49:23.922Z"
 ---
 
 # § 4370m–11. Savings provision

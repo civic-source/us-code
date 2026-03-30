@@ -3,9 +3,9 @@ title: "Section 10651a - Veteran Treatment Court Program"
 usc_title: 34
 usc_section: "10651a"
 chapter: 101
-current_through: "PL 118-105"
+current_through: "PL 118-106"
 classification: "34 U.S.C. § 10651a"
-generated_at: "2026-03-30T01:45:59.641Z"
+generated_at: "2026-03-30T01:48:50.684Z"
 ---
 
 # § 10651a. Veteran Treatment Court Program
