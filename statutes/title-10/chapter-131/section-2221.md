@@ -3,9 +3,9 @@ title: "Section 2221 - Repealed. Pub. L. 105–261, div. A, title IX , § 906(f)
 usc_title: 10
 usc_section: "2221"
 chapter: 131
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 2221"
-generated_at: "2026-03-30T04:59:28.723Z"
+generated_at: "2026-03-30T05:02:16.340Z"
 status: "repealed"
 ---
 

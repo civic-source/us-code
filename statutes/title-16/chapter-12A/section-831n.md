@@ -3,9 +3,9 @@ title: "Section 831n - Bonds for future construction; amount, terms, and conditi
 usc_title: 16
 usc_section: "831n"
 chapter: 12
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 831n"
-generated_at: "2026-03-30T04:59:58.500Z"
+generated_at: "2026-03-30T05:02:31.649Z"
 status: "active"
 ---
 

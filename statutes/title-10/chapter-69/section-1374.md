@@ -3,9 +3,9 @@ title: "Section 1374 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "1374"
 chapter: 69
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 1374"
-generated_at: "2026-03-30T04:59:28.702Z"
+generated_at: "2026-03-30T05:02:16.318Z"
 status: "repealed"
 ---
 

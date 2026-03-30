@@ -3,9 +3,9 @@ title: "Section 7223 - Acquisition of land for radio stations and for other purp
 usc_title: 10
 usc_section: "7223"
 chapter: 631
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 7223"
-generated_at: "2026-03-30T04:59:28.774Z"
+generated_at: "2026-03-30T05:02:16.395Z"
 status: "active"
 ---
 

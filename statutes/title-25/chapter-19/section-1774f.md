@@ -3,9 +3,9 @@ title: "Section 1774f - Miscellaneous provisions"
 usc_title: 25
 usc_section: "1774f"
 chapter: 19
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "25 U.S.C. § 1774f"
-generated_at: "2026-03-30T05:00:03.059Z"
+generated_at: "2026-03-30T05:02:37.724Z"
 status: "active"
 ---
 

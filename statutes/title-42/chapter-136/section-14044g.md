@@ -3,9 +3,9 @@ title: "Section 14044g - Combat Human Trafficking Act"
 usc_title: 42
 usc_section: "14044g"
 chapter: 136
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 14044g"
-generated_at: "2026-03-30T05:01:45.762Z"
+generated_at: "2026-03-30T05:04:26.095Z"
 status: "active"
 ---
 

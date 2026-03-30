@@ -3,9 +3,9 @@ title: "Section 51b - Licensing samplers; revocation and suspension of license"
 usc_title: 7
 usc_section: "51b"
 chapter: 2
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "7 U.S.C. § 51b"
-generated_at: "2026-03-30T04:59:24.458Z"
+generated_at: "2026-03-30T05:02:12.613Z"
 status: "active"
 ---
 

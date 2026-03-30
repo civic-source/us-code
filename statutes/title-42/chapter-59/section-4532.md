@@ -3,9 +3,9 @@ title: "Section 4532 - Repealed. Pub. L. 98–181, title I [title IV, § 474(e)]
 usc_title: 42
 usc_section: "4532"
 chapter: 59
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 4532"
-generated_at: "2026-03-30T05:01:45.237Z"
+generated_at: "2026-03-30T05:04:25.872Z"
 status: "repealed"
 ---
 

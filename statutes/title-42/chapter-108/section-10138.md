@@ -3,9 +3,9 @@ title: "Section 10138 - Participation of Indian tribes"
 usc_title: 42
 usc_section: "10138"
 chapter: 108
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 10138"
-generated_at: "2026-03-30T05:01:45.393Z"
+generated_at: "2026-03-30T05:04:26.023Z"
 status: "active"
 ---
 

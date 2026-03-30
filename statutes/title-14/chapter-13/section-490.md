@@ -1,13 +1,13 @@
 ---
-title: "Section 490 - Repealed. Pub. L. 88–558, § 7(2) , Aug. 31, 1964 , 78 Stat. 768 ]"
+title: "Section 490 - Repealed. Pub. L. 88–558 , § 7(2), Aug. 31, 1964 , 78 Stat. 768 ]"
 usc_title: 14
 usc_section: "490"
 chapter: 13
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "14 U.S.C. § 490"
-generated_at: "2026-03-30T04:59:31.177Z"
+generated_at: "2026-03-30T05:02:18.514Z"
 status: "repealed"
 ---
 
-# [§ 490. Repealed. Pub. L. 88–558, § 7(2) , Aug. 31, 1964 , 78 Stat. 768 ]
+# [§ 490. Repealed. Pub. L. 88–558 , § 7(2), Aug. 31, 1964 , 78 Stat. 768 ]
 

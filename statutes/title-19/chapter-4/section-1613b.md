@@ -3,9 +3,9 @@ title: "Section 1613b - Customs Forfeiture Fund"
 usc_title: 19
 usc_section: "1613b"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1613b"
-generated_at: "2026-03-30T04:59:42.873Z"
+generated_at: "2026-03-30T05:02:27.140Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(D)** publication of the availability of awards under section 1619 of this title ;
     - **(E)** equipment for any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the conveyance will be used in joint law enforcement operations with the United States Customs Service; and
     - **(F)** payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officers that are incurred in joint law enforcement operations with the United States Customs Service.
-- **(b)** The Commissioner of Customs shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
+- **(b)** The Commissioner of U.S. Customs and Border Protection shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
   - **(1)** equipment for any vessel, vehicle, or aircraft available for official use by the United States Coast Guard to enable the vessel, vehicle, or aircraft to assist in law enforcement functions;
   - **(2)** equipment for any vessel, vehicle, equipment, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the conveyance will be used in joint law enforcement operations with the United States Coast Guard;
   - **(3)** payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officers that are incurred in joint law enforcement operations with the United States Coast Guard; and
@@ -41,7 +41,7 @@ status: "active"
 - **(c)** There shall be deposited into the Fund all forfeited currency and proceeds from forfeiture under any law enforced or administered by the United States Customs Service or the United States Coast Guard and all income from investments made under subsection (d).
 - **(d)** Amounts in the Fund which are not currently needed for the purposes of this section shall be invested in obligations of, or guaranteed by, the United States.
 - **(e)**
-  - **(1)** The Commissioner of Customs shall transmit to the Congress, by no later than February 1 of each fiscal year the following detailed reports:
+  - **(1)** The Commissioner of U.S. Customs and Border Protection shall transmit to the Congress, by no later than February 1 of each fiscal year the following detailed reports:
     - **(A)** a report on—
       - **(i)** the estimated total value of property forfeited under any law enforced or administered by the United States Customs Service or the United States Coast Guard with respect to which funds were not deposited in the Fund during the previous fiscal year, and
       - **(ii)** the estimated total value of all such property transferred to any State or local law enforcement agency;

@@ -3,9 +3,9 @@ title: "Section 4521 - Annual reports by Director"
 usc_title: 12
 usc_section: "4521"
 chapter: 46
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "12 U.S.C. § 4521"
-generated_at: "2026-03-30T04:59:33.638Z"
+generated_at: "2026-03-30T05:02:21.786Z"
 status: "active"
 ---
 

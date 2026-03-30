@@ -3,9 +3,9 @@ title: "Section 4372 - Office of Environmental Quality"
 usc_title: 42
 usc_section: "4372"
 chapter: 56
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 4372"
-generated_at: "2026-03-30T05:01:45.236Z"
+generated_at: "2026-03-30T05:04:25.872Z"
 status: "active"
 ---
 

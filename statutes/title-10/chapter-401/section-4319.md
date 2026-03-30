@@ -3,9 +3,9 @@ title: "Section 4319 - Recruit basic training: separate housing for male and fem
 usc_title: 10
 usc_section: "4319"
 chapter: 401
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 4319"
-generated_at: "2026-03-30T04:59:28.762Z"
+generated_at: "2026-03-30T05:02:16.382Z"
 status: "active"
 ---
 

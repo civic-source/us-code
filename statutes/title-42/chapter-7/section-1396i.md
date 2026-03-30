@@ -3,9 +3,9 @@ title: "Section 1396i - Certification and approval of rural health clinics and i
 usc_title: 42
 usc_section: "1396i"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 1396i"
-generated_at: "2026-03-30T05:01:45.092Z"
+generated_at: "2026-03-30T05:04:25.729Z"
 status: "active"
 ---
 

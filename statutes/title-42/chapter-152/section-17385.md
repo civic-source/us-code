@@ -3,9 +3,9 @@ title: "Section 17385 - Smart grid interoperability framework"
 usc_title: 42
 usc_section: "17385"
 chapter: 152
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 17385"
-generated_at: "2026-03-30T05:01:45.809Z"
+generated_at: "2026-03-30T05:04:26.143Z"
 status: "active"
 ---
 

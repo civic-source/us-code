@@ -3,9 +3,9 @@ title: "Section 22 - Cucamonga Valley water recycling project"
 usc_title: 43
 usc_section: "22"
 chapter: 12
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "43 U.S.C. § 22"
-generated_at: "2026-03-30T05:01:30.801Z"
+generated_at: "2026-03-30T05:03:37.113Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 685 - Repealed. Pub. L. 99–371, title II , § 210(d), formerly
 usc_title: 20
 usc_section: "685"
 chapter: 20
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "20 U.S.C. § 685"
-generated_at: "2026-03-30T04:59:56.101Z"
+generated_at: "2026-03-30T05:02:28.850Z"
 status: "repealed"
 ---
 

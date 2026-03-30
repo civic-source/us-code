@@ -3,9 +3,9 @@ title: "Section 565 - Consent dividends"
 usc_title: 26
 usc_section: "565"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "26 U.S.C. § 565"
-generated_at: "2026-03-30T05:00:47.870Z"
+generated_at: "2026-03-30T05:02:50.875Z"
 status: "active"
 ---
 

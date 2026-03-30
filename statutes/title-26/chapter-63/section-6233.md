@@ -3,9 +3,9 @@ title: "Section 6233 - Extension to entities filing partnership returns, etc."
 usc_title: 26
 usc_section: "6233"
 chapter: 63
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "26 U.S.C. § 6233"
-generated_at: "2026-03-30T05:00:47.992Z"
+generated_at: "2026-03-30T05:02:51.061Z"
 status: "active"
 ---
 

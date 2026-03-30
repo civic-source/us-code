@@ -3,9 +3,9 @@ title: "Section 4708 - J. William Fulbright Foreign Scholarship Board"
 usc_title: 22
 usc_section: "4708"
 chapter: 57
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 4708"
-generated_at: "2026-03-30T05:00:34.905Z"
+generated_at: "2026-03-30T05:02:39.617Z"
 status: "active"
 ---
 

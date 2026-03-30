@@ -3,9 +3,9 @@ title: "Section 3391 - Agriculture"
 usc_title: 19
 usc_section: "3391"
 chapter: 21
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 3391"
-generated_at: "2026-03-30T04:59:42.912Z"
+generated_at: "2026-03-30T05:02:27.176Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
       - **(i)** planted and harvested acreage; and
       - **(ii)** wholesale prices, quality, and grades.
 - **(f)**
-  - **(1)** The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of Customs, a program requiring that end-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
+  - **(1)** The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of U.S. Customs and Border Protection, a program requiring that end-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
     - **(A)** of any wheat that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of wheat that is a product of the United States (referred to in this subsection as “United States-produced wheat”); and
     - **(B)** of any barley that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of barley that is a product of the United States (referred to in this subsection as “United States-produced barley”).
   - **(2)** The Secretary shall prescribe by regulation such requirements regarding the information to be included in end-use certificates as may be necessary and appropriate to carry out this subsection.

@@ -3,9 +3,9 @@ title: "Section 859 - Fee simple to pass in all grants"
 usc_title: 43
 usc_section: "859"
 chapter: 20
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "43 U.S.C. § 859"
-generated_at: "2026-03-30T05:01:30.816Z"
+generated_at: "2026-03-30T05:03:37.127Z"
 status: "active"
 ---
 

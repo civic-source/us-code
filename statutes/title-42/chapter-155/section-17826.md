@@ -3,9 +3,9 @@ title: "Section 17826 - Omitted"
 usc_title: 42
 usc_section: "17826"
 chapter: 155
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 17826"
-generated_at: "2026-03-30T05:01:45.811Z"
+generated_at: "2026-03-30T05:04:26.145Z"
 status: "omitted"
 ---
 

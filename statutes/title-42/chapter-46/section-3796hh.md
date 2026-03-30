@@ -3,9 +3,9 @@ title: "Section 3796hh - Grants"
 usc_title: 42
 usc_section: "3796hh"
 chapter: 46
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 3796hh"
-generated_at: "2026-03-30T05:01:45.221Z"
+generated_at: "2026-03-30T05:04:25.858Z"
 status: "active"
 ---
 

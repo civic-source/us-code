@@ -3,9 +3,9 @@ title: "Section 6389 - Navy Reserve and Marine Corps Reserve; officers: eliminat
 usc_title: 10
 usc_section: "6389"
 chapter: 573
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 6389"
-generated_at: "2026-03-30T04:59:28.771Z"
+generated_at: "2026-03-30T05:02:16.391Z"
 status: "active"
 ---
 

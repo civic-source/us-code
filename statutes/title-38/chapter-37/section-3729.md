@@ -3,9 +3,9 @@ title: "Section 3729 - Loan fee"
 usc_title: 38
 usc_section: "3729"
 chapter: 37
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "38 U.S.C. § 3729"
-generated_at: "2026-03-30T05:01:08.832Z"
+generated_at: "2026-03-30T05:03:18.399Z"
 status: "active"
 ---
 

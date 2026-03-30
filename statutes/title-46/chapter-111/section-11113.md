@@ -3,9 +3,9 @@ title: "Section 11113 - Treatment of abandoned seafarers"
 usc_title: 46
 usc_section: "11113"
 chapter: 111
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "46 U.S.C. § 11113"
-generated_at: "2026-03-30T05:01:49.173Z"
+generated_at: "2026-03-30T05:04:29.130Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
 - **(c)**
   - **(1)** A vessel owner or operator shall reimburse the Fund an amount equal to the total amount paid from the Fund for necessary support of a seafarer, if—
     - **(A)** the vessel owner or operator—
-      - **(i)** during the course of an investigation, reporting, documentation, or adjudication of any matter under this Act that the Coast Guard referred to a United States attorney or the Attorney General, fails to provide necessary support of a seafarer who was paroled into the United States to facilitate the investigation, reporting, documentation, or adjudication; and
+      - **(i)** during the course of an investigation, reporting, documentation, or adjudication of any matter that the Coast Guard referred to a United States attorney or the Attorney General, fails to provide necessary support of a seafarer who was paroled into the United States to facilitate the investigation, reporting, documentation, or adjudication; and
       - **(ii)** subsequently is—
         - **(I)** convicted of a criminal offense related to such matter; or
         - **(II)** required to reimburse the Fund pursuant to a court order or negotiated settlement related to such matter; or

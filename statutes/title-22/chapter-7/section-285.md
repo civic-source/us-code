@@ -3,9 +3,9 @@ title: "Section 285 - Acceptance of membership by United States in Asian Develop
 usc_title: 22
 usc_section: "285"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 285"
-generated_at: "2026-03-30T05:00:34.817Z"
+generated_at: "2026-03-30T05:02:39.536Z"
 status: "active"
 ---
 

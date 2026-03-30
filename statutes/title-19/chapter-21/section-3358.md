@@ -3,9 +3,9 @@ title: "Section 3358 - Price-based snapback for frozen concentrated orange juice
 usc_title: 19
 usc_section: "3358"
 chapter: 21
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 3358"
-generated_at: "2026-03-30T04:59:42.912Z"
+generated_at: "2026-03-30T05:02:27.176Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The Secretary shall determine—
     - **(A)** each period of 5 consecutive business days in which the daily price for frozen concentrated orange juice is less than the trigger price; and
     - **(B)** for each period determined under subparagraph (A), the first period occurring thereafter of 5 consecutive business days in which the daily price for frozen concentrated orange juice is greater than the trigger price.
-  - **(2)** The Secretary shall immediately notify the Commissioner of Customs and publish notice in the Federal Register of any determination under paragraph (1), and the date of such publication shall be the determination date for that determination.
+  - **(2)** The Secretary shall immediately notify the Commissioner of U.S. Customs and Border Protection and publish notice in the Federal Register of any determination under paragraph (1), and the date of such publication shall be the determination date for that determination.
 - **(b)** Whenever after any determination date for a determination under subsection (a)(1)(A), the quantity of Mexican articles of frozen concentrated orange juice that is entered exceeds—
   - **(1)** 264,978,000 liters (single strength equivalent) in any of calendar years 1994 through 2002; or
   - **(2)** 340,560,000 liters (single strength equivalent) in any of calendar years 2003 through 2007;

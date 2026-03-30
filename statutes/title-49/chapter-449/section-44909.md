@@ -3,9 +3,9 @@ title: "Section 44909 - Passenger manifests"
 usc_title: 49
 usc_section: "44909"
 chapter: 449
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "49 U.S.C. § 44909"
-generated_at: "2026-03-30T05:01:52.724Z"
+generated_at: "2026-03-30T05:04:36.853Z"
 status: "active"
 ---
 
@@ -22,14 +22,14 @@ status: "active"
   - **(3)** In carrying out this subsection, the Secretary of Transportation shall consider the necessity and feasibility of requiring air carriers to collect passenger manifest information as a condition for passengers boarding a flight of the carrier.
 - **(b)** The Secretary of Transportation shall consider imposing a requirement on foreign air carriers comparable to that imposed on air carriers under subsection (a)(1) and (2) of this section.
 - **(c)**
-  - **(1)** Not later than 60 days after the date of enactment of the Aviation and Transportation Security Act, each air carrier and foreign air carrier operating a passenger flight in foreign air transportation to the United States shall provide to the Commissioner of Customs by electronic transmission a passenger and crew manifest containing the information specified in paragraph (2). Carriers may use the advanced passenger information system established under section 431 of the Tariff Act of 1930 ( 19 U.S.C. 1431 ) to provide the information required by the preceding sentence.
+  - **(1)** Not later than 60 days after the date of enactment of the Aviation and Transportation Security Act, each air carrier and foreign air carrier operating a passenger flight in foreign air transportation to the United States shall provide to the Commissioner of U.S. Customs and Border Protection by electronic transmission a passenger and crew manifest containing the information specified in paragraph (2). Carriers may use the advanced passenger information system established under section 431 of the Tariff Act of 1930 ( 19 U.S.C. 1431 ) to provide the information required by the preceding sentence.
   - **(2)** A passenger and crew manifest for a flight required under paragraph (1) shall contain the following information:
     - **(A)** The full name of each passenger and crew member.
     - **(B)** The date of birth and citizenship of each passenger and crew member.
     - **(C)** The sex of each passenger and crew member.
     - **(D)** The passport number and country of issuance of each passenger and crew member if required for travel.
     - **(E)** The United States visa number or resident alien card number of each passenger and crew member, as applicable.
-    - **(F)** Such other information as the Under Secretary, in consultation with the Commissioner of Customs, determines is reasonably necessary to ensure aviation safety.
+    - **(F)** Such other information as the Under Secretary, in consultation with the Commissioner of U.S. Customs and Border Protection, determines is reasonably necessary to ensure aviation safety.
   - **(3)** The carriers shall make passenger name record information available to the Customs Service upon request.
   - **(4)** Subject to paragraphs (5) and (6), a passenger and crew manifest required for a flight under paragraph (1) shall be transmitted to the Customs Service in advance of the aircraft landing in the United States in such manner, time, and form as the Customs Service prescribes.
   - **(5)** Upon request, information provided to the Under Secretary or the Customs Service under this subsection may be shared with other Federal agencies for the purpose of protecting national security.

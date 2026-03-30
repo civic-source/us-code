@@ -3,9 +3,9 @@ title: "Section 458 - Magazines, paperbacks, and records returned after the clos
 usc_title: 26
 usc_section: "458"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "26 U.S.C. § 458"
-generated_at: "2026-03-30T05:00:47.858Z"
+generated_at: "2026-03-30T05:02:50.862Z"
 status: "active"
 ---
 

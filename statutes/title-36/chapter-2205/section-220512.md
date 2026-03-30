@@ -3,9 +3,9 @@ title: "Section 220512 - Complete teams"
 usc_title: 36
 usc_section: "220512"
 chapter: 2205
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "36 U.S.C. § 220512"
-generated_at: "2026-03-30T05:01:10.222Z"
+generated_at: "2026-03-30T05:03:24.834Z"
 status: "active"
 ---
 

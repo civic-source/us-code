@@ -3,9 +3,9 @@ title: "Section 5725 - Administrative matters"
 usc_title: 16
 usc_section: "5725"
 chapter: 77
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 5725"
-generated_at: "2026-03-30T04:59:58.587Z"
+generated_at: "2026-03-30T05:02:31.738Z"
 status: "active"
 ---
 

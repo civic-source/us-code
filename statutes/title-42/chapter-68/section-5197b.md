@@ -3,9 +3,9 @@ title: "Section 5197b - Use of existing facilities"
 usc_title: 42
 usc_section: "5197b"
 chapter: 68
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 5197b"
-generated_at: "2026-03-30T05:01:45.254Z"
+generated_at: "2026-03-30T05:04:25.889Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40728A - Recovery of excess firearms, ammunition, and parts gran
 usc_title: 36
 usc_section: "40728A"
 chapter: 407
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "36 U.S.C. § 40728A"
-generated_at: "2026-03-30T05:01:10.205Z"
+generated_at: "2026-03-30T05:03:24.823Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1314 - Judicial proceedings"
 usc_title: 15
 usc_section: "1314"
 chapter: 34
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "15 U.S.C. § 1314"
-generated_at: "2026-03-30T04:59:35.530Z"
+generated_at: "2026-03-30T05:02:23.717Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 130h - Prohibitions on providing certain missile defense informa
 usc_title: 10
 usc_section: "130h"
 chapter: 3
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 130h"
-generated_at: "2026-03-30T04:59:28.662Z"
+generated_at: "2026-03-30T05:02:16.275Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2652 - Restrictions on access to national security laboratories 
 usc_title: 50
 usc_section: "2652"
 chapter: 42
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "50 U.S.C. § 2652"
-generated_at: "2026-03-30T05:01:50.046Z"
+generated_at: "2026-03-30T05:04:33.735Z"
 status: "active"
 ---
 

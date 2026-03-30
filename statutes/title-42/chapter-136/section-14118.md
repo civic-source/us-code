@@ -3,9 +3,9 @@ title: "Section 14118 - Scholarship agreement"
 usc_title: 42
 usc_section: "14118"
 chapter: 136
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 14118"
-generated_at: "2026-03-30T05:01:45.764Z"
+generated_at: "2026-03-30T05:04:26.096Z"
 status: "active"
 ---
 

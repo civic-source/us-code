@@ -3,9 +3,9 @@ title: "Section 292o - Definitions"
 usc_title: 42
 usc_section: "292o"
 chapter: 6
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 292o"
-generated_at: "2026-03-30T05:01:44.889Z"
+generated_at: "2026-03-30T05:04:25.521Z"
 status: "active"
 ---
 

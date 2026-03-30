@@ -3,9 +3,9 @@ title: "Section 2569 - Authorization of appropriations for Humphrey Institute an
 usc_title: 20
 usc_section: "2569"
 chapter: 45
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "20 U.S.C. § 2569"
-generated_at: "2026-03-30T04:59:56.185Z"
+generated_at: "2026-03-30T05:02:28.928Z"
 status: "active"
 ---
 

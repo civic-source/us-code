@@ -3,9 +3,9 @@ title: "Section 1310a - Normal supply of commodity for 1986 through 1995 crops"
 usc_title: 7
 usc_section: "1310a"
 chapter: 35
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "7 U.S.C. § 1310a"
-generated_at: "2026-03-30T04:59:24.499Z"
+generated_at: "2026-03-30T05:02:12.651Z"
 status: "active"
 ---
 

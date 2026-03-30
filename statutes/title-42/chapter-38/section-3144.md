@@ -3,9 +3,9 @@ title: "Section 3144 - Cost sharing"
 usc_title: 42
 usc_section: "3144"
 chapter: 38
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 3144"
-generated_at: "2026-03-30T05:01:45.205Z"
+generated_at: "2026-03-30T05:04:25.842Z"
 status: "active"
 ---
 

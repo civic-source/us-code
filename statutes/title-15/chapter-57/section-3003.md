@@ -3,9 +3,9 @@ title: "Section 3003 - Acceptance of interstate off-track wager"
 usc_title: 15
 usc_section: "3003"
 chapter: 57
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "15 U.S.C. § 3003"
-generated_at: "2026-03-30T04:59:35.577Z"
+generated_at: "2026-03-30T05:02:23.762Z"
 status: "active"
 ---
 

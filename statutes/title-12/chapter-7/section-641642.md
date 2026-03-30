@@ -3,9 +3,9 @@ title: "Section 641642 - Repealed. Pub. L. 92–181, title V, § 5 .26(a), Dec. 
 usc_title: 12
 usc_section: "641642"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "12 U.S.C. § 641642"
-generated_at: "2026-03-30T04:59:33.530Z"
+generated_at: "2026-03-30T05:02:21.676Z"
 status: "repealed"
 ---
 

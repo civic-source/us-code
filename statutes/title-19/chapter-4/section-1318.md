@@ -3,9 +3,9 @@ title: "Section 1318 - Emergencies"
 usc_title: 19
 usc_section: "1318"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1318"
-generated_at: "2026-03-30T04:59:42.860Z"
+generated_at: "2026-03-30T05:02:27.128Z"
 status: "active"
 ---
 
@@ -17,5 +17,5 @@ status: "active"
     - **(A)** Eliminate, consolidate, or relocate any office or port of entry of the Customs Service.
     - **(B)** Modify hours of service, alter services rendered at any location, or reduce the number of employees at any location.
     - **(C)** Take any other action that may be necessary to respond directly to the national emergency or specific threat.
-  - **(2)** Notwithstanding any other provision of law, the Commissioner of Customs, when necessary to respond to a specific threat to human life or national interests, is authorized to close temporarily any Customs office or port of entry or take any other lesser action that may be necessary to respond to the specific threat.
-  - **(3)** The Secretary of the Treasury or the Commissioner of Customs, as the case may be, shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 72 hours after taking any action under paragraph (1) or (2).
+  - **(2)** Notwithstanding any other provision of law, the Commissioner of U.S. Customs and Border Protection, when necessary to respond to a specific threat to human life or national interests, is authorized to close temporarily any Customs office or port of entry or take any other lesser action that may be necessary to respond to the specific threat.
+  - **(3)** The Secretary of the Treasury or the Commissioner of U.S. Customs and Border Protection, as the case may be, shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 72 hours after taking any action under paragraph (1) or (2).

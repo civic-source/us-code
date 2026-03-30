@@ -3,9 +3,9 @@ title: "Section 4917 - Page residence hall and page meal plan"
 usc_title: 2
 usc_section: "4917"
 chapter: 49
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "2 U.S.C. § 4917"
-generated_at: "2026-03-30T04:59:16.786Z"
+generated_at: "2026-03-30T05:02:06.352Z"
 status: "active"
 ---
 

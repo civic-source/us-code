@@ -3,9 +3,9 @@ title: "Section 423d - Amendment of existing water right contracts by Secretary 
 usc_title: 43
 usc_section: "423d"
 chapter: 12
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "43 U.S.C. § 423d"
-generated_at: "2026-03-30T05:01:30.805Z"
+generated_at: "2026-03-30T05:03:37.116Z"
 status: "active"
 ---
 

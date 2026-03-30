@@ -1,13 +1,13 @@
 ---
-title: "Section 1301a - Repealed. Pub. L. 87–456, title III, § 301(a) , May 24, 1962 , 76 Stat. 75"
+title: "Section 1301a - Repealed. Pub. L. 87–456, title III , § 301(a), May 24, 1962 , 76 Stat. 75"
 usc_title: 19
 usc_section: "1301a"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1301a"
-generated_at: "2026-03-30T04:59:42.858Z"
+generated_at: "2026-03-30T05:02:27.126Z"
 status: "repealed"
 ---
 
-# § 1301a. Repealed. Pub. L. 87–456, title III, § 301(a) , May 24, 1962 , 76 Stat. 75
+# § 1301a. Repealed. Pub. L. 87–456, title III , § 301(a), May 24, 1962 , 76 Stat. 75
 

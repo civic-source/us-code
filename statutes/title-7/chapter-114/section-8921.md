@@ -3,9 +3,9 @@ title: "Section 8921 - Research and development of agricultural countermeasures"
 usc_title: 7
 usc_section: "8921"
 chapter: 114
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "7 U.S.C. § 8921"
-generated_at: "2026-03-30T04:59:24.628Z"
+generated_at: "2026-03-30T05:02:12.773Z"
 status: "active"
 ---
 

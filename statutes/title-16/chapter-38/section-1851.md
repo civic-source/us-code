@@ -3,9 +3,9 @@ title: "Section 1851 - National standards for fishery conservation and managemen
 usc_title: 16
 usc_section: "1851"
 chapter: 38
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 1851"
-generated_at: "2026-03-30T04:59:58.543Z"
+generated_at: "2026-03-30T05:02:31.694Z"
 status: "active"
 ---
 

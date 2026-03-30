@@ -3,9 +3,9 @@ title: "Section 405 - Petition for reconsideration; procedure; disposition; time
 usc_title: 47
 usc_section: "405"
 chapter: 5
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "47 U.S.C. § 405"
-generated_at: "2026-03-30T05:01:50.619Z"
+generated_at: "2026-03-30T05:04:31.440Z"
 status: "active"
 ---
 

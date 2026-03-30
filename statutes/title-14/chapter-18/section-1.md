@@ -1,19 +1,17 @@
 ---
-title: "Section 1 - Definitions"
+title: "Section 1 - General authority"
 usc_title: 14
 usc_section: "1"
 chapter: 18
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "14 U.S.C. § 1"
-generated_at: "2026-03-30T04:59:31.180Z"
+generated_at: "2026-03-30T05:02:18.518Z"
 status: "active"
 ---
 
-# § 680. 1 1 Another section 680 has been enacted in chapter 17 of this title. Definitions
+# § 681. 1 1 Another section 681 has been enacted in chapter 17 of this title. General authority
 
-In this chapter:
-
-  - **(1)** The term “construct” means to build, renovate, or improve military family housing and military unaccompanied housing.
-  - **(2)** The term “construction” means building, renovating, or improving military family housing and military unaccompanied housing.
-  - **(3)** The term “military unaccompanied housing” means military housing intended to be occupied by members of the armed forces serving a tour of duty unaccompanied by dependents.
-  - **(4)** The term “United States” includes the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, and the District of Columbia.
+- **(a)** In addition to any other authority providing for the acquisition or construction of military family housing or military unaccompanied housing, the Secretary may acquire or construct the following:
+  - **(1)** Military family housing on or near Coast Guard installations within the United States and its territories and possessions.
+  - **(2)** Military unaccompanied housing on or near such Coast Guard installations.
+- **(b)** No appropriation shall be made to acquire or construct military family housing or military unaccompanied housing under this chapter if that acquisition or construction has not been approved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.

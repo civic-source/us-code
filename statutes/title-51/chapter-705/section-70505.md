@@ -3,9 +3,9 @@ title: "Section 70505 - Lunar outpost"
 usc_title: 51
 usc_section: "70505"
 chapter: 705
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "51 U.S.C. § 70505"
-generated_at: "2026-03-30T05:01:54.815Z"
+generated_at: "2026-03-30T05:04:40.257Z"
 status: "active"
 ---
 

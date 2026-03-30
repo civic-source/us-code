@@ -3,9 +3,9 @@ title: "Section 2319A - Unauthorized fixation of and trafficking in sound record
 usc_title: 18
 usc_section: "2319A"
 chapter: 113
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "18 U.S.C. § 2319A"
-generated_at: "2026-03-30T04:59:41.131Z"
+generated_at: "2026-03-30T05:02:32.701Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1503 - Authorizations for preventing, detecting, analyzing, and 
 usc_title: 6
 usc_section: "1503"
 chapter: 6
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "6 U.S.C. § 1503"
-generated_at: "2026-03-30T04:59:20.353Z"
+generated_at: "2026-03-30T05:02:09.498Z"
 status: "active"
 ---
 
@@ -61,4 +61,4 @@ status: "active"
   - **(2)** Paragraph (1) shall apply only to information that is exchanged or assistance provided in order to assist with—
     - **(A)** facilitating the prevention, investigation, or mitigation of a cybersecurity threat to an information system or information that is stored on, processed by, or transiting an information system; or
     - **(B)** communicating or disclosing a cyber threat indicator to help prevent, investigate, or mitigate the effect of a cybersecurity threat to an information system or information that is stored on, processed by, or transiting an information system.
-- **(f)** The sharing of a cyber threat indicator or defensive measure with a non-Federal entity under this suchapter shall not create a right or benefit to similar information by such non-Federal entity or any other non-Federal entity.
+- **(f)** The sharing of a cyber threat indicator or defensive measure with a non-Federal entity under this subchapter shall not create a right or benefit to similar information by such non-Federal entity or any other non-Federal entity.

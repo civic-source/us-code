@@ -3,9 +3,9 @@ title: "Section 1236 - Penalties for violations of regulations"
 usc_title: 33
 usc_section: "1236"
 chapter: 25
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "33 U.S.C. § 1236"
-generated_at: "2026-03-30T05:00:59.681Z"
+generated_at: "2026-03-30T05:03:14.648Z"
 status: "active"
 ---
 

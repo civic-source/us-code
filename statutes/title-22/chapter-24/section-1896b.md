@@ -3,9 +3,9 @@ title: "Section 1896b - Colombo Plan Council for Technical Cooperation; authoriz
 usc_title: 22
 usc_section: "1896b"
 chapter: 24
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 1896b"
-generated_at: "2026-03-30T05:00:34.839Z"
+generated_at: "2026-03-30T05:02:39.555Z"
 status: "active"
 ---
 

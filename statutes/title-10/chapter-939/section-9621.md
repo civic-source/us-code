@@ -3,9 +3,9 @@ title: "Section 9621 - Subsistence and other supplies: members of armed forces; 
 usc_title: 10
 usc_section: "9621"
 chapter: 939
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 9621"
-generated_at: "2026-03-30T04:59:28.785Z"
+generated_at: "2026-03-30T05:02:16.406Z"
 status: "active"
 ---
 

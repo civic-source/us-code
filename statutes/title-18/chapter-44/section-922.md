@@ -3,9 +3,9 @@ title: "Section 922 - Unlawful acts"
 usc_title: 18
 usc_section: "922"
 chapter: 44
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "18 U.S.C. § 922"
-generated_at: "2026-03-30T04:59:41.109Z"
+generated_at: "2026-03-30T05:02:32.677Z"
 status: "active"
 ---
 
@@ -225,7 +225,7 @@ status: "active"
     - **(A)** for failure to prevent the sale or transfer of a firearm to a person whose receipt or possession of the firearm is unlawful under this section; or
     - **(B)** for preventing such a sale or transfer to a person who may lawfully receive or possess a firearm.
 - **(u)** It shall be unlawful for a person to steal or unlawfully take or carry away from the person or the premises of a person who is licensed to engage in the business of importing, manufacturing, or dealing in firearms, any firearm in the licensee’s business inventory that has been shipped or transported in interstate or foreign commerce.
-- **[(v)** , (w) Repealed. Pub. L. 103–322, title XI, § 110105(2) , Sept. 13, 1994 , 108 Stat. 2000 .]
+- **[(v)** , (w) Repealed. Pub. L. 103–322, title XI , § 110105(2), Sept. 13, 1994 , 108 Stat. 2000 .]
 - **(x)**
   - **(1)** It shall be unlawful for a person to sell, deliver, or otherwise transfer to a person who the transferor knows or has reasonable cause to believe is a juvenile—
     - **(A)** a handgun; or

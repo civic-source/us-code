@@ -3,9 +3,9 @@ title: "Section 2302 - Congressional findings"
 usc_title: 42
 usc_section: "2302"
 chapter: 24
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 2302"
-generated_at: "2026-03-30T05:01:45.187Z"
+generated_at: "2026-03-30T05:04:25.824Z"
 status: "active"
 ---
 

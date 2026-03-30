@@ -1,13 +1,13 @@
 ---
-title: "Section 454 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 642 , 650"
+title: "Section 454 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 642 , 650"
 usc_title: 16
 usc_section: "454"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 454"
-generated_at: "2026-03-30T04:59:58.417Z"
+generated_at: "2026-03-30T05:02:31.562Z"
 status: "repealed"
 ---
 
-# § 454. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 642 , 650
+# § 454. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 642 , 650
 

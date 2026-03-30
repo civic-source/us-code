@@ -3,9 +3,9 @@ title: "Section 246a - Bureau of State Services management fund; establishment; 
 usc_title: 42
 usc_section: "246a"
 chapter: 6
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 246a"
-generated_at: "2026-03-30T05:01:44.830Z"
+generated_at: "2026-03-30T05:04:25.459Z"
 status: "active"
 ---
 

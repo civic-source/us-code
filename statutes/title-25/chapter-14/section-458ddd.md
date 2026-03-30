@@ -3,9 +3,9 @@ title: "Section 458ddd - National Fund for Excellence in American Indian Educati
 usc_title: 25
 usc_section: "458ddd"
 chapter: 14
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "25 U.S.C. § 458ddd"
-generated_at: "2026-03-30T05:00:02.980Z"
+generated_at: "2026-03-30T05:02:37.681Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 2292c - Repealed. Pub. L. 112–74, div. I, title VII, § 7034(l) , Dec. 23, 2011 , 125 Stat. 1216"
+title: "Section 2292c - Repealed. Pub. L. 112–74, div. I, title VII , § 7034(l), Dec. 23, 2011 , 125 Stat. 1216"
 usc_title: 22
 usc_section: "2292c"
 chapter: 32
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 2292c"
-generated_at: "2026-03-30T05:00:34.854Z"
+generated_at: "2026-03-30T05:02:39.570Z"
 status: "repealed"
 ---
 
-# § 2292c. Repealed. Pub. L. 112–74, div. I, title VII, § 7034(l) , Dec. 23, 2011 , 125 Stat. 1216
+# § 2292c. Repealed. Pub. L. 112–74, div. I, title VII , § 7034(l), Dec. 23, 2011 , 125 Stat. 1216
 

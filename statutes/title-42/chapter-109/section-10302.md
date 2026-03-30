@@ -3,9 +3,9 @@ title: "Section 10302 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "10302"
 chapter: 109
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 10302"
-generated_at: "2026-03-30T05:01:45.399Z"
+generated_at: "2026-03-30T05:04:26.028Z"
 status: "active"
 ---
 

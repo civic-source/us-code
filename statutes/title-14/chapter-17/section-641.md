@@ -3,9 +3,9 @@ title: "Section 641 - Disposal of certain material"
 usc_title: 14
 usc_section: "641"
 chapter: 17
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "14 U.S.C. § 641"
-generated_at: "2026-03-30T04:59:31.179Z"
+generated_at: "2026-03-30T05:02:18.516Z"
 status: "active"
 ---
 
@@ -22,5 +22,5 @@ status: "active"
 - **(d)**
   - **(1)** Proceeds from the sale of recyclable materials at a Coast Guard installation shall be credited to funds available for operations and maintenance at that installation in amounts sufficient to cover operations, maintenance, recycling equipment, and overhead costs for processing recyclable materials at the installation.
   - **(2)** If, after funds are credited, a balance remains available to a Coast Guard installation and the installation has a qualified recycling program, not more than 50 percent of that balance may be used at the installation for projects for pollution abatement, energy conservation, and occupational safety and health activities. The cost of the project may not be greater than 50 percent of the amount permissible for a minor construction project.
-  - **(3)** The remaining balance available to a Coast Guard, 1 1 So in original. The comma probably should not appear. installation may be transferred to the Coast Guard Morale, Welfare, and Recreation Program.
+  - **(3)** The remaining balance available to a Coast Guard installation may be transferred to the Coast Guard Morale, Welfare, and Recreation Program.
 - **(e)** If the balance available to the Coast Guard installation under this section at the end of a fiscal year is in excess of $200,000, the amount of that excess shall be deposited in the general fund of the Treasury as offsetting receipts of the Department in which the Coast Guard is operating and ascribed to Coast Guard activities.

@@ -3,9 +3,9 @@ title: "Section 81 - Contracts and agreements with Indian tribes"
 usc_title: 25
 usc_section: "81"
 chapter: 3
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "25 U.S.C. § 81"
-generated_at: "2026-03-30T05:00:02.964Z"
+generated_at: "2026-03-30T05:02:37.666Z"
 status: "active"
 ---
 

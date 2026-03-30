@@ -3,9 +3,9 @@ title: "Section 569 - Mission need statement"
 usc_title: 14
 usc_section: "569"
 chapter: 15
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "14 U.S.C. § 569"
-generated_at: "2026-03-30T04:59:31.178Z"
+generated_at: "2026-03-30T05:02:18.515Z"
 status: "active"
 ---
 
@@ -17,5 +17,5 @@ status: "active"
     - **(A)** identifies current and projected gaps in Coast Guard mission capabilities using mission hour targets;
     - **(B)** explains how each major acquisition program addresses gaps identified under subparagraph (A) if funded at the levels provided for such program in the most recently submitted capital investment plan; and
     - **(C)** describes the missions the Coast Guard will not be able to achieve, by fiscal year, for each gap identified under subparagraph (A).
-  - **(2)** The term “major acquisition program” has the meaning given that term in section 569a(e).
-  - **(3)** The term “capital investment plan” means the plan required under section 663(a)(1).
+  - **(2)** The term “major acquisition program” has the meaning given that term in section 2903.
+  - **(3)** The term “capital investment plan” means the plan required under section 2902(a)(1).

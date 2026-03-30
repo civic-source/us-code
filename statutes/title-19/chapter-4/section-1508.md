@@ -3,9 +3,9 @@ title: "Section 1508 - Recordkeeping"
 usc_title: 19
 usc_section: "1508"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1508"
-generated_at: "2026-03-30T04:59:42.867Z"
+generated_at: "2026-03-30T05:02:27.135Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
 - **(c)** The records required by subsections (a) and (b) shall be kept for such periods of time as the Secretary shall prescribe; except that—
   - **(1)** no period of time for the retention of the records required under subsection (a) or (b)(3) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
   - **(2)** the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
-  - **(3)** records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.
+  - **(3)** records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
 - **(d)** For the purposes of this section and section 1509 of this title , a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless—
   - **(1)** the terms and conditions of the importation are controlled by the person placing the order; or
   - **(2)** technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.

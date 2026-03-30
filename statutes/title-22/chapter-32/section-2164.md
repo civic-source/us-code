@@ -1,13 +1,13 @@
 ---
-title: "Section 2164 - Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oct. 6, 1978 , 92 Stat. 942"
+title: "Section 2164 - Repealed. Pub. L. 95–424, title I , § 102(g)(1)(A), Oct. 6, 1978 , 92 Stat. 942"
 usc_title: 22
 usc_section: "2164"
 chapter: 32
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 2164"
-generated_at: "2026-03-30T05:00:34.847Z"
+generated_at: "2026-03-30T05:02:39.564Z"
 status: "repealed"
 ---
 
-# § 2164. Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oct. 6, 1978 , 92 Stat. 942
+# § 2164. Repealed. Pub. L. 95–424, title I , § 102(g)(1)(A), Oct. 6, 1978 , 92 Stat. 942
 

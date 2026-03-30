@@ -3,15 +3,15 @@ title: "Section 195d - Social media working group"
 usc_title: 6
 usc_section: "195d"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "6 U.S.C. § 195d"
-generated_at: "2026-03-30T04:59:20.329Z"
+generated_at: "2026-03-30T05:02:09.473Z"
 status: "active"
 ---
 
 # § 195d. Social media working group
 
-- **(a)** The Secretary shall establish within the Department a social media working group (in this section referred to as the ‘Group’).
+- **(a)** The Secretary shall establish within the Department a social media working group (in this section referred to as the “Group”).
 - **(b)** In order to enhance the dissemination of information through social media technologies between the Department and appropriate stakeholders and to improve use of social media technologies in support of preparedness, response, and recovery, the Group shall identify, and provide guidance and best practices to the emergency preparedness and response community on, the use of social media technologies before, during, and after a natural disaster or an act of terrorism or other man-made disaster.
 - **(c)**
   - **(1)** Membership of the Group shall be composed of a cross section of subject matter experts from Federal, State, local, tribal, territorial, and nongovernmental organization practitioners, including representatives from the following entities:

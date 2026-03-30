@@ -3,9 +3,9 @@ title: "Section 878 - Definitions"
 usc_title: 30
 usc_section: "878"
 chapter: 22
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "30 U.S.C. § 878"
-generated_at: "2026-03-30T05:00:42.157Z"
+generated_at: "2026-03-30T05:02:41.944Z"
 status: "active"
 ---
 
@@ -32,5 +32,5 @@ For the purpose of this subchapter and subchapter II of this chapter, the term�
 - **(h)** “abandoned areas” means sections, panels, and other areas that are not ventilated and examined in the manner required for working places under section 863 of this title ;
 - **(i)** “permissible” as applied to electric face equipment means all electrically operated equipment taken into or used inby the last open crosscut of an entry or a room of any coal mine the electrical parts of which, including, but not limited to, associated electrical equipment, components, and accessories, are designed, constructed, and installed, in accordance with the specifications of the Secretary, to assure that such equipment will not cause a mine explosion or mine fire, and the other features of which are designed and constructed, in accordance with the specifications of the Secretary, to prevent, to the greatest extent possible, other accidents in the use of such equipment; and the regulations of the Secretary or the Director of the United States Bureau of Mines in effect on the operative date of this subchapter relating to the requirements for investigation, testing, approval, certification, and acceptance of such equipment as permissible shall continue in effect until modified or superseded by the Secretary, except that the Secretary shall provide procedures, including, where feasible, testing, approval, certification, and acceptance in the field by an authorized representative of the Secretary, to facilitate compliance by an operator with the requirements of section 865(a) of this title within the periods prescribed therein;
 - **(j)** “low voltage” means up to and including 660 volts; “medium voltage” means voltages from 661 to 1,000 volts; and “high voltage” means more than 1,000 volts;
-- **(k)** Repealed. Pub. L. 95–164, title II, § 202(b) , Nov. 9, 1977 , 91 Stat. 1317 .
+- **(k)** Repealed. Pub. L. 95–164, title II , § 202(b), Nov. 9, 1977 , 91 Stat. 1317 .
 - **(l)** “coal mine” includes areas of adjoining mines connected underground.

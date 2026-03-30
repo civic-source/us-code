@@ -1,13 +1,13 @@
 ---
-title: "Section 1863 - Repealed. Pub. L. 100–418, title I, § 1501(b)(2) , Aug. 23, 1988 , 102 Stat. 1259"
+title: "Section 1863 - Repealed. Pub. L. 100–418, title I , § 1501(b)(2), Aug. 23, 1988 , 102 Stat. 1259"
 usc_title: 19
 usc_section: "1863"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1863"
-generated_at: "2026-03-30T04:59:42.884Z"
+generated_at: "2026-03-30T05:02:27.151Z"
 status: "repealed"
 ---
 
-# § 1863. Repealed. Pub. L. 100–418, title I, § 1501(b)(2) , Aug. 23, 1988 , 102 Stat. 1259
+# § 1863. Repealed. Pub. L. 100–418, title I , § 1501(b)(2), Aug. 23, 1988 , 102 Stat. 1259
 

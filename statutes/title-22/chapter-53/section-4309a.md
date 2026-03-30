@@ -3,9 +3,9 @@ title: "Section 4309a - United States responsibilities for employees of the Unit
 usc_title: 22
 usc_section: "4309a"
 chapter: 53
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 4309a"
-generated_at: "2026-03-30T05:00:34.903Z"
+generated_at: "2026-03-30T05:02:39.615Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(2)** taking into account paragraph (1) and consistent with the obligation of the United States to facilitate the functioning of the United Nations, the United States has no additional obligation to permit the conduct of any other activities, including nonofficial activities, by such individuals outside of the United Nations Headquarters District.
 - **(b)**
   - **(1)** The conduct of any activities, or the acquisition of any benefits (as defined in section 4301(a)(1) of this title ), outside the United Nations Headquarters District by any individual employed by, or authorized by the United Nations to conduct official business in connection with, that organization or its agencies, or by any person or agency acting on behalf thereof, may be permitted or denied or subject to reasonable regulation, as determined to be in the best interests of the United States and pursuant to this chapter.
-  - **(2)** Repealed. Pub. L. 103–236, title I, § 139(26) , Apr. 30, 1994 , 108 Stat. 399 .
+  - **(2)** Repealed. Pub. L. 103–236, title I , § 139(26), Apr. 30, 1994 , 108 Stat. 399 .
 - **(c)** The Secretary shall report to the Congress—
   - **(1)** not later than 30 days after August 16, 1985 , on the plans of the Secretary for implementing this section; and
   - **(2)** not later than 6 months thereafter, on the actions taken pursuant to those plans.

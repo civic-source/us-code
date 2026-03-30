@@ -3,9 +3,9 @@ title: "Section 707 - Payment upon disapproval of certain court-martial sentence
 usc_title: 10
 usc_section: "707"
 chapter: 40
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 707"
-generated_at: "2026-03-30T04:59:28.679Z"
+generated_at: "2026-03-30T05:02:16.292Z"
 status: "active"
 ---
 

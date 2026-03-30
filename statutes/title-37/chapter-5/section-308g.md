@@ -3,9 +3,9 @@ title: "Section 308g - Special pay: bonus for enlistment in elements of the Read
 usc_title: 37
 usc_section: "308g"
 chapter: 5
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "37 U.S.C. § 308g"
-generated_at: "2026-03-30T05:01:05.265Z"
+generated_at: "2026-03-30T05:03:18.797Z"
 status: "active"
 ---
 

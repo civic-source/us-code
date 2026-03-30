@@ -3,9 +3,9 @@ title: "Section 7713 - Separability"
 usc_title: 15
 usc_section: "7713"
 chapter: 103
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "15 U.S.C. § 7713"
-generated_at: "2026-03-30T04:59:35.612Z"
+generated_at: "2026-03-30T05:02:23.795Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101303 - Medical attention for employees"
 usc_title: 54
 usc_section: "101303"
 chapter: 1013
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "54 U.S.C. § 101303"
-generated_at: "2026-03-30T05:01:54.621Z"
+generated_at: "2026-03-30T05:04:40.060Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2223a - Review"
 usc_title: 15
 usc_section: "2223a"
 chapter: 49
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "15 U.S.C. § 2223a"
-generated_at: "2026-03-30T04:59:35.563Z"
+generated_at: "2026-03-30T05:02:23.749Z"
 status: "active"
 ---
 

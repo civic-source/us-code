@@ -3,9 +3,9 @@ title: "Section 16929 - Immunity for good faith conduct"
 usc_title: 42
 usc_section: "16929"
 chapter: 151
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 16929"
-generated_at: "2026-03-30T05:01:45.797Z"
+generated_at: "2026-03-30T05:04:26.132Z"
 status: "active"
 ---
 

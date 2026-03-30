@@ -3,9 +3,9 @@ title: "Section 6963 - Midshipmen: discharge for deficiency"
 usc_title: 10
 usc_section: "6963"
 chapter: 603
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 6963"
-generated_at: "2026-03-30T04:59:28.772Z"
+generated_at: "2026-03-30T05:02:16.392Z"
 status: "active"
 ---
 

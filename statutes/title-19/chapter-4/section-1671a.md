@@ -3,9 +3,9 @@ title: "Section 1671a - Procedures for initiating a countervailing duty investig
 usc_title: 19
 usc_section: "1671a"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1671a"
-generated_at: "2026-03-30T04:59:42.875Z"
+generated_at: "2026-03-30T05:02:27.142Z"
 status: "active"
 ---
 
@@ -49,4 +49,4 @@ status: "active"
 - **(d)** The administering authority shall—
   - **(1)** notify the Commission immediately of any determination it makes under subsection (a) or (c) of this section, and
   - **(2)** if the determination is affirmative, make available to the Commission such information as it may have relating to the matter under investigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
-- **(e)** If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that the alleged countervailable subsidy is inconsistent with the Subsidies Agreement, the administering authority may request the Commissioner of Customs to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of Customs shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under section 1671d(a) of this title , the investigation is terminated, or the administering authority withdraws the request.
+- **(e)** If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that the alleged countervailable subsidy is inconsistent with the Subsidies Agreement, the administering authority may request the Commissioner of U.S. Customs and Border Protection to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of U.S. Customs and Border Protection shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under section 1671d(a) of this title , the investigation is terminated, or the administering authority withdraws the request.

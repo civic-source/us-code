@@ -3,9 +3,9 @@ title: "Section 1677f - Access to information"
 usc_title: 19
 usc_section: "1677f"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1677f"
-generated_at: "2026-03-30T04:59:42.881Z"
+generated_at: "2026-03-30T05:02:27.148Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(1)**
     - **(A)** Except as provided in subsection (a)(4)(A) and subsection (c), information submitted to the administering authority or the Commission which is designated as proprietary by the person submitting the information shall not be disclosed to any person without the consent of the person submitting the information, other than—
       - **(i)** to an officer or employee of the administering authority or the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted or any review under this subtitle covering the same subject merchandise, or
-      - **(ii)** to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
+      - **(ii)** to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding negligence, gross negligence, or fraud under this subtitle.
     - **(B)** The administering authority and the Commission shall require that information for which proprietary treatment is requested be accompanied by—
       - **(i)** either—
         - **(I)** a non-proprietary summary in sufficient detail to permit a reasonable understanding of the substance of the information submitted in confidence, or

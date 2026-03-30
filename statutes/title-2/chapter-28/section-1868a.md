@@ -3,9 +3,9 @@ title: "Section 1868a - Semiannual report of disbursements"
 usc_title: 2
 usc_section: "1868a"
 chapter: 28
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "2 U.S.C. § 1868a"
-generated_at: "2026-03-30T04:59:16.774Z"
+generated_at: "2026-03-30T05:02:06.340Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1204 - Repealed. Pub. L. 100–690, title I , § 1007(a)(3), Nov
 usc_title: 21
 usc_section: "1204"
 chapter: 17
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "21 U.S.C. § 1204"
-generated_at: "2026-03-30T05:00:02.105Z"
+generated_at: "2026-03-30T05:02:35.820Z"
 status: "repealed"
 ---
 

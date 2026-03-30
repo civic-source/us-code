@@ -3,9 +3,9 @@ title: "Section 1045 - Rollover of gain from qualified small business stock to a
 usc_title: 26
 usc_section: "1045"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "26 U.S.C. § 1045"
-generated_at: "2026-03-30T05:00:47.907Z"
+generated_at: "2026-03-30T05:02:50.983Z"
 status: "active"
 ---
 

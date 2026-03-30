@@ -3,9 +3,9 @@ title: "Section 3338 - Roster of State certified or licensed appraisers; authori
 usc_title: 12
 usc_section: "3338"
 chapter: 34
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "12 U.S.C. § 3338"
-generated_at: "2026-03-30T04:59:33.626Z"
+generated_at: "2026-03-30T05:02:21.773Z"
 status: "active"
 ---
 

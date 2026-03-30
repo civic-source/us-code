@@ -3,9 +3,9 @@ title: "Section 1527a - Economics and Statistics Administration Revolving Fund"
 usc_title: 15
 usc_section: "1527a"
 chapter: 40
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "15 U.S.C. § 1527a"
-generated_at: "2026-03-30T04:59:35.532Z"
+generated_at: "2026-03-30T05:02:23.720Z"
 status: "active"
 ---
 

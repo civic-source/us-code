@@ -3,9 +3,9 @@ title: "Section 1133 - Presumptions relating to certain diseases"
 usc_title: 38
 usc_section: "1133"
 chapter: 11
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "38 U.S.C. § 1133"
-generated_at: "2026-03-30T05:01:08.795Z"
+generated_at: "2026-03-30T05:03:18.375Z"
 status: "active"
 ---
 

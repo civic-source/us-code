@@ -3,9 +3,9 @@ title: "Section 544l - Implementation measures"
 usc_title: 16
 usc_section: "544l"
 chapter: 2
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 544l"
-generated_at: "2026-03-30T04:59:58.464Z"
+generated_at: "2026-03-30T05:02:31.612Z"
 status: "active"
 ---
 

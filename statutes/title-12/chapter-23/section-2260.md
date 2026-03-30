@@ -3,9 +3,9 @@ title: "Section 2260 - Transferred"
 usc_title: 12
 usc_section: "2260"
 chapter: 23
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "12 U.S.C. § 2260"
-generated_at: "2026-03-30T04:59:33.611Z"
+generated_at: "2026-03-30T05:02:21.758Z"
 status: "transferred"
 ---
 

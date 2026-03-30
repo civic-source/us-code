@@ -3,9 +3,9 @@ title: "Section 1729 - Recovery by the United States of the cost of certain care
 usc_title: 38
 usc_section: "1729"
 chapter: 17
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "38 U.S.C. § 1729"
-generated_at: "2026-03-30T05:01:08.802Z"
+generated_at: "2026-03-30T05:03:18.380Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
   - **(1)** may not be denied such care or services by reason of this section; and
   - **(2)** may not be required by reason of this section to make any copayment or deductible payment in order to receive such care.
 - **(f)** No law of any State or of any political subdivision of a State, and no provision of any contract or other agreement, shall operate to prevent recovery or collection by the United States under this section or with respect to care or services furnished under section 1784 of this title .
-- **[(g)** Repealed. Pub. L. 105–33, title VIII, § 8023(b)(4) , Aug. 5, 1997 , 111 Stat. 667 .]
+- **[(g)** Repealed. Pub. L. 105–33, title VIII , § 8023(b)(4), Aug. 5, 1997 , 111 Stat. 667 .]
 - **(h)**
   - **(1)** Subject to paragraph (3) of this subsection, the Secretary shall make available medical records of a veteran described in paragraph (2) of this subsection for inspection and review by representatives of the third party concerned for the sole purposes of permitting the third party to verify—
     - **(A)** that the care or services for which recovery or collection is sought were furnished to the veteran; and

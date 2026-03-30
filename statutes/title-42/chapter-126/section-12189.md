@@ -3,9 +3,9 @@ title: "Section 12189 - Examinations and courses"
 usc_title: 42
 usc_section: "12189"
 chapter: 126
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 12189"
-generated_at: "2026-03-30T05:01:45.716Z"
+generated_at: "2026-03-30T05:04:26.050Z"
 status: "active"
 ---
 

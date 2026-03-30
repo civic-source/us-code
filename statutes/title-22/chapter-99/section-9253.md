@@ -1,0 +1,19 @@
+---
+title: "Section 9253 - Authorization of appropriations"
+usc_title: 22
+usc_section: "9253"
+chapter: 99
+current_through: "PL 114-139"
+classification: "22 U.S.C. § 9253"
+generated_at: "2026-03-30T05:02:39.661Z"
+status: "active"
+---
+
+# § 9253. Authorization of appropriations
+
+- **(a)** There are authorized to be appropriated for each of fiscal years 2017 through 2021—
+  - **(1)** $3,000,000 to carry out section 103 of the North Korea Human Rights Act of 2004 ( 22 U.S.C. 7813 );
+  - **(2)** $3,000,000 to carry out subsections (a), (b), and (c) of section 104 of that Act ( 22 U.S.C. 7814 );
+  - **(3)** $2,000,000 to carry out subsection (d) of such section 104, as add 1 1 So in original. Probably should be “added”. by section 301 of this Act; and
+  - **(4)** $2,000,000 to carry out section 203 of the North Korea Human Rights Act of 2004 ( 22 U.S.C. 7833 ).
+- **(b)** Amounts appropriated for each fiscal year pursuant to subsection (a) shall remain available until expended.

@@ -3,9 +3,9 @@ title: "Section 1856 - Definitions"
 usc_title: 42
 usc_section: "1856"
 chapter: 15
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 1856"
-generated_at: "2026-03-30T05:01:45.153Z"
+generated_at: "2026-03-30T05:04:25.790Z"
 status: "active"
 ---
 

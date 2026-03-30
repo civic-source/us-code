@@ -3,9 +3,9 @@ title: "Section 1861 - Rules and regulations"
 usc_title: 29
 usc_section: "1861"
 chapter: 20
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "29 U.S.C. § 1861"
-generated_at: "2026-03-30T05:00:39.946Z"
+generated_at: "2026-03-30T05:02:57.187Z"
 status: "active"
 ---
 

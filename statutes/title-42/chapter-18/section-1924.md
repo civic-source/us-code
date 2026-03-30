@@ -3,9 +3,9 @@ title: "Section 1924 - Certificate of commendation accompanying awards; limitati
 usc_title: 42
 usc_section: "1924"
 chapter: 18
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 1924"
-generated_at: "2026-03-30T05:01:45.159Z"
+generated_at: "2026-03-30T05:04:25.796Z"
 status: "active"
 ---
 

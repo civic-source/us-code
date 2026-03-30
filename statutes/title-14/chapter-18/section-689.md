@@ -1,13 +1,13 @@
 ---
-title: "Section 689 - Repealed. Pub. L. 111–281, title II, § 221(a)(9) , Oct. 15, 2010 , 124 Stat. 2920 ]"
+title: "Section 689 - Repealed. Pub. L. 111–281, title II , § 221(a)(9), Oct. 15, 2010 , 124 Stat. 2920 ]"
 usc_title: 14
 usc_section: "689"
 chapter: 18
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "14 U.S.C. § 689"
-generated_at: "2026-03-30T04:59:31.180Z"
+generated_at: "2026-03-30T05:02:18.518Z"
 status: "repealed"
 ---
 
-# [§ 689. Repealed. Pub. L. 111–281, title II, § 221(a)(9) , Oct. 15, 2010 , 124 Stat. 2920 ]
+# [§ 689. Repealed. Pub. L. 111–281, title II , § 221(a)(9), Oct. 15, 2010 , 124 Stat. 2920 ]
 

@@ -3,9 +3,9 @@ title: "Section 2901 - Purposes"
 usc_title: 33
 usc_section: "2901"
 chapter: 42
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "33 U.S.C. § 2901"
-generated_at: "2026-03-30T05:00:59.728Z"
+generated_at: "2026-03-30T05:03:14.685Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 121a - Repealed. Pub. L. 96–553, § 1(b) , Dec. 19, 1980 , 94 Stat. 3255"
+title: "Section 121a - Repealed. Pub. L. 96–553 , § 1(b), Dec. 19, 1980 , 94 Stat. 3255"
 usc_title: 16
 usc_section: "121a"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 121a"
-generated_at: "2026-03-30T04:59:58.373Z"
+generated_at: "2026-03-30T05:02:31.514Z"
 status: "repealed"
 ---
 
-# § 121a. Repealed. Pub. L. 96–553, § 1(b) , Dec. 19, 1980 , 94 Stat. 3255
+# § 121a. Repealed. Pub. L. 96–553 , § 1(b), Dec. 19, 1980 , 94 Stat. 3255
 

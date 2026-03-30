@@ -3,9 +3,9 @@ title: "Section 7472 - Physical examination: employees engaged in hazardous occu
 usc_title: 10
 usc_section: "7472"
 chapter: 643
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 7472"
-generated_at: "2026-03-30T04:59:28.776Z"
+generated_at: "2026-03-30T05:02:16.397Z"
 status: "active"
 ---
 

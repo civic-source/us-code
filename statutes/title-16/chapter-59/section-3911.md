@@ -1,13 +1,13 @@
 ---
-title: "Section 3911 - Repealed. Pub. L. 108–447, div. J, title VIII, § 813(c) , Dec. 8, 2004 , 118 Stat. 3390"
+title: "Section 3911 - Repealed. Pub. L. 108–447, div. J, title VIII , § 813(c), Dec. 8, 2004 , 118 Stat. 3390"
 usc_title: 16
 usc_section: "3911"
 chapter: 59
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 3911"
-generated_at: "2026-03-30T04:59:58.575Z"
+generated_at: "2026-03-30T05:02:31.727Z"
 status: "repealed"
 ---
 
-# § 3911. Repealed. Pub. L. 108–447, div. J, title VIII, § 813(c) , Dec. 8, 2004 , 118 Stat. 3390
+# § 3911. Repealed. Pub. L. 108–447, div. J, title VIII , § 813(c), Dec. 8, 2004 , 118 Stat. 3390
 

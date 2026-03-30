@@ -3,9 +3,9 @@ title: "Section 3303 - Repealed. Pub. L. 96–513, title II , § 204, Dec. 12, 1
 usc_title: 10
 usc_section: "3303"
 chapter: 335
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 3303"
-generated_at: "2026-03-30T04:59:28.760Z"
+generated_at: "2026-03-30T05:02:16.379Z"
 status: "repealed"
 ---
 

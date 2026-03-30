@@ -3,9 +3,9 @@ title: "Section 4604 - National security controls"
 usc_title: 50
 usc_section: "4604"
 chapter: 56
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "50 U.S.C. § 4604"
-generated_at: "2026-03-30T05:01:50.082Z"
+generated_at: "2026-03-30T05:04:33.769Z"
 status: "active"
 ---
 
@@ -169,7 +169,7 @@ status: "active"
   - **(1)** are essential to the functioning of the good,
   - **(2)** are customarily included in sales of the good in countries other than controlled countries, and
   - **(3)** comprise 25 percent or less of the total value of the good,
-- **(n)** The Secretary and the Commissioner of Customs, consistent with their authorities under section 4614(a) of this title , and in consultation with the Director of the Federal Bureau of Investigation, shall provide advice and technical assistance to persons engaged in the manufacture or handling of goods or technology subject to export controls under this section to develop security systems to prevent violations or evasions of those export controls.
+- **(n)** The Secretary and the Commissioner of U.S. Customs and Border Protection, consistent with their authorities under section 4614(a) of this title , and in consultation with the Director of the Federal Bureau of Investigation, shall provide advice and technical assistance to persons engaged in the manufacture or handling of goods or technology subject to export controls under this section to develop security systems to prevent violations or evasions of those export controls.
 - **(o)** The Secretary, the Secretary of Defense, and any other department or agency consulted in connection with a license application under this chapter or a revision of a list of goods or technology subject to export controls under this chapter, shall make and keep records of their respective advice, recommendations, or decisions in connection with any such license application or revision, including the factual and analytical basis of the advice, recommendations, or decisions.
 - **(p)** To assist in carrying out the policy and other authorities and responsibilities of the Secretary of Defense under this section, there is established in the Department of Defense a National Security Control Office under the direction of the Under Secretary of Defense for Policy. The Secretary of Defense may delegate to that office such of those authorities and responsibilities, together with such ancillary functions, as the Secretary of Defense considers appropriate.
 - **(q)** This section does not authorize export controls on agricultural commodities, including fats, oils, and animal hides and skins.

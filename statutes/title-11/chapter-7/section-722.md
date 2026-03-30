@@ -3,9 +3,9 @@ title: "Section 722 - Redemption"
 usc_title: 11
 usc_section: "722"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "11 U.S.C. § 722"
-generated_at: "2026-03-30T04:59:30.987Z"
+generated_at: "2026-03-30T05:02:18.901Z"
 status: "active"
 ---
 

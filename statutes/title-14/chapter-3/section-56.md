@@ -3,9 +3,9 @@ title: "Section 56 - Chief Acquisition Officer"
 usc_title: 14
 usc_section: "56"
 chapter: 3
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "14 U.S.C. § 56"
-generated_at: "2026-03-30T04:59:31.174Z"
+generated_at: "2026-03-30T05:02:18.512Z"
 status: "active"
 ---
 

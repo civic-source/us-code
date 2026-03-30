@@ -3,9 +3,9 @@ title: "Section 13726b - Federal regulation of prisoner transport companies"
 usc_title: 42
 usc_section: "13726b"
 chapter: 136
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 13726b"
-generated_at: "2026-03-30T05:01:45.753Z"
+generated_at: "2026-03-30T05:04:26.086Z"
 status: "active"
 ---
 

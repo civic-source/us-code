@@ -3,9 +3,9 @@ title: "Section 831w - Acquisition of real or personal property; payment by deli
 usc_title: 16
 usc_section: "831w"
 chapter: 12
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 831w"
-generated_at: "2026-03-30T04:59:58.501Z"
+generated_at: "2026-03-30T05:02:31.650Z"
 status: "active"
 ---
 

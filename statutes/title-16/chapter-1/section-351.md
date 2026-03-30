@@ -3,9 +3,9 @@ title: "Section 351 - Control; rules and regulations"
 usc_title: 16
 usc_section: "351"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 351"
-generated_at: "2026-03-30T04:59:58.383Z"
+generated_at: "2026-03-30T05:02:31.525Z"
 status: "active"
 ---
 

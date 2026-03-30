@@ -3,9 +3,9 @@ title: "Section 2302c - Implementation of electronic commerce capability"
 usc_title: 10
 usc_section: "2302c"
 chapter: 137
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 2302c"
-generated_at: "2026-03-30T04:59:28.726Z"
+generated_at: "2026-03-30T05:02:16.343Z"
 status: "active"
 ---
 

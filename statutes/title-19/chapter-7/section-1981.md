@@ -3,9 +3,9 @@ title: "Section 1981 - General authority"
 usc_title: 19
 usc_section: "1981"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1981"
-generated_at: "2026-03-30T04:59:42.885Z"
+generated_at: "2026-03-30T05:02:27.151Z"
 status: "active"
 ---
 
@@ -25,11 +25,11 @@ status: "active"
   - **(1)** Any increase in, or imposition of, any duty or other import restriction proclaimed pursuant to this section or section 7 of the Trade Agreements Extension Act of 1951—
     - **(A)** may be reduced or terminated by the President when he determines, after taking into account the advice received from the United States International Trade Commission under subsection (d)(2) and after seeking advice of the Secretary of Commerce and the Secretary of Labor, that such reduction or termination is in the national interest, and
     - **(B)** unless extended under section 2253 of this title , shall terminate not later than the close of the date which is 4 years (or, in the case of any such increase or imposition proclaimed pursuant to such section 7, 5 years) after the effective date of the initial proclamation or October 11, 1962 , whichever date is the later.
-  - **(2)** Repealed. Pub. L. 93–618, title VI, § 602(d) , Jan. 3, 1975 , 88 Stat. 2072 .
+  - **(2)** Repealed. Pub. L. 93–618, title VI , § 602(d), Jan. 3, 1975 , 88 Stat. 2072 .
 - **(d)**
   - **(1)** So long as any increase in, or imposition of, any duty or other import restriction pursuant to this section or pursuant to section 7 of the Trade Agreements Extension Act of 1951 remains in effect, the United States International Trade Commission shall keep under review developments with respect to the industry concerned, and shall make annual reports to the President concerning such developments.
   - **(2)** Upon request of the President or upon its own motion, the United States International Trade Commission shall advise the President of its judgment as to the probable economic effect on the industry concerned of the reduction or termination of the increase in, or imposition of, any duty or other import restriction pursuant to this section or section 7 of the Trade Agreements Extension Act of 1951.
-  - **(3)** Repealed. Pub. L. 93–618, title VI, § 602(d) , Jan. 3, 1975 , 88 Stat. 2072 .
+  - **(3)** Repealed. Pub. L. 93–618, title VI , § 602(d), Jan. 3, 1975 , 88 Stat. 2072 .
   - **(4)** In advising the President under this subsection as to the probable economic effect on the industry concerned, the United States International Trade Commission shall take into account all economic factors which it considers relevant, including idling of productive facilities, inability to operate at a level of reasonable profit, and unemployment or underemployment.
   - **(5)** Advice by the United States International Trade Commission under this subsection shall be given on the basis of an investigation during the course of which the United States International Trade Commission shall hold a hearing at which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard.
 - **(e)** The President, as soon as practicable, shall take such action as he determines to be necessary to bring trade agreements entered into under section 1351 of this title into conformity with the provisions of this section. No trade agreement shall be entered into under section 1821(a) of this title unless such agreement permits action in conformity with the provisions of this section.

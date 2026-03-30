@@ -3,9 +3,9 @@ title: "Section 1774g - Limitation of action"
 usc_title: 25
 usc_section: "1774g"
 chapter: 19
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "25 U.S.C. § 1774g"
-generated_at: "2026-03-30T05:00:03.059Z"
+generated_at: "2026-03-30T05:02:37.724Z"
 status: "active"
 ---
 

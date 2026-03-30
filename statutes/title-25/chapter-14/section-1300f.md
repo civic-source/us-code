@@ -3,9 +3,9 @@ title: "Section 1300f - Status of Pascua Yaqui Indian people"
 usc_title: 25
 usc_section: "1300f"
 chapter: 14
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "25 U.S.C. § 1300f"
-generated_at: "2026-03-30T05:00:03.040Z"
+generated_at: "2026-03-30T05:02:37.705Z"
 status: "active"
 ---
 

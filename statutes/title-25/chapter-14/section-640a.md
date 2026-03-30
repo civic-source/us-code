@@ -3,9 +3,9 @@ title: "Section 640a - Diné College; purpose"
 usc_title: 25
 usc_section: "640a"
 chapter: 14
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "25 U.S.C. § 640a"
-generated_at: "2026-03-30T05:00:02.986Z"
+generated_at: "2026-03-30T05:02:37.688Z"
 status: "active"
 ---
 

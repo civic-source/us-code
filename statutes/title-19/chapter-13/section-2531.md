@@ -3,9 +3,9 @@ title: "Section 2531 - Certain standards-related activities"
 usc_title: 19
 usc_section: "2531"
 chapter: 13
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 2531"
-generated_at: "2026-03-30T04:59:42.901Z"
+generated_at: "2026-03-30T05:02:27.166Z"
 status: "active"
 ---
 

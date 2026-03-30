@@ -3,9 +3,9 @@ title: "Section 1605 - General exceptions to the jurisdictional immunity of a fo
 usc_title: 28
 usc_section: "1605"
 chapter: 97
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "28 U.S.C. § 1605"
-generated_at: "2026-03-30T05:00:51.997Z"
+generated_at: "2026-03-30T05:03:05.915Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(2)** notice to the foreign state of the commencement of suit as provided in section 1608 of this title is initiated within ten days either of the delivery of notice as provided in paragraph (1) of this subsection or, in the case of a party who was unaware that the vessel or cargo of a foreign state was involved, of the date such party determined the existence of the foreign state’s interest.
 - **(c)** Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privately owned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritime jurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
 - **(d)** A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in section 31301 of title 46 . Such action shall be brought, heard, and determined in accordance with the provisions of chapter 313 of title 46 and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
-- **[(e)** , (f) Repealed. Pub. L. 110–181, div. A, title X, § 1083(b)(1)(B) , Jan. 28, 2008 , 122 Stat. 341 .]
+- **[(e)** , (f) Repealed. Pub. L. 110–181, div. A, title X , § 1083(b)(1)(B), Jan. 28, 2008 , 122 Stat. 341 .]
 - **(g)**
   - **(1)**
     - **(A)** Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.

@@ -3,9 +3,9 @@ title: "Section 4204 - Notice, consultations, and reports"
 usc_title: 19
 usc_section: "4204"
 chapter: 27
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 4204"
-generated_at: "2026-03-30T04:59:42.924Z"
+generated_at: "2026-03-30T05:02:27.187Z"
 status: "active"
 ---
 
@@ -48,12 +48,12 @@ status: "active"
   - **(3)**
     - **(A)** The President, not less than 180 calendar days before the day on which the President enters into a trade agreement under section 4202(b) of this title , shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
       - **(i)** the range of proposals advanced in the negotiations with respect to that agreement, that may be in the final agreement, and that could require amendments to title VII of the Tariff Act of 1930 ( 19 U.S.C. 1671 et seq.) or to chapter 1 of title II of the Trade Act of 1974 ( 19 U.S.C. 2251 et seq.); and
-      - **(ii)** how these proposals relate to the objectives described in section 4201(b)(16) of this title .
+      - **(ii)** how these proposals relate to the objectives described in section 4201(b)(17) of this title .
     - **(B)**
       - **(i)** At any time after the transmission of the report under subparagraph (A), if a resolution is introduced with respect to that report in either House of Congress, the procedures set forth in clauses (iii) through (vii) shall apply to that resolution if—
         - **(I)** no other resolution with respect to that report has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
         - **(II)** no procedural disapproval resolution under section 4205(b) of this title introduced with respect to a trade agreement entered into pursuant to the negotiations to which the report under subparagraph (A) relates has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be.
-      - **(ii)** For purposes of this subparagraph, the term “resolution” means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: “That the ____ finds that the proposed changes to United States trade remedy laws contained in the report of the President transmitted to Congress on ____ under section 105(b)(3) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 with respect to ____, are inconsistent with the negotiating objectives described in section 102(b)(16) of that Act.”, with the first blank space being filled with the name of the resolving House of Congress, the second blank space being filled with the appropriate date of the report, and the third blank space being filled with the name of the country or countries involved.
+      - **(ii)** For purposes of this subparagraph, the term “resolution” means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: “That the ____ finds that the proposed changes to United States trade remedy laws contained in the report of the President transmitted to Congress on ____ under section 105(b)(3) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 with respect to ____, are inconsistent with the negotiating objectives described in section 102(b)(17) of that Act.”, with the first blank space being filled with the name of the resolving House of Congress, the second blank space being filled with the appropriate date of the report, and the third blank space being filled with the name of the country or countries involved.
       - **(iii)** Resolutions in the House of Representatives—
         - **(I)** may be introduced by any Member of the House;
         - **(II)** shall be referred to the Committee on Ways and Means and, in addition, to the Committee on Rules; and

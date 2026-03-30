@@ -3,9 +3,9 @@ title: "Section 8638 - Repealed. Pub. L. 85–861 , § 36B(27), Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "8638"
 chapter: 849
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 8638"
-generated_at: "2026-03-30T04:59:28.780Z"
+generated_at: "2026-03-30T05:02:16.401Z"
 status: "repealed"
 ---
 

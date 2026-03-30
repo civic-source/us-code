@@ -3,9 +3,9 @@ title: "Section 3952 - Protection under installment contracts for purchase or le
 usc_title: 50
 usc_section: "3952"
 chapter: 50
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "50 U.S.C. § 3952"
-generated_at: "2026-03-30T05:01:50.069Z"
+generated_at: "2026-03-30T05:04:33.757Z"
 status: "active"
 ---
 

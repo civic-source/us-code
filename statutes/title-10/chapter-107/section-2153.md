@@ -3,9 +3,9 @@ title: "Section 2153 - Capstone course: newly selected general and flag officers
 usc_title: 10
 usc_section: "2153"
 chapter: 107
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 2153"
-generated_at: "2026-03-30T04:59:28.719Z"
+generated_at: "2026-03-30T05:02:16.336Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1244 - Omitted"
 usc_title: 20
 usc_section: "1244"
 chapter: 32
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "20 U.S.C. § 1244"
-generated_at: "2026-03-30T04:59:56.167Z"
+generated_at: "2026-03-30T05:02:28.912Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1506 - Oversight of government activities"
 usc_title: 6
 usc_section: "1506"
 chapter: 6
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "6 U.S.C. § 1506"
-generated_at: "2026-03-30T04:59:20.353Z"
+generated_at: "2026-03-30T05:02:09.499Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
     - **(D)** An assessment of the cyber threat indicators or defensive measures shared with the appropriate Federal entities under this subchapter, including the following:
       - **(i)** The number of cyber threat indicators or defensive measures shared through the capability and process developed under section 1504(c) of this title .
       - **(ii)** An assessment of any information not directly related to a cybersecurity threat that is personal information of a specific individual or information identifying a specific individual and was shared by a non-Federal government entity with the Federal government in contravention of this subchapter, or was shared within the Federal Government in contravention of the guidelines required by this subchapter, including a description of any significant violation of this subchapter.
-      - **(iii)** The number of times, according to the Attorney General, that information shared under this title was used by a Federal entity to prosecute an offense listed in section 1504(d)(5)(A) of this title .
+      - **(iii)** The number of times, according to the Attorney General, that information shared under this subchapter was used by a Federal entity to prosecute an offense listed in section 1504(d)(5)(A) of this title .
       - **(iv)** A quantitative and qualitative assessment of the effect of the sharing of cyber threat indicators or defensive measures with the Federal Government on privacy and civil liberties of specific individuals, including the number of notices that were issued with respect to a failure to remove information not directly related to a cybersecurity threat that was personal information of a specific individual or information that identified a specific individual in accordance with the procedures required by section 1504(b)(3)(E) of this title .
       - **(v)** The adequacy of any steps taken by the Federal Government to reduce any adverse effect from activities carried out under this subchapter on the privacy and civil liberties of United States persons.
     - **(E)** An assessment of the sharing of cyber threat indicators or defensive measures among Federal entities to identify inappropriate barriers to sharing information.

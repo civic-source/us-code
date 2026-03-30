@@ -3,9 +3,9 @@ title: "Section 230101 - Organization"
 usc_title: 36
 usc_section: "230101"
 chapter: 2301
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "36 U.S.C. § 230101"
-generated_at: "2026-03-30T05:01:10.223Z"
+generated_at: "2026-03-30T05:03:24.834Z"
 status: "active"
 ---
 

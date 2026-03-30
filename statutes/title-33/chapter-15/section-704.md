@@ -3,9 +3,9 @@ title: "Section 704 - Modification of project"
 usc_title: 33
 usc_section: "704"
 chapter: 15
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "33 U.S.C. § 704"
-generated_at: "2026-03-30T05:00:59.670Z"
+generated_at: "2026-03-30T05:03:14.639Z"
 status: "active"
 ---
 

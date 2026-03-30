@@ -3,9 +3,9 @@ title: "Section 4d - Repealed. Pub. L. 109–416 , § 3(b)(1)–(3), Dec. 19, 20
 usc_title: 42
 usc_section: "4d"
 chapter: 6
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 4d"
-generated_at: "2026-03-30T05:01:44.833Z"
+generated_at: "2026-03-30T05:04:25.460Z"
 status: "repealed"
 ---
 

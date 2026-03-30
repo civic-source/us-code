@@ -3,9 +3,9 @@ title: "Section 3956 - Termination of telephone service contracts"
 usc_title: 50
 usc_section: "3956"
 chapter: 50
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "50 U.S.C. § 3956"
-generated_at: "2026-03-30T05:01:50.070Z"
+generated_at: "2026-03-30T05:04:33.757Z"
 status: "active"
 ---
 

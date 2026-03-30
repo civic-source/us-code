@@ -3,9 +3,9 @@ title: "Section 6651 - Failure to file tax return or to pay tax"
 usc_title: 26
 usc_section: "6651"
 chapter: 68
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "26 U.S.C. § 6651"
-generated_at: "2026-03-30T05:00:48.002Z"
+generated_at: "2026-03-30T05:02:51.071Z"
 status: "active"
 ---
 
@@ -36,5 +36,5 @@ status: "active"
   - **(2)** such return shall be treated as the return filed by the taxpayer for purposes of determining the amount of the addition under paragraphs (2) and (3) of subsection (a).
 - **(h)** In the case of an individual who files a return of tax on or before the due date for the return (including extensions), paragraphs (2) and (3) of subsection (a) shall each be applied by substituting “0.25” for “0.5” each place it appears for purposes of determining the addition to tax for any month during which an installment agreement under section 6159 is in effect for the payment of such tax.
 - **(i)**
-  - **(1)** In the case of any return required to be filed in a calendar year beginning after 2014, the $135 dollar amount under subsection (a) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(1)** In the case of any return required to be filed in a calendar year beginning after 2014, the $205 dollar amount under subsection (a) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
   - **(2)** If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.

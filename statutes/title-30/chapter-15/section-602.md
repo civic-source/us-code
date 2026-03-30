@@ -3,9 +3,9 @@ title: "Section 602 - Bidding; advertising and other notice; conditions for nego
 usc_title: 30
 usc_section: "602"
 chapter: 15
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "30 U.S.C. § 602"
-generated_at: "2026-03-30T05:00:42.150Z"
+generated_at: "2026-03-30T05:02:41.939Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
   - **(1)** the contract is for the sale of less than two hundred fifty thousand board-feet of timber; or, if
   - **(2)** the contract is for the disposal of materials to be used in connection with a public works improvement program on behalf of a Federal, State or local governmental agency and the public exigency will not permit the delay incident to advertising; or, if
   - **(3)** the contract is for the disposal of property for which it is impracticable to obtain competition.
-- **(b)** Repealed. Pub. L. 96–470, title I, § 102(a) , Oct. 19, 1980 , 94 Stat. 2237 .
+- **(b)** Repealed. Pub. L. 96–470, title I , § 102(a), Oct. 19, 1980 , 94 Stat. 2237 .

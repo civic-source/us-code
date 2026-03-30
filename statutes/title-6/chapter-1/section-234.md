@@ -3,13 +3,13 @@ title: "Section 234 - Preservation of Transportation Security Administration as 
 usc_title: 6
 usc_section: "234"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "6 U.S.C. § 234"
-generated_at: "2026-03-30T04:59:20.329Z"
+generated_at: "2026-03-30T05:02:09.475Z"
 status: "active"
 ---
 
 # § 234. Preservation of Transportation Security Administration as a distinct entity
 
-- **(a)** Notwithstanding any other provision of this chapter, and subject to subsection (b), the Transportation Security Administration shall be maintained as a distinct entity within the Department under the Under Secretary for Border Transportation and Security.
-- **(b)** Subsection (a) shall cease to apply 2 years after November 25, 2002 .
+Notwithstanding any other provision of this chapter, the Transportation Security Administration shall be maintained as a distinct entity within the Department.
+

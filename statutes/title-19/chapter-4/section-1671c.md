@@ -3,9 +3,9 @@ title: "Section 1671c - Termination or suspension of investigation"
 usc_title: 19
 usc_section: "1671c"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1671c"
-generated_at: "2026-03-30T04:59:42.876Z"
+generated_at: "2026-03-30T05:02:27.143Z"
 status: "active"
 ---
 
@@ -85,7 +85,7 @@ status: "active"
       - **(ii)** the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement, or under an agreement which no longer meets the requirements of subsections (b) and (d) or (c) and (d), was first entered, or withdrawn from warehouse, for consumption,
     - **(B)** if the investigation was not completed, resume the investigation as if its affirmative preliminary determination under section 1671b(b) of this title were made on the date of its determination under this paragraph,
     - **(C)** if the investigation was completed under subsection (g), issue a countervailing duty order under section 1671e(a) of this title effective with respect to entries of merchandise the liquidation of which was suspended,
-    - **(D)** if it considers the violation to be intentional, notify the Commissioner of Customs who shall take appropriate action under paragraph (2), and
+    - **(D)** if it considers the violation to be intentional, notify the Commissioner of U.S. Customs and Border Protection who shall take appropriate action under paragraph (2), and
     - **(E)** notify the petitioner, interested parties who are or were parties to the investigation, and the Commission of its action under this paragraph.
   - **(2)** Any person who intentionally violates an agreement accepted by the administering authority under subsection (b) or (c) shall be subject to a civil penalty assessed in the same amount, in the same manner, and under the same procedure, as the penalty imposed for a fraudulent violation of section 1592(a) of this title .
 - **(j)** In making a final determination under section 1671d of this title , or in conducting a review under section 1675 of this title , in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1), or continued an investigation under subsection (g), the Commission and the administering authority shall consider all of the subject merchandise, without regard to the effect of any agreement under subsection (b) or (c).

@@ -1,13 +1,13 @@
 ---
-title: "Section 561 - Repealed. Oct. 31, 1951, ch. 654, § 1(45) , 65 Stat. 703"
+title: "Section 561 - Repealed. Oct. 31, 1951, ch. 654 , § 1(45), 65 Stat. 703"
 usc_title: 16
 usc_section: "561"
 chapter: 3
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 561"
-generated_at: "2026-03-30T04:59:58.468Z"
+generated_at: "2026-03-30T05:02:31.615Z"
 status: "repealed"
 ---
 
-# § 561. Repealed. Oct. 31, 1951, ch. 654, § 1(45) , 65 Stat. 703
+# § 561. Repealed. Oct. 31, 1951, ch. 654 , § 1(45), 65 Stat. 703
 

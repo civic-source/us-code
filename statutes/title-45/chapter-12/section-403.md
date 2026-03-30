@@ -3,9 +3,9 @@ title: "Section 403 - Appropriation to railroad unemployment insurance account; 
 usc_title: 45
 usc_section: "403"
 chapter: 12
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "45 U.S.C. § 403"
-generated_at: "2026-03-30T05:01:33.201Z"
+generated_at: "2026-03-30T05:03:27.216Z"
 status: "active"
 ---
 

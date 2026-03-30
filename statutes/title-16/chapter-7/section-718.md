@@ -1,13 +1,13 @@
 ---
-title: "Section 718 - Repealed. Pub. L. 109–266, § 10(h) , Aug. 3, 2006 , 120 Stat. 677"
+title: "Section 718 - Repealed. Pub. L. 109–266 , § 10(h), Aug. 3, 2006 , 120 Stat. 677"
 usc_title: 16
 usc_section: "718"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 718"
-generated_at: "2026-03-30T04:59:58.484Z"
+generated_at: "2026-03-30T05:02:31.633Z"
 status: "repealed"
 ---
 
-# § 718. Repealed. Pub. L. 109–266, § 10(h) , Aug. 3, 2006 , 120 Stat. 677
+# § 718. Repealed. Pub. L. 109–266 , § 10(h), Aug. 3, 2006 , 120 Stat. 677
 

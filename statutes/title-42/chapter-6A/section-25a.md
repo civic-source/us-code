@@ -3,9 +3,9 @@ title: "Section 25a - Grants for strengthening families"
 usc_title: 42
 usc_section: "25a"
 chapter: 6
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 25a"
-generated_at: "2026-03-30T05:01:44.881Z"
+generated_at: "2026-03-30T05:04:25.512Z"
 status: "active"
 ---
 

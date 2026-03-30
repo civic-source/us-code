@@ -3,9 +3,9 @@ title: "Section 5110 - Effective dates of awards"
 usc_title: 38
 usc_section: "5110"
 chapter: 51
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "38 U.S.C. § 5110"
-generated_at: "2026-03-30T05:01:08.839Z"
+generated_at: "2026-03-30T05:03:18.404Z"
 status: "active"
 ---
 
@@ -34,5 +34,5 @@ status: "active"
 - **(j)** Where a report or a finding of death of any person in the active military, naval, or air service has been made by the Secretary concerned, the effective date of an award of death compensation, dependency and indemnity compensation, or death pension, as applicable, shall be the first day of the month fixed by that Secretary as the month of death in such report or finding, if application therefor is received within one year from the date such report or finding has been made; however, such benefits shall not be payable to any person for any period for which such person has received, or was entitled to receive, an allowance, allotment, or service pay of the deceased.
 - **(k)** The effective date of the award of benefits to a surviving spouse or of an award or increase of benefits based on recognition of a child, upon annulment of a marriage shall be the date the judicial decree of annulment becomes final if a claim therefor is filed within one year from the date the judicial decree of annulment becomes final; in all other cases the effective date shall be the date the claim is filed.
 - **(l)** The effective date of an award of benefits to a surviving spouse based upon a termination of a remarriage by death or divorce, or of an award or increase of benefits based on recognition of a child upon termination of the child’s marriage by death or divorce, shall be the date of death or the date the judicial decree or divorce becomes final, if an application therefor is received within one year from such termination.
-- **[(m)** Repealed. Pub. L. 103–446, title XII, § 1201(i)(8) , Nov. 2, 1994 , 108 Stat. 4688 .]
+- **[(m)** Repealed. Pub. L. 103–446, title XII , § 1201(i)(8), Nov. 2, 1994 , 108 Stat. 4688 .]
 - **(n)** The effective date of the award of any benefit or any increase therein by reason of marriage or the birth or adoption of a child shall be the date of such event if proof of such event is received by the Secretary within one year from the date of the marriage, birth, or adoption.

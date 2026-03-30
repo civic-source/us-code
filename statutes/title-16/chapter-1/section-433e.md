@@ -1,13 +1,13 @@
 ---
-title: "Section 433e - Repealed. Pub. L. 98–141, § 7(b) , Oct. 31, 1983 , 97 Stat. 910"
+title: "Section 433e - Repealed. Pub. L. 98–141 , § 7(b), Oct. 31, 1983 , 97 Stat. 910"
 usc_title: 16
 usc_section: "433e"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 433e"
-generated_at: "2026-03-30T04:59:58.413Z"
+generated_at: "2026-03-30T05:02:31.557Z"
 status: "repealed"
 ---
 
-# § 433e. Repealed. Pub. L. 98–141, § 7(b) , Oct. 31, 1983 , 97 Stat. 910
+# § 433e. Repealed. Pub. L. 98–141 , § 7(b), Oct. 31, 1983 , 97 Stat. 910
 

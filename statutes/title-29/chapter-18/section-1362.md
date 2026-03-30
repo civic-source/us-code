@@ -3,9 +3,9 @@ title: "Section 1362 - Liability for termination of single-employer plans under 
 usc_title: 29
 usc_section: "1362"
 chapter: 18
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "29 U.S.C. § 1362"
-generated_at: "2026-03-30T05:00:39.939Z"
+generated_at: "2026-03-30T05:02:57.181Z"
 status: "active"
 ---
 

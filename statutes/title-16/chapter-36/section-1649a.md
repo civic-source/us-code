@@ -1,13 +1,13 @@
 ---
-title: "Section 1649a - Repealed. Pub. L. 113–79, title VIII, § 8004 , Feb. 7, 2014 , 128 Stat. 913"
+title: "Section 1649a - Repealed. Pub. L. 113–79, title VIII , § 8004, Feb. 7, 2014 , 128 Stat. 913"
 usc_title: 16
 usc_section: "1649a"
 chapter: 36
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 1649a"
-generated_at: "2026-03-30T04:59:58.539Z"
+generated_at: "2026-03-30T05:02:31.688Z"
 status: "repealed"
 ---
 
-# § 1649a. Repealed. Pub. L. 113–79, title VIII, § 8004 , Feb. 7, 2014 , 128 Stat. 913
+# § 1649a. Repealed. Pub. L. 113–79, title VIII , § 8004, Feb. 7, 2014 , 128 Stat. 913
 

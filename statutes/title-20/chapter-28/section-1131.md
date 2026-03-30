@@ -3,9 +3,9 @@ title: "Section 1131 - Minority foreign service professional development program
 usc_title: 20
 usc_section: "1131"
 chapter: 28
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "20 U.S.C. § 1131"
-generated_at: "2026-03-30T04:59:56.154Z"
+generated_at: "2026-03-30T05:02:28.899Z"
 status: "active"
 ---
 

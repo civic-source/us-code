@@ -3,9 +3,9 @@ title: "Section 3512 - Periods of eligibility"
 usc_title: 38
 usc_section: "3512"
 chapter: 35
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "38 U.S.C. § 3512"
-generated_at: "2026-03-30T05:01:08.825Z"
+generated_at: "2026-03-30T05:03:18.395Z"
 status: "active"
 ---
 
@@ -52,6 +52,6 @@ status: "active"
     - **(B)** the date of the person’s thirty-first birthday.
 - **(d)** The term “first finds” as used in this section means the effective date of the rating or date of notification to the person from whom eligibility is derived establishing a service-connected total disability permanent in nature whichever is more advantageous to the eligible person.
 - **(e)** No person made eligible by section 3501(a)(1)(C) of this title based on a spouse being listed in one of the categories referred to in section 3501(a)(1)(C) of this title may be afforded educational assistance under this chapter beyond 10 years after the date on which the spouse was so listed.
-- **[(f)** Repealed. Pub. L. 108–183, title III, § 306(f)(2) , Dec. 16, 2003 , 117 Stat. 2661 .]
-- **[(g)** Repealed. Pub. L. 107–103, title I, § 108(b)(2) , Dec. 27, 2001 , 115 Stat. 985 .]
+- **[(f)** Repealed. Pub. L. 108–183, title III , § 306(f)(2), Dec. 16, 2003 , 117 Stat. 2661 .]
+- **[(g)** Repealed. Pub. L. 107–103, title I , § 108(b)(2), Dec. 27, 2001 , 115 Stat. 985 .]
 - **(h)** Notwithstanding any other provision of this section, if an eligible person, during the delimiting period otherwise applicable to such person under this section, serves on active duty pursuant to an order to active duty issued under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, or is involuntarily ordered to full-time National Guard duty under section 502(f) of title 32 , such person shall be granted an extension of such delimiting period for the length of time equal to the period of such active duty plus four months.

@@ -3,9 +3,9 @@ title: "Section 290 - National Institutes of Health Management Fund; establishme
 usc_title: 42
 usc_section: "290"
 chapter: 6
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 290"
-generated_at: "2026-03-30T05:01:44.877Z"
+generated_at: "2026-03-30T05:04:25.509Z"
 status: "active"
 ---
 

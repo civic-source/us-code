@@ -3,9 +3,9 @@ title: "Section 446 - Sites for tablets at Antietam; care and supervision"
 usc_title: 16
 usc_section: "446"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 446"
-generated_at: "2026-03-30T04:59:58.414Z"
+generated_at: "2026-03-30T05:02:31.559Z"
 status: "active"
 ---
 

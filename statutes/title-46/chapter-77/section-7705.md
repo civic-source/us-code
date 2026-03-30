@@ -3,9 +3,9 @@ title: "Section 7705 - Subpenas and oaths"
 usc_title: 46
 usc_section: "7705"
 chapter: 77
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "46 U.S.C. § 7705"
-generated_at: "2026-03-30T05:01:49.169Z"
+generated_at: "2026-03-30T05:04:29.126Z"
 status: "active"
 ---
 

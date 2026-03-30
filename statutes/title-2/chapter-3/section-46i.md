@@ -3,9 +3,9 @@ title: "Section 46i - Repealed. Pub. L. 104–186, title II , § 203(18)(C), Aug
 usc_title: 2
 usc_section: "46i"
 chapter: 3
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "2 U.S.C. § 46i"
-generated_at: "2026-03-30T04:59:16.743Z"
+generated_at: "2026-03-30T05:02:06.313Z"
 status: "repealed"
 ---
 

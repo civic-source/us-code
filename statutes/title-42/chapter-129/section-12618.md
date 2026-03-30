@@ -3,9 +3,9 @@ title: "Section 12618 - Authorized benefits for Corps members"
 usc_title: 42
 usc_section: "12618"
 chapter: 129
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 12618"
-generated_at: "2026-03-30T05:01:45.725Z"
+generated_at: "2026-03-30T05:04:26.059Z"
 status: "active"
 ---
 

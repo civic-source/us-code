@@ -3,9 +3,9 @@ title: "Section 4287 - Repealed. Pub. L. 89–44, title III , § 304, June 21, 1
 usc_title: 26
 usc_section: "4287"
 chapter: 33
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "26 U.S.C. § 4287"
-generated_at: "2026-03-30T05:00:47.951Z"
+generated_at: "2026-03-30T05:02:51.024Z"
 status: "repealed"
 ---
 

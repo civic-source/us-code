@@ -3,9 +3,9 @@ title: "Section 5025 - Financial management"
 usc_title: 10
 usc_section: "5025"
 chapter: 503
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 5025"
-generated_at: "2026-03-30T04:59:28.767Z"
+generated_at: "2026-03-30T05:02:16.387Z"
 status: "active"
 ---
 

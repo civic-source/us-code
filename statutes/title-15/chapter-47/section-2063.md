@@ -3,9 +3,9 @@ title: "Section 2063 - Product certification and labeling"
 usc_title: 15
 usc_section: "2063"
 chapter: 47
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "15 U.S.C. § 2063"
-generated_at: "2026-03-30T04:59:35.558Z"
+generated_at: "2026-03-30T05:02:23.744Z"
 status: "active"
 ---
 
@@ -120,6 +120,6 @@ status: "active"
   - **(1)** Every certificate required under this section shall identify the manufacturer or private labeler issuing the certificate and any third party conformity assessment body on whose testing the certificate depends. The certificate shall include, at a minimum, the date and place of manufacture, the date and place where the product was tested, each party’s name, full mailing address, telephone number, and contact information for the individual responsible for maintaining records of test results.
   - **(2)** Every certificate required under this section shall be legible and all content required by this section shall be in the English language. A certificate may also contain the same content in any other language.
   - **(3)** Every certificate required under this section shall accompany the applicable product or shipment of products covered by the same certificate and a copy of the certificate shall be furnished to each distributor or retailer of the product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy of the certificate to the Commission.
-  - **(4)** In consultation with the Commissioner of Customs, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of Customs.
+  - **(4)** In consultation with the Commissioner of U.S. Customs and Border Protection, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of U.S. Customs and Border Protection.
 - **(h)** Compliance of any children’s product with third party testing and certification or general conformity certification requirements under this section shall not be construed to exempt such children’s product from any requirement that such product actually be in conformity with all applicable rules, regulation, standards, or ban under any Act enforced by the Commission.
 - **(i)** No advertisement for a consumer product or label or packaging of such product may contain a reference to a consumer product safety rule or a voluntary consumer product safety standard unless such product conforms with the applicable safety requirements of such rule or standard.

@@ -3,9 +3,9 @@ title: "Section 7513 - Cause and procedure"
 usc_title: 5
 usc_section: "7513"
 chapter: 75
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "5 U.S.C. § 7513"
-generated_at: "2026-03-30T04:59:18.358Z"
+generated_at: "2026-03-30T05:02:07.580Z"
 status: "active"
 ---
 

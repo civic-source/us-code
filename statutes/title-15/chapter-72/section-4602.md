@@ -3,9 +3,9 @@ title: "Section 4602 - Grants to Sematech"
 usc_title: 15
 usc_section: "4602"
 chapter: 72
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "15 U.S.C. § 4602"
-generated_at: "2026-03-30T04:59:35.588Z"
+generated_at: "2026-03-30T05:02:23.773Z"
 status: "active"
 ---
 

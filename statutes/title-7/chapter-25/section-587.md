@@ -3,9 +3,9 @@ title: "Section 587 - Rules and regulations; cooperation with other agencies; co
 usc_title: 7
 usc_section: "587"
 chapter: 25
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "7 U.S.C. § 587"
-generated_at: "2026-03-30T04:59:24.488Z"
+generated_at: "2026-03-30T05:02:12.640Z"
 status: "active"
 ---
 

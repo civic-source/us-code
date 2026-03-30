@@ -3,9 +3,9 @@ title: "Section 2008g - Payment of interest as condition of loan servicing for b
 usc_title: 7
 usc_section: "2008g"
 chapter: 50
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "7 U.S.C. § 2008g"
-generated_at: "2026-03-30T04:59:24.538Z"
+generated_at: "2026-03-30T05:02:12.687Z"
 status: "active"
 ---
 

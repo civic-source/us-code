@@ -1,13 +1,13 @@
 ---
-title: "Section 353a - Repealed. Pub. L. 97–468, title VI, § 615(a)(1) , Jan. 14, 1983 , 96 Stat. 2577"
+title: "Section 353a - Repealed. Pub. L. 97–468, title VI , § 615(a)(1), Jan. 14, 1983 , 96 Stat. 2577"
 usc_title: 16
 usc_section: "353a"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 353a"
-generated_at: "2026-03-30T04:59:58.383Z"
+generated_at: "2026-03-30T05:02:31.525Z"
 status: "repealed"
 ---
 
-# § 353a. Repealed. Pub. L. 97–468, title VI, § 615(a)(1) , Jan. 14, 1983 , 96 Stat. 2577
+# § 353a. Repealed. Pub. L. 97–468, title VI , § 615(a)(1), Jan. 14, 1983 , 96 Stat. 2577
 

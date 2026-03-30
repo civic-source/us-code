@@ -3,9 +3,9 @@ title: "Section 2428b - Special security assistance for modernization of Armed F
 usc_title: 22
 usc_section: "2428b"
 chapter: 32
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 2428b"
-generated_at: "2026-03-30T05:00:34.864Z"
+generated_at: "2026-03-30T05:02:39.580Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ status: "active"
 - **(d)**
 - **(e)**
   - **(1)** It is the sense of the Congress that further withdrawal of ground forces of the United States from the Republic of Korea may seriously risk upsetting the military balance in that region and requires full advance consultation with the Congress.
-  - **(2)** Repealed. Pub. L. 97–113, title VII, § 734(a)(12) , Dec. 29, 1981 , 95 Stat. 1560 .
+  - **(2)** Repealed. Pub. L. 97–113, title VII , § 734(a)(12), Dec. 29, 1981 , 95 Stat. 1560 .

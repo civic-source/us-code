@@ -3,9 +3,9 @@ title: "Section 1201 - Kidnapping"
 usc_title: 18
 usc_section: "1201"
 chapter: 55
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "18 U.S.C. § 1201"
-generated_at: "2026-03-30T04:59:41.117Z"
+generated_at: "2026-03-30T05:02:32.685Z"
 status: "active"
 ---
 
@@ -35,5 +35,5 @@ status: "active"
         - **(V)** an aunt;
         - **(VI)** an uncle; or
         - **(VII)** an individual having legal custody of the victim;
-  - **[(2)** Repealed. Pub. L. 108–21, title I, § 104(b) , Apr. 30, 2003 , 117 Stat. 653 .]
+  - **[(2)** Repealed. Pub. L. 108–21, title I , § 104(b), Apr. 30, 2003 , 117 Stat. 653 .]
 - **(h)** As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.

@@ -3,9 +3,9 @@ title: "Section 4548 - Repealed. Pub. L. 110–289, div. A , title I, § 1104(b)
 usc_title: 12
 usc_section: "4548"
 chapter: 46
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "12 U.S.C. § 4548"
-generated_at: "2026-03-30T04:59:33.640Z"
+generated_at: "2026-03-30T05:02:21.787Z"
 status: "repealed"
 ---
 

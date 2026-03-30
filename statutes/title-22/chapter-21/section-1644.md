@@ -3,9 +3,9 @@ title: "Section 1644 - Congressional declaration of purpose"
 usc_title: 22
 usc_section: "1644"
 chapter: 21
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 1644"
-generated_at: "2026-03-30T05:00:34.837Z"
+generated_at: "2026-03-30T05:02:39.554Z"
 status: "active"
 ---
 

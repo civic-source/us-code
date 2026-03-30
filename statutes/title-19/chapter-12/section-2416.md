@@ -3,9 +3,9 @@ title: "Section 2416 - Monitoring of foreign compliance"
 usc_title: 19
 usc_section: "2416"
 chapter: 12
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 2416"
-generated_at: "2026-03-30T04:59:42.896Z"
+generated_at: "2026-03-30T05:02:27.161Z"
 status: "active"
 ---
 
@@ -25,6 +25,10 @@ status: "active"
     - **(D)** In revising any list or action against a country or countries under this subsection, the Trade Representative shall act in a manner that is most likely to result in the country or countries implementing the recommendations adopted in the dispute settlement proceeding or in achieving a mutually satisfactory solution to the issue that gave rise to the dispute settlement proceeding. The Trade Representative shall consult with the petitioner, if any, involved in the initial investigation under this subchapter.
     - **(E)** The term “retaliation list” means the list of products of a foreign country or countries that have failed to comply with the report of the panel or Appellate Body of the WTO and with respect to which the Trade Representative is imposing duties above the level that would otherwise be imposed under the Harmonized Tariff Schedule of the United States.
     - **(F)** The Trade Representative shall include on the retaliation list, and on any revised lists, reciprocal goods of the industries affected by the failure of the foreign country or countries to implement the recommendation made pursuant to a dispute settlement proceeding under the World Trade Organization, except in cases where existing retaliation and its corresponding preliminary retaliation list do not already meet this requirement.
-- **(c)** Before making any determination under subsection (b), the Trade Representative shall—
+- **(c)** If—
+  - **(1)** action has terminated pursuant to section 2417(c) of this title ,
+  - **(2)** the petitioner or any representative of the domestic industry that would benefit from reinstatement of action has submitted to the Trade Representative a written request for reinstatement of action, and
+  - **(3)** the Trade Representatives 1 1 So in original. Probably should be “Representative”. has completed the requirements of subsection (d) and section 2417(c)(3) of this title ,
+- **(d)** Before making any determination under subsection (b) or (c), the Trade Representative shall—
   - **(1)** consult with the petitioner, if any, involved in the initial investigation under this subchapter and with representatives of the domestic industry concerned; and
   - **(2)** provide an opportunity for the presentation of views by interested persons.

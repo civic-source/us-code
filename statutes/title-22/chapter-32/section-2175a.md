@@ -1,13 +1,13 @@
 ---
-title: "Section 2175a - Repealed. Pub. L. 97–113, title VII, § 734(a)(8) , Dec. 29, 1981 , 95 Stat. 1560"
+title: "Section 2175a - Repealed. Pub. L. 97–113, title VII , § 734(a)(8), Dec. 29, 1981 , 95 Stat. 1560"
 usc_title: 22
 usc_section: "2175a"
 chapter: 32
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 2175a"
-generated_at: "2026-03-30T05:00:34.847Z"
+generated_at: "2026-03-30T05:02:39.564Z"
 status: "repealed"
 ---
 
-# § 2175a. Repealed. Pub. L. 97–113, title VII, § 734(a)(8) , Dec. 29, 1981 , 95 Stat. 1560
+# § 2175a. Repealed. Pub. L. 97–113, title VII , § 734(a)(8), Dec. 29, 1981 , 95 Stat. 1560
 

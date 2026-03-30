@@ -3,9 +3,9 @@ title: "Section 921 - Definitions"
 usc_title: 18
 usc_section: "921"
 chapter: 44
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "18 U.S.C. § 921"
-generated_at: "2026-03-30T04:59:41.108Z"
+generated_at: "2026-03-30T05:02:32.677Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
   - **(29)** The term “handgun” means—
     - **(A)** a firearm which has a short stock and is designed to be held and fired by the use of a single hand; and
     - **(B)** any combination of parts from which a firearm described in subparagraph (A) can be assembled.
-  - **[(30)** , (31) Repealed. Pub. L. 103–322, title XI, § 110105(2) , Sept. 13, 1994 , 108 Stat. 2000 .]
+  - **[(30)** , (31) Repealed. Pub. L. 103–322, title XI , § 110105(2), Sept. 13, 1994 , 108 Stat. 2000 .]
   - **(32)** The term “intimate partner” means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
   - **(33)**
     - **(A)** Except as provided in subparagraph (C), 2 2 So in original. No subparagraph (C) has been enacted. the term “misdemeanor crime of domestic violence” means an offense that—

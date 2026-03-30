@@ -3,9 +3,9 @@ title: "Section 2755 - Flexible use of funds"
 usc_title: 42
 usc_section: "2755"
 chapter: 34
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 2755"
-generated_at: "2026-03-30T05:01:45.190Z"
+generated_at: "2026-03-30T05:04:25.828Z"
 status: "active"
 ---
 

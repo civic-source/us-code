@@ -1,21 +1,18 @@
 ---
-title: "Section 1 - National Science Foundation manufacturing research and education"
+title: "Section 1 - Dyslexia"
 usc_title: 42
 usc_section: "1"
 chapter: 16
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T05:01:45.157Z"
+generated_at: "2026-03-30T05:04:25.795Z"
 status: "active"
 ---
 
-# § 1862p–1. National Science Foundation manufacturing research and education
+# § 1862r–1. Dyslexia
 
-- **(a)** The Director shall carry out a program to award merit-reviewed, competitive grants to institutions of higher education to support fundamental research leading to transformative advances in manufacturing technologies, processes, and enterprises that will support United States manufacturing through improved performance, productivity, sustainability, and competitiveness. Research areas may include—
-  - **(1)** nanomanufacturing;
-  - **(2)** manufacturing and construction machines and equipment, including robotics, automation, and other intelligent systems;
-  - **(3)** manufacturing enterprise systems;
-  - **(4)** advanced sensing and control techniques;
-  - **(5)** materials processing; and
-  - **(6)** information technologies for manufacturing, including predictive and real-time models and simulations, and virtual manufacturing.
-- **(b)** In order to help ensure a well-trained manufacturing workforce, the Director shall award grants to strengthen and expand scientific and technical education and training in advanced manufacturing, including through the Foundation’s Advanced Technological Education program.
+- **(a)** Consistent with subsection (c), the National Science Foundation shall support multi-directorate, merit-reviewed, and competitively awarded research on the science of specific learning disability, including dyslexia, such as research on the early identification of children and students with dyslexia, professional development for teachers and administrators of students with dyslexia, curricula and educational tools needed for children with dyslexia, and implementation and scaling of successful models of dyslexia intervention. Research supported under this subsection shall be conducted with the goal of practical application.
+- **(b)** To promote development of early career researchers, in awarding funds under subsection (a) the National Science Foundation shall prioritize applications for funding submitted by early career researchers.
+- **(c)** To prevent unnecessary duplication of research, activities under this this section and section 1862r of this title shall be coordinated with similar activities supported by other Federal agencies, including research funded by the Institute of Education Sciences and the National Institutes of Health.
+- **(d)** The National Science Foundation shall devote not less than $5,000,000 to research described in subsection (a), which shall include not less than $2,500,000 for research on the science of dyslexia, for each of fiscal years 2017 through 2021, subject to the availability of appropriations, to come from amounts made available for the Research and Related Activities account or the Education and Human Resources Directorate under subsection (e). This section shall be carried out using funds otherwise appropriated by law after February 18, 2016 .
+- **(e)** For each of fiscal years 2016 through 2021, there are authorized out of funds appropriated to the National Science Foundation, $5,000,000 to carry out the activities described in subsection (a).

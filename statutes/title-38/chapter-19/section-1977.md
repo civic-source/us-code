@@ -3,9 +3,9 @@ title: "Section 1977 - Veterans’ Group Life Insurance"
 usc_title: 38
 usc_section: "1977"
 chapter: 19
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "38 U.S.C. § 1977"
-generated_at: "2026-03-30T05:01:08.808Z"
+generated_at: "2026-03-30T05:03:18.384Z"
 status: "active"
 ---
 

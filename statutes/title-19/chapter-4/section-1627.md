@@ -1,13 +1,13 @@
 ---
-title: "Section 1627 - Repealed. Pub. L. 100–690, title VII, § 7367(c)(6) , Nov. 18, 1988 , 102 Stat. 4480"
+title: "Section 1627 - Repealed. Pub. L. 100–690, title VII , § 7367(c)(6), Nov. 18, 1988 , 102 Stat. 4480"
 usc_title: 19
 usc_section: "1627"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1627"
-generated_at: "2026-03-30T04:59:42.874Z"
+generated_at: "2026-03-30T05:02:27.141Z"
 status: "repealed"
 ---
 
-# § 1627. Repealed. Pub. L. 100–690, title VII, § 7367(c)(6) , Nov. 18, 1988 , 102 Stat. 4480
+# § 1627. Repealed. Pub. L. 100–690, title VII , § 7367(c)(6), Nov. 18, 1988 , 102 Stat. 4480
 

@@ -3,9 +3,9 @@ title: "Section 255 - Home health services"
 usc_title: 42
 usc_section: "255"
 chapter: 6
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 255"
-generated_at: "2026-03-30T05:01:44.847Z"
+generated_at: "2026-03-30T05:04:25.477Z"
 status: "active"
 ---
 

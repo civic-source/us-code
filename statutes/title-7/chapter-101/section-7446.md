@@ -3,9 +3,9 @@ title: "Section 7446 - Referenda"
 usc_title: 7
 usc_section: "7446"
 chapter: 101
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "7 U.S.C. § 7446"
-generated_at: "2026-03-30T04:59:24.606Z"
+generated_at: "2026-03-30T05:02:12.752Z"
 status: "active"
 ---
 

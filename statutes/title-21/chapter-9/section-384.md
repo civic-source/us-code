@@ -3,9 +3,9 @@ title: "Section 384 - Importation of prescription drugs"
 usc_title: 21
 usc_section: "384"
 chapter: 9
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "21 U.S.C. § 384"
-generated_at: "2026-03-30T05:00:02.085Z"
+generated_at: "2026-03-30T05:02:35.798Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(5)**
     - **(A)** The term “wholesaler” means a person licensed as a wholesaler or distributor of prescription drugs in the United States under section 353(e)(2)(A) of this title .
     - **(B)** The term “wholesaler” does not include a person authorized to import drugs under section 381(d)(1) of this title .
-- **(b)** The Secretary, after consultation with the United States Trade Representative and the Commissioner of Customs, shall promulgate regulations permitting pharmacists and wholesalers to import prescription drugs from Canada into the United States.
+- **(b)** The Secretary, after consultation with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection, shall promulgate regulations permitting pharmacists and wholesalers to import prescription drugs from Canada into the United States.
 - **(c)** The regulations under subsection (b) of this section shall—
   - **(1)** require that safeguards be in place to ensure that each prescription drug imported under the regulations complies with section 355 of this title (including with respect to being safe and effective for the intended use of the prescription drug), with sections 351 and 352 of this title, and with other applicable requirements of this chapter;
   - **(2)** require that an importer of a prescription drug under the regulations comply with subsections (d)(1) and (e) of this section; and

@@ -3,9 +3,9 @@ title: "Section 3701 - Definitions"
 usc_title: 46
 usc_section: "3701"
 chapter: 37
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "46 U.S.C. § 3701"
-generated_at: "2026-03-30T05:01:49.166Z"
+generated_at: "2026-03-30T05:04:29.121Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 In this chapter—
 
   - **(1)** “existing”, when referring to a type of vessel to which this chapter applies, means a vessel that is not a new vessel.
-  - **[(2)** Repealed. Pub. L. 100–424, § 8(c)(2) , Sept. 9, 1988 , 102 Stat. 1593 .]
+  - **[(2)** Repealed. Pub. L. 100–424 , § 8(c)(2), Sept. 9, 1988 , 102 Stat. 1593 .]
   - **(3)** “new”, when referring to a type of vessel to which this chapter applies, means a vessel—
     - **(A)** for which the building contract is placed after June 1, 1979 ;
     - **(B)** in the absence of a building contract, the keel of which is laid, or which is at a similar stage of construction, after January 1, 1980 ;

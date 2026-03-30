@@ -3,9 +3,9 @@ title: "Section 5467 - Examination of and enforcement actions against financial 
 usc_title: 12
 usc_section: "5467"
 chapter: 53
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "12 U.S.C. § 5467"
-generated_at: "2026-03-30T04:59:33.668Z"
+generated_at: "2026-03-30T05:02:21.814Z"
 status: "active"
 ---
 

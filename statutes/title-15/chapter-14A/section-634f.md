@@ -3,9 +3,9 @@ title: "Section 634f - Reports"
 usc_title: 15
 usc_section: "634f"
 chapter: 14
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "15 U.S.C. § 634f"
-generated_at: "2026-03-30T04:59:35.488Z"
+generated_at: "2026-03-30T05:02:23.677Z"
 status: "active"
 ---
 

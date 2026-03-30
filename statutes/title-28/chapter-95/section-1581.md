@@ -3,9 +3,9 @@ title: "Section 1581 - Civil actions against the United States and agencies and 
 usc_title: 28
 usc_section: "1581"
 chapter: 95
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "28 U.S.C. § 1581"
-generated_at: "2026-03-30T05:00:51.997Z"
+generated_at: "2026-03-30T05:03:05.915Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to contest the denial of a protest, in whole or in part, under section 515 of the Tariff Act of 1930.
 - **(b)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516 of the Tariff Act of 1930.
-- **(c)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A of the Tariff Act of 1930.
+- **(c)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A or 517 of the Tariff Act of 1930.
 - **(d)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review—
   - **(1)** any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 with respect to the eligibility of workers for adjustment assistance under such Act;
   - **(2)** any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;

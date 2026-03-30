@@ -3,9 +3,9 @@ title: "Section 1677 - Definitions; special rules"
 usc_title: 19
 usc_section: "1677"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1677"
-generated_at: "2026-03-30T04:59:42.879Z"
+generated_at: "2026-03-30T05:02:27.146Z"
 status: "active"
 ---
 
@@ -235,7 +235,7 @@ For purposes of this subtitle—
       - **(i)** Any determination that a foreign country is a nonmarket economy country shall remain in effect until revoked by the administering authority.
       - **(ii)** The administering authority may make a determination under subparagraph (A) with respect to any foreign country at any time.
     - **(D)** Notwithstanding any other provision of law, any determination made by the administering authority under subparagraph (A) shall not be subject to judicial review in any investigation conducted under part II of this subtitle.
-    - **(E)** Upon request by the administering authority, the Commissioner of Customs shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of Customs that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title .
+    - **(E)** Upon request by the administering authority, the Commissioner of U.S. Customs and Border Protection shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of U.S. Customs and Border Protection that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title .
   - **(19)** In determining whether a lease is equivalent to a sale for purposes of this subtitle, the administering authority shall consider—
     - **(A)** the terms of the lease,
     - **(B)** commercial practice within the industry,

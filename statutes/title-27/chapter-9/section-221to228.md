@@ -3,9 +3,9 @@ title: "Section 221to228 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 86
 usc_title: 27
 usc_section: "221to228"
 chapter: 9
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "27 U.S.C. § 221to228"
-generated_at: "2026-03-30T05:00:40.207Z"
+generated_at: "2026-03-30T05:02:41.283Z"
 status: "repealed"
 ---
 

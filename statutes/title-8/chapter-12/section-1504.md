@@ -3,9 +3,9 @@ title: "Section 1504 - Cancellation of United States passports and Consular Repo
 usc_title: 8
 usc_section: "1504"
 chapter: 12
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "8 U.S.C. § 1504"
-generated_at: "2026-03-30T04:59:21.011Z"
+generated_at: "2026-03-30T05:02:10.035Z"
 status: "active"
 ---
 

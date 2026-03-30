@@ -3,9 +3,9 @@ title: "Section 2808 - Source of funds"
 usc_title: 25
 usc_section: "2808"
 chapter: 30
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "25 U.S.C. § 2808"
-generated_at: "2026-03-30T05:00:03.077Z"
+generated_at: "2026-03-30T05:02:37.741Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 44901 - Screening passengers and property"
 usc_title: 49
 usc_section: "44901"
 chapter: 449
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "49 U.S.C. § 44901"
-generated_at: "2026-03-30T05:01:52.723Z"
+generated_at: "2026-03-30T05:04:36.852Z"
 status: "active"
 ---
 
@@ -35,7 +35,8 @@ status: "active"
   - **(4)**
     - **(A)** For a flight or flight segment originating at an airport outside the United States and traveling to the United States with respect to which checked baggage has been screened in accordance with an aviation security preclearance agreement between the United States and the country in which such airport is located, the Assistant Secretary (Transportation Security Administration) may, in coordination with U.S. Customs and Border Protection, determine whether such baggage must be re-screened in the United States by an explosives detection system before such baggage continues on any additional flight or flight segment.
     - **(B)** In this paragraph, the term “aviation security preclearance agreement” means an agreement that delineates and implements security standards and protocols that are determined by the Assistant Secretary, in coordination with U.S. Customs and Border Protection, to be comparable to those of the United States and therefore sufficiently effective to enable passengers to deplane into sterile areas of airports in the United States.
-    - **(C)** The Assistant Secretary shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
+    - **(C)** If the Administrator of the Transportation Security Administration determines that the government of a foreign country has not maintained security standards and protocols comparable to those of the United States at airports at which preclearance operations have been established in accordance with this paragraph, the Administrator shall ensure that Transportation Security Administration personnel rescreen passengers arriving from such airports and their property in the United States before such passengers are permitted into sterile areas of airports in the United States.
+    - **(D)** The Assistant Secretary shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
       - **(i)** A list of airports outside the United States from which a flight or flight segment traveled to the United States for which the Assistant Secretary determined, in accordance with the authority under subparagraph (A), that checked baggage was not required to be re-screened in the United States by an explosives detection system before such baggage continued on an additional flight or flight segment.
       - **(ii)** The amount of Federal savings generated from the exercise of such authority.
 - **(e)** As soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosives detection system. Such alternative means may include 1 or more of the following:

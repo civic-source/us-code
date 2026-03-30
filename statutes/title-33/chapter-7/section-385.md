@@ -3,9 +3,9 @@ title: "Section 385 - Seizure and condemnation of vessels fitted out for piracy"
 usc_title: 33
 usc_section: "385"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "33 U.S.C. § 385"
-generated_at: "2026-03-30T05:00:59.653Z"
+generated_at: "2026-03-30T05:03:14.625Z"
 status: "active"
 ---
 

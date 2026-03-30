@@ -3,17 +3,17 @@ title: "Section 51 - Retirement"
 usc_title: 14
 usc_section: "51"
 chapter: 3
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "14 U.S.C. § 51"
-generated_at: "2026-03-30T04:59:31.174Z"
+generated_at: "2026-03-30T05:02:18.512Z"
 status: "active"
 ---
 
 # § 51. Retirement
 
-- **(a)** An officer, other than the Commandant, who, while serving in the grade of vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served.
-- **(b)** An officer, other than the Commandant, who is retired while serving in the grade of vice admiral, or who, after serving at least 2½ years in the grade of vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served.
-- **(c)** An officer, other than the Commandant, who, after serving less than 2½ years in the grade of vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.
+- **(a)** An officer, other than the Commandant, who, while serving in the grade of admiral or vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served.
+- **(b)** An officer, other than the Commandant, who is retired while serving in the grade of admiral or vice admiral, or who, after serving at least 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served.
+- **(c)** An officer, other than the Commandant, who, after serving less than 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.
 - **(d)** An officer serving in the grade of admiral or vice admiral shall continue to hold that grade—
   - **(1)** while being processed for physical disability retirement, beginning on the day of the processing and ending on the day that officer is retired, but not for more than 180 days; and
   - **(2)** while awaiting retirement, beginning on the day that officer is relieved from the position of Commandant, Vice Commandant, or Vice Admiral and ending on the day before the officer’s retirement, but not for more than 60 days.

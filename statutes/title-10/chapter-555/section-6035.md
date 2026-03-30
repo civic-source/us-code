@@ -3,9 +3,9 @@ title: "Section 6035 - Female members: congressional review period for assignmen
 usc_title: 10
 usc_section: "6035"
 chapter: 555
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "10 U.S.C. § 6035"
-generated_at: "2026-03-30T04:59:28.769Z"
+generated_at: "2026-03-30T05:02:16.389Z"
 status: "active"
 ---
 

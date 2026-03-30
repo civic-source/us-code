@@ -3,9 +3,9 @@ title: "Section 1779f - Release of other tribal claims and filing of claims"
 usc_title: 25
 usc_section: "1779f"
 chapter: 19
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "25 U.S.C. § 1779f"
-generated_at: "2026-03-30T05:00:03.062Z"
+generated_at: "2026-03-30T05:02:37.726Z"
 status: "active"
 ---
 

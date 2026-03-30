@@ -3,9 +3,9 @@ title: "Section 1065 - Endowment challenge grants"
 usc_title: 20
 usc_section: "1065"
 chapter: 28
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "20 U.S.C. § 1065"
-generated_at: "2026-03-30T04:59:56.116Z"
+generated_at: "2026-03-30T05:02:28.863Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7671h - Servicing of motor vehicle air conditioners"
 usc_title: 42
 usc_section: "7671h"
 chapter: 85
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 7671h"
-generated_at: "2026-03-30T05:01:45.347Z"
+generated_at: "2026-03-30T05:04:25.978Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 283y - Repealed. Pub. L. 95–118, title VII, § 702 , Oct. 3, 1977 , 91 Stat. 1070"
+title: "Section 283y - Repealed. Pub. L. 95–118, title VII , § 702, Oct. 3, 1977 , 91 Stat. 1070"
 usc_title: 22
 usc_section: "283y"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 283y"
-generated_at: "2026-03-30T05:00:34.816Z"
+generated_at: "2026-03-30T05:02:39.535Z"
 status: "repealed"
 ---
 
-# § 283y. Repealed. Pub. L. 95–118, title VII, § 702 , Oct. 3, 1977 , 91 Stat. 1070
+# § 283y. Repealed. Pub. L. 95–118, title VII , § 702, Oct. 3, 1977 , 91 Stat. 1070
 

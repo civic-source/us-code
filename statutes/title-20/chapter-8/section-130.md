@@ -3,9 +3,9 @@ title: "Section 130 - Purchases through the General Services Administration"
 usc_title: 20
 usc_section: "130"
 chapter: 8
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "20 U.S.C. § 130"
-generated_at: "2026-03-30T04:59:56.100Z"
+generated_at: "2026-03-30T05:02:28.849Z"
 status: "active"
 ---
 

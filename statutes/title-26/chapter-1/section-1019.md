@@ -3,9 +3,9 @@ title: "Section 1019 - Property on which lessee has made improvements"
 usc_title: 26
 usc_section: "1019"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "26 U.S.C. § 1019"
-generated_at: "2026-03-30T05:00:47.906Z"
+generated_at: "2026-03-30T05:02:50.981Z"
 status: "active"
 ---
 

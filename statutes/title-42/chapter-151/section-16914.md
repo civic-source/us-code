@@ -3,9 +3,9 @@ title: "Section 16914 - Information required in registration"
 usc_title: 42
 usc_section: "16914"
 chapter: 151
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 16914"
-generated_at: "2026-03-30T05:01:45.797Z"
+generated_at: "2026-03-30T05:04:26.130Z"
 status: "active"
 ---
 
@@ -18,7 +18,8 @@ status: "active"
   - **(4)** The name and address of any place where the sex offender is an employee or will be an employee.
   - **(5)** The name and address of any place where the sex offender is a student or will be a student.
   - **(6)** The license plate number and a description of any vehicle owned or operated by the sex offender.
-  - **(7)** Any other information required by the Attorney General.
+  - **(7)** Information relating to intended travel of the sex offender outside the United States, including any anticipated dates and places of departure, arrival, or return, carrier and flight numbers for air travel, destination country and address or other contact information therein, means and purpose of travel, and any other itinerary or other travel-related information required by the Attorney General.
+  - **(8)** Any other information required by the Attorney General.
 - **(b)** The jurisdiction in which the sex offender registers shall ensure that the following information is included in the registry for that sex offender:
   - **(1)** A physical description of the sex offender.
   - **(2)** The text of the provision of law defining the criminal offense for which the sex offender is registered.
@@ -28,3 +29,4 @@ status: "active"
   - **(6)** A DNA sample of the sex offender.
   - **(7)** A photocopy of a valid driver’s license or identification card issued to the sex offender by a jurisdiction.
   - **(8)** Any other information required by the Attorney General.
+- **(c)** A sex offender shall provide and update information required under subsection (a), including information relating to intended travel outside the United States required under paragraph (7) of that subsection, in conformity with any time and manner requirements prescribed by the Attorney General.

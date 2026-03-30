@@ -3,9 +3,9 @@ title: "Section 14040 - Definitions"
 usc_title: 42
 usc_section: "14040"
 chapter: 136
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 14040"
-generated_at: "2026-03-30T05:01:45.758Z"
+generated_at: "2026-03-30T05:04:26.092Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 285c - Congressional authorization needed for certain actions"
 usc_title: 22
 usc_section: "285c"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "22 U.S.C. § 285c"
-generated_at: "2026-03-30T05:00:34.818Z"
+generated_at: "2026-03-30T05:02:39.536Z"
 status: "active"
 ---
 

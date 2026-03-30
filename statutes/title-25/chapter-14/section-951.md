@@ -3,9 +3,9 @@ title: "Section 951 - Authority to equalize allotments"
 usc_title: 25
 usc_section: "951"
 chapter: 14
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "25 U.S.C. § 951"
-generated_at: "2026-03-30T05:00:03.033Z"
+generated_at: "2026-03-30T05:02:37.699Z"
 status: "active"
 ---
 

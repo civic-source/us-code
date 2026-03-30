@@ -3,9 +3,9 @@ title: "Section 1675 - Administrative review of determinations"
 usc_title: 19
 usc_section: "1675"
 chapter: 4
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 1675"
-generated_at: "2026-03-30T04:59:42.878Z"
+generated_at: "2026-03-30T05:02:27.145Z"
 status: "active"
 ---
 
@@ -27,8 +27,15 @@ status: "active"
       - **(ii)** The administering authority shall commence a review under clause (i) in the calendar month beginning after—
         - **(I)** the end of the 6-month period beginning on the date of the countervailing duty or antidumping duty order under review, or
         - **(II)** the end of any 6-month period occurring thereafter,
-      - **(iii)** The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of the review, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise.
-      - **(iv)** The administering authority shall make a preliminary determination in a review conducted under this subparagraph within 180 days after the date on which the review is initiated, and a final determination within 90 days after the date the preliminary determination is issued, except that if the administering authority concludes that the case is extraordinarily complicated, it may extend the 180-day period to 300 days and may extend the 90-day period to 150 days.
+      - **(iii)** The administering authority shall make a preliminary determination in a review conducted under this subparagraph within 180 days after the date on which the review is initiated, and a final determination within 90 days after the date the preliminary determination is issued, except that if the administering authority concludes that the case is extraordinarily complicated, it may extend the 180-day period to 300 days and may extend the 90-day period to 150 days.
+      - **(iv)** Any weighted average dumping margin or individual countervailing duty rate determined for an exporter or producer in a review conducted under clause (i) shall be based solely on the bona fide United States sales of an exporter or producer, as the case may be, made during the period covered by the review. In determining whether the United States sales of an exporter or producer made during the period covered by the review were bona fide, the administering authority shall consider, depending on the circumstances surrounding such sales—
+        - **(I)** the prices of such sales;
+        - **(II)** whether such sales were made in commercial quantities;
+        - **(III)** the timing of such sales;
+        - **(IV)** the expenses arising from such sales;
+        - **(V)** whether the subject merchandise involved in such sales was resold in the United States at a profit;
+        - **(VI)** whether such sales were made on an arms-length basis; and
+        - **(VII)** any other factor the administering authority determines to be relevant as to whether such sales are, or are not, likely to be typical of those the exporter or producer will make after completion of the review.
     - **(C)** The determination under this paragraph shall be the basis for the assessment of countervailing or antidumping duties on entries of merchandise covered by the determination and for deposits of estimated duties.
   - **(3)**
     - **(A)** The administering authority shall make a preliminary determination under subparagraph (A), (B), or (C) of paragraph (1) within 245 days after the last day of the month in which occurs the anniversary of the date of publication of the order, finding, or suspension agreement for which the review under paragraph (1) is requested, and a final determination under paragraph (1) within 120 days after the date on which the preliminary determination is published. If it is not practicable to complete the review within the foregoing time, the administering authority may extend that 245-day period to 365 days and may extend that 120-day period to 180 days. The administering authority may extend the time for making a final determination without extending the time for making a preliminary determination, if such final determination is made not later than 300 days after the date on which the preliminary determination is published.

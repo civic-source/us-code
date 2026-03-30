@@ -3,9 +3,9 @@ title: "Section 1707a - Repealed. Pub. L. 101–624, title XV , § 1574, Nov. 28
 usc_title: 7
 usc_section: "1707a"
 chapter: 41
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "7 U.S.C. § 1707a"
-generated_at: "2026-03-30T04:59:24.523Z"
+generated_at: "2026-03-30T05:02:12.674Z"
 status: "repealed"
 ---
 

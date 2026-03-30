@@ -3,9 +3,9 @@ title: "Section 4203 - Congressional oversight, consultations, and access to inf
 usc_title: 19
 usc_section: "4203"
 chapter: 27
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "19 U.S.C. § 4203"
-generated_at: "2026-03-30T04:59:42.924Z"
+generated_at: "2026-03-30T05:02:27.187Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
     - **(A)** In each Congress, any Member of the House of Representatives may be designated as a congressional adviser on trade policy and negotiations by the Speaker of the House of Representatives, after consulting with the chairman and ranking member of the Committee on Ways and Means and the chairman and ranking member of the committee from which the Member will be selected.
     - **(B)** In each Congress, any Member of the Senate may be designated as a congressional adviser on trade policy and negotiations by the President pro tempore of the Senate, after consultation with the chairman and ranking member of the Committee on Finance and the chairman and ranking member of the committee from which the Member will be selected.
   - **(2)** In the course of negotiations conducted under this chapter, the United States Trade Representative shall consult closely and on a timely basis (including immediately before initialing an agreement) with, and keep fully apprised of the negotiations, the congressional advisers for trade policy and negotiations designated under paragraph (1).
-  - **(3)** Each Member of Congress designated as a congressional adviser under paragraph (1) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegations to international conferences, meetings, and negotiating sessions relating to trade agreements.
+  - **(3)** Each Member of Congress designated as a congressional adviser under paragraph (1) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegations to international conferences, meetings, and negotiating sessions relating to trade agreements.
 - **(c)**
   - **(1)** By not later than 60 days after June 29, 2015 , and not later than 30 days after the convening of each Congress, the chairman of the Committee on Ways and Means of the House of Representatives shall convene the House Advisory Group on Negotiations and the chairman of the Committee on Finance of the Senate shall convene the Senate Advisory Group on Negotiations (in this subsection referred to collectively as the “congressional advisory groups”).
   - **(2)**
@@ -42,7 +42,7 @@ status: "active"
     - **(B)** In each Congress, the Senate Advisory Group on Negotiations shall be comprised of the following Members of the Senate:
       - **(i)** The chairman and ranking member of the Committee on Finance and 3 additional members of such Committee (not more than 2 of whom are members of the same political party).
       - **(ii)** The chairman and ranking member, or their designees, of the committees of the Senate that would have, under the Rules of the Senate, jurisdiction over provisions of law affected by a trade agreement negotiation conducted at any time during that Congress and to which this chapter would apply.
-    - **(C)** Each member of the congressional advisory groups described in subparagraphs (A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
+    - **(C)** Each member of the congressional advisory groups described in subparagraphs (A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
     - **(D)** The congressional advisory groups shall consult with and provide advice to the Trade Representative regarding the formulation of specific objectives, negotiating strategies and positions, the development of the applicable trade agreement, and compliance and enforcement of the negotiated commitments under the trade agreement.
     - **(E)** The House Advisory Group on Negotiations shall be chaired by the Chairman of the Committee on Ways and Means of the House of Representatives and the Senate Advisory Group on Negotiations shall be chaired by the Chairman of the Committee on Finance of the Senate.
     - **(F)** Members of any committee represented on one of the congressional advisory groups may submit comments to the member of the appropriate congressional advisory group from that committee regarding any matter related to a negotiation for any trade agreement to which this chapter applies.

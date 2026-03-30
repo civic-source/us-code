@@ -3,9 +3,9 @@ title: "Section 3307 - Omitted"
 usc_title: 20
 usc_section: "3307"
 chapter: 47
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "20 U.S.C. § 3307"
-generated_at: "2026-03-30T04:59:56.186Z"
+generated_at: "2026-03-30T05:02:28.928Z"
 status: "omitted"
 ---
 

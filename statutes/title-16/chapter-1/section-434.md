@@ -3,9 +3,9 @@ title: "Section 434 - National monument in Riverside County, California"
 usc_title: 16
 usc_section: "434"
 chapter: 1
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "16 U.S.C. § 434"
-generated_at: "2026-03-30T04:59:58.413Z"
+generated_at: "2026-03-30T05:02:31.558Z"
 status: "active"
 ---
 

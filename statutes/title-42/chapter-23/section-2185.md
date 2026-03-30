@@ -3,9 +3,9 @@ title: "Section 2185 - Prior art"
 usc_title: 42
 usc_section: "2185"
 chapter: 23
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "42 U.S.C. § 2185"
-generated_at: "2026-03-30T05:01:45.179Z"
+generated_at: "2026-03-30T05:04:25.816Z"
 status: "active"
 ---
 

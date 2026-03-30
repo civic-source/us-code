@@ -3,9 +3,9 @@ title: "Section 1407to1407i - Repealed. Pub. L. 97–357, title III, § 308(e) ,
 usc_title: 48
 usc_section: "1407to1407i"
 chapter: 7
-current_through: "PL 114-115"
+current_through: "PL 114-139"
 classification: "48 U.S.C. § 1407to1407i"
-generated_at: "2026-03-30T05:01:48.539Z"
+generated_at: "2026-03-30T05:04:29.481Z"
 status: "repealed"
 ---
 
