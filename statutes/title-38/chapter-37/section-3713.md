@@ -3,9 +3,9 @@ title: "Section 3713 - Release from liability under guaranty"
 usc_title: 38
 usc_section: "3713"
 chapter: 37
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "38 U.S.C. § 3713"
-generated_at: "2026-03-30T05:20:46.177Z"
+generated_at: "2026-03-30T05:25:32.050Z"
 status: "active"
 ---
 

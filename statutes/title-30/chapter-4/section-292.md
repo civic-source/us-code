@@ -3,9 +3,9 @@ title: "Section 292 - Royalties and rentals; disposition"
 usc_title: 30
 usc_section: "292"
 chapter: 4
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "30 U.S.C. § 292"
-generated_at: "2026-03-30T05:19:27.779Z"
+generated_at: "2026-03-30T05:25:14.265Z"
 status: "active"
 ---
 

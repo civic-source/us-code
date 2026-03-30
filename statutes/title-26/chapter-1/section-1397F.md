@@ -3,9 +3,9 @@ title: "Section 1397F - Regulations"
 usc_title: 26
 usc_section: "1397F"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "26 U.S.C. § 1397F"
-generated_at: "2026-03-30T05:19:54.404Z"
+generated_at: "2026-03-30T05:25:22.824Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14 - Assistant director of bureau; appointment; duties"
 usc_title: 29
 usc_section: "14"
 chapter: 2
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "29 U.S.C. § 14"
-generated_at: "2026-03-30T05:19:38.000Z"
+generated_at: "2026-03-30T05:25:17.567Z"
 status: "active"
 ---
 

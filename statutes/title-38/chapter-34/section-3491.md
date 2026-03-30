@@ -3,9 +3,9 @@ title: "Section 3491 - Elementary and secondary education and preparatory educat
 usc_title: 38
 usc_section: "3491"
 chapter: 34
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "38 U.S.C. § 3491"
-generated_at: "2026-03-30T05:20:46.172Z"
+generated_at: "2026-03-30T05:25:32.046Z"
 status: "active"
 ---
 

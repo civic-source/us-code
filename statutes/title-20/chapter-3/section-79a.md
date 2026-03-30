@@ -3,9 +3,9 @@ title: "Section 79a - Preservation of natural features for scientific observatio
 usc_title: 20
 usc_section: "79a"
 chapter: 3
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "20 U.S.C. § 79a"
-generated_at: "2026-03-30T05:19:13.920Z"
+generated_at: "2026-03-30T05:24:20.018Z"
 status: "active"
 ---
 

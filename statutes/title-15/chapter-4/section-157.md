@@ -3,9 +3,9 @@ title: "Section 157 - Regulations and fees; disposition of fees and penalties"
 usc_title: 15
 usc_section: "157"
 chapter: 4
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "15 U.S.C. § 157"
-generated_at: "2026-03-30T05:19:08.542Z"
+generated_at: "2026-03-30T05:24:07.185Z"
 status: "active"
 ---
 

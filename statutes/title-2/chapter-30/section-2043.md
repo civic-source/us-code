@@ -3,9 +3,9 @@ title: "Section 2043 - Authorization and direction to effectuate purposes of sec
 usc_title: 2
 usc_section: "2043"
 chapter: 30
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "2 U.S.C. § 2043"
-generated_at: "2026-03-30T05:18:44.448Z"
+generated_at: "2026-03-30T05:22:50.389Z"
 status: "active"
 ---
 

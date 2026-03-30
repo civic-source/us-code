@@ -3,9 +3,9 @@ title: "Section 101511 - Authority of Secretary"
 usc_title: 54
 usc_section: "101511"
 chapter: 1015
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "54 U.S.C. § 101511"
-generated_at: "2026-03-30T05:21:45.829Z"
+generated_at: "2026-03-30T05:26:10.161Z"
 status: "active"
 ---
 

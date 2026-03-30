@@ -3,9 +3,9 @@ title: "Section 1645m - Fees for services; limitation; penalty"
 usc_title: 22
 usc_section: "1645m"
 chapter: 21
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "22 U.S.C. § 1645m"
-generated_at: "2026-03-30T05:19:24.971Z"
+generated_at: "2026-03-30T05:25:11.540Z"
 status: "active"
 ---
 

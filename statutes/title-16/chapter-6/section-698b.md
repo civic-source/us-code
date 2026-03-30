@@ -3,9 +3,9 @@ title: "Section 698b - Right of use and occupancy of improved property on Big Th
 usc_title: 16
 usc_section: "698b"
 chapter: 6
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "16 U.S.C. § 698b"
-generated_at: "2026-03-30T05:19:17.056Z"
+generated_at: "2026-03-30T05:24:55.048Z"
 status: "active"
 ---
 

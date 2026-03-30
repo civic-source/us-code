@@ -3,9 +3,9 @@ title: "Section 1785 - Accounts and records; availability for inspection; author
 usc_title: 42
 usc_section: "1785"
 chapter: 13
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 1785"
-generated_at: "2026-03-30T05:21:13.542Z"
+generated_at: "2026-03-30T05:25:55.666Z"
 status: "active"
 ---
 

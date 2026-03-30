@@ -3,9 +3,9 @@ title: "Section 116 - Negotiated licenses for public performances by means of co
 usc_title: 17
 usc_section: "116"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "17 U.S.C. § 116"
-generated_at: "2026-03-30T05:19:10.524Z"
+generated_at: "2026-03-30T05:24:09.300Z"
 status: "active"
 ---
 

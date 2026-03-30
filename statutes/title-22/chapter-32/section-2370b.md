@@ -3,9 +3,9 @@ title: "Section 2370b - Humanitarian assistance code of conduct"
 usc_title: 22
 usc_section: "2370b"
 chapter: 32
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "22 U.S.C. § 2370b"
-generated_at: "2026-03-30T05:19:24.991Z"
+generated_at: "2026-03-30T05:25:11.558Z"
 status: "active"
 ---
 

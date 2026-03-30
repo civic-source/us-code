@@ -3,9 +3,9 @@ title: "Section 7715 - Declaration of extraordinary emergency and resulting auth
 usc_title: 7
 usc_section: "7715"
 chapter: 104
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "7 U.S.C. § 7715"
-generated_at: "2026-03-30T05:18:51.977Z"
+generated_at: "2026-03-30T05:23:22.747Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15 - Authorization of appropriations"
 usc_title: 20
 usc_section: "15"
 chapter: 3
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "20 U.S.C. § 15"
-generated_at: "2026-03-30T05:19:13.921Z"
+generated_at: "2026-03-30T05:24:20.021Z"
 status: "active"
 ---
 

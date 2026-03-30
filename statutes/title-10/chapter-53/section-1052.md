@@ -3,9 +3,9 @@ title: "Section 1052 - Adoption expenses: reimbursement"
 usc_title: 10
 usc_section: "1052"
 chapter: 53
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 1052"
-generated_at: "2026-03-30T05:18:58.202Z"
+generated_at: "2026-03-30T05:23:17.747Z"
 status: "active"
 ---
 

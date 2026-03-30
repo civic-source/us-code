@@ -3,9 +3,9 @@ title: "Section 1330 - National estuary program"
 usc_title: 33
 usc_section: "1330"
 chapter: 26
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "33 U.S.C. § 1330"
-generated_at: "2026-03-30T05:20:10.575Z"
+generated_at: "2026-03-30T05:25:27.669Z"
 status: "active"
 ---
 
@@ -44,11 +44,25 @@ status: "active"
       - **(i)** 75 percent of the annual aggregate costs of the development of a comprehensive conservation and management plan; and
       - **(ii)** 50 percent of the annual aggregate costs of the implementation of the plan; and
     - **(B)** shall be made on condition that the non-Federal share of the costs are provided from non-Federal sources.
+  - **(4)**
+    - **(A)** Using the amounts made available under subsection (i)(2)(B), the Administrator shall make competitive awards under this paragraph.
+    - **(B)** The Administrator shall solicit applications for awards under this paragraph from State, interstate, and regional water pollution control agencies and entities, State coastal zone management agencies, interstate agencies, other public or nonprofit private agencies, institutions, organizations, and individuals.
+    - **(C)** In selecting award recipients under this paragraph, the Administrator shall select recipients that are best able to address urgent and challenging issues that threaten the ecological and economic well-being of coastal areas. Such issues shall include—
+      - **(i)** extensive seagrass habitat losses resulting in significant impacts on fisheries and water quality;
+      - **(ii)** recurring harmful algae blooms;
+      - **(iii)** unusual marine mammal mortalities;
+      - **(iv)** invasive exotic species that may threaten wastewater systems and cause other damage;
+      - **(v)** jellyfish proliferation limiting community access to water during peak tourism seasons;
+      - **(vi)** flooding that may be related to sea level rise or wetland degradation or loss; and
+      - **(vii)** low dissolved oxygen conditions in estuarine waters and related nutrient management.
 - **(h)** Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
-- **(i)** There are authorized to be appropriated to the Administrator not to exceed $35,000,000 for each of fiscal years 2001 through 2010 for—
-  - **(1)** expenses related to the administration of management conferences under this section, not to exceed 10 percent of the amount appropriated under this subsection;
-  - **(2)** making grants under subsection (g) of this section; and
-  - **(3)** monitoring the implementation of a conservation and management plan by the management conference or by the Administrator, in any case in which the conference has been terminated.
+- **(i)**
+  - **(1)** There is authorized to be appropriated to the Administrator $26,500,000 for each of fiscal years 2017 through 2021 for—
+    - **(A)** expenses relating to the administration of grants or awards by the Administrator under this section, including the award and oversight of grants and awards, except that such expenses may not exceed 5 percent of the amount appropriated under this subsection for a fiscal year; and
+    - **(B)** making grants and awards under subsection (g).
+  - **(2)**
+    - **(A)** Not less than 80 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator to provide grant assistance for the development, implementation, and monitoring of each of the conservation and management plans eligible for grant assistance under subsection (g)(2).
+    - **(B)** Not less than 15 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
 - **(j)**
   - **(1)** In order to determine the need to convene a management conference under this section or at the request of such a management conference, the Administrator shall coordinate and implement, through the National Marine Pollution Program Office and the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration, as appropriate, for one or more estuarine zones—
     - **(A)** a long-term program of trend assessment monitoring measuring variations in pollutant concentrations, marine ecology, and other physical or biological environmental parameters which may affect estuarine zones, to provide the Administrator the capacity to determine the potential and actual effects of alternative management strategies and measures;

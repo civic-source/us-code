@@ -3,9 +3,9 @@ title: "Section 607 - Sale by Secretary; additional options; validation of assig
 usc_title: 7
 usc_section: "607"
 chapter: 26
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "7 U.S.C. § 607"
-generated_at: "2026-03-30T05:18:51.854Z"
+generated_at: "2026-03-30T05:23:22.621Z"
 status: "active"
 ---
 

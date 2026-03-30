@@ -3,9 +3,9 @@ title: "Section 381 - Imports and exports"
 usc_title: 21
 usc_section: "381"
 chapter: 9
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "21 U.S.C. § 381"
-generated_at: "2026-03-30T05:19:21.814Z"
+generated_at: "2026-03-30T05:25:00.379Z"
 status: "active"
 ---
 

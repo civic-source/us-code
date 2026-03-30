@@ -3,9 +3,9 @@ title: "Section 9040 - Adjustments of loans"
 usc_title: 7
 usc_section: "9040"
 chapter: 115
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "7 U.S.C. § 9040"
-generated_at: "2026-03-30T05:18:51.996Z"
+generated_at: "2026-03-30T05:23:22.765Z"
 status: "active"
 ---
 

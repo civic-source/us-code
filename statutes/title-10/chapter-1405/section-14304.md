@@ -3,9 +3,9 @@ title: "Section 14304 - Eligibility for consideration for promotion: maximum yea
 usc_title: 10
 usc_section: "14304"
 chapter: 1405
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 14304"
-generated_at: "2026-03-30T05:18:58.304Z"
+generated_at: "2026-03-30T05:23:17.852Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 553 - Unauthorized reception of cable service"
 usc_title: 47
 usc_section: "553"
 chapter: 5
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "47 U.S.C. § 553"
-generated_at: "2026-03-30T05:21:19.797Z"
+generated_at: "2026-03-30T05:26:08.090Z"
 status: "active"
 ---
 

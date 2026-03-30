@@ -3,9 +3,9 @@ title: "Section 110 - Furniture for the Executive Residence at the White House"
 usc_title: 3
 usc_section: "110"
 chapter: 2
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "3 U.S.C. § 110"
-generated_at: "2026-03-30T05:18:43.483Z"
+generated_at: "2026-03-30T05:22:51.515Z"
 status: "active"
 ---
 

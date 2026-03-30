@@ -3,9 +3,9 @@ title: "Section 109 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(13)
 usc_title: 8
 usc_section: "109"
 chapter: 6
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "8 U.S.C. § 109"
-generated_at: "2026-03-30T05:18:49.395Z"
+generated_at: "2026-03-30T05:23:20.571Z"
 status: "repealed"
 ---
 

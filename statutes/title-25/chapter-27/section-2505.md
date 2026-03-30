@@ -3,9 +3,9 @@ title: "Section 2505 - Duration of eligibility determination"
 usc_title: 25
 usc_section: "2505"
 chapter: 27
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 2505"
-generated_at: "2026-03-30T05:19:22.810Z"
+generated_at: "2026-03-30T05:24:59.614Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** an annual financial audit conducted pursuant to the standards of the Single Audit Act of 1984 [ 31 U.S.C. 7501 et seq.];
     - **(C)** a biennial compliance audit of the procurement of personal property during the period for which the report is being prepared that shall be in compliance with written procurement standards that are developed by the local school board;
     - **(D)** an annual submission to the Secretary of the number of students served and a brief description of programs offered under the grant; and
-    - **(E)** a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii). 1 1 So in original. Probably should be subsection “(c)(1)(B)(ii)”.
+    - **(E)** a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii). 1 1 So in original. Probably should be subsection “(c)(1)(B)(ii).”
   - **(2)** Where appropriate, other tribally controlled schools and representatives of tribally controlled community colleges shall make up members of the evaluation review teams.
   - **(3)** In the case of a school which is accredited, evaluations will be conducted at intervals under the terms of accreditation.
   - **(4)**

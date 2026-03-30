@@ -3,9 +3,9 @@ title: "Section 1264 - Tax exemption; Social Security eligibility"
 usc_title: 25
 usc_section: "1264"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 1264"
-generated_at: "2026-03-30T05:19:22.772Z"
+generated_at: "2026-03-30T05:24:59.577Z"
 status: "active"
 ---
 

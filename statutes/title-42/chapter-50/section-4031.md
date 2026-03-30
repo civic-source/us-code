@@ -3,9 +3,9 @@ title: "Section 4031 - Treatment of certain payments"
 usc_title: 42
 usc_section: "4031"
 chapter: 50
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 4031"
-generated_at: "2026-03-30T05:21:13.615Z"
+generated_at: "2026-03-30T05:25:55.742Z"
 status: "active"
 ---
 

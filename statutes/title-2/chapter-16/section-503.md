@@ -3,9 +3,9 @@ title: "Section 503 - Official mail of persons entitled to use congressional fra
 usc_title: 2
 usc_section: "503"
 chapter: 16
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "2 U.S.C. § 503"
-generated_at: "2026-03-30T05:18:44.426Z"
+generated_at: "2026-03-30T05:22:50.369Z"
 status: "active"
 ---
 

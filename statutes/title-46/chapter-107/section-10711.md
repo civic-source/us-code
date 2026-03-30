@@ -3,9 +3,9 @@ title: "Section 10711 - Penalties"
 usc_title: 46
 usc_section: "10711"
 chapter: 107
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "46 U.S.C. § 10711"
-generated_at: "2026-03-30T05:21:25.926Z"
+generated_at: "2026-03-30T05:26:00.595Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1425b - Issuance of notes, bonds, and obligations"
 usc_title: 48
 usc_section: "1425b"
 chapter: 8
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "48 U.S.C. § 1425b"
-generated_at: "2026-03-30T05:21:26.226Z"
+generated_at: "2026-03-30T05:25:58.823Z"
 status: "active"
 ---
 

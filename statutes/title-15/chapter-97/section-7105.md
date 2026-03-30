@@ -3,9 +3,9 @@ title: "Section 7105 - Establishment of the National Women’s Business Council"
 usc_title: 15
 usc_section: "7105"
 chapter: 97
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "15 U.S.C. § 7105"
-generated_at: "2026-03-30T05:19:08.664Z"
+generated_at: "2026-03-30T05:24:07.303Z"
 status: "active"
 ---
 

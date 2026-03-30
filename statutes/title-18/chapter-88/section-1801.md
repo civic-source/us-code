@@ -3,9 +3,9 @@ title: "Section 1801 - Video voyeurism"
 usc_title: 18
 usc_section: "1801"
 chapter: 88
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "18 U.S.C. § 1801"
-generated_at: "2026-03-30T05:19:11.947Z"
+generated_at: "2026-03-30T05:24:10.611Z"
 status: "active"
 ---
 

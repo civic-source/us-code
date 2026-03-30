@@ -3,9 +3,9 @@ title: "Section 13 - HIT Standards Committee"
 usc_title: 42
 usc_section: "13"
 chapter: 6
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T05:21:13.350Z"
+generated_at: "2026-03-30T05:25:55.468Z"
 status: "active"
 ---
 

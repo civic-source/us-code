@@ -3,9 +3,9 @@ title: "Section 4725 - Gifts and travel"
 usc_title: 2
 usc_section: "4725"
 chapter: 47
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "2 U.S.C. § 4725"
-generated_at: "2026-03-30T05:18:44.456Z"
+generated_at: "2026-03-30T05:22:50.396Z"
 status: "active"
 ---
 

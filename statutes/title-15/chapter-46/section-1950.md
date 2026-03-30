@@ -3,9 +3,9 @@ title: "Section 1950 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108
 usc_title: 15
 usc_section: "1950"
 chapter: 46
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "15 U.S.C. § 1950"
-generated_at: "2026-03-30T05:19:08.616Z"
+generated_at: "2026-03-30T05:24:07.257Z"
 status: "repealed"
 ---
 

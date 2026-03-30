@@ -3,9 +3,9 @@ title: "Section 811 - Authorization of appropriations"
 usc_title: 6
 usc_section: "811"
 chapter: 2
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "6 U.S.C. § 811"
-generated_at: "2026-03-30T05:18:48.123Z"
+generated_at: "2026-03-30T05:23:18.197Z"
 status: "active"
 ---
 

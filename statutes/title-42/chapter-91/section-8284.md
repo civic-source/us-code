@@ -3,9 +3,9 @@ title: "Section 8284 - Repealed. Pub. L. 99–412, title II , § 201(a), Aug. 28
 usc_title: 42
 usc_section: "8284"
 chapter: 91
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 8284"
-generated_at: "2026-03-30T05:21:13.729Z"
+generated_at: "2026-03-30T05:25:55.862Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 556 - Reversion of interest in property on death without heirs o
 usc_title: 25
 usc_section: "556"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 556"
-generated_at: "2026-03-30T05:19:22.752Z"
+generated_at: "2026-03-30T05:24:59.558Z"
 status: "active"
 ---
 

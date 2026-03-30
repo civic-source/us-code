@@ -3,9 +3,9 @@ title: "Section 3631 - Tribal authority"
 usc_title: 25
 usc_section: "3631"
 chapter: 38
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 3631"
-generated_at: "2026-03-30T05:19:22.818Z"
+generated_at: "2026-03-30T05:24:59.622Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 448 - Omitted"
 usc_title: 12
 usc_section: "448"
 chapter: 3
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "12 U.S.C. § 448"
-generated_at: "2026-03-30T05:19:02.877Z"
+generated_at: "2026-03-30T05:23:28.492Z"
 status: "omitted"
 ---
 

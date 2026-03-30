@@ -3,9 +3,9 @@ title: "Section 1776b - Settlement Agreement"
 usc_title: 25
 usc_section: "1776b"
 chapter: 19
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 1776b"
-generated_at: "2026-03-30T05:19:22.795Z"
+generated_at: "2026-03-30T05:24:59.599Z"
 status: "active"
 ---
 

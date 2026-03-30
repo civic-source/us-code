@@ -3,9 +3,9 @@ title: "Section 471 - Vocational and trade schools; appropriation for tuition"
 usc_title: 25
 usc_section: "471"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 471"
-generated_at: "2026-03-30T05:19:22.750Z"
+generated_at: "2026-03-30T05:24:59.556Z"
 status: "active"
 ---
 

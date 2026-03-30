@@ -3,9 +3,9 @@ title: "Section 1780g - Trust status and National Forest boundaries"
 usc_title: 25
 usc_section: "1780g"
 chapter: 19
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 1780g"
-generated_at: "2026-03-30T05:19:22.798Z"
+generated_at: "2026-03-30T05:24:59.602Z"
 status: "active"
 ---
 

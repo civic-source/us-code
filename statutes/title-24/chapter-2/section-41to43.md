@@ -3,9 +3,9 @@ title: "Section 41to43 - Repealed. Pub. L. 101–510, div. A, title XV, § 1532(
 usc_title: 24
 usc_section: "41to43"
 chapter: 2
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "24 U.S.C. § 41to43"
-generated_at: "2026-03-30T05:19:21.902Z"
+generated_at: "2026-03-30T05:24:57.189Z"
 status: "repealed"
 ---
 

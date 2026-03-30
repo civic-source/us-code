@@ -3,9 +3,9 @@ title: "Section 663 - Joint duty assignments after completion of joint professio
 usc_title: 10
 usc_section: "663"
 chapter: 38
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 663"
-generated_at: "2026-03-30T05:18:58.188Z"
+generated_at: "2026-03-30T05:23:17.733Z"
 status: "active"
 ---
 

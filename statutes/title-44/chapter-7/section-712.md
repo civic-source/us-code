@@ -3,9 +3,9 @@ title: "Section 712 - Printing of postal conventions"
 usc_title: 44
 usc_section: "712"
 chapter: 7
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "44 U.S.C. § 712"
-generated_at: "2026-03-30T05:20:57.328Z"
+generated_at: "2026-03-30T05:25:34.224Z"
 status: "active"
 ---
 

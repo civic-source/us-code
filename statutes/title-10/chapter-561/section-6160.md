@@ -3,9 +3,9 @@ title: "Section 6160 - Pension to persons serving ten years"
 usc_title: 10
 usc_section: "6160"
 chapter: 561
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 6160"
-generated_at: "2026-03-30T05:18:58.280Z"
+generated_at: "2026-03-30T05:23:17.827Z"
 status: "active"
 ---
 

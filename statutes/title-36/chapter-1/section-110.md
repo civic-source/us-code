@@ -3,9 +3,9 @@ title: "Section 110 - Flag Day"
 usc_title: 36
 usc_section: "110"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "36 U.S.C. § 110"
-generated_at: "2026-03-30T05:20:14.302Z"
+generated_at: "2026-03-30T05:25:30.277Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3997 - Distribution of information concerning benefits of subcha
 usc_title: 50
 usc_section: "3997"
 chapter: 50
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "50 U.S.C. § 3997"
-generated_at: "2026-03-30T05:21:41.186Z"
+generated_at: "2026-03-30T05:25:59.918Z"
 status: "active"
 ---
 

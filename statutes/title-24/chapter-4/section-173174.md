@@ -3,9 +3,9 @@ title: "Section 173174 - Repealed. June 30, 1949, ch. 288 , title VI, § 602(a)(
 usc_title: 24
 usc_section: "173174"
 chapter: 4
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "24 U.S.C. § 173174"
-generated_at: "2026-03-30T05:19:21.903Z"
+generated_at: "2026-03-30T05:24:57.189Z"
 status: "repealed"
 ---
 

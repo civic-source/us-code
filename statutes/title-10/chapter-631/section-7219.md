@@ -3,9 +3,9 @@ title: "Section 7219 - Leases of waterfront property from States or municipaliti
 usc_title: 10
 usc_section: "7219"
 chapter: 631
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 7219"
-generated_at: "2026-03-30T05:18:58.284Z"
+generated_at: "2026-03-30T05:23:17.831Z"
 status: "active"
 ---
 

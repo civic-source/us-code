@@ -3,9 +3,9 @@ title: "Section 6436 - Termination"
 usc_title: 22
 usc_section: "6436"
 chapter: 73
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "22 U.S.C. § 6436"
-generated_at: "2026-03-30T05:19:25.049Z"
+generated_at: "2026-03-30T05:25:11.610Z"
 status: "active"
 ---
 

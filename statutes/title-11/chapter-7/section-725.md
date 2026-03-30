@@ -3,9 +3,9 @@ title: "Section 725 - Disposition of certain property"
 usc_title: 11
 usc_section: "725"
 chapter: 7
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "11 U.S.C. § 725"
-generated_at: "2026-03-30T05:19:04.366Z"
+generated_at: "2026-03-30T05:23:25.490Z"
 status: "active"
 ---
 

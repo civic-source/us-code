@@ -3,9 +3,9 @@ title: "Section 6374 - Repealed. Pub. L. 96–513, title III , § 335, Dec. 12, 
 usc_title: 10
 usc_section: "6374"
 chapter: 573
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 6374"
-generated_at: "2026-03-30T05:18:58.282Z"
+generated_at: "2026-03-30T05:23:17.828Z"
 status: "repealed"
 ---
 

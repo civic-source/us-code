@@ -3,9 +3,9 @@ title: "Section 100 - Repealed. Pub. L. 104–186, title II , § 204(46)–(51),
 usc_title: 2
 usc_section: "100"
 chapter: 4
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "2 U.S.C. § 100"
-generated_at: "2026-03-30T05:18:44.417Z"
+generated_at: "2026-03-30T05:22:50.360Z"
 status: "repealed"
 ---
 

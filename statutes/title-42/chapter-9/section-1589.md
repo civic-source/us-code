@@ -3,9 +3,9 @@ title: "Section 1589 - Conveyance of land and nondwelling structures thereon to 
 usc_title: 42
 usc_section: "1589"
 chapter: 9
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 1589"
-generated_at: "2026-03-30T05:21:13.530Z"
+generated_at: "2026-03-30T05:25:55.655Z"
 status: "active"
 ---
 

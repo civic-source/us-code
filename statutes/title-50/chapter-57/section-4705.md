@@ -3,9 +3,9 @@ title: "Section 4705 - Termination of section 4701(a); authority of United State
 usc_title: 50
 usc_section: "4705"
 chapter: 57
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "50 U.S.C. § 4705"
-generated_at: "2026-03-30T05:21:41.203Z"
+generated_at: "2026-03-30T05:25:59.935Z"
 status: "active"
 ---
 

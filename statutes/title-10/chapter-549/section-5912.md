@@ -3,9 +3,9 @@ title: "Section 5912 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "5912"
 chapter: 549
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 5912"
-generated_at: "2026-03-30T05:18:58.279Z"
+generated_at: "2026-03-30T05:23:17.826Z"
 status: "repealed"
 ---
 

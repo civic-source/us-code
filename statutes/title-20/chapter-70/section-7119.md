@@ -3,9 +3,9 @@ title: "Section 7119 - Activities to support the effective use of technology"
 usc_title: 20
 usc_section: "7119"
 chapter: 70
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "20 U.S.C. § 7119"
-generated_at: "2026-03-30T05:19:14.032Z"
+generated_at: "2026-03-30T05:24:20.125Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60140 - Cover over buried pipelines"
 usc_title: 49
 usc_section: "60140"
 chapter: 601
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "49 U.S.C. § 60140"
-generated_at: "2026-03-30T05:21:19.408Z"
+generated_at: "2026-03-30T05:26:03.749Z"
 status: "active"
 ---
 

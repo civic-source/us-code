@@ -3,9 +3,9 @@ title: "Section 2518 - Overseas foreign critical technology monitoring and asses
 usc_title: 10
 usc_section: "2518"
 chapter: 148
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 2518"
-generated_at: "2026-03-30T05:18:58.254Z"
+generated_at: "2026-03-30T05:23:17.800Z"
 status: "active"
 ---
 

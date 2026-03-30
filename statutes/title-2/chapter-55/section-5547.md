@@ -3,9 +3,9 @@ title: "Section 5547 - Emergency expenditures for meals, refreshments, and other
 usc_title: 2
 usc_section: "5547"
 chapter: 55
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "2 U.S.C. § 5547"
-generated_at: "2026-03-30T05:18:44.459Z"
+generated_at: "2026-03-30T05:22:50.399Z"
 status: "active"
 ---
 

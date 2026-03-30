@@ -3,9 +3,9 @@ title: "Section 81 - Administration by Regents of Smithsonian Institution"
 usc_title: 20
 usc_section: "81"
 chapter: 4
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "20 U.S.C. § 81"
-generated_at: "2026-03-30T05:19:13.922Z"
+generated_at: "2026-03-30T05:24:20.021Z"
 status: "active"
 ---
 

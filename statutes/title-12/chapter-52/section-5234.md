@@ -3,9 +3,9 @@ title: "Section 5234 - Cooperation with the FBI"
 usc_title: 12
 usc_section: "5234"
 chapter: 52
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "12 U.S.C. § 5234"
-generated_at: "2026-03-30T05:19:03.011Z"
+generated_at: "2026-03-30T05:23:28.618Z"
 status: "active"
 ---
 

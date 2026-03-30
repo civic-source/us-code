@@ -3,9 +3,9 @@ title: "Section 57306 - Payment of trade-in allowance"
 usc_title: 46
 usc_section: "57306"
 chapter: 573
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "46 U.S.C. § 57306"
-generated_at: "2026-03-30T05:21:25.942Z"
+generated_at: "2026-03-30T05:26:00.615Z"
 status: "active"
 ---
 

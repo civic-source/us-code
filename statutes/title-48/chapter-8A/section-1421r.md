@@ -3,9 +3,9 @@ title: "Section 1421r - Port of Guam Improvement Enterprise Program"
 usc_title: 48
 usc_section: "1421r"
 chapter: 8
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "48 U.S.C. § 1421r"
-generated_at: "2026-03-30T05:21:26.225Z"
+generated_at: "2026-03-30T05:25:58.820Z"
 status: "active"
 ---
 

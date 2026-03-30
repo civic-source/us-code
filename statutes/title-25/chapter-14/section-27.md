@@ -3,9 +3,9 @@ title: "Section 27 - Jurisdiction; procedure"
 usc_title: 25
 usc_section: "27"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 27"
-generated_at: "2026-03-30T05:19:22.774Z"
+generated_at: "2026-03-30T05:24:59.579Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(1)** Subject to paragraph (2), only the United States District Court for the District of Columbia, and for the districts in North Dakota and South Dakota, shall have original jurisdiction over any action brought to contest the constitutionality or validity under law of the distributions authorized under this part.
   - **(2)** After the filing of a first action under subsection (a), all other actions subsequently filed under that subsection shall be consolidated with that first action.
   - **(3)** If appropriate, the United States Court of Federal Claims shall have jurisdiction over an action referred to in subsection (a).
-- **(c)** In an action brought under this section, not later than 30 days after the service of a summons and complaint on the Secretary that raises a claim identified in subsection (a) the Secretary shall send a copy of that summons and complaint, together with any responsive pleading, to each covered Indian tribe by certified mail with return receipt requested.
+- **(c)** In an action brought under this section, not later than 30 days after the service of a summons and complaint on the Secretary that raises a claim identified in subsection (a), the Secretary shall send a copy of that summons and complaint, together with any responsive pleading, to each covered Indian tribe by certified mail with return receipt requested.
 - **(d)** No action raising a claim referred to in subsection (a) may be filed after the date that is 365 days after November 13, 1998 .
 - **(e)**
   - **(1)**

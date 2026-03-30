@@ -3,9 +3,9 @@ title: "Section 711e - Reservation"
 usc_title: 25
 usc_section: "711e"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 711e"
-generated_at: "2026-03-30T05:19:22.761Z"
+generated_at: "2026-03-30T05:24:59.567Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Any reservation for the tribe shall be established by an Act of Congress enacted after November 18, 1977 .
 - **(b)** Inasmuch as the reservation of the tribe has been terminated, the Secretary shall negotiate with the tribe, or with representatives of the tribe chosen by the tribe, concerning the establishment of a reservation for the tribe and shall, in accordance with subsections (c) and (d) and within two years after November 18, 1977 , develop a plan for the establishment of a reservation for the tribe. Upon approval of such plan by the tribal officials elected under the tribal constitution and bylaws adopted pursuant to section 711d of this title , the Secretary shall submit such plan, in the form of proposed legislation, to the Congress.
-- **(c)** To assure that legitimate State and local interests are not prejudiced by the creation of a reservation for the tribe, the Secretary, in developing a plan under subsection (b)for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
+- **(c)** To assure that legitimate State and local interests are not prejudiced by the creation of a reservation for the tribe, the Secretary, in developing a plan under subsection (b) for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
   - **(1)** the size and location of the reservation;
   - **(2)** the effect the establishment of the reservation would have on State and local tax revenues;
   - **(3)** the criminal and civil jurisdiction of the State of Oregon with respect to the reservation and persons on the reservation;

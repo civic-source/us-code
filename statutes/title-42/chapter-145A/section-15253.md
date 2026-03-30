@@ -3,9 +3,9 @@ title: "Section 15253 - State and Local Law Enforcement Congressional Badge of B
 usc_title: 42
 usc_section: "15253"
 chapter: 145
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 15253"
-generated_at: "2026-03-30T05:21:13.849Z"
+generated_at: "2026-03-30T05:25:55.980Z"
 status: "active"
 ---
 

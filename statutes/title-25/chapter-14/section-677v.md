@@ -3,9 +3,9 @@ title: "Section 677v - Termination of Federal trust; publication; termination of
 usc_title: 25
 usc_section: "677v"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 677v"
-generated_at: "2026-03-30T05:19:22.760Z"
+generated_at: "2026-03-30T05:24:59.566Z"
 status: "active"
 ---
 

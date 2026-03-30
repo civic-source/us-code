@@ -3,9 +3,9 @@ title: "Section 883 - Repealed. Aug. 6, 1947, ch. 504 , § 10(2)–(5), 61 Stat.
 usc_title: 33
 usc_section: "883"
 chapter: 17
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "33 U.S.C. § 883"
-generated_at: "2026-03-30T05:20:10.557Z"
+generated_at: "2026-03-30T05:25:27.648Z"
 status: "repealed"
 ---
 

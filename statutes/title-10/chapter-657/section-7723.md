@@ -3,9 +3,9 @@ title: "Section 7723 - Stay of proceedings for preserving evidence after stay of
 usc_title: 10
 usc_section: "7723"
 chapter: 657
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 7723"
-generated_at: "2026-03-30T05:18:58.289Z"
+generated_at: "2026-03-30T05:23:17.836Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5503 - Navy and Marine Corps: warrant officer grades"
 usc_title: 10
 usc_section: "5503"
 chapter: 535
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 5503"
-generated_at: "2026-03-30T05:18:58.278Z"
+generated_at: "2026-03-30T05:23:17.825Z"
 status: "active"
 ---
 

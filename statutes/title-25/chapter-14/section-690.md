@@ -3,9 +3,9 @@ title: "Section 690 - Distribution of judgment fund; tax exemption of per capita
 usc_title: 25
 usc_section: "690"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 690"
-generated_at: "2026-03-30T05:19:22.760Z"
+generated_at: "2026-03-30T05:24:59.566Z"
 status: "active"
 ---
 

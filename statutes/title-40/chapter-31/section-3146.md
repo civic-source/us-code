@@ -3,9 +3,9 @@ title: "Section 3146 - Effect on other federal laws"
 usc_title: 40
 usc_section: "3146"
 chapter: 31
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "40 U.S.C. § 3146"
-generated_at: "2026-03-30T05:20:12.931Z"
+generated_at: "2026-03-30T05:25:30.958Z"
 status: "active"
 ---
 

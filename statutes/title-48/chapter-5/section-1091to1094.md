@@ -3,9 +3,9 @@ title: "Section 1091to1094 - Omitted"
 usc_title: 48
 usc_section: "1091to1094"
 chapter: 5
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "48 U.S.C. § 1091to1094"
-generated_at: "2026-03-30T05:21:26.223Z"
+generated_at: "2026-03-30T05:25:58.818Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 565 - Required contract terms"
 usc_title: 14
 usc_section: "565"
 chapter: 15
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "14 U.S.C. § 565"
-generated_at: "2026-03-30T05:19:00.333Z"
+generated_at: "2026-03-30T05:23:25.191Z"
 status: "active"
 ---
 

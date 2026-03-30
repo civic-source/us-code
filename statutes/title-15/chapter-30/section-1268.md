@@ -3,9 +3,9 @@ title: "Section 1268 - Proceedings in name of United States; subpenas"
 usc_title: 15
 usc_section: "1268"
 chapter: 30
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "15 U.S.C. § 1268"
-generated_at: "2026-03-30T05:19:08.590Z"
+generated_at: "2026-03-30T05:24:07.232Z"
 status: "active"
 ---
 

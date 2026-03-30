@@ -3,9 +3,9 @@ title: "Section 3241 - Jurisdiction of offenses under certain sections"
 usc_title: 18
 usc_section: "3241"
 chapter: 211
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "18 U.S.C. § 3241"
-generated_at: "2026-03-30T05:19:11.966Z"
+generated_at: "2026-03-30T05:24:10.629Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 669 - Cooperation of Secretary of the Interior with States; cond
 usc_title: 16
 usc_section: "669"
 chapter: 5
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "16 U.S.C. § 669"
-generated_at: "2026-03-30T05:19:17.051Z"
+generated_at: "2026-03-30T05:24:55.044Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 89a - Transferred"
 usc_title: 2
 usc_section: "89a"
 chapter: 4
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "2 U.S.C. § 89a"
-generated_at: "2026-03-30T05:18:44.417Z"
+generated_at: "2026-03-30T05:22:50.359Z"
 status: "transferred"
 ---
 

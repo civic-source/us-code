@@ -3,9 +3,9 @@ title: "Section 715h - Operation of State game laws"
 usc_title: 16
 usc_section: "715h"
 chapter: 7
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "16 U.S.C. § 715h"
-generated_at: "2026-03-30T05:19:17.058Z"
+generated_at: "2026-03-30T05:24:55.051Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2336 - Renumbered § 2679]"
 usc_title: 10
 usc_section: "2336"
 chapter: 137
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 2336"
-generated_at: "2026-03-30T05:18:58.243Z"
+generated_at: "2026-03-30T05:23:17.789Z"
 status: "renumbered"
 ---
 

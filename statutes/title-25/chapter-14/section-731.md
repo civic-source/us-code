@@ -3,9 +3,9 @@ title: "Section 731 - Definitions"
 usc_title: 25
 usc_section: "731"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 731"
-generated_at: "2026-03-30T05:19:22.763Z"
+generated_at: "2026-03-30T05:24:59.569Z"
 status: "active"
 ---
 

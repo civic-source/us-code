@@ -3,9 +3,9 @@ title: "Section 535a - Congressional consent to State agreements with Canada and
 usc_title: 33
 usc_section: "535a"
 chapter: 11
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "33 U.S.C. § 535a"
-generated_at: "2026-03-30T05:20:10.546Z"
+generated_at: "2026-03-30T05:25:27.638Z"
 status: "active"
 ---
 

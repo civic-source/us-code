@@ -3,9 +3,9 @@ title: "Section 4403 - Bilateral netting"
 usc_title: 12
 usc_section: "4403"
 chapter: 45
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "12 U.S.C. § 4403"
-generated_at: "2026-03-30T05:19:02.992Z"
+generated_at: "2026-03-30T05:23:28.600Z"
 status: "active"
 ---
 

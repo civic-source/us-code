@@ -3,9 +3,9 @@ title: "Section 1090a - Commanding officer and supervisor referrals of members f
 usc_title: 10
 usc_section: "1090a"
 chapter: 55
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 1090a"
-generated_at: "2026-03-30T05:18:58.206Z"
+generated_at: "2026-03-30T05:23:17.751Z"
 status: "active"
 ---
 

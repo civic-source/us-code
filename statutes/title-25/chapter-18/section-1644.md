@@ -3,9 +3,9 @@ title: "Section 1644 - Grants to and contracts with the Service, Indian tribes, 
 usc_title: 25
 usc_section: "1644"
 chapter: 18
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 1644"
-generated_at: "2026-03-30T05:19:22.785Z"
+generated_at: "2026-03-30T05:24:59.589Z"
 status: "active"
 ---
 

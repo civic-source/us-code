@@ -3,9 +3,9 @@ title: "Section 154 - National Labor Relations Board; eligibility for reappointm
 usc_title: 29
 usc_section: "154"
 chapter: 7
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "29 U.S.C. § 154"
-generated_at: "2026-03-30T05:19:38.002Z"
+generated_at: "2026-03-30T05:25:17.570Z"
 status: "active"
 ---
 

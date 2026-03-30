@@ -3,9 +3,9 @@ title: "Section 6991d - Inspections, monitoring, testing, and corrective action"
 usc_title: 42
 usc_section: "6991d"
 chapter: 82
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 6991d"
-generated_at: "2026-03-30T05:21:13.683Z"
+generated_at: "2026-03-30T05:25:55.814Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7423 - Periodic re-examination of production requirements"
 usc_title: 10
 usc_section: "7423"
 chapter: 641
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 7423"
-generated_at: "2026-03-30T05:18:58.286Z"
+generated_at: "2026-03-30T05:23:17.833Z"
 status: "active"
 ---
 

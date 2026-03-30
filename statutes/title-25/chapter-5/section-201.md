@@ -3,9 +3,9 @@ title: "Section 201 - Penalties; how recovered"
 usc_title: 25
 usc_section: "201"
 chapter: 5
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 201"
-generated_at: "2026-03-30T05:19:22.736Z"
+generated_at: "2026-03-30T05:24:59.542Z"
 status: "active"
 ---
 

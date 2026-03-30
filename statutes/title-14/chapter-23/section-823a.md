@@ -3,9 +3,9 @@ title: "Section 823a - Members of the Auxiliary; status"
 usc_title: 14
 usc_section: "823a"
 chapter: 23
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "14 U.S.C. § 823a"
-generated_at: "2026-03-30T05:19:00.336Z"
+generated_at: "2026-03-30T05:23:25.194Z"
 status: "active"
 ---
 

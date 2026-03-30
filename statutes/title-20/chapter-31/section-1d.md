@@ -3,9 +3,9 @@ title: "Section 1d - Use of Council staff and facilities"
 usc_title: 20
 usc_section: "1d"
 chapter: 31
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "20 U.S.C. § 1d"
-generated_at: "2026-03-30T05:19:13.985Z"
+generated_at: "2026-03-30T05:24:20.081Z"
 status: "active"
 ---
 

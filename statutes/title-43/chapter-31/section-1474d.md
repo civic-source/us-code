@@ -3,9 +3,9 @@ title: "Section 1474d - Environmental Improvement and Restoration Fund"
 usc_title: 43
 usc_section: "1474d"
 chapter: 31
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "43 U.S.C. § 1474d"
-generated_at: "2026-03-30T05:21:00.306Z"
+generated_at: "2026-03-30T05:25:34.759Z"
 status: "active"
 ---
 

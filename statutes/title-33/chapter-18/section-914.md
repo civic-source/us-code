@@ -3,9 +3,9 @@ title: "Section 914 - Payment of compensation"
 usc_title: 33
 usc_section: "914"
 chapter: 18
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "33 U.S.C. § 914"
-generated_at: "2026-03-30T05:20:10.559Z"
+generated_at: "2026-03-30T05:25:27.651Z"
 status: "active"
 ---
 

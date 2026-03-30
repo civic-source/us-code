@@ -3,9 +3,9 @@ title: "Section 3512 - Periods of eligibility"
 usc_title: 38
 usc_section: "3512"
 chapter: 35
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "38 U.S.C. § 3512"
-generated_at: "2026-03-30T05:20:46.172Z"
+generated_at: "2026-03-30T05:25:32.046Z"
 status: "active"
 ---
 

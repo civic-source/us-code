@@ -3,9 +3,9 @@ title: "Section 555a - Petroleum product information"
 usc_title: 33
 usc_section: "555a"
 chapter: 12
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "33 U.S.C. § 555a"
-generated_at: "2026-03-30T05:20:10.547Z"
+generated_at: "2026-03-30T05:25:27.638Z"
 status: "active"
 ---
 

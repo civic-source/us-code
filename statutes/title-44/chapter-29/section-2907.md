@@ -3,9 +3,9 @@ title: "Section 2907 - Records centers and centralized microfilming or digitizat
 usc_title: 44
 usc_section: "2907"
 chapter: 29
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "44 U.S.C. § 2907"
-generated_at: "2026-03-30T05:20:57.333Z"
+generated_at: "2026-03-30T05:25:34.230Z"
 status: "active"
 ---
 

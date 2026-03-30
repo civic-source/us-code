@@ -3,9 +3,9 @@ title: "Section 1863 - Agreements with Federal and State agencies"
 usc_title: 29
 usc_section: "1863"
 chapter: 20
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "29 U.S.C. § 1863"
-generated_at: "2026-03-30T05:19:38.050Z"
+generated_at: "2026-03-30T05:25:17.619Z"
 status: "active"
 ---
 

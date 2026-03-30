@@ -3,9 +3,9 @@ title: "Section 2203 - Emergency measures"
 usc_title: 16
 usc_section: "2203"
 chapter: 42
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "16 U.S.C. § 2203"
-generated_at: "2026-03-30T05:19:17.124Z"
+generated_at: "2026-03-30T05:24:55.116Z"
 status: "active"
 ---
 

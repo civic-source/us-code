@@ -3,9 +3,9 @@ title: "Section 4311 - Repealed. Pub. L. 104–106, div. A, title XVI , § 1624(
 usc_title: 10
 usc_section: "4311"
 chapter: 401
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 4311"
-generated_at: "2026-03-30T05:18:58.272Z"
+generated_at: "2026-03-30T05:23:17.819Z"
 status: "repealed"
 ---
 

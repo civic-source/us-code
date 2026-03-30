@@ -3,9 +3,9 @@ title: "Section 23 - National arrangement for benefits for eligible individuals 
 usc_title: 42
 usc_section: "23"
 chapter: 6
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T05:21:13.353Z"
+generated_at: "2026-03-30T05:25:55.471Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 788e - Disposition of judgment funds"
 usc_title: 25
 usc_section: "788e"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 788e"
-generated_at: "2026-03-30T05:19:22.766Z"
+generated_at: "2026-03-30T05:24:59.571Z"
 status: "active"
 ---
 

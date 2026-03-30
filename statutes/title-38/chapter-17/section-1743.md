@@ -3,9 +3,9 @@ title: "Section 1743 - Applications"
 usc_title: 38
 usc_section: "1743"
 chapter: 17
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "38 U.S.C. § 1743"
-generated_at: "2026-03-30T05:20:46.156Z"
+generated_at: "2026-03-30T05:25:32.032Z"
 status: "active"
 ---
 

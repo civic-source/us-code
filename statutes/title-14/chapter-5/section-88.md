@@ -3,9 +3,9 @@ title: "Section 88 - Saving life and property"
 usc_title: 14
 usc_section: "88"
 chapter: 5
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "14 U.S.C. § 88"
-generated_at: "2026-03-30T05:19:00.330Z"
+generated_at: "2026-03-30T05:23:25.187Z"
 status: "active"
 ---
 

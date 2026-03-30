@@ -3,9 +3,9 @@ title: "Section 30120 - Remedies for defects and noncompliance"
 usc_title: 49
 usc_section: "30120"
 chapter: 301
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "49 U.S.C. § 30120"
-generated_at: "2026-03-30T05:21:19.363Z"
+generated_at: "2026-03-30T05:26:03.705Z"
 status: "active"
 ---
 

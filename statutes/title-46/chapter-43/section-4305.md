@@ -3,9 +3,9 @@ title: "Section 4305 - Exemptions"
 usc_title: 46
 usc_section: "4305"
 chapter: 43
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "46 U.S.C. § 4305"
-generated_at: "2026-03-30T05:21:25.919Z"
+generated_at: "2026-03-30T05:26:00.588Z"
 status: "active"
 ---
 

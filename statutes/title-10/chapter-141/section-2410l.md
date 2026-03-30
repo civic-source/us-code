@@ -3,9 +3,9 @@ title: "Section 2410l - Contracts for advisory and assistance services: cost com
 usc_title: 10
 usc_section: "2410l"
 chapter: 141
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 2410l"
-generated_at: "2026-03-30T05:18:58.248Z"
+generated_at: "2026-03-30T05:23:17.794Z"
 status: "active"
 ---
 

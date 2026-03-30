@@ -3,9 +3,9 @@ title: "Section 7912 - Processing site designations"
 usc_title: 42
 usc_section: "7912"
 chapter: 88
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 7912"
-generated_at: "2026-03-30T05:21:13.722Z"
+generated_at: "2026-03-30T05:25:55.855Z"
 status: "active"
 ---
 

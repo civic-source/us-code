@@ -3,9 +3,9 @@ title: "Section 4401 - Declaration of policy"
 usc_title: 50
 usc_section: "4401"
 chapter: 54
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "50 U.S.C. § 4401"
-generated_at: "2026-03-30T05:21:41.194Z"
+generated_at: "2026-03-30T05:25:59.926Z"
 status: "active"
 ---
 

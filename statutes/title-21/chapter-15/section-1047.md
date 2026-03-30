@@ -3,9 +3,9 @@ title: "Section 1047 - Refusal or withdrawal of inspection services; hearing; gr
 usc_title: 21
 usc_section: "1047"
 chapter: 15
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "21 U.S.C. § 1047"
-generated_at: "2026-03-30T05:19:21.834Z"
+generated_at: "2026-03-30T05:25:00.401Z"
 status: "active"
 ---
 

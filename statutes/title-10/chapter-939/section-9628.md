@@ -3,9 +3,9 @@ title: "Section 9628 - Airplane parts and accessories: civilian flying schools"
 usc_title: 10
 usc_section: "9628"
 chapter: 939
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 9628"
-generated_at: "2026-03-30T05:18:58.295Z"
+generated_at: "2026-03-30T05:23:17.843Z"
 status: "active"
 ---
 

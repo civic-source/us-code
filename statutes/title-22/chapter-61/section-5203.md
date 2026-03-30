@@ -3,9 +3,9 @@ title: "Section 5203 - Enforcement"
 usc_title: 22
 usc_section: "5203"
 chapter: 61
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "22 U.S.C. § 5203"
-generated_at: "2026-03-30T05:19:25.038Z"
+generated_at: "2026-03-30T05:25:11.600Z"
 status: "active"
 ---
 

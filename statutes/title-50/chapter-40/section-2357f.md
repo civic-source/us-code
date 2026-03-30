@@ -3,9 +3,9 @@ title: "Section 2357f - Statutory construction"
 usc_title: 50
 usc_section: "2357f"
 chapter: 40
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "50 U.S.C. § 2357f"
-generated_at: "2026-03-30T05:21:41.155Z"
+generated_at: "2026-03-30T05:25:59.886Z"
 status: "active"
 ---
 

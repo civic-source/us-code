@@ -3,9 +3,9 @@ title: "Section 1101 - Membership roll; preparation; eligibility for enrollment;
 usc_title: 25
 usc_section: "1101"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 1101"
-generated_at: "2026-03-30T05:19:22.770Z"
+generated_at: "2026-03-30T05:24:59.575Z"
 status: "active"
 ---
 

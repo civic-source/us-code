@@ -3,9 +3,9 @@ title: "Section 410 - Minimum participation standards"
 usc_title: 26
 usc_section: "410"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "26 U.S.C. § 410"
-generated_at: "2026-03-30T05:19:54.324Z"
+generated_at: "2026-03-30T05:25:22.747Z"
 status: "active"
 ---
 

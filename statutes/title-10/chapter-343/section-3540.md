@@ -3,9 +3,9 @@ title: "Section 3540 - Repealed. Pub. L. 88–647, title III , § 301(7), Oct. 1
 usc_title: 10
 usc_section: "3540"
 chapter: 343
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 3540"
-generated_at: "2026-03-30T05:18:58.271Z"
+generated_at: "2026-03-30T05:23:17.817Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7263 - Capital fund"
 usc_title: 42
 usc_section: "7263"
 chapter: 84
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 7263"
-generated_at: "2026-03-30T05:21:13.688Z"
+generated_at: "2026-03-30T05:25:55.818Z"
 status: "active"
 ---
 

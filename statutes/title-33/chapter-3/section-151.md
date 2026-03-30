@@ -3,9 +3,9 @@ title: "Section 151 - High seas and inland waters demarcation lines"
 usc_title: 33
 usc_section: "151"
 chapter: 3
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "33 U.S.C. § 151"
-generated_at: "2026-03-30T05:20:10.541Z"
+generated_at: "2026-03-30T05:25:27.631Z"
 status: "active"
 ---
 

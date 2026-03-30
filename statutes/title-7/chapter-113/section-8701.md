@@ -3,9 +3,9 @@ title: "Section 8701 - Definition of Secretary"
 usc_title: 7
 usc_section: "8701"
 chapter: 113
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "7 U.S.C. § 8701"
-generated_at: "2026-03-30T05:18:51.990Z"
+generated_at: "2026-03-30T05:23:22.759Z"
 status: "active"
 ---
 

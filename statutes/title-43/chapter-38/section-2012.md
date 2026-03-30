@@ -3,9 +3,9 @@ title: "Section 2012 - Authorization for appropriation"
 usc_title: 43
 usc_section: "2012"
 chapter: 38
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "43 U.S.C. § 2012"
-generated_at: "2026-03-30T05:21:00.322Z"
+generated_at: "2026-03-30T05:25:34.775Z"
 status: "active"
 ---
 

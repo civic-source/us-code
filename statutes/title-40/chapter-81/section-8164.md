@@ -3,9 +3,9 @@ title: "Section 8164 - E. Barrett Prettyman United States Courthouse"
 usc_title: 40
 usc_section: "8164"
 chapter: 81
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "40 U.S.C. § 8164"
-generated_at: "2026-03-30T05:20:12.936Z"
+generated_at: "2026-03-30T05:25:30.962Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1903 - Public identification of significant foreign narcotics tr
 usc_title: 21
 usc_section: "1903"
 chapter: 24
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "21 U.S.C. § 1903"
-generated_at: "2026-03-30T05:19:21.839Z"
+generated_at: "2026-03-30T05:25:00.406Z"
 status: "active"
 ---
 

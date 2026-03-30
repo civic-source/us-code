@@ -3,9 +3,9 @@ title: "Section 1926f - Contracts with not-for-profit third parties"
 usc_title: 7
 usc_section: "1926f"
 chapter: 50
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "7 U.S.C. § 1926f"
-generated_at: "2026-03-30T05:18:51.896Z"
+generated_at: "2026-03-30T05:23:22.664Z"
 status: "active"
 ---
 

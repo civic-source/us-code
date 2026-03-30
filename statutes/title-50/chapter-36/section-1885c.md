@@ -3,9 +3,9 @@ title: "Section 1885c - Reporting"
 usc_title: 50
 usc_section: "1885c"
 chapter: 36
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "50 U.S.C. § 1885c"
-generated_at: "2026-03-30T05:21:41.147Z"
+generated_at: "2026-03-30T05:25:59.879Z"
 status: "active"
 ---
 

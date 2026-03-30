@@ -3,9 +3,9 @@ title: "Section 2805 - Required consultations"
 usc_title: 19
 usc_section: "2805"
 chapter: 16
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "19 U.S.C. § 2805"
-generated_at: "2026-03-30T05:19:18.227Z"
+generated_at: "2026-03-30T05:24:38.121Z"
 status: "active"
 ---
 

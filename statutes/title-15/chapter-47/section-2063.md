@@ -3,9 +3,9 @@ title: "Section 2063 - Product certification and labeling"
 usc_title: 15
 usc_section: "2063"
 chapter: 47
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "15 U.S.C. § 2063"
-generated_at: "2026-03-30T05:19:08.619Z"
+generated_at: "2026-03-30T05:24:07.259Z"
 status: "active"
 ---
 

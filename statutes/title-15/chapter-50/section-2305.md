@@ -3,9 +3,9 @@ title: "Section 2305 - Full and limited warranting of a consumer product"
 usc_title: 15
 usc_section: "2305"
 chapter: 50
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "15 U.S.C. § 2305"
-generated_at: "2026-03-30T05:19:08.626Z"
+generated_at: "2026-03-30T05:24:07.265Z"
 status: "active"
 ---
 

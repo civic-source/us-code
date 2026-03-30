@@ -3,9 +3,9 @@ title: "Section 1384 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1384"
 chapter: 31
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "16 U.S.C. § 1384"
-generated_at: "2026-03-30T05:19:17.099Z"
+generated_at: "2026-03-30T05:24:55.092Z"
 status: "active"
 ---
 

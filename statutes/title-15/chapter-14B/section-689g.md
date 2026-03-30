@@ -3,9 +3,9 @@ title: "Section 689g - Operational assistance grants"
 usc_title: 15
 usc_section: "689g"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "15 U.S.C. § 689g"
-generated_at: "2026-03-30T05:19:08.571Z"
+generated_at: "2026-03-30T05:24:07.213Z"
 status: "active"
 ---
 

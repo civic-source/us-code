@@ -3,9 +3,9 @@ title: "Section 7107 - Enforcement"
 usc_title: 7
 usc_section: "7107"
 chapter: 99
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "7 U.S.C. § 7107"
-generated_at: "2026-03-30T05:18:51.966Z"
+generated_at: "2026-03-30T05:23:22.734Z"
 status: "active"
 ---
 

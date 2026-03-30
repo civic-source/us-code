@@ -3,9 +3,9 @@ title: "Section 4779 - Use of public property"
 usc_title: 10
 usc_section: "4779"
 chapter: 449
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 4779"
-generated_at: "2026-03-30T05:18:58.276Z"
+generated_at: "2026-03-30T05:23:17.823Z"
 status: "active"
 ---
 

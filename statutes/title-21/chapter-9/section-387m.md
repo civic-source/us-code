@@ -3,9 +3,9 @@ title: "Section 387m - Equal treatment of retail outlets"
 usc_title: 21
 usc_section: "387m"
 chapter: 9
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "21 U.S.C. § 387m"
-generated_at: "2026-03-30T05:19:21.819Z"
+generated_at: "2026-03-30T05:25:00.384Z"
 status: "active"
 ---
 

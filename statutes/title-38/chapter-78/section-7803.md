@@ -3,9 +3,9 @@ title: "Section 7803 - Operation of Service"
 usc_title: 38
 usc_section: "7803"
 chapter: 78
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "38 U.S.C. § 7803"
-generated_at: "2026-03-30T05:20:46.198Z"
+generated_at: "2026-03-30T05:25:32.068Z"
 status: "active"
 ---
 

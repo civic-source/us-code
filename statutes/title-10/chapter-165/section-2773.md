@@ -3,9 +3,9 @@ title: "Section 2773 - Designation, powers, and accountability of deputy disburs
 usc_title: 10
 usc_section: "2773"
 chapter: 165
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 2773"
-generated_at: "2026-03-30T05:18:58.263Z"
+generated_at: "2026-03-30T05:23:17.809Z"
 status: "active"
 ---
 

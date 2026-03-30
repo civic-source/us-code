@@ -3,9 +3,9 @@ title: "Section 123a - Suspension of end-strength and other strength limitations
 usc_title: 10
 usc_section: "123a"
 chapter: 3
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 123a"
-generated_at: "2026-03-30T05:18:58.172Z"
+generated_at: "2026-03-30T05:23:17.717Z"
 status: "active"
 ---
 

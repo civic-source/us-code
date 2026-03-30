@@ -3,9 +3,9 @@ title: "Section 352 - Cancellation of trust patents within power or reservoir si
 usc_title: 25
 usc_section: "352"
 chapter: 9
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 352"
-generated_at: "2026-03-30T05:19:22.740Z"
+generated_at: "2026-03-30T05:24:59.546Z"
 status: "active"
 ---
 

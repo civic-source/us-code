@@ -3,9 +3,9 @@ title: "Section 619 - Collection of tax; provisions of internal revenue laws app
 usc_title: 7
 usc_section: "619"
 chapter: 26
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "7 U.S.C. § 619"
-generated_at: "2026-03-30T05:18:51.856Z"
+generated_at: "2026-03-30T05:23:22.624Z"
 status: "active"
 ---
 

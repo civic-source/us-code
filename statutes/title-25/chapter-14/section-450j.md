@@ -3,9 +3,9 @@ title: "Section 450j - Contract or grant provisions and administration"
 usc_title: 25
 usc_section: "450j"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 450j"
-generated_at: "2026-03-30T05:19:22.744Z"
+generated_at: "2026-03-30T05:24:59.550Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
         - **(II)** Section 6101 of title 41 .
         - **(III)** Section 9(c) 2 2 See References in Text note below. of the Act of Aug. 2, 1946 ( 60 Stat. 809 , chapter 744).
         - **(IV)** Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
-        - **(V)** Section 13 of the Act of Oct. 3, 1944 ( 58 Stat. 770 ; chapter 479) [ 40 U.S.C. 545 note].
+        - **(V)** Section 13 of the Act of Oct. 3, 1944 ( 58 Stat. 770 ; chapter 479).
         - **(VI)** Chapters 21, 25, 27, 29, and 31 of title 44.
         - **(VII)** Section 3145 of title 40 .
         - **(VIII)** Chapter 65 of title 41.

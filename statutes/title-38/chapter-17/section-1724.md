@@ -3,9 +3,9 @@ title: "Section 1724 - Hospital care, medical services, and nursing home care ab
 usc_title: 38
 usc_section: "1724"
 chapter: 17
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "38 U.S.C. § 1724"
-generated_at: "2026-03-30T05:20:46.155Z"
+generated_at: "2026-03-30T05:25:32.031Z"
 status: "active"
 ---
 

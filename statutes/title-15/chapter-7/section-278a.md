@@ -3,9 +3,9 @@ title: "Section 278a - Repealed. Pub. L. 88–611 , § 4(a)(1), Oct. 2, 1964 , 7
 usc_title: 15
 usc_section: "278a"
 chapter: 7
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "15 U.S.C. § 278a"
-generated_at: "2026-03-30T05:19:08.544Z"
+generated_at: "2026-03-30T05:24:07.187Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1367 - Supplemental jurisdiction"
 usc_title: 28
 usc_section: "1367"
 chapter: 85
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "28 U.S.C. § 1367"
-generated_at: "2026-03-30T05:19:28.488Z"
+generated_at: "2026-03-30T05:25:16.041Z"
 status: "active"
 ---
 

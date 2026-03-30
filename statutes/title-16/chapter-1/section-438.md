@@ -3,9 +3,9 @@ title: "Section 438 - Repairs and improvements; how made"
 usc_title: 16
 usc_section: "438"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "16 U.S.C. § 438"
-generated_at: "2026-03-30T05:19:16.990Z"
+generated_at: "2026-03-30T05:24:54.983Z"
 status: "active"
 ---
 

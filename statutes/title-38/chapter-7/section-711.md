@@ -3,9 +3,9 @@ title: "Section 711 - Grade reductions"
 usc_title: 38
 usc_section: "711"
 chapter: 7
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "38 U.S.C. § 711"
-generated_at: "2026-03-30T05:20:46.146Z"
+generated_at: "2026-03-30T05:25:32.025Z"
 status: "active"
 ---
 

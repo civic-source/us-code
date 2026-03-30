@@ -3,9 +3,9 @@ title: "Section 210 - Distribution of Supplements to Code of Laws of United Stat
 usc_title: 1
 usc_section: "210"
 chapter: 3
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "1 U.S.C. § 210"
-generated_at: "2026-03-30T05:18:43.101Z"
+generated_at: "2026-03-30T05:22:55.325Z"
 status: "active"
 ---
 

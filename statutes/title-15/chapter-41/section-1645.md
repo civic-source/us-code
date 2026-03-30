@@ -3,9 +3,9 @@ title: "Section 1645 - Business credit cards; limits on liability of employees"
 usc_title: 15
 usc_section: "1645"
 chapter: 41
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "15 U.S.C. § 1645"
-generated_at: "2026-03-30T05:19:08.602Z"
+generated_at: "2026-03-30T05:24:07.243Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 743 - Special rules where section 754 election or substantial bu
 usc_title: 26
 usc_section: "743"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "26 U.S.C. § 743"
-generated_at: "2026-03-30T05:19:54.361Z"
+generated_at: "2026-03-30T05:25:22.782Z"
 status: "active"
 ---
 

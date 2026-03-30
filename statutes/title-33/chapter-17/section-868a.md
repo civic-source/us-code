@@ -3,9 +3,9 @@ title: "Section 868a - Omitted"
 usc_title: 33
 usc_section: "868a"
 chapter: 17
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "33 U.S.C. § 868a"
-generated_at: "2026-03-30T05:20:10.556Z"
+generated_at: "2026-03-30T05:25:27.648Z"
 status: "omitted"
 ---
 

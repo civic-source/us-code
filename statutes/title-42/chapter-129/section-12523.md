@@ -3,9 +3,9 @@ title: "Section 12523 - Assistance to States, territories, and Indian tribes"
 usc_title: 42
 usc_section: "12523"
 chapter: 129
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 12523"
-generated_at: "2026-03-30T05:21:13.793Z"
+generated_at: "2026-03-30T05:25:55.926Z"
 status: "active"
 ---
 

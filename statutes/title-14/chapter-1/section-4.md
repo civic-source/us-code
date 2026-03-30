@@ -3,9 +3,9 @@ title: "Section 4 - Secretary defined"
 usc_title: 14
 usc_section: "4"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "14 U.S.C. § 4"
-generated_at: "2026-03-30T05:19:00.329Z"
+generated_at: "2026-03-30T05:23:25.186Z"
 status: "active"
 ---
 

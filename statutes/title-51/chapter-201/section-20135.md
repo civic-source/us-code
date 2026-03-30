@@ -3,9 +3,9 @@ title: "Section 20135 - Property rights in inventions"
 usc_title: 51
 usc_section: "20135"
 chapter: 201
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "51 U.S.C. § 20135"
-generated_at: "2026-03-30T05:21:48.739Z"
+generated_at: "2026-03-30T05:26:12.812Z"
 status: "active"
 ---
 

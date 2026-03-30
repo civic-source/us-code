@@ -3,9 +3,9 @@ title: "Section 102303 - National Park System Advisory Board"
 usc_title: 54
 usc_section: "102303"
 chapter: 1023
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "54 U.S.C. § 102303"
-generated_at: "2026-03-30T05:21:45.830Z"
+generated_at: "2026-03-30T05:26:10.164Z"
 status: "active"
 ---
 

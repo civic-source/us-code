@@ -3,9 +3,9 @@ title: "Section 5059 - Legal expenses"
 usc_title: 42
 usc_section: "5059"
 chapter: 66
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 5059"
-generated_at: "2026-03-30T05:21:13.629Z"
+generated_at: "2026-03-30T05:25:55.757Z"
 status: "active"
 ---
 

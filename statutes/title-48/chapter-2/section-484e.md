@@ -3,9 +3,9 @@ title: "Section 484e - Repealed. Aug. 2, 1954, ch. 649 , title II, § 205, 68 St
 usc_title: 48
 usc_section: "484e"
 chapter: 2
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "48 U.S.C. § 484e"
-generated_at: "2026-03-30T05:21:26.220Z"
+generated_at: "2026-03-30T05:25:58.817Z"
 status: "repealed"
 ---
 

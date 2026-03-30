@@ -3,9 +3,9 @@ title: "Section 2703 - Repealed. Pub. L. 93–644 , § 16(b), Jan. 4, 1975 , 88 
 usc_title: 42
 usc_section: "2703"
 chapter: 34
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 2703"
-generated_at: "2026-03-30T05:21:13.580Z"
+generated_at: "2026-03-30T05:25:55.704Z"
 status: "repealed"
 ---
 

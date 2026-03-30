@@ -3,9 +3,9 @@ title: "Section 10199 - Payments to States and Indian tribes"
 usc_title: 42
 usc_section: "10199"
 chapter: 108
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 10199"
-generated_at: "2026-03-30T05:21:13.766Z"
+generated_at: "2026-03-30T05:25:55.900Z"
 status: "active"
 ---
 

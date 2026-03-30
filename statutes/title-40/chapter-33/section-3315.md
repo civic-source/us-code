@@ -3,9 +3,9 @@ title: "Section 3315 - Report to Congress"
 usc_title: 40
 usc_section: "3315"
 chapter: 33
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "40 U.S.C. § 3315"
-generated_at: "2026-03-30T05:20:12.933Z"
+generated_at: "2026-03-30T05:25:30.959Z"
 status: "active"
 ---
 

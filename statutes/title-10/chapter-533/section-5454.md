@@ -3,9 +3,9 @@ title: "Section 5454 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "5454"
 chapter: 533
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 5454"
-generated_at: "2026-03-30T05:18:58.278Z"
+generated_at: "2026-03-30T05:23:17.825Z"
 status: "repealed"
 ---
 

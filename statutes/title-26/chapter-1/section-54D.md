@@ -3,9 +3,9 @@ title: "Section 54D - Qualified energy conservation bonds"
 usc_title: 26
 usc_section: "54D"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "26 U.S.C. § 54D"
-generated_at: "2026-03-30T05:19:54.269Z"
+generated_at: "2026-03-30T05:25:22.698Z"
 status: "active"
 ---
 

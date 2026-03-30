@@ -3,9 +3,9 @@ title: "Section 498 - Posthumous awards"
 usc_title: 14
 usc_section: "498"
 chapter: 13
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "14 U.S.C. § 498"
-generated_at: "2026-03-30T05:19:00.333Z"
+generated_at: "2026-03-30T05:23:25.190Z"
 status: "active"
 ---
 

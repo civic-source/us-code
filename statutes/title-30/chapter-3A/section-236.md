@@ -3,9 +3,9 @@ title: "Section 236 - Repealed. June 22, 1948, ch. 605 , § 3, 62 Stat. 576"
 usc_title: 30
 usc_section: "236"
 chapter: 3
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "30 U.S.C. § 236"
-generated_at: "2026-03-30T05:19:27.778Z"
+generated_at: "2026-03-30T05:25:14.265Z"
 status: "repealed"
 ---
 

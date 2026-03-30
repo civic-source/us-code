@@ -3,9 +3,9 @@ title: "Section 7362 - Acquisition and transfer of vessels and equipment"
 usc_title: 10
 usc_section: "7362"
 chapter: 637
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 7362"
-generated_at: "2026-03-30T05:18:58.286Z"
+generated_at: "2026-03-30T05:23:17.833Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5105 - Standards for State license renewal"
 usc_title: 12
 usc_section: "5105"
 chapter: 51
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "12 U.S.C. § 5105"
-generated_at: "2026-03-30T05:19:03.008Z"
+generated_at: "2026-03-30T05:23:28.614Z"
 status: "active"
 ---
 

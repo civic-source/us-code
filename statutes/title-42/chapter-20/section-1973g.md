@@ -3,9 +3,9 @@ title: "Section 1973g - Repealed. Pub. L. 109–246 , § 3(c), July 27, 2006 , 1
 usc_title: 42
 usc_section: "1973g"
 chapter: 20
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 1973g"
-generated_at: "2026-03-30T05:21:13.553Z"
+generated_at: "2026-03-30T05:25:55.678Z"
 status: "repealed"
 ---
 

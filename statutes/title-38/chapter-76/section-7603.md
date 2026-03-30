@@ -3,9 +3,9 @@ title: "Section 7603 - Application and acceptance"
 usc_title: 38
 usc_section: "7603"
 chapter: 76
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "38 U.S.C. § 7603"
-generated_at: "2026-03-30T05:20:46.196Z"
+generated_at: "2026-03-30T05:25:32.067Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Department and agency defined"
 usc_title: 18
 usc_section: "6"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "18 U.S.C. § 6"
-generated_at: "2026-03-30T05:19:11.918Z"
+generated_at: "2026-03-30T05:24:10.583Z"
 status: "active"
 ---
 

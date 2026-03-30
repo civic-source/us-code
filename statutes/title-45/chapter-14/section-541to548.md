@@ -3,9 +3,9 @@ title: "Section 541to548 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 ,
 usc_title: 45
 usc_section: "541to548"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "45 U.S.C. § 541to548"
-generated_at: "2026-03-30T05:20:48.124Z"
+generated_at: "2026-03-30T05:25:35.316Z"
 status: "repealed"
 ---
 

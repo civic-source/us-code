@@ -3,9 +3,9 @@ title: "Section 1480 - Notification by Secretary of State"
 usc_title: 33
 usc_section: "1480"
 chapter: 28
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "33 U.S.C. § 1480"
-generated_at: "2026-03-30T05:20:10.580Z"
+generated_at: "2026-03-30T05:25:27.676Z"
 status: "active"
 ---
 

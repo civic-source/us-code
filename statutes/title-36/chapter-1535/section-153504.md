@@ -3,9 +3,9 @@ title: "Section 153504 - Governing body"
 usc_title: 36
 usc_section: "153504"
 chapter: 1535
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "36 U.S.C. § 153504"
-generated_at: "2026-03-30T05:20:14.317Z"
+generated_at: "2026-03-30T05:25:30.291Z"
 status: "active"
 ---
 

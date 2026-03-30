@@ -3,9 +3,9 @@ title: "Section 458b - Availability of funds to agencies, institutions, and orga
 usc_title: 25
 usc_section: "458b"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 458b"
-generated_at: "2026-03-30T05:19:22.747Z"
+generated_at: "2026-03-30T05:24:59.553Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9345a - Foreign and cultural exchange activities"
 usc_title: 10
 usc_section: "9345a"
 chapter: 903
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "10 U.S.C. § 9345a"
-generated_at: "2026-03-30T05:18:58.293Z"
+generated_at: "2026-03-30T05:23:17.840Z"
 status: "active"
 ---
 

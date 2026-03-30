@@ -3,9 +3,9 @@ title: "Section 687 - Coast Guard Housing Fund"
 usc_title: 14
 usc_section: "687"
 chapter: 18
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "14 U.S.C. § 687"
-generated_at: "2026-03-30T05:19:00.335Z"
+generated_at: "2026-03-30T05:23:25.193Z"
 status: "active"
 ---
 

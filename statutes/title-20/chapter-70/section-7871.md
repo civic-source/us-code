@@ -3,9 +3,9 @@ title: "Section 7871 - Approval and disapproval of State plans"
 usc_title: 20
 usc_section: "7871"
 chapter: 70
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "20 U.S.C. § 7871"
-generated_at: "2026-03-30T05:19:14.045Z"
+generated_at: "2026-03-30T05:24:20.137Z"
 status: "active"
 ---
 

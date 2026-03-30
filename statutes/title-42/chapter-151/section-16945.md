@@ -3,9 +3,9 @@ title: "Section 16945 - Office of Sex Offender Sentencing, Monitoring, Apprehend
 usc_title: 42
 usc_section: "16945"
 chapter: 151
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 16945"
-generated_at: "2026-03-30T05:21:13.871Z"
+generated_at: "2026-03-30T05:25:56.001Z"
 status: "active"
 ---
 

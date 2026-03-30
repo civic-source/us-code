@@ -3,9 +3,9 @@ title: "Section 1322 - International traffic and rescue work; United States-Mexi
 usc_title: 19
 usc_section: "1322"
 chapter: 4
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "19 U.S.C. § 1322"
-generated_at: "2026-03-30T05:19:18.181Z"
+generated_at: "2026-03-30T05:24:38.072Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16 - Educational opportunity centers"
 usc_title: 20
 usc_section: "16"
 chapter: 28
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "20 U.S.C. § 16"
-generated_at: "2026-03-30T05:19:13.943Z"
+generated_at: "2026-03-30T05:24:20.040Z"
 status: "active"
 ---
 

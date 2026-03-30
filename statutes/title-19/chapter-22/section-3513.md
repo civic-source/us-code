@@ -3,9 +3,9 @@ title: "Section 3513 - Implementing actions in anticipation of entry into force;
 usc_title: 19
 usc_section: "3513"
 chapter: 22
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "19 U.S.C. § 3513"
-generated_at: "2026-03-30T05:19:18.235Z"
+generated_at: "2026-03-30T05:24:38.128Z"
 status: "active"
 ---
 

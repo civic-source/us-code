@@ -3,9 +3,9 @@ title: "Section 101 - Report of disqualification; designation of officer to act"
 usc_title: 43
 usc_section: "101"
 chapter: 4
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "43 U.S.C. § 101"
-generated_at: "2026-03-30T05:21:00.275Z"
+generated_at: "2026-03-30T05:25:34.726Z"
 status: "active"
 ---
 

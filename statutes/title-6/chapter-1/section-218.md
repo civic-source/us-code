@@ -3,9 +3,9 @@ title: "Section 218 - Repealed. Pub. L. 114–125, title VIII , § 802(f), Feb. 
 usc_title: 6
 usc_section: "218"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "6 U.S.C. § 218"
-generated_at: "2026-03-30T05:18:48.107Z"
+generated_at: "2026-03-30T05:23:18.180Z"
 status: "repealed"
 ---
 

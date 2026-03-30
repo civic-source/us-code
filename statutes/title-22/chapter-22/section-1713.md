@@ -3,9 +3,9 @@ title: "Section 1713 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(9),
 usc_title: 22
 usc_section: "1713"
 chapter: 22
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "22 U.S.C. § 1713"
-generated_at: "2026-03-30T05:19:24.971Z"
+generated_at: "2026-03-30T05:25:11.540Z"
 status: "repealed"
 ---
 

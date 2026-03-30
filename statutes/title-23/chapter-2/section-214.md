@@ -3,9 +3,9 @@ title: "Section 214 - Repealed. Pub. L. 112–141, div. A, title I , § 1119(b),
 usc_title: 23
 usc_section: "214"
 chapter: 2
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "23 U.S.C. § 214"
-generated_at: "2026-03-30T05:19:21.126Z"
+generated_at: "2026-03-30T05:24:58.199Z"
 status: "repealed"
 ---
 

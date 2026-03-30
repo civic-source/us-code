@@ -3,9 +3,9 @@ title: "Section 286t - Omitted"
 usc_title: 22
 usc_section: "286t"
 chapter: 7
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "22 U.S.C. § 286t"
-generated_at: "2026-03-30T05:19:24.954Z"
+generated_at: "2026-03-30T05:25:11.525Z"
 status: "omitted"
 ---
 

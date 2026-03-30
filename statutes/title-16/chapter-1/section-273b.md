@@ -3,9 +3,9 @@ title: "Section 273b - Grazing privileges; right of occupancy or use for fixed t
 usc_title: 16
 usc_section: "273b"
 chapter: 1
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "16 U.S.C. § 273b"
-generated_at: "2026-03-30T05:19:16.958Z"
+generated_at: "2026-03-30T05:24:54.952Z"
 status: "active"
 ---
 

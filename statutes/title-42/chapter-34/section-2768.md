@@ -3,9 +3,9 @@ title: "Section 2768 - Repealed. Pub. L. 92–424 , § 25(b), Sept. 19, 1972 , 8
 usc_title: 42
 usc_section: "2768"
 chapter: 34
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 2768"
-generated_at: "2026-03-30T05:21:13.580Z"
+generated_at: "2026-03-30T05:25:55.705Z"
 status: "repealed"
 ---
 

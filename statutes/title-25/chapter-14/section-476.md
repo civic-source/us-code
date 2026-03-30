@@ -3,9 +3,9 @@ title: "Section 476 - Organization of Indian tribes; constitution and bylaws and
 usc_title: 25
 usc_section: "476"
 chapter: 14
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "25 U.S.C. § 476"
-generated_at: "2026-03-30T05:19:22.750Z"
+generated_at: "2026-03-30T05:24:59.556Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** approved by the Secretary pursuant to subsection (d) of this section.
 - **(b)** Any constitution or bylaws ratified and approved by the Secretary shall be revocable by an election open to the same voters and conducted in the same manner as provided in subsection (a) for the adoption of a constitution or bylaws.
 - **(c)**
-  - **(1)** The Secretary shall call and hold an election as required by subsection (a)n—
+  - **(1)** The Secretary shall call and hold an election as required by subsection (a)—
     - **(A)** within one hundred and eighty days after the receipt of a tribal request for an election to ratify a proposed constitution and bylaws, or to revoke such constitution and bylaws; or
     - **(B)** within ninety days after receipt of a tribal request for election to ratify an amendment to the constitution and bylaws.
   - **(2)** During the time periods established by paragraph (1), the Secretary shall—

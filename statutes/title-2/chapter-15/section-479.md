@@ -3,9 +3,9 @@ title: "Section 479 - Coordination of activities with National Science Foundatio
 usc_title: 2
 usc_section: "479"
 chapter: 15
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "2 U.S.C. § 479"
-generated_at: "2026-03-30T05:18:44.426Z"
+generated_at: "2026-03-30T05:22:50.369Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13257 - Fleet requirement program"
 usc_title: 42
 usc_section: "13257"
 chapter: 134
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 13257"
-generated_at: "2026-03-30T05:21:13.816Z"
+generated_at: "2026-03-30T05:25:55.949Z"
 status: "active"
 ---
 

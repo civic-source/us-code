@@ -3,9 +3,9 @@ title: "Section 55 - Authorization of appropriations"
 usc_title: 42
 usc_section: "55"
 chapter: 6
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 55"
-generated_at: "2026-03-30T05:21:13.341Z"
+generated_at: "2026-03-30T05:25:55.458Z"
 status: "active"
 ---
 

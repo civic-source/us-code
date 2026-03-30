@@ -3,9 +3,9 @@ title: "Section 1651 - Compensation authorized"
 usc_title: 42
 usc_section: "1651"
 chapter: 11
-current_through: "PL 114-156"
+current_through: "PL 114-165"
 classification: "42 U.S.C. § 1651"
-generated_at: "2026-03-30T05:21:13.532Z"
+generated_at: "2026-03-30T05:25:55.656Z"
 status: "active"
 ---
 
