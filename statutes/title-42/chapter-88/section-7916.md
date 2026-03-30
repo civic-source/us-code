@@ -3,9 +3,9 @@ title: "Section 7916 - Acquisition of land by Secretary; transfer of public land
 usc_title: 42
 usc_section: "7916"
 chapter: 88
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 7916"
-generated_at: "2026-03-30T02:07:28.006Z"
+generated_at: "2026-03-30T02:11:33.427Z"
 ---
 
 # § 7916. Acquisition of land by Secretary; transfer of public lands by Secretary of the Interior to Secretary; consultations with Governor; consent of Governor; transfer from Federal agency to Secretary

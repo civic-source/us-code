@@ -3,9 +3,9 @@ title: "Section 902 - Regulations of Secretary of Defense"
 usc_title: 20
 usc_section: "902"
 chapter: 25
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "20 U.S.C. § 902"
-generated_at: "2026-03-30T02:06:31.434Z"
+generated_at: "2026-03-30T02:09:00.894Z"
 ---
 
 # § 902. Regulations of Secretary of Defense

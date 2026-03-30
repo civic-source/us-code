@@ -3,9 +3,9 @@ title: "Section 5201 - Rules and regulations"
 usc_title: 42
 usc_section: "5201"
 chapter: 68
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 5201"
-generated_at: "2026-03-30T02:07:27.898Z"
+generated_at: "2026-03-30T02:11:33.260Z"
 ---
 
 # § 5201. Rules and regulations

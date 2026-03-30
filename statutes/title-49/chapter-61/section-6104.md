@@ -3,9 +3,9 @@ title: "Section 6104 - Compliance with minimum standards"
 usc_title: 49
 usc_section: "6104"
 chapter: 61
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "49 U.S.C. § 6104"
-generated_at: "2026-03-30T02:07:36.534Z"
+generated_at: "2026-03-30T02:11:47.331Z"
 ---
 
 # § 6104. Compliance with minimum standards

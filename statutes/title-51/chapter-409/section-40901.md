@@ -3,9 +3,9 @@ title: "Section 40901 - Science, Space, and Technology Education Trust Fund"
 usc_title: 51
 usc_section: "40901"
 chapter: 409
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "51 U.S.C. § 40901"
-generated_at: "2026-03-30T02:07:41.347Z"
+generated_at: "2026-03-30T02:11:57.584Z"
 ---
 
 # § 40901. Science, Space, and Technology Education Trust Fund

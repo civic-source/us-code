@@ -3,9 +3,9 @@ title: "Section 2333 - Transfer of priorities"
 usc_title: 42
 usc_section: "2333"
 chapter: 24
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 2333"
-generated_at: "2026-03-30T02:07:27.830Z"
+generated_at: "2026-03-30T02:11:33.138Z"
 ---
 
 # § 2333. Transfer of priorities

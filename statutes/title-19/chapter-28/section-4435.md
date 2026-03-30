@@ -3,9 +3,9 @@ title: "Section 4435 - Recovery of initial U.S. Customs and Border Protection pr
 usc_title: 19
 usc_section: "4435"
 chapter: 28
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "19 U.S.C. § 4435"
-generated_at: "2026-03-30T02:06:21.351Z"
+generated_at: "2026-03-30T02:09:03.135Z"
 ---
 
 # § 4435. Recovery of initial U.S. Customs and Border Protection preclearance operations costs

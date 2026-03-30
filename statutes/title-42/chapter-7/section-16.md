@@ -3,9 +3,9 @@ title: "Section 16 - Public disclosure of certain information on hospital financ
 usc_title: 42
 usc_section: "16"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T02:07:27.581Z"
+generated_at: "2026-03-30T02:11:32.749Z"
 ---
 
 # § 1320b–16. Public disclosure of certain information on hospital financial interest and referral patterns

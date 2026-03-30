@@ -3,9 +3,9 @@ title: "Section 1826h - Biennial report on international compliance"
 usc_title: 16
 usc_section: "1826h"
 chapter: 38
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 1826h"
-generated_at: "2026-03-30T02:06:17.310Z"
+generated_at: "2026-03-30T02:09:13.463Z"
 ---
 
 # § 1826h. Biennial report on international compliance

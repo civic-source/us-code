@@ -3,9 +3,9 @@ title: "Section 2410 - Status of Administration and contractor personnel within 
 usc_title: 50
 usc_section: "2410"
 chapter: 41
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "50 U.S.C. § 2410"
-generated_at: "2026-03-30T02:07:38.932Z"
+generated_at: "2026-03-30T02:11:41.488Z"
 ---
 
 # § 2410. Status of Administration and contractor personnel within Department of Energy

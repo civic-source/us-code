@@ -3,9 +3,9 @@ title: "Section 10272 - Falsification or concealment of facts"
 usc_title: 34
 usc_section: "10272"
 chapter: 101
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 10272"
-generated_at: "2026-03-30T02:06:59.520Z"
+generated_at: "2026-03-30T02:10:13.867Z"
 ---
 
 # § 10272. Falsification or concealment of facts

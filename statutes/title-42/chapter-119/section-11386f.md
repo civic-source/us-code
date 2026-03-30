@@ -3,9 +3,9 @@ title: "Section 11386f - Geographic areas"
 usc_title: 42
 usc_section: "11386f"
 chapter: 119
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 11386f"
-generated_at: "2026-03-30T02:07:28.078Z"
+generated_at: "2026-03-30T02:11:33.539Z"
 ---
 
 # § 11386f. Geographic areas

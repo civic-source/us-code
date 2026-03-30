@@ -3,9 +3,9 @@ title: "Section 1798 - Child care services and youth program services for depend
 usc_title: 10
 usc_section: "1798"
 chapter: 88
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 1798"
-generated_at: "2026-03-30T02:06:00.168Z"
+generated_at: "2026-03-30T02:08:27.255Z"
 ---
 
 # § 1798. Child care services and youth program services for dependents: financial assistance for providers

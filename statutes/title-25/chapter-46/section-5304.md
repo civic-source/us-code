@@ -3,9 +3,9 @@ title: "Section 5304 - Definitions"
 usc_title: 25
 usc_section: "5304"
 chapter: 46
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 5304"
-generated_at: "2026-03-30T02:06:35.633Z"
+generated_at: "2026-03-30T02:09:31.286Z"
 ---
 
 # § 5304. Definitions

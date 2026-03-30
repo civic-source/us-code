@@ -3,9 +3,9 @@ title: "Section 12746 - Participation by States and local governments"
 usc_title: 42
 usc_section: "12746"
 chapter: 130
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 12746"
-generated_at: "2026-03-30T02:07:28.109Z"
+generated_at: "2026-03-30T02:11:33.587Z"
 ---
 
 # § 12746. Participation by States and local governments

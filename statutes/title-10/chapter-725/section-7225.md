@@ -3,9 +3,9 @@ title: "Section 7225 - Rank: warrant officers"
 usc_title: 10
 usc_section: "7225"
 chapter: 725
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 7225"
-generated_at: "2026-03-30T02:06:00.232Z"
+generated_at: "2026-03-30T02:08:27.318Z"
 ---
 
 # § 7225. Rank: warrant officers

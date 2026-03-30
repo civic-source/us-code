@@ -3,9 +3,9 @@ title: "Section 40726 - DNA identification of missing persons"
 usc_title: 34
 usc_section: "40726"
 chapter: 407
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 40726"
-generated_at: "2026-03-30T02:06:59.569Z"
+generated_at: "2026-03-30T02:10:13.921Z"
 ---
 
 # § 40726. DNA identification of missing persons

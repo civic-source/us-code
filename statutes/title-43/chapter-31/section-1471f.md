@@ -3,9 +3,9 @@ title: "Section 1471f - Availability of appropriations for incremental funding o
 usc_title: 43
 usc_section: "1471f"
 chapter: 31
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 1471f"
-generated_at: "2026-03-30T02:07:14.939Z"
+generated_at: "2026-03-30T02:10:37.048Z"
 ---
 
 # § 1471f. Availability of appropriations for incremental funding of research work orders for cooperative agreements

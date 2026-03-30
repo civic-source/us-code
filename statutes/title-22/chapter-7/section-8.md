@@ -3,9 +3,9 @@ title: "Section 8 - Performance measures"
 usc_title: 22
 usc_section: "8"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 8"
-generated_at: "2026-03-30T02:06:45.806Z"
+generated_at: "2026-03-30T02:09:39.927Z"
 ---
 
 # § 290m–8. Performance measures

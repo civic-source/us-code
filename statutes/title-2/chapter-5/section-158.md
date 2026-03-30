@@ -3,9 +3,9 @@ title: "Section 158 - Deposits by Library of Congress Trust Fund Board with Trea
 usc_title: 2
 usc_section: "158"
 chapter: 5
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "2 U.S.C. § 158"
-generated_at: "2026-03-30T02:05:44.629Z"
+generated_at: "2026-03-30T02:07:57.483Z"
 ---
 
 # § 158. Deposits by Library of Congress Trust Fund Board with Treasurer of United States

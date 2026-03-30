@@ -3,9 +3,9 @@ title: "Section 313 - Examining boards: paper; bindery materials; machinery"
 usc_title: 44
 usc_section: "313"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "44 U.S.C. § 313"
-generated_at: "2026-03-30T02:07:14.192Z"
+generated_at: "2026-03-30T02:10:47.034Z"
 ---
 
 # § 313. Examining boards: paper; bindery materials; machinery

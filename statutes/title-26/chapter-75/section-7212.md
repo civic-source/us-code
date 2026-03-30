@@ -3,9 +3,9 @@ title: "Section 7212 - Attempts to interfere with administration of internal rev
 usc_title: 26
 usc_section: "7212"
 chapter: 75
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 7212"
-generated_at: "2026-03-30T02:06:56.645Z"
+generated_at: "2026-03-30T02:10:03.038Z"
 ---
 
 # § 7212. Attempts to interfere with administration of internal revenue laws

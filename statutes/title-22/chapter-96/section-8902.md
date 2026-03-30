@@ -3,9 +3,9 @@ title: "Section 8902 - United States policy toward Ukraine"
 usc_title: 22
 usc_section: "8902"
 chapter: 96
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 8902"
-generated_at: "2026-03-30T02:06:45.950Z"
+generated_at: "2026-03-30T02:09:40.063Z"
 ---
 
 # § 8902. United States policy toward Ukraine

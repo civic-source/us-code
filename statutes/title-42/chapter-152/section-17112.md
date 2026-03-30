@@ -3,9 +3,9 @@ title: "Section 17112 - Energy efficiency for data center buildings"
 usc_title: 42
 usc_section: "17112"
 chapter: 152
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 17112"
-generated_at: "2026-03-30T02:07:28.176Z"
+generated_at: "2026-03-30T02:11:33.691Z"
 ---
 
 # § 17112. Energy efficiency for data center buildings

@@ -3,9 +3,9 @@ title: "Section 102 - Prescription drug benefits"
 usc_title: 42
 usc_section: "102"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 102"
-generated_at: "2026-03-30T02:07:27.643Z"
+generated_at: "2026-03-30T02:11:32.843Z"
 ---
 
 # § 1395w–102. Prescription drug benefits
@@ -149,7 +149,7 @@ generated_at: "2026-03-30T02:07:27.643Z"
   - **(1)** Except as provided in this subsection, for purposes of this part, the term “covered part D drug” means—
     - **(A)** a drug that may be dispensed only upon a prescription and that is described in subparagraph (A)(i), (A)(ii), or (A)(iii) of section 1396r–8(k)(2) of this title ;
     - **(B)** a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary); or
-    - **(C)** for the period beginning on December 29, 2022 , and ending on December 31, 2024 , an oral antiviral drug that may be dispensed only upon a prescription and is authorized under section 360bbb–3 of title 21 , on the basis of the declaration published in the Federal Register by the Secretary of Health and Human Services on April 1, 2020 (85 Fed. Reg. 18250 et seq.),
+    - **(C)** for the period beginning on December 29, 2022 , and ending on March 31, 2025 , an oral antiviral drug that may be dispensed only upon a prescription and is authorized under section 360bbb–3 of title 21 , on the basis of the declaration published in the Federal Register by the Secretary of Health and Human Services on April 1, 2020 (85 Fed. Reg. 18250 et seq.),
   - **(2)**
     - **(A)** Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title , other than subparagraph (E) of such section (relating to smoking cessation agents), other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy, cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines), or under section 1396r–8(d)(3) of this title , as such sections were in effect on December 8, 2003 . Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
     - **(B)** A drug prescribed for a part D eligible individual that would otherwise be a covered part D drug under this part shall not be so considered if payment for such drug as so prescribed and dispensed or administered with respect to that individual is available (or would be available but for the application of a deductible) under part A or B for that individual.

@@ -3,9 +3,9 @@ title: "Section 206 - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "206"
 chapter: 4
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "24 U.S.C. § 206"
-generated_at: "2026-03-30T02:06:33.695Z"
+generated_at: "2026-03-30T02:09:16.106Z"
 ---
 
 # § 206. Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 Stat. 3379

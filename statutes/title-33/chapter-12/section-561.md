@@ -3,9 +3,9 @@ title: "Section 561 - Repealed. Pub. L. 115–270, title I, § 1166(c) , Oct. 23
 usc_title: 33
 usc_section: "561"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 561"
-generated_at: "2026-03-30T02:07:01.969Z"
+generated_at: "2026-03-30T02:10:26.024Z"
 ---
 
 # § 561. Repealed. Pub. L. 115–270, title I, § 1166(c) , Oct. 23, 2018 , 132 Stat. 3798

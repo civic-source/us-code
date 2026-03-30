@@ -3,9 +3,9 @@ title: "Section 713 - Nonappropriated fund instrumentalities: contracts with oth
 usc_title: 14
 usc_section: "713"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "14 U.S.C. § 713"
-generated_at: "2026-03-30T02:06:05.164Z"
+generated_at: "2026-03-30T02:08:45.484Z"
 ---
 
 # § 713. Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide or obtain goods and services

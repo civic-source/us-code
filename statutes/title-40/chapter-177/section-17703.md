@@ -3,9 +3,9 @@ title: "Section 17703 - National defense considerations and qualification of tra
 usc_title: 40
 usc_section: "17703"
 chapter: 177
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "40 U.S.C. § 17703"
-generated_at: "2026-03-30T02:07:07.765Z"
+generated_at: "2026-03-30T02:10:28.475Z"
 ---
 
 # § 17703. National defense considerations and qualification of transferee

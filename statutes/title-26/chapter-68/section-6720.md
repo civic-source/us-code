@@ -3,9 +3,9 @@ title: "Section 6720 - Fraudulent acknowledgments with respect to donations of m
 usc_title: 26
 usc_section: "6720"
 chapter: 68
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 6720"
-generated_at: "2026-03-30T02:06:56.642Z"
+generated_at: "2026-03-30T02:10:03.036Z"
 ---
 
 # § 6720. Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes

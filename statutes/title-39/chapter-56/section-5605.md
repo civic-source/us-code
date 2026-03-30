@@ -3,9 +3,9 @@ title: "Section 5605 - Contracts for transportation of mail by vessel"
 usc_title: 39
 usc_section: "5605"
 chapter: 56
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "39 U.S.C. § 5605"
-generated_at: "2026-03-30T02:07:10.434Z"
+generated_at: "2026-03-30T02:10:27.972Z"
 ---
 
 # § 5605. Contracts for transportation of mail by vessel

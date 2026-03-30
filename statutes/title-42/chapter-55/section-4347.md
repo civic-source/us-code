@@ -3,9 +3,9 @@ title: "Section 4347 - Authorization of appropriations"
 usc_title: 42
 usc_section: "4347"
 chapter: 55
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 4347"
-generated_at: "2026-03-30T02:07:27.871Z"
+generated_at: "2026-03-30T02:11:33.218Z"
 ---
 
 # § 4347. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 1060 - Findings and purposes"
 usc_title: 20
 usc_section: "1060"
 chapter: 28
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "20 U.S.C. § 1060"
-generated_at: "2026-03-30T02:06:31.445Z"
+generated_at: "2026-03-30T02:09:00.907Z"
 ---
 
 # § 1060. Findings and purposes

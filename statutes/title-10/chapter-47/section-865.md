@@ -3,9 +3,9 @@ title: "Section 865 - Art. 65. Transmittal and review of records"
 usc_title: 10
 usc_section: "865"
 chapter: 47
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 865"
-generated_at: "2026-03-30T02:06:00.122Z"
+generated_at: "2026-03-30T02:08:27.205Z"
 ---
 
 # § 865. Art. 65. Transmittal and review of records

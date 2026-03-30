@@ -3,9 +3,9 @@ title: "Section 503 - Annual assessment of budget with respect to electromagneti
 usc_title: 10
 usc_section: "503"
 chapter: 25
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 503"
-generated_at: "2026-03-30T02:06:00.106Z"
+generated_at: "2026-03-30T02:08:27.188Z"
 ---
 
 # § 503. 1 1 Another section 503 is set out in chapter 31 of this title. Annual assessment of budget with respect to electromagnetic spectrum operations capabilities

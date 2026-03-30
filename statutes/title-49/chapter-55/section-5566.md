@@ -3,9 +3,9 @@ title: "Section 5566 - Records and audits"
 usc_title: 49
 usc_section: "5566"
 chapter: 55
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "49 U.S.C. § 5566"
-generated_at: "2026-03-30T02:07:36.533Z"
+generated_at: "2026-03-30T02:11:47.330Z"
 ---
 
 # § 5566. Records and audits

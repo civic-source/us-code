@@ -3,9 +3,9 @@ title: "Section 286aaa - Congressional notification with respect to exceptional 
 usc_title: 22
 usc_section: "286aaa"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 286aaa"
-generated_at: "2026-03-30T02:06:45.800Z"
+generated_at: "2026-03-30T02:09:39.922Z"
 ---
 
 # § 286aaa. Congressional notification with respect to exceptional access lending

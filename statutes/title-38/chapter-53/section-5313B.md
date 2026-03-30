@@ -3,9 +3,9 @@ title: "Section 5313B - Prohibition on providing certain benefits with respect t
 usc_title: 38
 usc_section: "5313B"
 chapter: 53
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 5313B"
-generated_at: "2026-03-30T02:07:10.041Z"
+generated_at: "2026-03-30T02:10:34.061Z"
 ---
 
 # § 5313B. Prohibition on providing certain benefits with respect to persons who are fugitive felons

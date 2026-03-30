@@ -3,9 +3,9 @@ title: "Section 562 - Requirements relating to charges for covered services"
 usc_title: 47
 usc_section: "562"
 chapter: 5
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "47 U.S.C. § 562"
-generated_at: "2026-03-30T02:07:32.898Z"
+generated_at: "2026-03-30T02:11:55.196Z"
 ---
 
 # § 562. Requirements relating to charges for covered services

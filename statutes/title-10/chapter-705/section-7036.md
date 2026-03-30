@@ -3,9 +3,9 @@ title: "Section 7036 - Chiefs of branches: appointment; duties"
 usc_title: 10
 usc_section: "7036"
 chapter: 705
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 7036"
-generated_at: "2026-03-30T02:06:00.231Z"
+generated_at: "2026-03-30T02:08:27.317Z"
 ---
 
 # § 7036. Chiefs of branches: appointment; duties

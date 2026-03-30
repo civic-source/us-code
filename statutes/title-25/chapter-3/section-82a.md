@@ -3,9 +3,9 @@ title: "Section 82a - Contracts for payment of money permitted certain tribes; p
 usc_title: 25
 usc_section: "82a"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 82a"
-generated_at: "2026-03-30T02:06:35.564Z"
+generated_at: "2026-03-30T02:09:31.172Z"
 ---
 
 # § 82a. Contracts for payment of money permitted certain tribes; payment for legal services

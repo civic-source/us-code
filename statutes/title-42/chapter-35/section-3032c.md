@@ -3,9 +3,9 @@ title: "Section 3032c - Health care service demonstration projects in rural area
 usc_title: 42
 usc_section: "3032c"
 chapter: 35
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 3032c"
-generated_at: "2026-03-30T02:07:27.844Z"
+generated_at: "2026-03-30T02:11:33.169Z"
 ---
 
 # § 3032c. Health care service demonstration projects in rural areas

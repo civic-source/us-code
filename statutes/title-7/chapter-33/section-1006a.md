@@ -3,9 +3,9 @@ title: "Section 1006a - Loans to homestead or desertland entrymen and purchasers
 usc_title: 7
 usc_section: "1006a"
 chapter: 33
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 1006a"
-generated_at: "2026-03-30T02:05:53.782Z"
+generated_at: "2026-03-30T02:08:42.877Z"
 ---
 
 # § 1006a. Loans to homestead or desertland entrymen and purchasers of lands in reclamation projects; security; first repayment installment

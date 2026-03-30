@@ -3,9 +3,9 @@ title: "Section 878 - Foreign educational, charitable, and certain other exempt 
 usc_title: 26
 usc_section: "878"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 878"
-generated_at: "2026-03-30T02:06:56.530Z"
+generated_at: "2026-03-30T02:10:02.917Z"
 ---
 
 # § 878. Foreign educational, charitable, and certain other exempt organizations

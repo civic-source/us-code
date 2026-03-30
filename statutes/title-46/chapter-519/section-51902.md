@@ -3,9 +3,9 @@ title: "Section 51902 - Gallant Ship Award"
 usc_title: 46
 usc_section: "51902"
 chapter: 519
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "46 U.S.C. § 51902"
-generated_at: "2026-03-30T02:07:32.067Z"
+generated_at: "2026-03-30T02:11:43.120Z"
 ---
 
 # § 51902. Gallant Ship Award

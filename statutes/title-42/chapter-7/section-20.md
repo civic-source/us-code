@@ -3,9 +3,9 @@ title: "Section 20 - Repealed. Pub. L. 97–35, title XXI, § 2113(k) , Aug. 13,
 usc_title: 42
 usc_section: "20"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 20"
-generated_at: "2026-03-30T02:07:27.584Z"
+generated_at: "2026-03-30T02:11:32.753Z"
 ---
 
 # § 1320c–20. Repealed. Pub. L. 97–35, title XXI, § 2113(k) , Aug. 13, 1981 , 95 Stat. 795

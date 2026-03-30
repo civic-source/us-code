@@ -3,9 +3,9 @@ title: "Section 3056c - Interagency cooperation"
 usc_title: 42
 usc_section: "3056c"
 chapter: 35
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 3056c"
-generated_at: "2026-03-30T02:07:27.846Z"
+generated_at: "2026-03-30T02:11:33.173Z"
 ---
 
 # § 3056c. Interagency cooperation

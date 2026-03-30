@@ -3,9 +3,9 @@ title: "Section 835k - Return of construction costs from marketing revenues in e
 usc_title: 16
 usc_section: "835k"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 835k"
-generated_at: "2026-03-30T02:06:17.197Z"
+generated_at: "2026-03-30T02:09:13.408Z"
 ---
 
 # § 835k. Return of construction costs from marketing revenues in event of inability of irrigation water users to repay within repayment period and lack of other sources of revenue

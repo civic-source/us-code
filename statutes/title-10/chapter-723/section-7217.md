@@ -3,9 +3,9 @@ title: "Section 7217 - Duties: chaplains; assistance required of commanding offi
 usc_title: 10
 usc_section: "7217"
 chapter: 723
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 7217"
-generated_at: "2026-03-30T02:06:00.232Z"
+generated_at: "2026-03-30T02:08:27.318Z"
 ---
 
 # § 7217. Duties: chaplains; assistance required of commanding officers

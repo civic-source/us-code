@@ -3,9 +3,9 @@ title: "Section 1426 - Capital structure of Federal home loan banks"
 usc_title: 12
 usc_section: "1426"
 chapter: 11
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "12 U.S.C. § 1426"
-generated_at: "2026-03-30T02:06:06.979Z"
+generated_at: "2026-03-30T02:08:53.236Z"
 ---
 
 # § 1426. Capital structure of Federal home loan banks

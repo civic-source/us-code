@@ -3,9 +3,9 @@ title: "Section 17331 - United States assistance for developing countries"
 usc_title: 42
 usc_section: "17331"
 chapter: 152
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 17331"
-generated_at: "2026-03-30T02:07:28.185Z"
+generated_at: "2026-03-30T02:11:33.703Z"
 ---
 
 # § 17331. United States assistance for developing countries

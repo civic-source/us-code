@@ -3,9 +3,9 @@ title: "Section 1726 - Compensation and terms of service"
 usc_title: 16
 usc_section: "1726"
 chapter: 37
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 1726"
-generated_at: "2026-03-30T02:06:17.243Z"
+generated_at: "2026-03-30T02:09:13.460Z"
 ---
 
 # § 1726. Compensation and terms of service

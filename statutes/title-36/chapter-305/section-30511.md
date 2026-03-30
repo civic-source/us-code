@@ -3,9 +3,9 @@ title: "Section 30511 - Service of process"
 usc_title: 36
 usc_section: "30511"
 chapter: 305
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "36 U.S.C. § 30511"
-generated_at: "2026-03-30T02:07:11.749Z"
+generated_at: "2026-03-30T02:10:31.264Z"
 ---
 
 # § 30511. Service of process

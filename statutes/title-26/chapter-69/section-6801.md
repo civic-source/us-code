@@ -3,9 +3,9 @@ title: "Section 6801 - Authority for establishment, alteration, and distribution
 usc_title: 26
 usc_section: "6801"
 chapter: 69
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 6801"
-generated_at: "2026-03-30T02:06:56.643Z"
+generated_at: "2026-03-30T02:10:03.036Z"
 ---
 
 # § 6801. Authority for establishment, alteration, and distribution

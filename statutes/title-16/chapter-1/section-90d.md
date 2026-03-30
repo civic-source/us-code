@@ -3,9 +3,9 @@ title: "Section 90d - Distributive share of counties of receipts for schools and
 usc_title: 16
 usc_section: "90d"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 90d"
-generated_at: "2026-03-30T02:06:17.052Z"
+generated_at: "2026-03-30T02:09:13.230Z"
 ---
 
 # § 90d. Distributive share of counties of receipts for schools and roads unaffected

@@ -3,9 +3,9 @@ title: "Section 2773b - Parking of funds: prohibition; penalties"
 usc_title: 10
 usc_section: "2773b"
 chapter: 165
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 2773b"
-generated_at: "2026-03-30T02:06:00.197Z"
+generated_at: "2026-03-30T02:08:27.283Z"
 ---
 
 # § 2773b. Parking of funds: prohibition; penalties

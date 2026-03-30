@@ -3,9 +3,9 @@ title: "Section 4354 - Native American tourism and branding enhancement"
 usc_title: 25
 usc_section: "4354"
 chapter: 44
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 4354"
-generated_at: "2026-03-30T02:06:35.632Z"
+generated_at: "2026-03-30T02:09:31.285Z"
 ---
 
 # § 4354. Native American tourism and branding enhancement

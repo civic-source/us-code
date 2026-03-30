@@ -3,9 +3,9 @@ title: "Section 6505 - Structural and mechanical care and security"
 usc_title: 40
 usc_section: "6505"
 chapter: 65
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "40 U.S.C. § 6505"
-generated_at: "2026-03-30T02:07:07.757Z"
+generated_at: "2026-03-30T02:10:28.467Z"
 ---
 
 # § 6505. Structural and mechanical care and security

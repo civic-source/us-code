@@ -3,9 +3,9 @@ title: "Section 5338 - Regulations"
 usc_title: 5
 usc_section: "5338"
 chapter: 53
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "5 U.S.C. § 5338"
-generated_at: "2026-03-30T02:05:47.795Z"
+generated_at: "2026-03-30T02:08:10.395Z"
 ---
 
 # § 5338. Regulations

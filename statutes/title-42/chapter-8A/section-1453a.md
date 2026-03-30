@@ -3,9 +3,9 @@ title: "Section 1453a - Administrative priority for applications relating to act
 usc_title: 42
 usc_section: "1453a"
 chapter: 8
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 1453a"
-generated_at: "2026-03-30T02:07:27.758Z"
+generated_at: "2026-03-30T02:11:33.016Z"
 ---
 
 # § 1453a. Administrative priority for applications relating to activities in areas affected by base closings

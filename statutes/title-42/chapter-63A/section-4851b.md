@@ -3,9 +3,9 @@ title: "Section 4851b - Definitions"
 usc_title: 42
 usc_section: "4851b"
 chapter: 63
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 4851b"
-generated_at: "2026-03-30T02:07:27.879Z"
+generated_at: "2026-03-30T02:11:33.230Z"
 ---
 
 # § 4851b. Definitions

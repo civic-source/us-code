@@ -3,9 +3,9 @@ title: "Section 5 - Federal Interagency Council on Social Impact Partnerships"
 usc_title: 42
 usc_section: "5"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:07:27.733Z"
+generated_at: "2026-03-30T02:11:32.979Z"
 ---
 
 # § 1397n–5. Federal Interagency Council on Social Impact Partnerships

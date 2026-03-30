@@ -3,9 +3,9 @@ title: "Section 1736u - Cooperator market development program"
 usc_title: 7
 usc_section: "1736u"
 chapter: 41
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 1736u"
-generated_at: "2026-03-30T02:05:53.816Z"
+generated_at: "2026-03-30T02:08:42.909Z"
 ---
 
 # § 1736u. Cooperator market development program

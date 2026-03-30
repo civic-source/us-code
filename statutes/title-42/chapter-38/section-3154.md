@@ -3,9 +3,9 @@ title: "Section 3154 - Special impact areas"
 usc_title: 42
 usc_section: "3154"
 chapter: 38
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 3154"
-generated_at: "2026-03-30T02:07:27.851Z"
+generated_at: "2026-03-30T02:11:33.184Z"
 ---
 
 # § 3154. Special impact areas

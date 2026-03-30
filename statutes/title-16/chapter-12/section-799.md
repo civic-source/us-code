@@ -3,9 +3,9 @@ title: "Section 799 - License; duration, conditions, revocation, alteration, or 
 usc_title: 16
 usc_section: "799"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 799"
-generated_at: "2026-03-30T02:06:17.184Z"
+generated_at: "2026-03-30T02:09:13.394Z"
 ---
 
 # § 799. License; duration, conditions, revocation, alteration, or surrender

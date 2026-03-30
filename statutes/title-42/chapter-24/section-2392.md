@@ -3,9 +3,9 @@ title: "Section 2392 - Reduction of payments"
 usc_title: 42
 usc_section: "2392"
 chapter: 24
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 2392"
-generated_at: "2026-03-30T02:07:27.831Z"
+generated_at: "2026-03-30T02:11:33.140Z"
 ---
 
 # § 2392. Reduction of payments

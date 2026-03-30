@@ -3,9 +3,9 @@ title: "Section 1711 - Omitted"
 usc_title: 25
 usc_section: "1711"
 chapter: 19
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 1711"
-generated_at: "2026-03-30T02:06:35.595Z"
+generated_at: "2026-03-30T02:09:31.249Z"
 ---
 
 # § 1711. Omitted

@@ -3,9 +3,9 @@ title: "Section 866d - Omitted"
 usc_title: 20
 usc_section: "866d"
 chapter: 24
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "20 U.S.C. § 866d"
-generated_at: "2026-03-30T02:06:31.433Z"
+generated_at: "2026-03-30T02:09:00.894Z"
 ---
 
 # §§ 866 to 866d. Omitted

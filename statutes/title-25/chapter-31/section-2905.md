@@ -3,9 +3,9 @@ title: "Section 2905 - Evaluations"
 usc_title: 25
 usc_section: "2905"
 chapter: 31
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 2905"
-generated_at: "2026-03-30T02:06:35.613Z"
+generated_at: "2026-03-30T02:09:31.267Z"
 ---
 
 # § 2905. Evaluations

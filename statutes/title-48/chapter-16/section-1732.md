@@ -3,9 +3,9 @@ title: "Section 1732 - Election of delegates"
 usc_title: 48
 usc_section: "1732"
 chapter: 16
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "48 U.S.C. § 1732"
-generated_at: "2026-03-30T02:07:31.151Z"
+generated_at: "2026-03-30T02:11:38.617Z"
 ---
 
 # § 1732. Election of delegates

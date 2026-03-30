@@ -3,9 +3,9 @@ title: "Section 4273 - Membership of Commission; appointment of members; term"
 usc_title: 42
 usc_section: "4273"
 chapter: 53
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 4273"
-generated_at: "2026-03-30T02:07:27.869Z"
+generated_at: "2026-03-30T02:11:33.216Z"
 ---
 
 # § 4273. Membership of Commission; appointment of members; term

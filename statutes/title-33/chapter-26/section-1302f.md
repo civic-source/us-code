@@ -3,9 +3,9 @@ title: "Section 1302f - Stormwater infrastructure technology"
 usc_title: 33
 usc_section: "1302f"
 chapter: 26
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 1302f"
-generated_at: "2026-03-30T02:07:02.000Z"
+generated_at: "2026-03-30T02:10:26.050Z"
 ---
 
 # § 1302f. Stormwater infrastructure technology

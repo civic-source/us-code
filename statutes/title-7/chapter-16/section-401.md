@@ -3,9 +3,9 @@ title: "Section 401 - Establishment of bureau"
 usc_title: 7
 usc_section: "401"
 chapter: 16
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 401"
-generated_at: "2026-03-30T02:05:53.767Z"
+generated_at: "2026-03-30T02:08:42.862Z"
 ---
 
 # § 401. Establishment of bureau

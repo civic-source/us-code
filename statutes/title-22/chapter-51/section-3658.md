@@ -3,9 +3,9 @@ title: "Section 3658 - Benefits based on basic pay"
 usc_title: 22
 usc_section: "3658"
 chapter: 51
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 3658"
-generated_at: "2026-03-30T02:06:45.881Z"
+generated_at: "2026-03-30T02:09:39.999Z"
 ---
 
 # § 3658. Benefits based on basic pay

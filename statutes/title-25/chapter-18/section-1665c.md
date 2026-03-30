@@ -3,9 +3,9 @@ title: "Section 1665c - Comprehensive behavioral health prevention and treatment
 usc_title: 25
 usc_section: "1665c"
 chapter: 18
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 1665c"
-generated_at: "2026-03-30T02:06:35.592Z"
+generated_at: "2026-03-30T02:09:31.244Z"
 ---
 
 # § 1665c. Comprehensive behavioral health prevention and treatment program

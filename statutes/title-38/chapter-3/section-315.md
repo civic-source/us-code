@@ -3,9 +3,9 @@ title: "Section 315 - Regional offices"
 usc_title: 38
 usc_section: "315"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 315"
-generated_at: "2026-03-30T02:07:09.982Z"
+generated_at: "2026-03-30T02:10:34.011Z"
 ---
 
 # § 315. Regional offices

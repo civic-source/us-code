@@ -3,9 +3,9 @@ title: "Section 398 - Establishment; administration"
 usc_title: 16
 usc_section: "398"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 398"
-generated_at: "2026-03-30T02:06:17.067Z"
+generated_at: "2026-03-30T02:09:13.250Z"
 ---
 
 # § 398. Establishment; administration

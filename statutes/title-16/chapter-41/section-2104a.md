@@ -3,9 +3,9 @@ title: "Section 2104a - Pest and Disease Revolving Loan Fund"
 usc_title: 16
 usc_section: "2104a"
 chapter: 41
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 2104a"
-generated_at: "2026-03-30T02:06:17.319Z"
+generated_at: "2026-03-30T02:09:13.474Z"
 ---
 
 # § 2104a. Pest and Disease Revolving Loan Fund

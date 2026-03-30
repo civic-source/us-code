@@ -3,9 +3,9 @@ title: "Section 3426 - Statements of Congressional intent"
 usc_title: 22
 usc_section: "3426"
 chapter: 49
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 3426"
-generated_at: "2026-03-30T02:06:45.879Z"
+generated_at: "2026-03-30T02:09:39.997Z"
 ---
 
 # § 3426. Statements of Congressional intent

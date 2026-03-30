@@ -3,9 +3,9 @@ title: "Section 3133 - Special rule related to tax on employers"
 usc_title: 26
 usc_section: "3133"
 chapter: 21
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 3133"
-generated_at: "2026-03-30T02:06:56.572Z"
+generated_at: "2026-03-30T02:10:02.964Z"
 ---
 
 # § 3133. Special rule related to tax on employers

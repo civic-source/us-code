@@ -3,9 +3,9 @@ title: "Section 2204 - Funding and administration"
 usc_title: 16
 usc_section: "2204"
 chapter: 42
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 2204"
-generated_at: "2026-03-30T02:06:17.321Z"
+generated_at: "2026-03-30T02:09:13.477Z"
 ---
 
 # § 2204. Funding and administration

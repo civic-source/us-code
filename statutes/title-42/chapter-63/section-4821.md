@@ -3,9 +3,9 @@ title: "Section 4821 - Development of program; consultation; nature of program; 
 usc_title: 42
 usc_section: "4821"
 chapter: 63
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 4821"
-generated_at: "2026-03-30T02:07:27.878Z"
+generated_at: "2026-03-30T02:11:33.229Z"
 ---
 
 # § 4821. Development of program; consultation; nature of program; safe level of lead; report to Congress

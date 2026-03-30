@@ -3,9 +3,9 @@ title: "Section 6294 - Labeling"
 usc_title: 42
 usc_section: "6294"
 chapter: 77
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 6294"
-generated_at: "2026-03-30T02:07:27.917Z"
+generated_at: "2026-03-30T02:11:33.289Z"
 ---
 
 # § 6294. Labeling

@@ -3,9 +3,9 @@ title: "Section 2 - Same; additional stars"
 usc_title: 4
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "4 U.S.C. § 2"
-generated_at: "2026-03-30T02:05:43.390Z"
+generated_at: "2026-03-30T02:07:53.258Z"
 ---
 
 # § 2. Same; additional stars

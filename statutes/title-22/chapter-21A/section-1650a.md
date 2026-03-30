@@ -3,9 +3,9 @@ title: "Section 1650a - Arbitration awards under the Convention"
 usc_title: 22
 usc_section: "1650a"
 chapter: 21
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 1650a"
-generated_at: "2026-03-30T02:06:45.818Z"
+generated_at: "2026-03-30T02:09:39.939Z"
 ---
 
 # § 1650a. Arbitration awards under the Convention

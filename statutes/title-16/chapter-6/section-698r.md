@@ -3,9 +3,9 @@ title: "Section 698r - Administration"
 usc_title: 16
 usc_section: "698r"
 chapter: 6
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 698r"
-generated_at: "2026-03-30T02:06:17.174Z"
+generated_at: "2026-03-30T02:09:13.381Z"
 ---
 
 # § 698r. Administration

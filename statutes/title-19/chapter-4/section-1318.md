@@ -3,9 +3,9 @@ title: "Section 1318 - Emergencies"
 usc_title: 19
 usc_section: "1318"
 chapter: 4
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "19 U.S.C. § 1318"
-generated_at: "2026-03-30T02:06:21.280Z"
+generated_at: "2026-03-30T02:09:03.065Z"
 ---
 
 # § 1318. Emergencies

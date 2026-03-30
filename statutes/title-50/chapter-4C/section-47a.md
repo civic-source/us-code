@@ -3,9 +3,9 @@ title: "Section 47a - Information concerning illegal introduction, manufacture, 
 usc_title: 50
 usc_section: "47a"
 chapter: 4
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "50 U.S.C. § 47a"
-generated_at: "2026-03-30T02:07:38.902Z"
+generated_at: "2026-03-30T02:11:41.442Z"
 ---
 
 # § 47a. Information concerning illegal introduction, manufacture, acquisition or export of special nuclear material or atomic weapons or conspiracies relating thereto; reward

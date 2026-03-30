@@ -3,9 +3,9 @@ title: "Section 117b - Distribution of funds"
 usc_title: 25
 usc_section: "117b"
 chapter: 4
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 117b"
-generated_at: "2026-03-30T02:06:35.564Z"
+generated_at: "2026-03-30T02:09:31.173Z"
 ---
 
 # § 117b. Distribution of funds

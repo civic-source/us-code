@@ -3,9 +3,9 @@ title: "Section 41301 - Report to Congress on sexual exploitation of children"
 usc_title: 34
 usc_section: "41301"
 chapter: 413
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 41301"
-generated_at: "2026-03-30T02:06:59.571Z"
+generated_at: "2026-03-30T02:10:13.923Z"
 ---
 
 # § 41301. Report to Congress on sexual exploitation of children

@@ -3,9 +3,9 @@ title: "Section 463 - Repealed. May 25, 1926, ch. 383, § 47 , 44 Stat. 650"
 usc_title: 43
 usc_section: "463"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 463"
-generated_at: "2026-03-30T02:07:14.913Z"
+generated_at: "2026-03-30T02:10:37.027Z"
 ---
 
 # § 463. Repealed. May 25, 1926, ch. 383, § 47 , 44 Stat. 650

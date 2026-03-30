@@ -3,9 +3,9 @@ title: "Section 12161 - Definitions"
 usc_title: 42
 usc_section: "12161"
 chapter: 126
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 12161"
-generated_at: "2026-03-30T02:07:28.086Z"
+generated_at: "2026-03-30T02:11:33.553Z"
 ---
 
 # § 12161. Definitions

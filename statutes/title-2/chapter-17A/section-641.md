@@ -3,9 +3,9 @@ title: "Section 641 - Reconciliation"
 usc_title: 2
 usc_section: "641"
 chapter: 17
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "2 U.S.C. § 641"
-generated_at: "2026-03-30T02:05:44.640Z"
+generated_at: "2026-03-30T02:07:57.494Z"
 ---
 
 # § 641. Reconciliation

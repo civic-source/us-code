@@ -3,9 +3,9 @@ title: "Section 2617 - Preemption"
 usc_title: 15
 usc_section: "2617"
 chapter: 53
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 2617"
-generated_at: "2026-03-30T02:06:09.803Z"
+generated_at: "2026-03-30T02:08:56.192Z"
 ---
 
 # § 2617. Preemption

@@ -3,9 +3,9 @@ title: "Section 4251 - Incentive for fishermen to collect and dispose of plastic
 usc_title: 33
 usc_section: "4251"
 chapter: 55
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 4251"
-generated_at: "2026-03-30T02:07:02.063Z"
+generated_at: "2026-03-30T02:10:26.105Z"
 ---
 
 # § 4251. Incentive for fishermen to collect and dispose of plastic found at sea

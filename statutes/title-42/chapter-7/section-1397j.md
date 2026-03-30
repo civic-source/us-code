@@ -3,9 +3,9 @@ title: "Section 1397j - Definitions"
 usc_title: 42
 usc_section: "1397j"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 1397j"
-generated_at: "2026-03-30T02:07:27.731Z"
+generated_at: "2026-03-30T02:11:32.976Z"
 ---
 
 # § 1397j. Definitions

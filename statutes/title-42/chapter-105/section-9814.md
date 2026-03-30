@@ -3,9 +3,9 @@ title: "Section 9814 - Training and technical assistance"
 usc_title: 42
 usc_section: "9814"
 chapter: 105
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 9814"
-generated_at: "2026-03-30T02:07:28.040Z"
+generated_at: "2026-03-30T02:11:33.481Z"
 ---
 
 # § 9814. Training and technical assistance

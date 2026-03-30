@@ -3,9 +3,9 @@ title: "Section 3931 - National wetlands inventory project"
 usc_title: 16
 usc_section: "3931"
 chapter: 59
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 3931"
-generated_at: "2026-03-30T02:06:17.349Z"
+generated_at: "2026-03-30T02:09:13.510Z"
 ---
 
 # § 3931. National wetlands inventory project

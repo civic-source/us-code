@@ -3,9 +3,9 @@ title: "Section 5216 - Regulation of operations"
 usc_title: 26
 usc_section: "5216"
 chapter: 51
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 5216"
-generated_at: "2026-03-30T02:06:56.601Z"
+generated_at: "2026-03-30T02:10:02.993Z"
 ---
 
 # § 5216. Regulation of operations

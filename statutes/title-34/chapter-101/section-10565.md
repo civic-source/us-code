@@ -3,9 +3,9 @@ title: "Section 10565 - Administrative provisions"
 usc_title: 34
 usc_section: "10565"
 chapter: 101
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 10565"
-generated_at: "2026-03-30T02:06:59.528Z"
+generated_at: "2026-03-30T02:10:13.876Z"
 ---
 
 # § 10565. Administrative provisions

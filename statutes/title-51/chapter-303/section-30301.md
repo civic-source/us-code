@@ -3,9 +3,9 @@ title: "Section 30301 - Guaranteed customer base"
 usc_title: 51
 usc_section: "30301"
 chapter: 303
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "51 U.S.C. § 30301"
-generated_at: "2026-03-30T02:07:41.345Z"
+generated_at: "2026-03-30T02:11:57.577Z"
 ---
 
 # § 30301. Guaranteed customer base

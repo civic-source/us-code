@@ -3,9 +3,9 @@ title: "Section 6618 - Major science and technology proposals"
 usc_title: 42
 usc_section: "6618"
 chapter: 79
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 6618"
-generated_at: "2026-03-30T02:07:27.935Z"
+generated_at: "2026-03-30T02:11:33.314Z"
 ---
 
 # § 6618. Major science and technology proposals

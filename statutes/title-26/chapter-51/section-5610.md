@@ -3,9 +3,9 @@ title: "Section 5610 - Disposal of forfeited equipment and material for distilli
 usc_title: 26
 usc_section: "5610"
 chapter: 51
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 5610"
-generated_at: "2026-03-30T02:06:56.604Z"
+generated_at: "2026-03-30T02:10:02.997Z"
 ---
 
 # § 5610. Disposal of forfeited equipment and material for distilling

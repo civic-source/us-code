@@ -3,9 +3,9 @@ title: "Section 2764 - Monetary allowance for transportation of household effect
 usc_title: 14
 usc_section: "2764"
 chapter: 27
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "14 U.S.C. § 2764"
-generated_at: "2026-03-30T02:06:05.172Z"
+generated_at: "2026-03-30T02:08:45.493Z"
 ---
 
 # § 2764. Monetary allowance for transportation of household effects

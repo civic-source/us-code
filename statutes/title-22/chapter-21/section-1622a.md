@@ -3,9 +3,9 @@ title: "Section 1622a - Transfer of Foreign Claims Settlement Commission of the 
 usc_title: 22
 usc_section: "1622a"
 chapter: 21
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 1622a"
-generated_at: "2026-03-30T02:06:45.814Z"
+generated_at: "2026-03-30T02:09:39.935Z"
 ---
 
 # § 1622a. Transfer of Foreign Claims Settlement Commission of the United States to Department of Justice

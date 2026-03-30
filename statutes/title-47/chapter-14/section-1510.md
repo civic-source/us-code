@@ -3,9 +3,9 @@ title: "Section 1510 - Wireless telecommunications tax and fee collection fairne
 usc_title: 47
 usc_section: "1510"
 chapter: 14
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "47 U.S.C. § 1510"
-generated_at: "2026-03-30T02:07:32.916Z"
+generated_at: "2026-03-30T02:11:55.224Z"
 ---
 
 # § 1510. Wireless telecommunications tax and fee collection fairness

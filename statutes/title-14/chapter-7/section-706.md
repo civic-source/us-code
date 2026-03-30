@@ -3,9 +3,9 @@ title: "Section 706 - United States Postal Service"
 usc_title: 14
 usc_section: "706"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "14 U.S.C. § 706"
-generated_at: "2026-03-30T02:06:05.164Z"
+generated_at: "2026-03-30T02:08:45.484Z"
 ---
 
 # § 706. United States Postal Service

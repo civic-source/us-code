@@ -3,9 +3,9 @@ title: "Section 58109 - Penalties"
 usc_title: 46
 usc_section: "58109"
 chapter: 581
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "46 U.S.C. § 58109"
-generated_at: "2026-03-30T02:07:32.078Z"
+generated_at: "2026-03-30T02:11:43.140Z"
 ---
 
 # § 58109. Penalties

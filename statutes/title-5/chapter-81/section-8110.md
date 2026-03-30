@@ -3,9 +3,9 @@ title: "Section 8110 - Augmented compensation for dependents"
 usc_title: 5
 usc_section: "8110"
 chapter: 81
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "5 U.S.C. § 8110"
-generated_at: "2026-03-30T02:05:47.813Z"
+generated_at: "2026-03-30T02:08:10.425Z"
 ---
 
 # § 8110. Augmented compensation for dependents

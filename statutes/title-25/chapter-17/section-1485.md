@@ -3,9 +3,9 @@ title: "Section 1485 - Sale or assignment of loans and underlying security"
 usc_title: 25
 usc_section: "1485"
 chapter: 17
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 1485"
-generated_at: "2026-03-30T02:06:35.583Z"
+generated_at: "2026-03-30T02:09:31.196Z"
 ---
 
 # § 1485. Sale or assignment of loans and underlying security

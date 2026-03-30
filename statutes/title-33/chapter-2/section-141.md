@@ -3,9 +3,9 @@ title: "Section 141 - Repealed. Oct. 11, 1951, ch. 495, § 5 , 65 Stat. 407"
 usc_title: 33
 usc_section: "141"
 chapter: 2
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 141"
-generated_at: "2026-03-30T02:07:01.962Z"
+generated_at: "2026-03-30T02:10:26.014Z"
 ---
 
 # § 141. Repealed. Oct. 11, 1951, ch. 495, § 5 , 65 Stat. 407

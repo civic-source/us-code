@@ -3,9 +3,9 @@ title: "Section 1512 - Mexican Water Treaty"
 usc_title: 43
 usc_section: "1512"
 chapter: 32
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 1512"
-generated_at: "2026-03-30T02:07:14.940Z"
+generated_at: "2026-03-30T02:10:37.048Z"
 ---
 
 # § 1512. Mexican Water Treaty

@@ -3,9 +3,9 @@ title: "Section 296b - Use of funds"
 usc_title: 42
 usc_section: "296b"
 chapter: 6
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 296b"
-generated_at: "2026-03-30T02:07:27.442Z"
+generated_at: "2026-03-30T02:11:32.526Z"
 ---
 
 # § 296b. Use of funds

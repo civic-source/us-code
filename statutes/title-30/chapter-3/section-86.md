@@ -3,9 +3,9 @@ title: "Section 86 - Disposition of lands in Indian reservations with reservatio
 usc_title: 30
 usc_section: "86"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "30 U.S.C. § 86"
-generated_at: "2026-03-30T02:06:48.446Z"
+generated_at: "2026-03-30T02:09:42.563Z"
 ---
 
 # § 86. Disposition of lands in Indian reservations with reservation of coal; examination and appraisal of lands

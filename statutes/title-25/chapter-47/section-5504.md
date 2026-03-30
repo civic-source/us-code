@@ -3,9 +3,9 @@ title: "Section 5504 - Existing rights of possession, contract, interest, etc."
 usc_title: 25
 usc_section: "5504"
 chapter: 47
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 5504"
-generated_at: "2026-03-30T02:06:35.641Z"
+generated_at: "2026-03-30T02:09:31.294Z"
 ---
 
 # § 5504. Existing rights of possession, contract, interest, etc.

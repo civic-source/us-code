@@ -3,9 +3,9 @@ title: "Section 396 - Practice of medicine"
 usc_title: 21
 usc_section: "396"
 chapter: 9
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "21 U.S.C. § 396"
-generated_at: "2026-03-30T02:06:36.711Z"
+generated_at: "2026-03-30T02:09:18.227Z"
 ---
 
 # § 396. Practice of medicine

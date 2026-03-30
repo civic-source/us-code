@@ -3,9 +3,9 @@ title: "Section 1156 - Temporary disability ratings"
 usc_title: 38
 usc_section: "1156"
 chapter: 11
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 1156"
-generated_at: "2026-03-30T02:07:09.991Z"
+generated_at: "2026-03-30T02:10:34.017Z"
 ---
 
 # § 1156. Temporary disability ratings

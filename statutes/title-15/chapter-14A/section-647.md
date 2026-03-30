@@ -3,9 +3,9 @@ title: "Section 647 - Duplication of activities of other Federal departments or 
 usc_title: 15
 usc_section: "647"
 chapter: 14
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 647"
-generated_at: "2026-03-30T02:06:09.722Z"
+generated_at: "2026-03-30T02:08:56.115Z"
 ---
 
 # § 647. Duplication of activities of other Federal departments or agencies

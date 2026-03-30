@@ -3,9 +3,9 @@ title: "Section 2407 - Delinquents for public money; judgment at return term; co
 usc_title: 28
 usc_section: "2407"
 chapter: 161
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "28 U.S.C. § 2407"
-generated_at: "2026-03-30T02:06:49.341Z"
+generated_at: "2026-03-30T02:09:58.245Z"
 ---
 
 # § 2407. Delinquents for public money; judgment at return term; continuance

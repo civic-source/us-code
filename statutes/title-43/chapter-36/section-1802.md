@@ -3,9 +3,9 @@ title: "Section 1802 - Congressional declaration of purposes"
 usc_title: 43
 usc_section: "1802"
 chapter: 36
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 1802"
-generated_at: "2026-03-30T02:07:14.962Z"
+generated_at: "2026-03-30T02:10:37.066Z"
 ---
 
 # § 1802. Congressional declaration of purposes

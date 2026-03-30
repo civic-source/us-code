@@ -3,9 +3,9 @@ title: "Section 7111 - Report by Secretary of State"
 usc_title: 22
 usc_section: "7111"
 chapter: 78
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 7111"
-generated_at: "2026-03-30T02:06:45.929Z"
+generated_at: "2026-03-30T02:09:40.045Z"
 ---
 
 # § 7111. Report by Secretary of State

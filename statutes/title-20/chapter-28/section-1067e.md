@@ -3,9 +3,9 @@ title: "Section 1067e - YES partnerships grant program"
 usc_title: 20
 usc_section: "1067e"
 chapter: 28
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "20 U.S.C. § 1067e"
-generated_at: "2026-03-30T02:06:31.447Z"
+generated_at: "2026-03-30T02:09:00.908Z"
 ---
 
 # § 1067e. YES partnerships grant program

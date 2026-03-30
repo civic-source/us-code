@@ -3,9 +3,9 @@ title: "Section 8301 - Purpose"
 usc_title: 16
 usc_section: "8301"
 chapter: 102
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 8301"
-generated_at: "2026-03-30T02:06:17.382Z"
+generated_at: "2026-03-30T02:09:13.550Z"
 ---
 
 # § 8301. Purpose

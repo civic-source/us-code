@@ -3,9 +3,9 @@ title: "Section 5333 - IMF-World Bank review"
 usc_title: 22
 usc_section: "5333"
 chapter: 62
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 5333"
-generated_at: "2026-03-30T02:06:45.904Z"
+generated_at: "2026-03-30T02:09:40.022Z"
 ---
 
 # § 5333. IMF-World Bank review

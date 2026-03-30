@@ -3,9 +3,9 @@ title: "Section 8901 - Definition of Administrator"
 usc_title: 15
 usc_section: "8901"
 chapter: 115
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 8901"
-generated_at: "2026-03-30T02:06:09.864Z"
+generated_at: "2026-03-30T02:08:56.252Z"
 ---
 
 # § 8901. Definition of Administrator

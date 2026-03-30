@@ -3,9 +3,9 @@ title: "Section 1513 - Retaliating against a witness, victim, or an informant"
 usc_title: 18
 usc_section: "1513"
 chapter: 73
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "18 U.S.C. § 1513"
-generated_at: "2026-03-30T02:06:19.219Z"
+generated_at: "2026-03-30T02:09:08.297Z"
 ---
 
 # § 1513. Retaliating against a witness, victim, or an informant

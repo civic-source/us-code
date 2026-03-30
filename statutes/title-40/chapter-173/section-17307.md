@@ -3,9 +3,9 @@ title: "Section 17307 - Purchase of insurance"
 usc_title: 40
 usc_section: "17307"
 chapter: 173
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "40 U.S.C. § 17307"
-generated_at: "2026-03-30T02:07:07.765Z"
+generated_at: "2026-03-30T02:10:28.475Z"
 ---
 
 # § 17307. Purchase of insurance

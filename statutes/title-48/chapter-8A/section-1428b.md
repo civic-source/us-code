@@ -3,9 +3,9 @@ title: "Section 1428b - Prerequisite for loan or loan guarantee; maximum partici
 usc_title: 48
 usc_section: "1428b"
 chapter: 8
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "48 U.S.C. § 1428b"
-generated_at: "2026-03-30T02:07:31.147Z"
+generated_at: "2026-03-30T02:11:38.610Z"
 ---
 
 # § 1428b. Prerequisite for loan or loan guarantee; maximum participation in available funds; reserves for loan guarantees

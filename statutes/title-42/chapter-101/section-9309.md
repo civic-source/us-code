@@ -3,9 +3,9 @@ title: "Section 9309 - Technical manpower requirements; report to President and 
 usc_title: 42
 usc_section: "9309"
 chapter: 101
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 9309"
-generated_at: "2026-03-30T02:07:28.026Z"
+generated_at: "2026-03-30T02:11:33.460Z"
 ---
 
 # § 9309. Technical manpower requirements; report to President and Congress

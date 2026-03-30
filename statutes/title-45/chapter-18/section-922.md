@@ -3,9 +3,9 @@ title: "Section 922 - Employee stock ownership plan for surviving portion of Mil
 usc_title: 45
 usc_section: "922"
 chapter: 18
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "45 U.S.C. § 922"
-generated_at: "2026-03-30T02:07:13.952Z"
+generated_at: "2026-03-30T02:10:36.046Z"
 ---
 
 # § 922. Employee stock ownership plan for surviving portion of Milwaukee Railroad

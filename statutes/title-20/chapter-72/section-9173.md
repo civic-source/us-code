@@ -3,9 +3,9 @@ title: "Section 9173 - Museum services activities"
 usc_title: 20
 usc_section: "9173"
 chapter: 72
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "20 U.S.C. § 9173"
-generated_at: "2026-03-30T02:06:31.565Z"
+generated_at: "2026-03-30T02:09:01.027Z"
 ---
 
 # § 9173. Museum services activities

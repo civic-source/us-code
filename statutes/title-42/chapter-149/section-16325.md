@@ -3,9 +3,9 @@ title: "Section 16325 - Science and Technology Scholarship Program"
 usc_title: 42
 usc_section: "16325"
 chapter: 149
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 16325"
-generated_at: "2026-03-30T02:07:28.163Z"
+generated_at: "2026-03-30T02:11:33.670Z"
 ---
 
 # § 16325. Science and Technology Scholarship Program

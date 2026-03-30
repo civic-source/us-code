@@ -3,9 +3,9 @@ title: "Section 1512 - Consideration for Federal funding"
 usc_title: 2
 usc_section: "1512"
 chapter: 25
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "2 U.S.C. § 1512"
-generated_at: "2026-03-30T02:05:44.654Z"
+generated_at: "2026-03-30T02:07:57.512Z"
 ---
 
 # § 1512. Consideration for Federal funding

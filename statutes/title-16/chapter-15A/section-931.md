@@ -3,9 +3,9 @@ title: "Section 931 - Definitions"
 usc_title: 16
 usc_section: "931"
 chapter: 15
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 931"
-generated_at: "2026-03-30T02:06:17.201Z"
+generated_at: "2026-03-30T02:09:13.414Z"
 ---
 
 # § 931. Definitions

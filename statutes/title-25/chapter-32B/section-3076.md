@@ -3,9 +3,9 @@ title: "Section 3076 - Native working group"
 usc_title: 25
 usc_section: "3076"
 chapter: 32
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 3076"
-generated_at: "2026-03-30T02:06:35.615Z"
+generated_at: "2026-03-30T02:09:31.269Z"
 ---
 
 # § 3076. Native working group

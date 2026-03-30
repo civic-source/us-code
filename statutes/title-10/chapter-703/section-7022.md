@@ -3,9 +3,9 @@ title: "Section 7022 - Financial management"
 usc_title: 10
 usc_section: "7022"
 chapter: 703
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 7022"
-generated_at: "2026-03-30T02:06:00.230Z"
+generated_at: "2026-03-30T02:08:27.317Z"
 ---
 
 # § 7022. Financial management

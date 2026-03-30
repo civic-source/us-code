@@ -3,9 +3,9 @@ title: "Section 3993 - Desert-land entries"
 usc_title: 50
 usc_section: "3993"
 chapter: 50
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "50 U.S.C. § 3993"
-generated_at: "2026-03-30T02:07:38.983Z"
+generated_at: "2026-03-30T02:11:41.572Z"
 ---
 
 # § 3993. Desert-land entries

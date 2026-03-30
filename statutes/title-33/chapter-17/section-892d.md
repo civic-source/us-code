@@ -3,9 +3,9 @@ title: "Section 892d - Authorization of appropriations"
 usc_title: 33
 usc_section: "892d"
 chapter: 17
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 892d"
-generated_at: "2026-03-30T02:07:01.984Z"
+generated_at: "2026-03-30T02:10:26.037Z"
 ---
 
 # § 892d. Authorization of appropriations

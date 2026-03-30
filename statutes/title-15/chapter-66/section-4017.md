@@ -3,9 +3,9 @@ title: "Section 4017 - Guidelines"
 usc_title: 15
 usc_section: "4017"
 chapter: 66
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 4017"
-generated_at: "2026-03-30T02:06:09.824Z"
+generated_at: "2026-03-30T02:08:56.213Z"
 ---
 
 # § 4017. Guidelines

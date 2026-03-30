@@ -3,9 +3,9 @@ title: "Section 9016 - Price loss coverage"
 usc_title: 7
 usc_section: "9016"
 chapter: 115
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 9016"
-generated_at: "2026-03-30T02:05:53.934Z"
+generated_at: "2026-03-30T02:08:43.030Z"
 ---
 
 # § 9016. Price loss coverage
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T02:05:53.934Z"
       - **(ii)** the effective price determined under subsection (b) for the covered commodity.
   - **(2)** Not later than 30 days after the end of each applicable 12-month marketing year for each covered commodity, the Secretary shall publish the payment rate determined under paragraph (1).
   - **(3)** In the case of a covered commodity, such as temperate japonica rice, for which the Secretary cannot determine the payment rate for the most recent 12-month marketing year by the date described in paragraph (2) due to insufficient reporting of timely pricing data by 1 or more nongovernmental entities, including a marketing cooperative for the covered commodity, the Secretary shall publish the payment rate as soon as practicable after the marketing year data are made available.
-- **(d)** If price loss coverage payments are required to be provided under this section for any of the 2014 through 2024 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
+- **(d)** If price loss coverage payments are required to be provided under this section for any of the 2014 through 2025 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
   - **(1)** the payment rate for the covered commodity under subsection (c);
   - **(2)** the payment yield for the covered commodity; and
   - **(3)** the payment acres for the covered commodity.

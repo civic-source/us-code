@@ -3,9 +3,9 @@ title: "Section 51302 - Nomination and competitive appointment of cadets"
 usc_title: 46
 usc_section: "51302"
 chapter: 513
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "46 U.S.C. § 51302"
-generated_at: "2026-03-30T02:07:32.062Z"
+generated_at: "2026-03-30T02:11:43.114Z"
 ---
 
 # § 51302. Nomination and competitive appointment of cadets

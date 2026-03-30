@@ -3,9 +3,9 @@ title: "Section 430ii - Dedication"
 usc_title: 16
 usc_section: "430ii"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 430ii"
-generated_at: "2026-03-30T02:06:17.100Z"
+generated_at: "2026-03-30T02:09:13.290Z"
 ---
 
 # § 430ii. Dedication

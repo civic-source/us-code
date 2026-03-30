@@ -3,9 +3,9 @@ title: "Section 222b - Unfunded priorities of the Missile Defense Agency: annual
 usc_title: 10
 usc_section: "222b"
 chapter: 9
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 222b"
-generated_at: "2026-03-30T02:06:00.092Z"
+generated_at: "2026-03-30T02:08:27.175Z"
 ---
 
 # § 222b. Unfunded priorities of the Missile Defense Agency: annual report

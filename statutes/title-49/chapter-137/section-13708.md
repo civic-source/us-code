@@ -3,9 +3,9 @@ title: "Section 13708 - Billing and collecting practices"
 usc_title: 49
 usc_section: "13708"
 chapter: 137
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "49 U.S.C. § 13708"
-generated_at: "2026-03-30T02:07:36.544Z"
+generated_at: "2026-03-30T02:11:47.345Z"
 ---
 
 # § 13708. Billing and collecting practices

@@ -3,9 +3,9 @@ title: "Section 5608 - Foreign trade missions"
 usc_title: 7
 usc_section: "5608"
 chapter: 87
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 5608"
-generated_at: "2026-03-30T02:05:53.879Z"
+generated_at: "2026-03-30T02:08:42.972Z"
 ---
 
 # § 5608. Foreign trade missions

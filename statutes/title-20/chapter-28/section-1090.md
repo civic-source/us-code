@@ -3,9 +3,9 @@ title: "Section 1090 - Free Application for Federal Student Aid"
 usc_title: 20
 usc_section: "1090"
 chapter: 28
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "20 U.S.C. § 1090"
-generated_at: "2026-03-30T02:06:31.476Z"
+generated_at: "2026-03-30T02:09:00.935Z"
 ---
 
 # § 1090. Free Application for Federal Student Aid

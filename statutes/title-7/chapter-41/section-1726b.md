@@ -3,9 +3,9 @@ title: "Section 1726b - International food relief partnership"
 usc_title: 7
 usc_section: "1726b"
 chapter: 41
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 1726b"
-generated_at: "2026-03-30T02:05:53.814Z"
+generated_at: "2026-03-30T02:08:42.906Z"
 ---
 
 # § 1726b. International food relief partnership

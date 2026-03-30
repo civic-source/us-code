@@ -3,9 +3,9 @@ title: "Section 678 - Exchange of lands with State of South Dakota and Norbeck W
 usc_title: 16
 usc_section: "678"
 chapter: 6
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 678"
-generated_at: "2026-03-30T02:06:17.171Z"
+generated_at: "2026-03-30T02:09:13.377Z"
 ---
 
 # § 678. Exchange of lands with State of South Dakota and Norbeck Wildlife Preserve

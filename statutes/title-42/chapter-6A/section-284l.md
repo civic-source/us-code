@@ -3,9 +3,9 @@ title: "Section 284l - Enhancement awards"
 usc_title: 42
 usc_section: "284l"
 chapter: 6
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 284l"
-generated_at: "2026-03-30T02:07:27.400Z"
+generated_at: "2026-03-30T02:11:32.461Z"
 ---
 
 # § 284l. Enhancement awards

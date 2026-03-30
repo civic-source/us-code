@@ -3,9 +3,9 @@ title: "Section 5002 - Definitions"
 usc_title: 16
 usc_section: "5002"
 chapter: 70
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 5002"
-generated_at: "2026-03-30T02:06:17.358Z"
+generated_at: "2026-03-30T02:09:13.519Z"
 ---
 
 # § 5002. Definitions

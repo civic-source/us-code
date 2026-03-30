@@ -3,9 +3,9 @@ title: "Section 13478 - Omitted"
 usc_title: 42
 usc_section: "13478"
 chapter: 134
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 13478"
-generated_at: "2026-03-30T02:07:28.124Z"
+generated_at: "2026-03-30T02:11:33.612Z"
 ---
 
 # § 13478. Omitted

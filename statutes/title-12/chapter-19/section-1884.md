@@ -3,9 +3,9 @@ title: "Section 1884 - Penalties for violations"
 usc_title: 12
 usc_section: "1884"
 chapter: 19
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "12 U.S.C. § 1884"
-generated_at: "2026-03-30T02:06:07.056Z"
+generated_at: "2026-03-30T02:08:53.313Z"
 ---
 
 # § 1884. Penalties for violations

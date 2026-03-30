@@ -3,9 +3,9 @@ title: "Section 1463 - Sealed vessels and vehicles 1 1 See Codification note bel
 usc_title: 19
 usc_section: "1463"
 chapter: 4
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "19 U.S.C. § 1463"
-generated_at: "2026-03-30T02:06:21.284Z"
+generated_at: "2026-03-30T02:09:03.071Z"
 ---
 
 # § 1463. Sealed vessels and vehicles 1 1 See Codification note below.

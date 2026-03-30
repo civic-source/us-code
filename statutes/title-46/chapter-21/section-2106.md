@@ -3,9 +3,9 @@ title: "Section 2106 - Liability in rem"
 usc_title: 46
 usc_section: "2106"
 chapter: 21
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "46 U.S.C. § 2106"
-generated_at: "2026-03-30T02:07:32.037Z"
+generated_at: "2026-03-30T02:11:43.070Z"
 ---
 
 # § 2106. Liability in rem

@@ -3,9 +3,9 @@ title: "Section 626 - Relationship to other laws"
 usc_title: 6
 usc_section: "626"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "6 U.S.C. § 626"
-generated_at: "2026-03-30T02:05:54.592Z"
+generated_at: "2026-03-30T02:08:19.256Z"
 ---
 
 # § 626. Relationship to other laws

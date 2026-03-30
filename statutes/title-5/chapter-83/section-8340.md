@@ -3,9 +3,9 @@ title: "Section 8340 - Cost-of-living adjustment of annuities"
 usc_title: 5
 usc_section: "8340"
 chapter: 83
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "5 U.S.C. § 8340"
-generated_at: "2026-03-30T02:05:47.820Z"
+generated_at: "2026-03-30T02:08:10.435Z"
 ---
 
 # § 8340. Cost-of-living adjustment of annuities

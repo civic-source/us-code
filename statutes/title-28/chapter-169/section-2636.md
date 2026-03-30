@@ -3,9 +3,9 @@ title: "Section 2636 - Time for commencement of action"
 usc_title: 28
 usc_section: "2636"
 chapter: 169
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "28 U.S.C. § 2636"
-generated_at: "2026-03-30T02:06:49.342Z"
+generated_at: "2026-03-30T02:09:58.246Z"
 ---
 
 # § 2636. Time for commencement of action

@@ -3,9 +3,9 @@ title: "Section 214 - Offer for procurement of Federal Reserve bank loan and dis
 usc_title: 18
 usc_section: "214"
 chapter: 11
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "18 U.S.C. § 214"
-generated_at: "2026-03-30T02:06:19.197Z"
+generated_at: "2026-03-30T02:09:08.274Z"
 ---
 
 # § 214. Offer for procurement of Federal Reserve bank loan and discount of commercial paper

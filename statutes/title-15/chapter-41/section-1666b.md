@@ -3,9 +3,9 @@ title: "Section 1666b - Timing of payments"
 usc_title: 15
 usc_section: "1666b"
 chapter: 41
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 1666b"
-generated_at: "2026-03-30T02:06:09.770Z"
+generated_at: "2026-03-30T02:08:56.160Z"
 ---
 
 # § 1666b. Timing of payments

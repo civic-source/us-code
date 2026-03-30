@@ -3,9 +3,9 @@ title: "Section 12 - United States Postal Service defined"
 usc_title: 18
 usc_section: "12"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "18 U.S.C. § 12"
-generated_at: "2026-03-30T02:06:19.194Z"
+generated_at: "2026-03-30T02:09:08.269Z"
 ---
 
 # § 12. United States Postal Service defined

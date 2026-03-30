@@ -3,9 +3,9 @@ title: "Section 1397f - Additional grants"
 usc_title: 42
 usc_section: "1397f"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 1397f"
-generated_at: "2026-03-30T02:07:27.730Z"
+generated_at: "2026-03-30T02:11:32.973Z"
 ---
 
 # § 1397f. Additional grants

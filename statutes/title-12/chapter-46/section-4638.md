@@ -3,9 +3,9 @@ title: "Section 4638 - Private rights of action"
 usc_title: 12
 usc_section: "4638"
 chapter: 46
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "12 U.S.C. § 4638"
-generated_at: "2026-03-30T02:06:07.097Z"
+generated_at: "2026-03-30T02:08:53.354Z"
 ---
 
 # § 4638. Private rights of action

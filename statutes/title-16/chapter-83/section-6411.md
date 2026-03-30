@@ -3,9 +3,9 @@ title: "Section 6411 - Coral reef research"
 usc_title: 16
 usc_section: "6411"
 chapter: 83
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 6411"
-generated_at: "2026-03-30T02:06:17.366Z"
+generated_at: "2026-03-30T02:09:13.527Z"
 ---
 
 # § 6411. Coral reef research

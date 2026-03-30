@@ -3,9 +3,9 @@ title: "Section 7633 - Assistance to combat malaria"
 usc_title: 22
 usc_section: "7633"
 chapter: 83
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 7633"
-generated_at: "2026-03-30T02:06:45.935Z"
+generated_at: "2026-03-30T02:09:40.050Z"
 ---
 
 # § 7633. Assistance to combat malaria

@@ -3,9 +3,9 @@ title: "Section 317 - Appropriations and estimates"
 usc_title: 15
 usc_section: "317"
 chapter: 9
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 317"
-generated_at: "2026-03-30T02:06:09.701Z"
+generated_at: "2026-03-30T02:08:56.094Z"
 ---
 
 # § 317. Appropriations and estimates

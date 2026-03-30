@@ -3,9 +3,9 @@ title: "Section 18644 - Biological and environmental research"
 usc_title: 42
 usc_section: "18644"
 chapter: 161
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 18644"
-generated_at: "2026-03-30T02:07:28.205Z"
+generated_at: "2026-03-30T02:11:33.732Z"
 ---
 
 # § 18644. Biological and environmental research

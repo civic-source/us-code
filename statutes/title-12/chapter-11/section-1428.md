@@ -3,9 +3,9 @@ title: "Section 1428 - Examination of State laws, regulations, and procedures; s
 usc_title: 12
 usc_section: "1428"
 chapter: 11
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "12 U.S.C. § 1428"
-generated_at: "2026-03-30T02:06:06.980Z"
+generated_at: "2026-03-30T02:08:53.238Z"
 ---
 
 # § 1428. Examination of State laws, regulations, and procedures; studies of values, etc.

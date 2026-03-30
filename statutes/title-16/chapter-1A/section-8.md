@@ -3,9 +3,9 @@ title: "Section 8 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat
 usc_title: 16
 usc_section: "8"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T02:06:17.142Z"
+generated_at: "2026-03-30T02:09:13.340Z"
 ---
 
 # § 470w–8. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

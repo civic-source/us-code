@@ -3,9 +3,9 @@ title: "Section 509 - Authorization of appropriations; report to Congress"
 usc_title: 43
 usc_section: "509"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 509"
-generated_at: "2026-03-30T02:07:14.916Z"
+generated_at: "2026-03-30T02:10:37.029Z"
 ---
 
 # § 509. Authorization of appropriations; report to Congress

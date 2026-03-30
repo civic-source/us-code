@@ -3,9 +3,9 @@ title: "Section 9871 - Alignment of secondary school graduation requirements wit
 usc_title: 20
 usc_section: "9871"
 chapter: 78
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "20 U.S.C. § 9871"
-generated_at: "2026-03-30T02:06:31.571Z"
+generated_at: "2026-03-30T02:09:01.034Z"
 ---
 
 # § 9871. Alignment of secondary school graduation requirements with the demands of 21st century postsecondary endeavors and support for P–16 education data systems

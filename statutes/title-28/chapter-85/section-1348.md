@@ -3,9 +3,9 @@ title: "Section 1348 - Banking association as party"
 usc_title: 28
 usc_section: "1348"
 chapter: 85
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "28 U.S.C. § 1348"
-generated_at: "2026-03-30T02:06:49.332Z"
+generated_at: "2026-03-30T02:09:58.236Z"
 ---
 
 # § 1348. Banking association as party

@@ -3,9 +3,9 @@ title: "Section 19135 - Agency activities"
 usc_title: 42
 usc_section: "19135"
 chapter: 163
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 19135"
-generated_at: "2026-03-30T02:07:28.224Z"
+generated_at: "2026-03-30T02:11:33.764Z"
 ---
 
 # § 19135. Agency activities

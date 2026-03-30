@@ -3,9 +3,9 @@ title: "Section 12405 - Technical assistance, training, and evaluations"
 usc_title: 34
 usc_section: "12405"
 chapter: 121
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 12405"
-generated_at: "2026-03-30T02:06:59.544Z"
+generated_at: "2026-03-30T02:10:13.893Z"
 ---
 
 # § 12405. Technical assistance, training, and evaluations

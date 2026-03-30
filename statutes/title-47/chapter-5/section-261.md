@@ -3,9 +3,9 @@ title: "Section 261 - Effect on other requirements"
 usc_title: 47
 usc_section: "261"
 chapter: 5
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "47 U.S.C. § 261"
-generated_at: "2026-03-30T02:07:32.877Z"
+generated_at: "2026-03-30T02:11:55.162Z"
 ---
 
 # § 261. Effect on other requirements

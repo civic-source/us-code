@@ -3,9 +3,9 @@ title: "Section 355g - Utilizing real world evidence"
 usc_title: 21
 usc_section: "355g"
 chapter: 9
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "21 U.S.C. § 355g"
-generated_at: "2026-03-30T02:06:36.669Z"
+generated_at: "2026-03-30T02:09:18.168Z"
 ---
 
 # § 355g. Utilizing real world evidence

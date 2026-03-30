@@ -3,9 +3,9 @@ title: "Section 1602 - Transferred"
 usc_title: 42
 usc_section: "1602"
 chapter: 10
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 1602"
-generated_at: "2026-03-30T02:07:27.769Z"
+generated_at: "2026-03-30T02:11:33.035Z"
 ---
 
 # §§ 1601, 1602. Transferred

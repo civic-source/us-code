@@ -3,9 +3,9 @@ title: "Section 40902 - Findings"
 usc_title: 34
 usc_section: "40902"
 chapter: 409
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 40902"
-generated_at: "2026-03-30T02:06:59.570Z"
+generated_at: "2026-03-30T02:10:13.921Z"
 ---
 
 # § 40902. Findings

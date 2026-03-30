@@ -3,9 +3,9 @@ title: "Section 492 - Earth, stone, and timber for Departments of the Army and N
 usc_title: 16
 usc_section: "492"
 chapter: 2
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 492"
-generated_at: "2026-03-30T02:06:17.145Z"
+generated_at: "2026-03-30T02:09:13.344Z"
 ---
 
 # § 492. Earth, stone, and timber for Departments of the Army and Navy, and Government works in Alaska

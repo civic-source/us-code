@@ -3,9 +3,9 @@ title: "Section 3515d - Expenses of Office of Inspector General; protective serv
 usc_title: 42
 usc_section: "3515d"
 chapter: 43
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 3515d"
-generated_at: "2026-03-30T02:07:27.855Z"
+generated_at: "2026-03-30T02:11:33.190Z"
 ---
 
 # § 3515d. Expenses of Office of Inspector General; protective services; investigating non-payment of child support

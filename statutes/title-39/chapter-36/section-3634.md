@@ -3,9 +3,9 @@ title: "Section 3634 - Assumed Federal income tax on competitive products income
 usc_title: 39
 usc_section: "3634"
 chapter: 36
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "39 U.S.C. § 3634"
-generated_at: "2026-03-30T02:07:10.432Z"
+generated_at: "2026-03-30T02:10:27.969Z"
 ---
 
 # § 3634. Assumed Federal income tax on competitive products income

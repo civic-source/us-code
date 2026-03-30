@@ -3,9 +3,9 @@ title: "Section 1j - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "1j"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 1j"
-generated_at: "2026-03-30T02:06:17.046Z"
+generated_at: "2026-03-30T02:09:13.221Z"
 ---
 
 # § 1j. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

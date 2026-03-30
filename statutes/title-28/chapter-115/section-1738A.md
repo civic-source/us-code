@@ -3,9 +3,9 @@ title: "Section 1738A - Full faith and credit given to child custody determinati
 usc_title: 28
 usc_section: "1738A"
 chapter: 115
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "28 U.S.C. § 1738A"
-generated_at: "2026-03-30T02:06:49.336Z"
+generated_at: "2026-03-30T02:09:58.240Z"
 ---
 
 # § 1738A. Full faith and credit given to child custody determinations

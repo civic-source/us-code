@@ -3,9 +3,9 @@ title: "Section 5539 - Commissions and charges for public telephone or telecommu
 usc_title: 2
 usc_section: "5539"
 chapter: 55
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "2 U.S.C. § 5539"
-generated_at: "2026-03-30T02:05:44.675Z"
+generated_at: "2026-03-30T02:07:57.538Z"
 ---
 
 # § 5539. Commissions and charges for public telephone or telecommunications services; deposit of receipts

@@ -3,9 +3,9 @@ title: "Section 2006 - Environmental impact statements"
 usc_title: 43
 usc_section: "2006"
 chapter: 38
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 2006"
-generated_at: "2026-03-30T02:07:14.964Z"
+generated_at: "2026-03-30T02:10:37.067Z"
 ---
 
 # § 2006. Environmental impact statements

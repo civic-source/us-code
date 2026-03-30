@@ -3,9 +3,9 @@ title: "Section 3460 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3460"
 chapter: 54
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 3460"
-generated_at: "2026-03-30T02:06:17.334Z"
+generated_at: "2026-03-30T02:09:13.493Z"
 ---
 
 # § 3460. Authorization of appropriations

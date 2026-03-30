@@ -3,9 +3,9 @@ title: "Section 191c - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561"
 usc_title: 50
 usc_section: "191c"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "50 U.S.C. § 191c"
-generated_at: "2026-03-30T02:07:38.907Z"
+generated_at: "2026-03-30T02:11:41.446Z"
 ---
 
 # § 191c. Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561

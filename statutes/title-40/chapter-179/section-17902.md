@@ -3,9 +3,9 @@ title: "Section 17902 - Sale of electric energy"
 usc_title: 40
 usc_section: "17902"
 chapter: 179
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "40 U.S.C. § 17902"
-generated_at: "2026-03-30T02:07:07.765Z"
+generated_at: "2026-03-30T02:10:28.476Z"
 ---
 
 # § 17902. Sale of electric energy

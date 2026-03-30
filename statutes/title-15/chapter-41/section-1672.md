@@ -3,9 +3,9 @@ title: "Section 1672 - Definitions"
 usc_title: 15
 usc_section: "1672"
 chapter: 41
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 1672"
-generated_at: "2026-03-30T02:06:09.771Z"
+generated_at: "2026-03-30T02:08:56.161Z"
 ---
 
 # § 1672. Definitions

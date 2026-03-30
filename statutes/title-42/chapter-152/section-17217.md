@@ -3,9 +3,9 @@ title: "Section 17217 - Applicability of other laws"
 usc_title: 42
 usc_section: "17217"
 chapter: 152
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 17217"
-generated_at: "2026-03-30T02:07:28.181Z"
+generated_at: "2026-03-30T02:11:33.698Z"
 ---
 
 # § 17217. Applicability of other laws

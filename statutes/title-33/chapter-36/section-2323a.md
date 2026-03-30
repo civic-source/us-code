@@ -3,9 +3,9 @@ title: "Section 2323a - Interagency and international support authority"
 usc_title: 33
 usc_section: "2323a"
 chapter: 36
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 2323a"
-generated_at: "2026-03-30T02:07:02.036Z"
+generated_at: "2026-03-30T02:10:26.081Z"
 ---
 
 # § 2323a. Interagency and international support authority

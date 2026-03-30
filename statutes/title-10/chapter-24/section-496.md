@@ -3,9 +3,9 @@ title: "Section 496 - Consideration of expansion of nuclear forces of other coun
 usc_title: 10
 usc_section: "496"
 chapter: 24
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 496"
-generated_at: "2026-03-30T02:06:00.106Z"
+generated_at: "2026-03-30T02:08:27.187Z"
 ---
 
 # § 496. Consideration of expansion of nuclear forces of other countries

@@ -3,9 +3,9 @@ title: "Section 4001 - Limitation on detention; control of prisons"
 usc_title: 18
 usc_section: "4001"
 chapter: 301
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "18 U.S.C. § 4001"
-generated_at: "2026-03-30T02:06:19.251Z"
+generated_at: "2026-03-30T02:09:08.334Z"
 ---
 
 # § 4001. Limitation on detention; control of prisons

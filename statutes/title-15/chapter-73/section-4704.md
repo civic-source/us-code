@@ -3,9 +3,9 @@ title: "Section 4704 - Omitted"
 usc_title: 15
 usc_section: "4704"
 chapter: 73
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 4704"
-generated_at: "2026-03-30T02:06:09.830Z"
+generated_at: "2026-03-30T02:08:56.218Z"
 ---
 
 # §§ 4701 to 4704. Omitted

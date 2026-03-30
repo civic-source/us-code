@@ -3,9 +3,9 @@ title: "Section 7384d - Establishment of Energy Employees Occupational Illness C
 usc_title: 42
 usc_section: "7384d"
 chapter: 84
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 7384d"
-generated_at: "2026-03-30T02:07:27.964Z"
+generated_at: "2026-03-30T02:11:33.360Z"
 ---
 
 # § 7384d. Establishment of Energy Employees Occupational Illness Compensation Program

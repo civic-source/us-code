@@ -3,9 +3,9 @@ title: "Section 12 - Repealed. Pub. L. 117–58, div. G, title VIII, § 70801(h)
 usc_title: 42
 usc_section: "12"
 chapter: 55
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T02:07:27.875Z"
+generated_at: "2026-03-30T02:11:33.222Z"
 ---
 
 # § 4370m–12. Repealed. Pub. L. 117–58, div. G, title VIII, § 70801(h) , Nov. 15, 2021 , 135 Stat. 1294

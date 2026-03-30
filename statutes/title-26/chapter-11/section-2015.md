@@ -3,9 +3,9 @@ title: "Section 2015 - Credit for death taxes on remainders"
 usc_title: 26
 usc_section: "2015"
 chapter: 11
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 2015"
-generated_at: "2026-03-30T02:06:56.562Z"
+generated_at: "2026-03-30T02:10:02.952Z"
 ---
 
 # § 2015. Credit for death taxes on remainders

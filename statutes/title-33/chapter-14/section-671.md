@@ -3,9 +3,9 @@ title: "Section 671 - Petition for common dumping ground, etc."
 usc_title: 33
 usc_section: "671"
 chapter: 14
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 671"
-generated_at: "2026-03-30T02:07:01.975Z"
+generated_at: "2026-03-30T02:10:26.029Z"
 ---
 
 # § 671. Petition for common dumping ground, etc.

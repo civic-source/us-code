@@ -3,9 +3,9 @@ title: "Section 1253 - Penalties related to removal"
 usc_title: 8
 usc_section: "1253"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "8 U.S.C. § 1253"
-generated_at: "2026-03-30T02:05:50.492Z"
+generated_at: "2026-03-30T02:08:16.837Z"
 ---
 
 # § 1253. Penalties related to removal

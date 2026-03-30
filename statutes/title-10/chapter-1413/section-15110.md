@@ -3,9 +3,9 @@ title: "Section 15110 - Regulations"
 usc_title: 10
 usc_section: "15110"
 chapter: 1413
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 15110"
-generated_at: "2026-03-30T02:06:00.274Z"
+generated_at: "2026-03-30T02:08:27.359Z"
 ---
 
 # § 15110. Regulations

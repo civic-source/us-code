@@ -3,9 +3,9 @@ title: "Section 2001 - Congressional declaration of policy and objectives"
 usc_title: 12
 usc_section: "2001"
 chapter: 23
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "12 U.S.C. § 2001"
-generated_at: "2026-03-30T02:06:07.056Z"
+generated_at: "2026-03-30T02:08:53.314Z"
 ---
 
 # § 2001. Congressional declaration of policy and objectives

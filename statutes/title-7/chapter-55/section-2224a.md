@@ -3,9 +3,9 @@ title: "Section 2224a - Utilization of employees of agencies for part-time and i
 usc_title: 7
 usc_section: "2224a"
 chapter: 55
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 2224a"
-generated_at: "2026-03-30T02:05:53.851Z"
+generated_at: "2026-03-30T02:08:42.944Z"
 ---
 
 # § 2224a. Utilization of employees of agencies for part-time and intermittent assistance to other agencies; exclusion of overtime resulting from natural disasters from staff year ceilings

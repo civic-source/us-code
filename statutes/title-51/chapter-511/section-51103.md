@@ -3,9 +3,9 @@ title: "Section 51103 - Grant applications"
 usc_title: 51
 usc_section: "51103"
 chapter: 511
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "51 U.S.C. § 51103"
-generated_at: "2026-03-30T02:07:41.352Z"
+generated_at: "2026-03-30T02:11:57.589Z"
 ---
 
 # § 51103. Grant applications

@@ -3,9 +3,9 @@ title: "Section 579 - Repealed. Pub. L. 101–640, title I, § 119(b) , Nov. 28,
 usc_title: 33
 usc_section: "579"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 579"
-generated_at: "2026-03-30T02:07:01.972Z"
+generated_at: "2026-03-30T02:10:26.026Z"
 ---
 
 # § 579. Repealed. Pub. L. 101–640, title I, § 119(b) , Nov. 28, 1990 , 104 Stat. 4630

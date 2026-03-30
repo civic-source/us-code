@@ -3,9 +3,9 @@ title: "Section 19109 - Translation Accelerator"
 usc_title: 42
 usc_section: "19109"
 chapter: 163
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 19109"
-generated_at: "2026-03-30T02:07:28.223Z"
+generated_at: "2026-03-30T02:11:33.760Z"
 ---
 
 # § 19109. Translation Accelerator

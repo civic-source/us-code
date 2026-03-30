@@ -3,9 +3,9 @@ title: "Section 1534 - Land acquisition"
 usc_title: 16
 usc_section: "1534"
 chapter: 35
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 1534"
-generated_at: "2026-03-30T02:06:17.236Z"
+generated_at: "2026-03-30T02:09:13.453Z"
 ---
 
 # § 1534. Land acquisition

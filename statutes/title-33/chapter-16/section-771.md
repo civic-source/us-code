@@ -3,9 +3,9 @@ title: "Section 771 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV],
 usc_title: 33
 usc_section: "771"
 chapter: 16
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 771"
-generated_at: "2026-03-30T02:07:01.981Z"
+generated_at: "2026-03-30T02:10:26.034Z"
 ---
 
 # § 771. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(15), Jan. 1, 2021 , 134 Stat. 4759

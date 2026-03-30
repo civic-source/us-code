@@ -3,9 +3,9 @@ title: "Section 2459j - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "2459j"
 chapter: 26
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 2459j"
-generated_at: "2026-03-30T02:07:27.831Z"
+generated_at: "2026-03-30T02:11:33.141Z"
 ---
 
 # §§ 2459b to 2459j. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

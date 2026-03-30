@@ -3,9 +3,9 @@ title: "Section 2202 - Repealed. Pub. L. 105–394, title IV, § 401 , Nov. 13, 
 usc_title: 29
 usc_section: "2202"
 chapter: 24
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "29 U.S.C. § 2202"
-generated_at: "2026-03-30T02:06:50.376Z"
+generated_at: "2026-03-30T02:09:43.832Z"
 ---
 
 # §§ 2201, 2202. Repealed. Pub. L. 105–394, title IV, § 401 , Nov. 13, 1998 , 112 Stat. 3661

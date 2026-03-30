@@ -3,9 +3,9 @@ title: "Section 11806 - Annual report"
 usc_title: 42
 usc_section: "11806"
 chapter: 123
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 11806"
-generated_at: "2026-03-30T02:07:28.082Z"
+generated_at: "2026-03-30T02:11:33.548Z"
 ---
 
 # § 11806. Annual report

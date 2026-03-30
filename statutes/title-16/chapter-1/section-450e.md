@@ -3,9 +3,9 @@ title: "Section 450e - Repealed. Pub. L. 94–578, title III, § 308(e) , Oct. 2
 usc_title: 16
 usc_section: "450e"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 450e"
-generated_at: "2026-03-30T02:06:17.102Z"
+generated_at: "2026-03-30T02:09:13.293Z"
 ---
 
 # §§ 450b to 450e. Repealed. Pub. L. 94–578, title III, § 308(e) , Oct. 21, 1976 , 90 Stat. 2736

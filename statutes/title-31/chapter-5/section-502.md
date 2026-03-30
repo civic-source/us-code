@@ -3,9 +3,9 @@ title: "Section 502 - Officers"
 usc_title: 31
 usc_section: "502"
 chapter: 5
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "31 U.S.C. § 502"
-generated_at: "2026-03-30T02:07:05.128Z"
+generated_at: "2026-03-30T02:10:24.969Z"
 ---
 
 # § 502. Officers

@@ -3,9 +3,9 @@ title: "Section 574 - Damages caused private property in protection, administrat
 usc_title: 16
 usc_section: "574"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 574"
-generated_at: "2026-03-30T02:06:17.159Z"
+generated_at: "2026-03-30T02:09:13.362Z"
 ---
 
 # § 574. Damages caused private property in protection, administration, and improvement of national forests; reimbursement

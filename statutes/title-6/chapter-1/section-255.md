@@ -3,9 +3,9 @@ title: "Section 255 - Report on improving enforcement functions"
 usc_title: 6
 usc_section: "255"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "6 U.S.C. § 255"
-generated_at: "2026-03-30T02:05:54.571Z"
+generated_at: "2026-03-30T02:08:19.233Z"
 ---
 
 # § 255. Report on improving enforcement functions

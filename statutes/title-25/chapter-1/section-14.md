@@ -3,9 +3,9 @@ title: "Section 14 - Money accruing to Indians from Department of Veterans Affai
 usc_title: 25
 usc_section: "14"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 14"
-generated_at: "2026-03-30T02:06:35.563Z"
+generated_at: "2026-03-30T02:09:31.171Z"
 ---
 
 # § 14. Money accruing to Indians from Department of Veterans Affairs or other governmental agencies

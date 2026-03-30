@@ -3,9 +3,9 @@ title: "Section 5511a - Solar Assistance Financing Entity"
 usc_title: 42
 usc_section: "5511a"
 chapter: 71
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 5511a"
-generated_at: "2026-03-30T02:07:27.906Z"
+generated_at: "2026-03-30T02:11:33.271Z"
 ---
 
 # § 5511a. Solar Assistance Financing Entity

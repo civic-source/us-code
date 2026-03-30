@@ -3,9 +3,9 @@ title: "Section 598 - Salt River project, Arizona; sale of water power"
 usc_title: 43
 usc_section: "598"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 598"
-generated_at: "2026-03-30T02:07:14.919Z"
+generated_at: "2026-03-30T02:10:37.031Z"
 ---
 
 # § 598. Salt River project, Arizona; sale of water power

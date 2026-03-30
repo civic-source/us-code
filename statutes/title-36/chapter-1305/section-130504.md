@@ -3,9 +3,9 @@ title: "Section 130504 - Governing body"
 usc_title: 36
 usc_section: "130504"
 chapter: 1305
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "36 U.S.C. § 130504"
-generated_at: "2026-03-30T02:07:11.754Z"
+generated_at: "2026-03-30T02:10:31.270Z"
 ---
 
 # § 130504. Governing body

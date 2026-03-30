@@ -3,9 +3,9 @@ title: "Section 7284 - Personal liability of producers for deficiencies"
 usc_title: 7
 usc_section: "7284"
 chapter: 100
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 7284"
-generated_at: "2026-03-30T02:05:53.905Z"
+generated_at: "2026-03-30T02:08:42.998Z"
 ---
 
 # § 7284. Personal liability of producers for deficiencies

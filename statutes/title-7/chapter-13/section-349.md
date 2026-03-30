@@ -3,9 +3,9 @@ title: "Section 349 - “State” defined"
 usc_title: 7
 usc_section: "349"
 chapter: 13
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 349"
-generated_at: "2026-03-30T02:05:53.766Z"
+generated_at: "2026-03-30T02:08:42.861Z"
 ---
 
 # § 349. “State” defined

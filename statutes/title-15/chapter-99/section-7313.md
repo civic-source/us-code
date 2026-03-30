@@ -3,9 +3,9 @@ title: "Section 7313 - Authorization of appropriations"
 usc_title: 15
 usc_section: "7313"
 chapter: 99
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 7313"
-generated_at: "2026-03-30T02:06:09.850Z"
+generated_at: "2026-03-30T02:08:56.239Z"
 ---
 
 # § 7313. Authorization of appropriations

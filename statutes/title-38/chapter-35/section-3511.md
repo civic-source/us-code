@@ -3,9 +3,9 @@ title: "Section 3511 - Duration of educational assistance"
 usc_title: 38
 usc_section: "3511"
 chapter: 35
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 3511"
-generated_at: "2026-03-30T02:07:10.023Z"
+generated_at: "2026-03-30T02:10:34.045Z"
 ---
 
 # § 3511. Duration of educational assistance

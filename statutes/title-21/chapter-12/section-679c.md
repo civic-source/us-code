@@ -3,9 +3,9 @@ title: "Section 679c - Expansion of Food Safety Inspection Service activities"
 usc_title: 21
 usc_section: "679c"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "21 U.S.C. § 679c"
-generated_at: "2026-03-30T02:06:36.717Z"
+generated_at: "2026-03-30T02:09:18.235Z"
 ---
 
 # § 679c. Expansion of Food Safety Inspection Service activities

@@ -3,9 +3,9 @@ title: "Section 2501 - Findings; statement of purpose"
 usc_title: 29
 usc_section: "2501"
 chapter: 27
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "29 U.S.C. § 2501"
-generated_at: "2026-03-30T02:06:50.376Z"
+generated_at: "2026-03-30T02:09:43.832Z"
 ---
 
 # § 2501. Findings; statement of purpose

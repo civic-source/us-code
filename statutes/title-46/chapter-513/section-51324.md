@@ -3,9 +3,9 @@ title: "Section 51324 - Unfilled vacancies"
 usc_title: 46
 usc_section: "51324"
 chapter: 513
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "46 U.S.C. § 51324"
-generated_at: "2026-03-30T02:07:32.066Z"
+generated_at: "2026-03-30T02:11:43.116Z"
 ---
 
 # § 51324. Unfilled vacancies

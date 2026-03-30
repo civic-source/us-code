@@ -3,9 +3,9 @@ title: "Section 1397C - Enterprise zone business defined"
 usc_title: 26
 usc_section: "1397C"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 1397C"
-generated_at: "2026-03-30T02:06:56.556Z"
+generated_at: "2026-03-30T02:10:02.948Z"
 ---
 
 # § 1397C. Enterprise zone business defined

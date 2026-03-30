@@ -3,9 +3,9 @@ title: "Section 2371a - Renumbered § 4026]"
 usc_title: 10
 usc_section: "2371a"
 chapter: 139
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 2371a"
-generated_at: "2026-03-30T02:06:00.182Z"
+generated_at: "2026-03-30T02:08:27.269Z"
 ---
 
 # [§ 2371a. Renumbered § 4026]

@@ -3,9 +3,9 @@ title: "Section 3001 - Procedure governed by rules; scope, purpose and effect; d
 usc_title: 18
 usc_section: "3001"
 chapter: 201
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "18 U.S.C. § 3001"
-generated_at: "2026-03-30T02:06:19.237Z"
+generated_at: "2026-03-30T02:09:08.318Z"
 ---
 
 # § 3001. Procedure governed by rules; scope, purpose and effect; definition of terms; local rules; forms—(Rule)

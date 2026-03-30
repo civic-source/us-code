@@ -3,9 +3,9 @@ title: "Section 10594 - Applications"
 usc_title: 34
 usc_section: "10594"
 chapter: 101
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 10594"
-generated_at: "2026-03-30T02:06:59.528Z"
+generated_at: "2026-03-30T02:10:13.876Z"
 ---
 
 # § 10594. Applications

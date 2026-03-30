@@ -3,9 +3,9 @@ title: "Section 731a - Change of name; Puerto Rico"
 usc_title: 48
 usc_section: "731a"
 chapter: 4
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "48 U.S.C. § 731a"
-generated_at: "2026-03-30T02:07:31.140Z"
+generated_at: "2026-03-30T02:11:38.599Z"
 ---
 
 # § 731a. Change of name; Puerto Rico

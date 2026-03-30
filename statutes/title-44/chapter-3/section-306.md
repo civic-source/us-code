@@ -3,9 +3,9 @@ title: "Section 306 - Director of the Government Publishing Office: employment o
 usc_title: 44
 usc_section: "306"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "44 U.S.C. § 306"
-generated_at: "2026-03-30T02:07:14.192Z"
+generated_at: "2026-03-30T02:10:47.033Z"
 ---
 
 # § 306. Director of the Government Publishing Office: employment of skilled workmen; trial of skill

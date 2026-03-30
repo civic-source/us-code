@@ -3,9 +3,9 @@ title: "Section 1229 - Committee on Mining and Mineral Resources Research"
 usc_title: 30
 usc_section: "1229"
 chapter: 25
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "30 U.S.C. § 1229"
-generated_at: "2026-03-30T02:06:48.467Z"
+generated_at: "2026-03-30T02:09:42.586Z"
 ---
 
 # § 1229. Committee on Mining and Mineral Resources Research

@@ -3,9 +3,9 @@ title: "Section 12131 - Definitions"
 usc_title: 42
 usc_section: "12131"
 chapter: 126
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 12131"
-generated_at: "2026-03-30T02:07:28.085Z"
+generated_at: "2026-03-30T02:11:33.552Z"
 ---
 
 # § 12131. Definitions

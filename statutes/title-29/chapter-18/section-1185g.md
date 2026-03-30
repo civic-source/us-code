@@ -3,9 +3,9 @@ title: "Section 1185g - Continuity of care"
 usc_title: 29
 usc_section: "1185g"
 chapter: 18
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "29 U.S.C. § 1185g"
-generated_at: "2026-03-30T02:06:50.360Z"
+generated_at: "2026-03-30T02:09:43.816Z"
 ---
 
 # § 1185g. Continuity of care

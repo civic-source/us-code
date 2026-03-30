@@ -3,9 +3,9 @@ title: "Section 396c - Land acquisition; authorization of appropriations"
 usc_title: 16
 usc_section: "396c"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 396c"
-generated_at: "2026-03-30T02:06:17.067Z"
+generated_at: "2026-03-30T02:09:13.248Z"
 ---
 
 # § 396c. Land acquisition; authorization of appropriations

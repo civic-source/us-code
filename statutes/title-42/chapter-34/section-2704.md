@@ -3,9 +3,9 @@ title: "Section 2704 - Discontinued Job Corps centers; utilization for special y
 usc_title: 42
 usc_section: "2704"
 chapter: 34
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 2704"
-generated_at: "2026-03-30T02:07:27.832Z"
+generated_at: "2026-03-30T02:11:33.143Z"
 ---
 
 # § 2704. Discontinued Job Corps centers; utilization for special youth programs

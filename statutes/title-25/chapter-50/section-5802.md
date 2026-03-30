@@ -3,9 +3,9 @@ title: "Section 5802 - Definitions"
 usc_title: 25
 usc_section: "5802"
 chapter: 50
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 5802"
-generated_at: "2026-03-30T02:06:35.643Z"
+generated_at: "2026-03-30T02:09:31.295Z"
 ---
 
 # § 5802. Definitions

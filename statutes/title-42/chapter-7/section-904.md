@@ -3,9 +3,9 @@ title: "Section 904 - Administrative duties of Commissioner"
 usc_title: 42
 usc_section: "904"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 904"
-generated_at: "2026-03-30T02:07:27.562Z"
+generated_at: "2026-03-30T02:11:32.720Z"
 ---
 
 # § 904. Administrative duties of Commissioner

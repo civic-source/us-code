@@ -3,9 +3,9 @@ title: "Section 833o - Authority of Secretary of the Interior for acquisition of
 usc_title: 16
 usc_section: "833o"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 833o"
-generated_at: "2026-03-30T02:06:17.196Z"
+generated_at: "2026-03-30T02:09:13.408Z"
 ---
 
 # § 833o. Authority of Secretary of the Interior for acquisition of Indian land

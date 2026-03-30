@@ -3,9 +3,9 @@ title: "Section 3406 - Trilateral scientific and technological cooperation by Eg
 usc_title: 22
 usc_section: "3406"
 chapter: 49
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 3406"
-generated_at: "2026-03-30T02:06:45.878Z"
+generated_at: "2026-03-30T02:09:39.996Z"
 ---
 
 # § 3406. Trilateral scientific and technological cooperation by Egypt, Israel, and United States

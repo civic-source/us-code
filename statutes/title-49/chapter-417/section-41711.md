@@ -3,9 +3,9 @@ title: "Section 41711 - Air carrier management inquiry and cooperation with othe
 usc_title: 49
 usc_section: "41711"
 chapter: 417
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "49 U.S.C. § 41711"
-generated_at: "2026-03-30T02:07:36.593Z"
+generated_at: "2026-03-30T02:11:47.418Z"
 ---
 
 # § 41711. Air carrier management inquiry and cooperation with other authorities

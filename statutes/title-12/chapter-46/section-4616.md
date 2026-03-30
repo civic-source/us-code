@@ -3,9 +3,9 @@ title: "Section 4616 - Supervisory actions applicable to significantly undercapi
 usc_title: 12
 usc_section: "4616"
 chapter: 46
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "12 U.S.C. § 4616"
-generated_at: "2026-03-30T02:06:07.094Z"
+generated_at: "2026-03-30T02:08:53.350Z"
 ---
 
 # § 4616. Supervisory actions applicable to significantly undercapitalized regulated entities

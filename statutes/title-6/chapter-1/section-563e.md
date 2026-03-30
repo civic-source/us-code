@@ -3,9 +3,9 @@ title: "Section 563e - Consistency with the Federal Acquisition Regulation and d
 usc_title: 6
 usc_section: "563e"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "6 U.S.C. § 563e"
-generated_at: "2026-03-30T02:05:54.587Z"
+generated_at: "2026-03-30T02:08:19.250Z"
 ---
 
 # § 563e. Consistency with the Federal Acquisition Regulation and departmental policies and directives

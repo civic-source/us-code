@@ -3,9 +3,9 @@ title: "Section 6159 - Agreements for payment of tax liability in installments"
 usc_title: 26
 usc_section: "6159"
 chapter: 62
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 6159"
-generated_at: "2026-03-30T02:06:56.622Z"
+generated_at: "2026-03-30T02:10:03.014Z"
 ---
 
 # § 6159. Agreements for payment of tax liability in installments

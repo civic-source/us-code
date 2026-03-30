@@ -3,9 +3,9 @@ title: "Section 4101 - Definitions"
 usc_title: 5
 usc_section: "4101"
 chapter: 41
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "5 U.S.C. § 4101"
-generated_at: "2026-03-30T02:05:47.791Z"
+generated_at: "2026-03-30T02:08:10.390Z"
 ---
 
 # § 4101. Definitions

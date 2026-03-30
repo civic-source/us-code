@@ -3,9 +3,9 @@ title: "Section 6312 - Purposes and coverage"
 usc_title: 42
 usc_section: "6312"
 chapter: 77
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 6312"
-generated_at: "2026-03-30T02:07:27.924Z"
+generated_at: "2026-03-30T02:11:33.298Z"
 ---
 
 # § 6312. Purposes and coverage

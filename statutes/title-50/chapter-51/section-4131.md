@@ -3,9 +3,9 @@ title: "Section 4131 - Definitions"
 usc_title: 50
 usc_section: "4131"
 chapter: 51
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "50 U.S.C. § 4131"
-generated_at: "2026-03-30T02:07:38.987Z"
+generated_at: "2026-03-30T02:11:41.576Z"
 ---
 
 # § 4131. Definitions

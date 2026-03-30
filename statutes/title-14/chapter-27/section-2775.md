@@ -3,9 +3,9 @@ title: "Section 2775 - Flight rations"
 usc_title: 14
 usc_section: "2775"
 chapter: 27
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "14 U.S.C. § 2775"
-generated_at: "2026-03-30T02:06:05.172Z"
+generated_at: "2026-03-30T02:08:45.493Z"
 ---
 
 # § 2775. Flight rations

@@ -3,9 +3,9 @@ title: "Section 9078 - Reports"
 usc_title: 15
 usc_section: "9078"
 chapter: 116
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 9078"
-generated_at: "2026-03-30T02:06:09.874Z"
+generated_at: "2026-03-30T02:08:56.261Z"
 ---
 
 # § 9078. Reports

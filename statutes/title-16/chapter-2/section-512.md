@@ -3,9 +3,9 @@ title: "Section 512 - Omitted"
 usc_title: 16
 usc_section: "512"
 chapter: 2
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 512"
-generated_at: "2026-03-30T02:06:17.146Z"
+generated_at: "2026-03-30T02:09:13.346Z"
 ---
 
 # § 512. Omitted

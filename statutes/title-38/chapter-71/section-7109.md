@@ -3,9 +3,9 @@ title: "Section 7109 - Repealed. Pub. L. 115–55, § 2(u)(1) , Aug. 23, 2017 , 
 usc_title: 38
 usc_section: "7109"
 chapter: 71
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 7109"
-generated_at: "2026-03-30T02:07:10.045Z"
+generated_at: "2026-03-30T02:10:34.064Z"
 ---
 
 # [§ 7109. Repealed. Pub. L. 115–55, § 2(u)(1) , Aug. 23, 2017 , 131 Stat. 1113 ]

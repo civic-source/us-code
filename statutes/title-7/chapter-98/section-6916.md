@@ -3,9 +3,9 @@ title: "Section 6916 - Improvement of information sharing"
 usc_title: 7
 usc_section: "6916"
 chapter: 98
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 6916"
-generated_at: "2026-03-30T02:05:53.897Z"
+generated_at: "2026-03-30T02:08:42.990Z"
 ---
 
 # § 6916. Improvement of information sharing

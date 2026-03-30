@@ -3,9 +3,9 @@ title: "Section 2015 - Program to assist members in obtaining professional crede
 usc_title: 10
 usc_section: "2015"
 chapter: 101
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 2015"
-generated_at: "2026-03-30T02:06:00.169Z"
+generated_at: "2026-03-30T02:08:27.257Z"
 ---
 
 # § 2015. Program to assist members in obtaining professional credentials

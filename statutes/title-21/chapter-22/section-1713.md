@@ -3,9 +3,9 @@ title: "Section 1713 - Authorization of use of environmentally-approved herbicid
 usc_title: 21
 usc_section: "1713"
 chapter: 22
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "21 U.S.C. § 1713"
-generated_at: "2026-03-30T02:06:36.735Z"
+generated_at: "2026-03-30T02:09:18.260Z"
 ---
 
 # § 1713. Authorization of use of environmentally-approved herbicides to eliminate illicit narcotics crops

@@ -3,9 +3,9 @@ title: "Section 1298 - Alaskan surface coal mine study"
 usc_title: 30
 usc_section: "1298"
 chapter: 25
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "30 U.S.C. § 1298"
-generated_at: "2026-03-30T02:06:48.474Z"
+generated_at: "2026-03-30T02:09:42.593Z"
 ---
 
 # § 1298. Alaskan surface coal mine study

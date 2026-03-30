@@ -3,9 +3,9 @@ title: "Section 5715 - Cultural and educational exchanges"
 usc_title: 22
 usc_section: "5715"
 chapter: 66
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 5715"
-generated_at: "2026-03-30T02:06:45.908Z"
+generated_at: "2026-03-30T02:09:40.025Z"
 ---
 
 # § 5715. Cultural and educational exchanges

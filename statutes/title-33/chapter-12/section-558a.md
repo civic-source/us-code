@@ -3,9 +3,9 @@ title: "Section 558a - Repealed. Oct. 31, 1951, ch. 654, § 1(56) , 65 Stat. 703
 usc_title: 33
 usc_section: "558a"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 558a"
-generated_at: "2026-03-30T02:07:01.969Z"
+generated_at: "2026-03-30T02:10:26.024Z"
 ---
 
 # § 558a. Repealed. Oct. 31, 1951, ch. 654, § 1(56) , 65 Stat. 703

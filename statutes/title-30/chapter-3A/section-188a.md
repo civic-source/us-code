@@ -3,9 +3,9 @@ title: "Section 188a - Surrender of leases"
 usc_title: 30
 usc_section: "188a"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "30 U.S.C. § 188a"
-generated_at: "2026-03-30T02:06:48.448Z"
+generated_at: "2026-03-30T02:09:42.567Z"
 ---
 
 # § 188a. Surrender of leases

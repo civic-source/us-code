@@ -3,9 +3,9 @@ title: "Section 690n - Removal or suspension of directors or officers"
 usc_title: 15
 usc_section: "690n"
 chapter: 14
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 690n"
-generated_at: "2026-03-30T02:06:09.734Z"
+generated_at: "2026-03-30T02:08:56.126Z"
 ---
 
 # § 690n. Removal or suspension of directors or officers

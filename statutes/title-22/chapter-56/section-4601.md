@@ -3,9 +3,9 @@ title: "Section 4601 - Congressional declaration of findings and purposes"
 usc_title: 22
 usc_section: "4601"
 chapter: 56
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 4601"
-generated_at: "2026-03-30T02:06:45.900Z"
+generated_at: "2026-03-30T02:09:40.017Z"
 ---
 
 # § 4601. Congressional declaration of findings and purposes

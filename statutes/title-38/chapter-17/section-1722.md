@@ -3,9 +3,9 @@ title: "Section 1722 - Determination of inability to defray necessary expenses; 
 usc_title: 38
 usc_section: "1722"
 chapter: 17
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 1722"
-generated_at: "2026-03-30T02:07:10.001Z"
+generated_at: "2026-03-30T02:10:34.025Z"
 ---
 
 # § 1722. Determination of inability to defray necessary expenses; income thresholds

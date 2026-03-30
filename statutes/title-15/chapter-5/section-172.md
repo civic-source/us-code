@@ -3,9 +3,9 @@ title: "Section 172 - Transfer of duties of Department of Labor; special investi
 usc_title: 15
 usc_section: "172"
 chapter: 5
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 172"
-generated_at: "2026-03-30T02:06:09.692Z"
+generated_at: "2026-03-30T02:08:56.086Z"
 ---
 
 # § 172. Transfer of duties of Department of Labor; special investigations

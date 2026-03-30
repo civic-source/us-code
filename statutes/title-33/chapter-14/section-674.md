@@ -3,9 +3,9 @@ title: "Section 674 - Plans for and supervision of work required by order; permi
 usc_title: 33
 usc_section: "674"
 chapter: 14
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 674"
-generated_at: "2026-03-30T02:07:01.975Z"
+generated_at: "2026-03-30T02:10:26.029Z"
 ---
 
 # § 674. Plans for and supervision of work required by order; permit to commence mining

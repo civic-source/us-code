@@ -3,9 +3,9 @@ title: "Section 2788 - Property accountability: regulations"
 usc_title: 10
 usc_section: "2788"
 chapter: 165
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 2788"
-generated_at: "2026-03-30T02:06:00.197Z"
+generated_at: "2026-03-30T02:08:27.284Z"
 ---
 
 # § 2788. Property accountability: regulations

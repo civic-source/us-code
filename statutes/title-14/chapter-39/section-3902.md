@@ -3,9 +3,9 @@ title: "Section 3902 - Purpose of the Coast Guard Auxiliary"
 usc_title: 14
 usc_section: "3902"
 chapter: 39
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "14 U.S.C. § 3902"
-generated_at: "2026-03-30T02:06:05.175Z"
+generated_at: "2026-03-30T02:08:45.495Z"
 ---
 
 # § 3902. Purpose of the Coast Guard Auxiliary

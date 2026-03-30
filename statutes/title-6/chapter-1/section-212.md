@@ -3,9 +3,9 @@ title: "Section 212 - Retention of Customs revenue functions by Secretary of the
 usc_title: 6
 usc_section: "212"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "6 U.S.C. § 212"
-generated_at: "2026-03-30T02:05:54.568Z"
+generated_at: "2026-03-30T02:08:19.231Z"
 ---
 
 # § 212. Retention of Customs revenue functions by Secretary of the Treasury

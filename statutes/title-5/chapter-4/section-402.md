@@ -3,9 +3,9 @@ title: "Section 402 - Establishment and purpose of Offices of Inspector General"
 usc_title: 5
 usc_section: "402"
 chapter: 4
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "5 U.S.C. § 402"
-generated_at: "2026-03-30T02:05:47.770Z"
+generated_at: "2026-03-30T02:08:10.364Z"
 ---
 
 # § 402. Establishment and purpose of Offices of Inspector General

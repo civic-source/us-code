@@ -3,9 +3,9 @@ title: "Section 9658 - Actions under State law for damages from exposure to haza
 usc_title: 42
 usc_section: "9658"
 chapter: 103
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 9658"
-generated_at: "2026-03-30T02:07:28.037Z"
+generated_at: "2026-03-30T02:11:33.478Z"
 ---
 
 # § 9658. Actions under State law for damages from exposure to hazardous substances

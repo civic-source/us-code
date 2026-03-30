@@ -3,9 +3,9 @@ title: "Section 3005 - Department of Defense"
 usc_title: 50
 usc_section: "3005"
 chapter: 44
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "50 U.S.C. § 3005"
-generated_at: "2026-03-30T02:07:38.944Z"
+generated_at: "2026-03-30T02:11:41.508Z"
 ---
 
 # § 3005. Department of Defense

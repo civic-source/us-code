@@ -3,9 +3,9 @@ title: "Section 670 - Training and employee education"
 usc_title: 29
 usc_section: "670"
 chapter: 15
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "29 U.S.C. § 670"
-generated_at: "2026-03-30T02:06:50.322Z"
+generated_at: "2026-03-30T02:09:43.779Z"
 ---
 
 # § 670. Training and employee education

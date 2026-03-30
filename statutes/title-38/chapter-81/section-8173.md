@@ -3,9 +3,9 @@ title: "Section 8173 - Information technology activities of the Financial Servic
 usc_title: 38
 usc_section: "8173"
 chapter: 81
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 8173"
-generated_at: "2026-03-30T02:07:10.064Z"
+generated_at: "2026-03-30T02:10:34.080Z"
 ---
 
 # § 8173. Information technology activities of the Financial Services Center

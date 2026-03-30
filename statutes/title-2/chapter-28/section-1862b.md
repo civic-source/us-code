@@ -3,9 +3,9 @@ title: "Section 1862b - Transfer of amounts appropriated for Architect of the Ca
 usc_title: 2
 usc_section: "1862b"
 chapter: 28
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "2 U.S.C. § 1862b"
-generated_at: "2026-03-30T02:05:44.659Z"
+generated_at: "2026-03-30T02:07:57.516Z"
 ---
 
 # § 1862b. Transfer of amounts appropriated for Architect of the Capitol under House Office Buildings

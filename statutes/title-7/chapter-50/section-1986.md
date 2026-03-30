@@ -3,9 +3,9 @@ title: "Section 1986 - Conflicts of interests"
 usc_title: 7
 usc_section: "1986"
 chapter: 50
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 1986"
-generated_at: "2026-03-30T02:05:53.827Z"
+generated_at: "2026-03-30T02:08:42.918Z"
 ---
 
 # § 1986. Conflicts of interests

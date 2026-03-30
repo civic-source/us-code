@@ -3,9 +3,9 @@ title: "Section 6941a - Energy and materials conservation and recovery; Congress
 usc_title: 42
 usc_section: "6941a"
 chapter: 82
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 6941a"
-generated_at: "2026-03-30T02:07:27.947Z"
+generated_at: "2026-03-30T02:11:33.335Z"
 ---
 
 # § 6941a. Energy and materials conservation and recovery; Congressional findings

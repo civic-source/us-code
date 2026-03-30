@@ -3,9 +3,9 @@ title: "Section 70907 - Exclusive right to name, 1 1 So in original. Probably sh
 usc_title: 36
 usc_section: "70907"
 chapter: 709
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "36 U.S.C. § 70907"
-generated_at: "2026-03-30T02:07:11.752Z"
+generated_at: "2026-03-30T02:10:31.268Z"
 ---
 
 # § 70907. Exclusive right to name, 1 1 So in original. Probably should be “names”. seals, emblems, and badges

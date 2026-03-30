@@ -3,9 +3,9 @@ title: "Section 6310 - Requirement for agencies to buy domestically made United 
 usc_title: 41
 usc_section: "6310"
 chapter: 63
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "41 U.S.C. § 6310"
-generated_at: "2026-03-30T02:07:13.601Z"
+generated_at: "2026-03-30T02:10:42.190Z"
 ---
 
 # § 6310. Requirement for agencies to buy domestically made United States flags

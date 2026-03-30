@@ -3,9 +3,9 @@ title: "Section 3349e - Presidential explanation of failure to nominate an inspe
 usc_title: 5
 usc_section: "3349e"
 chapter: 33
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "5 U.S.C. § 3349e"
-generated_at: "2026-03-30T02:05:47.788Z"
+generated_at: "2026-03-30T02:08:10.387Z"
 ---
 
 # § 3349e. Presidential explanation of failure to nominate an inspector general

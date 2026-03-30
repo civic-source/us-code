@@ -3,9 +3,9 @@ title: "Section 3385 - Benjamin Tallmadge Institute as primary Central Intellige
 usc_title: 50
 usc_section: "3385"
 chapter: 45
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "50 U.S.C. § 3385"
-generated_at: "2026-03-30T02:07:38.971Z"
+generated_at: "2026-03-30T02:11:41.552Z"
 ---
 
 # § 3385. Benjamin Tallmadge Institute as primary Central Intelligence Agency entity for education and training in counterintelligence

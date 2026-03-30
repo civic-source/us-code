@@ -3,9 +3,9 @@ title: "Section 4566 - Prohibition on purchase of United States defense contract
 usc_title: 50
 usc_section: "4566"
 chapter: 55
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "50 U.S.C. § 4566"
-generated_at: "2026-03-30T02:07:38.997Z"
+generated_at: "2026-03-30T02:11:41.595Z"
 ---
 
 # § 4566. Prohibition on purchase of United States defense contractors by entities controlled by foreign governments

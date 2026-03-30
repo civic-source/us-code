@@ -3,9 +3,9 @@ title: "Section 17191 - Definitions"
 usc_title: 42
 usc_section: "17191"
 chapter: 152
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 17191"
-generated_at: "2026-03-30T02:07:28.179Z"
+generated_at: "2026-03-30T02:11:33.696Z"
 ---
 
 # § 17191. Definitions

@@ -3,9 +3,9 @@ title: "Section 6624 - Metered charges on copiers; “Sergeant at Arms” and �
 usc_title: 2
 usc_section: "6624"
 chapter: 65
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "2 U.S.C. § 6624"
-generated_at: "2026-03-30T02:05:44.679Z"
+generated_at: "2026-03-30T02:07:57.544Z"
 ---
 
 # § 6624. Metered charges on copiers; “Sergeant at Arms” and “user” defined; certification of services and equipment as official; deposit of payments; availability for expenditure

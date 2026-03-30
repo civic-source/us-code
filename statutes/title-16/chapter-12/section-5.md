@@ -3,9 +3,9 @@ title: "Section 5 - Southeastern Power Administration; deposit and availability 
 usc_title: 16
 usc_section: "5"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T02:06:17.191Z"
+generated_at: "2026-03-30T02:09:13.403Z"
 ---
 
 # § 825s–5. Southeastern Power Administration; deposit and availability of advance payments

@@ -3,9 +3,9 @@ title: "Section 13523 - Management plan"
 usc_title: 42
 usc_section: "13523"
 chapter: 134
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 13523"
-generated_at: "2026-03-30T02:07:28.127Z"
+generated_at: "2026-03-30T02:11:33.614Z"
 ---
 
 # § 13523. Management plan

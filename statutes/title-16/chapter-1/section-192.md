@@ -3,9 +3,9 @@ title: "Section 192 - Boundaries enlarged"
 usc_title: 16
 usc_section: "192"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 192"
-generated_at: "2026-03-30T02:06:17.056Z"
+generated_at: "2026-03-30T02:09:13.235Z"
 ---
 
 # § 192. Boundaries enlarged

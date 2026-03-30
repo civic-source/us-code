@@ -3,9 +3,9 @@ title: "Section 1970 - Assistance by Executive departments and agencies"
 usc_title: 2
 usc_section: "1970"
 chapter: 29
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "2 U.S.C. § 1970"
-generated_at: "2026-03-30T02:05:44.661Z"
+generated_at: "2026-03-30T02:07:57.519Z"
 ---
 
 # § 1970. Assistance by Executive departments and agencies

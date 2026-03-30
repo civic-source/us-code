@@ -3,9 +3,9 @@ title: "Section 3709 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3709"
 chapter: 57
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 3709"
-generated_at: "2026-03-30T02:06:17.337Z"
+generated_at: "2026-03-30T02:09:13.495Z"
 ---
 
 # § 3709. Authorization of appropriations

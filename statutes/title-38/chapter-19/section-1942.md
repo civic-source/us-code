@@ -3,9 +3,9 @@ title: "Section 1942 - Plans of insurance"
 usc_title: 38
 usc_section: "1942"
 chapter: 19
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 1942"
-generated_at: "2026-03-30T02:07:10.005Z"
+generated_at: "2026-03-30T02:10:34.030Z"
 ---
 
 # § 1942. Plans of insurance

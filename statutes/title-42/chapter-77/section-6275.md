@@ -3,9 +3,9 @@ title: "Section 6275 - Relationship between standby emergency authorities and in
 usc_title: 42
 usc_section: "6275"
 chapter: 77
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 6275"
-generated_at: "2026-03-30T02:07:27.915Z"
+generated_at: "2026-03-30T02:11:33.285Z"
 ---
 
 # § 6275. Relationship between standby emergency authorities and international energy program

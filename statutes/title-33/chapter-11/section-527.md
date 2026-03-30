@@ -3,9 +3,9 @@ title: "Section 527 - Acquisition of interstate bridges by public agencies; amou
 usc_title: 33
 usc_section: "527"
 chapter: 11
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 527"
-generated_at: "2026-03-30T02:07:01.968Z"
+generated_at: "2026-03-30T02:10:26.023Z"
 ---
 
 # § 527. Acquisition of interstate bridges by public agencies; amount of damages

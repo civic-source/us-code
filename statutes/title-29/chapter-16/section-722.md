@@ -3,9 +3,9 @@ title: "Section 722 - Eligibility and individualized plan for employment"
 usc_title: 29
 usc_section: "722"
 chapter: 16
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "29 U.S.C. § 722"
-generated_at: "2026-03-30T02:06:50.324Z"
+generated_at: "2026-03-30T02:09:43.782Z"
 ---
 
 # § 722. Eligibility and individualized plan for employment

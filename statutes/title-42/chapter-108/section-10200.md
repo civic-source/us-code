@@ -3,9 +3,9 @@ title: "Section 10200 - Study of research and development needs for monitored re
 usc_title: 42
 usc_section: "10200"
 chapter: 108
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 10200"
-generated_at: "2026-03-30T02:07:28.060Z"
+generated_at: "2026-03-30T02:11:33.512Z"
 ---
 
 # § 10200. Study of research and development needs for monitored retrievable storage proposal

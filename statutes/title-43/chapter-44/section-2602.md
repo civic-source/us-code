@@ -3,9 +3,9 @@ title: "Section 2602 - Cooperative agreements with other agencies or private own
 usc_title: 43
 usc_section: "2602"
 chapter: 44
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 2602"
-generated_at: "2026-03-30T02:07:14.967Z"
+generated_at: "2026-03-30T02:10:37.071Z"
 ---
 
 # § 2602. Cooperative agreements with other agencies or private owners for coordinated administration

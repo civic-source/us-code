@@ -3,9 +3,9 @@ title: "Section 293l - Advisory Committee on Training in Primary Care Medicine a
 usc_title: 42
 usc_section: "293l"
 chapter: 6
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 293l"
-generated_at: "2026-03-30T02:07:27.436Z"
+generated_at: "2026-03-30T02:11:32.516Z"
 ---
 
 # § 293l. Advisory Committee on Training in Primary Care Medicine and Dentistry

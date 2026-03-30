@@ -3,9 +3,9 @@ title: "Section 4941 - Taxes on self-dealing"
 usc_title: 26
 usc_section: "4941"
 chapter: 42
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 4941"
-generated_at: "2026-03-30T02:06:56.587Z"
+generated_at: "2026-03-30T02:10:02.979Z"
 ---
 
 # § 4941. Taxes on self-dealing

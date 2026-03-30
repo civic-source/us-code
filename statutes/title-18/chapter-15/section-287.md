@@ -3,9 +3,9 @@ title: "Section 287 - False, fictitious or fraudulent claims"
 usc_title: 18
 usc_section: "287"
 chapter: 15
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "18 U.S.C. § 287"
-generated_at: "2026-03-30T02:06:19.199Z"
+generated_at: "2026-03-30T02:09:08.276Z"
 ---
 
 # § 287. False, fictitious or fraudulent claims

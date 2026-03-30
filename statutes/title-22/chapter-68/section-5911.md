@@ -3,9 +3,9 @@ title: "Section 5911 - Administration of demilitarization programs"
 usc_title: 22
 usc_section: "5911"
 chapter: 68
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 5911"
-generated_at: "2026-03-30T02:06:45.911Z"
+generated_at: "2026-03-30T02:09:40.026Z"
 ---
 
 # § 5911. Administration of demilitarization programs

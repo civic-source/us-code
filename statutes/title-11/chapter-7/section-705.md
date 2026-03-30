@@ -3,9 +3,9 @@ title: "Section 705 - Creditors’ committee"
 usc_title: 11
 usc_section: "705"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "11 U.S.C. § 705"
-generated_at: "2026-03-30T02:06:02.545Z"
+generated_at: "2026-03-30T02:08:48.387Z"
 ---
 
 # § 705. Creditors’ committee

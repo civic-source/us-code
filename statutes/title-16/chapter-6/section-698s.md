@@ -3,9 +3,9 @@ title: "Section 698s - Acquisition"
 usc_title: 16
 usc_section: "698s"
 chapter: 6
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 698s"
-generated_at: "2026-03-30T02:06:17.174Z"
+generated_at: "2026-03-30T02:09:13.381Z"
 ---
 
 # § 698s. Acquisition

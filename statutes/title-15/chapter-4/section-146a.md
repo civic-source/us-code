@@ -3,9 +3,9 @@ title: "Section 146a - Jurisdiction of suits by or against China Trade Act corpo
 usc_title: 15
 usc_section: "146a"
 chapter: 4
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 146a"
-generated_at: "2026-03-30T02:06:09.691Z"
+generated_at: "2026-03-30T02:08:56.086Z"
 ---
 
 # § 146a. Jurisdiction of suits by or against China Trade Act corporation

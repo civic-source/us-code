@@ -3,9 +3,9 @@ title: "Section 204 - Entitlement"
 usc_title: 37
 usc_section: "204"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "37 U.S.C. § 204"
-generated_at: "2026-03-30T02:07:07.154Z"
+generated_at: "2026-03-30T02:10:28.793Z"
 ---
 
 # § 204. Entitlement

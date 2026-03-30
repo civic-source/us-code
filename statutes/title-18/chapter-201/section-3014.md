@@ -3,14 +3,14 @@ title: "Section 3014 - Additional special assessment"
 usc_title: 18
 usc_section: "3014"
 chapter: 201
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "18 U.S.C. § 3014"
-generated_at: "2026-03-30T02:06:19.237Z"
+generated_at: "2026-03-30T02:09:08.319Z"
 ---
 
 # § 3014. Additional special assessment
 
-- **(a)** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on December 23, 2024 , in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
+- **(a)** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on March 14, 2025 , in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
   - **(1)** chapter 77 (relating to peonage, slavery, and trafficking in persons);
   - **(2)** chapter 109A (relating to sexual abuse);
   - **(3)** chapter 110 (relating to sexual exploitation and other abuse of children);
@@ -29,10 +29,10 @@ generated_at: "2026-03-30T02:06:19.237Z"
 - **(f)** The amount assessed under subsection (a) shall, subject to subsection (b), be collected in the manner that fines are collected in criminal cases, including the mandatory imposition of civil remedies for satisfaction of an unpaid fine as authorized under section 3613, where appropriate.
 - **(g)** Subject to section 3613(b), the obligation to pay an assessment imposed on or after the date of enactment of the Justice for Victims of Trafficking Act of 2015 shall not cease until the assessment is paid in full.
 - **(h)**
-  - **(1)** From amounts appropriated under subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 254b–2(b)(1) ), there shall be transferred to the Fund an amount equal to the amount transferred under subsection (d) for each fiscal year, except that the amount transferred under this paragraph shall not be less than $5,000,000 or more than $30,000,000 in each such fiscal year, and such amounts shall remain available until expended.
+  - **(1)** From amounts appropriated under section 10503(b)(1) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 254b–2(b)(1) ) for fiscal year 2015 and each subsequent fiscal year (or period thereof), there shall be transferred to the Fund an amount equal to the amount transferred under subsection (d) for each fiscal year, except that the amount transferred under this paragraph shall not be less than $5,000,000 or more than $30,000,000 in each such fiscal year, and such amounts shall remain available until expended.
   - **(2)** The Attorney General, in coordination with the Secretary of Health and Human Services, shall use amounts transferred to the Fund under paragraph (1) to award grants that may be used for the provision of health care or medical items or services to victims of trafficking under—
     - **(A)** sections 202, 203, and 204 of the Trafficking Victims Protection Reauthorization Act of 2005 ( 42 U.S.C. 14044a , 14044b, and 14044c); 2 2 See References in Text note below.
     - **(B)** subsections (b)(2) and (f) of section 107 of the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7105 ); and
     - **(C)** section 214(b) of the Victims of Child Abuse Act of 1990 ( 42 U.S.C. 13002(b) ). 2
   - **(3)** Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 ( 22 U.S.C. 7102 )) under section 214(b) of the Victims of Child Abuse Act of 1990 ( 42 U.S.C. 13002(b) ). 2
-  - **(4)** The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, section 301(d) of division BB of the Consolidated Appropriations Act, 2021, section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024, section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, and section 101(d) of the Consolidated Appropriations Act, 2024 shall continue to apply to the amounts transferred pursuant to paragraph (1).
+  - **(4)** The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, section 301(d) of division BB of the Consolidated Appropriations Act, 2021, section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024, section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, section 101(d) of division G of the Consolidated Appropriations Act, 2024, and section 3101(d) of the Health Extensions and Other Matters Act, 2025 shall continue to apply to the amounts transferred pursuant to paragraph (1).

@@ -3,9 +3,9 @@ title: "Section 467o - National low-head dam inventory"
 usc_title: 33
 usc_section: "467o"
 chapter: 9
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 467o"
-generated_at: "2026-03-30T02:07:01.967Z"
+generated_at: "2026-03-30T02:10:26.021Z"
 ---
 
 # § 467o. National low-head dam inventory

@@ -3,9 +3,9 @@ title: "Section 8218 - Aviation designations: naval flight officer"
 usc_title: 10
 usc_section: "8218"
 chapter: 825
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 8218"
-generated_at: "2026-03-30T02:06:00.240Z"
+generated_at: "2026-03-30T02:08:27.327Z"
 ---
 
 # § 8218. Aviation designations: naval flight officer

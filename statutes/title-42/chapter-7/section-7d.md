@@ -3,9 +3,9 @@ title: "Section 7d - Guidance regarding application of health care fraud and abu
 usc_title: 42
 usc_section: "7d"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 7d"
-generated_at: "2026-03-30T02:07:27.574Z"
+generated_at: "2026-03-30T02:11:32.737Z"
 ---
 
 # § 1320a–7d. Guidance regarding application of health care fraud and abuse sanctions

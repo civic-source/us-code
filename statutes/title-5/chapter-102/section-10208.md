@@ -3,9 +3,9 @@ title: "Section 10208 - Demotions"
 usc_title: 5
 usc_section: "10208"
 chapter: 102
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "5 U.S.C. § 10208"
-generated_at: "2026-03-30T02:05:47.840Z"
+generated_at: "2026-03-30T02:08:10.457Z"
 ---
 
 # § 10208. Demotions

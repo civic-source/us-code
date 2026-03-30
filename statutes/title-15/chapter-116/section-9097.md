@@ -3,9 +3,9 @@ title: "Section 9097 - Minimum air service guarantees"
 usc_title: 15
 usc_section: "9097"
 chapter: 116
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 9097"
-generated_at: "2026-03-30T02:06:09.874Z"
+generated_at: "2026-03-30T02:08:56.262Z"
 ---
 
 # § 9097. Minimum air service guarantees

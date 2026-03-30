@@ -3,9 +3,9 @@ title: "Section 295j - Preferences and required information in certain programs"
 usc_title: 42
 usc_section: "295j"
 chapter: 6
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 295j"
-generated_at: "2026-03-30T02:07:27.440Z"
+generated_at: "2026-03-30T02:11:32.525Z"
 ---
 
 # § 295j. Preferences and required information in certain programs

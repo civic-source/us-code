@@ -3,9 +3,9 @@ title: "Section 9096 - Signature authority"
 usc_title: 7
 usc_section: "9096"
 chapter: 115
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 9096"
-generated_at: "2026-03-30T02:05:53.938Z"
+generated_at: "2026-03-30T02:08:43.033Z"
 ---
 
 # § 9096. Signature authority

@@ -3,9 +3,9 @@ title: "Section 1379e - Assistance in purchase and sale of marketing certificate
 usc_title: 7
 usc_section: "1379e"
 chapter: 35
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 1379e"
-generated_at: "2026-03-30T02:05:53.790Z"
+generated_at: "2026-03-30T02:08:42.885Z"
 ---
 
 # § 1379e. Assistance in purchase and sale of marketing certificates; regulations; administrative expenses; interest

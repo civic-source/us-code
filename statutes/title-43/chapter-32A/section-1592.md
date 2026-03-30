@@ -3,9 +3,9 @@ title: "Section 1592 - Authorization to construct, operate, and maintain salinit
 usc_title: 43
 usc_section: "1592"
 chapter: 32
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 1592"
-generated_at: "2026-03-30T02:07:14.943Z"
+generated_at: "2026-03-30T02:10:37.050Z"
 ---
 
 # § 1592. Authorization to construct, operate, and maintain salinity control units and salinity control programs

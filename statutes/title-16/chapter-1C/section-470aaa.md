@@ -3,9 +3,9 @@ title: "Section 470aaa - Definitions"
 usc_title: 16
 usc_section: "470aaa"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 470aaa"
-generated_at: "2026-03-30T02:06:17.142Z"
+generated_at: "2026-03-30T02:09:13.341Z"
 ---
 
 # § 470aaa. Definitions

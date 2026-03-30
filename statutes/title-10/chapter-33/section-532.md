@@ -3,9 +3,9 @@ title: "Section 532 - Qualifications for original appointment as a commissioned 
 usc_title: 10
 usc_section: "532"
 chapter: 33
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 532"
-generated_at: "2026-03-30T02:06:00.109Z"
+generated_at: "2026-03-30T02:08:27.191Z"
 ---
 
 # § 532. Qualifications for original appointment as a commissioned officer

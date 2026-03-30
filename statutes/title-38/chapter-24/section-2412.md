@@ -3,9 +3,9 @@ title: "Section 2412 - Lease of land and buildings"
 usc_title: 38
 usc_section: "2412"
 chapter: 24
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 2412"
-generated_at: "2026-03-30T02:07:10.013Z"
+generated_at: "2026-03-30T02:10:34.037Z"
 ---
 
 # § 2412. Lease of land and buildings

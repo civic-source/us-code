@@ -3,9 +3,9 @@ title: "Section 2307 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2307"
 chapter: 44
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "20 U.S.C. § 2307"
-generated_at: "2026-03-30T02:06:31.513Z"
+generated_at: "2026-03-30T02:09:00.975Z"
 ---
 
 # § 2307. Authorization of appropriations

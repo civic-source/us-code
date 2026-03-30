@@ -3,9 +3,9 @@ title: "Section 1141 - Definitions"
 usc_title: 33
 usc_section: "1141"
 chapter: 22
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 1141"
-generated_at: "2026-03-30T02:07:01.990Z"
+generated_at: "2026-03-30T02:10:26.042Z"
 ---
 
 # § 1141. Definitions

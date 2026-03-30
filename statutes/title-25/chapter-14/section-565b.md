@@ -3,9 +3,9 @@ title: "Section 565b - Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 S
 usc_title: 25
 usc_section: "565b"
 chapter: 14
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 565b"
-generated_at: "2026-03-30T02:06:35.576Z"
+generated_at: "2026-03-30T02:09:31.187Z"
 ---
 
 # § 565b. Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 Stat. 2393

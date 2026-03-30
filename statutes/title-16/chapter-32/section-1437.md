@@ -3,9 +3,9 @@ title: "Section 1437 - Enforcement"
 usc_title: 16
 usc_section: "1437"
 chapter: 32
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 1437"
-generated_at: "2026-03-30T02:06:17.230Z"
+generated_at: "2026-03-30T02:09:13.447Z"
 ---
 
 # § 1437. Enforcement

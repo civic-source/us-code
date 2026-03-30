@@ -3,9 +3,9 @@ title: "Section 2734 - Vessel traffic service system"
 usc_title: 33
 usc_section: "2734"
 chapter: 40
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 2734"
-generated_at: "2026-03-30T02:07:02.047Z"
+generated_at: "2026-03-30T02:10:26.090Z"
 ---
 
 # § 2734. Vessel traffic service system

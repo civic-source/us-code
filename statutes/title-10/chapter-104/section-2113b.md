@@ -3,9 +3,9 @@ title: "Section 2113b - Academic Health System"
 usc_title: 10
 usc_section: "2113b"
 chapter: 104
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 2113b"
-generated_at: "2026-03-30T02:06:00.171Z"
+generated_at: "2026-03-30T02:08:27.259Z"
 ---
 
 # § 2113b. Academic Health System

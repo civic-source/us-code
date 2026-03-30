@@ -3,9 +3,9 @@ title: "Section 15305 - Meetings"
 usc_title: 40
 usc_section: "15305"
 chapter: 153
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "40 U.S.C. § 15305"
-generated_at: "2026-03-30T02:07:07.764Z"
+generated_at: "2026-03-30T02:10:28.474Z"
 ---
 
 # § 15305. Meetings

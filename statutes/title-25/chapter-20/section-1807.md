@@ -3,9 +3,9 @@ title: "Section 1807 - Grants to tribally controlled colleges or universities"
 usc_title: 25
 usc_section: "1807"
 chapter: 20
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 1807"
-generated_at: "2026-03-30T02:06:35.596Z"
+generated_at: "2026-03-30T02:09:31.250Z"
 ---
 
 # § 1807. Grants to tribally controlled colleges or universities

@@ -3,9 +3,9 @@ title: "Section 6985 - Special study and demonstration projects on recovery of u
 usc_title: 42
 usc_section: "6985"
 chapter: 82
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 6985"
-generated_at: "2026-03-30T02:07:27.952Z"
+generated_at: "2026-03-30T02:11:33.342Z"
 ---
 
 # § 6985. Special study and demonstration projects on recovery of useful energy and materials

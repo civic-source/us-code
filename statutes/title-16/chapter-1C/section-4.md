@@ -3,9 +3,9 @@ title: "Section 4 - Curation of resources"
 usc_title: 16
 usc_section: "4"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T02:06:17.142Z"
+generated_at: "2026-03-30T02:09:13.341Z"
 ---
 
 # § 470aaa–4. Curation of resources

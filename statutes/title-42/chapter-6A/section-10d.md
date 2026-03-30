@@ -3,9 +3,9 @@ title: "Section 10d - National Advisory Committee on Individuals With Disabiliti
 usc_title: 42
 usc_section: "10d"
 chapter: 6
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 10d"
-generated_at: "2026-03-30T02:07:27.505Z"
+generated_at: "2026-03-30T02:11:32.629Z"
 ---
 
 # § 300hh–10d. National Advisory Committee on Individuals With Disabilities and Disasters
@@ -35,5 +35,5 @@ generated_at: "2026-03-30T02:07:27.505Z"
 - **(e)** For purposes of this section, the term “disability” has the meaning given such term in section 12102 of this title .
 - **(f)** The Secretary shall coordinate duties and activities authorized under this section in accordance with section 300hh–10e of this title .
 - **(g)**
-  - **(1)** The Advisory Committee shall terminate on December 31, 2024 .
+  - **(1)** The Advisory Committee shall terminate on March 31, 2025 .
   - **(2)** Not later than October 1, 2022 , the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.

@@ -3,9 +3,9 @@ title: "Section 1746a - Termination of commitment authority under this subchapte
 usc_title: 12
 usc_section: "1746a"
 chapter: 13
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "12 U.S.C. § 1746a"
-generated_at: "2026-03-30T02:06:07.019Z"
+generated_at: "2026-03-30T02:08:53.276Z"
 ---
 
 # § 1746a. Termination of commitment authority under this subchapter

@@ -3,9 +3,9 @@ title: "Section 4244 - Hospitalization of a convicted person suffering from ment
 usc_title: 18
 usc_section: "4244"
 chapter: 313
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "18 U.S.C. § 4244"
-generated_at: "2026-03-30T02:06:19.253Z"
+generated_at: "2026-03-30T02:09:08.336Z"
 ---
 
 # § 4244. Hospitalization of a convicted person suffering from mental disease or defect

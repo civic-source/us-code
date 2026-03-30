@@ -3,9 +3,9 @@ title: "Section 6512 - Authorized hazardous fuel reduction projects"
 usc_title: 16
 usc_section: "6512"
 chapter: 84
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 6512"
-generated_at: "2026-03-30T02:06:17.367Z"
+generated_at: "2026-03-30T02:09:13.529Z"
 ---
 
 # § 6512. Authorized hazardous fuel reduction projects

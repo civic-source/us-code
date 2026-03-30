@@ -3,9 +3,9 @@ title: "Section 3813 - Definitions"
 usc_title: 19
 usc_section: "3813"
 chapter: 24
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "19 U.S.C. § 3813"
-generated_at: "2026-03-30T02:06:21.342Z"
+generated_at: "2026-03-30T02:09:03.126Z"
 ---
 
 # § 3813. Definitions

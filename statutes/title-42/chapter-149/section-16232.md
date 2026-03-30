@@ -3,9 +3,9 @@ title: "Section 16232 - Bioenergy program"
 usc_title: 42
 usc_section: "16232"
 chapter: 149
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 16232"
-generated_at: "2026-03-30T02:07:28.154Z"
+generated_at: "2026-03-30T02:11:33.656Z"
 ---
 
 # § 16232. Bioenergy program

@@ -3,9 +3,9 @@ title: "Section 831 - John Heinz Competitive Excellence Award"
 usc_title: 2
 usc_section: "831"
 chapter: 19
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "2 U.S.C. § 831"
-generated_at: "2026-03-30T02:05:44.643Z"
+generated_at: "2026-03-30T02:07:57.497Z"
 ---
 
 # § 831. John Heinz Competitive Excellence Award

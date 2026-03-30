@@ -3,9 +3,9 @@ title: "Section 32 - Lake George, Mississippi"
 usc_title: 33
 usc_section: "32"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 32"
-generated_at: "2026-03-30T02:07:01.957Z"
+generated_at: "2026-03-30T02:10:26.012Z"
 ---
 
 # § 32. Lake George, Mississippi

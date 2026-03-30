@@ -3,9 +3,9 @@ title: "Section 713g - Omitted"
 usc_title: 25
 usc_section: "713g"
 chapter: 14
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 713g"
-generated_at: "2026-03-30T02:06:35.577Z"
+generated_at: "2026-03-30T02:09:31.188Z"
 ---
 
 # § 713g. Omitted

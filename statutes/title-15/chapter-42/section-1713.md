@@ -3,9 +3,9 @@ title: "Section 1713 - Additional remedies"
 usc_title: 15
 usc_section: "1713"
 chapter: 42
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 1713"
-generated_at: "2026-03-30T02:06:09.784Z"
+generated_at: "2026-03-30T02:08:56.173Z"
 ---
 
 # § 1713. Additional remedies

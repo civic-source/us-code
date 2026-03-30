@@ -3,9 +3,9 @@ title: "Section 1600d - Limitations on Federal expenditures affecting Floodway"
 usc_title: 43
 usc_section: "1600d"
 chapter: 32
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 1600d"
-generated_at: "2026-03-30T02:07:14.944Z"
+generated_at: "2026-03-30T02:10:37.051Z"
 ---
 
 # § 1600d. Limitations on Federal expenditures affecting Floodway

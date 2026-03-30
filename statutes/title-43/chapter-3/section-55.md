@@ -3,9 +3,9 @@ title: "Section 55 - Field notes delivered to States; access to"
 usc_title: 43
 usc_section: "55"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 55"
-generated_at: "2026-03-30T02:07:14.899Z"
+generated_at: "2026-03-30T02:10:37.012Z"
 ---
 
 # § 55. Field notes delivered to States; access to

@@ -3,9 +3,9 @@ title: "Section 2694b - Participation in wetland mitigation banks"
 usc_title: 10
 usc_section: "2694b"
 chapter: 159
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 2694b"
-generated_at: "2026-03-30T02:06:00.194Z"
+generated_at: "2026-03-30T02:08:27.280Z"
 ---
 
 # § 2694b. Participation in wetland mitigation banks

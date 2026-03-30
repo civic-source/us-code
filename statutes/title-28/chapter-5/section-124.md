@@ -3,9 +3,9 @@ title: "Section 124 - Texas"
 usc_title: 28
 usc_section: "124"
 chapter: 5
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "28 U.S.C. § 124"
-generated_at: "2026-03-30T02:06:49.317Z"
+generated_at: "2026-03-30T02:09:58.222Z"
 ---
 
 # § 124. Texas

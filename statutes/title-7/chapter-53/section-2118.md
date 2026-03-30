@@ -3,9 +3,9 @@ title: "Section 2118 - Authorization of appropriations"
 usc_title: 7
 usc_section: "2118"
 chapter: 53
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 2118"
-generated_at: "2026-03-30T02:05:53.847Z"
+generated_at: "2026-03-30T02:08:42.940Z"
 ---
 
 # § 2118. Authorization of appropriations

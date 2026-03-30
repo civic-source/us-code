@@ -3,9 +3,9 @@ title: "Section 8690 - Limitation on length of overseas forward deployment of na
 usc_title: 10
 usc_section: "8690"
 chapter: 863
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 8690"
-generated_at: "2026-03-30T02:06:00.248Z"
+generated_at: "2026-03-30T02:08:27.334Z"
 ---
 
 # § 8690. Limitation on length of overseas forward deployment of naval vessels

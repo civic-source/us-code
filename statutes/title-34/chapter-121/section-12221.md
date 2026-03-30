@@ -3,9 +3,9 @@ title: "Section 12221 - Grant authorization"
 usc_title: 34
 usc_section: "12221"
 chapter: 121
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 12221"
-generated_at: "2026-03-30T02:06:59.540Z"
+generated_at: "2026-03-30T02:10:13.890Z"
 ---
 
 # § 12221. Grant authorization

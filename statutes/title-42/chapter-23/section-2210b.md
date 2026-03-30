@@ -3,9 +3,9 @@ title: "Section 2210b - Uranium supply"
 usc_title: 42
 usc_section: "2210b"
 chapter: 23
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 2210b"
-generated_at: "2026-03-30T02:07:27.821Z"
+generated_at: "2026-03-30T02:11:33.123Z"
 ---
 
 # § 2210b. Uranium supply

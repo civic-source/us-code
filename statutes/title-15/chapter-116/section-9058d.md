@@ -3,9 +3,9 @@ title: "Section 9058d - Homeowner Assistance Fund"
 usc_title: 15
 usc_section: "9058d"
 chapter: 116
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 9058d"
-generated_at: "2026-03-30T02:06:09.873Z"
+generated_at: "2026-03-30T02:08:56.260Z"
 ---
 
 # § 9058d. Homeowner Assistance Fund

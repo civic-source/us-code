@@ -3,9 +3,9 @@ title: "Section 12651a - Board of Directors"
 usc_title: 42
 usc_section: "12651a"
 chapter: 129
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 12651a"
-generated_at: "2026-03-30T02:07:28.101Z"
+generated_at: "2026-03-30T02:11:33.576Z"
 ---
 
 # § 12651a. Board of Directors

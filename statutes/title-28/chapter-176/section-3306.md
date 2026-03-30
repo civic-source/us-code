@@ -3,9 +3,9 @@ title: "Section 3306 - Remedies of the United States"
 usc_title: 28
 usc_section: "3306"
 chapter: 176
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "28 U.S.C. § 3306"
-generated_at: "2026-03-30T02:06:49.346Z"
+generated_at: "2026-03-30T02:09:58.249Z"
 ---
 
 # § 3306. Remedies of the United States

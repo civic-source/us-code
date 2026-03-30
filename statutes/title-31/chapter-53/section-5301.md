@@ -3,9 +3,9 @@ title: "Section 5301 - Buying obligations of the United States Government"
 usc_title: 31
 usc_section: "5301"
 chapter: 53
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "31 U.S.C. § 5301"
-generated_at: "2026-03-30T02:07:05.153Z"
+generated_at: "2026-03-30T02:10:24.994Z"
 ---
 
 # § 5301. Buying obligations of the United States Government

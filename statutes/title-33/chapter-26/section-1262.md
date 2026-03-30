@@ -3,9 +3,9 @@ title: "Section 1262 - Definitions and authorizations"
 usc_title: 33
 usc_section: "1262"
 chapter: 26
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 1262"
-generated_at: "2026-03-30T02:07:01.993Z"
+generated_at: "2026-03-30T02:10:26.044Z"
 ---
 
 # § 1262. Definitions and authorizations

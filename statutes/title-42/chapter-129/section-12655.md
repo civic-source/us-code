@@ -3,9 +3,9 @@ title: "Section 12655 - General authority"
 usc_title: 42
 usc_section: "12655"
 chapter: 129
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 12655"
-generated_at: "2026-03-30T02:07:28.104Z"
+generated_at: "2026-03-30T02:11:33.582Z"
 ---
 
 # § 12655. General authority

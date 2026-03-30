@@ -3,9 +3,9 @@ title: "Section 128 - Division or change of boundaries; continuance of business 
 usc_title: 43
 usc_section: "128"
 chapter: 5
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 128"
-generated_at: "2026-03-30T02:07:14.899Z"
+generated_at: "2026-03-30T02:10:37.014Z"
 ---
 
 # § 128. Division or change of boundaries; continuance of business of original district

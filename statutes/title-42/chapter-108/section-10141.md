@@ -3,9 +3,9 @@ title: "Section 10141 - Certain standards and criteria"
 usc_title: 42
 usc_section: "10141"
 chapter: 108
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 10141"
-generated_at: "2026-03-30T02:07:28.056Z"
+generated_at: "2026-03-30T02:11:33.507Z"
 ---
 
 # § 10141. Certain standards and criteria

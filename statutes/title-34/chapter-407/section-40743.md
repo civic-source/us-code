@@ -3,9 +3,9 @@ title: "Section 40743 - Expungement of profiles"
 usc_title: 34
 usc_section: "40743"
 chapter: 407
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 40743"
-generated_at: "2026-03-30T02:06:59.570Z"
+generated_at: "2026-03-30T02:10:13.921Z"
 ---
 
 # § 40743. Expungement of profiles

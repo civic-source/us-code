@@ -3,9 +3,9 @@ title: "Section 1502 - Initiation and development of projects; jurisdiction; acq
 usc_title: 42
 usc_section: "1502"
 chapter: 9
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 1502"
-generated_at: "2026-03-30T02:07:27.764Z"
+generated_at: "2026-03-30T02:11:33.028Z"
 ---
 
 # § 1502. Initiation and development of projects; jurisdiction; acquisition of property; fees of architects, engineers, etc.

@@ -3,9 +3,9 @@ title: "Section 2121 - Financial Oversight and Management Board"
 usc_title: 48
 usc_section: "2121"
 chapter: 20
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "48 U.S.C. § 2121"
-generated_at: "2026-03-30T02:07:31.162Z"
+generated_at: "2026-03-30T02:11:38.636Z"
 ---
 
 # § 2121. Financial Oversight and Management Board

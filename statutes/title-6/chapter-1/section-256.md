@@ -3,9 +3,9 @@ title: "Section 256 - Sense of Congress regarding construction of fencing near S
 usc_title: 6
 usc_section: "256"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "6 U.S.C. § 256"
-generated_at: "2026-03-30T02:05:54.571Z"
+generated_at: "2026-03-30T02:08:19.233Z"
 ---
 
 # § 256. Sense of Congress regarding construction of fencing near San Diego, California

@@ -3,9 +3,9 @@ title: "Section 423 - Petersburg National Battlefield; establishment"
 usc_title: 16
 usc_section: "423"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 423"
-generated_at: "2026-03-30T02:06:17.094Z"
+generated_at: "2026-03-30T02:09:13.283Z"
 ---
 
 # § 423. Petersburg National Battlefield; establishment

@@ -3,9 +3,9 @@ title: "Section 3047 - Retired rank and pay held pursuant to other laws unaffect
 usc_title: 33
 usc_section: "3047"
 chapter: 43
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 3047"
-generated_at: "2026-03-30T02:07:02.051Z"
+generated_at: "2026-03-30T02:10:26.093Z"
 ---
 
 # § 3047. Retired rank and pay held pursuant to other laws unaffected

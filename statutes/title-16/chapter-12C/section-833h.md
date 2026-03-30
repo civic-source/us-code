@@ -3,9 +3,9 @@ title: "Section 833h - Personnel; appointment and compensation"
 usc_title: 16
 usc_section: "833h"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 833h"
-generated_at: "2026-03-30T02:06:17.196Z"
+generated_at: "2026-03-30T02:09:13.407Z"
 ---
 
 # § 833h. Personnel; appointment and compensation

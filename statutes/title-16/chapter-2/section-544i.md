@@ -3,9 +3,9 @@ title: "Section 544i - Economic development"
 usc_title: 16
 usc_section: "544i"
 chapter: 2
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 544i"
-generated_at: "2026-03-30T02:06:17.155Z"
+generated_at: "2026-03-30T02:09:13.357Z"
 ---
 
 # § 544i. Economic development

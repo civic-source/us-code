@@ -3,9 +3,9 @@ title: "Section 315 - Training for congressional affairs personnel"
 usc_title: 14
 usc_section: "315"
 chapter: 3
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "14 U.S.C. § 315"
-generated_at: "2026-03-30T02:06:05.162Z"
+generated_at: "2026-03-30T02:08:45.481Z"
 ---
 
 # § 315. Training for congressional affairs personnel

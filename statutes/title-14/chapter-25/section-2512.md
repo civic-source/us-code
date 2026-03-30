@@ -3,9 +3,9 @@ title: "Section 2512 - Leave policies for the Coast Guard"
 usc_title: 14
 usc_section: "2512"
 chapter: 25
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "14 U.S.C. § 2512"
-generated_at: "2026-03-30T02:06:05.171Z"
+generated_at: "2026-03-30T02:08:45.492Z"
 ---
 
 # § 2512. Leave policies for the Coast Guard

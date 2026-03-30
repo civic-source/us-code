@@ -3,9 +3,9 @@ title: "Section 40 - Authorization of appropriations"
 usc_title: 22
 usc_section: "40"
 chapter: 7
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 40"
-generated_at: "2026-03-30T02:06:45.792Z"
+generated_at: "2026-03-30T02:09:39.914Z"
 ---
 
 # § 277d–40. Authorization of appropriations

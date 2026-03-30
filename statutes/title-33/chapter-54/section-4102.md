@@ -3,9 +3,9 @@ title: "Section 4102 - Coordination regarding assessment and acquisition by Nati
 usc_title: 33
 usc_section: "4102"
 chapter: 54
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 4102"
-generated_at: "2026-03-30T02:07:02.062Z"
+generated_at: "2026-03-30T02:10:26.104Z"
 ---
 
 # § 4102. Coordination regarding assessment and acquisition by National Oceanic and Atmospheric Administration of unmanned maritime systems

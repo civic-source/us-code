@@ -3,9 +3,9 @@ title: "Section 10230 - Other administrative provisions"
 usc_title: 34
 usc_section: "10230"
 chapter: 101
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 10230"
-generated_at: "2026-03-30T02:06:59.519Z"
+generated_at: "2026-03-30T02:10:13.866Z"
 ---
 
 # § 10230. Other administrative provisions

@@ -3,9 +3,9 @@ title: "Section 13212 - Minimum Federal fleet requirement"
 usc_title: 42
 usc_section: "13212"
 chapter: 134
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 13212"
-generated_at: "2026-03-30T02:07:28.117Z"
+generated_at: "2026-03-30T02:11:33.598Z"
 ---
 
 # § 13212. Minimum Federal fleet requirement

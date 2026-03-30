@@ -3,9 +3,9 @@ title: "Section 12631 - Creation of Violent Crime Reduction Trust Fund"
 usc_title: 34
 usc_section: "12631"
 chapter: 121
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 12631"
-generated_at: "2026-03-30T02:06:59.548Z"
+generated_at: "2026-03-30T02:10:13.900Z"
 ---
 
 # § 12631. Creation of Violent Crime Reduction Trust Fund

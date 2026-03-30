@@ -3,9 +3,9 @@ title: "Section 1226 - Research"
 usc_title: 30
 usc_section: "1226"
 chapter: 25
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "30 U.S.C. § 1226"
-generated_at: "2026-03-30T02:06:48.467Z"
+generated_at: "2026-03-30T02:09:42.586Z"
 ---
 
 # § 1226. Research

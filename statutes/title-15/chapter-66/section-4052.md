@@ -3,9 +3,9 @@ title: "Section 4052 - Authorization of appropriations"
 usc_title: 15
 usc_section: "4052"
 chapter: 66
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 4052"
-generated_at: "2026-03-30T02:06:09.825Z"
+generated_at: "2026-03-30T02:08:56.213Z"
 ---
 
 # § 4052. Authorization of appropriations

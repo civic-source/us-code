@@ -3,9 +3,9 @@ title: "Section 321p - National planning and education"
 usc_title: 6
 usc_section: "321p"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "6 U.S.C. § 321p"
-generated_at: "2026-03-30T02:05:54.577Z"
+generated_at: "2026-03-30T02:08:19.240Z"
 ---
 
 # § 321p. National planning and education

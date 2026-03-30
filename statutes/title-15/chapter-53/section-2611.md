@@ -3,9 +3,9 @@ title: "Section 2611 - Exports"
 usc_title: 15
 usc_section: "2611"
 chapter: 53
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 2611"
-generated_at: "2026-03-30T02:06:09.802Z"
+generated_at: "2026-03-30T02:08:56.191Z"
 ---
 
 # § 2611. Exports

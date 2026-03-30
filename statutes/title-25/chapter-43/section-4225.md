@@ -3,9 +3,9 @@ title: "Section 4225 - Treatment of program income and labor standards"
 usc_title: 25
 usc_section: "4225"
 chapter: 43
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "25 U.S.C. § 4225"
-generated_at: "2026-03-30T02:06:35.630Z"
+generated_at: "2026-03-30T02:09:31.283Z"
 ---
 
 # § 4225. Treatment of program income and labor standards

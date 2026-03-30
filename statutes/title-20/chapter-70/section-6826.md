@@ -3,9 +3,9 @@ title: "Section 6826 - Local plans"
 usc_title: 20
 usc_section: "6826"
 chapter: 70
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "20 U.S.C. § 6826"
-generated_at: "2026-03-30T02:06:31.544Z"
+generated_at: "2026-03-30T02:09:01.007Z"
 ---
 
 # § 6826. Local plans

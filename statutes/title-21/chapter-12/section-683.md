@@ -3,9 +3,9 @@ title: "Section 683 - Interstate shipment of meat inspected by Federal and State
 usc_title: 21
 usc_section: "683"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "21 U.S.C. § 683"
-generated_at: "2026-03-30T02:06:36.717Z"
+generated_at: "2026-03-30T02:09:18.235Z"
 ---
 
 # § 683. Interstate shipment of meat inspected by Federal and State agencies for certain small establishments

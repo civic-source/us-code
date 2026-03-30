@@ -3,9 +3,9 @@ title: "Section 376 - Renumbered § 276]"
 usc_title: 10
 usc_section: "376"
 chapter: 16
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 376"
-generated_at: "2026-03-30T02:06:00.099Z"
+generated_at: "2026-03-30T02:08:27.182Z"
 ---
 
 # [§ 376. Renumbered § 276]

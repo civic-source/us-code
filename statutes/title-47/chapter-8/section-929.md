@@ -3,9 +3,9 @@ title: "Section 929 - National security and other sensitive information"
 usc_title: 47
 usc_section: "929"
 chapter: 8
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "47 U.S.C. § 929"
-generated_at: "2026-03-30T02:07:32.908Z"
+generated_at: "2026-03-30T02:11:55.210Z"
 ---
 
 # § 929. National security and other sensitive information

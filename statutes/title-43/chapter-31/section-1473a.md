@@ -3,9 +3,9 @@ title: "Section 1473a - Acceptance of contributions by Secretary; cooperation wi
 usc_title: 43
 usc_section: "1473a"
 chapter: 31
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 1473a"
-generated_at: "2026-03-30T02:07:14.940Z"
+generated_at: "2026-03-30T02:10:37.048Z"
 ---
 
 # § 1473a. Acceptance of contributions by Secretary; cooperation with prosecution of projects

@@ -3,9 +3,9 @@ title: "Section 7362 - Alcohol abuse and alcoholism"
 usc_title: 5
 usc_section: "7362"
 chapter: 73
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "5 U.S.C. § 7362"
-generated_at: "2026-03-30T02:05:47.811Z"
+generated_at: "2026-03-30T02:08:10.421Z"
 ---
 
 # § 7362. Alcohol abuse and alcoholism

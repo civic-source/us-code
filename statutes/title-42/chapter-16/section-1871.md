@@ -3,9 +3,9 @@ title: "Section 1871 - Disposition of inventions produced under contracts or oth
 usc_title: 42
 usc_section: "1871"
 chapter: 16
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 1871"
-generated_at: "2026-03-30T02:07:27.794Z"
+generated_at: "2026-03-30T02:11:33.076Z"
 ---
 
 # § 1871. Disposition of inventions produced under contracts or other arrangements

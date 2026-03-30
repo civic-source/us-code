@@ -3,9 +3,9 @@ title: "Section 3951 - United States citizens hired abroad"
 usc_title: 22
 usc_section: "3951"
 chapter: 52
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 3951"
-generated_at: "2026-03-30T02:06:45.885Z"
+generated_at: "2026-03-30T02:09:40.003Z"
 ---
 
 # § 3951. United States citizens hired abroad

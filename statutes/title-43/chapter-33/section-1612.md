@@ -3,9 +3,9 @@ title: "Section 1612 - Surveys"
 usc_title: 43
 usc_section: "1612"
 chapter: 33
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 1612"
-generated_at: "2026-03-30T02:07:14.946Z"
+generated_at: "2026-03-30T02:10:37.053Z"
 ---
 
 # § 1612. Surveys

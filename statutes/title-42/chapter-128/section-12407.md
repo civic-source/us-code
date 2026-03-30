@@ -3,9 +3,9 @@ title: "Section 12407 - Technical panel"
 usc_title: 42
 usc_section: "12407"
 chapter: 128
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 12407"
-generated_at: "2026-03-30T02:07:28.090Z"
+generated_at: "2026-03-30T02:11:33.560Z"
 ---
 
 # § 12407. Technical panel

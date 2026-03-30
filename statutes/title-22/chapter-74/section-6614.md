@@ -3,9 +3,9 @@ title: "Section 6614 - Incidental transfers"
 usc_title: 22
 usc_section: "6614"
 chapter: 74
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 6614"
-generated_at: "2026-03-30T02:06:45.921Z"
+generated_at: "2026-03-30T02:09:40.037Z"
 ---
 
 # § 6614. Incidental transfers

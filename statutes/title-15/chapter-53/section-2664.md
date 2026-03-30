@@ -3,9 +3,9 @@ title: "Section 2664 - Model construction standards and techniques"
 usc_title: 15
 usc_section: "2664"
 chapter: 53
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 2664"
-generated_at: "2026-03-30T02:06:09.806Z"
+generated_at: "2026-03-30T02:08:56.196Z"
 ---
 
 # § 2664. Model construction standards and techniques

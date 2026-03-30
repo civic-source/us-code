@@ -3,9 +3,9 @@ title: "Section 2014 - Training and technical assistance for recipients of certa
 usc_title: 38
 usc_section: "2014"
 chapter: 20
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 2014"
-generated_at: "2026-03-30T02:07:10.009Z"
+generated_at: "2026-03-30T02:10:34.033Z"
 ---
 
 # § 2014. Training and technical assistance for recipients of certain financial assistance

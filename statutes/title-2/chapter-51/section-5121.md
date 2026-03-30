@@ -3,9 +3,9 @@ title: "Section 5121 - Expense allowance of Speaker of House of Representatives"
 usc_title: 2
 usc_section: "5121"
 chapter: 51
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "2 U.S.C. § 5121"
-generated_at: "2026-03-30T02:05:44.673Z"
+generated_at: "2026-03-30T02:07:57.537Z"
 ---
 
 # § 5121. Expense allowance of Speaker of House of Representatives

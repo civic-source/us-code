@@ -3,9 +3,9 @@ title: "Section 1944 - Soil conservation district loans; limitation; purchase of
 usc_title: 7
 usc_section: "1944"
 chapter: 50
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "7 U.S.C. § 1944"
-generated_at: "2026-03-30T02:05:53.824Z"
+generated_at: "2026-03-30T02:08:42.916Z"
 ---
 
 # § 1944. Soil conservation district loans; limitation; purchase of conservation equipment

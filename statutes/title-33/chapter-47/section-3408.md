@@ -3,9 +3,9 @@ title: "Section 3408 - National Ocean Mapping, Exploration, and Characterization
 usc_title: 33
 usc_section: "3408"
 chapter: 47
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 3408"
-generated_at: "2026-03-30T02:07:02.055Z"
+generated_at: "2026-03-30T02:10:26.097Z"
 ---
 
 # § 3408. National Ocean Mapping, Exploration, and Characterization Council

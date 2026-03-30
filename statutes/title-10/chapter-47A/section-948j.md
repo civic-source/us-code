@@ -3,9 +3,9 @@ title: "Section 948j - Military judge of a military commission"
 usc_title: 10
 usc_section: "948j"
 chapter: 47
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 948j"
-generated_at: "2026-03-30T02:06:00.127Z"
+generated_at: "2026-03-30T02:08:27.211Z"
 ---
 
 # § 948j. Military judge of a military commission

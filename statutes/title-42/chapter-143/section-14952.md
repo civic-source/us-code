@@ -3,9 +3,9 @@ title: "Section 14952 - Special rules for certain cases"
 usc_title: 42
 usc_section: "14952"
 chapter: 143
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 14952"
-generated_at: "2026-03-30T02:07:28.133Z"
+generated_at: "2026-03-30T02:11:33.625Z"
 ---
 
 # § 14952. Special rules for certain cases

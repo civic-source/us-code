@@ -3,9 +3,9 @@ title: "Section 916a - United States Commissioner"
 usc_title: 16
 usc_section: "916a"
 chapter: 14
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 916a"
-generated_at: "2026-03-30T02:06:17.200Z"
+generated_at: "2026-03-30T02:09:13.414Z"
 ---
 
 # § 916a. United States Commissioner

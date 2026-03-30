@@ -3,9 +3,9 @@ title: "Section 5663 - Cross reference"
 usc_title: 26
 usc_section: "5663"
 chapter: 51
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 5663"
-generated_at: "2026-03-30T02:06:56.605Z"
+generated_at: "2026-03-30T02:10:02.997Z"
 ---
 
 # § 5663. Cross reference

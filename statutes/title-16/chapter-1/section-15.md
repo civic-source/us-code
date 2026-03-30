@@ -3,9 +3,9 @@ title: "Section 15 - Grazing"
 usc_title: 16
 usc_section: "15"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "16 U.S.C. § 15"
-generated_at: "2026-03-30T02:06:17.126Z"
+generated_at: "2026-03-30T02:09:13.320Z"
 ---
 
 # § 460vv–15. Grazing

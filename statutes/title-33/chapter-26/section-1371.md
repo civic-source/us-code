@@ -3,9 +3,9 @@ title: "Section 1371 - Authority under other laws and regulations"
 usc_title: 33
 usc_section: "1371"
 chapter: 26
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "33 U.S.C. § 1371"
-generated_at: "2026-03-30T02:07:02.015Z"
+generated_at: "2026-03-30T02:10:26.063Z"
 ---
 
 # § 1371. Authority under other laws and regulations

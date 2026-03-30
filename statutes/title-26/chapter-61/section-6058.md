@@ -3,9 +3,9 @@ title: "Section 6058 - Information required in connection with certain plans of 
 usc_title: 26
 usc_section: "6058"
 chapter: 61
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 6058"
-generated_at: "2026-03-30T02:06:56.616Z"
+generated_at: "2026-03-30T02:10:03.008Z"
 ---
 
 # § 6058. Information required in connection with certain plans of deferred compensation

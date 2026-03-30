@@ -3,9 +3,9 @@ title: "Section 98 - Louisiana"
 usc_title: 28
 usc_section: "98"
 chapter: 5
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "28 U.S.C. § 98"
-generated_at: "2026-03-30T02:06:49.316Z"
+generated_at: "2026-03-30T02:09:58.221Z"
 ---
 
 # § 98. Louisiana

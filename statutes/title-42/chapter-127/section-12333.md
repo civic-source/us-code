@@ -3,9 +3,9 @@ title: "Section 12333 - Establishment of programs"
 usc_title: 42
 usc_section: "12333"
 chapter: 127
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "42 U.S.C. § 12333"
-generated_at: "2026-03-30T02:07:28.089Z"
+generated_at: "2026-03-30T02:11:33.557Z"
 ---
 
 # § 12333. Establishment of programs

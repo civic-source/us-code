@@ -3,9 +3,9 @@ title: "Section 318 - Special pay: special warfare officers extending period of 
 usc_title: 37
 usc_section: "318"
 chapter: 5
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "37 U.S.C. § 318"
-generated_at: "2026-03-30T02:07:07.161Z"
+generated_at: "2026-03-30T02:10:28.798Z"
 ---
 
 # § 318. Special pay: special warfare officers extending period of active duty

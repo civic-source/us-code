@@ -3,9 +3,9 @@ title: "Section 598 - Severability"
 usc_title: 28
 usc_section: "598"
 chapter: 40
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "28 U.S.C. § 598"
-generated_at: "2026-03-30T02:06:49.327Z"
+generated_at: "2026-03-30T02:09:58.232Z"
 ---
 
 # § 598. Severability

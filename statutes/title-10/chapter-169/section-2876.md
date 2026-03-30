@@ -3,9 +3,9 @@ title: "Section 2876 - Rental guarantees"
 usc_title: 10
 usc_section: "2876"
 chapter: 169
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "10 U.S.C. § 2876"
-generated_at: "2026-03-30T02:06:00.202Z"
+generated_at: "2026-03-30T02:08:27.288Z"
 ---
 
 # § 2876. Rental guarantees

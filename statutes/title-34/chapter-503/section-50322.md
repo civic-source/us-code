@@ -3,9 +3,9 @@ title: "Section 50322 - Nominations"
 usc_title: 34
 usc_section: "50322"
 chapter: 503
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "34 U.S.C. § 50322"
-generated_at: "2026-03-30T02:06:59.573Z"
+generated_at: "2026-03-30T02:10:13.926Z"
 ---
 
 # § 50322. Nominations

@@ -3,9 +3,9 @@ title: "Section 6418 - Transfer of certain credits"
 usc_title: 26
 usc_section: "6418"
 chapter: 65
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "26 U.S.C. § 6418"
-generated_at: "2026-03-30T02:06:56.632Z"
+generated_at: "2026-03-30T02:10:03.024Z"
 ---
 
 # § 6418. Transfer of certain credits

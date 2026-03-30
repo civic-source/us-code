@@ -3,9 +3,9 @@ title: "Section 887 - Deposits for surveys of lands granted to railroads"
 usc_title: 43
 usc_section: "887"
 chapter: 21
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 887"
-generated_at: "2026-03-30T02:07:14.927Z"
+generated_at: "2026-03-30T02:10:37.039Z"
 ---
 
 # § 887. Deposits for surveys of lands granted to railroads

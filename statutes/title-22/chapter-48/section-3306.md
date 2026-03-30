@@ -3,9 +3,9 @@ title: "Section 3306 - Services to United States citizens on Taiwan"
 usc_title: 22
 usc_section: "3306"
 chapter: 48
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 3306"
-generated_at: "2026-03-30T02:06:45.874Z"
+generated_at: "2026-03-30T02:09:39.994Z"
 ---
 
 # § 3306. Services to United States citizens on Taiwan

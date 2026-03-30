@@ -3,9 +3,9 @@ title: "Section 9252 - Termination of sanctions and other measures"
 usc_title: 22
 usc_section: "9252"
 chapter: 99
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "22 U.S.C. § 9252"
-generated_at: "2026-03-30T02:06:45.956Z"
+generated_at: "2026-03-30T02:09:40.068Z"
 ---
 
 # § 9252. Termination of sanctions and other measures

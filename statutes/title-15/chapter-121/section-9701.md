@@ -3,9 +3,9 @@ title: "Section 9701 - Definitions"
 usc_title: 15
 usc_section: "9701"
 chapter: 121
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "15 U.S.C. § 9701"
-generated_at: "2026-03-30T02:06:09.880Z"
+generated_at: "2026-03-30T02:08:56.268Z"
 ---
 
 # § 9701. Definitions

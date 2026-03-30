@@ -3,9 +3,9 @@ title: "Section 10 - Headquarters of mine rescue cars; site for experimental wor
 usc_title: 30
 usc_section: "10"
 chapter: 1
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "30 U.S.C. § 10"
-generated_at: "2026-03-30T02:06:48.445Z"
+generated_at: "2026-03-30T02:09:42.561Z"
 ---
 
 # § 10. Headquarters of mine rescue cars; site for experimental work; leases and donations

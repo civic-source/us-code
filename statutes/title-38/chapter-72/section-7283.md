@@ -3,9 +3,9 @@ title: "Section 7283 - Disposition of fees"
 usc_title: 38
 usc_section: "7283"
 chapter: 72
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "38 U.S.C. § 7283"
-generated_at: "2026-03-30T02:07:10.046Z"
+generated_at: "2026-03-30T02:10:34.065Z"
 ---
 
 # § 7283. Disposition of fees

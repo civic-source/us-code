@@ -3,9 +3,9 @@ title: "Section 4302 - Regulations"
 usc_title: 46
 usc_section: "4302"
 chapter: 43
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "46 U.S.C. § 4302"
-generated_at: "2026-03-30T02:07:32.041Z"
+generated_at: "2026-03-30T02:11:43.079Z"
 ---
 
 # § 4302. Regulations

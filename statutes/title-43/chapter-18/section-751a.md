@@ -3,9 +3,9 @@ title: "Section 751a - Survey system extended to Alaska"
 usc_title: 43
 usc_section: "751a"
 chapter: 18
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "43 U.S.C. § 751a"
-generated_at: "2026-03-30T02:07:14.923Z"
+generated_at: "2026-03-30T02:10:37.037Z"
 ---
 
 # § 751a. Survey system extended to Alaska

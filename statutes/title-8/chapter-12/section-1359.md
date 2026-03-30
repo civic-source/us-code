@@ -3,9 +3,9 @@ title: "Section 1359 - Application to American Indians born in Canada"
 usc_title: 8
 usc_section: "1359"
 chapter: 12
-current_through: "PL 118-157"
+current_through: "PL 118-158"
 classification: "8 U.S.C. § 1359"
-generated_at: "2026-03-30T02:05:50.498Z"
+generated_at: "2026-03-30T02:08:16.844Z"
 ---
 
 # § 1359. Application to American Indians born in Canada
