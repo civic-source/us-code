@@ -3,9 +3,9 @@ title: "Section 261 - Zones for standard time; interstate or foreign commerce"
 usc_title: 15
 usc_section: "261"
 chapter: 6
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 261"
-generated_at: "2026-03-30T07:25:28.411Z"
+generated_at: "2026-03-30T07:28:42.703Z"
 status: "active"
 ---
 

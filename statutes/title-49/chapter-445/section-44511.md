@@ -3,9 +3,9 @@ title: "Section 44511 - Aviation research grants"
 usc_title: 49
 usc_section: "44511"
 chapter: 445
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "49 U.S.C. § 44511"
-generated_at: "2026-03-30T07:27:13.665Z"
+generated_at: "2026-03-30T07:32:05.249Z"
 status: "active"
 ---
 

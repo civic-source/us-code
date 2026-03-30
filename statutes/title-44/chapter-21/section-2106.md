@@ -3,9 +3,9 @@ title: "Section 2106 - Reports to Congress"
 usc_title: 44
 usc_section: "2106"
 chapter: 21
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "44 U.S.C. § 2106"
-generated_at: "2026-03-30T07:26:41.015Z"
+generated_at: "2026-03-30T07:30:49.891Z"
 status: "active"
 ---
 

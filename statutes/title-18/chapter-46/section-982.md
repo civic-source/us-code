@@ -3,9 +3,9 @@ title: "Section 982 - Criminal forfeiture"
 usc_title: 18
 usc_section: "982"
 chapter: 46
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "18 U.S.C. § 982"
-generated_at: "2026-03-30T07:25:34.715Z"
+generated_at: "2026-03-30T07:29:07.294Z"
 status: "active"
 ---
 

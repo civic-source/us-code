@@ -3,9 +3,9 @@ title: "Section 1238 - Liens"
 usc_title: 30
 usc_section: "1238"
 chapter: 25
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "30 U.S.C. § 1238"
-generated_at: "2026-03-30T07:25:50.161Z"
+generated_at: "2026-03-30T07:29:37.084Z"
 status: "active"
 ---
 

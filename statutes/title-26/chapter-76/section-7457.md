@@ -3,9 +3,9 @@ title: "Section 7457 - Witness fees"
 usc_title: 26
 usc_section: "7457"
 chapter: 76
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "26 U.S.C. § 7457"
-generated_at: "2026-03-30T07:26:08.365Z"
+generated_at: "2026-03-30T07:30:02.228Z"
 status: "active"
 ---
 

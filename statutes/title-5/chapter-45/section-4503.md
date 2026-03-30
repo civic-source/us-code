@@ -3,9 +3,9 @@ title: "Section 4503 - Agency awards"
 usc_title: 5
 usc_section: "4503"
 chapter: 45
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "5 U.S.C. § 4503"
-generated_at: "2026-03-30T07:25:12.215Z"
+generated_at: "2026-03-30T07:27:29.127Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2001 - Purpose"
 usc_title: 38
 usc_section: "2001"
 chapter: 20
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "38 U.S.C. § 2001"
-generated_at: "2026-03-30T07:26:36.017Z"
+generated_at: "2026-03-30T07:30:47.646Z"
 status: "active"
 ---
 

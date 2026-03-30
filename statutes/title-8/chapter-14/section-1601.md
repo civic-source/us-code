@@ -3,9 +3,9 @@ title: "Section 1601 - Statements of national policy concerning welfare and immi
 usc_title: 8
 usc_section: "1601"
 chapter: 14
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "8 U.S.C. § 1601"
-generated_at: "2026-03-30T07:25:16.117Z"
+generated_at: "2026-03-30T07:27:39.305Z"
 status: "active"
 ---
 

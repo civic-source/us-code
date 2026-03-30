@@ -3,9 +3,9 @@ title: "Section 1135d - Additional assistance for cost of education"
 usc_title: 20
 usc_section: "1135d"
 chapter: 28
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "20 U.S.C. § 1135d"
-generated_at: "2026-03-30T07:25:37.879Z"
+generated_at: "2026-03-30T07:29:00.316Z"
 status: "active"
 ---
 

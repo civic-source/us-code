@@ -3,9 +3,9 @@ title: "Section 280i - Developmental disabilities surveillance and research prog
 usc_title: 42
 usc_section: "280i"
 chapter: 6
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 280i"
-generated_at: "2026-03-30T07:26:59.357Z"
+generated_at: "2026-03-30T07:31:50.376Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T07:25:28.420Z"
+generated_at: "2026-03-30T07:28:42.712Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Administration is empowered to the extent and in such amounts as provided in advance in appropriation Acts to make loans for plant acquisition, construction, conversion, or expansion, including the acquisition of land, material, supplies, equipment, and working capital, and to make loans to any qualified small business concern, including those owned by qualified Indian tribes, for purposes of this chapter. Such financings may be made either directly or in cooperation with banks or other financial institutions through agreements to participate on an immediate or deferred (guaranteed) basis. These powers shall be subject, however, to the following restrictions, limitations, and provisions:
   - **(1)**
     - **(A)**
-      - **(i)** No financial assistance shall be extended pursuant to this subsection if the applicant can obtain credit elsewhere. No immediate participation may be purchased unless it is shown that a deferred participation is not available; and no direct financing may be made unless it is shown that a participation is not available.
+      - **(i)** The Administrator has the authority to direct, and conduct oversight for, the methods by which lenders determine whether a borrower is able to obtain credit elsewhere. No financial assistance shall be extended pursuant to this subsection if the applicant can obtain credit elsewhere. No immediate participation may be purchased unless it is shown that a deferred participation is not available; and no direct financing may be made unless it is shown that a participation is not available.
       - **(ii)** On and after October 1, 2015 , the Administrator may not guarantee a loan under this subsection if the lender determines that the borrower is unable to obtain credit elsewhere solely because the liquidity of the lender depends upon the guaranteed portion of the loan being sold on the secondary market.
     - **(B)** Prior to the approval of any loan made pursuant to this subsection, or section 503 of the Small Business Investment Act of 1958 [ 15 U.S.C. 697 ], the Administrator may verify the applicant’s criminal background, or lack thereof, through the best available means, including, if possible, use of the National Crime Information Center computer system at the Federal Bureau of Investigation.
     - **(C)** On and after October 1, 2015 , the Administrator may not guarantee a loan under this subsection if the sole purpose for requesting the guarantee is to allow the lender to exceed the legal lending limit of the lender.

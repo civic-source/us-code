@@ -3,9 +3,9 @@ title: "Section 6503 - Training and monitoring"
 usc_title: 5
 usc_section: "6503"
 chapter: 65
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "5 U.S.C. § 6503"
-generated_at: "2026-03-30T07:25:12.229Z"
+generated_at: "2026-03-30T07:27:29.144Z"
 status: "active"
 ---
 

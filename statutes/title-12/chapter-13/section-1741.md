@@ -3,9 +3,9 @@ title: "Section 1741 - State taxation of realty held by Secretary"
 usc_title: 12
 usc_section: "1741"
 chapter: 13
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "12 U.S.C. § 1741"
-generated_at: "2026-03-30T07:25:31.134Z"
+generated_at: "2026-03-30T07:28:17.161Z"
 status: "active"
 ---
 

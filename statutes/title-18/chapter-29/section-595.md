@@ -3,9 +3,9 @@ title: "Section 595 - Interference by administrative employees of Federal, State
 usc_title: 18
 usc_section: "595"
 chapter: 29
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "18 U.S.C. § 595"
-generated_at: "2026-03-30T07:25:34.706Z"
+generated_at: "2026-03-30T07:29:07.286Z"
 status: "active"
 ---
 

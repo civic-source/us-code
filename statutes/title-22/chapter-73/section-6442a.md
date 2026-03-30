@@ -3,9 +3,9 @@ title: "Section 6442a - Non-state actor designations"
 usc_title: 22
 usc_section: "6442a"
 chapter: 73
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 6442a"
-generated_at: "2026-03-30T07:25:47.844Z"
+generated_at: "2026-03-30T07:29:27.935Z"
 status: "active"
 ---
 

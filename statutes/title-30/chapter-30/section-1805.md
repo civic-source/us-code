@@ -3,9 +3,9 @@ title: "Section 1805 - Innovation in basic and advanced materials industries"
 usc_title: 30
 usc_section: "1805"
 chapter: 30
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "30 U.S.C. § 1805"
-generated_at: "2026-03-30T07:25:50.172Z"
+generated_at: "2026-03-30T07:29:37.095Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 283i - Transferred"
 usc_title: 42
 usc_section: "283i"
 chapter: 6
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 283i"
-generated_at: "2026-03-30T07:26:59.362Z"
+generated_at: "2026-03-30T07:31:50.380Z"
 status: "transferred"
 ---
 

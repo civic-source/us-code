@@ -3,9 +3,9 @@ title: "Section 1002 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 1
 usc_title: 22
 usc_section: "1002"
 chapter: 14
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 1002"
-generated_at: "2026-03-30T07:25:47.754Z"
+generated_at: "2026-03-30T07:29:27.856Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2332 - Priorities; uniformity; preferences; impairment of rights
 usc_title: 42
 usc_section: "2332"
 chapter: 24
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 2332"
-generated_at: "2026-03-30T07:26:59.686Z"
+generated_at: "2026-03-30T07:31:50.714Z"
 status: "active"
 ---
 

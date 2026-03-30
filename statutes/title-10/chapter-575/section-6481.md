@@ -3,9 +3,9 @@ title: "Section 6481 - Repealed. Pub. L. 96–513, title III , § 362(a), Dec. 1
 usc_title: 10
 usc_section: "6481"
 chapter: 575
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 6481"
-generated_at: "2026-03-30T07:25:22.818Z"
+generated_at: "2026-03-30T07:28:11.913Z"
 status: "repealed"
 ---
 

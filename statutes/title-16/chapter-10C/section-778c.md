@@ -3,9 +3,9 @@ title: "Section 778c - Authorization of appropriations"
 usc_title: 16
 usc_section: "778c"
 chapter: 10
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "16 U.S.C. § 778c"
-generated_at: "2026-03-30T07:25:40.406Z"
+generated_at: "2026-03-30T07:29:14.634Z"
 status: "active"
 ---
 

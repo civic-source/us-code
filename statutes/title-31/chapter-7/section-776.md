@@ -3,9 +3,9 @@ title: "Section 776 - Payment of survivor benefits"
 usc_title: 31
 usc_section: "776"
 chapter: 7
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "31 U.S.C. § 776"
-generated_at: "2026-03-30T07:26:11.080Z"
+generated_at: "2026-03-30T07:30:15.966Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1723 - Commission on Interoperable Data Sharing"
 usc_title: 8
 usc_section: "1723"
 chapter: 15
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "8 U.S.C. § 1723"
-generated_at: "2026-03-30T07:25:16.119Z"
+generated_at: "2026-03-30T07:27:39.307Z"
 status: "active"
 ---
 

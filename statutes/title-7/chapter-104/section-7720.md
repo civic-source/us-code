@@ -3,9 +3,9 @@ title: "Section 7720 - National plan for control and management of Sudden Oak De
 usc_title: 7
 usc_section: "7720"
 chapter: 104
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "7 U.S.C. § 7720"
-generated_at: "2026-03-30T07:25:19.168Z"
+generated_at: "2026-03-30T07:27:42.973Z"
 status: "active"
 ---
 

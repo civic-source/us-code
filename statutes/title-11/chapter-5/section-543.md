@@ -3,9 +3,9 @@ title: "Section 543 - Turnover of property by a custodian"
 usc_title: 11
 usc_section: "543"
 chapter: 5
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "11 U.S.C. § 543"
-generated_at: "2026-03-30T07:25:25.169Z"
+generated_at: "2026-03-30T07:28:14.517Z"
 status: "active"
 ---
 

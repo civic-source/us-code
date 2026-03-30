@@ -3,9 +3,9 @@ title: "Section 497 - “Persons” defined"
 usc_title: 33
 usc_section: "497"
 chapter: 11
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "33 U.S.C. § 497"
-generated_at: "2026-03-30T07:26:12.541Z"
+generated_at: "2026-03-30T07:30:15.170Z"
 status: "active"
 ---
 

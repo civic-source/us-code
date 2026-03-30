@@ -3,9 +3,9 @@ title: "Section 460vvv - Bridgeport Winter Recreation Area"
 usc_title: 16
 usc_section: "460vvv"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "16 U.S.C. § 460vvv"
-generated_at: "2026-03-30T07:25:40.361Z"
+generated_at: "2026-03-30T07:29:14.594Z"
 status: "active"
 ---
 

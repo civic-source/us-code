@@ -3,9 +3,9 @@ title: "Section 6710 - Public participation"
 usc_title: 31
 usc_section: "6710"
 chapter: 67
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "31 U.S.C. § 6710"
-generated_at: "2026-03-30T07:26:11.101Z"
+generated_at: "2026-03-30T07:30:15.986Z"
 status: "active"
 ---
 

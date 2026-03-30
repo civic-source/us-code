@@ -3,9 +3,9 @@ title: "Section 1717a - Prohibition against sale of obligations by Federal depar
 usc_title: 12
 usc_section: "1717a"
 chapter: 13
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "12 U.S.C. § 1717a"
-generated_at: "2026-03-30T07:25:31.130Z"
+generated_at: "2026-03-30T07:28:17.157Z"
 status: "active"
 ---
 

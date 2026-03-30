@@ -3,9 +3,9 @@ title: "Section 6514 - Environmental analysis"
 usc_title: 16
 usc_section: "6514"
 chapter: 84
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "16 U.S.C. § 6514"
-generated_at: "2026-03-30T07:25:40.508Z"
+generated_at: "2026-03-30T07:29:14.736Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 844 - Repealed. Pub. L. 115–97, title I , § 13511(b)(2)(A), D
 usc_title: 26
 usc_section: "844"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "26 U.S.C. § 844"
-generated_at: "2026-03-30T07:26:08.251Z"
+generated_at: "2026-03-30T07:30:02.109Z"
 status: "repealed"
 ---
 

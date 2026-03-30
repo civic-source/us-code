@@ -3,9 +3,9 @@ title: "Section 2614 - Notice and hearings"
 usc_title: 7
 usc_section: "2614"
 chapter: 58
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "7 U.S.C. § 2614"
-generated_at: "2026-03-30T07:25:19.118Z"
+generated_at: "2026-03-30T07:27:42.922Z"
 status: "active"
 ---
 

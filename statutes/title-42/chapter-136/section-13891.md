@@ -3,9 +3,9 @@ title: "Section 13891 - Transferred"
 usc_title: 42
 usc_section: "13891"
 chapter: 136
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 13891"
-generated_at: "2026-03-30T07:26:59.906Z"
+generated_at: "2026-03-30T07:31:50.958Z"
 status: "transferred"
 ---
 

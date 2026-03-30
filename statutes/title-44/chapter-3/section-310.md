@@ -3,9 +3,9 @@ title: "Section 310 - Payments for printing, binding, blank paper, and supplies"
 usc_title: 44
 usc_section: "310"
 chapter: 3
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "44 U.S.C. § 310"
-generated_at: "2026-03-30T07:26:41.010Z"
+generated_at: "2026-03-30T07:30:49.886Z"
 status: "active"
 ---
 

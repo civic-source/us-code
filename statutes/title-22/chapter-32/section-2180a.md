@@ -3,9 +3,9 @@ title: "Section 2180a - Repealed. Pub. L. 95–424, title I , § 102(g)(1)(A), O
 usc_title: 22
 usc_section: "2180a"
 chapter: 32
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 2180a"
-generated_at: "2026-03-30T07:25:47.771Z"
+generated_at: "2026-03-30T07:29:27.872Z"
 status: "repealed"
 ---
 

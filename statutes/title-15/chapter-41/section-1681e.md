@@ -3,9 +3,9 @@ title: "Section 1681e - Compliance procedures"
 usc_title: 15
 usc_section: "1681e"
 chapter: 41
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 1681e"
-generated_at: "2026-03-30T07:25:28.475Z"
+generated_at: "2026-03-30T07:28:42.767Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 893a - Art. 93a]"
 usc_title: 10
 usc_section: "893a"
 chapter: 47
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 893a"
-generated_at: "2026-03-30T07:25:22.724Z"
+generated_at: "2026-03-30T07:28:11.818Z"
 status: "active"
 ---
 

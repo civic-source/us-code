@@ -3,9 +3,9 @@ title: "Section 40705 - Presidential review of Commission orders"
 usc_title: 46
 usc_section: "40705"
 chapter: 407
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "46 U.S.C. § 40705"
-generated_at: "2026-03-30T07:27:05.123Z"
+generated_at: "2026-03-30T07:32:10.755Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 511j - Publication of violations"
 usc_title: 7
 usc_section: "511j"
 chapter: 21
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "7 U.S.C. § 511j"
-generated_at: "2026-03-30T07:25:19.044Z"
+generated_at: "2026-03-30T07:27:42.849Z"
 status: "active"
 ---
 

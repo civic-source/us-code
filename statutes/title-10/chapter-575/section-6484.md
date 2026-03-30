@@ -3,9 +3,9 @@ title: "Section 6484 - Promotion of retired members to higher enlisted grades: r
 usc_title: 10
 usc_section: "6484"
 chapter: 575
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 6484"
-generated_at: "2026-03-30T07:25:22.818Z"
+generated_at: "2026-03-30T07:28:11.913Z"
 status: "active"
 ---
 

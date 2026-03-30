@@ -3,9 +3,9 @@ title: "Section 2453 - Future-years nuclear security program"
 usc_title: 50
 usc_section: "2453"
 chapter: 41
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "50 U.S.C. § 2453"
-generated_at: "2026-03-30T07:27:04.460Z"
+generated_at: "2026-03-30T07:31:55.129Z"
 status: "active"
 ---
 

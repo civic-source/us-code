@@ -3,9 +3,9 @@ title: "Section 148 - National cybersecurity and communications integration cent
 usc_title: 6
 usc_section: "148"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "6 U.S.C. § 148"
-generated_at: "2026-03-30T07:25:16.921Z"
+generated_at: "2026-03-30T07:27:38.805Z"
 status: "active"
 ---
 

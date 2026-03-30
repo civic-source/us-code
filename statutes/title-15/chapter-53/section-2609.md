@@ -3,9 +3,9 @@ title: "Section 2609 - Research, development, collection, dissemination, and uti
 usc_title: 15
 usc_section: "2609"
 chapter: 53
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 2609"
-generated_at: "2026-03-30T07:25:28.499Z"
+generated_at: "2026-03-30T07:28:42.793Z"
 status: "active"
 ---
 

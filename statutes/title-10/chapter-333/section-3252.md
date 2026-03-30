@@ -3,9 +3,9 @@ title: "Section 3252 - Repealed. Pub. L. 114–92, div. A, title VI , § 618(a),
 usc_title: 10
 usc_section: "3252"
 chapter: 333
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 3252"
-generated_at: "2026-03-30T07:25:22.806Z"
+generated_at: "2026-03-30T07:28:11.902Z"
 status: "repealed"
 ---
 

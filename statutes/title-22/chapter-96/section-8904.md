@@ -3,9 +3,9 @@ title: "Section 8904 - Recovery of assets linked to governmental corruption in U
 usc_title: 22
 usc_section: "8904"
 chapter: 96
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 8904"
-generated_at: "2026-03-30T07:25:47.870Z"
+generated_at: "2026-03-30T07:29:27.960Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 325 - Advisory committees"
 usc_title: 49
 usc_section: "325"
 chapter: 3
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "49 U.S.C. § 325"
-generated_at: "2026-03-30T07:27:13.604Z"
+generated_at: "2026-03-30T07:32:05.185Z"
 status: "active"
 ---
 

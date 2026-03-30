@@ -3,9 +3,9 @@ title: "Section 1967 - Addition to Emergency Credit Revolving Fund of sums from 
 usc_title: 7
 usc_section: "1967"
 chapter: 50
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "7 U.S.C. § 1967"
-generated_at: "2026-03-30T07:25:19.090Z"
+generated_at: "2026-03-30T07:27:42.895Z"
 status: "active"
 ---
 

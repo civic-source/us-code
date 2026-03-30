@@ -3,9 +3,9 @@ title: "Section 198 - Repealed. Oct. 10, 1940, ch. 851 , § 4, 54 Stat. 1111"
 usc_title: 15
 usc_section: "198"
 chapter: 5
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 198"
-generated_at: "2026-03-30T07:25:28.409Z"
+generated_at: "2026-03-30T07:28:42.701Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5580 - Repealed. Pub. L. 96–513, title III , § 321, Dec. 12, 
 usc_title: 10
 usc_section: "5580"
 chapter: 539
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 5580"
-generated_at: "2026-03-30T07:25:22.815Z"
+generated_at: "2026-03-30T07:28:11.911Z"
 status: "repealed"
 ---
 

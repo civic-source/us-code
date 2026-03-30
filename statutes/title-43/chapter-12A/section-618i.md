@@ -3,9 +3,9 @@ title: "Section 618i - Effective date"
 usc_title: 43
 usc_section: "618i"
 chapter: 12
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "43 U.S.C. § 618i"
-generated_at: "2026-03-30T07:26:40.790Z"
+generated_at: "2026-03-30T07:30:50.817Z"
 status: "active"
 ---
 

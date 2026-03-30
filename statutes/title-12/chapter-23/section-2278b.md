@@ -3,9 +3,9 @@ title: "Section 2278b - Establishment of Corporation"
 usc_title: 12
 usc_section: "2278b"
 chapter: 23
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "12 U.S.C. § 2278b"
-generated_at: "2026-03-30T07:25:31.180Z"
+generated_at: "2026-03-30T07:28:17.205Z"
 status: "active"
 ---
 

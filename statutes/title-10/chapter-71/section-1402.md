@@ -3,9 +3,9 @@ title: "Section 1402 - Recomputation of retired or retainer pay to reflect later
 usc_title: 10
 usc_section: "1402"
 chapter: 71
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 1402"
-generated_at: "2026-03-30T07:25:22.745Z"
+generated_at: "2026-03-30T07:28:11.840Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1313 - Rights and protections under Fair Labor Standards Act of 
 usc_title: 2
 usc_section: "1313"
 chapter: 24
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "2 U.S.C. § 1313"
-generated_at: "2026-03-30T07:25:13.636Z"
+generated_at: "2026-03-30T07:27:31.879Z"
 status: "active"
 ---
 

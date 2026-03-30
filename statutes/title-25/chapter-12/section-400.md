@@ -3,9 +3,9 @@ title: "Section 400 - Leases for mining purposes of reserved and unallotted land
 usc_title: 25
 usc_section: "400"
 chapter: 12
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "25 U.S.C. § 400"
-generated_at: "2026-03-30T07:25:43.979Z"
+generated_at: "2026-03-30T07:29:18.505Z"
 status: "active"
 ---
 

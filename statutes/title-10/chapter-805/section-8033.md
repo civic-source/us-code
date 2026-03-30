@@ -3,9 +3,9 @@ title: "Section 8033 - Chief of Staff"
 usc_title: 10
 usc_section: "8033"
 chapter: 805
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 8033"
-generated_at: "2026-03-30T07:25:22.826Z"
+generated_at: "2026-03-30T07:28:11.921Z"
 status: "active"
 ---
 

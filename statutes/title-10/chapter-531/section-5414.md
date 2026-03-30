@@ -3,9 +3,9 @@ title: "Section 5414 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "5414"
 chapter: 531
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 5414"
-generated_at: "2026-03-30T07:25:22.814Z"
+generated_at: "2026-03-30T07:28:11.910Z"
 status: "repealed"
 ---
 

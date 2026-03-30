@@ -3,9 +3,9 @@ title: "Section 1721 - Separability"
 usc_title: 20
 usc_section: "1721"
 chapter: 39
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "20 U.S.C. § 1721"
-generated_at: "2026-03-30T07:25:37.902Z"
+generated_at: "2026-03-30T07:29:00.336Z"
 status: "active"
 ---
 

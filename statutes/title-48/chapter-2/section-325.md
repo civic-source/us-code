@@ -3,9 +3,9 @@ title: "Section 325 - Repealed. Pub. L. 86–70 , § 21(d)(6), (7), June 25, 195
 usc_title: 48
 usc_section: "325"
 chapter: 2
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "48 U.S.C. § 325"
-generated_at: "2026-03-30T07:27:03.536Z"
+generated_at: "2026-03-30T07:32:00.450Z"
 status: "repealed"
 ---
 

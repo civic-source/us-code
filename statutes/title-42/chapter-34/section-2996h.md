@@ -3,9 +3,9 @@ title: "Section 2996h - Audits"
 usc_title: 42
 usc_section: "2996h"
 chapter: 34
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 2996h"
-generated_at: "2026-03-30T07:26:59.690Z"
+generated_at: "2026-03-30T07:31:50.718Z"
 status: "active"
 ---
 

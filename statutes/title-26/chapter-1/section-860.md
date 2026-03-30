@@ -3,9 +3,9 @@ title: "Section 860 - Deduction for deficiency dividends"
 usc_title: 26
 usc_section: "860"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "26 U.S.C. § 860"
-generated_at: "2026-03-30T07:26:08.254Z"
+generated_at: "2026-03-30T07:30:02.113Z"
 status: "active"
 ---
 

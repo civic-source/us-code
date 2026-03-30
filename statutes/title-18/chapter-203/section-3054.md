@@ -3,9 +3,9 @@ title: "Section 3054 - Repealed. Pub. L. 97–79 , § 9(b)(3), Nov. 16, 1981 , 9
 usc_title: 18
 usc_section: "3054"
 chapter: 203
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "18 U.S.C. § 3054"
-generated_at: "2026-03-30T07:25:34.742Z"
+generated_at: "2026-03-30T07:29:07.320Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1723 - Temporary revocation authority"
 usc_title: 43
 usc_section: "1723"
 chapter: 35
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "43 U.S.C. § 1723"
-generated_at: "2026-03-30T07:26:40.816Z"
+generated_at: "2026-03-30T07:30:50.848Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 460uuu - Mount Hood National Recreation Area"
 usc_title: 16
 usc_section: "460uuu"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "16 U.S.C. § 460uuu"
-generated_at: "2026-03-30T07:25:40.361Z"
+generated_at: "2026-03-30T07:29:14.593Z"
 status: "active"
 ---
 

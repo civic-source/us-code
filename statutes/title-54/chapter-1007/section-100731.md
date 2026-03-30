@@ -3,9 +3,9 @@ title: "Section 100731 - Findings and declaration"
 usc_title: 54
 usc_section: "100731"
 chapter: 1007
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "54 U.S.C. § 100731"
-generated_at: "2026-03-30T07:27:15.696Z"
+generated_at: "2026-03-30T07:32:23.002Z"
 status: "active"
 ---
 

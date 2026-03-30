@@ -3,9 +3,9 @@ title: "Section 373 - Repayment of unearned portion of bonus, incentive pay, or 
 usc_title: 37
 usc_section: "373"
 chapter: 5
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "37 U.S.C. § 373"
-generated_at: "2026-03-30T07:26:22.915Z"
+generated_at: "2026-03-30T07:30:35.342Z"
 status: "active"
 ---
 

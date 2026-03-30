@@ -3,9 +3,9 @@ title: "Section 2628 - Repealed. Pub. L. 93–203, title VII , § 714, formerly 
 usc_title: 42
 usc_section: "2628"
 chapter: 30
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 2628"
-generated_at: "2026-03-30T07:26:59.687Z"
+generated_at: "2026-03-30T07:31:50.715Z"
 status: "repealed"
 ---
 

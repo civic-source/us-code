@@ -3,9 +3,9 @@ title: "Section 139C - Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)
 usc_title: 26
 usc_section: "139C"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "26 U.S.C. § 139C"
-generated_at: "2026-03-30T07:26:08.172Z"
+generated_at: "2026-03-30T07:30:02.029Z"
 status: "repealed"
 ---
 

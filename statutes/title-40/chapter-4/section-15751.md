@@ -3,9 +3,9 @@ title: "Section 15751 - Authorization of appropriations"
 usc_title: 40
 usc_section: "15751"
 chapter: 4
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "40 U.S.C. § 15751"
-generated_at: "2026-03-30T07:26:23.292Z"
+generated_at: "2026-03-30T07:30:22.303Z"
 status: "active"
 ---
 

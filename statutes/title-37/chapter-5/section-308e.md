@@ -3,9 +3,9 @@ title: "Section 308e - Repealed. Pub. L. 109–163, div. A, title VI , § 631(b)
 usc_title: 37
 usc_section: "308e"
 chapter: 5
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "37 U.S.C. § 308e"
-generated_at: "2026-03-30T07:26:22.912Z"
+generated_at: "2026-03-30T07:30:35.339Z"
 status: "repealed"
 ---
 

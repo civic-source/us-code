@@ -3,9 +3,9 @@ title: "Section 1 - Authorization of appropriations"
 usc_title: 29
 usc_section: "1"
 chapter: 4
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-30T07:26:03.503Z"
+generated_at: "2026-03-30T07:29:47.016Z"
 status: "active"
 ---
 

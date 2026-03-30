@@ -3,9 +3,9 @@ title: "Section 1564 - Liens"
 usc_title: 19
 usc_section: "1564"
 chapter: 4
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "19 U.S.C. § 1564"
-generated_at: "2026-03-30T07:25:36.041Z"
+generated_at: "2026-03-30T07:29:01.400Z"
 status: "active"
 ---
 

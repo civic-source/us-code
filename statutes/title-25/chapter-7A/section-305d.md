@@ -3,9 +3,9 @@ title: "Section 305d - Criminal proceedings; civil actions"
 usc_title: 25
 usc_section: "305d"
 chapter: 7
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "25 U.S.C. § 305d"
-generated_at: "2026-03-30T07:25:43.975Z"
+generated_at: "2026-03-30T07:29:18.502Z"
 status: "active"
 ---
 

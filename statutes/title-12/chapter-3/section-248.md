@@ -3,9 +3,9 @@ title: "Section 248 - Enumerated powers"
 usc_title: 12
 usc_section: "248"
 chapter: 3
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "12 U.S.C. § 248"
-generated_at: "2026-03-30T07:25:31.083Z"
+generated_at: "2026-03-30T07:28:17.111Z"
 status: "active"
 ---
 

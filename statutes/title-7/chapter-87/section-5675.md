@@ -3,9 +3,9 @@ title: "Section 5675 - Technical assistance in trade negotiations"
 usc_title: 7
 usc_section: "5675"
 chapter: 87
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "7 U.S.C. § 5675"
-generated_at: "2026-03-30T07:25:19.139Z"
+generated_at: "2026-03-30T07:27:42.943Z"
 status: "active"
 ---
 

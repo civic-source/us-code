@@ -3,9 +3,9 @@ title: "Section 1311 - Establishment and membership"
 usc_title: 41
 usc_section: "1311"
 chapter: 13
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "41 U.S.C. § 1311"
-generated_at: "2026-03-30T07:26:37.888Z"
+generated_at: "2026-03-30T07:30:49.611Z"
 status: "active"
 ---
 

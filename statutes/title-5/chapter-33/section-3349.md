@@ -3,9 +3,9 @@ title: "Section 3349 - Reporting of vacancies"
 usc_title: 5
 usc_section: "3349"
 chapter: 33
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "5 U.S.C. § 3349"
-generated_at: "2026-03-30T07:25:12.211Z"
+generated_at: "2026-03-30T07:27:29.123Z"
 status: "active"
 ---
 

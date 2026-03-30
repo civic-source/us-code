@@ -3,9 +3,9 @@ title: "Section 17382 - Smart grid system report"
 usc_title: 42
 usc_section: "17382"
 chapter: 152
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 17382"
-generated_at: "2026-03-30T07:26:59.940Z"
+generated_at: "2026-03-30T07:31:50.995Z"
 status: "active"
 ---
 

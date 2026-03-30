@@ -3,9 +3,9 @@ title: "Section 7307 - Disposals to foreign nations"
 usc_title: 10
 usc_section: "7307"
 chapter: 633
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 7307"
-generated_at: "2026-03-30T07:25:22.821Z"
+generated_at: "2026-03-30T07:28:11.917Z"
 status: "active"
 ---
 

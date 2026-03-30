@@ -3,9 +3,9 @@ title: "Section 18084 - Premium tax credit and cost-sharing reduction payments d
 usc_title: 42
 usc_section: "18084"
 chapter: 157
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 18084"
-generated_at: "2026-03-30T07:26:59.948Z"
+generated_at: "2026-03-30T07:31:51.002Z"
 status: "active"
 ---
 

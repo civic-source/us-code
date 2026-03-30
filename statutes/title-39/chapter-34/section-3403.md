@@ -3,9 +3,9 @@ title: "Section 3403 - Matter for blind and other handicapped persons"
 usc_title: 39
 usc_section: "3403"
 chapter: 34
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "39 U.S.C. § 3403"
-generated_at: "2026-03-30T07:26:23.740Z"
+generated_at: "2026-03-30T07:30:29.551Z"
 status: "active"
 ---
 

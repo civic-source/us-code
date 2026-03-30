@@ -3,9 +3,9 @@ title: "Section 12651k - Study of involvement of veterans"
 usc_title: 42
 usc_section: "12651k"
 chapter: 129
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 12651k"
-generated_at: "2026-03-30T07:26:59.885Z"
+generated_at: "2026-03-30T07:31:50.937Z"
 status: "active"
 ---
 

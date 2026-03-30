@@ -3,9 +3,9 @@ title: "Section 35 - Prado Basin natural treatment system project"
 usc_title: 43
 usc_section: "35"
 chapter: 12
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "43 U.S.C. § 35"
-generated_at: "2026-03-30T07:26:40.781Z"
+generated_at: "2026-03-30T07:30:50.807Z"
 status: "active"
 ---
 

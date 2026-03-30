@@ -3,9 +3,9 @@ title: "Section 5385 - Orderly liquidation of covered brokers and dealers"
 usc_title: 12
 usc_section: "5385"
 chapter: 53
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "12 U.S.C. § 5385"
-generated_at: "2026-03-30T07:25:31.228Z"
+generated_at: "2026-03-30T07:28:17.249Z"
 status: "active"
 ---
 

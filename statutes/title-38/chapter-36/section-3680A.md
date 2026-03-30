@@ -3,9 +3,9 @@ title: "Section 3680A - Disapproval of enrollment in certain courses"
 usc_title: 38
 usc_section: "3680A"
 chapter: 36
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "38 U.S.C. § 3680A"
-generated_at: "2026-03-30T07:26:36.032Z"
+generated_at: "2026-03-30T07:30:47.663Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(C)** in the case of a program described in subparagraph (B)(iii)—
       - **(i)** provides training aligned with the requirements of employers in the State or local area where the program is located, which may include in-demand industry sectors or occupations; and
       - **(ii)** provides a student, upon completion of the program, with a recognized postsecondary credential that is recognized by employers in the relevant industry, which may include a credential recognized by industry or sector partnerships in the State or local area where the industry is located; and
-      - **(iii)** meets such content and instructional standards as may be required to comply with the criteria under section 3676(c)(14) and(15) of this title.
+      - **(iii)** meets such content and instructional standards as may be required to comply with the criteria under section 3676(c)(14) and (15) of this title.
 - **(b)** Except to the extent otherwise specifically provided in this title or chapter 106 of title 10, the Secretary shall not approve the enrollment of an eligible veteran in any course of flight training other than one given by an educational institution of higher learning for credit toward a standard college degree the eligible veteran is seeking.
 - **(c)** The Secretary shall not approve the enrollment of an eligible veteran in any course to be pursued by radio.
 - **(d)**

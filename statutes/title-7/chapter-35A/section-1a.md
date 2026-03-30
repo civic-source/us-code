@@ -3,9 +3,9 @@ title: "Section 1a - Marketing certificates for rice"
 usc_title: 7
 usc_section: "1a"
 chapter: 35
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-30T07:25:19.064Z"
+generated_at: "2026-03-30T07:27:42.869Z"
 status: "active"
 ---
 

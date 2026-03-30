@@ -3,9 +3,9 @@ title: "Section 1704 - Balance not required"
 usc_title: 20
 usc_section: "1704"
 chapter: 39
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "20 U.S.C. § 1704"
-generated_at: "2026-03-30T07:25:37.901Z"
+generated_at: "2026-03-30T07:29:00.335Z"
 status: "active"
 ---
 

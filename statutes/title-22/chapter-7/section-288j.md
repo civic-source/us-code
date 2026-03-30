@@ -3,9 +3,9 @@ title: "Section 288j - International Development Law Institute"
 usc_title: 22
 usc_section: "288j"
 chapter: 7
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 288j"
-generated_at: "2026-03-30T07:25:47.748Z"
+generated_at: "2026-03-30T07:29:27.851Z"
 status: "active"
 ---
 

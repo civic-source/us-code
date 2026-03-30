@@ -3,9 +3,9 @@ title: "Section 349 - Effect of dismissal"
 usc_title: 11
 usc_section: "349"
 chapter: 3
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "11 U.S.C. § 349"
-generated_at: "2026-03-30T07:25:25.165Z"
+generated_at: "2026-03-30T07:28:14.513Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 155 - Compensation and expenses of Library of Congress Trust Fun
 usc_title: 2
 usc_section: "155"
 chapter: 5
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "2 U.S.C. § 155"
-generated_at: "2026-03-30T07:25:13.618Z"
+generated_at: "2026-03-30T07:27:31.863Z"
 status: "active"
 ---
 

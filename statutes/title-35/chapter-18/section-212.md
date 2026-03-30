@@ -3,9 +3,9 @@ title: "Section 212 - Disposition of rights in educational awards"
 usc_title: 35
 usc_section: "212"
 chapter: 18
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "35 U.S.C. § 212"
-generated_at: "2026-03-30T07:26:10.148Z"
+generated_at: "2026-03-30T07:30:11.790Z"
 status: "active"
 ---
 

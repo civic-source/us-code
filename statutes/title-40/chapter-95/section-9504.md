@@ -3,9 +3,9 @@ title: "Section 9504 - Reports"
 usc_title: 40
 usc_section: "9504"
 chapter: 95
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "40 U.S.C. § 9504"
-generated_at: "2026-03-30T07:26:23.289Z"
+generated_at: "2026-03-30T07:30:22.299Z"
 status: "active"
 ---
 

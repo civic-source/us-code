@@ -3,9 +3,9 @@ title: "Section 902 - National League of Families POW/MIA flag"
 usc_title: 36
 usc_section: "902"
 chapter: 9
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "36 U.S.C. § 902"
-generated_at: "2026-03-30T07:26:26.123Z"
+generated_at: "2026-03-30T07:30:34.846Z"
 status: "active"
 ---
 

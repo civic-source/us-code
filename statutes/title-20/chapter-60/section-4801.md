@@ -3,9 +3,9 @@ title: "Section 4801 - Repealed. Pub. L. 103–382, title III , § 365, Oct. 20,
 usc_title: 20
 usc_section: "4801"
 chapter: 60
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "20 U.S.C. § 4801"
-generated_at: "2026-03-30T07:25:37.917Z"
+generated_at: "2026-03-30T07:29:00.349Z"
 status: "repealed"
 ---
 

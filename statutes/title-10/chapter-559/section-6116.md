@@ -3,9 +3,9 @@ title: "Section 6116 - Repealed. Pub. L. 90–235 , § 6(a)(2), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "6116"
 chapter: 559
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 6116"
-generated_at: "2026-03-30T07:25:22.816Z"
+generated_at: "2026-03-30T07:28:11.912Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 44933 - Federal Security Managers"
 usc_title: 49
 usc_section: "44933"
 chapter: 449
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "49 U.S.C. § 44933"
-generated_at: "2026-03-30T07:27:13.671Z"
+generated_at: "2026-03-30T07:32:05.255Z"
 status: "active"
 ---
 

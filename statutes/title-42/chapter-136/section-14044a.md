@@ -3,9 +3,9 @@ title: "Section 14044a - Transferred"
 usc_title: 42
 usc_section: "14044a"
 chapter: 136
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 14044a"
-generated_at: "2026-03-30T07:26:59.906Z"
+generated_at: "2026-03-30T07:31:50.958Z"
 status: "transferred"
 ---
 

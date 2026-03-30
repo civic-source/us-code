@@ -3,9 +3,9 @@ title: "Section 2042 - Supported housing for veterans participating in compensat
 usc_title: 38
 usc_section: "2042"
 chapter: 20
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "38 U.S.C. § 2042"
-generated_at: "2026-03-30T07:26:36.018Z"
+generated_at: "2026-03-30T07:30:47.648Z"
 status: "active"
 ---
 

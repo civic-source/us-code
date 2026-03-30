@@ -3,9 +3,9 @@ title: "Section 70107A - Interagency operational centers for port security"
 usc_title: 46
 usc_section: "70107A"
 chapter: 701
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "46 U.S.C. § 70107A"
-generated_at: "2026-03-30T07:27:05.138Z"
+generated_at: "2026-03-30T07:32:10.769Z"
 status: "active"
 ---
 

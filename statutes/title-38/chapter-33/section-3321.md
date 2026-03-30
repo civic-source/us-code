@@ -3,16 +3,16 @@ title: "Section 3321 - Time limitation for use of and eligibility for entitlemen
 usc_title: 38
 usc_section: "3321"
 chapter: 33
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "38 U.S.C. § 3321"
-generated_at: "2026-03-30T07:26:36.027Z"
+generated_at: "2026-03-30T07:30:47.658Z"
 status: "active"
 ---
 
 # § 3321. Time limitation for use of and eligibility for entitlement
 
 - **(a)** Except as provided in this section, the period during which an individual entitled to educational assistance under this chapter may use such individual’s entitlement—
-  - **(1)** in the case of an individual whose last discharge or release from active duty is before January, 1, 2013, expires at the end of the 15-year period beginning on the date of such discharge or release; or
+  - **(1)** in the case of an individual whose last discharge or release from active duty is before January, 1 1 So in original. The comma probably should not appear. 1, 2013, expires at the end of the 15-year period beginning on the date of such discharge or release; or
   - **(2)** in the case of an individual whose last discharge or release from active duty is on or after January 1, 2013 , shall not expire.
 - **(b)**
   - **(1)** Subsections (b), (c), and (d) of section 3031 shall apply with respect to the running of the 15-year period described in subsection (a) of this section in the same manner as such subsections apply under section 3031 with respect to the running of the 10-year period described in section 3031(a).

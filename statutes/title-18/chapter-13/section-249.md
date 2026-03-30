@@ -3,9 +3,9 @@ title: "Section 249 - Hate crime acts"
 usc_title: 18
 usc_section: "249"
 chapter: 13
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "18 U.S.C. § 249"
-generated_at: "2026-03-30T07:25:34.703Z"
+generated_at: "2026-03-30T07:29:07.282Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2174 - Confirmation"
 usc_title: 48
 usc_section: "2174"
 chapter: 20
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "48 U.S.C. § 2174"
-generated_at: "2026-03-30T07:27:03.556Z"
+generated_at: "2026-03-30T07:32:00.471Z"
 status: "active"
 ---
 

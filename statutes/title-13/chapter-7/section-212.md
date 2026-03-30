@@ -3,9 +3,9 @@ title: "Section 212 - Refusal or neglect of employees to perform duties"
 usc_title: 13
 usc_section: "212"
 chapter: 7
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "13 U.S.C. § 212"
-generated_at: "2026-03-30T07:25:26.083Z"
+generated_at: "2026-03-30T07:28:13.892Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31314 - Withholding amounts for State noncompliance"
 usc_title: 49
 usc_section: "31314"
 chapter: 313
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "49 U.S.C. § 31314"
-generated_at: "2026-03-30T07:27:13.649Z"
+generated_at: "2026-03-30T07:32:05.233Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7210 - Application of the Trade Sanctions Reform and Export Enha
 usc_title: 22
 usc_section: "7210"
 chapter: 79
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 7210"
-generated_at: "2026-03-30T07:25:47.853Z"
+generated_at: "2026-03-30T07:29:27.944Z"
 status: "active"
 ---
 

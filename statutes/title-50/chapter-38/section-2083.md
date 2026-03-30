@@ -3,9 +3,9 @@ title: "Section 2083 - Credit for service while on military leave"
 usc_title: 50
 usc_section: "2083"
 chapter: 38
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "50 U.S.C. § 2083"
-generated_at: "2026-03-30T07:27:04.457Z"
+generated_at: "2026-03-30T07:31:55.124Z"
 status: "active"
 ---
 

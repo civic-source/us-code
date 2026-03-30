@@ -3,9 +3,9 @@ title: "Section 1790b - Credit union employee protection remedy"
 usc_title: 12
 usc_section: "1790b"
 chapter: 14
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "12 U.S.C. § 1790b"
-generated_at: "2026-03-30T07:25:31.145Z"
+generated_at: "2026-03-30T07:28:17.170Z"
 status: "active"
 ---
 

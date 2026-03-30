@@ -3,9 +3,9 @@ title: "Section 1641h - Funds for payment of claims"
 usc_title: 22
 usc_section: "1641h"
 chapter: 21
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 1641h"
-generated_at: "2026-03-30T07:25:47.759Z"
+generated_at: "2026-03-30T07:29:27.862Z"
 status: "active"
 ---
 

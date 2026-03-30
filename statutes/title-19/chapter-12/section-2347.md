@@ -3,9 +3,9 @@ title: "Section 2347 - Repealed. Pub. L. 111–5, div. B, title I , § 1864(a)(1
 usc_title: 19
 usc_section: "2347"
 chapter: 12
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "19 U.S.C. § 2347"
-generated_at: "2026-03-30T07:25:36.064Z"
+generated_at: "2026-03-30T07:29:01.424Z"
 status: "repealed"
 ---
 

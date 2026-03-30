@@ -3,9 +3,9 @@ title: "Section 14302 - Measurement"
 usc_title: 46
 usc_section: "14302"
 chapter: 143
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "46 U.S.C. § 14302"
-generated_at: "2026-03-30T07:27:05.120Z"
+generated_at: "2026-03-30T07:32:10.751Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3717 - Interest and penalty on claims"
 usc_title: 31
 usc_section: "3717"
 chapter: 37
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "31 U.S.C. § 3717"
-generated_at: "2026-03-30T07:26:11.090Z"
+generated_at: "2026-03-30T07:30:15.976Z"
 status: "active"
 ---
 

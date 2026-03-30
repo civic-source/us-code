@@ -3,9 +3,9 @@ title: "Section 1953 - Recordkeeping and procedures"
 usc_title: 12
 usc_section: "1953"
 chapter: 21
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "12 U.S.C. § 1953"
-generated_at: "2026-03-30T07:25:31.171Z"
+generated_at: "2026-03-30T07:28:17.196Z"
 status: "active"
 ---
 

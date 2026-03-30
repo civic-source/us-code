@@ -3,9 +3,9 @@ title: "Section 4682 - Obsolete or excess material: sale to National Council of 
 usc_title: 10
 usc_section: "4682"
 chapter: 443
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 4682"
-generated_at: "2026-03-30T07:25:22.811Z"
+generated_at: "2026-03-30T07:28:11.907Z"
 status: "active"
 ---
 

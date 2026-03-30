@@ -3,9 +3,9 @@ title: "Section 30143 - State laws affected"
 usc_title: 52
 usc_section: "30143"
 chapter: 301
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "52 U.S.C. § 30143"
-generated_at: "2026-03-30T07:27:15.926Z"
+generated_at: "2026-03-30T07:32:21.868Z"
 status: "active"
 ---
 

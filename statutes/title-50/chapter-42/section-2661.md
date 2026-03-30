@@ -3,9 +3,9 @@ title: "Section 2661 - Protection of certain nuclear facilities and assets from 
 usc_title: 50
 usc_section: "2661"
 chapter: 42
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "50 U.S.C. § 2661"
-generated_at: "2026-03-30T07:27:04.465Z"
+generated_at: "2026-03-30T07:31:55.134Z"
 status: "active"
 ---
 

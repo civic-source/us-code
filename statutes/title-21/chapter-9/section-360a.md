@@ -3,9 +3,9 @@ title: "Section 360a - Clinical trial guidance for antibiotic drugs"
 usc_title: 21
 usc_section: "360a"
 chapter: 9
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "21 U.S.C. § 360a"
-generated_at: "2026-03-30T07:25:45.013Z"
+generated_at: "2026-03-30T07:29:26.224Z"
 status: "active"
 ---
 

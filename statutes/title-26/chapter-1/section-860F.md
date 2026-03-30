@@ -3,9 +3,9 @@ title: "Section 860F - Other rules"
 usc_title: 26
 usc_section: "860F"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "26 U.S.C. § 860F"
-generated_at: "2026-03-30T07:26:08.255Z"
+generated_at: "2026-03-30T07:30:02.114Z"
 status: "active"
 ---
 

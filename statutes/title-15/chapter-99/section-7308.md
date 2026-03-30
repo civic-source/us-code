@@ -3,9 +3,9 @@ title: "Section 7308 - National Institute of Standards and Technology actions"
 usc_title: 15
 usc_section: "7308"
 chapter: 99
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 7308"
-generated_at: "2026-03-30T07:25:28.537Z"
+generated_at: "2026-03-30T07:28:42.832Z"
 status: "active"
 ---
 

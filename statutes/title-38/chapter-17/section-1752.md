@@ -3,9 +3,9 @@ title: "Section 1752 - Research"
 usc_title: 38
 usc_section: "1752"
 chapter: 17
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "38 U.S.C. § 1752"
-generated_at: "2026-03-30T07:26:36.012Z"
+generated_at: "2026-03-30T07:30:47.641Z"
 status: "active"
 ---
 

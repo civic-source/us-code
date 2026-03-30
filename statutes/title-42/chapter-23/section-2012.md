@@ -3,9 +3,9 @@ title: "Section 2012 - Congressional findings"
 usc_title: 42
 usc_section: "2012"
 chapter: 23
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 2012"
-generated_at: "2026-03-30T07:26:59.670Z"
+generated_at: "2026-03-30T07:31:50.696Z"
 status: "active"
 ---
 

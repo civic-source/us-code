@@ -3,9 +3,9 @@ title: "Section 410oo - Purposes"
 usc_title: 16
 usc_section: "410oo"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "16 U.S.C. § 410oo"
-generated_at: "2026-03-30T07:25:40.304Z"
+generated_at: "2026-03-30T07:29:14.542Z"
 status: "active"
 ---
 

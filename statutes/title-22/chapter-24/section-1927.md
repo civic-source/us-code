@@ -3,9 +3,9 @@ title: "Section 1927 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1927"
 chapter: 24
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 1927"
-generated_at: "2026-03-30T07:25:47.763Z"
+generated_at: "2026-03-30T07:29:27.864Z"
 status: "repealed"
 ---
 

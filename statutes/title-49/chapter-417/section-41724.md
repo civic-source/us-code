@@ -3,9 +3,9 @@ title: "Section 41724 - Musical instruments"
 usc_title: 49
 usc_section: "41724"
 chapter: 417
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "49 U.S.C. § 41724"
-generated_at: "2026-03-30T07:27:13.661Z"
+generated_at: "2026-03-30T07:32:05.246Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1116 - Injunctive relief"
 usc_title: 15
 usc_section: "1116"
 chapter: 22
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 1116"
-generated_at: "2026-03-30T07:25:28.453Z"
+generated_at: "2026-03-30T07:28:42.746Z"
 status: "active"
 ---
 

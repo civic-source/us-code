@@ -3,9 +3,9 @@ title: "Section 407c - Omitted"
 usc_title: 25
 usc_section: "407c"
 chapter: 12
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "25 U.S.C. § 407c"
-generated_at: "2026-03-30T07:25:43.979Z"
+generated_at: "2026-03-30T07:29:18.506Z"
 status: "omitted"
 ---
 

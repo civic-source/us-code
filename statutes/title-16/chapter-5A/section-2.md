@@ -3,9 +3,9 @@ title: "Section 2 - Authorization of appropriations for reimbursement of Commodi
 usc_title: 16
 usc_section: "2"
 chapter: 5
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T07:25:40.390Z"
+generated_at: "2026-03-30T07:29:14.620Z"
 status: "active"
 ---
 

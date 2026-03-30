@@ -3,9 +3,9 @@ title: "Section 1622 - Annual reports to Congress until 1984; submission in 1985
 usc_title: 43
 usc_section: "1622"
 chapter: 33
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "43 U.S.C. § 1622"
-generated_at: "2026-03-30T07:26:40.811Z"
+generated_at: "2026-03-30T07:30:50.841Z"
 status: "active"
 ---
 

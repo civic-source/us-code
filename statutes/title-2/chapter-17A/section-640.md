@@ -3,9 +3,9 @@ title: "Section 640 - House approval of regular appropriation bills"
 usc_title: 2
 usc_section: "640"
 chapter: 17
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "2 U.S.C. § 640"
-generated_at: "2026-03-30T07:25:13.627Z"
+generated_at: "2026-03-30T07:27:31.872Z"
 status: "active"
 ---
 

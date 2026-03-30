@@ -3,9 +3,9 @@ title: "Section 1759a - Repealed. Pub. L. 86–108 , ch. IV, § 401(l), July 24,
 usc_title: 22
 usc_section: "1759a"
 chapter: 24
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 1759a"
-generated_at: "2026-03-30T07:25:47.762Z"
+generated_at: "2026-03-30T07:29:27.863Z"
 status: "repealed"
 ---
 

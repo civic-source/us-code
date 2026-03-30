@@ -3,9 +3,9 @@ title: "Section 16165 - Termination of assistance"
 usc_title: 10
 usc_section: "16165"
 chapter: 1607
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 16165"
-generated_at: "2026-03-30T07:25:22.844Z"
+generated_at: "2026-03-30T07:28:11.940Z"
 status: "active"
 ---
 

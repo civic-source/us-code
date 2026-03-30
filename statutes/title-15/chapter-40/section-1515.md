@@ -3,9 +3,9 @@ title: "Section 1515 - Records, etc., of bureaus transferred to Department of Co
 usc_title: 15
 usc_section: "1515"
 chapter: 40
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 1515"
-generated_at: "2026-03-30T07:25:28.463Z"
+generated_at: "2026-03-30T07:28:42.755Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 874 - Allowance of deductions and credits"
 usc_title: 26
 usc_section: "874"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "26 U.S.C. § 874"
-generated_at: "2026-03-30T07:26:08.258Z"
+generated_at: "2026-03-30T07:30:02.117Z"
 status: "active"
 ---
 

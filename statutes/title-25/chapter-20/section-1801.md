@@ -3,9 +3,9 @@ title: "Section 1801 - Definitions"
 usc_title: 25
 usc_section: "1801"
 chapter: 20
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "25 U.S.C. § 1801"
-generated_at: "2026-03-30T07:25:43.999Z"
+generated_at: "2026-03-30T07:29:18.525Z"
 status: "active"
 ---
 

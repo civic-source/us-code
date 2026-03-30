@@ -3,9 +3,9 @@ title: "Section 10 - Effectiveness of Convention"
 usc_title: 22
 usc_section: "10"
 chapter: 7
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 10"
-generated_at: "2026-03-30T07:25:47.749Z"
+generated_at: "2026-03-30T07:29:27.852Z"
 status: "active"
 ---
 

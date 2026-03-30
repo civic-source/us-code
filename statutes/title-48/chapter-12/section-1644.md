@@ -3,9 +3,9 @@ title: "Section 1644 - Import duties on articles entering United States or posse
 usc_title: 48
 usc_section: "1644"
 chapter: 12
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "48 U.S.C. § 1644"
-generated_at: "2026-03-30T07:27:03.545Z"
+generated_at: "2026-03-30T07:32:00.460Z"
 status: "active"
 ---
 

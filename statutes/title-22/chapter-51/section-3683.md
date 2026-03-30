@@ -3,9 +3,9 @@ title: "Section 3683 - Repealed. Pub. L. 104–201, div. C, title XXXV , § 3546
 usc_title: 22
 usc_section: "3683"
 chapter: 51
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "22 U.S.C. § 3683"
-generated_at: "2026-03-30T07:25:47.812Z"
+generated_at: "2026-03-30T07:29:27.908Z"
 status: "repealed"
 ---
 

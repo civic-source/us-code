@@ -3,9 +3,9 @@ title: "Section 7 - Transferred"
 usc_title: 42
 usc_section: "7"
 chapter: 15
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T07:26:59.653Z"
+generated_at: "2026-03-30T07:31:50.678Z"
 status: "transferred"
 ---
 

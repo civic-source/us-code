@@ -3,9 +3,9 @@ title: "Section 1861 - Repealed. Pub. L. 99–367 , § 2(b), July 31, 1986 , 100
 usc_title: 43
 usc_section: "1861"
 chapter: 36
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "43 U.S.C. § 1861"
-generated_at: "2026-03-30T07:26:40.821Z"
+generated_at: "2026-03-30T07:30:50.853Z"
 status: "repealed"
 ---
 

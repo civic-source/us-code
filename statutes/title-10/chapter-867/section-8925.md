@@ -3,9 +3,9 @@ title: "Section 8925 - Computation of years of service: voluntary retirement; en
 usc_title: 10
 usc_section: "8925"
 chapter: 867
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 8925"
-generated_at: "2026-03-30T07:25:22.828Z"
+generated_at: "2026-03-30T07:28:11.924Z"
 status: "active"
 ---
 

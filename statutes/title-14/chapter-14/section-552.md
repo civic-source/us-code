@@ -3,9 +3,9 @@ title: "Section 552 - Child development services"
 usc_title: 14
 usc_section: "552"
 chapter: 14
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "14 U.S.C. § 552"
-generated_at: "2026-03-30T07:25:26.634Z"
+generated_at: "2026-03-30T07:28:14.229Z"
 status: "active"
 ---
 

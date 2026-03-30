@@ -3,9 +3,9 @@ title: "Section 300ii - Definitions"
 usc_title: 42
 usc_section: "300ii"
 chapter: 6
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 300ii"
-generated_at: "2026-03-30T07:26:59.439Z"
+generated_at: "2026-03-30T07:31:50.461Z"
 status: "active"
 ---
 

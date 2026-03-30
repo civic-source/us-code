@@ -3,9 +3,9 @@ title: "Section 245A - Deduction for foreign source-portion of dividends receive
 usc_title: 26
 usc_section: "245A"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "26 U.S.C. § 245A"
-generated_at: "2026-03-30T07:26:08.193Z"
+generated_at: "2026-03-30T07:30:02.050Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4642 - Reporting of fraudulent loans"
 usc_title: 12
 usc_section: "4642"
 chapter: 46
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "12 U.S.C. § 4642"
-generated_at: "2026-03-30T07:25:31.212Z"
+generated_at: "2026-03-30T07:28:17.235Z"
 status: "active"
 ---
 

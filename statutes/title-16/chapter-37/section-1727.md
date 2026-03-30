@@ -3,9 +3,9 @@ title: "Section 1727 - National service educational awards"
 usc_title: 16
 usc_section: "1727"
 chapter: 37
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "16 U.S.C. § 1727"
-generated_at: "2026-03-30T07:25:40.457Z"
+generated_at: "2026-03-30T07:29:14.689Z"
 status: "active"
 ---
 

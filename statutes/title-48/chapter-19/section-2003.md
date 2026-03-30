@@ -3,9 +3,9 @@ title: "Section 2003 - Conference"
 usc_title: 48
 usc_section: "2003"
 chapter: 19
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "48 U.S.C. § 2003"
-generated_at: "2026-03-30T07:27:03.553Z"
+generated_at: "2026-03-30T07:32:00.468Z"
 status: "active"
 ---
 

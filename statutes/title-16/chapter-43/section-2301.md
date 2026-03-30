@@ -3,9 +3,9 @@ title: "Section 2301 - Omitted or Transferred"
 usc_title: 16
 usc_section: "2301"
 chapter: 43
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "16 U.S.C. § 2301"
-generated_at: "2026-03-30T07:25:40.469Z"
+generated_at: "2026-03-30T07:29:14.701Z"
 status: "omitted"
 ---
 

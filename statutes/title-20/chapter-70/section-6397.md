@@ -3,9 +3,9 @@ title: "Section 6397 - Bypass"
 usc_title: 20
 usc_section: "6397"
 chapter: 70
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "20 U.S.C. § 6397"
-generated_at: "2026-03-30T07:25:37.929Z"
+generated_at: "2026-03-30T07:29:00.359Z"
 status: "active"
 ---
 

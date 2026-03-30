@@ -3,9 +3,9 @@ title: "Section 2492 - Nonappropriated fund instrumentalities: contracts with ot
 usc_title: 10
 usc_section: "2492"
 chapter: 147
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "10 U.S.C. § 2492"
-generated_at: "2026-03-30T07:25:22.787Z"
+generated_at: "2026-03-30T07:28:11.883Z"
 status: "active"
 ---
 

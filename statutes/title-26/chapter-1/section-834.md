@@ -3,9 +3,9 @@ title: "Section 834 - Determination of taxable investment income"
 usc_title: 26
 usc_section: "834"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "26 U.S.C. § 834"
-generated_at: "2026-03-30T07:26:08.250Z"
+generated_at: "2026-03-30T07:30:02.108Z"
 status: "active"
 ---
 

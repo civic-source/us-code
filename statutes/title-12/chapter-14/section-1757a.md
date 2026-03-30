@@ -3,9 +3,9 @@ title: "Section 1757a - Limitation on member business loans"
 usc_title: 12
 usc_section: "1757a"
 chapter: 14
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "12 U.S.C. § 1757a"
-generated_at: "2026-03-30T07:25:31.138Z"
+generated_at: "2026-03-30T07:28:17.165Z"
 status: "active"
 ---
 

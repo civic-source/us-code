@@ -3,9 +3,9 @@ title: "Section 684 - Equity capital for small-business concerns"
 usc_title: 15
 usc_section: "684"
 chapter: 14
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 684"
-generated_at: "2026-03-30T07:25:28.437Z"
+generated_at: "2026-03-30T07:28:42.730Z"
 status: "active"
 ---
 

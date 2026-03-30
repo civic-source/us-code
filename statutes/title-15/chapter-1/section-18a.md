@@ -3,9 +3,9 @@ title: "Section 18a - Premerger notification and waiting period"
 usc_title: 15
 usc_section: "18a"
 chapter: 1
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 18a"
-generated_at: "2026-03-30T07:25:28.362Z"
+generated_at: "2026-03-30T07:28:42.647Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T07:25:28.417Z"
+generated_at: "2026-03-30T07:28:42.710Z"
 status: "active"
 ---
 
@@ -89,7 +89,14 @@ status: "active"
   - **(6)** hydroelectric power equipment;
   - **(7)** wind energy conversion equipment; and
   - **(8)** engineering, architectural, consulting, or other professional services which are necessary or appropriate to aid citizens in using any of the measures described in paragraph (1) through (7).
-- **(h)** For purposes of this chapter the term “credit elsewhere” means the availability of credit from non-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
+- **(h)** The term “credit elsewhere” means—
+  - **(1)** for the purposes of this chapter (except as used in section 636(b) of this title ), the availability of credit on reasonable terms and conditions to the individual loan applicant from non-Federal, non-State, or non-local government sources, considering factors associated with conventional lending practices, including—
+    - **(A)** the business industry in which the loan applicant operates;
+    - **(B)** whether the loan applicant is an enterprise that has been in operation for a period of not more than 2 years;
+    - **(C)** the adequacy of the collateral available to secure the requested loan;
+    - **(D)** the loan term necessary to reasonably assure the ability of the loan applicant to repay the debt from the actual or projected cash flow of the business; and
+    - **(E)** any other factor relating to the particular credit application, as documented in detail by the lender, that cannot be overcome except through obtaining a Federal loan guarantee under prudent lending standards; and
+  - **(2)** for the purposes of section 636(b) of this title , the availability of credit on reasonable terms and conditions from non-Federal sources taking into consideration the prevailing rates and terms in the community in or near where the applicant business concern transacts business, or the applicant homeowner resides, for similar purposes and periods of time.
 - **(i)** For purposes of section 636 of this title , the term “homeowners” includes owners and lessees of residential property and also includes personal property.
 - **(j)** For the purposes of this chapter, the term “small agricultural cooperative” means an association (corporate or otherwise) acting pursuant to the provisions of the Agricultural Marketing Act ( 12 U.S.C. 1141j ), whose size does not exceed the size standard established by the Administration for other similar agricultural small business concerns. In determining such size, the Administration shall regard the association as a business concern and shall not include the income or employees of any member shareholder of such cooperative.
 - **(k)**
@@ -221,7 +228,7 @@ status: "active"
     - **(C)** The provisions of subparagraphs (A) and (B) shall not apply to any programs subject to the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.).
 - **(r)** As used in section 650 of this title :
   - **(1)** The term “small business lending company” means a business concern that is authorized by the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
-  - **(2)** The term “non-Federally regulated SBA lender” means a business concern if—
+  - **(2)** The term “non-Federally regulated lender” means a business concern if—
     - **(A)** such concern is authorized by the Administrator to make loans under section 636 of this title ;
     - **(B)** such concern is subject to regulation by a State; and
     - **(C)** the lending activities of such concern are not regulated by any Federal banking authority.

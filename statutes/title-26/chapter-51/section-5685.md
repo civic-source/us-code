@@ -3,9 +3,9 @@ title: "Section 5685 - Penalty and forfeiture relating to possession of devices 
 usc_title: 26
 usc_section: "5685"
 chapter: 51
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "26 U.S.C. § 5685"
-generated_at: "2026-03-30T07:26:08.327Z"
+generated_at: "2026-03-30T07:30:02.189Z"
 status: "active"
 ---
 

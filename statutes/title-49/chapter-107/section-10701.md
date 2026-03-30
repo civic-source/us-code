@@ -3,9 +3,9 @@ title: "Section 10701 - Standards for rates, classifications, through routes, ru
 usc_title: 49
 usc_section: "10701"
 chapter: 107
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "49 U.S.C. § 10701"
-generated_at: "2026-03-30T07:27:13.620Z"
+generated_at: "2026-03-30T07:32:05.202Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1862b - Establishment of Program"
 usc_title: 42
 usc_section: "1862b"
 chapter: 16
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "42 U.S.C. § 1862b"
-generated_at: "2026-03-30T07:26:59.653Z"
+generated_at: "2026-03-30T07:31:50.678Z"
 status: "active"
 ---
 

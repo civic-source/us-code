@@ -3,9 +3,9 @@ title: "Section 4041 - Purposes"
 usc_title: 25
 usc_section: "4041"
 chapter: 42
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "25 U.S.C. § 4041"
-generated_at: "2026-03-30T07:25:44.022Z"
+generated_at: "2026-03-30T07:29:18.548Z"
 status: "active"
 ---
 

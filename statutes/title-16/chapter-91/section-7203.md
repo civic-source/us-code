@@ -3,9 +3,9 @@ title: "Section 7203 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7203"
 chapter: 91
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "16 U.S.C. § 7203"
-generated_at: "2026-03-30T07:25:40.514Z"
+generated_at: "2026-03-30T07:29:14.741Z"
 status: "active"
 ---
 

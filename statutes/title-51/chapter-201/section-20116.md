@@ -3,9 +3,9 @@ title: "Section 20116 - Reports to Congress"
 usc_title: 51
 usc_section: "20116"
 chapter: 201
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "51 U.S.C. § 20116"
-generated_at: "2026-03-30T07:27:15.427Z"
+generated_at: "2026-03-30T07:32:19.057Z"
 status: "active"
 ---
 

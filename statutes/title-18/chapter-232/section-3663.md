@@ -3,9 +3,9 @@ title: "Section 3663 - Order of restitution"
 usc_title: 18
 usc_section: "3663"
 chapter: 232
-current_through: "PL 115-185"
+current_through: "PL 115-193"
 classification: "18 U.S.C. § 3663"
-generated_at: "2026-03-30T07:25:34.753Z"
+generated_at: "2026-03-30T07:29:07.330Z"
 status: "active"
 ---
 
