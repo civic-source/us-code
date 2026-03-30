@@ -3,9 +3,9 @@ title: "Section 4001 - Assumption of contractual obligations related to transfer
 usc_title: 28
 usc_section: "4001"
 chapter: 180
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "28 U.S.C. § 4001"
-generated_at: "2026-03-30T03:23:16.882Z"
+generated_at: "2026-03-30T03:25:45.320Z"
 status: "active"
 ---
 

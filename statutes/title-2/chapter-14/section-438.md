@@ -3,9 +3,9 @@ title: "Section 438 - Administrative provisions"
 usc_title: 2
 usc_section: "438"
 chapter: 14
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 438"
-generated_at: "2026-03-30T03:21:15.011Z"
+generated_at: "2026-03-30T03:24:44.066Z"
 status: "active"
 ---
 

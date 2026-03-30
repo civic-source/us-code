@@ -3,9 +3,9 @@ title: "Section 1702 - Superintendent of Documents; sale of documents"
 usc_title: 44
 usc_section: "1702"
 chapter: 17
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "44 U.S.C. § 1702"
-generated_at: "2026-03-30T03:23:51.532Z"
+generated_at: "2026-03-30T03:26:03.192Z"
 status: "active"
 ---
 

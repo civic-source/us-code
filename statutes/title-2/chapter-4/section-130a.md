@@ -3,9 +3,9 @@ title: "Section 130a - Nonpay status for Congressional employees studying under 
 usc_title: 2
 usc_section: "130a"
 chapter: 4
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 130a"
-generated_at: "2026-03-30T03:21:14.996Z"
+generated_at: "2026-03-30T03:24:44.051Z"
 status: "active"
 ---
 

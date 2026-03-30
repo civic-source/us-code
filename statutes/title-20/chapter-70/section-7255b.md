@@ -3,9 +3,9 @@ title: "Section 7255b - Grant program authorized"
 usc_title: 20
 usc_section: "7255b"
 chapter: 70
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 7255b"
-generated_at: "2026-03-30T03:22:33.875Z"
+generated_at: "2026-03-30T03:25:21.529Z"
 status: "active"
 ---
 

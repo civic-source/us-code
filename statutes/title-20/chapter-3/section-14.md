@@ -3,9 +3,9 @@ title: "Section 14 - Definitions"
 usc_title: 20
 usc_section: "14"
 chapter: 3
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-03-30T03:22:33.686Z"
+generated_at: "2026-03-30T03:25:21.358Z"
 status: "active"
 ---
 

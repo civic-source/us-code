@@ -3,9 +3,9 @@ title: "Section 5408 - Savings provision"
 usc_title: 16
 usc_section: "5408"
 chapter: 74
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 5408"
-generated_at: "2026-03-30T03:22:28.622Z"
+generated_at: "2026-03-30T03:25:28.976Z"
 status: "active"
 ---
 

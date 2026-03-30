@@ -3,9 +3,9 @@ title: "Section 941to943 - Repealed. Pub. L. 108–357, title I, § 101(b)(1) , 
 usc_title: 26
 usc_section: "941to943"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "26 U.S.C. § 941to943"
-generated_at: "2026-03-30T03:23:39.435Z"
+generated_at: "2026-03-30T03:25:51.267Z"
 status: "repealed"
 ---
 

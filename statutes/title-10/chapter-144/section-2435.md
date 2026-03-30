@@ -3,9 +3,9 @@ title: "Section 2435 - Baseline description"
 usc_title: 10
 usc_section: "2435"
 chapter: 144
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 2435"
-generated_at: "2026-03-30T03:21:39.533Z"
+generated_at: "2026-03-30T03:24:54.768Z"
 status: "active"
 ---
 

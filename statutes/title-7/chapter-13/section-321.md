@@ -3,9 +3,9 @@ title: "Section 321 - Secretary of Agriculture to administer annual college-aid 
 usc_title: 7
 usc_section: "321"
 chapter: 13
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 321"
-generated_at: "2026-03-30T03:21:47.427Z"
+generated_at: "2026-03-30T03:24:57.630Z"
 status: "active"
 ---
 

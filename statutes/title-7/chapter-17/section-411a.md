@@ -3,9 +3,9 @@ title: "Section 411a - Repealed. Pub. L. 101–624, title XXV, § 2514(d) , Nov.
 usc_title: 7
 usc_section: "411a"
 chapter: 17
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 411a"
-generated_at: "2026-03-30T03:21:47.430Z"
+generated_at: "2026-03-30T03:24:57.634Z"
 status: "repealed"
 ---
 

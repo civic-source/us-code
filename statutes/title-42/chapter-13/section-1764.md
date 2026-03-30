@@ -3,9 +3,9 @@ title: "Section 1764 - Repealed. Pub. L. 94–105, § 22 , Oct. 7, 1975 , 89 Sta
 usc_title: 42
 usc_section: "1764"
 chapter: 13
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 1764"
-generated_at: "2026-03-30T03:24:18.479Z"
+generated_at: "2026-03-30T03:26:16.448Z"
 status: "repealed"
 ---
 

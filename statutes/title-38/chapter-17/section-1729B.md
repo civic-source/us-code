@@ -3,9 +3,9 @@ title: "Section 1729B - Consolidated patient accounting centers"
 usc_title: 38
 usc_section: "1729B"
 chapter: 17
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "38 U.S.C. § 1729B"
-generated_at: "2026-03-30T03:23:49.197Z"
+generated_at: "2026-03-30T03:26:00.159Z"
 status: "active"
 ---
 

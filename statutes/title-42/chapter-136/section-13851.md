@@ -3,9 +3,9 @@ title: "Section 13851 - Definitions"
 usc_title: 42
 usc_section: "13851"
 chapter: 136
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 13851"
-generated_at: "2026-03-30T03:24:18.892Z"
+generated_at: "2026-03-30T03:26:16.841Z"
 status: "active"
 ---
 

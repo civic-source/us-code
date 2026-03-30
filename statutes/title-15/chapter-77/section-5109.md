@@ -3,9 +3,9 @@ title: "Section 5109 - Relation of existing program"
 usc_title: 15
 usc_section: "5109"
 chapter: 77
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "15 U.S.C. § 5109"
-generated_at: "2026-03-30T03:21:56.052Z"
+generated_at: "2026-03-30T03:25:15.657Z"
 status: "active"
 ---
 

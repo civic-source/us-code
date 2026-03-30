@@ -3,9 +3,9 @@ title: "Section 576 - Acquisition approval authority"
 usc_title: 14
 usc_section: "576"
 chapter: 15
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "14 U.S.C. § 576"
-generated_at: "2026-03-30T03:22:04.471Z"
+generated_at: "2026-03-30T03:25:00.100Z"
 status: "active"
 ---
 

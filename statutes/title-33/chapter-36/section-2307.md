@@ -3,9 +3,9 @@ title: "Section 2307 - Control of ice"
 usc_title: 33
 usc_section: "2307"
 chapter: 36
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "33 U.S.C. § 2307"
-generated_at: "2026-03-30T03:23:42.926Z"
+generated_at: "2026-03-30T03:25:55.557Z"
 status: "active"
 ---
 

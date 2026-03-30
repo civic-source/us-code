@@ -3,9 +3,9 @@ title: "Section 6772 - National education technology plan"
 usc_title: 20
 usc_section: "6772"
 chapter: 70
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 6772"
-generated_at: "2026-03-30T03:22:33.860Z"
+generated_at: "2026-03-30T03:25:21.514Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 71 - Designation of streams for wild and scenic river status in 
 usc_title: 16
 usc_section: "71"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 71"
-generated_at: "2026-03-30T03:22:28.415Z"
+generated_at: "2026-03-30T03:25:28.787Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9515 - Charter air transportation services: minimum annual purch
 usc_title: 10
 usc_section: "9515"
 chapter: 931
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 9515"
-generated_at: "2026-03-30T03:21:39.598Z"
+generated_at: "2026-03-30T03:24:54.829Z"
 status: "active"
 ---
 

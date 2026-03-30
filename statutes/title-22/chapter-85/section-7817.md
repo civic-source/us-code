@@ -3,9 +3,9 @@ title: "Section 7817 - Special Envoy on North Korean human rights issues"
 usc_title: 22
 usc_section: "7817"
 chapter: 85
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "22 U.S.C. § 7817"
-generated_at: "2026-03-30T03:22:42.740Z"
+generated_at: "2026-03-30T03:25:39.721Z"
 status: "active"
 ---
 

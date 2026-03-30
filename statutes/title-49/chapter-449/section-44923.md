@@ -3,9 +3,9 @@ title: "Section 44923 - Airport security improvement projects"
 usc_title: 49
 usc_section: "44923"
 chapter: 449
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "49 U.S.C. § 44923"
-generated_at: "2026-03-30T03:24:26.480Z"
+generated_at: "2026-03-30T03:26:22.703Z"
 status: "active"
 ---
 

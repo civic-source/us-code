@@ -3,9 +3,9 @@ title: "Section 4424 - Disclosure of wagering tax information"
 usc_title: 26
 usc_section: "4424"
 chapter: 35
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "26 U.S.C. § 4424"
-generated_at: "2026-03-30T03:23:39.506Z"
+generated_at: "2026-03-30T03:25:51.336Z"
 status: "active"
 ---
 

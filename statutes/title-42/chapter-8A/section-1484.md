@@ -3,9 +3,9 @@ title: "Section 1484 - Insurance of loans for housing and related facilities for
 usc_title: 42
 usc_section: "1484"
 chapter: 8
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 1484"
-generated_at: "2026-03-30T03:24:18.461Z"
+generated_at: "2026-03-30T03:26:16.430Z"
 status: "active"
 ---
 

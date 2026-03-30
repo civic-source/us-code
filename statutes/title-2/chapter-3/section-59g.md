@@ -3,9 +3,9 @@ title: "Section 59g - Mass mailing of information by Senators under frank; quart
 usc_title: 2
 usc_section: "59g"
 chapter: 3
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 59g"
-generated_at: "2026-03-30T03:21:14.982Z"
+generated_at: "2026-03-30T03:24:44.038Z"
 status: "active"
 ---
 

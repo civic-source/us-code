@@ -3,9 +3,9 @@ title: "Section 3796a - Limitations on benefits"
 usc_title: 42
 usc_section: "3796a"
 chapter: 46
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 3796a"
-generated_at: "2026-03-30T03:24:18.579Z"
+generated_at: "2026-03-30T03:26:16.540Z"
 status: "active"
 ---
 

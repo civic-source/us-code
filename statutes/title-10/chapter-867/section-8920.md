@@ -3,9 +3,9 @@ title: "Section 8920 - More than thirty years: permanent professors and the Dire
 usc_title: 10
 usc_section: "8920"
 chapter: 867
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 8920"
-generated_at: "2026-03-30T03:21:39.594Z"
+generated_at: "2026-03-30T03:24:54.825Z"
 status: "active"
 ---
 

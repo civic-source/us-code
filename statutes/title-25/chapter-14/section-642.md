@@ -3,9 +3,9 @@ title: "Section 642 - Powers of Tribal Council"
 usc_title: 25
 usc_section: "642"
 chapter: 14
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "25 U.S.C. § 642"
-generated_at: "2026-03-30T03:22:57.466Z"
+generated_at: "2026-03-30T03:25:33.920Z"
 status: "active"
 ---
 

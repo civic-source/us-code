@@ -3,9 +3,9 @@ title: "Section 1423h - Authorization of appropriations"
 usc_title: 16
 usc_section: "1423h"
 chapter: 31
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 1423h"
-generated_at: "2026-03-30T03:22:28.541Z"
+generated_at: "2026-03-30T03:25:28.901Z"
 status: "active"
 ---
 

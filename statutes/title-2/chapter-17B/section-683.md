@@ -3,9 +3,9 @@ title: "Section 683 - Rescission of budget authority"
 usc_title: 2
 usc_section: "683"
 chapter: 17
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 683"
-generated_at: "2026-03-30T03:21:15.019Z"
+generated_at: "2026-03-30T03:24:44.077Z"
 status: "active"
 ---
 

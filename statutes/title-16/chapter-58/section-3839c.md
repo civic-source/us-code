@@ -3,9 +3,9 @@ title: "Section 3839c - Payments"
 usc_title: 16
 usc_section: "3839c"
 chapter: 58
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 3839c"
-generated_at: "2026-03-30T03:22:28.603Z"
+generated_at: "2026-03-30T03:25:28.958Z"
 status: "active"
 ---
 

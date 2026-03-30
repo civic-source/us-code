@@ -3,9 +3,9 @@ title: "Section 1202 - Authority of Secretary; studies, research, and investigat
 usc_title: 16
 usc_section: "1202"
 chapter: 25
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 1202"
-generated_at: "2026-03-30T03:22:28.519Z"
+generated_at: "2026-03-30T03:25:28.881Z"
 status: "active"
 ---
 

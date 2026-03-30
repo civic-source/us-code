@@ -3,9 +3,9 @@ title: "Section 7545 - Obsolete material and articles of historical interest: lo
 usc_title: 10
 usc_section: "7545"
 chapter: 647
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 7545"
-generated_at: "2026-03-30T03:21:39.587Z"
+generated_at: "2026-03-30T03:24:54.818Z"
 status: "active"
 ---
 

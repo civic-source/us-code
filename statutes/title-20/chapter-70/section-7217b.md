@@ -3,9 +3,9 @@ title: "Section 7217b - Federal administration"
 usc_title: 20
 usc_section: "7217b"
 chapter: 70
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 7217b"
-generated_at: "2026-03-30T03:22:33.871Z"
+generated_at: "2026-03-30T03:25:21.524Z"
 status: "active"
 ---
 

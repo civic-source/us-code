@@ -3,9 +3,9 @@ title: "Section 427ato427h - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 6
 usc_title: 7
 usc_section: "427ato427h"
 chapter: 17
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 427ato427h"
-generated_at: "2026-03-30T03:21:47.431Z"
+generated_at: "2026-03-30T03:24:57.635Z"
 status: "repealed"
 ---
 

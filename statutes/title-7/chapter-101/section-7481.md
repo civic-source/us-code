@@ -3,9 +3,9 @@ title: "Section 7481 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "7481"
 chapter: 101
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 7481"
-generated_at: "2026-03-30T03:21:47.605Z"
+generated_at: "2026-03-30T03:24:57.804Z"
 status: "active"
 ---
 

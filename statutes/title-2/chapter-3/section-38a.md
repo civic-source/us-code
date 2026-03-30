@@ -3,9 +3,9 @@ title: "Section 38a - Disposition of unpaid salary and other sums on death of Re
 usc_title: 2
 usc_section: "38a"
 chapter: 3
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 38a"
-generated_at: "2026-03-30T03:21:14.979Z"
+generated_at: "2026-03-30T03:24:44.035Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3152 - Limitation on pay"
 usc_title: 5
 usc_section: "3152"
 chapter: 31
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "5 U.S.C. § 3152"
-generated_at: "2026-03-30T03:21:29.170Z"
+generated_at: "2026-03-30T03:24:46.132Z"
 status: "active"
 ---
 

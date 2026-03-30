@@ -3,9 +3,9 @@ title: "Section 923 - Licensing"
 usc_title: 18
 usc_section: "923"
 chapter: 44
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "18 U.S.C. § 923"
-generated_at: "2026-03-30T03:22:29.840Z"
+generated_at: "2026-03-30T03:25:23.372Z"
 status: "active"
 ---
 

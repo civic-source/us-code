@@ -3,9 +3,9 @@ title: "Section 676 - Administration"
 usc_title: 42
 usc_section: "676"
 chapter: 7
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 676"
-generated_at: "2026-03-30T03:24:18.268Z"
+generated_at: "2026-03-30T03:26:16.245Z"
 status: "active"
 ---
 

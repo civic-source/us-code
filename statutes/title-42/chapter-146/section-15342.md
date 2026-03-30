@@ -3,9 +3,9 @@ title: "Section 15342 - Duties"
 usc_title: 42
 usc_section: "15342"
 chapter: 146
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 15342"
-generated_at: "2026-03-30T03:24:18.921Z"
+generated_at: "2026-03-30T03:26:16.869Z"
 status: "active"
 ---
 

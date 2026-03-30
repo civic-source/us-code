@@ -3,9 +3,9 @@ title: "Section 2103b - Watershed forestry assistance program"
 usc_title: 16
 usc_section: "2103b"
 chapter: 41
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 2103b"
-generated_at: "2026-03-30T03:22:28.569Z"
+generated_at: "2026-03-30T03:25:28.927Z"
 status: "active"
 ---
 

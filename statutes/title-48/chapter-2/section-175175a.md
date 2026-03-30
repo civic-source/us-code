@@ -3,9 +3,9 @@ title: "Section 175175a - Omitted"
 usc_title: 48
 usc_section: "175175a"
 chapter: 2
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "48 U.S.C. § 175175a"
-generated_at: "2026-03-30T03:24:27.955Z"
+generated_at: "2026-03-30T03:26:26.857Z"
 status: "omitted"
 ---
 

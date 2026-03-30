@@ -3,9 +3,9 @@ title: "Section 2783 - Contractor liability for injury or loss of property arisi
 usc_title: 50
 usc_section: "2783"
 chapter: 42
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "50 U.S.C. § 2783"
-generated_at: "2026-03-30T03:24:24.087Z"
+generated_at: "2026-03-30T03:26:29.238Z"
 status: "active"
 ---
 

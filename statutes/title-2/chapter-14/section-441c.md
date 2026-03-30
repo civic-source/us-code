@@ -3,9 +3,9 @@ title: "Section 441c - Contributions by government contractors"
 usc_title: 2
 usc_section: "441c"
 chapter: 14
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 441c"
-generated_at: "2026-03-30T03:21:15.012Z"
+generated_at: "2026-03-30T03:24:44.068Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1452b - Repealed. Pub. L. 101–625, title II, § 289(b) , Nov. 
 usc_title: 42
 usc_section: "1452b"
 chapter: 8
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 1452b"
-generated_at: "2026-03-30T03:24:18.458Z"
+generated_at: "2026-03-30T03:26:16.427Z"
 status: "repealed"
 ---
 

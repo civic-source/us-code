@@ -3,9 +3,9 @@ title: "Section 860 - Distribution or manufacturing in or near schools and colle
 usc_title: 21
 usc_section: "860"
 chapter: 13
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "21 U.S.C. § 860"
-generated_at: "2026-03-30T03:22:39.076Z"
+generated_at: "2026-03-30T03:25:40.696Z"
 status: "active"
 ---
 

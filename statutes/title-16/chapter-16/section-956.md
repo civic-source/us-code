@@ -3,9 +3,9 @@ title: "Section 956 - Inspection of returns, records, or other reports"
 usc_title: 16
 usc_section: "956"
 chapter: 16
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 956"
-generated_at: "2026-03-30T03:22:28.511Z"
+generated_at: "2026-03-30T03:25:28.872Z"
 status: "active"
 ---
 

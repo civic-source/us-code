@@ -3,9 +3,9 @@ title: "Section 1120 - Tax exemption; costs"
 usc_title: 25
 usc_section: "1120"
 chapter: 14
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "25 U.S.C. § 1120"
-generated_at: "2026-03-30T03:22:57.486Z"
+generated_at: "2026-03-30T03:25:33.937Z"
 status: "active"
 ---
 

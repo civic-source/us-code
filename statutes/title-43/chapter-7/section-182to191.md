@@ -3,9 +3,9 @@ title: "Section 182to191 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 
 usc_title: 43
 usc_section: "182to191"
 chapter: 7
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "43 U.S.C. § 182to191"
-generated_at: "2026-03-30T03:23:53.340Z"
+generated_at: "2026-03-30T03:26:03.852Z"
 status: "repealed"
 ---
 

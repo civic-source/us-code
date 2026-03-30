@@ -3,9 +3,9 @@ title: "Section 4143 - Grants for building resident capacity and funding predeve
 usc_title: 12
 usc_section: "4143"
 chapter: 42
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 4143"
-generated_at: "2026-03-30T03:22:00.673Z"
+generated_at: "2026-03-30T03:25:13.159Z"
 status: "active"
 ---
 

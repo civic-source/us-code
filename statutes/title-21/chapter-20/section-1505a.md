@@ -3,9 +3,9 @@ title: "Section 1505a - Annual report on development and deployment of narcotics
 usc_title: 21
 usc_section: "1505a"
 chapter: 20
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "21 U.S.C. § 1505a"
-generated_at: "2026-03-30T03:22:39.084Z"
+generated_at: "2026-03-30T03:25:40.705Z"
 status: "active"
 ---
 

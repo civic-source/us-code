@@ -3,9 +3,9 @@ title: "Section 375 - Restriction on direct participation by military personnel"
 usc_title: 10
 usc_section: "375"
 chapter: 18
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 375"
-generated_at: "2026-03-30T03:21:39.438Z"
+generated_at: "2026-03-30T03:24:54.676Z"
 status: "active"
 ---
 

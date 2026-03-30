@@ -3,9 +3,9 @@ title: "Section 3709 - Presale reinstatement"
 usc_title: 12
 usc_section: "3709"
 chapter: 38
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 3709"
-generated_at: "2026-03-30T03:22:00.665Z"
+generated_at: "2026-03-30T03:25:13.152Z"
 status: "active"
 ---
 

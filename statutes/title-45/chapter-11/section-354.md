@@ -3,9 +3,9 @@ title: "Section 354 - Disqualifying conditions"
 usc_title: 45
 usc_section: "354"
 chapter: 11
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "45 U.S.C. § 354"
-generated_at: "2026-03-30T03:23:52.240Z"
+generated_at: "2026-03-30T03:26:02.907Z"
 status: "active"
 ---
 

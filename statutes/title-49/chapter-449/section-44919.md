@@ -3,9 +3,9 @@ title: "Section 44919 - Security screening pilot program"
 usc_title: 49
 usc_section: "44919"
 chapter: 449
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "49 U.S.C. § 44919"
-generated_at: "2026-03-30T03:24:26.479Z"
+generated_at: "2026-03-30T03:26:22.702Z"
 status: "active"
 ---
 

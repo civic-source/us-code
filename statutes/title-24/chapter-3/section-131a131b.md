@@ -3,9 +3,9 @@ title: "Section 131a131b - Omitted"
 usc_title: 24
 usc_section: "131a131b"
 chapter: 3
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "24 U.S.C. § 131a131b"
-generated_at: "2026-03-30T03:22:37.795Z"
+generated_at: "2026-03-30T03:25:31.242Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 130c - Waiver by Secretary of Senate of claims of United States 
 usc_title: 2
 usc_section: "130c"
 chapter: 4
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 130c"
-generated_at: "2026-03-30T03:21:14.996Z"
+generated_at: "2026-03-30T03:24:44.052Z"
 status: "active"
 ---
 

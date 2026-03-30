@@ -3,9 +3,9 @@ title: "Section 1516a - Statistics relating to social, health, and economic cond
 usc_title: 15
 usc_section: "1516a"
 chapter: 40
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "15 U.S.C. § 1516a"
-generated_at: "2026-03-30T03:21:55.968Z"
+generated_at: "2026-03-30T03:25:15.576Z"
 status: "active"
 ---
 

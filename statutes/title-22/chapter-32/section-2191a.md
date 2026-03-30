@@ -3,9 +3,9 @@ title: "Section 2191a - Additional requirements"
 usc_title: 22
 usc_section: "2191a"
 chapter: 32
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "22 U.S.C. § 2191a"
-generated_at: "2026-03-30T03:22:42.606Z"
+generated_at: "2026-03-30T03:25:39.605Z"
 status: "active"
 ---
 

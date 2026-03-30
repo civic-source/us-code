@@ -3,9 +3,9 @@ title: "Section 8303 - Service under licenses issued without examination"
 usc_title: 46
 usc_section: "8303"
 chapter: 83
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "46 U.S.C. § 8303"
-generated_at: "2026-03-30T03:24:22.624Z"
+generated_at: "2026-03-30T03:26:27.818Z"
 status: "active"
 ---
 

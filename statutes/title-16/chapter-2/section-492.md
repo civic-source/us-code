@@ -3,9 +3,9 @@ title: "Section 492 - Earth, stone, and timber for Departments of the Army and N
 usc_title: 16
 usc_section: "492"
 chapter: 2
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 492"
-generated_at: "2026-03-30T03:22:28.432Z"
+generated_at: "2026-03-30T03:25:28.804Z"
 status: "active"
 ---
 

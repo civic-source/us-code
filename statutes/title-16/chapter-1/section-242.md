@@ -3,9 +3,9 @@ title: "Section 242 - Condemnation of land; acceptance of donations"
 usc_title: 16
 usc_section: "242"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 242"
-generated_at: "2026-03-30T03:22:28.319Z"
+generated_at: "2026-03-30T03:25:28.696Z"
 status: "active"
 ---
 

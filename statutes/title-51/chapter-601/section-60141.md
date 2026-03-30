@@ -3,9 +3,9 @@ title: "Section 60141 - Nondiscriminatory data availability"
 usc_title: 51
 usc_section: "60141"
 chapter: 601
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "51 U.S.C. § 60141"
-generated_at: "2026-03-30T03:24:29.908Z"
+generated_at: "2026-03-30T03:26:30.984Z"
 status: "active"
 ---
 

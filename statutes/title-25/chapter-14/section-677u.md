@@ -3,9 +3,9 @@ title: "Section 677u - Protection of minors, persons non compos mentis, and othe
 usc_title: 25
 usc_section: "677u"
 chapter: 14
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "25 U.S.C. § 677u"
-generated_at: "2026-03-30T03:22:57.471Z"
+generated_at: "2026-03-30T03:25:33.924Z"
 status: "active"
 ---
 

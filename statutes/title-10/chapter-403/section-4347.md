@@ -3,9 +3,9 @@ title: "Section 4347 - Cadets; nominees: effect of redistricting of States"
 usc_title: 10
 usc_section: "4347"
 chapter: 403
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 4347"
-generated_at: "2026-03-30T03:21:39.567Z"
+generated_at: "2026-03-30T03:24:54.799Z"
 status: "active"
 ---
 

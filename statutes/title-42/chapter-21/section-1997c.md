@@ -3,9 +3,9 @@ title: "Section 1997c - Intervention in actions"
 usc_title: 42
 usc_section: "1997c"
 chapter: 21
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 1997c"
-generated_at: "2026-03-30T03:24:18.510Z"
+generated_at: "2026-03-30T03:26:16.476Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7257 - Grants"
 usc_title: 20
 usc_section: "7257"
 chapter: 70
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 7257"
-generated_at: "2026-03-30T03:22:33.876Z"
+generated_at: "2026-03-30T03:25:21.530Z"
 status: "active"
 ---
 

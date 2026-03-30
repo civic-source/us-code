@@ -3,9 +3,9 @@ title: "Section 5409 - Designation of America’s National Maritime Museum"
 usc_title: 16
 usc_section: "5409"
 chapter: 74
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 5409"
-generated_at: "2026-03-30T03:22:28.622Z"
+generated_at: "2026-03-30T03:25:28.976Z"
 status: "active"
 ---
 

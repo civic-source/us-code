@@ -3,9 +3,9 @@ title: "Section 8601to8612 - Repealed. Pub. L. 97–35, title XXVI, § 2611 , Au
 usc_title: 42
 usc_section: "8601to8612"
 chapter: 94
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 8601to8612"
-generated_at: "2026-03-30T03:24:18.762Z"
+generated_at: "2026-03-30T03:26:16.718Z"
 status: "repealed"
 ---
 

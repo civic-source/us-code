@@ -3,9 +3,9 @@ title: "Section 2441to2443 - Repealed. Pub. L. 95–384, § 12(c)(4) , Sept. 26,
 usc_title: 22
 usc_section: "2441to2443"
 chapter: 32
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "22 U.S.C. § 2441to2443"
-generated_at: "2026-03-30T03:22:42.633Z"
+generated_at: "2026-03-30T03:25:39.627Z"
 status: "repealed"
 ---
 

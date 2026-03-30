@@ -3,9 +3,9 @@ title: "Section 290aa9290aa10 - Repealed. Pub. L. 102–321, title I, § 120(a) 
 usc_title: 42
 usc_section: "290aa9290aa10"
 chapter: 6
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 290aa9290aa10"
-generated_at: "2026-03-30T03:24:18.131Z"
+generated_at: "2026-03-30T03:26:16.116Z"
 status: "repealed"
 ---
 

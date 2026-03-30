@@ -3,9 +3,9 @@ title: "Section 2007 - Restrictions on use of exemptions"
 usc_title: 29
 usc_section: "2007"
 chapter: 22
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "29 U.S.C. § 2007"
-generated_at: "2026-03-30T03:23:15.811Z"
+generated_at: "2026-03-30T03:25:44.351Z"
 status: "active"
 ---
 

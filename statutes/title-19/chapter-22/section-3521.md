@@ -3,9 +3,9 @@ title: "Section 3521 - Tariff modifications"
 usc_title: 19
 usc_section: "3521"
 chapter: 22
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "19 U.S.C. § 3521"
-generated_at: "2026-03-30T03:22:25.154Z"
+generated_at: "2026-03-30T03:25:24.648Z"
 status: "active"
 ---
 

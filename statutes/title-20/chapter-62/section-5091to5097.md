@@ -3,9 +3,9 @@ title: "Section 5091to5097 - Repealed. Pub. L. 103–382, title III, § 391(i) ,
 usc_title: 20
 usc_section: "5091to5097"
 chapter: 62
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 5091to5097"
-generated_at: "2026-03-30T03:22:33.828Z"
+generated_at: "2026-03-30T03:25:21.483Z"
 status: "repealed"
 ---
 

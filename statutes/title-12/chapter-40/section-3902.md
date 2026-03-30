@@ -3,9 +3,9 @@ title: "Section 3902 - Definitions"
 usc_title: 12
 usc_section: "3902"
 chapter: 40
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 3902"
-generated_at: "2026-03-30T03:22:00.667Z"
+generated_at: "2026-03-30T03:25:13.154Z"
 status: "active"
 ---
 

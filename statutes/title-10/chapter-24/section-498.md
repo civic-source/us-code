@@ -3,9 +3,9 @@ title: "Section 498 - 1 1 So in original. Probably should be followed by a perio
 usc_title: 10
 usc_section: "498"
 chapter: 24
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 498"
-generated_at: "2026-03-30T03:21:39.441Z"
+generated_at: "2026-03-30T03:24:54.680Z"
 status: "active"
 ---
 

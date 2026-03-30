@@ -3,9 +3,9 @@ title: "Section 8 - Prohibition on imports from and exports to Libya"
 usc_title: 22
 usc_section: "8"
 chapter: 32
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "22 U.S.C. § 8"
-generated_at: "2026-03-30T03:22:42.620Z"
+generated_at: "2026-03-30T03:25:39.616Z"
 status: "active"
 ---
 

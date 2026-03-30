@@ -3,9 +3,9 @@ title: "Section 617v - Repealed. Pub. L. 85–900, § 17 , Sept. 2, 1958 , 72 St
 usc_title: 43
 usc_section: "617v"
 chapter: 12
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "43 U.S.C. § 617v"
-generated_at: "2026-03-30T03:23:53.364Z"
+generated_at: "2026-03-30T03:26:03.875Z"
 status: "repealed"
 ---
 

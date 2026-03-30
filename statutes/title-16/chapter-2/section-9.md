@@ -3,9 +3,9 @@ title: "Section 9 - Construction"
 usc_title: 16
 usc_section: "9"
 chapter: 2
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T03:22:28.439Z"
+generated_at: "2026-03-30T03:25:28.809Z"
 status: "active"
 ---
 

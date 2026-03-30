@@ -3,9 +3,9 @@ title: "Section 1001to1006 - Repealed. June 27, 1952, ch. 477 , title IV, § 403
 usc_title: 8
 usc_section: "1001to1006"
 chapter: 11
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "8 U.S.C. § 1001to1006"
-generated_at: "2026-03-30T03:21:34.166Z"
+generated_at: "2026-03-30T03:24:48.603Z"
 status: "repealed"
 ---
 

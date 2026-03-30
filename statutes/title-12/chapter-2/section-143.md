@@ -3,9 +3,9 @@ title: "Section 143 - Banks in Alaska and insular possessions; lawful money rese
 usc_title: 12
 usc_section: "143"
 chapter: 2
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 143"
-generated_at: "2026-03-30T03:22:00.510Z"
+generated_at: "2026-03-30T03:25:12.993Z"
 status: "active"
 ---
 

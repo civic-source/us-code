@@ -3,9 +3,9 @@ title: "Section 462 - Administration by Secretary of the Interior; powers and du
 usc_title: 16
 usc_section: "462"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 462"
-generated_at: "2026-03-30T03:22:28.419Z"
+generated_at: "2026-03-30T03:25:28.792Z"
 status: "active"
 ---
 

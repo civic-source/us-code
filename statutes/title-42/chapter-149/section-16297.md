@@ -3,9 +3,9 @@ title: "Section 16297 - Complex Well Technology Testing Facility"
 usc_title: 42
 usc_section: "16297"
 chapter: 149
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 16297"
-generated_at: "2026-03-30T03:24:18.943Z"
+generated_at: "2026-03-30T03:26:16.890Z"
 status: "active"
 ---
 

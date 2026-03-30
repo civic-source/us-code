@@ -3,9 +3,9 @@ title: "Section 342 - Process for issuing qualified carrier certification"
 usc_title: 47
 usc_section: "342"
 chapter: 5
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "47 U.S.C. § 342"
-generated_at: "2026-03-30T03:24:23.186Z"
+generated_at: "2026-03-30T03:26:28.420Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9347 - Cadets; nominees: effect of redistricting of States"
 usc_title: 10
 usc_section: "9347"
 chapter: 903
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 9347"
-generated_at: "2026-03-30T03:21:39.596Z"
+generated_at: "2026-03-30T03:24:54.827Z"
 status: "active"
 ---
 

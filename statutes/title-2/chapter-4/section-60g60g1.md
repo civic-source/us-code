@@ -3,9 +3,9 @@ title: "Section 60g60g1 - Repealed. Pub. L. 91–510, title IV, § 477(a)(1) , (
 usc_title: 2
 usc_section: "60g60g1"
 chapter: 4
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 60g60g1"
-generated_at: "2026-03-30T03:21:14.984Z"
+generated_at: "2026-03-30T03:24:44.040Z"
 status: "repealed"
 ---
 

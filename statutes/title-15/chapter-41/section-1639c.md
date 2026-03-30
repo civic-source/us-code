@@ -3,9 +3,9 @@ title: "Section 1639c - Minimum standards for residential mortgage loans"
 usc_title: 15
 usc_section: "1639c"
 chapter: 41
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "15 U.S.C. § 1639c"
-generated_at: "2026-03-30T03:21:55.976Z"
+generated_at: "2026-03-30T03:25:15.584Z"
 status: "active"
 ---
 

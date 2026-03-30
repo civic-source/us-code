@@ -3,9 +3,9 @@ title: "Section 44922 - Deputation of State and local law enforcement officers"
 usc_title: 49
 usc_section: "44922"
 chapter: 449
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "49 U.S.C. § 44922"
-generated_at: "2026-03-30T03:24:26.480Z"
+generated_at: "2026-03-30T03:26:22.702Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7106 - Duties of the Council"
 usc_title: 15
 usc_section: "7106"
 chapter: 97
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "15 U.S.C. § 7106"
-generated_at: "2026-03-30T03:21:56.070Z"
+generated_at: "2026-03-30T03:25:15.674Z"
 status: "active"
 ---
 

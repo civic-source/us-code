@@ -3,9 +3,9 @@ title: "Section 2455 - Comptroller General assessment of adequacy of budget requ
 usc_title: 50
 usc_section: "2455"
 chapter: 41
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "50 U.S.C. § 2455"
-generated_at: "2026-03-30T03:24:24.077Z"
+generated_at: "2026-03-30T03:26:29.229Z"
 status: "active"
 ---
 

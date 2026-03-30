@@ -3,9 +3,9 @@ title: "Section 856to8575 - Repealed. Pub. L. 107–372, title II, § 271(3) , (
 usc_title: 33
 usc_section: "856to8575"
 chapter: 17
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "33 U.S.C. § 856to8575"
-generated_at: "2026-03-30T03:23:42.878Z"
+generated_at: "2026-03-30T03:25:55.511Z"
 status: "repealed"
 ---
 

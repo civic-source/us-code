@@ -3,9 +3,9 @@ title: "Section 8211 - Repealed. Pub. L. 96–513, title II, § 202 , Dec. 12, 1
 usc_title: 10
 usc_section: "8211"
 chapter: 831
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 8211"
-generated_at: "2026-03-30T03:21:39.592Z"
+generated_at: "2026-03-30T03:24:54.822Z"
 status: "repealed"
 ---
 

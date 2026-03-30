@@ -3,9 +3,9 @@ title: "Section 2611to2613 - Repealed. Pub. L. 104–208, div. A, title II, § 2
 usc_title: 12
 usc_section: "2611to2613"
 chapter: 27
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 2611to2613"
-generated_at: "2026-03-30T03:22:00.654Z"
+generated_at: "2026-03-30T03:25:13.140Z"
 status: "repealed"
 ---
 

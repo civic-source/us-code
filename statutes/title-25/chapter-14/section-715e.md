@@ -3,9 +3,9 @@ title: "Section 715e - Membership rolls"
 usc_title: 25
 usc_section: "715e"
 chapter: 14
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "25 U.S.C. § 715e"
-generated_at: "2026-03-30T03:22:57.475Z"
+generated_at: "2026-03-30T03:25:33.928Z"
 status: "active"
 ---
 

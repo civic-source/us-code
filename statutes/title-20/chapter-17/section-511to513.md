@@ -3,9 +3,9 @@ title: "Section 511to513 - Repealed. Pub. L. 96–374, title VI, § 601(c)(1) , 
 usc_title: 20
 usc_section: "511to513"
 chapter: 17
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 511to513"
-generated_at: "2026-03-30T03:22:33.691Z"
+generated_at: "2026-03-30T03:25:21.362Z"
 status: "repealed"
 ---
 

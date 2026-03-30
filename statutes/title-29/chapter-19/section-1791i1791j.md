@@ -3,9 +3,9 @@ title: "Section 1791i1791j - Omitted"
 usc_title: 29
 usc_section: "1791i1791j"
 chapter: 19
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "29 U.S.C. § 1791i1791j"
-generated_at: "2026-03-30T03:23:15.807Z"
+generated_at: "2026-03-30T03:25:44.348Z"
 status: "omitted"
 ---
 

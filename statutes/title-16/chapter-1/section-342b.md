@@ -3,9 +3,9 @@ title: "Section 342b - Lafayette National Park name changed to Acadia National P
 usc_title: 16
 usc_section: "342b"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 342b"
-generated_at: "2026-03-30T03:22:28.323Z"
+generated_at: "2026-03-30T03:25:28.700Z"
 status: "active"
 ---
 

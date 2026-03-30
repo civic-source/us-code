@@ -3,9 +3,9 @@ title: "Section 7251 - Inexpensive book distribution program for reading motivat
 usc_title: 20
 usc_section: "7251"
 chapter: 70
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 7251"
-generated_at: "2026-03-30T03:22:33.875Z"
+generated_at: "2026-03-30T03:25:21.528Z"
 status: "active"
 ---
 

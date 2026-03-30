@@ -3,9 +3,9 @@ title: "Section 7412 - Definitions"
 usc_title: 7
 usc_section: "7412"
 chapter: 101
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 7412"
-generated_at: "2026-03-30T03:21:47.600Z"
+generated_at: "2026-03-30T03:24:57.800Z"
 status: "active"
 ---
 

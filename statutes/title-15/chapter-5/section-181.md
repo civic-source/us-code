@@ -3,9 +3,9 @@ title: "Section 181 - Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat
 usc_title: 15
 usc_section: "181"
 chapter: 5
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "15 U.S.C. § 181"
-generated_at: "2026-03-30T03:21:55.892Z"
+generated_at: "2026-03-30T03:25:15.503Z"
 status: "repealed"
 ---
 

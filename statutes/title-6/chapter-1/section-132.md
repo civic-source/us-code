@@ -3,9 +3,9 @@ title: "Section 132 - Designation of critical infrastructure protection program"
 usc_title: 6
 usc_section: "132"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "6 U.S.C. § 132"
-generated_at: "2026-03-30T03:21:31.234Z"
+generated_at: "2026-03-30T03:24:48.964Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4512 - Director"
 usc_title: 12
 usc_section: "4512"
 chapter: 46
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 4512"
-generated_at: "2026-03-30T03:22:00.677Z"
+generated_at: "2026-03-30T03:25:13.165Z"
 status: "active"
 ---
 

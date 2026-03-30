@@ -3,9 +3,9 @@ title: "Section 1920 - Improper removal of child from custody; declination of ju
 usc_title: 25
 usc_section: "1920"
 chapter: 21
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "25 U.S.C. § 1920"
-generated_at: "2026-03-30T03:22:57.530Z"
+generated_at: "2026-03-30T03:25:33.976Z"
 status: "active"
 ---
 

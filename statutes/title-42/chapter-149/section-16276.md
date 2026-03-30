@@ -3,9 +3,9 @@ title: "Section 16276 - Security of nuclear facilities"
 usc_title: 42
 usc_section: "16276"
 chapter: 149
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 16276"
-generated_at: "2026-03-30T03:24:18.942Z"
+generated_at: "2026-03-30T03:26:16.889Z"
 status: "active"
 ---
 

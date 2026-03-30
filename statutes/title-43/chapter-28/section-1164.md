@@ -3,9 +3,9 @@ title: "Section 1164 - Extent of foregoing provisions"
 usc_title: 43
 usc_section: "1164"
 chapter: 28
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "43 U.S.C. § 1164"
-generated_at: "2026-03-30T03:23:53.378Z"
+generated_at: "2026-03-30T03:26:03.889Z"
 status: "active"
 ---
 

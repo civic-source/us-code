@@ -3,9 +3,9 @@ title: "Section 619 - Increase in capacity of existing generating equipment at H
 usc_title: 43
 usc_section: "619"
 chapter: 12
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "43 U.S.C. § 619"
-generated_at: "2026-03-30T03:23:53.364Z"
+generated_at: "2026-03-30T03:26:03.876Z"
 status: "active"
 ---
 

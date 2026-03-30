@@ -3,9 +3,9 @@ title: "Section 460dd - Establishment; boundaries; publication in Federal Regist
 usc_title: 16
 usc_section: "460dd"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 460dd"
-generated_at: "2026-03-30T03:22:28.394Z"
+generated_at: "2026-03-30T03:25:28.767Z"
 status: "active"
 ---
 

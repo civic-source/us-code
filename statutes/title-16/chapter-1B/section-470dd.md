@@ -3,9 +3,9 @@ title: "Section 470dd - Custody of archaeological resources"
 usc_title: 16
 usc_section: "470dd"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 470dd"
-generated_at: "2026-03-30T03:22:28.427Z"
+generated_at: "2026-03-30T03:25:28.798Z"
 status: "active"
 ---
 

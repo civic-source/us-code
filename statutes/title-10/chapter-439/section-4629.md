@@ -3,9 +3,9 @@ title: "Section 4629 - Proceeds: disposition"
 usc_title: 10
 usc_section: "4629"
 chapter: 439
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 4629"
-generated_at: "2026-03-30T03:21:39.570Z"
+generated_at: "2026-03-30T03:24:54.803Z"
 status: "active"
 ---
 

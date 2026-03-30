@@ -3,9 +3,9 @@ title: "Section 902 - Savings provisions"
 usc_title: 21
 usc_section: "902"
 chapter: 13
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "21 U.S.C. § 902"
-generated_at: "2026-03-30T03:22:39.080Z"
+generated_at: "2026-03-30T03:25:40.699Z"
 status: "active"
 ---
 

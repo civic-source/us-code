@@ -3,9 +3,9 @@ title: "Section 6917 - Office of Ombudsman"
 usc_title: 42
 usc_section: "6917"
 chapter: 82
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 6917"
-generated_at: "2026-03-30T03:24:18.678Z"
+generated_at: "2026-03-30T03:26:16.636Z"
 status: "active"
 ---
 

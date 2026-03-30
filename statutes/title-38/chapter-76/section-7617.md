@@ -3,9 +3,9 @@ title: "Section 7617 - Breach of agreement: liability"
 usc_title: 38
 usc_section: "7617"
 chapter: 76
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "38 U.S.C. § 7617"
-generated_at: "2026-03-30T03:23:49.254Z"
+generated_at: "2026-03-30T03:26:00.214Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1967 - Persons insured; amount"
 usc_title: 38
 usc_section: "1967"
 chapter: 19
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "38 U.S.C. § 1967"
-generated_at: "2026-03-30T03:23:49.203Z"
+generated_at: "2026-03-30T03:26:00.163Z"
 status: "active"
 ---
 

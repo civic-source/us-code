@@ -3,9 +3,9 @@ title: "Section 18326 - Development of technologies and in-space capabilities fo
 usc_title: 42
 usc_section: "18326"
 chapter: 159
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 18326"
-generated_at: "2026-03-30T03:24:18.982Z"
+generated_at: "2026-03-30T03:26:16.926Z"
 status: "active"
 ---
 

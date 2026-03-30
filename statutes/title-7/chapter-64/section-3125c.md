@@ -3,9 +3,9 @@ title: "Section 3125c - Repealed. Pub. L. 104–127, title VIII, § 859(a) , Apr
 usc_title: 7
 usc_section: "3125c"
 chapter: 64
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 3125c"
-generated_at: "2026-03-30T03:21:47.547Z"
+generated_at: "2026-03-30T03:24:57.747Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6603 - Application of chapter"
 usc_title: 15
 usc_section: "6603"
 chapter: 92
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "15 U.S.C. § 6603"
-generated_at: "2026-03-30T03:21:56.063Z"
+generated_at: "2026-03-30T03:25:15.667Z"
 status: "active"
 ---
 

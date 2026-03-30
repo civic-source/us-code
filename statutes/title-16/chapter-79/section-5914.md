@@ -3,9 +3,9 @@ title: "Section 5914 - Park budgets and accountability"
 usc_title: 16
 usc_section: "5914"
 chapter: 79
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 5914"
-generated_at: "2026-03-30T03:22:28.625Z"
+generated_at: "2026-03-30T03:25:28.979Z"
 status: "active"
 ---
 

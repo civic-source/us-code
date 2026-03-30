@@ -3,9 +3,9 @@ title: "Section 2861to2865 - Repealed. Pub. L. 95–568, § 8(a)(2) , Nov. 2, 19
 usc_title: 42
 usc_section: "2861to2865"
 chapter: 34
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 2861to2865"
-generated_at: "2026-03-30T03:24:18.545Z"
+generated_at: "2026-03-30T03:26:16.509Z"
 status: "repealed"
 ---
 

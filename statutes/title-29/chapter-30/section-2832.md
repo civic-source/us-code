@@ -3,9 +3,9 @@ title: "Section 2832 - Local workforce investment boards"
 usc_title: 29
 usc_section: "2832"
 chapter: 30
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "29 U.S.C. § 2832"
-generated_at: "2026-03-30T03:23:15.816Z"
+generated_at: "2026-03-30T03:25:44.357Z"
 status: "active"
 ---
 

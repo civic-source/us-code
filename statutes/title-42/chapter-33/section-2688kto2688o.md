@@ -3,9 +3,9 @@ title: "Section 2688kto2688o - Omitted"
 usc_title: 42
 usc_section: "2688kto2688o"
 chapter: 33
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 2688kto2688o"
-generated_at: "2026-03-30T03:24:18.542Z"
+generated_at: "2026-03-30T03:26:16.507Z"
 status: "omitted"
 ---
 

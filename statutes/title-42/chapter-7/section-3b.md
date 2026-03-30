@@ -3,9 +3,9 @@ title: "Section 3b - Competitive acquisition of outpatient drugs and biologicals
 usc_title: 42
 usc_section: "3b"
 chapter: 7
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 3b"
-generated_at: "2026-03-30T03:24:18.331Z"
+generated_at: "2026-03-30T03:26:16.306Z"
 status: "active"
 ---
 

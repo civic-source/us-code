@@ -3,9 +3,9 @@ title: "Section 523 - Rights-of-way through national forests for power and commu
 usc_title: 16
 usc_section: "523"
 chapter: 2
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 523"
-generated_at: "2026-03-30T03:22:28.435Z"
+generated_at: "2026-03-30T03:25:28.806Z"
 status: "active"
 ---
 

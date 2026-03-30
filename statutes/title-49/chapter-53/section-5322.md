@@ -3,9 +3,9 @@ title: "Section 5322 - Human resources and training"
 usc_title: 49
 usc_section: "5322"
 chapter: 53
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "49 U.S.C. § 5322"
-generated_at: "2026-03-30T03:24:26.401Z"
+generated_at: "2026-03-30T03:26:22.636Z"
 status: "active"
 ---
 

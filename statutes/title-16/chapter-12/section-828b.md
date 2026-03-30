@@ -3,9 +3,9 @@ title: "Section 828b - Exemption from formula, books and records, and project co
 usc_title: 16
 usc_section: "828b"
 chapter: 12
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 828b"
-generated_at: "2026-03-30T03:22:28.496Z"
+generated_at: "2026-03-30T03:25:28.859Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 333a - Limits on uses of funds provided under section 333"
 usc_title: 2
 usc_section: "333a"
 chapter: 10
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 333a"
-generated_at: "2026-03-30T03:21:15.005Z"
+generated_at: "2026-03-30T03:24:44.062Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8788 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 43
 usc_section: "8788"
 chapter: 4
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "43 U.S.C. § 8788"
-generated_at: "2026-03-30T03:23:53.339Z"
+generated_at: "2026-03-30T03:26:03.851Z"
 status: "repealed"
 ---
 

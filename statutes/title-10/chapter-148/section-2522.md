@@ -3,9 +3,9 @@ title: "Section 2522 - Armament retooling and manufacturing"
 usc_title: 10
 usc_section: "2522"
 chapter: 148
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 2522"
-generated_at: "2026-03-30T03:21:39.539Z"
+generated_at: "2026-03-30T03:24:54.773Z"
 status: "active"
 ---
 

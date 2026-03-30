@@ -3,9 +3,9 @@ title: "Section 7277a - State uses of funds"
 usc_title: 20
 usc_section: "7277a"
 chapter: 70
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 7277a"
-generated_at: "2026-03-30T03:22:33.879Z"
+generated_at: "2026-03-30T03:25:21.532Z"
 status: "active"
 ---
 

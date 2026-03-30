@@ -3,9 +3,9 @@ title: "Section 142 - Public transportation"
 usc_title: 23
 usc_section: "142"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "23 U.S.C. § 142"
-generated_at: "2026-03-30T03:22:45.754Z"
+generated_at: "2026-03-30T03:25:31.745Z"
 status: "active"
 ---
 

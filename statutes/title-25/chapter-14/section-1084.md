@@ -3,9 +3,9 @@ title: "Section 1084 - Hoh base roll"
 usc_title: 25
 usc_section: "1084"
 chapter: 14
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "25 U.S.C. § 1084"
-generated_at: "2026-03-30T03:22:57.485Z"
+generated_at: "2026-03-30T03:25:33.936Z"
 status: "active"
 ---
 

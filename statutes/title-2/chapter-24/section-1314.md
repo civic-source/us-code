@@ -3,9 +3,9 @@ title: "Section 1314 - Rights and protections under Employee Polygraph Protectio
 usc_title: 2
 usc_section: "1314"
 chapter: 24
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 1314"
-generated_at: "2026-03-30T03:21:15.029Z"
+generated_at: "2026-03-30T03:24:44.087Z"
 status: "active"
 ---
 

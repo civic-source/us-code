@@ -3,9 +3,9 @@ title: "Section 7618 - Repealed. Pub. L. 101–549, title I, § 108(q) , Nov. 15
 usc_title: 42
 usc_section: "7618"
 chapter: 85
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 7618"
-generated_at: "2026-03-30T03:24:18.734Z"
+generated_at: "2026-03-30T03:26:16.690Z"
 status: "repealed"
 ---
 

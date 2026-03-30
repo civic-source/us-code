@@ -3,9 +3,9 @@ title: "Section 6991l - Tanks on tribal lands"
 usc_title: 42
 usc_section: "6991l"
 chapter: 82
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 6991l"
-generated_at: "2026-03-30T03:24:18.692Z"
+generated_at: "2026-03-30T03:26:16.649Z"
 status: "active"
 ---
 

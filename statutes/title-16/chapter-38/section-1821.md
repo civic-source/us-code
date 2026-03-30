@@ -3,9 +3,9 @@ title: "Section 1821 - Foreign fishing"
 usc_title: 16
 usc_section: "1821"
 chapter: 38
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 1821"
-generated_at: "2026-03-30T03:22:28.556Z"
+generated_at: "2026-03-30T03:25:28.915Z"
 status: "active"
 ---
 

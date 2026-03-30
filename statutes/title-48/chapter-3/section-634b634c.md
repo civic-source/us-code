@@ -3,9 +3,9 @@ title: "Section 634b634c - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 99
 usc_title: 48
 usc_section: "634b634c"
 chapter: 3
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "48 U.S.C. § 634b634c"
-generated_at: "2026-03-30T03:24:27.955Z"
+generated_at: "2026-03-30T03:26:26.857Z"
 status: "repealed"
 ---
 

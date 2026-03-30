@@ -3,9 +3,9 @@ title: "Section 1 - Transportation of official records and papers to a Senatorâ€
 usc_title: 2
 usc_section: "1"
 chapter: 3
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. Â§ 1"
-generated_at: "2026-03-30T03:21:14.982Z"
+generated_at: "2026-03-30T03:24:44.038Z"
 status: "active"
 ---
 

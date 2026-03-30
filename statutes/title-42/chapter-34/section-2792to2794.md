@@ -3,9 +3,9 @@ title: "Section 2792to2794 - Omitted"
 usc_title: 42
 usc_section: "2792to2794"
 chapter: 34
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 2792to2794"
-generated_at: "2026-03-30T03:24:18.545Z"
+generated_at: "2026-03-30T03:26:16.508Z"
 status: "omitted"
 ---
 

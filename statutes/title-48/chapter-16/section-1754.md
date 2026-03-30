@@ -3,9 +3,9 @@ title: "Section 1754 - Determination of election procedure"
 usc_title: 48
 usc_section: "1754"
 chapter: 16
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "48 U.S.C. § 1754"
-generated_at: "2026-03-30T03:24:27.968Z"
+generated_at: "2026-03-30T03:26:26.870Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15531 - Transfer of functions of Office of Election Administrati
 usc_title: 42
 usc_section: "15531"
 chapter: 146
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 15531"
-generated_at: "2026-03-30T03:24:18.924Z"
+generated_at: "2026-03-30T03:26:16.872Z"
 status: "active"
 ---
 

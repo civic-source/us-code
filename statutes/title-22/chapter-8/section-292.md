@@ -3,9 +3,9 @@ title: "Section 292 - Acquisition of sites and buildings for diplomatic and cons
 usc_title: 22
 usc_section: "292"
 chapter: 8
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "22 U.S.C. § 292"
-generated_at: "2026-03-30T03:22:42.573Z"
+generated_at: "2026-03-30T03:25:39.575Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 92d - “Member of the House” defined"
 usc_title: 2
 usc_section: "92d"
 chapter: 4
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 92d"
-generated_at: "2026-03-30T03:21:14.992Z"
+generated_at: "2026-03-30T03:24:44.048Z"
 status: "active"
 ---
 

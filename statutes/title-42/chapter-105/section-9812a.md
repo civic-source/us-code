@@ -3,9 +3,9 @@ title: "Section 9812a - Interest rates payable on certain rural development loan
 usc_title: 42
 usc_section: "9812a"
 chapter: 105
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 9812a"
-generated_at: "2026-03-30T03:24:18.787Z"
+generated_at: "2026-03-30T03:26:16.742Z"
 status: "active"
 ---
 

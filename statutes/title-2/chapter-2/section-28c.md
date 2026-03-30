@@ -3,9 +3,9 @@ title: "Section 28c - Distribution of Precedents by Public Printer"
 usc_title: 2
 usc_section: "28c"
 chapter: 2
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 28c"
-generated_at: "2026-03-30T03:21:14.977Z"
+generated_at: "2026-03-30T03:24:44.034Z"
 status: "active"
 ---
 

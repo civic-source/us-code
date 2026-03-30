@@ -3,9 +3,9 @@ title: "Section 288k - Extension of certain privileges, exemptions, and immuniti
 usc_title: 22
 usc_section: "288k"
 chapter: 7
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "22 U.S.C. § 288k"
-generated_at: "2026-03-30T03:22:42.568Z"
+generated_at: "2026-03-30T03:25:39.571Z"
 status: "active"
 ---
 

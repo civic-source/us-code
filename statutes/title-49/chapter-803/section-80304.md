@@ -3,9 +3,9 @@ title: "Section 80304 - Administrative"
 usc_title: 49
 usc_section: "80304"
 chapter: 803
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "49 U.S.C. § 80304"
-generated_at: "2026-03-30T03:24:26.503Z"
+generated_at: "2026-03-30T03:26:22.724Z"
 status: "active"
 ---
 

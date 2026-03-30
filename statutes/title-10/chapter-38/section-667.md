@@ -3,9 +3,9 @@ title: "Section 667 - Annual report to Congress"
 usc_title: 10
 usc_section: "667"
 chapter: 38
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 667"
-generated_at: "2026-03-30T03:21:39.450Z"
+generated_at: "2026-03-30T03:24:54.688Z"
 status: "active"
 ---
 

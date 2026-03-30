@@ -3,9 +3,9 @@ title: "Section 2348 - Priority sale of apartment houses"
 usc_title: 42
 usc_section: "2348"
 chapter: 24
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 2348"
-generated_at: "2026-03-30T03:24:18.540Z"
+generated_at: "2026-03-30T03:26:16.505Z"
 status: "active"
 ---
 

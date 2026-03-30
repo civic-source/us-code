@@ -3,9 +3,9 @@ title: "Section 410hhh - Findings"
 usc_title: 16
 usc_section: "410hhh"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 410hhh"
-generated_at: "2026-03-30T03:22:28.354Z"
+generated_at: "2026-03-30T03:25:28.728Z"
 status: "active"
 ---
 

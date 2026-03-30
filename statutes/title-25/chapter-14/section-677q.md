@@ -3,9 +3,9 @@ title: "Section 677q - Applicability of decedents’ estates laws to individual 
 usc_title: 25
 usc_section: "677q"
 chapter: 14
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "25 U.S.C. § 677q"
-generated_at: "2026-03-30T03:22:57.471Z"
+generated_at: "2026-03-30T03:25:33.924Z"
 status: "active"
 ---
 

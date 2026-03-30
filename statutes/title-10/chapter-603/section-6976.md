@@ -3,9 +3,9 @@ title: "Section 6976 - Operation of Naval Academy dairy farm"
 usc_title: 10
 usc_section: "6976"
 chapter: 603
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 6976"
-generated_at: "2026-03-30T03:21:39.582Z"
+generated_at: "2026-03-30T03:24:54.814Z"
 status: "active"
 ---
 

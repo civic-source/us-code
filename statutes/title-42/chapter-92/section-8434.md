@@ -3,9 +3,9 @@ title: "Section 8434 - Injunctions and other equitable relief"
 usc_title: 42
 usc_section: "8434"
 chapter: 92
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 8434"
-generated_at: "2026-03-30T03:24:18.759Z"
+generated_at: "2026-03-30T03:26:16.716Z"
 status: "active"
 ---
 

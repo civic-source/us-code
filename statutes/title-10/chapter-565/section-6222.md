@@ -3,9 +3,9 @@ title: "Section 6222 - United States Marine Band; United States Marine Drum and 
 usc_title: 10
 usc_section: "6222"
 chapter: 565
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 6222"
-generated_at: "2026-03-30T03:21:39.577Z"
+generated_at: "2026-03-30T03:24:54.809Z"
 status: "active"
 ---
 

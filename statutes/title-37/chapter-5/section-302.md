@@ -3,9 +3,9 @@ title: "Section 302 - Special pay: medical officers of the armed forces"
 usc_title: 37
 usc_section: "302"
 chapter: 5
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "37 U.S.C. § 302"
-generated_at: "2026-03-30T03:23:46.166Z"
+generated_at: "2026-03-30T03:25:57.634Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1834b - Community development organizations"
 usc_title: 12
 usc_section: "1834b"
 chapter: 16
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 1834b"
-generated_at: "2026-03-30T03:22:00.625Z"
+generated_at: "2026-03-30T03:25:13.110Z"
 status: "active"
 ---
 

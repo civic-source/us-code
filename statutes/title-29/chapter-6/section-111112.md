@@ -3,9 +3,9 @@ title: "Section 111112 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 
 usc_title: 29
 usc_section: "111112"
 chapter: 6
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "29 U.S.C. § 111112"
-generated_at: "2026-03-30T03:23:15.737Z"
+generated_at: "2026-03-30T03:25:44.279Z"
 status: "repealed"
 ---
 

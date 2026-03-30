@@ -3,9 +3,9 @@ title: "Section 72a272a3 - Omitted"
 usc_title: 2
 usc_section: "72a272a3"
 chapter: 4
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "2 U.S.C. § 72a272a3"
-generated_at: "2026-03-30T03:21:14.990Z"
+generated_at: "2026-03-30T03:24:44.046Z"
 status: "omitted"
 ---
 

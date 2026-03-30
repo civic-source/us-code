@@ -3,9 +3,9 @@ title: "Section 7513 - Purposes"
 usc_title: 20
 usc_section: "7513"
 chapter: 70
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 7513"
-generated_at: "2026-03-30T03:22:33.886Z"
+generated_at: "2026-03-30T03:25:21.538Z"
 status: "active"
 ---
 

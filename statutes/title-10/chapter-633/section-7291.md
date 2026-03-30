@@ -3,9 +3,9 @@ title: "Section 7291 - Classification"
 usc_title: 10
 usc_section: "7291"
 chapter: 633
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 7291"
-generated_at: "2026-03-30T03:21:39.584Z"
+generated_at: "2026-03-30T03:24:54.816Z"
 status: "active"
 ---
 

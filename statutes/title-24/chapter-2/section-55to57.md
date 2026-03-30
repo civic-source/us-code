@@ -3,9 +3,9 @@ title: "Section 55to57 - Repealed. Pub. L. 101–189, div. A, title III, § 347(
 usc_title: 24
 usc_section: "55to57"
 chapter: 2
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "24 U.S.C. § 55to57"
-generated_at: "2026-03-30T03:22:37.795Z"
+generated_at: "2026-03-30T03:25:31.242Z"
 status: "repealed"
 ---
 

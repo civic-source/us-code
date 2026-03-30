@@ -3,9 +3,9 @@ title: "Section 7423 - Effect on other laws"
 usc_title: 7
 usc_section: "7423"
 chapter: 101
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 7423"
-generated_at: "2026-03-30T03:21:47.602Z"
+generated_at: "2026-03-30T03:24:57.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5702 - Christopher Columbus Fellowship Foundation"
 usc_title: 20
 usc_section: "5702"
 chapter: 67
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 5702"
-generated_at: "2026-03-30T03:22:33.830Z"
+generated_at: "2026-03-30T03:25:21.485Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70904 - Governing body"
 usc_title: 36
 usc_section: "70904"
 chapter: 709
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "36 U.S.C. § 70904"
-generated_at: "2026-03-30T03:23:46.952Z"
+generated_at: "2026-03-30T03:25:58.395Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 568 - Limitation on power of committee of Congress to consider p
 usc_title: 33
 usc_section: "568"
 chapter: 12
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "33 U.S.C. § 568"
-generated_at: "2026-03-30T03:23:42.867Z"
+generated_at: "2026-03-30T03:25:55.499Z"
 status: "active"
 ---
 

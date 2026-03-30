@@ -3,9 +3,9 @@ title: "Section 10 - Government Accountability Office study"
 usc_title: 16
 usc_section: "10"
 chapter: 6
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-30T03:22:28.474Z"
+generated_at: "2026-03-30T03:25:28.840Z"
 status: "active"
 ---
 

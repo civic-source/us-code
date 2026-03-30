@@ -3,9 +3,9 @@ title: "Section 2259 - Mandatory restitution"
 usc_title: 18
 usc_section: "2259"
 chapter: 110
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "18 U.S.C. § 2259"
-generated_at: "2026-03-30T03:22:29.870Z"
+generated_at: "2026-03-30T03:25:23.398Z"
 status: "active"
 ---
 

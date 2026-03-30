@@ -3,9 +3,9 @@ title: "Section 2051to2053 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(7),
 usc_title: 22
 usc_section: "2051to2053"
 chapter: 29
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "22 U.S.C. § 2051to2053"
-generated_at: "2026-03-30T03:22:42.595Z"
+generated_at: "2026-03-30T03:25:39.594Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15502 - Process for adoption"
 usc_title: 42
 usc_section: "15502"
 chapter: 146
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 15502"
-generated_at: "2026-03-30T03:24:18.924Z"
+generated_at: "2026-03-30T03:26:16.872Z"
 status: "active"
 ---
 

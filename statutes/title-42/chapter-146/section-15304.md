@@ -3,9 +3,9 @@ title: "Section 15304 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15304"
 chapter: 146
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 15304"
-generated_at: "2026-03-30T03:24:18.920Z"
+generated_at: "2026-03-30T03:26:16.868Z"
 status: "active"
 ---
 

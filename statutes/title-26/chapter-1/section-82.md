@@ -3,9 +3,9 @@ title: "Section 82 - Reimbursement for expenses of moving"
 usc_title: 26
 usc_section: "82"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "26 U.S.C. § 82"
-generated_at: "2026-03-30T03:23:39.286Z"
+generated_at: "2026-03-30T03:25:51.127Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 431to437 - Repealed. Pub. L. 91–224, title I, § 108 , Apr. 3,
 usc_title: 33
 usc_section: "431to437"
 chapter: 9
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "33 U.S.C. § 431to437"
-generated_at: "2026-03-30T03:23:42.860Z"
+generated_at: "2026-03-30T03:25:55.494Z"
 status: "repealed"
 ---
 

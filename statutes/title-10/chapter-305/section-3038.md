@@ -3,9 +3,9 @@ title: "Section 3038 - Office of Army Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "3038"
 chapter: 305
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 3038"
-generated_at: "2026-03-30T03:21:39.562Z"
+generated_at: "2026-03-30T03:24:54.794Z"
 status: "active"
 ---
 

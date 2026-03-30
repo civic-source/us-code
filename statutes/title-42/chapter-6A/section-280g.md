@@ -3,9 +3,9 @@ title: "Section 280g - Children’s asthma treatment grants program"
 usc_title: 42
 usc_section: "280g"
 chapter: 6
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 280g"
-generated_at: "2026-03-30T03:24:18.096Z"
+generated_at: "2026-03-30T03:26:16.086Z"
 status: "active"
 ---
 
@@ -56,10 +56,19 @@ status: "active"
       - **(ii)** must be renewed by the parent or guardian each subsequent school year in accordance with this subsection.
     - **(D)** The State must require that backup medication, if provided by a student’s parent or guardian, be kept at a student’s school in a location to which the student has immediate access in the event of an asthma or anaphylaxis emergency.
     - **(E)** The State must require that information described in subparagraphs (A)(iii) and (A)(iv) be kept on file at the student’s school in a location easily accessible in the event of an asthma or anaphylaxis emergency.
+    - **(F)** In determining the preference (if any) to be given to a State under this subsection, the Secretary shall give additional preference to a State that provides to the Secretary the certification described in subparagraph (G) and that requires that each public elementary school and secondary school in the State—
+      - **(i)** permits trained personnel of the school to administer epinephrine to any student of the school reasonably believed to be having an anaphylactic reaction;
+      - **(ii)** maintains a supply of epinephrine in a secure location that is easily accessible to trained personnel of the school for the purpose of administration to any student of the school reasonably believed to be having an anaphylactic reaction; and
+      - **(iii)** has in place a plan for having on the premises of the school during all operating hours of the school one or more individuals who are trained personnel of the school.
+    - **(G)** The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term “civil liability protection law” means a State law offering legal protection to individuals who give aid on a voluntary basis in an emergency to an individual who is ill, in peril, or otherwise incapacitated.
   - **(2)** Nothing in this subsection creates a cause of action or in any other way increases or diminishes the liability of any person under any other law.
   - **(3)** For purposes of this subsection:
     - **(A)** The terms “elementary school” and “secondary school” have the meaning given to those terms in section 7801 of title 20 .
     - **(B)** The term “health care practitioner” means a person authorized under law to prescribe drugs subject to section 353(b) of title 21 .
     - **(C)** The term “medication” means a drug as that term is defined in section 321 of title 21 and includes inhaled bronchodilators and auto-injectable epinephrine.
     - **(D)** The term “self-administration” means a student’s discretionary use of his or her prescribed asthma or anaphylaxis medication, pursuant to a prescription or written direction from a health care practitioner.
+    - **(E)** The term “trained personnel” means, with respect to an elementary or secondary school, an individual—
+      - **(i)** who has been designated by the principal (or other appropriate administrative staff) of the school to administer epinephrine on a voluntary basis outside their scope of employment;
+      - **(ii)** who has received training in the administration of epinephrine; and
+      - **(iii)** whose training in the administration of epinephrine meets appropriate medical standards and has been documented by appropriate administrative staff of the school.
 - **(e)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.

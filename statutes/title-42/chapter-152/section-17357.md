@@ -3,9 +3,9 @@ title: "Section 17357 - Authorization of appropriations"
 usc_title: 42
 usc_section: "17357"
 chapter: 152
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 17357"
-generated_at: "2026-03-30T03:24:18.967Z"
+generated_at: "2026-03-30T03:26:16.912Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7804 - Required terms in orders"
 usc_title: 7
 usc_section: "7804"
 chapter: 105
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 7804"
-generated_at: "2026-03-30T03:21:47.613Z"
+generated_at: "2026-03-30T03:24:57.812Z"
 status: "active"
 ---
 

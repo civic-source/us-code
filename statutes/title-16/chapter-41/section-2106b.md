@@ -3,9 +3,9 @@ title: "Section 2106b - Use of money collected from States for fire suppression 
 usc_title: 16
 usc_section: "2106b"
 chapter: 41
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 2106b"
-generated_at: "2026-03-30T03:22:28.571Z"
+generated_at: "2026-03-30T03:25:28.930Z"
 status: "active"
 ---
 

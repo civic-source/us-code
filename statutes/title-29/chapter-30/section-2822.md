@@ -3,9 +3,9 @@ title: "Section 2822 - State plan"
 usc_title: 29
 usc_section: "2822"
 chapter: 30
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "29 U.S.C. § 2822"
-generated_at: "2026-03-30T03:23:15.815Z"
+generated_at: "2026-03-30T03:25:44.357Z"
 status: "active"
 ---
 

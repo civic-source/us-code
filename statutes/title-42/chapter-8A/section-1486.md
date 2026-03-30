@@ -3,9 +3,9 @@ title: "Section 1486 - Financial assistance to provide low-rent housing for dome
 usc_title: 42
 usc_section: "1486"
 chapter: 8
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 1486"
-generated_at: "2026-03-30T03:24:18.462Z"
+generated_at: "2026-03-30T03:26:16.431Z"
 status: "active"
 ---
 

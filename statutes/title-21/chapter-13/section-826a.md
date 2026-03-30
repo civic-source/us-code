@@ -3,9 +3,9 @@ title: "Section 826a - Attorney General report on drug shortages"
 usc_title: 21
 usc_section: "826a"
 chapter: 13
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "21 U.S.C. § 826a"
-generated_at: "2026-03-30T03:22:39.073Z"
+generated_at: "2026-03-30T03:25:40.693Z"
 status: "active"
 ---
 

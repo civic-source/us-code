@@ -3,9 +3,9 @@ title: "Section 220506 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "220506"
 chapter: 2205
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "36 U.S.C. § 220506"
-generated_at: "2026-03-30T03:23:46.967Z"
+generated_at: "2026-03-30T03:25:58.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 118 - Contributions to the capital of a corporation"
 usc_title: 26
 usc_section: "118"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "26 U.S.C. § 118"
-generated_at: "2026-03-30T03:23:39.290Z"
+generated_at: "2026-03-30T03:25:51.131Z"
 status: "active"
 ---
 

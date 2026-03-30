@@ -3,9 +3,9 @@ title: "Section 6681to6685 - Omitted"
 usc_title: 42
 usc_section: "6681to6685"
 chapter: 79
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 6681to6685"
-generated_at: "2026-03-30T03:24:18.673Z"
+generated_at: "2026-03-30T03:26:16.631Z"
 status: "omitted"
 ---
 

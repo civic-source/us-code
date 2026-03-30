@@ -3,9 +3,9 @@ title: "Section 14141 - Cause of action"
 usc_title: 42
 usc_section: "14141"
 chapter: 136
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 14141"
-generated_at: "2026-03-30T03:24:18.904Z"
+generated_at: "2026-03-30T03:26:16.853Z"
 status: "active"
 ---
 

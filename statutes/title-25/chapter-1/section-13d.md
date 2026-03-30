@@ -3,9 +3,9 @@ title: "Section 13d - Limits on use of appropriated funds by Bureau for general 
 usc_title: 25
 usc_section: "13d"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "25 U.S.C. § 13d"
-generated_at: "2026-03-30T03:22:57.429Z"
+generated_at: "2026-03-30T03:25:33.887Z"
 status: "active"
 ---
 

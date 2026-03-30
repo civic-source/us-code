@@ -3,9 +3,9 @@ title: "Section 3075 - Regular Army: composition"
 usc_title: 10
 usc_section: "3075"
 chapter: 307
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 3075"
-generated_at: "2026-03-30T03:21:39.562Z"
+generated_at: "2026-03-30T03:24:54.795Z"
 status: "active"
 ---
 

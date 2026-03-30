@@ -3,9 +3,9 @@ title: "Section 552 - Definitions"
 usc_title: 30
 usc_section: "552"
 chapter: 13
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "30 U.S.C. § 552"
-generated_at: "2026-03-30T03:23:00.215Z"
+generated_at: "2026-03-30T03:25:43.326Z"
 status: "active"
 ---
 

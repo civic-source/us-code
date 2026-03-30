@@ -3,9 +3,9 @@ title: "Section 2365 - Sense of Congress concerning purchase, packaging, and tra
 usc_title: 50
 usc_section: "2365"
 chapter: 40
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "50 U.S.C. § 2365"
-generated_at: "2026-03-30T03:24:24.073Z"
+generated_at: "2026-03-30T03:26:29.227Z"
 status: "active"
 ---
 

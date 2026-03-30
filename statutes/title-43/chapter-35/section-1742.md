@@ -3,9 +3,9 @@ title: "Section 1742 - Search, rescue, and protection forces; emergency situatio
 usc_title: 43
 usc_section: "1742"
 chapter: 35
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "43 U.S.C. § 1742"
-generated_at: "2026-03-30T03:23:53.406Z"
+generated_at: "2026-03-30T03:26:03.916Z"
 status: "active"
 ---
 

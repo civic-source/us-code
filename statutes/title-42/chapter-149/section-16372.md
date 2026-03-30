@@ -3,9 +3,9 @@ title: "Section 16372 - Ultra-deepwater and unconventional onshore natural gas a
 usc_title: 42
 usc_section: "16372"
 chapter: 149
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 16372"
-generated_at: "2026-03-30T03:24:18.945Z"
+generated_at: "2026-03-30T03:26:16.892Z"
 status: "active"
 ---
 

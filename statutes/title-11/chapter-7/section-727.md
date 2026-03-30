@@ -3,9 +3,9 @@ title: "Section 727 - Discharge"
 usc_title: 11
 usc_section: "727"
 chapter: 7
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "11 U.S.C. § 727"
-generated_at: "2026-03-30T03:21:50.756Z"
+generated_at: "2026-03-30T03:25:09.281Z"
 status: "active"
 ---
 

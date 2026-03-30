@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions"
 usc_title: 20
 usc_section: "2002"
 chapter: 42
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 2002"
-generated_at: "2026-03-30T03:22:33.805Z"
+generated_at: "2026-03-30T03:25:21.463Z"
 status: "active"
 ---
 

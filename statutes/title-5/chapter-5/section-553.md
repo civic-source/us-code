@@ -3,9 +3,9 @@ title: "Section 553 - Rule making"
 usc_title: 5
 usc_section: "553"
 chapter: 5
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "5 U.S.C. § 553"
-generated_at: "2026-03-30T03:21:29.158Z"
+generated_at: "2026-03-30T03:24:46.122Z"
 status: "active"
 ---
 

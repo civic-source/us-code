@@ -3,9 +3,9 @@ title: "Section 3311 - State administration of criminal and health and safety la
 usc_title: 40
 usc_section: "3311"
 chapter: 33
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "40 U.S.C. § 3311"
-generated_at: "2026-03-30T03:23:47.468Z"
+generated_at: "2026-03-30T03:26:00.733Z"
 status: "active"
 ---
 

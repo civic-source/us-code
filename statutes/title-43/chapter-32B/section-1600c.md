@@ -3,9 +3,9 @@ title: "Section 1600c - Colorado River Floodway"
 usc_title: 43
 usc_section: "1600c"
 chapter: 32
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "43 U.S.C. § 1600c"
-generated_at: "2026-03-30T03:23:53.392Z"
+generated_at: "2026-03-30T03:26:03.903Z"
 status: "active"
 ---
 

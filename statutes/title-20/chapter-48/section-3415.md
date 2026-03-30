@@ -3,9 +3,9 @@ title: "Section 3415 - Office of Postsecondary Education"
 usc_title: 20
 usc_section: "3415"
 chapter: 48
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 3415"
-generated_at: "2026-03-30T03:22:33.815Z"
+generated_at: "2026-03-30T03:25:21.472Z"
 status: "active"
 ---
 

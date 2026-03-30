@@ -3,9 +3,9 @@ title: "Section 17155 - Requirements for eligible entities"
 usc_title: 42
 usc_section: "17155"
 chapter: 152
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 17155"
-generated_at: "2026-03-30T03:24:18.960Z"
+generated_at: "2026-03-30T03:26:16.906Z"
 status: "active"
 ---
 

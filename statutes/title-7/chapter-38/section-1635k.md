@@ -3,9 +3,9 @@ title: "Section 1635k - Mandatory reporting of wholesale pork cuts"
 usc_title: 7
 usc_section: "1635k"
 chapter: 38
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 1635k"
-generated_at: "2026-03-30T03:21:47.485Z"
+generated_at: "2026-03-30T03:24:57.687Z"
 status: "active"
 ---
 

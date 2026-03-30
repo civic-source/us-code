@@ -3,9 +3,9 @@ title: "Section 1804 - Applications for court orders"
 usc_title: 50
 usc_section: "1804"
 chapter: 36
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "50 U.S.C. § 1804"
-generated_at: "2026-03-30T03:24:24.058Z"
+generated_at: "2026-03-30T03:26:29.213Z"
 status: "active"
 ---
 

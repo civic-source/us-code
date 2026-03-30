@@ -3,9 +3,9 @@ title: "Section 2712 - Repealed. Pub. L. 111–203, title XIV, § 1496(b)(7) , J
 usc_title: 12
 usc_section: "2712"
 chapter: 28
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 2712"
-generated_at: "2026-03-30T03:22:00.654Z"
+generated_at: "2026-03-30T03:25:13.141Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1134 - Medal of honor: award to individual interred in Tomb of t
 usc_title: 10
 usc_section: "1134"
 chapter: 57
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 1134"
-generated_at: "2026-03-30T03:21:39.477Z"
+generated_at: "2026-03-30T03:24:54.714Z"
 status: "active"
 ---
 

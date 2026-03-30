@@ -3,9 +3,9 @@ title: "Section 722 - Termination of Federal trust; publication; termination of 
 usc_title: 25
 usc_section: "722"
 chapter: 14
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "25 U.S.C. § 722"
-generated_at: "2026-03-30T03:22:57.475Z"
+generated_at: "2026-03-30T03:25:33.928Z"
 status: "active"
 ---
 

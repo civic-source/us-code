@@ -3,9 +3,9 @@ title: "Section 7223h - Recovery of funds"
 usc_title: 20
 usc_section: "7223h"
 chapter: 70
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 7223h"
-generated_at: "2026-03-30T03:22:33.873Z"
+generated_at: "2026-03-30T03:25:21.526Z"
 status: "active"
 ---
 

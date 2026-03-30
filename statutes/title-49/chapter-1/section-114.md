@@ -3,9 +3,9 @@ title: "Section 114 - Transportation Security Administration"
 usc_title: 49
 usc_section: "114"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "49 U.S.C. § 114"
-generated_at: "2026-03-30T03:24:26.385Z"
+generated_at: "2026-03-30T03:26:22.619Z"
 status: "active"
 ---
 

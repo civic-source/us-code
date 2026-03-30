@@ -3,9 +3,9 @@ title: "Section 1831 - Economic espionage"
 usc_title: 18
 usc_section: "1831"
 chapter: 90
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "18 U.S.C. § 1831"
-generated_at: "2026-03-30T03:22:29.861Z"
+generated_at: "2026-03-30T03:25:23.390Z"
 status: "active"
 ---
 

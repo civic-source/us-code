@@ -3,9 +3,9 @@ title: "Section 6622 - Local applications and needs assessment"
 usc_title: 20
 usc_section: "6622"
 chapter: 70
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 6622"
-generated_at: "2026-03-30T03:22:33.854Z"
+generated_at: "2026-03-30T03:25:21.510Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1749bbb7to1749bbb10 - Omitted"
 usc_title: 12
 usc_section: "1749bbb7to1749bbb10"
 chapter: 13
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 1749bbb7to1749bbb10"
-generated_at: "2026-03-30T03:22:00.586Z"
+generated_at: "2026-03-30T03:25:13.070Z"
 status: "omitted"
 ---
 

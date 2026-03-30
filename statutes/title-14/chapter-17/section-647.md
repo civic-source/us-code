@@ -3,9 +3,9 @@ title: "Section 647 - Claims for damage to property of the United States"
 usc_title: 14
 usc_section: "647"
 chapter: 17
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "14 U.S.C. § 647"
-generated_at: "2026-03-30T03:22:04.472Z"
+generated_at: "2026-03-30T03:25:00.100Z"
 status: "active"
 ---
 

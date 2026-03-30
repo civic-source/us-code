@@ -3,9 +3,9 @@ title: "Section 1053a - Expenses incurred in connection with leave canceled due 
 usc_title: 10
 usc_section: "1053a"
 chapter: 53
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 1053a"
-generated_at: "2026-03-30T03:21:39.467Z"
+generated_at: "2026-03-30T03:24:54.704Z"
 status: "active"
 ---
 

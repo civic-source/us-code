@@ -3,9 +3,9 @@ title: "Section 9223 - State leadership activities"
 usc_title: 20
 usc_section: "9223"
 chapter: 73
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 9223"
-generated_at: "2026-03-30T03:22:33.899Z"
+generated_at: "2026-03-30T03:25:21.550Z"
 status: "active"
 ---
 

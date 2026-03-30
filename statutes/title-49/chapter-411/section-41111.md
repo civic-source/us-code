@@ -3,9 +3,9 @@ title: "Section 41111 - Simplified procedure to apply for, amend, modify, suspen
 usc_title: 49
 usc_section: "41111"
 chapter: 411
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "49 U.S.C. § 41111"
-generated_at: "2026-03-30T03:24:26.461Z"
+generated_at: "2026-03-30T03:26:22.687Z"
 status: "active"
 ---
 

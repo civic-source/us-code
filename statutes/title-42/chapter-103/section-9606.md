@@ -3,9 +3,9 @@ title: "Section 9606 - Abatement actions"
 usc_title: 42
 usc_section: "9606"
 chapter: 103
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 9606"
-generated_at: "2026-03-30T03:24:18.776Z"
+generated_at: "2026-03-30T03:26:16.731Z"
 status: "active"
 ---
 

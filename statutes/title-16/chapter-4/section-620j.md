@@ -3,9 +3,9 @@ title: "Section 620j - Authority of Export Administration Act of 1979"
 usc_title: 16
 usc_section: "620j"
 chapter: 4
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 620j"
-generated_at: "2026-03-30T03:22:28.458Z"
+generated_at: "2026-03-30T03:25:28.827Z"
 status: "active"
 ---
 

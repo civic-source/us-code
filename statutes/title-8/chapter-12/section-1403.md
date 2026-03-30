@@ -3,9 +3,9 @@ title: "Section 1403 - Persons born in the Canal Zone or Republic of Panama on o
 usc_title: 8
 usc_section: "1403"
 chapter: 12
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "8 U.S.C. § 1403"
-generated_at: "2026-03-30T03:21:34.206Z"
+generated_at: "2026-03-30T03:24:48.639Z"
 status: "active"
 ---
 

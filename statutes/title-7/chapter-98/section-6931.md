@@ -3,9 +3,9 @@ title: "Section 6931 - Under Secretary of Agriculture for Farm and Foreign Agric
 usc_title: 7
 usc_section: "6931"
 chapter: 98
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "7 U.S.C. § 6931"
-generated_at: "2026-03-30T03:21:47.590Z"
+generated_at: "2026-03-30T03:24:57.789Z"
 status: "active"
 ---
 

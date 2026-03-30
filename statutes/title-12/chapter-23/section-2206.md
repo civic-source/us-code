@@ -3,9 +3,9 @@ title: "Section 2206 - Participation loans"
 usc_title: 12
 usc_section: "2206"
 chapter: 23
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "12 U.S.C. § 2206"
-generated_at: "2026-03-30T03:22:00.639Z"
+generated_at: "2026-03-30T03:25:13.125Z"
 status: "active"
 ---
 

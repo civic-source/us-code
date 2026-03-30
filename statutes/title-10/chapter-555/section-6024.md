@@ -3,9 +3,9 @@ title: "Section 6024 - Aviation designations: naval flight officer"
 usc_title: 10
 usc_section: "6024"
 chapter: 555
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "10 U.S.C. § 6024"
-generated_at: "2026-03-30T03:21:39.576Z"
+generated_at: "2026-03-30T03:24:54.808Z"
 status: "active"
 ---
 

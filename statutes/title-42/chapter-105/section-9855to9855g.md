@@ -3,9 +3,9 @@ title: "Section 9855to9855g - Repealed. Pub. L. 105–285, title I, § 119 , Oct
 usc_title: 42
 usc_section: "9855to9855g"
 chapter: 105
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 9855to9855g"
-generated_at: "2026-03-30T03:24:18.796Z"
+generated_at: "2026-03-30T03:26:16.751Z"
 status: "repealed"
 ---
 

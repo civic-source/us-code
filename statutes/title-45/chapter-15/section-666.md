@@ -3,9 +3,9 @@ title: "Section 666 - Court supervision of expenditures; findings; report to Sec
 usc_title: 45
 usc_section: "666"
 chapter: 15
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "45 U.S.C. § 666"
-generated_at: "2026-03-30T03:23:52.244Z"
+generated_at: "2026-03-30T03:26:02.913Z"
 status: "active"
 ---
 

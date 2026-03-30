@@ -3,9 +3,9 @@ title: "Section 2971ato2971g - Repealed. Pub. L. 97–35, title VI, § 683(a) , 
 usc_title: 42
 usc_section: "2971ato2971g"
 chapter: 34
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 2971ato2971g"
-generated_at: "2026-03-30T03:24:18.545Z"
+generated_at: "2026-03-30T03:26:16.509Z"
 status: "repealed"
 ---
 

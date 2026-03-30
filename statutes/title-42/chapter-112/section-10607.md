@@ -3,9 +3,9 @@ title: "Section 10607 - Services to victims"
 usc_title: 42
 usc_section: "10607"
 chapter: 112
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 10607"
-generated_at: "2026-03-30T03:24:18.815Z"
+generated_at: "2026-03-30T03:26:16.770Z"
 status: "active"
 ---
 

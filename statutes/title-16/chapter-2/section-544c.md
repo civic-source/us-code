@@ -3,9 +3,9 @@ title: "Section 544c - Columbia River Gorge Commission"
 usc_title: 16
 usc_section: "544c"
 chapter: 2
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 544c"
-generated_at: "2026-03-30T03:22:28.441Z"
+generated_at: "2026-03-30T03:25:28.811Z"
 status: "active"
 ---
 

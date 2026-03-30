@@ -3,9 +3,9 @@ title: "Section 352to354 - Repealed. Pub. L. 104–208, div. A, title I, § 101(
 usc_title: 20
 usc_section: "352to354"
 chapter: 16
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "20 U.S.C. § 352to354"
-generated_at: "2026-03-30T03:22:33.691Z"
+generated_at: "2026-03-30T03:25:21.362Z"
 status: "repealed"
 ---
 

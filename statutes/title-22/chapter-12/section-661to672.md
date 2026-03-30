@@ -3,9 +3,9 @@ title: "Section 661to672 - Omitted"
 usc_title: 22
 usc_section: "661to672"
 chapter: 12
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "22 U.S.C. § 661to672"
-generated_at: "2026-03-30T03:22:42.578Z"
+generated_at: "2026-03-30T03:25:39.580Z"
 status: "omitted"
 ---
 

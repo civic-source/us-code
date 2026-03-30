@@ -3,9 +3,9 @@ title: "Section 222 - Transferred"
 usc_title: 50
 usc_section: "222"
 chapter: 13
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "50 U.S.C. § 222"
-generated_at: "2026-03-30T03:24:24.052Z"
+generated_at: "2026-03-30T03:26:29.206Z"
 status: "transferred"
 ---
 

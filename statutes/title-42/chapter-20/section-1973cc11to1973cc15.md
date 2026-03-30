@@ -3,9 +3,9 @@ title: "Section 1973cc11to1973cc15 - Repealed. Pub. L. 99–410, title II, § 20
 usc_title: 42
 usc_section: "1973cc11to1973cc15"
 chapter: 20
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 1973cc11to1973cc15"
-generated_at: "2026-03-30T03:24:18.505Z"
+generated_at: "2026-03-30T03:26:16.472Z"
 status: "repealed"
 ---
 

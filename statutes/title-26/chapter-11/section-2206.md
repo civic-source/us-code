@@ -3,9 +3,9 @@ title: "Section 2206 - Liability of life insurance beneficiaries"
 usc_title: 26
 usc_section: "2206"
 chapter: 11
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "26 U.S.C. § 2206"
-generated_at: "2026-03-30T03:23:39.484Z"
+generated_at: "2026-03-30T03:25:51.314Z"
 status: "active"
 ---
 

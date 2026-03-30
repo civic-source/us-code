@@ -3,9 +3,9 @@ title: "Section 16378 - Funding"
 usc_title: 42
 usc_section: "16378"
 chapter: 149
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 16378"
-generated_at: "2026-03-30T03:24:18.946Z"
+generated_at: "2026-03-30T03:26:16.892Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15423 - Requirements for eligibility"
 usc_title: 42
 usc_section: "15423"
 chapter: 146
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "42 U.S.C. § 15423"
-generated_at: "2026-03-30T03:24:18.923Z"
+generated_at: "2026-03-30T03:26:16.871Z"
 status: "active"
 ---
 

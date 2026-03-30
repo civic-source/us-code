@@ -3,9 +3,9 @@ title: "Section 398b - Repealed. Pub. L. 85–404 , May 16, 1958 , 72 Stat. 112"
 usc_title: 16
 usc_section: "398b"
 chapter: 1
-current_through: "PL 113-47"
+current_through: "PL 113-49"
 classification: "16 U.S.C. § 398b"
-generated_at: "2026-03-30T03:22:28.328Z"
+generated_at: "2026-03-30T03:25:28.704Z"
 status: "repealed"
 ---
 
