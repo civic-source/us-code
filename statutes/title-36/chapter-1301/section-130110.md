@@ -3,9 +3,9 @@ title: "Section 130110 - Service of process"
 usc_title: 36
 usc_section: "130110"
 chapter: 1301
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "36 U.S.C. § 130110"
-generated_at: "2026-03-30T06:50:31.374Z"
+generated_at: "2026-03-30T06:52:28.291Z"
 status: "active"
 ---
 

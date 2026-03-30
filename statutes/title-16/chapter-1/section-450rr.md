@@ -3,9 +3,9 @@ title: "Section 450rr - R.M.S. Titanic; international maritime memorial; finding
 usc_title: 16
 usc_section: "450rr"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "16 U.S.C. § 450rr"
-generated_at: "2026-03-30T06:49:39.016Z"
+generated_at: "2026-03-30T06:52:02.860Z"
 status: "active"
 ---
 

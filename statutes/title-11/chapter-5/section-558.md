@@ -3,9 +3,9 @@ title: "Section 558 - Defenses of the estate"
 usc_title: 11
 usc_section: "558"
 chapter: 5
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "11 U.S.C. § 558"
-generated_at: "2026-03-30T06:49:26.091Z"
+generated_at: "2026-03-30T06:51:45.282Z"
 status: "active"
 ---
 

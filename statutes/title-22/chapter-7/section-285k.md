@@ -3,9 +3,9 @@ title: "Section 285k - Utilization of United States Special Resources"
 usc_title: 22
 usc_section: "285k"
 chapter: 7
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 285k"
-generated_at: "2026-03-30T06:50:13.460Z"
+generated_at: "2026-03-30T06:52:09.291Z"
 status: "active"
 ---
 

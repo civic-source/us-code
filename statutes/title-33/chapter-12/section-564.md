@@ -3,9 +3,9 @@ title: "Section 564 - Repealed. July 3, 1943, ch. 189 , § 5, 57 Stat. 374"
 usc_title: 33
 usc_section: "564"
 chapter: 12
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 564"
-generated_at: "2026-03-30T06:50:28.453Z"
+generated_at: "2026-03-30T06:52:24.254Z"
 status: "repealed"
 ---
 

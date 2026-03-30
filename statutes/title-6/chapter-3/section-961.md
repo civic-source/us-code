@@ -3,9 +3,9 @@ title: "Section 961 - Establishment"
 usc_title: 6
 usc_section: "961"
 chapter: 3
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "6 U.S.C. § 961"
-generated_at: "2026-03-30T06:49:10.415Z"
+generated_at: "2026-03-30T06:51:42.639Z"
 status: "active"
 ---
 

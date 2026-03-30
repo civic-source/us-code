@@ -3,9 +3,9 @@ title: "Section 219a - Severability"
 usc_title: 27
 usc_section: "219a"
 chapter: 8
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "27 U.S.C. § 219a"
-generated_at: "2026-03-30T06:50:17.139Z"
+generated_at: "2026-03-30T06:52:12.972Z"
 status: "active"
 ---
 

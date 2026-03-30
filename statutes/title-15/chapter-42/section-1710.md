@@ -3,9 +3,9 @@ title: "Section 1710 - Court review of orders"
 usc_title: 15
 usc_section: "1710"
 chapter: 42
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "15 U.S.C. § 1710"
-generated_at: "2026-03-30T06:49:29.523Z"
+generated_at: "2026-03-30T06:51:51.881Z"
 status: "active"
 ---
 

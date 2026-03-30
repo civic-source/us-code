@@ -3,9 +3,9 @@ title: "Section 2401 - Appropriations"
 usc_title: 39
 usc_section: "2401"
 chapter: 24
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "39 U.S.C. § 2401"
-generated_at: "2026-03-30T06:50:30.778Z"
+generated_at: "2026-03-30T06:52:25.881Z"
 status: "active"
 ---
 

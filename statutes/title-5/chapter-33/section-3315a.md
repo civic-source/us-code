@@ -3,9 +3,9 @@ title: "Section 3315a - Repealed. Pub. L. 93–416 , § 22(c), Sept. 7, 1974 , 8
 usc_title: 5
 usc_section: "3315a"
 chapter: 33
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "5 U.S.C. § 3315a"
-generated_at: "2026-03-30T06:49:01.276Z"
+generated_at: "2026-03-30T06:51:25.321Z"
 status: "repealed"
 ---
 

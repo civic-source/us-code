@@ -3,9 +3,9 @@ title: "Section 5412 - Repealed. Pub. L. 96–513, title III , § 311(a), Dec. 1
 usc_title: 10
 usc_section: "5412"
 chapter: 531
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 5412"
-generated_at: "2026-03-30T06:49:20.226Z"
+generated_at: "2026-03-30T06:51:38.354Z"
 status: "repealed"
 ---
 

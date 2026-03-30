@@ -3,9 +3,9 @@ title: "Section 1303 - Repealed. Pub. L. 103–465, title II , § 261(a), Dec. 8
 usc_title: 19
 usc_section: "1303"
 chapter: 4
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "19 U.S.C. § 1303"
-generated_at: "2026-03-30T06:49:41.558Z"
+generated_at: "2026-03-30T06:51:56.412Z"
 status: "repealed"
 ---
 

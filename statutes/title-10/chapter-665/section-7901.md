@@ -3,9 +3,9 @@ title: "Section 7901 - National Oceanographic Partnership Program"
 usc_title: 10
 usc_section: "7901"
 chapter: 665
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 7901"
-generated_at: "2026-03-30T06:49:20.236Z"
+generated_at: "2026-03-30T06:51:38.364Z"
 status: "active"
 ---
 

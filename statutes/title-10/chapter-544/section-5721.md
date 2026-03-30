@@ -3,9 +3,9 @@ title: "Section 5721 - Temporary promotions of certain Navy lieutenants"
 usc_title: 10
 usc_section: "5721"
 chapter: 544
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 5721"
-generated_at: "2026-03-30T06:49:20.226Z"
+generated_at: "2026-03-30T06:51:38.355Z"
 status: "active"
 ---
 

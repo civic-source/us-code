@@ -3,9 +3,9 @@ title: "Section 5152 - Value of United States money holdings in international in
 usc_title: 31
 usc_section: "5152"
 chapter: 51
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "31 U.S.C. § 5152"
-generated_at: "2026-03-30T06:50:27.667Z"
+generated_at: "2026-03-30T06:52:23.358Z"
 status: "active"
 ---
 

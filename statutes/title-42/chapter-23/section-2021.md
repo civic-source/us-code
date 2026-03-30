@@ -3,9 +3,9 @@ title: "Section 2021 - Cooperation with States"
 usc_title: 42
 usc_section: "2021"
 chapter: 23
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 2021"
-generated_at: "2026-03-30T06:50:48.756Z"
+generated_at: "2026-03-30T06:52:46.955Z"
 status: "active"
 ---
 

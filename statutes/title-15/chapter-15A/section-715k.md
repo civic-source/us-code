@@ -3,9 +3,9 @@ title: "Section 715k - Saving clause"
 usc_title: 15
 usc_section: "715k"
 chapter: 15
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "15 U.S.C. § 715k"
-generated_at: "2026-03-30T06:49:29.484Z"
+generated_at: "2026-03-30T06:51:51.844Z"
 status: "active"
 ---
 

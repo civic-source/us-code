@@ -3,9 +3,9 @@ title: "Section 1772 - Special program to encourage the consumption of fluid mil
 usc_title: 42
 usc_section: "1772"
 chapter: 13
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 1772"
-generated_at: "2026-03-30T06:50:48.734Z"
+generated_at: "2026-03-30T06:52:46.933Z"
 status: "active"
 ---
 

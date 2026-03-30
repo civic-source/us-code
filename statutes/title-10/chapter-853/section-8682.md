@@ -3,9 +3,9 @@ title: "Section 8682 - Repealed. Pub. L. 90–235 , § 6(a)(2), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "8682"
 chapter: 853
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 8682"
-generated_at: "2026-03-30T06:49:20.239Z"
+generated_at: "2026-03-30T06:51:38.366Z"
 status: "repealed"
 ---
 

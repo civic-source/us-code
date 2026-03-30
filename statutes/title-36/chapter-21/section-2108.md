@@ -3,9 +3,9 @@ title: "Section 2108 - Pacific War Memorial and other historical and memorial si
 usc_title: 36
 usc_section: "2108"
 chapter: 21
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "36 U.S.C. § 2108"
-generated_at: "2026-03-30T06:50:31.363Z"
+generated_at: "2026-03-30T06:52:28.282Z"
 status: "active"
 ---
 

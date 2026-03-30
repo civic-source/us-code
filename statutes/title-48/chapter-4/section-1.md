@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(14), 
 usc_title: 48
 usc_section: "1"
 chapter: 4
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-30T06:50:51.572Z"
+generated_at: "2026-03-30T06:52:51.108Z"
 status: "repealed"
 ---
 

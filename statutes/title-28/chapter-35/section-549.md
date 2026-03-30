@@ -3,9 +3,9 @@ title: "Section 549 - Expenses"
 usc_title: 28
 usc_section: "549"
 chapter: 35
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "28 U.S.C. § 549"
-generated_at: "2026-03-30T06:50:16.634Z"
+generated_at: "2026-03-30T06:52:14.479Z"
 status: "active"
 ---
 

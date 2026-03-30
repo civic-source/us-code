@@ -3,9 +3,9 @@ title: "Section 11501 - Tax discrimination against rail transportation property"
 usc_title: 49
 usc_section: "11501"
 chapter: 115
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "49 U.S.C. § 11501"
-generated_at: "2026-03-30T06:51:06.863Z"
+generated_at: "2026-03-30T06:52:59.155Z"
 status: "active"
 ---
 

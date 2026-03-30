@@ -3,9 +3,9 @@ title: "Section 6023 - Definitions"
 usc_title: 22
 usc_section: "6023"
 chapter: 69
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 6023"
-generated_at: "2026-03-30T06:50:13.549Z"
+generated_at: "2026-03-30T06:52:09.382Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 194 - Limitations on personnel"
 usc_title: 10
 usc_section: "194"
 chapter: 8
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 194"
-generated_at: "2026-03-30T06:49:20.124Z"
+generated_at: "2026-03-30T06:51:38.249Z"
 status: "active"
 ---
 

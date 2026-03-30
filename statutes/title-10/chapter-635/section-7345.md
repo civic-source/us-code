@@ -3,9 +3,9 @@ title: "Section 7345 - Repealed. Pub. L. 103–160, div. A, title VIII , § 824(
 usc_title: 10
 usc_section: "7345"
 chapter: 635
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 7345"
-generated_at: "2026-03-30T06:49:20.234Z"
+generated_at: "2026-03-30T06:51:38.361Z"
 status: "repealed"
 ---
 

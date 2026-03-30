@@ -3,9 +3,9 @@ title: "Section 1111 - Repealed. Pub. L. 94–455, title XIX , § 1901(a)(134), 
 usc_title: 26
 usc_section: "1111"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "26 U.S.C. § 1111"
-generated_at: "2026-03-30T06:50:23.158Z"
+generated_at: "2026-03-30T06:52:20.033Z"
 status: "repealed"
 ---
 

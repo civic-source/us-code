@@ -3,9 +3,9 @@ title: "Section 7659 - Libel and proceedings by United States attorney"
 usc_title: 10
 usc_section: "7659"
 chapter: 655
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 7659"
-generated_at: "2026-03-30T06:49:20.235Z"
+generated_at: "2026-03-30T06:51:38.363Z"
 status: "active"
 ---
 

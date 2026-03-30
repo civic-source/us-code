@@ -3,9 +3,9 @@ title: "Section 2436 - Major defense acquisition programs: incentive program for
 usc_title: 10
 usc_section: "2436"
 chapter: 144
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2436"
-generated_at: "2026-03-30T06:49:20.197Z"
+generated_at: "2026-03-30T06:51:38.325Z"
 status: "active"
 ---
 

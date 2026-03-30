@@ -3,9 +3,9 @@ title: "Section 147d - Repealed. Pub. L. 88–131 , § 3, Sept. 24, 1963 , 77 St
 usc_title: 33
 usc_section: "147d"
 chapter: 2
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 147d"
-generated_at: "2026-03-30T06:50:28.444Z"
+generated_at: "2026-03-30T06:52:24.246Z"
 status: "repealed"
 ---
 

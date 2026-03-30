@@ -3,9 +3,9 @@ title: "Section 2511 - Defense dual-use critical technology program"
 usc_title: 10
 usc_section: "2511"
 chapter: 148
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2511"
-generated_at: "2026-03-30T06:49:20.201Z"
+generated_at: "2026-03-30T06:51:38.329Z"
 status: "active"
 ---
 

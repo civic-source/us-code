@@ -3,9 +3,9 @@ title: "Section 1393 - Definitions and special rules"
 usc_title: 26
 usc_section: "1393"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "26 U.S.C. § 1393"
-generated_at: "2026-03-30T06:50:23.170Z"
+generated_at: "2026-03-30T06:52:20.045Z"
 status: "active"
 ---
 

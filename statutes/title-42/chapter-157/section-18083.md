@@ -3,9 +3,9 @@ title: "Section 18083 - Streamlining of procedures for enrollment through an Exc
 usc_title: 42
 usc_section: "18083"
 chapter: 157
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 18083"
-generated_at: "2026-03-30T06:50:49.055Z"
+generated_at: "2026-03-30T06:52:47.253Z"
 status: "active"
 ---
 

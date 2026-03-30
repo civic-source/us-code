@@ -3,9 +3,9 @@ title: "Section 5501 - Establishment"
 usc_title: 26
 usc_section: "5501"
 chapter: 51
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "26 U.S.C. § 5501"
-generated_at: "2026-03-30T06:50:23.214Z"
+generated_at: "2026-03-30T06:52:20.092Z"
 status: "active"
 ---
 

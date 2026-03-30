@@ -3,9 +3,9 @@ title: "Section 599 - Promise of appointment by candidate"
 usc_title: 18
 usc_section: "599"
 chapter: 29
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "18 U.S.C. § 599"
-generated_at: "2026-03-30T06:49:51.760Z"
+generated_at: "2026-03-30T06:51:55.176Z"
 status: "active"
 ---
 

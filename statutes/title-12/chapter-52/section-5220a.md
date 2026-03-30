@@ -3,9 +3,9 @@ title: "Section 5220a - Application of GSE conforming loan limit to mortgages as
 usc_title: 12
 usc_section: "5220a"
 chapter: 52
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "12 U.S.C. § 5220a"
-generated_at: "2026-03-30T06:49:32.537Z"
+generated_at: "2026-03-30T06:51:49.213Z"
 status: "active"
 ---
 

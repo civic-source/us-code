@@ -3,9 +3,9 @@ title: "Section 541a - Administration, protection, development, and regulation o
 usc_title: 16
 usc_section: "541a"
 chapter: 2
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "16 U.S.C. § 541a"
-generated_at: "2026-03-30T06:49:39.058Z"
+generated_at: "2026-03-30T06:52:02.904Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 869b - Repealed. Pub. L. 91–648, title IV , § 403, Jan. 5, 19
 usc_title: 20
 usc_section: "869b"
 chapter: 24
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "20 U.S.C. § 869b"
-generated_at: "2026-03-30T06:49:53.475Z"
+generated_at: "2026-03-30T06:51:58.113Z"
 status: "repealed"
 ---
 

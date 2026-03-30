@@ -3,9 +3,9 @@ title: "Section 772 - Resurveys or retracements to mark boundaries of undisposed
 usc_title: 43
 usc_section: "772"
 chapter: 18
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "43 U.S.C. § 772"
-generated_at: "2026-03-30T06:50:36.249Z"
+generated_at: "2026-03-30T06:52:32.124Z"
 status: "active"
 ---
 

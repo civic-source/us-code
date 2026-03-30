@@ -3,9 +3,9 @@ title: "Section 5622 - Export credit guarantee program"
 usc_title: 7
 usc_section: "5622"
 chapter: 87
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 5622"
-generated_at: "2026-03-30T06:49:23.757Z"
+generated_at: "2026-03-30T06:51:35.071Z"
 status: "active"
 ---
 

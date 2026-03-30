@@ -3,9 +3,9 @@ title: "Section 4153 - Standards for design, construction, and alteration of bui
 usc_title: 42
 usc_section: "4153"
 chapter: 51
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 4153"
-generated_at: "2026-03-30T06:50:48.803Z"
+generated_at: "2026-03-30T06:52:47.003Z"
 status: "active"
 ---
 

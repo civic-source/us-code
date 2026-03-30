@@ -3,9 +3,9 @@ title: "Section 2686 - Review of world-wide supply, demand, and price of basic r
 usc_title: 22
 usc_section: "2686"
 chapter: 38
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 2686"
-generated_at: "2026-03-30T06:50:13.511Z"
+generated_at: "2026-03-30T06:52:09.344Z"
 status: "active"
 ---
 

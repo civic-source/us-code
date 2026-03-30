@@ -3,9 +3,9 @@ title: "Section 864a - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641"
 usc_title: 33
 usc_section: "864a"
 chapter: 17
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 864a"
-generated_at: "2026-03-30T06:50:28.462Z"
+generated_at: "2026-03-30T06:52:24.263Z"
 status: "repealed"
 ---
 

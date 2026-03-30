@@ -3,9 +3,9 @@ title: "Section 165 - Authorization for appropriation for biennial index"
 usc_title: 2
 usc_section: "165"
 chapter: 5
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "2 U.S.C. § 165"
-generated_at: "2026-03-30T06:49:07.793Z"
+generated_at: "2026-03-30T06:51:23.242Z"
 status: "active"
 ---
 

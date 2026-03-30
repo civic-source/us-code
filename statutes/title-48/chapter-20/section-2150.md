@@ -3,9 +3,9 @@ title: "Section 2150 - No full faith and credit of the United States"
 usc_title: 48
 usc_section: "2150"
 chapter: 20
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "48 U.S.C. § 2150"
-generated_at: "2026-03-30T06:50:51.590Z"
+generated_at: "2026-03-30T06:52:51.125Z"
 status: "active"
 ---
 

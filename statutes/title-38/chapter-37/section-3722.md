@@ -3,9 +3,9 @@ title: "Section 3722 - Veterans Housing Benefit Program Fund"
 usc_title: 38
 usc_section: "3722"
 chapter: 37
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "38 U.S.C. § 3722"
-generated_at: "2026-03-30T06:50:33.787Z"
+generated_at: "2026-03-30T06:52:29.396Z"
 status: "active"
 ---
 

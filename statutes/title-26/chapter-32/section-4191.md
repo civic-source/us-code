@@ -3,9 +3,9 @@ title: "Section 4191 - Medical devices"
 usc_title: 26
 usc_section: "4191"
 chapter: 32
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "26 U.S.C. § 4191"
-generated_at: "2026-03-30T06:50:23.195Z"
+generated_at: "2026-03-30T06:52:20.072Z"
 status: "active"
 ---
 

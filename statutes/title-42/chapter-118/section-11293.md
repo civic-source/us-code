@@ -3,9 +3,9 @@ title: "Section 11293 - Education programs for safety and transportation personn
 usc_title: 42
 usc_section: "11293"
 chapter: 118
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 11293"
-generated_at: "2026-03-30T06:50:48.968Z"
+generated_at: "2026-03-30T06:52:47.166Z"
 status: "active"
 ---
 

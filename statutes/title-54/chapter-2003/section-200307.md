@@ -3,9 +3,9 @@ title: "Section 200307 - Availability of Fund amounts for publicity purposes"
 usc_title: 54
 usc_section: "200307"
 chapter: 2003
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "54 U.S.C. § 200307"
-generated_at: "2026-03-30T06:51:08.964Z"
+generated_at: "2026-03-30T06:53:00.994Z"
 status: "active"
 ---
 

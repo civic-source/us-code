@@ -3,9 +3,9 @@ title: "Section 6001 - Establishment of program"
 usc_title: 15
 usc_section: "6001"
 chapter: 86
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "15 U.S.C. § 6001"
-generated_at: "2026-03-30T06:49:29.565Z"
+generated_at: "2026-03-30T06:51:51.922Z"
 status: "active"
 ---
 

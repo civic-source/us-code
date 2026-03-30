@@ -3,9 +3,9 @@ title: "Section 113 - Other officers"
 usc_title: 6
 usc_section: "113"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "6 U.S.C. § 113"
-generated_at: "2026-03-30T06:49:10.390Z"
+generated_at: "2026-03-30T06:51:42.611Z"
 status: "active"
 ---
 

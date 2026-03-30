@@ -3,9 +3,9 @@ title: "Section 12185 - Limitations on use of funds"
 usc_title: 34
 usc_section: "12185"
 chapter: 121
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "34 U.S.C. § 12185"
-generated_at: "2026-03-30T06:50:29.164Z"
+generated_at: "2026-03-30T06:52:22.720Z"
 status: "active"
 ---
 

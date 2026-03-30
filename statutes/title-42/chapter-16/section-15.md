@@ -3,9 +3,9 @@ title: "Section 15 - Twenty-first century graduate education"
 usc_title: 42
 usc_section: "15"
 chapter: 16
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T06:50:48.743Z"
+generated_at: "2026-03-30T06:52:46.942Z"
 status: "active"
 ---
 

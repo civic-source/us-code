@@ -3,9 +3,9 @@ title: "Section 3902 - Interest penalties"
 usc_title: 31
 usc_section: "3902"
 chapter: 39
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "31 U.S.C. § 3902"
-generated_at: "2026-03-30T06:50:27.664Z"
+generated_at: "2026-03-30T06:52:23.355Z"
 status: "active"
 ---
 

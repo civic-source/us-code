@@ -3,15 +3,15 @@ title: "Section 8118 - Continuation of pay; election to use annual or sick leave
 usc_title: 5
 usc_section: "8118"
 chapter: 81
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "5 U.S.C. § 8118"
-generated_at: "2026-03-30T06:49:01.302Z"
+generated_at: "2026-03-30T06:51:25.347Z"
 status: "active"
 ---
 
 # § 8118. Continuation of pay; election to use annual or sick leave
 
-- **(a)** The United States shall authorize the continuation of pay of an employee, as defined in section 8101(1) of this title (other than those referred to in clause (B) or (E), who has filed a claim for a period of wage loss due to a traumatic injury with his immediate superior on a form approved by the Secretary of Labor within the time specified in section 8122(a)(2) of this title .
+- **(a)** The United States shall authorize the continuation of pay of an employee, as defined in section 8101(1) of this title (other than those referred to in clause (B) or (E)), who has filed a claim for a period of wage loss due to a traumatic injury with his immediate superior on a form approved by the Secretary of Labor within the time specified in section 8122(a)(2) of this title .
 - **(b)** Continuation of pay under this subchapter shall be furnished—
   - **(1)** without a break in time, except as provided under section 8117(b), unless controverted under regulations of the Secretary;
   - **(2)** for a period not to exceed 45 days; and

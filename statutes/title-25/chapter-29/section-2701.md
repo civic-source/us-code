@@ -3,9 +3,9 @@ title: "Section 2701 - Findings"
 usc_title: 25
 usc_section: "2701"
 chapter: 29
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "25 U.S.C. § 2701"
-generated_at: "2026-03-30T06:49:57.868Z"
+generated_at: "2026-03-30T06:52:07.629Z"
 status: "active"
 ---
 

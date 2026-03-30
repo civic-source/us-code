@@ -3,9 +3,9 @@ title: "Section 216d - Severability"
 usc_title: 12
 usc_section: "216d"
 chapter: 2
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "12 U.S.C. § 216d"
-generated_at: "2026-03-30T06:49:32.400Z"
+generated_at: "2026-03-30T06:51:49.082Z"
 status: "active"
 ---
 

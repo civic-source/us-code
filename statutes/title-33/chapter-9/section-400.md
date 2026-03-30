@@ -3,9 +3,9 @@ title: "Section 400 - Continuing authority programs"
 usc_title: 33
 usc_section: "400"
 chapter: 9
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 400"
-generated_at: "2026-03-30T06:50:28.445Z"
+generated_at: "2026-03-30T06:52:24.247Z"
 status: "active"
 ---
 

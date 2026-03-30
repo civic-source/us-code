@@ -3,9 +3,9 @@ title: "Section 1452 - Eligibility and collaborative process"
 usc_title: 20
 usc_section: "1452"
 chapter: 33
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "20 U.S.C. § 1452"
-generated_at: "2026-03-30T06:49:53.544Z"
+generated_at: "2026-03-30T06:51:58.228Z"
 status: "active"
 ---
 

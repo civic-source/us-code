@@ -3,9 +3,9 @@ title: "Section 6298 - Repealed. Pub. L. 90–235 , §§ 3(a)(2), (b)(1), 8(3), 
 usc_title: 10
 usc_section: "6298"
 chapter: 569
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 6298"
-generated_at: "2026-03-30T06:49:20.228Z"
+generated_at: "2026-03-30T06:51:38.356Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11925 - Regulations"
 usc_title: 42
 usc_section: "11925"
 chapter: 124
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 11925"
-generated_at: "2026-03-30T06:50:48.976Z"
+generated_at: "2026-03-30T06:52:47.175Z"
 status: "active"
 ---
 

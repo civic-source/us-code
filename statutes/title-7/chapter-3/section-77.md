@@ -3,9 +3,9 @@ title: "Section 77 - Official inspection and weighing requirements; waiver; supe
 usc_title: 7
 usc_section: "77"
 chapter: 3
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 77"
-generated_at: "2026-03-30T06:49:23.637Z"
+generated_at: "2026-03-30T06:51:34.951Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5942 - Wheat and feed grains research; regional and national res
 usc_title: 7
 usc_section: "5942"
 chapter: 88
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 5942"
-generated_at: "2026-03-30T06:49:23.762Z"
+generated_at: "2026-03-30T06:51:35.076Z"
 status: "active"
 ---
 

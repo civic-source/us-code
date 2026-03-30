@@ -3,9 +3,9 @@ title: "Section 2914 - Energy resiliency and conservation construction projects"
 usc_title: 10
 usc_section: "2914"
 chapter: 173
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2914"
-generated_at: "2026-03-30T06:49:20.216Z"
+generated_at: "2026-03-30T06:51:38.343Z"
 status: "active"
 ---
 

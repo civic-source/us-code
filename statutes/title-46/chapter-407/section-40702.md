@@ -3,9 +3,9 @@ title: "Section 40702 - Rate standards"
 usc_title: 46
 usc_section: "40702"
 chapter: 407
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "46 U.S.C. § 40702"
-generated_at: "2026-03-30T06:50:59.702Z"
+generated_at: "2026-03-30T06:52:50.374Z"
 status: "active"
 ---
 

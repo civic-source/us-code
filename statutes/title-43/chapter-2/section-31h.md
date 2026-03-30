@@ -3,9 +3,9 @@ title: "Section 31h - Authorization of appropriations"
 usc_title: 43
 usc_section: "31h"
 chapter: 2
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "43 U.S.C. § 31h"
-generated_at: "2026-03-30T06:50:36.228Z"
+generated_at: "2026-03-30T06:52:32.103Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 77ddd - Exempted securities and transactions"
 usc_title: 15
 usc_section: "77ddd"
 chapter: 2
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "15 U.S.C. § 77ddd"
-generated_at: "2026-03-30T06:49:29.411Z"
+generated_at: "2026-03-30T06:51:51.772Z"
 status: "active"
 ---
 

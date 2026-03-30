@@ -3,9 +3,9 @@ title: "Section 326 - State assumption of responsibility for categorical exclusi
 usc_title: 23
 usc_section: "326"
 chapter: 3
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "23 U.S.C. § 326"
-generated_at: "2026-03-30T06:50:01.834Z"
+generated_at: "2026-03-30T06:52:05.717Z"
 status: "active"
 ---
 

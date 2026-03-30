@@ -3,9 +3,9 @@ title: "Section 1601 - Definitions"
 usc_title: 33
 usc_section: "1601"
 chapter: 30
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 1601"
-generated_at: "2026-03-30T06:50:28.492Z"
+generated_at: "2026-03-30T06:52:24.293Z"
 status: "active"
 ---
 

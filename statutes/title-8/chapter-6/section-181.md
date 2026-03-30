@@ -3,9 +3,9 @@ title: "Section 181 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(12)
 usc_title: 8
 usc_section: "181"
 chapter: 6
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "8 U.S.C. § 181"
-generated_at: "2026-03-30T06:49:11.595Z"
+generated_at: "2026-03-30T06:51:28.331Z"
 status: "repealed"
 ---
 

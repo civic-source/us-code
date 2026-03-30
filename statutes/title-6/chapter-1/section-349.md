@@ -3,9 +3,9 @@ title: "Section 349 - Office of Strategy, Policy, and Plans"
 usc_title: 6
 usc_section: "349"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "6 U.S.C. § 349"
-generated_at: "2026-03-30T06:49:10.403Z"
+generated_at: "2026-03-30T06:51:42.625Z"
 status: "active"
 ---
 

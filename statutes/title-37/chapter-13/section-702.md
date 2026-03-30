@@ -3,9 +3,9 @@ title: "Section 702 - Repealed. Pub. L. 99–145, title VI , § 683(b)(1), Nov. 
 usc_title: 37
 usc_section: "702"
 chapter: 13
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "37 U.S.C. § 702"
-generated_at: "2026-03-30T06:50:31.675Z"
+generated_at: "2026-03-30T06:52:26.527Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7221g - Records transfer"
 usc_title: 20
 usc_section: "7221g"
 chapter: 70
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "20 U.S.C. § 7221g"
-generated_at: "2026-03-30T06:49:53.582Z"
+generated_at: "2026-03-30T06:51:58.266Z"
 status: "active"
 ---
 

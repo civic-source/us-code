@@ -3,9 +3,9 @@ title: "Section 2784 - Management of purchase cards"
 usc_title: 10
 usc_section: "2784"
 chapter: 165
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2784"
-generated_at: "2026-03-30T06:49:20.211Z"
+generated_at: "2026-03-30T06:51:38.339Z"
 status: "active"
 ---
 

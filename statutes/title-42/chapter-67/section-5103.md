@@ -3,9 +3,9 @@ title: "Section 5103 - Repealed. Pub. L. 104–235, title I , § 103, Oct. 3, 19
 usc_title: 42
 usc_section: "5103"
 chapter: 67
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 5103"
-generated_at: "2026-03-30T06:50:48.816Z"
+generated_at: "2026-03-30T06:52:47.015Z"
 status: "repealed"
 ---
 

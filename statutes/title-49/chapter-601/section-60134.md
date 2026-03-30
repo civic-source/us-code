@@ -3,9 +3,9 @@ title: "Section 60134 - State damage prevention programs"
 usc_title: 49
 usc_section: "60134"
 chapter: 601
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "49 U.S.C. § 60134"
-generated_at: "2026-03-30T06:51:06.931Z"
+generated_at: "2026-03-30T06:52:59.218Z"
 status: "active"
 ---
 

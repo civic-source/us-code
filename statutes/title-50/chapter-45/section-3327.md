@@ -3,9 +3,9 @@ title: "Section 3327 - Limitation on transfer of funds between CIA and Departmen
 usc_title: 50
 usc_section: "3327"
 chapter: 45
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "50 U.S.C. § 3327"
-generated_at: "2026-03-30T06:50:53.141Z"
+generated_at: "2026-03-30T06:52:54.537Z"
 status: "active"
 ---
 

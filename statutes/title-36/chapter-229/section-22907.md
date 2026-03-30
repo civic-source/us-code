@@ -3,9 +3,9 @@ title: "Section 22907 - Restrictions"
 usc_title: 36
 usc_section: "22907"
 chapter: 229
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "36 U.S.C. § 22907"
-generated_at: "2026-03-30T06:50:31.366Z"
+generated_at: "2026-03-30T06:52:28.285Z"
 status: "active"
 ---
 

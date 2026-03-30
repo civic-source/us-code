@@ -3,9 +3,9 @@ title: "Section 201 - Federal lands and tribal transportation programs"
 usc_title: 23
 usc_section: "201"
 chapter: 2
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "23 U.S.C. § 201"
-generated_at: "2026-03-30T06:50:01.832Z"
+generated_at: "2026-03-30T06:52:05.713Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1847 - Maximum obligation"
 usc_title: 15
 usc_section: "1847"
 chapter: 45
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "15 U.S.C. § 1847"
-generated_at: "2026-03-30T06:49:29.524Z"
+generated_at: "2026-03-30T06:51:51.882Z"
 status: "active"
 ---
 

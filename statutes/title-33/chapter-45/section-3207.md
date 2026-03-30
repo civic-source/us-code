@@ -3,9 +3,9 @@ title: "Section 3207 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3207"
 chapter: 45
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 3207"
-generated_at: "2026-03-30T06:50:28.513Z"
+generated_at: "2026-03-30T06:52:24.315Z"
 status: "active"
 ---
 

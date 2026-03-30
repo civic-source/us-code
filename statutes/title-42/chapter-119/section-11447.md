@@ -3,9 +3,9 @@ title: "Section 11447 - Repealed. Pub. L. 105–220, title I , § 199(a)(5), Aug
 usc_title: 42
 usc_section: "11447"
 chapter: 119
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 11447"
-generated_at: "2026-03-30T06:50:48.973Z"
+generated_at: "2026-03-30T06:52:47.171Z"
 status: "repealed"
 ---
 

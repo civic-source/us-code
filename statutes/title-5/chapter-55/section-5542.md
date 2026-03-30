@@ -3,9 +3,9 @@ title: "Section 5542 - Overtime rates; computation"
 usc_title: 5
 usc_section: "5542"
 chapter: 55
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "5 U.S.C. § 5542"
-generated_at: "2026-03-30T06:49:01.288Z"
+generated_at: "2026-03-30T06:51:25.333Z"
 status: "active"
 ---
 

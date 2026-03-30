@@ -3,9 +3,9 @@ title: "Section 1111 - Presumption of sound condition"
 usc_title: 38
 usc_section: "1111"
 chapter: 11
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "38 U.S.C. § 1111"
-generated_at: "2026-03-30T06:50:33.760Z"
+generated_at: "2026-03-30T06:52:29.369Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 883l - Contracts for surveying and mapping services"
 usc_title: 33
 usc_section: "883l"
 chapter: 17
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 883l"
-generated_at: "2026-03-30T06:50:28.462Z"
+generated_at: "2026-03-30T06:52:24.264Z"
 status: "active"
 ---
 

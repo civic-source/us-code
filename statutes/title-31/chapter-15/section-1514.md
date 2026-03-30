@@ -3,9 +3,9 @@ title: "Section 1514 - Administrative division of apportionments"
 usc_title: 31
 usc_section: "1514"
 chapter: 15
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "31 U.S.C. § 1514"
-generated_at: "2026-03-30T06:50:27.655Z"
+generated_at: "2026-03-30T06:52:23.347Z"
 status: "active"
 ---
 

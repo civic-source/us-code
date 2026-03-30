@@ -3,9 +3,9 @@ title: "Section 7268 - Possession with intent to sell in fraud of law or to evad
 usc_title: 26
 usc_section: "7268"
 chapter: 75
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "26 U.S.C. § 7268"
-generated_at: "2026-03-30T06:50:23.250Z"
+generated_at: "2026-03-30T06:52:20.128Z"
 status: "active"
 ---
 

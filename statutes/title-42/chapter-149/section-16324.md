@@ -3,9 +3,9 @@ title: "Section 16324 - Energy research fellowships"
 usc_title: 42
 usc_section: "16324"
 chapter: 149
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 16324"
-generated_at: "2026-03-30T06:50:49.032Z"
+generated_at: "2026-03-30T06:52:47.231Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5871 - Transitional provisions"
 usc_title: 42
 usc_section: "5871"
 chapter: 73
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 5871"
-generated_at: "2026-03-30T06:50:48.835Z"
+generated_at: "2026-03-30T06:52:47.033Z"
 status: "active"
 ---
 

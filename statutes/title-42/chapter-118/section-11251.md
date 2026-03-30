@@ -3,9 +3,9 @@ title: "Section 11251 - Research program and plan"
 usc_title: 42
 usc_section: "11251"
 chapter: 118
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 11251"
-generated_at: "2026-03-30T06:50:48.967Z"
+generated_at: "2026-03-30T06:52:47.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 711 - Clerks and employees"
 usc_title: 28
 usc_section: "711"
 chapter: 47
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "28 U.S.C. § 711"
-generated_at: "2026-03-30T06:50:16.637Z"
+generated_at: "2026-03-30T06:52:14.482Z"
 status: "active"
 ---
 

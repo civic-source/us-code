@@ -3,9 +3,9 @@ title: "Section 8151 - Notification to Congress of IAEA Board approval of wide-a
 usc_title: 22
 usc_section: "8151"
 chapter: 88
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 8151"
-generated_at: "2026-03-30T06:50:13.573Z"
+generated_at: "2026-03-30T06:52:09.405Z"
 status: "active"
 ---
 

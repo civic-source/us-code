@@ -3,9 +3,9 @@ title: "Section 1133 - Review of other agency action"
 usc_title: 49
 usc_section: "1133"
 chapter: 11
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "49 U.S.C. § 1133"
-generated_at: "2026-03-30T06:51:06.845Z"
+generated_at: "2026-03-30T06:52:59.139Z"
 status: "active"
 ---
 

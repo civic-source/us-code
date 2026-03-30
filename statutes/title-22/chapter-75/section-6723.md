@@ -3,9 +3,9 @@ title: "Section 6723 - Authority to conduct inspections"
 usc_title: 22
 usc_section: "6723"
 chapter: 75
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 6723"
-generated_at: "2026-03-30T06:50:13.558Z"
+generated_at: "2026-03-30T06:52:09.390Z"
 status: "active"
 ---
 

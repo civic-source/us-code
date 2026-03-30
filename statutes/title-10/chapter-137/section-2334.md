@@ -3,9 +3,9 @@ title: "Section 2334 - Independent cost estimation and cost analysis"
 usc_title: 10
 usc_section: "2334"
 chapter: 137
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2334"
-generated_at: "2026-03-30T06:49:20.189Z"
+generated_at: "2026-03-30T06:51:38.317Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Director of Cost Assessment and Program Evaluation shall ensure that the cost estimation and cost analysis processes of the Department of Defense provide accurate information and realistic estimates of cost for the acquisition programs of the Department of Defense. In carrying out that responsibility, the Director shall—
   - **(1)** prescribe, by authority of the Secretary of Defense, policies and procedures for the conduct of cost estimation and cost analysis for the acquisition programs of the Department of Defense;
-  - **(2)** provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapter 144 of this title or a major automated information system program under chapter 144A of this title;
+  - **(2)** provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapter 144 of this title;
   - **(3)** issue guidance relating to the proper discussion of risk in cost estimates generally, and specifically, for the proper discussion of risk in cost estimates for major defense acquisition programs and major subprograms;
   - **(4)** issue guidance relating to full consideration of life-cycle management and sustainability costs in major defense acquisition programs and major subprograms;
   - **(5)** review all cost estimates and cost analyses conducted in connection with major defense acquisition programs and major subprograms;

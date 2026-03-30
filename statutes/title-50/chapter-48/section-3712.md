@@ -3,9 +3,9 @@ title: "Section 3712 - Use of funds for certain emergent threats or opportunitie
 usc_title: 50
 usc_section: "3712"
 chapter: 48
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "50 U.S.C. § 3712"
-generated_at: "2026-03-30T06:50:53.146Z"
+generated_at: "2026-03-30T06:52:54.543Z"
 status: "active"
 ---
 

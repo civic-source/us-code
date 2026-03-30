@@ -3,9 +3,9 @@ title: "Section 341 - Cooperative extension work by colleges"
 usc_title: 7
 usc_section: "341"
 chapter: 13
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 341"
-generated_at: "2026-03-30T06:49:23.657Z"
+generated_at: "2026-03-30T06:51:34.970Z"
 status: "active"
 ---
 

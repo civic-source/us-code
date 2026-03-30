@@ -3,9 +3,9 @@ title: "Section 148 - Powers of State with respect to milk or cream lawfully imp
 usc_title: 21
 usc_section: "148"
 chapter: 4
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "21 U.S.C. § 148"
-generated_at: "2026-03-30T06:50:02.941Z"
+generated_at: "2026-03-30T06:52:11.219Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Full amounts to be covered into treasuries of Guam, Northern
 usc_title: 48
 usc_section: "1"
 chapter: 10
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-30T06:50:51.577Z"
+generated_at: "2026-03-30T06:52:51.112Z"
 status: "active"
 ---
 

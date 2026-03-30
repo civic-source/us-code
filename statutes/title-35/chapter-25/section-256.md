@@ -3,9 +3,9 @@ title: "Section 256 - Correction of named inventor"
 usc_title: 35
 usc_section: "256"
 chapter: 25
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "35 U.S.C. § 256"
-generated_at: "2026-03-30T06:50:26.913Z"
+generated_at: "2026-03-30T06:52:21.897Z"
 status: "active"
 ---
 

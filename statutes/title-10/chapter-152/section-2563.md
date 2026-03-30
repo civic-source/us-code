@@ -3,9 +3,9 @@ title: "Section 2563 - Articles and services of industrial facilities: sale to p
 usc_title: 10
 usc_section: "2563"
 chapter: 152
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2563"
-generated_at: "2026-03-30T06:49:20.203Z"
+generated_at: "2026-03-30T06:51:38.331Z"
 status: "active"
 ---
 

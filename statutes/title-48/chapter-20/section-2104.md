@@ -3,9 +3,9 @@ title: "Section 2104 - Definitions"
 usc_title: 48
 usc_section: "2104"
 chapter: 20
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "48 U.S.C. § 2104"
-generated_at: "2026-03-30T06:50:51.588Z"
+generated_at: "2026-03-30T06:52:51.124Z"
 status: "active"
 ---
 

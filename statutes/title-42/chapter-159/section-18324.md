@@ -3,9 +3,9 @@ title: "Section 18324 - Utilization of existing workforce and assets in developm
 usc_title: 42
 usc_section: "18324"
 chapter: 159
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 18324"
-generated_at: "2026-03-30T06:50:49.056Z"
+generated_at: "2026-03-30T06:52:47.255Z"
 status: "active"
 ---
 

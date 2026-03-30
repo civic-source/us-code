@@ -3,9 +3,9 @@ title: "Section 1338 - Criminal provisions"
 usc_title: 16
 usc_section: "1338"
 chapter: 30
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "16 U.S.C. § 1338"
-generated_at: "2026-03-30T06:49:39.118Z"
+generated_at: "2026-03-30T06:52:02.967Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5252 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1661(
 usc_title: 10
 usc_section: "5252"
 chapter: 519
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 5252"
-generated_at: "2026-03-30T06:49:20.226Z"
+generated_at: "2026-03-30T06:51:38.354Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4122 - Administration of Federal Prison Industries"
 usc_title: 18
 usc_section: "4122"
 chapter: 307
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "18 U.S.C. § 4122"
-generated_at: "2026-03-30T06:49:51.811Z"
+generated_at: "2026-03-30T06:51:55.223Z"
 status: "active"
 ---
 

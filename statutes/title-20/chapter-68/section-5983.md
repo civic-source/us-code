@@ -3,9 +3,9 @@ title: "Section 5983 - Grants authorized; authorization of appropriations"
 usc_title: 20
 usc_section: "5983"
 chapter: 68
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "20 U.S.C. § 5983"
-generated_at: "2026-03-30T06:49:53.566Z"
+generated_at: "2026-03-30T06:51:58.250Z"
 status: "active"
 ---
 

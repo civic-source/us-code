@@ -3,9 +3,9 @@ title: "Section 11242 - Grants for technical assistance and training"
 usc_title: 34
 usc_section: "11242"
 chapter: 111
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "34 U.S.C. § 11242"
-generated_at: "2026-03-30T06:50:29.159Z"
+generated_at: "2026-03-30T06:52:22.716Z"
 status: "active"
 ---
 

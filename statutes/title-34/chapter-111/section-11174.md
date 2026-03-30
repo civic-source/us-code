@@ -3,9 +3,9 @@ title: "Section 11174 - Reports"
 usc_title: 34
 usc_section: "11174"
 chapter: 111
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "34 U.S.C. § 11174"
-generated_at: "2026-03-30T06:50:29.158Z"
+generated_at: "2026-03-30T06:52:22.715Z"
 status: "active"
 ---
 

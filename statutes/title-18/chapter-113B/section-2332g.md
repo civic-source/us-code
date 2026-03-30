@@ -3,9 +3,9 @@ title: "Section 2332g - Missile systems designed to destroy aircraft"
 usc_title: 18
 usc_section: "2332g"
 chapter: 113
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "18 U.S.C. § 2332g"
-generated_at: "2026-03-30T06:49:51.792Z"
+generated_at: "2026-03-30T06:51:55.204Z"
 status: "active"
 ---
 

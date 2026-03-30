@@ -3,9 +3,9 @@ title: "Section 1400F - Renewal community capital gain"
 usc_title: 26
 usc_section: "1400F"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "26 U.S.C. § 1400F"
-generated_at: "2026-03-30T06:50:23.172Z"
+generated_at: "2026-03-30T06:52:20.047Z"
 status: "active"
 ---
 

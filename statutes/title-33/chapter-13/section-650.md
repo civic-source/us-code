@@ -3,9 +3,9 @@ title: "Section 650 - Mississippi River below Rock Island; levee and bank protec
 usc_title: 33
 usc_section: "650"
 chapter: 13
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 650"
-generated_at: "2026-03-30T06:50:28.456Z"
+generated_at: "2026-03-30T06:52:24.258Z"
 status: "active"
 ---
 

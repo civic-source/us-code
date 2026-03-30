@@ -3,9 +3,9 @@ title: "Section 476 - Taking impressions of tools used for obligations or securi
 usc_title: 18
 usc_section: "476"
 chapter: 25
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "18 U.S.C. § 476"
-generated_at: "2026-03-30T06:49:51.758Z"
+generated_at: "2026-03-30T06:51:55.173Z"
 status: "active"
 ---
 

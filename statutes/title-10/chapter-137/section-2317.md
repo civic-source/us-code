@@ -3,9 +3,9 @@ title: "Section 2317 - Repealed. Pub. L. 103–160, div. A, title VIII , § 821(
 usc_title: 10
 usc_section: "2317"
 chapter: 137
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2317"
-generated_at: "2026-03-30T06:49:20.187Z"
+generated_at: "2026-03-30T06:51:38.315Z"
 status: "repealed"
 ---
 

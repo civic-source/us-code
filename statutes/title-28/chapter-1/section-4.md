@@ -3,9 +3,9 @@ title: "Section 4 - Precedence of associate justices"
 usc_title: 28
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "28 U.S.C. § 4"
-generated_at: "2026-03-30T06:50:16.624Z"
+generated_at: "2026-03-30T06:52:14.469Z"
 status: "active"
 ---
 

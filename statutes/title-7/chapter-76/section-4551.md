@@ -3,9 +3,9 @@ title: "Section 4551 - Indemnity payments to dairy farmers and manufacturers of 
 usc_title: 7
 usc_section: "4551"
 chapter: 76
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 4551"
-generated_at: "2026-03-30T06:49:23.752Z"
+generated_at: "2026-03-30T06:51:35.065Z"
 status: "active"
 ---
 

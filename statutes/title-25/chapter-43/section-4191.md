@@ -3,9 +3,9 @@ title: "Section 4191 - Authority and requirements"
 usc_title: 25
 usc_section: "4191"
 chapter: 43
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "25 U.S.C. § 4191"
-generated_at: "2026-03-30T06:49:57.882Z"
+generated_at: "2026-03-30T06:52:07.643Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3347 - Secrecy agreements used in intelligence activities"
 usc_title: 50
 usc_section: "3347"
 chapter: 45
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "50 U.S.C. § 3347"
-generated_at: "2026-03-30T06:50:53.142Z"
+generated_at: "2026-03-30T06:52:54.539Z"
 status: "active"
 ---
 

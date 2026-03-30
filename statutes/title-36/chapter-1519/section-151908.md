@@ -3,9 +3,9 @@ title: "Section 151908 - Records and inspection"
 usc_title: 36
 usc_section: "151908"
 chapter: 1519
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "36 U.S.C. § 151908"
-generated_at: "2026-03-30T06:50:31.379Z"
+generated_at: "2026-03-30T06:52:28.293Z"
 status: "active"
 ---
 

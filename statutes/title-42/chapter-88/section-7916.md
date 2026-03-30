@@ -3,9 +3,9 @@ title: "Section 7916 - Acquisition of land by Secretary; transfer of public land
 usc_title: 42
 usc_section: "7916"
 chapter: 88
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 7916"
-generated_at: "2026-03-30T06:50:48.912Z"
+generated_at: "2026-03-30T06:52:47.108Z"
 status: "active"
 ---
 

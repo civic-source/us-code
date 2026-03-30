@@ -3,9 +3,9 @@ title: "Section 1715 - Consular and Border Security Programs"
 usc_title: 8
 usc_section: "1715"
 chapter: 15
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "8 U.S.C. § 1715"
-generated_at: "2026-03-30T06:49:11.629Z"
+generated_at: "2026-03-30T06:51:28.363Z"
 status: "active"
 ---
 

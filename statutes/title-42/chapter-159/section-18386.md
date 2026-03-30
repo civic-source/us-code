@@ -3,9 +3,9 @@ title: "Section 18386 - Collaboration with ESMD and SOMD on robotic missions"
 usc_title: 42
 usc_section: "18386"
 chapter: 159
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 18386"
-generated_at: "2026-03-30T06:50:49.057Z"
+generated_at: "2026-03-30T06:52:47.256Z"
 status: "active"
 ---
 

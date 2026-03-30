@@ -3,9 +3,9 @@ title: "Section 297 - Improper and deceptive invention promotion"
 usc_title: 35
 usc_section: "297"
 chapter: 29
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "35 U.S.C. § 297"
-generated_at: "2026-03-30T06:50:26.914Z"
+generated_at: "2026-03-30T06:52:21.898Z"
 status: "active"
 ---
 

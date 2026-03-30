@@ -3,9 +3,9 @@ title: "Section 16457 - Effect on other regulations"
 usc_title: 42
 usc_section: "16457"
 chapter: 149
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 16457"
-generated_at: "2026-03-30T06:50:49.034Z"
+generated_at: "2026-03-30T06:52:47.233Z"
 status: "active"
 ---
 

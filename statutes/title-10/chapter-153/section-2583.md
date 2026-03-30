@@ -3,9 +3,9 @@ title: "Section 2583 - Military animals: transfer and adoption"
 usc_title: 10
 usc_section: "2583"
 chapter: 153
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2583"
-generated_at: "2026-03-30T06:49:20.204Z"
+generated_at: "2026-03-30T06:51:38.332Z"
 status: "active"
 ---
 

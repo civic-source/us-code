@@ -3,9 +3,9 @@ title: "Section 285p - Illegal drug traffic; loan restrictions"
 usc_title: 22
 usc_section: "285p"
 chapter: 7
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 285p"
-generated_at: "2026-03-30T06:50:13.460Z"
+generated_at: "2026-03-30T06:52:09.291Z"
 status: "active"
 ---
 

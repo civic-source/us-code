@@ -3,9 +3,9 @@ title: "Section 8919 - Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12
 usc_title: 10
 usc_section: "8919"
 chapter: 867
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 8919"
-generated_at: "2026-03-30T06:49:20.239Z"
+generated_at: "2026-03-30T06:51:38.367Z"
 status: "repealed"
 ---
 

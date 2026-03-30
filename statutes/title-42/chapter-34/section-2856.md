@@ -3,9 +3,9 @@ title: "Section 2856 - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13,
 usc_title: 42
 usc_section: "2856"
 chapter: 34
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 2856"
-generated_at: "2026-03-30T06:50:48.775Z"
+generated_at: "2026-03-30T06:52:46.974Z"
 status: "repealed"
 ---
 

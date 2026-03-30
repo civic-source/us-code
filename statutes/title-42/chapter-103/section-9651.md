@@ -3,9 +3,9 @@ title: "Section 9651 - Reports and studies"
 usc_title: 42
 usc_section: "9651"
 chapter: 103
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 9651"
-generated_at: "2026-03-30T06:50:48.938Z"
+generated_at: "2026-03-30T06:52:47.136Z"
 status: "active"
 ---
 

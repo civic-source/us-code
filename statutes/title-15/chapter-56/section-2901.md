@@ -3,9 +3,9 @@ title: "Section 2901 - Findings"
 usc_title: 15
 usc_section: "2901"
 chapter: 56
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "15 U.S.C. § 2901"
-generated_at: "2026-03-30T06:49:29.547Z"
+generated_at: "2026-03-30T06:51:51.905Z"
 status: "active"
 ---
 

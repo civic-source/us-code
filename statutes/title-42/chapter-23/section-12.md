@@ -3,9 +3,9 @@ title: "Section 12 - AVLIS"
 usc_title: 42
 usc_section: "12"
 chapter: 23
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T06:50:48.772Z"
+generated_at: "2026-03-30T06:52:46.970Z"
 status: "active"
 ---
 

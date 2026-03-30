@@ -3,9 +3,9 @@ title: "Section 12227 - Definitions"
 usc_title: 34
 usc_section: "12227"
 chapter: 121
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "34 U.S.C. § 12227"
-generated_at: "2026-03-30T06:50:29.164Z"
+generated_at: "2026-03-30T06:52:22.721Z"
 status: "active"
 ---
 

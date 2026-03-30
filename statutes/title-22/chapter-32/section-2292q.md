@@ -3,9 +3,9 @@ title: "Section 2292q - Repealed. Pub. L. 112–74, div. I, title VII , § 7034(
 usc_title: 22
 usc_section: "2292q"
 chapter: 32
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 2292q"
-generated_at: "2026-03-30T06:50:13.493Z"
+generated_at: "2026-03-30T06:52:09.325Z"
 status: "repealed"
 ---
 

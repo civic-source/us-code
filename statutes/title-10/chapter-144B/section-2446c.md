@@ -3,9 +3,9 @@ title: "Section 2446c - Requirements relating to availability of major system in
 usc_title: 10
 usc_section: "2446c"
 chapter: 144
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2446c"
-generated_at: "2026-03-30T06:49:20.197Z"
+generated_at: "2026-03-30T06:51:38.326Z"
 status: "active"
 ---
 

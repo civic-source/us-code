@@ -3,9 +3,9 @@ title: "Section 4681 - Repealed. Pub. L. 114–328, div. A, title XII , § 1253(
 usc_title: 10
 usc_section: "4681"
 chapter: 443
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 4681"
-generated_at: "2026-03-30T06:49:20.223Z"
+generated_at: "2026-03-30T06:51:38.351Z"
 status: "repealed"
 ---
 

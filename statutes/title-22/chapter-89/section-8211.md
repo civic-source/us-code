@@ -3,9 +3,9 @@ title: "Section 8211 - Democracy promotion at the Department of State"
 usc_title: 22
 usc_section: "8211"
 chapter: 89
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 8211"
-generated_at: "2026-03-30T06:50:13.574Z"
+generated_at: "2026-03-30T06:52:09.405Z"
 status: "active"
 ---
 

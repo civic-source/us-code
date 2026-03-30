@@ -3,9 +3,9 @@ title: "Section 1706 - Government performance of certain acquisition functions"
 usc_title: 10
 usc_section: "1706"
 chapter: 87
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 1706"
-generated_at: "2026-03-30T06:49:20.173Z"
+generated_at: "2026-03-30T06:51:38.300Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ status: "active"
 - **(b)** The Secretary of Defense shall develop and implement a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a).
 - **(c)** In this section:
   - **(1)** The term “major defense acquisition program” has the meaning given such term in section 2430(a) of this title .
-  - **(2)** The term “major automated information system program” has the meaning given such term in section 2445a(a) of this title .
+  - **(2)** The term “major automated information system program” has the meaning given such term in section 2445a(a) 1 1 See References in Text note below. of this title.

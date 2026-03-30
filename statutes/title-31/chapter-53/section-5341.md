@@ -3,9 +3,9 @@ title: "Section 5341 - National money laundering and related financial crimes st
 usc_title: 31
 usc_section: "5341"
 chapter: 53
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "31 U.S.C. § 5341"
-generated_at: "2026-03-30T06:50:27.670Z"
+generated_at: "2026-03-30T06:52:23.360Z"
 status: "active"
 ---
 

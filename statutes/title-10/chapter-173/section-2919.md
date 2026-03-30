@@ -3,9 +3,9 @@ title: "Section 2919 - Department of Defense participation in programs for manag
 usc_title: 10
 usc_section: "2919"
 chapter: 173
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2919"
-generated_at: "2026-03-30T06:49:20.216Z"
+generated_at: "2026-03-30T06:51:38.343Z"
 status: "active"
 ---
 

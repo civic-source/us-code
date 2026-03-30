@@ -3,9 +3,9 @@ title: "Section 3754 - Medal of honor: duplicate medal"
 usc_title: 10
 usc_section: "3754"
 chapter: 357
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 3754"
-generated_at: "2026-03-30T06:49:20.219Z"
+generated_at: "2026-03-30T06:51:38.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5452 - Environmental initiatives for Poland and Hungary"
 usc_title: 22
 usc_section: "5452"
 chapter: 63
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 5452"
-generated_at: "2026-03-30T06:50:13.545Z"
+generated_at: "2026-03-30T06:52:09.377Z"
 status: "active"
 ---
 

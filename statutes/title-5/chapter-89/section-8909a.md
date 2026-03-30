@@ -3,9 +3,9 @@ title: "Section 8909a - Postal Service Retiree Health Benefit 1 1 So in original
 usc_title: 5
 usc_section: "8909a"
 chapter: 89
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "5 U.S.C. § 8909a"
-generated_at: "2026-03-30T06:49:01.322Z"
+generated_at: "2026-03-30T06:51:25.366Z"
 status: "active"
 ---
 

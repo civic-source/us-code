@@ -3,9 +3,9 @@ title: "Section 8287d - Assistance to Federal agencies in achieving energy effic
 usc_title: 42
 usc_section: "8287d"
 chapter: 91
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 8287d"
-generated_at: "2026-03-30T06:50:48.919Z"
+generated_at: "2026-03-30T06:52:47.116Z"
 status: "active"
 ---
 

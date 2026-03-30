@@ -3,9 +3,9 @@ title: "Section 543 - Review of congressional committee structures"
 usc_title: 6
 usc_section: "543"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "6 U.S.C. § 543"
-generated_at: "2026-03-30T06:49:10.408Z"
+generated_at: "2026-03-30T06:51:42.631Z"
 status: "active"
 ---
 

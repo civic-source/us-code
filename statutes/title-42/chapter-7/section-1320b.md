@@ -3,9 +3,9 @@ title: "Section 1320b - Repealed. Pub. L. 93–647 , § 3(e)(1), Jan. 4, 1975 , 
 usc_title: 42
 usc_section: "1320b"
 chapter: 7
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 1320b"
-generated_at: "2026-03-30T06:50:48.583Z"
+generated_at: "2026-03-30T06:52:46.783Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 907 - Medical services and supplies"
 usc_title: 33
 usc_section: "907"
 chapter: 18
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 907"
-generated_at: "2026-03-30T06:50:28.465Z"
+generated_at: "2026-03-30T06:52:24.266Z"
 status: "active"
 ---
 

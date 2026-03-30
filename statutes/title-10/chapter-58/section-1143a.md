@@ -3,9 +3,9 @@ title: "Section 1143a - Encouragement of postseparation public and community ser
 usc_title: 10
 usc_section: "1143a"
 chapter: 58
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 1143a"
-generated_at: "2026-03-30T06:49:20.158Z"
+generated_at: "2026-03-30T06:51:38.285Z"
 status: "active"
 ---
 

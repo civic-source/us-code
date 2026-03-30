@@ -3,9 +3,9 @@ title: "Section 188a - Surrender of leases"
 usc_title: 30
 usc_section: "188a"
 chapter: 3
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "30 U.S.C. § 188a"
-generated_at: "2026-03-30T06:50:15.816Z"
+generated_at: "2026-03-30T06:52:13.688Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 478a - Townsites"
 usc_title: 16
 usc_section: "478a"
 chapter: 2
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "16 U.S.C. § 478a"
-generated_at: "2026-03-30T06:49:39.051Z"
+generated_at: "2026-03-30T06:52:02.896Z"
 status: "active"
 ---
 

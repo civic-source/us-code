@@ -3,9 +3,9 @@ title: "Section 407s - Administration and operation of properties; use of funds;
 usc_title: 16
 usc_section: "407s"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "16 U.S.C. § 407s"
-generated_at: "2026-03-30T06:49:38.988Z"
+generated_at: "2026-03-30T06:52:02.832Z"
 status: "active"
 ---
 

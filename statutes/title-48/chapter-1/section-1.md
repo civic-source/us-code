@@ -3,9 +3,9 @@ title: "Section 1 - Omitted"
 usc_title: 48
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-30T06:50:51.571Z"
+generated_at: "2026-03-30T06:52:51.107Z"
 status: "omitted"
 ---
 

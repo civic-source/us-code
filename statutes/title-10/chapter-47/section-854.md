@@ -3,9 +3,9 @@ title: "Section 854 - Art. 54. Record of trial"
 usc_title: 10
 usc_section: "854"
 chapter: 47
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 854"
-generated_at: "2026-03-30T06:49:20.141Z"
+generated_at: "2026-03-30T06:51:38.267Z"
 status: "active"
 ---
 

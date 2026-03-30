@@ -3,9 +3,9 @@ title: "Section 326 - Gifts"
 usc_title: 49
 usc_section: "326"
 chapter: 3
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "49 U.S.C. § 326"
-generated_at: "2026-03-30T06:51:06.843Z"
+generated_at: "2026-03-30T06:52:59.137Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 288b - Baggage and effects of officers and employees exempted fr
 usc_title: 22
 usc_section: "288b"
 chapter: 7
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 288b"
-generated_at: "2026-03-30T06:50:13.464Z"
+generated_at: "2026-03-30T06:52:09.296Z"
 status: "active"
 ---
 

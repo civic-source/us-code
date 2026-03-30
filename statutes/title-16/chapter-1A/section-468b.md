@@ -3,9 +3,9 @@ title: "Section 468b - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "468b"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "16 U.S.C. § 468b"
-generated_at: "2026-03-30T06:49:39.047Z"
+generated_at: "2026-03-30T06:52:02.893Z"
 status: "repealed"
 ---
 

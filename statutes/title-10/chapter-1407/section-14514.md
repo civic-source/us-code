@@ -3,9 +3,9 @@ title: "Section 14514 - Discharge or retirement for years of service or after se
 usc_title: 10
 usc_section: "14514"
 chapter: 1407
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 14514"
-generated_at: "2026-03-30T06:49:20.253Z"
+generated_at: "2026-03-30T06:51:38.380Z"
 status: "active"
 ---
 

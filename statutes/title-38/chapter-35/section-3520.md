@@ -3,9 +3,9 @@ title: "Section 3520 - Educational and vocational counseling"
 usc_title: 38
 usc_section: "3520"
 chapter: 35
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "38 U.S.C. § 3520"
-generated_at: "2026-03-30T06:50:33.782Z"
+generated_at: "2026-03-30T06:52:29.392Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 23 - Land use authorities"
 usc_title: 16
 usc_section: "23"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "16 U.S.C. § 23"
-generated_at: "2026-03-30T06:49:39.044Z"
+generated_at: "2026-03-30T06:52:02.888Z"
 status: "active"
 ---
 

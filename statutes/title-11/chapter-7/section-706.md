@@ -3,9 +3,9 @@ title: "Section 706 - Conversion"
 usc_title: 11
 usc_section: "706"
 chapter: 7
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "11 U.S.C. § 706"
-generated_at: "2026-03-30T06:49:26.091Z"
+generated_at: "2026-03-30T06:51:45.283Z"
 status: "active"
 ---
 

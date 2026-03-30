@@ -3,9 +3,9 @@ title: "Section 663 - Renumbered § 2902]"
 usc_title: 14
 usc_section: "663"
 chapter: 17
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "14 U.S.C. § 663"
-generated_at: "2026-03-30T06:49:26.500Z"
+generated_at: "2026-03-30T06:51:44.729Z"
 status: "renumbered"
 ---
 

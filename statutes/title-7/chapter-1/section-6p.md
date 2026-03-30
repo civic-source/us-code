@@ -3,9 +3,9 @@ title: "Section 6p - Standards and examinations"
 usc_title: 7
 usc_section: "6p"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 6p"
-generated_at: "2026-03-30T06:49:23.629Z"
+generated_at: "2026-03-30T06:51:34.943Z"
 status: "active"
 ---
 

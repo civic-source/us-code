@@ -3,9 +3,9 @@ title: "Section 387 - Relief from prescribed time limits"
 usc_title: 35
 usc_section: "387"
 chapter: 38
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "35 U.S.C. § 387"
-generated_at: "2026-03-30T06:50:26.915Z"
+generated_at: "2026-03-30T06:52:21.899Z"
 status: "active"
 ---
 

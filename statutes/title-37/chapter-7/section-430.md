@@ -3,9 +3,9 @@ title: "Section 430 - Renumbered § 490]"
 usc_title: 37
 usc_section: "430"
 chapter: 7
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "37 U.S.C. § 430"
-generated_at: "2026-03-30T06:50:31.671Z"
+generated_at: "2026-03-30T06:52:26.523Z"
 status: "renumbered"
 ---
 

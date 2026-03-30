@@ -3,9 +3,9 @@ title: "Section 1439a - Deposits in special fund; availability for all purposes 
 usc_title: 12
 usc_section: "1439a"
 chapter: 11
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "12 U.S.C. § 1439a"
-generated_at: "2026-03-30T06:49:32.416Z"
+generated_at: "2026-03-30T06:51:49.098Z"
 status: "active"
 ---
 

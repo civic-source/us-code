@@ -3,9 +3,9 @@ title: "Section 3195 - Repealed. Pub. L. 108–373, title V , § 502(a), Oct. 27
 usc_title: 42
 usc_section: "3195"
 chapter: 38
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 3195"
-generated_at: "2026-03-30T06:50:48.789Z"
+generated_at: "2026-03-30T06:52:46.988Z"
 status: "repealed"
 ---
 

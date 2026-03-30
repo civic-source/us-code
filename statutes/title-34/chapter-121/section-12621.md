@@ -3,9 +3,9 @@ title: "Section 12621 - Missing Alzheimer’s Disease Patient Alert Program"
 usc_title: 34
 usc_section: "12621"
 chapter: 121
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "34 U.S.C. § 12621"
-generated_at: "2026-03-30T06:50:29.171Z"
+generated_at: "2026-03-30T06:52:22.727Z"
 status: "active"
 ---
 

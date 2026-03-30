@@ -3,9 +3,9 @@ title: "Section 1428c - Accounting procedures"
 usc_title: 48
 usc_section: "1428c"
 chapter: 8
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "48 U.S.C. § 1428c"
-generated_at: "2026-03-30T06:50:51.576Z"
+generated_at: "2026-03-30T06:52:51.112Z"
 status: "active"
 ---
 

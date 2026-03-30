@@ -3,9 +3,9 @@ title: "Section 7853 - Release from Militia duty upon order to active duty in re
 usc_title: 10
 usc_section: "7853"
 chapter: 659
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 7853"
-generated_at: "2026-03-30T06:49:20.236Z"
+generated_at: "2026-03-30T06:51:38.364Z"
 status: "active"
 ---
 

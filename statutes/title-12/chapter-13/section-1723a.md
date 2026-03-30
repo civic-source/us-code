@@ -3,9 +3,9 @@ title: "Section 1723a - General powers of Government National Mortgage Associati
 usc_title: 12
 usc_section: "1723a"
 chapter: 13
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "12 U.S.C. § 1723a"
-generated_at: "2026-03-30T06:49:32.448Z"
+generated_at: "2026-03-30T06:51:49.127Z"
 status: "active"
 ---
 

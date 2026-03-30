@@ -3,9 +3,9 @@ title: "Section 3711 - Evidence of compliance by foreign vessels"
 usc_title: 46
 usc_section: "3711"
 chapter: 37
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "46 U.S.C. § 3711"
-generated_at: "2026-03-30T06:50:59.690Z"
+generated_at: "2026-03-30T06:52:50.361Z"
 status: "active"
 ---
 

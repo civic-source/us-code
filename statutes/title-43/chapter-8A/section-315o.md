@@ -3,9 +3,9 @@ title: "Section 315o - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 
 usc_title: 43
 usc_section: "315o"
 chapter: 8
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "43 U.S.C. § 315o"
-generated_at: "2026-03-30T06:50:36.231Z"
+generated_at: "2026-03-30T06:52:32.106Z"
 status: "repealed"
 ---
 

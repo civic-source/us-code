@@ -3,9 +3,9 @@ title: "Section 693b - Robert S. Kerr Memorial Arboretum and Nature Center in Ou
 usc_title: 16
 usc_section: "693b"
 chapter: 6
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "16 U.S.C. § 693b"
-generated_at: "2026-03-30T06:49:39.075Z"
+generated_at: "2026-03-30T06:52:02.924Z"
 status: "active"
 ---
 

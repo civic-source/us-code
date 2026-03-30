@@ -3,9 +3,9 @@ title: "Section 1214 - Investigation of prohibited personnel practices; correcti
 usc_title: 5
 usc_section: "1214"
 chapter: 12
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "5 U.S.C. § 1214"
-generated_at: "2026-03-30T06:49:01.272Z"
+generated_at: "2026-03-30T06:51:25.299Z"
 status: "active"
 ---
 
@@ -49,6 +49,7 @@ status: "active"
     - **(D)** A stay may be terminated by the Board at any time, except that a stay may not be terminated by the Board—
       - **(i)** on its own motion or on the motion of an agency, unless notice and opportunity for oral or written comments are first provided to the Special Counsel and the individual on whose behalf the stay was ordered; or
       - **(ii)** on motion of the Special Counsel, unless notice and opportunity for oral or written comments are first provided to the individual on whose behalf the stay was ordered.
+    - **(E)** If the Merit Systems Protection Board grants a stay under this subsection, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.
   - **(2)**
     - **(A)**
       - **(i)** Except as provided under clause (ii), no later than 240 days after the date of receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel shall make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken.

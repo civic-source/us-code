@@ -3,9 +3,9 @@ title: "Section 9882 - Repealed. Pub. L. 111–358, title X , § 1002(a)(5), Jan
 usc_title: 20
 usc_section: "9882"
 chapter: 78
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "20 U.S.C. § 9882"
-generated_at: "2026-03-30T06:49:53.604Z"
+generated_at: "2026-03-30T06:51:58.287Z"
 status: "repealed"
 ---
 

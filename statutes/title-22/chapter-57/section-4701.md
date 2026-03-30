@@ -3,9 +3,9 @@ title: "Section 4701 - Statement of purpose"
 usc_title: 22
 usc_section: "4701"
 chapter: 57
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 4701"
-generated_at: "2026-03-30T06:50:13.540Z"
+generated_at: "2026-03-30T06:52:09.373Z"
 status: "active"
 ---
 

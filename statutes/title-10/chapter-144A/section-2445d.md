@@ -1,15 +1,13 @@
 ---
-title: "Section 2445d - Construction with other reporting requirements"
+title: "Section 2445d - Repealed. Pub. L. 114–328, div. A, title VIII , § 846(1), Dec. 23, 2016 , 130 Stat. 2292 ]"
 usc_title: 10
 usc_section: "2445d"
 chapter: 144
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2445d"
-generated_at: "2026-03-30T06:49:20.197Z"
-status: "active"
+generated_at: "2026-03-30T06:51:38.326Z"
+status: "repealed"
 ---
 
-# § 2445d. Construction with other reporting requirements
-
-In the case of a major automated information system program covered by this chapter that is also treatable as a major defense acquisition program for which reports would be required under chapter 144 of this title, the Secretary may designate the program to be treated only as a major automated information system program covered by this chapter or to be treated only as a major defense acquisition program covered by such chapter 144.
+# [§§ 2445a to 2445d. Repealed. Pub. L. 114–328, div. A, title VIII , § 846(1), Dec. 23, 2016 , 130 Stat. 2292 ]
 

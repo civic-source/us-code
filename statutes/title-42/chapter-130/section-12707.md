@@ -3,9 +3,9 @@ title: "Section 12707 - Citizen participation"
 usc_title: 42
 usc_section: "12707"
 chapter: 130
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 12707"
-generated_at: "2026-03-30T06:50:48.995Z"
+generated_at: "2026-03-30T06:52:47.194Z"
 status: "active"
 ---
 

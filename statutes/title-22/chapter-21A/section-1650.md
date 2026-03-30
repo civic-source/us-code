@@ -3,9 +3,9 @@ title: "Section 1650 - Appointments of representatives and panel members under C
 usc_title: 22
 usc_section: "1650"
 chapter: 21
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 1650"
-generated_at: "2026-03-30T06:50:13.478Z"
+generated_at: "2026-03-30T06:52:09.310Z"
 status: "active"
 ---
 

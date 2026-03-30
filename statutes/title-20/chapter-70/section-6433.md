@@ -3,9 +3,9 @@ title: "Section 6433 - State reallocation of funds"
 usc_title: 20
 usc_section: "6433"
 chapter: 70
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "20 U.S.C. § 6433"
-generated_at: "2026-03-30T06:49:53.574Z"
+generated_at: "2026-03-30T06:51:58.258Z"
 status: "active"
 ---
 

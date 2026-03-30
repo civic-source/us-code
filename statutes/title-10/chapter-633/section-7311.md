@@ -3,9 +3,9 @@ title: "Section 7311 - Repair or maintenance of naval vessels: handling of hazar
 usc_title: 10
 usc_section: "7311"
 chapter: 633
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 7311"
-generated_at: "2026-03-30T06:49:20.233Z"
+generated_at: "2026-03-30T06:51:38.361Z"
 status: "active"
 ---
 

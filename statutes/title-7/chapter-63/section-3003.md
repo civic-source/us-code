@@ -3,9 +3,9 @@ title: "Section 3003 - Survey"
 usc_title: 7
 usc_section: "3003"
 chapter: 63
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 3003"
-generated_at: "2026-03-30T06:49:23.740Z"
+generated_at: "2026-03-30T06:51:35.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3081 - Dental Corps: Chief, functions"
 usc_title: 10
 usc_section: "3081"
 chapter: 307
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 3081"
-generated_at: "2026-03-30T06:49:20.217Z"
+generated_at: "2026-03-30T06:51:38.345Z"
 status: "active"
 ---
 

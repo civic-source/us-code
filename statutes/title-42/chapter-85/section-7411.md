@@ -3,9 +3,9 @@ title: "Section 7411 - Standards of performance for new stationary sources"
 usc_title: 42
 usc_section: "7411"
 chapter: 85
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 7411"
-generated_at: "2026-03-30T06:50:48.883Z"
+generated_at: "2026-03-30T06:52:47.080Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1365 - Senate actions"
 usc_title: 28
 usc_section: "1365"
 chapter: 85
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "28 U.S.C. § 1365"
-generated_at: "2026-03-30T06:50:16.640Z"
+generated_at: "2026-03-30T06:52:14.485Z"
 status: "active"
 ---
 

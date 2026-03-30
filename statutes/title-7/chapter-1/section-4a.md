@@ -3,9 +3,9 @@ title: "Section 4a - Transferred"
 usc_title: 7
 usc_section: "4a"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 4a"
-generated_at: "2026-03-30T06:49:23.627Z"
+generated_at: "2026-03-30T06:51:34.940Z"
 status: "transferred"
 ---
 

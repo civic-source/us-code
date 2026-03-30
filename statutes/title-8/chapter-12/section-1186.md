@@ -3,9 +3,9 @@ title: "Section 1186 - Transferred"
 usc_title: 8
 usc_section: "1186"
 chapter: 12
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "8 U.S.C. § 1186"
-generated_at: "2026-03-30T06:49:11.606Z"
+generated_at: "2026-03-30T06:51:28.340Z"
 status: "transferred"
 ---
 

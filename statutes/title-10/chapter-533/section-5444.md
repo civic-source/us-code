@@ -3,9 +3,9 @@ title: "Section 5444 - Repealed. Pub. L. 101–510, div. A, title IV , § 403(b)
 usc_title: 10
 usc_section: "5444"
 chapter: 533
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 5444"
-generated_at: "2026-03-30T06:49:20.226Z"
+generated_at: "2026-03-30T06:51:38.354Z"
 status: "repealed"
 ---
 

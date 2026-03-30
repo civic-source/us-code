@@ -3,9 +3,9 @@ title: "Section 5904 - Research, development, and demonstration program governin
 usc_title: 42
 usc_section: "5904"
 chapter: 74
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 5904"
-generated_at: "2026-03-30T06:50:48.835Z"
+generated_at: "2026-03-30T06:52:47.034Z"
 status: "active"
 ---
 

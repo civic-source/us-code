@@ -3,9 +3,9 @@ title: "Section 12572 - National service programs eligible for program assistanc
 usc_title: 42
 usc_section: "12572"
 chapter: 129
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 12572"
-generated_at: "2026-03-30T06:50:48.984Z"
+generated_at: "2026-03-30T06:52:47.182Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 348 - Effect of conversion"
 usc_title: 11
 usc_section: "348"
 chapter: 3
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "11 U.S.C. § 348"
-generated_at: "2026-03-30T06:49:26.085Z"
+generated_at: "2026-03-30T06:51:45.276Z"
 status: "active"
 ---
 

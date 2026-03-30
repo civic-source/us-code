@@ -3,9 +3,9 @@ title: "Section 900 - Repealed. Pub. L. 93–197 , § 3(b), Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "900"
 chapter: 14
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "25 U.S.C. § 900"
-generated_at: "2026-03-30T06:49:57.843Z"
+generated_at: "2026-03-30T06:52:07.602Z"
 status: "repealed"
 ---
 

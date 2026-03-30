@@ -3,9 +3,9 @@ title: "Section 1968 - Duration and termination of coverage; conversion"
 usc_title: 38
 usc_section: "1968"
 chapter: 19
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "38 U.S.C. § 1968"
-generated_at: "2026-03-30T06:50:33.770Z"
+generated_at: "2026-03-30T06:52:29.379Z"
 status: "active"
 ---
 

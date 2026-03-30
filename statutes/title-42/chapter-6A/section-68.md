@@ -3,9 +3,9 @@ title: "Section 68 - Joint applications"
 usc_title: 42
 usc_section: "68"
 chapter: 6
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 68"
-generated_at: "2026-03-30T06:50:48.510Z"
+generated_at: "2026-03-30T06:52:46.710Z"
 status: "active"
 ---
 

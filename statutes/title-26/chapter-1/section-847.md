@@ -3,9 +3,9 @@ title: "Section 847 - Special estimated tax payments"
 usc_title: 26
 usc_section: "847"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "26 U.S.C. § 847"
-generated_at: "2026-03-30T06:50:23.133Z"
+generated_at: "2026-03-30T06:52:20.009Z"
 status: "active"
 ---
 

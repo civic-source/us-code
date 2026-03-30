@@ -3,9 +3,9 @@ title: "Section 11321 - Scope of authority"
 usc_title: 49
 usc_section: "11321"
 chapter: 113
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "49 U.S.C. § 11321"
-generated_at: "2026-03-30T06:51:06.863Z"
+generated_at: "2026-03-30T06:52:59.155Z"
 status: "active"
 ---
 

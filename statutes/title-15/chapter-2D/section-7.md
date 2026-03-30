@@ -3,9 +3,9 @@ title: "Section 7 - Material misstatements"
 usc_title: 15
 usc_section: "7"
 chapter: 2
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "15 U.S.C. § 7"
-generated_at: "2026-03-30T06:49:29.446Z"
+generated_at: "2026-03-30T06:51:51.806Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 285 - Attorney fees"
 usc_title: 35
 usc_section: "285"
 chapter: 29
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "35 U.S.C. § 285"
-generated_at: "2026-03-30T06:50:26.913Z"
+generated_at: "2026-03-30T06:52:21.897Z"
 status: "active"
 ---
 

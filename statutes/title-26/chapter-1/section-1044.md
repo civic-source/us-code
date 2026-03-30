@@ -3,9 +3,9 @@ title: "Section 1044 - Rollover of publicly traded securities gain into speciali
 usc_title: 26
 usc_section: "1044"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "26 U.S.C. § 1044"
-generated_at: "2026-03-30T06:50:23.156Z"
+generated_at: "2026-03-30T06:52:20.032Z"
 status: "active"
 ---
 

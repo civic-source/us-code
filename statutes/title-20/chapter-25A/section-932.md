@@ -3,9 +3,9 @@ title: "Section 932 - Definitions"
 usc_title: 20
 usc_section: "932"
 chapter: 25
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "20 U.S.C. § 932"
-generated_at: "2026-03-30T06:49:53.476Z"
+generated_at: "2026-03-30T06:51:58.114Z"
 status: "active"
 ---
 

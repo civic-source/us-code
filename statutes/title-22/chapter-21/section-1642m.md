@@ -3,9 +3,9 @@ title: "Section 1642m - Fees of attorneys; limitation; penalty"
 usc_title: 22
 usc_section: "1642m"
 chapter: 21
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 1642m"
-generated_at: "2026-03-30T06:50:13.477Z"
+generated_at: "2026-03-30T06:52:09.309Z"
 status: "active"
 ---
 

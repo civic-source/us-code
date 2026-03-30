@@ -3,9 +3,9 @@ title: "Section 24905 - Northeast Corridor Commission; Safety Committee"
 usc_title: 49
 usc_section: "24905"
 chapter: 249
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "49 U.S.C. § 24905"
-generated_at: "2026-03-30T06:51:06.882Z"
+generated_at: "2026-03-30T06:52:59.170Z"
 status: "active"
 ---
 

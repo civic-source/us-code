@@ -3,9 +3,9 @@ title: "Section 9859f - Reports"
 usc_title: 42
 usc_section: "9859f"
 chapter: 105
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 9859f"
-generated_at: "2026-03-30T06:50:48.950Z"
+generated_at: "2026-03-30T06:52:47.148Z"
 status: "active"
 ---
 

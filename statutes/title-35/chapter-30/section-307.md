@@ -3,9 +3,9 @@ title: "Section 307 - Certificate of patentability, unpatentability, and claim c
 usc_title: 35
 usc_section: "307"
 chapter: 30
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "35 U.S.C. § 307"
-generated_at: "2026-03-30T06:50:26.914Z"
+generated_at: "2026-03-30T06:52:21.898Z"
 status: "active"
 ---
 

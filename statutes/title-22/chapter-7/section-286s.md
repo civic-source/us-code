@@ -3,9 +3,9 @@ title: "Section 286s - Consideration of basic human needs in economic adjustment
 usc_title: 22
 usc_section: "286s"
 chapter: 7
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 286s"
-generated_at: "2026-03-30T06:50:13.462Z"
+generated_at: "2026-03-30T06:52:09.294Z"
 status: "active"
 ---
 

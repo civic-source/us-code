@@ -3,9 +3,9 @@ title: "Section 1575a - Administration and disposition of lands and constructed 
 usc_title: 43
 usc_section: "1575a"
 chapter: 32
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "43 U.S.C. § 1575a"
-generated_at: "2026-03-30T06:50:36.263Z"
+generated_at: "2026-03-30T06:52:32.137Z"
 status: "active"
 ---
 

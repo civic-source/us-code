@@ -3,9 +3,9 @@ title: "Section 1204 - Immediate relative and special immigrant visas"
 usc_title: 8
 usc_section: "1204"
 chapter: 12
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "8 U.S.C. § 1204"
-generated_at: "2026-03-30T06:49:11.608Z"
+generated_at: "2026-03-30T06:51:28.343Z"
 status: "active"
 ---
 

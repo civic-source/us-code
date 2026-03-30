@@ -3,9 +3,9 @@ title: "Section 3502 - Planned public works"
 usc_title: 40
 usc_section: "3502"
 chapter: 35
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "40 U.S.C. § 3502"
-generated_at: "2026-03-30T06:50:32.268Z"
+generated_at: "2026-03-30T06:52:27.696Z"
 status: "active"
 ---
 

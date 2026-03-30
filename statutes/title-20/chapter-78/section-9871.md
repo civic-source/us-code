@@ -3,9 +3,9 @@ title: "Section 9871 - Alignment of secondary school graduation requirements wit
 usc_title: 20
 usc_section: "9871"
 chapter: 78
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "20 U.S.C. § 9871"
-generated_at: "2026-03-30T06:49:53.603Z"
+generated_at: "2026-03-30T06:51:58.287Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3107 - Individualized vocational rehabilitation plan"
 usc_title: 38
 usc_section: "3107"
 chapter: 31
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "38 U.S.C. § 3107"
-generated_at: "2026-03-30T06:50:33.778Z"
+generated_at: "2026-03-30T06:52:29.387Z"
 status: "active"
 ---
 

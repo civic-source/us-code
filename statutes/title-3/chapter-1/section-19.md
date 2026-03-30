@@ -3,9 +3,9 @@ title: "Section 19 - Vacancy in offices of both President and Vice President; of
 usc_title: 3
 usc_section: "19"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "3 U.S.C. § 19"
-generated_at: "2026-03-30T06:48:56.838Z"
+generated_at: "2026-03-30T06:51:22.109Z"
 status: "active"
 ---
 

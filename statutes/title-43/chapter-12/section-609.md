@@ -3,9 +3,9 @@ title: "Section 609 - Repealed. June 17, 1944, ch. 261 , § 2(a), 58 Stat. 279"
 usc_title: 43
 usc_section: "609"
 chapter: 12
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "43 U.S.C. § 609"
-generated_at: "2026-03-30T06:50:36.245Z"
+generated_at: "2026-03-30T06:52:32.120Z"
 status: "repealed"
 ---
 

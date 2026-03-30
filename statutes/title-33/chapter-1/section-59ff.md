@@ -3,9 +3,9 @@ title: "Section 59ff - Declaration of nonnavigability for portions of Pelican Is
 usc_title: 33
 usc_section: "59ff"
 chapter: 1
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "33 U.S.C. § 59ff"
-generated_at: "2026-03-30T06:50:28.444Z"
+generated_at: "2026-03-30T06:52:24.246Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2111 - Material accepted for deposit"
 usc_title: 44
 usc_section: "2111"
 chapter: 21
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "44 U.S.C. § 2111"
-generated_at: "2026-03-30T06:50:35.717Z"
+generated_at: "2026-03-30T06:52:31.281Z"
 status: "active"
 ---
 

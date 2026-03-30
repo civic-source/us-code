@@ -3,9 +3,9 @@ title: "Section 13475 - Fuel cells"
 usc_title: 42
 usc_section: "13475"
 chapter: 134
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "42 U.S.C. § 13475"
-generated_at: "2026-03-30T06:50:49.009Z"
+generated_at: "2026-03-30T06:52:47.207Z"
 status: "active"
 ---
 

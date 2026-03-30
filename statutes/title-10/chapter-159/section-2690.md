@@ -3,9 +3,9 @@ title: "Section 2690 - Renumbered § 2918]"
 usc_title: 10
 usc_section: "2690"
 chapter: 159
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "10 U.S.C. § 2690"
-generated_at: "2026-03-30T06:49:20.209Z"
+generated_at: "2026-03-30T06:51:38.336Z"
 status: "renumbered"
 ---
 

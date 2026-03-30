@@ -3,9 +3,9 @@ title: "Section 2662 - Programs authorized"
 usc_title: 7
 usc_section: "2662"
 chapter: 59
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 2662"
-generated_at: "2026-03-30T06:49:23.737Z"
+generated_at: "2026-03-30T06:51:35.050Z"
 status: "active"
 ---
 

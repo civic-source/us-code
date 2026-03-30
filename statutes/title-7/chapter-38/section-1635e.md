@@ -3,9 +3,9 @@ title: "Section 1635e - Mandatory reporting for live cattle"
 usc_title: 7
 usc_section: "1635e"
 chapter: 38
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "7 U.S.C. § 1635e"
-generated_at: "2026-03-30T06:49:23.696Z"
+generated_at: "2026-03-30T06:51:35.008Z"
 status: "active"
 ---
 

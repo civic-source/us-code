@@ -3,9 +3,9 @@ title: "Section 2714a - Revocation or denial of passport in case of certain unpa
 usc_title: 22
 usc_section: "2714a"
 chapter: 38
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "22 U.S.C. § 2714a"
-generated_at: "2026-03-30T06:50:13.513Z"
+generated_at: "2026-03-30T06:52:09.345Z"
 status: "active"
 ---
 

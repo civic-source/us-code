@@ -3,9 +3,9 @@ title: "Section 80502 - Organization"
 usc_title: 36
 usc_section: "80502"
 chapter: 805
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "36 U.S.C. § 80502"
-generated_at: "2026-03-30T06:50:31.372Z"
+generated_at: "2026-03-30T06:52:28.289Z"
 status: "active"
 ---
 

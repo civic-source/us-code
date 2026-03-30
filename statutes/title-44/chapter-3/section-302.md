@@ -3,9 +3,9 @@ title: "Section 302 - Deputy Director of the Government Publishing Office: appoi
 usc_title: 44
 usc_section: "302"
 chapter: 3
-current_through: "PL 115-71"
+current_through: "PL 115-73"
 classification: "44 U.S.C. § 302"
-generated_at: "2026-03-30T06:50:35.711Z"
+generated_at: "2026-03-30T06:52:31.275Z"
 status: "active"
 ---
 
