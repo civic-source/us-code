@@ -3,9 +3,9 @@ title: "Section 6455 - Program requirements for correctional facilities receivin
 usc_title: 20
 usc_section: "6455"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6455"
-generated_at: "2026-03-30T04:30:23.806Z"
+generated_at: "2026-03-30T04:32:24.047Z"
 status: "active"
 ---
 
@@ -21,6 +21,6 @@ Each correctional facility entering into an agreement with a local educational a
   - **(6)** ensure that educational programs in the correctional facility are related to assisting students to meet high academic achievement standards;
   - **(7)** to the extent possible, use technology to assist in coordinating educational programs between the correctional facility and the community school;
   - **(8)** where feasible, involve parents in efforts to improve the educational achievement of their children and prevent the further involvement of such children in delinquent activities;
-  - **(9)** coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220 [ 29 U.S.C. 2801 et seq.], and vocational and technical education funds;
+  - **(9)** coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.], and vocational and technical education funds;
   - **(10)** coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 [ 42 U.S.C. 5601 et seq.] and other comparable programs, if applicable; and
   - **(11)** if appropriate, work with local businesses to develop training, curriculum-based youth entrepreneurship education, and mentoring programs for children and youth.

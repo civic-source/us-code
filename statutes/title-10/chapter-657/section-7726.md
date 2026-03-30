@@ -3,9 +3,9 @@ title: "Section 7726 - Reconsideration of stay"
 usc_title: 10
 usc_section: "7726"
 chapter: 657
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 7726"
-generated_at: "2026-03-30T04:29:56.850Z"
+generated_at: "2026-03-30T04:32:08.697Z"
 status: "active"
 ---
 

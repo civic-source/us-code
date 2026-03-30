@@ -3,9 +3,9 @@ title: "Section 7431 - Requirements as to consultation and approval"
 usc_title: 10
 usc_section: "7431"
 chapter: 641
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 7431"
-generated_at: "2026-03-30T04:29:56.848Z"
+generated_at: "2026-03-30T04:32:08.695Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1475f - Repealed. Pub. L. 105–277, div. G , subdiv. A, title X
 usc_title: 22
 usc_section: "1475f"
 chapter: 18
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 1475f"
-generated_at: "2026-03-30T04:30:30.055Z"
+generated_at: "2026-03-30T04:32:34.594Z"
 status: "repealed"
 ---
 

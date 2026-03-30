@@ -3,16 +3,16 @@ title: "Section 4806 - Regulatory appeals process, ombudsman, and alternative di
 usc_title: 12
 usc_section: "4806"
 chapter: 48
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4806"
-generated_at: "2026-03-30T04:30:07.262Z"
+generated_at: "2026-03-30T04:32:14.437Z"
 status: "active"
 ---
 
 # § 4806. Regulatory appeals process, ombudsman, and alternative dispute resolution
 
 - **(a)** Not later than 180 days after September 23, 1994 , each appropriate Federal banking agency and the National Credit Union Administration Board shall establish an independent intra-agency appellate process. The process shall be available to review material supervisory determinations made at insured depository institutions or at insured credit unions that the agency supervises.
-- **(b)** In establishing the independent appellate process under subsection (a) of this section, each agency shall ensure that—
+- **(b)** In establishing the independent appellate process under subsection (a), each agency shall ensure that—
   - **(1)** any appeal of a material supervisory determination by an insured depository institution or insured credit union is heard and decided expeditiously; and
   - **(2)** appropriate safeguards exist for protecting the appellant from retaliation by agency examiners.
 - **(c)** Not later than 90 days after September 23, 1994 , each appropriate Federal banking agency and the National Credit Union Administration Board shall provide public notice and opportunity for comment on proposed guidelines for the establishment of an appellate process under this section.

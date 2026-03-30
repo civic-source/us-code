@@ -3,9 +3,9 @@ title: "Section 25 - Standards relating to benefits for mothers and newborns"
 usc_title: 42
 usc_section: "25"
 chapter: 6
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 25"
-generated_at: "2026-03-30T04:31:21.688Z"
+generated_at: "2026-03-30T04:33:07.739Z"
 status: "active"
 ---
 

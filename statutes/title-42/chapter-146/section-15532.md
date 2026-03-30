@@ -3,9 +3,9 @@ title: "Section 15532 - Transferred"
 usc_title: 42
 usc_section: "15532"
 chapter: 146
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 15532"
-generated_at: "2026-03-30T04:31:22.346Z"
+generated_at: "2026-03-30T04:33:08.282Z"
 status: "transferred"
 ---
 

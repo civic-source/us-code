@@ -1,0 +1,15 @@
+---
+title: "Section 1431c - Enrichment and packaging of cornmeal, grits, rice, and white flour available for distribution"
+usc_title: 7
+usc_section: "1431c"
+chapter: 35
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 1431c"
+generated_at: "2026-03-30T04:31:56.932Z"
+status: "active"
+---
+
+# § 1431c. Enrichment and packaging of cornmeal, grits, rice, and white flour available for distribution
+
+- **(a)** In order to insure the nutritional value of cornmeal, grits, rice, and white flour when such foods are made available for distribution under section 1431(3) 1 1 See References in Text note below. of this title or for distribution to schools under the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.] or any other Act, such foods shall be enriched so as to meet the standards for enriched cornmeal, enriched corn grits, enriched rice, or enriched flour, as the case may be, prescribed in regulations promulgated under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.]; and in order to protect the nutritional value and sanitary quality of such enriched foods during transportation and storage such foods shall be packaged in sanitary containers. For convenience and ease in handling, the weight of any sanitary container when filled shall not exceed fifty pounds unless a larger container is requested by the recipient agency. Nothing in this section shall prohibit the distribution of fortified parboiled rice which is substantially equal in nutritional value to that of enriched rice.
+- **(b)** The term “sanitary container” means any container of such material and construction as (1) will not permit the infiltration of foreign matter into the contents of such container under ordinary conditions of shipping and handling, and (2) will not, for a period of at least one year, disintegrate so as to contaminate the contents of the container, necessitating the washing of the contents prior to use.

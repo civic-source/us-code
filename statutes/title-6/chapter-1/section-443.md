@@ -3,9 +3,9 @@ title: "Section 443 - Risk management"
 usc_title: 6
 usc_section: "443"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "6 U.S.C. § 443"
-generated_at: "2026-03-30T04:29:52.421Z"
+generated_at: "2026-03-30T04:31:53.357Z"
 status: "active"
 ---
 

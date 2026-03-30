@@ -1,0 +1,25 @@
+---
+title: "Section 7461 - Findings and purposes"
+usc_title: 7
+usc_section: "7461"
+chapter: 101
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 7461"
+generated_at: "2026-03-30T04:31:57.026Z"
+status: "active"
+---
+
+# § 7461. Findings and purposes
+
+- **(a)** Congress finds that—
+  - **(1)** domestically produced kiwifruit are grown by many individual producers;
+  - **(2)** virtually all domestically produced kiwifruit are grown in the State of California, although there is potential for production in many other areas of the United States;
+  - **(3)** kiwifruit move in interstate and foreign commerce, and kiwifruit that do not move in channels of commerce directly burden or affect interstate commerce;
+  - **(4)** in recent years, large quantities of kiwifruit have been imported into the United States;
+  - **(5)** the maintenance and expansion of existing domestic and foreign markets for kiwifruit, and the development of additional and improved markets for kiwifruit, are vital to the welfare of kiwifruit producers and other persons concerned with producing, marketing, and processing kiwifruit;
+  - **(6)** a coordinated program of research, promotion, and consumer information regarding kiwifruit is necessary for the maintenance and development of the markets; and
+  - **(7)** kiwifruit producers, handlers, and importers are unable to implement and finance such a program without cooperative action.
+- **(b)** The purposes of this subchapter are—
+  - **(1)** to authorize the establishment of an orderly procedure for the development and financing (through an assessment) of an effective and coordinated program of research, promotion, and consumer information regarding kiwifruit;
+  - **(2)** to use the program to strengthen the position of the kiwifruit industry in domestic and foreign markets and maintain, develop, and expand markets for kiwifruit; and
+  - **(3)** to treat domestically produced kiwifruit and imported kiwifruit equitably.

@@ -3,9 +3,9 @@ title: "Section 541 - Creation of individual credits; authorized purchases"
 usc_title: 25
 usc_section: "541"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 541"
-generated_at: "2026-03-30T04:30:33.588Z"
+generated_at: "2026-03-30T04:32:32.786Z"
 status: "active"
 ---
 

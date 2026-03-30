@@ -3,9 +3,9 @@ title: "Section 1075 - Repealed. Pub. L. 108–375, div. A, title VI, § 607(a)(
 usc_title: 10
 usc_section: "1075"
 chapter: 55
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 1075"
-generated_at: "2026-03-30T04:29:56.766Z"
+generated_at: "2026-03-30T04:32:08.616Z"
 status: "repealed"
 ---
 

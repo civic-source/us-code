@@ -3,9 +3,9 @@ title: "Section 323 - Renumbered § 355]"
 usc_title: 37
 usc_section: "323"
 chapter: 5
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "37 U.S.C. § 323"
-generated_at: "2026-03-30T04:30:59.537Z"
+generated_at: "2026-03-30T04:32:48.458Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4196 - Demonstration program for guaranteed loans to finance tri
 usc_title: 25
 usc_section: "4196"
 chapter: 43
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 4196"
-generated_at: "2026-03-30T04:30:33.659Z"
+generated_at: "2026-03-30T04:32:32.859Z"
 status: "active"
 ---
 

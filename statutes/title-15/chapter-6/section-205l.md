@@ -3,9 +3,9 @@ title: "Section 205l - Implementation in acquisition of construction services an
 usc_title: 15
 usc_section: "205l"
 chapter: 6
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 205l"
-generated_at: "2026-03-30T04:30:11.312Z"
+generated_at: "2026-03-30T04:32:17.638Z"
 status: "active"
 ---
 

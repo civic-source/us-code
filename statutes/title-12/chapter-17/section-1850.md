@@ -3,9 +3,9 @@ title: "Section 1850 - Acquisition of subsidiary and tying arrangement: Federal 
 usc_title: 12
 usc_section: "1850"
 chapter: 17
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 1850"
-generated_at: "2026-03-30T04:30:07.218Z"
+generated_at: "2026-03-30T04:32:14.391Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5367 - Records"
 usc_title: 26
 usc_section: "5367"
 chapter: 51
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 5367"
-generated_at: "2026-03-30T04:30:50.456Z"
+generated_at: "2026-03-30T04:32:42.983Z"
 status: "active"
 ---
 

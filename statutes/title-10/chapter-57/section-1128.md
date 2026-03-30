@@ -3,9 +3,9 @@ title: "Section 1128 - Prisoner-of-war medal: issue"
 usc_title: 10
 usc_section: "1128"
 chapter: 57
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 1128"
-generated_at: "2026-03-30T04:29:56.770Z"
+generated_at: "2026-03-30T04:32:08.620Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1087vv - Definitions"
 usc_title: 20
 usc_section: "1087vv"
 chapter: 28
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 1087vv"
-generated_at: "2026-03-30T04:30:23.732Z"
+generated_at: "2026-03-30T04:32:23.987Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ As used in this part:
     - **(F)** cash support or any money paid on the student’s behalf, except, for dependent students, funds provided by the student’s parents;
     - **(G)** untaxed portion of pensions;
     - **(H)** payments to individual retirement accounts and Keogh accounts excluded from income for Federal income tax purposes; and
-    - **(I)** any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, or railroad retirement benefits, or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 et seq.).
+    - **(I)** any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, or railroad retirement benefits, or benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.].
   - **(2)** The term “untaxed income and benefits” shall not include—
     - **(A)** the amount of additional child tax credit claimed for Federal income tax purposes;
     - **(B)** welfare benefits, including assistance under a State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] and aid to dependent children;

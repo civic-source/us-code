@@ -3,9 +3,9 @@ title: "Section 7225e - Evaluations"
 usc_title: 20
 usc_section: "7225e"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 7225e"
-generated_at: "2026-03-30T04:30:23.823Z"
+generated_at: "2026-03-30T04:32:24.062Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 941m - General provisions"
 usc_title: 25
 usc_section: "941m"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 941m"
-generated_at: "2026-03-30T04:30:33.603Z"
+generated_at: "2026-03-30T04:32:32.802Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4616 - Supervisory actions applicable to significantly undercapi
 usc_title: 12
 usc_section: "4616"
 chapter: 46
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4616"
-generated_at: "2026-03-30T04:30:07.255Z"
+generated_at: "2026-03-30T04:32:14.430Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)**
     - **(A)** A regulated entity that is classified as significantly undercapitalized may not make any capital distribution that would result in the regulated entity being reclassified as critically undercapitalized. A regulated entity that is classified as significantly undercapitalized may not make any other capital distribution unless the Director approves the distribution.
     - **(B)** The Director may approve a capital distribution by a regulated entity classified as significantly undercapitalized only if the Director determines that the distribution (i) will enhance the ability of the regulated entity to meet the risk-based capital level and the minimum capital level for the regulated entity promptly, (ii) will contribute to the long-term financial safety and soundness of the regulated entity, or (iii) is otherwise in the public interest.
-- **(b)** In addition to any other actions taken by the Director (including actions under subsection (a) of this section), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
+- **(b)** In addition to any other actions taken by the Director (including actions under subsection (a)), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
   - **(1)** Limit any increase in, or order the reduction of, any obligations of the regulated entity, including off-balance sheet obligations.
   - **(2)** Limit or prohibit the growth of the assets of the regulated entity or require contraction of the assets of the regulated entity.
   - **(3)** Require the regulated entity to acquire new capital in a form and amount determined by the Director.

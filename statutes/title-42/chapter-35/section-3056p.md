@@ -3,9 +3,9 @@ title: "Section 3056p - Definitions and rule"
 usc_title: 42
 usc_section: "3056p"
 chapter: 35
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 3056p"
-generated_at: "2026-03-30T04:31:22.010Z"
+generated_at: "2026-03-30T04:33:08.007Z"
 status: "active"
 ---
 
@@ -44,5 +44,5 @@ status: "active"
     - **(C)** resides in a rural area;
     - **(D)** is a veteran;
     - **(E)** has low employment prospects;
-    - **(F)** has failed to find employment after utilizing services provided under title I of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 et seq.); or
+    - **(F)** has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.]; or
     - **(G)** is homeless or at risk for homelessness.

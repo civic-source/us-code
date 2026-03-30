@@ -3,9 +3,9 @@ title: "Section 323 - Stock in Federal reserve banks; method of payment"
 usc_title: 12
 usc_section: "323"
 chapter: 3
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 323"
-generated_at: "2026-03-30T04:30:07.141Z"
+generated_at: "2026-03-30T04:32:14.308Z"
 status: "active"
 ---
 

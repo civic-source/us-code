@@ -3,9 +3,9 @@ title: "Section 4614 - Capital classifications"
 usc_title: 12
 usc_section: "4614"
 chapter: 46
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4614"
-generated_at: "2026-03-30T04:30:07.255Z"
+generated_at: "2026-03-30T04:32:14.430Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
     - **(A)** as undercapitalized, if the regulated entity is otherwise classified as adequately capitalized;
     - **(B)** as significantly undercapitalized, if the regulated entity is otherwise classified as undercapitalized; and
     - **(C)** as critically undercapitalized, if the regulated entity is otherwise classified as significantly undercapitalized.
-- **(d)** The Director shall determine the capital classification of the regulated entities for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (c) of this section).
+- **(d)** The Director shall determine the capital classification of the regulated entities for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (c)).
 - **(e)**
   - **(1)** A regulated entity shall make no capital distribution if, after making the distribution, the regulated entity would be undercapitalized.
   - **(2)** Notwithstanding paragraph (1), the Director may permit a regulated entity, to the extent appropriate or applicable, to repurchase, redeem, retire, or otherwise acquire shares or ownership interests if the repurchase, redemption, retirement, or other acquisition—

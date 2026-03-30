@@ -3,9 +3,9 @@ title: "Section 485 - Examination of Federal reserve banks"
 usc_title: 12
 usc_section: "485"
 chapter: 3
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 485"
-generated_at: "2026-03-30T04:30:07.146Z"
+generated_at: "2026-03-30T04:32:14.312Z"
 status: "active"
 ---
 

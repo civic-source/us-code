@@ -3,9 +3,9 @@ title: "Section 1353 - Travel expenses and expense of transporting remains of of
 usc_title: 8
 usc_section: "1353"
 chapter: 12
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "8 U.S.C. § 1353"
-generated_at: "2026-03-30T04:29:51.391Z"
+generated_at: "2026-03-30T04:32:00.489Z"
 status: "active"
 ---
 

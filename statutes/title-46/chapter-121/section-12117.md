@@ -3,9 +3,9 @@ title: "Section 12117 - Oil spill response vessels"
 usc_title: 46
 usc_section: "12117"
 chapter: 121
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "46 U.S.C. § 12117"
-generated_at: "2026-03-30T04:31:32.750Z"
+generated_at: "2026-03-30T04:33:11.878Z"
 status: "active"
 ---
 

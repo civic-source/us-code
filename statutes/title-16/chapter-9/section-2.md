@@ -3,9 +3,9 @@ title: "Section 2 - Uniform allowance"
 usc_title: 16
 usc_section: "2"
 chapter: 9
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T04:30:21.123Z"
+generated_at: "2026-03-30T04:32:27.353Z"
 status: "active"
 ---
 

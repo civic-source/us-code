@@ -3,9 +3,9 @@ title: "Section 4112 - Criteria for approval of plan of action involving incenti
 usc_title: 12
 usc_section: "4112"
 chapter: 42
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4112"
-generated_at: "2026-03-30T04:30:07.247Z"
+generated_at: "2026-03-30T04:32:14.421Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** The Secretary may approve a plan of action for extension of the low-income affordability restrictions on any eligible low-income housing or transfer the housing to a qualified purchaser (other than a resident council) only upon finding that—
   - **(1)** due diligence has been given to ensuring that the package of incentives is, for the Federal Government, the least costly alternative that is consistent with the full achievement of the purposes of this title; 1 1 See References in Text note below.
   - **(2)** binding commitments have been made to ensure that—
-    - **(A)** the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c) of this section);
-    - **(B)** throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d) of this section, as determined by inspections conducted under such subsection by the Secretary;
+    - **(A)** the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c));
+    - **(B)** throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d), as determined by inspections conducted under such subsection by the Secretary;
     - **(C)** current tenants will not be involuntarily displaced (except for good cause);
     - **(D)** any increase in rent contributions for current tenants will be to a level that does not exceed 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 1437f(c) of title 42 , whichever is lower, except that the rent contributions of any tenants occupying the housing at the time of any increase may not be reduced by reason of this subparagraph (except with respect to tenants receiving section 8 [ 42 U.S.C. 1437f ] assistance in accordance with subparagraph (E)(ii) of this paragraph);
     - **(E)**
@@ -29,8 +29,8 @@ status: "active"
     - **(G)** future rent adjustments shall be—
       - **(i)** made by applying an annual factor (to be determined by the Secretary) to the portion of rent attributable to operating expenses for the housing and, where the owner is a priority purchaser, to the portion of rent attributable to project oversight costs; and
       - **(ii)** subject to a procedure, established by the Secretary, for owners to apply for rent increases not adequately compensated by annual adjustment under clause (i), under which the Secretary may increase rents in excess of the amount determined under clause (i) only if the Secretary determines such increases are necessary to reflect extraordinary necessary expenses of owning and maintaining the housing; and
-    - **(H)** any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d) of this section; and
-  - **(3)** no incentives under section 4109 of this title (other than to purchasers under section 4110 of this title ) may be provided until the Secretary determines the project meets housing standards under subsection (d) of this section, except that incentives under such section and other incentives designed to correct deficiencies in the project may be provided.
+    - **(H)** any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d); and
+  - **(3)** no incentives under section 4109 of this title (other than to purchasers under section 4110 of this title ) may be provided until the Secretary determines the project meets housing standards under subsection (d), except that incentives under such section and other incentives designed to correct deficiencies in the project may be provided.
 - **(b)** Any agreement to maintain the low-income affordability restrictions for the remaining useful life of the housing may be made through execution of a new regulatory agreement, modifications to the existing regulatory agreement or mortgage, or, in the case of the prepayment of a mortgage or voluntary termination of mortgage insurance, a recorded instrument.
 - **(c)**
   - **(1)** For purposes of this title, 1 the term “remaining useful life” means, with respect to eligible low-income housing, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.

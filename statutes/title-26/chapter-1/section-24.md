@@ -3,9 +3,9 @@ title: "Section 24 - Child tax credit"
 usc_title: 26
 usc_section: "24"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 24"
-generated_at: "2026-03-30T04:30:50.152Z"
+generated_at: "2026-03-30T04:32:42.792Z"
 status: "active"
 ---
 
@@ -40,5 +40,6 @@ status: "active"
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
   - **(4)** In the case of any taxable year beginning after 2008 and before 2018, paragraph (1)(B)(i) shall be applied by substituting “$3,000” for “$10,000”.
+  - **(5)** Paragraph (1) shall not apply to any taxpayer for any taxable year if such taxpayer elects to exclude any amount from gross income under section 911 for such taxable year.
 - **(e)** No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year.
 - **(f)** Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.

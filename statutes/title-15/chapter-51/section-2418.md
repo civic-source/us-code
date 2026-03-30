@@ -3,9 +3,9 @@ title: "Section 2418 - Annual report"
 usc_title: 15
 usc_section: "2418"
 chapter: 51
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 2418"
-generated_at: "2026-03-30T04:30:11.393Z"
+generated_at: "2026-03-30T04:32:17.724Z"
 status: "active"
 ---
 

@@ -1,0 +1,26 @@
+---
+title: "Section 6992 - National Appeals Division and Director"
+usc_title: 7
+usc_section: "6992"
+chapter: 98
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 6992"
+generated_at: "2026-03-30T04:31:57.018Z"
+status: "active"
+---
+
+# § 6992. National Appeals Division and Director
+
+- **(a)** The Secretary shall establish and maintain an independent National Appeals Division within the Department to carry out this subchapter.
+- **(b)**
+  - **(1)** The Division shall be headed by a Director, appointed by the Secretary from among persons who have substantial experience in practicing administrative law. In considering applicants for the position of Director, the Secretary shall consider persons currently employed outside Government as well as Government employees.
+  - **(2)** The Director shall serve for a 6-year term of office, and shall be eligible for reappointment. The Director shall not be subject to removal during the term of office, except for cause established in accordance with law.
+  - **(3)** The position of the Director may not be a position in the excepted service or filled by a noncareer appointee.
+- **(c)**
+  - **(1)**
+    - **(A)** Except as provided in paragraph (2), the Director shall be free from the direction and control of any person other than the Secretary or the Deputy Secretary of Agriculture.
+    - **(B)** The Division shall not receive administrative support (except on a reimbursable basis) from any agency other than the Office of the Secretary.
+    - **(C)** The Secretary may not delegate to any other officer or employee of the Department, other than the Deputy Secretary of Agriculture or the Director, the authority of the Secretary with respect to the Division.
+  - **(2)** The Assistant Secretary for Administration is authorized to investigate, enforce, and implement the provisions in law, Executive order, or regulations that relate in general to competitive and excepted service positions and employment within the Division, including the position of Director, and such authority may be further delegated to subordinate officials.
+- **(d)** If an officer, employee, or committee of an agency determines that a decision is not appealable and a participant appeals the decision to the Director, the Director shall determine whether the decision is adverse to the individual participant and thus appealable or is a matter of general applicability and thus not subject to appeal. The determination of the Director as to whether a decision is appealable shall be administratively final.
+- **(e)** The Director shall appoint such hearing officers and other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter.

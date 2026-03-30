@@ -3,9 +3,9 @@ title: "Section 2283 - Creation of Federal Financing Bank"
 usc_title: 12
 usc_section: "2283"
 chapter: 24
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 2283"
-generated_at: "2026-03-30T04:30:07.233Z"
+generated_at: "2026-03-30T04:32:14.406Z"
 status: "active"
 ---
 

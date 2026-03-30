@@ -3,9 +3,9 @@ title: "Section 2168 - Dissemination of unclassified information"
 usc_title: 42
 usc_section: "2168"
 chapter: 23
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 2168"
-generated_at: "2026-03-30T04:31:21.981Z"
+generated_at: "2026-03-30T04:33:07.983Z"
 status: "active"
 ---
 

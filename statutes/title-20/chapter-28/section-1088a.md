@@ -3,9 +3,9 @@ title: "Section 1088a - Clock and credit hour treatment of diploma nursing schoo
 usc_title: 20
 usc_section: "1088a"
 chapter: 28
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 1088a"
-generated_at: "2026-03-30T04:30:23.733Z"
+generated_at: "2026-03-30T04:32:23.987Z"
 status: "active"
 ---
 

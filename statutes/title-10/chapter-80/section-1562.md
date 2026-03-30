@@ -3,9 +3,9 @@ title: "Section 1562 - Database on domestic violence incidents"
 usc_title: 10
 usc_section: "1562"
 chapter: 80
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 1562"
-generated_at: "2026-03-30T04:29:56.784Z"
+generated_at: "2026-03-30T04:32:08.633Z"
 status: "active"
 ---
 

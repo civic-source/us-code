@@ -1,0 +1,16 @@
+---
+title: "Section 1373 - Reports and records"
+usc_title: 7
+usc_section: "1373"
+chapter: 35
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 1373"
+generated_at: "2026-03-30T04:31:56.930Z"
+status: "active"
+---
+
+# § 1373. Reports and records
+
+- **(a)** This subsection shall apply to warehousemen, processors, and common carriers of corn, wheat, cotton, or rice, and 1 1 So in original. The word “and” probably should not appear. all ginners of cotton, 2 2 So in original. The word “and” probably should appear. all persons engaged in the business of purchasing corn, wheat, cotton, or rice from producers. Any such person shall, from time to time on request of the Secretary, report to the Secretary such information and keep such rec­ords as the Secretary finds to be necessary to enable him to carry out the provisions of this subchapter. Such information shall be reported and such records shall be kept in accordance with forms which the Secretary shall prescribe. For the purpose of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the Secretary is authorized to examine such books, papers, rec­ords, accounts, correspondence, contracts, documents, and memoranda as he has reason to believe are relevant and are within the control of such person. Any such person failing to make any report or keep any record as required by this subsection or making any false report or record shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $500.
+- **(b)** Farmers engaged in the production of corn, wheat, cotton, or rice for market shall furnish such proof of their acreage, yield, storage, and marketing of the commodity in the form of records, marketing cards, reports, storage under seal, or otherwise as the Secretary may prescribe as necessary for the administration of this subchapter.
+- **(c)** All data reported to or acquired by the Secretary pursuant to this section shall be kept confidential by all officers and employees of the Department, and only such data so reported or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing under this subchapter. Nothing in this section shall be deemed to prohibit the issuance of general statements based upon the reports of a number of parties which statements do not identify the information furnished by any person.

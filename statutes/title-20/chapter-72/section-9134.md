@@ -3,9 +3,9 @@ title: "Section 9134 - State plans"
 usc_title: 20
 usc_section: "9134"
 chapter: 72
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 9134"
-generated_at: "2026-03-30T04:30:23.839Z"
+generated_at: "2026-03-30T04:32:24.078Z"
 status: "active"
 ---
 
@@ -27,8 +27,8 @@ status: "active"
       - **(i)** the State’s activities carried out under subsections (b)(4) and (e)(1) of section 9837 of title 42 ; and
       - **(ii)** the activities described in the State’s strategic plan in accordance with section 9837b(a)(4)(B)(i) of title 42 ;
     - **(C)** workforce development, including coordination with—
-      - **(i)** the activities carried out by the State workforce investment board under section 2821(d) of title 29 ; and
-      - **(ii)** the State’s one-stop delivery system established under section 2864(c) of title 29 ; and
+      - **(i)** the activities carried out by the State workforce development board under section 3111 of title 29 ; and
+      - **(ii)** the State’s one-stop delivery system established under section 3151(e) of title 29 ; and
     - **(D)** other Federal programs and activities that relate to library services, including economic and community development and health information;
   - **(7)** provide assurances that the State will comply with subsection (f) of this section; and
   - **(8)** provide assurances satisfactory to the Director that such agency will make such reports, in such form and containing such information, as the Director may reasonably require to carry out this subchapter and to determine the extent to which funds provided under this subchapter have been effective in carrying out the purposes of this subchapter.

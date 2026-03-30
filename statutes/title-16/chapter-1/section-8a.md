@@ -3,9 +3,9 @@ title: "Section 8a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "8a"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 8a"
-generated_at: "2026-03-30T04:30:21.013Z"
+generated_at: "2026-03-30T04:32:27.234Z"
 status: "repealed"
 ---
 

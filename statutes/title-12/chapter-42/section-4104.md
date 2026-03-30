@@ -3,9 +3,9 @@ title: "Section 4104 - Annual authorized return and preservation rents"
 usc_title: 12
 usc_section: "4104"
 chapter: 42
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4104"
-generated_at: "2026-03-30T04:30:07.246Z"
+generated_at: "2026-03-30T04:32:14.420Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Pursuant to an appraisal under section 4103 of this title , the Secretary shall determine the annual authorized return on the appraised housing, which shall be equal to 8 percent of the preservation equity (as such term is defined in section 4119(8) of this title ).
 - **(b)** The Secretary shall also determine the aggregate preservation rents under this subsection for each project appraised under section 4103 of this title . The aggregate preservation rents shall be used solely for the purposes of comparison with Federal cost limits under section 4105 of this title . Actual rents received by an owner (or a qualified purchaser) shall be determined pursuant to section 4109, 4110, or 4111 of this title. The aggregate preservation rents shall be established as follows:
   - **(1)** The aggregate preservation rent for purposes of receiving incentives pursuant to extension of the low-income affordability restrictions under section 4109 of this title shall be the gross potential income for the project, determined by the Secretary, that would be required to support the following costs:
-    - **(A)** The annual authorized return determined under subsection (a) of this section.
+    - **(A)** The annual authorized return determined under subsection (a).
     - **(B)** Debt service on any rehabilitation loan for the housing.
     - **(C)** Debt service on the federally-assisted mortgage for the housing.
     - **(D)** Project operating expenses.

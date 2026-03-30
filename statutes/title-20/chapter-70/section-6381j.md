@@ -3,16 +3,16 @@ title: "Section 6381j - Research"
 usc_title: 20
 usc_section: "6381j"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6381j"
-generated_at: "2026-03-30T04:30:23.805Z"
+generated_at: "2026-03-30T04:32:24.046Z"
 status: "active"
 ---
 
 # § 6381j. Research
 
 - **(a)** The Secretary shall carry out, through grant or contract, research into the components of successful family literacy services, in order to—
-  - **(1)** improve the quality of existing programs assisted under this subpart or other family literacy programs carried out under this chapter or the Adult Education and Family Literacy Act [ 20 U.S.C. 9201 et seq.]; and
+  - **(1)** improve the quality of existing programs assisted under this subpart or other family literacy programs carried out under this chapter or the Adult Education and Family Literacy Act [ 29 U.S.C. 3271 et seq.]; and
   - **(2)** develop models for new programs to be carried out under this chapter or the Adult Education and Family Literacy Act.
 - **(b)**
   - **(1)** From amounts reserved under section 6381a(b)(2) of this title , the National Institute for Literacy, in consultation with the Secretary, shall carry out research that—

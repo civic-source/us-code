@@ -3,9 +3,9 @@ title: "Section 4125 - Public works; prison camps"
 usc_title: 18
 usc_section: "4125"
 chapter: 307
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "18 U.S.C. § 4125"
-generated_at: "2026-03-30T04:30:14.584Z"
+generated_at: "2026-03-30T04:32:28.329Z"
 status: "active"
 ---
 

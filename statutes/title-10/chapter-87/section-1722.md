@@ -3,9 +3,9 @@ title: "Section 1722 - Career development"
 usc_title: 10
 usc_section: "1722"
 chapter: 87
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 1722"
-generated_at: "2026-03-30T04:29:56.786Z"
+generated_at: "2026-03-30T04:32:08.636Z"
 status: "active"
 ---
 

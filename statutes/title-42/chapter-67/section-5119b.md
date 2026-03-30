@@ -3,9 +3,9 @@ title: "Section 5119b - Funding for improvement of child abuse crime information
 usc_title: 42
 usc_section: "5119b"
 chapter: 67
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 5119b"
-generated_at: "2026-03-30T04:31:22.065Z"
+generated_at: "2026-03-30T04:33:08.051Z"
 status: "active"
 ---
 

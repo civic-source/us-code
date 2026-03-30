@@ -3,9 +3,9 @@ title: "Section 2183 - Dissolution; voluntary or involuntary liquidation; merger
 usc_title: 12
 usc_section: "2183"
 chapter: 23
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 2183"
-generated_at: "2026-03-30T04:30:07.224Z"
+generated_at: "2026-03-30T04:32:14.396Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 555b - Street improvements; availability of Forest Service funds
 usc_title: 16
 usc_section: "555b"
 chapter: 3
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 555b"
-generated_at: "2026-03-30T04:30:21.105Z"
+generated_at: "2026-03-30T04:32:27.334Z"
 status: "active"
 ---
 

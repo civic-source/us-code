@@ -3,9 +3,9 @@ title: "Section 2354 - Local plan for career and technical education programs"
 usc_title: 20
 usc_section: "2354"
 chapter: 44
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 2354"
-generated_at: "2026-03-30T04:30:23.777Z"
+generated_at: "2026-03-30T04:32:24.023Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(D)** ensure that students who participate in such career and technical education programs are taught to the same coherent and rigorous content aligned with challenging academic standards as are taught to all other students; and
     - **(E)** encourage career and technical education students at the secondary level to enroll in rigorous and challenging courses in core academic subjects (as defined in section 7801 of this title );
   - **(4)** describe how comprehensive professional development (including initial teacher preparation) for career and technical education, academic, guidance, and administrative personnel will be provided that promotes the integration of coherent and rigorous content aligned with challenging academic standards and relevant career and technical education (including curriculum development);
-  - **(5)** describe how parents, students, academic and career and technical education teachers, faculty, administrators, career guidance and academic counselors, representatives of tech prep consortia (if applicable), representatives of the entities participating in activities described in section 2832 of title 29 (if applicable), representatives of business (including small business) and industry, labor organizations, representatives of special populations, and other interested individuals are involved in the development, implementation, and evaluation of career and technical education programs assisted under this subchapter, and how such individuals and entities are effectively informed about, and assisted in understanding, the requirements of this subchapter, including career and technical programs of study;
+  - **(5)** describe how parents, students, academic and career and technical education teachers, faculty, administrators, career guidance and academic counselors, representatives of tech prep consortia (if applicable), representatives of the entities participating in activities described in section 3122 of title 29 (if applicable), representatives of business (including small business) and industry, labor organizations, representatives of special populations, and other interested individuals are involved in the development, implementation, and evaluation of career and technical education programs assisted under this subchapter, and how such individuals and entities are effectively informed about, and assisted in understanding, the requirements of this subchapter, including career and technical programs of study;
   - **(6)** provide assurances that the eligible recipient will provide a career and technical education program that is of such size, scope, and quality to bring about improvement in the quality of career and technical education programs;
   - **(7)** describe the process that will be used to evaluate and continuously improve the performance of the eligible recipient;
   - **(8)** describe how the eligible recipient will—

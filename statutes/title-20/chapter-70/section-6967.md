@@ -3,9 +3,9 @@ title: "Section 6967 - Uses of funds"
 usc_title: 20
 usc_section: "6967"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6967"
-generated_at: "2026-03-30T04:30:23.817Z"
+generated_at: "2026-03-30T04:32:24.056Z"
 status: "active"
 ---
 

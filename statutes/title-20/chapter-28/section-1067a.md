@@ -3,9 +3,9 @@ title: "Section 1067a - Purpose; authority"
 usc_title: 20
 usc_section: "1067a"
 chapter: 28
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 1067a"
-generated_at: "2026-03-30T04:30:23.705Z"
+generated_at: "2026-03-30T04:32:23.963Z"
 status: "active"
 ---
 

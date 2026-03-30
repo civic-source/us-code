@@ -3,9 +3,9 @@ title: "Section 4533to4535 - Repealed. Pub. L. 103–160, div. A, title VIII, §
 usc_title: 10
 usc_section: "4533to4535"
 chapter: 433
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 4533to4535"
-generated_at: "2026-03-30T04:29:56.835Z"
+generated_at: "2026-03-30T04:32:08.683Z"
 status: "repealed"
 ---
 

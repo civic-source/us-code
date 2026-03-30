@@ -3,9 +3,9 @@ title: "Section 12838 - Environmental review"
 usc_title: 42
 usc_section: "12838"
 chapter: 130
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 12838"
-generated_at: "2026-03-30T04:31:22.294Z"
+generated_at: "2026-03-30T04:33:08.242Z"
 status: "active"
 ---
 

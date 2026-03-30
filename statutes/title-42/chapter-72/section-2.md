@@ -3,9 +3,9 @@ title: "Section 2 - Eligibility"
 usc_title: 42
 usc_section: "2"
 chapter: 72
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T04:31:22.085Z"
+generated_at: "2026-03-30T04:33:08.068Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** that such shelter facility used to carry out such project shall have the capacity to accommodate not more than 20 individuals (excluding staff);
   - **(5)** to provide a number of staff sufficient to ensure that all homeless youth participating in such project receive adequate supervision and services;
   - **(6)** to provide a written transitional living plan to each youth based on an assessment of such youth’s needs, designed to help the transition from supervised participation in such project to independent living or another appropriate living arrangement;
-  - **(7)** to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Investment Act of 1998), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
+  - **(7)** to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Innovation and Opportunity Act), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
   - **(8)** to provide for the establishment of outreach programs designed to attract individuals who are eligible to participate in the project;
   - **(9)** to submit to the Secretary an annual report that includes information regarding the activities carried out with funds under this part, the achievements of the project under this part carried out by the applicant and statistical summaries describing the number and the characteristics of the homeless youth who participate in such project, and the services provided to such youth by such project, in the year for which the report is submitted;
   - **(10)** to implement such accounting procedures and fiscal control devices as the Secretary may require;

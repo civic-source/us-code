@@ -3,9 +3,9 @@ title: "Section 182 - Cadets; number, appointment, obligation to serve"
 usc_title: 14
 usc_section: "182"
 chapter: 9
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "14 U.S.C. § 182"
-generated_at: "2026-03-30T04:29:59.169Z"
+generated_at: "2026-03-30T04:32:10.953Z"
 status: "active"
 ---
 

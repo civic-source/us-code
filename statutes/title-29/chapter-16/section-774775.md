@@ -3,9 +3,9 @@ title: "Section 774775 - Repealed. Pub. L. 113–128, title IV, § 443(1) , July
 usc_title: 29
 usc_section: "774775"
 chapter: 16
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 774775"
-generated_at: "2026-03-30T04:30:39.315Z"
+generated_at: "2026-03-30T04:32:38.614Z"
 status: "repealed"
 ---
 

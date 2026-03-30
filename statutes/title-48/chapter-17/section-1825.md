@@ -3,9 +3,9 @@ title: "Section 1825 - Effective date"
 usc_title: 48
 usc_section: "1825"
 chapter: 17
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "48 U.S.C. § 1825"
-generated_at: "2026-03-30T04:31:25.303Z"
+generated_at: "2026-03-30T04:33:12.185Z"
 status: "active"
 ---
 

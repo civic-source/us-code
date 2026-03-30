@@ -3,9 +3,9 @@ title: "Section 3101 - Reports on the acquisition of major systems"
 usc_title: 50
 usc_section: "3101"
 chapter: 44
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "50 U.S.C. § 3101"
-generated_at: "2026-03-30T04:31:33.482Z"
+generated_at: "2026-03-30T04:33:12.897Z"
 status: "active"
 ---
 

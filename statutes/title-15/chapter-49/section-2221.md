@@ -3,9 +3,9 @@ title: "Section 2221 - Arson prevention grants"
 usc_title: 15
 usc_section: "2221"
 chapter: 49
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 2221"
-generated_at: "2026-03-30T04:30:11.389Z"
+generated_at: "2026-03-30T04:32:17.720Z"
 status: "active"
 ---
 

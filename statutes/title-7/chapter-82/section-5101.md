@@ -1,0 +1,46 @@
+---
+title: "Section 5101 - Qualifying States"
+usc_title: 7
+usc_section: "5101"
+chapter: 82
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 5101"
+generated_at: "2026-03-30T04:31:57.001Z"
+status: "active"
+---
+
+# § 5101. Qualifying States
+
+- **(a)** A State is a qualifying State if the Secretary of Agriculture (hereinafter in this chapter referred to as the “Secretary”) determines that the State has in effect a mediation program that meets the requirements of subsection (c).
+- **(b)** Within 15 days after the Secretary receives from the Governor of a State a description of the mediation program of the State and a statement certifying that the State has met all of the requirements of subsection (c), the Secretary shall determine whether the State is a qualifying State.
+- **(c)**
+  - **(1)**
+    - **(A)** To be certified as a qualifying State, the mediation program of the State must provide mediation services to persons described in paragraph (2) that are involved in agricultural loans (regardless of whether the loans are made or guaranteed by the Secretary or made by a third party).
+    - **(B)** The mediation program of a qualifying State may provide mediation services to persons described in paragraph (2) that are involved in one or more of the following issues under the jurisdiction of the Department of Agriculture:
+      - **(i)** Wetlands determinations.
+      - **(ii)** Compliance with farm programs, including conservation programs.
+      - **(iii)** Agricultural credit.
+      - **(iv)** Rural water loan programs.
+      - **(v)** Grazing on National Forest System land.
+      - **(vi)** Pesticides.
+      - **(vii)** Such other issues as the Secretary considers appropriate.
+  - **(2)**
+    - **(A)** Subject to subparagraph (B), the persons referred to in paragraph (1) include—
+      - **(i)** agricultural producers;
+      - **(ii)** creditors of producers (as applicable); and
+      - **(iii)** persons directly affected by actions of the Department of Agriculture.
+    - **(B)**
+      - **(i)** Subject to clause (ii) and section 5103 of this title , a person may not be compelled to participate in mediation services provided under this Act.
+      - **(ii)** Clause (i) shall not affect a State law requiring mediation before foreclosure on agricultural land or property.
+  - **(3)** The Secretary shall certify a State as a qualifying State with respect to the issues proposed to be covered by the mediation program of the State if the mediation program—
+    - **(A)** provides for mediation services that, if decisions are reached, result in mediated, mutually agreeable decisions between the parties to the mediation;
+    - **(B)** is authorized or administered by an agency of the State government or by the Governor of the State;
+    - **(C)** provides for the training of mediators;
+    - **(D)** provides that the mediation sessions shall be confidential;
+    - **(E)** ensures, in the case of agricultural loans, that all lenders and borrowers of agricultural loans receive adequate notification of the mediation program; and
+    - **(F)** ensures, in the case of other issues covered by the mediation program, that persons directly affected by actions of the Department of Agriculture receive adequate notification of the mediation program.
+- **(d)** In this section, the term “mediation services”, with respect to mediation or a request for mediation, may include all activities related to—
+  - **(1)** the intake and scheduling of cases;
+  - **(2)** the provision of background and selected information regarding the mediation process;
+  - **(3)** financial advisory and counseling services (as appropriate) performed by a person other than a State mediation program mediator; and
+  - **(4)** the mediation session.

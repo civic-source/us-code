@@ -3,9 +3,9 @@ title: "Section 763 - General criteria to ensure a pro-competitive privatization
 usc_title: 47
 usc_section: "763"
 chapter: 6
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "47 U.S.C. § 763"
-generated_at: "2026-03-30T04:31:25.714Z"
+generated_at: "2026-03-30T04:33:11.108Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3919 - Special consideration of underrepresented and underserved
 usc_title: 20
 usc_section: "3919"
 chapter: 52
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 3919"
-generated_at: "2026-03-30T04:30:23.784Z"
+generated_at: "2026-03-30T04:32:24.028Z"
 status: "active"
 ---
 

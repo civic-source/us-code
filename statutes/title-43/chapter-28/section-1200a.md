@@ -3,9 +3,9 @@ title: "Section 1200a - Preparation of appraisal schedule in determining just co
 usc_title: 43
 usc_section: "1200a"
 chapter: 28
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "43 U.S.C. § 1200a"
-generated_at: "2026-03-30T04:31:04.657Z"
+generated_at: "2026-03-30T04:32:53.568Z"
 status: "active"
 ---
 

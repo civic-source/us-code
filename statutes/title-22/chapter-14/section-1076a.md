@@ -3,9 +3,9 @@ title: "Section 1076a - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 
 usc_title: 22
 usc_section: "1076a"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 1076a"
-generated_at: "2026-03-30T04:30:30.051Z"
+generated_at: "2026-03-30T04:32:34.591Z"
 status: "repealed"
 ---
 

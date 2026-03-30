@@ -3,9 +3,9 @@ title: "Section 40501 - Biomedical research joint working group"
 usc_title: 51
 usc_section: "40501"
 chapter: 405
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "51 U.S.C. § 40501"
-generated_at: "2026-03-30T04:31:36.188Z"
+generated_at: "2026-03-30T04:33:16.354Z"
 status: "active"
 ---
 

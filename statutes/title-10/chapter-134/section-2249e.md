@@ -3,9 +3,9 @@ title: "Section 2249e - Prohibition on use of funds for assistance to units of f
 usc_title: 10
 usc_section: "2249e"
 chapter: 134
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 2249e"
-generated_at: "2026-03-30T04:29:56.797Z"
+generated_at: "2026-03-30T04:32:08.646Z"
 status: "active"
 ---
 

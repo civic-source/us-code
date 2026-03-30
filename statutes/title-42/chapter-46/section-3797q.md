@@ -3,9 +3,9 @@ title: "Section 3797q - Grant authority"
 usc_title: 42
 usc_section: "3797q"
 chapter: 46
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 3797q"
-generated_at: "2026-03-30T04:31:22.035Z"
+generated_at: "2026-03-30T04:33:08.027Z"
 status: "active"
 ---
 

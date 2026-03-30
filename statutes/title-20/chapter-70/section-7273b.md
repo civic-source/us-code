@@ -3,9 +3,9 @@ title: "Section 7273b - Applications"
 usc_title: 20
 usc_section: "7273b"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 7273b"
-generated_at: "2026-03-30T04:30:23.827Z"
+generated_at: "2026-03-30T04:32:24.065Z"
 status: "active"
 ---
 

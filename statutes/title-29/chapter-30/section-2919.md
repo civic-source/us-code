@@ -1,50 +1,13 @@
 ---
-title: "Section 2919 - Authorization of appropriations"
+title: "Section 2919 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705"
 usc_title: 29
 usc_section: "2919"
 chapter: 30
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 2919"
-generated_at: "2026-03-30T04:30:39.361Z"
-status: "active"
+generated_at: "2026-03-30T04:32:38.650Z"
+status: "repealed"
 ---
 
-# § 2919. Authorization of appropriations
+# § 2919. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705
 
-- **(a)**
-  - **(1)** Subject to paragraph (2), there are authorized to be appropriated to carry out sections 2911 through 2913 of this title such sums as may be necessary for each of the fiscal years 1999 through 2003.
-  - **(2)** Of the amount appropriated pursuant to the authorization of appropriations under paragraph (1) for a fiscal year, the Secretary shall—
-    - **(A)** reserve not less than $55,000,000 for carrying out section 2911 of this title ;
-    - **(B)** reserve not less than $70,000,000 for carrying out section 2912 of this title ; and
-    - **(C)** reserve not less than $7,300,000 for carrying out section 2913 of this title .
-- **(b)**
-  - **(1)** Subject to paragraph (2), there are authorized to be appropriated to carry out sections 2915 through 2917 of this title and section 9273 of title 20 such sums as may be necessary for each of the fiscal years 1999 through 2003.
-  - **(2)** Of the amount appropriated pursuant to the authorization of appropriations under paragraph (1) for a fiscal year, the Secretary shall—
-    - **(A)**
-      - **(i)** for fiscal year 1999, reserve up to 40 percent for carrying out section 2915 of this title (other than subsection (b) of such section);
-      - **(ii)** for fiscal year 2000, reserve up to 25 percent for carrying out section 2915 of this title (other than subsection (b) of such section); and
-      - **(iii)** for each of the fiscal years 2001 through 2003, reserve up to 20 percent for carrying out section 2915 of this title (other than subsection (b) of such section);
-    - **(B)**
-      - **(i)** for fiscal year 1999, reserve not less than 50 percent for carrying out section 2916 of this title ; and
-      - **(ii)** for each of the fiscal years 2000 through 2003, reserve not less than 45 percent for carrying out section 2916 of this title ;
-    - **(C)**
-      - **(i)** for fiscal year 1999, reserve not less than 10 percent for carrying out section 2917 of this title ; and
-      - **(ii)** for each of the fiscal years 2000 through 2003, reserve not less than 10 percent for carrying out section 2917 of this title ; and
-    - **(D)**
-      - **(i)** for fiscal year 1999, reserve no funds for carrying out section 9273 of title 20 ;
-      - **(ii)** for fiscal year 2000, reserve up to 20 percent for carrying out section 9273 of title 20 ; and
-      - **(iii)** for each of the fiscal years 2001 through 2003, reserve up to 25 percent for carrying out section 9273 of title 20 .
-- **(c)**
-  - **(1)** There are authorized to be appropriated and appropriated—
-    - **(A)** to carry out subsection (a)(4)(A) of section 2918 of this title —
-      - **(i)** $10,000,000 for fiscal year 2002; and
-      - **(ii)** $150,000,000 for the period of fiscal years 2009 through 2010; and
-    - **(B)** to carry out subsection (a)(4)(B) of section 2918 of this title , $50,000,000 for fiscal year 2002.
-  - **(2)** There are authorized to be appropriated—
-    - **(A)** to carry out subsection (a)(4)(A) of section 2918 of this title , $60,000,000 for each of fiscal years 2003 through 2007; and
-    - **(B)** to carry out subsection (a)(4)(B) of section 2918 of this title —
-      - **(i)** $100,000,000 for fiscal year 2003; and
-      - **(ii)** $50,000,000 for fiscal year 2004.
-  - **(3)** Funds appropriated pursuant to—
-    - **(A)** paragraphs (1)(A) and (2)(A) for each fiscal year shall, notwithstanding section 2939(g) of this title , remain available for obligation during the pendency of any outstanding claim under the Trade Act of 1974 [ 19 U.S.C. 2101 et seq.], as amended by the Trade Act of 2002; and
-    - **(B)** paragraph 1 1 So in original. Probably should be “paragraphs”. (1)(B) and (2)(B), for each fiscal year shall, notwithstanding section 2939(g) of this title , remain available during the period that begins on August 6, 2002 , and ends on September 30, 2004 .

@@ -3,9 +3,9 @@ title: "Section 647 - Grant extended to desert lands within part of former Ute I
 usc_title: 43
 usc_section: "647"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "43 U.S.C. § 647"
-generated_at: "2026-03-30T04:31:04.645Z"
+generated_at: "2026-03-30T04:32:53.560Z"
 status: "active"
 ---
 

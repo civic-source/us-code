@@ -3,9 +3,9 @@ title: "Section 1613 - Five-year limited eligibility of qualified aliens for Fed
 usc_title: 8
 usc_section: "1613"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "8 U.S.C. § 1613"
-generated_at: "2026-03-30T04:29:51.401Z"
+generated_at: "2026-03-30T04:32:00.499Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(H)** Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq., 1101 et seq., 1134 et seq., 1135 et seq., 42 U.S.C. 2751 et seq.], and titles III, VII, and VIII of the Public Health Service Act [ 42 U.S.C. 241 et seq., 292 et seq., 296 et seq.].
     - **(I)** Means-tested programs under the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.].
     - **(J)** Benefits under the Head Start Act [ 42 U.S.C. 9831 et seq.].
-    - **(K)** Benefits under the 3 3 So in original. The word “the” probably should not appear. title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.].
+    - **(K)** Benefits under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.].
     - **(L)** Assistance or benefits provided to individuals under the age of 18 under the Food Stamp Act of 1977 1 ( 7 U.S.C. 2011 et seq.).
 - **(d)** Notwithstanding any other provision of law, the limitations under section 1611(a) of this title and subsection (a) of this section shall not apply to—
   - **(1)** an individual described in section 1612(a)(2)(G) of this title , but only with respect to the programs specified in subsections (a)(3) and (b)(3)(C) of section 1612 of this title ; or

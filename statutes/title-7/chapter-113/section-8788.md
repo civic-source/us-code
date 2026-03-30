@@ -1,0 +1,16 @@
+---
+title: "Section 8788 - Durum wheat quality program"
+usc_title: 7
+usc_section: "8788"
+chapter: 113
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 8788"
+generated_at: "2026-03-30T04:31:57.046Z"
+status: "active"
+---
+
+# § 8788. Durum wheat quality program
+
+- **(a)** Subject to the availability of funds under subsection (c), the Secretary shall provide compensation to producers of durum wheat in an amount not to exceed 50 percent of the actual cost of fungicides applied to a crop of durum wheat of the producers to control Fusarium head blight (wheat scab) on acres certified to have been planted to Durum wheat in a crop year.
+- **(b)** If the total amount of funds appropriated for a fiscal year under subsection (c) are insufficient to fulfill all eligible requests for compensation under this section, the Secretary shall prorate the compensation payments in a manner determined by the Secretary to be equitable.
+- **(c)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2009 through 2012.

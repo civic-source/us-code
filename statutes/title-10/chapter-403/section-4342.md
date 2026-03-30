@@ -3,9 +3,9 @@ title: "Section 4342 - Cadets: appointment; numbers, territorial distribution"
 usc_title: 10
 usc_section: "4342"
 chapter: 403
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 4342"
-generated_at: "2026-03-30T04:29:56.834Z"
+generated_at: "2026-03-30T04:32:08.682Z"
 status: "active"
 ---
 

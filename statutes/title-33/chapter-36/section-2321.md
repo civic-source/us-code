@@ -3,9 +3,9 @@ title: "Section 2321 - Operation and maintenance of hydroelectric facilities"
 usc_title: 33
 usc_section: "2321"
 chapter: 36
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "33 U.S.C. § 2321"
-generated_at: "2026-03-30T04:30:55.697Z"
+generated_at: "2026-03-30T04:32:46.467Z"
 status: "active"
 ---
 

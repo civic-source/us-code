@@ -3,9 +3,9 @@ title: "Section 3349 - Violations in obtaining and performing appraisals in fede
 usc_title: 12
 usc_section: "3349"
 chapter: 34
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 3349"
-generated_at: "2026-03-30T04:30:07.240Z"
+generated_at: "2026-03-30T04:32:14.414Z"
 status: "active"
 ---
 
@@ -14,5 +14,5 @@ status: "active"
 - **(a)** Except as authorized by the Appraisal Subcommittee in exercising its waiver authority pursuant to section 3348(b) of this title , it shall be a violation of this section—
   - **(1)** for a financial institution to seek, obtain, or give money or any other thing of value in exchange for the performance of an appraisal by a person who the institution knows is not a State certified or licensed appraiser in connection with a federally related transaction; and
   - **(2)** for the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Resolution Trust Corporation to knowingly contract for the performance of any appraisal by a person who is not a State certified or licensed appraiser in connection with a real estate related financial transaction defined in section 3350(5) of this title to which such association or corporation is a party.
-- **(b)** A financial institution that violates subsection (a)(1) of this section shall be subject to civil penalties under section 1818(i)(2) of this title or section 1786(k)(2) of this title , as appropriate.
+- **(b)** A financial institution that violates subsection (a)(1) shall be subject to civil penalties under section 1818(i)(2) of this title or section 1786(k)(2) of this title , as appropriate.
 - **(c)** A proceeding with respect to a violation of this section shall be an administrative proceeding which may be conducted by a Federal financial institutions regulatory agency in accordance with the procedures set forth in subchapter II of chapter 5 of title 5.

@@ -3,9 +3,9 @@ title: "Section 521 - Repealed. Pub. L. 88–665, title VI, § 602 , Oct. 16, 19
 usc_title: 20
 usc_section: "521"
 chapter: 17
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 521"
-generated_at: "2026-03-30T04:30:23.690Z"
+generated_at: "2026-03-30T04:32:23.950Z"
 status: "repealed"
 ---
 

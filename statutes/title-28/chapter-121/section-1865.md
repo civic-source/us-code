@@ -3,9 +3,9 @@ title: "Section 1865 - Qualifications for jury service"
 usc_title: 28
 usc_section: "1865"
 chapter: 121
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "28 U.S.C. § 1865"
-generated_at: "2026-03-30T04:30:36.460Z"
+generated_at: "2026-03-30T04:32:37.782Z"
 status: "active"
 ---
 

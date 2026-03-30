@@ -3,9 +3,9 @@ title: "Section 373 - Training and advising civilian law enforcement officials"
 usc_title: 10
 usc_section: "373"
 chapter: 18
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 373"
-generated_at: "2026-03-30T04:29:56.741Z"
+generated_at: "2026-03-30T04:32:08.592Z"
 status: "active"
 ---
 

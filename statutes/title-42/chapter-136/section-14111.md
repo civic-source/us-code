@@ -3,9 +3,9 @@ title: "Section 14111 - Definitions"
 usc_title: 42
 usc_section: "14111"
 chapter: 136
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 14111"
-generated_at: "2026-03-30T04:31:22.329Z"
+generated_at: "2026-03-30T04:33:08.268Z"
 status: "active"
 ---
 

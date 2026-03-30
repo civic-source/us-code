@@ -3,16 +3,16 @@ title: "Section 3713 - Transfer of title and possession"
 usc_title: 12
 usc_section: "3713"
 chapter: 38
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 3713"
-generated_at: "2026-03-30T04:30:07.243Z"
+generated_at: "2026-03-30T04:32:14.417Z"
 status: "active"
 ---
 
 # § 3713. Transfer of title and possession
 
 - **(a)** The foreclosure commissioner shall deliver a deed or deeds to the purchaser or purchasers and obtain the balance of the purchase price in accordance with the terms of sale provided in the notice of default and foreclosure sale.
-- **(b)** Subject to subsection (c) of this section, the foreclosure deed or deeds shall convey all of the right, title, and interest in the security property covered by the deed which the Secretary as holder, the foreclosure commissioner, the mortgagor, and any other persons claiming by, through, or under them, had on the date of execution of the mortgage, together with all of the right, title, and interest thereafter acquired by any of them in such property up to the hour of sale, and no judicial proceeding shall be required ancillary or supplementary to the procedures provided in this chapter to assure the validity of the conveyance or confirmation of such conveyance.
+- **(b)** Subject to subsection (c), the foreclosure deed or deeds shall convey all of the right, title, and interest in the security property covered by the deed which the Secretary as holder, the foreclosure commissioner, the mortgagor, and any other persons claiming by, through, or under them, had on the date of execution of the mortgage, together with all of the right, title, and interest thereafter acquired by any of them in such property up to the hour of sale, and no judicial proceeding shall be required ancillary or supplementary to the procedures provided in this chapter to assure the validity of the conveyance or confirmation of such conveyance.
 - **(c)** A purchaser at a foreclosure sale held pursuant to this chapter shall be entitled to possession upon passage of title to the mortgaged property, subject to an interest or interests senior to that of the mortgage and subject to the terms of any lease of a residential tenant for the remaining term of the lease or for one year, whichever period is shorter. Any other person remaining in possession after the sale and any residential tenant remaining in possession after the applicable period shall be deemed a tenant at sufferance.
 - **(d)** There shall be no right of redemption, or right of possession based upon right of redemption, in the mortgagor or others subsequent to a foreclosure pursuant to this chapter.
 - **(e)** When conveyance is made to the Secretary, no tax shall be imposed or collected with respect to the foreclosure commissioner’s deed, whether as a tax upon the instrument or upon the privilege of conveying or transferring title to the property. Failure to collect or pay a tax of the type and under the circumstances stated in the preceding sentence shall not be grounds for refusing to record such a deed, for failing to recognize such recordation as imparting notice or for denying the enforcement of such a deed and its provisions in any State or Federal court.

@@ -3,9 +3,9 @@ title: "Section 889890 - Repealed. June 21, 1955, ch. 172, § 5(5) , 69 Stat. 17
 usc_title: 33
 usc_section: "889890"
 chapter: 17
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "33 U.S.C. § 889890"
-generated_at: "2026-03-30T04:30:55.634Z"
+generated_at: "2026-03-30T04:32:46.430Z"
 status: "repealed"
 ---
 

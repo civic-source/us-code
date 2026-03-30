@@ -3,9 +3,9 @@ title: "Section 3174 - Use of funds for employment and training activities"
 usc_title: 29
 usc_section: "3174"
 chapter: 32
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 3174"
-generated_at: "2026-03-30T04:30:39.371Z"
+generated_at: "2026-03-30T04:32:38.659Z"
 status: "active"
 ---
 
@@ -218,7 +218,7 @@ status: "active"
     - **(B)** The training program for incumbent workers carried out under this paragraph shall be carried out by the local board in conjunction with the employers or groups of employers of such workers (which may include employers in partnership with other entities for the purposes of delivering training) for the purpose of assisting such workers in obtaining the skills necessary to retain employment or avert layoffs.
     - **(C)** Employers participating in the program carried out under this paragraph shall be required to pay for the non-Federal share of the cost of providing the training to incumbent workers of the employers.
     - **(D)**
-      - **(i)** Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employees participating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities.
+      - **(i)** Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employees participating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities. 1 1 So in original. A closing parenthesis probably should precede the period.
       - **(ii)** The non-Federal share shall not be less than—
         - **(I)** 10 percent of the cost, for employers with not more than 50 employees;
         - **(II)** 25 percent of the cost, for employers with more than 50 employees but not more than 100 employees; and

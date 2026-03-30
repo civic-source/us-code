@@ -3,9 +3,9 @@ title: "Section 2151s - Repealed. Pub. L. 101–513, title V, § 562(d)(5) , Nov
 usc_title: 22
 usc_section: "2151s"
 chapter: 32
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 2151s"
-generated_at: "2026-03-30T04:30:30.066Z"
+generated_at: "2026-03-30T04:32:34.605Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2365 - Global Research Watch Program"
 usc_title: 10
 usc_section: "2365"
 chapter: 139
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 2365"
-generated_at: "2026-03-30T04:29:56.806Z"
+generated_at: "2026-03-30T04:32:08.655Z"
 status: "active"
 ---
 

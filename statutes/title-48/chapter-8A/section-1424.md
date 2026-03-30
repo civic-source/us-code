@@ -3,9 +3,9 @@ title: "Section 1424 - District Court of Guam; local courts; jurisdiction"
 usc_title: 48
 usc_section: "1424"
 chapter: 8
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "48 U.S.C. § 1424"
-generated_at: "2026-03-30T04:31:25.296Z"
+generated_at: "2026-03-30T04:33:12.179Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
   - **(2)** The Supreme Court of Guam may, by rules of such court, create divisions of the Superior Court of Guam and other local courts of Guam.
   - **(3)** The courts of record for Guam shall be the District Court of Guam, the Supreme Court of Guam, the Superior Court of Guam (except the Traffic and Small Claims divisions of the Superior Court of Guam) and any other local courts or divisions of local courts that the Supreme Court of Guam shall designate.
 - **(b)** The District Court of Guam shall have the jurisdiction of a district court of the United States, including, but not limited to, the diversity jurisdiction provided for in section 1332 of title 28 , and that of a bankruptcy court of the United States.
-- **(c)** In addition to the jurisdiction described in subsection (b) of this section, the District Court of Guam shall have original jurisdiction in all other causes in Guam, jurisdiction over which is not then vested by the legislature in another court or other courts established by it. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court established by the laws of Guam for the purpose of determining the requirements of indictment by grand jury or trial by jury.
+- **(c)** In addition to the jurisdiction described in subsection (b), the District Court of Guam shall have original jurisdiction in all other causes in Guam, jurisdiction over which is not then vested by the legislature in another court or other courts established by it. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court established by the laws of Guam for the purpose of determining the requirements of indictment by grand jury or trial by jury.

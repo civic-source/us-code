@@ -3,9 +3,9 @@ title: "Section 7105 - Protection and assistance for victims of trafficking"
 usc_title: 22
 usc_section: "7105"
 chapter: 78
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 7105"
-generated_at: "2026-03-30T04:30:30.144Z"
+generated_at: "2026-03-30T04:32:34.678Z"
 status: "active"
 ---
 

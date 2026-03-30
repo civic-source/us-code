@@ -3,9 +3,9 @@ title: "Section 1294 - Apportionment, credit, and disposition of funds"
 usc_title: 25
 usc_section: "1294"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 1294"
-generated_at: "2026-03-30T04:30:33.608Z"
+generated_at: "2026-03-30T04:32:32.807Z"
 status: "active"
 ---
 

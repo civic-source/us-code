@@ -3,9 +3,9 @@ title: "Section 40302 - Filing requirements"
 usc_title: 46
 usc_section: "40302"
 chapter: 403
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "46 U.S.C. § 40302"
-generated_at: "2026-03-30T04:31:32.754Z"
+generated_at: "2026-03-30T04:33:11.882Z"
 status: "active"
 ---
 

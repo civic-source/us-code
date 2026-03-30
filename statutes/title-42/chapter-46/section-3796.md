@@ -3,9 +3,9 @@ title: "Section 3796 - Payment of death benefits"
 usc_title: 42
 usc_section: "3796"
 chapter: 46
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 3796"
-generated_at: "2026-03-30T04:31:22.028Z"
+generated_at: "2026-03-30T04:33:08.021Z"
 status: "active"
 ---
 

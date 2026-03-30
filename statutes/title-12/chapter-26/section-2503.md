@@ -3,9 +3,9 @@ title: "Section 2503 - State entitlement to escheat or custody"
 usc_title: 12
 usc_section: "2503"
 chapter: 26
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 2503"
-generated_at: "2026-03-30T04:30:07.233Z"
+generated_at: "2026-03-30T04:32:14.407Z"
 status: "active"
 ---
 

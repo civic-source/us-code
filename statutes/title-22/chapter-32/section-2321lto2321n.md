@@ -3,9 +3,9 @@ title: "Section 2321lto2321n - Repealed. Pub. L. 104–164, title I, § 104(b)(2
 usc_title: 22
 usc_section: "2321lto2321n"
 chapter: 32
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 2321lto2321n"
-generated_at: "2026-03-30T04:30:30.077Z"
+generated_at: "2026-03-30T04:32:34.615Z"
 status: "repealed"
 ---
 

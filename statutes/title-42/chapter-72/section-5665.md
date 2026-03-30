@@ -3,9 +3,9 @@ title: "Section 5665 - Grants and projects"
 usc_title: 42
 usc_section: "5665"
 chapter: 72
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 5665"
-generated_at: "2026-03-30T04:31:22.085Z"
+generated_at: "2026-03-30T04:33:08.067Z"
 status: "active"
 ---
 

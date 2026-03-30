@@ -3,9 +3,9 @@ title: "Section 1356 - Disposition of moneys collected under the provisions of t
 usc_title: 8
 usc_section: "1356"
 chapter: 12
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "8 U.S.C. § 1356"
-generated_at: "2026-03-30T04:29:51.391Z"
+generated_at: "2026-03-30T04:32:00.489Z"
 status: "active"
 ---
 
@@ -86,7 +86,7 @@ status: "active"
   - **(6)** For fiscal year 1993 only, the Attorney General may transfer up to $1,000,000 from the Immigration User Fee Account to the Fund for initial expenses necessary to enhance collection efforts: Provided , That any such transfers shall be refunded from the Fund back to the Immigration User Fee Account by December 31, 1993 .
 - **(s)**
   - **(1)** There is established in the general fund of the Treasury a separate account, which shall be known as the “H–1B Nonimmigrant Petitioner Account”. Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the account all fees collected under paragraphs (9) and (11) of section 1184(c) of this title .
-  - **(2)** 50 percent of amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for demonstration programs and projects described in section 2916a of title 29 .
+  - **(2)** 50 percent of amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for demonstration programs and projects described in section 3224a of title 29 .
   - **(3)** 30 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended for scholarships described in section 1869c of title 42 for low-income students enrolled in a program of study leading to a degree in mathematics, engineering, or computer science.
   - **(4)**
     - **(A)** 10 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended to carry out a direct or matching grant program to support private-public partnerships in K–12 education.

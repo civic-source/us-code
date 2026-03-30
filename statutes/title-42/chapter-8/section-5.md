@@ -3,9 +3,9 @@ title: "Section 5 - Application"
 usc_title: 42
 usc_section: "5"
 chapter: 8
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T04:31:21.916Z"
+generated_at: "2026-03-30T04:33:07.932Z"
 status: "active"
 ---
 

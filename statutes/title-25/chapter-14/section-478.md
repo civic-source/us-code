@@ -3,9 +3,9 @@ title: "Section 478 - Acceptance optional"
 usc_title: 25
 usc_section: "478"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 478"
-generated_at: "2026-03-30T04:30:33.586Z"
+generated_at: "2026-03-30T04:32:32.785Z"
 status: "active"
 ---
 

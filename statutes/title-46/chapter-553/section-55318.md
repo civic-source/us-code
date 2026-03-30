@@ -3,9 +3,9 @@ title: "Section 55318 - Effect on other law"
 usc_title: 46
 usc_section: "55318"
 chapter: 553
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "46 U.S.C. § 55318"
-generated_at: "2026-03-30T04:31:32.765Z"
+generated_at: "2026-03-30T04:33:11.891Z"
 status: "active"
 ---
 

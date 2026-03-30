@@ -3,9 +3,9 @@ title: "Section 1939to1941 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2),
 usc_title: 22
 usc_section: "1939to1941"
 chapter: 24
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 1939to1941"
-generated_at: "2026-03-30T04:30:30.060Z"
+generated_at: "2026-03-30T04:32:34.599Z"
 status: "repealed"
 ---
 

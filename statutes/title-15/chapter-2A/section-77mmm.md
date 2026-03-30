@@ -3,9 +3,9 @@ title: "Section 77mmm - Reports by indenture trustee"
 usc_title: 15
 usc_section: "77mmm"
 chapter: 2
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 77mmm"
-generated_at: "2026-03-30T04:30:11.277Z"
+generated_at: "2026-03-30T04:32:17.601Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(8)** any action taken by it in the performance of its duties under the indenture which it has not previously reported and which in its opinion materially affects the indenture securities or the trust estate, except action in respect of a default, notice of which has been or is to be withheld by it in accordance with an indenture provision authorized by subsection (b) of section 77 ooo of this title.
 - **(b)** The indenture trustee shall transmit to the indenture security holders as hereinafter provided, within the times hereinafter specified, a brief report with respect to—
   - **(1)** the release, or release and substitution, of property subject to the lien of the indenture (and the consideration therefor, if any) unless the fair value of such property, as set forth in the certificate or opinion required by paragraph (1) of subsection (d) of section 77nnn of this title , is less than 10 per centum of the principal amount of indenture securities outstanding at the time of such release, or such release and substitution, such report to be so transmitted within 90 days after such time; and
-  - **(2)** the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) of this section (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principal amount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
+  - **(2)** the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principal amount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
 - **(c)** Reports pursuant to this section shall be transmitted by mail—
   - **(1)** to all registered holders of indenture securities, as the names and addresses of such holders appear upon the registration books of the obligor upon the indenture securities;
   - **(2)** to such holders of indenture securities as have, within the two years preceding such transmission, filed their names and addresses with the indenture trustee for that purpose; and

@@ -3,9 +3,9 @@ title: "Section 327 - Notification to committing court of discharge or condition
 usc_title: 24
 usc_section: "327"
 chapter: 9
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "24 U.S.C. § 327"
-generated_at: "2026-03-30T04:30:25.913Z"
+generated_at: "2026-03-30T04:32:30.334Z"
 status: "active"
 ---
 

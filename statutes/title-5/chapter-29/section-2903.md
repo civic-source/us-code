@@ -3,9 +3,9 @@ title: "Section 2903 - Oath; authority to administer"
 usc_title: 5
 usc_section: "2903"
 chapter: 29
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "5 U.S.C. § 2903"
-generated_at: "2026-03-30T04:29:48.513Z"
+generated_at: "2026-03-30T04:31:50.494Z"
 status: "active"
 ---
 

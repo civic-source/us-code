@@ -3,9 +3,9 @@ title: "Section 3539 - Housing and Urban Development Disaster Assistance Fund"
 usc_title: 42
 usc_section: "3539"
 chapter: 44
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 3539"
-generated_at: "2026-03-30T04:31:22.020Z"
+generated_at: "2026-03-30T04:33:08.014Z"
 status: "active"
 ---
 

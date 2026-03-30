@@ -3,9 +3,9 @@ title: "Section 4821 - Diplomatic Security Service"
 usc_title: 22
 usc_section: "4821"
 chapter: 58
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 4821"
-generated_at: "2026-03-30T04:30:30.123Z"
+generated_at: "2026-03-30T04:32:34.660Z"
 status: "active"
 ---
 

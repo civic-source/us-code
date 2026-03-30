@@ -3,9 +3,9 @@ title: "Section 251f - Consultation by Secretary with Governor, local officials,
 usc_title: 16
 usc_section: "251f"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 251f"
-generated_at: "2026-03-30T04:30:21.026Z"
+generated_at: "2026-03-30T04:32:27.249Z"
 status: "active"
 ---
 

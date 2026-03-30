@@ -3,9 +3,9 @@ title: "Section 2344 - State leadership activities"
 usc_title: 20
 usc_section: "2344"
 chapter: 44
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 2344"
-generated_at: "2026-03-30T04:30:23.777Z"
+generated_at: "2026-03-30T04:32:24.022Z"
 status: "active"
 ---
 
@@ -67,8 +67,8 @@ status: "active"
       - **(v)** other factors relating to the performance of eligible recipients under this chapter as the eligible agency determines are appropriate; or
     - **(B)** if an eligible recipient elects to use funds as permitted under section 2355(c)(19) of this title ;
   - **(11)** providing for activities to support entrepreneurship education and training;
-  - **(12)** providing career and technical education programs for adults and school dropouts to complete their secondary school education, in coordination, to the extent practicable, with activities authorized under the Adult Education and Family Literacy Act [ 20 U.S.C. 9201 et seq.];
-  - **(13)** providing assistance to individuals, who have participated in services and activities under this subchapter, in continuing the individuals’ education or training or finding appropriate jobs, such as through referral to the system established under section 2841 of title 29 ;
+  - **(12)** providing career and technical education programs for adults and school dropouts to complete their secondary school education, in coordination, to the extent practicable, with activities authorized under the Adult Education and Family Literacy Act [ 29 U.S.C. 3271 et seq.];
+  - **(13)** providing assistance to individuals, who have participated in services and activities under this subchapter, in continuing the individuals’ education or training or finding appropriate jobs, such as through referral to the system established under section 3151 of title 29 ;
   - **(14)** developing valid and reliable assessments of technical skills;
   - **(15)** developing and enhancing data systems to collect and analyze data on secondary and postsecondary academic and employment outcomes;
   - **(16)** improving—

@@ -3,9 +3,9 @@ title: "Section 4521 - Annual reports by Director"
 usc_title: 12
 usc_section: "4521"
 chapter: 46
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4521"
-generated_at: "2026-03-30T04:30:07.252Z"
+generated_at: "2026-03-30T04:32:14.427Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(D)** an evaluation of the performance of the regulated entities in carrying out their respective missions;
   - **(6)** operations, resources, and performance of the Agency; and
   - **(7)** such other matters relating to the Agency and the fulfillment of its mission.
-- **(b)** Not later than March 15 of each year, the Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a written report describing, for the preceding calendar year, the requests by the Director to the Attorney General for enforcement actions under subchapter III of this chapter and describing the disposition of each request, which shall include statements of—
+- **(b)** Not later than March 15 of each year, the Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a written report describing, for the preceding calendar year, the requests by the Director to the Attorney General for enforcement actions under subchapter III and describing the disposition of each request, which shall include statements of—
   - **(1)** the total number of requests made by the Director;
   - **(2)** the number of requests that resulted in the commencement of litigation by the Department of Justice;
   - **(3)** the number of requests that did not result in the commencement of litigation by the Department of Justice;

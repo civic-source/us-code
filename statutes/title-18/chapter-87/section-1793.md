@@ -3,9 +3,9 @@ title: "Section 1793 - Trespass on Bureau of Prisons reservations and land"
 usc_title: 18
 usc_section: "1793"
 chapter: 87
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "18 U.S.C. § 1793"
-generated_at: "2026-03-30T04:30:14.557Z"
+generated_at: "2026-03-30T04:32:28.301Z"
 status: "active"
 ---
 

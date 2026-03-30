@@ -3,9 +3,9 @@ title: "Section 451h - Establishment of farm units; size; contiguous or nonconti
 usc_title: 43
 usc_section: "451h"
 chapter: 12
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "43 U.S.C. § 451h"
-generated_at: "2026-03-30T04:31:04.634Z"
+generated_at: "2026-03-30T04:32:53.551Z"
 status: "active"
 ---
 

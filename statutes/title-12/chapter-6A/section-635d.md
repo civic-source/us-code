@@ -3,9 +3,9 @@ title: "Section 635d - Issuance of debentures, bonds, etc.; obligations redeemab
 usc_title: 12
 usc_section: "635d"
 chapter: 6
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 635d"
-generated_at: "2026-03-30T04:30:07.149Z"
+generated_at: "2026-03-30T04:32:14.316Z"
 status: "active"
 ---
 

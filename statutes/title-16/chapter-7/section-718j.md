@@ -3,9 +3,9 @@ title: "Section 718j - Definitions"
 usc_title: 16
 usc_section: "718j"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 718j"
-generated_at: "2026-03-30T04:30:21.121Z"
+generated_at: "2026-03-30T04:32:27.351Z"
 status: "active"
 ---
 

@@ -1,0 +1,15 @@
+---
+title: "Section 2279g - Marketing services; cooperative agreements"
+usc_title: 7
+usc_section: "2279g"
+chapter: 55
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 2279g"
+generated_at: "2026-03-30T04:31:56.982Z"
+status: "active"
+---
+
+# § 2279g. Marketing services; cooperative agreements
+
+Notwithstanding chapter 63 of title 31, marketing services of the Agricultural Marketing Service; the Grain Inspection, Packers and Stockyards Administration; the Animal and Plant Health Inspection Service; and the food safety activities of the Food Safety and Inspection Service, on and after February 20, 2003 , may use cooperative agreements to reflect a relationship between the Agricultural Marketing Service; the Grain Inspection, Packers and Stockyards Administration; the Animal and Plant Health Inspection Service; or the Food Safety and Inspection Service and a State or cooperator to carry out agricultural marketing programs, to carry out programs to protect the nation’s animal and plant resources, or to carry out educational programs or special studies to improve the safety of the nation’s food supply.
+

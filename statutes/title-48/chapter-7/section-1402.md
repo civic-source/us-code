@@ -3,9 +3,9 @@ title: "Section 1402 - Extension of industrial alcohol and internal revenue laws
 usc_title: 48
 usc_section: "1402"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "48 U.S.C. § 1402"
-generated_at: "2026-03-30T04:31:25.294Z"
+generated_at: "2026-03-30T04:33:12.177Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8325 - International harmonization"
 usc_title: 15
 usc_section: "8325"
 chapter: 109
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 8325"
-generated_at: "2026-03-30T04:30:11.439Z"
+generated_at: "2026-03-30T04:32:17.771Z"
 status: "active"
 ---
 

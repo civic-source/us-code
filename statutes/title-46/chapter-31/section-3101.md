@@ -3,9 +3,9 @@ title: "Section 3101 - Authority to suspend inspection"
 usc_title: 46
 usc_section: "3101"
 chapter: 31
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "46 U.S.C. § 3101"
-generated_at: "2026-03-30T04:31:32.736Z"
+generated_at: "2026-03-30T04:33:11.867Z"
 status: "active"
 ---
 

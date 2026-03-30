@@ -3,9 +3,9 @@ title: "Section 7704 - Certain publicly traded partnerships treated as corporati
 usc_title: 26
 usc_section: "7704"
 chapter: 79
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 7704"
-generated_at: "2026-03-30T04:30:50.541Z"
+generated_at: "2026-03-30T04:32:43.032Z"
 status: "active"
 ---
 

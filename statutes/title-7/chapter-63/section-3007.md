@@ -1,0 +1,22 @@
+---
+title: "Section 3007 - Seniors farmers’ market nutrition program"
+usc_title: 7
+usc_section: "3007"
+chapter: 63
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 3007"
+generated_at: "2026-03-30T04:31:56.987Z"
+status: "active"
+---
+
+# § 3007. Seniors farmers’ market nutrition program
+
+- **(a)** Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use to carry out and expand the seniors farmers’ market nutrition program $20,600,000 for each of fiscal years 2008 through 2018.
+- **(b)** The purposes of the seniors farmers’ market nutrition program are—
+  - **(1)** to provide resources in the form of fresh, nutritious, unprepared, locally grown fruits, vegetables, honey, and herbs from farmers’ markets, roadside stands, and community supported agriculture programs to low-income seniors;
+  - **(2)** to increase the domestic consumption of agricultural commodities by expanding or aiding in the expansion of domestic farmers’ markets, roadside stands, and community supported agriculture programs; and
+  - **(3)** to develop or aid in the development of new and additional farmers’ markets, roadside stands, and community supported agriculture programs.
+- **(c)** The value of any benefit provided to any eligible seniors farmers’ market nutrition program recipient under this section shall not be considered to be income or resources for any purposes under any Federal, State, or local law.
+- **(d)** Each State shall ensure that no State or local tax is collected within the State on a purchase of food with a benefit distributed under the seniors farmers’ market nutrition program.
+- **(e)** The Secretary may promulgate such regulations as the Secretary considers to be necessary to carry out the seniors farmers’ market nutrition program.
+- **(f)** Section 1693 o –2 of title 15 shall not apply to electronic benefit transfer systems established under this section.

@@ -3,9 +3,9 @@ title: "Section 3110 - Penalties"
 usc_title: 12
 usc_section: "3110"
 chapter: 32
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 3110"
-generated_at: "2026-03-30T04:30:07.239Z"
+generated_at: "2026-03-30T04:32:14.413Z"
 status: "active"
 ---
 
@@ -29,5 +29,5 @@ status: "active"
     - **(A)** fails to make, submit, or publish such reports or information as may be required under this chapter or under regulations prescribed by the Board or the Comptroller of the Currency pursuant to this chapter, within the time period specified by such agency; or
     - **(B)** submits or publishes any false or misleading report or information,
   - **(3)** Notwithstanding paragraph (2), if any company knowingly or with reckless disregard for the accuracy of any information or report described in paragraph (2) submits or publishes any false or misleading report or information, the Board or the Comptroller of the Currency may, in the Board’s or Comptroller’s discretion, assess a penalty of not more than $1,000,000 or 1 percent of total assets of such foreign bank, or such office or subsidiary of a foreign bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.
-  - **(4)** Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board or the Comptroller of the Currency in the manner provided in subsection (a)(2) of this section (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.
+  - **(4)** Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board or the Comptroller of the Currency in the manner provided in subsection (a)(2) (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.
   - **(5)** Section 1818(h) of this title shall apply to any proceeding under this subsection.

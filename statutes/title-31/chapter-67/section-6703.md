@@ -3,9 +3,9 @@ title: "Section 6703 - Qualification for payment"
 usc_title: 31
 usc_section: "6703"
 chapter: 67
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "31 U.S.C. § 6703"
-generated_at: "2026-03-30T04:30:54.377Z"
+generated_at: "2026-03-30T04:32:45.626Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The Drug Abuse Resistance Education Program under section 5122 of the Elementary and Secondary Education Act of 1965.
   - **(2)** The National Youth Sports Program under section 682 of the Community Services Block Grant Act ( Public Law 97–35 ) as amended by section 205, Public Law 103–252 .
   - **(3)** The Gang Resistance Education and Training Program under the Act entitled “An Act making appropriations for the Treasury Department, the United States Postal Service, the Executive Office of the President, and certain Independent Agencies, for the fiscal year ending September 30, 1991 , and for other purposes”, approved November 5, 1990 ( Public Law 101–509 ).
-  - **(4)** Programs under title I of the Workforce Investment Act of 1998.
+  - **(4)** Programs under title I of the Workforce Innovation and Opportunity Act.
   - **(5)** Programs under subtitle C of title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12571 et seq.), as amended.
   - **(6)** Programs under the School to Work Opportunities Act ( Public Law 103–239 ).
   - **(7)** Substance Abuse Treatment and Prevention programs authorized under title V or XIX of the Public Health Services Act ( 43 U.S.C. 201 et seq.). 1 1 See References in Text note below.

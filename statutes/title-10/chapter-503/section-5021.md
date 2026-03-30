@@ -3,9 +3,9 @@ title: "Section 5021 - Repealed. Pub. L. 101–510, div. A, title IX, § 910(a) 
 usc_title: 10
 usc_section: "5021"
 chapter: 503
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 5021"
-generated_at: "2026-03-30T04:29:56.838Z"
+generated_at: "2026-03-30T04:32:08.685Z"
 status: "repealed"
 ---
 

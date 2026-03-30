@@ -3,9 +3,9 @@ title: "Section 1968 - Civil investigative demand"
 usc_title: 18
 usc_section: "1968"
 chapter: 96
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "18 U.S.C. § 1968"
-generated_at: "2026-03-30T04:30:14.560Z"
+generated_at: "2026-03-30T04:32:28.303Z"
 status: "active"
 ---
 

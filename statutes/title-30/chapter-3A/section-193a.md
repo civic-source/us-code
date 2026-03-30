@@ -3,9 +3,9 @@ title: "Section 193a - Preference right of United States to purchase coal for Ar
 usc_title: 30
 usc_section: "193a"
 chapter: 3
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "30 U.S.C. § 193a"
-generated_at: "2026-03-30T04:30:38.373Z"
+generated_at: "2026-03-30T04:32:37.050Z"
 status: "active"
 ---
 

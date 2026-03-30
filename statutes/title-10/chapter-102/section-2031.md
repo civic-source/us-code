@@ -3,9 +3,9 @@ title: "Section 2031 - Junior Reserve Officers’ Training Corps"
 usc_title: 10
 usc_section: "2031"
 chapter: 102
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 2031"
-generated_at: "2026-03-30T04:29:56.790Z"
+generated_at: "2026-03-30T04:32:08.639Z"
 status: "active"
 ---
 

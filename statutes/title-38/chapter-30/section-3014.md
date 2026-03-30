@@ -3,9 +3,9 @@ title: "Section 3014 - Payment of basic educational assistance"
 usc_title: 38
 usc_section: "3014"
 chapter: 30
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "38 U.S.C. § 3014"
-generated_at: "2026-03-30T04:31:01.320Z"
+generated_at: "2026-03-30T04:32:50.138Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6363 - State formula grant applications"
 usc_title: 20
 usc_section: "6363"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6363"
-generated_at: "2026-03-30T04:30:23.803Z"
+generated_at: "2026-03-30T04:32:24.044Z"
 status: "active"
 ---
 
@@ -29,17 +29,16 @@ status: "active"
     - **(D)** How the activities assisted under section 6362 of this title will address the needs of teachers and other instructional staff in implementing the essential components of reading instruction.
     - **(E)** How subgrants made by the State educational agency under section 6362 of this title will meet the requirements of section 6362 of this title , including how the State educational agency will ensure that eligible local educational agencies receiving subgrants under section 6362 of this title will use practices based on scientifically based reading research.
     - **(F)** How the State educational agency will, to the extent practicable, make grants to eligible local educational agencies in both rural and urban areas.
-    - **(G)** How the State educational agency will build on, and promote coordination among literacy programs in the State (including federally funded programs such as programs under the Adult Education and Family Literacy Act [ 20 U.S.C. 9201 et seq.], the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.], and subpart 2 of this part), to increase the effectiveness of the programs in improving reading for adults and children and to avoid duplication of the efforts of the program.
+    - **(G)** How the State educational agency will build on, and promote coordination among literacy programs in the State (including federally funded programs such as programs under the Adult Education and Family Literacy Act [ 29 U.S.C. 3271 et seq.], the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.], and subpart 2 of this part), to increase the effectiveness of the programs in improving reading for adults and children and to avoid duplication of the efforts of the program.
     - **(H)** How the State educational agency will assess and evaluate, on a regular basis, eligible local educational agency activities assisted under section 6362 of this title , with respect to whether the activities have been effective in achieving the purposes of section 6362 of this title .
     - **(I)** Any other information that the Secretary may reasonably require.
 - **(c)**
   - **(1)** The Secretary shall approve an application of a State educational agency under this section only if such application meets the requirements of this section.
   - **(2)**
-    - **(A)** The Secretary, in consultation with the National Institute for Literacy, shall convene a panel to evaluate applications under this section. At a minimum, the panel shall include—
+    - **(A)** The Secretary shall convene a panel to evaluate applications under this section. At a minimum, the panel shall include—
       - **(i)** three individuals selected by the Secretary;
-      - **(ii)** three individuals selected by the National Institute for Literacy;
-      - **(iii)** three individuals selected by the National Research Council of the National Academy of Sciences; and
-      - **(iv)** three individuals selected by the Eunice Kennedy Shriver National Institute of Child Health and Human Development.
+      - **(ii)** three individuals selected by the National Research Council of the National Academy of Sciences; and
+      - **(iii)** three individuals selected by the Eunice Kennedy Shriver National Institute of Child Health and Human Development.
     - **(B)** The panel shall include—
       - **(i)** experts who are competent, by virtue of their training, expertise, or experience, to evaluate applications under this section;
       - **(ii)** experts who provide professional development to individuals who teach reading to children and adults based on scientifically based reading research;

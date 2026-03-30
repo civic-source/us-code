@@ -3,9 +3,9 @@ title: "Section 47142 - Design-build contracting"
 usc_title: 49
 usc_section: "47142"
 chapter: 471
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "49 U.S.C. § 47142"
-generated_at: "2026-03-30T04:31:28.378Z"
+generated_at: "2026-03-30T04:33:14.504Z"
 status: "active"
 ---
 

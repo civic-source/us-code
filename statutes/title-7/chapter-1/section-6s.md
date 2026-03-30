@@ -3,9 +3,9 @@ title: "Section 6s - Registration and regulation of swap dealers and major swap 
 usc_title: 7
 usc_section: "6s"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "7 U.S.C. § 6s"
-generated_at: "2026-03-30T04:29:50.848Z"
+generated_at: "2026-03-30T04:31:56.879Z"
 status: "active"
 ---
 
@@ -60,6 +60,7 @@ status: "active"
       - **(ii)** The entities described in clause (i) shall, to the maximum extent practicable, establish and maintain comparable minimum capital requirements and minimum initial and variation margin requirements, including the use of non cash collateral, for—
         - **(I)** swap dealers; and
         - **(II)** major swap participants.
+  - **(4)** The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii), including the initial and variation margin requirements imposed by rules adopted pursuant to paragraphs (2)(A)(ii) and (2)(B)(ii), shall not apply to a swap in which a counterparty qualifies for an exception under section 2(h)(7)(A) of this title , or an exemption issued under section 6(c)(1) of this title from the requirements of section 2(h)(1)(A) of this title for cooperative entities as defined in such exemption, or satisfies the criteria in section 2(h)(7)(D) of this title .
 - **(f)**
   - **(1)** Each registered swap dealer and major swap participant—
     - **(A)** shall make such reports as are required by the Commission by rule or regulation regarding the transactions and positions and financial condition of the registered swap dealer or major swap participant;

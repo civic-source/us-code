@@ -3,9 +3,9 @@ title: "Section 3451to3456 - Repealed. Pub. L. 98–67, title I, § 102(a) , Aug
 usc_title: 26
 usc_section: "3451to3456"
 chapter: 24
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 3451to3456"
-generated_at: "2026-03-30T04:30:50.421Z"
+generated_at: "2026-03-30T04:32:42.961Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4903 - Disclosure requirements"
 usc_title: 12
 usc_section: "4903"
 chapter: 49
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4903"
-generated_at: "2026-03-30T04:30:07.263Z"
+generated_at: "2026-03-30T04:32:14.437Z"
 status: "active"
 ---
 
@@ -32,5 +32,5 @@ status: "active"
 - **(b)** If private mortgage insurance was required in connection with a residential mortgage entered into at any time before the effective date of this chapter, the servicer shall disclose to the mortgagor in each such transaction in an annual written statement—
   - **(1)** that the private mortgage insurance may, under certain circumstances, be canceled by the mortgagor (with the consent of the mortgagee or in accordance with applicable State law); and
   - **(2)** an address and telephone number that the mortgagor may use to contact the servicer to determine whether the mortgagor may cancel the private mortgage insurance.
-- **(c)** The information and disclosures required under subsection (b) of this section and subsection (a)(3) of this section may be provided on the annual disclosure relating to the escrow account made as required under the Real Estate Settlement Procedures Act of 1974 [ 12 U.S.C. 2601 et seq.], or as part of the annual disclosure of interest payments made pursuant to Internal Revenue Service regulations, and on a form promulgated by the Internal Revenue Service for that purpose.
+- **(c)** The information and disclosures required under subsection (b) and subsection (a)(3) may be provided on the annual disclosure relating to the escrow account made as required under the Real Estate Settlement Procedures Act of 1974 [ 12 U.S.C. 2601 et seq.], or as part of the annual disclosure of interest payments made pursuant to Internal Revenue Service regulations, and on a form promulgated by the Internal Revenue Service for that purpose.
 - **(d)** The mortgagee or servicer may use standardized forms for the provision of disclosures required under this section, which disclosures shall relate to the mortgagor’s rights under this chapter.

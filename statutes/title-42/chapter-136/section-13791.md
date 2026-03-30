@@ -3,9 +3,9 @@ title: "Section 13791 - Community schools youth services and supervision grant p
 usc_title: 42
 usc_section: "13791"
 chapter: 136
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 13791"
-generated_at: "2026-03-30T04:31:22.316Z"
+generated_at: "2026-03-30T04:33:08.259Z"
 status: "active"
 ---
 

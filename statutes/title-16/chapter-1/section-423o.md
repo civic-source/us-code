@@ -3,9 +3,9 @@ title: "Section 423o - Administration, protection, and development"
 usc_title: 16
 usc_section: "423o"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 423o"
-generated_at: "2026-03-30T04:30:21.053Z"
+generated_at: "2026-03-30T04:32:27.277Z"
 status: "active"
 ---
 

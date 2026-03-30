@@ -3,9 +3,9 @@ title: "Section 7112 - Reservation of State funds for safe and drug-free schools
 usc_title: 20
 usc_section: "7112"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 7112"
-generated_at: "2026-03-30T04:30:23.818Z"
+generated_at: "2026-03-30T04:32:24.057Z"
 status: "active"
 ---
 

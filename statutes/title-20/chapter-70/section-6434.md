@@ -3,9 +3,9 @@ title: "Section 6434 - State plan and State agency applications"
 usc_title: 20
 usc_section: "6434"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6434"
-generated_at: "2026-03-30T04:30:23.806Z"
+generated_at: "2026-03-30T04:32:24.047Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
   - **(5)** describes how the State agency will consult with experts and provide the necessary training for appropriate staff, to ensure that the planning and operation of institution-wide projects under section 6436 of this title are of high quality;
   - **(6)** describes how the State agency will carry out the evaluation requirements of section 7941 of this title and how the results of the most recent evaluation will be used to plan and improve the program;
   - **(7)** includes data showing that the State agency has maintained the fiscal effort required of a local educational agency, in accordance with section 7901 of this title ;
-  - **(8)** describes how the programs will be coordinated with other appropriate State and Federal programs, such as programs under title I of Public Law 105–220 [ 29 U.S.C. 2801 et seq.], vocational and technical education programs, State and local dropout prevention programs, and special education programs;
+  - **(8)** describes how the programs will be coordinated with other appropriate State and Federal programs, such as programs under title I of Public Law 105–220 , 1 1 See References in Text note below. vocational and technical education programs, State and local dropout prevention programs, and special education programs;
   - **(9)** describes how the State agency will encourage correctional facilities receiving funds under this subpart to coordinate with local educational agencies or alternative education programs attended by incarcerated children and youth prior to their incarceration to ensure that student assessments and appropriate academic records are shared jointly between the correctional facility and the local educational agency or alternative education program;
   - **(10)** describes how appropriate professional development will be provided to teachers and other staff;
   - **(11)** designates an individual in each affected correctional facility or institution for neglected or delinquent children and youth to be responsible for issues relating to the transition of children and youth from such facility or institution to locally operated programs;

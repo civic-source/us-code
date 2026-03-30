@@ -3,9 +3,9 @@ title: "Section 2238a - Estimate of harbor maintenance needs"
 usc_title: 33
 usc_section: "2238a"
 chapter: 36
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "33 U.S.C. § 2238a"
-generated_at: "2026-03-30T04:30:55.688Z"
+generated_at: "2026-03-30T04:32:46.462Z"
 status: "active"
 ---
 

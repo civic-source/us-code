@@ -3,9 +3,9 @@ title: "Section 1103 - Amounts transferred to State accounts"
 usc_title: 42
 usc_section: "1103"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 1103"
-generated_at: "2026-03-30T04:31:21.743Z"
+generated_at: "2026-03-30T04:33:07.787Z"
 status: "active"
 ---
 
@@ -100,7 +100,7 @@ status: "active"
         - **(I)** to a place from which it is impractical for such individual to commute; and
         - **(II)** due to a change in location of the spouse’s employment.
     - **(C)**
-      - **(i)** Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998, except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
+      - **(i)** Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998, 1 1 See References in Text note below. except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
       - **(ii)** Each State-approved training program or job training program referred to in clause (i) shall prepare individuals who have been separated from a declining occupation, or who have been involuntarily and indefinitely separated from employment as a result of a permanent reduction of operations at the individual’s place of employment, for entry into a high-demand occupation.
       - **(iii)** The amount of unemployment compensation payable under this subparagraph to an individual for a week of unemployment shall be equal to—
         - **(I)** the individual’s average weekly benefit amount (including dependents’ allowances) for the most recent benefit year, less

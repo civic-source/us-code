@@ -3,9 +3,9 @@ title: "Section 656 - Subpoenas"
 usc_title: 28
 usc_section: "656"
 chapter: 44
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "28 U.S.C. § 656"
-generated_at: "2026-03-30T04:30:36.452Z"
+generated_at: "2026-03-30T04:32:37.774Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 950bb - Access to broadband telecommunications services in rural
 usc_title: 7
 usc_section: "950bb"
 chapter: 31
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "7 U.S.C. § 950bb"
-generated_at: "2026-03-30T04:29:50.892Z"
+generated_at: "2026-03-30T04:31:56.922Z"
 status: "active"
 ---
 
@@ -80,7 +80,7 @@ status: "active"
         - **(II)** the speed of broadband service;
         - **(III)** the average price of broadband service in a proposed service area;
         - **(IV)** any changes in broadband service adoption rates, including new subscribers generated from demand-side projects; and
-        - **(V)** any metrics the Secretary determines to be appropriate;
+        - **(V)** any metrics the Secretary determines to be appropriate; 1 1 So in original. The semicolon probably should be a period.
     - **(B)** The Secretary may require any additional reporting and information by any recipient of any assistance under this section so as to ensure compliance with this section.
   - **(9)** In addition to other authority under applicable law, the Secretary shall establish written procedures for all broadband programs administered by the Rural Utilities Service under this or any other Act that, to the maximum extent practicable—
     - **(A)** recover funds from loan defaults;

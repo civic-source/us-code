@@ -3,9 +3,9 @@ title: "Section 7303 - Other property subject to forfeiture"
 usc_title: 26
 usc_section: "7303"
 chapter: 75
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 7303"
-generated_at: "2026-03-30T04:30:50.522Z"
+generated_at: "2026-03-30T04:32:43.020Z"
 status: "active"
 ---
 

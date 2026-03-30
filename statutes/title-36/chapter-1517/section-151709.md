@@ -3,9 +3,9 @@ title: "Section 151709 - Civil action by Attorney General for equitable relief"
 usc_title: 36
 usc_section: "151709"
 chapter: 1517
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "36 U.S.C. § 151709"
-generated_at: "2026-03-30T04:30:58.407Z"
+generated_at: "2026-03-30T04:32:49.023Z"
 status: "active"
 ---
 

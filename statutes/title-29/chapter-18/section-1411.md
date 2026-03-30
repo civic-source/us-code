@@ -3,9 +3,9 @@ title: "Section 1411 - Mergers and transfers between multiemployer plans"
 usc_title: 29
 usc_section: "1411"
 chapter: 18
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 1411"
-generated_at: "2026-03-30T04:30:39.347Z"
+generated_at: "2026-03-30T04:32:38.644Z"
 status: "active"
 ---
 
@@ -26,3 +26,5 @@ status: "active"
     - **(B)** the corporation reasonably expects that—
       - **(i)** such financial assistance will reduce the corporation’s expected long-term loss with respect to the plans involved; and
       - **(ii)** such financial assistance is necessary for the merged plan to become or remain solvent;
+    - **(C)** the corporation certifies that its ability to meet existing financial assistance obligations to other plans will not be impaired by such financial assistance; and
+    - **(D)** such financial assistance is paid exclusively from the fund for basic benefits guaranteed for multiemployer plans.

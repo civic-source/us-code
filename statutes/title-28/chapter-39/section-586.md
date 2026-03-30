@@ -3,9 +3,9 @@ title: "Section 586 - Duties; supervision by Attorney General"
 usc_title: 28
 usc_section: "586"
 chapter: 39
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "28 U.S.C. § 586"
-generated_at: "2026-03-30T04:30:36.448Z"
+generated_at: "2026-03-30T04:32:37.771Z"
 status: "active"
 ---
 

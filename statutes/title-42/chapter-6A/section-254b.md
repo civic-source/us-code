@@ -3,9 +3,9 @@ title: "Section 254b - Health centers"
 usc_title: 42
 usc_section: "254b"
 chapter: 6
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 254b"
-generated_at: "2026-03-30T04:31:21.566Z"
+generated_at: "2026-03-30T04:33:07.636Z"
 status: "active"
 ---
 

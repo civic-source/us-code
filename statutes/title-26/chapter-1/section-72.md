@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-30T04:30:50.184Z"
+generated_at: "2026-03-30T04:32:42.812Z"
 status: "active"
 ---
 
@@ -306,7 +306,7 @@ status: "active"
   - **(4)**
     - **(A)** If—
       - **(i)** paragraph (1) does not apply to a distribution by reason of paragraph (2)(A)(iv), and
-      - **(ii)** the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
+      - **(ii)** the series of payments under such paragraph are subsequently modified (other than by reason of death or disability or a distribution to which paragraph (10) applies)—
         - **(I)** before the close of the 5-year period beginning with the date of the first payment and after the employee attains age 59½, or
         - **(II)** before the employee attains age 59½,
     - **(B)** For purposes of this paragraph, the term “deferral period” means the period beginning with the taxable year in which (without regard to paragraph (2)(A)(iv)) the distribution would have been includible in gross income and ending with the taxable year in which the modification described in subparagraph (A) occurs.
@@ -337,8 +337,10 @@ status: "active"
       - **(ii)** such amount shall not be taken into account in determining whether section 408(d)(3)(B) applies to any other amount.
   - **(9)** For purposes of this subsection, a distribution from an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A) shall be treated as a distribution from a qualified retirement plan described in 4974(c)(1) to the extent that such distribution is attributable to an amount transferred to an eligible deferred compensation plan from a qualified retirement plan (as defined in section 4974(c)).
   - **(10)**
-    - **(A)** In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)) which is a defined benefit plan, paragraph (2)(A)(v) shall be applied by substituting “age 50” for “age 55”.
-    - **(B)** For purposes of this paragraph, the term “qualified public safety employee” means any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision.
+    - **(A)** In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)), paragraph (2)(A)(v) shall be applied by substituting “age 50” for “age 55”.
+    - **(B)** For purposes of this paragraph, the term “qualified public safety employee” means—
+      - **(i)** any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision, or
+      - **(ii)** any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) of such title, or any air traffic controller described in 8331(30) or 8401(35) of such title.
 - **(u)**
   - **(1)** If any annuity contract is held by a person who is not a natural person—
     - **(A)** such contract shall not be treated as an annuity contract for purposes of this subtitle (other than subchapter L), and

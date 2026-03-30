@@ -3,9 +3,9 @@ title: "Section 4832 - Repealed. Pub. L. 110–181, div. A, title III, § 375(c)
 usc_title: 10
 usc_section: "4832"
 chapter: 453
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 4832"
-generated_at: "2026-03-30T04:29:56.837Z"
+generated_at: "2026-03-30T04:32:08.685Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1064 - Use of commissary stores and MWR retail facilities: membe
 usc_title: 10
 usc_section: "1064"
 chapter: 54
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 1064"
-generated_at: "2026-03-30T04:29:56.764Z"
+generated_at: "2026-03-30T04:32:08.614Z"
 status: "active"
 ---
 

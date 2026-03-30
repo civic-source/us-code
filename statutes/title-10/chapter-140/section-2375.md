@@ -3,9 +3,9 @@ title: "Section 2375 - Relationship of commercial item provisions to other provi
 usc_title: 10
 usc_section: "2375"
 chapter: 140
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 2375"
-generated_at: "2026-03-30T04:29:56.807Z"
+generated_at: "2026-03-30T04:32:08.655Z"
 status: "active"
 ---
 

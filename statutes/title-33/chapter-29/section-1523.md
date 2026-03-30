@@ -3,9 +3,9 @@ title: "Section 1523 - General procedures; issuance and enforcement of orders; s
 usc_title: 33
 usc_section: "1523"
 chapter: 29
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "33 U.S.C. § 1523"
-generated_at: "2026-03-30T04:30:55.681Z"
+generated_at: "2026-03-30T04:32:46.457Z"
 status: "active"
 ---
 

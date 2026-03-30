@@ -3,9 +3,9 @@ title: "Section 202 - Responsibilities"
 usc_title: 6
 usc_section: "202"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "6 U.S.C. § 202"
-generated_at: "2026-03-30T04:29:52.415Z"
+generated_at: "2026-03-30T04:31:53.349Z"
 status: "active"
 ---
 

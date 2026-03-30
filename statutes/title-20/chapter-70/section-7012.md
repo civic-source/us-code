@@ -3,9 +3,9 @@ title: "Section 7012 - Parental notification"
 usc_title: 20
 usc_section: "7012"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 7012"
-generated_at: "2026-03-30T04:30:23.818Z"
+generated_at: "2026-03-30T04:32:24.056Z"
 status: "active"
 ---
 

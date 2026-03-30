@@ -1,0 +1,18 @@
+---
+title: "Section 2036c - Annual State report on verification of SNAP participation"
+usc_title: 7
+usc_section: "2036c"
+chapter: 51
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 2036c"
+generated_at: "2026-03-30T04:31:56.976Z"
+status: "active"
+---
+
+# § 2036c. Annual State report on verification of SNAP participation
+
+- **(a)** Not later than 1 year after the date specified by the Secretary during the 180-day period beginning on February 7, 2014 , and annually thereafter, each State agency that carries out the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.) shall submit to the Secretary a report containing sufficient information for the Secretary to determine whether the State agency has, for the most recently concluded fiscal year preceding that annual date, verified that the State agency in that fiscal year—
+  - **(1)** did not issue benefits to a deceased individual; and
+  - **(2)** did not issue benefits to an individual who had been permanently disqualified from receiving benefits.
+- **(b)** For any fiscal year for which a State agency fails to comply with subsection (a), the Secretary shall impose a penalty that includes a reduction of up to 50 percent of the amount that would be otherwise payable to the State agency under section 16(a) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2025(a) ) with respect to that fiscal year.
+- **(c)** Not later than 90 days after the completion in multiple States of a temporary pilot program to test the detection and prevention of duplicate participation by beneficiaries of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report assessing the feasibility, effectiveness, and cost for the expansion of the pilot program nationwide.

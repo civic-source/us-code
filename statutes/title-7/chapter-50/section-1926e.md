@@ -1,0 +1,23 @@
+---
+title: "Section 1926e - Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes"
+usc_title: 7
+usc_section: "1926e"
+chapter: 50
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 1926e"
+generated_at: "2026-03-30T04:31:56.955Z"
+status: "active"
+---
+
+# § 1926e. Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes
+
+- **(a)** In this section, the term “eligible individual” means an individual who is a member of a household the members of which have a combined income (for the most recent 12-month period for which the information is available) that is not more than 100 percent of the median nonmetropolitan household income for the State or territory in which the individual resides, according to the most recent decennial census of the United States.
+- **(b)**
+  - **(1)** The Secretary may make grants to private nonprofit organizations for the purpose of providing loans to eligible individuals for the construction, refurbishing, and servicing of individual household water well systems in rural areas that are or will be owned by the eligible individuals.
+  - **(2)** A loan made with grant funds under this section—
+    - **(A)** shall have an interest rate of 1 percent;
+    - **(B)** shall have a term not to exceed 20 years; and
+    - **(C)** shall not exceed $11,000 for each water well system described in paragraph (1).
+  - **(3)** A recipient of a grant made under this section may use grant funds to pay administrative expenses associated with providing the assistance described in paragraph (1), as determined by the Secretary.
+- **(c)** In awarding grants under this section, the Secretary shall give priority to an applicant that has substantial expertise and experience in promoting the safe and productive use of individually-owned household water well systems and ground water.
+- **(d)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018.

@@ -3,9 +3,9 @@ title: "Section 2604 - Home buying information booklets"
 usc_title: 12
 usc_section: "2604"
 chapter: 27
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 2604"
-generated_at: "2026-03-30T04:30:07.233Z"
+generated_at: "2026-03-30T04:32:14.407Z"
 status: "active"
 ---
 
@@ -32,5 +32,5 @@ status: "active"
   - **(13)** Notice that the Office of Housing of the Department of Housing and Urban Development has made publicly available a brochure regarding loan fraud and a World Wide Web address and toll-free telephone number for obtaining the brochure.
   - **(14)** An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or not the real estate is located in an area having special flood hazards, and the following statement: “Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.”.
 - **(c)** Each lender shall include with the booklet a good faith estimate of the amount or range of charges for specific settlement services the borrower is likely to incur in connection with the settlement as prescribed by the Bureau. Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 1701x(e) of this title and located in the area of the lender.
-- **(d)** Each lender referred to in subsection (a) of this section shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide the booklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
+- **(d)** Each lender referred to in subsection (a) shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide the booklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
 - **(e)** Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.

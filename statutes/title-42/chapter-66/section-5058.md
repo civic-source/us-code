@@ -3,9 +3,9 @@ title: "Section 5058 - Eligibility for other benefits"
 usc_title: 42
 usc_section: "5058"
 chapter: 66
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 5058"
-generated_at: "2026-03-30T04:31:22.059Z"
+generated_at: "2026-03-30T04:33:08.046Z"
 status: "active"
 ---
 

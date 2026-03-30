@@ -3,9 +3,9 @@ title: "Section 7734 - Annual report to Congress"
 usc_title: 38
 usc_section: "7734"
 chapter: 77
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "38 U.S.C. § 7734"
-generated_at: "2026-03-30T04:31:01.373Z"
+generated_at: "2026-03-30T04:32:50.172Z"
 status: "active"
 ---
 

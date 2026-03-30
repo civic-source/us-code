@@ -3,9 +3,9 @@ title: "Section 341 - Under Secretary for Management"
 usc_title: 6
 usc_section: "341"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "6 U.S.C. § 341"
-generated_at: "2026-03-30T04:29:52.420Z"
+generated_at: "2026-03-30T04:31:53.353Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The budget, appropriations, expenditures of funds, accounting, and finance.
   - **(2)** Procurement.
   - **(3)** Human resources and personnel.
-  - **(4)** Information technology and communications systems.
+  - **(4)** Information technology and communications systems, including policies and directives to achieve and maintain interoperable communications among the components of the Department.
   - **(5)** Facilities, property, equipment, and other material resources.
   - **(6)** Security for personnel, information technology and communications systems, facilities, property, equipment, and other material resources.
   - **(7)** Strategic management planning and annual performance planning and identification and tracking of performance measures relating to the responsibilities of the Department.
@@ -48,3 +48,4 @@ status: "active"
     - **(D)** a proven record in achieving positive operational results;
   - **(2)** enter into an annual performance agreement with the Secretary that shall set forth measurable individual and organizational goals; and
   - **(3)** be subject to an annual performance evaluation by the Secretary, who shall determine as part of each such evaluation whether the Under Secretary for Management has made satisfactory progress toward achieving the goals set out in the performance agreement required under paragraph (2).
+- **(d)** In this section, the term “interoperable communications” has the meaning given that term in section 194(g) of this title .

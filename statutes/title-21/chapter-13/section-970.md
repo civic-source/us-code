@@ -3,9 +3,9 @@ title: "Section 970 - Criminal forfeitures"
 usc_title: 21
 usc_section: "970"
 chapter: 13
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "21 U.S.C. § 970"
-generated_at: "2026-03-30T04:30:27.382Z"
+generated_at: "2026-03-30T04:32:31.918Z"
 status: "active"
 ---
 

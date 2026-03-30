@@ -3,9 +3,9 @@ title: "Section 5704 - Mileage and related allowances"
 usc_title: 5
 usc_section: "5704"
 chapter: 57
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "5 U.S.C. § 5704"
-generated_at: "2026-03-30T04:29:48.529Z"
+generated_at: "2026-03-30T04:31:50.513Z"
 status: "active"
 ---
 

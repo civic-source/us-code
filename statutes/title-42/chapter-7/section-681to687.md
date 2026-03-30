@@ -3,9 +3,9 @@ title: "Section 681to687 - Repealed. Pub. L. 104–193, title I, § 108(e) , Aug
 usc_title: 42
 usc_section: "681to687"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 681to687"
-generated_at: "2026-03-30T04:31:21.737Z"
+generated_at: "2026-03-30T04:33:07.782Z"
 status: "repealed"
 ---
 

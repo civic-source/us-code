@@ -1,0 +1,28 @@
+---
+title: "Section 7031 - Electronic filing and retrieval"
+usc_title: 7
+usc_section: "7031"
+chapter: 98
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 7031"
+generated_at: "2026-03-30T04:31:57.019Z"
+status: "active"
+---
+
+# § 7031. Electronic filing and retrieval
+
+- **(a)** Not later than 180 days after June 20, 2000 , in accordance with subsection (c), the Secretary of Agriculture (referred to in this subchapter as the “Secretary”) shall, to the maximum extent practicable, establish an Internet-based system that enables agricultural producers to access all forms of the agencies of the Department of Agriculture (referred to in this subchapter as the “Department”) specified in subsection (b).
+- **(b)** The agencies referred to in subsection (a) are the following:
+  - **(1)** The Farm Service Agency.
+  - **(2)** The Natural Resources Conservation Service.
+  - **(3)** The rural development components of the Department included in the Secretary’s service center initiative regarding State and field office collocation implemented pursuant to section 6915 of this title .
+  - **(4)** The agricultural producer programs component of the Commodity Credit Corporation administered by the Farm Service Agency and the Natural Resources Conservation Service.
+- **(c)** In carrying out subsection (a), the Secretary shall—
+  - **(1)** provide a method by which agricultural producers may—
+    - **(A)** download from the Internet the forms of the agencies specified in subsection (b); and
+    - **(B)** submit completed forms via electronic facsimile, mail, or similar means;
+  - **(2)** redesign the forms by incorporating into the forms user-friendly formats and self-help guidance materials; and
+  - **(3)** ensure that the agencies specified in subsection (b)—
+    - **(A)** use computer hardware and software that is compatible among the agencies and will operate in a common computing environment; and
+    - **(B)** develop common Internet user-interface locations and applications to consolidate the agencies’ news, information, and program materials.
+- **(d)** Not later than 180 days after June 20, 2000 , the Secretary shall submit to Congress a report that describes the progress made toward implementing the Internet-based system required under this section.

@@ -3,9 +3,9 @@ title: "Section 461 - Remission of indebtedness of enlisted members upon dischar
 usc_title: 14
 usc_section: "461"
 chapter: 13
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "14 U.S.C. § 461"
-generated_at: "2026-03-30T04:29:59.169Z"
+generated_at: "2026-03-30T04:32:10.953Z"
 status: "active"
 ---
 

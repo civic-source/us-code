@@ -3,9 +3,9 @@ title: "Section 13727 - State information regarding individuals who die in the c
 usc_title: 42
 usc_section: "13727"
 chapter: 136
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 13727"
-generated_at: "2026-03-30T04:31:22.315Z"
+generated_at: "2026-03-30T04:33:08.258Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12523 - Assistance to States, territories, and Indian tribes"
 usc_title: 42
 usc_section: "12523"
 chapter: 129
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 12523"
-generated_at: "2026-03-30T04:31:22.274Z"
+generated_at: "2026-03-30T04:33:08.225Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
       - **(ii)** may include a private for-profit business, private elementary school or secondary school, or Indian tribe (except that an Indian tribe distributing funds to a project under this paragraph is not eligible to be part of the partnership operating that project);
   - **(3)** planning of school-based service-learning programs, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to local educational agencies and Indian tribes, which planning may include paying for the cost of—
     - **(A)** the salaries and benefits of service-learning coordinators; or
-    - **(B)** the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under section 5001 of this title , or who may participate in a Youthbuild program under section 2918a of title 29 ,
+    - **(B)** the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under section 5001 of this title , or who may participate in a Youthbuild program under section 3226 of title 29 ,
   - **(4)** implementing, operating, or expanding school-based service-learning programs to utilize adult volunteers in service-learning to improve the education of students, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to—
     - **(A)** local educational agencies;
     - **(B)** Indian tribes (except that an Indian tribe distributing funds under this paragraph is not eligible to be a recipient of those funds);

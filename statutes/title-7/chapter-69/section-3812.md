@@ -1,0 +1,15 @@
+---
+title: "Section 3812 - Authority in addition to other laws; effect on State laws"
+usc_title: 7
+usc_section: "3812"
+chapter: 69
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 3812"
+generated_at: "2026-03-30T04:31:56.995Z"
+status: "active"
+---
+
+# § 3812. Authority in addition to other laws; effect on State laws
+
+The authority conferred by this chapter shall be in addition to authority conferred by other statutes. Nothing in this chapter shall be construed to repeal or supersede any State law prohibiting the feeding of garbage to swine or to prohibit any State from enforcing requirements relating to the treatment of garbage to be fed to swine or the feeding thereof which are more stringent than those under this chapter or the regulations hereunder.
+

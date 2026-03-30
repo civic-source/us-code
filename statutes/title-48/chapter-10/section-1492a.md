@@ -1,15 +1,15 @@
 ---
-title: "Section 1492a - Study of Electric Rates in the Insular Areas"
+title: "Section 1492a - Study of electric rates in the insular areas"
 usc_title: 48
 usc_section: "1492a"
 chapter: 10
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "48 U.S.C. § 1492a"
-generated_at: "2026-03-30T04:31:25.297Z"
+generated_at: "2026-03-30T04:33:12.181Z"
 status: "active"
 ---
 
-# § 1492a. Study of Electric Rates in the Insular Areas
+# § 1492a. Study of electric rates in the insular areas
 
 - **(a)** In this section:
   - **(1)** The term “comprehensive energy plan” means a comprehensive energy plan prepared and updated under subsections (c) and (e) of section 1492 of this title .

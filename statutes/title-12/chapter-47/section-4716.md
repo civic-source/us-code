@@ -3,16 +3,16 @@ title: "Section 4716 - Studies and reports; examination and audit"
 usc_title: 12
 usc_section: "4716"
 chapter: 47
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4716"
-generated_at: "2026-03-30T04:30:07.261Z"
+generated_at: "2026-03-30T04:32:14.436Z"
 status: "active"
 ---
 
 # § 4716. Studies and reports; examination and audit
 
-- **(a)** The Fund shall conduct an annual evaluation of the activities carried out by the Fund and the community development financial institutions and other organizations assisted pursuant to this subchapter, and shall submit a report of its findings to the President and the Congress not later than 120 days after the end of each fiscal year of the Fund. The report shall include financial statements audited in accordance with subsection (f) of this section.
-- **(b)** The Fund may conduct such studies as the Fund determines necessary to further the purpose of this subchapter and to facilitate investment in distressed communities. The findings of any studies conducted pursuant to this subsection shall be included in the report required by subsection (a) of this section.
+- **(a)** The Fund shall conduct an annual evaluation of the activities carried out by the Fund and the community development financial institutions and other organizations assisted pursuant to this subchapter, and shall submit a report of its findings to the President and the Congress not later than 120 days after the end of each fiscal year of the Fund. The report shall include financial statements audited in accordance with subsection (f).
+- **(b)** The Fund may conduct such studies as the Fund determines necessary to further the purpose of this subchapter and to facilitate investment in distressed communities. The findings of any studies conducted pursuant to this subsection shall be included in the report required by subsection (a).
 - **(c)**
   - **(1)** The Fund shall conduct a study on lending and investment practices on Indian reservations and other land held in trust by the United States. Such study shall—
     - **(A)** identify barriers to private financing on such lands; and

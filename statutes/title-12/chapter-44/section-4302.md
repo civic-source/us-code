@@ -3,22 +3,22 @@ title: "Section 4302 - Disclosure of interest rates and terms of accounts"
 usc_title: 12
 usc_section: "4302"
 chapter: 44
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4302"
-generated_at: "2026-03-30T04:30:07.249Z"
+generated_at: "2026-03-30T04:32:14.423Z"
 status: "active"
 ---
 
 # § 4302. Disclosure of interest rates and terms of accounts
 
-- **(a)** Except as provided in subsections (b) and (c) of this section, each advertisement, announcement, or solicitation initiated by any depository institution or deposit broker relating to any demand or interest-bearing account offered by an insured depository institution which includes any reference to a specific rate of interest payable on amounts deposited in such account, or to a specific yield or rate of earnings on amounts so deposited, shall state the following information, to the extent applicable, in a clear and conspicuous manner:
+- **(a)** Except as provided in subsections (b) and (c), each advertisement, announcement, or solicitation initiated by any depository institution or deposit broker relating to any demand or interest-bearing account offered by an insured depository institution which includes any reference to a specific rate of interest payable on amounts deposited in such account, or to a specific yield or rate of earnings on amounts so deposited, shall state the following information, to the extent applicable, in a clear and conspicuous manner:
   - **(1)** The annual percentage yield.
   - **(2)** The period during which such annual percentage yield is in effect.
   - **(3)** All minimum account balance and time requirements which must be met in order to earn the advertised yield (and, in the case of accounts for which more than 1 yield is stated, each annual percentage yield and the account minimum balance requirement associated with each such yield shall be in close proximity and have equal prominence).
   - **(4)** The minimum amount of the initial deposit which is required to open the account in order to obtain the yield advertised, if such minimum amount is greater than the minimum balance necessary to earn the advertised yield.
   - **(5)** A statement that regular fees or other conditions could reduce the yield.
   - **(6)** A statement that an interest penalty is required for early withdrawal.
-- **(b)** The Bureau may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) of this section if the Bureau finds that any such disclosure would be unnecessarily burdensome.
+- **(b)** The Bureau may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) if the Bureau finds that any such disclosure would be unnecessarily burdensome.
 - **(c)** The disclosure requirements contained in this section shall not apply to any sign (including a rate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
   - **(1)** the accompanying annual percentage yield; and
   - **(2)** a statement that the consumer should request further information from an employee of the depository institution concerning the fees and terms applicable to the advertised account.

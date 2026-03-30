@@ -3,9 +3,9 @@ title: "Section 1574b - Federal guarantee for issuance of revenue bonds or other
 usc_title: 48
 usc_section: "1574b"
 chapter: 12
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "48 U.S.C. § 1574b"
-generated_at: "2026-03-30T04:31:25.299Z"
+generated_at: "2026-03-30T04:33:12.182Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(2)** taking into account anticipated expenditures by the government of the Virgin Islands while the bonds or other obligations forming a part of such issue will be outstanding, all outstanding obligations of the government of the Virgin Islands which will mature while the bonds or other obligations forming a part of such issue will be outstanding, and such other factors as he deems pertinent, that the revenues expected to be received under section 7652(b)(3) of title 26 will be sufficient to pay the principal of, and interest on, the bonds or other obligations forming a part of such issue;
   - **(3)** that credit is not otherwise available on reasonable terms and conditions and that there is reasonable assurance of repayment, and
   - **(4)** that the maturity of any obligations to be guaranteed does not exceed thirty years or 90 per centum of the useful life of the physical assets to be financed by the obligation, whichever is less as determined by the Secretary.
-- **(c)** The Secretary shall charge and collect fees in amounts sufficient in his judgment to cover the costs of administering this section. Fees collected under this subsection shall be deposited in the revolving fund created under subsection (g) of this section.
+- **(c)** The Secretary shall charge and collect fees in amounts sufficient in his judgment to cover the costs of administering this section. Fees collected under this subsection shall be deposited in the revolving fund created under subsection (g).
 - **(d)** Any guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligation for such guarantee, and the validity of any guarantee so made shall be incontestable, except for fraud or material misrepresentation, in the hands of the holder of the guaranteed obligation. Such guarantee shall constitute a pledge of the full faith and credit of the United States for such obligation.
 - **(e)** The interest on any obligation guaranteed under this section shall be included in gross income for purposes of chapter 1 of the Internal Revenue Code of 1986 [ 26 U.S.C. 1 et seq.].
 - **(f)** The aggregate principal amount of obligations which may be guaranteed under this Act shall not exceed $101,000,000. No commitment to guarantee may be issued by the Secretary, and no guaranteed but unobligated funds may be obligated by the government of the Virgin Islands after October 1, 1990 . After October 1, 1990 , any unobligated proceeds of bonds or other obligations issued by the government of the Virgin Islands pursuant to this section shall be repaid immediately by the government of the Virgin Islands to the lenders with the agreed upon interest. Should there be any delay in the government of the Virgin Islands’ making such repayment, the Secretary shall deduct the requisite amounts from moneys under his control that would otherwise be paid to the government of the Virgin Islands under section 7652(b)(3) of title 26 .

@@ -3,9 +3,9 @@ title: "Section 434 - Repealed. Pub. L. 87–849, § 2 , Oct. 23, 1962 , 76 Stat
 usc_title: 18
 usc_section: "434"
 chapter: 23
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "18 U.S.C. § 434"
-generated_at: "2026-03-30T04:30:14.537Z"
+generated_at: "2026-03-30T04:32:28.280Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3789ato3789c - Repealed. Pub. L. 98–473, title II, § 609B(e) 
 usc_title: 42
 usc_section: "3789ato3789c"
 chapter: 46
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 3789ato3789c"
-generated_at: "2026-03-30T04:31:22.026Z"
+generated_at: "2026-03-30T04:33:08.020Z"
 status: "repealed"
 ---
 

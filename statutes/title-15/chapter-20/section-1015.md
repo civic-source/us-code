@@ -3,9 +3,9 @@ title: "Section 1015 - “State” defined"
 usc_title: 15
 usc_section: "1015"
 chapter: 20
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 1015"
-generated_at: "2026-03-30T04:30:11.350Z"
+generated_at: "2026-03-30T04:32:17.678Z"
 status: "active"
 ---
 

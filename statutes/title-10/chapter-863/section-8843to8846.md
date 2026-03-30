@@ -3,9 +3,9 @@ title: "Section 8843to8846 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "8843to8846"
 chapter: 863
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 8843to8846"
-generated_at: "2026-03-30T04:29:56.853Z"
+generated_at: "2026-03-30T04:32:08.699Z"
 status: "repealed"
 ---
 

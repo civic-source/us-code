@@ -3,9 +3,9 @@ title: "Section 11346 - Program guidelines"
 usc_title: 42
 usc_section: "11346"
 chapter: 119
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 11346"
-generated_at: "2026-03-30T04:31:22.257Z"
+generated_at: "2026-03-30T04:33:08.211Z"
 status: "active"
 ---
 

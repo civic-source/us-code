@@ -3,9 +3,9 @@ title: "Section 2795to2797 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Au
 usc_title: 42
 usc_section: "2795to2797"
 chapter: 34
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 2795to2797"
-generated_at: "2026-03-30T04:31:21.996Z"
+generated_at: "2026-03-30T04:33:07.995Z"
 status: "repealed"
 ---
 

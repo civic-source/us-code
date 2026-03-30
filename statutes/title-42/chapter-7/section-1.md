@@ -3,9 +3,9 @@ title: "Section 1 - Adult protective services functions and grant programs"
 usc_title: 42
 usc_section: "1"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T04:31:21.895Z"
+generated_at: "2026-03-30T04:33:07.913Z"
 status: "active"
 ---
 

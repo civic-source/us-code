@@ -3,9 +3,9 @@ title: "Section 10201 - Definitions"
 usc_title: 5
 usc_section: "10201"
 chapter: 102
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "5 U.S.C. § 10201"
-generated_at: "2026-03-30T04:29:48.563Z"
+generated_at: "2026-03-30T04:31:50.549Z"
 status: "active"
 ---
 

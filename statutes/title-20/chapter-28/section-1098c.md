@@ -3,9 +3,9 @@ title: "Section 1098c - Repealed. Pub. L. 110–315, title IV, § 494E , Aug. 14
 usc_title: 20
 usc_section: "1098c"
 chapter: 28
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 1098c"
-generated_at: "2026-03-30T04:30:23.741Z"
+generated_at: "2026-03-30T04:32:23.994Z"
 status: "repealed"
 ---
 

@@ -3,22 +3,22 @@ title: "Section 26a - Restrictions on the purchase of gasohol and synthetic moto
 usc_title: 15
 usc_section: "26a"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 26a"
-generated_at: "2026-03-30T04:30:11.265Z"
+generated_at: "2026-03-30T04:32:17.589Z"
 status: "active"
 ---
 
 # § 26a. Restrictions on the purchase of gasohol and synthetic motor fuel
 
-- **(a)** Except as provided in subsection (b) of this section, it shall be unlawful for any person engaged in commerce, in the course of such commerce, directly or indirectly to impose any condition, restriction, agreement, or understanding that—
+- **(a)** Except as provided in subsection (b), it shall be unlawful for any person engaged in commerce, in the course of such commerce, directly or indirectly to impose any condition, restriction, agreement, or understanding that—
   - **(1)** limits the use of credit instruments in any transaction concerning the sale, resale, or transfer of gasohol or other synthetic motor fuel of equivalent usability in any case in which there is no similar limitation on transactions concerning such person’s conventional motor fuel; or
   - **(2)** otherwise unreasonably discriminates against or unreasonably limits the sale, resale, or transfer of gasohol or other synthetic motor fuel of equivalent usability in any case in which such synthetic or conventional motor fuel is sold for use, consumption, or resale within the United States.
 - **(b)**
-  - **(1)** Nothing in this section or in any other provision of law in effect on December 2, 1980 , which is specifically applicable to the sale of petroleum products shall preclude any person referred to in subsection (a) of this section from imposing a reasonable fee for credit on the sale, resale, or transfer of the gasohol or other synthetic motor fuel referred to in subsection (a) of this section if such fee equals no more than the actual costs to such person of extending that credit.
+  - **(1)** Nothing in this section or in any other provision of law in effect on December 2, 1980 , which is specifically applicable to the sale of petroleum products shall preclude any person referred to in subsection (a) from imposing a reasonable fee for credit on the sale, resale, or transfer of the gasohol or other synthetic motor fuel referred to in subsection (a) if such fee equals no more than the actual costs to such person of extending that credit.
   - **(2)** The prohibitions in this section shall not apply to any person who makes available sufficient supplies of gasohol and other synthetic motor fuels of equivalent usability to satisfy his customers’ needs for such products, if the gasohol and other synthetic fuels are made available on terms and conditions which are equivalent to the terms and conditions on which such person’s conventional motor fuel products are made available.
   - **(3)** Nothing in this section shall—
-    - **(A)** preclude any person referred to in subsection (a) of this section from requiring reasonable labeling of pumps dispensing the gasohol or other synthetic motor fuel referred to in subsection (a) of this section to indicate, as appropriate, that such gasohol or other synthetic motor fuel is not manufactured, distributed, or sold by such person;
+    - **(A)** preclude any person referred to in subsection (a) from requiring reasonable labeling of pumps dispensing the gasohol or other synthetic motor fuel referred to in subsection (a) to indicate, as appropriate, that such gasohol or other synthetic motor fuel is not manufactured, distributed, or sold by such person;
     - **(B)** preclude such person from issuing appropriate disclaimers of product liability for damage resulting from use of the gasohol or other synthetic motor fuel;
     - **(C)** require such person to provide advertising support for the gasohol or other synthetic motor fuel; or
     - **(D)** require such person to furnish or provide, at such person’s own expense, any additional pumps, tanks, or other related facilities required for the sale of the gasohol or other synthetic motor fuel.

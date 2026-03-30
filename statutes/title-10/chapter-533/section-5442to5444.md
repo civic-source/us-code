@@ -3,9 +3,9 @@ title: "Section 5442to5444 - Repealed. Pub. L. 101–510, div. A, title IV, § 4
 usc_title: 10
 usc_section: "5442to5444"
 chapter: 533
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 5442to5444"
-generated_at: "2026-03-30T04:29:56.840Z"
+generated_at: "2026-03-30T04:32:08.687Z"
 status: "repealed"
 ---
 

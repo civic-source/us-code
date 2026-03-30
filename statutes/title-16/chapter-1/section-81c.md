@@ -3,9 +3,9 @@ title: "Section 81c - Addition of lands"
 usc_title: 16
 usc_section: "81c"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 81c"
-generated_at: "2026-03-30T04:30:21.017Z"
+generated_at: "2026-03-30T04:32:27.240Z"
 status: "active"
 ---
 

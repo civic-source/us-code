@@ -3,9 +3,9 @@ title: "Section 3413 - Office for Civil Rights"
 usc_title: 20
 usc_section: "3413"
 chapter: 48
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 3413"
-generated_at: "2026-03-30T04:30:23.780Z"
+generated_at: "2026-03-30T04:32:24.025Z"
 status: "active"
 ---
 

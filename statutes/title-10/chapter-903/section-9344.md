@@ -3,9 +3,9 @@ title: "Section 9344 - Selection of persons from foreign countries"
 usc_title: 10
 usc_section: "9344"
 chapter: 903
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 9344"
-generated_at: "2026-03-30T04:29:56.855Z"
+generated_at: "2026-03-30T04:32:08.701Z"
 status: "active"
 ---
 

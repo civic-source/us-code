@@ -3,9 +3,9 @@ title: "Section 1082 - Membership rolls; preparation; eligibility for enrollment
 usc_title: 25
 usc_section: "1082"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 1082"
-generated_at: "2026-03-30T04:30:33.606Z"
+generated_at: "2026-03-30T04:32:32.804Z"
 status: "active"
 ---
 

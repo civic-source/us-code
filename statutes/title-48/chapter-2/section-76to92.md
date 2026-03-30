@@ -3,9 +3,9 @@ title: "Section 76to92 - Omitted"
 usc_title: 48
 usc_section: "76to92"
 chapter: 2
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "48 U.S.C. § 76to92"
-generated_at: "2026-03-30T04:31:25.292Z"
+generated_at: "2026-03-30T04:33:12.174Z"
 status: "omitted"
 ---
 

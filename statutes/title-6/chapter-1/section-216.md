@@ -3,9 +3,9 @@ title: "Section 216 - GAO report to Congress"
 usc_title: 6
 usc_section: "216"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "6 U.S.C. § 216"
-generated_at: "2026-03-30T04:29:52.416Z"
+generated_at: "2026-03-30T04:31:53.349Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14044b - Victim-centered child human trafficking deterrence bloc
 usc_title: 42
 usc_section: "14044b"
 chapter: 136
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 14044b"
-generated_at: "2026-03-30T04:31:22.326Z"
+generated_at: "2026-03-30T04:33:08.266Z"
 status: "active"
 ---
 

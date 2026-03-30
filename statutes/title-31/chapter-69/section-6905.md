@@ -3,9 +3,9 @@ title: "Section 6905 - Redwood National Park and the Lake Tahoe Basin"
 usc_title: 31
 usc_section: "6905"
 chapter: 69
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "31 U.S.C. § 6905"
-generated_at: "2026-03-30T04:30:54.381Z"
+generated_at: "2026-03-30T04:32:45.627Z"
 status: "active"
 ---
 

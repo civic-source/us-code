@@ -1,0 +1,33 @@
+---
+title: "Section 6962 - Natural Resources Conservation Service"
+usc_title: 7
+usc_section: "6962"
+chapter: 98
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 6962"
+generated_at: "2026-03-30T04:31:57.018Z"
+status: "active"
+---
+
+# § 6962. Natural Resources Conservation Service
+
+- **(a)** The Secretary is authorized to establish and maintain within the Department a Natural Resources Conservation Service.
+- **(b)** If the Secretary establishes the Natural Resources Conservation Service under subsection (a), the Secretary is authorized to assign to the Service jurisdiction over the following:
+  - **(1)** The Water Bank Act ( 16 U.S.C. 1301 et seq.).
+  - **(2)** The forest land enhancement program under section 2103 of title 16 . 1 1 See References in Text note below.
+  - **(3)** Title XII of the Food Security Act of 1985 ( 16 U.S.C. 3801 et seq.), except subchapter B of chapter 1 of subtitle D of such title [ 16 U.S.C. 3831 et seq.].
+  - **(4)** Salinity control measures under section 1592(c) of title 43 .
+  - **(5)** The Farms for the Future Act of 1990 ( 7 U.S.C. 4201 note).
+  - **(6)** Such other functions as the Secretary considers appropriate, except functions under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 [ 16 U.S.C. 3831 et seq.].
+- **(c)** In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3837–383 7f), 1 the Secretary shall—
+  - **(1)** acting on the recommendations of the Natural Resources Conservation Service, with the concurrence of the Consolidated Farm Service Agency, issue regulations to carry out such programs;
+  - **(2)** ensure that the Natural Resources Conservation Service, in establishing policies, priorities, and guidelines for each such program, does so with the concurrence of the Consolidated Farm Service Agency at national, State, and local levels;
+  - **(3)** ensure that, in reaching such concurrence at the local level, the Natural Resources Conservation Service works in cooperation with Soil and Water Conservation Districts or similar organizations established under State law;
+  - **(4)** ensure that officials of county and area committees established under section 590h(b)(5) of title 16 meet annually with officials of such Districts or similar organizations to consider local conservation priorities and guidelines; and
+  - **(5)** take steps to ensure that the concurrence process does not interfere with the effective delivery of such programs.
+- **(d)**
+  - **(1)** In the implementation of functions assigned to the Natural Resources Conservation Service, the Secretary may use interchangeably in local offices of the Service both Federal employees of the Department and non-Federal employees of county and area committees established under section 590h(b)(5) of title 16 .
+  - **(2)** Notwithstanding paragraph (1), no personnel action (as defined in section 2302(a)(2)(A) of title 5 ) may be taken with respect to a Federal employee unless such action is taken by another Federal employee.
+- **(e)** For purposes of subsections (c) and (d) of this section:
+  - **(1)** A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under this section.
+  - **(2)** A reference to the “Consolidated Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under section 6932 of this title .

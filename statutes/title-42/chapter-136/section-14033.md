@@ -3,9 +3,9 @@ title: "Section 14033 - Application requirements"
 usc_title: 42
 usc_section: "14033"
 chapter: 136
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 14033"
-generated_at: "2026-03-30T04:31:22.322Z"
+generated_at: "2026-03-30T04:33:08.263Z"
 status: "active"
 ---
 

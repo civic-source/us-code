@@ -3,9 +3,9 @@ title: "Section 4212 - Veterans’ employment emphasis under Federal contracts"
 usc_title: 38
 usc_section: "4212"
 chapter: 42
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "38 U.S.C. § 4212"
-generated_at: "2026-03-30T04:31:01.345Z"
+generated_at: "2026-03-30T04:32:50.155Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** Any contract in the amount of $100,000 or more entered into by any department or agency of the United States for the procurement of personal property and nonpersonal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States take affirmative action to employ and advance in employment qualified covered veterans. This section applies to any subcontract in the amount of $100,000 or more entered into by a prime contractor in carrying out any such contract.
   - **(2)** In addition to requiring affirmative action to employ such qualified covered veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the Secretary of Labor shall prescribe regulations requiring that—
-    - **(A)** each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in section 4101(7) of this title ), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998, other appropriate service delivery points, or America’s Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor’s organization and positions lasting three days or less;
+    - **(A)** each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in section 4101(7) of this title ), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998, 1 1 See References in Text note below. other appropriate service delivery points, or America’s Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor’s organization and positions lasting three days or less;
     - **(B)** each such employment service delivery system shall give such qualified covered veterans priority in referral to such employment openings; and
     - **(C)** each such employment service delivery system shall provide a list of such employment openings to States, political subdivisions of States, or any private entities or organizations under contract to carry out employment, training, and placement services under chapter 41 of this title.
   - **(3)** In this section:

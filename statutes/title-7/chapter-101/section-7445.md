@@ -1,0 +1,46 @@
+---
+title: "Section 7445 - Assessments"
+usc_title: 7
+usc_section: "7445"
+chapter: 101
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 7445"
+generated_at: "2026-03-30T04:31:57.026Z"
+status: "active"
+---
+
+# § 7445. Assessments
+
+- **(a)**
+  - **(1)** During the effective period of an order issued pursuant to this subchapter, assessments shall be—
+    - **(A)** levied on all canola or rapeseed produced in the United States and marketed; and
+    - **(B)** deducted from the payment made to a producer for all canola or rapeseed sold to a first purchaser.
+  - **(2)** The order shall provide that any person processing canola or rapeseed of that person’s own production and marketing the canola or rapeseed, or canola or rapeseed products, shall remit to the Board or a State organization certified to represent producers under section 7444(b)(6) of this title , in the manner prescribed by the order, an assessment established at a rate equivalent to the rate provided for under subsection (d).
+- **(b)** No more than 1 assessment may be assessed under subsection (a) on any canola or rapeseed produced (as remitted by a first purchaser).
+- **(c)**
+  - **(1)** Assessments required under subsection (a) shall be remitted to the Board by a first purchaser. The Board shall use State organizations certified to represent producers under section 7444(b)(6) of this title to collect the assessments. If an appropriate certified State organization does not exist to collect an assessment, the assessment shall be collected by the Board. There shall be only 1 certified State organization in each State.
+  - **(2)** Each first purchaser shall remit the assessment to the Board as provided for in the order.
+- **(d)**
+  - **(1)** The initial assessment rate shall be 4 cents per hundredweight of canola or rapeseed produced and marketed.
+  - **(2)** The assessment rate may be increased on recommendation by the Board to a rate not exceeding 10 cents per hundredweight of canola or rapeseed produced and marketed in a State, unless—
+    - **(A)** after the initial referendum is held under section 7446(a) of this title , the Board recommends an increase above 10 cents per hundredweight; and
+    - **(B)** the increase is approved in a referendum under section 7446(b) of this title .
+  - **(3)** A producer who demonstrates to the Board that the producer is participating in a program of a State organization certified to represent producers under section 7444(b)(6) of this title shall receive credit, in determining the assessment due from the producer, for contributions to the program of up to 2 cents per hundredweight of canola or rapeseed marketed.
+- **(e)**
+  - **(1)** There shall be a late payment charge imposed on any person who fails to remit, on or before the date provided for in the order, to the Board the total amount for which the person is liable.
+  - **(2)** The amount of the late payment charge imposed under paragraph (1) shall be prescribed by the Board with the approval of the Secretary.
+- **(f)**
+  - **(1)** During the period beginning on the date on which an order is first issued under section 7443(b)(3) of this title and ending on the date on which a referendum is conducted under section 7446(a) of this title , the Board shall—
+    - **(A)** establish and maintain an escrow account to be used for assessment refunds; and
+    - **(B)** place funds in the account in accordance with paragraph (2).
+  - **(2)** The Board shall place in the account, from assessments collected during the period referred to in paragraph (1), an amount equal to the product obtained by multiplying the total amount of assessments collected during the period by 10 percent.
+  - **(3)** The Board shall refund to a producer the assessments paid by or on behalf of the producer if—
+    - **(A)** the producer is required to pay the assessment;
+    - **(B)** the producer does not support the program established under this subchapter; and
+    - **(C)** the producer demands the refund prior to the conduct of the referendum under section 7446(a) of this title .
+  - **(4)** The demand shall be made in accordance with such regulations, in such form, and within such time period as prescribed by the Board.
+  - **(5)** The refund shall be made on submission of proof satisfactory to the Board that the producer paid the assessment for which the refund is demanded.
+  - **(6)** If—
+    - **(A)** the amount in the escrow account required by paragraph (1) is not sufficient to refund the total amount of assessments demanded by eligible producers; and
+    - **(B)** the order is not approved pursuant to the referendum conducted under section 7446(a) of this title ;
+  - **(7)** If the plan is approved pursuant to the referendum conducted under section 7446(a) of this title , all funds in the escrow account shall be returned to the Board for use by the Board in accordance with this subchapter.

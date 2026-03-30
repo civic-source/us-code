@@ -3,9 +3,9 @@ title: "Section 3071 - Repealed. Pub. L. 95–485, title VIII, § 820(b) , Oct. 
 usc_title: 10
 usc_section: "3071"
 chapter: 307
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 3071"
-generated_at: "2026-03-30T04:29:56.831Z"
+generated_at: "2026-03-30T04:32:08.678Z"
 status: "repealed"
 ---
 

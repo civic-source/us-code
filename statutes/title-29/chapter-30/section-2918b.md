@@ -1,15 +1,13 @@
 ---
-title: "Section 2918b - Re-enrollment in alternative school by high-school dropout"
+title: "Section 2918b - Transferred"
 usc_title: 29
 usc_section: "2918b"
 chapter: 30
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 2918b"
-generated_at: "2026-03-30T04:30:39.361Z"
-status: "active"
+generated_at: "2026-03-30T04:32:38.650Z"
+status: "transferred"
 ---
 
-# § 2918b. Re-enrollment in alternative school by high-school dropout
-
-For program year 2010 and each program year thereafter, the YouthBuild program may serve an individual who has dropped out of high school and re-enrolled in an alternative school, if that re-enrollment is part of a sequential service strategy.
+# § 2918b. Transferred
 

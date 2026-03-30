@@ -3,9 +3,9 @@ title: "Section 2755 - Discrimination prohibited if based on race, religion, nat
 usc_title: 22
 usc_section: "2755"
 chapter: 39
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 2755"
-generated_at: "2026-03-30T04:30:30.096Z"
+generated_at: "2026-03-30T04:32:34.634Z"
 status: "active"
 ---
 

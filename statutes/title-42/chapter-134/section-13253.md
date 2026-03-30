@@ -3,9 +3,9 @@ title: "Section 13253 - Replacement fuel demand estimates and supply information
 usc_title: 42
 usc_section: "13253"
 chapter: 134
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 13253"
-generated_at: "2026-03-30T04:31:22.303Z"
+generated_at: "2026-03-30T04:33:08.248Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7811to7819 - Repealed. Pub. L. 98–242, title I, § 110(a) , Ma
 usc_title: 42
 usc_section: "7811to7819"
 chapter: 87
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 7811to7819"
-generated_at: "2026-03-30T04:31:22.184Z"
+generated_at: "2026-03-30T04:33:08.150Z"
 status: "repealed"
 ---
 

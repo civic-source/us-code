@@ -3,9 +3,9 @@ title: "Section 434 - Transfer of functions, appropriations, records and propert
 usc_title: 7
 usc_section: "434"
 chapter: 17
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "7 U.S.C. § 434"
-generated_at: "2026-03-30T04:29:50.879Z"
+generated_at: "2026-03-30T04:31:56.909Z"
 status: "active"
 ---
 

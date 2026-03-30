@@ -3,9 +3,9 @@ title: "Section 3306 - Definitions"
 usc_title: 26
 usc_section: "3306"
 chapter: 23
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 3306"
-generated_at: "2026-03-30T04:30:50.416Z"
+generated_at: "2026-03-30T04:32:42.958Z"
 status: "active"
 ---
 
@@ -184,7 +184,7 @@ status: "active"
   - **(3)** such employees whose workweeks have been reduced by at least 10 percent, and by not more than the percentage, if any, that is determined by the State to be appropriate (but in no case more than 60 percent), are not disqualified from unemployment compensation;
   - **(4)** the amount of unemployment compensation payable to any such employee is a pro rata portion of the unemployment compensation which would otherwise be payable to the employee if such employee were unemployed;
   - **(5)** such employees meet the availability for work and work search test requirements while collecting short-time compensation benefits, by being available for their workweek as required by the State agency;
-  - **(6)** eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) to enhance job skills if such program has been approved by the State agency;
+  - **(6)** eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) 6 6 See References in Text note below. to enhance job skills if such program has been approved by the State agency;
   - **(7)** the State agency shall require employers to certify that if the employer provides health benefits and retirement benefits under a defined benefit plan (as defined in section 414(j)) or contributions under a defined contribution plan (as defined in section 414(i)) to any employee whose workweek is reduced under the program that such benefits will continue to be provided to employees participating in the short-time compensation program under the same terms and conditions as though the workweek of such employee had not been reduced or to the same extent as other employees not participating in the short-time compensation program;
   - **(8)** the State agency shall require an employer to submit a written plan describing the manner in which the requirements of this subsection will be implemented (including a plan for giving advance notice, where feasible, to an employee whose workweek is to be reduced) together with an estimate of the number of layoffs that would have occurred absent the ability to participate in short-time compensation and such other information as the Secretary of Labor determines is appropriate;
   - **(9)** the terms of the employer’s written plan and implementation shall be consistent with employer obligations under applicable Federal and State laws; and

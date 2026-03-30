@@ -3,9 +3,9 @@ title: "Section 7602 - Examination of books and witnesses"
 usc_title: 26
 usc_section: "7602"
 chapter: 78
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 7602"
-generated_at: "2026-03-30T04:30:50.534Z"
+generated_at: "2026-03-30T04:32:43.027Z"
 status: "active"
 ---
 

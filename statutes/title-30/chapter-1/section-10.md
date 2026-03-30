@@ -3,9 +3,9 @@ title: "Section 10 - Headquarters of mine rescue cars; site for experimental wor
 usc_title: 30
 usc_section: "10"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "30 U.S.C. § 10"
-generated_at: "2026-03-30T04:30:38.367Z"
+generated_at: "2026-03-30T04:32:37.045Z"
 status: "active"
 ---
 

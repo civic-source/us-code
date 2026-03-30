@@ -3,9 +3,9 @@ title: "Section 16601 - Transferred"
 usc_title: 42
 usc_section: "16601"
 chapter: 150
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 16601"
-generated_at: "2026-03-30T04:31:22.370Z"
+generated_at: "2026-03-30T04:33:08.301Z"
 status: "transferred"
 ---
 

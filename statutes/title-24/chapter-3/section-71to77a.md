@@ -3,9 +3,9 @@ title: "Section 71to77a - Repealed. Pub. L. 85–857, § 14(1) , (6), (9), (16),
 usc_title: 24
 usc_section: "71to77a"
 chapter: 3
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "24 U.S.C. § 71to77a"
-generated_at: "2026-03-30T04:30:25.912Z"
+generated_at: "2026-03-30T04:32:30.332Z"
 status: "repealed"
 ---
 

@@ -1,0 +1,45 @@
+---
+title: "Section 2008v - Strategic economic and community development"
+usc_title: 7
+usc_section: "2008v"
+chapter: 50
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 2008v"
+generated_at: "2026-03-30T04:31:56.963Z"
+status: "active"
+---
+
+# § 2008v. Strategic economic and community development
+
+- **(a)** In the case of any rural development program described in subsection (d)(2), the Secretary may give priority to an application for a project that, as determined and approved by the Secretary—
+  - **(1)** meets the applicable eligibility requirements of this chapter;
+  - **(2)** will be carried out solely in a rural area; and
+  - **(3)** supports strategic community and economic development plans on a multijurisdictional basis.
+- **(b)** For purposes of subsection (a)(2), the Secretary shall consider an application to be for a project that will be carried out solely in a rural area only if—
+  - **(1)** in the case of an application for a project in the rural community facilities category described in subsection (d)(2)(A), the project will be carried out in a rural area described in section 1991(a)(13)(C) of this title ;
+  - **(2)** in the case of an application for a project in the rural utilities category described in subsection (d)(2)(B), the project will be carried out in a rural area described in section 1991(a)(13)(B) of this title ; and
+  - **(3)** in the case of an application for a project in the rural business and cooperative development category described in subsection (d)(2)(C), the project will be carried out in a rural area described in section 1991(a)(13)(A) of this title .
+- **(c)**
+  - **(1)** In evaluating strategic applications, the Secretary shall give a higher priority to strategic applications for a plan described in subsection (a) that demonstrates to the Secretary—
+    - **(A)** the plan was developed through the collaboration of multiple stakeholders in the service area of the plan, including the participation of combinations of stakeholders such as State, local, and tribal governments, nonprofit institutions, institutions of higher education, and private entities;
+    - **(B)** an understanding of the applicable regional resources that could support the plan, including natural resources, human resources, infrastructure, and financial resources;
+    - **(C)** investment from other Federal agencies;
+    - **(D)** investment from philanthropic organizations; and
+    - **(E)** clear objectives for the plan and the ability to establish measurable performance measures and to track progress toward meeting the objectives.
+  - **(2)** Applications involving State, county, municipal, or tribal governments shall include an indication of consistency with an adopted regional economic or community development plan.
+- **(d)**
+  - **(1)** Subject to paragraph (3) and subsection (e), the Secretary may reserve for projects that support multijurisdictional strategic community and economic development plans described in subsection (a) an amount that does not exceed 10 percent of the funds made available for a fiscal year for a functional category described in paragraph (2).
+  - **(2)** The functional categories described in this subsection are the following:
+    - **(A)** The rural community facilities category consists of all amounts made available for community facility grants and direct and guaranteed loans under paragraph (1), (19), (20), (21), (24), or (25) of section 1926(a) of this title .
+    - **(B)** The rural utilities category consists of all amounts made available for—
+      - **(i)** water or waste disposal grants or direct or guaranteed loans under paragraph (1), (2), or (24) of section 1926(a) of this title ;
+      - **(ii)** rural water or wastewater technical assistance and training grants under section 1926(a)(14) of this title ;
+      - **(iii)** emergency community water assistance grants under section 1926a of this title ; or
+      - **(iv)** solid waste management grants under section 1932(b) of this title .
+    - **(C)** The rural business and cooperative development category consists of all amounts made available for—
+      - **(i)** business and industry direct and guaranteed loans under section 1932(a)(2)(A) of this title ; or
+      - **(ii)** rural business development grants under section 1932(c) of this title .
+  - **(3)** The reservation of funds described in paragraph (2) may only extend through June 30 of the fiscal year in which the funds were first made available.
+- **(e)**
+  - **(1)** Any applicant who submitted a rural development application that was approved before February 7, 2014 , may amend the application to qualify for the funds reserved under subsection (d)(1).
+  - **(2)** Any rural development application authorized under section 1926(a)(2), 1926(a)(14), 1926(a)(24), 1926a, or 1932(b) of this title and approved by the Secretary before February 7, 2014 , shall be eligible for the funds reserved under subsection (d)(1) on the same basis as the applications submitted under this section until September 30, 2016 .

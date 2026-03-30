@@ -3,9 +3,9 @@ title: "Section 1161q - Grants to rural-serving institutions of higher education
 usc_title: 20
 usc_section: "1161q"
 chapter: 28
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 1161q"
-generated_at: "2026-03-30T04:30:23.754Z"
+generated_at: "2026-03-30T04:32:24.004Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
 - **(c)**
   - **(1)** A rural-serving institution of higher education, or a consortium of rural-serving institutions of higher education, that receives a grant under this section shall carry out the activities of the grant in partnership with—
     - **(A)** one or more local educational agencies serving a rural area; and
-    - **(B)** one or more regional employers or local boards (as such term is defined in section 2801 of title 29 ) serving a rural area.
+    - **(B)** one or more regional employers or local boards (as such term is defined in section 3102 of title 29 ) serving a rural area.
   - **(2)** A rural-serving institution of higher education, or a consortium of rural-serving institutions of higher education, that receives a grant under this section, may carry out the activities of the grant in partnership with—
     - **(A)** an educational service agency (as defined in section 7801 of this title ); or
     - **(B)** a nonprofit organization with demonstrated expertise in rural education at the secondary and postsecondary levels.

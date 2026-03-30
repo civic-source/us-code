@@ -3,9 +3,9 @@ title: "Section 4714 - Recordkeeping"
 usc_title: 12
 usc_section: "4714"
 chapter: 47
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4714"
-generated_at: "2026-03-30T04:30:07.261Z"
+generated_at: "2026-03-30T04:32:14.435Z"
 status: "active"
 ---
 

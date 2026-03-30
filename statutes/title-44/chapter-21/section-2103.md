@@ -3,9 +3,9 @@ title: "Section 2103 - Officers"
 usc_title: 44
 usc_section: "2103"
 chapter: 21
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "44 U.S.C. § 2103"
-generated_at: "2026-03-30T04:31:03.904Z"
+generated_at: "2026-03-30T04:32:56.222Z"
 status: "active"
 ---
 

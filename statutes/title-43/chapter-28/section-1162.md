@@ -3,9 +3,9 @@ title: "Section 1162 - Adjudications as to suspended entries; ap­proval"
 usc_title: 43
 usc_section: "1162"
 chapter: 28
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "43 U.S.C. § 1162"
-generated_at: "2026-03-30T04:31:04.656Z"
+generated_at: "2026-03-30T04:32:53.567Z"
 status: "active"
 ---
 

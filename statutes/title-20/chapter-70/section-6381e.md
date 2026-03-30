@@ -3,9 +3,9 @@ title: "Section 6381e - Eligible participants"
 usc_title: 20
 usc_section: "6381e"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6381e"
-generated_at: "2026-03-30T04:30:23.804Z"
+generated_at: "2026-03-30T04:32:24.045Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Except as provided in subsection (b) of this section, eligible participants in an Even Start program are—
   - **(1)** a parent or parents—
-    - **(A)** who are eligible for participation in adult education and literacy activities under the Adult Education and Family Literacy Act [ 20 U.S.C. 9201 et seq.]; or
+    - **(A)** who are eligible for participation in adult education and literacy activities under the Adult Education and Family Literacy Act [ 29 U.S.C. 3271 et seq.]; or
     - **(B)** who are within the State’s compulsory school attendance age range, so long as a local educational agency provides (or ensures the availability of) the basic education component required under this subpart, or who are attending secondary school; and
   - **(2)** the child or children, from birth through age 7, of any individual described in paragraph (1).
 - **(b)**

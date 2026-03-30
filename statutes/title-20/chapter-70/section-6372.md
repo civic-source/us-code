@@ -3,9 +3,9 @@ title: "Section 6372 - Local Early Reading First grants"
 usc_title: 20
 usc_section: "6372"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6372"
-generated_at: "2026-03-30T04:30:23.803Z"
+generated_at: "2026-03-30T04:32:24.044Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(8)** if the eligible applicant has received a subgrant under subpart 1 of this part, how the activities conducted under this subpart will be coordinated with the eligible applicant’s activities under subpart 1 of this part at the kindergarten through grade 3 level;
   - **(9)** how the proposed project will evaluate the success of the activities supported under this subpart in enhancing the early language, literacy, and prereading development of preschool age children served by the project; and
   - **(10)** such other information as the Secretary may require.
-- **(c)** The Secretary shall select applicants for funding under this subpart based on the quality of the applications and the recommendations of a peer review panel convened under section 6363(c)(2) of this title , that includes, at a minimum, three individuals, selected from the entities described in clauses (ii), (iii), and (iv) of section 6363(c)(2)(A) of this title , who are experts in early reading development and early childhood development.
+- **(c)** The Secretary shall select applicants for funding under this subpart based on the quality of the applications and the recommendations of a peer review panel convened under section 6363(c)(2) of this title , that includes, at a minimum, three individuals, selected from the entities described in clauses (ii), (iii), and (iv) of section 6363(c)(2)(A) 1 1 See References in Text note below. of this title, who are experts in early reading development and early childhood development.
 - **(d)** An eligible applicant that receives a grant under this subpart shall use the funds provided under the grant to carry out the following activities:
   - **(1)** Providing preschool age children with high-quality oral language and literature-rich environments in which to acquire language and prereading skills.
   - **(2)** Providing professional development that is based on scientifically based reading research knowledge of early language and reading development for the staff of the eligible applicant and that will assist in developing the preschool age children’s—

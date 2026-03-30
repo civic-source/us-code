@@ -3,9 +3,9 @@ title: "Section 3707 - Commencement of foreclosure; powers and duties of foreclo
 usc_title: 12
 usc_section: "3707"
 chapter: 38
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 3707"
-generated_at: "2026-03-30T04:30:07.242Z"
+generated_at: "2026-03-30T04:32:14.417Z"
 status: "active"
 ---
 

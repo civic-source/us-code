@@ -3,9 +3,9 @@ title: "Section 3107 - Direct payment of forest products receipts"
 usc_title: 25
 usc_section: "3107"
 chapter: 33
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 3107"
-generated_at: "2026-03-30T04:30:33.650Z"
+generated_at: "2026-03-30T04:32:32.850Z"
 status: "active"
 ---
 

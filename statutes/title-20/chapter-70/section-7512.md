@@ -3,9 +3,9 @@ title: "Section 7512 - Findings"
 usc_title: 20
 usc_section: "7512"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 7512"
-generated_at: "2026-03-30T04:30:23.831Z"
+generated_at: "2026-03-30T04:32:24.070Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ Congress finds the following:
     - **(E)** division A of subtitle III of title 54;
     - **(F)** the Native American Languages Act ( 25 U.S.C. 2901 et seq.);
     - **(G)** the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act ( 20 U.S.C. 4401 et seq.);
-    - **(H)** the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 et seq.); and
+    - **(H)** the Workforce Innovation and Opportunity Act; and
     - **(I)** the Older Americans Act of 1965 ( 42 U.S.C. 3001 et seq.).
   - **(14)** In 1981, Congress instructed the Office of Education to submit to Congress a comprehensive report on Native Hawaiian education. The report, entitled the “Native Hawaiian Educational Assessment Project”, was released in 1983 and documented that Native Hawaiians scored below parity with regard to national norms on standardized achievement tests, were disproportionately represented in many negative social and physical statistics indicative of special educational needs, and had educational needs that were related to their unique cultural situation, such as different learning styles and low self-image.
   - **(15)** In recognition of the educational needs of Native Hawaiians, in 1988, Congress enacted title IV of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988 ( 102 Stat. 130 ) to authorize and develop supplemental educational programs to address the unique conditions of Native Hawaiians.

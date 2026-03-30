@@ -3,9 +3,9 @@ title: "Section 2053 - Voluntary retirement"
 usc_title: 50
 usc_section: "2053"
 chapter: 38
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "50 U.S.C. § 2053"
-generated_at: "2026-03-30T04:31:33.463Z"
+generated_at: "2026-03-30T04:33:12.879Z"
 status: "active"
 ---
 

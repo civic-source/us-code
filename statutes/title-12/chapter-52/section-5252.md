@@ -3,9 +3,9 @@ title: "Section 5252 - Reports by the Office of Management and Budget and the Co
 usc_title: 12
 usc_section: "5252"
 chapter: 52
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 5252"
-generated_at: "2026-03-30T04:30:07.269Z"
+generated_at: "2026-03-30T04:32:14.444Z"
 status: "active"
 ---
 

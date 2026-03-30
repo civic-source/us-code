@@ -3,9 +3,9 @@ title: "Section 1454 - Unlading of passengers; penalty"
 usc_title: 19
 usc_section: "1454"
 chapter: 4
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "19 U.S.C. § 1454"
-generated_at: "2026-03-30T04:30:15.524Z"
+generated_at: "2026-03-30T04:32:21.033Z"
 status: "active"
 ---
 

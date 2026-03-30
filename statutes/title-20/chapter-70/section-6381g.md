@@ -3,9 +3,9 @@ title: "Section 6381g - Award of subgrants"
 usc_title: 20
 usc_section: "6381g"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6381g"
-generated_at: "2026-03-30T04:30:23.804Z"
+generated_at: "2026-03-30T04:32:24.045Z"
 status: "active"
 ---
 

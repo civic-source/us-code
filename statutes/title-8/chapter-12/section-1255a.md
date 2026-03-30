@@ -3,9 +3,9 @@ title: "Section 1255a - Adjustment of status of certain entrants before January 
 usc_title: 8
 usc_section: "1255a"
 chapter: 12
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "8 U.S.C. § 1255a"
-generated_at: "2026-03-30T04:29:51.386Z"
+generated_at: "2026-03-30T04:32:00.485Z"
 status: "active"
 ---
 
@@ -147,7 +147,7 @@ status: "active"
     - **(C)** The The 1 1 So in original. Carl D. Perkins Career and Technical Education Act of 2006 [ 20 U.S.C. 2301 et seq.].
     - **(D)** Title I of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.].
     - **(E)** The Headstart-Follow Through Act [ 42 U.S.C. 2921 et seq.].
-    - **(F)** Title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.].
+    - **(F)** Title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.].
     - **(G)** Title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.].
     - **(H)** The Public Health Service Act [ 42 U.S.C. 201 et seq.].
     - **(I)** Titles V, XVI, and XX [ 42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.], and parts B, D, and E of title IV [ 42 U.S.C. 620 et seq., 651 et seq., 670 et seq.], of the Social Security Act (and titles I, X, XIV, and XVI of such Act [ 42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).

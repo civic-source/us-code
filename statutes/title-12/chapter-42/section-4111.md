@@ -3,9 +3,9 @@ title: "Section 4111 - Mandatory sale for housing exceeding Federal cost limits"
 usc_title: 12
 usc_section: "4111"
 chapter: 42
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4111"
-generated_at: "2026-03-30T04:30:07.247Z"
+generated_at: "2026-03-30T04:32:14.421Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** For the 12-month period beginning upon the receipt by the Secretary of the second notice of intent under section 4106(d) of this title with respect to such housing, the owner of the housing may offer to sell and may sell the housing only to priority purchasers. If, during such period, a priority purchaser makes a bona fide offer to purchase the housing for a sale price not less than the preservation value of the housing determined under section 4103(b)(2) of this title , the Secretary shall require the owner to sell the housing pursuant to such offer.
   - **(2)** During the period under paragraph (1), priority purchasers shall have the opportunity to submit written notice to the owner and the Secretary stating their interest in acquiring the housing. Such written notice shall be in such form and include such information as the Secretary may prescribe.
   - **(3)** Not later than 30 days after receipt of any notice under paragraph (2), the Secretary shall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide such purchaser with appropriate information on the housing, as determined by the Secretary.
-- **(c)** If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) of this section is made during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1) of this section, the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. If, during such period, a qualified purchaser makes a bona fide offer to purchase the housing for a sale price not less than the preservation value of the housing determined under section 4103(b)(2) of this title , the Secretary shall require the owner to sell the housing pursuant to such offer.
+- **(c)** If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) is made during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1), the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. If, during such period, a qualified purchaser makes a bona fide offer to purchase the housing for a sale price not less than the preservation value of the housing determined under section 4103(b)(2) of this title , the Secretary shall require the owner to sell the housing pursuant to such offer.
 - **(d)**
   - **(1)** Subject to the availability of amounts approved in appropriations Acts, the Secretary shall, for approvable plans of action, provide to qualified purchasers assistance under section 1437f of title 42 sufficient to produce a gross income potential equal to the amount determined by multiplying 120 percent of the prevailing rents in the relevant local market area in which the housing is located by the number of units in the project (according to appropriate unit sizes), and any other incentives authorized under section 4109(b) of this title that would have been provided to a qualified purchaser under section 4110 of this title .
   - **(2)** From amounts made available under section 4124(b) of this title , the Secretary may make grants to assist in the completion of sales and transfers under this section to any qualified purchasers. Any grant under this paragraph shall be in an amount not exceeding the difference between the preservation value for the housing (determined under section 4103(b)(2) of this title ) and the level of assistance under paragraph (1) of this subsection.

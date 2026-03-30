@@ -3,9 +3,9 @@ title: "Section 57 - Authenticated copies or extracts from records as evidence"
 usc_title: 43
 usc_section: "57"
 chapter: 3
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "43 U.S.C. § 57"
-generated_at: "2026-03-30T04:31:04.612Z"
+generated_at: "2026-03-30T04:32:53.537Z"
 status: "active"
 ---
 

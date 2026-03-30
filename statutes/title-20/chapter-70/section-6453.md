@@ -3,9 +3,9 @@ title: "Section 6453 - Local educational agency applications"
 usc_title: 20
 usc_section: "6453"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6453"
-generated_at: "2026-03-30T04:30:23.806Z"
+generated_at: "2026-03-30T04:32:24.047Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ Each local educational agency desiring assistance under this subpart shall submi
   - **(6)** as appropriate, a description of how schools will coordinate with existing social, health, and other services to meet the needs of students returning from correctional facilities, at-risk children or youth, and other participating children or youth, including prenatal health care and nutrition services related to the health of the parent and the child or youth, parenting and child development classes, child care, targeted reentry and outreach programs, referrals to community resources, and scheduling flexibility;
   - **(7)** as appropriate, a description of any partnerships with local businesses to develop training, curriculum-based youth entrepreneurship education, and mentoring services for participating students;
   - **(8)** as appropriate, a description of how the program will involve parents in efforts to improve the educational achievement of their children, assist in dropout prevention activities, and prevent the involvement of their children in delinquent activities;
-  - **(9)** a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220 [ 29 U.S.C. 2801 et seq.] and vocational and technical education programs serving at-risk children and youth;
+  - **(9)** a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.] and vocational and technical education programs serving at-risk children and youth;
   - **(10)** a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 [ 42 U.S.C. 5601 et seq.] and other comparable programs, if applicable;
   - **(11)** as appropriate, a description of how schools will work with probation officers to assist in meeting the needs of children and youth returning from correctional facilities;
   - **(12)** a description of the efforts participating schools will make to ensure correctional facilities working with children and youth are aware of a child’s or youth’s existing individualized education program; and

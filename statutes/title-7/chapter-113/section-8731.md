@@ -1,0 +1,18 @@
+---
+title: "Section 8731 - Availability of nonrecourse marketing assistance loans for loan commodities"
+usc_title: 7
+usc_section: "8731"
+chapter: 113
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 8731"
+generated_at: "2026-03-30T04:31:57.044Z"
+status: "active"
+---
+
+# § 8731. Availability of nonrecourse marketing assistance loans for loan commodities
+
+- **(a)**
+  - **(1)** For each of the 2008 through 2012 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
+  - **(2)** The marketing assistance loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under section 8732 of this title for the loan commodity.
+- **(b)** The producers on a farm shall be eligible for a marketing assistance loan under subsection (a) for any quantity of a loan commodity produced on the farm.
+- **(c)** As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act ( 16 U.S.C. 3821 et seq.) during the term of the loan.

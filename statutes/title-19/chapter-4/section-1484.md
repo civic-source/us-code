@@ -3,9 +3,9 @@ title: "Section 1484 - Entry of merchandise"
 usc_title: 19
 usc_section: "1484"
 chapter: 4
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "19 U.S.C. § 1484"
-generated_at: "2026-03-30T04:30:15.525Z"
+generated_at: "2026-03-30T04:32:21.034Z"
 status: "active"
 ---
 

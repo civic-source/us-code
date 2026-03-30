@@ -3,9 +3,9 @@ title: "Section 1721 - Management and liquidation functions of Government Nation
 usc_title: 12
 usc_section: "1721"
 chapter: 13
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 1721"
-generated_at: "2026-03-30T04:30:07.183Z"
+generated_at: "2026-03-30T04:32:14.352Z"
 status: "active"
 ---
 

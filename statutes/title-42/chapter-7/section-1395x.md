@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T04:31:21.821Z"
+generated_at: "2026-03-30T04:33:07.852Z"
 status: "active"
 ---
 
@@ -113,7 +113,7 @@ For purposes of this subchapter—
       - **(ii)** ordinarily furnished by such hospital (or by others under such arrangements) to its outpatients for the purpose of diagnostic study;
     - **(D)** outpatient physical therapy services, outpatient speech-language pathology services, and outpatient occupational therapy services;
     - **(E)** rural health clinic services and Federally qualified health center services;
-    - **(F)** home dialysis supplies and equipment, self-care home dialysis support services, and institutional dialysis services and supplies, and, for items and services furnished on or after January 1, 2011 , renal dialysis services (as defined in section 1395rr(b)(14)(B) of this title );
+    - **(F)** home dialysis supplies and equipment, self-care home dialysis support services, and institutional dialysis services and supplies, and, for items and services furnished on or after January 1, 2011 , renal dialysis services (as defined in section 1395rr(b)(14)(B) of this title ), including such renal dialysis services furnished on or after January 1, 2017 , by a renal dialysis facility or provider of services paid under section 1395rr(b)(14) of this title to an individual with acute kidney injury (as defined in section 1395m(r)(2) of this title );
     - **(G)** antigens (subject to quantity limitations prescribed in regulations by the Secretary) prepared by a physician, as defined in subsection (r)(1) of this section, for a particular patient, including antigens so prepared which are forwarded to another qualified person (including a rural health clinic) for administration to such patient, from time to time, by or under the supervision of another such physician;
     - **(H)**
       - **(i)** services furnished pursuant to a contract under section 1395mm of this title to a member of an eligible organization by a physician assistant or by a nurse practitioner (as defined in subsection (aa)(5) of this section) and such services and supplies furnished as an incident to his service to such a member as would otherwise be covered under this part if furnished by a physician or as an incident to a physician’s service; and

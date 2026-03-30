@@ -3,16 +3,16 @@ title: "Section 6311 - State plans"
 usc_title: 20
 usc_section: "6311"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6311"
-generated_at: "2026-03-30T04:30:23.795Z"
+generated_at: "2026-03-30T04:32:24.038Z"
 status: "active"
 ---
 
 # § 6311. State plans
 
 - **(a)**
-  - **(1)** For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan, developed by the State educational agency, in consultation with local educational agencies, teachers, principals, pupil services personnel, administrators (including administrators of programs described in other parts of this subchapter), other staff, and parents, that satisfies the requirements of this section and that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.], the Carl D. Perkins Career and Technical Education Act of 2006 [ 20 U.S.C. 2301 et seq.], the Head Start Act [ 42 U.S.C. 9831 et seq.], the Adult Education and Family Literacy Act [ 20 U.S.C. 9201 et seq.], and the McKinney-Vento Homeless Assistance Act [ 42 U.S.C. 11301 et seq.].
+  - **(1)** For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan, developed by the State educational agency, in consultation with local educational agencies, teachers, principals, pupil services personnel, administrators (including administrators of programs described in other parts of this subchapter), other staff, and parents, that satisfies the requirements of this section and that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.], the Carl D. Perkins Career and Technical Education Act of 2006 [ 20 U.S.C. 2301 et seq.], the Head Start Act [ 42 U.S.C. 9831 et seq.], the Adult Education and Family Literacy Act [ 29 U.S.C. 3271 et seq.], and the McKinney-Vento Homeless Assistance Act [ 42 U.S.C. 11301 et seq.].
   - **(2)** A State plan submitted under paragraph (1) may be submitted as part of a consolidated plan under section 7842 of this title .
 - **(b)**
   - **(1)**

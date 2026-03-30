@@ -3,9 +3,9 @@ title: "Section 14093 - Establishment of Office of the Police Corps and Law Enfo
 usc_title: 42
 usc_section: "14093"
 chapter: 136
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 14093"
-generated_at: "2026-03-30T04:31:22.328Z"
+generated_at: "2026-03-30T04:33:08.268Z"
 status: "active"
 ---
 

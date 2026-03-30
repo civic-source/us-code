@@ -3,9 +3,9 @@ title: "Section 9 - Certificates of votes for President and Vice President"
 usc_title: 3
 usc_section: "9"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "3 U.S.C. § 9"
-generated_at: "2026-03-30T04:29:45.882Z"
+generated_at: "2026-03-30T04:31:51.341Z"
 status: "active"
 ---
 

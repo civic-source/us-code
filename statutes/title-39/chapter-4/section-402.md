@@ -3,9 +3,9 @@ title: "Section 402 - Delegation of authority"
 usc_title: 39
 usc_section: "402"
 chapter: 4
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "39 U.S.C. § 402"
-generated_at: "2026-03-30T04:30:57.490Z"
+generated_at: "2026-03-30T04:32:50.351Z"
 status: "active"
 ---
 

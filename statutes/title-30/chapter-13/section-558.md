@@ -3,9 +3,9 @@ title: "Section 558 - Authorization of appropriations"
 usc_title: 30
 usc_section: "558"
 chapter: 13
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "30 U.S.C. § 558"
-generated_at: "2026-03-30T04:30:38.378Z"
+generated_at: "2026-03-30T04:32:37.055Z"
 status: "active"
 ---
 

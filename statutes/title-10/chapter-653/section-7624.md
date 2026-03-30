@@ -3,9 +3,9 @@ title: "Section 7624 - Repealed. Pub. L. 86–533, § 1(10)(A) , June 29, 1960 ,
 usc_title: 10
 usc_section: "7624"
 chapter: 653
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 7624"
-generated_at: "2026-03-30T04:29:56.849Z"
+generated_at: "2026-03-30T04:32:08.696Z"
 status: "repealed"
 ---
 

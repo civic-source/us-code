@@ -3,9 +3,9 @@ title: "Section 4115 - Timetable for approval of plan of action"
 usc_title: 12
 usc_section: "4115"
 chapter: 42
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4115"
-generated_at: "2026-03-30T04:30:07.247Z"
+generated_at: "2026-03-30T04:32:14.421Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
     - **(A)** the reasons for withholding approval; and
     - **(B)** the actions that could be taken to meet the criteria for approval.
   - **(2)** The Secretary shall subsequently give the owner a reasonable opportunity to revise the plan of action and seek approval.
-- **(c)** If the Secretary does not approve a plan of action within the period under subsection (b) of this section, the Secretary shall provide incentives and assistance under this subchapter in the amount that the owner would have received if the Secretary had complied with such time limitations. The preceding sentence shall not apply if the plan of action was not approved because of deficiencies. An owner may bring an action in the appropriate Federal district court to enforce this subsection.
+- **(c)** If the Secretary does not approve a plan of action within the period under subsection (b), the Secretary shall provide incentives and assistance under this subchapter in the amount that the owner would have received if the Secretary had complied with such time limitations. The preceding sentence shall not apply if the plan of action was not approved because of deficiencies. An owner may bring an action in the appropriate Federal district court to enforce this subsection.

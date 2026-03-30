@@ -3,9 +3,9 @@ title: "Section 563a - Working capital fund; comprehensive program of centralize
 usc_title: 29
 usc_section: "563a"
 chapter: 12
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 563a"
-generated_at: "2026-03-30T04:30:39.304Z"
+generated_at: "2026-03-30T04:32:38.604Z"
 status: "active"
 ---
 

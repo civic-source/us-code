@@ -3,9 +3,9 @@ title: "Section 51901 - Awards for individual acts or service"
 usc_title: 46
 usc_section: "51901"
 chapter: 519
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "46 U.S.C. § 51901"
-generated_at: "2026-03-30T04:31:32.759Z"
+generated_at: "2026-03-30T04:33:11.887Z"
 status: "active"
 ---
 

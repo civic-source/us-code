@@ -1,0 +1,22 @@
+---
+title: "Section 5936 - Farm and Ranch Stress Assistance Network"
+usc_title: 7
+usc_section: "5936"
+chapter: 88
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 5936"
+generated_at: "2026-03-30T04:31:57.006Z"
+status: "active"
+---
+
+# § 5936. Farm and Ranch Stress Assistance Network
+
+- **(a)** The Secretary, in coordination with the Secretary of Health and Human Services, shall make competitive grants to support cooperative programs between State cooperative extension services and nonprofit organizations to establish a Farm and Ranch Stress Assistance Network that provides stress assistance programs to individuals who are engaged in farming, ranching, and other agriculture-related occupations.
+- **(b)** Grants awarded under subsection (a) may be used to initiate, expand, or sustain programs that provide professional agricultural behavioral health counseling and referral for other forms of assistance as necessary through—
+  - **(1)** farm telephone helplines and websites;
+  - **(2)** community education;
+  - **(3)** support groups;
+  - **(4)** outreach services and activities; and
+  - **(5)** home delivery of assistance, in a case in which a farm resident is homebound.
+- **(c)** Grants shall be awarded under this subsection directly to State cooperative extension services to enable the State cooperative extension services to enter into contracts, on a multiyear basis, with nonprofit, community-based, direct-service organizations to initiate, expand, or sustain cooperative programs described in subsections (a) and (b).
+- **(d)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.

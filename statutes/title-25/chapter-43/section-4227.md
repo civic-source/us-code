@@ -3,9 +3,9 @@ title: "Section 4227 - Regulations"
 usc_title: 25
 usc_section: "4227"
 chapter: 43
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 4227"
-generated_at: "2026-03-30T04:30:33.660Z"
+generated_at: "2026-03-30T04:32:32.860Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1221 - Membership roll"
 usc_title: 25
 usc_section: "1221"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 1221"
-generated_at: "2026-03-30T04:30:33.607Z"
+generated_at: "2026-03-30T04:32:32.806Z"
 status: "active"
 ---
 

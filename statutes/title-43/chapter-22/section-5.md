@@ -3,9 +3,9 @@ title: "Section 5 - Filing map and profile of road section; forfeiture of rights
 usc_title: 43
 usc_section: "5"
 chapter: 22
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "43 U.S.C. § 5"
-generated_at: "2026-03-30T04:31:04.653Z"
+generated_at: "2026-03-30T04:32:53.565Z"
 status: "active"
 ---
 

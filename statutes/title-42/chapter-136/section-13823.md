@@ -3,9 +3,9 @@ title: "Section 13823 - Approval of applications"
 usc_title: 42
 usc_section: "13823"
 chapter: 136
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 13823"
-generated_at: "2026-03-30T04:31:22.317Z"
+generated_at: "2026-03-30T04:33:08.260Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
       - **(i)** incomes that do not exceed the Federal poverty line; or
       - **(ii)** incomes that do not exceed 80 percent of the median income of the area;
     - **(B)** individuals who are unemployed or underemployed;
-    - **(C)** individuals who are participating or have participated in job training programs authorized under title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.] or the Family Support Act of 1988 ( Public Law 100–485 );
+    - **(C)** individuals who are participating or have participated in job training programs authorized under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.] or the Family Support Act of 1988 ( Public Law 100–485 );
     - **(D)** individuals whose jobs may be retained as a result of the provision of financing available under this subpart; or
     - **(E)** individuals who have historically been underrepresented in the local economy; and
   - **(5)** a representative cross section of applicants are approved, including large and small community development corporations, urban and rural community development corporations and community development corporations representing diverse populations.

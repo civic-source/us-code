@@ -3,9 +3,9 @@ title: "Section 272a - Authorization of appropriations"
 usc_title: 22
 usc_section: "272a"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 272a"
-generated_at: "2026-03-30T04:30:30.033Z"
+generated_at: "2026-03-30T04:32:34.575Z"
 status: "active"
 ---
 

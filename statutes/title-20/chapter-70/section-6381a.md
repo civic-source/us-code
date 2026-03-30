@@ -3,9 +3,9 @@ title: "Section 6381a - Program authorized"
 usc_title: 20
 usc_section: "6381a"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6381a"
-generated_at: "2026-03-30T04:30:23.804Z"
+generated_at: "2026-03-30T04:32:24.045Z"
 status: "active"
 ---
 
@@ -28,13 +28,13 @@ status: "active"
 - **(c)**
   - **(1)**
     - **(A)** For any fiscal year for which at least one State educational agency applies and submits an application that meets the requirements and goals of this subsection and for which the amount appropriated under section 6302(b)(3) of this title exceeds the amount appropriated under that section for the preceding fiscal year, the Secretary shall reserve, from the amount of the excess remaining after the application of subsection (b)(2) of this section, the amount of the remainder or $1,000,000, whichever is less, to award grants, on a competitive basis, to State educational agencies to enable them to plan and implement statewide family literacy initiatives to coordinate and, where appropriate, integrate existing Federal, State, and local literacy resources consistent with the purposes of this subpart.
-    - **(B)** The coordination and integration described in subparagraph (A) shall include coordination and integration of funds available under the Adult Education and Family Literacy Act [ 20 U.S.C. 9201 et seq.], the Head Start Act [ 42 U.S.C. 9831 et seq.], this subpart, part A of this subchapter, and part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.].
+    - **(B)** The coordination and integration described in subparagraph (A) shall include coordination and integration of funds available under the Adult Education and Family Literacy Act [ 29 U.S.C. 3271 et seq.], the Head Start Act [ 42 U.S.C. 9831 et seq.], this subpart, part A of this subchapter, and part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.].
     - **(C)** No State educational agency may receive more than one grant under this subsection.
   - **(2)**
     - **(A)** To receive a grant under this subsection, a State educational agency shall establish a consortium of State-level programs under the following provisions of laws:
       - **(i)** This subchapter (other than part D).
       - **(ii)** The Head Start Act [ 42 U.S.C. 9831 et seq.].
-      - **(iii)** The Adult Education and Family Literacy Act [ 20 U.S.C. 9201 et seq.].
+      - **(iii)** The Adult Education and Family Literacy Act [ 29 U.S.C. 3271 et seq.].
       - **(iv)** All other State-funded preschool programs and programs providing literacy services to adults.
     - **(B)** To receive a grant under this subsection, the consortium established by a State educational agency shall create a plan to use a portion of the State educational agency’s resources, derived from the programs referred to in subparagraph (A), to strengthen and expand family literacy services in the State.
     - **(C)** The consortium shall coordinate its activities under this paragraph with the activities of the reading and literacy partnership for the State educational agency established under section 6363(d) of this title , if the State educational agency receives a grant under section 6362 of this title .

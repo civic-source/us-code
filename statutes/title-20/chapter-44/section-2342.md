@@ -3,9 +3,9 @@ title: "Section 2342 - State plan"
 usc_title: 20
 usc_section: "2342"
 chapter: 44
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 2342"
-generated_at: "2026-03-30T04:30:23.776Z"
+generated_at: "2026-03-30T04:32:24.022Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
       - **(v)** parents and students;
       - **(vi)** institutions of higher education;
       - **(vii)** the State tech prep coordinator and representatives of tech prep consortia (if applicable);
-      - **(viii)** entities participating in activities described in section 2821 of title 29 ;
+      - **(viii)** entities participating in activities described in section 3111 of title 29 ;
       - **(ix)** interested community members (including parent and community organizations);
       - **(x)** representatives of special populations;
       - **(xi)** representatives of business and industry (including representatives of small business); and
@@ -97,10 +97,10 @@ status: "active"
   - **(17)** describes the methods proposed for the joint planning and coordination of programs carried out under this subchapter with other Federal education programs;
   - **(18)** describes how funds will be used to promote preparation for high skill, high wage, or high demand occupations and non-traditional fields;
   - **(19)** describes how funds will be used to serve individuals in State correctional institutions; and
-  - **(20)** contains the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts.
+  - **(20)** contains the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts.
 - **(d)**
   - **(1)** An eligible agency not choosing to consolidate funds under section 2372 of this title shall fulfill the plan or application submission requirements of this section, and section 2371(c) of this title , by submitting a single State plan. In such plan, the eligible agency may allow recipients to fulfill the plan or application submission requirements of section 2354 of this title and subsections (a) and (b) of section 2374 of this title by submitting a single local plan.
-  - **(2)** The eligible agency may submit the plan required under this section as part of the plan submitted under section 501 of Public Law 105–220 [ 20 U.S.C. 9271 ], if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
+  - **(2)** The eligible agency may submit the plan required under this section as part of the plan submitted under section 3113 of title 29 , if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
 - **(e)**
   - **(1)** The Secretary shall approve a State plan, or a revision to an approved State plan, unless the Secretary determines that—
     - **(A)** the State plan, or revision, respectively, does not meet the requirements of this chapter; or

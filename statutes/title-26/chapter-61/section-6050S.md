@@ -3,9 +3,9 @@ title: "Section 6050S - Returns relating to higher education tuition and related
 usc_title: 26
 usc_section: "6050S"
 chapter: 61
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 6050S"
-generated_at: "2026-03-30T04:30:50.475Z"
+generated_at: "2026-03-30T04:32:42.993Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
   - **(2)** any return required under subsection (a) by such governmental entity shall be made by the officer or employee appropriately designated for the purpose of making such return.
 - **(d)** Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return under subparagraph (A) of subsection (b)(2) a written statement showing—
   - **(1)** the name, address, and phone number of the information contact of the person required to make such return, and
-  - **(2)** the amounts described in subparagraph (B) of subsection (b)(2).
+  - **(2)** the information required by subsection (b)(2).
 - **(e)** For purposes of this section, the terms “eligible educational institution” and “qualified tuition and related expenses” have the meanings given such terms by section 25A (without regard to subsection (g)(2) thereof), and except as provided in regulations, the term “qualified education loan” has the meaning given such term by section 221(d)(1).
 - **(f)** Except to the extent provided in regulations prescribed by the Secretary, in the case of any amount received by any person on behalf of another person, only the person first receiving such amount shall be required to make the return under subsection (a).
 - **(g)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section. No penalties shall be imposed under part II of subchapter B of chapter 68 with respect to any return or statement required under this section until such time as such regulations are issued.

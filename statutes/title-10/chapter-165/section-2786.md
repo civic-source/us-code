@@ -3,9 +3,9 @@ title: "Section 2786 - Department of Defense payments by electronic transfers of
 usc_title: 10
 usc_section: "2786"
 chapter: 165
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 2786"
-generated_at: "2026-03-30T04:29:56.825Z"
+generated_at: "2026-03-30T04:32:08.673Z"
 status: "active"
 ---
 

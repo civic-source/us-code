@@ -3,9 +3,9 @@ title: "Section 8103 - Citizenship and Navy Reserve requirements"
 usc_title: 46
 usc_section: "8103"
 chapter: 81
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "46 U.S.C. § 8103"
-generated_at: "2026-03-30T04:31:32.744Z"
+generated_at: "2026-03-30T04:33:11.873Z"
 status: "active"
 ---
 

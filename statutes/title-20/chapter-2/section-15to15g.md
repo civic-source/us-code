@@ -3,9 +3,9 @@ title: "Section 15to15g - Omitted"
 usc_title: 20
 usc_section: "15to15g"
 chapter: 2
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 15to15g"
-generated_at: "2026-03-30T04:30:23.682Z"
+generated_at: "2026-03-30T04:32:23.944Z"
 status: "omitted"
 ---
 

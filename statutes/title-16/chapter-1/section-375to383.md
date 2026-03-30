@@ -3,9 +3,9 @@ title: "Section 375to383 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 99
 usc_title: 16
 usc_section: "375to383"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 375to383"
-generated_at: "2026-03-30T04:30:21.031Z"
+generated_at: "2026-03-30T04:32:27.253Z"
 status: "repealed"
 ---
 

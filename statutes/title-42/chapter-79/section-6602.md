@@ -3,9 +3,9 @@ title: "Section 6602 - Congressional declaration of policy"
 usc_title: 42
 usc_section: "6602"
 chapter: 79
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 6602"
-generated_at: "2026-03-30T04:31:22.115Z"
+generated_at: "2026-03-30T04:33:08.092Z"
 status: "active"
 ---
 

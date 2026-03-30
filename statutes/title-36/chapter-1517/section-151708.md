@@ -3,9 +3,9 @@ title: "Section 151708 - Service of process"
 usc_title: 36
 usc_section: "151708"
 chapter: 1517
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "36 U.S.C. § 151708"
-generated_at: "2026-03-30T04:30:58.407Z"
+generated_at: "2026-03-30T04:32:49.023Z"
 status: "active"
 ---
 

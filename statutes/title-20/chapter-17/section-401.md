@@ -3,9 +3,9 @@ title: "Section 401 - Omitted"
 usc_title: 20
 usc_section: "401"
 chapter: 17
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 401"
-generated_at: "2026-03-30T04:30:23.690Z"
+generated_at: "2026-03-30T04:32:23.950Z"
 status: "omitted"
 ---
 

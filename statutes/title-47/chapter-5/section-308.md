@@ -3,9 +3,9 @@ title: "Section 308 - Requirements for license"
 usc_title: 47
 usc_section: "308"
 chapter: 5
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "47 U.S.C. § 308"
-generated_at: "2026-03-30T04:31:25.697Z"
+generated_at: "2026-03-30T04:33:11.092Z"
 status: "active"
 ---
 

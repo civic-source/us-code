@@ -3,9 +3,9 @@ title: "Section 3732 - Bureau of Justice Statistics"
 usc_title: 42
 usc_section: "3732"
 chapter: 46
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 3732"
-generated_at: "2026-03-30T04:31:22.025Z"
+generated_at: "2026-03-30T04:33:08.019Z"
 status: "active"
 ---
 

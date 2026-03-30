@@ -3,9 +3,9 @@ title: "Section 215to228 - Omitted"
 usc_title: 45
 usc_section: "215to228"
 chapter: 9
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "45 U.S.C. § 215to228"
-generated_at: "2026-03-30T04:31:05.102Z"
+generated_at: "2026-03-30T04:32:53.835Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Supplement to Federal reclamation laws"
 usc_title: 43
 usc_section: "5"
 chapter: 12
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "43 U.S.C. § 5"
-generated_at: "2026-03-30T04:31:04.636Z"
+generated_at: "2026-03-30T04:32:53.552Z"
 status: "active"
 ---
 

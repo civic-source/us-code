@@ -3,9 +3,9 @@ title: "Section 325 - State assumption of responsibilities for certain programs 
 usc_title: 23
 usc_section: "325"
 chapter: 3
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "23 U.S.C. § 325"
-generated_at: "2026-03-30T04:30:26.525Z"
+generated_at: "2026-03-30T04:32:31.140Z"
 status: "active"
 ---
 

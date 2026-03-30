@@ -3,9 +3,9 @@ title: "Section 1826k - Equivalent conservation measures"
 usc_title: 16
 usc_section: "1826k"
 chapter: 38
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 1826k"
-generated_at: "2026-03-30T04:30:21.173Z"
+generated_at: "2026-03-30T04:32:27.406Z"
 status: "active"
 ---
 

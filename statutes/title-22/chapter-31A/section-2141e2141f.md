@@ -3,9 +3,9 @@ title: "Section 2141e2141f - Omitted"
 usc_title: 22
 usc_section: "2141e2141f"
 chapter: 31
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 2141e2141f"
-generated_at: "2026-03-30T04:30:30.063Z"
+generated_at: "2026-03-30T04:32:34.602Z"
 status: "omitted"
 ---
 

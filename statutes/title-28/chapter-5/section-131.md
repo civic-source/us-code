@@ -3,9 +3,9 @@ title: "Section 131 - Wyoming"
 usc_title: 28
 usc_section: "131"
 chapter: 5
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "28 U.S.C. § 131"
-generated_at: "2026-03-30T04:30:36.440Z"
+generated_at: "2026-03-30T04:32:37.763Z"
 status: "active"
 ---
 

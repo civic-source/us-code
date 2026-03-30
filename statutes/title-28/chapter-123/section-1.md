@@ -3,9 +3,9 @@ title: "Section 1 - Revocation of earned release credit"
 usc_title: 28
 usc_section: "1"
 chapter: 123
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "28 U.S.C. § 1"
-generated_at: "2026-03-30T04:30:36.461Z"
+generated_at: "2026-03-30T04:32:37.783Z"
 status: "active"
 ---
 

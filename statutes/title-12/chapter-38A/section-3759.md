@@ -3,9 +3,9 @@ title: "Section 3759 - Presale reinstatement"
 usc_title: 12
 usc_section: "3759"
 chapter: 38
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 3759"
-generated_at: "2026-03-30T04:30:07.243Z"
+generated_at: "2026-03-30T04:32:14.418Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
         - **(II)** all amounts of expenditures secured by the mortgage; and
         - **(III)** all costs of foreclosure incurred for which payment from the proceeds of foreclosure is provided in section 3761 of this title .
   - **(2)** The Secretary may refuse to cancel a foreclosure sale pursuant to paragraph (1)(C) if the current mortgagor or owner of record has, on one or more previous occasions, caused a foreclosure of the mortgage, commenced pursuant to this chapter or otherwise, to be canceled by curing a default.
-- **(b)** Before withdrawing the security property from foreclosure under subparagraph (B) or (C) of subsection (a)(1) of this section, the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
+- **(b)** Before withdrawing the security property from foreclosure under subparagraph (B) or (C) of subsection (a)(1), the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
 - **(c)**
   - **(1)** In any case in which a foreclosure commenced under this chapter is canceled, the mortgage shall continue in effect as though acceleration had not occurred.
   - **(2)** Cancellation of a foreclosure sale under this chapter shall have no effect on the commencement of a subsequent foreclosure proceeding under this chapter.

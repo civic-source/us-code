@@ -3,9 +3,9 @@ title: "Section 762 - National Institute on Disability, Independent Living, and 
 usc_title: 29
 usc_section: "762"
 chapter: 16
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 762"
-generated_at: "2026-03-30T04:30:39.313Z"
+generated_at: "2026-03-30T04:32:38.612Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
   - **(6)** conducting conferences, seminars, and workshops (including in-service training programs and programs for individuals with disabilities) concerning advances in disability, independent living, and rehabilitation research and rehabilitation technology (including advances concerning the selection and use of assistive technology devices and assistive technology services), pertinent to the full inclusion and integration into society, employment, independent living, education, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities;
   - **(7)** producing, in conjunction with the Department of Labor, the National Center for Health Statistics, the Bureau of the Census, the Centers for Medicare & Medicaid Services, the Social Security Administration, the Bureau of Indian Affairs, the Indian Health Service, and other Federal departments and agencies, as may be appropriate, statistical reports and studies on the employment, self-employment, telecommuting, health and wellness, income, education, and other demographic characteristics of individuals with disabilities, including information on individuals with disabilities who live in rural or inner-city settings, with particular attention given to underserved populations, and widely disseminating such reports and studies to rehabilitation professionals, individuals with disabilities, the individuals’ representatives, and others to assist in the planning, assessment, and evaluation of independent living, vocational, and rehabilitation services for individuals with disabilities;
   - **(8)** conducting research on consumer satisfaction with independent living and vocational rehabilitation services for the purpose of identifying effective independent living and rehabilitation programs and policies that promote the independence of individuals with disabilities and achievement of long-term independent living and employment goals;
-  - **(9)** conducting research to examine the relationship between the provision of specific services and successful, sustained employment outcomes, including employment outcomes involving self-employment , supported employment (including customized employment), and telecommuting; and
+  - **(9)** conducting research to examine the relationship between the provision of specific services and successful, sustained employment outcomes, including employment outcomes involving self-employment, supported employment (including customized employment), and telecommuting; and
   - **(10)** coordinating activities with the Attorney General regarding the provision of information, training, or technical assistance regarding the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.) to ensure consistency with the plan for technical assistance required under section 506 2 2 See References in Text note below. of such Act ( 42 U.S.C. 12206 ).
 - **(c)**
   - **(1)** The Director, acting through the Institute or one or more entities funded by the Institute, shall provide for the development and dissemination of models to address consumer-driven information needs related to assistive technology devices and assistive technology services.

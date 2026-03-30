@@ -3,9 +3,9 @@ title: "Section 722 - Board action"
 usc_title: 49
 usc_section: "722"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "49 U.S.C. § 722"
-generated_at: "2026-03-30T04:31:28.308Z"
+generated_at: "2026-03-30T04:33:14.438Z"
 status: "active"
 ---
 

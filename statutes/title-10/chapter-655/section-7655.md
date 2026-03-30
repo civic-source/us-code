@@ -3,9 +3,9 @@ title: "Section 7655 - Appointment of prize commissioners and special prize comm
 usc_title: 10
 usc_section: "7655"
 chapter: 655
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 7655"
-generated_at: "2026-03-30T04:29:56.849Z"
+generated_at: "2026-03-30T04:32:08.696Z"
 status: "active"
 ---
 

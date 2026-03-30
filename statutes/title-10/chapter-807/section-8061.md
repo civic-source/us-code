@@ -3,9 +3,9 @@ title: "Section 8061 - Regulations"
 usc_title: 10
 usc_section: "8061"
 chapter: 807
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 8061"
-generated_at: "2026-03-30T04:29:56.851Z"
+generated_at: "2026-03-30T04:32:08.698Z"
 status: "active"
 ---
 

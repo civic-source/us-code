@@ -3,9 +3,9 @@ title: "Section 1 - Maps and boundary descriptions"
 usc_title: 16
 usc_section: "1"
 chapter: 2
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T04:30:21.105Z"
+generated_at: "2026-03-30T04:32:27.333Z"
 status: "active"
 ---
 

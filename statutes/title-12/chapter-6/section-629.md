@@ -3,9 +3,9 @@ title: "Section 629 - Conversion of banking corporations into Federal corporatio
 usc_title: 12
 usc_section: "629"
 chapter: 6
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 629"
-generated_at: "2026-03-30T04:30:07.147Z"
+generated_at: "2026-03-30T04:32:14.314Z"
 status: "active"
 ---
 

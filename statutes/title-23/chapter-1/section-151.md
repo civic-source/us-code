@@ -3,9 +3,9 @@ title: "Section 151 - Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1
 usc_title: 23
 usc_section: "151"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "23 U.S.C. § 151"
-generated_at: "2026-03-30T04:30:26.520Z"
+generated_at: "2026-03-30T04:32:31.135Z"
 status: "repealed"
 ---
 

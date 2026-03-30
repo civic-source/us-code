@@ -3,9 +3,9 @@ title: "Section 3244 - Fiscal controls; sanctions"
 usc_title: 29
 usc_section: "3244"
 chapter: 32
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 3244"
-generated_at: "2026-03-30T04:30:39.376Z"
+generated_at: "2026-03-30T04:32:38.664Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
 - **(c)**
   - **(1)** Every recipient of funds under this subchapter shall repay to the United States amounts found not to have been expended in accordance with this subchapter.
   - **(2)** If the Secretary determines that a State has expended funds received under this subchapter in a manner contrary to the requirements of this subchapter, the Secretary may require repayment by offsetting the amount of such expenditures against any other amount to which the State is or may be entitled under this subchapter, except as provided under subsection (d)(1).
-  - **(3)** If the Secretary requires a State to repay funds as a result of a determination that a local area of the State has expended funds in a manner contrary to the requirements of this subchapter, the Governor of the State may use an amount deducted under paragraph (4) to repay the funds, except as provided under subsection (e). 1 1 So in original.
+  - **(3)** If the Secretary requires a State to repay funds as a result of a determination that a local area of the State has expended funds in a manner contrary to the requirements of this subchapter, the Governor of the State may use an amount deducted under paragraph (4) to repay the funds, except as provided under subsection (e). 1 1 So in original. Subsec. (e) relates to termination or suspension of financial assistance.
   - **(4)** The Governor may deduct an amount equal to the misexpenditure described in paragraph (3) from subsequent program year (subsequent to the program year for which the determination was made) allocations to the local area from funds reserved for the administrative costs of the local programs involved, as appropriate.
   - **(5)** A deduction made by a State as described in paragraph (4) shall not be made until such time as the Governor has taken appropriate corrective action to ensure full compliance with this subchapter within such local area with regard to appropriate expenditures of funds under this subchapter.
 - **(d)**

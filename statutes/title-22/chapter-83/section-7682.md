@@ -3,9 +3,9 @@ title: "Section 7682 - Authorization of appropriations"
 usc_title: 22
 usc_section: "7682"
 chapter: 83
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 7682"
-generated_at: "2026-03-30T04:30:30.151Z"
+generated_at: "2026-03-30T04:32:34.685Z"
 status: "active"
 ---
 

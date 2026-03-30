@@ -3,9 +3,9 @@ title: "Section 420 - Power to administer oaths, examine witnesses, or require p
 usc_title: 7
 usc_section: "420"
 chapter: 17
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "7 U.S.C. § 420"
-generated_at: "2026-03-30T04:29:50.878Z"
+generated_at: "2026-03-30T04:31:56.908Z"
 status: "active"
 ---
 

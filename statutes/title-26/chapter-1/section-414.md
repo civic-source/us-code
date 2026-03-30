@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-30T04:30:50.264Z"
+generated_at: "2026-03-30T04:32:42.862Z"
 status: "active"
 ---
 
@@ -449,7 +449,7 @@ status: "active"
       - **(ii)** chartered under part B of subtitle II of title 36, United States Code,
       - **(iii)** with employees in at least 40 States, and
       - **(iv)** whose primary exempt purpose is to provide services with respect to children.
-  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph (B) and (C) of paragraph (1).
+  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph 6 6 So in original. (B) and 6 (C) of paragraph (1).
   - **(3)**
     - **(A)** If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013 , not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary.
     - **(B)** If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.

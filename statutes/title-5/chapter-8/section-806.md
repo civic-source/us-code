@@ -3,9 +3,9 @@ title: "Section 806 - Applicability; severability"
 usc_title: 5
 usc_section: "806"
 chapter: 8
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "5 U.S.C. § 806"
-generated_at: "2026-03-30T04:29:48.510Z"
+generated_at: "2026-03-30T04:31:50.491Z"
 status: "active"
 ---
 

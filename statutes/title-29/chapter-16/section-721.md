@@ -3,9 +3,9 @@ title: "Section 721 - State plans"
 usc_title: 29
 usc_section: "721"
 chapter: 16
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 721"
-generated_at: "2026-03-30T04:30:39.308Z"
+generated_at: "2026-03-30T04:32:38.609Z"
 status: "active"
 ---
 
@@ -97,7 +97,7 @@ status: "active"
         - **(II)** of those recipients who are individuals with significant disabilities, the number who received assistance under an individualized plan for employment consistent with section 722(b) of this title ;
         - **(III)** of those recipients who are not individuals with significant disabilities, the number who received assistance under an individualized plan for employment consistent with section 722(b) of this title ;
         - **(IV)** the number of individuals with open cases (disaggregated by those who are receiving training and those who are in postsecondary education), and the type of services the individuals are receiving (including supported employment);
-        - **(V)** the number of students with disabilities who are receiving pre-employment transition services under this subchapter: and
+        - **(V)** the number of students with disabilities who are receiving pre-employment transition services under this subchapter: 1 1 So in original. The colon probably should be a semicolon. and
         - **(VI)** the number of individuals referred to State vocational rehabilitation programs by one-stop operators (as defined in section 3 of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3102 ]), and the number of individuals referred to such one-stop operators by State vocational rehabilitation programs;
       - **(iii)** of those applicants and eligible recipients who are individuals with significant disabilities—
         - **(I)** the number who ended their participation in the program carried out under this subchapter and the number who achieved employment outcomes after receiving vocational rehabilitation services; and
@@ -206,7 +206,7 @@ status: "active"
       - **(v)** the State Rehabilitation Council, if the State has such a Council.
   - **(17)** The State plan shall provide that if, under special circumstances, the State plan includes provisions for the construction of facilities for community rehabilitation programs—
     - **(A)** the Federal share of the cost of construction for the facilities for a fiscal year will not exceed an amount equal to 10 percent of the State’s allotment under section 730 of this title for such year;
-    - **(B)** the provisions of section 776 1 1 See References in Text note below. of this title (as in effect on the day before August 7, 1998 ) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
+    - **(B)** the provisions of section 776 2 2 See References in Text note below. of this title (as in effect on the day before August 7, 1998 ) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
     - **(C)** there shall be compliance with regulations the Commissioner shall prescribe designed to assure that no State will reduce its efforts in providing other vocational rehabilitation services (other than for the establishment of facilities for community rehabilitation programs) because the plan includes such provisions for construction.
   - **(18)** The State plan shall—
     - **(A)** include an assurance that the State will reserve and use a portion of the funds allotted to the State under section 730 of this title —

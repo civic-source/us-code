@@ -3,9 +3,9 @@ title: "Section 1053 - Minimum vesting standards"
 usc_title: 29
 usc_section: "1053"
 chapter: 18
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 1053"
-generated_at: "2026-03-30T04:30:39.323Z"
+generated_at: "2026-03-30T04:32:38.621Z"
 status: "active"
 ---
 
@@ -42,8 +42,8 @@ status: "active"
     - **(F)** A matching contribution (within the meaning of section 401(m) of title 26 ) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26 , an excess deferral under section 402(g)(2)(A) of title 26 , an erroneous automatic contribution under section 414(w) of title 26 , or an excess aggregate contribution under section 401(m)(6)(B) of title 26 .
 - **(b)**
   - **(1)** In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under subsection (a)(2) of this section, all of an employee’s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
-    - **(A)** years of service before age 18, 1 1 So in original. The comma probably should be a semicolon.
-    - **(B)** years of service during a period for which the employee declined to contribute to a plan requiring employee contributions, 1
+    - **(A)** years of service before age 18, 2 2 So in original. The comma probably should be a semicolon.
+    - **(B)** years of service during a period for which the employee declined to contribute to a plan requiring employee contributions, 2
     - **(C)** years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan, defined by the Secretary of the Treasury;
     - **(D)** service not required to be taken into account under paragraph (3);
     - **(E)** years of service before January 1, 1971 , unless the employee has had at least 3 years of service after December 31, 1970 ;

@@ -3,9 +3,9 @@ title: "Section 9c - Notice of investigations and enforcement actions"
 usc_title: 7
 usc_section: "9c"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "7 U.S.C. § 9c"
-generated_at: "2026-03-30T04:29:50.851Z"
+generated_at: "2026-03-30T04:31:56.881Z"
 status: "active"
 ---
 

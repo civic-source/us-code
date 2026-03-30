@@ -3,9 +3,9 @@ title: "Section 2144 - Payments from CIARDS fund for portions of certain Civil S
 usc_title: 50
 usc_section: "2144"
 chapter: 38
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "50 U.S.C. § 2144"
-generated_at: "2026-03-30T04:31:33.464Z"
+generated_at: "2026-03-30T04:33:12.881Z"
 status: "active"
 ---
 

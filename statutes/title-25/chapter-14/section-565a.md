@@ -3,9 +3,9 @@ title: "Section 565a - Distribution to persons on final roll; payment of shares 
 usc_title: 25
 usc_section: "565a"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 565a"
-generated_at: "2026-03-30T04:30:33.589Z"
+generated_at: "2026-03-30T04:32:32.787Z"
 status: "active"
 ---
 

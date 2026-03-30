@@ -3,9 +3,9 @@ title: "Section 40302 - Purposes"
 usc_title: 36
 usc_section: "40302"
 chapter: 403
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "36 U.S.C. § 40302"
-generated_at: "2026-03-30T04:30:58.396Z"
+generated_at: "2026-03-30T04:32:49.016Z"
 status: "active"
 ---
 

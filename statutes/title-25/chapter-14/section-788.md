@@ -3,9 +3,9 @@ title: "Section 788 - Federal trust upon escheat of estates of members dying int
 usc_title: 25
 usc_section: "788"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 788"
-generated_at: "2026-03-30T04:30:33.601Z"
+generated_at: "2026-03-30T04:32:32.799Z"
 status: "active"
 ---
 

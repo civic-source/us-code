@@ -3,9 +3,9 @@ title: "Section 30703 - Foreign launch vehicles"
 usc_title: 51
 usc_section: "30703"
 chapter: 307
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "51 U.S.C. § 30703"
-generated_at: "2026-03-30T04:31:36.186Z"
+generated_at: "2026-03-30T04:33:16.353Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1673 - Restriction on garnishment"
 usc_title: 15
 usc_section: "1673"
 chapter: 41
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 1673"
-generated_at: "2026-03-30T04:30:11.371Z"
+generated_at: "2026-03-30T04:32:17.701Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3938 - Annual report of corporation; audit of accounts"
 usc_title: 42
 usc_section: "3938"
 chapter: 49
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 3938"
-generated_at: "2026-03-30T04:31:22.040Z"
+generated_at: "2026-03-30T04:33:08.030Z"
 status: "active"
 ---
 

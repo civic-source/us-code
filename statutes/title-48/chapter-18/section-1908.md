@@ -3,9 +3,9 @@ title: "Section 1908 - Transitional immigration rules"
 usc_title: 48
 usc_section: "1908"
 chapter: 18
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "48 U.S.C. § 1908"
-generated_at: "2026-03-30T04:31:25.305Z"
+generated_at: "2026-03-30T04:33:12.187Z"
 status: "active"
 ---
 

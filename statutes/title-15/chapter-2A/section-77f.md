@@ -3,9 +3,9 @@ title: "Section 77f - Registration of securities"
 usc_title: 15
 usc_section: "77f"
 chapter: 2
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 77f"
-generated_at: "2026-03-30T04:30:11.272Z"
+generated_at: "2026-03-30T04:32:17.596Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(6)** For purposes of this subsection:
     - **(A)** The target fee collection amount for each fiscal year is determined according to the following table: Fiscal year: Target fee collection amount 2002 $377,000,000 2003 $435,000,000 2004 $467,000,000 2005 $570,000,000 2006 $689,000,000 2007 $214,000,000 2008 $234,000,000 2009 $284,000,000 2010 $334,000,000 2011 $394,000,000 2012 $425,000,000 2013 $455,000,000 2014 $485,000,000 2015 $515,000,000 2016 $550,000,000 2017 $585,000,000 2018 $620,000,000 2019 $660,000,000 2020 $705,000,000 2021 and each fiscal year thereafter An amount that is equal to the target fee collection amount for the prior fiscal year, adjusted by the rate of inflation.
     - **(B)** The baseline estimate of the aggregate maximum offering prices for any fiscal year is the baseline estimate of the aggregate maximum offering price at which securities are proposed to be offered pursuant to registration statements filed with the Commission during such fiscal year as determined by the Commission, after consultation with the Congressional Budget Office and the Office of Management and Budget, using the methodology required for projections pursuant to section 907 of title 2 .
-- **(c)** The filing with the Commission of a registration statement, or of an amendment to a registration statement, shall be deemed to have taken place upon the receipt thereof, but the filing of a registration statement shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a certified bank check or cash for the amount of the fee required under subsection (b) of this section.
+- **(c)** The filing with the Commission of a registration statement, or of an amendment to a registration statement, shall be deemed to have taken place upon the receipt thereof, but the filing of a registration statement shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a certified bank check or cash for the amount of the fee required under subsection (b).
 - **(d)** The information contained in or filed with any registration statement shall be made available to the public under such regulations as the Commission may prescribe, and copies thereof, photostatic or otherwise, shall be furnished to every applicant at such reasonable charge as the Commission may prescribe.
 - **(e)**
   - **(1)** Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 21 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto.

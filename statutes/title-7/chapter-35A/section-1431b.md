@@ -1,0 +1,15 @@
+---
+title: "Section 1431b - Distribution of surplus commodities to other United States areas"
+usc_title: 7
+usc_section: "1431b"
+chapter: 35
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 1431b"
+generated_at: "2026-03-30T04:31:56.932Z"
+status: "active"
+---
+
+# § 1431b. Distribution of surplus commodities to other United States areas
+
+Notwithstanding any other provision of law those areas under the jurisdiction or administration of the United States are authorized to receive from the Department of Agriculture for distribution on the same basis as domestic distribution in any State, Territory, or possession of the United States, without exchange of funds, such surplus commodities as may be available pursuant to clause (2) of section 612c of this title and section 1431 of this title .
+

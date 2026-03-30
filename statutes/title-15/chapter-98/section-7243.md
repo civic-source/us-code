@@ -3,9 +3,9 @@ title: "Section 7243 - Forfeiture of certain bonuses and profits"
 usc_title: 15
 usc_section: "7243"
 chapter: 98
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 7243"
-generated_at: "2026-03-30T04:30:11.431Z"
+generated_at: "2026-03-30T04:32:17.763Z"
 status: "active"
 ---
 

@@ -1,0 +1,34 @@
+---
+title: "Section 7237 - Availability of recourse loans for high moisture feed grains and seed cotton and other fibers"
+usc_title: 7
+usc_section: "7237"
+chapter: 100
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 7237"
+generated_at: "2026-03-30T04:31:57.022Z"
+status: "active"
+---
+
+# § 7237. Availability of recourse loans for high moisture feed grains and seed cotton and other fibers
+
+- **(a)**
+  - **(1)** For each of the 1996 through 2002 crops of corn and grain sorghum, the Secretary shall make available recourse loans, as determined by the Secretary, to producers on a farm containing eligible cropland covered by a production flexibility contract who—
+    - **(A)** normally harvest all or a portion of their crop of corn or grain sorghum in a high moisture state;
+    - **(B)** present—
+      - **(i)** certified scale tickets from an inspected, certified commercial scale, including a licensed warehouse, feedlot, feed mill, distillery, or other similar entity approved by the Secretary, pursuant to regulations issued by the Secretary; or
+      - **(ii)** field or other physical measurements of the standing or stored crop in regions of the United States, as determined by the Secretary, that do not have certified commercial scales from which certified scale tickets may be obtained within reasonable proximity of harvest operation;
+    - **(C)** certify that they were the owners of the feed grain at the time of delivery to, and that the quantity to be placed under loan under this subsection was in fact harvested on the farm and delivered to, a feedlot, feed mill, or commercial or on-farm high-moisture storage facility, or to a facility maintained by the users of corn and grain sorghum in a high moisture state; and
+    - **(D)** comply with deadlines established by the Secretary for harvesting the corn or grain sorghum and submit applications for loans under this subsection within deadlines established by the Secretary.
+  - **(2)** A loan under this subsection shall be made on a quantity of corn or grain sorghum of the same crop acquired by the producer equivalent to a quantity determined by multiplying—
+    - **(A)** the acreage of the corn or grain sorghum in a high moisture state harvested on the producer’s farm; by
+    - **(B)** the lower of the farm program payment yield or the actual yield on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum was obtained.
+  - **(3)** In this subsection, the term “high moisture state” means corn or grain sorghum having a moisture content in excess of Commodity Credit Corporation standards for marketing assistance loans made by the Secretary under section 7231 of this title .
+- **(b)**
+  - **(1)** For each of the 1996 through 2002 crops of upland cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, to producers on a farm containing eligible cropland covered by a production flexibility contract.
+  - **(2)** For each of the 1996 through 2002 crops of extra long staple cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
+- **(c)**
+  - **(1)** Notwithstanding any other provision of law, during fiscal year 1999, the Secretary shall make available recourse loans, as determined by the Secretary, to producers of mohair produced during or before that fiscal year.
+  - **(2)** The loan rate for a loan under paragraph (1) shall be equal to $2.00 per pound.
+  - **(3)** A loan under paragraph (1) shall have a term of 1 year beginning on the first day of the first month after the month in which the loan is made.
+  - **(4)** Notwithstanding subsection (d), the Secretary shall not charge interest on a loan made under paragraph (1).
+- **(d)** Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (as determined by the Secretary).

@@ -3,9 +3,9 @@ title: "Section 2355 - Local uses of funds"
 usc_title: 20
 usc_section: "2355"
 chapter: 44
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 2355"
-generated_at: "2026-03-30T04:30:23.778Z"
+generated_at: "2026-03-30T04:32:24.023Z"
 status: "active"
 ---
 
@@ -62,7 +62,7 @@ status: "active"
   - **(13)** to develop and support small, personalized career-themed learning communities;
   - **(14)** to provide support for family and consumer sciences programs;
   - **(15)** to provide career and technical education programs for adults and school dropouts to complete the secondary school education, or upgrade the technical skills, of the adults and school dropouts;
-  - **(16)** to provide assistance to individuals who have participated in services and activities under this chapter in continuing their education or training or finding an appropriate job, such as through referral to the system established under section 2841 of title 29 ;
+  - **(16)** to provide assistance to individuals who have participated in services and activities under this chapter in continuing their education or training or finding an appropriate job, such as through referral to the system established under section 3151 of title 29 ;
   - **(17)** to support training and activities (such as mentoring and outreach) in non-traditional fields;
   - **(18)** to provide support for training programs in automotive technologies;
   - **(19)** to pool a portion of such funds with a portion of funds available to not less than 1 other eligible recipient for innovative initiatives, which may include—

@@ -3,9 +3,9 @@ title: "Section 5591 - Participation of small business concerns"
 usc_title: 42
 usc_section: "5591"
 chapter: 71
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 5591"
-generated_at: "2026-03-30T04:31:22.082Z"
+generated_at: "2026-03-30T04:33:08.065Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31148 - Certified motor carrier safety auditors"
 usc_title: 49
 usc_section: "31148"
 chapter: 311
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "49 U.S.C. § 31148"
-generated_at: "2026-03-30T04:31:28.346Z"
+generated_at: "2026-03-30T04:33:14.474Z"
 status: "active"
 ---
 

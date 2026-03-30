@@ -3,9 +3,9 @@ title: "Section 3111 - State workforce development boards"
 usc_title: 29
 usc_section: "3111"
 chapter: 32
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "29 U.S.C. § 3111"
-generated_at: "2026-03-30T04:30:39.366Z"
+generated_at: "2026-03-30T04:32:38.653Z"
 status: "active"
 ---
 
@@ -55,7 +55,7 @@ status: "active"
     - **(B)** guidance for the allocation of one-stop center infrastructure funds under section 3151(h) of this title ; and
     - **(C)** policies relating to the appropriate roles and contributions of entities carrying out one-stop partner programs within the one-stop delivery system, including approaches to facilitating equitable and efficient cost allocation in such system;
   - **(7)** the development of strategies for technological improvements to facilitate access to, and improve the quality of, services and activities provided through the one-stop delivery system, including such improvements to—
-    - **(A)** enhance digital literacy skills (as defined in section 9101 of title 20 ); referred to in this Act as “digital literacy skills”);
+    - **(A)** enhance digital literacy skills (as defined in section 9101 of title 20 ; referred to in this Act as “digital literacy skills”);
     - **(B)** accelerate the acquisition of skills and recognized postsecondary credentials by participants;
     - **(C)** strengthen the professional development of providers and workforce professionals; and
     - **(D)** ensure such technology is accessible to individuals with disabilities and individuals residing in remote areas;

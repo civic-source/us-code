@@ -3,9 +3,9 @@ title: "Section 1668 - Reporting duties of Governor and transfer of functions fr
 usc_title: 48
 usc_section: "1668"
 chapter: 13
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "48 U.S.C. § 1668"
-generated_at: "2026-03-30T04:31:25.301Z"
+generated_at: "2026-03-30T04:33:12.183Z"
 status: "active"
 ---
 
@@ -15,5 +15,5 @@ status: "active"
 - **(b)** The following functions, powers, and duties heretofore vested in the government comptroller for American Samoa are hereby transferred to the Inspector General, Department of the Interior, for the purpose of establishing an organization which will maintain a satisfactory level of independent audit oversight of the government of American Samoa:
   - **(1)** The authority to audit all accounts pertaining to the revenue and receipts of the government of American Samoa, and of funds derived from bond issues, and the authority to audit, in accordance with law and administrative regulations, all expenditures of funds and property pertaining to the government of American Samoa including those pertaining to trust funds held by the government of American Samoa.
   - **(2)** The authority to report to the Secretary of the Interior and the Governor of American Samoa all failures to collect amounts due the government, and expenditures of funds or uses or property which are irregular or not pursuant to law.
-- **(c)** The authority granted in paragraph (b) of this section shall extend to all activities of the government of American Samoa, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 ( 92 Stat. 1101 ), as amended.
+- **(c)** The authority granted in paragraph (b) shall extend to all activities of the government of American Samoa, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 ( 92 Stat. 1101 ), as amended.
 - **(d)** In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for American Samoa relating to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.

@@ -3,9 +3,9 @@ title: "Section 390d - Authorization of appropriations"
 usc_title: 7
 usc_section: "390d"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "7 U.S.C. § 390d"
-generated_at: "2026-03-30T04:29:50.878Z"
+generated_at: "2026-03-30T04:31:56.907Z"
 status: "active"
 ---
 

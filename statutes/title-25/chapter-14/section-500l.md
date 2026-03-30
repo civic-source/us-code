@@ -3,9 +3,9 @@ title: "Section 500l - Appointment of natives to administer industry"
 usc_title: 25
 usc_section: "500l"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 500l"
-generated_at: "2026-03-30T04:30:33.587Z"
+generated_at: "2026-03-30T04:32:32.786Z"
 status: "active"
 ---
 

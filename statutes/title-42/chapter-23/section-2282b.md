@@ -3,9 +3,9 @@ title: "Section 2282b - Civil monetary penalties for violations of Department of
 usc_title: 42
 usc_section: "2282b"
 chapter: 23
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 2282b"
-generated_at: "2026-03-30T04:31:21.986Z"
+generated_at: "2026-03-30T04:33:07.988Z"
 status: "active"
 ---
 

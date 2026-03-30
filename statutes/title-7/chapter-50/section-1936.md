@@ -1,0 +1,38 @@
+---
+title: "Section 1936 - Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program"
+usc_title: 7
+usc_section: "1936"
+chapter: 50
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 1936"
+generated_at: "2026-03-30T04:31:56.957Z"
+status: "active"
+---
+
+# § 1936. Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program
+
+- **(a)** The Secretary shall, in accordance with this section, guarantee a loan made by a private seller of a farm or ranch to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title ) on a contract land sales basis.
+- **(b)** In order to be eligible for a loan guarantee under subsection (a)—
+  - **(1)** the qualified beginning farmer or rancher or socially disadvantaged farmer or rancher shall—
+    - **(A)** on the date the contract land sale that is subject of the loan is complete, own and operate the farm or ranch that is the subject of the contract land sale;
+    - **(B)** have a credit history that—
+      - **(i)** includes a record of satisfactory debt repayment, as determined by the Secretary; and
+      - **(ii)** is acceptable to the Secretary; and
+    - **(C)** demonstrate to the Secretary that the farmer or rancher, as the case may be, is unable to obtain sufficient credit without a guarantee to finance any actual need of the farmer or rancher, as the case may be, at a reasonable rate or term; and
+  - **(2)** the loan shall meet applicable underwriting criteria, as determined by the Secretary.
+- **(c)**
+  - **(1)** The Secretary shall not provide a loan guarantee under subsection (a) if the contribution of the qualified beginning farmer or rancher or socially disadvantaged farmer or rancher to the down payment for the farm or ranch that is the subject of the contract land sale would be less than 5 percent of the purchase price of the farm or ranch.
+  - **(2)** The Secretary shall not provide a loan guarantee under subsection (a) if the purchase price or the appraisal value of the farm or ranch that is the subject of the contract land sale is greater than $500,000.
+- **(d)** The period during which a loan guarantee under this section is in effect shall be the 10-year period beginning with the date the guarantee is provided.
+- **(e)**
+  - **(1)** A private seller of a farm or ranch who makes a loan that is guaranteed by the Secretary under subsection (a) may select—
+    - **(A)** a prompt payment guarantee plan, which shall cover—
+      - **(i)** 3 amortized annual installments; or
+      - **(ii)** an amount equal to 3 annual installments (including an amount equal to the total cost of any tax and insurance incurred during the period covered by the annual installments); or
+    - **(B)** a standard guarantee plan, which shall cover an amount equal to 90 percent of the outstanding principal of the loan.
+  - **(2)** In order for a private seller to be eligible for a standard guarantee plan referred to in paragraph (1)(B), the private seller shall—
+    - **(A)** secure a commercial lending institution or similar entity, as determined by the Secretary, to serve as an escrow agent; or
+    - **(B)** in cooperation with the farmer or rancher, use an appropriate alternate arrangement, as determined by the Secretary.
+- **(f)**
+  - **(1)** The Secretary may phase-in the implementation of the changes to the Beginning Farmer and Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program provided for in this section.
+  - **(2)** All changes to the Beginning Farmer and Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program must be implemented for the 2011 Fiscal Year.

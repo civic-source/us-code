@@ -3,9 +3,9 @@ title: "Section 19 - The Ticket to Work and Self-Sufficiency Program"
 usc_title: 42
 usc_section: "19"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-30T04:31:21.757Z"
+generated_at: "2026-03-30T04:33:07.800Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
 - **(f)**
   - **(1)**
     - **(A)** Each employment network serving under the Program shall consist of an agency or instrumentality of a State (or a political subdivision thereof) or a private entity, that assumes responsibility for the coordination and delivery of services under the Program to individuals assigning to the employment network tickets to work and self-sufficiency issued under subsection (b) of this section.
-    - **(B)** An employment network serving under the Program may consist of a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ( 29 U.S.C. 2811 et seq.).
+    - **(B)** An employment network serving under the Program may consist of a one-stop delivery system established under section 3151(e) of title 29 .
     - **(C)** No employment network may serve under the Program unless it meets and maintains compliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
     - **(D)** An employment network shall consist of either a single provider of such services or of an association of such providers organized so as to combine their resources into a single entity. An employment network may meet the requirements of subsection (e)(4) of this section by providing services directly, or by entering into agreements with other individuals or entities providing appropriate employment services, vocational rehabilitation services, or other support services.
   - **(2)** Each employment network serving under the Program shall be required under the terms of its agreement with the Commissioner to—

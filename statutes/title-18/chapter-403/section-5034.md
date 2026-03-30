@@ -3,9 +3,9 @@ title: "Section 5034 - Duties of magistrate judge"
 usc_title: 18
 usc_section: "5034"
 chapter: 403
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "18 U.S.C. § 5034"
-generated_at: "2026-03-30T04:30:14.586Z"
+generated_at: "2026-03-30T04:32:28.330Z"
 status: "active"
 ---
 

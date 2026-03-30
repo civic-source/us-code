@@ -3,9 +3,9 @@ title: "Section 788a - Disposition of judgment funds; preparation of Indian roll
 usc_title: 25
 usc_section: "788a"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 788a"
-generated_at: "2026-03-30T04:30:33.601Z"
+generated_at: "2026-03-30T04:32:32.799Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3905 - Accounting for fees on international loans"
 usc_title: 12
 usc_section: "3905"
 chapter: 40
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 3905"
-generated_at: "2026-03-30T04:30:07.245Z"
+generated_at: "2026-03-30T04:32:14.419Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
     - **(A)** Each appropriate Federal banking agency shall promulgate such regulations as are necessary to further carry out the provisions of this subsection.
     - **(B)** The requirement of paragraph (1) shall take effect on November 30, 1983 .
 - **(b)**
-  - **(1)** Subject to subsection (a) of this section, the appropriate Federal banking agencies shall promulgate regulations for accounting for agency, commitment, management and other fees charged by a banking institution in connection with an international loan.
+  - **(1)** Subject to subsection (a), the appropriate Federal banking agencies shall promulgate regulations for accounting for agency, commitment, management and other fees charged by a banking institution in connection with an international loan.
   - **(2)** Such regulations shall establish the accounting treatment of such fees for regulatory, supervisory, and disclosure purposes to assure that the appropriate portion of such fees is accrued in income over the effective life of each such loan.
   - **(3)** The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this subsection within one hundred and twenty days after November 30, 1983 .

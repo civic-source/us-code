@@ -3,9 +3,9 @@ title: "Section 2984b - Omitted"
 usc_title: 42
 usc_section: "2984b"
 chapter: 34
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 2984b"
-generated_at: "2026-03-30T04:31:21.996Z"
+generated_at: "2026-03-30T04:33:07.996Z"
 status: "omitted"
 ---
 

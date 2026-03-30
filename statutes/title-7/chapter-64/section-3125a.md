@@ -1,0 +1,33 @@
+---
+title: "Section 3125a - National Agricultural Library"
+usc_title: 7
+usc_section: "3125a"
+chapter: 64
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 3125a"
+generated_at: "2026-03-30T04:31:56.988Z"
+status: "active"
+---
+
+# § 3125a. National Agricultural Library
+
+- **(a)** The purpose of this section is to consolidate and expand the statutory authority for the operation of the library of the Department of Agriculture established pursuant to section 2201 of this title as the primary agricultural information resource of the United States.
+- **(b)** There is established in the Department of Agriculture the National Agricultural Library to serve as the primary agricultural information resource of the United States.
+- **(c)** The Secretary shall appoint a Director for the National Agricultural Library who shall be subject to the direction of the Secretary.
+- **(d)** The Director may—
+  - **(1)** acquire, preserve, and manage information and information products and services in all phases of agriculture and allied sciences;
+  - **(2)** organize agricultural information and information products and services by cataloging, indexing, bibliographical listing, and other appropriate techniques;
+  - **(3)** provide agricultural information and information products and services to agencies of the Department of Agriculture and the Federal Government, public and private organizations, and individuals, within the United States and internationally;
+  - **(4)** plan for, coordinate, and evaluate information and library needs related to agricultural research and education;
+  - **(5)** cooperate with and coordinate efforts among agricultural college and university libraries, in conjunction with private industry and other agricultural library and information centers, toward the development of a comprehensive agricultural library and information network; and
+  - **(6)** coordinate the development of specialized subject information services among the agricultural and library information communities.
+- **(e)** The Director may—
+  - **(1)** make copies of the bibliographies prepared by the National Agricultural Library;
+  - **(2)** make microforms and other reproductions of books and other library materials in the Department;
+  - **(3)** provide any other library and information products and services; and
+  - **(4)** sell those products and services at such prices (not less than the estimated total cost of disseminating the products and services) as the Secretary may determine appropriate.
+- **(f)** Funds received from sales under subsection (e) shall be deposited in the Treasury of the United States to the credit of the applicable appropriation and shall remain available until expended.
+- **(g)**
+  - **(1)** The Director may enter into agreement with, and receive funds from any State, and other political subdivision, organization, business, or individual for the purpose of conducting activities to carry out this section.
+  - **(2)** Funds received under this subsection for payments for library products and services or other activities shall be deposited to the miscellaneous contributed fund account, and shall remain available until expended.
+- **(h)** There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out this section.

@@ -3,9 +3,9 @@ title: "Section 14043f - Grant for national resource center on workplace respons
 usc_title: 42
 usc_section: "14043f"
 chapter: 136
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 14043f"
-generated_at: "2026-03-30T04:31:22.324Z"
+generated_at: "2026-03-30T04:33:08.265Z"
 status: "active"
 ---
 

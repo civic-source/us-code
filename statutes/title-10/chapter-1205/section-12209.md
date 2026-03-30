@@ -3,9 +3,9 @@ title: "Section 12209 - Officer candidates: enlisted Reserves"
 usc_title: 10
 usc_section: "12209"
 chapter: 1205
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 12209"
-generated_at: "2026-03-30T04:29:56.862Z"
+generated_at: "2026-03-30T04:32:08.708Z"
 status: "active"
 ---
 

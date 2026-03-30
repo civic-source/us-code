@@ -3,9 +3,9 @@ title: "Section 7134 - Regulations"
 usc_title: 5
 usc_section: "7134"
 chapter: 71
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "5 U.S.C. § 7134"
-generated_at: "2026-03-30T04:29:48.537Z"
+generated_at: "2026-03-30T04:31:50.521Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9343 - Cadets: appointment; to bring to full strength"
 usc_title: 10
 usc_section: "9343"
 chapter: 903
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 9343"
-generated_at: "2026-03-30T04:29:56.854Z"
+generated_at: "2026-03-30T04:32:08.701Z"
 status: "active"
 ---
 

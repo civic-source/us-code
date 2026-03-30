@@ -1,0 +1,15 @@
+---
+title: "Section 2248 - Statistics relating to turpentine and rosin"
+usc_title: 7
+usc_section: "2248"
+chapter: 55
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 2248"
+generated_at: "2026-03-30T04:31:56.980Z"
+status: "active"
+---
+
+# § 2248. Statistics relating to turpentine and rosin
+
+The Secretary of Agriculture is authorized and directed to collect and/or compile and publish annually, and at such other times, and in such form and on such date or dates as he shall prescribe, statistics and essential information relating to spirits of turpentine and rosin produced, held, and used in the domestic and foreign commerce of the United States.
+

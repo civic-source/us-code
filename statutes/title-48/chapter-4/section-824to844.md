@@ -3,9 +3,9 @@ title: "Section 824to844 - Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 3
 usc_title: 48
 usc_section: "824to844"
 chapter: 4
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "48 U.S.C. § 824to844"
-generated_at: "2026-03-30T04:31:25.293Z"
+generated_at: "2026-03-30T04:33:12.176Z"
 status: "repealed"
 ---
 

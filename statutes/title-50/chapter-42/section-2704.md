@@ -3,9 +3,9 @@ title: "Section 2704 - Department of Energy defense nuclear facilities workforce
 usc_title: 50
 usc_section: "2704"
 chapter: 42
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "50 U.S.C. § 2704"
-generated_at: "2026-03-30T04:31:33.473Z"
+generated_at: "2026-03-30T04:33:12.889Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(4)** The Department of Energy should provide relocation assistance to employees who are transferred to other Department of Energy facilities as a result of the plan.
   - **(5)** The Department of Energy should assist terminated employees in obtaining appropriate retraining, education, and reemployment assistance (including employment placement assistance).
   - **(6)** The Department of Energy should provide local impact assistance to communities that are affected by the restructuring plan and coordinate the provision of such assistance with—
-    - **(A)** programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 et seq.);
+    - **(A)** programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.];
     - **(B)** programs carried out pursuant to the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990 (division D of Public Law 101–510 ; 10 U.S.C. 2391 note); and
     - **(C)** programs carried out by the Department of Commerce pursuant to title II of the Public Works and Economic Development Act of 1965 ( 42 U.S.C. 3141 et seq.).
 - **(d)** The Secretary shall, subject to the availability of appropriations for such purpose, work on an ongoing basis with representatives of the Department of Labor, workforce bargaining units, and States and local communities in carrying out a plan required under subsection (a).

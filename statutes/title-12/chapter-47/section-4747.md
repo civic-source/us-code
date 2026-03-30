@@ -3,9 +3,9 @@ title: "Section 4747 - Reimbursement by Fund"
 usc_title: 12
 usc_section: "4747"
 chapter: 47
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4747"
-generated_at: "2026-03-30T04:30:07.262Z"
+generated_at: "2026-03-30T04:32:14.437Z"
 status: "active"
 ---
 
@@ -21,5 +21,5 @@ status: "active"
   - **(1)** 50 percent of the sum of the premium charges paid by the borrower and the participating financial institution; or
   - **(2)** 3.5 percent of the covered amount of the loan.
 - **(f)** In connection with the enrollment of a loan that will cause the aggregate covered amount of all enrolled loans to exceed $2,000,000, the amount of reimbursement by the Fund to the participating State shall be determined—
-  - **(1)** by applying subsection (d) of this section to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
-  - **(2)** by applying subsection (e) of this section to the balance of the loan.
+  - **(1)** by applying subsection (d) to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
+  - **(2)** by applying subsection (e) to the balance of the loan.

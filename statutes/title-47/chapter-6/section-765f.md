@@ -3,9 +3,9 @@ title: "Section 765f - Satellite auctions"
 usc_title: 47
 usc_section: "765f"
 chapter: 6
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "47 U.S.C. § 765f"
-generated_at: "2026-03-30T04:31:25.715Z"
+generated_at: "2026-03-30T04:33:11.109Z"
 status: "active"
 ---
 

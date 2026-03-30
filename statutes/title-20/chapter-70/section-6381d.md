@@ -3,9 +3,9 @@ title: "Section 6381d - Program elements"
 usc_title: 20
 usc_section: "6381d"
 chapter: 70
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 6381d"
-generated_at: "2026-03-30T04:30:23.804Z"
+generated_at: "2026-03-30T04:32:24.045Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ Each program assisted under this subpart shall—
   - **(8)** operate on a year-round basis, including the provision of some program services, including instructional and enrichment services, during the summer months;
   - **(9)** be coordinated with—
     - **(A)** other programs assisted under this chapter;
-    - **(B)** any relevant programs under the Adult Education and Family Literacy Act [ 20 U.S.C. 9201 et seq.], the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.], and title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.]; and
+    - **(B)** any relevant programs under the Adult Education and Family Literacy Act [ 29 U.S.C. 3271 et seq.], the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.], and title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.]; and
     - **(C)** the Head Start program, volunteer literacy programs, and other relevant programs;
   - **(10)** use instructional programs based on scientifically based reading research for children and adults, to the extent that research is available;
   - **(11)** encourage participating families to attend regularly and to remain in the program a sufficient time to meet their program goals;

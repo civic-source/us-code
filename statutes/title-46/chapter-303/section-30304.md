@@ -3,9 +3,9 @@ title: "Section 30304 - Contributory negligence"
 usc_title: 46
 usc_section: "30304"
 chapter: 303
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "46 U.S.C. § 30304"
-generated_at: "2026-03-30T04:31:32.752Z"
+generated_at: "2026-03-30T04:33:11.880Z"
 status: "active"
 ---
 

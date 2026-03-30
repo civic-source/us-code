@@ -3,9 +3,9 @@ title: "Section 1507 - Picketing or parading"
 usc_title: 18
 usc_section: "1507"
 chapter: 73
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "18 U.S.C. § 1507"
-generated_at: "2026-03-30T04:30:14.554Z"
+generated_at: "2026-03-30T04:32:28.298Z"
 status: "active"
 ---
 

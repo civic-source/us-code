@@ -3,9 +3,9 @@ title: "Section 331 - Reclamation requirements waived in favor of disabled soldi
 usc_title: 43
 usc_section: "331"
 chapter: 9
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "43 U.S.C. § 331"
-generated_at: "2026-03-30T04:31:04.620Z"
+generated_at: "2026-03-30T04:32:53.541Z"
 status: "active"
 ---
 

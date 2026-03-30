@@ -3,9 +3,9 @@ title: "Section 3 - Tribal authority to change eligibility for, or amount of, ge
 usc_title: 25
 usc_section: "3"
 chapter: 1
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "25 U.S.C. § 3"
-generated_at: "2026-03-30T04:30:33.569Z"
+generated_at: "2026-03-30T04:32:32.767Z"
 status: "active"
 ---
 

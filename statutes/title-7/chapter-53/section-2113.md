@@ -1,0 +1,22 @@
+---
+title: "Section 2113 - Certification of cotton producer organizations"
+usc_title: 7
+usc_section: "2113"
+chapter: 53
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 2113"
+generated_at: "2026-03-30T04:31:56.976Z"
+status: "active"
+---
+
+# § 2113. Certification of cotton producer organizations
+
+The eligibility of each cotton producer organization to represent cotton producers of a cotton producing State to request the issuance of an order under section 2103 of this title , and to participate in the making of nominations under section 2106(b) of this title shall be certified by the Secretary and shall be based in addition to other available information upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including the following:
+
+- **(a)** Geographic territory within the State covered by the organization’s active membership;
+- **(b)** Nature and size of the organization’s active membership in the State, proportion of total of such active membership accounted for by farmers, a map showing the cotton-producing counties in such State in which the organization has members, the volume of cotton produced in each such county, the number of cotton producers in each such county, and the size of the organization’s active cotton producer membership in each such county;
+- **(c)** The extent to which the cotton producer membership of such organization is represented in setting the organization’s policies;
+- **(d)** Evidence of stability and permanency of the organization;
+- **(e)** Sources from which the organization’s operating funds are derived;
+- **(f)** Functions of the organization; and
+- **(g)** The organization’s ability and willingness to further the aims and objectives of this chapter:

@@ -3,9 +3,9 @@ title: "Section 3341 - Functions of Federal financial institutions regulatory ag
 usc_title: 12
 usc_section: "3341"
 chapter: 34
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 3341"
-generated_at: "2026-03-30T04:30:07.240Z"
+generated_at: "2026-03-30T04:32:14.414Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Each Federal financial institutions regulatory agency and the Resolution Trust Corporation shall prescribe, in accordance with sections 3342 and 3343 of this title, which categories of federally related transactions should be appraised by a State certified appraiser and which by a State licensed appraiser under this chapter.
 - **(b)** Each Federal financial institutions regulatory agency and the Resolution Trust Corporation may establish a threshold level at or below which a certified or licensed appraiser is not required to perform appraisals in connection with federally related transactions, if such agency determines in writing that such threshold level does not represent a threat to the safety and soundness of financial institutions, and receives concurrence from the Bureau of Consumer Financial Protection that such threshold level provides reasonable protection for consumers who purchase 1–4 unit single-family residences.
 - **(c)**
-  - **(1)** The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies on the adequacy and quality of appraisals or evaluations conducted in connection with real estate related financial transactions below the threshold level established under subsection (b) of this section, taking into account—
+  - **(1)** The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies on the adequacy and quality of appraisals or evaluations conducted in connection with real estate related financial transactions below the threshold level established under subsection (b), taking into account—
     - **(A)** the cost to any financial institution involved in any such transaction;
     - **(B)** the possibility of losses to the Deposit Insurance Fund or the National Credit Union Share Insurance Fund;
     - **(C)** the cost to any customer involved in any such transaction; and

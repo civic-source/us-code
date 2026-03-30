@@ -3,9 +3,9 @@ title: "Section 1456to1460b - Repealed. Pub. L. 108–375, div. A, title VI, § 
 usc_title: 10
 usc_section: "1456to1460b"
 chapter: 73
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 1456to1460b"
-generated_at: "2026-03-30T04:29:56.780Z"
+generated_at: "2026-03-30T04:32:08.630Z"
 status: "repealed"
 ---
 

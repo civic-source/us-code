@@ -3,9 +3,9 @@ title: "Section 158a - Temporary possession of gifts of money or securities to L
 usc_title: 2
 usc_section: "158a"
 chapter: 5
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "2 U.S.C. § 158a"
-generated_at: "2026-03-30T04:29:46.861Z"
+generated_at: "2026-03-30T04:31:47.441Z"
 status: "active"
 ---
 

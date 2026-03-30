@@ -3,9 +3,9 @@ title: "Section 13862 - Use of funds"
 usc_title: 42
 usc_section: "13862"
 chapter: 136
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 13862"
-generated_at: "2026-03-30T04:31:22.317Z"
+generated_at: "2026-03-30T04:33:08.260Z"
 status: "active"
 ---
 

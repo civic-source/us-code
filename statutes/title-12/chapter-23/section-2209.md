@@ -3,9 +3,9 @@ title: "Section 2209 - Compensation of bank directors"
 usc_title: 12
 usc_section: "2209"
 chapter: 23
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 2209"
-generated_at: "2026-03-30T04:30:07.225Z"
+generated_at: "2026-03-30T04:32:14.397Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2159 - Congressional review procedures"
 usc_title: 42
 usc_section: "2159"
 chapter: 23
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 2159"
-generated_at: "2026-03-30T04:31:21.977Z"
+generated_at: "2026-03-30T04:33:07.981Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 519 - Treatment of tobacco loan pool stocks and outstanding loan
 usc_title: 7
 usc_section: "519"
 chapter: 21
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "7 U.S.C. § 519"
-generated_at: "2026-03-30T04:29:50.884Z"
+generated_at: "2026-03-30T04:31:56.914Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3503 - “Antitrust law” defined"
 usc_title: 15
 usc_section: "3503"
 chapter: 61
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "15 U.S.C. § 3503"
-generated_at: "2026-03-30T04:30:11.406Z"
+generated_at: "2026-03-30T04:32:17.738Z"
 status: "active"
 ---
 

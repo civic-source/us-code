@@ -3,9 +3,9 @@ title: "Section 2502 - Transferred"
 usc_title: 16
 usc_section: "2502"
 chapter: 45
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "16 U.S.C. § 2502"
-generated_at: "2026-03-30T04:30:21.183Z"
+generated_at: "2026-03-30T04:32:27.417Z"
 status: "transferred"
 ---
 

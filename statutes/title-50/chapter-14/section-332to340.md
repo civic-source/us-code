@@ -3,9 +3,9 @@ title: "Section 332to340 - Repealed. Apr. 19, 1946, ch. 142 , 60 Stat. 96"
 usc_title: 50
 usc_section: "332to340"
 chapter: 14
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "50 U.S.C. § 332to340"
-generated_at: "2026-03-30T04:31:33.447Z"
+generated_at: "2026-03-30T04:33:12.865Z"
 status: "repealed"
 ---
 

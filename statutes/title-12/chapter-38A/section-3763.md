@@ -3,16 +3,16 @@ title: "Section 3763 - Transfer of title and possession"
 usc_title: 12
 usc_section: "3763"
 chapter: 38
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 3763"
-generated_at: "2026-03-30T04:30:07.244Z"
+generated_at: "2026-03-30T04:32:14.418Z"
 status: "active"
 ---
 
 # § 3763. Transfer of title and possession
 
 - **(a)** The foreclosure commissioner shall, upon delivery of a deed or deeds to the purchaser or purchasers (which shall be without warranty or covenants to the purchaser or purchasers) obtain the balance of the purchase price in accordance with the terms of sale provided in the notice of default and foreclosure sale. Notwithstanding any State law to the contrary, delivery of a deed by the foreclosure commissioner shall be a conveyance of the property, and constitute passage of title to the mortgaged property, and no judicial proceedings shall be required ancillary or supplementary to the procedures provided in this chapter to assure the validity of the conveyance or confirmation of such conveyance.
-- **(b)** A purchaser at a foreclosure sale held pursuant to this chapter shall be entitled to possession upon passage of title under subsection (a) of this section to the mortgaged property, subject to any interest or interests not barred under section 3765 of this title . Any person remaining in possession of the mortgaged property after the passage of title shall be deemed a tenant at sufferance subject to eviction under local law.
+- **(b)** A purchaser at a foreclosure sale held pursuant to this chapter shall be entitled to possession upon passage of title under subsection (a) to the mortgaged property, subject to any interest or interests not barred under section 3765 of this title . Any person remaining in possession of the mortgaged property after the passage of title shall be deemed a tenant at sufferance subject to eviction under local law.
 - **(c)** If a purchaser dies before execution and delivery of the deed conveying the property to the purchaser, the foreclosure commissioner shall execute and deliver the deed to a representative of the decedent purchaser’s estate upon payment of the purchase price in accordance with the terms of sale. Such delivery to the representative of the purchaser’s estate shall have the same effect as if accomplished during the lifetime of the purchaser.
 - **(d)** The purchaser of property under this chapter shall be presumed to be a bona fide purchaser.
 - **(e)**

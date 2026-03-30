@@ -3,9 +3,9 @@ title: "Section 4721 - Authority and responsibilities of the Secretary of the Ar
 usc_title: 10
 usc_section: "4721"
 chapter: 446
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "10 U.S.C. § 4721"
-generated_at: "2026-03-30T04:29:56.837Z"
+generated_at: "2026-03-30T04:32:08.684Z"
 status: "active"
 ---
 

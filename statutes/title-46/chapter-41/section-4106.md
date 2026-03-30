@@ -3,9 +3,9 @@ title: "Section 4106 - Penalties"
 usc_title: 46
 usc_section: "4106"
 chapter: 41
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "46 U.S.C. § 4106"
-generated_at: "2026-03-30T04:31:32.741Z"
+generated_at: "2026-03-30T04:33:11.870Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 46106 - Enforcement by the Department of Transportation"
 usc_title: 49
 usc_section: "46106"
 chapter: 461
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "49 U.S.C. § 46106"
-generated_at: "2026-03-30T04:31:28.372Z"
+generated_at: "2026-03-30T04:33:14.498Z"
 status: "active"
 ---
 

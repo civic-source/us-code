@@ -3,9 +3,9 @@ title: "Section 7110 - Use of joint financing provisions for Federal-State assis
 usc_title: 31
 usc_section: "7110"
 chapter: 71
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "31 U.S.C. § 7110"
-generated_at: "2026-03-30T04:30:54.381Z"
+generated_at: "2026-03-30T04:32:45.627Z"
 status: "active"
 ---
 

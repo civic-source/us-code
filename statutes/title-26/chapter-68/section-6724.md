@@ -3,9 +3,9 @@ title: "Section 6724 - Waiver; definitions and special rules"
 usc_title: 26
 usc_section: "6724"
 chapter: 68
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "26 U.S.C. § 6724"
-generated_at: "2026-03-30T04:30:50.517Z"
+generated_at: "2026-03-30T04:32:43.017Z"
 status: "active"
 ---
 
@@ -104,3 +104,4 @@ status: "active"
       - **(ii)** a person furnish his TIN to another person.
   - **(4)** The term “required filing date” means the date prescribed for filing an information return with the Secretary (determined with regard to any extension of time for filing).
 - **(e)** If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.
+- **(f)** No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual’s TIN.

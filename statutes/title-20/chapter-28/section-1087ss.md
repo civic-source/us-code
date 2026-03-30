@@ -3,9 +3,9 @@ title: "Section 1087ss - Simplified needs test"
 usc_title: 20
 usc_section: "1087ss"
 chapter: 28
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "20 U.S.C. § 1087ss"
-generated_at: "2026-03-30T04:30:23.732Z"
+generated_at: "2026-03-30T04:32:23.987Z"
 status: "active"
 ---
 
@@ -59,7 +59,7 @@ status: "active"
       - **(iv)** received benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
     - **(B)** the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to $23,000.
 - **(d)** In this section:
-  - **(1)** The term “dislocated worker” has the meaning given the term in section 2801 of title 29 .
+  - **(1)** The term “dislocated worker” has the meaning given the term in section 3102 of title 29 .
   - **(2)** The term “means-tested Federal benefit program” means a mandatory spending program of the Federal Government, other than a program under this subchapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the program’s benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit, and may include such programs as—
     - **(A)** the supplemental security income program under title XVI of the Social Security Act ( 42 U.S.C. 1381 et seq.);
     - **(B)** the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.);

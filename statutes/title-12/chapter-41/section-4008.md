@@ -3,9 +3,9 @@ title: "Section 4008 - Regulations and reports by Board"
 usc_title: 12
 usc_section: "4008"
 chapter: 41
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "12 U.S.C. § 4008"
-generated_at: "2026-03-30T04:30:07.246Z"
+generated_at: "2026-03-30T04:32:14.420Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
     - **(A)** such originating depository institution determines whether it will pay such check; and
     - **(B)** if such originating depository institution determines that it will not pay such check, such originating depository institution directly notify the receiving depository institution of such determination;
   - **(7)** regardless of where a check is cleared initially, all returned checks be eligible to be returned through the Federal Reserve System;
-  - **(8)** Federal Reserve banks and depository institutions participate in the development and implementation of an electronic clearinghouse process to the extent the Board determines, pursuant to the study under subsection (f) of this section, that such a process is feasible; and
+  - **(8)** Federal Reserve banks and depository institutions participate in the development and implementation of an electronic clearinghouse process to the extent the Board determines, pursuant to the study under subsection (f), that such a process is feasible; and
   - **(9)** originating depository institutions be permitted to return unpaid checks directly to, and obtain reimbursement for such checks directly from, the receiving depository institution.
 - **(c)**
   - **(1)** In order to carry out the provisions of this chapter, the Board of Governors of the Federal Reserve System shall have the responsibility to regulate—

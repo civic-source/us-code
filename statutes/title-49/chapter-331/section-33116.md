@@ -3,9 +3,9 @@ title: "Section 33116 - Confidentiality of information"
 usc_title: 49
 usc_section: "33116"
 chapter: 331
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "49 U.S.C. § 33116"
-generated_at: "2026-03-30T04:31:28.354Z"
+generated_at: "2026-03-30T04:33:14.481Z"
 status: "active"
 ---
 

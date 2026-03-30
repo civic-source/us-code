@@ -3,9 +3,9 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-03-30T04:31:21.715Z"
+generated_at: "2026-03-30T04:33:07.764Z"
 status: "active"
 ---
 
@@ -120,7 +120,7 @@ status: "active"
         - **(II)**
         - **(III)** The Governor of a State to which a grant is made under this subparagraph may distribute not more than 15 percent of the grant funds (plus any amount required to be distributed under this subclause by reason of subclause (II)(bb)) to projects that appear likely to help long-term recipients of assistance under the State program funded under this part (whether in effect before or after the amendments made by section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first applied to the State) enter unsubsidized employment.
       - **(vii)**
-        - **(I)** The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as defined in section 101 of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 ]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
+        - **(I)** The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as defined in section 3 of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3102 ]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
         - **(II)** Notwithstanding subclause (I) of this clause, on a determination by the Governor of a State that a private industry council (or an alternate agency described in clause (ii)(I)(dd)) has used funds provided under this subparagraph in a manner inconsistent with the assurances described in clause (ii)(I)(dd)—
         - **(III)** The Secretary of Labor shall approve an application submitted under clause (ii)(I)(ee) or subclause (II)(bb) of this clause to waive subclause (I) of this clause with respect to 1 or more service delivery areas if the Secretary determines that the alternate agency designated in the application would improve the effectiveness or efficiency of the administration of amounts distributed under clause (vi)(II)(aa) for the benefit of the area or areas.
       - **(viii)** For purposes of this subparagraph, the number of adult recipients of assistance under a State program funded under this part for a fiscal year shall be determined using data for the most recent 12-month period for which such data is available before the beginning of the fiscal year.
@@ -169,7 +169,7 @@ status: "active"
       - **(i)** For purposes of this paragraph, the number of individuals with an income that is less than the poverty line shall be determined for a fiscal year—
         - **(I)** based on the methodology used by the Bureau of the Census to produce and publish intercensal poverty data for States and counties (or, in the case of Puerto Rico, the Virgin Islands, Guam, and American Samoa, other poverty data selected by the Secretary of Labor); and
         - **(II)** using data for the most recent year for which such data is available before the beginning of the fiscal year.
-      - **(ii)** As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to title I of the Workforce Investment Area 5 5 So in original. Probably should be “Act”. of 1998 [ 29 U.S.C. 2801 et seq.], as appropriate.
+      - **(ii)** As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce development board established for the local workforce development area pursuant to title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.], as appropriate.
       - **(iii)** As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or. 6 6 So in original.
     - **(E)** 1 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $15,000,000 of the amount so specified for fiscal year 1999 shall be reserved for grants to Indian tribes under section 612(a)(3) of this title .
     - **(F)** 0.6 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $9,000,000 of the amount so specified for fiscal year 1999 shall be reserved for use by the Secretary to carry out section 613(j) of this title .

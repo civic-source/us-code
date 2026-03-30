@@ -3,9 +3,9 @@ title: "Section 390aa - Congressional declaration of purpose; short title"
 usc_title: 43
 usc_section: "390aa"
 chapter: 12
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "43 U.S.C. § 390aa"
-generated_at: "2026-03-30T04:31:04.626Z"
+generated_at: "2026-03-30T04:32:53.547Z"
 status: "active"
 ---
 

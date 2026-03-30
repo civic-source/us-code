@@ -3,9 +3,9 @@ title: "Section 4102A - Assistant Secretary of Labor for Veterans’ Employment 
 usc_title: 38
 usc_section: "4102A"
 chapter: 41
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "38 U.S.C. § 4102A"
-generated_at: "2026-03-30T04:31:01.342Z"
+generated_at: "2026-03-30T04:32:50.153Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
   - **(5)** Each grant or contract by which funds are made available to a State shall contain a provision requiring the recipient of the funds—
     - **(A)** to comply with the provisions of this chapter; and
     - **(B)** on an annual basis, to notify the Secretary of, and provide supporting rationale for, each nonveteran who is employed as a disabled veterans’ outreach program specialist and local veterans’ employment representative for a period in excess of 6 months.
-  - **(6)** Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 and the Wagner-Peyser Act.
+  - **(6)** Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 1 1 See References in Text note below. and the Wagner-Peyser Act.
   - **(7)** Of the amount of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title for any program year, one percent shall be for the purposes of making cash awards under the program of performance incentive awards described in section 4112 of this title in the State.
   - **(8)**
     - **(A)** As a condition of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title, the Secretary shall require the State to require each employee hired by the State who is assigned to perform the duties of a disabled veterans’ outreach program specialist or a local veterans’ employment representative under this chapter to satisfactorily complete training provided by the National Veterans’ Employment and Training Services Institute during the 18-month period that begins on the date on which the employee is so assigned.
@@ -73,7 +73,7 @@ status: "active"
       - **(ii)** to disclose to the Secretary in writing the following:
         - **(I)** Criteria applicants must satisfy to receive a certification or license described in subparagraph (B) by the State.
         - **(II)** A description of the standard practices of the State for evaluating training received by veterans while serving on active duty in the Armed Forces and evaluating the documented work experience of such veterans during such service for purposes of approving or denying a certification or license described in subparagraph (B).
-        - **(III)** Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).” 1 1 So in original. The quotation marks probably should not appear.
+        - **(III)** Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).” 2 2 So in original. The quotation marks probably should not appear.
     - **(B)** A certification or license described in this subparagraph is any of the following:
       - **(i)** A license to be a nonemergency medical professional.
       - **(ii)** A license to be an emergency medical professional.
@@ -82,14 +82,14 @@ status: "active"
     - **(D)** The Secretary shall publish on the Internet website of the Department available to the public—
       - **(i)** any guidance the Secretary gives the Secretary of Defense with respect to carrying out this section; and
       - **(ii)** any information the Secretary receives from a State pursuant to subparagraph (A).
-- **(d)** The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998 and other federally funded employment and training programs.
+- **(d)** The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act and other federally funded employment and training programs.
 - **(e)**
   - **(1)** The Secretary shall assign to each region for which the Secretary operates a regional office a representative of the Veterans’ Employment and Training Service to serve as the Regional Administrator for Veterans’ Employment and Training in such region.
   - **(2)** Each such Regional Administrator shall carry out such duties as the Secretary may require to promote veterans employment and reemployment within the region that the Administrator serves.
 - **(f)**
   - **(1)** The Assistant Secretary of Labor for Veterans’ Employment and Training shall establish and implement a comprehensive performance accountability system to measure the performance of employment service delivery systems, including disabled veterans’ outreach program specialists and local veterans’ employment representatives providing employment, training, and placement services under this chapter in a State to provide accountability of that State to the Secretary for purposes of subsection (c).
   - **(2)** Such standards and measures shall—
-    - **(A)** be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998; and
+    - **(A)** be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act; and
     - **(B)** be appropriately weighted to provide special consideration for placement of (i) veterans requiring intensive services (as defined in section 4101(9) of this title ), such as special disabled veterans and disabled veterans, and (ii) veterans who enroll in readjustment counseling under section 1712A of this title .
 - **(g)** The Secretary may provide such technical assistance as the Secretary determines appropriate to any State that the Secretary determines has, or may have, an entered-employment rate in the State that is deficient, as determined under subsection (c)(3) with respect to a program year, including assistance in the development of a corrective action plan under that subsection.
 - **(h)** The Secretary may allow the Governor of a State receiving funds under subsection (b)(5) to support specialists and representatives as described in such subsection to consolidate the functions of such specialists and representatives if—

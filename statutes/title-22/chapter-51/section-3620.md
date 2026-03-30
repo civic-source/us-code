@@ -3,9 +3,9 @@ title: "Section 3620 - Authority of Ambassador; independence of Commission regar
 usc_title: 22
 usc_section: "3620"
 chapter: 51
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "22 U.S.C. § 3620"
-generated_at: "2026-03-30T04:30:30.105Z"
+generated_at: "2026-03-30T04:32:34.643Z"
 status: "active"
 ---
 

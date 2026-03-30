@@ -1,0 +1,16 @@
+---
+title: "Section 1592 - Rules and regulations"
+usc_title: 7
+usc_section: "1592"
+chapter: 37
+current_through: "PL 114-30"
+classification: "7 U.S.C. § 1592"
+generated_at: "2026-03-30T04:31:56.943Z"
+status: "active"
+---
+
+# § 1592. Rules and regulations
+
+- **(a)** The Secretary of Agriculture shall make such rules and regulations as he may deem necessary for the effective enforcement of this chapter, except as otherwise provided in this section.
+- **(b)** The Secretary of the Treasury and the Secretary of Agriculture shall make, jointly or severally, such rules and regulations as they may deem necessary for the effective enforcement of subchapter III of this chapter.
+- **(c)** Prior to the promulgation of any rule or regulation under this chapter, due notice shall be given by publication in the Federal Register of intention to promulgate and the time and place of a public hearing to be held with reference thereto, and no rule or regulation may be promulgated until after such hearing. Any rule or regulation shall become effective on the date fixed in the promulgation, which date shall be not less than thirty days after publication in the Federal Register and may be amended or revoked in the manner provided for its promulgation.

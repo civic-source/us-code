@@ -3,9 +3,9 @@ title: "Section 2302 - Funeral expenses"
 usc_title: 38
 usc_section: "2302"
 chapter: 23
-current_through: "PL 114-25"
+current_through: "PL 114-30"
 classification: "38 U.S.C. § 2302"
-generated_at: "2026-03-30T04:31:01.317Z"
+generated_at: "2026-03-30T04:32:50.136Z"
 status: "active"
 ---
 
