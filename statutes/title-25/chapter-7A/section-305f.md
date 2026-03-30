@@ -3,9 +3,9 @@ title: "Section 305f - Indian Arts and Crafts Board art collection"
 usc_title: 25
 usc_section: "305f"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "25 U.S.C. § 305f"
-generated_at: "2026-03-30T08:01:55.596Z"
+generated_at: "2026-03-30T08:04:00.343Z"
 status: "active"
 ---
 

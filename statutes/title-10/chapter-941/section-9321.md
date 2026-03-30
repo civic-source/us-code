@@ -3,9 +3,9 @@ title: "Section 9321 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "9321"
 chapter: 941
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "10 U.S.C. § 9321"
-generated_at: "2026-03-30T08:01:13.348Z"
+generated_at: "2026-03-30T08:03:31.186Z"
 status: "active"
 ---
 

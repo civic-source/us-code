@@ -3,9 +3,9 @@ title: "Section 3 - Personnel oversight"
 usc_title: 42
 usc_section: "3"
 chapter: 16
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T08:02:46.130Z"
+generated_at: "2026-03-30T08:05:50.377Z"
 status: "active"
 ---
 

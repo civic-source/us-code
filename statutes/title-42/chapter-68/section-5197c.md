@@ -3,9 +3,9 @@ title: "Section 5197c - Annual report to Congress"
 usc_title: 42
 usc_section: "5197c"
 chapter: 68
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 5197c"
-generated_at: "2026-03-30T08:02:46.212Z"
+generated_at: "2026-03-30T08:05:50.463Z"
 status: "active"
 ---
 

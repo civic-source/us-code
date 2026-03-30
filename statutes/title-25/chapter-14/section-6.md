@@ -3,9 +3,9 @@ title: "Section 6 - Omitted"
 usc_title: 25
 usc_section: "6"
 chapter: 14
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "25 U.S.C. § 6"
-generated_at: "2026-03-30T08:01:55.606Z"
+generated_at: "2026-03-30T08:04:00.353Z"
 status: "omitted"
 ---
 

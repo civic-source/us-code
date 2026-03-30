@@ -3,9 +3,9 @@ title: "Section 12755 - Tenant and participant protections"
 usc_title: 42
 usc_section: "12755"
 chapter: 130
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 12755"
-generated_at: "2026-03-30T08:02:46.386Z"
+generated_at: "2026-03-30T08:05:50.636Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14133 - Transferred"
 usc_title: 42
 usc_section: "14133"
 chapter: 136
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 14133"
-generated_at: "2026-03-30T08:02:46.402Z"
+generated_at: "2026-03-30T08:05:50.651Z"
 status: "transferred"
 ---
 

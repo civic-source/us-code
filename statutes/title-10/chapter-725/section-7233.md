@@ -3,9 +3,9 @@ title: "Section 7233 - Requirement of exemplary conduct"
 usc_title: 10
 usc_section: "7233"
 chapter: 725
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "10 U.S.C. § 7233"
-generated_at: "2026-03-30T08:01:13.321Z"
+generated_at: "2026-03-30T08:03:31.169Z"
 status: "active"
 ---
 

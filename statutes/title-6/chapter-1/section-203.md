@@ -3,9 +3,9 @@ title: "Section 203 - Functions transferred"
 usc_title: 6
 usc_section: "203"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "6 U.S.C. § 203"
-generated_at: "2026-03-30T08:01:02.362Z"
+generated_at: "2026-03-30T08:03:23.409Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1039 - Crediting of minority service"
 usc_title: 10
 usc_section: "1039"
 chapter: 53
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "10 U.S.C. § 1039"
-generated_at: "2026-03-30T08:01:13.207Z"
+generated_at: "2026-03-30T08:03:31.095Z"
 status: "active"
 ---
 

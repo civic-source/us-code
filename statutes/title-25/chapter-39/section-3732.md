@@ -3,9 +3,9 @@ title: "Section 3732 - Postgraduation recruitment, education and training progra
 usc_title: 25
 usc_section: "3732"
 chapter: 39
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "25 U.S.C. § 3732"
-generated_at: "2026-03-30T08:01:55.641Z"
+generated_at: "2026-03-30T08:04:00.388Z"
 status: "active"
 ---
 

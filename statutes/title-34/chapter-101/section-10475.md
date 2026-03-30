@@ -3,9 +3,9 @@ title: "Section 10475 - Federal share"
 usc_title: 34
 usc_section: "10475"
 chapter: 101
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "34 U.S.C. § 10475"
-generated_at: "2026-03-30T08:02:21.563Z"
+generated_at: "2026-03-30T08:04:43.664Z"
 status: "active"
 ---
 

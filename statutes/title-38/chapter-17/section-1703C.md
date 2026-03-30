@@ -3,9 +3,9 @@ title: "Section 1703C - Standards for quality"
 usc_title: 38
 usc_section: "1703C"
 chapter: 17
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "38 U.S.C. § 1703C"
-generated_at: "2026-03-30T08:02:28.559Z"
+generated_at: "2026-03-30T08:05:13.795Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3103 - Public information and outreach"
 usc_title: 33
 usc_section: "3103"
 chapter: 44
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "33 U.S.C. § 3103"
-generated_at: "2026-03-30T08:02:24.271Z"
+generated_at: "2026-03-30T08:04:51.734Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 130a - Financial and program audit by Secretary"
 usc_title: 20
 usc_section: "130a"
 chapter: 8
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "20 U.S.C. § 130a"
-generated_at: "2026-03-30T08:01:39.366Z"
+generated_at: "2026-03-30T08:03:44.070Z"
 status: "active"
 ---
 

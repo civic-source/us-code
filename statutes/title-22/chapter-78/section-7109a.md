@@ -3,9 +3,9 @@ title: "Section 7109a - Research on domestic and international trafficking in pe
 usc_title: 22
 usc_section: "7109a"
 chapter: 78
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "22 U.S.C. § 7109a"
-generated_at: "2026-03-30T08:01:48.765Z"
+generated_at: "2026-03-30T08:04:07.227Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 693c - Administration by Secretary of Agriculture of the Robert 
 usc_title: 16
 usc_section: "693c"
 chapter: 6
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 693c"
-generated_at: "2026-03-30T08:01:42.323Z"
+generated_at: "2026-03-30T08:03:52.401Z"
 status: "active"
 ---
 

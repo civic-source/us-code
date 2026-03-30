@@ -3,9 +3,9 @@ title: "Section 4111 - Exclusive recognition"
 usc_title: 22
 usc_section: "4111"
 chapter: 52
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "22 U.S.C. § 4111"
-generated_at: "2026-03-30T08:01:48.736Z"
+generated_at: "2026-03-30T08:04:07.199Z"
 status: "active"
 ---
 

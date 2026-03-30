@@ -3,9 +3,9 @@ title: "Section 4003 - Federal institutions in States without appropriate facili
 usc_title: 18
 usc_section: "4003"
 chapter: 301
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "18 U.S.C. § 4003"
-generated_at: "2026-03-30T08:01:37.425Z"
+generated_at: "2026-03-30T08:03:42.222Z"
 status: "active"
 ---
 

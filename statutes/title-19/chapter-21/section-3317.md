@@ -3,9 +3,9 @@ title: "Section 3317 - Congressional intent regarding future accessions"
 usc_title: 19
 usc_section: "3317"
 chapter: 21
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "19 U.S.C. § 3317"
-generated_at: "2026-03-30T08:01:35.784Z"
+generated_at: "2026-03-30T08:03:49.434Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 220541 - Designation of United States Center for Safe Sport"
 usc_title: 36
 usc_section: "220541"
 chapter: 2205
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "36 U.S.C. § 220541"
-generated_at: "2026-03-30T08:02:27.049Z"
+generated_at: "2026-03-30T08:05:02.107Z"
 status: "active"
 ---
 

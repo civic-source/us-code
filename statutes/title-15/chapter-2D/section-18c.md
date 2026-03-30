@@ -3,9 +3,9 @@ title: "Section 18c - Rule of construction relating to the Commodities Exchange 
 usc_title: 15
 usc_section: "18c"
 chapter: 2
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 18c"
-generated_at: "2026-03-30T08:01:31.554Z"
+generated_at: "2026-03-30T08:03:38.194Z"
 status: "active"
 ---
 

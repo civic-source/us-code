@@ -3,9 +3,9 @@ title: "Section 30D - New qualified plug-in electric drive motor vehicles"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-30T08:02:17.857Z"
+generated_at: "2026-03-30T08:04:18.567Z"
 status: "active"
 ---
 

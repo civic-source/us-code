@@ -3,9 +3,9 @@ title: "Section 5314 - Positions at level III"
 usc_title: 5
 usc_section: "5314"
 chapter: 53
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "5 U.S.C. § 5314"
-generated_at: "2026-03-30T08:00:52.894Z"
+generated_at: "2026-03-30T08:03:20.926Z"
 status: "active"
 ---
 

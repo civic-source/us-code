@@ -3,9 +3,9 @@ title: "Section 1996b - Interethnic adoption"
 usc_title: 42
 usc_section: "1996b"
 chapter: 21
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 1996b"
-generated_at: "2026-03-30T08:02:46.137Z"
+generated_at: "2026-03-30T08:05:50.384Z"
 status: "active"
 ---
 

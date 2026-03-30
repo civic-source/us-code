@@ -3,9 +3,9 @@ title: "Section 5174 - Federal assistance to individuals and households"
 usc_title: 42
 usc_section: "5174"
 chapter: 68
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 5174"
-generated_at: "2026-03-30T08:02:46.210Z"
+generated_at: "2026-03-30T08:05:50.459Z"
 status: "active"
 ---
 
@@ -101,7 +101,7 @@ status: "active"
     - **(A)** the Federal share shall be 75 percent; and
     - **(B)** the non-Federal share shall be paid from funds made available by the State.
 - **(h)**
-  - **(1)** No individual or household shall receive financial assistance greater than $25,000 under this section with respect to a single major disaster , excluding financial assistance to rent alternate housing accommodations under subsection (c)(1)(A)(i) and financial assistance to address other needs under subsection (e).
+  - **(1)** No individual or household shall receive financial assistance greater than $25,000 under this section with respect to a single major disaster, excluding financial assistance to rent alternate housing accommodations under subsection (c)(1)(A)(i) and financial assistance to address other needs under subsection (e).
   - **(2)** The maximum financial assistance any individual or household may receive under subsection (e) shall be equivalent to the amount set forth in paragraph (1) with respect to a single major disaster.
   - **(3)** The limit established under paragraphs (1) and (2) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
   - **(4)**

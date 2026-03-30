@@ -3,9 +3,9 @@ title: "Section 4301 - Findings; purposes"
 usc_title: 25
 usc_section: "4301"
 chapter: 44
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "25 U.S.C. § 4301"
-generated_at: "2026-03-30T08:01:55.647Z"
+generated_at: "2026-03-30T08:04:00.395Z"
 status: "active"
 ---
 

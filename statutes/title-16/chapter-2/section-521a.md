@@ -3,9 +3,9 @@ title: "Section 521a - Administration, management, and consolidation of certain 
 usc_title: 16
 usc_section: "521a"
 chapter: 2
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 521a"
-generated_at: "2026-03-30T08:01:42.293Z"
+generated_at: "2026-03-30T08:03:52.377Z"
 status: "active"
 ---
 

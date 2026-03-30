@@ -3,9 +3,9 @@ title: "Section 945a - Compensation for rights-of-way for certain reclamation pr
 usc_title: 43
 usc_section: "945a"
 chapter: 22
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "43 U.S.C. § 945a"
-generated_at: "2026-03-30T08:02:32.180Z"
+generated_at: "2026-03-30T08:05:32.678Z"
 status: "active"
 ---
 

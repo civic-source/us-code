@@ -3,9 +3,9 @@ title: "Section 1 - John H. Prescott Marine Mammal Rescue Assistance Grant Progr
 usc_title: 16
 usc_section: "1"
 chapter: 31
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T08:01:42.384Z"
+generated_at: "2026-03-30T08:03:52.450Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1138c - Repealed. Pub. L. 92–181, title V , § 5.26(a), Dec. 1
 usc_title: 12
 usc_section: "1138c"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "12 U.S.C. § 1138c"
-generated_at: "2026-03-30T08:01:28.332Z"
+generated_at: "2026-03-30T08:03:36.165Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5562 - Investigations and administrative discovery"
 usc_title: 12
 usc_section: "5562"
 chapter: 53
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "12 U.S.C. § 5562"
-generated_at: "2026-03-30T08:01:28.483Z"
+generated_at: "2026-03-30T08:03:36.303Z"
 status: "active"
 ---
 

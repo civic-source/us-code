@@ -1,13 +1,13 @@
 ---
-title: "Section 4e - Repealed. Pub. L. 109–416 , § 3(b)(4), Dec. 19, 2006 , 120 Stat. 2829 ; Pub. L. 109–482, title I , § 104(b)(3)(D), Jan. 15, 2007 , 120 Stat. 3694"
+title: "Section 4e - Repealed. Pub. L. 109–416, § 3(b)(4) , Dec. 19, 2006 , 120 Stat. 2829 ; Pub. L. 109–482, title I, § 104(b)(3)(D) , Jan. 15, 2007 , 120 Stat. 3694"
 usc_title: 42
 usc_section: "4e"
 chapter: 6
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 4e"
-generated_at: "2026-03-30T08:02:45.790Z"
+generated_at: "2026-03-30T08:05:50.031Z"
 status: "repealed"
 ---
 
-# § 247b–4e. Repealed. Pub. L. 109–416 , § 3(b)(4), Dec. 19, 2006 , 120 Stat. 2829 ; Pub. L. 109–482, title I , § 104(b)(3)(D), Jan. 15, 2007 , 120 Stat. 3694
+# § 247b–4e. Repealed. Pub. L. 109–416, § 3(b)(4) , Dec. 19, 2006 , 120 Stat. 2829 ; Pub. L. 109–482, title I, § 104(b)(3)(D) , Jan. 15, 2007 , 120 Stat. 3694
 

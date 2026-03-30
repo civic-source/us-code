@@ -3,9 +3,9 @@ title: "Section 178a - Definitions"
 usc_title: 7
 usc_section: "178a"
 chapter: 8
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "7 U.S.C. § 178a"
-generated_at: "2026-03-30T08:01:01.110Z"
+generated_at: "2026-03-30T08:03:27.615Z"
 status: "active"
 ---
 

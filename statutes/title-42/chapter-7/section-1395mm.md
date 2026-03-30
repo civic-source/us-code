@@ -3,9 +3,9 @@ title: "Section 1395mm - Payments to health maintenance organizations and compet
 usc_title: 42
 usc_section: "1395mm"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 1395mm"
-generated_at: "2026-03-30T08:02:46.030Z"
+generated_at: "2026-03-30T08:05:50.279Z"
 status: "active"
 ---
 
@@ -129,7 +129,7 @@ status: "active"
   - **(3)** The additional benefits referred to in paragraph (2) are—
     - **(A)** the reduction of the premium rate or other charges made with respect to services furnished by the organization to members enrolled under this section, or
     - **(B)** the provision of additional health benefits,
-  - **(4)** Repealed. Pub. L. 100–203, title IV , § 4012(b), Dec. 22, 1987 , 101 Stat. 1330–61 .
+  - **(4)** Repealed. Pub. L. 100–203, title IV, § 4012(b) , Dec. 22, 1987 , 101 Stat. 1330–61 .
   - **(5)** An organization having a risk-sharing contract under this section may (with the approval of the Secretary) provide that a part of the value of additional benefits otherwise required to be provided by reason of paragraph (2) be withheld and reserved in the Federal Hospital Insurance Trust Fund and in the Federal Supplementary Medical Insurance Trust Fund (in such proportions as the Secretary determines to be appropriate) by the Secretary for subsequent annual contract periods, to the extent required to stabilize and prevent undue fluctuations in the additional benefits offered in those subsequent periods by the organization in accordance with paragraph (3). Any of such value of additional benefits which is not provided to members of the organization in accordance with paragraph (3) prior to the end of such period, shall revert for the use of such trust funds.
   - **(6)**
     - **(A)** A risk-sharing contract under this section shall require the eligible organization to provide prompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to individuals pursuant to such contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier.

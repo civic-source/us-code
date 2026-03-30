@@ -3,9 +3,9 @@ title: "Section 431 - Benefits for certain individuals interned by United States
 usc_title: 42
 usc_section: "431"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 431"
-generated_at: "2026-03-30T08:02:45.928Z"
+generated_at: "2026-03-30T08:05:50.176Z"
 status: "active"
 ---
 

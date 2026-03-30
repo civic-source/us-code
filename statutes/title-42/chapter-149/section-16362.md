@@ -3,9 +3,9 @@ title: "Section 16362 - Barrow Geophysical Research Facility"
 usc_title: 42
 usc_section: "16362"
 chapter: 149
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 16362"
-generated_at: "2026-03-30T08:02:46.425Z"
+generated_at: "2026-03-30T08:05:50.673Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4531 - Presidential authorization for the national defense"
 usc_title: 50
 usc_section: "4531"
 chapter: 55
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "50 U.S.C. § 4531"
-generated_at: "2026-03-30T08:02:50.970Z"
+generated_at: "2026-03-30T08:05:54.863Z"
 status: "active"
 ---
 

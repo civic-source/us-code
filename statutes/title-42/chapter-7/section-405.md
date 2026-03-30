@@ -3,9 +3,9 @@ title: "Section 405 - Evidence, procedure, and certification for payments"
 usc_title: 42
 usc_section: "405"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 405"
-generated_at: "2026-03-30T08:02:45.919Z"
+generated_at: "2026-03-30T08:05:50.166Z"
 status: "active"
 ---
 
@@ -236,7 +236,7 @@ status: "active"
       - **(i)** the representative payee is a person who serves in that capacity with respect to 15 or more such individuals;
       - **(ii)** the representative payee is a certified community-based nonprofit social service agency (as defined in paragraph (10) of this subsection or section 1383(a)(2)(I) of this title );
       - **(iii)** the representative payee is an agency (other than an agency described in clause (ii)) that serves in that capacity with respect to 50 or more such individuals; or
-      - **(iv)** the representative payee collects a fee for its services. The Commissioner shall also conduct periodic onsite reviews of individual and organizational payees, including payees who are related to the beneficiary and primarily reside in the same household, selected on the basis of risk-factors for potential misuse or unsuitability associated with such payees or beneficiaries.
+      - **(iv)** the representative payee collects a fee for its services.
 - **(ii)** A protection and advocacy system awarded a grant under this subparagraph shall use the grant funds to—
         - **(I)** conduct all periodic onsite reviews pursuant to this paragraph and such other reviews of representative payees as the Commissioner may request, including reviews conducted in response to allegations or concerns about the performance or suitability of the payee;
         - **(II)** conduct additional reviews that the protection and advocacy system has reason to believe are warranted;

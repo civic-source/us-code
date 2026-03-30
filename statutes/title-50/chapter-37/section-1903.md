@@ -3,9 +3,9 @@ title: "Section 1903 - National Security Education Board"
 usc_title: 50
 usc_section: "1903"
 chapter: 37
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "50 U.S.C. § 1903"
-generated_at: "2026-03-30T08:02:50.923Z"
+generated_at: "2026-03-30T08:05:54.816Z"
 status: "active"
 ---
 

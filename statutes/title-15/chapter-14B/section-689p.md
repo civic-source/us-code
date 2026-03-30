@@ -3,9 +3,9 @@ title: "Section 689p - Regulations"
 usc_title: 15
 usc_section: "689p"
 chapter: 14
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 689p"
-generated_at: "2026-03-30T08:01:31.588Z"
+generated_at: "2026-03-30T08:03:38.225Z"
 status: "active"
 ---
 

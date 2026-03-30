@@ -3,9 +3,9 @@ title: "Section 5151 - Findings and purposes"
 usc_title: 16
 usc_section: "5151"
 chapter: 71
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 5151"
-generated_at: "2026-03-30T08:01:42.451Z"
+generated_at: "2026-03-30T08:03:52.503Z"
 status: "active"
 ---
 

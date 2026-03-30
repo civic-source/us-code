@@ -3,9 +3,9 @@ title: "Section 13612 - Reservation of units for disabled families"
 usc_title: 42
 usc_section: "13612"
 chapter: 135
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 13612"
-generated_at: "2026-03-30T08:02:46.401Z"
+generated_at: "2026-03-30T08:05:50.650Z"
 status: "active"
 ---
 

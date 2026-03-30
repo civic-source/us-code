@@ -3,9 +3,9 @@ title: "Section 10182 - Period of award"
 usc_title: 34
 usc_section: "10182"
 chapter: 101
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "34 U.S.C. § 10182"
-generated_at: "2026-03-30T08:02:21.556Z"
+generated_at: "2026-03-30T08:04:43.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1006b - Cancellation of entry or purchase upon loan default; ent
 usc_title: 7
 usc_section: "1006b"
 chapter: 33
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "7 U.S.C. § 1006b"
-generated_at: "2026-03-30T08:01:01.142Z"
+generated_at: "2026-03-30T08:03:27.634Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70506 - Exclusive right to name"
 usc_title: 36
 usc_section: "70506"
 chapter: 705
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "36 U.S.C. § 70506"
-generated_at: "2026-03-30T08:02:27.037Z"
+generated_at: "2026-03-30T08:05:02.096Z"
 status: "active"
 ---
 

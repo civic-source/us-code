@@ -1,13 +1,13 @@
 ---
-title: "Section 1893 - Repealed. Pub. L. 93–608 , § 1(1), Jan. 2, 1975 , 88 Stat. 1967"
+title: "Section 1893 - Repealed. Pub. L. 93–608, § 1(1) , Jan. 2, 1975 , 88 Stat. 1967"
 usc_title: 42
 usc_section: "1893"
 chapter: 16
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 1893"
-generated_at: "2026-03-30T08:02:46.132Z"
+generated_at: "2026-03-30T08:05:50.379Z"
 status: "repealed"
 ---
 
-# § 1893. Repealed. Pub. L. 93–608 , § 1(1), Jan. 2, 1975 , 88 Stat. 1967
+# § 1893. Repealed. Pub. L. 93–608, § 1(1) , Jan. 2, 1975 , 88 Stat. 1967
 

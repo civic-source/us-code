@@ -3,9 +3,9 @@ title: "Section 3847 - Data on conservation practices"
 usc_title: 16
 usc_section: "3847"
 chapter: 58
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 3847"
-generated_at: "2026-03-30T08:01:42.438Z"
+generated_at: "2026-03-30T08:03:52.493Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 144 - Repealed. May 29, 1928, ch. 901 , § 1(66), 45 Stat. 991"
+title: "Section 144 - Repealed. May 29, 1928, ch. 901, § 1(66) , 45 Stat. 991"
 usc_title: 25
 usc_section: "144"
 chapter: 4
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "25 U.S.C. § 144"
-generated_at: "2026-03-30T08:01:55.593Z"
+generated_at: "2026-03-30T08:04:00.340Z"
 status: "repealed"
 ---
 
-# § 144. Repealed. May 29, 1928, ch. 901 , § 1(66), 45 Stat. 991
+# § 144. Repealed. May 29, 1928, ch. 901, § 1(66) , 45 Stat. 991
 

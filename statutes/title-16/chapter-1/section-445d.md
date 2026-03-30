@@ -3,9 +3,9 @@ title: "Section 445d - Acquisition of additional lands, Pipestone School Reserve
 usc_title: 16
 usc_section: "445d"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 445d"
-generated_at: "2026-03-30T08:01:42.241Z"
+generated_at: "2026-03-30T08:03:52.335Z"
 status: "active"
 ---
 

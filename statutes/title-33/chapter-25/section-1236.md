@@ -3,9 +3,9 @@ title: "Section 1236 - Repealed. Pub. L. 115–282, title IV , § 406(c), Dec. 4
 usc_title: 33
 usc_section: "1236"
 chapter: 25
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "33 U.S.C. § 1236"
-generated_at: "2026-03-30T08:02:24.225Z"
+generated_at: "2026-03-30T08:04:51.672Z"
 status: "repealed"
 ---
 

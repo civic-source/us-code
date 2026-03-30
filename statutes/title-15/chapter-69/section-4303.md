@@ -3,9 +3,9 @@ title: "Section 4303 - Limitation on recovery"
 usc_title: 15
 usc_section: "4303"
 chapter: 69
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 4303"
-generated_at: "2026-03-30T08:01:31.676Z"
+generated_at: "2026-03-30T08:03:38.301Z"
 status: "active"
 ---
 

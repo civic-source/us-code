@@ -3,9 +3,9 @@ title: "Section 4482 - Definitions"
 usc_title: 26
 usc_section: "4482"
 chapter: 36
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "26 U.S.C. § 4482"
-generated_at: "2026-03-30T08:02:18.026Z"
+generated_at: "2026-03-30T08:04:18.730Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50133 - Repealed. Pub. L. 115–10, title IV , § 416(c), Mar. 2
 usc_title: 51
 usc_section: "50133"
 chapter: 501
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "51 U.S.C. § 50133"
-generated_at: "2026-03-30T08:03:04.373Z"
+generated_at: "2026-03-30T08:06:21.729Z"
 status: "repealed"
 ---
 

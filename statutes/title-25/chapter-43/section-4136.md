@@ -1,13 +1,13 @@
 ---
-title: "Section 4136 - Repealed. Pub. L. 106–568, title X , § 1003(k)(2), Dec. 27, 2000 , 114 Stat. 2930 ; Pub. L. 106–569, title V , § 503(j)(2), Dec. 27, 2000 , 114 Stat. 2966"
+title: "Section 4136 - Repealed. Pub. L. 106–568, title X, § 1003(k)(2) , Dec. 27, 2000 , 114 Stat. 2930 ; Pub. L. 106–569, title V, § 503(j)(2) , Dec. 27, 2000 , 114 Stat. 2966"
 usc_title: 25
 usc_section: "4136"
 chapter: 43
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "25 U.S.C. § 4136"
-generated_at: "2026-03-30T08:01:55.644Z"
+generated_at: "2026-03-30T08:04:00.392Z"
 status: "repealed"
 ---
 
-# § 4136. Repealed. Pub. L. 106–568, title X , § 1003(k)(2), Dec. 27, 2000 , 114 Stat. 2930 ; Pub. L. 106–569, title V , § 503(j)(2), Dec. 27, 2000 , 114 Stat. 2966
+# § 4136. Repealed. Pub. L. 106–568, title X, § 1003(k)(2) , Dec. 27, 2000 , 114 Stat. 2930 ; Pub. L. 106–569, title V, § 503(j)(2) , Dec. 27, 2000 , 114 Stat. 2966
 

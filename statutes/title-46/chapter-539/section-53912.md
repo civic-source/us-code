@@ -3,9 +3,9 @@ title: "Section 53912 - Repealed. Pub. L. 115–232, div. C, title XXXV , § 350
 usc_title: 46
 usc_section: "53912"
 chapter: 539
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "46 U.S.C. § 53912"
-generated_at: "2026-03-30T08:02:55.904Z"
+generated_at: "2026-03-30T08:06:14.939Z"
 status: "repealed"
 ---
 

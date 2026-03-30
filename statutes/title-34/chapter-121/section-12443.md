@@ -3,9 +3,9 @@ title: "Section 12443 - Eligible entities"
 usc_title: 34
 usc_section: "12443"
 chapter: 121
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "34 U.S.C. § 12443"
-generated_at: "2026-03-30T08:02:21.580Z"
+generated_at: "2026-03-30T08:04:43.680Z"
 status: "active"
 ---
 

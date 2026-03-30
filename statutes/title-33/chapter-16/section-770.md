@@ -3,9 +3,9 @@ title: "Section 770 - Regulations for expenditure of moneys accruing from commut
 usc_title: 33
 usc_section: "770"
 chapter: 16
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "33 U.S.C. § 770"
-generated_at: "2026-03-30T08:02:24.217Z"
+generated_at: "2026-03-30T08:04:51.665Z"
 status: "active"
 ---
 

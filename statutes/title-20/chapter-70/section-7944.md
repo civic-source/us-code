@@ -3,9 +3,9 @@ title: "Section 7944 - Applicability"
 usc_title: 20
 usc_section: "7944"
 chapter: 70
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "20 U.S.C. § 7944"
-generated_at: "2026-03-30T08:01:39.514Z"
+generated_at: "2026-03-30T08:03:44.189Z"
 status: "active"
 ---
 

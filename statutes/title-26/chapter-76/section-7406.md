@@ -3,9 +3,9 @@ title: "Section 7406 - Disposition of judgments and moneys recovered"
 usc_title: 26
 usc_section: "7406"
 chapter: 76
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "26 U.S.C. § 7406"
-generated_at: "2026-03-30T08:02:18.080Z"
+generated_at: "2026-03-30T08:04:18.782Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 297h - Repealed. Pub. L. 99–92 , § 9(a)(1), Aug. 16, 1985 , 99 Stat. 400"
+title: "Section 297h - Repealed. Pub. L. 99–92, § 9(a)(1) , Aug. 16, 1985 , 99 Stat. 400"
 usc_title: 42
 usc_section: "297h"
 chapter: 6
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 297h"
-generated_at: "2026-03-30T08:02:45.862Z"
+generated_at: "2026-03-30T08:05:50.107Z"
 status: "repealed"
 ---
 
-# § 297h. Repealed. Pub. L. 99–92 , § 9(a)(1), Aug. 16, 1985 , 99 Stat. 400
+# § 297h. Repealed. Pub. L. 99–92, § 9(a)(1) , Aug. 16, 1985 , 99 Stat. 400
 

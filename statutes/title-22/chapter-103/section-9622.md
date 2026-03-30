@@ -3,9 +3,9 @@ title: "Section 9622 - Terms and conditions"
 usc_title: 22
 usc_section: "9622"
 chapter: 103
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "22 U.S.C. § 9622"
-generated_at: "2026-03-30T08:01:48.793Z"
+generated_at: "2026-03-30T08:04:07.252Z"
 status: "active"
 ---
 

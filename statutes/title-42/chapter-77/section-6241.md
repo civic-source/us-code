@@ -3,9 +3,9 @@ title: "Section 6241 - Drawdown and sale of petroleum products"
 usc_title: 42
 usc_section: "6241"
 chapter: 77
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 6241"
-generated_at: "2026-03-30T08:02:46.225Z"
+generated_at: "2026-03-30T08:05:50.476Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
 - **(f)**
 - **(g)**
   - **(1)** The Secretary shall conduct a continuing evaluation of the drawdown and sales procedures. In the conduct of an evaluation, the Secretary is authorized to carry out a test drawdown and sale or exchange of petroleum products from the Reserve. Such a test drawdown and sale or exchange may not exceed 5,000,000 barrels of petroleum products.
-  - **(2)** Repealed. Pub. L. 106–469, title I , § 103(15)(F)(ii), Nov. 9, 2000 , 114 Stat. 2031 .
+  - **(2)** Repealed. Pub. L. 106–469, title I, § 103(15)(F)(ii) , Nov. 9, 2000 , 114 Stat. 2031 .
   - **(3)** At least part of the crude oil that is sold or exchanged under this subsection shall be sold or exchanged to or with entities that are not part of the Federal Government.
   - **(4)** The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the same area at the time the Secretary is offering crude oil for sale in such area under this subsection.
   - **(5)** The Secretary may cancel any offer to sell or exchange crude oil as part of any test under this subsection if the Secretary determines that there are insufficient acceptable offers to obtain such crude oil.

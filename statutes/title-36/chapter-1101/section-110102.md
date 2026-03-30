@@ -3,9 +3,9 @@ title: "Section 110102 - Organization"
 usc_title: 36
 usc_section: "110102"
 chapter: 1101
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "36 U.S.C. § 110102"
-generated_at: "2026-03-30T08:02:27.040Z"
+generated_at: "2026-03-30T08:05:02.097Z"
 status: "active"
 ---
 

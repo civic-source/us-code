@@ -3,9 +3,9 @@ title: "Section 1161 - Commissioned officers: limitations on dismissal"
 usc_title: 10
 usc_section: "1161"
 chapter: 59
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "10 U.S.C. § 1161"
-generated_at: "2026-03-30T08:01:13.225Z"
+generated_at: "2026-03-30T08:03:31.106Z"
 status: "active"
 ---
 

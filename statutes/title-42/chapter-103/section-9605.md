@@ -3,9 +3,9 @@ title: "Section 9605 - National contingency plan"
 usc_title: 42
 usc_section: "9605"
 chapter: 103
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 9605"
-generated_at: "2026-03-30T08:02:46.319Z"
+generated_at: "2026-03-30T08:05:50.570Z"
 status: "active"
 ---
 

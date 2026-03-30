@@ -3,9 +3,9 @@ title: "Section 102 - Dependent parents"
 usc_title: 38
 usc_section: "102"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "38 U.S.C. § 102"
-generated_at: "2026-03-30T08:02:28.551Z"
+generated_at: "2026-03-30T08:05:13.787Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5161a - Audit of contracts"
 usc_title: 42
 usc_section: "5161a"
 chapter: 68
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 5161a"
-generated_at: "2026-03-30T08:02:46.208Z"
+generated_at: "2026-03-30T08:05:50.458Z"
 status: "active"
 ---
 

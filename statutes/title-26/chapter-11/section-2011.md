@@ -3,9 +3,9 @@ title: "Section 2011 - Repealed. Pub. L. 113–295, div. A, title II , § 221(a)
 usc_title: 26
 usc_section: "2011"
 chapter: 11
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "26 U.S.C. § 2011"
-generated_at: "2026-03-30T08:02:18.005Z"
+generated_at: "2026-03-30T08:04:18.710Z"
 status: "repealed"
 ---
 

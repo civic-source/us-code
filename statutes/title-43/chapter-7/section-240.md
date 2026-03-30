@@ -3,9 +3,9 @@ title: "Section 240 - Repealed. Pub. L. 94–579, title VII , § 702, Oct. 21, 1
 usc_title: 43
 usc_section: "240"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "43 U.S.C. § 240"
-generated_at: "2026-03-30T08:02:32.157Z"
+generated_at: "2026-03-30T08:05:32.655Z"
 status: "repealed"
 ---
 

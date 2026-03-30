@@ -3,9 +3,9 @@ title: "Section 3105 - Electronic charts"
 usc_title: 46
 usc_section: "3105"
 chapter: 31
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "46 U.S.C. § 3105"
-generated_at: "2026-03-30T08:02:55.877Z"
+generated_at: "2026-03-30T08:06:14.915Z"
 status: "active"
 ---
 

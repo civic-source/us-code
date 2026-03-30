@@ -3,9 +3,9 @@ title: "Section 2431 - Review of programs"
 usc_title: 25
 usc_section: "2431"
 chapter: 26
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "25 U.S.C. § 2431"
-generated_at: "2026-03-30T08:01:55.629Z"
+generated_at: "2026-03-30T08:04:00.376Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1105 - Prohibition on use of lead systems integrators"
 usc_title: 14
 usc_section: "1105"
 chapter: 11
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "14 U.S.C. § 1105"
-generated_at: "2026-03-30T08:01:21.459Z"
+generated_at: "2026-03-30T08:03:38.548Z"
 status: "active"
 ---
 

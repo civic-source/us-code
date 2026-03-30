@@ -3,9 +3,9 @@ title: "Section 6602 - Definitions"
 usc_title: 16
 usc_section: "6602"
 chapter: 85
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 6602"
-generated_at: "2026-03-30T08:01:42.460Z"
+generated_at: "2026-03-30T08:03:52.511Z"
 status: "active"
 ---
 

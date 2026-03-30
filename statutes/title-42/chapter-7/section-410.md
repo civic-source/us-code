@@ -3,9 +3,9 @@ title: "Section 410 - Definitions relating to employment"
 usc_title: 42
 usc_section: "410"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 410"
-generated_at: "2026-03-30T08:02:45.922Z"
+generated_at: "2026-03-30T08:05:50.169Z"
 status: "active"
 ---
 
@@ -89,7 +89,7 @@ For the purposes of this subchapter—
     - **(A)** such individual undertakes to produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land,
     - **(B)** the agricultural or horticultural commodities produced by such individual, or the proceeds therefrom, are to be divided between such individual and such owner or tenant, and
     - **(C)** the amount of such individual’s share depends on the amount of the agricultural or horticultural commodities produced;
-  - **(17)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(99)(C)(ii), Dec. 19, 2014 , 128 Stat. 4052 .
+  - **(17)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(99)(C)(ii) , Dec. 19, 2014 , 128 Stat. 4052 .
   - **(18)** Service performed in Guam by a resident of the Republic of the Philippines while in Guam on a temporary basis as a nonimmigrant alien admitted to Guam pursuant to section 1101(a)(15)(H)(ii) of title 8 ;
   - **(19)** Service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 1101(a)(15) of title 8 , and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q) as the case may be;
   - **(20)** Service (other than service described in paragraph (3)(A)) performed by an individual on a boat engaged in catching fish or other forms of aquatic animal life under an arrangement with the owner or operator of such boat pursuant to which—

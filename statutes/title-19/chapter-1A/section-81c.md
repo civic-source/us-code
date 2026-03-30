@@ -3,9 +3,9 @@ title: "Section 81c - Exemption from customs laws of merchandise brought into fo
 usc_title: 19
 usc_section: "81c"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "19 U.S.C. § 81c"
-generated_at: "2026-03-30T08:01:35.730Z"
+generated_at: "2026-03-30T08:03:49.380Z"
 status: "active"
 ---
 

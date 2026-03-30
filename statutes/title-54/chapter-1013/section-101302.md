@@ -3,9 +3,9 @@ title: "Section 101302 - Authority of Secretary to carry out certain activities"
 usc_title: 54
 usc_section: "101302"
 chapter: 1013
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "54 U.S.C. § 101302"
-generated_at: "2026-03-30T08:03:06.932Z"
+generated_at: "2026-03-30T08:06:17.127Z"
 status: "active"
 ---
 

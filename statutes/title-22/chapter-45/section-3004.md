@@ -3,9 +3,9 @@ title: "Section 3004 - Testimony of witnesses, production of evidence; issuance 
 usc_title: 22
 usc_section: "3004"
 chapter: 45
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "22 U.S.C. § 3004"
-generated_at: "2026-03-30T08:01:48.721Z"
+generated_at: "2026-03-30T08:04:07.185Z"
 status: "active"
 ---
 

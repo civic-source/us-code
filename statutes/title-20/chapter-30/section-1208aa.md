@@ -3,9 +3,9 @@ title: "Section 1208aa - Repealed. Pub. L. 105–220, title II, § 251(a)(1) , A
 usc_title: 20
 usc_section: "1208aa"
 chapter: 30
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "20 U.S.C. § 1208aa"
-generated_at: "2026-03-30T08:01:39.439Z"
+generated_at: "2026-03-30T08:03:44.128Z"
 status: "repealed"
 ---
 

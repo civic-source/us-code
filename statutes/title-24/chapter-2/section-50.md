@@ -3,9 +3,9 @@ title: "Section 50 - Repealed. Pub. L. 101–510, div. A, title XV , § 1532(b)(
 usc_title: 24
 usc_section: "50"
 chapter: 2
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "24 U.S.C. § 50"
-generated_at: "2026-03-30T08:01:44.566Z"
+generated_at: "2026-03-30T08:03:54.408Z"
 status: "repealed"
 ---
 

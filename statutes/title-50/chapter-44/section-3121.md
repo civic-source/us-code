@@ -3,9 +3,9 @@ title: "Section 3121 - Protection of identities of certain United States underco
 usc_title: 50
 usc_section: "3121"
 chapter: 44
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "50 U.S.C. § 3121"
-generated_at: "2026-03-30T08:02:50.948Z"
+generated_at: "2026-03-30T08:05:54.840Z"
 status: "active"
 ---
 

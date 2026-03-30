@@ -3,9 +3,9 @@ title: "Section 154708 - Restrictions"
 usc_title: 36
 usc_section: "154708"
 chapter: 1547
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "36 U.S.C. § 154708"
-generated_at: "2026-03-30T08:02:27.045Z"
+generated_at: "2026-03-30T08:05:02.103Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4639 - Public disclosure of final orders and agreements"
 usc_title: 12
 usc_section: "4639"
 chapter: 46
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "12 U.S.C. § 4639"
-generated_at: "2026-03-30T08:01:28.455Z"
+generated_at: "2026-03-30T08:03:36.277Z"
 status: "active"
 ---
 

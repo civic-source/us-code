@@ -3,9 +3,9 @@ title: "Section 352 - Authority to carry out certain transferred duties and powe
 usc_title: 49
 usc_section: "352"
 chapter: 3
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "49 U.S.C. § 352"
-generated_at: "2026-03-30T08:02:53.473Z"
+generated_at: "2026-03-30T08:06:03.145Z"
 status: "active"
 ---
 

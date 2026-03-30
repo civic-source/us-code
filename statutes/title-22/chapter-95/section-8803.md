@@ -3,9 +3,9 @@ title: "Section 8803 - Imposition of sanctions with respect to the energy, shipp
 usc_title: 22
 usc_section: "8803"
 chapter: 95
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "22 U.S.C. § 8803"
-generated_at: "2026-03-30T08:01:48.783Z"
+generated_at: "2026-03-30T08:04:07.243Z"
 status: "active"
 ---
 

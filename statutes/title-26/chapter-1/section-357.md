@@ -3,9 +3,9 @@ title: "Section 357 - Assumption of liability"
 usc_title: 26
 usc_section: "357"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "26 U.S.C. § 357"
-generated_at: "2026-03-30T08:02:17.915Z"
+generated_at: "2026-03-30T08:04:18.621Z"
 status: "active"
 ---
 

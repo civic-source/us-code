@@ -3,9 +3,9 @@ title: "Section 3313 - Use of energy efficient lighting fixtures and bulbs"
 usc_title: 40
 usc_section: "3313"
 chapter: 33
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "40 U.S.C. § 3313"
-generated_at: "2026-03-30T08:02:29.278Z"
+generated_at: "2026-03-30T08:04:58.401Z"
 status: "active"
 ---
 

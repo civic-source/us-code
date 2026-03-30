@@ -3,9 +3,9 @@ title: "Section 6956 - Authorization of appropriations"
 usc_title: 42
 usc_section: "6956"
 chapter: 82
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 6956"
-generated_at: "2026-03-30T08:02:46.253Z"
+generated_at: "2026-03-30T08:05:50.505Z"
 status: "active"
 ---
 

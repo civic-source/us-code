@@ -3,9 +3,9 @@ title: "Section 1853 - Trees cut or injured"
 usc_title: 18
 usc_section: "1853"
 chapter: 91
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "18 U.S.C. § 1853"
-generated_at: "2026-03-30T08:01:37.396Z"
+generated_at: "2026-03-30T08:03:42.193Z"
 status: "active"
 ---
 

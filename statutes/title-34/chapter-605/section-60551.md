@@ -3,9 +3,9 @@ title: "Section 60551 - Offender reentry research"
 usc_title: 34
 usc_section: "60551"
 chapter: 605
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "34 U.S.C. § 60551"
-generated_at: "2026-03-30T08:02:21.607Z"
+generated_at: "2026-03-30T08:04:43.705Z"
 status: "active"
 ---
 

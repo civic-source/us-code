@@ -3,9 +3,9 @@ title: "Section 2911 - Energy policy of the Department of Defense"
 usc_title: 10
 usc_section: "2911"
 chapter: 173
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "10 U.S.C. § 2911"
-generated_at: "2026-03-30T08:01:13.317Z"
+generated_at: "2026-03-30T08:03:31.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 669a - Definitions"
 usc_title: 16
 usc_section: "669a"
 chapter: 5
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 669a"
-generated_at: "2026-03-30T08:01:42.319Z"
+generated_at: "2026-03-30T08:03:52.398Z"
 status: "active"
 ---
 

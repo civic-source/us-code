@@ -3,9 +3,9 @@ title: "Section 462 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "462"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 462"
-generated_at: "2026-03-30T08:01:42.285Z"
+generated_at: "2026-03-30T08:03:52.371Z"
 status: "repealed"
 ---
 

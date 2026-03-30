@@ -1,13 +1,13 @@
 ---
-title: "Section 424 - Repealed. Pub. L. 85–840, title II , § 206, Aug. 28, 1958 , 72 Stat. 1025"
+title: "Section 424 - Repealed. Pub. L. 85–840, title II, § 206 , Aug. 28, 1958 , 72 Stat. 1025"
 usc_title: 42
 usc_section: "424"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 424"
-generated_at: "2026-03-30T08:02:45.927Z"
+generated_at: "2026-03-30T08:05:50.175Z"
 status: "repealed"
 ---
 
-# § 424. Repealed. Pub. L. 85–840, title II , § 206, Aug. 28, 1958 , 72 Stat. 1025
+# § 424. Repealed. Pub. L. 85–840, title II, § 206 , Aug. 28, 1958 , 72 Stat. 1025
 

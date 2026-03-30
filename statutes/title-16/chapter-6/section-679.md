@@ -3,9 +3,9 @@ title: "Section 679 - Patents to State of South Dakota of certain lands in Custe
 usc_title: 16
 usc_section: "679"
 chapter: 6
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 679"
-generated_at: "2026-03-30T08:01:42.322Z"
+generated_at: "2026-03-30T08:03:52.401Z"
 status: "active"
 ---
 

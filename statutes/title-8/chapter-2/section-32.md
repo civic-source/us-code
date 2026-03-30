@@ -3,9 +3,9 @@ title: "Section 32 - Transferred"
 usc_title: 8
 usc_section: "32"
 chapter: 2
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "8 U.S.C. § 32"
-generated_at: "2026-03-30T08:00:57.791Z"
+generated_at: "2026-03-30T08:03:24.433Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7487 - United States Army War College: acceptance of grants for 
 usc_title: 10
 usc_section: "7487"
 chapter: 757
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "10 U.S.C. § 7487"
-generated_at: "2026-03-30T08:01:13.325Z"
+generated_at: "2026-03-30T08:03:31.171Z"
 status: "active"
 ---
 

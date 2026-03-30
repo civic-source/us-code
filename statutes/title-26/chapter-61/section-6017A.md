@@ -3,9 +3,9 @@ title: "Section 6017A - Repealed. Pub. L. 101–239, title VII , § 7711(b)(1), 
 usc_title: 26
 usc_section: "6017A"
 chapter: 61
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "26 U.S.C. § 6017A"
-generated_at: "2026-03-30T08:02:18.048Z"
+generated_at: "2026-03-30T08:04:18.751Z"
 status: "repealed"
 ---
 

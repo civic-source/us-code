@@ -3,9 +3,9 @@ title: "Section 134 - Repealed. July 5, 1946, ch. 540 , § 46(a), 60 Stat. 444"
 usc_title: 15
 usc_section: "134"
 chapter: 3
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 134"
-generated_at: "2026-03-30T08:01:31.554Z"
+generated_at: "2026-03-30T08:03:38.194Z"
 status: "repealed"
 ---
 

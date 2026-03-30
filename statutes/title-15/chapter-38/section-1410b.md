@@ -3,9 +3,9 @@ title: "Section 1410b - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 10
 usc_title: 15
 usc_section: "1410b"
 chapter: 38
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 1410b"
-generated_at: "2026-03-30T08:01:31.611Z"
+generated_at: "2026-03-30T08:03:38.246Z"
 status: "repealed"
 ---
 

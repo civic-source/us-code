@@ -3,9 +3,9 @@ title: "Section 89 - Repealed. Pub. L. 103–325, title VI , § 602(e)(2)–(4),
 usc_title: 12
 usc_section: "89"
 chapter: 2
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "12 U.S.C. § 89"
-generated_at: "2026-03-30T08:01:28.317Z"
+generated_at: "2026-03-30T08:03:36.150Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5113 - Information and services"
 usc_title: 42
 usc_section: "5113"
 chapter: 67
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 5113"
-generated_at: "2026-03-30T08:02:46.205Z"
+generated_at: "2026-03-30T08:05:50.456Z"
 status: "active"
 ---
 

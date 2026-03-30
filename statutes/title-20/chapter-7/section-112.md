@@ -3,9 +3,9 @@ title: "Section 112 - Enforcement of section 111"
 usc_title: 20
 usc_section: "112"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "20 U.S.C. § 112"
-generated_at: "2026-03-30T08:01:39.364Z"
+generated_at: "2026-03-30T08:03:44.070Z"
 status: "active"
 ---
 

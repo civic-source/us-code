@@ -3,9 +3,9 @@ title: "Section 403a - Housing treatment for certain members of the armed forces
 usc_title: 37
 usc_section: "403a"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "37 U.S.C. § 403a"
-generated_at: "2026-03-30T08:02:29.597Z"
+generated_at: "2026-03-30T08:04:58.733Z"
 status: "active"
 ---
 

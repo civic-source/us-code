@@ -3,9 +3,9 @@ title: "Section 25g - Awareness campaigns"
 usc_title: 42
 usc_section: "25g"
 chapter: 6
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 25g"
-generated_at: "2026-03-30T08:02:45.844Z"
+generated_at: "2026-03-30T08:05:50.089Z"
 status: "active"
 ---
 

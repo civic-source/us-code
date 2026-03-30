@@ -3,9 +3,9 @@ title: "Section 1556 - Comptroller General: reports on appropriation accounts"
 usc_title: 31
 usc_section: "1556"
 chapter: 15
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "31 U.S.C. § 1556"
-generated_at: "2026-03-30T08:02:20.932Z"
+generated_at: "2026-03-30T08:04:53.033Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2231 - Assault or resistance"
 usc_title: 18
 usc_section: "2231"
 chapter: 109
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "18 U.S.C. § 2231"
-generated_at: "2026-03-30T08:01:37.399Z"
+generated_at: "2026-03-30T08:03:42.196Z"
 status: "active"
 ---
 

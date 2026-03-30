@@ -3,9 +3,9 @@ title: "Section 2514 - Forfeiture of fraudulent claims"
 usc_title: 28
 usc_section: "2514"
 chapter: 165
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "28 U.S.C. § 2514"
-generated_at: "2026-03-30T08:02:00.363Z"
+generated_at: "2026-03-30T08:04:35.322Z"
 status: "active"
 ---
 

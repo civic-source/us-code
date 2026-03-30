@@ -3,9 +3,9 @@ title: "Section 638 - House committee action on all appropriation bills to be co
 usc_title: 2
 usc_section: "638"
 chapter: 17
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "2 U.S.C. § 638"
-generated_at: "2026-03-30T08:00:45.721Z"
+generated_at: "2026-03-30T08:03:18.606Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T08:02:45.987Z"
+generated_at: "2026-03-30T08:05:50.235Z"
 status: "active"
 ---
 
@@ -594,7 +594,7 @@ status: "active"
         - **(IV)** Other information determined appropriate by the Commission.
     - **(G)** The Secretary shall post information on the results of the data collection under this paragraph on the Internet website of the Centers for Medicare & Medicaid Services, as determined appropriate by the Secretary.
     - **(H)** The Secretary shall implement this paragraph through notice and comment rulemaking.
-        - **(I)** Chapter 35 of title 44 shall not apply to the collection of information required under this subsection.
+    - **(I)** Chapter 35 of title 44 shall not apply to the collection of information required under this subsection.
     - **(J)** There shall be no administrative or judicial review under section 1395ff of this title , section 1395 oo of this title, or otherwise of the data collection system or identification of respondents under this paragraph.
     - **(K)** For purposes of carrying out subparagraph (A), the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title , of $15,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for fiscal year 2018. Amounts transferred under this subparagraph shall remain available until expended.
 - **(m)**

@@ -3,9 +3,9 @@ title: "Section 8766 - Loan or gift of articles to ships’ sponsors and donors"
 usc_title: 10
 usc_section: "8766"
 chapter: 875
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "10 U.S.C. § 8766"
-generated_at: "2026-03-30T08:01:13.343Z"
+generated_at: "2026-03-30T08:03:31.182Z"
 status: "active"
 ---
 

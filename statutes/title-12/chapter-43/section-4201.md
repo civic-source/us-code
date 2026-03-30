@@ -3,9 +3,9 @@ title: "Section 4201 - Filing of confidential declarations by private persons"
 usc_title: 12
 usc_section: "4201"
 chapter: 43
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "12 U.S.C. § 4201"
-generated_at: "2026-03-30T08:01:28.442Z"
+generated_at: "2026-03-30T08:03:36.267Z"
 status: "active"
 ---
 

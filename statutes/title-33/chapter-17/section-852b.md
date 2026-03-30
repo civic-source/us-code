@@ -3,9 +3,9 @@ title: "Section 852b - Omitted"
 usc_title: 33
 usc_section: "852b"
 chapter: 17
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "33 U.S.C. § 852b"
-generated_at: "2026-03-30T08:02:24.217Z"
+generated_at: "2026-03-30T08:04:51.665Z"
 status: "omitted"
 ---
 

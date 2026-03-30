@@ -3,9 +3,9 @@ title: "Section 20983 - Report on human factor research"
 usc_title: 52
 usc_section: "20983"
 chapter: 209
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "52 U.S.C. § 20983"
-generated_at: "2026-03-30T08:02:59.045Z"
+generated_at: "2026-03-30T08:06:20.746Z"
 status: "active"
 ---
 

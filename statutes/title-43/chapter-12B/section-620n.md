@@ -3,9 +3,9 @@ title: "Section 620n - Water quality study and reports"
 usc_title: 43
 usc_section: "620n"
 chapter: 12
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "43 U.S.C. § 620n"
-generated_at: "2026-03-30T08:02:32.175Z"
+generated_at: "2026-03-30T08:05:32.672Z"
 status: "active"
 ---
 

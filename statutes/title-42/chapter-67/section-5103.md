@@ -1,13 +1,13 @@
 ---
-title: "Section 5103 - Repealed. Pub. L. 104–235, title I , § 103, Oct. 3, 1996 , 110 Stat. 3066"
+title: "Section 5103 - Repealed. Pub. L. 104–235, title I, § 103 , Oct. 3, 1996 , 110 Stat. 3066"
 usc_title: 42
 usc_section: "5103"
 chapter: 67
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 5103"
-generated_at: "2026-03-30T08:02:46.203Z"
+generated_at: "2026-03-30T08:05:50.453Z"
 status: "repealed"
 ---
 
-# § 5103. Repealed. Pub. L. 104–235, title I , § 103, Oct. 3, 1996 , 110 Stat. 3066
+# § 5103. Repealed. Pub. L. 104–235, title I, § 103 , Oct. 3, 1996 , 110 Stat. 3066
 

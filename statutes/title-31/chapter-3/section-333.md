@@ -3,9 +3,9 @@ title: "Section 333 - Prohibition of misuse of Department of the Treasury names,
 usc_title: 31
 usc_section: "333"
 chapter: 3
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "31 U.S.C. § 333"
-generated_at: "2026-03-30T08:02:20.924Z"
+generated_at: "2026-03-30T08:04:53.025Z"
 status: "active"
 ---
 

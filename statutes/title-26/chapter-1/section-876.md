@@ -3,9 +3,9 @@ title: "Section 876 - Alien residents of Puerto Rico, Guam, American Samoa, or t
 usc_title: 26
 usc_section: "876"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "26 U.S.C. § 876"
-generated_at: "2026-03-30T08:02:17.973Z"
+generated_at: "2026-03-30T08:04:18.679Z"
 status: "active"
 ---
 

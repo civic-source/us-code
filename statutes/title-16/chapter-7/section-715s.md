@@ -3,9 +3,9 @@ title: "Section 715s - Participation of local governments in revenue from areas 
 usc_title: 16
 usc_section: "715s"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 715s"
-generated_at: "2026-03-30T08:01:42.328Z"
+generated_at: "2026-03-30T08:03:52.406Z"
 status: "active"
 ---
 

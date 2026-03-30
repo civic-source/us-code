@@ -3,9 +3,9 @@ title: "Section 579c - Availability of funds received from forfeitures, judgment
 usc_title: 16
 usc_section: "579c"
 chapter: 3
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 579c"
-generated_at: "2026-03-30T08:01:42.308Z"
+generated_at: "2026-03-30T08:03:52.390Z"
 status: "active"
 ---
 

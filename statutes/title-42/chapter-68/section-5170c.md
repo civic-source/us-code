@@ -3,15 +3,15 @@ title: "Section 5170c - Hazard mitigation"
 usc_title: 42
 usc_section: "5170c"
 chapter: 68
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 5170c"
-generated_at: "2026-03-30T08:02:46.209Z"
+generated_at: "2026-03-30T08:05:50.459Z"
 status: "active"
 ---
 
 # § 5170c. Hazard mitigation
 
-- **(a)** The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title , the total of contributions under this section for a major disaster or event under section 5187 of this title shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under section 5187 of this title .
+- **(a)** The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster, or any area affected by a fire for which assistance was provided under section 5187 of this title . Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title , the total of contributions under this section for a major disaster or event under section 5187 of this title shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under section 5187 of this title .
 - **(b)**
   - **(1)** In providing hazard mitigation assistance under this section in connection with flooding, the Administrator of the Federal Emergency Management Agency may provide property acquisition and relocation assistance for projects that meet the requirements of paragraph (2).
   - **(2)** An acquisition or relocation project shall be eligible to receive assistance pursuant to paragraph (1) only if—

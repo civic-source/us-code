@@ -1,13 +1,13 @@
 ---
-title: "Section 3074 - Repealed. Pub. L. 91–646, title II , § 220(a)(8), title III, § 306, Jan. 2, 1971 , 84 Stat. 1903 , 1907"
+title: "Section 3074 - Repealed. Pub. L. 91–646, title II, § 220(a)(8) , title III, § 306, Jan. 2, 1971 , 84 Stat. 1903 , 1907"
 usc_title: 42
 usc_section: "3074"
 chapter: 36
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 3074"
-generated_at: "2026-03-30T08:02:46.177Z"
+generated_at: "2026-03-30T08:05:50.423Z"
 status: "repealed"
 ---
 
-# §§ 3071 to 3074. Repealed. Pub. L. 91–646, title II , § 220(a)(8), title III, § 306, Jan. 2, 1971 , 84 Stat. 1903 , 1907
+# §§ 3071 to 3074. Repealed. Pub. L. 91–646, title II, § 220(a)(8) , title III, § 306, Jan. 2, 1971 , 84 Stat. 1903 , 1907
 

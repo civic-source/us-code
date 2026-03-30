@@ -3,9 +3,9 @@ title: "Section 1902 - Purpose"
 usc_title: 21
 usc_section: "1902"
 chapter: 24
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "21 U.S.C. § 1902"
-generated_at: "2026-03-30T08:01:50.491Z"
+generated_at: "2026-03-30T08:03:57.086Z"
 status: "active"
 ---
 

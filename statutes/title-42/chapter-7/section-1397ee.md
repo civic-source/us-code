@@ -3,9 +3,9 @@ title: "Section 1397ee - Payments to States"
 usc_title: 42
 usc_section: "1397ee"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 1397ee"
-generated_at: "2026-03-30T08:02:46.083Z"
+generated_at: "2026-03-30T08:05:50.332Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title , an amount for each quarter equal to the enhanced FMAP (or, in the case of expenditures described in subparagraph (D)(iv), the higher of 75 percent or the sum of the enhanced FMAP plus 5 percentage points) of expenditures in the quarter—
     - **(A)** for child health assistance under the plan for targeted low-income children in the form of providing medical assistance for which payment is made on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title ;
-    - **(B)** [reserved]
+    - **(B)**
     - **(C)** for child health assistance under the plan for targeted low-income children in the form of providing health benefits coverage that meets the requirements of section 1397cc of this title ; and
     - **(D)** only to the extent permitted consistent with subsection (c)—
       - **(i)** for payment for other child health assistance for targeted low-income children;

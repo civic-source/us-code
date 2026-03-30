@@ -3,9 +3,9 @@ title: "Section 4711 - Repealed. Pub. L. 115–282, title IX , § 903(a)(2)(A)(i
 usc_title: 16
 usc_section: "4711"
 chapter: 67
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 4711"
-generated_at: "2026-03-30T08:01:42.447Z"
+generated_at: "2026-03-30T08:03:52.500Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1316 - Fish and Wildlife Service: report of the Director"
 usc_title: 44
 usc_section: "1316"
 chapter: 13
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "44 U.S.C. § 1316"
-generated_at: "2026-03-30T08:02:31.395Z"
+generated_at: "2026-03-30T08:05:24.741Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7355 - Annual average daily attendance determination"
 usc_title: 20
 usc_section: "7355"
 chapter: 70
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "20 U.S.C. § 7355"
-generated_at: "2026-03-30T08:01:39.503Z"
+generated_at: "2026-03-30T08:03:44.179Z"
 status: "active"
 ---
 

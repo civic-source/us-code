@@ -3,9 +3,9 @@ title: "Section 146 - General powers of corporation"
 usc_title: 15
 usc_section: "146"
 chapter: 4
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 146"
-generated_at: "2026-03-30T08:01:31.554Z"
+generated_at: "2026-03-30T08:03:38.194Z"
 status: "active"
 ---
 

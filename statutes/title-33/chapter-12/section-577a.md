@@ -3,9 +3,9 @@ title: "Section 577a - Small-boat navigation projects; charter fishing craft"
 usc_title: 33
 usc_section: "577a"
 chapter: 12
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "33 U.S.C. § 577a"
-generated_at: "2026-03-30T08:02:24.208Z"
+generated_at: "2026-03-30T08:04:51.657Z"
 status: "active"
 ---
 

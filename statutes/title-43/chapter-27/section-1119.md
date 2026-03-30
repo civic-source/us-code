@@ -3,9 +3,9 @@ title: "Section 1119 - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 2
 usc_title: 43
 usc_section: "1119"
 chapter: 27
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "43 U.S.C. § 1119"
-generated_at: "2026-03-30T08:02:32.182Z"
+generated_at: "2026-03-30T08:05:32.679Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 481a - Travel and transportation allowances: travel performed in
 usc_title: 37
 usc_section: "481a"
 chapter: 8
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "37 U.S.C. § 481a"
-generated_at: "2026-03-30T08:02:29.600Z"
+generated_at: "2026-03-30T08:04:58.737Z"
 status: "active"
 ---
 

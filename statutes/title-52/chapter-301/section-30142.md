@@ -3,9 +3,9 @@ title: "Section 30142 - Prohibition against use of certain Federal funds for ele
 usc_title: 52
 usc_section: "30142"
 chapter: 301
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "52 U.S.C. § 30142"
-generated_at: "2026-03-30T08:02:59.052Z"
+generated_at: "2026-03-30T08:06:20.752Z"
 status: "active"
 ---
 

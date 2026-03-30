@@ -3,9 +3,9 @@ title: "Section 1449 - State court record supplied"
 usc_title: 28
 usc_section: "1449"
 chapter: 89
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "28 U.S.C. § 1449"
-generated_at: "2026-03-30T08:02:00.354Z"
+generated_at: "2026-03-30T08:04:35.314Z"
 status: "active"
 ---
 

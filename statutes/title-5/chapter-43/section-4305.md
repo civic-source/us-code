@@ -3,9 +3,9 @@ title: "Section 4305 - Regulations"
 usc_title: 5
 usc_section: "4305"
 chapter: 43
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "5 U.S.C. § 4305"
-generated_at: "2026-03-30T08:00:52.890Z"
+generated_at: "2026-03-30T08:03:20.924Z"
 status: "active"
 ---
 

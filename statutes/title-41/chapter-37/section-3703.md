@@ -3,9 +3,9 @@ title: "Section 3703 - Competitive proposals"
 usc_title: 41
 usc_section: "3703"
 chapter: 37
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "41 U.S.C. § 3703"
-generated_at: "2026-03-30T08:02:32.450Z"
+generated_at: "2026-03-30T08:05:18.754Z"
 status: "active"
 ---
 

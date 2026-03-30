@@ -3,9 +3,9 @@ title: "Section 102 - Subject matter of copyright: In general"
 usc_title: 17
 usc_section: "102"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "17 U.S.C. § 102"
-generated_at: "2026-03-30T08:01:34.394Z"
+generated_at: "2026-03-30T08:03:40.987Z"
 status: "active"
 ---
 

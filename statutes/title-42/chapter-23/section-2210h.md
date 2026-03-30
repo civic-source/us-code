@@ -3,9 +3,9 @@ title: "Section 2210h - Radiation source protection"
 usc_title: 42
 usc_section: "2210h"
 chapter: 23
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 2210h"
-generated_at: "2026-03-30T08:02:46.154Z"
+generated_at: "2026-03-30T08:05:50.401Z"
 status: "active"
 ---
 

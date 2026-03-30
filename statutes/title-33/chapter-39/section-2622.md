@@ -3,9 +3,9 @@ title: "Section 2622 - Relation to other laws"
 usc_title: 33
 usc_section: "2622"
 chapter: 39
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "33 U.S.C. § 2622"
-generated_at: "2026-03-30T08:02:24.264Z"
+generated_at: "2026-03-30T08:04:51.728Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30906 - Venue"
 usc_title: 46
 usc_section: "30906"
 chapter: 309
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "46 U.S.C. § 30906"
-generated_at: "2026-03-30T08:02:55.893Z"
+generated_at: "2026-03-30T08:06:14.929Z"
 status: "active"
 ---
 

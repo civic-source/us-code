@@ -3,9 +3,9 @@ title: "Section 55117 - Great Lakes rail route"
 usc_title: 46
 usc_section: "55117"
 chapter: 551
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "46 U.S.C. § 55117"
-generated_at: "2026-03-30T08:02:55.905Z"
+generated_at: "2026-03-30T08:06:14.940Z"
 status: "active"
 ---
 

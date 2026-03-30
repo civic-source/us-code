@@ -1,13 +1,13 @@
 ---
-title: "Section 7138 - Repealed. Pub. L. 100–504, title I , § 102(e)(1)(A), Oct. 18, 1988 , 102 Stat. 2517"
+title: "Section 7138 - Repealed. Pub. L. 100–504, title I, § 102(e)(1)(A) , Oct. 18, 1988 , 102 Stat. 2517"
 usc_title: 42
 usc_section: "7138"
 chapter: 84
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 7138"
-generated_at: "2026-03-30T08:02:46.258Z"
+generated_at: "2026-03-30T08:05:50.511Z"
 status: "repealed"
 ---
 
-# § 7138. Repealed. Pub. L. 100–504, title I , § 102(e)(1)(A), Oct. 18, 1988 , 102 Stat. 2517
+# § 7138. Repealed. Pub. L. 100–504, title I, § 102(e)(1)(A) , Oct. 18, 1988 , 102 Stat. 2517
 

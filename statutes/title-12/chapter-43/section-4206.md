@@ -3,9 +3,9 @@ title: "Section 4206 - Rights of declarants; notifications; Government accountab
 usc_title: 12
 usc_section: "4206"
 chapter: 43
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "12 U.S.C. § 4206"
-generated_at: "2026-03-30T08:01:28.443Z"
+generated_at: "2026-03-30T08:03:36.267Z"
 status: "active"
 ---
 

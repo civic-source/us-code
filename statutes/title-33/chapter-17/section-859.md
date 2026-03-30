@@ -3,9 +3,9 @@ title: "Section 859 - Repealed. June 16, 1942, ch. 413 , § 19, 56 Stat. 369 , e
 usc_title: 33
 usc_section: "859"
 chapter: 17
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "33 U.S.C. § 859"
-generated_at: "2026-03-30T08:02:24.217Z"
+generated_at: "2026-03-30T08:04:51.665Z"
 status: "repealed"
 ---
 

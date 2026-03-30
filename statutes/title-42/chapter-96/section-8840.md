@@ -3,9 +3,9 @@ title: "Section 8840 - Termination of authorities"
 usc_title: 42
 usc_section: "8840"
 chapter: 96
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 8840"
-generated_at: "2026-03-30T08:02:46.312Z"
+generated_at: "2026-03-30T08:05:50.564Z"
 status: "active"
 ---
 

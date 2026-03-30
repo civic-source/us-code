@@ -3,9 +3,9 @@ title: "Section 1957 - Federal programs coordination personnel"
 usc_title: 48
 usc_section: "1957"
 chapter: 18
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "48 U.S.C. § 1957"
-generated_at: "2026-03-30T08:02:51.699Z"
+generated_at: "2026-03-30T08:05:57.223Z"
 status: "active"
 ---
 

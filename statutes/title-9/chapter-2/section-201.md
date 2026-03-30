@@ -3,9 +3,9 @@ title: "Section 201 - Enforcement of Convention"
 usc_title: 9
 usc_section: "201"
 chapter: 2
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "9 U.S.C. § 201"
-generated_at: "2026-03-30T08:00:54.553Z"
+generated_at: "2026-03-30T08:03:22.357Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7881 - Participation by private school children and teachers"
 usc_title: 20
 usc_section: "7881"
 chapter: 70
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "20 U.S.C. § 7881"
-generated_at: "2026-03-30T08:01:39.512Z"
+generated_at: "2026-03-30T08:03:44.187Z"
 status: "active"
 ---
 

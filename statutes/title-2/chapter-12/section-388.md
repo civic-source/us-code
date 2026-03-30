@@ -3,9 +3,9 @@ title: "Section 388 - Subpena for attendance at deposition"
 usc_title: 2
 usc_section: "388"
 chapter: 12
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "2 U.S.C. § 388"
-generated_at: "2026-03-30T08:00:45.717Z"
+generated_at: "2026-03-30T08:03:18.603Z"
 status: "active"
 ---
 

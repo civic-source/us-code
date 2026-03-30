@@ -3,9 +3,9 @@ title: "Section 365 - Right of priority; benefit of the filing date of a prior a
 usc_title: 35
 usc_section: "365"
 chapter: 36
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "35 U.S.C. § 365"
-generated_at: "2026-03-30T08:02:19.991Z"
+generated_at: "2026-03-30T08:04:38.645Z"
 status: "active"
 ---
 

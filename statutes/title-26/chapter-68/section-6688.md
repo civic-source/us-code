@@ -3,9 +3,9 @@ title: "Section 6688 - Assessable penalties with respect to information required
 usc_title: 26
 usc_section: "6688"
 chapter: 68
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "26 U.S.C. § 6688"
-generated_at: "2026-03-30T08:02:18.075Z"
+generated_at: "2026-03-30T08:04:18.777Z"
 status: "active"
 ---
 

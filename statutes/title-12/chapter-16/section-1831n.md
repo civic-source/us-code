@@ -3,9 +3,9 @@ title: "Section 1831n - Accounting objectives, standards, and requirements"
 usc_title: 12
 usc_section: "1831n"
 chapter: 16
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "12 U.S.C. § 1831n"
-generated_at: "2026-03-30T08:01:28.400Z"
+generated_at: "2026-03-30T08:03:36.228Z"
 status: "active"
 ---
 

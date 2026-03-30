@@ -3,9 +3,9 @@ title: "Section 231h - Returns of compensation; conclusiveness"
 usc_title: 45
 usc_section: "231h"
 chapter: 9
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "45 U.S.C. § 231h"
-generated_at: "2026-03-30T08:02:31.605Z"
+generated_at: "2026-03-30T08:05:31.693Z"
 status: "active"
 ---
 

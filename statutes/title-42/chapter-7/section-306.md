@@ -3,9 +3,9 @@ title: "Section 306 - Definitions"
 usc_title: 42
 usc_section: "306"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 306"
-generated_at: "2026-03-30T08:02:45.915Z"
+generated_at: "2026-03-30T08:05:50.161Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
   - **(3)** undertaking and continuing special efforts to protect the welfare of such individual and to improve, to the extent possible, his capacity for self-care and to manage funds;
   - **(4)** periodic review by such State agency of the determination under paragraph (1) of this subsection to ascertain whether conditions justifying such determination still exist, with provision for termination of such payments if they do not and for seeking judicial appointment of a guardian or other legal representative, as described in section 1311 of this title , if and when it appears that such action will best serve the interests of such needy individual; and
   - **(5)** opportunity for a fair hearing before the State agency on the determination referred to in paragraph (1) of this subsection for any individual with respect to whom it is made.
-- **(b)** , (c) Repealed. Pub. L. 97–35, title XXI , § 2184(a)(5), Aug. 13, 1981 , 95 Stat. 817 .
+- **(b)** , (c) Repealed. Pub. L. 97–35, title XXI, § 2184(a)(5) , Aug. 13, 1981 , 95 Stat. 817 .

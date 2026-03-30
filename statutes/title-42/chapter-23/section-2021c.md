@@ -3,9 +3,9 @@ title: "Section 2021c - Responsibilities for disposal of low-level radioactive w
 usc_title: 42
 usc_section: "2021c"
 chapter: 23
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 2021c"
-generated_at: "2026-03-30T08:02:46.145Z"
+generated_at: "2026-03-30T08:05:50.392Z"
 status: "active"
 ---
 

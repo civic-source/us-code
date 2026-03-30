@@ -3,9 +3,9 @@ title: "Section 21105 - Governing body"
 usc_title: 36
 usc_section: "21105"
 chapter: 211
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "36 U.S.C. § 21105"
-generated_at: "2026-03-30T08:02:27.032Z"
+generated_at: "2026-03-30T08:05:02.092Z"
 status: "active"
 ---
 

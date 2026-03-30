@@ -3,9 +3,9 @@ title: "Section 753 - Rescue to prevent execution"
 usc_title: 18
 usc_section: "753"
 chapter: 35
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "18 U.S.C. § 753"
-generated_at: "2026-03-30T08:01:37.377Z"
+generated_at: "2026-03-30T08:03:42.174Z"
 status: "active"
 ---
 

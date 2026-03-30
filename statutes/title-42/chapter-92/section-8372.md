@@ -1,13 +1,13 @@
 ---
-title: "Section 8372 - Repealed. Pub. L. 100–42 , § 1(a)(3), (4), May 21, 1987 , 101 Stat. 310"
+title: "Section 8372 - Repealed. Pub. L. 100–42, § 1(a)(3) , (4), May 21, 1987 , 101 Stat. 310"
 usc_title: 42
 usc_section: "8372"
 chapter: 92
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 8372"
-generated_at: "2026-03-30T08:02:46.306Z"
+generated_at: "2026-03-30T08:05:50.558Z"
 status: "repealed"
 ---
 
-# §§ 8371, 8372. Repealed. Pub. L. 100–42 , § 1(a)(3), (4), May 21, 1987 , 101 Stat. 310
+# §§ 8371, 8372. Repealed. Pub. L. 100–42, § 1(a)(3) , (4), May 21, 1987 , 101 Stat. 310
 

@@ -3,9 +3,9 @@ title: "Section 4028 - Report to Congress"
 usc_title: 25
 usc_section: "4028"
 chapter: 42
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "25 U.S.C. § 4028"
-generated_at: "2026-03-30T08:01:55.642Z"
+generated_at: "2026-03-30T08:04:00.390Z"
 status: "active"
 ---
 

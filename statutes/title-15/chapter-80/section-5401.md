@@ -3,9 +3,9 @@ title: "Section 5401 - Findings"
 usc_title: 15
 usc_section: "5401"
 chapter: 80
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 5401"
-generated_at: "2026-03-30T08:01:31.682Z"
+generated_at: "2026-03-30T08:03:38.306Z"
 status: "active"
 ---
 

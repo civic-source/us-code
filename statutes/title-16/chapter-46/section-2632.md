@@ -3,9 +3,9 @@ title: "Section 2632 - Consumer representation"
 usc_title: 16
 usc_section: "2632"
 chapter: 46
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "16 U.S.C. § 2632"
-generated_at: "2026-03-30T08:01:42.415Z"
+generated_at: "2026-03-30T08:03:52.475Z"
 status: "active"
 ---
 

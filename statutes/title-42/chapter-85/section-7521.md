@@ -3,9 +3,9 @@ title: "Section 7521 - Emission standards for new motor vehicles or new motor ve
 usc_title: 42
 usc_section: "7521"
 chapter: 85
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 7521"
-generated_at: "2026-03-30T08:02:46.280Z"
+generated_at: "2026-03-30T08:05:50.532Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
     - **(A)**
       - **(i)** The term “model year” with reference to any specific calendar year means the manufacturer’s annual production period (as determined by the Administrator) which includes January 1 of such calendar year. If the manufacturer has no annual production period, the term “model year” shall mean the calendar year.
       - **(ii)** For the purpose of assuring that vehicles and engines manufactured before the beginning of a model year were not manufactured for purposes of circumventing the effective date of a standard required to be prescribed by subsection (b), the Administrator may prescribe regulations defining “model year” otherwise than as provided in clause (i).
-    - **(B)** Repealed. Pub. L. 101–549, title II , § 230(1), Nov. 15, 1990 , 104 Stat. 2529 .
+    - **(B)** Repealed. Pub. L. 101–549, title II, § 230(1) , Nov. 15, 1990 , 104 Stat. 2529 .
     - **(C)** The term “heavy duty vehicle” means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, and highways (not including any vehicle operated exclusively on a rail or rails) which has a gross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
   - **(3)** 2 2 So in original. Probably should be “(4)”. Upon the petition of any manufacturer, the Administrator, after notice and opportunity for public hearing, may waive the standard required under subparagraph (B) of paragraph (1) to not exceed 1.5 grams of oxides of nitrogen per vehicle mile for any class or category of light-duty vehicles or engines manufactured by such manufacturer during any period of up to four model years beginning after the model year 1980 if the manufacturer demonstrates that such waiver is necessary to permit the use of an innovative power train technology, or innovative emission control device or system, in such class or category of vehicles or engines and that such technology or system was not utilized by more than 1 percent of the light-duty vehicles sold in the United States in the 1975 model year. Such waiver may be granted only if the Administrator determines—
     - **(A)** that such waiver would not endanger public health,

@@ -3,9 +3,9 @@ title: "Section 477 - Possessing or selling impressions of tools used for obliga
 usc_title: 18
 usc_section: "477"
 chapter: 25
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "18 U.S.C. § 477"
-generated_at: "2026-03-30T08:01:37.373Z"
+generated_at: "2026-03-30T08:03:42.169Z"
 status: "active"
 ---
 

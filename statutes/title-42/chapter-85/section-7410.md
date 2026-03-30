@@ -3,9 +3,9 @@ title: "Section 7410 - State implementation plans for national primary and secon
 usc_title: 42
 usc_section: "7410"
 chapter: 85
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 7410"
-generated_at: "2026-03-30T08:02:46.268Z"
+generated_at: "2026-03-30T08:05:50.520Z"
 status: "active"
 ---
 
@@ -43,10 +43,10 @@ status: "active"
       - **(ii)** if the owner or operator receives a permit for such source, the reasonable costs of implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
     - **(M)** provide for consultation and participation by local political subdivisions affected by the plan.
   - **(3)**
-    - **(A)** Repealed. Pub. L. 101–549, title I , § 101(d)(1), Nov. 15, 1990 , 104 Stat. 2409 .
+    - **(A)** Repealed. Pub. L. 101–549, title I, § 101(d)(1) , Nov. 15, 1990 , 104 Stat. 2409 .
     - **(B)** As soon as practicable, the Administrator shall, consistent with the purposes of this chapter and the Energy Supply and Environmental Coordination Act of 1974 [ 15 U.S.C. 791 et seq.], review each State’s applicable implementation plans and report to the State on whether such plans can be revised in relation to fuel burning stationary sources (or persons supplying fuel to such sources) without interfering with the attainment and maintenance of any national ambient air quality standard within the period permitted in this section. If the Administrator determines that any such plan can be revised, he shall notify the State that a plan revision may be submitted by the State. Any plan revision which is submitted by the State shall, after public notice and opportunity for public hearing, be approved by the Administrator if the revision relates only to fuel burning stationary sources (or persons supplying fuel to such sources), and the plan as revised complies with paragraph (2) of this subsection. The Administrator shall approve or disapprove any revision no later than three months after its submission.
     - **(C)** Neither the State, in the case of a plan (or portion thereof) approved under this subsection, nor the Administrator, in the case of a plan (or portion thereof) promulgated under subsection (c), shall be required to revise an applicable implementation plan because one or more exemptions under section 7418 of this title (relating to Federal facilities), enforcement orders under section 7413(d) 1 1 See References in Text note below. of this title, suspensions under subsection (f) or (g) (relating to temporary energy or economic authority), orders under section 7419 of this title (relating to primary nonferrous smelters), or extensions of compliance in decrees entered under section 7413(e) 1 of this title (relating to iron- and steel-producing operations) have been granted, if such plan would have met the requirements of this section if no such exemptions, orders, or extensions had been granted.
-  - **(4)** Repealed. Pub. L. 101–549, title I , § 101(d)(2), Nov. 15, 1990 , 104 Stat. 2409 .
+  - **(4)** Repealed. Pub. L. 101–549, title I, § 101(d)(2) , Nov. 15, 1990 , 104 Stat. 2409 .
   - **(5)**
     - **(A)**
       - **(i)** Any State may include in a State implementation plan, but the Administrator may not require as a condition of approval of such plan under this section, any indirect source review program. The Administrator may approve and enforce, as part of an applicable implementation plan, an indirect source review program which the State chooses to adopt and submit as part of its plan.
@@ -65,16 +65,16 @@ status: "active"
     - **(A)** finds that a State has failed to make a required submission or finds that the plan or plan revision submitted by the State does not satisfy the minimum criteria established under subsection (k)(1)(A), or
     - **(B)** disapproves a State implementation plan submission in whole or in part,
   - **(2)**
-    - **(A)** Repealed. Pub. L. 101–549, title I , § 101(d)(3)(A), Nov. 15, 1990 , 104 Stat. 2409 .
+    - **(A)** Repealed. Pub. L. 101–549, title I, § 101(d)(3)(A) , Nov. 15, 1990 , 104 Stat. 2409 .
     - **(B)** No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974 . This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan’s including a parking surcharge regulation.
-    - **(C)** Repealed. Pub. L. 101–549, title I , § 101(d)(3)(B), Nov. 15, 1990 , 104 Stat. 2409 .
+    - **(C)** Repealed. Pub. L. 101–549, title I, § 101(d)(3)(B) , Nov. 15, 1990 , 104 Stat. 2409 .
     - **(D)** For purposes of this paragraph—
       - **(i)** The term “parking surcharge regulation” means a regulation imposing or requiring the imposition of any tax, surcharge, fee, or other charge on parking spaces, or any other area used for the temporary storage of motor vehicles.
       - **(ii)** The term “management of parking supply” shall include any requirement providing that any new facility containing a given number of parking spaces shall receive a permit or other prior approval, issuance of which is to be conditioned on air quality considerations.
       - **(iii)** The term “preferential bus/carpool lane” shall include any requirement for the setting aside of one or more lanes of a street or highway on a permanent or temporary basis for the exclusive use of buses or carpools, or both.
     - **(E)** No standard, plan, or requirement, relating to management of parking supply or preferential bus/carpool lanes shall be promulgated after June 22, 1974 , by the Administrator pursuant to this section, unless such promulgation has been subjected to at least one public hearing which has been held in the area affected and for which reasonable notice has been given in such area. If substantial changes are made following public hearings, one or more additional hearings shall be held in such area after such notice.
   - **(3)** Upon application of the chief executive officer of any general purpose unit of local government, if the Administrator determines that such unit has adequate authority under State or local law, the Administrator may delegate to such unit the authority to implement and enforce within the jurisdiction of such unit any part of a plan promulgated under this subsection. Nothing in this paragraph shall prevent the Administrator from implementing or enforcing any applicable provision of a plan promulgated under this subsection.
-  - **(4)** Repealed. Pub. L. 101–549, title I , § 101(d)(3)(C), Nov. 15, 1990 , 104 Stat. 2409 .
+  - **(4)** Repealed. Pub. L. 101–549, title I, § 101(d)(3)(C) , Nov. 15, 1990 , 104 Stat. 2409 .
   - **(5)**
     - **(A)** Any measure in an applicable implementation plan which requires a toll or other charge for the use of a bridge located entirely within one city shall be eliminated from such plan by the Administrator upon application by the Governor of the State, which application shall include a certification by the Governor that he will revise such plan in accordance with subparagraph (B).
     - **(B)** In the case of any applicable implementation plan with respect to which a measure has been eliminated under subparagraph (A), such plan shall, not later than one year after August 7, 1977 , be revised to include comprehensive measures to:

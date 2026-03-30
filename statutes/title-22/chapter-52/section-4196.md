@@ -3,9 +3,9 @@ title: "Section 4196 - Notification of death of decedent; transmission of invent
 usc_title: 22
 usc_section: "4196"
 chapter: 52
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "22 U.S.C. § 4196"
-generated_at: "2026-03-30T08:01:48.738Z"
+generated_at: "2026-03-30T08:04:07.201Z"
 status: "active"
 ---
 

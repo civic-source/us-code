@@ -3,9 +3,9 @@ title: "Section 6304 - Fair tax collection practices"
 usc_title: 26
 usc_section: "6304"
 chapter: 64
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "26 U.S.C. § 6304"
-generated_at: "2026-03-30T08:02:18.063Z"
+generated_at: "2026-03-30T08:04:18.766Z"
 status: "active"
 ---
 

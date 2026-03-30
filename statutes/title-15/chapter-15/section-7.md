@@ -3,9 +3,9 @@ title: "Section 7 - Exchange of surplus agricultural commodities for reserve sto
 usc_title: 15
 usc_section: "7"
 chapter: 15
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 7"
-generated_at: "2026-03-30T08:01:31.591Z"
+generated_at: "2026-03-30T08:03:38.228Z"
 status: "active"
 ---
 

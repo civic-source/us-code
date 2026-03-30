@@ -3,9 +3,9 @@ title: "Section 1007 - Representative payees"
 usc_title: 42
 usc_section: "1007"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 1007"
-generated_at: "2026-03-30T08:02:45.952Z"
+generated_at: "2026-03-30T08:05:50.200Z"
 status: "active"
 ---
 

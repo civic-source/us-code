@@ -3,9 +3,9 @@ title: "Section 3217 - Omitted"
 usc_title: 20
 usc_section: "3217"
 chapter: 47
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "20 U.S.C. § 3217"
-generated_at: "2026-03-30T08:01:39.464Z"
+generated_at: "2026-03-30T08:03:44.149Z"
 status: "omitted"
 ---
 

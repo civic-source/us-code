@@ -3,9 +3,9 @@ title: "Section 2128 - Loans, commitments, and technical and financial assistanc
 usc_title: 12
 usc_section: "2128"
 chapter: 23
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "12 U.S.C. § 2128"
-generated_at: "2026-03-30T08:01:28.414Z"
+generated_at: "2026-03-30T08:03:36.240Z"
 status: "active"
 ---
 

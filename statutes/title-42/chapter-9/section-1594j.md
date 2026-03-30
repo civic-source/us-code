@@ -1,13 +1,13 @@
 ---
-title: "Section 1594j - Repealed. Pub. L. 92–545, title V , § 508(c), Oct. 25, 1972 , 86 Stat. 1150"
+title: "Section 1594j - Repealed. Pub. L. 92–545, title V, § 508(c) , Oct. 25, 1972 , 86 Stat. 1150"
 usc_title: 42
 usc_section: "1594j"
 chapter: 9
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 1594j"
-generated_at: "2026-03-30T08:02:46.110Z"
+generated_at: "2026-03-30T08:05:50.359Z"
 status: "repealed"
 ---
 
-# § 1594j. Repealed. Pub. L. 92–545, title V , § 508(c), Oct. 25, 1972 , 86 Stat. 1150
+# § 1594j. Repealed. Pub. L. 92–545, title V, § 508(c) , Oct. 25, 1972 , 86 Stat. 1150
 

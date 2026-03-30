@@ -3,9 +3,9 @@ title: "Section 2118 - Selection boards; submission of reports"
 usc_title: 14
 usc_section: "2118"
 chapter: 21
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "14 U.S.C. § 2118"
-generated_at: "2026-03-30T08:01:21.461Z"
+generated_at: "2026-03-30T08:03:38.550Z"
 status: "active"
 ---
 

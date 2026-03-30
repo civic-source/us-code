@@ -3,9 +3,9 @@ title: "Section 735 - Binding for Senators"
 usc_title: 44
 usc_section: "735"
 chapter: 7
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "44 U.S.C. § 735"
-generated_at: "2026-03-30T08:02:31.394Z"
+generated_at: "2026-03-30T08:05:24.740Z"
 status: "active"
 ---
 

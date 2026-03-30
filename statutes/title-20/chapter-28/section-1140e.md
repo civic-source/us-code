@@ -3,9 +3,9 @@ title: "Section 1140e - Authorization of appropriations"
 usc_title: 20
 usc_section: "1140e"
 chapter: 28
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "20 U.S.C. § 1140e"
-generated_at: "2026-03-30T08:01:39.431Z"
+generated_at: "2026-03-30T08:03:44.122Z"
 status: "active"
 ---
 

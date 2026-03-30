@@ -1,13 +1,13 @@
 ---
-title: "Section 9641 - Repealed. Pub. L. 99–499, title V , § 514(b), Oct. 17, 1986 , 100 Stat. 1767"
+title: "Section 9641 - Repealed. Pub. L. 99–499, title V, § 514(b) , Oct. 17, 1986 , 100 Stat. 1767"
 usc_title: 42
 usc_section: "9641"
 chapter: 103
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 9641"
-generated_at: "2026-03-30T08:02:46.324Z"
+generated_at: "2026-03-30T08:05:50.577Z"
 status: "repealed"
 ---
 
-# § 9641. Repealed. Pub. L. 99–499, title V , § 514(b), Oct. 17, 1986 , 100 Stat. 1767
+# § 9641. Repealed. Pub. L. 99–499, title V, § 514(b) , Oct. 17, 1986 , 100 Stat. 1767
 

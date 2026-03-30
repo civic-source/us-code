@@ -3,9 +3,9 @@ title: "Section 12463 - Saving money and reducing tragedies through prevention (
 usc_title: 34
 usc_section: "12463"
 chapter: 121
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "34 U.S.C. § 12463"
-generated_at: "2026-03-30T08:02:21.580Z"
+generated_at: "2026-03-30T08:04:43.680Z"
 status: "active"
 ---
 

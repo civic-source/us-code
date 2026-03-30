@@ -3,9 +3,9 @@ title: "Section 38 - Authorization for appropriations"
 usc_title: 42
 usc_section: "38"
 chapter: 6
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 38"
-generated_at: "2026-03-30T08:02:45.912Z"
+generated_at: "2026-03-30T08:05:50.158Z"
 status: "active"
 ---
 

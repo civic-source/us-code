@@ -3,9 +3,9 @@ title: "Section 75b - Establishment of National Portrait Gallery; functions"
 usc_title: 20
 usc_section: "75b"
 chapter: 3
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "20 U.S.C. § 75b"
-generated_at: "2026-03-30T08:01:39.359Z"
+generated_at: "2026-03-30T08:03:44.064Z"
 status: "active"
 ---
 

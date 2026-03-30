@@ -3,9 +3,9 @@ title: "Section 20157 - Implementation of positive train control systems"
 usc_title: 49
 usc_section: "20157"
 chapter: 201
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "49 U.S.C. § 20157"
-generated_at: "2026-03-30T08:02:53.502Z"
+generated_at: "2026-03-30T08:06:03.174Z"
 status: "active"
 ---
 

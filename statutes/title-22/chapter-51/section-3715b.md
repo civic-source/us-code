@@ -3,9 +3,9 @@ title: "Section 3715b - Transfers from Fund for compensation benefits"
 usc_title: 22
 usc_section: "3715b"
 chapter: 51
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "22 U.S.C. § 3715b"
-generated_at: "2026-03-30T08:01:48.726Z"
+generated_at: "2026-03-30T08:04:07.190Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 452 - Transferred"
 usc_title: 2
 usc_section: "452"
 chapter: 14
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "2 U.S.C. § 452"
-generated_at: "2026-03-30T08:00:45.717Z"
+generated_at: "2026-03-30T08:03:18.604Z"
 status: "transferred"
 ---
 

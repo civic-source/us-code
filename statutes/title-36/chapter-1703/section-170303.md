@@ -3,9 +3,9 @@ title: "Section 170303 - Purposes"
 usc_title: 36
 usc_section: "170303"
 chapter: 1703
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "36 U.S.C. § 170303"
-generated_at: "2026-03-30T08:02:27.045Z"
+generated_at: "2026-03-30T08:05:02.104Z"
 status: "active"
 ---
 

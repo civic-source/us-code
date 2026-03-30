@@ -3,9 +3,9 @@ title: "Section 9b - Rules and regulations"
 usc_title: 29
 usc_section: "9b"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "29 U.S.C. § 9b"
-generated_at: "2026-03-30T08:01:59.129Z"
+generated_at: "2026-03-30T08:04:29.566Z"
 status: "active"
 ---
 

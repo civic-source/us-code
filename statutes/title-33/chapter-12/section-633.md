@@ -3,9 +3,9 @@ title: "Section 633 - Protection, alteration, reconstruction, relocation, or rep
 usc_title: 33
 usc_section: "633"
 chapter: 12
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "33 U.S.C. § 633"
-generated_at: "2026-03-30T08:02:24.210Z"
+generated_at: "2026-03-30T08:04:51.659Z"
 status: "active"
 ---
 

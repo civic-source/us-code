@@ -3,9 +3,9 @@ title: "Section 1504 - Repealed. Pub. L. 97–195 , § 1(c)(1), June 16, 1982 , 
 usc_title: 15
 usc_section: "1504"
 chapter: 40
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 1504"
-generated_at: "2026-03-30T08:01:31.612Z"
+generated_at: "2026-03-30T08:03:38.247Z"
 status: "repealed"
 ---
 

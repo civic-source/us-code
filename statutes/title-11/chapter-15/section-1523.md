@@ -3,9 +3,9 @@ title: "Section 1523 - Actions to avoid acts detrimental to creditors"
 usc_title: 11
 usc_section: "1523"
 chapter: 15
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "11 U.S.C. § 1523"
-generated_at: "2026-03-30T08:01:18.446Z"
+generated_at: "2026-03-30T08:03:38.871Z"
 status: "active"
 ---
 

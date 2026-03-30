@@ -3,9 +3,9 @@ title: "Section 31 - Repealed. Pub. L. 107–273, div. C, title IV , § 14102(a)
 usc_title: 15
 usc_section: "31"
 chapter: 1
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 31"
-generated_at: "2026-03-30T08:01:31.505Z"
+generated_at: "2026-03-30T08:03:38.148Z"
 status: "repealed"
 ---
 

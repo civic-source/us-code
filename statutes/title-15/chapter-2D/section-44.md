@@ -3,9 +3,9 @@ title: "Section 44 - Disclosure of information filed with Commission; copies"
 usc_title: 15
 usc_section: "44"
 chapter: 2
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "15 U.S.C. § 44"
-generated_at: "2026-03-30T08:01:31.550Z"
+generated_at: "2026-03-30T08:03:38.190Z"
 status: "active"
 ---
 

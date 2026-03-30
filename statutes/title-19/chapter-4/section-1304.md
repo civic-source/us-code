@@ -3,9 +3,9 @@ title: "Section 1304 - Marking of imported articles and containers"
 usc_title: 19
 usc_section: "1304"
 chapter: 4
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "19 U.S.C. § 1304"
-generated_at: "2026-03-30T08:01:35.731Z"
+generated_at: "2026-03-30T08:03:49.381Z"
 status: "active"
 ---
 

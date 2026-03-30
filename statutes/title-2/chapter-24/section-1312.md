@@ -3,9 +3,9 @@ title: "Section 1312 - Rights and protections under Family and Medical Leave Act
 usc_title: 2
 usc_section: "1312"
 chapter: 24
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "2 U.S.C. § 1312"
-generated_at: "2026-03-30T08:00:45.730Z"
+generated_at: "2026-03-30T08:03:18.618Z"
 status: "active"
 ---
 

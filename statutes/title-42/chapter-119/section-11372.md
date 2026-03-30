@@ -3,9 +3,9 @@ title: "Section 11372 - Grant assistance"
 usc_title: 42
 usc_section: "11372"
 chapter: 119
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 11372"
-generated_at: "2026-03-30T08:02:46.356Z"
+generated_at: "2026-03-30T08:05:50.608Z"
 status: "active"
 ---
 

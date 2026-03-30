@@ -3,9 +3,9 @@ title: "Section 6064 - Termination of economic embargo of Cuba"
 usc_title: 22
 usc_section: "6064"
 chapter: 69
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "22 U.S.C. § 6064"
-generated_at: "2026-03-30T08:01:48.752Z"
+generated_at: "2026-03-30T08:04:07.214Z"
 status: "active"
 ---
 

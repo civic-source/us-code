@@ -3,9 +3,9 @@ title: "Section 2773 - Rations or commutation therefor in money"
 usc_title: 14
 usc_section: "2773"
 chapter: 27
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "14 U.S.C. § 2773"
-generated_at: "2026-03-30T08:01:21.463Z"
+generated_at: "2026-03-30T08:03:38.553Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1383 - Repealed. Pub. L. 94–412, title V , § 501(e), Sept. 14
 usc_title: 18
 usc_section: "1383"
 chapter: 67
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "18 U.S.C. § 1383"
-generated_at: "2026-03-30T08:01:37.390Z"
+generated_at: "2026-03-30T08:03:42.187Z"
 status: "repealed"
 ---
 

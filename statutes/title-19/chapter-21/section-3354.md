@@ -3,9 +3,9 @@ title: "Section 3354 - Provision of relief"
 usc_title: 19
 usc_section: "3354"
 chapter: 21
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "19 U.S.C. § 3354"
-generated_at: "2026-03-30T08:01:35.786Z"
+generated_at: "2026-03-30T08:03:49.436Z"
 status: "active"
 ---
 

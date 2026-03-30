@@ -1,13 +1,13 @@
 ---
-title: "Section 175 - Repealed. Jan. 22, 1927, ch. 53 , § 2, 44 Stat. 1024 , eff. June 30, 1929"
+title: "Section 175 - Repealed. Jan. 22, 1927, ch. 53, § 2 , 44 Stat. 1024 , eff. June 30, 1929"
 usc_title: 42
 usc_section: "175"
 chapter: 5
-current_through: "PL 116-18"
+current_through: "PL 116-19"
 classification: "42 U.S.C. § 175"
-generated_at: "2026-03-30T08:02:45.781Z"
+generated_at: "2026-03-30T08:05:50.018Z"
 status: "repealed"
 ---
 
-# §§ 161 to 175. Repealed. Jan. 22, 1927, ch. 53 , § 2, 44 Stat. 1024 , eff. June 30, 1929
+# §§ 161 to 175. Repealed. Jan. 22, 1927, ch. 53, § 2 , 44 Stat. 1024 , eff. June 30, 1929
 
