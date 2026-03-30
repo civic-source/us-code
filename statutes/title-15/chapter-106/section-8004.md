@@ -3,9 +3,9 @@ title: "Section 8004 - State swimming pool safety grant program"
 usc_title: 15
 usc_section: "8004"
 chapter: 106
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 8004"
-generated_at: "2026-03-30T03:54:09.526Z"
+generated_at: "2026-03-30T03:56:54.630Z"
 status: "active"
 ---
 

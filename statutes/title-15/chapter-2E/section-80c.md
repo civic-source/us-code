@@ -3,9 +3,9 @@ title: "Section 80c - Liaison between Securities Exchange Commission and Small B
 usc_title: 15
 usc_section: "80c"
 chapter: 2
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 80c"
-generated_at: "2026-03-30T03:54:09.347Z"
+generated_at: "2026-03-30T03:56:54.441Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3036 - Repealed. Pub. L. 112–154, title IV, § 402(b)(1) , Aug
 usc_title: 38
 usc_section: "3036"
 chapter: 30
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "38 U.S.C. § 3036"
-generated_at: "2026-03-30T03:55:27.006Z"
+generated_at: "2026-03-30T03:58:16.840Z"
 status: "repealed"
 ---
 

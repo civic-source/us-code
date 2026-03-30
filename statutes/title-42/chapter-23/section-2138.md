@@ -3,9 +3,9 @@ title: "Section 2138 - Suspension of licenses during war or national emergency"
 usc_title: 42
 usc_section: "2138"
 chapter: 23
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 2138"
-generated_at: "2026-03-30T03:55:43.881Z"
+generated_at: "2026-03-30T03:58:36.682Z"
 status: "active"
 ---
 

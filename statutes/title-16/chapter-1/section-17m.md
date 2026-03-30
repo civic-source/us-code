@@ -3,9 +3,9 @@ title: "Section 17m - Consent of Congress to agreements between States; when agr
 usc_title: 16
 usc_section: "17m"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 17m"
-generated_at: "2026-03-30T03:54:31.281Z"
+generated_at: "2026-03-30T03:57:07.388Z"
 status: "active"
 ---
 

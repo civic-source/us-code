@@ -3,9 +3,9 @@ title: "Section 1191 - Preemption; State flexibility; construction"
 usc_title: 29
 usc_section: "1191"
 chapter: 18
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "29 U.S.C. § 1191"
-generated_at: "2026-03-30T03:55:04.754Z"
+generated_at: "2026-03-30T03:57:58.635Z"
 status: "active"
 ---
 

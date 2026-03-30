@@ -3,9 +3,9 @@ title: "Section 410411 - Repealed. Pub. L. 112–141, div. C, title I, § 31109(
 usc_title: 23
 usc_section: "410411"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "23 U.S.C. § 410411"
-generated_at: "2026-03-30T03:54:50.924Z"
+generated_at: "2026-03-30T03:57:20.925Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2131 - Reference to chapter 1606"
 usc_title: 10
 usc_section: "2131"
 chapter: 106
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2131"
-generated_at: "2026-03-30T03:53:58.686Z"
+generated_at: "2026-03-30T03:56:39.575Z"
 status: "active"
 ---
 

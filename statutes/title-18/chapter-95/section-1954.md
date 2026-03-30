@@ -3,9 +3,9 @@ title: "Section 1954 - Offer, acceptance, or solicitation to influence operation
 usc_title: 18
 usc_section: "1954"
 chapter: 95
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "18 U.S.C. § 1954"
-generated_at: "2026-03-30T03:54:20.375Z"
+generated_at: "2026-03-30T03:56:58.714Z"
 status: "active"
 ---
 

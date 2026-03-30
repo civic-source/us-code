@@ -3,9 +3,9 @@ title: "Section 3761 - Foreclosure costs"
 usc_title: 12
 usc_section: "3761"
 chapter: 38
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "12 U.S.C. § 3761"
-generated_at: "2026-03-30T03:54:05.443Z"
+generated_at: "2026-03-30T03:56:51.987Z"
 status: "active"
 ---
 

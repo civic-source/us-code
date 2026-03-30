@@ -3,9 +3,9 @@ title: "Section 1j - Cooperative agreements for national park natural resource p
 usc_title: 16
 usc_section: "1j"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 1j"
-generated_at: "2026-03-30T03:54:31.278Z"
+generated_at: "2026-03-30T03:57:07.386Z"
 status: "active"
 ---
 

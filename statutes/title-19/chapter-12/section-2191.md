@@ -3,9 +3,9 @@ title: "Section 2191 - Bills implementing trade agreements on nontariff barriers
 usc_title: 19
 usc_section: "2191"
 chapter: 12
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 2191"
-generated_at: "2026-03-30T03:54:19.006Z"
+generated_at: "2026-03-30T03:57:00.572Z"
 status: "active"
 ---
 

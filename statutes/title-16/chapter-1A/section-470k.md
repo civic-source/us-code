@@ -3,9 +3,9 @@ title: "Section 470k - Cooperation between Council and instrumentalities of exec
 usc_title: 16
 usc_section: "470k"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 470k"
-generated_at: "2026-03-30T03:54:31.404Z"
+generated_at: "2026-03-30T03:57:07.513Z"
 status: "active"
 ---
 

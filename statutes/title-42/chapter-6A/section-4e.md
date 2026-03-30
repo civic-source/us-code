@@ -3,9 +3,9 @@ title: "Section 4e - Repealed. Pub. L. 109–416, § 3(b)(4) , Dec. 19, 2006 , 1
 usc_title: 42
 usc_section: "4e"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 4e"
-generated_at: "2026-03-30T03:55:43.520Z"
+generated_at: "2026-03-30T03:58:36.084Z"
 status: "repealed"
 ---
 

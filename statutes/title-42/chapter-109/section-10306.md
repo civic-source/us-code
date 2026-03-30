@@ -3,9 +3,9 @@ title: "Section 10306 - Administrative costs"
 usc_title: 42
 usc_section: "10306"
 chapter: 109
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 10306"
-generated_at: "2026-03-30T03:55:44.109Z"
+generated_at: "2026-03-30T03:58:37.052Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 758c - Authorization of appropriations for research laboratory, 
 usc_title: 16
 usc_section: "758c"
 chapter: 9
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 758c"
-generated_at: "2026-03-30T03:54:31.455Z"
+generated_at: "2026-03-30T03:57:07.564Z"
 status: "active"
 ---
 

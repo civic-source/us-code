@@ -3,9 +3,9 @@ title: "Section 646 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992"
 usc_title: 48
 usc_section: "646"
 chapter: 3
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "48 U.S.C. § 646"
-generated_at: "2026-03-30T03:55:58.975Z"
+generated_at: "2026-03-30T03:58:46.394Z"
 status: "repealed"
 ---
 

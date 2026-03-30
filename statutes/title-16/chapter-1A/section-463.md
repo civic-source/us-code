@@ -3,9 +3,9 @@ title: "Section 463 - National Park System Advisory Board"
 usc_title: 16
 usc_section: "463"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 463"
-generated_at: "2026-03-30T03:54:31.399Z"
+generated_at: "2026-03-30T03:57:07.507Z"
 status: "active"
 ---
 

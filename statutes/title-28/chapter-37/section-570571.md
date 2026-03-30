@@ -3,9 +3,9 @@ title: "Section 570571 - Repealed. Pub. L. 100–690, title VII, § 7608(a)(1) ,
 usc_title: 28
 usc_section: "570571"
 chapter: 37
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "28 U.S.C. § 570571"
-generated_at: "2026-03-30T03:55:03.860Z"
+generated_at: "2026-03-30T03:57:44.891Z"
 status: "repealed"
 ---
 

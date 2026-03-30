@@ -3,9 +3,9 @@ title: "Section 106to108 - Repealed. May 3, 1945, ch. 105, § 11 , 59 Stat. 105"
 usc_title: 22
 usc_section: "106to108"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "22 U.S.C. § 106to108"
-generated_at: "2026-03-30T03:54:40.724Z"
+generated_at: "2026-03-30T03:57:40.753Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 877A - Tax responsibilities of expatriation"
 usc_title: 26
 usc_section: "877A"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "26 U.S.C. § 877A"
-generated_at: "2026-03-30T03:55:01.920Z"
+generated_at: "2026-03-30T03:58:07.280Z"
 status: "active"
 ---
 

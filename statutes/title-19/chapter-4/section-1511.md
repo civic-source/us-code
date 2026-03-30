@@ -3,9 +3,9 @@ title: "Section 1511 - Repealed. Pub. L. 95–410, title I, § 107 , Oct. 3, 197
 usc_title: 19
 usc_section: "1511"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 1511"
-generated_at: "2026-03-30T03:54:18.975Z"
+generated_at: "2026-03-30T03:57:00.541Z"
 status: "repealed"
 ---
 

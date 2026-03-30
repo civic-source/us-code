@@ -3,9 +3,9 @@ title: "Section 7984 - Studies of effects of changes in approach to national dai
 usc_title: 7
 usc_section: "7984"
 chapter: 106
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "7 U.S.C. § 7984"
-generated_at: "2026-03-30T03:53:51.453Z"
+generated_at: "2026-03-30T03:56:45.245Z"
 status: "active"
 ---
 

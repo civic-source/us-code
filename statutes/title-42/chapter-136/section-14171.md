@@ -3,9 +3,9 @@ title: "Section 14171 - Motor vehicle theft prevention program"
 usc_title: 42
 usc_section: "14171"
 chapter: 136
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 14171"
-generated_at: "2026-03-30T03:55:44.190Z"
+generated_at: "2026-03-30T03:58:37.169Z"
 status: "active"
 ---
 

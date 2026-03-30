@@ -3,9 +3,9 @@ title: "Section 614 - Study by Census Bureau"
 usc_title: 42
 usc_section: "614"
 chapter: 7
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 614"
-generated_at: "2026-03-30T03:55:43.664Z"
+generated_at: "2026-03-30T03:58:36.316Z"
 status: "active"
 ---
 

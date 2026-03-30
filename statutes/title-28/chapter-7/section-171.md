@@ -3,9 +3,9 @@ title: "Section 171 - Appointment and number of judges; character of court; desi
 usc_title: 28
 usc_section: "171"
 chapter: 7
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "28 U.S.C. § 171"
-generated_at: "2026-03-30T03:55:03.853Z"
+generated_at: "2026-03-30T03:57:44.881Z"
 status: "active"
 ---
 

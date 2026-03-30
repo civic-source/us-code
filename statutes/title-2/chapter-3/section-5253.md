@@ -3,9 +3,9 @@ title: "Section 5253 - Repealed. Pub. L. 92–607 , ch. V, § 506(k)(7), formerl
 usc_title: 2
 usc_section: "5253"
 chapter: 3
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 5253"
-generated_at: "2026-03-30T03:53:30.621Z"
+generated_at: "2026-03-30T03:56:19.752Z"
 status: "repealed"
 ---
 

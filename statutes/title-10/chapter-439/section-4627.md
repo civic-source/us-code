@@ -3,9 +3,9 @@ title: "Section 4627 - Supplies: educational institutions"
 usc_title: 10
 usc_section: "4627"
 chapter: 439
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 4627"
-generated_at: "2026-03-30T03:53:58.754Z"
+generated_at: "2026-03-30T03:56:39.638Z"
 status: "active"
 ---
 

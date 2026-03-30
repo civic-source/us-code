@@ -3,9 +3,9 @@ title: "Section 1904 - Repealed. Pub. L. 103–322, title XXXIII, § 330004(11) 
 usc_title: 18
 usc_section: "1904"
 chapter: 93
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "18 U.S.C. § 1904"
-generated_at: "2026-03-30T03:54:20.374Z"
+generated_at: "2026-03-30T03:56:58.714Z"
 status: "repealed"
 ---
 

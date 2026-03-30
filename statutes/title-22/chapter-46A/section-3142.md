@@ -3,9 +3,9 @@ title: "Section 3142 - Report by Secretary of Commerce"
 usc_title: 22
 usc_section: "3142"
 chapter: 46
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "22 U.S.C. § 3142"
-generated_at: "2026-03-30T03:54:40.835Z"
+generated_at: "2026-03-30T03:57:40.864Z"
 status: "active"
 ---
 

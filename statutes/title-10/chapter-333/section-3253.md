@@ -3,9 +3,9 @@ title: "Section 3253 - Repealed. Pub. L. 109–163, div. A, title V, § 542(b)(1
 usc_title: 10
 usc_section: "3253"
 chapter: 333
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 3253"
-generated_at: "2026-03-30T03:53:58.747Z"
+generated_at: "2026-03-30T03:56:39.631Z"
 status: "repealed"
 ---
 

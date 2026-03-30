@@ -3,9 +3,9 @@ title: "Section 199 - Member of commission, board, etc., appointed by President 
 usc_title: 2
 usc_section: "199"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 199"
-generated_at: "2026-03-30T03:53:30.630Z"
+generated_at: "2026-03-30T03:56:19.762Z"
 status: "active"
 ---
 

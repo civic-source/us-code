@@ -3,9 +3,9 @@ title: "Section 1627a - Unlawful importation or exportation of certain vehicles;
 usc_title: 19
 usc_section: "1627a"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 1627a"
-generated_at: "2026-03-30T03:54:18.984Z"
+generated_at: "2026-03-30T03:57:00.551Z"
 status: "active"
 ---
 

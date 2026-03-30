@@ -3,9 +3,9 @@ title: "Section 1545 - Terms of office"
 usc_title: 21
 usc_section: "1545"
 chapter: 20
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "21 U.S.C. § 1545"
-generated_at: "2026-03-30T03:54:38.420Z"
+generated_at: "2026-03-30T03:57:11.644Z"
 status: "active"
 ---
 

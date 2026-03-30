@@ -3,9 +3,9 @@ title: "Section 20305 - National Academies decadal surveys"
 usc_title: 51
 usc_section: "20305"
 chapter: 203
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "51 U.S.C. § 20305"
-generated_at: "2026-03-30T03:56:03.759Z"
+generated_at: "2026-03-30T03:58:49.871Z"
 status: "active"
 ---
 

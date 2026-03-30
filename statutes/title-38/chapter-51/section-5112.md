@@ -3,9 +3,9 @@ title: "Section 5112 - Effective dates of reductions and discontinuances"
 usc_title: 38
 usc_section: "5112"
 chapter: 51
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "38 U.S.C. § 5112"
-generated_at: "2026-03-30T03:55:27.021Z"
+generated_at: "2026-03-30T03:58:16.863Z"
 status: "active"
 ---
 

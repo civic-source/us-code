@@ -3,9 +3,9 @@ title: "Section 1490r - Rural housing voucher program"
 usc_title: 42
 usc_section: "1490r"
 chapter: 8
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 1490r"
-generated_at: "2026-03-30T03:55:43.834Z"
+generated_at: "2026-03-30T03:58:36.582Z"
 status: "active"
 ---
 

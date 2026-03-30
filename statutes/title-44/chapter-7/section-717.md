@@ -3,9 +3,9 @@ title: "Section 717 - Appropriation chargeable for printing of document or repor
 usc_title: 44
 usc_section: "717"
 chapter: 7
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "44 U.S.C. § 717"
-generated_at: "2026-03-30T03:55:47.658Z"
+generated_at: "2026-03-30T03:58:19.125Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5586 - Test procedures and performance criteria"
 usc_title: 42
 usc_section: "5586"
 chapter: 71
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 5586"
-generated_at: "2026-03-30T03:55:43.967Z"
+generated_at: "2026-03-30T03:58:36.827Z"
 status: "active"
 ---
 

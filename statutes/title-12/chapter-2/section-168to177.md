@@ -3,9 +3,9 @@ title: "Section 168to177 - Repealed. Pub. L. 103–325, title VI, § 602(e)(24) 
 usc_title: 12
 usc_section: "168to177"
 chapter: 2
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "12 U.S.C. § 168to177"
-generated_at: "2026-03-30T03:54:05.272Z"
+generated_at: "2026-03-30T03:56:51.828Z"
 status: "repealed"
 ---
 

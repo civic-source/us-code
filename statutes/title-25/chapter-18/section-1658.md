@@ -3,9 +3,9 @@ title: "Section 1658 - Limitation on contract authority"
 usc_title: 25
 usc_section: "1658"
 chapter: 18
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 1658"
-generated_at: "2026-03-30T03:54:47.119Z"
+generated_at: "2026-03-30T03:57:17.286Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 644 - Bonds as valid and binding obligations"
 usc_title: 25
 usc_section: "644"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 644"
-generated_at: "2026-03-30T03:54:47.091Z"
+generated_at: "2026-03-30T03:57:17.244Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 165 - National Law Enforcement and Corrections Technology Center
 usc_title: 6
 usc_section: "165"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "6 U.S.C. § 165"
-generated_at: "2026-03-30T03:53:41.243Z"
+generated_at: "2026-03-30T03:56:33.944Z"
 status: "active"
 ---
 

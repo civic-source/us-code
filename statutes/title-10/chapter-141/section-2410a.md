@@ -3,9 +3,9 @@ title: "Section 2410a - Contracts for periods crossing fiscal years: severable s
 usc_title: 10
 usc_section: "2410a"
 chapter: 141
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2410a"
-generated_at: "2026-03-30T03:53:58.712Z"
+generated_at: "2026-03-30T03:56:39.599Z"
 status: "active"
 ---
 

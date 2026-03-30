@@ -3,9 +3,9 @@ title: "Section 511b - Official standards for classification; tentative standard
 usc_title: 7
 usc_section: "511b"
 chapter: 21
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "7 U.S.C. § 511b"
-generated_at: "2026-03-30T03:53:51.258Z"
+generated_at: "2026-03-30T03:56:45.015Z"
 status: "active"
 ---
 

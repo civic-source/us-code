@@ -3,9 +3,9 @@ title: "Section 3724 - Repealed. Pub. L. 98–473, title II, § 604(c) , Oct. 12
 usc_title: 42
 usc_section: "3724"
 chapter: 46
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 3724"
-generated_at: "2026-03-30T03:55:43.921Z"
+generated_at: "2026-03-30T03:58:36.748Z"
 status: "repealed"
 ---
 

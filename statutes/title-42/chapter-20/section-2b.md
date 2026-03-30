@@ -3,9 +3,9 @@ title: "Section 2b - Federal Voting Assistance Program Improvements"
 usc_title: 42
 usc_section: "2b"
 chapter: 20
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 2b"
-generated_at: "2026-03-30T03:55:43.867Z"
+generated_at: "2026-03-30T03:58:36.652Z"
 status: "active"
 ---
 

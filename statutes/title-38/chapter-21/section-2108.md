@@ -3,9 +3,9 @@ title: "Section 2108 - Specially adapted housing assistive technology grant prog
 usc_title: 38
 usc_section: "2108"
 chapter: 21
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "38 U.S.C. § 2108"
-generated_at: "2026-03-30T03:55:27.002Z"
+generated_at: "2026-03-30T03:58:16.834Z"
 status: "active"
 ---
 

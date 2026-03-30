@@ -3,9 +3,9 @@ title: "Section 669f - Payment of funds to States; laws governing construction a
 usc_title: 16
 usc_section: "669f"
 chapter: 5
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 669f"
-generated_at: "2026-03-30T03:54:31.439Z"
+generated_at: "2026-03-30T03:57:07.549Z"
 status: "active"
 ---
 

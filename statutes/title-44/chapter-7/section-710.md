@@ -3,9 +3,9 @@ title: "Section 710 - Copies of Acts furnished to Public Printer"
 usc_title: 44
 usc_section: "710"
 chapter: 7
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "44 U.S.C. § 710"
-generated_at: "2026-03-30T03:55:47.658Z"
+generated_at: "2026-03-30T03:58:19.125Z"
 status: "active"
 ---
 

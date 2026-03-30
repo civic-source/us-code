@@ -3,9 +3,9 @@ title: "Section 2582 - Repealed. Pub. L. 98–67, title II, § 214(d) , Aug. 5, 
 usc_title: 19
 usc_section: "2582"
 chapter: 13
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 2582"
-generated_at: "2026-03-30T03:54:19.025Z"
+generated_at: "2026-03-30T03:57:00.592Z"
 status: "repealed"
 ---
 

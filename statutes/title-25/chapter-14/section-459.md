@@ -3,9 +3,9 @@ title: "Section 459 - Submarginal lands of United States held in trust for speci
 usc_title: 25
 usc_section: "459"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 459"
-generated_at: "2026-03-30T03:54:47.082Z"
+generated_at: "2026-03-30T03:57:17.231Z"
 status: "active"
 ---
 

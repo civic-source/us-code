@@ -3,9 +3,9 @@ title: "Section 5205 - National Science Foundation"
 usc_title: 15
 usc_section: "5205"
 chapter: 78
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 5205"
-generated_at: "2026-03-30T03:54:09.499Z"
+generated_at: "2026-03-30T03:56:54.603Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3322 - Additional education and training requirements"
 usc_title: 50
 usc_section: "3322"
 chapter: 45
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "50 U.S.C. § 3322"
-generated_at: "2026-03-30T03:55:58.544Z"
+generated_at: "2026-03-30T03:58:42.271Z"
 status: "active"
 ---
 

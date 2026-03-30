@@ -3,9 +3,9 @@ title: "Section 115to128 - Repealed. Pub. L. 107–171, title X, § 10418(a)(7) 
 usc_title: 21
 usc_section: "115to128"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "21 U.S.C. § 115to128"
-generated_at: "2026-03-30T03:54:38.321Z"
+generated_at: "2026-03-30T03:57:11.548Z"
 status: "repealed"
 ---
 

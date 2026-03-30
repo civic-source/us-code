@@ -3,9 +3,9 @@ title: "Section 2076 - Advances in foreign countries"
 usc_title: 19
 usc_section: "2076"
 chapter: 10
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 2076"
-generated_at: "2026-03-30T03:54:19.002Z"
+generated_at: "2026-03-30T03:57:00.568Z"
 status: "active"
 ---
 

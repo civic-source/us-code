@@ -3,9 +3,9 @@ title: "Section 6381k - Construction"
 usc_title: 20
 usc_section: "6381k"
 chapter: 70
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "20 U.S.C. § 6381k"
-generated_at: "2026-03-30T03:54:23.873Z"
+generated_at: "2026-03-30T03:57:03.327Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 582 - Shoshone-Bannock Tribes of the Fort Hall Reservation; cred
 usc_title: 25
 usc_section: "582"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 582"
-generated_at: "2026-03-30T03:54:47.086Z"
+generated_at: "2026-03-30T03:57:17.239Z"
 status: "active"
 ---
 

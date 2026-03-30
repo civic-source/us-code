@@ -3,9 +3,9 @@ title: "Section 29 - Condensed and simplified versions of House prec­edents; ot
 usc_title: 2
 usc_section: "29"
 chapter: 2
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 29"
-generated_at: "2026-03-30T03:53:30.619Z"
+generated_at: "2026-03-30T03:56:19.751Z"
 status: "active"
 ---
 

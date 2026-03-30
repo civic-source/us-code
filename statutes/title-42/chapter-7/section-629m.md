@@ -3,9 +3,9 @@ title: "Section 629m - Data standardization for improved data matching"
 usc_title: 42
 usc_section: "629m"
 chapter: 7
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 629m"
-generated_at: "2026-03-30T03:55:43.667Z"
+generated_at: "2026-03-30T03:58:36.322Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6541 - Findings and purposes"
 usc_title: 16
 usc_section: "6541"
 chapter: 84
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 6541"
-generated_at: "2026-03-30T03:54:31.601Z"
+generated_at: "2026-03-30T03:57:07.709Z"
 status: "active"
 ---
 

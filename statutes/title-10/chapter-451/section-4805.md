@@ -3,9 +3,9 @@ title: "Section 4805 - Repealed. Pub. L. 86–533, § 1(8)(A) , June 29, 1960 , 
 usc_title: 10
 usc_section: "4805"
 chapter: 451
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 4805"
-generated_at: "2026-03-30T03:53:58.757Z"
+generated_at: "2026-03-30T03:56:39.640Z"
 status: "repealed"
 ---
 

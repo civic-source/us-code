@@ -3,9 +3,9 @@ title: "Section 4004 - Oaths and acknowledgments"
 usc_title: 18
 usc_section: "4004"
 chapter: 301
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "18 U.S.C. § 4004"
-generated_at: "2026-03-30T03:54:20.410Z"
+generated_at: "2026-03-30T03:56:58.750Z"
 status: "active"
 ---
 

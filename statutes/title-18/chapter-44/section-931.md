@@ -3,9 +3,9 @@ title: "Section 931 - Prohibition on purchase, ownership, or possession of body 
 usc_title: 18
 usc_section: "931"
 chapter: 44
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "18 U.S.C. § 931"
-generated_at: "2026-03-30T03:54:20.356Z"
+generated_at: "2026-03-30T03:56:58.695Z"
 status: "active"
 ---
 

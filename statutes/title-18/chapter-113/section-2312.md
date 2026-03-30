@@ -3,9 +3,9 @@ title: "Section 2312 - Transportation of stolen vehicles"
 usc_title: 18
 usc_section: "2312"
 chapter: 113
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "18 U.S.C. § 2312"
-generated_at: "2026-03-30T03:54:20.384Z"
+generated_at: "2026-03-30T03:56:58.722Z"
 status: "active"
 ---
 

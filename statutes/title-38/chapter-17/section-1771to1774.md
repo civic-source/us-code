@@ -3,9 +3,9 @@ title: "Section 1771to1774 - Renumbered §§ 2031 to 2034]"
 usc_title: 38
 usc_section: "1771to1774"
 chapter: 17
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "38 U.S.C. § 1771to1774"
-generated_at: "2026-03-30T03:55:26.994Z"
+generated_at: "2026-03-30T03:58:16.823Z"
 status: "renumbered"
 ---
 

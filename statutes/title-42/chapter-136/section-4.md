@@ -3,9 +3,9 @@ title: "Section 4 - Grants to combat violence against women in public and assist
 usc_title: 42
 usc_section: "4"
 chapter: 136
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T03:55:44.183Z"
+generated_at: "2026-03-30T03:58:37.159Z"
 status: "active"
 ---
 

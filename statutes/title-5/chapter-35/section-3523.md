@@ -3,9 +3,9 @@ title: "Section 3523 - Authority to provide voluntary separation incentive payme
 usc_title: 5
 usc_section: "3523"
 chapter: 35
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "5 U.S.C. § 3523"
-generated_at: "2026-03-30T03:53:28.434Z"
+generated_at: "2026-03-30T03:56:31.691Z"
 status: "active"
 ---
 

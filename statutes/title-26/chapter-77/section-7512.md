@@ -3,9 +3,9 @@ title: "Section 7512 - Separate accounting for certain collected taxes, etc."
 usc_title: 26
 usc_section: "7512"
 chapter: 77
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "26 U.S.C. § 7512"
-generated_at: "2026-03-30T03:55:02.045Z"
+generated_at: "2026-03-30T03:58:07.447Z"
 status: "active"
 ---
 

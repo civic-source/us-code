@@ -3,9 +3,9 @@ title: "Section 113 - Federal financial assistance for support of additional dut
 usc_title: 32
 usc_section: "113"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "32 U.S.C. § 113"
-generated_at: "2026-03-30T03:55:06.357Z"
+generated_at: "2026-03-30T03:58:09.197Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2313 - Examination of records of contractor"
 usc_title: 10
 usc_section: "2313"
 chapter: 137
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2313"
-generated_at: "2026-03-30T03:53:58.701Z"
+generated_at: "2026-03-30T03:56:39.588Z"
 status: "active"
 ---
 

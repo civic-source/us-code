@@ -3,9 +3,9 @@ title: "Section 2212 - Microenterprise development credits"
 usc_title: 22
 usc_section: "2212"
 chapter: 32
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "22 U.S.C. § 2212"
-generated_at: "2026-03-30T03:54:40.788Z"
+generated_at: "2026-03-30T03:57:40.817Z"
 status: "active"
 ---
 

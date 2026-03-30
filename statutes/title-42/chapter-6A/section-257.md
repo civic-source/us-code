@@ -3,9 +3,9 @@ title: "Section 257 - Repealed. Pub. L. 106–310, div. B, title XXXIV, § 3405(
 usc_title: 42
 usc_section: "257"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 257"
-generated_at: "2026-03-30T03:55:43.539Z"
+generated_at: "2026-03-30T03:58:36.114Z"
 status: "repealed"
 ---
 

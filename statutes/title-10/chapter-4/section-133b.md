@@ -3,9 +3,9 @@ title: "Section 133b - Renumbered § 138a]"
 usc_title: 10
 usc_section: "133b"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 133b"
-generated_at: "2026-03-30T03:53:58.602Z"
+generated_at: "2026-03-30T03:56:39.496Z"
 status: "renumbered"
 ---
 

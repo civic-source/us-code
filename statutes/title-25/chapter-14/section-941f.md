@@ -3,9 +3,9 @@ title: "Section 941f - Transitional and provisional government"
 usc_title: 25
 usc_section: "941f"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 941f"
-generated_at: "2026-03-30T03:54:47.100Z"
+generated_at: "2026-03-30T03:57:17.257Z"
 status: "active"
 ---
 

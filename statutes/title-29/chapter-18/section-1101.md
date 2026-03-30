@@ -3,9 +3,9 @@ title: "Section 1101 - Coverage"
 usc_title: 29
 usc_section: "1101"
 chapter: 18
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "29 U.S.C. § 1101"
-generated_at: "2026-03-30T03:55:04.747Z"
+generated_at: "2026-03-30T03:57:58.626Z"
 status: "active"
 ---
 

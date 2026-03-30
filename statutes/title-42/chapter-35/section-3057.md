@@ -3,9 +3,9 @@ title: "Section 3057 - Statement of purpose"
 usc_title: 42
 usc_section: "3057"
 chapter: 35
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 3057"
-generated_at: "2026-03-30T03:55:43.908Z"
+generated_at: "2026-03-30T03:58:36.729Z"
 status: "active"
 ---
 

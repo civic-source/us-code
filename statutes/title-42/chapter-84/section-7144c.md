@@ -3,9 +3,9 @@ title: "Section 7144c - Office of Intelligence"
 usc_title: 42
 usc_section: "7144c"
 chapter: 84
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 7144c"
-generated_at: "2026-03-30T03:55:44.016Z"
+generated_at: "2026-03-30T03:58:36.908Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 429 - Repealed. Pub. L. 107–171, title X, § 10418(a)(2) , May
 usc_title: 7
 usc_section: "429"
 chapter: 17
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "7 U.S.C. § 429"
-generated_at: "2026-03-30T03:53:51.253Z"
+generated_at: "2026-03-30T03:56:45.010Z"
 status: "repealed"
 ---
 

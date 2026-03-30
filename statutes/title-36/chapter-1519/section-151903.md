@@ -3,9 +3,9 @@ title: "Section 151903 - Membership"
 usc_title: 36
 usc_section: "151903"
 chapter: 1519
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "36 U.S.C. § 151903"
-generated_at: "2026-03-30T03:55:11.212Z"
+generated_at: "2026-03-30T03:58:15.361Z"
 status: "active"
 ---
 

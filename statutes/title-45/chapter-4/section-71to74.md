@@ -3,9 +3,9 @@ title: "Section 71to74 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 1
 usc_title: 45
 usc_section: "71to74"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "45 U.S.C. § 71to74"
-generated_at: "2026-03-30T03:55:48.234Z"
+generated_at: "2026-03-30T03:58:19.470Z"
 status: "repealed"
 ---
 

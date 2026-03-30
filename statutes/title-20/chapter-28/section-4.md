@@ -3,9 +3,9 @@ title: "Section 4 - Authorization of appropriations"
 usc_title: 20
 usc_section: "4"
 chapter: 28
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-30T03:54:23.807Z"
+generated_at: "2026-03-30T03:57:03.259Z"
 status: "active"
 ---
 

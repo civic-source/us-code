@@ -3,9 +3,9 @@ title: "Section 17301 - Definitions"
 usc_title: 40
 usc_section: "17301"
 chapter: 173
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "40 U.S.C. § 17301"
-generated_at: "2026-03-30T03:55:11.956Z"
+generated_at: "2026-03-30T03:58:14.130Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2810 - Disclaimer"
 usc_title: 16
 usc_section: "2810"
 chapter: 48
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 2810"
-generated_at: "2026-03-30T03:54:31.551Z"
+generated_at: "2026-03-30T03:57:07.660Z"
 status: "active"
 ---
 

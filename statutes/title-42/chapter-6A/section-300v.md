@@ -3,9 +3,9 @@ title: "Section 300v - Commission"
 usc_title: 42
 usc_section: "300v"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 300v"
-generated_at: "2026-03-30T03:55:43.611Z"
+generated_at: "2026-03-30T03:58:36.233Z"
 status: "active"
 ---
 

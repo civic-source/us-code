@@ -3,9 +3,9 @@ title: "Section 8e - Conveyance to States of roads leading to certain historical
 usc_title: 16
 usc_section: "8e"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 8e"
-generated_at: "2026-03-30T03:54:31.279Z"
+generated_at: "2026-03-30T03:57:07.387Z"
 status: "active"
 ---
 

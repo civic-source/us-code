@@ -3,9 +3,9 @@ title: "Section 184 - Cadets; degree of bachelor of science"
 usc_title: 14
 usc_section: "184"
 chapter: 9
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "14 U.S.C. § 184"
-generated_at: "2026-03-30T03:54:09.786Z"
+generated_at: "2026-03-30T03:56:54.862Z"
 status: "active"
 ---
 

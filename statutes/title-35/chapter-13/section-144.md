@@ -3,9 +3,9 @@ title: "Section 144 - Decision on appeal"
 usc_title: 35
 usc_section: "144"
 chapter: 13
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "35 U.S.C. § 144"
-generated_at: "2026-03-30T03:55:07.899Z"
+generated_at: "2026-03-30T03:58:09.432Z"
 status: "active"
 ---
 

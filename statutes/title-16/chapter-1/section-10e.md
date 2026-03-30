@@ -3,9 +3,9 @@ title: "Section 10e - Advisory Commission on water-based recreation"
 usc_title: 16
 usc_section: "10e"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 10e"
-generated_at: "2026-03-30T03:54:31.361Z"
+generated_at: "2026-03-30T03:57:07.470Z"
 status: "active"
 ---
 

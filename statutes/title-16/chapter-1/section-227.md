@@ -3,9 +3,9 @@ title: "Section 227 - Utilization of areas for Government reclamation projects"
 usc_title: 16
 usc_section: "227"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 227"
-generated_at: "2026-03-30T03:54:31.299Z"
+generated_at: "2026-03-30T03:57:07.407Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12772 - Reserve commissioned officers who have served as Attendi
 usc_title: 10
 usc_section: "12772"
 chapter: 1225
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 12772"
-generated_at: "2026-03-30T03:53:58.799Z"
+generated_at: "2026-03-30T03:56:39.679Z"
 status: "active"
 ---
 

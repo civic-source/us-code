@@ -3,9 +3,9 @@ title: "Section 2102 - Limited definitions"
 usc_title: 46
 usc_section: "2102"
 chapter: 21
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "46 U.S.C. § 2102"
-generated_at: "2026-03-30T03:55:52.116Z"
+generated_at: "2026-03-30T03:58:47.583Z"
 status: "active"
 ---
 

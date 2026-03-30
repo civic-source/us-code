@@ -3,9 +3,9 @@ title: "Section 576b - Lease authority"
 usc_title: 33
 usc_section: "576b"
 chapter: 12
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "33 U.S.C. § 576b"
-generated_at: "2026-03-30T03:55:08.703Z"
+generated_at: "2026-03-30T03:58:11.748Z"
 status: "active"
 ---
 

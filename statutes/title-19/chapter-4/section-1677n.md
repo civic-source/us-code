@@ -3,9 +3,9 @@ title: "Section 1677n - Antidumping petitions by third countries"
 usc_title: 19
 usc_section: "1677n"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 1677n"
-generated_at: "2026-03-30T03:54:18.997Z"
+generated_at: "2026-03-30T03:57:00.564Z"
 status: "active"
 ---
 

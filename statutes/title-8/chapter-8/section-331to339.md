@@ -3,9 +3,9 @@ title: "Section 331to339 - Repealed. Pub. L. 93–461 , Oct. 20, 1974 , 88 Stat.
 usc_title: 8
 usc_section: "331to339"
 chapter: 8
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "8 U.S.C. § 331to339"
-generated_at: "2026-03-30T03:53:37.062Z"
+generated_at: "2026-03-30T03:56:35.075Z"
 status: "repealed"
 ---
 

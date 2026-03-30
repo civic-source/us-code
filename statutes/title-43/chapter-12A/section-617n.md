@@ -3,9 +3,9 @@ title: "Section 617n - Projects for irrigation, generation of electric power, an
 usc_title: 43
 usc_section: "617n"
 chapter: 12
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "43 U.S.C. § 617n"
-generated_at: "2026-03-30T03:55:45.061Z"
+generated_at: "2026-03-30T03:58:20.194Z"
 status: "active"
 ---
 

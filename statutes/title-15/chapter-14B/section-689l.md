@@ -3,9 +3,9 @@ title: "Section 689l - Injunctions and other orders"
 usc_title: 15
 usc_section: "689l"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 689l"
-generated_at: "2026-03-30T03:54:09.387Z"
+generated_at: "2026-03-30T03:56:54.484Z"
 status: "active"
 ---
 

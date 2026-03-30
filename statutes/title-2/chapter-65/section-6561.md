@@ -3,9 +3,9 @@ title: "Section 6561 - Advance payments by Secretary of Senate"
 usc_title: 2
 usc_section: "6561"
 chapter: 65
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 6561"
-generated_at: "2026-03-30T03:53:30.691Z"
+generated_at: "2026-03-30T03:56:19.822Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 167to167h - Repealed. Pub. L. 110–161, div. H, title I, § 100
 usc_title: 2
 usc_section: "167to167h"
 chapter: 5
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 167to167h"
-generated_at: "2026-03-30T03:53:30.627Z"
+generated_at: "2026-03-30T03:56:19.758Z"
 status: "repealed"
 ---
 

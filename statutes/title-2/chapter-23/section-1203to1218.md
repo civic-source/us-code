@@ -3,9 +3,9 @@ title: "Section 1203to1218 - Repealed. Pub. L. 104–1, title V, § 504(a)(2) , 
 usc_title: 2
 usc_section: "1203to1218"
 chapter: 23
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 1203to1218"
-generated_at: "2026-03-30T03:53:30.656Z"
+generated_at: "2026-03-30T03:56:19.788Z"
 status: "repealed"
 ---
 

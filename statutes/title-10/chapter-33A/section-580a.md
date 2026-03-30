@@ -3,9 +3,9 @@ title: "Section 580a - Enhanced authority for selective early discharges"
 usc_title: 10
 usc_section: "580a"
 chapter: 33
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 580a"
-generated_at: "2026-03-30T03:53:58.620Z"
+generated_at: "2026-03-30T03:56:39.512Z"
 status: "active"
 ---
 

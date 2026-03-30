@@ -3,9 +3,9 @@ title: "Section 503 - Absence without leave or over leave"
 usc_title: 37
 usc_section: "503"
 chapter: 9
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "37 U.S.C. § 503"
-generated_at: "2026-03-30T03:55:10.634Z"
+generated_at: "2026-03-30T03:58:14.581Z"
 status: "active"
 ---
 

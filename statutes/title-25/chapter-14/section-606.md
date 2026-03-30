@@ -3,9 +3,9 @@ title: "Section 606 - Back pay and annuities on enrollment of new members"
 usc_title: 25
 usc_section: "606"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 606"
-generated_at: "2026-03-30T03:54:47.087Z"
+generated_at: "2026-03-30T03:57:17.239Z"
 status: "active"
 ---
 

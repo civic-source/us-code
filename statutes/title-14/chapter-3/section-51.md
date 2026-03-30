@@ -3,9 +3,9 @@ title: "Section 51 - Retirement"
 usc_title: 14
 usc_section: "51"
 chapter: 3
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "14 U.S.C. § 51"
-generated_at: "2026-03-30T03:54:09.783Z"
+generated_at: "2026-03-30T03:56:54.860Z"
 status: "active"
 ---
 

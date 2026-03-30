@@ -3,9 +3,9 @@ title: "Section 254e - Liability insurance for members of mission"
 usc_title: 22
 usc_section: "254e"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "22 U.S.C. § 254e"
-generated_at: "2026-03-30T03:54:40.725Z"
+generated_at: "2026-03-30T03:57:40.754Z"
 status: "active"
 ---
 

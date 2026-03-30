@@ -3,9 +3,9 @@ title: "Section 1773i - Actions by Secretary"
 usc_title: 25
 usc_section: "1773i"
 chapter: 19
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 1773i"
-generated_at: "2026-03-30T03:54:47.126Z"
+generated_at: "2026-03-30T03:57:17.297Z"
 status: "active"
 ---
 

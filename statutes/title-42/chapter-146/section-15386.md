@@ -3,9 +3,9 @@ title: "Section 15386 - Study and report on free absentee ballot postage"
 usc_title: 42
 usc_section: "15386"
 chapter: 146
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 15386"
-generated_at: "2026-03-30T03:55:44.202Z"
+generated_at: "2026-03-30T03:58:37.187Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2721 - Severability"
 usc_title: 25
 usc_section: "2721"
 chapter: 29
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 2721"
-generated_at: "2026-03-30T03:54:47.145Z"
+generated_at: "2026-03-30T03:57:17.325Z"
 status: "active"
 ---
 

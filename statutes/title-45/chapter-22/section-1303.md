@@ -3,9 +3,9 @@ title: "Section 1303 - Definitions"
 usc_title: 45
 usc_section: "1303"
 chapter: 22
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "45 U.S.C. § 1303"
-generated_at: "2026-03-30T03:55:48.258Z"
+generated_at: "2026-03-30T03:58:19.500Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3714 - Grant program for State and local domestic preparedness s
 usc_title: 42
 usc_section: "3714"
 chapter: 46
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 3714"
-generated_at: "2026-03-30T03:55:43.920Z"
+generated_at: "2026-03-30T03:58:36.748Z"
 status: "active"
 ---
 

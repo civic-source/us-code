@@ -3,9 +3,9 @@ title: "Section 612to617 - Repealed. Pub. L. 94–283, title II, § 201(a) , May
 usc_title: 18
 usc_section: "612to617"
 chapter: 29
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "18 U.S.C. § 612to617"
-generated_at: "2026-03-30T03:54:20.345Z"
+generated_at: "2026-03-30T03:56:58.684Z"
 status: "repealed"
 ---
 

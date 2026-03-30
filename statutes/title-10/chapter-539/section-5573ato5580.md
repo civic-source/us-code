@@ -3,9 +3,9 @@ title: "Section 5573ato5580 - Repealed. Pub. L. 96–513, title III, § 321 , De
 usc_title: 10
 usc_section: "5573ato5580"
 chapter: 539
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 5573ato5580"
-generated_at: "2026-03-30T03:53:58.760Z"
+generated_at: "2026-03-30T03:56:39.643Z"
 status: "repealed"
 ---
 

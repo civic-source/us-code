@@ -3,9 +3,9 @@ title: "Section 11608 - Collection, maintenance, and dissemination of informatio
 usc_title: 42
 usc_section: "11608"
 chapter: 121
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 11608"
-generated_at: "2026-03-30T03:55:44.129Z"
+generated_at: "2026-03-30T03:58:37.080Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1898 - Repealed. Pub. L. 86–472 , ch. II, § 203(d), May 14, 1
 usc_title: 22
 usc_section: "1898"
 chapter: 24
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "22 U.S.C. § 1898"
-generated_at: "2026-03-30T03:54:40.773Z"
+generated_at: "2026-03-30T03:57:40.801Z"
 status: "repealed"
 ---
 

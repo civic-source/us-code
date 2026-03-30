@@ -3,9 +3,9 @@ title: "Section 485 - Exchange of lands in national forests; cutting timber in n
 usc_title: 16
 usc_section: "485"
 chapter: 2
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 485"
-generated_at: "2026-03-30T03:54:31.411Z"
+generated_at: "2026-03-30T03:57:07.519Z"
 status: "active"
 ---
 

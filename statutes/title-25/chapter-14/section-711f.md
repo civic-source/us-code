@@ -3,9 +3,9 @@ title: "Section 711f - Rules and regulations"
 usc_title: 25
 usc_section: "711f"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 711f"
-generated_at: "2026-03-30T03:54:47.094Z"
+generated_at: "2026-03-30T03:57:17.250Z"
 status: "active"
 ---
 

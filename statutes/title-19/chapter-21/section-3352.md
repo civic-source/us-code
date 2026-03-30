@@ -3,9 +3,9 @@ title: "Section 3352 - Commencing of action for relief"
 usc_title: 19
 usc_section: "3352"
 chapter: 21
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 3352"
-generated_at: "2026-03-30T03:54:19.038Z"
+generated_at: "2026-03-30T03:57:00.606Z"
 status: "active"
 ---
 

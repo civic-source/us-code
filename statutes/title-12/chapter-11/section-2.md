@@ -3,9 +3,9 @@ title: "Section 2 - Authorization for State housing finance agencies and nonprof
 usc_title: 12
 usc_section: "2"
 chapter: 11
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T03:54:05.300Z"
+generated_at: "2026-03-30T03:56:51.855Z"
 status: "active"
 ---
 

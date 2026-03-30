@@ -3,9 +3,9 @@ title: "Section 684 - Renumbered § 12316]"
 usc_title: 10
 usc_section: "684"
 chapter: 39
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 684"
-generated_at: "2026-03-30T03:53:58.625Z"
+generated_at: "2026-03-30T03:56:39.518Z"
 status: "renumbered"
 ---
 

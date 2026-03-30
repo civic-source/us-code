@@ -3,9 +3,9 @@ title: "Section 8984 - Benefits"
 usc_title: 5
 usc_section: "8984"
 chapter: 89
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "5 U.S.C. § 8984"
-generated_at: "2026-03-30T03:53:28.505Z"
+generated_at: "2026-03-30T03:56:31.750Z"
 status: "active"
 ---
 

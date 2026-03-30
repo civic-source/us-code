@@ -3,9 +3,9 @@ title: "Section 5927 - Repealed. Pub. L. 104–127, title VIII, § 864 , Apr. 4,
 usc_title: 7
 usc_section: "5927"
 chapter: 88
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "7 U.S.C. § 5927"
-generated_at: "2026-03-30T03:53:51.403Z"
+generated_at: "2026-03-30T03:56:45.188Z"
 status: "repealed"
 ---
 

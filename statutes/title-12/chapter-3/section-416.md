@@ -3,9 +3,9 @@ title: "Section 416 - Withdrawal of collateral deposited to protect notes and su
 usc_title: 12
 usc_section: "416"
 chapter: 3
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "12 U.S.C. § 416"
-generated_at: "2026-03-30T03:54:05.284Z"
+generated_at: "2026-03-30T03:56:51.839Z"
 status: "active"
 ---
 

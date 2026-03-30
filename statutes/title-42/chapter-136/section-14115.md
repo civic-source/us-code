@@ -3,9 +3,9 @@ title: "Section 14115 - Eligibility"
 usc_title: 42
 usc_section: "14115"
 chapter: 136
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 14115"
-generated_at: "2026-03-30T03:55:44.187Z"
+generated_at: "2026-03-30T03:58:37.164Z"
 status: "active"
 ---
 

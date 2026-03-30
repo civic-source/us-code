@@ -3,9 +3,9 @@ title: "Section 1651 - Other laws, powers and authorities conferred thereby, and
 usc_title: 50
 usc_section: "1651"
 chapter: 34
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "50 U.S.C. § 1651"
-generated_at: "2026-03-30T03:55:58.490Z"
+generated_at: "2026-03-30T03:58:42.222Z"
 status: "active"
 ---
 

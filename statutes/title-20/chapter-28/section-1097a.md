@@ -3,9 +3,9 @@ title: "Section 1097a - Administrative subpoenas"
 usc_title: 20
 usc_section: "1097a"
 chapter: 28
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "20 U.S.C. § 1097a"
-generated_at: "2026-03-30T03:54:23.788Z"
+generated_at: "2026-03-30T03:57:03.240Z"
 status: "active"
 ---
 

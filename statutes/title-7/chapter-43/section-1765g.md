@@ -3,9 +3,9 @@ title: "Section 1765g - Availability of reports and dispatches"
 usc_title: 7
 usc_section: "1765g"
 chapter: 43
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "7 U.S.C. § 1765g"
-generated_at: "2026-03-30T03:53:51.321Z"
+generated_at: "2026-03-30T03:56:45.077Z"
 status: "active"
 ---
 

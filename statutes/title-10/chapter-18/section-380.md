@@ -3,9 +3,9 @@ title: "Section 380 - Enhancement of cooperation with civilian law enforcement o
 usc_title: 10
 usc_section: "380"
 chapter: 18
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 380"
-generated_at: "2026-03-30T03:53:58.612Z"
+generated_at: "2026-03-30T03:56:39.505Z"
 status: "active"
 ---
 

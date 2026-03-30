@@ -3,9 +3,9 @@ title: "Section 5337 - Repealed. Pub. L. 95–454, title VIII, § 801(a)(2) , Oc
 usc_title: 5
 usc_section: "5337"
 chapter: 53
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "5 U.S.C. § 5337"
-generated_at: "2026-03-30T03:53:28.443Z"
+generated_at: "2026-03-30T03:56:31.698Z"
 status: "repealed"
 ---
 

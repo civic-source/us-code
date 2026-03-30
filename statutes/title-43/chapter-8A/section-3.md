@@ -3,9 +3,9 @@ title: "Section 3 - Availability of contributions received"
 usc_title: 43
 usc_section: "3"
 chapter: 8
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-30T03:55:45.046Z"
+generated_at: "2026-03-30T03:58:20.173Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 114a - Renumbered § 221]"
 usc_title: 10
 usc_section: "114a"
 chapter: 2
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 114a"
-generated_at: "2026-03-30T03:53:58.598Z"
+generated_at: "2026-03-30T03:56:39.490Z"
 status: "renumbered"
 ---
 

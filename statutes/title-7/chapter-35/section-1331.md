@@ -3,9 +3,9 @@ title: "Section 1331 - Legislative finding of effect on interstate and foreign c
 usc_title: 7
 usc_section: "1331"
 chapter: 35
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "7 U.S.C. § 1331"
-generated_at: "2026-03-30T03:53:51.279Z"
+generated_at: "2026-03-30T03:56:45.035Z"
 status: "active"
 ---
 

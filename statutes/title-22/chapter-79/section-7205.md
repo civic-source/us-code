@@ -3,9 +3,9 @@ title: "Section 7205 - State sponsors of international terrorism"
 usc_title: 22
 usc_section: "7205"
 chapter: 79
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "22 U.S.C. § 7205"
-generated_at: "2026-03-30T03:54:40.901Z"
+generated_at: "2026-03-30T03:57:40.930Z"
 status: "active"
 ---
 

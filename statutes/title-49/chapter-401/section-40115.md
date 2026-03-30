@@ -3,9 +3,9 @@ title: "Section 40115 - Withholding information"
 usc_title: 49
 usc_section: "40115"
 chapter: 401
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "49 U.S.C. § 40115"
-generated_at: "2026-03-30T03:56:01.752Z"
+generated_at: "2026-03-30T03:58:45.493Z"
 status: "active"
 ---
 

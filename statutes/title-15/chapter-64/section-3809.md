@@ -3,9 +3,9 @@ title: "Section 3809 - Authorization of appropriations; required funding"
 usc_title: 15
 usc_section: "3809"
 chapter: 64
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 3809"
-generated_at: "2026-03-30T03:54:09.490Z"
+generated_at: "2026-03-30T03:56:54.593Z"
 status: "active"
 ---
 

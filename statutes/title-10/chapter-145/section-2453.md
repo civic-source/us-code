@@ -3,9 +3,9 @@ title: "Section 2453 - Supply catalog: distribution and use"
 usc_title: 10
 usc_section: "2453"
 chapter: 145
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2453"
-generated_at: "2026-03-30T03:53:58.716Z"
+generated_at: "2026-03-30T03:56:39.603Z"
 status: "active"
 ---
 

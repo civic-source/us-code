@@ -3,9 +3,9 @@ title: "Section 8153 - Sharing of health-care resources"
 usc_title: 38
 usc_section: "8153"
 chapter: 81
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "38 U.S.C. § 8153"
-generated_at: "2026-03-30T03:55:27.038Z"
+generated_at: "2026-03-30T03:58:16.888Z"
 status: "active"
 ---
 

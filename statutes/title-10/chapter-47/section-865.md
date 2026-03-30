@@ -3,9 +3,9 @@ title: "Section 865 - Art. 65. Disposition of records"
 usc_title: 10
 usc_section: "865"
 chapter: 47
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 865"
-generated_at: "2026-03-30T03:53:58.632Z"
+generated_at: "2026-03-30T03:56:39.524Z"
 status: "active"
 ---
 

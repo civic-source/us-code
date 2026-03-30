@@ -3,9 +3,9 @@ title: "Section 15406 - Requirement for public notice and comment"
 usc_title: 42
 usc_section: "15406"
 chapter: 146
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 15406"
-generated_at: "2026-03-30T03:55:44.203Z"
+generated_at: "2026-03-30T03:58:37.188Z"
 status: "active"
 ---
 

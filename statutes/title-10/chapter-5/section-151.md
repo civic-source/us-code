@@ -3,9 +3,9 @@ title: "Section 151 - Joint Chiefs of Staff: composition; functions"
 usc_title: 10
 usc_section: "151"
 chapter: 5
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 151"
-generated_at: "2026-03-30T03:53:58.604Z"
+generated_at: "2026-03-30T03:56:39.497Z"
 status: "active"
 ---
 

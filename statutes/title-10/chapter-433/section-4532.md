@@ -3,9 +3,9 @@ title: "Section 4532 - Factories and arsenals: manufacture at; abolition of"
 usc_title: 10
 usc_section: "4532"
 chapter: 433
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 4532"
-generated_at: "2026-03-30T03:53:58.752Z"
+generated_at: "2026-03-30T03:56:39.637Z"
 status: "active"
 ---
 

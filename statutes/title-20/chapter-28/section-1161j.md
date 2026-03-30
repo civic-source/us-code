@@ -3,9 +3,9 @@ title: "Section 1161j - Improving science, technology, engineering, and mathemat
 usc_title: 20
 usc_section: "1161j"
 chapter: 28
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "20 U.S.C. § 1161j"
-generated_at: "2026-03-30T03:54:23.805Z"
+generated_at: "2026-03-30T03:57:03.258Z"
 status: "active"
 ---
 

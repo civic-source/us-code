@@ -3,9 +3,9 @@ title: "Section 5312 - Research, development, demonstration, and deployment proj
 usc_title: 49
 usc_section: "5312"
 chapter: 53
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "49 U.S.C. § 5312"
-generated_at: "2026-03-30T03:56:01.690Z"
+generated_at: "2026-03-30T03:58:45.425Z"
 status: "active"
 ---
 

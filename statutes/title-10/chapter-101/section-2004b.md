@@ -3,9 +3,9 @@ title: "Section 2004b - Detail of commissioned officers as students at schools o
 usc_title: 10
 usc_section: "2004b"
 chapter: 101
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2004b"
-generated_at: "2026-03-30T03:53:58.682Z"
+generated_at: "2026-03-30T03:56:39.571Z"
 status: "active"
 ---
 

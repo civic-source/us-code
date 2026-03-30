@@ -3,9 +3,9 @@ title: "Section 6a - Admission and special recreation use fees"
 usc_title: 16
 usc_section: "6a"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 6a"
-generated_at: "2026-03-30T03:54:31.360Z"
+generated_at: "2026-03-30T03:57:07.469Z"
 status: "active"
 ---
 

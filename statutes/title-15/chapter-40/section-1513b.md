@@ -3,9 +3,9 @@ title: "Section 1513b - Cost estimates for National Institute of Standards and T
 usc_title: 15
 usc_section: "1513b"
 chapter: 40
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 1513b"
-generated_at: "2026-03-30T03:54:09.420Z"
+generated_at: "2026-03-30T03:56:54.518Z"
 status: "active"
 ---
 

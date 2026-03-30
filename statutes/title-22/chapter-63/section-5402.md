@@ -3,9 +3,9 @@ title: "Section 5402 - Scope of authority"
 usc_title: 22
 usc_section: "5402"
 chapter: 63
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "22 U.S.C. § 5402"
-generated_at: "2026-03-30T03:54:40.871Z"
+generated_at: "2026-03-30T03:57:40.899Z"
 status: "active"
 ---
 

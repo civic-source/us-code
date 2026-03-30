@@ -3,9 +3,9 @@ title: "Section 4302 - Per annum rate of compensation of Chief of Staff of Joint
 usc_title: 2
 usc_section: "4302"
 chapter: 43
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 4302"
-generated_at: "2026-03-30T03:53:30.678Z"
+generated_at: "2026-03-30T03:56:19.810Z"
 status: "active"
 ---
 

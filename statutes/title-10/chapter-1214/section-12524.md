@@ -3,9 +3,9 @@ title: "Section 12524 - Enrollment and election of benefits"
 usc_title: 10
 usc_section: "12524"
 chapter: 1214
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 12524"
-generated_at: "2026-03-30T03:53:58.797Z"
+generated_at: "2026-03-30T03:56:39.677Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24105 - Congestion grants"
 usc_title: 49
 usc_section: "24105"
 chapter: 241
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "49 U.S.C. § 24105"
-generated_at: "2026-03-30T03:56:01.725Z"
+generated_at: "2026-03-30T03:58:45.461Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15541 - State defined"
 usc_title: 42
 usc_section: "15541"
 chapter: 146
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 15541"
-generated_at: "2026-03-30T03:55:44.205Z"
+generated_at: "2026-03-30T03:58:37.190Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 544 - Repealed. Aug. 19, 1968 , Pub. L. 88–448, § 402(a)(9) ,
 usc_title: 33
 usc_section: "544"
 chapter: 12
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "33 U.S.C. § 544"
-generated_at: "2026-03-30T03:55:08.702Z"
+generated_at: "2026-03-30T03:58:11.746Z"
 status: "repealed"
 ---
 

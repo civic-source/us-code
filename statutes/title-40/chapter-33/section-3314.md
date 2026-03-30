@@ -3,9 +3,9 @@ title: "Section 3314 - Delegation"
 usc_title: 40
 usc_section: "3314"
 chapter: 33
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "40 U.S.C. § 3314"
-generated_at: "2026-03-30T03:55:11.947Z"
+generated_at: "2026-03-30T03:58:14.119Z"
 status: "active"
 ---
 

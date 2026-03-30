@@ -3,9 +3,9 @@ title: "Section 2409 - Contractor employees: protection from reprisal for disclo
 usc_title: 10
 usc_section: "2409"
 chapter: 141
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2409"
-generated_at: "2026-03-30T03:53:58.712Z"
+generated_at: "2026-03-30T03:56:39.599Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 853to859 - Repealed, Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "853to859"
 chapter: 17
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "29 U.S.C. § 853to859"
-generated_at: "2026-03-30T03:55:04.734Z"
+generated_at: "2026-03-30T03:57:58.610Z"
 status: "repealed"
 ---
 

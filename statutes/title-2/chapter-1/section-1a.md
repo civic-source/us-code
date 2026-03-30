@@ -3,9 +3,9 @@ title: "Section 1a - Election to be certified by governor"
 usc_title: 2
 usc_section: "1a"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 1a"
-generated_at: "2026-03-30T03:53:30.617Z"
+generated_at: "2026-03-30T03:56:19.750Z"
 status: "active"
 ---
 

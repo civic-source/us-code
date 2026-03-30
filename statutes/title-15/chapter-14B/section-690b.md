@@ -3,9 +3,9 @@ title: "Section 690b - Establishment"
 usc_title: 15
 usc_section: "690b"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 690b"
-generated_at: "2026-03-30T03:54:09.387Z"
+generated_at: "2026-03-30T03:56:54.485Z"
 status: "active"
 ---
 

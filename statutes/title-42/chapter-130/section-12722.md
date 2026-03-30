@@ -3,9 +3,9 @@ title: "Section 12722 - Purposes"
 usc_title: 42
 usc_section: "12722"
 chapter: 130
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 12722"
-generated_at: "2026-03-30T03:55:44.154Z"
+generated_at: "2026-03-30T03:58:37.117Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11362 - Discharge coordination policy"
 usc_title: 42
 usc_section: "11362"
 chapter: 119
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 11362"
-generated_at: "2026-03-30T03:55:44.124Z"
+generated_at: "2026-03-30T03:58:37.071Z"
 status: "active"
 ---
 

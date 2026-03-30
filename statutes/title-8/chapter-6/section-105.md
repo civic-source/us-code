@@ -3,9 +3,9 @@ title: "Section 105 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(13)
 usc_title: 8
 usc_section: "105"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "8 U.S.C. § 105"
-generated_at: "2026-03-30T03:53:37.061Z"
+generated_at: "2026-03-30T03:56:35.074Z"
 status: "repealed"
 ---
 

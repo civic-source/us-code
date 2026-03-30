@@ -3,9 +3,9 @@ title: "Section 6953 - Midshipmen: appointment"
 usc_title: 10
 usc_section: "6953"
 chapter: 603
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 6953"
-generated_at: "2026-03-30T03:53:58.765Z"
+generated_at: "2026-03-30T03:56:39.648Z"
 status: "active"
 ---
 

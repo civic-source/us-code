@@ -3,9 +3,9 @@ title: "Section 3831a - Repealed. Pub. L. 113–79, title II, § 2702(a) , Feb. 
 usc_title: 16
 usc_section: "3831a"
 chapter: 58
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 3831a"
-generated_at: "2026-03-30T03:54:31.568Z"
+generated_at: "2026-03-30T03:57:07.677Z"
 status: "repealed"
 ---
 

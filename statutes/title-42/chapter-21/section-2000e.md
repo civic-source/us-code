@@ -3,9 +3,9 @@ title: "Section 2000e - Definitions"
 usc_title: 42
 usc_section: "2000e"
 chapter: 21
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 2000e"
-generated_at: "2026-03-30T03:55:43.871Z"
+generated_at: "2026-03-30T03:58:36.663Z"
 status: "active"
 ---
 

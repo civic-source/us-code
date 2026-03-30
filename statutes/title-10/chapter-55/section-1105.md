@@ -3,9 +3,9 @@ title: "Section 1105 - Specialized treatment facility program"
 usc_title: 10
 usc_section: "1105"
 chapter: 55
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 1105"
-generated_at: "2026-03-30T03:53:58.653Z"
+generated_at: "2026-03-30T03:56:39.544Z"
 status: "active"
 ---
 

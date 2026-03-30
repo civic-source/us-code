@@ -3,9 +3,9 @@ title: "Section 9225 - Programs for corrections education and other institutiona
 usc_title: 20
 usc_section: "9225"
 chapter: 73
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "20 U.S.C. § 9225"
-generated_at: "2026-03-30T03:54:23.922Z"
+generated_at: "2026-03-30T03:57:03.381Z"
 status: "active"
 ---
 

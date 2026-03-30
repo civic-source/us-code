@@ -3,9 +3,9 @@ title: "Section 6015 - Repealed. Pub. L. 103–160, div. A, title V, § 541(a) ,
 usc_title: 10
 usc_section: "6015"
 chapter: 555
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 6015"
-generated_at: "2026-03-30T03:53:58.762Z"
+generated_at: "2026-03-30T03:56:39.645Z"
 status: "repealed"
 ---
 

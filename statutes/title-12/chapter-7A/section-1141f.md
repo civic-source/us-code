@@ -3,9 +3,9 @@ title: "Section 1141f - Miscellaneous loan provisions"
 usc_title: 12
 usc_section: "1141f"
 chapter: 7
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "12 U.S.C. § 1141f"
-generated_at: "2026-03-30T03:54:05.293Z"
+generated_at: "2026-03-30T03:56:51.849Z"
 status: "active"
 ---
 

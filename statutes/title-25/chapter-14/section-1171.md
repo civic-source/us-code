@@ -3,9 +3,9 @@ title: "Section 1171 - Distribution of funds; authorized spending; per capita pa
 usc_title: 25
 usc_section: "1171"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 1171"
-generated_at: "2026-03-30T03:54:47.104Z"
+generated_at: "2026-03-30T03:57:17.264Z"
 status: "active"
 ---
 

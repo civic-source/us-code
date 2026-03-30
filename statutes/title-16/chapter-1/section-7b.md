@@ -3,9 +3,9 @@ title: "Section 7b - Acquisition of lands for airport use; contracts for operati
 usc_title: 16
 usc_section: "7b"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 7b"
-generated_at: "2026-03-30T03:54:31.278Z"
+generated_at: "2026-03-30T03:57:07.387Z"
 status: "active"
 ---
 

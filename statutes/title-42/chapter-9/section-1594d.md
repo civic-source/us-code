@@ -3,9 +3,9 @@ title: "Section 1594d - Appropriations; use of quarters allowances"
 usc_title: 42
 usc_section: "1594d"
 chapter: 9
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 1594d"
-generated_at: "2026-03-30T03:55:43.838Z"
+generated_at: "2026-03-30T03:58:36.589Z"
 status: "active"
 ---
 

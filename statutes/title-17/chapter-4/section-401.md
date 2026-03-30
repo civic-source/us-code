@@ -3,9 +3,9 @@ title: "Section 401 - Notice of copyright: Visually perceptible copies"
 usc_title: 17
 usc_section: "401"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "17 U.S.C. § 401"
-generated_at: "2026-03-30T03:54:27.545Z"
+generated_at: "2026-03-30T03:56:57.138Z"
 status: "active"
 ---
 

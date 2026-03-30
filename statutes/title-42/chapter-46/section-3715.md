@@ -3,9 +3,9 @@ title: "Section 3715 - Office of Justice Programs grants, cooperative agreements
 usc_title: 42
 usc_section: "3715"
 chapter: 46
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 3715"
-generated_at: "2026-03-30T03:55:43.920Z"
+generated_at: "2026-03-30T03:58:36.748Z"
 status: "active"
 ---
 

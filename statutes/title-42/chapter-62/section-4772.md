@@ -3,9 +3,9 @@ title: "Section 4772 - Effective date of grant provisions"
 usc_title: 42
 usc_section: "4772"
 chapter: 62
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 4772"
-generated_at: "2026-03-30T03:55:43.945Z"
+generated_at: "2026-03-30T03:58:36.788Z"
 status: "active"
 ---
 

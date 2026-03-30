@@ -3,9 +3,9 @@ title: "Section 1747 - Purpose of subchapter; authorization; terms and condition
 usc_title: 12
 usc_section: "1747"
 chapter: 13
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "12 U.S.C. § 1747"
-generated_at: "2026-03-30T03:54:05.351Z"
+generated_at: "2026-03-30T03:56:51.902Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2882 - Definitions"
 usc_title: 29
 usc_section: "2882"
 chapter: 30
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "29 U.S.C. § 2882"
-generated_at: "2026-03-30T03:55:04.776Z"
+generated_at: "2026-03-30T03:57:58.667Z"
 status: "active"
 ---
 

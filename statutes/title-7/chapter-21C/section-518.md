@@ -3,9 +3,9 @@ title: "Section 518 - Definitions"
 usc_title: 7
 usc_section: "518"
 chapter: 21
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "7 U.S.C. § 518"
-generated_at: "2026-03-30T03:53:51.259Z"
+generated_at: "2026-03-30T03:56:45.015Z"
 status: "active"
 ---
 

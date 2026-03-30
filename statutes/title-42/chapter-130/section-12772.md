@@ -3,9 +3,9 @@ title: "Section 12772 - Project-specific assistance to community housing develop
 usc_title: 42
 usc_section: "12772"
 chapter: 130
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 12772"
-generated_at: "2026-03-30T03:55:44.156Z"
+generated_at: "2026-03-30T03:58:37.120Z"
 status: "active"
 ---
 

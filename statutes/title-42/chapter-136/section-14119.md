@@ -3,9 +3,9 @@ title: "Section 14119 - Authorization of appropriations"
 usc_title: 42
 usc_section: "14119"
 chapter: 136
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 14119"
-generated_at: "2026-03-30T03:55:44.188Z"
+generated_at: "2026-03-30T03:58:37.165Z"
 status: "active"
 ---
 

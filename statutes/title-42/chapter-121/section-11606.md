@@ -3,9 +3,9 @@ title: "Section 11606 - United States Central Authority"
 usc_title: 42
 usc_section: "11606"
 chapter: 121
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 11606"
-generated_at: "2026-03-30T03:55:44.129Z"
+generated_at: "2026-03-30T03:58:37.080Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14503 - Discharge of officers with less than six years of commis
 usc_title: 10
 usc_section: "14503"
 chapter: 1407
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 14503"
-generated_at: "2026-03-30T03:53:58.802Z"
+generated_at: "2026-03-30T03:56:39.681Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1629e - Settlement Trust option"
 usc_title: 43
 usc_section: "1629e"
 chapter: 33
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "43 U.S.C. § 1629e"
-generated_at: "2026-03-30T03:55:45.088Z"
+generated_at: "2026-03-30T03:58:20.229Z"
 status: "active"
 ---
 

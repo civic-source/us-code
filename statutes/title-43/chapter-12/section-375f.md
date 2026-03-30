@@ -3,9 +3,9 @@ title: "Section 375f - Rules and regulations"
 usc_title: 43
 usc_section: "375f"
 chapter: 12
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "43 U.S.C. § 375f"
-generated_at: "2026-03-30T03:55:45.048Z"
+generated_at: "2026-03-30T03:58:20.176Z"
 status: "active"
 ---
 

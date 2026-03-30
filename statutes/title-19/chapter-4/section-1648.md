@@ -3,9 +3,9 @@ title: "Section 1648 - Uncertified checks, United States notes, and national ban
 usc_title: 19
 usc_section: "1648"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 1648"
-generated_at: "2026-03-30T03:54:18.986Z"
+generated_at: "2026-03-30T03:57:00.552Z"
 status: "active"
 ---
 

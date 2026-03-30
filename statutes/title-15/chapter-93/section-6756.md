@@ -3,9 +3,9 @@ title: "Section 6756 - Board of directors"
 usc_title: 15
 usc_section: "6756"
 chapter: 93
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 6756"
-generated_at: "2026-03-30T03:54:09.511Z"
+generated_at: "2026-03-30T03:56:54.615Z"
 status: "active"
 ---
 

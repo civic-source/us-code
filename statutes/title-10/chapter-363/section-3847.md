@@ -3,9 +3,9 @@ title: "Section 3847 - Repealed. Pub. L. 90–130, § 1(12)(A) , Nov. 8, 1967 , 
 usc_title: 10
 usc_section: "3847"
 chapter: 363
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 3847"
-generated_at: "2026-03-30T03:53:58.749Z"
+generated_at: "2026-03-30T03:56:39.634Z"
 status: "repealed"
 ---
 

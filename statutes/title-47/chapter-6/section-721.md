@@ -3,9 +3,9 @@ title: "Section 721 - Implementation of policy"
 usc_title: 47
 usc_section: "721"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "47 U.S.C. § 721"
-generated_at: "2026-03-30T03:55:51.148Z"
+generated_at: "2026-03-30T03:58:40.968Z"
 status: "active"
 ---
 

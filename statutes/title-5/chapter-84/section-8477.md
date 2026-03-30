@@ -3,9 +3,9 @@ title: "Section 8477 - Fiduciary responsibilities; liability and penalties"
 usc_title: 5
 usc_section: "8477"
 chapter: 84
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "5 U.S.C. § 8477"
-generated_at: "2026-03-30T03:53:28.497Z"
+generated_at: "2026-03-30T03:56:31.743Z"
 status: "active"
 ---
 

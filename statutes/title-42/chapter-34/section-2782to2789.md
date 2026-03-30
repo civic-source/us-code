@@ -3,9 +3,9 @@ title: "Section 2782to2789 - Omitted"
 usc_title: 42
 usc_section: "2782to2789"
 chapter: 34
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 2782to2789"
-generated_at: "2026-03-30T03:55:43.897Z"
+generated_at: "2026-03-30T03:58:36.709Z"
 status: "omitted"
 ---
 

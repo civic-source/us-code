@@ -3,9 +3,9 @@ title: "Section 610 - State infrastructure bank program"
 usc_title: 23
 usc_section: "610"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "23 U.S.C. § 610"
-generated_at: "2026-03-30T03:54:50.927Z"
+generated_at: "2026-03-30T03:57:20.931Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4603 - Semiconductor Technology Council"
 usc_title: 15
 usc_section: "4603"
 chapter: 72
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 4603"
-generated_at: "2026-03-30T03:54:09.495Z"
+generated_at: "2026-03-30T03:56:54.597Z"
 status: "active"
 ---
 

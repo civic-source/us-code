@@ -3,9 +3,9 @@ title: "Section 134 - Incidental expenses of law library"
 usc_title: 2
 usc_section: "134"
 chapter: 5
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 134"
-generated_at: "2026-03-30T03:53:30.624Z"
+generated_at: "2026-03-30T03:56:19.755Z"
 status: "active"
 ---
 

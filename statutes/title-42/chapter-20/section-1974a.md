@@ -3,9 +3,9 @@ title: "Section 1974a - Theft, destruction, concealment, mutilation, or alterati
 usc_title: 42
 usc_section: "1974a"
 chapter: 20
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 1974a"
-generated_at: "2026-03-30T03:55:43.868Z"
+generated_at: "2026-03-30T03:58:36.656Z"
 status: "active"
 ---
 

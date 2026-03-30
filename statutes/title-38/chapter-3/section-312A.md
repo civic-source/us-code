@@ -3,9 +3,9 @@ title: "Section 312A - Director of Construction and Facilities Management"
 usc_title: 38
 usc_section: "312A"
 chapter: 3
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "38 U.S.C. § 312A"
-generated_at: "2026-03-30T03:55:26.984Z"
+generated_at: "2026-03-30T03:58:16.809Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18to18c - Transferred"
 usc_title: 29
 usc_section: "18to18c"
 chapter: 2
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "29 U.S.C. § 18to18c"
-generated_at: "2026-03-30T03:55:04.709Z"
+generated_at: "2026-03-30T03:57:58.575Z"
 status: "transferred"
 ---
 

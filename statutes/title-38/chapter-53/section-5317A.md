@@ -3,9 +3,9 @@ title: "Section 5317A - Use of income information from other agencies: independe
 usc_title: 38
 usc_section: "5317A"
 chapter: 53
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "38 U.S.C. § 5317A"
-generated_at: "2026-03-30T03:55:27.022Z"
+generated_at: "2026-03-30T03:58:16.865Z"
 status: "active"
 ---
 

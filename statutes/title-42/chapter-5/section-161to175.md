@@ -3,9 +3,9 @@ title: "Section 161to175 - Repealed. Jan. 22, 1927, ch. 53, § 2 , 44 Stat. 1024
 usc_title: 42
 usc_section: "161to175"
 chapter: 5
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 161to175"
-generated_at: "2026-03-30T03:55:43.512Z"
+generated_at: "2026-03-30T03:58:36.070Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 410m - Ascertainment of owners’ election regarding reservation
 usc_title: 16
 usc_section: "410m"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 410m"
-generated_at: "2026-03-30T03:54:31.316Z"
+generated_at: "2026-03-30T03:57:07.424Z"
 status: "active"
 ---
 

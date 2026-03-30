@@ -3,9 +3,9 @@ title: "Section 1645d - Claims based on ownership interest in or debt or other o
 usc_title: 22
 usc_section: "1645d"
 chapter: 21
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "22 U.S.C. § 1645d"
-generated_at: "2026-03-30T03:54:40.771Z"
+generated_at: "2026-03-30T03:57:40.800Z"
 status: "active"
 ---
 

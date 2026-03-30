@@ -3,9 +3,9 @@ title: "Section 7480 - Special agents of the Naval Criminal Investigative Servic
 usc_title: 10
 usc_section: "7480"
 chapter: 643
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 7480"
-generated_at: "2026-03-30T03:53:58.773Z"
+generated_at: "2026-03-30T03:56:39.655Z"
 status: "active"
 ---
 

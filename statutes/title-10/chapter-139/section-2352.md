@@ -3,9 +3,9 @@ title: "Section 2352 - Defense Advanced Research Projects Agency: biennial strat
 usc_title: 10
 usc_section: "2352"
 chapter: 139
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2352"
-generated_at: "2026-03-30T03:53:58.707Z"
+generated_at: "2026-03-30T03:56:39.595Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 844 - Art. 44. Former jeopardy"
 usc_title: 10
 usc_section: "844"
 chapter: 47
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 844"
-generated_at: "2026-03-30T03:53:58.631Z"
+generated_at: "2026-03-30T03:56:39.522Z"
 status: "active"
 ---
 

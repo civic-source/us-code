@@ -3,9 +3,9 @@ title: "Section 1701 - National Recording Registry of the Library of Congress"
 usc_title: 2
 usc_section: "1701"
 chapter: 27
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "2 U.S.C. § 1701"
-generated_at: "2026-03-30T03:53:30.663Z"
+generated_at: "2026-03-30T03:56:19.795Z"
 status: "active"
 ---
 

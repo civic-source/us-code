@@ -3,9 +3,9 @@ title: "Section 4101 - Definitions"
 usc_title: 18
 usc_section: "4101"
 chapter: 306
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "18 U.S.C. § 4101"
-generated_at: "2026-03-30T03:54:20.411Z"
+generated_at: "2026-03-30T03:56:58.751Z"
 status: "active"
 ---
 

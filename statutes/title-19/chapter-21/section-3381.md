@@ -3,9 +3,9 @@ title: "Section 3381 - Monitoring"
 usc_title: 19
 usc_section: "3381"
 chapter: 21
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 3381"
-generated_at: "2026-03-30T03:54:19.040Z"
+generated_at: "2026-03-30T03:57:00.607Z"
 status: "active"
 ---
 

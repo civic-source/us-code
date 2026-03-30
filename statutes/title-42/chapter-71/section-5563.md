@@ -3,9 +3,9 @@ title: "Section 5563 - Project information to Congressional committees"
 usc_title: 42
 usc_section: "5563"
 chapter: 71
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 5563"
-generated_at: "2026-03-30T03:55:43.967Z"
+generated_at: "2026-03-30T03:58:36.826Z"
 status: "active"
 ---
 

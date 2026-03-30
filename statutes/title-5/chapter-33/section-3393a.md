@@ -3,9 +3,9 @@ title: "Section 3393a - Repealed. Pub. L. 107–296, title XIII, § 1321(a)(1)(B
 usc_title: 5
 usc_section: "3393a"
 chapter: 33
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "5 U.S.C. § 3393a"
-generated_at: "2026-03-30T03:53:28.433Z"
+generated_at: "2026-03-30T03:56:31.689Z"
 status: "repealed"
 ---
 

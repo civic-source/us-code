@@ -3,9 +3,9 @@ title: "Section 1411to1420 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994
 usc_title: 15
 usc_section: "1411to1420"
 chapter: 38
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 1411to1420"
-generated_at: "2026-03-30T03:54:09.418Z"
+generated_at: "2026-03-30T03:56:54.516Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 646 - Admiralty claims against the United States"
 usc_title: 14
 usc_section: "646"
 chapter: 17
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "14 U.S.C. § 646"
-generated_at: "2026-03-30T03:54:09.791Z"
+generated_at: "2026-03-30T03:56:54.868Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1041to1048 - Repealed. Pub. L. 94–579, title VII, § 703(a) , 
 usc_title: 43
 usc_section: "1041to1048"
 chapter: 24
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "43 U.S.C. § 1041to1048"
-generated_at: "2026-03-30T03:55:45.071Z"
+generated_at: "2026-03-30T03:58:20.207Z"
 status: "repealed"
 ---
 

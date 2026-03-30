@@ -3,9 +3,9 @@ title: "Section 5117 - Special permits and exclusions"
 usc_title: 49
 usc_section: "5117"
 chapter: 51
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "49 U.S.C. § 5117"
-generated_at: "2026-03-30T03:56:01.684Z"
+generated_at: "2026-03-30T03:58:45.416Z"
 status: "active"
 ---
 

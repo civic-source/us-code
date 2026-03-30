@@ -3,9 +3,9 @@ title: "Section 7011 - Successorship provisions relating to bargaining units and
 usc_title: 7
 usc_section: "7011"
 chapter: 98
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "7 U.S.C. § 7011"
-generated_at: "2026-03-30T03:53:51.423Z"
+generated_at: "2026-03-30T03:56:45.211Z"
 status: "active"
 ---
 

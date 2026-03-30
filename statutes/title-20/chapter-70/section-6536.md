@@ -3,9 +3,9 @@ title: "Section 6536 - Supplement, not supplant"
 usc_title: 20
 usc_section: "6536"
 chapter: 70
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "20 U.S.C. § 6536"
-generated_at: "2026-03-30T03:54:23.877Z"
+generated_at: "2026-03-30T03:57:03.333Z"
 status: "active"
 ---
 

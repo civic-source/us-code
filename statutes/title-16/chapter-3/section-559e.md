@@ -3,9 +3,9 @@ title: "Section 559e - Forest Service authorization"
 usc_title: 16
 usc_section: "559e"
 chapter: 3
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 559e"
-generated_at: "2026-03-30T03:54:31.425Z"
+generated_at: "2026-03-30T03:57:07.535Z"
 status: "active"
 ---
 

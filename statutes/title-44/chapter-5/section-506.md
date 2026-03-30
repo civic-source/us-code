@@ -3,9 +3,9 @@ title: "Section 506 - Time for printing documents or reports which include illus
 usc_title: 44
 usc_section: "506"
 chapter: 5
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "44 U.S.C. § 506"
-generated_at: "2026-03-30T03:55:47.658Z"
+generated_at: "2026-03-30T03:58:19.124Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12151 - Penalties"
 usc_title: 46
 usc_section: "12151"
 chapter: 121
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "46 U.S.C. § 12151"
-generated_at: "2026-03-30T03:55:52.135Z"
+generated_at: "2026-03-30T03:58:47.607Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8380to8396 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "8380to8396"
 chapter: 837
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 8380to8396"
-generated_at: "2026-03-30T03:53:58.779Z"
+generated_at: "2026-03-30T03:56:39.660Z"
 status: "repealed"
 ---
 

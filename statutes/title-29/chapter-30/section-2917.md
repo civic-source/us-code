@@ -3,9 +3,9 @@ title: "Section 2917 - Evaluations"
 usc_title: 29
 usc_section: "2917"
 chapter: 30
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "29 U.S.C. § 2917"
-generated_at: "2026-03-30T03:55:04.780Z"
+generated_at: "2026-03-30T03:57:58.671Z"
 status: "active"
 ---
 

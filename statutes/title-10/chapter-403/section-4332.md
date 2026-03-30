@@ -3,9 +3,9 @@ title: "Section 4332 - Departments and professors: titles"
 usc_title: 10
 usc_section: "4332"
 chapter: 403
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 4332"
-generated_at: "2026-03-30T03:53:58.750Z"
+generated_at: "2026-03-30T03:56:39.635Z"
 status: "active"
 ---
 

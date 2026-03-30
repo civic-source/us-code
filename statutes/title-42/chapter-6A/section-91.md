@@ -3,9 +3,9 @@ title: "Section 91 - Definitions"
 usc_title: 42
 usc_section: "91"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 91"
-generated_at: "2026-03-30T03:55:43.634Z"
+generated_at: "2026-03-30T03:58:36.271Z"
 status: "active"
 ---
 

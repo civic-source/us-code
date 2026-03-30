@@ -3,9 +3,9 @@ title: "Section 15326 - Dissemination of information"
 usc_title: 42
 usc_section: "15326"
 chapter: 146
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 15326"
-generated_at: "2026-03-30T03:55:44.201Z"
+generated_at: "2026-03-30T03:58:37.186Z"
 status: "active"
 ---
 

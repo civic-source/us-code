@@ -3,9 +3,9 @@ title: "Section 9513 - Delegation"
 usc_title: 20
 usc_section: "9513"
 chapter: 76
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "20 U.S.C. § 9513"
-generated_at: "2026-03-30T03:54:23.925Z"
+generated_at: "2026-03-30T03:57:03.383Z"
 status: "active"
 ---
 

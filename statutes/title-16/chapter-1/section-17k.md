@@ -3,9 +3,9 @@ title: "Section 17k - Park, parkway and recreational-area programs; study by Nat
 usc_title: 16
 usc_section: "17k"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 17k"
-generated_at: "2026-03-30T03:54:31.279Z"
+generated_at: "2026-03-30T03:57:07.388Z"
 status: "active"
 ---
 

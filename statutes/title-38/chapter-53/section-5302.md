@@ -3,9 +3,9 @@ title: "Section 5302 - Waiver of recovery of claims by the United States"
 usc_title: 38
 usc_section: "5302"
 chapter: 53
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "38 U.S.C. § 5302"
-generated_at: "2026-03-30T03:55:27.022Z"
+generated_at: "2026-03-30T03:58:16.863Z"
 status: "active"
 ---
 

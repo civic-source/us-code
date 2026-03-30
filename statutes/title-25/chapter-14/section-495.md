@@ -3,9 +3,9 @@ title: "Section 495 - Annette Islands reserved for Metlakahtla Indians"
 usc_title: 25
 usc_section: "495"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 495"
-generated_at: "2026-03-30T03:54:47.084Z"
+generated_at: "2026-03-30T03:57:17.235Z"
 status: "active"
 ---
 

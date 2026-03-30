@@ -3,9 +3,9 @@ title: "Section 2304 - Procedures applicable to formulation and implementation o
 usc_title: 16
 usc_section: "2304"
 chapter: 43
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 2304"
-generated_at: "2026-03-30T03:54:31.544Z"
+generated_at: "2026-03-30T03:57:07.654Z"
 status: "active"
 ---
 

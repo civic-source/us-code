@@ -3,9 +3,9 @@ title: "Section 695m - Annual percentage payments of net revenues from leases of
 usc_title: 16
 usc_section: "695m"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 695m"
-generated_at: "2026-03-30T03:54:31.444Z"
+generated_at: "2026-03-30T03:57:07.554Z"
 status: "active"
 ---
 

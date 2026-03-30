@@ -3,9 +3,9 @@ title: "Section 433 - Character and capital qualification of entrymen"
 usc_title: 43
 usc_section: "433"
 chapter: 12
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "43 U.S.C. § 433"
-generated_at: "2026-03-30T03:55:45.055Z"
+generated_at: "2026-03-30T03:58:20.186Z"
 status: "active"
 ---
 

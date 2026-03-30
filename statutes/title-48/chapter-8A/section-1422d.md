@@ -3,9 +3,9 @@ title: "Section 1422d - Transfer of functions from government comptroller for Gu
 usc_title: 48
 usc_section: "1422d"
 chapter: 8
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "48 U.S.C. § 1422d"
-generated_at: "2026-03-30T03:55:58.981Z"
+generated_at: "2026-03-30T03:58:46.403Z"
 status: "active"
 ---
 

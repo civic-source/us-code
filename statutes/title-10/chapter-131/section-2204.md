@@ -3,9 +3,9 @@ title: "Section 2204 - Obligation of appropriations"
 usc_title: 10
 usc_section: "2204"
 chapter: 131
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2204"
-generated_at: "2026-03-30T03:53:58.691Z"
+generated_at: "2026-03-30T03:56:39.579Z"
 status: "active"
 ---
 

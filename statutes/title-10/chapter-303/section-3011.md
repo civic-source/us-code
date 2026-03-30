@@ -3,9 +3,9 @@ title: "Section 3011 - Organization"
 usc_title: 10
 usc_section: "3011"
 chapter: 303
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 3011"
-generated_at: "2026-03-30T03:53:58.745Z"
+generated_at: "2026-03-30T03:56:39.629Z"
 status: "active"
 ---
 

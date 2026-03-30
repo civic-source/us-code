@@ -3,9 +3,9 @@ title: "Section 9812 - Development loan fund"
 usc_title: 42
 usc_section: "9812"
 chapter: 105
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 9812"
-generated_at: "2026-03-30T03:55:44.090Z"
+generated_at: "2026-03-30T03:58:37.024Z"
 status: "active"
 ---
 

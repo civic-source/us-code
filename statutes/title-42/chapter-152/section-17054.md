@@ -3,9 +3,9 @@ title: "Section 17054 - Biofuels distribution and advanced biofuels infrastructu
 usc_title: 42
 usc_section: "17054"
 chapter: 152
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 17054"
-generated_at: "2026-03-30T03:55:44.231Z"
+generated_at: "2026-03-30T03:58:37.227Z"
 status: "active"
 ---
 

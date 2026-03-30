@@ -3,9 +3,9 @@ title: "Section 2306a - Cost or pricing data: truth in negotiations"
 usc_title: 10
 usc_section: "2306a"
 chapter: 137
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2306a"
-generated_at: "2026-03-30T03:53:58.699Z"
+generated_at: "2026-03-30T03:56:39.587Z"
 status: "active"
 ---
 

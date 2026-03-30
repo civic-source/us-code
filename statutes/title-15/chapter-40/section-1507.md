@@ -3,9 +3,9 @@ title: "Section 1507 - Additional Assistant Secretary; appointment; compensation
 usc_title: 15
 usc_section: "1507"
 chapter: 40
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 1507"
-generated_at: "2026-03-30T03:54:09.419Z"
+generated_at: "2026-03-30T03:56:54.518Z"
 status: "active"
 ---
 

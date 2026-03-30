@@ -3,9 +3,9 @@ title: "Section 1691b - Promulgation of regulations by the Bureau"
 usc_title: 15
 usc_section: "1691b"
 chapter: 41
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 1691b"
-generated_at: "2026-03-30T03:54:09.442Z"
+generated_at: "2026-03-30T03:56:54.541Z"
 status: "active"
 ---
 

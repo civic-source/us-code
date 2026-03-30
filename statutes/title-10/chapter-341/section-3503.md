@@ -3,9 +3,9 @@ title: "Section 3503 - Retired commissioned officers: status"
 usc_title: 10
 usc_section: "3503"
 chapter: 341
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 3503"
-generated_at: "2026-03-30T03:53:58.747Z"
+generated_at: "2026-03-30T03:56:39.632Z"
 status: "active"
 ---
 

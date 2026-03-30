@@ -3,9 +3,9 @@ title: "Section 838g - Schedules of rates and charges for sale of Federal power 
 usc_title: 16
 usc_section: "838g"
 chapter: 12
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 838g"
-generated_at: "2026-03-30T03:54:31.476Z"
+generated_at: "2026-03-30T03:57:07.587Z"
 status: "active"
 ---
 

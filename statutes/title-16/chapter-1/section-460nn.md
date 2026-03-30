@@ -3,9 +3,9 @@ title: "Section 460nn - Findings and purpose"
 usc_title: 16
 usc_section: "460nn"
 chapter: 1
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 460nn"
-generated_at: "2026-03-30T03:54:31.378Z"
+generated_at: "2026-03-30T03:57:07.488Z"
 status: "active"
 ---
 

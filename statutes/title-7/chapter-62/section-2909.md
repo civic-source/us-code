@@ -3,9 +3,9 @@ title: "Section 2909 - Investigations by Secretary; oaths and affirmations; subp
 usc_title: 7
 usc_section: "2909"
 chapter: 62
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "7 U.S.C. § 2909"
-generated_at: "2026-03-30T03:53:51.374Z"
+generated_at: "2026-03-30T03:56:45.153Z"
 status: "active"
 ---
 

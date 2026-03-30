@@ -3,9 +3,9 @@ title: "Section 4043 - Acceptance of gifts and bequests to the Commissary Funds,
 usc_title: 18
 usc_section: "4043"
 chapter: 303
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "18 U.S.C. § 4043"
-generated_at: "2026-03-30T03:54:20.410Z"
+generated_at: "2026-03-30T03:56:58.751Z"
 status: "active"
 ---
 

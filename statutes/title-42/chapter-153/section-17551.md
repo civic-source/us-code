@@ -3,9 +3,9 @@ title: "Section 17551 - Offender reentry research"
 usc_title: 42
 usc_section: "17551"
 chapter: 153
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 17551"
-generated_at: "2026-03-30T03:55:44.241Z"
+generated_at: "2026-03-30T03:58:37.242Z"
 status: "active"
 ---
 

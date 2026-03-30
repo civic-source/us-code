@@ -3,9 +3,9 @@ title: "Section 8 - Termination of the Trust"
 usc_title: 16
 usc_section: "8"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T03:54:31.449Z"
+generated_at: "2026-03-30T03:57:07.558Z"
 status: "active"
 ---
 

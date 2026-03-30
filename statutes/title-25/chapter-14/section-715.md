@@ -3,9 +3,9 @@ title: "Section 715 - Definitions"
 usc_title: 25
 usc_section: "715"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "25 U.S.C. § 715"
-generated_at: "2026-03-30T03:54:47.095Z"
+generated_at: "2026-03-30T03:57:17.251Z"
 status: "active"
 ---
 

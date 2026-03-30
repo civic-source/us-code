@@ -3,9 +3,9 @@ title: "Section 638a - GAO study with respect to venture capital operating compa
 usc_title: 15
 usc_section: "638a"
 chapter: 14
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "15 U.S.C. § 638a"
-generated_at: "2026-03-30T03:54:09.374Z"
+generated_at: "2026-03-30T03:56:54.469Z"
 status: "active"
 ---
 

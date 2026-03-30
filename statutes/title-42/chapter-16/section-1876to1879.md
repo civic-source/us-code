@@ -3,9 +3,9 @@ title: "Section 1876to1879 - Repealed. Pub. L. 99–383, § 11 , Aug. 21, 1986 ,
 usc_title: 42
 usc_section: "1876to1879"
 chapter: 16
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 1876to1879"
-generated_at: "2026-03-30T03:55:43.860Z"
+generated_at: "2026-03-30T03:58:36.632Z"
 status: "repealed"
 ---
 

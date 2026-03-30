@@ -3,9 +3,9 @@ title: "Section 421b - Loans for construction of distribution and drainage syste
 usc_title: 43
 usc_section: "421b"
 chapter: 12
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "43 U.S.C. § 421b"
-generated_at: "2026-03-30T03:55:45.052Z"
+generated_at: "2026-03-30T03:58:20.184Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 85 - Aids to maritime navigation; penalty"
 usc_title: 14
 usc_section: "85"
 chapter: 5
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "14 U.S.C. § 85"
-generated_at: "2026-03-30T03:54:09.784Z"
+generated_at: "2026-03-30T03:56:54.861Z"
 status: "active"
 ---
 

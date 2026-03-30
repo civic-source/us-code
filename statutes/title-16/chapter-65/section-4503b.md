@@ -3,9 +3,9 @@ title: "Section 4503b - Hawaii Experimental Tropical Forest"
 usc_title: 16
 usc_section: "4503b"
 chapter: 65
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "16 U.S.C. § 4503b"
-generated_at: "2026-03-30T03:54:31.583Z"
+generated_at: "2026-03-30T03:57:07.692Z"
 status: "active"
 ---
 

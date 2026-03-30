@@ -3,9 +3,9 @@ title: "Section 1851to1854 - Repealed. Sept. 30, 1950, ch. 1125 § 9, 64 Stat. 1
 usc_title: 42
 usc_section: "1851to1854"
 chapter: 15
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 1851to1854"
-generated_at: "2026-03-30T03:55:43.854Z"
+generated_at: "2026-03-30T03:58:36.616Z"
 status: "repealed"
 ---
 

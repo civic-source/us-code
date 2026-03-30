@@ -3,9 +3,9 @@ title: "Section 1489 - Transfer of excess funds out of Rural Housing Insurance F
 usc_title: 42
 usc_section: "1489"
 chapter: 8
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 1489"
-generated_at: "2026-03-30T03:55:43.832Z"
+generated_at: "2026-03-30T03:58:36.577Z"
 status: "active"
 ---
 

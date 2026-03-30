@@ -3,9 +3,9 @@ title: "Section 1097a - TRICARE Prime: automatic enrollments; payment options"
 usc_title: 10
 usc_section: "1097a"
 chapter: 55
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 1097a"
-generated_at: "2026-03-30T03:53:58.652Z"
+generated_at: "2026-03-30T03:56:39.543Z"
 status: "active"
 ---
 

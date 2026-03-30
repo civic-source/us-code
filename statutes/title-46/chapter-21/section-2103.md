@@ -3,9 +3,9 @@ title: "Section 2103 - Superintendence of the merchant marine"
 usc_title: 46
 usc_section: "2103"
 chapter: 21
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "46 U.S.C. § 2103"
-generated_at: "2026-03-30T03:55:52.116Z"
+generated_at: "2026-03-30T03:58:47.583Z"
 status: "active"
 ---
 

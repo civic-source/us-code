@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 42
 usc_section: "5"
 chapter: 6
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T03:55:43.640Z"
+generated_at: "2026-03-30T03:58:36.281Z"
 status: "active"
 ---
 

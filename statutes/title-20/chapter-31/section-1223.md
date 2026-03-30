@@ -3,9 +3,9 @@ title: "Section 1223 - Forward funding"
 usc_title: 20
 usc_section: "1223"
 chapter: 31
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "20 U.S.C. § 1223"
-generated_at: "2026-03-30T03:54:23.810Z"
+generated_at: "2026-03-30T03:57:03.262Z"
 status: "active"
 ---
 

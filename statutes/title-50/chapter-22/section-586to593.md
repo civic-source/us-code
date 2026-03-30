@@ -3,9 +3,9 @@ title: "Section 586to593 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 
 usc_title: 50
 usc_section: "586to593"
 chapter: 22
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "50 U.S.C. § 586to593"
-generated_at: "2026-03-30T03:55:58.485Z"
+generated_at: "2026-03-30T03:58:42.217Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9837b - Head Start collaboration; State early education and care
 usc_title: 42
 usc_section: "9837b"
 chapter: 105
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "42 U.S.C. § 9837b"
-generated_at: "2026-03-30T03:55:44.093Z"
+generated_at: "2026-03-30T03:58:37.029Z"
 status: "active"
 ---
 

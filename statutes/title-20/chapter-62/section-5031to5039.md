@@ -3,9 +3,9 @@ title: "Section 5031to5039 - Repealed. Pub. L. 103–382, title III, § 391(i) ,
 usc_title: 20
 usc_section: "5031to5039"
 chapter: 62
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "20 U.S.C. § 5031to5039"
-generated_at: "2026-03-30T03:54:23.853Z"
+generated_at: "2026-03-30T03:57:03.307Z"
 status: "repealed"
 ---
 

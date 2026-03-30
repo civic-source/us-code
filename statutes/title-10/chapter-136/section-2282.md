@@ -3,9 +3,9 @@ title: "Section 2282 - Repealed. Pub. L. 112–81, div. A, title X, § 1061(13)(
 usc_title: 10
 usc_section: "2282"
 chapter: 136
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "10 U.S.C. § 2282"
-generated_at: "2026-03-30T03:53:58.696Z"
+generated_at: "2026-03-30T03:56:39.585Z"
 status: "repealed"
 ---
 

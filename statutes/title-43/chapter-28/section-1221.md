@@ -3,9 +3,9 @@ title: "Section 1221 - Issuance of patents; application"
 usc_title: 43
 usc_section: "1221"
 chapter: 28
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "43 U.S.C. § 1221"
-generated_at: "2026-03-30T03:55:45.072Z"
+generated_at: "2026-03-30T03:58:20.209Z"
 status: "active"
 ---
 

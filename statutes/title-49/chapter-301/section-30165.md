@@ -3,9 +3,9 @@ title: "Section 30165 - Civil penalty"
 usc_title: 49
 usc_section: "30165"
 chapter: 301
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "49 U.S.C. § 30165"
-generated_at: "2026-03-30T03:56:01.734Z"
+generated_at: "2026-03-30T03:58:45.469Z"
 status: "active"
 ---
 

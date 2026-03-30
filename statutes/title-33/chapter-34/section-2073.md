@@ -3,9 +3,9 @@ title: "Section 2073 - Navigation Safety Advisory Council"
 usc_title: 33
 usc_section: "2073"
 chapter: 34
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "33 U.S.C. § 2073"
-generated_at: "2026-03-30T03:55:08.749Z"
+generated_at: "2026-03-30T03:58:11.802Z"
 status: "active"
 ---
 

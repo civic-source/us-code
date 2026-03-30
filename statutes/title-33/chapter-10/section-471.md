@@ -3,9 +3,9 @@ title: "Section 471 - Establishment by Secretary of Homeland Security of anchora
 usc_title: 33
 usc_section: "471"
 chapter: 10
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "33 U.S.C. § 471"
-generated_at: "2026-03-30T03:55:08.700Z"
+generated_at: "2026-03-30T03:58:11.744Z"
 status: "active"
 ---
 

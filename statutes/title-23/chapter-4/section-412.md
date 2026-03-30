@@ -3,9 +3,9 @@ title: "Section 412 - Agency accountability"
 usc_title: 23
 usc_section: "412"
 chapter: 4
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "23 U.S.C. § 412"
-generated_at: "2026-03-30T03:54:50.924Z"
+generated_at: "2026-03-30T03:57:20.925Z"
 status: "active"
 ---
 

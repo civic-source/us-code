@@ -3,9 +3,9 @@ title: "Section 2392 - Adjustment Assistance Coordinating Committee"
 usc_title: 19
 usc_section: "2392"
 chapter: 12
-current_through: "PL 113-121"
+current_through: "PL 113-125"
 classification: "19 U.S.C. § 2392"
-generated_at: "2026-03-30T03:54:19.014Z"
+generated_at: "2026-03-30T03:57:00.580Z"
 status: "active"
 ---
 
