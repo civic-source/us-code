@@ -3,9 +3,9 @@ title: "Section 3112 - Congressional statement of policy"
 usc_title: 16
 usc_section: "3112"
 chapter: 51
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 3112"
-generated_at: "2026-03-30T04:13:16.120Z"
+generated_at: "2026-03-30T04:16:25.419Z"
 status: "active"
 ---
 

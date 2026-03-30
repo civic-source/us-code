@@ -3,9 +3,9 @@ title: "Section 472a - Indian preference laws applicable to Bureau of Indian Aff
 usc_title: 25
 usc_section: "472a"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 472a"
-generated_at: "2026-03-30T04:13:28.895Z"
+generated_at: "2026-03-30T04:16:44.932Z"
 status: "active"
 ---
 

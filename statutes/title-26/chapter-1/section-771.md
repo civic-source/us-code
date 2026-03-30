@@ -3,9 +3,9 @@ title: "Section 771 - Application of subchapter to electing large partnerships"
 usc_title: 26
 usc_section: "771"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 771"
-generated_at: "2026-03-30T04:13:48.203Z"
+generated_at: "2026-03-30T04:17:14.566Z"
 status: "active"
 ---
 

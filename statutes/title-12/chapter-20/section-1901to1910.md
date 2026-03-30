@@ -3,9 +3,9 @@ title: "Section 1901to1910 - Omitted"
 usc_title: 12
 usc_section: "1901to1910"
 chapter: 20
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 1901to1910"
-generated_at: "2026-03-30T04:12:55.341Z"
+generated_at: "2026-03-30T04:16:05.707Z"
 status: "omitted"
 ---
 

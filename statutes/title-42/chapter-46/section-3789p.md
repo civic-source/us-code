@@ -3,9 +3,9 @@ title: "Section 3789p - Accountability and oversight"
 usc_title: 42
 usc_section: "3789p"
 chapter: 46
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 3789p"
-generated_at: "2026-03-30T04:14:16.014Z"
+generated_at: "2026-03-30T04:17:41.847Z"
 status: "active"
 ---
 

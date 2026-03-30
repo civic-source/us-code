@@ -3,9 +3,9 @@ title: "Section 321e - Chief Medical Officer"
 usc_title: 6
 usc_section: "321e"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "6 U.S.C. § 321e"
-generated_at: "2026-03-30T04:12:34.479Z"
+generated_at: "2026-03-30T04:15:20.830Z"
 status: "active"
 ---
 

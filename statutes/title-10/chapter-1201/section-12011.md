@@ -3,9 +3,9 @@ title: "Section 12011 - Authorized strengths: reserve officers on active duty or
 usc_title: 10
 usc_section: "12011"
 chapter: 1201
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 12011"
-generated_at: "2026-03-30T04:12:47.151Z"
+generated_at: "2026-03-30T04:15:29.985Z"
 status: "active"
 ---
 

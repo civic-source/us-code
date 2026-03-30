@@ -3,9 +3,9 @@ title: "Section 5381to5386 - Repealed. Pub. L. 103–382, title III, § 391(l) ,
 usc_title: 20
 usc_section: "5381to5386"
 chapter: 64
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 5381to5386"
-generated_at: "2026-03-30T04:13:18.664Z"
+generated_at: "2026-03-30T04:16:29.620Z"
 status: "repealed"
 ---
 

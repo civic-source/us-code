@@ -3,9 +3,9 @@ title: "Section 2304c - Task and delivery order contracts: orders"
 usc_title: 10
 usc_section: "2304c"
 chapter: 137
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2304c"
-generated_at: "2026-03-30T04:12:47.059Z"
+generated_at: "2026-03-30T04:15:29.904Z"
 status: "active"
 ---
 

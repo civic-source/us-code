@@ -3,9 +3,9 @@ title: "Section 2225d - Availability of Department of Agriculture funds for temp
 usc_title: 7
 usc_section: "2225d"
 chapter: 55
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 2225d"
-generated_at: "2026-03-30T04:12:33.592Z"
+generated_at: "2026-03-30T04:15:50.125Z"
 status: "active"
 ---
 

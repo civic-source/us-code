@@ -3,9 +3,9 @@ title: "Section 1261to1264 - Transferred"
 usc_title: 48
 usc_section: "1261to1264"
 chapter: 5
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "48 U.S.C. § 1261to1264"
-generated_at: "2026-03-30T04:14:23.058Z"
+generated_at: "2026-03-30T04:17:44.970Z"
 status: "transferred"
 ---
 

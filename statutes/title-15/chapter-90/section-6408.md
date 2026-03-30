@@ -3,9 +3,9 @@ title: "Section 6408 - Market survey and consumer protection"
 usc_title: 15
 usc_section: "6408"
 chapter: 90
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "15 U.S.C. § 6408"
-generated_at: "2026-03-30T04:13:07.457Z"
+generated_at: "2026-03-30T04:16:10.829Z"
 status: "active"
 ---
 

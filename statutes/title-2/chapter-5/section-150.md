@@ -3,9 +3,9 @@ title: "Section 150 - Sale of copies of card indexes and other publications"
 usc_title: 2
 usc_section: "150"
 chapter: 5
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 150"
-generated_at: "2026-03-30T04:12:26.445Z"
+generated_at: "2026-03-30T04:15:17.480Z"
 status: "active"
 ---
 

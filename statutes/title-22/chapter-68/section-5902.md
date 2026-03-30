@@ -3,9 +3,9 @@ title: "Section 5902 - Authority for programs to facilitate demilitarization"
 usc_title: 22
 usc_section: "5902"
 chapter: 68
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 5902"
-generated_at: "2026-03-30T04:13:32.162Z"
+generated_at: "2026-03-30T04:17:01.898Z"
 status: "active"
 ---
 

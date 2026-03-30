@@ -3,9 +3,9 @@ title: "Section 285 - Nonvoting stock"
 usc_title: 12
 usc_section: "285"
 chapter: 3
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 285"
-generated_at: "2026-03-30T04:12:55.206Z"
+generated_at: "2026-03-30T04:16:05.579Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1081to1083 - Repealed. Pub. L. 109–135, title IV, § 402(a)(1)
 usc_title: 26
 usc_section: "1081to1083"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 1081to1083"
-generated_at: "2026-03-30T04:13:48.240Z"
+generated_at: "2026-03-30T04:17:14.606Z"
 status: "repealed"
 ---
 

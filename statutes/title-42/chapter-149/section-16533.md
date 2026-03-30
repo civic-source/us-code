@@ -3,9 +3,9 @@ title: "Section 16533 - Hydrocarbon systems science talent expansion program for
 usc_title: 42
 usc_section: "16533"
 chapter: 149
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 16533"
-generated_at: "2026-03-30T04:14:16.374Z"
+generated_at: "2026-03-30T04:17:42.204Z"
 status: "active"
 ---
 

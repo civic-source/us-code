@@ -3,9 +3,9 @@ title: "Section 3757 - Notice of default and foreclosure sale"
 usc_title: 12
 usc_section: "3757"
 chapter: 38
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 3757"
-generated_at: "2026-03-30T04:12:55.381Z"
+generated_at: "2026-03-30T04:16:05.743Z"
 status: "active"
 ---
 

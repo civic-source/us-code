@@ -3,9 +3,9 @@ title: "Section 853to855 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 ,
 usc_title: 45
 usc_section: "853to855"
 chapter: 17
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "45 U.S.C. § 853to855"
-generated_at: "2026-03-30T04:14:02.625Z"
+generated_at: "2026-03-30T04:17:27.314Z"
 status: "repealed"
 ---
 

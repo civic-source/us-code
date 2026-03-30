@@ -3,9 +3,9 @@ title: "Section 1366to1371 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966
 usc_title: 42
 usc_section: "1366to1371"
 chapter: 7
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 1366to1371"
-generated_at: "2026-03-30T04:14:15.740Z"
+generated_at: "2026-03-30T04:17:41.579Z"
 status: "repealed"
 ---
 

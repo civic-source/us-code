@@ -3,9 +3,9 @@ title: "Section 152153 - Repealed. May 25, 1948, ch. 335, § 3(a) , (b), 62 Stat
 usc_title: 50
 usc_section: "152153"
 chapter: 9
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "50 U.S.C. § 152153"
-generated_at: "2026-03-30T04:14:35.468Z"
+generated_at: "2026-03-30T04:17:50.303Z"
 status: "repealed"
 ---
 

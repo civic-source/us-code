@@ -3,9 +3,9 @@ title: "Section 1061 - Cross references"
 usc_title: 26
 usc_section: "1061"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 1061"
-generated_at: "2026-03-30T04:13:48.240Z"
+generated_at: "2026-03-30T04:17:14.606Z"
 status: "active"
 ---
 

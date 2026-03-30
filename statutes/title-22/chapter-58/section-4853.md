@@ -3,9 +3,9 @@ title: "Section 4853 - Security requirements for contractors"
 usc_title: 22
 usc_section: "4853"
 chapter: 58
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 4853"
-generated_at: "2026-03-30T04:13:32.153Z"
+generated_at: "2026-03-30T04:17:01.890Z"
 status: "active"
 ---
 

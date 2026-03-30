@@ -3,9 +3,9 @@ title: "Section 14222 - Coordination of substance abuse treatment and prevention
 usc_title: 42
 usc_section: "14222"
 chapter: 136
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 14222"
-generated_at: "2026-03-30T04:14:16.339Z"
+generated_at: "2026-03-30T04:17:42.166Z"
 status: "active"
 ---
 

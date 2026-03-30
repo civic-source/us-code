@@ -3,9 +3,9 @@ title: "Section 541 - Board of Engineers for Rivers and Harbors; establishment; 
 usc_title: 33
 usc_section: "541"
 chapter: 12
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "33 U.S.C. § 541"
-generated_at: "2026-03-30T04:13:52.285Z"
+generated_at: "2026-03-30T04:17:18.913Z"
 status: "active"
 ---
 

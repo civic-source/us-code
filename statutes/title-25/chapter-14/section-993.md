@@ -3,9 +3,9 @@ title: "Section 993 - Claims"
 usc_title: 25
 usc_section: "993"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 993"
-generated_at: "2026-03-30T04:13:28.920Z"
+generated_at: "2026-03-30T04:16:44.959Z"
 status: "active"
 ---
 

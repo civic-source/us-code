@@ -3,9 +3,9 @@ title: "Section 2883a - Office of Job Corps"
 usc_title: 29
 usc_section: "2883a"
 chapter: 30
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "29 U.S.C. § 2883a"
-generated_at: "2026-03-30T04:13:40.916Z"
+generated_at: "2026-03-30T04:17:06.263Z"
 status: "active"
 ---
 

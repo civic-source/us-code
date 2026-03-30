@@ -3,9 +3,9 @@ title: "Section 2410f - Debarment of persons convicted of fraudulent use of “M
 usc_title: 10
 usc_section: "2410f"
 chapter: 141
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2410f"
-generated_at: "2026-03-30T04:12:47.073Z"
+generated_at: "2026-03-30T04:15:29.917Z"
 status: "active"
 ---
 

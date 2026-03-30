@@ -3,9 +3,9 @@ title: "Section 2687a - Overseas base closures and realignments and basing maste
 usc_title: 10
 usc_section: "2687a"
 chapter: 159
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2687a"
-generated_at: "2026-03-30T04:12:47.092Z"
+generated_at: "2026-03-30T04:15:29.933Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 503 - Witness fees and allowances"
 usc_title: 5
 usc_section: "503"
 chapter: 5
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "5 U.S.C. § 503"
-generated_at: "2026-03-30T04:12:20.400Z"
+generated_at: "2026-03-30T04:15:08.194Z"
 status: "active"
 ---
 

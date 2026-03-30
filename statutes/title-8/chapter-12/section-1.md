@@ -3,9 +3,9 @@ title: "Section 1 - Posthumous citizenship through death while on active-duty se
 usc_title: 8
 usc_section: "1"
 chapter: 12
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "8 U.S.C. § 1"
-generated_at: "2026-03-30T04:12:42.357Z"
+generated_at: "2026-03-30T04:15:21.487Z"
 status: "active"
 ---
 

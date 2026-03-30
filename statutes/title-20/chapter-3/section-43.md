@@ -3,9 +3,9 @@ title: "Section 43 - Appointment of regents; terms of office; vacancies"
 usc_title: 20
 usc_section: "43"
 chapter: 3
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 43"
-generated_at: "2026-03-30T04:13:18.533Z"
+generated_at: "2026-03-30T04:16:29.473Z"
 status: "active"
 ---
 

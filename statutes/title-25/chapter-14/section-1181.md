@@ -3,9 +3,9 @@ title: "Section 1181 - Distribution of judgment fund; preparation of Indian roll
 usc_title: 25
 usc_section: "1181"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 1181"
-generated_at: "2026-03-30T04:13:28.922Z"
+generated_at: "2026-03-30T04:16:44.962Z"
 status: "active"
 ---
 

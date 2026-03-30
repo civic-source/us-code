@@ -3,9 +3,9 @@ title: "Section 11291 - Providing information for personnel of Social Security A
 usc_title: 42
 usc_section: "11291"
 chapter: 118
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 11291"
-generated_at: "2026-03-30T04:14:16.259Z"
+generated_at: "2026-03-30T04:17:42.085Z"
 status: "active"
 ---
 

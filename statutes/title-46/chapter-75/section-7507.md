@@ -3,9 +3,9 @@ title: "Section 7507 - Authority to extend the duration of licenses, certificate
 usc_title: 46
 usc_section: "7507"
 chapter: 75
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "46 U.S.C. § 7507"
-generated_at: "2026-03-30T04:14:20.543Z"
+generated_at: "2026-03-30T04:17:46.710Z"
 status: "active"
 ---
 

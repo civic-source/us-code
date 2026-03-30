@@ -3,9 +3,9 @@ title: "Section 3392to3396 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "3392to3396"
 chapter: 337
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 3392to3396"
-generated_at: "2026-03-30T04:12:47.107Z"
+generated_at: "2026-03-30T04:15:29.947Z"
 status: "repealed"
 ---
 

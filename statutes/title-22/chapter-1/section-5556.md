@@ -3,9 +3,9 @@ title: "Section 5556 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(7), 
 usc_title: 22
 usc_section: "5556"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 5556"
-generated_at: "2026-03-30T04:13:32.019Z"
+generated_at: "2026-03-30T04:17:01.744Z"
 status: "repealed"
 ---
 

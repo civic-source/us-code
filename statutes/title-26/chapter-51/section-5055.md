@@ -3,9 +3,9 @@ title: "Section 5055 - Drawback of tax"
 usc_title: 26
 usc_section: "5055"
 chapter: 51
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 5055"
-generated_at: "2026-03-30T04:13:48.314Z"
+generated_at: "2026-03-30T04:17:14.693Z"
 status: "active"
 ---
 

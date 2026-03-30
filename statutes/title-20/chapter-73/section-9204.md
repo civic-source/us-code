@@ -3,9 +3,9 @@ title: "Section 9204 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9204"
 chapter: 73
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 9204"
-generated_at: "2026-03-30T04:13:18.726Z"
+generated_at: "2026-03-30T04:16:29.690Z"
 status: "active"
 ---
 

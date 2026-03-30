@@ -3,9 +3,9 @@ title: "Section 1715u - Authority to assist mortgagors in default"
 usc_title: 12
 usc_section: "1715u"
 chapter: 13
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 1715u"
-generated_at: "2026-03-30T04:12:55.263Z"
+generated_at: "2026-03-30T04:16:05.633Z"
 status: "active"
 ---
 

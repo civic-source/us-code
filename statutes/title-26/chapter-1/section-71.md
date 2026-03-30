@@ -3,9 +3,9 @@ title: "Section 71 - Alimony and separate maintenance payments"
 usc_title: 26
 usc_section: "71"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 71"
-generated_at: "2026-03-30T04:13:48.086Z"
+generated_at: "2026-03-30T04:17:14.441Z"
 status: "active"
 ---
 

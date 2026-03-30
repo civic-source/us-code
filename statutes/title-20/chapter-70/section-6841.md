@@ -3,9 +3,9 @@ title: "Section 6841 - Evaluations"
 usc_title: 20
 usc_section: "6841"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 6841"
-generated_at: "2026-03-30T04:13:18.693Z"
+generated_at: "2026-03-30T04:16:29.651Z"
 status: "active"
 ---
 

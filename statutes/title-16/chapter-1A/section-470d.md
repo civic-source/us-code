@@ -3,9 +3,9 @@ title: "Section 470d - Loan insurance program for preservation of property inclu
 usc_title: 16
 usc_section: "470d"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 470d"
-generated_at: "2026-03-30T04:13:15.976Z"
+generated_at: "2026-03-30T04:16:25.237Z"
 status: "active"
 ---
 

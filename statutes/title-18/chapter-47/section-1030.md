@@ -3,9 +3,9 @@ title: "Section 1030 - Fraud and related activity in connection with computers"
 usc_title: 18
 usc_section: "1030"
 chapter: 47
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "18 U.S.C. § 1030"
-generated_at: "2026-03-30T04:13:11.116Z"
+generated_at: "2026-03-30T04:16:18.670Z"
 status: "active"
 ---
 

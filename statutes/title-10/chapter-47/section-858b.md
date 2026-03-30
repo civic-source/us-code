@@ -3,9 +3,9 @@ title: "Section 858b - Art. 58b. Sentences: forfeiture of pay and allowances dur
 usc_title: 10
 usc_section: "858b"
 chapter: 47
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 858b"
-generated_at: "2026-03-30T04:12:46.985Z"
+generated_at: "2026-03-30T04:15:29.845Z"
 status: "active"
 ---
 

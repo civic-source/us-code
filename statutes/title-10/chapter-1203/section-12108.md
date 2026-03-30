@@ -3,9 +3,9 @@ title: "Section 12108 - Enlisted members: discharge or retirement for years of s
 usc_title: 10
 usc_section: "12108"
 chapter: 1203
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 12108"
-generated_at: "2026-03-30T04:12:47.152Z"
+generated_at: "2026-03-30T04:15:29.986Z"
 status: "active"
 ---
 

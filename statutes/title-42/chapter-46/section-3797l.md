@@ -3,9 +3,9 @@ title: "Section 3797l - Allocation"
 usc_title: 42
 usc_section: "3797l"
 chapter: 46
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 3797l"
-generated_at: "2026-03-30T04:14:16.023Z"
+generated_at: "2026-03-30T04:17:41.855Z"
 status: "active"
 ---
 

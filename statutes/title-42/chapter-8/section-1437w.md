@@ -3,9 +3,9 @@ title: "Section 1437w - Transfer of management of certain housing to independent
 usc_title: 42
 usc_section: "1437w"
 chapter: 8
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 1437w"
-generated_at: "2026-03-30T04:14:15.895Z"
+generated_at: "2026-03-30T04:17:41.729Z"
 status: "active"
 ---
 

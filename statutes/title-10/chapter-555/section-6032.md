@@ -3,9 +3,9 @@ title: "Section 6032 - Indebtedness to Marine Corps Exchanges: payment from appr
 usc_title: 10
 usc_section: "6032"
 chapter: 555
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 6032"
-generated_at: "2026-03-30T04:12:47.120Z"
+generated_at: "2026-03-30T04:15:29.959Z"
 status: "active"
 ---
 

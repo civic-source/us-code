@@ -3,9 +3,9 @@ title: "Section 6572 - Purchases of stationery and materials for folding"
 usc_title: 2
 usc_section: "6572"
 chapter: 65
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 6572"
-generated_at: "2026-03-30T04:12:26.492Z"
+generated_at: "2026-03-30T04:15:17.535Z"
 status: "active"
 ---
 

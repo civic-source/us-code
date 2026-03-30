@@ -3,9 +3,9 @@ title: "Section 470s - Rules and regulations; participation by local governments
 usc_title: 16
 usc_section: "470s"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 470s"
-generated_at: "2026-03-30T04:13:15.978Z"
+generated_at: "2026-03-30T04:16:25.239Z"
 status: "active"
 ---
 

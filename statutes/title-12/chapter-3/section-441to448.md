@@ -3,9 +3,9 @@ title: "Section 441to448 - Omitted"
 usc_title: 12
 usc_section: "441to448"
 chapter: 3
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 441to448"
-generated_at: "2026-03-30T04:12:55.212Z"
+generated_at: "2026-03-30T04:16:05.585Z"
 status: "omitted"
 ---
 

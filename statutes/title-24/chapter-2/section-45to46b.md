@@ -3,9 +3,9 @@ title: "Section 45to46b - Repealed. Pub. L. 101–510, div. A, title XV, § 1532
 usc_title: 24
 usc_section: "45to46b"
 chapter: 2
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "24 U.S.C. § 45to46b"
-generated_at: "2026-03-30T04:13:27.706Z"
+generated_at: "2026-03-30T04:16:43.561Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 185 - Cadets; appointment as ensign"
 usc_title: 14
 usc_section: "185"
 chapter: 9
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "14 U.S.C. § 185"
-generated_at: "2026-03-30T04:12:56.881Z"
+generated_at: "2026-03-30T04:15:52.714Z"
 status: "active"
 ---
 

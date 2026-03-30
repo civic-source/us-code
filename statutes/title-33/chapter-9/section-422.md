@@ -3,9 +3,9 @@ title: "Section 422 - Modification and extension of harbor lines at Chicago"
 usc_title: 33
 usc_section: "422"
 chapter: 9
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "33 U.S.C. § 422"
-generated_at: "2026-03-30T04:13:52.278Z"
+generated_at: "2026-03-30T04:17:18.906Z"
 status: "active"
 ---
 

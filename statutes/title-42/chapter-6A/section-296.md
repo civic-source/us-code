@@ -3,9 +3,9 @@ title: "Section 296 - Definitions"
 usc_title: 42
 usc_section: "296"
 chapter: 6
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 296"
-generated_at: "2026-03-30T04:14:15.596Z"
+generated_at: "2026-03-30T04:17:41.442Z"
 status: "active"
 ---
 

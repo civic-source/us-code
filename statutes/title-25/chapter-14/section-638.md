@@ -3,9 +3,9 @@ title: "Section 638 - Participation by Tribal Councils; recommendations"
 usc_title: 25
 usc_section: "638"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 638"
-generated_at: "2026-03-30T04:13:28.902Z"
+generated_at: "2026-03-30T04:16:44.939Z"
 status: "active"
 ---
 

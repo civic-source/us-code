@@ -3,9 +3,9 @@ title: "Section 2216 - Food service operations"
 usc_title: 2
 usc_section: "2216"
 chapter: 31
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 2216"
-generated_at: "2026-03-30T04:12:26.481Z"
+generated_at: "2026-03-30T04:15:17.521Z"
 status: "active"
 ---
 

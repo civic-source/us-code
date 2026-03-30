@@ -3,9 +3,9 @@ title: "Section 2301 - Application"
 usc_title: 46
 usc_section: "2301"
 chapter: 23
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "46 U.S.C. § 2301"
-generated_at: "2026-03-30T04:14:20.534Z"
+generated_at: "2026-03-30T04:17:46.700Z"
 status: "active"
 ---
 

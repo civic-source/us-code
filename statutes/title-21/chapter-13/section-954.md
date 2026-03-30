@@ -3,9 +3,9 @@ title: "Section 954 - Transshipment and in-transit shipment of controlled substa
 usc_title: 21
 usc_section: "954"
 chapter: 13
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "21 U.S.C. § 954"
-generated_at: "2026-03-30T04:13:36.102Z"
+generated_at: "2026-03-30T04:16:47.564Z"
 status: "active"
 ---
 

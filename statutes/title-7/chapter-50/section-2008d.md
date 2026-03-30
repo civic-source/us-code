@@ -3,9 +3,9 @@ title: "Section 2008d - Recordkeeping of loans by borrower’s gender"
 usc_title: 7
 usc_section: "2008d"
 chapter: 50
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 2008d"
-generated_at: "2026-03-30T04:12:33.562Z"
+generated_at: "2026-03-30T04:15:50.092Z"
 status: "active"
 ---
 

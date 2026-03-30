@@ -3,9 +3,9 @@ title: "Section 971to975 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 
 usc_title: 50
 usc_section: "971to975"
 chapter: 25
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "50 U.S.C. § 971to975"
-generated_at: "2026-03-30T04:14:35.475Z"
+generated_at: "2026-03-30T04:17:50.310Z"
 status: "repealed"
 ---
 

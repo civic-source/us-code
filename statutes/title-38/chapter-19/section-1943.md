@@ -3,9 +3,9 @@ title: "Section 1943 - Premiums"
 usc_title: 38
 usc_section: "1943"
 chapter: 19
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "38 U.S.C. § 1943"
-generated_at: "2026-03-30T04:13:58.991Z"
+generated_at: "2026-03-30T04:17:24.194Z"
 status: "active"
 ---
 

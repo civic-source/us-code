@@ -3,9 +3,9 @@ title: "Section 6665 - Applicable rules"
 usc_title: 26
 usc_section: "6665"
 chapter: 68
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 6665"
-generated_at: "2026-03-30T04:13:48.363Z"
+generated_at: "2026-03-30T04:17:14.747Z"
 status: "active"
 ---
 

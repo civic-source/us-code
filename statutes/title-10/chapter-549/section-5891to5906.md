@@ -3,9 +3,9 @@ title: "Section 5891to5906 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "5891to5906"
 chapter: 549
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 5891to5906"
-generated_at: "2026-03-30T04:12:47.120Z"
+generated_at: "2026-03-30T04:15:29.959Z"
 status: "repealed"
 ---
 

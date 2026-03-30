@@ -3,9 +3,9 @@ title: "Section 91to94 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 64
 usc_title: 50
 usc_section: "91to94"
 chapter: 5
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "50 U.S.C. § 91to94"
-generated_at: "2026-03-30T04:14:35.467Z"
+generated_at: "2026-03-30T04:17:50.302Z"
 status: "repealed"
 ---
 

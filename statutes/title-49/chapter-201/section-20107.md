@@ -3,9 +3,9 @@ title: "Section 20107 - Inspection and investigation"
 usc_title: 49
 usc_section: "20107"
 chapter: 201
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "49 U.S.C. § 20107"
-generated_at: "2026-03-30T04:14:45.047Z"
+generated_at: "2026-03-30T04:17:49.019Z"
 status: "active"
 ---
 

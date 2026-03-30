@@ -3,9 +3,9 @@ title: "Section 3712g - Availability of funds"
 usc_title: 42
 usc_section: "3712g"
 chapter: 46
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 3712g"
-generated_at: "2026-03-30T04:14:16.010Z"
+generated_at: "2026-03-30T04:17:41.843Z"
 status: "active"
 ---
 

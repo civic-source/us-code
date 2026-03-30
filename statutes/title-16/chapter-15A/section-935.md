@@ -3,9 +3,9 @@ title: "Section 935 - Acquisition of real property; construction and operation o
 usc_title: 16
 usc_section: "935"
 chapter: 15
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 935"
-generated_at: "2026-03-30T04:13:16.052Z"
+generated_at: "2026-03-30T04:16:25.335Z"
 status: "active"
 ---
 

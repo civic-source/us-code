@@ -3,9 +3,9 @@ title: "Section 18042 - Federal program to assist establishment and operation of
 usc_title: 42
 usc_section: "18042"
 chapter: 157
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 18042"
-generated_at: "2026-03-30T04:14:16.400Z"
+generated_at: "2026-03-30T04:17:42.229Z"
 status: "active"
 ---
 

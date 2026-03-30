@@ -3,9 +3,9 @@ title: "Section 5600 - Repealed. Pub. L. 104–106, div. A, title XV, § 1501(c)
 usc_title: 10
 usc_section: "5600"
 chapter: 539
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 5600"
-generated_at: "2026-03-30T04:12:47.119Z"
+generated_at: "2026-03-30T04:15:29.958Z"
 status: "repealed"
 ---
 

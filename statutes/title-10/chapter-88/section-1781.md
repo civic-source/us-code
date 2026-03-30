@@ -3,9 +3,9 @@ title: "Section 1781 - Office of Family Policy"
 usc_title: 10
 usc_section: "1781"
 chapter: 88
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 1781"
-generated_at: "2026-03-30T04:12:47.040Z"
+generated_at: "2026-03-30T04:15:29.889Z"
 status: "active"
 ---
 

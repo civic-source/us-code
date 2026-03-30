@@ -3,9 +3,9 @@ title: "Section 130f - Congressional notification of sensitive military operatio
 usc_title: 10
 usc_section: "130f"
 chapter: 3
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 130f"
-generated_at: "2026-03-30T04:12:46.952Z"
+generated_at: "2026-03-30T04:15:29.818Z"
 status: "active"
 ---
 

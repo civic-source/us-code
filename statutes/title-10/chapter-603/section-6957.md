@@ -3,9 +3,9 @@ title: "Section 6957 - Selection of persons from foreign countries"
 usc_title: 10
 usc_section: "6957"
 chapter: 603
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 6957"
-generated_at: "2026-03-30T04:12:47.124Z"
+generated_at: "2026-03-30T04:15:29.963Z"
 status: "active"
 ---
 

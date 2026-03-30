@@ -3,9 +3,9 @@ title: "Section 2943 - Transfer of Federal equity in State employment security r
 usc_title: 29
 usc_section: "2943"
 chapter: 30
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "29 U.S.C. § 2943"
-generated_at: "2026-03-30T04:13:40.922Z"
+generated_at: "2026-03-30T04:17:06.272Z"
 status: "active"
 ---
 

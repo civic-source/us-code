@@ -3,9 +3,9 @@ title: "Section 29 - Repealed. Pub. L. 86–624, § 14(b)(1) , July 12, 1960 , 7
 usc_title: 20
 usc_section: "29"
 chapter: 2
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 29"
-generated_at: "2026-03-30T04:13:18.533Z"
+generated_at: "2026-03-30T04:16:29.472Z"
 status: "repealed"
 ---
 

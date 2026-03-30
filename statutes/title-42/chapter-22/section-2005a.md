@@ -3,9 +3,9 @@ title: "Section 2005a - Amount of assistance; determination of costs"
 usc_title: 42
 usc_section: "2005a"
 chapter: 22
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 2005a"
-generated_at: "2026-03-30T04:14:15.955Z"
+generated_at: "2026-03-30T04:17:41.788Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 75 - Native American uses and interests"
 usc_title: 16
 usc_section: "75"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 75"
-generated_at: "2026-03-30T04:13:15.904Z"
+generated_at: "2026-03-30T04:16:25.142Z"
 status: "active"
 ---
 

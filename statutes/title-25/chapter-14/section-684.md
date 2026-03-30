@@ -3,9 +3,9 @@ title: "Section 684 - Per capita payment to tribal members; installments; rules 
 usc_title: 25
 usc_section: "684"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 684"
-generated_at: "2026-03-30T04:13:28.909Z"
+generated_at: "2026-03-30T04:16:44.947Z"
 status: "active"
 ---
 

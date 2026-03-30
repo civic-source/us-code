@@ -3,9 +3,9 @@ title: "Section 941n - Tax treatment of income and transactions"
 usc_title: 25
 usc_section: "941n"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 941n"
-generated_at: "2026-03-30T04:13:28.919Z"
+generated_at: "2026-03-30T04:16:44.958Z"
 status: "active"
 ---
 

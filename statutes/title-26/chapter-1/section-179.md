@@ -3,9 +3,9 @@ title: "Section 179 - Election to expense certain depreciable business assets"
 usc_title: 26
 usc_section: "179"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 179"
-generated_at: "2026-03-30T04:13:48.120Z"
+generated_at: "2026-03-30T04:17:14.476Z"
 status: "active"
 ---
 

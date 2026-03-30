@@ -3,9 +3,9 @@ title: "Section 1834 - Heating and ventilating Senate wing"
 usc_title: 2
 usc_section: "1834"
 chapter: 28
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 1834"
-generated_at: "2026-03-30T04:12:26.473Z"
+generated_at: "2026-03-30T04:15:17.512Z"
 status: "active"
 ---
 

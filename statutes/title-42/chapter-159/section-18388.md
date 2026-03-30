@@ -3,9 +3,9 @@ title: "Section 18388 - Space weather"
 usc_title: 42
 usc_section: "18388"
 chapter: 159
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 18388"
-generated_at: "2026-03-30T04:14:16.407Z"
+generated_at: "2026-03-30T04:17:42.236Z"
 status: "active"
 ---
 

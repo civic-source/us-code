@@ -3,9 +3,9 @@ title: "Section 322 - Discharge of enlisted members"
 usc_title: 32
 usc_section: "322"
 chapter: 3
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "32 U.S.C. § 322"
-generated_at: "2026-03-30T04:13:50.162Z"
+generated_at: "2026-03-30T04:17:16.523Z"
 status: "active"
 ---
 

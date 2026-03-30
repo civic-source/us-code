@@ -3,9 +3,9 @@ title: "Section 1226a - Mandatory detention of suspected terrorists; habeas corp
 usc_title: 8
 usc_section: "1226a"
 chapter: 12
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "8 U.S.C. § 1226a"
-generated_at: "2026-03-30T04:12:42.335Z"
+generated_at: "2026-03-30T04:15:21.467Z"
 status: "active"
 ---
 

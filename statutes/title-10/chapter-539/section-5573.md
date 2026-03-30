@@ -3,9 +3,9 @@ title: "Section 5573 - Repealed. Pub. L. 96–513, title III, § 322 , Dec. 12, 
 usc_title: 10
 usc_section: "5573"
 chapter: 539
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 5573"
-generated_at: "2026-03-30T04:12:47.119Z"
+generated_at: "2026-03-30T04:15:29.958Z"
 status: "repealed"
 ---
 

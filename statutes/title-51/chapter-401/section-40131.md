@@ -3,9 +3,9 @@ title: "Section 40131 - Aeronautics scholarships"
 usc_title: 51
 usc_section: "40131"
 chapter: 401
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "51 U.S.C. § 40131"
-generated_at: "2026-03-30T04:14:52.169Z"
+generated_at: "2026-03-30T04:17:52.289Z"
 status: "active"
 ---
 

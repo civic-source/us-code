@@ -3,9 +3,9 @@ title: "Section 2292b - Disaster assistance coordination through a Special Coord
 usc_title: 22
 usc_section: "2292b"
 chapter: 32
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 2292b"
-generated_at: "2026-03-30T04:13:32.085Z"
+generated_at: "2026-03-30T04:17:01.811Z"
 status: "active"
 ---
 

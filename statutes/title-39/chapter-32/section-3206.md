@@ -3,9 +3,9 @@ title: "Section 3206 - Reimbursement for penalty mail service"
 usc_title: 39
 usc_section: "3206"
 chapter: 32
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "39 U.S.C. § 3206"
-generated_at: "2026-03-30T04:13:55.928Z"
+generated_at: "2026-03-30T04:17:20.711Z"
 status: "active"
 ---
 

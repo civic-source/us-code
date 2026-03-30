@@ -3,9 +3,9 @@ title: "Section 430aa - Pea Ridge National Military Park; establishment"
 usc_title: 16
 usc_section: "430aa"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 430aa"
-generated_at: "2026-03-30T04:13:15.919Z"
+generated_at: "2026-03-30T04:16:25.160Z"
 status: "active"
 ---
 

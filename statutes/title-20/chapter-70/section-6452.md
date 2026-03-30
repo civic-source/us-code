@@ -3,9 +3,9 @@ title: "Section 6452 - Programs operated by local educational agencies"
 usc_title: 20
 usc_section: "6452"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 6452"
-generated_at: "2026-03-30T04:13:18.683Z"
+generated_at: "2026-03-30T04:16:29.640Z"
 status: "active"
 ---
 

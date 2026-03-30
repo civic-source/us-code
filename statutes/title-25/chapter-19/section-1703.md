@@ -3,9 +3,9 @@ title: "Section 1703 - Rhode Island Indian Claims Settlement Fund; establishment
 usc_title: 25
 usc_section: "1703"
 chapter: 19
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 1703"
-generated_at: "2026-03-30T04:13:28.947Z"
+generated_at: "2026-03-30T04:16:44.989Z"
 status: "active"
 ---
 

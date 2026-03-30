@@ -3,9 +3,9 @@ title: "Section 172173 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 64
 usc_title: 50
 usc_section: "172173"
 chapter: 11
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "50 U.S.C. § 172173"
-generated_at: "2026-03-30T04:14:35.469Z"
+generated_at: "2026-03-30T04:17:50.305Z"
 status: "repealed"
 ---
 

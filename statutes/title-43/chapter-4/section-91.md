@@ -3,9 +3,9 @@ title: "Section 91 - Deposit in Treasury of unearned fees and un­official money
 usc_title: 43
 usc_section: "91"
 chapter: 4
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "43 U.S.C. § 91"
-generated_at: "2026-03-30T04:14:01.945Z"
+generated_at: "2026-03-30T04:17:28.092Z"
 status: "active"
 ---
 

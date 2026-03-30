@@ -3,9 +3,9 @@ title: "Section 2253 - Prior delegations"
 usc_title: 12
 usc_section: "2253"
 chapter: 23
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 2253"
-generated_at: "2026-03-30T04:12:55.352Z"
+generated_at: "2026-03-30T04:16:05.716Z"
 status: "active"
 ---
 

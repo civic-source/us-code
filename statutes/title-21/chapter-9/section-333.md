@@ -3,9 +3,9 @@ title: "Section 333 - Penalties"
 usc_title: 21
 usc_section: "333"
 chapter: 9
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "21 U.S.C. § 333"
-generated_at: "2026-03-30T04:13:36.020Z"
+generated_at: "2026-03-30T04:16:47.482Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(A)** knowingly importing a drug in violation of section 381(d)(1) of this title ,
     - **(B)** knowingly selling, purchasing, or trading a drug or drug sample or knowingly offering to sell, purchase, or trade a drug or drug sample, in violation of section 353(c)(1) of this title ,
     - **(C)** knowingly selling, purchasing, or trading a coupon, knowingly offering to sell, purchase, or trade such a coupon, or knowingly counterfeiting such a coupon, in violation of section 353(c)(2) of this title , or
-    - **(D)** knowingly distributing drugs in violation of section 353(e)(2)(A) of this title ,
+    - **(D)** knowingly distributing drugs in violation of section 353(e)(1) of this title ,
   - **(2)** Any manufacturer or distributor who distributes drug samples by means other than the mail or common carrier whose representative, during the course of the representative’s employment or association with that manufacturer or distributor, violated section 331(t) of this title because of a violation of section 353(c)(1) of this title or violated any State law prohibiting the sale, purchase, or trade of a drug sample subject to section 353(b) of this title or the offer to sell, purchase, or trade such a drug sample shall, upon conviction of the representative for such violation, be subject to the following civil penalties:
     - **(A)** A civil penalty of not more than $50,000 for each of the first two such violations resulting in a conviction of any representative of the manufacturer or distributor in any 10-year period.
     - **(B)** A civil penalty of not more than $1,000,000 for each violation resulting in a conviction of any representative after the second conviction in any 10-year period.

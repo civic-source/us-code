@@ -3,9 +3,9 @@ title: "Section 1773j - Definitions"
 usc_title: 25
 usc_section: "1773j"
 chapter: 19
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 1773j"
-generated_at: "2026-03-30T04:13:28.952Z"
+generated_at: "2026-03-30T04:16:44.994Z"
 status: "active"
 ---
 

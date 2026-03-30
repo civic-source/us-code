@@ -3,9 +3,9 @@ title: "Section 12215 - Commissioned officers: reserve grade of adjutants genera
 usc_title: 10
 usc_section: "12215"
 chapter: 1205
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 12215"
-generated_at: "2026-03-30T04:12:47.152Z"
+generated_at: "2026-03-30T04:15:29.987Z"
 status: "active"
 ---
 

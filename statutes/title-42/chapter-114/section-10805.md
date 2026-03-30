@@ -3,9 +3,9 @@ title: "Section 10805 - System requirements"
 usc_title: 42
 usc_section: "10805"
 chapter: 114
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 10805"
-generated_at: "2026-03-30T04:14:16.254Z"
+generated_at: "2026-03-30T04:17:42.079Z"
 status: "active"
 ---
 

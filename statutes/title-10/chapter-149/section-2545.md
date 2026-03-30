@@ -3,9 +3,9 @@ title: "Section 2545 - Definitions"
 usc_title: 10
 usc_section: "2545"
 chapter: 149
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2545"
-generated_at: "2026-03-30T04:12:47.083Z"
+generated_at: "2026-03-30T04:15:29.926Z"
 status: "active"
 ---
 

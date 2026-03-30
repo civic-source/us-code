@@ -3,9 +3,9 @@ title: "Section 2000ff - Definitions"
 usc_title: 42
 usc_section: "2000ff"
 chapter: 21
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 2000ff"
-generated_at: "2026-03-30T04:14:15.954Z"
+generated_at: "2026-03-30T04:17:41.785Z"
 status: "active"
 ---
 

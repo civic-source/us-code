@@ -3,9 +3,9 @@ title: "Section 5960 - Multiple contracts within park"
 usc_title: 16
 usc_section: "5960"
 chapter: 79
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 5960"
-generated_at: "2026-03-30T04:13:16.161Z"
+generated_at: "2026-03-30T04:16:25.470Z"
 status: "active"
 ---
 

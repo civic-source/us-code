@@ -3,9 +3,9 @@ title: "Section 460j - Disposition of proceeds"
 usc_title: 16
 usc_section: "460j"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 460j"
-generated_at: "2026-03-30T04:13:15.933Z"
+generated_at: "2026-03-30T04:16:25.179Z"
 status: "active"
 ---
 

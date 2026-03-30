@@ -3,9 +3,9 @@ title: "Section 709 - Delay in delivery caused by disruption of postal or other 
 usc_title: 17
 usc_section: "709"
 chapter: 7
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "17 U.S.C. § 709"
-generated_at: "2026-03-30T04:13:09.486Z"
+generated_at: "2026-03-30T04:16:25.940Z"
 status: "active"
 ---
 

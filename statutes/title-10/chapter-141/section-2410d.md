@@ -3,9 +3,9 @@ title: "Section 2410d - Subcontracting plans: credit for certain purchases"
 usc_title: 10
 usc_section: "2410d"
 chapter: 141
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2410d"
-generated_at: "2026-03-30T04:12:47.073Z"
+generated_at: "2026-03-30T04:15:29.916Z"
 status: "active"
 ---
 

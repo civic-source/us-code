@@ -3,9 +3,9 @@ title: "Section 1713 - Documents to be delivered to the Executive Mansion"
 usc_title: 44
 usc_section: "1713"
 chapter: 17
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "44 U.S.C. § 1713"
-generated_at: "2026-03-30T04:14:01.268Z"
+generated_at: "2026-03-30T04:17:26.015Z"
 status: "active"
 ---
 

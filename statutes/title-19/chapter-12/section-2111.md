@@ -3,9 +3,9 @@ title: "Section 2111 - Basic authority for trade agreements"
 usc_title: 19
 usc_section: "2111"
 chapter: 12
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "19 U.S.C. § 2111"
-generated_at: "2026-03-30T04:13:24.332Z"
+generated_at: "2026-03-30T04:16:40.554Z"
 status: "active"
 ---
 

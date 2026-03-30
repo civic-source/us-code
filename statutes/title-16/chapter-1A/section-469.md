@@ -3,9 +3,9 @@ title: "Section 469 - Preservation of historical and archeological data threaten
 usc_title: 16
 usc_section: "469"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 469"
-generated_at: "2026-03-30T04:13:15.973Z"
+generated_at: "2026-03-30T04:16:25.232Z"
 status: "active"
 ---
 

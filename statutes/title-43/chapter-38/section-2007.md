@@ -3,9 +3,9 @@ title: "Section 2007 - Decision of President"
 usc_title: 43
 usc_section: "2007"
 chapter: 38
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "43 U.S.C. § 2007"
-generated_at: "2026-03-30T04:14:02.010Z"
+generated_at: "2026-03-30T04:17:28.161Z"
 status: "active"
 ---
 

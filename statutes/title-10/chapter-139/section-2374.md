@@ -3,9 +3,9 @@ title: "Section 2374 - Merit-based award of grants for research and development"
 usc_title: 10
 usc_section: "2374"
 chapter: 139
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2374"
-generated_at: "2026-03-30T04:12:47.070Z"
+generated_at: "2026-03-30T04:15:29.914Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5925d - International organic research collaboration"
 usc_title: 7
 usc_section: "5925d"
 chapter: 88
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 5925d"
-generated_at: "2026-03-30T04:12:33.637Z"
+generated_at: "2026-03-30T04:15:50.169Z"
 status: "active"
 ---
 

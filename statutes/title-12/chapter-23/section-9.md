@@ -3,9 +3,9 @@ title: "Section 9 - Exemption from restructuring and borrowers rights provisions
 usc_title: 12
 usc_section: "9"
 chapter: 23
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 9"
-generated_at: "2026-03-30T04:12:55.362Z"
+generated_at: "2026-03-30T04:16:05.724Z"
 status: "active"
 ---
 

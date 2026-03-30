@@ -3,9 +3,9 @@ title: "Section 1229a - Removal proceedings"
 usc_title: 8
 usc_section: "1229a"
 chapter: 12
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "8 U.S.C. § 1229a"
-generated_at: "2026-03-30T04:12:42.336Z"
+generated_at: "2026-03-30T04:15:21.469Z"
 status: "active"
 ---
 

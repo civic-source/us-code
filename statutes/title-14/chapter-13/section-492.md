@@ -3,9 +3,9 @@ title: "Section 492 - Distinguished service medal"
 usc_title: 14
 usc_section: "492"
 chapter: 13
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "14 U.S.C. § 492"
-generated_at: "2026-03-30T04:12:56.882Z"
+generated_at: "2026-03-30T04:15:52.716Z"
 status: "active"
 ---
 

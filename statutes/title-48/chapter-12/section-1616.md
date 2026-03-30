@@ -3,9 +3,9 @@ title: "Section 1616 - Trial by jury"
 usc_title: 48
 usc_section: "1616"
 chapter: 12
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "48 U.S.C. § 1616"
-generated_at: "2026-03-30T04:14:23.068Z"
+generated_at: "2026-03-30T04:17:44.980Z"
 status: "active"
 ---
 

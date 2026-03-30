@@ -3,9 +3,9 @@ title: "Section 1435 - Delegation of authority by Secretary"
 usc_title: 22
 usc_section: "1435"
 chapter: 18
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 1435"
-generated_at: "2026-03-30T04:13:32.055Z"
+generated_at: "2026-03-30T04:17:01.781Z"
 status: "active"
 ---
 

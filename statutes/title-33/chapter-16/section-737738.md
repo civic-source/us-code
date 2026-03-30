@@ -3,9 +3,9 @@ title: "Section 737738 - Omitted"
 usc_title: 33
 usc_section: "737738"
 chapter: 16
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "33 U.S.C. § 737738"
-generated_at: "2026-03-30T04:13:52.297Z"
+generated_at: "2026-03-30T04:17:18.925Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7304 - Examination of vessels; striking of vessels from Naval Ve
 usc_title: 10
 usc_section: "7304"
 chapter: 633
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 7304"
-generated_at: "2026-03-30T04:12:47.129Z"
+generated_at: "2026-03-30T04:15:29.966Z"
 status: "active"
 ---
 

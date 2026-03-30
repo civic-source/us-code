@@ -3,9 +3,9 @@ title: "Section 1 - Annual government-business forum on capital formation"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T04:13:07.303Z"
+generated_at: "2026-03-30T04:16:10.594Z"
 status: "active"
 ---
 

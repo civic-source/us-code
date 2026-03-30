@@ -3,9 +3,9 @@ title: "Section 1306c - Restriction on access to the Death Master File"
 usc_title: 42
 usc_section: "1306c"
 chapter: 7
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 1306c"
-generated_at: "2026-03-30T04:14:15.719Z"
+generated_at: "2026-03-30T04:17:41.558Z"
 status: "active"
 ---
 

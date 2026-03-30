@@ -3,9 +3,9 @@ title: "Section 1 - National Science Foundation manufacturing research and educa
 usc_title: 42
 usc_section: "1"
 chapter: 16
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T04:14:15.937Z"
+generated_at: "2026-03-30T04:17:41.769Z"
 status: "active"
 ---
 

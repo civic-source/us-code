@@ -3,9 +3,9 @@ title: "Section 1812 - Report on facilities"
 usc_title: 25
 usc_section: "1812"
 chapter: 20
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 1812"
-generated_at: "2026-03-30T04:13:28.958Z"
+generated_at: "2026-03-30T04:16:45.001Z"
 status: "active"
 ---
 

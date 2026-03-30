@@ -3,9 +3,9 @@ title: "Section 7273 - Purposes"
 usc_title: 20
 usc_section: "7273"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 7273"
-generated_at: "2026-03-30T04:13:18.708Z"
+generated_at: "2026-03-30T04:16:29.669Z"
 status: "active"
 ---
 

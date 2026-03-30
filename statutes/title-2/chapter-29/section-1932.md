@@ -3,9 +3,9 @@ title: "Section 1932 - Application of premium pay limits on annualized basis"
 usc_title: 2
 usc_section: "1932"
 chapter: 29
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 1932"
-generated_at: "2026-03-30T04:12:26.476Z"
+generated_at: "2026-03-30T04:15:17.515Z"
 status: "active"
 ---
 

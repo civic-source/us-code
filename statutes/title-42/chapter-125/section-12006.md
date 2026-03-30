@@ -3,9 +3,9 @@ title: "Section 12006 - Reports"
 usc_title: 42
 usc_section: "12006"
 chapter: 125
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 12006"
-generated_at: "2026-03-30T04:14:16.271Z"
+generated_at: "2026-03-30T04:17:42.097Z"
 status: "active"
 ---
 

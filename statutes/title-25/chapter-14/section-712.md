@@ -3,9 +3,9 @@ title: "Section 712 - Definitions"
 usc_title: 25
 usc_section: "712"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 712"
-generated_at: "2026-03-30T04:13:28.910Z"
+generated_at: "2026-03-30T04:16:44.949Z"
 status: "active"
 ---
 

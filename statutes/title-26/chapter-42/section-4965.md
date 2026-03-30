@@ -3,9 +3,9 @@ title: "Section 4965 - Excise tax on certain tax-exempt entities entering into p
 usc_title: 26
 usc_section: "4965"
 chapter: 42
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 4965"
-generated_at: "2026-03-30T04:13:48.304Z"
+generated_at: "2026-03-30T04:17:14.681Z"
 status: "active"
 ---
 

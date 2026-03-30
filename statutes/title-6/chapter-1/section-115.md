@@ -3,9 +3,9 @@ title: "Section 115 - Trade and customs revenue functions of the Department"
 usc_title: 6
 usc_section: "115"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "6 U.S.C. § 115"
-generated_at: "2026-03-30T04:12:34.465Z"
+generated_at: "2026-03-30T04:15:20.819Z"
 status: "active"
 ---
 

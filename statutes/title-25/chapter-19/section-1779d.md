@@ -3,9 +3,9 @@ title: "Section 1779d - Tribal trust funds"
 usc_title: 25
 usc_section: "1779d"
 chapter: 19
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 1779d"
-generated_at: "2026-03-30T04:13:28.956Z"
+generated_at: "2026-03-30T04:16:44.999Z"
 status: "active"
 ---
 

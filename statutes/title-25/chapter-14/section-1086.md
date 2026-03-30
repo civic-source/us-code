@@ -3,9 +3,9 @@ title: "Section 1086 - Advances or expenditures from tribal funds"
 usc_title: 25
 usc_section: "1086"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 1086"
-generated_at: "2026-03-30T04:13:28.921Z"
+generated_at: "2026-03-30T04:16:44.961Z"
 status: "active"
 ---
 

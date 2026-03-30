@@ -3,9 +3,9 @@ title: "Section 848 - Continuing criminal enterprise"
 usc_title: 21
 usc_section: "848"
 chapter: 13
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "21 U.S.C. § 848"
-generated_at: "2026-03-30T04:13:36.099Z"
+generated_at: "2026-03-30T04:16:47.560Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1020ito1020n - Repealed. Aug. 14, 1946, ch. 964, § 2(a)(2) , 60
 usc_title: 12
 usc_section: "1020ito1020n"
 chapter: 7
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 1020ito1020n"
-generated_at: "2026-03-30T04:12:55.223Z"
+generated_at: "2026-03-30T04:16:05.595Z"
 status: "repealed"
 ---
 

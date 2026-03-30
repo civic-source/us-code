@@ -3,9 +3,9 @@ title: "Section 450x - Authorization of annual appropriations"
 usc_title: 16
 usc_section: "450x"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 450x"
-generated_at: "2026-03-30T04:13:15.923Z"
+generated_at: "2026-03-30T04:16:25.165Z"
 status: "active"
 ---
 

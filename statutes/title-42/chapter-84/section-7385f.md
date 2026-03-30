@@ -3,9 +3,9 @@ title: "Section 7385f - Claims not assignable or transferable; choice of remedie
 usc_title: 42
 usc_section: "7385f"
 chapter: 84
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 7385f"
-generated_at: "2026-03-30T04:14:16.138Z"
+generated_at: "2026-03-30T04:17:41.968Z"
 status: "active"
 ---
 

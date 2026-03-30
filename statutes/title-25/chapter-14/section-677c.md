@@ -3,9 +3,9 @@ title: "Section 677c - Transfer of members from full-blood roll to mixed-blood g
 usc_title: 25
 usc_section: "677c"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 677c"
-generated_at: "2026-03-30T04:13:28.907Z"
+generated_at: "2026-03-30T04:16:44.945Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 77 - California State School lands"
 usc_title: 16
 usc_section: "77"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 77"
-generated_at: "2026-03-30T04:13:15.904Z"
+generated_at: "2026-03-30T04:16:25.142Z"
 status: "active"
 ---
 

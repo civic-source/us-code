@@ -3,9 +3,9 @@ title: "Section 1406h - Taxes, duties and fees as funds for benefit of municipal
 usc_title: 48
 usc_section: "1406h"
 chapter: 7
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "48 U.S.C. § 1406h"
-generated_at: "2026-03-30T04:14:23.061Z"
+generated_at: "2026-03-30T04:17:44.972Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12301 - Findings"
 usc_title: 42
 usc_section: "12301"
 chapter: 127
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 12301"
-generated_at: "2026-03-30T04:14:16.277Z"
+generated_at: "2026-03-30T04:17:42.101Z"
 status: "active"
 ---
 

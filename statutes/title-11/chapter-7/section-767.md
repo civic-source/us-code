@@ -3,9 +3,9 @@ title: "Section 767 - Commodity broker liquidation and forward contract merchant
 usc_title: 11
 usc_section: "767"
 chapter: 7
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "11 U.S.C. § 767"
-generated_at: "2026-03-30T04:12:56.312Z"
+generated_at: "2026-03-30T04:15:53.249Z"
 status: "active"
 ---
 

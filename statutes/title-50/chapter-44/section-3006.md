@@ -3,9 +3,9 @@ title: "Section 3006 - Repealing and savings provisions"
 usc_title: 50
 usc_section: "3006"
 chapter: 44
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "50 U.S.C. § 3006"
-generated_at: "2026-03-30T04:14:35.507Z"
+generated_at: "2026-03-30T04:17:50.342Z"
 status: "active"
 ---
 

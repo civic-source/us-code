@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-30T04:14:15.888Z"
+generated_at: "2026-03-30T04:17:41.722Z"
 status: "active"
 ---
 

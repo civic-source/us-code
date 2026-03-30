@@ -3,9 +3,9 @@ title: "Section 4982 - Excise tax on undistributed income of regulated investmen
 usc_title: 26
 usc_section: "4982"
 chapter: 44
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 4982"
-generated_at: "2026-03-30T04:13:48.311Z"
+generated_at: "2026-03-30T04:17:14.688Z"
 status: "active"
 ---
 

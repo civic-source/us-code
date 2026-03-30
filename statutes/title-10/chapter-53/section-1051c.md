@@ -3,9 +3,9 @@ title: "Section 1051c - Multilateral, bilateral, or regional cooperation program
 usc_title: 10
 usc_section: "1051c"
 chapter: 53
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 1051c"
-generated_at: "2026-03-30T04:12:47.003Z"
+generated_at: "2026-03-30T04:15:29.856Z"
 status: "active"
 ---
 

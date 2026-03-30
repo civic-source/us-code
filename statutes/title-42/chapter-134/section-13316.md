@@ -3,9 +3,9 @@ title: "Section 13316 - Innovative renewable energy technology transfer program"
 usc_title: 42
 usc_section: "13316"
 chapter: 134
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 13316"
-generated_at: "2026-03-30T04:14:16.311Z"
+generated_at: "2026-03-30T04:17:42.138Z"
 status: "active"
 ---
 

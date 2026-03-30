@@ -3,9 +3,9 @@ title: "Section 7225g - Authorization of appropriations"
 usc_title: 20
 usc_section: "7225g"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 7225g"
-generated_at: "2026-03-30T04:13:18.703Z"
+generated_at: "2026-03-30T04:16:29.663Z"
 status: "active"
 ---
 

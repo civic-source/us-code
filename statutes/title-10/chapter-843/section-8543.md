@@ -3,9 +3,9 @@ title: "Section 8543 - Aides: detail; number authorized"
 usc_title: 10
 usc_section: "8543"
 chapter: 843
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 8543"
-generated_at: "2026-03-30T04:12:47.138Z"
+generated_at: "2026-03-30T04:15:29.974Z"
 status: "active"
 ---
 

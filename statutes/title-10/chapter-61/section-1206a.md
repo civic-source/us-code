@@ -3,9 +3,9 @@ title: "Section 1206a - Reserve component members unable to perform duties when 
 usc_title: 10
 usc_section: "1206a"
 chapter: 61
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 1206a"
-generated_at: "2026-03-30T04:12:47.019Z"
+generated_at: "2026-03-30T04:15:29.870Z"
 status: "active"
 ---
 

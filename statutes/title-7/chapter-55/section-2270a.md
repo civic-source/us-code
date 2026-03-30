@@ -3,9 +3,9 @@ title: "Section 2270a - Office of Inspector General; transfer of forfeiture fund
 usc_title: 7
 usc_section: "2270a"
 chapter: 55
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 2270a"
-generated_at: "2026-03-30T04:12:33.594Z"
+generated_at: "2026-03-30T04:15:50.126Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 469a - Notice of dam construction to be given Secretary of the I
 usc_title: 16
 usc_section: "469a"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 469a"
-generated_at: "2026-03-30T04:13:15.973Z"
+generated_at: "2026-03-30T04:16:25.232Z"
 status: "active"
 ---
 

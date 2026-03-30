@@ -3,9 +3,9 @@ title: "Section 5866 - Repealed. Pub. L. 85–861, § 36B(15) , Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "5866"
 chapter: 547
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 5866"
-generated_at: "2026-03-30T04:12:47.120Z"
+generated_at: "2026-03-30T04:15:29.959Z"
 status: "repealed"
 ---
 

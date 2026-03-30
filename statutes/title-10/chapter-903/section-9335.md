@@ -3,9 +3,9 @@ title: "Section 9335 - Dean of the Faculty"
 usc_title: 10
 usc_section: "9335"
 chapter: 903
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 9335"
-generated_at: "2026-03-30T04:12:47.141Z"
+generated_at: "2026-03-30T04:15:29.976Z"
 status: "active"
 ---
 

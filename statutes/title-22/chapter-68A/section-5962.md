@@ -3,9 +3,9 @@ title: "Section 5962 - Annual certifications on use of facilities being construc
 usc_title: 22
 usc_section: "5962"
 chapter: 68
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 5962"
-generated_at: "2026-03-30T04:13:32.163Z"
+generated_at: "2026-03-30T04:17:01.900Z"
 status: "active"
 ---
 

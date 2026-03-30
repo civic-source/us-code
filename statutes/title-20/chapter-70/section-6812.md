@@ -3,9 +3,9 @@ title: "Section 6812 - Purposes"
 usc_title: 20
 usc_section: "6812"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 6812"
-generated_at: "2026-03-30T04:13:18.692Z"
+generated_at: "2026-03-30T04:16:29.650Z"
 status: "active"
 ---
 

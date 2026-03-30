@@ -3,9 +3,9 @@ title: "Section 1384to1387 - Transferred"
 usc_title: 48
 usc_section: "1384to1387"
 chapter: 6
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "48 U.S.C. § 1384to1387"
-generated_at: "2026-03-30T04:14:23.060Z"
+generated_at: "2026-03-30T04:17:44.971Z"
 status: "transferred"
 ---
 

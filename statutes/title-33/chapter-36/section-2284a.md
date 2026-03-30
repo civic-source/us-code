@@ -3,9 +3,9 @@ title: "Section 2284a - Benefits to navigation"
 usc_title: 33
 usc_section: "2284a"
 chapter: 36
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "33 U.S.C. § 2284a"
-generated_at: "2026-03-30T04:13:52.346Z"
+generated_at: "2026-03-30T04:17:18.975Z"
 status: "active"
 ---
 

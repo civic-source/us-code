@@ -3,9 +3,9 @@ title: "Section 3516 - Rules and regulations"
 usc_title: 44
 usc_section: "3516"
 chapter: 35
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "44 U.S.C. § 3516"
-generated_at: "2026-03-30T04:14:01.273Z"
+generated_at: "2026-03-30T04:17:26.021Z"
 status: "active"
 ---
 

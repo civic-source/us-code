@@ -3,9 +3,9 @@ title: "Section 9 - Limitations on funding"
 usc_title: 16
 usc_section: "9"
 chapter: 6
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T04:13:16.021Z"
+generated_at: "2026-03-30T04:16:25.296Z"
 status: "active"
 ---
 

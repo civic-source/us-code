@@ -3,9 +3,9 @@ title: "Section 8901 - Purposes"
 usc_title: 40
 usc_section: "8901"
 chapter: 89
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "40 U.S.C. § 8901"
-generated_at: "2026-03-30T04:13:57.631Z"
+generated_at: "2026-03-30T04:17:22.708Z"
 status: "active"
 ---
 

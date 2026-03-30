@@ -3,9 +3,9 @@ title: "Section 4071a - Definitions"
 usc_title: 22
 usc_section: "4071a"
 chapter: 52
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 4071a"
-generated_at: "2026-03-30T04:13:32.141Z"
+generated_at: "2026-03-30T04:17:01.872Z"
 status: "active"
 ---
 

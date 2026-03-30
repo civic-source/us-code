@@ -3,9 +3,9 @@ title: "Section 22 - Requirements"
 usc_title: 20
 usc_section: "22"
 chapter: 28
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 22"
-generated_at: "2026-03-30T04:13:18.567Z"
+generated_at: "2026-03-30T04:16:29.511Z"
 status: "active"
 ---
 

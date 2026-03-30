@@ -3,9 +3,9 @@ title: "Section 4364 - Expenditure of funds for research and development related
 usc_title: 42
 usc_section: "4364"
 chapter: 55
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 4364"
-generated_at: "2026-03-30T04:14:16.036Z"
+generated_at: "2026-03-30T04:17:41.868Z"
 status: "active"
 ---
 

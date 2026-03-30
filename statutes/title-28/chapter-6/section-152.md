@@ -3,9 +3,9 @@ title: "Section 152 - Appointment of bankruptcy judges"
 usc_title: 28
 usc_section: "152"
 chapter: 6
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "28 U.S.C. § 152"
-generated_at: "2026-03-30T04:13:39.598Z"
+generated_at: "2026-03-30T04:17:07.237Z"
 status: "active"
 ---
 

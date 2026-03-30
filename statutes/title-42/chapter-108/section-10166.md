@@ -3,9 +3,9 @@ title: "Section 10166 - Notice of disapproval"
 usc_title: 42
 usc_section: "10166"
 chapter: 108
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 10166"
-generated_at: "2026-03-30T04:14:16.241Z"
+generated_at: "2026-03-30T04:17:42.067Z"
 status: "active"
 ---
 

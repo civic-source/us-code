@@ -3,9 +3,9 @@ title: "Section 2801 - Congressional findings"
 usc_title: 22
 usc_section: "2801"
 chapter: 40
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 2801"
-generated_at: "2026-03-30T04:13:32.121Z"
+generated_at: "2026-03-30T04:17:01.851Z"
 status: "active"
 ---
 

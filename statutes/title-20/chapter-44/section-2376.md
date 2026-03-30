@@ -3,9 +3,9 @@ title: "Section 2376 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2376"
 chapter: 44
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 2376"
-generated_at: "2026-03-30T04:13:18.650Z"
+generated_at: "2026-03-30T04:16:29.604Z"
 status: "active"
 ---
 

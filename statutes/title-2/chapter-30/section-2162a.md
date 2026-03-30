@@ -3,9 +3,9 @@ title: "Section 2162a - Promoting maximum efficiency in operation of Capitol Pow
 usc_title: 2
 usc_section: "2162a"
 chapter: 30
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 2162a"
-generated_at: "2026-03-30T04:12:26.480Z"
+generated_at: "2026-03-30T04:15:17.520Z"
 status: "active"
 ---
 

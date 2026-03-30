@@ -3,9 +3,9 @@ title: "Section 1151 - Open World Leadership Center"
 usc_title: 2
 usc_section: "1151"
 chapter: 22
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 1151"
-generated_at: "2026-03-30T04:12:26.465Z"
+generated_at: "2026-03-30T04:15:17.502Z"
 status: "active"
 ---
 

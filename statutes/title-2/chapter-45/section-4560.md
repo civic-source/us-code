@@ -3,9 +3,9 @@ title: "Section 4560 - Deductions by Chief Administrative Officer in disbursemen
 usc_title: 2
 usc_section: "4560"
 chapter: 45
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 4560"
-generated_at: "2026-03-30T04:12:26.486Z"
+generated_at: "2026-03-30T04:15:17.526Z"
 status: "active"
 ---
 

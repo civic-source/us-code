@@ -3,9 +3,9 @@ title: "Section 1671 - Countervailing duties imposed"
 usc_title: 19
 usc_section: "1671"
 chapter: 4
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "19 U.S.C. § 1671"
-generated_at: "2026-03-30T04:13:24.316Z"
+generated_at: "2026-03-30T04:16:40.538Z"
 status: "active"
 ---
 

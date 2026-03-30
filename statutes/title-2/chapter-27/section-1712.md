@@ -3,9 +3,9 @@ title: "Section 1712 - Promoting accessibility and public awareness of sound rec
 usc_title: 2
 usc_section: "1712"
 chapter: 27
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 1712"
-generated_at: "2026-03-30T04:12:26.472Z"
+generated_at: "2026-03-30T04:15:17.510Z"
 status: "active"
 ---
 

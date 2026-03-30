@@ -3,9 +3,9 @@ title: "Section 441i - Transferred"
 usc_title: 2
 usc_section: "441i"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 441i"
-generated_at: "2026-03-30T04:12:26.453Z"
+generated_at: "2026-03-30T04:15:17.489Z"
 status: "transferred"
 ---
 

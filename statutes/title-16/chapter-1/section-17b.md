@@ -3,9 +3,9 @@ title: "Section 17b - Services or other accommodations for public; contracts; ra
 usc_title: 16
 usc_section: "17b"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 17b"
-generated_at: "2026-03-30T04:13:15.854Z"
+generated_at: "2026-03-30T04:16:25.079Z"
 status: "active"
 ---
 

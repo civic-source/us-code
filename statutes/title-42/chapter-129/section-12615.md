@@ -3,9 +3,9 @@ title: "Section 12615 - National Civilian Community Corps"
 usc_title: 42
 usc_section: "12615"
 chapter: 129
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 12615"
-generated_at: "2026-03-30T04:14:16.286Z"
+generated_at: "2026-03-30T04:17:42.111Z"
 status: "active"
 ---
 

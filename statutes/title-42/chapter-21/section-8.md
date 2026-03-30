@@ -3,9 +3,9 @@ title: "Section 8 - Investigations"
 usc_title: 42
 usc_section: "8"
 chapter: 21
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T04:14:15.949Z"
+generated_at: "2026-03-30T04:17:41.781Z"
 status: "active"
 ---
 

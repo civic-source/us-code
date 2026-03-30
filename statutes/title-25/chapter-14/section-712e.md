@@ -3,9 +3,9 @@ title: "Section 712e - Certain property taken into trust"
 usc_title: 25
 usc_section: "712e"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 712e"
-generated_at: "2026-03-30T04:13:28.911Z"
+generated_at: "2026-03-30T04:16:44.949Z"
 status: "active"
 ---
 

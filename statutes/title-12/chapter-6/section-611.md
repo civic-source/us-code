@@ -3,9 +3,9 @@ title: "Section 611 - Formation authorized; fiscal agents; depositaries in insul
 usc_title: 12
 usc_section: "611"
 chapter: 6
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 611"
-generated_at: "2026-03-30T04:12:55.214Z"
+generated_at: "2026-03-30T04:16:05.588Z"
 status: "active"
 ---
 

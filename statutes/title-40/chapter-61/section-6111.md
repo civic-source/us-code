@@ -3,9 +3,9 @@ title: "Section 6111 - Supreme Court Building"
 usc_title: 40
 usc_section: "6111"
 chapter: 61
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "40 U.S.C. § 6111"
-generated_at: "2026-03-30T04:13:57.626Z"
+generated_at: "2026-03-30T04:17:22.704Z"
 status: "active"
 ---
 

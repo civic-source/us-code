@@ -3,9 +3,9 @@ title: "Section 1200to1204 - Transferred"
 usc_title: 22
 usc_section: "1200to1204"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 1200to1204"
-generated_at: "2026-03-30T04:13:32.054Z"
+generated_at: "2026-03-30T04:17:01.780Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 566b - Conservation and development of lands"
 usc_title: 25
 usc_section: "566b"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 566b"
-generated_at: "2026-03-30T04:13:28.899Z"
+generated_at: "2026-03-30T04:16:44.936Z"
 status: "active"
 ---
 

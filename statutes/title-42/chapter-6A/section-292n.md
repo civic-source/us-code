@@ -3,9 +3,9 @@ title: "Section 292n - Additional requirements for institutions and lenders"
 usc_title: 42
 usc_section: "292n"
 chapter: 6
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 292n"
-generated_at: "2026-03-30T04:14:15.588Z"
+generated_at: "2026-03-30T04:17:41.433Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 181a - Cadet applicants; preappointment travel to Academy"
 usc_title: 14
 usc_section: "181a"
 chapter: 9
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "14 U.S.C. § 181a"
-generated_at: "2026-03-30T04:12:56.881Z"
+generated_at: "2026-03-30T04:15:52.714Z"
 status: "active"
 ---
 

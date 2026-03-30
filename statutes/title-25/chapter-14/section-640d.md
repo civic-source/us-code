@@ -3,9 +3,9 @@ title: "Section 640d - Mediator"
 usc_title: 25
 usc_section: "640d"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 640d"
-generated_at: "2026-03-30T04:13:28.902Z"
+generated_at: "2026-03-30T04:16:44.940Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 467b - Survey by Secretary of the Interior of sites for commemor
 usc_title: 16
 usc_section: "467b"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 467b"
-generated_at: "2026-03-30T04:13:15.973Z"
+generated_at: "2026-03-30T04:16:25.232Z"
 status: "active"
 ---
 

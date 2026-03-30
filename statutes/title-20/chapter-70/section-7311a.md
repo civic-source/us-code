@@ -3,9 +3,9 @@ title: "Section 7311a - Purpose"
 usc_title: 20
 usc_section: "7311a"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 7311a"
-generated_at: "2026-03-30T04:13:18.711Z"
+generated_at: "2026-03-30T04:16:29.671Z"
 status: "active"
 ---
 

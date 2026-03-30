@@ -3,9 +3,9 @@ title: "Section 1358 - Local jurisdiction over immigrant stations"
 usc_title: 8
 usc_section: "1358"
 chapter: 12
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "8 U.S.C. § 1358"
-generated_at: "2026-03-30T04:12:42.350Z"
+generated_at: "2026-03-30T04:15:21.480Z"
 status: "active"
 ---
 

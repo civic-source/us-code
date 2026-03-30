@@ -3,9 +3,9 @@ title: "Section 108 - Repeal of repealing act"
 usc_title: 1
 usc_section: "108"
 chapter: 2
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "1 U.S.C. § 108"
-generated_at: "2026-03-30T04:12:17.949Z"
+generated_at: "2026-03-30T04:15:05.638Z"
 status: "active"
 ---
 

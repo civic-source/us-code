@@ -3,9 +3,9 @@ title: "Section 14137b - Expungement of profiles"
 usc_title: 42
 usc_section: "14137b"
 chapter: 136
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 14137b"
-generated_at: "2026-03-30T04:14:16.336Z"
+generated_at: "2026-03-30T04:17:42.164Z"
 status: "active"
 ---
 

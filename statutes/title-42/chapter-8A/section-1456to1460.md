@@ -3,9 +3,9 @@ title: "Section 1456to1460 - Omitted"
 usc_title: 42
 usc_section: "1456to1460"
 chapter: 8
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 1456to1460"
-generated_at: "2026-03-30T04:14:15.900Z"
+generated_at: "2026-03-30T04:17:41.734Z"
 status: "omitted"
 ---
 

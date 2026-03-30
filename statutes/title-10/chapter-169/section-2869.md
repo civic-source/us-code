@@ -3,9 +3,9 @@ title: "Section 2869 - Exchange of property at military installations"
 usc_title: 10
 usc_section: "2869"
 chapter: 169
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2869"
-generated_at: "2026-03-30T04:12:47.100Z"
+generated_at: "2026-03-30T04:15:29.941Z"
 status: "active"
 ---
 

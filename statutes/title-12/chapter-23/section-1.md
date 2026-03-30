@@ -3,9 +3,9 @@ title: "Section 1 - Risk-based capital levels"
 usc_title: 12
 usc_section: "1"
 chapter: 23
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T04:12:55.363Z"
+generated_at: "2026-03-30T04:16:05.725Z"
 status: "active"
 ---
 

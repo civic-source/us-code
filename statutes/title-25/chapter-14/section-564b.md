@@ -3,9 +3,9 @@ title: "Section 564b - Membership roll; closure; preparation and initial publica
 usc_title: 25
 usc_section: "564b"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 564b"
-generated_at: "2026-03-30T04:13:28.898Z"
+generated_at: "2026-03-30T04:16:44.935Z"
 status: "active"
 ---
 

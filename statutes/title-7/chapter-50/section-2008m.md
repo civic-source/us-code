@@ -3,9 +3,9 @@ title: "Section 2008m - National Rural Development Partnership"
 usc_title: 7
 usc_section: "2008m"
 chapter: 50
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 2008m"
-generated_at: "2026-03-30T04:12:33.563Z"
+generated_at: "2026-03-30T04:15:50.092Z"
 status: "active"
 ---
 

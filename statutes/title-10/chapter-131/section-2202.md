@@ -3,9 +3,9 @@ title: "Section 2202 - Regulations on procurement, production, warehousing, and 
 usc_title: 10
 usc_section: "2202"
 chapter: 131
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2202"
-generated_at: "2026-03-30T04:12:47.051Z"
+generated_at: "2026-03-30T04:15:29.898Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6708 - Wage standards for laborers and mechanics; enforcement"
 usc_title: 42
 usc_section: "6708"
 chapter: 80
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 6708"
-generated_at: "2026-03-30T04:14:16.108Z"
+generated_at: "2026-03-30T04:17:41.939Z"
 status: "active"
 ---
 

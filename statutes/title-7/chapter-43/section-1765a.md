@@ -3,9 +3,9 @@ title: "Section 1765a - Agricultural Trade Offices"
 usc_title: 7
 usc_section: "1765a"
 chapter: 43
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 1765a"
-generated_at: "2026-03-30T04:12:33.548Z"
+generated_at: "2026-03-30T04:15:50.076Z"
 status: "active"
 ---
 

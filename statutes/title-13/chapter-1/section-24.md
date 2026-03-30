@@ -3,9 +3,9 @@ title: "Section 24 - Special employment provisions"
 usc_title: 13
 usc_section: "24"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "13 U.S.C. § 24"
-generated_at: "2026-03-30T04:12:49.104Z"
+generated_at: "2026-03-30T04:15:52.503Z"
 status: "active"
 ---
 

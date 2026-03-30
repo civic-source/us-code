@@ -3,9 +3,9 @@ title: "Section 2319 - Criminal infringement of a copyright"
 usc_title: 18
 usc_section: "2319"
 chapter: 113
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "18 U.S.C. § 2319"
-generated_at: "2026-03-30T04:13:11.141Z"
+generated_at: "2026-03-30T04:16:18.699Z"
 status: "active"
 ---
 

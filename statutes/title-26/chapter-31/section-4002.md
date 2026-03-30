@@ -3,9 +3,9 @@ title: "Section 4002 - 1st retail sale; uses, etc. treated as sales; determinati
 usc_title: 26
 usc_section: "4002"
 chapter: 31
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 4002"
-generated_at: "2026-03-30T04:13:48.290Z"
+generated_at: "2026-03-30T04:17:14.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 302 - Joint cases"
 usc_title: 11
 usc_section: "302"
 chapter: 3
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "11 U.S.C. § 302"
-generated_at: "2026-03-30T04:12:56.296Z"
+generated_at: "2026-03-30T04:15:53.234Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 597to600 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028
 usc_title: 16
 usc_section: "597to600"
 chapter: 4
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 597to600"
-generated_at: "2026-03-30T04:13:16.006Z"
+generated_at: "2026-03-30T04:16:25.276Z"
 status: "repealed"
 ---
 

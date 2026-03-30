@@ -3,9 +3,9 @@ title: "Section 2704 - Department of Energy defense nuclear facilities workforce
 usc_title: 50
 usc_section: "2704"
 chapter: 42
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "50 U.S.C. § 2704"
-generated_at: "2026-03-30T04:14:35.501Z"
+generated_at: "2026-03-30T04:17:50.337Z"
 status: "active"
 ---
 

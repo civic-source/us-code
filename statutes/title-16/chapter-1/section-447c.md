@@ -3,9 +3,9 @@ title: "Section 447c - Administration, protection, and development"
 usc_title: 16
 usc_section: "447c"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 447c"
-generated_at: "2026-03-30T04:13:15.922Z"
+generated_at: "2026-03-30T04:16:25.164Z"
 status: "active"
 ---
 

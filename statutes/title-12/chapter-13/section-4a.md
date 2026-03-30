@@ -3,9 +3,9 @@ title: "Section 4a - Double damages remedy for unauthorized use of multifamily h
 usc_title: 12
 usc_section: "4a"
 chapter: 13
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 4a"
-generated_at: "2026-03-30T04:12:55.268Z"
+generated_at: "2026-03-30T04:16:05.637Z"
 status: "active"
 ---
 

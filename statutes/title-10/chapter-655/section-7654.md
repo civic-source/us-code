@@ -3,9 +3,9 @@ title: "Section 7654 - Effect of failure to start proceedings"
 usc_title: 10
 usc_section: "7654"
 chapter: 655
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 7654"
-generated_at: "2026-03-30T04:12:47.132Z"
+generated_at: "2026-03-30T04:15:29.970Z"
 status: "active"
 ---
 

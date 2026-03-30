@@ -3,9 +3,9 @@ title: "Section 2702 - Purposes"
 usc_title: 29
 usc_section: "2702"
 chapter: 29
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "29 U.S.C. § 2702"
-generated_at: "2026-03-30T04:13:40.909Z"
+generated_at: "2026-03-30T04:17:06.255Z"
 status: "active"
 ---
 

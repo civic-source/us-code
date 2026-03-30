@@ -3,9 +3,9 @@ title: "Section 2481to2484 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 ,
 usc_title: 42
 usc_section: "2481to2484"
 chapter: 26
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 2481to2484"
-generated_at: "2026-03-30T04:14:15.978Z"
+generated_at: "2026-03-30T04:17:41.811Z"
 status: "repealed"
 ---
 

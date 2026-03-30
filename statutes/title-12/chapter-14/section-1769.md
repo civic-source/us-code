@@ -3,9 +3,9 @@ title: "Section 1769 - Separability; right to alter, amend, or repeal chapter"
 usc_title: 12
 usc_section: "1769"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 1769"
-generated_at: "2026-03-30T04:12:55.291Z"
+generated_at: "2026-03-30T04:16:05.659Z"
 status: "active"
 ---
 

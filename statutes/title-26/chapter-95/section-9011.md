@@ -3,9 +3,9 @@ title: "Section 9011 - Judicial review"
 usc_title: 26
 usc_section: "9011"
 chapter: 95
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 9011"
-generated_at: "2026-03-30T04:13:48.390Z"
+generated_at: "2026-03-30T04:17:14.778Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3274 - Authorization of appropriations"
 usc_title: 42
 usc_section: "3274"
 chapter: 40
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 3274"
-generated_at: "2026-03-30T04:14:16.001Z"
+generated_at: "2026-03-30T04:17:41.834Z"
 status: "active"
 ---
 

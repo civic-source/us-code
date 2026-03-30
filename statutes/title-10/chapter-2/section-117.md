@@ -3,9 +3,9 @@ title: "Section 117 - Readiness reporting system: establishment; reporting to co
 usc_title: 10
 usc_section: "117"
 chapter: 2
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 117"
-generated_at: "2026-03-30T04:12:46.949Z"
+generated_at: "2026-03-30T04:15:29.814Z"
 status: "active"
 ---
 

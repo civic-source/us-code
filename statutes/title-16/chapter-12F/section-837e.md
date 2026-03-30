@@ -3,9 +3,9 @@ title: "Section 837e - Transmission lines for other electric energy; rates"
 usc_title: 16
 usc_section: "837e"
 chapter: 12
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 837e"
-generated_at: "2026-03-30T04:13:16.046Z"
+generated_at: "2026-03-30T04:16:25.327Z"
 status: "active"
 ---
 

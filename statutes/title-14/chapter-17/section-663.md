@@ -3,9 +3,9 @@ title: "Section 663 - Capital investment plan"
 usc_title: 14
 usc_section: "663"
 chapter: 17
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "14 U.S.C. § 663"
-generated_at: "2026-03-30T04:12:56.889Z"
+generated_at: "2026-03-30T04:15:52.719Z"
 status: "active"
 ---
 

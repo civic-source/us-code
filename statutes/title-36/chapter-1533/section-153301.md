@@ -3,9 +3,9 @@ title: "Section 153301 - Organization"
 usc_title: 36
 usc_section: "153301"
 chapter: 1533
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "36 U.S.C. § 153301"
-generated_at: "2026-03-30T04:13:56.992Z"
+generated_at: "2026-03-30T04:17:21.548Z"
 status: "active"
 ---
 

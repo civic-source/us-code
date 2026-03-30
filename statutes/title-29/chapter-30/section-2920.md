@@ -3,9 +3,9 @@ title: "Section 2920 - Educational assistance and training"
 usc_title: 29
 usc_section: "2920"
 chapter: 30
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "29 U.S.C. § 2920"
-generated_at: "2026-03-30T04:13:40.921Z"
+generated_at: "2026-03-30T04:17:06.269Z"
 status: "active"
 ---
 

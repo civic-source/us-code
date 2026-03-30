@@ -3,9 +3,9 @@ title: "Section 276to280a1 - Repealed. Pub. L. 99–158, § 3(b) , Nov. 20, 1985
 usc_title: 42
 usc_section: "276to280a1"
 chapter: 6
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 276to280a1"
-generated_at: "2026-03-30T04:14:15.542Z"
+generated_at: "2026-03-30T04:17:41.387Z"
 status: "repealed"
 ---
 

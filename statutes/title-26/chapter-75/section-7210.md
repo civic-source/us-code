@@ -3,9 +3,9 @@ title: "Section 7210 - Failure to obey summons"
 usc_title: 26
 usc_section: "7210"
 chapter: 75
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 7210"
-generated_at: "2026-03-30T04:13:48.369Z"
+generated_at: "2026-03-30T04:17:14.754Z"
 status: "active"
 ---
 

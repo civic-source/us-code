@@ -3,9 +3,9 @@ title: "Section 29 - Restrictions on lobbying; exception"
 usc_title: 25
 usc_section: "29"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 29"
-generated_at: "2026-03-30T04:13:28.905Z"
+generated_at: "2026-03-30T04:16:44.943Z"
 status: "active"
 ---
 

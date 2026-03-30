@@ -3,9 +3,9 @@ title: "Section 1484to1487 - Repealed. Pub. L. 95–432, § 2 , Oct. 10, 1978 , 
 usc_title: 8
 usc_section: "1484to1487"
 chapter: 12
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "8 U.S.C. § 1484to1487"
-generated_at: "2026-03-30T04:12:42.361Z"
+generated_at: "2026-03-30T04:15:21.488Z"
 status: "repealed"
 ---
 

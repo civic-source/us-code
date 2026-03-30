@@ -3,9 +3,9 @@ title: "Section 12683 - Reserve officers: limitation on involuntary separation"
 usc_title: 10
 usc_section: "12683"
 chapter: 1221
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 12683"
-generated_at: "2026-03-30T04:12:47.155Z"
+generated_at: "2026-03-30T04:15:29.990Z"
 status: "active"
 ---
 

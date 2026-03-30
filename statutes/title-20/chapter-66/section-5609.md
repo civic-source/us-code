@@ -3,9 +3,9 @@ title: "Section 5609 - Authorization of appropriations"
 usc_title: 20
 usc_section: "5609"
 chapter: 66
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 5609"
-generated_at: "2026-03-30T04:13:18.666Z"
+generated_at: "2026-03-30T04:16:29.622Z"
 status: "active"
 ---
 

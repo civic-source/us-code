@@ -3,9 +3,9 @@ title: "Section 6373 - Federal administration"
 usc_title: 20
 usc_section: "6373"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 6373"
-generated_at: "2026-03-30T04:13:18.680Z"
+generated_at: "2026-03-30T04:16:29.637Z"
 status: "active"
 ---
 

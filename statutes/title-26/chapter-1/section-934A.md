@@ -3,9 +3,9 @@ title: "Section 934A - Repealed. Pub. L. 99–514, title XII, § 1275(c)(3) , Oc
 usc_title: 26
 usc_section: "934A"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 934A"
-generated_at: "2026-03-30T04:13:48.227Z"
+generated_at: "2026-03-30T04:17:14.592Z"
 status: "repealed"
 ---
 

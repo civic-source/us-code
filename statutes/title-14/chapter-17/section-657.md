@@ -3,9 +3,9 @@ title: "Section 657 - Dependent school children"
 usc_title: 14
 usc_section: "657"
 chapter: 17
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "14 U.S.C. § 657"
-generated_at: "2026-03-30T04:12:56.888Z"
+generated_at: "2026-03-30T04:15:52.719Z"
 status: "active"
 ---
 

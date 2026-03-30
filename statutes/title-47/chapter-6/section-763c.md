@@ -3,9 +3,9 @@ title: "Section 763c - Space segment capacity of the GMDSS"
 usc_title: 47
 usc_section: "763c"
 chapter: 6
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "47 U.S.C. § 763c"
-generated_at: "2026-03-30T04:14:19.612Z"
+generated_at: "2026-03-30T04:17:45.829Z"
 status: "active"
 ---
 

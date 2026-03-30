@@ -3,9 +3,9 @@ title: "Section 202 - Repealed. Pub. L. 105–107, title V, § 503(c) , Nov. 20,
 usc_title: 10
 usc_section: "202"
 chapter: 8
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 202"
-generated_at: "2026-03-30T04:12:46.961Z"
+generated_at: "2026-03-30T04:15:29.824Z"
 status: "repealed"
 ---
 

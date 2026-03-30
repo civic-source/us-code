@@ -3,9 +3,9 @@ title: "Section 866to866d - Omitted"
 usc_title: 20
 usc_section: "866to866d"
 chapter: 24
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 866to866d"
-generated_at: "2026-03-30T04:13:18.545Z"
+generated_at: "2026-03-30T04:16:29.485Z"
 status: "omitted"
 ---
 

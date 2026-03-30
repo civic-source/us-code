@@ -3,9 +3,9 @@ title: "Section 613 - Advances or expenditures from tribal funds; emergency and 
 usc_title: 25
 usc_section: "613"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 613"
-generated_at: "2026-03-30T04:13:28.901Z"
+generated_at: "2026-03-30T04:16:44.939Z"
 status: "active"
 ---
 

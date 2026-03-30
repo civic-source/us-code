@@ -3,9 +3,9 @@ title: "Section 4701to4710 - Repealed. Pub. L. 101–624, title XVI, § 1620(a) 
 usc_title: 7
 usc_section: "4701to4710"
 chapter: 78
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 4701to4710"
-generated_at: "2026-03-30T04:12:33.625Z"
+generated_at: "2026-03-30T04:15:50.156Z"
 status: "repealed"
 ---
 

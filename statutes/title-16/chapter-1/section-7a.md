@@ -3,9 +3,9 @@ title: "Section 7a - Airports in national parks, monuments and recreation areas;
 usc_title: 16
 usc_section: "7a"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 7a"
-generated_at: "2026-03-30T04:13:15.853Z"
+generated_at: "2026-03-30T04:16:25.078Z"
 status: "active"
 ---
 

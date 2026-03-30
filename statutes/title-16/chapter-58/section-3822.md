@@ -3,9 +3,9 @@ title: "Section 3822 - Delineation of wetlands; exemptions"
 usc_title: 16
 usc_section: "3822"
 chapter: 58
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 3822"
-generated_at: "2026-03-30T04:13:16.133Z"
+generated_at: "2026-03-30T04:16:25.436Z"
 status: "active"
 ---
 

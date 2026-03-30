@@ -3,9 +3,9 @@ title: "Section 44109 - Reporting transfer of ownership"
 usc_title: 49
 usc_section: "44109"
 chapter: 441
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "49 U.S.C. § 44109"
-generated_at: "2026-03-30T04:14:45.088Z"
+generated_at: "2026-03-30T04:17:49.060Z"
 status: "active"
 ---
 

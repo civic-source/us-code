@@ -3,9 +3,9 @@ title: "Section 1167 - Railroad security training program"
 usc_title: 6
 usc_section: "1167"
 chapter: 4
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "6 U.S.C. § 1167"
-generated_at: "2026-03-30T04:12:34.507Z"
+generated_at: "2026-03-30T04:15:20.852Z"
 status: "active"
 ---
 

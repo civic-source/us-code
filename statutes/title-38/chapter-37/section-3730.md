@@ -3,9 +3,9 @@ title: "Section 3730 - Use of attorneys in court"
 usc_title: 38
 usc_section: "3730"
 chapter: 37
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "38 U.S.C. § 3730"
-generated_at: "2026-03-30T04:13:59.015Z"
+generated_at: "2026-03-30T04:17:24.223Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6517 - Evaluation and reports"
 usc_title: 20
 usc_section: "6517"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 6517"
-generated_at: "2026-03-30T04:13:18.684Z"
+generated_at: "2026-03-30T04:16:29.643Z"
 status: "active"
 ---
 

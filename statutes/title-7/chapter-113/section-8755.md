@@ -3,9 +3,9 @@ title: "Section 8755 - Producer agreement required as condition on provision of 
 usc_title: 7
 usc_section: "8755"
 chapter: 113
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 8755"
-generated_at: "2026-03-30T04:12:33.711Z"
+generated_at: "2026-03-30T04:15:50.233Z"
 status: "active"
 ---
 

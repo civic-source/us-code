@@ -3,9 +3,9 @@ title: "Section 1168 - Railroad security research and development"
 usc_title: 6
 usc_section: "1168"
 chapter: 4
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "6 U.S.C. § 1168"
-generated_at: "2026-03-30T04:12:34.507Z"
+generated_at: "2026-03-30T04:15:20.852Z"
 status: "active"
 ---
 

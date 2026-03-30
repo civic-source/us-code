@@ -3,9 +3,9 @@ title: "Section 81to134 - Repealed. July 5, 1946, ch. 540, § 46(a) , 60 Stat. 4
 usc_title: 15
 usc_section: "81to134"
 chapter: 3
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "15 U.S.C. § 81to134"
-generated_at: "2026-03-30T04:13:07.303Z"
+generated_at: "2026-03-30T04:16:10.595Z"
 status: "repealed"
 ---
 

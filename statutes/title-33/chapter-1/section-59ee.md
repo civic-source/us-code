@@ -3,9 +3,9 @@ title: "Section 59ee - Portion of Sacramento River Barge Canal declared to not b
 usc_title: 33
 usc_section: "59ee"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "33 U.S.C. § 59ee"
-generated_at: "2026-03-30T04:13:52.275Z"
+generated_at: "2026-03-30T04:17:18.903Z"
 status: "active"
 ---
 

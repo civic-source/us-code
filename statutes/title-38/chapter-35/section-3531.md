@@ -3,9 +3,9 @@ title: "Section 3531 - Educational assistance allowance"
 usc_title: 38
 usc_section: "3531"
 chapter: 35
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "38 U.S.C. § 3531"
-generated_at: "2026-03-30T04:13:59.009Z"
+generated_at: "2026-03-30T04:17:24.217Z"
 status: "active"
 ---
 

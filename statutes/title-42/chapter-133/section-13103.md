@@ -3,9 +3,9 @@ title: "Section 13103 - EPA activities"
 usc_title: 42
 usc_section: "13103"
 chapter: 133
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 13103"
-generated_at: "2026-03-30T04:14:16.307Z"
+generated_at: "2026-03-30T04:17:42.133Z"
 status: "active"
 ---
 

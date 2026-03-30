@@ -3,9 +3,9 @@ title: "Section 254 - Relief from liability and punishment under the Fair Labor 
 usc_title: 29
 usc_section: "254"
 chapter: 9
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "29 U.S.C. § 254"
-generated_at: "2026-03-30T04:13:40.838Z"
+generated_at: "2026-03-30T04:17:06.181Z"
 status: "active"
 ---
 

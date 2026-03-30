@@ -3,9 +3,9 @@ title: "Section 1266 - Surface effects of underground coal mining operations"
 usc_title: 30
 usc_section: "1266"
 chapter: 25
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "30 U.S.C. § 1266"
-generated_at: "2026-03-30T04:13:38.567Z"
+generated_at: "2026-03-30T04:17:04.619Z"
 status: "active"
 ---
 

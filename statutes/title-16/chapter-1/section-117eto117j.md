@@ -3,9 +3,9 @@ title: "Section 117eto117j - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 
 usc_title: 16
 usc_section: "117eto117j"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 117eto117j"
-generated_at: "2026-03-30T04:13:15.866Z"
+generated_at: "2026-03-30T04:16:25.094Z"
 status: "repealed"
 ---
 

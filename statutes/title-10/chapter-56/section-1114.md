@@ -3,9 +3,9 @@ title: "Section 1114 - Board of Actuaries"
 usc_title: 10
 usc_section: "1114"
 chapter: 56
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 1114"
-generated_at: "2026-03-30T04:12:47.014Z"
+generated_at: "2026-03-30T04:15:29.865Z"
 status: "active"
 ---
 

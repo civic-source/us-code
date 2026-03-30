@@ -3,9 +3,9 @@ title: "Section 3181 - Scope and limitation of chapter"
 usc_title: 18
 usc_section: "3181"
 chapter: 209
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "18 U.S.C. § 3181"
-generated_at: "2026-03-30T04:13:11.153Z"
+generated_at: "2026-03-30T04:16:18.715Z"
 status: "active"
 ---
 

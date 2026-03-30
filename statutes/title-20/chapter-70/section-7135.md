@@ -3,9 +3,9 @@ title: "Section 7135 - National Coordinator Program"
 usc_title: 20
 usc_section: "7135"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 7135"
-generated_at: "2026-03-30T04:13:18.698Z"
+generated_at: "2026-03-30T04:16:29.658Z"
 status: "active"
 ---
 

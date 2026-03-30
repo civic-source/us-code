@@ -3,9 +3,9 @@ title: "Section 5902 - Recognition of representatives of organizations"
 usc_title: 38
 usc_section: "5902"
 chapter: 59
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "38 U.S.C. § 5902"
-generated_at: "2026-03-30T04:13:59.027Z"
+generated_at: "2026-03-30T04:17:24.235Z"
 status: "active"
 ---
 

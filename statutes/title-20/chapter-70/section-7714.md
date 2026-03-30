@@ -3,9 +3,9 @@ title: "Section 7714 - Authorization of appropriations"
 usc_title: 20
 usc_section: "7714"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 7714"
-generated_at: "2026-03-30T04:13:18.720Z"
+generated_at: "2026-03-30T04:16:29.682Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14044f - Grants for law enforcement training programs"
 usc_title: 42
 usc_section: "14044f"
 chapter: 136
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 14044f"
-generated_at: "2026-03-30T04:14:16.332Z"
+generated_at: "2026-03-30T04:17:42.160Z"
 status: "active"
 ---
 

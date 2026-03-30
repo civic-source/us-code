@@ -3,9 +3,9 @@ title: "Section 6511 - Definitions"
 usc_title: 16
 usc_section: "6511"
 chapter: 84
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 6511"
-generated_at: "2026-03-30T04:13:16.164Z"
+generated_at: "2026-03-30T04:16:25.474Z"
 status: "active"
 ---
 

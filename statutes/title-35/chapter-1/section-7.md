@@ -3,9 +3,9 @@ title: "Section 7 - Library"
 usc_title: 35
 usc_section: "7"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "35 U.S.C. § 7"
-generated_at: "2026-03-30T04:13:54.348Z"
+generated_at: "2026-03-30T04:17:16.863Z"
 status: "active"
 ---
 

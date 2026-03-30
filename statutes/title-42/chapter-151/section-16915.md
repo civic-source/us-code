@@ -3,9 +3,9 @@ title: "Section 16915 - Duration of registration requirement"
 usc_title: 42
 usc_section: "16915"
 chapter: 151
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 16915"
-generated_at: "2026-03-30T04:14:16.376Z"
+generated_at: "2026-03-30T04:17:42.206Z"
 status: "active"
 ---
 

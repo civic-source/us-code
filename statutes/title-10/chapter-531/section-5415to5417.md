@@ -3,9 +3,9 @@ title: "Section 5415to5417 - Repealed. Pub. L. 96–513, title III , §§ 311(a)
 usc_title: 10
 usc_section: "5415to5417"
 chapter: 531
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 5415to5417"
-generated_at: "2026-03-30T04:12:47.119Z"
+generated_at: "2026-03-30T04:15:29.958Z"
 status: "repealed"
 ---
 

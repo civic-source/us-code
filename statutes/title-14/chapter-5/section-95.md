@@ -3,9 +3,9 @@ title: "Section 95 - Special agents of the Coast Guard Investigative Service law
 usc_title: 14
 usc_section: "95"
 chapter: 5
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "14 U.S.C. § 95"
-generated_at: "2026-03-30T04:12:56.880Z"
+generated_at: "2026-03-30T04:15:52.713Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1463 - Sealed vessels and vehicles"
 usc_title: 19
 usc_section: "1463"
 chapter: 4
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "19 U.S.C. § 1463"
-generated_at: "2026-03-30T04:13:24.303Z"
+generated_at: "2026-03-30T04:16:40.525Z"
 status: "active"
 ---
 

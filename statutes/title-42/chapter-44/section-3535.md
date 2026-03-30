@@ -3,9 +3,9 @@ title: "Section 3535 - Administrative provisions"
 usc_title: 42
 usc_section: "3535"
 chapter: 44
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 3535"
-generated_at: "2026-03-30T04:14:16.005Z"
+generated_at: "2026-03-30T04:17:41.837Z"
 status: "active"
 ---
 

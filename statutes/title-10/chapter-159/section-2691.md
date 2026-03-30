@@ -3,9 +3,9 @@ title: "Section 2691 - Restoration of land used by permit or lease"
 usc_title: 10
 usc_section: "2691"
 chapter: 159
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2691"
-generated_at: "2026-03-30T04:12:47.093Z"
+generated_at: "2026-03-30T04:15:29.934Z"
 status: "active"
 ---
 

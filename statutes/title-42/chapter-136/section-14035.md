@@ -3,9 +3,9 @@ title: "Section 14035 - Technical assistance, training, and evaluations"
 usc_title: 42
 usc_section: "14035"
 chapter: 136
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 14035"
-generated_at: "2026-03-30T04:14:16.329Z"
+generated_at: "2026-03-30T04:17:42.155Z"
 status: "active"
 ---
 

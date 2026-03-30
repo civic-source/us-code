@@ -3,9 +3,9 @@ title: "Section 8927 - Repealed. Pub. L. 96–513, title II, § 217(a) , Dec. 12
 usc_title: 10
 usc_section: "8927"
 chapter: 867
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 8927"
-generated_at: "2026-03-30T04:12:47.140Z"
+generated_at: "2026-03-30T04:15:29.975Z"
 status: "repealed"
 ---
 

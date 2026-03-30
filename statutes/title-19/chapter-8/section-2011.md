@@ -3,9 +3,9 @@ title: "Section 2011 - Implementation of the Agreement"
 usc_title: 19
 usc_section: "2011"
 chapter: 8
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "19 U.S.C. § 2011"
-generated_at: "2026-03-30T04:13:24.329Z"
+generated_at: "2026-03-30T04:16:40.553Z"
 status: "active"
 ---
 

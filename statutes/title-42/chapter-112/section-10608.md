@@ -3,9 +3,9 @@ title: "Section 10608 - Closed circuit televised court proceedings for victims o
 usc_title: 42
 usc_section: "10608"
 chapter: 112
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 10608"
-generated_at: "2026-03-30T04:14:16.252Z"
+generated_at: "2026-03-30T04:17:42.078Z"
 status: "active"
 ---
 

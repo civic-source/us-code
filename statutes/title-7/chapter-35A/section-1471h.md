@@ -3,9 +3,9 @@ title: "Section 1471h - Ineligibility"
 usc_title: 7
 usc_section: "1471h"
 chapter: 35
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 1471h"
-generated_at: "2026-03-30T04:12:33.522Z"
+generated_at: "2026-03-30T04:15:50.043Z"
 status: "active"
 ---
 

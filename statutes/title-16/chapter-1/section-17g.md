@@ -3,9 +3,9 @@ title: "Section 17g - Equipment required by field employees; by whom furnished a
 usc_title: 16
 usc_section: "17g"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 17g"
-generated_at: "2026-03-30T04:13:15.854Z"
+generated_at: "2026-03-30T04:16:25.079Z"
 status: "active"
 ---
 

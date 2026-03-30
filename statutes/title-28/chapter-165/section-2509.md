@@ -3,9 +3,9 @@ title: "Section 2509 - Congressional reference cases"
 usc_title: 28
 usc_section: "2509"
 chapter: 165
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "28 U.S.C. § 2509"
-generated_at: "2026-03-30T04:13:39.631Z"
+generated_at: "2026-03-30T04:17:07.269Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 652 - Removing restrictions"
 usc_title: 14
 usc_section: "652"
 chapter: 17
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "14 U.S.C. § 652"
-generated_at: "2026-03-30T04:12:56.888Z"
+generated_at: "2026-03-30T04:15:52.719Z"
 status: "active"
 ---
 

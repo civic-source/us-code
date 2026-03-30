@@ -3,9 +3,9 @@ title: "Section 5452 - Repealed. Pub. L. 96–513, title III, § 373(b) , Dec. 1
 usc_title: 10
 usc_section: "5452"
 chapter: 533
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 5452"
-generated_at: "2026-03-30T04:12:47.119Z"
+generated_at: "2026-03-30T04:15:29.958Z"
 status: "repealed"
 ---
 

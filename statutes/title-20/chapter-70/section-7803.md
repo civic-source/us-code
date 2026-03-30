@@ -3,9 +3,9 @@ title: "Section 7803 - Applicability to Bureau of Indian Affairs operated school
 usc_title: 20
 usc_section: "7803"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 7803"
-generated_at: "2026-03-30T04:13:18.721Z"
+generated_at: "2026-03-30T04:16:29.683Z"
 status: "active"
 ---
 

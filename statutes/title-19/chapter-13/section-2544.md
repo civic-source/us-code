@@ -3,9 +3,9 @@ title: "Section 2544 - Standards information center"
 usc_title: 19
 usc_section: "2544"
 chapter: 13
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "19 U.S.C. § 2544"
-generated_at: "2026-03-30T04:13:24.351Z"
+generated_at: "2026-03-30T04:16:40.576Z"
 status: "active"
 ---
 

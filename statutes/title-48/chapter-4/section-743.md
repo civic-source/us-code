@@ -3,9 +3,9 @@ title: "Section 743 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 48
 usc_section: "743"
 chapter: 4
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "48 U.S.C. § 743"
-generated_at: "2026-03-30T04:14:23.057Z"
+generated_at: "2026-03-30T04:17:44.969Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60507 - Suspension of free passage through Saint Marys Falls Can
 usc_title: 46
 usc_section: "60507"
 chapter: 605
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "46 U.S.C. § 60507"
-generated_at: "2026-03-30T04:14:20.571Z"
+generated_at: "2026-03-30T04:17:46.744Z"
 status: "active"
 ---
 

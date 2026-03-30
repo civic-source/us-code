@@ -3,9 +3,9 @@ title: "Section 948a - Definitions"
 usc_title: 10
 usc_section: "948a"
 chapter: 47
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 948a"
-generated_at: "2026-03-30T04:12:46.991Z"
+generated_at: "2026-03-30T04:15:29.849Z"
 status: "active"
 ---
 

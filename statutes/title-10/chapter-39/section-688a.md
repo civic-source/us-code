@@ -3,9 +3,9 @@ title: "Section 688a - Retired members: temporary authority to order to active d
 usc_title: 10
 usc_section: "688a"
 chapter: 39
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 688a"
-generated_at: "2026-03-30T04:12:46.976Z"
+generated_at: "2026-03-30T04:15:29.840Z"
 status: "active"
 ---
 

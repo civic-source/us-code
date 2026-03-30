@@ -3,9 +3,9 @@ title: "Section 142j - John C. Stennis Center for Public Service Training and De
 usc_title: 2
 usc_section: "142j"
 chapter: 5
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 142j"
-generated_at: "2026-03-30T04:12:26.445Z"
+generated_at: "2026-03-30T04:15:17.480Z"
 status: "active"
 ---
 

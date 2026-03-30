@@ -3,9 +3,9 @@ title: "Section 687 - Per capita payment to tribal members; rules and regulation
 usc_title: 25
 usc_section: "687"
 chapter: 14
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "25 U.S.C. § 687"
-generated_at: "2026-03-30T04:13:28.909Z"
+generated_at: "2026-03-30T04:16:44.948Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22902 - Organization"
 usc_title: 36
 usc_section: "22902"
 chapter: 229
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "36 U.S.C. § 22902"
-generated_at: "2026-03-30T04:13:56.979Z"
+generated_at: "2026-03-30T04:17:21.534Z"
 status: "active"
 ---
 

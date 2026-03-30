@@ -3,9 +3,9 @@ title: "Section 1281 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1281"
 chapter: 27
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "50 U.S.C. § 1281"
-generated_at: "2026-03-30T04:14:35.475Z"
+generated_at: "2026-03-30T04:17:50.310Z"
 status: "repealed"
 ---
 

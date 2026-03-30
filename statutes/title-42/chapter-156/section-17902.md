@@ -3,9 +3,9 @@ title: "Section 17902 - Application to private entities"
 usc_title: 42
 usc_section: "17902"
 chapter: 156
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 17902"
-generated_at: "2026-03-30T04:14:16.394Z"
+generated_at: "2026-03-30T04:17:42.224Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1f - Challenge cost-share agreement authority"
 usc_title: 16
 usc_section: "1f"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 1f"
-generated_at: "2026-03-30T04:13:15.853Z"
+generated_at: "2026-03-30T04:16:25.077Z"
 status: "active"
 ---
 

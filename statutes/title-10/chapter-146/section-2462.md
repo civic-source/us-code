@@ -3,9 +3,9 @@ title: "Section 2462 - Reports on public-private competition"
 usc_title: 10
 usc_section: "2462"
 chapter: 146
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "10 U.S.C. § 2462"
-generated_at: "2026-03-30T04:12:47.076Z"
+generated_at: "2026-03-30T04:15:29.921Z"
 status: "active"
 ---
 

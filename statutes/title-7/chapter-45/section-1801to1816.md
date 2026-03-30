@@ -3,9 +3,9 @@ title: "Section 1801to1816 - Repealed. Pub. L. 89–321, title VI, § 601 , Nov.
 usc_title: 7
 usc_section: "1801to1816"
 chapter: 45
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 1801to1816"
-generated_at: "2026-03-30T04:12:33.549Z"
+generated_at: "2026-03-30T04:15:50.077Z"
 status: "repealed"
 ---
 

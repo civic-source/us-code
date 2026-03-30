@@ -3,9 +3,9 @@ title: "Section 541to545 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(
 usc_title: 7
 usc_section: "541to545"
 chapter: 23
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 541to545"
-generated_at: "2026-03-30T04:12:33.485Z"
+generated_at: "2026-03-30T04:15:50.006Z"
 status: "repealed"
 ---
 

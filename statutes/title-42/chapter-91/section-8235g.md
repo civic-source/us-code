@@ -3,9 +3,9 @@ title: "Section 8235g - Records and reports"
 usc_title: 42
 usc_section: "8235g"
 chapter: 91
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 8235g"
-generated_at: "2026-03-30T04:14:16.186Z"
+generated_at: "2026-03-30T04:17:42.015Z"
 status: "active"
 ---
 

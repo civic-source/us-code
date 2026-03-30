@@ -3,9 +3,9 @@ title: "Section 1438 - Severability"
 usc_title: 2
 usc_section: "1438"
 chapter: 24
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "2 U.S.C. § 1438"
-generated_at: "2026-03-30T04:12:26.470Z"
+generated_at: "2026-03-30T04:15:17.508Z"
 status: "active"
 ---
 

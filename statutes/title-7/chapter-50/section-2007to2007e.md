@@ -3,9 +3,9 @@ title: "Section 2007to2007e - Repealed. Pub. L. 104–127, title VII, § 701 , A
 usc_title: 7
 usc_section: "2007to2007e"
 chapter: 50
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 2007to2007e"
-generated_at: "2026-03-30T04:12:33.562Z"
+generated_at: "2026-03-30T04:15:50.092Z"
 status: "repealed"
 ---
 

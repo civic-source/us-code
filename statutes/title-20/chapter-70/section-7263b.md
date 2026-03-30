@@ -3,9 +3,9 @@ title: "Section 7263b - Uses of funds"
 usc_title: 20
 usc_section: "7263b"
 chapter: 70
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "20 U.S.C. § 7263b"
-generated_at: "2026-03-30T04:13:18.707Z"
+generated_at: "2026-03-30T04:16:29.667Z"
 status: "active"
 ---
 

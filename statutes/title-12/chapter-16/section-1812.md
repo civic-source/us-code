@@ -3,9 +3,9 @@ title: "Section 1812 - Management"
 usc_title: 12
 usc_section: "1812"
 chapter: 16
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "12 U.S.C. § 1812"
-generated_at: "2026-03-30T04:12:55.302Z"
+generated_at: "2026-03-30T04:16:05.669Z"
 status: "active"
 ---
 

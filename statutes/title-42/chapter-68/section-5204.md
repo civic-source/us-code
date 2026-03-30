@@ -3,9 +3,9 @@ title: "Section 5204 - Insular areas disaster survival and recovery; definitions
 usc_title: 42
 usc_section: "5204"
 chapter: 68
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "42 U.S.C. § 5204"
-generated_at: "2026-03-30T04:14:16.061Z"
+generated_at: "2026-03-30T04:17:41.891Z"
 status: "active"
 ---
 

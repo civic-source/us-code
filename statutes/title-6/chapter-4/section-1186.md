@@ -3,9 +3,9 @@ title: "Section 1186 - Memorandum of Understanding annex"
 usc_title: 6
 usc_section: "1186"
 chapter: 4
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "6 U.S.C. § 1186"
-generated_at: "2026-03-30T04:12:34.508Z"
+generated_at: "2026-03-30T04:15:20.854Z"
 status: "active"
 ---
 

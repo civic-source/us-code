@@ -3,9 +3,9 @@ title: "Section 428c - Assistants to commission; expenses of commission"
 usc_title: 16
 usc_section: "428c"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "16 U.S.C. § 428c"
-generated_at: "2026-03-30T04:13:15.915Z"
+generated_at: "2026-03-30T04:16:25.155Z"
 status: "active"
 ---
 

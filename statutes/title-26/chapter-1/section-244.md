@@ -3,9 +3,9 @@ title: "Section 244 - Dividends received on certain preferred stock"
 usc_title: 26
 usc_section: "244"
 chapter: 1
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "26 U.S.C. § 244"
-generated_at: "2026-03-30T04:13:48.127Z"
+generated_at: "2026-03-30T04:17:14.485Z"
 status: "active"
 ---
 

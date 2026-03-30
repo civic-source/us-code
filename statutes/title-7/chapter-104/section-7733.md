@@ -3,9 +3,9 @@ title: "Section 7733 - Subpoena authority"
 usc_title: 7
 usc_section: "7733"
 chapter: 104
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "7 U.S.C. § 7733"
-generated_at: "2026-03-30T04:12:33.685Z"
+generated_at: "2026-03-30T04:15:50.212Z"
 status: "active"
 ---
 

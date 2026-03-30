@@ -3,9 +3,9 @@ title: "Section 727 - Definitions"
 usc_title: 49
 usc_section: "727"
 chapter: 7
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "49 U.S.C. § 727"
-generated_at: "2026-03-30T04:14:45.014Z"
+generated_at: "2026-03-30T04:17:48.987Z"
 status: "active"
 ---
 

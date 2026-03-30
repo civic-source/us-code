@@ -3,9 +3,9 @@ title: "Section 153 - Definitions"
 usc_title: 47
 usc_section: "153"
 chapter: 5
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "47 U.S.C. § 153"
-generated_at: "2026-03-30T04:14:19.574Z"
+generated_at: "2026-03-30T04:17:45.791Z"
 status: "active"
 ---
 

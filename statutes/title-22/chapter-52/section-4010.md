@@ -3,9 +3,9 @@ title: "Section 4010 - Separation for cause"
 usc_title: 22
 usc_section: "4010"
 chapter: 52
-current_through: "PL 113-201"
+current_through: "PL 113-234"
 classification: "22 U.S.C. § 4010"
-generated_at: "2026-03-30T04:13:32.135Z"
+generated_at: "2026-03-30T04:17:01.866Z"
 status: "active"
 ---
 
