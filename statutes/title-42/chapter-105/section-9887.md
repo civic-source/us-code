@@ -3,9 +3,9 @@ title: "Section 9887 - Repealed. Pub. L. 103–252, title I , §§ 112(b)(1), (2
 usc_title: 42
 usc_section: "9887"
 chapter: 105
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 9887"
-generated_at: "2026-03-30T02:19:47.243Z"
+generated_at: "2026-03-30T02:23:23.154Z"
 ---
 
 # §§ 9881 to 9887. Repealed. Pub. L. 103–252, title I , §§ 112(b)(1), (2)(B), May 18, 1994 , 108 Stat. 640 , 641

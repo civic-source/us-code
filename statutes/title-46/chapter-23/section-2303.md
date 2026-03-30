@@ -3,9 +3,9 @@ title: "Section 2303 - Duties related to marine casualty assistance and informat
 usc_title: 46
 usc_section: "2303"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "46 U.S.C. § 2303"
-generated_at: "2026-03-30T02:19:51.521Z"
+generated_at: "2026-03-30T02:23:27.946Z"
 ---
 
 # § 2303. Duties related to marine casualty assistance and information

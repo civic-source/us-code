@@ -3,9 +3,9 @@ title: "Section 8303 - Coastal Program"
 usc_title: 16
 usc_section: "8303"
 chapter: 102
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 8303"
-generated_at: "2026-03-30T02:18:32.114Z"
+generated_at: "2026-03-30T02:22:05.324Z"
 ---
 
 # § 8303. Coastal Program

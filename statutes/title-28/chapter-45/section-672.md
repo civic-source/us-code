@@ -3,9 +3,9 @@ title: "Section 672 - Marshal"
 usc_title: 28
 usc_section: "672"
 chapter: 45
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "28 U.S.C. § 672"
-generated_at: "2026-03-30T02:18:45.817Z"
+generated_at: "2026-03-30T02:22:18.166Z"
 ---
 
 # § 672. Marshal

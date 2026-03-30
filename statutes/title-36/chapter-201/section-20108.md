@@ -3,9 +3,9 @@ title: "Section 20108 - Records and inspection"
 usc_title: 36
 usc_section: "20108"
 chapter: 201
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "36 U.S.C. § 20108"
-generated_at: "2026-03-30T02:19:09.892Z"
+generated_at: "2026-03-30T02:22:53.983Z"
 ---
 
 # § 20108. Records and inspection

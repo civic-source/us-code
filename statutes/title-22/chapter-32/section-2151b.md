@@ -3,9 +3,9 @@ title: "Section 2151b - Population planning and health programs"
 usc_title: 22
 usc_section: "2151b"
 chapter: 32
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 2151b"
-generated_at: "2026-03-30T02:18:41.531Z"
+generated_at: "2026-03-30T02:22:14.423Z"
 ---
 
 # § 2151b. Population planning and health programs

@@ -3,9 +3,9 @@ title: "Section 2096 - Acquisition of source material; payments"
 usc_title: 42
 usc_section: "2096"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 2096"
-generated_at: "2026-03-30T02:19:47.024Z"
+generated_at: "2026-03-30T02:23:22.939Z"
 ---
 
 # § 2096. Acquisition of source material; payments

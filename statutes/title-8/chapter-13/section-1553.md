@@ -3,9 +3,9 @@ title: "Section 1553 - Assistant Commissioners and one District Director; compen
 usc_title: 8
 usc_section: "1553"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "8 U.S.C. § 1553"
-generated_at: "2026-03-30T02:17:17.722Z"
+generated_at: "2026-03-30T02:20:47.351Z"
 ---
 
 # § 1553. Assistant Commissioners and one District Director; compensation and salary grade

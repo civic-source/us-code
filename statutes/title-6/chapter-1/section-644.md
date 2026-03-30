@@ -3,9 +3,9 @@ title: "Section 644 - Assistance to non-Federal entities"
 usc_title: 6
 usc_section: "644"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "6 U.S.C. § 644"
-generated_at: "2026-03-30T02:17:15.274Z"
+generated_at: "2026-03-30T02:20:46.732Z"
 ---
 
 # § 644. Assistance to non-Federal entities

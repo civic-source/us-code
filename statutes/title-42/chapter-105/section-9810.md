@@ -3,9 +3,9 @@ title: "Section 9810 - Financial assistance to low-income families, local cooper
 usc_title: 42
 usc_section: "9810"
 chapter: 105
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 9810"
-generated_at: "2026-03-30T02:19:47.232Z"
+generated_at: "2026-03-30T02:23:23.142Z"
 ---
 
 # § 9810. Financial assistance to low-income families, local cooperative associations, and local public or private nonprofit organizations or entities; amount, purposes, etc.

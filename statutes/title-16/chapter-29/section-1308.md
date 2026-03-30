@@ -3,9 +3,9 @@ title: "Section 1308 - Advisory Board; appointment; functions; membership; reimb
 usc_title: 16
 usc_section: "1308"
 chapter: 29
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 1308"
-generated_at: "2026-03-30T02:18:32.016Z"
+generated_at: "2026-03-30T02:22:05.233Z"
 ---
 
 # § 1308. Advisory Board; appointment; functions; membership; reimbursement for expenses

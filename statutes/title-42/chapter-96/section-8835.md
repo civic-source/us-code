@@ -3,9 +3,9 @@ title: "Section 8835 - General requirements regarding financial assistance"
 usc_title: 42
 usc_section: "8835"
 chapter: 96
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 8835"
-generated_at: "2026-03-30T02:19:47.214Z"
+generated_at: "2026-03-30T02:23:23.126Z"
 ---
 
 # § 8835. General requirements regarding financial assistance

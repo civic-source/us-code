@@ -3,9 +3,9 @@ title: "Section 6455 - Working groups"
 usc_title: 16
 usc_section: "6455"
 chapter: 83
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 6455"
-generated_at: "2026-03-30T02:18:32.097Z"
+generated_at: "2026-03-30T02:22:05.306Z"
 ---
 
 # § 6455. Working groups

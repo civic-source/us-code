@@ -3,9 +3,9 @@ title: "Section 123 - Expenditure from tribal funds without specific appropriati
 usc_title: 25
 usc_section: "123"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 123"
-generated_at: "2026-03-30T02:18:36.372Z"
+generated_at: "2026-03-30T02:22:09.955Z"
 ---
 
 # § 123. Expenditure from tribal funds without specific appropriations

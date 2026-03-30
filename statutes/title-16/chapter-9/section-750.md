@@ -3,9 +3,9 @@ title: "Section 750 - Station on Mississippi River for rescue of fishes and prop
 usc_title: 16
 usc_section: "750"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 750"
-generated_at: "2026-03-30T02:18:31.972Z"
+generated_at: "2026-03-30T02:22:05.195Z"
 ---
 
 # § 750. Station on Mississippi River for rescue of fishes and propagation of mussels

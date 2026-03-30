@@ -3,9 +3,9 @@ title: "Section 6038E - Information with respect to assignment of lower rates or
 usc_title: 26
 usc_section: "6038E"
 chapter: 61
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "26 U.S.C. § 6038E"
-generated_at: "2026-03-30T02:18:56.523Z"
+generated_at: "2026-03-30T02:22:26.063Z"
 ---
 
 # § 6038E. Information with respect to assignment of lower rates or refunds by foreign producers of beer, wine, and distilled spirits

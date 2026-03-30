@@ -3,9 +3,9 @@ title: "Section 5385 - Regulations"
 usc_title: 5
 usc_section: "5385"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "5 U.S.C. § 5385"
-generated_at: "2026-03-30T02:17:12.657Z"
+generated_at: "2026-03-30T02:20:28.427Z"
 ---
 
 # § 5385. Regulations

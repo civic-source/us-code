@@ -3,9 +3,9 @@ title: "Section 841 - Art. 41. Challenges"
 usc_title: 10
 usc_section: "841"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 841"
-generated_at: "2026-03-30T02:17:31.575Z"
+generated_at: "2026-03-30T02:21:23.731Z"
 ---
 
 # § 841. Art. 41. Challenges

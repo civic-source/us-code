@@ -3,9 +3,9 @@ title: "Section 8485 - Accessible recreation opportunities"
 usc_title: 16
 usc_section: "8485"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 8485"
-generated_at: "2026-03-30T02:18:32.116Z"
+generated_at: "2026-03-30T02:22:05.326Z"
 ---
 
 # § 8485. Accessible recreation opportunities

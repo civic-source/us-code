@@ -3,9 +3,9 @@ title: "Section 2051 - Congressional findings and declaration of purpose"
 usc_title: 15
 usc_section: "2051"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 2051"
-generated_at: "2026-03-30T02:18:09.960Z"
+generated_at: "2026-03-30T02:21:36.829Z"
 ---
 
 # § 2051. Congressional findings and declaration of purpose

@@ -3,9 +3,9 @@ title: "Section 4140 - Claim filing period"
 usc_title: 50
 usc_section: "4140"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "50 U.S.C. § 4140"
-generated_at: "2026-03-30T02:19:57.526Z"
+generated_at: "2026-03-30T02:23:33.236Z"
 ---
 
 # § 4140. Claim filing period

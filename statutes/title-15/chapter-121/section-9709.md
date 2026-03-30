@@ -3,9 +3,9 @@ title: "Section 9709 - National Weather Service hydrologic research fellowship p
 usc_title: 15
 usc_section: "9709"
 chapter: 121
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 9709"
-generated_at: "2026-03-30T02:18:10.047Z"
+generated_at: "2026-03-30T02:21:36.925Z"
 ---
 
 # § 9709. National Weather Service hydrologic research fellowship program

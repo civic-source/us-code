@@ -3,9 +3,9 @@ title: "Section 1643 - Liability of holder of credit card"
 usc_title: 15
 usc_section: "1643"
 chapter: 41
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 1643"
-generated_at: "2026-03-30T02:18:09.945Z"
+generated_at: "2026-03-30T02:21:36.813Z"
 ---
 
 # § 1643. Liability of holder of credit card

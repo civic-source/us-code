@@ -3,9 +3,9 @@ title: "Section 6965 - Reports to Congress"
 usc_title: 22
 usc_section: "6965"
 chapter: 77
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 6965"
-generated_at: "2026-03-30T02:18:41.662Z"
+generated_at: "2026-03-30T02:22:14.526Z"
 ---
 
 # § 6965. Reports to Congress

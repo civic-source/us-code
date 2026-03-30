@@ -3,9 +3,9 @@ title: "Section 15104 - National Merchant Mariner Medical Advisory Committee"
 usc_title: 46
 usc_section: "15104"
 chapter: 151
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "46 U.S.C. § 15104"
-generated_at: "2026-03-30T02:19:51.538Z"
+generated_at: "2026-03-30T02:23:27.962Z"
 ---
 
 # § 15104. National Merchant Mariner Medical Advisory Committee

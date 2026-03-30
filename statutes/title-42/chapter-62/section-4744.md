@@ -3,9 +3,9 @@ title: "Section 4744 - Grants to other organizations"
 usc_title: 42
 usc_section: "4744"
 chapter: 62
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 4744"
-generated_at: "2026-03-30T02:19:47.081Z"
+generated_at: "2026-03-30T02:23:23.000Z"
 ---
 
 # § 4744. Grants to other organizations

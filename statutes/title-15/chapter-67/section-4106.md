@@ -3,9 +3,9 @@ title: "Section 4106 - Implementation of Arctic research policy"
 usc_title: 15
 usc_section: "4106"
 chapter: 67
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 4106"
-generated_at: "2026-03-30T02:18:09.996Z"
+generated_at: "2026-03-30T02:21:36.868Z"
 ---
 
 # § 4106. Implementation of Arctic research policy

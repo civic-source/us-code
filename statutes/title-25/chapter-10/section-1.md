@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 101–301, § 12(a) , May 24, 1990 , 104 S
 usc_title: 25
 usc_section: "1"
 chapter: 10
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T02:18:36.379Z"
+generated_at: "2026-03-30T02:22:09.961Z"
 ---
 
 # § 372–1. Repealed. Pub. L. 101–301, § 12(a) , May 24, 1990 , 104 Stat. 211

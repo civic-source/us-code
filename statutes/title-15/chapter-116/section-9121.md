@@ -3,9 +3,9 @@ title: "Section 9121 - Relief for airports"
 usc_title: 15
 usc_section: "9121"
 chapter: 116
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 9121"
-generated_at: "2026-03-30T02:18:10.042Z"
+generated_at: "2026-03-30T02:21:36.919Z"
 ---
 
 # § 9121. Relief for airports

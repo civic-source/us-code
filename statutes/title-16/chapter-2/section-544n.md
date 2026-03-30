@@ -3,9 +3,9 @@ title: "Section 544n - Authorization of appropriations"
 usc_title: 16
 usc_section: "544n"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 544n"
-generated_at: "2026-03-30T02:18:31.946Z"
+generated_at: "2026-03-30T02:22:05.172Z"
 ---
 
 # § 544n. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 401 - Power of court"
 usc_title: 18
 usc_section: "401"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "18 U.S.C. § 401"
-generated_at: "2026-03-30T02:18:24.457Z"
+generated_at: "2026-03-30T02:21:44.493Z"
 ---
 
 # § 401. Power of court

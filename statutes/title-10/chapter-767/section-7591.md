@@ -3,9 +3,9 @@ title: "Section 7591 - Utilities: proceeds from overseas operations"
 usc_title: 10
 usc_section: "7591"
 chapter: 767
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 7591"
-generated_at: "2026-03-30T02:17:31.686Z"
+generated_at: "2026-03-30T02:21:23.863Z"
 ---
 
 # § 7591. Utilities: proceeds from overseas operations

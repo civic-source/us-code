@@ -3,9 +3,9 @@ title: "Section 183 - Marriage of white men to Indian women; evidence"
 usc_title: 25
 usc_section: "183"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 183"
-generated_at: "2026-03-30T02:18:36.375Z"
+generated_at: "2026-03-30T02:22:09.958Z"
 ---
 
 # § 183. Marriage of white men to Indian women; evidence

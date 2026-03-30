@@ -3,9 +3,9 @@ title: "Section 2282d - Annual report to Congress"
 usc_title: 33
 usc_section: "2282d"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "33 U.S.C. § 2282d"
-generated_at: "2026-03-30T02:19:07.021Z"
+generated_at: "2026-03-30T02:22:30.950Z"
 ---
 
 # § 2282d. Annual report to Congress

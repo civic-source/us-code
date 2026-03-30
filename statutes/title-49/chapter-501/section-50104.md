@@ -3,9 +3,9 @@ title: "Section 50104 - Restriction on airport projects using products or servic
 usc_title: 49
 usc_section: "50104"
 chapter: 501
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "49 U.S.C. § 50104"
-generated_at: "2026-03-30T02:19:55.170Z"
+generated_at: "2026-03-30T02:23:31.358Z"
 ---
 
 # § 50104. Restriction on airport projects using products or services of foreign countries denying fair market opportunities

@@ -3,9 +3,9 @@ title: "Section 7131 - Official time"
 usc_title: 5
 usc_section: "7131"
 chapter: 71
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "5 U.S.C. § 7131"
-generated_at: "2026-03-30T02:17:12.671Z"
+generated_at: "2026-03-30T02:20:28.441Z"
 ---
 
 # § 7131. Official time

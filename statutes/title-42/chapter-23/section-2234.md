@@ -3,9 +3,9 @@ title: "Section 2234 - Inalienability of licenses"
 usc_title: 42
 usc_section: "2234"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 2234"
-generated_at: "2026-03-30T02:19:47.032Z"
+generated_at: "2026-03-30T02:23:22.949Z"
 ---
 
 # § 2234. Inalienability of licenses

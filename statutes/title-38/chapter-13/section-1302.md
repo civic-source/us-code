@@ -3,9 +3,9 @@ title: "Section 1302 - Determination of pay grade"
 usc_title: 38
 usc_section: "1302"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 1302"
-generated_at: "2026-03-30T02:19:11.515Z"
+generated_at: "2026-03-30T02:23:01.371Z"
 ---
 
 # § 1302. Determination of pay grade

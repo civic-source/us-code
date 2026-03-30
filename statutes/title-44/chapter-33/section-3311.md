@@ -3,9 +3,9 @@ title: "Section 3311 - Destruction of records outside continental United States 
 usc_title: 44
 usc_section: "3311"
 chapter: 33
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "44 U.S.C. § 3311"
-generated_at: "2026-03-30T02:19:18.756Z"
+generated_at: "2026-03-30T02:23:03.328Z"
 ---
 
 # § 3311. Destruction of records outside continental United States in time of war or when hostile action seems imminent; written report to Archivist

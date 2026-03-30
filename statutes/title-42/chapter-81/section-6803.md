@@ -3,9 +3,9 @@ title: "Section 6803 - Development of electric utility rate design proposals by 
 usc_title: 42
 usc_section: "6803"
 chapter: 81
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 6803"
-generated_at: "2026-03-30T02:19:47.134Z"
+generated_at: "2026-03-30T02:23:23.054Z"
 ---
 
 # § 6803. Development of electric utility rate design proposals by Secretary; contents; submission to Congress; supporting analysis

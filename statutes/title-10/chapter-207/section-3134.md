@@ -3,9 +3,9 @@ title: "Section 3134 - Allocation of appropriations"
 usc_title: 10
 usc_section: "3134"
 chapter: 207
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 3134"
-generated_at: "2026-03-30T02:17:31.658Z"
+generated_at: "2026-03-30T02:21:23.821Z"
 ---
 
 # § 3134. Allocation of appropriations

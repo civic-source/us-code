@@ -3,9 +3,9 @@ title: "Section 7377 - Certain civilian special agents: authority to execute war
 usc_title: 10
 usc_section: "7377"
 chapter: 747
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 7377"
-generated_at: "2026-03-30T02:17:31.683Z"
+generated_at: "2026-03-30T02:21:23.860Z"
 ---
 
 # § 7377. Certain civilian special agents: authority to execute warrants and make arrests

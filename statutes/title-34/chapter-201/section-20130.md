@@ -3,9 +3,9 @@ title: "Section 20130 - Study and reports on barriers to survivors’ economic s
 usc_title: 34
 usc_section: "20130"
 chapter: 201
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "34 U.S.C. § 20130"
-generated_at: "2026-03-30T02:19:05.036Z"
+generated_at: "2026-03-30T02:22:29.558Z"
 ---
 
 # § 20130. Study and reports on barriers to survivors’ economic security access

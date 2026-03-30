@@ -3,9 +3,9 @@ title: "Section 1022a - Partnership grants"
 usc_title: 20
 usc_section: "1022a"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "20 U.S.C. § 1022a"
-generated_at: "2026-03-30T02:18:26.552Z"
+generated_at: "2026-03-30T02:21:47.212Z"
 ---
 
 # § 1022a. Partnership grants

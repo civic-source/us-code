@@ -3,9 +3,9 @@ title: "Section 5003 - General provisions governing substitute checks"
 usc_title: 12
 usc_section: "5003"
 chapter: 50
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "12 U.S.C. § 5003"
-generated_at: "2026-03-30T02:18:20.572Z"
+generated_at: "2026-03-30T02:21:39.434Z"
 ---
 
 # § 5003. General provisions governing substitute checks

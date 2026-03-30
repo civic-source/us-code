@@ -3,9 +3,9 @@ title: "Section 13331 - Coal research, development, demonstration, and commercia
 usc_title: 42
 usc_section: "13331"
 chapter: 134
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 13331"
-generated_at: "2026-03-30T02:19:47.306Z"
+generated_at: "2026-03-30T02:23:23.215Z"
 ---
 
 # § 13331. Coal research, development, demonstration, and commercial application programs

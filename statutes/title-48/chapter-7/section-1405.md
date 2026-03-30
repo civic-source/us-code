@@ -3,9 +3,9 @@ title: "Section 1405 - Geographical application of subchapter; land and waters i
 usc_title: 48
 usc_section: "1405"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "48 U.S.C. § 1405"
-generated_at: "2026-03-30T02:19:51.964Z"
+generated_at: "2026-03-30T02:23:28.648Z"
 ---
 
 # § 1405. Geographical application of subchapter; land and waters included in term “Virgin Islands”

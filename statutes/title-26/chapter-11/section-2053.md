@@ -3,9 +3,9 @@ title: "Section 2053 - Expenses, indebtedness, and taxes"
 usc_title: 26
 usc_section: "2053"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "26 U.S.C. § 2053"
-generated_at: "2026-03-30T02:18:56.478Z"
+generated_at: "2026-03-30T02:22:26.005Z"
 ---
 
 # § 2053. Expenses, indebtedness, and taxes

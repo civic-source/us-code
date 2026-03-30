@@ -3,9 +3,9 @@ title: "Section 1401 - Procedure for consideration of alleged violations"
 usc_title: 2
 usc_section: "1401"
 chapter: 24
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "2 U.S.C. § 1401"
-generated_at: "2026-03-30T02:16:56.691Z"
+generated_at: "2026-03-30T02:20:43.909Z"
 ---
 
 # § 1401. Procedure for consideration of alleged violations

@@ -3,9 +3,9 @@ title: "Section 7906 - Regulations"
 usc_title: 38
 usc_section: "7906"
 chapter: 79
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 7906"
-generated_at: "2026-03-30T02:19:11.580Z"
+generated_at: "2026-03-30T02:23:01.435Z"
 ---
 
 # § 7906. Regulations

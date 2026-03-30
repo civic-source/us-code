@@ -3,9 +3,9 @@ title: "Section 1404 - Persons born in Alaska on or after March 30, 1867"
 usc_title: 8
 usc_section: "1404"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "8 U.S.C. § 1404"
-generated_at: "2026-03-30T02:17:17.716Z"
+generated_at: "2026-03-30T02:20:47.346Z"
 ---
 
 # § 1404. Persons born in Alaska on or after March 30, 1867

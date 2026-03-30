@@ -3,9 +3,9 @@ title: "Section 1254 - Federal programs"
 usc_title: 30
 usc_section: "1254"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "30 U.S.C. § 1254"
-generated_at: "2026-03-30T02:18:44.870Z"
+generated_at: "2026-03-30T02:22:17.086Z"
 ---
 
 # § 1254. Federal programs

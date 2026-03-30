@@ -3,9 +3,9 @@ title: "Section 5201 - Acquisition of agricultural and grazing lands for Indians
 usc_title: 25
 usc_section: "5201"
 chapter: 45
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 5201"
-generated_at: "2026-03-30T02:18:36.441Z"
+generated_at: "2026-03-30T02:22:10.017Z"
 ---
 
 # § 5201. Acquisition of agricultural and grazing lands for Indians; title to lands; tax exemption

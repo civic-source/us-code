@@ -3,9 +3,9 @@ title: "Section 1474a - Security for direct or insured rural housing loans to fa
 usc_title: 42
 usc_section: "1474a"
 chapter: 8
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 1474a"
-generated_at: "2026-03-30T02:19:46.970Z"
+generated_at: "2026-03-30T02:23:22.891Z"
 ---
 
 # § 1474a. Security for direct or insured rural housing loans to farmer applicants

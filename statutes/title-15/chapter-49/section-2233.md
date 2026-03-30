@@ -3,9 +3,9 @@ title: "Section 2233 - Removal of civil liability barriers that discourage the d
 usc_title: 15
 usc_section: "2233"
 chapter: 49
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 2233"
-generated_at: "2026-03-30T02:18:09.970Z"
+generated_at: "2026-03-30T02:21:36.840Z"
 ---
 
 # § 2233. Removal of civil liability barriers that discourage the donation of fire equipment to volunteer fire companies

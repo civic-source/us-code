@@ -3,9 +3,9 @@ title: "Section 1 - Protection of classified information: applicability of subch
 usc_title: 10
 usc_section: "1"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T02:17:31.583Z"
+generated_at: "2026-03-30T02:21:23.739Z"
 ---
 
 # § 949p–1. Protection of classified information: applicability of subchapter

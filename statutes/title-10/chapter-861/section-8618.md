@@ -3,9 +3,9 @@ title: "Section 8618 - Marine Corps Heritage Center and National Museum of the M
 usc_title: 10
 usc_section: "8618"
 chapter: 861
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 8618"
-generated_at: "2026-03-30T02:17:31.695Z"
+generated_at: "2026-03-30T02:21:23.874Z"
 ---
 
 # § 8618. Marine Corps Heritage Center and National Museum of the Marine Corps at Marine Corps Base, Quantico, Virginia

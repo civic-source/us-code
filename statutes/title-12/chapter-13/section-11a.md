@@ -3,9 +3,9 @@ title: "Section 11a - Disposition of HUD-owned properties"
 usc_title: 12
 usc_section: "11a"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "12 U.S.C. § 11a"
-generated_at: "2026-03-30T02:18:20.474Z"
+generated_at: "2026-03-30T02:21:39.336Z"
 ---
 
 # § 1715z–11a. Disposition of HUD-owned properties

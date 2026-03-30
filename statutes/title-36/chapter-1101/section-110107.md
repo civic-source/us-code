@@ -3,9 +3,9 @@ title: "Section 110107 - Restrictions"
 usc_title: 36
 usc_section: "110107"
 chapter: 1101
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "36 U.S.C. § 110107"
-generated_at: "2026-03-30T02:19:09.899Z"
+generated_at: "2026-03-30T02:22:53.992Z"
 ---
 
 # § 110107. Restrictions

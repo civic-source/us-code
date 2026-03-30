@@ -3,9 +3,9 @@ title: "Section 622 - Liability for damage, destruction, or loss of claim"
 usc_title: 30
 usc_section: "622"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "30 U.S.C. § 622"
-generated_at: "2026-03-30T02:18:44.857Z"
+generated_at: "2026-03-30T02:22:17.070Z"
 ---
 
 # § 622. Liability for damage, destruction, or loss of claim

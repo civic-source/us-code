@@ -3,9 +3,9 @@ title: "Section 5531 - Technical authority for integrated air and missile defens
 usc_title: 10
 usc_section: "5531"
 chapter: 551
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 5531"
-generated_at: "2026-03-30T02:17:31.681Z"
+generated_at: "2026-03-30T02:21:23.856Z"
 ---
 
 # § 5531. Technical authority for integrated air and missile defense activities and programs

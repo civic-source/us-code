@@ -3,9 +3,9 @@ title: "Section 184 - Incorporation of digital collections into educational curr
 usc_title: 2
 usc_section: "184"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "2 U.S.C. § 184"
-generated_at: "2026-03-30T02:16:56.670Z"
+generated_at: "2026-03-30T02:20:43.890Z"
 ---
 
 # § 184. Incorporation of digital collections into educational curricula

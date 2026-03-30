@@ -3,9 +3,9 @@ title: "Section 823 - Report required"
 usc_title: 6
 usc_section: "823"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "6 U.S.C. § 823"
-generated_at: "2026-03-30T02:17:15.284Z"
+generated_at: "2026-03-30T02:20:46.742Z"
 ---
 
 # § 823. Report required

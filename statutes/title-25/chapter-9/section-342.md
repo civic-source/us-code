@@ -3,9 +3,9 @@ title: "Section 342 - Removal of Southern Utes to new reservation"
 usc_title: 25
 usc_section: "342"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 342"
-generated_at: "2026-03-30T02:18:36.378Z"
+generated_at: "2026-03-30T02:22:09.961Z"
 ---
 
 # § 342. Removal of Southern Utes to new reservation

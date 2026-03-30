@@ -3,9 +3,9 @@ title: "Section 4210 - Sources of payments to declarants"
 usc_title: 12
 usc_section: "4210"
 chapter: 43
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "12 U.S.C. § 4210"
-generated_at: "2026-03-30T02:18:20.556Z"
+generated_at: "2026-03-30T02:21:39.417Z"
 ---
 
 # § 4210. Sources of payments to declarants

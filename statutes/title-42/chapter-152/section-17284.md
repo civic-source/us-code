@@ -3,9 +3,9 @@ title: "Section 17284 - Assessment of resources"
 usc_title: 42
 usc_section: "17284"
 chapter: 152
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 17284"
-generated_at: "2026-03-30T02:19:47.367Z"
+generated_at: "2026-03-30T02:23:23.270Z"
 ---
 
 # § 17284. Assessment of resources

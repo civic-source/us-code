@@ -3,9 +3,9 @@ title: "Section 9122 - Actions by the Secretary of State in response to patterns
 usc_title: 22
 usc_section: "9122"
 chapter: 98
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 9122"
-generated_at: "2026-03-30T02:18:41.698Z"
+generated_at: "2026-03-30T02:22:14.555Z"
 ---
 
 # § 9122. Actions by the Secretary of State in response to patterns of noncompliance in cases of international child abductions

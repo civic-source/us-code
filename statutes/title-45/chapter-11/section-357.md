@@ -3,9 +3,9 @@ title: "Section 357 - Free transportation"
 usc_title: 45
 usc_section: "357"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "45 U.S.C. § 357"
-generated_at: "2026-03-30T02:19:18.981Z"
+generated_at: "2026-03-30T02:23:04.778Z"
 ---
 
 # § 357. Free transportation

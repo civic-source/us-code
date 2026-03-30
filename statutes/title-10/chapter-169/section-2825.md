@@ -3,9 +3,9 @@ title: "Section 2825 - Improvements to family housing units"
 usc_title: 10
 usc_section: "2825"
 chapter: 169
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 2825"
-generated_at: "2026-03-30T02:17:31.650Z"
+generated_at: "2026-03-30T02:21:23.812Z"
 ---
 
 # § 2825. Improvements to family housing units

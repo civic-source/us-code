@@ -3,9 +3,9 @@ title: "Section 49102 - Purpose"
 usc_title: 49
 usc_section: "49102"
 chapter: 491
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "49 U.S.C. § 49102"
-generated_at: "2026-03-30T02:19:55.170Z"
+generated_at: "2026-03-30T02:23:31.357Z"
 ---
 
 # § 49102. Purpose

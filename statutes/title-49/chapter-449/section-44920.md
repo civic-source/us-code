@@ -3,9 +3,9 @@ title: "Section 44920 - Screening partnership program"
 usc_title: 49
 usc_section: "44920"
 chapter: 449
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "49 U.S.C. § 44920"
-generated_at: "2026-03-30T02:19:55.154Z"
+generated_at: "2026-03-30T02:23:31.341Z"
 ---
 
 # § 44920. Screening partnership program

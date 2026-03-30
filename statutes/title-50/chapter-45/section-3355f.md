@@ -3,9 +3,9 @@ title: "Section 3355f - Funding"
 usc_title: 50
 usc_section: "3355f"
 chapter: 45
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "50 U.S.C. § 3355f"
-generated_at: "2026-03-30T02:19:57.507Z"
+generated_at: "2026-03-30T02:23:33.217Z"
 ---
 
 # § 3355f. Funding

@@ -3,9 +3,9 @@ title: "Section 1738 - State and Territorial statutes and judicial proceedings; 
 usc_title: 28
 usc_section: "1738"
 chapter: 115
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "28 U.S.C. § 1738"
-generated_at: "2026-03-30T02:18:45.824Z"
+generated_at: "2026-03-30T02:22:18.173Z"
 ---
 
 # § 1738. State and Territorial statutes and judicial proceedings; full faith and credit

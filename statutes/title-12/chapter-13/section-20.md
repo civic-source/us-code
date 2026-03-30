@@ -3,9 +3,9 @@ title: "Section 20 - Authorization of appropriations for General and Special Ris
 usc_title: 12
 usc_section: "20"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "12 U.S.C. § 20"
-generated_at: "2026-03-30T02:18:20.484Z"
+generated_at: "2026-03-30T02:21:39.344Z"
 ---
 
 # § 1735f–20. Authorization of appropriations for General and Special Risk Insurance Funds

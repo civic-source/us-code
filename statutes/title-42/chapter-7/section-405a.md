@@ -3,9 +3,9 @@ title: "Section 405a - Regulations pertaining to frequency or due dates of payme
 usc_title: 42
 usc_section: "405a"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 405a"
-generated_at: "2026-03-30T02:19:46.752Z"
+generated_at: "2026-03-30T02:23:22.681Z"
 ---
 
 # § 405a. Regulations pertaining to frequency or due dates of payments and reports under voluntary agreements covering State and local employees; effective date

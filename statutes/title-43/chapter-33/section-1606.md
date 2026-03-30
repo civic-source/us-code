@@ -3,9 +3,9 @@ title: "Section 1606 - Regional Corporations"
 usc_title: 43
 usc_section: "1606"
 chapter: 33
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "43 U.S.C. § 1606"
-generated_at: "2026-03-30T02:19:17.910Z"
+generated_at: "2026-03-30T02:23:04.400Z"
 ---
 
 # § 1606. Regional Corporations

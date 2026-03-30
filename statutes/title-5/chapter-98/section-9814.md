@@ -3,9 +3,9 @@ title: "Section 9814 - Qualifications pay"
 usc_title: 5
 usc_section: "9814"
 chapter: 98
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "5 U.S.C. § 9814"
-generated_at: "2026-03-30T02:17:12.699Z"
+generated_at: "2026-03-30T02:20:28.468Z"
 ---
 
 # § 9814. Qualifications pay

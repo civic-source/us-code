@@ -3,9 +3,9 @@ title: "Section 1996a - Traditional Indian religious use of peyote"
 usc_title: 42
 usc_section: "1996a"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 1996a"
-generated_at: "2026-03-30T02:19:47.010Z"
+generated_at: "2026-03-30T02:23:22.927Z"
 ---
 
 # § 1996a. Traditional Indian religious use of peyote

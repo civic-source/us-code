@@ -3,9 +3,9 @@ title: "Section 714 - Senior leaders of the Department of Defense and other spec
 usc_title: 10
 usc_section: "714"
 chapter: 41
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 714"
-generated_at: "2026-03-30T02:17:31.572Z"
+generated_at: "2026-03-30T02:21:23.727Z"
 ---
 
 # § 714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection
@@ -32,7 +32,7 @@ generated_at: "2026-03-30T02:17:31.572Z"
   - **(4)** A determination of the Secretary of Defense whether to provide physical protection and personal security under this subsection shall be in writing, shall be based on a threat assessment by an appropriate law enforcement, security, or intelligence organization, and shall include the name and title of the officer, employee, or other individual affected, the reason for such determination, the duration of any authorized protection and security for such officer, employee, or individual, and the nature of any arrangements for such protection and security.
   - **(5)** The Secretary of Defense shall require periodic reviews, not less than once every six months, of the duration of protection provided to individuals under this subsection.
   - **(6)**
-    - **(A)** Except as provided in subparagraph (D), the Secretary of Defense shall submit to the congressional defense committees an initial determination made under paragraph (4), or a determination to deny the renewal of protection and security, together with the justification for such determination, not later than 15 days after the date on which the determination is made. In the case of determination to continue protection and security, the Secretary shall make such submission not less than twice each year.
+    - **(A)** Except as provided in subparagraph (D), the Secretary of Defense shall submit to the congressional defense committees an initial determination made under paragraph (4), or a determination to deny the renewal of protection and security, together with the justification for such determination, not later than 15 days after the date on which the determination is made. In the case of determination 2 2 So in original. Probably should be preceded by “a”. to continue protection and security, the Secretary shall make such submission not less than twice each year.
     - **(B)** A report submitted under subparagraph (A) may be made in classified form.
     - **(C)** The Secretary of Defense shall submit to the congressional defense committees the regulations and guidelines prescribed pursuant to paragraph (1) not less than 20 days before the date on which such regulations take effect.
     - **(D)** Subparagraph (A) does not apply to determinations made with respect to the following individuals:

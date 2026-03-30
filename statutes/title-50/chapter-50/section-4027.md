@@ -3,9 +3,9 @@ title: "Section 4027 - Guarantee of residency for spouses of servicemembers"
 usc_title: 50
 usc_section: "4027"
 chapter: 50
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "50 U.S.C. § 4027"
-generated_at: "2026-03-30T02:19:57.525Z"
+generated_at: "2026-03-30T02:23:33.235Z"
 ---
 
 # § 4027. Guarantee of residency for spouses of servicemembers

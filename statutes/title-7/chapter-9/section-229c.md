@@ -3,9 +3,9 @@ title: "Section 229c - Separability"
 usc_title: 7
 usc_section: "229c"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "7 U.S.C. § 229c"
-generated_at: "2026-03-30T02:18:00.293Z"
+generated_at: "2026-03-30T02:21:01.622Z"
 ---
 
 # § 229c. Separability

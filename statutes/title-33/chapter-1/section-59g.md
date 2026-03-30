@@ -3,9 +3,9 @@ title: "Section 59g - Steele and Washington Bayous, and Lake Washington, Mississ
 usc_title: 33
 usc_section: "59g"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "33 U.S.C. § 59g"
-generated_at: "2026-03-30T02:19:06.959Z"
+generated_at: "2026-03-30T02:22:30.879Z"
 ---
 
 # § 59g. Steele and Washington Bayous, and Lake Washington, Mississippi

@@ -3,9 +3,9 @@ title: "Section 3702 - Work hours"
 usc_title: 40
 usc_section: "3702"
 chapter: 37
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "40 U.S.C. § 3702"
-generated_at: "2026-03-30T02:19:14.814Z"
+generated_at: "2026-03-30T02:22:55.016Z"
 ---
 
 # § 3702. Work hours

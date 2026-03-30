@@ -3,9 +3,9 @@ title: "Section 715g - Jurisdiction of State over areas acquired"
 usc_title: 16
 usc_section: "715g"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 715g"
-generated_at: "2026-03-30T02:18:31.968Z"
+generated_at: "2026-03-30T02:22:05.192Z"
 ---
 
 # § 715g. Jurisdiction of State over areas acquired

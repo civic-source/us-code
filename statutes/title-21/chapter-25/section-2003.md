@@ -3,9 +3,9 @@ title: "Section 2003 - Authorization of appropriations"
 usc_title: 21
 usc_section: "2003"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "21 U.S.C. § 2003"
-generated_at: "2026-03-30T02:18:37.630Z"
+generated_at: "2026-03-30T02:22:11.882Z"
 ---
 
 # § 2003. Authorization of appropriations

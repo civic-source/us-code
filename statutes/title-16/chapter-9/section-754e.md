@@ -3,9 +3,9 @@ title: "Section 754e - Funds for contaminant sample analyses"
 usc_title: 16
 usc_section: "754e"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 754e"
-generated_at: "2026-03-30T02:18:31.972Z"
+generated_at: "2026-03-30T02:22:05.195Z"
 ---
 
 # § 754e. Funds for contaminant sample analyses

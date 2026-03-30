@@ -3,9 +3,9 @@ title: "Section 2039 - Advisory Committee on Reactor Safeguards; composition; te
 usc_title: 42
 usc_section: "2039"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 2039"
-generated_at: "2026-03-30T02:19:47.021Z"
+generated_at: "2026-03-30T02:23:22.938Z"
 ---
 
 # § 2039. Advisory Committee on Reactor Safeguards; composition; tenure; duties; compensation

@@ -3,9 +3,9 @@ title: "Section 1428 - Temporary absence of persons performing religious duties"
 usc_title: 8
 usc_section: "1428"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "8 U.S.C. § 1428"
-generated_at: "2026-03-30T02:17:17.717Z"
+generated_at: "2026-03-30T02:20:47.347Z"
 ---
 
 # § 1428. Temporary absence of persons performing religious duties

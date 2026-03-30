@@ -3,9 +3,9 @@ title: "Section 1862m - Financial disclosure"
 usc_title: 42
 usc_section: "1862m"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 1862m"
-generated_at: "2026-03-30T02:19:46.999Z"
+generated_at: "2026-03-30T02:23:22.916Z"
 ---
 
 # § 1862m. Financial disclosure

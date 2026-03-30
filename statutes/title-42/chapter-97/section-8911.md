@@ -3,9 +3,9 @@ title: "Section 8911 - Comprehensive study of projected impact on atmospheric le
 usc_title: 42
 usc_section: "8911"
 chapter: 97
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 8911"
-generated_at: "2026-03-30T02:19:47.214Z"
+generated_at: "2026-03-30T02:23:23.127Z"
 ---
 
 # § 8911. Comprehensive study of projected impact on atmospheric levels of fossil fuel combustion, etc.

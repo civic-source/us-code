@@ -3,9 +3,9 @@ title: "Section 2328a - Special use permits"
 usc_title: 33
 usc_section: "2328a"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "33 U.S.C. § 2328a"
-generated_at: "2026-03-30T02:19:07.027Z"
+generated_at: "2026-03-30T02:22:30.956Z"
 ---
 
 # § 2328a. Special use permits

@@ -3,9 +3,9 @@ title: "Section 1906 - Construction; effect on agreements"
 usc_title: 29
 usc_section: "1906"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "29 U.S.C. § 1906"
-generated_at: "2026-03-30T02:19:02.121Z"
+generated_at: "2026-03-30T02:22:19.182Z"
 ---
 
 # § 1906. Construction; effect on agreements

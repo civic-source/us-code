@@ -3,9 +3,9 @@ title: "Section 53510 - Tax treatment of qualified withdrawals and basis of prop
 usc_title: 46
 usc_section: "53510"
 chapter: 535
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "46 U.S.C. § 53510"
-generated_at: "2026-03-30T02:19:51.551Z"
+generated_at: "2026-03-30T02:23:27.977Z"
 ---
 
 # § 53510. Tax treatment of qualified withdrawals and basis of property

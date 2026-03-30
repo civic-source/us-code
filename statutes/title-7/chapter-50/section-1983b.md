@@ -3,9 +3,9 @@ title: "Section 1983b - Beginning farmer and rancher individual development acco
 usc_title: 7
 usc_section: "1983b"
 chapter: 50
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "7 U.S.C. § 1983b"
-generated_at: "2026-03-30T02:18:00.350Z"
+generated_at: "2026-03-30T02:21:01.688Z"
 ---
 
 # § 1983b. Beginning farmer and rancher individual development accounts pilot program

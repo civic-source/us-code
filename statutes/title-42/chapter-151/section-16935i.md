@@ -3,9 +3,9 @@ title: "Section 16935i - Transferred"
 usc_title: 42
 usc_section: "16935i"
 chapter: 151
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 16935i"
-generated_at: "2026-03-30T02:19:47.355Z"
+generated_at: "2026-03-30T02:23:23.259Z"
 ---
 
 # § 16935i. Transferred

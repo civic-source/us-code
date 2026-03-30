@@ -3,9 +3,9 @@ title: "Section 713 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "713"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "33 U.S.C. § 713"
-generated_at: "2026-03-30T02:19:06.979Z"
+generated_at: "2026-03-30T02:22:30.904Z"
 ---
 
 # §§ 711 to 713. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(2) –(4), Dec. 23, 2022 , 136 Stat. 4165

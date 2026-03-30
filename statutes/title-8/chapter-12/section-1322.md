@@ -3,9 +3,9 @@ title: "Section 1322 - Bringing in aliens subject to denial of admission on a he
 usc_title: 8
 usc_section: "1322"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "8 U.S.C. § 1322"
-generated_at: "2026-03-30T02:17:17.710Z"
+generated_at: "2026-03-30T02:20:47.340Z"
 ---
 
 # § 1322. Bringing in aliens subject to denial of admission on a health-related ground; persons liable; clearance papers; exceptions; “person” defined

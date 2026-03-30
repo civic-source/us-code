@@ -3,9 +3,9 @@ title: "Section 221a - Instructions of citizens from American republics; United 
 usc_title: 20
 usc_section: "221a"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "20 U.S.C. § 221a"
-generated_at: "2026-03-30T02:18:26.542Z"
+generated_at: "2026-03-30T02:21:47.202Z"
 ---
 
 # § 221a. Instructions of citizens from American republics; United States Military Academy; restrictions; saving provision

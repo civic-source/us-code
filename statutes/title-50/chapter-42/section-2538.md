@@ -3,9 +3,9 @@ title: "Section 2538 - Advice to President and Congress regarding safety, securi
 usc_title: 50
 usc_section: "2538"
 chapter: 42
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "50 U.S.C. § 2538"
-generated_at: "2026-03-30T02:19:57.477Z"
+generated_at: "2026-03-30T02:23:33.188Z"
 ---
 
 # § 2538. Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile

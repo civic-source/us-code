@@ -3,9 +3,9 @@ title: "Section 1693d - Documentation of transfers"
 usc_title: 15
 usc_section: "1693d"
 chapter: 41
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 1693d"
-generated_at: "2026-03-30T02:18:09.956Z"
+generated_at: "2026-03-30T02:21:36.825Z"
 ---
 
 # § 1693d. Documentation of transfers

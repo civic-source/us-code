@@ -3,9 +3,9 @@ title: "Section 3748 - Type of promotion; temporary"
 usc_title: 14
 usc_section: "3748"
 chapter: 37
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "14 U.S.C. § 3748"
-generated_at: "2026-03-30T02:18:14.507Z"
+generated_at: "2026-03-30T02:21:37.203Z"
 ---
 
 # § 3748. Type of promotion; temporary

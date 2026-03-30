@@ -3,9 +3,9 @@ title: "Section 7104 - Jurisdiction of the Board; decisions; notice"
 usc_title: 38
 usc_section: "7104"
 chapter: 71
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 7104"
-generated_at: "2026-03-30T02:19:11.566Z"
+generated_at: "2026-03-30T02:23:01.423Z"
 ---
 
 # § 7104. Jurisdiction of the Board; decisions; notice

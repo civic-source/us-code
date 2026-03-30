@@ -3,9 +3,9 @@ title: "Section 604 - Removal of snags, etc., from Mississippi River"
 usc_title: 33
 usc_section: "604"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "33 U.S.C. § 604"
-generated_at: "2026-03-30T02:19:06.973Z"
+generated_at: "2026-03-30T02:22:30.896Z"
 ---
 
 # § 604. Removal of snags, etc., from Mississippi River

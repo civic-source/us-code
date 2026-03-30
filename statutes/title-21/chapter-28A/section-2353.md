@@ -3,9 +3,9 @@ title: "Section 2353 - Imposition of sanctions with respect to fentanyl traffick
 usc_title: 21
 usc_section: "2353"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "21 U.S.C. § 2353"
-generated_at: "2026-03-30T02:18:37.634Z"
+generated_at: "2026-03-30T02:22:11.885Z"
 ---
 
 # § 2353. Imposition of sanctions with respect to fentanyl trafficking by transnational criminal organizations

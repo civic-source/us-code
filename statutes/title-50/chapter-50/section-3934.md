@@ -3,9 +3,9 @@ title: "Section 3934 - Stay or vacation of execution of judgments, attachments, 
 usc_title: 50
 usc_section: "3934"
 chapter: 50
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "50 U.S.C. § 3934"
-generated_at: "2026-03-30T02:19:57.522Z"
+generated_at: "2026-03-30T02:23:33.230Z"
 ---
 
 # § 3934. Stay or vacation of execution of judgments, attachments, and garnishments

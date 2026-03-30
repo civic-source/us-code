@@ -3,9 +3,9 @@ title: "Section 2107 - Regulations; consultation with Indian organizations; pend
 usc_title: 25
 usc_section: "2107"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 2107"
-generated_at: "2026-03-30T02:18:36.412Z"
+generated_at: "2026-03-30T02:22:09.991Z"
 ---
 
 # § 2107. Regulations; consultation with Indian organizations; pending agreements

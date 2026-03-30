@@ -3,9 +3,9 @@ title: "Section 9037 - Judge Advocate General, Deputy Judge Advocate General: ap
 usc_title: 10
 usc_section: "9037"
 chapter: 905
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 9037"
-generated_at: "2026-03-30T02:17:31.702Z"
+generated_at: "2026-03-30T02:21:23.882Z"
 ---
 
 # § 9037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties

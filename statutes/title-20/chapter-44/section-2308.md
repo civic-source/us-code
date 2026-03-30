@@ -3,9 +3,9 @@ title: "Section 2308 - Interdepartmental Task Force on Vocational Education and 
 usc_title: 20
 usc_section: "2308"
 chapter: 44
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "20 U.S.C. § 2308"
-generated_at: "2026-03-30T02:18:26.626Z"
+generated_at: "2026-03-30T02:21:47.290Z"
 ---
 
 # § 2308. Interdepartmental Task Force on Vocational Education and Related Programs

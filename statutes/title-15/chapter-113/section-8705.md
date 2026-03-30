@@ -3,9 +3,9 @@ title: "Section 8705 - Assessments"
 usc_title: 15
 usc_section: "8705"
 chapter: 113
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 8705"
-generated_at: "2026-03-30T02:18:10.030Z"
+generated_at: "2026-03-30T02:21:36.905Z"
 ---
 
 # § 8705. Assessments

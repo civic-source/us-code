@@ -3,9 +3,9 @@ title: "Section 2105 - Limitations on contracts"
 usc_title: 20
 usc_section: "2105"
 chapter: 43
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "20 U.S.C. § 2105"
-generated_at: "2026-03-30T02:18:26.624Z"
+generated_at: "2026-03-30T02:21:47.288Z"
 ---
 
 # § 2105. Limitations on contracts

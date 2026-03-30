@@ -3,9 +3,9 @@ title: "Section 1144a - Clarification of church welfare plan status under State 
 usc_title: 29
 usc_section: "1144a"
 chapter: 18
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "29 U.S.C. § 1144a"
-generated_at: "2026-03-30T02:19:02.100Z"
+generated_at: "2026-03-30T02:22:19.161Z"
 ---
 
 # § 1144a. Clarification of church welfare plan status under State insurance law

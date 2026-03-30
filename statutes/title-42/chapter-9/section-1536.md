@@ -3,9 +3,9 @@ title: "Section 1536 - Omitted"
 usc_title: 42
 usc_section: "1536"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 1536"
-generated_at: "2026-03-30T02:19:46.976Z"
+generated_at: "2026-03-30T02:23:22.897Z"
 ---
 
 # §§ 1531 to 1536. Omitted

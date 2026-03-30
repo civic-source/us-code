@@ -3,9 +3,9 @@ title: "Section 20129 - LGBT specific services program"
 usc_title: 34
 usc_section: "20129"
 chapter: 201
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "34 U.S.C. § 20129"
-generated_at: "2026-03-30T02:19:05.036Z"
+generated_at: "2026-03-30T02:22:29.558Z"
 ---
 
 # § 20129. LGBT specific services program

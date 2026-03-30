@@ -3,9 +3,9 @@ title: "Section 195 - Use of sampling"
 usc_title: 13
 usc_section: "195"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "13 U.S.C. § 195"
-generated_at: "2026-03-30T02:18:02.235Z"
+generated_at: "2026-03-30T02:21:28.083Z"
 ---
 
 # § 195. Use of sampling

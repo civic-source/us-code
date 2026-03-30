@@ -3,9 +3,9 @@ title: "Section 4984 - Transferability, additional limitations, and definition"
 usc_title: 10
 usc_section: "4984"
 chapter: 389
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 4984"
-generated_at: "2026-03-30T02:17:31.680Z"
+generated_at: "2026-03-30T02:21:23.856Z"
 ---
 
 # § 4984. Transferability, additional limitations, and definition

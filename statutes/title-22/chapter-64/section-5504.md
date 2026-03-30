@@ -3,9 +3,9 @@ title: "Section 5504 - Designation of State Department-family liaison and toll-f
 usc_title: 22
 usc_section: "5504"
 chapter: 64
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 5504"
-generated_at: "2026-03-30T02:18:41.639Z"
+generated_at: "2026-03-30T02:22:14.508Z"
 ---
 
 # § 5504. Designation of State Department-family liaison and toll-free family communications system

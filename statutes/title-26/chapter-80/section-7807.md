@@ -3,9 +3,9 @@ title: "Section 7807 - Rules in effect upon enactment of this title"
 usc_title: 26
 usc_section: "7807"
 chapter: 80
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "26 U.S.C. § 7807"
-generated_at: "2026-03-30T02:18:56.571Z"
+generated_at: "2026-03-30T02:22:26.125Z"
 ---
 
 # § 7807. Rules in effect upon enactment of this title

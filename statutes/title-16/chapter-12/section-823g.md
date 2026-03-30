@@ -3,9 +3,9 @@ title: "Section 823g - Considerations for relicensing terms"
 usc_title: 16
 usc_section: "823g"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 823g"
-generated_at: "2026-03-30T02:18:31.978Z"
+generated_at: "2026-03-30T02:22:05.202Z"
 ---
 
 # § 823g. Considerations for relicensing terms

@@ -3,9 +3,9 @@ title: "Section 1388 - Requirements"
 usc_title: 33
 usc_section: "1388"
 chapter: 26
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "33 U.S.C. § 1388"
-generated_at: "2026-03-30T02:19:07.009Z"
+generated_at: "2026-03-30T02:22:30.936Z"
 ---
 
 # § 1388. Requirements

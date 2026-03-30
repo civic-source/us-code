@@ -3,9 +3,9 @@ title: "Section 132 - Mode of distribution of goods"
 usc_title: 25
 usc_section: "132"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 132"
-generated_at: "2026-03-30T02:18:36.372Z"
+generated_at: "2026-03-30T02:22:09.955Z"
 ---
 
 # § 132. Mode of distribution of goods

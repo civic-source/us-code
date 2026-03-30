@@ -3,9 +3,9 @@ title: "Section 2251 - Household furnishings and other property: personnel outsi
 usc_title: 10
 usc_section: "2251"
 chapter: 134
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 2251"
-generated_at: "2026-03-30T02:17:31.630Z"
+generated_at: "2026-03-30T02:21:23.790Z"
 ---
 
 # § 2251. Household furnishings and other property: personnel outside the United States or in Alaska or Hawaii

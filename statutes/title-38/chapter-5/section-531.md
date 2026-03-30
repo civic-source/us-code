@@ -3,9 +3,9 @@ title: "Section 531 - Requirements relating to naming of Department property"
 usc_title: 38
 usc_section: "531"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 531"
-generated_at: "2026-03-30T02:19:11.508Z"
+generated_at: "2026-03-30T02:23:01.365Z"
 ---
 
 # § 531. Requirements relating to naming of Department property

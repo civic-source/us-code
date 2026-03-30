@@ -3,9 +3,9 @@ title: "Section 51 - Definitions"
 usc_title: 21
 usc_section: "51"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "21 U.S.C. § 51"
-generated_at: "2026-03-30T02:18:37.594Z"
+generated_at: "2026-03-30T02:22:11.844Z"
 ---
 
 # § 379j–51. Definitions

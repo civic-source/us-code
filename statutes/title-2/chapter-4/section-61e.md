@@ -3,9 +3,9 @@ title: "Section 61e - Transferred"
 usc_title: 2
 usc_section: "61e"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "2 U.S.C. § 61e"
-generated_at: "2026-03-30T02:16:56.665Z"
+generated_at: "2026-03-30T02:20:43.885Z"
 ---
 
 # § 61e. Transferred

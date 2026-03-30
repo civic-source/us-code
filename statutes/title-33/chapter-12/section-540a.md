@@ -3,9 +3,9 @@ title: "Section 540a - Availability of appropriations for attendance by military
 usc_title: 33
 usc_section: "540a"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "33 U.S.C. § 540a"
-generated_at: "2026-03-30T02:19:06.969Z"
+generated_at: "2026-03-30T02:22:30.893Z"
 ---
 
 # § 540a. Availability of appropriations for attendance by military personnel at meetings and for printing survey reports

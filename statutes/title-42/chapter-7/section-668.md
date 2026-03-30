@@ -3,9 +3,9 @@ title: "Section 668 - Encouragement of States to adopt civil procedure for estab
 usc_title: 42
 usc_section: "668"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 668"
-generated_at: "2026-03-30T02:19:46.781Z"
+generated_at: "2026-03-30T02:23:22.706Z"
 ---
 
 # § 668. Encouragement of States to adopt civil procedure for establishing paternity in contested cases

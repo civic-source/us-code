@@ -3,9 +3,9 @@ title: "Section 78a - Short title"
 usc_title: 15
 usc_section: "78a"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 78a"
-generated_at: "2026-03-30T02:18:09.839Z"
+generated_at: "2026-03-30T02:21:36.705Z"
 ---
 
 # § 78a. Short title

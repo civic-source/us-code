@@ -3,9 +3,9 @@ title: "Section 423 - Permanently unproductive lands; exclusion from project; di
 usc_title: 43
 usc_section: "423"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "43 U.S.C. § 423"
-generated_at: "2026-03-30T02:19:17.882Z"
+generated_at: "2026-03-30T02:23:04.373Z"
 ---
 
 # § 423. Permanently unproductive lands; exclusion from project; disposition of water right

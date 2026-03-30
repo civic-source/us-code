@@ -3,9 +3,9 @@ title: "Section 230307 - Restrictions"
 usc_title: 36
 usc_section: "230307"
 chapter: 2303
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "36 U.S.C. § 230307"
-generated_at: "2026-03-30T02:19:09.910Z"
+generated_at: "2026-03-30T02:22:54.004Z"
 ---
 
 # § 230307. Restrictions

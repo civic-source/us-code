@@ -3,9 +3,9 @@ title: "Section 652 - Disbursing officer paying lesser in lieu of lawful amount"
 usc_title: 18
 usc_section: "652"
 chapter: 31
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "18 U.S.C. § 652"
-generated_at: "2026-03-30T02:18:24.461Z"
+generated_at: "2026-03-30T02:21:44.498Z"
 ---
 
 # § 652. Disbursing officer paying lesser in lieu of lawful amount

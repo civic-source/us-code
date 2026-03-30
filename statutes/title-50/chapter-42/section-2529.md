@@ -3,9 +3,9 @@ title: "Section 2529 - Requirements for specific request for new or modified nuc
 usc_title: 50
 usc_section: "2529"
 chapter: 42
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "50 U.S.C. § 2529"
-generated_at: "2026-03-30T02:19:57.476Z"
+generated_at: "2026-03-30T02:23:33.187Z"
 ---
 
 # § 2529. Requirements for specific request for new or modified nuclear weapons

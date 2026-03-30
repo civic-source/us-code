@@ -3,9 +3,9 @@ title: "Section 5052 - Suspension and termination of financial assistance; proce
 usc_title: 42
 usc_section: "5052"
 chapter: 66
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 5052"
-generated_at: "2026-03-30T02:19:47.087Z"
+generated_at: "2026-03-30T02:23:23.005Z"
 ---
 
 # § 5052. Suspension and termination of financial assistance; procedures; notice and hearing; emergency situations; refunding applications

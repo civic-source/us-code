@@ -3,9 +3,9 @@ title: "Section 1612 - Seizure; summary sale"
 usc_title: 19
 usc_section: "1612"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "19 U.S.C. § 1612"
-generated_at: "2026-03-30T02:18:27.853Z"
+generated_at: "2026-03-30T02:21:48.808Z"
 ---
 
 # § 1612. Seizure; summary sale

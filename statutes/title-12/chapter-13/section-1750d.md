@@ -3,9 +3,9 @@ title: "Section 1750d - Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug.
 usc_title: 12
 usc_section: "1750d"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "12 U.S.C. § 1750d"
-generated_at: "2026-03-30T02:18:20.488Z"
+generated_at: "2026-03-30T02:21:39.347Z"
 ---
 
 # § 1750d. Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug. 10, 1965 , 79 Stat. 507

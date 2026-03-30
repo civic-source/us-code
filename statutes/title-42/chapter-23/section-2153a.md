@@ -3,9 +3,9 @@ title: "Section 2153a - Approval for enrichment after export of source or specia
 usc_title: 42
 usc_section: "2153a"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 2153a"
-generated_at: "2026-03-30T02:19:47.025Z"
+generated_at: "2026-03-30T02:23:22.941Z"
 ---
 
 # § 2153a. Approval for enrichment after export of source or special nuclear material; export of major critical components of enrichment facilities

@@ -3,9 +3,9 @@ title: "Section 5925g - Urban, indoor, and other emerging agricultural productio
 usc_title: 7
 usc_section: "5925g"
 chapter: 88
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "7 U.S.C. § 5925g"
-generated_at: "2026-03-30T02:18:00.405Z"
+generated_at: "2026-03-30T02:21:01.776Z"
 ---
 
 # § 5925g. Urban, indoor, and other emerging agricultural production research, education, and extension initiative

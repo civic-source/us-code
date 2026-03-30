@@ -3,9 +3,9 @@ title: "Section 16101 - General civil penalties"
 usc_title: 49
 usc_section: "16101"
 chapter: 161
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "49 U.S.C. § 16101"
-generated_at: "2026-03-30T02:19:55.099Z"
+generated_at: "2026-03-30T02:23:31.285Z"
 ---
 
 # § 16101. General civil penalties

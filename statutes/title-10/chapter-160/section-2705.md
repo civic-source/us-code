@@ -3,9 +3,9 @@ title: "Section 2705 - Notice of environmental restoration activities"
 usc_title: 10
 usc_section: "2705"
 chapter: 160
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 2705"
-generated_at: "2026-03-30T02:17:31.646Z"
+generated_at: "2026-03-30T02:21:23.808Z"
 ---
 
 # § 2705. Notice of environmental restoration activities

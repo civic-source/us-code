@@ -3,9 +3,9 @@ title: "Section 112 - New York"
 usc_title: 28
 usc_section: "112"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "28 U.S.C. § 112"
-generated_at: "2026-03-30T02:18:45.803Z"
+generated_at: "2026-03-30T02:22:18.152Z"
 ---
 
 # § 112. New York

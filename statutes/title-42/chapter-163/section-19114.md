@@ -3,9 +3,9 @@ title: "Section 19114 - Research and development awards"
 usc_title: 42
 usc_section: "19114"
 chapter: 163
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 19114"
-generated_at: "2026-03-30T02:19:47.403Z"
+generated_at: "2026-03-30T02:23:23.304Z"
 ---
 
 # § 19114. Research and development awards

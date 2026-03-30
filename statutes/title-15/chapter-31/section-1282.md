@@ -3,9 +3,9 @@ title: "Section 1282 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 15
 usc_section: "1282"
 chapter: 31
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 1282"
-generated_at: "2026-03-30T02:18:09.933Z"
+generated_at: "2026-03-30T02:21:36.802Z"
 ---
 
 # §§ 1281, 1282. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

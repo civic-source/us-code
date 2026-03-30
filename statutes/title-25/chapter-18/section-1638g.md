@@ -3,9 +3,9 @@ title: "Section 1638g - Mobile health stations demonstration program"
 usc_title: 25
 usc_section: "1638g"
 chapter: 18
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 1638g"
-generated_at: "2026-03-30T02:18:36.397Z"
+generated_at: "2026-03-30T02:22:09.978Z"
 ---
 
 # § 1638g. Mobile health stations demonstration program

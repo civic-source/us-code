@@ -3,9 +3,9 @@ title: "Section 3044 - Services and information for organization, financing, and
 usc_title: 12
 usc_section: "3044"
 chapter: 31
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "12 U.S.C. § 3044"
-generated_at: "2026-03-30T02:18:20.543Z"
+generated_at: "2026-03-30T02:21:39.404Z"
 ---
 
 # § 3044. Services and information for organization, financing, and management of cooperatives; availability; agreements for development and dissemination; funding

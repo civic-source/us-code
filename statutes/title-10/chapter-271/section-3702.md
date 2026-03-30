@@ -3,9 +3,9 @@ title: "Section 3702 - Required cost or pricing data and certification"
 usc_title: 10
 usc_section: "3702"
 chapter: 271
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 3702"
-generated_at: "2026-03-30T02:17:31.663Z"
+generated_at: "2026-03-30T02:21:23.829Z"
 ---
 
 # § 3702. Required cost or pricing data and certification
@@ -22,7 +22,7 @@ generated_at: "2026-03-30T02:17:31.663Z"
         - **(I)** such offeror is a nontraditional defense contractor (as defined in section 3014 of this title );
         - **(II)** the prices to be submitted are prices that were paid for the same goods and services as such covered goods and services; and
         - **(III)** the price of such subcontract is not expected to exceed $5,000,000.
-      - **(ii)** The submission of prices paid under clause (i) by an offereor with respect to a subcontract shall be deemed to be the submission of cost or pricing data by such offeror with respect to such subcontract as required by subparagraph (A) if a contracting officer of the Department of Defense determines that the prices submitted under such clause are fair and reasonable based on supported cost or pricing data within the last 12 months.
+      - **(ii)** The submission of prices paid under clause (i) by an offereor 1 1 So in original. Probably should be “offeror”. with respect to a subcontract shall be deemed to be the submission of cost or pricing data by such offeror with respect to such subcontract as required by subparagraph (A) if a contracting officer of the Department of Defense determines that the prices submitted under such clause are fair and reasonable based on supported cost or pricing data within the last 12 months.
       - **(iii)** In this subparagraph, the term “covered goods and services” means, with respect to an offeror for a subcontract (at any tier), the goods and services such offeror would provide under such subcontract.
   - **(4)** The subcontractor for a subcontract covered by paragraph (3) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
 - **(b)** A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under subsection (a) (or required by the head of the agency concerned to submit such data under section 3704 of this title ) shall be required to certify that, to the best of the person’s knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.

@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions"
 usc_title: 38
 usc_section: "2002"
 chapter: 20
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 2002"
-generated_at: "2026-03-30T02:19:11.531Z"
+generated_at: "2026-03-30T02:23:01.386Z"
 ---
 
 # § 2002. Definitions

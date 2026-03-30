@@ -3,9 +3,9 @@ title: "Section 3423 - Immunity from suit for disclosure of financial exploitati
 usc_title: 12
 usc_section: "3423"
 chapter: 35
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "12 U.S.C. § 3423"
-generated_at: "2026-03-30T02:18:20.549Z"
+generated_at: "2026-03-30T02:21:39.410Z"
 ---
 
 # § 3423. Immunity from suit for disclosure of financial exploitation of senior citizens

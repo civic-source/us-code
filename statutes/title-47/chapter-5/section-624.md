@@ -3,9 +3,9 @@ title: "Section 624 - Disclosure requirements for United States-based foreign me
 usc_title: 47
 usc_section: "624"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "47 U.S.C. § 624"
-generated_at: "2026-03-30T02:19:50.623Z"
+generated_at: "2026-03-30T02:23:26.799Z"
 ---
 
 # § 624. Disclosure requirements for United States-based foreign media outlets

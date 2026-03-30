@@ -3,9 +3,9 @@ title: "Section 3286 - Extension of statute of limitation for certain terrorism 
 usc_title: 18
 usc_section: "3286"
 chapter: 213
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "18 U.S.C. § 3286"
-generated_at: "2026-03-30T02:18:24.504Z"
+generated_at: "2026-03-30T02:21:44.543Z"
 ---
 
 # § 3286. Extension of statute of limitation for certain terrorism offenses

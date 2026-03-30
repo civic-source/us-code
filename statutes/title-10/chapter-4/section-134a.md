@@ -3,9 +3,9 @@ title: "Section 134a - Repealed. Pub. L. 111–383, div. A, title IX, § 901(b)(
 usc_title: 10
 usc_section: "134a"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 134a"
-generated_at: "2026-03-30T02:17:31.545Z"
+generated_at: "2026-03-30T02:21:23.693Z"
 ---
 
 # [§ 134a. Repealed. Pub. L. 111–383, div. A, title IX, § 901(b)(1) , Jan. 7, 2011 , 124 Stat. 4317 ]

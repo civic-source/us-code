@@ -3,9 +3,9 @@ title: "Section 101334 - Authorization for housing agreements"
 usc_title: 54
 usc_section: "101334"
 chapter: 1013
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "54 U.S.C. § 101334"
-generated_at: "2026-03-30T02:19:59.479Z"
+generated_at: "2026-03-30T02:23:35.713Z"
 ---
 
 # § 101334. Authorization for housing agreements

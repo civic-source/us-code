@@ -3,9 +3,9 @@ title: "Section 879 - Tax treatment of certain community income in the case of n
 usc_title: 26
 usc_section: "879"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "26 U.S.C. § 879"
-generated_at: "2026-03-30T02:18:56.443Z"
+generated_at: "2026-03-30T02:22:25.959Z"
 ---
 
 # § 879. Tax treatment of certain community income in the case of nonresident alien individuals

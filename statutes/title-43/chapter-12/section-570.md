@@ -3,9 +3,9 @@ title: "Section 570 - Conveyance of land to school district"
 usc_title: 43
 usc_section: "570"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "43 U.S.C. § 570"
-generated_at: "2026-03-30T02:19:17.888Z"
+generated_at: "2026-03-30T02:23:04.378Z"
 ---
 
 # § 570. Conveyance of land to school district

@@ -3,9 +3,9 @@ title: "Section 1527 - Importation of wild mammals and birds in violation of for
 usc_title: 19
 usc_section: "1527"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "19 U.S.C. § 1527"
-generated_at: "2026-03-30T02:18:27.850Z"
+generated_at: "2026-03-30T02:21:48.804Z"
 ---
 
 # § 1527. Importation of wild mammals and birds in violation of foreign law

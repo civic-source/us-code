@@ -3,9 +3,9 @@ title: "Section 2262 - Temporary cease and desist orders"
 usc_title: 12
 usc_section: "2262"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "12 U.S.C. § 2262"
-generated_at: "2026-03-30T02:18:20.531Z"
+generated_at: "2026-03-30T02:21:39.391Z"
 ---
 
 # § 2262. Temporary cease and desist orders

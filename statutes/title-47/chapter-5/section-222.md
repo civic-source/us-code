@@ -3,9 +3,9 @@ title: "Section 222 - Privacy of customer information"
 usc_title: 47
 usc_section: "222"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "47 U.S.C. § 222"
-generated_at: "2026-03-30T02:19:50.595Z"
+generated_at: "2026-03-30T02:23:26.770Z"
 ---
 
 # § 222. Privacy of customer information

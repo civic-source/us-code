@@ -3,9 +3,9 @@ title: "Section 8904 - Implementation of comprehensive plan; new or existing reg
 usc_title: 42
 usc_section: "8904"
 chapter: 97
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 8904"
-generated_at: "2026-03-30T02:19:47.214Z"
+generated_at: "2026-03-30T02:23:23.127Z"
 ---
 
 # § 8904. Implementation of comprehensive plan; new or existing regulatory authorities, etc., not granted or modified

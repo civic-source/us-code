@@ -3,9 +3,9 @@ title: "Section 7316 - Malpractice and negligence suits: defense by United State
 usc_title: 38
 usc_section: "7316"
 chapter: 73
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 7316"
-generated_at: "2026-03-30T02:19:11.571Z"
+generated_at: "2026-03-30T02:23:01.426Z"
 ---
 
 # § 7316. Malpractice and negligence suits: defense by United States

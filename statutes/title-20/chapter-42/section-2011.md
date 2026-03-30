@@ -3,9 +3,9 @@ title: "Section 2011 - Executive Secretary of Foundation"
 usc_title: 20
 usc_section: "2011"
 chapter: 42
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "20 U.S.C. § 2011"
-generated_at: "2026-03-30T02:18:26.623Z"
+generated_at: "2026-03-30T02:21:47.287Z"
 ---
 
 # § 2011. Executive Secretary of Foundation

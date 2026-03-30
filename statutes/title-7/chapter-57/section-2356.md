@@ -3,9 +3,9 @@ title: "Section 2356 - Regulations for practice before the Office"
 usc_title: 7
 usc_section: "2356"
 chapter: 57
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "7 U.S.C. § 2356"
-generated_at: "2026-03-30T02:18:00.378Z"
+generated_at: "2026-03-30T02:21:01.735Z"
 ---
 
 # § 2356. Regulations for practice before the Office

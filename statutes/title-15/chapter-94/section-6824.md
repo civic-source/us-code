@@ -3,9 +3,9 @@ title: "Section 6824 - Relation to State laws"
 usc_title: 15
 usc_section: "6824"
 chapter: 94
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 6824"
-generated_at: "2026-03-30T02:18:10.014Z"
+generated_at: "2026-03-30T02:21:36.888Z"
 ---
 
 # § 6824. Relation to State laws

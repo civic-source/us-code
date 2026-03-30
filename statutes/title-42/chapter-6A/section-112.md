@@ -3,9 +3,9 @@ title: "Section 112 - Ending surprise air ambulance bills"
 usc_title: 42
 usc_section: "112"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 112"
-generated_at: "2026-03-30T02:19:46.732Z"
+generated_at: "2026-03-30T02:23:22.664Z"
 ---
 
 # § 300gg–112. Ending surprise air ambulance bills

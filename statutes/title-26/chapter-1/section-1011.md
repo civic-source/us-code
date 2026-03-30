@@ -3,9 +3,9 @@ title: "Section 1011 - Adjusted basis for determining gain or loss"
 usc_title: 26
 usc_section: "1011"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "26 U.S.C. § 1011"
-generated_at: "2026-03-30T02:18:56.455Z"
+generated_at: "2026-03-30T02:22:25.974Z"
 ---
 
 # § 1011. Adjusted basis for determining gain or loss

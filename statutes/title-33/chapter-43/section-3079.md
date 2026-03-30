@@ -3,9 +3,9 @@ title: "Section 3079 - Student pre-commissioning education assistance program"
 usc_title: 33
 usc_section: "3079"
 chapter: 43
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "33 U.S.C. § 3079"
-generated_at: "2026-03-30T02:19:07.038Z"
+generated_at: "2026-03-30T02:22:30.968Z"
 ---
 
 # § 3079. Student pre-commissioning education assistance program

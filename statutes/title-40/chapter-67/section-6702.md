@@ -3,9 +3,9 @@ title: "Section 6702 - Transfer and assignment of rights, title, and interests i
 usc_title: 40
 usc_section: "6702"
 chapter: 67
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "40 U.S.C. § 6702"
-generated_at: "2026-03-30T02:19:14.816Z"
+generated_at: "2026-03-30T02:22:55.018Z"
 ---
 
 # § 6702. Transfer and assignment of rights, title, and interests in property

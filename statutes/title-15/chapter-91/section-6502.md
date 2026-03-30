@@ -3,9 +3,9 @@ title: "Section 6502 - Regulation of unfair and deceptive acts and practices in 
 usc_title: 15
 usc_section: "6502"
 chapter: 91
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 6502"
-generated_at: "2026-03-30T02:18:10.009Z"
+generated_at: "2026-03-30T02:21:36.882Z"
 ---
 
 # § 6502. Regulation of unfair and deceptive acts and practices in connection with collection and use of personal information from and about children on the Internet

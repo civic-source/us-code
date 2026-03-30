@@ -3,9 +3,9 @@ title: "Section 2605 - Prioritization, risk evaluation, and regulation of chemic
 usc_title: 15
 usc_section: "2605"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 2605"
-generated_at: "2026-03-30T02:18:09.973Z"
+generated_at: "2026-03-30T02:21:36.844Z"
 ---
 
 # § 2605. Prioritization, risk evaluation, and regulation of chemical substances and mixtures

@@ -3,9 +3,9 @@ title: "Section 1908 - Definitions"
 usc_title: 50
 usc_section: "1908"
 chapter: 37
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "50 U.S.C. § 1908"
-generated_at: "2026-03-30T02:19:57.465Z"
+generated_at: "2026-03-30T02:23:33.175Z"
 ---
 
 # § 1908. Definitions

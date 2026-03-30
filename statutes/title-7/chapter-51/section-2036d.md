@@ -3,9 +3,9 @@ title: "Section 2036d - Pilot projects to encourage the use of public-private pa
 usc_title: 7
 usc_section: "2036d"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "7 U.S.C. § 2036d"
-generated_at: "2026-03-30T02:18:00.370Z"
+generated_at: "2026-03-30T02:21:01.723Z"
 ---
 
 # § 2036d. Pilot projects to encourage the use of public-private partnerships committed to addressing food insecurity

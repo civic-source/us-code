@@ -3,9 +3,9 @@ title: "Section 9627 - Recycling transactions"
 usc_title: 42
 usc_section: "9627"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 9627"
-generated_at: "2026-03-30T02:19:47.229Z"
+generated_at: "2026-03-30T02:23:23.140Z"
 ---
 
 # § 9627. Recycling transactions

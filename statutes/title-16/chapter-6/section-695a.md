@@ -3,9 +3,9 @@ title: "Section 695a - Title in United States of California refuge areas; existe
 usc_title: 16
 usc_section: "695a"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 695a"
-generated_at: "2026-03-30T02:18:31.965Z"
+generated_at: "2026-03-30T02:22:05.189Z"
 ---
 
 # § 695a. Title in United States of California refuge areas; existence of easements, reservations, etc.; affecting acquisition

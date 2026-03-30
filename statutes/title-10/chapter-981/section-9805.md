@@ -3,9 +3,9 @@ title: "Section 9805 - Repealed. Pub. L. 86–533, § 1(7)(A) , June 29, 1960 , 
 usc_title: 10
 usc_section: "9805"
 chapter: 981
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 9805"
-generated_at: "2026-03-30T02:17:31.709Z"
+generated_at: "2026-03-30T02:21:23.889Z"
 ---
 
 # [§ 9805. Repealed. Pub. L. 86–533, § 1(7)(A) , June 29, 1960 , 74 Stat. 246 ]

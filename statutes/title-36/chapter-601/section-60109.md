@@ -3,9 +3,9 @@ title: "Section 60109 - Records and inspection"
 usc_title: 36
 usc_section: "60109"
 chapter: 601
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "36 U.S.C. § 60109"
-generated_at: "2026-03-30T02:19:09.896Z"
+generated_at: "2026-03-30T02:22:53.990Z"
 ---
 
 # § 60109. Records and inspection

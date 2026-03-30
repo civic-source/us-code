@@ -3,9 +3,9 @@ title: "Section 82 - New or supplemental patents, in case of lands subsequently 
 usc_title: 30
 usc_section: "82"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "30 U.S.C. § 82"
-generated_at: "2026-03-30T02:18:44.847Z"
+generated_at: "2026-03-30T02:22:17.061Z"
 ---
 
 # § 82. New or supplemental patents, in case of lands subsequently classified as noncoal

@@ -3,9 +3,9 @@ title: "Section 8803 - Imposition of sanctions with respect to the energy, shipp
 usc_title: 22
 usc_section: "8803"
 chapter: 95
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 8803"
-generated_at: "2026-03-30T02:18:41.693Z"
+generated_at: "2026-03-30T02:22:14.550Z"
 ---
 
 # § 8803. Imposition of sanctions with respect to the energy, shipping, and shipbuilding sectors of Iran

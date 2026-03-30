@@ -3,9 +3,9 @@ title: "Section 5209 - Rules and regulations; repeals"
 usc_title: 25
 usc_section: "5209"
 chapter: 45
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 5209"
-generated_at: "2026-03-30T02:18:36.442Z"
+generated_at: "2026-03-30T02:22:10.018Z"
 ---
 
 # § 5209. Rules and regulations; repeals

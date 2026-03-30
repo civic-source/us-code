@@ -3,9 +3,9 @@ title: "Section 1942 - Permanent commissioned teaching staff; composition"
 usc_title: 14
 usc_section: "1942"
 chapter: 19
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "14 U.S.C. § 1942"
-generated_at: "2026-03-30T02:18:14.502Z"
+generated_at: "2026-03-30T02:21:37.197Z"
 ---
 
 # § 1942. Permanent commissioned teaching staff; composition

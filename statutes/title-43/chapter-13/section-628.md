@@ -3,9 +3,9 @@ title: "Section 628 - Patents to entered but unpatented land"
 usc_title: 43
 usc_section: "628"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "43 U.S.C. § 628"
-generated_at: "2026-03-30T02:19:17.892Z"
+generated_at: "2026-03-30T02:23:04.383Z"
 ---
 
 # § 628. Patents to entered but unpatented land

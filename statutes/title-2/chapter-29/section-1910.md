@@ -3,9 +3,9 @@ title: "Section 1910 - Report of disbursements"
 usc_title: 2
 usc_section: "1910"
 chapter: 29
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "2 U.S.C. § 1910"
-generated_at: "2026-03-30T02:16:56.700Z"
+generated_at: "2026-03-30T02:20:43.917Z"
 ---
 
 # § 1910. Report of disbursements

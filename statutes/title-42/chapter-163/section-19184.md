@@ -3,9 +3,9 @@ title: "Section 19184 - Definitions"
 usc_title: 42
 usc_section: "19184"
 chapter: 163
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 19184"
-generated_at: "2026-03-30T02:19:47.405Z"
+generated_at: "2026-03-30T02:23:23.307Z"
 ---
 
 # § 19184. Definitions

@@ -3,9 +3,9 @@ title: "Section 6j - Restrictions on dual trading in security futures products o
 usc_title: 7
 usc_section: "6j"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "7 U.S.C. § 6j"
-generated_at: "2026-03-30T02:18:00.261Z"
+generated_at: "2026-03-30T02:21:01.588Z"
 ---
 
 # § 6j. Restrictions on dual trading in security futures products on designated contract markets and registered derivatives transaction execution facilities

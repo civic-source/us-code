@@ -3,9 +3,9 @@ title: "Section 1113 - Annual reports: exclusion of irrelevant matter"
 usc_title: 44
 usc_section: "1113"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "44 U.S.C. § 1113"
-generated_at: "2026-03-30T02:19:18.750Z"
+generated_at: "2026-03-30T02:23:03.323Z"
 ---
 
 # § 1113. Annual reports: exclusion of irrelevant matter

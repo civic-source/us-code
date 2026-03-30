@@ -3,9 +3,9 @@ title: "Section 45304 - Maximum fees for private person services"
 usc_title: 49
 usc_section: "45304"
 chapter: 453
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "49 U.S.C. § 45304"
-generated_at: "2026-03-30T02:19:55.156Z"
+generated_at: "2026-03-30T02:23:31.344Z"
 ---
 
 # § 45304. Maximum fees for private person services

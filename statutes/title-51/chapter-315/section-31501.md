@@ -3,9 +3,9 @@ title: "Section 31501 - Orbital debris"
 usc_title: 51
 usc_section: "31501"
 chapter: 315
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "51 U.S.C. § 31501"
-generated_at: "2026-03-30T02:20:01.838Z"
+generated_at: "2026-03-30T02:23:35.337Z"
 ---
 
 # § 31501. Orbital debris

@@ -3,9 +3,9 @@ title: "Section 300a - Formula grants to States for family planning services"
 usc_title: 42
 usc_section: "300a"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 300a"
-generated_at: "2026-03-30T02:19:46.680Z"
+generated_at: "2026-03-30T02:23:22.618Z"
 ---
 
 # § 300a. Formula grants to States for family planning services

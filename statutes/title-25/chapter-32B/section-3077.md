@@ -3,9 +3,9 @@ title: "Section 3077 - Treatment under Freedom of Information Act"
 usc_title: 25
 usc_section: "3077"
 chapter: 32
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 3077"
-generated_at: "2026-03-30T02:18:36.424Z"
+generated_at: "2026-03-30T02:22:10.002Z"
 ---
 
 # § 3077. Treatment under Freedom of Information Act

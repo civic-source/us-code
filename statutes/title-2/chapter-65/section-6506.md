@@ -3,9 +3,9 @@ title: "Section 6506 - Separate accounts for “Secretary of the Senate” and f
 usc_title: 2
 usc_section: "6506"
 chapter: 65
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "2 U.S.C. § 6506"
-generated_at: "2026-03-30T02:16:56.718Z"
+generated_at: "2026-03-30T02:20:43.934Z"
 ---
 
 # § 6506. Separate accounts for “Secretary of the Senate” and for “Sergeant at Arms and Doorkeeper of the Senate”; establishment within Senate contingent fund; inclusion of funds in existing accounts

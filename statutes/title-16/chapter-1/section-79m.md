@@ -3,9 +3,9 @@ title: "Section 79m - Annual reporting requirements; contents; comprehensive gen
 usc_title: 16
 usc_section: "79m"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 79m"
-generated_at: "2026-03-30T02:18:31.840Z"
+generated_at: "2026-03-30T02:22:05.067Z"
 ---
 
 # § 79m. Annual reporting requirements; contents; comprehensive general management plan; submission date and scope

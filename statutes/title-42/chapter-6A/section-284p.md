@@ -3,9 +3,9 @@ title: "Section 284p - Activities of the National Institutes of Health with resp
 usc_title: 42
 usc_section: "284p"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 284p"
-generated_at: "2026-03-30T02:19:46.633Z"
+generated_at: "2026-03-30T02:23:22.579Z"
 ---
 
 # § 284p. Activities of the National Institutes of Health with respect to research with implications for enhancing daily function for persons with paralysis

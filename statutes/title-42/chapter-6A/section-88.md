@@ -3,9 +3,9 @@ title: "Section 88 - Definitions"
 usc_title: 42
 usc_section: "88"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 88"
-generated_at: "2026-03-30T02:19:46.723Z"
+generated_at: "2026-03-30T02:23:22.656Z"
 ---
 
 # § 300ff–88. Definitions

@@ -3,9 +3,9 @@ title: "Section 1117 - Compensation for disabilities occurring in Persian Gulf W
 usc_title: 38
 usc_section: "1117"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 1117"
-generated_at: "2026-03-30T02:19:11.513Z"
+generated_at: "2026-03-30T02:23:01.369Z"
 ---
 
 # § 1117. Compensation for disabilities occurring in Persian Gulf War veterans

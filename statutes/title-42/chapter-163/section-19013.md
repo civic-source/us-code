@@ -3,9 +3,9 @@ title: "Section 19013 - Broadening participation on major facilities awards"
 usc_title: 42
 usc_section: "19013"
 chapter: 163
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 19013"
-generated_at: "2026-03-30T02:19:47.400Z"
+generated_at: "2026-03-30T02:23:23.301Z"
 ---
 
 # § 19013. Broadening participation on major facilities awards

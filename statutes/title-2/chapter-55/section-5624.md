@@ -3,9 +3,9 @@ title: "Section 5624 - Transfer of positions in Corrections Calendar Office"
 usc_title: 2
 usc_section: "5624"
 chapter: 55
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "2 U.S.C. § 5624"
-generated_at: "2026-03-30T02:16:56.717Z"
+generated_at: "2026-03-30T02:20:43.932Z"
 ---
 
 # § 5624. Transfer of positions in Corrections Calendar Office

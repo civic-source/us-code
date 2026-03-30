@@ -3,9 +3,9 @@ title: "Section 269h - International Union for the Publication of Customs Tariff
 usc_title: 22
 usc_section: "269h"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 269h"
-generated_at: "2026-03-30T02:18:41.485Z"
+generated_at: "2026-03-30T02:22:14.386Z"
 ---
 
 # § 269h. International Union for the Publication of Customs Tariffs; authorization of annual appropriations for expenses

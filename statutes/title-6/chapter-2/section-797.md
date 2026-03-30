@@ -3,9 +3,9 @@ title: "Section 797 - Fraud prevention training program"
 usc_title: 6
 usc_section: "797"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "6 U.S.C. § 797"
-generated_at: "2026-03-30T02:17:15.284Z"
+generated_at: "2026-03-30T02:20:46.742Z"
 ---
 
 # § 797. Fraud prevention training program

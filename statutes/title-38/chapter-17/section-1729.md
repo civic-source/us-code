@@ -3,9 +3,9 @@ title: "Section 1729 - Recovery by the United States of the cost of certain care
 usc_title: 38
 usc_section: "1729"
 chapter: 17
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 1729"
-generated_at: "2026-03-30T02:19:11.524Z"
+generated_at: "2026-03-30T02:23:01.380Z"
 ---
 
 # § 1729. Recovery by the United States of the cost of certain care and services

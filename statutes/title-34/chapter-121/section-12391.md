@@ -3,9 +3,9 @@ title: "Section 12391 - Payment of cost of testing for sexually transmitted dise
 usc_title: 34
 usc_section: "12391"
 chapter: 121
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "34 U.S.C. § 12391"
-generated_at: "2026-03-30T02:19:05.027Z"
+generated_at: "2026-03-30T02:22:29.549Z"
 ---
 
 # § 12391. Payment of cost of testing for sexually transmitted diseases

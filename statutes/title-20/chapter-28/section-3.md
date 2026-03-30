@@ -3,9 +3,9 @@ title: "Section 3 - Demonstration and innovation projects; training and resource
 usc_title: 20
 usc_section: "3"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T02:18:26.605Z"
+generated_at: "2026-03-30T02:21:47.269Z"
 ---
 
 # § 1161n–3. Demonstration and innovation projects; training and resource centers; and research

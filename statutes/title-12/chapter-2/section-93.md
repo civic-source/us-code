@@ -3,9 +3,9 @@ title: "Section 93 - Violation of provisions of chapter"
 usc_title: 12
 usc_section: "93"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "12 U.S.C. § 93"
-generated_at: "2026-03-30T02:18:20.423Z"
+generated_at: "2026-03-30T02:21:39.288Z"
 ---
 
 # § 93. Violation of provisions of chapter

@@ -3,9 +3,9 @@ title: "Section 2413 - Prohibition on certain demonstrations and disruptions at 
 usc_title: 38
 usc_section: "2413"
 chapter: 24
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 2413"
-generated_at: "2026-03-30T02:19:11.536Z"
+generated_at: "2026-03-30T02:23:01.391Z"
 ---
 
 # § 2413. Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery

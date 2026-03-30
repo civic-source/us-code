@@ -3,9 +3,9 @@ title: "Section 725 - Annual performance plan for political appointees"
 usc_title: 38
 usc_section: "725"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 725"
-generated_at: "2026-03-30T02:19:11.511Z"
+generated_at: "2026-03-30T02:23:01.367Z"
 ---
 
 # § 725. Annual performance plan for political appointees

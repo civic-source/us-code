@@ -3,9 +3,9 @@ title: "Section 5513 - Unfunded priorities of the missile defense agency: 1 1 So
 usc_title: 10
 usc_section: "5513"
 chapter: 551
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 5513"
-generated_at: "2026-03-30T02:17:31.680Z"
+generated_at: "2026-03-30T02:21:23.856Z"
 ---
 
 # § 5513. Unfunded priorities of the missile defense agency: 1 1 So in original. Probably should be capitalized as “Missile Defense Agency:”. annual report

@@ -3,9 +3,9 @@ title: "Section 982 - Admissibility of documentation maintained in foreign count
 usc_title: 26
 usc_section: "982"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "26 U.S.C. § 982"
-generated_at: "2026-03-30T02:18:56.453Z"
+generated_at: "2026-03-30T02:22:25.970Z"
 ---
 
 # § 982. Admissibility of documentation maintained in foreign countries

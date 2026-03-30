@@ -3,9 +3,9 @@ title: "Section 1011 - Federal land bank mortgage transactions"
 usc_title: 18
 usc_section: "1011"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "18 U.S.C. § 1011"
-generated_at: "2026-03-30T02:18:24.472Z"
+generated_at: "2026-03-30T02:21:44.508Z"
 ---
 
 # § 1011. Federal land bank mortgage transactions

@@ -3,9 +3,9 @@ title: "Section 8243 - Personnel policies at the Department of State"
 usc_title: 22
 usc_section: "8243"
 chapter: 89
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 8243"
-generated_at: "2026-03-30T02:18:41.683Z"
+generated_at: "2026-03-30T02:22:14.542Z"
 ---
 
 # § 8243. Personnel policies at the Department of State

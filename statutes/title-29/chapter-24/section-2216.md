@@ -3,9 +3,9 @@ title: "Section 2216 - Repealed. Pub. L. 105–394, title IV, § 401 , Nov. 13, 
 usc_title: 29
 usc_section: "2216"
 chapter: 24
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "29 U.S.C. § 2216"
-generated_at: "2026-03-30T02:19:02.122Z"
+generated_at: "2026-03-30T02:22:19.183Z"
 ---
 
 # §§ 2211 to 2216. Repealed. Pub. L. 105–394, title IV, § 401 , Nov. 13, 1998 , 112 Stat. 3661

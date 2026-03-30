@@ -3,9 +3,9 @@ title: "Section 621 - Inspectors to make examinations provided for; appointment;
 usc_title: 21
 usc_section: "621"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "21 U.S.C. § 621"
-generated_at: "2026-03-30T02:18:37.609Z"
+generated_at: "2026-03-30T02:22:11.859Z"
 ---
 
 # § 621. Inspectors to make examinations provided for; appointment; duties; regulations

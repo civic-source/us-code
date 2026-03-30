@@ -3,9 +3,9 @@ title: "Section 3739 - Promotion of Reserve officers on active duty"
 usc_title: 14
 usc_section: "3739"
 chapter: 37
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "14 U.S.C. § 3739"
-generated_at: "2026-03-30T02:18:14.507Z"
+generated_at: "2026-03-30T02:21:37.203Z"
 ---
 
 # § 3739. Promotion of Reserve officers on active duty

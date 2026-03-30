@@ -3,9 +3,9 @@ title: "Section 16 - Allowance of rations to Navy hospitals"
 usc_title: 24
 usc_section: "16"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "24 U.S.C. § 16"
-generated_at: "2026-03-30T02:18:34.124Z"
+generated_at: "2026-03-30T02:22:07.385Z"
 ---
 
 # § 16. Allowance of rations to Navy hospitals

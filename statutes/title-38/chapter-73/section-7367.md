@@ -3,9 +3,9 @@ title: "Section 7367 - Repealed. Pub. L. 107–14, § 8(a)(14)(A) , June 5, 2001
 usc_title: 38
 usc_section: "7367"
 chapter: 73
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 7367"
-generated_at: "2026-03-30T02:19:11.573Z"
+generated_at: "2026-03-30T02:23:01.429Z"
 ---
 
 # [§ 7367. Repealed. Pub. L. 107–14, § 8(a)(14)(A) , June 5, 2001 , 115 Stat. 35 ]

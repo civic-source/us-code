@@ -3,9 +3,9 @@ title: "Section 4912 - Fees and access"
 usc_title: 15
 usc_section: "4912"
 chapter: 75
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 4912"
-generated_at: "2026-03-30T02:18:10.003Z"
+generated_at: "2026-03-30T02:21:36.875Z"
 ---
 
 # § 4912. Fees and access

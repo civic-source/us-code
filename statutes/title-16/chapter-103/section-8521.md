@@ -3,9 +3,9 @@ title: "Section 8521 - Increasing youth recreation visits to Federal land"
 usc_title: 16
 usc_section: "8521"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 8521"
-generated_at: "2026-03-30T02:18:32.117Z"
+generated_at: "2026-03-30T02:22:05.327Z"
 ---
 
 # § 8521. Increasing youth recreation visits to Federal land

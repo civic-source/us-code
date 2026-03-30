@@ -3,9 +3,9 @@ title: "Section 6013 - Joint returns of income tax by husband and wife"
 usc_title: 26
 usc_section: "6013"
 chapter: 61
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "26 U.S.C. § 6013"
-generated_at: "2026-03-30T02:18:56.521Z"
+generated_at: "2026-03-30T02:22:26.060Z"
 ---
 
 # § 6013. Joint returns of income tax by husband and wife

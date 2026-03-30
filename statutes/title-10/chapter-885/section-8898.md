@@ -3,9 +3,9 @@ title: "Section 8898 - Restricted certificate"
 usc_title: 10
 usc_section: "8898"
 chapter: 885
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 8898"
-generated_at: "2026-03-30T02:17:31.701Z"
+generated_at: "2026-03-30T02:21:23.880Z"
 ---
 
 # § 8898. Restricted certificate

@@ -3,9 +3,9 @@ title: "Section 5203 - Enforcement"
 usc_title: 22
 usc_section: "5203"
 chapter: 61
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 5203"
-generated_at: "2026-03-30T02:18:41.635Z"
+generated_at: "2026-03-30T02:22:14.504Z"
 ---
 
 # § 5203. Enforcement

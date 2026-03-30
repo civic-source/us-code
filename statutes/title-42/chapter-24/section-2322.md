@@ -3,9 +3,9 @@ title: "Section 2322 - Appraisal of property"
 usc_title: 42
 usc_section: "2322"
 chapter: 24
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 2322"
-generated_at: "2026-03-30T02:19:47.039Z"
+generated_at: "2026-03-30T02:23:22.955Z"
 ---
 
 # § 2322. Appraisal of property

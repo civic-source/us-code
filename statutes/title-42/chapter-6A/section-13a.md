@@ -3,9 +3,9 @@ title: "Section 13a - Screening and treatment for maternal mental health and sub
 usc_title: 42
 usc_section: "13a"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 13a"
-generated_at: "2026-03-30T02:19:46.588Z"
+generated_at: "2026-03-30T02:23:22.533Z"
 ---
 
 # § 247b–13a. Screening and treatment for maternal mental health and substance use disorders

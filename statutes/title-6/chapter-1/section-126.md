@@ -3,9 +3,9 @@ title: "Section 126 - Department of Homeland Security data framework"
 usc_title: 6
 usc_section: "126"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "6 U.S.C. § 126"
-generated_at: "2026-03-30T02:17:15.248Z"
+generated_at: "2026-03-30T02:20:46.708Z"
 ---
 
 # § 126. Department of Homeland Security data framework

@@ -3,9 +3,9 @@ title: "Section 1072 - Advances for reserve funds of State and nonprofit private
 usc_title: 20
 usc_section: "1072"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "20 U.S.C. § 1072"
-generated_at: "2026-03-30T02:18:26.564Z"
+generated_at: "2026-03-30T02:21:47.226Z"
 ---
 
 # § 1072. Advances for reserve funds of State and nonprofit private loan insurance programs

@@ -3,9 +3,9 @@ title: "Section 7253 - Flying officer rating: qualifications"
 usc_title: 10
 usc_section: "7253"
 chapter: 733
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 7253"
-generated_at: "2026-03-30T02:17:31.683Z"
+generated_at: "2026-03-30T02:21:23.859Z"
 ---
 
 # § 7253. Flying officer rating: qualifications

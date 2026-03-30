@@ -3,9 +3,9 @@ title: "Section 7118 - Prevention of unfair labor practices"
 usc_title: 5
 usc_section: "7118"
 chapter: 71
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "5 U.S.C. § 7118"
-generated_at: "2026-03-30T02:17:12.670Z"
+generated_at: "2026-03-30T02:20:28.441Z"
 ---
 
 # § 7118. Prevention of unfair labor practices

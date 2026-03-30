@@ -3,9 +3,9 @@ title: "Section 7503 - Relation to other audit requirements"
 usc_title: 31
 usc_section: "7503"
 chapter: 75
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "31 U.S.C. § 7503"
-generated_at: "2026-03-30T02:19:05.870Z"
+generated_at: "2026-03-30T02:22:48.083Z"
 ---
 
 # § 7503. Relation to other audit requirements

@@ -3,9 +3,9 @@ title: "Section 932 - Failure to meet workmen’s compensation requirements"
 usc_title: 30
 usc_section: "932"
 chapter: 22
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "30 U.S.C. § 932"
-generated_at: "2026-03-30T02:18:44.863Z"
+generated_at: "2026-03-30T02:22:17.078Z"
 ---
 
 # § 932. Failure to meet workmen’s compensation requirements

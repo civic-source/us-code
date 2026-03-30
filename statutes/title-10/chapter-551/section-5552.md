@@ -3,9 +3,9 @@ title: "Section 5552 - Biannual briefing on missile defense and related activiti
 usc_title: 10
 usc_section: "5552"
 chapter: 551
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 5552"
-generated_at: "2026-03-30T02:17:31.681Z"
+generated_at: "2026-03-30T02:21:23.857Z"
 ---
 
 # § 5552. Biannual briefing on missile defense and related activities

@@ -3,9 +3,9 @@ title: "Section 596 - Contracting and grant making authorities"
 usc_title: 6
 usc_section: "596"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "6 U.S.C. § 596"
-generated_at: "2026-03-30T02:17:15.272Z"
+generated_at: "2026-03-30T02:20:46.730Z"
 ---
 
 # § 596. Contracting and grant making authorities

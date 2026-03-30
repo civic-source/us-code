@@ -3,9 +3,9 @@ title: "Section 286x - Assistance to private sector of El Salvador, Nicaragua, a
 usc_title: 22
 usc_section: "286x"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 286x"
-generated_at: "2026-03-30T02:18:41.498Z"
+generated_at: "2026-03-30T02:22:14.396Z"
 ---
 
 # § 286x. Assistance to private sector of El Salvador, Nicaragua, and other nations

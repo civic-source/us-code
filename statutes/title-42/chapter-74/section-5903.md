@@ -3,9 +3,9 @@ title: "Section 5903 - Duties and authorities of the Secretary"
 usc_title: 42
 usc_section: "5903"
 chapter: 74
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 5903"
-generated_at: "2026-03-30T02:19:47.109Z"
+generated_at: "2026-03-30T02:23:23.030Z"
 ---
 
 # § 5903. Duties and authorities of the Secretary

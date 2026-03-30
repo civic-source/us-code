@@ -3,9 +3,9 @@ title: "Section 411 - Renumbered § 481]"
 usc_title: 37
 usc_section: "411"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "37 U.S.C. § 411"
-generated_at: "2026-03-30T02:19:09.132Z"
+generated_at: "2026-03-30T02:22:52.147Z"
 ---
 
 # [§ 411. Renumbered § 481]

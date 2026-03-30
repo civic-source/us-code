@@ -3,9 +3,9 @@ title: "Section 364 - Obtaining credit"
 usc_title: 11
 usc_section: "364"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "11 U.S.C. § 364"
-generated_at: "2026-03-30T02:18:02.772Z"
+generated_at: "2026-03-30T02:21:27.489Z"
 ---
 
 # § 364. Obtaining credit

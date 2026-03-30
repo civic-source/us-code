@@ -3,9 +3,9 @@ title: "Section 10286 - Expedited payment for public safety officers involved in
 usc_title: 34
 usc_section: "10286"
 chapter: 101
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "34 U.S.C. § 10286"
-generated_at: "2026-03-30T02:19:05.002Z"
+generated_at: "2026-03-30T02:22:29.525Z"
 ---
 
 # § 10286. Expedited payment for public safety officers involved in the prevention, investigation, rescue, or recovery efforts related to a terrorist attack

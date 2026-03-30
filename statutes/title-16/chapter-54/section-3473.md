@@ -3,9 +3,9 @@ title: "Section 3473 - Regulations"
 usc_title: 16
 usc_section: "3473"
 chapter: 54
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 3473"
-generated_at: "2026-03-30T02:18:32.068Z"
+generated_at: "2026-03-30T02:22:05.277Z"
 ---
 
 # § 3473. Regulations

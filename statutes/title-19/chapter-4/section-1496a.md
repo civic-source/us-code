@@ -3,9 +3,9 @@ title: "Section 1496a - Clearance restrictions of individuals returning from abr
 usc_title: 19
 usc_section: "1496a"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "19 U.S.C. § 1496a"
-generated_at: "2026-03-30T02:18:27.845Z"
+generated_at: "2026-03-30T02:21:48.799Z"
 ---
 
 # § 1496a. Clearance restrictions of individuals returning from abroad; special circumstances; “baggage and effects” defined

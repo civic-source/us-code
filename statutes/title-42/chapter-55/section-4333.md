@@ -3,9 +3,9 @@ title: "Section 4333 - Conformity of administrative procedures to national envir
 usc_title: 42
 usc_section: "4333"
 chapter: 55
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 4333"
-generated_at: "2026-03-30T02:19:47.074Z"
+generated_at: "2026-03-30T02:23:22.993Z"
 ---
 
 # § 4333. Conformity of administrative procedures to national environmental policy

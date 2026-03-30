@@ -3,9 +3,9 @@ title: "Section 27 - Designation of national recreation trail"
 usc_title: 16
 usc_section: "27"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 27"
-generated_at: "2026-03-30T02:18:31.922Z"
+generated_at: "2026-03-30T02:22:05.149Z"
 ---
 
 # § 460lll–27. Designation of national recreation trail

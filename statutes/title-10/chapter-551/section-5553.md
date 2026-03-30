@@ -3,9 +3,9 @@ title: "Section 5553 - Provision of information on flight testing of ground-base
 usc_title: 10
 usc_section: "5553"
 chapter: 551
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 5553"
-generated_at: "2026-03-30T02:17:31.681Z"
+generated_at: "2026-03-30T02:21:23.857Z"
 ---
 
 # § 5553. Provision of information on flight testing of ground-based midcourse national missile defense system

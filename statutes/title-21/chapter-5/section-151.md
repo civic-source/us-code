@@ -3,9 +3,9 @@ title: "Section 151 - Preparation and sale of worthless or harmful products for 
 usc_title: 21
 usc_section: "151"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "21 U.S.C. § 151"
-generated_at: "2026-03-30T02:18:37.533Z"
+generated_at: "2026-03-30T02:22:11.782Z"
 ---
 
 # § 151. Preparation and sale of worthless or harmful products for domestic animals prohibited; preparation to be in compliance with rules at licensed establishments

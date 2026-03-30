@@ -3,9 +3,9 @@ title: "Section 710 - Sexual risk avoidance education"
 usc_title: 42
 usc_section: "710"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 710"
-generated_at: "2026-03-30T02:19:46.788Z"
+generated_at: "2026-03-30T02:23:22.713Z"
 ---
 
 # § 710. Sexual risk avoidance education

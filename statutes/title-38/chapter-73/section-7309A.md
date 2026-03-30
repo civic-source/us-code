@@ -3,9 +3,9 @@ title: "Section 7309A - Office of Patient Advocacy"
 usc_title: 38
 usc_section: "7309A"
 chapter: 73
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 7309A"
-generated_at: "2026-03-30T02:19:11.569Z"
+generated_at: "2026-03-30T02:23:01.425Z"
 ---
 
 # § 7309A. Office of Patient Advocacy

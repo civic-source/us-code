@@ -3,9 +3,9 @@ title: "Section 207 - Award of arbitrators; confirmation; jurisdiction; proceedi
 usc_title: 9
 usc_section: "207"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "9 U.S.C. § 207"
-generated_at: "2026-03-30T02:17:14.167Z"
+generated_at: "2026-03-30T02:20:49.374Z"
 ---
 
 # § 207. Award of arbitrators; confirmation; jurisdiction; proceeding

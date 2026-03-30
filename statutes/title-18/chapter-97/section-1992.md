@@ -3,9 +3,9 @@ title: "Section 1992 - Terrorist attacks and other violence against railroad car
 usc_title: 18
 usc_section: "1992"
 chapter: 97
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "18 U.S.C. § 1992"
-generated_at: "2026-03-30T02:18:24.485Z"
+generated_at: "2026-03-30T02:21:44.522Z"
 ---
 
 # § 1992. Terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air

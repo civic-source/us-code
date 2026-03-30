@@ -3,9 +3,9 @@ title: "Section 10101 - Establishment of Office of Justice Programs"
 usc_title: 34
 usc_section: "10101"
 chapter: 101
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "34 U.S.C. § 10101"
-generated_at: "2026-03-30T02:19:04.997Z"
+generated_at: "2026-03-30T02:22:29.520Z"
 ---
 
 # § 10101. Establishment of Office of Justice Programs

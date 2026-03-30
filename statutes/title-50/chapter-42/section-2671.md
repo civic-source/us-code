@@ -3,9 +3,9 @@ title: "Section 2671 - Review of certain documents before declassification and r
 usc_title: 50
 usc_section: "2671"
 chapter: 42
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "50 U.S.C. § 2671"
-generated_at: "2026-03-30T02:19:57.480Z"
+generated_at: "2026-03-30T02:23:33.191Z"
 ---
 
 # § 2671. Review of certain documents before declassification and release

@@ -3,9 +3,9 @@ title: "Section 1402 - Repealed. Pub. L. 96–39, title II, § 201(b) , July 26,
 usc_title: 19
 usc_section: "1402"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "19 U.S.C. § 1402"
-generated_at: "2026-03-30T02:18:27.842Z"
+generated_at: "2026-03-30T02:21:48.795Z"
 ---
 
 # § 1402. Repealed. Pub. L. 96–39, title II, § 201(b) , July 26, 1979 , 93 Stat. 201

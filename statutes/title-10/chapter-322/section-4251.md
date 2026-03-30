@@ -3,16 +3,16 @@ title: "Section 4251 - Major defense acquisition programs: factors to be conside
 usc_title: 10
 usc_section: "4251"
 chapter: 322
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 4251"
-generated_at: "2026-03-30T02:17:31.670Z"
+generated_at: "2026-03-30T02:21:23.842Z"
 ---
 
 # § 4251. Major defense acquisition programs: factors to be considered before Milestone A approval
 
 - **(a)** Before granting Milestone A approval for a major defense acquisition program or a major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
   - **(1)** information about the program or subprogram is sufficient to warrant entry of the program or subprogram into the risk reduction phase;
-  - **(2)** the cost, schedule, technical feasibility, and performance trade-offs that have been made do not overly constrain future trade space with regard to the program; and
+  - **(2)** the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program do not overly constrain future trade space; and
   - **(3)** there are sound plans for progression of the program or subprogram to the development phase.
 - **(b)** A major defense acquisition program or subprogram may not receive Milestone A approval or otherwise be initiated prior to Milestone B approval until the milestone decision authority confirms that the following factors were considered in the decision to grant Milestone A approval:
   - **(1)** The program or subprogram fulfills an approved requirements document.

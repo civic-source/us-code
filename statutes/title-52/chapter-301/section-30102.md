@@ -3,9 +3,9 @@ title: "Section 30102 - Organization of political committees"
 usc_title: 52
 usc_section: "30102"
 chapter: 301
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "52 U.S.C. § 30102"
-generated_at: "2026-03-30T02:20:00.411Z"
+generated_at: "2026-03-30T02:23:35.071Z"
 ---
 
 # § 30102. Organization of political committees

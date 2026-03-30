@@ -3,9 +3,9 @@ title: "Section 3002 - Function and duties of Commission"
 usc_title: 22
 usc_section: "3002"
 chapter: 45
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 3002"
-generated_at: "2026-03-30T02:18:41.596Z"
+generated_at: "2026-03-30T02:22:14.473Z"
 ---
 
 # § 3002. Function and duties of Commission

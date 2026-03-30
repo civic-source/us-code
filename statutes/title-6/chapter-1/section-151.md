@@ -3,9 +3,9 @@ title: "Section 151 - Transferred"
 usc_title: 6
 usc_section: "151"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "6 U.S.C. § 151"
-generated_at: "2026-03-30T02:17:15.249Z"
+generated_at: "2026-03-30T02:20:46.708Z"
 ---
 
 # §§ 147 to 151. Transferred

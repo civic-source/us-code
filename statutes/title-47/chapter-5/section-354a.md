@@ -3,9 +3,9 @@ title: "Section 354a - Technical requirements of equipment on radiotelephone equ
 usc_title: 47
 usc_section: "354a"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "47 U.S.C. § 354a"
-generated_at: "2026-03-30T02:19:50.610Z"
+generated_at: "2026-03-30T02:23:26.788Z"
 ---
 
 # § 354a. Technical requirements of equipment on radiotelephone equipped ships

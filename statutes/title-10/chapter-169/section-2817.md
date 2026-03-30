@@ -3,9 +3,9 @@ title: "Section 2817 - Authority for certain construction projects in friendly f
 usc_title: 10
 usc_section: "2817"
 chapter: 169
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 2817"
-generated_at: "2026-03-30T02:17:31.650Z"
+generated_at: "2026-03-30T02:21:23.812Z"
 ---
 
 # § 2817. Authority for certain construction projects in friendly foreign countries

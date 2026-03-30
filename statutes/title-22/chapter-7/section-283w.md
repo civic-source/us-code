@@ -3,9 +3,9 @@ title: "Section 283w - Increase in authorized capital stock of Bank and increase
 usc_title: 22
 usc_section: "283w"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "22 U.S.C. § 283w"
-generated_at: "2026-03-30T02:18:41.492Z"
+generated_at: "2026-03-30T02:22:14.391Z"
 ---
 
 # § 283w. Increase in authorized capital stock of Bank and increase in resources of Fund for Special Operations; United States share; authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 4393 - Report to Congress by President"
 usc_title: 42
 usc_section: "4393"
 chapter: 57
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 4393"
-generated_at: "2026-03-30T02:19:47.079Z"
+generated_at: "2026-03-30T02:23:22.997Z"
 ---
 
 # § 4393. Report to Congress by President

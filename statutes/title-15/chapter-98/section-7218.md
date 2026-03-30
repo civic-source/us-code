@@ -3,9 +3,9 @@ title: "Section 7218 - Accounting standards"
 usc_title: 15
 usc_section: "7218"
 chapter: 98
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "15 U.S.C. § 7218"
-generated_at: "2026-03-30T02:18:10.018Z"
+generated_at: "2026-03-30T02:21:36.891Z"
 ---
 
 # § 7218. Accounting standards

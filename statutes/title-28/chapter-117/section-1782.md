@@ -3,9 +3,9 @@ title: "Section 1782 - Assistance to foreign and international tribunals and to 
 usc_title: 28
 usc_section: "1782"
 chapter: 117
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "28 U.S.C. § 1782"
-generated_at: "2026-03-30T02:18:45.825Z"
+generated_at: "2026-03-30T02:22:18.174Z"
 ---
 
 # § 1782. Assistance to foreign and international tribunals and to litigants before such tribunals

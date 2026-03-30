@@ -3,9 +3,9 @@ title: "Section 276 - Report on improving immigration services"
 usc_title: 6
 usc_section: "276"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "6 U.S.C. § 276"
-generated_at: "2026-03-30T02:17:15.257Z"
+generated_at: "2026-03-30T02:20:46.716Z"
 ---
 
 # § 276. Report on improving immigration services

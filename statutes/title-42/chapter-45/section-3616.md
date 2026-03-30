@@ -3,9 +3,9 @@ title: "Section 3616 - Cooperation with State and local agencies administering f
 usc_title: 42
 usc_section: "3616"
 chapter: 45
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 3616"
-generated_at: "2026-03-30T02:19:47.066Z"
+generated_at: "2026-03-30T02:23:22.984Z"
 ---
 
 # § 3616. Cooperation with State and local agencies administering fair housing laws; utilization of services and personnel; reimbursement; written agreements; publication in Federal Register

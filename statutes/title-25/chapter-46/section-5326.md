@@ -3,9 +3,9 @@ title: "Section 5326 - Indian Health Service: availability of funds for Indian s
 usc_title: 25
 usc_section: "5326"
 chapter: 46
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 5326"
-generated_at: "2026-03-30T02:18:36.443Z"
+generated_at: "2026-03-30T02:22:10.019Z"
 ---
 
 # § 5326. Indian Health Service: availability of funds for Indian self-determination or self-governance contract or grant support costs

@@ -3,9 +3,9 @@ title: "Section 2724 - Civil action"
 usc_title: 18
 usc_section: "2724"
 chapter: 123
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "18 U.S.C. § 2724"
-generated_at: "2026-03-30T02:18:24.499Z"
+generated_at: "2026-03-30T02:21:44.536Z"
 ---
 
 # § 2724. Civil action

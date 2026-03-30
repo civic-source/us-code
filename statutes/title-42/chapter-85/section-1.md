@@ -3,9 +3,9 @@ title: "Section 1 - Exemptions for certain territories"
 usc_title: 42
 usc_section: "1"
 chapter: 85
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:19:47.185Z"
+generated_at: "2026-03-30T02:23:23.101Z"
 ---
 
 # § 7625–1. Exemptions for certain territories

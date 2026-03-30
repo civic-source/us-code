@@ -3,9 +3,9 @@ title: "Section 4823 - Consultation with other agencies on commodity classificat
 usc_title: 50
 usc_section: "4823"
 chapter: 58
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "50 U.S.C. § 4823"
-generated_at: "2026-03-30T02:19:57.540Z"
+generated_at: "2026-03-30T02:23:33.250Z"
 ---
 
 # § 4823. Consultation with other agencies on commodity classification

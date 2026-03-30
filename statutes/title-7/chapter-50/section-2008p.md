@@ -3,9 +3,9 @@ title: "Section 2008p - Grants for NOAA weather radio transmitters"
 usc_title: 7
 usc_section: "2008p"
 chapter: 50
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "7 U.S.C. § 2008p"
-generated_at: "2026-03-30T02:18:00.354Z"
+generated_at: "2026-03-30T02:21:01.692Z"
 ---
 
 # § 2008p. Grants for NOAA weather radio transmitters

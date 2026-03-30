@@ -3,9 +3,9 @@ title: "Section 862 - Omitted"
 usc_title: 48
 usc_section: "862"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "48 U.S.C. § 862"
-generated_at: "2026-03-30T02:19:51.961Z"
+generated_at: "2026-03-30T02:23:28.647Z"
 ---
 
 # § 862. Omitted

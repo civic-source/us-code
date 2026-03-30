@@ -3,9 +3,9 @@ title: "Section 155b - Proceeds of labor accounts; deposits limited to funds hel
 usc_title: 25
 usc_section: "155b"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "25 U.S.C. § 155b"
-generated_at: "2026-03-30T02:18:36.372Z"
+generated_at: "2026-03-30T02:22:09.956Z"
 ---
 
 # § 155b. Proceeds of labor accounts; deposits limited to funds held in trust for Indian tribes or individuals

@@ -3,9 +3,9 @@ title: "Section 114 - Scope of exclusive rights in sound recordings"
 usc_title: 17
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "17 U.S.C. § 114"
-generated_at: "2026-03-30T02:18:23.288Z"
+generated_at: "2026-03-30T02:21:41.786Z"
 ---
 
 # § 114. Scope of exclusive rights in sound recordings

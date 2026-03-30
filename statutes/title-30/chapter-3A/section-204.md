@@ -3,9 +3,9 @@ title: "Section 204 - Repealed. Pub. L. 94–377, § 13(a) , Aug. 4, 1976 , 90 S
 usc_title: 30
 usc_section: "204"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "30 U.S.C. § 204"
-generated_at: "2026-03-30T02:18:44.850Z"
+generated_at: "2026-03-30T02:22:17.063Z"
 ---
 
 # § 204. Repealed. Pub. L. 94–377, § 13(a) , Aug. 4, 1976 , 90 Stat. 1090

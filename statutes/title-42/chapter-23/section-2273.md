@@ -3,9 +3,9 @@ title: "Section 2273 - Violation of sections"
 usc_title: 42
 usc_section: "2273"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 2273"
-generated_at: "2026-03-30T02:19:47.034Z"
+generated_at: "2026-03-30T02:23:22.949Z"
 ---
 
 # § 2273. Violation of sections

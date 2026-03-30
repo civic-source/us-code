@@ -3,9 +3,9 @@ title: "Section 7912 - Federal land open to hunting, fishing, and recreational s
 usc_title: 16
 usc_section: "7912"
 chapter: 98
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "16 U.S.C. § 7912"
-generated_at: "2026-03-30T02:18:32.112Z"
+generated_at: "2026-03-30T02:22:05.320Z"
 ---
 
 # § 7912. Federal land open to hunting, fishing, and recreational shooting

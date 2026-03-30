@@ -3,9 +3,9 @@ title: "Section 10102 - Repealed. Pub. L. 103–206, title IV, § 422(c)(1) , De
 usc_title: 46
 usc_section: "10102"
 chapter: 101
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "46 U.S.C. § 10102"
-generated_at: "2026-03-30T02:19:51.531Z"
+generated_at: "2026-03-30T02:23:27.957Z"
 ---
 
 # [§ 10102. Repealed. Pub. L. 103–206, title IV, § 422(c)(1) , Dec. 20, 1993 , 107 Stat. 2439 ]

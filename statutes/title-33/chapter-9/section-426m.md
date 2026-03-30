@@ -3,9 +3,9 @@ title: "Section 426m - Collection and removal of drift and debris from publicly 
 usc_title: 33
 usc_section: "426m"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "33 U.S.C. § 426m"
-generated_at: "2026-03-30T02:19:06.965Z"
+generated_at: "2026-03-30T02:22:30.887Z"
 ---
 
 # § 426m. Collection and removal of drift and debris from publicly maintained commercial boat harbors and adjacent land and water areas

@@ -3,9 +3,9 @@ title: "Section 3785 - Technical data: decision by contracting officer; claims; 
 usc_title: 10
 usc_section: "3785"
 chapter: 275
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 3785"
-generated_at: "2026-03-30T02:17:31.665Z"
+generated_at: "2026-03-30T02:21:23.832Z"
 ---
 
 # § 3785. Technical data: decision by contracting officer; claims; rights and liability upon final disposition

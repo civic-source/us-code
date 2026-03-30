@@ -3,9 +3,9 @@ title: "Section 5562 - Preservation of reports, statements, or documents filed w
 usc_title: 2
 usc_section: "5562"
 chapter: 55
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "2 U.S.C. § 5562"
-generated_at: "2026-03-30T02:16:56.716Z"
+generated_at: "2026-03-30T02:20:43.932Z"
 ---
 
 # § 5562. Preservation of reports, statements, or documents filed with Clerk of House

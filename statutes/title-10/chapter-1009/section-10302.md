@@ -3,9 +3,9 @@ title: "Section 10302 - Army Reserve Forces Policy Committee"
 usc_title: 10
 usc_section: "10302"
 chapter: 1009
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 10302"
-generated_at: "2026-03-30T02:17:31.711Z"
+generated_at: "2026-03-30T02:21:23.891Z"
 ---
 
 # § 10302. Army Reserve Forces Policy Committee

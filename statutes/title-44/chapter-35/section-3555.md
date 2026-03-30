@@ -3,9 +3,9 @@ title: "Section 3555 - Annual independent evaluation"
 usc_title: 44
 usc_section: "3555"
 chapter: 35
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "44 U.S.C. § 3555"
-generated_at: "2026-03-30T02:19:18.758Z"
+generated_at: "2026-03-30T02:23:03.331Z"
 ---
 
 # § 3555. Annual independent evaluation

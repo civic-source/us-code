@@ -3,9 +3,9 @@ title: "Section 501 - Infringement of copyright"
 usc_title: 17
 usc_section: "501"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "17 U.S.C. § 501"
-generated_at: "2026-03-30T02:18:23.294Z"
+generated_at: "2026-03-30T02:21:41.792Z"
 ---
 
 # § 501. Infringement of copyright

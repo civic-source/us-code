@@ -3,9 +3,9 @@ title: "Section 4321 - Assistance in obtaining reemployment or other employment 
 usc_title: 38
 usc_section: "4321"
 chapter: 43
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "38 U.S.C. § 4321"
-generated_at: "2026-03-30T02:19:11.559Z"
+generated_at: "2026-03-30T02:23:01.416Z"
 ---
 
 # § 4321. Assistance in obtaining reemployment or other employment rights or benefits

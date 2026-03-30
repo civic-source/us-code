@@ -3,9 +3,9 @@ title: "Section 1399 - No separate taxable entities for partnerships, corporatio
 usc_title: 26
 usc_section: "1399"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "26 U.S.C. § 1399"
-generated_at: "2026-03-30T02:18:56.472Z"
+generated_at: "2026-03-30T02:22:25.996Z"
 ---
 
 # § 1399. No separate taxable entities for partnerships, corporations, etc.

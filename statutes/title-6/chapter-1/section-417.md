@@ -3,9 +3,9 @@ title: "Section 417 - Rotational cybersecurity research program"
 usc_title: 6
 usc_section: "417"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "6 U.S.C. § 417"
-generated_at: "2026-03-30T02:17:15.265Z"
+generated_at: "2026-03-30T02:20:46.723Z"
 ---
 
 # § 417. Rotational cybersecurity research program

@@ -3,9 +3,9 @@ title: "Section 10109 - Office of Audit, Assessment, and Management"
 usc_title: 34
 usc_section: "10109"
 chapter: 101
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "34 U.S.C. § 10109"
-generated_at: "2026-03-30T02:19:04.997Z"
+generated_at: "2026-03-30T02:22:29.521Z"
 ---
 
 # § 10109. Office of Audit, Assessment, and Management

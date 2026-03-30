@@ -3,9 +3,9 @@ title: "Section 8132 - Adjustment after recovery from a third person"
 usc_title: 5
 usc_section: "8132"
 chapter: 81
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "5 U.S.C. § 8132"
-generated_at: "2026-03-30T02:17:12.675Z"
+generated_at: "2026-03-30T02:20:28.445Z"
 ---
 
 # § 8132. Adjustment after recovery from a third person

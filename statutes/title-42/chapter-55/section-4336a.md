@@ -3,9 +3,9 @@ title: "Section 4336a - Timely and unified Federal reviews"
 usc_title: 42
 usc_section: "4336a"
 chapter: 55
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 4336a"
-generated_at: "2026-03-30T02:19:47.075Z"
+generated_at: "2026-03-30T02:23:22.993Z"
 ---
 
 # § 4336a. Timely and unified Federal reviews

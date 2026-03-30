@@ -3,9 +3,9 @@ title: "Section 254r - Grants to State Offices of Rural Health"
 usc_title: 42
 usc_section: "254r"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "42 U.S.C. § 254r"
-generated_at: "2026-03-30T02:19:46.606Z"
+generated_at: "2026-03-30T02:23:22.552Z"
 ---
 
 # § 254r. Grants to State Offices of Rural Health

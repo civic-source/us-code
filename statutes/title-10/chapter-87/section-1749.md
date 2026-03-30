@@ -3,9 +3,9 @@ title: "Section 1749 - Field training for acquisition and sustainment"
 usc_title: 10
 usc_section: "1749"
 chapter: 87
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "10 U.S.C. § 1749"
-generated_at: "2026-03-30T02:17:31.618Z"
+generated_at: "2026-03-30T02:21:23.777Z"
 ---
 
 # § 1749. Field training for acquisition and sustainment
@@ -27,9 +27,9 @@ generated_at: "2026-03-30T02:17:31.618Z"
 - **(e)** During fiscal year 2025, the Secretary of each military department shall carry out not less than one pilot program—
   - **(1)** under which the military department shall receive support under the training program established under subsection (a) with respect to acquisition and sustainment efforts of high importance or urgency to the military department; and
   - **(2)** which the Under Secretary for Acquisition and Sustainment shall use to develop the training material and procedures for the training program.
-- **(f)** The Under Secretary for Acquisition and Sustainment is authorized to use funds available for the Defense Acquisition University for civilian faculty members, contracts, and associated travel and expenses to carry out the training program established in (a) starting in fiscal year 2025, and for fiscal years 2027 through fiscal year 2031—
-  - **(1)** not less than 25 percent of civilian faculty members authorized under section 1746 of this title shall be detailed on a reimbursable basis to the training program established in (a) for a minimum of half of their time; and
-  - **(2)** not less than 25 percent of all contract or agreement obligations in support of Defense Acquisition University shall be reserved for the training program established in (a), including the training of civilian faculty members to facilitate programs under the training program.
+- **(f)** The Under Secretary for Acquisition and Sustainment is authorized to use funds available for the Defense Acquisition University for civilian faculty members, contracts, and associated travel and expenses to carry out the training program established in (a) 3 3 So in original. Probably should be preceded by “subsection”. starting in fiscal year 2025, and for fiscal years 2027 through fiscal year 2031—
+  - **(1)** not less than 25 percent of civilian faculty members authorized under section 1746 of this title shall be detailed on a reimbursable basis to the training program established in (a) 3 for a minimum of half of their time; and
+  - **(2)** not less than 25 percent of all contract or agreement obligations in support of Defense Acquisition University shall be reserved for the training program established in (a), 3 including the training of civilian faculty members to facilitate programs under the training program.
 - **(g)** Not later than November 1, 2026 , the Under Secretary for Acquisition and Sustainment shall provide a report to the Committees on Armed Services of the Senate and House of Representatives on the training program required under subsection (a), including—
   - **(1)** the number and qualifications of civilian faculty members detailed to the training program under subsection (f)(1), including any training requirements they receive to facilitate programs under the training program;
   - **(2)** an identification of contractor or university support for the training program pursuant to subsection (f)(2);

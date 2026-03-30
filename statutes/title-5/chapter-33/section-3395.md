@@ -3,9 +3,9 @@ title: "Section 3395 - Reassignment and transfer within the Senior Executive Ser
 usc_title: 5
 usc_section: "3395"
 chapter: 33
-current_through: "PL 119-4"
+current_through: "PL 119-18"
 classification: "5 U.S.C. § 3395"
-generated_at: "2026-03-30T02:17:12.649Z"
+generated_at: "2026-03-30T02:20:28.419Z"
 ---
 
 # § 3395. Reassignment and transfer within the Senior Executive Service
