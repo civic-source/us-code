@@ -3,9 +3,9 @@ title: "Section 713 - Personal responsibility education"
 usc_title: 42
 usc_section: "713"
 chapter: 7
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 713"
-generated_at: "2026-03-30T09:20:43.378Z"
+generated_at: "2026-03-30T09:23:02.827Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
       - **(i)** the number of individuals who have attained age 10 but not attained age 20 in the State; to
       - **(ii)** the number of such individuals in all States.
     - **(B)** The number of individuals described in clauses (i) and (ii) of subparagraph (A) in a State shall be determined on the basis of the most recent Bureau of the Census data.
-  - **(3)** Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year or the period described in paragraph (1)(A) shall remain available for expenditure by the State through the end of the second succeeding fiscal year the end of the second fiscal year following such fiscal year or period.
+  - **(3)** Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year or the period described in paragraph (1)(A) shall remain available for expenditure by the State through the end of the second fiscal year following such fiscal year or period.
   - **(4)**
     - **(A)** If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2020 and for the period described in paragraph (1)(A) and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2020 and for the period so described. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year or the period so described that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
     - **(B)**

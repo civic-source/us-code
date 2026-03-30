@@ -3,9 +3,9 @@ title: "Section 2412 - Board of Directors"
 usc_title: 15
 usc_section: "2412"
 chapter: 51
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "15 U.S.C. § 2412"
-generated_at: "2026-03-30T09:19:12.565Z"
+generated_at: "2026-03-30T09:21:54.388Z"
 status: "active"
 ---
 

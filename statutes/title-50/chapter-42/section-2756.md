@@ -3,9 +3,9 @@ title: "Section 2756 - Unfunded priorities of the Administration"
 usc_title: 50
 usc_section: "2756"
 chapter: 42
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "50 U.S.C. § 2756"
-generated_at: "2026-03-30T09:20:48.300Z"
+generated_at: "2026-03-30T09:23:08.154Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** a report on the unfunded priorities of the Administration; or
   - **(2)** if the Administrator determines that there are no unfunded priorities to include in such a report, a certification and explanation by the Administrator, without delegation, of the determination.
 - **(b)**
-  - **(1)** Each report report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
+  - **(1)** Each report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
     - **(A)** A summary description of that priority, including the objectives to be achieved if that priority is funded (whether in whole or in part).
     - **(B)** The additional amount of funds recommended in connection with the objectives under subparagraph (A).
     - **(C)** Account information with respect to that priority.

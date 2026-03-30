@@ -3,9 +3,9 @@ title: "Section 6415 - Programs and allocations of funds by United States missio
 usc_title: 22
 usc_section: "6415"
 chapter: 73
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "22 U.S.C. § 6415"
-generated_at: "2026-03-30T09:19:45.102Z"
+generated_at: "2026-03-30T09:22:23.346Z"
 status: "active"
 ---
 

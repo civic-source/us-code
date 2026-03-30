@@ -3,9 +3,9 @@ title: "Section 123 - Repealed. Pub. L. 85–857, § 14(1) , (2), (7), (9), (14)
 usc_title: 24
 usc_section: "123"
 chapter: 3
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "24 U.S.C. § 123"
-generated_at: "2026-03-30T09:19:40.310Z"
+generated_at: "2026-03-30T09:22:17.385Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4582 - Organizational and administrative provisions"
 usc_title: 19
 usc_section: "4582"
 chapter: 29
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 4582"
-generated_at: "2026-03-30T09:19:27.558Z"
+generated_at: "2026-03-30T09:22:09.054Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
         - **(I)** a list of individuals who are qualified to serve as members of binational panels convened under chapter 10; and
         - **(II)** a list of individuals who are qualified to serve on extraordinary challenge committees convened under chapter 10 and special committees established under article 10.13;
       - **(ii)** if the Trade Representative makes a request under paragraph (4)(C)(i) with respect to a final candidate list during any calendar year, prepare by July 1 of such calendar year a list of those individuals who are qualified to be added to that final candidate list;
-      - **(iii)** exercise oversight of the administration of the United States Section that is authorized to be established under section 3315 of this title ; and
+      - **(iii)** exercise oversight of the administration of the United States Section that is authorized to be established under section 105; 1 1 See References in Text note below. and
       - **(iv)** make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees and special committees under chapter 10.
   - **(3)**
     - **(A)** The Trade Representative shall select individuals from the respective lists prepared by the interagency group under paragraph (2)(B)(i) for placement on—

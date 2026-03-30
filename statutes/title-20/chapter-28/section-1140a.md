@@ -3,9 +3,9 @@ title: "Section 1140a - Purpose"
 usc_title: 20
 usc_section: "1140a"
 chapter: 28
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "20 U.S.C. § 1140a"
-generated_at: "2026-03-30T09:19:35.905Z"
+generated_at: "2026-03-30T09:22:15.436Z"
 status: "active"
 ---
 

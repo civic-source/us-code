@@ -3,9 +3,9 @@ title: "Section 1106 - Required contract terms"
 usc_title: 14
 usc_section: "1106"
 chapter: 11
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "14 U.S.C. § 1106"
-generated_at: "2026-03-30T09:19:17.385Z"
+generated_at: "2026-03-30T09:21:42.648Z"
 status: "active"
 ---
 

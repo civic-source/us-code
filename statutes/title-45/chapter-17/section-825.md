@@ -3,9 +3,9 @@ title: "Section 825 - Repealed. Pub. L. 105–178, title VII, § 7203(a)(1) , (2
 usc_title: 45
 usc_section: "825"
 chapter: 17
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "45 U.S.C. § 825"
-generated_at: "2026-03-30T09:20:22.949Z"
+generated_at: "2026-03-30T09:22:50.607Z"
 status: "repealed"
 ---
 

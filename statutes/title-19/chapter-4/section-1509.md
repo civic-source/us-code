@@ -3,9 +3,9 @@ title: "Section 1509 - Examination of books and witnesses"
 usc_title: 19
 usc_section: "1509"
 chapter: 4
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 1509"
-generated_at: "2026-03-30T09:19:27.500Z"
+generated_at: "2026-03-30T09:22:08.991Z"
 status: "active"
 ---
 
@@ -17,8 +17,8 @@ status: "active"
     - **(B)** if a person of whom demand is made under subparagraph (A) fails to comply with the demand, the person may be subject to penalty under subsection (g);
   - **(2)** summon, upon reasonable notice—
     - **(A)** the person who—
-      - **(i)** imported, or knowingly caused to be imported, merchandise into the customs territory of the United States,
-      - **(ii)** exported merchandise, or knowingly caused merchandise to be exported, to a NAFTA country (as defined in section 3301(4) of this title ) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
+      - **(i)** imported, or knowingly caused to be imported, merchandise into the customs territory of the United States, or a vehicle producer whose good is subject to a claim of preferential tariff treatment under the USMCA (as defined in section 4502 of this title ),
+      - **(ii)** exported merchandise, or knowingly caused merchandise to be exported, to a USMCA country (as defined in section 4502 of this title ) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
       - **(iii)** transported or stored merchandise that was or is carried or held under customs bond, or knowingly caused such transportation or storage, or
       - **(iv)** filed a declaration, entry, or drawback claim with the Customs Service;
     - **(B)** any officer, employee, or agent of any person described in subparagraph (A);

@@ -3,9 +3,9 @@ title: "Section 36 - Mosquito Creek, South Carolina"
 usc_title: 33
 usc_section: "36"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "33 U.S.C. § 36"
-generated_at: "2026-03-30T09:20:00.387Z"
+generated_at: "2026-03-30T09:22:38.062Z"
 status: "active"
 ---
 

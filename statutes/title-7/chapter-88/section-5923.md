@@ -3,9 +3,9 @@ title: "Section 5923 - Repealed. Pub. L. 113–79, title VII, § 7207 , Feb. 7, 
 usc_title: 7
 usc_section: "5923"
 chapter: 88
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "7 U.S.C. § 5923"
-generated_at: "2026-03-30T09:18:39.953Z"
+generated_at: "2026-03-30T09:21:29.922Z"
 status: "repealed"
 ---
 

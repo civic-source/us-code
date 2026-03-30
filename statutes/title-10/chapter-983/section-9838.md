@@ -3,9 +3,9 @@ title: "Section 9838 - Settlement of accounts: affidavit of squadron commander"
 usc_title: 10
 usc_section: "9838"
 chapter: 983
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 9838"
-generated_at: "2026-03-30T09:18:59.335Z"
+generated_at: "2026-03-30T09:21:35.727Z"
 status: "active"
 ---
 

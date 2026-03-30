@@ -3,9 +3,9 @@ title: "Section 412 - Documents filed with Commission as public records; prima f
 usc_title: 47
 usc_section: "412"
 chapter: 5
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "47 U.S.C. § 412"
-generated_at: "2026-03-30T09:20:51.880Z"
+generated_at: "2026-03-30T09:23:06.381Z"
 status: "active"
 ---
 

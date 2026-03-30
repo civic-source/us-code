@@ -3,9 +3,9 @@ title: "Section 2339 - Prohibition on criminal history inquiries by contractors 
 usc_title: 10
 usc_section: "2339"
 chapter: 137
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 2339"
-generated_at: "2026-03-30T09:18:59.284Z"
+generated_at: "2026-03-30T09:21:35.672Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1325 - Repealed. Feb. 16, 1933, ch. 89, § 4 , 47 Stat. 812"
 usc_title: 48
 usc_section: "1325"
 chapter: 6
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "48 U.S.C. § 1325"
-generated_at: "2026-03-30T09:20:46.883Z"
+generated_at: "2026-03-30T09:23:05.949Z"
 status: "repealed"
 ---
 

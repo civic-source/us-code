@@ -3,9 +3,9 @@ title: "Section 42108 - Penalty for operating under suspended tariff or service 
 usc_title: 46
 usc_section: "42108"
 chapter: 421
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "46 U.S.C. § 42108"
-generated_at: "2026-03-30T09:20:52.767Z"
+generated_at: "2026-03-30T09:23:07.110Z"
 status: "active"
 ---
 

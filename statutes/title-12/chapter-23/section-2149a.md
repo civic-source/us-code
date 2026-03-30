@@ -3,9 +3,9 @@ title: "Section 2149a - Repealed. Pub. L. 115–334, title V, § 5411(16) , Dec.
 usc_title: 12
 usc_section: "2149a"
 chapter: 23
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "12 U.S.C. § 2149a"
-generated_at: "2026-03-30T09:19:10.571Z"
+generated_at: "2026-03-30T09:22:00.325Z"
 status: "repealed"
 ---
 

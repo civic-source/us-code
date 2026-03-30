@@ -3,9 +3,9 @@ title: "Section 4534 - Drawback"
 usc_title: 19
 usc_section: "4534"
 chapter: 29
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 4534"
-generated_at: "2026-03-30T09:19:27.558Z"
+generated_at: "2026-03-30T09:22:09.053Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(4)** A good exported to a USMCA country for which a refund of customs duties is granted by reason of—
     - **(A)** the failure of the good to conform to sample or specification, or
     - **(B)** the shipment of the good without the consent of the consignee.
-  - **(5)** A good that qualifies under the rules of origin set out in section 3332 of this title that is—
+  - **(5)** A good that qualifies under the rules of origin set out in section 202 1 that is—
     - **(A)** exported to a USMCA country,
     - **(B)** used as a material in the production of another good that is exported to a USMCA country, or
     - **(C)** substituted for by a good of the same kind and quality that is used as a material in the production of another good that is exported to a USMCA country.

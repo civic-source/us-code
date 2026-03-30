@@ -3,9 +3,9 @@ title: "Section 7472 - Initial classifications"
 usc_title: 42
 usc_section: "7472"
 chapter: 85
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 7472"
-generated_at: "2026-03-30T09:20:43.708Z"
+generated_at: "2026-03-30T09:23:03.163Z"
 status: "active"
 ---
 

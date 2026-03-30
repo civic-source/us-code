@@ -3,9 +3,9 @@ title: "Section 611 - Common varieties of sand, stone, gravel, pumice, pumicite,
 usc_title: 30
 usc_section: "611"
 chapter: 15
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "30 U.S.C. § 611"
-generated_at: "2026-03-30T09:19:48.180Z"
+generated_at: "2026-03-30T09:22:26.086Z"
 status: "active"
 ---
 

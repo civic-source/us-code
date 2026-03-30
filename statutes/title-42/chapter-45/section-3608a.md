@@ -3,9 +3,9 @@ title: "Section 3608a - Collection of certain data"
 usc_title: 42
 usc_section: "3608a"
 chapter: 45
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 3608a"
-generated_at: "2026-03-30T09:20:43.614Z"
+generated_at: "2026-03-30T09:23:03.066Z"
 status: "active"
 ---
 

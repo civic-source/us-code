@@ -3,9 +3,9 @@ title: "Section 58c - Fees for certain customs services"
 usc_title: 19
 usc_section: "58c"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 58c"
-generated_at: "2026-03-30T09:19:27.489Z"
+generated_at: "2026-03-30T09:22:08.980Z"
 status: "active"
 ---
 
@@ -128,9 +128,7 @@ status: "active"
       - **(iv)** Beginning in fiscal year 2021, the Secretary, in consultation with the Postmaster General, may adjust, not more frequently than once each fiscal year, the amount described in clause (i)(I) to an amount commensurate with the costs of services provided in connection with the customs processing of Inbound EMS items, consistent with the obligations of the United States under international agreements.
   - **(10)**
     - **(A)** The fee charged under subsection (a)(9) or (10) with respect to goods of Canadian origin (as determined under section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988) when the United States-Canada Free-Trade Agreement is in force shall be in accordance with article 403 of that Agreement.
-    - **(B)** For goods qualifying under the rules of origin set out in section 3332 of this title , the fee under subsection (a)(9) or (10)—
-      - **(i)** may not be charged with respect to goods that qualify to be marked as goods of Canada pursuant to Annex 311 of the North American Free Trade Agreement, for such time as Canada is a NAFTA country, as defined in section 3301(4) of this title ; and
-      - **(ii)** may not be increased after December 31, 1993 , and may not be charged after June 29, 1999 , with respect to goods that qualify to be marked as goods of Mexico pursuant to such Annex 311, for such time as Mexico is a NAFTA country.
+    - **(B)** No fee may be charged under paragraph (9) or (10) of subsection (a) with respect to goods that qualify as originating goods under section 4531 of this title or qualify for duty-free treatment under Annex 6–A of the USMCA (as defined in section 4502 of this title ). Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
   - **(11)** No fee may be charged under subsection (a)(9) or (10) with respect to products of Israel if an exemption with respect to the fee is implemented under section 112 of the Customs and Trade Act of 1990.
   - **(12)** No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Chile Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
   - **(13)** No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Singapore Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.

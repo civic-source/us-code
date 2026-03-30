@@ -3,9 +3,9 @@ title: "Section 485 - Monthly counterterrorism operations briefings"
 usc_title: 10
 usc_section: "485"
 chapter: 23
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 485"
-generated_at: "2026-03-30T09:18:59.221Z"
+generated_at: "2026-03-30T09:21:35.602Z"
 status: "active"
 ---
 

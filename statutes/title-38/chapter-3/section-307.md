@@ -3,9 +3,9 @@ title: "Section 307 - Under Secretary for Memorial Affairs"
 usc_title: 38
 usc_section: "307"
 chapter: 3
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "38 U.S.C. § 307"
-generated_at: "2026-03-30T09:20:04.805Z"
+generated_at: "2026-03-30T09:22:47.990Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 171 - Declaration of purpose and policy"
 usc_title: 29
 usc_section: "171"
 chapter: 7
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "29 U.S.C. § 171"
-generated_at: "2026-03-30T09:19:49.035Z"
+generated_at: "2026-03-30T09:22:34.673Z"
 status: "active"
 ---
 

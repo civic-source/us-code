@@ -3,9 +3,9 @@ title: "Section 8735 - Sale of land by Secretary of the Interior"
 usc_title: 40
 usc_section: "8735"
 chapter: 87
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "40 U.S.C. § 8735"
-generated_at: "2026-03-30T09:20:03.376Z"
+generated_at: "2026-03-30T09:22:43.527Z"
 status: "active"
 ---
 

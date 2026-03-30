@@ -3,9 +3,9 @@ title: "Section 3606 - Report to Congress"
 usc_title: 33
 usc_section: "3606"
 chapter: 49
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "33 U.S.C. § 3606"
-generated_at: "2026-03-30T09:20:00.460Z"
+generated_at: "2026-03-30T09:22:38.134Z"
 status: "active"
 ---
 

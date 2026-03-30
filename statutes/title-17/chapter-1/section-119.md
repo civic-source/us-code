@@ -3,9 +3,9 @@ title: "Section 119 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "119"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "17 U.S.C. § 119"
-generated_at: "2026-03-30T09:19:28.743Z"
+generated_at: "2026-03-30T09:22:03.831Z"
 status: "active"
 ---
 
@@ -130,7 +130,7 @@ status: "active"
     - **(B)** A temporary waiver of an injunction under subparagraph (A) shall expire after the end of the 120-day period beginning on the date such temporary waiver is issued unless extended for good cause by the court making the temporary waiver.
     - **(C)**
       - **(i)** If the court issuing a temporary waiver under subparagraph (A) determines that the satellite carrier that made the request for such waiver has failed to act reasonably or has failed to make a good faith effort to provide local-into-local service to all DMAs, such failure—
-        - **(I)** is actionable as an act of infringement under section 501 and the court may in its discretion impose the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; and
+        - **(I)** is actionable as an act of infringement under section 501 and the court may in its discretion impose the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; 3 3 See References in Text note below. and
         - **(II)** shall result in the termination of the waiver issued under subparagraph (A).
       - **(ii)** If the court issuing a temporary waiver under subparagraph (A) determines that the satellite carrier that made the request for such waiver has failed to provide local-into-local service to all DMAs, but determines that the carrier acted reasonably and in good faith, the court may in its discretion impose financial penalties that reflect—
         - **(I)** the degree of control the carrier had over the circumstances that resulted in the failure;
@@ -168,14 +168,14 @@ status: "active"
     - **(F)** In any proceeding to make a determination under subparagraph (D), and with respect to a designated market area for which failure to provide service is alleged, the entity recognized as a qualified carrier shall have the burden of proving that the entity provided local-into-local service with a good quality satellite signal to at least 90 percent of the households in such designated market area (based on the most recent census data released by the United States Census Bureau) at the time and place alleged.
   - **(5)**
     - **(A)** If the court recognizing an entity as a qualified carrier finds that such entity has willfully failed to provide local-into-local service to all DMAs, such finding shall result in the loss of recognition of the entity as a qualified carrier and the termination of the waiver provided under paragraph (1), and the court may, in its discretion—
-      - **(i)** treat such failure as an act of infringement under section 501, and subject such infringement to the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; and
+      - **(i)** treat such failure as an act of infringement under section 501, and subject such infringement to the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; 3 and
       - **(ii)** impose a fine of not less than $250,000 and not more than $5,000,000.
     - **(B)** If the court determines that the failure to provide local-into-local service to all DMAs is nonwillful, the court may in its discretion impose financial penalties for noncompliance that reflect—
       - **(i)** the degree of control the entity had over the circumstances that resulted in the failure;
       - **(ii)** the quality of the entity’s efforts to remedy the failure and restore service; and
       - **(iii)** the severity and duration of any service interruption.
-  - **(6)** A court that finds, under subsection (a)(6)(A), that an entity recognized as a qualified carrier has willfully made a secondary transmission of a primary transmission made by a network station and embodying a performance or display of a work to a subscriber who is not eligible to receive the transmission under this section shall reinstate the injunction waived under paragraph (1), and the court may order statutory damages of not more than $2,500,000.
+  - **(6)** A court that finds, under subsection (a)(6)(A), 3 that an entity recognized as a qualified carrier has willfully made a secondary transmission of a primary transmission made by a network station and embodying a performance or display of a work to a subscriber who is not eligible to receive the transmission under this section shall reinstate the injunction waived under paragraph (1), and the court may order statutory damages of not more than $2,500,000.
   - **(7)** For purposes of this subsection:
     - **(A)** An entity provides “local-into-local service to all DMAs” if the entity provides local service in all designated market areas (as such term is defined in section 122(j)(2)(C)) pursuant to the license under section 122, except for designated market areas where the entity is temporarily or permanently unable to provide local service as a result of an act of god 2 or other force majeure event beyond the control of the entity.
     - **(B)** For purposes of subparagraph (A), an entity that makes available local-into-local service with a good quality satellite signal to at least 90 percent of the households in a designated market area based on the most recent census data released by the United States Census Bureau shall be considered to be providing local service to such designated market area.
-    - **(C)** The term “good quality satellite signal” has the meaning given such term under section 342(e)(2) of Communications 3 3 So in original. Probably should be preceded by “the”. Act of 1934.
+    - **(C)** The term “good quality satellite signal” has the meaning given such term under section 342(e)(2) of Communications 4 4 So in original. Probably should be preceded by “the”. Act of 1934.

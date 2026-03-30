@@ -3,9 +3,9 @@ title: "Section 601 - Mississippi River; regulation of reservoirs at headwaters"
 usc_title: 33
 usc_section: "601"
 chapter: 12
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "33 U.S.C. § 601"
-generated_at: "2026-03-30T09:20:00.399Z"
+generated_at: "2026-03-30T09:22:38.075Z"
 status: "active"
 ---
 

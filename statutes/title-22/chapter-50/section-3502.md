@@ -3,9 +3,9 @@ title: "Section 3502 - Purposes and establishment; policy guidelines and objecti
 usc_title: 22
 usc_section: "3502"
 chapter: 50
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "22 U.S.C. § 3502"
-generated_at: "2026-03-30T09:19:45.070Z"
+generated_at: "2026-03-30T09:22:23.315Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9623 - Repealed. Pub. L. 105–261, div. A, title III, § 366(a)
 usc_title: 10
 usc_section: "9623"
 chapter: 969
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 9623"
-generated_at: "2026-03-30T09:18:59.334Z"
+generated_at: "2026-03-30T09:21:35.726Z"
 status: "repealed"
 ---
 

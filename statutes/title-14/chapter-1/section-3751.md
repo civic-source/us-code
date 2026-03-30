@@ -3,9 +3,9 @@ title: "Section 3751 - Failure of selection and removal from an active status"
 usc_title: 14
 usc_section: "3751"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "14 U.S.C. § 3751"
-generated_at: "2026-03-30T09:19:17.391Z"
+generated_at: "2026-03-30T09:21:42.654Z"
 status: "active"
 ---
 

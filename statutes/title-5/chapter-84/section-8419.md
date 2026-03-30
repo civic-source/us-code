@@ -3,9 +3,9 @@ title: "Section 8419 - Survivor reductions; computation"
 usc_title: 5
 usc_section: "8419"
 chapter: 84
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "5 U.S.C. § 8419"
-generated_at: "2026-03-30T09:17:51.807Z"
+generated_at: "2026-03-30T09:21:15.895Z"
 status: "active"
 ---
 

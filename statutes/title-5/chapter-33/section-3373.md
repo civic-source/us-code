@@ -3,9 +3,9 @@ title: "Section 3373 - Assignment of employees to State or local governments"
 usc_title: 5
 usc_section: "3373"
 chapter: 33
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "5 U.S.C. § 3373"
-generated_at: "2026-03-30T09:17:51.773Z"
+generated_at: "2026-03-30T09:21:15.862Z"
 status: "active"
 ---
 

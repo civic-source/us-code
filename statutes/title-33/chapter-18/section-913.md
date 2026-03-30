@@ -3,9 +3,9 @@ title: "Section 913 - Filing of claims"
 usc_title: 33
 usc_section: "913"
 chapter: 18
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "33 U.S.C. § 913"
-generated_at: "2026-03-30T09:20:00.409Z"
+generated_at: "2026-03-30T09:22:38.085Z"
 status: "active"
 ---
 

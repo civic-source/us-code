@@ -3,9 +3,9 @@ title: "Section 3371b - Information sharing with State election officials"
 usc_title: 50
 usc_section: "3371b"
 chapter: 45
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "50 U.S.C. § 3371b"
-generated_at: "2026-03-30T09:20:48.318Z"
+generated_at: "2026-03-30T09:23:08.171Z"
 status: "active"
 ---
 

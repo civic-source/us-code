@@ -3,9 +3,9 @@ title: "Section 4456 - Transferred"
 usc_title: 42
 usc_section: "4456"
 chapter: 58
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 4456"
-generated_at: "2026-03-30T09:20:43.627Z"
+generated_at: "2026-03-30T09:23:03.079Z"
 status: "transferred"
 ---
 

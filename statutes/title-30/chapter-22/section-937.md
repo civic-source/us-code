@@ -3,9 +3,9 @@ title: "Section 937 - Contracts and grants"
 usc_title: 30
 usc_section: "937"
 chapter: 22
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "30 U.S.C. § 937"
-generated_at: "2026-03-30T09:19:48.187Z"
+generated_at: "2026-03-30T09:22:26.093Z"
 status: "active"
 ---
 

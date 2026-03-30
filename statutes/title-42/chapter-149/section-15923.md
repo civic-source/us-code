@@ -3,9 +3,9 @@ title: "Section 15923 - Methodology"
 usc_title: 42
 usc_section: "15923"
 chapter: 149
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 15923"
-generated_at: "2026-03-30T09:20:43.845Z"
+generated_at: "2026-03-30T09:23:03.304Z"
 status: "active"
 ---
 

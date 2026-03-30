@@ -3,9 +3,9 @@ title: "Section 7241 - Repealed. Pub. L. 100–418, title I, § 1941(b)(1) , Aug
 usc_title: 26
 usc_section: "7241"
 chapter: 75
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "26 U.S.C. § 7241"
-generated_at: "2026-03-30T09:19:55.892Z"
+generated_at: "2026-03-30T09:22:33.698Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6682 - False information with respect to withholding"
 usc_title: 26
 usc_section: "6682"
 chapter: 68
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "26 U.S.C. § 6682"
-generated_at: "2026-03-30T09:19:55.887Z"
+generated_at: "2026-03-30T09:22:33.694Z"
 status: "active"
 ---
 

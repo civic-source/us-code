@@ -3,9 +3,9 @@ title: "Section 3203 - Dual service of management official of $2,500,000,000 ins
 usc_title: 12
 usc_section: "3203"
 chapter: 33
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "12 U.S.C. § 3203"
-generated_at: "2026-03-30T09:19:10.587Z"
+generated_at: "2026-03-30T09:22:00.342Z"
 status: "active"
 ---
 

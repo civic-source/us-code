@@ -3,9 +3,9 @@ title: "Section 5319 - Limitations on access to financial records"
 usc_title: 38
 usc_section: "5319"
 chapter: 53
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "38 U.S.C. § 5319"
-generated_at: "2026-03-30T09:20:04.851Z"
+generated_at: "2026-03-30T09:22:48.033Z"
 status: "active"
 ---
 

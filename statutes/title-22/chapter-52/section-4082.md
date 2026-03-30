@@ -3,9 +3,9 @@ title: "Section 4082 - Loan of household effects"
 usc_title: 22
 usc_section: "4082"
 chapter: 52
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "22 U.S.C. § 4082"
-generated_at: "2026-03-30T09:19:45.082Z"
+generated_at: "2026-03-30T09:22:23.327Z"
 status: "active"
 ---
 

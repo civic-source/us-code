@@ -3,9 +3,9 @@ title: "Section 586 - Duties; supervision by Attorney General"
 usc_title: 28
 usc_section: "586"
 chapter: 39
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "28 U.S.C. § 586"
-generated_at: "2026-03-30T09:19:49.976Z"
+generated_at: "2026-03-30T09:22:26.793Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
 - **(b)** If the number of cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 - **(c)** Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
 - **(d)**
-  - **(1)** The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases undersubchapter V of chapter 11 or chapter 12 or 13 of title 11.
+  - **(1)** The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11.
   - **(2)** A trustee whose appointment under subsection (a)(1) or under subsection (b) is terminated or who ceases to be assigned to cases filed under title 11, United States Code, may obtain judicial review of the final agency decision by commencing an action in the district court of the United States for the district for which the panel to which the trustee is appointed under subsection (a)(1), or in the district court of the United States for the district in which the trustee is appointed under subsection (b) resides, after first exhausting all available administrative remedies, which if the trustee so elects, shall also include an administrative hearing on the record. Unless the trustee elects to have an administrative hearing on the record, the trustee shall be deemed to have exhausted all administrative remedies for purposes of this paragraph if the agency fails to make a final agency decision within 90 days after the trustee requests administrative remedies. The Attorney General shall prescribe procedures to implement this paragraph. The decision of the agency shall be affirmed by the district court unless it is unreasonable and without cause based on the administrative record before the agency.
 - **(e)**
   - **(1)** The Attorney General, after consultation with a United States trustee that has appointed an individual under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11, shall fix—

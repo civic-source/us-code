@@ -3,9 +3,9 @@ title: "Section 3315 - Disclosure of defects and protection of informants"
 usc_title: 46
 usc_section: "3315"
 chapter: 33
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "46 U.S.C. § 3315"
-generated_at: "2026-03-30T09:20:52.750Z"
+generated_at: "2026-03-30T09:23:07.095Z"
 status: "active"
 ---
 

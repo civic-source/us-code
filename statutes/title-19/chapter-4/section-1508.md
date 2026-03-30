@@ -3,9 +3,9 @@ title: "Section 1508 - Recordkeeping"
 usc_title: 19
 usc_section: "1508"
 chapter: 4
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 1508"
-generated_at: "2026-03-30T09:19:27.500Z"
+generated_at: "2026-03-30T09:22:08.991Z"
 status: "active"
 ---
 
@@ -20,28 +20,29 @@ status: "active"
     - **(A)** pertain to any such activity, or to the information contained in the records required by this chapter in connection with any such activity; and
     - **(B)** are normally kept in the ordinary course of business.
 - **(b)**
-  - **(1)** As used in this subsection—
-    - **(A)** The term “associated records” means, in regard to an exported good under paragraph (2), records associated with—
-      - **(i)** the purchase of, cost of, value of, and payment for, the good;
-      - **(ii)** the purchase of, cost of, value of, and payment for, all material, including indirect materials, used in the production of the good; and
-      - **(iii)** the production of the good.
-    - **(B)** The term “NAFTA Certificate of Origin” means the certification, established under article 501 of the North American Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
-  - **(2)**
-    - **(A)** Any person who completes and signs a NAFTA Certificate of Origin for a good for which preferential treatment under the North American Free Trade Agreement is claimed shall make, keep, and render for examination and inspection all records relating to the origin of the good (including the Certificate or copies thereof) and the associated records.
-    - **(B)**
-      - **(i)** Any person that claims with respect to an article—
-        - **(I)** a waiver or reduction of duty under the eleventh paragraph of section 1311 of this title , section 1312(b)(1) or (4) of this title, section 1562(2) of this title , or the proviso preceding the last proviso to section 81c(a) of this title ;
-        - **(II)** a credit against a bond under section 1312(d) of this title ; or
-        - **(III)** a refund, waiver, or reduction of duty under section 1313(n)(2) or ( o )(1) of this title;
-      - **(ii)** Within 30 days after making a claim described in clause (i) with respect to an article, the person making the claim must disclose to the Customs Service whether that person has prepared, or has knowledge that another person has prepared, a NAFTA Certificate of Origin for the article. If after such 30-day period the person making the claim either—
-        - **(I)** prepares a NAFTA Certificate of Origin for the article; or
-        - **(II)** learns of the existence of such a Certificate for the article;
-      - **(iii)** If the Customs Service determines that a NAFTA Certificate of Origin has been prepared with respect to an article for which a claim described in clause (i) is made, the Customs Service may make such adjustments regarding the previous customs treatment of the article as may be warranted.
+  - **(1)** In this subsection:
+    - **(A)** The terms “USMCA” and “USMCA country” have the meanings given those terms in section 4502 of this title .
+    - **(B)** The term “USMCA certification of origin” means the certification established under article 5.2.1 of the USMCA that a good qualifies as an originating good under the USMCA.
+  - **(2)** Any person who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury, render for examination and inspection, all records and supporting documents related to the origin of the good (including the certification or copies thereof), including records related to—
+    - **(A)** the purchase, cost, value, and shipping of, and payment for, the good;
+    - **(B)** the purchase, cost, value, and shipping of, and payment for, all materials, including indirect materials, used in the production of the good; and
+    - **(C)** the production of the good in the form in which it was exported or the production of the material in the form in which it was sold.
   - **(3)** Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
-- **(c)** The records required by subsections (a) and (b) shall be kept for such periods of time as the Secretary shall prescribe; except that—
-  - **(1)** no period of time for the retention of the records required under subsection (a) or (b)(3) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
-  - **(2)** the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
-  - **(3)** records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
+  - **(4)**
+    - **(A)** Any importer who claims preferential tariff treatment under the USMCA for a good imported into the United States from a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury of the Secretary of Labor, render for examination and inspection—
+      - **(i)** records and supporting documentation related to the importation;
+      - **(ii)** all records and supporting documents related to the origin of the good (including the certification or copies thereof), if the importer completed the certification; and
+      - **(iii)** records and supporting documents necessary to demonstrate that the good did not, while in transit to the United States, undergo further production or any other operation other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the United States.
+    - **(B)** Any vehicle producer whose good is the subject of a claim for preferential tariff treatment under the USMCA shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury and Secretary of Labor, render for examination and inspection records and supporting documents related to the labor value content and steel and aluminum purchasing requirements for the qualification of its vehicles for preferential treatment.
+  - **(5)**
+    - **(A)** A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least 5 years after the date on which the certification is completed.
+    - **(B)** The records required by paragraph (3) shall be kept for such periods of time as the Secretary shall prescribe, except that—
+      - **(i)** no period of time for the retention of the records may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
+      - **(ii)** records for any drawback claim shall be kept until the third anniversary of the date of liquidation of the claim.
+    - **(C)**
+      - **(i)** An importer covered by paragraph (4)(A) shall keep the records and supporting documents required by such paragraph for a period of at least 5 years after the date of importation of the good.
+      - **(ii)** A vehicle producer covered by paragraph (4)(B) shall keep the records and supporting documents required by paragraph (4)(B) for a period of at least 5 years after the date of filing the certifications required under paragraphs (1) and (2) of section 4532(c) of this title .
+- **(c)**
 - **(d)** For the purposes of this section and section 1509 of this title , a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless—
   - **(1)** the terms and conditions of the importation are controlled by the person placing the order; or
   - **(2)** technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.

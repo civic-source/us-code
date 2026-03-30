@@ -3,9 +3,9 @@ title: "Section 11 - Regulations"
 usc_title: 42
 usc_section: "11"
 chapter: 7
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T09:20:43.511Z"
+generated_at: "2026-03-30T09:23:02.962Z"
 status: "active"
 ---
 

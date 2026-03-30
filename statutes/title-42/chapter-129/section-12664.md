@@ -3,9 +3,9 @@ title: "Section 12664 - Repealed. Pub. L. 111–13, title I, § 1831(a) , Apr. 2
 usc_title: 42
 usc_section: "12664"
 chapter: 129
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 12664"
-generated_at: "2026-03-30T09:20:43.815Z"
+generated_at: "2026-03-30T09:23:03.273Z"
 status: "repealed"
 ---
 

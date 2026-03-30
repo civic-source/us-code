@@ -3,9 +3,9 @@ title: "Section 2380 - Commercial product and commercial service determinations 
 usc_title: 10
 usc_section: "2380"
 chapter: 140
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 2380"
-generated_at: "2026-03-30T09:18:59.288Z"
+generated_at: "2026-03-30T09:21:35.677Z"
 status: "active"
 ---
 

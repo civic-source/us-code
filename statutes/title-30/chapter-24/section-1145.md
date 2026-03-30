@@ -3,9 +3,9 @@ title: "Section 1145 - Community impact assistance functions of Secretary of Ene
 usc_title: 30
 usc_section: "1145"
 chapter: 24
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "30 U.S.C. § 1145"
-generated_at: "2026-03-30T09:19:48.191Z"
+generated_at: "2026-03-30T09:22:26.096Z"
 status: "active"
 ---
 

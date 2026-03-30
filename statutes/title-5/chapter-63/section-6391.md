@@ -3,9 +3,9 @@ title: "Section 6391 - Authority for leave transfer program in disasters and eme
 usc_title: 5
 usc_section: "6391"
 chapter: 63
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "5 U.S.C. § 6391"
-generated_at: "2026-03-30T09:17:51.793Z"
+generated_at: "2026-03-30T09:21:15.881Z"
 status: "active"
 ---
 

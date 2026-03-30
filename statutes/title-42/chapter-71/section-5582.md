@@ -3,9 +3,9 @@ title: "Section 5582 - Definitions"
 usc_title: 42
 usc_section: "5582"
 chapter: 71
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 5582"
-generated_at: "2026-03-30T09:20:43.653Z"
+generated_at: "2026-03-30T09:23:03.106Z"
 status: "active"
 ---
 

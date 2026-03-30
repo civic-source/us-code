@@ -3,9 +3,9 @@ title: "Section 4012 - Summary seizure and forfeiture of prison contraband"
 usc_title: 18
 usc_section: "4012"
 chapter: 301
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "18 U.S.C. § 4012"
-generated_at: "2026-03-30T09:19:23.306Z"
+generated_at: "2026-03-30T09:22:13.761Z"
 status: "active"
 ---
 

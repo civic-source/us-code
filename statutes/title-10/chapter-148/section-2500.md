@@ -3,9 +3,9 @@ title: "Section 2500 - Definitions"
 usc_title: 10
 usc_section: "2500"
 chapter: 148
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 2500"
-generated_at: "2026-03-30T09:18:59.295Z"
+generated_at: "2026-03-30T09:21:35.684Z"
 status: "active"
 ---
 

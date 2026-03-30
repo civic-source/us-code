@@ -3,9 +3,9 @@ title: "Section 11501 - Designation of enterprise zones"
 usc_title: 42
 usc_section: "11501"
 chapter: 120
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 11501"
-generated_at: "2026-03-30T09:20:43.794Z"
+generated_at: "2026-03-30T09:23:03.251Z"
 status: "active"
 ---
 

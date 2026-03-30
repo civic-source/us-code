@@ -3,9 +3,9 @@ title: "Section 2286b - Powers of Board"
 usc_title: 42
 usc_section: "2286b"
 chapter: 23
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 2286b"
-generated_at: "2026-03-30T09:20:43.586Z"
+generated_at: "2026-03-30T09:23:03.039Z"
 status: "active"
 ---
 
@@ -25,13 +25,13 @@ status: "active"
     - **(B)** procure the temporary and intermittent services of experts and consultants to the extent authorized by section 3109(b) of title 5 at rates the Board determines to be reasonable.
   - **(2)** The authority and requirements provided in section 2201(d) of this title with respect to officers and employees of the Commission shall apply with respect to scientific and technical personnel hired under paragraph (1)(A).
   - **(3)**
-    - **(A)** The Board shall have an Executive Director of Operations who shall be appointed under section 2286(c)(6).
+    - **(A)** The Board shall have an Executive Director of Operations who shall be appointed under section 2286(c)(6) of this title .
     - **(B)** The Executive Director of Operations shall report to the Chairman.
     - **(C)** The Executive Director of Operations shall be the senior employee of the Board responsible for—
       - **(i)** general administration and technical matters;
       - **(ii)** ensuring that the members of the Board are fully and currently informed with respect to matters for which the members are responsible; and
-      - **(iii)** the functions delegated by the Chairman pursuant to section 2286(c)(3)(B).
-  - **(4)** Subject to the approval of the Board, the Chairman may organize the staff of the Board as the Chairman considers appropriate to best accomplish the mission of the Board described in section 2286a(a).
+      - **(iii)** the functions delegated by the Chairman pursuant to section 2286(c)(3)(B) of this title .
+  - **(4)** Subject to the approval of the Board, the Chairman may organize the staff of the Board as the Chairman considers appropriate to best accomplish the mission of the Board described in section 2286a(a) of this title .
 - **(c)** The Board may prescribe regulations to carry out the responsibilities of the Board under this subchapter.
 - **(d)** The Board may establish reporting requirements for the Secretary of Energy which shall be binding upon the Secretary. The information which the Board may require the Secretary of Energy to report under this subsection may include any information designated as classified information, or any information designated as safeguards information and protected from disclosure under section 2167 or 2168 of this title.
 - **(e)** The Board may, for the purpose of carrying out its responsibilities under this subchapter, use any facility, contractor, or employee of any other department or agency of the Federal Government with the consent of and under appropriate support arrangements with the head of such department or agency and, in the case of a contractor, with the consent of the contractor.

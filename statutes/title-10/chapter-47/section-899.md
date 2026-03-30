@@ -3,9 +3,9 @@ title: "Section 899 - Art. 99. Misbehavior before the enemy"
 usc_title: 10
 usc_section: "899"
 chapter: 47
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 899"
-generated_at: "2026-03-30T09:18:59.235Z"
+generated_at: "2026-03-30T09:21:35.618Z"
 status: "active"
 ---
 

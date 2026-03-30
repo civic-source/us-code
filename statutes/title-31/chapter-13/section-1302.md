@@ -3,9 +3,9 @@ title: "Section 1302 - Determining amounts appropriated"
 usc_title: 31
 usc_section: "1302"
 chapter: 13
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "31 U.S.C. § 1302"
-generated_at: "2026-03-30T09:19:58.590Z"
+generated_at: "2026-03-30T09:22:39.421Z"
 status: "active"
 ---
 

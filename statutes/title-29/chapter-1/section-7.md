@@ -3,9 +3,9 @@ title: "Section 7 - Repealed. Pub. L. 86–3 , §§ 15, 23, Mar. 18, 1959 , 73 S
 usc_title: 29
 usc_section: "7"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "29 U.S.C. § 7"
-generated_at: "2026-03-30T09:19:49.032Z"
+generated_at: "2026-03-30T09:22:34.670Z"
 status: "repealed"
 ---
 

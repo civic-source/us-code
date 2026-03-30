@@ -3,9 +3,9 @@ title: "Section 8 - Accounts for claims and disbursements"
 usc_title: 25
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "25 U.S.C. § 8"
-generated_at: "2026-03-30T09:19:41.670Z"
+generated_at: "2026-03-30T09:22:19.169Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11134 - Form of reporting"
 usc_title: 42
 usc_section: "11134"
 chapter: 117
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 11134"
-generated_at: "2026-03-30T09:20:43.787Z"
+generated_at: "2026-03-30T09:23:03.244Z"
 status: "active"
 ---
 

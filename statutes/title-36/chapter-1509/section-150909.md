@@ -3,9 +3,9 @@ title: "Section 150909 - Statement required in audit report"
 usc_title: 36
 usc_section: "150909"
 chapter: 1509
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "36 U.S.C. § 150909"
-generated_at: "2026-03-30T09:20:02.719Z"
+generated_at: "2026-03-30T09:22:42.042Z"
 status: "active"
 ---
 

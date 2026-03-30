@@ -3,9 +3,9 @@ title: "Section 295n - Repealed. Pub. L. 105–392, title I, § 101(b)(1) , Nov.
 usc_title: 42
 usc_section: "295n"
 chapter: 6
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 295n"
-generated_at: "2026-03-30T09:20:43.284Z"
+generated_at: "2026-03-30T09:23:02.732Z"
 status: "repealed"
 ---
 

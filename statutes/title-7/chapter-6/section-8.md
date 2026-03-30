@@ -3,9 +3,9 @@ title: "Section 8 - Pesticide registration service fees"
 usc_title: 7
 usc_section: "8"
 chapter: 6
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "7 U.S.C. § 8"
-generated_at: "2026-03-30T09:18:39.840Z"
+generated_at: "2026-03-30T09:21:29.799Z"
 status: "active"
 ---
 
@@ -119,7 +119,7 @@ status: "active"
   - **(2)** Registration service fees may not be assessed for a fiscal year under this section unless the amount of appropriations for salaries, contracts, and expenses for the functions (as in existence in fiscal year 2012) of the Office of Pesticide Programs of the Environmental Protection Agency for the fiscal year (excluding the amount of any fees appropriated for the fiscal year) are equal to or greater than the amount of appropriations for covered functions for fiscal year 2012 (excluding the amount of any fees appropriated for the fiscal year).
   - **(3)** Registration service fees authorized by this section shall be available, in the aggregate, only to defray increases in the costs associated with the review and decisionmaking for the review of pesticide registration applications and associated tolerances (including increases in the number of full-time equivalent positions in the Environmental Protection Agency engaged in those activities) over the costs for fiscal year 2002, excluding costs paid from fees appropriated for the fiscal year.
   - **(4)** If the Administrator does not assess registration service fees under subsection (b) during any portion of a fiscal year as the result of paragraph (2) and is subsequently permitted to assess the fees under subsection (b) during the fiscal year, the Administrator shall assess and collect the fees, without any modification in rate, at any time during the fiscal year, notwithstanding any provisions of subsection (b) relating to the date fees are to be paid.
-- **(e)** To the maximum extent practicable consistent with the degrees of risk presented by pesticides and the type of review appropriate to evaluate risks, the Administrator shall identify and evaluate reforms to the pesticide registration process under this subchapter with the goal of reducing decision review periods in effect on the effective date of the PPesticide Registration Improvement Extension Act of 2018 for pesticide registration actions for covered pesticide registration applications (including reduced risk applications). Such reforms shall include identifying opportunities for streamlining review processes for applications for a new active ingredient or a new use and providing prompt feedback to applicants during such review process.
+- **(e)** To the maximum extent practicable consistent with the degrees of risk presented by pesticides and the type of review appropriate to evaluate risks, the Administrator shall identify and evaluate reforms to the pesticide registration process under this subchapter with the goal of reducing decision review periods in effect on the effective date of the Pesticide Registration Improvement Extension Act of 2018 for pesticide registration actions for covered pesticide registration applications (including reduced risk applications). Such reforms shall include identifying opportunities for streamlining review processes for applications for a new active ingredient or a new use and providing prompt feedback to applicants during such review process.
 - **(f)**
   - **(1)** Not later than 30 days after the effective date of the Pesticide Registration Improvement Extension Act of 2018, the Administrator shall make publicly available a schedule of decision review periods for covered pesticide registration actions or for any other action covered by a table specified in subsection (b)(3) and corresponding registration service fees under this subchapter.
   - **(2)** The schedule shall be the same as the applicable schedule provided under subsection (b)(3).

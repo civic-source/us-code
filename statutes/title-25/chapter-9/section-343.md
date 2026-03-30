@@ -3,9 +3,9 @@ title: "Section 343 - Correction of errors in allotments and patents"
 usc_title: 25
 usc_section: "343"
 chapter: 9
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "25 U.S.C. § 343"
-generated_at: "2026-03-30T09:19:41.677Z"
+generated_at: "2026-03-30T09:22:19.175Z"
 status: "active"
 ---
 

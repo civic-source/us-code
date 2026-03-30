@@ -3,9 +3,9 @@ title: "Section 460aaa - Establishment"
 usc_title: 16
 usc_section: "460aaa"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "16 U.S.C. § 460aaa"
-generated_at: "2026-03-30T09:19:38.114Z"
+generated_at: "2026-03-30T09:22:07.658Z"
 status: "active"
 ---
 

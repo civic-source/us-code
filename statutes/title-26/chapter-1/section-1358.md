@@ -3,9 +3,9 @@ title: "Section 1358 - Allocation of credits, income, and deductions"
 usc_title: 26
 usc_section: "1358"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "26 U.S.C. § 1358"
-generated_at: "2026-03-30T09:19:55.812Z"
+generated_at: "2026-03-30T09:22:33.615Z"
 status: "active"
 ---
 

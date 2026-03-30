@@ -3,9 +3,9 @@ title: "Section 1304 - Marking of imported articles and containers"
 usc_title: 19
 usc_section: "1304"
 chapter: 4
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 1304"
-generated_at: "2026-03-30T09:19:27.491Z"
+generated_at: "2026-03-30T09:22:08.981Z"
 status: "active"
 ---
 
@@ -39,26 +39,12 @@ status: "active"
   - **(2)** articles provided for in heading 5007 of the Harmonized Tariff Schedule of the United States as in effect on January 1, 1997 .
 - **(i)** If at the time of importation any article (or its container, as provided in subsection (b) hereof) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) hereof) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
 - **(j)** No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and every other article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (i) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
-- **(k)**
-  - **(1)** In applying this section to an article that qualifies as a good of a NAFTA country (as defined in section 3301(4) of this title ) under the regulations issued by the Secretary to implement Annex 311 of the North American Free Trade Agreement—
-    - **(A)** the exemption under subsection (a)(3)(H) shall be applied by substituting “reasonably know” for “necessarily know”;
-    - **(B)** the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
-      - **(i)** is an original work of art, or
-      - **(ii)** is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
-    - **(C)** subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or subparagraph (B)(i) or (ii) of this paragraph.
-  - **(2)**
-    - **(A)** For purposes of this paragraph:
-      - **(i)** The term “adverse marking decision” means a determination by the Customs Service which an exporter or producer of merchandise believes to be contrary to Annex 311 of the North American Free Trade Agreement.
-      - **(ii)** A person may not be treated as the exporter or producer of merchandise regarding which an adverse marking decision was made unless such person—
-        - **(I)** if claiming to be the exporter, is located in a NAFTA country and is required to maintain records in that country regarding exportations to NAFTA countries; or
-        - **(II)** if claiming to be the producer, grows, mines, harvests, fishes, traps, hunts, manufactures, processes, or assembles such merchandise in a NAFTA country.
-    - **(B)** If the Customs Service makes an adverse marking decision regarding any merchandise, the Customs Service shall, upon written request by the exporter or producer of the merchandise, provide to the exporter or producer a statement of the basis for the decision. If the exporter or producer believes that the decision is not correct, it may intervene in any protest proceeding initiated by the importer of the merchandise. If the importer does not file a protest with regard to the decision, the exporter or producer may file a petition with the Customs Service setting forth—
-      - **(i)** a description of the merchandise; and
-      - **(ii)** the basis for its claim that the merchandise should be marked as a good of a NAFTA country.
-    - **(C)** If, after receipt and consideration of a petition filed by an exporter or producer under subparagraph (B), the Customs Service determines that the adverse marking decision—
-      - **(i)** is not correct, the Customs Service shall notify the petitioner of the determination and all merchandise entered, or withdrawn from warehouse for consumption, more than 30 days after the date that notice of the determination under this clause is published in the weekly Custom Bulletin shall be marked in conformity with the determination; or
-      - **(ii)** is correct, the Customs Service shall notify the petitioner that the petition is denied.
-    - **(D)** For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petition of an interested party under section 1516 of this title regarding an issue arising under any of the preceding provisions of this section.
+- **(k)** In applying this section to an article that qualifies as a good of a USMCA country (as defined in section 4502 of this title )—
+  - **(1)** the exemption under subsection (a)(3)(H) shall be applied by substituting “reasonably know” for “necessarily know”;
+  - **(2)** the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
+    - **(A)** is an original work of art; or
+    - **(B)** is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
+  - **(3)** subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or paragraph (2)(A) or (B) of this subsection.
 - **(l)** Any person who, with intent to conceal the information given thereby or contained therein, defaces, destroys, removes, alters, covers, obscures, or obliterates any mark required under the provisions of this chapter shall—
   - **(1)** upon conviction for the first violation of this subsection, be fined not more than $100,000, or imprisoned for not more than 1 year, or both; and
   - **(2)** upon conviction for the second or any subsequent violation of this subsection, be fined not more than $250,000, or imprisoned for not more than 1 year, or both.

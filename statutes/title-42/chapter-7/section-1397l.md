@@ -3,9 +3,9 @@ title: "Section 1397l - Establishment and support of elder abuse, neglect, and e
 usc_title: 42
 usc_section: "1397l"
 chapter: 7
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 1397l"
-generated_at: "2026-03-30T09:20:43.510Z"
+generated_at: "2026-03-30T09:23:02.960Z"
 status: "active"
 ---
 

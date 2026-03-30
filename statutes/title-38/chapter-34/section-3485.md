@@ -3,9 +3,9 @@ title: "Section 3485 - Work-study allowance 1 1 See Payment of Work-Study Allowa
 usc_title: 38
 usc_section: "3485"
 chapter: 34
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "38 U.S.C. § 3485"
-generated_at: "2026-03-30T09:20:04.837Z"
+generated_at: "2026-03-30T09:22:48.019Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
 - **(c)** The Secretary shall determine the number of individuals whose services the Department of Veterans Affairs can effectively utilize and the types of services that such individuals may be required to perform, on the basis of a survey, which the Secretary shall conduct annually, of each Department of Veterans Affairs regional office in order to determine the numbers of individuals whose services can effectively be utilized during an enrollment period in each geographical area where Department of Veterans Affairs activities are conducted, and shall determine which individuals shall be offered agreements under this section in accordance with regulations which the Secretary shall prescribe, including as criteria (1) the need of the individual to augment the veteran’s educational assistance or subsistence allowance; (2) the availability to the individual of transportation to the place where the individual’s services are to be performed; (3) the motivation of the individual; and (4) in the case of a disabled veteran pursuing a course of vocational rehabilitation under chapter 31 of this title, the compatibility of the work assignment to the veteran’s physical condition.
 - **(d)** While performing the services authorized by this section, individuals shall be deemed employees of the United States for the purposes of the benefits of chapter 81 of title 5 but not for the purposes of laws administrated by the Office of Personnel Management.
 - **(e)**
-  - **(1)** Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(4) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 1 1 See References in Text note below. of such title).
+  - **(1)** Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(4) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 2 2 See References in Text note below. of such title).
   - **(2)**
     - **(A)** Subject to subparagraph (B) of this paragraph, the provisions of this section (other than those provisions which are determined by the Secretary to be inapplicable to an agreement under this subsection) shall apply to any agreement authorized under paragraph (1) of this subsection.
     - **(B)** For the purposes of this subsection, the Secretary may—

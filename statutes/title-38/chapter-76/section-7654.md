@@ -3,9 +3,9 @@ title: "Section 7654 - Obligated service"
 usc_title: 38
 usc_section: "7654"
 chapter: 76
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "38 U.S.C. § 7654"
-generated_at: "2026-03-30T09:20:04.864Z"
+generated_at: "2026-03-30T09:22:48.044Z"
 status: "active"
 ---
 

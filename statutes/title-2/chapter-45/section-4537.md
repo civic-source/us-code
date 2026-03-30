@@ -3,9 +3,9 @@ title: "Section 4537 - Lump sum payment for accrued annual leave of House employ
 usc_title: 2
 usc_section: "4537"
 chapter: 45
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "2 U.S.C. § 4537"
-generated_at: "2026-03-30T09:18:00.545Z"
+generated_at: "2026-03-30T09:21:17.884Z"
 status: "active"
 ---
 

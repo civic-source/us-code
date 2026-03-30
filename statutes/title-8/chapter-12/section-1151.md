@@ -3,9 +3,9 @@ title: "Section 1151 - Worldwide level of immigration"
 usc_title: 8
 usc_section: "1151"
 chapter: 12
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "8 U.S.C. § 1151"
-generated_at: "2026-03-30T09:18:22.638Z"
+generated_at: "2026-03-30T09:21:25.625Z"
 status: "active"
 ---
 

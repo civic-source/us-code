@@ -3,9 +3,9 @@ title: "Section 2242 - Identification of countries that deny adequate protection
 usc_title: 19
 usc_section: "2242"
 chapter: 12
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 2242"
-generated_at: "2026-03-30T09:19:27.521Z"
+generated_at: "2026-03-30T09:22:09.015Z"
 status: "active"
 ---
 
@@ -51,8 +51,8 @@ status: "active"
   - **(1)** By no later than the date that is 30 days after the date on which the annual report is submitted to Congressional committees under section 2241(b) of this title , the Trade Representative shall identify any act, policy, or practice of Canada which—
     - **(A)** affects cultural industries,
     - **(B)** is adopted or expanded after December 17, 1992 , and
-    - **(C)** is actionable under article 2106 of the North American Free Trade Agreement.
-  - **(2)** For purposes of section 2412(b)(2)(A) of this title , an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2), unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
+    - **(C)** is actionable under article 32.6 of the USMCA (as defined in section 4502 of this title ).
+  - **(2)** For purposes of section 2412(b)(2)(A) of this title , an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2), unless the United States has already taken action pursuant to article 32.6 of the USMCA in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
     - **(A)** consult with and take into account the views of representatives of the relevant domestic industries, appropriate committees established pursuant to section 2155 of this title , and appropriate officers of the Federal Government, and
     - **(B)** take into account the information from such sources as may be available to the Trade Representative and such information as may be submitted to the Trade Representative by interested persons, including information contained in reports submitted under section 2241(b) of this title .
   - **(3)** For purposes of this subsection, the term “cultural industries” means persons engaged in any of the following activities:

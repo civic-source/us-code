@@ -3,9 +3,9 @@ title: "Section 678a - Mining locations in Norbeck Wildlife Preserve; rules and 
 usc_title: 16
 usc_section: "678a"
 chapter: 6
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "16 U.S.C. § 678a"
-generated_at: "2026-03-30T09:19:38.153Z"
+generated_at: "2026-03-30T09:22:07.696Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3919 - Exercise of rights under chapter not to affect certain fu
 usc_title: 50
 usc_section: "3919"
 chapter: 50
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "50 U.S.C. § 3919"
-generated_at: "2026-03-30T09:20:48.326Z"
+generated_at: "2026-03-30T09:23:08.178Z"
 status: "active"
 ---
 

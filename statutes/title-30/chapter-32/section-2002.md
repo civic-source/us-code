@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions"
 usc_title: 30
 usc_section: "2002"
 chapter: 32
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "30 U.S.C. § 2002"
-generated_at: "2026-03-30T09:19:48.205Z"
+generated_at: "2026-03-30T09:22:26.110Z"
 status: "active"
 ---
 

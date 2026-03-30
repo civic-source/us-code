@@ -3,9 +3,9 @@ title: "Section 4322 - Use of restraints on prisoners during the period of pregn
 usc_title: 18
 usc_section: "4322"
 chapter: 317
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "18 U.S.C. § 4322"
-generated_at: "2026-03-30T09:19:23.309Z"
+generated_at: "2026-03-30T09:22:13.764Z"
 status: "active"
 ---
 

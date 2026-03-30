@@ -3,9 +3,9 @@ title: "Section 1677 - Definitions; special rules"
 usc_title: 19
 usc_section: "1677"
 chapter: 4
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 1677"
-generated_at: "2026-03-30T09:19:27.512Z"
+generated_at: "2026-03-30T09:22:09.004Z"
 status: "active"
 ---
 
@@ -253,7 +253,7 @@ For purposes of this subtitle—
         - **(II)** in accordance with terms of the Memorandum of Understanding in effect at the time of importation, or
       - **(ii)** the merchandise has no substantial nonmilitary use.
   - **(21)** The term “United States-Canada Agreement” means the United States-Canada Free-Trade Agreement.
-  - **(22)** The term “NAFTA” means the North American Free Trade Agreement.
+  - **(22)** The term “USMCA” has the meaning given that term in section 4502 of this title .
   - **(23)** The term “entry” includes, in appropriate circumstances as determined by the administering authority, a reconciliation entry created under a reconciliation process, defined in section 1401(s) of this title , that is initiated by an importer. The liability of an importer under an antidumping or countervailing duty proceeding for entries of merchandise subject to the proceeding will attach to the corresponding reconciliation entry or entries. Suspension of liquidation of the reconciliation entry or entries, for the purpose of enforcing this subtitle, is equivalent to the suspension of liquidation of the corresponding individual entries; but the suspension of liquidation of the reconciliation entry or entries for such purpose does not preclude liquidation for any other purpose.
   - **(24)**
     - **(A)**

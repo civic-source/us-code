@@ -3,9 +3,9 @@ title: "Section 5842 - Licensing and related regulatory functions respecting sel
 usc_title: 42
 usc_section: "5842"
 chapter: 73
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 5842"
-generated_at: "2026-03-30T09:20:43.655Z"
+generated_at: "2026-03-30T09:23:03.108Z"
 status: "active"
 ---
 

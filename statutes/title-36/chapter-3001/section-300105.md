@@ -3,9 +3,9 @@ title: "Section 300105 - Powers"
 usc_title: 36
 usc_section: "300105"
 chapter: 3001
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "36 U.S.C. § 300105"
-generated_at: "2026-03-30T09:20:02.728Z"
+generated_at: "2026-03-30T09:22:42.050Z"
 status: "active"
 ---
 

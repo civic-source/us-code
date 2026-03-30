@@ -3,9 +3,9 @@ title: "Section 1752 - Reports"
 usc_title: 30
 usc_section: "1752"
 chapter: 29
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "30 U.S.C. § 1752"
-generated_at: "2026-03-30T09:19:48.203Z"
+generated_at: "2026-03-30T09:22:26.109Z"
 status: "active"
 ---
 

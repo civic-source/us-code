@@ -1,15 +1,13 @@
 ---
-title: "Section 1677l - Antidumping and countervailing duty collections"
+title: "Section 1677l - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78"
 usc_title: 19
 usc_section: "1677l"
 chapter: 4
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 1677l"
-generated_at: "2026-03-30T09:19:27.515Z"
-status: "active"
+generated_at: "2026-03-30T09:22:09.007Z"
+status: "repealed"
 ---
 
-# § 1677l. Antidumping and countervailing duty collections
-
-The Commissioner of U.S. Customs and Border Protection shall before the 60th day of each fiscal year after fiscal year 1994 submit to Congress a report regarding the collection during the preceding fiscal year of duties imposed under the antidumping and countervailing duty laws.
+# § 1677l. Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78
 

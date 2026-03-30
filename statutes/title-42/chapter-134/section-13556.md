@@ -3,9 +3,9 @@ title: "Section 13556 - Disadvantaged business enterprises"
 usc_title: 42
 usc_section: "13556"
 chapter: 134
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 13556"
-generated_at: "2026-03-30T09:20:43.832Z"
+generated_at: "2026-03-30T09:23:03.290Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
 - **(b)** For purposes of this section, the following definitions shall apply:
   - **(1)** The term “small business concern” has the meaning such term has under section 632 of title 15 . However, for purposes of contracts and subcontracts requiring engineering services the applicable size standard shall be that established for military and aerospace equipment and military weapons.
   - **(2)** The term “socially and economically disadvantaged individuals” has the meaning such term has under section 637(d) of title 15 and relevant subcontracting regulations promulgated pursuant thereto.
-  - **(3)** The term “qualified HUBZone small business concern” has the meaning given that term in section 632(p) of title 15 .
+  - **(3)** The term “qualified HUBZone small business concern” has the meaning given that term in section 632(p) 1 1 See References in Text note below. of title 15.

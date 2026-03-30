@@ -3,9 +3,9 @@ title: "Section 1990 - Transfer of lands to Secretary"
 usc_title: 7
 usc_section: "1990"
 chapter: 50
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "7 U.S.C. § 1990"
-generated_at: "2026-03-30T09:18:39.905Z"
+generated_at: "2026-03-30T09:21:29.869Z"
 status: "active"
 ---
 

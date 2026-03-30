@@ -3,9 +3,9 @@ title: "Section 1587 - Examination of hovering vessels"
 usc_title: 19
 usc_section: "1587"
 chapter: 4
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 1587"
-generated_at: "2026-03-30T09:19:27.505Z"
+generated_at: "2026-03-30T09:22:08.996Z"
 status: "active"
 ---
 

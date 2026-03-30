@@ -3,9 +3,9 @@ title: "Section 2703 - Eligible articles"
 usc_title: 19
 usc_section: "2703"
 chapter: 15
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 2703"
-generated_at: "2026-03-30T09:19:27.533Z"
+generated_at: "2026-03-30T09:22:09.028Z"
 status: "active"
 ---
 
@@ -129,7 +129,7 @@ status: "active"
         - **(IV)** any reference to parties shall be deemed to refer to any combination of CBTPA beneficiary countries or to the United States and one or more CBTPA beneficiary countries (or any combination thereof).
     - **(D)** The term “transition period” means, with respect to a CBTPA beneficiary country, the period that begins on October 1, 2000 , and ends on the earlier of—
       - **(i)** September 30, 2020 ; or
-      - **(ii)** the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in section 3317(b)(5) of this title enters into force with respect to the United States and the CBTPA beneficiary country.
+      - **(ii)** the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 ( 19 U.S.C. 3317(b)(5) ) 1 1 See References in Text note below. enters into force with respect to the United States and the CBTPA beneficiary country.
     - **(E)** The term “CBTPA” means the United States-Caribbean Basin Trade Partnership Act.
     - **(F)** The term “FTAA” means the Free Trade Area of the Americas.
     - **(G)** The term “former CBTPA beneficiary country” means a country that ceases to be designated as a CBTPA beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
@@ -168,7 +168,7 @@ status: "active"
   - **(3)** For purposes of subsections 1 1 So in original. section 203 of the Trade Act of 1974 [ 19 U.S.C. 2253(a) , (c)], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
   - **(4)** No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 [ 19 U.S.C. 2253 ] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 [ 19 U.S.C. 2252(b) ], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
   - **(5)**
-    - **(A)** Any action taken under section 203 of the Trade Act of 1974 [ 19 U.S.C. 2253 ] that is in effect when duty-free treatment pursuant to section 2701 2 2 See References in Text note below. of this title is proclaimed shall remain in effect until modified or terminated.
+    - **(A)** Any action taken under section 203 of the Trade Act of 1974 [ 19 U.S.C. 2253 ] that is in effect when duty-free treatment pursuant to section 2701 1 of this title is proclaimed shall remain in effect until modified or terminated.
     - **(B)** If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 of this title , the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 [ 19 U.S.C. 2253 ].
 - **(f)**
   - **(1)** If a petition is filed with the International Trade Commission pursuant to the provisions of section 201 of the Trade Act of 1974 [ 19 U.S.C. 2251 ] regarding a perishable product and alleging injury from imports from beneficiary countries, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted pursuant to paragraph (3) of this subsection with respect to such article.

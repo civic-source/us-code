@@ -3,9 +3,9 @@ title: "Section 105 - Additional deposits into Highway Trust Fund"
 usc_title: 23
 usc_section: "105"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "23 U.S.C. § 105"
-generated_at: "2026-03-30T09:19:40.763Z"
+generated_at: "2026-03-30T09:22:18.451Z"
 status: "active"
 ---
 

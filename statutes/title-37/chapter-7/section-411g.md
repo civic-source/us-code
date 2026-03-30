@@ -3,9 +3,9 @@ title: "Section 411g - Repealed. Pub. L. 112–81, div. A, title VI, § 631(c) ,
 usc_title: 37
 usc_section: "411g"
 chapter: 7
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "37 U.S.C. § 411g"
-generated_at: "2026-03-30T09:20:06.837Z"
+generated_at: "2026-03-30T09:22:48.466Z"
 status: "repealed"
 ---
 

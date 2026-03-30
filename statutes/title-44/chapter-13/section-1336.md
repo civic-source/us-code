@@ -3,9 +3,9 @@ title: "Section 1336 - National Geospatial-Intelligence Agency: special publicat
 usc_title: 44
 usc_section: "1336"
 chapter: 13
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "44 U.S.C. § 1336"
-generated_at: "2026-03-30T09:20:08.625Z"
+generated_at: "2026-03-30T09:22:50.822Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 944 - Container security standards and procedures"
 usc_title: 6
 usc_section: "944"
 chapter: 3
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "6 U.S.C. § 944"
-generated_at: "2026-03-30T09:18:19.081Z"
+generated_at: "2026-03-30T09:21:24.231Z"
 status: "active"
 ---
 

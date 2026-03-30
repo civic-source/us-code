@@ -3,9 +3,9 @@ title: "Section 3941 - State or local taxation or regulation; access to judicial
 usc_title: 42
 usc_section: "3941"
 chapter: 49
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 3941"
-generated_at: "2026-03-30T09:20:43.618Z"
+generated_at: "2026-03-30T09:23:03.068Z"
 status: "active"
 ---
 

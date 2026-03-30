@@ -3,9 +3,9 @@ title: "Section 1680j - Tribal leasing"
 usc_title: 25
 usc_section: "1680j"
 chapter: 18
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "25 U.S.C. § 1680j"
-generated_at: "2026-03-30T09:19:41.697Z"
+generated_at: "2026-03-30T09:22:19.197Z"
 status: "active"
 ---
 

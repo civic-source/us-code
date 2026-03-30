@@ -3,9 +3,9 @@ title: "Section 32 - Repealed. Pub. L. 102–325, title IV, § 406(a) , July 23,
 usc_title: 20
 usc_section: "32"
 chapter: 28
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "20 U.S.C. § 32"
-generated_at: "2026-03-30T09:19:35.872Z"
+generated_at: "2026-03-30T09:22:15.403Z"
 status: "repealed"
 ---
 

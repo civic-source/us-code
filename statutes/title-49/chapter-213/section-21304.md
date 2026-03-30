@@ -3,9 +3,9 @@ title: "Section 21304 - Willfulness requirement for penalties against individual
 usc_title: 49
 usc_section: "21304"
 chapter: 213
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "49 U.S.C. § 21304"
-generated_at: "2026-03-30T09:20:50.878Z"
+generated_at: "2026-03-30T09:23:10.025Z"
 status: "active"
 ---
 

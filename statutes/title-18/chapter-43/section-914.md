@@ -3,9 +3,9 @@ title: "Section 914 - Creditors of the United States"
 usc_title: 18
 usc_section: "914"
 chapter: 43
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "18 U.S.C. § 914"
-generated_at: "2026-03-30T09:19:23.263Z"
+generated_at: "2026-03-30T09:22:13.716Z"
 status: "active"
 ---
 

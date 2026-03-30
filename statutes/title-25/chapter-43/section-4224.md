@@ -3,9 +3,9 @@ title: "Section 4224 - Review of plans"
 usc_title: 25
 usc_section: "4224"
 chapter: 43
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "25 U.S.C. § 4224"
-generated_at: "2026-03-30T09:19:41.729Z"
+generated_at: "2026-03-30T09:22:19.226Z"
 status: "active"
 ---
 

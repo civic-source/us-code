@@ -3,9 +3,9 @@ title: "Section 1361 - Reference services to assist designated agencies to obtai
 usc_title: 15
 usc_section: "1361"
 chapter: 37
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "15 U.S.C. § 1361"
-generated_at: "2026-03-30T09:19:12.534Z"
+generated_at: "2026-03-30T09:21:54.350Z"
 status: "active"
 ---
 

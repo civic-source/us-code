@@ -3,9 +3,9 @@ title: "Section 2620 - Repealed. Pub. L. 93–203, title VII, § 714 , formerly 
 usc_title: 42
 usc_section: "2620"
 chapter: 30
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 2620"
-generated_at: "2026-03-30T09:20:43.592Z"
+generated_at: "2026-03-30T09:23:03.043Z"
 status: "repealed"
 ---
 

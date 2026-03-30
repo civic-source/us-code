@@ -3,9 +3,9 @@ title: "Section 151911 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "151911"
 chapter: 1519
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "36 U.S.C. § 151911"
-generated_at: "2026-03-30T09:20:02.721Z"
+generated_at: "2026-03-30T09:22:42.043Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4909 - Exclusion of information"
 usc_title: 15
 usc_section: "4909"
 chapter: 75
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "15 U.S.C. § 4909"
-generated_at: "2026-03-30T09:19:12.590Z"
+generated_at: "2026-03-30T09:21:54.416Z"
 status: "active"
 ---
 

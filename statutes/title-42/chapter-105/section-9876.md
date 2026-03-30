@@ -3,9 +3,9 @@ title: "Section 9876 - Report"
 usc_title: 42
 usc_section: "9876"
 chapter: 105
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 9876"
-generated_at: "2026-03-30T09:20:43.770Z"
+generated_at: "2026-03-30T09:23:03.228Z"
 status: "active"
 ---
 

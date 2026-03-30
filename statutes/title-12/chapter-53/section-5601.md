@@ -3,9 +3,9 @@ title: "Section 5601 - Remittance transfers"
 usc_title: 12
 usc_section: "5601"
 chapter: 53
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "12 U.S.C. § 5601"
-generated_at: "2026-03-30T09:19:10.634Z"
+generated_at: "2026-03-30T09:22:00.393Z"
 status: "active"
 ---
 

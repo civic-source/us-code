@@ -3,9 +3,9 @@ title: "Section 2 - Comptroller of the Currency; appointment; term"
 usc_title: 12
 usc_section: "2"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T09:19:10.478Z"
+generated_at: "2026-03-30T09:22:00.228Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6693 - Failure to provide reports on certain tax-favored account
 usc_title: 26
 usc_section: "6693"
 chapter: 68
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "26 U.S.C. § 6693"
-generated_at: "2026-03-30T09:19:55.887Z"
+generated_at: "2026-03-30T09:22:33.694Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 366 - Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [t
 usc_title: 20
 usc_section: "366"
 chapter: 16
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "20 U.S.C. § 366"
-generated_at: "2026-03-30T09:19:35.853Z"
+generated_at: "2026-03-30T09:22:15.383Z"
 status: "repealed"
 ---
 

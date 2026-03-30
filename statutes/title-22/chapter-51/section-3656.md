@@ -3,9 +3,9 @@ title: "Section 3656 - Uniform application of standards and rates"
 usc_title: 22
 usc_section: "3656"
 chapter: 51
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "22 U.S.C. § 3656"
-generated_at: "2026-03-30T09:19:45.072Z"
+generated_at: "2026-03-30T09:22:23.317Z"
 status: "active"
 ---
 

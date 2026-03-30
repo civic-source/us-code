@@ -3,9 +3,9 @@ title: "Section 7709 - Scientific Earthquake Studies Advisory Committee"
 usc_title: 42
 usc_section: "7709"
 chapter: 86
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 7709"
-generated_at: "2026-03-30T09:20:43.731Z"
+generated_at: "2026-03-30T09:23:03.186Z"
 status: "active"
 ---
 

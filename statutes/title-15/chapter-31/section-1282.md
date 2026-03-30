@@ -3,9 +3,9 @@ title: "Section 1282 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 15
 usc_section: "1282"
 chapter: 31
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "15 U.S.C. § 1282"
-generated_at: "2026-03-30T09:19:12.532Z"
+generated_at: "2026-03-30T09:21:54.349Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1817a - Disposition of surplus or obsolete personal property"
 usc_title: 2
 usc_section: "1817a"
 chapter: 28
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "2 U.S.C. § 1817a"
-generated_at: "2026-03-30T09:18:00.535Z"
+generated_at: "2026-03-30T09:21:17.874Z"
 status: "active"
 ---
 

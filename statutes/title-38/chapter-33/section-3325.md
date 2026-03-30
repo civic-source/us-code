@@ -3,9 +3,9 @@ title: "Section 3325 - Reporting requirement"
 usc_title: 38
 usc_section: "3325"
 chapter: 33
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "38 U.S.C. § 3325"
-generated_at: "2026-03-30T09:20:04.836Z"
+generated_at: "2026-03-30T09:22:48.018Z"
 status: "active"
 ---
 

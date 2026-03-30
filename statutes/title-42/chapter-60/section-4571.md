@@ -3,9 +3,9 @@ title: "Section 4571 - Transferred"
 usc_title: 42
 usc_section: "4571"
 chapter: 60
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 4571"
-generated_at: "2026-03-30T09:20:43.627Z"
+generated_at: "2026-03-30T09:23:03.080Z"
 status: "transferred"
 ---
 

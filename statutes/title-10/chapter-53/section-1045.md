@@ -3,9 +3,9 @@ title: "Section 1045 - Voluntary withholding of State income tax from retired or
 usc_title: 10
 usc_section: "1045"
 chapter: 53
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 1045"
-generated_at: "2026-03-30T09:18:59.243Z"
+generated_at: "2026-03-30T09:21:35.626Z"
 status: "active"
 ---
 

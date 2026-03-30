@@ -3,9 +3,9 @@ title: "Section 3543 - Special administrative provisions"
 usc_title: 38
 usc_section: "3543"
 chapter: 35
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "38 U.S.C. § 3543"
-generated_at: "2026-03-30T09:20:04.838Z"
+generated_at: "2026-03-30T09:22:48.020Z"
 status: "active"
 ---
 

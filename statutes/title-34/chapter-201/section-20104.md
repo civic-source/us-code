@@ -3,9 +3,9 @@ title: "Section 20104 - Child abuse prevention and treatment grants"
 usc_title: 34
 usc_section: "20104"
 chapter: 201
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "34 U.S.C. § 20104"
-generated_at: "2026-03-30T09:19:59.218Z"
+generated_at: "2026-03-30T09:22:38.781Z"
 status: "active"
 ---
 

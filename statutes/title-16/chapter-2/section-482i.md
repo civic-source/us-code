@@ -3,9 +3,9 @@ title: "Section 482i - Plumas National Forest; offer of lands; additions; mining
 usc_title: 16
 usc_section: "482i"
 chapter: 2
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "16 U.S.C. § 482i"
-generated_at: "2026-03-30T09:19:38.129Z"
+generated_at: "2026-03-30T09:22:07.672Z"
 status: "active"
 ---
 

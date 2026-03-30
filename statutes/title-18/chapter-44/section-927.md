@@ -3,9 +3,9 @@ title: "Section 927 - Effect on State law"
 usc_title: 18
 usc_section: "927"
 chapter: 44
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "18 U.S.C. § 927"
-generated_at: "2026-03-30T09:19:23.266Z"
+generated_at: "2026-03-30T09:22:13.719Z"
 status: "active"
 ---
 

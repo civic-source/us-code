@@ -3,9 +3,9 @@ title: "Section 5128 - Application of laws and treaties"
 usc_title: 25
 usc_section: "5128"
 chapter: 45
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "25 U.S.C. § 5128"
-generated_at: "2026-03-30T09:19:41.732Z"
+generated_at: "2026-03-30T09:22:19.229Z"
 status: "active"
 ---
 

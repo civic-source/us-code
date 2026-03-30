@@ -3,9 +3,9 @@ title: "Section 470aa - Congressional findings and declaration of purpose"
 usc_title: 16
 usc_section: "470aa"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "16 U.S.C. § 470aa"
-generated_at: "2026-03-30T09:19:38.126Z"
+generated_at: "2026-03-30T09:22:07.670Z"
 status: "active"
 ---
 

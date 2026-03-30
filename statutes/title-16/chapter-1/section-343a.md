@@ -3,9 +3,9 @@ title: "Section 343a - Naval radio station, Seawall, Maine, as addition to park"
 usc_title: 16
 usc_section: "343a"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "16 U.S.C. § 343a"
-generated_at: "2026-03-30T09:19:38.056Z"
+generated_at: "2026-03-30T09:22:07.602Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10709 - Presidential coordination"
 usc_title: 42
 usc_section: "10709"
 chapter: 113
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 10709"
-generated_at: "2026-03-30T09:20:43.783Z"
+generated_at: "2026-03-30T09:23:03.241Z"
 status: "active"
 ---
 

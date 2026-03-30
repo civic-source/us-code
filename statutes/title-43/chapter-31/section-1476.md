@@ -3,9 +3,9 @@ title: "Section 1476 - Elimination of oaths for written statements; discretion o
 usc_title: 43
 usc_section: "1476"
 chapter: 31
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "43 U.S.C. § 1476"
-generated_at: "2026-03-30T09:20:09.566Z"
+generated_at: "2026-03-30T09:22:51.383Z"
 status: "active"
 ---
 

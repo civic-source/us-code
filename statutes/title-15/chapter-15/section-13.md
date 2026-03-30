@@ -3,9 +3,9 @@ title: "Section 13 - Policies and procedures for minimum acquisition of stocks b
 usc_title: 15
 usc_section: "13"
 chapter: 15
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "15 U.S.C. § 13"
-generated_at: "2026-03-30T09:19:12.517Z"
+generated_at: "2026-03-30T09:21:54.332Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4531 - Rules of origin"
 usc_title: 19
 usc_section: "4531"
 chapter: 29
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 4531"
-generated_at: "2026-03-30T09:19:27.556Z"
+generated_at: "2026-03-30T09:22:09.052Z"
 status: "active"
 ---
 
@@ -231,4 +231,4 @@ status: "active"
   - **(1)** This section shall—
     - **(A)** take effect on the date on which the USMCA enters into force; and
     - **(B)** apply with respect to a good entered for consumption, or withdrawn from warehouse for consumption, on or after that date.
-  - **(2)** Section 3332 of this title , as in effect on the day before the date on which the USMCA enters into force, shall continue to apply on and after that date with respect to a good entered for consumption, or withdrawn from warehouse for consumption, before that date.
+  - **(2)** Section 202 of the North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3332 ), 1 1 See References in Text note below. as in effect on the day before the date on which the USMCA enters into force, shall continue to apply on and after that date with respect to a good entered for consumption, or withdrawn from warehouse for consumption, before that date.

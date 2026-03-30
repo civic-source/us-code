@@ -3,9 +3,9 @@ title: "Section 200104 - Consultations of Secretary with administrative officers
 usc_title: 54
 usc_section: "200104"
 chapter: 2001
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "54 U.S.C. § 200104"
-generated_at: "2026-03-30T09:20:55.240Z"
+generated_at: "2026-03-30T09:23:11.893Z"
 status: "active"
 ---
 

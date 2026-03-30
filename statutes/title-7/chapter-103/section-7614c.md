@@ -3,9 +3,9 @@ title: "Section 7614c - Budget submission and funding"
 usc_title: 7
 usc_section: "7614c"
 chapter: 103
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "7 U.S.C. § 7614c"
-generated_at: "2026-03-30T09:18:39.981Z"
+generated_at: "2026-03-30T09:21:29.950Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 526a - Authorized strength after December 31, 2022 : general off
 usc_title: 10
 usc_section: "526a"
 chapter: 32
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 526a"
-generated_at: "2026-03-30T09:18:59.223Z"
+generated_at: "2026-03-30T09:21:35.606Z"
 status: "active"
 ---
 

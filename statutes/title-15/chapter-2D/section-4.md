@@ -3,9 +3,9 @@ title: "Section 4 - Reports by investment advisers"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T09:19:12.482Z"
+generated_at: "2026-03-30T09:21:54.294Z"
 status: "active"
 ---
 

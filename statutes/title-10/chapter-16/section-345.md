@@ -3,9 +3,9 @@ title: "Section 345 - Regional Defense Combating Terrorism and Irregular Warfare
 usc_title: 10
 usc_section: "345"
 chapter: 16
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 345"
-generated_at: "2026-03-30T09:18:59.216Z"
+generated_at: "2026-03-30T09:21:35.596Z"
 status: "active"
 ---
 

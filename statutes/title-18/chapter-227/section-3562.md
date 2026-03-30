@@ -3,9 +3,9 @@ title: "Section 3562 - Imposition of a sentence of probation"
 usc_title: 18
 usc_section: "3562"
 chapter: 227
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "18 U.S.C. § 3562"
-generated_at: "2026-03-30T09:19:23.301Z"
+generated_at: "2026-03-30T09:22:13.755Z"
 status: "active"
 ---
 

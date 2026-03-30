@@ -3,9 +3,9 @@ title: "Section 4768 - Advisory committees; appointment; compensation and travel
 usc_title: 42
 usc_section: "4768"
 chapter: 62
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 4768"
-generated_at: "2026-03-30T09:20:43.630Z"
+generated_at: "2026-03-30T09:23:03.082Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 460 - Prohibition of the Terrorism Information and Prevention Sy
 usc_title: 6
 usc_section: "460"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "6 U.S.C. § 460"
-generated_at: "2026-03-30T09:18:19.069Z"
+generated_at: "2026-03-30T09:21:24.217Z"
 status: "active"
 ---
 

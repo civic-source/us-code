@@ -3,9 +3,9 @@ title: "Section 4621 - Repealed. Pub. L. 115–232, div. A, title XVII, § 1766(
 usc_title: 50
 usc_section: "4621"
 chapter: 56
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "50 U.S.C. § 4621"
-generated_at: "2026-03-30T09:20:48.341Z"
+generated_at: "2026-03-30T09:23:08.192Z"
 status: "repealed"
 ---
 

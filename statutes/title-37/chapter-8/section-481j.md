@@ -3,9 +3,9 @@ title: "Section 481j - Travel and transportation allowances: transportation of f
 usc_title: 37
 usc_section: "481j"
 chapter: 8
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "37 U.S.C. § 481j"
-generated_at: "2026-03-30T09:20:06.840Z"
+generated_at: "2026-03-30T09:22:48.469Z"
 status: "active"
 ---
 

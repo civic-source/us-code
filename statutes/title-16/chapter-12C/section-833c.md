@@ -3,9 +3,9 @@ title: "Section 833c - Preference to public bodies and cooperatives"
 usc_title: 16
 usc_section: "833c"
 chapter: 12
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "16 U.S.C. § 833c"
-generated_at: "2026-03-30T09:19:38.175Z"
+generated_at: "2026-03-30T09:22:07.718Z"
 status: "active"
 ---
 

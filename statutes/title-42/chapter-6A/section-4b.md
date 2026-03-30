@@ -3,9 +3,9 @@ title: "Section 4b - Children’s Preparedness Unit"
 usc_title: 42
 usc_section: "4b"
 chapter: 6
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 4b"
-generated_at: "2026-03-30T09:20:43.218Z"
+generated_at: "2026-03-30T09:23:02.664Z"
 status: "active"
 ---
 

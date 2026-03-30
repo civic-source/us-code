@@ -3,9 +3,9 @@ title: "Section 2578b - Definitions"
 usc_title: 19
 usc_section: "2578b"
 chapter: 13
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 2578b"
-generated_at: "2026-03-30T09:19:27.532Z"
+generated_at: "2026-03-30T09:22:09.027Z"
 status: "active"
 ---
 
@@ -20,5 +20,5 @@ status: "active"
     - **(A)** regarding food safety, adopted by the Codex Alimentarius Commission, including a standard, guideline, or recommendation regarding decomposition elaborated by the Codex Committee on Fish and Fishery Products, food additives, contaminants, hygienic practice, and methods of analysis and sampling;
     - **(B)** regarding animal health and zoonoses, developed under the auspices of the International Office of Epizootics;
     - **(C)** regarding plant health, developed under the auspices of the Secretariat of the International Plant Protection Convention in cooperation with the North American Plant Protection Organization; or
-    - **(D)** established by or developed under any other international organization agreed to by the NAFTA countries (as defined in section 3301(4) of this title ) or by the WTO members (as defined in section 3501(10) of this title ).
+    - **(D)** established by or developed under any other international organization agreed to by the NAFTA countries (as defined in section 2(4) 1 1 See References in Text note below. of the North American Free Trade Agreement Implementation Act) or by the WTO members (as defined in section 3501(10) of this title ).
 - **(b)** The definitions set forth in section 2575b of this title apply for purposes of this part except that in applying paragraph (7) of section 2575b of this title with respect to a sanitary or phytosanitary measure of a foreign country, any reference in such paragraph to the United States shall be deemed to be a reference to that foreign country.

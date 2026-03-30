@@ -3,9 +3,9 @@ title: "Section 303 - Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1
 usc_title: 23
 usc_section: "303"
 chapter: 3
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "23 U.S.C. § 303"
-generated_at: "2026-03-30T09:19:40.777Z"
+generated_at: "2026-03-30T09:22:18.465Z"
 status: "repealed"
 ---
 

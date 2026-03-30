@@ -3,9 +3,9 @@ title: "Section 1502 - Treaty cases"
 usc_title: 28
 usc_section: "1502"
 chapter: 91
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "28 U.S.C. § 1502"
-generated_at: "2026-03-30T09:19:49.985Z"
+generated_at: "2026-03-30T09:22:26.801Z"
 status: "active"
 ---
 

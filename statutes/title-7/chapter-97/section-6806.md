@@ -3,9 +3,9 @@ title: "Section 6806 - Referenda"
 usc_title: 7
 usc_section: "6806"
 chapter: 97
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "7 U.S.C. § 6806"
-generated_at: "2026-03-30T09:18:39.964Z"
+generated_at: "2026-03-30T09:21:29.934Z"
 status: "active"
 ---
 

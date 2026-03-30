@@ -3,9 +3,9 @@ title: "Section 684 - Recognition of gain on certain transfers to certain foreig
 usc_title: 26
 usc_section: "684"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "26 U.S.C. § 684"
-generated_at: "2026-03-30T09:19:55.776Z"
+generated_at: "2026-03-30T09:22:33.577Z"
 status: "active"
 ---
 

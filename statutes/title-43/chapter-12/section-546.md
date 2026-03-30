@@ -3,9 +3,9 @@ title: "Section 546 - Jurisdiction of district court for enforcement of this sub
 usc_title: 43
 usc_section: "546"
 chapter: 12
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "43 U.S.C. § 546"
-generated_at: "2026-03-30T09:20:09.549Z"
+generated_at: "2026-03-30T09:22:51.366Z"
 status: "active"
 ---
 

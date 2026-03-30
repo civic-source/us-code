@@ -3,9 +3,9 @@ title: "Section 7504 - Initial processing costs"
 usc_title: 7
 usc_section: "7504"
 chapter: 102
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "7 U.S.C. § 7504"
-generated_at: "2026-03-30T09:18:39.979Z"
+generated_at: "2026-03-30T09:21:29.948Z"
 status: "active"
 ---
 

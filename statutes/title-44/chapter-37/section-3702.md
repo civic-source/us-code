@@ -3,9 +3,9 @@ title: "Section 3702 - Advertisements not to be published without written author
 usc_title: 44
 usc_section: "3702"
 chapter: 37
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "44 U.S.C. § 3702"
-generated_at: "2026-03-30T09:20:08.633Z"
+generated_at: "2026-03-30T09:22:50.830Z"
 status: "active"
 ---
 

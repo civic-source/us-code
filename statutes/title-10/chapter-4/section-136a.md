@@ -3,9 +3,9 @@ title: "Section 136a - Repealed. Pub. L. 111–383, div. A, title IX, § 901(b)(
 usc_title: 10
 usc_section: "136a"
 chapter: 4
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 136a"
-generated_at: "2026-03-30T09:18:59.205Z"
+generated_at: "2026-03-30T09:21:35.581Z"
 status: "repealed"
 ---
 

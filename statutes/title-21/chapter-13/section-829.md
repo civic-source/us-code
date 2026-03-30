@@ -3,9 +3,9 @@ title: "Section 829 - Prescriptions"
 usc_title: 21
 usc_section: "829"
 chapter: 13
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "21 U.S.C. § 829"
-generated_at: "2026-03-30T09:19:42.931Z"
+generated_at: "2026-03-30T09:22:20.157Z"
 status: "active"
 ---
 

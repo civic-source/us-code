@@ -3,9 +3,9 @@ title: "Section 115 - Scope of exclusive rights in nondramatic musical works: Co
 usc_title: 17
 usc_section: "115"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "17 U.S.C. § 115"
-generated_at: "2026-03-30T09:19:28.741Z"
+generated_at: "2026-03-30T09:22:03.828Z"
 status: "active"
 ---
 

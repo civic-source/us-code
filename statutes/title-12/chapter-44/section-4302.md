@@ -3,9 +3,9 @@ title: "Section 4302 - Disclosure of interest rates and terms of accounts"
 usc_title: 12
 usc_section: "4302"
 chapter: 44
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "12 U.S.C. § 4302"
-generated_at: "2026-03-30T09:19:10.598Z"
+generated_at: "2026-03-30T09:22:00.353Z"
 status: "active"
 ---
 

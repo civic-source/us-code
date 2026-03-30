@@ -3,9 +3,9 @@ title: "Section 45 - Production and sale of copies of photographs and records; d
 usc_title: 43
 usc_section: "45"
 chapter: 2
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "43 U.S.C. § 45"
-generated_at: "2026-03-30T09:20:09.534Z"
+generated_at: "2026-03-30T09:22:51.350Z"
 status: "active"
 ---
 

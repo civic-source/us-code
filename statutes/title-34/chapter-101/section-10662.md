@@ -3,9 +3,9 @@ title: "Section 10662 - Funding"
 usc_title: 34
 usc_section: "10662"
 chapter: 101
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "34 U.S.C. § 10662"
-generated_at: "2026-03-30T09:19:59.201Z"
+generated_at: "2026-03-30T09:22:38.764Z"
 status: "active"
 ---
 

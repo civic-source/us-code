@@ -3,9 +3,9 @@ title: "Section 3385 - Effect on other authority"
 usc_title: 5
 usc_section: "3385"
 chapter: 33
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "5 U.S.C. § 3385"
-generated_at: "2026-03-30T09:17:51.774Z"
+generated_at: "2026-03-30T09:21:15.862Z"
 status: "active"
 ---
 

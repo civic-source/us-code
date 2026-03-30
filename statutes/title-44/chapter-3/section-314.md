@@ -3,9 +3,9 @@ title: "Section 314 - Inks, glues, and other supplies furnished to other Governm
 usc_title: 44
 usc_section: "314"
 chapter: 3
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "44 U.S.C. § 314"
-generated_at: "2026-03-30T09:20:08.621Z"
+generated_at: "2026-03-30T09:22:50.819Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 3382 - Procedures concerning conduct of International Trade Commission investigations"
+title: "Section 3382 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78"
 usc_title: 19
 usc_section: "3382"
 chapter: 21
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 3382"
-generated_at: "2026-03-30T09:19:27.540Z"
-status: "active"
+generated_at: "2026-03-30T09:22:09.035Z"
+status: "repealed"
 ---
 
-# § 3382. Procedures concerning conduct of International Trade Commission investigations
-
-The International Trade Commission shall adopt such procedures and rules and regulations as are necessary to bring its procedures into conformity with chapter 8 of the Agreement.
+# §§ 3381, 3382. Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78
 

@@ -3,9 +3,9 @@ title: "Section 505 - Solicitor General"
 usc_title: 28
 usc_section: "505"
 chapter: 31
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "28 U.S.C. § 505"
-generated_at: "2026-03-30T09:19:49.974Z"
+generated_at: "2026-03-30T09:22:26.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9046 - Suspension of certain aviation excise taxes"
 usc_title: 15
 usc_section: "9046"
 chapter: 116
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "15 U.S.C. § 9046"
-generated_at: "2026-03-30T09:19:12.619Z"
+generated_at: "2026-03-30T09:21:54.447Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** no tax shall be imposed on such kerosene under—
     - **(A)** section 4041(c) of title 26 , or
     - **(B)** section 4081 of title 26 (other than at the rate provided in subsection (a)(2)(B) thereof), and
-  - **(2)** section 6427(l) of title 26 shall be applied—
+  - **(2)** section 6427( l ) of title 26 shall be applied—
     - **(A)** by treating such use as a nontaxable use, and
     - **(B)** without regard to paragraph (4)(A)(ii) thereof.
 - **(c)** For purposes of this section, the term “excise tax holiday period” means the period beginning after March 27, 2020 and ending before January 1, 2021 .

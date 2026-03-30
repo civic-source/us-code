@@ -3,9 +3,9 @@ title: "Section 2640 - Charter air transportation of members of the armed forces
 usc_title: 10
 usc_section: "2640"
 chapter: 157
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 2640"
-generated_at: "2026-03-30T09:18:59.300Z"
+generated_at: "2026-03-30T09:21:35.689Z"
 status: "active"
 ---
 

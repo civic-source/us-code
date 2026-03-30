@@ -3,9 +3,9 @@ title: "Section 301 - Rules and regulations"
 usc_title: 43
 usc_section: "301"
 chapter: 7
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "43 U.S.C. § 301"
-generated_at: "2026-03-30T09:20:09.536Z"
+generated_at: "2026-03-30T09:22:51.352Z"
 status: "active"
 ---
 

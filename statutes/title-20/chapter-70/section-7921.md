@@ -3,9 +3,9 @@ title: "Section 7921 - Local governance"
 usc_title: 20
 usc_section: "7921"
 chapter: 70
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "20 U.S.C. § 7921"
-generated_at: "2026-03-30T09:19:35.972Z"
+generated_at: "2026-03-30T09:22:15.503Z"
 status: "active"
 ---
 

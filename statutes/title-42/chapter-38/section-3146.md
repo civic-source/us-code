@@ -3,9 +3,9 @@ title: "Section 3146 - Regulations on relative needs and allocations"
 usc_title: 42
 usc_section: "3146"
 chapter: 38
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 3146"
-generated_at: "2026-03-30T09:20:43.608Z"
+generated_at: "2026-03-30T09:23:03.059Z"
 status: "active"
 ---
 

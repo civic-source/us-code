@@ -3,9 +3,9 @@ title: "Section 124 - Agricultural entry or purchase of lands withdrawn or class
 usc_title: 30
 usc_section: "124"
 chapter: 3
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "30 U.S.C. § 124"
-generated_at: "2026-03-30T09:19:48.173Z"
+generated_at: "2026-03-30T09:22:26.079Z"
 status: "active"
 ---
 

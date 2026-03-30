@@ -3,9 +3,9 @@ title: "Section 24911 - Federal-State partnership for state of good repair"
 usc_title: 49
 usc_section: "24911"
 chapter: 249
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "49 U.S.C. § 24911"
-generated_at: "2026-03-30T09:20:50.884Z"
+generated_at: "2026-03-30T09:23:10.030Z"
 status: "active"
 ---
 

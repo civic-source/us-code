@@ -3,9 +3,9 @@ title: "Section 5112 - Indian corporations; appropriation for organizing"
 usc_title: 25
 usc_section: "5112"
 chapter: 45
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "25 U.S.C. § 5112"
-generated_at: "2026-03-30T09:19:41.731Z"
+generated_at: "2026-03-30T09:22:19.228Z"
 status: "active"
 ---
 

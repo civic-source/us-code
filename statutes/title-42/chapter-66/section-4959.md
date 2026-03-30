@@ -3,9 +3,9 @@ title: "Section 4959 - Repealed. Pub. L. 111–13, title II, § 2104 , Apr. 21, 
 usc_title: 42
 usc_section: "4959"
 chapter: 66
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 4959"
-generated_at: "2026-03-30T09:20:43.633Z"
+generated_at: "2026-03-30T09:23:03.085Z"
 status: "repealed"
 ---
 

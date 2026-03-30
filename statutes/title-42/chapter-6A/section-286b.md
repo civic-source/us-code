@@ -3,9 +3,9 @@ title: "Section 286b - Repealed. Pub. L. 103–43, title XIV, § 1402(b) , June 
 usc_title: 42
 usc_section: "286b"
 chapter: 6
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 286b"
-generated_at: "2026-03-30T09:20:43.260Z"
+generated_at: "2026-03-30T09:23:02.708Z"
 status: "repealed"
 ---
 

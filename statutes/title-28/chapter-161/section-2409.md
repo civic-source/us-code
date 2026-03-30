@@ -3,9 +3,9 @@ title: "Section 2409 - Partition actions involving United States"
 usc_title: 28
 usc_section: "2409"
 chapter: 161
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "28 U.S.C. § 2409"
-generated_at: "2026-03-30T09:19:49.991Z"
+generated_at: "2026-03-30T09:22:26.808Z"
 status: "active"
 ---
 

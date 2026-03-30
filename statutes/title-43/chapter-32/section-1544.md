@@ -3,9 +3,9 @@ title: "Section 1544 - Annual report to Congress"
 usc_title: 43
 usc_section: "1544"
 chapter: 32
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "43 U.S.C. § 1544"
-generated_at: "2026-03-30T09:20:09.567Z"
+generated_at: "2026-03-30T09:22:51.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5137 - Removal of duplicative appraisals"
 usc_title: 25
 usc_section: "5137"
 chapter: 45
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "25 U.S.C. § 5137"
-generated_at: "2026-03-30T09:19:41.732Z"
+generated_at: "2026-03-30T09:22:19.229Z"
 status: "active"
 ---
 

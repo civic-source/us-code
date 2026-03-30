@@ -3,9 +3,9 @@ title: "Section 172 - Definitions"
 usc_title: 2
 usc_section: "172"
 chapter: 5
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "2 U.S.C. § 172"
-generated_at: "2026-03-30T09:18:00.512Z"
+generated_at: "2026-03-30T09:21:17.850Z"
 status: "active"
 ---
 

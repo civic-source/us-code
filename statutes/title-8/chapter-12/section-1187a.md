@@ -3,9 +3,9 @@ title: "Section 1187a - Provision of assistance to non-program countries"
 usc_title: 8
 usc_section: "1187a"
 chapter: 12
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "8 U.S.C. § 1187a"
-generated_at: "2026-03-30T09:18:22.651Z"
+generated_at: "2026-03-30T09:21:25.635Z"
 status: "active"
 ---
 

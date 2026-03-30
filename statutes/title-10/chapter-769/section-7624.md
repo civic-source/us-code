@@ -3,9 +3,9 @@ title: "Section 7624 - Medical supplies: civilian employees of the Army; America
 usc_title: 10
 usc_section: "7624"
 chapter: 769
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 7624"
-generated_at: "2026-03-30T09:18:59.317Z"
+generated_at: "2026-03-30T09:21:35.708Z"
 status: "active"
 ---
 

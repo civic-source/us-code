@@ -3,9 +3,9 @@ title: "Section 2223 - Repealed. Pub. L. 106–503, title I, § 110(a)(1)(B) , N
 usc_title: 15
 usc_section: "2223"
 chapter: 49
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "15 U.S.C. § 2223"
-generated_at: "2026-03-30T09:19:12.562Z"
+generated_at: "2026-03-30T09:21:54.385Z"
 status: "repealed"
 ---
 

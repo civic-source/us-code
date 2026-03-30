@@ -3,9 +3,9 @@ title: "Section 1314a - Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1962 , 7
 usc_title: 48
 usc_section: "1314a"
 chapter: 6
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "48 U.S.C. § 1314a"
-generated_at: "2026-03-30T09:20:46.883Z"
+generated_at: "2026-03-30T09:23:05.949Z"
 status: "repealed"
 ---
 

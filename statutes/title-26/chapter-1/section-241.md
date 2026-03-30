@@ -3,9 +3,9 @@ title: "Section 241 - Allowance of special deductions"
 usc_title: 26
 usc_section: "241"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "26 U.S.C. § 241"
-generated_at: "2026-03-30T09:19:55.723Z"
+generated_at: "2026-03-30T09:22:33.522Z"
 status: "active"
 ---
 

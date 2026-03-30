@@ -3,16 +3,16 @@ title: "Section 105 - Subject matter of copyright: United States Government work
 usc_title: 17
 usc_section: "105"
 chapter: 1
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "17 U.S.C. § 105"
-generated_at: "2026-03-30T09:19:28.739Z"
+generated_at: "2026-03-30T09:22:03.826Z"
 status: "active"
 ---
 
 # § 105. Subject matter of copyright: United States Government works
 
 - **(a)** Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
-- **(b)** Subject to subsection (c), 1 1 So in original. There are two subsecs. designated (c). the covered author of a covered work owns the copyright to that covered work.
+- **(b)** Subject to subsection (c), 2 2 So in original. There are two subsecs. designated (c). the covered author of a covered work owns the copyright to that covered work.
 - **(c)** The Secretary of Defense may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
 - **(c)** In this section:
   - **(1)** The term “covered author” means a civilian member of the faculty of a covered institution.

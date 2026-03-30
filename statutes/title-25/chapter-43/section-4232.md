@@ -3,9 +3,9 @@ title: "Section 4232 - Low-income requirement and income targeting"
 usc_title: 25
 usc_section: "4232"
 chapter: 43
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "25 U.S.C. § 4232"
-generated_at: "2026-03-30T09:19:41.730Z"
+generated_at: "2026-03-30T09:22:19.227Z"
 status: "active"
 ---
 

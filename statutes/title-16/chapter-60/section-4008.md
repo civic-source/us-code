@@ -3,9 +3,9 @@ title: "Section 4008 - Establishment of Fisheries Promotional Fund"
 usc_title: 16
 usc_section: "4008"
 chapter: 60
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "16 U.S.C. § 4008"
-generated_at: "2026-03-30T09:19:38.249Z"
+generated_at: "2026-03-30T09:22:07.793Z"
 status: "active"
 ---
 

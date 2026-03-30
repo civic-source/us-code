@@ -3,9 +3,9 @@ title: "Section 1735h - Repealed. Pub. L. 89–754, title X, § 1013(j) , Nov. 3
 usc_title: 12
 usc_section: "1735h"
 chapter: 13
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "12 U.S.C. § 1735h"
-generated_at: "2026-03-30T09:19:10.534Z"
+generated_at: "2026-03-30T09:22:00.285Z"
 status: "repealed"
 ---
 

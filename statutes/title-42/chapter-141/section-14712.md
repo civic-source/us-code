@@ -3,9 +3,9 @@ title: "Section 14712 - Repealed or Transferred"
 usc_title: 42
 usc_section: "14712"
 chapter: 141
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 14712"
-generated_at: "2026-03-30T09:20:43.835Z"
+generated_at: "2026-03-30T09:23:03.294Z"
 status: "repealed"
 ---
 

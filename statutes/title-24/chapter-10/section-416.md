@@ -3,9 +3,9 @@ title: "Section 416 - Advisory Council"
 usc_title: 24
 usc_section: "416"
 chapter: 10
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "24 U.S.C. § 416"
-generated_at: "2026-03-30T09:19:40.312Z"
+generated_at: "2026-03-30T09:22:17.387Z"
 status: "active"
 ---
 

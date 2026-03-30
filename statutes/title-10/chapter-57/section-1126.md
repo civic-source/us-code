@@ -3,9 +3,9 @@ title: "Section 1126 - Gold star lapel button: eligibility and distribution"
 usc_title: 10
 usc_section: "1126"
 chapter: 57
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 1126"
-generated_at: "2026-03-30T09:18:59.251Z"
+generated_at: "2026-03-30T09:21:35.635Z"
 status: "active"
 ---
 

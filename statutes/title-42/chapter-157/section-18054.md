@@ -3,9 +3,9 @@ title: "Section 18054 - Multi-State plans"
 usc_title: 42
 usc_section: "18054"
 chapter: 157
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 18054"
-generated_at: "2026-03-30T09:20:43.876Z"
+generated_at: "2026-03-30T09:23:03.336Z"
 status: "active"
 ---
 

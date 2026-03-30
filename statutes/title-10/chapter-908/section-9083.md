@@ -3,9 +3,9 @@ title: "Section 9083 - Officer career field for space"
 usc_title: 10
 usc_section: "9083"
 chapter: 908
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "10 U.S.C. § 9083"
-generated_at: "2026-03-30T09:18:59.330Z"
+generated_at: "2026-03-30T09:21:35.722Z"
 status: "active"
 ---
 

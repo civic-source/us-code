@@ -3,9 +3,9 @@ title: "Section 8108 - Biomass research and development"
 usc_title: 7
 usc_section: "8108"
 chapter: 107
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "7 U.S.C. § 8108"
-generated_at: "2026-03-30T09:18:39.992Z"
+generated_at: "2026-03-30T09:21:29.961Z"
 status: "active"
 ---
 

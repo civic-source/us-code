@@ -3,9 +3,9 @@ title: "Section 30502 - Organization"
 usc_title: 36
 usc_section: "30502"
 chapter: 305
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "36 U.S.C. § 30502"
-generated_at: "2026-03-30T09:20:02.713Z"
+generated_at: "2026-03-30T09:22:42.034Z"
 status: "active"
 ---
 

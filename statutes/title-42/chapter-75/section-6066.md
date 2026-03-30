@@ -3,9 +3,9 @@ title: "Section 6066 - Repealed. Pub. L. 106–402, title IV, § 401(a) , Oct. 3
 usc_title: 42
 usc_section: "6066"
 chapter: 75
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 6066"
-generated_at: "2026-03-30T09:20:43.658Z"
+generated_at: "2026-03-30T09:23:03.110Z"
 status: "repealed"
 ---
 

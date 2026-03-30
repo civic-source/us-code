@@ -3,9 +3,9 @@ title: "Section 70501 - Organization"
 usc_title: 36
 usc_section: "70501"
 chapter: 705
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "36 U.S.C. § 70501"
-generated_at: "2026-03-30T09:20:02.715Z"
+generated_at: "2026-03-30T09:22:42.038Z"
 status: "active"
 ---
 

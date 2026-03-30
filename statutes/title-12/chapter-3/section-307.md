@@ -3,9 +3,9 @@ title: "Section 307 - Compensation of directors"
 usc_title: 12
 usc_section: "307"
 chapter: 3
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "12 U.S.C. § 307"
-generated_at: "2026-03-30T09:19:10.487Z"
+generated_at: "2026-03-30T09:22:00.237Z"
 status: "active"
 ---
 

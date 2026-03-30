@@ -3,9 +3,9 @@ title: "Section 3056k - Performance"
 usc_title: 42
 usc_section: "3056k"
 chapter: 35
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 3056k"
-generated_at: "2026-03-30T09:20:43.604Z"
+generated_at: "2026-03-30T09:23:03.056Z"
 status: "active"
 ---
 

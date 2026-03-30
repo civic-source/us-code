@@ -3,9 +3,9 @@ title: "Section 9832 - Definitions"
 usc_title: 26
 usc_section: "9832"
 chapter: 100
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "26 U.S.C. § 9832"
-generated_at: "2026-03-30T09:19:55.914Z"
+generated_at: "2026-03-30T09:22:33.721Z"
 status: "active"
 ---
 

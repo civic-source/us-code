@@ -3,9 +3,9 @@ title: "Section 8233 - Grants"
 usc_title: 38
 usc_section: "8233"
 chapter: 82
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "38 U.S.C. § 8233"
-generated_at: "2026-03-30T09:20:04.868Z"
+generated_at: "2026-03-30T09:22:48.049Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9501 - Definitions"
 usc_title: 20
 usc_section: "9501"
 chapter: 76
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "20 U.S.C. § 9501"
-generated_at: "2026-03-30T09:19:35.976Z"
+generated_at: "2026-03-30T09:22:15.507Z"
 status: "active"
 ---
 

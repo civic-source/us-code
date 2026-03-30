@@ -3,9 +3,9 @@ title: "Section 30303 - Amount and apportionment of recovery"
 usc_title: 46
 usc_section: "30303"
 chapter: 303
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "46 U.S.C. § 30303"
-generated_at: "2026-03-30T09:20:52.764Z"
+generated_at: "2026-03-30T09:23:07.107Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1592 - Penalties for fraud, gross negligence, and negligence"
 usc_title: 19
 usc_section: "1592"
 chapter: 4
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "19 U.S.C. § 1592"
-generated_at: "2026-03-30T09:19:27.505Z"
+generated_at: "2026-03-30T09:22:08.996Z"
 status: "active"
 ---
 
@@ -49,9 +49,7 @@ status: "active"
       - **(i)** an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
       - **(ii)** if such violation did not affect the assessment of duties, 10 percent of the dutiable value; or
     - **(B)** if such violation resulted from negligence or gross negligence, the interest (computed from the date of liquidation at the prevailing rate of interest applied under section 6621 of title 26 ) on the amount of lawful duties, taxes, and fees of which the United States is or may be deprived so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount.
-  - **(5)** An importer shall not be subject to penalties under subsection (a) for making an incorrect claim for preferential tariff treatment under section 3332 of this title if the importer—
-    - **(A)** has reason to believe that the NAFTA Certificate of Origin (as defined in section 1508(b)(1) of this title ) on which the claim was based contains incorrect information; and
-    - **(B)** in accordance with regulations issued by the Secretary, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+  - **(5)** An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 4531 of this title if the importer, in accordance with regulations prescribed by the Secretary of the Treasury, promptly makes a corrected declaration and pays any duties owing with respect to that good.
   - **(6)** An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes a corrected declaration and pays any duties owing.
   - **(7)**
     - **(A)** An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Singapore Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
@@ -72,13 +70,11 @@ status: "active"
   - **(3)** if the monetary penalty is based on gross negligence, the United States shall have the burden of proof to establish all the elements of the alleged violation; and
   - **(4)** if the monetary penalty is based on negligence, the United States shall have the burden of proof to establish the act or omission constituting the violation, and the alleged violator shall have the burden of proof that the act or omission did not occur as a result of negligence.
 - **(f)**
-  - **(1)** Subject to paragraph (3), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a NAFTA Certificate of Origin (as defined in section 1508(b)(1) of this title ) that a good to be exported to a NAFTA country (as defined in section 3301(4) of this title ) qualifies under the rules of origin set out in section 3332 of this title .
-  - **(2)** The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of paragraph (1), except that—
-    - **(A)** subsection (d) does not apply, and
-    - **(B)** subsection (c)(5) applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
-  - **(3)** A person may not be considered to have violated paragraph (1) if—
-    - **(A)** the information was correct at the time it was provided in a NAFTA Certificate of Origin but was later rendered incorrect due to a change in circumstances; and
-    - **(B)** the person voluntarily and promptly provides written notice of the change to all persons to whom the person provided the Certificate of Origin.
+  - **(1)** Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a USMCA certification of origin (as such term is defined in section 1508 of this title ) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 4531 of this title . The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+  - **(2)** No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a USMCA certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.
+  - **(3)** A person shall not be considered to have violated paragraph (1) if—
+    - **(A)** the information was correct at the time it was provided in a USMCA certification of origin but was later rendered incorrect due to a change in circumstances; and
+    - **(B)** the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 - **(g)**
   - **(1)** Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in section 1508(f)(1)(B) of this title 1 1 So in original. Probably should be followed by a closing parenthesis. that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
   - **(2)** No penalty shall be imposed under this subsection if, immediately after an exporter or producer that issued a Chile FTA Certificate of Origin has reason to believe that such certificate contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certificate was issued.

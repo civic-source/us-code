@@ -3,9 +3,9 @@ title: "Section 1469c - Availability of services, facilities, and equipment of a
 usc_title: 48
 usc_section: "1469c"
 chapter: 10
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "48 U.S.C. § 1469c"
-generated_at: "2026-03-30T09:20:46.888Z"
+generated_at: "2026-03-30T09:23:05.952Z"
 status: "active"
 ---
 

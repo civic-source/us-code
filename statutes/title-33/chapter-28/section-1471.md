@@ -3,9 +3,9 @@ title: "Section 1471 - Definitions"
 usc_title: 33
 usc_section: "1471"
 chapter: 28
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "33 U.S.C. § 1471"
-generated_at: "2026-03-30T09:20:00.434Z"
+generated_at: "2026-03-30T09:22:38.109Z"
 status: "active"
 ---
 

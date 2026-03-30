@@ -3,9 +3,9 @@ title: "Section 1138 - Appropriations"
 usc_title: 29
 usc_section: "1138"
 chapter: 18
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "29 U.S.C. § 1138"
-generated_at: "2026-03-30T09:19:49.070Z"
+generated_at: "2026-03-30T09:22:34.711Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8 - Medical benefits"
 usc_title: 42
 usc_section: "8"
 chapter: 84
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T09:20:43.700Z"
+generated_at: "2026-03-30T09:23:03.154Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 53 - Repealed. Pub. L. 92–607 , ch. V, § 506(k)(7), formerly 
 usc_title: 2
 usc_section: "53"
 chapter: 3
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "2 U.S.C. § 53"
-generated_at: "2026-03-30T09:18:00.507Z"
+generated_at: "2026-03-30T09:21:17.845Z"
 status: "repealed"
 ---
 

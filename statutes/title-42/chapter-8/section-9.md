@@ -3,9 +3,9 @@ title: "Section 9 - Termination and evaluation"
 usc_title: 42
 usc_section: "9"
 chapter: 8
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T09:20:43.529Z"
+generated_at: "2026-03-30T09:23:02.981Z"
 status: "active"
 ---
 

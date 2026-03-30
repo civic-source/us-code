@@ -3,9 +3,9 @@ title: "Section 111 - Same; taxation affecting Federal employees; income tax"
 usc_title: 4
 usc_section: "111"
 chapter: 4
-current_through: "PL 116-145"
+current_through: "PL 116-147"
 classification: "4 U.S.C. § 111"
-generated_at: "2026-03-30T09:17:34.575Z"
+generated_at: "2026-03-30T09:21:09.602Z"
 status: "active"
 ---
 
