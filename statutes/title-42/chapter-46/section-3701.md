@@ -3,9 +3,9 @@ title: "Section 3701 - Repealed. Pub. L. 98–473, title II , § 602, Oct. 12, 1
 usc_title: 42
 usc_section: "3701"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3701"
-generated_at: "2026-03-30T06:29:55.943Z"
+generated_at: "2026-03-30T06:31:47.765Z"
 status: "repealed"
 ---
 

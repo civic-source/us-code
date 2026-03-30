@@ -3,9 +3,9 @@ title: "Section 6061 - Signing of returns and other documents"
 usc_title: 26
 usc_section: "6061"
 chapter: 61
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "26 U.S.C. § 6061"
-generated_at: "2026-03-30T06:29:33.335Z"
+generated_at: "2026-03-30T06:31:17.183Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 273 - Compensation"
 usc_title: 2
 usc_section: "273"
 chapter: 9
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "2 U.S.C. § 273"
-generated_at: "2026-03-30T06:28:47.594Z"
+generated_at: "2026-03-30T06:30:18.611Z"
 status: "active"
 ---
 

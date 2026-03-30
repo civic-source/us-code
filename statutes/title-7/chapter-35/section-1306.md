@@ -3,9 +3,9 @@ title: "Section 1306 - Projected yields; determination; base period"
 usc_title: 7
 usc_section: "1306"
 chapter: 35
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "7 U.S.C. § 1306"
-generated_at: "2026-03-30T06:28:54.418Z"
+generated_at: "2026-03-30T06:30:27.368Z"
 status: "active"
 ---
 

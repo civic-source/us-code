@@ -3,9 +3,9 @@ title: "Section 5307 - Wage and labor standards"
 usc_title: 25
 usc_section: "5307"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "25 U.S.C. § 5307"
-generated_at: "2026-03-30T06:29:19.428Z"
+generated_at: "2026-03-30T06:30:55.511Z"
 status: "active"
 ---
 

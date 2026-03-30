@@ -3,9 +3,9 @@ title: "Section 8626 - Payments to States; fiscal year requirements respecting a
 usc_title: 42
 usc_section: "8626"
 chapter: 94
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 8626"
-generated_at: "2026-03-30T06:29:56.098Z"
+generated_at: "2026-03-30T06:31:47.928Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** From its allotment under section 8623 of this title , the Secretary shall make payments to each State in accordance with section 6503(a) of title 31 , for use under this subchapter.
-  - **(2)** Each State shall notify the Secretary, not later than 2 months prior to the close of a fiscal year, of the amount (if any) of its allotment for such year that will not be obligated in such year, and, if such State elects to submit a request described in subsection (b)(2) of this section, such State shall submit such request at the same time. The Secretary shall make no payment under paragraph (1) to a State for a fiscal year unless the State has complied with this paragraph with respect to the prior fiscal year.
+  - **(2)** Each State shall notify the Secretary, not later than 2 months prior to the close of a fiscal year, of the amount (if any) of its allotment for such year that will not be obligated in such year, and, if such State elects to submit a request described in subsection (b)(2), such State shall submit such request at the same time. The Secretary shall make no payment under paragraph (1) to a State for a fiscal year unless the State has complied with this paragraph with respect to the prior fiscal year.
 - **(b)**
   - **(1)** If—
     - **(A)** the Secretary determines that, as of September 1 of any fiscal year, an amount allotted to a State under section 8623 of this title for any fiscal year will not be used by such State during such fiscal year;

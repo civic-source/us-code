@@ -3,13 +3,13 @@ title: "Section 290ll - Fellowships"
 usc_title: 42
 usc_section: "290ll"
 chapter: 6
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 290ll"
-generated_at: "2026-03-30T06:29:55.594Z"
+generated_at: "2026-03-30T06:31:47.216Z"
 status: "active"
 ---
 
-# § 290 ll . Fellowships
+# § 290ll. Fellowships
 
 - **(a)** The Secretary shall maintain a program, to be known as the Minority Fellowship Program, under which the Secretary shall award fellowships, which may include stipends, for the purposes of—
   - **(1)** increasing the knowledge of mental and substance use disorders practitioners on issues related to prevention, treatment, and recovery support for individuals who are from racial and ethnic minority populations and who have a mental or substance use disorder;

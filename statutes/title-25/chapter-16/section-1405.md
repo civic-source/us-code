@@ -3,9 +3,9 @@ title: "Section 1405 - Effective date of plan; joint resolution of disapproval"
 usc_title: 25
 usc_section: "1405"
 chapter: 16
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "25 U.S.C. § 1405"
-generated_at: "2026-03-30T06:29:19.384Z"
+generated_at: "2026-03-30T06:30:55.449Z"
 status: "active"
 ---
 

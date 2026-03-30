@@ -1,18 +1,13 @@
 ---
-title: "Section 10505 - Confidentiality of information"
+title: "Section 10505 - Transferred"
 usc_title: 42
 usc_section: "10505"
 chapter: 111
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 10505"
-generated_at: "2026-03-30T06:29:56.139Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.975Z"
+status: "transferred"
 ---
 
-# § 10505. Confidentiality of information
+# § 10505. Transferred
 
-Section 3789g of this title shall apply with respect to—
-
-  - **(1)** information furnished under this chapter,
-  - **(2)** criminal history information collected, stored, or disseminated with the support of Federal law enforcement assistance provided under this chapter, and
-  - **(3)** criminal intelligence systems operating with the support of Federal law enforcement assistance provided under this chapter,

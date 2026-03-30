@@ -3,9 +3,9 @@ title: "Section 20921 - Establishment"
 usc_title: 52
 usc_section: "20921"
 chapter: 209
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "52 U.S.C. § 20921"
-generated_at: "2026-03-30T06:30:05.729Z"
+generated_at: "2026-03-30T06:31:56.836Z"
 status: "active"
 ---
 

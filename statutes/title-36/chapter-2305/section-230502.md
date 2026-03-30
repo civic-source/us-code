@@ -3,9 +3,9 @@ title: "Section 230502 - Organization"
 usc_title: 36
 usc_section: "230502"
 chapter: 2305
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "36 U.S.C. § 230502"
-generated_at: "2026-03-30T06:29:39.137Z"
+generated_at: "2026-03-30T06:31:29.630Z"
 status: "active"
 ---
 

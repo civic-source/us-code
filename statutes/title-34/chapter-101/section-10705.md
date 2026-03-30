@@ -3,9 +3,10 @@ title: "Section 10705 - Definitions"
 usc_title: 34
 usc_section: "10705"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 10705"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-03-30T06:31:20.887Z"
+status: "active"
 ---
 
 # § 10705. Definitions
@@ -24,4 +25,4 @@ In this subchapter:
     - **(D)** law enforcement agency; or
     - **(E)** other agency that performs the administration of criminal justice, including prosecution, pretrial services, and community supervision.
   - **(7)** The term “tribal organization” has the meaning given that term in section 5304 of title 25 .
-  - **(8)** The term “State substance abuse agency” has the meaning given that term in section 290bb–1(r)(6) 1 1 See References in Text note below. of title 42.
+  - **(8)** The term “State substance abuse agency” has the meaning given that term in section 290bb–1(r)(6) of title 42 .

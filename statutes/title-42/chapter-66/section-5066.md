@@ -3,9 +3,9 @@ title: "Section 5066 - Provisions under the National and Community Service Act o
 usc_title: 42
 usc_section: "5066"
 chapter: 66
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5066"
-generated_at: "2026-03-30T06:29:55.979Z"
+generated_at: "2026-03-30T06:31:47.792Z"
 status: "active"
 ---
 

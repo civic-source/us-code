@@ -3,9 +3,9 @@ title: "Section 16454 - Exemption authority"
 usc_title: 42
 usc_section: "16454"
 chapter: 149
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 16454"
-generated_at: "2026-03-30T06:29:56.237Z"
+generated_at: "2026-03-30T06:31:48.063Z"
 status: "active"
 ---
 

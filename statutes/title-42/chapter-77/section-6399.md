@@ -3,9 +3,9 @@ title: "Section 6399 - Intrastate natural gas"
 usc_title: 42
 usc_section: "6399"
 chapter: 77
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 6399"
-generated_at: "2026-03-30T06:29:56.024Z"
+generated_at: "2026-03-30T06:31:47.840Z"
 status: "active"
 ---
 

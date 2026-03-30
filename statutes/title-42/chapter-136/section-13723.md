@@ -1,16 +1,13 @@
 ---
-title: "Section 13723 - Congressional approval of any expansion at Lorton and congressional hearings on future needs"
+title: "Section 13723 - Omitted"
 usc_title: 42
 usc_section: "13723"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13723"
-generated_at: "2026-03-30T06:29:56.195Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.035Z"
+status: "omitted"
 ---
 
-# § 13723. Congressional approval of any expansion at Lorton and congressional hearings on future needs
+# § 13723. Omitted
 
-- **(a)** Notwithstanding any other provision of law, the existing prison facilities and complex at the District of Columbia Corrections Facility at Lorton, Virginia, shall not be expanded unless such expansion has been approved by the Congress under the authority provided to Congress in section 446 of the District of Columbia Home Rule Act.
-- **(b)** The Senate directs the Subcommittee on the District of Columbia of the Committee on Appropriations of the Senate to conduct hearings regarding expansion of the prison complex in Lorton, Virginia, prior to any approval granted pursuant to subsection (a). The subcommittee shall permit interested parties, including appropriate officials from the County of Fairfax, Virginia, to testify at such hearings.
-- **(c)** For purposes of this section, the terms “expanded” and “expansion” mean any alteration of the physical structure of the prison complex that is made to increase the number of inmates incarcerated at the prison.

@@ -1,13 +1,34 @@
 ---
-title: "Section 3699 - Repealed. Pub. L. 108–183, title III , § 306(e), Dec. 16, 2003 , 117 Stat. 2661 ]"
+title: "Section 3699 - Effects of closure or disapproval of educational institution"
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-30T06:29:41.064Z"
-status: "repealed"
+generated_at: "2026-03-30T06:31:31.163Z"
+status: "active"
 ---
 
-# [§ 3699. Repealed. Pub. L. 108–183, title III , § 306(e), Dec. 16, 2003 , 117 Stat. 2661 ]
+# § 3699. Effects of closure or disapproval of educational institution
 
+- **(a)** Any payment of educational assistance described in subsection (b) shall not—
+  - **(1)** be charged against any entitlement to educational assistance of the individual concerned; or
+  - **(2)** be counted against the aggregate period for which section 3695 of this title limits the receipt of educational assistance by such individual.
+- **(b)** Subject to subsection (c), the payment of educational assistance described in this paragraph 1 1 So in original. Probably should be “subsection”. is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
+  - **(1)** was unable to complete such course or program as a result of—
+    - **(A)** the closure of the educational institution; or
+    - **(B)** the disapproval of the course or a course that is a necessary part of that program under this chapter by reason of—
+      - **(i)** a provision of law enacted after the date on which the individual enrolls at such institution affecting the approval or disapproval of courses under this chapter; or
+      - **(ii)** after the date on which the individual enrolls at such institution, the Secretary prescribing or modifying regulations or policies of the Department affecting such approval or disapproval; and
+  - **(2)** did not receive credit or lost training time, toward completion of the program of education being so pursued.
+- **(c)** The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—
+  - **(1)** the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
+  - **(2)** the period by which a monthly stipend is extended under section 3680(a)(2)(B) of this title .
+- **(d)**
+  - **(1)** The Secretary may treat a course of education that is disapproved under this chapter as being approved under this chapter with respect to an individual described in paragraph (2) if the Secretary determines, on a case-by-case basis, that—
+    - **(A)** such disapproval is the result of an action described in clause (i) or (ii) of subsection (b)(1)(B); and
+    - **(B)** continuing pursuing such course is in the best interest of the individual.
+  - **(2)** An individual described in this paragraph is an individual who is pursuing a course of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as of the date on which the course is disapproved under this chapter.
+- **(e)** Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed, the Secretary shall provide to each individual who is enrolled in a course or program or education at such educational institution using entitlement to educational assistance under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, notice of—
+  - **(1)** such closure and the date of such closure; and
+  - **(2)** the effect of such closure on the individual’s entitlement to educational assistance pursuant to this section.

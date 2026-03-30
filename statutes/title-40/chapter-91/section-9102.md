@@ -3,9 +3,9 @@ title: "Section 9102 - Duties"
 usc_title: 40
 usc_section: "9102"
 chapter: 91
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "40 U.S.C. § 9102"
-generated_at: "2026-03-30T06:29:39.799Z"
+generated_at: "2026-03-30T06:31:28.866Z"
 status: "active"
 ---
 

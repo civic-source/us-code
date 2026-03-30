@@ -3,9 +3,9 @@ title: "Section 728 - Omitted"
 usc_title: 15
 usc_section: "728"
 chapter: 16
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "15 U.S.C. § 728"
-generated_at: "2026-03-30T06:29:07.139Z"
+generated_at: "2026-03-30T06:30:39.845Z"
 status: "omitted"
 ---
 

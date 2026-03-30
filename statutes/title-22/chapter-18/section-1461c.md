@@ -3,9 +3,9 @@ title: "Section 1461c - Omitted"
 usc_title: 22
 usc_section: "1461c"
 chapter: 18
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 1461c"
-generated_at: "2026-03-30T06:29:22.378Z"
+generated_at: "2026-03-30T06:30:58.343Z"
 status: "omitted"
 ---
 

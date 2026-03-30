@@ -3,9 +3,9 @@ title: "Section 5106a - Grants to States for child abuse or neglect prevention a
 usc_title: 42
 usc_section: "5106a"
 chapter: 67
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5106a"
-generated_at: "2026-03-30T06:29:55.980Z"
+generated_at: "2026-03-30T06:31:47.793Z"
 status: "active"
 ---
 
@@ -89,7 +89,7 @@ status: "active"
         - **(III)** to have aided or abetted, attempted, conspired, or solicited to commit such murder or voluntary manslaughter;
         - **(IV)** to have committed a felony assault that results in the serious bodily injury to the surviving child or another child of such parent;
         - **(V)** to have committed sexual abuse against the surviving child or another child of such parent; or
-        - **(VI)** to be required to register with a sex offender registry under section 16913(a) of this title ;
+        - **(VI)** to be required to register with a sex offender registry under section 20913(a) of title 34 ;
       - **(xvii)** an assurance that, upon the implementation by the State of the provisions, procedures, and mechanisms under clause (xvi), conviction of any one of the felonies listed in clause (xvi) constitute grounds under State law for the termination of parental rights of the convicted parent as to the surviving children (although case-by-case determinations of whether or not to seek termination of parental rights shall be within the sole discretion of the State);
       - **(xviii)** provisions and procedures to require that a representative of the child protective services agency shall, at the initial time of contact with the individual subject to a child abuse or neglect investigation, advise the individual of the complaints or allegations made against the individual, in a manner that is consistent with laws protecting the rights of the informant;
       - **(xix)** provisions addressing the training of representatives of the child protective services system regarding the legal duties of the representatives, which may consist of various methods of informing such representatives of such duties, in order to protect the legal rights and safety of children and families from the initial time of contact during investigation through treatment;

@@ -3,9 +3,9 @@ title: "Section 3151 - Establishment of one-stop delivery systems"
 usc_title: 29
 usc_section: "3151"
 chapter: 32
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "29 U.S.C. § 3151"
-generated_at: "2026-03-30T06:29:26.554Z"
+generated_at: "2026-03-30T06:31:05.460Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
       - **(ix)** employment and training activities carried out under the Community Services Block Grant Act ( 42 U.S.C. 9901 et seq.);
       - **(x)** employment and training activities carried out by the Department of Housing and Urban Development;
       - **(xi)** programs authorized under State unemployment compensation laws (in accordance with applicable Federal law);
-      - **(xii)** programs authorized under section 17532 of title 42 ; and
+      - **(xii)** programs authorized under section 60532 of title 34 ; and
       - **(xiii)** programs authorized under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.), subject to subparagraph (C).
     - **(C)**
       - **(i)** An entity that carries out a program referred to in subparagraph (B)(xiii) shall be included in the one-stop partners for the local area, as a required partner, for purposes of this Act and the other core program provisions that are not part of this Act, unless the Governor provides the notification described in clause (ii).

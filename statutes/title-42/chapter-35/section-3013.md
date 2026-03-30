@@ -3,9 +3,9 @@ title: "Section 3013 - Federal agency cooperation"
 usc_title: 42
 usc_section: "3013"
 chapter: 35
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3013"
-generated_at: "2026-03-30T06:29:55.923Z"
+generated_at: "2026-03-30T06:31:47.743Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
   - **(15)** parts II and III of title 38,
   - **(16)** the Rehabilitation Act of 1973 [ 29 U.S.C. 701 et seq.],
   - **(17)** the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [ 42 U.S.C. 15001 et seq.],
-  - **(18)** the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, established under part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3750–376 6b)), and
+  - **(18)** the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, established under part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3750–376 6b)), 1 1 See References in Text note below. So in original. The second closing parenthesis before the comma probably should not appear. and
   - **(19)** sections 3003 and 3004 of title 29.
 - **(c)**
   - **(1)** The Secretary, in collaboration with the Federal officials specified in paragraph (2), shall establish an Interagency Coordinating Committee on Aging (referred to in this subsection as the “Committee”) focusing on the coordination of agencies with respect to aging issues.

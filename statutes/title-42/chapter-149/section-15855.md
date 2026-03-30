@@ -3,9 +3,9 @@ title: "Section 15855 - Grants to improve the commercial value of forest biomass
 usc_title: 42
 usc_section: "15855"
 chapter: 149
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 15855"
-generated_at: "2026-03-30T06:29:56.223Z"
+generated_at: "2026-03-30T06:31:48.048Z"
 status: "active"
 ---
 

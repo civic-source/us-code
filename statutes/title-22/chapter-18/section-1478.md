@@ -3,9 +3,9 @@ title: "Section 1478 - Reimbursement of program expenses from sources other than
 usc_title: 22
 usc_section: "1478"
 chapter: 18
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 1478"
-generated_at: "2026-03-30T06:29:22.379Z"
+generated_at: "2026-03-30T06:30:58.345Z"
 status: "active"
 ---
 

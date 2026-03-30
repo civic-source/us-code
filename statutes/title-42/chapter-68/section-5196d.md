@@ -3,9 +3,9 @@ title: "Section 5196d - Use of funds to prepare for and respond to hazards"
 usc_title: 42
 usc_section: "5196d"
 chapter: 68
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5196d"
-generated_at: "2026-03-30T06:29:55.988Z"
+generated_at: "2026-03-30T06:31:47.803Z"
 status: "active"
 ---
 

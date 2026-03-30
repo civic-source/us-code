@@ -1,24 +1,13 @@
 ---
-title: "Section 5791 - National coordination of AMBER Alert communications network"
+title: "Section 5791 - Transferred"
 usc_title: 42
 usc_section: "5791"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5791"
-generated_at: "2026-03-30T06:29:56.002Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "transferred"
 ---
 
-# § 5791. National coordination of AMBER Alert communications network
+# § 5791. Transferred
 
-- **(a)** The Attorney General shall assign an officer of the Department of Justice to act as the national coordinator of the AMBER Alert communications network regarding abducted children. The officer so designated shall be known as the AMBER Alert Coordinator of the Department of Justice.
-- **(b)** In acting as the national coordinator of the AMBER Alert communications network, the Coordinator shall—
-  - **(1)** seek to eliminate gaps in the network, including gaps in areas of interstate travel;
-  - **(2)** work with States to encourage the development of additional elements (known as local AMBER plans) in the network;
-  - **(3)** work with States to ensure appropriate regional coordination of various elements of the network; and
-  - **(4)** act as the nationwide point of contact for—
-    - **(A)** the development of the network; and
-    - **(B)** regional coordination of alerts on abducted children through the network.
-- **(c)** In carrying out duties under subsection (b), the Coordinator shall notify and consult with the Director of the Federal Bureau of Investigation concerning each child abduction for which an alert is issued through the AMBER Alert communications network.
-- **(d)** The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.
-- **(e)** Not later than March 1, 2005 , the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State that has implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.

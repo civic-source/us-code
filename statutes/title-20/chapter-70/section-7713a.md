@@ -3,9 +3,9 @@ title: "Section 7713a - School facilities for children of Government employees a
 usc_title: 20
 usc_section: "7713a"
 chapter: 70
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "20 U.S.C. § 7713a"
-generated_at: "2026-03-30T06:29:12.745Z"
+generated_at: "2026-03-30T06:30:45.623Z"
 status: "active"
 ---
 

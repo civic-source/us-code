@@ -3,9 +3,9 @@ title: "Section 5165f - National Urban Search and Rescue Response System"
 usc_title: 42
 usc_section: "5165f"
 chapter: 68
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5165f"
-generated_at: "2026-03-30T06:29:55.984Z"
+generated_at: "2026-03-30T06:31:47.798Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(7)** The term “System” means the National Urban Search and Rescue Response System to be administered under this section.
   - **(8)** The term “System member” means an individual who is not a full-time employee of the Federal Government and who serves on a task force or on a System management or other technical team.
   - **(9)** The term “task force” means an urban search and rescue team designated by the Administrator to participate in the System.
-- **(b)**
+- **(b)** Subject to the requirements of this section, the Administrator shall continue to administer the emergency response system known as the National Urban Search and Rescue Response System.
 - **(c)** In administering the System, the Administrator shall provide for a national network of standardized search and rescue resources to assist States and local governments in responding to hazards.
 - **(d)**
   - **(1)** The Administrator shall designate task forces to participate in the System. The Administration shall determine the criteria for such participation.
@@ -52,7 +52,7 @@ status: "active"
     - **(B)** A System member or dependent shall make an election of benefits under subparagraph (A) not later than 1 year after the date of the personal injury, illness, disability, or death that is the reason for the benefits, or until such later date as the Secretary of Labor may allow for reasonable cause shown.
     - **(C)** An election of benefits made under this paragraph is irrevocable unless otherwise provided by law.
   - **(3)** Subject to such terms and conditions as the Administrator may impose by regulation, if a System member or dependent elects to receive benefits from a State or local government under paragraph (2)(A), the Administrator shall reimburse the State or local government for the value of the benefits.
-  - **(4)** Nothing in this subsection shall be construed to bar any claim by, or with respect to, any System member who is a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796b ), for any benefits authorized under part L of title I of that Act ( 42 U.S.C. 3796 et seq.).
+  - **(4)** Nothing in this subsection shall be construed to bar any claim by, or with respect to, any System member who is a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [ 34 U.S.C. 10284 ], for any benefits authorized under part L of title I of that Act ( 42 U.S.C. 3796 et seq.). 1 1 See References in Text note below.
 - **(i)** A System member appointed into Federal service under subsection (f)(1), while acting within the scope of the appointment, shall be considered to be an employee of the Federal Government under section 1346(b) of title 28 and chapter 171 of that title, relating to tort claims procedure.
 - **(j)** With respect to a System member who is not a regular full-time employee of a sponsoring agency or participating agency, the following terms and conditions apply:
   - **(1)** Service as a System member shall be considered to be “service in the uniformed services” for purposes of chapter 43 of title 38 relating to employment and reemployment rights of individuals who have performed service in the uniformed services (regardless of whether the individual receives compensation for such participation). All rights and obligations of such persons and procedures for assistance, enforcement, and investigation shall be as provided for in such chapter.

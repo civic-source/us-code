@@ -3,9 +3,9 @@ title: "Section 2257 - Repealed. Aug. 1, 1946, ch. 724 , title I, § 302(a), as 
 usc_title: 42
 usc_section: "2257"
 chapter: 23
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 2257"
-generated_at: "2026-03-30T06:29:55.911Z"
+generated_at: "2026-03-30T06:31:47.729Z"
 status: "repealed"
 ---
 

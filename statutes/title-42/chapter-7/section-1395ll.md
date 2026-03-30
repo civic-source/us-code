@@ -3,9 +3,9 @@ title: "Section 1395ll - Studies and recommendations"
 usc_title: 42
 usc_section: "1395ll"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 1395ll"
-generated_at: "2026-03-30T06:29:55.783Z"
+generated_at: "2026-03-30T06:31:47.562Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6502 - Procurement of temporary help"
 usc_title: 2
 usc_section: "6502"
 chapter: 65
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "2 U.S.C. § 6502"
-generated_at: "2026-03-30T06:28:47.630Z"
+generated_at: "2026-03-30T06:30:18.653Z"
 status: "active"
 ---
 

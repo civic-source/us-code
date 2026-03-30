@@ -3,9 +3,9 @@ title: "Section 831 - Tax on insurance companies other than life insurance compa
 usc_title: 26
 usc_section: "831"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "26 U.S.C. § 831"
-generated_at: "2026-03-30T06:29:33.245Z"
+generated_at: "2026-03-30T06:31:17.026Z"
 status: "active"
 ---
 

@@ -3,9 +3,10 @@ title: "Section 20321 - Findings"
 usc_title: 34
 usc_section: "20321"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 20321"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-03-30T06:31:20.913Z"
+status: "active"
 ---
 
 # § 20321. Findings

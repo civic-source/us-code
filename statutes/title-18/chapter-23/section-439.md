@@ -3,9 +3,9 @@ title: "Section 439 - Repealed. Pub. L. 106–568, title VIII , § 812(c)(2), De
 usc_title: 18
 usc_section: "439"
 chapter: 23
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "18 U.S.C. § 439"
-generated_at: "2026-03-30T06:29:13.581Z"
+generated_at: "2026-03-30T06:30:46.682Z"
 status: "repealed"
 ---
 

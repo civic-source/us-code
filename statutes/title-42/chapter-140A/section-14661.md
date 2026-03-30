@@ -1,15 +1,13 @@
 ---
-title: "Section 14661 - Program authorized"
+title: "Section 14661 - Transferred"
 usc_title: 42
 usc_section: "14661"
 chapter: 140
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14661"
-generated_at: "2026-03-30T06:29:56.212Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.039Z"
+status: "transferred"
 ---
 
-# § 14661. Program authorized
-
-The Attorney General is authorized to provide grant awards to States to enable States to improve the reporting of unidentified and missing persons.
+# § 14661. Transferred
 

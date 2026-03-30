@@ -1,15 +1,13 @@
 ---
-title: "Section 3797e - Authorization of appropriations"
+title: "Section 3797e - Omitted"
 usc_title: 42
 usc_section: "3797e"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3797e"
-generated_at: "2026-03-30T06:29:55.954Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.768Z"
+status: "omitted"
 ---
 
-# § 3797e. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this subchapter $30,000,000 for each of fiscal years 2001 through 2009.
+# § 3797e. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 1980A - Traumatic injury protection"
 usc_title: 38
 usc_section: "1980A"
 chapter: 19
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "38 U.S.C. § 1980A"
-generated_at: "2026-03-30T06:29:41.051Z"
+generated_at: "2026-03-30T06:31:31.145Z"
 status: "active"
 ---
 

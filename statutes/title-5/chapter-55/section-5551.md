@@ -3,9 +3,9 @@ title: "Section 5551 - Lump-sum payment for accumulated and accrued leave on sep
 usc_title: 5
 usc_section: "5551"
 chapter: 55
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "5 U.S.C. § 5551"
-generated_at: "2026-03-30T06:28:49.117Z"
+generated_at: "2026-03-30T06:30:20.598Z"
 status: "active"
 ---
 

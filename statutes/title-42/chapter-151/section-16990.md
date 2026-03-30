@@ -1,37 +1,13 @@
 ---
-title: "Section 16990 - National registry of substantiated cases of child abuse"
+title: "Section 16990 - Transferred"
 usc_title: 42
 usc_section: "16990"
 chapter: 151
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 16990"
-generated_at: "2026-03-30T06:29:56.243Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.068Z"
+status: "transferred"
 ---
 
-# § 16990. National registry of substantiated cases of child abuse
+# § 16990. Transferred
 
-- **(a)** The Secretary of Health and Human Services, in consultation with the Attorney General, shall create a national registry of substantiated cases of child abuse or neglect.
-- **(b)**
-  - **(1)** The information in the registry described in subsection (a) shall be supplied by States and Indian tribes, or, at the option of a State, by political subdivisions of such State, to the Secretary of Health and Human Services.
-  - **(2)** The registry described in subsection (a) shall collect in a central electronic registry information on persons reported to a State, Indian tribe, or political subdivision of a State as perpetrators of a substantiated case of child abuse or neglect.
-- **(c)**
-  - **(1)**
-    - **(A)** The information to be provided to the Secretary of Health and Human Services under this section shall relate to substantiated reports of child abuse or neglect.
-    - **(B)** If a State, Indian tribe, or political subdivision of a State has an electronic register of cases of child abuse or neglect equivalent to the registry established under this section that it maintains pursuant to a requirement or authorization under any other provision of law, the information provided to the Secretary of Health and Human Services under this section shall be coextensive with that in such register.
-  - **(2)** Information provided to the Secretary of Health and Human Services under this section—
-    - **(A)** shall be in a standardized electronic form determined by the Secretary of Health and Human Services; and
-    - **(B)** shall contain case-specific identifying information that is limited to the name of the perpetrator and the nature of the substantiated case of child abuse or neglect, and that complies with clauses (viii) and (ix) of section 5106a(b)(2)(A) 1 1 See References in Text note below. of this title.
-- **(d)** This section shall not be construed to require a State, Indian tribe, or political subdivision of a State to modify—
-  - **(1)** an equivalent register of cases of child abuse or neglect that it maintains pursuant to a requirement or authorization under any other provision of law; or
-  - **(2)** any other record relating to child abuse or neglect, regardless of whether the report of abuse or neglect was substantiated, unsubstantiated, or determined to be unfounded.
-- **(e)** Information contained in the national registry shall only be accessible to any Federal, State, Indian tribe, or local government entity, or any agent of such entities, that has a need for such information in order to carry out its responsibilities under law to protect children from child abuse and neglect.
-- **(f)** The Secretary of Health and Human Services shall establish standards for the dissemination of information in the national registry of substantiated cases of child abuse or neglect. Such standards shall comply with clauses (viii) and (ix) of section 5106a(b)(2)(A) 1 of this title.
-- **(g)**
-  - **(1)** The Secretary of Health and Human Services shall conduct a study on the feasibility of establishing data collection standards for a national child abuse and neglect registry with recommendations and findings concerning—
-    - **(A)** costs and benefits of such data collection standards;
-    - **(B)** data collection standards currently employed by each State, Indian tribe, or political subdivision of a State;
-    - **(C)** data collection standards that should be considered to establish a model of promising practices; and
-    - **(D)** a due process procedure for a national registry.
-  - **(2)** Not later than 1 year after July 27, 2006 , the Secretary of Homeland Security shall submit to the Committees on the Judiciary in the House of Representatives and the United States Senate and the Senate Committee on Health, Education, Labor and Pensions and the House Committee on Education and the Workforce a report containing the recommendations and findings of the study on data collection standards for a national child abuse registry authorized under this subsection.
-  - **(3)** There is authorized to be appropriated $500,000 for the period of fiscal years 2006 and 2007 to carry out the study required by this subsection.

@@ -3,9 +3,9 @@ title: "Section 9573 - Confidentiality"
 usc_title: 20
 usc_section: "9573"
 chapter: 76
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "20 U.S.C. § 9573"
-generated_at: "2026-03-30T06:29:12.755Z"
+generated_at: "2026-03-30T06:30:45.634Z"
 status: "active"
 ---
 

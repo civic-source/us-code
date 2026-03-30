@@ -3,9 +3,9 @@ title: "Section 601 - Purpose"
 usc_title: 42
 usc_section: "601"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 601"
-generated_at: "2026-03-30T06:29:55.679Z"
+generated_at: "2026-03-30T06:31:47.312Z"
 status: "active"
 ---
 

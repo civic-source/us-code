@@ -3,9 +3,9 @@ title: "Section 1903 - Agreements with and other provisions related to Marshall 
 usc_title: 48
 usc_section: "1903"
 chapter: 18
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "48 U.S.C. § 1903"
-generated_at: "2026-03-30T06:29:59.775Z"
+generated_at: "2026-03-30T06:31:50.873Z"
 status: "active"
 ---
 

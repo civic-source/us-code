@@ -3,9 +3,9 @@ title: "Section 30109 - Records and inspection"
 usc_title: 36
 usc_section: "30109"
 chapter: 301
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "36 U.S.C. § 30109"
-generated_at: "2026-03-30T06:29:39.122Z"
+generated_at: "2026-03-30T06:31:29.612Z"
 status: "active"
 ---
 

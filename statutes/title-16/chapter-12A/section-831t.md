@@ -3,9 +3,9 @@ title: "Section 831t - Offenses; fines and punishment"
 usc_title: 16
 usc_section: "831t"
 chapter: 12
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 831t"
-generated_at: "2026-03-30T06:29:15.727Z"
+generated_at: "2026-03-30T06:30:49.740Z"
 status: "active"
 ---
 

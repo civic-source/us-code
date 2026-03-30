@@ -3,9 +3,9 @@ title: "Section 6t - Large swap trader reporting"
 usc_title: 7
 usc_section: "6t"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "7 U.S.C. § 6t"
-generated_at: "2026-03-30T06:28:54.374Z"
+generated_at: "2026-03-30T06:30:27.319Z"
 status: "active"
 ---
 

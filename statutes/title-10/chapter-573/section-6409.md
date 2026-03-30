@@ -3,9 +3,9 @@ title: "Section 6409 - Repealed. Pub. L. 90–235 , § 3(b)(1), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "6409"
 chapter: 573
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 6409"
-generated_at: "2026-03-30T06:29:00.030Z"
+generated_at: "2026-03-30T06:30:32.011Z"
 status: "repealed"
 ---
 

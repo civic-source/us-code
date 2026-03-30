@@ -3,9 +3,9 @@ title: "Section 3512 - Treatment of certain persons as employers with respect to
 usc_title: 26
 usc_section: "3512"
 chapter: 25
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "26 U.S.C. § 3512"
-generated_at: "2026-03-30T06:29:33.303Z"
+generated_at: "2026-03-30T06:31:17.126Z"
 status: "active"
 ---
 

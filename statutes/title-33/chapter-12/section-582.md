@@ -3,9 +3,9 @@ title: "Section 582 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 S
 usc_title: 33
 usc_section: "582"
 chapter: 12
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "33 U.S.C. § 582"
-generated_at: "2026-03-30T06:29:36.693Z"
+generated_at: "2026-03-30T06:31:22.646Z"
 status: "repealed"
 ---
 

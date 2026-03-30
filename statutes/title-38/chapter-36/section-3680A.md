@@ -3,19 +3,30 @@ title: "Section 3680A - Disapproval of enrollment in certain courses"
 usc_title: 38
 usc_section: "3680A"
 chapter: 36
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "38 U.S.C. § 3680A"
-generated_at: "2026-03-30T06:29:41.063Z"
+generated_at: "2026-03-30T06:31:31.162Z"
 status: "active"
 ---
 
 # § 3680A. Disapproval of enrollment in certain courses
 
-- **(a)** The Secretary shall not approve the enrollment of an eligible veteran in—
-  - **(1)** any bartending course or personality development course;
-  - **(2)** any sales or sales management course which does not provide specialized training within a specific vocational field;
-  - **(3)** any type of course which the Secretary finds to be avocational or recreational in character (or the advertising for which the Secretary finds contains significant avocational or recreational themes) unless the veteran submits justification showing that the course will be of bona fide use in the pursuit of the veteran’s present or contemplated business or occupation; or
-  - **(4)** any independent study program except an accredited independent study program (including open circuit television) leading (A) to a standard college degree, or (B) to a certificate that reflects educational attainment offered by an institution of higher learning.
+- **(a)** The Secretary shall not approve the enrollment of an eligible veteran in any of the following:
+  - **(1)** Any bartending course or personality development course.
+  - **(2)** Any sales or sales management course which does not provide specialized training within a specific vocational field.
+  - **(3)** Any type of course which the Secretary finds to be avocational or recreational in character (or the advertising for which the Secretary finds contains significant avocational or recreational themes) unless the veteran submits justification showing that the course will be of bona fide use in the pursuit of the veteran’s present or contemplated business or occupation.
+  - **(4)** Any independent study program except an independent study program (including such a program taken over open circuit television) that—
+    - **(A)** is accredited by an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1099b );
+    - **(B)** leads to—
+      - **(i)** a standard college degree;
+      - **(ii)** a certificate that reflects educational attainment offered by an institution of higher learning; or
+      - **(iii)** a certificate that reflects completion of a course of study offered by—
+        - **(I)** an area career and technical education school (as defined in subparagraphs (C) and (D) of section 3(3) of the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2302(3) )) that provides education at the postsecondary level; or
+        - **(II)** a postsecondary vocational institution (as defined in section 102(c) of the Higher Education Act of 1965 ( 20 U.S.C. 1002(c) )) that provides education at the postsecondary level; and
+    - **(C)** in the case of a program described in subparagraph (B)(iii)—
+      - **(i)** provides training aligned with the requirements of employers in the State or local area where the program is located, which may include in-demand industry sectors or occupations; and
+      - **(ii)** provides a student, upon completion of the program, with a recognized postsecondary credential that is recognized by employers in the relevant industry, which may include a credential recognized by industry or sector partnerships in the State or local area where the industry is located; and
+      - **(iii)** meets such content and instructional standards as may be required to comply with the criteria under section 3676(c)(14) and(15) of this title.
 - **(b)** Except to the extent otherwise specifically provided in this title or chapter 106 of title 10, the Secretary shall not approve the enrollment of an eligible veteran in any course of flight training other than one given by an educational institution of higher learning for credit toward a standard college degree the eligible veteran is seeking.
 - **(c)** The Secretary shall not approve the enrollment of an eligible veteran in any course to be pursued by radio.
 - **(d)**
@@ -32,3 +43,4 @@ status: "active"
   - **(1)** the Secretary would be barred under subsection (e) from approving the enrollment of an eligible veteran in the course of the educational institution or entity providing the course under contract; or
   - **(2)** the educational institution or entity providing the course under contract has not obtained approval for the course under this chapter.
 - **(g)** Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department of Homeland Security and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
+- **(h)** In this section, the terms “State or local area”, “recognized postsecondary credential”, “industry or sector partnership”, and “in-demand industry sector or occupation” have the meaning given such terms in section 3 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3102 ).

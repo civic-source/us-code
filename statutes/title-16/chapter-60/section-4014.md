@@ -3,9 +3,9 @@ title: "Section 4014 - Refunds"
 usc_title: 16
 usc_section: "4014"
 chapter: 60
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 4014"
-generated_at: "2026-03-30T06:29:15.804Z"
+generated_at: "2026-03-30T06:30:49.842Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1605A - Terrorism exception to the jurisdictional immunity of a 
 usc_title: 28
 usc_section: "1605A"
 chapter: 97
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "28 U.S.C. § 1605A"
-generated_at: "2026-03-30T06:29:25.665Z"
+generated_at: "2026-03-30T06:31:06.572Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
 - **(d)** After an action has been brought under subsection (c), actions may also be brought for reasonably foreseeable property loss, whether insured or uninsured, third party liability, and loss claims under life and property insurance policies, by reason of the same acts on which the action under subsection (c) is based.
 - **(e)**
   - **(1)** The courts of the United States may appoint special masters to hear damage claims brought under this section.
-  - **(2)** The Attorney General shall transfer, from funds available for the program under section 1404C of the Victims of Crime Act of 1984 ( 42 U.S.C. 10603c ), to the Administrator of the United States district court in which any case is pending which has been brought or maintained under this section such funds as may be required to cover the costs of special masters appointed under paragraph (1). Any amount paid in compensation to any such special master shall constitute an item of court costs.
+  - **(2)** The Attorney General shall transfer, from funds available for the program under section 1404C of the Victims of Crime Act of 1984 ( 42 U.S.C. 10603c ), 1 1 See References in Text note below. to the Administrator of the United States district court in which any case is pending which has been brought or maintained under this section such funds as may be required to cover the costs of special masters appointed under paragraph (1). Any amount paid in compensation to any such special master shall constitute an item of court costs.
 - **(f)** In an action brought under this section, appeals from orders not conclusively ending the litigation may only be taken pursuant to section 1292(b) of this title .
 - **(g)**
   - **(1)** In every action filed in a United States district court in which jurisdiction is alleged under this section, the filing of a notice of pending action pursuant to this section, to which is attached a copy of the complaint filed in the action, shall have the effect of establishing a lien of lis pendens upon any real property or tangible personal property that is—
@@ -50,5 +50,5 @@ status: "active"
   - **(3)** the term “material support or resources” has the meaning given that term in section 2339A of title 18 ;
   - **(4)** the term “armed forces” has the meaning given that term in section 101 of title 10 ;
   - **(5)** the term “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) );
-  - **(6)** the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), 1 1 See References in Text note below. section 620A of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2371 ), section 40 of the Arms Export Control Act ( 22 U.S.C. 2780 ), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism; and
+  - **(6)** the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), 1 section 620A of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2371 ), section 40 of the Arms Export Control Act ( 22 U.S.C. 2780 ), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism; and
   - **(7)** the terms “torture” and “extrajudicial killing” have the meaning given those terms in section 3 of the Torture Victim Protection Act of 1991 ( 28 U.S.C. 1350 note).

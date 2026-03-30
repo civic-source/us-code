@@ -1,18 +1,13 @@
 ---
-title: "Section 13881 - Purpose"
+title: "Section 13881 - Transferred"
 usc_title: 42
 usc_section: "13881"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13881"
-generated_at: "2026-03-30T06:29:56.198Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 13881. Purpose
+# § 13881. Transferred
 
-The purpose of this part is to evaluate the effectiveness of certain demonstration projects in helping to—
-
-  - **(1)** alleviate the harm to children and primary caretaker parents caused by separation due to the incarceration of the parents;
-  - **(2)** reduce recidivism rates of prisoners by encouraging strong and supportive family relationships; and
-  - **(3)** explore the cost effectiveness of community correctional facilities.

@@ -3,9 +3,9 @@ title: "Section 5661 - Penalty and forfeiture for violation of laws and regulati
 usc_title: 26
 usc_section: "5661"
 chapter: 51
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "26 U.S.C. § 5661"
-generated_at: "2026-03-30T06:29:33.325Z"
+generated_at: "2026-03-30T06:31:17.166Z"
 status: "active"
 ---
 

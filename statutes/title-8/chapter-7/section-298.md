@@ -3,9 +3,9 @@ title: "Section 298 - Omitted"
 usc_title: 8
 usc_section: "298"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "8 U.S.C. § 298"
-generated_at: "2026-03-30T06:28:51.729Z"
+generated_at: "2026-03-30T06:30:23.064Z"
 status: "omitted"
 ---
 

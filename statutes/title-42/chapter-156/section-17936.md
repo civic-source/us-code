@@ -3,9 +3,9 @@ title: "Section 17936 - Conditions on certain contacts as part of health care op
 usc_title: 42
 usc_section: "17936"
 chapter: 156
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 17936"
-generated_at: "2026-03-30T06:29:56.258Z"
+generated_at: "2026-03-30T06:31:48.080Z"
 status: "active"
 ---
 

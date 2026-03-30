@@ -3,9 +3,9 @@ title: "Section 3080 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1661(
 usc_title: 10
 usc_section: "3080"
 chapter: 307
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 3080"
-generated_at: "2026-03-30T06:29:00.019Z"
+generated_at: "2026-03-30T06:30:31.994Z"
 status: "repealed"
 ---
 

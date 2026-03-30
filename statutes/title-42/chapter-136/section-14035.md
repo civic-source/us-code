@@ -1,15 +1,13 @@
 ---
-title: "Section 14035 - Technical assistance, training, and evaluations"
+title: "Section 14035 - Transferred"
 usc_title: 42
 usc_section: "14035"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14035"
-generated_at: "2026-03-30T06:29:56.201Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 14035. Technical assistance, training, and evaluations
-
-The Attorney General may provide technical assistance and training in furtherance of the purposes of this part, and may provide for the evaluation of programs that receive funds under this part, in addition to any evaluation requirements that the Attorney General may prescribe for grantees. The technical assistance, training, and evaluations authorized by this section may be carried out directly by the Attorney General, or through contracts or other arrangements with other entities.
+# § 14035. Transferred
 

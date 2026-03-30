@@ -3,9 +3,9 @@ title: "Section 102 - Rules of construction"
 usc_title: 11
 usc_section: "102"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "11 U.S.C. § 102"
-generated_at: "2026-03-30T06:29:02.701Z"
+generated_at: "2026-03-30T06:30:34.909Z"
 status: "active"
 ---
 

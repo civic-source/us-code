@@ -3,9 +3,9 @@ title: "Section 4709 - Encouragement of private entities"
 usc_title: 12
 usc_section: "4709"
 chapter: 47
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "12 U.S.C. § 4709"
-generated_at: "2026-03-30T06:29:04.788Z"
+generated_at: "2026-03-30T06:30:37.635Z"
 status: "active"
 ---
 

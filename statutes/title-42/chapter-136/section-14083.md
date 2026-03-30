@@ -1,20 +1,13 @@
 ---
-title: "Section 14083 - More agents for Drug Enforcement Administration"
+title: "Section 14083 - Omitted"
 usc_title: 42
 usc_section: "14083"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14083"
-generated_at: "2026-03-30T06:29:56.206Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "omitted"
 ---
 
-# § 14083. More agents for Drug Enforcement Administration
+# § 14083. Omitted
 
-There are authorized to be appropriated for the hiring of additional Drug Enforcement Administration agents—
-
-  - **(1)** $12,000,000 for fiscal year 1996;
-  - **(2)** $20,000,000 for fiscal year 1997;
-  - **(3)** $30,000,000 for fiscal year 1998;
-  - **(4)** $40,000,000 for fiscal year 1999; and
-  - **(5)** $48,000,000 for fiscal year 2000.

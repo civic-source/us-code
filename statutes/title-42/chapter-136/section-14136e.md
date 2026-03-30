@@ -1,16 +1,13 @@
 ---
-title: "Section 14136e - Kirk Bloodsworth Post-Conviction DNA Testing Grant Program"
+title: "Section 14136e - Transferred"
 usc_title: 42
 usc_section: "14136e"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14136e"
-generated_at: "2026-03-30T06:29:56.208Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 14136e. Kirk Bloodsworth Post-Conviction DNA Testing Grant Program
+# § 14136e. Transferred
 
-- **(a)** The Attorney General shall establish the Kirk Bloodsworth Post-Conviction DNA Testing Grant Program to award grants to States to help defray the costs of post-conviction DNA testing.
-- **(b)** There are authorized to be appropriated $10,000,000 for each of fiscal years 2017 through 2021 to carry out this section.
-- **(c)** For purposes of this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.

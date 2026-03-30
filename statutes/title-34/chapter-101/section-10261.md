@@ -3,9 +3,10 @@ title: "Section 10261 - Authorization of appropriations"
 usc_title: 34
 usc_section: "10261"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 10261"
-generated_at: "2026-03-30T02:55:33.264Z"
+generated_at: "2026-03-30T06:31:20.872Z"
+status: "active"
 ---
 
 # § 10261. Authorization of appropriations
@@ -41,12 +42,12 @@ generated_at: "2026-03-30T02:55:33.264Z"
     - **(C)** $63,000,000 for fiscal year 1998;
     - **(D)** $72,000,000 for fiscal year 1999; and
     - **(E)** $72,000,000 for fiscal year 2000.
-  - **(18)** There is authorized to be appropriated to carry out subchapter XIX $222,000,000 for each of fiscal years 2023 through 2027.
-  - **(19)** There is authorized to be appropriated to carry out subchapter XX $73,000,000 for each of fiscal years 2023 through 2027. Funds appropriated under this paragraph shall remain available until expended.
+  - **(18)** There is authorized to be appropriated to carry out subchapter XIX $222,000,000 for each of fiscal years 2014 through 2018.
+  - **(19)** There is authorized to be appropriated to carry out subchapter XX $73,000,000 for each of fiscal years 2014 through 2018. Funds appropriated under this paragraph shall remain available until expended.
   - **(20)** There are authorized to be appropriated to carry out part V, 1 $10,000,000 for each of fiscal years 2001 through 2004.
-  - **(21)** There are authorized to be appropriated to carry out subchapter XXII, $7,500,000 for each of fiscal years 2020 through 2024.
+  - **(21)** There are authorized to be appropriated to carry out subchapter XXII—
   - **(22)** There are authorized to be appropriated to carry out subchapter XXIII—
-  - **(23)** There is authorized to be appropriated to carry out subchapter XXIV, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.
+  - **(23)** There is authorized to be appropriated to carry out subchapter XXIV, $25,000,000 for each of fiscal years 2016 through 2020.
   - **(24)** There are authorized to be appropriated to carry out subchapter XXVII, to remain available until expended—
     - **(A)** $35,000,000 for fiscal year 2001;
     - **(B)** $85,400,000 for fiscal year 2002;
@@ -63,11 +64,16 @@ generated_at: "2026-03-30T02:55:33.264Z"
     - **(M)** $21,000,000 for fiscal year 2020; and
     - **(N)** $23,000,000 for fiscal year 2021.
   - **(25)**
-    - **(A)** Except as provided in subparagraph (C), there is authorized to be appropriated to carry out subchapter XXX $75,000,000 for each of fiscal years 2018 through 2023.
+    - **(A)** Except as provided in subparagraph (C), there are authorized to be appropriated to carry out subchapter XXX—
+      - **(i)** $50,000,000 for fiscal year 2002;
+      - **(ii)** $54,000,000 for fiscal year 2003;
+      - **(iii)** $58,000,000 for fiscal year 2004; and 8 8 So in original. The word “and” probably should not appear.
+      - **(iv)** $60,000,000 for fiscal year 2005. 9 9 So in original. The period probably should be a semicolon.
+      - **(v)** 10 10 So in original. Two cls. (v) have been enacted. $70,000,000 for each of fiscal years 2007 and 2008. 11 11 So in original. The period probably should be “; and”.
+      - **(v)** 10 $70,000,000 for fiscal year 2006.
     - **(B)** The Attorney General shall reserve not less than 1 percent and not more than 4.5 percent of the sums appropriated for this program in each fiscal year for research and evaluation of this program.
     - **(C)** No funds made available to carry out subchapter XXX shall be expended if the Attorney General fails to submit the report required to be submitted under section 2401(c) of title II of Division B of the 21st Century Department of Justice Appropriations Authorization Act. 1
   - **(26)** There are authorized to be appropriated to carry out subchapter XXVIII $10,000,000 for each of fiscal years 2009 and 2010.
-  - **(27)** There are authorized to be appropriated to carry out subchapter XXXVIII $103,000,000 for each of fiscal years 2017 and 2018, and $330,000,000 for each of fiscal years 2019 through 2023.
-  - **(28)** There are authorized to be appropriated to carry out section 10741(a)(4) 1 of subchapter XL $5,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
+  - **(27)** There are authorized to be appropriated to carry out subchapter XXXVIII $103,000,000 for each of fiscal years 2017 through 2021.
 - **(b)** Funds appropriated for any fiscal year may remain available for obligation until expended.
 - **(c)** Notwithstanding any other provision of law, no funds appropriated under this section for subchapter V of this chapter may be transferred or reprogrammed for carrying out any activity which is not authorized under such subchapter.

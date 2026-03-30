@@ -3,9 +3,9 @@ title: "Section 1308 - Prohibition on importation of dog and cat fur products"
 usc_title: 19
 usc_section: "1308"
 chapter: 4
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "19 U.S.C. § 1308"
-generated_at: "2026-03-30T06:29:10.702Z"
+generated_at: "2026-03-30T06:30:43.655Z"
 status: "active"
 ---
 

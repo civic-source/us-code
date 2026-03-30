@@ -1,17 +1,13 @@
 ---
-title: "Section 3797s - Grants authorized"
+title: "Section 3797s - Transferred"
 usc_title: 42
 usc_section: "3797s"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3797s"
-generated_at: "2026-03-30T06:29:55.955Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.768Z"
+status: "transferred"
 ---
 
-# § 3797s. Grants authorized
+# § 3797s. Transferred
 
-The Attorney General may make grants to States, units of local government, territories, and Indian Tribes to—
-
-  - **(1)** develop, implement, and expand comprehensive and clinically-appropriate family-based substance abuse treatment programs as alternatives to incarceration for nonviolent parent drug offenders; and
-  - **(2)** to 1 1 So in original. The word “to” probably should not appear. provide prison-based family treatment programs for incarcerated parents of minor children or pregnant women.

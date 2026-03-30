@@ -3,9 +3,10 @@ title: "Section 40316 - National Crime Prevention and Privacy Compact"
 usc_title: 34
 usc_section: "40316"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 40316"
-generated_at: "2026-03-30T02:55:33.309Z"
+generated_at: "2026-03-30T06:31:20.927Z"
+status: "active"
 ---
 
 # § 40316. National Crime Prevention and Privacy Compact
@@ -123,7 +124,7 @@ generated_at: "2026-03-30T02:55:33.309Z"
 - **(e)** Rules, procedures, and standards The Council shall make available for public inspection and copying at the Council office within the FBI, and shall publish in the Federal Register, any rules, procedures, or standards established by the Council.
 - **(f)** Assistance from FBI The Council may request from the FBI such reports, studies, statistics, or other information or materials as the Council determines to be necessary to enable the Council to perform its duties under this Compact. The FBI, to the extent authorized by law, may provide such assistance or information upon such a request.
 - **(g)** Committees The Chairman may establish committees as necessary to carry out this Compact and may prescribe their membership, responsibilities, and duration. ARTICLE VII—RATIFICATION OF COMPACT This Compact shall take effect upon being entered into by 2 or more States as between those States and the Federal Government. Upon subsequent entering into this Compact by additional States, it shall become effective among those States and the Federal Government and each Party State that has previously ratified it. When ratified, this Compact shall have the full force and effect of law within the ratifying jurisdictions. The form of ratification shall be in accordance with the laws of the executing State. ARTICLE VIII—MISCELLANEOUS PROVISIONS
-- **(a)** Relation of Compact to certain FBI activities Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI’s collection and dissemination of criminal history records and the advisory function of the FBI’s advisory policy board chartered under chapter 10 of title 5 for all purposes other than noncriminal justice.
+- **(a)** Relation of Compact to certain FBI activities Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI’s collection and dissemination of criminal history records and the advisory function of the FBI’s advisory policy board chartered under the Federal Advisory Committee Act (5 U.S.C. App.) for all purposes other than noncriminal justice.
 - **(b)** No authority for nonappropriated expenditures Nothing in this Compact shall require the FBI to obligate or expend funds beyond those appropriated to the FBI.
 - **(c)** Relating to Public Law 92–544 Nothing in this Compact shall diminish or lessen the obligations, responsibilities, and authorities of any State, whether a Party State or a Nonparty State, or of any criminal history record repository or other subdivision or component thereof, under the Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973 ( Public Law 92–544 ), or regulations and guidelines promulgated thereunder, including the rules and procedures promulgated by the Council under Article VI(a), regarding the use and dissemination of criminal history records and information. ARTICLE IX—RENUNCIATION
 - **(a)** In general This Compact shall bind each Party State until renounced by the Party State.

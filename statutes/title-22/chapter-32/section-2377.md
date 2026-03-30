@@ -3,9 +3,9 @@ title: "Section 2377 - Prohibition on assistance to countries that aid terrorist
 usc_title: 22
 usc_section: "2377"
 chapter: 32
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 2377"
-generated_at: "2026-03-30T06:29:22.405Z"
+generated_at: "2026-03-30T06:30:58.388Z"
 status: "active"
 ---
 

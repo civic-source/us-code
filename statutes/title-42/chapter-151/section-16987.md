@@ -1,16 +1,13 @@
 ---
-title: "Section 16987 - Grants for online child safety programs"
+title: "Section 16987 - Transferred"
 usc_title: 42
 usc_section: "16987"
 chapter: 151
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 16987"
-generated_at: "2026-03-30T06:29:56.243Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.068Z"
+status: "transferred"
 ---
 
-# § 16987. Grants for online child safety programs
+# § 16987. Transferred
 
-- **(a)** The Attorney General shall, subject to the availability of appropriations, make grants to States, units of local government, and nonprofit organizations for the purposes of establishing and maintaining programs with respect to improving and educating children and parents in the best ways for children to be safe when on the Internet.
-- **(b)** For purposes of this section, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
-- **(c)** There are authorized to be appropriated to carry out this section such sums as are necessary for fiscal years 2007 through 2011.

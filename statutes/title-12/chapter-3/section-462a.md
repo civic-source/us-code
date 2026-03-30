@@ -3,9 +3,9 @@ title: "Section 462a - Repealed. Pub. L. 97–258 , § 5(b), Sept. 13, 1982 , 96
 usc_title: 12
 usc_section: "462a"
 chapter: 3
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "12 U.S.C. § 462a"
-generated_at: "2026-03-30T06:29:04.669Z"
+generated_at: "2026-03-30T06:30:37.499Z"
 status: "repealed"
 ---
 

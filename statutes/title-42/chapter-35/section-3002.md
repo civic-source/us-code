@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 42
 usc_section: "3002"
 chapter: 35
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3002"
-generated_at: "2026-03-30T06:29:55.921Z"
+generated_at: "2026-03-30T06:31:47.741Z"
 status: "active"
 ---
 
@@ -178,7 +178,7 @@ For the purposes of this chapter—
   - **(48)** The term “severe disability” means a severe, chronic disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that—
     - **(A)** is likely to continue indefinitely; and
     - **(B)** results in substantial functional limitation in 3 or more of the major life activities specified in subparagraphs (A) through (G) of paragraph (8). 4 4 So in original. Probably should refer to paragraph (13).
-  - **(49)** The term “sexual assault” has the meaning given the term in section 3796gg–2 of this title . 1
+  - **(49)** The term “sexual assault” has the meaning given the term in section 10447 of title 34 . 1
   - **(50)** The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(51)** The term “State agency” means the agency designated under section 3025(a)(1) of this title .
   - **(52)** The term “State system of long-term care” means the Federal, State, and local programs and activities administered by a State that provide, support, or facilitate access to long-term care for individuals in such State.

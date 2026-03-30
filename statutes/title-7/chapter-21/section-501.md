@@ -3,9 +3,9 @@ title: "Section 501 - Collection and publication; facts required; deteriorated t
 usc_title: 7
 usc_section: "501"
 chapter: 21
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "7 U.S.C. § 501"
-generated_at: "2026-03-30T06:28:54.405Z"
+generated_at: "2026-03-30T06:30:27.356Z"
 status: "active"
 ---
 

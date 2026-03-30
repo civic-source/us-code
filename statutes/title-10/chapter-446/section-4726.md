@@ -3,9 +3,9 @@ title: "Section 4726 - Oversight and inspections"
 usc_title: 10
 usc_section: "4726"
 chapter: 446
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 4726"
-generated_at: "2026-03-30T06:29:00.024Z"
+generated_at: "2026-03-30T06:30:32.002Z"
 status: "active"
 ---
 

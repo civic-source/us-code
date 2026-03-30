@@ -3,9 +3,10 @@ title: "Section 10233 - Prohibition on land acquisition"
 usc_title: 34
 usc_section: "10233"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 10233"
-generated_at: "2026-03-30T02:55:33.262Z"
+generated_at: "2026-03-30T06:31:20.872Z"
+status: "active"
 ---
 
 # § 10233. Prohibition on land acquisition

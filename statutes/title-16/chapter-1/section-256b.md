@@ -3,9 +3,9 @@ title: "Section 256b - Hunting and fishing; general rules and regulations; prote
 usc_title: 16
 usc_section: "256b"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 256b"
-generated_at: "2026-03-30T06:29:15.603Z"
+generated_at: "2026-03-30T06:30:49.579Z"
 status: "active"
 ---
 

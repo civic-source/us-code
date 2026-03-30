@@ -3,9 +3,9 @@ title: "Section 430tt - Authorization of appropriation"
 usc_title: 16
 usc_section: "430tt"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 430tt"
-generated_at: "2026-03-30T06:29:15.637Z"
+generated_at: "2026-03-30T06:30:49.623Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8321 - Temporary exemptions"
 usc_title: 42
 usc_section: "8321"
 chapter: 92
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 8321"
-generated_at: "2026-03-30T06:29:56.093Z"
+generated_at: "2026-03-30T06:31:47.924Z"
 status: "active"
 ---
 
@@ -22,6 +22,6 @@ status: "active"
 - **(e)**
   - **(1)** Except as provided in paragraph (2), exemptions under this section for any powerplant may not exceed, taking into account any extension or renewal, 5 years.
   - **(2)**
-    - **(A)** An exemption under subsection (a)(1) of this section may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
-    - **(B)** An exemption under subsection (b) of this section may be extended beyond the 5-year limit under paragraph (1), but such exemption, so extended, may not exceed 10 years.
+    - **(A)** An exemption under subsection (a)(1) may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
+    - **(B)** An exemption under subsection (b) may be extended beyond the 5-year limit under paragraph (1), but such exemption, so extended, may not exceed 10 years.
   - **(3)** If an exemption is granted for any powerplant before the powerplant is placed in service, the period before it is placed in service shall not be taken into account in computing the 5-year and the 10-year limitations of paragraphs (1) and (2).

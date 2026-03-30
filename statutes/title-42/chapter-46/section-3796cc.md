@@ -1,20 +1,13 @@
 ---
-title: "Section 3796cc - Grant authorization"
+title: "Section 3796cc - Transferred"
 usc_title: 42
 usc_section: "3796cc"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3796cc"
-generated_at: "2026-03-30T06:29:55.948Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.766Z"
+status: "transferred"
 ---
 
-# § 3796cc. Grant authorization
+# § 3796cc. Transferred
 
-- **(a)** The Director of the Bureau of Justice Assistance may make grants under this subchapter to States, for the use by States, and local entities in the States to develop, implement, and enforce criminal interstate child support legislation and coordinate criminal interstate child support enforcement efforts.
-- **(b)** Funds distributed under this subchapter shall be used to—
-  - **(1)** develop a comprehensive assessment of existing criminal interstate child support enforcement efforts, including the identification of gaps in, and barriers to, the enforcement of such efforts;
-  - **(2)** plan and implement comprehensive long-range strategies for criminal interstate child support enforcement;
-  - **(3)** reach an agreement within the State regarding the priorities of such State in the enforcement of criminal interstate child support legislation;
-  - **(4)** develop a plan to implement such priorities; and
-  - **(5)** coordinate criminal interstate child support enforcement efforts.

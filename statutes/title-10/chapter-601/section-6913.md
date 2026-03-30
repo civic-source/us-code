@@ -3,9 +3,9 @@ title: "Section 6913 - Aviation cadets: appointment as reserve officers"
 usc_title: 10
 usc_section: "6913"
 chapter: 601
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 6913"
-generated_at: "2026-03-30T06:29:00.030Z"
+generated_at: "2026-03-30T06:30:32.011Z"
 status: "active"
 ---
 

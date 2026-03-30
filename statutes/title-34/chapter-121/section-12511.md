@@ -3,9 +3,10 @@ title: "Section 12511 - Sexual assault services program"
 usc_title: 34
 usc_section: "12511"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 12511"
-generated_at: "2026-03-30T02:55:33.289Z"
+generated_at: "2026-03-30T06:31:20.905Z"
+status: "active"
 ---
 
 # § 12511. Sexual assault services program
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:55:33.289Z"
     - **(C)** Intervention and related assistance under subparagraph (B) may include—
       - **(i)** 24-hour hotline services providing crisis intervention services and referral;
       - **(ii)** accompaniment and advocacy through medical, criminal justice, and social support systems, including medical facilities, police, and court proceedings;
-      - **(iii)** crisis intervention, short-term individual and group support services, direct payments, and comprehensive service coordination and supervision to assist sexual assault victims and family or household members;
+      - **(iii)** crisis intervention, short-term individual and group support services, and comprehensive service coordination and supervision to assist sexual assault victims and family or household members;
       - **(iv)** information and referral to assist the sexual assault victim and family or household members;
       - **(v)** community-based, culturally specific services and support mechanisms, including outreach activities for underserved communities; and
       - **(vi)** the development and distribution of materials on issues related to the services described in clauses (i) through (v).
@@ -40,7 +41,7 @@ generated_at: "2026-03-30T02:55:33.289Z"
       - **(ii)** set forth procedures designed to ensure an equitable distribution of grants and grant funds within the State or territory and between urban and rural areas within such State or territory;
       - **(iii)** identify the State or territorial agency that is responsible for the administration of programs and activities; and
       - **(iv)** meet other such requirements as the Attorney General reasonably determines are necessary to carry out the purposes and provisions of this section.
-  - **(4)** The Attorney General shall allocate to each State (including the District of Columbia and Puerto Rico) not less than 1.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands shall each be allocated 0.5 percent of the total appropriations. The remaining funds shall be allotted to each State and each territory in an amount that bears the same ratio to such remaining funds as the population of such State and such territory bears to the population of all the States and the territories.
+  - **(4)** The Attorney General shall allocate to each State (including the District of Columbia and Puerto Rico) not less than 1.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands shall each be allocated 0.25 percent of the total appropriations. The remaining funds shall be allotted to each State and each territory in an amount that bears the same ratio to such remaining funds as the population of such State and such territory bears to the population of all the States and the territories.
 - **(c)**
   - **(1)** The Attorney General shall award grants to eligible entities to support the establishment, maintenance, and expansion of culturally specific intervention and related assistance for victims of sexual assault.
   - **(2)** To be eligible to receive a grant under this section, an entity shall—
@@ -49,10 +50,11 @@ generated_at: "2026-03-30T02:55:33.289Z"
     - **(C)** have expertise in the development of community-based, linguistically and culturally specific outreach and intervention services relevant for the specific communities to whom assistance would be provided or have the capacity to link to existing services in the community tailored to the needs of culturally specific populations; and
     - **(D)** have an advisory board or steering committee and staffing which is reflective of the targeted culturally specific community.
   - **(3)** The Attorney General shall award grants under this section on a competitive basis.
-  - **(4)** The Attorney General shall not use more than 2.5 percent of funds appropriated under this subsection in any year for administration, monitoring, and evaluation of grants made available under this subsection.
+  - **(4)**
+    - **(A)** The Attorney General shall not use more than 2.5 percent of funds appropriated under this subsection in any year for administration, monitoring, and evaluation of grants made available under this subsection.
+    - **(B)** Up to 5 percent of funds appropriated under this subsection in any year shall be available for technical assistance by a national, nonprofit, nongovernmental organization or organizations whose primary focus and expertise is in addressing sexual assault within underserved culturally specific populations.
   - **(5)** The Attorney General shall make grants under this section for a period of no less than 2 fiscal years.
-  - **(6)** The Attorney General shall provide technical assistance to recipients of grants under this subsection by entering into a cooperative agreement or contract with a national, nonprofit, nongovernmental organization or organizations whose primary focus and expertise is in addressing sexual assault within culturally specific communities.
-  - **(7)** Each entity receiving a grant under this subsection shall submit a report to the Attorney General that describes the activities carried out with such grant funds.
+  - **(6)** Each entity receiving a grant under this subsection shall submit a report to the Attorney General that describes the activities carried out with such grant funds.
 - **(d)**
   - **(1)**
     - **(A)** The Attorney General shall award grants to State, territorial, and tribal sexual assault coalitions to assist in supporting the establishment, maintenance, and expansion of such coalitions.
@@ -76,10 +78,10 @@ generated_at: "2026-03-30T02:55:33.289Z"
     - **(A)** Not more than 5 percent of the grant funds received by an Indian tribe, tribal organization, and nonprofit tribal organization under this subsection for any fiscal year may be used for administrative costs.
     - **(B)** Any funds received under this subsection that are not used for administrative costs shall be used to provide grants to tribal organizations and nonprofit tribal organizations for programs and activities within Indian country and Alaskan native villages that provide direct intervention and related assistance.
 - **(f)**
-  - **(1)** There are authorized to be appropriated $100,000,000 to remain available until expended for each of fiscal years 2023 through 2027 to carry out the provisions of this section.
+  - **(1)** There are authorized to be appropriated $40,000,000 to remain available until expended for each of fiscal years 2014 through 2018 to carry out the provisions of this section.
   - **(2)** Of the total amounts appropriated for each fiscal year to carry out this section—
     - **(A)** not more than 2.5 percent shall be used by the Attorney General for evaluation, monitoring, and other administrative costs under this section;
-    - **(B)** not more than 8 percent shall be used for the provision of technical assistance to grantees and subgrantees under this section of which not less than 20 percent shall be available for technical assistance to recipients and potential recipients of grants under subsection (c);
+    - **(B)** not more than 2.5 percent shall be used for the provision of technical assistance to grantees and subgrantees under this section;
     - **(C)** not less than 65 percent shall be used for grants to States and territories under subsection (b);
     - **(D)** not less than 10 percent shall be used for making grants to State, territorial, and tribal sexual assault coalitions under subsection (d);
     - **(E)** not less than 10 percent shall be used for grants to tribes under subsection (e); and

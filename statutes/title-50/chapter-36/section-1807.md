@@ -3,9 +3,9 @@ title: "Section 1807 - Report to Administrative Office of the United States Cour
 usc_title: 50
 usc_section: "1807"
 chapter: 36
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "50 U.S.C. § 1807"
-generated_at: "2026-03-30T06:30:01.858Z"
+generated_at: "2026-03-30T06:31:53.117Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15a - Repealed. Pub. L. 95–405 , § 24, Sept. 30, 1978 , 92 St
 usc_title: 7
 usc_section: "15a"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "7 U.S.C. § 15a"
-generated_at: "2026-03-30T06:28:54.378Z"
+generated_at: "2026-03-30T06:30:27.324Z"
 status: "repealed"
 ---
 

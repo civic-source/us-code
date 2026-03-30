@@ -3,9 +3,9 @@ title: "Section 2245 - Sale of prints and lantern slides"
 usc_title: 7
 usc_section: "2245"
 chapter: 55
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "7 U.S.C. § 2245"
-generated_at: "2026-03-30T06:28:54.478Z"
+generated_at: "2026-03-30T06:30:27.435Z"
 status: "active"
 ---
 

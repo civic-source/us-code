@@ -1,15 +1,13 @@
 ---
-title: "Section 5702 - Promulgation of rules"
+title: "Section 5702 - Transferred"
 usc_title: 42
 usc_section: "5702"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5702"
-generated_at: "2026-03-30T06:29:55.999Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "transferred"
 ---
 
-# § 5702. Promulgation of rules
-
-The Secretary of Health and Human Services (hereinafter in this subchapter referred to as the “Secretary”) may issue such rules as the Secretary considers necessary or appropriate to carry out the purposes of this subchapter.
+# § 5702. Transferred
 

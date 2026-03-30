@@ -3,9 +3,9 @@ title: "Section 121 - Authorization of appropriations"
 usc_title: 16
 usc_section: "121"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 121"
-generated_at: "2026-03-30T06:29:15.672Z"
+generated_at: "2026-03-30T06:30:49.669Z"
 status: "active"
 ---
 

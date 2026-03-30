@@ -1,24 +1,13 @@
 ---
-title: "Section 17551 - Offender reentry research"
+title: "Section 17551 - Transferred"
 usc_title: 42
 usc_section: "17551"
 chapter: 153
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 17551"
-generated_at: "2026-03-30T06:29:56.255Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.079Z"
+status: "transferred"
 ---
 
-# § 17551. Offender reentry research
+# § 17551. Transferred
 
-- **(a)** The National Institute of Justice may conduct research on juvenile and adult offender reentry, including—
-  - **(1)** a study identifying the number and characteristics of minor children who have had a parent incarcerated, and the likelihood of such minor children becoming adversely involved in the criminal justice system some time in their lifetime;
-  - **(2)** a study identifying a mechanism to compare rates of recidivism (including rearrest, violations of parole, probation, post-incarceration supervision, and reincarceration) among States; and
-  - **(3)** a study on the population of offenders released from custody who do not engage in recidivism and the characteristics (housing, employment, treatment, family connection) of that population.
-- **(b)** The Bureau of Justice Statistics may conduct research on offender reentry, including—
-  - **(1)** an analysis of special populations (including prisoners with mental illness or substance abuse disorders, female offenders, juvenile offenders, offenders with limited English proficiency, and the elderly) that present unique reentry challenges;
-  - **(2)** studies to determine which offenders are returning to prison, jail, or a juvenile facility and which of those returning offenders represent the greatest risk to victims and community safety;
-  - **(3)** annual reports on the demographic characteristics of the population reentering society from prisons, jails, and juvenile facilities;
-  - **(4)** a national recidivism study every 3 years;
-  - **(5)** a study of parole, probation, or post-incarceration supervision violations and revocations; and
-  - **(6)** a study concerning the most appropriate measure to be used when reporting recidivism rates (whether rearrest, reincarceration, or any other valid, evidence-based measure).

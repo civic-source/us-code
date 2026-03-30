@@ -3,9 +3,9 @@ title: "Section 2141 - Approval of Fiscal Plans"
 usc_title: 48
 usc_section: "2141"
 chapter: 20
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "48 U.S.C. § 2141"
-generated_at: "2026-03-30T06:29:59.781Z"
+generated_at: "2026-03-30T06:31:50.880Z"
 status: "active"
 ---
 
@@ -45,4 +45,4 @@ status: "active"
 - **(e)**
   - **(1)** If the Oversight Board approves a Fiscal Plan under subsection (c)(3), it shall deliver a compliance certification for such Fiscal Plan to the Governor and the Legislature.
   - **(2)** If the Oversight Board develops a Fiscal Plan under subsection (d)(2), such Fiscal Plan shall be deemed approved by the Governor, and the Oversight Board shall issue a compliance certification for such Fiscal Plan to the Governor and the Legislature.
-- **(f)** Notwithstanding any other provision of this section, if the Governor and the Oversight Board jointly develop a Fiscal Plan for the fiscal year that meets the requirements under this section, and that the Governor and the Oversight Board certify that the fiscal plan reflects a consensus between the Governor and the Oversight Board, then such Fiscal Plan shall serve as the Fiscal Plan for the territory or territorial instrumentality for that fiscal year.
+- **(f)** Notwithstanding any other provision of this section, if the Governor and the Oversight Board jointly develop a Fiscal Plan for the fiscal year that meets the requirements under this section, and that the Governor and the Oversight Board certify that the fiscal plan 1 1 So in original. Probably should be “Fiscal Plan”. reflects a consensus between the Governor and the Oversight Board, then such Fiscal Plan shall serve as the Fiscal Plan for the territory or territorial instrumentality for that fiscal year.

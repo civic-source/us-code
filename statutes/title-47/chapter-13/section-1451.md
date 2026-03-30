@@ -3,9 +3,9 @@ title: "Section 1451 - Deadlines for auction of certain spectrum"
 usc_title: 47
 usc_section: "1451"
 chapter: 13
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "47 U.S.C. § 1451"
-generated_at: "2026-03-30T06:29:58.984Z"
+generated_at: "2026-03-30T06:31:51.285Z"
 status: "active"
 ---
 

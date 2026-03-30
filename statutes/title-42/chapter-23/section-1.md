@@ -3,9 +3,9 @@ title: "Section 1 - Sale of Corporation"
 usc_title: 42
 usc_section: "1"
 chapter: 23
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T06:29:55.913Z"
+generated_at: "2026-03-30T06:31:47.732Z"
 status: "active"
 ---
 

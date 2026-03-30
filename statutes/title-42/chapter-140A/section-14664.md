@@ -1,15 +1,13 @@
 ---
-title: "Section 14664 - Authorization of appropriations"
+title: "Section 14664 - Omitted"
 usc_title: 42
 usc_section: "14664"
 chapter: 140
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14664"
-generated_at: "2026-03-30T06:29:56.213Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.039Z"
+status: "omitted"
 ---
 
-# § 14664. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this chapter $2,000,000 for each of fiscal years 2000, 2001, and 2002.
+# § 14664. Omitted
 

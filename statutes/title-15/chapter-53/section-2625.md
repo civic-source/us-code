@@ -3,9 +3,9 @@ title: "Section 2625 - Administration"
 usc_title: 15
 usc_section: "2625"
 chapter: 53
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "15 U.S.C. § 2625"
-generated_at: "2026-03-30T06:29:07.191Z"
+generated_at: "2026-03-30T06:30:39.907Z"
 status: "active"
 ---
 
@@ -113,4 +113,4 @@ status: "active"
 - **(p)**
   - **(1)** Nothing in the Frank R. Lautenberg Chemical Safety for the 21st Century Act eliminates, modifies, or withdraws any rule promulgated, order issued, or exemption established pursuant to this chapter before June 22, 2016 .
   - **(2)** Nothing in this chapter prevents the Administrator from initiating a risk evaluation regarding a chemical substance, or from continuing or completing such risk evaluation, prior to the effective date of the policies, procedures, and guidance required to be developed by the Administrator pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
-  - **(3)** Nothing in this chapter requires the Administrator to revise or withdraw a completed risk evaluation, determination, or rule under this Act solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
+  - **(3)** Nothing in this chapter requires the Administrator to revise or withdraw a completed risk evaluation, determination, or rule under this chapter solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.

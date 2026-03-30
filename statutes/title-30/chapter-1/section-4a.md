@@ -3,9 +3,9 @@ title: "Section 4a - Omitted"
 usc_title: 30
 usc_section: "4a"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "30 U.S.C. § 4a"
-generated_at: "2026-03-30T06:29:24.658Z"
+generated_at: "2026-03-30T06:31:03.701Z"
 status: "omitted"
 ---
 

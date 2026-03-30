@@ -3,9 +3,9 @@ title: "Section 798 - Disclosure of classified information"
 usc_title: 18
 usc_section: "798"
 chapter: 37
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "18 U.S.C. § 798"
-generated_at: "2026-03-30T06:29:13.585Z"
+generated_at: "2026-03-30T06:30:46.688Z"
 status: "active"
 ---
 
@@ -27,5 +27,5 @@ status: "active"
     - **(A)** property subject to forfeiture under this subsection;
     - **(B)** any seizure or disposition of such property; and
     - **(C)** any administrative or judicial proceeding in relation to such property,
-  - **(4)** Notwithstanding section 524(c) of title 28 , there shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 ( 42 U.S.C. 10601 ) all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
+  - **(4)** Notwithstanding section 524(c) of title 28 , there shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 ( 42 U.S.C. 10601 ) 1 1 See References in Text note below. all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
   - **(5)** As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.

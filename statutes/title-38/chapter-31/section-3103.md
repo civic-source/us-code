@@ -3,9 +3,9 @@ title: "Section 3103 - Periods of eligibility"
 usc_title: 38
 usc_section: "3103"
 chapter: 31
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "38 U.S.C. § 3103"
-generated_at: "2026-03-30T06:29:41.057Z"
+generated_at: "2026-03-30T06:31:31.153Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ status: "active"
 - **(e)**
   - **(1)** The limitation in subsection (a) shall not apply to a rehabilitation program described in paragraph (2).
   - **(2)** A rehabilitation program described in this paragraph is a rehabilitation program pursued by a veteran under section 3102(b) of this title .
-- **(f)** In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.
+- **(f)** In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.

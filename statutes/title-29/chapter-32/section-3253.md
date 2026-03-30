@@ -3,9 +3,9 @@ title: "Section 3253 - Continuation of State activities and policies"
 usc_title: 29
 usc_section: "3253"
 chapter: 32
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "29 U.S.C. § 3253"
-generated_at: "2026-03-30T06:29:26.563Z"
+generated_at: "2026-03-30T06:31:05.474Z"
 status: "active"
 ---
 

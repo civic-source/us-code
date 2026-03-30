@@ -3,9 +3,9 @@ title: "Section 276aa - Establishment of the Kermit Roosevelt fund; creation and
 usc_title: 22
 usc_section: "276aa"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 276aa"
-generated_at: "2026-03-30T06:29:22.359Z"
+generated_at: "2026-03-30T06:30:58.315Z"
 status: "active"
 ---
 

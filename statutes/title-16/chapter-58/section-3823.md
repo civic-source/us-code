@@ -3,9 +3,9 @@ title: "Section 3823 - Affiliated persons"
 usc_title: 16
 usc_section: "3823"
 chapter: 58
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 3823"
-generated_at: "2026-03-30T06:29:15.796Z"
+generated_at: "2026-03-30T06:30:49.831Z"
 status: "active"
 ---
 

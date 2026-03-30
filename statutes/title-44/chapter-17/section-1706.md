@@ -3,9 +3,9 @@ title: "Section 1706 - Printing and sale of extra copies of documents"
 usc_title: 44
 usc_section: "1706"
 chapter: 17
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "44 U.S.C. § 1706"
-generated_at: "2026-03-30T06:29:44.005Z"
+generated_at: "2026-03-30T06:31:33.022Z"
 status: "active"
 ---
 

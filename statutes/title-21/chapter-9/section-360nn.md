@@ -3,9 +3,9 @@ title: "Section 360nn - Inspection, records, and reports"
 usc_title: 21
 usc_section: "360nn"
 chapter: 9
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "21 U.S.C. § 360nn"
-generated_at: "2026-03-30T06:29:20.155Z"
+generated_at: "2026-03-30T06:30:54.307Z"
 status: "active"
 ---
 

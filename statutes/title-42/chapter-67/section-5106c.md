@@ -3,9 +3,9 @@ title: "Section 5106c - Grants to States for programs relating to investigation 
 usc_title: 42
 usc_section: "5106c"
 chapter: 67
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5106c"
-generated_at: "2026-03-30T06:29:55.981Z"
+generated_at: "2026-03-30T06:31:47.794Z"
 status: "active"
 ---
 
@@ -48,4 +48,4 @@ status: "active"
   - **(2)** As determined by the Secretary, a State shall be considered to be in fulfillment of the requirements of this subsection if—
     - **(A)** the State adopts an alternative to the recommendations of the State task force, which carries out the purpose of this section, in each of the categories under paragraph (1) for which the State task force’s recommendations are not adopted; or
     - **(B)** the State is making substantial progress toward adopting recommendations of the State task force or a comparable alternative to such recommendations.
-- **(f)** For grants under this section, the Secretary shall use the amount authorized by section 10603a of this title .
+- **(f)** For grants under this section, the Secretary shall use the amount authorized by section 20104 of title 34 .

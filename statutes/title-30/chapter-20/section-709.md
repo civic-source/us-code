@@ -3,9 +3,9 @@ title: "Section 709 - Disposition of payments and fees"
 usc_title: 30
 usc_section: "709"
 chapter: 20
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "30 U.S.C. § 709"
-generated_at: "2026-03-30T06:29:24.669Z"
+generated_at: "2026-03-30T06:31:03.719Z"
 status: "active"
 ---
 

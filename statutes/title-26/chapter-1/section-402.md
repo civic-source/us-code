@@ -3,9 +3,9 @@ title: "Section 402 - Taxability of beneficiary of employees’ trust"
 usc_title: 26
 usc_section: "402"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "26 U.S.C. § 402"
-generated_at: "2026-03-30T06:29:33.200Z"
+generated_at: "2026-03-30T06:31:16.953Z"
 status: "active"
 ---
 
@@ -170,7 +170,7 @@ status: "active"
   - **(4)** For purposes of this subsection—
     - **(A)** For purposes of paragraph (1), the term “eligible retirement plan” means a governmental plan (within the meaning of section 414(d)) which is described in clause (iii), (iv), (v), or (vi) of subsection (c)(8)(B).
     - **(B)** The term “eligible retired public safety officer” means an individual who, by reason of disability or attainment of normal retirement age, is separated from service as a public safety officer with the employer who maintains the eligible retirement plan from which distributions subject to paragraph (1) are made.
-    - **(C)** The term “public safety officer” shall have the same meaning given such term by section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796b(9)(A) ), as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013.
+    - **(C)** The term “public safety officer” shall have the same meaning given such term by section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796b(9)(A) ), 1 as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013.
     - **(D)** The term “qualified health insurance premiums” means premiums for coverage for the eligible retired public safety officer, his spouse, and dependents (as defined in section 152), by an accident or health plan or qualified long-term care insurance contract (as defined in section 7702B(b)).
   - **(5)** For purposes of this subsection—
     - **(A)** Paragraph (1) shall only apply to a distribution if payment of the premiums is made directly to the provider of the accident or health plan or qualified long-term care insurance contract by deduction from a distribution from the eligible retirement plan.

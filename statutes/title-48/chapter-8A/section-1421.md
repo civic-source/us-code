@@ -3,9 +3,9 @@ title: "Section 1421 - Territory included under name Guam"
 usc_title: 48
 usc_section: "1421"
 chapter: 8
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "48 U.S.C. § 1421"
-generated_at: "2026-03-30T06:29:59.766Z"
+generated_at: "2026-03-30T06:31:50.863Z"
 status: "active"
 ---
 

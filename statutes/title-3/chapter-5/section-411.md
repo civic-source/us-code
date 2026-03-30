@@ -3,9 +3,9 @@ title: "Section 411 - Rights and protections under title VII of the Civil Rights
 usc_title: 3
 usc_section: "411"
 chapter: 5
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "3 U.S.C. § 411"
-generated_at: "2026-03-30T06:28:46.927Z"
+generated_at: "2026-03-30T06:30:17.924Z"
 status: "active"
 ---
 

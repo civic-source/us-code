@@ -3,9 +3,9 @@ title: "Section 20945 - Powers of Boards; no compensation for service"
 usc_title: 52
 usc_section: "20945"
 chapter: 209
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "52 U.S.C. § 20945"
-generated_at: "2026-03-30T06:30:05.730Z"
+generated_at: "2026-03-30T06:31:56.836Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 796 - Registry of disaster response contractors"
 usc_title: 6
 usc_section: "796"
 chapter: 2
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "6 U.S.C. § 796"
-generated_at: "2026-03-30T06:28:51.117Z"
+generated_at: "2026-03-30T06:30:23.483Z"
 status: "active"
 ---
 

@@ -1,14 +1,15 @@
 ---
-title: "Section 10553 - Annual report to Congress; grant accountability"
+title: "Section 10553 - Annual report to Congress"
 usc_title: 34
 usc_section: "10553"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 10553"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-03-30T06:31:20.882Z"
+status: "active"
 ---
 
-# § 10553. Annual report to Congress; grant accountability
+# § 10553. Annual report to Congress
 
-- **(a)** Not later than November 30th of each year, the COPS Director and the BJA Director shall each submit a report to the Congress regarding the activities carried out under this subchapter. Each such report shall include, for the preceding fiscal year, the number of grants funded under this subchapter, the amount of funds provided under those grants, and the activities for which those funds were used.
-- **(b)** Section 10706 of this title (relating to grant accountability) shall apply to grants awarded by the COPS Director and the BJA Director under this subchapter. For purposes of the preceding sentence, any references in section 10706 of this title to the Attorney General shall be considered references to the COPS Director or the BJA Director, as appropriate, and any references in that section to subchapter XXXVIII shall be considered references to this subchapter.
+Not later than November 30th of each year, the Director shall submit a report to the Congress regarding the activities carried out under this subchapter. Each such report shall include, for the preceding fiscal year, the number of grants funded under this subchapter, the amount of funds provided under those grants, and the activities for which those funds were used.
+

@@ -3,9 +3,9 @@ title: "Section 8204 - Uniform standards for surplus lines eligibility"
 usc_title: 15
 usc_section: "8204"
 chapter: 108
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "15 U.S.C. § 8204"
-generated_at: "2026-03-30T06:29:07.233Z"
+generated_at: "2026-03-30T06:30:39.956Z"
 status: "active"
 ---
 

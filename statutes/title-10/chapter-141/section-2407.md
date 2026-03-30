@@ -3,9 +3,9 @@ title: "Section 2407 - Renumbered § 2350b]"
 usc_title: 10
 usc_section: "2407"
 chapter: 141
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 2407"
-generated_at: "2026-03-30T06:28:59.995Z"
+generated_at: "2026-03-30T06:30:31.962Z"
 status: "renumbered"
 ---
 

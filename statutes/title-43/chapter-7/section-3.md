@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 92–203 , § 18(a), Dec. 18, 1971 , 85 St
 usc_title: 43
 usc_section: "3"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-30T06:29:43.489Z"
+generated_at: "2026-03-30T06:31:33.853Z"
 status: "repealed"
 ---
 

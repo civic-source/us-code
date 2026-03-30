@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 30
 usc_section: "802"
 chapter: 22
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "30 U.S.C. § 802"
-generated_at: "2026-03-30T06:29:24.669Z"
+generated_at: "2026-03-30T06:31:03.719Z"
 status: "active"
 ---
 

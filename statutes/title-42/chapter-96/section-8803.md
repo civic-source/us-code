@@ -3,9 +3,9 @@ title: "Section 8803 - Funding"
 usc_title: 42
 usc_section: "8803"
 chapter: 96
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 8803"
-generated_at: "2026-03-30T06:29:56.098Z"
+generated_at: "2026-03-30T06:31:47.929Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** $460,000,000 to the Secretary of Agriculture for carrying out activities under subchapter I, except of the amount of the financial assistance provided by the Secretary of Agriculture under subchapter I, up to one-third shall be for small-scale biomass energy projects;
   - **(2)** $460,000,000 to the Secretary of Energy for carrying out biomass energy activities under subchapter I, of which at least $500,000,000 1 1 So in original. Pub. L. 97–35 decreased appropriation to $460,000,000 from $600,000,000 without amending sum of $500,000,000. shall be available to the Office of Alcohol Fuels for carrying out its activities, and any amount not made available to the Office of Alcohol Fuels shall be available to the Secretary to carry out the purposes of subchapter I under available authorities of the Secretary, including authorities under subchapter I; and
   - **(3)** $250,000,000 shall be available to the Secretary of Energy for carrying out activities under subchapter II.
-- **(b)** Funds made available under subsection (a) of this section shall remain available until expended.
+- **(b)** Funds made available under subsection (a) shall remain available until expended.
 - **(c)**
   - **(1)** For purposes of determining the amount of such appropriations which remain available for purposes of this chapter—
     - **(A)** loans shall be counted at the initial face value of the loan;

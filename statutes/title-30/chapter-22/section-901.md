@@ -3,9 +3,9 @@ title: "Section 901 - Congressional findings and declaration of purpose; short t
 usc_title: 30
 usc_section: "901"
 chapter: 22
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "30 U.S.C. § 901"
-generated_at: "2026-03-30T06:29:24.673Z"
+generated_at: "2026-03-30T06:31:03.727Z"
 status: "active"
 ---
 

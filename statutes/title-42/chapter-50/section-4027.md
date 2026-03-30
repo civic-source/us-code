@@ -3,9 +3,9 @@ title: "Section 4027 - Biennial report to President"
 usc_title: 42
 usc_section: "4027"
 chapter: 50
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 4027"
-generated_at: "2026-03-30T06:29:55.962Z"
+generated_at: "2026-03-30T06:31:47.771Z"
 status: "active"
 ---
 

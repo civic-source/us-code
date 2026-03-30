@@ -3,9 +3,9 @@ title: "Section 283j - Repealed. Pub. L. 114–255, div. A, title II , § 2042(f
 usc_title: 42
 usc_section: "283j"
 chapter: 6
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 283j"
-generated_at: "2026-03-30T06:29:55.569Z"
+generated_at: "2026-03-30T06:31:47.189Z"
 status: "repealed"
 ---
 

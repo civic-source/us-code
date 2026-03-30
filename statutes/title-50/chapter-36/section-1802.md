@@ -3,9 +3,9 @@ title: "Section 1802 - Electronic surveillance authorization without court order
 usc_title: 50
 usc_section: "1802"
 chapter: 36
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "50 U.S.C. § 1802"
-generated_at: "2026-03-30T06:30:01.857Z"
+generated_at: "2026-03-30T06:31:53.116Z"
 status: "active"
 ---
 

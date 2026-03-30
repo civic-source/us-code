@@ -3,9 +3,9 @@ title: "Section 12148 - Public transportation programs and activities in existin
 usc_title: 42
 usc_section: "12148"
 chapter: 126
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 12148"
-generated_at: "2026-03-30T06:29:56.157Z"
+generated_at: "2026-03-30T06:31:47.995Z"
 status: "active"
 ---
 

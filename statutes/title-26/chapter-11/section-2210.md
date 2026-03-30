@@ -3,9 +3,9 @@ title: "Section 2210 - Repealed. Pub. L. 111–312, title III , § 301(a), Dec. 
 usc_title: 26
 usc_section: "2210"
 chapter: 11
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "26 U.S.C. § 2210"
-generated_at: "2026-03-30T06:29:33.293Z"
+generated_at: "2026-03-30T06:31:17.107Z"
 status: "repealed"
 ---
 

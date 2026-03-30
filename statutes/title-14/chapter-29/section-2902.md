@@ -3,9 +3,9 @@ title: "Section 2902 - Capital investment plan"
 usc_title: 14
 usc_section: "2902"
 chapter: 29
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "14 U.S.C. § 2902"
-generated_at: "2026-03-30T06:29:02.097Z"
+generated_at: "2026-03-30T06:30:34.354Z"
 status: "active"
 ---
 

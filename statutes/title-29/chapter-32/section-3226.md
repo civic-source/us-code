@@ -3,9 +3,9 @@ title: "Section 3226 - YouthBuild program"
 usc_title: 29
 usc_section: "3226"
 chapter: 32
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "29 U.S.C. § 3226"
-generated_at: "2026-03-30T06:29:26.561Z"
+generated_at: "2026-03-30T06:31:05.471Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(G)** a community development corporation;
     - **(H)** a State or local youth service or conservation corps; and
     - **(I)** any other entity eligible to provide education or employment training under a Federal program (other than the program carried out under this section).
-  - **(4)** The term “homeless individual” means a homeless individual (as defined in section 14043e–2(6) of title 42 ) or a homeless child or youth (as defined in section 11434a(2) of title 42 ).
+  - **(4)** The term “homeless individual” means a homeless individual (as defined in section 12473(6) of title 34 ) or a homeless child or youth (as defined in section 11434a(2) of title 42 ).
   - **(5)** The term “housing development agency” means any agency of a State or local government, or any private nonprofit organization, that is engaged in providing housing for homeless individuals or low-income families.
   - **(6)** The term “income” has the meaning given the term in section 1437a(b) of title 42 .
   - **(7)** The terms “Indian” and “Indian tribe” have the meanings given such terms in section 5304 of title 25 .

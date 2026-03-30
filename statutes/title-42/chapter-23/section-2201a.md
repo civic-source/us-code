@@ -3,9 +3,9 @@ title: "Section 2201a - Use of firearms by security personnel"
 usc_title: 42
 usc_section: "2201a"
 chapter: 23
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 2201a"
-generated_at: "2026-03-30T06:29:55.908Z"
+generated_at: "2026-03-30T06:31:47.724Z"
 status: "active"
 ---
 
@@ -21,5 +21,5 @@ status: "active"
       - **(i)** a facility owned or operated by a licensee or certificate holder of the Commission that is designated by the Commission; or
       - **(ii)** radioactive material or other property owned or possessed by a licensee or certificate holder of the Commission, or that is being transported to or from a facility owned or operated by such a licensee or certificate holder, and that has been determined by the Commission to be of significance to the common defense and security or public health and safety; and
     - **(D)** are discharging the official duties of the security personnel in transferring, receiving, possessing, transporting, or importing the weapons, ammunition, or devices.
-- **(c)** A person that receives, possesses, transports, imports, or uses a weapon, ammunition, or a device under subsection (b) shall be subject to a background check by the Attorney General, based on fingerprints and including a background check under section 103(b) of the Brady Handgun Violence Prevention Act ( Public Law 103–159 ; 18 U.S.C. 922 note) to determine whether the person is prohibited from possessing or receiving a firearm under Federal or State law.
+- **(c)** A person that receives, possesses, transports, imports, or uses a weapon, ammunition, or a device under subsection (b) shall be subject to a background check by the Attorney General, based on fingerprints and including a background check under section 103(b) of the Brady Handgun Violence Prevention Act ( Public Law 103–159 ; 18 U.S.C. 922 note) 1 1 See References in Text note below. to determine whether the person is prohibited from possessing or receiving a firearm under Federal or State law.
 - **(d)** This section takes effect on the date on which guidelines are issued by the Commission, with the approval of the Attorney General, to carry out this section.

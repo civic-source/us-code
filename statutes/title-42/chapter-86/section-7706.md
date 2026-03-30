@@ -3,9 +3,9 @@ title: "Section 7706 - Authorization of appropriations"
 usc_title: 42
 usc_section: "7706"
 chapter: 86
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 7706"
-generated_at: "2026-03-30T06:29:56.084Z"
+generated_at: "2026-03-30T06:31:47.912Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
     - **(C)** $500,000 for prediction response planning,
     - **(D)** $600,000 for architectural and engineering planning and practice programs,
     - **(E)** $1,000,000 for development and application of a public education program,
-    - **(F)** $3,000,000 for use by the National Science Foundation in addition to the amount authorized to be appropriated under subsection (c) of this section, which amount includes $2,400,000 for earthquake policy research and $600,000 for the strong ground motion element of the siting program, and
-    - **(G)** $1,000,000 for use by the Center for Building Technology, National Institute of Standards and Technology in addition to the amount authorized to be appropriated under subsection (d) of this section for earthquake activities in the Center.
+    - **(F)** $3,000,000 for use by the National Science Foundation in addition to the amount authorized to be appropriated under subsection (c), which amount includes $2,400,000 for earthquake policy research and $600,000 for the strong ground motion element of the siting program, and
+    - **(G)** $1,000,000 for use by the Center for Building Technology, National Institute of Standards and Technology in addition to the amount authorized to be appropriated under subsection (d) for earthquake activities in the Center.
   - **(3)** There are authorized to be appropriated to the Director for the fiscal year ending September 30, 1982 , $2,000,000 to carry out the provisions of sections 7704 and 7705 1 of this title.
   - **(4)** There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 1 of this title, $1,281,000 for the fiscal year ending September 30, 1983 .
   - **(5)** There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 1 of this title, for the fiscal year ending September 30, 1984 , $3,705,000, and for the fiscal year ending September 30, 1985 , $6,096,000.

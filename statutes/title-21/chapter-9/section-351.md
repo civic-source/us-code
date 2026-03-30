@@ -3,9 +3,9 @@ title: "Section 351 - Adulterated drugs and devices"
 usc_title: 21
 usc_section: "351"
 chapter: 9
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "21 U.S.C. § 351"
-generated_at: "2026-03-30T06:29:20.137Z"
+generated_at: "2026-03-30T06:30:54.282Z"
 status: "active"
 ---
 

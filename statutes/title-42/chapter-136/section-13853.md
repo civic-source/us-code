@@ -1,15 +1,13 @@
 ---
-title: "Section 13853 - Prohibition"
+title: "Section 13853 - Transferred"
 usc_title: 42
 usc_section: "13853"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13853"
-generated_at: "2026-03-30T06:29:56.198Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 13853. Prohibition
-
-None of the funds authorized under this part shall be used to finance the construction of housing.
+# § 13853. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 2420 - Police training prohibition"
 usc_title: 22
 usc_section: "2420"
 chapter: 32
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 2420"
-generated_at: "2026-03-30T06:29:22.408Z"
+generated_at: "2026-03-30T06:30:58.392Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** On and after July 1, 1975 , none of the funds made available to carry out this chapter, and none of the local currencies generated under this chapter, shall be used to provide training or advice, or provide any financial support, for police, prisons, or other law enforcement forces for any foreign government or any program of internal intelligence or surveillance on behalf of any foreign government within the United States or abroad.
 - **(b)** Subsection (a) of this section shall not apply—
-  - **(1)** with respect to assistance rendered under section 3763(c) 1 1 See References in Text note below. of title 42, with respect to any authority of the Drug Enforcement Administration or the Federal Bureau of Investigation which relates to crimes of the nature which are unlawful under the laws of the United States, or with respect to assistance authorized under section 2291a of this title ;
+  - **(1)** with respect to assistance rendered under section 515(c) of the Omnibus Crime Control and Safe Streets Act of 1968, 1 1 See References in Text note below. with respect to any authority of the Drug Enforcement Administration or the Federal Bureau of Investigation which relates to crimes of the nature which are unlawful under the laws of the United States, or with respect to assistance authorized under section 2291a of this title ;
   - **(2)** to any contract entered into prior to December 30, 1974 , with any person, organization, or agency of the United States Government to provide personnel to conduct, or assist in conducting, any such program;
   - **(3)** with respect to assistance, including training, in maritime law enforcement and other maritime skills;
   - **(4)** with respect to assistance provided to police forces in connection with their participation in the regional security system of the Eastern Caribbean states; or 2 2 So in original. The word “or” probably should appear at end of par. (6).

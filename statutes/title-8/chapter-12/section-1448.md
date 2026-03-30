@@ -3,9 +3,9 @@ title: "Section 1448 - Oath of renunciation and allegiance"
 usc_title: 8
 usc_section: "1448"
 chapter: 12
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "8 U.S.C. § 1448"
-generated_at: "2026-03-30T06:28:51.758Z"
+generated_at: "2026-03-30T06:30:23.095Z"
 status: "active"
 ---
 

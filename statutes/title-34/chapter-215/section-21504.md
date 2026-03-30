@@ -3,9 +3,10 @@ title: "Section 21504 - Notification by the United States Marshals Service"
 usc_title: 34
 usc_section: "21504"
 chapter: 215
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 21504"
-generated_at: "2026-03-30T02:55:33.304Z"
+generated_at: "2026-03-30T06:31:20.921Z"
+status: "active"
 ---
 
 # § 21504. Notification by the United States Marshals Service

@@ -1,26 +1,13 @@
 ---
-title: "Section 16915a - Direction to the Attorney General"
+title: "Section 16915a - Transferred"
 usc_title: 42
 usc_section: "16915a"
 chapter: 151
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 16915a"
-generated_at: "2026-03-30T06:29:56.241Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.067Z"
+status: "transferred"
 ---
 
-# § 16915a. Direction to the Attorney General
+# § 16915a. Transferred
 
-- **(a)** The Attorney General, using the authority provided in section 114(a)(7) 1 1 See References in Text note below. of the Sex Offender Registration and Notification Act [ 42 U.S.C. 16914(a)(7) ], shall require that each sex offender provide to the sex offender registry those Internet identifiers the sex offender uses or will use of any type that the Attorney General determines to be appropriate under that Act [ 42 U.S.C. 16901 et seq.]. These records of Internet identifiers shall be subject to the Privacy Act ( 5 U.S.C. 552a ) to the same extent as the other records in the National Sex Offender Registry.
-- **(b)** The Attorney General, using the authority provided in section 112(b) of the Sex Offender Registration and Notification Act [ 42 U.S.C. 16912(b) ], shall specify the time and manner for keeping current information required to be provided under this section.
-- **(c)** The Attorney General, using the authority provided in section 118(b)(4) of the Sex Offender Registration and Notification Act [ 42 U.S.C. 16918(b)(4) ], shall exempt from disclosure all information provided by a sex offender under subsection (a).
-- **(d)** The Attorney General shall ensure that procedures are in place to notify each sex offender of changes in requirements that apply to that sex offender as a result of the implementation of this section.
-- **(e)**
-  - **(1)** As used in this Act, the term “social networking website”—
-    - **(A)** means an Internet website—
-      - **(i)** that allows users, through the creation of web pages or profiles or by other means, to provide information about themselves that is available to the public or to other users; and
-      - **(ii)** that offers a mechanism for communication with other users where such users are likely to include a substantial number of minors; and
-      - **(iii)** whose primary purpose is to facilitate online social interactions; and
-    - **(B)** includes any contractors or agents used by the website to act on behalf of the website in carrying out the purposes of this Act.
-  - **(2)** As used in this Act, the term “Internet identifiers” means electronic mail addresses and other designations used for self-identification or routing in Internet communication or posting.
-  - **(3)** A term defined for the purposes of the Sex Offender Registration and Notification Act [ 42 U.S.C. 16901 et seq.] has the same meaning in this Act.

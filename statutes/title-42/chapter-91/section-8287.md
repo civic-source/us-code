@@ -3,9 +3,9 @@ title: "Section 8287 - Authority to enter into contracts"
 usc_title: 42
 usc_section: "8287"
 chapter: 91
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 8287"
-generated_at: "2026-03-30T06:29:56.092Z"
+generated_at: "2026-03-30T06:31:47.922Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** Aggregate annual payments by an agency to both utilities and energy savings performance contractors, under an energy savings performance contract, may not exceed the amount that the agency would have paid for utilities without an energy savings performance contract (as estimated through the procedures developed pursuant to this section) during contract years. The contract shall provide for a guarantee of savings to the agency, and shall establish payment schedules reflecting such guarantee, taking into account any capital costs under the contract.
     - **(C)** Federal agencies may incur obligations pursuant to such contracts to finance energy conservation measures provided guaranteed savings exceed the debt service requirements.
     - **(D)** A Federal agency may enter into a multiyear contract under this subchapter for a period not to exceed 25 years beginning on the date of the delivery order, without funding of cancellation charges before cancellation, if—
-      - **(i)** such contract was awarded in a competitive manner pursuant to subsection (b)(2) of this section, using procedures and methods established under this subchapter;
+      - **(i)** such contract was awarded in a competitive manner pursuant to subsection (b)(2), using procedures and methods established under this subchapter;
       - **(ii)** funds are available and adequate for payment of the costs of such contract for the first fiscal year; and
       - **(iii)** such contract is governed by part 17.1 of the Federal Acquisition Regulation promulgated under section 1303 of title 41 or the applicable rules promulgated under this subchapter.
     - **(E)** In carrying out a contract under this subchapter, a Federal agency may use any combination of—

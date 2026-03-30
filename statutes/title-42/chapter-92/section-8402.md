@@ -3,9 +3,9 @@ title: "Section 8402 - Loans to assist powerplant acquisitions of air pollution 
 usc_title: 42
 usc_section: "8402"
 chapter: 92
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 8402"
-generated_at: "2026-03-30T06:29:56.094Z"
+generated_at: "2026-03-30T06:31:47.925Z"
 status: "active"
 ---
 
@@ -38,11 +38,11 @@ status: "active"
 - **(e)**
   - **(1)** The Secretary shall require all persons receiving financial assistance under this section to keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance was given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
   - **(2)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the later of—
-    - **(A)** the expiration of 3 years after completion of the project or undertaking referred to in subsection (a) of this section, or
+    - **(A)** the expiration of 3 years after completion of the project or undertaking referred to in subsection (a), or
     - **(B)** full repayment of interest and principal on a loan made under this section, occurs,
 - **(f)**
   - **(1)** If there is a default in any payment by the obligor of interest or principal due under a loan entered into by the Secretary under this section and such default has continued for 90 days, the Secretary has the right to demand payment of such unpaid amount, unless the Secretary finds that such default has been rem­edied, or a satisfactory plan to remedy such default by the obligor has been accepted by the Secretary.
   - **(2)** In demanding payment of unpaid interest or principal by the obligor, the Secretary has all rights specified in the loan-related agreements with respect to any security which he held with respect to the loan, including the authority to complete, maintain, operate, lease, sell, or otherwise dispose of any property acquired pursuant to such loan or related agreements.
   - **(3)** If there is a default under any loan, the Secretary shall notify the Attorney General who shall take such action against the obligator or other parties liable thereunder as is, in his discretion, necessary to protect the interests of the United States. The holder of such loan shall make available to the United States all records and evidence necessary to prosecute any such suit.
 - **(g)** Amounts received by the Secretary as principal, interest, fees, proceeds from security acquired following default, or other amounts received by the Secretary in connection with loans made under this section shall be paid into the Treasury of the United States as miscellaneous receipts.
-- **(h)** There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to carry out the purposes of this section, but not to exceed $400,000,000 for fiscal year 1979 and $400,000,000 for fiscal year 1980. Authority granted to the Secretary under subsection (a) of this section may be exercised only to the extent as may be provided in advance in appropriation Acts.
+- **(h)** There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to carry out the purposes of this section, but not to exceed $400,000,000 for fiscal year 1979 and $400,000,000 for fiscal year 1980. Authority granted to the Secretary under subsection (a) may be exercised only to the extent as may be provided in advance in appropriation Acts.

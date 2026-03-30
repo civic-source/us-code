@@ -3,9 +3,9 @@ title: "Section 76b - Functions of Regents"
 usc_title: 20
 usc_section: "76b"
 chapter: 3
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "20 U.S.C. § 76b"
-generated_at: "2026-03-30T06:29:12.625Z"
+generated_at: "2026-03-30T06:30:45.491Z"
 status: "active"
 ---
 

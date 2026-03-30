@@ -3,9 +3,9 @@ title: "Section 19a - Electronic health record reporting program"
 usc_title: 42
 usc_section: "19a"
 chapter: 6
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 19a"
-generated_at: "2026-03-30T06:29:55.658Z"
+generated_at: "2026-03-30T06:31:47.288Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
     - **(B)** hospitals and hospital systems; and
     - **(C)** patients, consumers, and patient and consumer advocates.
   - **(4)**
-    - **(A)** Not later than 4 years after December 13, 2016 and every 2 years thereafter, the Secretary, in consultation with stakeholders, shall—
+    - **(A)** Not later than 4 years after December 13, 2016 , and every 2 years thereafter, the Secretary, in consultation with stakeholders, shall—
       - **(i)** assess performance of the recipients of the grants, contracts, and agreements under paragraph (1) based on quality and usability of reports described in paragraph (6); and
       - **(ii)** re-determine grants, contracts, and agreements as necessary.
     - **(B)** The Secretary may not award a grant, contract, or cooperative agreement under paragraph (1) to—

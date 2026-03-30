@@ -3,9 +3,9 @@ title: "Section 282d - Transferred"
 usc_title: 42
 usc_section: "282d"
 chapter: 6
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 282d"
-generated_at: "2026-03-30T06:29:55.568Z"
+generated_at: "2026-03-30T06:31:47.188Z"
 status: "transferred"
 ---
 

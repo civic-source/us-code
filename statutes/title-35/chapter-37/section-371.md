@@ -3,9 +3,9 @@ title: "Section 371 - National stage: Commencement"
 usc_title: 35
 usc_section: "371"
 chapter: 37
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "35 U.S.C. § 371"
-generated_at: "2026-03-30T06:29:35.113Z"
+generated_at: "2026-03-30T06:31:19.606Z"
 status: "active"
 ---
 

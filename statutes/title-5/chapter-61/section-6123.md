@@ -3,9 +3,9 @@ title: "Section 6123 - Flexible schedules; computation of premium pay"
 usc_title: 5
 usc_section: "6123"
 chapter: 61
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "5 U.S.C. § 6123"
-generated_at: "2026-03-30T06:28:49.122Z"
+generated_at: "2026-03-30T06:30:20.605Z"
 status: "active"
 ---
 

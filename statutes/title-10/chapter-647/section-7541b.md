@@ -3,9 +3,9 @@ title: "Section 7541b - Authority to make grants for purposes of Naval Sea Cadet
 usc_title: 10
 usc_section: "7541b"
 chapter: 647
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 7541b"
-generated_at: "2026-03-30T06:29:00.035Z"
+generated_at: "2026-03-30T06:30:32.018Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1092 - Institutional and financial assistance information for st
 usc_title: 20
 usc_section: "1092"
 chapter: 28
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "20 U.S.C. § 1092"
-generated_at: "2026-03-30T06:29:12.672Z"
+generated_at: "2026-03-30T06:30:45.543Z"
 status: "active"
 ---
 
@@ -163,7 +163,7 @@ status: "active"
     - **(C)** in coordination with representatives of institutions of higher education, identify exemplary campus security policies, procedures, and practices and disseminate information concerning those policies, procedures, and practices that have proven effective in the reduction of campus crime.
   - **(6)**
     - **(A)** In this subsection:
-      - **(i)** The terms “dating violence”, “domestic violence”, and “stalking” have the meaning given such terms in section 13925(a) of title 42 .
+      - **(i)** The terms “dating violence”, “domestic violence”, and “stalking” have the meaning given such terms in section 12291(a) of title 34 .
       - **(ii)** The term “campus” means—
         - **(I)** any building or property owned or controlled by an institution of higher education within the same reasonably contiguous geographic area of the institution and used by the institution in direct support of, or in a manner related to, the institution’s educational purposes, including residence halls; and
         - **(II)** property within the same reasonably contiguous geographic area of the institution that is owned by the institution but controlled by another person, is used by students, and supports institutional purposes (such as a food or other retail vendor).
@@ -173,7 +173,7 @@ status: "active"
       - **(iv)** The term “public property” means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by the institution if the facility is used by the institution in direct support of, or in a manner related to the institution’s educational purposes.
       - **(v)** The term “sexual assault” means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.
     - **(B)** In cases where branch campuses of an institution of higher education, schools within an institution of higher education, or administrative divisions within an institution are not within a reasonably contiguous geographic area, such entities shall be considered separate campuses for purposes of the reporting requirements of this section.
-  - **(7)** The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in section 13925(a) of title 42 . Such statistics shall not identify victims of crimes or persons accused of crimes.
+  - **(7)** The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in section 12291(a) of title 34 . Such statistics shall not identify victims of crimes or persons accused of crimes.
   - **(8)**
     - **(A)** Each institution of higher education participating in any program under this subchapter and title IV of the Economic Opportunity Act of 1964, 3 other than a foreign institution of higher education, shall develop and distribute as part of the report described in paragraph (1) a statement of policy regarding—
       - **(i)** such institution’s programs to prevent domestic violence, dating violence, sexual assault, and stalking; and

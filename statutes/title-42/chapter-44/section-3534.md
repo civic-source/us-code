@@ -3,9 +3,9 @@ title: "Section 3534 - Transfer of functions"
 usc_title: 42
 usc_section: "3534"
 chapter: 44
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3534"
-generated_at: "2026-03-30T06:29:55.938Z"
+generated_at: "2026-03-30T06:31:47.761Z"
 status: "active"
 ---
 

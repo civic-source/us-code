@@ -3,9 +3,9 @@ title: "Section 8291 - Repealed. Pub. L. 85–155, title IV , § 401(1), Aug. 21
 usc_title: 10
 usc_section: "8291"
 chapter: 835
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 8291"
-generated_at: "2026-03-30T06:29:00.038Z"
+generated_at: "2026-03-30T06:30:32.022Z"
 status: "repealed"
 ---
 

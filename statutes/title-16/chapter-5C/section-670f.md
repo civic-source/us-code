@@ -3,9 +3,9 @@ title: "Section 670f - Appropriations and expenditures"
 usc_title: 16
 usc_section: "670f"
 chapter: 5
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 670f"
-generated_at: "2026-03-30T06:29:15.704Z"
+generated_at: "2026-03-30T06:30:49.710Z"
 status: "active"
 ---
 

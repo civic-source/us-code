@@ -3,9 +3,9 @@ title: "Section 7912 - Processing site designations"
 usc_title: 42
 usc_section: "7912"
 chapter: 88
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 7912"
-generated_at: "2026-03-30T06:29:56.084Z"
+generated_at: "2026-03-30T06:31:47.913Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(B)** is determined by the Secretary to be contaminated with residual radioactive materials.
 - **(f)**
   - **(1)** Notwithstanding any other provision of law, the Moab uranium milling site (referred to in this subsection as the “Moab site”) located approximately three miles northwest of Moab, Utah, and identified in the Final Environmental Impact Statement issued by the Nuclear Regulatory Commission in March 1996 in conjunction with Source Materials License No. SUA–917, is designated as a processing site.
-  - **(2)** This subchapter applies to the Moab site in the same manner and to the same extent as to other processing sites designated under subsection (a) of this section, except that—
+  - **(2)** This subchapter applies to the Moab site in the same manner and to the same extent as to other processing sites designated under subsection (a), except that—
     - **(A)** sections 7913, 7914(b), 7917(a), 7922(a), and 7925(a) of this title shall not apply; and
     - **(B)** a reference in this subchapter to November 8, 1978 , shall be treated as a reference to October 30, 2000 .
   - **(3)** Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ( 10 U.S.C. 7420 note; Public Law 105–261 ), including—

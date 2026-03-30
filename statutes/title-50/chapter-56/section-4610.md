@@ -3,9 +3,9 @@ title: "Section 4610 - Violations"
 usc_title: 50
 usc_section: "4610"
 chapter: 56
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "50 U.S.C. § 4610"
-generated_at: "2026-03-30T06:30:01.914Z"
+generated_at: "2026-03-30T06:31:53.182Z"
 status: "active"
 ---
 

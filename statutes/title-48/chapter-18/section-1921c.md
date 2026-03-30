@@ -3,9 +3,9 @@ title: "Section 1921c - Interpretation of and United States policy regarding U.S
 usc_title: 48
 usc_section: "1921c"
 chapter: 18
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "48 U.S.C. § 1921c"
-generated_at: "2026-03-30T06:29:59.778Z"
+generated_at: "2026-03-30T06:31:50.876Z"
 status: "active"
 ---
 

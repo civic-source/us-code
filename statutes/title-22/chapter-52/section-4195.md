@@ -3,9 +3,9 @@ title: "Section 4195 - Repealed. Pub. L. 106–113, div. B , § 1000(a)(7) [div.
 usc_title: 22
 usc_section: "4195"
 chapter: 52
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 4195"
-generated_at: "2026-03-30T06:29:22.443Z"
+generated_at: "2026-03-30T06:30:58.452Z"
 status: "repealed"
 ---
 

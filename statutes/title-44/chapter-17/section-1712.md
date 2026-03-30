@@ -3,9 +3,9 @@ title: "Section 1712 - Documents for use of the Director of the Government Publi
 usc_title: 44
 usc_section: "1712"
 chapter: 17
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "44 U.S.C. § 1712"
-generated_at: "2026-03-30T06:29:44.005Z"
+generated_at: "2026-03-30T06:31:33.022Z"
 status: "active"
 ---
 

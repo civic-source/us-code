@@ -3,9 +3,9 @@ title: "Section 607 - Regulations"
 usc_title: 23
 usc_section: "607"
 chapter: 6
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "23 U.S.C. § 607"
-generated_at: "2026-03-30T06:29:18.472Z"
+generated_at: "2026-03-30T06:30:53.081Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2341 - Applicability of subchapter"
 usc_title: 42
 usc_section: "2341"
 chapter: 24
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 2341"
-generated_at: "2026-03-30T06:29:55.916Z"
+generated_at: "2026-03-30T06:31:47.735Z"
 status: "active"
 ---
 

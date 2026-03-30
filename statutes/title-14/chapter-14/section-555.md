@@ -3,9 +3,9 @@ title: "Section 555 - Parent partnerships with child development centers"
 usc_title: 14
 usc_section: "555"
 chapter: 14
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "14 U.S.C. § 555"
-generated_at: "2026-03-30T06:29:02.094Z"
+generated_at: "2026-03-30T06:30:34.351Z"
 status: "active"
 ---
 

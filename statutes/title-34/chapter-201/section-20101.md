@@ -3,9 +3,10 @@ title: "Section 20101 - Crime Victims Fund"
 usc_title: 34
 usc_section: "20101"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 20101"
-generated_at: "2026-03-30T02:55:33.292Z"
+generated_at: "2026-03-30T06:31:20.908Z"
+status: "active"
 ---
 
 # § 20101. Crime Victims Fund
@@ -23,16 +24,13 @@ generated_at: "2026-03-30T02:55:33.292Z"
       - **(iv)** county public school funds pursuant to section 3613 of title 18 ;
   - **(2)** penalty assessments collected under section 3013 of title 18 ; 1 1 See References in Text note below.
   - **(3)** the proceeds of forfeited appearance bonds, bail bonds, and collateral collected under section 3146 of title 18 ;
-  - **(4)** any money ordered to be paid into the Fund under section 3671(c)(2) of title 18 ;
+  - **(4)** any money ordered to be paid into the Fund under section 3671(c)(2) of title 18 ; and
   - **(5)** any gifts, bequests, or donations to the Fund from private entities or individuals, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
     - **(A)** attaches conditions inconsistent with applicable laws or regulations; or
-    - **(B)** is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime; and
-  - **(6)** any funds that would otherwise be deposited in the general fund of the Treasury collected pursuant to—
-    - **(A)** a deferred prosecution agreement; or
-    - **(B)** a non-prosecution agreement.
+    - **(B)** is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime.
 - **(c)** Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this subchapter for grants under this subchapter without fiscal year limitation. Notwithstanding subsection (d)(5), all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.
 - **(d)** The Fund shall be available as follows:
-  - **(1)** Repealed. Pub. L. 105–119, title I, § 109(a)(1) , Nov. 26, 1997 , 111 Stat. 2457 .
+  - **(1)** Repealed. Pub. L. 105–119, title I , § 109(a)(1), Nov. 26, 1997 , 111 Stat. 2457 .
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the first $10,000,000 deposited in the Fund shall be available for grants under section 20104 of this title .
     - **(B)**
@@ -51,10 +49,7 @@ generated_at: "2026-03-30T02:55:33.292Z"
     - **(A)** In addition to the amounts distributed under paragraphs (2), (3), and (4), the Director may set aside up to $50,000,000 from the amounts transferred to the Fund in response to the airplane hijackings and terrorist acts that occurred on September 11, 2001 , as an antiterrorism emergency reserve. The Director may replenish any amounts obligated from such reserve in subsequent fiscal years by setting aside up to 5 percent of the amounts remaining in the Fund in any fiscal year after distributing amounts under paragraphs (2), (3) and (4). Such reserve shall not exceed $50,000,000.
     - **(B)** The antiterrorism emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 20105 of this title and to provide compensation to victims of international terrorism under section 20106 of this title .
     - **(C)** Amounts in the antiterrorism emergency reserve established pursuant to subparagraph (A) may be carried over from fiscal year to fiscal year. Notwithstanding subsection (c) and section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (and any similar limitation on Fund obligations in any future Act, unless the same should expressly refer to this section), any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
-  - **(6)**
-    - **(A)** The Director may set aside up to $10,000,000 of the amounts remaining in the Fund in any fiscal year after distributing the amounts under paragraphs (2), (3), and (4), in a Child Pornography Victims Reserve, which may be used by the Attorney General for payments under section 2259(d) of title 18 .
-    - **(B)** Amounts in the reserve may be carried over from fiscal year to fiscal year, but the total amount of the reserve shall not exceed $10,000,000. Notwithstanding subsection (c) and any limitation on Fund obligations in any future Act, unless the same should expressly refer to this section, any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
-- **(e)** Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General. Any remaining unobligated sums shall be returned to the Fund.
+- **(e)** Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.
 - **(f)** As used in this section, the term “offenses against the United States” does not include—
   - **(1)** a criminal violation of the Uniform Code of Military Justice ( 10 U.S.C. 801 et seq.);
   - **(2)** an offense against the laws of the District of Columbia; and

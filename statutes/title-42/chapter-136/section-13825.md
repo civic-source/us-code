@@ -1,17 +1,13 @@
 ---
-title: "Section 13825 - Limitations on use of funds"
+title: "Section 13825 - Transferred"
 usc_title: 42
 usc_section: "13825"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13825"
-generated_at: "2026-03-30T06:29:56.198Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 13825. Limitations on use of funds
+# § 13825. Transferred
 
-- **(a)** Not to exceed 50 percent of the total amount to be invested by an entity under this subpart may be derived from funds made available from a line of credit under this subpart.
-- **(b)** Not to exceed 10 percent of the amounts available from a line of credit under this subpart shall be used for the provision of training or technical assistance and for the planning, development, and management of economic development projects. Community development corporations shall be encouraged by the Secretary to seek technical assistance from other community development corporations, with expertise in the planning, development and management of economic development projects. The Secretary shall assist in the identification and facilitation of such technical assistance.
-- **(c)** To receive funds available under a line of credit provided under this subpart, an entity, using procedures established by the Secretary, shall demonstrate to the community development corporation that such entity agrees to provide local and private sector contributions in accordance with section 13822(b)(2)(D) of this title , will participate with such community development corporation in a loan, guarantee or investment program for a designated business enterprise, and that the total financial commitment to be provided by such entity is at least equal to the amount to be drawn from the line of credit.
-- **(d)** Proceeds derived from investments made using funds made available under this subpart may be used only for the purposes described in section 13821 of this title and shall be reinvested in the community in which they were generated.

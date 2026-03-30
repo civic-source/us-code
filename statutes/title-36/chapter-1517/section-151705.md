@@ -3,9 +3,9 @@ title: "Section 151705 - Powers"
 usc_title: 36
 usc_section: "151705"
 chapter: 1517
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "36 U.S.C. § 151705"
-generated_at: "2026-03-30T06:29:39.130Z"
+generated_at: "2026-03-30T06:31:29.622Z"
 status: "active"
 ---
 

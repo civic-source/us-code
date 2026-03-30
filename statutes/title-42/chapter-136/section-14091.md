@@ -1,17 +1,13 @@
 ---
-title: "Section 14091 - Purposes"
+title: "Section 14091 - Transferred"
 usc_title: 42
 usc_section: "14091"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14091"
-generated_at: "2026-03-30T06:29:56.206Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 14091. Purposes
+# § 14091. Transferred
 
-The purposes of this part are to—
-
-  - **(1)** address violent crime by increasing the number of police with advanced education and training on community patrol; and
-  - **(2)** provide educational assistance to law enforcement personnel and to students who possess a sincere interest in public service in the form of law enforcement.

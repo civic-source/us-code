@@ -3,16 +3,17 @@ title: "Section 11296 - Oversight and accountability"
 usc_title: 34
 usc_section: "11296"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 11296"
-generated_at: "2026-03-30T02:55:33.281Z"
+generated_at: "2026-03-30T06:31:20.894Z"
+status: "active"
 ---
 
 # § 11296. Oversight and accountability
 
 All grants awarded by the Department of Justice that are authorized under this subchapter shall be subject to the following:
 
-  - **(1)** For 2 of the fiscal years in the period of fiscal years 2014 through 2023, the Inspector General of the Department of Justice shall conduct audits of the recipient of grants under this subchapter to prevent waste, fraud, and abuse by the grantee.
+  - **(1)** For 2 of the fiscal years in the period of fiscal years 2014 through 2018, the Inspector General of the Department of Justice shall conduct audits of the recipient of grants under this subchapter to prevent waste, fraud, and abuse by the grantee.
   - **(2)** If the recipient of grant funds under this subchapter is found to have an unresolved audit finding, then that entity shall not be eligible to receive grant funds under this subchapter during the 2 fiscal years beginning after the 12-month period described in paragraph (4).
   - **(3)** If an entity is awarded grant funds under this subchapter during the 2-fiscal-year period in which the entity is barred from receiving grants under paragraph (2), the Attorney General shall—
     - **(A)** deposit an amount equal to the grant funds that were improperly awarded to the grantee into the General Fund of the Treasury; and

@@ -3,9 +3,9 @@ title: "Section 590 - Child care"
 usc_title: 40
 usc_section: "590"
 chapter: 5
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "40 U.S.C. § 590"
-generated_at: "2026-03-30T06:29:39.791Z"
+generated_at: "2026-03-30T06:31:28.856Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
 - **(e)** Notwithstanding section 1345 of title 31 , an agency, department, or instrumentality of the Government that provides or proposes to provide child care services for federal employees may reimburse a federal employee or any individual employed to provide child care services for travel, transportation, and subsistence expenses incurred for training classes, conferences, or other meetings in connection with providing the services. A per diem allowance made under this subsection may not exceed the rate specified in regulations prescribed under section 5707 of title 5 .
 - **(f)**
   - **(1)** In this subsection, the term “executive facility” means a facility owned or leased by an office or entity within the executive branch of the Government. The term includes a facility owned or leased by the General Services Administration on behalf of an office or entity within the judicial branch of the Government.
-  - **(2)** All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 ( 42 U.S.C. 13041 ).
+  - **(2)** All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 ( 42 U.S.C. 13041 ). 1 1 See References in Text note below.
   - **(3)** This subsection does not apply to a facility owned by or leased on behalf of an office or entity within the legislative branch of the Government.
 - **(g)**
   - **(1)** For purposes of this subsection, the term “Executive agency” has the meaning given that term in section 105 of title 5 , but does not include the Government Accountability Office.

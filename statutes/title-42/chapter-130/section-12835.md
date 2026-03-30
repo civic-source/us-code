@@ -3,9 +3,9 @@ title: "Section 12835 - Citizen participation"
 usc_title: 42
 usc_section: "12835"
 chapter: 130
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 12835"
-generated_at: "2026-03-30T06:29:56.179Z"
+generated_at: "2026-03-30T06:31:48.019Z"
 status: "active"
 ---
 

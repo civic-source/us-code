@@ -3,9 +3,9 @@ title: "Section 741 - Vocational rehabilitation services grants"
 usc_title: 29
 usc_section: "741"
 chapter: 16
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "29 U.S.C. § 741"
-generated_at: "2026-03-30T06:29:26.510Z"
+generated_at: "2026-03-30T06:31:05.383Z"
 status: "active"
 ---
 

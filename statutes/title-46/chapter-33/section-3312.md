@@ -3,9 +3,9 @@ title: "Section 3312 - Display of certificate of inspection"
 usc_title: 46
 usc_section: "3312"
 chapter: 33
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "46 U.S.C. § 3312"
-generated_at: "2026-03-30T06:30:00.431Z"
+generated_at: "2026-03-30T06:31:52.107Z"
 status: "active"
 ---
 

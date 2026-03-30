@@ -3,9 +3,9 @@ title: "Section 1342 - Fictitious name or address"
 usc_title: 18
 usc_section: "1342"
 chapter: 63
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "18 U.S.C. § 1342"
-generated_at: "2026-03-30T06:29:13.595Z"
+generated_at: "2026-03-30T06:30:46.702Z"
 status: "active"
 ---
 

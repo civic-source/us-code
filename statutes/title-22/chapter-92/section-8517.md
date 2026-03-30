@@ -3,9 +3,9 @@ title: "Section 8517 - Increased capacity for efforts to combat unlawful or terr
 usc_title: 22
 usc_section: "8517"
 chapter: 92
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 8517"
-generated_at: "2026-03-30T06:29:22.483Z"
+generated_at: "2026-03-30T06:30:58.519Z"
 status: "active"
 ---
 

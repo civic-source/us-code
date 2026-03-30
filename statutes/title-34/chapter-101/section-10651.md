@@ -3,9 +3,10 @@ title: "Section 10651 - Adult and juvenile collaboration programs"
 usc_title: 34
 usc_section: "10651"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 10651"
-generated_at: "2026-03-30T02:55:33.273Z"
+generated_at: "2026-03-30T06:31:20.884Z"
+status: "active"
 ---
 
 # § 10651. Adult and juvenile collaboration programs
@@ -66,7 +67,8 @@ generated_at: "2026-03-30T02:55:33.273Z"
     - **(A)** The joint applicants may apply to the Attorney General for a nonrenewable planning grant to develop a collaboration program.
     - **(B)** The Attorney General and the Secretary may not approve a planning grant unless the application for the grant includes or provides, at a minimum, for a budget and a budget justification, a description of the outcome measures that will be used to measure the effectiveness of the program in promoting public safety and public health, the activities proposed (including the provision of substance abuse treatment services, where appropriate) and a schedule for completion of such activities, and the personnel necessary to complete such activities.
     - **(C)** A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant is made. Applicants may not receive more than 1 such planning grant.
-    - **(D)** Up to 5 percent of all planning funds shall be used to foster collaboration between State and local governments in furtherance of the purposes set forth in the Mentally Ill Offender Treatment and Crime Reduction Act of 2004.
+    - **(D)** The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount.
+    - **(E)** Up to 5 percent of all planning funds shall be used to foster collaboration between State and local governments in furtherance of the purposes set forth in the Mentally Ill Offender Treatment and Crime Reduction Act of 2004.
   - **(5)**
     - **(A)** Joint applicants that have prepared a planning grant application may apply to the Attorney General for approval of a nonrenewable implementation grant to develop a collaboration program.
     - **(B)** To receive an implementation grant, the joint applicants shall—
@@ -101,7 +103,7 @@ generated_at: "2026-03-30T02:55:33.273Z"
       - **(iii)** submit specific agreements from affected agencies to provide the data needed by the Attorney General and the Secretary to accomplish the evaluation under clause (i).
     - **(H)** Applicants for an implementation grant shall describe how the adult or juvenile collaboration program relates to existing State criminal or juvenile justice and mental health plans and programs.
     - **(I)** Applicants that receive an implementation grant may use funds for 1 or more of the following purposes:
-      - **(i)** Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams, treatment accountability services for communities, and training for State and local prosecutors relating to diversion programming and implementation) that meet requirements established by the Attorney General and the Secretary.
+      - **(i)** Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
       - **(ii)** Funds may be used to create or expand programs, such as crisis intervention training, which offer specialized training to—
         - **(I)** criminal justice system personnel to identify and respond appropriately to the unique needs of preliminarily qualified offenders; or
         - **(II)** mental health system personnel to respond appropriately to the treatment needs of preliminarily qualified offenders.
@@ -110,19 +112,9 @@ generated_at: "2026-03-30T02:55:33.273Z"
       - **(v)** Multidisciplinary teams that—
         - **(I)** coordinate, implement, and administer community-based crisis responses and long-term plans for frequent users of crisis services;
         - **(II)** provide training on how to respond appropriately to the unique issues involving frequent users of crisis services for public service personnel, including criminal justice, mental health, substance abuse, emergency room, healthcare, law enforcement, corrections, and housing personnel;
-        - **(III)** develop or support alternatives to hospital and jail admissions for frequent users of crisis services that provide treatment, stabilization, and other appropriate supports in the least restrictive, yet appropriate, environment;
-        - **(IV)** develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services; and
-        - **(V)** coordinate, implement, and administer models to address mental health calls that include specially trained officers and mental health crisis workers responding to those calls together.
-      - **(vi)** Funds may be used to develop, promote, and implement comprehensive suicide prevention programs and services for incarcerated individuals that include ongoing risk assessment.
-      - **(vii)** Funds may be used for case management services for preliminary qualified offenders and individuals who are released from any penal or correctional institution to—
-        - **(I)** reduce recidivism; and
-        - **(II)** assist those individuals with reentry into the community.
-      - **(viii)** Funds may be used to support, administer, or develop treatment capacity and increase access to mental health care and substance use disorder services for preliminary qualified offenders and individuals who are released from any penal or correctional institution.
-      - **(ix)** Funds may be used to support the efforts of State and local governments to implement and expand the integration of the 988 universal telephone number designated for the purpose of the national suicide prevention and mental health crisis hotline system under section 251(e)(4) of title 47 , including by hiring staff to support the implementation and expansion.
+        - **(III)** develop or support alternatives to hospital and jail admissions for frequent users of crisis services that provide treatment, stabilization, and other appropriate supports in the least restrictive, yet appropriate, environment; and
+        - **(IV)** develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services.
     - **(J)** The Attorney General, in consultation with the Secretary, shall ensure that planning and implementation grants are equitably distributed among the geographical regions of the United States and between urban and rural populations.
-    - **(K)** With respect to a multidisciplinary team described in subparagraph (I)(v) that receives funds from a grant under this section, the multidisciplinary team—
-      - **(i)** shall, to the extent practicable, provide response capability 24 hours each day and 7 days each week to respond to crisis or mental health calls; and
-      - **(ii)** may place a part of the team in a 911 call center to facilitate the timely response to mental health crises.
 - **(c)** The Attorney General, in awarding funds under this section, shall give priority to applications that—
   - **(1)** promote effective strategies by law enforcement to identify and to reduce risk of harm to mentally ill offenders and public safety;
   - **(2)** promote effective strategies for identification and treatment of female mentally ill offenders;
@@ -140,7 +132,7 @@ generated_at: "2026-03-30T02:55:33.273Z"
     - **(B)** 60 percent of the total cost of the program in year 3; and
     - **(C)** 25 percent of the total cost of the program in years 4 and 5.
   - **(2)** The non-Federal share of payments made under this section may be made in cash or in-kind fairly evaluated, including planned equipment or services.
-- **(e)** The Attorney General, in consultation with the Secretary, in administering grants under this section, shall use not less than 6 percent of funds appropriated to—
+- **(e)** The Attorney General, in consultation with the Secretary, in administering grants under this section, may use up to 3 percent of funds appropriated to—
   - **(1)** research the use of alternatives to prosecution through pretrial diversion in appropriate cases involving individuals with mental illness;
   - **(2)** offer specialized training to personnel of criminal and juvenile justice agencies in appropriate diversion techniques;
   - **(3)** provide technical assistance to local governments, mental health courts, and diversion programs, including technical assistance relating to program evaluation;
@@ -152,10 +144,10 @@ generated_at: "2026-03-30T02:55:33.273Z"
   - **(2)** The task force established under paragraph (1) shall—
     - **(A)** identify policies within their departments that hinder or facilitate local collaborative initiatives for preliminarily qualified offenders; and
     - **(B)** submit, not later than 2 years after October 30, 2004 , a report to Congress containing recommendations for improved interdepartmental collaboration regarding the provision of services to preliminarily qualified offenders.
-- **(g)** The Attorney General shall use not less than 8 percent of funds appropriated to provide technical assistance to State and local governments receiving grants under this subchapter to foster collaboration between such governments in furtherance of the purposes set forth in section 3 of the Mentally Ill Offender Treatment and Crime Reduction Act of 2004 ( 34 U.S.C. 10651 note).
+- **(g)** Unless all eligible applications submitted by any State or unit of local government within such State for a planning or implementation grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for planning or implementation grants pursuant to this section.
 - **(h)**
   - **(1)** The Attorney General is authorized to make grants under this section to States, units of local government, Indian tribes, and tribal organizations for the following purposes:
-    - **(A)** To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved, including the training developed under section 10653 of this title .
+    - **(A)** To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
     - **(B)** To provide for the development of specialized receiving centers to assess individuals in the custody of law enforcement personnel for suicide risk and mental health and substance abuse treatment needs.
     - **(C)** To provide for computerized information systems (or to improve existing systems) to provide timely information to law enforcement personnel and criminal justice system personnel to improve the response of such respective personnel to mentally ill offenders.
     - **(D)** To provide for the establishment and expansion of cooperative efforts by criminal and juvenile justice agencies and mental health agencies to promote public safety through the use of effective intervention with respect to mentally ill offenders.
@@ -258,6 +250,9 @@ generated_at: "2026-03-30T02:55:33.273Z"
     - **(A)** a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
     - **(B)** the reason the Attorney General awarded the duplicate grants.
 - **(o)**
-  - **(1)** There is authorized to be appropriated to the Department of Justice to carry out this section $54,000,000 for each of fiscal years 2023 through 2027.
+  - **(1)** There are authorized to be appropriated to the Department of Justice to carry out this section—
+    - **(A)** $50,000,000 for fiscal year 2005;
+    - **(B)** such sums as may be necessary for each of the fiscal years 2006 and 2007; and
+    - **(C)** $50,000,000 for each of the fiscal years 2017 through 2021.
   - **(2)** For fiscal year 2009 and each subsequent fiscal year, of the amounts authorized under paragraph (1) for such fiscal year, the Attorney General may obligate not more than 3 percent for the administrative expenses of the Attorney General in carrying out this section for such fiscal year.
   - **(3)** Not more than 20 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (i) (relating to veterans).

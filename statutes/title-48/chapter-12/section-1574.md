@@ -3,9 +3,9 @@ title: "Section 1574 - Legislative powers and activities"
 usc_title: 48
 usc_section: "1574"
 chapter: 12
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "48 U.S.C. § 1574"
-generated_at: "2026-03-30T06:29:59.772Z"
+generated_at: "2026-03-30T06:31:50.869Z"
 status: "active"
 ---
 

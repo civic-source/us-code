@@ -3,9 +3,9 @@ title: "Section 2705 - Powers of Chairman"
 usc_title: 25
 usc_section: "2705"
 chapter: 29
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "25 U.S.C. § 2705"
-generated_at: "2026-03-30T06:29:19.410Z"
+generated_at: "2026-03-30T06:30:55.484Z"
 status: "active"
 ---
 

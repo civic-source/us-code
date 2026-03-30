@@ -3,9 +3,9 @@ title: "Section 2101 - Senate Commission on Art"
 usc_title: 2
 usc_section: "2101"
 chapter: 30
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "2 U.S.C. § 2101"
-generated_at: "2026-03-30T06:28:47.619Z"
+generated_at: "2026-03-30T06:30:18.640Z"
 status: "active"
 ---
 

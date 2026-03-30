@@ -3,9 +3,10 @@ title: "Section 20710 - Education and outreach to trafficking survivors"
 usc_title: 34
 usc_section: "20710"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 20710"
-generated_at: "2026-03-30T02:55:33.299Z"
+generated_at: "2026-03-30T06:31:20.916Z"
+status: "active"
 ---
 
 # § 20710. Education and outreach to trafficking survivors

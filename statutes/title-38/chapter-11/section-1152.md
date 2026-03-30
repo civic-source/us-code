@@ -3,9 +3,9 @@ title: "Section 1152 - Persons heretofore having a compensable status"
 usc_title: 38
 usc_section: "1152"
 chapter: 11
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "38 U.S.C. § 1152"
-generated_at: "2026-03-30T06:29:41.040Z"
+generated_at: "2026-03-30T06:31:31.132Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4222 - Block grants for affordable housing activities"
 usc_title: 25
 usc_section: "4222"
 chapter: 43
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "25 U.S.C. § 4222"
-generated_at: "2026-03-30T06:29:19.424Z"
+generated_at: "2026-03-30T06:30:55.505Z"
 status: "active"
 ---
 

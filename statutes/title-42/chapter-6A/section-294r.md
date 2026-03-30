@@ -3,9 +3,9 @@ title: "Section 294r - State health care workforce development grants"
 usc_title: 42
 usc_section: "294r"
 chapter: 6
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 294r"
-generated_at: "2026-03-30T06:29:55.603Z"
+generated_at: "2026-03-30T06:31:47.226Z"
 status: "active"
 ---
 

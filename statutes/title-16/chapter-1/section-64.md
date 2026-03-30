@@ -3,9 +3,9 @@ title: "Section 64 - Treatment of wilderness study areas"
 usc_title: 16
 usc_section: "64"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 64"
-generated_at: "2026-03-30T06:29:15.672Z"
+generated_at: "2026-03-30T06:30:49.668Z"
 status: "active"
 ---
 

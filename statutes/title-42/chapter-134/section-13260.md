@@ -3,9 +3,9 @@ title: "Section 13260 - Effect on other laws"
 usc_title: 42
 usc_section: "13260"
 chapter: 134
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13260"
-generated_at: "2026-03-30T06:29:56.186Z"
+generated_at: "2026-03-30T06:31:48.026Z"
 status: "active"
 ---
 

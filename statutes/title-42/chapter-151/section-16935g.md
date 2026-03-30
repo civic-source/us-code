@@ -1,15 +1,13 @@
 ---
-title: "Section 16935g - Technical assistance"
+title: "Section 16935g - Transferred"
 usc_title: 42
 usc_section: "16935g"
 chapter: 151
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 16935g"
-generated_at: "2026-03-30T06:29:56.242Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.068Z"
+status: "transferred"
 ---
 
-# § 16935g. Technical assistance
-
-The Secretary of State, in consultation with the Attorney General and the Secretary of Homeland Security, may provide technical assistance to foreign authorities in order to enable such authorities to participate more effectively in the notification program system established under this part.
+# § 16935g. Transferred
 

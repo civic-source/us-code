@@ -3,9 +3,9 @@ title: "Section 379o - Environmental impact"
 usc_title: 21
 usc_section: "379o"
 chapter: 9
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "21 U.S.C. § 379o"
-generated_at: "2026-03-30T06:29:20.170Z"
+generated_at: "2026-03-30T06:30:54.330Z"
 status: "active"
 ---
 

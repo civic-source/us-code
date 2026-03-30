@@ -3,9 +3,10 @@ title: "Section 12182 - Provision of assistance"
 usc_title: 34
 usc_section: "12182"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 12182"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-03-30T06:31:20.897Z"
+status: "active"
 ---
 
 # § 12182. Provision of assistance

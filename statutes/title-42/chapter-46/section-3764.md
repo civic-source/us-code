@@ -1,17 +1,13 @@
 ---
-title: "Section 3764 - Period of award"
+title: "Section 3764 - Transferred"
 usc_title: 42
 usc_section: "3764"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3764"
-generated_at: "2026-03-30T06:29:55.946Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.766Z"
+status: "transferred"
 ---
 
-# § 3764. Period of award
+# § 3764. Transferred
 
-The Bureau may provide financial aid and assistance to programs or projects under this part for a period of not to exceed 4 years. Grants made pursuant to this part may be extended or renewed by the Bureau for an additional period of up to 2 years if—
-
-  - **(1)** an evaluation of the program or project indicates that it has been effective in achieving the stated goals or offers the potential for improving the functioning of the criminal justice system; and
-  - **(2)** the applicant that conducts such program or project agrees to provide at least one-half of the total cost of such program or project from any source of funds, including Federal grants, available to the eligible jurisdiction.

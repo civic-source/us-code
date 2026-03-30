@@ -1,18 +1,13 @@
 ---
-title: "Section 5732 - Evaluation and information"
+title: "Section 5732 - Transferred"
 usc_title: 42
 usc_section: "5732"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5732"
-generated_at: "2026-03-30T06:29:56.000Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "transferred"
 ---
 
-# § 5732. Evaluation and information
+# § 5732. Transferred
 
-- **(a)** If a grantee receives grants for 3 consecutive fiscal years under part A, B, C, D, or E (in the alternative), then the Secretary shall evaluate such grantee on-site, not less frequently than once in the period of such 3 consecutive fiscal years, for purposes of—
-  - **(1)** determining whether such grants are being used for the purposes for which such grants are made by the Secretary;
-  - **(2)** collecting additional information for the report required by section 5731 of this title ; and
-  - **(3)** providing such information and assistance to such grantee as will enable such grantee to improve the operation of the centers, projects, and activities for which such grants are made.
-- **(b)** Recipients of grants under this subchapter shall cooperate with the Secretary’s efforts to carry out evaluations, and to collect information, under this subchapter.

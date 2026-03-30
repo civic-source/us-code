@@ -3,9 +3,10 @@ title: "Section 11294 - Grants"
 usc_title: 34
 usc_section: "11294"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 11294"
-generated_at: "2026-03-30T02:55:33.281Z"
+generated_at: "2026-03-30T06:31:20.894Z"
+status: "active"
 ---
 
 # § 11294. Grants
@@ -19,12 +20,12 @@ generated_at: "2026-03-30T02:55:33.281Z"
     - **(B)** the sexual exploitation of a missing child;
   - **(5)** to collect detailed data from selected States or localities on the actual investigative practices utilized by law enforcement agencies in missing children’s cases;
   - **(6)** to address the particular needs of missing children by minimizing the negative impact of judicial and law enforcement procedures on children who are victims of abuse or sexual exploitation and by promoting the active participation of children and their families in cases involving abuse or sexual exploitation of children;
-  - **(7)** to address the needs of missing children and their families following the recovery of such children;
-  - **(8)** to reduce the likelihood that individuals under 18 years of age will be removed from the control of such individuals’ parents without such parents’ consent; and
+  - **(7)** to address the needs of missing children (as defined in section 11292(1)(A) of this title ) and their families following the recovery of such children;
+  - **(8)** to reduce the likelihood that individuals under 18 years of age will be removed from the control of such individuals’ legal custodians without such custodians’ consent; and
   - **(9)** to establish or operate statewide clearinghouses to assist in locating and recovering missing children.
 - **(b)** In considering grant applications under this subchapter, the Administrator shall give priority to applicants who—
   - **(1)** have demonstrated or demonstrate ability in—
-    - **(A)** locating missing children or locating and reuniting missing children with their parents;
+    - **(A)** locating missing children or locating and reuniting missing children with their legal custodians;
     - **(B)** providing other services to missing children or their families; or
     - **(C)** conducting research relating to missing children; and
   - **(2)** with respect to subparagraphs (A) and (B) of paragraph (1), substantially utilize volunteer assistance.

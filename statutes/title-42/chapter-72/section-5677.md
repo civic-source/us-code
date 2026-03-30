@@ -1,15 +1,13 @@
 ---
-title: "Section 5677 - Limitations on use of funds"
+title: "Section 5677 - Transferred"
 usc_title: 42
 usc_section: "5677"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5677"
-generated_at: "2026-03-30T06:29:55.999Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "transferred"
 ---
 
-# § 5677. Limitations on use of funds
-
-None of the funds made available to carry out this subchapter may be used to advocate for, or support, the unsecured release of juveniles who are charged with a violent crime.
+# § 5677. Transferred
 

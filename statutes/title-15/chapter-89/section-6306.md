@@ -3,9 +3,9 @@ title: "Section 6306 - Review"
 usc_title: 15
 usc_section: "6306"
 chapter: 89
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "15 U.S.C. § 6306"
-generated_at: "2026-03-30T06:29:07.217Z"
+generated_at: "2026-03-30T06:30:39.937Z"
 status: "active"
 ---
 

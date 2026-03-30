@@ -3,9 +3,9 @@ title: "Section 6305 - Registration"
 usc_title: 15
 usc_section: "6305"
 chapter: 89
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "15 U.S.C. § 6305"
-generated_at: "2026-03-30T06:29:07.217Z"
+generated_at: "2026-03-30T06:30:39.937Z"
 status: "active"
 ---
 

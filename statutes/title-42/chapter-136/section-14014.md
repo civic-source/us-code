@@ -1,17 +1,13 @@
 ---
-title: "Section 14014 - Report on confidentiality of addresses for victims of domestic violence"
+title: "Section 14014 - Omitted"
 usc_title: 42
 usc_section: "14014"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14014"
-generated_at: "2026-03-30T06:29:56.201Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "omitted"
 ---
 
-# § 14014. Report on confidentiality of addresses for victims of domestic violence
+# § 14014. Omitted
 
-- **(a)** The Attorney General shall conduct a study of the means by which abusive spouses may obtain information concerning the addresses or locations of estranged or former spouses, notwithstanding the desire of the victims to have such information withheld to avoid further exposure to abuse. Based on the study, the Attorney General shall transmit a report to Congress including—
-  - **(1)** the findings of the study concerning the means by which information concerning the addresses or locations of abused spouses may be obtained by abusers; and
-  - **(2)** analysis of the feasibility of creating effective means of protecting the confidentiality of information concerning the addresses and locations of abused spouses to protect such persons from exposure to further abuse while preserving access to such information for legitimate purposes.
-- **(b)** The Attorney General may use the National Institute of Justice and the Office for Victims of Crime in carrying out this section.

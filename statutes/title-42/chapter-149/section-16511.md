@@ -3,9 +3,9 @@ title: "Section 16511 - Definitions"
 usc_title: 42
 usc_section: "16511"
 chapter: 149
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 16511"
-generated_at: "2026-03-30T06:29:56.239Z"
+generated_at: "2026-03-30T06:31:48.064Z"
 status: "active"
 ---
 

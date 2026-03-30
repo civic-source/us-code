@@ -1,15 +1,13 @@
 ---
-title: "Section 14165a - Blue Alert communications network"
+title: "Section 14165a - Transferred"
 usc_title: 42
 usc_section: "14165a"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14165a"
-generated_at: "2026-03-30T06:29:56.209Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.037Z"
+status: "transferred"
 ---
 
-# § 14165a. Blue Alert communications network
-
-The Attorney General shall establish a national Blue Alert communications network within the Department of Justice to issue Blue Alerts through the initiation, facilitation, and promotion of Blue Alert plans, in coordination with States, units of local government, law enforcement agencies, and other appropriate entities.
+# § 14165a. Transferred
 

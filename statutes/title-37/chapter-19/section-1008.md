@@ -3,9 +3,9 @@ title: "Section 1008 - Presidential recommendations concerning adjustments and c
 usc_title: 37
 usc_section: "1008"
 chapter: 19
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "37 U.S.C. § 1008"
-generated_at: "2026-03-30T06:29:38.570Z"
+generated_at: "2026-03-30T06:31:28.463Z"
 status: "active"
 ---
 

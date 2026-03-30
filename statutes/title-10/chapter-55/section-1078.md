@@ -3,9 +3,9 @@ title: "Section 1078 - Medical and dental care for dependents: charges"
 usc_title: 10
 usc_section: "1078"
 chapter: 55
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 1078"
-generated_at: "2026-03-30T06:28:59.955Z"
+generated_at: "2026-03-30T06:30:31.903Z"
 status: "active"
 ---
 

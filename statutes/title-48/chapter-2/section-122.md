@@ -3,9 +3,9 @@ title: "Section 122 - Omitted"
 usc_title: 48
 usc_section: "122"
 chapter: 2
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "48 U.S.C. § 122"
-generated_at: "2026-03-30T06:29:59.763Z"
+generated_at: "2026-03-30T06:31:50.860Z"
 status: "omitted"
 ---
 

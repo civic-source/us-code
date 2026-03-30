@@ -3,9 +3,9 @@ title: "Section 13522 - Energy Research, Development, Demonstration, and Commerc
 usc_title: 42
 usc_section: "13522"
 chapter: 134
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13522"
-generated_at: "2026-03-30T06:29:56.193Z"
+generated_at: "2026-03-30T06:31:48.033Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8104 - Officers and employees"
 usc_title: 42
 usc_section: "8104"
 chapter: 90
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 8104"
-generated_at: "2026-03-30T06:29:56.088Z"
+generated_at: "2026-03-30T06:31:47.918Z"
 status: "active"
 ---
 

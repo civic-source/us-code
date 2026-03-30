@@ -3,9 +3,10 @@ title: "Section 40722 - DNA training and education for law enforcement, correcti
 usc_title: 34
 usc_section: "40722"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 40722"
-generated_at: "2026-03-30T02:55:33.310Z"
+generated_at: "2026-03-30T06:31:20.929Z"
+status: "active"
 ---
 
 # § 40722. DNA training and education for law enforcement, correctional personnel, and court officers
@@ -15,4 +16,4 @@ generated_at: "2026-03-30T02:55:33.310Z"
   - **(2)** court officers, including State and local prosecutors, defense lawyers, and judges;
   - **(3)** forensic science professionals; and
   - **(4)** corrections personnel, including prison and jail personnel, and probation, parole, and other officers involved in supervision.
-- **(b)** There are authorized to be appropriated $12,500,000 for each of fiscal years 2019 through 2024 to carry out this section.
+- **(b)** There are authorized to be appropriated $12,500,000 for each of fiscal years 2015 through 2019 to carry out this section.

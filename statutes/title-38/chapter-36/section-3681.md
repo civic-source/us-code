@@ -3,9 +3,9 @@ title: "Section 3681 - Limitations on educational assistance"
 usc_title: 38
 usc_section: "3681"
 chapter: 36
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "38 U.S.C. § 3681"
-generated_at: "2026-03-30T06:29:41.063Z"
+generated_at: "2026-03-30T06:31:31.162Z"
 status: "active"
 ---
 

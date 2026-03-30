@@ -3,9 +3,9 @@ title: "Section 3771 - Crime victims’ rights"
 usc_title: 18
 usc_section: "3771"
 chapter: 237
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "18 U.S.C. § 3771"
-generated_at: "2026-03-30T06:29:13.624Z"
+generated_at: "2026-03-30T06:30:46.739Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(7)** The right to proceedings free from unreasonable delay.
   - **(8)** The right to be treated with fairness and with respect for the victim’s dignity and privacy.
   - **(9)** The right to be informed in a timely manner of any plea bargain or deferred prosecution agreement.
-  - **(10)** The right to be informed of the rights under this section and the services described in section 503(c) of the Victims’ Rights and Restitution Act of 1990 ( 42 U.S.C. 10607(c) ) and provided contact information for the Office of the Victims’ Rights Ombudsman of the Department of Justice.
+  - **(10)** The right to be informed of the rights under this section and the services described in section 503(c) of the Victims’ Rights and Restitution Act of 1990 ( 42 U.S.C. 10607(c) ) 1 1 See References in Text note below. and provided contact information for the Office of the Victims’ Rights Ombudsman of the Department of Justice.
 - **(b)**
   - **(1)** In any court proceeding involving an offense against a crime victim, the court shall ensure that the crime victim is afforded the rights described in subsection (a). Before making a determination described in subsection (a)(3), the court shall make every effort to permit the fullest attendance possible by the victim and shall consider reasonable alternatives to the exclusion of the victim from the criminal proceeding. The reasons for any decision denying relief under this chapter shall be clearly stated on the record.
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 14302 - Definitions"
 usc_title: 42
 usc_section: "14302"
 chapter: 137
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14302"
-generated_at: "2026-03-30T06:29:56.210Z"
+generated_at: "2026-03-30T06:31:48.037Z"
 status: "active"
 ---
 

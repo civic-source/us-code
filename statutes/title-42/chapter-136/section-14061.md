@@ -1,15 +1,13 @@
 ---
-title: "Section 14061 - Juvenile anti-drug and anti-gang grants in federally assisted low-income housing"
+title: "Section 14061 - Transferred"
 usc_title: 42
 usc_section: "14061"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14061"
-generated_at: "2026-03-30T06:29:56.206Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 14061. Juvenile anti-drug and anti-gang grants in federally assisted low-income housing
-
-Grants authorized in this Act to reduce or prevent juvenile drug and gang-related activity in “public housing” may be used for such purposes in federally assisted, low-income housing.
+# § 14061. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 1397E - Credit to holders of qualified zone academy bonds"
 usc_title: 26
 usc_section: "1397E"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "26 U.S.C. § 1397E"
-generated_at: "2026-03-30T06:29:33.281Z"
+generated_at: "2026-03-30T06:31:17.088Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 80504 - Approval and examination"
 usc_title: 46
 usc_section: "80504"
 chapter: 805
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "46 U.S.C. § 80504"
-generated_at: "2026-03-30T06:30:00.460Z"
+generated_at: "2026-03-30T06:31:52.139Z"
 status: "active"
 ---
 

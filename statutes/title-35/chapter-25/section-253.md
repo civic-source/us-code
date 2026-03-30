@@ -3,9 +3,9 @@ title: "Section 253 - Disclaimer"
 usc_title: 35
 usc_section: "253"
 chapter: 25
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "35 U.S.C. § 253"
-generated_at: "2026-03-30T06:29:35.110Z"
+generated_at: "2026-03-30T06:31:19.603Z"
 status: "active"
 ---
 

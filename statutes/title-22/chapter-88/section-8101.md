@@ -3,9 +3,9 @@ title: "Section 8101 - Findings"
 usc_title: 22
 usc_section: "8101"
 chapter: 88
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 8101"
-generated_at: "2026-03-30T06:29:22.479Z"
+generated_at: "2026-03-30T06:30:58.511Z"
 status: "active"
 ---
 

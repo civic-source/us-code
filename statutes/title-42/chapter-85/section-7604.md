@@ -3,23 +3,23 @@ title: "Section 7604 - Citizen suits"
 usc_title: 42
 usc_section: "7604"
 chapter: 85
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 7604"
-generated_at: "2026-03-30T06:29:56.074Z"
+generated_at: "2026-03-30T06:31:47.901Z"
 status: "active"
 ---
 
 # § 7604. Citizen suits
 
-- **(a)** Except as provided in subsection (b) of this section, any person may commence a civil action on his own behalf—
+- **(a)** Except as provided in subsection (b), any person may commence a civil action on his own behalf—
   - **(1)** against any person (including (i) the United States, and (ii) any other governmental instrumentality or agency to the extent permitted by the Eleventh Amendment to the Constitution) who is alleged to have violated (if there is evidence that the alleged violation has been repeated) or to be in violation of (A) an emission standard or limitation under this chapter or (B) an order issued by the Administrator or a State with respect to such a standard or limitation,
   - **(2)** against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary with the Administrator, or
   - **(3)** against any person who proposes to construct or constructs any new or modified major emitting facility without a permit required under part C of subchapter I (relating to significant deterioration of air quality) or part D of subchapter I (relating to nonattainment) or who is alleged to have violated (if there is evidence that the alleged violation has been repeated) or to be in violation of any condition of such permit.
 - **(b)** No action may be commenced—
-  - **(1)** under subsection (a)(1) of this section—
+  - **(1)** under subsection (a)(1)—
     - **(A)** prior to 60 days after the plaintiff has given notice of the violation (i) to the Administrator, (ii) to the State in which the violation occurs, and (iii) to any alleged violator of the standard, limitation, or order, or
     - **(B)** if the Administrator or State has commenced and is diligently prosecuting a civil action in a court of the United States or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the United States any person may intervene as a matter of right. 1 1 So in original. The period probably should be “, or”.
-  - **(2)** under subsection (a)(2) of this section prior to 60 days after the plaintiff has given notice of such action to the Administrator,
+  - **(2)** under subsection (a)(2) prior to 60 days after the plaintiff has given notice of such action to the Administrator,
 - **(c)**
   - **(1)** Any action respecting a violation by a stationary source of an emission standard or limitation or an order respecting such standard or limitation may be brought only in the judicial district in which such source is located.
   - **(2)** In any action under this section, the Administrator, if not a party, may intervene as a matter of right at any time in the proceeding. A judgment in an action under this section to which the United States is not a party shall not, however, have any binding effect upon the United States.
@@ -34,5 +34,5 @@ status: "active"
   - **(3)** any condition or requirement of a permit under part C of subchapter I (relating to significant deterioration of air quality) or part D of subchapter I (relating to nonattainment),, 3 3 So in original. section 7419 of this title (relating to primary nonferrous smelter orders), any condition or requirement under an applicable implementation plan relating to transportation control measures, air quality maintenance plans, vehicle inspection and maintenance programs or vapor recovery requirements, section 7545(e) and (f) of this title (relating to fuels and fuel additives), section 7491 of this title (relating to visibility protection), any condition or requirement under subchapter VI (relating to ozone protection), or any requirement under section 7411 or 7412 of this title (without regard to whether such requirement is expressed as an emission standard or otherwise); 4 4 So in original. The semicolon probably should be a comma. or
   - **(4)** any other standard, limitation, or schedule established under any permit issued pursuant to subchapter V or under any applicable State implementation plan approved by the Administrator, any permit term or condition, and any requirement to obtain a permit as a condition of operations. 5 5 So in original. The period probably should be a comma.
 - **(g)**
-  - **(1)** Penalties received under subsection (a) of this section shall be deposited in a special fund in the United States Treasury for licensing and other services. Amounts in such fund are authorized to be appropriated and shall remain available until expended, for use by the Administrator to finance air compliance and enforcement activities. The Administrator shall annually report to the Congress about the sums deposited into the fund, the sources thereof, and the actual and proposed uses thereof.
+  - **(1)** Penalties received under subsection (a) shall be deposited in a special fund in the United States Treasury for licensing and other services. Amounts in such fund are authorized to be appropriated and shall remain available until expended, for use by the Administrator to finance air compliance and enforcement activities. The Administrator shall annually report to the Congress about the sums deposited into the fund, the sources thereof, and the actual and proposed uses thereof.
   - **(2)** Notwithstanding paragraph (1) the court in any action under this subsection 6 6 So in original. Probably should be “this section”. to apply civil penalties shall have discretion to order that such civil penalties, in lieu of being deposited in the fund referred to in paragraph (1), be used in beneficial mitigation projects which are consistent with this chapter and enhance the public health or the environment. The court shall obtain the view of the Administrator in exercising such discretion and selecting any such projects. The amount of any such payment in any such action shall not exceed $100,000.

@@ -3,9 +3,9 @@ title: "Section 703 - Satellite service report"
 usc_title: 47
 usc_section: "703"
 chapter: 6
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "47 U.S.C. § 703"
-generated_at: "2026-03-30T06:29:58.977Z"
+generated_at: "2026-03-30T06:31:51.278Z"
 status: "active"
 ---
 

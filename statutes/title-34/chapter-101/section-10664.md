@@ -3,9 +3,10 @@ title: "Section 10664 - Authority to award competitive grants to address methamp
 usc_title: 34
 usc_section: "10664"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 10664"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-03-30T06:31:20.886Z"
+status: "active"
 ---
 
 # § 10664. Authority to award competitive grants to address methamphetamine use by pregnant and parenting women offenders
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:55:33.275Z"
 - **(b)** In this section, the following definitions shall apply:
   - **(1)** The term “child welfare agency” means the State, territorial, or Tribal agency responsible for child or family services and welfare.
   - **(2)** The term “criminal justice agency” means an agency of the State, territory, Indian tribe, or local government or its contracted agency that is responsible for detection, arrest, enforcement, prosecution, defense, adjudication, incarceration, probation, or parole relating to the violation of the criminal laws of that State, territory, Indian tribe, or local government.
-  - **(C)** The term “Indian tribe” has the meaning given the term in section 10554 of this title .
+    - **(C)** The term “Indian tribe” has the meaning given the term in section 10554 of this title .
 - **(c)**
   - **(1)** No grant may be awarded under this section unless an application has been submitted to, and approved by, the Attorney General.
   - **(2)** An application for a grant under this section shall be submitted in such form, and contain such information, as the Attorney General, 3 3 So in original. The comma probably should not appear. may prescribe by regulation or guidelines.

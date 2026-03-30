@@ -1,15 +1,13 @@
 ---
-title: "Section 11 - Authority to make grants"
+title: "Section 11 - Transferred"
 usc_title: 42
 usc_section: "11"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T06:29:56.000Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "transferred"
 ---
 
-# § 5714–11. Authority to make grants
-
-The Secretary shall make grants for a national communication system to assist runaway and homeless youth in communicating with their families and with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to runaway and homeless youth.
+# § 5714–11. Transferred
 

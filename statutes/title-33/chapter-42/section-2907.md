@@ -3,9 +3,9 @@ title: "Section 2907 - Reporting"
 usc_title: 33
 usc_section: "2907"
 chapter: 42
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "33 U.S.C. § 2907"
-generated_at: "2026-03-30T06:29:36.750Z"
+generated_at: "2026-03-30T06:31:22.733Z"
 status: "active"
 ---
 

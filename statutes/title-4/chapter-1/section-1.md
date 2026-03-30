@@ -3,9 +3,9 @@ title: "Section 1 - Flag; stripes and stars on"
 usc_title: 4
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "4 U.S.C. § 1"
-generated_at: "2026-03-30T06:28:46.849Z"
+generated_at: "2026-03-30T06:30:17.450Z"
 status: "active"
 ---
 

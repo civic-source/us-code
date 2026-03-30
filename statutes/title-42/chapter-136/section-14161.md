@@ -3,9 +3,9 @@ title: "Section 14161 - Repealed. Pub. L. 109–162, title XI , § 1154(b)(4), J
 usc_title: 42
 usc_section: "14161"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14161"
-generated_at: "2026-03-30T06:29:56.208Z"
+generated_at: "2026-03-30T06:31:48.036Z"
 status: "repealed"
 ---
 

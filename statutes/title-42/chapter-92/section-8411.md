@@ -3,9 +3,9 @@ title: "Section 8411 - Administrative procedures"
 usc_title: 42
 usc_section: "8411"
 chapter: 92
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 8411"
-generated_at: "2026-03-30T06:29:56.094Z"
+generated_at: "2026-03-30T06:31:47.925Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(C)** experts and consultants who have provided information to any person who makes an oral presentation and which is contained in or referred to in such presentation,
   - **(2)** A rule or order subject to this section may not be issued except on consideration of the whole record or those parts thereof cited by a party and supported by and in accordance with the reliable, probative, and substantial evidence.
 - **(e)** A transcript shall be kept of any public hearing made in accordance with this section.
-- **(f)** A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8374 of this title ), or a petition for an exemption (or permit) under this chapter (other than under section 8374 of this title ), shall be transmitted by the Secretary to the Administrator of the Environmental Protection Agency and the Secretary shall request such agency to comment thereon within the period provided to the public unless a longer period is provided under the Clean Air Act [ 42 U.S.C. 7401 et seq.]. In any such case, the Administrator of the Environmental Protection Agency shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section.
+- **(f)** A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8374 of this title ), or a petition for an exemption (or permit) under this chapter (other than under section 8374 of this title ), shall be transmitted by the Secretary to the Administrator of the Environmental Protection Agency and the Secretary shall request such agency to comment thereon within the period provided to the public unless a longer period is provided under the Clean Air Act [ 42 U.S.C. 7401 et seq.]. In any such case, the Administrator of the Environmental Protection Agency shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d).
 - **(g)**
 - **(h)**
   - **(1)** Except as provided in sections 8412(c)(4), 8433(d)(5), and 8434 of this title, title V of the Department of Energy Organization Act ( 42 U.S.C. 7191 , et seq.) shall not apply with respect to this chapter.

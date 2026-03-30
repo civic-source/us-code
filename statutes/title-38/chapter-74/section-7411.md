@@ -3,9 +3,9 @@ title: "Section 7411 - Full-time board-certified physicians and dentists: reimbu
 usc_title: 38
 usc_section: "7411"
 chapter: 74
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "38 U.S.C. § 7411"
-generated_at: "2026-03-30T06:29:41.083Z"
+generated_at: "2026-03-30T06:31:31.185Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50108 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "50108"
 chapter: 501
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "36 U.S.C. § 50108"
-generated_at: "2026-03-30T06:29:39.124Z"
+generated_at: "2026-03-30T06:31:29.614Z"
 status: "active"
 ---
 

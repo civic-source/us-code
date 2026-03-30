@@ -3,9 +3,9 @@ title: "Section 1629c - Duration of alienability restrictions"
 usc_title: 43
 usc_section: "1629c"
 chapter: 33
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "43 U.S.C. § 1629c"
-generated_at: "2026-03-30T06:29:43.526Z"
+generated_at: "2026-03-30T06:31:33.893Z"
 status: "active"
 ---
 

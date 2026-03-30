@@ -3,9 +3,9 @@ title: "Section 1592m - Transfer of functions and funds in certain cases"
 usc_title: 42
 usc_section: "1592m"
 chapter: 9
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 1592m"
-generated_at: "2026-03-30T06:29:55.864Z"
+generated_at: "2026-03-30T06:31:47.668Z"
 status: "active"
 ---
 

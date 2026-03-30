@@ -3,9 +3,9 @@ title: "Section 220312 - Service of process"
 usc_title: 36
 usc_section: "220312"
 chapter: 2203
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "36 U.S.C. § 220312"
-generated_at: "2026-03-30T06:29:39.135Z"
+generated_at: "2026-03-30T06:31:29.628Z"
 status: "active"
 ---
 

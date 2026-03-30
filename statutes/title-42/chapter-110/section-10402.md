@@ -3,9 +3,9 @@ title: "Section 10402 - Definitions"
 usc_title: 42
 usc_section: "10402"
 chapter: 110
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 10402"
-generated_at: "2026-03-30T06:29:56.136Z"
+generated_at: "2026-03-30T06:31:47.973Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 In this chapter:
 
   - **(1)** The term “Alaska Native” has the meaning given the term “Native” in section 1602 of title 43 .
-  - **(2)** The term “dating violence” has the meaning given such term in section 13925(a) of this title .
-  - **(3)** The term “domestic violence” has the meaning given such term in section 13925(a) of this title .
+  - **(2)** The term “dating violence” has the meaning given such term in section 12291(a) of this title .
+  - **(3)** The term “domestic violence” has the meaning given such term in section 12291(a) of this title .
   - **(4)** The term “family violence” means any act or threatened act of violence, including any forceful detention of an individual, that—
     - **(A)** results or threatens to result in physical injury; and
     - **(B)** is committed by a person against another individual (including an elderly individual) to or with whom such person—
@@ -24,7 +24,7 @@ In this chapter:
       - **(iii)** is or was lawfully residing.
   - **(5)** The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in section 5304 of title 25 .
   - **(6)** The term “Native Hawaiian” has the meaning given the term in section 7517 of title 20 .
-  - **(7)** The term “personally identifying information” has the meaning given the term in section 13925(a) of this title .
+  - **(7)** The term “personally identifying information” has the meaning given the term in section 12291(a) of this title .
   - **(8)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(9)** The term “shelter” means the provision of temporary refuge and supportive services in compliance with applicable State law (including regulation) governing the provision, on a regular basis, of shelter, safe homes, meals, and supportive services to victims of family violence, domestic violence, or dating violence, and their dependents.
   - **(10)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, except as otherwise provided, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
@@ -37,4 +37,4 @@ In this chapter:
     - **(A)** meet the needs of such victims of family violence, domestic violence, or dating violence, and their dependents, for short-term, transitional, or long-term safety; and
     - **(B)** provide counseling, advocacy, or assistance for victims of family violence, domestic violence, or dating violence, and their dependents.
   - **(13)** The term “tribally designated official” means an individual designated by an Indian tribe, tribal organization, or nonprofit private organization authorized by an Indian tribe, to administer a grant under section 10409 of this title .
-  - **(14)** The term “underserved populations” has the meaning given the term in section 13925(a) of this title . For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 13925(a) 1 1 So in original. of this title.
+  - **(14)** The term “underserved populations” has the meaning given the term in section 12291(a) of this title . For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 12291(a) 1 1 So in original. of this title.

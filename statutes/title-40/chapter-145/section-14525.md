@@ -3,9 +3,9 @@ title: "Section 14525 - State development planning process"
 usc_title: 40
 usc_section: "14525"
 chapter: 145
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "40 U.S.C. § 14525"
-generated_at: "2026-03-30T06:29:39.801Z"
+generated_at: "2026-03-30T06:31:28.871Z"
 status: "active"
 ---
 

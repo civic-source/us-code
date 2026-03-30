@@ -1,15 +1,13 @@
 ---
-title: "Section 2 - Review of applications"
+title: "Section 2 - Transferred"
 usc_title: 42
 usc_section: "2"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T06:29:55.958Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.768Z"
+status: "transferred"
 ---
 
-# § 3797ff–2. Review of applications
-
-The Attorney General shall not finally disapprove any application (or any amendment to that application) submitted under this subchapter without first affording the applicant reasonable notice of any deficiencies in the application and an opportunity for correction of any such deficiencies and reconsideration.
+# § 3797ff–2. Transferred
 

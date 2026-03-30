@@ -3,9 +3,9 @@ title: "Section 4103 - Definitions"
 usc_title: 25
 usc_section: "4103"
 chapter: 43
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "25 U.S.C. § 4103"
-generated_at: "2026-03-30T06:29:19.421Z"
+generated_at: "2026-03-30T06:30:55.500Z"
 status: "active"
 ---
 

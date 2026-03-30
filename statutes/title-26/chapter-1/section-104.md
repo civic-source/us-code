@@ -3,9 +3,9 @@ title: "Section 104 - Compensation for injuries or sickness"
 usc_title: 26
 usc_section: "104"
 chapter: 1
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "26 U.S.C. § 104"
-generated_at: "2026-03-30T06:29:33.161Z"
+generated_at: "2026-03-30T06:31:16.889Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980;
   - **(5)** amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)); and
   - **(6)** amounts received pursuant to—
-    - **(A)** section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796 ); or
+    - **(A)** section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796 ); 1 1 See References in Text note below. or
     - **(B)** a program established under the laws of any State which provides monetary compensation for surviving dependents of a public safety officer who has died as the direct and proximate result of a personal injury sustained in the line of duty,
 - **(b)**
   - **(1)** Subsection (a)(4) shall not apply in the case of any individual who is not described in paragraph (2).

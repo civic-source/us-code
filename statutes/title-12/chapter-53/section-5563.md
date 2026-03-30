@@ -3,9 +3,9 @@ title: "Section 5563 - Hearings and adjudication proceedings"
 usc_title: 12
 usc_section: "5563"
 chapter: 53
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "12 U.S.C. § 5563"
-generated_at: "2026-03-30T06:29:04.813Z"
+generated_at: "2026-03-30T06:30:37.663Z"
 status: "active"
 ---
 

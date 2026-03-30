@@ -3,9 +3,9 @@ title: "Section 2472 - Prohibition on management of depot employees by end stren
 usc_title: 10
 usc_section: "2472"
 chapter: 146
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 2472"
-generated_at: "2026-03-30T06:29:00.000Z"
+generated_at: "2026-03-30T06:30:31.969Z"
 status: "active"
 ---
 

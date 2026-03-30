@@ -1,18 +1,13 @@
 ---
-title: "Section 14136f - Establishment of best practices for evidence retention"
+title: "Section 14136f - Transferred"
 usc_title: 42
 usc_section: "14136f"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14136f"
-generated_at: "2026-03-30T06:29:56.208Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 14136f. Establishment of best practices for evidence retention
+# § 14136f. Transferred
 
-- **(a)** The Director of the National Institute of Justice, in consultation with Federal, State, and local law enforcement agencies and government laboratories, shall—
-  - **(1)** establish best practices for evidence retention to focus on the preservation of forensic evidence; and
-  - **(2)** assist State, local, and tribal governments in adopting and implementing the best practices established under paragraph (1).
-- **(b)** Not later than 1 year after December 16, 2016 , the Director of the National Institute of Justice shall publish the best practices established under subsection (a)(1).
-- **(c)** Nothing in this section shall be construed to require or obligate compliance with the best practices established under subsection (a)(1).

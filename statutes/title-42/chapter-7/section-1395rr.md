@@ -3,9 +3,9 @@ title: "Section 1395rr - End stage renal disease program"
 usc_title: 42
 usc_section: "1395rr"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 1395rr"
-generated_at: "2026-03-30T06:29:55.786Z"
+generated_at: "2026-03-30T06:31:47.566Z"
 status: "active"
 ---
 
@@ -150,7 +150,7 @@ status: "active"
   - **(5)** The Secretary, after consultation with appropriate professional and planning organizations, shall provide such guidelines with respect to the planning and delivery of renal disease services as are necessary to assist network organizations in their development of their respective networks’ goals to promote the optimum use of self-dialysis and transplantation by suitable candidates for such modalities.
   - **(6)** It is the intent of the Congress that the maximum practical number of patients who are medically, socially, and psychologically suitable candidates for home dialysis or transplantation should be so treated and that the maximum practical number of patients who are suitable candidates for vocational rehabilitation services be given access to such services and encouraged to return to gainful employment. The Secretary shall consult with appropriate professional and network organizations and consider available evidence relating to developments in research, treatment methods, and technology for home dialysis and transplantation.
   - **(7)** The Secretary shall establish a national end stage renal disease registry the purpose of which shall be to assemble and analyze the data reported by network organizations, transplant centers, and other sources on all end stage renal disease patients in a manner that will permit—
-    - **(A)** the preparation of the annual report to the Congress required under subsection (g) 1 ;
+    - **(A)** the preparation of the annual report to the Congress required under subsection (g); 1
     - **(B)** an identification of the economic impact, cost-effectiveness, and medical efficacy of alternative modalities of treatment;
     - **(C)** an evaluation with respect to the most appropriate allocation of resources for the treatment and research into the cause of end stage renal disease;
     - **(D)** the determination of patient mortality and morbidity rates, and trends in such rates, and other indices of quality of care; and

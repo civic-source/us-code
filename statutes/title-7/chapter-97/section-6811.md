@@ -3,9 +3,9 @@ title: "Section 6811 - Authority for Secretary to suspend or terminate order"
 usc_title: 7
 usc_section: "6811"
 chapter: 97
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "7 U.S.C. § 6811"
-generated_at: "2026-03-30T06:28:54.517Z"
+generated_at: "2026-03-30T06:30:27.479Z"
 status: "active"
 ---
 

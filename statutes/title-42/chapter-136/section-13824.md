@@ -1,20 +1,13 @@
 ---
-title: "Section 13824 - Availability of lines of credit and use"
+title: "Section 13824 - Transferred"
 usc_title: 42
 usc_section: "13824"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13824"
-generated_at: "2026-03-30T06:29:56.198Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 13824. Availability of lines of credit and use
+# § 13824. Transferred
 
-- **(a)** The Secretary shall provide a community development corporation that has an application approved under section 13823 of this title with a line of credit in an amount determined appropriate by the Secretary, subject to the limitations contained in subsection (b).
-- **(b)**
-  - **(1)** The Secretary shall not provide in excess of $2,000,000 in lines of credit under this subpart to a single applicant.
-  - **(2)** A line of credit provided under this subpart shall remain available over a period of time established by the Secretary, but in no event shall any such period of time be in excess of 3 years from the date on which such line of credit is made available.
-  - **(3)** Notwithstanding paragraphs (1) and (2), if a recipient of a line of credit under this subpart has made full and productive use of such line of credit, can demonstrate the need and demand for additional assistance, and can meet the requirements of section 13822(b)(2) of this title , the amount of such line of credit may be increased by not more than $1,500,000.
-- **(c)** Amounts drawn from each line of credit under this subpart shall be used solely for the purposes described in section 13821 of this title and shall only be drawn down as needed to provide loans, investments, or to defray administrative costs related to the establishment of a revolving loan fund.
-- **(d)** Revolving loan funds established with lines of credit provided under this subpart may be used to provide technical assistance to private business enterprises and to provide financial assistance in the form of loans, loan guarantees, interest reduction assistance, equity shares, and other such forms of assistance to business enterprises in target areas and who are in compliance with section 13823(a)(4) of this title .

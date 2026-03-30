@@ -3,9 +3,9 @@ title: "Section 4591 - Separability"
 usc_title: 42
 usc_section: "4591"
 chapter: 60
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 4591"
-generated_at: "2026-03-30T06:29:55.971Z"
+generated_at: "2026-03-30T06:31:47.782Z"
 status: "active"
 ---
 

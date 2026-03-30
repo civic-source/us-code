@@ -3,9 +3,9 @@ title: "Section 15008 - Construction"
 usc_title: 42
 usc_section: "15008"
 chapter: 144
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 15008"
-generated_at: "2026-03-30T06:29:56.215Z"
+generated_at: "2026-03-30T06:31:48.041Z"
 status: "active"
 ---
 

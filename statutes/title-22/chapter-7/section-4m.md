@@ -3,9 +3,9 @@ title: "Section 4m - Population, health, and nutrition programs"
 usc_title: 22
 usc_section: "4m"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 4m"
-generated_at: "2026-03-30T06:29:22.356Z"
+generated_at: "2026-03-30T06:30:58.311Z"
 status: "active"
 ---
 

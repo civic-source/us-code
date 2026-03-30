@@ -1,15 +1,13 @@
 ---
-title: "Section 5666 - Grants for technical assistance"
+title: "Section 5666 - Transferred"
 usc_title: 42
 usc_section: "5666"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5666"
-generated_at: "2026-03-30T06:29:55.999Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "transferred"
 ---
 
-# § 5666. Grants for technical assistance
-
-The Administrator may make grants to and contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local government, Indian tribal governments, local private entities or agencies, or any combination thereof, to carry out the projects for which grants are made under section 5665 of this title .
+# § 5666. Transferred
 

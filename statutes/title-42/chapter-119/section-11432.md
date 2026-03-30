@@ -3,9 +3,9 @@ title: "Section 11432 - Grants for State and local activities for the education 
 usc_title: 42
 usc_section: "11432"
 chapter: 119
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 11432"
-generated_at: "2026-03-30T06:29:56.151Z"
+generated_at: "2026-03-30T06:31:47.987Z"
 status: "active"
 ---
 
@@ -97,7 +97,7 @@ status: "active"
   - **(3)** collect data for and transmit to the Secretary, at such time and in such manner as the Secretary may reasonably require, a report containing information necessary to assess the educational needs of homeless children and youths within the State, including data necessary for the Secretary to fulfill the responsibilities under section 11434(h) of this title ;
   - **(4)** in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate activities and collaborate with—
     - **(A)** educators, including teachers, special education personnel, administrators, and child development and preschool program personnel;
-    - **(B)** providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.);
+    - **(B)** providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.); 1
     - **(C)** providers of emergency, transitional, and permanent housing to homeless children and youths, and their families, including public housing agencies, shelter operators, operators of transitional housing facilities, and providers of transitional living programs for homeless youths;
     - **(D)** local educational agency liaisons designated under subsection (g)(1)(J)(ii) for homeless children and youths; and
     - **(E)** community organizations and groups representing homeless children and youths and their families;
@@ -131,7 +131,7 @@ status: "active"
         - **(II)** If the child’s or youth’s living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing the child’s or youth’s education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child or youth with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
       - **(iv)** The State and the local educational agencies in the State will adopt policies and practices to ensure participation by liaisons described in clause (ii) in professional development and other technical assistance activities provided pursuant to paragraphs (5) and (6) of subsection (f), as determined appropriate by the Office of the Coordinator.
     - **(K)** A description of how youths described in section 11434a(2) of this title will receive assistance from counselors to advise such youths, and prepare and improve the readiness of such youths for college.
-  - **(2)** Compliance
+  - **(2)**
     - **(A)** Each plan adopted under this subsection shall also describe how the State will ensure that local educational agencies in the State will comply with the requirements of paragraphs (3) through (7).
     - **(B)** Such plan shall indicate what technical assistance the State will furnish to local educational agencies and how compliance efforts will be coordinated with the local educational agency liaisons designated under paragraph (1)(J)(ii).
   - **(3)**
@@ -173,7 +173,7 @@ status: "active"
     - **(E)** School nutrition programs.
   - **(5)**
     - **(A)** Each local educational agency serving homeless children and youths that receives assistance under this part shall coordinate—
-      - **(i)** the provision of services under this part with local social services agencies and other agencies or entities providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.); and
+      - **(i)** the provision of services under this part with local social services agencies and other agencies or entities providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.); 1 and
       - **(ii)** transportation, transfer of school records, and other interdistrict activities, with other local educational agencies.
     - **(B)** If applicable, each State educational agency and local educational agency that receives assistance under this part shall coordinate with State and local housing agencies responsible for developing the comprehensive housing affordability strategy described in section 12705 of this title to minimize educational disruption for children and youths who become homeless.
     - **(C)** The coordination required under subparagraphs (A) and (B) shall be designed to—

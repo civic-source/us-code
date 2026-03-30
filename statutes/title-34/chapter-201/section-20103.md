@@ -3,9 +3,10 @@ title: "Section 20103 - Crime victim assistance"
 usc_title: 34
 usc_section: "20103"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 20103"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-03-30T06:31:20.909Z"
+status: "active"
 ---
 
 # § 20103. Crime victim assistance
@@ -25,13 +26,6 @@ generated_at: "2026-03-30T02:55:33.293Z"
     - **(A)** except as provided in subparagraph (B), $500,000; and
     - **(B)** for the territories of the Northern Mariana Islands, Guam, American Samoa, and the Republic of Palau, $200,000, with the Republic of Palau’s share governed by the Compact of Free Association between the United States and the Republic of Palau.
   - **(6)** An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1).
-  - **(7)**
-    - **(A)** Each chief executive may waive a matching requirement imposed by the Director, in accordance with subparagraph (B), as a condition for the receipt of funds under any program to provide assistance to victims of crimes authorized under this subchapter. The chief executive shall report to the Director the approval of any waiver of the matching requirement.
-    - **(B)** Each chief executive shall establish and make public, a policy including—
-      - **(i)** the manner in which an eligible crime victim assistance program can request a match waiver;
-      - **(ii)** the criteria used to determine eligibility of the match waiver; and
-      - **(iii)** the process for decision making and notifying the eligible crime victim assistance program of the decision.
-  - **(8)** Beginning on the date a national emergency is declared under the National Emergencies Act ( 50 U.S.C. 1601 et seq.) with respect to a pandemic and ending on the date that is one year after the date of the end of such national emergency, each chief executive shall issue waivers for any matching requirement, in its entirety, for all eligible crime victim assistance programs contracted to provide services at that time.
 - **(b)**
   - **(1)** A victim assistance program is an eligible crime victim assistance program for the purposes of this section if such program—
     - **(A)** is operated by a public agency or a nonprofit organization, or a combination of such agencies or organizations or of both such agencies and organizations, and provides services to victims of crime;
@@ -57,7 +51,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
     - **(A)** be responsible for monitoring compliance with guidelines for fair treatment of crime victims and witnesses issued under section 6 of the Victim and Witness Protection Act of 1982 ( Public Law 97–291 ) [ 18 U.S.C. 1512 note];
     - **(B)** consult with the heads of Federal law enforcement agencies that have responsibilities affecting victims of Federal crimes;
     - **(C)** coordinate victim services provided by the Federal Government with victim services offered by other public agencies and nonprofit organizations;
-    - **(D)** perform such other functions related to the purposes of this title 1 as the Director deems appropriate; and
+    - **(D)** perform such other functions related to the purposes of this title 2 2 See References in Text note below. as the Director deems appropriate; and
     - **(E)** use funds made available to the Director under this subsection—
       - **(i)** for fellowships and clinical internships and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process; and
       - **(ii)** to carry out programs of training and special workshops for the presentation and dissemination of information resulting from demonstrations, surveys, and special projects.

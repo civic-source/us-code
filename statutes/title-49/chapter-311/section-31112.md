@@ -3,9 +3,9 @@ title: "Section 31112 - Property-carrying unit limitation"
 usc_title: 49
 usc_section: "31112"
 chapter: 311
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "49 U.S.C. § 31112"
-generated_at: "2026-03-30T06:30:03.773Z"
+generated_at: "2026-03-30T06:31:55.003Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(2)** Ohio may allow the operation of commercial motor vehicle combinations with 3 property-carrying units of 28.5 feet each (not including the truck tractor) not in actual operation on June 1, 1991 , to be operated in Ohio on the 1-mile segment of Ohio State Route 7 that begins at and is south of exit 16 of the Ohio Turnpike;
   - **(3)** Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991 , but were in actual operation before July 6, 1991 ;
   - **(4)** Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991 ; and
-  - **(5)** Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991 , if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state. 1 1 So in original. Probably should be “State.”.
+  - **(5)** Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991 , if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state. 1 1 So in original. Probably should be “State.”
 - **(d)**
   - **(1)** A commercial motor vehicle combination whose operation in a State is not prohibited under subsections (b) and (c) of this section may continue to operate in the State on highways described in subsection (b) only if at least in compliance with all State laws, regulations, limitations, and conditions, including routing-specific and configuration-specific designations and all other restrictions in force in the State on June 1, 1991 . However, subject to regulations prescribed by the Secretary under subsection (g)(2) of this section, the State may make minor adjustments of a temporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991 , for specific safety purposes and road construction.
   - **(2)** This section does not prevent a State from further restricting in any way or prohibiting the operation of any commercial motor vehicle combination subject to this section, except that a restriction or prohibition shall be consistent with this section and sections 31113(a) and (b) and 31114 of this title.

@@ -3,9 +3,9 @@ title: "Section 5873 - Director of Office of Management and Budget; power to mak
 usc_title: 42
 usc_section: "5873"
 chapter: 73
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5873"
-generated_at: "2026-03-30T06:29:56.005Z"
+generated_at: "2026-03-30T06:31:47.817Z"
 status: "active"
 ---
 

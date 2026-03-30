@@ -3,9 +3,9 @@ title: "Section 907 - Acquisition of property pledged for loans; disposition; sa
 usc_title: 7
 usc_section: "907"
 chapter: 31
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "7 U.S.C. § 907"
-generated_at: "2026-03-30T06:28:54.412Z"
+generated_at: "2026-03-30T06:30:27.363Z"
 status: "active"
 ---
 

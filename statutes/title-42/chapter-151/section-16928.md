@@ -1,15 +1,13 @@
 ---
-title: "Section 16928 - Registration of sex offenders entering the United States"
+title: "Section 16928 - Transferred"
 usc_title: 42
 usc_section: "16928"
 chapter: 151
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 16928"
-generated_at: "2026-03-30T06:29:56.242Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.067Z"
+status: "transferred"
 ---
 
-# § 16928. Registration of sex offenders entering the United States
-
-The Attorney General, in consultation with the Secretary of State and the Secretary of Homeland Security, shall establish and maintain a system for informing the relevant jurisdictions about persons entering the United States who are required to register under this subchapter. The Secretary of State and the Secretary of Homeland Security shall provide such information and carry out such functions as the Attorney General may direct in the operation of the system.
+# § 16928. Transferred
 

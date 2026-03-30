@@ -3,9 +3,9 @@ title: "Section 77a - Functions of museum"
 usc_title: 20
 usc_section: "77a"
 chapter: 3
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "20 U.S.C. § 77a"
-generated_at: "2026-03-30T06:29:12.626Z"
+generated_at: "2026-03-30T06:30:45.493Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1688 - Trust Territory of the Pacific Islands Economic Developme
 usc_title: 48
 usc_section: "1688"
 chapter: 14
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "48 U.S.C. § 1688"
-generated_at: "2026-03-30T06:29:59.773Z"
+generated_at: "2026-03-30T06:31:50.870Z"
 status: "active"
 ---
 

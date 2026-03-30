@@ -3,9 +3,9 @@ title: "Section 1927 - Authority for higher monthly installments payable to cert
 usc_title: 38
 usc_section: "1927"
 chapter: 19
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "38 U.S.C. § 1927"
-generated_at: "2026-03-30T06:29:41.049Z"
+generated_at: "2026-03-30T06:31:31.142Z"
 status: "active"
 ---
 

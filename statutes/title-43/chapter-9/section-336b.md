@@ -3,9 +3,9 @@ title: "Section 336b - Repealed. Pub. L. 94–579, title VII , § 702, Oct. 21, 
 usc_title: 43
 usc_section: "336b"
 chapter: 9
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "43 U.S.C. § 336b"
-generated_at: "2026-03-30T06:29:43.491Z"
+generated_at: "2026-03-30T06:31:33.856Z"
 status: "repealed"
 ---
 

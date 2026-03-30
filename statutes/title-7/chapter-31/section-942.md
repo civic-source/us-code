@@ -3,9 +3,9 @@ title: "Section 942 - General powers"
 usc_title: 7
 usc_section: "942"
 chapter: 31
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "7 U.S.C. § 942"
-generated_at: "2026-03-30T06:28:54.414Z"
+generated_at: "2026-03-30T06:30:27.365Z"
 status: "active"
 ---
 

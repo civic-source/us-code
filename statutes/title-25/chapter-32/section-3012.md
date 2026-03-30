@@ -3,9 +3,9 @@ title: "Section 3012 - Authorization of appropriations"
 usc_title: 25
 usc_section: "3012"
 chapter: 32
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "25 U.S.C. § 3012"
-generated_at: "2026-03-30T06:29:19.413Z"
+generated_at: "2026-03-30T06:30:55.489Z"
 status: "active"
 ---
 

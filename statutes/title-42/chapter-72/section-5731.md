@@ -1,15 +1,13 @@
 ---
-title: "Section 5731 - Restrictions on disclosure and transfer"
+title: "Section 5731 - Transferred"
 usc_title: 42
 usc_section: "5731"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5731"
-generated_at: "2026-03-30T06:29:56.000Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "transferred"
 ---
 
-# § 5731. Restrictions on disclosure and transfer
-
-Records containing the identity of individual youths pursuant to this chapter may under no circumstances be disclosed or transferred to any individual or to any public or private agency.
+# § 5731. Transferred
 

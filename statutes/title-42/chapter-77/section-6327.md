@@ -3,9 +3,9 @@ title: "Section 6327 - Repealed. Pub. L. 101–440 , § 4(c)(1), Oct. 18, 1990 ,
 usc_title: 42
 usc_section: "6327"
 chapter: 77
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 6327"
-generated_at: "2026-03-30T06:29:56.020Z"
+generated_at: "2026-03-30T06:31:47.835Z"
 status: "repealed"
 ---
 

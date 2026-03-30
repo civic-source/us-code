@@ -3,9 +3,9 @@ title: "Section 1397 - Income tax laws of United States in force; payment of pro
 usc_title: 48
 usc_section: "1397"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "48 U.S.C. § 1397"
-generated_at: "2026-03-30T06:29:59.766Z"
+generated_at: "2026-03-30T06:31:50.862Z"
 status: "active"
 ---
 

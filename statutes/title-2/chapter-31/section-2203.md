@@ -3,9 +3,9 @@ title: "Section 2203 - Use of the Emancipation Hall of the Capitol Visitor Cente
 usc_title: 2
 usc_section: "2203"
 chapter: 31
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "2 U.S.C. § 2203"
-generated_at: "2026-03-30T06:28:47.621Z"
+generated_at: "2026-03-30T06:30:18.643Z"
 status: "active"
 ---
 

@@ -1,20 +1,13 @@
 ---
-title: "Section 13812 - Authorization of appropriations"
+title: "Section 13812 - Omitted"
 usc_title: 42
 usc_section: "13812"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13812"
-generated_at: "2026-03-30T06:29:56.197Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "omitted"
 ---
 
-# § 13812. Authorization of appropriations
+# § 13812. Omitted
 
-There are authorized to be appropriated for grants under section 13811 of this title —
-
-  - **(1)** $2,000,000 for fiscal year 1996;
-  - **(2)** $4,000,000 for fiscal year 1997;
-  - **(3)** $5,000,000 for fiscal year 1998;
-  - **(4)** $6,000,000 for fiscal year 1999; and
-  - **(5)** $7,000,000 for fiscal year 2000.

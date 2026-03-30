@@ -3,9 +3,9 @@ title: "Section 1727a - Eligible countries"
 usc_title: 7
 usc_section: "1727a"
 chapter: 41
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "7 U.S.C. § 1727a"
-generated_at: "2026-03-30T06:28:54.445Z"
+generated_at: "2026-03-30T06:30:27.398Z"
 status: "active"
 ---
 

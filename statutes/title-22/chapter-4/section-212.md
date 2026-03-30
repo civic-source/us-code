@@ -3,9 +3,9 @@ title: "Section 212 - Persons entitled to passport"
 usc_title: 22
 usc_section: "212"
 chapter: 4
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 212"
-generated_at: "2026-03-30T06:29:22.352Z"
+generated_at: "2026-03-30T06:30:58.304Z"
 status: "active"
 ---
 

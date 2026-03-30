@@ -3,9 +3,9 @@ title: "Section 7651l - General compliance with other provisions"
 usc_title: 42
 usc_section: "7651l"
 chapter: 85
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 7651l"
-generated_at: "2026-03-30T06:29:56.080Z"
+generated_at: "2026-03-30T06:31:47.908Z"
 status: "active"
 ---
 

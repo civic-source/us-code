@@ -1,15 +1,13 @@
 ---
-title: "Section 3789l - Indian liability waiver"
+title: "Section 3789l - Transferred"
 usc_title: 42
 usc_section: "3789l"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3789l"
-generated_at: "2026-03-30T06:29:55.947Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.766Z"
+status: "transferred"
 ---
 
-# § 3789l. Indian liability waiver
-
-Where a State does not have an adequate forum to enforce grant provisions imposing liability on Indian tribes, the Assistant Attorney General is authorized to waive State liability and may pursue such legal remedies as are necessary.
+# § 3789l. Transferred
 

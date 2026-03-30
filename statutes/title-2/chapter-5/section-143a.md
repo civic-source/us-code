@@ -3,9 +3,9 @@ title: "Section 143a - Disbursement of funds"
 usc_title: 2
 usc_section: "143a"
 chapter: 5
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "2 U.S.C. § 143a"
-generated_at: "2026-03-30T06:28:47.591Z"
+generated_at: "2026-03-30T06:30:18.607Z"
 status: "active"
 ---
 

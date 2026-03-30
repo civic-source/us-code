@@ -3,9 +3,9 @@ title: "Section 888 - Repealed. Pub. L. 91–230, title IV , § 401(e)(1), Apr. 
 usc_title: 20
 usc_section: "888"
 chapter: 24
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "20 U.S.C. § 888"
-generated_at: "2026-03-30T06:29:12.632Z"
+generated_at: "2026-03-30T06:30:45.498Z"
 status: "repealed"
 ---
 

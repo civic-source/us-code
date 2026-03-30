@@ -1,26 +1,13 @@
 ---
-title: "Section 16944 - Expansion of training and technology efforts"
+title: "Section 16944 - Transferred"
 usc_title: 42
 usc_section: "16944"
 chapter: 151
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 16944"
-generated_at: "2026-03-30T06:29:56.243Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.068Z"
+status: "transferred"
 ---
 
-# § 16944. Expansion of training and technology efforts
+# § 16944. Transferred
 
-- **(a)** The Attorney General shall—
-  - **(1)** expand training efforts with Federal, State, and local law enforcement officers and prosecutors to effectively respond to the threat to children and the public posed by sex offenders who use the Internet and technology to solicit or otherwise exploit children;
-  - **(2)** facilitate meetings involving corporations that sell computer hardware and software or provide services to the general public related to use of the Internet, to identify problems associated with the use of technology for the purpose of exploiting children;
-  - **(3)** host national conferences to train Federal, State, and local law enforcement officers, probation and parole officers, and prosecutors regarding pro-active approaches to monitoring sex offender activity on the Internet;
-  - **(4)** develop and distribute, for personnel listed in paragraph (3), information regarding multidisciplinary approaches to holding offenders accountable to the terms of their probation, parole, and sex offender registration laws; and
-  - **(5)** partner with other agencies to improve the coordination of joint investigations among agencies to effectively combat online solicitation of children by sex offenders.
-- **(b)** The Attorney General shall—
-  - **(1)** deploy, to all Internet Crimes Against Children Task Forces and their partner agencies, technology modeled after the Canadian Child Exploitation Tracking System; and
-  - **(2)** conduct training in the use of that technology.
-- **(c)** Not later than July 1, 2007 , the Attorney General, 1 1 So in original. The comma probably should not appear. shall submit to Congress a report on the activities carried out under this section. The report shall include any recommendations that the Attorney General considers appropriate.
-- **(d)** There are authorized to be appropriated to the Attorney General, for fiscal year 2007—
-  - **(1)** $1,000,000 to carry out subsection (a); and
-  - **(2)** $2,000,000 to carry out subsection (b).

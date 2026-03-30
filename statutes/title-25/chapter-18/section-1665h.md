@@ -3,9 +3,9 @@ title: "Section 1665h - Inpatient and community-based mental health facilities d
 usc_title: 25
 usc_section: "1665h"
 chapter: 18
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "25 U.S.C. § 1665h"
-generated_at: "2026-03-30T06:29:19.394Z"
+generated_at: "2026-03-30T06:30:55.462Z"
 status: "active"
 ---
 

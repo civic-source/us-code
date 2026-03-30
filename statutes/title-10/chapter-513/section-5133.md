@@ -3,9 +3,9 @@ title: "Section 5133 - Repealed. Pub. L. 114–328, div. A, title V , § 502(z)(
 usc_title: 10
 usc_section: "5133"
 chapter: 513
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 5133"
-generated_at: "2026-03-30T06:29:00.026Z"
+generated_at: "2026-03-30T06:30:32.005Z"
 status: "repealed"
 ---
 

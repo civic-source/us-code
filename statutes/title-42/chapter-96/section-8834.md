@@ -3,9 +3,9 @@ title: "Section 8834 - Price support loans and price guarantees"
 usc_title: 42
 usc_section: "8834"
 chapter: 96
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 8834"
-generated_at: "2026-03-30T06:29:56.099Z"
+generated_at: "2026-03-30T06:31:47.930Z"
 status: "active"
 ---
 
@@ -24,10 +24,10 @@ status: "active"
       - **(i)** the standard support price reduced by the cost of the fuel displaced by the biomass energy sold, or (ii) $2.00, whichever is lower, multiplied by
     - **(B)** the amount of such biomass energy sold (in millions of Btu’s).
 - **(b)**
-  - **(1)** In the case of any new municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price support loan in amounts determined in accordance with the provisions of subsection (a) of this section, except as provided in paragraph (2).
+  - **(1)** In the case of any new municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price support loan in amounts determined in accordance with the provisions of subsection (a), except as provided in paragraph (2).
   - **(2)** In the case of any loan under this subsection for a new municipal waste energy project—
-    - **(A)** disbursements under such loan may not be made for more than 7 consecutive 12-month periods (with reductions as provided in subsection (a)(2)(A)(ii)) of this section;
-    - **(B)** such loan shall bear interest at a rate not in excess of the rate prescribed under subsection (a) of this section; and
+    - **(A)** disbursements under such loan may not be made for more than 7 consecutive 12-month periods (with reductions as provided in subsection (a)(2)(A)(ii));
+    - **(B)** such loan shall bear interest at a rate not in excess of the rate prescribed under subsection (a); and
     - **(C)** the principal of or interest on such loan shall, in accordance with the support loan agreement, be repayable, commencing at the end of the last 12-month period covered by the support loan, over a period not in excess of the period equal to the then remaining useful life of the project (as determined by the Secretary) or 15 years, whichever is shorter.
 - **(c)**
   - **(1)** In the case of any new municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price guarantee for the operation of such project which guarantees that the price the owner or operator will receive for all or part of the production from that project shall not be less than a specified sales price determined as of the date of execution of the guarantee agreement.
@@ -36,8 +36,8 @@ status: "active"
     - **(B)** The use of a cost-of-service pricing mechanism by a person pursuant to law, or by a regulatory body establishing rates for a regulated person, shall not be deemed to be a cost-plus arrangement, or variant thereof, for purposes of subparagraph (A).
   - **(3)** In the case of any price guarantee under this subsection for a new municipal waste energy project—
     - **(A)** disbursements under such guarantee may not be made for more than 7 consecutive 12-month periods; and
-    - **(B)** amounts paid under this subsection may be required to be repaid to the Secretary of Energy under such terms and conditions as the Secretary may prescribe, including interest at a rate not in excess of the rate prescribed under subsection (a) of this section.
-- **(d)** For purposes of this section—
+    - **(B)** amounts paid under this subsection may be required to be repaid to the Secretary of Energy under such terms and conditions as the Secretary may prescribe, including interest at a rate not in excess of the rate prescribed under subsection (a).
+- **(d)** For purposes—
   - **(1)** The term “new municipal waste energy project” means any municipal waste energy project which—
     - **(A)** is initially placed in service after June 30, 1980 ; or
     - **(B)** if initially placed in service before June 30, 1980 , has an increased capacity by reason of additional construction, and as such is placed in service after such date.

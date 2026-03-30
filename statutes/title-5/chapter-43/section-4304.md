@@ -3,9 +3,9 @@ title: "Section 4304 - Responsibilities of the Office of Personnel Management"
 usc_title: 5
 usc_section: "4304"
 chapter: 43
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "5 U.S.C. § 4304"
-generated_at: "2026-03-30T06:28:49.109Z"
+generated_at: "2026-03-30T06:30:20.588Z"
 status: "active"
 ---
 

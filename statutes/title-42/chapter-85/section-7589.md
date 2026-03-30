@@ -3,16 +3,16 @@ title: "Section 7589 - California pilot test program"
 usc_title: 42
 usc_section: "7589"
 chapter: 85
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 7589"
-generated_at: "2026-03-30T06:29:56.073Z"
+generated_at: "2026-03-30T06:31:47.900Z"
 status: "active"
 ---
 
 # § 7589. California pilot test program
 
 - **(a)** The Administrator shall establish a pilot program in the State of California to demonstrate the effectiveness of clean-fuel vehicles in controlling air pollution in ozone nonattainment areas.
-- **(b)** The provisions of this section shall only apply to light-duty trucks and light-duty vehicles, and such provisions shall apply only in the State of California, except as provided in subsection (f) of this section.
+- **(b)** The provisions of this section shall only apply to light-duty trucks and light-duty vehicles, and such provisions shall apply only in the State of California, except as provided in subsection (f).
 - **(c)** Not later than 24 months after November 15, 1990 , the Administrator shall promulgate regulations establishing requirements under this section applicable in the State of California. The regulations shall provide the following:
   - **(1)** Clean-fuel vehicles shall be produced, sold, and distributed (in accordance with normal business practices and applicable franchise agreements) to ultimate purchasers in California (including owners of covered fleets referred to in section 7586 of this title ) in numbers that meet or exceed the following schedule: Model Years Number of Clean-Fuel Vehicles 1996, 1997, 1998 150,000 vehicles 1999 and thereafter 300,000 vehicles
   - **(2)**

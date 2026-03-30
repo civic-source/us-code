@@ -1,17 +1,13 @@
 ---
-title: "Section 5678 - Rules of construction"
+title: "Section 5678 - Transferred"
 usc_title: 42
 usc_section: "5678"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5678"
-generated_at: "2026-03-30T06:29:55.999Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "transferred"
 ---
 
-# § 5678. Rules of construction
+# § 5678. Transferred
 
-Nothing in this subchapter or subchapter I shall be construed—
-
-  - **(1)** to prevent financial assistance from being awarded through grants under this subchapter to any otherwise eligible organization; or
-  - **(2)** to modify or affect any Federal or State law relating to collective bargaining rights of employees.

@@ -3,9 +3,9 @@ title: "Section 32914 - Collecting civil penalties"
 usc_title: 49
 usc_section: "32914"
 chapter: 329
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "49 U.S.C. § 32914"
-generated_at: "2026-03-30T06:30:03.782Z"
+generated_at: "2026-03-30T06:31:55.011Z"
 status: "active"
 ---
 

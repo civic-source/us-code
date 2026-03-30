@@ -3,9 +3,9 @@ title: "Section 284 - Acceptance of membership by United States in International
 usc_title: 22
 usc_section: "284"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 284"
-generated_at: "2026-03-30T06:29:22.363Z"
+generated_at: "2026-03-30T06:30:58.322Z"
 status: "active"
 ---
 

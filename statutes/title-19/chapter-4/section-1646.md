@@ -3,9 +3,9 @@ title: "Section 1646 - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , 
 usc_title: 19
 usc_section: "1646"
 chapter: 4
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "19 U.S.C. § 1646"
-generated_at: "2026-03-30T06:29:10.719Z"
+generated_at: "2026-03-30T06:30:43.671Z"
 status: "repealed"
 ---
 

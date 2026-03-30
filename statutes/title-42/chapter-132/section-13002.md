@@ -1,30 +1,13 @@
 ---
-title: "Section 13002 - Local children’s advocacy centers"
+title: "Section 13002 - Transferred"
 usc_title: 42
 usc_section: "13002"
 chapter: 132
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13002"
-generated_at: "2026-03-30T06:29:56.183Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.023Z"
+status: "transferred"
 ---
 
-# § 13002. Local children’s advocacy centers
+# § 13002. Transferred
 
-- **(a)** The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to develop and implement multidisciplinary child abuse investigation and prosecution programs.
-- **(b)** The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of child pornography.
-- **(c)**
-  - **(1)** The Director shall establish the criteria to be used in evaluating applications for grants under this section consistent with sections 5673 and 5676 of this title.
-  - **(2)** In general, the grant criteria established pursuant to paragraph (1) may require that a program include any of the following elements:
-    - **(A)** A written agreement between local law enforcement, social service, health, and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
-    - **(B)** An appropriate site for referring, interviewing, treating, and counseling child victims of sexual and serious physical abuse and neglect and nonoffending family members (referred to as the “counseling center”).
-    - **(C)** Referral of all sexual and serious physical abuse and neglect cases to the counseling center not later than 24 hours after notification of an incident of abuse.
-    - **(D)** Joint initial investigative interviews of child victims by personnel from law enforcement, health, and social service agencies.
-    - **(E)** A requirement that, to the extent practicable, the same agency representative who conducts an initial interview conduct all subsequent interviews.
-    - **(F)** A requirement that, to the extent practicable, all interviews and meetings with a child victim occur at the counseling center.
-    - **(G)** Coordination of each step of the investigation process to minimize the number of interviews that a child victim must attend.
-    - **(H)** Designation of a director for the multidisciplinary program.
-    - **(I)** Assignment of a volunteer or staff advocate to each child in order to assist the child and, when appropriate, the child’s family, throughout each step of judicial proceedings.
-    - **(J)** Such other criteria as the Director shall establish by regulation.
-- **(d)** In awarding grants under this section, the Director shall ensure that grants are distributed to both large and small States and to rural, suburban, and urban jurisdictions.
-- **(e)** A grant recipient under this section shall consult from time to time with regional children’s advocacy centers in its census region that are grant recipients under section 13001b of this title .

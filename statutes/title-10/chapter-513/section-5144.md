@@ -3,9 +3,9 @@ title: "Section 5144 - Office of Marine Forces Reserve: appointment of Commander
 usc_title: 10
 usc_section: "5144"
 chapter: 513
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 5144"
-generated_at: "2026-03-30T06:29:00.026Z"
+generated_at: "2026-03-30T06:30:32.006Z"
 status: "active"
 ---
 

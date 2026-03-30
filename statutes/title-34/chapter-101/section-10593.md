@@ -3,9 +3,10 @@ title: "Section 10593 - Program requirements"
 usc_title: 34
 usc_section: "10593"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 10593"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-03-30T06:31:20.883Z"
+status: "active"
 ---
 
 # § 10593. Program requirements
@@ -23,6 +24,3 @@ generated_at: "2026-03-30T02:55:33.272Z"
   - **(1)** The program shall integrate techniques to assess the strengths and needs of immediate and extended family of the incarcerated parent to support a treatment plan of the incarcerated parent.
   - **(2)** The program shall ensure that each participant in that program has access to consistent and uninterrupted care if transferred to a different correctional facility within the State or other relevant entity.
   - **(3)** The program shall be located in an area separate from the general population of the prison.
-- **(c)** The Attorney General shall give priority consideration to grant applications for grants under section 10591 of this title that are submitted by a nonprofit organization that demonstrates a relationship with State and local criminal justice agencies, including—
-  - **(1)** within the judiciary and prosecutorial agencies; or
-  - **(2)** with the local corrections agencies, which shall be documented by a written agreement that details the terms of access to facilities and participants and provides information on the history of the organization of working with correctional populations.

@@ -3,9 +3,9 @@ title: "Section 22507 - Tax-exempt status"
 usc_title: 36
 usc_section: "22507"
 chapter: 225
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "36 U.S.C. § 22507"
-generated_at: "2026-03-30T06:29:39.121Z"
+generated_at: "2026-03-30T06:31:29.611Z"
 status: "active"
 ---
 

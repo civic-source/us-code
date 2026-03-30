@@ -1,15 +1,13 @@
 ---
-title: "Section 16912 - Registry requirements for jurisdictions"
+title: "Section 16912 - Transferred"
 usc_title: 42
 usc_section: "16912"
 chapter: 151
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 16912"
-generated_at: "2026-03-30T06:29:56.241Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.067Z"
+status: "transferred"
 ---
 
-# § 16912. Registry requirements for jurisdictions
+# § 16912. Transferred
 
-- **(a)** Each jurisdiction shall maintain a jurisdiction-wide sex offender registry conforming to the requirements of this subchapter.
-- **(b)** The Attorney General shall issue guidelines and regulations to interpret and implement this subchapter.

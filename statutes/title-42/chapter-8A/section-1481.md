@@ -3,9 +3,9 @@ title: "Section 1481 - Issuance of notes and obligations for loan funds; amount;
 usc_title: 42
 usc_section: "1481"
 chapter: 8
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 1481"
-generated_at: "2026-03-30T06:29:55.856Z"
+generated_at: "2026-03-30T06:31:47.657Z"
 status: "active"
 ---
 

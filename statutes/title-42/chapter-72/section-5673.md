@@ -1,17 +1,13 @@
 ---
-title: "Section 5673 - Withholding"
+title: "Section 5673 - Transferred"
 usc_title: 42
 usc_section: "5673"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5673"
-generated_at: "2026-03-30T06:29:55.999Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "transferred"
 ---
 
-# § 5673. Withholding
+# § 5673. Transferred
 
-Whenever the Administrator, after giving reasonable notice and opportunity for hearing to a recipient of financial assistance under this subchapter, finds that—
-
-  - **(1)** the program or activity for which the grant or contract involved was made has been so changed that it no longer complies with this subchapter; or
-  - **(2)** in the operation of such program or activity there is failure to comply substantially with any provision of this subchapter;

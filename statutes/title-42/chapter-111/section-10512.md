@@ -1,15 +1,13 @@
 ---
-title: "Section 10512 - Issuance of rules"
+title: "Section 10512 - Transferred"
 usc_title: 42
 usc_section: "10512"
 chapter: 111
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 10512"
-generated_at: "2026-03-30T06:29:56.139Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.975Z"
+status: "transferred"
 ---
 
-# § 10512. Issuance of rules
-
-The Attorney General, after consultation with appropriate members of the law enforcement community and with State and local officials, shall issue rules to carry out this chapter.
+# § 10512. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 346 - Distribution to certain foreign personnel of education and
 usc_title: 10
 usc_section: "346"
 chapter: 16
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 346"
-generated_at: "2026-03-30T06:28:59.929Z"
+generated_at: "2026-03-30T06:30:31.866Z"
 status: "active"
 ---
 

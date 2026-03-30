@@ -3,9 +3,9 @@ title: "Section 14903 - Boards of inquiry"
 usc_title: 10
 usc_section: "14903"
 chapter: 1411
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 14903"
-generated_at: "2026-03-30T06:29:00.052Z"
+generated_at: "2026-03-30T06:30:32.043Z"
 status: "active"
 ---
 

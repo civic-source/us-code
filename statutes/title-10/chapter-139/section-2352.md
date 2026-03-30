@@ -3,9 +3,9 @@ title: "Section 2352 - Repealed. Pub. L. 114–92, div. A, title X , § 1078(c)(
 usc_title: 10
 usc_section: "2352"
 chapter: 139
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 2352"
-generated_at: "2026-03-30T06:28:59.992Z"
+generated_at: "2026-03-30T06:30:31.958Z"
 status: "repealed"
 ---
 

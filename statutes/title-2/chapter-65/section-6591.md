@@ -3,9 +3,9 @@ title: "Section 6591 - Compensation of Sergeant at Arms and Doorkeeper of Senate
 usc_title: 2
 usc_section: "6591"
 chapter: 65
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "2 U.S.C. § 6591"
-generated_at: "2026-03-30T06:28:47.631Z"
+generated_at: "2026-03-30T06:30:18.654Z"
 status: "active"
 ---
 

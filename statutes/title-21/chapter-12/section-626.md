@@ -3,9 +3,9 @@ title: "Section 626 - Purchase of tags, labels, stamps, and certificates"
 usc_title: 21
 usc_section: "626"
 chapter: 12
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "21 U.S.C. § 626"
-generated_at: "2026-03-30T06:29:20.181Z"
+generated_at: "2026-03-30T06:30:54.347Z"
 status: "active"
 ---
 

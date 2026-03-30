@@ -3,9 +3,9 @@ title: "Section 674 - Sullys Hill National Game Preserve"
 usc_title: 16
 usc_section: "674"
 chapter: 6
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 674"
-generated_at: "2026-03-30T06:29:15.705Z"
+generated_at: "2026-03-30T06:30:49.711Z"
 status: "active"
 ---
 

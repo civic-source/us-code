@@ -3,9 +3,9 @@ title: "Section 1881 - Definitions"
 usc_title: 2
 usc_section: "1881"
 chapter: 28
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "2 U.S.C. § 1881"
-generated_at: "2026-03-30T06:28:47.615Z"
+generated_at: "2026-03-30T06:30:18.635Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 In this subchapter—
 
   - **(1)** the term “Capitol-flown flag” means a flag of the United States flown over the Capitol in honor of the deceased individual for whom the flag is requested;
-  - **(2)** the terms “chaplain”, “firefighter”, “law enforcement officer”, “member of a rescue squad or ambulance crew”, and “public agency” have the meanings given such terms in section 3796b of title 42 ;
+  - **(2)** the terms “chaplain”, “firefighter”, “law enforcement officer”, “member of a rescue squad or ambulance crew”, and “public agency” have the meanings given such terms in section 10284 of title 34 ;
   - **(3)** the term “immediate family member”, with respect to an individual, means—
     - **(A)** the spouse, parent, brother, sister, or child of the individual or a person to whom the individual stands in loco parentis; or
     - **(B)** any other person related to the individual by blood or marriage;

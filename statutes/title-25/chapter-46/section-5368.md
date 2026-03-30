@@ -3,9 +3,9 @@ title: "Section 5368 - Authorization of appropriations"
 usc_title: 25
 usc_section: "5368"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "25 U.S.C. § 5368"
-generated_at: "2026-03-30T06:29:19.430Z"
+generated_at: "2026-03-30T06:30:55.514Z"
 status: "active"
 ---
 

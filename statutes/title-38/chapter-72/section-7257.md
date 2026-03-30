@@ -3,9 +3,9 @@ title: "Section 7257 - Recall of retired judges"
 usc_title: 38
 usc_section: "7257"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "38 U.S.C. § 7257"
-generated_at: "2026-03-30T06:29:41.077Z"
+generated_at: "2026-03-30T06:31:31.179Z"
 status: "active"
 ---
 

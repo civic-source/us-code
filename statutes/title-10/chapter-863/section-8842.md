@@ -3,9 +3,9 @@ title: "Section 8842 - Repealed. Pub. L. 86–559 , § 1(66), June 30, 1960 , 74
 usc_title: 10
 usc_section: "8842"
 chapter: 863
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 8842"
-generated_at: "2026-03-30T06:29:00.039Z"
+generated_at: "2026-03-30T06:30:32.024Z"
 status: "repealed"
 ---
 

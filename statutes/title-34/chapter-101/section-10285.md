@@ -3,9 +3,10 @@ title: "Section 10285 - Administrative provisions"
 usc_title: 34
 usc_section: "10285"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 10285"
-generated_at: "2026-03-30T02:55:33.265Z"
+generated_at: "2026-03-30T06:31:20.873Z"
+status: "active"
 ---
 
 # § 10285. Administrative provisions
@@ -50,7 +51,7 @@ generated_at: "2026-03-30T02:55:33.265Z"
       - **(iv)** the number of claims described in clause (i) for which the Bureau has not made a final determination.
   - **(3)** Not later than 2 years after June 2, 2017 , and 2 years thereafter, the Comptroller General of the United States shall—
     - **(A)** conduct a study on the compliance of the Bureau with the obligation to offset award amounts under section 10281(f)(3) of this title ; and
-    - **(B)** submit to Congress a report on the study conducted under subparagraph (A) that includes an assessment of whether the Bureau has provided the information required under subparagraph (I) of paragraph (2) of this subsection in each report required under that paragraph.
+    - **(B)** submit to Congress a report on the study conducted under subparagraph (A) that includes an assessment of whether the Bureau has provided the information required under subparagraph (B)(ix) 1 1 So in original. Probably means subpar. (I) of par. (2). of paragraph (2) of this subsection in each report required under that paragraph.
   - **(4)** In this subsection, the term “nature of the claim” means whether the claim is a claim for—
     - **(A)** benefits under this part with respect to the death of a public safety officer;
     - **(B)** benefits under this part with respect to the disability of a public safety officer; or

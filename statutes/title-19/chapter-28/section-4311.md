@@ -3,9 +3,9 @@ title: "Section 4311 - Improving partnership programs"
 usc_title: 19
 usc_section: "4311"
 chapter: 28
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "19 U.S.C. § 4311"
-generated_at: "2026-03-30T06:29:10.771Z"
+generated_at: "2026-03-30T06:30:43.723Z"
 status: "active"
 ---
 

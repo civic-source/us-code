@@ -1,19 +1,13 @@
 ---
-title: "Section 14662 - Eligibility"
+title: "Section 14662 - Transferred"
 usc_title: 42
 usc_section: "14662"
 chapter: 140
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14662"
-generated_at: "2026-03-30T06:29:56.212Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.039Z"
+status: "transferred"
 ---
 
-# § 14662. Eligibility
+# § 14662. Transferred
 
-- **(a)** To be eligible to receive a grant award under this chapter, a State shall submit an application at such time and in such form as the Attorney General may reasonably require.
-- **(b)** Each such application shall include assurances that the State shall, to the greatest extent possible—
-  - **(1)** report to the National Crime Information Center and when possible, to law enforcement authorities throughout the State regarding every deceased unidentified person, regardless of age, found in the State’s jurisdiction;
-  - **(2)** enter a complete profile of such unidentified person in compliance with the guidelines established by the Department of Justice for the National Crime Information Center Missing and Unidentified Persons File, including dental records, DNA records, x-rays, and fingerprints, if available;
-  - **(3)** enter the National Crime Information Center number or other appropriate number assigned to the unidentified person on the death certificate of each such unidentified person; and
-  - **(4)** retain all such records pertaining to unidentified persons until a person is identified.

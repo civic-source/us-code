@@ -3,9 +3,9 @@ title: "Section 824 - Declaration of policy; application of subchapter"
 usc_title: 16
 usc_section: "824"
 chapter: 12
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 824"
-generated_at: "2026-03-30T06:29:15.719Z"
+generated_at: "2026-03-30T06:30:49.731Z"
 status: "active"
 ---
 

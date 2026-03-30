@@ -3,9 +3,9 @@ title: "Section 1395ww - Payments to hospitals for inpatient hospital services"
 usc_title: 42
 usc_section: "1395ww"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 1395ww"
-generated_at: "2026-03-30T06:29:55.790Z"
+generated_at: "2026-03-30T06:31:47.572Z"
 status: "active"
 ---
 
@@ -1121,7 +1121,7 @@ status: "active"
       - **(i)** The long-term care hospital was a not-for-profit long-term care hospital on June 1, 2014 , as determined by cost report data.
       - **(ii)** Of the discharges in calendar year 2013 from the long-term care hospital for which payment was made under this section, at least 50 percent were classified under MS–LTCH–DRGs 28, 29, 52, 57, 551, 573, and 963.
       - **(iii)**
-        - **(I)** The long-term care hospital discharged inpatients (including both individuals entitled to, or enrolled for, benefits under this title and individuals not so entitled or enrolled) during fiscal year 2014 who had been admitted from at least 20 of the 50 States, determined by the States of residency of such inpatients and based on such data submitted by the hospital to the Secretary as the Secretary may require.
+        - **(I)** The long-term care hospital discharged inpatients (including both individuals entitled to, or enrolled for, benefits under this subchapter and individuals not so entitled or enrolled) during fiscal year 2014 who had been admitted from at least 20 of the 50 States, determined by the States of residency of such inpatients and based on such data submitted by the hospital to the Secretary as the Secretary may require.
         - **(II)** Notwithstanding any other provision of law, the Secretary may implement subclause (I) by program instruction or otherwise.
         - **(III)** Chapter 35 of title 44 shall not apply to data collected under this clause.
     - **(G)**

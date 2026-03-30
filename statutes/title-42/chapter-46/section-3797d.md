@@ -1,18 +1,13 @@
 ---
-title: "Section 3797d - Definitions"
+title: "Section 3797d - Transferred"
 usc_title: 42
 usc_section: "3797d"
 chapter: 46
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 3797d"
-generated_at: "2026-03-30T06:29:55.954Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.768Z"
+status: "transferred"
 ---
 
-# § 3797d. Definitions
+# § 3797d. Transferred
 
-For purposes of this subchapter—
-
-  - **(1)** the term “school” means a public elementary or secondary school;
-  - **(2)** the term “unit of local government” means a county, municipality, town, township, village, parish, borough, or other unit of general government below the State level; and
-  - **(3)** the term “Indian tribe” has the same meaning as in section 5304(e) of title 25 .

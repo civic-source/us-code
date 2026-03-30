@@ -3,9 +3,9 @@ title: "Section 2308 - Buy-to-budget acquisition: end items"
 usc_title: 10
 usc_section: "2308"
 chapter: 137
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 2308"
-generated_at: "2026-03-30T06:28:59.988Z"
+generated_at: "2026-03-30T06:30:31.951Z"
 status: "active"
 ---
 

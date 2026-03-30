@@ -3,9 +3,10 @@ title: "Section 20323 - Strengthening of court-appointed special advocate progra
 usc_title: 34
 usc_section: "20323"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 20323"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-03-30T06:31:20.913Z"
+status: "active"
 ---
 
 # § 20323. Strengthening of court-appointed special advocate program

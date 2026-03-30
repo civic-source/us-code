@@ -3,9 +3,9 @@ title: "Section 3724 - Crowdsourcing and citizen science"
 usc_title: 15
 usc_section: "3724"
 chapter: 63
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "15 U.S.C. § 3724"
-generated_at: "2026-03-30T06:29:07.206Z"
+generated_at: "2026-03-30T06:30:39.924Z"
 status: "active"
 ---
 
@@ -70,7 +70,7 @@ status: "active"
       - **(ii)** designate a coordinator for that Federal science agency’s crowdsourcing and citizen science projects; and
       - **(iii)** share best practices with other Federal agencies, including participation of staff in the Federal Community of Practice for Crowdsourcing and Citizen Science.
 - **(e)**
-  - **(1)** Not later than 2 years after January 6, 2017 , the Director of the Office of Science and Technology Policy shall include, as a component of an annual report required under section 24(p) of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3719(p) ), a report on the projects and activities carried out under this section.
+  - **(1)** Not later than 2 years after January 6, 2017 , the Director of the Office of Science and Technology Policy shall include, as a component of an annual 1 1 So in original. As amended by Pub. L. 114–329 , section 3719(p) of this title requires biennial reports. report required under section 3719(p) of this title , a report on the projects and activities carried out under this section.
   - **(2)** The report required under paragraph (1) shall include—
     - **(A)** a summary of each crowdsourcing and citizen science project conducted by a Federal science agency during the most recently completed 2 fiscal years, including a description of the proposed goals of each crowdsourcing and citizen science project;
     - **(B)** an analysis of why the utilization of a crowdsourcing or citizen science project summarized in subparagraph (A) was the preferable method of achieving the goals described in subparagraph (A) as opposed to other authorities available to the Federal science agency, such as contracts, grants, cooperative agreements, and prize competitions;

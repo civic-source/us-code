@@ -3,9 +3,9 @@ title: "Section 2241 - Power to grant writ"
 usc_title: 28
 usc_section: "2241"
 chapter: 153
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "28 U.S.C. § 2241"
-generated_at: "2026-03-30T06:29:25.670Z"
+generated_at: "2026-03-30T06:31:06.579Z"
 status: "active"
 ---
 

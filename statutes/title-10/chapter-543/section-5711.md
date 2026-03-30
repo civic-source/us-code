@@ -3,9 +3,9 @@ title: "Section 5711 - Repealed. Pub. L. 96–513, title III , § 333, Dec. 12, 
 usc_title: 10
 usc_section: "5711"
 chapter: 543
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 5711"
-generated_at: "2026-03-30T06:29:00.027Z"
+generated_at: "2026-03-30T06:30:32.007Z"
 status: "repealed"
 ---
 

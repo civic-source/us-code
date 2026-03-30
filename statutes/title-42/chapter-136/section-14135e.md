@@ -1,16 +1,13 @@
 ---
-title: "Section 14135e - Privacy protection standards"
+title: "Section 14135e - Transferred"
 usc_title: 42
 usc_section: "14135e"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14135e"
-generated_at: "2026-03-30T06:29:56.208Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 14135e. Privacy protection standards
+# § 14135e. Transferred
 
-- **(a)** Except as provided in subsection (b), any sample collected under, or any result of any analysis carried out under, section 14135, 14135a, or 14135b of this title may be used only for a purpose specified in such section.
-- **(b)** A sample or result described in subsection (a) may be disclosed under the circumstances under which disclosure of information included in the Combined DNA Index System is allowed, as specified in subparagraphs (A) through (D) of section 14132(b)(3) of this title .
-- **(c)** A person who knowingly discloses a sample or result described in subsection (a) in any manner to any person not authorized to receive it, or obtains or uses, without authorization, such sample or result, shall be fined not more than $250,000, or imprisoned for a period of not more than one year. Each instance of disclosure, obtaining, or use shall constitute a separate offense under this subsection.

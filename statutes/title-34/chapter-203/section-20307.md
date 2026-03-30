@@ -3,14 +3,16 @@ title: "Section 20307 - Accountability"
 usc_title: 34
 usc_section: "20307"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 20307"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-03-30T06:31:20.912Z"
+status: "active"
 ---
 
 # § 20307. Accountability
 
-- **(a)** All grants awarded by the Administrator under this subchapter shall be subject to the following accountability provisions:
+All grants awarded by the Administrator under this subchapter shall be subject to the following accountability provisions:
+
   - **(1)**
     - **(A)** In this paragraph, the term “unresolved audit finding” means a finding in the final audit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued and any appeal has been completed.
     - **(B)** The Inspector General of the Department of Justice shall conduct audits of recipients of grants under this subchapter to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
@@ -27,9 +29,3 @@ generated_at: "2026-03-30T02:55:33.297Z"
     - **(A)** No amounts authorized to be appropriated to the Department of Justice under this subchapter may be used by the Administrator, or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, including the Administrator, provides prior written authorization through an award process or subsequent application that the funds may be expended to host a conference.
     - **(B)** Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audiovisual equipment, honoraria for speakers, and any entertainment.
     - **(C)** The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in this paragraph.
-- **(b)** Not later than March 1 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that—
-  - **(1)** summarizes the efforts of the Administrator to monitor and evaluate the regional children’s advocacy program activities under section 20303(d) of this title ;
-  - **(2)** describes—
-    - **(A)** the method by which amounts are allocated to grantees and subgrantees under this subchapter, including to local children’s advocacy centers, State chapters, and regional children’s advocacy program centers; and
-    - **(B)** steps the Attorney General has taken to minimize duplication and overlap in the awarding of amounts under this subchapter; and
-  - **(3)** analyzes the extent to which both rural and urban populations are served under the regional children’s advocacy program.

@@ -3,9 +3,9 @@ title: "Section 2721 - Impermissible basis for denial of passports"
 usc_title: 22
 usc_section: "2721"
 chapter: 38
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 2721"
-generated_at: "2026-03-30T06:29:22.419Z"
+generated_at: "2026-03-30T06:30:58.412Z"
 status: "active"
 ---
 

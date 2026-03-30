@@ -3,9 +3,9 @@ title: "Section 412a - Exemption from taxation of lands subject to restrictions 
 usc_title: 25
 usc_section: "412a"
 chapter: 12
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "25 U.S.C. § 412a"
-generated_at: "2026-03-30T06:29:19.377Z"
+generated_at: "2026-03-30T06:30:55.439Z"
 status: "active"
 ---
 

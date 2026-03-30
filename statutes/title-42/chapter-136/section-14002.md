@@ -1,18 +1,13 @@
 ---
-title: "Section 14002 - Authorization of appropriations"
+title: "Section 14002 - Omitted"
 usc_title: 42
 usc_section: "14002"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14002"
-generated_at: "2026-03-30T06:29:56.200Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "omitted"
 ---
 
-# § 14002. Authorization of appropriations
+# § 14002. Omitted
 
-There are authorized to be appropriated—
-
-  - **(1)** to the Salaries and Expenses Account of the Courts of Appeals, District Courts, and other Judicial Services to carry out section 14001(a) of this title $500,000 for fiscal year 1996;
-  - **(2)** to the Federal Judicial Center to carry out section 14001(d) of this title $100,000 for fiscal year 1996 and $500,000 for each of the fiscal years 2001 through 2005; and
-  - **(3)** to the Administrative Office of the United States Courts to carry out section 14001(c) of this title $100,000 for fiscal year 1996.

@@ -3,9 +3,9 @@ title: "Section 2438 - Criminal offenses"
 usc_title: 16
 usc_section: "2438"
 chapter: 44
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "16 U.S.C. § 2438"
-generated_at: "2026-03-30T06:29:15.781Z"
+generated_at: "2026-03-30T06:30:49.812Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 14663 - Uses of funds"
+title: "Section 14663 - Transferred"
 usc_title: 42
 usc_section: "14663"
 chapter: 140
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 14663"
-generated_at: "2026-03-30T06:29:56.213Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.039Z"
+status: "transferred"
 ---
 
-# § 14663. Uses of funds
-
-A State that receives a grant award under this chapter may use such funds received to establish or expand programs developed to improve the reporting of unidentified persons in accordance with the assurances provided in the application submitted pursuant to section 14662(b) of this title .
+# § 14663. Transferred
 

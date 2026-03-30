@@ -3,9 +3,9 @@ title: "Section 179m - Duties of Librarian of Congress"
 usc_title: 2
 usc_section: "179m"
 chapter: 5
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "2 U.S.C. § 179m"
-generated_at: "2026-03-30T06:28:47.592Z"
+generated_at: "2026-03-30T06:30:18.609Z"
 status: "active"
 ---
 

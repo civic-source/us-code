@@ -3,9 +3,9 @@ title: "Section 70901 - Peaceful uses of space station"
 usc_title: 51
 usc_section: "70901"
 chapter: 709
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "51 U.S.C. § 70901"
-generated_at: "2026-03-30T06:30:05.584Z"
+generated_at: "2026-03-30T06:31:57.349Z"
 status: "active"
 ---
 

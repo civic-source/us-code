@@ -3,9 +3,9 @@ title: "Section 6709 - Sex discrimination; prohibition; enforcement"
 usc_title: 42
 usc_section: "6709"
 chapter: 80
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 6709"
-generated_at: "2026-03-30T06:29:56.027Z"
+generated_at: "2026-03-30T06:31:47.845Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 45 - New Treaty Minute"
 usc_title: 22
 usc_section: "45"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 45"
-generated_at: "2026-03-30T06:29:22.361Z"
+generated_at: "2026-03-30T06:30:58.317Z"
 status: "active"
 ---
 

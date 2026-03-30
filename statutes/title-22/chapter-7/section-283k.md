@@ -3,9 +3,9 @@ title: "Section 283k - Authorization of appropriations"
 usc_title: 22
 usc_section: "283k"
 chapter: 7
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 283k"
-generated_at: "2026-03-30T06:29:22.362Z"
+generated_at: "2026-03-30T06:30:58.319Z"
 status: "active"
 ---
 

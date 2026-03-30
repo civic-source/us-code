@@ -3,9 +3,9 @@ title: "Section 2661 - Procurement of information for corporations, firms and in
 usc_title: 22
 usc_section: "2661"
 chapter: 38
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 2661"
-generated_at: "2026-03-30T06:29:22.416Z"
+generated_at: "2026-03-30T06:30:58.405Z"
 status: "active"
 ---
 

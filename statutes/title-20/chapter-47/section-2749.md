@@ -3,9 +3,9 @@ title: "Section 2749 - Omitted"
 usc_title: 20
 usc_section: "2749"
 chapter: 47
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "20 U.S.C. § 2749"
-generated_at: "2026-03-30T06:29:12.709Z"
+generated_at: "2026-03-30T06:30:45.584Z"
 status: "omitted"
 ---
 

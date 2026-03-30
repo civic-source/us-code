@@ -3,9 +3,9 @@ title: "Section 7661f - Small business stationary source technical and environme
 usc_title: 42
 usc_section: "7661f"
 chapter: 85
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 7661f"
-generated_at: "2026-03-30T06:29:56.081Z"
+generated_at: "2026-03-30T06:31:47.909Z"
 status: "active"
 ---
 
@@ -22,9 +22,9 @@ status: "active"
     - **(A)** any work practice or technological method of compliance, or
     - **(B)** the schedule of milestones for implementing such work practice or method of compliance preceding any applicable compliance date,
 - **(b)** The Administrator shall establish within 9 months after November 15, 1990 , a small business stationary source technical and environmental compliance assistance program. Such program shall—
-  - **(1)** assist the States in the development of the program required under subsection (a) of this section (relating to assistance for small business stationary sources);
+  - **(1)** assist the States in the development of the program required under subsection (a) (relating to assistance for small business stationary sources);
   - **(2)** issue guidance for the use of the States in the implementation of these programs that includes alternative control technologies and pollution prevention methods applicable to small business stationary sources; and
-  - **(3)** provide for implementation of the program provisions required under subsection (a)(4) of this section in any State that fails to submit such a program under that subsection.
+  - **(3)** provide for implementation of the program provisions required under subsection (a)(4) in any State that fails to submit such a program under that subsection.
 - **(c)**
   - **(1)** Except as provided in paragraphs (2) and (3), for purposes of this section, the term “small business stationary source” means a stationary source that—
     - **(A)** is owned or operated by a person that employs 100 or fewer individuals, 1 1 So in original. The comma probably should be a semicolon.
@@ -54,4 +54,4 @@ status: "active"
     - **(D)** 1 member selected by the head of the department or agency of the State responsible for air pollution permit programs to represent that agency.
 - **(f)** The State (or the Administrator) may reduce any fee required under this chapter to take into account the financial resources of small business stationary sources.
 - **(g)** In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A provisions relating to continuous emissions monitoring.
-- **(h)** The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) of this section to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.
+- **(h)** The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.

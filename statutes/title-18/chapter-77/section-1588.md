@@ -3,9 +3,9 @@ title: "Section 1588 - Transportation of slaves from United States"
 usc_title: 18
 usc_section: "1588"
 chapter: 77
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "18 U.S.C. § 1588"
-generated_at: "2026-03-30T06:29:13.598Z"
+generated_at: "2026-03-30T06:30:46.705Z"
 status: "active"
 ---
 

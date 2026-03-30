@@ -3,9 +3,9 @@ title: "Section 1789 - Department of Defense overseas dependents’ schools"
 usc_title: 42
 usc_section: "1789"
 chapter: 13
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 1789"
-generated_at: "2026-03-30T06:29:55.878Z"
+generated_at: "2026-03-30T06:31:47.687Z"
 status: "active"
 ---
 

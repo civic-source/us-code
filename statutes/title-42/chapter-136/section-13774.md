@@ -1,17 +1,13 @@
 ---
-title: "Section 13774 - Applications"
+title: "Section 13774 - Transferred"
 usc_title: 42
 usc_section: "13774"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13774"
-generated_at: "2026-03-30T06:29:56.196Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "transferred"
 ---
 
-# § 13774. Applications
+# § 13774. Transferred
 
-To request a grant under this part the chief local elected official of an area shall—
-
-  - **(1)** prepare and submit to the Attorney General an application in such form, at such time, and in accordance with such procedures, as the Attorney General shall establish; and
-  - **(2)** provide an assurance that funds received under this part shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs funded under this part.

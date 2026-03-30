@@ -1,15 +1,13 @@
 ---
-title: "Section 13867 - Authorization of appropriations"
+title: "Section 13867 - Omitted"
 usc_title: 42
 usc_section: "13867"
 chapter: 136
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 13867"
-generated_at: "2026-03-30T06:29:56.198Z"
-status: "active"
+generated_at: "2026-03-30T06:31:48.036Z"
+status: "omitted"
 ---
 
-# § 13867. Authorization of appropriations
-
-There are authorized to be appropriated $20,000,000 for each of the fiscal years 2008 through 2012 to carry out this part.
+# § 13867. Omitted
 

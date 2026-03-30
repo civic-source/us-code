@@ -3,9 +3,9 @@ title: "Section 2199 - Stowaways on vessels or aircraft"
 usc_title: 18
 usc_section: "2199"
 chapter: 107
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "18 U.S.C. § 2199"
-generated_at: "2026-03-30T06:29:13.604Z"
+generated_at: "2026-03-30T06:30:46.713Z"
 status: "active"
 ---
 

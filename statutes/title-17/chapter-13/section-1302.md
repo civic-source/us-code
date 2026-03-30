@@ -3,9 +3,9 @@ title: "Section 1302 - Designs not subject to protection"
 usc_title: 17
 usc_section: "1302"
 chapter: 13
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "17 U.S.C. § 1302"
-generated_at: "2026-03-30T06:29:09.036Z"
+generated_at: "2026-03-30T06:30:42.276Z"
 status: "active"
 ---
 

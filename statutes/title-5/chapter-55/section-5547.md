@@ -3,9 +3,9 @@ title: "Section 5547 - Limitation on premium pay"
 usc_title: 5
 usc_section: "5547"
 chapter: 55
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "5 U.S.C. § 5547"
-generated_at: "2026-03-30T06:28:49.116Z"
+generated_at: "2026-03-30T06:30:20.598Z"
 status: "active"
 ---
 

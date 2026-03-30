@@ -3,9 +3,9 @@ title: "Section 8514 - Judicial review"
 usc_title: 42
 usc_section: "8514"
 chapter: 93
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 8514"
-generated_at: "2026-03-30T06:29:56.097Z"
+generated_at: "2026-03-30T06:31:47.927Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
   - **(2)** The district court shall determine the questions of law and upon such determination certify such questions immediately to the United States court of appeals for the circuit involved, which shall hear the matter sitting en banc.
   - **(3)** Any decision by such court of appeals on a matter certified under paragraph (2) shall be reviewable by the Supreme Court upon attainment of a writ of certiorari. Any petition for such a writ shall be filed no later than 20 days after the decision of the court of appeals.
 - **(b)**
-- **(c)** With respect to judicial review under subsection (a)(1)(A) of this section, the court shall not have jurisdiction to grant any injunctive relief except in conjunction with a final judgment entered in the case.
+- **(c)** With respect to judicial review under subsection (a)(1)(A), the court shall not have jurisdiction to grant any injunctive relief except in conjunction with a final judgment entered in the case.

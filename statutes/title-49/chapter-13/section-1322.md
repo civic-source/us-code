@@ -3,9 +3,9 @@ title: "Section 1322 - Board action"
 usc_title: 49
 usc_section: "1322"
 chapter: 13
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "49 U.S.C. § 1322"
-generated_at: "2026-03-30T06:30:03.726Z"
+generated_at: "2026-03-30T06:31:54.963Z"
 status: "active"
 ---
 

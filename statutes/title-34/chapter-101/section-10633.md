@@ -1,12 +1,63 @@
 ---
-title: "Section 10633 - Repealed. Pub. L. 115–391, title V, § 504(g)(1) , Dec. 21, 2018 , 132 Stat. 5234"
+title: "Section 10633 - State, Tribal, and local reentry courts"
 usc_title: 34
 usc_section: "10633"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 10633"
-generated_at: "2026-03-30T02:55:33.273Z"
+generated_at: "2026-03-30T06:31:20.884Z"
+status: "active"
 ---
 
-# § 10633. Repealed. Pub. L. 115–391, title V, § 504(g)(1) , Dec. 21, 2018 , 132 Stat. 5234
+# § 10633. State, Tribal, and local reentry courts
 
+- **(a)** The Attorney General may award grants, in accordance with this section, of not more than $500,000 to—
+  - **(1)** State, Tribal, and local courts; and
+  - **(2)** State agencies, municipalities, public agencies, nonprofit organizations, territories, and Indian Tribes that have agreements with courts to take the lead in establishing a reentry court (as described in section 10631(b)(19) 1 1 So in original. Section 10631(b) of this title does not contain a par. (19). of this title).
+- **(b)** Grant funds awarded under this section shall be administered in accordance with such guidelines, regulations, and procedures as promulgated by the Attorney General, and may be used to—
+  - **(1)** monitor juvenile and adult offenders reentering the community;
+  - **(2)** provide juvenile and adult offenders reentering the community with coordinated and comprehensive reentry services and programs such as—
+    - **(A)** drug and alcohol testing and assessment for treatment;
+    - **(B)** assessment for substance abuse from a substance abuse professional who is approved by the State or Indian Tribe and licensed by the appropriate entity to provide alcohol and drug addiction treatment, as appropriate;
+    - **(C)** substance abuse treatment from a provider that is approved by the State or Indian Tribe, and licensed, if necessary, to provide medical and other health services;
+    - **(D)** health (including mental health) services and assessment;
+    - **(E)** aftercare and case management services that—
+      - **(i)** facilitate access to clinical care and related health services; and
+      - **(ii)** coordinate with such clinical care and related health services; and
+    - **(F)** any other services needed for reentry;
+  - **(3)** convene community impact panels, victim impact panels, or victim impact educational classes;
+  - **(4)** provide and coordinate the delivery of community services to juvenile and adult offenders, including—
+    - **(A)** housing assistance;
+    - **(B)** education;
+    - **(C)** job training;
+    - **(D)** conflict resolution skills training;
+    - **(E)** batterer intervention programs; and
+    - **(F)** other appropriate social services; and
+  - **(5)** establish and implement graduated sanctions and incentives.
+- **(c)** Nothing in this section shall be construed as preventing a grantee that operates a drug court under subchapter XXX at the time a grant is awarded under this section from using funds from such grant to supplement such drug court in accordance with paragraphs (1) through (5) of subsection (b).
+- **(d)** To be eligible for a grant under this section, an entity described in subsection (a) shall, in addition to any other requirements required by the Attorney General, submit to the Attorney General an application that—
+  - **(1)** describes the program to be assisted under this section and the need for such program;
+  - **(2)** describes a long-term strategy and detailed implementation plan for such program, including how the entity plans to pay for the program after the Federal funding is discontinued;
+  - **(3)** identifies the governmental and community agencies that will be coordinated by the project;
+  - **(4)** certifies that—
+    - **(A)** all agencies affected by the program, including community corrections and parole entities, have been appropriately consulted in the development of the program;
+    - **(B)** there will be appropriate coordination with all such agencies in the implementation of the program; and
+    - **(C)** there will be appropriate coordination and consultation with the Single State Authority for Substance Abuse (as that term is defined in section 60521(e) of this title ) of the State; and
+  - **(5)** describes the methodology and outcome measures that will be used to evaluate the program.
+- **(e)**
+  - **(1)** The Federal share of a grant under this section may not exceed 50 percent of the program funded under such grant.
+  - **(2)**
+    - **(A)** Subject to subparagraph (B), the recipient of a grant under this section may meet the matching requirement under paragraph (1) by making in-kind contributions of goods or services that are directly related to the purpose for which such grant was awarded.
+    - **(B)** Not more than 50 percent of the amount provided by a recipient of a grant under this section to meet the matching requirement under paragraph (1) may be provided through in-kind contributions under subparagraph (A).
+  - **(3)** Federal funds received under this section shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for the activities funded under this section.
+- **(f)** Each entity receiving a grant under this section shall submit to the Attorney General, for each fiscal year in which funds from the grant are expended, a report, at such time and in such manner as the Attorney General may reasonably require, that contains—
+  - **(1)** a summary of the activities carried out under the program assisted by the grant;
+  - **(2)** an assessment of whether the activities are meeting the need for the program identified in the application submitted under subsection (d); and
+  - **(3)** such other information as the Attorney General may require.
+- **(g)**
+  - **(1)** There are authorized to be appropriated $10,000,000 for each of fiscal years 2009 and 2010 to carry out this section.
+  - **(2)**
+    - **(A)** Of the amount made available to carry out this section in any fiscal year—
+      - **(i)** not more than 2 percent may be used by the Attorney General for salaries and administrative expenses; and
+      - **(ii)** not more than 5 percent nor less than 2 percent may be used for technical assistance and training.
+    - **(B)** The Attorney General shall ensure that grants awarded under this section are equitably distributed among the geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.

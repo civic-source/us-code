@@ -3,9 +3,9 @@ title: "Section 3991 - Taxes respecting personal property, money, credits, and r
 usc_title: 50
 usc_section: "3991"
 chapter: 50
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "50 U.S.C. § 3991"
-generated_at: "2026-03-30T06:30:01.900Z"
+generated_at: "2026-03-30T06:31:53.166Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3194 - Individuals eligible for the Job Corps"
 usc_title: 29
 usc_section: "3194"
 chapter: 32
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "29 U.S.C. § 3194"
-generated_at: "2026-03-30T06:29:26.558Z"
+generated_at: "2026-03-30T06:31:05.467Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(3)** an individual who is one or more of the following:
     - **(A)** Basic skills deficient.
     - **(B)** A school dropout.
-    - **(C)** A homeless individual (as defined in section 14043e–2(6) of title 42 ), a homeless child or youth (as defined in section 11434a(2) of title 42 ), a runaway, an individual in foster care, or an individual who was in foster care and has aged out of the foster care system.
+    - **(C)** A homeless individual (as defined in section 12473(6) of title 34 ), a homeless child or youth (as defined in section 11434a(2) of title 42 ), a runaway, an individual in foster care, or an individual who was in foster care and has aged out of the foster care system.
     - **(D)** A parent.
     - **(E)** An individual who requires additional education, career and technical education or training, or workforce preparation skills to be able to obtain and retain employment that leads to economic self-sufficiency.
     - **(F)** A victim of a severe form of trafficking in persons (as defined in section 7102 of title 22 ). Notwithstanding paragraph (2), an individual described in this subparagraph shall not be required to demonstrate eligibility under such paragraph.

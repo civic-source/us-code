@@ -3,9 +3,9 @@ title: "Section 2793 - Other provisions unaffected"
 usc_title: 22
 usc_section: "2793"
 chapter: 39
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 2793"
-generated_at: "2026-03-30T06:29:22.425Z"
+generated_at: "2026-03-30T06:30:58.419Z"
 status: "active"
 ---
 

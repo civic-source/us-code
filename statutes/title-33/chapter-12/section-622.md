@@ -3,9 +3,9 @@ title: "Section 622 - Contracts, etc., with private industry for implementation 
 usc_title: 33
 usc_section: "622"
 chapter: 12
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "33 U.S.C. § 622"
-generated_at: "2026-03-30T06:29:36.694Z"
+generated_at: "2026-03-30T06:31:22.649Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 976 - Membership in military unions, organizing of military unio
 usc_title: 10
 usc_section: "976"
 chapter: 49
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 976"
-generated_at: "2026-03-30T06:28:59.948Z"
+generated_at: "2026-03-30T06:30:31.893Z"
 status: "active"
 ---
 

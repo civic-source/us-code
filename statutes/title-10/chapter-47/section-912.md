@@ -3,9 +3,9 @@ title: "Section 912 - Art. 112. Drunk on duty"
 usc_title: 10
 usc_section: "912"
 chapter: 47
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 912"
-generated_at: "2026-03-30T06:28:59.944Z"
+generated_at: "2026-03-30T06:30:31.888Z"
 status: "active"
 ---
 

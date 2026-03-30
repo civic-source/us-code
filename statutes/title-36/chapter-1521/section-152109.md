@@ -3,9 +3,9 @@ title: "Section 152109 - Records and inspection"
 usc_title: 36
 usc_section: "152109"
 chapter: 1521
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "36 U.S.C. § 152109"
-generated_at: "2026-03-30T06:29:39.130Z"
+generated_at: "2026-03-30T06:31:29.623Z"
 status: "active"
 ---
 

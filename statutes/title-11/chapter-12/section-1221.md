@@ -3,9 +3,9 @@ title: "Section 1221 - Filing of plan"
 usc_title: 11
 usc_section: "1221"
 chapter: 12
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "11 U.S.C. § 1221"
-generated_at: "2026-03-30T06:29:02.714Z"
+generated_at: "2026-03-30T06:30:34.924Z"
 status: "active"
 ---
 

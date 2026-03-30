@@ -3,9 +3,9 @@ title: "Section 279 - Assignment of Coast Guard personnel to naval vessels for l
 usc_title: 10
 usc_section: "279"
 chapter: 15
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "10 U.S.C. § 279"
-generated_at: "2026-03-30T06:28:59.927Z"
+generated_at: "2026-03-30T06:30:31.862Z"
 status: "active"
 ---
 

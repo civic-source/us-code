@@ -3,9 +3,9 @@ title: "Section 7617 - Economic impact assessment"
 usc_title: 42
 usc_section: "7617"
 chapter: 85
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 7617"
-generated_at: "2026-03-30T06:29:56.075Z"
+generated_at: "2026-03-30T06:31:47.902Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
   - **(5)** any regulation establishing emission standards under section 7521 of this title and any other regulation promulgated under that section,
   - **(6)** any regulation controlling or prohibiting any fuel or fuel additive under section 7545(c) of this title , and
   - **(7)** any aircraft emission standard under section 7571 of this title .
-- **(b)** Before publication of notice of proposed rulemaking with respect to any standard or regulation to which this section applies, the Administrator shall prepare an economic impact assessment respecting such standard or regulation. Such assessment shall be included in the docket required under section 7607(d)(2) of this title and shall be available to the public as provided in section 7607(d)(4) of this title . Notice of proposed rulemaking shall include notice of such availability together with an explanation of the extent and manner in which the Administrator has considered the analysis contained in such economic impact assessment in proposing the action. The Administrator shall also provide such an explanation in his notice of promulgation of any regulation or standard referred to in subsection (a) of this section. Each such explanation shall be part of the statements of basis and purpose required under sections 7607(d)(3) and 7607(d)(6) of this title.
-- **(c)** Subject to subsection (d) of this section, the assessment required under this section with respect to any standard or regulation shall contain an analysis of—
+- **(b)** Before publication of notice of proposed rulemaking with respect to any standard or regulation to which this section applies, the Administrator shall prepare an economic impact assessment respecting such standard or regulation. Such assessment shall be included in the docket required under section 7607(d)(2) of this title and shall be available to the public as provided in section 7607(d)(4) of this title . Notice of proposed rulemaking shall include notice of such availability together with an explanation of the extent and manner in which the Administrator has considered the analysis contained in such economic impact assessment in proposing the action. The Administrator shall also provide such an explanation in his notice of promulgation of any regulation or standard referred to in subsection (a). Each such explanation shall be part of the statements of basis and purpose required under sections 7607(d)(3) and 7607(d)(6) of this title.
+- **(c)** Subject to subsection (d), the assessment required under this section with respect to any standard or regulation shall contain an analysis of—
   - **(1)** the costs of compliance with any such standard or regulation, including extent to which the costs of compliance will vary depending on (A) the effective date of the standard or regulation, and (B) the development of less expensive, more efficient means or methods of compliance with the standard or regulation;
   - **(2)** the potential inflationary or recessionary effects of the standard or regulation;
   - **(3)** the effects on competition of the standard or regulation with respect to small business;

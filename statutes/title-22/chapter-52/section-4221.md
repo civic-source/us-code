@@ -3,9 +3,9 @@ title: "Section 4221 - Depositions and notarial acts; perjury"
 usc_title: 22
 usc_section: "4221"
 chapter: 52
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "22 U.S.C. § 4221"
-generated_at: "2026-03-30T06:29:22.444Z"
+generated_at: "2026-03-30T06:30:58.453Z"
 status: "active"
 ---
 

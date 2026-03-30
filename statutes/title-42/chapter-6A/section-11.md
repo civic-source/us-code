@@ -3,9 +3,9 @@ title: "Section 11 - Office of the National Coordinator for Health Information T
 usc_title: 42
 usc_section: "11"
 chapter: 6
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T06:29:55.656Z"
+generated_at: "2026-03-30T06:31:47.286Z"
 status: "active"
 ---
 
@@ -96,9 +96,9 @@ status: "active"
         - **(IV)** a process for filing and adjudicating noncompliance with the terms of the common agreement.
       - **(ii)** The National Coordinator, in collaboration with the National Institute of Standards and Technology, shall provide technical assistance on how to implement the trusted exchange framework and common agreement under this paragraph.
       - **(iii)** The National Coordinator, in consultation with the National Institute of Standards and Technology, shall provide for the pilot testing of the trusted exchange framework and common agreement established or supported under this subsection (as authorized under section 17911 of this title ). The National Coordinator, in consultation with the National Institute of Standards and Technology, may delegate pilot testing activities under this clause to independent entities with appropriate expertise.
-    - **(C)** Not later than 1 year after convening stakeholders under subparagraph (A), the National Coordinator shall publish on its public Internet website, and in the Federal register, the trusted exchange framework and common agreement developed or supported under subparagraph (B). Such trusted exchange framework and common agreement shall be published in a manner that protects proprietary and security information, including trade secrets and any other protected intellectual property.
+    - **(C)** Not later than 1 year after convening stakeholders under subparagraph (A), the National Coordinator shall publish on its public Internet website, and in the Federal register, 2 2 So in original. Probably should be “Register,”. the trusted exchange framework and common agreement developed or supported under subparagraph (B). Such trusted exchange framework and common agreement shall be published in a manner that protects proprietary and security information, including trade secrets and any other protected intellectual property.
     - **(D)**
-      - **(i)** Not later than 2 years after convening stakeholders under subparagraph (A), and annually thereafter, the National Coordinator shall publish on its public Internet website a list of the health information networks that have adopted the common agreement and are capable of trusted exchange pursuant to the common agreement developed or supported under paragraph 2 2 So in original. Probably should be “subparagraph”. (B).
+      - **(i)** Not later than 2 years after convening stakeholders under subparagraph (A), and annually thereafter, the National Coordinator shall publish on its public Internet website a list of the health information networks that have adopted the common agreement and are capable of trusted exchange pursuant to the common agreement developed or supported under paragraph 3 3 So in original. Probably should be “subparagraph”. (B).
       - **(ii)** The Secretary shall, through notice and comment rulemaking, establish a process for health information networks that voluntarily elect to adopt the trusted exchange framework and common agreement to attest to such adoption of the framework and agreement.
     - **(E)** As appropriate, Federal agencies contracting or entering into agreements with health information exchange networks may require that as each such network upgrades health information technology or trust and operational practices, such network may adopt, where available, the trusted exchange framework and common agreement published under subparagraph (C).
     - **(F)**

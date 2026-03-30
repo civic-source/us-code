@@ -3,9 +3,10 @@ title: "Section 20701 - Prevention of domestic trafficking in persons"
 usc_title: 34
 usc_section: "20701"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 115-51"
 classification: "34 U.S.C. § 20701"
-generated_at: "2026-03-30T02:55:33.298Z"
+generated_at: "2026-03-30T06:31:20.915Z"
+status: "active"
 ---
 
 # § 20701. Prevention of domestic trafficking in persons
@@ -39,4 +40,4 @@ generated_at: "2026-03-30T02:55:33.298Z"
 - **(b)**
 - **(c)** There are authorized to be appropriated—
   - **(1)** $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii); and
-  - **(2)** $250,000 for each of the fiscal years 2014 through 2021 to carry out the activities described in subsection (a)(2).
+  - **(2)** $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2).

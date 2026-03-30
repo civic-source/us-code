@@ -1,15 +1,13 @@
 ---
-title: "Section 5784 - Authorization of appropriations"
+title: "Section 5784 - Omitted"
 usc_title: 42
 usc_section: "5784"
 chapter: 72
-current_through: "PL 115-46"
+current_through: "PL 115-51"
 classification: "42 U.S.C. § 5784"
-generated_at: "2026-03-30T06:29:56.002Z"
-status: "active"
+generated_at: "2026-03-30T06:31:47.814Z"
+status: "omitted"
 ---
 
-# § 5784. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008.
+# § 5784. Omitted
 
