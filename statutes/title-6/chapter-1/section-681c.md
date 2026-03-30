@@ -3,9 +3,9 @@ title: "Section 681c - Voluntary reporting of other cyber incidents"
 usc_title: 6
 usc_section: "681c"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "6 U.S.C. § 681c"
-generated_at: "2026-03-30T00:06:56.848Z"
+generated_at: "2026-03-30T00:14:01.503Z"
 ---
 
 # § 681c. Voluntary reporting of other cyber incidents

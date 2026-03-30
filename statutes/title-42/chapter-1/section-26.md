@@ -3,9 +3,9 @@ title: "Section 26 - Isolation of civilians for protection of military, air and 
 usc_title: 42
 usc_section: "26"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-03-30T00:12:26.999Z"
+generated_at: "2026-03-30T00:16:28.890Z"
 ---
 
 # § 26. Isolation of civilians for protection of military, air and naval forces

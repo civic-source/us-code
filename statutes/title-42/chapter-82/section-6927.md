@@ -3,9 +3,9 @@ title: "Section 6927 - Inspections"
 usc_title: 42
 usc_section: "6927"
 chapter: 82
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 6927"
-generated_at: "2026-03-30T00:12:27.558Z"
+generated_at: "2026-03-30T00:16:29.513Z"
 ---
 
 # § 6927. Inspections

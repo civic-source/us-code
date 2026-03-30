@@ -3,9 +3,9 @@ title: "Section 18993 - Graduate STEM education"
 usc_title: 42
 usc_section: "18993"
 chapter: 163
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 18993"
-generated_at: "2026-03-30T00:12:27.824Z"
+generated_at: "2026-03-30T00:16:29.795Z"
 ---
 
 # § 18993. Graduate STEM education

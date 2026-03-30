@@ -3,9 +3,9 @@ title: "Section 4336e - Definitions"
 usc_title: 42
 usc_section: "4336e"
 chapter: 55
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 4336e"
-generated_at: "2026-03-30T00:12:27.491Z"
+generated_at: "2026-03-30T00:16:29.436Z"
 ---
 
 # § 4336e. Definitions

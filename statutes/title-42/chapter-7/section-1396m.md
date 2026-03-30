@@ -3,9 +3,9 @@ title: "Section 1396m - Withholding of Federal share of payments for certain med
 usc_title: 42
 usc_section: "1396m"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 1396m"
-generated_at: "2026-03-30T00:12:27.329Z"
+generated_at: "2026-03-30T00:16:29.266Z"
 ---
 
 # § 1396m. Withholding of Federal share of payments for certain medicare providers

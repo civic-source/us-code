@@ -3,9 +3,9 @@ title: "Section 8909 - Mandatory imposition of sanctions with respect to certain
 usc_title: 22
 usc_section: "8909"
 chapter: 96
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 8909"
-generated_at: "2026-03-30T00:09:16.657Z"
+generated_at: "2026-03-30T00:15:12.646Z"
 ---
 
 # § 8909. Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation

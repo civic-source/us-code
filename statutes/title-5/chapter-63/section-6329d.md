@@ -3,9 +3,9 @@ title: "Section 6329d - Parental bereavement leave"
 usc_title: 5
 usc_section: "6329d"
 chapter: 63
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "5 U.S.C. § 6329d"
-generated_at: "2026-03-30T00:06:30.368Z"
+generated_at: "2026-03-30T00:13:52.476Z"
 ---
 
 # § 6329d. Parental bereavement leave

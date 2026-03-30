@@ -3,9 +3,9 @@ title: "Section 2809 - Compilation of aggregate data"
 usc_title: 12
 usc_section: "2809"
 chapter: 29
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 2809"
-generated_at: "2026-03-30T00:07:40.260Z"
+generated_at: "2026-03-30T00:14:48.398Z"
 ---
 
 # § 2809. Compilation of aggregate data

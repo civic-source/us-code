@@ -3,9 +3,9 @@ title: "Section 7 - Definitions"
 usc_title: 42
 usc_section: "7"
 chapter: 21
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T00:12:27.427Z"
+generated_at: "2026-03-30T00:16:29.367Z"
 ---
 
 # § 2000aa–7. Definitions

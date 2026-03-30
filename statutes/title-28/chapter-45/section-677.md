@@ -3,9 +3,9 @@ title: "Section 677 - Counselor to the Chief Justice"
 usc_title: 28
 usc_section: "677"
 chapter: 45
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "28 U.S.C. § 677"
-generated_at: "2026-03-30T00:09:50.182Z"
+generated_at: "2026-03-30T00:15:29.245Z"
 ---
 
 # § 677. Counselor to the Chief Justice

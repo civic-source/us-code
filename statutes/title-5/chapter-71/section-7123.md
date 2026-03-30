@@ -3,9 +3,9 @@ title: "Section 7123 - Judicial review; enforcement"
 usc_title: 5
 usc_section: "7123"
 chapter: 71
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "5 U.S.C. § 7123"
-generated_at: "2026-03-30T00:06:30.371Z"
+generated_at: "2026-03-30T00:13:52.480Z"
 ---
 
 # § 7123. Judicial review; enforcement

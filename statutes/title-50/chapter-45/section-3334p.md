@@ -3,9 +3,9 @@ title: "Section 3334p - Increased intelligence-related engineering, research, an
 usc_title: 50
 usc_section: "3334p"
 chapter: 45
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 3334p"
-generated_at: "2026-03-30T00:12:34.485Z"
+generated_at: "2026-03-30T00:16:38.007Z"
 ---
 
 # § 3334p. Increased intelligence-related engineering, research, and development capabilities of minority institutions

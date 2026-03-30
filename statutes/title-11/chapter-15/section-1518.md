@@ -3,9 +3,9 @@ title: "Section 1518 - Subsequent information"
 usc_title: 11
 usc_section: "1518"
 chapter: 15
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "11 U.S.C. § 1518"
-generated_at: "2026-03-30T00:07:23.360Z"
+generated_at: "2026-03-30T00:14:28.925Z"
 ---
 
 # § 1518. Subsequent information

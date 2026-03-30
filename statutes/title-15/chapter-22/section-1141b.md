@@ -3,9 +3,9 @@ title: "Section 1141b - Certification of the international application"
 usc_title: 15
 usc_section: "1141b"
 chapter: 22
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 1141b"
-generated_at: "2026-03-30T00:07:49.666Z"
+generated_at: "2026-03-30T00:14:33.458Z"
 ---
 
 # § 1141b. Certification of the international application

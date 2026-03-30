@@ -3,9 +3,9 @@ title: "Section 1115 - Annual reports: time of delivery by Director of the Gover
 usc_title: 44
 usc_section: "1115"
 chapter: 11
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "44 U.S.C. § 1115"
-generated_at: "2026-03-30T00:10:41.666Z"
+generated_at: "2026-03-30T00:16:12.482Z"
 ---
 
 # § 1115. Annual reports: time of delivery by Director of the Government Publishing Office to Congress

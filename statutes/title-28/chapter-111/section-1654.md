@@ -3,9 +3,9 @@ title: "Section 1654 - Appearance personally or by counsel"
 usc_title: 28
 usc_section: "1654"
 chapter: 111
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "28 U.S.C. § 1654"
-generated_at: "2026-03-30T00:09:50.189Z"
+generated_at: "2026-03-30T00:15:29.251Z"
 ---
 
 # § 1654. Appearance personally or by counsel

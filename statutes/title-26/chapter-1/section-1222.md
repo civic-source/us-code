@@ -3,9 +3,9 @@ title: "Section 1222 - Other terms relating to capital gains and losses"
 usc_title: 26
 usc_section: "1222"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "26 U.S.C. § 1222"
-generated_at: "2026-03-30T00:09:49.414Z"
+generated_at: "2026-03-30T00:15:47.814Z"
 ---
 
 # § 1222. Other terms relating to capital gains and losses

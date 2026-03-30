@@ -3,9 +3,9 @@ title: "Section 794 - Official reports"
 usc_title: 48
 usc_section: "794"
 chapter: 4
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "48 U.S.C. § 794"
-generated_at: "2026-03-30T00:12:30.806Z"
+generated_at: "2026-03-30T00:16:35.562Z"
 ---
 
 # § 794. Official reports

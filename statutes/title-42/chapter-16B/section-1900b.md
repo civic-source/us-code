@@ -3,9 +3,9 @@ title: "Section 1900b - Amendment, modification, or repeal of authorizations for
 usc_title: 42
 usc_section: "1900b"
 chapter: 16
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 1900b"
-generated_at: "2026-03-30T00:12:27.415Z"
+generated_at: "2026-03-30T00:16:29.357Z"
 ---
 
 # § 1900b. Amendment, modification, or repeal of authorizations for execution of contracts for research

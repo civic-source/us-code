@@ -3,9 +3,9 @@ title: "Section 3102 - Purposes"
 usc_title: 25
 usc_section: "3102"
 chapter: 33
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "25 U.S.C. § 3102"
-generated_at: "2026-03-30T00:09:02.697Z"
+generated_at: "2026-03-30T00:15:13.689Z"
 ---
 
 # § 3102. Purposes

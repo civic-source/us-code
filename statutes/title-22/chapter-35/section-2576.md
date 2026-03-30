@@ -3,9 +3,9 @@ title: "Section 2576 - Arms control information"
 usc_title: 22
 usc_section: "2576"
 chapter: 35
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 2576"
-generated_at: "2026-03-30T00:09:16.577Z"
+generated_at: "2026-03-30T00:15:12.547Z"
 ---
 
 # § 2576. Arms control information

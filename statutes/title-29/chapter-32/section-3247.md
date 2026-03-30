@@ -3,9 +3,9 @@ title: "Section 3247 - Judicial review"
 usc_title: 29
 usc_section: "3247"
 chapter: 32
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "29 U.S.C. § 3247"
-generated_at: "2026-03-30T00:09:38.329Z"
+generated_at: "2026-03-30T00:15:31.164Z"
 ---
 
 # § 3247. Judicial review

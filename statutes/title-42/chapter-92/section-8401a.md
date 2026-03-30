@@ -3,9 +3,9 @@ title: "Section 8401a - “Local government” defined"
 usc_title: 42
 usc_section: "8401a"
 chapter: 92
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 8401a"
-generated_at: "2026-03-30T00:12:27.631Z"
+generated_at: "2026-03-30T00:16:29.593Z"
 ---
 
 # § 8401a. “Local government” defined

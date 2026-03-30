@@ -3,9 +3,9 @@ title: "Section 955b - National Medal of Arts"
 usc_title: 20
 usc_section: "955b"
 chapter: 26
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "20 U.S.C. § 955b"
-generated_at: "2026-03-30T00:08:14.460Z"
+generated_at: "2026-03-30T00:15:01.588Z"
 ---
 
 # § 955b. National Medal of Arts

@@ -3,9 +3,9 @@ title: "Section 20921 - National Sex Offender Registry"
 usc_title: 34
 usc_section: "20921"
 chapter: 209
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "34 U.S.C. § 20921"
-generated_at: "2026-03-30T00:10:12.913Z"
+generated_at: "2026-03-30T00:15:51.222Z"
 ---
 
 # § 20921. National Sex Offender Registry

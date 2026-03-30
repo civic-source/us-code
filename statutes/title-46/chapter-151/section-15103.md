@@ -3,9 +3,9 @@ title: "Section 15103 - National Merchant Marine Personnel Advisory Committee"
 usc_title: 46
 usc_section: "15103"
 chapter: 151
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "46 U.S.C. § 15103"
-generated_at: "2026-03-30T00:12:53.355Z"
+generated_at: "2026-03-30T00:16:36.527Z"
 ---
 
 # § 15103. National Merchant Marine Personnel Advisory Committee

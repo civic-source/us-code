@@ -3,9 +3,9 @@ title: "Section 1281 - Alien crewmen"
 usc_title: 8
 usc_section: "1281"
 chapter: 12
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "8 U.S.C. § 1281"
-generated_at: "2026-03-30T00:07:07.029Z"
+generated_at: "2026-03-30T00:14:25.900Z"
 ---
 
 # § 1281. Alien crewmen

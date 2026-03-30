@@ -3,9 +3,9 @@ title: "Section 1696 - Private express for letters and packets"
 usc_title: 18
 usc_section: "1696"
 chapter: 83
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "18 U.S.C. § 1696"
-generated_at: "2026-03-30T00:08:07.572Z"
+generated_at: "2026-03-30T00:14:51.913Z"
 ---
 
 # § 1696. Private express for letters and packets

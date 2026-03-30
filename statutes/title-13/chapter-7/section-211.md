@@ -3,9 +3,9 @@ title: "Section 211 - Receiving or securing compensation for appointment of empl
 usc_title: 13
 usc_section: "211"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "13 U.S.C. § 211"
-generated_at: "2026-03-30T00:07:25.684Z"
+generated_at: "2026-03-30T00:14:30.833Z"
 ---
 
 # § 211. Receiving or securing compensation for appointment of employees

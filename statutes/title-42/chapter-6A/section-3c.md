@@ -3,9 +3,9 @@ title: "Section 3c - National assistance program for water infrastructure and wa
 usc_title: 42
 usc_section: "3c"
 chapter: 6
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 3c"
-generated_at: "2026-03-30T00:12:27.112Z"
+generated_at: "2026-03-30T00:16:29.013Z"
 ---
 
 # § 300j–3c. National assistance program for water infrastructure and watersheds

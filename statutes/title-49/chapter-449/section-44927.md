@@ -3,9 +3,9 @@ title: "Section 44927 - Expedited screening for severely injured or disabled mem
 usc_title: 49
 usc_section: "44927"
 chapter: 449
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "49 U.S.C. § 44927"
-generated_at: "2026-03-30T00:13:05.144Z"
+generated_at: "2026-03-30T00:16:45.928Z"
 ---
 
 # § 44927. Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans

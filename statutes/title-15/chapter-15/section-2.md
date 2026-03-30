@@ -3,9 +3,9 @@ title: "Section 2 - Food and conservation program; appropriations; administrativ
 usc_title: 15
 usc_section: "2"
 chapter: 15
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T00:07:49.654Z"
+generated_at: "2026-03-30T00:14:33.445Z"
 ---
 
 # § 713d–2. Food and conservation program; appropriations; administrative expenses

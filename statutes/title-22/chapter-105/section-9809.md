@@ -3,9 +3,9 @@ title: "Section 9809 - Improving and leveraging assistance for the global fragil
 usc_title: 22
 usc_section: "9809"
 chapter: 105
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 9809"
-generated_at: "2026-03-30T00:09:16.669Z"
+generated_at: "2026-03-30T00:15:12.660Z"
 ---
 
 # § 9809. Improving and leveraging assistance for the global fragility strategy

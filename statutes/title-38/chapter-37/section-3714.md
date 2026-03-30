@@ -3,9 +3,9 @@ title: "Section 3714 - Assumptions; release from liability"
 usc_title: 38
 usc_section: "3714"
 chapter: 37
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "38 U.S.C. § 3714"
-generated_at: "2026-03-30T00:10:20.906Z"
+generated_at: "2026-03-30T00:16:03.278Z"
 ---
 
 # § 3714. Assumptions; release from liability

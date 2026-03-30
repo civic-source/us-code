@@ -3,9 +3,9 @@ title: "Section 2007 - Payment of tuition for off-duty training or education"
 usc_title: 10
 usc_section: "2007"
 chapter: 101
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 2007"
-generated_at: "2026-03-30T00:07:02.207Z"
+generated_at: "2026-03-30T00:14:10.298Z"
 ---
 
 # § 2007. Payment of tuition for off-duty training or education

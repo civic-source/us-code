@@ -3,9 +3,9 @@ title: "Section 9561 - Definitions"
 usc_title: 22
 usc_section: "9561"
 chapter: 102
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 9561"
-generated_at: "2026-03-30T00:09:16.665Z"
+generated_at: "2026-03-30T00:15:12.656Z"
 ---
 
 # § 9561. Definitions

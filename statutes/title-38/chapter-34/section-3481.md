@@ -3,9 +3,9 @@ title: "Section 3481 - Educational assistance allowance"
 usc_title: 38
 usc_section: "3481"
 chapter: 34
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "38 U.S.C. § 3481"
-generated_at: "2026-03-30T00:10:20.898Z"
+generated_at: "2026-03-30T00:16:03.268Z"
 ---
 
 # § 3481. Educational assistance allowance

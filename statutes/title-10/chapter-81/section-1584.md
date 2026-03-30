@@ -3,9 +3,9 @@ title: "Section 1584 - Employment of non-citizens"
 usc_title: 10
 usc_section: "1584"
 chapter: 81
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 1584"
-generated_at: "2026-03-30T00:07:02.200Z"
+generated_at: "2026-03-30T00:14:10.293Z"
 ---
 
 # § 1584. Employment of non-citizens

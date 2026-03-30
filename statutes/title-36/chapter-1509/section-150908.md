@@ -3,9 +3,9 @@ title: "Section 150908 - Records and inspection"
 usc_title: 36
 usc_section: "150908"
 chapter: 1509
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "36 U.S.C. § 150908"
-generated_at: "2026-03-30T00:10:18.820Z"
+generated_at: "2026-03-30T00:16:00.279Z"
 ---
 
 # § 150908. Records and inspection

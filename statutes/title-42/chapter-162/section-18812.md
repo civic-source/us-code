@@ -3,9 +3,9 @@ title: "Section 18812 - Leveraging existing agency programs to assist small and 
 usc_title: 42
 usc_section: "18812"
 chapter: 162
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 18812"
-generated_at: "2026-03-30T00:12:27.820Z"
+generated_at: "2026-03-30T00:16:29.789Z"
 ---
 
 # § 18812. Leveraging existing agency programs to assist small and medium manufacturers

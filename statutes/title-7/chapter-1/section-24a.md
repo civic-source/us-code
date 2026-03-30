@@ -3,9 +3,9 @@ title: "Section 24a - Swap data repositories"
 usc_title: 7
 usc_section: "24a"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "7 U.S.C. § 24a"
-generated_at: "2026-03-30T00:07:16.196Z"
+generated_at: "2026-03-30T00:14:23.479Z"
 ---
 
 # § 24a. Swap data repositories

@@ -3,9 +3,9 @@ title: "Section 13385 - National inventory and voluntary reporting of greenhouse
 usc_title: 42
 usc_section: "13385"
 chapter: 134
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 13385"
-generated_at: "2026-03-30T00:12:27.732Z"
+generated_at: "2026-03-30T00:16:29.699Z"
 ---
 
 # § 13385. National inventory and voluntary reporting of greenhouse gases

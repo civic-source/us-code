@@ -3,9 +3,9 @@ title: "Section 208 - Delegation of function of Committee on the Judiciary to ot
 usc_title: 1
 usc_section: "208"
 chapter: 3
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "1 U.S.C. § 208"
-generated_at: "2026-03-30T00:06:26.906Z"
+generated_at: "2026-03-30T00:13:30.432Z"
 ---
 
 # § 208. Delegation of function of Committee on the Judiciary to other agencies; printing, and so forth, under direction of Joint Committee on Printing

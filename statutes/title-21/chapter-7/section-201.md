@@ -3,9 +3,9 @@ title: "Section 201 - Doing business without a license unlawful; employment of C
 usc_title: 21
 usc_section: "201"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "21 U.S.C. § 201"
-generated_at: "2026-03-30T00:08:54.749Z"
+generated_at: "2026-03-30T00:15:08.693Z"
 ---
 
 # § 201. Doing business without a license unlawful; employment of Chinese subjects

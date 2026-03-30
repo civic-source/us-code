@@ -3,9 +3,9 @@ title: "Section 3325 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3325"
 chapter: 52
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 3325"
-generated_at: "2026-03-30T00:08:38.047Z"
+generated_at: "2026-03-30T00:14:59.577Z"
 ---
 
 # § 3325. Authorization of appropriations

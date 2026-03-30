@@ -3,9 +3,9 @@ title: "Section 62 - Definitions"
 usc_title: 7
 usc_section: "62"
 chapter: 2
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "7 U.S.C. § 62"
-generated_at: "2026-03-30T00:07:16.198Z"
+generated_at: "2026-03-30T00:14:23.480Z"
 ---
 
 # § 62. Definitions

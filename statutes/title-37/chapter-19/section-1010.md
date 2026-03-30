@@ -3,9 +3,9 @@ title: "Section 1010 - Commissioned officers: promotions; effective date for pay
 usc_title: 37
 usc_section: "1010"
 chapter: 19
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "37 U.S.C. § 1010"
-generated_at: "2026-03-30T00:10:39.870Z"
+generated_at: "2026-03-30T00:16:01.011Z"
 ---
 
 # § 1010. Commissioned officers: promotions; effective date for pay and allowances

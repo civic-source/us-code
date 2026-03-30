@@ -3,9 +3,9 @@ title: "Section 1434 - Repealed. Pub. L. 105–362, title IX, § 901(r)(1)(A) , 
 usc_title: 50
 usc_section: "1434"
 chapter: 29
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 1434"
-generated_at: "2026-03-30T00:12:34.441Z"
+generated_at: "2026-03-30T00:16:37.957Z"
 ---
 
 # § 1434. Repealed. Pub. L. 105–362, title IX, § 901(r)(1)(A) , Nov. 10, 1998 , 112 Stat. 3291

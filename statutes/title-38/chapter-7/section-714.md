@@ -3,9 +3,9 @@ title: "Section 714 - Employees: removal, demotion, or suspension based on perfo
 usc_title: 38
 usc_section: "714"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "38 U.S.C. § 714"
-generated_at: "2026-03-30T00:10:20.870Z"
+generated_at: "2026-03-30T00:16:03.228Z"
 ---
 
 # § 714. Employees: removal, demotion, or suspension based on performance or misconduct

@@ -3,9 +3,9 @@ title: "Section 550 - Liability of transferee of avoided transfer"
 usc_title: 11
 usc_section: "550"
 chapter: 5
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "11 U.S.C. § 550"
-generated_at: "2026-03-30T00:07:23.351Z"
+generated_at: "2026-03-30T00:14:28.916Z"
 ---
 
 # § 550. Liability of transferee of avoided transfer

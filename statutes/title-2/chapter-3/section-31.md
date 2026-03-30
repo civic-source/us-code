@@ -3,9 +3,9 @@ title: "Section 31 - Transferred"
 usc_title: 2
 usc_section: "31"
 chapter: 3
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "2 U.S.C. § 31"
-generated_at: "2026-03-30T00:06:51.537Z"
+generated_at: "2026-03-30T00:13:58.923Z"
 ---
 
 # § 31. Transferred

@@ -3,9 +3,9 @@ title: "Section 3132 - Availability of appropriations for procurement of technic
 usc_title: 10
 usc_section: "3132"
 chapter: 207
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 3132"
-generated_at: "2026-03-30T00:07:02.245Z"
+generated_at: "2026-03-30T00:14:10.338Z"
 ---
 
 # § 3132. Availability of appropriations for procurement of technical military equipment and supplies

@@ -3,9 +3,9 @@ title: "Section 10826 - Administration"
 usc_title: 42
 usc_section: "10826"
 chapter: 114
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 10826"
-generated_at: "2026-03-30T00:12:27.682Z"
+generated_at: "2026-03-30T00:16:29.646Z"
 ---
 
 # § 10826. Administration

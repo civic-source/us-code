@@ -3,9 +3,9 @@ title: "Section 7104a - Compliance plan and certification requirement"
 usc_title: 22
 usc_section: "7104a"
 chapter: 78
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 7104a"
-generated_at: "2026-03-30T00:09:16.637Z"
+generated_at: "2026-03-30T00:15:12.621Z"
 ---
 
 # § 7104a. Compliance plan and certification requirement

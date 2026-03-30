@@ -3,9 +3,9 @@ title: "Section 20111 - National Aeronautics and Space Administration"
 usc_title: 51
 usc_section: "20111"
 chapter: 201
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "51 U.S.C. § 20111"
-generated_at: "2026-03-30T00:13:07.152Z"
+generated_at: "2026-03-30T00:16:52.584Z"
 ---
 
 # § 20111. National Aeronautics and Space Administration

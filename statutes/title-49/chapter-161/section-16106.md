@@ -3,9 +3,9 @@ title: "Section 16106 - Punishment of corporation for violations committed by ce
 usc_title: 49
 usc_section: "16106"
 chapter: 161
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "49 U.S.C. § 16106"
-generated_at: "2026-03-30T00:13:05.092Z"
+generated_at: "2026-03-30T00:16:45.868Z"
 ---
 
 # § 16106. Punishment of corporation for violations committed by certain individuals

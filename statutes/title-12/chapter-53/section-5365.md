@@ -3,9 +3,9 @@ title: "Section 5365 - Enhanced supervision and prudential standards for nonbank
 usc_title: 12
 usc_section: "5365"
 chapter: 53
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 5365"
-generated_at: "2026-03-30T00:07:40.297Z"
+generated_at: "2026-03-30T00:14:48.441Z"
 ---
 
 # § 5365. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies

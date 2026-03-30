@@ -3,9 +3,9 @@ title: "Section 926 - Certain rural development investments by qualified telepho
 usc_title: 7
 usc_section: "926"
 chapter: 31
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "7 U.S.C. § 926"
-generated_at: "2026-03-30T00:07:16.238Z"
+generated_at: "2026-03-30T00:14:23.518Z"
 ---
 
 # § 926. Certain rural development investments by qualified telephone borrowers not treated as dividends or distributions

@@ -3,9 +3,9 @@ title: "Section 8942 - Rifles and ammunition for target practice: educational in
 usc_title: 10
 usc_section: "8942"
 chapter: 895
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 8942"
-generated_at: "2026-03-30T00:07:02.289Z"
+generated_at: "2026-03-30T00:14:10.381Z"
 ---
 
 # § 8942. Rifles and ammunition for target practice: educational institutions having corps of midshipmen

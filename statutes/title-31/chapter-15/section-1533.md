@@ -3,9 +3,9 @@ title: "Section 1533 - Transfers of appropriations for salaries and expenses to 
 usc_title: 31
 usc_section: "1533"
 chapter: 15
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "31 U.S.C. § 1533"
-generated_at: "2026-03-30T00:10:06.377Z"
+generated_at: "2026-03-30T00:15:55.077Z"
 ---
 
 # § 1533. Transfers of appropriations for salaries and expenses to carry out national defense responsibilities

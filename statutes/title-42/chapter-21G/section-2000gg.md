@@ -3,9 +3,9 @@ title: "Section 2000gg - Definitions"
 usc_title: 42
 usc_section: "2000gg"
 chapter: 21
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 2000gg"
-generated_at: "2026-03-30T00:12:27.431Z"
+generated_at: "2026-03-30T00:16:29.370Z"
 ---
 
 # § 2000gg. Definitions

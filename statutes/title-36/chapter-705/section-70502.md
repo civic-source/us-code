@@ -3,9 +3,9 @@ title: "Section 70502 - Purposes"
 usc_title: 36
 usc_section: "70502"
 chapter: 705
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "36 U.S.C. § 70502"
-generated_at: "2026-03-30T00:10:18.816Z"
+generated_at: "2026-03-30T00:16:00.275Z"
 ---
 
 # § 70502. Purposes

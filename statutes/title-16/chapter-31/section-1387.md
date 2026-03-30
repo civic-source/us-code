@@ -3,9 +3,9 @@ title: "Section 1387 - Taking of marine mammals incidental to commercial fishing
 usc_title: 16
 usc_section: "1387"
 chapter: 31
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 1387"
-generated_at: "2026-03-30T00:08:38.009Z"
+generated_at: "2026-03-30T00:14:59.534Z"
 ---
 
 # § 1387. Taking of marine mammals incidental to commercial fishing operations

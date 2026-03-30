@@ -3,9 +3,9 @@ title: "Section 17 - Separability"
 usc_title: 7
 usc_section: "17"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "7 U.S.C. § 17"
-generated_at: "2026-03-30T00:07:16.195Z"
+generated_at: "2026-03-30T00:14:23.477Z"
 ---
 
 # § 17. Separability

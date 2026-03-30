@@ -3,9 +3,9 @@ title: "Section 162 - Repealed. Pub. L. 85–207, § 13 , Aug. 28, 1957 , 71 Sta
 usc_title: 13
 usc_section: "162"
 chapter: 5
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "13 U.S.C. § 162"
-generated_at: "2026-03-30T00:07:25.683Z"
+generated_at: "2026-03-30T00:14:30.833Z"
 ---
 
 # [§ 162. Repealed. Pub. L. 85–207, § 13 , Aug. 28, 1957 , 71 Stat. 483 ]

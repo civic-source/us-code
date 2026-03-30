@@ -3,9 +3,9 @@ title: "Section 7312 - Employment and clearance; individuals removed for nationa
 usc_title: 5
 usc_section: "7312"
 chapter: 73
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "5 U.S.C. § 7312"
-generated_at: "2026-03-30T00:06:30.371Z"
+generated_at: "2026-03-30T00:13:52.480Z"
 ---
 
 # § 7312. Employment and clearance; individuals removed for national security

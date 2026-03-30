@@ -3,9 +3,9 @@ title: "Section 105 - Title of appropriation Acts"
 usc_title: 1
 usc_section: "105"
 chapter: 2
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "1 U.S.C. § 105"
-generated_at: "2026-03-30T00:06:26.905Z"
+generated_at: "2026-03-30T00:13:30.431Z"
 ---
 
 # § 105. Title of appropriation Acts

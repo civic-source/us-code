@@ -3,9 +3,9 @@ title: "Section 2 - Transferred"
 usc_title: 42
 usc_section: "2"
 chapter: 20
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T00:12:27.418Z"
+generated_at: "2026-03-30T00:16:29.361Z"
 ---
 
 # § 1973gg–2. Transferred

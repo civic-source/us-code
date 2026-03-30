@@ -3,9 +3,9 @@ title: "Section 8244 - Enlisted members assigned to mess: basic allowance for su
 usc_title: 10
 usc_section: "8244"
 chapter: 827
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 8244"
-generated_at: "2026-03-30T00:07:02.277Z"
+generated_at: "2026-03-30T00:14:10.370Z"
 ---
 
 # § 8244. Enlisted members assigned to mess: basic allowance for subsistence paid to mess

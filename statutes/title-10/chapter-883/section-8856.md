@@ -3,9 +3,9 @@ title: "Section 8856 - Duties of United States attorney"
 usc_title: 10
 usc_section: "8856"
 chapter: 883
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 8856"
-generated_at: "2026-03-30T00:07:02.287Z"
+generated_at: "2026-03-30T00:14:10.380Z"
 ---
 
 # § 8856. Duties of United States attorney

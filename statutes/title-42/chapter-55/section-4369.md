@@ -3,9 +3,9 @@ title: "Section 4369 - Miscellaneous reports"
 usc_title: 42
 usc_section: "4369"
 chapter: 55
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 4369"
-generated_at: "2026-03-30T00:12:27.491Z"
+generated_at: "2026-03-30T00:16:29.437Z"
 ---
 
 # § 4369. Miscellaneous reports

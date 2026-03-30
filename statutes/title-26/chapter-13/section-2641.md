@@ -3,9 +3,9 @@ title: "Section 2641 - Applicable rate"
 usc_title: 26
 usc_section: "2641"
 chapter: 13
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "26 U.S.C. § 2641"
-generated_at: "2026-03-30T00:09:49.435Z"
+generated_at: "2026-03-30T00:15:47.839Z"
 ---
 
 # § 2641. Applicable rate

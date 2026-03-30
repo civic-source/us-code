@@ -3,9 +3,9 @@ title: "Section 1 - Firearm and bow hunter education and safety program grants"
 usc_title: 16
 usc_section: "1"
 chapter: 5
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T00:08:37.960Z"
+generated_at: "2026-03-30T00:14:59.479Z"
 ---
 
 # § 669h–1. Firearm and bow hunter education and safety program grants

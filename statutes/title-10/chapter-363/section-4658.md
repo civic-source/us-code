@@ -3,9 +3,9 @@ title: "Section 4658 - Debarment of persons convicted of fraudulent use of “Ma
 usc_title: 10
 usc_section: "4658"
 chapter: 363
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 4658"
-generated_at: "2026-03-30T00:07:02.261Z"
+generated_at: "2026-03-30T00:14:10.355Z"
 ---
 
 # § 4658. Debarment of persons convicted of fraudulent use of “Made in America” labels

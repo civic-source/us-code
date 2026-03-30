@@ -3,9 +3,9 @@ title: "Section 7333 - Nondiscrimination against alcohol and drug abusers and pe
 usc_title: 38
 usc_section: "7333"
 chapter: 73
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "38 U.S.C. § 7333"
-generated_at: "2026-03-30T00:10:20.922Z"
+generated_at: "2026-03-30T00:16:03.299Z"
 ---
 
 # § 7333. Nondiscrimination against alcohol and drug abusers and persons infected with the human immunodeficiency virus

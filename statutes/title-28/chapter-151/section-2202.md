@@ -3,9 +3,9 @@ title: "Section 2202 - Further relief"
 usc_title: 28
 usc_section: "2202"
 chapter: 151
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "28 U.S.C. § 2202"
-generated_at: "2026-03-30T00:09:50.193Z"
+generated_at: "2026-03-30T00:15:29.256Z"
 ---
 
 # § 2202. Further relief

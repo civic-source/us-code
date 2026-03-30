@@ -3,9 +3,9 @@ title: "Section 10502 - Transferred"
 usc_title: 42
 usc_section: "10502"
 chapter: 111
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 10502"
-generated_at: "2026-03-30T00:12:27.680Z"
+generated_at: "2026-03-30T00:16:29.644Z"
 ---
 
 # § 10502. Transferred

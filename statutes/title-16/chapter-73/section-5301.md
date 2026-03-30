@@ -3,9 +3,9 @@ title: "Section 5301 - Findings"
 usc_title: 16
 usc_section: "5301"
 chapter: 73
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 5301"
-generated_at: "2026-03-30T00:08:38.070Z"
+generated_at: "2026-03-30T00:14:59.602Z"
 ---
 
 # § 5301. Findings

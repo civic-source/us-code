@@ -3,9 +3,9 @@ title: "Section 3227c - Continued applicability of the Federal Advisory Committe
 usc_title: 50
 usc_section: "3227c"
 chapter: 44
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 3227c"
-generated_at: "2026-03-30T00:12:34.482Z"
+generated_at: "2026-03-30T00:16:38.003Z"
 ---
 
 # § 3227c. Continued applicability of the Federal Advisory Committee Act to the Board of Visitors

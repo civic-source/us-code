@@ -3,9 +3,9 @@ title: "Section 284o - Activities of the National Institutes of Health with resp
 usc_title: 42
 usc_section: "284o"
 chapter: 6
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 284o"
-generated_at: "2026-03-30T00:12:27.059Z"
+generated_at: "2026-03-30T00:16:28.953Z"
 ---
 
 # § 284o. Activities of the National Institutes of Health with respect to research on paralysis

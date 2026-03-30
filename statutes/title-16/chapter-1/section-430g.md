@@ -3,9 +3,9 @@ title: "Section 430g - Gettysburg National Military Park"
 usc_title: 16
 usc_section: "430g"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 430g"
-generated_at: "2026-03-30T00:08:37.891Z"
+generated_at: "2026-03-30T00:14:59.402Z"
 ---
 
 # § 430g. Gettysburg National Military Park

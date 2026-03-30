@@ -3,9 +3,9 @@ title: "Section 293a - Scholarships for disadvantaged students"
 usc_title: 42
 usc_section: "293a"
 chapter: 6
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 293a"
-generated_at: "2026-03-30T00:12:27.088Z"
+generated_at: "2026-03-30T00:16:28.985Z"
 ---
 
 # § 293a. Scholarships for disadvantaged students

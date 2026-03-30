@@ -3,9 +3,9 @@ title: "Section 563 - Rules relating to dividends paid after close of taxable ye
 usc_title: 26
 usc_section: "563"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "26 U.S.C. § 563"
-generated_at: "2026-03-30T00:09:49.379Z"
+generated_at: "2026-03-30T00:15:47.774Z"
 ---
 
 # § 563. Rules relating to dividends paid after close of taxable year

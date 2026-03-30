@@ -3,9 +3,9 @@ title: "Section 12591 - Description of participants"
 usc_title: 42
 usc_section: "12591"
 chapter: 129
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 12591"
-generated_at: "2026-03-30T00:12:27.709Z"
+generated_at: "2026-03-30T00:16:29.673Z"
 ---
 
 # § 12591. Description of participants

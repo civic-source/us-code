@@ -3,9 +3,9 @@ title: "Section 6918 - Staff of the Commission"
 usc_title: 22
 usc_section: "6918"
 chapter: 77
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 6918"
-generated_at: "2026-03-30T00:09:16.635Z"
+generated_at: "2026-03-30T00:15:12.618Z"
 ---
 
 # § 6918. Staff of the Commission

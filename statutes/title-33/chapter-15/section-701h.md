@@ -3,9 +3,9 @@ title: "Section 701h - Contributions by States, political subdivisions, and othe
 usc_title: 33
 usc_section: "701h"
 chapter: 15
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "33 U.S.C. § 701h"
-generated_at: "2026-03-30T00:09:54.470Z"
+generated_at: "2026-03-30T00:15:52.409Z"
 ---
 
 # § 701h. Contributions by States, political subdivisions, and other non-Federal interests

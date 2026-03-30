@@ -3,9 +3,9 @@ title: "Section 3532 - Notification of account deficiencies"
 usc_title: 31
 usc_section: "3532"
 chapter: 35
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "31 U.S.C. § 3532"
-generated_at: "2026-03-30T00:10:06.383Z"
+generated_at: "2026-03-30T00:15:55.083Z"
 ---
 
 # § 3532. Notification of account deficiencies

@@ -3,9 +3,9 @@ title: "Section 6209 - Incorporation and non-Federal status of broadcasting enti
 usc_title: 22
 usc_section: "6209"
 chapter: 71
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 6209"
-generated_at: "2026-03-30T00:09:16.627Z"
+generated_at: "2026-03-30T00:15:12.609Z"
 ---
 
 # § 6209. Incorporation and non-Federal status of broadcasting entities

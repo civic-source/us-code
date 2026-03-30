@@ -3,9 +3,9 @@ title: "Section 3169 - Federal Judicial Center"
 usc_title: 18
 usc_section: "3169"
 chapter: 208
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "18 U.S.C. § 3169"
-generated_at: "2026-03-30T00:08:07.592Z"
+generated_at: "2026-03-30T00:14:51.936Z"
 ---
 
 # § 3169. Federal Judicial Center

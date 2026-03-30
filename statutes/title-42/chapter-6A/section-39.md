@@ -3,9 +3,9 @@ title: "Section 39 - Peer-supported mental health services"
 usc_title: 42
 usc_section: "39"
 chapter: 6
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 39"
-generated_at: "2026-03-30T00:12:27.078Z"
+generated_at: "2026-03-30T00:16:28.974Z"
 ---
 
 # § 290bb–39. Peer-supported mental health services

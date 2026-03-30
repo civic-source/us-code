@@ -3,9 +3,9 @@ title: "Section 1386 - Adjustment for partial withdrawal; determination of amoun
 usc_title: 29
 usc_section: "1386"
 chapter: 18
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "29 U.S.C. § 1386"
-generated_at: "2026-03-30T00:09:38.306Z"
+generated_at: "2026-03-30T00:15:31.138Z"
 ---
 
 # § 1386. Adjustment for partial withdrawal; determination of amount; reduction for partial withdrawal liability; procedures applicable

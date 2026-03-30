@@ -3,9 +3,9 @@ title: "Section 1285b - Establishment of boundaries for certain component rivers
 usc_title: 16
 usc_section: "1285b"
 chapter: 28
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 1285b"
-generated_at: "2026-03-30T00:08:38.005Z"
+generated_at: "2026-03-30T00:14:59.529Z"
 ---
 
 # § 1285b. Establishment of boundaries for certain component rivers in Alaska; withdrawal of minerals

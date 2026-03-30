@@ -3,9 +3,9 @@ title: "Section 1063 - Use of commissary stores and MWR retail facilities: membe
 usc_title: 10
 usc_section: "1063"
 chapter: 54
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 1063"
-generated_at: "2026-03-30T00:07:02.174Z"
+generated_at: "2026-03-30T00:14:10.264Z"
 ---
 
 # § 1063. Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60

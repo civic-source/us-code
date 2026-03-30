@@ -3,9 +3,9 @@ title: "Section 159 - Regulatory fees"
 usc_title: 47
 usc_section: "159"
 chapter: 5
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "47 U.S.C. § 159"
-generated_at: "2026-03-30T00:12:52.417Z"
+generated_at: "2026-03-30T00:16:35.103Z"
 ---
 
 # § 159. Regulatory fees

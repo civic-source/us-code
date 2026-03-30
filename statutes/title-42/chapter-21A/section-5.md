@@ -3,9 +3,9 @@ title: "Section 5 - Border and customs searches"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T00:12:27.426Z"
+generated_at: "2026-03-30T00:16:29.367Z"
 ---
 
 # § 2000aa–5. Border and customs searches

@@ -3,9 +3,9 @@ title: "Section 28 - Award of certificates to accelerate certain matters at the 
 usc_title: 35
 usc_section: "28"
 chapter: 2
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "35 U.S.C. § 28"
-generated_at: "2026-03-30T00:10:01.781Z"
+generated_at: "2026-03-30T00:15:52.796Z"
 ---
 
 # § 28. Award of certificates to accelerate certain matters at the Patent and Trademark Office

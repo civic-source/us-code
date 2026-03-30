@@ -3,9 +3,9 @@ title: "Section 10d - National Advisory Committee on Individuals With Disabiliti
 usc_title: 42
 usc_section: "10d"
 chapter: 6
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 10d"
-generated_at: "2026-03-30T00:12:27.150Z"
+generated_at: "2026-03-30T00:16:29.058Z"
 ---
 
 # § 300hh–10d. National Advisory Committee on Individuals With Disabilities and Disasters

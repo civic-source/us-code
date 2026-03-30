@@ -3,9 +3,9 @@ title: "Section 60 - National bank dividends"
 usc_title: 12
 usc_section: "60"
 chapter: 2
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 60"
-generated_at: "2026-03-30T00:07:40.152Z"
+generated_at: "2026-03-30T00:14:48.279Z"
 ---
 
 # § 60. National bank dividends

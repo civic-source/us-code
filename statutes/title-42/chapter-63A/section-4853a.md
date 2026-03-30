@@ -3,9 +3,9 @@ title: "Section 4853a - Coordination between Environmental Protection Agency and
 usc_title: 42
 usc_section: "4853a"
 chapter: 63
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 4853a"
-generated_at: "2026-03-30T00:12:27.499Z"
+generated_at: "2026-03-30T00:16:29.446Z"
 ---
 
 # § 4853a. Coordination between Environmental Protection Agency and Department of Labor

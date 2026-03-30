@@ -3,9 +3,9 @@ title: "Section 430 - Repealed. July 31, 1945, ch. 334, § 5 , 59 Stat. 508"
 usc_title: 33
 usc_section: "430"
 chapter: 9
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "33 U.S.C. § 430"
-generated_at: "2026-03-30T00:09:54.460Z"
+generated_at: "2026-03-30T00:15:52.394Z"
 ---
 
 # §§ 427 to 430. Repealed. July 31, 1945, ch. 334, § 5 , 59 Stat. 508

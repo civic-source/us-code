@@ -3,9 +3,9 @@ title: "Section 657t - Office of Credit Risk Management"
 usc_title: 15
 usc_section: "657t"
 chapter: 14
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 657t"
-generated_at: "2026-03-30T00:07:49.646Z"
+generated_at: "2026-03-30T00:14:33.435Z"
 ---
 
 # § 657t. Office of Credit Risk Management

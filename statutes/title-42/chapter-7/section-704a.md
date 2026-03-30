@@ -3,9 +3,9 @@ title: "Section 704a - Omitted"
 usc_title: 42
 usc_section: "704a"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 704a"
-generated_at: "2026-03-30T00:12:27.194Z"
+generated_at: "2026-03-30T00:16:29.112Z"
 ---
 
 # § 704a. Omitted

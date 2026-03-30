@@ -3,9 +3,9 @@ title: "Section 8138 - Treatment of certain health facilities as State homes"
 usc_title: 38
 usc_section: "8138"
 chapter: 81
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "38 U.S.C. § 8138"
-generated_at: "2026-03-30T00:10:20.931Z"
+generated_at: "2026-03-30T00:16:03.311Z"
 ---
 
 # § 8138. Treatment of certain health facilities as State homes

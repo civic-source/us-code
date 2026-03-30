@@ -3,9 +3,9 @@ title: "Section 274b - Cooperation of Federal and non-Federal departments, agenc
 usc_title: 22
 usc_section: "274b"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 274b"
-generated_at: "2026-03-30T00:09:16.524Z"
+generated_at: "2026-03-30T00:15:12.482Z"
 ---
 
 # § 274b. Cooperation of Federal and non-Federal departments, agencies, and organizations; transfers of funds

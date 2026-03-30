@@ -3,9 +3,9 @@ title: "Section 4103 - Biennial report"
 usc_title: 44
 usc_section: "4103"
 chapter: 41
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "44 U.S.C. § 4103"
-generated_at: "2026-03-30T00:10:41.676Z"
+generated_at: "2026-03-30T00:16:12.495Z"
 ---
 
 # § 4103. Biennial report

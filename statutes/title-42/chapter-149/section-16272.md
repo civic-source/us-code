@@ -3,9 +3,9 @@ title: "Section 16272 - Reactor concepts research, development, demonstration, a
 usc_title: 42
 usc_section: "16272"
 chapter: 149
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 16272"
-generated_at: "2026-03-30T00:12:27.765Z"
+generated_at: "2026-03-30T00:16:29.732Z"
 ---
 
 # § 16272. Reactor concepts research, development, demonstration, and commercial application

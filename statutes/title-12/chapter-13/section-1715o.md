@@ -3,9 +3,9 @@ title: "Section 1715o - Interest rate on debentures; method of establishment"
 usc_title: 12
 usc_section: "1715o"
 chapter: 13
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 1715o"
-generated_at: "2026-03-30T00:07:40.195Z"
+generated_at: "2026-03-30T00:14:48.327Z"
 ---
 
 # § 1715o. Interest rate on debentures; method of establishment

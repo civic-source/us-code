@@ -3,9 +3,9 @@ title: "Section 78n - Proxies"
 usc_title: 15
 usc_section: "78n"
 chapter: 2
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 78n"
-generated_at: "2026-03-30T00:07:49.587Z"
+generated_at: "2026-03-30T00:14:33.365Z"
 ---
 
 # § 78n. Proxies

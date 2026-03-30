@@ -3,9 +3,9 @@ title: "Section 16371 - Definitions"
 usc_title: 42
 usc_section: "16371"
 chapter: 149
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 16371"
-generated_at: "2026-03-30T00:12:27.772Z"
+generated_at: "2026-03-30T00:16:29.739Z"
 ---
 
 # § 16371. Definitions

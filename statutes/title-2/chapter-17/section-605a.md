@@ -3,9 +3,9 @@ title: "Section 605a - Contracting parity"
 usc_title: 2
 usc_section: "605a"
 chapter: 17
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "2 U.S.C. § 605a"
-generated_at: "2026-03-30T00:06:51.554Z"
+generated_at: "2026-03-30T00:13:58.937Z"
 ---
 
 # § 605a. Contracting parity

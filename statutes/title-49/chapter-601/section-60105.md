@@ -3,9 +3,9 @@ title: "Section 60105 - State pipeline safety program certifications"
 usc_title: 49
 usc_section: "60105"
 chapter: 601
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "49 U.S.C. § 60105"
-generated_at: "2026-03-30T00:13:05.161Z"
+generated_at: "2026-03-30T00:16:45.946Z"
 ---
 
 # § 60105. State pipeline safety program certifications

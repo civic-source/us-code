@@ -3,9 +3,9 @@ title: "Section 114d - Selected drug subsidy program"
 usc_title: 42
 usc_section: "114d"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 114d"
-generated_at: "2026-03-30T00:12:27.275Z"
+generated_at: "2026-03-30T00:16:29.209Z"
 ---
 
 # § 1395w–114d. Selected drug subsidy program

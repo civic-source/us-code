@@ -3,9 +3,9 @@ title: "Section 3 - Use of funds; limitation of issuance"
 usc_title: 16
 usc_section: "3"
 chapter: 12
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T00:08:37.982Z"
+generated_at: "2026-03-30T00:14:59.504Z"
 ---
 
 # § 831n–3. Use of funds; limitation of issuance

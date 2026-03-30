@@ -3,9 +3,9 @@ title: "Section 460pp - Establishment"
 usc_title: 16
 usc_section: "460pp"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 460pp"
-generated_at: "2026-03-30T00:08:37.915Z"
+generated_at: "2026-03-30T00:14:59.430Z"
 ---
 
 # § 460pp. Establishment

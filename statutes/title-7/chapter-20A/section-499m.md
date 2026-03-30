@@ -3,9 +3,9 @@ title: "Section 499m - Complaints; procedure, penalties, etc."
 usc_title: 7
 usc_section: "499m"
 chapter: 20
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "7 U.S.C. § 499m"
-generated_at: "2026-03-30T00:07:16.230Z"
+generated_at: "2026-03-30T00:14:23.511Z"
 ---
 
 # § 499m. Complaints; procedure, penalties, etc.

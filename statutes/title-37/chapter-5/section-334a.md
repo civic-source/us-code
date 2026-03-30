@@ -3,9 +3,9 @@ title: "Section 334a - Special aviation incentive pay and bonus authorities: enl
 usc_title: 37
 usc_section: "334a"
 chapter: 5
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "37 U.S.C. § 334a"
-generated_at: "2026-03-30T00:10:39.863Z"
+generated_at: "2026-03-30T00:16:01.001Z"
 ---
 
 # § 334a. Special aviation incentive pay and bonus authorities: enlisted members who operate remotely piloted aircraft

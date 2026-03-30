@@ -3,9 +3,9 @@ title: "Section 1392 - Local laws continued; courts"
 usc_title: 48
 usc_section: "1392"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "48 U.S.C. § 1392"
-generated_at: "2026-03-30T00:12:30.807Z"
+generated_at: "2026-03-30T00:16:35.563Z"
 ---
 
 # § 1392. Local laws continued; courts

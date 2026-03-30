@@ -3,9 +3,9 @@ title: "Section 2434 - Termination of authority"
 usc_title: 43
 usc_section: "2434"
 chapter: 42
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "43 U.S.C. § 2434"
-generated_at: "2026-03-30T00:11:08.924Z"
+generated_at: "2026-03-30T00:16:09.812Z"
 ---
 
 # § 2434. Termination of authority

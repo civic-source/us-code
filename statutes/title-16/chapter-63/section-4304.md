@@ -3,9 +3,9 @@ title: "Section 4304 - Confidentiality of information concerning nature and loca
 usc_title: 16
 usc_section: "4304"
 chapter: 63
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 4304"
-generated_at: "2026-03-30T00:08:38.065Z"
+generated_at: "2026-03-30T00:14:59.596Z"
 ---
 
 # § 4304. Confidentiality of information concerning nature and location of significant caves

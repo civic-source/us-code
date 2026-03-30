@@ -3,9 +3,9 @@ title: "Section 6106 - Authorization of appropriations"
 usc_title: 31
 usc_section: "6106"
 chapter: 61
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "31 U.S.C. § 6106"
-generated_at: "2026-03-30T00:10:06.397Z"
+generated_at: "2026-03-30T00:15:55.101Z"
 ---
 
 # § 6106. Authorization of appropriations

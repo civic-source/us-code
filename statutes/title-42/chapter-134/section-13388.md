@@ -3,9 +3,9 @@ title: "Section 13388 - Global Climate Change Response Fund"
 usc_title: 42
 usc_section: "13388"
 chapter: 134
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 13388"
-generated_at: "2026-03-30T00:12:27.733Z"
+generated_at: "2026-03-30T00:16:29.700Z"
 ---
 
 # § 13388. Global Climate Change Response Fund

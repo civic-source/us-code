@@ -3,9 +3,9 @@ title: "Section 7673 - Allocation of funds"
 usc_title: 22
 usc_section: "7673"
 chapter: 83
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 7673"
-generated_at: "2026-03-30T00:09:16.645Z"
+generated_at: "2026-03-30T00:15:12.630Z"
 ---
 
 # § 7673. Allocation of funds

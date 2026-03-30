@@ -3,9 +3,9 @@ title: "Section 460d - Construction and operation of public parks and recreation
 usc_title: 16
 usc_section: "460d"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 460d"
-generated_at: "2026-03-30T00:08:37.903Z"
+generated_at: "2026-03-30T00:14:59.415Z"
 ---
 
 # § 460d. Construction and operation of public parks and recreational facilities in water resource development projects; lease of lands; preference for use; penalty; application of section 3401 of title 18 ; citations and arrests with and without process; limitations; disposition of receipts

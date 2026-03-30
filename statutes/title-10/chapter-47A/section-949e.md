@@ -3,9 +3,9 @@ title: "Section 949e - Continuances"
 usc_title: 10
 usc_section: "949e"
 chapter: 47
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 949e"
-generated_at: "2026-03-30T00:07:02.168Z"
+generated_at: "2026-03-30T00:14:10.258Z"
 ---
 
 # § 949e. Continuances

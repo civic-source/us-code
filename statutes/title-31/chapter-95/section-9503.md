@@ -3,9 +3,9 @@ title: "Section 9503 - Reports about Government pension plans"
 usc_title: 31
 usc_section: "9503"
 chapter: 95
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "31 U.S.C. § 9503"
-generated_at: "2026-03-30T00:10:06.402Z"
+generated_at: "2026-03-30T00:15:55.107Z"
 ---
 
 # § 9503. Reports about Government pension plans

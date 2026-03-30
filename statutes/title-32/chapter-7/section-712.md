@@ -3,9 +3,9 @@ title: "Section 712 - Disposition of proceeds of condemned stores issued to Nati
 usc_title: 32
 usc_section: "712"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "32 U.S.C. § 712"
-generated_at: "2026-03-30T00:09:55.240Z"
+generated_at: "2026-03-30T00:15:49.657Z"
 ---
 
 # § 712. Disposition of proceeds of condemned stores issued to National Guard

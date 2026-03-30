@@ -3,9 +3,9 @@ title: "Section 2623 - Additional sum from surplus for meeting payments due from
 usc_title: 43
 usc_section: "2623"
 chapter: 44
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "43 U.S.C. § 2623"
-generated_at: "2026-03-30T00:11:08.924Z"
+generated_at: "2026-03-30T00:16:09.813Z"
 ---
 
 # § 2623. Additional sum from surplus for meeting payments due from insufficient annual receipts; maximum aggregate of decennial payments; covering of excess receipts into general fund of Treasury

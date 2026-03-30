@@ -3,9 +3,9 @@ title: "Section 5304 - Operation of program"
 usc_title: 15
 usc_section: "5304"
 chapter: 79
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 5304"
-generated_at: "2026-03-30T00:07:49.744Z"
+generated_at: "2026-03-30T00:14:33.551Z"
 ---
 
 # § 5304. Operation of program

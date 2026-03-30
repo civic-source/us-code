@@ -3,9 +3,9 @@ title: "Section 1701y - National Homeownership Foundation"
 usc_title: 12
 usc_section: "1701y"
 chapter: 13
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 1701y"
-generated_at: "2026-03-30T00:07:40.186Z"
+generated_at: "2026-03-30T00:14:48.317Z"
 ---
 
 # § 1701y. National Homeownership Foundation

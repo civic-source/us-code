@@ -3,9 +3,9 @@ title: "Section 2396 - Omitted"
 usc_title: 19
 usc_section: "2396"
 chapter: 12
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "19 U.S.C. § 2396"
-generated_at: "2026-03-30T00:08:05.316Z"
+generated_at: "2026-03-30T00:14:53.287Z"
 ---
 
 # § 2396. Omitted

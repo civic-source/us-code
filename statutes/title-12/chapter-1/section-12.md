@@ -3,9 +3,9 @@ title: "Section 12 - Seal of Comptroller"
 usc_title: 12
 usc_section: "12"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 12"
-generated_at: "2026-03-30T00:07:40.150Z"
+generated_at: "2026-03-30T00:14:48.276Z"
 ---
 
 # § 12. Seal of Comptroller

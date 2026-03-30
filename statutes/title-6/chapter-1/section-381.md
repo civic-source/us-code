@@ -3,9 +3,9 @@ title: "Section 381 - Functions transferred"
 usc_title: 6
 usc_section: "381"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "6 U.S.C. § 381"
-generated_at: "2026-03-30T00:06:56.828Z"
+generated_at: "2026-03-30T00:14:01.485Z"
 ---
 
 # § 381. Functions transferred

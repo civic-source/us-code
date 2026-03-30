@@ -3,9 +3,9 @@ title: "Section 5704 - Advisory Committee"
 usc_title: 16
 usc_section: "5704"
 chapter: 77
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 5704"
-generated_at: "2026-03-30T00:08:38.073Z"
+generated_at: "2026-03-30T00:14:59.603Z"
 ---
 
 # § 5704. Advisory Committee

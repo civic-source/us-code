@@ -3,9 +3,9 @@ title: "Section 3223 - Educational scholarship program"
 usc_title: 50
 usc_section: "3223"
 chapter: 44
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 3223"
-generated_at: "2026-03-30T00:12:34.482Z"
+generated_at: "2026-03-30T00:16:38.003Z"
 ---
 
 # § 3223. Educational scholarship program

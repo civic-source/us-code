@@ -3,9 +3,9 @@ title: "Section 2410c - Renumbered § 2922f]"
 usc_title: 10
 usc_section: "2410c"
 chapter: 141
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 2410c"
-generated_at: "2026-03-30T00:07:02.221Z"
+generated_at: "2026-03-30T00:14:10.313Z"
 ---
 
 # [§ 2410c. Renumbered § 2922f]

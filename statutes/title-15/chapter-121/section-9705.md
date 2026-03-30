@@ -3,9 +3,9 @@ title: "Section 9705 - Improving National Oceanic and Atmospheric Administration
 usc_title: 15
 usc_section: "9705"
 chapter: 121
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 9705"
-generated_at: "2026-03-30T00:07:49.787Z"
+generated_at: "2026-03-30T00:14:33.605Z"
 ---
 
 # § 9705. Improving National Oceanic and Atmospheric Administration communication of future flood risks and hazardous flash flood events

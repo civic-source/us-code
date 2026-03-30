@@ -3,9 +3,9 @@ title: "Section 593 - Flathead irrigation project, Montana"
 usc_title: 43
 usc_section: "593"
 chapter: 12
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "43 U.S.C. § 593"
-generated_at: "2026-03-30T00:11:08.887Z"
+generated_at: "2026-03-30T00:16:09.769Z"
 ---
 
 # § 593. Flathead irrigation project, Montana

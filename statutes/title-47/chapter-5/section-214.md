@@ -3,9 +3,9 @@ title: "Section 214 - Extension of lines or discontinuance of service; certifica
 usc_title: 47
 usc_section: "214"
 chapter: 5
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "47 U.S.C. § 214"
-generated_at: "2026-03-30T00:12:52.420Z"
+generated_at: "2026-03-30T00:16:35.104Z"
 ---
 
 # § 214. Extension of lines or discontinuance of service; certificate of public convenience and necessity

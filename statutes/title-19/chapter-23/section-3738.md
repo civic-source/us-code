@@ -3,9 +3,9 @@ title: "Section 3738 - Assistance from United States private sector to prevent a
 usc_title: 19
 usc_section: "3738"
 chapter: 23
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "19 U.S.C. § 3738"
-generated_at: "2026-03-30T00:08:05.336Z"
+generated_at: "2026-03-30T00:14:53.310Z"
 ---
 
 # § 3738. Assistance from United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa

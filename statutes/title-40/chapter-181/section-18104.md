@@ -3,9 +3,9 @@ title: "Section 18104 - TTY installation by Congress"
 usc_title: 40
 usc_section: "18104"
 chapter: 181
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "40 U.S.C. § 18104"
-generated_at: "2026-03-30T00:10:21.721Z"
+generated_at: "2026-03-30T00:15:58.375Z"
 ---
 
 # § 18104. TTY installation by Congress

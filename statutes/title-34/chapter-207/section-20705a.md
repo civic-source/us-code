@@ -3,9 +3,9 @@ title: "Section 20705a - Enhancing the ability of State, local, and Tribal child
 usc_title: 34
 usc_section: "20705a"
 chapter: 207
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "34 U.S.C. § 20705a"
-generated_at: "2026-03-30T00:10:12.911Z"
+generated_at: "2026-03-30T00:15:51.219Z"
 ---
 
 # § 20705a. Enhancing the ability of State, local, and Tribal child welfare agencies to identify and respond to children who are, or are at risk of being, victims of trafficking

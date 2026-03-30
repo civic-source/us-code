@@ -3,9 +3,9 @@ title: "Section 955a - Omitted"
 usc_title: 20
 usc_section: "955a"
 chapter: 26
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "20 U.S.C. § 955a"
-generated_at: "2026-03-30T00:08:14.460Z"
+generated_at: "2026-03-30T00:15:01.588Z"
 ---
 
 # § 955a. Omitted

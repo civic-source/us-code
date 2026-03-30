@@ -3,9 +3,9 @@ title: "Section 285f - Expenditures"
 usc_title: 2
 usc_section: "285f"
 chapter: 9
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "2 U.S.C. § 285f"
-generated_at: "2026-03-30T00:06:51.550Z"
+generated_at: "2026-03-30T00:13:58.933Z"
 ---
 
 # § 285f. Expenditures

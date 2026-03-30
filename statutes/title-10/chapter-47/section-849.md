@@ -3,9 +3,9 @@ title: "Section 849 - Art. 49. Depositions"
 usc_title: 10
 usc_section: "849"
 chapter: 47
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 849"
-generated_at: "2026-03-30T00:07:02.161Z"
+generated_at: "2026-03-30T00:14:10.252Z"
 ---
 
 # § 849. Art. 49. Depositions

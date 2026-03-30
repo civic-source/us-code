@@ -3,9 +3,9 @@ title: "Section 499b - Transfer to municipal corporations or other organizations
 usc_title: 43
 usc_section: "499b"
 chapter: 12
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "43 U.S.C. § 499b"
-generated_at: "2026-03-30T00:11:08.885Z"
+generated_at: "2026-03-30T00:16:09.767Z"
 ---
 
 # § 499b. Transfer to municipal corporations or other organizations of care, operation, and maintenance of works supplying water for municipal, domestic, or industrial use

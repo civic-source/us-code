@@ -3,9 +3,9 @@ title: "Section 101531 - Fee for use of transportation services"
 usc_title: 54
 usc_section: "101531"
 chapter: 1015
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "54 U.S.C. § 101531"
-generated_at: "2026-03-30T00:13:17.606Z"
+generated_at: "2026-03-30T00:16:52.139Z"
 ---
 
 # § 101531. Fee for use of transportation services

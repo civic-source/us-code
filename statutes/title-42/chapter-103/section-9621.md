@@ -3,9 +3,9 @@ title: "Section 9621 - Cleanup standards"
 usc_title: 42
 usc_section: "9621"
 chapter: 103
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 9621"
-generated_at: "2026-03-30T00:12:27.651Z"
+generated_at: "2026-03-30T00:16:29.613Z"
 ---
 
 # § 9621. Cleanup standards

@@ -3,9 +3,9 @@ title: "Section 4523 - Deductions for delinquent indebtedness"
 usc_title: 2
 usc_section: "4523"
 chapter: 45
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "2 U.S.C. § 4523"
-generated_at: "2026-03-30T00:06:51.588Z"
+generated_at: "2026-03-30T00:13:58.993Z"
 ---
 
 # § 4523. Deductions for delinquent indebtedness

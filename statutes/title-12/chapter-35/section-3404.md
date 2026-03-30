@@ -3,9 +3,9 @@ title: "Section 3404 - Customer authorizations"
 usc_title: 12
 usc_section: "3404"
 chapter: 35
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 3404"
-generated_at: "2026-03-30T00:07:40.266Z"
+generated_at: "2026-03-30T00:14:48.404Z"
 ---
 
 # § 3404. Customer authorizations

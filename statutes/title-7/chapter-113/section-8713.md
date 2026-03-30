@@ -3,9 +3,9 @@ title: "Section 8713 - Repealed. Pub. L. 113–79, title I, § 1101 , Feb. 7, 20
 usc_title: 7
 usc_section: "8713"
 chapter: 113
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "7 U.S.C. § 8713"
-generated_at: "2026-03-30T00:07:16.401Z"
+generated_at: "2026-03-30T00:14:23.677Z"
 ---
 
 # § 8713. Repealed. Pub. L. 113–79, title I, § 1101 , Feb. 7, 2014 , 128 Stat. 658

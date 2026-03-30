@@ -3,9 +3,9 @@ title: "Section 3956 - Termination of certain consumer contracts"
 usc_title: 50
 usc_section: "3956"
 chapter: 50
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 3956"
-generated_at: "2026-03-30T00:12:34.500Z"
+generated_at: "2026-03-30T00:16:38.026Z"
 ---
 
 # § 3956. Termination of certain consumer contracts

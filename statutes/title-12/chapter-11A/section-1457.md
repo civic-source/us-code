@@ -3,9 +3,9 @@ title: "Section 1457 - Prohibited activities; penalties for violations by organi
 usc_title: 12
 usc_section: "1457"
 chapter: 11
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 1457"
-generated_at: "2026-03-30T00:07:40.176Z"
+generated_at: "2026-03-30T00:14:48.306Z"
 ---
 
 # § 1457. Prohibited activities; penalties for violations by organizations, officers and members of organizations, and individuals

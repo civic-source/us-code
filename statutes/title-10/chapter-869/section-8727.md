@@ -3,9 +3,9 @@ title: "Section 8727 - Cooperative or unit plans in the naval petroleum reserves
 usc_title: 10
 usc_section: "8727"
 chapter: 869
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 8727"
-generated_at: "2026-03-30T00:07:02.285Z"
+generated_at: "2026-03-30T00:14:10.379Z"
 ---
 
 # § 8727. Cooperative or unit plans in the naval petroleum reserves

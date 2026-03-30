@@ -3,9 +3,9 @@ title: "Section 670 - Theft of medical products"
 usc_title: 18
 usc_section: "670"
 chapter: 31
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "18 U.S.C. § 670"
-generated_at: "2026-03-30T00:08:07.556Z"
+generated_at: "2026-03-30T00:14:51.895Z"
 ---
 
 # § 670. Theft of medical products

@@ -3,9 +3,9 @@ title: "Section 4313 - Educational seminars to improve efforts to classify and a
 usc_title: 19
 usc_section: "4313"
 chapter: 28
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "19 U.S.C. § 4313"
-generated_at: "2026-03-30T00:08:05.344Z"
+generated_at: "2026-03-30T00:14:53.317Z"
 ---
 
 # § 4313. Educational seminars to improve efforts to classify and appraise imported articles, to improve trade enforcement efforts, and to otherwise facilitate legitimate international trade

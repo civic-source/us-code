@@ -3,9 +3,9 @@ title: "Section 94 - Omitted"
 usc_title: 2
 usc_section: "94"
 chapter: 4
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "2 U.S.C. § 94"
-generated_at: "2026-03-30T00:06:51.540Z"
+generated_at: "2026-03-30T00:13:58.926Z"
 ---
 
 # §§ 93, 94. Omitted

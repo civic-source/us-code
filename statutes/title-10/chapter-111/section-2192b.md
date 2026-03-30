@@ -3,9 +3,9 @@ title: "Section 2192b - Program on enhancement of preparation of dependents of m
 usc_title: 10
 usc_section: "2192b"
 chapter: 111
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 2192b"
-generated_at: "2026-03-30T00:07:02.213Z"
+generated_at: "2026-03-30T00:14:10.304Z"
 ---
 
 # § 2192b. Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics

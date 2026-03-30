@@ -3,9 +3,9 @@ title: "Section 1484 - Insurance of loans for housing and related facilities for
 usc_title: 42
 usc_section: "1484"
 chapter: 8
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 1484"
-generated_at: "2026-03-30T00:12:27.380Z"
+generated_at: "2026-03-30T00:16:29.319Z"
 ---
 
 # § 1484. Insurance of loans for housing and related facilities for domestic farm labor

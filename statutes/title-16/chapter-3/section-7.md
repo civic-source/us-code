@@ -3,9 +3,9 @@ title: "Section 7 - Activities of Foundation and United States Forest Service"
 usc_title: 16
 usc_section: "7"
 chapter: 3
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T00:08:37.952Z"
+generated_at: "2026-03-30T00:14:59.470Z"
 ---
 
 # § 583j–7. Activities of Foundation and United States Forest Service

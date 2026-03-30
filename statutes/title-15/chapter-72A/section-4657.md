@@ -3,9 +3,9 @@ title: "Section 4657 - Prohibition relating to foreign entities of concern"
 usc_title: 15
 usc_section: "4657"
 chapter: 72
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 4657"
-generated_at: "2026-03-30T00:07:49.740Z"
+generated_at: "2026-03-30T00:14:33.547Z"
 ---
 
 # § 4657. Prohibition relating to foreign entities of concern

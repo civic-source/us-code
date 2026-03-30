@@ -3,9 +3,9 @@ title: "Section 922 - Automatic stay of enforcement of claims against the debtor
 usc_title: 11
 usc_section: "922"
 chapter: 9
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "11 U.S.C. § 922"
-generated_at: "2026-03-30T00:07:23.355Z"
+generated_at: "2026-03-30T00:14:28.920Z"
 ---
 
 # § 922. Automatic stay of enforcement of claims against the debtor

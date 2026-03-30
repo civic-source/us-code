@@ -3,9 +3,9 @@ title: "Section 2705 - Interest; partial payment of claims"
 usc_title: 33
 usc_section: "2705"
 chapter: 40
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "33 U.S.C. § 2705"
-generated_at: "2026-03-30T00:09:54.524Z"
+generated_at: "2026-03-30T00:15:52.478Z"
 ---
 
 # § 2705. Interest; partial payment of claims

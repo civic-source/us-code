@@ -3,9 +3,9 @@ title: "Section 1804 - Direct grant assistance"
 usc_title: 48
 usc_section: "1804"
 chapter: 17
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "48 U.S.C. § 1804"
-generated_at: "2026-03-30T00:12:30.816Z"
+generated_at: "2026-03-30T00:16:35.573Z"
 ---
 
 # § 1804. Direct grant assistance

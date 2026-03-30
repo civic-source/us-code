@@ -3,9 +3,9 @@ title: "Section 3851a - Forest Service participation in ACES Program"
 usc_title: 16
 usc_section: "3851a"
 chapter: 58
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 3851a"
-generated_at: "2026-03-30T00:08:38.059Z"
+generated_at: "2026-03-30T00:14:59.589Z"
 ---
 
 # § 3851a. Forest Service participation in ACES Program

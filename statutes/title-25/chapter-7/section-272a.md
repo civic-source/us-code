@@ -3,9 +3,9 @@ title: "Section 272a - Other duties"
 usc_title: 25
 usc_section: "272a"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "25 U.S.C. § 272a"
-generated_at: "2026-03-30T00:09:02.654Z"
+generated_at: "2026-03-30T00:15:13.642Z"
 ---
 
 # § 272a. Other duties

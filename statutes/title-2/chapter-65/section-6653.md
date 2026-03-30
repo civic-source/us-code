@@ -3,9 +3,9 @@ title: "Section 6653 - Postage allowance for Chaplain of Senate"
 usc_title: 2
 usc_section: "6653"
 chapter: 65
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "2 U.S.C. § 6653"
-generated_at: "2026-03-30T00:06:51.600Z"
+generated_at: "2026-03-30T00:13:59.004Z"
 ---
 
 # § 6653. Postage allowance for Chaplain of Senate

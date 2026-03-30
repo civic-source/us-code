@@ -3,9 +3,9 @@ title: "Section 7436 - Proceedings for determination of employment status"
 usc_title: 26
 usc_section: "7436"
 chapter: 76
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "26 U.S.C. § 7436"
-generated_at: "2026-03-30T00:09:49.507Z"
+generated_at: "2026-03-30T00:15:47.927Z"
 ---
 
 # § 7436. Proceedings for determination of employment status

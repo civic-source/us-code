@@ -3,9 +3,9 @@ title: "Section 2016 - Authorization of appropriations"
 usc_title: 38
 usc_section: "2016"
 chapter: 20
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "38 U.S.C. § 2016"
-generated_at: "2026-03-30T00:10:20.888Z"
+generated_at: "2026-03-30T00:16:03.252Z"
 ---
 
 # § 2016. Authorization of appropriations

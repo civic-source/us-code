@@ -3,9 +3,9 @@ title: "Section 13713 - Food and grocery transportation"
 usc_title: 49
 usc_section: "13713"
 chapter: 137
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "49 U.S.C. § 13713"
-generated_at: "2026-03-30T00:13:05.087Z"
+generated_at: "2026-03-30T00:16:45.864Z"
 ---
 
 # § 13713. Food and grocery transportation

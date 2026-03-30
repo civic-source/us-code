@@ -3,9 +3,9 @@ title: "Section 7631 - Periodic adjustments in amount of assistance"
 usc_title: 38
 usc_section: "7631"
 chapter: 76
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "38 U.S.C. § 7631"
-generated_at: "2026-03-30T00:10:20.926Z"
+generated_at: "2026-03-30T00:16:03.306Z"
 ---
 
 # § 7631. Periodic adjustments in amount of assistance

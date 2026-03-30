@@ -3,9 +3,9 @@ title: "Section 2 - Judicial relief"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T00:12:27.427Z"
+generated_at: "2026-03-30T00:16:29.367Z"
 ---
 
 # § 2000cc–2. Judicial relief

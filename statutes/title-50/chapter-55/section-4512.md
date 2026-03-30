@@ -3,9 +3,9 @@ title: "Section 4512 - Hoarding of designated scarce materials"
 usc_title: 50
 usc_section: "4512"
 chapter: 55
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 4512"
-generated_at: "2026-03-30T00:12:34.510Z"
+generated_at: "2026-03-30T00:16:38.037Z"
 ---
 
 # § 4512. Hoarding of designated scarce materials

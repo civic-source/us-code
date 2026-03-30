@@ -3,9 +3,9 @@ title: "Section 1589 - Repealed. Pub. L. 100–690, title VII, § 7367(c)(5) , N
 usc_title: 19
 usc_section: "1589"
 chapter: 4
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "19 U.S.C. § 1589"
-generated_at: "2026-03-30T00:08:05.292Z"
+generated_at: "2026-03-30T00:14:53.262Z"
 ---
 
 # § 1589. Repealed. Pub. L. 100–690, title VII, § 7367(c)(5) , Nov. 18, 1988 , 102 Stat. 4480

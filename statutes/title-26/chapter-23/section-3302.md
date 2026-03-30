@@ -3,9 +3,9 @@ title: "Section 3302 - Credits against tax"
 usc_title: 26
 usc_section: "3302"
 chapter: 23
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "26 U.S.C. § 3302"
-generated_at: "2026-03-30T00:09:49.440Z"
+generated_at: "2026-03-30T00:15:47.846Z"
 ---
 
 # § 3302. Credits against tax

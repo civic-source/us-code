@@ -3,9 +3,9 @@ title: "Section 1902 - Availability of Government publications through Superinte
 usc_title: 44
 usc_section: "1902"
 chapter: 19
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "44 U.S.C. § 1902"
-generated_at: "2026-03-30T00:10:41.667Z"
+generated_at: "2026-03-30T00:16:12.485Z"
 ---
 
 # § 1902. Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Publishing Office

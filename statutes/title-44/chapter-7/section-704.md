@@ -3,9 +3,9 @@ title: "Section 704 - Reprinting bills, laws, and reports from committees not ex
 usc_title: 44
 usc_section: "704"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "44 U.S.C. § 704"
-generated_at: "2026-03-30T00:10:41.664Z"
+generated_at: "2026-03-30T00:16:12.481Z"
 ---
 
 # § 704. Reprinting bills, laws, and reports from committees not exceeding fifty pages

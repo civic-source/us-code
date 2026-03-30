@@ -3,9 +3,9 @@ title: "Section 1719 - Repair or replacement of certain prosthetic and other app
 usc_title: 38
 usc_section: "1719"
 chapter: 17
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "38 U.S.C. § 1719"
-generated_at: "2026-03-30T00:10:20.879Z"
+generated_at: "2026-03-30T00:16:03.241Z"
 ---
 
 # § 1719. Repair or replacement of certain prosthetic and other appliances

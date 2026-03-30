@@ -3,9 +3,9 @@ title: "Section 87 - Statements in application; patents"
 usc_title: 30
 usc_section: "87"
 chapter: 3
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "30 U.S.C. § 87"
-generated_at: "2026-03-30T00:09:27.929Z"
+generated_at: "2026-03-30T00:15:23.779Z"
 ---
 
 # § 87. Statements in application; patents

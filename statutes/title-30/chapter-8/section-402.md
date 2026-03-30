@@ -3,9 +3,9 @@ title: "Section 402 - Acquisition of lands and property; utilization of voluntar
 usc_title: 30
 usc_section: "402"
 chapter: 8
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "30 U.S.C. § 402"
-generated_at: "2026-03-30T00:09:27.934Z"
+generated_at: "2026-03-30T00:15:23.786Z"
 ---
 
 # § 402. Acquisition of lands and property; utilization of voluntary services; cooperation with other Federal, State, and private agencies

@@ -3,9 +3,9 @@ title: "Section 3056 - Older American community service employment program"
 usc_title: 42
 usc_section: "3056"
 chapter: 35
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 3056"
-generated_at: "2026-03-30T00:12:27.465Z"
+generated_at: "2026-03-30T00:16:29.409Z"
 ---
 
 # § 3056. Older American community service employment program

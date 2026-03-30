@@ -3,9 +3,9 @@ title: "Section 152 - Definitions"
 usc_title: 29
 usc_section: "152"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "29 U.S.C. § 152"
-generated_at: "2026-03-30T00:09:38.255Z"
+generated_at: "2026-03-30T00:15:31.081Z"
 ---
 
 # § 152. Definitions

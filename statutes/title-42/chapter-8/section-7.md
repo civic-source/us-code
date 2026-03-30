@@ -3,9 +3,9 @@ title: "Section 7 - Accountability"
 usc_title: 42
 usc_section: "7"
 chapter: 8
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T00:12:27.376Z"
+generated_at: "2026-03-30T00:16:29.315Z"
 ---
 
 # § 1437bbb–7. Accountability

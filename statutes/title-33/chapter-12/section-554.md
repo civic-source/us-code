@@ -3,9 +3,9 @@ title: "Section 554 - Duty of shipowners and officers to furnish information to 
 usc_title: 33
 usc_section: "554"
 chapter: 12
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "33 U.S.C. § 554"
-generated_at: "2026-03-30T00:09:54.465Z"
+generated_at: "2026-03-30T00:15:52.400Z"
 ---
 
 # § 554. Duty of shipowners and officers to furnish information to person in local charge of improvement; penalty

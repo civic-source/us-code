@@ -3,9 +3,9 @@ title: "Section 4628 - Department of Energy oversight of cooperative agreements 
 usc_title: 15
 usc_section: "4628"
 chapter: 72
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 4628"
-generated_at: "2026-03-30T00:07:49.738Z"
+generated_at: "2026-03-30T00:14:33.545Z"
 ---
 
 # § 4628. Department of Energy oversight of cooperative agreements relating to Initiative

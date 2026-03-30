@@ -3,9 +3,9 @@ title: "Section 4175 - Use of test and evaluation installations by commercial en
 usc_title: 10
 usc_section: "4175"
 chapter: 307
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 4175"
-generated_at: "2026-03-30T00:07:02.257Z"
+generated_at: "2026-03-30T00:14:10.350Z"
 ---
 
 # § 4175. Use of test and evaluation installations by commercial entities

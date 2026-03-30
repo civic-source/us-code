@@ -3,9 +3,9 @@ title: "Section 1859 - Donation to penal and correctional institutions"
 usc_title: 7
 usc_section: "1859"
 chapter: 46
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "7 U.S.C. § 1859"
-generated_at: "2026-03-30T00:07:16.284Z"
+generated_at: "2026-03-30T00:14:23.560Z"
 ---
 
 # § 1859. Donation to penal and correctional institutions

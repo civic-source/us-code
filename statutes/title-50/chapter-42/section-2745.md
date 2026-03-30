@@ -3,9 +3,9 @@ title: "Section 2745 - Fund transfer authority"
 usc_title: 50
 usc_section: "2745"
 chapter: 42
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 2745"
-generated_at: "2026-03-30T00:12:34.467Z"
+generated_at: "2026-03-30T00:16:37.986Z"
 ---
 
 # § 2745. Fund transfer authority

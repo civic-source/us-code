@@ -3,9 +3,9 @@ title: "Section 3537 - Separability"
 usc_title: 42
 usc_section: "3537"
 chapter: 44
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 3537"
-generated_at: "2026-03-30T00:12:27.475Z"
+generated_at: "2026-03-30T00:16:29.420Z"
 ---
 
 # § 3537. Separability

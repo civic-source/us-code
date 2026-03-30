@@ -3,9 +3,9 @@ title: "Section 613 - Evaluation of temporary assistance for needy families and 
 usc_title: 42
 usc_section: "613"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 613"
-generated_at: "2026-03-30T00:12:27.178Z"
+generated_at: "2026-03-30T00:16:29.092Z"
 ---
 
 # § 613. Evaluation of temporary assistance for needy families and related programs

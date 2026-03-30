@@ -3,9 +3,9 @@ title: "Section 3361 - Strategy to respond to influence and information operatio
 usc_title: 22
 usc_section: "3361"
 chapter: 48
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 3361"
-generated_at: "2026-03-30T00:09:16.595Z"
+generated_at: "2026-03-30T00:15:12.568Z"
 ---
 
 # § 3361. Strategy to respond to influence and information operations targeting Taiwan

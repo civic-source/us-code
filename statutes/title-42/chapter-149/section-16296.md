@@ -3,9 +3,9 @@ title: "Section 16296 - Low-volume oil and gas reservoir research program"
 usc_title: 42
 usc_section: "16296"
 chapter: 149
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 16296"
-generated_at: "2026-03-30T00:12:27.767Z"
+generated_at: "2026-03-30T00:16:29.735Z"
 ---
 
 # § 16296. Low-volume oil and gas reservoir research program

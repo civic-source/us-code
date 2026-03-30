@@ -3,9 +3,9 @@ title: "Section 891d - Contract authority"
 usc_title: 33
 usc_section: "891d"
 chapter: 17
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "33 U.S.C. § 891d"
-generated_at: "2026-03-30T00:09:54.476Z"
+generated_at: "2026-03-30T00:15:52.415Z"
 ---
 
 # § 891d. Contract authority

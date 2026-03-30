@@ -3,9 +3,9 @@ title: "Section 2259 - State legislation"
 usc_title: 12
 usc_section: "2259"
 chapter: 23
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 2259"
-generated_at: "2026-03-30T00:07:40.250Z"
+generated_at: "2026-03-30T00:14:48.387Z"
 ---
 
 # § 2259. State legislation

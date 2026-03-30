@@ -3,9 +3,9 @@ title: "Section 1022 - Economic Report of President; coverage; supplementary rep
 usc_title: 15
 usc_section: "1022"
 chapter: 21
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 1022"
-generated_at: "2026-03-30T00:07:49.662Z"
+generated_at: "2026-03-30T00:14:33.454Z"
 ---
 
 # § 1022. Economic Report of President; coverage; supplementary reports; reference to Congressional joint committee; percentage rate of unemployment; definitions

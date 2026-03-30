@@ -3,9 +3,9 @@ title: "Section 14504 - Liability for noneconomic loss"
 usc_title: 42
 usc_section: "14504"
 chapter: 139
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 14504"
-generated_at: "2026-03-30T00:12:27.740Z"
+generated_at: "2026-03-30T00:16:29.707Z"
 ---
 
 # § 14504. Liability for noneconomic loss

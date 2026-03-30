@@ -3,9 +3,9 @@ title: "Section 2716 - Investigative powers"
 usc_title: 25
 usc_section: "2716"
 chapter: 29
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "25 U.S.C. § 2716"
-generated_at: "2026-03-30T00:09:02.693Z"
+generated_at: "2026-03-30T00:15:13.685Z"
 ---
 
 # § 2716. Investigative powers

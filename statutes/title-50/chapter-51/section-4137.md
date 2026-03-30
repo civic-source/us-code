@@ -3,9 +3,9 @@ title: "Section 4137 - Consolidated awards"
 usc_title: 50
 usc_section: "4137"
 chapter: 51
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 4137"
-generated_at: "2026-03-30T00:12:34.503Z"
+generated_at: "2026-03-30T00:16:38.030Z"
 ---
 
 # § 4137. Consolidated awards

@@ -3,9 +3,9 @@ title: "Section 5560 - Other provisions applicable"
 usc_title: 26
 usc_section: "5560"
 chapter: 51
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "26 U.S.C. § 5560"
-generated_at: "2026-03-30T00:09:49.467Z"
+generated_at: "2026-03-30T00:15:47.880Z"
 ---
 
 # § 5560. Other provisions applicable

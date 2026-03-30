@@ -3,9 +3,9 @@ title: "Section 7841 - United States policy toward refugees and defectors"
 usc_title: 22
 usc_section: "7841"
 chapter: 85
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 7841"
-generated_at: "2026-03-30T00:09:16.647Z"
+generated_at: "2026-03-30T00:15:12.632Z"
 ---
 
 # § 7841. United States policy toward refugees and defectors

@@ -3,9 +3,9 @@ title: "Section 3361 - Promotion; competitive service; examination"
 usc_title: 5
 usc_section: "3361"
 chapter: 33
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "5 U.S.C. § 3361"
-generated_at: "2026-03-30T00:06:30.348Z"
+generated_at: "2026-03-30T00:13:52.450Z"
 ---
 
 # § 3361. Promotion; competitive service; examination

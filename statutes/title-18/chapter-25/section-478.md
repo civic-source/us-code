@@ -3,9 +3,9 @@ title: "Section 478 - Foreign obligations or securities"
 usc_title: 18
 usc_section: "478"
 chapter: 25
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "18 U.S.C. § 478"
-generated_at: "2026-03-30T00:08:07.552Z"
+generated_at: "2026-03-30T00:14:51.891Z"
 ---
 
 # § 478. Foreign obligations or securities

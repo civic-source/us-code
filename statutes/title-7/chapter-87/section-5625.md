@@ -3,9 +3,9 @@ title: "Section 5625 - Combination of programs"
 usc_title: 7
 usc_section: "5625"
 chapter: 87
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "7 U.S.C. § 5625"
-generated_at: "2026-03-30T00:07:16.347Z"
+generated_at: "2026-03-30T00:14:23.623Z"
 ---
 
 # § 5625. Combination of programs

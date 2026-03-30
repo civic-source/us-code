@@ -3,9 +3,9 @@ title: "Section 2001 - Definitions relating to the system"
 usc_title: 50
 usc_section: "2001"
 chapter: 38
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 2001"
-generated_at: "2026-03-30T00:12:34.452Z"
+generated_at: "2026-03-30T00:16:37.968Z"
 ---
 
 # § 2001. Definitions relating to the system

@@ -3,9 +3,9 @@ title: "Section 387v - Reporting on tobacco regulation activities"
 usc_title: 21
 usc_section: "387v"
 chapter: 9
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "21 U.S.C. § 387v"
-generated_at: "2026-03-30T00:08:54.843Z"
+generated_at: "2026-03-30T00:15:08.759Z"
 ---
 
 # § 387v. Reporting on tobacco regulation activities

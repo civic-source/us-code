@@ -3,9 +3,9 @@ title: "Section 53732 - Repealed. Pub. L. 116–92, div. C, title XXXV, § 3506(
 usc_title: 46
 usc_section: "53732"
 chapter: 537
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "46 U.S.C. § 53732"
-generated_at: "2026-03-30T00:12:53.372Z"
+generated_at: "2026-03-30T00:16:36.548Z"
 ---
 
 # [§ 53732. Repealed. Pub. L. 116–92, div. C, title XXXV, § 3506(i)(2) , Dec. 20, 2019 , 133 Stat. 1974 ]

@@ -3,9 +3,9 @@ title: "Section 16237 - Wind energy research and development"
 usc_title: 42
 usc_section: "16237"
 chapter: 149
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 16237"
-generated_at: "2026-03-30T00:12:27.763Z"
+generated_at: "2026-03-30T00:16:29.730Z"
 ---
 
 # § 16237. Wind energy research and development

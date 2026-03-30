@@ -3,9 +3,9 @@ title: "Section 277j - Management of international transboundary water pollution
 usc_title: 22
 usc_section: "277j"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "22 U.S.C. § 277j"
-generated_at: "2026-03-30T00:09:16.526Z"
+generated_at: "2026-03-30T00:15:12.487Z"
 ---
 
 # § 277j. Management of international transboundary water pollution

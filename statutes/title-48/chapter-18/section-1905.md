@@ -3,9 +3,9 @@ title: "Section 1905 - Supplemental provisions"
 usc_title: 48
 usc_section: "1905"
 chapter: 18
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "48 U.S.C. § 1905"
-generated_at: "2026-03-30T00:12:30.819Z"
+generated_at: "2026-03-30T00:16:35.576Z"
 ---
 
 # § 1905. Supplemental provisions

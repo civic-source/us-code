@@ -3,9 +3,9 @@ title: "Section 9122 - Recordkeeping and public access to information"
 usc_title: 42
 usc_section: "9122"
 chapter: 99
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 9122"
-generated_at: "2026-03-30T00:12:27.639Z"
+generated_at: "2026-03-30T00:16:29.600Z"
 ---
 
 # § 9122. Recordkeeping and public access to information

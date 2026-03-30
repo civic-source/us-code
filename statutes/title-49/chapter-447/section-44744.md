@@ -3,9 +3,9 @@ title: "Section 44744 - Flight crew alerting"
 usc_title: 49
 usc_section: "44744"
 chapter: 447
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "49 U.S.C. § 44744"
-generated_at: "2026-03-30T00:13:05.139Z"
+generated_at: "2026-03-30T00:16:45.923Z"
 ---
 
 # § 44744. Flight crew alerting

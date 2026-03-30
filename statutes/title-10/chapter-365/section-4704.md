@@ -3,9 +3,9 @@ title: "Section 4704 - Defense contractors: listing of suitable employment openi
 usc_title: 10
 usc_section: "4704"
 chapter: 365
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 4704"
-generated_at: "2026-03-30T00:07:02.262Z"
+generated_at: "2026-03-30T00:14:10.356Z"
 ---
 
 # § 4704. Defense contractors: listing of suitable employment openings with local employment service office

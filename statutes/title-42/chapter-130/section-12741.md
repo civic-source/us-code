@@ -3,9 +3,9 @@ title: "Section 12741 - Authority"
 usc_title: 42
 usc_section: "12741"
 chapter: 130
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 12741"
-generated_at: "2026-03-30T00:12:27.720Z"
+generated_at: "2026-03-30T00:16:29.685Z"
 ---
 
 # § 12741. Authority

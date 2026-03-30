@@ -3,9 +3,9 @@ title: "Section 56 - Transferred"
 usc_title: 8
 usc_section: "56"
 chapter: 3
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "8 U.S.C. § 56"
-generated_at: "2026-03-30T00:07:07.006Z"
+generated_at: "2026-03-30T00:14:25.877Z"
 ---
 
 # §§ 53 to 56. Transferred

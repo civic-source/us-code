@@ -3,9 +3,9 @@ title: "Section 104d - Transferred"
 usc_title: 2
 usc_section: "104d"
 chapter: 4
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "2 U.S.C. § 104d"
-generated_at: "2026-03-30T00:06:51.540Z"
+generated_at: "2026-03-30T00:13:58.926Z"
 ---
 
 # § 104d. Transferred

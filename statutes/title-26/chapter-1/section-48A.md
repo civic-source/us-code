@@ -3,9 +3,9 @@ title: "Section 48A - Qualifying advanced coal project credit"
 usc_title: 26
 usc_section: "48A"
 chapter: 1
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "26 U.S.C. § 48A"
-generated_at: "2026-03-30T00:09:49.294Z"
+generated_at: "2026-03-30T00:15:47.671Z"
 ---
 
 # § 48A. Qualifying advanced coal project credit

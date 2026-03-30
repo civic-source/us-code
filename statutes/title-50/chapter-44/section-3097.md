@@ -3,9 +3,9 @@ title: "Section 3097 - Budget treatment of costs of acquisition of major systems
 usc_title: 50
 usc_section: "3097"
 chapter: 44
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 3097"
-generated_at: "2026-03-30T00:12:34.477Z"
+generated_at: "2026-03-30T00:16:37.997Z"
 ---
 
 # § 3097. Budget treatment of costs of acquisition of major systems by the intelligence community

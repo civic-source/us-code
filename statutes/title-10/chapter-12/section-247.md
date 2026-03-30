@@ -3,9 +3,9 @@ title: "Section 247 - Militia duty: exemptions"
 usc_title: 10
 usc_section: "247"
 chapter: 12
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 247"
-generated_at: "2026-03-30T00:07:02.136Z"
+generated_at: "2026-03-30T00:14:10.229Z"
 ---
 
 # § 247. Militia duty: exemptions

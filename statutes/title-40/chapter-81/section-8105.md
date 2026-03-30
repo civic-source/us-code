@@ -3,9 +3,9 @@ title: "Section 8105 - Approval by Administrator of General Services"
 usc_title: 40
 usc_section: "8105"
 chapter: 81
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "40 U.S.C. § 8105"
-generated_at: "2026-03-30T00:10:21.715Z"
+generated_at: "2026-03-30T00:15:58.366Z"
 ---
 
 # § 8105. Approval by Administrator of General Services

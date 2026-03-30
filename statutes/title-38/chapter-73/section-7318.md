@@ -3,9 +3,9 @@ title: "Section 7318 - National Center for Preventive Health"
 usc_title: 38
 usc_section: "7318"
 chapter: 73
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "38 U.S.C. § 7318"
-generated_at: "2026-03-30T00:10:20.920Z"
+generated_at: "2026-03-30T00:16:03.297Z"
 ---
 
 # § 7318. National Center for Preventive Health

@@ -3,9 +3,9 @@ title: "Section 4621 - Termination of USMCA"
 usc_title: 19
 usc_section: "4621"
 chapter: 29
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "19 U.S.C. § 4621"
-generated_at: "2026-03-30T00:08:05.351Z"
+generated_at: "2026-03-30T00:14:53.326Z"
 ---
 
 # § 4621. Termination of USMCA

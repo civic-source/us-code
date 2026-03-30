@@ -3,9 +3,9 @@ title: "Section 15501 - Economic and infrastructure development grants"
 usc_title: 40
 usc_section: "15501"
 chapter: 155
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "40 U.S.C. § 15501"
-generated_at: "2026-03-30T00:10:21.719Z"
+generated_at: "2026-03-30T00:15:58.374Z"
 ---
 
 # § 15501. Economic and infrastructure development grants

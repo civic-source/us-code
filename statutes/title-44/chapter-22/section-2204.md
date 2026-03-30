@@ -3,9 +3,9 @@ title: "Section 2204 - Restrictions on access to Presidential records"
 usc_title: 44
 usc_section: "2204"
 chapter: 22
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "44 U.S.C. § 2204"
-generated_at: "2026-03-30T00:10:41.669Z"
+generated_at: "2026-03-30T00:16:12.487Z"
 ---
 
 # § 2204. Restrictions on access to Presidential records

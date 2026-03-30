@@ -3,9 +3,9 @@ title: "Section 1502 - Purpose; definitions; protection of information; relation
 usc_title: 7
 usc_section: "1502"
 chapter: 36
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "7 U.S.C. § 1502"
-generated_at: "2026-03-30T00:07:16.258Z"
+generated_at: "2026-03-30T00:14:23.538Z"
 ---
 
 # § 1502. Purpose; definitions; protection of information; relation to other laws

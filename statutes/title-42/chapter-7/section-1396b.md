@@ -3,9 +3,9 @@ title: "Section 1396b - Payment to States"
 usc_title: 42
 usc_section: "1396b"
 chapter: 7
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 1396b"
-generated_at: "2026-03-30T00:12:27.321Z"
+generated_at: "2026-03-30T00:16:29.258Z"
 ---
 
 # § 1396b. Payment to States

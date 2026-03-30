@@ -3,9 +3,9 @@ title: "Section 1421n - Applicability of Federal copyright laws"
 usc_title: 48
 usc_section: "1421n"
 chapter: 8
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "48 U.S.C. § 1421n"
-generated_at: "2026-03-30T00:12:30.809Z"
+generated_at: "2026-03-30T00:16:35.565Z"
 ---
 
 # § 1421n. Applicability of Federal copyright laws

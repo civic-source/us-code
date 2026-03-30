@@ -3,9 +3,9 @@ title: "Section 1323k - Omitted"
 usc_title: 48
 usc_section: "1323k"
 chapter: 6
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "48 U.S.C. § 1323k"
-generated_at: "2026-03-30T00:12:30.807Z"
+generated_at: "2026-03-30T00:16:35.563Z"
 ---
 
 # § 1323k. Omitted

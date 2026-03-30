@@ -3,9 +3,9 @@ title: "Section 3742 - Review of a sentence"
 usc_title: 18
 usc_section: "3742"
 chapter: 235
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "18 U.S.C. § 3742"
-generated_at: "2026-03-30T00:08:07.602Z"
+generated_at: "2026-03-30T00:14:51.948Z"
 ---
 
 # § 3742. Review of a sentence

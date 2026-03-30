@@ -3,9 +3,9 @@ title: "Section 3502 - Interagency Working Group on Ocean and Coastal Mapping"
 usc_title: 33
 usc_section: "3502"
 chapter: 48
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "33 U.S.C. § 3502"
-generated_at: "2026-03-30T00:09:54.533Z"
+generated_at: "2026-03-30T00:15:52.491Z"
 ---
 
 # § 3502. Interagency Working Group on Ocean and Coastal Mapping

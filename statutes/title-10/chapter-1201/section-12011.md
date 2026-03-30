@@ -3,9 +3,9 @@ title: "Section 12011 - Authorized strengths: reserve officers on active duty or
 usc_title: 10
 usc_section: "12011"
 chapter: 1201
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "10 U.S.C. § 12011"
-generated_at: "2026-03-30T00:07:02.299Z"
+generated_at: "2026-03-30T00:14:10.392Z"
 ---
 
 # § 12011. Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard

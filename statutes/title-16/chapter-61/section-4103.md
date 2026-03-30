@@ -3,9 +3,9 @@ title: "Section 4103 - Apportionment"
 usc_title: 16
 usc_section: "4103"
 chapter: 61
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 4103"
-generated_at: "2026-03-30T00:08:38.063Z"
+generated_at: "2026-03-30T00:14:59.594Z"
 ---
 
 # § 4103. Apportionment

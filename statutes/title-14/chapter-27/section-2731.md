@@ -3,9 +3,9 @@ title: "Section 2731 - Delegation of powers to make awards; rules and regulation
 usc_title: 14
 usc_section: "2731"
 chapter: 27
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "14 U.S.C. § 2731"
-generated_at: "2026-03-30T00:07:27.045Z"
+generated_at: "2026-03-30T00:14:28.578Z"
 ---
 
 # § 2731. Delegation of powers to make awards; rules and regulations

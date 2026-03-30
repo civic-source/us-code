@@ -3,9 +3,9 @@ title: "Section 62 - Distribution and repurchase of securities"
 usc_title: 15
 usc_section: "62"
 chapter: 2
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 62"
-generated_at: "2026-03-30T00:07:49.609Z"
+generated_at: "2026-03-30T00:14:33.391Z"
 ---
 
 # § 80a–62. Distribution and repurchase of securities

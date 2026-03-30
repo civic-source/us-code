@@ -3,9 +3,9 @@ title: "Section 240106 - Powers"
 usc_title: 36
 usc_section: "240106"
 chapter: 2401
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "36 U.S.C. § 240106"
-generated_at: "2026-03-30T00:10:18.830Z"
+generated_at: "2026-03-30T00:16:00.289Z"
 ---
 
 # § 240106. Powers

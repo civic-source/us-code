@@ -3,9 +3,9 @@ title: "Section 101 - Annual appropriations"
 usc_title: 20
 usc_section: "101"
 chapter: 6
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "20 U.S.C. § 101"
-generated_at: "2026-03-30T00:08:14.456Z"
+generated_at: "2026-03-30T00:15:01.582Z"
 ---
 
 # § 101. Annual appropriations

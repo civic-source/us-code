@@ -3,9 +3,9 @@ title: "Section 7651o - Contingency guarantee, auctions, reserve"
 usc_title: 42
 usc_section: "7651o"
 chapter: 85
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "42 U.S.C. § 7651o"
-generated_at: "2026-03-30T00:12:27.613Z"
+generated_at: "2026-03-30T00:16:29.573Z"
 ---
 
 # § 7651o. Contingency guarantee, auctions, reserve

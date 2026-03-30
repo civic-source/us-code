@@ -3,9 +3,9 @@ title: "Section 364e - Standardization of geographic names; abolition of United 
 usc_title: 43
 usc_section: "364e"
 chapter: 11
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "43 U.S.C. § 364e"
-generated_at: "2026-03-30T00:11:08.875Z"
+generated_at: "2026-03-30T00:16:09.756Z"
 ---
 
 # § 364e. Standardization of geographic names; abolition of United States Board on Geographical Names in Department of the Interior; transfer of duties

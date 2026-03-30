@@ -3,9 +3,9 @@ title: "Section 357 - Establishment of rates of discount"
 usc_title: 12
 usc_section: "357"
 chapter: 3
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 357"
-generated_at: "2026-03-30T00:07:40.160Z"
+generated_at: "2026-03-30T00:14:48.288Z"
 ---
 
 # § 357. Establishment of rates of discount

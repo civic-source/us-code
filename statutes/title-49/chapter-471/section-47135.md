@@ -3,9 +3,9 @@ title: "Section 47135 - Innovative financing techniques"
 usc_title: 49
 usc_section: "47135"
 chapter: 471
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "49 U.S.C. § 47135"
-generated_at: "2026-03-30T00:13:05.154Z"
+generated_at: "2026-03-30T00:16:45.938Z"
 ---
 
 # § 47135. Innovative financing techniques

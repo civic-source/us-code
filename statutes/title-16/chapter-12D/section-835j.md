@@ -3,9 +3,9 @@ title: "Section 835j - Projects marketing commercial power and energy; consolida
 usc_title: 16
 usc_section: "835j"
 chapter: 12
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "16 U.S.C. § 835j"
-generated_at: "2026-03-30T00:08:37.985Z"
+generated_at: "2026-03-30T00:14:59.507Z"
 ---
 
 # § 835j. Projects marketing commercial power and energy; consolidated financial statement to President and Congress; adjustment of rates to assure return of reimbursable construction costs within prescribed period

@@ -3,9 +3,9 @@ title: "Section 956 - Applicability of administrative procedure provisions"
 usc_title: 30
 usc_section: "956"
 chapter: 22
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "30 U.S.C. § 956"
-generated_at: "2026-03-30T00:09:27.945Z"
+generated_at: "2026-03-30T00:15:23.797Z"
 ---
 
 # § 956. Applicability of administrative procedure provisions

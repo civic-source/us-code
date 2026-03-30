@@ -3,9 +3,9 @@ title: "Section 2143 - Alternative forms of annuities"
 usc_title: 50
 usc_section: "2143"
 chapter: 38
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "50 U.S.C. § 2143"
-generated_at: "2026-03-30T00:12:34.457Z"
+generated_at: "2026-03-30T00:16:37.973Z"
 ---
 
 # § 2143. Alternative forms of annuities

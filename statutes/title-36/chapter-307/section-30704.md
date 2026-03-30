@@ -3,9 +3,9 @@ title: "Section 30704 - Governing body"
 usc_title: 36
 usc_section: "30704"
 chapter: 307
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "36 U.S.C. § 30704"
-generated_at: "2026-03-30T00:10:18.814Z"
+generated_at: "2026-03-30T00:16:00.270Z"
 ---
 
 # § 30704. Governing body

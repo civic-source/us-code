@@ -3,9 +3,9 @@ title: "Section 420 - Control and direction of plates and dies; expense of issue
 usc_title: 12
 usc_section: "420"
 chapter: 3
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 420"
-generated_at: "2026-03-30T00:07:40.162Z"
+generated_at: "2026-03-30T00:14:48.290Z"
 ---
 
 # § 420. Control and direction of plates and dies; expense of issue and retirement of notes paid by banks

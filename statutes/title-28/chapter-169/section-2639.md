@@ -3,9 +3,9 @@ title: "Section 2639 - Burden of proof; evidence of value"
 usc_title: 28
 usc_section: "2639"
 chapter: 169
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "28 U.S.C. § 2639"
-generated_at: "2026-03-30T00:09:50.197Z"
+generated_at: "2026-03-30T00:15:29.259Z"
 ---
 
 # § 2639. Burden of proof; evidence of value

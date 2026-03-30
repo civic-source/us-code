@@ -3,9 +3,9 @@ title: "Section 521 - Purposes"
 usc_title: 47
 usc_section: "521"
 chapter: 5
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "47 U.S.C. § 521"
-generated_at: "2026-03-30T00:12:52.442Z"
+generated_at: "2026-03-30T00:16:35.130Z"
 ---
 
 # § 521. Purposes

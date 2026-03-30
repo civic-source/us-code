@@ -3,9 +3,9 @@ title: "Section 952 - Training and education"
 usc_title: 30
 usc_section: "952"
 chapter: 22
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "30 U.S.C. § 952"
-generated_at: "2026-03-30T00:09:27.944Z"
+generated_at: "2026-03-30T00:15:23.797Z"
 ---
 
 # § 952. Training and education

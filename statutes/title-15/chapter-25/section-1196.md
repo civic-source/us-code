@@ -3,9 +3,9 @@ title: "Section 1196 - Penalties"
 usc_title: 15
 usc_section: "1196"
 chapter: 25
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "15 U.S.C. § 1196"
-generated_at: "2026-03-30T00:07:49.668Z"
+generated_at: "2026-03-30T00:14:33.461Z"
 ---
 
 # § 1196. Penalties

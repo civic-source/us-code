@@ -3,9 +3,9 @@ title: "Section 3806 - Collection of civil penalties and assessments"
 usc_title: 31
 usc_section: "3806"
 chapter: 38
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "31 U.S.C. § 3806"
-generated_at: "2026-03-30T00:10:06.387Z"
+generated_at: "2026-03-30T00:15:55.088Z"
 ---
 
 # § 3806. Collection of civil penalties and assessments

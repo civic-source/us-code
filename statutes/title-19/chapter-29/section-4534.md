@@ -3,9 +3,9 @@ title: "Section 4534 - Drawback"
 usc_title: 19
 usc_section: "4534"
 chapter: 29
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "19 U.S.C. § 4534"
-generated_at: "2026-03-30T00:08:05.350Z"
+generated_at: "2026-03-30T00:14:53.323Z"
 ---
 
 # § 4534. Drawback

@@ -3,9 +3,9 @@ title: "Section 20171 - Requirements for railroad freight cars placed into servi
 usc_title: 49
 usc_section: "20171"
 chapter: 201
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "49 U.S.C. § 20171"
-generated_at: "2026-03-30T00:13:05.096Z"
+generated_at: "2026-03-30T00:16:45.873Z"
 ---
 
 # § 20171. Requirements for railroad freight cars placed into service in the United States

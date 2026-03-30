@@ -3,9 +3,9 @@ title: "Section 2033A - Renumbered § 2057]"
 usc_title: 26
 usc_section: "2033A"
 chapter: 11
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "26 U.S.C. § 2033A"
-generated_at: "2026-03-30T00:09:49.431Z"
+generated_at: "2026-03-30T00:15:47.835Z"
 ---
 
 # [§ 2033A. Renumbered § 2057]

@@ -3,9 +3,9 @@ title: "Section 51b - Dividends, voting, and retirement of preferred stock; indi
 usc_title: 12
 usc_section: "51b"
 chapter: 2
-current_through: "PL 118-9"
+current_through: "PL 118-10"
 classification: "12 U.S.C. § 51b"
-generated_at: "2026-03-30T00:07:40.152Z"
+generated_at: "2026-03-30T00:14:48.279Z"
 ---
 
 # § 51b. Dividends, voting, and retirement of preferred stock; individual liability
