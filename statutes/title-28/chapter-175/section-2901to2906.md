@@ -3,9 +3,9 @@ title: "Section 2901to2906 - Repealed. Pub. L. 106–310, div. B, title XXXIV, �
 usc_title: 28
 usc_section: "2901to2906"
 chapter: 175
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "28 U.S.C. § 2901to2906"
-generated_at: "2026-03-30T03:57:44.919Z"
+generated_at: "2026-03-30T04:00:20.991Z"
 status: "repealed"
 ---
 

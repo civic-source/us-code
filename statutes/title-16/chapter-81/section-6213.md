@@ -3,9 +3,9 @@ title: "Section 6213 - Transition provisions"
 usc_title: 16
 usc_section: "6213"
 chapter: 81
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 6213"
-generated_at: "2026-03-30T03:57:07.705Z"
+generated_at: "2026-03-30T04:00:01.954Z"
 status: "active"
 ---
 

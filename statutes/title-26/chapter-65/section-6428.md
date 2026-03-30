@@ -3,9 +3,9 @@ title: "Section 6428 - 2008 recovery rebates for individuals"
 usc_title: 26
 usc_section: "6428"
 chapter: 65
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "26 U.S.C. § 6428"
-generated_at: "2026-03-30T03:58:07.424Z"
+generated_at: "2026-03-30T04:00:34.934Z"
 status: "active"
 ---
 

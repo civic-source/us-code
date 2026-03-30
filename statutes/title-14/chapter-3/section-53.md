@@ -3,9 +3,9 @@ title: "Section 53 - Office of the Coast Guard Reserve; Director"
 usc_title: 14
 usc_section: "53"
 chapter: 3
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "14 U.S.C. § 53"
-generated_at: "2026-03-30T03:56:54.860Z"
+generated_at: "2026-03-30T03:59:35.776Z"
 status: "active"
 ---
 

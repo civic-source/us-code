@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions"
 usc_title: 30
 usc_section: "2002"
 chapter: 32
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "30 U.S.C. § 2002"
-generated_at: "2026-03-30T03:57:45.913Z"
+generated_at: "2026-03-30T04:00:19.667Z"
 status: "active"
 ---
 

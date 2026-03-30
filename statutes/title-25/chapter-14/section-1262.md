@@ -3,9 +3,9 @@ title: "Section 1262 - Membership roll; per capita distribution; minors"
 usc_title: 25
 usc_section: "1262"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 1262"
-generated_at: "2026-03-30T03:57:17.265Z"
+generated_at: "2026-03-30T04:00:09.028Z"
 status: "active"
 ---
 

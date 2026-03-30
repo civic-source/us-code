@@ -1,15 +1,15 @@
 ---
-title: "Section 2411 - Director for cost estimating and program evaluation"
+title: "Section 2411 - Director for Cost Estimating and Program Evaluation"
 usc_title: 50
 usc_section: "2411"
 chapter: 41
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "50 U.S.C. § 2411"
-generated_at: "2026-03-30T03:58:42.243Z"
+generated_at: "2026-03-30T04:02:01.576Z"
 status: "active"
 ---
 
-# § 2411. Director for cost estimating and program evaluation
+# § 2411. Director for Cost Estimating and Program Evaluation
 
 - **(a)**
   - **(1)** There is in the Administration a Director for Cost Estimating and Program Evaluation (in this section referred to as the “Director”).

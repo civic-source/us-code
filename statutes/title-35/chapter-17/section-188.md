@@ -3,9 +3,9 @@ title: "Section 188 - Rules and regulations, delegation of power"
 usc_title: 35
 usc_section: "188"
 chapter: 17
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "35 U.S.C. § 188"
-generated_at: "2026-03-30T03:58:09.434Z"
+generated_at: "2026-03-30T04:00:37.206Z"
 status: "active"
 ---
 

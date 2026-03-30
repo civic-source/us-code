@@ -3,9 +3,9 @@ title: "Section 50918 - Consultation"
 usc_title: 51
 usc_section: "50918"
 chapter: 509
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "51 U.S.C. § 50918"
-generated_at: "2026-03-30T03:58:49.880Z"
+generated_at: "2026-03-30T04:02:07.599Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7003 - Specific exceptions"
 usc_title: 15
 usc_section: "7003"
 chapter: 96
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "15 U.S.C. § 7003"
-generated_at: "2026-03-30T03:56:54.618Z"
+generated_at: "2026-03-30T03:59:45.949Z"
 status: "active"
 ---
 

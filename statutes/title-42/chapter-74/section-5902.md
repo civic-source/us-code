@@ -3,9 +3,9 @@ title: "Section 5902 - Congressional declaration of policy and purpose; implemen
 usc_title: 42
 usc_section: "5902"
 chapter: 74
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 5902"
-generated_at: "2026-03-30T03:58:36.839Z"
+generated_at: "2026-03-30T04:01:27.539Z"
 status: "active"
 ---
 

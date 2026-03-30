@@ -3,9 +3,9 @@ title: "Section 416d - Advance payment of rent or other consideration"
 usc_title: 25
 usc_section: "416d"
 chapter: 12
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 416d"
-generated_at: "2026-03-30T03:57:17.224Z"
+generated_at: "2026-03-30T04:00:08.975Z"
 status: "active"
 ---
 

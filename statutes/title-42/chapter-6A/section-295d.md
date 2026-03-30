@@ -3,9 +3,9 @@ title: "Section 295d - Health administration traineeships and special projects"
 usc_title: 42
 usc_section: "295d"
 chapter: 6
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 295d"
-generated_at: "2026-03-30T03:58:36.194Z"
+generated_at: "2026-03-30T04:01:26.924Z"
 status: "active"
 ---
 

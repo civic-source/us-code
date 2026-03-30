@@ -3,9 +3,9 @@ title: "Section 601 - Omitted"
 usc_title: 43
 usc_section: "601"
 chapter: 12
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "43 U.S.C. § 601"
-generated_at: "2026-03-30T03:58:20.193Z"
+generated_at: "2026-03-30T04:01:28.805Z"
 status: "omitted"
 ---
 

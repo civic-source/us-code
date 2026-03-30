@@ -3,9 +3,9 @@ title: "Section 2141ato2141d - Repealed. Pub. L. 104–288, § 7(a) , Oct. 11, 1
 usc_title: 22
 usc_section: "2141ato2141d"
 chapter: 31
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 2141ato2141d"
-generated_at: "2026-03-30T03:57:40.807Z"
+generated_at: "2026-03-30T04:00:16.225Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30308 - Nonapplication"
 usc_title: 46
 usc_section: "30308"
 chapter: 303
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "46 U.S.C. § 30308"
-generated_at: "2026-03-30T03:58:47.610Z"
+generated_at: "2026-03-30T04:01:51.340Z"
 status: "active"
 ---
 

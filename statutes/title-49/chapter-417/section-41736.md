@@ -3,9 +3,9 @@ title: "Section 41736 - Air transportation to noneligible places"
 usc_title: 49
 usc_section: "41736"
 chapter: 417
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "49 U.S.C. § 41736"
-generated_at: "2026-03-30T03:58:45.503Z"
+generated_at: "2026-03-30T04:01:43.296Z"
 status: "active"
 ---
 

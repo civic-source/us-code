@@ -3,9 +3,9 @@ title: "Section 3410 - Federal responsibilities"
 usc_title: 25
 usc_section: "3410"
 chapter: 36
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 3410"
-generated_at: "2026-03-30T03:57:17.333Z"
+generated_at: "2026-03-30T04:00:09.125Z"
 status: "active"
 ---
 

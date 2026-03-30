@@ -3,9 +3,9 @@ title: "Section 677 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "677"
 chapter: 16
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "43 U.S.C. § 677"
-generated_at: "2026-03-30T03:58:20.199Z"
+generated_at: "2026-03-30T04:01:28.812Z"
 status: "repealed"
 ---
 

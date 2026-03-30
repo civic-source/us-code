@@ -3,9 +3,9 @@ title: "Section 1861 - Definition of tribally controlled postsecondary career an
 usc_title: 25
 usc_section: "1861"
 chapter: 20
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 1861"
-generated_at: "2026-03-30T03:57:17.305Z"
+generated_at: "2026-03-30T04:00:09.088Z"
 status: "active"
 ---
 

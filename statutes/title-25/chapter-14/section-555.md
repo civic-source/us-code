@@ -3,9 +3,9 @@ title: "Section 555 - Repealed. Aug. 13, 1954, ch. 732, § 9(c) , 68 Stat. 721"
 usc_title: 25
 usc_section: "555"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 555"
-generated_at: "2026-03-30T03:57:17.236Z"
+generated_at: "2026-03-30T04:00:08.991Z"
 status: "repealed"
 ---
 

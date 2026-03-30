@@ -3,9 +3,9 @@ title: "Section 2213 - Repealed. Pub. L. 109–58, title VI, § 637(b) , Aug. 8,
 usc_title: 42
 usc_section: "2213"
 chapter: 23
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 2213"
-generated_at: "2026-03-30T03:58:36.693Z"
+generated_at: "2026-03-30T04:01:27.396Z"
 status: "repealed"
 ---
 

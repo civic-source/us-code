@@ -3,9 +3,9 @@ title: "Section 172 - Repealed. Pub. L. 98–621, § 10(f)(1) , Nov. 8, 1984 , 9
 usc_title: 24
 usc_section: "172"
 chapter: 4
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "24 U.S.C. § 172"
-generated_at: "2026-03-30T03:57:10.028Z"
+generated_at: "2026-03-30T04:00:05.264Z"
 status: "repealed"
 ---
 

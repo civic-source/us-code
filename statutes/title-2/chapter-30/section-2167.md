@@ -3,9 +3,9 @@ title: "Section 2167 - Congressional Award Youth Park"
 usc_title: 2
 usc_section: "2167"
 chapter: 30
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "2 U.S.C. § 2167"
-generated_at: "2026-03-30T03:56:19.806Z"
+generated_at: "2026-03-30T03:59:14.076Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 566a - Tribe Constitution and Bylaws"
 usc_title: 25
 usc_section: "566a"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 566a"
-generated_at: "2026-03-30T03:57:17.238Z"
+generated_at: "2026-03-30T04:00:08.993Z"
 status: "active"
 ---
 

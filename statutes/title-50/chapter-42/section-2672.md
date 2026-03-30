@@ -3,15 +3,15 @@ title: "Section 2672 - Protection against inadvertent release of Restricted Data
 usc_title: 50
 usc_section: "2672"
 chapter: 42
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "50 U.S.C. § 2672"
-generated_at: "2026-03-30T03:58:42.250Z"
+generated_at: "2026-03-30T04:02:01.583Z"
 status: "active"
 ---
 
 # § 2672. Protection against inadvertent release of Restricted Data and Formerly Restricted Data
 
-- **(a)** The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 12958 ([former] 50 U.S.C. 435 note) [now 50 U.S.C. 3161 note].
+- **(a)** The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 12958 ([former] 50 U.S.C. 435 note).
 - **(b)** The plan under subsection (a) shall include the following:
   - **(1)** The actions to be taken in order to ensure that records subject to Executive Order No. 12958 are reviewed on a page-by-page basis for Restricted Data and Formerly Restricted Data unless they have been determined to be highly unlikely to contain Restricted Data or Formerly Restricted Data.
   - **(2)** The criteria and process by which documents are determined to be highly unlikely to contain Restricted Data or Formerly Restricted Data.

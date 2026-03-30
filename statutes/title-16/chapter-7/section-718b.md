@@ -3,9 +3,9 @@ title: "Section 718b - Sales; fund disposition; unsold stamps"
 usc_title: 16
 usc_section: "718b"
 chapter: 7
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 718b"
-generated_at: "2026-03-30T03:57:07.561Z"
+generated_at: "2026-03-30T04:00:01.753Z"
 status: "active"
 ---
 

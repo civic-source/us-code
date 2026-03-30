@@ -3,9 +3,9 @@ title: "Section 457 - Labeling and container standards"
 usc_title: 21
 usc_section: "457"
 chapter: 10
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "21 U.S.C. § 457"
-generated_at: "2026-03-30T03:57:11.621Z"
+generated_at: "2026-03-30T04:00:10.524Z"
 status: "active"
 ---
 

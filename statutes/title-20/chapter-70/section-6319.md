@@ -3,9 +3,9 @@ title: "Section 6319 - Qualifications for teachers and paraprofessionals"
 usc_title: 20
 usc_section: "6319"
 chapter: 70
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 6319"
-generated_at: "2026-03-30T03:57:03.321Z"
+generated_at: "2026-03-30T03:59:57.117Z"
 status: "active"
 ---
 

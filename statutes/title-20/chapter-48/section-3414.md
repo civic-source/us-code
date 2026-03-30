@@ -3,9 +3,9 @@ title: "Section 3414 - Office of Elementary and Secondary Education; inclusion o
 usc_title: 20
 usc_section: "3414"
 chapter: 48
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 3414"
-generated_at: "2026-03-30T03:57:03.295Z"
+generated_at: "2026-03-30T03:59:57.084Z"
 status: "active"
 ---
 

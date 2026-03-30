@@ -3,9 +3,9 @@ title: "Section 294 - Sale of certain abandoned buildings on lands belonging to 
 usc_title: 25
 usc_section: "294"
 chapter: 7
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 294"
-generated_at: "2026-03-30T03:57:17.214Z"
+generated_at: "2026-03-30T04:00:08.963Z"
 status: "active"
 ---
 

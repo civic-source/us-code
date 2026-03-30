@@ -3,9 +3,9 @@ title: "Section 9835a - Repealed. Pub. L. 103–252, title I, § 106 , May 18, 1
 usc_title: 42
 usc_section: "9835a"
 chapter: 105
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 9835a"
-generated_at: "2026-03-30T03:58:37.026Z"
+generated_at: "2026-03-30T04:01:27.709Z"
 status: "repealed"
 ---
 

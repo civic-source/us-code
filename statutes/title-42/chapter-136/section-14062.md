@@ -3,9 +3,9 @@ title: "Section 14062 - Gang investigation coordination and information collecti
 usc_title: 42
 usc_section: "14062"
 chapter: 136
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 14062"
-generated_at: "2026-03-30T03:58:37.163Z"
+generated_at: "2026-03-30T04:01:27.846Z"
 status: "active"
 ---
 

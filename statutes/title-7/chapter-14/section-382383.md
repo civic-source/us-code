@@ -3,9 +3,9 @@ title: "Section 382383 - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674 ,
 usc_title: 7
 usc_section: "382383"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "7 U.S.C. § 382383"
-generated_at: "2026-03-30T03:56:45.007Z"
+generated_at: "2026-03-30T03:59:22.187Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1403 - Withdrawal liability payment fund"
 usc_title: 29
 usc_section: "1403"
 chapter: 18
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "29 U.S.C. § 1403"
-generated_at: "2026-03-30T03:57:58.648Z"
+generated_at: "2026-03-30T04:00:22.444Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1599 - Officers not to be interested in vessels or cargo"
 usc_title: 19
 usc_section: "1599"
 chapter: 4
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "19 U.S.C. § 1599"
-generated_at: "2026-03-30T03:57:00.549Z"
+generated_at: "2026-03-30T03:59:53.492Z"
 status: "active"
 ---
 

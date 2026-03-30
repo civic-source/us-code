@@ -3,9 +3,9 @@ title: "Section 515 - Child development services"
 usc_title: 14
 usc_section: "515"
 chapter: 13
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "14 U.S.C. § 515"
-generated_at: "2026-03-30T03:56:54.864Z"
+generated_at: "2026-03-30T03:59:35.782Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2633 - Continuation of processing, treatment, and disposal of le
 usc_title: 50
 usc_section: "2633"
 chapter: 42
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "50 U.S.C. § 2633"
-generated_at: "2026-03-30T03:58:42.250Z"
+generated_at: "2026-03-30T04:02:01.582Z"
 status: "active"
 ---
 

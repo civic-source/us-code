@@ -3,9 +3,9 @@ title: "Section 1085 - Tribal organizational document: development and adoption"
 usc_title: 25
 usc_section: "1085"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 1085"
-generated_at: "2026-03-30T03:57:17.262Z"
+generated_at: "2026-03-30T04:00:09.024Z"
 status: "active"
 ---
 

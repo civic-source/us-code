@@ -3,9 +3,9 @@ title: "Section 130511 - Service of process"
 usc_title: 36
 usc_section: "130511"
 chapter: 1305
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "36 U.S.C. § 130511"
-generated_at: "2026-03-30T03:58:15.358Z"
+generated_at: "2026-03-30T04:00:50.923Z"
 status: "active"
 ---
 

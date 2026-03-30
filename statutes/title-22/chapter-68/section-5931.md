@@ -3,9 +3,9 @@ title: "Section 5931 - Programs with states of former Soviet Union"
 usc_title: 22
 usc_section: "5931"
 chapter: 68
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 5931"
-generated_at: "2026-03-30T03:57:40.907Z"
+generated_at: "2026-03-30T04:00:16.360Z"
 status: "active"
 ---
 

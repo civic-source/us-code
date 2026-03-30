@@ -3,9 +3,9 @@ title: "Section 3352 - Emergency exceptions for disaster areas"
 usc_title: 12
 usc_section: "3352"
 chapter: 34
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "12 U.S.C. § 3352"
-generated_at: "2026-03-30T03:56:51.982Z"
+generated_at: "2026-03-30T03:59:41.919Z"
 status: "active"
 ---
 

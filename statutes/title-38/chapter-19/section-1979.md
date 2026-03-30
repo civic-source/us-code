@@ -3,9 +3,9 @@ title: "Section 1979 - Incontestability"
 usc_title: 38
 usc_section: "1979"
 chapter: 19
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "38 U.S.C. § 1979"
-generated_at: "2026-03-30T03:58:16.830Z"
+generated_at: "2026-03-30T04:00:45.127Z"
 status: "active"
 ---
 

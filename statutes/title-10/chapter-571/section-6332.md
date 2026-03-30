@@ -3,9 +3,9 @@ title: "Section 6332 - Conclusiveness of transfers"
 usc_title: 10
 usc_section: "6332"
 chapter: 571
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 6332"
-generated_at: "2026-03-30T03:56:39.647Z"
+generated_at: "2026-03-30T03:59:31.709Z"
 status: "active"
 ---
 

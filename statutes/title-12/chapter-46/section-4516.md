@@ -3,9 +3,9 @@ title: "Section 4516 - Funding"
 usc_title: 12
 usc_section: "4516"
 chapter: 46
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "12 U.S.C. § 4516"
-generated_at: "2026-03-30T03:56:51.998Z"
+generated_at: "2026-03-30T03:59:41.943Z"
 status: "active"
 ---
 

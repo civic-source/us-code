@@ -3,9 +3,9 @@ title: "Section 1257 - Adjustment of status of certain resident aliens to nonimm
 usc_title: 8
 usc_section: "1257"
 chapter: 12
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "8 U.S.C. § 1257"
-generated_at: "2026-03-30T03:56:35.105Z"
+generated_at: "2026-03-30T03:59:17.513Z"
 status: "active"
 ---
 

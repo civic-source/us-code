@@ -3,9 +3,9 @@ title: "Section 8141to8143 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A)
 usc_title: 20
 usc_section: "8141to8143"
 chapter: 70
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 8141to8143"
-generated_at: "2026-03-30T03:57:03.377Z"
+generated_at: "2026-03-30T03:59:57.187Z"
 status: "repealed"
 ---
 

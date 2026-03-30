@@ -3,9 +3,9 @@ title: "Section 617k - Definitions"
 usc_title: 43
 usc_section: "617k"
 chapter: 12
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "43 U.S.C. § 617k"
-generated_at: "2026-03-30T03:58:20.194Z"
+generated_at: "2026-03-30T04:01:28.806Z"
 status: "active"
 ---
 

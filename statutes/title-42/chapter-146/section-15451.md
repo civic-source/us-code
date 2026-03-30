@@ -3,9 +3,9 @@ title: "Section 15451 - Pilot program"
 usc_title: 42
 usc_section: "15451"
 chapter: 146
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 15451"
-generated_at: "2026-03-30T03:58:37.189Z"
+generated_at: "2026-03-30T04:01:27.872Z"
 status: "active"
 ---
 

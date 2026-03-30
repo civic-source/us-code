@@ -3,9 +3,9 @@ title: "Section 469m - Women’s Rights National Historical Park"
 usc_title: 16
 usc_section: "469m"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 469m"
-generated_at: "2026-03-30T03:57:07.510Z"
+generated_at: "2026-03-30T04:00:01.687Z"
 status: "active"
 ---
 

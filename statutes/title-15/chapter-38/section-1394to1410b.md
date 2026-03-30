@@ -3,9 +3,9 @@ title: "Section 1394to1410b - Repealed. Pub. L. 103–272, § 7(b) , July 5, 199
 usc_title: 15
 usc_section: "1394to1410b"
 chapter: 38
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "15 U.S.C. § 1394to1410b"
-generated_at: "2026-03-30T03:56:54.516Z"
+generated_at: "2026-03-30T03:59:45.717Z"
 status: "repealed"
 ---
 

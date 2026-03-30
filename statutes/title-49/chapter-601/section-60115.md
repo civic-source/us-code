@@ -3,9 +3,9 @@ title: "Section 60115 - Technical safety standards committees"
 usc_title: 49
 usc_section: "60115"
 chapter: 601
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "49 U.S.C. § 60115"
-generated_at: "2026-03-30T03:58:45.545Z"
+generated_at: "2026-03-30T04:01:43.334Z"
 status: "active"
 ---
 

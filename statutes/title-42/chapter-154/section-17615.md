@@ -3,9 +3,9 @@ title: "Section 17615 - National Internet Crimes Against Children Data System"
 usc_title: 42
 usc_section: "17615"
 chapter: 154
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 17615"
-generated_at: "2026-03-30T03:58:37.245Z"
+generated_at: "2026-03-30T04:01:27.927Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8621to8625 - Transferred"
 usc_title: 20
 usc_section: "8621to8625"
 chapter: 70
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 8621to8625"
-generated_at: "2026-03-30T03:57:03.377Z"
+generated_at: "2026-03-30T03:59:57.187Z"
 status: "transferred"
 ---
 

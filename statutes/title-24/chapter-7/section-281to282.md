@@ -3,9 +3,9 @@ title: "Section 281to282 - Repealed. Pub. L. 93–43, § 7(a)(6) , (8), (10)–(
 usc_title: 24
 usc_section: "281to282"
 chapter: 7
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "24 U.S.C. § 281to282"
-generated_at: "2026-03-30T03:57:10.030Z"
+generated_at: "2026-03-30T04:00:05.266Z"
 status: "repealed"
 ---
 

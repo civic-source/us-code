@@ -3,9 +3,9 @@ title: "Section 8 - Coverage for individuals participating in approved clinical 
 usc_title: 42
 usc_section: "8"
 chapter: 6
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T03:58:36.266Z"
+generated_at: "2026-03-30T04:01:26.996Z"
 status: "active"
 ---
 

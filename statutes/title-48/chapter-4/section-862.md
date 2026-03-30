@@ -3,9 +3,9 @@ title: "Section 862 - Omitted"
 usc_title: 48
 usc_section: "862"
 chapter: 4
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "48 U.S.C. § 862"
-generated_at: "2026-03-30T03:58:46.396Z"
+generated_at: "2026-03-30T04:01:36.633Z"
 status: "omitted"
 ---
 

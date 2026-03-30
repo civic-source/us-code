@@ -3,9 +3,9 @@ title: "Section 470w - Definitions"
 usc_title: 16
 usc_section: "470w"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 470w"
-generated_at: "2026-03-30T03:57:07.513Z"
+generated_at: "2026-03-30T04:00:01.693Z"
 status: "active"
 ---
 

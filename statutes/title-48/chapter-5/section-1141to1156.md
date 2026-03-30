@@ -3,9 +3,9 @@ title: "Section 1141to1156 - Omitted"
 usc_title: 48
 usc_section: "1141to1156"
 chapter: 5
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "48 U.S.C. § 1141to1156"
-generated_at: "2026-03-30T03:58:46.396Z"
+generated_at: "2026-03-30T04:01:36.634Z"
 status: "omitted"
 ---
 

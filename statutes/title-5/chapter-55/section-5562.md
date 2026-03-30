@@ -3,9 +3,9 @@ title: "Section 5562 - Pay and allowances; continuance while in a missing status
 usc_title: 5
 usc_section: "5562"
 chapter: 55
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "5 U.S.C. § 5562"
-generated_at: "2026-03-30T03:56:31.705Z"
+generated_at: "2026-03-30T03:59:12.161Z"
 status: "active"
 ---
 

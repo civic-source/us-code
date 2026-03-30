@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 91–230, title IV, § 401(d)(3) , Apr. 13
 usc_title: 20
 usc_section: "6"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 6"
-generated_at: "2026-03-30T03:57:03.158Z"
+generated_at: "2026-03-30T03:59:56.914Z"
 status: "repealed"
 ---
 

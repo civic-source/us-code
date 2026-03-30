@@ -3,9 +3,9 @@ title: "Section 3843to3846 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "3843to3846"
 chapter: 363
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 3843to3846"
-generated_at: "2026-03-30T03:56:39.634Z"
+generated_at: "2026-03-30T03:59:31.689Z"
 status: "repealed"
 ---
 

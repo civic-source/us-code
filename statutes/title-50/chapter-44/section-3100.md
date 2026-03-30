@@ -3,9 +3,9 @@ title: "Section 3100 - Intelligence community business system transformation"
 usc_title: 50
 usc_section: "3100"
 chapter: 44
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "50 U.S.C. § 3100"
-generated_at: "2026-03-30T03:58:42.264Z"
+generated_at: "2026-03-30T04:02:01.599Z"
 status: "active"
 ---
 
@@ -62,7 +62,7 @@ status: "active"
     - **(A)** the Director of National Intelligence and the Chief Information Officer of the Intelligence Community; and
     - **(B)** the head of the executive agency that contains the element of the intelligence community involved and the chief information officer of that executive agency.
   - **(2)** The Director of National Intelligence and the head of the executive agency referred to in paragraph (1)(B) shall enter into a Memorandum of Understanding to carry out the requirements of this section in a manner that best meets the needs of the intelligence community and the executive agency.
-- **(j)** Not later than March 31 of each of the years 2011 through 2015, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the compliance of the intelligence community with the requirements of this section. Each such report shall—
+- **(j)** Not later than March 31 of each of the years 2011 through 2014, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the compliance of the intelligence community with the requirements of this section. Each such report shall—
   - **(1)** describe actions taken and proposed for meeting the requirements of subsection (a), including—
     - **(A)** specific milestones and actual performance against specified performance measures, and any revision of such milestones and performance measures; and
     - **(B)** specific actions on the intelligence community business system transformations submitted for certification under such subsection;

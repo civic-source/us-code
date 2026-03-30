@@ -3,9 +3,9 @@ title: "Section 14513 - Dual tonnage measurement"
 usc_title: 46
 usc_section: "14513"
 chapter: 145
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "46 U.S.C. § 14513"
-generated_at: "2026-03-30T03:58:47.609Z"
+generated_at: "2026-03-30T04:01:51.339Z"
 status: "active"
 ---
 

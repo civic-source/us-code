@@ -3,9 +3,9 @@ title: "Section 1202 - Integrity of copyright management information"
 usc_title: 17
 usc_section: "1202"
 chapter: 12
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "17 U.S.C. § 1202"
-generated_at: "2026-03-30T03:56:57.144Z"
+generated_at: "2026-03-30T03:59:48.912Z"
 status: "active"
 ---
 

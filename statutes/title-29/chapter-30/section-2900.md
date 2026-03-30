@@ -3,9 +3,9 @@ title: "Section 2900 - General provisions"
 usc_title: 29
 usc_section: "2900"
 chapter: 30
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "29 U.S.C. § 2900"
-generated_at: "2026-03-30T03:57:58.669Z"
+generated_at: "2026-03-30T04:00:22.467Z"
 status: "active"
 ---
 

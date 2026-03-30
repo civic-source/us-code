@@ -3,9 +3,9 @@ title: "Section 549 - Competitive availability of navigation devices"
 usc_title: 47
 usc_section: "549"
 chapter: 5
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "47 U.S.C. § 549"
-generated_at: "2026-03-30T03:58:40.961Z"
+generated_at: "2026-03-30T04:01:38.044Z"
 status: "active"
 ---
 

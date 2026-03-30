@@ -3,9 +3,9 @@ title: "Section 81n - Operation of zone as public utility; cost of customs servi
 usc_title: 19
 usc_section: "81n"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "19 U.S.C. § 81n"
-generated_at: "2026-03-30T03:57:00.524Z"
+generated_at: "2026-03-30T03:59:53.462Z"
 status: "active"
 ---
 

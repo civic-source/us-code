@@ -1,15 +1,15 @@
 ---
-title: "Section 3027 - Emergency communication of risk"
+title: "Section 709c - Emergency communication of risk"
 usc_title: 33
-usc_section: "3027"
+usc_section: "709c"
 chapter: 15
-current_through: "PL 113-125"
-classification: "33 U.S.C. § 3027"
-generated_at: "2026-03-30T03:58:11.758Z"
+current_through: "PL 113-126"
+classification: "33 U.S.C. § 709c"
+generated_at: "2026-03-30T04:00:40.078Z"
 status: "active"
 ---
 
-# § 3027. Emergency communication of risk
+# § 709c. Emergency communication of risk
 
 - **(a)** In this section:
   - **(1)** The term “affected government” means a State, local, or tribal government with jurisdiction over an area that will be affected by a flood.

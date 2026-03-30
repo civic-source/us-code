@@ -3,9 +3,9 @@ title: "Section 2347 - Coordination and scheduling of Federal, State, and local 
 usc_title: 33
 usc_section: "2347"
 chapter: 36
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "33 U.S.C. § 2347"
-generated_at: "2026-03-30T03:58:11.815Z"
+generated_at: "2026-03-30T04:00:40.148Z"
 status: "active"
 ---
 

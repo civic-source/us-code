@@ -3,9 +3,9 @@ title: "Section 510 - Shore patrol duty; payment of expenses"
 usc_title: 14
 usc_section: "510"
 chapter: 13
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "14 U.S.C. § 510"
-generated_at: "2026-03-30T03:56:54.864Z"
+generated_at: "2026-03-30T03:59:35.781Z"
 status: "active"
 ---
 

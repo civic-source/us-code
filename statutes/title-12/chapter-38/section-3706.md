@@ -3,9 +3,9 @@ title: "Section 3706 - Notice of default and foreclosure sale; condition and ter
 usc_title: 12
 usc_section: "3706"
 chapter: 38
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "12 U.S.C. § 3706"
-generated_at: "2026-03-30T03:56:51.985Z"
+generated_at: "2026-03-30T03:59:41.923Z"
 status: "active"
 ---
 

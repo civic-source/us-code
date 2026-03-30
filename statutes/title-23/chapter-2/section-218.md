@@ -3,9 +3,9 @@ title: "Section 218 - Alaska Highway"
 usc_title: 23
 usc_section: "218"
 chapter: 2
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "23 U.S.C. § 218"
-generated_at: "2026-03-30T03:57:20.922Z"
+generated_at: "2026-03-30T04:00:06.867Z"
 status: "active"
 ---
 

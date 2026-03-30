@@ -3,9 +3,9 @@ title: "Section 3685 - Filing of information relating to periodical publications
 usc_title: 39
 usc_section: "3685"
 chapter: 36
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "39 U.S.C. § 3685"
-generated_at: "2026-03-30T03:58:13.518Z"
+generated_at: "2026-03-30T04:00:46.841Z"
 status: "active"
 ---
 

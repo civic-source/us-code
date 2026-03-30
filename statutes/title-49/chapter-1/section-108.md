@@ -3,9 +3,9 @@ title: "Section 108 - Pipeline and Hazardous Materials Safety Administration"
 usc_title: 49
 usc_section: "108"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "49 U.S.C. § 108"
-generated_at: "2026-03-30T03:58:45.402Z"
+generated_at: "2026-03-30T04:01:43.194Z"
 status: "active"
 ---
 

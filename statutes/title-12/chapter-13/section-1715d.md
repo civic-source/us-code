@@ -3,9 +3,9 @@ title: "Section 1715d - Insurance of mortgages on property in Alaska, Guam, Hawa
 usc_title: 12
 usc_section: "1715d"
 chapter: 13
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "12 U.S.C. § 1715d"
-generated_at: "2026-03-30T03:56:51.880Z"
+generated_at: "2026-03-30T03:59:41.770Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 689d - Acceptance of title to privately owned lands within Tahqu
 usc_title: 16
 usc_section: "689d"
 chapter: 6
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 689d"
-generated_at: "2026-03-30T03:57:07.552Z"
+generated_at: "2026-03-30T04:00:01.744Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 646 - Exempted securities"
 usc_title: 25
 usc_section: "646"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 646"
-generated_at: "2026-03-30T03:57:17.244Z"
+generated_at: "2026-03-30T04:00:09.001Z"
 status: "active"
 ---
 

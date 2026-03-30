@@ -3,9 +3,9 @@ title: "Section 601 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , e
 usc_title: 22
 usc_section: "601"
 chapter: 11
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 601"
-generated_at: "2026-03-30T03:57:40.787Z"
+generated_at: "2026-03-30T04:00:16.200Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16135 - Failure to participate satisfactorily; penalties"
 usc_title: 10
 usc_section: "16135"
 chapter: 1606
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 16135"
-generated_at: "2026-03-30T03:56:39.683Z"
+generated_at: "2026-03-30T03:59:31.766Z"
 status: "active"
 ---
 

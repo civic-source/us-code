@@ -3,9 +3,9 @@ title: "Section 293 - Compensation schedules"
 usc_title: 2
 usc_section: "293"
 chapter: 10
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "2 U.S.C. § 293"
-generated_at: "2026-03-30T03:56:19.764Z"
+generated_at: "2026-03-30T03:59:14.028Z"
 status: "active"
 ---
 

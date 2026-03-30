@@ -3,9 +3,9 @@ title: "Section 9 - Disclosure of information"
 usc_title: 42
 usc_section: "9"
 chapter: 6
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T03:58:36.266Z"
+generated_at: "2026-03-30T04:01:26.996Z"
 status: "active"
 ---
 

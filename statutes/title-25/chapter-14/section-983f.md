@@ -3,9 +3,9 @@ title: "Section 983f - Tribal constitution"
 usc_title: 25
 usc_section: "983f"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 983f"
-generated_at: "2026-03-30T03:57:17.261Z"
+generated_at: "2026-03-30T04:00:09.022Z"
 status: "active"
 ---
 

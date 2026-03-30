@@ -3,9 +3,9 @@ title: "Section 1 - Establishment of joint project at Library of Congress and Na
 usc_title: 20
 usc_section: "1"
 chapter: 3
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-30T03:57:03.165Z"
+generated_at: "2026-03-30T03:59:56.924Z"
 status: "active"
 ---
 

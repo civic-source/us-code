@@ -3,9 +3,9 @@ title: "Section 70118 - Enforcement by State and local officers"
 usc_title: 46
 usc_section: "70118"
 chapter: 701
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "46 U.S.C. § 70118"
-generated_at: "2026-03-30T03:58:47.638Z"
+generated_at: "2026-03-30T04:01:51.374Z"
 status: "active"
 ---
 

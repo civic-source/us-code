@@ -3,9 +3,9 @@ title: "Section 508 - Assistance for certain youth and charitable organizations"
 usc_title: 32
 usc_section: "508"
 chapter: 5
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "32 U.S.C. § 508"
-generated_at: "2026-03-30T03:58:09.198Z"
+generated_at: "2026-03-30T04:00:36.976Z"
 status: "active"
 ---
 

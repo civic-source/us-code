@@ -3,9 +3,9 @@ title: "Section 191 - Repealed. Pub. L. 97–34, title II, § 212(d)(1) , Aug. 1
 usc_title: 26
 usc_section: "191"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "26 U.S.C. § 191"
-generated_at: "2026-03-30T03:58:07.178Z"
+generated_at: "2026-03-30T04:00:34.645Z"
 status: "repealed"
 ---
 

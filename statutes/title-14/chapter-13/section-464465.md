@@ -3,9 +3,9 @@ title: "Section 464465 - Repealed. Pub. L. 87–649, § 14d(2) , (3), Sept. 7, 1
 usc_title: 14
 usc_section: "464465"
 chapter: 13
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "14 U.S.C. § 464465"
-generated_at: "2026-03-30T03:56:54.863Z"
+generated_at: "2026-03-30T03:59:35.780Z"
 status: "repealed"
 ---
 

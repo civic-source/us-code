@@ -3,9 +3,9 @@ title: "Section 2696 - Real property: transfer between armed forces and screenin
 usc_title: 10
 usc_section: "2696"
 chapter: 159
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 2696"
-generated_at: "2026-03-30T03:56:39.619Z"
+generated_at: "2026-03-30T03:59:31.667Z"
 status: "active"
 ---
 

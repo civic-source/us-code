@@ -3,9 +3,9 @@ title: "Section 114eto114h - Repealed. Pub. L. 107–171, title X, § 10418(a)(1
 usc_title: 21
 usc_section: "114eto114h"
 chapter: 4
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "21 U.S.C. § 114eto114h"
-generated_at: "2026-03-30T03:57:11.548Z"
+generated_at: "2026-03-30T04:00:10.440Z"
 status: "repealed"
 ---
 

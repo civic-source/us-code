@@ -3,9 +3,9 @@ title: "Section 643 - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21
 usc_title: 43
 usc_section: "643"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "43 U.S.C. § 643"
-generated_at: "2026-03-30T03:58:20.198Z"
+generated_at: "2026-03-30T04:01:28.812Z"
 status: "repealed"
 ---
 

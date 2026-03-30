@@ -3,9 +3,9 @@ title: "Section 881to883 - Repealed. Aug. 6, 1947, ch. 504, § 10(2) –(5), 61 
 usc_title: 33
 usc_section: "881to883"
 chapter: 17
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "33 U.S.C. § 881to883"
-generated_at: "2026-03-30T03:58:11.760Z"
+generated_at: "2026-03-30T04:00:40.081Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 93–608, § 1(16) , Jan. 2, 1975 , 88 Sta
 usc_title: 25
 usc_section: "3"
 chapter: 2
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 3"
-generated_at: "2026-03-30T03:57:17.209Z"
+generated_at: "2026-03-30T04:00:08.956Z"
 status: "repealed"
 ---
 

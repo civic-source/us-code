@@ -3,9 +3,9 @@ title: "Section 2218 - Lines of insurance"
 usc_title: 12
 usc_section: "2218"
 chapter: 23
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "12 U.S.C. § 2218"
-generated_at: "2026-03-30T03:56:51.959Z"
+generated_at: "2026-03-30T03:59:41.883Z"
 status: "active"
 ---
 

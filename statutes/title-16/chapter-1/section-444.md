@@ -3,9 +3,9 @@ title: "Section 444 - Petrified Forest National Monument; elimination of private
 usc_title: 16
 usc_section: "444"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 444"
-generated_at: "2026-03-30T03:57:07.456Z"
+generated_at: "2026-03-30T04:00:01.616Z"
 status: "active"
 ---
 

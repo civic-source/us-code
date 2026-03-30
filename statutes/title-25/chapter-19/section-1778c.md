@@ -3,9 +3,9 @@ title: "Section 1778c - Settlement funds"
 usc_title: 25
 usc_section: "1778c"
 chapter: 19
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 1778c"
-generated_at: "2026-03-30T03:57:17.301Z"
+generated_at: "2026-03-30T04:00:09.083Z"
 status: "active"
 ---
 

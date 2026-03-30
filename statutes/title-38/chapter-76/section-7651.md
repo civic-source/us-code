@@ -3,9 +3,9 @@ title: "Section 7651 - Authority for program"
 usc_title: 38
 usc_section: "7651"
 chapter: 76
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "38 U.S.C. § 7651"
-generated_at: "2026-03-30T03:58:16.882Z"
+generated_at: "2026-03-30T04:00:45.185Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 777f - Payments by United States"
 usc_title: 16
 usc_section: "777f"
 chapter: 10
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 777f"
-generated_at: "2026-03-30T03:57:07.567Z"
+generated_at: "2026-03-30T04:00:01.763Z"
 status: "active"
 ---
 

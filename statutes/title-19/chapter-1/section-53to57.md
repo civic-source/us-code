@@ -3,9 +3,9 @@ title: "Section 53to57 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(16) –(20), 7
 usc_title: 19
 usc_section: "53to57"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "19 U.S.C. § 53to57"
-generated_at: "2026-03-30T03:57:00.521Z"
+generated_at: "2026-03-30T03:59:53.459Z"
 status: "repealed"
 ---
 

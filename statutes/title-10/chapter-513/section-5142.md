@@ -3,9 +3,9 @@ title: "Section 5142 - Chaplain Corps and Chief of Chaplains"
 usc_title: 10
 usc_section: "5142"
 chapter: 513
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 5142"
-generated_at: "2026-03-30T03:56:39.642Z"
+generated_at: "2026-03-30T03:59:31.702Z"
 status: "active"
 ---
 

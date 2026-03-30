@@ -3,9 +3,9 @@ title: "Section 3912 - Repealed. Pub. L. 85–155, title IV, § 401(1) , Aug. 21
 usc_title: 10
 usc_section: "3912"
 chapter: 367
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 3912"
-generated_at: "2026-03-30T03:56:39.634Z"
+generated_at: "2026-03-30T03:59:31.689Z"
 status: "repealed"
 ---
 

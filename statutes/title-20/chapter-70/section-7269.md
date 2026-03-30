@@ -3,9 +3,9 @@ title: "Section 7269 - Grants for the integration of schools and mental health s
 usc_title: 20
 usc_section: "7269"
 chapter: 70
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 7269"
-generated_at: "2026-03-30T03:57:03.358Z"
+generated_at: "2026-03-30T03:59:57.165Z"
 status: "active"
 ---
 

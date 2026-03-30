@@ -3,9 +3,9 @@ title: "Section 588 - Shoshone Tribe of the Wind River Reservation; distribution
 usc_title: 25
 usc_section: "588"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 588"
-generated_at: "2026-03-30T03:57:17.239Z"
+generated_at: "2026-03-30T04:00:08.994Z"
 status: "active"
 ---
 

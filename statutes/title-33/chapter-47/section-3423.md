@@ -3,9 +3,9 @@ title: "Section 3423 - Administrative structure"
 usc_title: 33
 usc_section: "3423"
 chapter: 47
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "33 U.S.C. § 3423"
-generated_at: "2026-03-30T03:58:11.828Z"
+generated_at: "2026-03-30T04:00:40.165Z"
 status: "active"
 ---
 

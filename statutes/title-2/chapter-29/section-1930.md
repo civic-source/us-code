@@ -3,9 +3,9 @@ title: "Section 1930 - Applicable pay rate upon appointment"
 usc_title: 2
 usc_section: "1930"
 chapter: 29
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "2 U.S.C. § 1930"
-generated_at: "2026-03-30T03:56:19.800Z"
+generated_at: "2026-03-30T03:59:14.070Z"
 status: "active"
 ---
 

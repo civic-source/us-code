@@ -3,9 +3,9 @@ title: "Section 228i - Havasupai Indian Reservation"
 usc_title: 16
 usc_section: "228i"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 228i"
-generated_at: "2026-03-30T03:57:07.407Z"
+generated_at: "2026-03-30T04:00:01.553Z"
 status: "active"
 ---
 

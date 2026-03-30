@@ -3,9 +3,9 @@ title: "Section 6207 - Authorization of appropriations"
 usc_title: 31
 usc_section: "6207"
 chapter: 62
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "31 U.S.C. § 6207"
-generated_at: "2026-03-30T03:58:10.387Z"
+generated_at: "2026-03-30T04:00:38.453Z"
 status: "active"
 ---
 

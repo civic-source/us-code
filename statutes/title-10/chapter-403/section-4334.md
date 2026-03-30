@@ -3,9 +3,9 @@ title: "Section 4334 - Command and supervision"
 usc_title: 10
 usc_section: "4334"
 chapter: 403
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 4334"
-generated_at: "2026-03-30T03:56:39.635Z"
+generated_at: "2026-03-30T03:59:31.691Z"
 status: "active"
 ---
 

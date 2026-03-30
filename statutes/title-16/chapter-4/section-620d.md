@@ -3,9 +3,9 @@ title: "Section 620d - Monitoring and enforcement"
 usc_title: 16
 usc_section: "620d"
 chapter: 4
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 620d"
-generated_at: "2026-03-30T03:57:07.544Z"
+generated_at: "2026-03-30T04:00:01.733Z"
 status: "active"
 ---
 

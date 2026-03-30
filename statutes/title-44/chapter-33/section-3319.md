@@ -3,9 +3,9 @@ title: "Section 3319 - Director and staff; experts and consultants"
 usc_title: 44
 usc_section: "3319"
 chapter: 33
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "44 U.S.C. § 3319"
-generated_at: "2026-03-30T03:58:19.135Z"
+generated_at: "2026-03-30T04:00:53.213Z"
 status: "active"
 ---
 

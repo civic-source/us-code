@@ -3,9 +3,9 @@ title: "Section 2191b - Worker rights and human rights guidelines"
 usc_title: 22
 usc_section: "2191b"
 chapter: 32
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 2191b"
-generated_at: "2026-03-30T03:57:40.814Z"
+generated_at: "2026-03-30T04:00:16.240Z"
 status: "active"
 ---
 

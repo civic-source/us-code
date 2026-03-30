@@ -3,9 +3,9 @@ title: "Section 16986 - Children’s safety online awareness campaigns"
 usc_title: 42
 usc_section: "16986"
 chapter: 151
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 16986"
-generated_at: "2026-03-30T03:58:37.225Z"
+generated_at: "2026-03-30T04:01:27.909Z"
 status: "active"
 ---
 

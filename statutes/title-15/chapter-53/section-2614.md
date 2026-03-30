@@ -3,9 +3,9 @@ title: "Section 2614 - Prohibited acts"
 usc_title: 15
 usc_section: "2614"
 chapter: 53
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "15 U.S.C. § 2614"
-generated_at: "2026-03-30T03:56:54.571Z"
+generated_at: "2026-03-30T03:59:45.837Z"
 status: "active"
 ---
 

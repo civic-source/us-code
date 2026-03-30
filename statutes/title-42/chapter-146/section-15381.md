@@ -3,9 +3,9 @@ title: "Section 15381 - Periodic studies of election administration issues"
 usc_title: 42
 usc_section: "15381"
 chapter: 146
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 15381"
-generated_at: "2026-03-30T03:58:37.187Z"
+generated_at: "2026-03-30T04:01:27.871Z"
 status: "active"
 ---
 

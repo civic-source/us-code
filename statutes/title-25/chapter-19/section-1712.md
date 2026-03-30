@@ -3,9 +3,9 @@ title: "Section 1712 - Approval of prior transfers and extinguishment of claims 
 usc_title: 25
 usc_section: "1712"
 chapter: 19
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 1712"
-generated_at: "2026-03-30T03:57:17.292Z"
+generated_at: "2026-03-30T04:00:09.071Z"
 status: "active"
 ---
 

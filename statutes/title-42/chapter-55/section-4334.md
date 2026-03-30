@@ -3,9 +3,9 @@ title: "Section 4334 - Other statutory obligations of agencies"
 usc_title: 42
 usc_section: "4334"
 chapter: 55
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 4334"
-generated_at: "2026-03-30T03:58:36.781Z"
+generated_at: "2026-03-30T04:01:27.480Z"
 status: "active"
 ---
 

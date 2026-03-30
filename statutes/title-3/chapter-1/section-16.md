@@ -3,9 +3,9 @@ title: "Section 16 - Same; seats for officers and Members of two Houses in joint
 usc_title: 3
 usc_section: "16"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "3 U.S.C. § 16"
-generated_at: "2026-03-30T03:56:18.049Z"
+generated_at: "2026-03-30T03:59:08.724Z"
 status: "active"
 ---
 

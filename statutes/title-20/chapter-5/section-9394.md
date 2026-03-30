@@ -3,9 +3,9 @@ title: "Section 9394 - Repealed. Oct. 31, 1951, ch. 654, § 1(41) , (42), 65 Sta
 usc_title: 20
 usc_section: "9394"
 chapter: 5
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 9394"
-generated_at: "2026-03-30T03:57:03.165Z"
+generated_at: "2026-03-30T03:59:56.925Z"
 status: "repealed"
 ---
 

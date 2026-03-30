@@ -3,9 +3,9 @@ title: "Section 331to332b - Omitted"
 usc_title: 20
 usc_section: "331to332b"
 chapter: 15
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 331to332b"
-generated_at: "2026-03-30T03:57:03.168Z"
+generated_at: "2026-03-30T03:59:56.928Z"
 status: "omitted"
 ---
 

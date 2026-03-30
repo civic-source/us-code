@@ -3,9 +3,9 @@ title: "Section 1683b - Scope of softwood lumber importer declaration program"
 usc_title: 19
 usc_section: "1683b"
 chapter: 4
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "19 U.S.C. § 1683b"
-generated_at: "2026-03-30T03:57:00.565Z"
+generated_at: "2026-03-30T03:59:53.513Z"
 status: "active"
 ---
 

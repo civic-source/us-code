@@ -3,9 +3,9 @@ title: "Section 16277 - Alternatives to industrial radioactive sources"
 usc_title: 42
 usc_section: "16277"
 chapter: 149
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 16277"
-generated_at: "2026-03-30T03:58:37.211Z"
+generated_at: "2026-03-30T04:01:27.895Z"
 status: "active"
 ---
 

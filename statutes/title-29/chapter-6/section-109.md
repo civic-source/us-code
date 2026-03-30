@@ -3,9 +3,9 @@ title: "Section 109 - Granting of restraining order or injunction as dependent o
 usc_title: 29
 usc_section: "109"
 chapter: 6
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "29 U.S.C. § 109"
-generated_at: "2026-03-30T03:57:58.577Z"
+generated_at: "2026-03-30T04:00:22.366Z"
 status: "active"
 ---
 

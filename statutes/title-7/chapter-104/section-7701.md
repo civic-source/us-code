@@ -3,9 +3,9 @@ title: "Section 7701 - Findings"
 usc_title: 7
 usc_section: "7701"
 chapter: 104
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "7 U.S.C. § 7701"
-generated_at: "2026-03-30T03:56:45.233Z"
+generated_at: "2026-03-30T03:59:22.422Z"
 status: "active"
 ---
 

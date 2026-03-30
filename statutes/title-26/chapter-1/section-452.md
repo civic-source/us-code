@@ -3,9 +3,9 @@ title: "Section 452 - Repealed. June 15, 1955, ch. 143, § 1(a) , 69 Stat. 134 ]
 usc_title: 26
 usc_section: "452"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "26 U.S.C. § 452"
-generated_at: "2026-03-30T03:58:07.232Z"
+generated_at: "2026-03-30T04:00:34.709Z"
 status: "repealed"
 ---
 

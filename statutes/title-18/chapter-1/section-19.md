@@ -3,9 +3,9 @@ title: "Section 19 - Petty offense defined"
 usc_title: 18
 usc_section: "19"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "18 U.S.C. § 19"
-generated_at: "2026-03-30T03:56:58.672Z"
+generated_at: "2026-03-30T03:59:51.152Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 765 - Rehabilitation Research Advisory Council"
 usc_title: 29
 usc_section: "765"
 chapter: 16
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "29 U.S.C. § 765"
-generated_at: "2026-03-30T03:57:58.602Z"
+generated_at: "2026-03-30T04:00:22.392Z"
 status: "active"
 ---
 

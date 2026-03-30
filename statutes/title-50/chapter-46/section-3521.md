@@ -3,9 +3,9 @@ title: "Section 3521 - Central services program"
 usc_title: 50
 usc_section: "3521"
 chapter: 46
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "50 U.S.C. § 3521"
-generated_at: "2026-03-30T03:58:42.276Z"
+generated_at: "2026-03-30T04:02:01.613Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** designate the elements of the Agency that are to provide items or services under the program (in this section referred to as “central service providers”);
     - **(B)** specify the items or services to be provided under the program by such providers;
     - **(C)** assign to such providers for purposes of the program such inventories, equipment, and other assets (including equipment on order) as the Director determines necessary to permit such providers to provide items or services under the program; and
-    - **(D)** authorize such providers to make known their services to the entities specified in section 1 1 So in original. Probably should be “subsection”. (a) through Government communication channels.
+    - **(D)** authorize such providers to make known their services to the entities specified in subsection (a) through Government communication channels.
   - **(2)** The designation of elements and the specification of items and services under paragraph (1) shall be subject to the approval of the Director of the Office of Management and Budget.
   - **(3)** The authority in paragraph (1)(D) does not include the authority to distribute gifts or promotional items.
 - **(c)**
@@ -27,7 +27,7 @@ status: "active"
     - **(B)** Amounts credited to the Fund from payments received by central service providers under subsection (e) of this section.
     - **(C)** Fees imposed and collected under subsection (f)(1) of this section.
     - **(D)** Amounts received in payment for loss or damage to equipment or property of a central service provider as a result of activities under the program.
-    - **(E)** Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider. 2 2 So in original. The period probably should not appear. as a result of activities under the program.
+    - **(E)** Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider as a result of activities under the program.
     - **(F)** Receipts from individuals in reimbursement for utility services and meals provided under the program.
     - **(G)** Receipts from individuals for the rental of property and equipment under the program.
     - **(H)** Such other amounts as the Director is authorized to deposit in or transfer to the Fund.

@@ -3,9 +3,9 @@ title: "Section 7202 - Repealed. Pub. L. 94–106, title VIII, § 804(b) , Oct. 
 usc_title: 10
 usc_section: "7202"
 chapter: 631
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 7202"
-generated_at: "2026-03-30T03:56:39.651Z"
+generated_at: "2026-03-30T03:59:31.716Z"
 status: "repealed"
 ---
 

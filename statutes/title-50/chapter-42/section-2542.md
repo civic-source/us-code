@@ -3,9 +3,9 @@ title: "Section 2542 - Tritium recycling"
 usc_title: 50
 usc_section: "2542"
 chapter: 42
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "50 U.S.C. § 2542"
-generated_at: "2026-03-30T03:58:42.247Z"
+generated_at: "2026-03-30T04:02:01.580Z"
 status: "active"
 ---
 

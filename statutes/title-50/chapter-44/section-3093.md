@@ -3,9 +3,9 @@ title: "Section 3093 - Presidential approval and reporting of covert actions"
 usc_title: 50
 usc_section: "3093"
 chapter: 44
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "50 U.S.C. § 3093"
-generated_at: "2026-03-30T03:58:42.263Z"
+generated_at: "2026-03-30T04:02:01.597Z"
 status: "active"
 ---
 
@@ -51,3 +51,4 @@ status: "active"
   - **(3)** The President shall maintain—
     - **(A)** a record of the members of Congress to whom a finding is reported under subsection (c) or notification is provided under subsection (d)(1) and the date on which each member of Congress receives such finding or notification; and
     - **(B)** each written statement provided under subsection (c)(5).
+- **(h)** For each type of activity undertaken as part of a covert action, the President shall establish in writing a plan to respond to the unauthorized public disclosure of that type of activity.

@@ -3,9 +3,9 @@ title: "Section 3103 - Presidential authority and duties"
 usc_title: 22
 usc_section: "3103"
 chapter: 46
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 3103"
-generated_at: "2026-03-30T03:57:40.863Z"
+generated_at: "2026-03-30T04:00:16.305Z"
 status: "active"
 ---
 

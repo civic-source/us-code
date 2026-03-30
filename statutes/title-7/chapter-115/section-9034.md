@@ -3,9 +3,9 @@ title: "Section 9034 - Repayment of loans"
 usc_title: 7
 usc_section: "9034"
 chapter: 115
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "7 U.S.C. § 9034"
-generated_at: "2026-03-30T03:56:45.263Z"
+generated_at: "2026-03-30T03:59:22.455Z"
 status: "active"
 ---
 

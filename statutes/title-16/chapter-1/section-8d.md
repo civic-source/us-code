@@ -3,9 +3,9 @@ title: "Section 8d - National-monument approach roads"
 usc_title: 16
 usc_section: "8d"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 8d"
-generated_at: "2026-03-30T03:57:07.387Z"
+generated_at: "2026-03-30T04:00:01.528Z"
 status: "active"
 ---
 

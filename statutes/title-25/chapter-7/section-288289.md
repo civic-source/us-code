@@ -3,9 +3,9 @@ title: "Section 288289 - Repealed. Pub. L. 99–228, § 3(1) , (2), Dec. 28, 198
 usc_title: 25
 usc_section: "288289"
 chapter: 7
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 288289"
-generated_at: "2026-03-30T03:57:17.213Z"
+generated_at: "2026-03-30T04:00:08.962Z"
 status: "repealed"
 ---
 

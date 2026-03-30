@@ -3,9 +3,9 @@ title: "Section 10202 - Research on alternatives for permanent disposal of high-
 usc_title: 42
 usc_section: "10202"
 chapter: 108
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 10202"
-generated_at: "2026-03-30T03:58:37.050Z"
+generated_at: "2026-03-30T04:01:27.732Z"
 status: "active"
 ---
 

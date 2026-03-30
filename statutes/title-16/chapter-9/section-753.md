@@ -3,9 +3,9 @@ title: "Section 753 - Cooperative work"
 usc_title: 16
 usc_section: "753"
 chapter: 9
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 753"
-generated_at: "2026-03-30T03:57:07.563Z"
+generated_at: "2026-03-30T04:00:01.758Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 824s - Transmission infrastructure investment"
 usc_title: 16
 usc_section: "824s"
 chapter: 12
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 824s"
-generated_at: "2026-03-30T03:57:07.577Z"
+generated_at: "2026-03-30T04:00:01.776Z"
 status: "active"
 ---
 

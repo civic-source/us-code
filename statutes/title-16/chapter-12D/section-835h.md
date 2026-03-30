@@ -3,9 +3,9 @@ title: "Section 835h - Acts and regulations by Secretary of the Interior"
 usc_title: 16
 usc_section: "835h"
 chapter: 12
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 835h"
-generated_at: "2026-03-30T03:57:07.586Z"
+generated_at: "2026-03-30T04:00:01.787Z"
 status: "active"
 ---
 

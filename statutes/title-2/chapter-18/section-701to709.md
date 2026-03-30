@@ -3,9 +3,9 @@ title: "Section 701to709 - Transferred"
 usc_title: 2
 usc_section: "701to709"
 chapter: 18
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "2 U.S.C. § 701to709"
-generated_at: "2026-03-30T03:56:19.780Z"
+generated_at: "2026-03-30T03:59:14.047Z"
 status: "transferred"
 ---
 

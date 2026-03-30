@@ -3,9 +3,9 @@ title: "Section 564l - Klamath irrigation works"
 usc_title: 25
 usc_section: "564l"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 564l"
-generated_at: "2026-03-30T03:57:17.237Z"
+generated_at: "2026-03-30T04:00:08.991Z"
 status: "active"
 ---
 

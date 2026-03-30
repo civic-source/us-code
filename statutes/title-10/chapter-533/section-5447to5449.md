@@ -3,9 +3,9 @@ title: "Section 5447to5449 - Repealed. Pub. L. 96–513, title III, § 313(d)(2)
 usc_title: 10
 usc_section: "5447to5449"
 chapter: 533
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 5447to5449"
-generated_at: "2026-03-30T03:56:39.643Z"
+generated_at: "2026-03-30T03:59:31.703Z"
 status: "repealed"
 ---
 

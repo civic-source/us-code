@@ -3,9 +3,9 @@ title: "Section 824n - Repealed. Pub. L. 109–58, title XII, § 1232(e)(3) , Au
 usc_title: 16
 usc_section: "824n"
 chapter: 12
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 824n"
-generated_at: "2026-03-30T03:57:07.576Z"
+generated_at: "2026-03-30T04:00:01.775Z"
 status: "repealed"
 ---
 

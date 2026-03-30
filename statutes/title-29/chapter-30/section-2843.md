@@ -3,9 +3,9 @@ title: "Section 2843 - Identification of eligible providers of youth activities"
 usc_title: 29
 usc_section: "2843"
 chapter: 30
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "29 U.S.C. § 2843"
-generated_at: "2026-03-30T03:57:58.663Z"
+generated_at: "2026-03-30T04:00:22.461Z"
 status: "active"
 ---
 

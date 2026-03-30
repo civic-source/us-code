@@ -3,9 +3,9 @@ title: "Section 677d - Restriction of tribe to full-blood members after publicat
 usc_title: 25
 usc_section: "677d"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 677d"
-generated_at: "2026-03-30T03:57:17.245Z"
+generated_at: "2026-03-30T04:00:09.003Z"
 status: "active"
 ---
 

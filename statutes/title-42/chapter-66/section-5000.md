@@ -3,9 +3,9 @@ title: "Section 5000 - Statement of purpose"
 usc_title: 42
 usc_section: "5000"
 chapter: 66
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 5000"
-generated_at: "2026-03-30T03:58:36.795Z"
+generated_at: "2026-03-30T04:01:27.494Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 455c - Purchase of real estate for military park"
 usc_title: 16
 usc_section: "455c"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 455c"
-generated_at: "2026-03-30T03:57:07.460Z"
+generated_at: "2026-03-30T04:00:01.622Z"
 status: "active"
 ---
 

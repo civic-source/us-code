@@ -3,9 +3,9 @@ title: "Section 12521 - Definitions"
 usc_title: 10
 usc_section: "12521"
 chapter: 1214
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 12521"
-generated_at: "2026-03-30T03:56:39.676Z"
+generated_at: "2026-03-30T03:59:31.754Z"
 status: "active"
 ---
 

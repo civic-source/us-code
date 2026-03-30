@@ -3,9 +3,9 @@ title: "Section 4051 - Imposition of tax on heavy trucks and trailers sold at re
 usc_title: 26
 usc_section: "4051"
 chapter: 31
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "26 U.S.C. § 4051"
-generated_at: "2026-03-30T03:58:07.355Z"
+generated_at: "2026-03-30T04:00:34.854Z"
 status: "active"
 ---
 

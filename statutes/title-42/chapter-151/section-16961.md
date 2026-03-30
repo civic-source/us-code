@@ -3,9 +3,9 @@ title: "Section 16961 - Access to national crime information databases"
 usc_title: 42
 usc_section: "16961"
 chapter: 151
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 16961"
-generated_at: "2026-03-30T03:58:37.224Z"
+generated_at: "2026-03-30T04:01:27.909Z"
 status: "active"
 ---
 

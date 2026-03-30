@@ -3,9 +3,9 @@ title: "Section 3030 - Disaster relief reimbursements"
 usc_title: 42
 usc_section: "3030"
 chapter: 35
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 3030"
-generated_at: "2026-03-30T03:58:36.722Z"
+generated_at: "2026-03-30T04:01:27.423Z"
 status: "active"
 ---
 

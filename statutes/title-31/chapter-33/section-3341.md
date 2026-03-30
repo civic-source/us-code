@@ -3,9 +3,9 @@ title: "Section 3341 - Sale of Government warrants, checks, drafts, and obligati
 usc_title: 31
 usc_section: "3341"
 chapter: 33
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "31 U.S.C. § 3341"
-generated_at: "2026-03-30T03:58:10.368Z"
+generated_at: "2026-03-30T04:00:38.431Z"
 status: "active"
 ---
 

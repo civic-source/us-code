@@ -3,9 +3,9 @@ title: "Section 2114 - Intellectual property and related items"
 usc_title: 36
 usc_section: "2114"
 chapter: 21
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "36 U.S.C. § 2114"
-generated_at: "2026-03-30T03:58:15.343Z"
+generated_at: "2026-03-30T04:00:50.907Z"
 status: "active"
 ---
 

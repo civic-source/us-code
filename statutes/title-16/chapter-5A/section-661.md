@@ -3,9 +3,9 @@ title: "Section 661 - Declaration of purpose; cooperation of agencies; surveys a
 usc_title: 16
 usc_section: "661"
 chapter: 5
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 661"
-generated_at: "2026-03-30T03:57:07.545Z"
+generated_at: "2026-03-30T04:00:01.734Z"
 status: "active"
 ---
 

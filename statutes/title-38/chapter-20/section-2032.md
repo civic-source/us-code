@@ -3,9 +3,9 @@ title: "Section 2032 - Therapeutic housing"
 usc_title: 38
 usc_section: "2032"
 chapter: 20
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "38 U.S.C. § 2032"
-generated_at: "2026-03-30T03:58:16.831Z"
+generated_at: "2026-03-30T04:00:45.129Z"
 status: "active"
 ---
 

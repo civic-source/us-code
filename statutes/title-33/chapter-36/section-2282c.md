@@ -3,9 +3,9 @@ title: "Section 2282c - Vertical integration and acceleration of studies"
 usc_title: 33
 usc_section: "2282c"
 chapter: 36
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "33 U.S.C. § 2282c"
-generated_at: "2026-03-30T03:58:11.808Z"
+generated_at: "2026-03-30T04:00:40.140Z"
 status: "active"
 ---
 

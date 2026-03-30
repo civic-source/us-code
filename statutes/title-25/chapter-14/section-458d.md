@@ -3,9 +3,9 @@ title: "Section 458d - Eligibility for funds of tribe or tribal organization con
 usc_title: 25
 usc_section: "458d"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 458d"
-generated_at: "2026-03-30T03:57:17.227Z"
+generated_at: "2026-03-30T04:00:08.980Z"
 status: "active"
 ---
 

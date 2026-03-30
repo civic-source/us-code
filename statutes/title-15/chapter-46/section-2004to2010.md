@@ -3,9 +3,9 @@ title: "Section 2004to2010 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994
 usc_title: 15
 usc_section: "2004to2010"
 chapter: 46
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "15 U.S.C. § 2004to2010"
-generated_at: "2026-03-30T03:56:54.550Z"
+generated_at: "2026-03-30T03:59:45.793Z"
 status: "repealed"
 ---
 

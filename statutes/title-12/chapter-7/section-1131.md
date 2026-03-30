@@ -3,9 +3,9 @@ title: "Section 1131 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 12
 usc_section: "1131"
 chapter: 7
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "12 U.S.C. § 1131"
-generated_at: "2026-03-30T03:56:51.849Z"
+generated_at: "2026-03-30T03:59:41.725Z"
 status: "repealed"
 ---
 

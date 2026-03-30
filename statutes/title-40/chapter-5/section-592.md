@@ -3,9 +3,9 @@ title: "Section 592 - Federal Buildings Fund"
 usc_title: 40
 usc_section: "592"
 chapter: 5
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "40 U.S.C. § 592"
-generated_at: "2026-03-30T03:58:14.113Z"
+generated_at: "2026-03-30T04:00:49.638Z"
 status: "active"
 ---
 

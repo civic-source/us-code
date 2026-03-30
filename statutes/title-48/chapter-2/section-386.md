@@ -3,9 +3,9 @@ title: "Section 386 - Repealed. Pub. L. 87–260, § 1 , Sept. 21, 1961 , 75 Sta
 usc_title: 48
 usc_section: "386"
 chapter: 2
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "48 U.S.C. § 386"
-generated_at: "2026-03-30T03:58:46.394Z"
+generated_at: "2026-03-30T04:01:36.632Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 858a - Art. 58a. Sentences: reduction in enlisted grade upon app
 usc_title: 10
 usc_section: "858a"
 chapter: 47
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 858a"
-generated_at: "2026-03-30T03:56:39.523Z"
+generated_at: "2026-03-30T03:59:31.518Z"
 status: "active"
 ---
 

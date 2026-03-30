@@ -3,9 +3,9 @@ title: "Section 5714a - Assistance to potential grantees"
 usc_title: 42
 usc_section: "5714a"
 chapter: 72
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 5714a"
-generated_at: "2026-03-30T03:58:36.832Z"
+generated_at: "2026-03-30T04:01:27.531Z"
 status: "active"
 ---
 

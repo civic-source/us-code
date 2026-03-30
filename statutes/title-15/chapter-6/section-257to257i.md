@@ -3,9 +3,9 @@ title: "Section 257to257i - Repealed. Pub. L. 90–628, § 1(b) , Oct. 22, 1968 
 usc_title: 15
 usc_section: "257to257i"
 chapter: 6
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "15 U.S.C. § 257to257i"
-generated_at: "2026-03-30T03:56:54.445Z"
+generated_at: "2026-03-30T03:59:45.563Z"
 status: "repealed"
 ---
 

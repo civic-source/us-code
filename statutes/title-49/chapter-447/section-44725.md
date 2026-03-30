@@ -3,9 +3,9 @@ title: "Section 44725 - Life-limited aircraft parts"
 usc_title: 49
 usc_section: "44725"
 chapter: 447
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "49 U.S.C. § 44725"
-generated_at: "2026-03-30T03:58:45.513Z"
+generated_at: "2026-03-30T04:01:43.305Z"
 status: "active"
 ---
 

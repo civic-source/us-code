@@ -3,9 +3,9 @@ title: "Section 53 - Powers devolved on Secretary of the Interior on turning ove
 usc_title: 43
 usc_section: "53"
 chapter: 3
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "43 U.S.C. § 53"
-generated_at: "2026-03-30T03:58:20.169Z"
+generated_at: "2026-03-30T04:01:28.777Z"
 status: "active"
 ---
 

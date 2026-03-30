@@ -3,9 +3,9 @@ title: "Section 595596 - Repealed. Feb. 28, 1933, ch. 131, § 1 , 47 Stat. 1349"
 usc_title: 16
 usc_section: "595596"
 chapter: 4
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 595596"
-generated_at: "2026-03-30T03:57:07.542Z"
+generated_at: "2026-03-30T04:00:01.730Z"
 status: "repealed"
 ---
 

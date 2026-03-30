@@ -3,9 +3,9 @@ title: "Section 1592c - Loans or grants for community facilities or services; co
 usc_title: 42
 usc_section: "1592c"
 chapter: 9
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 1592c"
-generated_at: "2026-03-30T03:58:36.587Z"
+generated_at: "2026-03-30T04:01:27.321Z"
 status: "active"
 ---
 

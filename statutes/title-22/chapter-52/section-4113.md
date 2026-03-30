@@ -3,9 +3,9 @@ title: "Section 4113 - Representation rights and duties"
 usc_title: 22
 usc_section: "4113"
 chapter: 52
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 4113"
-generated_at: "2026-03-30T03:57:40.886Z"
+generated_at: "2026-03-30T04:00:16.334Z"
 status: "active"
 ---
 

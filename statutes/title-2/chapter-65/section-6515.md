@@ -3,9 +3,9 @@ title: "Section 6515 - Payment of fees for services of Attending Physician and f
 usc_title: 2
 usc_section: "6515"
 chapter: 65
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "2 U.S.C. § 6515"
-generated_at: "2026-03-30T03:56:19.821Z"
+generated_at: "2026-03-30T03:59:14.093Z"
 status: "active"
 ---
 

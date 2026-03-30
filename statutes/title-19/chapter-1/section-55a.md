@@ -3,9 +3,9 @@ title: "Section 55a - Repealed. Pub. L. 91–271, title III, § 321(a) , (b), Ju
 usc_title: 19
 usc_section: "55a"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "19 U.S.C. § 55a"
-generated_at: "2026-03-30T03:57:00.520Z"
+generated_at: "2026-03-30T03:59:53.459Z"
 status: "repealed"
 ---
 

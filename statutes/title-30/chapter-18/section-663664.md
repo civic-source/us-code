@@ -3,9 +3,9 @@ title: "Section 663664 - Repealed. Pub. L. 109–58, title X, § 1009(a)(1)(C) ,
 usc_title: 30
 usc_section: "663664"
 chapter: 18
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "30 U.S.C. § 663664"
-generated_at: "2026-03-30T03:57:45.881Z"
+generated_at: "2026-03-30T04:00:19.623Z"
 status: "repealed"
 ---
 

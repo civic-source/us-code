@@ -3,9 +3,9 @@ title: "Section 925 - Art 125. Forcible sodomy; bestiality"
 usc_title: 10
 usc_section: "925"
 chapter: 47
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 925"
-generated_at: "2026-03-30T03:56:39.527Z"
+generated_at: "2026-03-30T03:59:31.523Z"
 status: "active"
 ---
 

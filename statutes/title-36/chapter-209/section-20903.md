@@ -3,9 +3,9 @@ title: "Section 20903 - Purposes"
 usc_title: 36
 usc_section: "20903"
 chapter: 209
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "36 U.S.C. § 20903"
-generated_at: "2026-03-30T03:58:15.344Z"
+generated_at: "2026-03-30T04:00:50.908Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2254 - Assessment of operation and maintenance needs of the Atla
 usc_title: 33
 usc_section: "2254"
 chapter: 36
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "33 U.S.C. § 2254"
-generated_at: "2026-03-30T03:58:11.806Z"
+generated_at: "2026-03-30T04:00:40.137Z"
 status: "active"
 ---
 

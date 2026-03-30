@@ -3,9 +3,9 @@ title: "Section 41718 - Special rules for Ronald Reagan Washington National Airp
 usc_title: 49
 usc_section: "41718"
 chapter: 417
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "49 U.S.C. § 41718"
-generated_at: "2026-03-30T03:58:45.502Z"
+generated_at: "2026-03-30T04:01:43.293Z"
 status: "active"
 ---
 

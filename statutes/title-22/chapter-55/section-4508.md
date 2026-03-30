@@ -3,9 +3,9 @@ title: "Section 4508 - Allocation of funds"
 usc_title: 22
 usc_section: "4508"
 chapter: 55
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 4508"
-generated_at: "2026-03-30T03:57:40.894Z"
+generated_at: "2026-03-30T04:00:16.345Z"
 status: "active"
 ---
 

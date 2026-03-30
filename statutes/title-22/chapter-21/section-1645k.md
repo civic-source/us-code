@@ -3,9 +3,9 @@ title: "Section 1645k - Transfer of records"
 usc_title: 22
 usc_section: "1645k"
 chapter: 21
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 1645k"
-generated_at: "2026-03-30T03:57:40.800Z"
+generated_at: "2026-03-30T04:00:16.217Z"
 status: "active"
 ---
 

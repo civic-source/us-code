@@ -3,9 +3,9 @@ title: "Section 219to226 - Repealed. May 21, 1934, ch. 321 , 48 Stat. 787"
 usc_title: 25
 usc_section: "219to226"
 chapter: 6
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 219to226"
-generated_at: "2026-03-30T03:57:17.212Z"
+generated_at: "2026-03-30T04:00:08.961Z"
 status: "repealed"
 ---
 

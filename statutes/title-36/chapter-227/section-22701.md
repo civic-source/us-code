@@ -3,9 +3,9 @@ title: "Section 22701 - Organization"
 usc_title: 36
 usc_section: "22701"
 chapter: 227
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "36 U.S.C. § 22701"
-generated_at: "2026-03-30T03:58:15.348Z"
+generated_at: "2026-03-30T04:00:50.914Z"
 status: "active"
 ---
 

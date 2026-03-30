@@ -3,9 +3,9 @@ title: "Section 2331 - Copies for public libraries"
 usc_title: 7
 usc_section: "2331"
 chapter: 57
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "7 U.S.C. § 2331"
-generated_at: "2026-03-30T03:56:45.144Z"
+generated_at: "2026-03-30T03:59:22.328Z"
 status: "active"
 ---
 

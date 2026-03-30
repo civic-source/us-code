@@ -3,9 +3,9 @@ title: "Section 1076b - Repealed. Pub. L. 109–364, div. A, title VII, § 706(d
 usc_title: 10
 usc_section: "1076b"
 chapter: 55
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 1076b"
-generated_at: "2026-03-30T03:56:39.539Z"
+generated_at: "2026-03-30T03:59:31.542Z"
 status: "repealed"
 ---
 

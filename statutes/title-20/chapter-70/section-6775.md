@@ -3,9 +3,9 @@ title: "Section 6775 - Ready-to-Learn Television"
 usc_title: 20
 usc_section: "6775"
 chapter: 70
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 6775"
-generated_at: "2026-03-30T03:57:03.340Z"
+generated_at: "2026-03-30T03:59:57.141Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 227 - Repealed. Pub. L. 104–106, div. A, title X, § 1061(f)(1
 usc_title: 10
 usc_section: "227"
 chapter: 9
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 227"
-generated_at: "2026-03-30T03:56:39.502Z"
+generated_at: "2026-03-30T03:59:31.487Z"
 status: "repealed"
 ---
 

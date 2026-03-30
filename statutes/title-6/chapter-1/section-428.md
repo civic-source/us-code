@@ -3,9 +3,9 @@ title: "Section 428 - Identification of new entrants into the Federal marketplac
 usc_title: 6
 usc_section: "428"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "6 U.S.C. § 428"
-generated_at: "2026-03-30T03:56:33.956Z"
+generated_at: "2026-03-30T03:59:16.594Z"
 status: "active"
 ---
 

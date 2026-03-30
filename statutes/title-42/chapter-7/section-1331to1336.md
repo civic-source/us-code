@@ -3,9 +3,9 @@ title: "Section 1331to1336 - Repealed. Pub. L. 98–369, div. B, title VI, § 26
 usc_title: 42
 usc_section: "1331to1336"
 chapter: 7
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 1331to1336"
-generated_at: "2026-03-30T03:58:36.375Z"
+generated_at: "2026-03-30T04:01:27.107Z"
 status: "repealed"
 ---
 

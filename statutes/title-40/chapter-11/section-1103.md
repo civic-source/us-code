@@ -3,9 +3,9 @@ title: "Section 1103 - Selection procedure"
 usc_title: 40
 usc_section: "1103"
 chapter: 11
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "40 U.S.C. § 1103"
-generated_at: "2026-03-30T03:58:14.115Z"
+generated_at: "2026-03-30T04:00:49.639Z"
 status: "active"
 ---
 

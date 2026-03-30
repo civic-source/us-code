@@ -3,9 +3,9 @@ title: "Section 156 - Staff; expenses"
 usc_title: 28
 usc_section: "156"
 chapter: 6
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "28 U.S.C. § 156"
-generated_at: "2026-03-30T03:57:44.881Z"
+generated_at: "2026-03-30T04:00:20.949Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2085 - Low-speed electric bicycles"
 usc_title: 15
 usc_section: "2085"
 chapter: 47
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "15 U.S.C. § 2085"
-generated_at: "2026-03-30T03:56:54.559Z"
+generated_at: "2026-03-30T03:59:45.811Z"
 status: "active"
 ---
 

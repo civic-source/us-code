@@ -3,9 +3,9 @@ title: "Section 3017 - Death benefit"
 usc_title: 38
 usc_section: "3017"
 chapter: 30
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "38 U.S.C. § 3017"
-generated_at: "2026-03-30T03:58:16.837Z"
+generated_at: "2026-03-30T04:00:45.135Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2753 - Grants for Federal work-study programs"
 usc_title: 42
 usc_section: "2753"
 chapter: 34
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 2753"
-generated_at: "2026-03-30T03:58:36.708Z"
+generated_at: "2026-03-30T04:01:27.410Z"
 status: "active"
 ---
 

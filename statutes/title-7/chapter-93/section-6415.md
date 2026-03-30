@@ -3,9 +3,9 @@ title: "Section 6415 - Amendments"
 usc_title: 7
 usc_section: "6415"
 chapter: 93
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "7 U.S.C. § 6415"
-generated_at: "2026-03-30T03:56:45.199Z"
+generated_at: "2026-03-30T03:59:22.386Z"
 status: "active"
 ---
 

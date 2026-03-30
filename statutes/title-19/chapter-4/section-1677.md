@@ -3,9 +3,9 @@ title: "Section 1677 - Definitions; special rules"
 usc_title: 19
 usc_section: "1677"
 chapter: 4
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "19 U.S.C. § 1677"
-generated_at: "2026-03-30T03:57:00.559Z"
+generated_at: "2026-03-30T03:59:53.504Z"
 status: "active"
 ---
 

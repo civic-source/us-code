@@ -3,9 +3,9 @@ title: "Section 671 - Members not to be assigned outside United States before co
 usc_title: 10
 usc_section: "671"
 chapter: 39
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 671"
-generated_at: "2026-03-30T03:56:39.518Z"
+generated_at: "2026-03-30T03:59:31.509Z"
 status: "active"
 ---
 

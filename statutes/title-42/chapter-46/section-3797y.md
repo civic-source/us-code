@@ -3,9 +3,9 @@ title: "Section 3797y - Grant authority"
 usc_title: 42
 usc_section: "3797y"
 chapter: 46
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 3797y"
-generated_at: "2026-03-30T03:58:36.767Z"
+generated_at: "2026-03-30T04:01:27.467Z"
 status: "active"
 ---
 

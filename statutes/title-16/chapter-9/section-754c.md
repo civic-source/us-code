@@ -3,9 +3,9 @@ title: "Section 754c - Work under reimbursable agreements; recording obligations
 usc_title: 16
 usc_section: "754c"
 chapter: 9
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 754c"
-generated_at: "2026-03-30T03:57:07.564Z"
+generated_at: "2026-03-30T04:00:01.759Z"
 status: "active"
 ---
 

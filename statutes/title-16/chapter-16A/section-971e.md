@@ -3,9 +3,9 @@ title: "Section 971e - Violations"
 usc_title: 16
 usc_section: "971e"
 chapter: 16
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 971e"
-generated_at: "2026-03-30T03:57:07.594Z"
+generated_at: "2026-03-30T04:00:01.799Z"
 status: "active"
 ---
 

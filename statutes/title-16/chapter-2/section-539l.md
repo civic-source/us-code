@@ -3,9 +3,9 @@ title: "Section 539l - Designation of James Peak Protection Area, Colorado"
 usc_title: 16
 usc_section: "539l"
 chapter: 2
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 539l"
-generated_at: "2026-03-30T03:57:07.525Z"
+generated_at: "2026-03-30T04:00:01.707Z"
 status: "active"
 ---
 

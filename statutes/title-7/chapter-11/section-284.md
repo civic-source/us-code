@@ -3,9 +3,9 @@ title: "Section 284 - Eradication and control of undesirable species and subspec
 usc_title: 7
 usc_section: "284"
 chapter: 11
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "7 U.S.C. § 284"
-generated_at: "2026-03-30T03:56:45.003Z"
+generated_at: "2026-03-30T03:59:22.183Z"
 status: "active"
 ---
 

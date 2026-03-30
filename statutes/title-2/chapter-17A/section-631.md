@@ -3,9 +3,9 @@ title: "Section 631 - Timetable"
 usc_title: 2
 usc_section: "631"
 chapter: 17
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "2 U.S.C. § 631"
-generated_at: "2026-03-30T03:56:19.776Z"
+generated_at: "2026-03-30T03:59:14.041Z"
 status: "active"
 ---
 

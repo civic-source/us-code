@@ -3,9 +3,9 @@ title: "Section 3489 - General extension of authorizations"
 usc_title: 20
 usc_section: "3489"
 chapter: 48
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 3489"
-generated_at: "2026-03-30T03:57:03.297Z"
+generated_at: "2026-03-30T03:59:57.087Z"
 status: "active"
 ---
 

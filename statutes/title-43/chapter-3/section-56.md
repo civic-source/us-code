@@ -3,9 +3,9 @@ title: "Section 56 - Conditions of delivery to States"
 usc_title: 43
 usc_section: "56"
 chapter: 3
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "43 U.S.C. § 56"
-generated_at: "2026-03-30T03:58:20.169Z"
+generated_at: "2026-03-30T04:01:28.777Z"
 status: "active"
 ---
 

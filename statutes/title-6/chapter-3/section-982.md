@@ -3,9 +3,9 @@ title: "Section 982 - Screening and scanning of cargo containers"
 usc_title: 6
 usc_section: "982"
 chapter: 3
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "6 U.S.C. § 982"
-generated_at: "2026-03-30T03:56:33.972Z"
+generated_at: "2026-03-30T03:59:16.610Z"
 status: "active"
 ---
 

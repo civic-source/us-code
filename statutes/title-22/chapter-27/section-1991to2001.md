@@ -3,9 +3,9 @@ title: "Section 1991to2001 - Repealed. Pub. L. 87–256, § 111(a)(3) , Sept. 21
 usc_title: 22
 usc_section: "1991to2001"
 chapter: 27
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 1991to2001"
-generated_at: "2026-03-30T03:57:40.803Z"
+generated_at: "2026-03-30T04:00:16.221Z"
 status: "repealed"
 ---
 

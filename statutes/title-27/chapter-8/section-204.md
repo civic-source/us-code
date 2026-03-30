@@ -3,9 +3,9 @@ title: "Section 204 - Permits"
 usc_title: 27
 usc_section: "204"
 chapter: 8
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "27 U.S.C. § 204"
-generated_at: "2026-03-30T03:57:43.027Z"
+generated_at: "2026-03-30T04:00:19.898Z"
 status: "active"
 ---
 

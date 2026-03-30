@@ -3,9 +3,9 @@ title: "Section 191a - Repealed. Pub. L. 86–571, § 10(a) , July 5, 1960 , 74 
 usc_title: 24
 usc_section: "191a"
 chapter: 4
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "24 U.S.C. § 191a"
-generated_at: "2026-03-30T03:57:10.028Z"
+generated_at: "2026-03-30T04:00:05.264Z"
 status: "repealed"
 ---
 

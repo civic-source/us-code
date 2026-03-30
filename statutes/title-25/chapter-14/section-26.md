@@ -3,9 +3,9 @@ title: "Section 26 - Distribution of funds to lineal descendants"
 usc_title: 25
 usc_section: "26"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 26"
-generated_at: "2026-03-30T03:57:17.267Z"
+generated_at: "2026-03-30T04:00:09.031Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1175 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1175"
 chapter: 24
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 1175"
-generated_at: "2026-03-30T03:57:07.601Z"
+generated_at: "2026-03-30T04:00:01.810Z"
 status: "active"
 ---
 

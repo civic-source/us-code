@@ -3,9 +3,9 @@ title: "Section 8 - Classification of patents"
 usc_title: 35
 usc_section: "8"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "35 U.S.C. § 8"
-generated_at: "2026-03-30T03:58:09.430Z"
+generated_at: "2026-03-30T04:00:37.201Z"
 status: "active"
 ---
 

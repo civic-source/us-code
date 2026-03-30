@@ -3,9 +3,9 @@ title: "Section 3162 - Waiver for individuals who perform volunteer services"
 usc_title: 40
 usc_section: "3162"
 chapter: 31
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "40 U.S.C. § 3162"
-generated_at: "2026-03-30T03:58:14.117Z"
+generated_at: "2026-03-30T04:00:49.644Z"
 status: "active"
 ---
 

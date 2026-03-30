@@ -3,9 +3,9 @@ title: "Section 10 - Grants to Indian tribal governments"
 usc_title: 42
 usc_section: "10"
 chapter: 46
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T03:58:36.760Z"
+generated_at: "2026-03-30T04:01:27.462Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1426 - Public notice and hearings"
 usc_title: 30
 usc_section: "1426"
 chapter: 26
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "30 U.S.C. § 1426"
-generated_at: "2026-03-30T03:57:45.907Z"
+generated_at: "2026-03-30T04:00:19.659Z"
 status: "active"
 ---
 

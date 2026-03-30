@@ -3,9 +3,9 @@ title: "Section 372 - Ascertainment of heirs of deceased allottees; settlement o
 usc_title: 25
 usc_section: "372"
 chapter: 10
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 372"
-generated_at: "2026-03-30T03:57:17.217Z"
+generated_at: "2026-03-30T04:00:08.967Z"
 status: "active"
 ---
 

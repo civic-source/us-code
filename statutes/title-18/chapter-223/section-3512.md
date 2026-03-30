@@ -3,9 +3,9 @@ title: "Section 3512 - Foreign requests for assistance in criminal investigation
 usc_title: 18
 usc_section: "3512"
 chapter: 223
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "18 U.S.C. § 3512"
-generated_at: "2026-03-30T03:56:58.741Z"
+generated_at: "2026-03-30T03:59:51.253Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 568cto568e - Repealed. Pub. L. 95–313, § 16(a)(4) , (5), form
 usc_title: 16
 usc_section: "568cto568e"
 chapter: 3
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 568cto568e"
-generated_at: "2026-03-30T03:57:07.536Z"
+generated_at: "2026-03-30T04:00:01.721Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 728 - Protection of Alabama and Coushatta Indians and conservati
 usc_title: 25
 usc_section: "728"
 chapter: 14
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "25 U.S.C. § 728"
-generated_at: "2026-03-30T03:57:17.252Z"
+generated_at: "2026-03-30T04:00:09.012Z"
 status: "active"
 ---
 

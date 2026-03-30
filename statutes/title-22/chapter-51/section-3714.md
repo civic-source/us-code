@@ -3,9 +3,9 @@ title: "Section 3714 - Borrowing authority"
 usc_title: 22
 usc_section: "3714"
 chapter: 51
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 3714"
-generated_at: "2026-03-30T03:57:40.871Z"
+generated_at: "2026-03-30T04:00:16.316Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2003 - Regulations"
 usc_title: 42
 usc_section: "2003"
 chapter: 22
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 2003"
-generated_at: "2026-03-30T03:58:36.672Z"
+generated_at: "2026-03-30T04:01:27.378Z"
 status: "active"
 ---
 

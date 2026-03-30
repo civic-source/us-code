@@ -3,9 +3,9 @@ title: "Section 3062 - Policy; composition; organized peace establishment"
 usc_title: 10
 usc_section: "3062"
 chapter: 307
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "10 U.S.C. § 3062"
-generated_at: "2026-03-30T03:56:39.630Z"
+generated_at: "2026-03-30T03:59:31.685Z"
 status: "active"
 ---
 

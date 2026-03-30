@@ -3,9 +3,9 @@ title: "Section 2008f - Crop insurance requirement"
 usc_title: 7
 usc_section: "2008f"
 chapter: 50
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "7 U.S.C. § 2008f"
-generated_at: "2026-03-30T03:56:45.096Z"
+generated_at: "2026-03-30T03:59:22.289Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2695b - Public outreach"
 usc_title: 15
 usc_section: "2695b"
 chapter: 53
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "15 U.S.C. § 2695b"
-generated_at: "2026-03-30T03:56:54.577Z"
+generated_at: "2026-03-30T03:59:45.850Z"
 status: "active"
 ---
 

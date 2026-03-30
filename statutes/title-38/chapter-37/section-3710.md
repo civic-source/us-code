@@ -3,9 +3,9 @@ title: "Section 3710 - Purchase or construction of homes"
 usc_title: 38
 usc_section: "3710"
 chapter: 37
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "38 U.S.C. § 3710"
-generated_at: "2026-03-30T03:58:16.852Z"
+generated_at: "2026-03-30T04:00:45.153Z"
 status: "active"
 ---
 

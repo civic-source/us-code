@@ -3,9 +3,9 @@ title: "Section 7425 - Employees: laws not applicable"
 usc_title: 38
 usc_section: "7425"
 chapter: 74
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "38 U.S.C. § 7425"
-generated_at: "2026-03-30T03:58:16.878Z"
+generated_at: "2026-03-30T04:00:45.181Z"
 status: "active"
 ---
 

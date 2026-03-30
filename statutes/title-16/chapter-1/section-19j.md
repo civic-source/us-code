@@ -3,9 +3,9 @@ title: "Section 19j - Authority for execution of contracts, instruments, and nec
 usc_title: 16
 usc_section: "19j"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 19j"
-generated_at: "2026-03-30T03:57:07.389Z"
+generated_at: "2026-03-30T04:00:01.531Z"
 status: "active"
 ---
 

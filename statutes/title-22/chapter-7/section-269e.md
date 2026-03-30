@@ -3,9 +3,9 @@ title: "Section 269e - Omitted"
 usc_title: 22
 usc_section: "269e"
 chapter: 7
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 269e"
-generated_at: "2026-03-30T03:57:40.762Z"
+generated_at: "2026-03-30T04:00:16.172Z"
 status: "omitted"
 ---
 

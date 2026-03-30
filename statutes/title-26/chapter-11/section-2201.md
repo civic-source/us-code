@@ -3,9 +3,9 @@ title: "Section 2201 - Combat zone-related deaths of members of the Armed Forces
 usc_title: 26
 usc_section: "2201"
 chapter: 11
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "26 U.S.C. § 2201"
-generated_at: "2026-03-30T03:58:07.338Z"
+generated_at: "2026-03-30T04:00:34.833Z"
 status: "active"
 ---
 

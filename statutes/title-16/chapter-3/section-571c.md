@@ -3,9 +3,9 @@ title: "Section 571c - Erection of permanent facilities on land not owned by Uni
 usc_title: 16
 usc_section: "571c"
 chapter: 3
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 571c"
-generated_at: "2026-03-30T03:57:07.536Z"
+generated_at: "2026-03-30T04:00:01.721Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1172to1174 - Repealed. Pub. L. 96–374, title VI, § 601(c)(2) 
 usc_title: 20
 usc_section: "1172to1174"
 chapter: 29
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 1172to1174"
-generated_at: "2026-03-30T03:57:03.262Z"
+generated_at: "2026-03-30T03:59:57.043Z"
 status: "repealed"
 ---
 

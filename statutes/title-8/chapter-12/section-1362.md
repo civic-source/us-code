@@ -3,9 +3,9 @@ title: "Section 1362 - Right to counsel"
 usc_title: 8
 usc_section: "1362"
 chapter: 12
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "8 U.S.C. § 1362"
-generated_at: "2026-03-30T03:56:35.112Z"
+generated_at: "2026-03-30T03:59:17.520Z"
 status: "active"
 ---
 

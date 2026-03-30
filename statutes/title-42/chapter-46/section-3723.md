@@ -3,9 +3,9 @@ title: "Section 3723 - Authority for 100 per centum grants"
 usc_title: 42
 usc_section: "3723"
 chapter: 46
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 3723"
-generated_at: "2026-03-30T03:58:36.748Z"
+generated_at: "2026-03-30T04:01:27.451Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 911 - Repealed. Pub. L. 111–281, title VIII, § 821(b) , Oct. 
 usc_title: 6
 usc_section: "911"
 chapter: 3
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "6 U.S.C. § 911"
-generated_at: "2026-03-30T03:56:33.969Z"
+generated_at: "2026-03-30T03:59:16.608Z"
 status: "repealed"
 ---
 

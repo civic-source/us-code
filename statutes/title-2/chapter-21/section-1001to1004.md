@@ -3,9 +3,9 @@ title: "Section 1001to1004 - Repealed. Pub. L. 101–483 , Oct. 31, 1990 , 104 S
 usc_title: 2
 usc_section: "1001to1004"
 chapter: 21
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "2 U.S.C. § 1001to1004"
-generated_at: "2026-03-30T03:56:19.787Z"
+generated_at: "2026-03-30T03:59:14.054Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7174 - Local competitive grant program"
 usc_title: 20
 usc_section: "7174"
 chapter: 70
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "20 U.S.C. § 7174"
-generated_at: "2026-03-30T03:57:03.348Z"
+generated_at: "2026-03-30T03:59:57.153Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Additional sum from surplus for meeting payments due from in
 usc_title: 43
 usc_section: "3"
 chapter: 28
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-30T03:58:20.208Z"
+generated_at: "2026-03-30T04:01:28.822Z"
 status: "active"
 ---
 

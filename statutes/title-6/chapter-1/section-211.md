@@ -3,9 +3,9 @@ title: "Section 211 - Establishment; Commissioner of Customs"
 usc_title: 6
 usc_section: "211"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "6 U.S.C. § 211"
-generated_at: "2026-03-30T03:56:33.946Z"
+generated_at: "2026-03-30T03:59:16.585Z"
 status: "active"
 ---
 

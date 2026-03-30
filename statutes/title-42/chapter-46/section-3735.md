@@ -3,9 +3,9 @@ title: "Section 3735 - Use of data"
 usc_title: 42
 usc_section: "3735"
 chapter: 46
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "42 U.S.C. § 3735"
-generated_at: "2026-03-30T03:58:36.750Z"
+generated_at: "2026-03-30T04:01:27.451Z"
 status: "active"
 ---
 

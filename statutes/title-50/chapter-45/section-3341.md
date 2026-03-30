@@ -3,9 +3,9 @@ title: "Section 3341 - Security clearances"
 usc_title: 50
 usc_section: "3341"
 chapter: 45
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "50 U.S.C. § 3341"
-generated_at: "2026-03-30T03:58:42.271Z"
+generated_at: "2026-03-30T04:02:01.607Z"
 status: "active"
 ---
 
@@ -35,13 +35,19 @@ status: "active"
   - **(8)** The term “appropriate committees of Congress” means—
     - **(A)** the Permanent Select Committee on Intelligence and the Committees on Armed Services, Homeland Security, Government Reform, and the Judiciary of the House of Representatives; and
     - **(B)** the Select Committee on Intelligence and the Committees on Armed Services, Homeland Security and Governmental Affairs, and the Judiciary of the Senate.
-- **(b)** Not later than 90 days after December 17, 2004 , the President shall select a single department, agency, or element of the executive branch to be responsible for—
+  - **(9)** The term “access determination” means the determination regarding whether an employee—
+    - **(A)** is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry), or any successor thereto; and
+    - **(B)** possesses a need to know under such an Order.
+- **(b)** Except as otherwise provided, not later than 90 days after December 17, 2004 , the President shall select a single department, agency, or element of the executive branch to be responsible for—
   - **(1)** directing day-to-day oversight of investigations and adjudications for personnel security clearances, including for highly sensitive programs, throughout the United States Government;
   - **(2)** developing and implementing uniform and consistent policies and procedures to ensure the effective, efficient, and timely completion of security clearances and determinations for access to highly sensitive programs, including the standardization of security questionnaires, financial disclosure requirements for security clearance applicants, and polygraph policies and procedures;
   - **(3)** serving as the final authority to designate an authorized investigative agency or authorized adjudicative agency;
   - **(4)** ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
-  - **(5)** ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals; and
-  - **(6)** reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances.
+  - **(5)** ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals;
+  - **(6)** reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances; and
+  - **(7)** not later than 180 days after July 7, 2014 —
+    - **(A)** developing policies and procedures that permit, to the extent practicable, individuals to appeal a determination to suspend or revoke a security clearance or access to classified information and to retain their government employment status while such challenge is pending; and
+    - **(B)** developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
 - **(c)**
   - **(1)** Notwithstanding any other provision of law, not later than 180 days after December 17, 2004 , the President shall, in consultation with the head of the entity selected pursuant to subsection (b) of this section, select a single agency of the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) of this section may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) of this section considers it appropriate for national security and efficiency purposes.
   - **(2)** The agency selected under paragraph (1) shall—
@@ -93,3 +99,40 @@ status: "active"
     - **(B)** a discussion of any impediments to the smooth and timely functioning of the requirements of this section; and
     - **(C)** such other information or recommendations as the head of the entity selected pursuant to subsection (b) of this section considers appropriate.
 - **(i)** There is authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each fiscal year thereafter for the implementation, maintenance, and operation of the database required by subsection (e) of this section.
+- **(j)**
+  - **(1)** Agency personnel with authority over personnel security clearance or access determinations shall not take or fail to take, or threaten to take or fail to take, any action with respect to any employee’s security clearance or access determination in retaliation for—
+    - **(A)** any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency for such purpose) by an employee that the employee reasonably believes evidences—
+      - **(i)** a violation of any Federal law, rule, or regulation; or
+      - **(ii)** gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+    - **(B)** any lawful disclosure to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee reasonably believes evidences—
+      - **(i)** a violation of any Federal law, rule, or regulation; or
+      - **(ii)** gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+    - **(C)** any lawful disclosure that complies with—
+      - **(i)** subsections (a)(1), (d), and (h) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);
+      - **(ii)** subparagraphs (A), (D), and (H) of section 3517(d)(5) of this title ; or
+      - **(iii)** subparagraphs (A), (D), and (I) of section 3033(k)(5) of this title ; and
+    - **(D)** if the actions do not result in the employee or applicant unlawfully disclosing information specifically required by Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs, any lawful disclosure in conjunction with—
+      - **(i)** the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation;
+      - **(ii)** testimony for or otherwise lawfully assisting any individual in the exercise of any right referred to in clause (i); or
+      - **(iii)** cooperation with or disclosing information to the Inspector General of an agency, in accordance with applicable provisions of law in connection with an audit, inspection, or investigation conducted by the Inspector General.
+  - **(2)** Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who lawfully discloses information to Congress.
+  - **(3)**
+    - **(A)** A disclosure shall not be excluded from paragraph (1) because—
+      - **(i)** the disclosure was made to a person, including a supervisor, who participated in an activity that the employee reasonably believed to be covered by paragraph (1)(A)(ii);
+      - **(ii)** the disclosure revealed information that had been previously disclosed;
+      - **(iii)** the disclosure was not made in writing;
+      - **(iv)** the disclosure was made while the employee was off duty; or
+      - **(v)** of the amount of time which has passed since the occurrence of the events described in the disclosure.
+    - **(B)** If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from paragraph (1) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.
+  - **(4)**
+    - **(A)** An employee or former employee who believes that he or she has been subjected to a reprisal prohibited by paragraph (1) may, within 90 days after the issuance of notice of such decision, appeal that decision within the agency of that employee or former employee through proceedings authorized by subsection (b)(7), except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts not longer than 1 year (or a longer period in accordance with a certification made under subsection (b)(7)).
+    - **(B)** If, in the course of proceedings authorized under subparagraph (A), it is determined that the adverse security clearance or access determination violated paragraph (1), the agency shall take specific corrective action to return the employee or former employee, as nearly as practicable and reasonable, to the position such employee or former employee would have held had the violation not occurred. Such corrective action may include back pay and related benefits, travel expenses, and compensatory damages not to exceed $300,000.
+    - **(C)** In determining whether the adverse security clearance or access determination violated paragraph (1), the agency shall find that paragraph (1) was violated if a disclosure described in paragraph (1) was a contributing factor in the adverse security clearance or access determination taken against the individual, unless the agency demonstrates by a preponderance of the evidence that it would have taken the same action in the absence of such disclosure, giving the utmost deference to the agency’s assessment of the particular threat to the national security interests of the United States in the instant matter.
+  - **(5)**
+    - **(A)** Within 60 days after receiving notice of an adverse final agency determination under a proceeding under paragraph (4), an employee or former employee may appeal that determination in accordance with the procedures established under subparagraph (B).
+    - **(B)** The Director of National Intelligence, in consultation with the Attorney General and the Secretary of Defense, shall develop and implement policies and procedures for adjudicating the appeals authorized by subparagraph (A).
+    - **(C)** Consistent with the protection of sources and methods, at the time the Director of National Intelligence issues an order regarding an appeal pursuant to the policies and procedures established by this paragraph, the Director of National Intelligence shall notify the congressional intelligence committees.
+  - **(6)** Nothing in this section shall be construed to permit or require judicial review of any—
+    - **(A)** agency action under this section; or
+    - **(B)** action of the appellate review procedures established under paragraph (5).
+  - **(7)** Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.

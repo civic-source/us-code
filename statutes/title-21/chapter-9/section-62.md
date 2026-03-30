@@ -3,9 +3,9 @@ title: "Section 62 - Authority to assess and use outsourcing facility fees"
 usc_title: 21
 usc_section: "62"
 chapter: 9
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "21 U.S.C. § 62"
-generated_at: "2026-03-30T03:57:11.608Z"
+generated_at: "2026-03-30T04:00:10.508Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 286ff - Fund interest rates"
 usc_title: 22
 usc_section: "286ff"
 chapter: 7
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "22 U.S.C. § 286ff"
-generated_at: "2026-03-30T03:57:40.775Z"
+generated_at: "2026-03-30T04:00:16.187Z"
 status: "active"
 ---
 

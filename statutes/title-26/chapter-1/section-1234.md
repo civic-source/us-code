@@ -3,9 +3,9 @@ title: "Section 1234 - Options to buy or sell"
 usc_title: 26
 usc_section: "1234"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "26 U.S.C. § 1234"
-generated_at: "2026-03-30T03:58:07.305Z"
+generated_at: "2026-03-30T04:00:34.794Z"
 status: "active"
 ---
 

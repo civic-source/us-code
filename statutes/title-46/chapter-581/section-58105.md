@@ -3,9 +3,9 @@ title: "Section 58105 - Preferences for cargo in which charterer has interest"
 usc_title: 46
 usc_section: "58105"
 chapter: 581
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "46 U.S.C. § 58105"
-generated_at: "2026-03-30T03:58:47.634Z"
+generated_at: "2026-03-30T04:01:51.366Z"
 status: "active"
 ---
 

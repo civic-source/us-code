@@ -3,9 +3,9 @@ title: "Section 1 - Time for election of Senators"
 usc_title: 2
 usc_section: "1"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-30T03:56:19.750Z"
+generated_at: "2026-03-30T03:59:14.012Z"
 status: "active"
 ---
 

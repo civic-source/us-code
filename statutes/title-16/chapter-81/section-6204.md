@@ -3,9 +3,9 @@ title: "Section 6204 - Administration of recreation residence program"
 usc_title: 16
 usc_section: "6204"
 chapter: 81
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 6204"
-generated_at: "2026-03-30T03:57:07.705Z"
+generated_at: "2026-03-30T04:00:01.953Z"
 status: "active"
 ---
 

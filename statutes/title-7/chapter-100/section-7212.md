@@ -3,9 +3,9 @@ title: "Section 7212 - Elements of contracts"
 usc_title: 7
 usc_section: "7212"
 chapter: 100
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "7 U.S.C. § 7212"
-generated_at: "2026-03-30T03:56:45.214Z"
+generated_at: "2026-03-30T03:59:22.403Z"
 status: "active"
 ---
 

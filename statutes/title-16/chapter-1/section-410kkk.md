@@ -3,9 +3,9 @@ title: "Section 410kkk - Definitions"
 usc_title: 16
 usc_section: "410kkk"
 chapter: 1
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "16 U.S.C. § 410kkk"
-generated_at: "2026-03-30T03:57:07.444Z"
+generated_at: "2026-03-30T04:00:01.601Z"
 status: "active"
 ---
 

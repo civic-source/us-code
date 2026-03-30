@@ -3,9 +3,9 @@ title: "Section 1409mto1409o - Repealed. Pub. L. 97–357, title III, § 308(f) 
 usc_title: 48
 usc_section: "1409mto1409o"
 chapter: 7
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "48 U.S.C. § 1409mto1409o"
-generated_at: "2026-03-30T03:58:46.398Z"
+generated_at: "2026-03-30T04:01:36.636Z"
 status: "repealed"
 ---
 

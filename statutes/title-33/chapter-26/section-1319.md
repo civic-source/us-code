@@ -3,9 +3,9 @@ title: "Section 1319 - Enforcement"
 usc_title: 33
 usc_section: "1319"
 chapter: 26
-current_through: "PL 113-125"
+current_through: "PL 113-126"
 classification: "33 U.S.C. § 1319"
-generated_at: "2026-03-30T03:58:11.782Z"
+generated_at: "2026-03-30T04:00:40.107Z"
 status: "active"
 ---
 
