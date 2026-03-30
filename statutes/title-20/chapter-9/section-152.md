@@ -3,9 +3,9 @@ title: "Section 152 - Omitted"
 usc_title: 20
 usc_section: "152"
 chapter: 9
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "20 U.S.C. § 152"
-generated_at: "2026-03-30T00:18:57.936Z"
+generated_at: "2026-03-30T00:21:49.812Z"
 ---
 
 # §§ 131 to 152. Omitted

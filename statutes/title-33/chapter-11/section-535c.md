@@ -3,9 +3,9 @@ title: "Section 535c - Approval of Secretary; commencement and completion requir
 usc_title: 33
 usc_section: "535c"
 chapter: 11
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "33 U.S.C. § 535c"
-generated_at: "2026-03-30T00:19:53.577Z"
+generated_at: "2026-03-30T00:22:20.568Z"
 ---
 
 # § 535c. Approval of Secretary; commencement and completion requirements; extension of time limits

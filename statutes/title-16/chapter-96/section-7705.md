@@ -3,9 +3,9 @@ title: "Section 7705 - Enforcement"
 usc_title: 16
 usc_section: "7705"
 chapter: 96
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 7705"
-generated_at: "2026-03-30T00:18:47.600Z"
+generated_at: "2026-03-30T00:21:39.331Z"
 ---
 
 # § 7705. Enforcement

@@ -3,9 +3,9 @@ title: "Section 9502 - Authority of Chief of Engineers"
 usc_title: 40
 usc_section: "9502"
 chapter: 95
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "40 U.S.C. § 9502"
-generated_at: "2026-03-30T00:20:00.264Z"
+generated_at: "2026-03-30T00:22:25.193Z"
 ---
 
 # § 9502. Authority of Chief of Engineers

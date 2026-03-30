@@ -3,9 +3,9 @@ title: "Section 1704 - Broadband Deployment Locations Map"
 usc_title: 47
 usc_section: "1704"
 chapter: 16
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "47 U.S.C. § 1704"
-generated_at: "2026-03-30T00:20:27.428Z"
+generated_at: "2026-03-30T00:23:16.690Z"
 ---
 
 # § 1704. Broadband Deployment Locations Map

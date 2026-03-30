@@ -3,9 +3,9 @@ title: "Section 8513a - Imposition of sanctions with respect to the financial se
 usc_title: 22
 usc_section: "8513a"
 chapter: 92
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 8513a"
-generated_at: "2026-03-30T00:19:26.976Z"
+generated_at: "2026-03-30T00:22:05.841Z"
 ---
 
 # § 8513a. Imposition of sanctions with respect to the financial sector of Iran

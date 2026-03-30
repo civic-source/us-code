@@ -3,9 +3,9 @@ title: "Section 2139a - Regulations implementing requirements relating to licens
 usc_title: 42
 usc_section: "2139a"
 chapter: 23
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 2139a"
-generated_at: "2026-03-30T00:20:22.780Z"
+generated_at: "2026-03-30T00:22:52.630Z"
 ---
 
 # § 2139a. Regulations implementing requirements relating to licensing for components and other parts of facilities

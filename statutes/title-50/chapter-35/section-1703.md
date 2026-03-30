@@ -3,9 +3,9 @@ title: "Section 1703 - Consultation and reports"
 usc_title: 50
 usc_section: "1703"
 chapter: 35
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 1703"
-generated_at: "2026-03-30T00:20:29.374Z"
+generated_at: "2026-03-30T00:22:59.037Z"
 ---
 
 # § 1703. Consultation and reports

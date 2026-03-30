@@ -3,9 +3,9 @@ title: "Section 6566 - Authority to procure technical support and other services
 usc_title: 2
 usc_section: "6566"
 chapter: 65
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "2 U.S.C. § 6566"
-generated_at: "2026-03-30T00:17:40.349Z"
+generated_at: "2026-03-30T00:20:57.411Z"
 ---
 
 # § 6566. Authority to procure technical support and other services and incur travel expenses; payment of such expenses

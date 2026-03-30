@@ -3,9 +3,9 @@ title: "Section 676 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21
 usc_title: 43
 usc_section: "676"
 chapter: 16
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "43 U.S.C. § 676"
-generated_at: "2026-03-30T00:20:08.063Z"
+generated_at: "2026-03-30T00:22:31.504Z"
 ---
 
 # §§ 673 to 676. Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 1976 , 90 Stat. 2789

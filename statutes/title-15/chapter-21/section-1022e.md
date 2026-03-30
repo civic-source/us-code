@@ -3,9 +3,9 @@ title: "Section 1022e - Inflation"
 usc_title: 15
 usc_section: "1022e"
 chapter: 21
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 1022e"
-generated_at: "2026-03-30T00:18:28.093Z"
+generated_at: "2026-03-30T00:21:29.490Z"
 ---
 
 # § 1022e. Inflation

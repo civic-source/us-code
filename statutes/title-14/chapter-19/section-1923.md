@@ -3,9 +3,9 @@ title: "Section 1923 - Admission of foreign nationals for instruction; restricti
 usc_title: 14
 usc_section: "1923"
 chapter: 19
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "14 U.S.C. § 1923"
-generated_at: "2026-03-30T00:18:33.429Z"
+generated_at: "2026-03-30T00:21:20.863Z"
 ---
 
 # § 1923. Admission of foreign nationals for instruction; restrictions; conditions

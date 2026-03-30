@@ -3,9 +3,9 @@ title: "Section 2804 - Report to Congress"
 usc_title: 33
 usc_section: "2804"
 chapter: 41
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "33 U.S.C. § 2804"
-generated_at: "2026-03-30T00:19:53.658Z"
+generated_at: "2026-03-30T00:22:20.643Z"
 ---
 
 # § 2804. Report to Congress

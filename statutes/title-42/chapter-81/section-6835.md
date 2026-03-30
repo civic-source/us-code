@@ -3,9 +3,9 @@ title: "Section 6835 - Federal compliance"
 usc_title: 42
 usc_section: "6835"
 chapter: 81
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 6835"
-generated_at: "2026-03-30T00:20:22.904Z"
+generated_at: "2026-03-30T00:22:52.758Z"
 ---
 
 # § 6835. Federal compliance

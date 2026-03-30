@@ -3,9 +3,9 @@ title: "Section 1610 - Effect on other laws"
 usc_title: 15
 usc_section: "1610"
 chapter: 41
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 1610"
-generated_at: "2026-03-30T00:18:28.109Z"
+generated_at: "2026-03-30T00:21:29.510Z"
 ---
 
 # § 1610. Effect on other laws

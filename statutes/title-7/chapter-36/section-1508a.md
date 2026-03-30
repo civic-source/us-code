@@ -3,9 +3,9 @@ title: "Section 1508a - Double insurance and prevented planting"
 usc_title: 7
 usc_section: "1508a"
 chapter: 36
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "7 U.S.C. § 1508a"
-generated_at: "2026-03-30T00:18:19.932Z"
+generated_at: "2026-03-30T00:21:11.920Z"
 ---
 
 # § 1508a. Double insurance and prevented planting

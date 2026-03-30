@@ -3,9 +3,9 @@ title: "Section 53515 - Records and reports"
 usc_title: 46
 usc_section: "53515"
 chapter: 535
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "46 U.S.C. § 53515"
-generated_at: "2026-03-30T00:20:37.519Z"
+generated_at: "2026-03-30T00:23:02.760Z"
 ---
 
 # § 53515. Records and reports

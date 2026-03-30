@@ -3,9 +3,9 @@ title: "Section 1056 - Form and payment of benefits"
 usc_title: 29
 usc_section: "1056"
 chapter: 18
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "29 U.S.C. § 1056"
-generated_at: "2026-03-30T00:19:31.330Z"
+generated_at: "2026-03-30T00:22:10.293Z"
 ---
 
 # § 1056. Form and payment of benefits
@@ -184,7 +184,7 @@ generated_at: "2026-03-30T00:19:31.330Z"
   - **(2)** Paragraph (1) shall not fail to apply with respect to any inadvertent benefit overpayment merely because, after discovering such overpayment, the responsible plan fiduciary—
     - **(A)** reduces future benefit payments to the correct amount provided for under the terms of the plan, or
     - **(B)** seeks recovery from the person or persons responsible for the overpayment.
-  - **(3)** Nothing in this subsection shall relieve an employer of any obligation imposed on it to make contributions to a plan to meet the minimum funding standards under part 3 of this subtitle B or to prevent or restore an impermissible forfeiture in accordance with section 1053 off this title.
+  - **(3)** Nothing in this subsection shall relieve an employer of any obligation imposed on it to make contributions to a plan to meet the minimum funding standards under part 3 of this subtitle B or to prevent or restore an impermissible forfeiture in accordance with section 1053 of this title .
   - **(4)** If the responsible plan fiduciary, in the exercise of its fiduciary discretion, decides to seek recoupment from a participant or beneficiary of all or part of an inadvertent benefit overpayment made by the plan to such participant or beneficiary, it may do so, subject to the following conditions:
     - **(A)** No interest or other additional amounts (such as collection costs or fees) are sought on overpaid amounts for any period.
     - **(B)** If the plan seeks to recoup past overpayments of a non-decreasing annuity by reducing future benefit payments—

@@ -3,9 +3,9 @@ title: "Section 7407 - Administrative provisions for section 7405 and 7406 appoi
 usc_title: 38
 usc_section: "7407"
 chapter: 74
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "38 U.S.C. § 7407"
-generated_at: "2026-03-30T00:20:03.478Z"
+generated_at: "2026-03-30T00:22:28.631Z"
 ---
 
 # § 7407. Administrative provisions for section 7405 and 7406 appointments

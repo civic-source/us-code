@@ -3,9 +3,9 @@ title: "Section 60 - Hunting or fishing prohibited"
 usc_title: 16
 usc_section: "60"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 60"
-generated_at: "2026-03-30T00:18:47.315Z"
+generated_at: "2026-03-30T00:21:38.984Z"
 ---
 
 # § 60. Hunting or fishing prohibited

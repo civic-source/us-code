@@ -3,9 +3,9 @@ title: "Section 2217b - Repealed. Pub. L. 90–137 , pt. I, § 107, Nov. 14, 196
 usc_title: 22
 usc_section: "2217b"
 chapter: 32
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 2217b"
-generated_at: "2026-03-30T00:19:26.872Z"
+generated_at: "2026-03-30T00:22:05.729Z"
 ---
 
 # § 2217b. Repealed. Pub. L. 90–137 , pt. I, § 107, Nov. 14, 1967 , 81 Stat. 452

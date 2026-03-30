@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T00:19:39.095Z"
+generated_at: "2026-03-30T00:22:16.738Z"
 ---
 
 # § 408. Individual retirement accounts
@@ -92,7 +92,7 @@ generated_at: "2026-03-30T00:19:39.095Z"
         - **(I)** an election is not in effect under this subparagraph for a preceding taxable year,
         - **(II)** the aggregate amount of distributions of the taxpayer with respect to which an election under this subparagraph is made does not exceed $50,000, and
         - **(III)** such distribution meets the requirements of clauses (iii) and (iv).
-      - **(ii)** For purposes of this subparagraph, the term ‘split-interest entity’ means—
+      - **(ii)** For purposes of this subparagraph, the term “split-interest entity” means—
         - **(I)** a charitable remainder annuity trust (as defined in section 664(d)(1)), but only if such trust is funded exclusively by qualified charitable distributions,
         - **(II)** a charitable remainder unitrust (as defined in section 664(d)(2)), but only if such unitrust is funded exclusively by qualified charitable distributions, or
         - **(III)** a charitable gift annuity (as defined in section 501(m)(5)), but only if such annuity is funded exclusively by qualified charitable distributions and commences fixed payments of 5 percent or greater not later than 1 year from the date of funding.

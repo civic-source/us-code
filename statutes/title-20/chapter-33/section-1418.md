@@ -3,9 +3,9 @@ title: "Section 1418 - Program information"
 usc_title: 20
 usc_section: "1418"
 chapter: 33
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "20 U.S.C. § 1418"
-generated_at: "2026-03-30T00:18:58.016Z"
+generated_at: "2026-03-30T00:21:49.891Z"
 ---
 
 # § 1418. Program information

@@ -3,9 +3,9 @@ title: "Section 4e - Extent to which borrowing country governments have honored 
 usc_title: 22
 usc_section: "4e"
 chapter: 7
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 4e"
-generated_at: "2026-03-30T00:19:26.822Z"
+generated_at: "2026-03-30T00:22:05.680Z"
 ---
 
 # § 262p–4e. Extent to which borrowing country governments have honored debt-for-development swap agreements to be considered as factor in making loans to such borrowers

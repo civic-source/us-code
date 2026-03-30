@@ -3,9 +3,9 @@ title: "Section 4863 - Requirement to buy strategic materials critical to nation
 usc_title: 10
 usc_section: "4863"
 chapter: 385
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 4863"
-generated_at: "2026-03-30T00:18:12.325Z"
+generated_at: "2026-03-30T00:21:16.894Z"
 ---
 
 # § 4863. Requirement to buy strategic materials critical to national security from American sources; exceptions

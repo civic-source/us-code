@@ -3,9 +3,9 @@ title: "Section 2432 - Internal review"
 usc_title: 15
 usc_section: "2432"
 chapter: 51
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 2432"
-generated_at: "2026-03-30T00:18:28.145Z"
+generated_at: "2026-03-30T00:21:29.553Z"
 ---
 
 # § 2432. Internal review

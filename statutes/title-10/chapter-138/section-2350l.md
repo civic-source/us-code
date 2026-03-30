@@ -3,9 +3,9 @@ title: "Section 2350l - Cooperative agreements for reciprocal use of test facili
 usc_title: 10
 usc_section: "2350l"
 chapter: 138
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 2350l"
-generated_at: "2026-03-30T00:18:12.273Z"
+generated_at: "2026-03-30T00:21:16.841Z"
 ---
 
 # § 2350l. Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations

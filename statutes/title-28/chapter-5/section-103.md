@@ -3,9 +3,9 @@ title: "Section 103 - Minnesota"
 usc_title: 28
 usc_section: "103"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "28 U.S.C. § 103"
-generated_at: "2026-03-30T00:19:45.346Z"
+generated_at: "2026-03-30T00:22:09.172Z"
 ---
 
 # § 103. Minnesota

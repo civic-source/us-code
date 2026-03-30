@@ -3,9 +3,9 @@ title: "Section 3706 - Notice of default and foreclosure sale; condition and ter
 usc_title: 12
 usc_section: "3706"
 chapter: 38
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 3706"
-generated_at: "2026-03-30T00:18:37.691Z"
+generated_at: "2026-03-30T00:21:26.566Z"
 ---
 
 # § 3706. Notice of default and foreclosure sale; condition and term of sale

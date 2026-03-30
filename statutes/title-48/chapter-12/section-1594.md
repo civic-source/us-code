@@ -3,9 +3,9 @@ title: "Section 1594 - Repealed. Pub. L. 90–496, § 6 , Aug. 23, 1968 , 82 Sta
 usc_title: 48
 usc_section: "1594"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "48 U.S.C. § 1594"
-generated_at: "2026-03-30T00:20:26.313Z"
+generated_at: "2026-03-30T00:22:59.586Z"
 ---
 
 # § 1594. Repealed. Pub. L. 90–496, § 6 , Aug. 23, 1968 , 82 Stat. 839

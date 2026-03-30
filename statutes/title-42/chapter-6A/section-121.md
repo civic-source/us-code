@@ -3,9 +3,9 @@ title: "Section 121 - Minority AIDS initiative"
 usc_title: 42
 usc_section: "121"
 chapter: 6
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 121"
-generated_at: "2026-03-30T00:20:22.447Z"
+generated_at: "2026-03-30T00:22:52.289Z"
 ---
 
 # § 300ff–121. Minority AIDS initiative

@@ -3,9 +3,9 @@ title: "Section 3925 - Compatibility between Foreign Service and other Governmen
 usc_title: 22
 usc_section: "3925"
 chapter: 52
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 3925"
-generated_at: "2026-03-30T00:19:26.921Z"
+generated_at: "2026-03-30T00:22:05.781Z"
 ---
 
 # § 3925. Compatibility between Foreign Service and other Government personnel systems

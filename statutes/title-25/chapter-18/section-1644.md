@@ -3,9 +3,9 @@ title: "Section 1644 - Grants to and contracts with the Service, Indian tribes, 
 usc_title: 25
 usc_section: "1644"
 chapter: 18
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "25 U.S.C. § 1644"
-generated_at: "2026-03-30T00:19:08.536Z"
+generated_at: "2026-03-30T00:21:54.354Z"
 ---
 
 # § 1644. Grants to and contracts with the Service, Indian tribes, tribal organizations, and urban Indian organizations to facilitate outreach, enrollment, and coverage of Indians under Social Security Act health benefit programs and other health benefits programs

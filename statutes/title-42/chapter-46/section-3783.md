@@ -3,9 +3,9 @@ title: "Section 3783 - Transferred"
 usc_title: 42
 usc_section: "3783"
 chapter: 46
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 3783"
-generated_at: "2026-03-30T00:20:22.827Z"
+generated_at: "2026-03-30T00:22:52.678Z"
 ---
 
 # § 3783. Transferred

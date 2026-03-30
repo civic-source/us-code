@@ -3,9 +3,9 @@ title: "Section 5807 - Authorizations of appropriations"
 usc_title: 25
 usc_section: "5807"
 chapter: 50
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "25 U.S.C. § 5807"
-generated_at: "2026-03-30T00:19:08.589Z"
+generated_at: "2026-03-30T00:21:54.408Z"
 ---
 
 # § 5807. Authorizations of appropriations

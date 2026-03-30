@@ -3,9 +3,9 @@ title: "Section 9111 - License for ownership, construction, and operation of oce
 usc_title: 42
 usc_section: "9111"
 chapter: 99
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 9111"
-generated_at: "2026-03-30T00:20:22.993Z"
+generated_at: "2026-03-30T00:22:52.848Z"
 ---
 
 # § 9111. License for ownership, construction, and operation of ocean thermal energy conversion facilities or plantships

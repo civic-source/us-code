@@ -3,9 +3,9 @@ title: "Section 2312 - Effective dates"
 usc_title: 15
 usc_section: "2312"
 chapter: 50
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 2312"
-generated_at: "2026-03-30T00:18:28.144Z"
+generated_at: "2026-03-30T00:21:29.551Z"
 ---
 
 # § 2312. Effective dates

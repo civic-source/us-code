@@ -3,9 +3,9 @@ title: "Section 542c - Land use agreement"
 usc_title: 16
 usc_section: "542c"
 chapter: 2
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 542c"
-generated_at: "2026-03-30T00:18:47.428Z"
+generated_at: "2026-03-30T00:21:39.125Z"
 ---
 
 # § 542c. Land use agreement

@@ -3,9 +3,9 @@ title: "Section 513 - Contracts and personal services"
 usc_title: 38
 usc_section: "513"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "38 U.S.C. § 513"
-generated_at: "2026-03-30T00:20:03.412Z"
+generated_at: "2026-03-30T00:22:28.560Z"
 ---
 
 # § 513. Contracts and personal services

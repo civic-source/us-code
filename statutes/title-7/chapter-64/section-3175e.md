@@ -3,9 +3,9 @@ title: "Section 3175e - Authorization of appropriations"
 usc_title: 7
 usc_section: "3175e"
 chapter: 64
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "7 U.S.C. § 3175e"
-generated_at: "2026-03-30T00:18:20.007Z"
+generated_at: "2026-03-30T00:21:11.993Z"
 ---
 
 # § 3175e. Authorization of appropriations

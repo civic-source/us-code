@@ -3,18 +3,18 @@ title: "Section 45AA - Military spouse retirement plan eligibility credit for sm
 usc_title: 26
 usc_section: "45AA"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 45AA"
-generated_at: "2026-03-30T00:19:39.031Z"
+generated_at: "2026-03-30T00:22:16.673Z"
 ---
 
 # § 45AA. Military spouse retirement plan eligibility credit for small employers
 
 - **(a)** For purposes of section 38, in the case of any eligible small employer, the military spouse retirement plan eligibility credit determined under this section for any taxable year is an amount equal to the sum of—
   - **(1)** $200 with respect to each military spouse who is an employee of such employer and who participates in an eligible defined contribution plan of such employer at any time during such taxable year, plus
-  - **(2)** so much of the contributions made by such employer (other than an elective deferral (as defined in section 402(g)(3)) to all such plans with respect to such employee during such taxable year as do not exceed $300.
+  - **(2)** so much of the contributions made by such employer (other than an elective deferral (as defined in section 402(g)(3)) 1 1 So in original. Probably should be followed by another closing parenthesis. to all such plans with respect to such employee during such taxable year as do not exceed $300.
 - **(b)** An individual shall only be taken into account as a military spouse under subsection (a) for the taxable year which includes the date on which such individual began participating in the eligible defined contribution plan of the employer and the 2 succeeding taxable years.
-- **(c)** For purposes of this section, the term “eligible small employer” means an eligible employer (as defined in section 408(p)(2)(C)(i)(I). 1 1 So in original. Another closing parenthesis probably should precede the period.
+- **(c)** For purposes of this section, the term “eligible small employer” means an eligible employer (as defined in section 408(p)(2)(C)(i)(I). 2 2 So in original. Another closing parenthesis probably should precede the period.
 - **(d)** For purposes of this section—
   - **(1)** The term “military spouse” means, with respect to any employer, any individual who is married (within the meaning of section 7703 as of the first date that the employee is employed by the employer) to an individual who is a member of the uniformed services (as defined section 101(a)(5) of title 10 , United States Code) serving on active duty. For purposes of this section, an employer may rely on an employee’s certification that such employee’s spouse is a member of the uniformed services if such certification provides the name, rank, and service branch of such spouse.
   - **(2)** With respect to any employer, the term “military spouse” shall not include any individual if such individual is a highly compensated employee of such employer (within the meaning of section 414(q)).

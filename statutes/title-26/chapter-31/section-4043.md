@@ -3,9 +3,9 @@ title: "Section 4043 - Surtax on fuel used in aircraft part of a fractional owne
 usc_title: 26
 usc_section: "4043"
 chapter: 31
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 4043"
-generated_at: "2026-03-30T00:19:39.205Z"
+generated_at: "2026-03-30T00:22:16.854Z"
 ---
 
 # § 4043. Surtax on fuel used in aircraft part of a fractional ownership program
@@ -39,4 +39,4 @@ generated_at: "2026-03-30T00:19:39.205Z"
   - **(4)** The term “dry-lease aircraft exchange” means an agreement, documented by the written program agreements, under which the fractional program aircraft are available, on an as needed basis without crew, to each fractional owner.
   - **(5)** For purposes of subsection (a), a fractional program aircraft shall not be considered to be used for the transportation of a qualified fractional owner, or on account of such qualified fractional owner, when it is used for flight demonstration, maintenance, or crew training.
   - **(6)** A fractional program aircraft shall not be considered to be used on account of a qualified fractional owner when it is used in deadhead service and a person other than a qualified fractional owner is separately charged for such service.
-- **(d)** This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2023 .
+- **(d)** This section shall not apply to liquids used as a fuel in an aircraft after December 31, 2023 .

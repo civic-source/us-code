@@ -3,9 +3,9 @@ title: "Section 1262 - Transportation into State prohibiting sale"
 usc_title: 18
 usc_section: "1262"
 chapter: 59
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "18 U.S.C. § 1262"
-generated_at: "2026-03-30T00:18:53.174Z"
+generated_at: "2026-03-30T00:21:34.183Z"
 ---
 
 # § 1262. Transportation into State prohibiting sale

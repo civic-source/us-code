@@ -3,9 +3,9 @@ title: "Section 3351 - Modernizing Taiwan’s security capabilities to deter and
 usc_title: 22
 usc_section: "3351"
 chapter: 48
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 3351"
-generated_at: "2026-03-30T00:19:26.913Z"
+generated_at: "2026-03-30T00:22:05.772Z"
 ---
 
 # § 3351. Modernizing Taiwan’s security capabilities to deter and, if necessary, defeat aggression by the People’s Republic of China
@@ -85,7 +85,7 @@ generated_at: "2026-03-30T00:19:26.913Z"
         - **(III)** may include the costs of selling, reducing, or cancelling any amounts owed to the United States or to any agency of the United States.
       - **(ii)** Amounts authorized to be appropriated pursuant to subsection (g) may be made available to pay for the cost of loans authorized under subparagraph (A).
     - **(D)**
-      - **(i)** The Government of the United States may charge processing and origination fees for a loan made pursuant to subparagraph (A), not to exceed the cost to the Government of making such loan, which shall be collected from borrowers through a financing account (as defined in section 661a(7) of title 2 .
+      - **(i)** The Government of the United States may charge processing and origination fees for a loan made pursuant to subparagraph (A), not to exceed the cost to the Government of making such loan, which shall be collected from borrowers through a financing account (as defined in section 661a(7) of title 2 ).
       - **(ii)** Amounts made available under any appropriations Act for any fiscal year may not be used to pay any fees associated with a loan authorized under subparagraph (A).
     - **(E)** Loans made pursuant to subparagraph (A) shall be repaid not later than 12 years after the loan is received by the borrower, including a grace period of not more than 1 year on repayment of principal.
     - **(F)**
@@ -100,7 +100,7 @@ generated_at: "2026-03-30T00:19:26.913Z"
       - **(i)** another debt contracted by the borrower; or
       - **(ii)** any other claims against the borrower in the case of default.
     - **(D)** Repayment in United States dollars of any loan guaranteed under this paragraph shall be required not later than 12 years after the loan agreement is signed.
-    - **(E)** Notwithstanding section 24 of the Arms Export Control Act ( 22 U.S.C. 2764 ), the Government of the United States may charge processing and origination fees for a loan guarantee authorized under subparagraph (A), not to exceed the cost to the Government of such loan guarantee, which shall be collected from borrowers, or from third parties on behalf of such borrowers, through a financing account (as defined in section 661a(7) of title 2 .
+    - **(E)** Notwithstanding section 24 of the Arms Export Control Act ( 22 U.S.C. 2764 ), the Government of the United States may charge processing and origination fees for a loan guarantee authorized under subparagraph (A), not to exceed the cost to the Government of such loan guarantee, which shall be collected from borrowers, or from third parties on behalf of such borrowers, through a financing account (as defined in section 661a(7) of title 2 ).
     - **(F)** Amounts made available under this paragraph for the costs of loan guarantees authorized under subparagraph (A) shall not be considered assistance for the purposes of any statutory limitation on assistance to a country.
   - **(3)** Amounts authorized to be appropriated to carry out this subsection may not be expended without prior notification of the appropriate committees of Congress.
 - **(h)**

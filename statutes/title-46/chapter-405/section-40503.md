@@ -3,9 +3,9 @@ title: "Section 40503 - Refunds and waivers"
 usc_title: 46
 usc_section: "40503"
 chapter: 405
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "46 U.S.C. § 40503"
-generated_at: "2026-03-30T00:20:37.508Z"
+generated_at: "2026-03-30T00:23:02.749Z"
 ---
 
 # § 40503. Refunds and waivers

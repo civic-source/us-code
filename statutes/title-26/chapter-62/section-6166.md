@@ -3,9 +3,9 @@ title: "Section 6166 - Extension of time for payment of estate tax where estate 
 usc_title: 26
 usc_section: "6166"
 chapter: 62
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 6166"
-generated_at: "2026-03-30T00:19:39.253Z"
+generated_at: "2026-03-30T00:22:16.899Z"
 ---
 
 # § 6166. Extension of time for payment of estate tax where estate consists largely of interest in closely held business

@@ -3,9 +3,9 @@ title: "Section 4253 - Exemptions"
 usc_title: 26
 usc_section: "4253"
 chapter: 33
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 4253"
-generated_at: "2026-03-30T00:19:39.208Z"
+generated_at: "2026-03-30T00:22:16.857Z"
 ---
 
 # § 4253. Exemptions

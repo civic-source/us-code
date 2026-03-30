@@ -3,9 +3,9 @@ title: "Section 579b - Working capital fund; establishment; availability; transf
 usc_title: 16
 usc_section: "579b"
 chapter: 3
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 579b"
-generated_at: "2026-03-30T00:18:47.436Z"
+generated_at: "2026-03-30T00:21:39.132Z"
 ---
 
 # § 579b. Working capital fund; establishment; availability; transfer; capitalization; advance payments credited

@@ -3,9 +3,9 @@ title: "Section 2115 - Reports; correction of violations"
 usc_title: 44
 usc_section: "2115"
 chapter: 21
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "44 U.S.C. § 2115"
-generated_at: "2026-03-30T00:20:08.513Z"
+generated_at: "2026-03-30T00:22:30.585Z"
 ---
 
 # § 2115. Reports; correction of violations

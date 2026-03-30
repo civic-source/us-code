@@ -3,9 +3,9 @@ title: "Section 6454 - Responsibilities of Federal agency members"
 usc_title: 16
 usc_section: "6454"
 chapter: 83
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 6454"
-generated_at: "2026-03-30T00:18:47.585Z"
+generated_at: "2026-03-30T00:21:39.311Z"
 ---
 
 # § 6454. Responsibilities of Federal agency members

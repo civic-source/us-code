@@ -3,9 +3,9 @@ title: "Section 18742 - Advanced energy manufacturing and recycling grant progra
 usc_title: 42
 usc_section: "18742"
 chapter: 162
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 18742"
-generated_at: "2026-03-30T00:20:23.180Z"
+generated_at: "2026-03-30T00:22:53.037Z"
 ---
 
 # § 18742. Advanced energy manufacturing and recycling grant program

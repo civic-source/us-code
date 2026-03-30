@@ -3,9 +3,9 @@ title: "Section 7527 - Advance payment of credit for health insurance costs of e
 usc_title: 26
 usc_section: "7527"
 chapter: 77
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 7527"
-generated_at: "2026-03-30T00:19:39.287Z"
+generated_at: "2026-03-30T00:22:16.930Z"
 ---
 
 # § 7527. Advance payment of credit for health insurance costs of eligible individuals

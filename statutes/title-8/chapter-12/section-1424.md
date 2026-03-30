@@ -3,9 +3,9 @@ title: "Section 1424 - Prohibition upon the naturalization of persons opposed to
 usc_title: 8
 usc_section: "1424"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "8 U.S.C. § 1424"
-generated_at: "2026-03-30T00:18:02.676Z"
+generated_at: "2026-03-30T00:21:04.841Z"
 ---
 
 # § 1424. Prohibition upon the naturalization of persons opposed to government or law, or who favor totalitarian forms of government

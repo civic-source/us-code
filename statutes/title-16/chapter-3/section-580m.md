@@ -3,9 +3,9 @@ title: "Section 580m - Development of reservoir areas for future resources of ti
 usc_title: 16
 usc_section: "580m"
 chapter: 3
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 580m"
-generated_at: "2026-03-30T00:18:47.437Z"
+generated_at: "2026-03-30T00:21:39.133Z"
 ---
 
 # § 580m. Development of reservoir areas for future resources of timber; Congressional declaration of policy

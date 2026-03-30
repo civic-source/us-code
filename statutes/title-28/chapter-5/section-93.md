@@ -3,9 +3,9 @@ title: "Section 93 - Illinois"
 usc_title: 28
 usc_section: "93"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "28 U.S.C. § 93"
-generated_at: "2026-03-30T00:19:45.346Z"
+generated_at: "2026-03-30T00:22:09.171Z"
 ---
 
 # § 93. Illinois

@@ -3,9 +3,9 @@ title: "Section 4980G - Failure of employer to make comparable health savings ac
 usc_title: 26
 usc_section: "4980G"
 chapter: 43
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 4980G"
-generated_at: "2026-03-30T00:19:39.221Z"
+generated_at: "2026-03-30T00:22:16.870Z"
 ---
 
 # § 4980G. Failure of employer to make comparable health savings account contributions

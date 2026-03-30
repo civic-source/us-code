@@ -3,9 +3,9 @@ title: "Section 653 - Office of Rural Affairs"
 usc_title: 15
 usc_section: "653"
 chapter: 14
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 653"
-generated_at: "2026-03-30T00:18:28.072Z"
+generated_at: "2026-03-30T00:21:29.465Z"
 ---
 
 # § 653. Office of Rural Affairs

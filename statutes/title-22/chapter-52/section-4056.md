@@ -3,9 +3,9 @@ title: "Section 4056 - Creditable service"
 usc_title: 22
 usc_section: "4056"
 chapter: 52
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 4056"
-generated_at: "2026-03-30T00:19:26.926Z"
+generated_at: "2026-03-30T00:22:05.787Z"
 ---
 
 # § 4056. Creditable service
@@ -21,7 +21,7 @@ generated_at: "2026-03-30T00:19:26.926Z"
 - **(c)**
   - **(1)** A participant who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of Government employees may, within 60 days after entering on that leave without pay, file with the employing agency an election to receive full retirement credit for such periods of leave without pay and arrange to pay concurrently into the Fund through the employing agency, amounts equal to the retirement deductions and agency contributions on the Foreign Service salary rate that would be applicable if the participant were in a pay status. If the election and all payments provided by this subsection are not made for the periods of such leave without pay occurring after November 7, 1976 , the participant may not receive any credit for such periods of leave without pay occurring after such date.
   - **(2)** A participant may make a special contribution for any period or periods of approved leave without pay while serving before November 7, 1976 , as a full-time officer or employee of an organization composed primarily of Government employees. Any such contribution shall be based upon the suspended Foreign Service salary rate and shall be computed in accordance with section 4045 of this title . A participant who makes such contributions shall be allowed full retirement credit for the period or periods of leave without pay. If this contribution is not made, up to 6 months’ retirement credit shall be allowed for such periods of leave without pay each calendar year.
-- **(d)** 2 2 See Amendment of Section note below. A participant who has received a refund of retirement contributions (which has not been repaid) under this or any other retirement system for Government employees covering service which may be creditable may make a special contribution for such service under section 4045 of this title . Credit may not be allowed for service covered by the refund unless the special contribution is made.
+- **(d)** 1 A participant who has received a refund of retirement contributions (which has not been repaid) under this or any other retirement system for Government employees covering service which may be creditable may make a special contribution for such service under section 4045 of this title . Credit may not be allowed for service covered by the refund unless the special contribution is made.
 - **(e)** No credit in annuity computation shall be allowed for any period of civilian service for which a participant made retirement contributions to another retirement system for Government employees unless—
   - **(1)** the right to any annuity under the other system which is based on such service is waived, and
   - **(2)** a special contribution is made under section 4045 of this title covering such service.

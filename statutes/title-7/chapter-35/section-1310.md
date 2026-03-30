@@ -3,9 +3,9 @@ title: "Section 1310 - American agriculture protection program"
 usc_title: 7
 usc_section: "1310"
 chapter: 35
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "7 U.S.C. § 1310"
-generated_at: "2026-03-30T00:18:19.915Z"
+generated_at: "2026-03-30T00:21:11.901Z"
 ---
 
 # § 1310. American agriculture protection program

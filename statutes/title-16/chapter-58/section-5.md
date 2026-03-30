@@ -3,9 +3,9 @@ title: "Section 5 - Voluntary public access and habitat incentive program"
 usc_title: 16
 usc_section: "5"
 chapter: 58
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T00:18:47.562Z"
+generated_at: "2026-03-30T00:21:39.285Z"
 ---
 
 # § 3839bb–5. Voluntary public access and habitat incentive program

@@ -3,9 +3,9 @@ title: "Section 4402 - Definitions"
 usc_title: 16
 usc_section: "4402"
 chapter: 64
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 4402"
-generated_at: "2026-03-30T00:18:47.572Z"
+generated_at: "2026-03-30T00:21:39.297Z"
 ---
 
 # § 4402. Definitions

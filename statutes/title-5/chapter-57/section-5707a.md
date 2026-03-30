@@ -3,9 +3,9 @@ title: "Section 5707a - Adherence to fire safety guidelines in establishing rate
 usc_title: 5
 usc_section: "5707a"
 chapter: 57
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "5 U.S.C. § 5707a"
-generated_at: "2026-03-30T00:17:57.273Z"
+generated_at: "2026-03-30T00:20:59.750Z"
 ---
 
 # § 5707a. Adherence to fire safety guidelines in establishing rates and discounts for lodging expenses

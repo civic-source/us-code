@@ -3,9 +3,9 @@ title: "Section 2236 - Searches without warrant"
 usc_title: 18
 usc_section: "2236"
 chapter: 109
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "18 U.S.C. § 2236"
-generated_at: "2026-03-30T00:18:53.187Z"
+generated_at: "2026-03-30T00:21:34.194Z"
 ---
 
 # § 2236. Searches without warrant

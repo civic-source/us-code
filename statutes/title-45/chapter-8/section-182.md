@@ -3,9 +3,9 @@ title: "Section 182 - Duties, penalties, benefits, and privileges of subchapter 
 usc_title: 45
 usc_section: "182"
 chapter: 8
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "45 U.S.C. § 182"
-generated_at: "2026-03-30T00:20:05.458Z"
+generated_at: "2026-03-30T00:22:32.285Z"
 ---
 
 # § 182. Duties, penalties, benefits, and privileges of subchapter I applicable

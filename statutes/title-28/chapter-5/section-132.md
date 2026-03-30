@@ -3,9 +3,9 @@ title: "Section 132 - Creation and composition of district courts"
 usc_title: 28
 usc_section: "132"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "28 U.S.C. § 132"
-generated_at: "2026-03-30T00:19:45.347Z"
+generated_at: "2026-03-30T00:22:09.172Z"
 ---
 
 # § 132. Creation and composition of district courts

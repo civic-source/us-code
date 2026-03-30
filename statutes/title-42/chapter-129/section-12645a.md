@@ -3,9 +3,9 @@ title: "Section 12645a - Grant periods"
 usc_title: 42
 usc_section: "12645a"
 chapter: 129
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 12645a"
-generated_at: "2026-03-30T00:20:23.071Z"
+generated_at: "2026-03-30T00:22:52.928Z"
 ---
 
 # § 12645a. Grant periods

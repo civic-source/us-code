@@ -3,9 +3,9 @@ title: "Section 3308 - Information access by the Comptroller General of the Unit
 usc_title: 50
 usc_section: "3308"
 chapter: 45
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 3308"
-generated_at: "2026-03-30T00:20:29.414Z"
+generated_at: "2026-03-30T00:22:59.078Z"
 ---
 
 # § 3308. Information access by the Comptroller General of the United States

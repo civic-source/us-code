@@ -3,9 +3,9 @@ title: "Section 2056c - Sulfur content in drywall standard"
 usc_title: 15
 usc_section: "2056c"
 chapter: 47
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 2056c"
-generated_at: "2026-03-30T00:18:28.134Z"
+generated_at: "2026-03-30T00:21:29.539Z"
 ---
 
 # § 2056c. Sulfur content in drywall standard

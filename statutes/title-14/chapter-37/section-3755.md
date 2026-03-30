@@ -3,9 +3,9 @@ title: "Section 3755 - Appointment of a former Navy or Coast Guard officer"
 usc_title: 14
 usc_section: "3755"
 chapter: 37
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "14 U.S.C. § 3755"
-generated_at: "2026-03-30T00:18:33.435Z"
+generated_at: "2026-03-30T00:21:20.871Z"
 ---
 
 # § 3755. Appointment of a former Navy or Coast Guard officer

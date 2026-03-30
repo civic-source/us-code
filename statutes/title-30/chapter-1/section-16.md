@@ -3,9 +3,9 @@ title: "Section 16 - Research laboratory for utilization of anthracite coal; est
 usc_title: 30
 usc_section: "16"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "30 U.S.C. § 16"
-generated_at: "2026-03-30T00:19:29.548Z"
+generated_at: "2026-03-30T00:22:08.275Z"
 ---
 
 # § 16. Research laboratory for utilization of anthracite coal; establishment of advisory committee; composition; functions; appointment

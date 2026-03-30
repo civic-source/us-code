@@ -3,9 +3,9 @@ title: "Section 45104 - Testing and laboratory requirements"
 usc_title: 49
 usc_section: "45104"
 chapter: 451
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 45104"
-generated_at: "2026-03-30T00:20:32.923Z"
+generated_at: "2026-03-30T00:23:07.384Z"
 ---
 
 # § 45104. Testing and laboratory requirements

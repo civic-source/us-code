@@ -3,9 +3,9 @@ title: "Section 246 - Deprivation of relief benefits"
 usc_title: 18
 usc_section: "246"
 chapter: 13
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "18 U.S.C. § 246"
-generated_at: "2026-03-30T00:18:53.152Z"
+generated_at: "2026-03-30T00:21:34.162Z"
 ---
 
 # § 246. Deprivation of relief benefits

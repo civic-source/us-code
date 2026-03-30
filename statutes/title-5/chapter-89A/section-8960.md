@@ -3,9 +3,9 @@ title: "Section 8960 - Studies, reports, and audits"
 usc_title: 5
 usc_section: "8960"
 chapter: 89
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "5 U.S.C. § 8960"
-generated_at: "2026-03-30T00:17:57.310Z"
+generated_at: "2026-03-30T00:20:59.786Z"
 ---
 
 # § 8960. Studies, reports, and audits

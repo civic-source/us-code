@@ -3,9 +3,9 @@ title: "Section 4712 - Barter and countertrade"
 usc_title: 15
 usc_section: "4712"
 chapter: 73
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 4712"
-generated_at: "2026-03-30T00:18:28.178Z"
+generated_at: "2026-03-30T00:21:29.591Z"
 ---
 
 # § 4712. Barter and countertrade

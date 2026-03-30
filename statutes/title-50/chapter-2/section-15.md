@@ -3,9 +3,9 @@ title: "Section 15 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 50
 usc_section: "15"
 chapter: 2
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 15"
-generated_at: "2026-03-30T00:20:29.365Z"
+generated_at: "2026-03-30T00:22:59.026Z"
 ---
 
 # §§ 11 to 15. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

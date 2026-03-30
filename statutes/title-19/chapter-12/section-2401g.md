@@ -3,9 +3,9 @@ title: "Section 2401g - Authorization of appropriations"
 usc_title: 19
 usc_section: "2401g"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "19 U.S.C. § 2401g"
-generated_at: "2026-03-30T00:19:01.227Z"
+generated_at: "2026-03-30T00:21:40.987Z"
 ---
 
 # § 2401g. Authorization of appropriations

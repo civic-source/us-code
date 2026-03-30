@@ -3,9 +3,9 @@ title: "Section 1520 - Producer eligibility"
 usc_title: 7
 usc_section: "1520"
 chapter: 36
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "7 U.S.C. § 1520"
-generated_at: "2026-03-30T00:18:19.933Z"
+generated_at: "2026-03-30T00:21:11.922Z"
 ---
 
 # § 1520. Producer eligibility

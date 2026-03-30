@@ -3,9 +3,9 @@ title: "Section 4046 - Computation of annuities"
 usc_title: 22
 usc_section: "4046"
 chapter: 52
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 4046"
-generated_at: "2026-03-30T00:19:26.925Z"
+generated_at: "2026-03-30T00:22:05.786Z"
 ---
 
 # § 4046. Computation of annuities
@@ -35,7 +35,7 @@ generated_at: "2026-03-30T00:19:26.925Z"
       - **(ii)** Unless an affected special agent files an election described in clause (iv), creditable service by the affected special agent in a position described in clause (i)(I)(dd) shall be treated as creditable service as a special agent for purposes of this subchapter, including determining the amount to be deducted and withheld from the pay of the individual under section 4045 of this title .
       - **(iii)** Clause (ii) shall only apply if the special agent transitions to a position described in clause (i)(I)(dd) without a break in service exceeding 3 days.
       - **(iv)** The service of an affected employee shall no longer be eligible for treatment under clause (ii) if such service occurs after the employee is transferred to a supervisory or administrative position related to the activities of the former covered position of the employee.
-      - **(v)** In accordance with procedures established by the Secretary, an affected special agent may file an election to have any creditable service performed by the affected special agent treated in accordance with this subchapter, without regard to clause (ii).
+      - **(v)** In accordance with procedures established by the Secretary, an affected special agent may file an election to have any creditable service performed by the affected special agent treated in accordance with this part, without regard to clause (ii).
   - **(7)** In the case of a special agent who becomes or became subject to part II—
     - **(A)** for purposes of paragraph (6)(B), any service performed by the individual as a special agent (whether under this part or under part II), as a law enforcement officer (within the meaning of section 8331(20) or section 8401(17) of title 5 ), or as a member of the Capitol Police shall be creditable; and
     - **(B)** if the individual satisfies paragraph (6)(B), the portion of such individual’s annuity which is attributable to service under the Foreign Service Retirement and Disability System or the Civil Service Retirement System shall be computed in conformance with paragraph (6).

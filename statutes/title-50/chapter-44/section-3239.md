@@ -3,9 +3,9 @@ title: "Section 3239 - Requirement to buy certain satellite component from Ameri
 usc_title: 50
 usc_section: "3239"
 chapter: 44
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 3239"
-generated_at: "2026-03-30T00:20:29.414Z"
+generated_at: "2026-03-30T00:22:59.077Z"
 ---
 
 # § 3239. Requirement to buy certain satellite component from American sources

@@ -3,9 +3,9 @@ title: "Section 1019 - Definitions"
 usc_title: 20
 usc_section: "1019"
 chapter: 28
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "20 U.S.C. § 1019"
-generated_at: "2026-03-30T00:18:57.947Z"
+generated_at: "2026-03-30T00:21:49.822Z"
 ---
 
 # § 1019. Definitions

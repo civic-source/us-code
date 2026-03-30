@@ -3,9 +3,9 @@ title: "Section 6320 - Solid Start program"
 usc_title: 38
 usc_section: "6320"
 chapter: 63
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "38 U.S.C. § 6320"
-generated_at: "2026-03-30T00:20:03.470Z"
+generated_at: "2026-03-30T00:22:28.622Z"
 ---
 
 # § 6320. Solid Start program

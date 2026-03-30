@@ -3,9 +3,9 @@ title: "Section 3771 - Rights in technical data: regulations"
 usc_title: 10
 usc_section: "3771"
 chapter: 275
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 3771"
-generated_at: "2026-03-30T00:18:12.310Z"
+generated_at: "2026-03-30T00:21:16.877Z"
 ---
 
 # § 3771. Rights in technical data: regulations

@@ -3,9 +3,9 @@ title: "Section 55604 - Research on marine highway transportation"
 usc_title: 46
 usc_section: "55604"
 chapter: 556
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "46 U.S.C. § 55604"
-generated_at: "2026-03-30T00:20:37.523Z"
+generated_at: "2026-03-30T00:23:02.765Z"
 ---
 
 # § 55604. Research on marine highway transportation

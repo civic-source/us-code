@@ -3,9 +3,9 @@ title: "Section 356k - Platform technologies"
 usc_title: 21
 usc_section: "356k"
 chapter: 9
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "21 U.S.C. § 356k"
-generated_at: "2026-03-30T00:19:09.644Z"
+generated_at: "2026-03-30T00:21:55.484Z"
 ---
 
 # § 356k. Platform technologies
@@ -26,7 +26,7 @@ generated_at: "2026-03-30T00:19:09.644Z"
   - **(1)** engaging in early interactions with the sponsor to discuss the use of the designated platform technology and what is known about such technology, including data previously submitted that is relevant to establishing, as applicable, safety or efficacy under section 355(b) of this title or safety, purity, or potency under section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ];
   - **(2)** providing timely advice to, and interactive communication with, the sponsor regarding the development of the drug that proposes to use the designated platform technology to ensure that the development program designed to gather data necessary for approval or licensure is as efficient as practicable, which may include holding meetings with the sponsor and the review team throughout the development of the drug; and
   - **(3)** considering inspectional findings, including prior findings, related to the manufacture of a drug that incorporates or utilizes the designated platform technology.
-- **(f)** The Secretary shall, consistent with applicable standards for approval, authorization, or licensure under this chapter and section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ], allow the sponsor of an application under section 355(b) of this title or section 351(a) of the Public Health Service Act or a request for emergency use authorization under section 300bbb–3 of this title , in order to support approval, licensure, or authorization, to reference or rely upon data and information within an application or request for a drug or biological product that incorporates or utilizes the same platform technology designated under subsection (d), provided that—
+- **(f)** The Secretary shall, consistent with applicable standards for approval, authorization, or licensure under this chapter and section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ], allow the sponsor of an application under section 355(b) of this title or section 351(a) of the Public Health Service Act or a request for emergency use authorization under section 360bbb–3 of this title , in order to support approval, licensure, or authorization, to reference or rely upon data and information within an application or request for a drug or biological product that incorporates or utilizes the same platform technology designated under subsection (d), provided that—
   - **(1)** such data and information was submitted by the same sponsor, pursuant to the application for the drug with respect to which designation of the designated platform technology under subsection (d) was granted; or
   - **(2)** the sponsor relying on such data and information received a right of reference to such data and information from the sponsor described in paragraph (1).
 - **(g)** A sponsor of more than one application approved under section 355(b) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ] for drugs that incorporate or utilize a designated platform technology may submit a single supplemental application for proposed changes to the designated platform technology that may be applicable to more than one such drug that incorporates or utilizes the same designated platform technology. Such supplemental application may cross-reference data and information submitted in other applications and may include one or more comparability protocols regarding how such changes to the platform technology would be made for each applicable drug or biological product.

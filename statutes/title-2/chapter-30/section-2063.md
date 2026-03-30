@@ -3,9 +3,9 @@ title: "Section 2063 - Senate Employee Child Care Center"
 usc_title: 2
 usc_section: "2063"
 chapter: 30
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "2 U.S.C. § 2063"
-generated_at: "2026-03-30T00:17:40.334Z"
+generated_at: "2026-03-30T00:20:57.397Z"
 ---
 
 # § 2063. Senate Employee Child Care Center

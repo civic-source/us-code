@@ -3,9 +3,9 @@ title: "Section 1760 - Members’ meetings"
 usc_title: 12
 usc_section: "1760"
 chapter: 14
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 1760"
-generated_at: "2026-03-30T00:18:37.628Z"
+generated_at: "2026-03-30T00:21:26.493Z"
 ---
 
 # § 1760. Members’ meetings

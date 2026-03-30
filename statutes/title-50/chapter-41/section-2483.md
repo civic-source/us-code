@@ -3,9 +3,9 @@ title: "Section 2483 - Repealed. Pub. L. 112–239, div. C, title XXXI, § 3132(
 usc_title: 50
 usc_section: "2483"
 chapter: 41
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 2483"
-generated_at: "2026-03-30T00:20:29.391Z"
+generated_at: "2026-03-30T00:22:59.055Z"
 ---
 
 # §§ 2482, 2483. Repealed. Pub. L. 112–239, div. C, title XXXI, § 3132(c)(1)(B) , (C), Jan. 2, 2013 , 126 Stat. 2186 , 2187

@@ -3,9 +3,9 @@ title: "Section 1513 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(4),
 usc_title: 22
 usc_section: "1513"
 chapter: 19
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 1513"
-generated_at: "2026-03-30T00:19:26.855Z"
+generated_at: "2026-03-30T00:22:05.711Z"
 ---
 
 # §§ 1507 to 1513. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(4), (6), (9)–(11), 68 Stat. 861

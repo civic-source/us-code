@@ -3,9 +3,9 @@ title: "Section 200104 - Consultations of Secretary with administrative officers
 usc_title: 54
 usc_section: "200104"
 chapter: 2001
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "54 U.S.C. § 200104"
-generated_at: "2026-03-30T00:20:42.019Z"
+generated_at: "2026-03-30T00:23:29.580Z"
 ---
 
 # § 200104. Consultations of Secretary with administrative officers; execution of administrative responsibilities in conformity with nationwide plan

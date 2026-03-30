@@ -3,9 +3,9 @@ title: "Section 12202 - State immunity"
 usc_title: 42
 usc_section: "12202"
 chapter: 126
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 12202"
-generated_at: "2026-03-30T00:20:23.058Z"
+generated_at: "2026-03-30T00:22:52.915Z"
 ---
 
 # § 12202. State immunity

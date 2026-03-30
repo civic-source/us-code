@@ -3,9 +3,9 @@ title: "Section 2736 - Property loss; personal injury or death: advance payment"
 usc_title: 10
 usc_section: "2736"
 chapter: 163
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 2736"
-generated_at: "2026-03-30T00:18:12.289Z"
+generated_at: "2026-03-30T00:21:16.857Z"
 ---
 
 # § 2736. Property loss; personal injury or death: advance payment

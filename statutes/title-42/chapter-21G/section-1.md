@@ -3,9 +3,9 @@ title: "Section 1 - Nondiscrimination with regard to reasonable accommodations r
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T00:20:22.773Z"
+generated_at: "2026-03-30T00:22:52.623Z"
 ---
 
 # § 2000gg–1. Nondiscrimination with regard to reasonable accommodations related to pregnancy

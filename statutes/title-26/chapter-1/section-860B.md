@@ -3,9 +3,9 @@ title: "Section 860B - Taxation of holders of regular interests"
 usc_title: 26
 usc_section: "860B"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 860B"
-generated_at: "2026-03-30T00:19:39.147Z"
+generated_at: "2026-03-30T00:22:16.792Z"
 ---
 
 # § 860B. Taxation of holders of regular interests

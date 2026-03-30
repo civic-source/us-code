@@ -3,9 +3,9 @@ title: "Section 3513 - Misuse of Agency name, initials, or seal"
 usc_title: 50
 usc_section: "3513"
 chapter: 46
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 3513"
-generated_at: "2026-03-30T00:20:29.425Z"
+generated_at: "2026-03-30T00:22:59.089Z"
 ---
 
 # § 3513. Misuse of Agency name, initials, or seal

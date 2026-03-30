@@ -3,9 +3,9 @@ title: "Section 402 - Taxability of beneficiary of employees’ trust"
 usc_title: 26
 usc_section: "402"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 402"
-generated_at: "2026-03-30T00:19:39.091Z"
+generated_at: "2026-03-30T00:22:16.734Z"
 ---
 
 # § 402. Taxability of beneficiary of employees’ trust
@@ -85,7 +85,7 @@ generated_at: "2026-03-30T00:19:39.091Z"
     - **(A)**
       - **(i)** Any individual who received a qualified distribution may, during the applicable period, make one or more contributions in an aggregate amount not to exceed the amount of such qualified distribution to an eligible retirement plan (as defined in paragraph (8)(B)) of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under subsection (c) or section 403(a)(4), 403(b)(8), or 408(d)(3), as the case may be.
       - **(ii)** Rules similar to the rules of clauses (ii) and (iii) of section 72(t)(11)(C) shall apply for purposes of this subsection.
-    - **(B)** For purposes of this paragraph, the term ‘qualified distribution’ means any distribution—
+    - **(B)** For purposes of this paragraph, the term “qualified distribution” means any distribution—
       - **(i)** described in section 401(k)(2)(B)(i)(IV), 403(b)(7)(A)(i)(V), or 403(b)(11)(B),
       - **(ii)** which was to be used to purchase or construct a principal residence in a qualified disaster area, but which was not so used on account of the qualified disaster with respect to such area, and
       - **(iii)** which was received during the period beginning on the date which is 180 days before the first day of the incident period of such qualified disaster and ending on the date which is 30 days after the last day of such incident period.

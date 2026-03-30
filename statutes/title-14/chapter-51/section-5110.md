@@ -3,9 +3,9 @@ title: "Section 5110 - Mission need statement"
 usc_title: 14
 usc_section: "5110"
 chapter: 51
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "14 U.S.C. § 5110"
-generated_at: "2026-03-30T00:18:33.437Z"
+generated_at: "2026-03-30T00:21:20.872Z"
 ---
 
 # § 5110. Mission need statement

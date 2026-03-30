@@ -3,9 +3,9 @@ title: "Section 1609 - National Forest System"
 usc_title: 16
 usc_section: "1609"
 chapter: 36
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 1609"
-generated_at: "2026-03-30T00:18:47.520Z"
+generated_at: "2026-03-30T00:21:39.233Z"
 ---
 
 # § 1609. National Forest System

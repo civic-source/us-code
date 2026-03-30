@@ -3,9 +3,9 @@ title: "Section 1 - Strategic and Critical Materials Board of Directors"
 usc_title: 50
 usc_section: "1"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-03-30T00:20:29.366Z"
+generated_at: "2026-03-30T00:22:59.027Z"
 ---
 
 # § 98h–1. Strategic and Critical Materials Board of Directors

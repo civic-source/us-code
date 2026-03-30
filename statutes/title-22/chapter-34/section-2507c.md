@@ -3,9 +3,9 @@ title: "Section 2507c - Office of Victim Advocacy"
 usc_title: 22
 usc_section: "2507c"
 chapter: 34
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 2507c"
-generated_at: "2026-03-30T00:19:26.891Z"
+generated_at: "2026-03-30T00:22:05.750Z"
 ---
 
 # § 2507c. Office of Victim Advocacy

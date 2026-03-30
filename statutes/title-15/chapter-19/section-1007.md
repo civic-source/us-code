@@ -3,9 +3,9 @@ title: "Section 1007 - Penalties"
 usc_title: 15
 usc_section: "1007"
 chapter: 19
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 1007"
-generated_at: "2026-03-30T00:18:28.092Z"
+generated_at: "2026-03-30T00:21:29.489Z"
 ---
 
 # § 1007. Penalties

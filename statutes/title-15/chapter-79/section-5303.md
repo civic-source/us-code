@@ -3,9 +3,9 @@ title: "Section 5303 - Establishment of program"
 usc_title: 15
 usc_section: "5303"
 chapter: 79
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 5303"
-generated_at: "2026-03-30T00:18:28.181Z"
+generated_at: "2026-03-30T00:21:29.595Z"
 ---
 
 # § 5303. Establishment of program

@@ -3,9 +3,9 @@ title: "Section 267 - Time for taking action in Government applications"
 usc_title: 35
 usc_section: "267"
 chapter: 27
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "35 U.S.C. § 267"
-generated_at: "2026-03-30T00:19:51.323Z"
+generated_at: "2026-03-30T00:22:18.902Z"
 ---
 
 # § 267. Time for taking action in Government applications

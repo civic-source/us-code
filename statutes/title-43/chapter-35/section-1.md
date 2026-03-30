@@ -3,9 +3,9 @@ title: "Section 1 - Wildfire technology modernization"
 usc_title: 43
 usc_section: "1"
 chapter: 35
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T00:20:08.095Z"
+generated_at: "2026-03-30T00:22:31.537Z"
 ---
 
 # § 1748b–1. Wildfire technology modernization

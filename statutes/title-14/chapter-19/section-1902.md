@@ -3,9 +3,9 @@ title: "Section 1902 - Policy on sexual harassment and sexual violence"
 usc_title: 14
 usc_section: "1902"
 chapter: 19
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "14 U.S.C. § 1902"
-generated_at: "2026-03-30T00:18:33.428Z"
+generated_at: "2026-03-30T00:21:20.863Z"
 ---
 
 # § 1902. Policy on sexual harassment and sexual violence

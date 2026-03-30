@@ -3,9 +3,9 @@ title: "Section 7607 - Administrative proceedings and judicial review"
 usc_title: 42
 usc_section: "7607"
 chapter: 85
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 7607"
-generated_at: "2026-03-30T00:20:22.958Z"
+generated_at: "2026-03-30T00:22:52.815Z"
 ---
 
 # § 7607. Administrative proceedings and judicial review

@@ -3,9 +3,9 @@ title: "Section 13340 - Low-rank coal research and development"
 usc_title: 42
 usc_section: "13340"
 chapter: 134
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 13340"
-generated_at: "2026-03-30T00:20:23.091Z"
+generated_at: "2026-03-30T00:22:52.947Z"
 ---
 
 # § 13340. Low-rank coal research and development

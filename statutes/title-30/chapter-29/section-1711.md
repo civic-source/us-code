@@ -3,9 +3,9 @@ title: "Section 1711 - Duties of Secretary"
 usc_title: 30
 usc_section: "1711"
 chapter: 29
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "30 U.S.C. § 1711"
-generated_at: "2026-03-30T00:19:29.585Z"
+generated_at: "2026-03-30T00:22:08.311Z"
 ---
 
 # § 1711. Duties of Secretary

@@ -3,9 +3,9 @@ title: "Section 9277 - Medal of honor; Air Force cross; distinguished-service cr
 usc_title: 10
 usc_section: "9277"
 chapter: 937
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 9277"
-generated_at: "2026-03-30T00:18:12.354Z"
+generated_at: "2026-03-30T00:21:17.027Z"
 ---
 
 # § 9277. Medal of honor; Air Force cross; distinguished-service cross; distinguished-service medal; silver star: replacement

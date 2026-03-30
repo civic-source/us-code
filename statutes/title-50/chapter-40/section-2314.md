@@ -3,9 +3,9 @@ title: "Section 2314 - Chemical, biological, radiological, nuclear, and high-yie
 usc_title: 50
 usc_section: "2314"
 chapter: 40
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 2314"
-generated_at: "2026-03-30T00:20:29.388Z"
+generated_at: "2026-03-30T00:22:59.051Z"
 ---
 
 # § 2314. Chemical, biological, radiological, nuclear, and high-yield explosives response team

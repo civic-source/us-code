@@ -3,9 +3,9 @@ title: "Section 7229 - Command: commissioned officers of Army Medical Department
 usc_title: 10
 usc_section: "7229"
 chapter: 725
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 7229"
-generated_at: "2026-03-30T00:18:12.332Z"
+generated_at: "2026-03-30T00:21:16.898Z"
 ---
 
 # § 7229. Command: commissioned officers of Army Medical Department

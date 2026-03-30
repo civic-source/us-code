@@ -3,9 +3,9 @@ title: "Section 305a - Special pay: career sea pay"
 usc_title: 37
 usc_section: "305a"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "37 U.S.C. § 305a"
-generated_at: "2026-03-30T00:19:55.804Z"
+generated_at: "2026-03-30T00:22:25.575Z"
 ---
 
 # § 305a. Special pay: career sea pay

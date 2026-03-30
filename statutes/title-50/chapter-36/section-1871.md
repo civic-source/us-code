@@ -3,9 +3,9 @@ title: "Section 1871 - Semiannual report of the Attorney General"
 usc_title: 50
 usc_section: "1871"
 chapter: 36
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 1871"
-generated_at: "2026-03-30T00:20:29.379Z"
+generated_at: "2026-03-30T00:22:59.040Z"
 ---
 
 # § 1871. Semiannual report of the Attorney General

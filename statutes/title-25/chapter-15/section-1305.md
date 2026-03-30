@@ -3,9 +3,9 @@ title: "Section 1305 - Tribal jurisdiction in Alaska"
 usc_title: 25
 usc_section: "1305"
 chapter: 15
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "25 U.S.C. § 1305"
-generated_at: "2026-03-30T00:19:08.526Z"
+generated_at: "2026-03-30T00:21:54.345Z"
 ---
 
 # § 1305. Tribal jurisdiction in Alaska
@@ -72,7 +72,7 @@ generated_at: "2026-03-30T00:19:08.526Z"
     - **(A)** improving the justice systems, crime prevention, and victim services of Indian tribes and the State; and
     - **(B)** increasing coordination and communication among Federal, Tribal, State, and local law enforcement agencies.
   - **(4)** A member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Committee.
-  - **(5)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+  - **(5)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Committee.
   - **(6)** There are authorized to be appropriated to carry out this subsection such sums as may be necessary for the period of fiscal years 2023 through 2027, to remain available until expended.
 - **(h)** Not later than 5 years after March 15, 2022 , the Attorney General, in consultation with the Secretary of the Interior and affected Indian tribes, shall submit to Congress a report describing the results of the pilot program, including an explanation of any modifications to law necessary to facilitate improved law enforcement in Villages.
 - **(i)** Nothing in this subtitle—

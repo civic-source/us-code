@@ -3,9 +3,9 @@ title: "Section 8479 - Midshipmen: charges and fees for attendance; limitation"
 usc_title: 10
 usc_section: "8479"
 chapter: 853
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 8479"
-generated_at: "2026-03-30T00:18:12.343Z"
+generated_at: "2026-03-30T00:21:16.916Z"
 ---
 
 # § 8479. Midshipmen: charges and fees for attendance; limitation

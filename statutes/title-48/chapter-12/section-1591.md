@@ -3,9 +3,9 @@ title: "Section 1591 - Governor and Lieutenant Governor; election; eligibility; 
 usc_title: 48
 usc_section: "1591"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "48 U.S.C. § 1591"
-generated_at: "2026-03-30T00:20:26.312Z"
+generated_at: "2026-03-30T00:22:59.586Z"
 ---
 
 # § 1591. Governor and Lieutenant Governor; election; eligibility; official residence; powers and duties; report

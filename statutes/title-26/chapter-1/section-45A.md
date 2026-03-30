@@ -3,9 +3,9 @@ title: "Section 45A - Indian employment credit"
 usc_title: 26
 usc_section: "45A"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 45A"
-generated_at: "2026-03-30T00:19:39.023Z"
+generated_at: "2026-03-30T00:22:16.666Z"
 ---
 
 # § 45A. Indian employment credit

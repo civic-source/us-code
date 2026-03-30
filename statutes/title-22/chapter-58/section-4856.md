@@ -3,9 +3,9 @@ title: "Section 4856 - Efficiency in contracting"
 usc_title: 22
 usc_section: "4856"
 chapter: 58
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 4856"
-generated_at: "2026-03-30T00:19:26.938Z"
+generated_at: "2026-03-30T00:22:05.799Z"
 ---
 
 # § 4856. Efficiency in contracting

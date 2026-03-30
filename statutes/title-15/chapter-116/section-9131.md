@@ -3,9 +3,9 @@ title: "Section 9131 - Definitions"
 usc_title: 15
 usc_section: "9131"
 chapter: 116
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 9131"
-generated_at: "2026-03-30T00:18:28.224Z"
+generated_at: "2026-03-30T00:21:29.646Z"
 ---
 
 # § 9131. Definitions

@@ -3,9 +3,9 @@ title: "Section 231 - Restriction of access by minors to materials commercially 
 usc_title: 47
 usc_section: "231"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "47 U.S.C. § 231"
-generated_at: "2026-03-30T00:20:27.385Z"
+generated_at: "2026-03-30T00:23:16.643Z"
 ---
 
 # § 231. Restriction of access by minors to materials commercially distributed by means of World Wide Web that are harmful to minors

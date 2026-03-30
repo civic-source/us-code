@@ -3,9 +3,9 @@ title: "Section 5110 - Background checks of loan originators"
 usc_title: 12
 usc_section: "5110"
 chapter: 51
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 5110"
-generated_at: "2026-03-30T00:18:37.717Z"
+generated_at: "2026-03-30T00:21:26.596Z"
 ---
 
 # § 5110. Background checks of loan originators

@@ -3,9 +3,9 @@ title: "Section 552b - Open meetings"
 usc_title: 5
 usc_section: "552b"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "5 U.S.C. § 552b"
-generated_at: "2026-03-30T00:17:57.242Z"
+generated_at: "2026-03-30T00:20:59.722Z"
 ---
 
 # § 552b. Open meetings

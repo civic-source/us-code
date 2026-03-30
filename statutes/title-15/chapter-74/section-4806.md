@@ -3,9 +3,9 @@ title: "Section 4806 - Powers of Council"
 usc_title: 15
 usc_section: "4806"
 chapter: 74
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 4806"
-generated_at: "2026-03-30T00:18:28.180Z"
+generated_at: "2026-03-30T00:21:29.594Z"
 ---
 
 # § 4806. Powers of Council

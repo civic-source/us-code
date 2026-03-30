@@ -3,9 +3,9 @@ title: "Section 20703 - Demand for records or papers by Attorney General or repr
 usc_title: 52
 usc_section: "20703"
 chapter: 207
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "52 U.S.C. § 20703"
-generated_at: "2026-03-30T00:20:39.418Z"
+generated_at: "2026-03-30T00:23:22.386Z"
 ---
 
 # § 20703. Demand for records or papers by Attorney General or representative; statement of basis and purpose

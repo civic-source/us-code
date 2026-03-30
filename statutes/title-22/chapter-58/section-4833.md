@@ -1,14 +1,14 @@
 ---
-title: "Section 4833 - Serious security incident investigation process"
+title: "Section 4833 - Serious Security Incident investigation process"
 usc_title: 22
 usc_section: "4833"
 chapter: 58
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 4833"
-generated_at: "2026-03-30T00:19:26.938Z"
+generated_at: "2026-03-30T00:22:05.798Z"
 ---
 
-# § 4833. Serious security incident investigation process
+# § 4833. Serious Security Incident investigation process
 
 - **(a)**
   - **(1)** A United States mission shall submit an initial report of a Serious Security Incident not later than 3 days after such incident occurs, whenever feasible, at which time an investigation of the incident shall be initiated.

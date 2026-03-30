@@ -3,9 +3,9 @@ title: "Section 2737 - Department of State paid Student Internship Program"
 usc_title: 22
 usc_section: "2737"
 chapter: 38
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 2737"
-generated_at: "2026-03-30T00:19:26.905Z"
+generated_at: "2026-03-30T00:22:05.762Z"
 ---
 
 # § 2737. Department of State paid Student Internship Program
@@ -26,7 +26,7 @@ generated_at: "2026-03-30T00:19:26.905Z"
     - **(C)** through other outreach and recruiting initiatives targeting undergraduate and graduate students; and
   - **(2)** conduct targeted outreach to encourage participation in the Program from—
     - **(A)** individuals belonging to an underrepresented group; and
-    - **(B)** students enrolled at minority-serving institutions (which shall include any institution listed in section 1067q(a) of title 20 .
+    - **(B)** students enrolled at minority-serving institutions (which shall include any institution listed in section 1067q(a) of title 20 ).
 - **(e)**
   - **(1)**
     - **(A)** The Secretary shall provide housing assistance to any student participating in the Program whose permanent address is within the United States if the location of the internship in which such student is participating is outside of the United States.

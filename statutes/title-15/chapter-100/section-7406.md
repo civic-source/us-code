@@ -3,9 +3,9 @@ title: "Section 7406 - National Institute of Standards and Technology programs"
 usc_title: 15
 usc_section: "7406"
 chapter: 100
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 7406"
-generated_at: "2026-03-30T00:18:28.199Z"
+generated_at: "2026-03-30T00:21:29.616Z"
 ---
 
 # § 7406. National Institute of Standards and Technology programs

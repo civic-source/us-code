@@ -1,14 +1,14 @@
 ---
-title: "Section 7103b - United States Advisory Council on Human Trafficking"
+title: "Section 7103b - Survivors of Human Trafficking Empowerment Act"
 usc_title: 22
 usc_section: "7103b"
 chapter: 78
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 7103b"
-generated_at: "2026-03-30T00:19:26.959Z"
+generated_at: "2026-03-30T00:22:05.823Z"
 ---
 
-# § 7103b. United States Advisory Council on Human Trafficking
+# § 7103b. Survivors of Human Trafficking Empowerment Act
 
 - **(a)** This section may be cited as the “Survivors of Human Trafficking Empowerment Act”.
 - **(b)** There is established the United States Advisory Council on Human Trafficking (referred to in this section as the “Council”), which shall provide advice and recommendations to the Senior Policy Operating Group established under section 7103(g) of this title (referred to in this section as the “Group”) and the President’s Interagency Task Force to Monitor and Combat Trafficking established under section 7103(a) of such title (referred to in this section as the “Task Force”).
@@ -33,4 +33,4 @@ generated_at: "2026-03-30T00:19:26.959Z"
   - **(1)** shall not be considered employees of the Federal Government for any purpose;
   - **(2)** shall receive travel expenses, including per diem in lieu of subsistence, in accordance with the applicable provisions under subchapter I of chapter 57 of title 5; and
   - **(3)** may each receive compensation for each day such member is engaged in the actual performance of the duties of the Council.
-- **(g)** The Council shall not be subject to the requirements under the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(g)** The Council shall not be subject to the requirements under the Federal Advisory Committee Act (5 U.S.C. App.). 1

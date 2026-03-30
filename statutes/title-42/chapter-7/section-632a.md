@@ -3,9 +3,9 @@ title: "Section 632a - Omitted"
 usc_title: 42
 usc_section: "632a"
 chapter: 7
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 632a"
-generated_at: "2026-03-30T00:20:22.500Z"
+generated_at: "2026-03-30T00:22:52.347Z"
 ---
 
 # § 632a. Omitted

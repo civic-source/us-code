@@ -3,9 +3,9 @@ title: "Section 7447 - Retirement"
 usc_title: 26
 usc_section: "7447"
 chapter: 76
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 7447"
-generated_at: "2026-03-30T00:19:39.282Z"
+generated_at: "2026-03-30T00:22:16.925Z"
 ---
 
 # § 7447. Retirement
@@ -79,4 +79,4 @@ generated_at: "2026-03-30T00:19:39.282Z"
     - **(D)** The provisions of section 8351(b)(5) of title 5 , United States Code, shall apply with respect to a judge who makes an election under paragraph (1).
     - **(E)** Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge’s nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
     - **(F)** In the case of a judge who receives a distribution from the Thrift Savings Plan and who later receives retired pay under subsection (d), the retired pay shall be offset by an amount equal to the amount of the distribution which represents the Government’s contribution to the individual’s Thrift Savings Account during years of service as a full-time judicial officer under the Federal Employees Retirement System, without regard to earnings attributable to such amount. Where such an offset would exceed 50 percent of the retired pay to be received in the first year, the offset may be divided equally over the first 2 years in which the individual receives the annuity.
-- **(k)** For purposes of the limitation under section 501(a) of the Ethics in Government Act of 1978 (5 U.S.C. App.), any compensation for teaching approved under section 502(a)(5) of such Act shall not be treated as outside earned income when received by a judge of the United States Tax Court who has retired under subsection (b) for teaching performed during any calendar year for which such a judge has met the requirements of subsection (c), as certified by the chief judge, or has retired under subsection (b)(4).
+- **(k)** For purposes of the limitation under section 501(a) of the Ethics in Government Act of 1978 (5 U.S.C. App.), 1 1 See References in Text note below. any compensation for teaching approved under section 502(a)(5) of such Act shall not be treated as outside earned income when received by a judge of the United States Tax Court who has retired under subsection (b) for teaching performed during any calendar year for which such a judge has met the requirements of subsection (c), as certified by the chief judge, or has retired under subsection (b)(4).

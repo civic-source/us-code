@@ -3,9 +3,9 @@ title: "Section 9406 - Program authorized"
 usc_title: 20
 usc_section: "9406"
 chapter: 75
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "20 U.S.C. § 9406"
-generated_at: "2026-03-30T00:18:58.080Z"
+generated_at: "2026-03-30T00:21:49.953Z"
 ---
 
 # § 9406. Program authorized

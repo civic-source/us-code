@@ -3,9 +3,9 @@ title: "Section 53516 - Termination of agreement after change in regulations"
 usc_title: 46
 usc_section: "53516"
 chapter: 535
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "46 U.S.C. § 53516"
-generated_at: "2026-03-30T00:20:37.519Z"
+generated_at: "2026-03-30T00:23:02.760Z"
 ---
 
 # § 53516. Termination of agreement after change in regulations

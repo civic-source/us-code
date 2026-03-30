@@ -3,9 +3,9 @@ title: "Section 24308 - Use of facilities and providing services to Amtrak"
 usc_title: 49
 usc_section: "24308"
 chapter: 243
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 24308"
-generated_at: "2026-03-30T00:20:32.876Z"
+generated_at: "2026-03-30T00:23:07.333Z"
 ---
 
 # § 24308. Use of facilities and providing services to Amtrak

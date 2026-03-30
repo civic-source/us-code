@@ -3,9 +3,9 @@ title: "Section 811 - Authority and criteria for classification of substances"
 usc_title: 21
 usc_section: "811"
 chapter: 13
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "21 U.S.C. § 811"
-generated_at: "2026-03-30T00:19:09.692Z"
+generated_at: "2026-03-30T00:21:55.532Z"
 ---
 
 # § 811. Authority and criteria for classification of substances

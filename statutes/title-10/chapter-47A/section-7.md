@@ -3,9 +3,9 @@ title: "Section 7 - Introduction of classified information into evidence"
 usc_title: 10
 usc_section: "7"
 chapter: 47
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 7"
-generated_at: "2026-03-30T00:18:12.212Z"
+generated_at: "2026-03-30T00:21:16.781Z"
 ---
 
 # § 949p–7. Introduction of classified information into evidence

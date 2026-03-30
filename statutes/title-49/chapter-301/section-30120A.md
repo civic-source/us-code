@@ -3,9 +3,9 @@ title: "Section 30120A - Recall obligations and bankruptcy of a manufacturer"
 usc_title: 49
 usc_section: "30120A"
 chapter: 301
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 30120A"
-generated_at: "2026-03-30T00:20:32.883Z"
+generated_at: "2026-03-30T00:23:07.342Z"
 ---
 
 # § 30120A. Recall obligations and bankruptcy of a manufacturer

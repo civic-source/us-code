@@ -3,9 +3,9 @@ title: "Section 1639e - Appraisal independence requirements"
 usc_title: 15
 usc_section: "1639e"
 chapter: 41
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 1639e"
-generated_at: "2026-03-30T00:18:28.115Z"
+generated_at: "2026-03-30T00:21:29.515Z"
 ---
 
 # § 1639e. Appraisal independence requirements

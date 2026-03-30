@@ -3,9 +3,9 @@ title: "Section 81h - Civil and criminal jurisdiction; legislative authority of 
 usc_title: 16
 usc_section: "81h"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 81h"
-generated_at: "2026-03-30T00:18:47.317Z"
+generated_at: "2026-03-30T00:21:38.988Z"
 ---
 
 # § 81h. Civil and criminal jurisdiction; legislative authority of State over park

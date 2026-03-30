@@ -3,9 +3,9 @@ title: "Section 352 - Misbranded drugs and devices"
 usc_title: 21
 usc_section: "352"
 chapter: 9
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "21 U.S.C. § 352"
-generated_at: "2026-03-30T00:19:09.632Z"
+generated_at: "2026-03-30T00:21:55.470Z"
 ---
 
 # § 352. Misbranded drugs and devices
@@ -85,7 +85,7 @@ A drug or device shall be deemed to be misbranded—
   - **(2)** For purposes of this paragraph, the term “product information” includes—
     - **(A)** information describing the drug or device (such as drug class, device description, and features);
     - **(B)** information about the indication or indications being investigated;
-    - **(C)** the anticipated timeline for a possible approval, clearance, marketing authorization, or licensure pursuant to section 355, 360(k), 360c, or 360e of this title or section 351262 of title 42 ;
+    - **(C)** the anticipated timeline for a possible approval, clearance, marketing authorization, or licensure pursuant to section 355, 360(k), 360c, or 360e of this title or section 262 of title 42 ;
     - **(D)** drug or device pricing information;
     - **(E)** patient utilization projections;
     - **(F)** product-related programs or services; and

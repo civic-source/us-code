@@ -3,9 +3,9 @@ title: "Section 153510 - Statement required in audit report"
 usc_title: 36
 usc_section: "153510"
 chapter: 1535
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "36 U.S.C. § 153510"
-generated_at: "2026-03-30T00:19:56.610Z"
+generated_at: "2026-03-30T00:22:26.286Z"
 ---
 
 # § 153510. Statement required in audit report

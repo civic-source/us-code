@@ -3,9 +3,9 @@ title: "Section 1251a - Repealed. Pub. L. 87–301, § 24(a)(3) , Sept. 26, 1961
 usc_title: 8
 usc_section: "1251a"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "8 U.S.C. § 1251a"
-generated_at: "2026-03-30T00:18:02.665Z"
+generated_at: "2026-03-30T00:21:04.828Z"
 ---
 
 # § 1251a. Repealed. Pub. L. 87–301, § 24(a)(3) , Sept. 26, 1961 , 75 Stat. 657

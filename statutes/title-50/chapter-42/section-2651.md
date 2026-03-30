@@ -3,9 +3,9 @@ title: "Section 2651 - Prohibition on international inspections of Department of
 usc_title: 50
 usc_section: "2651"
 chapter: 42
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 2651"
-generated_at: "2026-03-30T00:20:29.396Z"
+generated_at: "2026-03-30T00:22:59.059Z"
 ---
 
 # § 2651. Prohibition on international inspections of Department of Energy facilities unless protection of Restricted Data is certified

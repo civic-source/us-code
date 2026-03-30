@@ -3,9 +3,9 @@ title: "Section 858a - Art. 58a. Sentences: reduction in enlisted grade"
 usc_title: 10
 usc_section: "858a"
 chapter: 47
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 858a"
-generated_at: "2026-03-30T00:18:12.204Z"
+generated_at: "2026-03-30T00:21:16.773Z"
 ---
 
 # § 858a. Art. 58a. Sentences: reduction in enlisted grade

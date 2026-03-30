@@ -3,9 +3,9 @@ title: "Section 218d - Breastfeeding accommodations in the workplace"
 usc_title: 29
 usc_section: "218d"
 chapter: 8
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "29 U.S.C. § 218d"
-generated_at: "2026-03-30T00:19:31.304Z"
+generated_at: "2026-03-30T00:22:10.266Z"
 ---
 
 # § 218d. Breastfeeding accommodations in the workplace
@@ -18,7 +18,7 @@ generated_at: "2026-03-30T00:19:31.304Z"
   - **(2)** Break time provided under subsection (a)(1) shall be considered hours worked if the employee is not completely relieved from duty during the entirety of such break.
 - **(c)** An employer that employs less than 50 employees shall not be subject to the requirements of this section, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer’s business.
 - **(d)**
-  - **(1)** An employer that is an air carrier shall not be subject to the requirements of this section with respect to an employee of such air carrier who is a crewmember
+  - **(1)** An employer that is an air carrier shall not be subject to the requirements of this section with respect to an employee of such air carrier who is a crewmember 1 1 So in original. Probably should be followed by a period.
   - **(2)** In this subsection:
     - **(A)** The term “air carrier” has the meaning given such term in section 40102 of title 49 .
     - **(B)** The term “crewmember” has the meaning given such term in section 1.1 of title 14, Code of Federal Regulations (or successor regulations).

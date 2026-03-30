@@ -3,9 +3,9 @@ title: "Section 462 - Classification of irrigable lands and equitable apportionm
 usc_title: 43
 usc_section: "462"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "43 U.S.C. § 462"
-generated_at: "2026-03-30T00:20:08.055Z"
+generated_at: "2026-03-30T00:22:31.495Z"
 ---
 
 # § 462. Classification of irrigable lands and equitable apportionment of charges

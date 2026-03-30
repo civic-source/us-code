@@ -3,9 +3,9 @@ title: "Section 9710 - Identification and support of consistent, Federal set of 
 usc_title: 15
 usc_section: "9710"
 chapter: 121
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 9710"
-generated_at: "2026-03-30T00:18:28.229Z"
+generated_at: "2026-03-30T00:21:29.651Z"
 ---
 
 # § 9710. Identification and support of consistent, Federal set of forward-looking, long-term meteorological information

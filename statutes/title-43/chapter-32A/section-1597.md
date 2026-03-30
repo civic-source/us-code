@@ -3,9 +3,9 @@ title: "Section 1597 - Construction of provisions of subchapter"
 usc_title: 43
 usc_section: "1597"
 chapter: 32
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "43 U.S.C. § 1597"
-generated_at: "2026-03-30T00:20:08.080Z"
+generated_at: "2026-03-30T00:22:31.522Z"
 ---
 
 # § 1597. Construction of provisions of subchapter

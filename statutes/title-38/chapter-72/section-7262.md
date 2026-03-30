@@ -3,9 +3,9 @@ title: "Section 7262 - Fee for filing appeals"
 usc_title: 38
 usc_section: "7262"
 chapter: 72
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "38 U.S.C. § 7262"
-generated_at: "2026-03-30T00:20:03.471Z"
+generated_at: "2026-03-30T00:22:28.623Z"
 ---
 
 # § 7262. Fee for filing appeals

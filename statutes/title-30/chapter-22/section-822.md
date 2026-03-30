@@ -3,9 +3,9 @@ title: "Section 822 - Representation of Secretary in civil litigation by Solicit
 usc_title: 30
 usc_section: "822"
 chapter: 22
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "30 U.S.C. § 822"
-generated_at: "2026-03-30T00:19:29.563Z"
+generated_at: "2026-03-30T00:22:08.290Z"
 ---
 
 # § 822. Representation of Secretary in civil litigation by Solicitor of Labor

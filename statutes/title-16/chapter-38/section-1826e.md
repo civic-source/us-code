@@ -3,9 +3,9 @@ title: "Section 1826e - Negotiations"
 usc_title: 16
 usc_section: "1826e"
 chapter: 38
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 1826e"
-generated_at: "2026-03-30T00:18:47.525Z"
+generated_at: "2026-03-30T00:21:39.241Z"
 ---
 
 # § 1826e. Negotiations

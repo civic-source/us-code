@@ -3,9 +3,9 @@ title: "Section 3013a - Consultation with State agencies, area agencies on aging
 usc_title: 42
 usc_section: "3013a"
 chapter: 35
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 3013a"
-generated_at: "2026-03-30T00:20:22.806Z"
+generated_at: "2026-03-30T00:22:52.654Z"
 ---
 
 # § 3013a. Consultation with State agencies, area agencies on aging, and Native American grant recipients

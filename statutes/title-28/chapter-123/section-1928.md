@@ -3,9 +3,9 @@ title: "Section 1928 - Patent infringement action; disclaimer not filed"
 usc_title: 28
 usc_section: "1928"
 chapter: 123
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "28 U.S.C. § 1928"
-generated_at: "2026-03-30T00:19:45.371Z"
+generated_at: "2026-03-30T00:22:09.195Z"
 ---
 
 # § 1928. Patent infringement action; disclaimer not filed

@@ -3,9 +3,9 @@ title: "Section 5372a - Contract appeals board members"
 usc_title: 5
 usc_section: "5372a"
 chapter: 53
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "5 U.S.C. § 5372a"
-generated_at: "2026-03-30T00:17:57.267Z"
+generated_at: "2026-03-30T00:20:59.742Z"
 ---
 
 # § 5372a. Contract appeals board members

@@ -3,9 +3,9 @@ title: "Section 906 - Air Station Cape Cod Improvements"
 usc_title: 14
 usc_section: "906"
 chapter: 9
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "14 U.S.C. § 906"
-generated_at: "2026-03-30T00:18:33.424Z"
+generated_at: "2026-03-30T00:21:20.860Z"
 ---
 
 # § 906. Air Station Cape Cod Improvements

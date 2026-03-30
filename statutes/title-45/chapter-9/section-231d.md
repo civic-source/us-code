@@ -3,9 +3,9 @@ title: "Section 231d - Annuity beginning and ending dates"
 usc_title: 45
 usc_section: "231d"
 chapter: 9
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "45 U.S.C. § 231d"
-generated_at: "2026-03-30T00:20:05.460Z"
+generated_at: "2026-03-30T00:22:32.287Z"
 ---
 
 # § 231d. Annuity beginning and ending dates

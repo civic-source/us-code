@@ -3,9 +3,9 @@ title: "Section 11708 - Voluntary arbitration of certain rail rates and practice
 usc_title: 49
 usc_section: "11708"
 chapter: 117
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 11708"
-generated_at: "2026-03-30T00:20:32.858Z"
+generated_at: "2026-03-30T00:23:07.313Z"
 ---
 
 # § 11708. Voluntary arbitration of certain rail rates and practices disputes

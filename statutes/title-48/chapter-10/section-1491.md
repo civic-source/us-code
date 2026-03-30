@@ -3,9 +3,9 @@ title: "Section 1491 - License, permit, etc., for transportation for storage or 
 usc_title: 48
 usc_section: "1491"
 chapter: 10
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "48 U.S.C. § 1491"
-generated_at: "2026-03-30T00:20:26.310Z"
+generated_at: "2026-03-30T00:22:59.584Z"
 ---
 
 # § 1491. License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites; applicability; “territory or possession” defined

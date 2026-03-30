@@ -3,9 +3,9 @@ title: "Section 1605 - Seizure; custody; storage"
 usc_title: 19
 usc_section: "1605"
 chapter: 4
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "19 U.S.C. § 1605"
-generated_at: "2026-03-30T00:19:01.203Z"
+generated_at: "2026-03-30T00:21:40.959Z"
 ---
 
 # § 1605. Seizure; custody; storage

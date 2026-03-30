@@ -3,9 +3,9 @@ title: "Section 391a - Advances to reclamation fund"
 usc_title: 43
 usc_section: "391a"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "43 U.S.C. § 391a"
-generated_at: "2026-03-30T00:20:08.049Z"
+generated_at: "2026-03-30T00:22:31.492Z"
 ---
 
 # § 391a. Advances to reclamation fund

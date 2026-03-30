@@ -3,9 +3,9 @@ title: "Section 2004b - Detail of commissioned officers as students at schools o
 usc_title: 10
 usc_section: "2004b"
 chapter: 101
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 2004b"
-generated_at: "2026-03-30T00:18:12.256Z"
+generated_at: "2026-03-30T00:21:16.826Z"
 ---
 
 # § 2004b. Detail of commissioned officers as students at schools of psychology

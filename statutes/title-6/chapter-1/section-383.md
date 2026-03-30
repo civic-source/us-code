@@ -3,9 +3,9 @@ title: "Section 383 - National Computer Forensics Institute"
 usc_title: 6
 usc_section: "383"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "6 U.S.C. § 383"
-generated_at: "2026-03-30T00:18:00.091Z"
+generated_at: "2026-03-30T00:21:02.280Z"
 ---
 
 # § 383. National Computer Forensics Institute
@@ -32,5 +32,5 @@ generated_at: "2026-03-30T00:18:00.091Z"
   - **(2)** Any information required under paragraph (1) that is submitted as part of the annual budget submitted by the President to Congress under section 1105 of title 31 is not required to be included in the report required under paragraph (1).
 - **(i)** In this section:
   - **(1)** The term “cybersecurity threat” has the meaning given such term in section 1501 of this title .
-  - **(2)** The term “incident” has the meaning given such term in section 659(a) of this title .
+  - **(2)** The term “incident” has the meaning given such term in section 659(a) 1 1 See References in Text note below. of this title.
   - **(3)** The term “information system” has the meaning given such term in section 1501(9) of this title .

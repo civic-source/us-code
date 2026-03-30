@@ -3,9 +3,9 @@ title: "Section 1970 - Beneficiaries; payment of insurance"
 usc_title: 38
 usc_section: "1970"
 chapter: 19
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "38 U.S.C. § 1970"
-generated_at: "2026-03-30T00:20:03.435Z"
+generated_at: "2026-03-30T00:22:28.584Z"
 ---
 
 # § 1970. Beneficiaries; payment of insurance

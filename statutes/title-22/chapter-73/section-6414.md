@@ -3,9 +3,9 @@ title: "Section 6414 - High-level contacts with nongovernmental organizations"
 usc_title: 22
 usc_section: "6414"
 chapter: 73
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 6414"
-generated_at: "2026-03-30T00:19:26.951Z"
+generated_at: "2026-03-30T00:22:05.814Z"
 ---
 
 # § 6414. High-level contacts with nongovernmental organizations

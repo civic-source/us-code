@@ -3,9 +3,9 @@ title: "Section 23 - Acknowledgment and filing of certificate"
 usc_title: 12
 usc_section: "23"
 chapter: 2
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 23"
-generated_at: "2026-03-30T00:18:37.559Z"
+generated_at: "2026-03-30T00:21:26.423Z"
 ---
 
 # § 23. Acknowledgment and filing of certificate

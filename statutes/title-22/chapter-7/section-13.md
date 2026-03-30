@@ -3,9 +3,9 @@ title: "Section 13 - Additional authorization for payment of United States contr
 usc_title: 22
 usc_section: "13"
 chapter: 7
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 13"
-generated_at: "2026-03-30T00:19:26.844Z"
+generated_at: "2026-03-30T00:22:05.700Z"
 ---
 
 # § 290g–13. Additional authorization for payment of United States contribution

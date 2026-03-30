@@ -3,9 +3,9 @@ title: "Section 15701 - Consent of States"
 usc_title: 40
 usc_section: "15701"
 chapter: 157
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "40 U.S.C. § 15701"
-generated_at: "2026-03-30T00:20:00.270Z"
+generated_at: "2026-03-30T00:22:25.198Z"
 ---
 
 # § 15701. Consent of States

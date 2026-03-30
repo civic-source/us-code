@@ -3,9 +3,9 @@ title: "Section 1621l - Patient travel costs"
 usc_title: 25
 usc_section: "1621l"
 chapter: 18
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "25 U.S.C. § 1621l"
-generated_at: "2026-03-30T00:19:08.532Z"
+generated_at: "2026-03-30T00:21:54.350Z"
 ---
 
 # § 1621l. Patient travel costs

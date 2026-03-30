@@ -3,9 +3,9 @@ title: "Section 1171 - Procedures to determine presumptions of service connectio
 usc_title: 38
 usc_section: "1171"
 chapter: 11
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "38 U.S.C. § 1171"
-generated_at: "2026-03-30T00:20:03.420Z"
+generated_at: "2026-03-30T00:22:28.568Z"
 ---
 
 # § 1171. Procedures to determine presumptions of service connection based on toxic exposure; definitions

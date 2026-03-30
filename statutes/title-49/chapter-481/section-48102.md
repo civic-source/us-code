@@ -3,9 +3,9 @@ title: "Section 48102 - Research and development"
 usc_title: 49
 usc_section: "48102"
 chapter: 481
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 48102"
-generated_at: "2026-03-30T00:20:32.933Z"
+generated_at: "2026-03-30T00:23:07.395Z"
 ---
 
 # § 48102. Research and development
@@ -73,8 +73,9 @@ generated_at: "2026-03-30T00:20:32.933Z"
   - **(11)** $194,000,000 for fiscal year 2019;
   - **(12)** $199,000,000 for fiscal year 2020;
   - **(13)** $204,000,000 for fiscal year 2021;
-  - **(14)** $209,000,000 for fiscal year 2022; and
-  - **(15)** $214,000,000 for fiscal year 2023.
+  - **(14)** $209,000,000 for fiscal year 2022;
+  - **(15)** $214,000,000 for fiscal year 2023; and
+  - **(16)** $64,098,360 for the period beginning on October 1, 2023 , and ending on December 31, 2023 .
 - **(b)**
   - **(1)** The Administrator shall prioritize safety in considering the advice and recommendations of the research advisory committee established by section 44508 of this title in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
   - **(2)** As safety related activities shall be the highest research priority, at least 70 percent of the amount appropriated under subsection (a) of this section shall be for safety research and development projects.

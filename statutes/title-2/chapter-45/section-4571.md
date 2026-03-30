@@ -3,9 +3,9 @@ title: "Section 4571 - Senate pay adjustments; action by President pro tempore o
 usc_title: 2
 usc_section: "4571"
 chapter: 45
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "2 U.S.C. § 4571"
-generated_at: "2026-03-30T00:17:40.340Z"
+generated_at: "2026-03-30T00:20:57.403Z"
 ---
 
 # § 4571. Senate pay adjustments; action by President pro tempore of Senate

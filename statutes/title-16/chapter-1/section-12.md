@@ -3,9 +3,9 @@ title: "Section 12 - Purpose and objectives of Cooperative Management and Protec
 usc_title: 16
 usc_section: "12"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 12"
-generated_at: "2026-03-30T00:18:47.408Z"
+generated_at: "2026-03-30T00:21:39.098Z"
 ---
 
 # § 460nnn–12. Purpose and objectives of Cooperative Management and Protection Area

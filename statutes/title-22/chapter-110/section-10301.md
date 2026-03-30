@@ -3,9 +3,9 @@ title: "Section 10301 - United States international cyberspace policy"
 usc_title: 22
 usc_section: "10301"
 chapter: 110
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 10301"
-generated_at: "2026-03-30T00:19:26.997Z"
+generated_at: "2026-03-30T00:22:05.866Z"
 ---
 
 # § 10301. United States international cyberspace policy
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T00:19:26.997Z"
     - **(B)** to take all appropriate and reasonable efforts to keep their territories clear of intentionally wrongful acts using ICT in violation of international commitments;
     - **(C)** not to conduct or knowingly support ICT activity that intentionally damages or otherwise impairs the use and operation of critical infrastructure providing services to the public, in violation of international law;
     - **(D)** to take appropriate measures to protect the country’s critical infrastructure from ICT threats;
-    - **(E)** not to conduct or knowingly support malicious international activity that harms the information systems of authorized international emergency response teams (also known as ‘computer emergency response teams’ or ‘cybersecurity incident response teams’) of another country or authorize emergency response teams to engage in malicious international activity, in violation of international law;
+    - **(E)** not to conduct or knowingly support malicious international activity that harms the information systems of authorized international emergency response teams (also known as “computer emergency response teams” or “cybersecurity incident response teams”) of another country or authorize emergency response teams to engage in malicious international activity, in violation of international law;
     - **(F)** to respond to appropriate requests for assistance to mitigate malicious ICT activity emanating from their territory and aimed at the critical infrastructure of another country;
     - **(G)** not to restrict cross-border data flows or require local storage or processing of data; and
     - **(H)** to protect the exercise of human rights and fundamental freedoms on the internet, while recognizing that the human rights that people have offline also need to be protected online; and

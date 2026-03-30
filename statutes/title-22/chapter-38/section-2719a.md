@@ -3,9 +3,9 @@ title: "Section 2719a - Foreign affairs training"
 usc_title: 22
 usc_section: "2719a"
 chapter: 38
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 2719a"
-generated_at: "2026-03-30T00:19:26.902Z"
+generated_at: "2026-03-30T00:22:05.760Z"
 ---
 
 # § 2719a. Foreign affairs training
@@ -49,7 +49,7 @@ generated_at: "2026-03-30T00:19:26.902Z"
     - **(A)** at the call of the Director of the Foreign Service Institute and the Chairperson; and
     - **(B)** not fewer than 2 times per year.
   - **(7)** Each member of the Board shall serve without compensation, except that a member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of service for the Board. Notwithstanding section 1342 of title 31 , the Secretary may accept the voluntary and uncompensated service of members of the Board.
-  - **(8)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 shall apply to the Board established under this subsection.
+  - **(8)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall apply to the Board established under this subsection.
 - **(f)**
   - **(1)** There is established in the Foreign Service Institute the position of Provost.
   - **(2)** The Provost shall—

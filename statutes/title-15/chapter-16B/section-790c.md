@@ -3,9 +3,9 @@ title: "Section 790c - Analysis and evaluation of energy information; establishm
 usc_title: 15
 usc_section: "790c"
 chapter: 16
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 790c"
-generated_at: "2026-03-30T00:18:28.091Z"
+generated_at: "2026-03-30T00:21:29.488Z"
 ---
 
 # § 790c. Analysis and evaluation of energy information; establishment and maintenance by Director of professional, etc., capability; specific capabilities

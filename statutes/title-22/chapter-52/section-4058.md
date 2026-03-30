@@ -3,9 +3,9 @@ title: "Section 4058 - Estimate of appropriations needed"
 usc_title: 22
 usc_section: "4058"
 chapter: 52
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 4058"
-generated_at: "2026-03-30T00:19:26.926Z"
+generated_at: "2026-03-30T00:22:05.788Z"
 ---
 
 # § 4058. Estimate of appropriations needed

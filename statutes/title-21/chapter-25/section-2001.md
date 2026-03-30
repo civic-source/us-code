@@ -3,9 +3,9 @@ title: "Section 2001 - Designation of United States Anti-Doping Agency"
 usc_title: 21
 usc_section: "2001"
 chapter: 25
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "21 U.S.C. § 2001"
-generated_at: "2026-03-30T00:19:09.710Z"
+generated_at: "2026-03-30T00:21:55.553Z"
 ---
 
 # § 2001. Designation of United States Anti-Doping Agency
@@ -21,6 +21,6 @@ generated_at: "2026-03-30T00:19:09.710Z"
     - **(C)** be recognized worldwide as the independent national anti-doping organization for the United States;
   - **(2)** ensure that athletes participating in amateur athletic activities recognized by the United States Olympic Committee are prevented from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
   - **(3)** implement anti-doping education, research, testing, and adjudication programs to prevent United States Amateur Athletes participating in any activity recognized by the United States Olympic Committee from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
-  - **(4)** serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.
+  - **(4)** serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency; and
   - **(5)** promote a positive youth sport experience by using a portion of the funding of the United States Anti-Doping Agency to provide educational materials on sportsmanship, character building, and healthy performance for the athletes, parents, and coaches who participate in youth sports.
 - **(c)** Any action taken by the United States Anti-Doping Agency to enforce a policy, procedure, or requirement of the United States Anti-Doping Agency against a person with respect to a violation of Federal law, including an investigation, a disciplinary action, a sanction, or any other administrative action, shall be carried out in a manner that provides due process protection to the person.

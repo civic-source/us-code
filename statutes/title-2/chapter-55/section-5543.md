@@ -3,9 +3,9 @@ title: "Section 5543 - Rebates under Government Travel Charge Card Program"
 usc_title: 2
 usc_section: "5543"
 chapter: 55
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "2 U.S.C. § 5543"
-generated_at: "2026-03-30T00:17:40.346Z"
+generated_at: "2026-03-30T00:20:57.407Z"
 ---
 
 # § 5543. Rebates under Government Travel Charge Card Program

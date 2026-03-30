@@ -3,9 +3,9 @@ title: "Section 1701t - Congressional affirmation of national goal of decent hom
 usc_title: 12
 usc_section: "1701t"
 chapter: 13
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 1701t"
-generated_at: "2026-03-30T00:18:37.598Z"
+generated_at: "2026-03-30T00:21:26.461Z"
 ---
 
 # § 1701t. Congressional affirmation of national goal of decent homes and suitable living environment for American families

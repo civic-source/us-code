@@ -3,9 +3,9 @@ title: "Section 9304 - Comprehensive Global Food Security Strategy"
 usc_title: 22
 usc_section: "9304"
 chapter: 100
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 9304"
-generated_at: "2026-03-30T00:19:26.988Z"
+generated_at: "2026-03-30T00:22:05.855Z"
 ---
 
 # § 9304. Comprehensive Global Food Security Strategy
@@ -19,7 +19,7 @@ generated_at: "2026-03-30T00:19:26.988Z"
   - **(6)** support improvement of the nutritional status of women, adolescent girls, and children, particularly during the critical first 1,000-day window until a child reaches 2 years of age and with a focus on reducing child stunting and preventing incidence of wasting, through nutrition-specific and nutrition-sensitive programs, including related water, sanitation, and hygiene programs;
   - **(7)** facilitate communication and collaboration, as appropriate, among local stakeholders in support of a multi-sectoral approach to food and nutrition security, to include analysis of the multiple underlying causes of malnutrition, including poor water resource management and lack of access to safe drinking water, sanitation, and hygiene;
   - **(8)** support long-term impact by building the capacity of local organizations and institutions, including agricultural research capacity, in target countries and communities;
-  - **(9)** integrate resilience and nutrition strategies into food security programs, such that chronically vulnerable populations are better able to coordinate with and complement relevant strategies to ensure that chronically vulnerable populations are better able to adapt, build safety nets, secure livelihoods, access markets, and access opportunities for longer-term economic growth;
+  - **(9)** coordinate with and complement relevant strategies to ensure that chronically vulnerable populations are better able to adapt, build safety nets, secure livelihoods, access markets, and access opportunities for longer-term economic growth;
   - **(10)** develop community and producer resilience and adaptation strategies to disasters, emergencies, and other shocks and stresses to food and nutrition security, including conflicts, droughts, flooding, pests, and diseases, that adversely impact agricultural yield and livelihoods;
   - **(11)** harness science, technology, and innovation, including the research and extension activities supported by the private sector, relevant Federal departments and agencies, Feed the Future Innovation Labs or any successor entities, and international and local researchers and innovators, recognizing that significant investments in research and technological advances will be necessary to reduce global poverty, hunger, and malnutrition;
   - **(12)** use evidenced-based best practices, including scientific and forecasting data, and improved planning and coordination by, with, and among key partners and relevant Federal departments and agencies to identify, analyze, measure, and mitigate risks, and strengthen resilience capacities;

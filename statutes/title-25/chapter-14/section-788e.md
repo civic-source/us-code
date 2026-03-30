@@ -3,9 +3,9 @@ title: "Section 788e - Omitted"
 usc_title: 25
 usc_section: "788e"
 chapter: 14
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "25 U.S.C. § 788e"
-generated_at: "2026-03-30T00:19:08.523Z"
+generated_at: "2026-03-30T00:21:54.341Z"
 ---
 
 # § 788e. Omitted

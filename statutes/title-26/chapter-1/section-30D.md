@@ -3,9 +3,9 @@ title: "Section 30D - Clean vehicle credit"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-30T00:19:39.011Z"
+generated_at: "2026-03-30T00:22:16.656Z"
 ---
 
 # § 30D. Clean vehicle credit
@@ -40,7 +40,6 @@ generated_at: "2026-03-30T00:19:39.011Z"
   - **(4)** The term “capacity” means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
   - **(5)** For purposes of paragraph (1)(G), the term “final assembly” means the process by which a manufacturer produces a new clean vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle.
   - **(6)** For purposes of this section, the term “new clean vehicle” shall include any new qualified fuel cell motor vehicle (as defined in section 30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).
-- **[(e)**
 - **(f)**
   - **(1)** For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
   - **(2)** The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).

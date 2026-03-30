@@ -3,9 +3,9 @@ title: "Section 720f - State jurisdiction over in-State delivery of natural gas"
 usc_title: 15
 usc_section: "720f"
 chapter: 15
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 720f"
-generated_at: "2026-03-30T00:18:28.089Z"
+generated_at: "2026-03-30T00:21:29.485Z"
 ---
 
 # § 720f. State jurisdiction over in-State delivery of natural gas

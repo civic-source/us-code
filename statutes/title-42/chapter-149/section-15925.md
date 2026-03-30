@@ -3,9 +3,9 @@ title: "Section 15925 - Fair market value determinations for linear rights-of-wa
 usc_title: 42
 usc_section: "15925"
 chapter: 149
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 15925"
-generated_at: "2026-03-30T00:20:23.114Z"
+generated_at: "2026-03-30T00:22:52.972Z"
 ---
 
 # § 15925. Fair market value determinations for linear rights-of-way across public lands and national forests

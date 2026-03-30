@@ -3,9 +3,9 @@ title: "Section 4083 - Period of relief"
 usc_title: 19
 usc_section: "4083"
 chapter: 26
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "19 U.S.C. § 4083"
-generated_at: "2026-03-30T00:19:01.255Z"
+generated_at: "2026-03-30T00:21:41.018Z"
 ---
 
 # § 4083. Period of relief

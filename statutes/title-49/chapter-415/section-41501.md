@@ -3,9 +3,9 @@ title: "Section 41501 - Establishing reasonable prices, classifications, rules, 
 usc_title: 49
 usc_section: "41501"
 chapter: 415
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 41501"
-generated_at: "2026-03-30T00:20:32.903Z"
+generated_at: "2026-03-30T00:23:07.363Z"
 ---
 
 # § 41501. Establishing reasonable prices, classifications, rules, practices, and divisions of joint prices for foreign air transportation

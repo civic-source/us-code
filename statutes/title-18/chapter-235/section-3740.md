@@ -3,9 +3,9 @@ title: "Section 3740 - Argument—(Rule)"
 usc_title: 18
 usc_section: "3740"
 chapter: 235
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "18 U.S.C. § 3740"
-generated_at: "2026-03-30T00:18:53.217Z"
+generated_at: "2026-03-30T00:21:34.224Z"
 ---
 
 # § 3740. Argument—(Rule)

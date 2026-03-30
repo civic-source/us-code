@@ -3,9 +3,9 @@ title: "Section 6034 - United States opposition to Cuban membership in internati
 usc_title: 22
 usc_section: "6034"
 chapter: 69
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 6034"
-generated_at: "2026-03-30T00:19:26.946Z"
+generated_at: "2026-03-30T00:22:05.808Z"
 ---
 
 # § 6034. United States opposition to Cuban membership in international financial institutions

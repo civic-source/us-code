@@ -3,9 +3,9 @@ title: "Section 1431c - Enrichment and packaging of cornmeal, grits, rice, and w
 usc_title: 7
 usc_section: "1431c"
 chapter: 35
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "7 U.S.C. § 1431c"
-generated_at: "2026-03-30T00:18:19.923Z"
+generated_at: "2026-03-30T00:21:11.910Z"
 ---
 
 # § 1431c. Enrichment and packaging of cornmeal, grits, rice, and white flour available for distribution

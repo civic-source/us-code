@@ -3,9 +3,9 @@ title: "Section 220513 - Annual amateur athlete survey"
 usc_title: 36
 usc_section: "220513"
 chapter: 2205
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "36 U.S.C. § 220513"
-generated_at: "2026-03-30T00:19:56.614Z"
+generated_at: "2026-03-30T00:22:26.292Z"
 ---
 
 # § 220513. Annual amateur athlete survey

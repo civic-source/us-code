@@ -3,9 +3,9 @@ title: "Section 5813 - Report on overall assistance and economic cooperation str
 usc_title: 22
 usc_section: "5813"
 chapter: 67
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 5813"
-generated_at: "2026-03-30T00:19:26.943Z"
+generated_at: "2026-03-30T00:22:05.805Z"
 ---
 
 # § 5813. Report on overall assistance and economic cooperation strategy

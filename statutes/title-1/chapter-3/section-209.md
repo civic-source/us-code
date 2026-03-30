@@ -3,9 +3,9 @@ title: "Section 209 - Copies of Supplements to Code of Laws of United States and
 usc_title: 1
 usc_section: "209"
 chapter: 3
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "1 U.S.C. § 209"
-generated_at: "2026-03-30T00:17:31.077Z"
+generated_at: "2026-03-30T00:20:54.606Z"
 ---
 
 # § 209. Copies of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; conclusive evidence of original

@@ -3,9 +3,9 @@ title: "Section 8442 - Rights of a widow or widower"
 usc_title: 5
 usc_section: "8442"
 chapter: 84
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "5 U.S.C. § 8442"
-generated_at: "2026-03-30T00:17:57.302Z"
+generated_at: "2026-03-30T00:20:59.778Z"
 ---
 
 # § 8442. Rights of a widow or widower

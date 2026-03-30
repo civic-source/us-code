@@ -3,9 +3,9 @@ title: "Section 13109 - Confidential reports and other additional requirements"
 usc_title: 5
 usc_section: "13109"
 chapter: 131
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "5 U.S.C. § 13109"
-generated_at: "2026-03-30T00:17:57.317Z"
+generated_at: "2026-03-30T00:20:59.792Z"
 ---
 
 # § 13109. Confidential reports and other additional requirements

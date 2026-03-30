@@ -3,9 +3,9 @@ title: "Section 2345 - Electronic submission and tracking of permit applications
 usc_title: 33
 usc_section: "2345"
 chapter: 36
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "33 U.S.C. § 2345"
-generated_at: "2026-03-30T00:19:53.649Z"
+generated_at: "2026-03-30T00:22:20.635Z"
 ---
 
 # § 2345. Electronic submission and tracking of permit applications

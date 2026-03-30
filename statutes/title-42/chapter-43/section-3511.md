@@ -3,9 +3,9 @@ title: "Section 3511 - Transferred"
 usc_title: 42
 usc_section: "3511"
 chapter: 43
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 3511"
-generated_at: "2026-03-30T00:20:22.821Z"
+generated_at: "2026-03-30T00:22:52.671Z"
 ---
 
 # §§ 3510, 3511. Transferred

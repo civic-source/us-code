@@ -3,9 +3,9 @@ title: "Section 9138 - Regular Air Force and Regular Space Force: reenlistment a
 usc_title: 10
 usc_section: "9138"
 chapter: 913
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 9138"
-generated_at: "2026-03-30T00:18:12.353Z"
+generated_at: "2026-03-30T00:21:17.027Z"
 ---
 
 # § 9138. Regular Air Force and Regular Space Force: reenlistment after service as an officer

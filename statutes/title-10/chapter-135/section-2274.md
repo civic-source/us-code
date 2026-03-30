@@ -3,9 +3,9 @@ title: "Section 2274 - Space situational awareness services and information: pro
 usc_title: 10
 usc_section: "2274"
 chapter: 135
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 2274"
-generated_at: "2026-03-30T00:18:12.269Z"
+generated_at: "2026-03-30T00:21:16.837Z"
 ---
 
 # § 2274. Space situational awareness services and information: provision to non-United States Government entities

@@ -3,9 +3,9 @@ title: "Section 4336d - E-NEPA"
 usc_title: 42
 usc_section: "4336d"
 chapter: 55
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 4336d"
-generated_at: "2026-03-30T00:20:22.837Z"
+generated_at: "2026-03-30T00:22:52.688Z"
 ---
 
 # § 4336d. E-NEPA

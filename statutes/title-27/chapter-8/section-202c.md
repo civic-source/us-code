@@ -3,9 +3,9 @@ title: "Section 202c - Omitted"
 usc_title: 27
 usc_section: "202c"
 chapter: 8
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "27 U.S.C. § 202c"
-generated_at: "2026-03-30T00:19:28.932Z"
+generated_at: "2026-03-30T00:22:07.699Z"
 ---
 
 # § 202c. Omitted

@@ -3,17 +3,17 @@ title: "Section 663 - Federal intrusion detection and prevention system"
 usc_title: 6
 usc_section: "663"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "6 U.S.C. § 663"
-generated_at: "2026-03-30T00:18:00.107Z"
+generated_at: "2026-03-30T00:21:02.295Z"
 ---
 
 # § 663. Federal intrusion detection and prevention system
 
 - **(a)** In this section—
   - **(1)** the term “agency” has the meaning given the term in section 3502 of title 44 ;
-  - **(2)** the term “agency information” means information collected or maintained by or on behalf of an agency;
-  - **(3)** the term “agency information system” has the meaning given the term in section 660 of this title ; and
+  - **(2)** the term “agency information” means information collected or maintained by or on behalf of an agency; 1 1 So in original. Probably should be followed by “and”.
+  - **(3)** the term “agency information system” has the meaning given the term in section 660 of this title ; and 2 2 So in original. The “; and” probably should be a period.
 - **(b)**
   - **(1)** Not later than 1 year after December 18, 2015 , the Secretary shall deploy, operate, and maintain, to make available for use by any agency, with or without reimbursement—
     - **(A)** a capability to detect cybersecurity risks in network traffic transiting or traveling to or from an agency information system; and

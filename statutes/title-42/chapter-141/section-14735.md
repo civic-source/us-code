@@ -3,9 +3,9 @@ title: "Section 14735 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "14735"
 chapter: 141
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 14735"
-generated_at: "2026-03-30T00:20:23.102Z"
+generated_at: "2026-03-30T00:22:52.959Z"
 ---
 
 # §§ 14731 to 14735. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

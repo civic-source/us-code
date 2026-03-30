@@ -3,9 +3,9 @@ title: "Section 6677 - Failure to file information with respect to certain forei
 usc_title: 26
 usc_section: "6677"
 chapter: 68
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 6677"
-generated_at: "2026-03-30T00:19:39.272Z"
+generated_at: "2026-03-30T00:22:16.917Z"
 ---
 
 # § 6677. Failure to file information with respect to certain foreign trusts

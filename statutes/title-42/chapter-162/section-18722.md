@@ -3,9 +3,9 @@ title: "Section 18722 - Energy cyber sense program"
 usc_title: 42
 usc_section: "18722"
 chapter: 162
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 18722"
-generated_at: "2026-03-30T00:20:23.178Z"
+generated_at: "2026-03-30T00:22:53.036Z"
 ---
 
 # § 18722. Energy cyber sense program

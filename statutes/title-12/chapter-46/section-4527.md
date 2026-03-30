@@ -3,9 +3,9 @@ title: "Section 4527 - Data standards"
 usc_title: 12
 usc_section: "4527"
 chapter: 46
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 4527"
-generated_at: "2026-03-30T00:18:37.702Z"
+generated_at: "2026-03-30T00:21:26.580Z"
 ---
 
 # § 4527. Data standards

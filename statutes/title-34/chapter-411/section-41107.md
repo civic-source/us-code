@@ -3,9 +3,9 @@ title: "Section 41107 - Access to the national crime information databases by tr
 usc_title: 34
 usc_section: "41107"
 chapter: 411
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "34 U.S.C. § 41107"
-generated_at: "2026-03-30T00:19:48.387Z"
+generated_at: "2026-03-30T00:22:21.498Z"
 ---
 
 # § 41107. Access to the national crime information databases by tribes

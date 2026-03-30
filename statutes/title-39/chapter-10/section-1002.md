@@ -3,9 +3,9 @@ title: "Section 1002 - Political recommendations"
 usc_title: 39
 usc_section: "1002"
 chapter: 10
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "39 U.S.C. § 1002"
-generated_at: "2026-03-30T00:19:55.390Z"
+generated_at: "2026-03-30T00:22:24.121Z"
 ---
 
 # § 1002. Political recommendations

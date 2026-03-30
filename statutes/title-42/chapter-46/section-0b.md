@@ -3,9 +3,9 @@ title: "Section 0b - Transferred"
 usc_title: 42
 usc_section: "0b"
 chapter: 46
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 0b"
-generated_at: "2026-03-30T00:20:22.828Z"
+generated_at: "2026-03-30T00:22:52.678Z"
 ---
 
 # § 3796gg–0b. Transferred

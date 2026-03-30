@@ -3,9 +3,9 @@ title: "Section 7322 - Congressional review"
 usc_title: 42
 usc_section: "7322"
 chapter: 84
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 7322"
-generated_at: "2026-03-30T00:20:22.926Z"
+generated_at: "2026-03-30T00:22:52.782Z"
 ---
 
 # § 7322. Congressional review

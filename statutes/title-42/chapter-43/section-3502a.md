@@ -3,9 +3,9 @@ title: "Section 3502a - Administrator of Social and Rehabilitation Service; appo
 usc_title: 42
 usc_section: "3502a"
 chapter: 43
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 3502a"
-generated_at: "2026-03-30T00:20:22.821Z"
+generated_at: "2026-03-30T00:22:52.671Z"
 ---
 
 # § 3502a. Administrator of Social and Rehabilitation Service; appointment and confirmation

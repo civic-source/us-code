@@ -3,9 +3,9 @@ title: "Section 192a - Boundaries revised; excluded lands transferred"
 usc_title: 16
 usc_section: "192a"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 192a"
-generated_at: "2026-03-30T00:18:47.322Z"
+generated_at: "2026-03-30T00:21:38.993Z"
 ---
 
 # § 192a. Boundaries revised; excluded lands transferred

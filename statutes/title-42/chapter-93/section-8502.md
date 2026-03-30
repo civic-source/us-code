@@ -3,9 +3,9 @@ title: "Section 8502 - Definitions"
 usc_title: 42
 usc_section: "8502"
 chapter: 93
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 8502"
-generated_at: "2026-03-30T00:20:22.986Z"
+generated_at: "2026-03-30T00:22:52.843Z"
 ---
 
 # § 8502. Definitions

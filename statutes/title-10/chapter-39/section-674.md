@@ -3,9 +3,9 @@ title: "Section 674 - Temporary administrative reassignment or removal of a memb
 usc_title: 10
 usc_section: "674"
 chapter: 39
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 674"
-generated_at: "2026-03-30T00:18:12.196Z"
+generated_at: "2026-03-30T00:21:16.765Z"
 ---
 
 # § 674. Temporary administrative reassignment or removal of a member on active duty accused of committing a sexual assault or related offense

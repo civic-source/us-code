@@ -3,9 +3,9 @@ title: "Section 6616 - Support services for Senate during emergency; memorandum 
 usc_title: 2
 usc_section: "6616"
 chapter: 65
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "2 U.S.C. § 6616"
-generated_at: "2026-03-30T00:17:40.350Z"
+generated_at: "2026-03-30T00:20:57.412Z"
 ---
 
 # § 6616. Support services for Senate during emergency; memorandum of understanding with an executive agency

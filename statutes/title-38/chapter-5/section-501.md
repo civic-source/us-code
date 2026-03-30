@@ -3,9 +3,9 @@ title: "Section 501 - Rules and regulations"
 usc_title: 38
 usc_section: "501"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "38 U.S.C. § 501"
-generated_at: "2026-03-30T00:20:03.412Z"
+generated_at: "2026-03-30T00:22:28.560Z"
 ---
 
 # § 501. Rules and regulations

@@ -3,9 +3,9 @@ title: "Section 49a - Definitions"
 usc_title: 29
 usc_section: "49a"
 chapter: 4
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "29 U.S.C. § 49a"
-generated_at: "2026-03-30T00:19:31.297Z"
+generated_at: "2026-03-30T00:22:10.257Z"
 ---
 
 # § 49a. Definitions

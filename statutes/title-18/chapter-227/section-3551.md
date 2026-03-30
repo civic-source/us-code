@@ -3,9 +3,9 @@ title: "Section 3551 - Authorized sentences"
 usc_title: 18
 usc_section: "3551"
 chapter: 227
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "18 U.S.C. § 3551"
-generated_at: "2026-03-30T00:18:53.209Z"
+generated_at: "2026-03-30T00:21:34.216Z"
 ---
 
 # § 3551. Authorized sentences

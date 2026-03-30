@@ -3,9 +3,9 @@ title: "Section 6301 - Definitions"
 usc_title: 5
 usc_section: "6301"
 chapter: 63
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "5 U.S.C. § 6301"
-generated_at: "2026-03-30T00:17:57.277Z"
+generated_at: "2026-03-30T00:20:59.754Z"
 ---
 
 # § 6301. Definitions

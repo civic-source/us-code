@@ -3,9 +3,9 @@ title: "Section 3355 - Multi-year plan to fulfill defensive requirements of mili
 usc_title: 22
 usc_section: "3355"
 chapter: 48
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 3355"
-generated_at: "2026-03-30T00:19:26.914Z"
+generated_at: "2026-03-30T00:22:05.774Z"
 ---
 
 # § 3355. Multi-year plan to fulfill defensive requirements of military forces of Taiwan
@@ -17,7 +17,7 @@ generated_at: "2026-03-30T00:19:26.914Z"
     - **(B)** advance a strategy of denial, reduce the threat of conflict, thwart an invasion, and mitigate other risks to the United States and Taiwan.
   - **(2)** An assessment of the relative priority assigned by appropriate departments and agencies of Taiwan to include its military to address such capability gaps and capacity shortfalls.
   - **(3)** An explanation of the annual resources committed by Taiwan to address such capability gaps and capacity shortfalls.
-  - **(4)** A description and justification of the relative importance of overcoming each identified capability gap and capacity shortfall for deterring, delaying, or defeating military aggression by the People’s Republic of China;
+  - **(4)** A description and justification of the relative importance of overcoming each identified capability gap and capacity shortfall for deterring, delaying, or defeating military aggression by the People’s Republic of China; 1 1 So in original. The semicolon probably should be a period.
   - **(5)** An assessment of—
     - **(A)** the capability gaps and capacity shortfalls that could be addressed in a sufficient and timely manner by Taiwan; and
     - **(B)** the capability gaps and capacity shortfalls that are unlikely to be addressed in a sufficient and timely manner solely by Taiwan.

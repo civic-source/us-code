@@ -3,9 +3,9 @@ title: "Section 8102 - Watchmen"
 usc_title: 46
 usc_section: "8102"
 chapter: 81
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "46 U.S.C. § 8102"
-generated_at: "2026-03-30T00:20:37.494Z"
+generated_at: "2026-03-30T00:23:02.734Z"
 ---
 
 # § 8102. Watchmen

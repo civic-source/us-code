@@ -3,9 +3,9 @@ title: "Section 313a - Establishment of meteorological observation stations in t
 usc_title: 15
 usc_section: "313a"
 chapter: 9
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 313a"
-generated_at: "2026-03-30T00:18:28.049Z"
+generated_at: "2026-03-30T00:21:29.438Z"
 ---
 
 # § 313a. Establishment of meteorological observation stations in the Arctic region

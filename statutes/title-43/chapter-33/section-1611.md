@@ -3,9 +3,9 @@ title: "Section 1611 - Native land selections"
 usc_title: 43
 usc_section: "1611"
 chapter: 33
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "43 U.S.C. § 1611"
-generated_at: "2026-03-30T00:20:08.083Z"
+generated_at: "2026-03-30T00:22:31.525Z"
 ---
 
 # § 1611. Native land selections

@@ -3,9 +3,9 @@ title: "Section 48E - Clean electricity investment credit"
 usc_title: 26
 usc_section: "48E"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 48E"
-generated_at: "2026-03-30T00:19:39.034Z"
+generated_at: "2026-03-30T00:22:16.675Z"
 ---
 
 # § 48E. Clean electricity investment credit
@@ -106,7 +106,7 @@ generated_at: "2026-03-30T00:19:39.034Z"
         - **(I)** is located in a low-income community (as defined in section 45D(e)) or on Indian land (as defined in section 2601(2) of the Energy Policy Act of 1992 ( 25 U.S.C. 3501(2) )), or
         - **(II)** is part of a qualified low-income residential building project or a qualified low-income economic benefit project.
     - **(B)** A facility shall be treated as part of a qualified low-income residential building project if—
-      - **(i)** such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 ( 34 U.S.C. 12491(a)(3) ), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4103(22) )) or such other affordable housing programs as the Secretary may provide, and
+      - **(i)** such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 ( 34 U.S.C. 12491(a)(3) ), 1 1 So in original. Another closing parenthesis probably should precede the comma. a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4103(22) )) or such other affordable housing programs as the Secretary may provide, and
       - **(ii)** the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
     - **(C)** A facility shall be treated as part of a qualified low-income economic benefit project if at least 50 percent of the financial benefits of the electricity produced by such facility are provided to households with income of—
       - **(i)** less than 200 percent of the poverty line (as defined in section 36B(d)(3)(A)) applicable to a family of the size involved, or

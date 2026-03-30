@@ -3,9 +3,9 @@ title: "Section 1924 - Repealed. Pub. L. 111–145, § 5(a)(2)(A) , Mar. 4, 2010
 usc_title: 2
 usc_section: "1924"
 chapter: 29
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "2 U.S.C. § 1924"
-generated_at: "2026-03-30T00:17:40.329Z"
+generated_at: "2026-03-30T00:20:57.393Z"
 ---
 
 # § 1924. Repealed. Pub. L. 111–145, § 5(a)(2)(A) , Mar. 4, 2010 , 124 Stat. 53

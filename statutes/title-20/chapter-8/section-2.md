@@ -3,9 +3,9 @@ title: "Section 2 - Investments"
 usc_title: 20
 usc_section: "2"
 chapter: 8
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T00:18:57.936Z"
+generated_at: "2026-03-30T00:21:49.811Z"
 ---
 
 # § 130aa–2. Investments

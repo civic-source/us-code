@@ -3,9 +3,9 @@ title: "Section 540C - FBI police"
 usc_title: 28
 usc_section: "540C"
 chapter: 33
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "28 U.S.C. § 540C"
-generated_at: "2026-03-30T00:19:45.356Z"
+generated_at: "2026-03-30T00:22:09.181Z"
 ---
 
 # § 540C. FBI police

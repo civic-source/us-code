@@ -3,9 +3,9 @@ title: "Section 1032 - Notice and disclosure requirements with respect to lump s
 usc_title: 29
 usc_section: "1032"
 chapter: 18
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "29 U.S.C. § 1032"
-generated_at: "2026-03-30T00:19:31.328Z"
+generated_at: "2026-03-30T00:22:10.290Z"
 ---
 
 # § 1032. Notice and disclosure requirements with respect to lump sums
@@ -15,7 +15,7 @@ generated_at: "2026-03-30T00:19:31.328Z"
   - **(2)** to the Secretary and the Pension Benefit Guaranty Corporation, not later than 30 days prior to the first day on which participants and beneficiaries may make an election with respect to such lump sum.
 - **(b)**
   - **(1)** The notice required under subsection (a)(1) shall include the following:
-    - **(A)** Available benefit options, including the estimated monthly benefit that the participant or beneficiary would receive at normal retirement age, whether there is a subsidized early retirement option or qualified joint and survivor annuity that is fully subsidized (in accordance with section 417(a)(5) of title 26 , the monthly benefit amount if payments begin immediately, and the lump sum amount available if the participant or beneficiary takes the option.
+    - **(A)** Available benefit options, including the estimated monthly benefit that the participant or beneficiary would receive at normal retirement age, whether there is a subsidized early retirement option or qualified joint and survivor annuity that is fully subsidized (in accordance with section 417(a)(5) of title 26 , 1 1 So in original. A closing parenthesis probably should precede the comma. the monthly benefit amount if payments begin immediately, and the lump sum amount available if the participant or beneficiary takes the option.
     - **(B)** An explanation of how the lump sum was calculated, including the interest rate, mortality assumptions, and whether any additional plan benefits were included in the lump sum, such as early retirement subsidies.
     - **(C)** In a manner consistent with the manner in which a written explanation is required to be given under 417(a)(3) of title 26, the relative value of the lump sum option for a terminated vested participant compared to the value of—
       - **(i)** the single life annuity, (or other standard form of benefit); and

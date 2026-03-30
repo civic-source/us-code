@@ -3,9 +3,9 @@ title: "Section 289e - Use of appropriations"
 usc_title: 42
 usc_section: "289e"
 chapter: 6
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 289e"
-generated_at: "2026-03-30T00:20:22.362Z"
+generated_at: "2026-03-30T00:22:52.203Z"
 ---
 
 # § 289e. Use of appropriations

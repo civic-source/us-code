@@ -3,9 +3,9 @@ title: "Section 44743 - Pilot training requirements"
 usc_title: 49
 usc_section: "44743"
 chapter: 447
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 44743"
-generated_at: "2026-03-30T00:20:32.916Z"
+generated_at: "2026-03-30T00:23:07.376Z"
 ---
 
 # § 44743. Pilot training requirements

@@ -3,9 +3,9 @@ title: "Section 1607 - Seizure; value $500,000 or less, prohibited merchandise, 
 usc_title: 19
 usc_section: "1607"
 chapter: 4
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "19 U.S.C. § 1607"
-generated_at: "2026-03-30T00:19:01.203Z"
+generated_at: "2026-03-30T00:21:40.959Z"
 ---
 
 # § 1607. Seizure; value $500,000 or less, prohibited merchandise, transporting conveyances

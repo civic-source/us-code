@@ -3,9 +3,9 @@ title: "Section 5326 - Reports"
 usc_title: 12
 usc_section: "5326"
 chapter: 53
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 5326"
-generated_at: "2026-03-30T00:18:37.723Z"
+generated_at: "2026-03-30T00:21:26.602Z"
 ---
 
 # § 5326. Reports

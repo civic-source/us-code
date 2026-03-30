@@ -3,9 +3,9 @@ title: "Section 48101 - Air navigation facilities and equipment"
 usc_title: 49
 usc_section: "48101"
 chapter: 481
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 48101"
-generated_at: "2026-03-30T00:20:32.933Z"
+generated_at: "2026-03-30T00:23:07.395Z"
 ---
 
 # § 48101. Air navigation facilities and equipment
@@ -17,6 +17,7 @@ generated_at: "2026-03-30T00:20:32.933Z"
   - **(4)** $3,547,000,000 for fiscal year 2021.
   - **(5)** $3,624,000,000 for fiscal year 2022.
   - **(6)** $3,701,000,000 for fiscal year 2023.
+  - **(7)** $740,273,224 for the period beginning on October 1, 2023 , and ending on December 31, 2023 .
 - **(b)** Amounts appropriated under this section remain available until expended.
 - **(c)** Of the amounts appropriated under subsection (a), such sums as may be necessary may be used for the following:
   - **(1)** The implementation and use of upgrades to the current automated surface observation system/automated weather observing system, if the upgrade is successfully demonstrated.

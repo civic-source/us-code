@@ -3,9 +3,9 @@ title: "Section 858 - Applicability to Canal Zone"
 usc_title: 50
 usc_section: "858"
 chapter: 23
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 858"
-generated_at: "2026-03-30T00:20:29.372Z"
+generated_at: "2026-03-30T00:22:59.034Z"
 ---
 
 # § 858. Applicability to Canal Zone

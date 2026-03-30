@@ -3,9 +3,9 @@ title: "Section 568 - Cooperation by Secretary of Agriculture with States in est
 usc_title: 16
 usc_section: "568"
 chapter: 3
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 568"
-generated_at: "2026-03-30T00:18:47.435Z"
+generated_at: "2026-03-30T00:21:39.131Z"
 ---
 
 # § 568. Cooperation by Secretary of Agriculture with States in establishing, etc., wood lots, shelter belts, windbreaks, etc.; limitation on expenditure; authorization of appropriations

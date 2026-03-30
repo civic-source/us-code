@@ -3,9 +3,9 @@ title: "Section 212 - Surveys; royalties; time payable; annual rentals; term of 
 usc_title: 30
 usc_section: "212"
 chapter: 3
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "30 U.S.C. § 212"
-generated_at: "2026-03-30T00:19:29.554Z"
+generated_at: "2026-03-30T00:22:08.281Z"
 ---
 
 # § 212. Surveys; royalties; time payable; annual rentals; term of leases; readjustment on renewals; minimum production; suspension of operation

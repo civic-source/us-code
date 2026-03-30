@@ -3,9 +3,9 @@ title: "Section 20501 - Findings and purposes"
 usc_title: 52
 usc_section: "20501"
 chapter: 205
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "52 U.S.C. § 20501"
-generated_at: "2026-03-30T00:20:39.417Z"
+generated_at: "2026-03-30T00:23:22.385Z"
 ---
 
 # § 20501. Findings and purposes

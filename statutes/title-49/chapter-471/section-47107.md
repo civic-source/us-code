@@ -3,9 +3,9 @@ title: "Section 47107 - Project grant application approval conditioned on assura
 usc_title: 49
 usc_section: "47107"
 chapter: 471
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 47107"
-generated_at: "2026-03-30T00:20:32.927Z"
+generated_at: "2026-03-30T00:23:07.387Z"
 ---
 
 # § 47107. Project grant application approval conditioned on assurances about airport operations
@@ -181,7 +181,7 @@ generated_at: "2026-03-30T00:20:32.927Z"
     - **(A)** describes the requests;
     - **(B)** provides an explanation as to why the requests could not be accommodated; and
     - **(C)** provides a time frame within which, if any, the airport will be able to accommodate the requests.
-  - **(3)** This subsection shall cease to be effective beginning October 1, 2023 .
+  - **(3)** This subsection shall cease to be effective beginning January 1, 2024 .
 - **(s)**
   - **(1)** Subject to paragraph (2), a sponsor of a general aviation airport shall not be considered to be in violation of this subtitle, or to be in violation of a grant assurance made under this section or under any other provision of law as a condition for the receipt of Federal financial assistance for airport development, solely because the sponsor enters into an agreement that grants to a person that owns residential real property adjacent to or near the airport access to the airfield of the airport for the following:
     - **(A)** Aircraft of the person.

@@ -3,9 +3,9 @@ title: "Section 1277 - Land acquisition"
 usc_title: 16
 usc_section: "1277"
 chapter: 28
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 1277"
-generated_at: "2026-03-30T00:18:47.500Z"
+generated_at: "2026-03-30T00:21:39.209Z"
 ---
 
 # § 1277. Land acquisition

@@ -3,9 +3,9 @@ title: "Section 10a - Public Health Emergency Medical Countermeasures Enterprise
 usc_title: 42
 usc_section: "10a"
 chapter: 6
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 10a"
-generated_at: "2026-03-30T00:20:22.460Z"
+generated_at: "2026-03-30T00:22:52.304Z"
 ---
 
 # § 300hh–10a. Public Health Emergency Medical Countermeasures Enterprise

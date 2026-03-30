@@ -3,9 +3,9 @@ title: "Section 5565 - Relief available"
 usc_title: 12
 usc_section: "5565"
 chapter: 53
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 5565"
-generated_at: "2026-03-30T00:18:37.741Z"
+generated_at: "2026-03-30T00:21:26.621Z"
 ---
 
 # § 5565. Relief available

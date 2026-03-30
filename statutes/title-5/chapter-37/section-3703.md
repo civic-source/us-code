@@ -3,9 +3,9 @@ title: "Section 3703 - Assignment of employees to private sector organizations"
 usc_title: 5
 usc_section: "3703"
 chapter: 37
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "5 U.S.C. § 3703"
-generated_at: "2026-03-30T00:17:57.259Z"
+generated_at: "2026-03-30T00:20:59.737Z"
 ---
 
 # § 3703. Assignment of employees to private sector organizations

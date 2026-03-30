@@ -3,9 +3,9 @@ title: "Section 2267a - Jurisdiction over institution-affiliated parties"
 usc_title: 12
 usc_section: "2267a"
 chapter: 23
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 2267a"
-generated_at: "2026-03-30T00:18:37.671Z"
+generated_at: "2026-03-30T00:21:26.543Z"
 ---
 
 # § 2267a. Jurisdiction over institution-affiliated parties

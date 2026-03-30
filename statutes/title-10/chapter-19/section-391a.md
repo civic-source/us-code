@@ -3,9 +3,9 @@ title: "Section 391a - Annual reports on support by military departments for Uni
 usc_title: 10
 usc_section: "391a"
 chapter: 19
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 391a"
-generated_at: "2026-03-30T00:18:12.182Z"
+generated_at: "2026-03-30T00:21:16.751Z"
 ---
 
 # § 391a. Annual reports on support by military departments for United States Cyber Command

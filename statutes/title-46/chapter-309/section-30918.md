@@ -3,9 +3,9 @@ title: "Section 30918 - Reports"
 usc_title: 46
 usc_section: "30918"
 chapter: 309
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "46 U.S.C. § 30918"
-generated_at: "2026-03-30T00:20:37.506Z"
+generated_at: "2026-03-30T00:23:02.745Z"
 ---
 
 # § 30918. Reports

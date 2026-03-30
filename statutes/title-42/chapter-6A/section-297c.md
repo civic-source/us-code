@@ -3,9 +3,9 @@ title: "Section 297c - Repealed. Pub. L. 105–392, title I, § 123(3) , Nov. 13
 usc_title: 42
 usc_section: "297c"
 chapter: 6
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 297c"
-generated_at: "2026-03-30T00:20:22.393Z"
+generated_at: "2026-03-30T00:22:52.234Z"
 ---
 
 # § 297c. Repealed. Pub. L. 105–392, title I, § 123(3) , Nov. 13, 1998 , 112 Stat. 3562

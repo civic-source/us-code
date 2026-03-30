@@ -3,9 +3,9 @@ title: "Section 55120 - Transshipment of imported merchandise intended for immed
 usc_title: 46
 usc_section: "55120"
 chapter: 551
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "46 U.S.C. § 55120"
-generated_at: "2026-03-30T00:20:37.522Z"
+generated_at: "2026-03-30T00:23:02.763Z"
 ---
 
 # § 55120. Transshipment of imported merchandise intended for immediate exportation

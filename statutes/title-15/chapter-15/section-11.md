@@ -3,9 +3,9 @@ title: "Section 11 - Annual appropriations to reimburse Commodity Credit Corpora
 usc_title: 15
 usc_section: "11"
 chapter: 15
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 11"
-generated_at: "2026-03-30T00:18:28.083Z"
+generated_at: "2026-03-30T00:21:29.478Z"
 ---
 
 # § 713a–11. Annual appropriations to reimburse Commodity Credit Corporation for net realized loss

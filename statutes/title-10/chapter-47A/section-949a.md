@@ -3,9 +3,9 @@ title: "Section 949a - Rules"
 usc_title: 10
 usc_section: "949a"
 chapter: 47
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 949a"
-generated_at: "2026-03-30T00:18:12.209Z"
+generated_at: "2026-03-30T00:21:16.779Z"
 ---
 
 # § 949a. Rules

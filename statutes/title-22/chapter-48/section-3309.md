@@ -3,9 +3,9 @@ title: "Section 3309 - Taiwan instrumentality"
 usc_title: 22
 usc_section: "3309"
 chapter: 48
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 3309"
-generated_at: "2026-03-30T00:19:26.913Z"
+generated_at: "2026-03-30T00:22:05.772Z"
 ---
 
 # § 3309. Taiwan instrumentality

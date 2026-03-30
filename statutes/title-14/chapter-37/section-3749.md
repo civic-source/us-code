@@ -3,9 +3,9 @@ title: "Section 3749 - Effect of removal by the President or failure of consent 
 usc_title: 14
 usc_section: "3749"
 chapter: 37
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "14 U.S.C. § 3749"
-generated_at: "2026-03-30T00:18:33.435Z"
+generated_at: "2026-03-30T00:21:20.871Z"
 ---
 
 # § 3749. Effect of removal by the President or failure of consent of the Senate

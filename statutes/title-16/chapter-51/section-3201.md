@@ -3,9 +3,9 @@ title: "Section 3201 - Administration of national preserves"
 usc_title: 16
 usc_section: "3201"
 chapter: 51
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 3201"
-generated_at: "2026-03-30T00:18:47.549Z"
+generated_at: "2026-03-30T00:21:39.268Z"
 ---
 
 # § 3201. Administration of national preserves

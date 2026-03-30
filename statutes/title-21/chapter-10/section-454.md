@@ -3,9 +3,9 @@ title: "Section 454 - Federal and State cooperation in development and administr
 usc_title: 21
 usc_section: "454"
 chapter: 10
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "21 U.S.C. § 454"
-generated_at: "2026-03-30T00:19:09.687Z"
+generated_at: "2026-03-30T00:21:55.526Z"
 ---
 
 # § 454. Federal and State cooperation in development and administration of State poultry product inspection programs

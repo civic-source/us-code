@@ -3,9 +3,9 @@ title: "Section 7436 - Methane emissions and waste reduction incentive program f
 usc_title: 42
 usc_section: "7436"
 chapter: 85
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 7436"
-generated_at: "2026-03-30T00:20:22.943Z"
+generated_at: "2026-03-30T00:22:52.797Z"
 ---
 
 # § 7436. Methane emissions and waste reduction incentive program for petroleum and natural gas systems

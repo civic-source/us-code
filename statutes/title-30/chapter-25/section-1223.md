@@ -3,9 +3,9 @@ title: "Section 1223 - Funding criteria"
 usc_title: 30
 usc_section: "1223"
 chapter: 25
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "30 U.S.C. § 1223"
-generated_at: "2026-03-30T00:19:29.572Z"
+generated_at: "2026-03-30T00:22:08.298Z"
 ---
 
 # § 1223. Funding criteria

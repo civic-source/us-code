@@ -3,9 +3,9 @@ title: "Section 824a - Interconnection and coordination of facilities; emergenci
 usc_title: 16
 usc_section: "824a"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 824a"
-generated_at: "2026-03-30T00:18:47.467Z"
+generated_at: "2026-03-30T00:21:39.167Z"
 ---
 
 # § 824a. Interconnection and coordination of facilities; emergencies; transmission to foreign countries

@@ -3,9 +3,9 @@ title: "Section 2105 - Report"
 usc_title: 46
 usc_section: "2105"
 chapter: 21
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "46 U.S.C. § 2105"
-generated_at: "2026-03-30T00:20:37.484Z"
+generated_at: "2026-03-30T00:23:02.723Z"
 ---
 
 # § 2105. Report

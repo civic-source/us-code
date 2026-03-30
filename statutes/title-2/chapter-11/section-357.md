@@ -3,9 +3,9 @@ title: "Section 357 - Report by Commission to President with respect to pay"
 usc_title: 2
 usc_section: "357"
 chapter: 11
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "2 U.S.C. § 357"
-generated_at: "2026-03-30T00:17:40.300Z"
+generated_at: "2026-03-30T00:20:57.369Z"
 ---
 
 # § 357. Report by Commission to President with respect to pay

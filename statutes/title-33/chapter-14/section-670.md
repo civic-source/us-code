@@ -3,9 +3,9 @@ title: "Section 670 - Surrender to United States of right to regulate debris of 
 usc_title: 33
 usc_section: "670"
 chapter: 14
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "33 U.S.C. § 670"
-generated_at: "2026-03-30T00:19:53.585Z"
+generated_at: "2026-03-30T00:22:20.574Z"
 ---
 
 # § 670. Surrender to United States of right to regulate debris of mine

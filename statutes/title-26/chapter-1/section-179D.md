@@ -3,9 +3,9 @@ title: "Section 179D - Energy efficient commercial buildings deduction"
 usc_title: 26
 usc_section: "179D"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 179D"
-generated_at: "2026-03-30T00:19:39.069Z"
+generated_at: "2026-03-30T00:22:16.711Z"
 ---
 
 # § 179D. Energy efficient commercial buildings deduction
@@ -54,7 +54,7 @@ generated_at: "2026-03-30T00:19:39.069Z"
     - **(A)** In the case of energy efficient commercial building property installed on or in property owned by a specified tax-exempt entity, the Secretary shall promulgate regulations or guidance to allow the allocation of the deduction to the person primarily responsible for designing the property in lieu of the owner of such property. Such person shall be treated as the taxpayer for purposes of this section.
     - **(B)** For purposes of this paragraph, the term “specified tax-exempt entity” means—
       - **(i)** the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing,
-      - **(ii)** an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602(m) ), and
+      - **(ii)** an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602(m) ), 1 1 So in original. Another closing parenthesis probably should precede the comma. and
       - **(iii)** any organization exempt from tax imposed by this chapter.
   - **(4)** Each certification required under this section shall include an explanation to the building owner regarding the energy efficiency features of the building and its projected annual energy costs as provided in the notice under paragraph (2)(B)(iii).
   - **(5)**

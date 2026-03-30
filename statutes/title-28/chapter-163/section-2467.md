@@ -3,9 +3,9 @@ title: "Section 2467 - Enforcement of foreign judgment"
 usc_title: 28
 usc_section: "2467"
 chapter: 163
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "28 U.S.C. § 2467"
-generated_at: "2026-03-30T00:19:45.375Z"
+generated_at: "2026-03-30T00:22:09.200Z"
 ---
 
 # § 2467. Enforcement of foreign judgment

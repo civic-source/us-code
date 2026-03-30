@@ -3,9 +3,9 @@ title: "Section 153705 - Powers"
 usc_title: 36
 usc_section: "153705"
 chapter: 1537
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "36 U.S.C. § 153705"
-generated_at: "2026-03-30T00:19:56.610Z"
+generated_at: "2026-03-30T00:22:26.287Z"
 ---
 
 # § 153705. Powers

@@ -3,9 +3,9 @@ title: "Section 13336 - Coalbed methane recovery"
 usc_title: 42
 usc_section: "13336"
 chapter: 134
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 13336"
-generated_at: "2026-03-30T00:20:23.091Z"
+generated_at: "2026-03-30T00:22:52.947Z"
 ---
 
 # § 13336. Coalbed methane recovery

@@ -3,9 +3,9 @@ title: "Section 8548 - Degree granting authority for United States Naval Postgra
 usc_title: 10
 usc_section: "8548"
 chapter: 855
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 8548"
-generated_at: "2026-03-30T00:18:12.344Z"
+generated_at: "2026-03-30T00:21:16.916Z"
 ---
 
 # § 8548. Degree granting authority for United States Naval Postgraduate School

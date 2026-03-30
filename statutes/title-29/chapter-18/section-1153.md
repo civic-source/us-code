@@ -3,15 +3,15 @@ title: "Section 1153 - Retirement Savings Lost and Found"
 usc_title: 29
 usc_section: "1153"
 chapter: 18
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "29 U.S.C. § 1153"
-generated_at: "2026-03-30T00:19:31.342Z"
+generated_at: "2026-03-30T00:22:10.307Z"
 ---
 
 # § 1153. Retirement Savings Lost and Found
 
 - **(a)**
-  - **(1)** Not later than 2 years after the date of the enactment of this section, the Secretary, in consultation with the Secretary of the Treasury, shall establish an online searchable database (to be managed by the Secretary in accordance with this section) to be known as the “Retirement Savings Lost and Found”. The Retirement Savings Lost and Found shall—
+  - **(1)** Not later than 2 years after December 29, 2022 , the Secretary, in consultation with the Secretary of the Treasury, shall establish an online searchable database (to be managed by the Secretary in accordance with this section) to be known as the “Retirement Savings Lost and Found”. The Retirement Savings Lost and Found shall—
     - **(A)** allow an individual to search for information that enables the individual to locate the administrator of any plan described in paragraph (2) with respect to which the individual is or was a participant or beneficiary, and provide contact information for the administrator of any such plan;
     - **(B)** allow the Secretary to assist such an individual in locating any such plan of the individual; and
     - **(C)** allow the Secretary to make any necessary changes to contact information on record for the administrator based on any changes to the plan due to merger or consolidation of the plan with any other plan, division of the plan into two or more plans, bankruptcy, termination, change in name of the plan, change in name or address of the administrator, or other causes.
@@ -21,7 +21,7 @@ generated_at: "2026-03-30T00:19:31.342Z"
   - **(1)** ensure that individuals’ plan and personal information maintained by the Retirement Savings Lost and Found is protected; and
   - **(2)** allow any individual to contact the Secretary to opt out of inclusion in the Retirement Savings Lost and Found.
 - **(d)** For purposes of this section, the term “administrator” has the meaning given such term in section 1002(16)(A) of this title .
-- **(e)** Effective with respect to plan years beginning after the second December 31 occurring after the date of the enactment of this subsection, the administrator of a plan to which the vesting standards of section 203 apply shall submit to the Secretary, at such time and in such form and manner as is prescribed in regulations—
+- **(e)** Effective with respect to plan years beginning after the second December 31 occurring after the date of the enactment of this subsection, the administrator of a plan to which the vesting standards of section 1053 of this title apply shall submit to the Secretary, at such time and in such form and manner as is prescribed in regulations—
   - **(1)** the information described in paragraphs (1) through (4) of section 6057(b) of title 26 ;
   - **(2)** the information described in subparagraphs (A) and (B) of section 6057(a)(2) of title 26 ;
   - **(3)** the name and taxpayer identifying number of each participant or former participant in the plan—

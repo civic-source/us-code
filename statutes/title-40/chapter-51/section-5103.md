@@ -3,9 +3,9 @@ title: "Section 5103 - Restrictions on public use of United States Capitol Groun
 usc_title: 40
 usc_section: "5103"
 chapter: 51
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "40 U.S.C. § 5103"
-generated_at: "2026-03-30T00:20:00.260Z"
+generated_at: "2026-03-30T00:22:25.190Z"
 ---
 
 # § 5103. Restrictions on public use of United States Capitol Grounds

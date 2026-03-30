@@ -3,9 +3,9 @@ title: "Section 3334n - Certification relating to information technology and sof
 usc_title: 50
 usc_section: "3334n"
 chapter: 45
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 3334n"
-generated_at: "2026-03-30T00:20:29.417Z"
+generated_at: "2026-03-30T00:22:59.082Z"
 ---
 
 # § 3334n. Certification relating to information technology and software systems

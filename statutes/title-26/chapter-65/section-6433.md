@@ -3,9 +3,9 @@ title: "Section 6433 - Saver’s Match"
 usc_title: 26
 usc_section: "6433"
 chapter: 65
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 6433"
-generated_at: "2026-03-30T00:19:39.266Z"
+generated_at: "2026-03-30T00:22:16.911Z"
 ---
 
 # § 6433. Saver’s Match
@@ -82,7 +82,7 @@ generated_at: "2026-03-30T00:19:39.266Z"
       - **(ii)** any plan or arrangement from which such a distribution is made under this subparagraph shall not be treated as violating any requirement under section 401, 403, or 457 solely by reason of making such distribution.
   - **(5)** Any payment made to any individual under this section shall not be—
     - **(A)** subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of section 6402 or any similar authority permitting offset, or
-    - **(B)** reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.t
+    - **(B)** reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.
   - **(6)**
     - **(A)** In the case of an applicable retirement savings vehicle to which contributions have been made under subsection (a)(2), and from which a specified early distribution has been made during the taxable year, if the aggregate amount of such contributions exceeds the account balance of such savings vehicle at the end of the such taxable year, the tax imposed by chapter 1 shall be increased by an amount equal to such excess (reduced by the amount by which the tax under such chapter was increased under section 72(t)(1) with respect to such distribution).
     - **(B)** For purposes of this paragraph, the term “specified early distribution” means any portion of a distribution—

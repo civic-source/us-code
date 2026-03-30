@@ -3,9 +3,9 @@ title: "Section 100904 - Admission and special recreation use fees"
 usc_title: 54
 usc_section: "100904"
 chapter: 1009
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "54 U.S.C. § 100904"
-generated_at: "2026-03-30T00:20:42.015Z"
+generated_at: "2026-03-30T00:23:29.572Z"
 ---
 
 # § 100904. Admission and special recreation use fees

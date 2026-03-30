@@ -3,9 +3,9 @@ title: "Section 714 - Arctic maritime domain awareness"
 usc_title: 14
 usc_section: "714"
 chapter: 7
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "14 U.S.C. § 714"
-generated_at: "2026-03-30T00:18:33.423Z"
+generated_at: "2026-03-30T00:21:20.860Z"
 ---
 
 # § 714. Arctic maritime domain awareness

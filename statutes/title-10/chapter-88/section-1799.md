@@ -3,9 +3,9 @@ title: "Section 1799 - Child care services and youth program services for depend
 usc_title: 10
 usc_section: "1799"
 chapter: 88
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 1799"
-generated_at: "2026-03-30T00:18:12.256Z"
+generated_at: "2026-03-30T00:21:16.825Z"
 ---
 
 # § 1799. Child care services and youth program services for dependents: participation by children and youth otherwise ineligible

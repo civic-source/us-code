@@ -3,9 +3,9 @@ title: "Section 3321 - Grants for projects under approved enhancement plans"
 usc_title: 16
 usc_section: "3321"
 chapter: 52
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 3321"
-generated_at: "2026-03-30T00:18:47.550Z"
+generated_at: "2026-03-30T00:21:39.269Z"
 ---
 
 # § 3321. Grants for projects under approved enhancement plans

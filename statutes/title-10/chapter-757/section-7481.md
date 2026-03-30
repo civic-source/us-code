@@ -3,9 +3,9 @@ title: "Section 7481 - Establishment: purpose"
 usc_title: 10
 usc_section: "7481"
 chapter: 757
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 7481"
-generated_at: "2026-03-30T00:18:12.334Z"
+generated_at: "2026-03-30T00:21:16.903Z"
 ---
 
 # § 7481. Establishment: purpose

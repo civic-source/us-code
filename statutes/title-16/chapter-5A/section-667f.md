@@ -3,9 +3,9 @@ title: "Section 667f - Availability of grain to prevent waterfowl depredations; 
 usc_title: 16
 usc_section: "667f"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 667f"
-generated_at: "2026-03-30T00:18:47.445Z"
+generated_at: "2026-03-30T00:21:39.142Z"
 ---
 
 # § 667f. Availability of grain to prevent waterfowl depredations; payment of packaging, transporting, handling, and other charges

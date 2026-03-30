@@ -3,9 +3,9 @@ title: "Section 390oo - Temporary supplies of water"
 usc_title: 43
 usc_section: "390oo"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "43 U.S.C. § 390oo"
-generated_at: "2026-03-30T00:20:08.048Z"
+generated_at: "2026-03-30T00:22:31.492Z"
 ---
 
 # § 390oo. Temporary supplies of water

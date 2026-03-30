@@ -3,9 +3,9 @@ title: "Section 3242 - Annual reports on certain cyber vulnerabilities procured 
 usc_title: 50
 usc_section: "3242"
 chapter: 44
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "50 U.S.C. § 3242"
-generated_at: "2026-03-30T00:20:29.414Z"
+generated_at: "2026-03-30T00:22:59.077Z"
 ---
 
 # § 3242. Annual reports on certain cyber vulnerabilities procured by intelligence community and foreign commercial providers of cyber vulnerabilities

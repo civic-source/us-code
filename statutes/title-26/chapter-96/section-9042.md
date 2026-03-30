@@ -3,9 +3,9 @@ title: "Section 9042 - Criminal penalties"
 usc_title: 26
 usc_section: "9042"
 chapter: 96
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 9042"
-generated_at: "2026-03-30T00:19:39.301Z"
+generated_at: "2026-03-30T00:22:16.942Z"
 ---
 
 # § 9042. Criminal penalties

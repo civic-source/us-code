@@ -3,9 +3,9 @@ title: "Section 4801 - Findings and purposes"
 usc_title: 22
 usc_section: "4801"
 chapter: 58
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 4801"
-generated_at: "2026-03-30T00:19:26.936Z"
+generated_at: "2026-03-30T00:22:05.798Z"
 ---
 
 # § 4801. Findings and purposes

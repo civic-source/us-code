@@ -3,9 +3,9 @@ title: "Section 8317 - Minors enlisted upon false statement of age"
 usc_title: 10
 usc_section: "8317"
 chapter: 839
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 8317"
-generated_at: "2026-03-30T00:18:12.341Z"
+generated_at: "2026-03-30T00:21:16.912Z"
 ---
 
 # § 8317. Minors enlisted upon false statement of age

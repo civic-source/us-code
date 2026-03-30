@@ -3,9 +3,9 @@ title: "Section 301c - Incentive pay: submarine duty"
 usc_title: 37
 usc_section: "301c"
 chapter: 5
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "37 U.S.C. § 301c"
-generated_at: "2026-03-30T00:19:55.801Z"
+generated_at: "2026-03-30T00:22:25.574Z"
 ---
 
 # § 301c. Incentive pay: submarine duty

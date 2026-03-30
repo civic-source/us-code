@@ -3,9 +3,9 @@ title: "Section 60107 - Payment of fees on departing vessel"
 usc_title: 46
 usc_section: "60107"
 chapter: 601
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "46 U.S.C. § 60107"
-generated_at: "2026-03-30T00:20:37.526Z"
+generated_at: "2026-03-30T00:23:02.769Z"
 ---
 
 # § 60107. Payment of fees on departing vessel

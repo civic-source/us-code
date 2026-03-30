@@ -3,9 +3,9 @@ title: "Section 17051 - Renewable fuel dispenser requirements"
 usc_title: 42
 usc_section: "17051"
 chapter: 152
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 17051"
-generated_at: "2026-03-30T00:20:23.143Z"
+generated_at: "2026-03-30T00:22:52.999Z"
 ---
 
 # § 17051. Renewable fuel dispenser requirements

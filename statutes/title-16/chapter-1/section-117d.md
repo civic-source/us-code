@@ -3,9 +3,9 @@ title: "Section 117d - Forfeiture of property used for unlawful purpose"
 usc_title: 16
 usc_section: "117d"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 117d"
-generated_at: "2026-03-30T00:18:47.319Z"
+generated_at: "2026-03-30T00:21:38.990Z"
 ---
 
 # § 117d. Forfeiture of property used for unlawful purpose

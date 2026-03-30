@@ -3,9 +3,9 @@ title: "Section 2651a - Organization of Department of State"
 usc_title: 22
 usc_section: "2651a"
 chapter: 38
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 2651a"
-generated_at: "2026-03-30T00:19:26.895Z"
+generated_at: "2026-03-30T00:22:05.753Z"
 ---
 
 # § 2651a. Organization of Department of State
@@ -186,7 +186,7 @@ generated_at: "2026-03-30T00:19:26.895Z"
     - **(F)** serve as the lead representative of the Department in interagency discussions with respect to the development and implementation of sanctions policy.
   - **(4)**
     - **(A)** The head of the Office may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the Office.
-    - **(B)** The authority provided under subparagraph (A) shall terminate on the date that is two years after December 31, 2024 .
+    - **(B)** The authority provided under subparagraph (A) shall terminate on December 31, 2024 .
 - **(m)**
   - **(1)** In this subsection:
     - **(A)** The term “country of concern” means—

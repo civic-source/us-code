@@ -3,9 +3,9 @@ title: "Section 5302 - Severability"
 usc_title: 12
 usc_section: "5302"
 chapter: 53
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "12 U.S.C. § 5302"
-generated_at: "2026-03-30T00:18:37.722Z"
+generated_at: "2026-03-30T00:21:26.601Z"
 ---
 
 # § 5302. Severability

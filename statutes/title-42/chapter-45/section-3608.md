@@ -3,9 +3,9 @@ title: "Section 3608 - Administration"
 usc_title: 42
 usc_section: "3608"
 chapter: 45
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 3608"
-generated_at: "2026-03-30T00:20:22.826Z"
+generated_at: "2026-03-30T00:22:52.674Z"
 ---
 
 # § 3608. Administration

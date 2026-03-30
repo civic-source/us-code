@@ -3,9 +3,9 @@ title: "Section 12208 - Transvestites"
 usc_title: 42
 usc_section: "12208"
 chapter: 126
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 12208"
-generated_at: "2026-03-30T00:20:23.059Z"
+generated_at: "2026-03-30T00:22:52.915Z"
 ---
 
 # § 12208. Transvestites

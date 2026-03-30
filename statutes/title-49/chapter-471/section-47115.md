@@ -3,9 +3,9 @@ title: "Section 47115 - Discretionary fund"
 usc_title: 49
 usc_section: "47115"
 chapter: 471
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 47115"
-generated_at: "2026-03-30T00:20:32.929Z"
+generated_at: "2026-03-30T00:23:07.391Z"
 ---
 
 # § 47115. Discretionary fund
@@ -39,7 +39,7 @@ generated_at: "2026-03-30T00:20:32.929Z"
   - **(2)** In a fiscal year in which the amount credited under subsection (a) is less than the minimum amount to be credited under paragraph (1), the total amount calculated under paragraph (3) shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals such minimum amount.
   - **(3)** For a fiscal year, the total amount available to make a reduction to carry out paragraph (2) is the total of the amounts determined under sections 47114(c)(1)(A), 47114(c)(2), 47114(d), and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction.
 - **(h)** In making grants in a fiscal year with funds made available under this section, the Secretary shall fulfill intentions to obligate under section 47110(e).
-- **(i)** For fiscal years 2018 through 2023, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
+- **(i)** For fiscal years 2018 through 2023, and for the period beginning on October 1, 2023 , and ending on December 31, 2023 , the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
 - **(j)**
   - **(1)** The Secretary shall establish a program to provide grants, subject to the conditions of this subsection, for any purpose for which amounts are made available under section 48103 that the Secretary considers most appropriate to carry out this subchapter.
   - **(2)**
@@ -57,6 +57,7 @@ generated_at: "2026-03-30T00:20:32.929Z"
       - **(iii)** $1,064,000,000 for fiscal year 2021.
       - **(iv)** $1,087,000,000 for fiscal year 2022.
       - **(v)** $1,110,000,000 for fiscal year 2023.
+      - **(vi)** $140,401,803 for the period beginning on October 1, 2023 , and ending on December 31, 2023 .
     - **(B)** Sums authorized to be appropriated under subparagraph (A) shall remain available for 2 fiscal years.
 - **(k)**
   - **(1)** The Secretary may make grants with funds made available under this section for an airport participating in the program under section 47134 if—

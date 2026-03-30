@@ -3,9 +3,9 @@ title: "Section 186 - Reservation of easements or rights-of-way for working purp
 usc_title: 30
 usc_section: "186"
 chapter: 3
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "30 U.S.C. § 186"
-generated_at: "2026-03-30T00:19:29.552Z"
+generated_at: "2026-03-30T00:22:08.279Z"
 ---
 
 # § 186. Reservation of easements or rights-of-way for working purposes; reservation of right to dispose of surface of lands; determination before offering of lease; easement periods

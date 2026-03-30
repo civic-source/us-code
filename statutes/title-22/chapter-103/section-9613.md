@@ -3,9 +3,9 @@ title: "Section 9613 - Management of Corporation"
 usc_title: 22
 usc_section: "9613"
 chapter: 103
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 9613"
-generated_at: "2026-03-30T00:19:26.991Z"
+generated_at: "2026-03-30T00:22:05.859Z"
 ---
 
 # § 9613. Management of Corporation
@@ -90,4 +90,4 @@ generated_at: "2026-03-30T00:19:26.991Z"
   - **(1)** There is established a Development Advisory Council (in this subsection referred to as the “Council”) to advise the Board on development objectives of the Corporation.
   - **(2)** Members of the Council shall be appointed by the Board, on the recommendation of the Chief Executive Officer and the Chief Development Officer, and shall be composed of not more than 9 members broadly representative of nongovernmental organizations, think tanks, advocacy organizations, foundations, and other institutions engaged in international development.
   - **(3)** The Board shall call upon members of the Council, either collectively or individually, to advise the Board regarding the extent to which the Corporation is meeting its development mandate and any suggestions for improvements in with respect to meeting that mandate, including opportunities in countries and project development and implementation challenges and opportunities.
-  - **(4)** The Council shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(4)** The Council shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.

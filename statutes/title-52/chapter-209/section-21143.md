@@ -3,9 +3,9 @@ title: "Section 21143 - Review and report on adequacy of existing electoral frau
 usc_title: 52
 usc_section: "21143"
 chapter: 209
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "52 U.S.C. § 21143"
-generated_at: "2026-03-30T00:20:39.424Z"
+generated_at: "2026-03-30T00:23:22.393Z"
 ---
 
 # § 21143. Review and report on adequacy of existing electoral fraud statutes and penalties

@@ -3,9 +3,9 @@ title: "Section 3035 - Procurement of personnel"
 usc_title: 33
 usc_section: "3035"
 chapter: 43
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "33 U.S.C. § 3035"
-generated_at: "2026-03-30T00:19:53.659Z"
+generated_at: "2026-03-30T00:22:20.645Z"
 ---
 
 # § 3035. Procurement of personnel

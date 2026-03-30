@@ -3,9 +3,9 @@ title: "Section 9a - Summary and repatriation of unassociated funerary objects, 
 usc_title: 20
 usc_section: "9a"
 chapter: 3
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "20 U.S.C. § 9a"
-generated_at: "2026-03-30T00:18:57.933Z"
+generated_at: "2026-03-30T00:21:49.808Z"
 ---
 
 # § 80q–9a. Summary and repatriation of unassociated funerary objects, sacred objects, and cultural patrimony

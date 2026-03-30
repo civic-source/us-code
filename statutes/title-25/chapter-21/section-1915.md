@@ -3,9 +3,9 @@ title: "Section 1915 - Placement of Indian children"
 usc_title: 25
 usc_section: "1915"
 chapter: 21
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "25 U.S.C. § 1915"
-generated_at: "2026-03-30T00:19:08.543Z"
+generated_at: "2026-03-30T00:21:54.362Z"
 ---
 
 # § 1915. Placement of Indian children

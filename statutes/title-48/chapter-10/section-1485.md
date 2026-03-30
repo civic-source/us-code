@@ -3,9 +3,9 @@ title: "Section 1485 - Repealed. Pub. L. 98–213, § 16(ff) –(jj), Dec. 8, 19
 usc_title: 48
 usc_section: "1485"
 chapter: 10
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "48 U.S.C. § 1485"
-generated_at: "2026-03-30T00:20:26.310Z"
+generated_at: "2026-03-30T00:22:59.584Z"
 ---
 
 # §§ 1481 to 1485. Repealed. Pub. L. 98–213, § 16(ff) –(jj), Dec. 8, 1983 , 97 Stat. 1463

@@ -3,9 +3,9 @@ title: "Section 360ff - Priority review to encourage treatments for rare pediatr
 usc_title: 21
 usc_section: "360ff"
 chapter: 9
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "21 U.S.C. § 360ff"
-generated_at: "2026-03-30T00:19:09.654Z"
+generated_at: "2026-03-30T00:21:55.492Z"
 ---
 
 # § 360ff. Priority review to encourage treatments for rare pediatric diseases
@@ -54,7 +54,7 @@ generated_at: "2026-03-30T00:19:09.654Z"
     - **(B)** the average cost incurred by the Food and Drug Administration in the review of a human drug application that is not subject to priority review in the previous fiscal year.
   - **(3)** The Secretary shall establish, before the beginning of each fiscal year beginning after September 30, 2012 , the amount of the priority review user fee for that fiscal year.
   - **(4)**
-    - **(A)** The priority review user fee required by this subsection shall be due upon the notification by a sponsor of the intent of such sponsor to use the voucher, as specified in subsection (b)(4)(A). All other user fees associated with the human drug application shall be due as required by the Secretary or under applicable law.
+    - **(A)** The priority review user fee required by this subsection shall be due upon the notification by a sponsor of the intent of such sponsor to use the voucher, as specified in subsection (b)(4)(A). 2 2 See References in Text note below. All other user fees associated with the human drug application shall be due as required by the Secretary or under applicable law.
     - **(B)** An application described under subparagraph (A) for which the sponsor requests the use of a priority review voucher shall be considered incomplete if the fee required by this subsection and all other applicable user fees are not paid in accordance with the Secretary’s procedures for paying such fees.
     - **(C)** The Secretary may not grant a waiver, exemption, reduction, or refund of any fees due and payable under this section.
   - **(5)** Fees collected pursuant to this subsection for any fiscal year—
@@ -81,7 +81,7 @@ generated_at: "2026-03-30T00:19:09.654Z"
   - **(2)** If, after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section, a sponsor of an application submitted under section 355(b) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ] for a drug uses a priority review voucher under this section for such application, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a document—
     - **(A)** notifying such Committees of the use of such voucher; and
     - **(B)** identifying the drug for which such priority review voucher is used.
-- **(g)** Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made.. 2 2 So in original.
+- **(g)** Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made.. 3 3 So in original.
 - **(h)** The provisions of this section shall supplement, not supplant, any other provisions of this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.] that encourage the development of drugs for tropical diseases and rare pediatric diseases.
 - **(i)**
   - **(1)**

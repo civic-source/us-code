@@ -3,9 +3,9 @@ title: "Section 3067 - Approval required for military department termination or 
 usc_title: 10
 usc_section: "3067"
 chapter: 203
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 3067"
-generated_at: "2026-03-30T00:18:12.303Z"
+generated_at: "2026-03-30T00:21:16.870Z"
 ---
 
 # § 3067. Approval required for military department termination or reduction in participation in joint acquisition programs

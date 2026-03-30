@@ -3,9 +3,9 @@ title: "Section 5338 - Authorizations"
 usc_title: 49
 usc_section: "5338"
 chapter: 53
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 5338"
-generated_at: "2026-03-30T00:20:32.849Z"
+generated_at: "2026-03-30T00:23:07.304Z"
 ---
 
 # § 5338. Authorizations

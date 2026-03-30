@@ -3,9 +3,9 @@ title: "Section 740 - Senate Service Department and House Publications Distribut
 usc_title: 44
 usc_section: "740"
 chapter: 7
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "44 U.S.C. § 740"
-generated_at: "2026-03-30T00:20:08.509Z"
+generated_at: "2026-03-30T00:22:30.579Z"
 ---
 
 # § 740. Senate Service Department and House Publications Distribution Service; superintendents

@@ -3,9 +3,9 @@ title: "Section 1155 - Revocation of approval of petitions; effective date"
 usc_title: 8
 usc_section: "1155"
 chapter: 12
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "8 U.S.C. § 1155"
-generated_at: "2026-03-30T00:18:02.650Z"
+generated_at: "2026-03-30T00:21:04.814Z"
 ---
 
 # § 1155. Revocation of approval of petitions; effective date

@@ -3,9 +3,9 @@ title: "Section 17111 - Future of industry program"
 usc_title: 42
 usc_section: "17111"
 chapter: 152
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 17111"
-generated_at: "2026-03-30T00:20:23.147Z"
+generated_at: "2026-03-30T00:22:53.002Z"
 ---
 
 # § 17111. Future of industry program

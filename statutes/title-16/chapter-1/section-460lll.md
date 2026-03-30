@@ -3,9 +3,9 @@ title: "Section 460lll - Definitions"
 usc_title: 16
 usc_section: "460lll"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "16 U.S.C. § 460lll"
-generated_at: "2026-03-30T00:18:47.405Z"
+generated_at: "2026-03-30T00:21:39.096Z"
 ---
 
 # § 460lll. Definitions

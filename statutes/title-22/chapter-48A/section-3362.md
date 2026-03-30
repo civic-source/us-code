@@ -3,9 +3,9 @@ title: "Section 3362 - Task force to counter economic coercion by the People’s
 usc_title: 22
 usc_section: "3362"
 chapter: 48
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "22 U.S.C. § 3362"
-generated_at: "2026-03-30T00:19:26.914Z"
+generated_at: "2026-03-30T00:22:05.774Z"
 ---
 
 # § 3362. Task force to counter economic coercion by the People’s Republic of China
@@ -65,5 +65,5 @@ generated_at: "2026-03-30T00:19:26.914Z"
   - **(4)** The reports required by this subsection shall be submitted in classified form, but may include an unclassified summary.
 - **(f)**
   - **(1)** The Task Force shall terminate at the end of the 60-day period beginning on the date on which the final report required by subsection (e)(3) is submitted to Congress.
-  - **(2)** The Task force 1 1 So in original. may use the 60-day period referred to in paragraph (1) for the purposes of concluding its activities, including providing testimony to Congress concerning the final report required by subsection (e)(3).
+  - **(2)** The Task force 1 1 So in original. Probably should be capitalized. may use the 60-day period referred to in paragraph (1) for the purposes of concluding its activities, including providing testimony to Congress concerning the final report required by subsection (e)(3).
 - **(g)** The Secretary of State, the Administrator of the United States Agency for International Development, the United States International Development Finance Corporation, the Secretary of Commerce, and the Secretary of the Treasury shall provide appropriate assistance to countries and entities that are subject to coercive economic practices by the People’s Republic of China.

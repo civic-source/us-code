@@ -3,9 +3,9 @@ title: "Section 611 - Convening of selection boards"
 usc_title: 10
 usc_section: "611"
 chapter: 36
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 611"
-generated_at: "2026-03-30T00:18:12.192Z"
+generated_at: "2026-03-30T00:21:16.761Z"
 ---
 
 # § 611. Convening of selection boards

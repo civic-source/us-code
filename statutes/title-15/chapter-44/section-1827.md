@@ -3,9 +3,9 @@ title: "Section 1827 - Utilization of personnel of Department of Agriculture and
 usc_title: 15
 usc_section: "1827"
 chapter: 44
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 1827"
-generated_at: "2026-03-30T00:18:28.132Z"
+generated_at: "2026-03-30T00:21:29.536Z"
 ---
 
 # § 1827. Utilization of personnel of Department of Agriculture and officers and employees of consenting States; technical and other nonfinancial assistance to State

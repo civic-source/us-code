@@ -3,9 +3,9 @@ title: "Section 1382 - Taxable income of cooperatives"
 usc_title: 26
 usc_section: "1382"
 chapter: 1
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "26 U.S.C. § 1382"
-generated_at: "2026-03-30T00:19:39.180Z"
+generated_at: "2026-03-30T00:22:16.826Z"
 ---
 
 # § 1382. Taxable income of cooperatives

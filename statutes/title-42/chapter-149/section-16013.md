@@ -3,9 +3,9 @@ title: "Section 16013 - Authorization of appropriations"
 usc_title: 42
 usc_section: "16013"
 chapter: 149
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 16013"
-generated_at: "2026-03-30T00:20:23.116Z"
+generated_at: "2026-03-30T00:22:52.973Z"
 ---
 
 # § 16013. Authorization of appropriations

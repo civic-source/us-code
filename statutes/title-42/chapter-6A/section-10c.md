@@ -3,9 +3,9 @@ title: "Section 10c - National Advisory Committee on Seniors and Disasters"
 usc_title: 42
 usc_section: "10c"
 chapter: 6
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "42 U.S.C. § 10c"
-generated_at: "2026-03-30T00:20:22.460Z"
+generated_at: "2026-03-30T00:22:52.304Z"
 ---
 
 # § 300hh–10c. National Advisory Committee on Seniors and Disasters
@@ -34,5 +34,5 @@ generated_at: "2026-03-30T00:20:22.460Z"
 - **(e)** The Advisory Committee shall meet not less frequently than biannually. At least one meeting per year shall be an in-person meeting.
 - **(f)** The Secretary shall coordinate duties and activities authorized under this section in accordance with section 300hh–10e of this title .
 - **(g)**
-  - **(1)** The Advisory Committee shall terminate on September 30, 2023 .
+  - **(1)** The Advisory Committee shall terminate on November 17, 2023 .
   - **(2)** Not later than October 1, 2022 , the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.

@@ -3,9 +3,9 @@ title: "Section 904a - Art. 104a. Fraudulent enlistment, appointment, or separat
 usc_title: 10
 usc_section: "904a"
 chapter: 47
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "10 U.S.C. § 904a"
-generated_at: "2026-03-30T00:18:12.206Z"
+generated_at: "2026-03-30T00:21:16.775Z"
 ---
 
 # § 904a. Art. 104a. Fraudulent enlistment, appointment, or separation

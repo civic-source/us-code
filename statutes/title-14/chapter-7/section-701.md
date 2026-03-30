@@ -3,9 +3,9 @@ title: "Section 701 - Cooperation with other agencies, States, territories, and 
 usc_title: 14
 usc_section: "701"
 chapter: 7
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "14 U.S.C. § 701"
-generated_at: "2026-03-30T00:18:33.423Z"
+generated_at: "2026-03-30T00:21:20.859Z"
 ---
 
 # § 701. Cooperation with other agencies, States, territories, and political subdivisions

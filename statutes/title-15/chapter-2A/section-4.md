@@ -3,9 +3,9 @@ title: "Section 4 - Data standards"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T00:18:27.999Z"
+generated_at: "2026-03-30T00:21:29.377Z"
 ---
 
 # § 77z–4. Data standards

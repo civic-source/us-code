@@ -3,9 +3,9 @@ title: "Section 44803 - Unmanned aircraft test ranges"
 usc_title: 49
 usc_section: "44803"
 chapter: 448
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "49 U.S.C. § 44803"
-generated_at: "2026-03-30T00:20:32.917Z"
+generated_at: "2026-03-30T00:23:07.376Z"
 ---
 
 # § 44803. Unmanned aircraft test ranges
@@ -37,4 +37,4 @@ generated_at: "2026-03-30T00:20:32.917Z"
 - **(e)** The Secretary of Transportation may authorize an operator of a test range described in subsection (a) to administer testing requirements established by the Administrator for unmanned aircraft systems operations.
 - **(f)** The Administrator may use the other transaction authority under section 106( l )(6) and enter into collaborative research and development agreements, to direct research related to unmanned aircraft systems, including at any test range under subsection (a), and in coordination with the Center of Excellence for Unmanned Aircraft Systems.
 - **(g)** The Administrator, in carrying out research necessary to implement the consensus safety standards requirements in section 44805 shall, to the maximum extent practicable, leverage the research and testing capacity and capabilities of the Center of Excellence for Unmanned Aircraft Systems and the test ranges.
-- **(h)** The program under this section shall terminate on September 30, 2023 .
+- **(h)** The program under this section shall terminate on December 31, 2023 .

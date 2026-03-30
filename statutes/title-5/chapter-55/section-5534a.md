@@ -3,9 +3,9 @@ title: "Section 5534a - Dual employment and pay during terminal leave from unifo
 usc_title: 5
 usc_section: "5534a"
 chapter: 55
-current_through: "PL 118-14"
+current_through: "PL 118-16"
 classification: "5 U.S.C. § 5534a"
-generated_at: "2026-03-30T00:17:57.269Z"
+generated_at: "2026-03-30T00:20:59.745Z"
 ---
 
 # § 5534a. Dual employment and pay during terminal leave from uniformed services
