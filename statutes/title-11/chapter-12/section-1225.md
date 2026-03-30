@@ -3,9 +3,9 @@ title: "Section 1225 - Confirmation of plan"
 usc_title: 11
 usc_section: "1225"
 chapter: 12
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "11 U.S.C. § 1225"
-generated_at: "2026-03-30T05:46:57.563Z"
+generated_at: "2026-03-30T05:49:35.411Z"
 status: "active"
 ---
 

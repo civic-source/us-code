@@ -3,9 +3,9 @@ title: "Section 50 - Vice admirals"
 usc_title: 14
 usc_section: "50"
 chapter: 3
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "14 U.S.C. § 50"
-generated_at: "2026-03-30T05:46:56.492Z"
+generated_at: "2026-03-30T05:49:35.031Z"
 status: "active"
 ---
 

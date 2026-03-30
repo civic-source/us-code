@@ -3,9 +3,9 @@ title: "Section 5545a - Availability pay for criminal investigators"
 usc_title: 5
 usc_section: "5545a"
 chapter: 55
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "5 U.S.C. § 5545a"
-generated_at: "2026-03-30T05:45:59.106Z"
+generated_at: "2026-03-30T05:49:20.467Z"
 status: "active"
 ---
 
@@ -55,7 +55,7 @@ status: "active"
   - **(2)** treated as part of the basic pay for purposes of—
     - **(A)** sections 5595(c), 8114(e), 8331(3), and 8704(c); and
     - **(B)** such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
-- **(i)** The provisions of subsections (a)–(h) providing for availability pay shall apply to a pilot employed by the United States Customs Service who is a law enforcement officer as defined under section 5541(3). For the purpose of this section, section 5542(d) of this title , and section 13(a)(16) and (b)(30) of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 213(a)(16) and (b)(30)), such pilot shall be deemed to be a criminal investigator as defined in this section. The Office of Personnel Management may prescribe regulations to carry out this subsection.
+- **(i)** The provisions of subsections (a)–(h) providing for availability pay shall apply to any employee of the U.S. Customs and Border Protection’s Air and Marine Operations, or any successor organization, who is a law enforcement officer as defined under section 5541(3). For the purpose of this section, section 5542(d) of this title , and section 13(a)(16) and (b)(30) of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 213(a)(16) and (b)(30)), such employee shall be deemed to be a criminal investigator as defined in this section. The Office of Personnel Management may prescribe regulations to carry out this subsection.
 - **(j)** Notwithstanding any other provision of this section, any Office of Inspector General which employs fewer than 5 criminal investigators may elect not to cover such criminal investigators under this section.
 - **(k)**
   - **(1)** For purposes of this section, the term “criminal investigator” includes a special agent occupying a position under title II of Public Law 99–399 if such special agent—

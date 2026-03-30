@@ -3,9 +3,9 @@ title: "Section 303a - Special pay: general provisions"
 usc_title: 37
 usc_section: "303a"
 chapter: 5
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "37 U.S.C. § 303a"
-generated_at: "2026-03-30T05:48:21.657Z"
+generated_at: "2026-03-30T05:51:22.234Z"
 status: "active"
 ---
 

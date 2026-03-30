@@ -3,9 +3,9 @@ title: "Section 2486 - Transferred"
 usc_title: 42
 usc_section: "2486"
 chapter: 26
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 2486"
-generated_at: "2026-03-30T05:48:46.985Z"
+generated_at: "2026-03-30T05:52:02.883Z"
 status: "transferred"
 ---
 

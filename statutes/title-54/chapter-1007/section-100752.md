@@ -3,9 +3,9 @@ title: "Section 100752 - Destruction of animals and plant life"
 usc_title: 54
 usc_section: "100752"
 chapter: 1007
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "54 U.S.C. § 100752"
-generated_at: "2026-03-30T05:48:58.890Z"
+generated_at: "2026-03-30T05:52:17.196Z"
 status: "active"
 ---
 

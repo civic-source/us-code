@@ -3,9 +3,9 @@ title: "Section 3179 - Research on strategies to promote the selection and consu
 usc_title: 7
 usc_section: "3179"
 chapter: 64
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "7 U.S.C. § 3179"
-generated_at: "2026-03-30T05:46:20.239Z"
+generated_at: "2026-03-30T05:49:28.587Z"
 status: "active"
 ---
 

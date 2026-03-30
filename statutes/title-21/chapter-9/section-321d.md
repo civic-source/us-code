@@ -3,9 +3,9 @@ title: "Section 321d - Market names for catfish and ginseng"
 usc_title: 21
 usc_section: "321d"
 chapter: 9
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "21 U.S.C. § 321d"
-generated_at: "2026-03-30T05:47:42.306Z"
+generated_at: "2026-03-30T05:50:09.600Z"
 status: "active"
 ---
 

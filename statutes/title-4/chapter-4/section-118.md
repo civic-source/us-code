@@ -3,9 +3,9 @@ title: "Section 118 - Limitations"
 usc_title: 4
 usc_section: "118"
 chapter: 4
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "4 U.S.C. § 118"
-generated_at: "2026-03-30T05:45:59.267Z"
+generated_at: "2026-03-30T05:49:12.456Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1711 - General Surplus and Participating Reserve Accounts"
 usc_title: 12
 usc_section: "1711"
 chapter: 13
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "12 U.S.C. § 1711"
-generated_at: "2026-03-30T05:47:03.089Z"
+generated_at: "2026-03-30T05:49:42.258Z"
 status: "active"
 ---
 

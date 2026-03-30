@@ -3,9 +3,9 @@ title: "Section 5751 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5751"
 chapter: 72
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 5751"
-generated_at: "2026-03-30T05:48:47.062Z"
+generated_at: "2026-03-30T05:52:02.957Z"
 status: "active"
 ---
 

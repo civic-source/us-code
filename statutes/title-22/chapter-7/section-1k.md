@@ -3,9 +3,9 @@ title: "Section 1k - Capital stock increase"
 usc_title: 22
 usc_section: "1k"
 chapter: 7
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "22 U.S.C. § 1k"
-generated_at: "2026-03-30T05:47:39.323Z"
+generated_at: "2026-03-30T05:49:57.988Z"
 status: "active"
 ---
 

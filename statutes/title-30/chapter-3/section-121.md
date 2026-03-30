@@ -3,9 +3,9 @@ title: "Section 121 - Agricultural entry or purchase of lands withdrawn or class
 usc_title: 30
 usc_section: "121"
 chapter: 3
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "30 U.S.C. § 121"
-generated_at: "2026-03-30T05:47:49.795Z"
+generated_at: "2026-03-30T05:50:11.845Z"
 status: "active"
 ---
 

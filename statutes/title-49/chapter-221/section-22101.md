@@ -3,9 +3,9 @@ title: "Section 22101 - Financial assistance for State projects"
 usc_title: 49
 usc_section: "22101"
 chapter: 221
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "49 U.S.C. § 22101"
-generated_at: "2026-03-30T05:48:54.562Z"
+generated_at: "2026-03-30T05:52:14.952Z"
 status: "active"
 ---
 

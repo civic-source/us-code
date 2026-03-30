@@ -3,9 +3,9 @@ title: "Section 3637 - Repealed. Pub. L. 90–235 , § 7(b)(1), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "3637"
 chapter: 349
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 3637"
-generated_at: "2026-03-30T05:46:47.754Z"
+generated_at: "2026-03-30T05:49:31.683Z"
 status: "repealed"
 ---
 

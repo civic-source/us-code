@@ -3,9 +3,9 @@ title: "Section 44720 - Meteorological services"
 usc_title: 49
 usc_section: "44720"
 chapter: 447
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "49 U.S.C. § 44720"
-generated_at: "2026-03-30T05:48:54.595Z"
+generated_at: "2026-03-30T05:52:14.987Z"
 status: "active"
 ---
 

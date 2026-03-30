@@ -3,9 +3,9 @@ title: "Section 1437 - Declaration of policy and public housing agency organizat
 usc_title: 42
 usc_section: "1437"
 chapter: 8
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 1437"
-generated_at: "2026-03-30T05:48:46.912Z"
+generated_at: "2026-03-30T05:52:02.811Z"
 status: "active"
 ---
 

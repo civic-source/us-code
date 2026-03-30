@@ -3,9 +3,9 @@ title: "Section 2614 - Repealed. Pub. L. 97–35, title V , § 587(a)(4), Aug. 1
 usc_title: 20
 usc_section: "2614"
 chapter: 46
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "20 U.S.C. § 2614"
-generated_at: "2026-03-30T05:47:09.440Z"
+generated_at: "2026-03-30T05:49:52.006Z"
 status: "repealed"
 ---
 

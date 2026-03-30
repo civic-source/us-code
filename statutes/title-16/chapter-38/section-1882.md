@@ -3,9 +3,9 @@ title: "Section 1882 - Fisheries systems research"
 usc_title: 16
 usc_section: "1882"
 chapter: 38
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 1882"
-generated_at: "2026-03-30T05:47:33.929Z"
+generated_at: "2026-03-30T05:49:48.298Z"
 status: "active"
 ---
 

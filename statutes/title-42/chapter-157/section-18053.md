@@ -3,9 +3,9 @@ title: "Section 18053 - Provisions relating to offering of plans in more than on
 usc_title: 42
 usc_section: "18053"
 chapter: 157
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 18053"
-generated_at: "2026-03-30T05:48:47.315Z"
+generated_at: "2026-03-30T05:52:03.201Z"
 status: "active"
 ---
 

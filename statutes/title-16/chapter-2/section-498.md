@@ -3,9 +3,9 @@ title: "Section 498 - Cooperative work agreements: disposal of moneys received; 
 usc_title: 16
 usc_section: "498"
 chapter: 2
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 498"
-generated_at: "2026-03-30T05:47:33.841Z"
+generated_at: "2026-03-30T05:49:48.210Z"
 status: "active"
 ---
 

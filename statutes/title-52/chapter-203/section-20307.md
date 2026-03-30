@@ -3,9 +3,9 @@ title: "Section 20307 - Enforcement"
 usc_title: 52
 usc_section: "20307"
 chapter: 203
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "52 U.S.C. § 20307"
-generated_at: "2026-03-30T05:48:59.061Z"
+generated_at: "2026-03-30T05:52:21.430Z"
 status: "active"
 ---
 

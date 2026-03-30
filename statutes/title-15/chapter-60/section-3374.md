@@ -3,9 +3,9 @@ title: "Section 3374 - Clauses prohibiting certain sales, transportation, and co
 usc_title: 15
 usc_section: "3374"
 chapter: 60
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "15 U.S.C. § 3374"
-generated_at: "2026-03-30T05:46:56.216Z"
+generated_at: "2026-03-30T05:49:38.536Z"
 status: "active"
 ---
 

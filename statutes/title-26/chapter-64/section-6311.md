@@ -3,9 +3,9 @@ title: "Section 6311 - Payment of tax by commercially acceptable means"
 usc_title: 26
 usc_section: "6311"
 chapter: 64
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "26 U.S.C. § 6311"
-generated_at: "2026-03-30T05:47:59.884Z"
+generated_at: "2026-03-30T05:50:45.343Z"
 status: "active"
 ---
 

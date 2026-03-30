@@ -3,9 +3,9 @@ title: "Section 694b - Surety bond guarantees"
 usc_title: 15
 usc_section: "694b"
 chapter: 14
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "15 U.S.C. § 694b"
-generated_at: "2026-03-30T05:46:56.145Z"
+generated_at: "2026-03-30T05:49:38.466Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
   - **(2)** a surety must obtain approval from the Administration prior to making any payments pursuant to this subsection unless the surety is participating under the authority of subsection (a)(3); and
   - **(3)** no payment by the Administration pursuant to this subsection shall exceed 10 per centum of the contract price unless the Administrator determines that a greater payment should be made as a result of a finding by the Administrator that the surety’s loss sustained in avoiding or attempting to avoid such breach was necessary and reasonable.
 - **(c)** Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum—
-  - **(1)** not to exceed 70 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration’s guarantee under subsection (a)(3);
+  - **(1)** not to exceed 90 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration’s guarantee under subsection (a)(3);
   - **(2)** not to exceed 90 per centum of the loss incurred and paid in the case of a surety requiring the Administration’s specific approval for the issuance of such bond, but in no event may the Administration make any duplicate payment pursuant to subsection (b) or any other subsection;
   - **(3)** equal to 90 per centum of the loss incurred and paid in the case of a surety requiring the administration’s 1 1 So in original. Probably should be capitalized. specific approval for the issuance of a bond, if—
     - **(A)** the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or

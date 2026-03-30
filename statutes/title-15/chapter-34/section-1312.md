@@ -3,15 +3,15 @@ title: "Section 1312 - Civil investigative demands"
 usc_title: 15
 usc_section: "1312"
 chapter: 34
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "15 U.S.C. § 1312"
-generated_at: "2026-03-30T05:46:56.164Z"
+generated_at: "2026-03-30T05:49:38.485Z"
 status: "active"
 ---
 
 # § 1312. Civil investigative demands
 
-- **(a)** Whenever the Attorney General, or the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice, has reason to believe that any person may be in possession, custody, or control of any documentary material, or may have any information, relevant to a civil antitrust investigation or, with respect to the International Antitrust Enforcement Assistance Act of 1994 [ 15 U.S.C. 6201 et seq.], an investigation authorized by section 3 of such Act [ 15 U.S.C. 6202 ], he may, prior to the institution of a civil or criminal proceeding by the United States thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such documentary material for inspection any copying or reproduction, to answer in writing written interrogatories, to give oral testimony concerning documentary material or information, or to furnish any combination of such material, answers, or testimony. Whenever a civil investigative demand is an express demand for any product of discovery, the Attorney General or the Assistant Attorney General in charge of the Antitrust Division shall cause to be served, in any manner authorized by this section, a copy of such demand upon the person from whom the discovery was obtained and notify the person to whom such demand is issued of the date on which such copy was served.
+- **(a)** Whenever the Attorney General, or the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice, has reason to believe that any person may be in possession, custody, or control of any documentary material, or may have any information, relevant to a civil antitrust investigation or, with respect to the International Antitrust Enforcement Assistance Act of 1994 [ 15 U.S.C. 6201 et seq.], an investigation authorized by section 3 of such Act [ 15 U.S.C. 6202 ], he may, prior to the institution of a civil or criminal proceeding by the United States thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such documentary material for inspection and copying or reproduction, to answer in writing written interrogatories, to give oral testimony concerning documentary material or information, or to furnish any combination of such material, answers, or testimony. Whenever a civil investigative demand is an express demand for any product of discovery, the Attorney General or the Assistant Attorney General in charge of the Antitrust Division shall cause to be served, in any manner authorized by this section, a copy of such demand upon the person from whom the discovery was obtained and notify the person to whom such demand is issued of the date on which such copy was served.
 - **(b)** Each such demand shall—
   - **(1)** state the nature of—
     - **(A)** the conduct constituting the alleged antitrust violation, or

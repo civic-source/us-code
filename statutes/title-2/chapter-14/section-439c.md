@@ -3,9 +3,9 @@ title: "Section 439c - Transferred"
 usc_title: 2
 usc_section: "439c"
 chapter: 14
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "2 U.S.C. § 439c"
-generated_at: "2026-03-30T05:46:13.873Z"
+generated_at: "2026-03-30T05:49:10.118Z"
 status: "transferred"
 ---
 

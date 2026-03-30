@@ -3,9 +3,9 @@ title: "Section 3603 - Duties of probation officers"
 usc_title: 18
 usc_section: "3603"
 chapter: 229
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "18 U.S.C. § 3603"
-generated_at: "2026-03-30T05:47:06.653Z"
+generated_at: "2026-03-30T05:49:49.227Z"
 status: "active"
 ---
 

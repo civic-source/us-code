@@ -3,9 +3,9 @@ title: "Section 1118 - Documents beyond scope of ordinary departmental business"
 usc_title: 44
 usc_section: "1118"
 chapter: 11
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "44 U.S.C. § 1118"
-generated_at: "2026-03-30T05:48:23.651Z"
+generated_at: "2026-03-30T05:51:31.739Z"
 status: "active"
 ---
 

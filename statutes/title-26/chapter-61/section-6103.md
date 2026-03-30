@@ -3,9 +3,9 @@ title: "Section 6103 - Confidentiality and disclosure of returns and return info
 usc_title: 26
 usc_section: "6103"
 chapter: 61
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "26 U.S.C. § 6103"
-generated_at: "2026-03-30T05:47:59.874Z"
+generated_at: "2026-03-30T05:50:45.333Z"
 status: "active"
 ---
 

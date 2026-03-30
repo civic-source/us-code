@@ -3,9 +3,9 @@ title: "Section 5963 - Repealed. Pub. L. 113–291, div. A, title XIII , § 1351
 usc_title: 22
 usc_section: "5963"
 chapter: 68
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "22 U.S.C. § 5963"
-generated_at: "2026-03-30T05:47:39.409Z"
+generated_at: "2026-03-30T05:49:58.076Z"
 status: "repealed"
 ---
 

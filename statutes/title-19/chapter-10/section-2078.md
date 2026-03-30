@@ -3,9 +3,9 @@ title: "Section 2078 - Certification of reason for advance"
 usc_title: 19
 usc_section: "2078"
 chapter: 10
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "19 U.S.C. § 2078"
-generated_at: "2026-03-30T05:47:25.986Z"
+generated_at: "2026-03-30T05:49:50.260Z"
 status: "active"
 ---
 

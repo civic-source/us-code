@@ -3,9 +3,9 @@ title: "Section 471a - Repealed. Pub. L. 87–651, title III , § 307B, Sept. 7,
 usc_title: 14
 usc_section: "471a"
 chapter: 13
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "14 U.S.C. § 471a"
-generated_at: "2026-03-30T05:46:56.495Z"
+generated_at: "2026-03-30T05:49:35.034Z"
 status: "repealed"
 ---
 

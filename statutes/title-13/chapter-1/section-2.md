@@ -3,9 +3,9 @@ title: "Section 2 - Bureau of the Census"
 usc_title: 13
 usc_section: "2"
 chapter: 1
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "13 U.S.C. § 2"
-generated_at: "2026-03-30T05:46:56.333Z"
+generated_at: "2026-03-30T05:49:34.845Z"
 status: "active"
 ---
 

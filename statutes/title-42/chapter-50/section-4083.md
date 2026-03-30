@@ -3,9 +3,9 @@ title: "Section 4083 - Settlement of claims; arbitration"
 usc_title: 42
 usc_section: "4083"
 chapter: 50
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 4083"
-generated_at: "2026-03-30T05:48:47.026Z"
+generated_at: "2026-03-30T05:52:02.923Z"
 status: "active"
 ---
 

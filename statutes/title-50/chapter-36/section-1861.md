@@ -3,9 +3,9 @@ title: "Section 1861 - Access to certain business records for foreign intelligen
 usc_title: 50
 usc_section: "1861"
 chapter: 36
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "50 U.S.C. § 1861"
-generated_at: "2026-03-30T05:48:52.345Z"
+generated_at: "2026-03-30T05:52:07.048Z"
 status: "active"
 ---
 

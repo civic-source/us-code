@@ -3,9 +3,9 @@ title: "Section 2316 - Penalties"
 usc_title: 19
 usc_section: "2316"
 chapter: 12
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "19 U.S.C. § 2316"
-generated_at: "2026-03-30T05:47:25.993Z"
+generated_at: "2026-03-30T05:49:50.267Z"
 status: "active"
 ---
 

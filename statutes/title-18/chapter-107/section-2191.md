@@ -3,9 +3,9 @@ title: "Section 2191 - Cruelty to seamen"
 usc_title: 18
 usc_section: "2191"
 chapter: 107
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "18 U.S.C. § 2191"
-generated_at: "2026-03-30T05:47:06.633Z"
+generated_at: "2026-03-30T05:49:49.207Z"
 status: "active"
 ---
 

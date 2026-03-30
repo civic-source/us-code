@@ -3,9 +3,9 @@ title: "Section 2276 - Commercial space launch cooperation"
 usc_title: 10
 usc_section: "2276"
 chapter: 135
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 2276"
-generated_at: "2026-03-30T05:46:47.719Z"
+generated_at: "2026-03-30T05:49:31.648Z"
 status: "active"
 ---
 

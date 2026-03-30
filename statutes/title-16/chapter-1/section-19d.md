@@ -3,9 +3,9 @@ title: "Section 19d - Repealed. Aug. 30, 1954, ch. 1076 , § 1(25), 68 Stat. 968
 usc_title: 16
 usc_section: "19d"
 chapter: 1
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 19d"
-generated_at: "2026-03-30T05:47:33.756Z"
+generated_at: "2026-03-30T05:49:48.122Z"
 status: "repealed"
 ---
 

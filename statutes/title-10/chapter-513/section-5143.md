@@ -3,9 +3,9 @@ title: "Section 5143 - Office of Navy Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "5143"
 chapter: 513
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 5143"
-generated_at: "2026-03-30T05:46:47.762Z"
+generated_at: "2026-03-30T05:49:31.690Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Judicial relief"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T05:48:46.963Z"
+generated_at: "2026-03-30T05:52:02.861Z"
 status: "active"
 ---
 

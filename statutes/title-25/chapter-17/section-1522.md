@@ -3,9 +3,9 @@ title: "Section 1522 - Conditions"
 usc_title: 25
 usc_section: "1522"
 chapter: 17
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "25 U.S.C. § 1522"
-generated_at: "2026-03-30T05:47:37.024Z"
+generated_at: "2026-03-30T05:49:55.407Z"
 status: "active"
 ---
 

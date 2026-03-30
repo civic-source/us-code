@@ -3,9 +3,9 @@ title: "Section 1525 - Special studies; special compilations, lists, bulletins, 
 usc_title: 15
 usc_section: "1525"
 chapter: 40
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "15 U.S.C. § 1525"
-generated_at: "2026-03-30T05:46:56.168Z"
+generated_at: "2026-03-30T05:49:38.488Z"
 status: "active"
 ---
 

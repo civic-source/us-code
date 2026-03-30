@@ -3,9 +3,9 @@ title: "Section 2434 - Independent cost estimates"
 usc_title: 10
 usc_section: "2434"
 chapter: 144
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 2434"
-generated_at: "2026-03-30T05:46:47.733Z"
+generated_at: "2026-03-30T05:49:31.661Z"
 status: "active"
 ---
 

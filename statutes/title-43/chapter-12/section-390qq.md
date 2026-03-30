@@ -3,9 +3,9 @@ title: "Section 390qq - Isolated tracts"
 usc_title: 43
 usc_section: "390qq"
 chapter: 12
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "43 U.S.C. § 390qq"
-generated_at: "2026-03-30T05:48:30.824Z"
+generated_at: "2026-03-30T05:51:33.080Z"
 status: "active"
 ---
 

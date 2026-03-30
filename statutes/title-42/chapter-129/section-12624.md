@@ -3,9 +3,9 @@ title: "Section 12624 - Evaluations"
 usc_title: 42
 usc_section: "12624"
 chapter: 129
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 12624"
-generated_at: "2026-03-30T05:48:47.225Z"
+generated_at: "2026-03-30T05:52:03.113Z"
 status: "active"
 ---
 

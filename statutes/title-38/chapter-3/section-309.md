@@ -3,9 +3,9 @@ title: "Section 309 - Chief Financial Officer"
 usc_title: 38
 usc_section: "309"
 chapter: 3
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "38 U.S.C. § 309"
-generated_at: "2026-03-30T05:48:20.653Z"
+generated_at: "2026-03-30T05:51:21.848Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 145 - Veterans Day"
 usc_title: 36
 usc_section: "145"
 chapter: 1
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "36 U.S.C. § 145"
-generated_at: "2026-03-30T05:48:19.563Z"
+generated_at: "2026-03-30T05:51:15.257Z"
 status: "active"
 ---
 

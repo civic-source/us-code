@@ -3,9 +3,9 @@ title: "Section 17733 - Repealed or Transferred"
 usc_title: 42
 usc_section: "17733"
 chapter: 155
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 17733"
-generated_at: "2026-03-30T05:48:47.309Z"
+generated_at: "2026-03-30T05:52:03.195Z"
 status: "repealed"
 ---
 

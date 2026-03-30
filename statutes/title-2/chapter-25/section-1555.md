@@ -3,9 +3,9 @@ title: "Section 1555 - “Federal mandate” defined"
 usc_title: 2
 usc_section: "1555"
 chapter: 25
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "2 U.S.C. § 1555"
-generated_at: "2026-03-30T05:46:13.898Z"
+generated_at: "2026-03-30T05:49:10.134Z"
 status: "active"
 ---
 

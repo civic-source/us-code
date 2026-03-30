@@ -3,9 +3,9 @@ title: "Section 3710 - Limitation on authority"
 usc_title: 16
 usc_section: "3710"
 chapter: 57
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 3710"
-generated_at: "2026-03-30T05:47:33.946Z"
+generated_at: "2026-03-30T05:49:48.315Z"
 status: "active"
 ---
 

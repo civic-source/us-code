@@ -3,9 +3,9 @@ title: "Section 2722 - Theft or loss of ammunition, destructive devices, and exp
 usc_title: 10
 usc_section: "2722"
 chapter: 161
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 2722"
-generated_at: "2026-03-30T05:46:47.746Z"
+generated_at: "2026-03-30T05:49:31.673Z"
 status: "active"
 ---
 

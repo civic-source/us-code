@@ -3,9 +3,9 @@ title: "Section 6701 - Definitions"
 usc_title: 22
 usc_section: "6701"
 chapter: 75
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "22 U.S.C. § 6701"
-generated_at: "2026-03-30T05:47:39.417Z"
+generated_at: "2026-03-30T05:49:58.084Z"
 status: "active"
 ---
 

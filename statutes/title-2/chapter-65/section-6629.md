@@ -3,9 +3,9 @@ title: "Section 6629 - Purchase, lease, exchange, maintenance, and operation of 
 usc_title: 2
 usc_section: "6629"
 chapter: 65
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "2 U.S.C. § 6629"
-generated_at: "2026-03-30T05:46:13.930Z"
+generated_at: "2026-03-30T05:49:10.157Z"
 status: "active"
 ---
 

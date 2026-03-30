@@ -3,9 +3,9 @@ title: "Section 31102 - Purposes"
 usc_title: 36
 usc_section: "31102"
 chapter: 311
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "36 U.S.C. § 31102"
-generated_at: "2026-03-30T05:48:19.568Z"
+generated_at: "2026-03-30T05:51:15.262Z"
 status: "active"
 ---
 

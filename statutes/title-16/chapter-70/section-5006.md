@@ -3,9 +3,9 @@ title: "Section 5006 - Administration and enforcement of Convention"
 usc_title: 16
 usc_section: "5006"
 chapter: 70
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 5006"
-generated_at: "2026-03-30T05:47:33.962Z"
+generated_at: "2026-03-30T05:49:48.330Z"
 status: "active"
 ---
 

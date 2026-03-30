@@ -3,9 +3,9 @@ title: "Section 705 - Copyright Office records: Preparation, maintenance, public
 usc_title: 17
 usc_section: "705"
 chapter: 7
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "17 U.S.C. § 705"
-generated_at: "2026-03-30T05:47:05.209Z"
+generated_at: "2026-03-30T05:49:44.134Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2861 - Military construction projects in connection with industr
 usc_title: 10
 usc_section: "2861"
 chapter: 169
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 2861"
-generated_at: "2026-03-30T05:46:47.750Z"
+generated_at: "2026-03-30T05:49:31.678Z"
 status: "active"
 ---
 

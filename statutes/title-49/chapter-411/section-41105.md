@@ -3,9 +3,9 @@ title: "Section 41105 - Transfers of certificates"
 usc_title: 49
 usc_section: "41105"
 chapter: 411
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "49 U.S.C. § 41105"
-generated_at: "2026-03-30T05:48:54.586Z"
+generated_at: "2026-03-30T05:52:14.977Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2179 - Prototype desalting plant"
 usc_title: 22
 usc_section: "2179"
 chapter: 32
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "22 U.S.C. § 2179"
-generated_at: "2026-03-30T05:47:39.349Z"
+generated_at: "2026-03-30T05:49:58.015Z"
 status: "active"
 ---
 

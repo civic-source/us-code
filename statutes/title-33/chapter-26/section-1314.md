@@ -3,9 +3,9 @@ title: "Section 1314 - Information and guidelines"
 usc_title: 33
 usc_section: "1314"
 chapter: 26
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "33 U.S.C. § 1314"
-generated_at: "2026-03-30T05:48:03.015Z"
+generated_at: "2026-03-30T05:51:10.154Z"
 status: "active"
 ---
 

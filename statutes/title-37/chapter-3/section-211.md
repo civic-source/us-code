@@ -3,9 +3,9 @@ title: "Section 211 - Participation in Thrift Savings Plan"
 usc_title: 37
 usc_section: "211"
 chapter: 3
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "37 U.S.C. § 211"
-generated_at: "2026-03-30T05:48:21.655Z"
+generated_at: "2026-03-30T05:51:22.232Z"
 status: "active"
 ---
 

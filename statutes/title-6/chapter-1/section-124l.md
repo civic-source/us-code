@@ -3,9 +3,9 @@ title: "Section 124l - National asset database"
 usc_title: 6
 usc_section: "124l"
 chapter: 1
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "6 U.S.C. § 124l"
-generated_at: "2026-03-30T05:46:16.249Z"
+generated_at: "2026-03-30T05:49:24.506Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2901 - Overall and principal trade negotiating objectives of the
 usc_title: 19
 usc_section: "2901"
 chapter: 17
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "19 U.S.C. § 2901"
-generated_at: "2026-03-30T05:47:26.005Z"
+generated_at: "2026-03-30T05:49:50.280Z"
 status: "active"
 ---
 

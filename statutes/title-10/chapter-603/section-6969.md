@@ -3,9 +3,9 @@ title: "Section 6969 - Band: composition"
 usc_title: 10
 usc_section: "6969"
 chapter: 603
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 6969"
-generated_at: "2026-03-30T05:46:47.767Z"
+generated_at: "2026-03-30T05:49:31.694Z"
 status: "active"
 ---
 

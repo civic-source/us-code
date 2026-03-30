@@ -3,9 +3,9 @@ title: "Section 3 - Prohibited foreign trade practices by persons other than iss
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T05:46:56.100Z"
+generated_at: "2026-03-30T05:49:38.423Z"
 status: "active"
 ---
 

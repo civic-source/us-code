@@ -3,9 +3,9 @@ title: "Section 7901 - Programs; purpose"
 usc_title: 38
 usc_section: "7901"
 chapter: 79
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "38 U.S.C. § 7901"
-generated_at: "2026-03-30T05:48:20.700Z"
+generated_at: "2026-03-30T05:51:21.900Z"
 status: "active"
 ---
 

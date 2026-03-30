@@ -3,9 +3,9 @@ title: "Section 561 - Scrambling of sexually explicit adult video service progra
 usc_title: 47
 usc_section: "561"
 chapter: 5
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "47 U.S.C. § 561"
-generated_at: "2026-03-30T05:48:52.784Z"
+generated_at: "2026-03-30T05:52:12.373Z"
 status: "active"
 ---
 

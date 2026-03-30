@@ -3,9 +3,9 @@ title: "Section 2252A - Certain activities relating to material constituting or 
 usc_title: 18
 usc_section: "2252A"
 chapter: 110
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "18 U.S.C. § 2252A"
-generated_at: "2026-03-30T05:47:06.634Z"
+generated_at: "2026-03-30T05:49:49.208Z"
 status: "active"
 ---
 

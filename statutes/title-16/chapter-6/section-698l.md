@@ -3,9 +3,9 @@ title: "Section 698l - Review of Big Cypress Preserve area and Addition area by 
 usc_title: 16
 usc_section: "698l"
 chapter: 6
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 698l"
-generated_at: "2026-03-30T05:47:33.865Z"
+generated_at: "2026-03-30T05:49:48.235Z"
 status: "active"
 ---
 

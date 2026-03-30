@@ -3,9 +3,9 @@ title: "Section 955 - State laws"
 usc_title: 30
 usc_section: "955"
 chapter: 22
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "30 U.S.C. § 955"
-generated_at: "2026-03-30T05:47:49.809Z"
+generated_at: "2026-03-30T05:50:11.861Z"
 status: "active"
 ---
 

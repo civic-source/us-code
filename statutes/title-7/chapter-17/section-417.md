@@ -3,9 +3,9 @@ title: "Section 417 - Distribution of farmers’ bulletins"
 usc_title: 7
 usc_section: "417"
 chapter: 17
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "7 U.S.C. § 417"
-generated_at: "2026-03-30T05:46:20.138Z"
+generated_at: "2026-03-30T05:49:28.504Z"
 status: "active"
 ---
 

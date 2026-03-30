@@ -3,9 +3,9 @@ title: "Section 26 - Lower Colorado River emergency flood control works; agreeme
 usc_title: 22
 usc_section: "26"
 chapter: 7
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "22 U.S.C. § 26"
-generated_at: "2026-03-30T05:47:39.318Z"
+generated_at: "2026-03-30T05:49:57.984Z"
 status: "active"
 ---
 

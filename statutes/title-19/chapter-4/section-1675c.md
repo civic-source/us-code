@@ -3,9 +3,9 @@ title: "Section 1675c - Repealed. Pub. L. 109–171, title VII , § 7601(a), Feb
 usc_title: 19
 usc_section: "1675c"
 chapter: 4
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "19 U.S.C. § 1675c"
-generated_at: "2026-03-30T05:47:25.980Z"
+generated_at: "2026-03-30T05:49:50.253Z"
 status: "repealed"
 ---
 

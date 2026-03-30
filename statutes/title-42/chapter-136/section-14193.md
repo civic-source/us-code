@@ -3,9 +3,9 @@ title: "Section 14193 - Purposes"
 usc_title: 42
 usc_section: "14193"
 chapter: 136
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 14193"
-generated_at: "2026-03-30T05:48:47.265Z"
+generated_at: "2026-03-30T05:52:03.152Z"
 status: "active"
 ---
 

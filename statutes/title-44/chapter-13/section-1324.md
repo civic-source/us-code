@@ -3,9 +3,9 @@ title: "Section 1324 - Labor Statistics, Bureau of: bulletins"
 usc_title: 44
 usc_section: "1324"
 chapter: 13
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "44 U.S.C. § 1324"
-generated_at: "2026-03-30T05:48:23.652Z"
+generated_at: "2026-03-30T05:51:31.739Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5817a - Employee-suggested research projects; approval; funding;
 usc_title: 42
 usc_section: "5817a"
 chapter: 73
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 5817a"
-generated_at: "2026-03-30T05:48:47.063Z"
+generated_at: "2026-03-30T05:52:02.959Z"
 status: "active"
 ---
 

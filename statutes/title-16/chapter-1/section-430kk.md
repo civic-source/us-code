@@ -3,9 +3,9 @@ title: "Section 430kk - Wilson’s Creek National Battlefield: establishment and
 usc_title: 16
 usc_section: "430kk"
 chapter: 1
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 430kk"
-generated_at: "2026-03-30T05:47:33.800Z"
+generated_at: "2026-03-30T05:49:48.167Z"
 status: "active"
 ---
 

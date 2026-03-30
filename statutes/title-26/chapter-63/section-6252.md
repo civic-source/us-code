@@ -3,9 +3,9 @@ title: "Section 6252 - Judicial review where administrative adjustment request i
 usc_title: 26
 usc_section: "6252"
 chapter: 63
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "26 U.S.C. § 6252"
-generated_at: "2026-03-30T05:47:59.883Z"
+generated_at: "2026-03-30T05:50:45.342Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9061 - Fatality reviews"
 usc_title: 10
 usc_section: "9061"
 chapter: 875
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 9061"
-generated_at: "2026-03-30T05:46:47.776Z"
+generated_at: "2026-03-30T05:49:31.703Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13822 - Provision of assistance"
 usc_title: 42
 usc_section: "13822"
 chapter: 136
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 13822"
-generated_at: "2026-03-30T05:48:47.252Z"
+generated_at: "2026-03-30T05:52:03.140Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15q - Repealed. Pub. L. 90–576, title I , § 103, Oct. 16, 196
 usc_title: 20
 usc_section: "15q"
 chapter: 2
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "20 U.S.C. § 15q"
-generated_at: "2026-03-30T05:47:09.355Z"
+generated_at: "2026-03-30T05:49:51.920Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 49 - Extension of cooperative work to Puerto Rico"
 usc_title: 43
 usc_section: "49"
 chapter: 2
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "43 U.S.C. § 49"
-generated_at: "2026-03-30T05:48:30.816Z"
+generated_at: "2026-03-30T05:51:33.069Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3413 - Exceptions"
 usc_title: 12
 usc_section: "3413"
 chapter: 35
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "12 U.S.C. § 3413"
-generated_at: "2026-03-30T05:47:03.164Z"
+generated_at: "2026-03-30T05:49:42.333Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
 - **(d)** Nothing in this chapter shall authorize the withholding of financial records or information required to be reported in accordance with any Federal statute or rule promulgated thereunder.
 - **(e)** Nothing in this chapter shall apply when financial records are sought by a Government authority under the Federal Rules of Civil or Criminal Procedure or comparable rules of other courts in connection with litigation to which the Government authority and the customer are parties.
 - **(f)** Nothing in this chapter shall apply when financial records are sought by a Government authority pursuant to an administrative subpena issued by an administrative law judge in an adjudicatory proceeding subject to section 554 of title 5 and to which the Government authority and the customer are parties.
-- **(g)** The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in section 3402 of this title and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act [ 50 U.S.C. 4305(b) ]; the International Emergency Economic Powers Act (title II, Public Law 95–223 ) [ 50 U.S.C. 1701 et seq.]; or section 287c of title 22 .
+- **(g)** The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in section 3402 of this title and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 4305(b) of title 50 ; the International Emergency Economic Powers Act (title II, Public Law 95–223 ) [ 50 U.S.C. 1701 et seq.]; or section 287c of title 22 .
 - **(h)**
   - **(1)** Nothing in this chapter (except sections 3403, 3417 and 3418 of this title) shall apply when financial records are sought by a Government authority—
     - **(A)** in connection with a lawful proceeding, investigation, examination, or inspection directed at a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer) or at a legal entity which is not a customer; or

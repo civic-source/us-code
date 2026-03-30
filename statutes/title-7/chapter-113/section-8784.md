@@ -3,9 +3,9 @@ title: "Section 8784 - Assignment of payments"
 usc_title: 7
 usc_section: "8784"
 chapter: 113
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "7 U.S.C. § 8784"
-generated_at: "2026-03-30T05:46:20.311Z"
+generated_at: "2026-03-30T05:49:28.644Z"
 status: "active"
 ---
 

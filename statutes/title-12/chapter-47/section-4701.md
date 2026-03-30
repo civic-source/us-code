@@ -3,9 +3,9 @@ title: "Section 4701 - Findings and purposes"
 usc_title: 12
 usc_section: "4701"
 chapter: 47
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "12 U.S.C. § 4701"
-generated_at: "2026-03-30T05:47:03.182Z"
+generated_at: "2026-03-30T05:49:42.351Z"
 status: "active"
 ---
 

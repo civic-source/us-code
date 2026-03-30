@@ -3,9 +3,9 @@ title: "Section 4237 - Attu Island restitution program"
 usc_title: 50
 usc_section: "4237"
 chapter: 52
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "50 U.S.C. § 4237"
-generated_at: "2026-03-30T05:48:52.388Z"
+generated_at: "2026-03-30T05:52:07.093Z"
 status: "active"
 ---
 

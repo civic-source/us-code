@@ -3,9 +3,9 @@ title: "Section 1 - General authority"
 usc_title: 14
 usc_section: "1"
 chapter: 18
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "14 U.S.C. § 1"
-generated_at: "2026-03-30T05:46:56.499Z"
+generated_at: "2026-03-30T05:49:35.037Z"
 status: "active"
 ---
 

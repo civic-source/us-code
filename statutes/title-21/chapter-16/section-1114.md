@@ -3,9 +3,9 @@ title: "Section 1114 - Repealed. Pub. L. 100–690, title I , § 1007(c)(1), Nov
 usc_title: 21
 usc_section: "1114"
 chapter: 16
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "21 U.S.C. § 1114"
-generated_at: "2026-03-30T05:47:42.366Z"
+generated_at: "2026-03-30T05:50:09.666Z"
 status: "repealed"
 ---
 

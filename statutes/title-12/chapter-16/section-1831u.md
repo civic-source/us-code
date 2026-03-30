@@ -3,9 +3,9 @@ title: "Section 1831u - Interstate bank mergers"
 usc_title: 12
 usc_section: "1831u"
 chapter: 16
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "12 U.S.C. § 1831u"
-generated_at: "2026-03-30T05:47:03.133Z"
+generated_at: "2026-03-30T05:49:42.304Z"
 status: "active"
 ---
 

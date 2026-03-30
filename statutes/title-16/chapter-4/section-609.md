@@ -3,9 +3,9 @@ title: "Section 609 - Permits to cut and remove timber; citizens of Modoc County
 usc_title: 16
 usc_section: "609"
 chapter: 4
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 609"
-generated_at: "2026-03-30T05:47:33.857Z"
+generated_at: "2026-03-30T05:49:48.226Z"
 status: "active"
 ---
 

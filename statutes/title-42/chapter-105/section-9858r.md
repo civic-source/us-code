@@ -3,9 +3,9 @@ title: "Section 9858r - Studies on waiting lists"
 usc_title: 42
 usc_section: "9858r"
 chapter: 105
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 9858r"
-generated_at: "2026-03-30T05:48:47.183Z"
+generated_at: "2026-03-30T05:52:03.073Z"
 status: "active"
 ---
 

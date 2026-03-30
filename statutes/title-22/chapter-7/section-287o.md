@@ -3,9 +3,9 @@ title: "Section 287o - National Commission on Educational, Scientific, and Cultu
 usc_title: 22
 usc_section: "287o"
 chapter: 7
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "22 U.S.C. § 287o"
-generated_at: "2026-03-30T05:47:39.326Z"
+generated_at: "2026-03-30T05:49:57.992Z"
 status: "active"
 ---
 

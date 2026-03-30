@@ -3,9 +3,9 @@ title: "Section 8904 - Implementation of comprehensive plan; new or existing reg
 usc_title: 42
 usc_section: "8904"
 chapter: 97
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 8904"
-generated_at: "2026-03-30T05:48:47.158Z"
+generated_at: "2026-03-30T05:52:03.049Z"
 status: "active"
 ---
 

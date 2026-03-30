@@ -3,9 +3,9 @@ title: "Section 2235 - Construction permits and operating licenses"
 usc_title: 42
 usc_section: "2235"
 chapter: 23
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 2235"
-generated_at: "2026-03-30T05:48:46.978Z"
+generated_at: "2026-03-30T05:52:02.876Z"
 status: "active"
 ---
 

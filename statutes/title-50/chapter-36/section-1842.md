@@ -3,9 +3,9 @@ title: "Section 1842 - Pen registers and trap and trace devices for foreign inte
 usc_title: 50
 usc_section: "1842"
 chapter: 36
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "50 U.S.C. § 1842"
-generated_at: "2026-03-30T05:48:52.345Z"
+generated_at: "2026-03-30T05:52:07.048Z"
 status: "active"
 ---
 

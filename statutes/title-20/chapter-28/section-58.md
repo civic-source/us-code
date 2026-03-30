@@ -3,9 +3,9 @@ title: "Section 58 - Work colleges"
 usc_title: 20
 usc_section: "58"
 chapter: 28
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "20 U.S.C. § 58"
-generated_at: "2026-03-30T05:47:09.395Z"
+generated_at: "2026-03-30T05:49:51.960Z"
 status: "active"
 ---
 

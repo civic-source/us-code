@@ -3,9 +3,9 @@ title: "Section 6907 - Cooperation in carrying out convention"
 usc_title: 16
 usc_section: "6907"
 chapter: 88
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 6907"
-generated_at: "2026-03-30T05:47:33.972Z"
+generated_at: "2026-03-30T05:49:48.341Z"
 status: "active"
 ---
 

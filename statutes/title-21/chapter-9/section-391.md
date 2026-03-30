@@ -3,9 +3,9 @@ title: "Section 391 - Separability clause"
 usc_title: 21
 usc_section: "391"
 chapter: 9
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "21 U.S.C. § 391"
-generated_at: "2026-03-30T05:47:42.350Z"
+generated_at: "2026-03-30T05:50:09.649Z"
 status: "active"
 ---
 

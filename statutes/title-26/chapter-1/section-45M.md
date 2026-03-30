@@ -3,9 +3,9 @@ title: "Section 45M - Energy efficient appliance credit"
 usc_title: 26
 usc_section: "45M"
 chapter: 1
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "26 U.S.C. § 45M"
-generated_at: "2026-03-30T05:47:59.679Z"
+generated_at: "2026-03-30T05:50:45.143Z"
 status: "active"
 ---
 

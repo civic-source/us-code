@@ -3,9 +3,9 @@ title: "Section 15203 - Board personnel matters"
 usc_title: 42
 usc_section: "15203"
 chapter: 145
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 15203"
-generated_at: "2026-03-30T05:48:47.274Z"
+generated_at: "2026-03-30T05:52:03.161Z"
 status: "active"
 ---
 

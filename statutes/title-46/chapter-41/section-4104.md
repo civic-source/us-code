@@ -3,9 +3,9 @@ title: "Section 4104 - Repealed. Pub. L. 101–595, title VI , § 603(3)(A), Nov
 usc_title: 46
 usc_section: "4104"
 chapter: 41
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "46 U.S.C. § 4104"
-generated_at: "2026-03-30T05:48:56.923Z"
+generated_at: "2026-03-30T05:52:11.964Z"
 status: "repealed"
 ---
 

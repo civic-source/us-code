@@ -3,9 +3,9 @@ title: "Section 4 - Purchase of specialty crops"
 usc_title: 7
 usc_section: "4"
 chapter: 26
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T05:46:20.149Z"
+generated_at: "2026-03-30T05:49:28.512Z"
 status: "active"
 ---
 

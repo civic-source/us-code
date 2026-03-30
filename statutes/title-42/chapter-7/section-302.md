@@ -3,9 +3,9 @@ title: "Section 302 - State old-age plans"
 usc_title: 42
 usc_section: "302"
 chapter: 7
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 302"
-generated_at: "2026-03-30T05:48:46.746Z"
+generated_at: "2026-03-30T05:52:02.647Z"
 status: "active"
 ---
 

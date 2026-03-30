@@ -3,9 +3,9 @@ title: "Section 7632 - Annual report"
 usc_title: 38
 usc_section: "7632"
 chapter: 76
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "38 U.S.C. § 7632"
-generated_at: "2026-03-30T05:48:20.699Z"
+generated_at: "2026-03-30T05:51:21.899Z"
 status: "active"
 ---
 

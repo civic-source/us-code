@@ -3,9 +3,9 @@ title: "Section 6334 - Higher grade after 30 years of service: warrant officers 
 usc_title: 10
 usc_section: "6334"
 chapter: 571
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 6334"
-generated_at: "2026-03-30T05:46:47.765Z"
+generated_at: "2026-03-30T05:49:31.693Z"
 status: "active"
 ---
 

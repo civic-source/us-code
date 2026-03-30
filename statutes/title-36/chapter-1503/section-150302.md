@@ -3,9 +3,9 @@ title: "Section 150302 - Powers"
 usc_title: 36
 usc_section: "150302"
 chapter: 1503
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "36 U.S.C. § 150302"
-generated_at: "2026-03-30T05:48:19.574Z"
+generated_at: "2026-03-30T05:51:15.268Z"
 status: "active"
 ---
 

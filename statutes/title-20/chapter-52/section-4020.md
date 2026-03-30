@@ -3,9 +3,9 @@ title: "Section 4020 - Definitions"
 usc_title: 20
 usc_section: "4020"
 chapter: 52
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "20 U.S.C. § 4020"
-generated_at: "2026-03-30T05:47:09.445Z"
+generated_at: "2026-03-30T05:49:52.011Z"
 status: "active"
 ---
 

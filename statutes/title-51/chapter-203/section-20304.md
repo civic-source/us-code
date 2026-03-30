@@ -3,9 +3,9 @@ title: "Section 20304 - Basic research enhancement"
 usc_title: 51
 usc_section: "20304"
 chapter: 203
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "51 U.S.C. § 20304"
-generated_at: "2026-03-30T05:48:58.623Z"
+generated_at: "2026-03-30T05:52:17.535Z"
 status: "active"
 ---
 

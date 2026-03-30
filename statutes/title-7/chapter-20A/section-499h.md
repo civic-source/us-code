@@ -3,9 +3,9 @@ title: "Section 499h - Grounds for suspension or revocation of license"
 usc_title: 7
 usc_section: "499h"
 chapter: 20
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "7 U.S.C. § 499h"
-generated_at: "2026-03-30T05:46:20.143Z"
+generated_at: "2026-03-30T05:49:28.508Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 75 - Conflicting claims upon coal lands; rules and regulations"
 usc_title: 30
 usc_section: "75"
 chapter: 3
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "30 U.S.C. § 75"
-generated_at: "2026-03-30T05:47:49.795Z"
+generated_at: "2026-03-30T05:50:11.845Z"
 status: "active"
 ---
 

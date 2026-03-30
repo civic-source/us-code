@@ -3,9 +3,9 @@ title: "Section 1304c - Repealed. Aug. 10, 1949, ch. 415 , § 9(c), 63 Stat. 597
 usc_title: 48
 usc_section: "1304c"
 chapter: 6
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "48 U.S.C. § 1304c"
-generated_at: "2026-03-30T05:48:50.331Z"
+generated_at: "2026-03-30T05:52:11.323Z"
 status: "repealed"
 ---
 

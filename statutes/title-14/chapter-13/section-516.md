@@ -3,9 +3,9 @@ title: "Section 516 - Presentation of United States flag upon retirement"
 usc_title: 14
 usc_section: "516"
 chapter: 13
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "14 U.S.C. § 516"
-generated_at: "2026-03-30T05:46:56.496Z"
+generated_at: "2026-03-30T05:49:35.034Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 466 - Additional rights and remedies; exclusive jurisdiction of 
 usc_title: 29
 usc_section: "466"
 chapter: 11
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "29 U.S.C. § 466"
-generated_at: "2026-03-30T05:47:51.325Z"
+generated_at: "2026-03-30T05:50:36.150Z"
 status: "active"
 ---
 

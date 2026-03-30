@@ -3,9 +3,9 @@ title: "Section 2574 - Repealed. Pub. L. 93–203, title VII , § 714, formerly 
 usc_title: 42
 usc_section: "2574"
 chapter: 30
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 2574"
-generated_at: "2026-03-30T05:48:46.985Z"
+generated_at: "2026-03-30T05:52:02.883Z"
 status: "repealed"
 ---
 

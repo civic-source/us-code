@@ -3,9 +3,9 @@ title: "Section 5404 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5404"
 chapter: 74
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 5404"
-generated_at: "2026-03-30T05:47:33.964Z"
+generated_at: "2026-03-30T05:49:48.332Z"
 status: "repealed"
 ---
 

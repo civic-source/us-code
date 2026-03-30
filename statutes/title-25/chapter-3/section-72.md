@@ -3,9 +3,9 @@ title: "Section 72 - Abrogation of treaties"
 usc_title: 25
 usc_section: "72"
 chapter: 3
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "25 U.S.C. § 72"
-generated_at: "2026-03-30T05:47:37.007Z"
+generated_at: "2026-03-30T05:49:55.391Z"
 status: "active"
 ---
 

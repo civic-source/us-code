@@ -3,9 +3,9 @@ title: "Section 3058b - Allotment"
 usc_title: 42
 usc_section: "3058b"
 chapter: 35
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 3058b"
-generated_at: "2026-03-30T05:48:46.999Z"
+generated_at: "2026-03-30T05:52:02.896Z"
 status: "active"
 ---
 

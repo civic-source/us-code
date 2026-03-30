@@ -3,9 +3,9 @@ title: "Section 6804 - Funding, administrative, and judicial authorities of Secr
 usc_title: 42
 usc_section: "6804"
 chapter: 81
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 6804"
-generated_at: "2026-03-30T05:48:47.087Z"
+generated_at: "2026-03-30T05:52:02.981Z"
 status: "active"
 ---
 

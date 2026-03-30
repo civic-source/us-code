@@ -3,9 +3,9 @@ title: "Section 3423c - Office of Indian Education"
 usc_title: 20
 usc_section: "3423c"
 chapter: 48
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "20 U.S.C. § 3423c"
-generated_at: "2026-03-30T05:47:09.441Z"
+generated_at: "2026-03-30T05:49:52.007Z"
 status: "active"
 ---
 

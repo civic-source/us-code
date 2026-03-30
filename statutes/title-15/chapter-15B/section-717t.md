@@ -3,9 +3,9 @@ title: "Section 717t - General penalties"
 usc_title: 15
 usc_section: "717t"
 chapter: 15
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "15 U.S.C. § 717t"
-generated_at: "2026-03-30T05:46:56.150Z"
+generated_at: "2026-03-30T05:49:38.471Z"
 status: "active"
 ---
 

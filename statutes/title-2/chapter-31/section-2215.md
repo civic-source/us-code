@@ -3,9 +3,9 @@ title: "Section 2215 - Gift Shop"
 usc_title: 2
 usc_section: "2215"
 chapter: 31
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "2 U.S.C. § 2215"
-generated_at: "2026-03-30T05:46:13.916Z"
+generated_at: "2026-03-30T05:49:10.145Z"
 status: "active"
 ---
 

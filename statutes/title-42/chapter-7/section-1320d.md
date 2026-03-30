@@ -3,9 +3,9 @@ title: "Section 1320d - Definitions"
 usc_title: 42
 usc_section: "1320d"
 chapter: 7
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 1320d"
-generated_at: "2026-03-30T05:48:46.800Z"
+generated_at: "2026-03-30T05:52:02.700Z"
 status: "active"
 ---
 

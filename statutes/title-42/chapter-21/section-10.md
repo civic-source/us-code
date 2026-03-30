@@ -3,9 +3,9 @@ title: "Section 10 - Posting of notices; penalties"
 usc_title: 42
 usc_section: "10"
 chapter: 21
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T05:48:46.961Z"
+generated_at: "2026-03-30T05:52:02.860Z"
 status: "active"
 ---
 

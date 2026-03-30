@@ -3,9 +3,9 @@ title: "Section 2000a - Prohibition against discrimination or segregation in pla
 usc_title: 42
 usc_section: "2000a"
 chapter: 21
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 2000a"
-generated_at: "2026-03-30T05:48:46.959Z"
+generated_at: "2026-03-30T05:52:02.858Z"
 status: "active"
 ---
 

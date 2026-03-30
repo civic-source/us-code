@@ -3,9 +3,9 @@ title: "Section 635e - Aggregate loan, guarantee, and insurance authority"
 usc_title: 12
 usc_section: "635e"
 chapter: 6
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "12 U.S.C. § 635e"
-generated_at: "2026-03-30T05:47:03.066Z"
+generated_at: "2026-03-30T05:49:42.235Z"
 status: "active"
 ---
 
@@ -16,7 +16,8 @@ status: "active"
   - **(2)** In this subsection, the term “applicable amount”, for each of fiscal years 2015 through 2019, means $135,000,000,000.
   - **(3)** If the rate calculated under section 635g(g)(1) of this title is 2 percent or more for a quarter, the Bank may not exceed the amount of loans, guarantees, and insurance outstanding on the last day of that quarter until the rate calculated under section 635g(g)(1) of this title is less than 2 percent.
   - **(4)** All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
-- **(b)**
+- **(b)** The Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank.
+- **(c)**
   - **(1)** Not later than March 31 of each fiscal year, the President of the United States shall determine whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank’s needs, particularly those needs arising from—
     - **(A)** increases in the level of exports unforeseen at the time of the original budget request for such fiscal year;
     - **(B)** any increased foreign export credit subsidies; or

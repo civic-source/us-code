@@ -3,9 +3,9 @@ title: "Section 1655 - Requirement for Department of Defense to adopt an acquisi
 usc_title: 42
 usc_section: "1655"
 chapter: 11
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 1655"
-generated_at: "2026-03-30T05:48:46.935Z"
+generated_at: "2026-03-30T05:52:02.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1466 - Authorization of appropriations"
 usc_title: 20
 usc_section: "1466"
 chapter: 33
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "20 U.S.C. § 1466"
-generated_at: "2026-03-30T05:47:09.433Z"
+generated_at: "2026-03-30T05:49:51.998Z"
 status: "active"
 ---
 

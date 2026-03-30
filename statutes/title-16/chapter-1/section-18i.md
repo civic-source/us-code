@@ -3,9 +3,9 @@ title: "Section 18i - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "18i"
 chapter: 1
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 18i"
-generated_at: "2026-03-30T05:47:33.756Z"
+generated_at: "2026-03-30T05:49:48.122Z"
 status: "repealed"
 ---
 

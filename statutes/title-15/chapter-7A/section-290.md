@@ -3,9 +3,9 @@ title: "Section 290 - Congressional declaration of policy"
 usc_title: 15
 usc_section: "290"
 chapter: 7
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "15 U.S.C. § 290"
-generated_at: "2026-03-30T05:46:56.119Z"
+generated_at: "2026-03-30T05:49:38.441Z"
 status: "active"
 ---
 

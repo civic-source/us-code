@@ -3,9 +3,9 @@ title: "Section 10 - Antiterrorism assistance"
 usc_title: 22
 usc_section: "10"
 chapter: 32
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "22 U.S.C. § 10"
-generated_at: "2026-03-30T05:47:39.358Z"
+generated_at: "2026-03-30T05:49:58.025Z"
 status: "active"
 ---
 

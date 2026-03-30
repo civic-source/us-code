@@ -3,9 +3,9 @@ title: "Section 103 - Traveling expenses"
 usc_title: 3
 usc_section: "103"
 chapter: 2
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "3 U.S.C. § 103"
-generated_at: "2026-03-30T05:45:56.193Z"
+generated_at: "2026-03-30T05:49:13.672Z"
 status: "active"
 ---
 

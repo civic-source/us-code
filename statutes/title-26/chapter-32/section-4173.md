@@ -3,9 +3,9 @@ title: "Section 4173 - Repealed. Pub. L. 89–44, title II , § 205(b), June 21,
 usc_title: 26
 usc_section: "4173"
 chapter: 32
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "26 U.S.C. § 4173"
-generated_at: "2026-03-30T05:47:59.842Z"
+generated_at: "2026-03-30T05:50:45.303Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7306 - Disclosure of information"
 usc_title: 15
 usc_section: "7306"
 chapter: 99
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "15 U.S.C. § 7306"
-generated_at: "2026-03-30T05:46:56.243Z"
+generated_at: "2026-03-30T05:49:38.563Z"
 status: "active"
 ---
 

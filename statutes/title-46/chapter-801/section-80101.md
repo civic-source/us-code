@@ -3,9 +3,9 @@ title: "Section 80101 - Vessel stranded on foreign coast"
 usc_title: 46
 usc_section: "80101"
 chapter: 801
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "46 U.S.C. § 80101"
-generated_at: "2026-03-30T05:48:56.953Z"
+generated_at: "2026-03-30T05:52:11.992Z"
 status: "active"
 ---
 

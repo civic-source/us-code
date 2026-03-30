@@ -3,9 +3,9 @@ title: "Section 7842 - Eligibility for refugee or asylum consideration"
 usc_title: 22
 usc_section: "7842"
 chapter: 85
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "22 U.S.C. § 7842"
-generated_at: "2026-03-30T05:47:39.430Z"
+generated_at: "2026-03-30T05:49:58.098Z"
 status: "active"
 ---
 

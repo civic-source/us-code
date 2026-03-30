@@ -3,9 +3,9 @@ title: "Section 2269 - Tribal partnership program"
 usc_title: 33
 usc_section: "2269"
 chapter: 36
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "33 U.S.C. § 2269"
-generated_at: "2026-03-30T05:48:03.033Z"
+generated_at: "2026-03-30T05:51:10.171Z"
 status: "active"
 ---
 

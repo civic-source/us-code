@@ -3,9 +3,9 @@ title: "Section 1471a - Availability of appropriations for emergency repair or r
 usc_title: 43
 usc_section: "1471a"
 chapter: 31
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "43 U.S.C. § 1471a"
-generated_at: "2026-03-30T05:48:30.847Z"
+generated_at: "2026-03-30T05:51:33.101Z"
 status: "active"
 ---
 

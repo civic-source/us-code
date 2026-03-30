@@ -3,9 +3,9 @@ title: "Section 3725 - Claims of non-nationals for personal injury or death in a
 usc_title: 31
 usc_section: "3725"
 chapter: 37
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "31 U.S.C. § 3725"
-generated_at: "2026-03-30T05:48:15.191Z"
+generated_at: "2026-03-30T05:51:04.313Z"
 status: "active"
 ---
 

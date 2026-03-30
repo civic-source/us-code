@@ -3,9 +3,9 @@ title: "Section 387q - Tobacco Products Scientific Advisory Committee"
 usc_title: 21
 usc_section: "387q"
 chapter: 9
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "21 U.S.C. § 387q"
-generated_at: "2026-03-30T05:47:42.350Z"
+generated_at: "2026-03-30T05:50:09.649Z"
 status: "active"
 ---
 

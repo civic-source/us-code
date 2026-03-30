@@ -3,9 +3,9 @@ title: "Section 1297 - Passive foreign investment company"
 usc_title: 26
 usc_section: "1297"
 chapter: 1
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "26 U.S.C. § 1297"
-generated_at: "2026-03-30T05:47:59.810Z"
+generated_at: "2026-03-30T05:50:45.272Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 132b - Joint Committee on the Library"
 usc_title: 2
 usc_section: "132b"
 chapter: 5
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "2 U.S.C. § 132b"
-generated_at: "2026-03-30T05:46:13.862Z"
+generated_at: "2026-03-30T05:49:10.109Z"
 status: "active"
 ---
 

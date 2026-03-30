@@ -3,9 +3,9 @@ title: "Section 8542 - Repealed. Pub. L. 103–337, div. A, title XVI , §§ 166
 usc_title: 10
 usc_section: "8542"
 chapter: 843
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "10 U.S.C. § 8542"
-generated_at: "2026-03-30T05:46:47.775Z"
+generated_at: "2026-03-30T05:49:31.702Z"
 status: "repealed"
 ---
 

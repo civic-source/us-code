@@ -3,9 +3,9 @@ title: "Section 5778 - Repealed. Pub. L. 104–235, title II , § 231(b), Oct. 3
 usc_title: 42
 usc_section: "5778"
 chapter: 72
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 5778"
-generated_at: "2026-03-30T05:48:47.062Z"
+generated_at: "2026-03-30T05:52:02.957Z"
 status: "repealed"
 ---
 

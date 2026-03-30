@@ -3,9 +3,9 @@ title: "Section 2901 - Transmission of annual Coast Guard authorization request"
 usc_title: 14
 usc_section: "2901"
 chapter: 29
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "14 U.S.C. § 2901"
-generated_at: "2026-03-30T05:46:56.500Z"
+generated_at: "2026-03-30T05:49:35.038Z"
 status: "active"
 ---
 

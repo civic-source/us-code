@@ -3,9 +3,9 @@ title: "Section 743 - Notice"
 usc_title: 11
 usc_section: "743"
 chapter: 7
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "11 U.S.C. § 743"
-generated_at: "2026-03-30T05:46:57.559Z"
+generated_at: "2026-03-30T05:49:35.406Z"
 status: "active"
 ---
 

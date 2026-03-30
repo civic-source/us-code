@@ -3,9 +3,9 @@ title: "Section 363 - Exclusiveness of provisions; transfers from State unemploy
 usc_title: 45
 usc_section: "363"
 chapter: 11
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "45 U.S.C. § 363"
-generated_at: "2026-03-30T05:48:25.216Z"
+generated_at: "2026-03-30T05:51:29.515Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50922 - Regulations"
 usc_title: 51
 usc_section: "50922"
 chapter: 509
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "51 U.S.C. § 50922"
-generated_at: "2026-03-30T05:48:58.628Z"
+generated_at: "2026-03-30T05:52:17.539Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 119 - Puerto Rico"
 usc_title: 28
 usc_section: "119"
 chapter: 5
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "28 U.S.C. § 119"
-generated_at: "2026-03-30T05:47:50.509Z"
+generated_at: "2026-03-30T05:50:12.969Z"
 status: "active"
 ---
 

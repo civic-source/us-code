@@ -3,9 +3,9 @@ title: "Section 2252 - Powers and duties"
 usc_title: 12
 usc_section: "2252"
 chapter: 23
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "12 U.S.C. § 2252"
-generated_at: "2026-03-30T05:47:03.146Z"
+generated_at: "2026-03-30T05:49:42.316Z"
 status: "active"
 ---
 

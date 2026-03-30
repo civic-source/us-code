@@ -3,9 +3,9 @@ title: "Section 1997 - Conservation easements"
 usc_title: 7
 usc_section: "1997"
 chapter: 50
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "7 U.S.C. § 1997"
-generated_at: "2026-03-30T05:46:20.203Z"
+generated_at: "2026-03-30T05:49:28.557Z"
 status: "active"
 ---
 

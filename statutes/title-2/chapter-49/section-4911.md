@@ -3,9 +3,9 @@ title: "Section 4911 - House of Representatives Page Board; establishment and pu
 usc_title: 2
 usc_section: "4911"
 chapter: 49
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "2 U.S.C. § 4911"
-generated_at: "2026-03-30T05:46:13.922Z"
+generated_at: "2026-03-30T05:49:10.150Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1466 - Appeals relating to offshore mineral development"
 usc_title: 16
 usc_section: "1466"
 chapter: 33
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 1466"
-generated_at: "2026-03-30T05:47:33.916Z"
+generated_at: "2026-03-30T05:49:48.284Z"
 status: "active"
 ---
 

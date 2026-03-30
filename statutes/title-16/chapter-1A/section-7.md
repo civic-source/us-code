@@ -3,9 +3,9 @@ title: "Section 7 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat
 usc_title: 16
 usc_section: "7"
 chapter: 1
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T05:47:33.836Z"
+generated_at: "2026-03-30T05:49:48.205Z"
 status: "repealed"
 ---
 

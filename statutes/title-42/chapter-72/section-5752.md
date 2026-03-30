@@ -3,9 +3,9 @@ title: "Section 5752 - Restriction on use of funds"
 usc_title: 42
 usc_section: "5752"
 chapter: 72
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 5752"
-generated_at: "2026-03-30T05:48:47.062Z"
+generated_at: "2026-03-30T05:52:02.957Z"
 status: "active"
 ---
 

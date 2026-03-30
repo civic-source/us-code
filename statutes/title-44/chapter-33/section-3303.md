@@ -3,9 +3,9 @@ title: "Section 3303 - Lists and schedules of records to be submitted to the Arc
 usc_title: 44
 usc_section: "3303"
 chapter: 33
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "44 U.S.C. § 3303"
-generated_at: "2026-03-30T05:48:23.655Z"
+generated_at: "2026-03-30T05:51:31.743Z"
 status: "active"
 ---
 

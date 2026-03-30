@@ -3,9 +3,9 @@ title: "Section 1507 - Subpenas and depositions"
 usc_title: 5
 usc_section: "1507"
 chapter: 15
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "5 U.S.C. § 1507"
-generated_at: "2026-03-30T05:45:59.082Z"
+generated_at: "2026-03-30T05:49:20.454Z"
 status: "active"
 ---
 

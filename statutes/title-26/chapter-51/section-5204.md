@@ -3,9 +3,9 @@ title: "Section 5204 - Gauging"
 usc_title: 26
 usc_section: "5204"
 chapter: 51
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "26 U.S.C. § 5204"
-generated_at: "2026-03-30T05:47:59.859Z"
+generated_at: "2026-03-30T05:50:45.319Z"
 status: "active"
 ---
 

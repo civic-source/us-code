@@ -3,9 +3,9 @@ title: "Section 1967 - Law enforcement authority"
 usc_title: 2
 usc_section: "1967"
 chapter: 29
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "2 U.S.C. § 1967"
-generated_at: "2026-03-30T05:46:13.909Z"
+generated_at: "2026-03-30T05:49:10.139Z"
 status: "active"
 ---
 

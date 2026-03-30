@@ -3,9 +3,9 @@ title: "Section 655 - Theft by bank examiner"
 usc_title: 18
 usc_section: "655"
 chapter: 31
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "18 U.S.C. § 655"
-generated_at: "2026-03-30T05:47:06.610Z"
+generated_at: "2026-03-30T05:49:49.185Z"
 status: "active"
 ---
 

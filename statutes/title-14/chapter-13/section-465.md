@@ -3,9 +3,9 @@ title: "Section 465 - Repealed. Pub. L. 87–649 , § 14d(2), (3), Sept. 7, 1962
 usc_title: 14
 usc_section: "465"
 chapter: 13
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "14 U.S.C. § 465"
-generated_at: "2026-03-30T05:46:56.494Z"
+generated_at: "2026-03-30T05:49:35.034Z"
 status: "repealed"
 ---
 

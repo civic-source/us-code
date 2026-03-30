@@ -3,9 +3,9 @@ title: "Section 4578 - Authorizations of appropriations"
 usc_title: 42
 usc_section: "4578"
 chapter: 60
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "42 U.S.C. § 4578"
-generated_at: "2026-03-30T05:48:47.033Z"
+generated_at: "2026-03-30T05:52:02.929Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3198 - Program activities"
 usc_title: 29
 usc_section: "3198"
 chapter: 32
-current_through: "PL 114-248"
+current_through: "PL 114-253"
 classification: "29 U.S.C. § 3198"
-generated_at: "2026-03-30T05:47:51.380Z"
+generated_at: "2026-03-30T05:50:36.213Z"
 status: "active"
 ---
 
