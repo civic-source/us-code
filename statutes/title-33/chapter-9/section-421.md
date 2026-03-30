@@ -3,9 +3,9 @@ title: "Section 421 - Deposit of refuse, etc., in Lake Michigan near Chicago"
 usc_title: 33
 usc_section: "421"
 chapter: 9
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "33 U.S.C. § 421"
-generated_at: "2026-03-30T10:00:20.740Z"
+generated_at: "2026-03-30T10:03:00.756Z"
 status: "active"
 ---
 

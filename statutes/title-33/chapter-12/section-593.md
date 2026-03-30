@@ -3,9 +3,9 @@ title: "Section 593 - Condemnation of land in aid of State or State agency"
 usc_title: 33
 usc_section: "593"
 chapter: 12
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "33 U.S.C. § 593"
-generated_at: "2026-03-30T10:00:20.748Z"
+generated_at: "2026-03-30T10:03:00.765Z"
 status: "active"
 ---
 

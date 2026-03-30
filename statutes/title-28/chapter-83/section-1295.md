@@ -3,9 +3,9 @@ title: "Section 1295 - Jurisdiction of the United States Court of Appeals for th
 usc_title: 28
 usc_section: "1295"
 chapter: 83
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "28 U.S.C. § 1295"
-generated_at: "2026-03-30T10:00:01.758Z"
+generated_at: "2026-03-30T10:02:48.631Z"
 status: "active"
 ---
 

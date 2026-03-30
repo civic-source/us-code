@@ -3,9 +3,9 @@ title: "Section 1788 - Transplant procedures with live donors and related servic
 usc_title: 38
 usc_section: "1788"
 chapter: 17
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "38 U.S.C. § 1788"
-generated_at: "2026-03-30T10:00:33.814Z"
+generated_at: "2026-03-30T10:03:11.954Z"
 status: "active"
 ---
 

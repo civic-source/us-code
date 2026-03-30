@@ -3,9 +3,9 @@ title: "Section 4351 - Purposes"
 usc_title: 25
 usc_section: "4351"
 chapter: 44
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "25 U.S.C. § 4351"
-generated_at: "2026-03-30T09:59:55.765Z"
+generated_at: "2026-03-30T10:02:26.296Z"
 status: "active"
 ---
 

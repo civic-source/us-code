@@ -3,9 +3,9 @@ title: "Section 8814 - National Quantum Initiative Advisory Committee"
 usc_title: 15
 usc_section: "8814"
 chapter: 114
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "15 U.S.C. § 8814"
-generated_at: "2026-03-30T09:59:27.449Z"
+generated_at: "2026-03-30T10:02:07.561Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 451k - Availability of appropriations; expenses as nonreimbursab
 usc_title: 43
 usc_section: "451k"
 chapter: 12
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "43 U.S.C. § 451k"
-generated_at: "2026-03-30T10:00:37.325Z"
+generated_at: "2026-03-30T10:03:16.174Z"
 status: "active"
 ---
 

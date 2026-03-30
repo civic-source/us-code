@@ -3,9 +3,9 @@ title: "Section 25 - Duties of supervisors, enumerators, and other employees"
 usc_title: 13
 usc_section: "25"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "13 U.S.C. § 25"
-generated_at: "2026-03-30T09:59:23.178Z"
+generated_at: "2026-03-30T10:02:02.765Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9003 - State trade expansion program"
 usc_title: 15
 usc_section: "9003"
 chapter: 116
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "15 U.S.C. § 9003"
-generated_at: "2026-03-30T09:59:27.451Z"
+generated_at: "2026-03-30T10:02:07.563Z"
 status: "active"
 ---
 

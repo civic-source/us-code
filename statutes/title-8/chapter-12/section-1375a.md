@@ -3,9 +3,9 @@ title: "Section 1375a - Domestic violence information and resources for immigran
 usc_title: 8
 usc_section: "1375a"
 chapter: 12
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "8 U.S.C. § 1375a"
-generated_at: "2026-03-30T09:59:06.707Z"
+generated_at: "2026-03-30T10:01:43.804Z"
 status: "active"
 ---
 

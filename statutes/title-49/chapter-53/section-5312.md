@@ -3,9 +3,9 @@ title: "Section 5312 - Public transportation innovation"
 usc_title: 49
 usc_section: "5312"
 chapter: 53
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "49 U.S.C. § 5312"
-generated_at: "2026-03-30T10:01:02.044Z"
+generated_at: "2026-03-30T10:03:55.054Z"
 status: "active"
 ---
 

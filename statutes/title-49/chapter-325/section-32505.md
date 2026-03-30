@@ -3,9 +3,9 @@ title: "Section 32505 - Information and compliance requirements"
 usc_title: 49
 usc_section: "32505"
 chapter: 325
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "49 U.S.C. § 32505"
-generated_at: "2026-03-30T10:01:02.103Z"
+generated_at: "2026-03-30T10:03:55.088Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7627 - Supplies: educational institutions"
 usc_title: 10
 usc_section: "7627"
 chapter: 769
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 7627"
-generated_at: "2026-03-30T09:59:21.357Z"
+generated_at: "2026-03-30T10:02:00.889Z"
 status: "active"
 ---
 

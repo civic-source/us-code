@@ -3,9 +3,9 @@ title: "Section 14317 - Officers in transition to and from the active-status lis
 usc_title: 10
 usc_section: "14317"
 chapter: 1405
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 14317"
-generated_at: "2026-03-30T09:59:21.382Z"
+generated_at: "2026-03-30T10:02:00.917Z"
 status: "active"
 ---
 

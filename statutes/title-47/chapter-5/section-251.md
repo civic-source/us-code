@@ -3,9 +3,9 @@ title: "Section 251 - Interconnection"
 usc_title: 47
 usc_section: "251"
 chapter: 5
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "47 U.S.C. § 251"
-generated_at: "2026-03-30T10:00:58.618Z"
+generated_at: "2026-03-30T10:03:39.380Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11242 - Transferred"
 usc_title: 42
 usc_section: "11242"
 chapter: 118
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 11242"
-generated_at: "2026-03-30T10:00:53.489Z"
+generated_at: "2026-03-30T10:03:30.329Z"
 status: "transferred"
 ---
 

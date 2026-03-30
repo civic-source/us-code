@@ -3,9 +3,9 @@ title: "Section 1598 - Assistance to terminated employees to obtain certificatio
 usc_title: 10
 usc_section: "1598"
 chapter: 81
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 1598"
-generated_at: "2026-03-30T09:59:21.306Z"
+generated_at: "2026-03-30T10:02:00.828Z"
 status: "active"
 ---
 

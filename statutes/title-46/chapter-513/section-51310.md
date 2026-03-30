@@ -3,9 +3,9 @@ title: "Section 51310 - Deferment of service obligation under cadet commitment a
 usc_title: 46
 usc_section: "51310"
 chapter: 513
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "46 U.S.C. § 51310"
-generated_at: "2026-03-30T10:00:57.999Z"
+generated_at: "2026-03-30T10:03:46.783Z"
 status: "active"
 ---
 

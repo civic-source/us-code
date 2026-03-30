@@ -3,9 +3,9 @@ title: "Section 1395ggg - Omitted"
 usc_title: 42
 usc_section: "1395ggg"
 chapter: 7
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 1395ggg"
-generated_at: "2026-03-30T10:00:53.099Z"
+generated_at: "2026-03-30T10:03:30.024Z"
 status: "omitted"
 ---
 

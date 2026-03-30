@@ -3,9 +3,9 @@ title: "Section 412 - Application for notes; collateral required"
 usc_title: 12
 usc_section: "412"
 chapter: 3
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "12 U.S.C. § 412"
-generated_at: "2026-03-30T09:59:39.503Z"
+generated_at: "2026-03-30T10:02:11.007Z"
 status: "active"
 ---
 

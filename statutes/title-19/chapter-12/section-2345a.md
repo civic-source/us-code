@@ -3,9 +3,9 @@ title: "Section 2345a - Annual report on trade adjustment assistance for firms"
 usc_title: 19
 usc_section: "2345a"
 chapter: 12
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "19 U.S.C. § 2345a"
-generated_at: "2026-03-30T09:59:51.887Z"
+generated_at: "2026-03-30T10:02:15.878Z"
 status: "active"
 ---
 

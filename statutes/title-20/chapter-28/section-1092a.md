@@ -3,9 +3,9 @@ title: "Section 1092a - Combined payment plan"
 usc_title: 20
 usc_section: "1092a"
 chapter: 28
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "20 U.S.C. § 1092a"
-generated_at: "2026-03-30T09:59:50.690Z"
+generated_at: "2026-03-30T10:02:18.593Z"
 status: "active"
 ---
 

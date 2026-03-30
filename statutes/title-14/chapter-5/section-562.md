@@ -3,9 +3,9 @@ title: "Section 562 - Appeals and waivers"
 usc_title: 14
 usc_section: "562"
 chapter: 5
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "14 U.S.C. § 562"
-generated_at: "2026-03-30T09:59:23.810Z"
+generated_at: "2026-03-30T10:02:03.977Z"
 status: "active"
 ---
 

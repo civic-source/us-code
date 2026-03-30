@@ -3,9 +3,9 @@ title: "Section 1368 - Effect of increase on other quotas"
 usc_title: 7
 usc_section: "1368"
 chapter: 35
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "7 U.S.C. § 1368"
-generated_at: "2026-03-30T09:59:05.745Z"
+generated_at: "2026-03-30T10:01:46.715Z"
 status: "active"
 ---
 

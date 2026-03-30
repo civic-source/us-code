@@ -3,9 +3,9 @@ title: "Section 410k - Limitation of Federal action during reservation period"
 usc_title: 16
 usc_section: "410k"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "16 U.S.C. § 410k"
-generated_at: "2026-03-30T09:59:48.081Z"
+generated_at: "2026-03-30T10:02:22.299Z"
 status: "active"
 ---
 

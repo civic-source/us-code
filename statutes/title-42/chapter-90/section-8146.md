@@ -3,9 +3,9 @@ title: "Section 8146 - Authorization of appropriations"
 usc_title: 42
 usc_section: "8146"
 chapter: 90
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 8146"
-generated_at: "2026-03-30T10:00:53.425Z"
+generated_at: "2026-03-30T10:03:30.278Z"
 status: "active"
 ---
 

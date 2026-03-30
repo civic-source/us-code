@@ -3,9 +3,9 @@ title: "Section 7696 - Term of obligated service"
 usc_title: 38
 usc_section: "7696"
 chapter: 76
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "38 U.S.C. § 7696"
-generated_at: "2026-03-30T10:00:33.857Z"
+generated_at: "2026-03-30T10:03:11.999Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2213 - Limitation on acquisition of excess supplies"
 usc_title: 10
 usc_section: "2213"
 chapter: 131
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 2213"
-generated_at: "2026-03-30T09:59:21.315Z"
+generated_at: "2026-03-30T10:02:00.840Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10 - Coordination of preparedness for and response to all-hazard
 usc_title: 42
 usc_section: "10"
 chapter: 6
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T10:00:52.914Z"
+generated_at: "2026-03-30T10:03:29.872Z"
 status: "active"
 ---
 

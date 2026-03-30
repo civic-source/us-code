@@ -3,9 +3,9 @@ title: "Section 7 - Rewards and forfeiture"
 usc_title: 16
 usc_section: "7"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T09:59:48.143Z"
+generated_at: "2026-03-30T10:02:22.363Z"
 status: "active"
 ---
 

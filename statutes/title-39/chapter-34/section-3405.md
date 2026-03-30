@@ -3,9 +3,9 @@ title: "Section 3405 - Markings"
 usc_title: 39
 usc_section: "3405"
 chapter: 34
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "39 U.S.C. § 3405"
-generated_at: "2026-03-30T10:00:30.729Z"
+generated_at: "2026-03-30T10:03:12.181Z"
 status: "active"
 ---
 

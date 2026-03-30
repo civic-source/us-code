@@ -3,9 +3,9 @@ title: "Section 695c - Repealed. Pub. L. 99–371, title II, § 210(b) , formerl
 usc_title: 20
 usc_section: "695c"
 chapter: 20
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "20 U.S.C. § 695c"
-generated_at: "2026-03-30T09:59:50.648Z"
+generated_at: "2026-03-30T10:02:18.550Z"
 status: "repealed"
 ---
 

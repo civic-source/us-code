@@ -3,9 +3,9 @@ title: "Section 1465 - State law preemption standards for Federal savings associ
 usc_title: 12
 usc_section: "1465"
 chapter: 12
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "12 U.S.C. § 1465"
-generated_at: "2026-03-30T09:59:39.519Z"
+generated_at: "2026-03-30T10:02:11.023Z"
 status: "active"
 ---
 

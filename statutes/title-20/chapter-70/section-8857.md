@@ -3,9 +3,9 @@ title: "Section 8857 - Repealed. Pub. L. 107–110, title X, § 1011(5)(C) , Jan
 usc_title: 20
 usc_section: "8857"
 chapter: 70
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "20 U.S.C. § 8857"
-generated_at: "2026-03-30T09:59:50.765Z"
+generated_at: "2026-03-30T10:02:18.673Z"
 status: "repealed"
 ---
 

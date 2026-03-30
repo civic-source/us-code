@@ -3,9 +3,9 @@ title: "Section 230b - Owner’s retention of right of use and occupancy for res
 usc_title: 16
 usc_section: "230b"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "16 U.S.C. § 230b"
-generated_at: "2026-03-30T09:59:48.069Z"
+generated_at: "2026-03-30T10:02:22.288Z"
 status: "active"
 ---
 

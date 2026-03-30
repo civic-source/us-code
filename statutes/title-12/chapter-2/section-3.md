@@ -3,9 +3,9 @@ title: "Section 3 - Mergers and consolidations with subsidiaries and nonbank aff
 usc_title: 12
 usc_section: "3"
 chapter: 2
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T09:59:39.495Z"
+generated_at: "2026-03-30T10:02:11.001Z"
 status: "active"
 ---
 

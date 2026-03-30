@@ -3,9 +3,9 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-30T10:00:15.009Z"
+generated_at: "2026-03-30T10:02:53.357Z"
 status: "active"
 ---
 

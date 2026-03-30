@@ -3,9 +3,9 @@ title: "Section 218 - Repealed. Pub. L. 95–600, title I, § 113(a)(1) , Nov. 6
 usc_title: 26
 usc_section: "218"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 218"
-generated_at: "2026-03-30T10:00:15.018Z"
+generated_at: "2026-03-30T10:02:53.366Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Compensation to be provided"
 usc_title: 42
 usc_section: "1"
 chapter: 84
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T10:00:53.381Z"
+generated_at: "2026-03-30T10:03:30.242Z"
 status: "active"
 ---
 

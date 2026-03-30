@@ -3,9 +3,9 @@ title: "Section 761 - Terms defined"
 usc_title: 26
 usc_section: "761"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 761"
-generated_at: "2026-03-30T10:00:15.077Z"
+generated_at: "2026-03-30T10:02:53.425Z"
 status: "active"
 ---
 

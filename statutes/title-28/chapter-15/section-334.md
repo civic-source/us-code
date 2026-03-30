@@ -3,9 +3,9 @@ title: "Section 334 - Institutes and joint councils on sentencing"
 usc_title: 28
 usc_section: "334"
 chapter: 15
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "28 U.S.C. § 334"
-generated_at: "2026-03-30T10:00:01.748Z"
+generated_at: "2026-03-30T10:02:48.620Z"
 status: "active"
 ---
 

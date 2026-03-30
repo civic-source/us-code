@@ -3,9 +3,9 @@ title: "Section 54102 - Centers of excellence for domestic maritime workforce tr
 usc_title: 46
 usc_section: "54102"
 chapter: 541
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "46 U.S.C. § 54102"
-generated_at: "2026-03-30T10:00:58.010Z"
+generated_at: "2026-03-30T10:03:46.790Z"
 status: "active"
 ---
 

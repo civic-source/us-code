@@ -3,9 +3,9 @@ title: "Section 12307 - Regulations on numbering and fees"
 usc_title: 46
 usc_section: "12307"
 chapter: 123
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "46 U.S.C. § 12307"
-generated_at: "2026-03-30T10:00:57.986Z"
+generated_at: "2026-03-30T10:03:46.775Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19e - Water infrastructure and workforce investment"
 usc_title: 42
 usc_section: "19e"
 chapter: 6
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 19e"
-generated_at: "2026-03-30T10:00:52.877Z"
+generated_at: "2026-03-30T10:03:29.844Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47103 - National plan of integrated airport systems"
 usc_title: 49
 usc_section: "47103"
 chapter: 471
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "49 U.S.C. § 47103"
-generated_at: "2026-03-30T10:01:02.143Z"
+generated_at: "2026-03-30T10:03:55.112Z"
 status: "active"
 ---
 

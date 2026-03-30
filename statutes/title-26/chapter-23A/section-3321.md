@@ -3,9 +3,9 @@ title: "Section 3321 - Imposition of tax"
 usc_title: 26
 usc_section: "3321"
 chapter: 23
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 3321"
-generated_at: "2026-03-30T10:00:15.132Z"
+generated_at: "2026-03-30T10:02:53.479Z"
 status: "active"
 ---
 

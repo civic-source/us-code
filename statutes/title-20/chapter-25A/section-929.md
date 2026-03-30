@@ -3,9 +3,9 @@ title: "Section 929 - Repealed. Pub. L. 114–328, div. A, title V, § 576 , Dec
 usc_title: 20
 usc_section: "929"
 chapter: 25
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "20 U.S.C. § 929"
-generated_at: "2026-03-30T09:59:50.650Z"
+generated_at: "2026-03-30T10:02:18.551Z"
 status: "repealed"
 ---
 

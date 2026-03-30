@@ -3,9 +3,9 @@ title: "Section 1015 - Repealed. Pub. L. 104–88, title III, § 329(2) , Dec. 2
 usc_title: 45
 usc_section: "1015"
 chapter: 19
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "45 U.S.C. § 1015"
-generated_at: "2026-03-30T10:00:35.709Z"
+generated_at: "2026-03-30T10:03:15.639Z"
 status: "repealed"
 ---
 

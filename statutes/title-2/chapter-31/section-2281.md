@@ -3,9 +3,9 @@ title: "Section 2281 - Authorization of appropriations"
 usc_title: 2
 usc_section: "2281"
 chapter: 31
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "2 U.S.C. § 2281"
-generated_at: "2026-03-30T09:58:37.686Z"
+generated_at: "2026-03-30T10:01:29.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11433 - Local educational agency subgrants for the education of 
 usc_title: 42
 usc_section: "11433"
 chapter: 119
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 11433"
-generated_at: "2026-03-30T10:00:53.496Z"
+generated_at: "2026-03-30T10:03:30.335Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6871 - Repealed. Pub. L. 114–95, title III, § 3001(2)(C) , De
 usc_title: 20
 usc_section: "6871"
 chapter: 70
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "20 U.S.C. § 6871"
-generated_at: "2026-03-30T09:59:50.749Z"
+generated_at: "2026-03-30T10:02:18.656Z"
 status: "repealed"
 ---
 

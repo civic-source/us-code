@@ -3,9 +3,9 @@ title: "Section 1921 - Approval of U.S.-FSM Compact of Free Association and the 
 usc_title: 48
 usc_section: "1921"
 chapter: 18
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "48 U.S.C. § 1921"
-generated_at: "2026-03-30T10:00:56.921Z"
+generated_at: "2026-03-30T10:03:34.428Z"
 status: "active"
 ---
 

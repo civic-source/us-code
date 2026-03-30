@@ -3,9 +3,9 @@ title: "Section 1365b - Biometric entry and exit data system"
 usc_title: 8
 usc_section: "1365b"
 chapter: 12
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "8 U.S.C. § 1365b"
-generated_at: "2026-03-30T09:59:06.706Z"
+generated_at: "2026-03-30T10:01:43.803Z"
 status: "active"
 ---
 

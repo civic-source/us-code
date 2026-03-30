@@ -3,9 +3,9 @@ title: "Section 3764 - Transferred"
 usc_title: 42
 usc_section: "3764"
 chapter: 46
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 3764"
-generated_at: "2026-03-30T10:00:53.275Z"
+generated_at: "2026-03-30T10:03:30.161Z"
 status: "transferred"
 ---
 

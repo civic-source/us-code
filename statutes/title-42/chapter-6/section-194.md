@@ -3,9 +3,9 @@ title: "Section 194 - Quarters for bureau"
 usc_title: 42
 usc_section: "194"
 chapter: 6
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 194"
-generated_at: "2026-03-30T10:00:52.756Z"
+generated_at: "2026-03-30T10:03:29.746Z"
 status: "active"
 ---
 

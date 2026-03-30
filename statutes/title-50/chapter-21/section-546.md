@@ -3,9 +3,9 @@ title: "Section 546 - Omitted"
 usc_title: 50
 usc_section: "546"
 chapter: 21
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "50 U.S.C. § 546"
-generated_at: "2026-03-30T10:01:03.680Z"
+generated_at: "2026-03-30T10:03:53.184Z"
 status: "omitted"
 ---
 

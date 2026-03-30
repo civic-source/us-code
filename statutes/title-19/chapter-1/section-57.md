@@ -3,9 +3,9 @@ title: "Section 57 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(16) –(20), 70 St
 usc_title: 19
 usc_section: "57"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "19 U.S.C. § 57"
-generated_at: "2026-03-30T09:59:51.851Z"
+generated_at: "2026-03-30T10:02:15.840Z"
 status: "repealed"
 ---
 

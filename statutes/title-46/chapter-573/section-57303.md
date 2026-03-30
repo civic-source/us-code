@@ -3,9 +3,9 @@ title: "Section 57303 - Utility value and tonnage requirements"
 usc_title: 46
 usc_section: "57303"
 chapter: 573
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "46 U.S.C. § 57303"
-generated_at: "2026-03-30T10:00:58.014Z"
+generated_at: "2026-03-30T10:03:46.792Z"
 status: "active"
 ---
 

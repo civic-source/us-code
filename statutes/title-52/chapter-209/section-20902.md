@@ -3,9 +3,9 @@ title: "Section 20902 - Replacement of punch card or lever voting machines"
 usc_title: 52
 usc_section: "20902"
 chapter: 209
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "52 U.S.C. § 20902"
-generated_at: "2026-03-30T10:01:10.864Z"
+generated_at: "2026-03-30T10:03:57.302Z"
 status: "active"
 ---
 

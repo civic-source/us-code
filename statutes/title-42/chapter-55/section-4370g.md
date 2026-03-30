@@ -3,9 +3,9 @@ title: "Section 4370g - Availability of funds for uniforms and certain services"
 usc_title: 42
 usc_section: "4370g"
 chapter: 55
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 4370g"
-generated_at: "2026-03-30T10:00:53.286Z"
+generated_at: "2026-03-30T10:03:30.170Z"
 status: "active"
 ---
 

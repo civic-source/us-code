@@ -3,9 +3,9 @@ title: "Section 52 - World Trade Center Health Registry"
 usc_title: 42
 usc_section: "52"
 chapter: 6
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 52"
-generated_at: "2026-03-30T10:00:52.923Z"
+generated_at: "2026-03-30T10:03:29.880Z"
 status: "active"
 ---
 

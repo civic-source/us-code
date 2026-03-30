@@ -3,9 +3,9 @@ title: "Section 3207 - Application of provisions of Federal law"
 usc_title: 29
 usc_section: "3207"
 chapter: 32
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "29 U.S.C. § 3207"
-generated_at: "2026-03-30T10:00:02.659Z"
+generated_at: "2026-03-30T10:02:46.202Z"
 status: "active"
 ---
 

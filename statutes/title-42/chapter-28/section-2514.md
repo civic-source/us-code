@@ -3,9 +3,9 @@ title: "Section 2514 - Repealed. Pub. L. 89–15, § 9(b) , Apr. 26, 1965 , 79 S
 usc_title: 42
 usc_section: "2514"
 chapter: 28
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 2514"
-generated_at: "2026-03-30T10:00:53.244Z"
+generated_at: "2026-03-30T10:03:30.137Z"
 status: "repealed"
 ---
 

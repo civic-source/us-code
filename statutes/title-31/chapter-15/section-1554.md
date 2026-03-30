@@ -3,9 +3,9 @@ title: "Section 1554 - Audit, control, and reporting"
 usc_title: 31
 usc_section: "1554"
 chapter: 15
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "31 U.S.C. § 1554"
-generated_at: "2026-03-30T10:00:18.275Z"
+generated_at: "2026-03-30T10:02:56.387Z"
 status: "active"
 ---
 

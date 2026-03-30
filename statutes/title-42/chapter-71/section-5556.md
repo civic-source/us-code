@@ -3,9 +3,9 @@ title: "Section 5556 - Solar energy demonstration facilities program"
 usc_title: 42
 usc_section: "5556"
 chapter: 71
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 5556"
-generated_at: "2026-03-30T10:00:53.321Z"
+generated_at: "2026-03-30T10:03:30.196Z"
 status: "active"
 ---
 

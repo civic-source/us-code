@@ -3,9 +3,9 @@ title: "Section 2133 - Compensation authority"
 usc_title: 19
 usc_section: "2133"
 chapter: 12
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "19 U.S.C. § 2133"
-generated_at: "2026-03-30T09:59:51.881Z"
+generated_at: "2026-03-30T10:02:15.871Z"
 status: "active"
 ---
 

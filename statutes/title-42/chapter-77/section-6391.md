@@ -3,9 +3,9 @@ title: "Section 6391 - Prohibited actions"
 usc_title: 42
 usc_section: "6391"
 chapter: 77
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 6391"
-generated_at: "2026-03-30T10:00:53.348Z"
+generated_at: "2026-03-30T10:03:30.217Z"
 status: "active"
 ---
 

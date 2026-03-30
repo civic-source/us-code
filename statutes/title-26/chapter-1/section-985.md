@@ -3,9 +3,9 @@ title: "Section 985 - Functional currency"
 usc_title: 26
 usc_section: "985"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 985"
-generated_at: "2026-03-30T10:00:15.098Z"
+generated_at: "2026-03-30T10:02:53.445Z"
 status: "active"
 ---
 

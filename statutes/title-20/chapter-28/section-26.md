@@ -3,9 +3,9 @@ title: "Section 26 - 21st Century Scholar Certificates"
 usc_title: 20
 usc_section: "26"
 chapter: 28
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "20 U.S.C. § 26"
-generated_at: "2026-03-30T09:59:50.665Z"
+generated_at: "2026-03-30T10:02:18.567Z"
 status: "active"
 ---
 

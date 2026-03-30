@@ -3,9 +3,9 @@ title: "Section 1383d - Outreach program for children"
 usc_title: 42
 usc_section: "1383d"
 chapter: 7
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 1383d"
-generated_at: "2026-03-30T10:00:53.002Z"
+generated_at: "2026-03-30T10:03:29.943Z"
 status: "active"
 ---
 

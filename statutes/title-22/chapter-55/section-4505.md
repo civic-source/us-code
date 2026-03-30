@@ -3,9 +3,9 @@ title: "Section 4505 - Applications; payments to eligible institutions"
 usc_title: 22
 usc_section: "4505"
 chapter: 55
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "22 U.S.C. § 4505"
-generated_at: "2026-03-30T09:59:58.737Z"
+generated_at: "2026-03-30T10:02:42.442Z"
 status: "active"
 ---
 

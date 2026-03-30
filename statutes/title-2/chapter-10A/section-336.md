@@ -3,9 +3,9 @@ title: "Section 336 - Transferred"
 usc_title: 2
 usc_section: "336"
 chapter: 10
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "2 U.S.C. § 336"
-generated_at: "2026-03-30T09:58:37.656Z"
+generated_at: "2026-03-30T10:01:29.378Z"
 status: "transferred"
 ---
 

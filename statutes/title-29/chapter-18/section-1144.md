@@ -3,9 +3,9 @@ title: "Section 1144 - Other laws"
 usc_title: 29
 usc_section: "1144"
 chapter: 18
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "29 U.S.C. § 1144"
-generated_at: "2026-03-30T10:00:02.630Z"
+generated_at: "2026-03-30T10:02:46.174Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2532 - Federal standards-related activities"
 usc_title: 19
 usc_section: "2532"
 chapter: 13
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "19 U.S.C. § 2532"
-generated_at: "2026-03-30T09:59:51.893Z"
+generated_at: "2026-03-30T10:02:15.884Z"
 status: "active"
 ---
 

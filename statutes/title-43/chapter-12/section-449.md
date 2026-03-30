@@ -3,9 +3,9 @@ title: "Section 449 - Assignment of desert-land entry within project"
 usc_title: 43
 usc_section: "449"
 chapter: 12
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "43 U.S.C. § 449"
-generated_at: "2026-03-30T10:00:37.325Z"
+generated_at: "2026-03-30T10:03:16.174Z"
 status: "active"
 ---
 

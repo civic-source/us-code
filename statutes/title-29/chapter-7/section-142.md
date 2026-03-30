@@ -3,9 +3,9 @@ title: "Section 142 - Definitions"
 usc_title: 29
 usc_section: "142"
 chapter: 7
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "29 U.S.C. § 142"
-generated_at: "2026-03-30T10:00:02.595Z"
+generated_at: "2026-03-30T10:02:46.137Z"
 status: "active"
 ---
 

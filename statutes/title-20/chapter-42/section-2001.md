@@ -3,9 +3,9 @@ title: "Section 2001 - Congressional statement of findings"
 usc_title: 20
 usc_section: "2001"
 chapter: 42
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "20 U.S.C. § 2001"
-generated_at: "2026-03-30T09:59:50.719Z"
+generated_at: "2026-03-30T10:02:18.624Z"
 status: "active"
 ---
 

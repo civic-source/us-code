@@ -3,9 +3,9 @@ title: "Section 1430b - Advances to nonmember mortgagee; terms and conditions"
 usc_title: 12
 usc_section: "1430b"
 chapter: 11
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "12 U.S.C. § 1430b"
-generated_at: "2026-03-30T09:59:39.513Z"
+generated_at: "2026-03-30T10:02:11.016Z"
 status: "active"
 ---
 

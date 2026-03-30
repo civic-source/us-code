@@ -3,9 +3,9 @@ title: "Section 621 - Rulemaking on loud commercials required"
 usc_title: 47
 usc_section: "621"
 chapter: 5
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "47 U.S.C. § 621"
-generated_at: "2026-03-30T10:00:58.646Z"
+generated_at: "2026-03-30T10:03:39.402Z"
 status: "active"
 ---
 

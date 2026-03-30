@@ -3,9 +3,9 @@ title: "Section 2777 - Requisitions for advances and removal of charges outstand
 usc_title: 10
 usc_section: "2777"
 chapter: 165
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 2777"
-generated_at: "2026-03-30T09:59:21.346Z"
+generated_at: "2026-03-30T10:02:00.875Z"
 status: "active"
 ---
 

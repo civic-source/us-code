@@ -3,9 +3,9 @@ title: "Section 461 - General rule for taxable year of deduction"
 usc_title: 26
 usc_section: "461"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 461"
-generated_at: "2026-03-30T10:00:15.059Z"
+generated_at: "2026-03-30T10:02:53.405Z"
 status: "active"
 ---
 

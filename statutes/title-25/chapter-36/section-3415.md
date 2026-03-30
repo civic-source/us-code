@@ -3,9 +3,9 @@ title: "Section 3415 - Repealed. Pub. L. 115–93, § 16(a) , Dec. 18, 2017 , 13
 usc_title: 25
 usc_section: "3415"
 chapter: 36
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "25 U.S.C. § 3415"
-generated_at: "2026-03-30T09:59:55.756Z"
+generated_at: "2026-03-30T10:02:26.286Z"
 status: "repealed"
 ---
 

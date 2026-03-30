@@ -3,9 +3,9 @@ title: "Section 2578 - Notice of United States participation in international st
 usc_title: 19
 usc_section: "2578"
 chapter: 13
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "19 U.S.C. § 2578"
-generated_at: "2026-03-30T09:59:51.894Z"
+generated_at: "2026-03-30T10:02:15.885Z"
 status: "active"
 ---
 

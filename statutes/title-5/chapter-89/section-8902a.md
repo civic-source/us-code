@@ -3,9 +3,9 @@ title: "Section 8902a - Debarment and other sanctions"
 usc_title: 5
 usc_section: "8902a"
 chapter: 89
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "5 U.S.C. § 8902a"
-generated_at: "2026-03-30T09:58:56.595Z"
+generated_at: "2026-03-30T10:01:40.583Z"
 status: "active"
 ---
 

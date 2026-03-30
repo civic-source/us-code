@@ -3,9 +3,9 @@ title: "Section 501 - Transferred"
 usc_title: 25
 usc_section: "501"
 chapter: 14
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "25 U.S.C. § 501"
-generated_at: "2026-03-30T09:59:55.719Z"
+generated_at: "2026-03-30T10:02:26.249Z"
 status: "transferred"
 ---
 

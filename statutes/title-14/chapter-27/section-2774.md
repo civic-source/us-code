@@ -3,9 +3,9 @@ title: "Section 2774 - Sales of ration supplies to messes"
 usc_title: 14
 usc_section: "2774"
 chapter: 27
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "14 U.S.C. § 2774"
-generated_at: "2026-03-30T09:59:23.817Z"
+generated_at: "2026-03-30T10:02:03.983Z"
 status: "active"
 ---
 

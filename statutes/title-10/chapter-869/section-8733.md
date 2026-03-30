@@ -3,9 +3,9 @@ title: "Section 8733 - Disposition of royalties"
 usc_title: 10
 usc_section: "8733"
 chapter: 869
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 8733"
-generated_at: "2026-03-30T09:59:21.366Z"
+generated_at: "2026-03-30T10:02:00.899Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 815 - Repealed. Pub. L. 115–97, title I, § 13514(a) , Dec. 22
 usc_title: 26
 usc_section: "815"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 815"
-generated_at: "2026-03-30T10:00:15.079Z"
+generated_at: "2026-03-30T10:02:53.426Z"
 status: "repealed"
 ---
 

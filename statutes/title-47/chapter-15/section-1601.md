@@ -3,9 +3,9 @@ title: "Section 1601 - Determination of communications equipment or services pos
 usc_title: 47
 usc_section: "1601"
 chapter: 15
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "47 U.S.C. § 1601"
-generated_at: "2026-03-30T10:00:58.661Z"
+generated_at: "2026-03-30T10:03:39.412Z"
 status: "active"
 ---
 

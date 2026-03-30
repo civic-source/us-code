@@ -3,9 +3,9 @@ title: "Section 53512 - FIFO and LIFO withdrawals"
 usc_title: 46
 usc_section: "53512"
 chapter: 535
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "46 U.S.C. § 53512"
-generated_at: "2026-03-30T10:00:58.005Z"
+generated_at: "2026-03-30T10:03:46.787Z"
 status: "active"
 ---
 

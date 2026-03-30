@@ -3,9 +3,9 @@ title: "Section 1510 - Obstruction of criminal investigations"
 usc_title: 18
 usc_section: "1510"
 chapter: 73
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "18 U.S.C. § 1510"
-generated_at: "2026-03-30T09:59:45.843Z"
+generated_at: "2026-03-30T10:02:16.746Z"
 status: "active"
 ---
 

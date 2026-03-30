@@ -3,9 +3,9 @@ title: "Section 10308 - Civil and criminal sanctions"
 usc_title: 52
 usc_section: "10308"
 chapter: 103
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "52 U.S.C. § 10308"
-generated_at: "2026-03-30T10:01:10.861Z"
+generated_at: "2026-03-30T10:03:57.299Z"
 status: "active"
 ---
 

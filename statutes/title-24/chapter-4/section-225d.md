@@ -3,9 +3,9 @@ title: "Section 225d - Transition provisions for employees of Hospital"
 usc_title: 24
 usc_section: "225d"
 chapter: 4
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "24 U.S.C. § 225d"
-generated_at: "2026-03-30T09:59:54.172Z"
+generated_at: "2026-03-30T10:02:24.407Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4348 - International cooperation and information sharing"
 usc_title: 19
 usc_section: "4348"
 chapter: 28
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "19 U.S.C. § 4348"
-generated_at: "2026-03-30T09:59:51.914Z"
+generated_at: "2026-03-30T10:02:15.906Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1619 - Repealed. Pub. L. 95–561, title VI, § 601(b)(2) , Nov.
 usc_title: 20
 usc_section: "1619"
 chapter: 36
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "20 U.S.C. § 1619"
-generated_at: "2026-03-30T09:59:50.718Z"
+generated_at: "2026-03-30T10:02:18.623Z"
 status: "repealed"
 ---
 

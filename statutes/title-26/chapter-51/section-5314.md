@@ -3,9 +3,9 @@ title: "Section 5314 - Special applicability of certain provisions"
 usc_title: 26
 usc_section: "5314"
 chapter: 51
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 5314"
-generated_at: "2026-03-30T10:00:15.155Z"
+generated_at: "2026-03-30T10:02:53.503Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3818 - Effective date"
 usc_title: 50
 usc_section: "3818"
 chapter: 49
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "50 U.S.C. § 3818"
-generated_at: "2026-03-30T10:01:03.752Z"
+generated_at: "2026-03-30T10:03:53.236Z"
 status: "active"
 ---
 

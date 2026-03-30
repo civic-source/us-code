@@ -3,9 +3,9 @@ title: "Section 10908 - Penalty for sending unseaworthy vessel to sea"
 usc_title: 46
 usc_section: "10908"
 chapter: 109
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "46 U.S.C. § 10908"
-generated_at: "2026-03-30T10:00:57.981Z"
+generated_at: "2026-03-30T10:03:46.772Z"
 status: "active"
 ---
 

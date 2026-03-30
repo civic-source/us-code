@@ -3,9 +3,9 @@ title: "Section 9540 - Architectural and engineering services"
 usc_title: 10
 usc_section: "9540"
 chapter: 963
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 9540"
-generated_at: "2026-03-30T09:59:21.373Z"
+generated_at: "2026-03-30T10:02:00.906Z"
 status: "active"
 ---
 

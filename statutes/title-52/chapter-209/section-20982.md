@@ -3,9 +3,9 @@ title: "Section 20982 - Study, report, and recommendations on best practices for
 usc_title: 52
 usc_section: "20982"
 chapter: 209
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "52 U.S.C. § 20982"
-generated_at: "2026-03-30T10:01:10.865Z"
+generated_at: "2026-03-30T10:03:57.303Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3438 - Transferred"
 usc_title: 19
 usc_section: "3438"
 chapter: 21
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "19 U.S.C. § 3438"
-generated_at: "2026-03-30T09:59:51.901Z"
+generated_at: "2026-03-30T10:02:15.893Z"
 status: "transferred"
 ---
 

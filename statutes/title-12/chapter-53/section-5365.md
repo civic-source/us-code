@@ -3,9 +3,9 @@ title: "Section 5365 - Enhanced supervision and prudential standards for nonbank
 usc_title: 12
 usc_section: "5365"
 chapter: 53
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "12 U.S.C. § 5365"
-generated_at: "2026-03-30T09:59:39.629Z"
+generated_at: "2026-03-30T10:02:11.141Z"
 status: "active"
 ---
 

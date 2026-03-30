@@ -3,9 +3,9 @@ title: "Section 1501 - Cooperation between departments; definitions; limitation 
 usc_title: 42
 usc_section: "1501"
 chapter: 9
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 1501"
-generated_at: "2026-03-30T10:00:53.178Z"
+generated_at: "2026-03-30T10:03:30.082Z"
 status: "active"
 ---
 

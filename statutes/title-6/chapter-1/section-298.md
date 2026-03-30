@@ -3,9 +3,9 @@ title: "Section 298 - Immigration functions"
 usc_title: 6
 usc_section: "298"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "6 U.S.C. § 298"
-generated_at: "2026-03-30T09:59:12.455Z"
+generated_at: "2026-03-30T10:01:43.240Z"
 status: "active"
 ---
 

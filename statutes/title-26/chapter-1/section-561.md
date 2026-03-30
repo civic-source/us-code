@@ -3,9 +3,9 @@ title: "Section 561 - Definition of deduction for dividends paid"
 usc_title: 26
 usc_section: "561"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 561"
-generated_at: "2026-03-30T10:00:15.070Z"
+generated_at: "2026-03-30T10:02:53.417Z"
 status: "active"
 ---
 

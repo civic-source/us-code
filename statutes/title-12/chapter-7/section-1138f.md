@@ -3,9 +3,9 @@ title: "Section 1138f - Repealed. Aug. 11, 1955, ch. 785 , title I, § 110(b), 6
 usc_title: 12
 usc_section: "1138f"
 chapter: 7
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "12 U.S.C. § 1138f"
-generated_at: "2026-03-30T09:59:39.510Z"
+generated_at: "2026-03-30T10:02:11.014Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2461 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 42
 usc_section: "2461"
 chapter: 26
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 2461"
-generated_at: "2026-03-30T10:00:53.244Z"
+generated_at: "2026-03-30T10:03:30.137Z"
 status: "repealed"
 ---
 

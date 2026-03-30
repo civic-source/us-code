@@ -3,9 +3,9 @@ title: "Section 3620 - Repealed. Pub. L. 102–550, title IX, § 912(i)(1) , Oct
 usc_title: 12
 usc_section: "3620"
 chapter: 37
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "12 U.S.C. § 3620"
-generated_at: "2026-03-30T09:59:39.601Z"
+generated_at: "2026-03-30T10:02:11.110Z"
 status: "repealed"
 ---
 

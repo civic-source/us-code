@@ -3,9 +3,9 @@ title: "Section 511 - Imposition of tax on unrelated business income of charitab
 usc_title: 26
 usc_section: "511"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 511"
-generated_at: "2026-03-30T10:00:15.065Z"
+generated_at: "2026-03-30T10:02:53.412Z"
 status: "active"
 ---
 

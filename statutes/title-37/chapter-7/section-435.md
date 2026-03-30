@@ -3,9 +3,9 @@ title: "Section 435 - Renumbered § 495]"
 usc_title: 37
 usc_section: "435"
 chapter: 7
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "37 U.S.C. § 435"
-generated_at: "2026-03-30T10:00:32.272Z"
+generated_at: "2026-03-30T10:03:13.395Z"
 status: "renumbered"
 ---
 

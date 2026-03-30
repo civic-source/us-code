@@ -3,9 +3,9 @@ title: "Section 721 - State plans"
 usc_title: 29
 usc_section: "721"
 chapter: 16
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "29 U.S.C. § 721"
-generated_at: "2026-03-30T10:00:02.606Z"
+generated_at: "2026-03-30T10:02:46.148Z"
 status: "active"
 ---
 

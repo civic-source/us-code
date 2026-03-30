@@ -3,9 +3,9 @@ title: "Section 1972 - Action by Secretary of State upon seizure of vessel by fo
 usc_title: 22
 usc_section: "1972"
 chapter: 25
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "22 U.S.C. § 1972"
-generated_at: "2026-03-30T09:59:58.675Z"
+generated_at: "2026-03-30T10:02:42.381Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2918a - Repealed. Pub. L. 113–128, title V, § 511(a) , July 2
 usc_title: 29
 usc_section: "2918a"
 chapter: 30
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "29 U.S.C. § 2918a"
-generated_at: "2026-03-30T10:00:02.648Z"
+generated_at: "2026-03-30T10:02:46.192Z"
 status: "repealed"
 ---
 

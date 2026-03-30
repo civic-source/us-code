@@ -3,9 +3,9 @@ title: "Section 80305 - Exclusive right to emblems, badges, marks, and words"
 usc_title: 36
 usc_section: "80305"
 chapter: 803
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "36 U.S.C. § 80305"
-generated_at: "2026-03-30T10:00:31.490Z"
+generated_at: "2026-03-30T10:03:09.258Z"
 status: "active"
 ---
 

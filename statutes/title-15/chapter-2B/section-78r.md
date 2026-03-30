@@ -3,9 +3,9 @@ title: "Section 78r - Liability for misleading statements"
 usc_title: 15
 usc_section: "78r"
 chapter: 2
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "15 U.S.C. § 78r"
-generated_at: "2026-03-30T09:59:27.287Z"
+generated_at: "2026-03-30T10:02:07.402Z"
 status: "active"
 ---
 

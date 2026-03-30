@@ -3,9 +3,9 @@ title: "Section 30107 - Powers of Commission"
 usc_title: 52
 usc_section: "30107"
 chapter: 301
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "52 U.S.C. § 30107"
-generated_at: "2026-03-30T10:01:10.870Z"
+generated_at: "2026-03-30T10:03:57.307Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1192 - Discharge"
 usc_title: 11
 usc_section: "1192"
 chapter: 11
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "11 U.S.C. § 1192"
-generated_at: "2026-03-30T09:59:24.155Z"
+generated_at: "2026-03-30T10:02:03.437Z"
 status: "active"
 ---
 

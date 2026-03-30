@@ -3,9 +3,9 @@ title: "Section 4304 - Specific costs not allowable"
 usc_title: 41
 usc_section: "4304"
 chapter: 43
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "41 U.S.C. § 4304"
-generated_at: "2026-03-30T10:00:36.141Z"
+generated_at: "2026-03-30T10:03:15.181Z"
 status: "active"
 ---
 

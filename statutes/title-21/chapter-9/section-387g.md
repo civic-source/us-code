@@ -3,9 +3,9 @@ title: "Section 387g - Tobacco product standards"
 usc_title: 21
 usc_section: "387g"
 chapter: 9
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "21 U.S.C. § 387g"
-generated_at: "2026-03-30T09:59:56.675Z"
+generated_at: "2026-03-30T10:02:39.056Z"
 status: "active"
 ---
 

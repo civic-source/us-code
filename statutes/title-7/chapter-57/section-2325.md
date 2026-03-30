@@ -3,9 +3,9 @@ title: "Section 2325 - Repealed. Pub. L. 96–574, § 2 , Dec. 22, 1980 , 94 Sta
 usc_title: 7
 usc_section: "2325"
 chapter: 57
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "7 U.S.C. § 2325"
-generated_at: "2026-03-30T09:59:05.799Z"
+generated_at: "2026-03-30T10:01:46.774Z"
 status: "repealed"
 ---
 

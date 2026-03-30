@@ -3,9 +3,9 @@ title: "Section 1707 - Payment of rents, royalties, and fees to local government
 usc_title: 48
 usc_section: "1707"
 chapter: 15
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "48 U.S.C. § 1707"
-generated_at: "2026-03-30T10:00:56.916Z"
+generated_at: "2026-03-30T10:03:34.423Z"
 status: "active"
 ---
 

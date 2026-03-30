@@ -3,9 +3,9 @@ title: "Section 41 - Guam; extension of National Bank Act"
 usc_title: 12
 usc_section: "41"
 chapter: 2
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "12 U.S.C. § 41"
-generated_at: "2026-03-30T09:59:39.490Z"
+generated_at: "2026-03-30T10:02:10.997Z"
 status: "active"
 ---
 

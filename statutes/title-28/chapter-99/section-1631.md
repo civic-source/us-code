@@ -3,9 +3,9 @@ title: "Section 1631 - Transfer to cure want of jurisdiction"
 usc_title: 28
 usc_section: "1631"
 chapter: 99
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "28 U.S.C. § 1631"
-generated_at: "2026-03-30T10:00:01.762Z"
+generated_at: "2026-03-30T10:02:48.634Z"
 status: "active"
 ---
 

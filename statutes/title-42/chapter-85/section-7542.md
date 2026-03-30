@@ -3,9 +3,9 @@ title: "Section 7542 - Information collection"
 usc_title: 42
 usc_section: "7542"
 chapter: 85
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 7542"
-generated_at: "2026-03-30T10:00:53.400Z"
+generated_at: "2026-03-30T10:03:30.258Z"
 status: "active"
 ---
 

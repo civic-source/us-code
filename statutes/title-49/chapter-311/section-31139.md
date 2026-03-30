@@ -3,9 +3,9 @@ title: "Section 31139 - Minimum financial responsibility for transporting proper
 usc_title: 49
 usc_section: "31139"
 chapter: 311
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "49 U.S.C. § 31139"
-generated_at: "2026-03-30T10:01:02.096Z"
+generated_at: "2026-03-30T10:03:55.084Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1980 - Compensation for loss or destruction of commercial fishin
 usc_title: 22
 usc_section: "1980"
 chapter: 25
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "22 U.S.C. § 1980"
-generated_at: "2026-03-30T09:59:58.675Z"
+generated_at: "2026-03-30T10:02:42.382Z"
 status: "active"
 ---
 

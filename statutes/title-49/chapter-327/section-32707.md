@@ -3,9 +3,9 @@ title: "Section 32707 - Administrative warrants"
 usc_title: 49
 usc_section: "32707"
 chapter: 327
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "49 U.S.C. § 32707"
-generated_at: "2026-03-30T10:01:02.104Z"
+generated_at: "2026-03-30T10:03:55.088Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4606 - Required terms of order"
 usc_title: 7
 usc_section: "4606"
 chapter: 77
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "7 U.S.C. § 4606"
-generated_at: "2026-03-30T09:59:05.815Z"
+generated_at: "2026-03-30T10:01:46.791Z"
 status: "active"
 ---
 

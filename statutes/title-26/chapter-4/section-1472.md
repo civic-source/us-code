@@ -3,9 +3,9 @@ title: "Section 1472 - Withholdable payments to other foreign entities"
 usc_title: 26
 usc_section: "1472"
 chapter: 4
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 1472"
-generated_at: "2026-03-30T10:00:15.118Z"
+generated_at: "2026-03-30T10:02:53.465Z"
 status: "active"
 ---
 

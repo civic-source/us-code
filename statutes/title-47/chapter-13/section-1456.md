@@ -3,9 +3,9 @@ title: "Section 1456 - System certification"
 usc_title: 47
 usc_section: "1456"
 chapter: 13
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "47 U.S.C. § 1456"
-generated_at: "2026-03-30T10:00:58.659Z"
+generated_at: "2026-03-30T10:03:39.411Z"
 status: "active"
 ---
 

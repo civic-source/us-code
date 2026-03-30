@@ -3,9 +3,9 @@ title: "Section 28g - Location fee"
 usc_title: 30
 usc_section: "28g"
 chapter: 2
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "30 U.S.C. § 28g"
-generated_at: "2026-03-30T10:00:01.083Z"
+generated_at: "2026-03-30T10:02:44.888Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10158 - Interest-bearing trust funds"
 usc_title: 34
 usc_section: "10158"
 chapter: 101
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "34 U.S.C. § 10158"
-generated_at: "2026-03-30T10:00:24.764Z"
+generated_at: "2026-03-30T10:03:06.993Z"
 status: "active"
 ---
 

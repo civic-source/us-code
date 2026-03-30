@@ -3,9 +3,9 @@ title: "Section 8311 - Coal capability of new electric powerplants; certificatio
 usc_title: 42
 usc_section: "8311"
 chapter: 92
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 8311"
-generated_at: "2026-03-30T10:00:53.429Z"
+generated_at: "2026-03-30T10:03:30.282Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4008 - Retirement based on failure to meet standard of performan
 usc_title: 22
 usc_section: "4008"
 chapter: 52
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "22 U.S.C. § 4008"
-generated_at: "2026-03-30T09:59:58.727Z"
+generated_at: "2026-03-30T10:02:42.432Z"
 status: "active"
 ---
 

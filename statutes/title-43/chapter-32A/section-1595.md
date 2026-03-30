@@ -3,9 +3,9 @@ title: "Section 1595 - Salinity control units; authority and functions of Secret
 usc_title: 43
 usc_section: "1595"
 chapter: 32
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "43 U.S.C. § 1595"
-generated_at: "2026-03-30T10:00:37.349Z"
+generated_at: "2026-03-30T10:03:16.197Z"
 status: "active"
 ---
 

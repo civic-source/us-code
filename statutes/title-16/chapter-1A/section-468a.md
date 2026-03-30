@@ -3,9 +3,9 @@ title: "Section 468a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "468a"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "16 U.S.C. § 468a"
-generated_at: "2026-03-30T09:59:48.142Z"
+generated_at: "2026-03-30T10:02:22.362Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3195 - Recruitment, screening, selection, and assignment of enro
 usc_title: 29
 usc_section: "3195"
 chapter: 32
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "29 U.S.C. § 3195"
-generated_at: "2026-03-30T10:00:02.657Z"
+generated_at: "2026-03-30T10:02:46.201Z"
 status: "active"
 ---
 

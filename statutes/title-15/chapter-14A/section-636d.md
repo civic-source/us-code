@@ -3,9 +3,9 @@ title: "Section 636d - Disaster aid to major sources of employment"
 usc_title: 15
 usc_section: "636d"
 chapter: 14
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "15 U.S.C. § 636d"
-generated_at: "2026-03-30T09:59:27.321Z"
+generated_at: "2026-03-30T10:02:07.435Z"
 status: "active"
 ---
 

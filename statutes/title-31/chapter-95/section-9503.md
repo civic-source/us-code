@@ -3,9 +3,9 @@ title: "Section 9503 - Reports about Government pension plans"
 usc_title: 31
 usc_section: "9503"
 chapter: 95
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "31 U.S.C. § 9503"
-generated_at: "2026-03-30T10:00:18.296Z"
+generated_at: "2026-03-30T10:02:56.408Z"
 status: "active"
 ---
 

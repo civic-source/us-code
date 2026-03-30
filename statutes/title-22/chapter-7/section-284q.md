@@ -3,9 +3,9 @@ title: "Section 284q - Special Facility for Sub-Saharan Africa"
 usc_title: 22
 usc_section: "284q"
 chapter: 7
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "22 U.S.C. § 284q"
-generated_at: "2026-03-30T09:59:58.654Z"
+generated_at: "2026-03-30T10:02:42.361Z"
 status: "active"
 ---
 

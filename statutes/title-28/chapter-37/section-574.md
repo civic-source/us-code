@@ -3,9 +3,9 @@ title: "Section 574 - Repealed. Pub. L. 100–690, title VII, § 7608(a)(2)(A) ,
 usc_title: 28
 usc_section: "574"
 chapter: 37
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "28 U.S.C. § 574"
-generated_at: "2026-03-30T10:00:01.754Z"
+generated_at: "2026-03-30T10:02:48.625Z"
 status: "repealed"
 ---
 

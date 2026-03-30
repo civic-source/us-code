@@ -3,9 +3,9 @@ title: "Section 758 - Exploration, investigation, development, and maintenance o
 usc_title: 16
 usc_section: "758"
 chapter: 9
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "16 U.S.C. § 758"
-generated_at: "2026-03-30T09:59:48.179Z"
+generated_at: "2026-03-30T10:02:22.398Z"
 status: "active"
 ---
 

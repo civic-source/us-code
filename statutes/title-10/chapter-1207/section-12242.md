@@ -3,9 +3,9 @@ title: "Section 12242 - Warrant officers: promotion"
 usc_title: 10
 usc_section: "12242"
 chapter: 1207
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 12242"
-generated_at: "2026-03-30T09:59:21.378Z"
+generated_at: "2026-03-30T10:02:00.912Z"
 status: "active"
 ---
 

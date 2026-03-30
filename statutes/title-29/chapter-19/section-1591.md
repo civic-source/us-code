@@ -3,9 +3,9 @@ title: "Section 1591 - Repealed. Pub. L. 102–367, title VII, § 702(a)(10) , S
 usc_title: 29
 usc_section: "1591"
 chapter: 19
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "29 U.S.C. § 1591"
-generated_at: "2026-03-30T10:00:02.643Z"
+generated_at: "2026-03-30T10:02:46.187Z"
 status: "repealed"
 ---
 

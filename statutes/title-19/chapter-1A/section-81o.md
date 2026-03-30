@@ -3,9 +3,9 @@ title: "Section 81o - Residents of zone"
 usc_title: 19
 usc_section: "81o"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "19 U.S.C. § 81o"
-generated_at: "2026-03-30T09:59:51.852Z"
+generated_at: "2026-03-30T10:02:15.841Z"
 status: "active"
 ---
 

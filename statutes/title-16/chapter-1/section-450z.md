@@ -3,9 +3,9 @@ title: "Section 450z - Repealed. Pub. L. 94–429, § 3(g) , Sept. 28, 1976 , 90
 usc_title: 16
 usc_section: "450z"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "16 U.S.C. § 450z"
-generated_at: "2026-03-30T09:59:48.107Z"
+generated_at: "2026-03-30T10:02:22.326Z"
 status: "repealed"
 ---
 

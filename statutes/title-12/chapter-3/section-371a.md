@@ -3,9 +3,9 @@ title: "Section 371a - Repealed. Pub. L. 111–203, title VI, § 627(a)(1) , Jul
 usc_title: 12
 usc_section: "371a"
 chapter: 3
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "12 U.S.C. § 371a"
-generated_at: "2026-03-30T09:59:39.501Z"
+generated_at: "2026-03-30T10:02:11.005Z"
 status: "repealed"
 ---
 

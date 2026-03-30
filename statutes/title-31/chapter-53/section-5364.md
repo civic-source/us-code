@@ -3,9 +3,9 @@ title: "Section 5364 - Policies and procedures to identify and prevent restricte
 usc_title: 31
 usc_section: "5364"
 chapter: 53
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "31 U.S.C. § 5364"
-generated_at: "2026-03-30T10:00:18.291Z"
+generated_at: "2026-03-30T10:02:56.402Z"
 status: "active"
 ---
 

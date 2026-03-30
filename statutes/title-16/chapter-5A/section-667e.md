@@ -3,9 +3,9 @@ title: "Section 667e - Repealed. Pub. L. 97–79, § 9(b)(2) , Nov. 16, 1981 , 9
 usc_title: 16
 usc_section: "667e"
 chapter: 5
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "16 U.S.C. § 667e"
-generated_at: "2026-03-30T09:59:48.166Z"
+generated_at: "2026-03-30T10:02:22.386Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3720B - Barring delinquent Federal debtors from obtaining Federa
 usc_title: 31
 usc_section: "3720B"
 chapter: 37
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "31 U.S.C. § 3720B"
-generated_at: "2026-03-30T10:00:18.282Z"
+generated_at: "2026-03-30T10:02:56.394Z"
 status: "active"
 ---
 

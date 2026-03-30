@@ -3,9 +3,9 @@ title: "Section 1629 - Establishment of committees to assist in research and ser
 usc_title: 7
 usc_section: "1629"
 chapter: 38
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "7 U.S.C. § 1629"
-generated_at: "2026-03-30T09:59:05.760Z"
+generated_at: "2026-03-30T10:01:46.732Z"
 status: "active"
 ---
 

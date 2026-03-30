@@ -3,9 +3,9 @@ title: "Section 7616 - Sewage treatment grants"
 usc_title: 42
 usc_section: "7616"
 chapter: 85
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 7616"
-generated_at: "2026-03-30T10:00:53.408Z"
+generated_at: "2026-03-30T10:03:30.265Z"
 status: "active"
 ---
 

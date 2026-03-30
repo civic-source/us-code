@@ -3,9 +3,9 @@ title: "Section 683 - Tax on operation of hydraulic mines; “debris fund”; ad
 usc_title: 33
 usc_section: "683"
 chapter: 14
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "33 U.S.C. § 683"
-generated_at: "2026-03-30T10:00:20.750Z"
+generated_at: "2026-03-30T10:03:00.767Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2512 - Management structure for nuclear security enterprise"
 usc_title: 50
 usc_section: "2512"
 chapter: 42
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "50 U.S.C. § 2512"
-generated_at: "2026-03-30T10:01:03.708Z"
+generated_at: "2026-03-30T10:03:53.204Z"
 status: "active"
 ---
 

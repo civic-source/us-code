@@ -3,9 +3,9 @@ title: "Section 953 - Remission or suspension of sentence; restoration to duty; 
 usc_title: 10
 usc_section: "953"
 chapter: 48
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 953"
-generated_at: "2026-03-30T09:59:21.280Z"
+generated_at: "2026-03-30T10:02:00.799Z"
 status: "active"
 ---
 

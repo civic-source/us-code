@@ -3,9 +3,9 @@ title: "Section 1231a - Repealed. Pub. L. 115–282, title VI, § 601(c)(6)(A) ,
 usc_title: 33
 usc_section: "1231a"
 chapter: 25
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "33 U.S.C. § 1231a"
-generated_at: "2026-03-30T10:00:20.763Z"
+generated_at: "2026-03-30T10:03:00.780Z"
 status: "repealed"
 ---
 

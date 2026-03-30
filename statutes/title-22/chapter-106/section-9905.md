@@ -3,9 +3,9 @@ title: "Section 9905 - Private sector consultation and coordination"
 usc_title: 22
 usc_section: "9905"
 chapter: 106
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "22 U.S.C. § 9905"
-generated_at: "2026-03-30T09:59:58.793Z"
+generated_at: "2026-03-30T10:02:42.496Z"
 status: "active"
 ---
 

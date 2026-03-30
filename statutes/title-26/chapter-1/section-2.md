@@ -3,9 +3,9 @@ title: "Section 2 - Special rules for capital gains invested in opportunity zone
 usc_title: 26
 usc_section: "2"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 2"
-generated_at: "2026-03-30T10:00:15.116Z"
+generated_at: "2026-03-30T10:02:53.463Z"
 status: "active"
 ---
 

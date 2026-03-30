@@ -3,9 +3,9 @@ title: "Section 146 - Patents to purchasers of lands withdrawn"
 usc_title: 43
 usc_section: "146"
 chapter: 6
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "43 U.S.C. § 146"
-generated_at: "2026-03-30T10:00:37.313Z"
+generated_at: "2026-03-30T10:03:16.163Z"
 status: "active"
 ---
 

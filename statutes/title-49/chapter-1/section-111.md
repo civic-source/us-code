@@ -3,9 +3,9 @@ title: "Section 111 - Repealed. Pub. L. 112–141, div. E, title II, § 52011(c)
 usc_title: 49
 usc_section: "111"
 chapter: 1
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "49 U.S.C. § 111"
-generated_at: "2026-03-30T10:01:02.022Z"
+generated_at: "2026-03-30T10:03:55.041Z"
 status: "repealed"
 ---
 

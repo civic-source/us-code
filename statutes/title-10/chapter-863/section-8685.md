@@ -3,9 +3,9 @@ title: "Section 8685 - Preservation of Navy shipbuilding capability"
 usc_title: 10
 usc_section: "8685"
 chapter: 863
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "10 U.S.C. § 8685"
-generated_at: "2026-03-30T09:59:21.365Z"
+generated_at: "2026-03-30T10:02:00.898Z"
 status: "active"
 ---
 

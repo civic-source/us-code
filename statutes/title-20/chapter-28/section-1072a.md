@@ -3,9 +3,9 @@ title: "Section 1072a - Federal Student Loan Reserve Fund"
 usc_title: 20
 usc_section: "1072a"
 chapter: 28
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "20 U.S.C. § 1072a"
-generated_at: "2026-03-30T09:59:50.668Z"
+generated_at: "2026-03-30T10:02:18.571Z"
 status: "active"
 ---
 

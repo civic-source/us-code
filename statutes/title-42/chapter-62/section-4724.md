@@ -3,9 +3,9 @@ title: "Section 4724 - Intergovernmental cooperation in recruiting and examining
 usc_title: 42
 usc_section: "4724"
 chapter: 62
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 4724"
-generated_at: "2026-03-30T10:00:53.292Z"
+generated_at: "2026-03-30T10:03:30.174Z"
 status: "active"
 ---
 

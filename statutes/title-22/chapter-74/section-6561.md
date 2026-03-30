@@ -3,9 +3,9 @@ title: "Section 6561 - Abolition of United States International Development Coop
 usc_title: 22
 usc_section: "6561"
 chapter: 74
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "22 U.S.C. § 6561"
-generated_at: "2026-03-30T09:59:58.755Z"
+generated_at: "2026-03-30T10:02:42.459Z"
 status: "active"
 ---
 

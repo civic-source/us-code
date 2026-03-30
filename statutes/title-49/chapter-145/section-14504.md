@@ -3,9 +3,9 @@ title: "Section 14504 - Repealed. Pub. L. 109–59, title IV, § 4305(a) , Aug. 
 usc_title: 49
 usc_section: "14504"
 chapter: 145
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "49 U.S.C. § 14504"
-generated_at: "2026-03-30T10:01:02.064Z"
+generated_at: "2026-03-30T10:03:55.066Z"
 status: "repealed"
 ---
 

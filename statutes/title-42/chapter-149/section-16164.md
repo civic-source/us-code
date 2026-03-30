@@ -3,9 +3,9 @@ title: "Section 16164 - Cost sharing"
 usc_title: 42
 usc_section: "16164"
 chapter: 149
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 16164"
-generated_at: "2026-03-30T10:00:53.570Z"
+generated_at: "2026-03-30T10:03:30.391Z"
 status: "active"
 ---
 

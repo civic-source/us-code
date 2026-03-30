@@ -3,9 +3,9 @@ title: "Section 4166 - GAO audits"
 usc_title: 25
 usc_section: "4166"
 chapter: 43
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "25 U.S.C. § 4166"
-generated_at: "2026-03-30T09:59:55.763Z"
+generated_at: "2026-03-30T10:02:26.293Z"
 status: "active"
 ---
 

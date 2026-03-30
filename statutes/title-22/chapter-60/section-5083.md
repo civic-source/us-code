@@ -3,9 +3,9 @@ title: "Section 5083 - Repealed. Pub. L. 103–149, § 4(a)(1) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5083"
 chapter: 60
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "22 U.S.C. § 5083"
-generated_at: "2026-03-30T09:59:58.741Z"
+generated_at: "2026-03-30T10:02:42.445Z"
 status: "repealed"
 ---
 

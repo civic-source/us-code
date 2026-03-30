@@ -3,9 +3,9 @@ title: "Section 2906 - Dependent school children"
 usc_title: 14
 usc_section: "2906"
 chapter: 29
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "14 U.S.C. § 2906"
-generated_at: "2026-03-30T09:59:23.817Z"
+generated_at: "2026-03-30T10:02:03.983Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6323 - Federal assistance to States"
 usc_title: 42
 usc_section: "6323"
 chapter: 77
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 6323"
-generated_at: "2026-03-30T10:00:53.344Z"
+generated_at: "2026-03-30T10:03:30.213Z"
 status: "active"
 ---
 

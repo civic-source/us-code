@@ -3,9 +3,9 @@ title: "Section 16501 - Commercial byproducts from municipal solid waste and cel
 usc_title: 42
 usc_section: "16501"
 chapter: 149
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 16501"
-generated_at: "2026-03-30T10:00:53.581Z"
+generated_at: "2026-03-30T10:03:30.398Z"
 status: "active"
 ---
 

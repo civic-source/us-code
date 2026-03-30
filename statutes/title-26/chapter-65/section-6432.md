@@ -3,9 +3,9 @@ title: "Section 6432 - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(
 usc_title: 26
 usc_section: "6432"
 chapter: 65
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "26 U.S.C. § 6432"
-generated_at: "2026-03-30T10:00:15.184Z"
+generated_at: "2026-03-30T10:02:53.531Z"
 status: "repealed"
 ---
 

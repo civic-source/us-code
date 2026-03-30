@@ -3,9 +3,9 @@ title: "Section 463 - Rules and regulations"
 usc_title: 21
 usc_section: "463"
 chapter: 10
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "21 U.S.C. § 463"
-generated_at: "2026-03-30T09:59:56.680Z"
+generated_at: "2026-03-30T10:02:39.060Z"
 status: "active"
 ---
 

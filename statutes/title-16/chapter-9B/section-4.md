@@ -3,9 +3,9 @@ title: "Section 4 - Hatchery education program development"
 usc_title: 16
 usc_section: "4"
 chapter: 9
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T09:59:48.180Z"
+generated_at: "2026-03-30T10:02:22.399Z"
 status: "active"
 ---
 

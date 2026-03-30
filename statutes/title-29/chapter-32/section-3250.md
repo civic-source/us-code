@@ -3,9 +3,9 @@ title: "Section 3250 - Workforce flexibility plans"
 usc_title: 29
 usc_section: "3250"
 chapter: 32
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "29 U.S.C. § 3250"
-generated_at: "2026-03-30T10:00:02.662Z"
+generated_at: "2026-03-30T10:02:46.206Z"
 status: "active"
 ---
 

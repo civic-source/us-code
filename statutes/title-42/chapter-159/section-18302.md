@@ -3,9 +3,9 @@ title: "Section 18302 - Definitions"
 usc_title: 42
 usc_section: "18302"
 chapter: 159
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 18302"
-generated_at: "2026-03-30T10:00:53.608Z"
+generated_at: "2026-03-30T10:03:30.421Z"
 status: "active"
 ---
 

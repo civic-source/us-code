@@ -3,9 +3,9 @@ title: "Section 2512 - Omitted"
 usc_title: 42
 usc_section: "2512"
 chapter: 28
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "42 U.S.C. § 2512"
-generated_at: "2026-03-30T10:00:53.244Z"
+generated_at: "2026-03-30T10:03:30.137Z"
 status: "omitted"
 ---
 

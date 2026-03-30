@@ -3,9 +3,9 @@ title: "Section 1186 - Property of the estate"
 usc_title: 11
 usc_section: "1186"
 chapter: 11
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "11 U.S.C. § 1186"
-generated_at: "2026-03-30T09:59:24.155Z"
+generated_at: "2026-03-30T10:02:03.436Z"
 status: "active"
 ---
 

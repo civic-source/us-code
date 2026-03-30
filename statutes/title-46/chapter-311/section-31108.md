@@ -3,9 +3,9 @@ title: "Section 31108 - Arbitration, compromise, or settlement"
 usc_title: 46
 usc_section: "31108"
 chapter: 311
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "46 U.S.C. § 31108"
-generated_at: "2026-03-30T10:00:57.990Z"
+generated_at: "2026-03-30T10:03:46.778Z"
 status: "active"
 ---
 

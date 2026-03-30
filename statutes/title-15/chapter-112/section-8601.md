@@ -3,9 +3,9 @@ title: "Section 8601 - Protections for covered sports medicine professionals"
 usc_title: 15
 usc_section: "8601"
 chapter: 112
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "15 U.S.C. § 8601"
-generated_at: "2026-03-30T09:59:27.448Z"
+generated_at: "2026-03-30T10:02:07.560Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3182 - Federal Coordination Committee"
 usc_title: 16
 usc_section: "3182"
 chapter: 51
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "16 U.S.C. § 3182"
-generated_at: "2026-03-30T09:59:48.249Z"
+generated_at: "2026-03-30T10:02:22.470Z"
 status: "active"
 ---
 

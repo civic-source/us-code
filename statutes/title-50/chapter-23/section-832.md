@@ -3,9 +3,9 @@ title: "Section 832 - Full field investigation and appraisal"
 usc_title: 50
 usc_section: "832"
 chapter: 23
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "50 U.S.C. § 832"
-generated_at: "2026-03-30T10:01:03.680Z"
+generated_at: "2026-03-30T10:03:53.185Z"
 status: "active"
 ---
 

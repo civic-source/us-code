@@ -3,9 +3,9 @@ title: "Section 302h - Special pay: accession bonus for dental officers"
 usc_title: 37
 usc_section: "302h"
 chapter: 5
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "37 U.S.C. § 302h"
-generated_at: "2026-03-30T10:00:32.266Z"
+generated_at: "2026-03-30T10:03:13.389Z"
 status: "active"
 ---
 

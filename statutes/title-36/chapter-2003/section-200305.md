@@ -3,9 +3,9 @@ title: "Section 200305 - Powers"
 usc_title: 36
 usc_section: "200305"
 chapter: 2003
-current_through: "PL 116-216"
+current_through: "PL 116-220"
 classification: "36 U.S.C. § 200305"
-generated_at: "2026-03-30T10:00:31.499Z"
+generated_at: "2026-03-30T10:03:09.266Z"
 status: "active"
 ---
 
