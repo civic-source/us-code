@@ -3,9 +3,9 @@ title: "Section 611 - “Basic agricultural commodity” defined; exclusion of c
 usc_title: 7
 usc_section: "611"
 chapter: 26
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 611"
-generated_at: "2026-03-30T01:09:47.585Z"
+generated_at: "2026-03-30T01:14:35.548Z"
 ---
 
 # § 611. “Basic agricultural commodity” defined; exclusion of commodities

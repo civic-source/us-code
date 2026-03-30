@@ -3,9 +3,9 @@ title: "Section 1 - Staff exchanges"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T01:10:09.153Z"
+generated_at: "2026-03-30T01:14:59.423Z"
 ---
 
 # § 57c–1. Staff exchanges

@@ -3,9 +3,9 @@ title: "Section 9221c - Prohibition on transactions with certain sanctioned pers
 usc_title: 22
 usc_section: "9221c"
 chapter: 99
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 9221c"
-generated_at: "2026-03-30T01:11:13.600Z"
+generated_at: "2026-03-30T01:15:42.441Z"
 ---
 
 # § 9221c. Prohibition on transactions with certain sanctioned persons by persons owned or controlled by United States financial institutions

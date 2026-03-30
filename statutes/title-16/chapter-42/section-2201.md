@@ -3,9 +3,9 @@ title: "Section 2201 - Emergency conservation program"
 usc_title: 16
 usc_section: "2201"
 chapter: 42
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 2201"
-generated_at: "2026-03-30T01:10:37.097Z"
+generated_at: "2026-03-30T01:15:31.057Z"
 ---
 
 # § 2201. Emergency conservation program

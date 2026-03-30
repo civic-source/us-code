@@ -3,9 +3,9 @@ title: "Section 2223 - Transfer of excess credit"
 usc_title: 33
 usc_section: "2223"
 chapter: 36
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "33 U.S.C. § 2223"
-generated_at: "2026-03-30T01:11:45.442Z"
+generated_at: "2026-03-30T01:16:07.198Z"
 ---
 
 # § 2223. Transfer of excess credit

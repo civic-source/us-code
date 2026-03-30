@@ -3,9 +3,9 @@ title: "Section 140404 - Governing body"
 usc_title: 36
 usc_section: "140404"
 chapter: 1404
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "36 U.S.C. § 140404"
-generated_at: "2026-03-30T01:11:48.488Z"
+generated_at: "2026-03-30T01:16:51.432Z"
 ---
 
 # § 140404. Governing body

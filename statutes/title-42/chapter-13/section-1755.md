@@ -3,9 +3,9 @@ title: "Section 1755 - Direct expenditures for agricultural commodities and othe
 usc_title: 42
 usc_section: "1755"
 chapter: 13
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 1755"
-generated_at: "2026-03-30T01:12:43.119Z"
+generated_at: "2026-03-30T01:18:07.464Z"
 ---
 
 # § 1755. Direct expenditures for agricultural commodities and other foods

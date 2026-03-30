@@ -3,9 +3,9 @@ title: "Section 857 - Compliance with other registration statutes"
 usc_title: 50
 usc_section: "857"
 chapter: 23
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 857"
-generated_at: "2026-03-30T01:13:12.945Z"
+generated_at: "2026-03-30T01:18:12.750Z"
 ---
 
 # § 857. Compliance with other registration statutes

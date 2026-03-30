@@ -3,9 +3,9 @@ title: "Section 7556 - Benchmarks to evaluate the progress being made toward the
 usc_title: 22
 usc_section: "7556"
 chapter: 82
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 7556"
-generated_at: "2026-03-30T01:11:13.573Z"
+generated_at: "2026-03-30T01:15:42.419Z"
 ---
 
 # § 7556. Benchmarks to evaluate the progress being made toward the transition of security responsibilities for Afghanistan to the Government of Afghanistan

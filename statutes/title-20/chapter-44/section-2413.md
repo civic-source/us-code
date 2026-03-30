@@ -3,9 +3,9 @@ title: "Section 2413 - State administrative costs"
 usc_title: 20
 usc_section: "2413"
 chapter: 44
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 2413"
-generated_at: "2026-03-30T01:10:32.966Z"
+generated_at: "2026-03-30T01:15:07.637Z"
 ---
 
 # § 2413. State administrative costs

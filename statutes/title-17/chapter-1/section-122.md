@@ -3,9 +3,9 @@ title: "Section 122 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "122"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "17 U.S.C. § 122"
-generated_at: "2026-03-30T01:10:29.797Z"
+generated_at: "2026-03-30T01:15:01.879Z"
 ---
 
 # § 122. Limitations on exclusive rights: Secondary transmissions of local television programming by satellite

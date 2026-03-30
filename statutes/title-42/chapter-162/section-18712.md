@@ -3,9 +3,9 @@ title: "Section 18712 - Electric grid reliability and resilience research, devel
 usc_title: 42
 usc_section: "18712"
 chapter: 162
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 18712"
-generated_at: "2026-03-30T01:12:43.631Z"
+generated_at: "2026-03-30T01:18:07.843Z"
 ---
 
 # § 18712. Electric grid reliability and resilience research, development, and demonstration

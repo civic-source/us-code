@@ -3,9 +3,9 @@ title: "Section 1016 - Acknowledgment of appearance or oath"
 usc_title: 18
 usc_section: "1016"
 chapter: 47
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 1016"
-generated_at: "2026-03-30T01:10:29.307Z"
+generated_at: "2026-03-30T01:15:03.808Z"
 ---
 
 # § 1016. Acknowledgment of appearance or oath

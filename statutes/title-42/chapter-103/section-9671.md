@@ -3,9 +3,9 @@ title: "Section 9671 - Definitions"
 usc_title: 42
 usc_section: "9671"
 chapter: 103
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 9671"
-generated_at: "2026-03-30T01:12:43.435Z"
+generated_at: "2026-03-30T01:18:07.700Z"
 ---
 
 # § 9671. Definitions

@@ -3,9 +3,9 @@ title: "Section 1 - Board of grazing district advisers; composition; meetings; d
 usc_title: 43
 usc_section: "1"
 chapter: 8
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T01:12:04.138Z"
+generated_at: "2026-03-30T01:17:12.105Z"
 ---
 
 # § 315o–1. Board of grazing district advisers; composition; meetings; duties

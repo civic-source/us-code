@@ -3,9 +3,9 @@ title: "Section 1468 - Authorization of appropriations"
 usc_title: 25
 usc_section: "1468"
 chapter: 17
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "25 U.S.C. § 1468"
-generated_at: "2026-03-30T01:10:57.717Z"
+generated_at: "2026-03-30T01:15:35.086Z"
 ---
 
 # § 1468. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 2578 - Negotiating records"
 usc_title: 22
 usc_section: "2578"
 chapter: 35
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 2578"
-generated_at: "2026-03-30T01:11:13.483Z"
+generated_at: "2026-03-30T01:15:42.348Z"
 ---
 
 # § 2578. Negotiating records

@@ -3,9 +3,9 @@ title: "Section 313 - Bilateral or regional cooperation programs: awards and mem
 usc_title: 10
 usc_section: "313"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 313"
-generated_at: "2026-03-30T01:10:00.536Z"
+generated_at: "2026-03-30T01:14:40.607Z"
 ---
 
 # § 313. Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance

@@ -3,9 +3,9 @@ title: "Section 1024 - Repealed. Pub. L. 92–471, title I, § 108(c) , Oct. 9, 
 usc_title: 16
 usc_section: "1024"
 chapter: 19
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 1024"
-generated_at: "2026-03-30T01:10:37.038Z"
+generated_at: "2026-03-30T01:15:31.010Z"
 ---
 
 # § 1024. Repealed. Pub. L. 92–471, title I, § 108(c) , Oct. 9, 1972 , 86 Stat. 787

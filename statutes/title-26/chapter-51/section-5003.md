@@ -3,9 +3,9 @@ title: "Section 5003 - Cross references to exemptions, etc."
 usc_title: 26
 usc_section: "5003"
 chapter: 51
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 5003"
-generated_at: "2026-03-30T01:11:37.992Z"
+generated_at: "2026-03-30T01:16:03.458Z"
 ---
 
 # § 5003. Cross references to exemptions, etc.

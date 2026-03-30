@@ -3,9 +3,9 @@ title: "Section 1734 - Territorial government; determination of election procedu
 usc_title: 48
 usc_section: "1734"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "48 U.S.C. § 1734"
-generated_at: "2026-03-30T01:13:06.915Z"
+generated_at: "2026-03-30T01:18:11.183Z"
 ---
 
 # § 1734. Territorial government; determination of election procedure

@@ -3,9 +3,9 @@ title: "Section 403 - Establishment; boundaries"
 usc_title: 16
 usc_section: "403"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 403"
-generated_at: "2026-03-30T01:10:36.846Z"
+generated_at: "2026-03-30T01:15:30.869Z"
 ---
 
 # § 403. Establishment; boundaries

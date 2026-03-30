@@ -3,9 +3,9 @@ title: "Section 17375 - Regional clean energy innovation program"
 usc_title: 42
 usc_section: "17375"
 chapter: 152
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 17375"
-generated_at: "2026-03-30T01:12:43.607Z"
+generated_at: "2026-03-30T01:18:07.826Z"
 ---
 
 # § 17375. Regional clean energy innovation program

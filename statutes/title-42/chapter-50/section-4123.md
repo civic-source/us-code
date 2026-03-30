@@ -3,9 +3,9 @@ title: "Section 4123 - Advance payments"
 usc_title: 42
 usc_section: "4123"
 chapter: 50
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 4123"
-generated_at: "2026-03-30T01:12:43.235Z"
+generated_at: "2026-03-30T01:18:07.552Z"
 ---
 
 # § 4123. Advance payments

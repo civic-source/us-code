@@ -3,9 +3,9 @@ title: "Section 32507 - Penalties and enforcement"
 usc_title: 49
 usc_section: "32507"
 chapter: 325
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 32507"
-generated_at: "2026-03-30T01:12:54.684Z"
+generated_at: "2026-03-30T01:18:16.106Z"
 ---
 
 # § 32507. Penalties and enforcement

@@ -3,9 +3,9 @@ title: "Section 3501 - Number of passengers"
 usc_title: 46
 usc_section: "3501"
 chapter: 35
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "46 U.S.C. § 3501"
-generated_at: "2026-03-30T01:12:51.246Z"
+generated_at: "2026-03-30T01:18:24.188Z"
 ---
 
 # § 3501. Number of passengers

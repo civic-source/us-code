@@ -3,9 +3,9 @@ title: "Section 1264 - Penalties; exceptions"
 usc_title: 15
 usc_section: "1264"
 chapter: 30
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 1264"
-generated_at: "2026-03-30T01:10:09.324Z"
+generated_at: "2026-03-30T01:14:59.532Z"
 ---
 
 # § 1264. Penalties; exceptions

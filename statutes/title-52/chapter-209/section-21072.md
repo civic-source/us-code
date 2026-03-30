@@ -3,9 +3,9 @@ title: "Section 21072 - Authorization of appropriations"
 usc_title: 52
 usc_section: "21072"
 chapter: 209
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "52 U.S.C. § 21072"
-generated_at: "2026-03-30T01:13:25.521Z"
+generated_at: "2026-03-30T01:18:47.354Z"
 ---
 
 # § 21072. Authorization of appropriations

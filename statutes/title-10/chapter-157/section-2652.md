@@ -3,9 +3,9 @@ title: "Section 2652 - Prohibition on charge of certain tariffs on aircraft trav
 usc_title: 10
 usc_section: "2652"
 chapter: 157
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 2652"
-generated_at: "2026-03-30T01:10:00.659Z"
+generated_at: "2026-03-30T01:14:40.702Z"
 ---
 
 # § 2652. Prohibition on charge of certain tariffs on aircraft traveling through channel routes

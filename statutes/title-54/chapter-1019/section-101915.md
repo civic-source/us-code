@@ -3,9 +3,9 @@ title: "Section 101915 - Protection of concessioner investment"
 usc_title: 54
 usc_section: "101915"
 chapter: 1019
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "54 U.S.C. § 101915"
-generated_at: "2026-03-30T01:13:24.577Z"
+generated_at: "2026-03-30T01:18:38.938Z"
 ---
 
 # § 101915. Protection of concessioner investment

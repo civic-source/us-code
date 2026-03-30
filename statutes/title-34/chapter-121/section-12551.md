@@ -3,9 +3,9 @@ title: "Section 12551 - Purposes"
 usc_title: 34
 usc_section: "12551"
 chapter: 121
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "34 U.S.C. § 12551"
-generated_at: "2026-03-30T01:11:43.073Z"
+generated_at: "2026-03-30T01:16:36.243Z"
 ---
 
 # § 12551. Purposes

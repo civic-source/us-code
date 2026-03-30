@@ -3,9 +3,9 @@ title: "Section 23 - HOPE for Homeowners Program"
 usc_title: 12
 usc_section: "23"
 chapter: 13
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 23"
-generated_at: "2026-03-30T01:10:24.275Z"
+generated_at: "2026-03-30T01:14:52.599Z"
 ---
 
 # § 1715z–23. HOPE for Homeowners Program

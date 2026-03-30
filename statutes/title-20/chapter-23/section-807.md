@@ -3,9 +3,9 @@ title: "Section 807 - Definitions; authorization of appropriations for administr
 usc_title: 20
 usc_section: "807"
 chapter: 23
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 807"
-generated_at: "2026-03-30T01:10:32.847Z"
+generated_at: "2026-03-30T01:15:07.547Z"
 ---
 
 # § 807. Definitions; authorization of appropriations for administrative and other expenses

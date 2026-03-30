@@ -3,9 +3,9 @@ title: "Section 687f - Unlawful acts and omissions by officers, directors, emplo
 usc_title: 15
 usc_section: "687f"
 chapter: 14
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 687f"
-generated_at: "2026-03-30T01:10:09.289Z"
+generated_at: "2026-03-30T01:14:59.508Z"
 ---
 
 # § 687f. Unlawful acts and omissions by officers, directors, employees, or agents

@@ -3,9 +3,9 @@ title: "Section 4141 - Authority"
 usc_title: 12
 usc_section: "4141"
 chapter: 42
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 4141"
-generated_at: "2026-03-30T01:10:24.394Z"
+generated_at: "2026-03-30T01:14:52.689Z"
 ---
 
 # § 4141. Authority

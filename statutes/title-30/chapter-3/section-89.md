@@ -3,9 +3,9 @@ title: "Section 89 - Disposition of proceeds"
 usc_title: 30
 usc_section: "89"
 chapter: 3
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "30 U.S.C. § 89"
-generated_at: "2026-03-30T01:11:25.981Z"
+generated_at: "2026-03-30T01:15:55.536Z"
 ---
 
 # § 89. Disposition of proceeds

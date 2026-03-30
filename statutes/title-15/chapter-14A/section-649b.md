@@ -3,9 +3,9 @@ title: "Section 649b - Grants, contracts and cooperative agreements for internat
 usc_title: 15
 usc_section: "649b"
 chapter: 14
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 649b"
-generated_at: "2026-03-30T01:10:09.277Z"
+generated_at: "2026-03-30T01:14:59.501Z"
 ---
 
 # § 649b. Grants, contracts and cooperative agreements for international marketing programs

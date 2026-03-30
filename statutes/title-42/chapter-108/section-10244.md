@@ -3,9 +3,9 @@ title: "Section 10244 - Environmental assessment of sites"
 usc_title: 42
 usc_section: "10244"
 chapter: 108
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 10244"
-generated_at: "2026-03-30T01:12:43.461Z"
+generated_at: "2026-03-30T01:18:07.720Z"
 ---
 
 # § 10244. Environmental assessment of sites

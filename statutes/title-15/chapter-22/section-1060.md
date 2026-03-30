@@ -3,9 +3,9 @@ title: "Section 1060 - Assignment"
 usc_title: 15
 usc_section: "1060"
 chapter: 22
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 1060"
-generated_at: "2026-03-30T01:10:09.313Z"
+generated_at: "2026-03-30T01:14:59.525Z"
 ---
 
 # § 1060. Assignment

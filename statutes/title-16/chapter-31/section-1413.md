@@ -3,9 +3,9 @@ title: "Section 1413 - Regulatory authority of Secretary"
 usc_title: 16
 usc_section: "1413"
 chapter: 31
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 1413"
-generated_at: "2026-03-30T01:10:37.061Z"
+generated_at: "2026-03-30T01:15:31.029Z"
 ---
 
 # § 1413. Regulatory authority of Secretary

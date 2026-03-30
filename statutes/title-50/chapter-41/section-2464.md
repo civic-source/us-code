@@ -3,9 +3,9 @@ title: "Section 2464 - Use of capabilities of national security laboratories by 
 usc_title: 50
 usc_section: "2464"
 chapter: 41
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 2464"
-generated_at: "2026-03-30T01:13:12.971Z"
+generated_at: "2026-03-30T01:18:12.772Z"
 ---
 
 # § 2464. Use of capabilities of national security laboratories by entities outside the Administration

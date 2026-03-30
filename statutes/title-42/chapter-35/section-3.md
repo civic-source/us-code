@@ -3,9 +3,9 @@ title: "Section 3 - Waivers"
 usc_title: 42
 usc_section: "3"
 chapter: 35
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T01:12:43.206Z"
+generated_at: "2026-03-30T01:18:07.529Z"
 ---
 
 # § 3030c–3. Waivers

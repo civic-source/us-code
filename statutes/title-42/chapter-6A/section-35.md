@@ -3,9 +3,9 @@ title: "Section 35 - Demonstration program to integrate information technology i
 usc_title: 42
 usc_section: "35"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 35"
-generated_at: "2026-03-30T01:12:42.822Z"
+generated_at: "2026-03-30T01:18:07.245Z"
 ---
 
 # § 300jj–35. Demonstration program to integrate information technology into clinical education

@@ -3,9 +3,9 @@ title: "Section 50402 - Maritime Transportation System National Advisory Committ
 usc_title: 46
 usc_section: "50402"
 chapter: 504
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "46 U.S.C. § 50402"
-generated_at: "2026-03-30T01:12:51.274Z"
+generated_at: "2026-03-30T01:18:24.209Z"
 ---
 
 # § 50402. Maritime Transportation System National Advisory Committee

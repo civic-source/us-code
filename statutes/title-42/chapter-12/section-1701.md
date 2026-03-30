@@ -3,9 +3,9 @@ title: "Section 1701 - Compensation for injury or death resulting from war-risk 
 usc_title: 42
 usc_section: "1701"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 1701"
-generated_at: "2026-03-30T01:12:43.118Z"
+generated_at: "2026-03-30T01:18:07.464Z"
 ---
 
 # § 1701. Compensation for injury or death resulting from war-risk hazard

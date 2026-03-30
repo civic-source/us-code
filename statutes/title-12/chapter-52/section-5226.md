@@ -3,9 +3,9 @@ title: "Section 5226 - Oversight and audits"
 usc_title: 12
 usc_section: "5226"
 chapter: 52
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 5226"
-generated_at: "2026-03-30T01:10:24.427Z"
+generated_at: "2026-03-30T01:14:52.714Z"
 ---
 
 # § 5226. Oversight and audits

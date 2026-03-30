@@ -3,9 +3,9 @@ title: "Section 19038 - Plan with respect to controlled information and backgrou
 usc_title: 42
 usc_section: "19038"
 chapter: 163
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 19038"
-generated_at: "2026-03-30T01:12:43.645Z"
+generated_at: "2026-03-30T01:18:07.854Z"
 ---
 
 # § 19038. Plan with respect to controlled information and background screening

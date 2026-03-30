@@ -3,9 +3,9 @@ title: "Section 20901 - Payments to States for activities to improve administrat
 usc_title: 52
 usc_section: "20901"
 chapter: 209
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "52 U.S.C. § 20901"
-generated_at: "2026-03-30T01:13:25.515Z"
+generated_at: "2026-03-30T01:18:47.351Z"
 ---
 
 # § 20901. Payments to States for activities to improve administration of elections

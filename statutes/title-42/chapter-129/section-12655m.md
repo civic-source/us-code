@@ -3,9 +3,9 @@ title: "Section 12655m - Joint programs"
 usc_title: 42
 usc_section: "12655m"
 chapter: 129
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 12655m"
-generated_at: "2026-03-30T01:12:43.512Z"
+generated_at: "2026-03-30T01:18:07.759Z"
 ---
 
 # § 12655m. Joint programs

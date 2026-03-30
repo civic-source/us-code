@@ -3,9 +3,9 @@ title: "Section 50312 - Nominations"
 usc_title: 34
 usc_section: "50312"
 chapter: 503
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "34 U.S.C. § 50312"
-generated_at: "2026-03-30T01:11:43.104Z"
+generated_at: "2026-03-30T01:16:36.267Z"
 ---
 
 # § 50312. Nominations

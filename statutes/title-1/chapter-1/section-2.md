@@ -3,9 +3,9 @@ title: "Section 2 - “County” as including “parish”, and so forth"
 usc_title: 1
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "1 U.S.C. § 2"
-generated_at: "2026-03-30T01:08:58.502Z"
+generated_at: "2026-03-30T01:14:16.626Z"
 ---
 
 # § 2. “County” as including “parish”, and so forth

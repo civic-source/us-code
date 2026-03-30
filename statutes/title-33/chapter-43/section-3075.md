@@ -3,9 +3,9 @@ title: "Section 3075 - Authority to use appropriated funds for transportation an
 usc_title: 33
 usc_section: "3075"
 chapter: 43
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "33 U.S.C. § 3075"
-generated_at: "2026-03-30T01:11:45.472Z"
+generated_at: "2026-03-30T01:16:07.219Z"
 ---
 
 # § 3075. Authority to use appropriated funds for transportation and reimbursement of certain items

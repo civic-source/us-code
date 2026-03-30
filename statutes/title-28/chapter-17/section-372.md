@@ -3,9 +3,9 @@ title: "Section 372 - Retirement for disability; substitute judge on failure to 
 usc_title: 28
 usc_section: "372"
 chapter: 17
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "28 U.S.C. § 372"
-generated_at: "2026-03-30T01:11:39.317Z"
+generated_at: "2026-03-30T01:15:52.493Z"
 ---
 
 # § 372. Retirement for disability; substitute judge on failure to retire

@@ -3,9 +3,9 @@ title: "Section 1796 - Subsidies for family home day care"
 usc_title: 10
 usc_section: "1796"
 chapter: 88
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 1796"
-generated_at: "2026-03-30T01:10:00.628Z"
+generated_at: "2026-03-30T01:14:40.678Z"
 ---
 
 # § 1796. Subsidies for family home day care

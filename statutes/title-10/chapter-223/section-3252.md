@@ -3,9 +3,9 @@ title: "Section 3252 - Requirements for information relating to supply chain ris
 usc_title: 10
 usc_section: "3252"
 chapter: 223
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 3252"
-generated_at: "2026-03-30T01:10:00.685Z"
+generated_at: "2026-03-30T01:14:40.720Z"
 ---
 
 # § 3252. Requirements for information relating to supply chain risk

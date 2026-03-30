@@ -3,9 +3,9 @@ title: "Section 7264 - Code of ethics for senior financial officers"
 usc_title: 15
 usc_section: "7264"
 chapter: 98
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 7264"
-generated_at: "2026-03-30T01:10:09.469Z"
+generated_at: "2026-03-30T01:14:59.623Z"
 ---
 
 # § 7264. Code of ethics for senior financial officers

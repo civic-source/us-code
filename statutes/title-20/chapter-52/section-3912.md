@@ -3,9 +3,9 @@ title: "Section 3912 - Functional objectives; uses of funds"
 usc_title: 20
 usc_section: "3912"
 chapter: 52
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 3912"
-generated_at: "2026-03-30T01:10:32.973Z"
+generated_at: "2026-03-30T01:15:07.642Z"
 ---
 
 # § 3912. Functional objectives; uses of funds

@@ -3,9 +3,9 @@ title: "Section 2001 - Congressional statement of findings"
 usc_title: 20
 usc_section: "2001"
 chapter: 42
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 2001"
-generated_at: "2026-03-30T01:10:32.959Z"
+generated_at: "2026-03-30T01:15:07.630Z"
 ---
 
 # § 2001. Congressional statement of findings

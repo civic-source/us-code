@@ -3,9 +3,9 @@ title: "Section 4331 - Congressional declaration of national environmental polic
 usc_title: 42
 usc_section: "4331"
 chapter: 55
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 4331"
-generated_at: "2026-03-30T01:12:43.238Z"
+generated_at: "2026-03-30T01:18:07.553Z"
 ---
 
 # § 4331. Congressional declaration of national environmental policy

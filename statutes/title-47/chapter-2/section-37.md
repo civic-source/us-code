@@ -3,9 +3,9 @@ title: "Section 37 - Violations; punishment"
 usc_title: 47
 usc_section: "37"
 chapter: 2
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "47 U.S.C. § 37"
-generated_at: "2026-03-30T01:12:50.036Z"
+generated_at: "2026-03-30T01:18:33.855Z"
 ---
 
 # § 37. Violations; punishment

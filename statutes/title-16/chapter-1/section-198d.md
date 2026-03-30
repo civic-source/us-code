@@ -3,9 +3,9 @@ title: "Section 198d - Forfeiture of property used in commission of offenses"
 usc_title: 16
 usc_section: "198d"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 198d"
-generated_at: "2026-03-30T01:10:36.831Z"
+generated_at: "2026-03-30T01:15:30.857Z"
 ---
 
 # § 198d. Forfeiture of property used in commission of offenses

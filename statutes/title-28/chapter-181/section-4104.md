@@ -3,9 +3,9 @@ title: "Section 4104 - Declaratory judgments"
 usc_title: 28
 usc_section: "4104"
 chapter: 181
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "28 U.S.C. § 4104"
-generated_at: "2026-03-30T01:11:39.350Z"
+generated_at: "2026-03-30T01:15:52.519Z"
 ---
 
 # § 4104. Declaratory judgments

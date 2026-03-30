@@ -3,9 +3,9 @@ title: "Section 13111 - Notice of actions taken to comply with ethics agreements
 usc_title: 5
 usc_section: "13111"
 chapter: 131
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "5 U.S.C. § 13111"
-generated_at: "2026-03-30T01:09:15.465Z"
+generated_at: "2026-03-30T01:14:21.572Z"
 ---
 
 # § 13111. Notice of actions taken to comply with ethics agreements

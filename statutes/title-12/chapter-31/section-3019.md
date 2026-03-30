@@ -3,9 +3,9 @@ title: "Section 3019 - Taxation by State, county, etc., taxing authority; Federa
 usc_title: 12
 usc_section: "3019"
 chapter: 31
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 3019"
-generated_at: "2026-03-30T01:10:24.374Z"
+generated_at: "2026-03-30T01:14:52.675Z"
 ---
 
 # § 3019. Taxation by State, county, etc., taxing authority; Federal tax status

@@ -3,9 +3,9 @@ title: "Section 2 - National Forest System Trails Volunteer and Partnership Stra
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T01:10:36.976Z"
+generated_at: "2026-03-30T01:15:30.965Z"
 ---
 
 # § 583k–2. National Forest System Trails Volunteer and Partnership Strategy

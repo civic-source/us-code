@@ -3,9 +3,9 @@ title: "Section 9673 - Risk retention groups"
 usc_title: 42
 usc_section: "9673"
 chapter: 103
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 9673"
-generated_at: "2026-03-30T01:12:43.435Z"
+generated_at: "2026-03-30T01:18:07.700Z"
 ---
 
 # § 9673. Risk retention groups

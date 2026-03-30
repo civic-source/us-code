@@ -3,9 +3,9 @@ title: "Section 919a - Art. 119a. Death or injury of an unborn child"
 usc_title: 10
 usc_section: "919a"
 chapter: 47
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 919a"
-generated_at: "2026-03-30T01:10:00.571Z"
+generated_at: "2026-03-30T01:14:40.634Z"
 ---
 
 # § 919a. Art. 119a. Death or injury of an unborn child

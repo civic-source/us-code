@@ -3,9 +3,9 @@ title: "Section 2190 - Saving clause for prior patent applications"
 usc_title: 42
 usc_section: "2190"
 chapter: 23
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 2190"
-generated_at: "2026-03-30T01:12:43.178Z"
+generated_at: "2026-03-30T01:18:07.507Z"
 ---
 
 # § 2190. Saving clause for prior patent applications

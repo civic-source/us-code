@@ -3,9 +3,9 @@ title: "Section 200506 - Non-Federal share of project costs"
 usc_title: 54
 usc_section: "200506"
 chapter: 2005
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "54 U.S.C. § 200506"
-generated_at: "2026-03-30T01:13:24.584Z"
+generated_at: "2026-03-30T01:18:38.941Z"
 ---
 
 # § 200506. Non-Federal share of project costs

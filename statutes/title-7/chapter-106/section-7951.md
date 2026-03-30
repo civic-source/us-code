@@ -3,9 +3,9 @@ title: "Section 7951 - Definitions"
 usc_title: 7
 usc_section: "7951"
 chapter: 106
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 7951"
-generated_at: "2026-03-30T01:09:47.780Z"
+generated_at: "2026-03-30T01:14:35.712Z"
 ---
 
 # § 7951. Definitions

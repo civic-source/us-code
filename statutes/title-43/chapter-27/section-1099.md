@@ -3,9 +3,9 @@ title: "Section 1099 - Division into counties before opening to settlement; rese
 usc_title: 43
 usc_section: "1099"
 chapter: 27
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 1099"
-generated_at: "2026-03-30T01:12:04.193Z"
+generated_at: "2026-03-30T01:17:12.128Z"
 ---
 
 # § 1099. Division into counties before opening to settlement; reservation for county seats

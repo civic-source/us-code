@@ -3,9 +3,9 @@ title: "Section 1214 - Separability"
 usc_title: 45
 usc_section: "1214"
 chapter: 21
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "45 U.S.C. § 1214"
-generated_at: "2026-03-30T01:12:02.596Z"
+generated_at: "2026-03-30T01:17:07.601Z"
 ---
 
 # § 1214. Separability

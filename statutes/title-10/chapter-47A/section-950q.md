@@ -3,9 +3,9 @@ title: "Section 950q - Principals"
 usc_title: 10
 usc_section: "950q"
 chapter: 47
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 950q"
-generated_at: "2026-03-30T01:10:00.576Z"
+generated_at: "2026-03-30T01:14:40.640Z"
 ---
 
 # § 950q. Principals

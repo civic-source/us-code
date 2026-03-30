@@ -3,9 +3,9 @@ title: "Section 4121 - Definitions"
 usc_title: 42
 usc_section: "4121"
 chapter: 50
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 4121"
-generated_at: "2026-03-30T01:12:43.235Z"
+generated_at: "2026-03-30T01:18:07.552Z"
 ---
 
 # § 4121. Definitions

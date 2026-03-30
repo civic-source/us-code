@@ -3,9 +3,9 @@ title: "Section 628 - Extension of corporate existence"
 usc_title: 12
 usc_section: "628"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 628"
-generated_at: "2026-03-30T01:10:24.210Z"
+generated_at: "2026-03-30T01:14:52.552Z"
 ---
 
 # § 628. Extension of corporate existence

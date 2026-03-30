@@ -3,9 +3,9 @@ title: "Section 16282 - U.S. nuclear fuel security initiative"
 usc_title: 42
 usc_section: "16282"
 chapter: 149
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 16282"
-generated_at: "2026-03-30T01:12:43.573Z"
+generated_at: "2026-03-30T01:18:07.802Z"
 ---
 
 # § 16282. U.S. nuclear fuel security initiative
@@ -140,7 +140,7 @@ generated_at: "2026-03-30T01:12:43.573Z"
   - **(2)** The Secretary may waive the requirements of paragraph (1) with respect to an activity if the Secretary determines a waiver to be necessary to achieve 1 or more of the objectives described in subsection (c).
 - **(j)** In carrying out activities under this section, the Secretary shall ensure that any LEU and HALEU made available by the Secretary under 1 or more of the Programs is subject to reasonable compensation, taking into account the fair market value of the LEU or HALEU and the purposes of this section.
 - **(k)** The Nuclear Regulatory Commission shall prioritize and expedite consideration of any action related to the Programs to the extent permitted under the Atomic Energy Act of 1954 ( 42 U.S.C. 2011 et seq.) and related statutes.
-- **(l)** The requirements of section 2297h–10(d)(2) of this title shall not apply to activities related to the Programs.
+- **(l)** The requirements of section 3112(d)(2) of the USEC Privatization Act ( 42 U.S.C. 2297h–10(d)(2) ) shall not apply to activities related to the Programs.
 - **(m)** The Secretary shall only make available to a member of the consortium under this section for commercial use or use in a demonstration project material that the President has determined is not necessary for national security needs during or prior to fiscal year 2023, subject to the condition that the material made available shall not include any material that the Secretary determines to be necessary for the National Nuclear Security Administration or any critical mission of the Department.
 - **(n)** This section shall be applied in a manner consistent with the obligations of the United States under international agreements.
 - **(o)** Not later than 180 days after December 22, 2023 , the Secretary shall submit to the appropriate committees of Congress a report that identifies the anticipated funding requirements for the civil nuclear credit program described in section 18753 of this title , taking into account—

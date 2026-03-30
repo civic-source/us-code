@@ -3,9 +3,9 @@ title: "Section 6423 - Conditions to allowance in the case of alcohol and tobacc
 usc_title: 26
 usc_section: "6423"
 chapter: 65
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 6423"
-generated_at: "2026-03-30T01:11:38.034Z"
+generated_at: "2026-03-30T01:16:03.495Z"
 ---
 
 # § 6423. Conditions to allowance in the case of alcohol and tobacco taxes

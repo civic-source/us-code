@@ -3,9 +3,9 @@ title: "Section 12463 - Saving money and reducing tragedies through prevention (
 usc_title: 34
 usc_section: "12463"
 chapter: 121
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "34 U.S.C. § 12463"
-generated_at: "2026-03-30T01:11:43.069Z"
+generated_at: "2026-03-30T01:16:36.240Z"
 ---
 
 # § 12463. Saving money and reducing tragedies through prevention (SMART Prevention)

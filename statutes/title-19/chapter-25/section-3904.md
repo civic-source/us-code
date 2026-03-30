@@ -3,9 +3,9 @@ title: "Section 3904 - Regulatory and other authority"
 usc_title: 19
 usc_section: "3904"
 chapter: 25
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 3904"
-generated_at: "2026-03-30T01:10:52.731Z"
+generated_at: "2026-03-30T01:15:05.506Z"
 ---
 
 # § 3904. Regulatory and other authority

@@ -3,9 +3,9 @@ title: "Section 1753 - Omitted"
 usc_title: 25
 usc_section: "1753"
 chapter: 19
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "25 U.S.C. § 1753"
-generated_at: "2026-03-30T01:10:57.734Z"
+generated_at: "2026-03-30T01:15:35.098Z"
 ---
 
 # § 1753. Omitted

@@ -3,9 +3,9 @@ title: "Section 4003 - Omitted]"
 usc_title: 10
 usc_section: "4003"
 chapter: 301
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 4003"
-generated_at: "2026-03-30T01:10:00.695Z"
+generated_at: "2026-03-30T01:14:40.727Z"
 ---
 
 # [§§ 4002, 4003. Omitted]

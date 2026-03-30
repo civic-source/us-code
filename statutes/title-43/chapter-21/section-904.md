@@ -3,9 +3,9 @@ title: "Section 904 - Forfeiture of unearned grants; restoration to public domai
 usc_title: 43
 usc_section: "904"
 chapter: 21
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 904"
-generated_at: "2026-03-30T01:12:04.185Z"
+generated_at: "2026-03-30T01:17:12.126Z"
 ---
 
 # § 904. Forfeiture of unearned grants; restoration to public domain

@@ -3,9 +3,9 @@ title: "Section 9361 - Computation of retired pay"
 usc_title: 10
 usc_section: "9361"
 chapter: 945
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 9361"
-generated_at: "2026-03-30T01:10:00.747Z"
+generated_at: "2026-03-30T01:14:40.765Z"
 ---
 
 # § 9361. Computation of retired pay

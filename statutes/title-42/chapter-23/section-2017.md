@@ -3,9 +3,9 @@ title: "Section 2017 - Authorization of appropriations"
 usc_title: 42
 usc_section: "2017"
 chapter: 23
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 2017"
-generated_at: "2026-03-30T01:12:43.167Z"
+generated_at: "2026-03-30T01:18:07.498Z"
 ---
 
 # § 2017. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 5806 - Agency partnerships"
 usc_title: 25
 usc_section: "5806"
 chapter: 50
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "25 U.S.C. § 5806"
-generated_at: "2026-03-30T01:10:57.790Z"
+generated_at: "2026-03-30T01:15:35.143Z"
 ---
 
 # § 5806. Agency partnerships

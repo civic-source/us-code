@@ -3,9 +3,9 @@ title: "Section 1373 - Higher grade for later physical disability: retired offic
 usc_title: 10
 usc_section: "1373"
 chapter: 69
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 1373"
-generated_at: "2026-03-30T01:10:00.604Z"
+generated_at: "2026-03-30T01:14:40.660Z"
 ---
 
 # § 1373. Higher grade for later physical disability: retired officers recalled to active duty

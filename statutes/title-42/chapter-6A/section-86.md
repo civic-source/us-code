@@ -3,9 +3,9 @@ title: "Section 86 - GAO report"
 usc_title: 42
 usc_section: "86"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 86"
-generated_at: "2026-03-30T01:12:42.800Z"
+generated_at: "2026-03-30T01:18:07.228Z"
 ---
 
 # § 300ff–86. GAO report

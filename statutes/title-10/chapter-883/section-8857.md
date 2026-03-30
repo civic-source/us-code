@@ -3,9 +3,9 @@ title: "Section 8857 - Duties of commanding officer of capturing vessel"
 usc_title: 10
 usc_section: "8857"
 chapter: 883
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 8857"
-generated_at: "2026-03-30T01:10:00.742Z"
+generated_at: "2026-03-30T01:14:40.760Z"
 ---
 
 # § 8857. Duties of commanding officer of capturing vessel

@@ -3,9 +3,9 @@ title: "Section 1854 - Overtime compensation for certain employees of Architect 
 usc_title: 2
 usc_section: "1854"
 chapter: 28
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "2 U.S.C. § 1854"
-generated_at: "2026-03-30T01:09:17.777Z"
+generated_at: "2026-03-30T01:14:22.991Z"
 ---
 
 # § 1854. Overtime compensation for certain employees of Architect of Capitol

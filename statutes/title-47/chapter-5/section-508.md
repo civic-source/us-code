@@ -3,9 +3,9 @@ title: "Section 508 - Disclosure of payments to individuals connected with broad
 usc_title: 47
 usc_section: "508"
 chapter: 5
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "47 U.S.C. § 508"
-generated_at: "2026-03-30T01:12:50.070Z"
+generated_at: "2026-03-30T01:18:33.877Z"
 ---
 
 # § 508. Disclosure of payments to individuals connected with broadcasts

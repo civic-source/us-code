@@ -3,9 +3,9 @@ title: "Section 1520 - Destruction of corporate audit records"
 usc_title: 18
 usc_section: "1520"
 chapter: 73
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 1520"
-generated_at: "2026-03-30T01:10:29.317Z"
+generated_at: "2026-03-30T01:15:03.814Z"
 ---
 
 # § 1520. Destruction of corporate audit records

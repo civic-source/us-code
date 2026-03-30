@@ -3,9 +3,9 @@ title: "Section 5321 - Suspension of requirements for disaster areas"
 usc_title: 42
 usc_section: "5321"
 chapter: 69
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 5321"
-generated_at: "2026-03-30T01:12:43.275Z"
+generated_at: "2026-03-30T01:18:07.582Z"
 ---
 
 # § 5321. Suspension of requirements for disaster areas

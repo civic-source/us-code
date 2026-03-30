@@ -3,9 +3,9 @@ title: "Section 2426 - Confidential status of application"
 usc_title: 7
 usc_section: "2426"
 chapter: 57
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 2426"
-generated_at: "2026-03-30T01:09:47.690Z"
+generated_at: "2026-03-30T01:14:35.638Z"
 ---
 
 # § 2426. Confidential status of application

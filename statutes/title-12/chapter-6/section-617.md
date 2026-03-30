@@ -3,9 +3,9 @@ title: "Section 617 - Engaging in commerce or trade in commodities; price fixing
 usc_title: 12
 usc_section: "617"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 617"
-generated_at: "2026-03-30T01:10:24.209Z"
+generated_at: "2026-03-30T01:14:52.551Z"
 ---
 
 # § 617. Engaging in commerce or trade in commodities; price fixing; forfeiture of charter; acts forbidden to directors, officers, agents, or employees

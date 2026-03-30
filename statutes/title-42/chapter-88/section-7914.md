@@ -3,9 +3,9 @@ title: "Section 7914 - Acquisition and disposition of lands and materials"
 usc_title: 42
 usc_section: "7914"
 chapter: 88
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 7914"
-generated_at: "2026-03-30T01:12:43.393Z"
+generated_at: "2026-03-30T01:18:07.670Z"
 ---
 
 # § 7914. Acquisition and disposition of lands and materials

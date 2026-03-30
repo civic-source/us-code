@@ -3,9 +3,9 @@ title: "Section 30504 - Reporting requirements"
 usc_title: 49
 usc_section: "30504"
 chapter: 305
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 30504"
-generated_at: "2026-03-30T01:12:54.672Z"
+generated_at: "2026-03-30T01:18:16.097Z"
 ---
 
 # § 30504. Reporting requirements

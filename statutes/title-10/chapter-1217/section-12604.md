@@ -3,9 +3,9 @@ title: "Section 12604 - Billeting in Department of Defense facilities: Reserves 
 usc_title: 10
 usc_section: "12604"
 chapter: 1217
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 12604"
-generated_at: "2026-03-30T01:10:00.762Z"
+generated_at: "2026-03-30T01:14:40.777Z"
 ---
 
 # § 12604. Billeting in Department of Defense facilities: Reserves attending inactive-duty training

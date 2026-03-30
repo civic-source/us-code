@@ -3,9 +3,9 @@ title: "Section 1324 - Clean lakes"
 usc_title: 33
 usc_section: "1324"
 chapter: 26
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "33 U.S.C. § 1324"
-generated_at: "2026-03-30T01:11:45.424Z"
+generated_at: "2026-03-30T01:16:07.184Z"
 ---
 
 # § 1324. Clean lakes

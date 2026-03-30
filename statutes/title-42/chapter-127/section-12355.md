@@ -3,9 +3,9 @@ title: "Section 12355 - Authorization of appropriations"
 usc_title: 42
 usc_section: "12355"
 chapter: 127
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 12355"
-generated_at: "2026-03-30T01:12:43.493Z"
+generated_at: "2026-03-30T01:18:07.745Z"
 ---
 
 # § 12355. Authorization of appropriations

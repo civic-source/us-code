@@ -3,9 +3,9 @@ title: "Section 2352 - Regulations"
 usc_title: 19
 usc_section: "2352"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 2352"
-generated_at: "2026-03-30T01:10:52.700Z"
+generated_at: "2026-03-30T01:15:05.483Z"
 ---
 
 # § 2352. Regulations

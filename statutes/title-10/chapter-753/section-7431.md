@@ -3,9 +3,9 @@ title: "Section 7431 - Establishment; Superintendent; faculty"
 usc_title: 10
 usc_section: "7431"
 chapter: 753
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 7431"
-generated_at: "2026-03-30T01:10:00.718Z"
+generated_at: "2026-03-30T01:14:40.744Z"
 ---
 
 # § 7431. Establishment; Superintendent; faculty

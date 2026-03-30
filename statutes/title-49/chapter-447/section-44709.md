@@ -3,9 +3,9 @@ title: "Section 44709 - Amendments, modifications, suspensions, and revocations 
 usc_title: 49
 usc_section: "44709"
 chapter: 447
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 44709"
-generated_at: "2026-03-30T01:12:54.709Z"
+generated_at: "2026-03-30T01:18:16.126Z"
 ---
 
 # § 44709. Amendments, modifications, suspensions, and revocations of certificates

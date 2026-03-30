@@ -3,9 +3,9 @@ title: "Section 30D - Clean vehicle credit"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-30T01:11:37.740Z"
+generated_at: "2026-03-30T01:16:03.244Z"
 ---
 
 # § 30D. Clean vehicle credit
@@ -72,7 +72,7 @@ generated_at: "2026-03-30T01:11:37.740Z"
 - **(f)**
   - **(1)** For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
   - **(2)** The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).
-  - **(3)**
+  - **[(3)**
   - **(4)** No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1).
   - **(5)** The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit.
   - **(6)** No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.

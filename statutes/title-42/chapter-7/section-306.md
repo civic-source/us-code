@@ -3,9 +3,9 @@ title: "Section 306 - Definitions"
 usc_title: 42
 usc_section: "306"
 chapter: 7
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 306"
-generated_at: "2026-03-30T01:12:42.827Z"
+generated_at: "2026-03-30T01:18:07.248Z"
 ---
 
 # § 306. Definitions

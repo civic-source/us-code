@@ -3,9 +3,9 @@ title: "Section 44728 - Flight attendant certification"
 usc_title: 49
 usc_section: "44728"
 chapter: 447
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 44728"
-generated_at: "2026-03-30T01:12:54.711Z"
+generated_at: "2026-03-30T01:18:16.127Z"
 ---
 
 # § 44728. Flight attendant certification
@@ -15,7 +15,7 @@ generated_at: "2026-03-30T01:12:54.711Z"
   - **(2)** An individual serving as a flight attendant on the effective date of this section may continue to serve aboard an aircraft as a flight attendant until completion by that individual of the required recurrent or requalification training and subsequent certification under this section.
   - **(3)** On the date that the Administrator is notified by an air carrier that an individual has the demonstrated proficiency to be a flight attendant, the individual shall be treated for purposes of this section as holding a certificate issued under the section.
 - **(b)** The Administrator shall issue a certificate of demonstrated proficiency under this section to an individual after the Administrator is notified by the air carrier that the individual has successfully completed all the training requirements for flight attendants approved by the Administrator.
-- **(c)** In accordance with part 183 of title 14, Code of Federal Regulation, 1 1 So in original. Probably should be “Regulations,”. the director of operations of an air carrier is designated to determine that an individual has successfully completed the training requirements approved by the Administrator for such individual to serve as a flight attendant.
+- **(c)** In accordance with part 183 of title 14, Code of Federal Regulations, the director of operations of an air carrier is designated to determine that an individual has successfully completed the training requirements approved by the Administrator for such individual to serve as a flight attendant.
 - **(d)** Each certificate issued under this section shall—
   - **(1)** be numbered and recorded by the Administrator;
   - **(2)** contain the name, address, and description of the individual to whom the certificate is issued;

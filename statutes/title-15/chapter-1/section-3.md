@@ -3,9 +3,9 @@ title: "Section 3 - SIPC advances"
 usc_title: 15
 usc_section: "3"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T01:10:09.210Z"
+generated_at: "2026-03-30T01:14:59.459Z"
 ---
 
 # § 78fff–3. SIPC advances

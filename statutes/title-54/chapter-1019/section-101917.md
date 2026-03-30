@@ -3,9 +3,9 @@ title: "Section 101917 - Franchise fees"
 usc_title: 54
 usc_section: "101917"
 chapter: 1019
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "54 U.S.C. § 101917"
-generated_at: "2026-03-30T01:13:24.577Z"
+generated_at: "2026-03-30T01:18:38.938Z"
 ---
 
 # § 101917. Franchise fees

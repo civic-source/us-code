@@ -3,9 +3,9 @@ title: "Section 4 - Transferred"
 usc_title: 29
 usc_section: "4"
 chapter: 4
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "29 U.S.C. § 4"
-generated_at: "2026-03-30T01:11:31.562Z"
+generated_at: "2026-03-30T01:15:48.733Z"
 ---
 
 # § 49c–4. Transferred

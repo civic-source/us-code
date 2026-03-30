@@ -3,9 +3,9 @@ title: "Section 1422 - Definitions"
 usc_title: 12
 usc_section: "1422"
 chapter: 11
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 1422"
-generated_at: "2026-03-30T01:10:24.219Z"
+generated_at: "2026-03-30T01:14:52.559Z"
 ---
 
 # § 1422. Definitions

@@ -3,9 +3,9 @@ title: "Section 2702 - Definitions"
 usc_title: 7
 usc_section: "2702"
 chapter: 60
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 2702"
-generated_at: "2026-03-30T01:09:47.693Z"
+generated_at: "2026-03-30T01:14:35.641Z"
 ---
 
 # § 2702. Definitions

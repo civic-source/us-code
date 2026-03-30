@@ -3,9 +3,9 @@ title: "Section 4543 - Public access to mortgage information"
 usc_title: 12
 usc_section: "4543"
 chapter: 46
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 4543"
-generated_at: "2026-03-30T01:10:24.401Z"
+generated_at: "2026-03-30T01:14:52.694Z"
 ---
 
 # § 4543. Public access to mortgage information

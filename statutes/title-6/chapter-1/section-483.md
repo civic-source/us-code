@@ -3,9 +3,9 @@ title: "Section 483 - Report"
 usc_title: 6
 usc_section: "483"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "6 U.S.C. § 483"
-generated_at: "2026-03-30T01:09:22.879Z"
+generated_at: "2026-03-30T01:14:36.311Z"
 ---
 
 # § 483. Report

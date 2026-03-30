@@ -3,9 +3,9 @@ title: "Section 603 - Searches authorized"
 usc_title: 39
 usc_section: "603"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "39 U.S.C. § 603"
-generated_at: "2026-03-30T01:12:00.131Z"
+generated_at: "2026-03-30T01:16:47.767Z"
 ---
 
 # § 603. Searches authorized

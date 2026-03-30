@@ -3,9 +3,9 @@ title: "Section 2294 - Authorization for sale or lease of uranium and plutonium;
 usc_title: 42
 usc_section: "2294"
 chapter: 23
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 2294"
-generated_at: "2026-03-30T01:12:43.187Z"
+generated_at: "2026-03-30T01:18:07.514Z"
 ---
 
 # § 2294. Authorization for sale or lease of uranium and plutonium; amounts; lien for nonpayment; uranium enrichment services

@@ -3,9 +3,9 @@ title: "Section 10363 - Reclamation climate change and water program"
 usc_title: 42
 usc_section: "10363"
 chapter: 109
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 10363"
-generated_at: "2026-03-30T01:12:43.462Z"
+generated_at: "2026-03-30T01:18:07.721Z"
 ---
 
 # § 10363. Reclamation climate change and water program

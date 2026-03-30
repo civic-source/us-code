@@ -3,9 +3,9 @@ title: "Section 2523b - Transferred"
 usc_title: 50
 usc_section: "2523b"
 chapter: 42
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 2523b"
-generated_at: "2026-03-30T01:13:12.972Z"
+generated_at: "2026-03-30T01:18:12.773Z"
 ---
 
 # § 2523b. Transferred

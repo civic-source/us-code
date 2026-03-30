@@ -3,9 +3,9 @@ title: "Section 59h - San Francisco, California, Waterfront Area"
 usc_title: 33
 usc_section: "59h"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "33 U.S.C. § 59h"
-generated_at: "2026-03-30T01:11:45.362Z"
+generated_at: "2026-03-30T01:16:07.138Z"
 ---
 
 # § 59h. San Francisco, California, Waterfront Area

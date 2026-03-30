@@ -3,9 +3,9 @@ title: "Section 2071 - Injunctive enforcement and seizure"
 usc_title: 15
 usc_section: "2071"
 chapter: 47
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 2071"
-generated_at: "2026-03-30T01:10:09.379Z"
+generated_at: "2026-03-30T01:14:59.567Z"
 ---
 
 # § 2071. Injunctive enforcement and seizure

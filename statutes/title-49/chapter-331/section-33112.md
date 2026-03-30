@@ -3,9 +3,9 @@ title: "Section 33112 - Repealed. Pub. L. 112–141, div. C, title I, § 31313(2
 usc_title: 49
 usc_section: "33112"
 chapter: 331
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 33112"
-generated_at: "2026-03-30T01:12:54.690Z"
+generated_at: "2026-03-30T01:18:16.109Z"
 ---
 
 # [§ 33112. Repealed. Pub. L. 112–141, div. C, title I, § 31313(2) , July 6, 2012 , 126 Stat. 772 ]

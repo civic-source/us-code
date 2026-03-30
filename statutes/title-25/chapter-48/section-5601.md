@@ -3,9 +3,9 @@ title: "Section 5601 - Findings"
 usc_title: 25
 usc_section: "5601"
 chapter: 48
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "25 U.S.C. § 5601"
-generated_at: "2026-03-30T01:10:57.788Z"
+generated_at: "2026-03-30T01:15:35.141Z"
 ---
 
 # § 5601. Findings

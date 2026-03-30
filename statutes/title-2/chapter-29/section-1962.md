@@ -3,9 +3,9 @@ title: "Section 1962 - Detail of police"
 usc_title: 2
 usc_section: "1962"
 chapter: 29
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "2 U.S.C. § 1962"
-generated_at: "2026-03-30T01:09:17.783Z"
+generated_at: "2026-03-30T01:14:22.993Z"
 ---
 
 # § 1962. Detail of police

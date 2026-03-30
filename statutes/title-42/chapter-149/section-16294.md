@@ -3,9 +3,9 @@ title: "Section 16294 - Research and development for coal mining technologies"
 usc_title: 42
 usc_section: "16294"
 chapter: 149
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 16294"
-generated_at: "2026-03-30T01:12:43.576Z"
+generated_at: "2026-03-30T01:18:07.803Z"
 ---
 
 # § 16294. Research and development for coal mining technologies

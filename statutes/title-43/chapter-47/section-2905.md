@@ -3,9 +3,9 @@ title: "Section 2905 - Liability"
 usc_title: 43
 usc_section: "2905"
 chapter: 47
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 2905"
-generated_at: "2026-03-30T01:12:04.263Z"
+generated_at: "2026-03-30T01:17:12.158Z"
 ---
 
 # § 2905. Liability

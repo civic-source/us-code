@@ -3,9 +3,9 @@ title: "Section 1603 - Seizure; warrants and reports"
 usc_title: 19
 usc_section: "1603"
 chapter: 4
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 1603"
-generated_at: "2026-03-30T01:10:52.672Z"
+generated_at: "2026-03-30T01:15:05.433Z"
 ---
 
 # § 1603. Seizure; warrants and reports

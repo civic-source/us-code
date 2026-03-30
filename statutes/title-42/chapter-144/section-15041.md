@@ -3,9 +3,9 @@ title: "Section 15041 - Purpose"
 usc_title: 42
 usc_section: "15041"
 chapter: 144
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 15041"
-generated_at: "2026-03-30T01:12:43.547Z"
+generated_at: "2026-03-30T01:18:07.784Z"
 ---
 
 # § 15041. Purpose

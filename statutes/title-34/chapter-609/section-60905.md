@@ -3,9 +3,9 @@ title: "Section 60905 - Subsequent reviews"
 usc_title: 34
 usc_section: "60905"
 chapter: 609
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "34 U.S.C. § 60905"
-generated_at: "2026-03-30T01:11:43.109Z"
+generated_at: "2026-03-30T01:16:36.271Z"
 ---
 
 # § 60905. Subsequent reviews

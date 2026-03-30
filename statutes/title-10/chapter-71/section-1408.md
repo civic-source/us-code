@@ -3,9 +3,9 @@ title: "Section 1408 - Payment of retired or retainer pay in compliance with cou
 usc_title: 10
 usc_section: "1408"
 chapter: 71
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 1408"
-generated_at: "2026-03-30T01:10:00.606Z"
+generated_at: "2026-03-30T01:14:40.662Z"
 ---
 
 # § 1408. Payment of retired or retainer pay in compliance with court orders

@@ -3,9 +3,9 @@ title: "Section 5502 - Definitions"
 usc_title: 42
 usc_section: "5502"
 chapter: 71
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 5502"
-generated_at: "2026-03-30T01:12:43.278Z"
+generated_at: "2026-03-30T01:18:07.584Z"
 ---
 
 # § 5502. Definitions

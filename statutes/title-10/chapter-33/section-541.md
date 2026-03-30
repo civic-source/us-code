@@ -3,9 +3,9 @@ title: "Section 541 - Graduates of the United States Military, Naval, and Air Fo
 usc_title: 10
 usc_section: "541"
 chapter: 33
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 541"
-generated_at: "2026-03-30T01:10:00.551Z"
+generated_at: "2026-03-30T01:14:40.621Z"
 ---
 
 # § 541. Graduates of the United States Military, Naval, and Air Force Academies

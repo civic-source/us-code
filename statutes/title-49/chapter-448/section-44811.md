@@ -1,0 +1,28 @@
+---
+title: "Section 44811 - Beyond visual line of sight operations for unmanned aircraft systems"
+usc_title: 49
+usc_section: "44811"
+chapter: 448
+current_through: "PL 118-64"
+classification: "49 U.S.C. § 44811"
+generated_at: "2026-03-30T01:18:16.130Z"
+---
+
+# § 44811. Beyond visual line of sight operations for unmanned aircraft systems
+
+- **(a)** Not later than 4 months after the date of enactment of the FAA Reauthorization Act of 2024, the Administrator shall issue a notice of proposed rulemaking establishing a performance-based regulatory pathway for unmanned aircraft systems (in this section referred to as “UAS”) to operate beyond visual line of sight (in this section referred to as “BVLOS”).
+- **(b)** The proposed rule required under subsection (a) shall, at a minimum, establish the following:
+  - **(1)** Acceptable levels of risk for BVLOS UAS operations, including the levels developed pursuant to section 931 of the FAA Reauthorization Act of 2024.
+  - **(2)** Standards for remote pilots or UAS operators for BVLOS operations, taking into account varying levels of automated control and management of UAS flights.
+  - **(3)** An approval or acceptance process for UAS and associated elements (as defined by the Administrator), which may leverage the creation of a special airworthiness certificate or a manufacturer’s declaration of compliance to a Federal Aviation Administration accepted means of compliance. Such process—
+    - **(A)** shall not require, but may allow for, the use of type or production certification;
+    - **(B)** shall consider the airworthiness of any UAS that—
+      - **(i)** is within a maximum gross weight or kinetic energy, as determined by the Administrator; and
+      - **(ii)** operates within a maximum speed limit as determined by the Administrator;
+    - **(C)** may require such systems to operate in the national airspace system at altitude limits determined by the Administrator; and
+    - **(D)** may require such systems to operate at standoff distances from the radius of a structure or the structure’s immediate uppermost limit, as determined by the Administrator.
+  - **(4)** Operating rules for UAS that have been approved or accepted as described in paragraph (3).
+  - **(5)** Protocols, if appropriate, for networked information exchange, such as network-based remote identification, in support of BVLOS operations.
+  - **(6)** The safety of manned aircraft operating in the national airspace system and consider the maneuverability and technology limitations of certain aircraft, including hot air balloons.
+- **(c)** Not later than 16 months after publishing the proposed rule under subsection (a), the Administrator shall issue a final rule based on such proposed rule.
+- **(d)** Nothing in this section shall be construed to require the agency to rescope any rulemaking efforts related to UAS BVLOS operations that are ongoing as of the date of enactment of the FAA Reauthorization Act of 2024.

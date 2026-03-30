@@ -3,9 +3,9 @@ title: "Section 1914 - Implementation of depository library program by Director 
 usc_title: 44
 usc_section: "1914"
 chapter: 19
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "44 U.S.C. § 1914"
-generated_at: "2026-03-30T01:12:08.467Z"
+generated_at: "2026-03-30T01:16:58.475Z"
 ---
 
 # § 1914. Implementation of depository library program by Director of the Government Publishing Office

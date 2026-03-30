@@ -3,9 +3,9 @@ title: "Section 372 - Conspiracy to impede or injure officer"
 usc_title: 18
 usc_section: "372"
 chapter: 19
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 372"
-generated_at: "2026-03-30T01:10:29.284Z"
+generated_at: "2026-03-30T01:15:03.795Z"
 ---
 
 # § 372. Conspiracy to impede or injure officer

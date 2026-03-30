@@ -3,9 +3,9 @@ title: "Section 8144 - Student-employees"
 usc_title: 5
 usc_section: "8144"
 chapter: 81
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "5 U.S.C. § 8144"
-generated_at: "2026-03-30T01:09:15.423Z"
+generated_at: "2026-03-30T01:14:21.545Z"
 ---
 
 # § 8144. Student-employees

@@ -3,9 +3,9 @@ title: "Section 574 - Hearings; withholding payments"
 usc_title: 30
 usc_section: "574"
 chapter: 14
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "30 U.S.C. § 574"
-generated_at: "2026-03-30T01:11:25.992Z"
+generated_at: "2026-03-30T01:15:55.546Z"
 ---
 
 # § 574. Hearings; withholding payments

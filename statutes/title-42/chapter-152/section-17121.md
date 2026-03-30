@@ -3,9 +3,9 @@ title: "Section 17121 - Demonstration project"
 usc_title: 42
 usc_section: "17121"
 chapter: 152
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 17121"
-generated_at: "2026-03-30T01:12:43.596Z"
+generated_at: "2026-03-30T01:18:07.819Z"
 ---
 
 # § 17121. Demonstration project

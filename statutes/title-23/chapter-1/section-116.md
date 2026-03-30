@@ -3,9 +3,9 @@ title: "Section 116 - Maintenance"
 usc_title: 23
 usc_section: "116"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "23 U.S.C. § 116"
-generated_at: "2026-03-30T01:11:21.541Z"
+generated_at: "2026-03-30T01:15:39.075Z"
 ---
 
 # § 116. Maintenance

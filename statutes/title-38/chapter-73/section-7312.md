@@ -3,9 +3,9 @@ title: "Section 7312 - Special medical advisory group"
 usc_title: 38
 usc_section: "7312"
 chapter: 73
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "38 U.S.C. § 7312"
-generated_at: "2026-03-30T01:11:54.398Z"
+generated_at: "2026-03-30T01:16:53.017Z"
 ---
 
 # § 7312. Special medical advisory group

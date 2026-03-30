@@ -3,9 +3,9 @@ title: "Section 21302 - Chapter 201 accident and incident violations and chapter
 usc_title: 49
 usc_section: "21302"
 chapter: 213
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 21302"
-generated_at: "2026-03-30T01:12:54.654Z"
+generated_at: "2026-03-30T01:18:16.082Z"
 ---
 
 # § 21302. Chapter 201 accident and incident violations and chapter 203–209 violations

@@ -3,9 +3,9 @@ title: "Section 1057 - Program purpose"
 usc_title: 20
 usc_section: "1057"
 chapter: 28
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 1057"
-generated_at: "2026-03-30T01:10:32.863Z"
+generated_at: "2026-03-30T01:15:07.559Z"
 ---
 
 # § 1057. Program purpose

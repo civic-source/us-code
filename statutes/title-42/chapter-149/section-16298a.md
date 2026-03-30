@@ -3,9 +3,9 @@ title: "Section 16298a - Carbon utilization program"
 usc_title: 42
 usc_section: "16298a"
 chapter: 149
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 16298a"
-generated_at: "2026-03-30T01:12:43.576Z"
+generated_at: "2026-03-30T01:18:07.804Z"
 ---
 
 # § 16298a. Carbon utilization program

@@ -3,9 +3,9 @@ title: "Section 4 - Direct payment procedure"
 usc_title: 15
 usc_section: "4"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T01:10:09.210Z"
+generated_at: "2026-03-30T01:14:59.459Z"
 ---
 
 # § 78fff–4. Direct payment procedure

@@ -3,9 +3,9 @@ title: "Section 295k - Health professions data"
 usc_title: 42
 usc_section: "295k"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 295k"
-generated_at: "2026-03-30T01:12:42.739Z"
+generated_at: "2026-03-30T01:18:07.183Z"
 ---
 
 # § 295k. Health professions data

@@ -3,9 +3,9 @@ title: "Section 3115 - Youth employment policies and programs"
 usc_title: 15
 usc_section: "3115"
 chapter: 58
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 3115"
-generated_at: "2026-03-30T01:10:09.414Z"
+generated_at: "2026-03-30T01:14:59.589Z"
 ---
 
 # § 3115. Youth employment policies and programs

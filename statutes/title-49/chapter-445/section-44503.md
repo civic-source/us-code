@@ -3,9 +3,9 @@ title: "Section 44503 - Reducing nonessential expenditures"
 usc_title: 49
 usc_section: "44503"
 chapter: 445
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 44503"
-generated_at: "2026-03-30T01:12:54.706Z"
+generated_at: "2026-03-30T01:18:16.122Z"
 ---
 
 # § 44503. Reducing nonessential expenditures

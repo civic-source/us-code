@@ -3,9 +3,9 @@ title: "Section 27b - Repealed. Pub. L. 111–203, title VII, § 725(g)(1)(A) , 
 usc_title: 7
 usc_section: "27b"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 27b"
-generated_at: "2026-03-30T01:09:47.539Z"
+generated_at: "2026-03-30T01:14:35.511Z"
 ---
 
 # § 27b. Repealed. Pub. L. 111–203, title VII, § 725(g)(1)(A) , July 21, 2010 , 124 Stat. 1694

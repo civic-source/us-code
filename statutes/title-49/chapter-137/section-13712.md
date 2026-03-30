@@ -3,9 +3,9 @@ title: "Section 13712 - Government traffic"
 usc_title: 49
 usc_section: "13712"
 chapter: 137
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 13712"
-generated_at: "2026-03-30T01:12:54.637Z"
+generated_at: "2026-03-30T01:18:16.071Z"
 ---
 
 # § 13712. Government traffic

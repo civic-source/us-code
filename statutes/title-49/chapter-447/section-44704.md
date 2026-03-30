@@ -3,9 +3,9 @@ title: "Section 44704 - Type certificates, production certificates, airworthines
 usc_title: 49
 usc_section: "44704"
 chapter: 447
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 44704"
-generated_at: "2026-03-30T01:12:54.708Z"
+generated_at: "2026-03-30T01:18:16.126Z"
 ---
 
 # § 44704. Type certificates, production certificates, airworthiness certificates, and design and production organization certificates
@@ -25,6 +25,9 @@ generated_at: "2026-03-30T01:12:54.708Z"
       - **(iii)** making such data available will enhance aviation safety.
     - **(B)** In this section, the term “engineering data” as used with respect to an aircraft, engine, propeller, or appliance means type design drawing and specifications for the entire aircraft, engine, propeller, or appliance or change to the aircraft, engine, propeller, or appliance, including the original design data, and any associated supplier data for individual parts or components approved as part of the particular certificate for the aircraft, engine, propeller, or appliance.
     - **(C)** The Administrator shall maintain engineering data in the possession of the Administration relating to a type certificate or a supplemental type certificate that has been inactive for 3 or more years.
+  - **(6)** When an applicant submits design data to the Administrator for a finding of compliance as part of an application for a type certificate, the applicant shall certify to the Administrator that—
+    - **(A)** the submitted design data demonstrates compliance with the applicable airworthiness standards; and
+    - **(B)** any airworthiness standards not complied with are compensated for by factors that provide an equivalent level of safety, as agreed upon by the Administrator.
 - **(b)**
   - **(1)** The Administrator may issue a type certificate designated as a supplemental type certificate for a change to an aircraft, aircraft engine, propeller, or appliance.
   - **(2)** A supplemental type certificate issued under paragraph (1) shall consist of the change to the aircraft, aircraft engine, propeller, or appliance with respect to the previously issued type certificate for the aircraft, aircraft engine, propeller, or appliance.
@@ -63,7 +66,7 @@ generated_at: "2026-03-30T01:12:54.708Z"
   - **(7)** In this subsection, the term “type certificate”—
     - **(A)** means a type certificate issued under subsection (a) or an amendment to such certificate; and
     - **(B)** does not include a supplemental type certificate issued under subsection (b).
-- **(f)** The Administrator may find that a person has violated subsection (a)(6) or paragraph (1), (2), or (3) of subsection (e) and impose a civil penalty under the applicable subsection only after notice and an opportunity for a hearing. The Administrator shall provide a person—
+- **(f)** The Administrator may find that a person has violated subsection (d)(3) or paragraph (1), (2), or (3) of subsection (e) and impose a civil penalty under the applicable subsection only after notice and an opportunity for a hearing. The Administrator shall provide a person—
   - **(1)** written notice of the violation and the amount of penalty; and
   - **(2)** the opportunity for a hearing under subpart G of part 13 of title 14, Code of Federal Regulations.
 - **(g)**
@@ -81,7 +84,7 @@ generated_at: "2026-03-30T01:12:54.708Z"
       - **(i)** The Associate Administrator for Aviation Safety shall issue a written decision that states the grounds for the decision of the Associate Administrator on—
         - **(I)** each appeal submitted under subparagraph (A)(ii); and
         - **(II)** An appeal to the Associate Administrator submitted under subparagraph (B)(v).
-      - **(ii)** Not later than December 31 of each calendar year through calendar year 2025, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report summarizing each appeal resolved under this subsection.
+      - **(ii)** Not later than December 31 of each calendar year through calendar year 2028, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report summarizing each appeal resolved under this subsection.
     - **(D)**
       - **(i)** A written decision of the Associate Administrator under subparagraph (C) may be appealed to the Administrator for a final review and determination.
       - **(ii)** The Administrator may decline to review an appeal initiated pursuant to clause (i).

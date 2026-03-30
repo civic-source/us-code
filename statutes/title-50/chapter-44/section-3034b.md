@@ -3,9 +3,9 @@ title: "Section 3034b - Intelligence Community Chief Data Officer"
 usc_title: 50
 usc_section: "3034b"
 chapter: 44
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 3034b"
-generated_at: "2026-03-30T01:13:12.985Z"
+generated_at: "2026-03-30T01:18:12.785Z"
 ---
 
 # § 3034b. Intelligence Community Chief Data Officer

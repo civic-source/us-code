@@ -3,9 +3,9 @@ title: "Section 44519 - Certification personnel continuing education and trainin
 usc_title: 49
 usc_section: "44519"
 chapter: 445
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 44519"
-generated_at: "2026-03-30T01:12:54.707Z"
+generated_at: "2026-03-30T01:18:16.125Z"
 ---
 
 # § 44519. Certification personnel continuing education and training
@@ -22,4 +22,4 @@ generated_at: "2026-03-30T01:12:54.707Z"
   - **(2)** minimize the likelihood of an individual developing an inappropriate bias toward a designer or manufacturer of aircraft, aircraft engines, propellers, or appliances;
   - **(3)** are consistent with any applicable collective bargaining agreements; and
   - **(4)** account for gaps in knowledge and skills (as identified by the Administrator in consultation with the exclusive bargaining representatives certified under section 7111 of title 5 , United States Code) between Administration employees and private-sector employees for each group of Administration employees covered under this section.
-- **(c)** There is authorized to be appropriated to the Administrator, $10,000,000 for each of fiscal years 2021 through 2023 to carry out this section. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
+- **(c)** There is authorized to be appropriated to the Administrator, $10,000,000 for each of fiscal years 2021 through 2028 to carry out this section. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.

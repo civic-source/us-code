@@ -3,9 +3,9 @@ title: "Section 44C - Renumbered § 23]"
 usc_title: 26
 usc_section: "44C"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 44C"
-generated_at: "2026-03-30T01:11:37.751Z"
+generated_at: "2026-03-30T01:16:03.253Z"
 ---
 
 # [§ 44C. Renumbered § 23]

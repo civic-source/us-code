@@ -3,9 +3,9 @@ title: "Section 596 - Refusal of certificates for violations of law; penalties f
 usc_title: 7
 usc_section: "596"
 chapter: 25
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 596"
-generated_at: "2026-03-30T01:09:47.582Z"
+generated_at: "2026-03-30T01:14:35.545Z"
 ---
 
 # § 596. Refusal of certificates for violations of law; penalties for violations

@@ -3,9 +3,9 @@ title: "Section 8341 - Existing electric powerplants"
 usc_title: 42
 usc_section: "8341"
 chapter: 92
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 8341"
-generated_at: "2026-03-30T01:12:43.405Z"
+generated_at: "2026-03-30T01:18:07.678Z"
 ---
 
 # § 8341. Existing electric powerplants

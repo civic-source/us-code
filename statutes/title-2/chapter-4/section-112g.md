@@ -3,9 +3,9 @@ title: "Section 112g - Transferred"
 usc_title: 2
 usc_section: "112g"
 chapter: 4
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "2 U.S.C. § 112g"
-generated_at: "2026-03-30T01:09:17.698Z"
+generated_at: "2026-03-30T01:14:22.961Z"
 ---
 
 # § 112g. Transferred

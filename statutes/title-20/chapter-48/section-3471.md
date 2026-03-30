@@ -3,9 +3,9 @@ title: "Section 3471 - General authority"
 usc_title: 20
 usc_section: "3471"
 chapter: 48
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 3471"
-generated_at: "2026-03-30T01:10:32.970Z"
+generated_at: "2026-03-30T01:15:07.639Z"
 ---
 
 # § 3471. General authority

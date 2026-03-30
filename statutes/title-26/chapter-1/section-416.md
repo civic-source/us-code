@@ -3,9 +3,9 @@ title: "Section 416 - Special rules for top-heavy plans"
 usc_title: 26
 usc_section: "416"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 416"
-generated_at: "2026-03-30T01:11:37.849Z"
+generated_at: "2026-03-30T01:16:03.336Z"
 ---
 
 # § 416. Special rules for top-heavy plans
@@ -83,7 +83,7 @@ generated_at: "2026-03-30T01:11:37.849Z"
       - **(ii)** if there is no method described in clause (i), as if such benefit accrued not more rapidly than the slowest accrual rate permitted under section 411(b)(1)(C).
     - **(G)** The term “top-heavy plan” shall not include a simple retirement account under section 408(p).
     - **(H)** The term “top-heavy plan” shall not include a plan which consists solely of—
-      - **(i)** a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13)and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or
+      - **(i)** a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13) and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or
       - **(ii)** a starter 401(k) deferral-only arrangement described in section 401(k)(16)(B) or a safe harbor deferral-only plan described in section 403(b)(16).
 - **[(h)**
 - **(i)** For purposes of this section—

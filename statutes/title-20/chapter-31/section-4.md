@@ -3,9 +3,9 @@ title: "Section 4 - Educational impact statement"
 usc_title: 20
 usc_section: "4"
 chapter: 31
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-30T01:10:32.937Z"
+generated_at: "2026-03-30T01:15:07.614Z"
 ---
 
 # § 1221e–4. Educational impact statement

@@ -3,9 +3,9 @@ title: "Section 2281 - Violence against maritime fixed platforms"
 usc_title: 18
 usc_section: "2281"
 chapter: 111
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 2281"
-generated_at: "2026-03-30T01:10:29.338Z"
+generated_at: "2026-03-30T01:15:03.826Z"
 ---
 
 # § 2281. Violence against maritime fixed platforms

@@ -3,9 +3,9 @@ title: "Section 2575b - Subpart definitions"
 usc_title: 19
 usc_section: "2575b"
 chapter: 13
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 2575b"
-generated_at: "2026-03-30T01:10:52.710Z"
+generated_at: "2026-03-30T01:15:05.491Z"
 ---
 
 # § 2575b. Subpart definitions

@@ -3,9 +3,9 @@ title: "Section 3310a - Research equipment grants"
 usc_title: 7
 usc_section: "3310a"
 chapter: 64
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 3310a"
-generated_at: "2026-03-30T01:09:47.705Z"
+generated_at: "2026-03-30T01:14:35.650Z"
 ---
 
 # § 3310a. Research equipment grants

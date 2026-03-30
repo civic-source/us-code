@@ -3,9 +3,9 @@ title: "Section 2452 - Planning, programming, and budgeting process"
 usc_title: 50
 usc_section: "2452"
 chapter: 41
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 2452"
-generated_at: "2026-03-30T01:13:12.971Z"
+generated_at: "2026-03-30T01:18:12.772Z"
 ---
 
 # § 2452. Planning, programming, and budgeting process

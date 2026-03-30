@@ -3,9 +3,9 @@ title: "Section 1657 - Corruption of seamen and confederating with pirates"
 usc_title: 18
 usc_section: "1657"
 chapter: 81
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 1657"
-generated_at: "2026-03-30T01:10:29.320Z"
+generated_at: "2026-03-30T01:15:03.816Z"
 ---
 
 # § 1657. Corruption of seamen and confederating with pirates

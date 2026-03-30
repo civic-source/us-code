@@ -3,9 +3,9 @@ title: "Section 9573 - Duties"
 usc_title: 15
 usc_section: "9573"
 chapter: 120
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 9573"
-generated_at: "2026-03-30T01:10:09.511Z"
+generated_at: "2026-03-30T01:14:59.651Z"
 ---
 
 # § 9573. Duties

@@ -3,9 +3,9 @@ title: "Section 17203 - International geothermal energy development"
 usc_title: 42
 usc_section: "17203"
 chapter: 152
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 17203"
-generated_at: "2026-03-30T01:12:43.600Z"
+generated_at: "2026-03-30T01:18:07.821Z"
 ---
 
 # § 17203. International geothermal energy development

@@ -3,9 +3,9 @@ title: "Section 47109 - United States Government’s share of project costs"
 usc_title: 49
 usc_section: "47109"
 chapter: 471
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 47109"
-generated_at: "2026-03-30T01:12:54.729Z"
+generated_at: "2026-03-30T01:18:16.143Z"
 ---
 
 # § 47109. United States Government’s share of project costs
@@ -38,3 +38,4 @@ generated_at: "2026-03-30T01:12:54.729Z"
   - **(3)** The higher cost share authority established in this subsection shall terminate on the earlier of—
     - **(A)** 180 days after the date on which the eligibility of covered equipment for Airport Improvement Program funding under the authority described in paragraph (2) terminates or is discontinued by the Administrator; or
     - **(B)** 5 years after the date of enactment of this subsection.
+- **(h)** Notwithstanding subsection (a), the Government’s share of allowable project costs for a grant made to a nonhub or nonprimary airport in each of fiscal years 2025 and 2026 shall be 95 percent.

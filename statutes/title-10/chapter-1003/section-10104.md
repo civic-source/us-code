@@ -3,9 +3,9 @@ title: "Section 10104 - Army Reserve: composition"
 usc_title: 10
 usc_section: "10104"
 chapter: 1003
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 10104"
-generated_at: "2026-03-30T01:10:00.754Z"
+generated_at: "2026-03-30T01:14:40.770Z"
 ---
 
 # § 10104. Army Reserve: composition

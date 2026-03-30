@@ -3,9 +3,9 @@ title: "Section 10337 - Definitions"
 usc_title: 34
 usc_section: "10337"
 chapter: 101
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "34 U.S.C. § 10337"
-generated_at: "2026-03-30T01:11:43.041Z"
+generated_at: "2026-03-30T01:16:36.217Z"
 ---
 
 # § 10337. Definitions

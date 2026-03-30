@@ -3,9 +3,9 @@ title: "Section 1490m - Housing preservation grants"
 usc_title: 42
 usc_section: "1490m"
 chapter: 8
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 1490m"
-generated_at: "2026-03-30T01:12:43.111Z"
+generated_at: "2026-03-30T01:18:07.458Z"
 ---
 
 # § 1490m. Housing preservation grants

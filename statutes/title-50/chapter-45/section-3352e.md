@@ -3,9 +3,9 @@ title: "Section 3352e - Periodic report on positions in the intelligence communi
 usc_title: 50
 usc_section: "3352e"
 chapter: 45
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 3352e"
-generated_at: "2026-03-30T01:13:13.003Z"
+generated_at: "2026-03-30T01:18:12.803Z"
 ---
 
 # § 3352e. Periodic report on positions in the intelligence community that can be conducted without access to classified information, networks, or facilities

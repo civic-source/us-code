@@ -3,9 +3,9 @@ title: "Section 1862w - NSF support of research on impacts of social media on hu
 usc_title: 42
 usc_section: "1862w"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 1862w"
-generated_at: "2026-03-30T01:12:43.148Z"
+generated_at: "2026-03-30T01:18:07.484Z"
 ---
 
 # § 1862w. NSF support of research on impacts of social media on human trafficking

@@ -3,9 +3,9 @@ title: "Section 503 - Postmarking stamps"
 usc_title: 18
 usc_section: "503"
 chapter: 25
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 503"
-generated_at: "2026-03-30T01:10:29.286Z"
+generated_at: "2026-03-30T01:15:03.796Z"
 ---
 
 # § 503. Postmarking stamps

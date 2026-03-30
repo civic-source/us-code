@@ -3,9 +3,9 @@ title: "Section 1715 - District lines"
 usc_title: 20
 usc_section: "1715"
 chapter: 39
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 1715"
-generated_at: "2026-03-30T01:10:32.958Z"
+generated_at: "2026-03-30T01:15:07.630Z"
 ---
 
 # § 1715. District lines

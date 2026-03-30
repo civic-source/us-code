@@ -3,9 +3,9 @@ title: "Section 4567 - Affordable housing allocations"
 usc_title: 12
 usc_section: "4567"
 chapter: 46
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 4567"
-generated_at: "2026-03-30T01:10:24.403Z"
+generated_at: "2026-03-30T01:14:52.695Z"
 ---
 
 # § 4567. Affordable housing allocations

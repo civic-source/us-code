@@ -3,9 +3,9 @@ title: "Section 1310 - Commerce Department: navigation and weather information"
 usc_title: 44
 usc_section: "1310"
 chapter: 13
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "44 U.S.C. § 1310"
-generated_at: "2026-03-30T01:12:08.465Z"
+generated_at: "2026-03-30T01:16:58.473Z"
 ---
 
 # § 1310. Commerce Department: navigation and weather information

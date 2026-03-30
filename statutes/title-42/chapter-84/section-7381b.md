@@ -3,9 +3,9 @@ title: "Section 7381b - Laboratory cooperative science centers and other authori
 usc_title: 42
 usc_section: "7381b"
 chapter: 84
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 7381b"
-generated_at: "2026-03-30T01:12:43.343Z"
+generated_at: "2026-03-30T01:18:07.632Z"
 ---
 
 # § 7381b. Laboratory cooperative science centers and other authorized education activities

@@ -3,9 +3,9 @@ title: "Section 8758 - Adjustments of loans"
 usc_title: 7
 usc_section: "8758"
 chapter: 113
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 8758"
-generated_at: "2026-03-30T01:09:47.795Z"
+generated_at: "2026-03-30T01:14:35.724Z"
 ---
 
 # § 8758. Adjustments of loans

@@ -3,9 +3,9 @@ title: "Section 2701 - Procurement of personnel"
 usc_title: 14
 usc_section: "2701"
 chapter: 27
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "14 U.S.C. § 2701"
-generated_at: "2026-03-30T01:10:03.456Z"
+generated_at: "2026-03-30T01:14:50.358Z"
 ---
 
 # § 2701. Procurement of personnel

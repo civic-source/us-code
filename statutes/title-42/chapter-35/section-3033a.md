@@ -3,9 +3,9 @@ title: "Section 3033a - Responsibilities of Assistant Secretary"
 usc_title: 42
 usc_section: "3033a"
 chapter: 35
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 3033a"
-generated_at: "2026-03-30T01:12:43.208Z"
+generated_at: "2026-03-30T01:18:07.531Z"
 ---
 
 # § 3033a. Responsibilities of Assistant Secretary

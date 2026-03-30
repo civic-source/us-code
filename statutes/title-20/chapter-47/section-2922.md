@@ -3,9 +3,9 @@ title: "Section 2922 - Omitted"
 usc_title: 20
 usc_section: "2922"
 chapter: 47
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 2922"
-generated_at: "2026-03-30T01:10:32.967Z"
+generated_at: "2026-03-30T01:15:07.637Z"
 ---
 
 # §§ 2921, 2922. Omitted

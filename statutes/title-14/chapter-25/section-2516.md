@@ -3,9 +3,9 @@ title: "Section 2516 - Members asserting post-traumatic stress disorder or traum
 usc_title: 14
 usc_section: "2516"
 chapter: 25
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "14 U.S.C. § 2516"
-generated_at: "2026-03-30T01:10:03.456Z"
+generated_at: "2026-03-30T01:14:50.358Z"
 ---
 
 # § 2516. Members asserting post-traumatic stress disorder or traumatic brain injury

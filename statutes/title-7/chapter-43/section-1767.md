@@ -3,9 +3,9 @@ title: "Section 1767 - Authorization of appropriations"
 usc_title: 7
 usc_section: "1767"
 chapter: 43
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 1767"
-generated_at: "2026-03-30T01:09:47.642Z"
+generated_at: "2026-03-30T01:14:35.598Z"
 ---
 
 # § 1767. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 2 - Micronutrient fortification programs"
 usc_title: 7
 usc_section: "2"
 chapter: 41
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T01:09:47.637Z"
+generated_at: "2026-03-30T01:14:35.594Z"
 ---
 
 # § 1736g–2. Micronutrient fortification programs

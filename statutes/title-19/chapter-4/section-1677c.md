@@ -3,9 +3,9 @@ title: "Section 1677c - Hearings"
 usc_title: 19
 usc_section: "1677c"
 chapter: 4
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 1677c"
-generated_at: "2026-03-30T01:10:52.684Z"
+generated_at: "2026-03-30T01:15:05.441Z"
 ---
 
 # § 1677c. Hearings

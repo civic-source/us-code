@@ -3,9 +3,9 @@ title: "Section 3057k - “Native Hawaiian” defined"
 usc_title: 42
 usc_section: "3057k"
 chapter: 35
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 3057k"
-generated_at: "2026-03-30T01:12:43.211Z"
+generated_at: "2026-03-30T01:18:07.533Z"
 ---
 
 # § 3057k. “Native Hawaiian” defined

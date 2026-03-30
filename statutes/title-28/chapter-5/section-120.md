@@ -3,9 +3,9 @@ title: "Section 120 - Rhode Island"
 usc_title: 28
 usc_section: "120"
 chapter: 5
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "28 U.S.C. § 120"
-generated_at: "2026-03-30T01:11:39.312Z"
+generated_at: "2026-03-30T01:15:52.489Z"
 ---
 
 # § 120. Rhode Island

@@ -3,9 +3,9 @@ title: "Section 5 - Jurisdiction and venue of civil actions by or against Bank"
 usc_title: 22
 usc_section: "5"
 chapter: 7
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 5"
-generated_at: "2026-03-30T01:11:13.428Z"
+generated_at: "2026-03-30T01:15:42.304Z"
 ---
 
 # § 290o–5. Jurisdiction and venue of civil actions by or against Bank

@@ -3,9 +3,9 @@ title: "Section 1703 - Broadband DATA maps"
 usc_title: 47
 usc_section: "1703"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "47 U.S.C. § 1703"
-generated_at: "2026-03-30T01:12:50.101Z"
+generated_at: "2026-03-30T01:18:33.900Z"
 ---
 
 # § 1703. Broadband DATA maps

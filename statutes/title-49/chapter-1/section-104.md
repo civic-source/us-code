@@ -3,9 +3,9 @@ title: "Section 104 - Federal Highway Administration"
 usc_title: 49
 usc_section: "104"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 104"
-generated_at: "2026-03-30T01:12:54.589Z"
+generated_at: "2026-03-30T01:18:16.033Z"
 ---
 
 # § 104. Federal Highway Administration

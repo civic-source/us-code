@@ -3,9 +3,9 @@ title: "Section 20264 - Other administrative authorities"
 usc_title: 10
 usc_section: "20264"
 chapter: 2005
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 20264"
-generated_at: "2026-03-30T01:10:00.776Z"
+generated_at: "2026-03-30T01:14:40.787Z"
 ---
 
 # § 20264. Other administrative authorities

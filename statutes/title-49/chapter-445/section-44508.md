@@ -3,20 +3,20 @@ title: "Section 44508 - Research advisory committee"
 usc_title: 49
 usc_section: "44508"
 chapter: 445
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 44508"
-generated_at: "2026-03-30T01:12:54.707Z"
+generated_at: "2026-03-30T01:18:16.122Z"
 ---
 
 # § 44508. Research advisory committee
 
 - **(a)**
   - **(1)** There is a research advisory committee in the Federal Aviation Administration. The committee shall—
-    - **(A)** provide advice and recommendations to the Administrator of the Federal Aviation Administration and Congress about needs, objectives, plans, approaches, content, and accomplishments of all aviation research and development activities and programs carried out, including those under sections 40119, 1 1 See References in Text note below. 44504, 44505, 44507, 44511–44513, and 44912 of this title;
+    - **(A)** provide advice and recommendations to the Administrator of the Federal Aviation Administration and Congress about needs, objectives, plans, approaches, content, and accomplishments of all aviation research and development activities and programs carried out, including those under sections 44504, 44505, 44507, 44511–44513, and 44912 of this title;
     - **(B)** assist in ensuring that the research is coordinated with similar research being conducted outside the Administration;
     - **(C)** review the operations of the regional centers of air transportation excellence established under section 44513 of this title ; and
     - **(D)** annually review the allocation made by the Administrator of the amounts authorized by section 48102(a) of this title among the major categories of research and development activities carried out by the Administration and provide advice and recommendations to the Administrator on whether such allocation is appropriate to meet the needs and objectives identified under subparagraph (A).
-  - **(2)** The Administrator may establish subordinate committees to provide advice on specific areas of research conducted under sections 40119, 1 44504, 44505, 44507, 44511–44513, and 44912 of this title.
+  - **(2)** The Administrator may establish subordinate committees to provide advice on specific areas of research conducted under sections 44504, 44505, 44507, 44511–44513, and 44912 of this title.
 - **(b)**
   - **(1)** The committee is composed of not more than 30 members appointed by the Administrator from among individuals who are not employees of the Administration and who are specially qualified to serve on the committee because of their education, training, or experience. In appointing members of the committee, the Administrator shall ensure that the regional centers of air transportation excellence, universities, corporations, associations, consumers, and other departments, agencies, and instrumentalities of the United States Government are represented.
   - **(2)** The Administrator shall designate the chairman of the committee.
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T01:12:54.707Z"
 - **(c)** The Administrator shall provide support staff for the committee. On request of the committee, the Administrator shall provide information, administrative services, and supplies that the Administrator considers necessary for the committee to carry out its duties and powers.
 - **(d)** Section 1013 of title 5 does not apply to the committee.
 - **(e)**
-  - **(1)** Not more than .1 percent of the amounts made available to conduct research under sections 40119, 1 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
+  - **(1)** Not more than .1 percent of the amounts made available to conduct research under sections 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
   - **(2)** A limitation on amounts available for obligation by or for the committee does not apply to amounts made available to carry out this section.
 - **(f)**
   - **(1)** Not later than 60 days after receiving any recommendation from the research advisory committee, the Administrator shall provide a written reply to the research advisory committee that, at a minimum—

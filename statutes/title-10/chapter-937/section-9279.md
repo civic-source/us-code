@@ -3,9 +3,9 @@ title: "Section 9279 - Distinguished flying cross: award; limitations"
 usc_title: 10
 usc_section: "9279"
 chapter: 937
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 9279"
-generated_at: "2026-03-30T01:10:00.746Z"
+generated_at: "2026-03-30T01:14:40.763Z"
 ---
 
 # § 9279. Distinguished flying cross: award; limitations

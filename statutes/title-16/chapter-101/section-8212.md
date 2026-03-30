@@ -3,9 +3,9 @@ title: "Section 8212 - Funding"
 usc_title: 16
 usc_section: "8212"
 chapter: 101
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 8212"
-generated_at: "2026-03-30T01:10:37.174Z"
+generated_at: "2026-03-30T01:15:31.117Z"
 ---
 
 # § 8212. Funding

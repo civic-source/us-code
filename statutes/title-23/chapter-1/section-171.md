@@ -3,9 +3,9 @@ title: "Section 171 - Wildlife crossings pilot program"
 usc_title: 23
 usc_section: "171"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "23 U.S.C. § 171"
-generated_at: "2026-03-30T01:11:21.558Z"
+generated_at: "2026-03-30T01:15:39.088Z"
 ---
 
 # § 171. Wildlife crossings pilot program

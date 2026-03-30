@@ -3,9 +3,9 @@ title: "Section 312 - Payment of personnel expenses necessary for theater securi
 usc_title: 10
 usc_section: "312"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 312"
-generated_at: "2026-03-30T01:10:00.536Z"
+generated_at: "2026-03-30T01:14:40.607Z"
 ---
 
 # § 312. Payment of personnel expenses necessary for theater security cooperation

@@ -3,9 +3,9 @@ title: "Section 1464a - Election to operate as a covered savings association"
 usc_title: 12
 usc_section: "1464a"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 1464a"
-generated_at: "2026-03-30T01:10:24.233Z"
+generated_at: "2026-03-30T01:14:52.570Z"
 ---
 
 # § 1464a. Election to operate as a covered savings association

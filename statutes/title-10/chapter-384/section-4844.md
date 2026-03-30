@@ -3,9 +3,9 @@ title: "Section 4844 - Manufacturing experts in the classroom"
 usc_title: 10
 usc_section: "4844"
 chapter: 384
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 4844"
-generated_at: "2026-03-30T01:10:00.709Z"
+generated_at: "2026-03-30T01:14:40.737Z"
 ---
 
 # § 4844. Manufacturing experts in the classroom

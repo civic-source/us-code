@@ -3,9 +3,9 @@ title: "Section 12d - St. George Area Water Recycling Project"
 usc_title: 43
 usc_section: "12d"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 12d"
-generated_at: "2026-03-30T01:12:04.147Z"
+generated_at: "2026-03-30T01:17:12.109Z"
 ---
 
 # § 390h–12d. St. George Area Water Recycling Project

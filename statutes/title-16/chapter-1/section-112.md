@@ -3,9 +3,9 @@ title: "Section 112 - Control; regulations; prehistoric ruins"
 usc_title: 16
 usc_section: "112"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 112"
-generated_at: "2026-03-30T01:10:36.824Z"
+generated_at: "2026-03-30T01:15:30.851Z"
 ---
 
 # § 112. Control; regulations; prehistoric ruins

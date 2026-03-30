@@ -3,9 +3,9 @@ title: "Section 7511 - Classifications and attainment dates"
 usc_title: 42
 usc_section: "7511"
 chapter: 85
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 7511"
-generated_at: "2026-03-30T01:12:43.364Z"
+generated_at: "2026-03-30T01:18:07.648Z"
 ---
 
 # § 7511. Classifications and attainment dates

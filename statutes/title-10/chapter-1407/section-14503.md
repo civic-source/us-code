@@ -3,9 +3,9 @@ title: "Section 14503 - Discharge of officers with less than six years of commis
 usc_title: 10
 usc_section: "14503"
 chapter: 1407
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 14503"
-generated_at: "2026-03-30T01:10:00.768Z"
+generated_at: "2026-03-30T01:14:40.780Z"
 ---
 
 # § 14503. Discharge of officers with less than six years of commissioned service or found not qualified for promotion to first lieutenant or lieutenant (junior grade)

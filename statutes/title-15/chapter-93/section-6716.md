@@ -3,9 +3,9 @@ title: "Section 6716 - Interagency consultation"
 usc_title: 15
 usc_section: "6716"
 chapter: 93
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 6716"
-generated_at: "2026-03-30T01:10:09.457Z"
+generated_at: "2026-03-30T01:14:59.615Z"
 ---
 
 # § 6716. Interagency consultation

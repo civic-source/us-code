@@ -3,9 +3,9 @@ title: "Section 9071 - Definitions"
 usc_title: 15
 usc_section: "9071"
 chapter: 116
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 9071"
-generated_at: "2026-03-30T01:10:09.502Z"
+generated_at: "2026-03-30T01:14:59.645Z"
 ---
 
 # § 9071. Definitions

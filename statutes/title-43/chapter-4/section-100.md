@@ -3,9 +3,9 @@ title: "Section 100 - Disqualification"
 usc_title: 43
 usc_section: "100"
 chapter: 4
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 100"
-generated_at: "2026-03-30T01:12:04.134Z"
+generated_at: "2026-03-30T01:17:12.100Z"
 ---
 
 # § 100. Disqualification

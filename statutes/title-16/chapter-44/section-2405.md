@@ -3,9 +3,9 @@ title: "Section 2405 - Regulations"
 usc_title: 16
 usc_section: "2405"
 chapter: 44
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 2405"
-generated_at: "2026-03-30T01:10:37.098Z"
+generated_at: "2026-03-30T01:15:31.058Z"
 ---
 
 # § 2405. Regulations

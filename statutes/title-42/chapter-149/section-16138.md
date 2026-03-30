@@ -3,9 +3,9 @@ title: "Section 16138 - EPA authority to accept diesel emissions reduction Suppl
 usc_title: 42
 usc_section: "16138"
 chapter: 149
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 16138"
-generated_at: "2026-03-30T01:12:43.563Z"
+generated_at: "2026-03-30T01:18:07.795Z"
 ---
 
 # § 16138. EPA authority to accept diesel emissions reduction Supplemental Environmental Projects

@@ -3,9 +3,9 @@ title: "Section 5189c - Transportation assistance to individuals and households"
 usc_title: 42
 usc_section: "5189c"
 chapter: 68
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 5189c"
-generated_at: "2026-03-30T01:12:43.267Z"
+generated_at: "2026-03-30T01:18:07.576Z"
 ---
 
 # § 5189c. Transportation assistance to individuals and households

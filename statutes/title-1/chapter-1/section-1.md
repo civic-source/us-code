@@ -3,9 +3,9 @@ title: "Section 1 - Words denoting number, gender, and so forth"
 usc_title: 1
 usc_section: "1"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "1 U.S.C. § 1"
-generated_at: "2026-03-30T01:08:58.502Z"
+generated_at: "2026-03-30T01:14:16.626Z"
 ---
 
 # § 1. Words denoting number, gender, and so forth

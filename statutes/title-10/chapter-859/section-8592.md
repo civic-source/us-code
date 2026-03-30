@@ -3,9 +3,9 @@ title: "Section 8592 - Degree granting authority for Marine Corps University"
 usc_title: 10
 usc_section: "8592"
 chapter: 859
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 8592"
-generated_at: "2026-03-30T01:10:00.733Z"
+generated_at: "2026-03-30T01:14:40.755Z"
 ---
 
 # § 8592. Degree granting authority for Marine Corps University

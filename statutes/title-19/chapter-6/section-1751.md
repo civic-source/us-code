@@ -3,9 +3,9 @@ title: "Section 1751 - Designation of fairs"
 usc_title: 19
 usc_section: "1751"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 1751"
-generated_at: "2026-03-30T01:10:52.688Z"
+generated_at: "2026-03-30T01:15:05.444Z"
 ---
 
 # § 1751. Designation of fairs

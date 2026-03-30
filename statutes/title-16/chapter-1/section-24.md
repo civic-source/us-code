@@ -3,9 +3,9 @@ title: "Section 24 - Land acquisition authority"
 usc_title: 16
 usc_section: "24"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 24"
-generated_at: "2026-03-30T01:10:36.939Z"
+generated_at: "2026-03-30T01:15:30.936Z"
 ---
 
 # § 460nnn–24. Land acquisition authority

@@ -3,9 +3,9 @@ title: "Section 3543 - Special administrative provisions"
 usc_title: 38
 usc_section: "3543"
 chapter: 35
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "38 U.S.C. § 3543"
-generated_at: "2026-03-30T01:11:54.368Z"
+generated_at: "2026-03-30T01:16:52.994Z"
 ---
 
 # § 3543. Special administrative provisions

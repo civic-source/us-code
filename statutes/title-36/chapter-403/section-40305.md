@@ -3,9 +3,9 @@ title: "Section 40305 - Restrictions"
 usc_title: 36
 usc_section: "40305"
 chapter: 403
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "36 U.S.C. § 40305"
-generated_at: "2026-03-30T01:11:48.481Z"
+generated_at: "2026-03-30T01:16:51.427Z"
 ---
 
 # § 40305. Restrictions

@@ -3,9 +3,9 @@ title: "Section 24 - Grants for home- and community-based care"
 usc_title: 42
 usc_section: "24"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-30T01:12:42.795Z"
+generated_at: "2026-03-30T01:18:07.225Z"
 ---
 
 # § 300ff–24. Grants for home- and community-based care

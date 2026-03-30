@@ -3,9 +3,9 @@ title: "Section 70903 - International Space Station research"
 usc_title: 51
 usc_section: "70903"
 chapter: 709
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "51 U.S.C. § 70903"
-generated_at: "2026-03-30T01:13:21.948Z"
+generated_at: "2026-03-30T01:18:36.543Z"
 ---
 
 # § 70903. International Space Station research

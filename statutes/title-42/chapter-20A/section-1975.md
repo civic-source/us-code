@@ -3,9 +3,9 @@ title: "Section 1975 - Establishment of Commission"
 usc_title: 42
 usc_section: "1975"
 chapter: 20
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 1975"
-generated_at: "2026-03-30T01:12:43.154Z"
+generated_at: "2026-03-30T01:18:07.489Z"
 ---
 
 # § 1975. Establishment of Commission

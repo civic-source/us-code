@@ -3,9 +3,9 @@ title: "Section 7723 - Advisory committee on Arlington National Cemetery"
 usc_title: 10
 usc_section: "7723"
 chapter: 776
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 7723"
-generated_at: "2026-03-30T01:10:00.722Z"
+generated_at: "2026-03-30T01:14:40.747Z"
 ---
 
 # § 7723. Advisory committee on Arlington National Cemetery

@@ -3,9 +3,9 @@ title: "Section 19237 - Definitions"
 usc_title: 42
 usc_section: "19237"
 chapter: 163
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 19237"
-generated_at: "2026-03-30T01:12:43.654Z"
+generated_at: "2026-03-30T01:18:07.859Z"
 ---
 
 # § 19237. Definitions
@@ -25,7 +25,7 @@ In this part:
       - **(ii)** section 951 or 1030 of title 18;
       - **(iii)** chapter 90 of title 18 (commonly known as the Economic Espionage Act of 1996);
       - **(iv)** the Arms Export Control Act ( 22 U.S.C. 2751 et seq.);
-      - **(v)** section 2274, 2275, 2276, 2277, or 2284 of title 42;
+      - **(v)** section 2274, 2275, 2276, 2277, or 2284 of this title;
       - **(vi)** the Export Control Reform Act of 2018 ( 50 U.S.C. 4801 et seq.); or
       - **(vii)** the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.); or
     - **(E)** determined by the Secretary of Commerce, in consultation with the Secretary of Defense and the Director of National Intelligence, to be engaged in unauthorized conduct that is detrimental to the national security or foreign policy of the United States.

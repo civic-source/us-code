@@ -3,9 +3,9 @@ title: "Section 1525 - Special studies; special compilations, lists, bulletins, 
 usc_title: 15
 usc_section: "1525"
 chapter: 40
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 1525"
-generated_at: "2026-03-30T01:10:09.332Z"
+generated_at: "2026-03-30T01:14:59.538Z"
 ---
 
 # § 1525. Special studies; special compilations, lists, bulletins, or reports; clearinghouse for technical information; transcripts or copies; cost payments for special work; joint projects: cost apportionment, waiver

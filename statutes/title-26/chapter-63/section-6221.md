@@ -3,9 +3,9 @@ title: "Section 6221 - Determination at partnership level"
 usc_title: 26
 usc_section: "6221"
 chapter: 63
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 6221"
-generated_at: "2026-03-30T01:11:38.025Z"
+generated_at: "2026-03-30T01:16:03.487Z"
 ---
 
 # § 6221. Determination at partnership level

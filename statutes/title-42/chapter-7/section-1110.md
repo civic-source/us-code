@@ -3,9 +3,9 @@ title: "Section 1110 - Borrowing between Federal accounts"
 usc_title: 42
 usc_section: "1110"
 chapter: 7
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 1110"
-generated_at: "2026-03-30T01:12:42.888Z"
+generated_at: "2026-03-30T01:18:07.293Z"
 ---
 
 # § 1110. Borrowing between Federal accounts

@@ -3,9 +3,9 @@ title: "Section 7604 - Authority to consolidate and combine reports"
 usc_title: 22
 usc_section: "7604"
 chapter: 83
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 7604"
-generated_at: "2026-03-30T01:11:13.573Z"
+generated_at: "2026-03-30T01:15:42.419Z"
 ---
 
 # § 7604. Authority to consolidate and combine reports

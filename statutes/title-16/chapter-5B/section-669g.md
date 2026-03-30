@@ -3,9 +3,9 @@ title: "Section 669g - Maintenance of projects; expenditures for management of w
 usc_title: 16
 usc_section: "669g"
 chapter: 5
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 669g"
-generated_at: "2026-03-30T01:10:36.987Z"
+generated_at: "2026-03-30T01:15:30.974Z"
 ---
 
 # § 669g. Maintenance of projects; expenditures for management of wildlife areas and resources

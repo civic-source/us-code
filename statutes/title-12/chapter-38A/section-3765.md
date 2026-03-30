@@ -3,9 +3,9 @@ title: "Section 3765 - Effect of sale"
 usc_title: 12
 usc_section: "3765"
 chapter: 38
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 3765"
-generated_at: "2026-03-30T01:10:24.386Z"
+generated_at: "2026-03-30T01:14:52.683Z"
 ---
 
 # § 3765. Effect of sale

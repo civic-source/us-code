@@ -3,9 +3,9 @@ title: "Section 107 - Same; exception of United States, its instrumentalities, a
 usc_title: 4
 usc_section: "107"
 chapter: 4
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "4 U.S.C. § 107"
-generated_at: "2026-03-30T01:08:58.545Z"
+generated_at: "2026-03-30T01:14:17.401Z"
 ---
 
 # § 107. Same; exception of United States, its instrumentalities, and authorized purchases 1 1 So in original. Probably should be “purchasers”. therefrom

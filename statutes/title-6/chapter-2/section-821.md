@@ -3,9 +3,9 @@ title: "Section 821 - Definitions"
 usc_title: 6
 usc_section: "821"
 chapter: 2
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "6 U.S.C. § 821"
-generated_at: "2026-03-30T01:09:22.901Z"
+generated_at: "2026-03-30T01:14:36.328Z"
 ---
 
 # § 821. Definitions

@@ -3,9 +3,9 @@ title: "Section 2804 - Functions and powers of Secretaries"
 usc_title: 16
 usc_section: "2804"
 chapter: 48
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 2804"
-generated_at: "2026-03-30T01:10:37.103Z"
+generated_at: "2026-03-30T01:15:31.062Z"
 ---
 
 # § 2804. Functions and powers of Secretaries

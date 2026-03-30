@@ -3,9 +3,9 @@ title: "Section 887e - Transferred"
 usc_title: 20
 usc_section: "887e"
 chapter: 24
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 887e"
-generated_at: "2026-03-30T01:10:32.847Z"
+generated_at: "2026-03-30T01:15:07.547Z"
 ---
 
 # § 887e. Transferred

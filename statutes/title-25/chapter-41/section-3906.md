@@ -3,9 +3,9 @@ title: "Section 3906 - Tribal demonstration project"
 usc_title: 25
 usc_section: "3906"
 chapter: 41
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "25 U.S.C. § 3906"
-generated_at: "2026-03-30T01:10:57.768Z"
+generated_at: "2026-03-30T01:15:35.125Z"
 ---
 
 # § 3906. Tribal demonstration project

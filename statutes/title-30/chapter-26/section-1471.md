@@ -3,9 +3,9 @@ title: "Section 1471 - Severability"
 usc_title: 30
 usc_section: "1471"
 chapter: 26
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "30 U.S.C. § 1471"
-generated_at: "2026-03-30T01:11:26.020Z"
+generated_at: "2026-03-30T01:15:55.569Z"
 ---
 
 # § 1471. Severability

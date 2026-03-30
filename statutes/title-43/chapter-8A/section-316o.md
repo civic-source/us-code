@@ -3,9 +3,9 @@ title: "Section 316o - Laws applicable"
 usc_title: 43
 usc_section: "316o"
 chapter: 8
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 316o"
-generated_at: "2026-03-30T01:12:04.140Z"
+generated_at: "2026-03-30T01:17:12.105Z"
 ---
 
 # § 316o. Laws applicable

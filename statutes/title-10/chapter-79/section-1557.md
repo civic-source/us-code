@@ -3,9 +3,9 @@ title: "Section 1557 - Timeliness standards for disposition of applications befo
 usc_title: 10
 usc_section: "1557"
 chapter: 79
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 1557"
-generated_at: "2026-03-30T01:10:00.618Z"
+generated_at: "2026-03-30T01:14:40.670Z"
 ---
 
 # § 1557. Timeliness standards for disposition of applications before Corrections Boards

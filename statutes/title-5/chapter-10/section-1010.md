@@ -3,9 +3,9 @@ title: "Section 1010 - Availability of transcripts"
 usc_title: 5
 usc_section: "1010"
 chapter: 10
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "5 U.S.C. § 1010"
-generated_at: "2026-03-30T01:09:15.355Z"
+generated_at: "2026-03-30T01:14:21.507Z"
 ---
 
 # § 1010. Availability of transcripts

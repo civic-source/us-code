@@ -3,9 +3,9 @@ title: "Section 936 - Condemnation of private land"
 usc_title: 43
 usc_section: "936"
 chapter: 22
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 936"
-generated_at: "2026-03-30T01:12:04.186Z"
+generated_at: "2026-03-30T01:17:12.126Z"
 ---
 
 # § 936. Condemnation of private land

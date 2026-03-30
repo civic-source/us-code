@@ -3,9 +3,9 @@ title: "Section 1957 - Engaging in monetary transactions in property derived fro
 usc_title: 18
 usc_section: "1957"
 chapter: 95
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 1957"
-generated_at: "2026-03-30T01:10:29.327Z"
+generated_at: "2026-03-30T01:15:03.820Z"
 ---
 
 # § 1957. Engaging in monetary transactions in property derived from specified unlawful activity

@@ -3,9 +3,9 @@ title: "Section 1596c - Programming language proficiency: special pay for profic
 usc_title: 10
 usc_section: "1596c"
 chapter: 81
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 1596c"
-generated_at: "2026-03-30T01:10:00.621Z"
+generated_at: "2026-03-30T01:14:40.674Z"
 ---
 
 # § 1596c. Programming language proficiency: special pay for proficiency beneficial for national security interests

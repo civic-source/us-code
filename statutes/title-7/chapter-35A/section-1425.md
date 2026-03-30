@@ -3,9 +3,9 @@ title: "Section 1425 - Producer rights and liabilities"
 usc_title: 7
 usc_section: "1425"
 chapter: 35
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 1425"
-generated_at: "2026-03-30T01:09:47.606Z"
+generated_at: "2026-03-30T01:14:35.568Z"
 ---
 
 # § 1425. Producer rights and liabilities

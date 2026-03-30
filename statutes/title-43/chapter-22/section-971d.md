@@ -3,9 +3,9 @@ title: "Section 971d - Effect on valid existing Alaskan rights"
 usc_title: 43
 usc_section: "971d"
 chapter: 22
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 971d"
-generated_at: "2026-03-30T01:12:04.190Z"
+generated_at: "2026-03-30T01:17:12.128Z"
 ---
 
 # § 971d. Effect on valid existing Alaskan rights

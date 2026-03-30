@@ -3,9 +3,9 @@ title: "Section 436 - High-deployment allowance: lengthy or numerous deployments
 usc_title: 37
 usc_section: "436"
 chapter: 7
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "37 U.S.C. § 436"
-generated_at: "2026-03-30T01:11:47.673Z"
+generated_at: "2026-03-30T01:16:40.661Z"
 ---
 
 # § 436. High-deployment allowance: lengthy or numerous deployments; frequent mobilizations

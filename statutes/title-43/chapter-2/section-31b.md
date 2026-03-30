@@ -3,9 +3,9 @@ title: "Section 31b - Definitions"
 usc_title: 43
 usc_section: "31b"
 chapter: 2
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 31b"
-generated_at: "2026-03-30T01:12:04.129Z"
+generated_at: "2026-03-30T01:17:12.098Z"
 ---
 
 # § 31b. Definitions

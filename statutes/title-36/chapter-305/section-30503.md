@@ -3,9 +3,9 @@ title: "Section 30503 - Purposes"
 usc_title: 36
 usc_section: "30503"
 chapter: 305
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "36 U.S.C. § 30503"
-generated_at: "2026-03-30T01:11:48.479Z"
+generated_at: "2026-03-30T01:16:51.427Z"
 ---
 
 # § 30503. Purposes

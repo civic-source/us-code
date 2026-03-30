@@ -3,9 +3,9 @@ title: "Section 284s - Tick-borne diseases"
 usc_title: 42
 usc_section: "284s"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 284s"
-generated_at: "2026-03-30T01:12:42.688Z"
+generated_at: "2026-03-30T01:18:07.147Z"
 ---
 
 # § 284s. Tick-borne diseases

@@ -3,9 +3,9 @@ title: "Section 25 - Reorganization plans; reports by Commission"
 usc_title: 15
 usc_section: "25"
 chapter: 2
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 25"
-generated_at: "2026-03-30T01:10:09.219Z"
+generated_at: "2026-03-30T01:14:59.464Z"
 ---
 
 # § 80a–25. Reorganization plans; reports by Commission

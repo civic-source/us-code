@@ -3,9 +3,9 @@ title: "Section 3376 - Regulations"
 usc_title: 5
 usc_section: "3376"
 chapter: 33
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "5 U.S.C. § 3376"
-generated_at: "2026-03-30T01:09:15.370Z"
+generated_at: "2026-03-30T01:14:21.517Z"
 ---
 
 # § 3376. Regulations

@@ -3,9 +3,9 @@ title: "Section 123a - Suspension of end-strength and other strength limitations
 usc_title: 10
 usc_section: "123a"
 chapter: 3
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 123a"
-generated_at: "2026-03-30T01:10:00.517Z"
+generated_at: "2026-03-30T01:14:40.593Z"
 ---
 
 # § 123a. Suspension of end-strength and other strength limitations in time of war or national emergency

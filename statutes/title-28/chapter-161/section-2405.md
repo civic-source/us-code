@@ -3,9 +3,9 @@ title: "Section 2405 - Garnishment"
 usc_title: 28
 usc_section: "2405"
 chapter: 161
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "28 U.S.C. § 2405"
-generated_at: "2026-03-30T01:11:39.344Z"
+generated_at: "2026-03-30T01:15:52.513Z"
 ---
 
 # § 2405. Garnishment

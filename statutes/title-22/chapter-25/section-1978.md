@@ -3,9 +3,9 @@ title: "Section 1978 - Restriction on importation of fishery or wildlife product
 usc_title: 22
 usc_section: "1978"
 chapter: 25
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 1978"
-generated_at: "2026-03-30T01:11:13.445Z"
+generated_at: "2026-03-30T01:15:42.317Z"
 ---
 
 # § 1978. Restriction on importation of fishery or wildlife products from countries which violate international fishery or endangered or threatened species programs

@@ -3,9 +3,9 @@ title: "Section 7953 - Availability of direct payments for peanuts"
 usc_title: 7
 usc_section: "7953"
 chapter: 106
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 7953"
-generated_at: "2026-03-30T01:09:47.781Z"
+generated_at: "2026-03-30T01:14:35.713Z"
 ---
 
 # § 7953. Availability of direct payments for peanuts

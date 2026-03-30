@@ -3,9 +3,9 @@ title: "Section 5375 - Appeals"
 usc_title: 25
 usc_section: "5375"
 chapter: 46
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "25 U.S.C. § 5375"
-generated_at: "2026-03-30T01:10:57.784Z"
+generated_at: "2026-03-30T01:15:35.139Z"
 ---
 
 # § 5375. Appeals

@@ -3,9 +3,9 @@ title: "Section 7448 - Annuities to surviving spouses and dependent children of 
 usc_title: 26
 usc_section: "7448"
 chapter: 76
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 7448"
-generated_at: "2026-03-30T01:11:38.056Z"
+generated_at: "2026-03-30T01:16:03.514Z"
 ---
 
 # § 7448. Annuities to surviving spouses and dependent children of judges and special trial judges

@@ -3,9 +3,9 @@ title: "Section 8262a - Report by General Services Administration"
 usc_title: 42
 usc_section: "8262a"
 chapter: 91
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 8262a"
-generated_at: "2026-03-30T01:12:43.403Z"
+generated_at: "2026-03-30T01:18:07.677Z"
 ---
 
 # § 8262a. Report by General Services Administration

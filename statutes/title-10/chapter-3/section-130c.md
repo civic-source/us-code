@@ -3,9 +3,9 @@ title: "Section 130c - Nondisclosure of information: certain sensitive informati
 usc_title: 10
 usc_section: "130c"
 chapter: 3
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 130c"
-generated_at: "2026-03-30T01:10:00.519Z"
+generated_at: "2026-03-30T01:14:40.595Z"
 ---
 
 # § 130c. Nondisclosure of information: certain sensitive information of foreign governments and international organizations

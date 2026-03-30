@@ -3,9 +3,9 @@ title: "Section 4314 - Joint strategic plan"
 usc_title: 19
 usc_section: "4314"
 chapter: 28
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 4314"
-generated_at: "2026-03-30T01:10:52.739Z"
+generated_at: "2026-03-30T01:15:05.512Z"
 ---
 
 # § 4314. Joint strategic plan

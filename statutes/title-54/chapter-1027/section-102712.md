@@ -3,9 +3,9 @@ title: "Section 102712 - Aid to visitors, grantees, permittees, or licensees in 
 usc_title: 54
 usc_section: "102712"
 chapter: 1027
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "54 U.S.C. § 102712"
-generated_at: "2026-03-30T01:13:24.578Z"
+generated_at: "2026-03-30T01:18:38.939Z"
 ---
 
 # § 102712. Aid to visitors, grantees, permittees, or licensees in emergencies

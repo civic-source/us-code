@@ -3,9 +3,9 @@ title: "Section 5203 - Department of Energy"
 usc_title: 15
 usc_section: "5203"
 chapter: 78
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 5203"
-generated_at: "2026-03-30T01:10:09.444Z"
+generated_at: "2026-03-30T01:14:59.606Z"
 ---
 
 # § 5203. Department of Energy

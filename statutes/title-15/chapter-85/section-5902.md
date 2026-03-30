@@ -3,9 +3,9 @@ title: "Section 5902 - State reciprocity of weapons licenses issued to armored c
 usc_title: 15
 usc_section: "5902"
 chapter: 85
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 5902"
-generated_at: "2026-03-30T01:10:09.448Z"
+generated_at: "2026-03-30T01:14:59.609Z"
 ---
 
 # § 5902. State reciprocity of weapons licenses issued to armored car company crew members

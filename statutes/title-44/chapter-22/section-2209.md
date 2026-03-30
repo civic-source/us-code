@@ -3,9 +3,9 @@ title: "Section 2209 - Disclosure requirement for official business conducted us
 usc_title: 44
 usc_section: "2209"
 chapter: 22
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "44 U.S.C. § 2209"
-generated_at: "2026-03-30T01:12:08.469Z"
+generated_at: "2026-03-30T01:16:58.477Z"
 ---
 
 # § 2209. Disclosure requirement for official business conducted using non-official electronic messaging accounts

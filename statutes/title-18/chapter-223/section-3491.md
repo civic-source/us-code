@@ -3,9 +3,9 @@ title: "Section 3491 - Foreign documents"
 usc_title: 18
 usc_section: "3491"
 chapter: 223
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 3491"
-generated_at: "2026-03-30T01:10:29.360Z"
+generated_at: "2026-03-30T01:15:03.841Z"
 ---
 
 # § 3491. Foreign documents

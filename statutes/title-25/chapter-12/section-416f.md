@@ -3,9 +3,9 @@ title: "Section 416f - Dedication of land for public purposes"
 usc_title: 25
 usc_section: "416f"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "25 U.S.C. § 416f"
-generated_at: "2026-03-30T01:10:57.708Z"
+generated_at: "2026-03-30T01:15:35.079Z"
 ---
 
 # § 416f. Dedication of land for public purposes

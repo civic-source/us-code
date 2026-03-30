@@ -3,9 +3,9 @@ title: "Section 2525 - Annual assessments and reports to the President and Congr
 usc_title: 50
 usc_section: "2525"
 chapter: 42
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 2525"
-generated_at: "2026-03-30T01:13:12.972Z"
+generated_at: "2026-03-30T01:18:12.773Z"
 ---
 
 # § 2525. Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile

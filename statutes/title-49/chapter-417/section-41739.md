@@ -3,9 +3,9 @@ title: "Section 41739 - Air carrier obligations"
 usc_title: 49
 usc_section: "41739"
 chapter: 417
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 41739"
-generated_at: "2026-03-30T01:12:54.702Z"
+generated_at: "2026-03-30T01:18:16.119Z"
 ---
 
 # § 41739. Air carrier obligations

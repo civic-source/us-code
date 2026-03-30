@@ -3,9 +3,9 @@ title: "Section 824o - Electric reliability"
 usc_title: 16
 usc_section: "824o"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 824o"
-generated_at: "2026-03-30T01:10:37.014Z"
+generated_at: "2026-03-30T01:15:30.993Z"
 ---
 
 # § 824o. Electric reliability

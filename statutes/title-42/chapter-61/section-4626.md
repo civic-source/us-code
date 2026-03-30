@@ -3,9 +3,9 @@ title: "Section 4626 - Housing replacement by Federal agency as last resort"
 usc_title: 42
 usc_section: "4626"
 chapter: 61
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 4626"
-generated_at: "2026-03-30T01:12:43.244Z"
+generated_at: "2026-03-30T01:18:07.559Z"
 ---
 
 # § 4626. Housing replacement by Federal agency as last resort

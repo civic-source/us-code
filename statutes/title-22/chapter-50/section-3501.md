@@ -3,9 +3,9 @@ title: "Section 3501 - Congressional statement of policy"
 usc_title: 22
 usc_section: "3501"
 chapter: 50
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 3501"
-generated_at: "2026-03-30T01:11:13.511Z"
+generated_at: "2026-03-30T01:15:42.370Z"
 ---
 
 # § 3501. Congressional statement of policy

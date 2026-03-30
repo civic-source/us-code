@@ -3,9 +3,9 @@ title: "Section 304 - Provisions authorized in lease"
 usc_title: 30
 usc_section: "304"
 chapter: 5
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "30 U.S.C. § 304"
-generated_at: "2026-03-30T01:11:25.988Z"
+generated_at: "2026-03-30T01:15:55.543Z"
 ---
 
 # § 304. Provisions authorized in lease

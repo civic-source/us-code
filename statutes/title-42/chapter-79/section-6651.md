@@ -3,9 +3,9 @@ title: "Section 6651 - Establishment, membership, and functions of Council"
 usc_title: 42
 usc_section: "6651"
 chapter: 79
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 6651"
-generated_at: "2026-03-30T01:12:43.313Z"
+generated_at: "2026-03-30T01:18:07.610Z"
 ---
 
 # § 6651. Establishment, membership, and functions of Council

@@ -3,9 +3,9 @@ title: "Section 4751 - Environmental impact analyses"
 usc_title: 16
 usc_section: "4751"
 chapter: 67
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 4751"
-generated_at: "2026-03-30T01:10:37.141Z"
+generated_at: "2026-03-30T01:15:31.091Z"
 ---
 
 # § 4751. Environmental impact analyses

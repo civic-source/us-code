@@ -3,9 +3,9 @@ title: "Section 20302 - General requirements"
 usc_title: 49
 usc_section: "20302"
 chapter: 203
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 20302"
-generated_at: "2026-03-30T01:12:54.650Z"
+generated_at: "2026-03-30T01:18:16.081Z"
 ---
 
 # § 20302. General requirements

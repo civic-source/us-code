@@ -3,9 +3,9 @@ title: "Section 347a - Congressional declaration of policy regarding oleomargari
 usc_title: 21
 usc_section: "347a"
 chapter: 9
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "21 U.S.C. § 347a"
-generated_at: "2026-03-30T01:11:04.779Z"
+generated_at: "2026-03-30T01:15:40.022Z"
 ---
 
 # § 347a. Congressional declaration of policy regarding oleomargarine sales

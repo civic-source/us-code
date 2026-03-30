@@ -3,9 +3,9 @@ title: "Section 1303 - Parity payments"
 usc_title: 7
 usc_section: "1303"
 chapter: 35
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 1303"
-generated_at: "2026-03-30T01:09:47.596Z"
+generated_at: "2026-03-30T01:14:35.560Z"
 ---
 
 # § 1303. Parity payments

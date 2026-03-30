@@ -3,9 +3,9 @@ title: "Section 3 - Centers operated by State agencies"
 usc_title: 29
 usc_section: "3"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "29 U.S.C. § 3"
-generated_at: "2026-03-30T01:11:31.600Z"
+generated_at: "2026-03-30T01:15:48.758Z"
 ---
 
 # § 796f–3. Centers operated by State agencies

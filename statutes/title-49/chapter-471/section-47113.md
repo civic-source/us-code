@@ -3,9 +3,9 @@ title: "Section 47113 - Minority and disadvantaged business participation"
 usc_title: 49
 usc_section: "47113"
 chapter: 471
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 47113"
-generated_at: "2026-03-30T01:12:54.729Z"
+generated_at: "2026-03-30T01:18:16.144Z"
 ---
 
 # § 47113. Minority and disadvantaged business participation
@@ -25,3 +25,13 @@ generated_at: "2026-03-30T01:12:54.729Z"
   - **(3)** A person referred to in paragraph (1) is an official or agent of an airport sponsor—
     - **(A)** who is required to provide a written assurance under this section or section 47107(e) that the airport owner or operator will meet the percentage goal of subsection (b) of this section or section 47107(e)(1), as the case may be; or
     - **(B)** who is responsible for determining whether or not a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section or section 47107(e).
+- **(f)**
+  - **(1)** The Secretary, in coordination with the Administrator of the Federal Aviation Administration, may, at the request of an airport sponsor, provide assistance under a grant issued under this subchapter to develop, conduct, and administer training programs and assistance programs in connection with any airport improvement project subject to part 26 of title 49, Code of Federal Regulations, for small business concerns referred to in subsection (b) to achieve proficiency to compete, on an equal basis for contracts and subcontracts related to such projects.
+  - **(2)** An entity eligible to receive assistance under this section is—
+    - **(A)** a State;
+    - **(B)** a political subdivision of a State or local government;
+    - **(C)** a Tribal government;
+    - **(D)** an airport sponsor;
+    - **(E)** a metropolitan planning organization;
+    - **(F)** a group of entities described in subparagraphs (A) through (E); or
+    - **(G)** any other organization considered appropriate by the Secretary.

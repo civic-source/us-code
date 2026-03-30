@@ -3,9 +3,9 @@ title: "Section 256h - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , 
 usc_title: 16
 usc_section: "256h"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 256h"
-generated_at: "2026-03-30T01:10:36.836Z"
+generated_at: "2026-03-30T01:15:30.861Z"
 ---
 
 # §§ 256d to 256h. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

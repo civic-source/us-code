@@ -3,9 +3,9 @@ title: "Section 355f - Extension of exclusivity period for new qualified infecti
 usc_title: 21
 usc_section: "355f"
 chapter: 9
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "21 U.S.C. § 355f"
-generated_at: "2026-03-30T01:11:04.797Z"
+generated_at: "2026-03-30T01:15:40.036Z"
 ---
 
 # § 355f. Extension of exclusivity period for new qualified infectious disease products

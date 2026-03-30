@@ -3,9 +3,9 @@ title: "Section 2205 - Construction"
 usc_title: 50
 usc_section: "2205"
 chapter: 39
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 2205"
-generated_at: "2026-03-30T01:13:12.965Z"
+generated_at: "2026-03-30T01:18:12.768Z"
 ---
 
 # § 2205. Construction

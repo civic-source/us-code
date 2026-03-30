@@ -3,9 +3,9 @@ title: "Section 1508 - Recordkeeping"
 usc_title: 19
 usc_section: "1508"
 chapter: 4
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 1508"
-generated_at: "2026-03-30T01:10:52.664Z"
+generated_at: "2026-03-30T01:15:05.427Z"
 ---
 
 # § 1508. Recordkeeping

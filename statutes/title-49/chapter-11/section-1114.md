@@ -3,9 +3,9 @@ title: "Section 1114 - Disclosure, availability, and use of information"
 usc_title: 49
 usc_section: "1114"
 chapter: 11
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 1114"
-generated_at: "2026-03-30T01:12:54.601Z"
+generated_at: "2026-03-30T01:18:16.043Z"
 ---
 
 # § 1114. Disclosure, availability, and use of information
@@ -14,7 +14,7 @@ generated_at: "2026-03-30T01:12:54.601Z"
   - **(1)** Except as provided in subsections (b), (c), (d), and (f) of this section, a copy of a record, information, or investigation submitted or received by the National Transportation Safety Board, or a member or employee of the Board, shall be made available to the public on identifiable request and at reasonable cost. This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.
   - **(2)** The Board shall deposit in the Treasury amounts received under paragraph (1) to be credited to the appropriation of the Board as offsetting collections.
 - **(b)**
-  - **(1)** The Board may disclose information related to a trade secret referred to in section 1905 of title 18 only—
+  - **(1)** The Board may disclose confidential information described in section 1905 of title 18 , including trade secrets, only—
     - **(A)** to another department, agency, or instrumentality of the United States Government when requested for official use;
     - **(B)** to a committee of Congress having jurisdiction over the subject matter to which the information is related, when requested by that committee;
     - **(C)** in a judicial proceeding under a court order that preserves the confidentiality of the information without impairing the proceeding; and

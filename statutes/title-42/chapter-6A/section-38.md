@@ -3,9 +3,9 @@ title: "Section 38 - Authorization for appropriations"
 usc_title: 42
 usc_section: "38"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 38"
-generated_at: "2026-03-30T01:12:42.823Z"
+generated_at: "2026-03-30T01:18:07.245Z"
 ---
 
 # § 300jj–38. Authorization for appropriations

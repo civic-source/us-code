@@ -3,9 +3,9 @@ title: "Section 20905 - Administration of programs"
 usc_title: 52
 usc_section: "20905"
 chapter: 209
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "52 U.S.C. § 20905"
-generated_at: "2026-03-30T01:13:25.516Z"
+generated_at: "2026-03-30T01:18:47.351Z"
 ---
 
 # § 20905. Administration of programs

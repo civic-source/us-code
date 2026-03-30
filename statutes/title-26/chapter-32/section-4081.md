@@ -3,9 +3,9 @@ title: "Section 4081 - Imposition of tax"
 usc_title: 26
 usc_section: "4081"
 chapter: 32
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 4081"
-generated_at: "2026-03-30T01:11:37.971Z"
+generated_at: "2026-03-30T01:16:03.441Z"
 ---
 
 # § 4081. Imposition of tax
@@ -59,6 +59,6 @@ generated_at: "2026-03-30T01:11:37.971Z"
   - **(1)** The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2028 .
   - **(2)** The rates of tax specified in subsection (a)(2)(A)(ii) and (a)(2)(C)(ii) shall be 4.3 cents per gallon—
     - **(A)** after December 31, 1996 , and before the date which is 7 days after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
-    - **(B)** after May 10, 2024 .
+    - **(B)** after September 30, 2028 .
   - **(3)** The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997 , and before October 1, 2028 .
 - **(e)** Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.

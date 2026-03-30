@@ -3,9 +3,9 @@ title: "Section 1671g - Effect of derogation of Export-Import Bank financing"
 usc_title: 19
 usc_section: "1671g"
 chapter: 4
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 1671g"
-generated_at: "2026-03-30T01:10:52.677Z"
+generated_at: "2026-03-30T01:15:05.436Z"
 ---
 
 # § 1671g. Effect of derogation of Export-Import Bank financing

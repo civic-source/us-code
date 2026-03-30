@@ -3,9 +3,9 @@ title: "Section 17932 - Notification in the case of breach"
 usc_title: 42
 usc_section: "17932"
 chapter: 156
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 17932"
-generated_at: "2026-03-30T01:12:43.611Z"
+generated_at: "2026-03-30T01:18:07.829Z"
 ---
 
 # § 17932. Notification in the case of breach

@@ -3,9 +3,9 @@ title: "Section 8703 - Tankermen on tank vessels"
 usc_title: 46
 usc_section: "8703"
 chapter: 87
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "46 U.S.C. § 8703"
-generated_at: "2026-03-30T01:12:51.254Z"
+generated_at: "2026-03-30T01:18:24.194Z"
 ---
 
 # § 8703. Tankermen on tank vessels

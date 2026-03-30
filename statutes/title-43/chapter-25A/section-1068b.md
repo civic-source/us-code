@@ -3,9 +3,9 @@ title: "Section 1068b - Mineral reservation"
 usc_title: 43
 usc_section: "1068b"
 chapter: 25
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 1068b"
-generated_at: "2026-03-30T01:12:04.192Z"
+generated_at: "2026-03-30T01:17:12.128Z"
 ---
 
 # § 1068b. Mineral reservation

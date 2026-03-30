@@ -3,9 +3,9 @@ title: "Section 632 - Annual adoption of concurrent resolution on the budget"
 usc_title: 2
 usc_section: "632"
 chapter: 17
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "2 U.S.C. § 632"
-generated_at: "2026-03-30T01:09:17.730Z"
+generated_at: "2026-03-30T01:14:22.972Z"
 ---
 
 # § 632. Annual adoption of concurrent resolution on the budget

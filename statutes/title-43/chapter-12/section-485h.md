@@ -3,9 +3,9 @@ title: "Section 485h - New projects; sale of water and electric power; lease of 
 usc_title: 43
 usc_section: "485h"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 485h"
-generated_at: "2026-03-30T01:12:04.160Z"
+generated_at: "2026-03-30T01:17:12.116Z"
 ---
 
 # § 485h. New projects; sale of water and electric power; lease of power privileges

@@ -3,9 +3,9 @@ title: "Section 3808 - Additional implementation and enforcement requirements"
 usc_title: 19
 usc_section: "3808"
 chapter: 24
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 3808"
-generated_at: "2026-03-30T01:10:52.730Z"
+generated_at: "2026-03-30T01:15:05.505Z"
 ---
 
 # § 3808. Additional implementation and enforcement requirements

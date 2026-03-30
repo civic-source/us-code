@@ -3,9 +3,9 @@ title: "Section 3163 - Within State allocations"
 usc_title: 29
 usc_section: "3163"
 chapter: 32
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "29 U.S.C. § 3163"
-generated_at: "2026-03-30T01:11:31.664Z"
+generated_at: "2026-03-30T01:15:48.807Z"
 ---
 
 # § 3163. Within State allocations

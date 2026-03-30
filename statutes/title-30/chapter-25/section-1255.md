@@ -3,9 +3,9 @@ title: "Section 1255 - State laws"
 usc_title: 30
 usc_section: "1255"
 chapter: 25
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "30 U.S.C. § 1255"
-generated_at: "2026-03-30T01:11:26.010Z"
+generated_at: "2026-03-30T01:15:55.561Z"
 ---
 
 # § 1255. State laws

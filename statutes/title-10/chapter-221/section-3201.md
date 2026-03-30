@@ -3,9 +3,9 @@ title: "Section 3201 - Full and open competition"
 usc_title: 10
 usc_section: "3201"
 chapter: 221
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 3201"
-generated_at: "2026-03-30T01:10:00.683Z"
+generated_at: "2026-03-30T01:14:40.719Z"
 ---
 
 # § 3201. Full and open competition

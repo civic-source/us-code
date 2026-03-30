@@ -3,9 +3,9 @@ title: "Section 1922B - Service-disabled veterans insurance"
 usc_title: 38
 usc_section: "1922B"
 chapter: 19
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "38 U.S.C. § 1922B"
-generated_at: "2026-03-30T01:11:54.316Z"
+generated_at: "2026-03-30T01:16:52.978Z"
 ---
 
 # § 1922B. Service-disabled veterans insurance

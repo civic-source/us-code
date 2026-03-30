@@ -3,9 +3,9 @@ title: "Section 6410 - Ruth D. Gates Coral Reef Conservation Grant Program"
 usc_title: 16
 usc_section: "6410"
 chapter: 83
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 6410"
-generated_at: "2026-03-30T01:10:37.151Z"
+generated_at: "2026-03-30T01:15:31.099Z"
 ---
 
 # § 6410. Ruth D. Gates Coral Reef Conservation Grant Program

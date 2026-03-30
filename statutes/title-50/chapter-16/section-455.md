@@ -3,9 +3,9 @@ title: "Section 455 - Authorization of appropriations"
 usc_title: 50
 usc_section: "455"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 455"
-generated_at: "2026-03-30T01:13:12.944Z"
+generated_at: "2026-03-30T01:18:12.749Z"
 ---
 
 # § 455. Authorization of appropriations

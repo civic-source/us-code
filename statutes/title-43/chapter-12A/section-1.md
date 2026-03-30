@@ -3,9 +3,9 @@ title: "Section 1 - Availability of Colorado River Development Fund for investig
 usc_title: 43
 usc_section: "1"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T01:12:04.171Z"
+generated_at: "2026-03-30T01:17:12.120Z"
 ---
 
 # § 618a–1. Availability of Colorado River Development Fund for investigation and construction purposes

@@ -3,9 +3,9 @@ title: "Section 1641 - Findings and purpose"
 usc_title: 16
 usc_section: "1641"
 chapter: 36
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 1641"
-generated_at: "2026-03-30T01:10:37.077Z"
+generated_at: "2026-03-30T01:15:31.041Z"
 ---
 
 # § 1641. Findings and purpose

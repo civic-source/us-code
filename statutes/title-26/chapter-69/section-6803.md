@@ -3,9 +3,9 @@ title: "Section 6803 - Accounting and safeguarding"
 usc_title: 26
 usc_section: "6803"
 chapter: 69
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 6803"
-generated_at: "2026-03-30T01:11:38.048Z"
+generated_at: "2026-03-30T01:16:03.507Z"
 ---
 
 # § 6803. Accounting and safeguarding

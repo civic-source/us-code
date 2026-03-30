@@ -3,9 +3,9 @@ title: "Section 3300 - Recruitment or use of child soldiers"
 usc_title: 18
 usc_section: "3300"
 chapter: 213
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 3300"
-generated_at: "2026-03-30T01:10:29.359Z"
+generated_at: "2026-03-30T01:15:03.840Z"
 ---
 
 # § 3300. Recruitment or use of child soldiers

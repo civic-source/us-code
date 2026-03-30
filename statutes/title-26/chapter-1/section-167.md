@@ -3,9 +3,9 @@ title: "Section 167 - Depreciation"
 usc_title: 26
 usc_section: "167"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 167"
-generated_at: "2026-03-30T01:11:37.797Z"
+generated_at: "2026-03-30T01:16:03.291Z"
 ---
 
 # § 167. Depreciation

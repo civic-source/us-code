@@ -3,9 +3,9 @@ title: "Section 141 - Special sessions; places; notice"
 usc_title: 28
 usc_section: "141"
 chapter: 5
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "28 U.S.C. § 141"
-generated_at: "2026-03-30T01:11:39.313Z"
+generated_at: "2026-03-30T01:15:52.490Z"
 ---
 
 # § 141. Special sessions; places; notice

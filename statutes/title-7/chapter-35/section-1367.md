@@ -3,9 +3,9 @@ title: "Section 1367 - Stay of proceedings and exclusive jurisdiction"
 usc_title: 7
 usc_section: "1367"
 chapter: 35
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 1367"
-generated_at: "2026-03-30T01:09:47.603Z"
+generated_at: "2026-03-30T01:14:35.566Z"
 ---
 
 # § 1367. Stay of proceedings and exclusive jurisdiction

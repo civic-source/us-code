@@ -3,9 +3,9 @@ title: "Section 1832 - Withdrawals by negotiable or transferable instruments for
 usc_title: 12
 usc_section: "1832"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 1832"
-generated_at: "2026-03-30T01:10:24.336Z"
+generated_at: "2026-03-30T01:14:52.644Z"
 ---
 
 # § 1832. Withdrawals by negotiable or transferable instruments for transfers to third parties

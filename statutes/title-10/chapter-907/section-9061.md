@@ -3,9 +3,9 @@ title: "Section 9061 - Regulations"
 usc_title: 10
 usc_section: "9061"
 chapter: 907
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 9061"
-generated_at: "2026-03-30T01:10:00.745Z"
+generated_at: "2026-03-30T01:14:40.762Z"
 ---
 
 # § 9061. Regulations

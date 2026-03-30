@@ -3,9 +3,9 @@ title: "Section 12208 - Officers: appointment upon transfer"
 usc_title: 10
 usc_section: "12208"
 chapter: 1205
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 12208"
-generated_at: "2026-03-30T01:10:00.760Z"
+generated_at: "2026-03-30T01:14:40.775Z"
 ---
 
 # § 12208. Officers: appointment upon transfer

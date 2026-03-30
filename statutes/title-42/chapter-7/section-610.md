@@ -3,9 +3,9 @@ title: "Section 610 - Appeal of adverse decision"
 usc_title: 42
 usc_section: "610"
 chapter: 7
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 610"
-generated_at: "2026-03-30T01:12:42.855Z"
+generated_at: "2026-03-30T01:18:07.269Z"
 ---
 
 # § 610. Appeal of adverse decision

@@ -3,9 +3,9 @@ title: "Section 321r - Transfer of equipment during a public health emergency"
 usc_title: 6
 usc_section: "321r"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "6 U.S.C. § 321r"
-generated_at: "2026-03-30T01:09:22.870Z"
+generated_at: "2026-03-30T01:14:36.304Z"
 ---
 
 # § 321r. Transfer of equipment during a public health emergency

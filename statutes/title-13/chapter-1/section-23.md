@@ -3,9 +3,9 @@ title: "Section 23 - Additional officers and employees"
 usc_title: 13
 usc_section: "23"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "13 U.S.C. § 23"
-generated_at: "2026-03-30T01:10:09.620Z"
+generated_at: "2026-03-30T01:14:49.372Z"
 ---
 
 # § 23. Additional officers and employees

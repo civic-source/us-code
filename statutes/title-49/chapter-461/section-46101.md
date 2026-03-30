@@ -3,9 +3,9 @@ title: "Section 46101 - Complaints and investigations"
 usc_title: 49
 usc_section: "46101"
 chapter: 461
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 46101"
-generated_at: "2026-03-30T01:12:54.722Z"
+generated_at: "2026-03-30T01:18:16.137Z"
 ---
 
 # § 46101. Complaints and investigations
@@ -18,3 +18,6 @@ generated_at: "2026-03-30T01:12:54.722Z"
   - **(3)** The Secretary of Transportation, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration may dismiss a complaint without a hearing when the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration is of the opinion that the complaint does not state facts that warrant an investigation or action.
   - **(4)** After notice and an opportunity for a hearing and subject to section 40105(b) of this title , the Secretary of Transportation, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall issue an order to compel compliance with this part if the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration finds in an investigation under this subsection that a person is violating this part.
 - **(b)** The Secretary of Transportation, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall refer a complaint against a member of the armed forces of the United States performing official duties to the Secretary of the department concerned for action. Not later than 90 days after receiving the complaint, the Secretary of that department shall inform the Secretary of Transportation, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration of the action taken on the complaint, including any corrective or disciplinary action taken.
+- **(c)**
+  - **(1)** Notwithstanding any other provision of this section, the Administrator of the Federal Aviation Administration may not initiate an investigation (excluding a criminal investigation) of a person based exclusively on automatic dependent surveillance–broadcast data.
+  - **(2)** Nothing in this subsection shall prohibit the use of automatic dependent surveillance–broadcast data in an investigation that was initiated for any reason other than the review of automatic dependent surveillance–broadcast data, including if such investigation was initiated as a result of a report or complaint submitted to the Administrator.

@@ -3,9 +3,9 @@ title: "Section 3153 - National Agricultural Science Award"
 usc_title: 7
 usc_section: "3153"
 chapter: 64
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 3153"
-generated_at: "2026-03-30T01:09:47.700Z"
+generated_at: "2026-03-30T01:14:35.646Z"
 ---
 
 # § 3153. National Agricultural Science Award

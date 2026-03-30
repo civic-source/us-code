@@ -3,9 +3,9 @@ title: "Section 1434 - Eligibility"
 usc_title: 20
 usc_section: "1434"
 chapter: 33
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "20 U.S.C. § 1434"
-generated_at: "2026-03-30T01:10:32.951Z"
+generated_at: "2026-03-30T01:15:07.625Z"
 ---
 
 # § 1434. Eligibility

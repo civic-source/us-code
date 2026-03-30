@@ -3,9 +3,9 @@ title: "Section 3383 - Definitions"
 usc_title: 22
 usc_section: "3383"
 chapter: 48
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 3383"
-generated_at: "2026-03-30T01:11:13.510Z"
+generated_at: "2026-03-30T01:15:42.369Z"
 ---
 
 # § 3383. Definitions

@@ -3,9 +3,9 @@ title: "Section 2947 - Reports"
 usc_title: 14
 usc_section: "2947"
 chapter: 29
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "14 U.S.C. § 2947"
-generated_at: "2026-03-30T01:10:03.459Z"
+generated_at: "2026-03-30T01:14:50.360Z"
 ---
 
 # § 2947. Reports

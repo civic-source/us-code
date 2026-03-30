@@ -3,9 +3,9 @@ title: "Section 5155 - Duplication of benefits"
 usc_title: 42
 usc_section: "5155"
 chapter: 68
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 5155"
-generated_at: "2026-03-30T01:12:43.262Z"
+generated_at: "2026-03-30T01:18:07.572Z"
 ---
 
 # § 5155. Duplication of benefits
@@ -15,13 +15,5 @@ generated_at: "2026-03-30T01:12:43.262Z"
   - **(1)** This section shall not prohibit the provision of Federal assistance to a person who is or may be entitled to receive benefits for the same purposes from another source if such person has not received such other benefits by the time of application for Federal assistance and if such person agrees to repay all duplicative assistance to the agency providing the Federal assistance.
   - **(2)** The President shall establish such procedures as the President considers necessary to ensure uniformity in preventing duplication of benefits.
   - **(3)** Receipt of partial benefits for a major disaster or emergency shall not preclude provision of additional Federal assistance for any part of a loss or need for which benefits have not been provided.
-  - **(4)**
-    - **(A)** The President may waive the general prohibition provided in subsection (a) upon request of a Governor on behalf of the State or on behalf of a person, business concern, or any other entity suffering losses as a result of a major disaster or emergency, if the President finds such waiver is in the public interest and will not result in waste, fraud, or abuse. In making this decision, the President may consider the following:
-      - **(i)** The recommendations of the Administrator of the Federal Emergency Management Agency made in consultation with the Federal agency or agencies administering the duplicative program.
-      - **(ii)** If a waiver is granted, the assistance to be funded is cost effective.
-      - **(iii)** Equity and good conscience.
-      - **(iv)** Other matters of public policy considered appropriate by the President.
-    - **(B)** A request under subparagraph (A) shall be granted or denied not later than 45 days after submission of such request.
-    - **(C)** Notwithstanding subsection (c), in carrying out subparagraph (A), the President may not determine that a loan is a duplication of assistance, provided that all Federal assistance is used toward a loss suffered as a result of the major disaster or emergency.
 - **(c)** A person receiving Federal assistance for a major disaster or emergency shall be liable to the United States to the extent that such assistance duplicates benefits available to the person for the same purpose from another source. The agency which provided the duplicative assistance shall collect such duplicative assistance from the recipient in accordance with chapter 37 of title 31, relating to debt collection, when the head of such agency considers it to be in the best interest of the Federal Government.
 - **(d)** Federal major disaster and emergency assistance provided to individuals and families under this chapter, and comparable disaster assistance provided by States, local governments, and disaster assistance organizations, shall not be considered as income or a resource when determining eligibility for or benefit levels under federally funded income assistance or resource-tested benefit programs.

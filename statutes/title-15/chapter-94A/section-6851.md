@@ -3,9 +3,9 @@ title: "Section 6851 - Civil action relating to disclosure of intimate images"
 usc_title: 15
 usc_section: "6851"
 chapter: 94
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 6851"
-generated_at: "2026-03-30T01:10:09.461Z"
+generated_at: "2026-03-30T01:14:59.618Z"
 ---
 
 # § 6851. Civil action relating to disclosure of intimate images

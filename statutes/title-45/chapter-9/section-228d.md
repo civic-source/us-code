@@ -3,9 +3,9 @@ title: "Section 228d - Repealed. July 31, 1946, ch. 709, § 212 , 60 Stat. 729"
 usc_title: 45
 usc_section: "228d"
 chapter: 9
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "45 U.S.C. § 228d"
-generated_at: "2026-03-30T01:12:02.572Z"
+generated_at: "2026-03-30T01:17:07.583Z"
 ---
 
 # § 228d. Repealed. July 31, 1946, ch. 709, § 212 , 60 Stat. 729

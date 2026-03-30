@@ -3,9 +3,9 @@ title: "Section 7806 - Petition and review"
 usc_title: 7
 usc_section: "7806"
 chapter: 105
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 7806"
-generated_at: "2026-03-30T01:09:47.777Z"
+generated_at: "2026-03-30T01:14:35.710Z"
 ---
 
 # § 7806. Petition and review

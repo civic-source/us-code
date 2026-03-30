@@ -3,9 +3,9 @@ title: "Section 102 - Department of Transportation"
 usc_title: 49
 usc_section: "102"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 102"
-generated_at: "2026-03-30T01:12:54.588Z"
+generated_at: "2026-03-30T01:18:16.033Z"
 ---
 
 # § 102. Department of Transportation
@@ -17,8 +17,8 @@ generated_at: "2026-03-30T01:12:54.588Z"
   - **(2)** acts for the Secretary when the Secretary is absent or unable to serve or when the office of Secretary is vacant.
 - **(d)** The Department has an Under Secretary of Transportation for Policy appointed by the President, by and with the advice and consent of the Senate. The Under Secretary shall provide leadership in the development of policy for the Department, supervise the policy activities of Assistant Secretaries with primary responsibility for aviation, international, and other transportation policy development and carry out other powers and duties prescribed by the Secretary. The Under Secretary acts for the Secretary when the Secretary and the Deputy Secretary are absent or unable to serve, or when the offices of Secretary and Deputy Secretary are vacant.
 - **(e)**
-  - **(1)** The Department has 7 Assistant Secretaries and a General Counsel, including—
-    - **(A)** an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, an Assistant Secretary for Research and Technology, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
+  - **(1)** The Department has 8 Assistant Secretaries and a General Counsel, including—
+    - **(A)** an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, an Assistant Secretary for Research and Technology, an Assistant Secretary for Transportation Policy, and an Assistant Secretary for Aviation Consumer Protection, who shall each be appointed by the President, with the advice and consent of the Senate;
     - **(B)** an Assistant Secretary for Budget and Programs who shall be appointed by the President;
     - **(C)** an Assistant Secretary for Administration, who shall be appointed by the Secretary, with the approval of the President;
     - **(D)** an Assistant Secretary for Tribal Government Affairs, who shall be appointed by the President; and
@@ -91,3 +91,17 @@ generated_at: "2026-03-30T01:12:54.588Z"
   - **(2)** The Chief Travel and Tourism Officer shall collaborate with the Assistant Secretary for Aviation and International Affairs to carry out—
     - **(A)** the National Travel and Tourism Infrastructure Strategic Plan under section 1431(e) of Public Law 114–94 ( 49 U.S.C. 301 note); and
     - **(B)** other travel- and tourism-related matters involving the Department of Transportation.
+- **(j)**
+  - **(1)** There is established in the Department an Office of Aviation Consumer Protection (in this subsection referred to as the “Office”) to administer and enforce the aviation consumer protection and civil rights authorities provided to the Department by statute, including the authorities under section 41712—
+    - **(A)** to assist, educate, and protect passengers; and
+    - **(B)** to monitor compliance with, conduct investigations relating to, and enforce, with support of attorneys in the Office of the General Counsel, including by taking appropriate action to address violations of aviation consumer protection and civil rights.
+  - **(2)** The Office shall be headed by the Assistant Secretary for Aviation Consumer Protection (in this subsection referred to as the “Assistant Secretary”).
+  - **(3)** Not later than 180 days after funding is appropriated for an Office of Aviation Consumer Protection headed by an Assistant Secretary, the Office of Aviation Consumer Protection that is a unit within the Office of the General Counsel of the Department which is headed by the Assistant General Counsel for Aviation Consumer Protection shall cease to exist. The Secretary shall determine which employees are necessary to fulfill the responsibilities of the new Office of Aviation Consumer Protection and such employees shall be transferred from the Office of the General Counsel, as appropriate, to the newly established Office of Aviation Consumer Protection.
+  - **(4)** The Assistant Secretary shall coordinate with the General Counsel appointed under subsection (e)(1)(E), in accordance with section 1.26 of title 49, Code of Federal Regulations (or a successor regulation), on all legal matters relating to—
+    - **(A)** aviation consumer protection; and
+    - **(B)** the duties and activities of the Office described in subparagraphs (A) through (C) 1 1 So in original. Paragraph (1) does not contain a subparagraph (C). of paragraph (1).
+  - **(5)** The Assistant Secretary shall submit to the Secretary, who shall submit to Congress and make publicly available on the website of the Department, an annual report that, with respect to matters under the jurisdiction of the Department, or otherwise within the statutory authority of the Department—
+    - **(A)** analyzes trends in aviation consumer protection, civil rights, and licensing;
+    - **(B)** identifies major challenges facing passengers; and
+    - **(C)** addresses any other relevant issues, as the Assistant Secretary determines to be appropriate.
+  - **(6)** There is authorized to be appropriated $12,000,000 for fiscal year 2024, $13,000,000 for fiscal year 2025, $14,000,000 for fiscal year 2026, $15,000,000 for fiscal year 2027, and $16,000,000 for fiscal year 2028 to carry out this subsection.

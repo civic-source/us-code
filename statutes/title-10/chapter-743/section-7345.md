@@ -3,9 +3,9 @@ title: "Section 7345 - Restoration to former grade: retired warrant officers and
 usc_title: 10
 usc_section: "7345"
 chapter: 743
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 7345"
-generated_at: "2026-03-30T01:10:00.716Z"
+generated_at: "2026-03-30T01:14:40.743Z"
 ---
 
 # § 7345. Restoration to former grade: retired warrant officers and enlisted members

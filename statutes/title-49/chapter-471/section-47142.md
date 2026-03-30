@@ -1,21 +1,43 @@
 ---
-title: "Section 47142 - Design-build contracting"
+title: "Section 47142 - Alternative project delivery"
 usc_title: 49
 usc_section: "47142"
 chapter: 471
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 47142"
-generated_at: "2026-03-30T01:12:54.732Z"
+generated_at: "2026-03-30T01:18:16.146Z"
 ---
 
-# § 47142. Design-build contracting
+# § 47142. Alternative project delivery
 
-- **(a)** The Administrator of the Federal Aviation Administration may approve an application of an airport sponsor under this section to authorize the airport sponsor to award a design-build contract using a selection process permitted under applicable State or local law if—
+- **(a)** The Secretary of Transportation may approve an application of an airport sponsor under this section to authorize the airport sponsor to award a covered project delivery contract using a selection process permitted under applicable State or local law if—
   - **(1)** the Administrator approves the application using criteria established by the Administrator;
-  - **(2)** the design-build contract is in a form that is approved by the Administrator;
+  - **(2)** the covered project delivery contract is in a form that is approved by the Administrator;
   - **(3)** the Administrator is satisfied that the contract will be executed pursuant to competitive procedures and contains a schematic design adequate for the Administrator to approve the grant;
-  - **(4)** use of a design-build contract will be cost effective and expedite the project;
+  - **(4)** use of a covered project delivery contract is projected to be cost effective and expedite the project;
   - **(5)** the Administrator is satisfied that there will be no conflict of interest; and
   - **(6)** the Administrator is satisfied that the selection process will be as open, fair, and objective as the competitive bid system and that at least 3 or more bids will be submitted for each project under the selection process.
 - **(b)** The Administrator may reimburse an airport sponsor for design and construction costs incurred before a grant is made pursuant to this section if the project is approved by the Administrator in advance and is carried out in accordance with all administrative and statutory requirements that would have been applicable under this chapter if the project were carried out after a grant agreement had been executed.
-- **(c)** In this section, the term “design-build contract” means an agreement that provides for both design and construction of a project by a contractor.
+- **(c)**
+  - **(1)** Not later than 270 days after the date of enactment of this section, the Secretary shall establish a pilot program under which the Administrator may award grants for integrated project delivery contracts, as described in subsection (d)(2), to carry out up to 5 building construction projects at airports in the United States with a grant awarded under section 47104.
+  - **(2)**
+    - **(A)** A sponsor of an airport may submit to the Secretary an application, in such time and manner and containing such information as the Secretary may require, to carry out a building construction project under the pilot program that would otherwise be eligible for assistance under this chapter.
+    - **(B)** The Secretary may approve the application of a sponsor of an airport submitted under paragraph (1) to authorize such sponsor to award an integrated project delivery contract using a selection process permitted under applicable State or local law if—
+      - **(i)** the Secretary approves the application using criteria established by the Secretary;
+      - **(ii)** the integrated project delivery contract is in a form that is approved by the Secretary;
+      - **(iii)** the Secretary is satisfied that the contract will be executed pursuant to competitive procedures and contains a schematic design and any other material that the Secretary determines sufficient to approve the grant;
+      - **(iv)** the Secretary is satisfied that the use of an integrated project delivery contract will be cost effective and expedite the project;
+      - **(v)** the Secretary is satisfied that there will be no conflict of interest; and
+      - **(vi)** the Secretary is satisfied that the contract selection process will be open, fair, and objective and that not less than 2 sets of proposals will be submitted for each team entity under the selection process.
+  - **(3)**
+    - **(A)** The Secretary may reimburse a sponsor of an airport for any design or construction costs incurred before a grant is made pursuant to this section if—
+      - **(i)** the project funding is approved by the Secretary in advance;
+      - **(ii)** the project is carried out in accordance with all administrative and statutory requirements under this chapter; and
+      - **(iii)** the project is carried out under this chapter after a grant agreement has been executed.
+    - **(B)** Reimbursement of costs shall be based on transparent cost accounting or open book cost accounting.
+- **(d)** In this section, the term “covered project delivery contract” means—
+  - **(1)** an agreement that provides for both design and construction of a project by a contractor through alternative project delivery methods, including construction manager-at-risk and progressive design build; or
+  - **(2)** a single contract for the delivery of a whole project that—
+    - **(A)** includes, at a minimum, the sponsor, builder, and architect-engineer as parties that are subject to the terms of the contract;
+    - **(B)** aligns the interests of all the parties to the contract with respect to the project costs and project outcomes; and
+    - **(C)** includes processes to ensure transparency and collaboration among all parties to the contract relating to project costs and project outcomes.

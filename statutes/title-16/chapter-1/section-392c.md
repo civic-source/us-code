@@ -3,9 +3,9 @@ title: "Section 392c - Addition to Hawaiʻi Volcanoes National Park"
 usc_title: 16
 usc_section: "392c"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 392c"
-generated_at: "2026-03-30T01:10:36.843Z"
+generated_at: "2026-03-30T01:15:30.866Z"
 ---
 
 # § 392c. Addition to Hawaiʻi Volcanoes National Park

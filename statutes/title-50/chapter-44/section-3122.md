@@ -3,9 +3,9 @@ title: "Section 3122 - Defenses and exceptions"
 usc_title: 50
 usc_section: "3122"
 chapter: 44
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 3122"
-generated_at: "2026-03-30T01:13:12.992Z"
+generated_at: "2026-03-30T01:18:12.794Z"
 ---
 
 # § 3122. Defenses and exceptions

@@ -3,12 +3,14 @@ title: "Section 1101 - Definitions"
 usc_title: 49
 usc_section: "1101"
 chapter: 11
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 1101"
-generated_at: "2026-03-30T01:12:54.601Z"
+generated_at: "2026-03-30T01:18:16.042Z"
 ---
 
 # § 1101. Definitions
 
-Section 2101(23) of title 46 and section 40102(a) of this title apply to this chapter. In this chapter, the term “accident” includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
-
+- **(a)** In this chapter:
+  - **(1)** The term “accident” includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
+  - **(2)** The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and Guam.
+- **(b)** Section 2101(23) of title 46 and section 40102(a) of this title shall apply to this chapter.

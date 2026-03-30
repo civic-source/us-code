@@ -3,9 +3,9 @@ title: "Section 5563 - Index to House daily calendar"
 usc_title: 2
 usc_section: "5563"
 chapter: 55
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "2 U.S.C. § 5563"
-generated_at: "2026-03-30T01:09:17.819Z"
+generated_at: "2026-03-30T01:14:23.006Z"
 ---
 
 # § 5563. Index to House daily calendar

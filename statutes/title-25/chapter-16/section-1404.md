@@ -3,9 +3,9 @@ title: "Section 1404 - Hearing transcripts and tribal support statements; submis
 usc_title: 25
 usc_section: "1404"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "25 U.S.C. § 1404"
-generated_at: "2026-03-30T01:10:57.717Z"
+generated_at: "2026-03-30T01:15:35.086Z"
 ---
 
 # § 1404. Hearing transcripts and tribal support statements; submission to Congress with plan

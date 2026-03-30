@@ -3,9 +3,9 @@ title: "Section 18791 - Definitions"
 usc_title: 42
 usc_section: "18791"
 chapter: 162
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 18791"
-generated_at: "2026-03-30T01:12:43.636Z"
+generated_at: "2026-03-30T01:18:07.847Z"
 ---
 
 # § 18791. Definitions

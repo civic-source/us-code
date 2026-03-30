@@ -3,9 +3,9 @@ title: "Section 2034 - Survivor annuity for certain other former spouses"
 usc_title: 50
 usc_section: "2034"
 chapter: 38
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 2034"
-generated_at: "2026-03-30T01:13:12.962Z"
+generated_at: "2026-03-30T01:18:12.764Z"
 ---
 
 # § 2034. Survivor annuity for certain other former spouses

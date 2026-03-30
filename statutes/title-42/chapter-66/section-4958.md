@@ -3,9 +3,9 @@ title: "Section 4958 - Limitation on funds appropriated for grants and contracts
 usc_title: 42
 usc_section: "4958"
 chapter: 66
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 4958"
-generated_at: "2026-03-30T01:12:43.252Z"
+generated_at: "2026-03-30T01:18:07.564Z"
 ---
 
 # § 4958. Limitation on funds appropriated for grants and contracts for direct cost of supporting volunteers in programs or projects

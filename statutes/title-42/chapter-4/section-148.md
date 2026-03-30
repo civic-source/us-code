@@ -3,9 +3,9 @@ title: "Section 148 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 42
 usc_section: "148"
 chapter: 4
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 148"
-generated_at: "2026-03-30T01:12:42.605Z"
+generated_at: "2026-03-30T01:18:07.088Z"
 ---
 
 # §§ 141 to 148. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

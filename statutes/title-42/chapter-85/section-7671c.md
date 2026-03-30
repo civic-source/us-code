@@ -3,9 +3,9 @@ title: "Section 7671c - Phase-out of production and consumption of class I subst
 usc_title: 42
 usc_section: "7671c"
 chapter: 85
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 7671c"
-generated_at: "2026-03-30T01:12:43.388Z"
+generated_at: "2026-03-30T01:18:07.666Z"
 ---
 
 # § 7671c. Phase-out of production and consumption of class I substances

@@ -3,9 +3,9 @@ title: "Section 3105 - Elements of the defense acquisition system: performance a
 usc_title: 10
 usc_section: "3105"
 chapter: 205
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 3105"
-generated_at: "2026-03-30T01:10:00.680Z"
+generated_at: "2026-03-30T01:14:40.719Z"
 ---
 
 # § 3105. Elements of the defense acquisition system: performance assessments

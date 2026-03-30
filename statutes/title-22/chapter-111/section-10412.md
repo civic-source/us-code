@@ -3,9 +3,9 @@ title: "Section 10412 - Designation of senior official for Department of Defense
 usc_title: 22
 usc_section: "10412"
 chapter: 111
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 10412"
-generated_at: "2026-03-30T01:11:13.617Z"
+generated_at: "2026-03-30T01:15:42.453Z"
 ---
 
 # § 10412. Designation of senior official for Department of Defense activities relating to, and implementation plan for, the AUKUS partnership

@@ -3,9 +3,9 @@ title: "Section 7a - Youth prevention and recovery"
 usc_title: 42
 usc_section: "7a"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T01:12:42.710Z"
+generated_at: "2026-03-30T01:18:07.164Z"
 ---
 
 # § 290bb–7a. Youth prevention and recovery

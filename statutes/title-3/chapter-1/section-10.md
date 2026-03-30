@@ -3,9 +3,9 @@ title: "Section 10 - Sealing and endorsing certificates"
 usc_title: 3
 usc_section: "10"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "3 U.S.C. § 10"
-generated_at: "2026-03-30T01:08:59.937Z"
+generated_at: "2026-03-30T01:14:17.253Z"
 ---
 
 # § 10. Sealing and endorsing certificates

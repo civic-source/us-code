@@ -3,9 +3,9 @@ title: "Section 18795b - State-based home energy efficiency contractor training 
 usc_title: 42
 usc_section: "18795b"
 chapter: 162
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 18795b"
-generated_at: "2026-03-30T01:12:43.637Z"
+generated_at: "2026-03-30T01:18:07.848Z"
 ---
 
 # § 18795b. State-based home energy efficiency contractor training grants

@@ -3,9 +3,9 @@ title: "Section 5861 - Research and Development Foundation"
 usc_title: 22
 usc_section: "5861"
 chapter: 67
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 5861"
-generated_at: "2026-03-30T01:11:13.546Z"
+generated_at: "2026-03-30T01:15:42.398Z"
 ---
 
 # § 5861. Research and Development Foundation

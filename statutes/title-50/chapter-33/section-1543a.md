@@ -3,9 +3,9 @@ title: "Section 1543a - Report on hostilities involving United States Armed Forc
 usc_title: 50
 usc_section: "1543a"
 chapter: 33
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 1543a"
-generated_at: "2026-03-30T01:13:12.949Z"
+generated_at: "2026-03-30T01:18:12.752Z"
 ---
 
 # § 1543a. Report on hostilities involving United States Armed Forces

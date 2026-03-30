@@ -3,9 +3,9 @@ title: "Section 16311 - Science"
 usc_title: 42
 usc_section: "16311"
 chapter: 149
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 16311"
-generated_at: "2026-03-30T01:12:43.578Z"
+generated_at: "2026-03-30T01:18:07.804Z"
 ---
 
 # § 16311. Science

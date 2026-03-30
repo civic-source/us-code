@@ -3,9 +3,9 @@ title: "Section 1881a - Providing Capitol-flown flags for families of fallen her
 usc_title: 2
 usc_section: "1881a"
 chapter: 28
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "2 U.S.C. § 1881a"
-generated_at: "2026-03-30T01:09:17.778Z"
+generated_at: "2026-03-30T01:14:22.992Z"
 ---
 
 # § 1881a. Providing Capitol-flown flags for families of fallen heroes

@@ -3,9 +3,9 @@ title: "Section 7111 - Report to Congress"
 usc_title: 31
 usc_section: "7111"
 chapter: 71
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "31 U.S.C. § 7111"
-generated_at: "2026-03-30T01:11:44.054Z"
+generated_at: "2026-03-30T01:16:35.481Z"
 ---
 
 # § 7111. Report to Congress

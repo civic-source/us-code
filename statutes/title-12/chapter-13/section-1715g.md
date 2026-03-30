@@ -3,9 +3,9 @@ title: "Section 1715g - Insurance of mortgage where mortgagor is not occupant of
 usc_title: 12
 usc_section: "1715g"
 chapter: 13
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 1715g"
-generated_at: "2026-03-30T01:10:24.257Z"
+generated_at: "2026-03-30T01:14:52.588Z"
 ---
 
 # § 1715g. Insurance of mortgage where mortgagor is not occupant of property

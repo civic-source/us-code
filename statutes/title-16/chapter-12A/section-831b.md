@@ -3,9 +3,9 @@ title: "Section 831b - Officers and employees; wages of laborers and mechanics; 
 usc_title: 16
 usc_section: "831b"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 831b"
-generated_at: "2026-03-30T01:10:37.019Z"
+generated_at: "2026-03-30T01:15:30.997Z"
 ---
 
 # § 831b. Officers and employees; wages of laborers and mechanics; application of employees’ compensation provisions

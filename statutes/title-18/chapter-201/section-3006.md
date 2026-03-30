@@ -3,9 +3,9 @@ title: "Section 3006 - Assignment of counsel—(Rule)"
 usc_title: 18
 usc_section: "3006"
 chapter: 201
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 3006"
-generated_at: "2026-03-30T01:10:29.351Z"
+generated_at: "2026-03-30T01:15:03.835Z"
 ---
 
 # § 3006. Assignment of counsel—(Rule)

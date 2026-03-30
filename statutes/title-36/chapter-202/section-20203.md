@@ -3,9 +3,9 @@ title: "Section 20203 - Purposes"
 usc_title: 36
 usc_section: "20203"
 chapter: 202
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "36 U.S.C. § 20203"
-generated_at: "2026-03-30T01:11:48.474Z"
+generated_at: "2026-03-30T01:16:51.423Z"
 ---
 
 # § 20203. Purposes

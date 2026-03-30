@@ -1,16 +1,12 @@
 ---
-title: "Section 44510 - Airway science curriculum grants"
+title: "Section 44510 - Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16, 2024 , 138 Stat. 1148"
 usc_title: 49
 usc_section: "44510"
 chapter: 445
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 44510"
-generated_at: "2026-03-30T01:12:54.707Z"
+generated_at: "2026-03-30T01:18:16.123Z"
 ---
 
-# § 44510. Airway science curriculum grants
+# § 44510. Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16, 2024 , 138 Stat. 1148
 
-- **(a)** The Administrator of the Federal Aviation Administration may make competitive grant agreements with institutions of higher education having airway science curricula for the United States Government’s share of the allowable direct costs of the following categories of items to the extent that the items are in support of airway science curricula:
-  - **(1)** the construction, purchase, or lease with an option to purchase, of buildings and associated facilities.
-  - **(2)** instructional material and equipment.
-- **(b)** The Administrator shall establish guidelines to determine the direct costs allowable under a grant to be made under this section. The Government’s share of the allowable cost of a project assisted by a grant under this section may not be more than 65 percent.

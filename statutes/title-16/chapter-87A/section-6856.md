@@ -3,9 +3,9 @@ title: "Section 6856 - Reports"
 usc_title: 16
 usc_section: "6856"
 chapter: 87
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 6856"
-generated_at: "2026-03-30T01:10:37.162Z"
+generated_at: "2026-03-30T01:15:31.108Z"
 ---
 
 # § 6856. Reports

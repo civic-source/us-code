@@ -3,29 +3,29 @@ title: "Section 10159 - Law enforcement training programs"
 usc_title: 34
 usc_section: "10159"
 chapter: 101
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "34 U.S.C. § 10159"
-generated_at: "2026-03-30T01:11:43.036Z"
+generated_at: "2026-03-30T01:16:36.212Z"
 ---
 
 # § 10159. Law enforcement training programs
 
-- **(a)** In this section, the term “certified training program or course” means a program or course using 1 or more of the training curricula developed or identified under section 10381(n)(1) of this title , or equivalents to such training curricula—
-  - **(1)** that is provided by the Attorney General under section 10381(n)(3) of this title ; or
+- **(a)** In this section, the term “certified training program or course” means a program or course using 1 or more of the training curricula developed or identified under section 10381(n)(1) 1 1 See References in Text note below. of this title, or equivalents to such training curricula—
+  - **(1)** that is provided by the Attorney General under section 10381(n)(3) 1 of this title; or
   - **(2)** that is—
-    - **(A)** provided by a public or private entity, including the personnel of a law enforcement agency or law enforcement training academy of a State or unit of local government who have been trained to offer training programs or courses under section 10381(n)(3) of this title ; and
-    - **(B)** certified by the Attorney General under section 10381(n)(2) of this title .
+    - **(A)** provided by a public or private entity, including the personnel of a law enforcement agency or law enforcement training academy of a State or unit of local government who have been trained to offer training programs or courses under section 10381(n)(3) 1 of this title; and
+    - **(B)** certified by the Attorney General under section 10381(n)(2) 1 of this title.
 - **(b)**
-  - **(1)** Not later than 90 days after the Attorney General completes the activities required by paragraphs (1) and (2) of section 10381(n) of this title , the Attorney General shall, from amounts made available to fund training programs pursuant to subsection (h), make grants to States for use by the State or a unit of government located in the State to—
+  - **(1)** Not later than 90 days after the Attorney General completes the activities required by paragraphs (1) and (2) of section 10381(n) 1 of this title, the Attorney General shall, from amounts made available to fund training programs pursuant to subsection (h), make grants to States for use by the State or a unit of government located in the State to—
     - **(A)** pay for—
       - **(i)** costs associated with conducting a certified training program or course or, subject to paragraph (2), a certified training program or course that provides continuing education; and
       - **(ii)** attendance by law enforcement officers or covered mental health professionals at a certified training program or course, including a course provided by a law enforcement training academy of a State or unit of local government;
-    - **(B)** procure a certified training program or course or, subject to paragraph (2), a certified training program or course that provides continuing education on 1 or more of the topics described in section 10381(n)(1)(A) of this title ;
+    - **(B)** procure a certified training program or course or, subject to paragraph (2), a certified training program or course that provides continuing education on 1 or more of the topics described in section 10381(n)(1)(A) 1 of this title;
     - **(C)** in the case of a law enforcement agency of a unit of local government that employs fewer than 50 employees (determined on a full-time equivalent basis), pay for the costs of overtime accrued as a result of the attendance of a law enforcement officer or covered mental health professional at a certified training program or course for which the costs associated with conducting the certified training program or course are paid using amounts provided under this section;
     - **(D)** pay for the costs of developing mechanisms to comply with the reporting requirements established under subsection (d), in an amount not to exceed 5 percent of the total amount of the grant award; and
     - **(E)** pay for the costs associated with participation in the voluntary National Use-of-Force Data Collection of the Federal Bureau of Investigation, in an amount not to exceed 5 percent of the total amount of the grant award, if a law enforcement agency of the State or unit of local government is not already reporting to the National Use-of-Force Data Collection.
   - **(2)**
-    - **(A)** In this paragraph, the term “covered topic” means a topic covered under the curricula developed or identified under clause (i), (ii), or (iv) of section 10381(n)(1)(A) of this title .
+    - **(A)** In this paragraph, the term “covered topic” means a topic covered under the curricula developed or identified under clause (i), (ii), or (iv) of section 10381(n)(1)(A) 1 of this title.
     - **(B)** A State or unit of local government shall ensure that all officers who have been employed with the State or unit of local government for at least 2 years have received training as part of a certified training program or course on all covered topics before the State or unit of local government uses amounts received under a grant under paragraph (1) for continuing education with respect to any covered topic.
     - **(C)**
       - **(i)** Subject to clause (ii), a State or unit of local government may not use amounts received under a grant under paragraph (1) for continuing education with respect to a covered topic until the date that is 2 years after December 27, 2022 .
@@ -39,34 +39,34 @@ generated_at: "2026-03-30T01:11:43.036Z"
   - **(3)**
     - **(A)** A State shall make available to units of local government in the State for the purposes described in this section the amounts remaining after a State retains funds under paragraph (2).
     - **(B)** A State may, with the approval of a unit of local government, use the funds allocated to the unit of local government under subparagraph (A)—
-      - **(i)** to facilitate offering a certified training program or course or, subject to subsection (b)(2), a certified training program or course that provide 1 1 So in original. Probably should be “provides”. continuing education in 1 or more of the topics described in section 10381(n)(1)(A) of this title to law enforcement officers employed by the unit of local government; or
+      - **(i)** to facilitate offering a certified training program or course or, subject to subsection (b)(2), a certified training program or course that provide 2 2 So in original. Probably should be “provides”. continuing education in 1 or more of the topics described in section 10381(n)(1)(A) 1 of this title to law enforcement officers employed by the unit of local government; or
       - **(ii)** for the costs of training local law enforcement officers, including through law enforcement training academies of States and units of local government, to conduct a certified training program or course.
     - **(C)** The Attorney General, in consultation with relevant law enforcement agencies of States and units of local government, associations that represent individuals with mental or behavioral health diagnoses or individuals with disabilities, labor organizations, professional law enforcement organizations, local law enforcement labor and representative organizations, law enforcement trade associations, mental health and suicide prevention organizations, family advocacy organizations, and civil rights and civil liberties groups, shall develop criteria governing the allocation of funds to units of local government under this paragraph, which shall ensure that the funds are distributed as widely as practicable in terms of geographical location and to both large and small law enforcement agencies of units of local government.
     - **(D)** Not later than 30 days after the date on which a State receives an award under paragraph (1), the State shall announce the allocations of funds to units of local government under subparagraph (A). A State shall submit to the Attorney General a report explaining any delays in the announcement of allocations under this subparagraph.
 - **(d)**
   - **(1)** Any unit of local government that receives funds from a State under subsection (c)(3) for a certified training program or course shall submit to the State or the Attorney General an annual report with respect to the first fiscal year during which the unit of local government receives such funds and each of the 2 fiscal years thereafter that—
-    - **(A)** shall include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs and courses under section 10381(n)(2) of this title , the topics covered in those courses, and the number of officers who received training in each topic;
+    - **(A)** shall include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs and courses under section 10381(n)(2) 1 of this title, the topics covered in those courses, and the number of officers who received training in each topic;
     - **(B)** may, at the election of the unit of local government, include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course using funds provided from a source other than the grants described under subsection (b), the topics covered in those courses, and the number of officers who received training in each topic;
     - **(C)** shall include the total number of law enforcement officers employed by the unit of local government;
-    - **(D)** shall include a description of any barriers to providing training on the topics described in section 10381(n)(1)(A) of this title ;
+    - **(D)** shall include a description of any barriers to providing training on the topics described in section 10381(n)(1)(A) 1 of this title;
     - **(E)** shall include information gathered through—
-      - **(i)** pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) of this title ; and
+      - **(i)** pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) 1 of this title; and
       - **(ii)** follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training; and
     - **(F)** shall include the amount of funds received by the unit of local government under subsection (c)(3) and a tentative plan for training all law enforcement officers employed by the unit of local government using available and anticipated funds.
   - **(2)** A State receiving funds under this section shall submit to the Attorney General—
     - **(A)** any report the State receives from a unit of local government under paragraph (1); and
     - **(B)** if the State retains funds under subsection (c)(2) for a fiscal year, a report by the State for that fiscal year, and each of the 2 fiscal years thereafter—
-      - **(i)** indicating the number of law enforcement officers employed by the State that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs or courses under section 10381(n)(2) of this title , the topics covered in those courses, and the number of officers who received training in each topic, including, at the election of the State, a certified training program or course using funds provided from a source other than the grants described under subsection (b);
+      - **(i)** indicating the number of law enforcement officers employed by the State that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs or courses under section 10381(n)(2) 1 of this title, the topics covered in those courses, and the number of officers who received training in each topic, including, at the election of the State, a certified training program or course using funds provided from a source other than the grants described under subsection (b);
       - **(ii)** indicating the total number of law enforcement officers employed by the State;
       - **(iii)** providing information gathered through—
-        - **(I)** pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) of this title ; and
+        - **(I)** pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) 1 of this title; and
         - **(II)** follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training;
-      - **(iv)** discussing any barriers to providing training on the topics described in section 10381(n)(1)(A) of this title ; and
+      - **(iv)** discussing any barriers to providing training on the topics described in section 10381(n)(1)(A) 1 of this title; and
       - **(v)** indicating the amount of funding retained by the State under subsection (c)(2) and providing a tentative plan for training all law enforcement officers employed by the State using available and anticipated funds.
   - **(3)** Not later than 180 days after December 27, 2022 , the Attorney General shall develop a portal through which the data required under paragraphs (1) and (2) may be collected and submitted.
   - **(4)**
     - **(A)** The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, relevant law enforcement agencies of States and units of local government, associations that represent individuals with mental or behavioral health diagnoses or individuals with disabilities, labor organizations, professional law enforcement organizations, local law enforcement labor and representative organizations, law enforcement trade associations, mental health and suicide prevention organizations, family advocacy organizations, and civil rights and civil liberties groups, shall establish—
-      - **(i)** reporting requirements on interactions in which de-escalation tactics and other techniques in curricula developed or identified under section 10381(n)(1) of this title are used by each law enforcement agency that receives funding under this section; and
+      - **(i)** reporting requirements on interactions in which de-escalation tactics and other techniques in curricula developed or identified under section 10381(n)(1) 1 of this title are used by each law enforcement agency that receives funding under this section; and
       - **(ii)** mechanisms for each law enforcement agency to submit such reports to the Department of Justice.
     - **(B)** The requirements developed under subparagraph (A) shall—
       - **(i)** specify—
@@ -84,7 +84,7 @@ generated_at: "2026-03-30T01:11:43.036Z"
   - **(2)** Each report under paragraph (1) shall include, at a minimum, information on—
     - **(A)** the number, amounts, and recipients of awards the Attorney General has made or intends to make using funds authorized under this section;
     - **(B)** the selection criteria the Attorney General has used or intends to use to select recipients of awards using funds authorized under this section;
-    - **(C)** the number of law enforcement officers of a State or unit of local government who were not able to receive training on the topics described in section 10381(n)(1)(A) of this title due to unavailability of funds and the amount of funds that would be required to complete the training; and
+    - **(C)** the number of law enforcement officers of a State or unit of local government who were not able to receive training on the topics described in section 10381(n)(1)(A) 1 of this title due to unavailability of funds and the amount of funds that would be required to complete the training; and
     - **(D)** the nature, frequency, and amount of information that the Attorney General has collected or intends to collect under subsection (d).
   - **(3)** A report under paragraph (1) shall not disclose the identities of individual law enforcement officers who received, or did not receive, training under a certified training program or course.
 - **(f)**
@@ -96,9 +96,9 @@ generated_at: "2026-03-30T01:11:43.036Z"
   - **(4)** Not more than 1 percent of the amount appropriated to carry out this section during any fiscal year shall be made available to conduct the study under paragraph (1).
 - **(g)**
   - **(1)** Not later than 3 years after the first grant award using funds authorized under this section, the Comptroller General of the United States shall review the grant program under this section and submit to Congress a report assessing the grant program, including—
-    - **(A)** the process for developing and identifying curricula under section 10381(n)(1) of this title , including the effectiveness of the consultation by the Attorney General with the agencies, associations, and organizations identified under section 10381(n)(1)(C) of this title ;
-    - **(B)** the certification of training programs and courses under section 10381(n)(2) of this title , including the development of the process for certification and its implementation;
-    - **(C)** the training of law enforcement personnel under section 10381(n)(3) of this title , including the geographic distribution of the agencies that employ the personnel receiving the training and the sizes of those agencies;
+    - **(A)** the process for developing and identifying curricula under section 10381(n)(1) 1 of this title, including the effectiveness of the consultation by the Attorney General with the agencies, associations, and organizations identified under section 10381(n)(1)(C) 1 of this title;
+    - **(B)** the certification of training programs and courses under section 10381(n)(2) 1 of this title, including the development of the process for certification and its implementation;
+    - **(C)** the training of law enforcement personnel under section 10381(n)(3) 1 of this title, including the geographic distribution of the agencies that employ the personnel receiving the training and the sizes of those agencies;
     - **(D)** the allocation of funds under subsection (c), including the geographic distribution of the agencies that receive funds and the degree to which both large and small agencies receive funds; and
     - **(E)** the amount of funding distributed to agencies compared with the amount appropriated under this section, the amount spent for training, and whether plans have been put in place by the recipient agencies to use unspent available funds.
   - **(2)** For the purposes of preparing the report under paragraph (1), the Comptroller General of the United States shall have direct access to the portal developed under subsection (d)(3).

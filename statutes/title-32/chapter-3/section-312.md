@@ -3,9 +3,9 @@ title: "Section 312 - Appointment oath"
 usc_title: 32
 usc_section: "312"
 chapter: 3
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "32 U.S.C. § 312"
-generated_at: "2026-03-30T01:11:41.681Z"
+generated_at: "2026-03-30T01:16:05.305Z"
 ---
 
 # § 312. Appointment oath

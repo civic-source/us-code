@@ -3,9 +3,9 @@ title: "Section 2164a - Rights of parents of children attending schools operated
 usc_title: 10
 usc_section: "2164a"
 chapter: 108
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 2164a"
-generated_at: "2026-03-30T01:10:00.634Z"
+generated_at: "2026-03-30T01:14:40.684Z"
 ---
 
 # § 2164a. Rights of parents of children attending schools operated by the Department of Defense Education Activity

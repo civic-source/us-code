@@ -3,9 +3,9 @@ title: "Section 273 - Organ procurement organizations"
 usc_title: 42
 usc_section: "273"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 273"
-generated_at: "2026-03-30T01:12:42.661Z"
+generated_at: "2026-03-30T01:18:07.130Z"
 ---
 
 # § 273. Organ procurement organizations
@@ -27,9 +27,10 @@ generated_at: "2026-03-30T01:12:42.661Z"
         - **(II)** rely on outcome and process performance measures that are based on empirical evidence, obtained through reasonable efforts, of organ donor potential and other related factors in each service area of qualified organ procurement organizations;
         - **(III)** use multiple outcome measures as part of the certification process; and
         - **(IV)** provide for a qualified organ procurement organization to appeal a decertification to the Secretary on substantive and procedural grounds; 2 2 So in original. The semicolon probably should be a comma.
-    - **(E)** has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
-    - **(F)** has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
-    - **(G)** has a board of directors or an advisory board which—
+    - **(E)** has procedures to obtain payment for non-renal organs provided to transplant centers,
+    - **(F)** has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
+    - **(G)** has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
+    - **(H)** has a board of directors or an advisory board which—
       - **(i)** is composed of—
         - **(I)** members who represent hospital administrators, intensive care or emergency room personnel, tissue banks, and voluntary health associations in its service area,
         - **(II)** members who represent the public residing in such area,

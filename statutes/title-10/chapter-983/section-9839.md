@@ -3,9 +3,9 @@ title: "Section 9839 - Settlement of accounts: oaths"
 usc_title: 10
 usc_section: "9839"
 chapter: 983
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 9839"
-generated_at: "2026-03-30T01:10:00.754Z"
+generated_at: "2026-03-30T01:14:40.770Z"
 ---
 
 # § 9839. Settlement of accounts: oaths

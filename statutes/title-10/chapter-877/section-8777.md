@@ -3,9 +3,9 @@ title: "Section 8777 - Quarters: Nurse Corps officers; assignment in hospitals"
 usc_title: 10
 usc_section: "8777"
 chapter: 877
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 8777"
-generated_at: "2026-03-30T01:10:00.739Z"
+generated_at: "2026-03-30T01:14:40.760Z"
 ---
 
 # § 8777. Quarters: Nurse Corps officers; assignment in hospitals

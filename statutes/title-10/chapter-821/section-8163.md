@@ -3,9 +3,9 @@ title: "Section 8163 - Naval shipyards"
 usc_title: 10
 usc_section: "8163"
 chapter: 821
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 8163"
-generated_at: "2026-03-30T01:10:00.726Z"
+generated_at: "2026-03-30T01:14:40.750Z"
 ---
 
 # § 8163. Naval shipyards

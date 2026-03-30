@@ -3,9 +3,9 @@ title: "Section 44741 - Approval of organization designation authorization unit 
 usc_title: 49
 usc_section: "44741"
 chapter: 447
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 44741"
-generated_at: "2026-03-30T01:12:54.714Z"
+generated_at: "2026-03-30T01:18:16.128Z"
 ---
 
 # § 44741. Approval of organization designation authorization unit members
@@ -45,9 +45,9 @@ generated_at: "2026-03-30T01:12:54.714Z"
     - **(B)** the names, responsibilities, qualifications, and example signature of each member of the ODA unit who performs an authorized function pursuant to a delegation by the Administrator under section 44702(d);
     - **(C)** training records for ODA unit members and ODA administrators; and
     - **(D)** any other data, applications, records, or manuals determined appropriate by the Administrator.
-  - **(2)** Not later than 90 days after the date of enactment of this section, and every 90 days thereafter through September 30, 2023 , the Administrator shall provide a briefing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the implementation and effects of this section, including—
+  - **(2)** The Administrator shall provide biannual briefings each fiscal year through September 30, 2028 to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the implementation and effects of this section, including—
     - **(A)** the Administration’s performance in completing reviews of individuals and approving or denying such individuals within the timeline required under subsection (b)(3);
-    - **(B)** for any individual rejected by the Administrator under subsection (b) during the preceding 90-day period, the reasoning or basis for such rejection; and
+    - **(B)** for any individual rejected by the Administrator under subsection (b) during the preceding 6-month period, the reasoning or basis for such rejection; and
     - **(C)** any resource, staffing, or other challenges within the Administration associated with implementation of this section.
 - **(g)**
   - **(1)** Not later than 30 days after the issuance of minimum qualifications under subsection (c), the Administrator shall initiate a review of the qualifications of each individual who on the date on which such minimum qualifications are issued is an ODA unit member of a holder of a type certificate for a transport airplane to ensure such individual meets the minimum qualifications issued by the Administrator under subsection (c).
@@ -60,4 +60,4 @@ generated_at: "2026-03-30T01:12:54.714Z"
 - **(i)**
   - **(1)** The definitions contained in section 44736(c) shall apply to this section.
   - **(2)** The term “transport airplane” means a transport category airplane designed for operation by an air carrier or foreign air carrier type-certificated with a passenger seating capacity of 30 or more or an all-cargo or combi derivative of such an airplane.
-- **(j)** There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2021 through 2023.
+- **(j)** There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2021 through 2028.

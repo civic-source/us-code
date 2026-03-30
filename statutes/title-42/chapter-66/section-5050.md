@@ -3,9 +3,9 @@ title: "Section 5050 - Coordination with other programs"
 usc_title: 42
 usc_section: "5050"
 chapter: 66
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 5050"
-generated_at: "2026-03-30T01:12:43.253Z"
+generated_at: "2026-03-30T01:18:07.566Z"
 ---
 
 # § 5050. Coordination with other programs

@@ -3,9 +3,9 @@ title: "Section 1665e - Consideration of ability to repay"
 usc_title: 15
 usc_section: "1665e"
 chapter: 41
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 1665e"
-generated_at: "2026-03-30T01:10:09.346Z"
+generated_at: "2026-03-30T01:14:59.547Z"
 ---
 
 # § 1665e. Consideration of ability to repay

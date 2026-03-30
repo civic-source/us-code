@@ -3,9 +3,9 @@ title: "Section 2568a - Damaged personal protective equipment: award to members 
 usc_title: 10
 usc_section: "2568a"
 chapter: 152
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 2568a"
-generated_at: "2026-03-30T01:10:00.654Z"
+generated_at: "2026-03-30T01:14:40.698Z"
 ---
 
 # § 2568a. Damaged personal protective equipment: award to members separating from the Armed Forces and veterans

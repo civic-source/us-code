@@ -3,9 +3,9 @@ title: "Section 543 - Regulation of rates"
 usc_title: 47
 usc_section: "543"
 chapter: 5
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "47 U.S.C. § 543"
-generated_at: "2026-03-30T01:12:50.072Z"
+generated_at: "2026-03-30T01:18:33.879Z"
 ---
 
 # § 543. Regulation of rates

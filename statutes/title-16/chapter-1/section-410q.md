@@ -3,9 +3,9 @@ title: "Section 410q - Exchange of lands"
 usc_title: 16
 usc_section: "410q"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 410q"
-generated_at: "2026-03-30T01:10:36.851Z"
+generated_at: "2026-03-30T01:15:30.873Z"
 ---
 
 # § 410q. Exchange of lands

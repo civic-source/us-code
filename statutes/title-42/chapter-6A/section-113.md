@@ -3,9 +3,9 @@ title: "Section 113 - Continuity of care"
 usc_title: 42
 usc_section: "113"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 113"
-generated_at: "2026-03-30T01:12:42.812Z"
+generated_at: "2026-03-30T01:18:07.237Z"
 ---
 
 # § 300gg–113. Continuity of care

@@ -1,14 +1,12 @@
 ---
-title: "Section 41740 - Joint proposals"
+title: "Section 41740 - Repealed. Pub. L. 118–63, title V, § 561(i) , May 16, 2024 , 138 Stat. 1216 ]"
 usc_title: 49
 usc_section: "41740"
 chapter: 417
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 41740"
-generated_at: "2026-03-30T01:12:54.702Z"
+generated_at: "2026-03-30T01:18:16.119Z"
 ---
 
-# § 41740. Joint proposals
-
-The Secretary of Transportation shall encourage the submission of joint proposals, including joint fares, by 2 or more air carriers for providing air service or air transportation under this subchapter through arrangements that maximize the service or transportation to and from major destinations beyond the hub.
+# [§ 41740. Repealed. Pub. L. 118–63, title V, § 561(i) , May 16, 2024 , 138 Stat. 1216 ]
 

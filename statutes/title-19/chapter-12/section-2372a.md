@@ -3,9 +3,9 @@ title: "Section 2372a - Transferred"
 usc_title: 19
 usc_section: "2372a"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "19 U.S.C. § 2372a"
-generated_at: "2026-03-30T01:10:52.701Z"
+generated_at: "2026-03-30T01:15:05.483Z"
 ---
 
 # § 2372a. Transferred

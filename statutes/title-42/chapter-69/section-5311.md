@@ -3,9 +3,9 @@ title: "Section 5311 - Remedies for noncompliance with community development req
 usc_title: 42
 usc_section: "5311"
 chapter: 69
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 5311"
-generated_at: "2026-03-30T01:12:43.274Z"
+generated_at: "2026-03-30T01:18:07.581Z"
 ---
 
 # § 5311. Remedies for noncompliance with community development requirements

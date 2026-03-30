@@ -3,9 +3,9 @@ title: "Section 1829c - Making online banking initiation legal and easy"
 usc_title: 12
 usc_section: "1829c"
 chapter: 16
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 1829c"
-generated_at: "2026-03-30T01:10:24.325Z"
+generated_at: "2026-03-30T01:14:52.638Z"
 ---
 
 # § 1829c. Making online banking initiation legal and easy

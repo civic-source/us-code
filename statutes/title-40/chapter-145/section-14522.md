@@ -3,9 +3,9 @@ title: "Section 14522 - Consent of States"
 usc_title: 40
 usc_section: "14522"
 chapter: 145
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "40 U.S.C. § 14522"
-generated_at: "2026-03-30T01:11:54.989Z"
+generated_at: "2026-03-30T01:16:41.142Z"
 ---
 
 # § 14522. Consent of States

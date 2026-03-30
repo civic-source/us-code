@@ -3,9 +3,9 @@ title: "Section 282 - Acceptance of membership by United States in International
 usc_title: 22
 usc_section: "282"
 chapter: 7
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 282"
-generated_at: "2026-03-30T01:11:13.413Z"
+generated_at: "2026-03-30T01:15:42.294Z"
 ---
 
 # § 282. Acceptance of membership by United States in International Finance Corporation

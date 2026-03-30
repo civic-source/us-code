@@ -3,9 +3,9 @@ title: "Section 6966d - Consumer recycling education and outreach grant program;
 usc_title: 42
 usc_section: "6966d"
 chapter: 82
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 6966d"
-generated_at: "2026-03-30T01:12:43.330Z"
+generated_at: "2026-03-30T01:18:07.621Z"
 ---
 
 # § 6966d. Consumer recycling education and outreach grant program; Federal procurement

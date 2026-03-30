@@ -3,9 +3,9 @@ title: "Section 1505 - Environmental review criteria"
 usc_title: 33
 usc_section: "1505"
 chapter: 29
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "33 U.S.C. § 1505"
-generated_at: "2026-03-30T01:11:45.435Z"
+generated_at: "2026-03-30T01:16:07.193Z"
 ---
 
 # § 1505. Environmental review criteria

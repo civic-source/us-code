@@ -3,9 +3,9 @@ title: "Section 45303 - Administrative provisions"
 usc_title: 49
 usc_section: "45303"
 chapter: 453
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 45303"
-generated_at: "2026-03-30T01:12:54.721Z"
+generated_at: "2026-03-30T01:18:16.137Z"
 ---
 
 # § 45303. Administrative provisions
@@ -39,7 +39,7 @@ generated_at: "2026-03-30T01:12:54.721Z"
     - **(C)** Not later than 60 days after completion of the review and receiving a determination that the model used is valid under subparagraph (B), the Administrator and the Chief Operating Officer shall submit to the Committee on Transportation and Infrastructure, the Committee on Appropriations, and the Committee on Ways and Means of the House of Representatives, and the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on Finance of the Senate a report describing the results of the calculations completed under subparagraph (A).
     - **(D)** Not later than 60 days after submission of the report required under subparagraph (C), the Administrator and Chief Operating Officer shall publish the initial report, including any revision thereto if required as a result of the validation process for the model.
   - **(2)**
-    - **(A)** Not later than March 31, 2019 , and biennially thereafter for 8 years, the Administrator and the Chief Operating Officer shall, using the validated model, complete the following calculations for each segment of air traffic services users for the most recent full fiscal year:
+    - **(A)** Not later than March 31, 2019 , and biennially thereafter for 14 years, the Administrator and the Chief Operating Officer shall, using the validated model, complete the following calculations for each segment of air traffic services users for the most recent full fiscal year:
       - **(i)** The total costs allocable to the use of the air traffic services for that segment.
       - **(ii)** The total revenues received from that segment.
     - **(B)** Not later than 15 days after completing the calculations under subparagraph (A), the Administrator and the Chief Operating Officer shall complete and submit to the Committee on Transportation and Infrastructure, the Committee on Appropriations, and the Committee on Ways and Means of the House of Representatives, and the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on Finance of the Senate a report containing the results of such calculations.

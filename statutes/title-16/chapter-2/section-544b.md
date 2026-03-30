@@ -3,9 +3,9 @@ title: "Section 544b - Establishment of scenic area"
 usc_title: 16
 usc_section: "544b"
 chapter: 2
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 544b"
-generated_at: "2026-03-30T01:10:36.965Z"
+generated_at: "2026-03-30T01:15:30.956Z"
 ---
 
 # § 544b. Establishment of scenic area

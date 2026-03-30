@@ -3,9 +3,9 @@ title: "Section 8755 - Statement of policy on political prisoners"
 usc_title: 22
 usc_section: "8755"
 chapter: 94
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 8755"
-generated_at: "2026-03-30T01:11:13.592Z"
+generated_at: "2026-03-30T01:15:42.435Z"
 ---
 
 # § 8755. Statement of policy on political prisoners

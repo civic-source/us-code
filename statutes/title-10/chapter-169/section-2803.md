@@ -3,9 +3,9 @@ title: "Section 2803 - Emergency construction"
 usc_title: 10
 usc_section: "2803"
 chapter: 169
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 2803"
-generated_at: "2026-03-30T01:10:00.668Z"
+generated_at: "2026-03-30T01:14:40.709Z"
 ---
 
 # § 2803. Emergency construction

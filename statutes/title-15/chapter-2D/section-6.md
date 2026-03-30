@@ -3,9 +3,9 @@ title: "Section 6 - Prohibited transactions by investment advisers"
 usc_title: 15
 usc_section: "6"
 chapter: 2
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-30T01:10:09.228Z"
+generated_at: "2026-03-30T01:14:59.469Z"
 ---
 
 # § 80b–6. Prohibited transactions by investment advisers

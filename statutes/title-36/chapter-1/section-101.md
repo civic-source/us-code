@@ -3,9 +3,9 @@ title: "Section 101 - American Heart Month"
 usc_title: 36
 usc_section: "101"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "36 U.S.C. § 101"
-generated_at: "2026-03-30T01:11:48.471Z"
+generated_at: "2026-03-30T01:16:51.420Z"
 ---
 
 # § 101. American Heart Month

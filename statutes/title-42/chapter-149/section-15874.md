@@ -3,9 +3,9 @@ title: "Section 15874 - Intermountain West Geothermal Consortium"
 usc_title: 42
 usc_section: "15874"
 chapter: 149
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 15874"
-generated_at: "2026-03-30T01:12:43.552Z"
+generated_at: "2026-03-30T01:18:07.788Z"
 ---
 
 # § 15874. Intermountain West Geothermal Consortium

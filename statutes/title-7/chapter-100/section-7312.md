@@ -3,9 +3,9 @@ title: "Section 7312 - Composition"
 usc_title: 7
 usc_section: "7312"
 chapter: 100
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 7312"
-generated_at: "2026-03-30T01:09:47.759Z"
+generated_at: "2026-03-30T01:14:35.693Z"
 ---
 
 # § 7312. Composition

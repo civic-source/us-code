@@ -3,9 +3,9 @@ title: "Section 5128 - Authorization of appropriations"
 usc_title: 49
 usc_section: "5128"
 chapter: 51
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 5128"
-generated_at: "2026-03-30T01:12:54.610Z"
+generated_at: "2026-03-30T01:18:16.047Z"
 ---
 
 # § 5128. Authorization of appropriations

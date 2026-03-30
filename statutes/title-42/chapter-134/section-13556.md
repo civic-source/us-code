@@ -3,9 +3,9 @@ title: "Section 13556 - Disadvantaged business enterprises"
 usc_title: 42
 usc_section: "13556"
 chapter: 134
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 13556"
-generated_at: "2026-03-30T01:12:43.536Z"
+generated_at: "2026-03-30T01:18:07.776Z"
 ---
 
 # § 13556. Disadvantaged business enterprises

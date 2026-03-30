@@ -3,9 +3,9 @@ title: "Section 624 - Entry of approval on land records"
 usc_title: 43
 usc_section: "624"
 chapter: 13
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "43 U.S.C. § 624"
-generated_at: "2026-03-30T01:12:04.176Z"
+generated_at: "2026-03-30T01:17:12.122Z"
 ---
 
 # § 624. Entry of approval on land records

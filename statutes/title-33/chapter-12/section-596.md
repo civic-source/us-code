@@ -3,9 +3,9 @@ title: "Section 596 - Repealed. Pub. L. 91–646, title III, § 306 , Jan. 2, 19
 usc_title: 33
 usc_section: "596"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "33 U.S.C. § 596"
-generated_at: "2026-03-30T01:11:45.379Z"
+generated_at: "2026-03-30T01:16:07.150Z"
 ---
 
 # § 596. Repealed. Pub. L. 91–646, title III, § 306 , Jan. 2, 1971 , 84 Stat. 1907

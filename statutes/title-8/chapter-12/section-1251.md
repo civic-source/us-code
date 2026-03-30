@@ -3,9 +3,9 @@ title: "Section 1251 - Transferred"
 usc_title: 8
 usc_section: "1251"
 chapter: 12
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "8 U.S.C. § 1251"
-generated_at: "2026-03-30T01:09:29.216Z"
+generated_at: "2026-03-30T01:14:44.259Z"
 ---
 
 # § 1251. Transferred

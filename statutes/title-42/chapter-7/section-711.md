@@ -3,9 +3,9 @@ title: "Section 711 - Maternal, infant, and early childhood home visiting progra
 usc_title: 42
 usc_section: "711"
 chapter: 7
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 711"
-generated_at: "2026-03-30T01:12:42.879Z"
+generated_at: "2026-03-30T01:18:07.286Z"
 ---
 
 # § 711. Maternal, infant, and early childhood home visiting programs
@@ -112,7 +112,7 @@ generated_at: "2026-03-30T01:12:42.879Z"
         - **(II)** The model conforms to a promising and new approach to achieving the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), has been developed or identified by a national organization or institution of higher education, and will be evaluated through well-designed and rigorous process.
       - **(ii)** An eligible entity shall use not more than 25 percent of the amount of the grant paid to the entity for a fiscal year for purposes of conducting a program using the service delivery model described in clause (i)(II).
       - **(iii)** The Secretary shall establish criteria for evidence of effectiveness of the service delivery models and shall ensure that the process for establishing the criteria is transparent and provides the opportunity for public comment.
-    - **(B)** The program uses the grant to provide or support targeted, intensive home visiting services for the populations described in paragraph (5) 3 3 So in original. Probably should be “paragraph (4)”. .
+    - **(B)** The program uses the grant to provide or support targeted, intensive home visiting services for the populations described in paragraph (5).
     - **(C)**
       - **(i)** The program adheres to a clear, consistent model that satisfies the requirements of being grounded in empirically-based knowledge related to home visiting and linked to the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B) related to the purposes of the program.
       - **(ii)** The program employs well-trained and competent staff, as demonstrated by education or training, such as nurses, social workers, educators, child development specialists, or other well-trained and competent staff, and provides ongoing and specific training on the model being delivered.

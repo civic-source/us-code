@@ -3,9 +3,9 @@ title: "Section 290b - Establishment and duties of Foundation"
 usc_title: 42
 usc_section: "290b"
 chapter: 6
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 290b"
-generated_at: "2026-03-30T01:12:42.705Z"
+generated_at: "2026-03-30T01:18:07.160Z"
 ---
 
 # § 290b. Establishment and duties of Foundation

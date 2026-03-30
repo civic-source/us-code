@@ -3,9 +3,9 @@ title: "Section 3602 - Office of Electronic Government"
 usc_title: 44
 usc_section: "3602"
 chapter: 36
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "44 U.S.C. § 3602"
-generated_at: "2026-03-30T01:12:08.476Z"
+generated_at: "2026-03-30T01:16:58.481Z"
 ---
 
 # § 3602. Office of Electronic Government

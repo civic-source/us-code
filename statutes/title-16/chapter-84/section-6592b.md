@@ -3,9 +3,9 @@ title: "Section 6592b - Establishment of fuel breaks in forests and other wildla
 usc_title: 16
 usc_section: "6592b"
 chapter: 84
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "16 U.S.C. § 6592b"
-generated_at: "2026-03-30T01:10:37.158Z"
+generated_at: "2026-03-30T01:15:31.105Z"
 ---
 
 # § 6592b. Establishment of fuel breaks in forests and other wildland vegetation

@@ -3,9 +3,9 @@ title: "Section 2463 - Guidelines and procedures for use of civilian employees t
 usc_title: 10
 usc_section: "2463"
 chapter: 146
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 2463"
-generated_at: "2026-03-30T01:10:00.650Z"
+generated_at: "2026-03-30T01:14:40.694Z"
 ---
 
 # § 2463. Guidelines and procedures for use of civilian employees to perform Department of Defense functions

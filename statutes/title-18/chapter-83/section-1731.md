@@ -3,9 +3,9 @@ title: "Section 1731 - Vehicles falsely labeled as carriers"
 usc_title: 18
 usc_section: "1731"
 chapter: 83
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 1731"
-generated_at: "2026-03-30T01:10:29.322Z"
+generated_at: "2026-03-30T01:15:03.817Z"
 ---
 
 # § 1731. Vehicles falsely labeled as carriers

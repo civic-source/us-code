@@ -3,9 +3,9 @@ title: "Section 909 - Art. 109. Property other than military property of United 
 usc_title: 10
 usc_section: "909"
 chapter: 47
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 909"
-generated_at: "2026-03-30T01:10:00.570Z"
+generated_at: "2026-03-30T01:14:40.634Z"
 ---
 
 # § 909. Art. 109. Property other than military property of United States—Waste, spoilage, or destruction

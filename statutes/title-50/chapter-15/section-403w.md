@@ -3,9 +3,9 @@ title: "Section 403w - Transferred"
 usc_title: 50
 usc_section: "403w"
 chapter: 15
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 403w"
-generated_at: "2026-03-30T01:13:12.943Z"
+generated_at: "2026-03-30T01:18:12.746Z"
 ---
 
 # § 403w. Transferred

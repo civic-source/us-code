@@ -3,9 +3,9 @@ title: "Section 292 - Solicitation of employment and receipt of unapproved fees 
 usc_title: 18
 usc_section: "292"
 chapter: 15
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "18 U.S.C. § 292"
-generated_at: "2026-03-30T01:10:29.284Z"
+generated_at: "2026-03-30T01:15:03.794Z"
 ---
 
 # § 292. Solicitation of employment and receipt of unapproved fees concerning Federal employees’ compensation

@@ -3,9 +3,9 @@ title: "Section 507 - Application to other property"
 usc_title: 36
 usc_section: "507"
 chapter: 5
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "36 U.S.C. § 507"
-generated_at: "2026-03-30T01:11:48.472Z"
+generated_at: "2026-03-30T01:16:51.421Z"
 ---
 
 # § 507. Application to other property

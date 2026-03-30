@@ -3,9 +3,9 @@ title: "Section 275 - Transition"
 usc_title: 6
 usc_section: "275"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "6 U.S.C. § 275"
-generated_at: "2026-03-30T01:09:22.864Z"
+generated_at: "2026-03-30T01:14:36.299Z"
 ---
 
 # § 275. Transition

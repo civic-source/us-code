@@ -3,16 +3,16 @@ title: "Section 46301 - Civil penalties"
 usc_title: 49
 usc_section: "46301"
 chapter: 463
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 46301"
-generated_at: "2026-03-30T01:12:54.722Z"
+generated_at: "2026-03-30T01:18:16.137Z"
 ---
 
 # § 46301. Civil penalties
 
 - **(a)**
-  - **(1)** A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
-    - **(A)** chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title ;
+  - **(1)** A person is liable to the United States Government for a civil penalty of not more than $75,000 (or $1,100 if the person is an individual or small business concern) for violating—
+    - **(A)** chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(a)(22) (including any assurance made under such section), section 47107(b) (including any assurance made under such section), or section 47133 of this title ;
     - **(B)** a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
     - **(C)** any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title; or
     - **(D)** a regulation of the United States Postal Service under this part.
@@ -35,6 +35,7 @@ generated_at: "2026-03-30T01:12:54.722Z"
   - **(7)**
     - **(A)** The amount of a civil penalty assessed under this section for a violation of section 41705 that involves damage to a passenger’s wheelchair or other mobility aid or injury to a passenger with a disability may be increased above the otherwise applicable maximum amount under this section for a violation of section 41705 to an amount not to exceed 3 times the maximum penalty otherwise allowed.
     - **(B)** Notwithstanding paragraph (2), a separate violation of section 41705 occurs for each act of discrimination prohibited by that section.
+  - **(8)** Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 47107(a)(22) (including any assurance made under such section) committed by a person, including if the person is an individual or a small business concern, shall be $5,000 for each day that the person is in violation of that section.
 - **(b)**
   - **(1)** A passenger may not tamper with, disable, or destroy a smoke alarm device located in a lavatory on an aircraft providing air transportation or intrastate air transportation.
   - **(2)** An individual violating this subsection is liable to the Government for a civil penalty of not more than $2,000.
@@ -51,13 +52,14 @@ generated_at: "2026-03-30T01:12:54.722Z"
     - **(B)** “mechanic” means an individual who holds a mechanic certificate issued under part 65 of title 14, Code of Federal Regulations.
     - **(C)** “pilot” means an individual who holds a pilot certificate issued under part 61 of title 14, Code of Federal Regulations.
     - **(D)** “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
-  - **(2)** The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary of Transportation under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator of the Federal Aviation Administration shall give written notice of the finding of a violation and the penalty.
+  - **(2)** The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 42121, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary of Transportation under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator of the Federal Aviation Administration shall give written notice of the finding of a violation and the penalty.
   - **(3)** In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator of the Federal Aviation Administration under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
   - **(4)** Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Secretary of Homeland Security or Administrator of the Federal Aviation Administration initiates if—
     - **(A)** the amount in controversy is more than—
-      - **(i)** $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
-      - **(ii)** $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
-      - **(iii)** $50,000 if the violation was committed by an individual or small business concern on or after that date;
+      - **(i)** $400,000 if the violation was committed by any person other than an individual or small business concern before the date of enactment of the FAA Reauthorization Act of 2024;
+      - **(ii)** $50,000 if the violation was committed by an individual or small business concern before the date of enactment of the FAA Reauthorization Act of 2024;
+      - **(iii)** $1,200,000 if the violation was committed by a person other than an individual or small business concern on or after the date of enactment of the FAA Reauthorization Act of 2024; or
+      - **(iv)** $100,000 if the violation was committed by an individual on or after the date of enactment of the FAA Reauthorization Act of 2024;
     - **(B)** the action is in rem or another action in rem based on the same violation has been brought;
     - **(C)** the action involves an aircraft subject to a lien that has been seized by the Government; or
     - **(D)** another action has been brought for an injunction based on the same violation.
@@ -79,9 +81,10 @@ generated_at: "2026-03-30T01:12:54.722Z"
       - **(ii)** a civil penalty may be compromised as provided under subsection (f); and
       - **(iii)** judicial review of any order assessing a civil penalty may be obtained only pursuant to section 46110 of this title .
   - **(8)** The maximum civil penalty the Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, or Board may impose under this subsection is—
-    - **(A)** $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
-    - **(B)** $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
-    - **(C)** $50,000 if the violation was committed by an individual or small business concern on or after that date.
+    - **(A)** $400,000 if the violation was committed by a person other than an individual or small business concern before the date of enactment of the FAA Reauthorization Act of 2024;
+    - **(B)** $50,000 if the violation was committed by an individual or small business concern before the date of enactment of the FAA Reauthorization Act of 2024;
+    - **(C)** $1,200,000 if the violation was committed by a person other than an individual or small business concern on or after the date of enactment of the FAA Reauthorization Act of 2024; or
+    - **(D)** $100,000 if the violation was committed by an individual on or after the date of enactment of the FAA Reauthorization Act of 2024.
   - **(9)** This subsection applies only to a violation occurring after August 25, 1992 .
 - **(e)** In determining the amount of a civil penalty under subsection (a)(3) of this section related to transportation of hazardous material, the Secretary of Transportation shall consider—
   - **(1)** the nature, circumstances, extent, and gravity of the violation;

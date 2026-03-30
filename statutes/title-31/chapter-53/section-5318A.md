@@ -3,9 +3,9 @@ title: "Section 5318A - Special measures for jurisdictions, financial institutio
 usc_title: 31
 usc_section: "5318A"
 chapter: 53
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "31 U.S.C. § 5318A"
-generated_at: "2026-03-30T01:11:44.045Z"
+generated_at: "2026-03-30T01:16:35.473Z"
 ---
 
 # § 5318A. Special measures for jurisdictions, financial institutions, international transactions, or types of accounts of primary money laundering concern

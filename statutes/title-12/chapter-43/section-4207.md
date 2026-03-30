@@ -3,9 +3,9 @@ title: "Section 4207 - Unreviewed declarations; petition to pursue action as pri
 usc_title: 12
 usc_section: "4207"
 chapter: 43
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 4207"
-generated_at: "2026-03-30T01:10:24.395Z"
+generated_at: "2026-03-30T01:14:52.689Z"
 ---
 
 # § 4207. Unreviewed declarations; petition to pursue action as private contractor

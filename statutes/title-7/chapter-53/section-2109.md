@@ -3,9 +3,9 @@ title: "Section 2109 - Provisions applicable to amendments"
 usc_title: 7
 usc_section: "2109"
 chapter: 53
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 2109"
-generated_at: "2026-03-30T01:09:47.678Z"
+generated_at: "2026-03-30T01:14:35.629Z"
 ---
 
 # § 2109. Provisions applicable to amendments

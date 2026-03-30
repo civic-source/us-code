@@ -3,9 +3,9 @@ title: "Section 126 - Transferability of Federal-aid highway funds"
 usc_title: 23
 usc_section: "126"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "23 U.S.C. § 126"
-generated_at: "2026-03-30T01:11:21.546Z"
+generated_at: "2026-03-30T01:15:39.078Z"
 ---
 
 # § 126. Transferability of Federal-aid highway funds

@@ -3,9 +3,9 @@ title: "Section 2417 - Renumbered § 4961]"
 usc_title: 10
 usc_section: "2417"
 chapter: 142
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 2417"
-generated_at: "2026-03-30T01:10:00.649Z"
+generated_at: "2026-03-30T01:14:40.694Z"
 ---
 
 # [§ 2417. Renumbered § 4961]

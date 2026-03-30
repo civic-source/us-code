@@ -3,9 +3,9 @@ title: "Section 1843 - Information on employment conditions"
 usc_title: 29
 usc_section: "1843"
 chapter: 20
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "29 U.S.C. § 1843"
-generated_at: "2026-03-30T01:11:31.649Z"
+generated_at: "2026-03-30T01:15:48.795Z"
 ---
 
 # § 1843. Information on employment conditions

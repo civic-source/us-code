@@ -3,9 +3,9 @@ title: "Section 1 - Incentives for self-testing and self-correction"
 usc_title: 42
 usc_section: "1"
 chapter: 45
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:12:43.225Z"
+generated_at: "2026-03-30T01:18:07.544Z"
 ---
 
 # § 3614–1. Incentives for self-testing and self-correction

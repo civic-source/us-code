@@ -3,9 +3,9 @@ title: "Section 289 - Dividends and surplus funds of reserve banks; transfer for
 usc_title: 12
 usc_section: "289"
 chapter: 3
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "12 U.S.C. § 289"
-generated_at: "2026-03-30T01:10:24.198Z"
+generated_at: "2026-03-30T01:14:52.545Z"
 ---
 
 # § 289. Dividends and surplus funds of reserve banks; transfer for fiscal year 2000

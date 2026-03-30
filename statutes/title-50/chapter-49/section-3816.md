@@ -3,9 +3,9 @@ title: "Section 3816 - Utilization of industry"
 usc_title: 50
 usc_section: "3816"
 chapter: 49
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "50 U.S.C. § 3816"
-generated_at: "2026-03-30T01:13:13.019Z"
+generated_at: "2026-03-30T01:18:12.817Z"
 ---
 
 # § 3816. Utilization of industry

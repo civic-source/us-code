@@ -3,9 +3,9 @@ title: "Section 2669 - Printing and binding outside continental United States; s
 usc_title: 22
 usc_section: "2669"
 chapter: 38
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "22 U.S.C. § 2669"
-generated_at: "2026-03-30T01:11:13.488Z"
+generated_at: "2026-03-30T01:15:42.352Z"
 ---
 
 # § 2669. Printing and binding outside continental United States; settlement and payment of claims by foreign governments; employment of aliens; official functions and courtesies; purchase of uniforms; payment of tort claims; payment of assumed obligations in Germany; telecommunications services; security; special purpose passenger motor vehicles; pay obligations arising under international conventions or contracts; personal service contracts

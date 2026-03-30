@@ -3,9 +3,9 @@ title: "Section 21052 - Report"
 usc_title: 52
 usc_section: "21052"
 chapter: 209
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "52 U.S.C. § 21052"
-generated_at: "2026-03-30T01:13:25.520Z"
+generated_at: "2026-03-30T01:18:47.353Z"
 ---
 
 # § 21052. Report

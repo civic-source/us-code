@@ -3,9 +3,9 @@ title: "Section 3547 - Special projects"
 usc_title: 42
 usc_section: "3547"
 chapter: 44
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 3547"
-generated_at: "2026-03-30T01:12:43.223Z"
+generated_at: "2026-03-30T01:18:07.542Z"
 ---
 
 # § 3547. Special projects

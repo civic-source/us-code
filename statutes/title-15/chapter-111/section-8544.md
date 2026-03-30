@@ -3,9 +3,9 @@ title: "Section 8544 - Visiting fellows at National Weather Service"
 usc_title: 15
 usc_section: "8544"
 chapter: 111
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 8544"
-generated_at: "2026-03-30T01:10:09.484Z"
+generated_at: "2026-03-30T01:14:59.633Z"
 ---
 
 # § 8544. Visiting fellows at National Weather Service

@@ -3,9 +3,9 @@ title: "Section 688a - Authority to order to active duty in high-demand, low-den
 usc_title: 10
 usc_section: "688a"
 chapter: 39
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 688a"
-generated_at: "2026-03-30T01:10:00.559Z"
+generated_at: "2026-03-30T01:14:40.625Z"
 ---
 
 # § 688a. Authority to order to active duty in high-demand, low-density assignments

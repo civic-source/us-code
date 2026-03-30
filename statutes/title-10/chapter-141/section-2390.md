@@ -3,9 +3,9 @@ title: "Section 2390 - Prohibition on the sale of certain defense articles from 
 usc_title: 10
 usc_section: "2390"
 chapter: 141
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "10 U.S.C. § 2390"
-generated_at: "2026-03-30T01:10:00.648Z"
+generated_at: "2026-03-30T01:14:40.693Z"
 ---
 
 # § 2390. Prohibition on the sale of certain defense articles from the stocks of the Department of Defense

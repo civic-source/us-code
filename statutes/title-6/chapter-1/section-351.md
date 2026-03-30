@@ -3,9 +3,9 @@ title: "Section 351 - Employee engagement"
 usc_title: 6
 usc_section: "351"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "6 U.S.C. § 351"
-generated_at: "2026-03-30T01:09:22.872Z"
+generated_at: "2026-03-30T01:14:36.306Z"
 ---
 
 # § 351. Employee engagement

@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T01:11:37.829Z"
+generated_at: "2026-03-30T01:16:03.319Z"
 ---
 
 # § 401. Qualified pension, profit-sharing, and stock bonus plans
@@ -575,7 +575,7 @@ generated_at: "2026-03-30T01:11:37.829Z"
       - **(ii)** The election treated as having been made under clause (i) shall cease to apply with respect to any employee if such employee makes an affirmative election—
         - **(I)** to not have such contributions made, or
         - **(II)** to make elective contributions at a level specified in such affirmative election.
-      - **(iii)** For purposes of this subparagraph, the term ‘qualified percentage’ means, with respect to any employee, any percentage determined under the arrangement if such percentage is applied uniformly and is not less than 3 or more than 15 percent.
+      - **(iii)** For purposes of this subparagraph, the term “qualified percentage” means, with respect to any employee, any percentage determined under the arrangement if such percentage is applied uniformly and is not less than 3 or more than 15 percent.
     - **(D)**
       - **(i)** The requirements of this subparagraph are met if, under the arrangement—
         - **(I)** the only contributions which may be made are elective contributions of employees described in subparagraph (C), and

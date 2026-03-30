@@ -3,9 +3,9 @@ title: "Section 11001 - Establishment of State commissions, planning districts, 
 usc_title: 42
 usc_section: "11001"
 chapter: 116
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "42 U.S.C. § 11001"
-generated_at: "2026-03-30T01:12:43.470Z"
+generated_at: "2026-03-30T01:18:07.727Z"
 ---
 
 # § 11001. Establishment of State commissions, planning districts, and local committees

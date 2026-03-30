@@ -3,9 +3,9 @@ title: "Section 1483 - Foreign government ships; immunity"
 usc_title: 33
 usc_section: "1483"
 chapter: 28
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "33 U.S.C. § 1483"
-generated_at: "2026-03-30T01:11:45.434Z"
+generated_at: "2026-03-30T01:16:07.192Z"
 ---
 
 # § 1483. Foreign government ships; immunity

@@ -3,9 +3,9 @@ title: "Section 42121 - Protection of employees providing air safety information
 usc_title: 49
 usc_section: "42121"
 chapter: 421
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 42121"
-generated_at: "2026-03-30T01:12:54.704Z"
+generated_at: "2026-03-30T01:18:16.120Z"
 ---
 
 # § 42121. Protection of employees providing air safety information
@@ -34,7 +34,9 @@ generated_at: "2026-03-30T01:12:54.704Z"
   - **(4)**
     - **(A)** Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Review shall conform to chapter 7 of title 5, United States Code. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
     - **(B)** An order of the Secretary of Labor with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
-  - **(5)** Whenever any person has failed to comply with an order issued under paragraph (3), the Secretary of Labor may file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief and compensatory damages.
+  - **(5)** Whenever any person has failed to comply with an order issued under paragraph (3), the Secretary of Labor and the Administrator of the Federal Aviation Administration shall consult with each other to determine the most appropriate action to be taken, in which—
+    - **(A)** the Secretary of Labor may file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order, for which, in actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, injunctive relief and compensatory damages; and
+    - **(B)** the Administrator of the Federal Aviation Administration may assess a civil penalty pursuant to section 46301.
   - **(6)**
     - **(A)** A person on whose behalf an order was issued under paragraph (3) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
     - **(B)** The court, in issuing any final order under this paragraph, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award is appropriate.

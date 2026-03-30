@@ -3,9 +3,9 @@ title: "Section 9552 - Business Centers"
 usc_title: 15
 usc_section: "9552"
 chapter: 120
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 9552"
-generated_at: "2026-03-30T01:10:09.511Z"
+generated_at: "2026-03-30T01:14:59.650Z"
 ---
 
 # § 9552. Business Centers

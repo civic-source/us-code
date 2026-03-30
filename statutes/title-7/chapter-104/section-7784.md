@@ -3,9 +3,9 @@ title: "Section 7784 - Agreements"
 usc_title: 7
 usc_section: "7784"
 chapter: 104
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "7 U.S.C. § 7784"
-generated_at: "2026-03-30T01:09:47.775Z"
+generated_at: "2026-03-30T01:14:35.708Z"
 ---
 
 # § 7784. Agreements

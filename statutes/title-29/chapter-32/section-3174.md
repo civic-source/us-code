@@ -3,9 +3,9 @@ title: "Section 3174 - Use of funds for employment and training activities"
 usc_title: 29
 usc_section: "3174"
 chapter: 32
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "29 U.S.C. § 3174"
-generated_at: "2026-03-30T01:11:31.665Z"
+generated_at: "2026-03-30T01:15:48.808Z"
 ---
 
 # § 3174. Use of funds for employment and training activities

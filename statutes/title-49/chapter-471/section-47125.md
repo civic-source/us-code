@@ -3,9 +3,9 @@ title: "Section 47125 - Conveyances of United States Government land"
 usc_title: 49
 usc_section: "47125"
 chapter: 471
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 47125"
-generated_at: "2026-03-30T01:12:54.731Z"
+generated_at: "2026-03-30T01:18:16.145Z"
 ---
 
 # § 47125. Conveyances of United States Government land
@@ -15,3 +15,14 @@ generated_at: "2026-03-30T01:12:54.731Z"
   - **(1)** a national park, national monument, national recreation area, or similar area under the administration of the National Park Service;
   - **(2)** a unit of the National Wildlife Refuge System or similar area under the jurisdiction of the United States Fish and Wildlife Service; or
   - **(3)** a national forest or Indian reservation.
+- **(c)**
+  - **(1)** Subject to paragraph (2), the Secretary may grant to an airport, city, or county a waiver of any of the terms, conditions, reservations, or restrictions contained in a deed under which the United States conveyed to the airport, city, or county an interest in real property for airport purposes pursuant to section 16 of the Federal Airport Act ( 60 Stat. 179 ), section 23 of the Airport and Airway Development Act of 1970 ( 84 Stat. 232 ), or this section.
+  - **(2)** Any waiver granted by the Secretary pursuant to paragraph (1) shall be subject to the following conditions:
+    - **(A)** The applicable airport, city, county, or other political subdivision shall agree that in conveying any interest in the real property which the United States conveyed to the airport, city, or county, the airport, city, or county will receive consideration for such interest that is equal to its current fair market value.
+    - **(B)** Any consideration received by the airport, city, or county under subparagraph (A) shall be used exclusively for the development, improvement, operation, or maintenance of a public airport by the airport, city, or county.
+    - **(C)** Such waiver—
+      - **(i)** will not significantly impair the aeronautical purpose of an airport;
+      - **(ii)** will not result in the permanent closure of an airport (unless the Secretary determines that the waiver will directly facilitate the construction of a replacement airport); or
+      - **(iii)** is necessary to protect or advance the civil aviation interests of the United States.
+    - **(D)** Any other conditions required by the Secretary.
+  - **(3)** The Secretary shall include a list and description of each waiver granted pursuant to paragraph (1) in the plan required under section 47103.

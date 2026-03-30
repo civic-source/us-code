@@ -3,9 +3,9 @@ title: "Section 6208 - Limitations on judicial review"
 usc_title: 15
 usc_section: "6208"
 chapter: 88
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "15 U.S.C. § 6208"
-generated_at: "2026-03-30T01:10:09.450Z"
+generated_at: "2026-03-30T01:14:59.611Z"
 ---
 
 # § 6208. Limitations on judicial review

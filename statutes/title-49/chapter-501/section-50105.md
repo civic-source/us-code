@@ -3,12 +3,12 @@ title: "Section 50105 - Fraudulent use of “Made in America” label"
 usc_title: 49
 usc_section: "50105"
 chapter: 501
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "49 U.S.C. § 50105"
-generated_at: "2026-03-30T01:12:54.739Z"
+generated_at: "2026-03-30T01:18:16.153Z"
 ---
 
 # § 50105. Fraudulent use of “Made in America” label
 
-If the Secretary of Transportation decides that a person intentionally affixed a “Made in America” label to goods sold in or shipped to the United States that are not made in the United States, the Secretary shall declare the person ineligible, for not less than 3 nor more than 5 years, to receive a contract or grant from the United States Government related to a contract made under section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title or subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990 ( Public Law 101–508 , 104 Stat. 1388–353 ). The Secretary may bring a civil action to enforce this section in any district court of the United States.
+If the Secretary of Transportation decides that a person intentionally affixed a “Made in America” label to goods sold in or shipped to the United States that are not made in the United States, the Secretary shall declare the person ineligible, for not less than 3 nor more than 5 years, to receive a contract or grant from the United States Government related to a contract made under section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471, or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title or subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990 ( Public Law 101–508 , 104 Stat. 1388–353 ). The Secretary may bring a civil action to enforce this section in any district court of the United States.
 

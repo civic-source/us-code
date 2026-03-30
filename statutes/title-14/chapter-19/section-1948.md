@@ -3,9 +3,9 @@ title: "Section 1948 - Marine safety curriculum"
 usc_title: 14
 usc_section: "1948"
 chapter: 19
-current_through: "PL 118-59"
+current_through: "PL 118-64"
 classification: "14 U.S.C. § 1948"
-generated_at: "2026-03-30T01:10:03.452Z"
+generated_at: "2026-03-30T01:14:50.353Z"
 ---
 
 # § 1948. Marine safety curriculum
