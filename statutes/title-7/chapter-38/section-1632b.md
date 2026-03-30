@@ -3,9 +3,9 @@ title: "Section 1632b - Agriculture Innovation Center Demonstration Program"
 usc_title: 7
 usc_section: "1632b"
 chapter: 38
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 1632b"
-generated_at: "2026-03-30T01:52:47.501Z"
+generated_at: "2026-03-30T01:55:52.374Z"
 ---
 
 # § 1632b. Agriculture Innovation Center Demonstration Program

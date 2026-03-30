@@ -3,9 +3,9 @@ title: "Section 284dd - Twentieth replenishment"
 usc_title: 22
 usc_section: "284dd"
 chapter: 7
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 284dd"
-generated_at: "2026-03-30T01:53:29.209Z"
+generated_at: "2026-03-30T01:56:51.840Z"
 ---
 
 # § 284dd. Twentieth replenishment

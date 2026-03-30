@@ -3,9 +3,9 @@ title: "Section 1606 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1606"
 chapter: 19
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "29 U.S.C. § 1606"
-generated_at: "2026-03-30T01:53:33.009Z"
+generated_at: "2026-03-30T01:56:56.290Z"
 ---
 
 # §§ 1601 to 1606. Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug. 7, 1998 , 112 Stat. 1059

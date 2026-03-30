@@ -3,9 +3,9 @@ title: "Section 6978 - Payments"
 usc_title: 42
 usc_section: "6978"
 chapter: 82
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 6978"
-generated_at: "2026-03-30T01:54:58.492Z"
+generated_at: "2026-03-30T01:57:35.529Z"
 ---
 
 # § 6978. Payments

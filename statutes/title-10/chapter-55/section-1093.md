@@ -3,9 +3,9 @@ title: "Section 1093 - Performance of abortions: restrictions"
 usc_title: 10
 usc_section: "1093"
 chapter: 55
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 1093"
-generated_at: "2026-03-30T01:52:52.444Z"
+generated_at: "2026-03-30T01:56:18.378Z"
 ---
 
 # § 1093. Performance of abortions: restrictions

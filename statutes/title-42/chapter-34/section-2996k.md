@@ -3,9 +3,9 @@ title: "Section 2996k - Coordination"
 usc_title: 42
 usc_section: "2996k"
 chapter: 34
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 2996k"
-generated_at: "2026-03-30T01:54:58.378Z"
+generated_at: "2026-03-30T01:57:35.423Z"
 ---
 
 # § 2996k. Coordination

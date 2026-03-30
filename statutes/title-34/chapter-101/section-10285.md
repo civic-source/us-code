@@ -3,9 +3,9 @@ title: "Section 10285 - Administrative provisions"
 usc_title: 34
 usc_section: "10285"
 chapter: 101
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "34 U.S.C. § 10285"
-generated_at: "2026-03-30T01:53:55.365Z"
+generated_at: "2026-03-30T01:57:09.495Z"
 ---
 
 # § 10285. Administrative provisions

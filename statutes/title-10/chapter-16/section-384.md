@@ -3,9 +3,9 @@ title: "Section 384 - Department of Defense security cooperation workforce devel
 usc_title: 10
 usc_section: "384"
 chapter: 16
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 384"
-generated_at: "2026-03-30T01:52:52.406Z"
+generated_at: "2026-03-30T01:56:18.329Z"
 ---
 
 # § 384. Department of Defense security cooperation workforce development

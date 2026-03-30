@@ -3,9 +3,9 @@ title: "Section 1419 - Preschool grants"
 usc_title: 20
 usc_section: "1419"
 chapter: 33
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "20 U.S.C. § 1419"
-generated_at: "2026-03-30T01:53:18.007Z"
+generated_at: "2026-03-30T01:56:43.201Z"
 ---
 
 # § 1419. Preschool grants

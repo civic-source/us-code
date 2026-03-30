@@ -3,9 +3,9 @@ title: "Section 1161 - Payment of disability compensation in disability severanc
 usc_title: 38
 usc_section: "1161"
 chapter: 11
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "38 U.S.C. § 1161"
-generated_at: "2026-03-30T01:54:16.071Z"
+generated_at: "2026-03-30T01:57:15.684Z"
 ---
 
 # § 1161. Payment of disability compensation in disability severance cases

@@ -3,9 +3,9 @@ title: "Section 791a - Short title"
 usc_title: 16
 usc_section: "791a"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 791a"
-generated_at: "2026-03-30T01:53:13.237Z"
+generated_at: "2026-03-30T01:56:36.342Z"
 ---
 
 # § 791a. Short title

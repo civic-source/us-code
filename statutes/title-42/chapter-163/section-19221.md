@@ -3,9 +3,9 @@ title: "Section 19221 - Strategy and report on the nation’s economic security,
 usc_title: 42
 usc_section: "19221"
 chapter: 163
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 19221"
-generated_at: "2026-03-30T01:54:58.738Z"
+generated_at: "2026-03-30T01:57:35.788Z"
 ---
 
 # § 19221. Strategy and report on the nation’s economic security, science, research, and innovation to support the national security strategy

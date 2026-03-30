@@ -3,9 +3,9 @@ title: "Section 5367 - Affiliations"
 usc_title: 12
 usc_section: "5367"
 chapter: 53
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 5367"
-generated_at: "2026-03-30T01:52:58.421Z"
+generated_at: "2026-03-30T01:56:28.302Z"
 ---
 
 # § 5367. Affiliations

@@ -3,9 +3,9 @@ title: "Section 1461 - Rules and regulations governing inspection and copying"
 usc_title: 43
 usc_section: "1461"
 chapter: 31
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "43 U.S.C. § 1461"
-generated_at: "2026-03-30T01:54:29.427Z"
+generated_at: "2026-03-30T01:57:18.924Z"
 ---
 
 # § 1461. Rules and regulations governing inspection and copying

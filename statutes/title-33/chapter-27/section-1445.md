@@ -3,9 +3,9 @@ title: "Section 1445 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1445"
 chapter: 27
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 1445"
-generated_at: "2026-03-30T01:54:02.324Z"
+generated_at: "2026-03-30T01:57:08.435Z"
 ---
 
 # § 1445. Authorization of appropriations

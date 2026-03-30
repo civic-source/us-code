@@ -3,9 +3,9 @@ title: "Section 4903 - Definitions"
 usc_title: 16
 usc_section: "4903"
 chapter: 69
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 4903"
-generated_at: "2026-03-30T01:53:13.334Z"
+generated_at: "2026-03-30T01:56:36.436Z"
 ---
 
 # § 4903. Definitions

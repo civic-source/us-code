@@ -3,9 +3,9 @@ title: "Section 1981 - Findings"
 usc_title: 48
 usc_section: "1981"
 chapter: 18
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "48 U.S.C. § 1981"
-generated_at: "2026-03-30T01:55:01.628Z"
+generated_at: "2026-03-30T01:57:38.493Z"
 ---
 
 # § 1981. Findings

@@ -3,9 +3,9 @@ title: "Section 2706 - Informational and testing functions of Secretary of Energ
 usc_title: 15
 usc_section: "2706"
 chapter: 54
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "15 U.S.C. § 2706"
-generated_at: "2026-03-30T01:53:03.874Z"
+generated_at: "2026-03-30T01:56:25.569Z"
 ---
 
 # § 2706. Informational and testing functions of Secretary of Energy

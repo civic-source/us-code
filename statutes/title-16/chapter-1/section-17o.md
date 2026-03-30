@@ -3,9 +3,9 @@ title: "Section 17o - Repealed or Omitted"
 usc_title: 16
 usc_section: "17o"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 17o"
-generated_at: "2026-03-30T01:53:13.109Z"
+generated_at: "2026-03-30T01:56:36.214Z"
 ---
 
 # § 17o. Repealed or Omitted

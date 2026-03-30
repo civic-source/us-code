@@ -3,9 +3,9 @@ title: "Section 9165 - Laura Bush 21st Century Librarian Program"
 usc_title: 20
 usc_section: "9165"
 chapter: 72
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "20 U.S.C. § 9165"
-generated_at: "2026-03-30T01:53:18.069Z"
+generated_at: "2026-03-30T01:56:43.261Z"
 ---
 
 # § 9165. Laura Bush 21st Century Librarian Program

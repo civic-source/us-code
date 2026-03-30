@@ -3,9 +3,9 @@ title: "Section 12724 - Authorization"
 usc_title: 42
 usc_section: "12724"
 chapter: 130
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 12724"
-generated_at: "2026-03-30T01:54:58.634Z"
+generated_at: "2026-03-30T01:57:35.681Z"
 ---
 
 # § 12724. Authorization

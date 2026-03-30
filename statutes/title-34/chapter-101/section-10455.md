@@ -3,9 +3,9 @@ title: "Section 10455 - Senior Policy Advisor for Culturally Specific Communitie
 usc_title: 34
 usc_section: "10455"
 chapter: 101
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "34 U.S.C. § 10455"
-generated_at: "2026-03-30T01:53:55.370Z"
+generated_at: "2026-03-30T01:57:09.500Z"
 ---
 
 # § 10455. Senior Policy Advisor for Culturally Specific Communities

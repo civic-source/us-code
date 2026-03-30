@@ -3,9 +3,9 @@ title: "Section 5331 - Reports relating to coins and currency received in nonfin
 usc_title: 31
 usc_section: "5331"
 chapter: 53
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "31 U.S.C. § 5331"
-generated_at: "2026-03-30T01:53:51.253Z"
+generated_at: "2026-03-30T01:57:06.732Z"
 ---
 
 # § 5331. Reports relating to coins and currency received in nonfinancial trade or business

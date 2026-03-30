@@ -3,9 +3,9 @@ title: "Section 1312 - Public offering"
 usc_title: 45
 usc_section: "1312"
 chapter: 22
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "45 U.S.C. § 1312"
-generated_at: "2026-03-30T01:54:23.133Z"
+generated_at: "2026-03-30T01:57:18.295Z"
 ---
 
 # § 1312. Public offering

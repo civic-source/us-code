@@ -3,9 +3,9 @@ title: "Section 218a - Abraham Lincoln Birthplace National Historical Park, Kent
 usc_title: 16
 usc_section: "218a"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 218a"
-generated_at: "2026-03-30T01:53:13.120Z"
+generated_at: "2026-03-30T01:56:36.225Z"
 ---
 
 # § 218a. Abraham Lincoln Birthplace National Historical Park, Kentucky

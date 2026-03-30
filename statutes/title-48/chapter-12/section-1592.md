@@ -3,9 +3,9 @@ title: "Section 1592 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 48
 usc_section: "1592"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "48 U.S.C. § 1592"
-generated_at: "2026-03-30T01:55:01.619Z"
+generated_at: "2026-03-30T01:57:38.482Z"
 ---
 
 # § 1592. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 657

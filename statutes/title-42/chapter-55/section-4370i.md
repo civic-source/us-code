@@ -3,9 +3,9 @@ title: "Section 4370i - Regional liaisons for minority, tribal, and low-income c
 usc_title: 42
 usc_section: "4370i"
 chapter: 55
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 4370i"
-generated_at: "2026-03-30T01:54:58.414Z"
+generated_at: "2026-03-30T01:57:35.456Z"
 ---
 
 # § 4370i. Regional liaisons for minority, tribal, and low-income communities

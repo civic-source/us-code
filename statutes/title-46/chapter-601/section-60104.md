@@ -3,9 +3,9 @@ title: "Section 60104 - Depositing certificates of documentation with consular o
 usc_title: 46
 usc_section: "60104"
 chapter: 601
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "46 U.S.C. § 60104"
-generated_at: "2026-03-30T01:55:15.772Z"
+generated_at: "2026-03-30T01:57:39.599Z"
 ---
 
 # § 60104. Depositing certificates of documentation with consular officers

@@ -3,9 +3,9 @@ title: "Section 1078a - Continued health benefits coverage"
 usc_title: 10
 usc_section: "1078a"
 chapter: 55
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 1078a"
-generated_at: "2026-03-30T01:52:52.442Z"
+generated_at: "2026-03-30T01:56:18.375Z"
 ---
 
 # § 1078a. Continued health benefits coverage

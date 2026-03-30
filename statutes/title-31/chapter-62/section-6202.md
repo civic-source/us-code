@@ -3,9 +3,9 @@ title: "Section 6202 - Content, form, and data for report"
 usc_title: 31
 usc_section: "6202"
 chapter: 62
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "31 U.S.C. § 6202"
-generated_at: "2026-03-30T01:53:51.255Z"
+generated_at: "2026-03-30T01:57:06.735Z"
 ---
 
 # § 6202. Content, form, and data for report

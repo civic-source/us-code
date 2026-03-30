@@ -3,9 +3,9 @@ title: "Section 7103a - Creating, building, and strengthening partnerships again
 usc_title: 22
 usc_section: "7103a"
 chapter: 78
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 7103a"
-generated_at: "2026-03-30T01:53:29.319Z"
+generated_at: "2026-03-30T01:56:51.957Z"
 ---
 
 # § 7103a. Creating, building, and strengthening partnerships against significant trafficking in persons

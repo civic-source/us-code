@@ -3,9 +3,9 @@ title: "Section 112 - Specification"
 usc_title: 35
 usc_section: "112"
 chapter: 11
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "35 U.S.C. § 112"
-generated_at: "2026-03-30T01:53:55.599Z"
+generated_at: "2026-03-30T01:57:10.633Z"
 ---
 
 # § 112. Specification

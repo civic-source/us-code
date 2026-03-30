@@ -3,9 +3,9 @@ title: "Section 1381 - Grants to States for establishment of revolving funds"
 usc_title: 33
 usc_section: "1381"
 chapter: 26
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 1381"
-generated_at: "2026-03-30T01:54:02.322Z"
+generated_at: "2026-03-30T01:57:08.432Z"
 ---
 
 # § 1381. Grants to States for establishment of revolving funds

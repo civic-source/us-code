@@ -3,9 +3,9 @@ title: "Section 20105 - Enforcement"
 usc_title: 52
 usc_section: "20105"
 chapter: 201
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "52 U.S.C. § 20105"
-generated_at: "2026-03-30T01:55:17.595Z"
+generated_at: "2026-03-30T01:57:47.560Z"
 ---
 
 # § 20105. Enforcement

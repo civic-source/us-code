@@ -3,9 +3,9 @@ title: "Section 4912 - Tax on disqualifying lobbying expenditures of certain org
 usc_title: 26
 usc_section: "4912"
 chapter: 41
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 4912"
-generated_at: "2026-03-30T01:53:45.446Z"
+generated_at: "2026-03-30T01:57:03.757Z"
 ---
 
 # § 4912. Tax on disqualifying lobbying expenditures of certain organizations

@@ -3,9 +3,9 @@ title: "Section 4212 - Board of Directors of the Foundation"
 usc_title: 33
 usc_section: "4212"
 chapter: 55
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 4212"
-generated_at: "2026-03-30T01:54:02.361Z"
+generated_at: "2026-03-30T01:57:08.473Z"
 ---
 
 # § 4212. Board of Directors of the Foundation

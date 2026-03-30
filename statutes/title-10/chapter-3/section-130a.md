@@ -3,9 +3,9 @@ title: "Section 130a - Department of Defense support for funerals and memorial e
 usc_title: 10
 usc_section: "130a"
 chapter: 3
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 130a"
-generated_at: "2026-03-30T01:52:52.393Z"
+generated_at: "2026-03-30T01:56:18.310Z"
 ---
 
 # § 130a. Department of Defense support for funerals and memorial events for Members and former Members of Congress

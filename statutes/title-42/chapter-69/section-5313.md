@@ -3,9 +3,9 @@ title: "Section 5313 - Reporting requirements"
 usc_title: 42
 usc_section: "5313"
 chapter: 69
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 5313"
-generated_at: "2026-03-30T01:54:58.445Z"
+generated_at: "2026-03-30T01:57:35.483Z"
 ---
 
 # § 5313. Reporting requirements

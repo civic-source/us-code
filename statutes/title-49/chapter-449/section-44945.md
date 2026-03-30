@@ -3,9 +3,9 @@ title: "Section 44945 - Disposition of unclaimed money and clothing"
 usc_title: 49
 usc_section: "44945"
 chapter: 449
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "49 U.S.C. § 44945"
-generated_at: "2026-03-30T01:55:07.869Z"
+generated_at: "2026-03-30T01:57:44.957Z"
 ---
 
 # § 44945. Disposition of unclaimed money and clothing

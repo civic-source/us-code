@@ -3,9 +3,9 @@ title: "Section 2695c - Environmental health program"
 usc_title: 15
 usc_section: "2695c"
 chapter: 53
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "15 U.S.C. § 2695c"
-generated_at: "2026-03-30T01:53:03.874Z"
+generated_at: "2026-03-30T01:56:25.568Z"
 ---
 
 # § 2695c. Environmental health program

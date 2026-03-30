@@ -3,9 +3,9 @@ title: "Section 4875 - Prohibition on acquisition of personal protective equipme
 usc_title: 10
 usc_section: "4875"
 chapter: 385
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 4875"
-generated_at: "2026-03-30T01:52:52.527Z"
+generated_at: "2026-03-30T01:56:18.475Z"
 ---
 
 # § 4875. Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations

@@ -3,9 +3,9 @@ title: "Section 8954 - Benefits"
 usc_title: 5
 usc_section: "8954"
 chapter: 89
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "5 U.S.C. § 8954"
-generated_at: "2026-03-30T01:52:30.170Z"
+generated_at: "2026-03-30T01:55:40.160Z"
 ---
 
 # § 8954. Benefits

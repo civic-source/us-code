@@ -3,9 +3,9 @@ title: "Section 8304 - Authorization of appropriations"
 usc_title: 22
 usc_section: "8304"
 chapter: 90
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 8304"
-generated_at: "2026-03-30T01:53:29.332Z"
+generated_at: "2026-03-30T01:56:51.972Z"
 ---
 
 # § 8304. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 611 - Common varieties of sand, stone, gravel, pumice, pumicite,
 usc_title: 30
 usc_section: "611"
 chapter: 15
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "30 U.S.C. § 611"
-generated_at: "2026-03-30T01:53:31.706Z"
+generated_at: "2026-03-30T01:56:54.358Z"
 ---
 
 # § 611. Common varieties of sand, stone, gravel, pumice, pumicite, or cinders, and petrified wood

@@ -3,9 +3,9 @@ title: "Section 17124 - Advisory Committee on Energy Efficiency Finance"
 usc_title: 42
 usc_section: "17124"
 chapter: 152
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 17124"
-generated_at: "2026-03-30T01:54:58.697Z"
+generated_at: "2026-03-30T01:57:35.745Z"
 ---
 
 # § 17124. Advisory Committee on Energy Efficiency Finance

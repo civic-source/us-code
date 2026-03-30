@@ -3,9 +3,9 @@ title: "Section 20306 - Prohibition of refusal of applications on grounds of ear
 usc_title: 52
 usc_section: "20306"
 chapter: 203
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "52 U.S.C. § 20306"
-generated_at: "2026-03-30T01:55:17.595Z"
+generated_at: "2026-03-30T01:57:47.562Z"
 ---
 
 # § 20306. Prohibition of refusal of applications on grounds of early submission

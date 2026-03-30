@@ -3,9 +3,9 @@ title: "Section 1433e - Repealed. Pub. L. 103–354, title II, § 281(b) , Oct. 
 usc_title: 7
 usc_section: "1433e"
 chapter: 35
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 1433e"
-generated_at: "2026-03-30T01:52:47.487Z"
+generated_at: "2026-03-30T01:55:52.359Z"
 ---
 
 # § 1433e. Repealed. Pub. L. 103–354, title II, § 281(b) , Oct. 13, 1994 , 108 Stat. 3233

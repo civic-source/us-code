@@ -3,9 +3,9 @@ title: "Section 14 - Civil money penalties against mortgagees, lenders, and othe
 usc_title: 12
 usc_section: "14"
 chapter: 13
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 14"
-generated_at: "2026-03-30T01:52:58.327Z"
+generated_at: "2026-03-30T01:56:28.209Z"
 ---
 
 # § 1735f–14. Civil money penalties against mortgagees, lenders, and other participants in FHA programs

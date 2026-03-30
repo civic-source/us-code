@@ -3,9 +3,9 @@ title: "Section 30169 - Annual reports"
 usc_title: 49
 usc_section: "30169"
 chapter: 301
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "49 U.S.C. § 30169"
-generated_at: "2026-03-30T01:55:07.831Z"
+generated_at: "2026-03-30T01:57:44.920Z"
 ---
 
 # § 30169. Annual reports

@@ -3,9 +3,9 @@ title: "Section 1111 - Definitions"
 usc_title: 6
 usc_section: "1111"
 chapter: 4
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "6 U.S.C. § 1111"
-generated_at: "2026-03-30T01:52:43.022Z"
+generated_at: "2026-03-30T01:55:45.474Z"
 ---
 
 # § 1111. Definitions

@@ -3,9 +3,9 @@ title: "Section 2732 - Medal of honor"
 usc_title: 14
 usc_section: "2732"
 chapter: 27
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "14 U.S.C. § 2732"
-generated_at: "2026-03-30T01:53:06.361Z"
+generated_at: "2026-03-30T01:56:21.707Z"
 ---
 
 # § 2732. Medal of honor

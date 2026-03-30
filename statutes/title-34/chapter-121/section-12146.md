@@ -3,9 +3,9 @@ title: "Section 12146 - Definitions"
 usc_title: 34
 usc_section: "12146"
 chapter: 121
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "34 U.S.C. § 12146"
-generated_at: "2026-03-30T01:53:55.385Z"
+generated_at: "2026-03-30T01:57:09.514Z"
 ---
 
 # § 12146. Definitions

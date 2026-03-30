@@ -3,9 +3,9 @@ title: "Section 3371a - Assessment of foreign intelligence threats to Federal el
 usc_title: 50
 usc_section: "3371a"
 chapter: 45
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 3371a"
-generated_at: "2026-03-30T01:55:03.859Z"
+generated_at: "2026-03-30T01:57:40.894Z"
 ---
 
 # § 3371a. Assessment of foreign intelligence threats to Federal elections

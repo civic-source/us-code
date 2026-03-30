@@ -3,9 +3,9 @@ title: "Section 8477 - Fiduciary responsibilities; liability and penalties"
 usc_title: 5
 usc_section: "8477"
 chapter: 84
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "5 U.S.C. § 8477"
-generated_at: "2026-03-30T01:52:30.163Z"
+generated_at: "2026-03-30T01:55:40.155Z"
 ---
 
 # § 8477. Fiduciary responsibilities; liability and penalties

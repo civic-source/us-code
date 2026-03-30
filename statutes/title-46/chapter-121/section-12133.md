@@ -3,9 +3,9 @@ title: "Section 12133 - Duty to carry certificate on vessel and allow examinatio
 usc_title: 46
 usc_section: "12133"
 chapter: 121
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "46 U.S.C. § 12133"
-generated_at: "2026-03-30T01:55:15.749Z"
+generated_at: "2026-03-30T01:57:39.574Z"
 ---
 
 # § 12133. Duty to carry certificate on vessel and allow examination

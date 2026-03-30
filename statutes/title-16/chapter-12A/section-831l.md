@@ -3,9 +3,9 @@ title: "Section 831l - Financial assistance to States and local governments in l
 usc_title: 16
 usc_section: "831l"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 831l"
-generated_at: "2026-03-30T01:53:13.247Z"
+generated_at: "2026-03-30T01:56:36.351Z"
 ---
 
 # § 831l. Financial assistance to States and local governments in lieu of taxation; apportionment; limitation on contracts for sale of power to municipalities; report to Congress

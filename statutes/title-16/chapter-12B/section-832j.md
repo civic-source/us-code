@@ -3,9 +3,9 @@ title: "Section 832j - Deposit of receipts; authorization of appropriations"
 usc_title: 16
 usc_section: "832j"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 832j"
-generated_at: "2026-03-30T01:53:13.249Z"
+generated_at: "2026-03-30T01:56:36.354Z"
 ---
 
 # § 832j. Deposit of receipts; authorization of appropriations

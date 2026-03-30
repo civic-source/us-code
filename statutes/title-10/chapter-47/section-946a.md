@@ -3,9 +3,9 @@ title: "Section 946a - Art. 146a. Annual reports"
 usc_title: 10
 usc_section: "946a"
 chapter: 47
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 946a"
-generated_at: "2026-03-30T01:52:52.430Z"
+generated_at: "2026-03-30T01:56:18.361Z"
 ---
 
 # § 946a. Art. 146a. Annual reports

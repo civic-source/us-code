@@ -3,9 +3,9 @@ title: "Section 17551 - Transferred"
 usc_title: 42
 usc_section: "17551"
 chapter: 153
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 17551"
-generated_at: "2026-03-30T01:54:58.706Z"
+generated_at: "2026-03-30T01:57:35.755Z"
 ---
 
 # § 17551. Transferred

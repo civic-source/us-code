@@ -3,9 +3,9 @@ title: "Section 8123 - Physical examinations"
 usc_title: 5
 usc_section: "8123"
 chapter: 81
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "5 U.S.C. § 8123"
-generated_at: "2026-03-30T01:52:30.144Z"
+generated_at: "2026-03-30T01:55:40.140Z"
 ---
 
 # § 8123. Physical examinations

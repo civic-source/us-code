@@ -3,9 +3,9 @@ title: "Section 406 - Postal services at Armed Forces installations"
 usc_title: 39
 usc_section: "406"
 chapter: 4
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "39 U.S.C. § 406"
-generated_at: "2026-03-30T01:54:04.152Z"
+generated_at: "2026-03-30T01:57:15.934Z"
 ---
 
 # § 406. Postal services at Armed Forces installations

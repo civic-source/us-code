@@ -3,9 +3,9 @@ title: "Section 17255 - Safety research"
 usc_title: 42
 usc_section: "17255"
 chapter: 152
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 17255"
-generated_at: "2026-03-30T01:54:58.701Z"
+generated_at: "2026-03-30T01:57:35.750Z"
 ---
 
 # § 17255. Safety research

@@ -3,9 +3,9 @@ title: "Section 473c - Rules and regulations"
 usc_title: 7
 usc_section: "473c"
 chapter: 19
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 473c"
-generated_at: "2026-03-30T01:52:47.465Z"
+generated_at: "2026-03-30T01:55:52.337Z"
 ---
 
 # § 473c. Rules and regulations

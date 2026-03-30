@@ -3,9 +3,9 @@ title: "Section 2943 - Leasing and hiring of quarters; rental of in­adequate ho
 usc_title: 14
 usc_section: "2943"
 chapter: 29
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "14 U.S.C. § 2943"
-generated_at: "2026-03-30T01:53:06.362Z"
+generated_at: "2026-03-30T01:56:21.708Z"
 ---
 
 # § 2943. Leasing and hiring of quarters; rental of in­adequate housing

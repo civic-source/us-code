@@ -3,9 +3,9 @@ title: "Section 41503 - Fugitive Apprehension Task Forces"
 usc_title: 34
 usc_section: "41503"
 chapter: 415
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "34 U.S.C. § 41503"
-generated_at: "2026-03-30T01:53:55.418Z"
+generated_at: "2026-03-30T01:57:09.546Z"
 ---
 
 # § 41503. Fugitive Apprehension Task Forces

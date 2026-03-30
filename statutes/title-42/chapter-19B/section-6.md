@@ -3,9 +3,9 @@ title: "Section 6 - Feasibility studies; acceleration; advancement of costs by n
 usc_title: 42
 usc_section: "6"
 chapter: 19
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T01:54:58.339Z"
+generated_at: "2026-03-30T01:57:35.387Z"
 ---
 
 # § 1962d–6. Feasibility studies; acceleration; advancement of costs by non-Federal sources

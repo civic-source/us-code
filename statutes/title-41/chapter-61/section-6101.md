@@ -3,9 +3,9 @@ title: "Section 6101 - Advertising requirement for Federal Government purchases 
 usc_title: 41
 usc_section: "6101"
 chapter: 61
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "41 U.S.C. § 6101"
-generated_at: "2026-03-30T01:54:18.165Z"
+generated_at: "2026-03-30T01:57:18.047Z"
 ---
 
 # § 6101. Advertising requirement for Federal Government purchases and sales

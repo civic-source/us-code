@@ -3,9 +3,9 @@ title: "Section 2668a - Easements: granting restrictive easements in connection 
 usc_title: 10
 usc_section: "2668a"
 chapter: 159
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 2668a"
-generated_at: "2026-03-30T01:52:52.490Z"
+generated_at: "2026-03-30T01:56:18.435Z"
 ---
 
 # § 2668a. Easements: granting restrictive easements in connection with land conveyances

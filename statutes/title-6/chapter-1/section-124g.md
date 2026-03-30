@@ -3,9 +3,9 @@ title: "Section 124g - Information sharing incentives"
 usc_title: 6
 usc_section: "124g"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "6 U.S.C. § 124g"
-generated_at: "2026-03-30T01:52:42.983Z"
+generated_at: "2026-03-30T01:55:45.434Z"
 ---
 
 # § 124g. Information sharing incentives

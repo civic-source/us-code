@@ -3,9 +3,9 @@ title: "Section 2689l - Repealed. Pub. L. 97–35, title IX, § 902(e)(2)(B) , A
 usc_title: 42
 usc_section: "2689l"
 chapter: 33
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 2689l"
-generated_at: "2026-03-30T01:54:58.373Z"
+generated_at: "2026-03-30T01:57:35.420Z"
 ---
 
 # §§ 2689i to 2689l. Repealed. Pub. L. 97–35, title IX, § 902(e)(2)(B) , Aug. 13, 1981 , 95 Stat. 560

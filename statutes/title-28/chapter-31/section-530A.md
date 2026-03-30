@@ -3,9 +3,9 @@ title: "Section 530A - Authorization of appropriations for travel and related ex
 usc_title: 28
 usc_section: "530A"
 chapter: 31
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "28 U.S.C. § 530A"
-generated_at: "2026-03-30T01:53:40.560Z"
+generated_at: "2026-03-30T01:56:55.356Z"
 ---
 
 # § 530A. Authorization of appropriations for travel and related expenses and for health care of personnel serving abroad

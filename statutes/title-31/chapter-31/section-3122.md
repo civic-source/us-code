@@ -3,9 +3,9 @@ title: "Section 3122 - Banks and trust companies as depositaries"
 usc_title: 31
 usc_section: "3122"
 chapter: 31
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "31 U.S.C. § 3122"
-generated_at: "2026-03-30T01:53:51.238Z"
+generated_at: "2026-03-30T01:57:06.715Z"
 ---
 
 # § 3122. Banks and trust companies as depositaries

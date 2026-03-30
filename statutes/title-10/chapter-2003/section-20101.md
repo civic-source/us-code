@@ -3,9 +3,9 @@ title: "Section 20101 - Members in Space Force active status: amount of annual t
 usc_title: 10
 usc_section: "20101"
 chapter: 2003
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 20101"
-generated_at: "2026-03-30T01:52:52.570Z"
+generated_at: "2026-03-30T01:56:18.526Z"
 ---
 
 # § 20101. Members in Space Force active status: amount of annual training or active duty service required

@@ -3,9 +3,9 @@ title: "Section 3102 - National Oceanic and Atmospheric Administration Oceans an
 usc_title: 33
 usc_section: "3102"
 chapter: 44
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 3102"
-generated_at: "2026-03-30T01:54:02.352Z"
+generated_at: "2026-03-30T01:57:08.463Z"
 ---
 
 # § 3102. National Oceanic and Atmospheric Administration Oceans and Human Health Initiative

@@ -3,9 +3,9 @@ title: "Section 346 - Definition and special rule"
 usc_title: 26
 usc_section: "346"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 346"
-generated_at: "2026-03-30T01:53:45.319Z"
+generated_at: "2026-03-30T01:57:03.571Z"
 ---
 
 # § 346. Definition and special rule

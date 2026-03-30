@@ -3,9 +3,9 @@ title: "Section 1701 - Findings"
 usc_title: 47
 usc_section: "1701"
 chapter: 16
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "47 U.S.C. § 1701"
-generated_at: "2026-03-30T01:55:11.422Z"
+generated_at: "2026-03-30T01:57:41.769Z"
 ---
 
 # § 1701. Findings

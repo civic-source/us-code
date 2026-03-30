@@ -3,9 +3,9 @@ title: "Section 7685 - Obsolete ordnance: loan to educational institutions and S
 usc_title: 10
 usc_section: "7685"
 chapter: 773
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 7685"
-generated_at: "2026-03-30T01:52:52.535Z"
+generated_at: "2026-03-30T01:56:18.484Z"
 ---
 
 # § 7685. Obsolete ordnance: loan to educational institutions and State soldiers and sailors’ orphans’ homes

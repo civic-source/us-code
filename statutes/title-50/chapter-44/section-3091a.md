@@ -3,9 +3,9 @@ title: "Section 3091a - Congressional oversight of controlled access programs"
 usc_title: 50
 usc_section: "3091a"
 chapter: 44
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 3091a"
-generated_at: "2026-03-30T01:55:03.842Z"
+generated_at: "2026-03-30T01:57:40.879Z"
 ---
 
 # § 3091a. Congressional oversight of controlled access programs

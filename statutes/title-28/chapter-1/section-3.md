@@ -3,9 +3,9 @@ title: "Section 3 - Vacancy in office of Chief Justice; disability"
 usc_title: 28
 usc_section: "3"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "28 U.S.C. § 3"
-generated_at: "2026-03-30T01:53:40.551Z"
+generated_at: "2026-03-30T01:56:55.346Z"
 ---
 
 # § 3. Vacancy in office of Chief Justice; disability

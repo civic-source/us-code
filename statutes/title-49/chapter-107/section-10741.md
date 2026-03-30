@@ -3,9 +3,9 @@ title: "Section 10741 - Prohibitions against discrimination by rail carriers"
 usc_title: 49
 usc_section: "10741"
 chapter: 107
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "49 U.S.C. § 10741"
-generated_at: "2026-03-30T01:55:07.802Z"
+generated_at: "2026-03-30T01:57:44.892Z"
 ---
 
 # § 10741. Prohibitions against discrimination by rail carriers

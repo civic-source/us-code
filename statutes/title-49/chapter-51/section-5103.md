@@ -3,9 +3,9 @@ title: "Section 5103 - General regulatory authority"
 usc_title: 49
 usc_section: "5103"
 chapter: 51
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "49 U.S.C. § 5103"
-generated_at: "2026-03-30T01:55:07.784Z"
+generated_at: "2026-03-30T01:57:44.875Z"
 ---
 
 # § 5103. General regulatory authority

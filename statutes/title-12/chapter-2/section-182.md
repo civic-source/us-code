@@ -3,9 +3,9 @@ title: "Section 182 - Notice of intent to dissolve"
 usc_title: 12
 usc_section: "182"
 chapter: 2
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 182"
-generated_at: "2026-03-30T01:52:58.274Z"
+generated_at: "2026-03-30T01:56:28.156Z"
 ---
 
 # § 182. Notice of intent to dissolve

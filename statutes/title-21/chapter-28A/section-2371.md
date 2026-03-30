@@ -3,9 +3,9 @@ title: "Section 2371 - Exception relating to importation of goods"
 usc_title: 21
 usc_section: "2371"
 chapter: 28
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "21 U.S.C. § 2371"
-generated_at: "2026-03-30T01:53:24.817Z"
+generated_at: "2026-03-30T01:56:47.525Z"
 ---
 
 # § 2371. Exception relating to importation of goods

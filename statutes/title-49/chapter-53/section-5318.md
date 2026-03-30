@@ -3,9 +3,9 @@ title: "Section 5318 - Bus testing facility"
 usc_title: 49
 usc_section: "5318"
 chapter: 53
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "49 U.S.C. § 5318"
-generated_at: "2026-03-30T01:55:07.793Z"
+generated_at: "2026-03-30T01:57:44.883Z"
 ---
 
 # § 5318. Bus testing facility

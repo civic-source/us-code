@@ -3,9 +3,9 @@ title: "Section 864 - Combustible materials and rock dusting"
 usc_title: 30
 usc_section: "864"
 chapter: 22
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "30 U.S.C. § 864"
-generated_at: "2026-03-30T01:53:31.710Z"
+generated_at: "2026-03-30T01:56:54.363Z"
 ---
 
 # § 864. Combustible materials and rock dusting

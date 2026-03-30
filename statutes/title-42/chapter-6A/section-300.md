@@ -3,9 +3,9 @@ title: "Section 300 - Project grants and contracts for family planning services"
 usc_title: 42
 usc_section: "300"
 chapter: 6
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 300"
-generated_at: "2026-03-30T01:54:58.034Z"
+generated_at: "2026-03-30T01:57:35.061Z"
 ---
 
 # § 300. Project grants and contracts for family planning services

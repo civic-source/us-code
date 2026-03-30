@@ -3,9 +3,9 @@ title: "Section 19061 - Unmanned aircraft systems technologies"
 usc_title: 42
 usc_section: "19061"
 chapter: 163
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 19061"
-generated_at: "2026-03-30T01:54:58.733Z"
+generated_at: "2026-03-30T01:57:35.783Z"
 ---
 
 # § 19061. Unmanned aircraft systems technologies

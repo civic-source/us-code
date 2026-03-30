@@ -3,9 +3,9 @@ title: "Section 3101 - Public buildings under control of Administrator of Genera
 usc_title: 40
 usc_section: "3101"
 chapter: 31
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "40 U.S.C. § 3101"
-generated_at: "2026-03-30T01:54:12.009Z"
+generated_at: "2026-03-30T01:57:13.778Z"
 ---
 
 # § 3101. Public buildings under control of Administrator of General Services

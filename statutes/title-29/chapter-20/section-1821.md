@@ -3,9 +3,9 @@ title: "Section 1821 - Information and recordkeeping requirements"
 usc_title: 29
 usc_section: "1821"
 chapter: 20
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "29 U.S.C. § 1821"
-generated_at: "2026-03-30T01:53:33.010Z"
+generated_at: "2026-03-30T01:56:56.290Z"
 ---
 
 # § 1821. Information and recordkeeping requirements

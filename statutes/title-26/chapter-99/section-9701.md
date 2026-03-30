@@ -3,9 +3,9 @@ title: "Section 9701 - Definitions of general applicability"
 usc_title: 26
 usc_section: "9701"
 chapter: 99
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 9701"
-generated_at: "2026-03-30T01:53:45.525Z"
+generated_at: "2026-03-30T01:57:03.839Z"
 ---
 
 # § 9701. Definitions of general applicability

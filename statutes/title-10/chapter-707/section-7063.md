@@ -3,9 +3,9 @@ title: "Section 7063 - Basic branches"
 usc_title: 10
 usc_section: "7063"
 chapter: 707
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 7063"
-generated_at: "2026-03-30T01:52:52.530Z"
+generated_at: "2026-03-30T01:56:18.477Z"
 ---
 
 # § 7063. Basic branches

@@ -3,9 +3,9 @@ title: "Section 3551 - Purposes"
 usc_title: 44
 usc_section: "3551"
 chapter: 35
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "44 U.S.C. § 3551"
-generated_at: "2026-03-30T01:54:17.908Z"
+generated_at: "2026-03-30T01:57:17.742Z"
 ---
 
 # § 3551. Purposes

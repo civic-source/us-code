@@ -3,9 +3,9 @@ title: "Section 1666 - Extension of scientific, technical, and other assistance;
 usc_title: 48
 usc_section: "1666"
 chapter: 13
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "48 U.S.C. § 1666"
-generated_at: "2026-03-30T01:55:01.620Z"
+generated_at: "2026-03-30T01:57:38.483Z"
 ---
 
 # § 1666. Extension of scientific, technical, and other assistance; grant-in-aid program restriction; limitations on expenditures

@@ -3,9 +3,9 @@ title: "Section 670b - Migratory game birds; hunting permits"
 usc_title: 16
 usc_section: "670b"
 chapter: 5
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 670b"
-generated_at: "2026-03-30T01:53:13.224Z"
+generated_at: "2026-03-30T01:56:36.330Z"
 ---
 
 # § 670b. Migratory game birds; hunting permits

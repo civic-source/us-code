@@ -3,9 +3,9 @@ title: "Section 193 - Notice to present claims"
 usc_title: 12
 usc_section: "193"
 chapter: 2
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 193"
-generated_at: "2026-03-30T01:52:58.274Z"
+generated_at: "2026-03-30T01:56:28.156Z"
 ---
 
 # § 193. Notice to present claims

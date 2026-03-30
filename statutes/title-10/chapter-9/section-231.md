@@ -3,9 +3,9 @@ title: "Section 231 - Budgeting for construction, maintenance, and modernization
 usc_title: 10
 usc_section: "231"
 chapter: 9
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 231"
-generated_at: "2026-03-30T01:52:52.401Z"
+generated_at: "2026-03-30T01:56:18.321Z"
 ---
 
 # § 231. Budgeting for construction, maintenance, and modernization of naval vessels: annual plans and certifications

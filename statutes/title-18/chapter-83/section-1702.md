@@ -3,9 +3,9 @@ title: "Section 1702 - Obstruction of correspondence"
 usc_title: 18
 usc_section: "1702"
 chapter: 83
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 1702"
-generated_at: "2026-03-30T01:53:21.365Z"
+generated_at: "2026-03-30T01:56:31.838Z"
 ---
 
 # § 1702. Obstruction of correspondence

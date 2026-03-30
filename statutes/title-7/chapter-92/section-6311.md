@@ -3,9 +3,9 @@ title: "Section 6311 - Authorization of appropriations; regulations"
 usc_title: 7
 usc_section: "6311"
 chapter: 92
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 6311"
-generated_at: "2026-03-30T01:52:47.576Z"
+generated_at: "2026-03-30T01:55:52.452Z"
 ---
 
 # § 6311. Authorization of appropriations; regulations

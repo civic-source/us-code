@@ -3,9 +3,9 @@ title: "Section 31j - Biological research activity of Survey; review and report 
 usc_title: 43
 usc_section: "31j"
 chapter: 2
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "43 U.S.C. § 31j"
-generated_at: "2026-03-30T01:54:29.388Z"
+generated_at: "2026-03-30T01:57:18.888Z"
 ---
 
 # § 31j. Biological research activity of Survey; review and report by National Academy of Sciences

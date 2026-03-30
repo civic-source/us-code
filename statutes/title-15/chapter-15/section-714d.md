@@ -3,9 +3,9 @@ title: "Section 714d - Laws applicable to Corporation"
 usc_title: 15
 usc_section: "714d"
 chapter: 15
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "15 U.S.C. § 714d"
-generated_at: "2026-03-30T01:53:03.811Z"
+generated_at: "2026-03-30T01:56:25.497Z"
 ---
 
 # § 714d. Laws applicable to Corporation

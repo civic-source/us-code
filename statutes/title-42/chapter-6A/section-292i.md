@@ -3,9 +3,9 @@ title: "Section 292i - Insurance account"
 usc_title: 42
 usc_section: "292i"
 chapter: 6
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 292i"
-generated_at: "2026-03-30T01:54:58.020Z"
+generated_at: "2026-03-30T01:57:35.047Z"
 ---
 
 # § 292i. Insurance account

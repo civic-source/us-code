@@ -3,9 +3,9 @@ title: "Section 7901 - Congressional findings and purposes"
 usc_title: 42
 usc_section: "7901"
 chapter: 88
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 7901"
-generated_at: "2026-03-30T01:54:58.541Z"
+generated_at: "2026-03-30T01:57:35.582Z"
 ---
 
 # § 7901. Congressional findings and purposes

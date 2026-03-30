@@ -3,9 +3,9 @@ title: "Section 4223 - Special rules relating to further manufacture"
 usc_title: 26
 usc_section: "4223"
 chapter: 32
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 4223"
-generated_at: "2026-03-30T01:53:45.441Z"
+generated_at: "2026-03-30T01:57:03.752Z"
 ---
 
 # § 4223. Special rules relating to further manufacture

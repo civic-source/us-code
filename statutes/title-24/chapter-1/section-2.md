@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 St
 usc_title: 24
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "24 U.S.C. § 2"
-generated_at: "2026-03-30T01:53:23.253Z"
+generated_at: "2026-03-30T01:56:46.545Z"
 ---
 
 # §§ 1, 2. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

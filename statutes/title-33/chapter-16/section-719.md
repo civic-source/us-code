@@ -3,9 +3,9 @@ title: "Section 719 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "719"
 chapter: 16
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 719"
-generated_at: "2026-03-30T01:54:02.292Z"
+generated_at: "2026-03-30T01:57:08.402Z"
 ---
 
 # § 719. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(7) , Dec. 23, 2022 , 136 Stat. 4165

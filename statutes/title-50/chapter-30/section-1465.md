@@ -3,9 +3,9 @@ title: "Section 1465 - Transferred"
 usc_title: 50
 usc_section: "1465"
 chapter: 30
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 1465"
-generated_at: "2026-03-30T01:55:03.806Z"
+generated_at: "2026-03-30T01:57:40.844Z"
 ---
 
 # §§ 1461 to 1465. Transferred

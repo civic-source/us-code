@@ -3,9 +3,9 @@ title: "Section 558b - Exchange of land or property"
 usc_title: 33
 usc_section: "558b"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 558b"
-generated_at: "2026-03-30T01:54:02.283Z"
+generated_at: "2026-03-30T01:57:08.393Z"
 ---
 
 # § 558b. Exchange of land or property

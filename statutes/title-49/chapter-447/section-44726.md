@@ -3,9 +3,9 @@ title: "Section 44726 - Denial and revocation of certificate for counterfeit par
 usc_title: 49
 usc_section: "44726"
 chapter: 447
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "49 U.S.C. § 44726"
-generated_at: "2026-03-30T01:55:07.861Z"
+generated_at: "2026-03-30T01:57:44.949Z"
 ---
 
 # § 44726. Denial and revocation of certificate for counterfeit parts violations

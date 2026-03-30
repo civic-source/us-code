@@ -3,9 +3,9 @@ title: "Section 70905 - National officers"
 usc_title: 36
 usc_section: "70905"
 chapter: 709
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "36 U.S.C. § 70905"
-generated_at: "2026-03-30T01:54:08.605Z"
+generated_at: "2026-03-30T01:57:12.904Z"
 ---
 
 # § 70905. National officers

@@ -3,9 +3,9 @@ title: "Section 8286 - United States Navy Band; officer in charge"
 usc_title: 10
 usc_section: "8286"
 chapter: 835
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 8286"
-generated_at: "2026-03-30T01:52:52.539Z"
+generated_at: "2026-03-30T01:56:18.489Z"
 ---
 
 # § 8286. United States Navy Band; officer in charge

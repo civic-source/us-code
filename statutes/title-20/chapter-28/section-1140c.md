@@ -3,9 +3,9 @@ title: "Section 1140c - Applications"
 usc_title: 20
 usc_section: "1140c"
 chapter: 28
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "20 U.S.C. § 1140c"
-generated_at: "2026-03-30T01:53:17.990Z"
+generated_at: "2026-03-30T01:56:43.184Z"
 ---
 
 # § 1140c. Applications

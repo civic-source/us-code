@@ -3,9 +3,9 @@ title: "Section 773d - Cooperation of Federal agencies"
 usc_title: 16
 usc_section: "773d"
 chapter: 10
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 773d"
-generated_at: "2026-03-30T01:53:13.235Z"
+generated_at: "2026-03-30T01:56:36.340Z"
 ---
 
 # § 773d. Cooperation of Federal agencies

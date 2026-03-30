@@ -3,9 +3,9 @@ title: "Section 525 - Covering proceeds into reclamation fund"
 usc_title: 43
 usc_section: "525"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "43 U.S.C. § 525"
-generated_at: "2026-03-30T01:54:29.407Z"
+generated_at: "2026-03-30T01:57:18.907Z"
 ---
 
 # § 525. Covering proceeds into reclamation fund

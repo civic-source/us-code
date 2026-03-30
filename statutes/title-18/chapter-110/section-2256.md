@@ -3,9 +3,9 @@ title: "Section 2256 - Definitions for chapter"
 usc_title: 18
 usc_section: "2256"
 chapter: 110
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 2256"
-generated_at: "2026-03-30T01:53:21.373Z"
+generated_at: "2026-03-30T01:56:31.845Z"
 ---
 
 # § 2256. Definitions for chapter

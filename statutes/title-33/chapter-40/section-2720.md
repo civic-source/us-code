@@ -3,9 +3,9 @@ title: "Section 2720 - Differentiation among fats, oils, and greases"
 usc_title: 33
 usc_section: "2720"
 chapter: 40
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 2720"
-generated_at: "2026-03-30T01:54:02.347Z"
+generated_at: "2026-03-30T01:57:08.459Z"
 ---
 
 # § 2720. Differentiation among fats, oils, and greases

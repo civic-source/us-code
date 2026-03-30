@@ -3,9 +3,9 @@ title: "Section 1437 - Payment of annuity"
 usc_title: 10
 usc_section: "1437"
 chapter: 73
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 1437"
-generated_at: "2026-03-30T01:52:52.454Z"
+generated_at: "2026-03-30T01:56:18.392Z"
 ---
 
 # § 1437. Payment of annuity

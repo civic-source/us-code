@@ -3,9 +3,9 @@ title: "Section 6050Y - Returns relating to certain life insurance contract tran
 usc_title: 26
 usc_section: "6050Y"
 chapter: 61
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 6050Y"
-generated_at: "2026-03-30T01:53:45.474Z"
+generated_at: "2026-03-30T01:57:03.786Z"
 ---
 
 # § 6050Y. Returns relating to certain life insurance contract transactions

@@ -3,9 +3,9 @@ title: "Section 10426 - National training center for prison drug rehabilitation 
 usc_title: 34
 usc_section: "10426"
 chapter: 101
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "34 U.S.C. § 10426"
-generated_at: "2026-03-30T01:53:55.368Z"
+generated_at: "2026-03-30T01:57:09.498Z"
 ---
 
 # § 10426. National training center for prison drug rehabilitation program personnel

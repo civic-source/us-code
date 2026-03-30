@@ -3,9 +3,9 @@ title: "Section 4062 - Defense Acquisition Challenge Program"
 usc_title: 10
 usc_section: "4062"
 chapter: 303
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 4062"
-generated_at: "2026-03-30T01:52:52.517Z"
+generated_at: "2026-03-30T01:56:18.463Z"
 ---
 
 # § 4062. Defense Acquisition Challenge Program

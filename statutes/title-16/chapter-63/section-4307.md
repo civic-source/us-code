@@ -3,9 +3,9 @@ title: "Section 4307 - Civil penalties"
 usc_title: 16
 usc_section: "4307"
 chapter: 63
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 4307"
-generated_at: "2026-03-30T01:53:13.331Z"
+generated_at: "2026-03-30T01:56:36.433Z"
 ---
 
 # § 4307. Civil penalties

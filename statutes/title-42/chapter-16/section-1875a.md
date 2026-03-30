@@ -3,9 +3,9 @@ title: "Section 1875a - National Science Foundation Nonrecurring Expenses Fund"
 usc_title: 42
 usc_section: "1875a"
 chapter: 16
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 1875a"
-generated_at: "2026-03-30T01:54:58.336Z"
+generated_at: "2026-03-30T01:57:35.385Z"
 ---
 
 # § 1875a. National Science Foundation Nonrecurring Expenses Fund

@@ -3,9 +3,9 @@ title: "Section 19404 - Applicability"
 usc_title: 42
 usc_section: "19404"
 chapter: 164
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 19404"
-generated_at: "2026-03-30T01:54:58.741Z"
+generated_at: "2026-03-30T01:57:35.792Z"
 ---
 
 # § 19404. Applicability

@@ -3,9 +3,9 @@ title: "Section 7460 - Cadets: charges and fees for attendance; limitation"
 usc_title: 10
 usc_section: "7460"
 chapter: 753
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 7460"
-generated_at: "2026-03-30T01:52:52.533Z"
+generated_at: "2026-03-30T01:56:18.482Z"
 ---
 
 # § 7460. Cadets: charges and fees for attendance; limitation

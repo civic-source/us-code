@@ -3,9 +3,9 @@ title: "Section 75 - Dealers in tax-exempt securities"
 usc_title: 26
 usc_section: "75"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 75"
-generated_at: "2026-03-30T01:53:45.282Z"
+generated_at: "2026-03-30T01:57:03.531Z"
 ---
 
 # § 75. Dealers in tax-exempt securities

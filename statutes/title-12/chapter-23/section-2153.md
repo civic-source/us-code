@@ -3,9 +3,9 @@ title: "Section 2153 - Power to borrow; issuance of notes, bonds, debentures, an
 usc_title: 12
 usc_section: "2153"
 chapter: 23
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 2153"
-generated_at: "2026-03-30T01:52:58.368Z"
+generated_at: "2026-03-30T01:56:28.250Z"
 ---
 
 # § 2153. Power to borrow; issuance of notes, bonds, debentures, and other obligations

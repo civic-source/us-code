@@ -3,9 +3,9 @@ title: "Section 5954 - Funding for fiscal year 1994"
 usc_title: 22
 usc_section: "5954"
 chapter: 68
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 5954"
-generated_at: "2026-03-30T01:53:29.305Z"
+generated_at: "2026-03-30T01:56:51.942Z"
 ---
 
 # § 5954. Funding for fiscal year 1994

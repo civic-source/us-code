@@ -3,9 +3,9 @@ title: "Section 3603 - Continuation of educational assistance benefits for certa
 usc_title: 38
 usc_section: "3603"
 chapter: 36
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "38 U.S.C. § 3603"
-generated_at: "2026-03-30T01:54:16.100Z"
+generated_at: "2026-03-30T01:57:15.715Z"
 ---
 
 # § 3603. Continuation of educational assistance benefits for certain programs of education converted to distance learning by reason of emergency situations

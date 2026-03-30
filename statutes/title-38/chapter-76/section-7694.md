@@ -3,9 +3,9 @@ title: "Section 7694 - Specialty education loan repayment"
 usc_title: 38
 usc_section: "7694"
 chapter: 76
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "38 U.S.C. § 7694"
-generated_at: "2026-03-30T01:54:16.128Z"
+generated_at: "2026-03-30T01:57:15.745Z"
 ---
 
 # § 7694. Specialty education loan repayment

@@ -3,9 +3,9 @@ title: "Section 8574 - Strategy to counter role of the People’s Republic of Ch
 usc_title: 22
 usc_section: "8574"
 chapter: 92
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 8574"
-generated_at: "2026-03-30T01:53:29.337Z"
+generated_at: "2026-03-30T01:56:51.976Z"
 ---
 
 # § 8574. Strategy to counter role of the People’s Republic of China in evasion of sanctions with respect to Iran

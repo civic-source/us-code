@@ -3,9 +3,9 @@ title: "Section 661d - Authorizations"
 usc_title: 2
 usc_section: "661d"
 chapter: 17
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "2 U.S.C. § 661d"
-generated_at: "2026-03-30T01:52:27.352Z"
+generated_at: "2026-03-30T01:55:42.904Z"
 ---
 
 # § 661d. Authorizations

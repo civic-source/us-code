@@ -3,9 +3,9 @@ title: "Section 3312 - Photographs or microphotographs of records considered as 
 usc_title: 44
 usc_section: "3312"
 chapter: 33
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "44 U.S.C. § 3312"
-generated_at: "2026-03-30T01:54:17.905Z"
+generated_at: "2026-03-30T01:57:17.741Z"
 ---
 
 # § 3312. Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence

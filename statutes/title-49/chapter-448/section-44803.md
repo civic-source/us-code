@@ -3,9 +3,9 @@ title: "Section 44803 - Unmanned aircraft system test ranges"
 usc_title: 49
 usc_section: "44803"
 chapter: 448
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "49 U.S.C. § 44803"
-generated_at: "2026-03-30T01:55:07.863Z"
+generated_at: "2026-03-30T01:57:44.952Z"
 ---
 
 # § 44803. Unmanned aircraft system test ranges

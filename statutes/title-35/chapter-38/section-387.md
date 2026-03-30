@@ -3,9 +3,9 @@ title: "Section 387 - Relief from prescribed time limits"
 usc_title: 35
 usc_section: "387"
 chapter: 38
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "35 U.S.C. § 387"
-generated_at: "2026-03-30T01:53:55.606Z"
+generated_at: "2026-03-30T01:57:10.639Z"
 ---
 
 # § 387. Relief from prescribed time limits

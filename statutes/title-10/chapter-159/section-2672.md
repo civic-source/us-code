@@ -3,9 +3,9 @@ title: "Section 2672 - Protection of buildings, grounds, property, and persons"
 usc_title: 10
 usc_section: "2672"
 chapter: 159
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 2672"
-generated_at: "2026-03-30T01:52:52.491Z"
+generated_at: "2026-03-30T01:56:18.435Z"
 ---
 
 # § 2672. Protection of buildings, grounds, property, and persons

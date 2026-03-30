@@ -3,9 +3,9 @@ title: "Section 208 - Licensing or permitting commercial intercourse with State 
 usc_title: 50
 usc_section: "208"
 chapter: 13
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 208"
-generated_at: "2026-03-30T01:55:03.803Z"
+generated_at: "2026-03-30T01:57:40.841Z"
 ---
 
 # § 208. Licensing or permitting commercial intercourse with State or region in insurrection

@@ -3,9 +3,9 @@ title: "Section 405 - Travel and transportation allowances: per diem while on du
 usc_title: 37
 usc_section: "405"
 chapter: 7
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "37 U.S.C. § 405"
-generated_at: "2026-03-30T01:54:04.502Z"
+generated_at: "2026-03-30T01:57:13.346Z"
 ---
 
 # § 405. Travel and transportation allowances: per diem while on duty outside the continental United States

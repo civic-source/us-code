@@ -3,9 +3,9 @@ title: "Section 207 - Restrictions on former officers, employees, and elected of
 usc_title: 18
 usc_section: "207"
 chapter: 11
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 207"
-generated_at: "2026-03-30T01:53:21.341Z"
+generated_at: "2026-03-30T01:56:31.812Z"
 ---
 
 # § 207. Restrictions on former officers, employees, and elected officials of the executive and legislative branches

@@ -3,9 +3,9 @@ title: "Section 200313 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "200313"
 chapter: 2003
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "36 U.S.C. § 200313"
-generated_at: "2026-03-30T01:54:08.613Z"
+generated_at: "2026-03-30T01:57:12.927Z"
 ---
 
 # § 200313. Distribution of assets on dissolution or final liquidation

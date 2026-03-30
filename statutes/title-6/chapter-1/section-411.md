@@ -3,9 +3,9 @@ title: "Section 411 - Establishment of human resources management system"
 usc_title: 6
 usc_section: "411"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "6 U.S.C. § 411"
-generated_at: "2026-03-30T01:52:43.000Z"
+generated_at: "2026-03-30T01:55:45.451Z"
 ---
 
 # § 411. Establishment of human resources management system

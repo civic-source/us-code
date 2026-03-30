@@ -3,9 +3,9 @@ title: "Section 456 - Managed travel program refunds"
 usc_title: 37
 usc_section: "456"
 chapter: 8
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "37 U.S.C. § 456"
-generated_at: "2026-03-30T01:54:04.503Z"
+generated_at: "2026-03-30T01:57:13.348Z"
 ---
 
 # § 456. Managed travel program refunds

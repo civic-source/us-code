@@ -3,9 +3,9 @@ title: "Section 4134 - Nationality of claimants"
 usc_title: 50
 usc_section: "4134"
 chapter: 51
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 4134"
-generated_at: "2026-03-30T01:55:03.875Z"
+generated_at: "2026-03-30T01:57:40.910Z"
 ---
 
 # § 4134. Nationality of claimants

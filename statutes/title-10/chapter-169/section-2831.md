@@ -3,9 +3,9 @@ title: "Section 2831 - Military family housing management account"
 usc_title: 10
 usc_section: "2831"
 chapter: 169
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 2831"
-generated_at: "2026-03-30T01:52:52.502Z"
+generated_at: "2026-03-30T01:56:18.444Z"
 ---
 
 # § 2831. Military family housing management account

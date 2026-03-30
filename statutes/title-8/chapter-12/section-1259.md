@@ -3,9 +3,9 @@ title: "Section 1259 - Record of admission for permanent residence in the case o
 usc_title: 8
 usc_section: "1259"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "8 U.S.C. § 1259"
-generated_at: "2026-03-30T01:52:48.217Z"
+generated_at: "2026-03-30T01:55:46.091Z"
 ---
 
 # § 1259. Record of admission for permanent residence in the case of certain aliens who entered the United States prior to January 1, 1972

@@ -3,9 +3,9 @@ title: "Section 242s - Centers for Disease Control and Prevention Office of Wome
 usc_title: 42
 usc_section: "242s"
 chapter: 6
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 242s"
-generated_at: "2026-03-30T01:54:57.946Z"
+generated_at: "2026-03-30T01:57:34.968Z"
 ---
 
 # § 242s. Centers for Disease Control and Prevention Office of Women’s Health

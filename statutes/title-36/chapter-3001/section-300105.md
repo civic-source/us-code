@@ -3,9 +3,9 @@ title: "Section 300105 - Powers"
 usc_title: 36
 usc_section: "300105"
 chapter: 3001
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "36 U.S.C. § 300105"
-generated_at: "2026-03-30T01:54:08.617Z"
+generated_at: "2026-03-30T01:57:12.932Z"
 ---
 
 # § 300105. Powers

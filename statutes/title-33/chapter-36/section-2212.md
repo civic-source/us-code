@@ -3,9 +3,9 @@ title: "Section 2212 - Inland waterway transportation"
 usc_title: 33
 usc_section: "2212"
 chapter: 36
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 2212"
-generated_at: "2026-03-30T01:54:02.329Z"
+generated_at: "2026-03-30T01:57:08.440Z"
 ---
 
 # § 2212. Inland waterway transportation

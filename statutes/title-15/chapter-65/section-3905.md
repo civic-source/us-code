@@ -3,9 +3,9 @@ title: "Section 3905 - Clarification concerning permissible State authority"
 usc_title: 15
 usc_section: "3905"
 chapter: 65
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "15 U.S.C. § 3905"
-generated_at: "2026-03-30T01:53:03.889Z"
+generated_at: "2026-03-30T01:56:25.584Z"
 ---
 
 # § 3905. Clarification concerning permissible State authority

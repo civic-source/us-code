@@ -3,9 +3,9 @@ title: "Section 1023 - Rules and regulations"
 usc_title: 30
 usc_section: "1023"
 chapter: 23
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "30 U.S.C. § 1023"
-generated_at: "2026-03-30T01:53:31.716Z"
+generated_at: "2026-03-30T01:56:54.369Z"
 ---
 
 # § 1023. Rules and regulations

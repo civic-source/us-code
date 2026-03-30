@@ -3,9 +3,9 @@ title: "Section 53 - Protection of property"
 usc_title: 20
 usc_section: "53"
 chapter: 3
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "20 U.S.C. § 53"
-generated_at: "2026-03-30T01:53:17.927Z"
+generated_at: "2026-03-30T01:56:43.112Z"
 ---
 
 # § 53. Protection of property

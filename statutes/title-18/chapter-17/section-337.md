@@ -3,9 +3,9 @@ title: "Section 337 - Coins as security for loans"
 usc_title: 18
 usc_section: "337"
 chapter: 17
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 337"
-generated_at: "2026-03-30T01:53:21.344Z"
+generated_at: "2026-03-30T01:56:31.815Z"
 ---
 
 # § 337. Coins as security for loans

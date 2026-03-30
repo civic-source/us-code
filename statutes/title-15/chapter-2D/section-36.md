@@ -3,9 +3,9 @@ title: "Section 36 - Larceny and embezzlement"
 usc_title: 15
 usc_section: "36"
 chapter: 2
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "15 U.S.C. § 36"
-generated_at: "2026-03-30T01:53:03.766Z"
+generated_at: "2026-03-30T01:56:25.446Z"
 ---
 
 # § 80a–36. Larceny and embezzlement

@@ -3,9 +3,9 @@ title: "Section 11805 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11805"
 chapter: 123
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 11805"
-generated_at: "2026-03-30T01:54:58.613Z"
+generated_at: "2026-03-30T01:57:35.658Z"
 ---
 
 # § 11805. Authorization of appropriations

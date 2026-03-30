@@ -3,9 +3,9 @@ title: "Section 8015 - Under Secretary of the Navy"
 usc_title: 10
 usc_section: "8015"
 chapter: 803
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 8015"
-generated_at: "2026-03-30T01:52:52.536Z"
+generated_at: "2026-03-30T01:56:18.485Z"
 ---
 
 # § 8015. Under Secretary of the Navy

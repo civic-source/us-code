@@ -3,9 +3,9 @@ title: "Section 3674 - Reimbursement of expenses"
 usc_title: 38
 usc_section: "3674"
 chapter: 36
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "38 U.S.C. § 3674"
-generated_at: "2026-03-30T01:54:16.101Z"
+generated_at: "2026-03-30T01:57:15.716Z"
 ---
 
 # § 3674. Reimbursement of expenses

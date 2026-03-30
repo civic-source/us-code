@@ -3,9 +3,9 @@ title: "Section 1735b - Expenditures to correct or reimburse for structural or o
 usc_title: 12
 usc_section: "1735b"
 chapter: 13
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 1735b"
-generated_at: "2026-03-30T01:52:58.326Z"
+generated_at: "2026-03-30T01:56:28.208Z"
 ---
 
 # § 1735b. Expenditures to correct or reimburse for structural or other major defects in mortgaged homes

@@ -3,9 +3,9 @@ title: "Section 2279 - Applicability of other laws"
 usc_title: 42
 usc_section: "2279"
 chapter: 23
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 2279"
-generated_at: "2026-03-30T01:54:58.365Z"
+generated_at: "2026-03-30T01:57:35.413Z"
 ---
 
 # § 2279. Applicability of other laws

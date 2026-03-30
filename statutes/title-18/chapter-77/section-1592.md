@@ -3,9 +3,9 @@ title: "Section 1592 - Unlawful conduct with respect to documents in furtherance
 usc_title: 18
 usc_section: "1592"
 chapter: 77
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 1592"
-generated_at: "2026-03-30T01:53:21.365Z"
+generated_at: "2026-03-30T01:56:31.837Z"
 ---
 
 # § 1592. Unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor

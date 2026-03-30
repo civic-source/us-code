@@ -3,9 +3,9 @@ title: "Section 1318 - Benefits for survivors of certain veterans rated totally 
 usc_title: 38
 usc_section: "1318"
 chapter: 13
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "38 U.S.C. § 1318"
-generated_at: "2026-03-30T01:54:16.074Z"
+generated_at: "2026-03-30T01:57:15.687Z"
 ---
 
 # § 1318. Benefits for survivors of certain veterans rated totally disabled at time of death

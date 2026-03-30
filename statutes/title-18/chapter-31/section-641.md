@@ -3,9 +3,9 @@ title: "Section 641 - Public money, property or records"
 usc_title: 18
 usc_section: "641"
 chapter: 31
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 641"
-generated_at: "2026-03-30T01:53:21.347Z"
+generated_at: "2026-03-30T01:56:31.818Z"
 ---
 
 # § 641. Public money, property or records

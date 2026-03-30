@@ -3,9 +3,9 @@ title: "Section 334 - Issuance of Federal Reserve or national bank notes"
 usc_title: 18
 usc_section: "334"
 chapter: 17
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 334"
-generated_at: "2026-03-30T01:53:21.344Z"
+generated_at: "2026-03-30T01:56:31.815Z"
 ---
 
 # § 334. Issuance of Federal Reserve or national bank notes

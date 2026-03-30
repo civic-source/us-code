@@ -3,9 +3,9 @@ title: "Section 349 - Inter-American Air Forces Academy"
 usc_title: 10
 usc_section: "349"
 chapter: 16
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 349"
-generated_at: "2026-03-30T01:52:52.406Z"
+generated_at: "2026-03-30T01:56:18.328Z"
 ---
 
 # § 349. Inter-American Air Forces Academy

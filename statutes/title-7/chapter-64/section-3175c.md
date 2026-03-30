@@ -3,9 +3,9 @@ title: "Section 3175c - Program of food, nutrition, and consumer education by St
 usc_title: 7
 usc_section: "3175c"
 chapter: 64
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 3175c"
-generated_at: "2026-03-30T01:52:47.552Z"
+generated_at: "2026-03-30T01:55:52.427Z"
 ---
 
 # § 3175c. Program of food, nutrition, and consumer education by State cooperative extension services

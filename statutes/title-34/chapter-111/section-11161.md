@@ -3,9 +3,9 @@ title: "Section 11161 - Research and evaluation; statistical analyses; informati
 usc_title: 34
 usc_section: "11161"
 chapter: 111
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "34 U.S.C. § 11161"
-generated_at: "2026-03-30T01:53:55.380Z"
+generated_at: "2026-03-30T01:57:09.509Z"
 ---
 
 # § 11161. Research and evaluation; statistical analyses; information dissemination

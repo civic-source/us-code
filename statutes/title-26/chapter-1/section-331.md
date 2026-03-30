@@ -3,9 +3,9 @@ title: "Section 331 - Gain or loss to shareholder in corporate liquidations"
 usc_title: 26
 usc_section: "331"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 331"
-generated_at: "2026-03-30T01:53:45.319Z"
+generated_at: "2026-03-30T01:57:03.570Z"
 ---
 
 # § 331. Gain or loss to shareholder in corporate liquidations

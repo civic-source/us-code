@@ -3,9 +3,9 @@ title: "Section 416 - Leases of trust or restricted lands on San Xavier and Salt
 usc_title: 25
 usc_section: "416"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "25 U.S.C. § 416"
-generated_at: "2026-03-30T01:53:25.747Z"
+generated_at: "2026-03-30T01:56:48.685Z"
 ---
 
 # § 416. Leases of trust or restricted lands on San Xavier and Salt River Pima-Maricopa Indian Reservations for public, religious, educational, recreational, residential, business, farming or grazing purposes

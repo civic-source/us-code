@@ -3,9 +3,9 @@ title: "Section 4082 - Commitment to Attorney General; residential treatment cen
 usc_title: 18
 usc_section: "4082"
 chapter: 305
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 4082"
-generated_at: "2026-03-30T01:53:21.398Z"
+generated_at: "2026-03-30T01:56:31.872Z"
 ---
 
 # § 4082. Commitment to Attorney General; residential treatment centers; extension of limits of confinement; work furlough

@@ -3,9 +3,9 @@ title: "Section 7562 - Clothing"
 usc_title: 10
 usc_section: "7562"
 chapter: 765
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 7562"
-generated_at: "2026-03-30T01:52:52.534Z"
+generated_at: "2026-03-30T01:56:18.483Z"
 ---
 
 # § 7562. Clothing

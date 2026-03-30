@@ -3,9 +3,9 @@ title: "Section 421 - Disability determinations"
 usc_title: 42
 usc_section: "421"
 chapter: 7
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 421"
-generated_at: "2026-03-30T01:54:58.105Z"
+generated_at: "2026-03-30T01:57:35.136Z"
 ---
 
 # § 421. Disability determinations

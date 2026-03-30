@@ -3,9 +3,9 @@ title: "Section 2113 - Certification of cotton producer organizations"
 usc_title: 7
 usc_section: "2113"
 chapter: 53
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 2113"
-generated_at: "2026-03-30T01:52:47.536Z"
+generated_at: "2026-03-30T01:55:52.410Z"
 ---
 
 # § 2113. Certification of cotton producer organizations

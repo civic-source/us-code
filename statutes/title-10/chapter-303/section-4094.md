@@ -3,9 +3,9 @@ title: "Section 4094 - Enhanced pay authority for certain research and technolog
 usc_title: 10
 usc_section: "4094"
 chapter: 303
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 4094"
-generated_at: "2026-03-30T01:52:52.518Z"
+generated_at: "2026-03-30T01:56:18.464Z"
 ---
 
 # § 4094. Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories

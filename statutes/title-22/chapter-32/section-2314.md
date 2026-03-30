@@ -3,9 +3,9 @@ title: "Section 2314 - Furnishing of defense articles or related training or oth
 usc_title: 22
 usc_section: "2314"
 chapter: 32
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 2314"
-generated_at: "2026-03-30T01:53:29.245Z"
+generated_at: "2026-03-30T01:56:51.878Z"
 ---
 
 # § 2314. Furnishing of defense articles or related training or other defense service on grant basis

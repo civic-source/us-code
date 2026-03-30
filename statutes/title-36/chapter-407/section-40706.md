@@ -3,9 +3,9 @@ title: "Section 40706 - Distribution of assets on dissolution"
 usc_title: 36
 usc_section: "40706"
 chapter: 407
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "36 U.S.C. § 40706"
-generated_at: "2026-03-30T01:54:08.602Z"
+generated_at: "2026-03-30T01:57:12.901Z"
 ---
 
 # § 40706. Distribution of assets on dissolution

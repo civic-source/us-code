@@ -3,9 +3,9 @@ title: "Section 290a - Bureau appropriations as not limiting transportation of s
 usc_title: 25
 usc_section: "290a"
 chapter: 7
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "25 U.S.C. § 290a"
-generated_at: "2026-03-30T01:53:25.740Z"
+generated_at: "2026-03-30T01:56:48.677Z"
 ---
 
 # § 290a. Bureau appropriations as not limiting transportation of school children

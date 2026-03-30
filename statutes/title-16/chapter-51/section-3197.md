@@ -3,9 +3,9 @@ title: "Section 3197 - Revenue-producing visitor services"
 usc_title: 16
 usc_section: "3197"
 chapter: 51
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 3197"
-generated_at: "2026-03-30T01:53:13.311Z"
+generated_at: "2026-03-30T01:56:36.414Z"
 ---
 
 # § 3197. Revenue-producing visitor services

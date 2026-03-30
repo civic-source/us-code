@@ -3,9 +3,9 @@ title: "Section 4131 - Levee certifications"
 usc_title: 42
 usc_section: "4131"
 chapter: 50
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 4131"
-generated_at: "2026-03-30T01:54:58.410Z"
+generated_at: "2026-03-30T01:57:35.454Z"
 ---
 
 # § 4131. Levee certifications

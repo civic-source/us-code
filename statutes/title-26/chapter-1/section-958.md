@@ -3,9 +3,9 @@ title: "Section 958 - Rules for determining stock ownership"
 usc_title: 26
 usc_section: "958"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 958"
-generated_at: "2026-03-30T01:53:45.393Z"
+generated_at: "2026-03-30T01:57:03.703Z"
 ---
 
 # § 958. Rules for determining stock ownership

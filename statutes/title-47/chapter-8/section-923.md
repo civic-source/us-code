@@ -3,9 +3,9 @@ title: "Section 923 - Identification of reallocable frequencies"
 usc_title: 47
 usc_section: "923"
 chapter: 8
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "47 U.S.C. § 923"
-generated_at: "2026-03-30T01:55:11.406Z"
+generated_at: "2026-03-30T01:57:41.757Z"
 ---
 
 # § 923. Identification of reallocable frequencies

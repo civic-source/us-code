@@ -3,9 +3,9 @@ title: "Section 31322 - Preferred mortgages"
 usc_title: 46
 usc_section: "31322"
 chapter: 313
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "46 U.S.C. § 31322"
-generated_at: "2026-03-30T01:55:15.752Z"
+generated_at: "2026-03-30T01:57:39.578Z"
 ---
 
 # § 31322. Preferred mortgages

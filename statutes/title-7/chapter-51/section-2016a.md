@@ -3,9 +3,9 @@ title: "Section 2016a - EBT benefit fraud prevention"
 usc_title: 7
 usc_section: "2016a"
 chapter: 51
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 2016a"
-generated_at: "2026-03-30T01:52:47.528Z"
+generated_at: "2026-03-30T01:55:52.403Z"
 ---
 
 # § 2016a. EBT benefit fraud prevention

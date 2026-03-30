@@ -3,9 +3,9 @@ title: "Section 5365 - General provisions"
 usc_title: 25
 usc_section: "5365"
 chapter: 46
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "25 U.S.C. § 5365"
-generated_at: "2026-03-30T01:53:25.803Z"
+generated_at: "2026-03-30T01:56:48.746Z"
 ---
 
 # § 5365. General provisions

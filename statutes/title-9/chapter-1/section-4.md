@@ -3,9 +3,9 @@ title: "Section 4 - Failure to arbitrate under agreement; petition to United Sta
 usc_title: 9
 usc_section: "4"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "9 U.S.C. § 4"
-generated_at: "2026-03-30T01:52:39.031Z"
+generated_at: "2026-03-30T01:55:44.911Z"
 ---
 
 # § 4. Failure to arbitrate under agreement; petition to United States court having jurisdiction for order to compel arbitration; notice and service thereof; hearing and determination

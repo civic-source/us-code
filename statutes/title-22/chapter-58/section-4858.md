@@ -3,9 +3,9 @@ title: "Section 4858 - Training to improve perimeter security at United States d
 usc_title: 22
 usc_section: "4858"
 chapter: 58
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 4858"
-generated_at: "2026-03-30T01:53:29.299Z"
+generated_at: "2026-03-30T01:56:51.936Z"
 ---
 
 # § 4858. Training to improve perimeter security at United States diplomatic missions abroad

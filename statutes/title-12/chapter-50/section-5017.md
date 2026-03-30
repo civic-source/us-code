@@ -3,9 +3,9 @@ title: "Section 5017 - Evaluation and report by the Comptroller General"
 usc_title: 12
 usc_section: "5017"
 chapter: 50
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 5017"
-generated_at: "2026-03-30T01:52:58.412Z"
+generated_at: "2026-03-30T01:56:28.294Z"
 ---
 
 # § 5017. Evaluation and report by the Comptroller General

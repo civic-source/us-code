@@ -3,9 +3,9 @@ title: "Section 288l - Procedural provisions"
 usc_title: 2
 usc_section: "288l"
 chapter: 9
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "2 U.S.C. § 288l"
-generated_at: "2026-03-30T01:52:27.344Z"
+generated_at: "2026-03-30T01:55:42.897Z"
 ---
 
 # § 288l. Procedural provisions

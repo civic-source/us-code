@@ -3,9 +3,9 @@ title: "Section 10105 - Retention bonuses"
 usc_title: 5
 usc_section: "10105"
 chapter: 101
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "5 U.S.C. § 10105"
-generated_at: "2026-03-30T01:52:30.173Z"
+generated_at: "2026-03-30T01:55:40.164Z"
 ---
 
 # § 10105. Retention bonuses

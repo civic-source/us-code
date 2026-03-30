@@ -3,9 +3,9 @@ title: "Section 701 - “Usual number” of documents and reports; distribution 
 usc_title: 44
 usc_section: "701"
 chapter: 7
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "44 U.S.C. § 701"
-generated_at: "2026-03-30T01:54:17.898Z"
+generated_at: "2026-03-30T01:57:17.733Z"
 ---
 
 # § 701. “Usual number” of documents and reports; distribution of House and Senate documents and reports; binding; reports on private bills; number of copies printed; distribution

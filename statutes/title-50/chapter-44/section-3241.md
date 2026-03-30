@@ -3,9 +3,9 @@ title: "Section 3241 - Biennial reports on foreign biological threats"
 usc_title: 50
 usc_section: "3241"
 chapter: 44
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 3241"
-generated_at: "2026-03-30T01:55:03.850Z"
+generated_at: "2026-03-30T01:57:40.886Z"
 ---
 
 # § 3241. Biennial reports on foreign biological threats

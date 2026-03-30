@@ -3,9 +3,9 @@ title: "Section 57531 - Construction and charter of vessels for unsuccessful rou
 usc_title: 46
 usc_section: "57531"
 chapter: 575
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "46 U.S.C. § 57531"
-generated_at: "2026-03-30T01:55:15.772Z"
+generated_at: "2026-03-30T01:57:39.598Z"
 ---
 
 # § 57531. Construction and charter of vessels for unsuccessful routes

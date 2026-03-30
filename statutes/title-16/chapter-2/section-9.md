@@ -3,9 +3,9 @@ title: "Section 9 - Construction"
 usc_title: 16
 usc_section: "9"
 chapter: 2
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T01:53:13.205Z"
+generated_at: "2026-03-30T01:56:36.310Z"
 ---
 
 # § 539m–9. Construction

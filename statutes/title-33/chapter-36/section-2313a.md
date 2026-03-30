@@ -3,9 +3,9 @@ title: "Section 2313a - Engineering and environmental innovations of national si
 usc_title: 33
 usc_section: "2313a"
 chapter: 36
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 2313a"
-generated_at: "2026-03-30T01:54:02.337Z"
+generated_at: "2026-03-30T01:57:08.449Z"
 ---
 
 # § 2313a. Engineering and environmental innovations of national significance

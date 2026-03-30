@@ -3,9 +3,9 @@ title: "Section 2034 - General Manager, Deputy and Assistant General Managers"
 usc_title: 42
 usc_section: "2034"
 chapter: 23
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 2034"
-generated_at: "2026-03-30T01:54:58.351Z"
+generated_at: "2026-03-30T01:57:35.401Z"
 ---
 
 # § 2034. General Manager, Deputy and Assistant General Managers

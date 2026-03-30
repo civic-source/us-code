@@ -3,9 +3,9 @@ title: "Section 76a - Omitted"
 usc_title: 20
 usc_section: "76a"
 chapter: 3
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "20 U.S.C. § 76a"
-generated_at: "2026-03-30T01:53:17.927Z"
+generated_at: "2026-03-30T01:56:43.113Z"
 ---
 
 # §§ 76, 76a. Omitted

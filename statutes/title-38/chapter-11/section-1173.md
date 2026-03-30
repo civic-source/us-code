@@ -3,9 +3,9 @@ title: "Section 1173 - Formal evaluation of recommendations"
 usc_title: 38
 usc_section: "1173"
 chapter: 11
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "38 U.S.C. § 1173"
-generated_at: "2026-03-30T01:54:16.072Z"
+generated_at: "2026-03-30T01:57:15.685Z"
 ---
 
 # § 1173. Formal evaluation of recommendations

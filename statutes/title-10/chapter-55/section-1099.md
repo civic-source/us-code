@@ -3,9 +3,9 @@ title: "Section 1099 - Health care enrollment system and payment options"
 usc_title: 10
 usc_section: "1099"
 chapter: 55
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 1099"
-generated_at: "2026-03-30T01:52:52.445Z"
+generated_at: "2026-03-30T01:56:18.379Z"
 ---
 
 # § 1099. Health care enrollment system and payment options

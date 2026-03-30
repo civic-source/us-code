@@ -3,9 +3,9 @@ title: "Section 19321 - Special hiring authority for scientific, engineering, an
 usc_title: 42
 usc_section: "19321"
 chapter: 163
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 19321"
-generated_at: "2026-03-30T01:54:58.740Z"
+generated_at: "2026-03-30T01:57:35.791Z"
 ---
 
 # § 19321. Special hiring authority for scientific, engineering, and project management personnel

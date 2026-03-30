@@ -3,9 +3,9 @@ title: "Section 10691 - Sex offender apprehension grants"
 usc_title: 34
 usc_section: "10691"
 chapter: 101
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "34 U.S.C. § 10691"
-generated_at: "2026-03-30T01:53:55.376Z"
+generated_at: "2026-03-30T01:57:09.506Z"
 ---
 
 # § 10691. Sex offender apprehension grants

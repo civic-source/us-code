@@ -3,9 +3,9 @@ title: "Section 1993 - Repealed. Pub. L. 109–177, title I, § 110(a) , Mar. 9,
 usc_title: 18
 usc_section: "1993"
 chapter: 97
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 1993"
-generated_at: "2026-03-30T01:53:21.370Z"
+generated_at: "2026-03-30T01:56:31.843Z"
 ---
 
 # [§ 1993. Repealed. Pub. L. 109–177, title I, § 110(a) , Mar. 9, 2006 , 120 Stat. 205 ]

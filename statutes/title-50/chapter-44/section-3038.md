@@ -3,9 +3,9 @@ title: "Section 3038 - Responsibilities of Secretary of Defense pertaining to Na
 usc_title: 50
 usc_section: "3038"
 chapter: 44
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 3038"
-generated_at: "2026-03-30T01:55:03.840Z"
+generated_at: "2026-03-30T01:57:40.877Z"
 ---
 
 # § 3038. Responsibilities of Secretary of Defense pertaining to National Intelligence Program

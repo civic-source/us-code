@@ -3,9 +3,9 @@ title: "Section 6102 - Program requirements"
 usc_title: 22
 usc_section: "6102"
 chapter: 70
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 6102"
-generated_at: "2026-03-30T01:53:29.308Z"
+generated_at: "2026-03-30T01:56:51.945Z"
 ---
 
 # § 6102. Program requirements

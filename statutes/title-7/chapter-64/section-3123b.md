@@ -3,9 +3,9 @@ title: "Section 3123b - Repealed. Pub. L. 115–334, title VII, § 7105 , Dec. 2
 usc_title: 7
 usc_section: "3123b"
 chapter: 64
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 3123b"
-generated_at: "2026-03-30T01:52:47.549Z"
+generated_at: "2026-03-30T01:55:52.424Z"
 ---
 
 # § 3123b. Repealed. Pub. L. 115–334, title VII, § 7105 , Dec. 20, 2018 , 132 Stat. 4783

@@ -3,9 +3,9 @@ title: "Section 2342 - Cross-servicing agreements"
 usc_title: 10
 usc_section: "2342"
 chapter: 138
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 2342"
-generated_at: "2026-03-30T01:52:52.479Z"
+generated_at: "2026-03-30T01:56:18.421Z"
 ---
 
 # § 2342. Cross-servicing agreements

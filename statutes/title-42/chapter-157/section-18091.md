@@ -3,9 +3,9 @@ title: "Section 18091 - Requirement to maintain minimum essential coverage; find
 usc_title: 42
 usc_section: "18091"
 chapter: 157
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 18091"
-generated_at: "2026-03-30T01:54:58.715Z"
+generated_at: "2026-03-30T01:57:35.763Z"
 ---
 
 # § 18091. Requirement to maintain minimum essential coverage; findings

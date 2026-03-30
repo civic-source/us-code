@@ -3,9 +3,9 @@ title: "Section 5208 - Repealed. Pub. L. 112–74, div. D, title III , Dec. 23, 
 usc_title: 42
 usc_section: "5208"
 chapter: 68
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 5208"
-generated_at: "2026-03-30T01:54:58.441Z"
+generated_at: "2026-03-30T01:57:35.481Z"
 ---
 
 # § 5208. Repealed. Pub. L. 112–74, div. D, title III , Dec. 23, 2011 , 125 Stat. 963

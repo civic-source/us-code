@@ -3,9 +3,9 @@ title: "Section 178e - Cooperative projects with Mexico, Australia, and Israel"
 usc_title: 7
 usc_section: "178e"
 chapter: 8
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 178e"
-generated_at: "2026-03-30T01:52:47.458Z"
+generated_at: "2026-03-30T01:55:52.330Z"
 ---
 
 # § 178e. Cooperative projects with Mexico, Australia, and Israel

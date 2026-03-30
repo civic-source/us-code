@@ -3,9 +3,9 @@ title: "Section 2004a - Detail of commissioned officers as students at medical s
 usc_title: 10
 usc_section: "2004a"
 chapter: 101
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 2004a"
-generated_at: "2026-03-30T01:52:52.468Z"
+generated_at: "2026-03-30T01:56:18.408Z"
 ---
 
 # § 2004a. Detail of commissioned officers as students at medical schools

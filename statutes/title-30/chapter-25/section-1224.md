@@ -3,9 +3,9 @@ title: "Section 1224 - Duties of Secretary"
 usc_title: 30
 usc_section: "1224"
 chapter: 25
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "30 U.S.C. § 1224"
-generated_at: "2026-03-30T01:53:31.717Z"
+generated_at: "2026-03-30T01:56:54.369Z"
 ---
 
 # § 1224. Duties of Secretary

@@ -3,9 +3,9 @@ title: "Section 51320 - Acceptance of guarantees with gifts for major projects"
 usc_title: 46
 usc_section: "51320"
 chapter: 513
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "46 U.S.C. § 51320"
-generated_at: "2026-03-30T01:55:15.760Z"
+generated_at: "2026-03-30T01:57:39.585Z"
 ---
 
 # § 51320. Acceptance of guarantees with gifts for major projects

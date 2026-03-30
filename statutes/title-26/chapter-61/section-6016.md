@@ -3,9 +3,9 @@ title: "Section 6016 - Repealed. Pub. L. 90–364, title I, § 103(a) , June 28,
 usc_title: 26
 usc_section: "6016"
 chapter: 61
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 6016"
-generated_at: "2026-03-30T01:53:45.468Z"
+generated_at: "2026-03-30T01:57:03.780Z"
 ---
 
 # [§ 6016. Repealed. Pub. L. 90–364, title I, § 103(a) , June 28, 1968 , 82 Stat. 260 ]

@@ -3,9 +3,9 @@ title: "Section 3443 - Instructions to jury—(Rule)"
 usc_title: 18
 usc_section: "3443"
 chapter: 221
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 3443"
-generated_at: "2026-03-30T01:53:21.388Z"
+generated_at: "2026-03-30T01:56:31.862Z"
 ---
 
 # § 3443. Instructions to jury—(Rule)

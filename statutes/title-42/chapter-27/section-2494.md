@@ -3,9 +3,9 @@ title: "Section 2494 - Repealed. Pub. L. 91–230, title VI, § 662(1) , Apr. 13
 usc_title: 42
 usc_section: "2494"
 chapter: 27
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 2494"
-generated_at: "2026-03-30T01:54:58.372Z"
+generated_at: "2026-03-30T01:57:35.420Z"
 ---
 
 # §§ 2491 to 2494. Repealed. Pub. L. 91–230, title VI, § 662(1) , Apr. 13, 1970 , 84 Stat. 188

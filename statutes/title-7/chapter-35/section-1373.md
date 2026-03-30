@@ -3,9 +3,9 @@ title: "Section 1373 - Reports and records"
 usc_title: 7
 usc_section: "1373"
 chapter: 35
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 1373"
-generated_at: "2026-03-30T01:52:47.484Z"
+generated_at: "2026-03-30T01:55:52.356Z"
 ---
 
 # § 1373. Reports and records

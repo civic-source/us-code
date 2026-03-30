@@ -3,9 +3,9 @@ title: "Section 3615 - Reports to Congress; GAO report"
 usc_title: 44
 usc_section: "3615"
 chapter: 36
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "44 U.S.C. § 3615"
-generated_at: "2026-03-30T01:54:17.910Z"
+generated_at: "2026-03-30T01:57:17.745Z"
 ---
 
 # § 3615. Reports to Congress; GAO report

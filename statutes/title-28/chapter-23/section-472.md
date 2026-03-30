@@ -3,9 +3,9 @@ title: "Section 472 - Development and implementation of a civil justice expense 
 usc_title: 28
 usc_section: "472"
 chapter: 23
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "28 U.S.C. § 472"
-generated_at: "2026-03-30T01:53:40.559Z"
+generated_at: "2026-03-30T01:56:55.355Z"
 ---
 
 # § 472. Development and implementation of a civil justice expense and delay reduction plan

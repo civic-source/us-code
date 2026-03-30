@@ -3,9 +3,9 @@ title: "Section 9 - San Francisco area water reclamation study"
 usc_title: 43
 usc_section: "9"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "43 U.S.C. § 9"
-generated_at: "2026-03-30T01:54:29.397Z"
+generated_at: "2026-03-30T01:57:18.897Z"
 ---
 
 # § 390h–9. San Francisco area water reclamation study

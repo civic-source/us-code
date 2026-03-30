@@ -3,9 +3,9 @@ title: "Section 129 - Office rent and clerk hire for consolidated land offices"
 usc_title: 43
 usc_section: "129"
 chapter: 5
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "43 U.S.C. § 129"
-generated_at: "2026-03-30T01:54:29.389Z"
+generated_at: "2026-03-30T01:57:18.891Z"
 ---
 
 # § 129. Office rent and clerk hire for consolidated land offices

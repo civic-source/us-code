@@ -3,9 +3,9 @@ title: "Section 4913 - Exotic bird conservation assistance"
 usc_title: 16
 usc_section: "4913"
 chapter: 69
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 4913"
-generated_at: "2026-03-30T01:53:13.334Z"
+generated_at: "2026-03-30T01:56:36.437Z"
 ---
 
 # § 4913. Exotic bird conservation assistance

@@ -3,9 +3,9 @@ title: "Section 4633 - Duties of lead agency"
 usc_title: 42
 usc_section: "4633"
 chapter: 61
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 4633"
-generated_at: "2026-03-30T01:54:58.419Z"
+generated_at: "2026-03-30T01:57:35.460Z"
 ---
 
 # § 4633. Duties of lead agency

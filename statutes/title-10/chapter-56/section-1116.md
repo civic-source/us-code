@@ -3,9 +3,9 @@ title: "Section 1116 - Payments into the Fund"
 usc_title: 10
 usc_section: "1116"
 chapter: 56
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 1116"
-generated_at: "2026-03-30T01:52:52.446Z"
+generated_at: "2026-03-30T01:56:18.381Z"
 ---
 
 # § 1116. Payments into the Fund

@@ -3,9 +3,9 @@ title: "Section 362 - Transferred"
 usc_title: 48
 usc_section: "362"
 chapter: 2
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "48 U.S.C. § 362"
-generated_at: "2026-03-30T01:55:01.610Z"
+generated_at: "2026-03-30T01:57:38.472Z"
 ---
 
 # §§ 353a to 362. Transferred

@@ -3,9 +3,9 @@ title: "Section 278c - Acquisition of land for field sites"
 usc_title: 15
 usc_section: "278c"
 chapter: 7
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "15 U.S.C. § 278c"
-generated_at: "2026-03-30T01:53:03.774Z"
+generated_at: "2026-03-30T01:56:25.455Z"
 ---
 
 # § 278c. Acquisition of land for field sites

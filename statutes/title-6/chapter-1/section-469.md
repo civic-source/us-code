@@ -3,9 +3,9 @@ title: "Section 469 - Fees for credentialing and background investigations in tr
 usc_title: 6
 usc_section: "469"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "6 U.S.C. § 469"
-generated_at: "2026-03-30T01:52:43.002Z"
+generated_at: "2026-03-30T01:55:45.453Z"
 ---
 
 # § 469. Fees for credentialing and background investigations in transportation

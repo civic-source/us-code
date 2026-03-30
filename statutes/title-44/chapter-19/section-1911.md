@@ -3,9 +3,9 @@ title: "Section 1911 - Free use of Government publications in depositories; disp
 usc_title: 44
 usc_section: "1911"
 chapter: 19
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "44 U.S.C. § 1911"
-generated_at: "2026-03-30T01:54:17.902Z"
+generated_at: "2026-03-30T01:57:17.738Z"
 ---
 
 # § 1911. Free use of Government publications in depositories; disposal of unwanted publications

@@ -3,9 +3,9 @@ title: "Section 3703a - Tank vessel construction standards"
 usc_title: 46
 usc_section: "3703a"
 chapter: 37
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "46 U.S.C. § 3703a"
-generated_at: "2026-03-30T01:55:15.739Z"
+generated_at: "2026-03-30T01:57:39.563Z"
 ---
 
 # § 3703a. Tank vessel construction standards

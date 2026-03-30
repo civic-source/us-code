@@ -3,9 +3,9 @@ title: "Section 1432 - Political affiliation and place of residence"
 usc_title: 2
 usc_section: "1432"
 chapter: 24
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "2 U.S.C. § 1432"
-generated_at: "2026-03-30T01:52:27.364Z"
+generated_at: "2026-03-30T01:55:42.915Z"
 ---
 
 # § 1432. Political affiliation and place of residence

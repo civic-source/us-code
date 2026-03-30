@@ -3,9 +3,9 @@ title: "Section 12206 - Commissioned officers: appointment of former commissione
 usc_title: 10
 usc_section: "12206"
 chapter: 1205
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 12206"
-generated_at: "2026-03-30T01:52:52.560Z"
+generated_at: "2026-03-30T01:56:18.515Z"
 ---
 
 # § 12206. Commissioned officers: appointment of former commissioned officers

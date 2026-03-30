@@ -3,9 +3,9 @@ title: "Section 4201 - Major defense acquisition programs: definition; exception
 usc_title: 10
 usc_section: "4201"
 chapter: 321
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 4201"
-generated_at: "2026-03-30T01:52:52.519Z"
+generated_at: "2026-03-30T01:56:18.465Z"
 ---
 
 # § 4201. Major defense acquisition programs: definition; exceptions

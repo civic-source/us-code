@@ -3,9 +3,9 @@ title: "Section 8001 - Authorization"
 usc_title: 26
 usc_section: "8001"
 chapter: 91
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 8001"
-generated_at: "2026-03-30T01:53:45.522Z"
+generated_at: "2026-03-30T01:57:03.835Z"
 ---
 
 # § 8001. Authorization

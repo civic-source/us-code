@@ -3,9 +3,9 @@ title: "Section 4842 - Foreign boycotts"
 usc_title: 50
 usc_section: "4842"
 chapter: 58
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 4842"
-generated_at: "2026-03-30T01:55:03.889Z"
+generated_at: "2026-03-30T01:57:40.923Z"
 ---
 
 # § 4842. Foreign boycotts

@@ -3,9 +3,9 @@ title: "Section 1362 - Liability for termination of single-employer plans under 
 usc_title: 29
 usc_section: "1362"
 chapter: 18
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "29 U.S.C. § 1362"
-generated_at: "2026-03-30T01:53:33.004Z"
+generated_at: "2026-03-30T01:56:56.284Z"
 ---
 
 # § 1362. Liability for termination of single-employer plans under a distress termination or a termination by corporation

@@ -3,9 +3,9 @@ title: "Section 5492 - Declaration of the Republic of Hungary"
 usc_title: 22
 usc_section: "5492"
 chapter: 63
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 5492"
-generated_at: "2026-03-30T01:53:29.302Z"
+generated_at: "2026-03-30T01:56:51.939Z"
 ---
 
 # § 5492. Declaration of the Republic of Hungary

@@ -3,9 +3,9 @@ title: "Section 1905 - List of laws inapplicable to contracts or subcontracts no
 usc_title: 41
 usc_section: "1905"
 chapter: 19
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "41 U.S.C. § 1905"
-generated_at: "2026-03-30T01:54:18.160Z"
+generated_at: "2026-03-30T01:57:18.041Z"
 ---
 
 # § 1905. List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold

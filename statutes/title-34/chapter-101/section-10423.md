@@ -3,9 +3,9 @@ title: "Section 10423 - Review of State applications"
 usc_title: 34
 usc_section: "10423"
 chapter: 101
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "34 U.S.C. § 10423"
-generated_at: "2026-03-30T01:53:55.368Z"
+generated_at: "2026-03-30T01:57:09.498Z"
 ---
 
 # § 10423. Review of State applications

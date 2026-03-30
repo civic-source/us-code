@@ -3,9 +3,9 @@ title: "Section 9871 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9871"
 chapter: 105
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 9871"
-generated_at: "2026-03-30T01:54:58.585Z"
+generated_at: "2026-03-30T01:57:35.628Z"
 ---
 
 # § 9871. Authorization of appropriations

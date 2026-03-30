@@ -3,9 +3,9 @@ title: "Section 9801 - Appropriate congressional committees defined"
 usc_title: 22
 usc_section: "9801"
 chapter: 105
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 9801"
-generated_at: "2026-03-30T01:53:29.353Z"
+generated_at: "2026-03-30T01:56:51.993Z"
 ---
 
 # § 9801. Appropriate congressional committees defined

@@ -3,9 +3,9 @@ title: "Section 3373 - Undefinitized contractual actions: limitation on inclusio
 usc_title: 10
 usc_section: "3373"
 chapter: 244
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 3373"
-generated_at: "2026-03-30T01:52:52.511Z"
+generated_at: "2026-03-30T01:56:18.455Z"
 ---
 
 # § 3373. Undefinitized contractual actions: limitation on inclusion of non-urgent requirements and on modification of scope

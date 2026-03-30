@@ -3,9 +3,9 @@ title: "Section 15707 - Coordination"
 usc_title: 42
 usc_section: "15707"
 chapter: 148
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 15707"
-generated_at: "2026-03-30T01:54:58.660Z"
+generated_at: "2026-03-30T01:57:35.709Z"
 ---
 
 # § 15707. Coordination

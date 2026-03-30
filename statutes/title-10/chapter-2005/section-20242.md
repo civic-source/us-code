@@ -3,9 +3,9 @@ title: "Section 20242 - Authority to vacate promotions to grade of brigadier gen
 usc_title: 10
 usc_section: "20242"
 chapter: 2005
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 20242"
-generated_at: "2026-03-30T01:52:52.571Z"
+generated_at: "2026-03-30T01:56:18.529Z"
 ---
 
 # § 20242. Authority to vacate promotions to grade of brigadier general

@@ -3,9 +3,9 @@ title: "Section 1090 - Free Application for Federal Student Aid"
 usc_title: 20
 usc_section: "1090"
 chapter: 28
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "20 U.S.C. § 1090"
-generated_at: "2026-03-30T01:53:17.977Z"
+generated_at: "2026-03-30T01:56:43.168Z"
 ---
 
 # § 1090. Free Application for Federal Student Aid
@@ -169,6 +169,14 @@ generated_at: "2026-03-30T01:53:17.977Z"
     - **(C)** clearly informs each individual upon initial contact, that the Free Application for Federal Student Aid is a free form that may be completed without professional assistance; and
     - **(D)** does not produce, use, or disseminate any other form for the purpose of applying for Federal financial aid other than the Free Application for Federal Student Aid developed by the Secretary under this section.
   - **(3)** The need for and eligibility of a student for financial assistance under this subchapter may be determined only by using the Free Application for Federal Student Aid developed by the Secretary under this section. Such application shall be produced, distributed, and processed by the Secretary, and no parent or student shall be charged a fee by the Secretary, a contractor, a third-party servicer or private software provider, or any other public or private entity for the collection, processing, or delivery of Federal financial aid through the use of such application. No data collected on a form for which a fee is charged shall be used to complete the Free Application for Federal Student Aid prescribed under this section, except that a Federal or State income tax form prepared by a paid income tax preparer or preparer service for the primary purpose of filing a Federal or State income tax return may be used to complete the Free Application for Federal Student Aid prescribed under this section.
-  - **(4)** The Secretary shall enable applicants to submit a Free Application for Federal Student Aid developed under this section and initiate the processing of such application, not later than January 1 of the applicant’s planned year of enrollment, to the maximum extent practicable, on or around October 1 prior to the applicant’s planned year of enrollment.
+  - **(4)**
+    - **(A)** The Secretary shall enable applicants to submit a Free Application for Federal Student Aid developed under this section and initiate the processing of such application, not later than October 1 prior to the applicant’s planned year of enrollment.
+    - **(B)** The Secretary shall, with respect to each application processing cycle, prior to the initiation of such processing cycle—
+      - **(i)** on a date that is not later than September 1—
+        - **(I)** certify to the authorizing committees that the Department will meet the October 1 deadline specified in subparagraph (A) for such processing cycle; or
+        - **(II)** certify to such committees that the Department will not meet such deadline; and
+      - **(ii)** in the case of a certification described in clause (i)(II), on a date that is not later than September 30, testify before the authorizing committees on—
+        - **(I)** the anticipated failure to meet such deadline; and
+        - **(II)** the financial impact such failure will have on students and families.
   - **(5)** The Secretary shall maintain an electronic method for applicants to enter income and family size information to calculate a non-binding estimate of the applicant’s Federal financial aid available under this subchapter and shall place such calculator on a prominent location at the beginning of the Free Application for Federal Student Aid.
   - **(6)** Notwithstanding any other provision of this subchapter, an institution may not condition the packaging or receipt of Federal financial aid on the completion of additional requests for financial information beyond the Free Application for Federal Student Aid, unless such information is required for verification, a determination of independence, or professional judgement.

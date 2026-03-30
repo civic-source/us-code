@@ -3,9 +3,9 @@ title: "Section 2007 - Public debt character of the obligations of the Postal Se
 usc_title: 39
 usc_section: "2007"
 chapter: 20
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "39 U.S.C. § 2007"
-generated_at: "2026-03-30T01:54:04.155Z"
+generated_at: "2026-03-30T01:57:15.937Z"
 ---
 
 # § 2007. Public debt character of the obligations of the Postal Service

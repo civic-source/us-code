@@ -3,9 +3,9 @@ title: "Section 288 - Ruth L. Kirschstein National Research Service Awards"
 usc_title: 42
 usc_section: "288"
 chapter: 6
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 288"
-generated_at: "2026-03-30T01:54:58.001Z"
+generated_at: "2026-03-30T01:57:35.027Z"
 ---
 
 # § 288. Ruth L. Kirschstein National Research Service Awards

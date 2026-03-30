@@ -3,9 +3,9 @@ title: "Section 455a - State taxation; lands of desert-land entryman"
 usc_title: 43
 usc_section: "455a"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "43 U.S.C. § 455a"
-generated_at: "2026-03-30T01:54:29.403Z"
+generated_at: "2026-03-30T01:57:18.904Z"
 ---
 
 # § 455a. State taxation; lands of desert-land entryman

@@ -3,9 +3,9 @@ title: "Section 2007 - Exchange of rooms"
 usc_title: 2
 usc_section: "2007"
 chapter: 30
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "2 U.S.C. § 2007"
-generated_at: "2026-03-30T01:52:27.373Z"
+generated_at: "2026-03-30T01:55:42.923Z"
 ---
 
 # § 2007. Exchange of rooms

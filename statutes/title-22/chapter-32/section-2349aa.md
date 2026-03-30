@@ -3,9 +3,9 @@ title: "Section 2349aa - General authority"
 usc_title: 22
 usc_section: "2349aa"
 chapter: 32
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 2349aa"
-generated_at: "2026-03-30T01:53:29.246Z"
+generated_at: "2026-03-30T01:56:51.879Z"
 ---
 
 # § 2349aa. General authority

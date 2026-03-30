@@ -3,9 +3,9 @@ title: "Section 3789l - Transferred"
 usc_title: 42
 usc_section: "3789l"
 chapter: 46
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 3789l"
-generated_at: "2026-03-30T01:54:58.403Z"
+generated_at: "2026-03-30T01:57:35.446Z"
 ---
 
 # § 3789l. Transferred

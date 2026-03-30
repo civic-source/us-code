@@ -3,9 +3,9 @@ title: "Section 1757 - State disbursement to schools"
 usc_title: 42
 usc_section: "1757"
 chapter: 13
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 1757"
-generated_at: "2026-03-30T01:54:58.316Z"
+generated_at: "2026-03-30T01:57:35.361Z"
 ---
 
 # § 1757. State disbursement to schools

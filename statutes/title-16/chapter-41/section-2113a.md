@@ -3,9 +3,9 @@ title: "Section 2113a - Good neighbor authority"
 usc_title: 16
 usc_section: "2113a"
 chapter: 41
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 2113a"
-generated_at: "2026-03-30T01:53:13.303Z"
+generated_at: "2026-03-30T01:56:36.406Z"
 ---
 
 # § 2113a. Good neighbor authority

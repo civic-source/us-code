@@ -3,9 +3,9 @@ title: "Section 1706 - High Intensity Drug Trafficking Areas Program"
 usc_title: 21
 usc_section: "1706"
 chapter: 22
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "21 U.S.C. § 1706"
-generated_at: "2026-03-30T01:53:24.812Z"
+generated_at: "2026-03-30T01:56:47.520Z"
 ---
 
 # § 1706. High Intensity Drug Trafficking Areas Program

@@ -3,9 +3,9 @@ title: "Section 2651 - Establishment of Department"
 usc_title: 22
 usc_section: "2651"
 chapter: 38
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 2651"
-generated_at: "2026-03-30T01:53:29.260Z"
+generated_at: "2026-03-30T01:56:51.894Z"
 ---
 
 # § 2651. Establishment of Department

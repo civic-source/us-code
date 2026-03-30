@@ -3,9 +3,9 @@ title: "Section 5602 - Definitions"
 usc_title: 7
 usc_section: "5602"
 chapter: 87
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 5602"
-generated_at: "2026-03-30T01:52:47.566Z"
+generated_at: "2026-03-30T01:55:52.441Z"
 ---
 
 # § 5602. Definitions

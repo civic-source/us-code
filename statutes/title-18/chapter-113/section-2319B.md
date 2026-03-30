@@ -3,9 +3,9 @@ title: "Section 2319B - Unauthorized recording of Motion pictures in a Motion pi
 usc_title: 18
 usc_section: "2319B"
 chapter: 113
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 2319B"
-generated_at: "2026-03-30T01:53:21.376Z"
+generated_at: "2026-03-30T01:56:31.849Z"
 ---
 
 # § 2319B. Unauthorized recording of Motion pictures in a Motion picture exhibition facility

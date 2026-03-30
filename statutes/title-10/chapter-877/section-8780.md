@@ -3,9 +3,9 @@ title: "Section 8780 - Heat and light for Young Men’s Christian Association bu
 usc_title: 10
 usc_section: "8780"
 chapter: 877
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 8780"
-generated_at: "2026-03-30T01:52:52.547Z"
+generated_at: "2026-03-30T01:56:18.500Z"
 ---
 
 # § 8780. Heat and light for Young Men’s Christian Association buildings

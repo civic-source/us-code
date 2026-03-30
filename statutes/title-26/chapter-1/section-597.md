@@ -3,9 +3,9 @@ title: "Section 597 - Treatment of transactions in which Federal financial assis
 usc_title: 26
 usc_section: "597"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "26 U.S.C. § 597"
-generated_at: "2026-03-30T01:53:45.366Z"
+generated_at: "2026-03-30T01:57:03.674Z"
 ---
 
 # § 597. Treatment of transactions in which Federal financial assistance provided

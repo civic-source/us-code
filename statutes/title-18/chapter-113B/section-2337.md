@@ -3,9 +3,9 @@ title: "Section 2337 - Suits against Government officials"
 usc_title: 18
 usc_section: "2337"
 chapter: 113
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "18 U.S.C. § 2337"
-generated_at: "2026-03-30T01:53:21.378Z"
+generated_at: "2026-03-30T01:56:31.851Z"
 ---
 
 # § 2337. Suits against Government officials

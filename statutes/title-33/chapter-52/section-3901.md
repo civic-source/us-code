@@ -3,9 +3,9 @@ title: "Section 3901 - Definitions"
 usc_title: 33
 usc_section: "3901"
 chapter: 52
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 3901"
-generated_at: "2026-03-30T01:54:02.358Z"
+generated_at: "2026-03-30T01:57:08.470Z"
 ---
 
 # § 3901. Definitions

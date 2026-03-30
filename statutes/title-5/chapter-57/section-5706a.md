@@ -3,9 +3,9 @@ title: "Section 5706a - Subsistence and travel expenses for threatened law enfor
 usc_title: 5
 usc_section: "5706a"
 chapter: 57
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "5 U.S.C. § 5706a"
-generated_at: "2026-03-30T01:52:30.131Z"
+generated_at: "2026-03-30T01:55:40.128Z"
 ---
 
 # § 5706a. Subsistence and travel expenses for threatened law enforcement personnel

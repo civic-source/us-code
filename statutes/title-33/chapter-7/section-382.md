@@ -3,9 +3,9 @@ title: "Section 382 - Seizure of piratical vessels generally"
 usc_title: 33
 usc_section: "382"
 chapter: 7
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 382"
-generated_at: "2026-03-30T01:54:02.274Z"
+generated_at: "2026-03-30T01:57:08.385Z"
 ---
 
 # § 382. Seizure of piratical vessels generally

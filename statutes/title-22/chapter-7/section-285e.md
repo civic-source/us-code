@@ -3,9 +3,9 @@ title: "Section 285e - Authorization of appropriations; income covered into Trea
 usc_title: 22
 usc_section: "285e"
 chapter: 7
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "22 U.S.C. § 285e"
-generated_at: "2026-03-30T01:53:29.209Z"
+generated_at: "2026-03-30T01:56:51.840Z"
 ---
 
 # § 285e. Authorization of appropriations; income covered into Treasury

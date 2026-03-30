@@ -3,9 +3,9 @@ title: "Section 7434 - Greenhouse gas reduction fund"
 usc_title: 42
 usc_section: "7434"
 chapter: 85
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 7434"
-generated_at: "2026-03-30T01:54:58.514Z"
+generated_at: "2026-03-30T01:57:35.553Z"
 ---
 
 # § 7434. Greenhouse gas reduction fund

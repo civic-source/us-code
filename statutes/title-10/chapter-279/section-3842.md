@@ -3,9 +3,9 @@ title: "Section 3842 - Performance of incurred cost audits"
 usc_title: 10
 usc_section: "3842"
 chapter: 279
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 3842"
-generated_at: "2026-03-30T01:52:52.516Z"
+generated_at: "2026-03-30T01:56:18.460Z"
 ---
 
 # § 3842. Performance of incurred cost audits

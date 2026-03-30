@@ -3,9 +3,9 @@ title: "Section 412 - Registration as prerequisite to certain remedies for infri
 usc_title: 17
 usc_section: "412"
 chapter: 4
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "17 U.S.C. § 412"
-generated_at: "2026-03-30T01:53:09.332Z"
+generated_at: "2026-03-30T01:56:30.332Z"
 ---
 
 # § 412. Registration as prerequisite to certain remedies for infringement

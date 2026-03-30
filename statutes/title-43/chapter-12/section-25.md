@@ -3,9 +3,9 @@ title: "Section 25 - Mountain View, Moffett Area reclaimed water pipeline projec
 usc_title: 43
 usc_section: "25"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "43 U.S.C. § 25"
-generated_at: "2026-03-30T01:54:29.398Z"
+generated_at: "2026-03-30T01:57:18.898Z"
 ---
 
 # § 390h–25. Mountain View, Moffett Area reclaimed water pipeline project

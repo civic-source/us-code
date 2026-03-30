@@ -3,9 +3,9 @@ title: "Section 3720E - Dissemination of information regarding identity of delin
 usc_title: 31
 usc_section: "3720E"
 chapter: 37
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "31 U.S.C. § 3720E"
-generated_at: "2026-03-30T01:53:51.244Z"
+generated_at: "2026-03-30T01:57:06.722Z"
 ---
 
 # § 3720E. Dissemination of information regarding identity of delinquent debtors

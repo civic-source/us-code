@@ -3,9 +3,9 @@ title: "Section 3917 - Repealed. Pub. L. 104–66, title II, § 2141(a) , Dec. 2
 usc_title: 20
 usc_section: "3917"
 chapter: 52
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "20 U.S.C. § 3917"
-generated_at: "2026-03-30T01:53:18.023Z"
+generated_at: "2026-03-30T01:56:43.218Z"
 ---
 
 # § 3917. Repealed. Pub. L. 104–66, title II, § 2141(a) , Dec. 21, 1995 , 109 Stat. 731

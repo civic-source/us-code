@@ -3,9 +3,9 @@ title: "Section 17302 - Prohibition on false information"
 usc_title: 42
 usc_section: "17302"
 chapter: 152
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 17302"
-generated_at: "2026-03-30T01:54:58.702Z"
+generated_at: "2026-03-30T01:57:35.750Z"
 ---
 
 # § 17302. Prohibition on false information

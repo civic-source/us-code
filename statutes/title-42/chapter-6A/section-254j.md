@@ -3,9 +3,9 @@ title: "Section 254j - National Advisory Council on National Health Service Corp
 usc_title: 42
 usc_section: "254j"
 chapter: 6
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 254j"
-generated_at: "2026-03-30T01:54:57.965Z"
+generated_at: "2026-03-30T01:57:34.989Z"
 ---
 
 # § 254j. National Advisory Council on National Health Service Corps

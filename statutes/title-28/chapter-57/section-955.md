@@ -3,9 +3,9 @@ title: "Section 955 - Practice of law restricted"
 usc_title: 28
 usc_section: "955"
 chapter: 57
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "28 U.S.C. § 955"
-generated_at: "2026-03-30T01:53:40.566Z"
+generated_at: "2026-03-30T01:56:55.362Z"
 ---
 
 # § 955. Practice of law restricted

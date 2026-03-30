@@ -3,9 +3,9 @@ title: "Section 1599 - Transfer of functions from government comptroller for Vir
 usc_title: 48
 usc_section: "1599"
 chapter: 12
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "48 U.S.C. § 1599"
-generated_at: "2026-03-30T01:55:01.619Z"
+generated_at: "2026-03-30T01:57:38.482Z"
 ---
 
 # § 1599. Transfer of functions from government comptroller for Virgin Islands to Inspector General, Department of the Interior

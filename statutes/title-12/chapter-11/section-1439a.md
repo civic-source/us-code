@@ -3,9 +3,9 @@ title: "Section 1439a - Deposits in special fund; availability for all purposes 
 usc_title: 12
 usc_section: "1439a"
 chapter: 11
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 1439a"
-generated_at: "2026-03-30T01:52:58.293Z"
+generated_at: "2026-03-30T01:56:28.174Z"
 ---
 
 # § 1439a. Deposits in special fund; availability for all purposes of Federal Home Loan Bank Board and Federal Home Loan Bank Administration

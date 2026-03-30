@@ -3,9 +3,9 @@ title: "Section 3523 - Disapproval of enrollment in certain courses"
 usc_title: 38
 usc_section: "3523"
 chapter: 35
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "38 U.S.C. § 3523"
-generated_at: "2026-03-30T01:54:16.100Z"
+generated_at: "2026-03-30T01:57:15.715Z"
 ---
 
 # § 3523. Disapproval of enrollment in certain courses

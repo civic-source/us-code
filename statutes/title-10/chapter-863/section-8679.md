@@ -3,9 +3,9 @@ title: "Section 8679 - Construction of vessels in foreign shipyards: prohibition
 usc_title: 10
 usc_section: "8679"
 chapter: 863
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 8679"
-generated_at: "2026-03-30T01:52:52.544Z"
+generated_at: "2026-03-30T01:56:18.496Z"
 ---
 
 # § 8679. Construction of vessels in foreign shipyards: prohibition

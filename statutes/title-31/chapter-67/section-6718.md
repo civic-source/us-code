@@ -3,9 +3,9 @@ title: "Section 6718 - Investigations and reviews"
 usc_title: 31
 usc_section: "6718"
 chapter: 67
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "31 U.S.C. § 6718"
-generated_at: "2026-03-30T01:53:51.257Z"
+generated_at: "2026-03-30T01:57:06.737Z"
 ---
 
 # § 6718. Investigations and reviews

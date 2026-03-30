@@ -3,9 +3,9 @@ title: "Section 10595 - Reports"
 usc_title: 34
 usc_section: "10595"
 chapter: 101
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "34 U.S.C. § 10595"
-generated_at: "2026-03-30T01:53:55.374Z"
+generated_at: "2026-03-30T01:57:09.503Z"
 ---
 
 # § 10595. Reports

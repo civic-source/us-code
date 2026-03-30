@@ -3,9 +3,9 @@ title: "Section 589 - Installation, repair, and replacement of sidewalks"
 usc_title: 40
 usc_section: "589"
 chapter: 5
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "40 U.S.C. § 589"
-generated_at: "2026-03-30T01:54:12.007Z"
+generated_at: "2026-03-30T01:57:13.776Z"
 ---
 
 # § 589. Installation, repair, and replacement of sidewalks

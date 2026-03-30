@@ -3,9 +3,9 @@ title: "Section 620 - Members of Board of Governors of the Federal Reserve Syste
 usc_title: 12
 usc_section: "620"
 chapter: 6
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 620"
-generated_at: "2026-03-30T01:52:58.284Z"
+generated_at: "2026-03-30T01:56:28.166Z"
 ---
 
 # § 620. Members of Board of Governors of the Federal Reserve System without interest in corporation

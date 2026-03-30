@@ -3,9 +3,9 @@ title: "Section 160f - Repealed. Pub. L. 85–707, § 21(b)(5) , July 7, 1958 , 
 usc_title: 50
 usc_section: "160f"
 chapter: 9
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 160f"
-generated_at: "2026-03-30T01:55:03.800Z"
+generated_at: "2026-03-30T01:57:40.840Z"
 ---
 
 # §§ 160a to 160f. Repealed. Pub. L. 85–707, § 21(b)(5) , July 7, 1958 , 72 Stat. 337

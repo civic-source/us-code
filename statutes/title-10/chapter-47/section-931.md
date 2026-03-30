@@ -3,9 +3,9 @@ title: "Section 931 - Art. 131. Perjury"
 usc_title: 10
 usc_section: "931"
 chapter: 47
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 931"
-generated_at: "2026-03-30T01:52:52.429Z"
+generated_at: "2026-03-30T01:56:18.359Z"
 ---
 
 # § 931. Art. 131. Perjury

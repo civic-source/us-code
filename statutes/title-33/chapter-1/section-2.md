@@ -3,9 +3,9 @@ title: "Section 2 - East River, New York"
 usc_title: 33
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T01:54:02.271Z"
+generated_at: "2026-03-30T01:57:08.382Z"
 ---
 
 # § 59c–2. East River, New York

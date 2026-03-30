@@ -3,9 +3,9 @@ title: "Section 1732 - Repealed. Pub. L. 116–92, div. A, title VIII, § 861(j)
 usc_title: 10
 usc_section: "1732"
 chapter: 87
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 1732"
-generated_at: "2026-03-30T01:52:52.466Z"
+generated_at: "2026-03-30T01:56:18.406Z"
 ---
 
 # [§ 1732. Repealed. Pub. L. 116–92, div. A, title VIII, § 861(j)(5) , Dec. 20, 2019 , 133 Stat. 1519 ]

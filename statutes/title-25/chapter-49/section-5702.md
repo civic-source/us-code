@@ -3,9 +3,9 @@ title: "Section 5702 - Definitions"
 usc_title: 25
 usc_section: "5702"
 chapter: 49
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "25 U.S.C. § 5702"
-generated_at: "2026-03-30T01:53:25.807Z"
+generated_at: "2026-03-30T01:56:48.750Z"
 ---
 
 # § 5702. Definitions

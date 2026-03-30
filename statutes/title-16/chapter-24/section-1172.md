@@ -3,9 +3,9 @@ title: "Section 1172 - Practice and procedure"
 usc_title: 16
 usc_section: "1172"
 chapter: 24
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "16 U.S.C. § 1172"
-generated_at: "2026-03-30T01:53:13.262Z"
+generated_at: "2026-03-30T01:56:36.365Z"
 ---
 
 # § 1172. Practice and procedure

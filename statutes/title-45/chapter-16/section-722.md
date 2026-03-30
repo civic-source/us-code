@@ -3,9 +3,9 @@ title: "Section 722 - Records, audit, and examination"
 usc_title: 45
 usc_section: "722"
 chapter: 16
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "45 U.S.C. § 722"
-generated_at: "2026-03-30T01:54:23.125Z"
+generated_at: "2026-03-30T01:57:18.288Z"
 ---
 
 # § 722. Records, audit, and examination

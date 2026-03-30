@@ -3,9 +3,9 @@ title: "Section 3346 - Compilation and organization of previously declassified r
 usc_title: 50
 usc_section: "3346"
 chapter: 45
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 3346"
-generated_at: "2026-03-30T01:55:03.854Z"
+generated_at: "2026-03-30T01:57:40.891Z"
 ---
 
 # § 3346. Compilation and organization of previously declassified records

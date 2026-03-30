@@ -3,9 +3,9 @@ title: "Section 4154 - Standards for design, construction, and alteration of bui
 usc_title: 42
 usc_section: "4154"
 chapter: 51
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 4154"
-generated_at: "2026-03-30T01:54:58.412Z"
+generated_at: "2026-03-30T01:57:35.454Z"
 ---
 
 # § 4154. Standards for design, construction, and alteration of buildings; Secretary of Defense

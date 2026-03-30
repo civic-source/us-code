@@ -3,9 +3,9 @@ title: "Section 19132 - National Engineering Biology Research and Development In
 usc_title: 42
 usc_section: "19132"
 chapter: 163
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 19132"
-generated_at: "2026-03-30T01:54:58.735Z"
+generated_at: "2026-03-30T01:57:35.785Z"
 ---
 
 # § 19132. National Engineering Biology Research and Development Initiative

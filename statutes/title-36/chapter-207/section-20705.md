@@ -3,9 +3,9 @@ title: "Section 20705 - Governing body"
 usc_title: 36
 usc_section: "20705"
 chapter: 207
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "36 U.S.C. § 20705"
-generated_at: "2026-03-30T01:54:08.599Z"
+generated_at: "2026-03-30T01:57:12.896Z"
 ---
 
 # § 20705. Governing body

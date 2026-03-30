@@ -3,9 +3,9 @@ title: "Section 44745 - Don Young Alaska Aviation Safety Initiative"
 usc_title: 49
 usc_section: "44745"
 chapter: 447
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "49 U.S.C. § 44745"
-generated_at: "2026-03-30T01:55:07.862Z"
+generated_at: "2026-03-30T01:57:44.952Z"
 ---
 
 # § 44745. Don Young Alaska Aviation Safety Initiative

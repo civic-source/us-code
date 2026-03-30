@@ -3,9 +3,9 @@ title: "Section 2441 - Authority to establish certain contracting, program manag
 usc_title: 50
 usc_section: "2441"
 chapter: 41
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 2441"
-generated_at: "2026-03-30T01:55:03.825Z"
+generated_at: "2026-03-30T01:57:40.863Z"
 ---
 
 # § 2441. Authority to establish certain contracting, program management, scientific, engineering, and technical positions

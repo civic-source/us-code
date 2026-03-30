@@ -3,9 +3,9 @@ title: "Section 41109 - Assessment of penalties"
 usc_title: 46
 usc_section: "41109"
 chapter: 411
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "46 U.S.C. § 41109"
-generated_at: "2026-03-30T01:55:15.756Z"
+generated_at: "2026-03-30T01:57:39.581Z"
 ---
 
 # § 41109. Assessment of penalties

@@ -3,9 +3,9 @@ title: "Section 2008u - Health care services"
 usc_title: 7
 usc_section: "2008u"
 chapter: 50
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "7 U.S.C. § 2008u"
-generated_at: "2026-03-30T01:52:47.521Z"
+generated_at: "2026-03-30T01:55:52.394Z"
 ---
 
 # § 2008u. Health care services

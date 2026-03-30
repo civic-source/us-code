@@ -3,9 +3,9 @@ title: "Section 4043 - Preservation of remedies"
 usc_title: 50
 usc_section: "4043"
 chapter: 50
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "50 U.S.C. § 4043"
-generated_at: "2026-03-30T01:55:03.872Z"
+generated_at: "2026-03-30T01:57:40.909Z"
 ---
 
 # § 4043. Preservation of remedies

@@ -3,9 +3,9 @@ title: "Section 4103 - Directors and Assistant Directors for Veterans’ Employm
 usc_title: 38
 usc_section: "4103"
 chapter: 41
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "38 U.S.C. § 4103"
-generated_at: "2026-03-30T01:54:16.109Z"
+generated_at: "2026-03-30T01:57:15.725Z"
 ---
 
 # § 4103. Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel

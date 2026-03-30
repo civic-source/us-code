@@ -3,9 +3,9 @@ title: "Section 1463 - Repayment of loan; financing from other sources"
 usc_title: 25
 usc_section: "1463"
 chapter: 17
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "25 U.S.C. § 1463"
-generated_at: "2026-03-30T01:53:25.753Z"
+generated_at: "2026-03-30T01:56:48.692Z"
 ---
 
 # § 1463. Repayment of loan; financing from other sources

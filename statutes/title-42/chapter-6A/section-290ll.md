@@ -3,9 +3,9 @@ title: "Section 290ll - Fellowships"
 usc_title: 42
 usc_section: "290ll"
 chapter: 6
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "42 U.S.C. § 290ll"
-generated_at: "2026-03-30T01:54:58.017Z"
+generated_at: "2026-03-30T01:57:35.044Z"
 ---
 
 # § 290ll. Fellowships

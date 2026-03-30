@@ -3,9 +3,9 @@ title: "Section 2650 - Civilian personnel in Alaska"
 usc_title: 10
 usc_section: "2650"
 chapter: 157
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "10 U.S.C. § 2650"
-generated_at: "2026-03-30T01:52:52.489Z"
+generated_at: "2026-03-30T01:56:18.434Z"
 ---
 
 # § 2650. Civilian personnel in Alaska

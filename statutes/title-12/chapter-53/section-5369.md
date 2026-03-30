@@ -3,9 +3,9 @@ title: "Section 5369 - Avoiding duplication"
 usc_title: 12
 usc_section: "5369"
 chapter: 53
-current_through: "PL 118-136"
+current_through: "PL 118-145"
 classification: "12 U.S.C. § 5369"
-generated_at: "2026-03-30T01:52:58.421Z"
+generated_at: "2026-03-30T01:56:28.302Z"
 ---
 
 # § 5369. Avoiding duplication
