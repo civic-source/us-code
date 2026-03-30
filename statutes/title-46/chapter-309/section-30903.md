@@ -3,9 +3,9 @@ title: "Section 30903 - Waiver of immunity"
 usc_title: 46
 usc_section: "30903"
 chapter: 309
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "46 U.S.C. § 30903"
-generated_at: "2026-03-30T06:43:08.557Z"
+generated_at: "2026-03-30T06:45:57.021Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4411 - Relationship to other authorities"
 usc_title: 16
 usc_section: "4411"
 chapter: 64
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 4411"
-generated_at: "2026-03-30T06:41:58.355Z"
+generated_at: "2026-03-30T06:43:50.256Z"
 status: "active"
 ---
 

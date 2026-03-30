@@ -3,9 +3,9 @@ title: "Section 8457 - Use of petroleum and natural gas in combustors"
 usc_title: 42
 usc_section: "8457"
 chapter: 92
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 8457"
-generated_at: "2026-03-30T06:43:01.464Z"
+generated_at: "2026-03-30T06:45:38.819Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3007 - Publication of Harmonized Tariff Schedule"
 usc_title: 19
 usc_section: "3007"
 chapter: 18
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "19 U.S.C. § 3007"
-generated_at: "2026-03-30T06:42:13.009Z"
+generated_at: "2026-03-30T06:43:47.991Z"
 status: "active"
 ---
 

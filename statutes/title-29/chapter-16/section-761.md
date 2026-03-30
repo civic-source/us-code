@@ -3,9 +3,9 @@ title: "Section 761 - Authorization of appropriations"
 usc_title: 29
 usc_section: "761"
 chapter: 16
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "29 U.S.C. § 761"
-generated_at: "2026-03-30T06:42:34.749Z"
+generated_at: "2026-03-30T06:44:03.328Z"
 status: "active"
 ---
 

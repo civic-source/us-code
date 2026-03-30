@@ -3,9 +3,9 @@ title: "Section 1 - Boating infrastructure"
 usc_title: 16
 usc_section: "1"
 chapter: 10
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T06:41:58.268Z"
+generated_at: "2026-03-30T06:43:50.165Z"
 status: "active"
 ---
 

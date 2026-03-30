@@ -3,9 +3,9 @@ title: "Section 2123 - Office of Travel Promotion"
 usc_title: 22
 usc_section: "2123"
 chapter: 31
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 2123"
-generated_at: "2026-03-30T06:42:24.541Z"
+generated_at: "2026-03-30T06:43:58.497Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 61 - Transferred"
 usc_title: 2
 usc_section: "61"
 chapter: 4
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "2 U.S.C. § 61"
-generated_at: "2026-03-30T06:40:37.073Z"
+generated_at: "2026-03-30T06:43:23.978Z"
 status: "transferred"
 ---
 

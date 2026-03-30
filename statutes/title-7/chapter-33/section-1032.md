@@ -3,9 +3,9 @@ title: "Section 1032 - Transfer of rights and duties of Reconstruction Finance C
 usc_title: 7
 usc_section: "1032"
 chapter: 33
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 1032"
-generated_at: "2026-03-30T06:41:10.127Z"
+generated_at: "2026-03-30T06:43:35.327Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5904 - Recognition of agents and attorneys generally"
 usc_title: 38
 usc_section: "5904"
 chapter: 59
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "38 U.S.C. § 5904"
-generated_at: "2026-03-30T06:42:42.860Z"
+generated_at: "2026-03-30T06:44:47.864Z"
 status: "active"
 ---
 

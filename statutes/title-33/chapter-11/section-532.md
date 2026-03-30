@@ -3,9 +3,9 @@ title: "Section 532 - Eminent domain"
 usc_title: 33
 usc_section: "532"
 chapter: 11
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "33 U.S.C. § 532"
-generated_at: "2026-03-30T06:42:39.027Z"
+generated_at: "2026-03-30T06:44:22.362Z"
 status: "active"
 ---
 

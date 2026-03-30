@@ -3,9 +3,9 @@ title: "Section 500 - Payment and evaluation of receipts to State or Territory f
 usc_title: 16
 usc_section: "500"
 chapter: 2
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 500"
-generated_at: "2026-03-30T06:41:58.235Z"
+generated_at: "2026-03-30T06:43:50.131Z"
 status: "active"
 ---
 

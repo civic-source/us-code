@@ -3,9 +3,9 @@ title: "Section 306 - Rules and regulations"
 usc_title: 30
 usc_section: "306"
 chapter: 5
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "30 U.S.C. § 306"
-generated_at: "2026-03-30T06:42:26.971Z"
+generated_at: "2026-03-30T06:44:03.841Z"
 status: "active"
 ---
 

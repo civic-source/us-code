@@ -3,9 +3,9 @@ title: "Section 1451 - Establishment"
 usc_title: 43
 usc_section: "1451"
 chapter: 31
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "43 U.S.C. § 1451"
-generated_at: "2026-03-30T06:42:45.646Z"
+generated_at: "2026-03-30T06:45:05.653Z"
 status: "active"
 ---
 

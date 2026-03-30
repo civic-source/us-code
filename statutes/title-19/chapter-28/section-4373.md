@@ -3,9 +3,9 @@ title: "Section 4373 - Additional information"
 usc_title: 19
 usc_section: "4373"
 chapter: 28
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "19 U.S.C. § 4373"
-generated_at: "2026-03-30T06:42:13.028Z"
+generated_at: "2026-03-30T06:43:48.011Z"
 status: "active"
 ---
 

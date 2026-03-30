@@ -3,9 +3,9 @@ title: "Section 7217 - Repealed. Pub. L. 103–160, div. C, title XXXI , § 3161
 usc_title: 42
 usc_section: "7217"
 chapter: 84
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 7217"
-generated_at: "2026-03-30T06:43:01.416Z"
+generated_at: "2026-03-30T06:45:38.768Z"
 status: "repealed"
 ---
 

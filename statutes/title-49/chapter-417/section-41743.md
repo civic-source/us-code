@@ -3,9 +3,9 @@ title: "Section 41743 - Airports not receiving sufficient service"
 usc_title: 49
 usc_section: "41743"
 chapter: 417
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "49 U.S.C. § 41743"
-generated_at: "2026-03-30T06:43:07.851Z"
+generated_at: "2026-03-30T06:45:47.810Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
   - **(3)** to provide assistance to an underserved airport to implement such other measures as the Secretary, in consultation with such airport, considers appropriate to improve air service both in terms of the cost of such service to consumers and the availability of such service, including improving air service through marketing and promotion of air service and enhanced utilization of airport facilities.
 - **(e)**
   - **(1)** The Secretary may make agreements to provide assistance under this section.
-  - **(2)** There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2017 to carry out this section. Such sums shall remain available until expended.
+  - **(2)** There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2017 and $4,986,301 for the period beginning on October 1, 2017 , and ending on March 31, 2018 , to carry out this section. Such sums shall remain available until expended.
 - **(f)** Under the program established under subsection (a), the Secretary shall work with air carriers providing service to participating communities and major air carriers (as defined in section 41716(a)(2)) serving large hub airports to facilitate joint-fare arrangements consistent with normal industry practice.
 - **(g)** The Secretary shall designate an employee of the Department of Transportation—
   - **(1)** to function as a facilitator between small communities and air carriers;

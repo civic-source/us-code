@@ -3,9 +3,9 @@ title: "Section 59d - River Raisin, Michigan"
 usc_title: 33
 usc_section: "59d"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "33 U.S.C. § 59d"
-generated_at: "2026-03-30T06:42:39.018Z"
+generated_at: "2026-03-30T06:44:22.355Z"
 status: "active"
 ---
 

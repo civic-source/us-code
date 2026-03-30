@@ -3,9 +3,9 @@ title: "Section 632 - Jurisdiction of United States courts; disposition by banks
 usc_title: 12
 usc_section: "632"
 chapter: 6
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 632"
-generated_at: "2026-03-30T06:41:27.411Z"
+generated_at: "2026-03-30T06:43:40.316Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14 - Forest highways"
 usc_title: 16
 usc_section: "14"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 14"
-generated_at: "2026-03-30T06:41:58.224Z"
+generated_at: "2026-03-30T06:43:50.119Z"
 status: "active"
 ---
 

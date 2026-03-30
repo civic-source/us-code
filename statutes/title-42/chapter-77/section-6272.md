@@ -3,9 +3,9 @@ title: "Section 6272 - International voluntary agreements"
 usc_title: 42
 usc_section: "6272"
 chapter: 77
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 6272"
-generated_at: "2026-03-30T06:43:01.382Z"
+generated_at: "2026-03-30T06:45:38.731Z"
 status: "active"
 ---
 

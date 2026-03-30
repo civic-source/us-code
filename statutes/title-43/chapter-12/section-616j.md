@@ -3,9 +3,9 @@ title: "Section 616j - Omitted"
 usc_title: 43
 usc_section: "616j"
 chapter: 12
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "43 U.S.C. § 616j"
-generated_at: "2026-03-30T06:42:45.632Z"
+generated_at: "2026-03-30T06:45:05.637Z"
 status: "omitted"
 ---
 

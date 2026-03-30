@@ -3,9 +3,9 @@ title: "Section 15096 - Authorized activities"
 usc_title: 42
 usc_section: "15096"
 chapter: 144
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 15096"
-generated_at: "2026-03-30T06:43:01.560Z"
+generated_at: "2026-03-30T06:45:38.926Z"
 status: "active"
 ---
 

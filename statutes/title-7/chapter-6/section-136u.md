@@ -3,9 +3,9 @@ title: "Section 136u - State cooperation, aid, and training"
 usc_title: 7
 usc_section: "136u"
 chapter: 6
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 136u"
-generated_at: "2026-03-30T06:41:10.100Z"
+generated_at: "2026-03-30T06:43:35.298Z"
 status: "active"
 ---
 

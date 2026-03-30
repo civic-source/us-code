@@ -3,9 +3,9 @@ title: "Section 51 - Purpose; appropriations authorized"
 usc_title: 20
 usc_section: "51"
 chapter: 28
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "20 U.S.C. § 51"
-generated_at: "2026-03-30T06:42:04.963Z"
+generated_at: "2026-03-30T06:43:51.992Z"
 status: "active"
 ---
 

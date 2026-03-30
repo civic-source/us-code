@@ -3,9 +3,9 @@ title: "Section 709a - Authorization of appropriations"
 usc_title: 16
 usc_section: "709a"
 chapter: 7
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 709a"
-generated_at: "2026-03-30T06:41:58.262Z"
+generated_at: "2026-03-30T06:43:50.159Z"
 status: "active"
 ---
 

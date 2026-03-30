@@ -3,9 +3,9 @@ title: "Section 3855 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "3855"
 chapter: 363
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 3855"
-generated_at: "2026-03-30T06:41:20.494Z"
+generated_at: "2026-03-30T06:43:30.930Z"
 status: "repealed"
 ---
 

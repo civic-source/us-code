@@ -3,9 +3,9 @@ title: "Section 47114 - Apportionments"
 usc_title: 49
 usc_section: "47114"
 chapter: 471
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "49 U.S.C. § 47114"
-generated_at: "2026-03-30T06:43:07.865Z"
+generated_at: "2026-03-30T06:45:47.832Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
       - **(i)** passenger boardings at the airport fell below 10,000 in the calendar year used to calculate the apportionment;
       - **(ii)** the airport had at least 10,000 passenger boardings in the calendar year prior to the calendar year used to calculate apportionments to airport sponsors in a fiscal year; and
       - **(iii)** the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
-    - **(F)** Notwithstanding subparagraph (A), the Secretary shall apportion to a sponsor of an airport under that subparagraph for fiscal year 2017 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
+    - **(F)** Notwithstanding subparagraph (A), the Secretary shall apportion to a sponsor of an airport under that subparagraph for each of fiscal years 2017 and 2018 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
       - **(i)** had 10,000 or more passenger boardings during calendar year 2012;
       - **(ii)** had fewer than 10,000 passenger boardings during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A); and
       - **(iii)** had scheduled air service at any point during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A).

@@ -3,9 +3,9 @@ title: "Section 672 - Long-term lease of special purpose facilities"
 usc_title: 14
 usc_section: "672"
 chapter: 17
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "14 U.S.C. § 672"
-generated_at: "2026-03-30T06:41:31.008Z"
+generated_at: "2026-03-30T06:43:38.202Z"
 status: "active"
 ---
 

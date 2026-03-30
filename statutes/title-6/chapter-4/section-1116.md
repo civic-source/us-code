@@ -3,9 +3,9 @@ title: "Section 1116 - National explosives detection canine team training progra
 usc_title: 6
 usc_section: "1116"
 chapter: 4
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "6 U.S.C. § 1116"
-generated_at: "2026-03-30T06:41:01.516Z"
+generated_at: "2026-03-30T06:43:25.991Z"
 status: "active"
 ---
 

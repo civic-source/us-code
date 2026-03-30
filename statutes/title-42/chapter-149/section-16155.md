@@ -3,9 +3,9 @@ title: "Section 16155 - Hydrogen and Fuel Cell Technical Task Force"
 usc_title: 42
 usc_section: "16155"
 chapter: 149
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 16155"
-generated_at: "2026-03-30T06:43:01.571Z"
+generated_at: "2026-03-30T06:45:38.936Z"
 status: "active"
 ---
 

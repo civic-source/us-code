@@ -3,9 +3,9 @@ title: "Section 9346 - Cadets: requirements for admission"
 usc_title: 10
 usc_section: "9346"
 chapter: 903
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 9346"
-generated_at: "2026-03-30T06:41:20.516Z"
+generated_at: "2026-03-30T06:43:30.952Z"
 status: "active"
 ---
 

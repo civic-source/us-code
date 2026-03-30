@@ -3,9 +3,9 @@ title: "Section 81 - Aids to navigation authorized"
 usc_title: 14
 usc_section: "81"
 chapter: 5
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "14 U.S.C. § 81"
-generated_at: "2026-03-30T06:41:31.002Z"
+generated_at: "2026-03-30T06:43:38.195Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1962 - Loan determination factors; written credit declinations"
 usc_title: 7
 usc_section: "1962"
 chapter: 50
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 1962"
-generated_at: "2026-03-30T06:41:10.161Z"
+generated_at: "2026-03-30T06:43:35.364Z"
 status: "active"
 ---
 

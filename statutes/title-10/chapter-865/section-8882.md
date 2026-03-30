@@ -3,9 +3,9 @@ title: "Section 8882 - Repealed. Pub. L. 85–155, title IV , § 401(1), Aug. 21
 usc_title: 10
 usc_section: "8882"
 chapter: 865
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 8882"
-generated_at: "2026-03-30T06:41:20.514Z"
+generated_at: "2026-03-30T06:43:30.951Z"
 status: "repealed"
 ---
 

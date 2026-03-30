@@ -3,9 +3,9 @@ title: "Section 13 - Court review of orders"
 usc_title: 15
 usc_section: "13"
 chapter: 2
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "15 U.S.C. § 13"
-generated_at: "2026-03-30T06:41:45.252Z"
+generated_at: "2026-03-30T06:43:42.927Z"
 status: "active"
 ---
 

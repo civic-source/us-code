@@ -3,9 +3,9 @@ title: "Section 2061 - Grant program for homeless veterans with special needs"
 usc_title: 38
 usc_section: "2061"
 chapter: 20
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "38 U.S.C. § 2061"
-generated_at: "2026-03-30T06:42:42.835Z"
+generated_at: "2026-03-30T06:44:47.841Z"
 status: "active"
 ---
 
@@ -20,5 +20,5 @@ status: "active"
   - **(5)** individuals who have care of minor dependents.
 - **(c)** A recipient of a grant under subsection (a) may use amounts under the grant to provide services directly to a dependent of a homeless veteran with special needs who is under the care of such homeless veteran while such homeless veteran receives services from the grant recipient under this section.
 - **(d)**
-  - **(1)** From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2017, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
+  - **(1)** From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2019, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
   - **(2)** The Secretary shall ensure that funds for grants under this section are designated for the first three years of operation of the program under this section as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.

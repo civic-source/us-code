@@ -3,9 +3,9 @@ title: "Section 4019 - Disclosure of information"
 usc_title: 15
 usc_section: "4019"
 chapter: 66
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "15 U.S.C. § 4019"
-generated_at: "2026-03-30T06:41:45.352Z"
+generated_at: "2026-03-30T06:43:43.040Z"
 status: "active"
 ---
 

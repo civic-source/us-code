@@ -3,9 +3,9 @@ title: "Section 1640 - Civil liability"
 usc_title: 15
 usc_section: "1640"
 chapter: 41
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "15 U.S.C. § 1640"
-generated_at: "2026-03-30T06:41:45.307Z"
+generated_at: "2026-03-30T06:43:42.992Z"
 status: "active"
 ---
 

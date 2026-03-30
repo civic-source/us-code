@@ -3,9 +3,9 @@ title: "Section 6055 - Reporting of health insurance coverage"
 usc_title: 26
 usc_section: "6055"
 chapter: 61
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "26 U.S.C. § 6055"
-generated_at: "2026-03-30T06:42:33.893Z"
+generated_at: "2026-03-30T06:44:09.284Z"
 status: "active"
 ---
 

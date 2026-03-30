@@ -3,9 +3,9 @@ title: "Section 8354 - Terms and conditions; compliance plans"
 usc_title: 42
 usc_section: "8354"
 chapter: 92
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 8354"
-generated_at: "2026-03-30T06:43:01.462Z"
+generated_at: "2026-03-30T06:45:38.817Z"
 status: "active"
 ---
 

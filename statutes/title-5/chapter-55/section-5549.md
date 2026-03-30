@@ -3,9 +3,9 @@ title: "Section 5549 - Effect on other statutes"
 usc_title: 5
 usc_section: "5549"
 chapter: 55
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "5 U.S.C. § 5549"
-generated_at: "2026-03-30T06:40:59.225Z"
+generated_at: "2026-03-30T06:43:23.077Z"
 status: "active"
 ---
 

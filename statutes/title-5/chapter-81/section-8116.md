@@ -3,9 +3,9 @@ title: "Section 8116 - Limitations on right to receive compensation"
 usc_title: 5
 usc_section: "8116"
 chapter: 81
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "5 U.S.C. § 8116"
-generated_at: "2026-03-30T06:40:59.239Z"
+generated_at: "2026-03-30T06:43:23.091Z"
 status: "active"
 ---
 

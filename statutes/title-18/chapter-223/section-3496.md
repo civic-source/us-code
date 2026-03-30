@@ -3,9 +3,9 @@ title: "Section 3496 - Regulations by President as to commissions, fees of witne
 usc_title: 18
 usc_section: "3496"
 chapter: 223
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "18 U.S.C. § 3496"
-generated_at: "2026-03-30T06:42:01.872Z"
+generated_at: "2026-03-30T06:43:46.089Z"
 status: "active"
 ---
 

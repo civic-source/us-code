@@ -3,9 +3,9 @@ title: "Section 15703 - Counties eligible for assistance in more than one region
 usc_title: 40
 usc_section: "15703"
 chapter: 4
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "40 U.S.C. § 15703"
-generated_at: "2026-03-30T06:42:43.269Z"
+generated_at: "2026-03-30T06:44:48.366Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3323 - Automatic separations; reappointment; re­employment of a
 usc_title: 5
 usc_section: "3323"
 chapter: 33
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "5 U.S.C. § 3323"
-generated_at: "2026-03-30T06:40:59.214Z"
+generated_at: "2026-03-30T06:43:23.065Z"
 status: "active"
 ---
 

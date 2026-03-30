@@ -3,9 +3,9 @@ title: "Section 1140 - Repealed. Oct. 31, 1951, ch. 654 , § 1(43), 65 Stat. 703
 usc_title: 22
 usc_section: "1140"
 chapter: 14
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 1140"
-generated_at: "2026-03-30T06:42:24.531Z"
+generated_at: "2026-03-30T06:43:58.486Z"
 status: "repealed"
 ---
 

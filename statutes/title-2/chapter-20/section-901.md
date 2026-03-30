@@ -3,9 +3,9 @@ title: "Section 901 - Enforcing discretionary spending limits"
 usc_title: 2
 usc_section: "901"
 chapter: 20
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "2 U.S.C. § 901"
-generated_at: "2026-03-30T06:40:37.091Z"
+generated_at: "2026-03-30T06:43:23.993Z"
 status: "active"
 ---
 

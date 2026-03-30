@@ -3,9 +3,9 @@ title: "Section 5821 - Annual authorization Acts"
 usc_title: 42
 usc_section: "5821"
 chapter: 73
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 5821"
-generated_at: "2026-03-30T06:43:01.376Z"
+generated_at: "2026-03-30T06:45:38.726Z"
 status: "active"
 ---
 

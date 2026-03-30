@@ -3,9 +3,9 @@ title: "Section 1551 - Baseline study of costs and benefits"
 usc_title: 2
 usc_section: "1551"
 chapter: 25
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "2 U.S.C. § 1551"
-generated_at: "2026-03-30T06:40:37.142Z"
+generated_at: "2026-03-30T06:43:24.001Z"
 status: "active"
 ---
 

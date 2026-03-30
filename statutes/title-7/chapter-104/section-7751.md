@@ -3,9 +3,9 @@ title: "Section 7751 - Cooperation"
 usc_title: 7
 usc_section: "7751"
 chapter: 104
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 7751"
-generated_at: "2026-03-30T06:41:10.236Z"
+generated_at: "2026-03-30T06:43:35.447Z"
 status: "active"
 ---
 

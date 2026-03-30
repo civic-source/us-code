@@ -3,9 +3,9 @@ title: "Section 4063 - Repealed. Pub. L. 98–369, div. A, title VII , § 735(a)
 usc_title: 26
 usc_section: "4063"
 chapter: 32
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "26 U.S.C. § 4063"
-generated_at: "2026-03-30T06:42:33.862Z"
+generated_at: "2026-03-30T06:44:09.253Z"
 status: "repealed"
 ---
 

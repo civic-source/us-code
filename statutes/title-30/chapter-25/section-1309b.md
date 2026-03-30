@@ -3,9 +3,9 @@ title: "Section 1309b - Research"
 usc_title: 30
 usc_section: "1309b"
 chapter: 25
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "30 U.S.C. § 1309b"
-generated_at: "2026-03-30T06:42:26.991Z"
+generated_at: "2026-03-30T06:44:03.860Z"
 status: "active"
 ---
 

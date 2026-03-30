@@ -3,9 +3,9 @@ title: "Section 4004 - Food bank special nutrition projects"
 usc_title: 7
 usc_section: "4004"
 chapter: 71
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 4004"
-generated_at: "2026-03-30T06:41:10.198Z"
+generated_at: "2026-03-30T06:43:35.407Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 969 - Omitted"
 usc_title: 20
 usc_section: "969"
 chapter: 26
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "20 U.S.C. § 969"
-generated_at: "2026-03-30T06:42:04.936Z"
+generated_at: "2026-03-30T06:43:51.962Z"
 status: "omitted"
 ---
 

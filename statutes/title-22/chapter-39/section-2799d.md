@@ -3,9 +3,9 @@ title: "Section 2799d - Definitions"
 usc_title: 22
 usc_section: "2799d"
 chapter: 39
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 2799d"
-generated_at: "2026-03-30T06:42:24.579Z"
+generated_at: "2026-03-30T06:43:58.537Z"
 status: "active"
 ---
 

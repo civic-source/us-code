@@ -3,9 +3,9 @@ title: "Section 4683 - Excess non-automatic service rifles: loan or donation for
 usc_title: 10
 usc_section: "4683"
 chapter: 443
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 4683"
-generated_at: "2026-03-30T06:41:20.498Z"
+generated_at: "2026-03-30T06:43:30.934Z"
 status: "active"
 ---
 

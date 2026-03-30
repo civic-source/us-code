@@ -3,9 +3,9 @@ title: "Section 6977 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "6977"
 chapter: 603
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 6977"
-generated_at: "2026-03-30T06:41:20.506Z"
+generated_at: "2026-03-30T06:43:30.942Z"
 status: "active"
 ---
 

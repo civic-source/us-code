@@ -3,9 +3,9 @@ title: "Section 10609 - Transferred"
 usc_title: 42
 usc_section: "10609"
 chapter: 112
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 10609"
-generated_at: "2026-03-30T06:43:01.503Z"
+generated_at: "2026-03-30T06:45:38.862Z"
 status: "transferred"
 ---
 

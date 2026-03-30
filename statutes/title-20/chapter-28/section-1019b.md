@@ -3,9 +3,9 @@ title: "Section 1019b - Loan information to be disclosed and model disclosure fo
 usc_title: 20
 usc_section: "1019b"
 chapter: 28
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "20 U.S.C. § 1019b"
-generated_at: "2026-03-30T06:42:04.940Z"
+generated_at: "2026-03-30T06:43:51.966Z"
 status: "active"
 ---
 

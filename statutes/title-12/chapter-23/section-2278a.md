@@ -3,9 +3,9 @@ title: "Section 2278a - Establishment of Board"
 usc_title: 12
 usc_section: "2278a"
 chapter: 23
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 2278a"
-generated_at: "2026-03-30T06:41:27.493Z"
+generated_at: "2026-03-30T06:43:40.406Z"
 status: "active"
 ---
 

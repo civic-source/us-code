@@ -3,9 +3,9 @@ title: "Section 3015 - Under Secretary of the Army"
 usc_title: 10
 usc_section: "3015"
 chapter: 303
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 3015"
-generated_at: "2026-03-30T06:41:20.492Z"
+generated_at: "2026-03-30T06:43:30.927Z"
 status: "active"
 ---
 

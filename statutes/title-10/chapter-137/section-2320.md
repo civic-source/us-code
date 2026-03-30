@@ -3,9 +3,9 @@ title: "Section 2320 - Rights in technical data"
 usc_title: 10
 usc_section: "2320"
 chapter: 137
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 2320"
-generated_at: "2026-03-30T06:41:20.462Z"
+generated_at: "2026-03-30T06:43:30.897Z"
 status: "active"
 ---
 

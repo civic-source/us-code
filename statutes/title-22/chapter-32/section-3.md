@@ -3,9 +3,9 @@ title: "Section 3 - Limitations"
 usc_title: 22
 usc_section: "3"
 chapter: 32
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-03-30T06:42:24.557Z"
+generated_at: "2026-03-30T06:43:58.513Z"
 status: "active"
 ---
 

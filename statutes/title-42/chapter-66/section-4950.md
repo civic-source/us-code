@@ -3,9 +3,9 @@ title: "Section 4950 - Volunteerism policy"
 usc_title: 42
 usc_section: "4950"
 chapter: 66
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 4950"
-generated_at: "2026-03-30T06:43:01.356Z"
+generated_at: "2026-03-30T06:45:38.704Z"
 status: "active"
 ---
 

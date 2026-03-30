@@ -3,9 +3,9 @@ title: "Section 409h - Administration of additional lands"
 usc_title: 16
 usc_section: "409h"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 409h"
-generated_at: "2026-03-30T06:41:58.170Z"
+generated_at: "2026-03-30T06:43:50.065Z"
 status: "active"
 ---
 

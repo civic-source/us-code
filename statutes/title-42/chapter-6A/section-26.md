@@ -3,9 +3,9 @@ title: "Section 26 - Parity in mental health and substance use disorder benefits
 usc_title: 42
 usc_section: "26"
 chapter: 6
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-03-30T06:43:01.068Z"
+generated_at: "2026-03-30T06:45:38.397Z"
 status: "active"
 ---
 

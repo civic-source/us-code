@@ -3,9 +3,9 @@ title: "Section 1348 - Repealed. Pub. L. 97–34, title I , § 101(c)(1), Aug. 1
 usc_title: 26
 usc_section: "1348"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "26 U.S.C. § 1348"
-generated_at: "2026-03-30T06:42:33.834Z"
+generated_at: "2026-03-30T06:44:09.224Z"
 status: "repealed"
 ---
 

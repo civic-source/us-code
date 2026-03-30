@@ -3,9 +3,9 @@ title: "Section 47 - Personnel"
 usc_title: 16
 usc_section: "47"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 47"
-generated_at: "2026-03-30T06:41:58.225Z"
+generated_at: "2026-03-30T06:43:50.121Z"
 status: "active"
 ---
 

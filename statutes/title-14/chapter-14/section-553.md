@@ -3,9 +3,9 @@ title: "Section 553 - Child development center standards and inspections"
 usc_title: 14
 usc_section: "553"
 chapter: 14
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "14 U.S.C. § 553"
-generated_at: "2026-03-30T06:41:31.005Z"
+generated_at: "2026-03-30T06:43:38.198Z"
 status: "active"
 ---
 

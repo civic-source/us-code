@@ -3,9 +3,9 @@ title: "Section 5106a - Grants to States for child abuse or neglect prevention a
 usc_title: 42
 usc_section: "5106a"
 chapter: 67
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 5106a"
-generated_at: "2026-03-30T06:43:01.359Z"
+generated_at: "2026-03-30T06:45:38.707Z"
 status: "active"
 ---
 
@@ -95,8 +95,10 @@ status: "active"
       - **(xix)** provisions addressing the training of representatives of the child protective services system regarding the legal duties of the representatives, which may consist of various methods of informing such representatives of such duties, in order to protect the legal rights and safety of children and families from the initial time of contact during investigation through treatment;
       - **(xx)** provisions and procedures for improving the training, retention, and supervision of caseworkers;
       - **(xxi)** provisions and procedures for referral of a child under the age of 3 who is involved in a substantiated case of child abuse or neglect to early intervention services funded under part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1431 et seq.);
-      - **(xxii)** provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act ( 42 U.S.C. 671(a)(20) ) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household; and
+      - **(xxii)** provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act ( 42 U.S.C. 671(a)(20) ) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household;
       - **(xxiii)** provisions for systems of technology that support the State child protective service system described in subsection (a) and track reports of child abuse and neglect from intake through final disposition;
+      - **(xxiv)** provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) of title 22 ); and
+      - **(xxv)** provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;
     - **(C)** an assurance that the State has in place procedures for responding to the reporting of medical neglect (including instances of withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions), procedures or programs, or both (within the State child protective services system), to provide for—
       - **(i)** coordination and consultation with individuals designated by and within appropriate health-care facilities;
       - **(ii)** prompt notification by individuals designated by and within appropriate health-care facilities of cases of suspected medical neglect (including instances of withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions); and
@@ -173,7 +175,8 @@ status: "active"
   - **(14)** The number of children under the care of the State child protection system who are transferred into the custody of the State juvenile justice system.
   - **(15)** The number of children referred to a child protective services system under subsection (b)(2)(B)(ii).
   - **(16)** The number of children determined to be eligible for referral, and the number of children referred, under subsection (b)(2)(B)(xxi), to agencies providing early intervention services under part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1431 et seq.).
-  - **(17)** The number of infants—
+  - **(17)** The number of children determined to be victims described in subsection (b)(2)(B)(xxiv).
+  - **(18)** The number of infants—
     - **(A)** identified under subsection (b)(2)(B)(ii);
     - **(B)** for whom a plan of safe care was developed under subsection (b)(2)(B)(iii); and
     - **(C)** for whom a referral was made for appropriate services, including services for the affected family or caregiver, under subsection (b)(2)(B)(iii).

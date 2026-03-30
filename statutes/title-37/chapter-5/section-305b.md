@@ -3,9 +3,9 @@ title: "Section 305b - Special pay: service as member of Weapons of Mass Destruc
 usc_title: 37
 usc_section: "305b"
 chapter: 5
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "37 U.S.C. § 305b"
-generated_at: "2026-03-30T06:42:41.634Z"
+generated_at: "2026-03-30T06:44:46.353Z"
 status: "active"
 ---
 

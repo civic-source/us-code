@@ -3,9 +3,9 @@ title: "Section 1299 - State certification of projects"
 usc_title: 33
 usc_section: "1299"
 chapter: 26
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "33 U.S.C. § 1299"
-generated_at: "2026-03-30T06:42:39.051Z"
+generated_at: "2026-03-30T06:44:22.385Z"
 status: "active"
 ---
 

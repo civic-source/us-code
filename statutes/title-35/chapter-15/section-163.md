@@ -3,9 +3,9 @@ title: "Section 163 - Grant"
 usc_title: 35
 usc_section: "163"
 chapter: 15
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "35 U.S.C. § 163"
-generated_at: "2026-03-30T06:42:36.648Z"
+generated_at: "2026-03-30T06:44:16.165Z"
 status: "active"
 ---
 

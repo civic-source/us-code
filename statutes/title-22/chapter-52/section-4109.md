@@ -3,9 +3,9 @@ title: "Section 4109 - Judicial review and enforcement"
 usc_title: 22
 usc_section: "4109"
 chapter: 52
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 4109"
-generated_at: "2026-03-30T06:42:24.595Z"
+generated_at: "2026-03-30T06:43:58.554Z"
 status: "active"
 ---
 

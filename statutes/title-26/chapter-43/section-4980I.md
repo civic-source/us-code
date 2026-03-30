@@ -3,9 +3,9 @@ title: "Section 4980I - Excise tax on high cost employer-sponsored health covera
 usc_title: 26
 usc_section: "4980I"
 chapter: 43
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "26 U.S.C. § 4980I"
-generated_at: "2026-03-30T06:42:33.875Z"
+generated_at: "2026-03-30T06:44:09.267Z"
 status: "active"
 ---
 

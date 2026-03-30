@@ -3,9 +3,9 @@ title: "Section 1383 - Procedure for payment of benefits"
 usc_title: 42
 usc_section: "1383"
 chapter: 7
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 1383"
-generated_at: "2026-03-30T06:43:01.138Z"
+generated_at: "2026-03-30T06:45:38.469Z"
 status: "active"
 ---
 

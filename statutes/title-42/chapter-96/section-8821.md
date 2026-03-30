@@ -3,9 +3,9 @@ title: "Section 8821 - Termination of authorities; modification of terms and con
 usc_title: 42
 usc_section: "8821"
 chapter: 96
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 8821"
-generated_at: "2026-03-30T06:43:01.467Z"
+generated_at: "2026-03-30T06:45:38.823Z"
 status: "active"
 ---
 

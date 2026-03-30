@@ -3,9 +3,9 @@ title: "Section 5453 - Repealed. Pub. L. 90–130 , § 1(17)(F), Nov. 8, 1967 , 
 usc_title: 10
 usc_section: "5453"
 chapter: 533
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 5453"
-generated_at: "2026-03-30T06:41:20.501Z"
+generated_at: "2026-03-30T06:43:30.937Z"
 status: "repealed"
 ---
 

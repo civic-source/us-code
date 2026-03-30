@@ -3,9 +3,9 @@ title: "Section 916g - Enforcement"
 usc_title: 16
 usc_section: "916g"
 chapter: 14
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 916g"
-generated_at: "2026-03-30T06:41:58.285Z"
+generated_at: "2026-03-30T06:43:50.184Z"
 status: "active"
 ---
 

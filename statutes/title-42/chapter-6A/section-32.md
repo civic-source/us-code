@@ -3,9 +3,9 @@ title: "Section 32 - Followup monitoring and treatment of certified-eligible WTC
 usc_title: 42
 usc_section: "32"
 chapter: 6
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 32"
-generated_at: "2026-03-30T06:43:01.079Z"
+generated_at: "2026-03-30T06:45:38.408Z"
 status: "active"
 ---
 

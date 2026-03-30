@@ -3,9 +3,9 @@ title: "Section 7220 - Gifts for welfare of enlisted members"
 usc_title: 10
 usc_section: "7220"
 chapter: 631
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 7220"
-generated_at: "2026-03-30T06:41:20.507Z"
+generated_at: "2026-03-30T06:43:30.943Z"
 status: "active"
 ---
 

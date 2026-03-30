@@ -3,9 +3,9 @@ title: "Section 1505 - Protection from liability"
 usc_title: 6
 usc_section: "1505"
 chapter: 6
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "6 U.S.C. § 1505"
-generated_at: "2026-03-30T06:41:01.522Z"
+generated_at: "2026-03-30T06:43:25.997Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6991 - Definitions and exemptions"
 usc_title: 42
 usc_section: "6991"
 chapter: 82
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 6991"
-generated_at: "2026-03-30T06:43:01.411Z"
+generated_at: "2026-03-30T06:45:38.763Z"
 status: "active"
 ---
 

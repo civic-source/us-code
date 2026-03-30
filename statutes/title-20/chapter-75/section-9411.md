@@ -3,9 +3,9 @@ title: "Section 9411 - Local allocations"
 usc_title: 20
 usc_section: "9411"
 chapter: 75
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "20 U.S.C. § 9411"
-generated_at: "2026-03-30T06:42:05.051Z"
+generated_at: "2026-03-30T06:43:52.086Z"
 status: "active"
 ---
 

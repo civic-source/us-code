@@ -3,9 +3,9 @@ title: "Section 4110 - Omitted"
 usc_title: 7
 usc_section: "4110"
 chapter: 72
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 4110"
-generated_at: "2026-03-30T06:41:10.198Z"
+generated_at: "2026-03-30T06:43:35.407Z"
 status: "omitted"
 ---
 

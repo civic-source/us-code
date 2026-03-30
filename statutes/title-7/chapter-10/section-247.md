@@ -3,9 +3,9 @@ title: "Section 247 - Fair treatment in storage of agricultural products"
 usc_title: 7
 usc_section: "247"
 chapter: 10
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 247"
-generated_at: "2026-03-30T06:41:10.111Z"
+generated_at: "2026-03-30T06:43:35.309Z"
 status: "active"
 ---
 

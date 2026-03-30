@@ -3,9 +3,9 @@ title: "Section 2407 - Reports"
 usc_title: 43
 usc_section: "2407"
 chapter: 42
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "43 U.S.C. § 2407"
-generated_at: "2026-03-30T06:42:45.668Z"
+generated_at: "2026-03-30T06:45:05.677Z"
 status: "active"
 ---
 

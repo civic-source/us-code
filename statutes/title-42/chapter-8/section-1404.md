@@ -3,9 +3,9 @@ title: "Section 1404 - Omitted"
 usc_title: 42
 usc_section: "1404"
 chapter: 8
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 1404"
-generated_at: "2026-03-30T06:43:01.244Z"
+generated_at: "2026-03-30T06:45:38.581Z"
 status: "omitted"
 ---
 

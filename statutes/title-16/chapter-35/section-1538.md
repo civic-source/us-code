@@ -3,9 +3,9 @@ title: "Section 1538 - Prohibited acts"
 usc_title: 16
 usc_section: "1538"
 chapter: 35
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 1538"
-generated_at: "2026-03-30T06:41:58.313Z"
+generated_at: "2026-03-30T06:43:50.212Z"
 status: "active"
 ---
 

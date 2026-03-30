@@ -3,9 +3,9 @@ title: "Section 0 - Repealed. Pub. L. 105–244, title IV , § 432, Oct. 7, 1998
 usc_title: 20
 usc_section: "0"
 chapter: 28
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "20 U.S.C. § 0"
-generated_at: "2026-03-30T06:42:04.961Z"
+generated_at: "2026-03-30T06:43:51.989Z"
 status: "repealed"
 ---
 

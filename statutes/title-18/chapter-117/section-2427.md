@@ -3,9 +3,9 @@ title: "Section 2427 - Inclusion of offenses relating to child pornography in de
 usc_title: 18
 usc_section: "2427"
 chapter: 117
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "18 U.S.C. § 2427"
-generated_at: "2026-03-30T06:42:01.861Z"
+generated_at: "2026-03-30T06:43:46.081Z"
 status: "active"
 ---
 

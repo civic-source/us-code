@@ -3,9 +3,9 @@ title: "Section 9127 - Periodic review and revision of regulations"
 usc_title: 42
 usc_section: "9127"
 chapter: 99
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 9127"
-generated_at: "2026-03-30T06:43:01.470Z"
+generated_at: "2026-03-30T06:45:38.825Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 825a - Rates of depreciation; notice to State authorities before
 usc_title: 16
 usc_section: "825a"
 chapter: 12
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 825a"
-generated_at: "2026-03-30T06:41:58.275Z"
+generated_at: "2026-03-30T06:43:50.173Z"
 status: "active"
 ---
 

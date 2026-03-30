@@ -3,9 +3,9 @@ title: "Section 1185a - Parity in mental health and substance use disorder benef
 usc_title: 29
 usc_section: "1185a"
 chapter: 18
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "29 U.S.C. § 1185a"
-generated_at: "2026-03-30T06:42:34.772Z"
+generated_at: "2026-03-30T06:44:03.352Z"
 status: "active"
 ---
 

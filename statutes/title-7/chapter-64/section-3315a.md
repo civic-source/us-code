@@ -3,9 +3,9 @@ title: "Section 3315a - Availability of competitive grant funds"
 usc_title: 7
 usc_section: "3315a"
 chapter: 64
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 3315a"
-generated_at: "2026-03-30T06:41:10.195Z"
+generated_at: "2026-03-30T06:43:35.403Z"
 status: "active"
 ---
 

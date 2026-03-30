@@ -3,9 +3,9 @@ title: "Section 674 - Short title"
 usc_title: 7
 usc_section: "674"
 chapter: 26
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 674"
-generated_at: "2026-03-30T06:41:10.121Z"
+generated_at: "2026-03-30T06:43:35.321Z"
 status: "active"
 ---
 

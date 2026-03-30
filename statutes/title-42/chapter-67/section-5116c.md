@@ -3,9 +3,9 @@ title: "Section 5116c - Repealed. Pub. L. 108–36, title I , § 124, June 25, 2
 usc_title: 42
 usc_section: "5116c"
 chapter: 67
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 5116c"
-generated_at: "2026-03-30T06:43:01.361Z"
+generated_at: "2026-03-30T06:45:38.710Z"
 status: "repealed"
 ---
 

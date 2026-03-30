@@ -3,9 +3,9 @@ title: "Section 7710 - Improving enforcement by providing rewards for informatio
 usc_title: 15
 usc_section: "7710"
 chapter: 103
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "15 U.S.C. § 7710"
-generated_at: "2026-03-30T06:41:45.376Z"
+generated_at: "2026-03-30T06:43:43.066Z"
 status: "active"
 ---
 

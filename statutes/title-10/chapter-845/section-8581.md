@@ -3,9 +3,9 @@ title: "Section 8581 - Command: chaplains"
 usc_title: 10
 usc_section: "8581"
 chapter: 845
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 8581"
-generated_at: "2026-03-30T06:41:20.514Z"
+generated_at: "2026-03-30T06:43:30.950Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3313 - Consultation and layover requirements for, and effective 
 usc_title: 19
 usc_section: "3313"
 chapter: 21
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "19 U.S.C. § 3313"
-generated_at: "2026-03-30T06:42:13.011Z"
+generated_at: "2026-03-30T06:43:47.993Z"
 status: "active"
 ---
 

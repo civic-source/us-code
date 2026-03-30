@@ -3,9 +3,9 @@ title: "Section 3312 - Rules and regulations"
 usc_title: 22
 usc_section: "3312"
 chapter: 48
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 3312"
-generated_at: "2026-03-30T06:42:24.582Z"
+generated_at: "2026-03-30T06:43:58.540Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2232 - Deposits in the Fund"
 usc_title: 2
 usc_section: "2232"
 chapter: 31
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "2 U.S.C. § 2232"
-generated_at: "2026-03-30T06:40:37.152Z"
+generated_at: "2026-03-30T06:43:24.012Z"
 status: "active"
 ---
 

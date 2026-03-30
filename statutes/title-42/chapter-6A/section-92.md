@@ -3,9 +3,9 @@ title: "Section 92 - Regulations"
 usc_title: 42
 usc_section: "92"
 chapter: 6
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 92"
-generated_at: "2026-03-30T06:43:01.072Z"
+generated_at: "2026-03-30T06:45:38.400Z"
 status: "active"
 ---
 

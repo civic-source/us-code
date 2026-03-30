@@ -3,9 +3,9 @@ title: "Section 206 - Assignment of officers"
 usc_title: 42
 usc_section: "206"
 chapter: 6
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 206"
-generated_at: "2026-03-30T06:43:00.945Z"
+generated_at: "2026-03-30T06:45:38.260Z"
 status: "active"
 ---
 

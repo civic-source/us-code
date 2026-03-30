@@ -3,9 +3,9 @@ title: "Section 6083 - Fixing cost on certain vessels and stations"
 usc_title: 10
 usc_section: "6083"
 chapter: 557
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 6083"
-generated_at: "2026-03-30T06:41:20.502Z"
+generated_at: "2026-03-30T06:43:30.939Z"
 status: "active"
 ---
 

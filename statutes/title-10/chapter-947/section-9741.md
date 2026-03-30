@@ -3,9 +3,9 @@ title: "Section 9741 - Repealed. Pub. L. 108–375, div. A, title X , § 1072(c)
 usc_title: 10
 usc_section: "9741"
 chapter: 947
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 9741"
-generated_at: "2026-03-30T06:41:20.518Z"
+generated_at: "2026-03-30T06:43:30.955Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1222 - Detention of aliens for physical and mental examination"
 usc_title: 8
 usc_section: "1222"
 chapter: 12
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "8 U.S.C. § 1222"
-generated_at: "2026-03-30T06:41:04.657Z"
+generated_at: "2026-03-30T06:43:31.937Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2380 - Commercial item determinations by Department of Defense"
 usc_title: 10
 usc_section: "2380"
 chapter: 140
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 2380"
-generated_at: "2026-03-30T06:41:20.468Z"
+generated_at: "2026-03-30T06:43:30.904Z"
 status: "active"
 ---
 

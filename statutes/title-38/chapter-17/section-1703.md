@@ -3,9 +3,9 @@ title: "Section 1703 - Contracts for hospital care and medical services in non-D
 usc_title: 38
 usc_section: "1703"
 chapter: 17
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "38 U.S.C. § 1703"
-generated_at: "2026-03-30T06:42:42.825Z"
+generated_at: "2026-03-30T06:44:47.830Z"
 status: "active"
 ---
 

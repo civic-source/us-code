@@ -3,9 +3,9 @@ title: "Section 695a - Title in United States of California refuge areas; existe
 usc_title: 16
 usc_section: "695a"
 chapter: 6
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 695a"
-generated_at: "2026-03-30T06:41:58.259Z"
+generated_at: "2026-03-30T06:43:50.155Z"
 status: "active"
 ---
 

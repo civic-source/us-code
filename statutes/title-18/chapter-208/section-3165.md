@@ -3,9 +3,9 @@ title: "Section 3165 - District plans—generally"
 usc_title: 18
 usc_section: "3165"
 chapter: 208
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "18 U.S.C. § 3165"
-generated_at: "2026-03-30T06:42:01.870Z"
+generated_at: "2026-03-30T06:43:46.087Z"
 status: "active"
 ---
 

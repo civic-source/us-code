@@ -3,9 +3,9 @@ title: "Section 1274 - Omitted"
 usc_title: 22
 usc_section: "1274"
 chapter: 15
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 1274"
-generated_at: "2026-03-30T06:42:24.531Z"
+generated_at: "2026-03-30T06:43:58.487Z"
 status: "omitted"
 ---
 

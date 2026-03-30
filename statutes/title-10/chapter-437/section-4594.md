@@ -3,9 +3,9 @@ title: "Section 4594 - Furnishing of heraldic services"
 usc_title: 10
 usc_section: "4594"
 chapter: 437
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 4594"
-generated_at: "2026-03-30T06:41:20.498Z"
+generated_at: "2026-03-30T06:43:30.934Z"
 status: "active"
 ---
 

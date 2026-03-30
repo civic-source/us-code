@@ -3,9 +3,9 @@ title: "Section 1945 - Utilization of funds for assistance in Latin America; ava
 usc_title: 22
 usc_section: "1945"
 chapter: 24
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 1945"
-generated_at: "2026-03-30T06:42:24.539Z"
+generated_at: "2026-03-30T06:43:58.495Z"
 status: "active"
 ---
 

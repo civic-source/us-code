@@ -3,9 +3,9 @@ title: "Section 1022f - State functions"
 usc_title: 20
 usc_section: "1022f"
 chapter: 28
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "20 U.S.C. § 1022f"
-generated_at: "2026-03-30T06:42:04.942Z"
+generated_at: "2026-03-30T06:43:51.969Z"
 status: "active"
 ---
 

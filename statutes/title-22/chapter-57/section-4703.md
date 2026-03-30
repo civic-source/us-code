@@ -3,9 +3,9 @@ title: "Section 4703 - Scholarship program authority"
 usc_title: 22
 usc_section: "4703"
 chapter: 57
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 4703"
-generated_at: "2026-03-30T06:42:24.601Z"
+generated_at: "2026-03-30T06:43:58.560Z"
 status: "active"
 ---
 

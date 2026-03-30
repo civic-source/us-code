@@ -3,9 +3,9 @@ title: "Section 2251 - Reimbursement of Production and Marketing Administration 
 usc_title: 7
 usc_section: "2251"
 chapter: 55
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 2251"
-generated_at: "2026-03-30T06:41:10.183Z"
+generated_at: "2026-03-30T06:43:35.390Z"
 status: "active"
 ---
 

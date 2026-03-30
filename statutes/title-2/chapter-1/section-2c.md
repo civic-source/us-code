@@ -3,9 +3,9 @@ title: "Section 2c - Number of Congressional Districts; number of Representative
 usc_title: 2
 usc_section: "2c"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "2 U.S.C. § 2c"
-generated_at: "2026-03-30T06:40:37.072Z"
+generated_at: "2026-03-30T06:43:23.977Z"
 status: "active"
 ---
 

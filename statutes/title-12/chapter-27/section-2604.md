@@ -3,9 +3,9 @@ title: "Section 2604 - Home buying information booklets"
 usc_title: 12
 usc_section: "2604"
 chapter: 27
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 2604"
-generated_at: "2026-03-30T06:41:27.499Z"
+generated_at: "2026-03-30T06:43:40.413Z"
 status: "active"
 ---
 

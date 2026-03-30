@@ -3,9 +3,9 @@ title: "Section 2347 - Petitions to review; proceedings"
 usc_title: 28
 usc_section: "2347"
 chapter: 158
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "28 U.S.C. § 2347"
-generated_at: "2026-03-30T06:42:28.021Z"
+generated_at: "2026-03-30T06:44:01.640Z"
 status: "active"
 ---
 

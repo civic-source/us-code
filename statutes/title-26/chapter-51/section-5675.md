@@ -3,9 +3,9 @@ title: "Section 5675 - Penalty for intentional removal or defacement of brewerâ€
 usc_title: 26
 usc_section: "5675"
 chapter: 51
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "26 U.S.C. Â§ 5675"
-generated_at: "2026-03-30T06:42:33.884Z"
+generated_at: "2026-03-30T06:44:09.275Z"
 status: "active"
 ---
 

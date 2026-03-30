@@ -3,9 +3,9 @@ title: "Section 407ee - Authorization of appropriations"
 usc_title: 16
 usc_section: "407ee"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 407ee"
-generated_at: "2026-03-30T06:41:58.169Z"
+generated_at: "2026-03-30T06:43:50.065Z"
 status: "active"
 ---
 

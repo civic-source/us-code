@@ -3,9 +3,9 @@ title: "Section 3494 - Repealed. Pub. L. 96–513, title II , § 209(a), Dec. 12
 usc_title: 10
 usc_section: "3494"
 chapter: 341
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 3494"
-generated_at: "2026-03-30T06:41:20.493Z"
+generated_at: "2026-03-30T06:43:30.929Z"
 status: "repealed"
 ---
 

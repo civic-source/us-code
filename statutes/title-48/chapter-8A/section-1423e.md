@@ -3,9 +3,9 @@ title: "Section 1423e - Prohibition against acceptance of salary increases or ne
 usc_title: 48
 usc_section: "1423e"
 chapter: 8
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "48 U.S.C. § 1423e"
-generated_at: "2026-03-30T06:43:04.610Z"
+generated_at: "2026-03-30T06:45:43.554Z"
 status: "active"
 ---
 

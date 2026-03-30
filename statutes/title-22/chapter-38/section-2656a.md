@@ -3,9 +3,9 @@ title: "Section 2656a - Congressional declaration of findings of major significa
 usc_title: 22
 usc_section: "2656a"
 chapter: 38
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 2656a"
-generated_at: "2026-03-30T06:42:24.569Z"
+generated_at: "2026-03-30T06:43:58.527Z"
 status: "active"
 ---
 

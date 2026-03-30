@@ -3,9 +3,9 @@ title: "Section 1764 - Reports and dispatches"
 usc_title: 7
 usc_section: "1764"
 chapter: 43
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 1764"
-generated_at: "2026-03-30T06:41:10.156Z"
+generated_at: "2026-03-30T06:43:35.359Z"
 status: "active"
 ---
 

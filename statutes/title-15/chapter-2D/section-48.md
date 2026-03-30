@@ -3,9 +3,9 @@ title: "Section 48 - Penalties"
 usc_title: 15
 usc_section: "48"
 chapter: 2
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "15 U.S.C. § 48"
-generated_at: "2026-03-30T06:41:45.249Z"
+generated_at: "2026-03-30T06:43:42.924Z"
 status: "active"
 ---
 

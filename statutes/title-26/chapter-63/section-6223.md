@@ -3,9 +3,9 @@ title: "Section 6223 - Notice to partners of proceedings"
 usc_title: 26
 usc_section: "6223"
 chapter: 63
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "26 U.S.C. § 6223"
-generated_at: "2026-03-30T06:42:33.900Z"
+generated_at: "2026-03-30T06:44:09.292Z"
 status: "active"
 ---
 

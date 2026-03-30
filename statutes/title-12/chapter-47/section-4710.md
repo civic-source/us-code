@@ -3,9 +3,9 @@ title: "Section 4710 - Collection and compilation of information"
 usc_title: 12
 usc_section: "4710"
 chapter: 47
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 4710"
-generated_at: "2026-03-30T06:41:27.525Z"
+generated_at: "2026-03-30T06:43:40.443Z"
 status: "active"
 ---
 

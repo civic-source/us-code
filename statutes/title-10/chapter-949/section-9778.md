@@ -3,9 +3,9 @@ title: "Section 9778 - Licenses: military reservations; erection and use of buil
 usc_title: 10
 usc_section: "9778"
 chapter: 949
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 9778"
-generated_at: "2026-03-30T06:41:20.518Z"
+generated_at: "2026-03-30T06:43:30.955Z"
 status: "active"
 ---
 

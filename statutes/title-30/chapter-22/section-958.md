@@ -3,9 +3,9 @@ title: "Section 958 - Annual reports to Congress; contents"
 usc_title: 30
 usc_section: "958"
 chapter: 22
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "30 U.S.C. § 958"
-generated_at: "2026-03-30T06:42:26.981Z"
+generated_at: "2026-03-30T06:44:03.850Z"
 status: "active"
 ---
 

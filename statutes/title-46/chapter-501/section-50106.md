@@ -3,9 +3,9 @@ title: "Section 50106 - Studies on the operation of vessels"
 usc_title: 46
 usc_section: "50106"
 chapter: 501
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "46 U.S.C. § 50106"
-generated_at: "2026-03-30T06:43:08.560Z"
+generated_at: "2026-03-30T06:45:57.026Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1438 - Unlawful return of foreign vessel’s papers"
 usc_title: 19
 usc_section: "1438"
 chapter: 4
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "19 U.S.C. § 1438"
-generated_at: "2026-03-30T06:42:12.967Z"
+generated_at: "2026-03-30T06:43:47.947Z"
 status: "active"
 ---
 

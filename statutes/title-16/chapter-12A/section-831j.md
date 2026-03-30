@@ -3,9 +3,9 @@ title: "Section 831j - Equitable distribution of surplus power among States and 
 usc_title: 16
 usc_section: "831j"
 chapter: 12
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 831j"
-generated_at: "2026-03-30T06:41:58.278Z"
+generated_at: "2026-03-30T06:43:50.176Z"
 status: "active"
 ---
 

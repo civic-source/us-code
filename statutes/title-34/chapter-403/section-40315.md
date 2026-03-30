@@ -3,9 +3,9 @@ title: "Section 40315 - Enforcement and implementation"
 usc_title: 34
 usc_section: "40315"
 chapter: 403
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "34 U.S.C. § 40315"
-generated_at: "2026-03-30T06:42:37.271Z"
+generated_at: "2026-03-30T06:44:13.926Z"
 status: "active"
 ---
 

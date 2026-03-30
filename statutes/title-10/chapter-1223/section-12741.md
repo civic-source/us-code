@@ -3,9 +3,9 @@ title: "Section 12741 - Retirement for service in an active status performed in 
 usc_title: 10
 usc_section: "12741"
 chapter: 1223
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 12741"
-generated_at: "2026-03-30T06:41:20.526Z"
+generated_at: "2026-03-30T06:43:30.963Z"
 status: "active"
 ---
 

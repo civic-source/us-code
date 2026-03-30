@@ -3,9 +3,9 @@ title: "Section 3818 - Repealed. Pub. L. 96–513, title II , § 236, Dec. 12, 1
 usc_title: 10
 usc_section: "3818"
 chapter: 361
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 3818"
-generated_at: "2026-03-30T06:41:20.494Z"
+generated_at: "2026-03-30T06:43:30.930Z"
 status: "repealed"
 ---
 

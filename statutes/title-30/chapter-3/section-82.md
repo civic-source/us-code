@@ -3,9 +3,9 @@ title: "Section 82 - New or supplemental patents, in case of lands subsequently 
 usc_title: 30
 usc_section: "82"
 chapter: 3
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "30 U.S.C. § 82"
-generated_at: "2026-03-30T06:42:26.965Z"
+generated_at: "2026-03-30T06:44:03.836Z"
 status: "active"
 ---
 

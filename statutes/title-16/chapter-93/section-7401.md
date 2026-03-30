@@ -3,9 +3,9 @@ title: "Section 7401 - Purpose"
 usc_title: 16
 usc_section: "7401"
 chapter: 93
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 7401"
-generated_at: "2026-03-30T06:41:58.371Z"
+generated_at: "2026-03-30T06:43:50.273Z"
 status: "active"
 ---
 

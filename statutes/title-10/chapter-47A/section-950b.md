@@ -3,9 +3,9 @@ title: "Section 950b - Review by the convening authority"
 usc_title: 10
 usc_section: "950b"
 chapter: 47
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 950b"
-generated_at: "2026-03-30T06:41:20.418Z"
+generated_at: "2026-03-30T06:43:30.853Z"
 status: "active"
 ---
 

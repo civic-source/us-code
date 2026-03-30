@@ -3,9 +3,9 @@ title: "Section 359 - Purchase and sale of acceptances of intermediate credit ba
 usc_title: 12
 usc_section: "359"
 chapter: 3
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 359"
-generated_at: "2026-03-30T06:41:27.407Z"
+generated_at: "2026-03-30T06:43:40.311Z"
 status: "active"
 ---
 

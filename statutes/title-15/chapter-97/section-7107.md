@@ -3,9 +3,9 @@ title: "Section 7107 - Membership of the Council"
 usc_title: 15
 usc_section: "7107"
 chapter: 97
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "15 U.S.C. § 7107"
-generated_at: "2026-03-30T06:41:45.369Z"
+generated_at: "2026-03-30T06:43:43.058Z"
 status: "active"
 ---
 

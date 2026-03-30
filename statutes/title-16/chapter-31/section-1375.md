@@ -3,9 +3,9 @@ title: "Section 1375 - Penalties"
 usc_title: 16
 usc_section: "1375"
 chapter: 31
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 1375"
-generated_at: "2026-03-30T06:41:58.302Z"
+generated_at: "2026-03-30T06:43:50.202Z"
 status: "active"
 ---
 

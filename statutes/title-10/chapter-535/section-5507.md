@@ -3,9 +3,9 @@ title: "Section 5507 - Repealed. Pub. L. 87–649 , § 14c(26), Sept. 7, 1962 , 
 usc_title: 10
 usc_section: "5507"
 chapter: 535
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 5507"
-generated_at: "2026-03-30T06:41:20.501Z"
+generated_at: "2026-03-30T06:43:30.937Z"
 status: "repealed"
 ---
 

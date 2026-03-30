@@ -3,9 +3,9 @@ title: "Section 14513 - Failure of selection for promotion: transfer, retirement
 usc_title: 10
 usc_section: "14513"
 chapter: 1407
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 14513"
-generated_at: "2026-03-30T06:41:20.528Z"
+generated_at: "2026-03-30T06:43:30.965Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4 - Limited authority to acquire"
 usc_title: 16
 usc_section: "4"
 chapter: 6
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T06:41:58.261Z"
+generated_at: "2026-03-30T06:43:50.158Z"
 status: "active"
 ---
 

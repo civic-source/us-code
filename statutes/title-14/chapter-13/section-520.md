@@ -3,9 +3,9 @@ title: "Section 520 - Prospective payment of funds necessary to provide medical 
 usc_title: 14
 usc_section: "520"
 chapter: 13
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "14 U.S.C. § 520"
-generated_at: "2026-03-30T06:41:31.005Z"
+generated_at: "2026-03-30T06:43:38.198Z"
 status: "active"
 ---
 

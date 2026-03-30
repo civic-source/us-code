@@ -3,9 +3,9 @@ title: "Section 5005 - Indemnity"
 usc_title: 12
 usc_section: "5005"
 chapter: 50
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 5005"
-generated_at: "2026-03-30T06:41:27.528Z"
+generated_at: "2026-03-30T06:43:40.447Z"
 status: "active"
 ---
 

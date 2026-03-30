@@ -3,9 +3,9 @@ title: "Section 11903 - Eligible activities"
 usc_title: 42
 usc_section: "11903"
 chapter: 124
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 11903"
-generated_at: "2026-03-30T06:43:01.517Z"
+generated_at: "2026-03-30T06:45:38.877Z"
 status: "active"
 ---
 

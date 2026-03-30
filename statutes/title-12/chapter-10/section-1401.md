@@ -3,9 +3,9 @@ title: "Section 1401 - Authorization of loans by Governor of Farm Credit Adminis
 usc_title: 12
 usc_section: "1401"
 chapter: 10
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 1401"
-generated_at: "2026-03-30T06:41:27.416Z"
+generated_at: "2026-03-30T06:43:40.320Z"
 status: "active"
 ---
 

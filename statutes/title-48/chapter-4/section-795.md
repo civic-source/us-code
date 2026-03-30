@@ -3,9 +3,9 @@ title: "Section 795 - Government expenses payable out of revenues"
 usc_title: 48
 usc_section: "795"
 chapter: 4
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "48 U.S.C. § 795"
-generated_at: "2026-03-30T06:43:04.607Z"
+generated_at: "2026-03-30T06:45:43.549Z"
 status: "active"
 ---
 

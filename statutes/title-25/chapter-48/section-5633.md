@@ -3,9 +3,9 @@ title: "Section 5633 - Under Secretary for Indian Affairs"
 usc_title: 25
 usc_section: "5633"
 chapter: 48
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "25 U.S.C. § 5633"
-generated_at: "2026-03-30T06:42:19.892Z"
+generated_at: "2026-03-30T06:43:56.400Z"
 status: "active"
 ---
 

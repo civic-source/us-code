@@ -3,9 +3,9 @@ title: "Section 7 - Disparate impact"
 usc_title: 42
 usc_section: "7"
 chapter: 21
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T06:43:01.298Z"
+generated_at: "2026-03-30T06:45:38.641Z"
 status: "active"
 ---
 

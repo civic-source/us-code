@@ -3,9 +3,9 @@ title: "Section 1232h - Protection of pupil rights"
 usc_title: 20
 usc_section: "1232h"
 chapter: 31
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "20 U.S.C. § 1232h"
-generated_at: "2026-03-30T06:42:04.991Z"
+generated_at: "2026-03-30T06:43:52.022Z"
 status: "active"
 ---
 

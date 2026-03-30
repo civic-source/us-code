@@ -3,9 +3,9 @@ title: "Section 12651h - Corporation State offices"
 usc_title: 42
 usc_section: "12651h"
 chapter: 129
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 12651h"
-generated_at: "2026-03-30T06:43:01.532Z"
+generated_at: "2026-03-30T06:45:38.894Z"
 status: "active"
 ---
 

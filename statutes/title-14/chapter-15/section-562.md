@@ -3,9 +3,9 @@ title: "Section 562 - Improvements in Coast Guard acquisition management"
 usc_title: 14
 usc_section: "562"
 chapter: 15
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "14 U.S.C. § 562"
-generated_at: "2026-03-30T06:41:31.006Z"
+generated_at: "2026-03-30T06:43:38.200Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4817 - Preemption"
 usc_title: 7
 usc_section: "4817"
 chapter: 79
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 4817"
-generated_at: "2026-03-30T06:41:10.203Z"
+generated_at: "2026-03-30T06:43:35.412Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1006 - Federal credit institution entries, reports and transacti
 usc_title: 18
 usc_section: "1006"
 chapter: 47
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "18 U.S.C. § 1006"
-generated_at: "2026-03-30T06:42:01.838Z"
+generated_at: "2026-03-30T06:43:46.062Z"
 status: "active"
 ---
 

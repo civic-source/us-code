@@ -3,9 +3,9 @@ title: "Section 2984a - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13
 usc_title: 42
 usc_section: "2984a"
 chapter: 34
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 2984a"
-generated_at: "2026-03-30T06:43:01.318Z"
+generated_at: "2026-03-30T06:45:38.662Z"
 status: "repealed"
 ---
 

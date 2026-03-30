@@ -3,9 +3,9 @@ title: "Section 115 - Influencing, impeding, or retaliating against a Federal of
 usc_title: 18
 usc_section: "115"
 chapter: 7
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "18 U.S.C. § 115"
-generated_at: "2026-03-30T06:42:01.822Z"
+generated_at: "2026-03-30T06:43:46.045Z"
 status: "active"
 ---
 

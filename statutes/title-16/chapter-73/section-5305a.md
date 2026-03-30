@@ -3,9 +3,9 @@ title: "Section 5305a - Prohibition on sale, importation, or exportation of prod
 usc_title: 16
 usc_section: "5305a"
 chapter: 73
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 5305a"
-generated_at: "2026-03-30T06:41:58.359Z"
+generated_at: "2026-03-30T06:43:50.261Z"
 status: "active"
 ---
 

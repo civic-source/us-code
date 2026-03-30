@@ -3,9 +3,9 @@ title: "Section 5101 - Findings and purposes"
 usc_title: 15
 usc_section: "5101"
 chapter: 77
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "15 U.S.C. § 5101"
-generated_at: "2026-03-30T06:41:45.357Z"
+generated_at: "2026-03-30T06:43:43.046Z"
 status: "active"
 ---
 

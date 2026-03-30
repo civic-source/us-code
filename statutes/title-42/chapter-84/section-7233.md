@@ -3,9 +3,9 @@ title: "Section 7233 - Experts and consultants"
 usc_title: 42
 usc_section: "7233"
 chapter: 84
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 7233"
-generated_at: "2026-03-30T06:43:01.416Z"
+generated_at: "2026-03-30T06:45:38.768Z"
 status: "active"
 ---
 

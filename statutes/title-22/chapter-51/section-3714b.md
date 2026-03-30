@@ -3,9 +3,9 @@ title: "Section 3714b - Printing"
 usc_title: 22
 usc_section: "3714b"
 chapter: 51
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 3714b"
-generated_at: "2026-03-30T06:42:24.585Z"
+generated_at: "2026-03-30T06:43:58.544Z"
 status: "active"
 ---
 

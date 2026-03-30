@@ -3,9 +3,9 @@ title: "Section 14109 - Reports of promotion boards: in general"
 usc_title: 10
 usc_section: "14109"
 chapter: 1403
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 14109"
-generated_at: "2026-03-30T06:41:20.527Z"
+generated_at: "2026-03-30T06:43:30.963Z"
 status: "active"
 ---
 

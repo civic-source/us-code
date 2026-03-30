@@ -3,9 +3,9 @@ title: "Section 353 - Executive Director; additional personnel; detail of person
 usc_title: 2
 usc_section: "353"
 chapter: 11
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "2 U.S.C. § 353"
-generated_at: "2026-03-30T06:40:37.081Z"
+generated_at: "2026-03-30T06:43:23.986Z"
 status: "active"
 ---
 

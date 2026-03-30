@@ -3,9 +3,9 @@ title: "Section 5342 - Office of Financial Research established"
 usc_title: 12
 usc_section: "5342"
 chapter: 53
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 5342"
-generated_at: "2026-03-30T06:41:27.535Z"
+generated_at: "2026-03-30T06:43:40.455Z"
 status: "active"
 ---
 

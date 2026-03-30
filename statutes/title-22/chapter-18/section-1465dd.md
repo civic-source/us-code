@@ -3,9 +3,9 @@ title: "Section 1465dd - Assistance from other Government agencies"
 usc_title: 22
 usc_section: "1465dd"
 chapter: 18
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 1465dd"
-generated_at: "2026-03-30T06:42:24.534Z"
+generated_at: "2026-03-30T06:43:58.489Z"
 status: "active"
 ---
 

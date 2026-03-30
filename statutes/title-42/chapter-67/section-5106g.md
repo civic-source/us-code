@@ -3,16 +3,15 @@ title: "Section 5106g - Definitions"
 usc_title: 42
 usc_section: "5106g"
 chapter: 67
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 5106g"
-generated_at: "2026-03-30T06:43:01.360Z"
+generated_at: "2026-03-30T06:45:38.710Z"
 status: "active"
 ---
 
 # § 5106g. Definitions
 
-For purposes of this subchapter—
-
+- **(a)** For purposes of this subchapter—
   - **(1)** the term “Alaska Native” has the meaning given the term “Native” in section 1602 of title 43 ;
   - **(2)** the term “infant or toddler with a disability” has the meaning given the term in section 1432 of title 20 ;
   - **(3)** the term “Native Hawaiian” has the meaning given the term in section 7517 of title 20 ;
@@ -25,4 +24,7 @@ For purposes of this subchapter—
       - **(i)** merely prolong dying;
       - **(ii)** not be effective in ameliorating or correcting all of the infant’s life-threatening conditions; or
       - **(iii)** otherwise be futile in terms of the survival of the infant; or
-    - **(C)** the provision of such treatment would be virtually futile in terms of the survival of the infant and the treatment itself under such circumstances would be inhumane; 1 1 So in original. The semicolon probably should be a period.
+    - **(C)** the provision of such treatment would be virtually futile in terms of the survival of the infant and the treatment itself under such circumstances would be inhumane.
+- **(b)**
+  - **(1)** For purposes of section 3(2) 1 1 See References in Text note below. and subsection (a)(4), a child shall be considered a victim of “child abuse and neglect” and of “sexual abuse” if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) of section 7102 of title 22 ) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) of that section.
+  - **(2)** Notwithstanding the definition of “child” in section 3(1), 1 a State may elect to define that term for purposes of the application of paragraph (1) to section 3(2) 1 and subsection (a)(4) as a person who has not attained the age of 24.

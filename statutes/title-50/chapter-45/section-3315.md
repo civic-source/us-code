@@ -3,9 +3,9 @@ title: "Section 3315 - Annual certification of controlled access programs"
 usc_title: 50
 usc_section: "3315"
 chapter: 45
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "50 U.S.C. § 3315"
-generated_at: "2026-03-30T06:43:05.781Z"
+generated_at: "2026-03-30T06:45:53.738Z"
 status: "active"
 ---
 

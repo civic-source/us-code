@@ -3,9 +3,9 @@ title: "Section 430ss - Administration, protection, and development"
 usc_title: 16
 usc_section: "430ss"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 430ss"
-generated_at: "2026-03-30T06:41:58.193Z"
+generated_at: "2026-03-30T06:43:50.088Z"
 status: "active"
 ---
 

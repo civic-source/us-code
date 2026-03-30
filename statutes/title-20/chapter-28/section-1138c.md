@@ -3,9 +3,9 @@ title: "Section 1138c - Special projects"
 usc_title: 20
 usc_section: "1138c"
 chapter: 28
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "20 U.S.C. § 1138c"
-generated_at: "2026-03-30T06:42:04.982Z"
+generated_at: "2026-03-30T06:43:52.013Z"
 status: "active"
 ---
 

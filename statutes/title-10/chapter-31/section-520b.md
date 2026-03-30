@@ -3,9 +3,9 @@ title: "Section 520b - Applicants for enlistment: authority to use funds for the
 usc_title: 10
 usc_section: "520b"
 chapter: 31
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "10 U.S.C. § 520b"
-generated_at: "2026-03-30T06:41:20.403Z"
+generated_at: "2026-03-30T06:43:30.839Z"
 status: "active"
 ---
 

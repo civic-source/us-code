@@ -3,9 +3,9 @@ title: "Section 30101 - State grant program for training and prosecution of comp
 usc_title: 34
 usc_section: "30101"
 chapter: 301
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "34 U.S.C. § 30101"
-generated_at: "2026-03-30T06:42:37.267Z"
+generated_at: "2026-03-30T06:44:13.923Z"
 status: "active"
 ---
 

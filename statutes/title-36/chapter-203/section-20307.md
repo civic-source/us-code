@@ -3,9 +3,9 @@ title: "Section 20307 - Nonapplication of audit requirements"
 usc_title: 36
 usc_section: "20307"
 chapter: 203
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "36 U.S.C. § 20307"
-generated_at: "2026-03-30T06:42:41.314Z"
+generated_at: "2026-03-30T06:44:56.383Z"
 status: "active"
 ---
 

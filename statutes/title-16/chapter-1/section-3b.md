@@ -3,9 +3,9 @@ title: "Section 3b - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "3b"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 3b"
-generated_at: "2026-03-30T06:41:58.142Z"
+generated_at: "2026-03-30T06:43:50.040Z"
 status: "repealed"
 ---
 

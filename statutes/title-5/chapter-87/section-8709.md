@@ -3,9 +3,9 @@ title: "Section 8709 - Insurance policies"
 usc_title: 5
 usc_section: "8709"
 chapter: 87
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "5 U.S.C. § 8709"
-generated_at: "2026-03-30T06:40:59.255Z"
+generated_at: "2026-03-30T06:43:23.106Z"
 status: "active"
 ---
 

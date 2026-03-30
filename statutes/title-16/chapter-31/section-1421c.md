@@ -3,9 +3,9 @@ title: "Section 1421c - Unusual mortality event response"
 usc_title: 16
 usc_section: "1421c"
 chapter: 31
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 1421c"
-generated_at: "2026-03-30T06:41:58.306Z"
+generated_at: "2026-03-30T06:43:50.205Z"
 status: "active"
 ---
 

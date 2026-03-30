@@ -3,9 +3,9 @@ title: "Section 422 - Retention for United States of defense articles procured f
 usc_title: 22
 usc_section: "422"
 chapter: 9
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "22 U.S.C. § 422"
-generated_at: "2026-03-30T06:42:24.529Z"
+generated_at: "2026-03-30T06:43:58.484Z"
 status: "active"
 ---
 

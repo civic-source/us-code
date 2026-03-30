@@ -3,9 +3,9 @@ title: "Section 4107 - Consultation with local officials; scope"
 usc_title: 42
 usc_section: "4107"
 chapter: 50
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 4107"
-generated_at: "2026-03-30T06:43:01.346Z"
+generated_at: "2026-03-30T06:45:38.693Z"
 status: "active"
 ---
 

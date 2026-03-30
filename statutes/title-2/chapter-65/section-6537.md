@@ -3,9 +3,9 @@ title: "Section 6537 - Compensation of Assistants to Majority and Minority in Of
 usc_title: 2
 usc_section: "6537"
 chapter: 65
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "2 U.S.C. § 6537"
-generated_at: "2026-03-30T06:40:37.161Z"
+generated_at: "2026-03-30T06:43:24.021Z"
 status: "active"
 ---
 

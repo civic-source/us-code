@@ -3,9 +3,9 @@ title: "Section 3413 - Repealed. Pub. L. 101–60 , § 3(b)(5), July 26, 1989 , 
 usc_title: 15
 usc_section: "3413"
 chapter: 60
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "15 U.S.C. § 3413"
-generated_at: "2026-03-30T06:41:45.345Z"
+generated_at: "2026-03-30T06:43:43.034Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1150 - Compromise, adjustment, and cancellation of farm loans; c
 usc_title: 12
 usc_section: "1150"
 chapter: 8
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 1150"
-generated_at: "2026-03-30T06:41:27.415Z"
+generated_at: "2026-03-30T06:43:40.320Z"
 status: "active"
 ---
 

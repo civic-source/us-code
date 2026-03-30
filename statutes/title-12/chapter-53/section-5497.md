@@ -3,9 +3,9 @@ title: "Section 5497 - Funding; penalties and fines"
 usc_title: 12
 usc_section: "5497"
 chapter: 53
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "12 U.S.C. § 5497"
-generated_at: "2026-03-30T06:41:27.546Z"
+generated_at: "2026-03-30T06:43:40.466Z"
 status: "active"
 ---
 

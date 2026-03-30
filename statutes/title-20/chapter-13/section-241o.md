@@ -3,9 +3,9 @@ title: "Section 241o - Repealed. Pub. L. 95–561, title I , § 101(c), Nov. 1, 
 usc_title: 20
 usc_section: "241o"
 chapter: 13
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "20 U.S.C. § 241o"
-generated_at: "2026-03-30T06:42:04.932Z"
+generated_at: "2026-03-30T06:43:51.957Z"
 status: "repealed"
 ---
 

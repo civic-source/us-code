@@ -3,9 +3,9 @@ title: "Section 1369 - Treatment of transactions to evade liability; effect of c
 usc_title: 29
 usc_section: "1369"
 chapter: 18
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "29 U.S.C. § 1369"
-generated_at: "2026-03-30T06:42:34.779Z"
+generated_at: "2026-03-30T06:44:03.359Z"
 status: "active"
 ---
 

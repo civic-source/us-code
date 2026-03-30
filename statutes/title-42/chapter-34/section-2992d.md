@@ -3,9 +3,9 @@ title: "Section 2992d - Authorization of appropriations"
 usc_title: 42
 usc_section: "2992d"
 chapter: 34
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 2992d"
-generated_at: "2026-03-30T06:43:01.319Z"
+generated_at: "2026-03-30T06:45:38.664Z"
 status: "active"
 ---
 

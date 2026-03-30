@@ -3,9 +3,9 @@ title: "Section 4 - Delegation of functions under other laws as unaffected"
 usc_title: 7
 usc_section: "4"
 chapter: 55
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T06:41:10.181Z"
+generated_at: "2026-03-30T06:43:35.387Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3603 - Chief Information Officers Council"
 usc_title: 44
 usc_section: "3603"
 chapter: 36
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "44 U.S.C. § 3603"
-generated_at: "2026-03-30T06:42:46.712Z"
+generated_at: "2026-03-30T06:45:15.160Z"
 status: "active"
 ---
 

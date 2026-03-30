@@ -3,9 +3,9 @@ title: "Section 132 - National School Lunch Week"
 usc_title: 36
 usc_section: "132"
 chapter: 1
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "36 U.S.C. § 132"
-generated_at: "2026-03-30T06:42:41.312Z"
+generated_at: "2026-03-30T06:44:56.381Z"
 status: "active"
 ---
 

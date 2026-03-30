@@ -3,9 +3,9 @@ title: "Section 2109 - General provisions"
 usc_title: 16
 usc_section: "2109"
 chapter: 41
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "16 U.S.C. § 2109"
-generated_at: "2026-03-30T06:41:58.328Z"
+generated_at: "2026-03-30T06:43:50.228Z"
 status: "active"
 ---
 

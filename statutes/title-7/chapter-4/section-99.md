@@ -3,9 +3,9 @@ title: "Section 99 - Separability"
 usc_title: 7
 usc_section: "99"
 chapter: 4
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "7 U.S.C. § 99"
-generated_at: "2026-03-30T06:41:10.095Z"
+generated_at: "2026-03-30T06:43:35.292Z"
 status: "active"
 ---
 

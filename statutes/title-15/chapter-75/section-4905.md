@@ -3,9 +3,9 @@ title: "Section 4905 - Cooperation among executive agencies"
 usc_title: 15
 usc_section: "4905"
 chapter: 75
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "15 U.S.C. § 4905"
-generated_at: "2026-03-30T06:41:45.357Z"
+generated_at: "2026-03-30T06:43:43.045Z"
 status: "active"
 ---
 

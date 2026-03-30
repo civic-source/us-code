@@ -3,9 +3,9 @@ title: "Section 5124 - Incorporation of Indian tribes; charter; ratification by 
 usc_title: 25
 usc_section: "5124"
 chapter: 45
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "25 U.S.C. § 5124"
-generated_at: "2026-03-30T06:42:19.886Z"
+generated_at: "2026-03-30T06:43:56.394Z"
 status: "active"
 ---
 

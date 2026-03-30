@@ -3,9 +3,9 @@ title: "Section 2994d - Repealed. Pub. L. 93–113, title VI , § 603, Oct. 1, 1
 usc_title: 42
 usc_section: "2994d"
 chapter: 34
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "42 U.S.C. § 2994d"
-generated_at: "2026-03-30T06:43:01.319Z"
+generated_at: "2026-03-30T06:45:38.664Z"
 status: "repealed"
 ---
 

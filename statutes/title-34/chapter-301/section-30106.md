@@ -3,9 +3,9 @@ title: "Section 30106 - Annual reports"
 usc_title: 34
 usc_section: "30106"
 chapter: 301
-current_through: "PL 115-61"
+current_through: "PL 115-64"
 classification: "34 U.S.C. § 30106"
-generated_at: "2026-03-30T06:42:37.268Z"
+generated_at: "2026-03-30T06:44:13.923Z"
 status: "active"
 ---
 
