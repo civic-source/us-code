@@ -3,9 +3,9 @@ title: "Section 2152 - Intervention in litigation"
 usc_title: 48
 usc_section: "2152"
 chapter: 20
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "48 U.S.C. § 2152"
-generated_at: "2026-03-30T07:34:15.703Z"
+generated_at: "2026-03-30T07:36:12.719Z"
 status: "active"
 ---
 

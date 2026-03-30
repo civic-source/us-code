@@ -3,9 +3,9 @@ title: "Section 5342 - Reimbursement of transportation expenses for employees in
 usc_title: 2
 usc_section: "5342"
 chapter: 53
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "2 U.S.C. § 5342"
-generated_at: "2026-03-30T07:32:34.759Z"
+generated_at: "2026-03-30T07:34:31.323Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1455 - Omitted"
 usc_title: 42
 usc_section: "1455"
 chapter: 8
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 1455"
-generated_at: "2026-03-30T07:34:09.347Z"
+generated_at: "2026-03-30T07:36:01.349Z"
 status: "omitted"
 ---
 

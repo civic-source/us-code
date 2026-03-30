@@ -3,9 +3,9 @@ title: "Section 1533 - Small government agency plan"
 usc_title: 2
 usc_section: "1533"
 chapter: 25
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "2 U.S.C. § 1533"
-generated_at: "2026-03-30T07:32:34.742Z"
+generated_at: "2026-03-30T07:34:31.301Z"
 status: "active"
 ---
 

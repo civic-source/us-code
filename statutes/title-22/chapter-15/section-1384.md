@@ -3,9 +3,9 @@ title: "Section 1384 - Transfer of shares of corporations owning agricultural la
 usc_title: 22
 usc_section: "1384"
 chapter: 15
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 1384"
-generated_at: "2026-03-30T07:33:32.625Z"
+generated_at: "2026-03-30T07:35:12.812Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 885 - Union Pacific Railroad lands"
 usc_title: 43
 usc_section: "885"
 chapter: 21
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 885"
-generated_at: "2026-03-30T07:33:54.056Z"
+generated_at: "2026-03-30T07:35:49.411Z"
 status: "active"
 ---
 

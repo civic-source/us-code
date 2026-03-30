@@ -3,9 +3,9 @@ title: "Section 3553 - Membership in WTO of boycotting countries"
 usc_title: 19
 usc_section: "3553"
 chapter: 22
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "19 U.S.C. § 3553"
-generated_at: "2026-03-30T07:33:13.305Z"
+generated_at: "2026-03-30T07:35:01.325Z"
 status: "active"
 ---
 

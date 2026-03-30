@@ -3,9 +3,9 @@ title: "Section 254b - Audits: selection of service providers for audit services
 usc_title: 10
 usc_section: "254b"
 chapter: 9
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 254b"
-generated_at: "2026-03-30T07:32:50.618Z"
+generated_at: "2026-03-30T07:34:41.772Z"
 status: "active"
 ---
 

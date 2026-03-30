@@ -3,9 +3,9 @@ title: "Section 6846 - Legal authority under State law"
 usc_title: 20
 usc_section: "6846"
 chapter: 70
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "20 U.S.C. § 6846"
-generated_at: "2026-03-30T07:33:09.869Z"
+generated_at: "2026-03-30T07:35:03.862Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5a - Alcohol and drug prevention or treatment services for India
 usc_title: 42
 usc_section: "5a"
 chapter: 6
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-03-30T07:34:09.084Z"
+generated_at: "2026-03-30T07:36:01.091Z"
 status: "active"
 ---
 

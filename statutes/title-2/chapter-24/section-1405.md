@@ -3,9 +3,9 @@ title: "Section 1405 - Complaint and hearing"
 usc_title: 2
 usc_section: "1405"
 chapter: 24
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "2 U.S.C. § 1405"
-generated_at: "2026-03-30T07:32:34.740Z"
+generated_at: "2026-03-30T07:34:31.300Z"
 status: "active"
 ---
 

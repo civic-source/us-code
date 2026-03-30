@@ -3,9 +3,9 @@ title: "Section 4360 - Cadets: charges and fees for attendance; limitation"
 usc_title: 10
 usc_section: "4360"
 chapter: 403
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 4360"
-generated_at: "2026-03-30T07:32:50.719Z"
+generated_at: "2026-03-30T07:34:41.874Z"
 status: "active"
 ---
 

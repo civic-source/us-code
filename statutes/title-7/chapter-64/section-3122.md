@@ -3,9 +3,9 @@ title: "Section 3122 - Repealed. Pub. L. 104–127, title VIII , § 852(a), Apr.
 usc_title: 7
 usc_section: "3122"
 chapter: 64
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "7 U.S.C. § 3122"
-generated_at: "2026-03-30T07:32:55.038Z"
+generated_at: "2026-03-30T07:34:45.562Z"
 status: "repealed"
 ---
 

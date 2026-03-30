@@ -3,9 +3,9 @@ title: "Section 3308a - Provision of certain information to Government Accountab
 usc_title: 50
 usc_section: "3308a"
 chapter: 45
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "50 U.S.C. § 3308a"
-generated_at: "2026-03-30T07:34:15.303Z"
+generated_at: "2026-03-30T07:36:06.193Z"
 status: "active"
 ---
 

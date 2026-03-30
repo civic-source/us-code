@@ -3,9 +3,9 @@ title: "Section 3509 - Conflict of interest; personnel and activities covered"
 usc_title: 22
 usc_section: "3509"
 chapter: 50
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 3509"
-generated_at: "2026-03-30T07:33:32.677Z"
+generated_at: "2026-03-30T07:35:12.863Z"
 status: "active"
 ---
 

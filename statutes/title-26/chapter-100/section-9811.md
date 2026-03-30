@@ -3,9 +3,9 @@ title: "Section 9811 - Standards relating to benefits for mothers and newborns"
 usc_title: 26
 usc_section: "9811"
 chapter: 100
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "26 U.S.C. § 9811"
-generated_at: "2026-03-30T07:33:42.905Z"
+generated_at: "2026-03-30T07:35:27.685Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2275 - Reports on integration of acquisition and capability deli
 usc_title: 10
 usc_section: "2275"
 chapter: 135
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 2275"
-generated_at: "2026-03-30T07:32:50.679Z"
+generated_at: "2026-03-30T07:34:41.835Z"
 status: "active"
 ---
 

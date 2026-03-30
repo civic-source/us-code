@@ -3,9 +3,9 @@ title: "Section 190312 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "190312"
 chapter: 1903
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "36 U.S.C. § 190312"
-generated_at: "2026-03-30T07:33:49.846Z"
+generated_at: "2026-03-30T07:35:43.421Z"
 status: "active"
 ---
 

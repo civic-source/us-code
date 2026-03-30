@@ -3,9 +3,9 @@ title: "Section 100905 - Commercial filming"
 usc_title: 54
 usc_section: "100905"
 chapter: 1009
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "54 U.S.C. § 100905"
-generated_at: "2026-03-30T07:34:19.696Z"
+generated_at: "2026-03-30T07:36:17.771Z"
 status: "active"
 ---
 

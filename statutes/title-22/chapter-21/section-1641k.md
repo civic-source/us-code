@@ -3,9 +3,9 @@ title: "Section 1641k - Prohibition against payment of award to collaborators or
 usc_title: 22
 usc_section: "1641k"
 chapter: 21
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 1641k"
-generated_at: "2026-03-30T07:33:32.630Z"
+generated_at: "2026-03-30T07:35:12.816Z"
 status: "active"
 ---
 

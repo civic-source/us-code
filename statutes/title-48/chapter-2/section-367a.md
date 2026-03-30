@@ -3,9 +3,9 @@ title: "Section 367a - Transferred"
 usc_title: 48
 usc_section: "367a"
 chapter: 2
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "48 U.S.C. § 367a"
-generated_at: "2026-03-30T07:34:15.682Z"
+generated_at: "2026-03-30T07:36:12.700Z"
 status: "transferred"
 ---
 

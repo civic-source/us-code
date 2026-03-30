@@ -3,9 +3,9 @@ title: "Section 6486 - Members of the Fleet Reserve and Fleet Marine Corps Reser
 usc_title: 10
 usc_section: "6486"
 chapter: 575
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 6486"
-generated_at: "2026-03-30T07:32:50.727Z"
+generated_at: "2026-03-30T07:34:41.882Z"
 status: "active"
 ---
 

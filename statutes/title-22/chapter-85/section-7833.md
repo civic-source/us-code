@@ -3,9 +3,9 @@ title: "Section 7833 - Assistance provided outside of North Korea"
 usc_title: 22
 usc_section: "7833"
 chapter: 85
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 7833"
-generated_at: "2026-03-30T07:33:32.721Z"
+generated_at: "2026-03-30T07:35:12.909Z"
 status: "active"
 ---
 
@@ -16,5 +16,5 @@ status: "active"
   - **(1)** humanitarian assistance to North Korean refugees, defectors, migrants, and orphans outside of North Korea, which may include support for refugee camps or temporary settlements; and
   - **(2)** humanitarian assistance to North Korean women outside of North Korea who are victims of trafficking, as defined in section 7102(15) of this title , or are in danger of being trafficked.
 - **(c)**
-  - **(1)** In addition to funds otherwise available for such purposes, there are authorized to be appropriated to the President $5,000,000 for each of the fiscal years 2013 through 2017 to carry out this section.
+  - **(1)** In addition to funds otherwise available for such purposes, there are authorized to be appropriated to the President $5,000,000 for each of the fiscal years 2018 through 2022 to carry out this section.
   - **(2)** Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.

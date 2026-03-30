@@ -3,9 +3,9 @@ title: "Section 2193 - Resolutions relating to extension of waiver authority und
 usc_title: 19
 usc_section: "2193"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "19 U.S.C. § 2193"
-generated_at: "2026-03-30T07:33:13.280Z"
+generated_at: "2026-03-30T07:35:01.299Z"
 status: "active"
 ---
 

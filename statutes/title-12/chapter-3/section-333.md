@@ -3,9 +3,9 @@ title: "Section 333 - Mutual savings banks; application and admission to members
 usc_title: 12
 usc_section: "333"
 chapter: 3
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "12 U.S.C. § 333"
-generated_at: "2026-03-30T07:33:00.871Z"
+generated_at: "2026-03-30T07:34:56.706Z"
 status: "active"
 ---
 

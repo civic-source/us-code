@@ -3,9 +3,9 @@ title: "Section 2903 - Major acquisitions"
 usc_title: 14
 usc_section: "2903"
 chapter: 29
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "14 U.S.C. § 2903"
-generated_at: "2026-03-30T07:32:57.175Z"
+generated_at: "2026-03-30T07:34:47.788Z"
 status: "active"
 ---
 

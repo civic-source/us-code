@@ -3,9 +3,9 @@ title: "Section 2356 - Repealed. Pub. L. 112–40, title II , § 221(a)(3), Oct.
 usc_title: 19
 usc_section: "2356"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "19 U.S.C. § 2356"
-generated_at: "2026-03-30T07:33:13.285Z"
+generated_at: "2026-03-30T07:35:01.304Z"
 status: "repealed"
 ---
 

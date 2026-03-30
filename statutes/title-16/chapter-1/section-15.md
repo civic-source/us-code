@@ -3,9 +3,9 @@ title: "Section 15 - Grazing"
 usc_title: 16
 usc_section: "15"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 15"
-generated_at: "2026-03-30T07:33:21.289Z"
+generated_at: "2026-03-30T07:35:06.060Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20101 - Crime Victims Fund"
 usc_title: 34
 usc_section: "20101"
 chapter: 201
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "34 U.S.C. § 20101"
-generated_at: "2026-03-30T07:33:45.515Z"
+generated_at: "2026-03-30T07:35:32.669Z"
 status: "active"
 ---
 

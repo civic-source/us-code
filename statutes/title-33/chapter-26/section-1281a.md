@@ -3,9 +3,9 @@ title: "Section 1281a - Total treatment system funding"
 usc_title: 33
 usc_section: "1281a"
 chapter: 26
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "33 U.S.C. § 1281a"
-generated_at: "2026-03-30T07:33:47.074Z"
+generated_at: "2026-03-30T07:35:39.534Z"
 status: "active"
 ---
 

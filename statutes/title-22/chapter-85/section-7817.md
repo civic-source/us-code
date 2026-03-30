@@ -3,9 +3,9 @@ title: "Section 7817 - Special Envoy on North Korean human rights issues"
 usc_title: 22
 usc_section: "7817"
 chapter: 85
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 7817"
-generated_at: "2026-03-30T07:33:32.721Z"
+generated_at: "2026-03-30T07:35:12.909Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
   - **(5)** make recommendations regarding the funding of activities authorized in sections 7812 and 7814 of this title;
   - **(6)** review strategies for improving protection of human rights in North Korea, including technical training and exchange programs; and
   - **(7)** develop an action plan for supporting implementation of the United Nations Commission on Human Rights Resolution 2004/13.
-- **(d)** Not later than 180 days after October 18, 2004 , and annually thereafter through 2017, the Special Envoy shall submit to the appropriate congressional committees a report on the activities undertaken in the preceding 12 months under subsection (c).
+- **(d)** Not later than 180 days after October 18, 2004 , and annually thereafter through 2022, the Special Envoy shall submit to the appropriate congressional committees a report on the activities undertaken in the preceding 12 months under subsection (c).

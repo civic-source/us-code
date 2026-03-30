@@ -3,9 +3,9 @@ title: "Section 570 - Default in contract; disposition of amounts collected"
 usc_title: 33
 usc_section: "570"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "33 U.S.C. § 570"
-generated_at: "2026-03-30T07:33:47.053Z"
+generated_at: "2026-03-30T07:35:39.515Z"
 status: "active"
 ---
 

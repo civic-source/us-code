@@ -3,9 +3,9 @@ title: "Section 12e - Repealed. Pub. L. 106–554 , § 1(a)(5) [title I, § 123(
 usc_title: 7
 usc_section: "12e"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "7 U.S.C. § 12e"
-generated_at: "2026-03-30T07:32:54.928Z"
+generated_at: "2026-03-30T07:34:45.451Z"
 status: "repealed"
 ---
 

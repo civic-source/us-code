@@ -3,9 +3,9 @@ title: "Section 16152 - Definitions"
 usc_title: 42
 usc_section: "16152"
 chapter: 149
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 16152"
-generated_at: "2026-03-30T07:34:09.661Z"
+generated_at: "2026-03-30T07:36:01.662Z"
 status: "active"
 ---
 

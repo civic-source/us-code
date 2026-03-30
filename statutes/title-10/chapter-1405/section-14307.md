@@ -3,9 +3,9 @@ title: "Section 14307 - Number of officers to be recommended for promotion"
 usc_title: 10
 usc_section: "14307"
 chapter: 1405
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 14307"
-generated_at: "2026-03-30T07:32:50.749Z"
+generated_at: "2026-03-30T07:34:41.905Z"
 status: "active"
 ---
 

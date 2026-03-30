@@ -3,9 +3,9 @@ title: "Section 205 - Repealed. Pub. L. 88–597 , § 19(d), Sept. 15, 1964 , 78
 usc_title: 24
 usc_section: "205"
 chapter: 4
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "24 U.S.C. § 205"
-generated_at: "2026-03-30T07:33:23.750Z"
+generated_at: "2026-03-30T07:35:08.133Z"
 status: "repealed"
 ---
 

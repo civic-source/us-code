@@ -3,9 +3,9 @@ title: "Section 2 - Definitions"
 usc_title: 30
 usc_section: "2"
 chapter: 2
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "30 U.S.C. § 2"
-generated_at: "2026-03-30T07:33:36.118Z"
+generated_at: "2026-03-30T07:35:18.349Z"
 status: "active"
 ---
 

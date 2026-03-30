@@ -3,9 +3,9 @@ title: "Section 32 - Application"
 usc_title: 47
 usc_section: "32"
 chapter: 2
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "47 U.S.C. § 32"
-generated_at: "2026-03-30T07:34:13.613Z"
+generated_at: "2026-03-30T07:36:12.345Z"
 status: "active"
 ---
 

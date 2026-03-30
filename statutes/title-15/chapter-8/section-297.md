@@ -3,9 +3,9 @@ title: "Section 297 - Stamping plated articles"
 usc_title: 15
 usc_section: "297"
 chapter: 8
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "15 U.S.C. § 297"
-generated_at: "2026-03-30T07:33:03.126Z"
+generated_at: "2026-03-30T07:34:54.833Z"
 status: "active"
 ---
 

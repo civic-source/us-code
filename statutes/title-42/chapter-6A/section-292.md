@@ -3,9 +3,9 @@ title: "Section 292 - Statement of purpose"
 usc_title: 42
 usc_section: "292"
 chapter: 6
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 292"
-generated_at: "2026-03-30T07:34:09.093Z"
+generated_at: "2026-03-30T07:36:01.100Z"
 status: "active"
 ---
 

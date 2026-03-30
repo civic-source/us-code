@@ -3,9 +3,9 @@ title: "Section 8304 - Repealed. Pub. L. 85–155, title IV , § 401(1), Aug. 21
 usc_title: 10
 usc_section: "8304"
 chapter: 835
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 8304"
-generated_at: "2026-03-30T07:32:50.735Z"
+generated_at: "2026-03-30T07:34:41.891Z"
 status: "repealed"
 ---
 

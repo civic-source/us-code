@@ -3,9 +3,9 @@ title: "Section 7711 - Regulations"
 usc_title: 15
 usc_section: "7711"
 chapter: 103
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "15 U.S.C. § 7711"
-generated_at: "2026-03-30T07:33:03.257Z"
+generated_at: "2026-03-30T07:34:54.958Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11273 - Reports"
 usc_title: 34
 usc_section: "11273"
 chapter: 111
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "34 U.S.C. § 11273"
-generated_at: "2026-03-30T07:33:45.505Z"
+generated_at: "2026-03-30T07:35:32.658Z"
 status: "active"
 ---
 

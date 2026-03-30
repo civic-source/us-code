@@ -3,9 +3,9 @@ title: "Section 654 - Officer or employee of United States converting property o
 usc_title: 18
 usc_section: "654"
 chapter: 31
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "18 U.S.C. § 654"
-generated_at: "2026-03-30T07:33:06.808Z"
+generated_at: "2026-03-30T07:35:00.226Z"
 status: "active"
 ---
 

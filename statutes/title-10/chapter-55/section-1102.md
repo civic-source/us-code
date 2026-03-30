@@ -3,9 +3,9 @@ title: "Section 1102 - Confidentiality of medical quality assurance records: qua
 usc_title: 10
 usc_section: "1102"
 chapter: 55
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 1102"
-generated_at: "2026-03-30T07:32:50.651Z"
+generated_at: "2026-03-30T07:34:41.805Z"
 status: "active"
 ---
 

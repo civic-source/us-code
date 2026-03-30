@@ -3,9 +3,9 @@ title: "Section 4711 - Aquatic nuisance species in waters of United States"
 usc_title: 16
 usc_section: "4711"
 chapter: 67
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 4711"
-generated_at: "2026-03-30T07:33:21.430Z"
+generated_at: "2026-03-30T07:35:06.194Z"
 status: "active"
 ---
 

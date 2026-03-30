@@ -3,9 +3,9 @@ title: "Section 943 - Automated Targeting System"
 usc_title: 6
 usc_section: "943"
 chapter: 3
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "6 U.S.C. § 943"
-generated_at: "2026-03-30T07:32:46.897Z"
+generated_at: "2026-03-30T07:34:35.545Z"
 status: "active"
 ---
 

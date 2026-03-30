@@ -3,9 +3,9 @@ title: "Section 9412 - Operation"
 usc_title: 10
 usc_section: "9412"
 chapter: 907
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 9412"
-generated_at: "2026-03-30T07:32:50.739Z"
+generated_at: "2026-03-30T07:34:41.895Z"
 status: "active"
 ---
 

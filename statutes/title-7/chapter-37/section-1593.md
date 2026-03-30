@@ -3,9 +3,9 @@ title: "Section 1593 - Standards, tests, tolerances"
 usc_title: 7
 usc_section: "1593"
 chapter: 37
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "7 U.S.C. § 1593"
-generated_at: "2026-03-30T07:32:54.990Z"
+generated_at: "2026-03-30T07:34:45.513Z"
 status: "active"
 ---
 

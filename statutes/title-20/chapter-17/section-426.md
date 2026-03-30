@@ -3,9 +3,9 @@ title: "Section 426 - Repealed. Pub. L. 92–318, title I , § 137(d)(2), June 2
 usc_title: 20
 usc_section: "426"
 chapter: 17
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "20 U.S.C. § 426"
-generated_at: "2026-03-30T07:33:09.766Z"
+generated_at: "2026-03-30T07:35:03.753Z"
 status: "repealed"
 ---
 

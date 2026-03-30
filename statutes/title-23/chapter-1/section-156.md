@@ -3,9 +3,9 @@ title: "Section 156 - Proceeds from the sale or lease of real property"
 usc_title: 23
 usc_section: "156"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "23 U.S.C. § 156"
-generated_at: "2026-03-30T07:33:27.959Z"
+generated_at: "2026-03-30T07:35:08.859Z"
 status: "active"
 ---
 

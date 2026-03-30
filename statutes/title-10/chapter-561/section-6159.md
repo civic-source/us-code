@@ -3,9 +3,9 @@ title: "Section 6159 - Repealed. Pub. L. 91–482 , § 1(a), Oct. 21, 1970 , 84 
 usc_title: 10
 usc_section: "6159"
 chapter: 561
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 6159"
-generated_at: "2026-03-30T07:32:50.725Z"
+generated_at: "2026-03-30T07:34:41.881Z"
 status: "repealed"
 ---
 

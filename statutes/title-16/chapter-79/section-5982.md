@@ -3,9 +3,9 @@ title: "Section 5982 - Repealed. Pub. L. 108–447, div. J, title VIII , § 813(
 usc_title: 16
 usc_section: "5982"
 chapter: 79
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 5982"
-generated_at: "2026-03-30T07:33:21.437Z"
+generated_at: "2026-03-30T07:35:06.200Z"
 status: "repealed"
 ---
 

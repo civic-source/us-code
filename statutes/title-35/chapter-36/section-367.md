@@ -3,9 +3,9 @@ title: "Section 367 - Actions of other authorities: Review"
 usc_title: 35
 usc_section: "367"
 chapter: 36
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "35 U.S.C. § 367"
-generated_at: "2026-03-30T07:33:44.622Z"
+generated_at: "2026-03-30T07:35:31.390Z"
 status: "active"
 ---
 

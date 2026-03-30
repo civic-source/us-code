@@ -3,9 +3,9 @@ title: "Section 13364 - Study of utilization of coal combustion byproducts"
 usc_title: 42
 usc_section: "13364"
 chapter: 134
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 13364"
-generated_at: "2026-03-30T07:34:09.638Z"
+generated_at: "2026-03-30T07:36:01.639Z"
 status: "active"
 ---
 

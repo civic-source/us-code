@@ -3,9 +3,9 @@ title: "Section 3217 - Maintenance and public inspection of list of approved app
 usc_title: 42
 usc_section: "3217"
 chapter: 38
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 3217"
-generated_at: "2026-03-30T07:34:09.422Z"
+generated_at: "2026-03-30T07:36:01.424Z"
 status: "active"
 ---
 

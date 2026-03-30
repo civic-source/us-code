@@ -3,9 +3,9 @@ title: "Section 8229 - Omitted"
 usc_title: 42
 usc_section: "8229"
 chapter: 91
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 8229"
-generated_at: "2026-03-30T07:34:09.546Z"
+generated_at: "2026-03-30T07:36:01.548Z"
 status: "omitted"
 ---
 

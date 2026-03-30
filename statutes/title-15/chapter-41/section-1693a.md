@@ -3,9 +3,9 @@ title: "Section 1693a - Definitions"
 usc_title: 15
 usc_section: "1693a"
 chapter: 41
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "15 U.S.C. § 1693a"
-generated_at: "2026-03-30T07:33:03.195Z"
+generated_at: "2026-03-30T07:34:54.898Z"
 status: "active"
 ---
 

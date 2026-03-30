@@ -3,9 +3,9 @@ title: "Section 7458 - Recruitment and retention bonus pay"
 usc_title: 38
 usc_section: "7458"
 chapter: 74
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "38 U.S.C. § 7458"
-generated_at: "2026-03-30T07:33:51.111Z"
+generated_at: "2026-03-30T07:35:46.690Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1557 - Prevention of transportation in foreign commerce of alien
 usc_title: 8
 usc_section: "1557"
 chapter: 13
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "8 U.S.C. § 1557"
-generated_at: "2026-03-30T07:32:51.730Z"
+generated_at: "2026-03-30T07:34:36.302Z"
 status: "active"
 ---
 

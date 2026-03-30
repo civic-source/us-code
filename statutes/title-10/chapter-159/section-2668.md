@@ -3,9 +3,9 @@ title: "Section 2668 - Easements for rights-of-way"
 usc_title: 10
 usc_section: "2668"
 chapter: 159
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 2668"
-generated_at: "2026-03-30T07:32:50.704Z"
+generated_at: "2026-03-30T07:34:41.860Z"
 status: "active"
 ---
 

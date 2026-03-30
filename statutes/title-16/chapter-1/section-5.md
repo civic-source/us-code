@@ -3,9 +3,9 @@ title: "Section 5 - Authorization of appropriations; limitation on authority"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T07:33:21.301Z"
+generated_at: "2026-03-30T07:35:06.071Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 300104 - Board of governors"
 usc_title: 36
 usc_section: "300104"
 chapter: 3001
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "36 U.S.C. § 300104"
-generated_at: "2026-03-30T07:33:49.849Z"
+generated_at: "2026-03-30T07:35:43.424Z"
 status: "active"
 ---
 

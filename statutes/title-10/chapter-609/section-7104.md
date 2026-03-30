@@ -3,9 +3,9 @@ title: "Section 7104 - Marine Corps University: acceptance of grants for faculty
 usc_title: 10
 usc_section: "7104"
 chapter: 609
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 7104"
-generated_at: "2026-03-30T07:32:50.729Z"
+generated_at: "2026-03-30T07:34:41.884Z"
 status: "active"
 ---
 

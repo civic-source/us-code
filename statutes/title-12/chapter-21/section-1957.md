@@ -3,9 +3,9 @@ title: "Section 1957 - Additional criminal penalty in certain cases"
 usc_title: 12
 usc_section: "1957"
 chapter: 21
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "12 U.S.C. § 1957"
-generated_at: "2026-03-30T07:33:00.957Z"
+generated_at: "2026-03-30T07:34:56.788Z"
 status: "active"
 ---
 

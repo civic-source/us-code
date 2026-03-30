@@ -3,9 +3,9 @@ title: "Section 42112 - Labor requirements of air carriers"
 usc_title: 49
 usc_section: "42112"
 chapter: 421
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "49 U.S.C. § 42112"
-generated_at: "2026-03-30T07:34:17.463Z"
+generated_at: "2026-03-30T07:36:15.954Z"
 status: "active"
 ---
 

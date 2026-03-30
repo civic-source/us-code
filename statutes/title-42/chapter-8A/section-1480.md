@@ -3,9 +3,9 @@ title: "Section 1480 - Administrative powers of Secretary"
 usc_title: 42
 usc_section: "1480"
 chapter: 8
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 1480"
-generated_at: "2026-03-30T07:34:09.349Z"
+generated_at: "2026-03-30T07:36:01.350Z"
 status: "active"
 ---
 

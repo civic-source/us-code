@@ -3,9 +3,9 @@ title: "Section 2652a - Repealed. Pub. L. 103–236, title I , § 162(a), (b), A
 usc_title: 22
 usc_section: "2652a"
 chapter: 38
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 2652a"
-generated_at: "2026-03-30T07:33:32.664Z"
+generated_at: "2026-03-30T07:35:12.849Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 137c - Withdrawal of books from Library of Congress"
 usc_title: 2
 usc_section: "137c"
 chapter: 5
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "2 U.S.C. § 137c"
-generated_at: "2026-03-30T07:32:34.714Z"
+generated_at: "2026-03-30T07:34:31.275Z"
 status: "active"
 ---
 

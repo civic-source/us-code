@@ -3,9 +3,9 @@ title: "Section 117c - Hunting and fishing; general rules and regulations; prote
 usc_title: 16
 usc_section: "117c"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 117c"
-generated_at: "2026-03-30T07:33:21.223Z"
+generated_at: "2026-03-30T07:35:05.996Z"
 status: "active"
 ---
 

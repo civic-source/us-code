@@ -3,9 +3,9 @@ title: "Section 1488 - Repealed. Pub. L. 91–152, title IV , § 413(e)(3), Dec.
 usc_title: 42
 usc_section: "1488"
 chapter: 8
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 1488"
-generated_at: "2026-03-30T07:34:09.351Z"
+generated_at: "2026-03-30T07:36:01.353Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7503 - Dangerous drugs as grounds for denial"
 usc_title: 46
 usc_section: "7503"
 chapter: 75
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "46 U.S.C. § 7503"
-generated_at: "2026-03-30T07:34:14.316Z"
+generated_at: "2026-03-30T07:36:05.061Z"
 status: "active"
 ---
 

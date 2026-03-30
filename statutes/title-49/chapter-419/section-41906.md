@@ -3,9 +3,9 @@ title: "Section 41906 - Duty to oppose unreasonable prices under the Universal P
 usc_title: 49
 usc_section: "41906"
 chapter: 419
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "49 U.S.C. § 41906"
-generated_at: "2026-03-30T07:34:17.463Z"
+generated_at: "2026-03-30T07:36:15.954Z"
 status: "active"
 ---
 

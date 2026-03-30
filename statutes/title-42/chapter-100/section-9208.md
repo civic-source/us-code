@@ -3,9 +3,9 @@ title: "Section 9208 - Administrative provisions"
 usc_title: 42
 usc_section: "9208"
 chapter: 100
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 9208"
-generated_at: "2026-03-30T07:34:09.559Z"
+generated_at: "2026-03-30T07:36:01.561Z"
 status: "active"
 ---
 

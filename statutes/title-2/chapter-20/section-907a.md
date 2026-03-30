@@ -3,9 +3,9 @@ title: "Section 907a - Suspension in event of war or low growth"
 usc_title: 2
 usc_section: "907a"
 chapter: 20
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "2 U.S.C. § 907a"
-generated_at: "2026-03-30T07:32:34.736Z"
+generated_at: "2026-03-30T07:34:31.295Z"
 status: "active"
 ---
 

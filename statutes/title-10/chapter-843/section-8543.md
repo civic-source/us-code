@@ -3,9 +3,9 @@ title: "Section 8543 - Repealed. Pub. L. 114–328, div. A, title V , § 502(pp)
 usc_title: 10
 usc_section: "8543"
 chapter: 843
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 8543"
-generated_at: "2026-03-30T07:32:50.735Z"
+generated_at: "2026-03-30T07:34:41.891Z"
 status: "repealed"
 ---
 

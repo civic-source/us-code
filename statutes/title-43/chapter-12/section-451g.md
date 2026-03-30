@@ -3,9 +3,9 @@ title: "Section 451g - Preferences; veterans; timely applicants"
 usc_title: 43
 usc_section: "451g"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 451g"
-generated_at: "2026-03-30T07:33:54.045Z"
+generated_at: "2026-03-30T07:35:49.401Z"
 status: "active"
 ---
 

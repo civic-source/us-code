@@ -3,9 +3,9 @@ title: "Section 3212 - Determination of compensation"
 usc_title: 26
 usc_section: "3212"
 chapter: 22
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "26 U.S.C. § 3212"
-generated_at: "2026-03-30T07:33:42.820Z"
+generated_at: "2026-03-30T07:35:27.600Z"
 status: "active"
 ---
 

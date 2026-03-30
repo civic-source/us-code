@@ -3,9 +3,9 @@ title: "Section 2519 - Dispositions of certain life estates"
 usc_title: 26
 usc_section: "2519"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "26 U.S.C. § 2519"
-generated_at: "2026-03-30T07:33:42.815Z"
+generated_at: "2026-03-30T07:35:27.595Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 228 - Failure to pay legal child support obligations"
 usc_title: 18
 usc_section: "228"
 chapter: 11
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "18 U.S.C. § 228"
-generated_at: "2026-03-30T07:33:06.803Z"
+generated_at: "2026-03-30T07:35:00.222Z"
 status: "active"
 ---
 

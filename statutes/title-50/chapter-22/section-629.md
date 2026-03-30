@@ -3,9 +3,9 @@ title: "Section 629 - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641"
 usc_title: 50
 usc_section: "629"
 chapter: 22
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "50 U.S.C. § 629"
-generated_at: "2026-03-30T07:34:15.265Z"
+generated_at: "2026-03-30T07:36:06.157Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 176 - Removal from office"
 usc_title: 28
 usc_section: "176"
 chapter: 7
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "28 U.S.C. § 176"
-generated_at: "2026-03-30T07:33:36.937Z"
+generated_at: "2026-03-30T07:35:20.782Z"
 status: "active"
 ---
 

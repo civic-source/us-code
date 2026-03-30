@@ -3,9 +3,9 @@ title: "Section 1642d - Nationality requirements"
 usc_title: 22
 usc_section: "1642d"
 chapter: 21
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 1642d"
-generated_at: "2026-03-30T07:33:32.631Z"
+generated_at: "2026-03-30T07:35:12.817Z"
 status: "active"
 ---
 

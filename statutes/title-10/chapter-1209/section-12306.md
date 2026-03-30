@@ -3,9 +3,9 @@ title: "Section 12306 - Standby Reserve"
 usc_title: 10
 usc_section: "12306"
 chapter: 1209
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 12306"
-generated_at: "2026-03-30T07:32:50.745Z"
+generated_at: "2026-03-30T07:34:41.902Z"
 status: "active"
 ---
 

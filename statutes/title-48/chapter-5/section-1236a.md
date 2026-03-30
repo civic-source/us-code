@@ -3,9 +3,9 @@ title: "Section 1236a - Omitted"
 usc_title: 48
 usc_section: "1236a"
 chapter: 5
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "48 U.S.C. § 1236a"
-generated_at: "2026-03-30T07:34:15.685Z"
+generated_at: "2026-03-30T07:36:12.703Z"
 status: "omitted"
 ---
 

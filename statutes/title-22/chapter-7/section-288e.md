@@ -3,9 +3,9 @@ title: "Section 288e - Personnel entitled to benefits"
 usc_title: 22
 usc_section: "288e"
 chapter: 7
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 288e"
-generated_at: "2026-03-30T07:33:32.618Z"
+generated_at: "2026-03-30T07:35:12.804Z"
 status: "active"
 ---
 

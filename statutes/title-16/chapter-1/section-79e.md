@@ -3,9 +3,9 @@ title: "Section 79e - Exchange of property; cash equalization payments; commerci
 usc_title: 16
 usc_section: "79e"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 79e"
-generated_at: "2026-03-30T07:33:21.219Z"
+generated_at: "2026-03-30T07:35:05.994Z"
 status: "active"
 ---
 

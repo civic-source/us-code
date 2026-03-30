@@ -3,9 +3,9 @@ title: "Section 763 - Retirement for age of officers and employees generally; re
 usc_title: 33
 usc_section: "763"
 chapter: 16
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "33 U.S.C. § 763"
-generated_at: "2026-03-30T07:33:47.061Z"
+generated_at: "2026-03-30T07:35:39.522Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 285t - Purpose of Institute"
 usc_title: 42
 usc_section: "285t"
 chapter: 6
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 285t"
-generated_at: "2026-03-30T07:34:09.078Z"
+generated_at: "2026-03-30T07:36:01.085Z"
 status: "active"
 ---
 

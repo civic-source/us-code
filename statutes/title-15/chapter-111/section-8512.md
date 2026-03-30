@@ -3,9 +3,9 @@ title: "Section 8512 - Weather research and forecasting innovation"
 usc_title: 15
 usc_section: "8512"
 chapter: 111
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "15 U.S.C. § 8512"
-generated_at: "2026-03-30T07:33:03.262Z"
+generated_at: "2026-03-30T07:34:54.962Z"
 status: "active"
 ---
 

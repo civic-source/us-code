@@ -3,9 +3,9 @@ title: "Section 2 - Workforce and labor market information system"
 usc_title: 29
 usc_section: "2"
 chapter: 4
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-03-30T07:33:37.766Z"
+generated_at: "2026-03-30T07:35:19.860Z"
 status: "active"
 ---
 

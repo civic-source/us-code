@@ -3,9 +3,9 @@ title: "Section 102 - Executive agency"
 usc_title: 31
 usc_section: "102"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "31 U.S.C. § 102"
-generated_at: "2026-03-30T07:33:46.283Z"
+generated_at: "2026-03-30T07:35:30.874Z"
 status: "active"
 ---
 

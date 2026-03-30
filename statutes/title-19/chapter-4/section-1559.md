@@ -3,9 +3,9 @@ title: "Section 1559 - Warehouse goods deemed abandoned after 5 years"
 usc_title: 19
 usc_section: "1559"
 chapter: 4
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "19 U.S.C. § 1559"
-generated_at: "2026-03-30T07:33:13.262Z"
+generated_at: "2026-03-30T07:35:01.280Z"
 status: "active"
 ---
 

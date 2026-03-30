@@ -3,9 +3,9 @@ title: "Section 2 - Limitation on interrogation techniques"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T07:34:09.386Z"
+generated_at: "2026-03-30T07:36:01.388Z"
 status: "active"
 ---
 

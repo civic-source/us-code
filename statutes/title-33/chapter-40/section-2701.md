@@ -3,9 +3,9 @@ title: "Section 2701 - Definitions"
 usc_title: 33
 usc_section: "2701"
 chapter: 40
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "33 U.S.C. § 2701"
-generated_at: "2026-03-30T07:33:47.106Z"
+generated_at: "2026-03-30T07:35:39.566Z"
 status: "active"
 ---
 

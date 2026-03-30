@@ -3,9 +3,9 @@ title: "Section 6244 - Repealed. Pub. L. 106–469, title I , § 103(16), Nov. 9
 usc_title: 42
 usc_section: "6244"
 chapter: 77
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 6244"
-generated_at: "2026-03-30T07:34:09.470Z"
+generated_at: "2026-03-30T07:36:01.472Z"
 status: "repealed"
 ---
 

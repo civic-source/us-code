@@ -3,9 +3,9 @@ title: "Section 1473a - Acceptance of contributions by Secretary; cooperation wi
 usc_title: 43
 usc_section: "1473a"
 chapter: 31
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 1473a"
-generated_at: "2026-03-30T07:33:54.066Z"
+generated_at: "2026-03-30T07:35:49.421Z"
 status: "active"
 ---
 

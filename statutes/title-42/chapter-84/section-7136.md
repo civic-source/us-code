@@ -3,9 +3,9 @@ title: "Section 7136 - Economic Regulatory Administration; appointment of Admini
 usc_title: 42
 usc_section: "7136"
 chapter: 84
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 7136"
-generated_at: "2026-03-30T07:34:09.503Z"
+generated_at: "2026-03-30T07:36:01.505Z"
 status: "active"
 ---
 

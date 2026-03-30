@@ -3,9 +3,9 @@ title: "Section 12525 - Benefit amounts"
 usc_title: 10
 usc_section: "12525"
 chapter: 1214
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 12525"
-generated_at: "2026-03-30T07:32:50.747Z"
+generated_at: "2026-03-30T07:34:41.902Z"
 status: "active"
 ---
 

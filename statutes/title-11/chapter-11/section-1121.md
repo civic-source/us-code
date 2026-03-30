@@ -3,9 +3,9 @@ title: "Section 1121 - Who may file a plan"
 usc_title: 11
 usc_section: "1121"
 chapter: 11
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "11 U.S.C. § 1121"
-generated_at: "2026-03-30T07:32:57.470Z"
+generated_at: "2026-03-30T07:34:48.058Z"
 status: "active"
 ---
 

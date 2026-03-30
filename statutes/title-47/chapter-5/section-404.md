@@ -3,9 +3,9 @@ title: "Section 404 - Reports of investigations"
 usc_title: 47
 usc_section: "404"
 chapter: 5
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "47 U.S.C. § 404"
-generated_at: "2026-03-30T07:34:13.633Z"
+generated_at: "2026-03-30T07:36:12.364Z"
 status: "active"
 ---
 

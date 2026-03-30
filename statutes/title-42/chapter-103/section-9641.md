@@ -3,9 +3,9 @@ title: "Section 9641 - Repealed. Pub. L. 99–499, title V , § 514(b), Oct. 17,
 usc_title: 42
 usc_section: "9641"
 chapter: 103
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 9641"
-generated_at: "2026-03-30T07:34:09.569Z"
+generated_at: "2026-03-30T07:36:01.571Z"
 status: "repealed"
 ---
 

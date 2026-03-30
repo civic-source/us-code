@@ -3,9 +3,9 @@ title: "Section 3130 - Annual public debt report"
 usc_title: 31
 usc_section: "3130"
 chapter: 31
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "31 U.S.C. § 3130"
-generated_at: "2026-03-30T07:33:46.294Z"
+generated_at: "2026-03-30T07:35:30.884Z"
 status: "active"
 ---
 

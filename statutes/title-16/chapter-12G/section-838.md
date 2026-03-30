@@ -3,9 +3,9 @@ title: "Section 838 - Congressional findings; authority and duties of Secretary 
 usc_title: 16
 usc_section: "838"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 838"
-generated_at: "2026-03-30T07:33:21.354Z"
+generated_at: "2026-03-30T07:35:06.122Z"
 status: "active"
 ---
 

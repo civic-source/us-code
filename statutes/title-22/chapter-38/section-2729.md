@@ -3,9 +3,9 @@ title: "Section 2729 - State Department records of overseas deaths of United Sta
 usc_title: 22
 usc_section: "2729"
 chapter: 38
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 2729"
-generated_at: "2026-03-30T07:33:32.668Z"
+generated_at: "2026-03-30T07:35:12.853Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1162 - Railroad carrier assessments and plans"
 usc_title: 6
 usc_section: "1162"
 chapter: 4
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "6 U.S.C. § 1162"
-generated_at: "2026-03-30T07:32:46.901Z"
+generated_at: "2026-03-30T07:34:35.549Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 687 - Suits by Comptroller General"
 usc_title: 2
 usc_section: "687"
 chapter: 17
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "2 U.S.C. § 687"
-generated_at: "2026-03-30T07:32:34.731Z"
+generated_at: "2026-03-30T07:34:31.290Z"
 status: "active"
 ---
 

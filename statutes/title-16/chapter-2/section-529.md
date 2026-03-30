@@ -3,9 +3,9 @@ title: "Section 529 - Authorization of development and administration considerat
 usc_title: 16
 usc_section: "529"
 chapter: 2
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 529"
-generated_at: "2026-03-30T07:33:21.308Z"
+generated_at: "2026-03-30T07:35:06.078Z"
 status: "active"
 ---
 

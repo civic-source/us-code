@@ -3,9 +3,9 @@ title: "Section 2503 - Taxable gifts"
 usc_title: 26
 usc_section: "2503"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "26 U.S.C. § 2503"
-generated_at: "2026-03-30T07:33:42.815Z"
+generated_at: "2026-03-30T07:35:27.594Z"
 status: "active"
 ---
 

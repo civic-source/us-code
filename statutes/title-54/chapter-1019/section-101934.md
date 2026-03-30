@@ -3,9 +3,9 @@ title: "Section 101934 - Capital improvements"
 usc_title: 54
 usc_section: "101934"
 chapter: 1019
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "54 U.S.C. § 101934"
-generated_at: "2026-03-30T07:34:19.698Z"
+generated_at: "2026-03-30T07:36:17.773Z"
 status: "active"
 ---
 

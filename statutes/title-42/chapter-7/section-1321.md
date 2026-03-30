@@ -3,9 +3,9 @@ title: "Section 1321 - Eligibility requirements for transfer of funds; reimburse
 usc_title: 42
 usc_section: "1321"
 chapter: 7
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 1321"
-generated_at: "2026-03-30T07:34:09.216Z"
+generated_at: "2026-03-30T07:36:01.218Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5707 - Repealed. Pub. L. 115–31, div. E, title VI , § 631(a),
 usc_title: 20
 usc_section: "5707"
 chapter: 67
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "20 U.S.C. § 5707"
-generated_at: "2026-03-30T07:33:09.855Z"
+generated_at: "2026-03-30T07:35:03.847Z"
 status: "repealed"
 ---
 

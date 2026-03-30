@@ -3,9 +3,9 @@ title: "Section 7509 - Medical certification by trusted agents"
 usc_title: 46
 usc_section: "7509"
 chapter: 75
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "46 U.S.C. § 7509"
-generated_at: "2026-03-30T07:34:14.316Z"
+generated_at: "2026-03-30T07:36:05.061Z"
 status: "active"
 ---
 

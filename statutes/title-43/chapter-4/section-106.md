@@ -3,9 +3,9 @@ title: "Section 106 - Continuing taking of depositions in behalf of opposite par
 usc_title: 43
 usc_section: "106"
 chapter: 4
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 106"
-generated_at: "2026-03-30T07:33:54.032Z"
+generated_at: "2026-03-30T07:35:49.389Z"
 status: "active"
 ---
 

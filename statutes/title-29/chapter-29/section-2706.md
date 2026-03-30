@@ -3,9 +3,9 @@ title: "Section 2706 - Authorization of appropriations"
 usc_title: 29
 usc_section: "2706"
 chapter: 29
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "29 U.S.C. § 2706"
-generated_at: "2026-03-30T07:33:37.822Z"
+generated_at: "2026-03-30T07:35:19.916Z"
 status: "active"
 ---
 

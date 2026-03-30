@@ -3,9 +3,9 @@ title: "Section 41305 - Award of reparations"
 usc_title: 46
 usc_section: "41305"
 chapter: 413
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "46 U.S.C. § 41305"
-generated_at: "2026-03-30T07:34:14.326Z"
+generated_at: "2026-03-30T07:36:05.071Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1461 - Inspection of merchandise and baggage"
 usc_title: 19
 usc_section: "1461"
 chapter: 4
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "19 U.S.C. § 1461"
-generated_at: "2026-03-30T07:33:13.257Z"
+generated_at: "2026-03-30T07:35:01.274Z"
 status: "active"
 ---
 

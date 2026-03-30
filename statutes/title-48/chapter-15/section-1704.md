@@ -3,9 +3,9 @@ title: "Section 1704 - Concurrent jurisdiction; exceptions for national defense 
 usc_title: 48
 usc_section: "1704"
 chapter: 15
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "48 U.S.C. § 1704"
-generated_at: "2026-03-30T07:34:15.692Z"
+generated_at: "2026-03-30T07:36:12.709Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Officers and employees"
 usc_title: 35
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "35 U.S.C. § 3"
-generated_at: "2026-03-30T07:33:44.615Z"
+generated_at: "2026-03-30T07:35:31.382Z"
 status: "active"
 ---
 

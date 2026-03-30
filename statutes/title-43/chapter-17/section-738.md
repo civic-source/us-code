@@ -3,9 +3,9 @@ title: "Section 738 - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21
 usc_title: 43
 usc_section: "738"
 chapter: 17
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 738"
-generated_at: "2026-03-30T07:33:54.053Z"
+generated_at: "2026-03-30T07:35:49.409Z"
 status: "repealed"
 ---
 

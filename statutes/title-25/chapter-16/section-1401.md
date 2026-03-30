@@ -3,9 +3,9 @@ title: "Section 1401 - Funds appropriated in satisfaction of judgments of Indian
 usc_title: 25
 usc_section: "1401"
 chapter: 16
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "25 U.S.C. § 1401"
-generated_at: "2026-03-30T07:33:33.885Z"
+generated_at: "2026-03-30T07:35:15.611Z"
 status: "active"
 ---
 

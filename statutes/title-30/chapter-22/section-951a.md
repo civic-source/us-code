@@ -3,9 +3,9 @@ title: "Section 951a - Health, Safety, and Mining Technology Research program"
 usc_title: 30
 usc_section: "951a"
 chapter: 22
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "30 U.S.C. § 951a"
-generated_at: "2026-03-30T07:33:36.134Z"
+generated_at: "2026-03-30T07:35:18.369Z"
 status: "active"
 ---
 

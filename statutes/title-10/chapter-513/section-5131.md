@@ -3,9 +3,9 @@ title: "Section 5131 - Bureaus: names; location"
 usc_title: 10
 usc_section: "5131"
 chapter: 513
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 5131"
-generated_at: "2026-03-30T07:32:50.722Z"
+generated_at: "2026-03-30T07:34:41.878Z"
 status: "active"
 ---
 

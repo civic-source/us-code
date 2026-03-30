@@ -3,9 +3,9 @@ title: "Section 25 - Special use permits"
 usc_title: 16
 usc_section: "25"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 25"
-generated_at: "2026-03-30T07:33:21.297Z"
+generated_at: "2026-03-30T07:35:06.067Z"
 status: "active"
 ---
 

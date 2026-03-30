@@ -3,9 +3,9 @@ title: "Section 15423 - Transferred"
 usc_title: 42
 usc_section: "15423"
 chapter: 146
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 15423"
-generated_at: "2026-03-30T07:34:09.653Z"
+generated_at: "2026-03-30T07:36:01.653Z"
 status: "transferred"
 ---
 

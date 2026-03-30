@@ -3,9 +3,9 @@ title: "Section 1582 - Search of persons and baggage; regulations"
 usc_title: 19
 usc_section: "1582"
 chapter: 4
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "19 U.S.C. § 1582"
-generated_at: "2026-03-30T07:33:13.263Z"
+generated_at: "2026-03-30T07:35:01.280Z"
 status: "active"
 ---
 

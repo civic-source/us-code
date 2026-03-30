@@ -3,9 +3,9 @@ title: "Section 21112 - Establishment of State-based administrative complaint pr
 usc_title: 52
 usc_section: "21112"
 chapter: 209
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "52 U.S.C. § 21112"
-generated_at: "2026-03-30T07:34:19.219Z"
+generated_at: "2026-03-30T07:36:18.095Z"
 status: "active"
 ---
 

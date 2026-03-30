@@ -3,9 +3,9 @@ title: "Section 7811 - Sense of Congress regarding negotiations with North Korea
 usc_title: 22
 usc_section: "7811"
 chapter: 85
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 7811"
-generated_at: "2026-03-30T07:33:32.721Z"
+generated_at: "2026-03-30T07:35:12.909Z"
 status: "active"
 ---
 

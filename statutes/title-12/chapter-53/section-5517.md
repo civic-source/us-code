@@ -3,9 +3,9 @@ title: "Section 5517 - Limitations on authorities of the Bureau; preservation of
 usc_title: 12
 usc_section: "5517"
 chapter: 53
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "12 U.S.C. § 5517"
-generated_at: "2026-03-30T07:33:01.023Z"
+generated_at: "2026-03-30T07:34:56.852Z"
 status: "active"
 ---
 

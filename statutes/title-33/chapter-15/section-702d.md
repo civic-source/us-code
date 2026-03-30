@@ -3,9 +3,9 @@ title: "Section 702d - Flowage rights; condemnation proceedings; benefits to pro
 usc_title: 33
 usc_section: "702d"
 chapter: 15
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "33 U.S.C. § 702d"
-generated_at: "2026-03-30T07:33:47.059Z"
+generated_at: "2026-03-30T07:35:39.520Z"
 status: "active"
 ---
 

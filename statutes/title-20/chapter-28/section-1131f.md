@@ -3,9 +3,9 @@ title: "Section 1131f - Authorization of appropriations"
 usc_title: 20
 usc_section: "1131f"
 chapter: 28
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "20 U.S.C. § 1131f"
-generated_at: "2026-03-30T07:33:09.816Z"
+generated_at: "2026-03-30T07:35:03.806Z"
 status: "active"
 ---
 

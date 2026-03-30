@@ -3,9 +3,9 @@ title: "Section 460f - Notice and method of sale; price; conveyance"
 usc_title: 16
 usc_section: "460f"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 460f"
-generated_at: "2026-03-30T07:33:21.273Z"
+generated_at: "2026-03-30T07:35:06.045Z"
 status: "active"
 ---
 

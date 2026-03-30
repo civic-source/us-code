@@ -3,9 +3,9 @@ title: "Section 8192 - Benefits"
 usc_title: 5
 usc_section: "8192"
 chapter: 81
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "5 U.S.C. § 8192"
-generated_at: "2026-03-30T07:32:43.246Z"
+generated_at: "2026-03-30T07:34:33.470Z"
 status: "active"
 ---
 

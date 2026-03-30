@@ -3,9 +3,9 @@ title: "Section 898 - Rights of purchasers from railroads of coterminous lands n
 usc_title: 43
 usc_section: "898"
 chapter: 21
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 898"
-generated_at: "2026-03-30T07:33:54.057Z"
+generated_at: "2026-03-30T07:35:49.412Z"
 status: "active"
 ---
 

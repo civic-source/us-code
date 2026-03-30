@@ -3,9 +3,9 @@ title: "Section 693 - Game sanctuaries and refuges in Ouachita National Forest"
 usc_title: 16
 usc_section: "693"
 chapter: 6
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 693"
-generated_at: "2026-03-30T07:33:21.331Z"
+generated_at: "2026-03-30T07:35:06.100Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11701 - Findings"
 usc_title: 42
 usc_section: "11701"
 chapter: 122
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 11701"
-generated_at: "2026-03-30T07:34:09.605Z"
+generated_at: "2026-03-30T07:36:01.607Z"
 status: "active"
 ---
 

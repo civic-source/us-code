@@ -3,9 +3,9 @@ title: "Section 2133 - Licensing of dealers and exhibitors"
 usc_title: 7
 usc_section: "2133"
 chapter: 54
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "7 U.S.C. § 2133"
-generated_at: "2026-03-30T07:32:55.026Z"
+generated_at: "2026-03-30T07:34:45.550Z"
 status: "active"
 ---
 

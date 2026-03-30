@@ -3,9 +3,9 @@ title: "Section 832k - Authority of Administrator"
 usc_title: 16
 usc_section: "832k"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 832k"
-generated_at: "2026-03-30T07:33:21.353Z"
+generated_at: "2026-03-30T07:35:06.120Z"
 status: "active"
 ---
 

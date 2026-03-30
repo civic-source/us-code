@@ -3,9 +3,9 @@ title: "Section 202 - Control; rules and regulations; fish and game; leases; aut
 usc_title: 16
 usc_section: "202"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 202"
-generated_at: "2026-03-30T07:33:21.226Z"
+generated_at: "2026-03-30T07:35:06.001Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 43 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "43"
 chapter: 9
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "21 U.S.C. § 43"
-generated_at: "2026-03-30T07:33:24.782Z"
+generated_at: "2026-03-30T07:35:09.819Z"
 status: "active"
 ---
 

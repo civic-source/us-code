@@ -3,9 +3,9 @@ title: "Section 60532 - Responsible reintegration of offenders"
 usc_title: 34
 usc_section: "60532"
 chapter: 605
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "34 U.S.C. § 60532"
-generated_at: "2026-03-30T07:33:45.534Z"
+generated_at: "2026-03-30T07:35:32.689Z"
 status: "active"
 ---
 

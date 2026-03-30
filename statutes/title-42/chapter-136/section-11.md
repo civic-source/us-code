@@ -3,9 +3,9 @@ title: "Section 11 - Transferred"
 usc_title: 42
 usc_section: "11"
 chapter: 136
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T07:34:09.645Z"
+generated_at: "2026-03-30T07:36:01.645Z"
 status: "transferred"
 ---
 

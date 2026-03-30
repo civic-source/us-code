@@ -3,9 +3,9 @@ title: "Section 1011 - Powers of Secretary of Agriculture"
 usc_title: 7
 usc_section: "1011"
 chapter: 33
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "7 U.S.C. § 1011"
-generated_at: "2026-03-30T07:32:54.969Z"
+generated_at: "2026-03-30T07:34:45.492Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6161 - Settlement of accounts: remission or cancellation of inde
 usc_title: 10
 usc_section: "6161"
 chapter: 561
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 6161"
-generated_at: "2026-03-30T07:32:50.725Z"
+generated_at: "2026-03-30T07:34:41.881Z"
 status: "active"
 ---
 

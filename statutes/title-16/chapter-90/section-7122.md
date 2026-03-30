@@ -3,9 +3,9 @@ title: "Section 7122 - General limitation on use of project funds"
 usc_title: 16
 usc_section: "7122"
 chapter: 90
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 7122"
-generated_at: "2026-03-30T07:33:21.445Z"
+generated_at: "2026-03-30T07:35:06.208Z"
 status: "active"
 ---
 

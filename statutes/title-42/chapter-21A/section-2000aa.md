@@ -3,9 +3,9 @@ title: "Section 2000aa - Searches and seizures by government officers and employ
 usc_title: 42
 usc_section: "2000aa"
 chapter: 21
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 2000aa"
-generated_at: "2026-03-30T07:34:09.385Z"
+generated_at: "2026-03-30T07:36:01.387Z"
 status: "active"
 ---
 

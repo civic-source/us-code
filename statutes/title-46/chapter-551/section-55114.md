@@ -3,9 +3,9 @@ title: "Section 55114 - Unloading fish from foreign vessels"
 usc_title: 46
 usc_section: "55114"
 chapter: 551
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "46 U.S.C. § 55114"
-generated_at: "2026-03-30T07:34:14.335Z"
+generated_at: "2026-03-30T07:36:05.079Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9903 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9903"
 chapter: 106
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 9903"
-generated_at: "2026-03-30T07:34:09.580Z"
+generated_at: "2026-03-30T07:36:01.583Z"
 status: "active"
 ---
 

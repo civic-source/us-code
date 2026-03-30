@@ -3,9 +3,9 @@ title: "Section 3210 - Franked mail transmitted by the Vice President, Members o
 usc_title: 39
 usc_section: "3210"
 chapter: 32
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "39 U.S.C. § 3210"
-generated_at: "2026-03-30T07:33:48.682Z"
+generated_at: "2026-03-30T07:35:41.202Z"
 status: "active"
 ---
 

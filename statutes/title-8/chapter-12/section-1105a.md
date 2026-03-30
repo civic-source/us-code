@@ -3,9 +3,9 @@ title: "Section 1105a - Employment authorization for battered spouses of certain
 usc_title: 8
 usc_section: "1105a"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "8 U.S.C. § 1105a"
-generated_at: "2026-03-30T07:32:51.698Z"
+generated_at: "2026-03-30T07:34:36.266Z"
 status: "active"
 ---
 

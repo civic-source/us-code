@@ -3,9 +3,9 @@ title: "Section 3107 - Authority of Comptroller General"
 usc_title: 44
 usc_section: "3107"
 chapter: 31
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "44 U.S.C. § 3107"
-generated_at: "2026-03-30T07:33:55.319Z"
+generated_at: "2026-03-30T07:35:48.384Z"
 status: "active"
 ---
 

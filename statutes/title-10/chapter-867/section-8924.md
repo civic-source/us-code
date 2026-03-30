@@ -3,9 +3,9 @@ title: "Section 8924 - Forty years or more: Air Force officers"
 usc_title: 10
 usc_section: "8924"
 chapter: 867
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 8924"
-generated_at: "2026-03-30T07:32:50.736Z"
+generated_at: "2026-03-30T07:34:41.892Z"
 status: "active"
 ---
 

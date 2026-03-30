@@ -3,9 +3,9 @@ title: "Section 143 - Repealed. Pub. L. 86–533 , § 1(14), June 29, 1960 , 74 
 usc_title: 43
 usc_section: "143"
 chapter: 6
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 143"
-generated_at: "2026-03-30T07:33:54.032Z"
+generated_at: "2026-03-30T07:35:49.389Z"
 status: "repealed"
 ---
 

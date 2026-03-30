@@ -3,9 +3,9 @@ title: "Section 44a - Repealed. Pub. L. 94–454 , § 2(b), Oct. 2, 1976 , 90 St
 usc_title: 24
 usc_section: "44a"
 chapter: 2
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "24 U.S.C. § 44a"
-generated_at: "2026-03-30T07:33:23.749Z"
+generated_at: "2026-03-30T07:35:08.133Z"
 status: "repealed"
 ---
 

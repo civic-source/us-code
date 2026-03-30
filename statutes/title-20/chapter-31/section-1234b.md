@@ -3,9 +3,9 @@ title: "Section 1234b - Measure of recovery"
 usc_title: 20
 usc_section: "1234b"
 chapter: 31
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "20 U.S.C. § 1234b"
-generated_at: "2026-03-30T07:33:09.827Z"
+generated_at: "2026-03-30T07:35:03.818Z"
 status: "active"
 ---
 

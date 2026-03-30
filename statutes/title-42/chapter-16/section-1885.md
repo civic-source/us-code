@@ -3,9 +3,9 @@ title: "Section 1885 - Congressional statement of findings and declaration of po
 usc_title: 42
 usc_section: "1885"
 chapter: 16
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 1885"
-generated_at: "2026-03-30T07:34:09.376Z"
+generated_at: "2026-03-30T07:36:01.379Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 542 - Education and training opportunities for Coast Guard spous
 usc_title: 14
 usc_section: "542"
 chapter: 14
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "14 U.S.C. § 542"
-generated_at: "2026-03-30T07:32:57.171Z"
+generated_at: "2026-03-30T07:34:47.783Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5141 - Chief of Naval Personnel; Deputy Chief of Naval Personnel
 usc_title: 10
 usc_section: "5141"
 chapter: 513
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 5141"
-generated_at: "2026-03-30T07:32:50.723Z"
+generated_at: "2026-03-30T07:34:41.879Z"
 status: "active"
 ---
 

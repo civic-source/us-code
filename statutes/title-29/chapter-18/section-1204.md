@@ -3,9 +3,9 @@ title: "Section 1204 - Coordination between the Department of the Treasury and t
 usc_title: 29
 usc_section: "1204"
 chapter: 18
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "29 U.S.C. § 1204"
-generated_at: "2026-03-30T07:33:37.808Z"
+generated_at: "2026-03-30T07:35:19.903Z"
 status: "active"
 ---
 

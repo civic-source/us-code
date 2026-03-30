@@ -3,9 +3,9 @@ title: "Section 11313 - Functions"
 usc_title: 42
 usc_section: "11313"
 chapter: 119
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 11313"
-generated_at: "2026-03-30T07:34:09.600Z"
+generated_at: "2026-03-30T07:36:01.601Z"
 status: "active"
 ---
 

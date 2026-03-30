@@ -3,9 +3,9 @@ title: "Section 4343 - Cadets: appointment; to bring Corps to full strength"
 usc_title: 10
 usc_section: "4343"
 chapter: 403
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 4343"
-generated_at: "2026-03-30T07:32:50.718Z"
+generated_at: "2026-03-30T07:34:41.874Z"
 status: "active"
 ---
 

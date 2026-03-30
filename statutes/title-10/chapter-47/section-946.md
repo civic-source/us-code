@@ -3,9 +3,9 @@ title: "Section 946 - Art. 146. Code committee"
 usc_title: 10
 usc_section: "946"
 chapter: 47
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 946"
-generated_at: "2026-03-30T07:32:50.639Z"
+generated_at: "2026-03-30T07:34:41.793Z"
 status: "active"
 ---
 

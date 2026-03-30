@@ -3,9 +3,9 @@ title: "Section 697g - Foreclosure and liquidation of loans"
 usc_title: 15
 usc_section: "697g"
 chapter: 14
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "15 U.S.C. § 697g"
-generated_at: "2026-03-30T07:33:03.155Z"
+generated_at: "2026-03-30T07:34:54.859Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10202 - General provisions"
 usc_title: 34
 usc_section: "10202"
 chapter: 101
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "34 U.S.C. § 10202"
-generated_at: "2026-03-30T07:33:45.490Z"
+generated_at: "2026-03-30T07:35:32.643Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 781 - Taking or catching, in waters of Gulf or Straits of Florid
 usc_title: 16
 usc_section: "781"
 chapter: 11
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 781"
-generated_at: "2026-03-30T07:33:21.341Z"
+generated_at: "2026-03-30T07:35:06.109Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4370h - Availability of funds for facilities"
 usc_title: 42
 usc_section: "4370h"
 chapter: 55
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 4370h"
-generated_at: "2026-03-30T07:34:09.438Z"
+generated_at: "2026-03-30T07:36:01.440Z"
 status: "active"
 ---
 

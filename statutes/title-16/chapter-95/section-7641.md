@@ -3,9 +3,9 @@ title: "Section 7641 - Anti-poaching programs"
 usc_title: 16
 usc_section: "7641"
 chapter: 95
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 7641"
-generated_at: "2026-03-30T07:33:21.448Z"
+generated_at: "2026-03-30T07:35:06.210Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1757 - Prohibition of forced busing during school year"
 usc_title: 20
 usc_section: "1757"
 chapter: 39
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "20 U.S.C. § 1757"
-generated_at: "2026-03-30T07:33:09.839Z"
+generated_at: "2026-03-30T07:35:03.830Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2707 - Authorizations"
 usc_title: 16
 usc_section: "2707"
 chapter: 47
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 2707"
-generated_at: "2026-03-30T07:33:21.407Z"
+generated_at: "2026-03-30T07:35:06.172Z"
 status: "active"
 ---
 

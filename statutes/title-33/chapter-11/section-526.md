@@ -3,9 +3,9 @@ title: "Section 526 - Repealed. Pub. L. 100–17, title I , § 135(e), Apr. 2, 1
 usc_title: 33
 usc_section: "526"
 chapter: 11
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "33 U.S.C. § 526"
-generated_at: "2026-03-30T07:33:47.050Z"
+generated_at: "2026-03-30T07:35:39.513Z"
 status: "repealed"
 ---
 

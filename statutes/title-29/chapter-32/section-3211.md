@@ -3,9 +3,9 @@ title: "Section 3211 - Job Corps oversight and reporting"
 usc_title: 29
 usc_section: "3211"
 chapter: 32
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "29 U.S.C. § 3211"
-generated_at: "2026-03-30T07:33:37.833Z"
+generated_at: "2026-03-30T07:35:19.928Z"
 status: "active"
 ---
 

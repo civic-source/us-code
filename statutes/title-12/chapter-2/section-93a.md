@@ -3,9 +3,9 @@ title: "Section 93a - Authority to prescribe rules and regulations"
 usc_title: 12
 usc_section: "93a"
 chapter: 2
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "12 U.S.C. § 93a"
-generated_at: "2026-03-30T07:33:00.866Z"
+generated_at: "2026-03-30T07:34:56.701Z"
 status: "active"
 ---
 

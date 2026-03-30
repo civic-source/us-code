@@ -3,9 +3,9 @@ title: "Section 295 - Repealed. Pub. L. 86–694 , § 2, Sept. 2, 1960 , 74 Stat
 usc_title: 24
 usc_section: "295"
 chapter: 7
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "24 U.S.C. § 295"
-generated_at: "2026-03-30T07:33:23.751Z"
+generated_at: "2026-03-30T07:35:08.134Z"
 status: "repealed"
 ---
 

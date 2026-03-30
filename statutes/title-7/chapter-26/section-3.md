@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 101–624, title XV , § 1578, Nov. 28, 19
 usc_title: 7
 usc_section: "3"
 chapter: 26
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T07:32:54.962Z"
+generated_at: "2026-03-30T07:34:45.486Z"
 status: "repealed"
 ---
 

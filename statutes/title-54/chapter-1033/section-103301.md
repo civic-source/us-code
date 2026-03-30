@@ -3,9 +3,9 @@ title: "Section 103301 - Military maneuvers"
 usc_title: 54
 usc_section: "103301"
 chapter: 1033
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "54 U.S.C. § 103301"
-generated_at: "2026-03-30T07:34:19.699Z"
+generated_at: "2026-03-30T07:36:17.774Z"
 status: "active"
 ---
 

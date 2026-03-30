@@ -3,9 +3,9 @@ title: "Section 1055 - Requirement of joint and survivor annuity and preretireme
 usc_title: 29
 usc_section: "1055"
 chapter: 18
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "29 U.S.C. § 1055"
-generated_at: "2026-03-30T07:33:37.794Z"
+generated_at: "2026-03-30T07:35:19.888Z"
 status: "active"
 ---
 

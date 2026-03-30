@@ -3,9 +3,9 @@ title: "Section 4370b - Availability of fees and charges to carry out Agency pro
 usc_title: 42
 usc_section: "4370b"
 chapter: 55
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 4370b"
-generated_at: "2026-03-30T07:34:09.437Z"
+generated_at: "2026-03-30T07:36:01.439Z"
 status: "active"
 ---
 

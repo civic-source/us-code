@@ -3,9 +3,9 @@ title: "Section 105 - National Highway Traffic Safety Administration"
 usc_title: 49
 usc_section: "105"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "49 U.S.C. § 105"
-generated_at: "2026-03-30T07:34:17.398Z"
+generated_at: "2026-03-30T07:36:15.893Z"
 status: "active"
 ---
 

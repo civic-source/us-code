@@ -3,9 +3,9 @@ title: "Section 914 - Issuance of bonds and obligations"
 usc_title: 48
 usc_section: "914"
 chapter: 4
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "48 U.S.C. § 914"
-generated_at: "2026-03-30T07:34:15.685Z"
+generated_at: "2026-03-30T07:36:12.703Z"
 status: "active"
 ---
 

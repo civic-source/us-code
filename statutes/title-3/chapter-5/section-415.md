@@ -3,9 +3,9 @@ title: "Section 415 - Rights and protections under the Worker Adjustment and Ret
 usc_title: 3
 usc_section: "415"
 chapter: 5
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "3 U.S.C. § 415"
-generated_at: "2026-03-30T07:32:39.801Z"
+generated_at: "2026-03-30T07:34:30.351Z"
 status: "active"
 ---
 

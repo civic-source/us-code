@@ -3,9 +3,9 @@ title: "Section 76q - Sole national memorial to the late John F. Kennedy within 
 usc_title: 20
 usc_section: "76q"
 chapter: 3
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "20 U.S.C. § 76q"
-generated_at: "2026-03-30T07:33:09.761Z"
+generated_at: "2026-03-30T07:35:03.748Z"
 status: "active"
 ---
 

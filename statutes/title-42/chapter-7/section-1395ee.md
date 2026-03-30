@@ -3,9 +3,9 @@ title: "Section 1395ee - Practicing Physicians Advisory Council; Council for Tec
 usc_title: 42
 usc_section: "1395ee"
 chapter: 7
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 1395ee"
-generated_at: "2026-03-30T07:34:09.274Z"
+generated_at: "2026-03-30T07:36:01.278Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 545a - Discontinuance"
 usc_title: 33
 usc_section: "545a"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "33 U.S.C. § 545a"
-generated_at: "2026-03-30T07:33:47.052Z"
+generated_at: "2026-03-30T07:35:39.514Z"
 status: "active"
 ---
 

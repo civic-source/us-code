@@ -3,9 +3,9 @@ title: "Section 16234 - Concentrating solar power research program"
 usc_title: 42
 usc_section: "16234"
 chapter: 149
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 16234"
-generated_at: "2026-03-30T07:34:09.664Z"
+generated_at: "2026-03-30T07:36:01.665Z"
 status: "active"
 ---
 

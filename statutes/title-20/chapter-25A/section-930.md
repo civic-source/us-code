@@ -3,9 +3,9 @@ title: "Section 930 - Study of defense dependents’ education system"
 usc_title: 20
 usc_section: "930"
 chapter: 25
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "20 U.S.C. § 930"
-generated_at: "2026-03-30T07:33:09.768Z"
+generated_at: "2026-03-30T07:35:03.755Z"
 status: "active"
 ---
 

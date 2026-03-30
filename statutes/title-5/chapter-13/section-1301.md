@@ -3,9 +3,9 @@ title: "Section 1301 - Rules"
 usc_title: 5
 usc_section: "1301"
 chapter: 13
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "5 U.S.C. § 1301"
-generated_at: "2026-03-30T07:32:43.218Z"
+generated_at: "2026-03-30T07:34:33.433Z"
 status: "active"
 ---
 

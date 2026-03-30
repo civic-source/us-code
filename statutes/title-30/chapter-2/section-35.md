@@ -3,9 +3,9 @@ title: "Section 35 - Placer claims; entry and proceedings for patent under provi
 usc_title: 30
 usc_section: "35"
 chapter: 2
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "30 U.S.C. § 35"
-generated_at: "2026-03-30T07:33:36.118Z"
+generated_at: "2026-03-30T07:35:18.350Z"
 status: "active"
 ---
 

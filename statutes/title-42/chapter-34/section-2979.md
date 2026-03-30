@@ -3,9 +3,9 @@ title: "Section 2979 - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13,
 usc_title: 42
 usc_section: "2979"
 chapter: 34
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 2979"
-generated_at: "2026-03-30T07:34:09.408Z"
+generated_at: "2026-03-30T07:36:01.410Z"
 status: "repealed"
 ---
 

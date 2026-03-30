@@ -3,9 +3,9 @@ title: "Section 971b - Sale of restored Alaskan lands; preference rights; consen
 usc_title: 43
 usc_section: "971b"
 chapter: 22
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 971b"
-generated_at: "2026-03-30T07:33:54.059Z"
+generated_at: "2026-03-30T07:35:49.415Z"
 status: "active"
 ---
 

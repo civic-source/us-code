@@ -3,9 +3,9 @@ title: "Section 2570 - Liability of States, instrumentalities of States, and Sta
 usc_title: 7
 usc_section: "2570"
 chapter: 57
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "7 U.S.C. § 2570"
-generated_at: "2026-03-30T07:32:55.034Z"
+generated_at: "2026-03-30T07:34:45.558Z"
 status: "active"
 ---
 

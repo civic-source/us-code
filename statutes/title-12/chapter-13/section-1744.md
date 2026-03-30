@@ -3,9 +3,9 @@ title: "Section 1744 - Insurance of loans for manufacture of houses"
 usc_title: 12
 usc_section: "1744"
 chapter: 13
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "12 U.S.C. § 1744"
-generated_at: "2026-03-30T07:33:00.920Z"
+generated_at: "2026-03-30T07:34:56.753Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 993 - Powers and duties of Chair"
 usc_title: 28
 usc_section: "993"
 chapter: 58
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "28 U.S.C. § 993"
-generated_at: "2026-03-30T07:33:36.948Z"
+generated_at: "2026-03-30T07:35:20.792Z"
 status: "active"
 ---
 

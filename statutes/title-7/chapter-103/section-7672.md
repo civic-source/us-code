@@ -3,9 +3,9 @@ title: "Section 7672 - Repealed. Pub. L. 113–79, title VII , § 7311, Feb. 7, 
 usc_title: 7
 usc_section: "7672"
 chapter: 103
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "7 U.S.C. § 7672"
-generated_at: "2026-03-30T07:32:55.085Z"
+generated_at: "2026-03-30T07:34:45.610Z"
 status: "repealed"
 ---
 

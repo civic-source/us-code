@@ -3,9 +3,9 @@ title: "Section 1255b - Adjustment of status of certain nonimmigrants to that of
 usc_title: 8
 usc_section: "1255b"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "8 U.S.C. § 1255b"
-generated_at: "2026-03-30T07:32:51.716Z"
+generated_at: "2026-03-30T07:34:36.287Z"
 status: "active"
 ---
 

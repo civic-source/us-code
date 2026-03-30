@@ -3,9 +3,9 @@ title: "Section 9 - Information as confidential; exception"
 usc_title: 13
 usc_section: "9"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "13 U.S.C. § 9"
-generated_at: "2026-03-30T07:32:58.727Z"
+generated_at: "2026-03-30T07:34:47.363Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2577 - Annual Selected Acquisition Reports on certain hardware r
 usc_title: 50
 usc_section: "2577"
 chapter: 42
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "50 U.S.C. § 2577"
-generated_at: "2026-03-30T07:34:15.287Z"
+generated_at: "2026-03-30T07:36:06.179Z"
 status: "active"
 ---
 

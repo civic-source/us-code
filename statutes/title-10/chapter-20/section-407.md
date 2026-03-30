@@ -3,9 +3,9 @@ title: "Section 407 - Humanitarian demining assistance and stockpiled convention
 usc_title: 10
 usc_section: "407"
 chapter: 20
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 407"
-generated_at: "2026-03-30T07:32:50.622Z"
+generated_at: "2026-03-30T07:34:41.777Z"
 status: "active"
 ---
 

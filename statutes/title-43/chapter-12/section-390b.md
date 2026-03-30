@@ -3,9 +3,9 @@ title: "Section 390b - Development of water supplies for domestic, municipal, in
 usc_title: 43
 usc_section: "390b"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 390b"
-generated_at: "2026-03-30T07:33:54.038Z"
+generated_at: "2026-03-30T07:35:49.394Z"
 status: "active"
 ---
 

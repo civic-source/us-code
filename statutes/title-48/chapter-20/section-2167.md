@@ -3,9 +3,9 @@ title: "Section 2167 - Venue"
 usc_title: 48
 usc_section: "2167"
 chapter: 20
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "48 U.S.C. § 2167"
-generated_at: "2026-03-30T07:34:15.704Z"
+generated_at: "2026-03-30T07:36:12.720Z"
 status: "active"
 ---
 

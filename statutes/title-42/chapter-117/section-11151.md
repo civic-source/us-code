@@ -3,9 +3,9 @@ title: "Section 11151 - Definitions"
 usc_title: 42
 usc_section: "11151"
 chapter: 117
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 11151"
-generated_at: "2026-03-30T07:34:09.597Z"
+generated_at: "2026-03-30T07:36:01.599Z"
 status: "active"
 ---
 

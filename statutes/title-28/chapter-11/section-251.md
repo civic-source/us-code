@@ -3,9 +3,9 @@ title: "Section 251 - Appointment and number of judges; offices"
 usc_title: 28
 usc_section: "251"
 chapter: 11
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "28 U.S.C. § 251"
-generated_at: "2026-03-30T07:33:36.938Z"
+generated_at: "2026-03-30T07:35:20.782Z"
 status: "active"
 ---
 

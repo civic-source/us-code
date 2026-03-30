@@ -3,9 +3,9 @@ title: "Section 1601 - Renewable Resource Assessment"
 usc_title: 16
 usc_section: "1601"
 chapter: 36
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 1601"
-generated_at: "2026-03-30T07:33:21.387Z"
+generated_at: "2026-03-30T07:35:06.153Z"
 status: "active"
 ---
 

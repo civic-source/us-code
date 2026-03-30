@@ -3,9 +3,9 @@ title: "Section 1005 - Army and Air Force: prompt payments required"
 usc_title: 37
 usc_section: "1005"
 chapter: 19
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "37 U.S.C. § 1005"
-generated_at: "2026-03-30T07:33:49.158Z"
+generated_at: "2026-03-30T07:35:42.772Z"
 status: "active"
 ---
 

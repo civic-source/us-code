@@ -3,9 +3,9 @@ title: "Section 8692 - Repealed. Pub. L. 92–168 , § 3(1), Nov. 24, 1971 , 85 
 usc_title: 10
 usc_section: "8692"
 chapter: 853
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 8692"
-generated_at: "2026-03-30T07:32:50.736Z"
+generated_at: "2026-03-30T07:34:41.892Z"
 status: "repealed"
 ---
 

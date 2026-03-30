@@ -3,9 +3,9 @@ title: "Section 247 - Assisting veterans with military emergency medical trainin
 usc_title: 42
 usc_section: "247"
 chapter: 6
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 247"
-generated_at: "2026-03-30T07:34:09.029Z"
+generated_at: "2026-03-30T07:36:01.040Z"
 status: "active"
 ---
 

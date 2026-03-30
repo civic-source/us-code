@@ -3,9 +3,9 @@ title: "Section 5415 - References in Federal law to Federal banking agencies"
 usc_title: 12
 usc_section: "5415"
 chapter: 53
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "12 U.S.C. § 5415"
-generated_at: "2026-03-30T07:33:01.017Z"
+generated_at: "2026-03-30T07:34:56.846Z"
 status: "active"
 ---
 

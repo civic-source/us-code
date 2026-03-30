@@ -3,9 +3,9 @@ title: "Section 67 - 2-percent floor on miscellaneous itemized deductions"
 usc_title: 26
 usc_section: "67"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "26 U.S.C. § 67"
-generated_at: "2026-03-30T07:33:42.682Z"
+generated_at: "2026-03-30T07:35:27.463Z"
 status: "active"
 ---
 

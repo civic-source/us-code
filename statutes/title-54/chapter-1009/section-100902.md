@@ -3,9 +3,9 @@ title: "Section 100902 - Rights of way for public utilities and power and commun
 usc_title: 54
 usc_section: "100902"
 chapter: 1009
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "54 U.S.C. § 100902"
-generated_at: "2026-03-30T07:34:19.696Z"
+generated_at: "2026-03-30T07:36:17.771Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5922 - Quarterly reports on programs"
 usc_title: 22
 usc_section: "5922"
 chapter: 68
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "22 U.S.C. § 5922"
-generated_at: "2026-03-30T07:33:32.700Z"
+generated_at: "2026-03-30T07:35:12.887Z"
 status: "active"
 ---
 

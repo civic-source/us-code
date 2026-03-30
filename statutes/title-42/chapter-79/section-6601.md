@@ -3,9 +3,9 @@ title: "Section 6601 - Congressional findings; priority goals"
 usc_title: 42
 usc_section: "6601"
 chapter: 79
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 6601"
-generated_at: "2026-03-30T07:34:09.486Z"
+generated_at: "2026-03-30T07:36:01.488Z"
 status: "active"
 ---
 

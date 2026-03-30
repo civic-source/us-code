@@ -3,9 +3,9 @@ title: "Section 11432 - Grants for State and local activities for the education 
 usc_title: 42
 usc_section: "11432"
 chapter: 119
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 11432"
-generated_at: "2026-03-30T07:34:09.603Z"
+generated_at: "2026-03-30T07:36:01.605Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 361 - Receiving Office"
 usc_title: 35
 usc_section: "361"
 chapter: 36
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "35 U.S.C. § 361"
-generated_at: "2026-03-30T07:33:44.621Z"
+generated_at: "2026-03-30T07:35:31.390Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1032 - Congressional declaration of policy"
 usc_title: 21
 usc_section: "1032"
 chapter: 15
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "21 U.S.C. § 1032"
-generated_at: "2026-03-30T07:33:24.805Z"
+generated_at: "2026-03-30T07:35:09.844Z"
 status: "active"
 ---
 

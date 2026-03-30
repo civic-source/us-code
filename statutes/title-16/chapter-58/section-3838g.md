@@ -3,9 +3,9 @@ title: "Section 3838g - Duties of the Secretary"
 usc_title: 16
 usc_section: "3838g"
 chapter: 58
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "16 U.S.C. § 3838g"
-generated_at: "2026-03-30T07:33:21.421Z"
+generated_at: "2026-03-30T07:35:06.185Z"
 status: "active"
 ---
 

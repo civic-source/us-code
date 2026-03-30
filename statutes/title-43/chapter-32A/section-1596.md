@@ -3,9 +3,9 @@ title: "Section 1596 - Biennial report to President, Congress, and Advisory Coun
 usc_title: 43
 usc_section: "1596"
 chapter: 32
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 1596"
-generated_at: "2026-03-30T07:33:54.069Z"
+generated_at: "2026-03-30T07:35:49.424Z"
 status: "active"
 ---
 

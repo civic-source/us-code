@@ -3,9 +3,9 @@ title: "Section 12313 - Reserves: release from active duty"
 usc_title: 10
 usc_section: "12313"
 chapter: 1209
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 12313"
-generated_at: "2026-03-30T07:32:50.746Z"
+generated_at: "2026-03-30T07:34:41.902Z"
 status: "active"
 ---
 

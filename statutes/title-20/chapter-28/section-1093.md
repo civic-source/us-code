@@ -3,9 +3,9 @@ title: "Section 1093 - Distance education demonstration programs"
 usc_title: 20
 usc_section: "1093"
 chapter: 28
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "20 U.S.C. § 1093"
-generated_at: "2026-03-30T07:33:09.810Z"
+generated_at: "2026-03-30T07:35:03.800Z"
 status: "active"
 ---
 

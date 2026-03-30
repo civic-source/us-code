@@ -3,9 +3,9 @@ title: "Section 485 - Coins or bars"
 usc_title: 18
 usc_section: "485"
 chapter: 25
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "18 U.S.C. § 485"
-generated_at: "2026-03-30T07:33:06.806Z"
+generated_at: "2026-03-30T07:35:00.224Z"
 status: "active"
 ---
 

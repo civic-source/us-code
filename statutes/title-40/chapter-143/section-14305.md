@@ -3,9 +3,9 @@ title: "Section 14305 - Liaison between Federal Government and Commission"
 usc_title: 40
 usc_section: "14305"
 chapter: 143
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "40 U.S.C. § 14305"
-generated_at: "2026-03-30T07:33:51.498Z"
+generated_at: "2026-03-30T07:35:45.180Z"
 status: "active"
 ---
 

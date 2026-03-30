@@ -3,9 +3,9 @@ title: "Section 7104 - Processing project requests to be financed by at least 2 
 usc_title: 31
 usc_section: "7104"
 chapter: 71
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "31 U.S.C. § 7104"
-generated_at: "2026-03-30T07:33:46.312Z"
+generated_at: "2026-03-30T07:35:30.901Z"
 status: "active"
 ---
 

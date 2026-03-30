@@ -3,9 +3,9 @@ title: "Section 451i - “Federal irrigation project” defined"
 usc_title: 43
 usc_section: "451i"
 chapter: 12
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "43 U.S.C. § 451i"
-generated_at: "2026-03-30T07:33:54.045Z"
+generated_at: "2026-03-30T07:35:49.401Z"
 status: "active"
 ---
 

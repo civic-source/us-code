@@ -3,9 +3,9 @@ title: "Section 3633 - Repealed. Pub. L. 87–649 , § 14c(6), (7), Sept. 7, 196
 usc_title: 10
 usc_section: "3633"
 chapter: 349
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 3633"
-generated_at: "2026-03-30T07:32:50.716Z"
+generated_at: "2026-03-30T07:34:41.872Z"
 status: "repealed"
 ---
 

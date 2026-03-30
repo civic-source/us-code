@@ -3,9 +3,9 @@ title: "Section 939 - Authorization of appropriations"
 usc_title: 30
 usc_section: "939"
 chapter: 22
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "30 U.S.C. § 939"
-generated_at: "2026-03-30T07:33:36.134Z"
+generated_at: "2026-03-30T07:35:18.369Z"
 status: "active"
 ---
 

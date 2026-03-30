@@ -3,9 +3,9 @@ title: "Section 12752 - Distribution of assistance"
 usc_title: 42
 usc_section: "12752"
 chapter: 130
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "42 U.S.C. § 12752"
-generated_at: "2026-03-30T07:34:09.629Z"
+generated_at: "2026-03-30T07:36:01.630Z"
 status: "active"
 ---
 

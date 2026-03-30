@@ -3,9 +3,9 @@ title: "Section 885 - Burden of proof; liabilities"
 usc_title: 21
 usc_section: "885"
 chapter: 13
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "21 U.S.C. § 885"
-generated_at: "2026-03-30T07:33:24.804Z"
+generated_at: "2026-03-30T07:35:09.842Z"
 status: "active"
 ---
 

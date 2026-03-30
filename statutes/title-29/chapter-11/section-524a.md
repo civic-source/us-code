@@ -3,9 +3,9 @@ title: "Section 524a - Elimination of racketeering activities threat; State legi
 usc_title: 29
 usc_section: "524a"
 chapter: 11
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "29 U.S.C. § 524a"
-generated_at: "2026-03-30T07:33:37.774Z"
+generated_at: "2026-03-30T07:35:19.868Z"
 status: "active"
 ---
 

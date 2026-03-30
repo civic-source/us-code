@@ -3,9 +3,9 @@ title: "Section 909 - Repealed. Pub. L. 101–508, title XIII , § 13212, Nov. 5
 usc_title: 2
 usc_section: "909"
 chapter: 20
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "2 U.S.C. § 909"
-generated_at: "2026-03-30T07:32:34.736Z"
+generated_at: "2026-03-30T07:34:31.295Z"
 status: "repealed"
 ---
 

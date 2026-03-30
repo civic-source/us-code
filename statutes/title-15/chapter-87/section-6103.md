@@ -3,9 +3,9 @@ title: "Section 6103 - Actions by States"
 usc_title: 15
 usc_section: "6103"
 chapter: 87
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "15 U.S.C. § 6103"
-generated_at: "2026-03-30T07:33:03.241Z"
+generated_at: "2026-03-30T07:34:54.943Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6084 - Enlisted members assigned to mess: basic allowance for su
 usc_title: 10
 usc_section: "6084"
 chapter: 557
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 6084"
-generated_at: "2026-03-30T07:32:50.725Z"
+generated_at: "2026-03-30T07:34:41.881Z"
 status: "active"
 ---
 

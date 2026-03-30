@@ -3,9 +3,9 @@ title: "Section 1268a - Great Lakes restoration activities report"
 usc_title: 33
 usc_section: "1268a"
 chapter: 26
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "33 U.S.C. § 1268a"
-generated_at: "2026-03-30T07:33:47.072Z"
+generated_at: "2026-03-30T07:35:39.533Z"
 status: "active"
 ---
 

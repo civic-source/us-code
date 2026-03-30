@@ -3,9 +3,9 @@ title: "Section 2346 - Enforcement and regulations"
 usc_title: 18
 usc_section: "2346"
 chapter: 114
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "18 U.S.C. § 2346"
-generated_at: "2026-03-30T07:33:06.837Z"
+generated_at: "2026-03-30T07:35:00.258Z"
 status: "active"
 ---
 

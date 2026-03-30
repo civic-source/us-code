@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat. 8
 usc_title: 27
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "27 U.S.C. § 5"
-generated_at: "2026-03-30T07:33:35.542Z"
+generated_at: "2026-03-30T07:35:17.316Z"
 status: "repealed"
 ---
 

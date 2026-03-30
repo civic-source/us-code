@@ -3,9 +3,9 @@ title: "Section 2513 - Repealed. Pub. L. 104–66, title I , § 1051(o), Dec. 21
 usc_title: 15
 usc_section: "2513"
 chapter: 52
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "15 U.S.C. § 2513"
-generated_at: "2026-03-30T07:33:03.211Z"
+generated_at: "2026-03-30T07:34:54.913Z"
 status: "repealed"
 ---
 

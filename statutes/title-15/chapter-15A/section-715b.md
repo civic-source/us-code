@@ -3,9 +3,9 @@ title: "Section 715b - Interstate transportation of contraband oil forbidden"
 usc_title: 15
 usc_section: "715b"
 chapter: 15
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "15 U.S.C. § 715b"
-generated_at: "2026-03-30T07:33:03.157Z"
+generated_at: "2026-03-30T07:34:54.861Z"
 status: "active"
 ---
 

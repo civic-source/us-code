@@ -3,9 +3,9 @@ title: "Section 141 - Cooperation with other agencies, States, territories, and 
 usc_title: 14
 usc_section: "141"
 chapter: 7
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "14 U.S.C. § 141"
-generated_at: "2026-03-30T07:32:57.169Z"
+generated_at: "2026-03-30T07:34:47.782Z"
 status: "active"
 ---
 

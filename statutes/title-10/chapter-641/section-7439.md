@@ -3,9 +3,9 @@ title: "Section 7439 - Certain oil shale reserves: transfer of jurisdiction and 
 usc_title: 10
 usc_section: "7439"
 chapter: 641
-current_through: "PL 115-196"
+current_through: "PL 115-201"
 classification: "10 U.S.C. § 7439"
-generated_at: "2026-03-30T07:32:50.732Z"
+generated_at: "2026-03-30T07:34:41.887Z"
 status: "active"
 ---
 
