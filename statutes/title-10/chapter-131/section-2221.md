@@ -1,13 +1,13 @@
 ---
-title: "Section 2221 - Repealed. Pub. L. 105–261, div. A, title IX , § 906(f)(1), Oct. 17, 1998 , 112 Stat. 2096 ]"
+title: "Section 2221 - Repealed. Pub. L. 105–261, div. A, title IX, § 906(f)(1) , Oct. 17, 1998 , 112 Stat. 2096 ]"
 usc_title: 10
 usc_section: "2221"
 chapter: 131
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 2221"
-generated_at: "2026-03-30T08:03:31.130Z"
+generated_at: "2026-03-30T08:07:24.768Z"
 status: "repealed"
 ---
 
-# [§ 2221. Repealed. Pub. L. 105–261, div. A, title IX , § 906(f)(1), Oct. 17, 1998 , 112 Stat. 2096 ]
+# [§ 2221. Repealed. Pub. L. 105–261, div. A, title IX, § 906(f)(1) , Oct. 17, 1998 , 112 Stat. 2096 ]
 

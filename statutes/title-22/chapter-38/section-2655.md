@@ -1,13 +1,13 @@
 ---
-title: "Section 2655 - Repealed. Pub. L. 103–236, title I , § 162(a), (p), Apr. 30, 1994 , 108 Stat. 405 , 410"
+title: "Section 2655 - Repealed. Pub. L. 103–236, title I, § 162(a) , (p), Apr. 30, 1994 , 108 Stat. 405 , 410"
 usc_title: 22
 usc_section: "2655"
 chapter: 38
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "22 U.S.C. § 2655"
-generated_at: "2026-03-30T08:04:07.174Z"
+generated_at: "2026-03-30T08:08:48.597Z"
 status: "repealed"
 ---
 
-# §§ 2653 to 2655. Repealed. Pub. L. 103–236, title I , § 162(a), (p), Apr. 30, 1994 , 108 Stat. 405 , 410
+# §§ 2653 to 2655. Repealed. Pub. L. 103–236, title I, § 162(a) , (p), Apr. 30, 1994 , 108 Stat. 405 , 410
 

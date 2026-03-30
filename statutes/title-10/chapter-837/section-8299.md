@@ -3,9 +3,9 @@ title: "Section 8299 - Limitation of honorable service"
 usc_title: 10
 usc_section: "8299"
 chapter: 837
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 8299"
-generated_at: "2026-03-30T08:03:31.177Z"
+generated_at: "2026-03-30T08:07:24.815Z"
 status: "active"
 ---
 

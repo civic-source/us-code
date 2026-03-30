@@ -1,15 +1,15 @@
 ---
-title: "Section 6294b - Watersense program"
+title: "Section 6294b - WaterSense program"
 usc_title: 42
 usc_section: "6294b"
 chapter: 77
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 6294b"
-generated_at: "2026-03-30T08:05:50.481Z"
+generated_at: "2026-03-30T08:10:46.248Z"
 status: "active"
 ---
 
-# § 6294b. Watersense program
+# § 6294b. WaterSense program
 
 - **(a)**
   - **(1)** There is established within the Environmental Protection Agency a voluntary program, to be known as the WaterSense program, to identify and promote water-efficient products, buildings, landscapes, facilities, processes, and services in order to, through voluntary labeling of, or other forms of communications regarding, such products, buildings, landscapes, facilities, processes, and services while meeting strict performance criteria, sensibly—

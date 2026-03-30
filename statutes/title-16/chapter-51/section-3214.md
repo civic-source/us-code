@@ -3,9 +3,9 @@ title: "Section 3214 - Alaska gas pipeline"
 usc_title: 16
 usc_section: "3214"
 chapter: 51
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 3214"
-generated_at: "2026-03-30T08:03:52.481Z"
+generated_at: "2026-03-30T08:08:20.245Z"
 status: "active"
 ---
 

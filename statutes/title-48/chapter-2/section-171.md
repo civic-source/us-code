@@ -1,13 +1,13 @@
 ---
-title: "Section 171 - Repealed. Pub. L. 87–304 , § 9(a)(1), Sept. 26, 1961 , 75 Stat. 664"
+title: "Section 171 - Repealed. Pub. L. 87–304, § 9(a)(1) , Sept. 26, 1961 , 75 Stat. 664"
 usc_title: 48
 usc_section: "171"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "48 U.S.C. § 171"
-generated_at: "2026-03-30T08:05:57.205Z"
+generated_at: "2026-03-30T08:10:49.102Z"
 status: "repealed"
 ---
 
-# § 171. Repealed. Pub. L. 87–304 , § 9(a)(1), Sept. 26, 1961 , 75 Stat. 664
+# § 171. Repealed. Pub. L. 87–304, § 9(a)(1) , Sept. 26, 1961 , 75 Stat. 664
 

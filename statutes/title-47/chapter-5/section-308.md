@@ -3,9 +3,9 @@ title: "Section 308 - Requirements for license"
 usc_title: 47
 usc_section: "308"
 chapter: 5
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "47 U.S.C. § 308"
-generated_at: "2026-03-30T08:06:10.636Z"
+generated_at: "2026-03-30T08:10:50.267Z"
 status: "active"
 ---
 

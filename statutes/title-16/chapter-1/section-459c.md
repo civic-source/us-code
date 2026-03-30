@@ -3,9 +3,9 @@ title: "Section 459c - Point Reyes National Seashore; purposes; authorization fo
 usc_title: 16
 usc_section: "459c"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 459c"
-generated_at: "2026-03-30T08:03:52.339Z"
+generated_at: "2026-03-30T08:08:20.017Z"
 status: "active"
 ---
 

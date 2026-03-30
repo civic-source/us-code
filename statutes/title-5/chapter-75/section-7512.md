@@ -3,9 +3,9 @@ title: "Section 7512 - Actions covered"
 usc_title: 5
 usc_section: "7512"
 chapter: 75
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "5 U.S.C. § 7512"
-generated_at: "2026-03-30T08:03:20.942Z"
+generated_at: "2026-03-30T08:07:04.260Z"
 status: "active"
 ---
 

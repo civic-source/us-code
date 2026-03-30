@@ -3,9 +3,9 @@ title: "Section 2403 - Definitions"
 usc_title: 22
 usc_section: "2403"
 chapter: 32
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "22 U.S.C. § 2403"
-generated_at: "2026-03-30T08:04:07.167Z"
+generated_at: "2026-03-30T08:08:48.589Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ As used in this chapter—
 - **(f)** “Defense service” includes any service, test, inspection, repair, publication, or technical or other assistance or defense information used for the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
 - **(g)** “Excess defense articles” means the quantity of defense articles (other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
 - **(h)** “Function” includes any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
-- **(i)** Repealed. Pub. L. 93–189 , § 22(2), Dec. 17, 1973 , 87 Stat. 726 .
+- **(i)** Repealed. Pub. L. 93–189, § 22(2) , Dec. 17, 1973 , 87 Stat. 726 .
 - **(j)** “Officer or employee” means civilian personnel and members of the Armed Forces of the United States Government.
 - **(k)** “Services” include any service, repair, training of personnel, or technical or other assistance or information used for the purposes of furnishing nonmilitary assistance.
 - **(l)** “Surplus agricultural commodity” means any agricultural commodity or product thereof, class, kind, type, or other specification thereof, produced in the United States, either publicly or privately owned, which is in excess of domestic requirements, adequate carryover, and anticipated exports for United States dollars, as determined by the Secretary of Agriculture.

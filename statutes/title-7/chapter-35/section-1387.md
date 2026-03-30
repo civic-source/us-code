@@ -3,9 +3,9 @@ title: "Section 1387 - Photographic reproductions and maps"
 usc_title: 7
 usc_section: "1387"
 chapter: 35
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 1387"
-generated_at: "2026-03-30T08:03:27.642Z"
+generated_at: "2026-03-30T08:07:12.751Z"
 status: "active"
 ---
 

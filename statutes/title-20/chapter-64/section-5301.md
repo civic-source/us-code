@@ -3,9 +3,9 @@ title: "Section 5301 - Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 
 usc_title: 20
 usc_section: "5301"
 chapter: 64
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 5301"
-generated_at: "2026-03-30T08:03:44.157Z"
+generated_at: "2026-03-30T08:08:42.804Z"
 status: "repealed"
 ---
 

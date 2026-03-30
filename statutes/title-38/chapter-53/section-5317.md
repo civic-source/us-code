@@ -3,9 +3,9 @@ title: "Section 5317 - Use of income information from other agencies: notice and
 usc_title: 38
 usc_section: "5317"
 chapter: 53
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "38 U.S.C. § 5317"
-generated_at: "2026-03-30T08:05:13.829Z"
+generated_at: "2026-03-30T08:10:31.164Z"
 status: "active"
 ---
 

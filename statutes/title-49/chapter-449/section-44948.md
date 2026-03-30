@@ -3,9 +3,9 @@ title: "Section 44948 - National Deployment Office"
 usc_title: 49
 usc_section: "44948"
 chapter: 449
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "49 U.S.C. § 44948"
-generated_at: "2026-03-30T08:06:03.218Z"
+generated_at: "2026-03-30T08:11:00.542Z"
 status: "active"
 ---
 

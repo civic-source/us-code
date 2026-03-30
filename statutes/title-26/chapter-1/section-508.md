@@ -3,9 +3,9 @@ title: "Section 508 - Special rules with respect to section 501(c)(3) organizati
 usc_title: 26
 usc_section: "508"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 508"
-generated_at: "2026-03-30T08:04:18.655Z"
+generated_at: "2026-03-30T08:10:09.507Z"
 status: "active"
 ---
 

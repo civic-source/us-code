@@ -3,9 +3,9 @@ title: "Section 824g - Ascertainment of cost of property and depreciation"
 usc_title: 16
 usc_section: "824g"
 chapter: 12
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 824g"
-generated_at: "2026-03-30T08:03:52.416Z"
+generated_at: "2026-03-30T08:08:20.090Z"
 status: "active"
 ---
 

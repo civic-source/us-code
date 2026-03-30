@@ -1,13 +1,13 @@
 ---
-title: "Section 1446i - Repealed. Pub. L. 103–354, title I , § 119(a)(6), Oct. 13, 1994 , 108 Stat. 3208"
+title: "Section 1446i - Repealed. Pub. L. 103–354, title I, § 119(a)(6) , Oct. 13, 1994 , 108 Stat. 3208"
 usc_title: 7
 usc_section: "1446i"
 chapter: 35
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 1446i"
-generated_at: "2026-03-30T08:03:27.647Z"
+generated_at: "2026-03-30T08:07:12.755Z"
 status: "repealed"
 ---
 
-# § 1446i. Repealed. Pub. L. 103–354, title I , § 119(a)(6), Oct. 13, 1994 , 108 Stat. 3208
+# § 1446i. Repealed. Pub. L. 103–354, title I, § 119(a)(6) , Oct. 13, 1994 , 108 Stat. 3208
 

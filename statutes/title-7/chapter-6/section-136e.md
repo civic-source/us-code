@@ -3,9 +3,9 @@ title: "Section 136e - Registration of establishments"
 usc_title: 7
 usc_section: "136e"
 chapter: 6
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 136e"
-generated_at: "2026-03-30T08:03:27.603Z"
+generated_at: "2026-03-30T08:07:12.715Z"
 status: "active"
 ---
 

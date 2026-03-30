@@ -3,9 +3,9 @@ title: "Section 320302 - Permits"
 usc_title: 54
 usc_section: "320302"
 chapter: 3203
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "54 U.S.C. § 320302"
-generated_at: "2026-03-30T08:06:17.132Z"
+generated_at: "2026-03-30T08:11:04.674Z"
 status: "active"
 ---
 

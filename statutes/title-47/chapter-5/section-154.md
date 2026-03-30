@@ -3,9 +3,9 @@ title: "Section 154 - Federal Communications Commission"
 usc_title: 47
 usc_section: "154"
 chapter: 5
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "47 U.S.C. § 154"
-generated_at: "2026-03-30T08:06:10.627Z"
+generated_at: "2026-03-30T08:10:50.257Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
     - **(C)** Any person who provides services under this paragraph or who provides goods in connection with such services shall not, by reason of having provided such service or goods, be considered a Federal or special government employee.
 - **(g)**
   - **(1)** The Commission may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for office supplies, law books, period­icals, and books of reference, for printing and binding, for land for use as sites for radio monitoring stations and related facilities, including living quarters where necessary in remote areas, for the construction of such stations and facilities, and for the improvement, furnishing, equipping, and repairing of such stations and facilities and of laboratories and other related facilities (including construction of minor subsidiary buildings and structures not exceeding $25,000 in any one instance) used in connection with technical research activities), as may be necessary for the execution of the functions vested in the Commission and as may be appropriated for by the Congress in accordance with the authorizations of appropriations established in section 156 of this title . All expenditures of the Commission, including all necessary expenses for transportation incurred by the commissioners or by their employees, under their orders, in making any investigation or upon any official business in any other places than in the city of Washington, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the chairman of the Commission or by such other member or officer thereof as may be designated by the Commission for that purpose.
-  - **(2)** Repealed. Pub. L. 115–141, div. P, title IV , § 402(i)(1)(B), Mar. 23, 2018 , 132 Stat. 1089 .
+  - **(2)** Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(1)(B) , Mar. 23, 2018 , 132 Stat. 1089 .
   - **(3)**
     - **(A)** Notwithstanding any other provision of law, in furtherance of its functions the Commission is authorized to accept, hold, administer, and use unconditional gifts, donations, and bequests of real, personal, and other property (including voluntary and uncompensated services, as authorized by section 3109 of title 5 ).
     - **(B)** The Commission, for purposes of providing radio club and military-recreational call signs, may utilize the voluntary, uncompensated, and unreimbursed services of amateur radio organizations authorized by the Commission that have tax-exempt status under section 501(c)(3) of title 26 .

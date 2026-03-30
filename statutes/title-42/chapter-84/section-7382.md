@@ -3,9 +3,9 @@ title: "Section 7382 - Findings"
 usc_title: 42
 usc_section: "7382"
 chapter: 84
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 7382"
-generated_at: "2026-03-30T08:05:50.516Z"
+generated_at: "2026-03-30T08:10:46.285Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Federal projects in Pacific Northwest"
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T08:03:52.428Z"
+generated_at: "2026-03-30T08:08:20.101Z"
 status: "active"
 ---
 

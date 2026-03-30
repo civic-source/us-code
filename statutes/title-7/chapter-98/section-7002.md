@@ -3,9 +3,9 @@ title: "Section 7002 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7002"
 chapter: 98
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 7002"
-generated_at: "2026-03-30T08:03:27.744Z"
+generated_at: "2026-03-30T08:07:12.843Z"
 status: "active"
 ---
 

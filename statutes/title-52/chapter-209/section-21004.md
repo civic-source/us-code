@@ -3,9 +3,9 @@ title: "Section 21004 - State plan"
 usc_title: 52
 usc_section: "21004"
 chapter: 209
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "52 U.S.C. § 21004"
-generated_at: "2026-03-30T08:06:20.746Z"
+generated_at: "2026-03-30T08:11:03.653Z"
 status: "active"
 ---
 

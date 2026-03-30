@@ -1,13 +1,13 @@
 ---
-title: "Section 204 - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641"
+title: "Section 204 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "204"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 204"
-generated_at: "2026-03-30T08:05:54.804Z"
+generated_at: "2026-03-30T08:10:51.490Z"
 status: "repealed"
 ---
 
-# §§ 201 to 204. Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641
+# §§ 201 to 204. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641
 

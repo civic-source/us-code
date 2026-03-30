@@ -3,9 +3,9 @@ title: "Section 1725 - Assessments"
 usc_title: 30
 usc_section: "1725"
 chapter: 29
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "30 U.S.C. § 1725"
-generated_at: "2026-03-30T08:04:27.617Z"
+generated_at: "2026-03-30T08:09:03.714Z"
 status: "active"
 ---
 

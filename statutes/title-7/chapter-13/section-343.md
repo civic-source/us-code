@@ -3,9 +3,9 @@ title: "Section 343 - Appropriations; distribution; allotment and apportionment;
 usc_title: 7
 usc_section: "343"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 343"
-generated_at: "2026-03-30T08:03:27.620Z"
+generated_at: "2026-03-30T08:07:12.730Z"
 status: "active"
 ---
 

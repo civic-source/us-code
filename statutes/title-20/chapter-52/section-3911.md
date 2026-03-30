@@ -3,9 +3,9 @@ title: "Section 3911 - Congressional declaration of policy"
 usc_title: 20
 usc_section: "3911"
 chapter: 52
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 3911"
-generated_at: "2026-03-30T08:03:44.152Z"
+generated_at: "2026-03-30T08:08:42.799Z"
 status: "active"
 ---
 

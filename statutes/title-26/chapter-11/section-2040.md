@@ -3,9 +3,9 @@ title: "Section 2040 - Joint interests"
 usc_title: 26
 usc_section: "2040"
 chapter: 11
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 2040"
-generated_at: "2026-03-30T08:04:18.712Z"
+generated_at: "2026-03-30T08:10:09.560Z"
 status: "active"
 ---
 

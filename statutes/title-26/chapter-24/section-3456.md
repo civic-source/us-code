@@ -1,13 +1,13 @@
 ---
-title: "Section 3456 - Repealed. Pub. L. 98–67, title I , § 102(a), Aug. 5, 1983 , 97 Stat. 369 ]"
+title: "Section 3456 - Repealed. Pub. L. 98–67, title I, § 102(a) , Aug. 5, 1983 , 97 Stat. 369 ]"
 usc_title: 26
 usc_section: "3456"
 chapter: 24
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 3456"
-generated_at: "2026-03-30T08:04:18.724Z"
+generated_at: "2026-03-30T08:10:09.572Z"
 status: "repealed"
 ---
 
-# [§§ 3451 to 3456. Repealed. Pub. L. 98–67, title I , § 102(a), Aug. 5, 1983 , 97 Stat. 369 ]
+# [§§ 3451 to 3456. Repealed. Pub. L. 98–67, title I, § 102(a) , Aug. 5, 1983 , 97 Stat. 369 ]
 

@@ -3,9 +3,9 @@ title: "Section 3123 - Payment of obligations and interest on the public debt"
 usc_title: 31
 usc_section: "3123"
 chapter: 31
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "31 U.S.C. § 3123"
-generated_at: "2026-03-30T08:04:53.034Z"
+generated_at: "2026-03-30T08:10:12.405Z"
 status: "active"
 ---
 

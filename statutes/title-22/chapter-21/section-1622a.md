@@ -3,9 +3,9 @@ title: "Section 1622a - Transfer of Foreign Claims Settlement Commission of the 
 usc_title: 22
 usc_section: "1622a"
 chapter: 21
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "22 U.S.C. § 1622a"
-generated_at: "2026-03-30T08:04:07.141Z"
+generated_at: "2026-03-30T08:08:48.564Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 522 - Acquisition of lands; advance payments for construction"
 usc_title: 50
 usc_section: "522"
 chapter: 20
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 522"
-generated_at: "2026-03-30T08:05:54.806Z"
+generated_at: "2026-03-30T08:10:51.493Z"
 status: "active"
 ---
 

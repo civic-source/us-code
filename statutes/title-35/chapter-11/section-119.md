@@ -3,9 +3,9 @@ title: "Section 119 - Benefit of earlier filing date; right of priority"
 usc_title: 35
 usc_section: "119"
 chapter: 11
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "35 U.S.C. § 119"
-generated_at: "2026-03-30T08:04:38.640Z"
+generated_at: "2026-03-30T08:10:14.069Z"
 status: "active"
 ---
 

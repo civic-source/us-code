@@ -3,9 +3,9 @@ title: "Section 4331 - Computation of compensation for stenographic assistance o
 usc_title: 2
 usc_section: "4331"
 chapter: 43
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "2 U.S.C. § 4331"
-generated_at: "2026-03-30T08:03:18.637Z"
+generated_at: "2026-03-30T08:06:39.087Z"
 status: "active"
 ---
 

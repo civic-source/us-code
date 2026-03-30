@@ -3,9 +3,9 @@ title: "Section 1419 - International cooperation"
 usc_title: 33
 usc_section: "1419"
 chapter: 27
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "33 U.S.C. § 1419"
-generated_at: "2026-03-30T08:04:51.711Z"
+generated_at: "2026-03-30T08:10:20.143Z"
 status: "active"
 ---
 

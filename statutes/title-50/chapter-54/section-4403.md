@@ -1,13 +1,13 @@
 ---
-title: "Section 4403 - Repealed. Pub. L. 115–91, div. C, title XXXV , § 3502(a)(1), Dec. 12, 2017 , 131 Stat. 1910"
+title: "Section 4403 - Repealed. Pub. L. 115–91, div. C, title XXXV, § 3502(a)(1) , Dec. 12, 2017 , 131 Stat. 1910"
 usc_title: 50
 usc_section: "4403"
 chapter: 54
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 4403"
-generated_at: "2026-03-30T08:05:54.863Z"
+generated_at: "2026-03-30T08:10:51.549Z"
 status: "repealed"
 ---
 
-# §§ 4401 to 4403. Repealed. Pub. L. 115–91, div. C, title XXXV , § 3502(a)(1), Dec. 12, 2017 , 131 Stat. 1910
+# §§ 4401 to 4403. Repealed. Pub. L. 115–91, div. C, title XXXV, § 3502(a)(1) , Dec. 12, 2017 , 131 Stat. 1910
 

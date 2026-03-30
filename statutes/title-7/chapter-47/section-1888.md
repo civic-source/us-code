@@ -1,13 +1,13 @@
 ---
-title: "Section 1888 - Repealed. Pub. L. 91–648, title IV , § 403, Jan. 5, 1971 , 84 Stat. 1925"
+title: "Section 1888 - Repealed. Pub. L. 91–648, title IV, § 403 , Jan. 5, 1971 , 84 Stat. 1925"
 usc_title: 7
 usc_section: "1888"
 chapter: 47
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 1888"
-generated_at: "2026-03-30T08:03:27.669Z"
+generated_at: "2026-03-30T08:07:12.775Z"
 status: "repealed"
 ---
 
-# §§ 1881 to 1888. Repealed. Pub. L. 91–648, title IV , § 403, Jan. 5, 1971 , 84 Stat. 1925
+# §§ 1881 to 1888. Repealed. Pub. L. 91–648, title IV, § 403 , Jan. 5, 1971 , 84 Stat. 1925
 

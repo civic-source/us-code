@@ -3,9 +3,9 @@ title: "Section 7504 - Travel and expense reimbursement"
 usc_title: 46
 usc_section: "7504"
 chapter: 75
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "46 U.S.C. § 7504"
-generated_at: "2026-03-30T08:06:14.921Z"
+generated_at: "2026-03-30T08:10:49.903Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 231a - Repealed. Pub. L. 115–232, div. A, title VIII , § 813(a)(1)(A), Aug. 13, 2018 , 132 Stat. 1851 ]"
+title: "Section 231a - Repealed. Pub. L. 115–232, div. A, title VIII, § 813(a)(1)(A) , Aug. 13, 2018 , 132 Stat. 1851 ]"
 usc_title: 10
 usc_section: "231a"
 chapter: 9
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 231a"
-generated_at: "2026-03-30T08:03:31.069Z"
+generated_at: "2026-03-30T08:07:24.704Z"
 status: "repealed"
 ---
 
-# [§ 231a. Repealed. Pub. L. 115–232, div. A, title VIII , § 813(a)(1)(A), Aug. 13, 2018 , 132 Stat. 1851 ]
+# [§ 231a. Repealed. Pub. L. 115–232, div. A, title VIII, § 813(a)(1)(A) , Aug. 13, 2018 , 132 Stat. 1851 ]
 

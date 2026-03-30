@@ -1,13 +1,13 @@
 ---
-title: "Section 1008 - Repealed. Pub. L. 97–468, title II , § 234(a), Jan. 14, 1983 , 96 Stat. 2547"
+title: "Section 1008 - Repealed. Pub. L. 97–468, title II, § 234(a) , Jan. 14, 1983 , 96 Stat. 2547"
 usc_title: 45
 usc_section: "1008"
 chapter: 19
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "45 U.S.C. § 1008"
-generated_at: "2026-03-30T08:05:31.706Z"
+generated_at: "2026-03-30T08:10:34.490Z"
 status: "repealed"
 ---
 
-# § 1008. Repealed. Pub. L. 97–468, title II , § 234(a), Jan. 14, 1983 , 96 Stat. 2547
+# § 1008. Repealed. Pub. L. 97–468, title II, § 234(a) , Jan. 14, 1983 , 96 Stat. 2547
 

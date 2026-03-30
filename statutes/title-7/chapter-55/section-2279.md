@@ -3,9 +3,9 @@ title: "Section 2279 - Farming opportunities training and outreach"
 usc_title: 7
 usc_section: "2279"
 chapter: 55
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 2279"
-generated_at: "2026-03-30T08:03:27.700Z"
+generated_at: "2026-03-30T08:07:12.803Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
       - **(i)** the Secretary shall use in making grants and entering into contracts and other agreements under subparagraph (A); and
       - **(ii)** shall include a broad representation of peers of the eligible entity.
     - **(J)** The Secretary shall seek input from eligible entities providing technical assistance under this subsection not less than once each year to ensure that the program is responsive to the eligible entities providing that technical assistance.
-  - **(5)**
+  - **(5)** The Secretary shall award a grant to a college or university eligible to receive funds under the Act of August 30, 1890 ( 7 U.S.C. 321 et seq.), including Tuskegee University, to establish a policy research center to be known as the “Socially Disadvantaged Farmers and Ranchers Policy Research Center” for the purpose of developing policy recommendations for the protection and promotion of the interests of socially disadvantaged farmers and ranchers.
 - **(d)**
   - **(1)** Using funds made available under subsection ( l ), the Secretary, acting through the Director of the National Institute of Food and Agriculture, shall, for the period of fiscal years 2019 through 2023, make competitive grants or enter into cooperative agreements to support new and established local and regional training, education, outreach, and technical assistance initiatives to increase opportunities for beginning farmers and ranchers.
   - **(2)** Initiatives described in paragraph (1) may include programs or services, as appropriate, relating to—

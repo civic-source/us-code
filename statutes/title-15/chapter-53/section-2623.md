@@ -3,9 +3,9 @@ title: "Section 2623 - Employment effects"
 usc_title: 15
 usc_section: "2623"
 chapter: 53
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 2623"
-generated_at: "2026-03-30T08:03:38.285Z"
+generated_at: "2026-03-30T08:08:11.875Z"
 status: "active"
 ---
 

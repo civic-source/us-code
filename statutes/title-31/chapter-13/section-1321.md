@@ -3,9 +3,9 @@ title: "Section 1321 - Trust funds"
 usc_title: 31
 usc_section: "1321"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "31 U.S.C. § 1321"
-generated_at: "2026-03-30T08:04:53.031Z"
+generated_at: "2026-03-30T08:10:12.402Z"
 status: "active"
 ---
 
@@ -92,7 +92,7 @@ status: "active"
   - **(78)** Funds Contributed for Flood Control (name of river, harbor, or project).
   - **(79)** Matured obligations of the District of Columbia.
   - **(80)** To promote the education of the blind (interest).
-  - **[(81)** Repealed. Pub. L. 101–510, div. A, title XV , § 1533(c)(1)(A)(ii), Nov. 5, 1990 , 104 Stat. 1735 .]
+  - **[(81)** Repealed. Pub. L. 101–510, div. A, title XV, § 1533(c)(1)(A)(ii) , Nov. 5, 1990 , 104 Stat. 1735 .]
   - **(82)** Post-Vietnam Era Veterans Education Account, Department of Veterans Affairs.
   - **(83)** United States Government life insurance fund, Department of Veterans Affairs.
   - **(84)** Estates of deceased soldiers, United States Army.

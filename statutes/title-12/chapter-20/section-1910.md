@@ -3,9 +3,9 @@ title: "Section 1910 - Omitted"
 usc_title: 12
 usc_section: "1910"
 chapter: 20
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 1910"
-generated_at: "2026-03-30T08:03:36.238Z"
+generated_at: "2026-03-30T08:07:59.290Z"
 status: "omitted"
 ---
 

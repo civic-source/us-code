@@ -3,9 +3,9 @@ title: "Section 1818 - Termination of status as insured depository institution"
 usc_title: 12
 usc_section: "1818"
 chapter: 16
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 1818"
-generated_at: "2026-03-30T08:03:36.215Z"
+generated_at: "2026-03-30T08:07:59.269Z"
 status: "active"
 ---
 
@@ -70,7 +70,7 @@ status: "active"
     - **(F)** take such other action as the banking agency determines to be appropriate.
   - **(7)** The authority to issue an order under this subsection or subsection (c) includes the authority to place limitations on the activities or functions of an insured depository institution or any institution-affiliated party.
   - **(8)** If an insured depository institution receives, in its most recent report of examination, a less-than-satisfactory rating for asset quality, management, earnings, or liquidity, the appropriate Federal banking agency may (if the deficiency is not corrected) deem the institution to be engaging in an unsafe or unsound practice for purposes of this subsection.
-  - **(9)** [Repealed]
+  - **(9)**
   - **(10)** No authority under this subsection or subsection (c) to prohibit any institution-affiliated party from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property may be exercised unless the appropriate Federal banking agency meets the standards of Rule 65 of the Federal Rules of Civil Procedure, without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
 - **(c)**
   - **(1)** Whenever the appropriate Federal banking agency shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the depository institution or any institution-affiliated party pursuant to paragraph (1) of subsection (b) of this section, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the depository institution, or is likely to weaken the condition of the depository institution or otherwise prejudice the interests of its depositors prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (b) of this section, the agency may issue a temporary order requiring the depository institution or such party to cease and desist from any such violation or practice and to take affirmative action to prevent or remedy such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order may include any requirement authorized under subsection (b)(6). Such order shall become effective upon service upon the depository institution or such institution-affiliated party and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2) of this subsection, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the agency shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the depository institution or such party, until the effective date of such order.

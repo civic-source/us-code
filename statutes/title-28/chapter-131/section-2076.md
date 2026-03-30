@@ -1,13 +1,13 @@
 ---
-title: "Section 2076 - Repealed. Pub. L. 100–702, title IV , § 401(c), Nov. 19, 1988 , 102 Stat. 4650 ]"
+title: "Section 2076 - Repealed. Pub. L. 100–702, title IV, § 401(c) , Nov. 19, 1988 , 102 Stat. 4650 ]"
 usc_title: 28
 usc_section: "2076"
 chapter: 131
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "28 U.S.C. § 2076"
-generated_at: "2026-03-30T08:04:35.319Z"
+generated_at: "2026-03-30T08:09:25.668Z"
 status: "repealed"
 ---
 
-# [§ 2076. Repealed. Pub. L. 100–702, title IV , § 401(c), Nov. 19, 1988 , 102 Stat. 4650 ]
+# [§ 2076. Repealed. Pub. L. 100–702, title IV, § 401(c) , Nov. 19, 1988 , 102 Stat. 4650 ]
 

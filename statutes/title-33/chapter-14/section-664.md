@@ -3,9 +3,9 @@ title: "Section 664 - General duties as to plans for protection of navigation"
 usc_title: 33
 usc_section: "664"
 chapter: 14
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "33 U.S.C. § 664"
-generated_at: "2026-03-30T08:04:51.659Z"
+generated_at: "2026-03-30T08:10:20.109Z"
 status: "active"
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Section 1 - Additional market reforms"
+title: "Section 9815 - Additional market reforms"
 usc_title: 26
-usc_section: "1"
+usc_section: "9815"
 chapter: 100
-current_through: "PL 116-19"
-classification: "26 U.S.C. § 1"
-generated_at: "2026-03-30T08:04:18.802Z"
+current_through: "PL 116-20"
+classification: "26 U.S.C. § 9815"
+generated_at: "2026-03-30T08:10:09.645Z"
 status: "active"
 ---
 

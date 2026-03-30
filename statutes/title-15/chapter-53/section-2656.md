@@ -3,9 +3,9 @@ title: "Section 2656 - Training grants"
 usc_title: 15
 usc_section: "2656"
 chapter: 53
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 2656"
-generated_at: "2026-03-30T08:03:38.287Z"
+generated_at: "2026-03-30T08:08:11.877Z"
 status: "active"
 ---
 

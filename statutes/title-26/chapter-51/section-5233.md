@@ -1,13 +1,13 @@
 ---
-title: "Section 5233 - Repealed. Pub. L. 96–39, title VIII , § 807(a)(34), July 26, 1979 , 93 Stat. 286 ]"
+title: "Section 5233 - Repealed. Pub. L. 96–39, title VIII, § 807(a)(34) , July 26, 1979 , 93 Stat. 286 ]"
 usc_title: 26
 usc_section: "5233"
 chapter: 51
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 5233"
-generated_at: "2026-03-30T08:04:18.745Z"
+generated_at: "2026-03-30T08:10:09.591Z"
 status: "repealed"
 ---
 
-# [§ 5233. Repealed. Pub. L. 96–39, title VIII , § 807(a)(34), July 26, 1979 , 93 Stat. 286 ]
+# [§ 5233. Repealed. Pub. L. 96–39, title VIII, § 807(a)(34) , July 26, 1979 , 93 Stat. 286 ]
 

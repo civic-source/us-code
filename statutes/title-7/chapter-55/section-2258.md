@@ -3,9 +3,9 @@ title: "Section 2258 - Purchase of newspapers"
 usc_title: 7
 usc_section: "2258"
 chapter: 55
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 2258"
-generated_at: "2026-03-30T08:03:27.698Z"
+generated_at: "2026-03-30T08:07:12.802Z"
 status: "active"
 ---
 

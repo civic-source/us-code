@@ -3,9 +3,9 @@ title: "Section 2587 - Report on defense environmental cleanup expenditures"
 usc_title: 50
 usc_section: "2587"
 chapter: 42
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 2587"
-generated_at: "2026-03-30T08:05:54.829Z"
+generated_at: "2026-03-30T08:10:51.515Z"
 status: "active"
 ---
 

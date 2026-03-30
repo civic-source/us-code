@@ -3,9 +3,9 @@ title: "Section 4906 - Required terms in plans"
 usc_title: 7
 usc_section: "4906"
 chapter: 80
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 4906"
-generated_at: "2026-03-30T08:03:27.722Z"
+generated_at: "2026-03-30T08:07:12.823Z"
 status: "active"
 ---
 

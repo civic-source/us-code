@@ -1,13 +1,13 @@
 ---
-title: "Section 334 - Repealed. Pub. L. 104–186, title II , § 210(3)(A), Aug. 20, 1996 , 110 Stat. 1743"
+title: "Section 334 - Repealed. Pub. L. 104–186, title II, § 210(3)(A) , Aug. 20, 1996 , 110 Stat. 1743"
 usc_title: 2
 usc_section: "334"
 chapter: 10
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "2 U.S.C. § 334"
-generated_at: "2026-03-30T08:03:18.602Z"
+generated_at: "2026-03-30T08:06:39.058Z"
 status: "repealed"
 ---
 
-# § 334. Repealed. Pub. L. 104–186, title II , § 210(3)(A), Aug. 20, 1996 , 110 Stat. 1743
+# § 334. Repealed. Pub. L. 104–186, title II, § 210(3)(A) , Aug. 20, 1996 , 110 Stat. 1743
 

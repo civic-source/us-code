@@ -1,13 +1,13 @@
 ---
-title: "Section 4978A - Repealed. Pub. L. 101–239, title VII , § 7304(a)(2)(C)(i), Dec. 19, 1989 , 103 Stat. 2353 ]"
+title: "Section 4978A - Repealed. Pub. L. 101–239, title VII, § 7304(a)(2)(C)(i) , Dec. 19, 1989 , 103 Stat. 2353 ]"
 usc_title: 26
 usc_section: "4978A"
 chapter: 43
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 4978A"
-generated_at: "2026-03-30T08:04:18.737Z"
+generated_at: "2026-03-30T08:10:09.584Z"
 status: "repealed"
 ---
 
-# [§ 4978A. Repealed. Pub. L. 101–239, title VII , § 7304(a)(2)(C)(i), Dec. 19, 1989 , 103 Stat. 2353 ]
+# [§ 4978A. Repealed. Pub. L. 101–239, title VII, § 7304(a)(2)(C)(i) , Dec. 19, 1989 , 103 Stat. 2353 ]
 

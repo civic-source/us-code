@@ -1,13 +1,13 @@
 ---
-title: "Section 890 - Repealed. June 21, 1955, ch. 172 , § 5(5), 69 Stat. 170"
+title: "Section 890 - Repealed. June 21, 1955, ch. 172, § 5(5) , 69 Stat. 170"
 usc_title: 33
 usc_section: "890"
 chapter: 17
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "33 U.S.C. § 890"
-generated_at: "2026-03-30T08:04:51.666Z"
+generated_at: "2026-03-30T08:10:20.116Z"
 status: "repealed"
 ---
 
-# §§ 889, 890. Repealed. June 21, 1955, ch. 172 , § 5(5), 69 Stat. 170
+# §§ 889, 890. Repealed. June 21, 1955, ch. 172, § 5(5) , 69 Stat. 170
 

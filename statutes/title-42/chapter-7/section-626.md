@@ -3,9 +3,9 @@ title: "Section 626 - Research, training, or demonstration projects"
 usc_title: 42
 usc_section: "626"
 chapter: 7
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 626"
-generated_at: "2026-03-30T08:05:50.183Z"
+generated_at: "2026-03-30T08:10:45.951Z"
 status: "active"
 ---
 

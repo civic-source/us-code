@@ -1,13 +1,13 @@
 ---
-title: "Section 3507 - Repealed. Pub. L. 111–226, title II , § 219(a)(1), Aug. 10, 2010 , 124 Stat. 2403 ]"
+title: "Section 3507 - Repealed. Pub. L. 111–226, title II, § 219(a)(1) , Aug. 10, 2010 , 124 Stat. 2403 ]"
 usc_title: 26
 usc_section: "3507"
 chapter: 25
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 3507"
-generated_at: "2026-03-30T08:04:18.724Z"
+generated_at: "2026-03-30T08:10:09.572Z"
 status: "repealed"
 ---
 
-# [§ 3507. Repealed. Pub. L. 111–226, title II , § 219(a)(1), Aug. 10, 2010 , 124 Stat. 2403 ]
+# [§ 3507. Repealed. Pub. L. 111–226, title II, § 219(a)(1) , Aug. 10, 2010 , 124 Stat. 2403 ]
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 439 - Repealed. Pub. L. 106–568, title VIII , § 812(c)(2), Dec. 27, 2000 , 114 Stat. 2917 ]"
+title: "Section 439 - Repealed. Pub. L. 106–568, title VIII, § 812(c)(2) , Dec. 27, 2000 , 114 Stat. 2917 ]"
 usc_title: 18
 usc_section: "439"
 chapter: 23
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "18 U.S.C. § 439"
-generated_at: "2026-03-30T08:03:42.169Z"
+generated_at: "2026-03-30T08:08:28.995Z"
 status: "repealed"
 ---
 
-# [§§ 438, 439. Repealed. Pub. L. 106–568, title VIII , § 812(c)(2), Dec. 27, 2000 , 114 Stat. 2917 ]
+# [§§ 438, 439. Repealed. Pub. L. 106–568, title VIII, § 812(c)(2) , Dec. 27, 2000 , 114 Stat. 2917 ]
 

@@ -3,9 +3,9 @@ title: "Section 1317 - Regulations"
 usc_title: 17
 usc_section: "1317"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "17 U.S.C. § 1317"
-generated_at: "2026-03-30T08:03:40.999Z"
+generated_at: "2026-03-30T08:08:30.921Z"
 status: "active"
 ---
 

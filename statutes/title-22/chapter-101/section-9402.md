@@ -3,9 +3,9 @@ title: "Section 9402 - Regional strategy for countering conventional and asymmet
 usc_title: 22
 usc_section: "9402"
 chapter: 101
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "22 U.S.C. § 9402"
-generated_at: "2026-03-30T08:04:07.249Z"
+generated_at: "2026-03-30T08:08:48.667Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9705 - Commission personnel matters"
 usc_title: 20
 usc_section: "9705"
 chapter: 77
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 9705"
-generated_at: "2026-03-30T08:03:44.197Z"
+generated_at: "2026-03-30T08:08:42.840Z"
 status: "active"
 ---
 

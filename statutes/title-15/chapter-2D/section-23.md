@@ -3,9 +3,9 @@ title: "Section 23 - Closed-end companies"
 usc_title: 15
 usc_section: "23"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 23"
-generated_at: "2026-03-30T08:03:38.189Z"
+generated_at: "2026-03-30T08:08:11.775Z"
 status: "active"
 ---
 

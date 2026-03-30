@@ -1,13 +1,13 @@
 ---
-title: "Section 30A - Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(1)(B), Mar. 23, 2018 , 132 Stat. 1206 ]"
+title: "Section 30A - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(1)(B) , Mar. 23, 2018 , 132 Stat. 1206 ]"
 usc_title: 26
 usc_section: "30A"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 30A"
-generated_at: "2026-03-30T08:04:18.566Z"
+generated_at: "2026-03-30T08:10:09.421Z"
 status: "repealed"
 ---
 
-# [§ 30A. Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(1)(B), Mar. 23, 2018 , 132 Stat. 1206 ]
+# [§ 30A. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(1)(B) , Mar. 23, 2018 , 132 Stat. 1206 ]
 

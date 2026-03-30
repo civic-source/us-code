@@ -3,9 +3,9 @@ title: "Section 2802 - Military construction projects"
 usc_title: 10
 usc_section: "2802"
 chapter: 169
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 2802"
-generated_at: "2026-03-30T08:03:31.162Z"
+generated_at: "2026-03-30T08:07:24.801Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(4)** acquisition and installation of supporting facilities (including utilities) and appurtenances incident to the project; and
   - **(5)** planning, supervision, administration, and overhead incident to the project.
 - **(c)** In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
-- **[(d)** Repealed. Pub. L. 114–328, div. B, title XXVIII , § 2811(b), Dec. 23, 2016 , 130 Stat. 2716 .]
+- **[(d)** Repealed. Pub. L. 114–328, div. B, title XXVIII, § 2811(b) , Dec. 23, 2016 , 130 Stat. 2716 .]
 - **(e)**
   - **(1)** If a construction project, land acquisition, or defense access road project described in paragraph (2) will be carried out pursuant to a provision of law other than a Military Construction Authorization Act, the Secretary concerned shall comply with the congressional notification requirement contained in the provision of law under which the construction project, land acquisition, or defense access road project will be carried out and submit to the congressional defense committees any materials required to be submitted to Congress or any other congressional committees pursuant to the congressional notification requirement; or
     - **(B)** 1 in the absence of such a congressional notification requirement, submit to the congressional defense committees, in an electronic medium pursuant to section 480 of this title , a report describing the construction project, land acquisition, or defense access road project at least 15 days before commencing the construction project, land acquisition, or defense access road project.

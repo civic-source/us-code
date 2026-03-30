@@ -3,9 +3,9 @@ title: "Section 12132 - Discrimination"
 usc_title: 42
 usc_section: "12132"
 chapter: 126
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 12132"
-generated_at: "2026-03-30T08:05:50.616Z"
+generated_at: "2026-03-30T08:10:46.390Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 44710 - Revocations of airman certificates for controlled substa
 usc_title: 49
 usc_section: "44710"
 chapter: 447
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "49 U.S.C. § 44710"
-generated_at: "2026-03-30T08:06:03.210Z"
+generated_at: "2026-03-30T08:11:00.535Z"
 status: "active"
 ---
 

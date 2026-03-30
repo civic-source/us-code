@@ -1,13 +1,13 @@
 ---
-title: "Section 1337 - Repealed. Pub. L. 87–703, title III , § 317, Sept. 27, 1962 , 76 Stat. 622"
+title: "Section 1337 - Repealed. Pub. L. 87–703, title III, § 317 , Sept. 27, 1962 , 76 Stat. 622"
 usc_title: 7
 usc_section: "1337"
 chapter: 35
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 1337"
-generated_at: "2026-03-30T08:03:27.638Z"
+generated_at: "2026-03-30T08:07:12.747Z"
 status: "repealed"
 ---
 
-# § 1337. Repealed. Pub. L. 87–703, title III , § 317, Sept. 27, 1962 , 76 Stat. 622
+# § 1337. Repealed. Pub. L. 87–703, title III, § 317 , Sept. 27, 1962 , 76 Stat. 622
 

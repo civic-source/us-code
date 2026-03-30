@@ -3,9 +3,9 @@ title: "Section 5118 - Gold clauses and consent to sue"
 usc_title: 31
 usc_section: "5118"
 chapter: 51
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "31 U.S.C. § 5118"
-generated_at: "2026-03-30T08:04:53.043Z"
+generated_at: "2026-03-30T08:10:12.414Z"
 status: "active"
 ---
 

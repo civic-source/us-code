@@ -3,9 +3,9 @@ title: "Section 2165 - National Defense University: component institutions"
 usc_title: 10
 usc_section: "2165"
 chapter: 108
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 2165"
-generated_at: "2026-03-30T08:03:31.127Z"
+generated_at: "2026-03-30T08:07:24.765Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(4)** The Institute for National Strategic Studies.
   - **(5)** The College of Information and Cyberspace.
   - **(6)** Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
-- **[(c)** Repealed. Pub. L. 109–364, div. A, title IX , § 904(b)(2)(B), Oct. 17, 2006 , 120 Stat. 2353 .]
+- **[(c)** Repealed. Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B) , Oct. 17, 2006 , 120 Stat. 2353 .]
 - **(d)** Funding for the professional development education operations of the National Defense University shall be provided from funds made available to the Secretary of Defense from the annual appropriation “Operation and Maintenance, Defense-wide”.
 - **(e)**
   - **(1)** The Secretary of Defense may authorize the President of the National Defense University to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of one of the institutions comprising the University for a scientific, literary, or educational purpose.

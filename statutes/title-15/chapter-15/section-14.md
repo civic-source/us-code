@@ -1,13 +1,13 @@
 ---
-title: "Section 14 - Repealed. Pub. L. 113–79, title I , § 1423(a), Feb. 7, 2014 , 128 Stat. 695"
+title: "Section 14 - Repealed. Pub. L. 113–79, title I, § 1423(a) , Feb. 7, 2014 , 128 Stat. 695"
 usc_title: 15
 usc_section: "14"
 chapter: 15
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 14"
-generated_at: "2026-03-30T08:03:38.228Z"
+generated_at: "2026-03-30T08:08:11.816Z"
 status: "repealed"
 ---
 
-# § 713a–14. Repealed. Pub. L. 113–79, title I , § 1423(a), Feb. 7, 2014 , 128 Stat. 695
+# § 713a–14. Repealed. Pub. L. 113–79, title I, § 1423(a) , Feb. 7, 2014 , 128 Stat. 695
 

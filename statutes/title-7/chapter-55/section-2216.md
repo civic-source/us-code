@@ -1,13 +1,13 @@
 ---
-title: "Section 2216 - Repealed. Pub. L. 92–310, title II , § 221(a), June 6, 1972 , 86 Stat. 205"
+title: "Section 2216 - Repealed. Pub. L. 92–310, title II, § 221(a) , June 6, 1972 , 86 Stat. 205"
 usc_title: 7
 usc_section: "2216"
 chapter: 55
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 2216"
-generated_at: "2026-03-30T08:03:27.697Z"
+generated_at: "2026-03-30T08:07:12.801Z"
 status: "repealed"
 ---
 
-# § 2216. Repealed. Pub. L. 92–310, title II , § 221(a), June 6, 1972 , 86 Stat. 205
+# § 2216. Repealed. Pub. L. 92–310, title II, § 221(a) , June 6, 1972 , 86 Stat. 205
 

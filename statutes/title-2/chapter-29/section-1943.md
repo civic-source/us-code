@@ -1,13 +1,13 @@
 ---
-title: "Section 1943 - Repealed. Pub. L. 111–145 , § 6(b), Mar. 4, 2010 , 124 Stat. 54"
+title: "Section 1943 - Repealed. Pub. L. 111–145, § 6(b) , Mar. 4, 2010 , 124 Stat. 54"
 usc_title: 2
 usc_section: "1943"
 chapter: 29
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "2 U.S.C. § 1943"
-generated_at: "2026-03-30T08:03:18.629Z"
+generated_at: "2026-03-30T08:06:39.080Z"
 status: "repealed"
 ---
 
-# § 1943. Repealed. Pub. L. 111–145 , § 6(b), Mar. 4, 2010 , 124 Stat. 54
+# § 1943. Repealed. Pub. L. 111–145, § 6(b) , Mar. 4, 2010 , 124 Stat. 54
 

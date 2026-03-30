@@ -3,9 +3,9 @@ title: "Section 102711 - Authority of Secretary to use applicable appropriations
 usc_title: 54
 usc_section: "102711"
 chapter: 1027
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "54 U.S.C. § 102711"
-generated_at: "2026-03-30T08:06:17.129Z"
+generated_at: "2026-03-30T08:11:04.672Z"
 status: "active"
 ---
 

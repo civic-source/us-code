@@ -3,15 +3,15 @@ title: "Section 2207d - Reports on disbursement of funds for agricultural resear
 usc_title: 7
 usc_section: "2207d"
 chapter: 55
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 2207d"
-generated_at: "2026-03-30T08:03:27.697Z"
+generated_at: "2026-03-30T08:07:12.800Z"
 status: "active"
 ---
 
 # § 2207d. Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee University
 
-Not later than September 30, 2019 , and each year thereafter, the Secretary shall annually submit to Congress a report describing the allocations made to, and matching funds received by, 1890 Institutions and 1862 Institutions (as those terms are defined in section 7601 of this title for each of the agricultural research, extension, education, and related programs established under—
+Not later than September 30, 2019 , and each year thereafter, the Secretary shall annually submit to Congress a report describing the allocations made to, and matching funds received by, 1890 Institutions and 1862 Institutions (as those terms are defined in section 7601 of this title ) for each of the agricultural research, extension, education, and related programs established under—
 
   - **(1)** section 3221 of this title ;
   - **(2)** section 3222 of this title ;

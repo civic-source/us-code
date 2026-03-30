@@ -3,9 +3,9 @@ title: "Section 2881a - Pilot projects for acquisition or construction of milita
 usc_title: 10
 usc_section: "2881a"
 chapter: 169
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 2881a"
-generated_at: "2026-03-30T08:03:31.165Z"
+generated_at: "2026-03-30T08:07:24.803Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ status: "active"
 - **(d)**
   - **(1)** The Secretary of the Navy shall use the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities under the pilot projects.
   - **(2)** Subject to 30 days prior notification to the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title , such additional amounts as the Secretary of Defense considers necessary may be transferred to the Department of Defense Military Unaccompanied Housing Improvement Fund from amounts appropriated for construction of military unaccompanied housing in military construction accounts. The amounts so transferred shall be merged with and be available for the same purposes and for the same period of time as amounts appropriated directly to the Fund.
-- **[(e)** Repealed. Pub. L. 115–91, div. A, title X , § 1051(a)(25), Dec. 12, 2017 , 131 Stat. 1562 .]
+- **[(e)** Repealed. Pub. L. 115–91, div. A, title X, § 1051(a)(25) , Dec. 12, 2017 , 131 Stat. 1562 .]
 - **(f)** The authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2009 .

@@ -3,9 +3,9 @@ title: "Section 8716 - Producer agreement required as condition of provision of 
 usc_title: 7
 usc_section: "8716"
 chapter: 113
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 8716"
-generated_at: "2026-03-30T08:03:27.773Z"
+generated_at: "2026-03-30T08:07:12.870Z"
 status: "active"
 ---
 

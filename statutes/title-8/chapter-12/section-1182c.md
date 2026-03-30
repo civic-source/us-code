@@ -1,13 +1,13 @@
 ---
-title: "Section 1182c - Repealed. Pub. L. 87–301 , § 24(a)(1), (3), Sept. 26, 1961 , 75 Stat. 657"
+title: "Section 1182c - Repealed. Pub. L. 87–301, § 24(a)(1) , (3), Sept. 26, 1961 , 75 Stat. 657"
 usc_title: 8
 usc_section: "1182c"
 chapter: 12
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "8 U.S.C. § 1182c"
-generated_at: "2026-03-30T08:03:24.441Z"
+generated_at: "2026-03-30T08:07:09.230Z"
 status: "repealed"
 ---
 
-# §§ 1182a to 1182c. Repealed. Pub. L. 87–301 , § 24(a)(1), (3), Sept. 26, 1961 , 75 Stat. 657
+# §§ 1182a to 1182c. Repealed. Pub. L. 87–301, § 24(a)(1) , (3), Sept. 26, 1961 , 75 Stat. 657
 

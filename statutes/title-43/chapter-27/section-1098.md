@@ -1,13 +1,13 @@
 ---
-title: "Section 1098 - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21, 1976 , 90 Stat. 2789"
+title: "Section 1098 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 1976 , 90 Stat. 2789"
 usc_title: 43
 usc_section: "1098"
 chapter: 27
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "43 U.S.C. § 1098"
-generated_at: "2026-03-30T08:05:32.679Z"
+generated_at: "2026-03-30T08:10:33.797Z"
 status: "repealed"
 ---
 
-# §§ 1096 to 1098. Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21, 1976 , 90 Stat. 2789
+# §§ 1096 to 1098. Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 1976 , 90 Stat. 2789
 

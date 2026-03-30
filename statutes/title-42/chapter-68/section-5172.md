@@ -3,9 +3,9 @@ title: "Section 5172 - Repair, restoration, and replacement of damaged facilitie
 usc_title: 42
 usc_section: "5172"
 chapter: 68
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 5172"
-generated_at: "2026-03-30T08:05:50.459Z"
+generated_at: "2026-03-30T08:10:46.227Z"
 status: "active"
 ---
 
@@ -103,6 +103,6 @@ status: "active"
   - **(4)** In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner’s responsibility and not the contractor’s responsibility.
   - **(5)**
     - **(A)** Not later than 18 months after October 5, 2018 , the President, acting through the Administrator of the Federal Emergency Management Agency, and in consultation with the heads of relevant Federal departments and agencies, shall issue a final rulemaking that defines the terms “resilient” and “resiliency” for purposes of this subsection.
-    - **(B)** Not later than 60 days after October 5, 2018 , the Administrator shall issue interim guidance to implement this subsection. Such interim guidance shall expire 18 months after the October 5, 2018 or upon issuance of final regulations pursuant to subparagraph (A), whichever occurs first.
+    - **(B)** Not later than 60 days after October 5, 2018 , the Administrator shall issue interim guidance to implement this subsection. Such interim guidance shall expire 18 months after October 5, 2018 , or upon issuance of final regulations pursuant to subparagraph (A), whichever occurs first.
     - **(C)** Not later than 90 days after the date on which the Administrator issues the final rulemaking under this paragraph, the Administrator shall issue any necessary guidance related to the rulemaking.
     - **(D)** Not later than 2 years after October 5, 2018 , the Administrator shall submit to Congress a report summarizing the regulations and guidance issued pursuant to this paragraph.

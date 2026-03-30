@@ -1,13 +1,13 @@
 ---
-title: "Section 276 - Repealed. Pub. L. 93–43 , § 7(a)(1)–(3), (61), June 18, 1973 , 87 Stat. 82 , 88"
+title: "Section 276 - Repealed. Pub. L. 93–43, § 7(a)(1) –(3), (61), June 18, 1973 , 87 Stat. 82 , 88"
 usc_title: 24
 usc_section: "276"
 chapter: 7
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "24 U.S.C. § 276"
-generated_at: "2026-03-30T08:03:54.411Z"
+generated_at: "2026-03-30T08:08:44.795Z"
 status: "repealed"
 ---
 
-# §§ 271 to 276. Repealed. Pub. L. 93–43 , § 7(a)(1)–(3), (61), June 18, 1973 , 87 Stat. 82 , 88
+# §§ 271 to 276. Repealed. Pub. L. 93–43, § 7(a)(1) –(3), (61), June 18, 1973 , 87 Stat. 82 , 88
 

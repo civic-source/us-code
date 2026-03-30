@@ -3,9 +3,9 @@ title: "Section 721 - Authorization to operate business"
 usc_title: 11
 usc_section: "721"
 chapter: 7
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "11 U.S.C. § 721"
-generated_at: "2026-03-30T08:03:38.864Z"
+generated_at: "2026-03-30T08:07:46.178Z"
 status: "active"
 ---
 

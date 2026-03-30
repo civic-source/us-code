@@ -3,9 +3,9 @@ title: "Section 8107 - Appropriations"
 usc_title: 42
 usc_section: "8107"
 chapter: 90
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 8107"
-generated_at: "2026-03-30T08:05:50.553Z"
+generated_at: "2026-03-30T08:10:46.323Z"
 status: "active"
 ---
 

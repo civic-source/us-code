@@ -3,9 +3,9 @@ title: "Section 5356 - Supplemental assistance to funds provided to local educat
 usc_title: 25
 usc_section: "5356"
 chapter: 46
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "25 U.S.C. § 5356"
-generated_at: "2026-03-30T08:04:00.400Z"
+generated_at: "2026-03-30T08:08:55.749Z"
 status: "active"
 ---
 

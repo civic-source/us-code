@@ -3,9 +3,9 @@ title: "Section 5102 - Definitions; application"
 usc_title: 5
 usc_section: "5102"
 chapter: 51
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "5 U.S.C. § 5102"
-generated_at: "2026-03-30T08:03:20.925Z"
+generated_at: "2026-03-30T08:07:04.241Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
     - **(B)** level of qualification requirements of the work;
 - **(b)** Except as provided by subsections (c) and (d) of this section, this chapter applies to all civilian positions and employees in or under an agency, including positions in local boards and appeal boards within the Selective Service System and employees occupying those positions.
 - **(c)** This chapter does not apply to—
-  - **[ (1)** Repealed. Pub. L. 91–375 , § 6(c)(9), Aug. 12, 1970 , 84 Stat. 776 ;]
+  - **[ (1)** Repealed. Pub. L. 91–375, § 6(c)(9) , Aug. 12, 1970 , 84 Stat. 776 ;]
   - **(2)** members of the Foreign Service whose pay is fixed under the Foreign Service Act of 1980; and positions in or under the Department of State which are—
     - **(A)** connected with the representation of the United States to international organizations; or
     - **(B)** specifically exempted by statute from this chapter or other classification or pay statute;
@@ -53,7 +53,7 @@ status: "active"
   - **(9)** employees of the Government Publishing Office whose pay is fixed under section 305 of title 44 ;
   - **(10)** civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 7371, 8748, or 9371 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 7438, 8452, and 9438, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 8544 of title 10 ; the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under section 8543 of title 10 ; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10 ;
   - **(11)** aliens or noncitizens of the United States who occupy positions outside the United States;
-  - **[(12)** Repealed. Pub. L. 104–201, div. C, title XXXV , § 3548(a)(2)(B), Sept. 23, 1996 , 110 Stat. 2868 ;]
+  - **[(12)** Repealed. Pub. L. 104–201, div. C, title XXXV, § 3548(a)(2)(B) , Sept. 23, 1996 , 110 Stat. 2868 ;]
   - **(13)** employees who serve without pay or at nominal rates of pay;
   - **(14)** employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under section 8474(c)(2) of this title ), except that with respect to the Veterans’ Canteen Service, Department of Veterans Affairs, this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 7802 of title 38 ;
   - **(15)** employees whose pay is fixed under a cooperative agreement between the United States and—

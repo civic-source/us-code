@@ -3,9 +3,9 @@ title: "Section 1531 - Transfers of functions and activities"
 usc_title: 31
 usc_section: "1531"
 chapter: 15
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "31 U.S.C. § 1531"
-generated_at: "2026-03-30T08:04:53.033Z"
+generated_at: "2026-03-30T08:10:12.404Z"
 status: "active"
 ---
 

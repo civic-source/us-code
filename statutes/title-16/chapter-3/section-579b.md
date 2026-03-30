@@ -3,9 +3,9 @@ title: "Section 579b - Working capital fund; establishment; availability; transf
 usc_title: 16
 usc_section: "579b"
 chapter: 3
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 579b"
-generated_at: "2026-03-30T08:03:52.390Z"
+generated_at: "2026-03-30T08:08:20.065Z"
 status: "active"
 ---
 

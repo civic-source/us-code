@@ -3,11 +3,15 @@ title: "Section 3048 - Commitment to another district; removal—(Rule)"
 usc_title: 18
 usc_section: "3048"
 chapter: 203
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "18 U.S.C. § 3048"
-generated_at: "2026-03-30T08:03:42.209Z"
+generated_at: "2026-03-30T08:08:29.032Z"
 status: "active"
 ---
 
 # § 3048. Commitment to another district; removal—(Rule)
 
+
+## Notes
+
+See Federal Rules of Criminal Procedure Arrest in nearby or distant districts; informative statement by judge or magistrate judge; hearing and removal; warrant; Rule 40.

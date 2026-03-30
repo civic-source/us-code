@@ -3,9 +3,9 @@ title: "Section 103a - Omitted"
 usc_title: 8
 usc_section: "103a"
 chapter: 6
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "8 U.S.C. § 103a"
-generated_at: "2026-03-30T08:03:24.433Z"
+generated_at: "2026-03-30T08:07:09.222Z"
 status: "omitted"
 ---
 

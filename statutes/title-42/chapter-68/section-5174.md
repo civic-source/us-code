@@ -3,9 +3,9 @@ title: "Section 5174 - Federal assistance to individuals and households"
 usc_title: 42
 usc_section: "5174"
 chapter: 68
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 5174"
-generated_at: "2026-03-30T08:05:50.459Z"
+generated_at: "2026-03-30T08:10:46.228Z"
 status: "active"
 ---
 
@@ -94,7 +94,7 @@ status: "active"
     - **(J)**
       - **(i)** The Administrator of the Federal Emergency Management Agency may waive notice and comment rulemaking with respect to rules to carry out this section, if the Administrator determines doing so is necessary to expeditiously implement this section, and may carry out this section as a pilot program until such regulations are promulgated.
       - **(ii)** Not later than 2 years after October 5, 2018 , the Administrator of the Federal Emergency Management Agency shall issue final regulations to implement this subsection as amended by the Disaster Recovery Reform Act of 2018.
-      - **(iii)** The authority under clause (i) and any pilot program implemented pursuant to such clause shall expire 2 years after October 5, 2018 or upon issuance of final regulations pursuant to clause (ii), whichever occurs sooner.
+      - **(iii)** The authority under clause (i) and any pilot program implemented pursuant to such clause shall expire 2 years after October 5, 2018 , or upon issuance of final regulations pursuant to clause (ii), whichever occurs sooner.
 - **(g)**
   - **(1)** Except as provided in paragraph (2), the Federal share of the costs eligible to be paid using assistance provided under this section shall be 100 percent.
   - **(2)** In the case of financial assistance provided under subsection (e)—

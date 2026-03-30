@@ -3,9 +3,9 @@ title: "Section 7706 - Authorization of appropriations"
 usc_title: 42
 usc_section: "7706"
 chapter: 86
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 7706"
-generated_at: "2026-03-30T08:05:50.548Z"
+generated_at: "2026-03-30T08:10:46.319Z"
 status: "active"
 ---
 
@@ -80,4 +80,4 @@ status: "active"
     - **(G)** $5,900,000 for fiscal year 2020,
     - **(H)** $5,900,000 for fiscal year 2021,
     - **(I)** $5,900,000 for fiscal year 2022, and
-    - **(J)** $5,900,000 for fiscal year 2023.
+    - **(J)** $5,900,000 for fiscal year 2023. 4 4 So in original. The period probably should be a comma.

@@ -1,13 +1,13 @@
 ---
-title: "Section 107 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 637 , 642"
+title: "Section 107 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 637 , 642"
 usc_title: 8
 usc_section: "107"
 chapter: 6
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "8 U.S.C. § 107"
-generated_at: "2026-03-30T08:03:24.433Z"
+generated_at: "2026-03-30T08:07:09.223Z"
 status: "repealed"
 ---
 
-# § 107. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 637 , 642
+# § 107. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 637 , 642
 

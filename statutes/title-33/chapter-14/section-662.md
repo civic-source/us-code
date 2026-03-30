@@ -3,9 +3,9 @@ title: "Section 662 - Organization; compensation of members; rules and regulatio
 usc_title: 33
 usc_section: "662"
 chapter: 14
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "33 U.S.C. § 662"
-generated_at: "2026-03-30T08:04:51.659Z"
+generated_at: "2026-03-30T08:10:20.109Z"
 status: "active"
 ---
 

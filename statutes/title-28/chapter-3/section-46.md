@@ -3,9 +3,9 @@ title: "Section 46 - Assignment of judges; panels; hearings; quorum"
 usc_title: 28
 usc_section: "46"
 chapter: 3
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "28 U.S.C. § 46"
-generated_at: "2026-03-30T08:04:35.298Z"
+generated_at: "2026-03-30T08:09:25.637Z"
 status: "active"
 ---
 

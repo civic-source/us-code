@@ -3,9 +3,9 @@ title: "Section 21012 - Annual report"
 usc_title: 36
 usc_section: "21012"
 chapter: 210
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "36 U.S.C. § 21012"
-generated_at: "2026-03-30T08:05:02.092Z"
+generated_at: "2026-03-30T08:10:22.935Z"
 status: "active"
 ---
 

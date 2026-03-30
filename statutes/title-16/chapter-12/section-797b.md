@@ -3,9 +3,9 @@ title: "Section 797b - Duty to keep Congress fully and currently informed"
 usc_title: 16
 usc_section: "797b"
 chapter: 12
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 797b"
-generated_at: "2026-03-30T08:03:52.412Z"
+generated_at: "2026-03-30T08:08:20.087Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6051 - Receipts for employees"
 usc_title: 26
 usc_section: "6051"
 chapter: 61
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 6051"
-generated_at: "2026-03-30T08:04:18.757Z"
+generated_at: "2026-03-30T08:10:09.603Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** the total amount deducted and withheld as tax under section 3402,
   - **(5)** the total amount of wages as defined in section 3121(a),
   - **(6)** the total amount deducted and withheld as tax under section 3101,
-  - **[(7)** Repealed. Pub. L. 111–226, title II , § 219(a)(3), Aug. 10, 2010 , 124 Stat. 2403 ]
+  - **[(7)** Repealed. Pub. L. 111–226, title II, § 219(a)(3) , Aug. 10, 2010 , 124 Stat. 2403 ]
   - **(8)** the total amount of elective deferrals (within the meaning of section 402(g)(3)) and compensation deferred under section 457, including the amount of designated Roth contributions (as defined in section 402A),
   - **(9)** the total amount incurred for dependent care assistance with respect to such employee under a dependent care assistance program described in section 129(d),
   - **(10)** in the case of an employee who is a member of the Armed Forces of the United States, such employee’s earned income as determined for purposes of section 32 (relating to earned income credit),

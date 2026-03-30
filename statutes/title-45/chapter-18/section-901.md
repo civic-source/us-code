@@ -3,9 +3,9 @@ title: "Section 901 - Congressional findings"
 usc_title: 45
 usc_section: "901"
 chapter: 18
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "45 U.S.C. § 901"
-generated_at: "2026-03-30T08:05:31.705Z"
+generated_at: "2026-03-30T08:10:34.489Z"
 status: "active"
 ---
 

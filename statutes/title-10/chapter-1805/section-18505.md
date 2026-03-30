@@ -1,11 +1,11 @@
 ---
-title: "Section 1 - Reserves traveling for inactive-duty training: space-required travel on military aircraft"
+title: "Section 18505 - Reserves traveling for inactive-duty training: space-required travel on military aircraft"
 usc_title: 10
-usc_section: "1"
+usc_section: "18505"
 chapter: 1805
-current_through: "PL 116-19"
-classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T08:03:31.203Z"
+current_through: "PL 116-20"
+classification: "10 U.S.C. § 18505"
+generated_at: "2026-03-30T08:07:24.842Z"
 status: "active"
 ---
 

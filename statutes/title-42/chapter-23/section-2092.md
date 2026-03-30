@@ -3,9 +3,9 @@ title: "Section 2092 - License requirements for transfers"
 usc_title: 42
 usc_section: "2092"
 chapter: 23
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 2092"
-generated_at: "2026-03-30T08:05:50.394Z"
+generated_at: "2026-03-30T08:10:46.163Z"
 status: "active"
 ---
 

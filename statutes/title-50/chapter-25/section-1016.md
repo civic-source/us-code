@@ -1,13 +1,13 @@
 ---
-title: "Section 1016 - Repealed. Pub. L. 87–651, title III , § 307A, Sept. 7, 1962 , 76 Stat. 526"
+title: "Section 1016 - Repealed. Pub. L. 87–651, title III, § 307A , Sept. 7, 1962 , 76 Stat. 526"
 usc_title: 50
 usc_section: "1016"
 chapter: 25
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 1016"
-generated_at: "2026-03-30T08:05:54.807Z"
+generated_at: "2026-03-30T08:10:51.493Z"
 status: "repealed"
 ---
 
-# § 1016. Repealed. Pub. L. 87–651, title III , § 307A, Sept. 7, 1962 , 76 Stat. 526
+# § 1016. Repealed. Pub. L. 87–651, title III, § 307A , Sept. 7, 1962 , 76 Stat. 526
 

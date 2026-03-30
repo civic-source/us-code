@@ -3,9 +3,9 @@ title: "Section 1643 - Congressional declaration of purpose"
 usc_title: 22
 usc_section: "1643"
 chapter: 21
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "22 U.S.C. § 1643"
-generated_at: "2026-03-30T08:04:07.144Z"
+generated_at: "2026-03-30T08:08:48.566Z"
 status: "active"
 ---
 

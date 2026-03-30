@@ -1,13 +1,13 @@
 ---
-title: "Section 672 - Repealed. Pub. L. 87–341 , § 11(h)(1), Oct. 3, 1961 , 75 Stat. 757"
+title: "Section 672 - Repealed. Pub. L. 87–341, § 11(h)(1) , Oct. 3, 1961 , 75 Stat. 757"
 usc_title: 15
 usc_section: "672"
 chapter: 14
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 672"
-generated_at: "2026-03-30T08:03:38.222Z"
+generated_at: "2026-03-30T08:08:11.810Z"
 status: "repealed"
 ---
 
-# § 672. Repealed. Pub. L. 87–341 , § 11(h)(1), Oct. 3, 1961 , 75 Stat. 757
+# § 672. Repealed. Pub. L. 87–341, § 11(h)(1) , Oct. 3, 1961 , 75 Stat. 757
 

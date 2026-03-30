@@ -3,9 +3,9 @@ title: "Section 1333 - National acreage allotment"
 usc_title: 7
 usc_section: "1333"
 chapter: 35
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 1333"
-generated_at: "2026-03-30T08:03:27.637Z"
+generated_at: "2026-03-30T08:07:12.746Z"
 status: "active"
 ---
 

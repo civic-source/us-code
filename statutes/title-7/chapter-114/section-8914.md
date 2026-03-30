@@ -3,9 +3,9 @@ title: "Section 8914 - Agriculture and food defense"
 usc_title: 7
 usc_section: "8914"
 chapter: 114
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 8914"
-generated_at: "2026-03-30T08:03:27.776Z"
+generated_at: "2026-03-30T08:07:12.872Z"
 status: "active"
 ---
 
@@ -79,7 +79,7 @@ status: "active"
       - **(ii)** partner with the Administrator of the Animal and Plant Health Inspection Service for assistance with plant health regulation and inspection; and
       - **(iii)** coordinate with other Federal agencies, as appropriate, in carrying out activities relating to the National Plant Diagnostic Network, including the sharing of biosurveillance information.
   - **(4)** The Secretary shall seek to establish cooperative agreements with land-grant colleges and universities (as defined in section 3103 of this title ) that have the appropriate level of skill, experience, and competence with plant diseases or pests of concern.
-  - **(5)** In addition to the amount authorized to carry out this subtitle under section 12205, 2 2 See References in Text note below. there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.
+  - **(5)** In addition to the amount authorized to carry out this subtitle under section 12205, 1 1 See References in Text note below. there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.
 - **(d)**
   - **(1)** The Secretary shall establish in the Department of Agriculture a National Plant Disease Recovery System to engage in strategic long-range planning to recover from high-consequence plant transboundary diseases.
   - **(2)** The National Plant Disease Recovery System established under paragraph (1) shall—

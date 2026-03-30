@@ -3,9 +3,9 @@ title: "Section 742f - Powers of Secretaries of the Interior and Commerce"
 usc_title: 16
 usc_section: "742f"
 chapter: 9
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 742f"
-generated_at: "2026-03-30T08:03:52.407Z"
+generated_at: "2026-03-30T08:08:20.082Z"
 status: "active"
 ---
 

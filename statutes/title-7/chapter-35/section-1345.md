@@ -3,9 +3,9 @@ title: "Section 1345 - Farm marketing quotas; farm marketing excess"
 usc_title: 7
 usc_section: "1345"
 chapter: 35
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 1345"
-generated_at: "2026-03-30T08:03:27.639Z"
+generated_at: "2026-03-30T08:07:12.748Z"
 status: "active"
 ---
 

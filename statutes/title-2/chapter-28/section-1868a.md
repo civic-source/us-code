@@ -3,9 +3,9 @@ title: "Section 1868a - Semiannual report of disbursements"
 usc_title: 2
 usc_section: "1868a"
 chapter: 28
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "2 U.S.C. § 1868a"
-generated_at: "2026-03-30T08:03:18.628Z"
+generated_at: "2026-03-30T08:06:39.079Z"
 status: "active"
 ---
 

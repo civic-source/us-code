@@ -3,9 +3,9 @@ title: "Section 1446 - Price support levels for designated nonbasic agricultural
 usc_title: 7
 usc_section: "1446"
 chapter: 35
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 1446"
-generated_at: "2026-03-30T08:03:27.647Z"
+generated_at: "2026-03-30T08:07:12.755Z"
 status: "active"
 ---
 
@@ -62,9 +62,9 @@ status: "active"
     - **(C)** In setting the terms and conditions of any milk diversion or milk production termination under this paragraph and of each contract made under this subparagraph, the Secretary shall take into account any adverse effect of such program or contracts on beef, pork, and poultry producers in the United States and shall take all feasible steps to minimize such effect.
     - **(D)** A producer who commenced marketing milk after December 31, 1984 , shall be eligible to enter into a contract for payments under this subparagraph if such producer’s entire milk production facility and entire dairy herd were transferred to the producer by reason of a gift from, or the death of, a member or members of the family of the producer. The term “member of the family of the producer” means (i) an ancestor of the producer, (ii) the spouse of the producer, (iii) a lineal descendant of the producer, or the producer’s spouse, or a parent of the producer, or (iv) the spouse of any such lineal descendant.
     - **(E)** Application for payment shall be made by producers through the county committees established under section 590h(b) of title 16 .
-    - **(F)** to (J) Repealed. Pub. L. 99–198, title I , § 101(b)(1), (2), Dec. 23, 1985 , 99 Stat. 1363 , 1365.
+    - **(F)** to (J) Repealed. Pub. L. 99–198, title I, § 101(b)(1) , (2), Dec. 23, 1985 , 99 Stat. 1363 , 1365.
     - **(K)** Redesignated (E).
-    - **(L)** Repealed. Pub. L. 99–198, title I , § 101(b)(2), Dec. 23, 1985 , 99 Stat. 1365 .
+    - **(L)** Repealed. Pub. L. 99–198, title I, § 101(b)(2) , Dec. 23, 1985 , 99 Stat. 1365 .
     - **(M)** A contract entered into under this paragraph by a producer who by reason of death cannot perform or assign such contract may be performed or assigned, in accordance with subparagraph (L), by the estate of such producer.
     - **(N)** If the provisions for reductions in the price received for milk marketed for commercial use as provided for in paragraph (2) are held to be invalid by any court, or the Secretary is restrained or enjoined by any court from implementing such provisions, the Secretary shall immediately suspend making any diversion payments under this paragraph for the period beginning with the date of such court action and shall resume making such payments only if such court action is overruled, stayed, or terminated.
   - **(4)** Each producer who markets milk and each person required to make payment to the Corporation under this subsection shall keep such records and make such reports, in such manner, as the Secretary determines necessary to carry out this subsection. The Secretary may make such investigations as the Secretary deems necessary for the effective administration of this subsection or to determine whether any person subject to the provisions of this subsection has engaged or is engaged or is about to engage in any act or practice that constitutes or will constitute a violation of any provision of this subsection or regulation issued under this subsection. For the purpose of such investigation, the Secretary may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of records. Such court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony on the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district of which such person is an inhabitant or wherever such person may be found.

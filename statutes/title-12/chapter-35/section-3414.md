@@ -3,9 +3,9 @@ title: "Section 3414 - Special procedures"
 usc_title: 12
 usc_section: "3414"
 chapter: 35
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 3414"
-generated_at: "2026-03-30T08:03:36.260Z"
+generated_at: "2026-03-30T08:07:59.313Z"
 status: "active"
 ---
 

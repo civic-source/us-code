@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-30T08:03:57.069Z"
+generated_at: "2026-03-30T08:09:00.655Z"
 status: "active"
 ---
 
@@ -109,7 +109,7 @@ As used in this subchapter:
     - **(B)** Acetone.
     - **(C)** Benzyl chloride.
     - **(D)** Ethyl ether.
-    - **(E)** Repealed. Pub. L. 101–647, title XXIII , § 2301(b), Nov. 29, 1990 , 104 Stat. 4858 .
+    - **(E)** Repealed. Pub. L. 101–647, title XXIII, § 2301(b) , Nov. 29, 1990 , 104 Stat. 4858 .
     - **(F)** Potassium permanganate.
     - **(G)** 2-Butanone (or Methyl Ethyl Ketone).
     - **(H)** Toluene.

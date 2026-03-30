@@ -3,9 +3,9 @@ title: "Section 7517 - The Gus Schumacher nutrition incentive program"
 usc_title: 7
 usc_section: "7517"
 chapter: 102
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 7517"
-generated_at: "2026-03-30T08:03:27.755Z"
+generated_at: "2026-03-30T08:07:12.854Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** The term “supplemental nutrition assistance program” means—
     - **(A)** the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.); and
     - **(B)** the programs for nutrition assistance under section 19 of such Act ( 7 U.S.C. 2028 ).
-  - **(4)** The term “healthcare partner”’ means a healthcare provider, including—
+  - **(4)** The term “healthcare partner” means a healthcare provider, including—
     - **(A)** a hospital;
     - **(B)** a Federally-qualified health center (as defined in section 1905( l ) of the Social Security Act ( 42 U.S.C. 1396d ( l )));
     - **(C)** a hospital or clinic operated by the Secretary of Veterans Affairs; or

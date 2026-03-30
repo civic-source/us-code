@@ -3,9 +3,9 @@ title: "Section 502 - Bonding of officers and employees of labor organizations; 
 usc_title: 29
 usc_section: "502"
 chapter: 11
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "29 U.S.C. § 502"
-generated_at: "2026-03-30T08:04:29.575Z"
+generated_at: "2026-03-30T08:09:05.290Z"
 status: "active"
 ---
 

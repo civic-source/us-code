@@ -3,9 +3,9 @@ title: "Section 532 - Qualifications for original appointment as a commissioned 
 usc_title: 10
 usc_section: "532"
 chapter: 33
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 532"
-generated_at: "2026-03-30T08:03:31.077Z"
+generated_at: "2026-03-30T08:07:24.713Z"
 status: "active"
 ---
 
@@ -24,6 +24,6 @@ status: "active"
     - **(C)** under regulations prescribed by the Secretary of Defense, have completed a number of years of osteopathic and preosteopathic education equal to the number of years of medical and premedical education prescribed for persons entering recognized schools of medicine who become doctors of medicine and who would be qualified for an original appointment in the grade for which that person is being considered for appointment; and
     - **(D)** have such other qualifications as the Secretary of the military department concerned prescribes after considering the recommendations, if any, of the Surgeon General of the armed force concerned.
 - **(c)** Original appointments in the Regular Navy or Regular Marine Corps of officers designated for limited duty shall be made under section 8139 or 8146 of this title.
-- **[(d)** Repealed. Pub. L. 115–232, div. A, title V , § 501(b), Aug. 13, 2018 , 132 Stat. 1739 .]
-- **[(e)** Repealed. Pub. L. 108–375, div. A, title V , § 501(a)(1), Oct. 28, 2004 , 118 Stat. 1872 .]
+- **[(d)** Repealed. Pub. L. 115–232, div. A, title V, § 501(b) , Aug. 13, 2018 , 132 Stat. 1739 .]
+- **[(e)** Repealed. Pub. L. 108–375, div. A, title V, § 501(a)(1) , Oct. 28, 2004 , 118 Stat. 1872 .]
 - **(f)** The Secretary of Defense may waive the requirement of paragraph (1) of subsection (a) with respect to a person who has been lawfully admitted to the United States for permanent residence, or for a United States national otherwise eligible for appointment as a cadet or midshipman under section 2107(a) of this title or as a cadet under section 2107a of this title , when the Secretary determines that the national security so requires, but only for an original appointment in a grade below the grade of major or lieutenant commander.

@@ -1,13 +1,13 @@
 ---
-title: "Section 178 - Repealed. Pub. L. 103–325, title VI , § 602(f)(5)(B), Sept. 23, 1994 , 108 Stat. 2293"
+title: "Section 178 - Repealed. Pub. L. 103–325, title VI, § 602(f)(5)(B) , Sept. 23, 1994 , 108 Stat. 2293"
 usc_title: 12
 usc_section: "178"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 178"
-generated_at: "2026-03-30T08:03:36.151Z"
+generated_at: "2026-03-30T08:07:59.202Z"
 status: "repealed"
 ---
 
-# § 178. Repealed. Pub. L. 103–325, title VI , § 602(f)(5)(B), Sept. 23, 1994 , 108 Stat. 2293
+# § 178. Repealed. Pub. L. 103–325, title VI, § 602(f)(5)(B) , Sept. 23, 1994 , 108 Stat. 2293
 

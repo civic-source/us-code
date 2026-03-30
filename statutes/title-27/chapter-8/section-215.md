@@ -3,9 +3,9 @@ title: "Section 215 - Labeling requirement"
 usc_title: 27
 usc_section: "215"
 chapter: 8
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "27 U.S.C. § 215"
-generated_at: "2026-03-30T08:04:09.913Z"
+generated_at: "2026-03-30T08:09:04.214Z"
 status: "active"
 ---
 

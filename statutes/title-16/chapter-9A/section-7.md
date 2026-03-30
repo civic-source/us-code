@@ -3,9 +3,9 @@ title: "Section 7 - Establishment of fish hatchery in West Virginia"
 usc_title: 16
 usc_section: "7"
 chapter: 9
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T08:03:52.409Z"
+generated_at: "2026-03-30T08:08:20.084Z"
 status: "active"
 ---
 

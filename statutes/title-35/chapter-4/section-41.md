@@ -3,9 +3,9 @@ title: "Section 41 - Patent fees; patent and trademark search systems"
 usc_title: 35
 usc_section: "41"
 chapter: 4
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "35 U.S.C. § 41"
-generated_at: "2026-03-30T08:04:38.639Z"
+generated_at: "2026-03-30T08:10:14.067Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
     - **(B)** The yearly fee for providing a library specified in section 12 with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.
 - **(e)** The Director may waive the payment of any fee for any service or material related to patents in connection with an occasional or incidental request made by a department or agency of the Government, or any officer thereof. The Director may provide any applicant issued a notice under section 132 with a copy of the specifications and drawings for all patents referred to in that notice without charge.
 - **(f)** The fees established in subsections (a) and (b) of this section may be adjusted by the Director on October 1, 1992 , and every year thereafter, to reflect any fluctuations occurring during the previous 12 months in the Consumer Price Index, as determined by the Secretary of Labor. Changes of less than 1 per centum may be ignored.
-- **[(g)** Repealed. Pub. L. 112–29 , § 11(e)(3), Sept. 16, 2011 , 125 Stat. 323 .]
+- **[(g)** Repealed. Pub. L. 112–29, § 11(e)(3) , Sept. 16, 2011 , 125 Stat. 323 .]
 - **(h)**
   - **(1)** Subject to paragraph (3), fees charged under subsections (a), (b), and (d)(1) shall be reduced by 50 percent with respect to their application to any small business concern as defined under section 3 of the Small Business Act, and to any independent inventor or nonprofit organization as defined in regulations issued by the Director.
   - **(2)** With respect to its application to any entity described in paragraph (1), any surcharge or fee charged under subsection (c) or (d) shall not be higher than the surcharge or fee required of any other entity under the same or substantially similar circumstances.

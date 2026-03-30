@@ -3,9 +3,9 @@ title: "Section 2615 - Prohibited acts"
 usc_title: 29
 usc_section: "2615"
 chapter: 28
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "29 U.S.C. § 2615"
-generated_at: "2026-03-30T08:04:29.619Z"
+generated_at: "2026-03-30T08:09:05.335Z"
 status: "active"
 ---
 

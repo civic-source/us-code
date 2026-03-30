@@ -3,9 +3,9 @@ title: "Section 1653 - Omitted"
 usc_title: 20
 usc_section: "1653"
 chapter: 37
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 1653"
-generated_at: "2026-03-30T08:03:44.142Z"
+generated_at: "2026-03-30T08:08:42.790Z"
 status: "omitted"
 ---
 

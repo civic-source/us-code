@@ -3,9 +3,9 @@ title: "Section 1065 - Use of commissary stores and MWR facilities: certain vete
 usc_title: 10
 usc_section: "1065"
 chapter: 54
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 1065"
-generated_at: "2026-03-30T08:03:31.097Z"
+generated_at: "2026-03-30T08:07:24.734Z"
 status: "active"
 ---
 

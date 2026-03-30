@@ -1,13 +1,13 @@
 ---
-title: "Section 772j - Repealed. Pub. L. 97–176 , § 14, May 17, 1982 , 96 Stat. 84"
+title: "Section 772j - Repealed. Pub. L. 97–176, § 14 , May 17, 1982 , 96 Stat. 84"
 usc_title: 16
 usc_section: "772j"
 chapter: 10
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 772j"
-generated_at: "2026-03-30T08:03:52.409Z"
+generated_at: "2026-03-30T08:08:20.084Z"
 status: "repealed"
 ---
 
-# §§ 772 to 772j. Repealed. Pub. L. 97–176 , § 14, May 17, 1982 , 96 Stat. 84
+# §§ 772 to 772j. Repealed. Pub. L. 97–176, § 14 , May 17, 1982 , 96 Stat. 84
 

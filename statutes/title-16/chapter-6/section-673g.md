@@ -3,9 +3,9 @@ title: "Section 673g - Plan for elk restoration and conservation; coordination o
 usc_title: 16
 usc_section: "673g"
 chapter: 6
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 673g"
-generated_at: "2026-03-30T08:03:52.400Z"
+generated_at: "2026-03-30T08:08:20.075Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 666e - Administration of acquired lands"
 usc_title: 16
 usc_section: "666e"
 chapter: 5
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 666e"
-generated_at: "2026-03-30T08:03:52.397Z"
+generated_at: "2026-03-30T08:08:20.072Z"
 status: "active"
 ---
 

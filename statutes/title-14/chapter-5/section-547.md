@@ -3,9 +3,9 @@ title: "Section 547 - Rewards for apprehension of persons interfering with aids 
 usc_title: 14
 usc_section: "547"
 chapter: 5
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "14 U.S.C. § 547"
-generated_at: "2026-03-30T08:03:38.547Z"
+generated_at: "2026-03-30T08:07:35.480Z"
 status: "active"
 ---
 

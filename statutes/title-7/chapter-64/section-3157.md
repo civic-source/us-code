@@ -3,9 +3,9 @@ title: "Section 3157 - Competitive, special, and facilities research grants"
 usc_title: 7
 usc_section: "3157"
 chapter: 64
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 3157"
-generated_at: "2026-03-30T08:03:27.709Z"
+generated_at: "2026-03-30T08:07:12.811Z"
 status: "active"
 ---
 
@@ -151,7 +151,7 @@ status: "active"
   - **(3)** An entity that is eligible to receive a grant under paragraph (2) is—
     - **(A)** a State agricultural experiment station (as defined in section 3103 of this title );
     - **(B)** a cooperative extension service (as defined in such section); and
-    - **(C)** a land-grant college or university (as defined in such section) .
+    - **(C)** a land-grant college or university (as defined in such section).
   - **(4)** The Secretary shall award grants under paragraph (2) to not fewer than 2 and not more than 5 eligible entities described in paragraph (3) that represent a diversity of regions, commodities, and agricultural or food production issues.
   - **(5)** The term of a grant awarded under paragraph (2) shall be not longer than 5 years.
   - **(6)** There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.

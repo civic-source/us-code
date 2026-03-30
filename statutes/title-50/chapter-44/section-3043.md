@@ -3,9 +3,9 @@ title: "Section 3043 - Annual national security strategy report"
 usc_title: 50
 usc_section: "3043"
 chapter: 44
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 3043"
-generated_at: "2026-03-30T08:05:54.837Z"
+generated_at: "2026-03-30T08:10:51.524Z"
 status: "active"
 ---
 

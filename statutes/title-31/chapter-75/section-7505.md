@@ -3,9 +3,9 @@ title: "Section 7505 - Regulations"
 usc_title: 31
 usc_section: "7505"
 chapter: 75
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "31 U.S.C. § 7505"
-generated_at: "2026-03-30T08:04:53.051Z"
+generated_at: "2026-03-30T08:10:12.423Z"
 status: "active"
 ---
 

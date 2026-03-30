@@ -3,9 +3,9 @@ title: "Section 5925b - Organic agriculture research and extension initiative"
 usc_title: 7
 usc_section: "5925b"
 chapter: 88
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 5925b"
-generated_at: "2026-03-30T08:03:27.729Z"
+generated_at: "2026-03-30T08:07:12.829Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
     - **(A)** $18,000,000 for fiscal year 2009;
     - **(B)** $20,000,000 for each of fiscal years 2010 through 2012;
-    - **(C)** $20,000,000 for each of fiscal years 2014 through 2018; and
+    - **(C)** $20,000,000 for each of fiscal years 2014 through 2018; and 1 1 So in original. The word “and” probably should not appear.
     - **(D)** $20,000,000 for each of fiscal years 2019 through 2020;
     - **(E)** $25,000,000 for fiscal year 2021;
     - **(F)** $30,000,000 for fiscal year 2022; and

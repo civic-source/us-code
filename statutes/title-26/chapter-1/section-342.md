@@ -1,13 +1,13 @@
 ---
-title: "Section 342 - Repealed. Pub. L. 94–455, title XIX , § 1901(a)(47), Oct. 4, 1976 , 90 Stat. 1772 ]"
+title: "Section 342 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(47) , Oct. 4, 1976 , 90 Stat. 1772 ]"
 usc_title: 26
 usc_section: "342"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 342"
-generated_at: "2026-03-30T08:04:18.620Z"
+generated_at: "2026-03-30T08:10:09.475Z"
 status: "repealed"
 ---
 
-# [§ 342. Repealed. Pub. L. 94–455, title XIX , § 1901(a)(47), Oct. 4, 1976 , 90 Stat. 1772 ]
+# [§ 342. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(47) , Oct. 4, 1976 , 90 Stat. 1772 ]
 

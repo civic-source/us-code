@@ -3,9 +3,9 @@ title: "Section 2009cc - Definitions"
 usc_title: 7
 usc_section: "2009cc"
 chapter: 50
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 2009cc"
-generated_at: "2026-03-30T08:03:27.681Z"
+generated_at: "2026-03-30T08:07:12.786Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 281 - Repealed. Pub. L. 100–418, title V , § 5113, Aug. 23, 1988 , 102 Stat. 1432"
+title: "Section 281 - Repealed. Pub. L. 100–418, title V, § 5113 , Aug. 23, 1988 , 102 Stat. 1432"
 usc_title: 15
 usc_section: "281"
 chapter: 7
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 281"
-generated_at: "2026-03-30T08:03:38.200Z"
+generated_at: "2026-03-30T08:08:11.787Z"
 status: "repealed"
 ---
 
-# §§ 280, 281. Repealed. Pub. L. 100–418, title V , § 5113, Aug. 23, 1988 , 102 Stat. 1432
+# §§ 280, 281. Repealed. Pub. L. 100–418, title V, § 5113 , Aug. 23, 1988 , 102 Stat. 1432
 

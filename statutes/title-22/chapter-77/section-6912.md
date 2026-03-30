@@ -3,9 +3,9 @@ title: "Section 6912 - Functions of the Commission"
 usc_title: 22
 usc_section: "6912"
 chapter: 77
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "22 U.S.C. § 6912"
-generated_at: "2026-03-30T08:04:07.223Z"
+generated_at: "2026-03-30T08:08:48.642Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7333 - Nondiscrimination against alcohol and drug abusers and pe
 usc_title: 38
 usc_section: "7333"
 chapter: 73
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "38 U.S.C. § 7333"
-generated_at: "2026-03-30T08:05:13.837Z"
+generated_at: "2026-03-30T08:10:31.171Z"
 status: "active"
 ---
 

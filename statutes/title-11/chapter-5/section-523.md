@@ -3,9 +3,9 @@ title: "Section 523 - Exceptions to discharge"
 usc_title: 11
 usc_section: "523"
 chapter: 5
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "11 U.S.C. § 523"
-generated_at: "2026-03-30T08:03:38.861Z"
+generated_at: "2026-03-30T08:07:46.173Z"
 status: "active"
 ---
 
@@ -51,7 +51,9 @@ status: "active"
   - **(11)** provided in any final judgment, unreviewable order, or consent order or decree entered in any court of the United States or of any State, issued by a Federal depository institutions regulatory agency, or contained in any settlement agreement entered into by the debtor, arising from any act of fraud or defalcation while acting in a fiduciary capacity committed with respect to any depository institution or insured credit union;
   - **(12)** for malicious or reckless failure to fulfill any commitment by the debtor to a Federal depository institutions regulatory agency to maintain the capital of an insured depository institution, except that this paragraph shall not extend any such commitment which would otherwise be terminated due to any act of such agency;
   - **(13)** for any payment of an order of restitution issued under title 18, United States Code;
-  - **(14)** incurred to pay a tax to the United States that would be nondischargeable pursuant to paragraph (1); (14A) incurred to pay a tax to a governmental unit, other than the United States, that would be nondischargeable under paragraph (1); (14B) incurred to pay fines or penalties imposed under Federal election law;
+  - **(14)** incurred to pay a tax to the United States that would be nondischargeable pursuant to paragraph (1);
+  - **(14A)** incurred to pay a tax to a governmental unit, other than the United States, that would be nondischargeable under paragraph (1);
+  - **(14B)** incurred to pay fines or penalties imposed under Federal election law;
   - **(15)** to a spouse, former spouse, or child of the debtor and not of the kind described in paragraph (5) that is incurred by the debtor in the course of a divorce or separation or in connection with a separation agreement, divorce decree or other order of a court of record, or a determination made in accordance with State or territorial law by a governmental unit;
   - **(16)** for a fee or assessment that becomes due and payable after the order for relief to a membership association with respect to the debtor’s interest in a unit that has condominium ownership, in a share of a cooperative corporation, or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownership interest in such unit, such corporation, or such lot, but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case;
   - **(17)** for a fee imposed on a prisoner by any court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses assessed with respect to such filing, regardless of an assertion of poverty by the debtor under subsection (b) or (f)(2) of section 1915 of title 28 (or a similar non-Federal law), or the debtor’s status as a prisoner, as defined in section 1915(h) of title 28 (or a similar non-Federal law);

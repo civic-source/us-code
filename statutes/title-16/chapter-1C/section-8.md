@@ -3,9 +3,9 @@ title: "Section 8 - Confidentiality"
 usc_title: 16
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T08:03:52.373Z"
+generated_at: "2026-03-30T08:08:20.050Z"
 status: "active"
 ---
 

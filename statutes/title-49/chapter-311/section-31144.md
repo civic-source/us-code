@@ -3,9 +3,9 @@ title: "Section 31144 - Safety fitness of owners and operators"
 usc_title: 49
 usc_section: "31144"
 chapter: 311
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "49 U.S.C. § 31144"
-generated_at: "2026-03-30T08:06:03.190Z"
+generated_at: "2026-03-30T08:11:00.515Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
   - **(2)** In the regulations issued pursuant to paragraph (1), the Secretary shall establish the elements of the safety review, including basic safety management controls. In establishing such elements, the Secretary shall consider their effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
   - **(3)** The Secretary shall phase in the requirements of paragraph (1) in a manner that takes into account the availability of certified motor carrier safety auditors.
   - **(4)** Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
-  - **[(5)** Repealed. Pub. L. 114–94, div. A, title V , § 5101(e)(1), Dec. 4, 2015 , 129 Stat. 1525 .]
+  - **[(5)** Repealed. Pub. L. 114–94, div. A, title V, § 5101(e)(1) , Dec. 4, 2015 , 129 Stat. 1525 .]
   - **(6)**
     - **(A)** In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.
     - **(B)** In the regulations issued pursuant to subparagraph (A), the Secretary shall establish the elements of the consumer protections standards review, including basic management controls. In establishing the elements, the Secretary shall consider the effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.

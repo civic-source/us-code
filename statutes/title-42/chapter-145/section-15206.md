@@ -3,9 +3,9 @@ title: "Section 15206 - National Medal of Valor Office"
 usc_title: 42
 usc_section: "15206"
 chapter: 145
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 15206"
-generated_at: "2026-03-30T08:05:50.659Z"
+generated_at: "2026-03-30T08:10:46.434Z"
 status: "active"
 ---
 

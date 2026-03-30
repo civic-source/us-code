@@ -3,9 +3,9 @@ title: "Section 4613 - Implementation of amendments made by Agricultural Researc
 usc_title: 7
 usc_section: "4613"
 chapter: 77
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 4613"
-generated_at: "2026-03-30T08:03:27.720Z"
+generated_at: "2026-03-30T08:07:12.822Z"
 status: "active"
 ---
 

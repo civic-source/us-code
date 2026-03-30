@@ -3,9 +3,9 @@ title: "Section 720e - Judicial review"
 usc_title: 15
 usc_section: "720e"
 chapter: 15
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 720e"
-generated_at: "2026-03-30T08:03:38.233Z"
+generated_at: "2026-03-30T08:08:11.821Z"
 status: "active"
 ---
 

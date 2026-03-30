@@ -3,9 +3,9 @@ title: "Section 6962a - Cooperative agreements"
 usc_title: 7
 usc_section: "6962a"
 chapter: 98
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 6962a"
-generated_at: "2026-03-30T08:03:27.743Z"
+generated_at: "2026-03-30T08:07:12.842Z"
 status: "active"
 ---
 

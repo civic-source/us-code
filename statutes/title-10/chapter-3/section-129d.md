@@ -3,9 +3,9 @@ title: "Section 129d - Disclosure to litigation support contractors"
 usc_title: 10
 usc_section: "129d"
 chapter: 3
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 129d"
-generated_at: "2026-03-30T08:03:31.062Z"
+generated_at: "2026-03-30T08:07:24.697Z"
 status: "active"
 ---
 

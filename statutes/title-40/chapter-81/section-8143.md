@@ -3,9 +3,9 @@ title: "Section 8143 - Heat"
 usc_title: 40
 usc_section: "8143"
 chapter: 81
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "40 U.S.C. § 8143"
-generated_at: "2026-03-30T08:04:58.405Z"
+generated_at: "2026-03-30T08:10:26.887Z"
 status: "active"
 ---
 

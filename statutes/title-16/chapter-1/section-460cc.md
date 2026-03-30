@@ -3,9 +3,9 @@ title: "Section 460cc - Establishment"
 usc_title: 16
 usc_section: "460cc"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 460cc"
-generated_at: "2026-03-30T08:03:52.352Z"
+generated_at: "2026-03-30T08:08:20.029Z"
 status: "active"
 ---
 

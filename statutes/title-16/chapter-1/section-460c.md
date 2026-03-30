@@ -1,13 +1,13 @@
 ---
-title: "Section 460c - Repealed. Pub. L. 85–767 , § 2 [19, 21, 23, 33], Aug. 27, 1958 , 72 Stat. 919"
+title: "Section 460c - Repealed. Pub. L. 85–767, § 2 [19, 21, 23, 33] , Aug. 27, 1958 , 72 Stat. 919"
 usc_title: 16
 usc_section: "460c"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 460c"
-generated_at: "2026-03-30T08:03:52.343Z"
+generated_at: "2026-03-30T08:08:20.020Z"
 status: "repealed"
 ---
 
-# §§ 460b, 460c. Repealed. Pub. L. 85–767 , § 2 [19, 21, 23, 33], Aug. 27, 1958 , 72 Stat. 919
+# §§ 460b, 460c. Repealed. Pub. L. 85–767, § 2 [19, 21, 23, 33] , Aug. 27, 1958 , 72 Stat. 919
 

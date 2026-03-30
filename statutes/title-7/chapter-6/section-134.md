@@ -1,13 +1,13 @@
 ---
-title: "Section 134 - Repealed. June 25, 1947, ch. 125 , § 16, 61 Stat. 172"
+title: "Section 134 - Repealed. June 25, 1947, ch. 125, § 16 , 61 Stat. 172"
 usc_title: 7
 usc_section: "134"
 chapter: 6
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 134"
-generated_at: "2026-03-30T08:03:27.599Z"
+generated_at: "2026-03-30T08:07:12.712Z"
 status: "repealed"
 ---
 
-# §§ 121 to 134. Repealed. June 25, 1947, ch. 125 , § 16, 61 Stat. 172
+# §§ 121 to 134. Repealed. June 25, 1947, ch. 125, § 16 , 61 Stat. 172
 

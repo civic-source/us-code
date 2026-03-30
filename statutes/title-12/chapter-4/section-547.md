@@ -3,9 +3,9 @@ title: "Section 547 - Omitted"
 usc_title: 12
 usc_section: "547"
 chapter: 4
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 547"
-generated_at: "2026-03-30T08:03:36.159Z"
+generated_at: "2026-03-30T08:07:59.213Z"
 status: "omitted"
 ---
 

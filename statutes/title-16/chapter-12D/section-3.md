@@ -1,13 +1,13 @@
 ---
-title: "Section 3 - Repealed. Pub. L. 87–728 , § 3, Oct. 1, 1962 , 76 Stat. 678"
+title: "Section 3 - Repealed. Pub. L. 87–728, § 3 , Oct. 1, 1962 , 76 Stat. 678"
 usc_title: 16
 usc_section: "3"
 chapter: 12
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T08:03:52.425Z"
+generated_at: "2026-03-30T08:08:20.098Z"
 status: "repealed"
 ---
 
-# § 835c–3. Repealed. Pub. L. 87–728 , § 3, Oct. 1, 1962 , 76 Stat. 678
+# § 835c–3. Repealed. Pub. L. 87–728, § 3 , Oct. 1, 1962 , 76 Stat. 678
 

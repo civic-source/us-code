@@ -3,9 +3,9 @@ title: "Section 79 - Official inspection"
 usc_title: 7
 usc_section: "79"
 chapter: 3
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 79"
-generated_at: "2026-03-30T08:03:27.597Z"
+generated_at: "2026-03-30T08:07:12.710Z"
 status: "active"
 ---
 
@@ -63,7 +63,7 @@ status: "active"
         - **(II)** had that exception revoked between September 30, 2015 , and December 20, 2018 .
       - **(ii)** Within 90 days of notification from an eligible grain handling facility, the Secretary shall restore an exception described in clause (i)(I) with an official agency if—
         - **(I)** the eligible grain handling facility and the former excepted official agency agree to restore that exception; and
-        - **(II)** the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of enactment of the Agriculture Improvement Act of 2018.
+        - **(II)** the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of December 20, 2018 .
   - **(3)** Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain is physically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
   - **(4)** No State or local governmental agency or person shall provide any official inspection for the purposes of this chapter except pursuant to an unsuspended and unrevoked delegation of authority or designation by the Secretary, as provided in this section, or as provided in section 84(a) of this title .
 - **(g)**

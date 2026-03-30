@@ -3,9 +3,9 @@ title: "Section 3243 - Monitoring"
 usc_title: 29
 usc_section: "3243"
 chapter: 32
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "29 U.S.C. § 3243"
-generated_at: "2026-03-30T08:04:29.633Z"
+generated_at: "2026-03-30T08:09:05.349Z"
 status: "active"
 ---
 

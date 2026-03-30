@@ -1,15 +1,13 @@
 ---
-title: "Section 1 - Court of the United States defined"
+title: "Section 1 - Repealed. Pub. L. 98–473, title II, § 218(a)(1) , Oct. 12, 1984 , 98 Stat. 2027 ]"
 usc_title: 18
 usc_section: "1"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "18 U.S.C. § 1"
-generated_at: "2026-03-30T08:03:42.162Z"
-status: "active"
+generated_at: "2026-03-30T08:08:28.989Z"
+status: "repealed"
 ---
 
-# § 23. 1 1 So in original. No section 22 has been enacted. Court of the United States defined
-
-As used in this title, except where otherwise expressly provided 2 2 So in original. Probably should be followed by a comma. the term “court of the United States” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands.
+# [§ 1. Repealed. Pub. L. 98–473, title II, § 218(a)(1) , Oct. 12, 1984 , 98 Stat. 2027 ]
 

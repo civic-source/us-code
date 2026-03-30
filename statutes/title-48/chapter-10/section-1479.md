@@ -1,13 +1,13 @@
 ---
-title: "Section 1479 - Repealed. Pub. L. 98–213 , § 16(w)–(ee), Dec. 8, 1983 , 97 Stat. 1463"
+title: "Section 1479 - Repealed. Pub. L. 98–213, § 16(w) –(ee), Dec. 8, 1983 , 97 Stat. 1463"
 usc_title: 48
 usc_section: "1479"
 chapter: 10
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "48 U.S.C. § 1479"
-generated_at: "2026-03-30T08:05:57.212Z"
+generated_at: "2026-03-30T08:10:49.107Z"
 status: "repealed"
 ---
 
-# §§ 1471 to 1479. Repealed. Pub. L. 98–213 , § 16(w)–(ee), Dec. 8, 1983 , 97 Stat. 1463
+# §§ 1471 to 1479. Repealed. Pub. L. 98–213, § 16(w) –(ee), Dec. 8, 1983 , 97 Stat. 1463
 

@@ -3,9 +3,9 @@ title: "Section 230104 - Powers"
 usc_title: 36
 usc_section: "230104"
 chapter: 2301
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "36 U.S.C. § 230104"
-generated_at: "2026-03-30T08:05:02.108Z"
+generated_at: "2026-03-30T08:10:22.951Z"
 status: "active"
 ---
 

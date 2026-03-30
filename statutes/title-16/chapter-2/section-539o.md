@@ -3,9 +3,9 @@ title: "Section 539o - Ancient Bristlecone Pine Forest"
 usc_title: 16
 usc_section: "539o"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 539o"
-generated_at: "2026-03-30T08:03:52.381Z"
+generated_at: "2026-03-30T08:08:20.057Z"
 status: "active"
 ---
 

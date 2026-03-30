@@ -3,9 +3,9 @@ title: "Section 0 - National Mental Health and Substance Use Policy Laboratory"
 usc_title: 42
 usc_section: "0"
 chapter: 6
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 0"
-generated_at: "2026-03-30T08:05:50.086Z"
+generated_at: "2026-03-30T08:10:45.858Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1140 - Information for families of individuals involved in accid
 usc_title: 49
 usc_section: "1140"
 chapter: 11
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "49 U.S.C. § 1140"
-generated_at: "2026-03-30T08:06:03.147Z"
+generated_at: "2026-03-30T08:11:00.470Z"
 status: "active"
 ---
 

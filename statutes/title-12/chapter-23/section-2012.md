@@ -3,9 +3,9 @@ title: "Section 2012 - Board of directors"
 usc_title: 12
 usc_section: "2012"
 chapter: 23
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 2012"
-generated_at: "2026-03-30T08:03:36.238Z"
+generated_at: "2026-03-30T08:07:59.292Z"
 status: "active"
 ---
 

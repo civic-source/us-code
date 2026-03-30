@@ -1,13 +1,13 @@
 ---
-title: "Section 741 - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641 , eff. Jan. 1, 1957"
+title: "Section 741 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641 , eff. Jan. 1, 1957"
 usc_title: 50
 usc_section: "741"
 chapter: 22
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 741"
-generated_at: "2026-03-30T08:05:54.806Z"
+generated_at: "2026-03-30T08:10:51.493Z"
 status: "repealed"
 ---
 
-# § 741. Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641 , eff. Jan. 1, 1957
+# § 741. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641 , eff. Jan. 1, 1957
 

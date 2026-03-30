@@ -1,13 +1,13 @@
 ---
-title: "Section 4603 - Repealed. Pub. L. 115–232, div. A, title XVII , § 1766(a), Aug. 13, 2018 , 132 Stat. 2232"
+title: "Section 4603 - Repealed. Pub. L. 115–232, div. A, title XVII, § 1766(a) , Aug. 13, 2018 , 132 Stat. 2232"
 usc_title: 50
 usc_section: "4603"
 chapter: 56
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 4603"
-generated_at: "2026-03-30T08:05:54.867Z"
+generated_at: "2026-03-30T08:10:51.553Z"
 status: "repealed"
 ---
 
-# § 4603. Repealed. Pub. L. 115–232, div. A, title XVII , § 1766(a), Aug. 13, 2018 , 132 Stat. 2232
+# § 4603. Repealed. Pub. L. 115–232, div. A, title XVII, § 1766(a) , Aug. 13, 2018 , 132 Stat. 2232
 

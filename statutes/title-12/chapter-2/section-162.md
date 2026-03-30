@@ -1,13 +1,13 @@
 ---
-title: "Section 162 - Repealed. Pub. L. 86–671 , § 6, July 14, 1960 , 74 Stat. 552 ."
+title: "Section 162 - Repealed. Pub. L. 86–671, § 6 , July 14, 1960 , 74 Stat. 552 ."
 usc_title: 12
 usc_section: "162"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 162"
-generated_at: "2026-03-30T08:03:36.150Z"
+generated_at: "2026-03-30T08:07:59.202Z"
 status: "repealed"
 ---
 
-# § 162. Repealed. Pub. L. 86–671 , § 6, July 14, 1960 , 74 Stat. 552 .
+# § 162. Repealed. Pub. L. 86–671, § 6 , July 14, 1960 , 74 Stat. 552 .
 

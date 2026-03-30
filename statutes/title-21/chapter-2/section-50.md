@@ -1,13 +1,13 @@
 ---
-title: "Section 50 - Repealed. Pub. L. 104–128 , § 2, Apr. 9, 1996 , 110 Stat. 1198"
+title: "Section 50 - Repealed. Pub. L. 104–128, § 2 , Apr. 9, 1996 , 110 Stat. 1198"
 usc_title: 21
 usc_section: "50"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "21 U.S.C. § 50"
-generated_at: "2026-03-30T08:03:57.011Z"
+generated_at: "2026-03-30T08:09:00.598Z"
 status: "repealed"
 ---
 
-# §§ 41 to 50. Repealed. Pub. L. 104–128 , § 2, Apr. 9, 1996 , 110 Stat. 1198
+# §§ 41 to 50. Repealed. Pub. L. 104–128, § 2 , Apr. 9, 1996 , 110 Stat. 1198
 

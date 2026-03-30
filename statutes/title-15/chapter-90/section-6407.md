@@ -3,9 +3,9 @@ title: "Section 6407 - Lobbying restrictions"
 usc_title: 15
 usc_section: "6407"
 chapter: 90
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 6407"
-generated_at: "2026-03-30T08:03:38.310Z"
+generated_at: "2026-03-30T08:08:11.902Z"
 status: "active"
 ---
 

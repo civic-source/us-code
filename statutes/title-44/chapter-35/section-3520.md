@@ -3,9 +3,9 @@ title: "Section 3520 - Establishment of task force on information collection and
 usc_title: 44
 usc_section: "3520"
 chapter: 35
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "44 U.S.C. § 3520"
-generated_at: "2026-03-30T08:05:24.747Z"
+generated_at: "2026-03-30T08:10:36.574Z"
 status: "active"
 ---
 

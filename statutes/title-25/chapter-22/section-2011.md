@@ -3,9 +3,9 @@ title: "Section 2011 - Policy for Indian control of Indian education"
 usc_title: 25
 usc_section: "2011"
 chapter: 22
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "25 U.S.C. § 2011"
-generated_at: "2026-03-30T08:04:00.371Z"
+generated_at: "2026-03-30T08:08:55.721Z"
 status: "active"
 ---
 

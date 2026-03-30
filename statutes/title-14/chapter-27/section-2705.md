@@ -1,13 +1,13 @@
 ---
-title: "Section 2705 - Repealed. Pub. L. 115–282, title III , § 316, Dec. 4, 2018 , 132 Stat. 4250 ]"
+title: "Section 2705 - Repealed. Pub. L. 115–282, title III, § 316 , Dec. 4, 2018 , 132 Stat. 4250 ]"
 usc_title: 14
 usc_section: "2705"
 chapter: 27
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "14 U.S.C. § 2705"
-generated_at: "2026-03-30T08:03:38.552Z"
+generated_at: "2026-03-30T08:07:35.487Z"
 status: "repealed"
 ---
 
-# [§ 2705. Repealed. Pub. L. 115–282, title III , § 316, Dec. 4, 2018 , 132 Stat. 4250 ]
+# [§ 2705. Repealed. Pub. L. 115–282, title III, § 316 , Dec. 4, 2018 , 132 Stat. 4250 ]
 

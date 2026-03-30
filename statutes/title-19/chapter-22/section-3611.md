@@ -1,13 +1,13 @@
 ---
-title: "Section 3611 - Repealed. Pub. L. 104–127, title II , § 201(b), Apr. 4, 1996 , 110 Stat. 951"
+title: "Section 3611 - Repealed. Pub. L. 104–127, title II, § 201(b) , Apr. 4, 1996 , 110 Stat. 951"
 usc_title: 19
 usc_section: "3611"
 chapter: 22
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "19 U.S.C. § 3611"
-generated_at: "2026-03-30T08:03:49.441Z"
+generated_at: "2026-03-30T08:08:17.944Z"
 status: "repealed"
 ---
 
-# § 3611. Repealed. Pub. L. 104–127, title II , § 201(b), Apr. 4, 1996 , 110 Stat. 951
+# § 3611. Repealed. Pub. L. 104–127, title II, § 201(b) , Apr. 4, 1996 , 110 Stat. 951
 

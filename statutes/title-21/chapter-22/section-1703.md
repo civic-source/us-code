@@ -3,9 +3,9 @@ title: "Section 1703 - Appointment and duties of Director and Deputy Directors"
 usc_title: 21
 usc_section: "1703"
 chapter: 22
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "21 U.S.C. § 1703"
-generated_at: "2026-03-30T08:03:57.082Z"
+generated_at: "2026-03-30T08:09:00.668Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
   - **(12)** shall ensure that no Federal funds appropriated to the Office of National Drug Control Policy shall be expended for any study or contract relating to the legalization (for a medical use or any other use) of a substance listed in schedule I of section 812 of this title and take such actions as necessary to oppose any attempt to legalize the use of a substance (in any form) that—
     - **(A)** is listed in schedule I of section 812 of this title ; and
     - **(B)** has not been approved for use for medical purposes by the Food and Drug Administration;
-  - **(13)** Repealed. Pub. L. 115–271, title VIII , § 8221(b)(1)(A), Oct. 24, 2018 , 132 Stat. 4142 .
+  - **(13)** Repealed. Pub. L. 115–271, title VIII, § 8221(b)(1)(A) , Oct. 24, 2018 , 132 Stat. 4142 .
   - **(14)** shall submit to the appropriate congressional committees on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
     - **(A)** each of the evaluations received by the Director under section 1705(g)(2) of this title ; and
     - **(B)** the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under section 1705(c) 2 of this title;
@@ -59,7 +59,7 @@ status: "active"
       - **(i)** encouraging all National Drug Control Program agencies to provide all appropriate and relevant information; and
       - **(ii)** supporting the dissemination of information to all interested entities;
   - **(16)** shall coordinate with the private sector to promote private research and development of medications to treat addiction;
-  - **(17)** Repealed. Pub. L. 115–271, title VIII , § 8221(b)(1)(A), Oct. 24, 2018 , 132 Stat. 4142 .
+  - **(17)** Repealed. Pub. L. 115–271, title VIII, § 8221(b)(1)(A) , Oct. 24, 2018 , 132 Stat. 4142 .
   - **(18)** shall monitor and evaluate the allocation of resources among Federal law enforcement agencies in response to significant local and regional drug trafficking and production threats;
   - **(19)** shall submit an annual report to Congress detailing how the Office of National Drug Control Policy has consulted with and assisted State, local, and tribal governments with respect to the formulation and implementation of the National Drug Control Strategy and other relevant issues;
   - **(20)** shall, within 1 year after December 29, 2006 , report to Congress on the impact of each Federal drug reduction strategy upon the availability, addiction rate, use rate, and other harms of illegal drugs; and

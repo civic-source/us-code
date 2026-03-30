@@ -3,9 +3,9 @@ title: "Section 1411 - Authorization; allotment; use of funds; authorization of 
 usc_title: 20
 usc_section: "1411"
 chapter: 33
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 1411"
-generated_at: "2026-03-30T08:03:44.133Z"
+generated_at: "2026-03-30T08:08:42.782Z"
 status: "active"
 ---
 

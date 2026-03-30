@@ -1,13 +1,13 @@
 ---
-title: "Section 514 - Repealed. Pub. L. 94–588 , § 17(a)(6), Oct. 22, 1976 , 90 Stat. 2962"
+title: "Section 514 - Repealed. Pub. L. 94–588, § 17(a)(6) , Oct. 22, 1976 , 90 Stat. 2962"
 usc_title: 16
 usc_section: "514"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 514"
-generated_at: "2026-03-30T08:03:52.377Z"
+generated_at: "2026-03-30T08:08:20.053Z"
 status: "repealed"
 ---
 
-# § 514. Repealed. Pub. L. 94–588 , § 17(a)(6), Oct. 22, 1976 , 90 Stat. 2962
+# § 514. Repealed. Pub. L. 94–588, § 17(a)(6) , Oct. 22, 1976 , 90 Stat. 2962
 

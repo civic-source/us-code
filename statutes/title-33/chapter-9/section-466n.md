@@ -1,13 +1,13 @@
 ---
-title: "Section 466n - Repealed. Pub. L. 91–224, title I , § 102, Apr. 3, 1970 , 84 Stat. 91"
+title: "Section 466n - Repealed. Pub. L. 91–224, title I, § 102 , Apr. 3, 1970 , 84 Stat. 91"
 usc_title: 33
 usc_section: "466n"
 chapter: 9
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "33 U.S.C. § 466n"
-generated_at: "2026-03-30T08:04:51.652Z"
+generated_at: "2026-03-30T08:10:20.102Z"
 status: "repealed"
 ---
 
-# §§ 466m, 466n. Repealed. Pub. L. 91–224, title I , § 102, Apr. 3, 1970 , 84 Stat. 91
+# §§ 466m, 466n. Repealed. Pub. L. 91–224, title I, § 102 , Apr. 3, 1970 , 84 Stat. 91
 

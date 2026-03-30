@@ -1,13 +1,13 @@
 ---
-title: "Section 526 - Repealed. Pub. L. 100–17, title I , § 135(e), Apr. 2, 1987 , 101 Stat. 174"
+title: "Section 526 - Repealed. Pub. L. 100–17, title I, § 135(e) , Apr. 2, 1987 , 101 Stat. 174"
 usc_title: 33
 usc_section: "526"
 chapter: 11
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "33 U.S.C. § 526"
-generated_at: "2026-03-30T08:04:51.655Z"
+generated_at: "2026-03-30T08:10:20.104Z"
 status: "repealed"
 ---
 
-# § 526. Repealed. Pub. L. 100–17, title I , § 135(e), Apr. 2, 1987 , 101 Stat. 174
+# § 526. Repealed. Pub. L. 100–17, title I, § 135(e) , Apr. 2, 1987 , 101 Stat. 174
 

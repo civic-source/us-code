@@ -3,9 +3,9 @@ title: "Section 20920 - Public access to sex offender information through the In
 usc_title: 34
 usc_section: "20920"
 chapter: 209
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "34 U.S.C. § 20920"
-generated_at: "2026-03-30T08:04:43.690Z"
+generated_at: "2026-03-30T08:10:14.696Z"
 status: "active"
 ---
 

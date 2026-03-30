@@ -1,13 +1,13 @@
 ---
-title: "Section 8753 - Repealed. Pub. L. 113–79, title I , § 1101, Feb. 7, 2014 , 128 Stat. 658"
+title: "Section 8753 - Repealed. Pub. L. 113–79, title I, § 1101 , Feb. 7, 2014 , 128 Stat. 658"
 usc_title: 7
 usc_section: "8753"
 chapter: 113
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 8753"
-generated_at: "2026-03-30T08:03:27.774Z"
+generated_at: "2026-03-30T08:07:12.871Z"
 status: "repealed"
 ---
 
-# § 8753. Repealed. Pub. L. 113–79, title I , § 1101, Feb. 7, 2014 , 128 Stat. 658
+# § 8753. Repealed. Pub. L. 113–79, title I, § 1101 , Feb. 7, 2014 , 128 Stat. 658
 

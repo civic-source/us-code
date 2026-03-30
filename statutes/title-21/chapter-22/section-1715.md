@@ -3,9 +3,9 @@ title: "Section 1715 - GAO Audit"
 usc_title: 21
 usc_section: "1715"
 chapter: 22
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "21 U.S.C. § 1715"
-generated_at: "2026-03-30T08:03:57.086Z"
+generated_at: "2026-03-30T08:09:00.671Z"
 status: "active"
 ---
 

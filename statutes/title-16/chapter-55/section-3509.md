@@ -1,13 +1,13 @@
 ---
-title: "Section 3509 - Repealed. Pub. L. 106–514 , § 4(a)(3), Nov. 13, 2000 , 114 Stat. 2396"
+title: "Section 3509 - Repealed. Pub. L. 106–514, § 4(a)(3) , Nov. 13, 2000 , 114 Stat. 2396"
 usc_title: 16
 usc_section: "3509"
 chapter: 55
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 3509"
-generated_at: "2026-03-30T08:03:52.484Z"
+generated_at: "2026-03-30T08:08:20.247Z"
 status: "repealed"
 ---
 
-# § 3509. Repealed. Pub. L. 106–514 , § 4(a)(3), Nov. 13, 2000 , 114 Stat. 2396
+# § 3509. Repealed. Pub. L. 106–514, § 4(a)(3) , Nov. 13, 2000 , 114 Stat. 2396
 

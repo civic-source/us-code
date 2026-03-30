@@ -3,9 +3,9 @@ title: "Section 6689 - Failure to file notice of redetermination of foreign tax"
 usc_title: 26
 usc_section: "6689"
 chapter: 68
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 6689"
-generated_at: "2026-03-30T08:04:18.777Z"
+generated_at: "2026-03-30T08:10:09.621Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 323 - Donations and credits"
 usc_title: 23
 usc_section: "323"
 chapter: 3
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "23 U.S.C. § 323"
-generated_at: "2026-03-30T08:03:55.190Z"
+generated_at: "2026-03-30T08:09:01.056Z"
 status: "active"
 ---
 

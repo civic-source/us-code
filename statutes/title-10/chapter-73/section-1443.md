@@ -1,13 +1,13 @@
 ---
-title: "Section 1443 - Repealed. Pub. L. 92–425 , § 1(2)(B), Sept. 21, 1972 , 86 Stat. 706 ]"
+title: "Section 1443 - Repealed. Pub. L. 92–425, § 1(2)(B) , Sept. 21, 1972 , 86 Stat. 706 ]"
 usc_title: 10
 usc_section: "1443"
 chapter: 73
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 1443"
-generated_at: "2026-03-30T08:03:31.112Z"
+generated_at: "2026-03-30T08:07:24.749Z"
 status: "repealed"
 ---
 
-# [§ 1443. Repealed. Pub. L. 92–425 , § 1(2)(B), Sept. 21, 1972 , 86 Stat. 706 ]
+# [§ 1443. Repealed. Pub. L. 92–425, § 1(2)(B) , Sept. 21, 1972 , 86 Stat. 706 ]
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 1255 - Repealed. Pub. L. 90–130 , § 1(6), Nov. 8, 1967 , 81 Stat. 374 ]"
+title: "Section 1255 - Repealed. Pub. L. 90–130, § 1(6) , Nov. 8, 1967 , 81 Stat. 374 ]"
 usc_title: 10
 usc_section: "1255"
 chapter: 63
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 1255"
-generated_at: "2026-03-30T08:03:31.108Z"
+generated_at: "2026-03-30T08:07:24.746Z"
 status: "repealed"
 ---
 
-# [§ 1255. Repealed. Pub. L. 90–130 , § 1(6), Nov. 8, 1967 , 81 Stat. 374 ]
+# [§ 1255. Repealed. Pub. L. 90–130, § 1(6) , Nov. 8, 1967 , 81 Stat. 374 ]
 

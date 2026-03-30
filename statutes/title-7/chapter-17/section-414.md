@@ -1,13 +1,13 @@
 ---
-title: "Section 414 - Repealed. Aug. 9, 1955, ch. 632 , § 2, 69 Stat. 553"
+title: "Section 414 - Repealed. Aug. 9, 1955, ch. 632, § 2 , 69 Stat. 553"
 usc_title: 7
 usc_section: "414"
 chapter: 17
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 414"
-generated_at: "2026-03-30T08:03:27.621Z"
+generated_at: "2026-03-30T08:07:12.732Z"
 status: "repealed"
 ---
 
-# § 414. Repealed. Aug. 9, 1955, ch. 632 , § 2, 69 Stat. 553
+# § 414. Repealed. Aug. 9, 1955, ch. 632, § 2 , 69 Stat. 553
 

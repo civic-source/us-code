@@ -3,9 +3,9 @@ title: "Section 546 - Investigation of stream flow and watersheds; surveys in co
 usc_title: 33
 usc_section: "546"
 chapter: 12
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "33 U.S.C. § 546"
-generated_at: "2026-03-30T08:04:51.655Z"
+generated_at: "2026-03-30T08:10:20.105Z"
 status: "active"
 ---
 

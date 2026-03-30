@@ -1,13 +1,13 @@
 ---
-title: "Section 25b - Repealed. Oct. 25, 1951, ch. 562 , § 1(25), 65 Stat. 639"
+title: "Section 25b - Repealed. Oct. 25, 1951, ch. 562, § 1(25) , 65 Stat. 639"
 usc_title: 43
 usc_section: "25b"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "43 U.S.C. § 25b"
-generated_at: "2026-03-30T08:05:32.652Z"
+generated_at: "2026-03-30T08:10:33.772Z"
 status: "repealed"
 ---
 
-# §§ 25 to 25b. Repealed. Oct. 25, 1951, ch. 562 , § 1(25), 65 Stat. 639
+# §§ 25 to 25b. Repealed. Oct. 25, 1951, ch. 562, § 1(25) , 65 Stat. 639
 

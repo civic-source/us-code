@@ -3,9 +3,9 @@ title: "Section 959 - Administrative provisions"
 usc_title: 20
 usc_section: "959"
 chapter: 26
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 959"
-generated_at: "2026-03-30T08:03:44.074Z"
+generated_at: "2026-03-30T08:08:42.728Z"
 status: "active"
 ---
 

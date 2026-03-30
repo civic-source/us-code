@@ -3,9 +3,9 @@ title: "Section 3437 - Identification of industries facing subsidized imports"
 usc_title: 19
 usc_section: "3437"
 chapter: 21
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "19 U.S.C. § 3437"
-generated_at: "2026-03-30T08:03:49.437Z"
+generated_at: "2026-03-30T08:08:17.941Z"
 status: "active"
 ---
 

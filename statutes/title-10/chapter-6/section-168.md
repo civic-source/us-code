@@ -1,13 +1,13 @@
 ---
-title: "Section 168 - Repealed. Pub. L. 114–328, div. A, title XII , § 1253(a)(1)(A), Dec. 23, 2016 , 130 Stat. 2532 ]"
+title: "Section 168 - Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(A) , Dec. 23, 2016 , 130 Stat. 2532 ]"
 usc_title: 10
 usc_section: "168"
 chapter: 6
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 168"
-generated_at: "2026-03-30T08:03:31.065Z"
+generated_at: "2026-03-30T08:07:24.701Z"
 status: "repealed"
 ---
 
-# [§ 168. Repealed. Pub. L. 114–328, div. A, title XII , § 1253(a)(1)(A), Dec. 23, 2016 , 130 Stat. 2532 ]
+# [§ 168. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(A) , Dec. 23, 2016 , 130 Stat. 2532 ]
 

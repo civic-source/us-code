@@ -3,9 +3,9 @@ title: "Section 2702 - Voluntary disclosure of customer communications or record
 usc_title: 18
 usc_section: "2702"
 chapter: 121
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "18 U.S.C. § 2702"
-generated_at: "2026-03-30T08:03:42.206Z"
+generated_at: "2026-03-30T08:08:29.030Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(A)** if the contents—
       - **(i)** were inadvertently obtained by the service provider; and
       - **(ii)** appear to pertain to the commission of a crime; or
-    - **[(B)** Repealed. Pub. L. 108–21, title V , § 508(b)(1)(A), Apr. 30, 2003 , 117 Stat. 684 ]
+    - **[(B)** Repealed. Pub. L. 108–21, title V, § 508(b)(1)(A) , Apr. 30, 2003 , 117 Stat. 684 ]
   - **(8)** to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency; or
   - **(9)** to a foreign government pursuant to an order from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523.
 - **(c)** A provider described in subsection (a) may divulge a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a)(1) or (a)(2))—

@@ -3,9 +3,9 @@ title: "Section 2107 - Authority to prescribe regulations"
 usc_title: 29
 usc_section: "2107"
 chapter: 23
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "29 U.S.C. § 2107"
-generated_at: "2026-03-30T08:04:29.618Z"
+generated_at: "2026-03-30T08:09:05.334Z"
 status: "active"
 ---
 

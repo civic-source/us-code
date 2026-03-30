@@ -3,9 +3,9 @@ title: "Section 942 - Omitted"
 usc_title: 43
 usc_section: "942"
 chapter: 22
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "43 U.S.C. § 942"
-generated_at: "2026-03-30T08:05:32.677Z"
+generated_at: "2026-03-30T08:10:33.794Z"
 status: "omitted"
 ---
 

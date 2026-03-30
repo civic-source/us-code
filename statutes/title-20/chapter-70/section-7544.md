@@ -3,9 +3,9 @@ title: "Section 7544 - Program authorized"
 usc_title: 20
 usc_section: "7544"
 chapter: 70
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 7544"
-generated_at: "2026-03-30T08:03:44.182Z"
+generated_at: "2026-03-30T08:08:42.826Z"
 status: "active"
 ---
 

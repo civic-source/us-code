@@ -3,9 +3,9 @@ title: "Section 293 - Judges of the Court of International Trade"
 usc_title: 28
 usc_section: "293"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "28 U.S.C. § 293"
-generated_at: "2026-03-30T08:04:35.301Z"
+generated_at: "2026-03-30T08:09:25.643Z"
 status: "active"
 ---
 

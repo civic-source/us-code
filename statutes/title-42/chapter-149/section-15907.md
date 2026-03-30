@@ -3,9 +3,9 @@ title: "Section 15907 - Orphaned, abandoned, or idled wells on Federal land"
 usc_title: 42
 usc_section: "15907"
 chapter: 149
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 15907"
-generated_at: "2026-03-30T08:05:50.662Z"
+generated_at: "2026-03-30T08:10:46.437Z"
 status: "active"
 ---
 

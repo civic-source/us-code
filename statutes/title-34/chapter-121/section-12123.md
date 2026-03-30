@@ -3,9 +3,9 @@ title: "Section 12123 - Conversion of closed military installations into Federal
 usc_title: 34
 usc_section: "12123"
 chapter: 121
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "34 U.S.C. § 12123"
-generated_at: "2026-03-30T08:04:43.675Z"
+generated_at: "2026-03-30T08:10:14.680Z"
 status: "active"
 ---
 

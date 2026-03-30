@@ -3,9 +3,9 @@ title: "Section 1061 - Partnership interests held in connection with performance
 usc_title: 26
 usc_section: "1061"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 1061"
-generated_at: "2026-03-30T08:04:18.693Z"
+generated_at: "2026-03-30T08:10:09.542Z"
 status: "active"
 ---
 

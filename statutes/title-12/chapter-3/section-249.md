@@ -1,13 +1,13 @@
 ---
-title: "Section 249 - Repealed. Pub. L. 94–412, title V , § 501(c), Sept. 14, 1976 , 90 Stat. 1258"
+title: "Section 249 - Repealed. Pub. L. 94–412, title V, § 501(c) , Sept. 14, 1976 , 90 Stat. 1258"
 usc_title: 12
 usc_section: "249"
 chapter: 3
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 249"
-generated_at: "2026-03-30T08:03:36.153Z"
+generated_at: "2026-03-30T08:07:59.205Z"
 status: "repealed"
 ---
 
-# § 249. Repealed. Pub. L. 94–412, title V , § 501(c), Sept. 14, 1976 , 90 Stat. 1258
+# § 249. Repealed. Pub. L. 94–412, title V, § 501(c) , Sept. 14, 1976 , 90 Stat. 1258
 

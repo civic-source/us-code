@@ -3,9 +3,9 @@ title: "Section 1011 - Penalties for fraud"
 usc_title: 42
 usc_section: "1011"
 chapter: 7
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 1011"
-generated_at: "2026-03-30T08:05:50.201Z"
+generated_at: "2026-03-30T08:10:45.968Z"
 status: "active"
 ---
 

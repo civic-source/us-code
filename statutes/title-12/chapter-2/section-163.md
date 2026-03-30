@@ -1,13 +1,13 @@
 ---
-title: "Section 163 - Repealed. Pub. L. 86–230 , § 22(a), Sept. 8, 1959 , 73 Stat. 466"
+title: "Section 163 - Repealed. Pub. L. 86–230, § 22(a) , Sept. 8, 1959 , 73 Stat. 466"
 usc_title: 12
 usc_section: "163"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 163"
-generated_at: "2026-03-30T08:03:36.150Z"
+generated_at: "2026-03-30T08:07:59.202Z"
 status: "repealed"
 ---
 
-# § 163. Repealed. Pub. L. 86–230 , § 22(a), Sept. 8, 1959 , 73 Stat. 466
+# § 163. Repealed. Pub. L. 86–230, § 22(a) , Sept. 8, 1959 , 73 Stat. 466
 

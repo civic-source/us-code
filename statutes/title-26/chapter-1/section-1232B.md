@@ -1,13 +1,13 @@
 ---
-title: "Section 1232B - Repealed. Pub. L. 98–369, div. A, title I , § 42(a)(1), July 18, 1984 , 98 Stat. 556 ]"
+title: "Section 1232B - Repealed. Pub. L. 98–369, div. A, title I, § 42(a)(1) , July 18, 1984 , 98 Stat. 556 ]"
 usc_title: 26
 usc_section: "1232B"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 1232B"
-generated_at: "2026-03-30T08:04:18.695Z"
+generated_at: "2026-03-30T08:10:09.544Z"
 status: "repealed"
 ---
 
-# [§§ 1232 to 1232B. Repealed. Pub. L. 98–369, div. A, title I , § 42(a)(1), July 18, 1984 , 98 Stat. 556 ]
+# [§§ 1232 to 1232B. Repealed. Pub. L. 98–369, div. A, title I, § 42(a)(1) , July 18, 1984 , 98 Stat. 556 ]
 

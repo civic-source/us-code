@@ -1,13 +1,13 @@
 ---
-title: "Section 194 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 644"
+title: "Section 194 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 644"
 usc_title: 30
 usc_section: "194"
 chapter: 3
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "30 U.S.C. § 194"
-generated_at: "2026-03-30T08:04:27.585Z"
+generated_at: "2026-03-30T08:09:03.684Z"
 status: "repealed"
 ---
 
-# § 194. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 644
+# § 194. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 644
 

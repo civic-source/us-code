@@ -3,9 +3,9 @@ title: "Section 3031 - Director of the National Counterintelligence and Security
 usc_title: 50
 usc_section: "3031"
 chapter: 44
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 3031"
-generated_at: "2026-03-30T08:05:54.836Z"
+generated_at: "2026-03-30T08:10:51.522Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 1013 - Repealed. Pub. L. 88–110 , § 1, Sept. 3, 1963 , 77 Stat. 134"
+title: "Section 1013 - Repealed. Pub. L. 88–110, § 1 , Sept. 3, 1963 , 77 Stat. 134"
 usc_title: 50
 usc_section: "1013"
 chapter: 25
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 1013"
-generated_at: "2026-03-30T08:05:54.807Z"
+generated_at: "2026-03-30T08:10:51.493Z"
 status: "repealed"
 ---
 
-# § 1013. Repealed. Pub. L. 88–110 , § 1, Sept. 3, 1963 , 77 Stat. 134
+# § 1013. Repealed. Pub. L. 88–110, § 1 , Sept. 3, 1963 , 77 Stat. 134
 

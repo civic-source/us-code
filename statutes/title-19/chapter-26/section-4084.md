@@ -3,9 +3,9 @@ title: "Section 4084 - Articles exempt from relief"
 usc_title: 19
 usc_section: "4084"
 chapter: 26
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "19 U.S.C. § 4084"
-generated_at: "2026-03-30T08:03:49.447Z"
+generated_at: "2026-03-30T08:08:17.949Z"
 status: "active"
 ---
 

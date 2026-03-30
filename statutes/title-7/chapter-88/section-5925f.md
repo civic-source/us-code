@@ -3,9 +3,9 @@ title: "Section 5925f - Farm business management"
 usc_title: 7
 usc_section: "5925f"
 chapter: 88
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 5925f"
-generated_at: "2026-03-30T08:03:27.729Z"
+generated_at: "2026-03-30T08:07:12.829Z"
 status: "active"
 ---
 

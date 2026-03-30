@@ -3,9 +3,9 @@ title: "Section 2688 - Utility systems: conveyance authority"
 usc_title: 10
 usc_section: "2688"
 chapter: 159
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 2688"
-generated_at: "2026-03-30T08:03:31.159Z"
+generated_at: "2026-03-30T08:07:24.797Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(B)** to an appropriation of the military department available for carrying out energy savings projects or water conservation projects; or
     - **(C)** to an appropriation of the military department available for improvements to other utility systems.
   - **(2)** Amounts so credited shall be merged with funds in the appropriation to which credited and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriation with which merged.
-- **[(f)** Repealed. Pub. L. 112–81, div. A, title X , § 1061(21)(C), Dec. 31, 2011 , 125 Stat. 1584 .]
+- **[(f)** Repealed. Pub. L. 112–81, div. A, title X, § 1061(21)(C) , Dec. 31, 2011 , 125 Stat. 1584 .]
 - **(g)**
   - **(1)** The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
   - **(2)** The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with applicable Federal and State regulations pertaining to health, safety, fire, and environmental requirements.

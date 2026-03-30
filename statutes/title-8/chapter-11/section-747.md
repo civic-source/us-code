@@ -1,13 +1,13 @@
 ---
-title: "Section 747 - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , eff. Sept. 1, 1948"
+title: "Section 747 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948"
 usc_title: 8
 usc_section: "747"
 chapter: 11
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "8 U.S.C. § 747"
-generated_at: "2026-03-30T08:03:24.433Z"
+generated_at: "2026-03-30T08:07:09.223Z"
 status: "repealed"
 ---
 
-# § 747. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , eff. Sept. 1, 1948
+# § 747. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948
 

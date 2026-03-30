@@ -3,9 +3,9 @@ title: "Section 292 - False marking"
 usc_title: 35
 usc_section: "292"
 chapter: 29
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "35 U.S.C. § 292"
-generated_at: "2026-03-30T08:04:38.644Z"
+generated_at: "2026-03-30T08:10:14.072Z"
 status: "active"
 ---
 

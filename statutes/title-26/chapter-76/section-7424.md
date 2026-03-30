@@ -3,9 +3,9 @@ title: "Section 7424 - Intervention"
 usc_title: 26
 usc_section: "7424"
 chapter: 76
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 7424"
-generated_at: "2026-03-30T08:04:18.783Z"
+generated_at: "2026-03-30T08:10:09.627Z"
 status: "active"
 ---
 

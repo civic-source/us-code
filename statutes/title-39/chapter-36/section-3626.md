@@ -3,9 +3,9 @@ title: "Section 3626 - Reduced rates"
 usc_title: 39
 usc_section: "3626"
 chapter: 36
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "39 U.S.C. § 3626"
-generated_at: "2026-03-30T08:05:12.678Z"
+generated_at: "2026-03-30T08:10:25.662Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
     - **(B)** The rates of postage applicable to mail under this paragraph shall be established in accordance with section 3622.
     - **(C)** This paragraph shall not apply with respect to an issue of a publication unless the total paid circulation of such issue outside the county of publication (not counting recipients of copies subject to paragraph (3)) is less than 5,000.
 - **(h)** In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former section 4358 of this title may not exceed 10 percent of the number of copies of such publication mailed at such rates to subscribers.
-- **[(i)** Repealed. Pub. L. 103–123, title VII , § 704(a)(3)(A), Oct. 28, 1993 , 107 Stat. 1269 .]
+- **[(i)** Repealed. Pub. L. 103–123, title VII, § 704(a)(3)(A) , Oct. 28, 1993 , 107 Stat. 1269 .]
 - **(j)**
   - **(1)** In the administration of this section, the rates for mail under former section 4452(b) or 4452(c) of this title shall not apply to mail which advertises, promotes, offers, or, for a fee or consideration, recommends, describes, or announces the availability of—
     - **(A)** any credit, debit, or charge card, or similar financial instrument or account, provided by or through an arrangement with any person or organization not authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title;

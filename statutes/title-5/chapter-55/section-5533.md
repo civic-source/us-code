@@ -3,9 +3,9 @@ title: "Section 5533 - Dual pay from more than one position; limitations; except
 usc_title: 5
 usc_section: "5533"
 chapter: 55
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "5 U.S.C. § 5533"
-generated_at: "2026-03-30T08:03:20.930Z"
+generated_at: "2026-03-30T08:07:04.247Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
     - **(D)** section 907 of title 20 ;
     - **(E)** section 873 of title 33 ; or
     - **(F)** section 631 or 631a of title 31, District of Columbia Code.
-    - **[(G)** Repealed. Pub. L. 96–70, title III , § 3302(e)(8), Sept. 27, 1979 , 93 Stat. 498 .]
+    - **[(G)** Repealed. Pub. L. 96–70, title III, § 3302(e)(8) , Sept. 27, 1979 , 93 Stat. 498 .]
 - **(e)**
   - **(1)** This section does not apply to an individual employed under sections 174j–1 to 174j–7 or 174k 2 2 See References in Text note below. of title 40.
   - **(2)** Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.

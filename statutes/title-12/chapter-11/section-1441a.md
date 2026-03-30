@@ -1,13 +1,13 @@
 ---
-title: "Section 1441a - Repealed. Pub. L. 111–203, title III , § 364(b), July 21, 2010 , 124 Stat. 1555"
+title: "Section 1441a - Repealed. Pub. L. 111–203, title III, § 364(b) , July 21, 2010 , 124 Stat. 1555"
 usc_title: 12
 usc_section: "1441a"
 chapter: 11
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 1441a"
-generated_at: "2026-03-30T08:03:36.168Z"
+generated_at: "2026-03-30T08:07:59.222Z"
 status: "repealed"
 ---
 
-# § 1441a. Repealed. Pub. L. 111–203, title III , § 364(b), July 21, 2010 , 124 Stat. 1555
+# § 1441a. Repealed. Pub. L. 111–203, title III, § 364(b) , July 21, 2010 , 124 Stat. 1555
 

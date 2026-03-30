@@ -3,9 +3,9 @@ title: "Section 5563 - Allotments; continuance, suspension, initiation, resumpti
 usc_title: 5
 usc_section: "5563"
 chapter: 55
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "5 U.S.C. § 5563"
-generated_at: "2026-03-30T08:03:20.932Z"
+generated_at: "2026-03-30T08:07:04.249Z"
 status: "active"
 ---
 

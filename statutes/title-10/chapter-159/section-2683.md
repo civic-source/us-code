@@ -3,9 +3,9 @@ title: "Section 2683 - Relinquishment of legislative jurisdiction; minimum drink
 usc_title: 10
 usc_section: "2683"
 chapter: 159
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 2683"
-generated_at: "2026-03-30T08:03:31.158Z"
+generated_at: "2026-03-30T08:07:24.796Z"
 status: "active"
 ---
 

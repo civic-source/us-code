@@ -3,9 +3,9 @@ title: "Section 1804 - Reinstatement of joint operating arrangements previously 
 usc_title: 15
 usc_section: "1804"
 chapter: 43
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 1804"
-generated_at: "2026-03-30T08:03:38.268Z"
+generated_at: "2026-03-30T08:08:11.858Z"
 status: "active"
 ---
 

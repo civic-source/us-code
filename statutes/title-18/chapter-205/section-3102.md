@@ -3,11 +3,15 @@ title: "Section 3102 - Authority to issue search warrant—(Rule)"
 usc_title: 18
 usc_section: "3102"
 chapter: 205
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "18 U.S.C. § 3102"
-generated_at: "2026-03-30T08:03:42.210Z"
+generated_at: "2026-03-30T08:08:29.033Z"
 status: "active"
 ---
 
 # § 3102. Authority to issue search warrant—(Rule)
 
+
+## Notes
+
+See Federal Rules of Criminal Procedure Federal, State or Territorial Judges, or U.S. magistrate judges authorized to issue search warrants, Rule 41(a).

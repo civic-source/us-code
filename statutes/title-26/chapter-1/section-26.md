@@ -3,9 +3,9 @@ title: "Section 26 - Limitation based on tax liability; definition of tax liabil
 usc_title: 26
 usc_section: "26"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 26"
-generated_at: "2026-03-30T08:04:18.566Z"
+generated_at: "2026-03-30T08:10:09.421Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
     - **(M)** section 860E(e) (relating to taxes with respect to certain residual interests),
     - **(N)** section 884 (relating to branch profits tax),
     - **(O)** sections 453( l )(3) and 453A(c) (relating to interest on certain deferred tax liabilities),
-    - **[(P)** Repealed. Pub. L. 115–141, div. U, title IV , § 401(b)(2), Mar. 23, 2018 , 132 Stat. 1201 .]
+    - **[(P)** Repealed. Pub. L. 115–141, div. U, title IV, § 401(b)(2) , Mar. 23, 2018 , 132 Stat. 1201 .]
     - **(Q)** section 220(f)(4) (relating to additional tax on Archer MSA distributions not used for qualified medical expenses),
     - **(R)** section 138(c)(2) (relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses if minimum balance not maintained),
     - **(S)** sections 106(e)(3)(A)(ii), 223(b)(8)(B)(i)(II), and 408(d)(9)(D)(i)(II) (relating to certain failures to maintain high deductible health plan coverage),

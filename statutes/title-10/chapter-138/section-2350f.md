@@ -3,9 +3,9 @@ title: "Section 2350f - Procurement of communications support and related suppli
 usc_title: 10
 usc_section: "2350f"
 chapter: 138
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 2350f"
-generated_at: "2026-03-30T08:03:31.140Z"
+generated_at: "2026-03-30T08:07:24.778Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** Any arrangement entered into under this section shall require that any accrued credits and liabilities resulting from an unequal exchange of communications support and related supplies and services during the term of such arrangement would be liquidated by direct payment to the party having provided the greater amount of communications support and related supplies and services. Liquidations may be made at such times as the parties in an arrangement may agree upon, but in no case may final liquidation in the case of an arrangement be made later than 30 days after the end of the term for which the arrangement was entered into.
   - **(2)** Parties to an arrangement entered into under this section shall annually reconcile accrued credits and liabilities accruing under such agreement. Any liability of the United States resulting from a reconciliation shall be charged against the applicable appropriation available to the Department of Defense (at the time of the reconciliation) for obligation for communications support and related supplies and services.
   - **(3)** Payments received by the United States shall be credited to the appropriation from which such communications support and related supplies and services have been provided.
-- **[(c)** Repealed. Pub. L. 107–314, div. A, title X , § 1041(a)(10), Dec. 2, 2002 , 116 Stat. 2645 .]
+- **[(c)** Repealed. Pub. L. 107–314, div. A, title X, § 1041(a)(10) , Dec. 2, 2002 , 116 Stat. 2645 .]
 - **(d)** In this section:
   - **(1)** The term “allied country” means—
     - **(A)** a country that is a member of the North Atlantic Treaty Organization;

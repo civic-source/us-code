@@ -1,13 +1,13 @@
 ---
-title: "Section 1902 - Repealed. Pub. L. 93–618, title VI , § 602(d), (e), Jan. 3, 1975 , 88 Stat. 2072"
+title: "Section 1902 - Repealed. Pub. L. 93–618, title VI, § 602(d) , (e), Jan. 3, 1975 , 88 Stat. 2072"
 usc_title: 19
 usc_section: "1902"
 chapter: 7
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "19 U.S.C. § 1902"
-generated_at: "2026-03-30T08:03:49.409Z"
+generated_at: "2026-03-30T08:08:17.917Z"
 status: "repealed"
 ---
 
-# §§ 1901, 1902. Repealed. Pub. L. 93–618, title VI , § 602(d), (e), Jan. 3, 1975 , 88 Stat. 2072
+# §§ 1901, 1902. Repealed. Pub. L. 93–618, title VI, § 602(d) , (e), Jan. 3, 1975 , 88 Stat. 2072
 

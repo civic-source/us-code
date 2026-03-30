@@ -3,9 +3,9 @@ title: "Section 1515 - Review of protests"
 usc_title: 19
 usc_section: "1515"
 chapter: 4
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "19 U.S.C. § 1515"
-generated_at: "2026-03-30T08:03:49.392Z"
+generated_at: "2026-03-30T08:08:17.902Z"
 status: "active"
 ---
 

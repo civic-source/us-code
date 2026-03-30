@@ -3,9 +3,9 @@ title: "Section 5663 - Cross reference"
 usc_title: 26
 usc_section: "5663"
 chapter: 51
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 5663"
-generated_at: "2026-03-30T08:04:18.748Z"
+generated_at: "2026-03-30T08:10:09.594Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5121 - Payment of certain accrued benefits upon death of a benef
 usc_title: 38
 usc_section: "5121"
 chapter: 51
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "38 U.S.C. § 5121"
-generated_at: "2026-03-30T08:05:13.828Z"
+generated_at: "2026-03-30T08:10:31.163Z"
 status: "active"
 ---
 

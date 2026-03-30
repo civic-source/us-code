@@ -3,9 +3,9 @@ title: "Section 470 - Transferred or Omitted"
 usc_title: 16
 usc_section: "470"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 470"
-generated_at: "2026-03-30T08:03:52.372Z"
+generated_at: "2026-03-30T08:08:20.048Z"
 status: "omitted"
 ---
 

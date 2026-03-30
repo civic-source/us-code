@@ -3,9 +3,9 @@ title: "Section 3710 - Purchase or construction of homes"
 usc_title: 38
 usc_section: "3710"
 chapter: 37
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "38 U.S.C. § 3710"
-generated_at: "2026-03-30T08:05:13.821Z"
+generated_at: "2026-03-30T08:10:31.156Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
       - **(i)** the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title ; or
       - **(ii)** the sum of the outstanding balance on the loan to be refinanced and the closing costs (including discounts) actually paid by the veteran, as specified by the Secretary in regulations; and
   - **(8)** in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title .
-- **[(c)** Repealed. Pub. L. 100–198 , § 3(a)(2), Dec. 21, 1987 , 101 Stat. 1315 .]
+- **[(c)** Repealed. Pub. L. 100–198, § 3(a)(2) , Dec. 21, 1987 , 101 Stat. 1315 .]
 - **(d)**
   - **(1)** The Secretary shall carry out a program to demonstrate the feasibility of guaranteeing loans for the acquisition of an existing dwelling and the cost of making energy efficiency improvements to the dwelling or for energy efficiency improvements to a dwelling owned and occupied by a veteran. A loan may be guaranteed under this subsection only if it meets the requirements of this chapter, except as those requirements are modified by this subsection.
   - **(2)** The cost of energy efficiency measures that may be financed by a loan guaranteed under this section may not exceed the greater of—

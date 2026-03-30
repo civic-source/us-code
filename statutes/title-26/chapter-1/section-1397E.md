@@ -1,13 +1,13 @@
 ---
-title: "Section 1397E - Repealed. Pub. L. 115–97, title I , § 13404(c)(1), Dec. 22, 2017 , 131 Stat. 2138 ]"
+title: "Section 1397E - Repealed. Pub. L. 115–97, title I, § 13404(c)(1) , Dec. 22, 2017 , 131 Stat. 2138 ]"
 usc_title: 26
 usc_section: "1397E"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 1397E"
-generated_at: "2026-03-30T08:04:18.706Z"
+generated_at: "2026-03-30T08:10:09.555Z"
 status: "repealed"
 ---
 
-# [§ 1397E. Repealed. Pub. L. 115–97, title I , § 13404(c)(1), Dec. 22, 2017 , 131 Stat. 2138 ]
+# [§ 1397E. Repealed. Pub. L. 115–97, title I, § 13404(c)(1) , Dec. 22, 2017 , 131 Stat. 2138 ]
 

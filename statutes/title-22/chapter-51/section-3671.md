@@ -3,9 +3,9 @@ title: "Section 3671 - Transferred or reemployed employees"
 usc_title: 22
 usc_section: "3671"
 chapter: 51
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "22 U.S.C. § 3671"
-generated_at: "2026-03-30T08:04:07.189Z"
+generated_at: "2026-03-30T08:08:48.611Z"
 status: "active"
 ---
 
@@ -18,11 +18,11 @@ status: "active"
       - **(ii)** to a position in an Executive agency or in the Smithsonian Institution the permanent duty station of which is in the Republic of Panama (including the area known before October 1, 1979 , as the Canal Zone); or
     - **(B)** who is separated by reason of a reduction in force on September 30, 1979 , and is appointed to a position in the Commission before April 1, 1980 ;
   - **(2)** The terms and conditions of employment referred to in paragraph (1) of this subsection are the following:
-    - **(A)** , (B) Repealed. Pub. L. 105–261, div. C, title XXXV , § 3507(a), Oct. 17, 1998 , 112 Stat. 2269 .
+    - **(A)** , (B) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a) , Oct. 17, 1998 , 112 Stat. 2269 .
     - **(C)** premium pay and night differential;
     - **(D)** reinstatement and restoration rights;
     - **(E)** injury and death compensation benefits;
-    - **(F)** to (H) Repealed. Pub. L. 105–261, div. C, title XXXV , § 3507(a), Oct. 17, 1998 , 112 Stat. 2269 .
+    - **(F)** to (H) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a) , Oct. 17, 1998 , 112 Stat. 2269 .
     - **(I)** reduction-in-force rights;
     - **(J)** an employee grievance system, and the right to appeal adverse and disciplinary actions and position classification actions;
     - **(K)** veterans’ preference eligibility;

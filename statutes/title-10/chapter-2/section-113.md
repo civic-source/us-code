@@ -3,9 +3,9 @@ title: "Section 113 - Secretary of Defense"
 usc_title: 10
 usc_section: "113"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 113"
-generated_at: "2026-03-30T08:03:31.060Z"
+generated_at: "2026-03-30T08:07:24.695Z"
 status: "active"
 ---
 
@@ -89,7 +89,7 @@ status: "active"
     - **(B)** The amount of direct and indirect support for the stationing of United States forces provided by each host nation.
   - **(2)** In this subsection, the term “United States”, when used in a geographic sense, includes the territories and possessions of the United States.
 - **(k)** The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specific supporting resources to be made available for the period of time for which the guidelines are to be in effect.
-- **[(l)** Repealed. Pub. L. 115–91, div. A, title X , § 1051(a)(1)(B), Dec. 12, 2017 , 131 Stat. 1560 .]
+- **[(l)** Repealed. Pub. L. 115–91, div. A, title X, § 1051(a)(1)(B) , Dec. 12, 2017 , 131 Stat. 1560 .]
 - **(m)** Whenever the President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
   - **(1)** What clear and distinct objectives guide the activities of United States forces in the operation.
   - **(2)** What the President has identified on the basis of those objectives as the date, or the set of conditions, that defines the endpoint of the operation.

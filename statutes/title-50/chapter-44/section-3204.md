@@ -3,9 +3,9 @@ title: "Section 3204 - Regulations"
 usc_title: 50
 usc_section: "3204"
 chapter: 44
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 3204"
-generated_at: "2026-03-30T08:05:54.843Z"
+generated_at: "2026-03-30T08:10:51.528Z"
 status: "active"
 ---
 

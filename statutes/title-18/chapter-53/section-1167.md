@@ -3,9 +3,9 @@ title: "Section 1167 - Theft from gaming establishments on Indian lands"
 usc_title: 18
 usc_section: "1167"
 chapter: 53
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "18 U.S.C. § 1167"
-generated_at: "2026-03-30T08:03:42.185Z"
+generated_at: "2026-03-30T08:08:29.010Z"
 status: "active"
 ---
 

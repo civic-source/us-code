@@ -3,9 +3,9 @@ title: "Section 482e - Lincoln National Forest; mining rights"
 usc_title: 16
 usc_section: "482e"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 482e"
-generated_at: "2026-03-30T08:03:52.375Z"
+generated_at: "2026-03-30T08:08:20.051Z"
 status: "active"
 ---
 

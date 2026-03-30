@@ -3,9 +3,9 @@ title: "Section 6811 - Enforcement and protection of receipts"
 usc_title: 16
 usc_section: "6811"
 chapter: 87
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 6811"
-generated_at: "2026-03-30T08:03:52.512Z"
+generated_at: "2026-03-30T08:08:20.277Z"
 status: "active"
 ---
 

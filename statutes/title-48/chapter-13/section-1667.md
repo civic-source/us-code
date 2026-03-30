@@ -1,13 +1,13 @@
 ---
-title: "Section 1667 - Repealed. Pub. L. 90–576, title I , § 103, Oct. 16, 1968 , 82 Stat. 1091"
+title: "Section 1667 - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 1968 , 82 Stat. 1091"
 usc_title: 48
 usc_section: "1667"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "48 U.S.C. § 1667"
-generated_at: "2026-03-30T08:05:57.215Z"
+generated_at: "2026-03-30T08:10:49.112Z"
 status: "repealed"
 ---
 
-# § 1667. Repealed. Pub. L. 90–576, title I , § 103, Oct. 16, 1968 , 82 Stat. 1091
+# § 1667. Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 1968 , 82 Stat. 1091
 

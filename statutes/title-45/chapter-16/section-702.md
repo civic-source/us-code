@@ -3,9 +3,9 @@ title: "Section 702 - Definitions"
 usc_title: 45
 usc_section: "702"
 chapter: 16
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "45 U.S.C. § 702"
-generated_at: "2026-03-30T08:05:31.699Z"
+generated_at: "2026-03-30T08:10:34.483Z"
 status: "active"
 ---
 
@@ -29,7 +29,8 @@ As used in this chapter, unless the context otherwise requires—
   - **(14)** “rail properties” means assets or rights owned, leased, or otherwise controlled by a railroad (or a person owned, leased, or otherwise controlled by a railroad) which are used or useful in rail transportation service; except that the term, when used in conjunction with the phrase “railroads leased, operated, or controlled by a railroad in reorganization”, shall not include assets or rights owned, leased, or otherwise controlled by a Class I railroad which is not wholly owned, operated, or leased by a railroad in reorganization but is controlled by a railroad in reorganization;
   - **(15)** “railroad” means a rail carrier subject to part A of subtitle IV of title 49. The term includes the Corporation and the National Railroad Passenger Corporation;
   - **(16)** “railroad in reorganization” means a railroad which is subject to a bankruptcy proceeding and which has not been determined by a court to be reorganizable or not subject to reorganization pursuant to this chapter as prescribed in section 717(b) of this title . A “bankruptcy proceeding” includes a proceeding pursuant to section 77 of the Bankruptcy Act and an equity receivership or equivalent proceeding;
-  - **(17)** “Region” means the States of Maine, New Hampshire, Vermont, Massachusetts, Connecticut, Rhode Island, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, Ohio, Indiana, Michigan, and Illinois; the District of Columbia; and those portions of contiguous States in which are located rail properties owned or operated by railroads doing business primarily in the aforementioned jurisdictions (as determined by the Commission by order); (17A) “sale date” means the date on which the initial public offering of the securities of the Corporation is closed under the Conrail Privatization Act [ 45 U.S.C. 1301 et seq.];
+  - **(17)** “Region” means the States of Maine, New Hampshire, Vermont, Massachusetts, Connecticut, Rhode Island, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, Ohio, Indiana, Michigan, and Illinois; the District of Columbia; and those portions of contiguous States in which are located rail properties owned or operated by railroads doing business primarily in the aforementioned jurisdictions (as determined by the Commission by order);
+  - **(17A)** “sale date” means the date on which the initial public offering of the securities of the Corporation is closed under the Conrail Privatization Act [ 45 U.S.C. 1301 et seq.];
   - **(18)** “Secretary” means the Secretary of Transportation or the designated representative of the Secretary;
   - **(19)** “State” means any State or the District of Columbia;
   - **(20)** “subsidiary” means any corporation 100 percent of whose total combined voting shares are, directly or indirectly, owned or controlled by the Corporation; and

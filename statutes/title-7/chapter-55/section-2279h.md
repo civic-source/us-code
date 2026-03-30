@@ -3,9 +3,9 @@ title: "Section 2279h - Cross-servicing activities of National Finance Center"
 usc_title: 7
 usc_section: "2279h"
 chapter: 55
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 2279h"
-generated_at: "2026-03-30T08:03:27.701Z"
+generated_at: "2026-03-30T08:07:12.804Z"
 status: "active"
 ---
 

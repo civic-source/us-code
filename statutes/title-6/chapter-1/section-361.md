@@ -3,9 +3,9 @@ title: "Section 361 - Office for State and Local Government Coordination"
 usc_title: 6
 usc_section: "361"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "6 U.S.C. § 361"
-generated_at: "2026-03-30T08:03:23.418Z"
+generated_at: "2026-03-30T08:07:33.145Z"
 status: "active"
 ---
 

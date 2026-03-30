@@ -1,13 +1,13 @@
 ---
-title: "Section 212 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 644 , 646"
+title: "Section 212 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 644 , 646"
 usc_title: 15
 usc_section: "212"
 chapter: 6
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 212"
-generated_at: "2026-03-30T08:03:38.196Z"
+generated_at: "2026-03-30T08:08:11.783Z"
 status: "repealed"
 ---
 
-# §§ 208a to 212. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 644 , 646
+# §§ 208a to 212. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 644 , 646
 

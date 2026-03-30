@@ -1,13 +1,13 @@
 ---
-title: "Section 509 - Repealed. Pub. L. 110–403, title II , § 201(b)(1), Oct. 13, 2008 , 122 Stat. 4260 ]"
+title: "Section 509 - Repealed. Pub. L. 110–403, title II, § 201(b)(1) , Oct. 13, 2008 , 122 Stat. 4260 ]"
 usc_title: 17
 usc_section: "509"
 chapter: 5
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "17 U.S.C. § 509"
-generated_at: "2026-03-30T08:03:40.995Z"
+generated_at: "2026-03-30T08:08:30.917Z"
 status: "repealed"
 ---
 
-# [§ 509. Repealed. Pub. L. 110–403, title II , § 201(b)(1), Oct. 13, 2008 , 122 Stat. 4260 ]
+# [§ 509. Repealed. Pub. L. 110–403, title II, § 201(b)(1) , Oct. 13, 2008 , 122 Stat. 4260 ]
 

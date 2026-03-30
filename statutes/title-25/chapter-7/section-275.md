@@ -3,9 +3,9 @@ title: "Section 275 - Leaves of absence to employees"
 usc_title: 25
 usc_section: "275"
 chapter: 7
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "25 U.S.C. § 275"
-generated_at: "2026-03-30T08:04:00.342Z"
+generated_at: "2026-03-30T08:08:55.692Z"
 status: "active"
 ---
 

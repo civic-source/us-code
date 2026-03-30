@@ -3,9 +3,9 @@ title: "Section 1451 - Revocation of naturalization"
 usc_title: 8
 usc_section: "1451"
 chapter: 12
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "8 U.S.C. § 1451"
-generated_at: "2026-03-30T08:03:24.464Z"
+generated_at: "2026-03-30T08:07:09.249Z"
 status: "active"
 ---
 

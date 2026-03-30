@@ -3,9 +3,9 @@ title: "Section 59 - Collections of National Ocean Survey, United States Geologi
 usc_title: 20
 usc_section: "59"
 chapter: 3
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 59"
-generated_at: "2026-03-30T08:03:44.064Z"
+generated_at: "2026-03-30T08:08:42.718Z"
 status: "active"
 ---
 

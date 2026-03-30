@@ -1,13 +1,13 @@
 ---
-title: "Section 2001 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1661(a)(3)(A), Oct. 5, 1994 , 108 Stat. 2980 ]"
+title: "Section 2001 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1661(a)(3)(A) , Oct. 5, 1994 , 108 Stat. 2980 ]"
 usc_title: 10
 usc_section: "2001"
 chapter: 101
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 2001"
-generated_at: "2026-03-30T08:03:31.123Z"
+generated_at: "2026-03-30T08:07:24.761Z"
 status: "repealed"
 ---
 
-# [§ 2001. Repealed. Pub. L. 103–337, div. A, title XVI , § 1661(a)(3)(A), Oct. 5, 1994 , 108 Stat. 2980 ]
+# [§ 2001. Repealed. Pub. L. 103–337, div. A, title XVI, § 1661(a)(3)(A) , Oct. 5, 1994 , 108 Stat. 2980 ]
 

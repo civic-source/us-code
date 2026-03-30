@@ -3,9 +3,9 @@ title: "Section 3701 - Definitions"
 usc_title: 46
 usc_section: "3701"
 chapter: 37
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "46 U.S.C. § 3701"
-generated_at: "2026-03-30T08:06:14.917Z"
+generated_at: "2026-03-30T08:10:49.899Z"
 status: "active"
 ---
 

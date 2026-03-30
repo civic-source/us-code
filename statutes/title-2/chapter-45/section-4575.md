@@ -3,9 +3,9 @@ title: "Section 4575 - Gross rate of compensation of employees paid by Secretary
 usc_title: 2
 usc_section: "4575"
 chapter: 45
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "2 U.S.C. § 4575"
-generated_at: "2026-03-30T08:03:18.639Z"
+generated_at: "2026-03-30T08:06:39.089Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
       - **(iv)** the amount described in section 6314(b)(3) of this title (as determined without regard to subparagraph (A)(ii) and (iv) thereof).
   - **(2)** Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $2,988 1 or in excess of $169,459 1 per annum. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
 - **(e)**
-  - **(1)** , (2) Repealed. Pub. L. 96–304, title I , § 112(b)(1), July 8, 1980 , 94 Stat. 892 .
+  - **(1)** , (2) Repealed. Pub. L. 96–304, title I, § 112(b)(1) , July 8, 1980 , 94 Stat. 892 .
   - **(3)**
     - **(A)** In this paragraph—
       - **(i)** the term “committee of the Senate” means—

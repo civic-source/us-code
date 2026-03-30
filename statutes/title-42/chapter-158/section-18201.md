@@ -3,9 +3,9 @@ title: "Section 18201 - Definitions"
 usc_title: 42
 usc_section: "18201"
 chapter: 158
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 18201"
-generated_at: "2026-03-30T08:05:50.696Z"
+generated_at: "2026-03-30T08:10:46.472Z"
 status: "active"
 ---
 

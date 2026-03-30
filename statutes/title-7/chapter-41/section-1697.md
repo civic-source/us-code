@@ -1,13 +1,13 @@
 ---
-title: "Section 1697 - Repealed. Pub. L. 89–808 , § 2(D), Nov. 11, 1966 , 80 Stat. 1535"
+title: "Section 1697 - Repealed. Pub. L. 89–808, § 2(D) , Nov. 11, 1966 , 80 Stat. 1535"
 usc_title: 7
 usc_section: "1697"
 chapter: 41
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 1697"
-generated_at: "2026-03-30T08:03:27.662Z"
+generated_at: "2026-03-30T08:07:12.769Z"
 status: "repealed"
 ---
 
-# §§ 1693 to 1697. Repealed. Pub. L. 89–808 , § 2(D), Nov. 11, 1966 , 80 Stat. 1535
+# §§ 1693 to 1697. Repealed. Pub. L. 89–808, § 2(D) , Nov. 11, 1966 , 80 Stat. 1535
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 967 - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641"
+title: "Section 967 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "967"
 chapter: 25
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "50 U.S.C. § 967"
-generated_at: "2026-03-30T08:05:54.807Z"
+generated_at: "2026-03-30T08:10:51.493Z"
 status: "repealed"
 ---
 
-# §§ 961 to 967. Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641
+# §§ 961 to 967. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641
 

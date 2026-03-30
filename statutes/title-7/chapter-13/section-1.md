@@ -1,13 +1,13 @@
 ---
-title: "Section 1 - Repealed. June 26, 1953, ch. 157 , § 2, 67 Stat. 85 , 86"
+title: "Section 1 - Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 85 , 86"
 usc_title: 7
 usc_section: "1"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T08:03:27.620Z"
+generated_at: "2026-03-30T08:07:12.731Z"
 status: "repealed"
 ---
 
-# §§ 343a to 343c–1. Repealed. June 26, 1953, ch. 157 , § 2, 67 Stat. 85 , 86
+# §§ 343a to 343c–1. Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 85 , 86
 

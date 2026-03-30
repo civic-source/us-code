@@ -3,9 +3,9 @@ title: "Section 23 - Standardized contracts for certain commodities"
 usc_title: 7
 usc_section: "23"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 23"
-generated_at: "2026-03-30T08:03:27.595Z"
+generated_at: "2026-03-30T08:07:12.708Z"
 status: "active"
 ---
 

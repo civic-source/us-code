@@ -3,9 +3,9 @@ title: "Section 6801 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6801"
 chapter: 97
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 6801"
-generated_at: "2026-03-30T08:03:27.739Z"
+generated_at: "2026-03-30T08:07:12.839Z"
 status: "active"
 ---
 

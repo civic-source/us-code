@@ -3,9 +3,9 @@ title: "Section 2324 - Allowable costs under defense contracts"
 usc_title: 10
 usc_section: "2324"
 chapter: 137
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 2324"
-generated_at: "2026-03-30T08:03:31.137Z"
+generated_at: "2026-03-30T08:07:24.775Z"
 status: "active"
 ---
 
@@ -132,5 +132,5 @@ status: "active"
   - **(2)** The term “head of the agency” or “agency head” does not include the Secretary of a military department.
   - **(3)** The term “agency” means the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
   - **(4)** The term “compensation”, for a year, means the total amount of wages, salary, bonuses and deferred compensation for the year, whether paid, earned, or otherwise accruing, as recorded in an employer’s cost accounting records for the year.
-  - **[(5)** Repealed. Pub. L. 112–81, div. A, title VIII , § 803(b), Dec. 31, 2011 , 125 Stat. 1485 .]
+  - **[(5)** Repealed. Pub. L. 112–81, div. A, title VIII, § 803(b) , Dec. 31, 2011 , 125 Stat. 1485 .]
   - **(6)** The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.

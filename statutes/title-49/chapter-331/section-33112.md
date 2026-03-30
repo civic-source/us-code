@@ -1,13 +1,13 @@
 ---
-title: "Section 33112 - Repealed. Pub. L. 112–141, div. C, title I , § 31313(2), July 6, 2012 , 126 Stat. 772 ]"
+title: "Section 33112 - Repealed. Pub. L. 112–141, div. C, title I, § 31313(2) , July 6, 2012 , 126 Stat. 772 ]"
 usc_title: 49
 usc_section: "33112"
 chapter: 331
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "49 U.S.C. § 33112"
-generated_at: "2026-03-30T08:06:03.198Z"
+generated_at: "2026-03-30T08:11:00.521Z"
 status: "repealed"
 ---
 
-# [§ 33112. Repealed. Pub. L. 112–141, div. C, title I , § 31313(2), July 6, 2012 , 126 Stat. 772 ]
+# [§ 33112. Repealed. Pub. L. 112–141, div. C, title I, § 31313(2) , July 6, 2012 , 126 Stat. 772 ]
 

@@ -3,9 +3,9 @@ title: "Section 30305 - Grants to protect inmates and safeguard communities"
 usc_title: 34
 usc_section: "30305"
 chapter: 303
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "34 U.S.C. § 30305"
-generated_at: "2026-03-30T08:04:43.695Z"
+generated_at: "2026-03-30T08:10:14.702Z"
 status: "active"
 ---
 

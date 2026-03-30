@@ -3,9 +3,9 @@ title: "Section 261a - Repealed. Pub. L. 106–310, div. B, title XXXIV, § 3405
 usc_title: 42
 usc_section: "261a"
 chapter: 6
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 261a"
-generated_at: "2026-03-30T08:05:50.054Z"
+generated_at: "2026-03-30T08:10:45.828Z"
 status: "repealed"
 ---
 

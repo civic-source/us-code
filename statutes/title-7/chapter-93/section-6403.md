@@ -3,9 +3,9 @@ title: "Section 6403 - Authority to issue orders"
 usc_title: 7
 usc_section: "6403"
 chapter: 93
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 6403"
-generated_at: "2026-03-30T08:03:27.735Z"
+generated_at: "2026-03-30T08:07:12.835Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 542d - Comprehensive management plan"
 usc_title: 16
 usc_section: "542d"
 chapter: 2
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 542d"
-generated_at: "2026-03-30T08:03:52.383Z"
+generated_at: "2026-03-30T08:08:20.059Z"
 status: "active"
 ---
 

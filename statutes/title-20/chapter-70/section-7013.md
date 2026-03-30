@@ -3,9 +3,9 @@ title: "Section 7013 - National clearinghouse"
 usc_title: 20
 usc_section: "7013"
 chapter: 70
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 7013"
-generated_at: "2026-03-30T08:03:44.174Z"
+generated_at: "2026-03-30T08:08:42.818Z"
 status: "active"
 ---
 

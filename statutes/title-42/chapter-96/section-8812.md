@@ -3,9 +3,9 @@ title: "Section 8812 - Program responsibility and administration and effect on o
 usc_title: 42
 usc_section: "8812"
 chapter: 96
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 8812"
-generated_at: "2026-03-30T08:05:50.562Z"
+generated_at: "2026-03-30T08:10:46.333Z"
 status: "active"
 ---
 

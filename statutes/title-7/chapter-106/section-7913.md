@@ -3,9 +3,9 @@ title: "Section 7913 - Availability of direct payments"
 usc_title: 7
 usc_section: "7913"
 chapter: 106
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 7913"
-generated_at: "2026-03-30T08:03:27.763Z"
+generated_at: "2026-03-30T08:07:12.860Z"
 status: "active"
 ---
 

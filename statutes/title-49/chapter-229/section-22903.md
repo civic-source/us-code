@@ -3,9 +3,9 @@ title: "Section 22903 - Project management oversight"
 usc_title: 49
 usc_section: "22903"
 chapter: 229
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "49 U.S.C. § 22903"
-generated_at: "2026-03-30T08:06:03.177Z"
+generated_at: "2026-03-30T08:11:00.501Z"
 status: "active"
 ---
 
@@ -24,5 +24,5 @@ status: "active"
   - **(10)** criteria and procedures to be used for testing the operational system or its major components;
   - **(11)** periodic updates of the plan, especially related to project budget and project schedule, financing, and ridership estimates; and
   - **(12)** the recipient’s commitment to submit periodically a project budget and project schedule to the Secretary.
-- **[(b)** Repealed. Pub. L. 114–94, div. A, title XI , § 11316(p), Dec. 4, 2015 , 129 Stat. 1679 ]
+- **[(b)** Repealed. Pub. L. 114–94, div. A, title XI, § 11316(p) , Dec. 4, 2015 , 129 Stat. 1679 ]
 - **(c)** Each recipient of assistance under this chapter shall provide the Secretary and a contractor the Secretary chooses under subsection (b) of this section with access to the construction sites and records of the recipient when reasonably necessary.

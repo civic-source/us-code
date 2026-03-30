@@ -3,9 +3,9 @@ title: "Section 8043 - Commandant of the Marine Corps"
 usc_title: 10
 usc_section: "8043"
 chapter: 806
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 8043"
-generated_at: "2026-03-30T08:03:31.174Z"
+generated_at: "2026-03-30T08:07:24.813Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1 1 See References in Text note below. of this title) as a general officer.
   - **(3)** The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 - **(b)** The Commandant of the Marine Corps, while so serving, has the grade of general without vacating his permanent grade.
-- **[(c)** Repealed. Pub. L. 104–106, div. A, title V , § 502(c), Feb. 10, 1996 , 110 Stat. 293 .]
+- **[(c)** Repealed. Pub. L. 104–106, div. A, title V, § 502(c) , Feb. 10, 1996 , 110 Stat. 293 .]
 - **(d)** Except as otherwise prescribed by law and subject to section 8013(f) of this title , the Commandant performs his duties under the authority, direction, and control of the Secretary of the Navy and is directly responsible to the Secretary.
 - **(e)** Subject to the authority, direction, and control of the Secretary of the Navy, the Commandant shall—
   - **(1)** preside over the Headquarters, Marine Corps;

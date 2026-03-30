@@ -3,9 +3,9 @@ title: "Section 362 - Automatic stay"
 usc_title: 11
 usc_section: "362"
 chapter: 3
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "11 U.S.C. § 362"
-generated_at: "2026-03-30T08:03:38.858Z"
+generated_at: "2026-03-30T08:07:46.169Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(G)** of the enforcement of a medical obligation, as specified under title IV of the Social Security Act;
   - **(3)** under subsection (a) of this section, of any act to perfect, or to maintain or continue the perfection of, an interest in property to the extent that the trustee’s rights and powers are subject to such perfection under section 546(b) of this title or to the extent that such act is accomplished within the period provided under section 547(e)(2)(A) of this title ;
   - **(4)** under paragraph (1), (2), (3), or (6) of subsection (a) of this section, of the commencement or continuation of an action or proceeding by a governmental unit or any organization exercising authority under the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993 , to enforce such governmental unit’s or organization’s police and regulatory power, including the enforcement of a judgment other than a money judgment, obtained in an action or proceeding by the governmental unit to enforce such governmental unit’s or organization’s police or regulatory power;
-  - **[(5)** Repealed. Pub. L. 105–277, div. I, title VI , § 603(1), Oct. 21, 1998 , 112 Stat. 2681–866 ;]
+  - **[(5)** Repealed. Pub. L. 105–277, div. I, title VI, § 603(1) , Oct. 21, 1998 , 112 Stat. 2681–866 ;]
   - **(6)** under subsection (a) of this section, of the exercise by a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency of any contractual right (as defined in section 555 or 556) under any security agreement or arrangement or other credit enhancement forming a part of or related to any commodity contract, forward contract or securities contract, or of any contractual right (as defined in section 555 or 556) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such contracts, including any master agreement for such contracts;
   - **(7)** under subsection (a) of this section, of the exercise by a repo participant or financial participant of any contractual right (as defined in section 559) under any security agreement or arrangement or other credit enhancement forming a part of or related to any repurchase agreement, or of any contractual right (as defined in section 559) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such agreements, including any master agreement for such agreements;
   - **(8)** under subsection (a) of this section, of the commencement of any action by the Secretary of Housing and Urban Development to foreclose a mortgage or deed of trust in any case in which the mortgage or deed of trust held by the Secretary is insured or was formerly insured under the National Housing Act and covers property, or combinations of property, consisting of five or more living units;

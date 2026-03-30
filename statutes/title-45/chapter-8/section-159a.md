@@ -3,9 +3,9 @@ title: "Section 159a - Special procedure for commuter service"
 usc_title: 45
 usc_section: "159a"
 chapter: 8
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "45 U.S.C. § 159a"
-generated_at: "2026-03-30T08:05:31.689Z"
+generated_at: "2026-03-30T08:10:34.475Z"
 status: "active"
 ---
 

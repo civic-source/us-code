@@ -1,11 +1,11 @@
 ---
-title: "Section 1 - Revocation of earned release credit"
+title: "Section 1932 - Revocation of earned release credit"
 usc_title: 28
-usc_section: "1"
+usc_section: "1932"
 chapter: 123
-current_through: "PL 116-19"
-classification: "28 U.S.C. § 1"
-generated_at: "2026-03-30T08:04:35.318Z"
+current_through: "PL 116-20"
+classification: "28 U.S.C. § 1932"
+generated_at: "2026-03-30T08:09:25.667Z"
 status: "active"
 ---
 

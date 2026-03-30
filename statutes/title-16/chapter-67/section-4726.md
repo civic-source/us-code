@@ -3,9 +3,9 @@ title: "Section 4726 - International cooperation"
 usc_title: 16
 usc_section: "4726"
 chapter: 67
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 4726"
-generated_at: "2026-03-30T08:03:52.501Z"
+generated_at: "2026-03-30T08:08:20.266Z"
 status: "active"
 ---
 

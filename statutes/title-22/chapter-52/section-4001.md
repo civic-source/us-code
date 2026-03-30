@@ -3,9 +3,9 @@ title: "Section 4001 - Promotions"
 usc_title: 22
 usc_section: "4001"
 chapter: 52
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "22 U.S.C. § 4001"
-generated_at: "2026-03-30T08:04:07.194Z"
+generated_at: "2026-03-30T08:08:48.615Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(B)** effective career development patterns to meet the needs of the Service; and
     - **(C)** a regular, predictable flow of talent upward through the ranks and into the Senior Foreign Service.
   - **(3)** The affidavit requirements of sections 3332 and 3333(a) of title 5 shall not apply with respect to a member of the Service who has previously complied with those requirements and who subsequently is promoted by appointment to any class in the Senior Foreign Service without a break in service.
-  - **(4)** , (5) Repealed. Pub. L. 114–323, title VII , § 715(b)(5), Dec. 16, 2016 , 130 Stat. 1946 .
+  - **(4)** , (5) Repealed. Pub. L. 114–323, title VII, § 715(b)(5) , Dec. 16, 2016 , 130 Stat. 1946 .
   - **(6)**
     - **(A)** The promotion of any individual joining the Service on or after January 1, 2017 , to the Senior Foreign Service shall be contingent upon such individual completing at least one tour in—
       - **(i)** a global affairs bureau; or

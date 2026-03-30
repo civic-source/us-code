@@ -1,13 +1,13 @@
 ---
-title: "Section 1723h - Repealed. Pub. L. 102–550, title IX , § 912(i)(2), Oct. 28, 1992 , 106 Stat. 3876"
+title: "Section 1723h - Repealed. Pub. L. 102–550, title IX, § 912(i)(2) , Oct. 28, 1992 , 106 Stat. 3876"
 usc_title: 12
 usc_section: "1723h"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 1723h"
-generated_at: "2026-03-30T08:03:36.199Z"
+generated_at: "2026-03-30T08:07:59.253Z"
 status: "repealed"
 ---
 
-# §§ 1723g, 1723h. Repealed. Pub. L. 102–550, title IX , § 912(i)(2), Oct. 28, 1992 , 106 Stat. 3876
+# §§ 1723g, 1723h. Repealed. Pub. L. 102–550, title IX, § 912(i)(2) , Oct. 28, 1992 , 106 Stat. 3876
 

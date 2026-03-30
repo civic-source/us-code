@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-30T08:03:31.059Z"
+generated_at: "2026-03-30T08:07:24.694Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The following definitions apply in this title:
   - **(1)** The term “United States”, in a geographic sense, means the States and the District of Columbia.
-  - **[(2)** Repealed. Pub. L. 109–163, div. A, title X , § 1057(a)(1), Jan. 6, 2006 , 119 Stat. 3440 .]
+  - **[(2)** Repealed. Pub. L. 109–163, div. A, title X, § 1057(a)(1) , Jan. 6, 2006 , 119 Stat. 3440 .]
   - **(3)** The term “possessions” includes the Virgin Islands, Guam, American Samoa, and the Guano Islands, so long as they remain possessions, but does not include any Commonwealth.
   - **(4)** The term “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
   - **(5)** The term “uniformed services” means—

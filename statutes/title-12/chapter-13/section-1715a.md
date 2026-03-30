@@ -1,13 +1,13 @@
 ---
-title: "Section 1715a - Repealed. June 3, 1939, ch. 175 , § 13, 53 Stat. 807"
+title: "Section 1715a - Repealed. June 3, 1939, ch. 175, § 13 , 53 Stat. 807"
 usc_title: 12
 usc_section: "1715a"
 chapter: 13
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 1715a"
-generated_at: "2026-03-30T08:03:36.186Z"
+generated_at: "2026-03-30T08:07:59.240Z"
 status: "repealed"
 ---
 
-# § 1715a. Repealed. June 3, 1939, ch. 175 , § 13, 53 Stat. 807
+# § 1715a. Repealed. June 3, 1939, ch. 175, § 13 , 53 Stat. 807
 

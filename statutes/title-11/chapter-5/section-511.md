@@ -3,9 +3,9 @@ title: "Section 511 - Rate of interest on tax claims"
 usc_title: 11
 usc_section: "511"
 chapter: 5
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "11 U.S.C. § 511"
-generated_at: "2026-03-30T08:03:38.860Z"
+generated_at: "2026-03-30T08:07:46.172Z"
 status: "active"
 ---
 

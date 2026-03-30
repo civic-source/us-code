@@ -1,13 +1,13 @@
 ---
-title: "Section 2918a - Repealed. Pub. L. 113–128, title V , § 511(a), July 22, 2014 , 128 Stat. 1705"
+title: "Section 2918a - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705"
 usc_title: 29
 usc_section: "2918a"
 chapter: 30
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "29 U.S.C. § 2918a"
-generated_at: "2026-03-30T08:04:29.620Z"
+generated_at: "2026-03-30T08:09:05.336Z"
 status: "repealed"
 ---
 
-# §§ 2917 to 2918a. Repealed. Pub. L. 113–128, title V , § 511(a), July 22, 2014 , 128 Stat. 1705
+# §§ 2917 to 2918a. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705
 

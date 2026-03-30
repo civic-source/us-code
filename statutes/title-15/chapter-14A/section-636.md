@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T08:03:38.206Z"
+generated_at: "2026-03-30T08:08:11.793Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
   - **(6)** All loans made under this subsection shall be of such sound value or so secured as reasonably to assure repayment: Provided, however , That—
     - **(A)** for loans to assist any public or private organization or to assist any handicapped individual as provided in paragraph (10) of this subsection any reasonable doubt shall be resolved in favor of the applicant;
     - **(B)** recognizing that greater risk may be associated with loans for energy measures as provided in paragraph (12) of this subsection, factors in determining “sound value” shall include, but not be limited to, quality of the product or service; technical qualifications of the applicant or his employees; sales projections; and the financial status of the business concern: Provided further , That such status need not be as sound as that required for general loans under this subsection; and 1 1 So in original. The “; and” probably should be a period.
-    - **(C)** Repealed. Pub. L. 97–35, title XIX , § 1910, Aug. 13, 1981 , 95 Stat. 778 .
+    - **(C)** Repealed. Pub. L. 97–35, title XIX, § 1910 , Aug. 13, 1981 , 95 Stat. 778 .
   - **(7)** The Administration may defer payments on the principal of such loans for a grace period and use such other methods as it deems necessary and appropriate to assure the successful establishment and operation of such concern.
   - **(8)** The Administration may make loans under this subsection to small business concerns owned and controlled by disabled veterans (as defined in section 4211(3) of title 38 ).
   - **(9)** The Administration may provide loans under this subsection to finance residential or commercial construction or rehabilitation for sale: Provided, however , That such loans shall not be used primarily for the acquisition of land.
@@ -182,7 +182,7 @@ status: "active"
     - **(B)** In this paragraph, the term ‘pilot program’ means any lending program initiative, project, innovation, or other activity not specifically authorized by law.
     - **(C)** The Administrator may carry out the low documentation loan program for loans of $100,000 or less only through lenders with significant experience in making small business loans. Not later than 90 days after September 30, 1996 , the Administrator shall promulgate regulations defining the experience necessary for participation as a lender in the low documentation loan program.
   - **(26)** All fees, interest, and profits received and retained by the Administration under this subsection shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2 ) to the Administration of purchasing and guaranteeing loans under this chapter.
-  - **(27)** Repealed. Pub. L. 106–8 , § 3(c), Apr. 2, 1999 , 113 Stat. 16 .
+  - **(27)** Repealed. Pub. L. 106–8, § 3(c) , Apr. 2, 1999 , 113 Stat. 16 .
   - **(28)** In addition to such other lease arrangements as may be authorized by the Administration, a borrower may permanently lease to one or more tenants not more than 20 percent of any property constructed with the proceeds of a loan guaranteed under this subsection, if the borrower permanently occupies and uses not less than 60 percent of the total business space in the property.
   - **(29)**
     - **(A)** With respect to a loan under this subsection that is secured by commercial real property, an appraisal of such property by a State licensed or certified appraiser—
@@ -531,7 +531,7 @@ status: "active"
   - **(5)** The financial assistance authorized for projects under this subsection includes assistance advanced by grant, agreement, or contract.
   - **(6)** The Administration is authorized to make payments under grants and contracts entered into under this subsection in lump sum or installments, and in advance or by way of reimbursement, and in the case of grants, with necessary adjustments on account of overpayments or underpayments.
   - **(7)** To the extent feasible, services under this subsection shall be provided in a location which is easily accessible to the individuals and small business concerns served.
-  - **(8)** Repealed. Pub. L. 101–574, title II , § 242(2), Nov. 15, 1990 , 104 Stat. 2827 .
+  - **(8)** Repealed. Pub. L. 101–574, title II, § 242(2) , Nov. 15, 1990 , 104 Stat. 2827 .
   - **(9)** The Administration shall take such steps as may be necessary and appropriate, in coordination and cooperation with the heads of other Federal departments and agencies, to insure that contracts, subcontracts, and deposits made by the Federal Government or with programs aided with Federal funds are placed in such way as to further the purposes of subsections (i) and (j) and section 637(a) of this title .
   - **(10)** There is established within the Administration a small business and capital ownership development program (hereinafter referred to as the “Program”) which shall provide assistance exclusively for small business concerns eligible to receive contracts pursuant to section 637(a) of this title . The program, and all other services and activities authorized under this subsection and section 637(a) of this title , shall be managed by the Associate Administrator for Minority Small Business and Capital Ownership Development under the supervision of, and responsible to, the Administrator.
     - **(A)** The Program shall—

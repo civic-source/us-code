@@ -3,9 +3,9 @@ title: "Section 396 - Corporation for Public Broadcasting"
 usc_title: 47
 usc_section: "396"
 chapter: 5
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "47 U.S.C. § 396"
-generated_at: "2026-03-30T08:06:10.642Z"
+generated_at: "2026-03-30T08:10:50.275Z"
 status: "active"
 ---
 
@@ -107,7 +107,7 @@ status: "active"
         - **(II)** Such independent production service shall be separate from the Corporation and shall be incorporated under the laws of the District of Columbia for the purpose of contracting with the Corporation for the expenditure of funds for the production of public television programs by independent producers and independent production entities.
         - **(III)** The Corporation shall work with organizations or associations of independent producers or independent production entities to develop a plan and budget for the operation of such service that is acceptable to the Corporation.
         - **(IV)** The Corporation shall ensure that the funds provided to such independent production service shall be used exclusively in pursuit of the Corporation’s obligation to expand the diversity and innovativeness of programming available to public broadcasting.
-        - **(V)** Repealed. Pub. L. 115–141, div. P, title IV , § 402(i)(8)(B)(ii), Mar. 23, 2018 , 132 Stat. 1090 .
+        - **(V)** Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(8)(B)(ii) , Mar. 23, 2018 , 132 Stat. 1090 .
         - **(VI)** The Corporation shall not contract to provide funds to any such independent production service, unless that service agrees to comply with public inspection requirements established by the Corporation within 3 months after August 26, 1992 . Under such requirements the service shall maintain at its offices a public file, updated regularly, containing information relating to the service’s award of funds for the production of programming. The information shall be available for public inspection and copying for at least 3 years and shall be of the same kind as the information required to be maintained by the Corporation under subsection ( l )(4)(B).
   - **(4)** Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization), or to the licensee or permittee of any public broadcast station, unless the governing body of any such organization, any committee of such governing body, or any advisory body of any such organization, holds open meetings preceded by reasonable notice to the public. All persons shall be permitted to attend any meeting of the board, or of any such committee or body, and no person shall be required, as a condition to attendance at any such meeting, to register such person’s name or to provide any other information. Nothing contained in this paragraph shall be construed to prevent any such board, committee, or body from holding closed sessions to consider matters relating to individual employees, proprietary information, litigation and other matters requiring the confidential advice of counsel, commercial or financial information obtained from a person on a privileged or confidential basis, or the purchase of property or services whenever the premature exposure of such purchase would compromise the business interests of any such organization. If any such meeting is closed pursuant to the provisions of this paragraph, the organization involved shall thereafter (within a reasonable period of time) make available to the public a written statement containing an explanation of the reasons for closing the meeting.
   - **(5)** Funds may not be distributed pursuant to this subsection to any public telecommunications entity that does not maintain for public examination copies of the annual financial and audit reports, or other information regarding finances, submitted to the Corporation pursuant to subsection (1)(3)(B). 1 1 So in original. Probably should be “( l )(3)(B).”

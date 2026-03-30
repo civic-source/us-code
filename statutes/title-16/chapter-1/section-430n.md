@@ -1,13 +1,13 @@
 ---
-title: "Section 430n - Repealed. Pub. L. 94–578, title III , § 319(5), Oct. 21, 1976 , 90 Stat. 2738"
+title: "Section 430n - Repealed. Pub. L. 94–578, title III, § 319(5) , Oct. 21, 1976 , 90 Stat. 2738"
 usc_title: 16
 usc_section: "430n"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "16 U.S.C. § 430n"
-generated_at: "2026-03-30T08:03:52.332Z"
+generated_at: "2026-03-30T08:08:20.010Z"
 status: "repealed"
 ---
 
-# § 430n. Repealed. Pub. L. 94–578, title III , § 319(5), Oct. 21, 1976 , 90 Stat. 2738
+# § 430n. Repealed. Pub. L. 94–578, title III, § 319(5) , Oct. 21, 1976 , 90 Stat. 2738
 

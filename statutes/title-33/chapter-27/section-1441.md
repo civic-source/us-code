@@ -3,9 +3,9 @@ title: "Section 1441 - Monitoring and research program"
 usc_title: 33
 usc_section: "1441"
 chapter: 27
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "33 U.S.C. § 1441"
-generated_at: "2026-03-30T08:04:51.711Z"
+generated_at: "2026-03-30T08:10:20.143Z"
 status: "active"
 ---
 

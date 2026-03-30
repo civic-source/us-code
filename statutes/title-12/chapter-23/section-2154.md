@@ -3,9 +3,9 @@ title: "Section 2154 - Capital adequacy of banks and institutions"
 usc_title: 12
 usc_section: "2154"
 chapter: 23
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "12 U.S.C. § 2154"
-generated_at: "2026-03-30T08:03:36.240Z"
+generated_at: "2026-03-30T08:07:59.294Z"
 status: "active"
 ---
 

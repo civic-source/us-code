@@ -3,9 +3,9 @@ title: "Section 719e - Presidential decision and report"
 usc_title: 15
 usc_section: "719e"
 chapter: 15
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "15 U.S.C. § 719e"
-generated_at: "2026-03-30T08:03:38.232Z"
+generated_at: "2026-03-30T08:08:11.820Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** designate a person to construct and operate such a system, which person shall be the applicant, if any, which filed for a certificate of public convenience and necessity to construct and operate such system;
     - **(C)** identify those facilities, the construction of which, and those operations, the conduct of which, shall be encompassed within the term “construction and initial operation” for purposes of defining the scope of the directions contained in section 719g of this title , taking into consideration any recommendation of the Commission with respect thereto; and
     - **(D)** identify those provisions of law, relating to any determination of a Federal officer or agency as to whether a certificate, permit, right-of-way, lease, or other authorization shall be issued or be granted, which provisions the President finds (i) involve determinations which are subsumed in his decision and (ii) require waiver pursuant to section 719f(g) of this title in order to permit the expeditious construction and initial operation of the transportation system.
-  - **(5)** Repealed. Pub. L. 102–486, title XXX , § 3012(a), Oct. 24, 1992 , 106 Stat. 3128 .
+  - **(5)** Repealed. Pub. L. 102–486, title XXX, § 3012(a) , Oct. 24, 1992 , 106 Stat. 3128 .
   - **(6)** If the President determines to designate for approval a transportation system for delivery of Alaska natural gas to the contiguous States, he may identify in such decision such terms and conditions permissible under existing law as he determines appropriate for inclusion with respect to any issuance or authorization directed to be made pursuant to section 719g of this title .
 - **(b)** The decision of the President made pursuant to subsection (a) of this section shall be transmitted to both Houses of Congress and shall be considered received by such Houses for the purposes of this section on the first day on which both are in session occurring after such decision is transmitted. Such decision shall be accompanied by a report explaining in detail the basis for his decision with specific reference to the factors set forth in sections 719c(c) and 719d(a) of this title, and the reasons for any revision, modification of, or substitution for, the Commission recommendation.
 - **(c)** The report of the President pursuant to subsection (b) of this section shall contain a financial analysis for the transportation system designated for approval. Unless the President finds and states in his report submitted pursuant to this section that he reasonably anticipates that the system designated by him can be privately financed, constructed, and operated, his report shall also be accompanied by his recommendation concerning the use of existing Federal financing authority or the need for new Federal financing authority.

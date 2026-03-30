@@ -3,9 +3,9 @@ title: "Section 5174a - Flexibility"
 usc_title: 42
 usc_section: "5174a"
 chapter: 68
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "42 U.S.C. § 5174a"
-generated_at: "2026-03-30T08:05:50.460Z"
+generated_at: "2026-03-30T08:10:46.228Z"
 status: "active"
 ---
 
@@ -35,6 +35,6 @@ status: "active"
   - **(1)**
   - **(2)**
     - **(A)** With respect to disaster or emergency assistance provided to a State or local government on or after January 1, 2004 —
-      - **(i)** no administrative action may be taken to recover a payment of such assistance after October 5, 2018 if the action is prohibited under section 5205(a)(1) of this title , as amended by paragraph (1); and
+      - **(i)** no administrative action may be taken to recover a payment of such assistance after October 5, 2018 , if the action is prohibited under section 5205(a)(1) of this title , as amended by paragraph (1); and
       - **(ii)** any administrative action to recover a payment of such assistance that is pending on such date of enactment shall be terminated if the action is prohibited under section 5205(a)(1) of this title , as amended by paragraph (1).
     - **(B)** This section, including the amendments made by this section, may not be construed to invalidate or otherwise affect any administration action completed before October 5, 2018 .

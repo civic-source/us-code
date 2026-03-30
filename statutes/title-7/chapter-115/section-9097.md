@@ -3,9 +3,9 @@ title: "Section 9097 - Implementation"
 usc_title: 7
 usc_section: "9097"
 chapter: 115
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "7 U.S.C. § 9097"
-generated_at: "2026-03-30T08:03:27.780Z"
+generated_at: "2026-03-30T08:07:12.877Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
         - **(II)** require the products described in clause (i) to be made available to producers on the internet within a reasonable period of time, as determined by the Secretary, after the implementation of the first rule implementing programs required under subchapter I of this chapter.
   - **(4)** The Secretary shall make available to the Farm Service Agency to carry out title I of the Agriculture Improvement Act of 2018 and the amendments made by that title $15,500,000.
 - **(d)**
-  - **(1)** In any crop year in which an order is issued pursuant 1 1 So in original. Probably should be followed by “to”. section 901(a) of title 2 , the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support, loan, or assistance that is otherwise required under subtitle B or C, under the amendments made by subtitle B or C, or under the amendments made by subtitle B or C of the Agriculture Improvement Act of 2018, 2 2 See References in Text note below. except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
+  - **(1)** In any crop year in which an order is issued pursuant 2 2 So in original. Probably should be followed by “to”. section 901(a) of title 2 , the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support, loan, or assistance that is otherwise required under subtitle B or C, under the amendments made by subtitle B or C, or under the amendments made by subtitle B or C of the Agriculture Improvement Act of 2018, 1 except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
   - **(2)** In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles 3 3 So in original. Probably should be “subtitle”. B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles 3 B or C and as supplemented in accordance with paragraph (1).
 - **(e)**
   - **(1)** Subject to paragraph (3), any payment obligated or otherwise made available by the Secretary under this chapter on or after December 20, 2018 , that is not disbursed to the recipient by the date that is 5 years after the date on which the payment is obligated or otherwise made available shall—

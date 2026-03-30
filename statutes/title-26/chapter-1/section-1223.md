@@ -3,9 +3,9 @@ title: "Section 1223 - Holding period of property"
 usc_title: 26
 usc_section: "1223"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 1223"
-generated_at: "2026-03-30T08:04:18.695Z"
+generated_at: "2026-03-30T08:10:09.544Z"
 status: "active"
 ---
 
@@ -20,9 +20,9 @@ For purposes of this subtitle—
   - **(3)** In determining the period for which the taxpayer has held stock or securities the acquisition of which (or the contract or option to acquire which) resulted in the nondeductibility (under section 1091 relating to wash sales) of the loss from the sale or other disposition of substantially identical stock or securities, there shall be included the period for which he held the stock or securities the loss from the sale or other disposition of which was not deductible.
   - **(4)** In determining the period for which the taxpayer has held stock or rights to acquire stock received on a distribution, if the basis of such stock or rights is determined under section 307, there shall (under regulations prescribed by the Secretary) be included the period for which he held the stock in the distributing corporation before the receipt of such stock or rights upon such distribution.
   - **(5)** In determining the period for which the taxpayer has held stock or securities acquired from a corporation by the exercise of rights to acquire such stock or securities, there shall be included only the period beginning with the date on which the right to acquire was exercised.
-  - **[(6)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(80)(C), Dec. 19, 2014 , 128 Stat. 4049 .]
+  - **[(6)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(80)(C) , Dec. 19, 2014 , 128 Stat. 4049 .]
   - **(7)** In determining the period for which the taxpayer has held a commodity acquired in satisfaction of a commodity futures contract (other than a commodity futures contract to which section 1256 applies) there shall be included the period for which he held the commodity futures contract if such commodity futures contract was a capital asset in his hands.
-  - **[(8)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(80)(C), Dec. 19, 2014 , 128 Stat. 4049 .]
+  - **[(8)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(80)(C) , Dec. 19, 2014 , 128 Stat. 4049 .]
   - **(9)** In the case of a person acquiring property from a decedent or to whom property passed from a decedent (within the meaning of section 1014(b)), if—
     - **(A)** the basis of such property in the hands of such person is determined under section 1014, and
     - **(B)** such property is sold or otherwise disposed of by such person within 1 year after the decedent’s death,

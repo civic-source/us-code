@@ -3,9 +3,9 @@ title: "Section 98 - Purchase of supplies without authority"
 usc_title: 25
 usc_section: "98"
 chapter: 4
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "25 U.S.C. § 98"
-generated_at: "2026-03-30T08:04:00.339Z"
+generated_at: "2026-03-30T08:08:55.689Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8121 - Revolving supply fund"
 usc_title: 38
 usc_section: "8121"
 chapter: 81
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "38 U.S.C. § 8121"
-generated_at: "2026-03-30T08:05:13.844Z"
+generated_at: "2026-03-30T08:10:31.177Z"
 status: "active"
 ---
 

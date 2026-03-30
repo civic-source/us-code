@@ -3,9 +3,9 @@ title: "Section 1673b - Preliminary determinations"
 usc_title: 19
 usc_section: "1673b"
 chapter: 4
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "19 U.S.C. § 1673b"
-generated_at: "2026-03-30T08:03:49.401Z"
+generated_at: "2026-03-30T08:08:17.909Z"
 status: "active"
 ---
 

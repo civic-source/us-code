@@ -1,13 +1,13 @@
 ---
-title: "Section 80a - Repealed. Apr. 24, 1944, ch. 177 , § 4, 58 Stat. 215"
+title: "Section 80a - Repealed. Apr. 24, 1944, ch. 177, § 4 , 58 Stat. 215"
 usc_title: 43
 usc_section: "80a"
 chapter: 4
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "43 U.S.C. § 80a"
-generated_at: "2026-03-30T08:05:32.654Z"
+generated_at: "2026-03-30T08:10:33.773Z"
 status: "repealed"
 ---
 
-# §§ 80, 80a. Repealed. Apr. 24, 1944, ch. 177 , § 4, 58 Stat. 215
+# §§ 80, 80a. Repealed. Apr. 24, 1944, ch. 177, § 4 , 58 Stat. 215
 

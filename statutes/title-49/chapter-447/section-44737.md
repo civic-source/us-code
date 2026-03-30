@@ -1,11 +1,11 @@
 ---
-title: "Section 1 - Special rule for certain aircraft operations. 2 2 So in original. The period probably should not appear."
+title: "Section 44737 - Special rule for certain aircraft operations. 2 2 So in original. The period probably should not appear."
 usc_title: 49
-usc_section: "1"
+usc_section: "44737"
 chapter: 447
-current_through: "PL 116-19"
-classification: "49 U.S.C. § 1"
-generated_at: "2026-03-30T08:06:03.213Z"
+current_through: "PL 116-20"
+classification: "49 U.S.C. § 44737"
+generated_at: "2026-03-30T08:11:00.537Z"
 status: "active"
 ---
 

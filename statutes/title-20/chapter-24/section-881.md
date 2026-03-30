@@ -3,9 +3,9 @@ title: "Section 881 - Transferred"
 usc_title: 20
 usc_section: "881"
 chapter: 24
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "20 U.S.C. § 881"
-generated_at: "2026-03-30T08:03:44.072Z"
+generated_at: "2026-03-30T08:08:42.726Z"
 status: "transferred"
 ---
 

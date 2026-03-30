@@ -3,9 +3,9 @@ title: "Section 1385 - Corrective action"
 usc_title: 33
 usc_section: "1385"
 chapter: 26
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "33 U.S.C. § 1385"
-generated_at: "2026-03-30T08:04:51.709Z"
+generated_at: "2026-03-30T08:10:20.141Z"
 status: "active"
 ---
 

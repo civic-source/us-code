@@ -1,11 +1,11 @@
 ---
-title: "Section 1 - Retention and relocation bonuses for the Federal Bureau of Investigation"
+title: "Section 5759 - Retention and relocation bonuses for the Federal Bureau of Investigation"
 usc_title: 5
-usc_section: "1"
+usc_section: "5759"
 chapter: 57
-current_through: "PL 116-19"
-classification: "5 U.S.C. § 1"
-generated_at: "2026-03-30T08:03:20.935Z"
+current_through: "PL 116-20"
+classification: "5 U.S.C. § 5759"
+generated_at: "2026-03-30T08:07:04.252Z"
 status: "active"
 ---
 

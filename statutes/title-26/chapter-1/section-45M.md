@@ -1,13 +1,13 @@
 ---
-title: "Section 45M - Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(2)(A), Mar. 23, 2018 , 132 Stat. 1208 ]"
+title: "Section 45M - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(2)(A) , Mar. 23, 2018 , 132 Stat. 1208 ]"
 usc_title: 26
 usc_section: "45M"
 chapter: 1
-current_through: "PL 116-19"
+current_through: "PL 116-20"
 classification: "26 U.S.C. § 45M"
-generated_at: "2026-03-30T08:04:18.577Z"
+generated_at: "2026-03-30T08:10:09.433Z"
 status: "repealed"
 ---
 
-# [§ 45M. Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(2)(A), Mar. 23, 2018 , 132 Stat. 1208 ]
+# [§ 45M. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(2)(A) , Mar. 23, 2018 , 132 Stat. 1208 ]
 
