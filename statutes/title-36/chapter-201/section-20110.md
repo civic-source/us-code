@@ -3,9 +3,9 @@ title: "Section 20110 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "20110"
 chapter: 201
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "36 U.S.C. § 20110"
-generated_at: "2026-03-30T06:52:28.283Z"
+generated_at: "2026-03-30T06:54:33.193Z"
 status: "active"
 ---
 

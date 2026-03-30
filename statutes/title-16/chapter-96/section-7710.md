@@ -3,9 +3,9 @@ title: "Section 7710 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7710"
 chapter: 96
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 7710"
-generated_at: "2026-03-30T06:52:03.039Z"
+generated_at: "2026-03-30T06:53:52.733Z"
 status: "active"
 ---
 

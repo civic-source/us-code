@@ -3,9 +3,9 @@ title: "Section 3223 - Grants for acquisition and improvement of research facili
 usc_title: 7
 usc_section: "3223"
 chapter: 64
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 3223"
-generated_at: "2026-03-30T06:51:35.058Z"
+generated_at: "2026-03-30T06:53:26.330Z"
 status: "active"
 ---
 

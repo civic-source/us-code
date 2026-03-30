@@ -3,9 +3,9 @@ title: "Section 300 - Application of State laws"
 usc_title: 15
 usc_section: "300"
 chapter: 8
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 300"
-generated_at: "2026-03-30T06:51:51.814Z"
+generated_at: "2026-03-30T06:53:42.929Z"
 status: "active"
 ---
 

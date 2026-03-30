@@ -3,9 +3,9 @@ title: "Section 253 - Interference with State and Federal law"
 usc_title: 10
 usc_section: "253"
 chapter: 13
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 253"
-generated_at: "2026-03-30T06:51:38.250Z"
+generated_at: "2026-03-30T06:53:29.778Z"
 status: "active"
 ---
 

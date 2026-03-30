@@ -3,9 +3,9 @@ title: "Section 2704 - Notice and hearing upon proposed orders"
 usc_title: 7
 usc_section: "2704"
 chapter: 60
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 2704"
-generated_at: "2026-03-30T06:51:35.051Z"
+generated_at: "2026-03-30T06:53:26.324Z"
 status: "active"
 ---
 

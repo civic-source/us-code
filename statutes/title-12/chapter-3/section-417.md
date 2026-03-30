@@ -3,9 +3,9 @@ title: "Section 417 - Custody and safe-keeping of notes issued to and collateral
 usc_title: 12
 usc_section: "417"
 chapter: 3
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "12 U.S.C. § 417"
-generated_at: "2026-03-30T06:51:49.087Z"
+generated_at: "2026-03-30T06:53:35.977Z"
 status: "active"
 ---
 

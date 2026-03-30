@@ -3,9 +3,9 @@ title: "Section 5311 - Repealed. Pub. L. 103–382, title III , § 391(l), Oct. 
 usc_title: 20
 usc_section: "5311"
 chapter: 64
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "20 U.S.C. § 5311"
-generated_at: "2026-03-30T06:51:58.246Z"
+generated_at: "2026-03-30T06:53:49.549Z"
 status: "repealed"
 ---
 

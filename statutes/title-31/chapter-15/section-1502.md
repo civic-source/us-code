@@ -3,9 +3,9 @@ title: "Section 1502 - Balances available"
 usc_title: 31
 usc_section: "1502"
 chapter: 15
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "31 U.S.C. § 1502"
-generated_at: "2026-03-30T06:52:23.347Z"
+generated_at: "2026-03-30T06:54:29.184Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7431 - Civil damages for unauthorized inspection or disclosure o
 usc_title: 26
 usc_section: "7431"
 chapter: 76
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "26 U.S.C. § 7431"
-generated_at: "2026-03-30T06:52:20.131Z"
+generated_at: "2026-03-30T06:54:25.872Z"
 status: "active"
 ---
 

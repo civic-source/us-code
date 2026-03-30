@@ -3,9 +3,9 @@ title: "Section 17096 - Authorization of appropriations"
 usc_title: 42
 usc_section: "17096"
 chapter: 152
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 17096"
-generated_at: "2026-03-30T06:52:47.239Z"
+generated_at: "2026-03-30T06:54:49.693Z"
 status: "active"
 ---
 

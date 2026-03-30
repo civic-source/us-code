@@ -3,9 +3,9 @@ title: "Section 21117 - Authorization of appropriations"
 usc_title: 34
 usc_section: "21117"
 chapter: 211
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "34 U.S.C. § 21117"
-generated_at: "2026-03-30T06:52:22.736Z"
+generated_at: "2026-03-30T06:54:29.739Z"
 status: "active"
 ---
 
@@ -21,5 +21,5 @@ status: "active"
   - **(7)** $60,000,000 for fiscal year 2015;
   - **(8)** $60,000,000 for fiscal year 2016;
   - **(9)** $60,000,000 for fiscal year 2017; and
-  - **(10)** $60,000,000 for fiscal year 2018.
+  - **(10)** $60,000,000 for each of fiscal years 2018 through 2022.
 - **(b)** Funds appropriated under subsection (a) shall remain available until expended.

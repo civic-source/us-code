@@ -3,9 +3,9 @@ title: "Section 1202 - Transferred"
 usc_title: 2
 usc_section: "1202"
 chapter: 23
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "2 U.S.C. § 1202"
-generated_at: "2026-03-30T06:51:23.259Z"
+generated_at: "2026-03-30T06:53:13.488Z"
 status: "transferred"
 ---
 

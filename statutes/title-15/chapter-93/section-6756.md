@@ -3,9 +3,9 @@ title: "Section 6756 - Powers"
 usc_title: 15
 usc_section: "6756"
 chapter: 93
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 6756"
-generated_at: "2026-03-30T06:51:51.929Z"
+generated_at: "2026-03-30T06:53:43.039Z"
 status: "active"
 ---
 

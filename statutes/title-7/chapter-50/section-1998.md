@@ -3,9 +3,9 @@ title: "Section 1998 - Guaranteed farm loan programs"
 usc_title: 7
 usc_section: "1998"
 chapter: 50
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 1998"
-generated_at: "2026-03-30T06:51:35.024Z"
+generated_at: "2026-03-30T06:53:26.299Z"
 status: "active"
 ---
 

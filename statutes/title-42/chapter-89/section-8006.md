@@ -3,9 +3,9 @@ title: "Section 8006 - Application procedure for assistance"
 usc_title: 42
 usc_section: "8006"
 chapter: 89
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 8006"
-generated_at: "2026-03-30T06:52:47.110Z"
+generated_at: "2026-03-30T06:54:49.565Z"
 status: "active"
 ---
 

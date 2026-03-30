@@ -3,9 +3,9 @@ title: "Section 12121 - Task force on prison construction standardization and te
 usc_title: 34
 usc_section: "12121"
 chapter: 121
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "34 U.S.C. § 12121"
-generated_at: "2026-03-30T06:52:22.719Z"
+generated_at: "2026-03-30T06:54:29.723Z"
 status: "active"
 ---
 

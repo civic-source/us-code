@@ -3,9 +3,9 @@ title: "Section 1320 - Ownership and transfer"
 usc_title: 17
 usc_section: "1320"
 chapter: 13
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "17 U.S.C. § 1320"
-generated_at: "2026-03-30T06:51:53.789Z"
+generated_at: "2026-03-30T06:53:56.752Z"
 status: "active"
 ---
 

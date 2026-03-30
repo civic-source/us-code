@@ -3,9 +3,9 @@ title: "Section 2325a - Authority to accept and use materials and services"
 usc_title: 33
 usc_section: "2325a"
 chapter: 36
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 2325a"
-generated_at: "2026-03-30T06:52:24.302Z"
+generated_at: "2026-03-30T06:54:30.520Z"
 status: "active"
 ---
 

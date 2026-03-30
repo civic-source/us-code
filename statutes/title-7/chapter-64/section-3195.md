@@ -3,9 +3,9 @@ title: "Section 3195 - Continuing animal health and disease, food security, and 
 usc_title: 7
 usc_section: "3195"
 chapter: 64
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 3195"
-generated_at: "2026-03-30T06:51:35.057Z"
+generated_at: "2026-03-30T06:53:26.330Z"
 status: "active"
 ---
 

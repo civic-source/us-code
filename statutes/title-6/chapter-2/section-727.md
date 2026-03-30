@@ -3,9 +3,9 @@ title: "Section 727 - Improvements to information technology systems"
 usc_title: 6
 usc_section: "727"
 chapter: 2
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "6 U.S.C. § 727"
-generated_at: "2026-03-30T06:51:42.636Z"
+generated_at: "2026-03-30T06:53:26.800Z"
 status: "active"
 ---
 

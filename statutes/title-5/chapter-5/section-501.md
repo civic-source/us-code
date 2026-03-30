@@ -3,9 +3,9 @@ title: "Section 501 - Advertising practice; restrictions"
 usc_title: 5
 usc_section: "501"
 chapter: 5
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "5 U.S.C. § 501"
-generated_at: "2026-03-30T06:51:25.291Z"
+generated_at: "2026-03-30T06:53:15.177Z"
 status: "active"
 ---
 

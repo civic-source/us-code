@@ -3,9 +3,9 @@ title: "Section 20928 - Sex Offender Management Assistance (SOMA) program"
 usc_title: 34
 usc_section: "20928"
 chapter: 209
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "34 U.S.C. § 20928"
-generated_at: "2026-03-30T06:52:22.734Z"
+generated_at: "2026-03-30T06:54:29.737Z"
 status: "active"
 ---
 

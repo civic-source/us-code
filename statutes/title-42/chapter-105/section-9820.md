@@ -3,9 +3,9 @@ title: "Section 9820 - Grants to plan economic development and cooperative progr
 usc_title: 42
 usc_section: "9820"
 chapter: 105
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 9820"
-generated_at: "2026-03-30T06:52:47.138Z"
+generated_at: "2026-03-30T06:54:49.594Z"
 status: "active"
 ---
 

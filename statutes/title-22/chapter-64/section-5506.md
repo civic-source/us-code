@@ -3,9 +3,9 @@ title: "Section 5506 - Department of State responsibilities and procedures at in
 usc_title: 22
 usc_section: "5506"
 chapter: 64
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 5506"
-generated_at: "2026-03-30T06:52:09.378Z"
+generated_at: "2026-03-30T06:54:15.763Z"
 status: "active"
 ---
 

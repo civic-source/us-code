@@ -3,9 +3,9 @@ title: "Section 5308 - Withholding benefits of persons in territory of the enemy
 usc_title: 38
 usc_section: "5308"
 chapter: 53
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "38 U.S.C. § 5308"
-generated_at: "2026-03-30T06:52:29.403Z"
+generated_at: "2026-03-30T06:54:36.640Z"
 status: "active"
 ---
 

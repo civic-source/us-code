@@ -3,9 +3,9 @@ title: "Section 407n - Cooperative agreements between Secretary of the Interior 
 usc_title: 16
 usc_section: "407n"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 407n"
-generated_at: "2026-03-30T06:52:02.832Z"
+generated_at: "2026-03-30T06:53:52.488Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1725 - Postage unpaid on deposited mail matter"
 usc_title: 18
 usc_section: "1725"
 chapter: 83
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "18 U.S.C. § 1725"
-generated_at: "2026-03-30T06:51:55.194Z"
+generated_at: "2026-03-30T06:54:03.090Z"
 status: "active"
 ---
 

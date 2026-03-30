@@ -3,9 +3,9 @@ title: "Section 2383 - Responsibilities of the Secretary of Defense; priorities 
 usc_title: 22
 usc_section: "2383"
 chapter: 32
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 2383"
-generated_at: "2026-03-30T06:52:09.332Z"
+generated_at: "2026-03-30T06:54:15.716Z"
 status: "active"
 ---
 

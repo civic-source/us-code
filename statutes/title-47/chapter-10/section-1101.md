@@ -3,9 +3,9 @@ title: "Section 1101 - Omitted"
 usc_title: 47
 usc_section: "1101"
 chapter: 10
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "47 U.S.C. § 1101"
-generated_at: "2026-03-30T06:52:50.780Z"
+generated_at: "2026-03-30T06:54:57.107Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17734 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "17734"
 chapter: 155
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 17734"
-generated_at: "2026-03-30T06:52:47.246Z"
+generated_at: "2026-03-30T06:54:49.700Z"
 status: "repealed"
 ---
 

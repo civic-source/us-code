@@ -3,9 +3,9 @@ title: "Section 2006a - Borrower training"
 usc_title: 7
 usc_section: "2006a"
 chapter: 50
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 2006a"
-generated_at: "2026-03-30T06:51:35.025Z"
+generated_at: "2026-03-30T06:53:26.299Z"
 status: "active"
 ---
 

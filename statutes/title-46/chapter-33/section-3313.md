@@ -3,9 +3,9 @@ title: "Section 3313 - Compliance with certificate of inspection"
 usc_title: 46
 usc_section: "3313"
 chapter: 33
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "46 U.S.C. § 3313"
-generated_at: "2026-03-30T06:52:50.358Z"
+generated_at: "2026-03-30T06:54:52.633Z"
 status: "active"
 ---
 

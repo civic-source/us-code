@@ -3,9 +3,9 @@ title: "Section 352 - Benefits"
 usc_title: 45
 usc_section: "352"
 chapter: 11
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "45 U.S.C. § 352"
-generated_at: "2026-03-30T06:52:32.393Z"
+generated_at: "2026-03-30T06:54:38.841Z"
 status: "active"
 ---
 

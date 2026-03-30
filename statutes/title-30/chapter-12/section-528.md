@@ -3,9 +3,9 @@ title: "Section 528 - Waiver and relinquishment of mineral rights"
 usc_title: 30
 usc_section: "528"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "30 U.S.C. § 528"
-generated_at: "2026-03-30T06:52:13.693Z"
+generated_at: "2026-03-30T06:54:18.097Z"
 status: "active"
 ---
 

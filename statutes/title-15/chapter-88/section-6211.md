@@ -3,9 +3,9 @@ title: "Section 6211 - Definitions"
 usc_title: 15
 usc_section: "6211"
 chapter: 88
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 6211"
-generated_at: "2026-03-30T06:51:51.924Z"
+generated_at: "2026-03-30T06:53:43.034Z"
 status: "active"
 ---
 

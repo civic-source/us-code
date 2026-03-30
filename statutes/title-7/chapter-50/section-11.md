@@ -3,9 +3,9 @@ title: "Section 11 - Examinations"
 usc_title: 7
 usc_section: "11"
 chapter: 50
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 11"
-generated_at: "2026-03-30T06:51:35.030Z"
+generated_at: "2026-03-30T06:53:26.304Z"
 status: "active"
 ---
 

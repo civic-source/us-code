@@ -3,9 +3,9 @@ title: "Section 11327 - Supplemental orders"
 usc_title: 49
 usc_section: "11327"
 chapter: 113
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "49 U.S.C. § 11327"
-generated_at: "2026-03-30T06:52:59.155Z"
+generated_at: "2026-03-30T06:54:56.291Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7324 - Annual report on use of authorities to enhance retention 
 usc_title: 38
 usc_section: "7324"
 chapter: 73
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "38 U.S.C. § 7324"
-generated_at: "2026-03-30T06:52:29.409Z"
+generated_at: "2026-03-30T06:54:36.647Z"
 status: "active"
 ---
 

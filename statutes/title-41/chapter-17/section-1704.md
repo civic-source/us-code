@@ -3,9 +3,9 @@ title: "Section 1704 - Planning and policy-making for acquisition workforce"
 usc_title: 41
 usc_section: "1704"
 chapter: 17
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "41 U.S.C. § 1704"
-generated_at: "2026-03-30T06:52:34.629Z"
+generated_at: "2026-03-30T06:54:38.598Z"
 status: "active"
 ---
 

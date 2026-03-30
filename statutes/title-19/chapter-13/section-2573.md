@@ -3,9 +3,9 @@ title: "Section 2573 - Reports to Congress on operation of agreement"
 usc_title: 19
 usc_section: "2573"
 chapter: 13
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "19 U.S.C. § 2573"
-generated_at: "2026-03-30T06:51:56.455Z"
+generated_at: "2026-03-30T06:53:46.777Z"
 status: "active"
 ---
 

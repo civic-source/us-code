@@ -3,9 +3,9 @@ title: "Section 2371b - Authority of the Department of Defense to carry out cert
 usc_title: 10
 usc_section: "2371b"
 chapter: 139
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 2371b"
-generated_at: "2026-03-30T06:51:38.321Z"
+generated_at: "2026-03-30T06:53:29.849Z"
 status: "active"
 ---
 

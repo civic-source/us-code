@@ -3,9 +3,9 @@ title: "Section 7 - Congressional Budget Act compliance"
 usc_title: 20
 usc_section: "7"
 chapter: 3
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "20 U.S.C. § 7"
-generated_at: "2026-03-30T06:51:58.109Z"
+generated_at: "2026-03-30T06:53:49.460Z"
 status: "active"
 ---
 

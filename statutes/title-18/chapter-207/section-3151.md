@@ -3,9 +3,9 @@ title: "Section 3151 - Refund of forfeited bail"
 usc_title: 18
 usc_section: "3151"
 chapter: 207
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "18 U.S.C. § 3151"
-generated_at: "2026-03-30T06:51:55.211Z"
+generated_at: "2026-03-30T06:54:03.105Z"
 status: "active"
 ---
 

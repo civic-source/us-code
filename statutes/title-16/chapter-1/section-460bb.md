@@ -3,9 +3,9 @@ title: "Section 460bb - Establishment"
 usc_title: 16
 usc_section: "460bb"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 460bb"
-generated_at: "2026-03-30T06:52:02.874Z"
+generated_at: "2026-03-30T06:53:52.530Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 821 - Art. 21. Jurisdiction of courts-martial not exclusive"
 usc_title: 10
 usc_section: "821"
 chapter: 47
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 821"
-generated_at: "2026-03-30T06:51:38.265Z"
+generated_at: "2026-03-30T06:53:29.793Z"
 status: "active"
 ---
 

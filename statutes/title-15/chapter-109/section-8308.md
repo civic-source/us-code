@@ -3,9 +3,9 @@ title: "Section 8308 - Memorandum"
 usc_title: 15
 usc_section: "8308"
 chapter: 109
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 8308"
-generated_at: "2026-03-30T06:51:51.941Z"
+generated_at: "2026-03-30T06:53:43.051Z"
 status: "active"
 ---
 

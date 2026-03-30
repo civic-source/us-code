@@ -3,9 +3,9 @@ title: "Section 132a - Deputy Chief Management Officer"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-30T06:51:38.245Z"
+generated_at: "2026-03-30T06:53:29.772Z"
 status: "active"
 ---
 

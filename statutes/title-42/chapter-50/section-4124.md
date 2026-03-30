@@ -3,9 +3,9 @@ title: "Section 4124 - Applicability of fiscal controls"
 usc_title: 42
 usc_section: "4124"
 chapter: 50
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 4124"
-generated_at: "2026-03-30T06:52:47.002Z"
+generated_at: "2026-03-30T06:54:49.457Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 523 - Storage and transportation of water for irrigation distric
 usc_title: 43
 usc_section: "523"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "43 U.S.C. § 523"
-generated_at: "2026-03-30T06:52:32.118Z"
+generated_at: "2026-03-30T06:54:39.355Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 414 - Removal by Secretary of the Army of sunken water craft gen
 usc_title: 33
 usc_section: "414"
 chapter: 9
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 414"
-generated_at: "2026-03-30T06:52:24.249Z"
+generated_at: "2026-03-30T06:54:30.462Z"
 status: "active"
 ---
 

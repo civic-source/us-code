@@ -3,9 +3,9 @@ title: "Section 5731 - Expenses limited to lowest first-class rate"
 usc_title: 5
 usc_section: "5731"
 chapter: 57
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "5 U.S.C. § 5731"
-generated_at: "2026-03-30T06:51:25.337Z"
+generated_at: "2026-03-30T06:53:15.203Z"
 status: "active"
 ---
 

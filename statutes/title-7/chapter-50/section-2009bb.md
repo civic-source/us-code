@@ -3,9 +3,9 @@ title: "Section 2009bb - Definitions"
 usc_title: 7
 usc_section: "2009bb"
 chapter: 50
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 2009bb"
-generated_at: "2026-03-30T06:51:35.028Z"
+generated_at: "2026-03-30T06:53:26.303Z"
 status: "active"
 ---
 

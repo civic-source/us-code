@@ -3,9 +3,9 @@ title: "Section 285y - Additional contribution to special funds; authorization o
 usc_title: 22
 usc_section: "285y"
 chapter: 7
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 285y"
-generated_at: "2026-03-30T06:52:09.292Z"
+generated_at: "2026-03-30T06:54:15.676Z"
 status: "active"
 ---
 

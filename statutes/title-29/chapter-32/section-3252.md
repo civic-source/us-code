@@ -3,9 +3,9 @@ title: "Section 3252 - Transfer of Federal equity in State employment security a
 usc_title: 29
 usc_section: "3252"
 chapter: 32
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "29 U.S.C. § 3252"
-generated_at: "2026-03-30T06:52:15.354Z"
+generated_at: "2026-03-30T06:54:21.496Z"
 status: "active"
 ---
 

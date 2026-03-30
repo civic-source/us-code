@@ -3,9 +3,9 @@ title: "Section 1211 - Prohibition against transportation of refrigerators witho
 usc_title: 15
 usc_section: "1211"
 chapter: 26
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 1211"
-generated_at: "2026-03-30T06:51:51.856Z"
+generated_at: "2026-03-30T06:53:42.969Z"
 status: "active"
 ---
 

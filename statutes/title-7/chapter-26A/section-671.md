@@ -3,9 +3,9 @@ title: "Section 671 - Arbitration of disputes concerning milk"
 usc_title: 7
 usc_section: "671"
 chapter: 26
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 671"
-generated_at: "2026-03-30T06:51:34.979Z"
+generated_at: "2026-03-30T06:53:26.256Z"
 status: "active"
 ---
 

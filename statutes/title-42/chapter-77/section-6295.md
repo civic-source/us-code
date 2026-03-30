@@ -3,9 +3,9 @@ title: "Section 6295 - Energy conservation standards"
 usc_title: 42
 usc_section: "6295"
 chapter: 77
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 6295"
-generated_at: "2026-03-30T06:52:47.040Z"
+generated_at: "2026-03-30T06:54:49.495Z"
 status: "active"
 ---
 
@@ -516,13 +516,13 @@ status: "active"
         - **(I)** Not later than July 1, 2011 , the Secretary shall publish a final rule to determine whether the standards established under subparagraph (A) should be amended.
         - **(II)** The final rule shall—
       - **(ii)**
-        - **(I)** Not later than July 1, 2015 the Secretary shall publish a final rule to determine whether the standards then in effect should be amended.
+        - **(I)** Not later than July 1, 2021 the Secretary shall publish a final rule to determine whether the standards then in effect should be amended.
         - **(II)** The final rule shall—
     - **(E)**
       - **(i)** In this subparagraph:
         - **(I)** The term “security or life safety alarm or surveillance system” means equipment designed and marketed to perform any of the following functions (on a continuous basis):
         - **(II)** The term “security or life safety alarm or surveillance system” does not include any product with a principal function other than life safety, security, or surveillance that—
-      - **(ii)** The No-Load Mode energy efficiency standards established by this paragraph shall not apply to an external power supply manufactured before July 1, 2017 , that—
+      - **(ii)** The No-Load Mode energy efficiency standards established by this paragraph shall not apply to an external power supply manufactured before the effective date of the amendment under subparagraph (D)(ii) that—
         - **(I)** is an AC-to-AC external power supply;
         - **(II)** has a nameplate output of 20 watts or more;
         - **(III)** is certified to the Secretary as being designed to be connected to a security or life safety alarm or surveillance system component; and
@@ -530,6 +530,7 @@ status: "active"
       - **(iii)** In carrying out this subparagraph, the Secretary shall—
         - **(I)** require, with appropriate safeguard for the protection of confidential business information, the submission of unit shipment data on an annual basis; and
         - **(II)** restrict the eligibility of external power supplies for the exemption provided under this subparagraph on a finding that a substantial number of the external power supplies are being marketed to or installed in applications other than security or life safety alarm or surveillance systems.
+      - **(iv)** In the rule under subparagraph (D)(ii) and subsequent amendments the Secretary may treat some or all external power supplies designed to be connected to a security or life safety alarm or surveillance system as a separate product class or may extend the nonapplication under clause (ii).
   - **(4)** An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected.
   - **(5)**
     - **(A)**

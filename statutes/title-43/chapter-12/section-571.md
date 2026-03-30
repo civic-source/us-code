@@ -3,9 +3,9 @@ title: "Section 571 - Sale of unplatted portions of Government town sites; autho
 usc_title: 43
 usc_section: "571"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "43 U.S.C. § 571"
-generated_at: "2026-03-30T06:52:32.119Z"
+generated_at: "2026-03-30T06:54:39.356Z"
 status: "active"
 ---
 

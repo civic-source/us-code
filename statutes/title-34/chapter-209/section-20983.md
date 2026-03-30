@@ -3,9 +3,9 @@ title: "Section 20983 - Grants to combat sexual abuse of children"
 usc_title: 34
 usc_section: "20983"
 chapter: 209
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "34 U.S.C. § 20983"
-generated_at: "2026-03-30T06:52:22.735Z"
+generated_at: "2026-03-30T06:54:29.738Z"
 status: "active"
 ---
 

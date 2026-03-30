@@ -3,9 +3,9 @@ title: "Section 2276 - Confidentiality of information"
 usc_title: 7
 usc_section: "2276"
 chapter: 55
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 2276"
-generated_at: "2026-03-30T06:51:35.045Z"
+generated_at: "2026-03-30T06:53:26.320Z"
 status: "active"
 ---
 

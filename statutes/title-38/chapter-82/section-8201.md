@@ -3,9 +3,9 @@ title: "Section 8201 - Coordination with public health programs; administration"
 usc_title: 38
 usc_section: "8201"
 chapter: 82
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "38 U.S.C. § 8201"
-generated_at: "2026-03-30T06:52:29.419Z"
+generated_at: "2026-03-30T06:54:36.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3523 - General audit authority of the Comptroller General"
 usc_title: 31
 usc_section: "3523"
 chapter: 35
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "31 U.S.C. § 3523"
-generated_at: "2026-03-30T06:52:23.350Z"
+generated_at: "2026-03-30T06:54:29.188Z"
 status: "active"
 ---
 

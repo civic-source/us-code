@@ -3,9 +3,9 @@ title: "Section 375 - Publicity"
 usc_title: 21
 usc_section: "375"
 chapter: 9
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "21 U.S.C. § 375"
-generated_at: "2026-03-30T06:52:11.256Z"
+generated_at: "2026-03-30T06:54:06.633Z"
 status: "active"
 ---
 

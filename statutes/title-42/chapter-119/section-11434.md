@@ -3,9 +3,9 @@ title: "Section 11434 - Secretarial responsibilities"
 usc_title: 42
 usc_section: "11434"
 chapter: 119
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 11434"
-generated_at: "2026-03-30T06:52:47.171Z"
+generated_at: "2026-03-30T06:54:49.625Z"
 status: "active"
 ---
 

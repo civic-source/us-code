@@ -3,9 +3,9 @@ title: "Section 7781 - Definitions"
 usc_title: 7
 usc_section: "7781"
 chapter: 104
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 7781"
-generated_at: "2026-03-30T06:51:35.104Z"
+generated_at: "2026-03-30T06:53:26.374Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 375a - Jurisdiction of Secretary of the Interior over probate an
 usc_title: 25
 usc_section: "375a"
 chapter: 10
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "25 U.S.C. § 375a"
-generated_at: "2026-03-30T06:52:07.595Z"
+generated_at: "2026-03-30T06:54:11.258Z"
 status: "active"
 ---
 

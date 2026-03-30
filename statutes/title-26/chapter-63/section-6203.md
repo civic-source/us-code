@@ -3,9 +3,9 @@ title: "Section 6203 - Method of assessment"
 usc_title: 26
 usc_section: "6203"
 chapter: 63
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "26 U.S.C. § 6203"
-generated_at: "2026-03-30T06:52:20.109Z"
+generated_at: "2026-03-30T06:54:25.850Z"
 status: "active"
 ---
 

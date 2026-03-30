@@ -3,9 +3,9 @@ title: "Section 5355 - Effect on other statutes"
 usc_title: 5
 usc_section: "5355"
 chapter: 53
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "5 U.S.C. § 5355"
-generated_at: "2026-03-30T06:51:25.330Z"
+generated_at: "2026-03-30T06:53:15.196Z"
 status: "active"
 ---
 

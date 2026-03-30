@@ -3,9 +3,9 @@ title: "Section 7675 - Commissions of auctioneers"
 usc_title: 10
 usc_section: "7675"
 chapter: 655
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 7675"
-generated_at: "2026-03-30T06:51:38.364Z"
+generated_at: "2026-03-30T06:53:29.891Z"
 status: "active"
 ---
 

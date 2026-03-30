@@ -3,9 +3,9 @@ title: "Section 10006 - Compliance"
 usc_title: 42
 usc_section: "10006"
 chapter: 107
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 10006"
-generated_at: "2026-03-30T06:52:47.151Z"
+generated_at: "2026-03-30T06:54:49.605Z"
 status: "active"
 ---
 

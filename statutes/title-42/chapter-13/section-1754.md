@@ -3,9 +3,9 @@ title: "Section 1754 - Nutrition promotion"
 usc_title: 42
 usc_section: "1754"
 chapter: 13
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 1754"
-generated_at: "2026-03-30T06:52:46.925Z"
+generated_at: "2026-03-30T06:54:49.379Z"
 status: "active"
 ---
 

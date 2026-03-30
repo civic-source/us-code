@@ -3,9 +3,9 @@ title: "Section 1226 - Motor vehicle franchise contract dispute resolution proce
 usc_title: 15
 usc_section: "1226"
 chapter: 27
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 1226"
-generated_at: "2026-03-30T06:51:51.856Z"
+generated_at: "2026-03-30T06:53:42.969Z"
 status: "active"
 ---
 

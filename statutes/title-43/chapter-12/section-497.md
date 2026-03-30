@@ -3,9 +3,9 @@ title: "Section 497 - Action to recover operation charge and penalty"
 usc_title: 43
 usc_section: "497"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "43 U.S.C. § 497"
-generated_at: "2026-03-30T06:52:32.117Z"
+generated_at: "2026-03-30T06:54:39.354Z"
 status: "active"
 ---
 

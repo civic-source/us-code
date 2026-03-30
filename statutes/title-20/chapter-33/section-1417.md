@@ -3,9 +3,9 @@ title: "Section 1417 - Administration"
 usc_title: 20
 usc_section: "1417"
 chapter: 33
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "20 U.S.C. § 1417"
-generated_at: "2026-03-30T06:51:58.226Z"
+generated_at: "2026-03-30T06:53:49.529Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11141 - Authority to make grants"
 usc_title: 34
 usc_section: "11141"
 chapter: 111
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "34 U.S.C. § 11141"
-generated_at: "2026-03-30T06:52:22.715Z"
+generated_at: "2026-03-30T06:54:29.720Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5215 - Repealed. Pub. L. 109–435, title X , § 1002(a)(1), Dec
 usc_title: 39
 usc_section: "5215"
 chapter: 52
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "39 U.S.C. § 5215"
-generated_at: "2026-03-30T06:52:25.885Z"
+generated_at: "2026-03-30T06:54:32.301Z"
 status: "repealed"
 ---
 

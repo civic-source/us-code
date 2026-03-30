@@ -3,9 +3,9 @@ title: "Section 776 - Special rules for partnerships holding oil and gas propert
 usc_title: 26
 usc_section: "776"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "26 U.S.C. § 776"
-generated_at: "2026-03-30T06:52:20.005Z"
+generated_at: "2026-03-30T06:54:25.747Z"
 status: "active"
 ---
 

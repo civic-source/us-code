@@ -3,9 +3,9 @@ title: "Section 1627a - Sheep production and marketing grant program"
 usc_title: 7
 usc_section: "1627a"
 chapter: 38
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 1627a"
-generated_at: "2026-03-30T06:51:35.006Z"
+generated_at: "2026-03-30T06:53:26.282Z"
 status: "active"
 ---
 

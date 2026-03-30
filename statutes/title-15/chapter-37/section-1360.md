@@ -3,9 +3,9 @@ title: "Section 1360 - Appropriations and payments"
 usc_title: 15
 usc_section: "1360"
 chapter: 37
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 1360"
-generated_at: "2026-03-30T06:51:51.860Z"
+generated_at: "2026-03-30T06:53:42.972Z"
 status: "active"
 ---
 

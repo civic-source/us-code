@@ -3,9 +3,9 @@ title: "Section 167b - Unified combatant command for cyber operations"
 usc_title: 10
 usc_section: "167b"
 chapter: 6
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 167b"
-generated_at: "2026-03-30T06:51:38.247Z"
+generated_at: "2026-03-30T06:53:29.775Z"
 status: "active"
 ---
 

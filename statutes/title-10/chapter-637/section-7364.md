@@ -3,9 +3,9 @@ title: "Section 7364 - Disposition of receipts"
 usc_title: 10
 usc_section: "7364"
 chapter: 637
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 7364"
-generated_at: "2026-03-30T06:51:38.361Z"
+generated_at: "2026-03-30T06:53:29.889Z"
 status: "active"
 ---
 

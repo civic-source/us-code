@@ -3,9 +3,9 @@ title: "Section 2285a - Acquisition of obligations involving loan guarantees for
 usc_title: 12
 usc_section: "2285a"
 chapter: 24
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "12 U.S.C. § 2285a"
-generated_at: "2026-03-30T06:51:49.179Z"
+generated_at: "2026-03-30T06:53:36.067Z"
 status: "active"
 ---
 

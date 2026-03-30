@@ -3,9 +3,9 @@ title: "Section 2332 - Criminal penalties"
 usc_title: 18
 usc_section: "2332"
 chapter: 113
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "18 U.S.C. § 2332"
-generated_at: "2026-03-30T06:51:55.204Z"
+generated_at: "2026-03-30T06:54:03.099Z"
 status: "active"
 ---
 

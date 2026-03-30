@@ -3,9 +3,9 @@ title: "Section 20124 - Enhancing culturally specific services for victims of do
 usc_title: 34
 usc_section: "20124"
 chapter: 201
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "34 U.S.C. § 20124"
-generated_at: "2026-03-30T06:52:22.729Z"
+generated_at: "2026-03-30T06:54:29.732Z"
 status: "active"
 ---
 

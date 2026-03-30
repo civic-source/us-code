@@ -3,9 +3,9 @@ title: "Section 10104 - Weed and Seed strategies"
 usc_title: 34
 usc_section: "10104"
 chapter: 101
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "34 U.S.C. § 10104"
-generated_at: "2026-03-30T06:52:22.699Z"
+generated_at: "2026-03-30T06:54:29.704Z"
 status: "active"
 ---
 

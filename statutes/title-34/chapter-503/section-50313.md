@@ -3,9 +3,9 @@ title: "Section 50313 - Federal Law Enforcement Congressional Badge of Bravery B
 usc_title: 34
 usc_section: "50313"
 chapter: 503
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "34 U.S.C. § 50313"
-generated_at: "2026-03-30T06:52:22.745Z"
+generated_at: "2026-03-30T06:54:29.748Z"
 status: "active"
 ---
 

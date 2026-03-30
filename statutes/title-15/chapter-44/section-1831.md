@@ -3,9 +3,9 @@ title: "Section 1831 - Authorization of appropriations"
 usc_title: 15
 usc_section: "1831"
 chapter: 44
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 1831"
-generated_at: "2026-03-30T06:51:51.882Z"
+generated_at: "2026-03-30T06:53:42.993Z"
 status: "active"
 ---
 

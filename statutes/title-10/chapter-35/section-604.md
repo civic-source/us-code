@@ -3,9 +3,9 @@ title: "Section 604 - Senior joint officer positions: recommendations to the Sec
 usc_title: 10
 usc_section: "604"
 chapter: 35
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 604"
-generated_at: "2026-03-30T06:51:38.260Z"
+generated_at: "2026-03-30T06:53:29.787Z"
 status: "active"
 ---
 

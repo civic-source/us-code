@@ -3,9 +3,9 @@ title: "Section 3839aa - Purposes"
 usc_title: 16
 usc_section: "3839aa"
 chapter: 58
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 3839aa"
-generated_at: "2026-03-30T06:52:03.015Z"
+generated_at: "2026-03-30T06:53:52.707Z"
 status: "active"
 ---
 

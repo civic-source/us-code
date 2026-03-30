@@ -3,9 +3,9 @@ title: "Section 20704 - Membership"
 usc_title: 36
 usc_section: "20704"
 chapter: 207
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "36 U.S.C. § 20704"
-generated_at: "2026-03-30T06:52:28.283Z"
+generated_at: "2026-03-30T06:54:33.193Z"
 status: "active"
 ---
 

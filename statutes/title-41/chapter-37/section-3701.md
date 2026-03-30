@@ -3,9 +3,9 @@ title: "Section 3701 - Basis of award and rejection"
 usc_title: 41
 usc_section: "3701"
 chapter: 37
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "41 U.S.C. § 3701"
-generated_at: "2026-03-30T06:52:34.634Z"
+generated_at: "2026-03-30T06:54:38.602Z"
 status: "active"
 ---
 

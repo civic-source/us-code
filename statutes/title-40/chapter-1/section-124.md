@@ -3,9 +3,9 @@ title: "Section 124 - Agency use of amounts for property management"
 usc_title: 40
 usc_section: "124"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "40 U.S.C. § 124"
-generated_at: "2026-03-30T06:52:27.690Z"
+generated_at: "2026-03-30T06:54:34.203Z"
 status: "active"
 ---
 

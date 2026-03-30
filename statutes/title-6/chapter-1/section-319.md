@@ -3,9 +3,9 @@ title: "Section 319 - National Integration Center"
 usc_title: 6
 usc_section: "319"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "6 U.S.C. § 319"
-generated_at: "2026-03-30T06:51:42.623Z"
+generated_at: "2026-03-30T06:53:26.788Z"
 status: "active"
 ---
 

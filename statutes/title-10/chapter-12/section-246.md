@@ -3,9 +3,9 @@ title: "Section 246 - Militia: composition and classes"
 usc_title: 10
 usc_section: "246"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 246"
-generated_at: "2026-03-30T06:51:38.250Z"
+generated_at: "2026-03-30T06:53:29.778Z"
 status: "active"
 ---
 

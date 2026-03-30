@@ -3,9 +3,9 @@ title: "Section 6205 - Exception to certain disclosure restrictions"
 usc_title: 15
 usc_section: "6205"
 chapter: 88
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 6205"
-generated_at: "2026-03-30T06:51:51.923Z"
+generated_at: "2026-03-30T06:53:43.034Z"
 status: "active"
 ---
 

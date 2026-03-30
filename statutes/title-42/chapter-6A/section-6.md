@@ -3,9 +3,9 @@ title: "Section 6 - Comprehensive health insurance coverage"
 usc_title: 42
 usc_section: "6"
 chapter: 6
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T06:52:46.725Z"
+generated_at: "2026-03-30T06:54:49.177Z"
 status: "active"
 ---
 

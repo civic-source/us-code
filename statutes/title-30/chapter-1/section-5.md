@@ -3,9 +3,9 @@ title: "Section 5 - Reports of investigations"
 usc_title: 30
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "30 U.S.C. § 5"
-generated_at: "2026-03-30T06:52:13.684Z"
+generated_at: "2026-03-30T06:54:18.088Z"
 status: "active"
 ---
 

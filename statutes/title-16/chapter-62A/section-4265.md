@@ -3,9 +3,9 @@ title: "Section 4265 - Acceptance and use of donations"
 usc_title: 16
 usc_section: "4265"
 chapter: 62
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 4265"
-generated_at: "2026-03-30T06:52:03.022Z"
+generated_at: "2026-03-30T06:53:52.714Z"
 status: "active"
 ---
 

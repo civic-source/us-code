@@ -3,9 +3,9 @@ title: "Section 2186 - Square 580 landscape maintenance"
 usc_title: 2
 usc_section: "2186"
 chapter: 30
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "2 U.S.C. § 2186"
-generated_at: "2026-03-30T06:51:23.272Z"
+generated_at: "2026-03-30T06:53:13.505Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6325 - Officers: retired grade and pay"
 usc_title: 10
 usc_section: "6325"
 chapter: 571
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 6325"
-generated_at: "2026-03-30T06:51:38.356Z"
+generated_at: "2026-03-30T06:53:29.884Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101 - Enacting clause"
 usc_title: 1
 usc_section: "101"
 chapter: 2
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "1 U.S.C. § 101"
-generated_at: "2026-03-30T06:51:23.312Z"
+generated_at: "2026-03-30T06:53:12.129Z"
 status: "active"
 ---
 

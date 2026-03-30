@@ -3,9 +3,9 @@ title: "Section 1443 - Omitted"
 usc_title: 7
 usc_section: "1443"
 chapter: 35
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 1443"
-generated_at: "2026-03-30T06:51:34.995Z"
+generated_at: "2026-03-30T06:53:26.270Z"
 status: "omitted"
 ---
 

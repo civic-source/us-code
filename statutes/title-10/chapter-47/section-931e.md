@@ -3,9 +3,9 @@ title: "Section 931e - Art. 131e]"
 usc_title: 10
 usc_section: "931e"
 chapter: 47
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 931e"
-generated_at: "2026-03-30T06:51:38.270Z"
+generated_at: "2026-03-30T06:53:29.798Z"
 status: "active"
 ---
 

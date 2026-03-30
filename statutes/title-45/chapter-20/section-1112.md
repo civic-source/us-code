@@ -3,9 +3,9 @@ title: "Section 1112 - Interstate Commerce Commission proceedings"
 usc_title: 45
 usc_section: "1112"
 chapter: 20
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "45 U.S.C. § 1112"
-generated_at: "2026-03-30T06:52:32.404Z"
+generated_at: "2026-03-30T06:54:38.851Z"
 status: "active"
 ---
 

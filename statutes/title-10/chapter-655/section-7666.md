@@ -3,9 +3,9 @@ title: "Section 7666 - Mode of making sale"
 usc_title: 10
 usc_section: "7666"
 chapter: 655
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 7666"
-generated_at: "2026-03-30T06:51:38.363Z"
+generated_at: "2026-03-30T06:53:29.891Z"
 status: "active"
 ---
 

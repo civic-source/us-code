@@ -3,9 +3,9 @@ title: "Section 9051 - Definitions"
 usc_title: 7
 usc_section: "9051"
 chapter: 115
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 9051"
-generated_at: "2026-03-30T06:51:35.121Z"
+generated_at: "2026-03-30T06:53:26.390Z"
 status: "active"
 ---
 

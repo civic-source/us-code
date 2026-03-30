@@ -3,9 +3,9 @@ title: "Section 426f - Reimbursements"
 usc_title: 33
 usc_section: "426f"
 chapter: 9
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 426f"
-generated_at: "2026-03-30T06:52:24.249Z"
+generated_at: "2026-03-30T06:54:30.463Z"
 status: "active"
 ---
 

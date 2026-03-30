@@ -3,9 +3,9 @@ title: "Section 2533 - Reports on critical difficulties at national security lab
 usc_title: 50
 usc_section: "2533"
 chapter: 42
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "50 U.S.C. § 2533"
-generated_at: "2026-03-30T06:52:54.520Z"
+generated_at: "2026-03-30T06:54:54.036Z"
 status: "active"
 ---
 

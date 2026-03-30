@@ -3,9 +3,9 @@ title: "Section 7417 - Referenda"
 usc_title: 7
 usc_section: "7417"
 chapter: 101
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 7417"
-generated_at: "2026-03-30T06:51:35.095Z"
+generated_at: "2026-03-30T06:53:26.366Z"
 status: "active"
 ---
 

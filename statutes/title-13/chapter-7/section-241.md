@@ -3,9 +3,9 @@ title: "Section 241 - Evidence"
 usc_title: 13
 usc_section: "241"
 chapter: 7
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "13 U.S.C. § 241"
-generated_at: "2026-03-30T06:51:44.565Z"
+generated_at: "2026-03-30T06:53:31.647Z"
 status: "active"
 ---
 

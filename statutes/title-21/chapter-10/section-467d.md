@@ -3,9 +3,9 @@ title: "Section 467d - Administration and enforcement; applicability of penalty 
 usc_title: 21
 usc_section: "467d"
 chapter: 10
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "21 U.S.C. § 467d"
-generated_at: "2026-03-30T06:52:11.274Z"
+generated_at: "2026-03-30T06:54:06.651Z"
 status: "active"
 ---
 

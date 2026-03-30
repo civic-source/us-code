@@ -3,9 +3,9 @@ title: "Section 2860 - Availability of appropriations"
 usc_title: 10
 usc_section: "2860"
 chapter: 169
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 2860"
-generated_at: "2026-03-30T06:51:38.342Z"
+generated_at: "2026-03-30T06:53:29.869Z"
 status: "active"
 ---
 

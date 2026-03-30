@@ -3,9 +3,9 @@ title: "Section 1449 - Unlading at port of entry"
 usc_title: 19
 usc_section: "1449"
 chapter: 4
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "19 U.S.C. § 1449"
-generated_at: "2026-03-30T06:51:56.418Z"
+generated_at: "2026-03-30T06:53:46.741Z"
 status: "active"
 ---
 

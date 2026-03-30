@@ -3,9 +3,9 @@ title: "Section 12505 - Repealed. Pub. L. 106–398 , § 1 [[div. A], title V, �
 usc_title: 10
 usc_section: "12505"
 chapter: 1213
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 12505"
-generated_at: "2026-03-30T06:51:38.377Z"
+generated_at: "2026-03-30T06:53:29.905Z"
 status: "repealed"
 ---
 

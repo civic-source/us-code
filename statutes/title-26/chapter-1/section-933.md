@@ -3,9 +3,9 @@ title: "Section 933 - Income from sources within Puerto Rico"
 usc_title: 26
 usc_section: "933"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "26 U.S.C. § 933"
-generated_at: "2026-03-30T06:52:20.023Z"
+generated_at: "2026-03-30T06:54:25.764Z"
 status: "active"
 ---
 

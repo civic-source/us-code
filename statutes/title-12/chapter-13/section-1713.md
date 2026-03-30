@@ -3,9 +3,9 @@ title: "Section 1713 - Rental housing insurance"
 usc_title: 12
 usc_section: "1713"
 chapter: 13
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "12 U.S.C. § 1713"
-generated_at: "2026-03-30T06:51:49.115Z"
+generated_at: "2026-03-30T06:53:36.005Z"
 status: "active"
 ---
 

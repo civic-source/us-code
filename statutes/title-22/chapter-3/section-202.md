@@ -3,9 +3,9 @@ title: "Section 202 - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , e
 usc_title: 22
 usc_section: "202"
 chapter: 3
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 202"
-generated_at: "2026-03-30T06:52:09.280Z"
+generated_at: "2026-03-30T06:54:15.664Z"
 status: "repealed"
 ---
 

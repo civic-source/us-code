@@ -3,9 +3,9 @@ title: "Section 6732 - Federal Triangle development area"
 usc_title: 40
 usc_section: "6732"
 chapter: 67
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "40 U.S.C. § 6732"
-generated_at: "2026-03-30T06:52:27.699Z"
+generated_at: "2026-03-30T06:54:34.212Z"
 status: "active"
 ---
 

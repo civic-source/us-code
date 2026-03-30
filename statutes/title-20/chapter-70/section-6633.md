@@ -3,9 +3,9 @@ title: "Section 6633 - Reports"
 usc_title: 20
 usc_section: "6633"
 chapter: 70
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "20 U.S.C. § 6633"
-generated_at: "2026-03-30T06:51:58.260Z"
+generated_at: "2026-03-30T06:53:49.563Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 921 - Congressional declaration of policy"
 usc_title: 7
 usc_section: "921"
 chapter: 31
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 921"
-generated_at: "2026-03-30T06:51:34.980Z"
+generated_at: "2026-03-30T06:53:26.257Z"
 status: "active"
 ---
 

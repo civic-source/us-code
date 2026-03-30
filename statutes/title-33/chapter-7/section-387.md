@@ -3,9 +3,9 @@ title: "Section 387 - Duties of officers of customs and marshals as to seizure"
 usc_title: 33
 usc_section: "387"
 chapter: 7
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 387"
-generated_at: "2026-03-30T06:52:24.247Z"
+generated_at: "2026-03-30T06:54:30.461Z"
 status: "active"
 ---
 

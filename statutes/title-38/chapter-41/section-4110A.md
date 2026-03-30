@@ -3,9 +3,9 @@ title: "Section 4110A - Special unemployment study"
 usc_title: 38
 usc_section: "4110A"
 chapter: 41
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "38 U.S.C. § 4110A"
-generated_at: "2026-03-30T06:52:29.399Z"
+generated_at: "2026-03-30T06:54:36.636Z"
 status: "active"
 ---
 

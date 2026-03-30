@@ -3,9 +3,9 @@ title: "Section 2423 - Joint breeders"
 usc_title: 7
 usc_section: "2423"
 chapter: 57
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 2423"
-generated_at: "2026-03-30T06:51:35.048Z"
+generated_at: "2026-03-30T06:53:26.322Z"
 status: "active"
 ---
 

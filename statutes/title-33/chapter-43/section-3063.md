@@ -3,9 +3,9 @@ title: "Section 3063 - Rules and regulations when cooperating with military depa
 usc_title: 33
 usc_section: "3063"
 chapter: 43
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 3063"
-generated_at: "2026-03-30T06:52:24.313Z"
+generated_at: "2026-03-30T06:54:30.530Z"
 status: "active"
 ---
 

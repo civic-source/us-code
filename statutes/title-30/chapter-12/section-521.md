@@ -3,9 +3,9 @@ title: "Section 521 - Mineral leasing claims"
 usc_title: 30
 usc_section: "521"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "30 U.S.C. § 521"
-generated_at: "2026-03-30T06:52:13.693Z"
+generated_at: "2026-03-30T06:54:18.096Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1079a - CHAMPUS: treatment of refunds and other amounts collecte
 usc_title: 10
 usc_section: "1079a"
 chapter: 55
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 1079a"
-generated_at: "2026-03-30T06:51:38.281Z"
+generated_at: "2026-03-30T06:53:29.809Z"
 status: "active"
 ---
 

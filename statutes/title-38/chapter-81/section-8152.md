@@ -3,9 +3,9 @@ title: "Section 8152 - Definitions"
 usc_title: 38
 usc_section: "8152"
 chapter: 81
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "38 U.S.C. § 8152"
-generated_at: "2026-03-30T06:52:29.419Z"
+generated_at: "2026-03-30T06:54:36.656Z"
 status: "active"
 ---
 

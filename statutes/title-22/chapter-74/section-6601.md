@@ -3,9 +3,9 @@ title: "Section 6601 - Reorganization plan and report"
 usc_title: 22
 usc_section: "6601"
 chapter: 74
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 6601"
-generated_at: "2026-03-30T06:52:09.389Z"
+generated_at: "2026-03-30T06:54:15.773Z"
 status: "active"
 ---
 

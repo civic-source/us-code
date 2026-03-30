@@ -3,9 +3,9 @@ title: "Section 655 - Arms and ammunition; immunity from taxation"
 usc_title: 14
 usc_section: "655"
 chapter: 17
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "14 U.S.C. § 655"
-generated_at: "2026-03-30T06:51:44.729Z"
+generated_at: "2026-03-30T06:53:32.025Z"
 status: "active"
 ---
 

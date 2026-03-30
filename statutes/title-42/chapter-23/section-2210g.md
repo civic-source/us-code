@@ -3,9 +3,9 @@ title: "Section 2210g - Expenses authorized to be paid by the Commission"
 usc_title: 42
 usc_section: "2210g"
 chapter: 23
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 2210g"
-generated_at: "2026-03-30T06:52:46.966Z"
+generated_at: "2026-03-30T06:54:49.420Z"
 status: "active"
 ---
 

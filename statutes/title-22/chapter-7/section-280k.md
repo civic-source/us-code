@@ -3,9 +3,9 @@ title: "Section 280k - Authorization of appropriations"
 usc_title: 22
 usc_section: "280k"
 chapter: 7
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 280k"
-generated_at: "2026-03-30T06:52:09.289Z"
+generated_at: "2026-03-30T06:54:15.673Z"
 status: "active"
 ---
 

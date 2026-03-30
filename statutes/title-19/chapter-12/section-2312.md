@@ -3,9 +3,9 @@ title: "Section 2312 - Administration absent State agreement"
 usc_title: 19
 usc_section: "2312"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "19 U.S.C. § 2312"
-generated_at: "2026-03-30T06:51:56.446Z"
+generated_at: "2026-03-30T06:53:46.769Z"
 status: "active"
 ---
 

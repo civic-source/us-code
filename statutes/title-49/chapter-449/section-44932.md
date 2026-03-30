@@ -3,9 +3,9 @@ title: "Section 44932 - Repealed. Pub. L. 107–71, title I , § 101(f)(6), Nov.
 usc_title: 49
 usc_section: "44932"
 chapter: 449
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "49 U.S.C. § 44932"
-generated_at: "2026-03-30T06:52:59.203Z"
+generated_at: "2026-03-30T06:54:56.341Z"
 status: "repealed"
 ---
 

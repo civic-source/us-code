@@ -3,9 +3,9 @@ title: "Section 1332 - National encampments of Veterans’ organizations; procee
 usc_title: 44
 usc_section: "1332"
 chapter: 13
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "44 U.S.C. § 1332"
-generated_at: "2026-03-30T06:52:31.278Z"
+generated_at: "2026-03-30T06:54:39.642Z"
 status: "active"
 ---
 

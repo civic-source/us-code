@@ -3,9 +3,9 @@ title: "Section 8918 - Thirty years or more: regular commissioned officers"
 usc_title: 10
 usc_section: "8918"
 chapter: 867
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 8918"
-generated_at: "2026-03-30T06:51:38.367Z"
+generated_at: "2026-03-30T06:53:29.895Z"
 status: "active"
 ---
 

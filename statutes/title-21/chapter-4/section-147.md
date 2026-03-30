@@ -3,9 +3,9 @@ title: "Section 147 - Repeal of inconsistent laws"
 usc_title: 21
 usc_section: "147"
 chapter: 4
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "21 U.S.C. § 147"
-generated_at: "2026-03-30T06:52:11.219Z"
+generated_at: "2026-03-30T06:54:06.598Z"
 status: "active"
 ---
 

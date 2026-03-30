@@ -3,9 +3,9 @@ title: "Section 13213 - Refueling"
 usc_title: 42
 usc_section: "13213"
 chapter: 134
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 13213"
-generated_at: "2026-03-30T06:52:47.201Z"
+generated_at: "2026-03-30T06:54:49.655Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 372 - Continuation of pays during hospitalization and rehabilita
 usc_title: 37
 usc_section: "372"
 chapter: 5
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "37 U.S.C. § 372"
-generated_at: "2026-03-30T06:52:26.520Z"
+generated_at: "2026-03-30T06:54:32.603Z"
 status: "active"
 ---
 

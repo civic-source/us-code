@@ -3,9 +3,9 @@ title: "Section 539d - National forest timber utilization program"
 usc_title: 16
 usc_section: "539d"
 chapter: 2
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 539d"
-generated_at: "2026-03-30T06:52:02.900Z"
+generated_at: "2026-03-30T06:53:52.603Z"
 status: "active"
 ---
 

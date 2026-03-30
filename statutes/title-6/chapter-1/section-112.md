@@ -3,9 +3,9 @@ title: "Section 112 - Secretary; functions"
 usc_title: 6
 usc_section: "112"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "6 U.S.C. § 112"
-generated_at: "2026-03-30T06:51:42.611Z"
+generated_at: "2026-03-30T06:53:26.776Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2688 - Ambassadors; criteria regarding selection and confirmatio
 usc_title: 22
 usc_section: "2688"
 chapter: 38
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 2688"
-generated_at: "2026-03-30T06:52:09.344Z"
+generated_at: "2026-03-30T06:54:15.728Z"
 status: "active"
 ---
 

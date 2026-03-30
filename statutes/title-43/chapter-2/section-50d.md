@@ -3,9 +3,9 @@ title: "Section 50d - Services of students or recent graduates"
 usc_title: 43
 usc_section: "50d"
 chapter: 2
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "43 U.S.C. § 50d"
-generated_at: "2026-03-30T06:52:32.103Z"
+generated_at: "2026-03-30T06:54:39.340Z"
 status: "active"
 ---
 

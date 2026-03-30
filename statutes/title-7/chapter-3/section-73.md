@@ -3,9 +3,9 @@ title: "Section 73 - Omitted"
 usc_title: 7
 usc_section: "73"
 chapter: 3
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 73"
-generated_at: "2026-03-30T06:51:34.951Z"
+generated_at: "2026-03-30T06:53:26.226Z"
 status: "omitted"
 ---
 

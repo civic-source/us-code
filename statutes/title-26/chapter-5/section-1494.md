@@ -3,9 +3,9 @@ title: "Section 1494 - Repealed. Pub. L. 105–34, title XI , § 1131(a), Aug. 5
 usc_title: 26
 usc_section: "1494"
 chapter: 5
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "26 U.S.C. § 1494"
-generated_at: "2026-03-30T06:52:20.053Z"
+generated_at: "2026-03-30T06:54:25.794Z"
 status: "repealed"
 ---
 

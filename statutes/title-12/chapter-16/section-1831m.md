@@ -3,9 +3,9 @@ title: "Section 1831m - Early identification of needed improvements in financial
 usc_title: 12
 usc_section: "1831m"
 chapter: 16
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "12 U.S.C. § 1831m"
-generated_at: "2026-03-30T06:51:49.156Z"
+generated_at: "2026-03-30T06:53:36.046Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1769 - “Agricultural commodity” defined"
 usc_title: 7
 usc_section: "1769"
 chapter: 43
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 1769"
-generated_at: "2026-03-30T06:51:35.016Z"
+generated_at: "2026-03-30T06:53:26.291Z"
 status: "active"
 ---
 

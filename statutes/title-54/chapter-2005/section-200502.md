@@ -3,9 +3,9 @@ title: "Section 200502 - Federal assistance"
 usc_title: 54
 usc_section: "200502"
 chapter: 2005
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "54 U.S.C. § 200502"
-generated_at: "2026-03-30T06:53:00.994Z"
+generated_at: "2026-03-30T06:54:59.142Z"
 status: "active"
 ---
 

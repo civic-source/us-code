@@ -3,9 +3,9 @@ title: "Section 2 - Review of applications"
 usc_title: 20
 usc_section: "2"
 chapter: 31
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T06:51:58.219Z"
+generated_at: "2026-03-30T06:53:49.521Z"
 status: "active"
 ---
 

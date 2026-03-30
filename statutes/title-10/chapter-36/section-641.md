@@ -3,9 +3,9 @@ title: "Section 641 - Applicability of chapter"
 usc_title: 10
 usc_section: "641"
 chapter: 36
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 641"
-generated_at: "2026-03-30T06:51:38.262Z"
+generated_at: "2026-03-30T06:53:29.790Z"
 status: "active"
 ---
 

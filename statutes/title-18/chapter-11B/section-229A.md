@@ -3,9 +3,9 @@ title: "Section 229A - Penalties"
 usc_title: 18
 usc_section: "229A"
 chapter: 11
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "18 U.S.C. § 229A"
-generated_at: "2026-03-30T06:51:55.171Z"
+generated_at: "2026-03-30T06:54:03.068Z"
 status: "active"
 ---
 

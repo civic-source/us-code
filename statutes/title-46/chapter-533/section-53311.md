@@ -3,9 +3,9 @@ title: "Section 53311 - Taxation of deposits on failure of conditions"
 usc_title: 46
 usc_section: "53311"
 chapter: 533
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "46 U.S.C. § 53311"
-generated_at: "2026-03-30T06:52:50.379Z"
+generated_at: "2026-03-30T06:54:52.653Z"
 status: "active"
 ---
 

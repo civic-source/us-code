@@ -3,9 +3,9 @@ title: "Section 611 - Employee development program"
 usc_title: 2
 usc_section: "611"
 chapter: 17
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "2 U.S.C. § 611"
-generated_at: "2026-03-30T06:51:23.249Z"
+generated_at: "2026-03-30T06:53:13.477Z"
 status: "active"
 ---
 

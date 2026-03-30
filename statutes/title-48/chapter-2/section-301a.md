@@ -3,9 +3,9 @@ title: "Section 301a - Repealed. Pub. L. 97–468, title VI , § 615(a)(2), Jan.
 usc_title: 48
 usc_section: "301a"
 chapter: 2
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "48 U.S.C. § 301a"
-generated_at: "2026-03-30T06:52:51.107Z"
+generated_at: "2026-03-30T06:54:53.040Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4568 - Annual report on impact of offsets"
 usc_title: 50
 usc_section: "4568"
 chapter: 55
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "50 U.S.C. § 4568"
-generated_at: "2026-03-30T06:52:54.560Z"
+generated_at: "2026-03-30T06:54:54.074Z"
 status: "active"
 ---
 

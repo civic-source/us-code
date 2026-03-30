@@ -3,9 +3,9 @@ title: "Section 8303 - Restricted gifts"
 usc_title: 38
 usc_section: "8303"
 chapter: 83
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "38 U.S.C. § 8303"
-generated_at: "2026-03-30T06:52:29.420Z"
+generated_at: "2026-03-30T06:54:36.657Z"
 status: "active"
 ---
 

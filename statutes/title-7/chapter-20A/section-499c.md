@@ -3,9 +3,9 @@ title: "Section 499c - Licenses"
 usc_title: 7
 usc_section: "499c"
 chapter: 20
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 499c"
-generated_at: "2026-03-30T06:51:34.973Z"
+generated_at: "2026-03-30T06:53:26.249Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 356h - Competitive generic therapies"
 usc_title: 21
 usc_section: "356h"
 chapter: 9
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "21 U.S.C. § 356h"
-generated_at: "2026-03-30T06:52:11.239Z"
+generated_at: "2026-03-30T06:54:06.617Z"
 status: "active"
 ---
 

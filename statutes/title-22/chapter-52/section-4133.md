@@ -3,9 +3,9 @@ title: "Section 4133 - Freedom of action"
 usc_title: 22
 usc_section: "4133"
 chapter: 52
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 4133"
-generated_at: "2026-03-30T06:52:09.368Z"
+generated_at: "2026-03-30T06:54:15.753Z"
 status: "active"
 ---
 

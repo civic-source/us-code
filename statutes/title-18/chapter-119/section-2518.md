@@ -3,9 +3,9 @@ title: "Section 2518 - Procedure for interception of wire, oral, or electronic c
 usc_title: 18
 usc_section: "2518"
 chapter: 119
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "18 U.S.C. § 2518"
-generated_at: "2026-03-30T06:51:55.207Z"
+generated_at: "2026-03-30T06:54:03.102Z"
 status: "active"
 ---
 

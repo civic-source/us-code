@@ -3,9 +3,9 @@ title: "Section 1155 - Aviation penalties"
 usc_title: 49
 usc_section: "1155"
 chapter: 11
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "49 U.S.C. § 1155"
-generated_at: "2026-03-30T06:52:59.140Z"
+generated_at: "2026-03-30T06:54:56.275Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3097 - Budget treatment of costs of acquisition of major systems
 usc_title: 50
 usc_section: "3097"
 chapter: 44
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "50 U.S.C. § 3097"
-generated_at: "2026-03-30T06:52:54.532Z"
+generated_at: "2026-03-30T06:54:54.047Z"
 status: "active"
 ---
 

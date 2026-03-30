@@ -3,9 +3,9 @@ title: "Section 603 - Initial regulatory flexibility analysis"
 usc_title: 5
 usc_section: "603"
 chapter: 6
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "5 U.S.C. § 603"
-generated_at: "2026-03-30T06:51:25.296Z"
+generated_at: "2026-03-30T06:53:15.180Z"
 status: "active"
 ---
 

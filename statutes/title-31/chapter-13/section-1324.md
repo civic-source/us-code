@@ -3,9 +3,9 @@ title: "Section 1324 - Refund of internal revenue collections"
 usc_title: 31
 usc_section: "1324"
 chapter: 13
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "31 U.S.C. § 1324"
-generated_at: "2026-03-30T06:52:23.345Z"
+generated_at: "2026-03-30T06:54:29.183Z"
 status: "active"
 ---
 

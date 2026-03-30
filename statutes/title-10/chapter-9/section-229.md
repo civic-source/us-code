@@ -3,9 +3,9 @@ title: "Section 229 - Programs for combating terrorism: display of budget inform
 usc_title: 10
 usc_section: "229"
 chapter: 9
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 229"
-generated_at: "2026-03-30T06:51:38.250Z"
+generated_at: "2026-03-30T06:53:29.778Z"
 status: "active"
 ---
 

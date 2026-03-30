@@ -3,9 +3,9 @@ title: "Section 1012 - Waiver, suspension, or reduction of rental or royalty"
 usc_title: 30
 usc_section: "1012"
 chapter: 23
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "30 U.S.C. § 1012"
-generated_at: "2026-03-30T06:52:13.703Z"
+generated_at: "2026-03-30T06:54:18.106Z"
 status: "active"
 ---
 

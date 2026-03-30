@@ -3,9 +3,9 @@ title: "Section 2796b - Legislative review procedures"
 usc_title: 22
 usc_section: "2796b"
 chapter: 39
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 2796b"
-generated_at: "2026-03-30T06:52:09.351Z"
+generated_at: "2026-03-30T06:54:15.736Z"
 status: "active"
 ---
 

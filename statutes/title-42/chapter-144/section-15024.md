@@ -3,9 +3,9 @@ title: "Section 15024 - State plan"
 usc_title: 42
 usc_section: "15024"
 chapter: 144
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 15024"
-generated_at: "2026-03-30T06:52:47.215Z"
+generated_at: "2026-03-30T06:54:49.669Z"
 status: "active"
 ---
 

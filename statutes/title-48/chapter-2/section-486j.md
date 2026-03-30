@@ -3,9 +3,9 @@ title: "Section 486j - Omitted"
 usc_title: 48
 usc_section: "486j"
 chapter: 2
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "48 U.S.C. § 486j"
-generated_at: "2026-03-30T06:52:51.107Z"
+generated_at: "2026-03-30T06:54:53.040Z"
 status: "omitted"
 ---
 

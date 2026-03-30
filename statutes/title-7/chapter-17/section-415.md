@@ -3,9 +3,9 @@ title: "Section 415 - Transferred"
 usc_title: 7
 usc_section: "415"
 chapter: 17
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 415"
-generated_at: "2026-03-30T06:51:34.971Z"
+generated_at: "2026-03-30T06:53:26.248Z"
 status: "transferred"
 ---
 

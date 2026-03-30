@@ -3,9 +3,9 @@ title: "Section 1707 - Reprinting of documents required for sale"
 usc_title: 44
 usc_section: "1707"
 chapter: 17
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "44 U.S.C. § 1707"
-generated_at: "2026-03-30T06:52:31.279Z"
+generated_at: "2026-03-30T06:54:39.642Z"
 status: "active"
 ---
 

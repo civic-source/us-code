@@ -3,9 +3,9 @@ title: "Section 153 - Cross references"
 usc_title: 26
 usc_section: "153"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "26 U.S.C. § 153"
-generated_at: "2026-03-30T06:52:19.935Z"
+generated_at: "2026-03-30T06:54:25.676Z"
 status: "active"
 ---
 

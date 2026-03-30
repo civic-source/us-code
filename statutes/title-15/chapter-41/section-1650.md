@@ -3,9 +3,9 @@ title: "Section 1650 - Preventing unfair and deceptive private educational lendi
 usc_title: 15
 usc_section: "1650"
 chapter: 41
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 1650"
-generated_at: "2026-03-30T06:51:51.869Z"
+generated_at: "2026-03-30T06:53:42.980Z"
 status: "active"
 ---
 

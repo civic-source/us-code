@@ -3,9 +3,9 @@ title: "Section 858 - Art. 58. Execution of confinement"
 usc_title: 10
 usc_section: "858"
 chapter: 47
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 858"
-generated_at: "2026-03-30T06:51:38.267Z"
+generated_at: "2026-03-30T06:53:29.795Z"
 status: "active"
 ---
 

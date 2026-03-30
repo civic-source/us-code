@@ -3,9 +3,9 @@ title: "Section 15705 - Savings clause"
 usc_title: 42
 usc_section: "15705"
 chapter: 148
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 15705"
-generated_at: "2026-03-30T06:52:47.219Z"
+generated_at: "2026-03-30T06:54:49.673Z"
 status: "active"
 ---
 

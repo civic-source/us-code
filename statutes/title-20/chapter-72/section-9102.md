@@ -3,9 +3,9 @@ title: "Section 9102 - Institute of Museum and Library Services"
 usc_title: 20
 usc_section: "9102"
 chapter: 72
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "20 U.S.C. § 9102"
-generated_at: "2026-03-30T06:51:58.279Z"
+generated_at: "2026-03-30T06:53:49.581Z"
 status: "active"
 ---
 

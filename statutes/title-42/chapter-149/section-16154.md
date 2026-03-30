@@ -3,9 +3,9 @@ title: "Section 16154 - Programs"
 usc_title: 42
 usc_section: "16154"
 chapter: 149
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 16154"
-generated_at: "2026-03-30T06:52:47.226Z"
+generated_at: "2026-03-30T06:54:49.680Z"
 status: "active"
 ---
 

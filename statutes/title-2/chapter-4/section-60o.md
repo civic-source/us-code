@@ -3,9 +3,9 @@ title: "Section 60o - Transferred"
 usc_title: 2
 usc_section: "60o"
 chapter: 4
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "2 U.S.C. § 60o"
-generated_at: "2026-03-30T06:51:23.239Z"
+generated_at: "2026-03-30T06:53:13.466Z"
 status: "transferred"
 ---
 

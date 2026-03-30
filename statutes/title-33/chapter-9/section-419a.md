@@ -3,9 +3,9 @@ title: "Section 419a - Management practices to extend capacity and useful life o
 usc_title: 33
 usc_section: "419a"
 chapter: 9
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 419a"
-generated_at: "2026-03-30T06:52:24.249Z"
+generated_at: "2026-03-30T06:54:30.462Z"
 status: "active"
 ---
 

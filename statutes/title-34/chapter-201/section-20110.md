@@ -3,9 +3,9 @@ title: "Section 20110 - Administrative provisions"
 usc_title: 34
 usc_section: "20110"
 chapter: 201
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "34 U.S.C. § 20110"
-generated_at: "2026-03-30T06:52:22.729Z"
+generated_at: "2026-03-30T06:54:29.732Z"
 status: "active"
 ---
 

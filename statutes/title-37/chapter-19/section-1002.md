@@ -3,9 +3,9 @@ title: "Section 1002 - Additional training or duty without pay: Reserves and mem
 usc_title: 37
 usc_section: "1002"
 chapter: 19
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "37 U.S.C. § 1002"
-generated_at: "2026-03-30T06:52:26.527Z"
+generated_at: "2026-03-30T06:54:32.610Z"
 status: "active"
 ---
 

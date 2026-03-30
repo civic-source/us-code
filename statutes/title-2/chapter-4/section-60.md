@@ -3,9 +3,9 @@ title: "Section 60 - Repealed. June 20, 1929, ch. 33 , § 6, 46 Stat. 39"
 usc_title: 2
 usc_section: "60"
 chapter: 4
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "2 U.S.C. § 60"
-generated_at: "2026-03-30T06:51:23.238Z"
+generated_at: "2026-03-30T06:53:13.466Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 12
 usc_section: "5"
 chapter: 13
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-30T06:51:49.133Z"
+generated_at: "2026-03-30T06:53:36.023Z"
 status: "active"
 ---
 

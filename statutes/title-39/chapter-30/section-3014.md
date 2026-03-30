@@ -3,9 +3,9 @@ title: "Section 3014 - Nonmailable plants"
 usc_title: 39
 usc_section: "3014"
 chapter: 30
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "39 U.S.C. § 3014"
-generated_at: "2026-03-30T06:52:25.882Z"
+generated_at: "2026-03-30T06:54:32.298Z"
 status: "active"
 ---
 

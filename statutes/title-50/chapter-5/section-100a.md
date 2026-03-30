@@ -3,9 +3,9 @@ title: "Section 100a - Omitted"
 usc_title: 50
 usc_section: "100a"
 chapter: 5
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "50 U.S.C. § 100a"
-generated_at: "2026-03-30T06:52:54.495Z"
+generated_at: "2026-03-30T06:54:54.012Z"
 status: "omitted"
 ---
 

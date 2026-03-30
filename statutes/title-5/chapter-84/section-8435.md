@@ -3,9 +3,9 @@ title: "Section 8435 - Protections for spouses and former spouses"
 usc_title: 5
 usc_section: "8435"
 chapter: 84
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "5 U.S.C. § 8435"
-generated_at: "2026-03-30T06:51:25.359Z"
+generated_at: "2026-03-30T06:53:15.225Z"
 status: "active"
 ---
 

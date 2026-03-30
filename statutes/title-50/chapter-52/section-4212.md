@@ -3,9 +3,9 @@ title: "Section 4212 - Remedies with respect to criminal convictions"
 usc_title: 50
 usc_section: "4212"
 chapter: 52
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "50 U.S.C. § 4212"
-generated_at: "2026-03-30T06:52:54.551Z"
+generated_at: "2026-03-30T06:54:54.066Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4363a - Pollution control technologies demonstrations"
 usc_title: 42
 usc_section: "4363a"
 chapter: 55
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 4363a"
-generated_at: "2026-03-30T06:52:47.004Z"
+generated_at: "2026-03-30T06:54:49.458Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7307 - Office of Research Oversight"
 usc_title: 38
 usc_section: "7307"
 chapter: 73
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "38 U.S.C. § 7307"
-generated_at: "2026-03-30T06:52:29.408Z"
+generated_at: "2026-03-30T06:54:36.646Z"
 status: "active"
 ---
 

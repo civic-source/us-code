@@ -3,9 +3,9 @@ title: "Section 2394 - Reports and information; definitions"
 usc_title: 22
 usc_section: "2394"
 chapter: 32
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 2394"
-generated_at: "2026-03-30T06:52:09.333Z"
+generated_at: "2026-03-30T06:54:15.716Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2193 - Revolt or mutiny of seamen"
 usc_title: 18
 usc_section: "2193"
 chapter: 107
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "18 U.S.C. § 2193"
-generated_at: "2026-03-30T06:51:55.198Z"
+generated_at: "2026-03-30T06:54:03.094Z"
 status: "active"
 ---
 

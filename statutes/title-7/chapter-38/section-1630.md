@@ -3,9 +3,9 @@ title: "Section 1630 - Omitted"
 usc_title: 7
 usc_section: "1630"
 chapter: 38
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 1630"
-generated_at: "2026-03-30T06:51:35.007Z"
+generated_at: "2026-03-30T06:53:26.282Z"
 status: "omitted"
 ---
 

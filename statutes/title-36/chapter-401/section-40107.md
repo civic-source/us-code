@@ -3,9 +3,9 @@ title: "Section 40107 - Restrictions"
 usc_title: 36
 usc_section: "40107"
 chapter: 401
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "36 U.S.C. § 40107"
-generated_at: "2026-03-30T06:52:28.286Z"
+generated_at: "2026-03-30T06:54:33.197Z"
 status: "active"
 ---
 

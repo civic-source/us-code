@@ -3,9 +3,9 @@ title: "Section 3713 - Priority of Government claims"
 usc_title: 31
 usc_section: "3713"
 chapter: 37
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "31 U.S.C. § 3713"
-generated_at: "2026-03-30T06:52:23.352Z"
+generated_at: "2026-03-30T06:54:29.190Z"
 status: "active"
 ---
 

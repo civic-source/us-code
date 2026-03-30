@@ -3,9 +3,9 @@ title: "Section 4508 - Amount of fellowships"
 usc_title: 20
 usc_section: "4508"
 chapter: 57
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "20 U.S.C. § 4508"
-generated_at: "2026-03-30T06:51:58.245Z"
+generated_at: "2026-03-30T06:53:49.548Z"
 status: "active"
 ---
 

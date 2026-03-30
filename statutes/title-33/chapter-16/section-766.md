@@ -3,9 +3,9 @@ title: "Section 766 - Restoration to active duty after retirement for disability
 usc_title: 33
 usc_section: "766"
 chapter: 16
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 766"
-generated_at: "2026-03-30T06:52:24.263Z"
+generated_at: "2026-03-30T06:54:30.478Z"
 status: "active"
 ---
 

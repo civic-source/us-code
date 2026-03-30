@@ -3,9 +3,9 @@ title: "Section 1193 - Transferred"
 usc_title: 21
 usc_section: "1193"
 chapter: 16
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "21 U.S.C. § 1193"
-generated_at: "2026-03-30T06:52:11.288Z"
+generated_at: "2026-03-30T06:54:06.665Z"
 status: "transferred"
 ---
 

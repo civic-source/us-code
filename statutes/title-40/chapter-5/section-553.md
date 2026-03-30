@@ -3,9 +3,9 @@ title: "Section 553 - Property for correctional facility, law enforcement, and e
 usc_title: 40
 usc_section: "553"
 chapter: 5
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "40 U.S.C. § 553"
-generated_at: "2026-03-30T06:52:27.692Z"
+generated_at: "2026-03-30T06:54:34.205Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2000bb - Congressional findings and declaration of purposes"
 usc_title: 42
 usc_section: "2000bb"
 chapter: 21
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 2000bb"
-generated_at: "2026-03-30T06:52:46.952Z"
+generated_at: "2026-03-30T06:54:49.407Z"
 status: "active"
 ---
 

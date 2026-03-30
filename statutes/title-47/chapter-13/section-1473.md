@@ -3,9 +3,9 @@ title: "Section 1473 - Commission proceeding on autodialing"
 usc_title: 47
 usc_section: "1473"
 chapter: 13
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "47 U.S.C. § 1473"
-generated_at: "2026-03-30T06:52:50.784Z"
+generated_at: "2026-03-30T06:54:57.110Z"
 status: "active"
 ---
 

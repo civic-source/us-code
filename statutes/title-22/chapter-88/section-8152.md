@@ -3,9 +3,9 @@ title: "Section 8152 - Application of national security exclusion to wide-area e
 usc_title: 22
 usc_section: "8152"
 chapter: 88
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 8152"
-generated_at: "2026-03-30T06:52:09.405Z"
+generated_at: "2026-03-30T06:54:15.789Z"
 status: "active"
 ---
 

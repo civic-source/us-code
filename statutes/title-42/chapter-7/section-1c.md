@@ -3,9 +3,9 @@ title: "Section 1c - Presumptive eligibility for family planning services"
 usc_title: 42
 usc_section: "1c"
 chapter: 7
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 1c"
-generated_at: "2026-03-30T06:52:46.883Z"
+generated_at: "2026-03-30T06:54:49.337Z"
 status: "active"
 ---
 

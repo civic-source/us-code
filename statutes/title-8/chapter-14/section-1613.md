@@ -3,9 +3,9 @@ title: "Section 1613 - Five-year limited eligibility of qualified aliens for Fed
 usc_title: 8
 usc_section: "1613"
 chapter: 14
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "8 U.S.C. § 1613"
-generated_at: "2026-03-30T06:51:28.362Z"
+generated_at: "2026-03-30T06:53:21.744Z"
 status: "active"
 ---
 

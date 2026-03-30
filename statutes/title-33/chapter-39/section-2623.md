@@ -3,9 +3,9 @@ title: "Section 2623 - Authorization of appropriations"
 usc_title: 33
 usc_section: "2623"
 chapter: 39
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 2623"
-generated_at: "2026-03-30T06:52:24.308Z"
+generated_at: "2026-03-30T06:54:30.524Z"
 status: "active"
 ---
 

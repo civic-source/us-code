@@ -3,9 +3,9 @@ title: "Section 391 - Establishment; boundaries"
 usc_title: 16
 usc_section: "391"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 391"
-generated_at: "2026-03-30T06:52:02.827Z"
+generated_at: "2026-03-30T06:53:52.483Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7231e - Priority"
 usc_title: 20
 usc_section: "7231e"
 chapter: 70
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "20 U.S.C. § 7231e"
-generated_at: "2026-03-30T06:51:58.266Z"
+generated_at: "2026-03-30T06:53:49.569Z"
 status: "active"
 ---
 

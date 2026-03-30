@@ -3,9 +3,9 @@ title: "Section 1545 - Lease and sale of public property; conveyance of title in
 usc_title: 48
 usc_section: "1545"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "48 U.S.C. § 1545"
-generated_at: "2026-03-30T06:52:51.113Z"
+generated_at: "2026-03-30T06:54:53.048Z"
 status: "active"
 ---
 

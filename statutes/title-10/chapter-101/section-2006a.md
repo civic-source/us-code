@@ -3,9 +3,9 @@ title: "Section 2006a - Assistance for education and training: availability of c
 usc_title: 10
 usc_section: "2006a"
 chapter: 101
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "10 U.S.C. § 2006a"
-generated_at: "2026-03-30T06:51:38.303Z"
+generated_at: "2026-03-30T06:53:29.831Z"
 status: "active"
 ---
 

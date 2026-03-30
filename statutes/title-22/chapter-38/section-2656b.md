@@ -3,9 +3,9 @@ title: "Section 2656b - Congressional declaration of policy regarding consequenc
 usc_title: 22
 usc_section: "2656b"
 chapter: 38
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 2656b"
-generated_at: "2026-03-30T06:52:09.342Z"
+generated_at: "2026-03-30T06:54:15.726Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 670 - Procurement authority for family housing"
 usc_title: 14
 usc_section: "670"
 chapter: 17
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "14 U.S.C. § 670"
-generated_at: "2026-03-30T06:51:44.730Z"
+generated_at: "2026-03-30T06:53:32.025Z"
 status: "active"
 ---
 

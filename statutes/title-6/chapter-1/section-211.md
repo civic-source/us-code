@@ -3,9 +3,9 @@ title: "Section 211 - Establishment of U.S. Customs and Border Protection; Commi
 usc_title: 6
 usc_section: "211"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "6 U.S.C. § 211"
-generated_at: "2026-03-30T06:51:42.617Z"
+generated_at: "2026-03-30T06:53:26.782Z"
 status: "active"
 ---
 
@@ -36,8 +36,9 @@ status: "active"
     - **(B)** the Customs–Trade Partnership Against Terrorism program under subtitle B of title II of such Act ( 6 U.S.C. 961 et seq.);
   - **(15)** conduct polygraph examinations in accordance with section 221(1) of this title ;
   - **(16)** establish the standard operating procedures described in subsection (k);
-  - **(17)** carry out the training required under subsection ( l ); and
-  - **(18)** carry out other duties and powers prescribed by law or delegated by the Secretary.
+  - **(17)** carry out the training required under subsection ( l );
+  - **(18)** carry out section 218 of this title , relating to the issuance of Asia-Pacific Economic Cooperation Business Travel Cards; and
+  - **(19)** carry out other duties and powers prescribed by law or delegated by the Secretary.
 - **(d)** There shall be in U.S. Customs and Border Protection a Deputy Commissioner who shall assist the Commissioner in the management of U.S. Customs and Border Protection.
 - **(e)**
   - **(1)** There is established in U.S. Customs and Border Protection the U.S. Border Patrol.

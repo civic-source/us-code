@@ -3,9 +3,9 @@ title: "Section 3 - Foreign persons made ineligible for program benefits"
 usc_title: 7
 usc_section: "3"
 chapter: 35
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T06:51:34.987Z"
+generated_at: "2026-03-30T06:53:26.262Z"
 status: "active"
 ---
 

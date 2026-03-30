@@ -3,9 +3,9 @@ title: "Section 2806 - Relationship of statutory provisions to State and local l
 usc_title: 15
 usc_section: "2806"
 chapter: 55
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 2806"
-generated_at: "2026-03-30T06:51:51.904Z"
+generated_at: "2026-03-30T06:53:43.014Z"
 status: "active"
 ---
 

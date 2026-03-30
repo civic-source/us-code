@@ -3,9 +3,9 @@ title: "Section 8921 - Definitions"
 usc_title: 22
 usc_section: "8921"
 chapter: 96
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 8921"
-generated_at: "2026-03-30T06:52:09.414Z"
+generated_at: "2026-03-30T06:54:15.798Z"
 status: "active"
 ---
 

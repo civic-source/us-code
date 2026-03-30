@@ -3,9 +3,9 @@ title: "Section 5423 - Technical training for private sector development in Pola
 usc_title: 22
 usc_section: "5423"
 chapter: 63
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 5423"
-generated_at: "2026-03-30T06:52:09.377Z"
+generated_at: "2026-03-30T06:54:15.762Z"
 status: "active"
 ---
 

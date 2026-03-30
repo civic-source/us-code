@@ -3,9 +3,9 @@ title: "Section 1432 - Information on United States participation in United Nati
 usc_title: 22
 usc_section: "1432"
 chapter: 18
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 1432"
-generated_at: "2026-03-30T06:52:09.304Z"
+generated_at: "2026-03-30T06:54:15.689Z"
 status: "active"
 ---
 

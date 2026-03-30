@@ -3,9 +3,9 @@ title: "Section 1613a - Appellate jurisdiction of District Court; procedure; rev
 usc_title: 48
 usc_section: "1613a"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "48 U.S.C. § 1613a"
-generated_at: "2026-03-30T06:52:51.116Z"
+generated_at: "2026-03-30T06:54:53.050Z"
 status: "active"
 ---
 

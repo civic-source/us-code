@@ -3,9 +3,9 @@ title: "Section 1253 - Direct appeals from decisions of three-judge courts"
 usc_title: 28
 usc_section: "1253"
 chapter: 81
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "28 U.S.C. § 1253"
-generated_at: "2026-03-30T06:52:14.483Z"
+generated_at: "2026-03-30T06:54:26.574Z"
 status: "active"
 ---
 

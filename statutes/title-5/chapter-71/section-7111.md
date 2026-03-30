@@ -3,9 +3,9 @@ title: "Section 7111 - Exclusive recognition of labor organizations"
 usc_title: 5
 usc_section: "7111"
 chapter: 71
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "5 U.S.C. § 7111"
-generated_at: "2026-03-30T06:51:25.343Z"
+generated_at: "2026-03-30T06:53:15.210Z"
 status: "active"
 ---
 

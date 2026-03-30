@@ -3,9 +3,9 @@ title: "Section 86 - Transferred"
 usc_title: 8
 usc_section: "86"
 chapter: 5
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "8 U.S.C. § 86"
-generated_at: "2026-03-30T06:51:28.330Z"
+generated_at: "2026-03-30T06:53:21.712Z"
 status: "transferred"
 ---
 

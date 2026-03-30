@@ -3,9 +3,9 @@ title: "Section 2313 - Collaborative research and development"
 usc_title: 33
 usc_section: "2313"
 chapter: 36
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 2313"
-generated_at: "2026-03-30T06:52:24.301Z"
+generated_at: "2026-03-30T06:54:30.519Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 474 - Repealed. May 25, 1926, ch. 383 , § 47, 44 Stat. 650"
 usc_title: 43
 usc_section: "474"
 chapter: 12
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "43 U.S.C. § 474"
-generated_at: "2026-03-30T06:52:32.115Z"
+generated_at: "2026-03-30T06:54:39.353Z"
 status: "repealed"
 ---
 

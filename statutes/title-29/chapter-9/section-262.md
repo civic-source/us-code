@@ -3,9 +3,9 @@ title: "Section 262 - Definitions"
 usc_title: 29
 usc_section: "262"
 chapter: 9
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "29 U.S.C. § 262"
-generated_at: "2026-03-30T06:52:15.293Z"
+generated_at: "2026-03-30T06:54:21.436Z"
 status: "active"
 ---
 

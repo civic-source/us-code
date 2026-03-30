@@ -3,9 +3,9 @@ title: "Section 3345 - Limitation on handling, retention, and storage of certain
 usc_title: 50
 usc_section: "3345"
 chapter: 45
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "50 U.S.C. § 3345"
-generated_at: "2026-03-30T06:52:54.538Z"
+generated_at: "2026-03-30T06:54:54.053Z"
 status: "active"
 ---
 

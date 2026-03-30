@@ -3,9 +3,9 @@ title: "Section 1321b - Improved coordination with tribal governments"
 usc_title: 33
 usc_section: "1321b"
 chapter: 26
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "33 U.S.C. § 1321b"
-generated_at: "2026-03-30T06:52:24.284Z"
+generated_at: "2026-03-30T06:54:30.501Z"
 status: "active"
 ---
 

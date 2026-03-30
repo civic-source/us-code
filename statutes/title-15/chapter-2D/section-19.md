@@ -3,9 +3,9 @@ title: "Section 19 - Separability"
 usc_title: 15
 usc_section: "19"
 chapter: 2
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "15 U.S.C. § 19"
-generated_at: "2026-03-30T06:51:51.808Z"
+generated_at: "2026-03-30T06:53:42.923Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5828 - Funding for OPIC programs"
 usc_title: 22
 usc_section: "5828"
 chapter: 67
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "22 U.S.C. § 5828"
-generated_at: "2026-03-30T06:52:09.380Z"
+generated_at: "2026-03-30T06:54:15.764Z"
 status: "active"
 ---
 

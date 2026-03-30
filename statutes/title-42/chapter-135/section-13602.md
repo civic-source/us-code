@@ -3,9 +3,9 @@ title: "Section 13602 - Compliance with criteria for occupancy as requirement fo
 usc_title: 42
 usc_section: "13602"
 chapter: 135
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 13602"
-generated_at: "2026-03-30T06:52:47.209Z"
+generated_at: "2026-03-30T06:54:49.663Z"
 status: "active"
 ---
 

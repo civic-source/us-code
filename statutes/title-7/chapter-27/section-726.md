@@ -3,9 +3,9 @@ title: "Section 726 - Omitted"
 usc_title: 7
 usc_section: "726"
 chapter: 27
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "7 U.S.C. § 726"
-generated_at: "2026-03-30T06:51:34.980Z"
+generated_at: "2026-03-30T06:53:26.256Z"
 status: "omitted"
 ---
 

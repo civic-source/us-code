@@ -3,9 +3,9 @@ title: "Section 5607 - Consultative committee"
 usc_title: 16
 usc_section: "5607"
 chapter: 76
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 5607"
-generated_at: "2026-03-30T06:52:03.028Z"
+generated_at: "2026-03-30T06:53:52.720Z"
 status: "active"
 ---
 

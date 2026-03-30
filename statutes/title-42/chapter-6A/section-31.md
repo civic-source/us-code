@@ -3,9 +3,9 @@ title: "Section 31 - Identification and initial health evaluation of screening-e
 usc_title: 42
 usc_section: "31"
 chapter: 6
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "42 U.S.C. § 31"
-generated_at: "2026-03-30T06:52:46.736Z"
+generated_at: "2026-03-30T06:54:49.188Z"
 status: "active"
 ---
 

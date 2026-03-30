@@ -3,9 +3,9 @@ title: "Section 510a - Omitted"
 usc_title: 16
 usc_section: "510a"
 chapter: 2
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 510a"
-generated_at: "2026-03-30T06:52:02.899Z"
+generated_at: "2026-03-30T06:53:52.602Z"
 status: "omitted"
 ---
 

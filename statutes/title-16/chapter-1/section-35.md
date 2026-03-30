@@ -3,9 +3,9 @@ title: "Section 35 - Powers of Commission"
 usc_title: 16
 usc_section: "35"
 chapter: 1
-current_through: "PL 115-73"
+current_through: "PL 115-82"
 classification: "16 U.S.C. § 35"
-generated_at: "2026-03-30T06:52:02.836Z"
+generated_at: "2026-03-30T06:53:52.492Z"
 status: "active"
 ---
 
