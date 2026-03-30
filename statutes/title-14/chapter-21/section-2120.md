@@ -3,9 +3,9 @@ title: "Section 2120 - Special selection boards; correction of errors"
 usc_title: 14
 usc_section: "2120"
 chapter: 21
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "14 U.S.C. § 2120"
-generated_at: "2026-03-30T09:32:43.025Z"
+generated_at: "2026-03-30T09:35:48.426Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18204 - Appropriations"
 usc_title: 42
 usc_section: "18204"
 chapter: 158
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 18204"
-generated_at: "2026-03-30T09:34:29.706Z"
+generated_at: "2026-03-30T09:39:15.309Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1801 - Congressional findings and declaration of purposes"
 usc_title: 30
 usc_section: "1801"
 chapter: 30
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "30 U.S.C. § 1801"
-generated_at: "2026-03-30T09:33:34.925Z"
+generated_at: "2026-03-30T09:36:50.248Z"
 status: "active"
 ---
 

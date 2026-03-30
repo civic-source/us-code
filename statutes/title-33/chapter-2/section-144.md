@@ -3,9 +3,9 @@ title: "Section 144 - Repealed. Pub. L. 88–131, § 3 , Sept. 4, 1963 , 77 Stat
 usc_title: 33
 usc_section: "144"
 chapter: 2
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "33 U.S.C. § 144"
-generated_at: "2026-03-30T09:33:48.715Z"
+generated_at: "2026-03-30T09:37:31.549Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60123 - Administrative authority of Secretary"
 usc_title: 51
 usc_section: "60123"
 chapter: 601
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "51 U.S.C. § 60123"
-generated_at: "2026-03-30T09:34:55.569Z"
+generated_at: "2026-03-30T09:39:30.917Z"
 status: "active"
 ---
 

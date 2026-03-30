@@ -3,9 +3,9 @@ title: "Section 3162 - State allotments"
 usc_title: 29
 usc_section: "3162"
 chapter: 32
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "29 U.S.C. § 3162"
-generated_at: "2026-03-30T09:33:34.500Z"
+generated_at: "2026-03-30T09:37:10.962Z"
 status: "active"
 ---
 

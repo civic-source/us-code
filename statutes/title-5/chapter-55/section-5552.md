@@ -3,9 +3,9 @@ title: "Section 5552 - Lump-sum payment for accumulated and accrued leave on ent
 usc_title: 5
 usc_section: "5552"
 chapter: 55
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "5 U.S.C. § 5552"
-generated_at: "2026-03-30T09:32:27.212Z"
+generated_at: "2026-03-30T09:35:11.698Z"
 status: "active"
 ---
 

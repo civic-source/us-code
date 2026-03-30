@@ -3,9 +3,9 @@ title: "Section 6316 - Administration, penalties, enforcement, and preemption"
 usc_title: 42
 usc_section: "6316"
 chapter: 77
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 6316"
-generated_at: "2026-03-30T09:34:29.501Z"
+generated_at: "2026-03-30T09:39:15.093Z"
 status: "active"
 ---
 

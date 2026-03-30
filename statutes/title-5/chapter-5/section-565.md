@@ -3,9 +3,9 @@ title: "Section 565 - Establishment of committee"
 usc_title: 5
 usc_section: "565"
 chapter: 5
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "5 U.S.C. § 565"
-generated_at: "2026-03-30T09:32:27.192Z"
+generated_at: "2026-03-30T09:35:11.677Z"
 status: "active"
 ---
 

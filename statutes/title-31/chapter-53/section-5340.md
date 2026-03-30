@@ -3,9 +3,9 @@ title: "Section 5340 - Definitions"
 usc_title: 31
 usc_section: "5340"
 chapter: 53
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "31 U.S.C. § 5340"
-generated_at: "2026-03-30T09:33:42.187Z"
+generated_at: "2026-03-30T09:37:16.914Z"
 status: "active"
 ---
 

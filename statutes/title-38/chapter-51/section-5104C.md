@@ -3,9 +3,9 @@ title: "Section 5104C - Options following decision by agency of original jurisdi
 usc_title: 38
 usc_section: "5104C"
 chapter: 51
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "38 U.S.C. § 5104C"
-generated_at: "2026-03-30T09:33:53.088Z"
+generated_at: "2026-03-30T09:38:03.206Z"
 status: "active"
 ---
 

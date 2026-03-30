@@ -3,9 +3,9 @@ title: "Section 5107 - Concerts on grounds"
 usc_title: 40
 usc_section: "5107"
 chapter: 51
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "40 U.S.C. § 5107"
-generated_at: "2026-03-30T09:33:51.327Z"
+generated_at: "2026-03-30T09:37:39.615Z"
 status: "active"
 ---
 

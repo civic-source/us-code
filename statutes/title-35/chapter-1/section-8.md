@@ -3,9 +3,9 @@ title: "Section 8 - Classification of patents"
 usc_title: 35
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "35 U.S.C. § 8"
-generated_at: "2026-03-30T09:33:41.313Z"
+generated_at: "2026-03-30T09:37:18.716Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2355 - Local uses of funds"
 usc_title: 20
 usc_section: "2355"
 chapter: 44
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "20 U.S.C. § 2355"
-generated_at: "2026-03-30T09:33:02.816Z"
+generated_at: "2026-03-30T09:36:19.201Z"
 status: "active"
 ---
 

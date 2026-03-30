@@ -3,9 +3,9 @@ title: "Section 856 - Repealed. Pub. L. 103–429, § 7(a)(1) , Oct. 31, 1994 , 
 usc_title: 45
 usc_section: "856"
 chapter: 17
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "45 U.S.C. § 856"
-generated_at: "2026-03-30T09:33:58.378Z"
+generated_at: "2026-03-30T09:38:14.354Z"
 status: "repealed"
 ---
 

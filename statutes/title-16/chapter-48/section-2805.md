@@ -3,9 +3,9 @@ title: "Section 2805 - Coordination of national activities regarding aquaculture
 usc_title: 16
 usc_section: "2805"
 chapter: 48
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "16 U.S.C. § 2805"
-generated_at: "2026-03-30T09:33:15.665Z"
+generated_at: "2026-03-30T09:36:12.806Z"
 status: "active"
 ---
 

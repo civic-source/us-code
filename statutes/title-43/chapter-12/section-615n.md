@@ -3,9 +3,9 @@ title: "Section 615n - Omitted"
 usc_title: 43
 usc_section: "615n"
 chapter: 12
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "43 U.S.C. § 615n"
-generated_at: "2026-03-30T09:33:59.958Z"
+generated_at: "2026-03-30T09:38:06.486Z"
 status: "omitted"
 ---
 

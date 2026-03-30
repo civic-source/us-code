@@ -3,9 +3,9 @@ title: "Section 1605 - General exceptions to the jurisdictional immunity of a fo
 usc_title: 28
 usc_section: "1605"
 chapter: 97
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "28 U.S.C. § 1605"
-generated_at: "2026-03-30T09:33:32.845Z"
+generated_at: "2026-03-30T09:37:13.559Z"
 status: "active"
 ---
 

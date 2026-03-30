@@ -3,9 +3,9 @@ title: "Section 902 - Definitions for this chapter"
 usc_title: 11
 usc_section: "902"
 chapter: 9
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "11 U.S.C. § 902"
-generated_at: "2026-03-30T09:32:57.553Z"
+generated_at: "2026-03-30T09:35:34.668Z"
 status: "active"
 ---
 

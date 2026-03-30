@@ -3,9 +3,9 @@ title: "Section 6135 - Parades, assemblages, and display of flags in the Supreme
 usc_title: 40
 usc_section: "6135"
 chapter: 61
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "40 U.S.C. § 6135"
-generated_at: "2026-03-30T09:33:51.328Z"
+generated_at: "2026-03-30T09:37:39.615Z"
 status: "active"
 ---
 

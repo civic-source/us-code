@@ -3,9 +3,9 @@ title: "Section 1275 - Columbia River Basin Restoration"
 usc_title: 33
 usc_section: "1275"
 chapter: 26
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "33 U.S.C. § 1275"
-generated_at: "2026-03-30T09:33:48.743Z"
+generated_at: "2026-03-30T09:37:31.575Z"
 status: "active"
 ---
 

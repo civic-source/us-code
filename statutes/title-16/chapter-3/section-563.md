@@ -3,9 +3,9 @@ title: "Section 563 - Cooperation with States for fire protection on private or 
 usc_title: 16
 usc_section: "563"
 chapter: 3
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "16 U.S.C. § 563"
-generated_at: "2026-03-30T09:33:15.579Z"
+generated_at: "2026-03-30T09:36:12.718Z"
 status: "active"
 ---
 

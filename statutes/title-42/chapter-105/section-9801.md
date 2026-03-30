@@ -3,9 +3,9 @@ title: "Section 9801 - Statement of purpose"
 usc_title: 42
 usc_section: "9801"
 chapter: 105
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 9801"
-generated_at: "2026-03-30T09:34:29.591Z"
+generated_at: "2026-03-30T09:39:15.189Z"
 status: "active"
 ---
 

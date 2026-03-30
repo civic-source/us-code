@@ -3,9 +3,9 @@ title: "Section 200306 - Allocation of Fund amounts for Federal purposes"
 usc_title: 54
 usc_section: "200306"
 chapter: 2003
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "54 U.S.C. § 200306"
-generated_at: "2026-03-30T09:34:55.005Z"
+generated_at: "2026-03-30T09:39:29.974Z"
 status: "active"
 ---
 
@@ -22,7 +22,6 @@ status: "active"
         - **(I)** wilderness areas of the National Forest System; and
         - **(II)** other areas of national forests as the boundaries of those forests existed on January 1, 1965 , or purchase units approved by the National Forest Reservation Commission subsequent to January 1, 1965 , all of which other areas are primarily of value for outdoor recreation purposes.
       - **(ii)** Land outside but adjacent to an existing national forest boundary, not to exceed 3,000 acres in the case of any one forest, that would comprise an integral part of a forest recreational management area may also be acquired with amounts appropriated from the Fund.
-      - **(iii)** Except for areas specifically authorized by Act of Congress, not more than 15 percent of the acreage added to the National Forest System pursuant to this section shall be west of the 100th meridian.
     - **(C)** Amounts shall be allotted for the acquisition of land, water, or an interest in land or water for—
       - **(i)** endangered species and threatened species authorized under section 5(a) of the Endangered Species Act of 1973 ( 16 U.S.C. 1534(a) );
       - **(ii)** areas authorized by section 2 of the Refuge Recreation Act ( 16 U.S.C. 460k–1 );

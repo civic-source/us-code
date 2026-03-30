@@ -3,9 +3,9 @@ title: "Section 620i - Eastern hardwoods study"
 usc_title: 16
 usc_section: "620i"
 chapter: 4
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "16 U.S.C. § 620i"
-generated_at: "2026-03-30T09:33:15.586Z"
+generated_at: "2026-03-30T09:36:12.725Z"
 status: "active"
 ---
 

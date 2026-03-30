@@ -3,9 +3,9 @@ title: "Section 6455 - Program requirements for correctional facilities receivin
 usc_title: 20
 usc_section: "6455"
 chapter: 70
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "20 U.S.C. § 6455"
-generated_at: "2026-03-30T09:33:02.837Z"
+generated_at: "2026-03-30T09:36:19.221Z"
 status: "active"
 ---
 

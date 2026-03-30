@@ -3,9 +3,9 @@ title: "Section 7246 - Fair funds for investors"
 usc_title: 15
 usc_section: "7246"
 chapter: 98
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "15 U.S.C. § 7246"
-generated_at: "2026-03-30T09:32:48.072Z"
+generated_at: "2026-03-30T09:35:58.572Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 116 - National Surface Transportation and Innovative Finance Bur
 usc_title: 49
 usc_section: "116"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 116"
-generated_at: "2026-03-30T09:34:36.787Z"
+generated_at: "2026-03-30T09:39:22.578Z"
 status: "active"
 ---
 

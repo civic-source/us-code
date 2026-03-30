@@ -3,9 +3,9 @@ title: "Section 40104 - Definitions"
 usc_title: 34
 usc_section: "40104"
 chapter: 401
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "34 U.S.C. § 40104"
-generated_at: "2026-03-30T09:33:47.724Z"
+generated_at: "2026-03-30T09:37:35.742Z"
 status: "active"
 ---
 

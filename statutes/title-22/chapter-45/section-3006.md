@@ -3,9 +3,9 @@ title: "Section 3006 - Commission report to Congress; periodic reports; expendit
 usc_title: 22
 usc_section: "3006"
 chapter: 45
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "22 U.S.C. § 3006"
-generated_at: "2026-03-30T09:33:25.031Z"
+generated_at: "2026-03-30T09:36:47.866Z"
 status: "active"
 ---
 

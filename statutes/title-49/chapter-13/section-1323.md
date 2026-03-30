@@ -3,9 +3,9 @@ title: "Section 1323 - Service of notice in Board proceedings"
 usc_title: 49
 usc_section: "1323"
 chapter: 13
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 1323"
-generated_at: "2026-03-30T09:34:36.792Z"
+generated_at: "2026-03-30T09:39:22.584Z"
 status: "active"
 ---
 

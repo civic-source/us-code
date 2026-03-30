@@ -3,9 +3,9 @@ title: "Section 2151 - Rear admirals and rear admirals (lower half); continuatio
 usc_title: 14
 usc_section: "2151"
 chapter: 21
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "14 U.S.C. § 2151"
-generated_at: "2026-03-30T09:32:43.026Z"
+generated_at: "2026-03-30T09:35:48.427Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Community partnership enhancement"
 usc_title: 16
 usc_section: "3"
 chapter: 9
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T09:33:15.599Z"
+generated_at: "2026-03-30T09:36:12.740Z"
 status: "active"
 ---
 

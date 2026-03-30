@@ -3,9 +3,9 @@ title: "Section 60107 - State pipeline safety grants"
 usc_title: 49
 usc_section: "60107"
 chapter: 601
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 60107"
-generated_at: "2026-03-30T09:34:36.876Z"
+generated_at: "2026-03-30T09:39:22.661Z"
 status: "active"
 ---
 

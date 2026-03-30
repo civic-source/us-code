@@ -3,9 +3,9 @@ title: "Section 2343 - Technical assistance"
 usc_title: 19
 usc_section: "2343"
 chapter: 12
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "19 U.S.C. § 2343"
-generated_at: "2026-03-30T09:33:04.755Z"
+generated_at: "2026-03-30T09:36:17.318Z"
 status: "active"
 ---
 

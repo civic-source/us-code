@@ -3,9 +3,9 @@ title: "Section 14334 - Limitations on sale of button cell mercuric-oxide batter
 usc_title: 42
 usc_section: "14334"
 chapter: 137
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 14334"
-generated_at: "2026-03-30T09:34:29.662Z"
+generated_at: "2026-03-30T09:39:15.264Z"
 status: "active"
 ---
 

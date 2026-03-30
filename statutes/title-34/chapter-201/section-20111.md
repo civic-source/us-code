@@ -3,9 +3,9 @@ title: "Section 20111 - Establishment of Office for Victims of Crime"
 usc_title: 34
 usc_section: "20111"
 chapter: 201
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "34 U.S.C. § 20111"
-generated_at: "2026-03-30T09:33:47.711Z"
+generated_at: "2026-03-30T09:37:35.730Z"
 status: "active"
 ---
 

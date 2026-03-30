@@ -3,9 +3,9 @@ title: "Section 672 - Notice of petition for dumping grounds, etc.; hearing"
 usc_title: 33
 usc_section: "672"
 chapter: 14
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "33 U.S.C. § 672"
-generated_at: "2026-03-30T09:33:48.726Z"
+generated_at: "2026-03-30T09:37:31.560Z"
 status: "active"
 ---
 

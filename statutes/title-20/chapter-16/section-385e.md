@@ -3,9 +3,9 @@ title: "Section 385e - Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [
 usc_title: 20
 usc_section: "385e"
 chapter: 16
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "20 U.S.C. § 385e"
-generated_at: "2026-03-30T09:33:02.741Z"
+generated_at: "2026-03-30T09:36:19.126Z"
 status: "repealed"
 ---
 

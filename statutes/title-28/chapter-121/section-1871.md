@@ -3,9 +3,9 @@ title: "Section 1871 - Fees"
 usc_title: 28
 usc_section: "1871"
 chapter: 121
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "28 U.S.C. § 1871"
-generated_at: "2026-03-30T09:33:32.848Z"
+generated_at: "2026-03-30T09:37:13.561Z"
 status: "active"
 ---
 

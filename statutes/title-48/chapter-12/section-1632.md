@@ -3,9 +3,9 @@ title: "Section 1632 - Repealed. Pub. L. 90–496, § 14 , Aug. 23, 1968 , 82 St
 usc_title: 48
 usc_section: "1632"
 chapter: 12
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "48 U.S.C. § 1632"
-generated_at: "2026-03-30T09:34:32.532Z"
+generated_at: "2026-03-30T09:39:19.071Z"
 status: "repealed"
 ---
 

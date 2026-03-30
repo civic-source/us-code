@@ -3,9 +3,9 @@ title: "Section 6292 - Coverage"
 usc_title: 42
 usc_section: "6292"
 chapter: 77
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 6292"
-generated_at: "2026-03-30T09:34:29.494Z"
+generated_at: "2026-03-30T09:39:15.086Z"
 status: "active"
 ---
 

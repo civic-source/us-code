@@ -3,9 +3,9 @@ title: "Section 3740 - Promotion; recommendations of selection boards"
 usc_title: 14
 usc_section: "3740"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "14 U.S.C. § 3740"
-generated_at: "2026-03-30T09:32:43.030Z"
+generated_at: "2026-03-30T09:35:48.430Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4 - Authorization of appropriations"
 usc_title: 22
 usc_section: "4"
 chapter: 32
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "22 U.S.C. § 4"
-generated_at: "2026-03-30T09:33:25.006Z"
+generated_at: "2026-03-30T09:36:47.841Z"
 status: "active"
 ---
 

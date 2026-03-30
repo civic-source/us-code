@@ -3,9 +3,9 @@ title: "Section 25a - Repealed. Pub. L. 114–255, div. B, title IX, § 9017 , D
 usc_title: 42
 usc_section: "25a"
 chapter: 6
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 25a"
-generated_at: "2026-03-30T09:34:29.108Z"
+generated_at: "2026-03-30T09:39:14.722Z"
 status: "repealed"
 ---
 

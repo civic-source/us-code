@@ -3,9 +3,9 @@ title: "Section 46306 - Registration violations involving aircraft not providing
 usc_title: 49
 usc_section: "46306"
 chapter: 463
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 46306"
-generated_at: "2026-03-30T09:34:36.865Z"
+generated_at: "2026-03-30T09:39:22.651Z"
 status: "active"
 ---
 

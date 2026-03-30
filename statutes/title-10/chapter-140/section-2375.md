@@ -3,9 +3,9 @@ title: "Section 2375 - Relationship of other provisions of law to procurement of
 usc_title: 10
 usc_section: "2375"
 chapter: 140
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "10 U.S.C. § 2375"
-generated_at: "2026-03-30T09:32:35.609Z"
+generated_at: "2026-03-30T09:35:23.965Z"
 status: "active"
 ---
 

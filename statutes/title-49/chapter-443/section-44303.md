@@ -3,9 +3,9 @@ title: "Section 44303 - Coverage"
 usc_title: 49
 usc_section: "44303"
 chapter: 443
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 44303"
-generated_at: "2026-03-30T09:34:36.853Z"
+generated_at: "2026-03-30T09:39:22.639Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6107 - Funding"
 usc_title: 49
 usc_section: "6107"
 chapter: 61
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 6107"
-generated_at: "2026-03-30T09:34:36.805Z"
+generated_at: "2026-03-30T09:39:22.595Z"
 status: "active"
 ---
 

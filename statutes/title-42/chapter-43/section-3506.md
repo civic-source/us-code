@@ -3,9 +3,9 @@ title: "Section 3506 - Travel and subsistence expenses of officers and employees
 usc_title: 42
 usc_section: "3506"
 chapter: 43
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 3506"
-generated_at: "2026-03-30T09:34:29.443Z"
+generated_at: "2026-03-30T09:39:15.038Z"
 status: "active"
 ---
 

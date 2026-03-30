@@ -3,9 +3,9 @@ title: "Section 40301 - State grant program for criminal justice identification,
 usc_title: 34
 usc_section: "40301"
 chapter: 403
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "34 U.S.C. § 40301"
-generated_at: "2026-03-30T09:33:47.724Z"
+generated_at: "2026-03-30T09:37:35.742Z"
 status: "active"
 ---
 

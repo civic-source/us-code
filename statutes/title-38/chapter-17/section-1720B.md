@@ -3,9 +3,9 @@ title: "Section 1720B - Respite care"
 usc_title: 38
 usc_section: "1720B"
 chapter: 17
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "38 U.S.C. § 1720B"
-generated_at: "2026-03-30T09:33:53.059Z"
+generated_at: "2026-03-30T09:38:03.176Z"
 status: "active"
 ---
 

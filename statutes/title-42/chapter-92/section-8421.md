@@ -3,9 +3,9 @@ title: "Section 8421 - Information"
 usc_title: 42
 usc_section: "8421"
 chapter: 92
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 8421"
-generated_at: "2026-03-30T09:34:29.571Z"
+generated_at: "2026-03-30T09:39:15.169Z"
 status: "active"
 ---
 

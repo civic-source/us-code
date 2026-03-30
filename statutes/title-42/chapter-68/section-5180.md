@@ -3,9 +3,9 @@ title: "Section 5180 - Food commodities"
 usc_title: 42
 usc_section: "5180"
 chapter: 68
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 5180"
-generated_at: "2026-03-30T09:34:29.475Z"
+generated_at: "2026-03-30T09:39:15.069Z"
 status: "active"
 ---
 

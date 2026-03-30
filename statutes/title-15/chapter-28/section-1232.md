@@ -3,9 +3,9 @@ title: "Section 1232 - Label and entry requirements"
 usc_title: 15
 usc_section: "1232"
 chapter: 28
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "15 U.S.C. § 1232"
-generated_at: "2026-03-30T09:32:47.993Z"
+generated_at: "2026-03-30T09:35:58.490Z"
 status: "active"
 ---
 

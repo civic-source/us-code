@@ -3,9 +3,9 @@ title: "Section 10642 - Use of funds"
 usc_title: 34
 usc_section: "10642"
 chapter: 101
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "34 U.S.C. § 10642"
-generated_at: "2026-03-30T09:33:47.693Z"
+generated_at: "2026-03-30T09:37:35.712Z"
 status: "active"
 ---
 

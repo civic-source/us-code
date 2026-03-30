@@ -3,9 +3,9 @@ title: "Section 8262f - Inspector General review and agency accountability"
 usc_title: 42
 usc_section: "8262f"
 chapter: 91
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 8262f"
-generated_at: "2026-03-30T09:34:29.569Z"
+generated_at: "2026-03-30T09:39:15.166Z"
 status: "active"
 ---
 

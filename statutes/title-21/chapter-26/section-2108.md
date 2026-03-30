@@ -3,9 +3,9 @@ title: "Section 2108 - Annual report to Congress"
 usc_title: 21
 usc_section: "2108"
 chapter: 26
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "21 U.S.C. § 2108"
-generated_at: "2026-03-30T09:33:22.956Z"
+generated_at: "2026-03-30T09:36:23.172Z"
 status: "active"
 ---
 

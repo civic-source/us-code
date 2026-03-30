@@ -3,9 +3,9 @@ title: "Section 451j - Rules and regulations"
 usc_title: 43
 usc_section: "451j"
 chapter: 12
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "43 U.S.C. § 451j"
-generated_at: "2026-03-30T09:33:59.953Z"
+generated_at: "2026-03-30T09:38:06.482Z"
 status: "active"
 ---
 

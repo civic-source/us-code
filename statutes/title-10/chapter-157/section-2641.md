@@ -3,9 +3,9 @@ title: "Section 2641 - Transportation of certain veterans on Department of Defen
 usc_title: 10
 usc_section: "2641"
 chapter: 157
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "10 U.S.C. § 2641"
-generated_at: "2026-03-30T09:32:35.623Z"
+generated_at: "2026-03-30T09:35:23.979Z"
 status: "active"
 ---
 

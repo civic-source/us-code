@@ -3,9 +3,9 @@ title: "Section 4371 - Congressional findings, declarations, and purposes"
 usc_title: 42
 usc_section: "4371"
 chapter: 56
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 4371"
-generated_at: "2026-03-30T09:34:29.459Z"
+generated_at: "2026-03-30T09:39:15.053Z"
 status: "active"
 ---
 

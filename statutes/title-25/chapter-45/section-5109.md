@@ -3,9 +3,9 @@ title: "Section 5109 - Indian forestry units; rules and regulations"
 usc_title: 25
 usc_section: "5109"
 chapter: 45
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "25 U.S.C. § 5109"
-generated_at: "2026-03-30T09:33:28.818Z"
+generated_at: "2026-03-30T09:36:30.534Z"
 status: "active"
 ---
 

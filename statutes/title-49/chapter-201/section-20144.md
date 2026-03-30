@@ -3,9 +3,9 @@ title: "Section 20144 - Blue signal protection for on-track vehicles"
 usc_title: 49
 usc_section: "20144"
 chapter: 201
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 20144"
-generated_at: "2026-03-30T09:34:36.818Z"
+generated_at: "2026-03-30T09:39:22.608Z"
 status: "active"
 ---
 

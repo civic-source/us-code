@@ -3,9 +3,9 @@ title: "Section 47122 - Administrative"
 usc_title: 49
 usc_section: "47122"
 chapter: 471
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 47122"
-generated_at: "2026-03-30T09:34:36.870Z"
+generated_at: "2026-03-30T09:39:22.655Z"
 status: "active"
 ---
 

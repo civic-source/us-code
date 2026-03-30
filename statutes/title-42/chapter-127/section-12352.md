@@ -3,9 +3,9 @@ title: "Section 12352 - “Family resource and support programs” defined"
 usc_title: 42
 usc_section: "12352"
 chapter: 127
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 12352"
-generated_at: "2026-03-30T09:34:29.631Z"
+generated_at: "2026-03-30T09:39:15.232Z"
 status: "active"
 ---
 

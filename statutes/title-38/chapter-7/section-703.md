@@ -3,9 +3,9 @@ title: "Section 703 - Miscellaneous authorities respecting employees"
 usc_title: 38
 usc_section: "703"
 chapter: 7
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "38 U.S.C. § 703"
-generated_at: "2026-03-30T09:33:53.051Z"
+generated_at: "2026-03-30T09:38:03.166Z"
 status: "active"
 ---
 

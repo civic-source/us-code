@@ -3,9 +3,9 @@ title: "Section 1715 - Finality of Secretary’s decisions"
 usc_title: 42
 usc_section: "1715"
 chapter: 12
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 1715"
-generated_at: "2026-03-30T09:34:29.376Z"
+generated_at: "2026-03-30T09:39:14.974Z"
 status: "active"
 ---
 

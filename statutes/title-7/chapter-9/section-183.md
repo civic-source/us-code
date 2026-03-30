@@ -3,9 +3,9 @@ title: "Section 183 - When transaction deemed in commerce; “State” defined"
 usc_title: 7
 usc_section: "183"
 chapter: 9
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "7 U.S.C. § 183"
-generated_at: "2026-03-30T09:32:40.740Z"
+generated_at: "2026-03-30T09:35:28.108Z"
 status: "active"
 ---
 

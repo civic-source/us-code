@@ -3,9 +3,9 @@ title: "Section 1437a - Rental payments"
 usc_title: 42
 usc_section: "1437a"
 chapter: 8
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 1437a"
-generated_at: "2026-03-30T09:34:29.351Z"
+generated_at: "2026-03-30T09:39:14.952Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12131 - Ounce of Prevention Council"
 usc_title: 34
 usc_section: "12131"
 chapter: 121
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "34 U.S.C. § 12131"
-generated_at: "2026-03-30T09:33:47.702Z"
+generated_at: "2026-03-30T09:37:35.720Z"
 status: "active"
 ---
 

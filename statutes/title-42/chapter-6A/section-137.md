@@ -3,9 +3,9 @@ title: "Section 137 - Limitation with respect to duties of medical facilities"
 usc_title: 42
 usc_section: "137"
 chapter: 6
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 137"
-generated_at: "2026-03-30T09:34:29.164Z"
+generated_at: "2026-03-30T09:39:14.776Z"
 status: "active"
 ---
 

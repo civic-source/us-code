@@ -3,9 +3,9 @@ title: "Section 11245 - Periodic estimate of incidence and prevalence of youth h
 usc_title: 34
 usc_section: "11245"
 chapter: 111
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "34 U.S.C. § 11245"
-generated_at: "2026-03-30T09:33:47.698Z"
+generated_at: "2026-03-30T09:37:35.718Z"
 status: "active"
 ---
 

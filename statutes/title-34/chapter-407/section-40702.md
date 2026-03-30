@@ -3,9 +3,9 @@ title: "Section 40702 - Collection and use of DNA identification information fro
 usc_title: 34
 usc_section: "40702"
 chapter: 407
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "34 U.S.C. § 40702"
-generated_at: "2026-03-30T09:33:47.726Z"
+generated_at: "2026-03-30T09:37:35.744Z"
 status: "active"
 ---
 

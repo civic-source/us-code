@@ -3,9 +3,9 @@ title: "Section 5927 - Advances of pay"
 usc_title: 5
 usc_section: "5927"
 chapter: 59
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "5 U.S.C. § 5927"
-generated_at: "2026-03-30T09:32:27.216Z"
+generated_at: "2026-03-30T09:35:11.702Z"
 status: "active"
 ---
 

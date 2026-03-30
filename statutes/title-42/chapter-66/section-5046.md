@@ -3,9 +3,9 @@ title: "Section 5046 - Labor standards for federally assisted projects, building
 usc_title: 42
 usc_section: "5046"
 chapter: 66
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 5046"
-generated_at: "2026-03-30T09:34:29.467Z"
+generated_at: "2026-03-30T09:39:15.060Z"
 status: "active"
 ---
 

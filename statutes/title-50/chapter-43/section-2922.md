@@ -3,9 +3,9 @@ title: "Section 2922 - Authorization of appropriations for the Department of Def
 usc_title: 50
 usc_section: "2922"
 chapter: 43
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "50 U.S.C. § 2922"
-generated_at: "2026-03-30T09:34:34.486Z"
+generated_at: "2026-03-30T09:39:27.928Z"
 status: "active"
 ---
 

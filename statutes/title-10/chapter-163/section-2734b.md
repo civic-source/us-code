@@ -3,9 +3,9 @@ title: "Section 2734b - Property loss; personal injury or death: incident to act
 usc_title: 10
 usc_section: "2734b"
 chapter: 163
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "10 U.S.C. § 2734b"
-generated_at: "2026-03-30T09:32:35.628Z"
+generated_at: "2026-03-30T09:35:23.984Z"
 status: "active"
 ---
 

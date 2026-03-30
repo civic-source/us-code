@@ -3,9 +3,9 @@ title: "Section 20145 - Lease of non-excess property"
 usc_title: 51
 usc_section: "20145"
 chapter: 201
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "51 U.S.C. § 20145"
-generated_at: "2026-03-30T09:34:55.564Z"
+generated_at: "2026-03-30T09:39:30.911Z"
 status: "active"
 ---
 

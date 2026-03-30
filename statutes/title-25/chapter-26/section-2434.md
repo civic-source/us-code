@@ -3,9 +3,9 @@ title: "Section 2434 - Social services reports"
 usc_title: 25
 usc_section: "2434"
 chapter: 26
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "25 U.S.C. § 2434"
-generated_at: "2026-03-30T09:33:28.800Z"
+generated_at: "2026-03-30T09:36:30.490Z"
 status: "active"
 ---
 

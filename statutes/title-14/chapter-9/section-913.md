@@ -3,9 +3,9 @@ title: "Section 913 - Turnkey selection procedures"
 usc_title: 14
 usc_section: "913"
 chapter: 9
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "14 U.S.C. § 913"
-generated_at: "2026-03-30T09:32:43.022Z"
+generated_at: "2026-03-30T09:35:48.423Z"
 status: "active"
 ---
 

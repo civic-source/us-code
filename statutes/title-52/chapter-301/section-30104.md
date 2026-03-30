@@ -3,9 +3,9 @@ title: "Section 30104 - Reporting requirements"
 usc_title: 52
 usc_section: "30104"
 chapter: 301
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "52 U.S.C. § 30104"
-generated_at: "2026-03-30T09:34:57.953Z"
+generated_at: "2026-03-30T09:39:29.679Z"
 status: "active"
 ---
 

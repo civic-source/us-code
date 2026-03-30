@@ -3,9 +3,9 @@ title: "Section 271e - Report to President"
 usc_title: 16
 usc_section: "271e"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "16 U.S.C. § 271e"
-generated_at: "2026-03-30T09:33:15.492Z"
+generated_at: "2026-03-30T09:36:12.629Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1721 - Royalty terms and conditions, interest, and penalties"
 usc_title: 30
 usc_section: "1721"
 chapter: 29
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "30 U.S.C. § 1721"
-generated_at: "2026-03-30T09:33:34.924Z"
+generated_at: "2026-03-30T09:36:50.247Z"
 status: "active"
 ---
 

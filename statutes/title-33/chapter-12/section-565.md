@@ -3,9 +3,9 @@ title: "Section 565 - River and harbor improvement by private or municipal enter
 usc_title: 33
 usc_section: "565"
 chapter: 12
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "33 U.S.C. § 565"
-generated_at: "2026-03-30T09:33:48.723Z"
+generated_at: "2026-03-30T09:37:31.557Z"
 status: "active"
 ---
 

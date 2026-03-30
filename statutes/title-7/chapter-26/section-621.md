@@ -3,9 +3,9 @@ title: "Section 621 - Machinery belting processed from cotton; exemption from ta
 usc_title: 7
 usc_section: "621"
 chapter: 26
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "7 U.S.C. § 621"
-generated_at: "2026-03-30T09:32:40.754Z"
+generated_at: "2026-03-30T09:35:28.121Z"
 status: "active"
 ---
 

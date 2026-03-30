@@ -3,9 +3,9 @@ title: "Section 7010 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7010"
 chapter: 89
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "16 U.S.C. § 7010"
-generated_at: "2026-03-30T09:33:15.703Z"
+generated_at: "2026-03-30T09:36:12.843Z"
 status: "active"
 ---
 

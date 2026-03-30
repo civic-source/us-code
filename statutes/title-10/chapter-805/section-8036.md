@@ -3,9 +3,9 @@ title: "Section 8036 - Deputy Chiefs of Naval Operations"
 usc_title: 10
 usc_section: "8036"
 chapter: 805
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "10 U.S.C. § 8036"
-generated_at: "2026-03-30T09:32:35.642Z"
+generated_at: "2026-03-30T09:35:23.999Z"
 status: "active"
 ---
 

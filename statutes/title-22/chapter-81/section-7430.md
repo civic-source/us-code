@@ -3,9 +3,9 @@ title: "Section 7430 - Application of sections 7423 and 7425 to exercise of cons
 usc_title: 22
 usc_section: "7430"
 chapter: 81
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "22 U.S.C. § 7430"
-generated_at: "2026-03-30T09:33:25.078Z"
+generated_at: "2026-03-30T09:36:47.910Z"
 status: "active"
 ---
 

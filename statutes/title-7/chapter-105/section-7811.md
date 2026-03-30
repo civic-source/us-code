@@ -3,9 +3,9 @@ title: "Section 7811 - Rules of construction"
 usc_title: 7
 usc_section: "7811"
 chapter: 105
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "7 U.S.C. § 7811"
-generated_at: "2026-03-30T09:32:40.883Z"
+generated_at: "2026-03-30T09:35:28.260Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47107 - Project grant application approval conditioned on assura
 usc_title: 49
 usc_section: "47107"
 chapter: 471
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 47107"
-generated_at: "2026-03-30T09:34:36.866Z"
+generated_at: "2026-03-30T09:39:22.653Z"
 status: "active"
 ---
 

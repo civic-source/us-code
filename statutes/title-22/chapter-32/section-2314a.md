@@ -3,9 +3,9 @@ title: "Section 2314a - Repealed. Pub. L. 93–189, § 26(4) , Dec. 17, 1973 , 8
 usc_title: 22
 usc_section: "2314a"
 chapter: 32
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "22 U.S.C. § 2314a"
-generated_at: "2026-03-30T09:33:25.004Z"
+generated_at: "2026-03-30T09:36:47.839Z"
 status: "repealed"
 ---
 

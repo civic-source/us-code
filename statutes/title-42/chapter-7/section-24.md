@@ -3,9 +3,9 @@ title: "Section 24 - Premiums and bid amounts"
 usc_title: 42
 usc_section: "24"
 chapter: 7
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-30T09:34:29.273Z"
+generated_at: "2026-03-30T09:39:14.878Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4743 - Grants to State and local governments for training"
 usc_title: 42
 usc_section: "4743"
 chapter: 62
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 4743"
-generated_at: "2026-03-30T09:34:29.462Z"
+generated_at: "2026-03-30T09:39:15.055Z"
 status: "active"
 ---
 

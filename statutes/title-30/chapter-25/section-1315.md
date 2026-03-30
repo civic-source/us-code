@@ -3,9 +3,9 @@ title: "Section 1315 - Advisory Council on Coal Research"
 usc_title: 30
 usc_section: "1315"
 chapter: 25
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "30 U.S.C. § 1315"
-generated_at: "2026-03-30T09:33:34.920Z"
+generated_at: "2026-03-30T09:36:50.244Z"
 status: "active"
 ---
 

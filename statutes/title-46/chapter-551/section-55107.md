@@ -3,9 +3,9 @@ title: "Section 55107 - Empty cargo containers and barges"
 usc_title: 46
 usc_section: "55107"
 chapter: 551
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "46 U.S.C. § 55107"
-generated_at: "2026-03-30T09:34:53.133Z"
+generated_at: "2026-03-30T09:39:18.614Z"
 status: "active"
 ---
 

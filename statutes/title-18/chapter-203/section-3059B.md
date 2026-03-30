@@ -3,9 +3,9 @@ title: "Section 3059B - Repealed. Pub. L. 107–273, div. A, title III, § 301(c
 usc_title: 18
 usc_section: "3059B"
 chapter: 203
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "18 U.S.C. § 3059B"
-generated_at: "2026-03-30T09:33:03.709Z"
+generated_at: "2026-03-30T09:36:06.922Z"
 status: "repealed"
 ---
 

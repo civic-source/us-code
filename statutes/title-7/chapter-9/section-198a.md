@@ -3,9 +3,9 @@ title: "Section 198a - Swine packer marketing contracts offered to producers"
 usc_title: 7
 usc_section: "198a"
 chapter: 9
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "7 U.S.C. § 198a"
-generated_at: "2026-03-30T09:32:40.741Z"
+generated_at: "2026-03-30T09:35:28.108Z"
 status: "active"
 ---
 

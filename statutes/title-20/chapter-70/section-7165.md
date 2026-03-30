@@ -3,9 +3,9 @@ title: "Section 7165 - Transferred"
 usc_title: 20
 usc_section: "7165"
 chapter: 70
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "20 U.S.C. § 7165"
-generated_at: "2026-03-30T09:33:02.843Z"
+generated_at: "2026-03-30T09:36:19.227Z"
 status: "transferred"
 ---
 

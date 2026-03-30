@@ -3,9 +3,9 @@ title: "Section 7286 - Judicial Conference of the Court"
 usc_title: 38
 usc_section: "7286"
 chapter: 72
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "38 U.S.C. § 7286"
-generated_at: "2026-03-30T09:33:53.094Z"
+generated_at: "2026-03-30T09:38:03.211Z"
 status: "active"
 ---
 

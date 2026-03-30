@@ -3,9 +3,9 @@ title: "Section 5408 - Appropriations"
 usc_title: 5
 usc_section: "5408"
 chapter: 54
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "5 U.S.C. § 5408"
-generated_at: "2026-03-30T09:32:27.209Z"
+generated_at: "2026-03-30T09:35:11.695Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 395b - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , 
 usc_title: 16
 usc_section: "395b"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "16 U.S.C. § 395b"
-generated_at: "2026-03-30T09:33:15.496Z"
+generated_at: "2026-03-30T09:36:12.634Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 45M - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(2
 usc_title: 26
 usc_section: "45M"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "26 U.S.C. § 45M"
-generated_at: "2026-03-30T09:33:39.350Z"
+generated_at: "2026-03-30T09:36:58.249Z"
 status: "repealed"
 ---
 

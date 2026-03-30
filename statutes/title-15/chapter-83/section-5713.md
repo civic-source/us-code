@@ -3,9 +3,9 @@ title: "Section 5713 - Administration and applicability of subchapter"
 usc_title: 15
 usc_section: "5713"
 chapter: 83
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "15 U.S.C. § 5713"
-generated_at: "2026-03-30T09:32:48.060Z"
+generated_at: "2026-03-30T09:35:58.560Z"
 status: "active"
 ---
 

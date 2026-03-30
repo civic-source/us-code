@@ -3,9 +3,9 @@ title: "Section 915 - Invalid agreements"
 usc_title: 33
 usc_section: "915"
 chapter: 18
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "33 U.S.C. § 915"
-generated_at: "2026-03-30T09:33:48.736Z"
+generated_at: "2026-03-30T09:37:31.569Z"
 status: "active"
 ---
 

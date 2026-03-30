@@ -3,9 +3,9 @@ title: "Section 13 - Procurement of professional services"
 usc_title: 13
 usc_section: "13"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "13 U.S.C. § 13"
-generated_at: "2026-03-30T09:32:42.572Z"
+generated_at: "2026-03-30T09:35:33.580Z"
 status: "active"
 ---
 

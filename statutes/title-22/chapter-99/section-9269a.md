@@ -3,9 +3,9 @@ title: "Section 9269a - Authority to consolidate reports"
 usc_title: 22
 usc_section: "9269a"
 chapter: 99
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "22 U.S.C. § 9269a"
-generated_at: "2026-03-30T09:33:25.098Z"
+generated_at: "2026-03-30T09:36:47.930Z"
 status: "active"
 ---
 

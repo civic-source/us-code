@@ -3,9 +3,9 @@ title: "Section 8 - Omitted"
 usc_title: 43
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "43 U.S.C. § 8"
-generated_at: "2026-03-30T09:33:59.941Z"
+generated_at: "2026-03-30T09:38:06.468Z"
 status: "omitted"
 ---
 

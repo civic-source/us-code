@@ -3,9 +3,9 @@ title: "Section 6101 - Establishment of Fellowship Program"
 usc_title: 22
 usc_section: "6101"
 chapter: 70
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "22 U.S.C. § 6101"
-generated_at: "2026-03-30T09:33:25.063Z"
+generated_at: "2026-03-30T09:36:47.896Z"
 status: "active"
 ---
 

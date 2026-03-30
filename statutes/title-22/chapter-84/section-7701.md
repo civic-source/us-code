@@ -3,9 +3,9 @@ title: "Section 7701 - Purposes"
 usc_title: 22
 usc_section: "7701"
 chapter: 84
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "22 U.S.C. § 7701"
-generated_at: "2026-03-30T09:33:25.081Z"
+generated_at: "2026-03-30T09:36:47.914Z"
 status: "active"
 ---
 

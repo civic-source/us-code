@@ -3,9 +3,9 @@ title: "Section 53 - Credit for prior year minimum tax liability"
 usc_title: 26
 usc_section: "53"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "26 U.S.C. § 53"
-generated_at: "2026-03-30T09:33:39.354Z"
+generated_at: "2026-03-30T09:36:58.254Z"
 status: "active"
 ---
 

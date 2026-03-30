@@ -3,9 +3,9 @@ title: "Section 153 - Inspection of imports; denial of entry and destruction"
 usc_title: 21
 usc_section: "153"
 chapter: 5
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "21 U.S.C. § 153"
-generated_at: "2026-03-30T09:33:22.879Z"
+generated_at: "2026-03-30T09:36:23.094Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6506 - Applicability of antitrust provisions; plans and proposal
 usc_title: 42
 usc_section: "6506"
 chapter: 78
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 6506"
-generated_at: "2026-03-30T09:34:29.507Z"
+generated_at: "2026-03-30T09:39:15.100Z"
 status: "active"
 ---
 

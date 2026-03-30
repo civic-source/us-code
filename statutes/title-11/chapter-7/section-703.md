@@ -3,9 +3,9 @@ title: "Section 703 - Successor trustee"
 usc_title: 11
 usc_section: "703"
 chapter: 7
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "11 U.S.C. § 703"
-generated_at: "2026-03-30T09:32:57.551Z"
+generated_at: "2026-03-30T09:35:34.666Z"
 status: "active"
 ---
 

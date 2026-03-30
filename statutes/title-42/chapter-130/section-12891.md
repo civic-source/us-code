@@ -3,9 +3,9 @@ title: "Section 12891 - Program authority"
 usc_title: 42
 usc_section: "12891"
 chapter: 130
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 12891"
-generated_at: "2026-03-30T09:34:29.649Z"
+generated_at: "2026-03-30T09:39:15.250Z"
 status: "active"
 ---
 

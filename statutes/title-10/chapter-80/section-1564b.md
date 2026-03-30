@@ -3,9 +3,9 @@ title: "Section 1564b - Security vetting for foreign nationals"
 usc_title: 10
 usc_section: "1564b"
 chapter: 80
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "10 U.S.C. § 1564b"
-generated_at: "2026-03-30T09:32:35.584Z"
+generated_at: "2026-03-30T09:35:23.939Z"
 status: "active"
 ---
 

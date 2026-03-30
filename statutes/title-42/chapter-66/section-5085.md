@@ -3,9 +3,9 @@ title: "Section 5085 - Availability of appropriations"
 usc_title: 42
 usc_section: "5085"
 chapter: 66
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 5085"
-generated_at: "2026-03-30T09:34:29.468Z"
+generated_at: "2026-03-30T09:39:15.061Z"
 status: "active"
 ---
 

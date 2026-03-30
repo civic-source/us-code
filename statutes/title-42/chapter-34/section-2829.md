@@ -3,9 +3,9 @@ title: "Section 2829 - Repealed. Pub. L. 95–568, § 6(d) , Nov. 2, 1978 , 92 S
 usc_title: 42
 usc_section: "2829"
 chapter: 34
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 2829"
-generated_at: "2026-03-30T09:34:29.427Z"
+generated_at: "2026-03-30T09:39:15.021Z"
 status: "repealed"
 ---
 

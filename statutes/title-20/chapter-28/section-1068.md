@@ -3,9 +3,9 @@ title: "Section 1068 - Applications for assistance"
 usc_title: 20
 usc_section: "1068"
 chapter: 28
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "20 U.S.C. § 1068"
-generated_at: "2026-03-30T09:33:02.755Z"
+generated_at: "2026-03-30T09:36:19.140Z"
 status: "active"
 ---
 

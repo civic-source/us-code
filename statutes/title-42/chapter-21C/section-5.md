@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T09:34:29.404Z"
+generated_at: "2026-03-30T09:39:14.999Z"
 status: "active"
 ---
 

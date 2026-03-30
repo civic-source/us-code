@@ -3,9 +3,9 @@ title: "Section 1675b - Special rules for injury investigations for certain sect
 usc_title: 19
 usc_section: "1675b"
 chapter: 4
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "19 U.S.C. § 1675b"
-generated_at: "2026-03-30T09:33:04.742Z"
+generated_at: "2026-03-30T09:36:17.304Z"
 status: "active"
 ---
 

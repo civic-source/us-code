@@ -3,9 +3,9 @@ title: "Section 10224 - Office of Civilian Radioactive Waste Management"
 usc_title: 42
 usc_section: "10224"
 chapter: 108
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 10224"
-generated_at: "2026-03-30T09:34:29.608Z"
+generated_at: "2026-03-30T09:39:15.207Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 200308 - Principal office"
 usc_title: 36
 usc_section: "200308"
 chapter: 2003
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "36 U.S.C. § 200308"
-generated_at: "2026-03-30T09:33:51.871Z"
+generated_at: "2026-03-30T09:37:38.087Z"
 status: "active"
 ---
 

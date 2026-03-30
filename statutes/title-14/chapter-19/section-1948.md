@@ -3,9 +3,9 @@ title: "Section 1948 - Marine safety curriculum"
 usc_title: 14
 usc_section: "1948"
 chapter: 19
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "14 U.S.C. § 1948"
-generated_at: "2026-03-30T09:32:43.025Z"
+generated_at: "2026-03-30T09:35:48.426Z"
 status: "active"
 ---
 

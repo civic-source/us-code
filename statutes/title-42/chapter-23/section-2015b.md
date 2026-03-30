@@ -3,9 +3,9 @@ title: "Section 2015b - Scholarship and fellowship program"
 usc_title: 42
 usc_section: "2015b"
 chapter: 23
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 2015b"
-generated_at: "2026-03-30T09:34:29.408Z"
+generated_at: "2026-03-30T09:39:15.003Z"
 status: "active"
 ---
 

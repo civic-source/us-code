@@ -3,9 +3,9 @@ title: "Section 1484b - Deferral of duty on large yachts imported for sale at Un
 usc_title: 19
 usc_section: "1484b"
 chapter: 4
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "19 U.S.C. § 1484b"
-generated_at: "2026-03-30T09:33:04.729Z"
+generated_at: "2026-03-30T09:36:17.292Z"
 status: "active"
 ---
 

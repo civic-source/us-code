@@ -3,9 +3,9 @@ title: "Section 1016 - Repealed. Pub. L. 96–478, § 12 , Oct. 21, 1980 , 94 St
 usc_title: 33
 usc_section: "1016"
 chapter: 20
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "33 U.S.C. § 1016"
-generated_at: "2026-03-30T09:33:48.738Z"
+generated_at: "2026-03-30T09:37:31.571Z"
 status: "repealed"
 ---
 

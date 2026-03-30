@@ -3,9 +3,9 @@ title: "Section 4994 - Repealed. Pub. L. 103–82, title III, § 333(1) , Sept. 
 usc_title: 42
 usc_section: "4994"
 chapter: 66
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 4994"
-generated_at: "2026-03-30T09:34:29.466Z"
+generated_at: "2026-03-30T09:39:15.060Z"
 status: "repealed"
 ---
 

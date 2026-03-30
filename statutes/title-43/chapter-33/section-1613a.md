@@ -3,9 +3,9 @@ title: "Section 1613a - ANCSA amendment"
 usc_title: 43
 usc_section: "1613a"
 chapter: 33
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "43 U.S.C. § 1613a"
-generated_at: "2026-03-30T09:33:59.978Z"
+generated_at: "2026-03-30T09:38:06.507Z"
 status: "active"
 ---
 

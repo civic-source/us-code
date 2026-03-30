@@ -3,9 +3,9 @@ title: "Section 2706 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2706"
 chapter: 34
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 2706"
-generated_at: "2026-03-30T09:34:29.426Z"
+generated_at: "2026-03-30T09:39:15.021Z"
 status: "repealed"
 ---
 

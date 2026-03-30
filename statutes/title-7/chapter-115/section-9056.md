@@ -3,9 +3,9 @@ title: "Section 9056 - Dairy margin coverage payments"
 usc_title: 7
 usc_section: "9056"
 chapter: 115
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "7 U.S.C. § 9056"
-generated_at: "2026-03-30T09:32:40.900Z"
+generated_at: "2026-03-30T09:35:28.277Z"
 status: "active"
 ---
 

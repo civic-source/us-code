@@ -3,9 +3,9 @@ title: "Section 481 - Adjustments required by changes in method of accounting"
 usc_title: 26
 usc_section: "481"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "26 U.S.C. § 481"
-generated_at: "2026-03-30T09:33:39.426Z"
+generated_at: "2026-03-30T09:36:58.328Z"
 status: "active"
 ---
 

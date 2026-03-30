@@ -3,9 +3,9 @@ title: "Section 2370 - Notification of Committees on Armed Services with respect
 usc_title: 50
 usc_section: "2370"
 chapter: 40
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "50 U.S.C. § 2370"
-generated_at: "2026-03-30T09:34:34.476Z"
+generated_at: "2026-03-30T09:39:27.917Z"
 status: "active"
 ---
 

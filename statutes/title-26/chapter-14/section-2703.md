@@ -3,9 +3,9 @@ title: "Section 2703 - Certain rights and restrictions disregarded"
 usc_title: 26
 usc_section: "2703"
 chapter: 14
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "26 U.S.C. § 2703"
-generated_at: "2026-03-30T09:33:39.490Z"
+generated_at: "2026-03-30T09:36:58.395Z"
 status: "active"
 ---
 

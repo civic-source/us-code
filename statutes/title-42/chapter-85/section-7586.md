@@ -3,9 +3,9 @@ title: "Section 7586 - Centrally fueled fleets"
 usc_title: 42
 usc_section: "7586"
 chapter: 85
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 7586"
-generated_at: "2026-03-30T09:34:29.552Z"
+generated_at: "2026-03-30T09:39:15.149Z"
 status: "active"
 ---
 

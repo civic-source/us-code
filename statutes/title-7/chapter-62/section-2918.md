@@ -3,9 +3,9 @@ title: "Section 2918 - Omitted"
 usc_title: 7
 usc_section: "2918"
 chapter: 62
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "7 U.S.C. § 2918"
-generated_at: "2026-03-30T09:32:40.829Z"
+generated_at: "2026-03-30T09:35:28.203Z"
 status: "omitted"
 ---
 

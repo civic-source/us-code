@@ -3,9 +3,9 @@ title: "Section 47525 - Decision about airport noise and access restrictions on 
 usc_title: 49
 usc_section: "47525"
 chapter: 475
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 47525"
-generated_at: "2026-03-30T09:34:36.872Z"
+generated_at: "2026-03-30T09:39:22.658Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 46506 - Application of certain criminal laws to acts on aircraft
 usc_title: 49
 usc_section: "46506"
 chapter: 465
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 46506"
-generated_at: "2026-03-30T09:34:36.865Z"
+generated_at: "2026-03-30T09:39:22.652Z"
 status: "active"
 ---
 

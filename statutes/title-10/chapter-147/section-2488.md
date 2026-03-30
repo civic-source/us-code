@@ -3,9 +3,9 @@ title: "Section 2488 - Combined exchange and commissary stores"
 usc_title: 10
 usc_section: "2488"
 chapter: 147
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "10 U.S.C. § 2488"
-generated_at: "2026-03-30T09:32:35.617Z"
+generated_at: "2026-03-30T09:35:23.973Z"
 status: "active"
 ---
 

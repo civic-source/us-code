@@ -3,9 +3,9 @@ title: "Section 646 - Authorization of appropriations"
 usc_title: 30
 usc_section: "646"
 chapter: 17
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "30 U.S.C. § 646"
-generated_at: "2026-03-30T09:33:34.905Z"
+generated_at: "2026-03-30T09:36:50.226Z"
 status: "active"
 ---
 

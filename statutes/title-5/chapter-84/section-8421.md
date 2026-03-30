@@ -3,9 +3,9 @@ title: "Section 8421 - Annuity supplement"
 usc_title: 5
 usc_section: "8421"
 chapter: 84
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "5 U.S.C. § 8421"
-generated_at: "2026-03-30T09:32:27.234Z"
+generated_at: "2026-03-30T09:35:11.722Z"
 status: "active"
 ---
 

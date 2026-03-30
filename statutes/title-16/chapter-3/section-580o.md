@@ -3,9 +3,9 @@ title: "Section 580o - Forest Service appropriations"
 usc_title: 16
 usc_section: "580o"
 chapter: 3
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "16 U.S.C. § 580o"
-generated_at: "2026-03-30T09:33:15.581Z"
+generated_at: "2026-03-30T09:36:12.720Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30126 - Prohibition of contributions by minors"
 usc_title: 52
 usc_section: "30126"
 chapter: 301
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "52 U.S.C. § 30126"
-generated_at: "2026-03-30T09:34:57.956Z"
+generated_at: "2026-03-30T09:39:29.684Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 604a - Services provided by charitable, religious, or private or
 usc_title: 42
 usc_section: "604a"
 chapter: 7
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 604a"
-generated_at: "2026-03-30T09:34:29.195Z"
+generated_at: "2026-03-30T09:39:14.805Z"
 status: "active"
 ---
 

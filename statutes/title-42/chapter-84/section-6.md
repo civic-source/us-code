@@ -3,9 +3,9 @@ title: "Section 6 - Administrative and judicial review"
 usc_title: 42
 usc_section: "6"
 chapter: 84
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T09:34:29.532Z"
+generated_at: "2026-03-30T09:39:15.128Z"
 status: "active"
 ---
 

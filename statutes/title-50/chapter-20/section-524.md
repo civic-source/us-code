@@ -3,9 +3,9 @@ title: "Section 524 - Authorization of appropriations"
 usc_title: 50
 usc_section: "524"
 chapter: 20
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "50 U.S.C. § 524"
-generated_at: "2026-03-30T09:34:34.459Z"
+generated_at: "2026-03-30T09:39:27.898Z"
 status: "active"
 ---
 

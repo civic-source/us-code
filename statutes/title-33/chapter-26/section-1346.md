@@ -3,9 +3,9 @@ title: "Section 1346 - Coastal recreation water quality monitoring and notificat
 usc_title: 33
 usc_section: "1346"
 chapter: 26
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "33 U.S.C. § 1346"
-generated_at: "2026-03-30T09:33:48.757Z"
+generated_at: "2026-03-30T09:37:31.588Z"
 status: "active"
 ---
 

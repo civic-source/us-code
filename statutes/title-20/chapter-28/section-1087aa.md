@@ -3,9 +3,9 @@ title: "Section 1087aa - Appropriations authorized"
 usc_title: 20
 usc_section: "1087aa"
 chapter: 28
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "20 U.S.C. § 1087aa"
-generated_at: "2026-03-30T09:33:02.774Z"
+generated_at: "2026-03-30T09:36:19.160Z"
 status: "active"
 ---
 

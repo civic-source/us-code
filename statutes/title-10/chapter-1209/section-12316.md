@@ -3,9 +3,9 @@ title: "Section 12316 - Payment of certain Reserves while on duty"
 usc_title: 10
 usc_section: "12316"
 chapter: 1209
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "10 U.S.C. § 12316"
-generated_at: "2026-03-30T09:32:35.664Z"
+generated_at: "2026-03-30T09:35:24.020Z"
 status: "active"
 ---
 

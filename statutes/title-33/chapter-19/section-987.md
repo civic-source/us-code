@@ -3,9 +3,9 @@ title: "Section 987 - Services and facilities of other agencies"
 usc_title: 33
 usc_section: "987"
 chapter: 19
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "33 U.S.C. § 987"
-generated_at: "2026-03-30T09:33:48.738Z"
+generated_at: "2026-03-30T09:37:31.571Z"
 status: "active"
 ---
 

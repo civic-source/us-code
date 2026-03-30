@@ -3,9 +3,9 @@ title: "Section 5313 - Repealed. Pub. L. 114–94, div. A, title III, § 3030(b)
 usc_title: 49
 usc_section: "5313"
 chapter: 53
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "49 U.S.C. § 5313"
-generated_at: "2026-03-30T09:34:36.800Z"
+generated_at: "2026-03-30T09:39:22.591Z"
 status: "repealed"
 ---
 

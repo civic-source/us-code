@@ -3,9 +3,9 @@ title: "Section 2393 - Trade monitoring and data collection"
 usc_title: 19
 usc_section: "2393"
 chapter: 12
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "19 U.S.C. § 2393"
-generated_at: "2026-03-30T09:33:04.757Z"
+generated_at: "2026-03-30T09:36:17.319Z"
 status: "active"
 ---
 

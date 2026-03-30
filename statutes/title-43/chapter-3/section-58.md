@@ -3,9 +3,9 @@ title: "Section 58 - Transcripts from records of Louisiana"
 usc_title: 43
 usc_section: "58"
 chapter: 3
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "43 U.S.C. § 58"
-generated_at: "2026-03-30T09:33:59.942Z"
+generated_at: "2026-03-30T09:38:06.471Z"
 status: "active"
 ---
 

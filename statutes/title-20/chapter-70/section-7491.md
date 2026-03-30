@@ -3,9 +3,9 @@ title: "Section 7491 - Definitions"
 usc_title: 20
 usc_section: "7491"
 chapter: 70
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "20 U.S.C. § 7491"
-generated_at: "2026-03-30T09:33:02.849Z"
+generated_at: "2026-03-30T09:36:19.233Z"
 status: "active"
 ---
 

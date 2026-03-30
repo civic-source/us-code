@@ -3,9 +3,9 @@ title: "Section 1087 - Programing facilities for certain members, former members
 usc_title: 10
 usc_section: "1087"
 chapter: 55
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "10 U.S.C. § 1087"
-generated_at: "2026-03-30T09:32:35.567Z"
+generated_at: "2026-03-30T09:35:23.922Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7 - Meeting and vote of electors"
 usc_title: 3
 usc_section: "7"
 chapter: 1
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "3 U.S.C. § 7"
-generated_at: "2026-03-30T09:32:23.405Z"
+generated_at: "2026-03-30T09:35:08.551Z"
 status: "active"
 ---
 

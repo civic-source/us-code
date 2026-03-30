@@ -3,9 +3,9 @@ title: "Section 530C - Authority to use available funds"
 usc_title: 28
 usc_section: "530C"
 chapter: 31
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "28 U.S.C. § 530C"
-generated_at: "2026-03-30T09:33:32.837Z"
+generated_at: "2026-03-30T09:37:13.549Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6243 - Records and accounts"
 usc_title: 42
 usc_section: "6243"
 chapter: 77
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 6243"
-generated_at: "2026-03-30T09:34:29.491Z"
+generated_at: "2026-03-30T09:39:15.084Z"
 status: "active"
 ---
 

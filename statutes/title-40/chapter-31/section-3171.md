@@ -3,9 +3,9 @@ title: "Section 3171 - Contract authority when appropriation is for less than fu
 usc_title: 40
 usc_section: "3171"
 chapter: 31
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "40 U.S.C. § 3171"
-generated_at: "2026-03-30T09:33:51.325Z"
+generated_at: "2026-03-30T09:37:39.613Z"
 status: "active"
 ---
 

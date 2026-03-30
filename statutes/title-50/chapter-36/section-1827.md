@@ -3,9 +3,9 @@ title: "Section 1827 - Penalties"
 usc_title: 50
 usc_section: "1827"
 chapter: 36
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "50 U.S.C. § 1827"
-generated_at: "2026-03-30T09:34:34.466Z"
+generated_at: "2026-03-30T09:39:27.905Z"
 status: "active"
 ---
 

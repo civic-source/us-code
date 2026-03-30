@@ -3,9 +3,9 @@ title: "Section 2563 - Repealed. Pub. L. 115–91, div. C, title XXXI, § 3133(a
 usc_title: 50
 usc_section: "2563"
 chapter: 42
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "50 U.S.C. § 2563"
-generated_at: "2026-03-30T09:34:34.481Z"
+generated_at: "2026-03-30T09:39:27.921Z"
 status: "repealed"
 ---
 

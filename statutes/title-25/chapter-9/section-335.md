@@ -3,9 +3,9 @@ title: "Section 335 - Extension of provisions as to allotments"
 usc_title: 25
 usc_section: "335"
 chapter: 9
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "25 U.S.C. § 335"
-generated_at: "2026-03-30T09:33:28.767Z"
+generated_at: "2026-03-30T09:36:30.457Z"
 status: "active"
 ---
 

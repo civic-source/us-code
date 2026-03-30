@@ -3,9 +3,9 @@ title: "Section 4726 - Guidelines relating to restrictions on registered lobbyis
 usc_title: 2
 usc_section: "4726"
 chapter: 47
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "2 U.S.C. § 4726"
-generated_at: "2026-03-30T09:32:25.162Z"
+generated_at: "2026-03-30T09:35:13.232Z"
 status: "active"
 ---
 

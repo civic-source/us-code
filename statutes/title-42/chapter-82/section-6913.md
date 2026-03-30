@@ -3,9 +3,9 @@ title: "Section 6913 - Resource Recovery and Conservation Panels"
 usc_title: 42
 usc_section: "6913"
 chapter: 82
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 6913"
-generated_at: "2026-03-30T09:34:29.513Z"
+generated_at: "2026-03-30T09:39:15.107Z"
 status: "active"
 ---
 

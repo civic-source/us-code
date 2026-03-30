@@ -3,9 +3,9 @@ title: "Section 502 - Required drills and field exercises"
 usc_title: 32
 usc_section: "502"
 chapter: 5
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "32 U.S.C. § 502"
-generated_at: "2026-03-30T09:33:41.094Z"
+generated_at: "2026-03-30T09:37:22.307Z"
 status: "active"
 ---
 

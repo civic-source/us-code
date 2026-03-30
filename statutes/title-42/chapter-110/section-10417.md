@@ -3,9 +3,9 @@ title: "Section 10417 - Repealed. Pub. L. 108–36, title IV, § 412 , June 25, 
 usc_title: 42
 usc_section: "10417"
 chapter: 110
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 10417"
-generated_at: "2026-03-30T09:34:29.612Z"
+generated_at: "2026-03-30T09:39:15.211Z"
 status: "repealed"
 ---
 

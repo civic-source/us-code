@@ -3,9 +3,9 @@ title: "Section 186 - Penalty"
 usc_title: 35
 usc_section: "186"
 chapter: 17
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "35 U.S.C. § 186"
-generated_at: "2026-03-30T09:33:41.316Z"
+generated_at: "2026-03-30T09:37:18.720Z"
 status: "active"
 ---
 

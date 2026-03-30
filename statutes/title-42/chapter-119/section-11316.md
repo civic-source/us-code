@@ -3,9 +3,9 @@ title: "Section 11316 - Transfer of functions"
 usc_title: 42
 usc_section: "11316"
 chapter: 119
-current_through: "PL 116-151"
+current_through: "PL 116-152"
 classification: "42 U.S.C. § 11316"
-generated_at: "2026-03-30T09:34:29.618Z"
+generated_at: "2026-03-30T09:39:15.218Z"
 status: "active"
 ---
 
