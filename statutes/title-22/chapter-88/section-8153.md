@@ -3,9 +3,9 @@ title: "Section 8153 - Application of national security exclusion to location-sp
 usc_title: 22
 usc_section: "8153"
 chapter: 88
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 8153"
-generated_at: "2026-03-30T05:39:13.312Z"
+generated_at: "2026-03-30T05:41:31.936Z"
 status: "active"
 ---
 

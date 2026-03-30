@@ -3,9 +3,9 @@ title: "Section 1434 - Repealed. Pub. L. 96–60, title II , § 203(a)(1), Aug. 
 usc_title: 22
 usc_section: "1434"
 chapter: 18
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 1434"
-generated_at: "2026-03-30T05:39:13.206Z"
+generated_at: "2026-03-30T05:41:31.832Z"
 status: "repealed"
 ---
 

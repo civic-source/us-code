@@ -3,9 +3,9 @@ title: "Section 3032 - Chief Information Officer"
 usc_title: 50
 usc_section: "3032"
 chapter: 44
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "50 U.S.C. § 3032"
-generated_at: "2026-03-30T05:40:31.393Z"
+generated_at: "2026-03-30T05:42:55.120Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2374 - Repealed. Pub. L. 108–458, title VII , § 7104(l), Dec.
 usc_title: 22
 usc_section: "2374"
 chapter: 32
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 2374"
-generated_at: "2026-03-30T05:39:13.234Z"
+generated_at: "2026-03-30T05:41:31.860Z"
 status: "repealed"
 ---
 

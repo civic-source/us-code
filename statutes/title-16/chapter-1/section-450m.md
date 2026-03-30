@@ -3,9 +3,9 @@ title: "Section 450m - Acceptance of donations of lands and funds; acquisition o
 usc_title: 16
 usc_section: "450m"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "16 U.S.C. § 450m"
-generated_at: "2026-03-30T05:38:48.437Z"
+generated_at: "2026-03-30T05:41:19.462Z"
 status: "active"
 ---
 

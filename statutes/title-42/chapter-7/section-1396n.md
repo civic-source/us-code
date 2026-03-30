@@ -3,9 +3,9 @@ title: "Section 1396n - Compliance with State plan and payment provisions"
 usc_title: 42
 usc_section: "1396n"
 chapter: 7
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 1396n"
-generated_at: "2026-03-30T05:40:25.976Z"
+generated_at: "2026-03-30T05:42:49.448Z"
 status: "active"
 ---
 

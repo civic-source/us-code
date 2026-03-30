@@ -3,9 +3,9 @@ title: "Section 2309 - Audit of financial transactions"
 usc_title: 36
 usc_section: "2309"
 chapter: 23
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "36 U.S.C. § 2309"
-generated_at: "2026-03-30T05:39:56.985Z"
+generated_at: "2026-03-30T05:41:54.558Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8276 - System evaluation and purchase program"
 usc_title: 42
 usc_section: "8276"
 chapter: 91
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 8276"
-generated_at: "2026-03-30T05:40:26.239Z"
+generated_at: "2026-03-30T05:42:49.693Z"
 status: "active"
 ---
 

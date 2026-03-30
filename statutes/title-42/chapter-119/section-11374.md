@@ -3,9 +3,9 @@ title: "Section 11374 - Eligible activities"
 usc_title: 42
 usc_section: "11374"
 chapter: 119
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 11374"
-generated_at: "2026-03-30T05:40:26.294Z"
+generated_at: "2026-03-30T05:42:49.745Z"
 status: "active"
 ---
 

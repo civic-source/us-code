@@ -3,9 +3,9 @@ title: "Section 426d - Expenditures for cooperative agreements to lease aircraft
 usc_title: 7
 usc_section: "426d"
 chapter: 17
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "7 U.S.C. § 426d"
-generated_at: "2026-03-30T05:38:14.870Z"
+generated_at: "2026-03-30T05:40:58.054Z"
 status: "active"
 ---
 

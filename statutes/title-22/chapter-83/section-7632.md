@@ -3,9 +3,9 @@ title: "Section 7632 - Authorization of appropriations to combat tuberculosis"
 usc_title: 22
 usc_section: "7632"
 chapter: 83
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 7632"
-generated_at: "2026-03-30T05:39:13.306Z"
+generated_at: "2026-03-30T05:41:31.931Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1758a - State performance on enrolling children receiving progra
 usc_title: 42
 usc_section: "1758a"
 chapter: 13
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 1758a"
-generated_at: "2026-03-30T05:40:26.027Z"
+generated_at: "2026-03-30T05:42:49.496Z"
 status: "active"
 ---
 

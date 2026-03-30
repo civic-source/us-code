@@ -3,9 +3,9 @@ title: "Section 1210 - Members on temporary disability retired list: periodic ph
 usc_title: 10
 usc_section: "1210"
 chapter: 61
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 1210"
-generated_at: "2026-03-30T05:38:26.092Z"
+generated_at: "2026-03-30T05:41:02.834Z"
 status: "active"
 ---
 

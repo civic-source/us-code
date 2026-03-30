@@ -3,9 +3,9 @@ title: "Section 9411 - Repealed. Pub. L. 97–35, title IX , § 902(e)(1), Aug. 
 usc_title: 42
 usc_section: "9411"
 chapter: 102
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 9411"
-generated_at: "2026-03-30T05:40:26.250Z"
+generated_at: "2026-03-30T05:42:49.705Z"
 status: "repealed"
 ---
 

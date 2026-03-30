@@ -3,9 +3,9 @@ title: "Section 2282 - Civil penalties"
 usc_title: 42
 usc_section: "2282"
 chapter: 23
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 2282"
-generated_at: "2026-03-30T05:40:26.067Z"
+generated_at: "2026-03-30T05:42:49.535Z"
 status: "active"
 ---
 

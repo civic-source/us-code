@@ -3,9 +3,9 @@ title: "Section 4681 - Surplus war material: sale to States and foreign governme
 usc_title: 10
 usc_section: "4681"
 chapter: 443
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 4681"
-generated_at: "2026-03-30T05:38:26.154Z"
+generated_at: "2026-03-30T05:41:02.898Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2572 - Documents, historical artifacts, and condemned or obsolet
 usc_title: 10
 usc_section: "2572"
 chapter: 153
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 2572"
-generated_at: "2026-03-30T05:38:26.135Z"
+generated_at: "2026-03-30T05:41:02.878Z"
 status: "active"
 ---
 

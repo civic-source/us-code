@@ -3,9 +3,9 @@ title: "Section 610 - Periodic review of rules"
 usc_title: 5
 usc_section: "610"
 chapter: 6
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "5 U.S.C. § 610"
-generated_at: "2026-03-30T05:38:04.603Z"
+generated_at: "2026-03-30T05:40:52.661Z"
 status: "active"
 ---
 

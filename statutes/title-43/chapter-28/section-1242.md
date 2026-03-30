@@ -3,9 +3,9 @@ title: "Section 1242 - Reimbursement of States for expenses"
 usc_title: 43
 usc_section: "1242"
 chapter: 28
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "43 U.S.C. § 1242"
-generated_at: "2026-03-30T05:40:01.206Z"
+generated_at: "2026-03-30T05:42:05.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Salaries of justices"
 usc_title: 28
 usc_section: "5"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "28 U.S.C. § 5"
-generated_at: "2026-03-30T05:39:37.915Z"
+generated_at: "2026-03-30T05:41:35.942Z"
 status: "active"
 ---
 

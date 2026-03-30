@@ -3,9 +3,9 @@ title: "Section 6105 - Duties of the Secretary"
 usc_title: 16
 usc_section: "6105"
 chapter: 80
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "16 U.S.C. § 6105"
-generated_at: "2026-03-30T05:38:48.603Z"
+generated_at: "2026-03-30T05:41:19.624Z"
 status: "active"
 ---
 

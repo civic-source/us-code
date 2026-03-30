@@ -3,9 +3,9 @@ title: "Section 69a - Transferred"
 usc_title: 2
 usc_section: "69a"
 chapter: 4
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "2 U.S.C. § 69a"
-generated_at: "2026-03-30T05:38:03.095Z"
+generated_at: "2026-03-30T05:40:50.946Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2272 - Destruction of vessel by owner"
 usc_title: 18
 usc_section: "2272"
 chapter: 111
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "18 U.S.C. § 2272"
-generated_at: "2026-03-30T05:39:07.838Z"
+generated_at: "2026-03-30T05:41:22.312Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2923 - Authorization of appropriations for the Department of Ene
 usc_title: 50
 usc_section: "2923"
 chapter: 43
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "50 U.S.C. § 2923"
-generated_at: "2026-03-30T05:40:31.391Z"
+generated_at: "2026-03-30T05:42:55.118Z"
 status: "active"
 ---
 

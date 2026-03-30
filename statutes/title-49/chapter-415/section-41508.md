@@ -3,9 +3,9 @@ title: "Section 41508 - Authority of the Secretary of Transportation to adjust d
 usc_title: 49
 usc_section: "41508"
 chapter: 415
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "49 U.S.C. § 41508"
-generated_at: "2026-03-30T05:40:36.593Z"
+generated_at: "2026-03-30T05:42:56.958Z"
 status: "active"
 ---
 

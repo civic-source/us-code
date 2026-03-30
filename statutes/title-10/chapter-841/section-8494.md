@@ -3,9 +3,9 @@ title: "Section 8494 - Repealed. Pub. L. 96–513, title II , § 209(a), Dec. 12
 usc_title: 10
 usc_section: "8494"
 chapter: 841
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 8494"
-generated_at: "2026-03-30T05:38:26.169Z"
+generated_at: "2026-03-30T05:41:02.914Z"
 status: "repealed"
 ---
 

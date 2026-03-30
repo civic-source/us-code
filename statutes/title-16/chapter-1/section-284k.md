@@ -3,9 +3,9 @@ title: "Section 284k - References"
 usc_title: 16
 usc_section: "284k"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "16 U.S.C. § 284k"
-generated_at: "2026-03-30T05:38:48.405Z"
+generated_at: "2026-03-30T05:41:19.430Z"
 status: "active"
 ---
 

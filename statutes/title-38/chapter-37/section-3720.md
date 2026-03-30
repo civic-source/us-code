@@ -3,9 +3,9 @@ title: "Section 3720 - Powers of Secretary"
 usc_title: 38
 usc_section: "3720"
 chapter: 37
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 3720"
-generated_at: "2026-03-30T05:39:58.792Z"
+generated_at: "2026-03-30T05:41:56.899Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ status: "active"
 - **(g)** The Secretary shall, at the request of the Secretary of Housing and Urban Development and without reimbursement, certify to such Secretary whether an applicant for assistance under any law administered by the Department of Housing and Urban Development is a veteran.
 - **(h)**
   - **(1)** The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.
-  - **(2)** The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after December 31, 2016 .
+  - **(2)** The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after December 31, 2017 .

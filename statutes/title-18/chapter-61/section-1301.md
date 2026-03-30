@@ -3,9 +3,9 @@ title: "Section 1301 - Importing or transporting lottery tickets"
 usc_title: 18
 usc_section: "1301"
 chapter: 61
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "18 U.S.C. § 1301"
-generated_at: "2026-03-30T05:39:07.825Z"
+generated_at: "2026-03-30T05:41:22.299Z"
 status: "active"
 ---
 

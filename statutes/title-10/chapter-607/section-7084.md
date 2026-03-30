@@ -3,9 +3,9 @@ title: "Section 7084 - Age of retirement"
 usc_title: 10
 usc_section: "7084"
 chapter: 607
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 7084"
-generated_at: "2026-03-30T05:38:26.162Z"
+generated_at: "2026-03-30T05:41:02.907Z"
 status: "active"
 ---
 

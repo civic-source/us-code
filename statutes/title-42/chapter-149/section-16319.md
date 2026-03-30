@@ -3,9 +3,9 @@ title: "Section 16319 - Energy and water supplies"
 usc_title: 42
 usc_section: "16319"
 chapter: 149
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 16319"
-generated_at: "2026-03-30T05:40:26.377Z"
+generated_at: "2026-03-30T05:42:49.823Z"
 status: "active"
 ---
 

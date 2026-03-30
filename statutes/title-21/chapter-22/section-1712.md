@@ -3,9 +3,9 @@ title: "Section 1712 - Termination of Office of National Drug Control Policy"
 usc_title: 21
 usc_section: "1712"
 chapter: 22
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "21 U.S.C. § 1712"
-generated_at: "2026-03-30T05:39:23.211Z"
+generated_at: "2026-03-30T05:41:28.699Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 391 - Repealed. May 4, 1934, ch. 211 , § 1, 48 Stat. 663"
 usc_title: 48
 usc_section: "391"
 chapter: 2
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "48 U.S.C. § 391"
-generated_at: "2026-03-30T05:40:29.903Z"
+generated_at: "2026-03-30T05:42:52.588Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 545 - Modification of franchise obligations"
 usc_title: 47
 usc_section: "545"
 chapter: 5
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "47 U.S.C. § 545"
-generated_at: "2026-03-30T05:40:29.052Z"
+generated_at: "2026-03-30T05:42:53.352Z"
 status: "active"
 ---
 

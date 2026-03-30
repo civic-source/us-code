@@ -3,9 +3,9 @@ title: "Section 5401 - Authorization"
 usc_title: 39
 usc_section: "5401"
 chapter: 54
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "39 U.S.C. § 5401"
-generated_at: "2026-03-30T05:39:56.084Z"
+generated_at: "2026-03-30T05:42:03.118Z"
 status: "active"
 ---
 

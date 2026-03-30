@@ -3,9 +3,9 @@ title: "Section 6635 - Office of Senate Health Promotion"
 usc_title: 2
 usc_section: "6635"
 chapter: 65
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "2 U.S.C. § 6635"
-generated_at: "2026-03-30T05:38:03.138Z"
+generated_at: "2026-03-30T05:40:50.998Z"
 status: "active"
 ---
 

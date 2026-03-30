@@ -3,9 +3,9 @@ title: "Section 9877 - Definitions"
 usc_title: 42
 usc_section: "9877"
 chapter: 105
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 9877"
-generated_at: "2026-03-30T05:40:26.272Z"
+generated_at: "2026-03-30T05:42:49.724Z"
 status: "active"
 ---
 

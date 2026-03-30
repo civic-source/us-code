@@ -3,9 +3,9 @@ title: "Section 2445c - Reports: quarterly reports; reports on program changes"
 usc_title: 10
 usc_section: "2445c"
 chapter: 144
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 2445c"
-generated_at: "2026-03-30T05:38:26.129Z"
+generated_at: "2026-03-30T05:41:02.872Z"
 status: "active"
 ---
 

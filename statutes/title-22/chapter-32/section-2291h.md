@@ -3,9 +3,9 @@ title: "Section 2291h - Reporting requirements"
 usc_title: 22
 usc_section: "2291h"
 chapter: 32
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 2291h"
-generated_at: "2026-03-30T05:39:13.227Z"
+generated_at: "2026-03-30T05:41:31.853Z"
 status: "active"
 ---
 

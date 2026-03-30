@@ -3,9 +3,9 @@ title: "Section 1734 - Hospital and nursing home care and medical services in th
 usc_title: 38
 usc_section: "1734"
 chapter: 17
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 1734"
-generated_at: "2026-03-30T05:39:58.772Z"
+generated_at: "2026-03-30T05:41:56.879Z"
 status: "active"
 ---
 

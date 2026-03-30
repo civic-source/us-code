@@ -3,9 +3,9 @@ title: "Section 4772 - Heritage Center for the National Museum of the United Sta
 usc_title: 10
 usc_section: "4772"
 chapter: 449
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 4772"
-generated_at: "2026-03-30T05:38:26.155Z"
+generated_at: "2026-03-30T05:41:02.899Z"
 status: "active"
 ---
 

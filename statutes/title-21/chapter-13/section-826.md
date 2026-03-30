@@ -3,9 +3,9 @@ title: "Section 826 - Production quotas for controlled substances"
 usc_title: 21
 usc_section: "826"
 chapter: 13
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "21 U.S.C. § 826"
-generated_at: "2026-03-30T05:39:23.199Z"
+generated_at: "2026-03-30T05:41:28.687Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1951 - Entry into force of Compact"
 usc_title: 48
 usc_section: "1951"
 chapter: 18
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "48 U.S.C. § 1951"
-generated_at: "2026-03-30T05:40:29.920Z"
+generated_at: "2026-03-30T05:42:52.603Z"
 status: "active"
 ---
 

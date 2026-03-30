@@ -3,9 +3,9 @@ title: "Section 2303 - Identification of inholdings"
 usc_title: 43
 usc_section: "2303"
 chapter: 41
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "43 U.S.C. § 2303"
-generated_at: "2026-03-30T05:40:01.228Z"
+generated_at: "2026-03-30T05:42:05.679Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 752 - Treatment of certain liabilities"
 usc_title: 26
 usc_section: "752"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "26 U.S.C. § 752"
-generated_at: "2026-03-30T05:39:49.167Z"
+generated_at: "2026-03-30T05:41:42.655Z"
 status: "active"
 ---
 

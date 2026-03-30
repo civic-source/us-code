@@ -3,9 +3,9 @@ title: "Section 6 - Omitted"
 usc_title: 25
 usc_section: "6"
 chapter: 14
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "25 U.S.C. § 6"
-generated_at: "2026-03-30T05:39:27.384Z"
+generated_at: "2026-03-30T05:41:25.759Z"
 status: "omitted"
 ---
 

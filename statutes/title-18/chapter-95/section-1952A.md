@@ -3,9 +3,9 @@ title: "Section 1952A - Renumbered § 1958]"
 usc_title: 18
 usc_section: "1952A"
 chapter: 95
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "18 U.S.C. § 1952A"
-generated_at: "2026-03-30T05:39:07.833Z"
+generated_at: "2026-03-30T05:41:22.306Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3282 - General officers: title of office"
 usc_title: 10
 usc_section: "3282"
 chapter: 335
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 3282"
-generated_at: "2026-03-30T05:38:26.149Z"
+generated_at: "2026-03-30T05:41:02.893Z"
 status: "active"
 ---
 

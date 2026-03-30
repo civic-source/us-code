@@ -3,9 +3,9 @@ title: "Section 504 - Costs and fees of parties"
 usc_title: 5
 usc_section: "504"
 chapter: 5
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "5 U.S.C. § 504"
-generated_at: "2026-03-30T05:38:04.598Z"
+generated_at: "2026-03-30T05:40:52.655Z"
 status: "active"
 ---
 

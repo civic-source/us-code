@@ -3,9 +3,9 @@ title: "Section 22106 - Limitations on financial assistance"
 usc_title: 49
 usc_section: "22106"
 chapter: 221
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "49 U.S.C. § 22106"
-generated_at: "2026-03-30T05:40:36.566Z"
+generated_at: "2026-03-30T05:42:56.933Z"
 status: "active"
 ---
 

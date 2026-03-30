@@ -3,9 +3,9 @@ title: "Section 1436 - Individualized family service plan"
 usc_title: 20
 usc_section: "1436"
 chapter: 33
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "20 U.S.C. § 1436"
-generated_at: "2026-03-30T05:39:05.764Z"
+generated_at: "2026-03-30T05:41:21.359Z"
 status: "active"
 ---
 

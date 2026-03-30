@@ -3,9 +3,9 @@ title: "Section 3733 - Property management"
 usc_title: 38
 usc_section: "3733"
 chapter: 37
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 3733"
-generated_at: "2026-03-30T05:39:58.793Z"
+generated_at: "2026-03-30T05:41:56.901Z"
 status: "active"
 ---
 
@@ -24,10 +24,10 @@ status: "active"
       - **(ii)** A loan described in subparagraph (A) may, to the extent the Secretary determines to be necessary in order to market competitively the property involved, exceed 95 percent of the purchase price.
   - **(5)** The Secretary may include, as part of a loan to finance a purchase of real property from the Secretary described in paragraph (1), an amount to be used only for the purpose of rehabilitating such property. Such amount may not exceed the amount necessary to rehabilitate the property to a habitable state, and payments shall be made available periodically as such rehabilitation is completed.
   - **(6)** The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title .
-  - **(7)** During the period that begins on December 16, 2003 , and ends on September 30, 2016 , the Secretary shall carry out the provisions of this subsection as if—
+  - **(7)** During the period that begins on December 16, 2003 , and ends on September 30, 2017 , the Secretary shall carry out the provisions of this subsection as if—
     - **(A)** the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
     - **(B)** the second sentence of paragraph (1) were repealed; and
-    - **(C)** the reference in paragraph (2) to “ September 30, 1990 ,” were a reference to “ September 30, 2016 ,”.
+    - **(C)** the reference in paragraph (2) to “ September 30, 1990 ,” were a reference to “ September 30, 2017 ,”.
 - **(b)** The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title .
 - **(c)**
   - **(1)** The Secretary shall identify and compile information on common factors which the Secretary finds contribute to foreclosures on loans guaranteed under this chapter.

@@ -3,9 +3,9 @@ title: "Section 12904 - Eligible activities"
 usc_title: 42
 usc_section: "12904"
 chapter: 131
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 12904"
-generated_at: "2026-03-30T05:40:26.326Z"
+generated_at: "2026-03-30T05:42:49.776Z"
 status: "active"
 ---
 

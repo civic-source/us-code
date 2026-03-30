@@ -3,9 +3,9 @@ title: "Section 1125 - Geothermal demonstration plants and projects"
 usc_title: 30
 usc_section: "1125"
 chapter: 24
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "30 U.S.C. § 1125"
-generated_at: "2026-03-30T05:39:39.667Z"
+generated_at: "2026-03-30T05:41:43.101Z"
 status: "active"
 ---
 

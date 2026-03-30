@@ -3,9 +3,9 @@ title: "Section 7 - Coordination of all United States terrorism-related assistan
 usc_title: 22
 usc_section: "7"
 chapter: 32
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 7"
-generated_at: "2026-03-30T05:39:13.231Z"
+generated_at: "2026-03-30T05:41:31.857Z"
 status: "active"
 ---
 

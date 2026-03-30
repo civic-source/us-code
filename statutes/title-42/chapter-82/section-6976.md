@@ -3,9 +3,9 @@ title: "Section 6976 - Judicial review"
 usc_title: 42
 usc_section: "6976"
 chapter: 82
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 6976"
-generated_at: "2026-03-30T05:40:26.188Z"
+generated_at: "2026-03-30T05:42:49.645Z"
 status: "active"
 ---
 

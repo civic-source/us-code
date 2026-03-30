@@ -3,9 +3,9 @@ title: "Section 1766 - Rules and regulations; advance payment for rent and other
 usc_title: 7
 usc_section: "1766"
 chapter: 43
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "7 U.S.C. § 1766"
-generated_at: "2026-03-30T05:38:14.915Z"
+generated_at: "2026-03-30T05:40:58.107Z"
 status: "active"
 ---
 

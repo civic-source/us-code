@@ -3,9 +3,9 @@ title: "Section 8704 - Group insurance; amounts"
 usc_title: 5
 usc_section: "8704"
 chapter: 87
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "5 U.S.C. § 8704"
-generated_at: "2026-03-30T05:38:04.648Z"
+generated_at: "2026-03-30T05:40:52.711Z"
 status: "active"
 ---
 

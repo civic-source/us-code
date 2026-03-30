@@ -3,9 +3,9 @@ title: "Section 13505 - Transportation furthering a primary business"
 usc_title: 49
 usc_section: "13505"
 chapter: 135
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "49 U.S.C. § 13505"
-generated_at: "2026-03-30T05:40:36.553Z"
+generated_at: "2026-03-30T05:42:56.921Z"
 status: "active"
 ---
 

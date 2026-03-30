@@ -3,9 +3,9 @@ title: "Section 495 - Funeral honors duty: allowance"
 usc_title: 37
 usc_section: "495"
 chapter: 8
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "37 U.S.C. § 495"
-generated_at: "2026-03-30T05:39:57.414Z"
+generated_at: "2026-03-30T05:41:55.508Z"
 status: "active"
 ---
 

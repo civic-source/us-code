@@ -3,9 +3,9 @@ title: "Section 9306 - State regulation prohibited"
 usc_title: 46
 usc_section: "9306"
 chapter: 93
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "46 U.S.C. § 9306"
-generated_at: "2026-03-30T05:40:33.631Z"
+generated_at: "2026-03-30T05:42:54.150Z"
 status: "active"
 ---
 

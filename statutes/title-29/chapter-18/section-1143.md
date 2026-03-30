@@ -3,9 +3,9 @@ title: "Section 1143 - Research, studies, and reports"
 usc_title: 29
 usc_section: "1143"
 chapter: 18
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "29 U.S.C. § 1143"
-generated_at: "2026-03-30T05:39:32.217Z"
+generated_at: "2026-03-30T05:41:44.240Z"
 status: "active"
 ---
 

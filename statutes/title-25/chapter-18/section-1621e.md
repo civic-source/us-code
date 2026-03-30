@@ -3,9 +3,9 @@ title: "Section 1621e - Reimbursement from certain third parties of costs of hea
 usc_title: 25
 usc_section: "1621e"
 chapter: 18
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "25 U.S.C. § 1621e"
-generated_at: "2026-03-30T05:39:27.388Z"
+generated_at: "2026-03-30T05:41:25.763Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1755 - Compensation, privileges, and immunities"
 usc_title: 48
 usc_section: "1755"
 chapter: 16
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "48 U.S.C. § 1755"
-generated_at: "2026-03-30T05:40:29.913Z"
+generated_at: "2026-03-30T05:42:52.598Z"
 status: "active"
 ---
 

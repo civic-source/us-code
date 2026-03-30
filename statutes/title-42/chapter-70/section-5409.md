@@ -3,9 +3,9 @@ title: "Section 5409 - Prohibited acts; exemptions"
 usc_title: 42
 usc_section: "5409"
 chapter: 70
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 5409"
-generated_at: "2026-03-30T05:40:26.146Z"
+generated_at: "2026-03-30T05:42:49.606Z"
 status: "active"
 ---
 

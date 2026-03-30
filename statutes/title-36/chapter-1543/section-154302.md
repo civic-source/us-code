@@ -3,9 +3,9 @@ title: "Section 154302 - Purposes"
 usc_title: 36
 usc_section: "154302"
 chapter: 1543
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "36 U.S.C. § 154302"
-generated_at: "2026-03-30T05:39:56.998Z"
+generated_at: "2026-03-30T05:41:54.573Z"
 status: "active"
 ---
 

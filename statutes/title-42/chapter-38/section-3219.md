@@ -3,9 +3,9 @@ title: "Section 3219 - Relationship to assistance under other law"
 usc_title: 42
 usc_section: "3219"
 chapter: 38
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 3219"
-generated_at: "2026-03-30T05:40:26.091Z"
+generated_at: "2026-03-30T05:42:49.556Z"
 status: "active"
 ---
 

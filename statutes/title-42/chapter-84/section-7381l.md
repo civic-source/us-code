@@ -3,9 +3,9 @@ title: "Section 7381l - National Laboratories Centers of Excellence in Science, 
 usc_title: 42
 usc_section: "7381l"
 chapter: 84
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 7381l"
-generated_at: "2026-03-30T05:40:26.198Z"
+generated_at: "2026-03-30T05:42:49.654Z"
 status: "active"
 ---
 

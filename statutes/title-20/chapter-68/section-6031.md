@@ -3,9 +3,9 @@ title: "Section 6031 - Repealed. Pub. L. 107–279, title IV , § 403(2), Nov. 5
 usc_title: 20
 usc_section: "6031"
 chapter: 68
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "20 U.S.C. § 6031"
-generated_at: "2026-03-30T05:39:05.787Z"
+generated_at: "2026-03-30T05:41:21.383Z"
 status: "repealed"
 ---
 

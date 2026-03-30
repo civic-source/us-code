@@ -3,9 +3,9 @@ title: "Section 3933 - Organization of corporation"
 usc_title: 42
 usc_section: "3933"
 chapter: 49
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 3933"
-generated_at: "2026-03-30T05:40:26.112Z"
+generated_at: "2026-03-30T05:42:49.575Z"
 status: "active"
 ---
 

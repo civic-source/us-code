@@ -3,9 +3,9 @@ title: "Section 883c - Omitted"
 usc_title: 25
 usc_section: "883c"
 chapter: 14
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "25 U.S.C. § 883c"
-generated_at: "2026-03-30T05:39:27.382Z"
+generated_at: "2026-03-30T05:41:25.758Z"
 status: "omitted"
 ---
 

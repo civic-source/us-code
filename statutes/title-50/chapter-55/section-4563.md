@@ -3,9 +3,9 @@ title: "Section 4563 - Separability"
 usc_title: 50
 usc_section: "4563"
 chapter: 55
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "50 U.S.C. § 4563"
-generated_at: "2026-03-30T05:40:31.422Z"
+generated_at: "2026-03-30T05:42:55.148Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4309 - Rifle ranges: availability for use by members and civilia
 usc_title: 10
 usc_section: "4309"
 chapter: 401
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 4309"
-generated_at: "2026-03-30T05:38:26.151Z"
+generated_at: "2026-03-30T05:41:02.895Z"
 status: "active"
 ---
 

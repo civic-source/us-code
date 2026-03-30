@@ -3,9 +3,9 @@ title: "Section 3058cc - Administration"
 usc_title: 42
 usc_section: "3058cc"
 chapter: 35
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 3058cc"
-generated_at: "2026-03-30T05:40:26.089Z"
+generated_at: "2026-03-30T05:42:49.554Z"
 status: "active"
 ---
 

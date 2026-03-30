@@ -3,9 +3,9 @@ title: "Section 8773 - Report on membership of Iran in international organizatio
 usc_title: 22
 usc_section: "8773"
 chapter: 94
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 8773"
-generated_at: "2026-03-30T05:39:13.318Z"
+generated_at: "2026-03-30T05:41:31.943Z"
 status: "active"
 ---
 

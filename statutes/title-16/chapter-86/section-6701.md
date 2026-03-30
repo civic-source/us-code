@@ -3,9 +3,9 @@ title: "Section 6701 - Findings"
 usc_title: 16
 usc_section: "6701"
 chapter: 86
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "16 U.S.C. § 6701"
-generated_at: "2026-03-30T05:38:48.607Z"
+generated_at: "2026-03-30T05:41:19.628Z"
 status: "active"
 ---
 

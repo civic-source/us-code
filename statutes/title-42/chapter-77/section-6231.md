@@ -3,9 +3,9 @@ title: "Section 6231 - Congressional finding and declaration of policy"
 usc_title: 42
 usc_section: "6231"
 chapter: 77
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 6231"
-generated_at: "2026-03-30T05:40:26.158Z"
+generated_at: "2026-03-30T05:42:49.617Z"
 status: "active"
 ---
 

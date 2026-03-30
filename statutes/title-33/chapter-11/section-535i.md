@@ -3,9 +3,9 @@ title: "Section 535i - Reservation of right to alter or repeal"
 usc_title: 33
 usc_section: "535i"
 chapter: 11
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "33 U.S.C. § 535i"
-generated_at: "2026-03-30T05:39:52.644Z"
+generated_at: "2026-03-30T05:41:50.672Z"
 status: "active"
 ---
 

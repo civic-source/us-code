@@ -3,9 +3,9 @@ title: "Section 5217 - Contracting procedures"
 usc_title: 12
 usc_section: "5217"
 chapter: 52
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "12 U.S.C. § 5217"
-generated_at: "2026-03-30T05:38:38.266Z"
+generated_at: "2026-03-30T05:41:07.937Z"
 status: "active"
 ---
 

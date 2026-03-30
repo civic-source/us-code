@@ -3,9 +3,9 @@ title: "Section 5562 - Preservation of reports, statements, or documents filed w
 usc_title: 2
 usc_section: "5562"
 chapter: 55
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "2 U.S.C. § 5562"
-generated_at: "2026-03-30T05:38:03.135Z"
+generated_at: "2026-03-30T05:40:50.992Z"
 status: "active"
 ---
 

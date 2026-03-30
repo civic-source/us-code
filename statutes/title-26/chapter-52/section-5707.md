@@ -3,9 +3,9 @@ title: "Section 5707 - Repealed. Pub. L. 89–44, title V , § 501(g), June 21, 
 usc_title: 26
 usc_section: "5707"
 chapter: 52
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "26 U.S.C. § 5707"
-generated_at: "2026-03-30T05:39:49.257Z"
+generated_at: "2026-03-30T05:41:42.743Z"
 status: "repealed"
 ---
 

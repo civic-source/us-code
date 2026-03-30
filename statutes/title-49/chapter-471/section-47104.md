@@ -3,9 +3,9 @@ title: "Section 47104 - Project grant authority"
 usc_title: 49
 usc_section: "47104"
 chapter: 471
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "49 U.S.C. § 47104"
-generated_at: "2026-03-30T05:40:36.610Z"
+generated_at: "2026-03-30T05:42:56.974Z"
 status: "active"
 ---
 

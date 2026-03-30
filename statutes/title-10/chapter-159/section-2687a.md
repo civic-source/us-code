@@ -3,9 +3,9 @@ title: "Section 2687a - Overseas base closures and realignments and basing maste
 usc_title: 10
 usc_section: "2687a"
 chapter: 159
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 2687a"
-generated_at: "2026-03-30T05:38:26.140Z"
+generated_at: "2026-03-30T05:41:02.883Z"
 status: "active"
 ---
 
@@ -40,14 +40,19 @@ status: "active"
     - **(B)** A certification that the costs to be covered by the payment-in-kind are included in the budget of one or more of the military departments or that it will otherwise be necessary to provide for payment of such costs in a budget of one or more of the military departments in the current or the next fiscal year.
   - **(3)** When the Secretary of Defense submits a notification of a proposed agreement under paragraph (1) or (2), the Secretary may then enter into the agreement described in the notification only after the end of the 30-day period beginning on the date on which the notification is submitted or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
 - **(f)**
-  - **(1)** A military construction project, as defined in chapter 159 of this title, may be accepted as a payment-in-kind contribution pursuant to a bilateral agreement with a host country only if that military construction project is authorized by law.
-  - **(2)** Operations of United States forces may be funded through a payment-in-kind contribution under this section only if the costs covered by such payment are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under 1105 1 1 So in original. Probably should be preceded by “section”. of title 31.
-  - **(3)** If funds previously appropriated for a military construction project, facility improvement, or operating costs are subsequently addressed in an agreement for a payment-in-kind contribution, the Secretary of Defense shall return to the Treasury funds in the amount equal to the value of the appropriated funds.
+  - **(1)** A military construction project, as defined in chapter 159 of this title, may be accepted as payment-in-kind or as an in-kind contribution required by a bilateral agreement with a host country only if that military construction project is authorized by law.
+  - **(2)** Operations of United States forces may be funded through payment-in-kind or an in-kind contribution required by a bilateral agreement with a host country under this section only if the costs covered by such payment or contribution are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under section 1105 of title 31 .
+  - **(3)** If funds previously appropriated for a military construction project or operating costs are subsequently addressed in an agreement for payment-in-kind or by an in-kind contribution required by a bilateral agreement with a host country, the Secretary of Defense shall return to the Treasury funds in the amount equal to the value of the appropriated funds.
   - **(4)** This subsection does not apply to a military construction project that—
-    - **(A)** was specified in a bilateral agreement with a host country that was entered into prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014;
-    - **(B)** was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510 ; 10 U.S.C. 2687 note) prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014; or
-    - **(C)** subject to paragraph (5), will cost less than the cost specified in subsection (a)(2) of section 2805 of this title for certain unspecified minor military construction projects.
-  - **(5)** In the case of a military construction project excluded pursuant to paragraph (4)(C) whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
+    - **(A)** was specified in a bilateral agreement with a host country that was entered into before December 26, 2013 ;
+    - **(B)** was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015;
+    - **(C)** was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510 ; 10 U.S.C. 2687 note) before December 26, 2013 ; or
+    - **(D)** subject to paragraph (6), will cost less than the cost specified in subsection (a)(2) of section 2805 of this title for certain unspecified minor military construction projects.
+  - **(5)** This subsection does not apply to an in-kind contribution toward operating costs that—
+    - **(A)** was specified in a bilateral agreement with a host country that was entered into before December 26, 2013 ;
+    - **(B)** was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015; or
+    - **(C)** was accepted as an in-kind contribution for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510 ; 10 U.S.C. 2687 note) before December 26, 2013 .
+  - **(6)** In the case of a military construction project excluded pursuant to paragraph (4)(D) whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
 - **(g)** In this section:
   - **(1)** The term “fair market value of the improvements” means the value of improvements determined by the Secretary of Defense on the basis of their highest use.
   - **(2)** The term “improvements” includes new construction of facilities and all additions, improvements, modifications, or renovations made to existing facilities or to real property, without regard to whether they were carried out with appropriated or nonappropriated funds.

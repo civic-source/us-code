@@ -3,9 +3,9 @@ title: "Section 2 - Principals"
 usc_title: 18
 usc_section: "2"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "18 U.S.C. § 2"
-generated_at: "2026-03-30T05:39:07.803Z"
+generated_at: "2026-03-30T05:41:22.277Z"
 status: "active"
 ---
 

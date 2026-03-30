@@ -3,9 +3,9 @@ title: "Section 8626 - Payments to States; fiscal year requirements respecting a
 usc_title: 42
 usc_section: "8626"
 chapter: 94
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 8626"
-generated_at: "2026-03-30T05:40:26.245Z"
+generated_at: "2026-03-30T05:42:49.699Z"
 status: "active"
 ---
 

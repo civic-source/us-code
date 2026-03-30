@@ -3,9 +3,9 @@ title: "Section 6394 - State applications; services"
 usc_title: 20
 usc_section: "6394"
 chapter: 70
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "20 U.S.C. § 6394"
-generated_at: "2026-03-30T05:39:05.795Z"
+generated_at: "2026-03-30T05:41:21.391Z"
 status: "active"
 ---
 

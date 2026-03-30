@@ -3,9 +3,9 @@ title: "Section 60110 - Service of process"
 usc_title: 36
 usc_section: "60110"
 chapter: 601
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "36 U.S.C. § 60110"
-generated_at: "2026-03-30T05:39:56.991Z"
+generated_at: "2026-03-30T05:41:54.565Z"
 status: "active"
 ---
 

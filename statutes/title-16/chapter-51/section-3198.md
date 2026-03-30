@@ -3,9 +3,9 @@ title: "Section 3198 - Local hire"
 usc_title: 16
 usc_section: "3198"
 chapter: 51
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "16 U.S.C. § 3198"
-generated_at: "2026-03-30T05:38:48.577Z"
+generated_at: "2026-03-30T05:41:19.599Z"
 status: "active"
 ---
 

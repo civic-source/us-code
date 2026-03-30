@@ -3,9 +3,9 @@ title: "Section 9832 - Definitions"
 usc_title: 42
 usc_section: "9832"
 chapter: 105
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 9832"
-generated_at: "2026-03-30T05:40:26.262Z"
+generated_at: "2026-03-30T05:42:49.715Z"
 status: "active"
 ---
 

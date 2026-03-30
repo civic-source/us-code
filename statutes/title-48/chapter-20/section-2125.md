@@ -3,9 +3,9 @@ title: "Section 2125 - Exemption from liability for claims"
 usc_title: 48
 usc_section: "2125"
 chapter: 20
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "48 U.S.C. § 2125"
-generated_at: "2026-03-30T05:40:29.921Z"
+generated_at: "2026-03-30T05:42:52.605Z"
 status: "active"
 ---
 

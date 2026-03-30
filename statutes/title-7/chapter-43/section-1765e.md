@@ -3,9 +3,9 @@ title: "Section 1765e - Location of offices"
 usc_title: 7
 usc_section: "1765e"
 chapter: 43
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "7 U.S.C. § 1765e"
-generated_at: "2026-03-30T05:38:14.915Z"
+generated_at: "2026-03-30T05:40:58.107Z"
 status: "active"
 ---
 

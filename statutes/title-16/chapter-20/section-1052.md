@@ -3,9 +3,9 @@ title: "Section 1052 - Authorization of Secretary of the Interior"
 usc_title: 16
 usc_section: "1052"
 chapter: 20
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "16 U.S.C. § 1052"
-generated_at: "2026-03-30T05:38:48.531Z"
+generated_at: "2026-03-30T05:41:19.554Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 505 - Medal of honor: presentation of Medal of Honor Flag"
 usc_title: 14
 usc_section: "505"
 chapter: 13
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "14 U.S.C. § 505"
-generated_at: "2026-03-30T05:38:31.034Z"
+generated_at: "2026-03-30T05:41:04.984Z"
 status: "active"
 ---
 

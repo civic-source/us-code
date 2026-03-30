@@ -3,9 +3,9 @@ title: "Section 31104 - Availability of amounts"
 usc_title: 49
 usc_section: "31104"
 chapter: 311
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "49 U.S.C. § 31104"
-generated_at: "2026-03-30T05:40:36.577Z"
+generated_at: "2026-03-30T05:42:56.943Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 312 - Inspector General"
 usc_title: 38
 usc_section: "312"
 chapter: 3
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 312"
-generated_at: "2026-03-30T05:39:58.763Z"
+generated_at: "2026-03-30T05:41:56.869Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** The Secretary shall provide for not less than 40 full-time positions in the Office of Inspector General in addition to the number of such positions in that office on March 15, 1989 .
   - **(2)** The President shall include in the budget transmitted to the Congress for each fiscal year pursuant to section 1105 of title 31 an estimate of the amount for the Office of Inspector General that is sufficient to provide for a number of full-time positions in that office that is not less than the number of full-time positions in that office on March 15, 1989 , plus 40.
 - **(c)**
-  - **(1)** Whenever the Inspector General, in carrying out the duties and responsibilities established under the Inspector General Act of 1978 (5 U.S.C. App.), issues a work product that makes a recommendation or otherwise suggests corrective action, the Inspector General shall—
+  - **(1)** Whenever the Inspector General, in carrying out the duties and responsibilities established under the Inspector General Act of 1978 (5 U.S.C. App.), issues a work product the Inspector General shall—
     - **(A)** submit the work product to—
       - **(i)** the Secretary;
       - **(ii)** the Committee on Veterans’ Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate;

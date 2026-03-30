@@ -3,9 +3,9 @@ title: "Section 9109 - Exclusion of a wholly owned Government corporation from t
 usc_title: 31
 usc_section: "9109"
 chapter: 91
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "31 U.S.C. § 9109"
-generated_at: "2026-03-30T05:39:51.866Z"
+generated_at: "2026-03-30T05:41:47.313Z"
 status: "active"
 ---
 

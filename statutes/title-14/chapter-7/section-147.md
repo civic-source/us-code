@@ -3,9 +3,9 @@ title: "Section 147 - Department of Commerce"
 usc_title: 14
 usc_section: "147"
 chapter: 7
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "14 U.S.C. § 147"
-generated_at: "2026-03-30T05:38:31.032Z"
+generated_at: "2026-03-30T05:41:04.981Z"
 status: "active"
 ---
 

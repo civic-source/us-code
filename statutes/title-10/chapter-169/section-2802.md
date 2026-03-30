@@ -3,9 +3,9 @@ title: "Section 2802 - Military construction projects"
 usc_title: 10
 usc_section: "2802"
 chapter: 169
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 2802"
-generated_at: "2026-03-30T05:38:26.143Z"
+generated_at: "2026-03-30T05:41:02.887Z"
 status: "active"
 ---
 
@@ -20,13 +20,10 @@ status: "active"
   - **(5)** planning, supervision, administration, and overhead incident to the project.
 - **(c)** In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
 - **(d)**
-  - **(1)** The requirement under subsection (a) that a military construction project must be authorized by law includes military construction projects funded through payment-in-kind contributions pursuant to a bilateral agreement with a host country.
+  - **(1)** The requirement under subsection (a) that a military construction project must be authorized by law includes military construction projects funded through payments-in-kind or in-kind contributions pursuant to a bilateral agreement with a host country.
   - **(2)** The Secretary of Defense or the Secretary concerned shall include military construction projects covered under paragraph (1) in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget for a fiscal year submitted under 1105 of title 31.
-  - **(3)** This subsection does not apply to a military construction project that—
-    - **(A)** was specified in a bilateral agreement with a host country that was entered into prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014;
-    - **(B)** was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510 ; 10 U.S.C. 2687 note) prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014; or
-    - **(C)** will cost less than the cost specified in subsection (a)(2) of section 2805 of this title for certain unspecified minor military construction projects.
-  - **(4)** In the case of a military construction project excluded pursuant to paragraph (3)(C) whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
+  - **(3)** This subsection does not apply to a military construction project covered by one of the exceptions in section 2687a(f)(4) of this title .
+  - **(4)** In the case of a military construction project excluded pursuant to paragraph (3), by reference to section 2687a(f)(4)(D) of this title , whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
 - **(e)**
   - **(1)** If a construction project, land acquisition, or defense access road project described in paragraph (2) will be carried out pursuant to a provision of law other than a Military Construction Authorization Act, the Secretary concerned shall—
     - **(A)** comply with the congressional notification requirement contained in the provision of law under which the construction project, land acquisition, or defense access road project will be carried out; or

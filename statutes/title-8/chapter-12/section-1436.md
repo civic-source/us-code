@@ -3,9 +3,9 @@ title: "Section 1436 - Nationals but not citizens; residence within outlying pos
 usc_title: 8
 usc_section: "1436"
 chapter: 12
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "8 U.S.C. § 1436"
-generated_at: "2026-03-30T05:38:09.235Z"
+generated_at: "2026-03-30T05:40:55.382Z"
 status: "active"
 ---
 

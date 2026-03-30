@@ -3,9 +3,9 @@ title: "Section 1372 - Payment, collection, and refund of penalties"
 usc_title: 7
 usc_section: "1372"
 chapter: 35
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "7 U.S.C. § 1372"
-generated_at: "2026-03-30T05:38:14.891Z"
+generated_at: "2026-03-30T05:40:58.079Z"
 status: "active"
 ---
 

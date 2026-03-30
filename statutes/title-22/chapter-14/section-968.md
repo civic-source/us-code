@@ -3,9 +3,9 @@ title: "Section 968 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 17
 usc_title: 22
 usc_section: "968"
 chapter: 14
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 968"
-generated_at: "2026-03-30T05:39:13.205Z"
+generated_at: "2026-03-30T05:41:31.830Z"
 status: "repealed"
 ---
 

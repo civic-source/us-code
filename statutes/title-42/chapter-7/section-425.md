@@ -3,9 +3,9 @@ title: "Section 425 - Additional rules relating to benefits based on disability"
 usc_title: 42
 usc_section: "425"
 chapter: 7
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 425"
-generated_at: "2026-03-30T05:40:25.846Z"
+generated_at: "2026-03-30T05:42:49.325Z"
 status: "active"
 ---
 

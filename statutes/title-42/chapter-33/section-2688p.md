@@ -3,9 +3,9 @@ title: "Section 2688p - Repealed. Pub. L. 91–296, title IV , § 401(b)(2), Jun
 usc_title: 42
 usc_section: "2688p"
 chapter: 33
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 2688p"
-generated_at: "2026-03-30T05:40:26.074Z"
+generated_at: "2026-03-30T05:42:49.540Z"
 status: "repealed"
 ---
 

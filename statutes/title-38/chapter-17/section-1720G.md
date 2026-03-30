@@ -3,9 +3,9 @@ title: "Section 1720G - Assistance and support services for caregivers"
 usc_title: 38
 usc_section: "1720G"
 chapter: 17
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 1720G"
-generated_at: "2026-03-30T05:39:58.771Z"
+generated_at: "2026-03-30T05:41:56.878Z"
 status: "active"
 ---
 
@@ -114,5 +114,6 @@ status: "active"
     - **(B)** Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title ).
 - **(e)** There are authorized to be appropriated to carry out the programs required by subsections (a) and (b)—
   - **(1)** $60,000,000 for fiscal year 2010;
-  - **(2)** $1,542,000,000 for the period of fiscal years 2011 through 2015; and
-  - **(3)** $625,000,000 for fiscal year 2016.
+  - **(2)** $1,542,000,000 for the period of fiscal years 2011 through 2015;
+  - **(3)** $625,000,000 for fiscal year 2016; and
+  - **(4)** $734,628,000 for fiscal year 2017.

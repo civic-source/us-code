@@ -3,9 +3,9 @@ title: "Section 3121 - Findings and declarations"
 usc_title: 42
 usc_section: "3121"
 chapter: 38
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 3121"
-generated_at: "2026-03-30T05:40:26.089Z"
+generated_at: "2026-03-30T05:42:49.555Z"
 status: "active"
 ---
 

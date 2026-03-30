@@ -3,9 +3,9 @@ title: "Section 3383 - Determinations; review procedures"
 usc_title: 5
 usc_section: "3383"
 chapter: 33
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "5 U.S.C. § 3383"
-generated_at: "2026-03-30T05:38:04.610Z"
+generated_at: "2026-03-30T05:40:52.669Z"
 status: "active"
 ---
 

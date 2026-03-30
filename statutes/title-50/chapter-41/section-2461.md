@@ -3,9 +3,9 @@ title: "Section 2461 - Environmental protection, safety, and health requirements
 usc_title: 50
 usc_section: "2461"
 chapter: 41
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "50 U.S.C. § 2461"
-generated_at: "2026-03-30T05:40:31.383Z"
+generated_at: "2026-03-30T05:42:55.110Z"
 status: "active"
 ---
 

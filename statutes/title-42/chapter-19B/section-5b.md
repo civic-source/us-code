@@ -3,9 +3,9 @@ title: "Section 5b - Written agreement requirement for water resources projects"
 usc_title: 42
 usc_section: "5b"
 chapter: 19
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 5b"
-generated_at: "2026-03-30T05:40:26.045Z"
+generated_at: "2026-03-30T05:42:49.513Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 42101 - Regulations of the Commission"
 usc_title: 46
 usc_section: "42101"
 chapter: 421
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "46 U.S.C. § 42101"
-generated_at: "2026-03-30T05:40:33.640Z"
+generated_at: "2026-03-30T05:42:54.159Z"
 status: "active"
 ---
 

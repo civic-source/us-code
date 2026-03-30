@@ -3,9 +3,9 @@ title: "Section 1460 - Copies of records, documents, etc.; charges; disposition 
 usc_title: 43
 usc_section: "1460"
 chapter: 31
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "43 U.S.C. § 1460"
-generated_at: "2026-03-30T05:40:01.211Z"
+generated_at: "2026-03-30T05:42:05.661Z"
 status: "active"
 ---
 

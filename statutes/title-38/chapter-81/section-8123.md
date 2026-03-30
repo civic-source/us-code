@@ -3,9 +3,9 @@ title: "Section 8123 - Procurement of prosthetic appliances"
 usc_title: 38
 usc_section: "8123"
 chapter: 81
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 8123"
-generated_at: "2026-03-30T05:39:58.813Z"
+generated_at: "2026-03-30T05:41:56.921Z"
 status: "active"
 ---
 

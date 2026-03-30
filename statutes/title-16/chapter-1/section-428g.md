@@ -3,9 +3,9 @@ title: "Section 428g - Occupation of lands by former owners"
 usc_title: 16
 usc_section: "428g"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "16 U.S.C. § 428g"
-generated_at: "2026-03-30T05:38:48.432Z"
+generated_at: "2026-03-30T05:41:19.456Z"
 status: "active"
 ---
 

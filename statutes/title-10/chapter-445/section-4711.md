@@ -3,9 +3,9 @@ title: "Section 4711 - Repealed. Pub. L. 106–65, div. A, title VII , § 721(b)
 usc_title: 10
 usc_section: "4711"
 chapter: 445
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 4711"
-generated_at: "2026-03-30T05:38:26.154Z"
+generated_at: "2026-03-30T05:41:02.899Z"
 status: "repealed"
 ---
 

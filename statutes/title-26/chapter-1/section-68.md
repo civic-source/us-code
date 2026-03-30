@@ -3,9 +3,9 @@ title: "Section 68 - Overall limitation on itemized deductions"
 usc_title: 26
 usc_section: "68"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "26 U.S.C. § 68"
-generated_at: "2026-03-30T05:39:49.083Z"
+generated_at: "2026-03-30T05:41:42.571Z"
 status: "active"
 ---
 

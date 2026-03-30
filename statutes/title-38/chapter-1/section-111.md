@@ -3,9 +3,9 @@ title: "Section 111 - Payments or allowances for beneficiary travel"
 usc_title: 38
 usc_section: "111"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 111"
-generated_at: "2026-03-30T05:39:58.762Z"
+generated_at: "2026-03-30T05:41:56.868Z"
 status: "active"
 ---
 
@@ -20,6 +20,9 @@ status: "active"
     - **(D)** A veteran (i) who is not traveling by air and whose annual income (as determined under section 1503 of this title ) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title , or (ii) who is determined, under regulations prescribed by the Secretary, to be unable to defray the expenses of the travel for which payment under this section is claimed.
     - **(E)** Subject to paragraph (3) of this subsection, a veteran or other person whose travel to or from a Department facility is medically required to be performed by a special mode of travel and who is determined under such regulations to be unable to defray the expenses of the travel for which payment under this section is claimed.
     - **(F)** A veteran whose travel to a Department facility is incident to a scheduled compensation and pension examination.
+    - **(G)** A veteran with vision impairment, a veteran with a spinal cord injury or disorder, or a veteran with double or multiple amputations whose travel is in connection with care provided through a special disabilities rehabilitation program of the Department (including programs provided by spinal cord injury centers, blind rehabilitation centers, and prosthetics rehabilitation centers) if such care is provided—
+      - **(i)** on an in-patient basis; or
+      - **(ii)** during a period in which the Secretary provides the veteran with temporary lodging at a facility of the Department to make such care more accessible to the veteran.
   - **(2)** The Secretary may make payments provided for in this section to or for any person not covered by paragraph (1) of this subsection for travel by such person for examination, treatment, or care. Such payments shall be made in accordance with regulations which the Secretary shall prescribe.
   - **(3)**
     - **(A)** Except as provided in subparagraph (B) of this paragraph, the Secretary shall not make payments under this section for travel performed by a special mode of travel unless (i) the travel by such mode is medically required and is authorized by the Secretary before the travel begins, or (ii) the travel by such mode is in connection with a medical emergency of such a nature that the delay incident to obtaining authorization from the Secretary to use that mode of travel would have been hazardous to the person’s life or health.

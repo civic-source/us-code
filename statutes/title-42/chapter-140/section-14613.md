@@ -3,9 +3,9 @@ title: "Section 14613 - Enactment and consent of the United States"
 usc_title: 42
 usc_section: "14613"
 chapter: 140
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 14613"
-generated_at: "2026-03-30T05:40:26.354Z"
+generated_at: "2026-03-30T05:42:49.802Z"
 status: "active"
 ---
 

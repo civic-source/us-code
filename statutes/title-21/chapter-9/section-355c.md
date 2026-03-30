@@ -3,9 +3,9 @@ title: "Section 355c - Research into pediatric uses for drugs and biological pro
 usc_title: 21
 usc_section: "355c"
 chapter: 9
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "21 U.S.C. § 355c"
-generated_at: "2026-03-30T05:39:23.160Z"
+generated_at: "2026-03-30T05:41:28.649Z"
 status: "active"
 ---
 

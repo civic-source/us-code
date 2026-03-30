@@ -3,9 +3,9 @@ title: "Section 8606 - United States-Israel cooperation on energy, water, homela
 usc_title: 22
 usc_section: "8606"
 chapter: 93
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 8606"
-generated_at: "2026-03-30T05:39:13.316Z"
+generated_at: "2026-03-30T05:41:31.941Z"
 status: "active"
 ---
 

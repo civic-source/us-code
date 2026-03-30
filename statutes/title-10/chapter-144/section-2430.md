@@ -3,9 +3,9 @@ title: "Section 2430 - Major defense acquisition program defined"
 usc_title: 10
 usc_section: "2430"
 chapter: 144
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 2430"
-generated_at: "2026-03-30T05:38:26.128Z"
+generated_at: "2026-03-30T05:41:02.871Z"
 status: "active"
 ---
 
@@ -20,3 +20,17 @@ status: "active"
   - **(2)** The cost estimate referred to in section 2366a(a)(6) of this title .
   - **(3)** The cost estimate referred to in section 2366b(a)(1)(C) of this title .
   - **(4)** The cost estimate within a baseline description as required by section 2435 of this title .
+- **(d)**
+  - **(1)** The milestone decision authority for a major defense acquisition program reaching Milestone A after October 1, 2016 , shall be the service acquisition executive of the military department that is managing the program, unless the Secretary of Defense designates, under paragraph (2), another official to serve as the milestone decision authority.
+  - **(2)** The Secretary of Defense may designate an alternate milestone decision authority for a program with respect to which—
+    - **(A)** the Secretary determines that the program is addressing a joint requirement;
+    - **(B)** the Secretary determines that the program is best managed by a Defense Agency;
+    - **(C)** the program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under section 2433 of this title ;
+    - **(D)** the program is critical to a major interagency requirement or technology development effort, or has significant international partner involvement; or
+    - **(E)** the Secretary determines that an alternate official serving as the milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes.
+  - **(3)**
+    - **(A)** After designating an alternate milestone decision authority under paragraph (2) for a program, the Secretary of Defense may revert the position of milestone decision authority for the program back to the service acquisition executive upon request of the Secretary of the military department concerned. A decision on the request shall be made within 180 days after receipt of the request from the Secretary of the military department concerned.
+    - **(B)** If the Secretary of Defense denies the request for reversion of the milestone decision authority back to the service acquisition executive, the Secretary shall report to the congressional defense committees on the basis of the Secretary’s decision that an alternate official serving as milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes. No such reversion is authorized after a program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under section 2433 of this title , except in exceptional circumstances.
+  - **(4)**
+    - **(A)** For each major defense acquisition program, the Secretary of the military department concerned and the Chief of the armed force concerned shall, in each Selected Acquisition Report required under section 2432 of this title , certify that program requirements are stable and funding is adequate to meet cost, schedule, and performance objectives for the program and identify and report to the congressional defense committees on any increased risk to the program since the last report.
+    - **(B)** The Secretary of Defense shall review the acquisition oversight process for major defense acquisition programs and shall limit outside requirements for documentation to an absolute minimum on those programs where the service acquisition executive of the military department that is managing the program is the milestone decision authority and ensure that any policies, procedures, and activities related to oversight efforts conducted outside of the military departments with regard to major defense acquisition programs shall be implemented in a manner that does not unnecessarily increase program costs or impede program schedules.

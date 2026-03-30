@@ -3,9 +3,9 @@ title: "Section 14012 - National baseline study on campus sexual assault"
 usc_title: 42
 usc_section: "14012"
 chapter: 136
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 14012"
-generated_at: "2026-03-30T05:40:26.344Z"
+generated_at: "2026-03-30T05:42:49.793Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5380 - Repealed. Pub. L. 102–378 , § 8(a), Oct. 2, 1992 , 106
 usc_title: 5
 usc_section: "5380"
 chapter: 53
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "5 U.S.C. § 5380"
-generated_at: "2026-03-30T05:38:04.618Z"
+generated_at: "2026-03-30T05:40:52.678Z"
 status: "repealed"
 ---
 

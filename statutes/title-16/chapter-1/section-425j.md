@@ -3,9 +3,9 @@ title: "Section 425j - Authorization of appropriation"
 usc_title: 16
 usc_section: "425j"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "16 U.S.C. § 425j"
-generated_at: "2026-03-30T05:38:48.431Z"
+generated_at: "2026-03-30T05:41:19.455Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4007 - Effect on other Federal authority"
 usc_title: 33
 usc_section: "4007"
 chapter: 53
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "33 U.S.C. § 4007"
-generated_at: "2026-03-30T05:39:52.708Z"
+generated_at: "2026-03-30T05:41:50.737Z"
 status: "active"
 ---
 

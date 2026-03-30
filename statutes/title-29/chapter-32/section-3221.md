@@ -3,9 +3,9 @@ title: "Section 3221 - Native American programs"
 usc_title: 29
 usc_section: "3221"
 chapter: 32
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "29 U.S.C. § 3221"
-generated_at: "2026-03-30T05:39:32.246Z"
+generated_at: "2026-03-30T05:41:44.268Z"
 status: "active"
 ---
 

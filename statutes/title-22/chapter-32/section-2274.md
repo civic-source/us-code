@@ -3,9 +3,9 @@ title: "Section 2274 - Economic assistance coordination"
 usc_title: 22
 usc_section: "2274"
 chapter: 32
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 2274"
-generated_at: "2026-03-30T05:39:13.226Z"
+generated_at: "2026-03-30T05:41:31.852Z"
 status: "active"
 ---
 

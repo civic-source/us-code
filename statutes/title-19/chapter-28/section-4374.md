@@ -3,9 +3,9 @@ title: "Section 4374 - Cooperation with foreign countries on preventing evasion 
 usc_title: 19
 usc_section: "4374"
 chapter: 28
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "19 U.S.C. § 4374"
-generated_at: "2026-03-30T05:38:51.421Z"
+generated_at: "2026-03-30T05:41:14.632Z"
 status: "active"
 ---
 

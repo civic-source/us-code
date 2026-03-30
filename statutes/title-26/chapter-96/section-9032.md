@@ -3,9 +3,9 @@ title: "Section 9032 - Definitions"
 usc_title: 26
 usc_section: "9032"
 chapter: 96
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "26 U.S.C. § 9032"
-generated_at: "2026-03-30T05:39:49.310Z"
+generated_at: "2026-03-30T05:41:42.794Z"
 status: "active"
 ---
 

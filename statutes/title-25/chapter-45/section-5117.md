@@ -3,9 +3,9 @@ title: "Section 5117 - Indian preference laws applicable to Bureau of Indian Aff
 usc_title: 25
 usc_section: "5117"
 chapter: 45
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "25 U.S.C. § 5117"
-generated_at: "2026-03-30T05:39:27.422Z"
+generated_at: "2026-03-30T05:41:25.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1359jj - Administration"
 usc_title: 7
 usc_section: "1359jj"
 chapter: 35
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "7 U.S.C. § 1359jj"
-generated_at: "2026-03-30T05:38:14.891Z"
+generated_at: "2026-03-30T05:40:58.079Z"
 status: "active"
 ---
 

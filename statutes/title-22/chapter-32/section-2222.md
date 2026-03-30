@@ -3,9 +3,9 @@ title: "Section 2222 - Authorization of appropriations"
 usc_title: 22
 usc_section: "2222"
 chapter: 32
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "22 U.S.C. § 2222"
-generated_at: "2026-03-30T05:39:13.225Z"
+generated_at: "2026-03-30T05:41:31.851Z"
 status: "active"
 ---
 

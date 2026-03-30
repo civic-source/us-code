@@ -3,9 +3,9 @@ title: "Section 167i - Suspension of prohibitions against use of Library buildin
 usc_title: 2
 usc_section: "167i"
 chapter: 5
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "2 U.S.C. § 167i"
-generated_at: "2026-03-30T05:38:03.099Z"
+generated_at: "2026-03-30T05:40:50.949Z"
 status: "active"
 ---
 

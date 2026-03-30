@@ -3,9 +3,9 @@ title: "Section 53717 - Management of funds in the Treasury"
 usc_title: 46
 usc_section: "53717"
 chapter: 537
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "46 U.S.C. § 53717"
-generated_at: "2026-03-30T05:40:33.647Z"
+generated_at: "2026-03-30T05:42:54.166Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7225 - Navy Reserve flag"
 usc_title: 10
 usc_section: "7225"
 chapter: 631
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 7225"
-generated_at: "2026-03-30T05:38:26.163Z"
+generated_at: "2026-03-30T05:41:02.908Z"
 status: "active"
 ---
 

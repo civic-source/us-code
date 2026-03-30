@@ -3,9 +3,9 @@ title: "Section 3449 - Repealed. Pub. L. 96–513, title II , §§ 207, 208, Dec
 usc_title: 10
 usc_section: "3449"
 chapter: 339
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 3449"
-generated_at: "2026-03-30T05:38:26.149Z"
+generated_at: "2026-03-30T05:41:02.893Z"
 status: "repealed"
 ---
 

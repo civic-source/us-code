@@ -3,9 +3,9 @@ title: "Section 1736 - Repealed. Pub. L. 102–367, title IV , § 403(a)(4), Sep
 usc_title: 29
 usc_section: "1736"
 chapter: 19
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "29 U.S.C. § 1736"
-generated_at: "2026-03-30T05:39:32.230Z"
+generated_at: "2026-03-30T05:41:44.253Z"
 status: "repealed"
 ---
 

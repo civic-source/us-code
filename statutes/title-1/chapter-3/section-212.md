@@ -3,9 +3,9 @@ title: "Section 212 - Additional distribution at each new Congress"
 usc_title: 1
 usc_section: "212"
 chapter: 3
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "1 U.S.C. § 212"
-generated_at: "2026-03-30T05:38:01.841Z"
+generated_at: "2026-03-30T05:40:49.226Z"
 status: "active"
 ---
 

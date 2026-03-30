@@ -3,9 +3,9 @@ title: "Section 2635 - Powers"
 usc_title: 29
 usc_section: "2635"
 chapter: 28
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "29 U.S.C. § 2635"
-generated_at: "2026-03-30T05:39:32.235Z"
+generated_at: "2026-03-30T05:41:44.257Z"
 status: "active"
 ---
 

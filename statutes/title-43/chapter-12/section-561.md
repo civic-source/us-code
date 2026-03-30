@@ -3,9 +3,9 @@ title: "Section 561 - Survey and subdivision of land for town sites; reservation
 usc_title: 43
 usc_section: "561"
 chapter: 12
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "43 U.S.C. § 561"
-generated_at: "2026-03-30T05:40:01.194Z"
+generated_at: "2026-03-30T05:42:05.645Z"
 status: "active"
 ---
 

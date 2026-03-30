@@ -3,9 +3,9 @@ title: "Section 4688 - Armor-piercing ammunition and components: condition on di
 usc_title: 10
 usc_section: "4688"
 chapter: 443
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 4688"
-generated_at: "2026-03-30T05:38:26.154Z"
+generated_at: "2026-03-30T05:41:02.899Z"
 status: "active"
 ---
 

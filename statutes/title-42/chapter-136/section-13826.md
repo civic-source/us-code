@@ -3,9 +3,9 @@ title: "Section 13826 - Program priority for special emphasis programs"
 usc_title: 42
 usc_section: "13826"
 chapter: 136
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 13826"
-generated_at: "2026-03-30T05:40:26.340Z"
+generated_at: "2026-03-30T05:42:49.790Z"
 status: "active"
 ---
 

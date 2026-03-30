@@ -3,9 +3,9 @@ title: "Section 1710 - Eligibility for hospital, nursing home, and domiciliary c
 usc_title: 38
 usc_section: "1710"
 chapter: 17
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 1710"
-generated_at: "2026-03-30T05:39:58.768Z"
+generated_at: "2026-03-30T05:41:56.876Z"
 status: "active"
 ---
 
@@ -77,7 +77,7 @@ status: "active"
     - **(A)** the lesser of—
       - **(i)** the cost of furnishing such care, as determined by the Secretary; or
       - **(ii)** the amount determined under paragraph (3) of this subsection; and
-    - **(B)** before September 30, 2016 , an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+    - **(B)** before September 30, 2017 , an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
   - **(3)**
     - **(A)** In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
       - **(i)** the amount of the inpatient Medicare deductible, plus

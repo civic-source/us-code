@@ -3,9 +3,9 @@ title: "Section 1554 - Annual report to Congress regarding Federal court rulings
 usc_title: 2
 usc_section: "1554"
 chapter: 25
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "2 U.S.C. § 1554"
-generated_at: "2026-03-30T05:38:03.118Z"
+generated_at: "2026-03-30T05:40:50.973Z"
 status: "active"
 ---
 

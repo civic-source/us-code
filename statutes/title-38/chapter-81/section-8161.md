@@ -3,9 +3,9 @@ title: "Section 8161 - Definitions"
 usc_title: 38
 usc_section: "8161"
 chapter: 81
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 8161"
-generated_at: "2026-03-30T05:39:58.815Z"
+generated_at: "2026-03-30T05:41:56.922Z"
 status: "active"
 ---
 
@@ -23,3 +23,5 @@ For the purposes of this subchapter:
     - **(E)** Independent living housing.
     - **(F)** Assisted living housing.
     - **(G)** Other modalities of housing.
+  - **(4)** The term “lessee” means the party with whom the Secretary has entered into an enhanced-use lease under this subchapter.
+  - **(5)** The term “major enhanced-use lease” means an enhanced-use lease that includes consideration consisting of an average annual rent of more than $10,000,000.

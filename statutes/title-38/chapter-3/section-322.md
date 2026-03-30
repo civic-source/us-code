@@ -3,9 +3,9 @@ title: "Section 322 - Office of National Veterans Sports Programs and Special Ev
 usc_title: 38
 usc_section: "322"
 chapter: 3
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "38 U.S.C. § 322"
-generated_at: "2026-03-30T05:39:58.763Z"
+generated_at: "2026-03-30T05:41:56.869Z"
 status: "active"
 ---
 
@@ -21,10 +21,12 @@ status: "active"
   - **(6)** may carry out such other responsibilities as the Secretary determines are appropriate.
 - **(c)** For purposes of this section, a qualifying program or event is a sports program or other event in which disabled veterans and disabled members of the Armed Forces participate and that is approved by the Secretary as being consistent with the goals and missions of the Department.
 - **(d)**
-  - **(1)** Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center.
+  - **(1)** Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to—
+    - **(A)** a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center; and
+    - **(B)** a veteran with a VA service-connected disability rated as 30 percent or greater by the Department of Veterans Affairs who is selected by the United States Olympic Committee for the United States Olympic Team for any month in which the veteran is competing in any event sanctioned by the National Governing Bodies of the United States Olympic Sports.
   - **(2)** The amount of the monthly assistance payable to a veteran under paragraph (1) shall be equal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
   - **(3)** In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
-  - **(4)** There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2016.
+  - **(4)** There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2017.
 - **(e)** The provisions of this subsection shall apply in the same manner and to the same degree as to the United States Olympic Committee to the Paralympic sport entities the Secretary considers appropriate to represent the interests of each of the following:
   - **(1)** American Samoa.
   - **(2)** Guam.

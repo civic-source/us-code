@@ -3,9 +3,9 @@ title: "Section 20704 - Disclosure of records or papers"
 usc_title: 52
 usc_section: "20704"
 chapter: 207
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "52 U.S.C. § 20704"
-generated_at: "2026-03-30T05:40:38.526Z"
+generated_at: "2026-03-30T05:43:00.331Z"
 status: "active"
 ---
 

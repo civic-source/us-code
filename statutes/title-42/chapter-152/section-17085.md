@@ -3,9 +3,9 @@ title: "Section 17085 - Tenant Star program"
 usc_title: 42
 usc_section: "17085"
 chapter: 152
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "42 U.S.C. § 17085"
-generated_at: "2026-03-30T05:40:26.387Z"
+generated_at: "2026-03-30T05:42:49.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1431 - Authorization; official approval; Congressional action: n
 usc_title: 50
 usc_section: "1431"
 chapter: 29
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "50 U.S.C. § 1431"
-generated_at: "2026-03-30T05:40:31.366Z"
+generated_at: "2026-03-30T05:42:55.092Z"
 status: "active"
 ---
 

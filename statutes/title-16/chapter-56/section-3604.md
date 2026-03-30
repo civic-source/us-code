@@ -3,9 +3,9 @@ title: "Section 3604 - Regulations and reports"
 usc_title: 16
 usc_section: "3604"
 chapter: 56
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "16 U.S.C. § 3604"
-generated_at: "2026-03-30T05:38:48.581Z"
+generated_at: "2026-03-30T05:41:19.603Z"
 status: "active"
 ---
 

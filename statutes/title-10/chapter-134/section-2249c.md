@@ -3,9 +3,9 @@ title: "Section 2249c - Regional Defense Combating Terrorism Fellowship Program:
 usc_title: 10
 usc_section: "2249c"
 chapter: 134
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "10 U.S.C. § 2249c"
-generated_at: "2026-03-30T05:38:26.115Z"
+generated_at: "2026-03-30T05:41:02.857Z"
 status: "active"
 ---
 

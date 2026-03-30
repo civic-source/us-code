@@ -3,9 +3,9 @@ title: "Section 1605 - General exceptions to the jurisdictional immunity of a fo
 usc_title: 28
 usc_section: "1605"
 chapter: 97
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "28 U.S.C. § 1605"
-generated_at: "2026-03-30T05:39:37.958Z"
+generated_at: "2026-03-30T05:41:35.959Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
 - **[(e)** , (f) Repealed. Pub. L. 110–181, div. A, title X , § 1083(b)(1)(B), Jan. 28, 2008 , 122 Stat. 341 .]
 - **(g)**
   - **(1)**
-    - **(A)** Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
+    - **(A)** Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A or section 1605B, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
     - **(B)** A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
   - **(2)**
     - **(A)** Subject to subparagraph (B), no stay shall be granted or continued in effect under paragraph (1) after the date that is 10 years after the date on which the incident that gave rise to the cause of action occurred.

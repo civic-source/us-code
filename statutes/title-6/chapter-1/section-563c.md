@@ -3,9 +3,9 @@ title: "Section 563c - Inventory utilization"
 usc_title: 6
 usc_section: "563c"
 chapter: 1
-current_through: "PL 114-221"
+current_through: "PL 114-229"
 classification: "6 U.S.C. § 563c"
-generated_at: "2026-03-30T05:38:06.696Z"
+generated_at: "2026-03-30T05:40:54.698Z"
 status: "active"
 ---
 
