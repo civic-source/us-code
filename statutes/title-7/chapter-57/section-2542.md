@@ -3,9 +3,9 @@ title: "Section 2542 - Grandfather clause"
 usc_title: 7
 usc_section: "2542"
 chapter: 57
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 2542"
-generated_at: "2026-03-30T06:53:26.322Z"
+generated_at: "2026-03-30T06:55:34.040Z"
 status: "active"
 ---
 

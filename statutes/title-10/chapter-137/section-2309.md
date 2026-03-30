@@ -3,9 +3,9 @@ title: "Section 2309 - Allocation of appropriations"
 usc_title: 10
 usc_section: "2309"
 chapter: 137
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 2309"
-generated_at: "2026-03-30T06:53:29.842Z"
+generated_at: "2026-03-30T06:55:27.980Z"
 status: "active"
 ---
 

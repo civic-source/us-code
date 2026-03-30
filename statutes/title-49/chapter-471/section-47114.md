@@ -3,9 +3,9 @@ title: "Section 47114 - Apportionments"
 usc_title: 49
 usc_section: "47114"
 chapter: 471
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "49 U.S.C. § 47114"
-generated_at: "2026-03-30T06:54:56.348Z"
+generated_at: "2026-03-30T06:56:58.479Z"
 status: "active"
 ---
 

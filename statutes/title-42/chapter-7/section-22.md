@@ -3,9 +3,9 @@ title: "Section 22 - Benefits and beneficiary protections"
 usc_title: 42
 usc_section: "22"
 chapter: 7
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T06:54:49.277Z"
+generated_at: "2026-03-30T06:56:51.034Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)**
     - **(A)** Except as provided in section 1395w–28(b)(3) of this title for MSA plans and except as provided in paragraph (6) for MA regional plans, each Medicare+Choice plan shall provide to members enrolled under this part, through providers and other persons that meet the applicable requirements of this subchapter and part A of subchapter XI, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title ).
     - **(B)**
-      - **(i)** For purposes of this part, the term “benefits under the original medicare fee-for-service program option” means those items and services (other than hospice care) for which benefits are available under parts A and B to individuals entitled to benefits under part A and enrolled under part B, with cost-sharing for those services as required under parts A and B or, subject to clause (iii), an actuarially equivalent level of cost-sharing as determined in this part.
+      - **(i)** For purposes of this part, the term “benefits under the original medicare fee-for-service program option” means those items and services (other than hospice care or coverage for organ acquisitions for kidney transplants, including as covered under section 1395rr(d) of this title ) for which benefits are available under parts A and B to individuals entitled to benefits under part A and enrolled under part B, with cost-sharing for those services as required under parts A and B or, subject to clause (iii), an actuarially equivalent level of cost-sharing as determined in this part.
       - **(ii)** In the case of an MA regional plan in determining an actuarially equivalent level of cost-sharing with respect to benefits under the original medicare fee-for-service program option, there shall only be taken into account, with respect to the application of section 1395w–27a(b)(2) of this title , such expenses only with respect to subparagraph (A) of such section.
       - **(iii)** Subject to clause (v), cost-sharing for services described in clause (iv) shall not exceed the cost-sharing required for those services under parts A and B.
       - **(iv)** The following services are described in this clause:
@@ -47,9 +47,7 @@ status: "active"
   - **(6)** In the case of an MA plan that is an MA regional plan, benefits under the plan shall include the benefits described in paragraphs (1) and (2) of section 1395w–27a(b) of this title .
   - **(7)** In the case of an individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title ) or a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title ) and who is enrolled in a specialized Medicare Advantage plan for special needs individuals described in section 1395w–28(b)(6)(B)(ii) of this title , the plan may not impose cost-sharing that exceeds the amount of cost-sharing that would be permitted with respect to the individual under subchapter XIX if the individual were not enrolled in such plan.
 - **(b)**
-  - **(1)**
-    - **(A)** A Medicare+Choice organization may not deny, limit, or condition the coverage or provision of benefits under this part, for individuals permitted to be enrolled with the organization under this part, based on any health status-related factor described in section 2702(a)(1) of the Public Health Service Act. 1 1 See References in Text note below. The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.
-    - **(B)** Subparagraph (A) shall not be construed as requiring a Medicare+Choice organization to enroll individuals who are determined to have end-stage renal disease, except as provided under section 1395w–21(a)(3)(B) of this title .
+  - **(1)** A Medicare Advantage organization may not deny, limit, or condition the coverage or provision of benefits under this part, for individuals permitted to be enrolled with the organization under this part, based on any health status-related factor described in section 2702(a)(1) of the Public Health Service Act. 1 1 See References in Text note below. The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.
   - **(2)** A Medicare+Choice organization shall not discriminate with respect to participation, reimbursement, or indemnification as to any provider who is acting within the scope of the provider’s license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shall not be construed to prohibit a plan from including providers only to the extent necessary to meet the needs of the plan’s enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the plan.
 - **(c)**
   - **(1)** A Medicare+Choice organization shall disclose, in clear, accurate, and standardized form to each enrollee with a Medicare+Choice plan offered by the organization under this part at the time of enrollment and at least annually thereafter, the following information regarding such plan:

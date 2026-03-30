@@ -3,9 +3,9 @@ title: "Section 4995 - Repealed. Pub. L. 111–13, title II , § 2132, Apr. 21, 
 usc_title: 42
 usc_section: "4995"
 chapter: 66
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 4995"
-generated_at: "2026-03-30T06:54:49.467Z"
+generated_at: "2026-03-30T06:56:51.223Z"
 status: "repealed"
 ---
 

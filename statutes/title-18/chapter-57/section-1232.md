@@ -3,9 +3,9 @@ title: "Section 1232 - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641 
 usc_title: 18
 usc_section: "1232"
 chapter: 57
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "18 U.S.C. § 1232"
-generated_at: "2026-03-30T06:54:03.084Z"
+generated_at: "2026-03-30T06:56:04.422Z"
 status: "repealed"
 ---
 

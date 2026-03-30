@@ -3,9 +3,9 @@ title: "Section 1027 - Repealed. Pub. L. 102–567, title VIII , § 814, Oct. 29
 usc_title: 16
 usc_section: "1027"
 chapter: 19
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "16 U.S.C. § 1027"
-generated_at: "2026-03-30T06:53:52.653Z"
+generated_at: "2026-03-30T06:55:59.237Z"
 status: "repealed"
 ---
 

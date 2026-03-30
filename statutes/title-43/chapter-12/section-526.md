@@ -3,9 +3,9 @@ title: "Section 526 - Credit of proceeds to particular project"
 usc_title: 43
 usc_section: "526"
 chapter: 12
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "43 U.S.C. § 526"
-generated_at: "2026-03-30T06:54:39.355Z"
+generated_at: "2026-03-30T06:56:41.115Z"
 status: "active"
 ---
 

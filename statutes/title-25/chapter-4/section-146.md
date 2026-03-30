@@ -3,9 +3,9 @@ title: "Section 146 - Report of Indians present and receiving food"
 usc_title: 25
 usc_section: "146"
 chapter: 4
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "25 U.S.C. § 146"
-generated_at: "2026-03-30T06:54:11.252Z"
+generated_at: "2026-03-30T06:56:07.428Z"
 status: "active"
 ---
 

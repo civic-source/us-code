@@ -3,9 +3,9 @@ title: "Section 2224 - Crediting authority for federally authorized navigation p
 usc_title: 33
 usc_section: "2224"
 chapter: 36
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 2224"
-generated_at: "2026-03-30T06:54:30.513Z"
+generated_at: "2026-03-30T06:56:26.166Z"
 status: "active"
 ---
 

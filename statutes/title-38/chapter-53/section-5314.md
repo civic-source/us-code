@@ -3,9 +3,9 @@ title: "Section 5314 - Indebtedness offsets"
 usc_title: 38
 usc_section: "5314"
 chapter: 53
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "38 U.S.C. § 5314"
-generated_at: "2026-03-30T06:54:36.641Z"
+generated_at: "2026-03-30T06:56:33.692Z"
 status: "active"
 ---
 

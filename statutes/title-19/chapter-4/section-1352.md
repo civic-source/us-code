@@ -3,9 +3,9 @@ title: "Section 1352 - Equalization of costs of production"
 usc_title: 19
 usc_section: "1352"
 chapter: 4
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "19 U.S.C. § 1352"
-generated_at: "2026-03-30T06:53:46.739Z"
+generated_at: "2026-03-30T06:55:54.802Z"
 status: "active"
 ---
 

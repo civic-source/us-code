@@ -3,9 +3,9 @@ title: "Section 1834a - Assessment credits for qualifying activities relating to
 usc_title: 12
 usc_section: "1834a"
 chapter: 16
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "12 U.S.C. § 1834a"
-generated_at: "2026-03-30T06:53:36.050Z"
+generated_at: "2026-03-30T06:55:43.070Z"
 status: "active"
 ---
 

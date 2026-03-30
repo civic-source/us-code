@@ -3,9 +3,9 @@ title: "Section 4032 - Additional duties on certain agricultural goods"
 usc_title: 19
 usc_section: "4032"
 chapter: 26
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "19 U.S.C. § 4032"
-generated_at: "2026-03-30T06:53:46.795Z"
+generated_at: "2026-03-30T06:55:54.859Z"
 status: "active"
 ---
 

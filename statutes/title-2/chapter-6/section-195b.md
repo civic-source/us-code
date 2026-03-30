@@ -3,9 +3,9 @@ title: "Section 195b - Fees for witnesses requested to appear before Majority Po
 usc_title: 2
 usc_section: "195b"
 chapter: 6
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "2 U.S.C. § 195b"
-generated_at: "2026-03-30T06:53:13.473Z"
+generated_at: "2026-03-30T06:55:19.795Z"
 status: "active"
 ---
 

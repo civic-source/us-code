@@ -3,9 +3,9 @@ title: "Section 2798 - Sanctions against certain foreign persons"
 usc_title: 22
 usc_section: "2798"
 chapter: 39
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 2798"
-generated_at: "2026-03-30T06:54:15.736Z"
+generated_at: "2026-03-30T06:56:09.933Z"
 status: "active"
 ---
 

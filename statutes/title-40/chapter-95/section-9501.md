@@ -3,9 +3,9 @@ title: "Section 9501 - Chief of Engineers"
 usc_title: 40
 usc_section: "9501"
 chapter: 95
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "40 U.S.C. § 9501"
-generated_at: "2026-03-30T06:54:34.214Z"
+generated_at: "2026-03-30T06:56:30.522Z"
 status: "active"
 ---
 

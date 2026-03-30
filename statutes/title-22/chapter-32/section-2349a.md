@@ -3,9 +3,9 @@ title: "Section 2349a - Authorization and utilization of funds"
 usc_title: 22
 usc_section: "2349a"
 chapter: 32
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 2349a"
-generated_at: "2026-03-30T06:54:15.713Z"
+generated_at: "2026-03-30T06:56:09.905Z"
 status: "active"
 ---
 

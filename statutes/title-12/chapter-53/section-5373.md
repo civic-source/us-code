@@ -3,9 +3,9 @@ title: "Section 5373 - International policy coordination"
 usc_title: 12
 usc_section: "5373"
 chapter: 53
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "12 U.S.C. § 5373"
-generated_at: "2026-03-30T06:53:36.108Z"
+generated_at: "2026-03-30T06:55:43.129Z"
 status: "active"
 ---
 

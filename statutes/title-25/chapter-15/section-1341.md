@@ -3,9 +3,9 @@ title: "Section 1341 - Authorization of Secretary"
 usc_title: 25
 usc_section: "1341"
 chapter: 15
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "25 U.S.C. § 1341"
-generated_at: "2026-03-30T06:54:11.266Z"
+generated_at: "2026-03-30T06:56:07.442Z"
 status: "active"
 ---
 

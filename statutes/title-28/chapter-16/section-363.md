@@ -3,9 +3,9 @@ title: "Section 363 - Court of Federal Claims, Court of International Trade, Cou
 usc_title: 28
 usc_section: "363"
 chapter: 16
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "28 U.S.C. § 363"
-generated_at: "2026-03-30T06:54:26.565Z"
+generated_at: "2026-03-30T06:56:17.915Z"
 status: "active"
 ---
 

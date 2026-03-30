@@ -3,9 +3,9 @@ title: "Section 921 - Regulations and presumptions"
 usc_title: 30
 usc_section: "921"
 chapter: 22
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "30 U.S.C. § 921"
-generated_at: "2026-03-30T06:54:18.103Z"
+generated_at: "2026-03-30T06:56:15.973Z"
 status: "active"
 ---
 

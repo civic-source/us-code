@@ -3,9 +3,9 @@ title: "Section 231l - Penalties"
 usc_title: 45
 usc_section: "231l"
 chapter: 9
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "45 U.S.C. § 231l"
-generated_at: "2026-03-30T06:54:38.839Z"
+generated_at: "2026-03-30T06:56:43.242Z"
 status: "active"
 ---
 

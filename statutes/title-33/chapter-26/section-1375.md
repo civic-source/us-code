@@ -3,9 +3,9 @@ title: "Section 1375 - Reports to Congress; detailed estimates and comprehensive
 usc_title: 33
 usc_section: "1375"
 chapter: 26
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 1375"
-generated_at: "2026-03-30T06:54:30.505Z"
+generated_at: "2026-03-30T06:56:26.158Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1906 - Disposal of surplus property"
 usc_title: 2
 usc_section: "1906"
 chapter: 29
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "2 U.S.C. § 1906"
-generated_at: "2026-03-30T06:53:13.497Z"
+generated_at: "2026-03-30T06:55:19.817Z"
 status: "active"
 ---
 

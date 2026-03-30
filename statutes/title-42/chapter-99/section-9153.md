@@ -3,9 +3,9 @@ title: "Section 9153 - Enforcement"
 usc_title: 42
 usc_section: "9153"
 chapter: 99
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 9153"
-generated_at: "2026-03-30T06:54:49.581Z"
+generated_at: "2026-03-30T06:56:51.335Z"
 status: "active"
 ---
 

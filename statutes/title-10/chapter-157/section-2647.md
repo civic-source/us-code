@@ -3,9 +3,9 @@ title: "Section 2647 - Next-of-kin of persons unaccounted for from conflicts aft
 usc_title: 10
 usc_section: "2647"
 chapter: 157
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 2647"
-generated_at: "2026-03-30T06:53:29.861Z"
+generated_at: "2026-03-30T06:55:28.000Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1151 - Indian country defined"
 usc_title: 18
 usc_section: "1151"
 chapter: 53
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "18 U.S.C. § 1151"
-generated_at: "2026-03-30T06:54:03.084Z"
+generated_at: "2026-03-30T06:56:04.421Z"
 status: "active"
 ---
 

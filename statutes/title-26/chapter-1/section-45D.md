@@ -3,9 +3,9 @@ title: "Section 45D - New markets tax credit"
 usc_title: 26
 usc_section: "45D"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 45D"
-generated_at: "2026-03-30T06:54:25.652Z"
+generated_at: "2026-03-30T06:56:22.921Z"
 status: "active"
 ---
 

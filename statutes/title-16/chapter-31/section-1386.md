@@ -3,9 +3,9 @@ title: "Section 1386 - Stock assessments"
 usc_title: 16
 usc_section: "1386"
 chapter: 31
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "16 U.S.C. § 1386"
-generated_at: "2026-03-30T06:53:52.667Z"
+generated_at: "2026-03-30T06:55:59.251Z"
 status: "active"
 ---
 

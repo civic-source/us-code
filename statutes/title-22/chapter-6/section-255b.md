@@ -3,9 +3,9 @@ title: "Section 255b - Omitted"
 usc_title: 22
 usc_section: "255b"
 chapter: 6
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 255b"
-generated_at: "2026-03-30T06:54:15.665Z"
+generated_at: "2026-03-30T06:56:09.846Z"
 status: "omitted"
 ---
 

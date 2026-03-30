@@ -3,9 +3,9 @@ title: "Section 4360a - Authorization of appropriations"
 usc_title: 20
 usc_section: "4360a"
 chapter: 55
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "20 U.S.C. § 4360a"
-generated_at: "2026-03-30T06:53:49.546Z"
+generated_at: "2026-03-30T06:56:03.517Z"
 status: "active"
 ---
 

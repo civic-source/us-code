@@ -3,9 +3,9 @@ title: "Section 218 - Addition of land"
 usc_title: 16
 usc_section: "218"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "16 U.S.C. § 218"
-generated_at: "2026-03-30T06:53:52.476Z"
+generated_at: "2026-03-30T06:55:59.105Z"
 status: "active"
 ---
 

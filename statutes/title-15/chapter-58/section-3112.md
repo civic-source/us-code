@@ -3,9 +3,9 @@ title: "Section 3112 - Countercyclical employment policies"
 usc_title: 15
 usc_section: "3112"
 chapter: 58
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "15 U.S.C. § 3112"
-generated_at: "2026-03-30T06:53:43.016Z"
+generated_at: "2026-03-30T06:55:50.317Z"
 status: "active"
 ---
 

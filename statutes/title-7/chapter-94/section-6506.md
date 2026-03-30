@@ -3,9 +3,9 @@ title: "Section 6506 - General requirements"
 usc_title: 7
 usc_section: "6506"
 chapter: 94
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 6506"
-generated_at: "2026-03-30T06:53:26.353Z"
+generated_at: "2026-03-30T06:55:34.071Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5604 - Preservation of traditional markets"
 usc_title: 7
 usc_section: "5604"
 chapter: 87
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 5604"
-generated_at: "2026-03-30T06:53:26.342Z"
+generated_at: "2026-03-30T06:55:34.060Z"
 status: "active"
 ---
 

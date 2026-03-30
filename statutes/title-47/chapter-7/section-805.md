@@ -3,9 +3,9 @@ title: "Section 805 - Repealed. Pub. L. 93–443, title II , § 205(b), Oct. 15,
 usc_title: 47
 usc_section: "805"
 chapter: 7
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "47 U.S.C. § 805"
-generated_at: "2026-03-30T06:54:57.102Z"
+generated_at: "2026-03-30T06:56:55.072Z"
 status: "repealed"
 ---
 

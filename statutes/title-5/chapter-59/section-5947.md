@@ -3,9 +3,9 @@ title: "Section 5947 - Quarters, subsistence, and allowances for employees of th
 usc_title: 5
 usc_section: "5947"
 chapter: 59
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "5 U.S.C. § 5947"
-generated_at: "2026-03-30T06:53:15.205Z"
+generated_at: "2026-03-30T06:55:12.167Z"
 status: "active"
 ---
 

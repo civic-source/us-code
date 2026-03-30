@@ -3,9 +3,9 @@ title: "Section 2771 - Military sales authorizations and ceilings"
 usc_title: 22
 usc_section: "2771"
 chapter: 39
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 2771"
-generated_at: "2026-03-30T06:54:15.733Z"
+generated_at: "2026-03-30T06:56:09.930Z"
 status: "active"
 ---
 

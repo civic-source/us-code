@@ -3,9 +3,9 @@ title: "Section 491 - Establishment and development of land-based air warning an
 usc_title: 50
 usc_section: "491"
 chapter: 18
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "50 U.S.C. § 491"
-generated_at: "2026-03-30T06:54:54.014Z"
+generated_at: "2026-03-30T06:56:56.549Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1715k - Rehabilitation and neighborhood conservation housing ins
 usc_title: 12
 usc_section: "1715k"
 chapter: 13
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "12 U.S.C. § 1715k"
-generated_at: "2026-03-30T06:53:36.007Z"
+generated_at: "2026-03-30T06:55:43.027Z"
 status: "active"
 ---
 

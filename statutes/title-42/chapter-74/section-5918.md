@@ -3,9 +3,9 @@ title: "Section 5918 - Repealed. Pub. L. 104–106, div. D, title XLIII , § 430
 usc_title: 42
 usc_section: "5918"
 chapter: 74
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 5918"
-generated_at: "2026-03-30T06:54:49.489Z"
+generated_at: "2026-03-30T06:56:51.245Z"
 status: "repealed"
 ---
 

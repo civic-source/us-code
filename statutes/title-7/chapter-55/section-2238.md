@@ -3,9 +3,9 @@ title: "Section 2238 - Use of field work funds for purchase of arms and ammuniti
 usc_title: 7
 usc_section: "2238"
 chapter: 55
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 2238"
-generated_at: "2026-03-30T06:53:26.319Z"
+generated_at: "2026-03-30T06:55:34.036Z"
 status: "active"
 ---
 

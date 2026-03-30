@@ -3,9 +3,9 @@ title: "Section 1654 - Contracts and grants for determination of unmet health ca
 usc_title: 25
 usc_section: "1654"
 chapter: 18
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "25 U.S.C. § 1654"
-generated_at: "2026-03-30T06:54:11.274Z"
+generated_at: "2026-03-30T06:56:07.450Z"
 status: "active"
 ---
 

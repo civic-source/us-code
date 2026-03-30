@@ -3,9 +3,9 @@ title: "Section 177 - Disbarment of removed judges"
 usc_title: 28
 usc_section: "177"
 chapter: 7
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "28 U.S.C. § 177"
-generated_at: "2026-03-30T06:54:26.563Z"
+generated_at: "2026-03-30T06:56:17.914Z"
 status: "active"
 ---
 

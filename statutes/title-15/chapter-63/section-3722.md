@@ -3,9 +3,9 @@ title: "Section 3722 - Regional innovation program"
 usc_title: 15
 usc_section: "3722"
 chapter: 63
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "15 U.S.C. § 3722"
-generated_at: "2026-03-30T06:53:43.023Z"
+generated_at: "2026-03-30T06:55:50.325Z"
 status: "active"
 ---
 

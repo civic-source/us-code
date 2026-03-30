@@ -3,9 +3,9 @@ title: "Section 1315 - Repealed. Pub. L. 94–455, title XIX , § 1901(a)(143), 
 usc_title: 26
 usc_section: "1315"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 1315"
-generated_at: "2026-03-30T06:54:25.782Z"
+generated_at: "2026-03-30T06:56:23.051Z"
 status: "repealed"
 ---
 

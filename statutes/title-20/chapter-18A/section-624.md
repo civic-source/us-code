@@ -3,9 +3,9 @@ title: "Section 624 - Repealed. Pub. L. 91–230, title VI , § 662(5), Apr. 13,
 usc_title: 20
 usc_section: "624"
 chapter: 18
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "20 U.S.C. § 624"
-generated_at: "2026-03-30T06:53:49.462Z"
+generated_at: "2026-03-30T06:56:03.384Z"
 status: "repealed"
 ---
 

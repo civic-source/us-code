@@ -3,9 +3,9 @@ title: "Section 445 - Travel on vessels of belligerent states"
 usc_title: 22
 usc_section: "445"
 chapter: 9
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 445"
-generated_at: "2026-03-30T06:54:15.685Z"
+generated_at: "2026-03-30T06:56:09.871Z"
 status: "active"
 ---
 

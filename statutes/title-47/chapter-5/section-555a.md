@@ -3,9 +3,9 @@ title: "Section 555a - Limitation of franchising authority liability"
 usc_title: 47
 usc_section: "555a"
 chapter: 5
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "47 U.S.C. § 555a"
-generated_at: "2026-03-30T06:54:57.098Z"
+generated_at: "2026-03-30T06:56:55.068Z"
 status: "active"
 ---
 

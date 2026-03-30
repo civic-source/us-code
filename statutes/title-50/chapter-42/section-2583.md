@@ -3,9 +3,9 @@ title: "Section 2583 - Integrated fissile materials management plan"
 usc_title: 50
 usc_section: "2583"
 chapter: 42
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "50 U.S.C. § 2583"
-generated_at: "2026-03-30T06:54:54.037Z"
+generated_at: "2026-03-30T06:56:56.573Z"
 status: "active"
 ---
 

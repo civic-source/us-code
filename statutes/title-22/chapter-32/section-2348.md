@@ -3,9 +3,9 @@ title: "Section 2348 - General authorization"
 usc_title: 22
 usc_section: "2348"
 chapter: 32
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 2348"
-generated_at: "2026-03-30T06:54:15.713Z"
+generated_at: "2026-03-30T06:56:09.904Z"
 status: "active"
 ---
 

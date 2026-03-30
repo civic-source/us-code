@@ -3,9 +3,9 @@ title: "Section 16452 - Federal access to books and records"
 usc_title: 42
 usc_section: "16452"
 chapter: 149
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 16452"
-generated_at: "2026-03-30T06:54:49.687Z"
+generated_at: "2026-03-30T06:56:51.440Z"
 status: "active"
 ---
 

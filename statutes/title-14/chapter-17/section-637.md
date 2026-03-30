@@ -3,9 +3,9 @@ title: "Section 637 - Stopping vessels; indemnity for firing at or into vessel"
 usc_title: 14
 usc_section: "637"
 chapter: 17
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "14 U.S.C. § 637"
-generated_at: "2026-03-30T06:53:32.024Z"
+generated_at: "2026-03-30T06:55:37.240Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2010 - Uniform direct funding and support"
 usc_title: 25
 usc_section: "2010"
 chapter: 22
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "25 U.S.C. § 2010"
-generated_at: "2026-03-30T06:54:11.283Z"
+generated_at: "2026-03-30T06:56:07.459Z"
 status: "active"
 ---
 

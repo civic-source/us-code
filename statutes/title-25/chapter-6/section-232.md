@@ -3,9 +3,9 @@ title: "Section 232 - Jurisdiction of New York State over offenses committed on 
 usc_title: 25
 usc_section: "232"
 chapter: 6
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "25 U.S.C. § 232"
-generated_at: "2026-03-30T06:54:11.253Z"
+generated_at: "2026-03-30T06:56:07.429Z"
 status: "active"
 ---
 

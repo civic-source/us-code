@@ -3,9 +3,9 @@ title: "Section 12573 - Types of national service positions eligible for approva
 usc_title: 42
 usc_section: "12573"
 chapter: 129
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 12573"
-generated_at: "2026-03-30T06:54:49.637Z"
+generated_at: "2026-03-30T06:56:51.390Z"
 status: "active"
 ---
 

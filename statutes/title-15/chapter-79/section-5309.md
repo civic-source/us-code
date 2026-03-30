@@ -3,9 +3,9 @@ title: "Section 5309 - Omitted"
 usc_title: 15
 usc_section: "5309"
 chapter: 79
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "15 U.S.C. § 5309"
-generated_at: "2026-03-30T06:53:43.030Z"
+generated_at: "2026-03-30T06:55:50.333Z"
 status: "omitted"
 ---
 

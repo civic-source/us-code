@@ -3,9 +3,9 @@ title: "Section 2204h - Local food production and program evaluation"
 usc_title: 7
 usc_section: "2204h"
 chapter: 55
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 2204h"
-generated_at: "2026-03-30T06:53:26.318Z"
+generated_at: "2026-03-30T06:55:34.034Z"
 status: "active"
 ---
 

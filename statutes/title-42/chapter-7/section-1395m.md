@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T06:54:49.259Z"
+generated_at: "2026-03-30T06:56:51.017Z"
 status: "active"
 ---
 
@@ -713,3 +713,32 @@ status: "active"
     - **(A)** shall include in the notice described in section 1395b–2(a) of this title a notification of the availability of the estimated amounts made available under paragraph (1); and
     - **(B)** may utilize mechanisms in existence on December 13, 2016 , such as the portion of the Internet website of the Centers for Medicare & Medicaid Services on which information comparing physician performance is posted (commonly referred to as the Physician Compare Internet website), to make available such estimated amounts under such paragraph.
   - **(4)** For purposes of implementing this subsection, the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title to the Centers for Medicare & Medicaid Services Program Management Account, of $6,000,000 for fiscal year 2017, to remain available until expended.
+- **(u)**
+  - **(1)**
+    - **(A)**
+      - **(i)** Subject to clause (iii) and subparagraphs (B) and (C), the Secretary shall implement a payment system under which a single payment is made under this subchapter to a qualified home infusion therapy supplier for items and services described in subparagraphs (A) and (B) of section 1395x(iii)(2)) 6 6 So in original. The second closing parenthesis probably should not appear. of this title furnished by a qualified home infusion therapy supplier (as defined in section 1395x(iii)(3)(D) of this title ) in coordination with the furnishing of home infusion drugs (as defined in section 1395x(iii)(3)(C) of this title ) under this part.
+      - **(ii)** A unit of single payment under the payment system implemented under this subparagraph is for each infusion drug administration calendar day in the individual’s home. The Secretary shall, as appropriate, establish single payment amounts for types of infusion therapy, including to take into account variation in utilization of nursing services by therapy type.
+      - **(iii)** The single payment amount determined under this subparagraph after application of subparagraph (B) and paragraph (3) shall not exceed the amount determined under the fee schedule under section 1395w–4 of this title for infusion therapy services furnished in a calendar day if furnished in a physician office setting, except such single payment shall not reflect more than 5 hours of infusion for a particular therapy in a calendar day.
+    - **(B)** The Secretary shall adjust the single payment amount determined under subparagraph (A) for home infusion therapy services under section 1395x(iii)(1) of this title to reflect other factors such as—
+      - **(i)** a geographic wage index and other costs that may vary by region; and
+      - **(ii)** patient acuity and complexity of drug administration.
+    - **(C)**
+      - **(i)** Subject to clause (ii), the Secretary may adjust the single payment amount determined under subparagraph (A) (after application of subparagraph (B)) to reflect outlier situations and other factors as the Secretary determines appropriate.
+      - **(ii)** Any adjustment under this subparagraph shall be made in a budget neutral manner.
+  - **(2)** In developing the payment system under this subsection, the Secretary may consider the costs of furnishing infusion therapy in the home, consult with home infusion therapy suppliers, consider payment amounts for similar items and services under this part and part A, and consider payment amounts established by Medicare Advantage plans under part C and in the private insurance market for home infusion therapy (including average per treatment day payment amounts by type of home infusion therapy).
+  - **(3)**
+    - **(A)** Subject to subparagraph (B), the Secretary shall update the single payment amount under this subsection from year to year beginning in 2022 by increasing the single payment amount from the prior year by the percentage increase in the Consumer Price Index for all urban consumers (United States city average) for the 12-month period ending with June of the preceding year.
+    - **(B)** For each year, the Secretary shall reduce the percentage increase described in subparagraph (A) by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title . The application of the preceding sentence may result in a percentage being less than 0.0 for a year, and may result in payment being less than such payment rates for the preceding year.
+  - **(4)** The Secretary may, as determined appropriate by the Secretary, apply prior authorization for home infusion therapy services under section 1395x(iii)(1) of this title .
+  - **(5)**
+    - **(A)** The Secretary shall consider the following factors in designating accreditation organizations under subparagraph (B) and in reviewing and modifying the list of accreditation organizations designated pursuant to subparagraph (C):
+      - **(i)** The ability of the organization to conduct timely reviews of accreditation applications.
+      - **(ii)** The ability of the organization to take into account the capacities of suppliers located in a rural area (as defined in section 1395ww(d)(2)(D) of this title ).
+      - **(iii)** Whether the organization has established reasonable fees to be charged to suppliers applying for accreditation.
+      - **(iv)** Such other factors as the Secretary determines appropriate.
+    - **(B)** Not later than January 1, 2021 , the Secretary shall designate organizations to accredit suppliers furnishing home infusion therapy. The list of accreditation organizations so designated may be modified pursuant to subparagraph (C).
+    - **(C)**
+      - **(i)** The Secretary shall review the list of accreditation organizations designated under subparagraph (B) taking into account the factors under subparagraph (A). Taking into account the results of such review, the Secretary may, by regulation, modify the list of accreditation organizations designated under subparagraph (B).
+      - **(ii)** In the case where the Secretary removes an organization from the list of accreditation organizations designated under subparagraph (B), any supplier that is accredited by the organization during the period beginning on the date on which the organization is designated as an accreditation organization under subparagraph (B) and ending on the date on which the organization is removed from such list shall be considered to have been accredited by an organization designated by the Secretary under subparagraph (B) for the remaining period such accreditation is in effect.
+    - **(D)** In the case of a supplier that is accredited before January 1, 2021 , by an accreditation organization designated by the Secretary under subparagraph (B) as of January 1, 2019 , such supplier shall be considered to have been accredited by an organization designated by the Secretary under such paragraph as of January 1, 2023 , for the remaining period such accreditation is in effect.
+  - **(6)** Prior to the furnishing of home infusion therapy to an individual, the physician who establishes the plan described in section 1395x(iii)(1) of this title for the individual shall provide notification (in a form, manner, and frequency determined appropriate by the Secretary) of the options available (such as home, physician’s office, hospital outpatient department) for the furnishing of infusion therapy under this part.

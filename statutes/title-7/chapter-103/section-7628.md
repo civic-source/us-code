@@ -3,9 +3,9 @@ title: "Section 7628 - Support for research regarding diseases of wheat, tritica
 usc_title: 7
 usc_section: "7628"
 chapter: 103
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 7628"
-generated_at: "2026-03-30T06:53:26.371Z"
+generated_at: "2026-03-30T06:55:34.089Z"
 status: "active"
 ---
 

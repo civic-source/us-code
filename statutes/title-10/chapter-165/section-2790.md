@@ -3,9 +3,9 @@ title: "Section 2790 - Recovery of improperly disposed of Department of Defense 
 usc_title: 10
 usc_section: "2790"
 chapter: 165
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 2790"
-generated_at: "2026-03-30T06:53:29.867Z"
+generated_at: "2026-03-30T06:55:28.006Z"
 status: "active"
 ---
 

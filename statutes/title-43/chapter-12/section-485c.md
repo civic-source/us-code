@@ -3,9 +3,9 @@ title: "Section 485c - Repealed. Pub. L. 85–611 , § 3, Aug. 8, 1958 , 72 Stat
 usc_title: 43
 usc_section: "485c"
 chapter: 12
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "43 U.S.C. § 485c"
-generated_at: "2026-03-30T06:54:39.353Z"
+generated_at: "2026-03-30T06:56:41.113Z"
 status: "repealed"
 ---
 

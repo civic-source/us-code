@@ -3,9 +3,9 @@ title: "Section 1307 - Conversion or dismissal"
 usc_title: 11
 usc_section: "1307"
 chapter: 13
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "11 U.S.C. § 1307"
-generated_at: "2026-03-30T06:53:36.422Z"
+generated_at: "2026-03-30T06:55:36.511Z"
 status: "active"
 ---
 

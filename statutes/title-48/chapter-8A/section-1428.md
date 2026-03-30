@@ -3,9 +3,9 @@ title: "Section 1428 - Authorization of appropriations"
 usc_title: 48
 usc_section: "1428"
 chapter: 8
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "48 U.S.C. § 1428"
-generated_at: "2026-03-30T06:54:53.047Z"
+generated_at: "2026-03-30T06:57:13.315Z"
 status: "active"
 ---
 

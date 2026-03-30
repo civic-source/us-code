@@ -3,9 +3,9 @@ title: "Section 21507 - Nonapplication of audit requirements"
 usc_title: 36
 usc_section: "21507"
 chapter: 215
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "36 U.S.C. § 21507"
-generated_at: "2026-03-30T06:54:33.194Z"
+generated_at: "2026-03-30T06:56:31.314Z"
 status: "active"
 ---
 

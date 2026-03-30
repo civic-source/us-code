@@ -3,9 +3,9 @@ title: "Section 4102 - Criteria for land management and use"
 usc_title: 42
 usc_section: "4102"
 chapter: 50
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 4102"
-generated_at: "2026-03-30T06:54:49.456Z"
+generated_at: "2026-03-30T06:56:51.212Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 358 - Repeal of statutory provisions relating to survey, classif
 usc_title: 25
 usc_section: "358"
 chapter: 9
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "25 U.S.C. § 358"
-generated_at: "2026-03-30T06:54:11.256Z"
+generated_at: "2026-03-30T06:56:07.433Z"
 status: "active"
 ---
 

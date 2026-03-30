@@ -3,9 +3,9 @@ title: "Section 4406 - Authorization of appropriations"
 usc_title: 7
 usc_section: "4406"
 chapter: 75
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 4406"
-generated_at: "2026-03-30T06:53:26.336Z"
+generated_at: "2026-03-30T06:55:34.054Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 274 - Employee discipline"
 usc_title: 6
 usc_section: "274"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "6 U.S.C. § 274"
-generated_at: "2026-03-30T06:53:26.785Z"
+generated_at: "2026-03-30T06:55:21.873Z"
 status: "active"
 ---
 

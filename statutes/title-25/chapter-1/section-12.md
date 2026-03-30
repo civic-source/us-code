@@ -3,9 +3,9 @@ title: "Section 12 - Agent to negotiate commutation of annuities"
 usc_title: 25
 usc_section: "12"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "25 U.S.C. § 12"
-generated_at: "2026-03-30T06:54:11.250Z"
+generated_at: "2026-03-30T06:56:07.426Z"
 status: "active"
 ---
 

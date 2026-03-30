@@ -3,9 +3,9 @@ title: "Section 2a - Hospital insurance benefits for disabled individuals who ha
 usc_title: 42
 usc_section: "2a"
 chapter: 7
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-30T06:54:49.253Z"
+generated_at: "2026-03-30T06:56:51.010Z"
 status: "active"
 ---
 

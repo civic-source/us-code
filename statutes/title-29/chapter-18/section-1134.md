@@ -3,9 +3,9 @@ title: "Section 1134 - Investigative authority"
 usc_title: 29
 usc_section: "1134"
 chapter: 18
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "29 U.S.C. § 1134"
-generated_at: "2026-03-30T06:54:21.465Z"
+generated_at: "2026-03-30T06:56:17.068Z"
 status: "active"
 ---
 

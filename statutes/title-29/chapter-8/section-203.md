@@ -3,9 +3,9 @@ title: "Section 203 - Definitions"
 usc_title: 29
 usc_section: "203"
 chapter: 8
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "29 U.S.C. § 203"
-generated_at: "2026-03-30T06:54:21.433Z"
+generated_at: "2026-03-30T06:56:17.036Z"
 status: "active"
 ---
 

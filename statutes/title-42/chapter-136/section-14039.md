@@ -3,9 +3,9 @@ title: "Section 14039 - Transferred"
 usc_title: 42
 usc_section: "14039"
 chapter: 136
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 14039"
-generated_at: "2026-03-30T06:54:49.664Z"
+generated_at: "2026-03-30T06:56:51.418Z"
 status: "transferred"
 ---
 

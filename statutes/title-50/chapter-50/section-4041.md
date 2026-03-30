@@ -3,9 +3,9 @@ title: "Section 4041 - Enforcement by the Attorney General"
 usc_title: 50
 usc_section: "4041"
 chapter: 50
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "50 U.S.C. § 4041"
-generated_at: "2026-03-30T06:54:54.063Z"
+generated_at: "2026-03-30T06:56:56.598Z"
 status: "active"
 ---
 

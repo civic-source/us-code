@@ -3,9 +3,9 @@ title: "Section 194 - Enforcement provisions"
 usc_title: 50
 usc_section: "194"
 chapter: 12
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "50 U.S.C. § 194"
-generated_at: "2026-03-30T06:54:54.013Z"
+generated_at: "2026-03-30T06:56:56.548Z"
 status: "active"
 ---
 

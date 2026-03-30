@@ -3,9 +3,9 @@ title: "Section 11322 - Limitation on pooling and division of transportation or 
 usc_title: 49
 usc_section: "11322"
 chapter: 113
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "49 U.S.C. § 11322"
-generated_at: "2026-03-30T06:54:56.291Z"
+generated_at: "2026-03-30T06:56:58.419Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3242 - Prompt allocation of funds"
 usc_title: 29
 usc_section: "3242"
 chapter: 32
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "29 U.S.C. § 3242"
-generated_at: "2026-03-30T06:54:21.495Z"
+generated_at: "2026-03-30T06:56:17.098Z"
 status: "active"
 ---
 

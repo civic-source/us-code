@@ -3,9 +3,9 @@ title: "Section 728 - Reports to Congress"
 usc_title: 45
 usc_section: "728"
 chapter: 16
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "45 U.S.C. § 728"
-generated_at: "2026-03-30T06:54:38.847Z"
+generated_at: "2026-03-30T06:56:43.249Z"
 status: "active"
 ---
 

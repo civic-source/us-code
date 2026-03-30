@@ -3,9 +3,9 @@ title: "Section 1400Q - Special rules for use of retirement funds"
 usc_title: 26
 usc_section: "1400Q"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 1400Q"
-generated_at: "2026-03-30T06:54:25.790Z"
+generated_at: "2026-03-30T06:56:23.059Z"
 status: "active"
 ---
 

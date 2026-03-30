@@ -3,9 +3,9 @@ title: "Section 4228 - Affordable housing activities"
 usc_title: 25
 usc_section: "4228"
 chapter: 43
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "25 U.S.C. § 4228"
-generated_at: "2026-03-30T06:54:11.306Z"
+generated_at: "2026-03-30T06:56:07.481Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1799 - Child care services and youth program services for depend
 usc_title: 10
 usc_section: "1799"
 chapter: 88
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 1799"
-generated_at: "2026-03-30T06:53:29.830Z"
+generated_at: "2026-03-30T06:55:27.968Z"
 status: "active"
 ---
 

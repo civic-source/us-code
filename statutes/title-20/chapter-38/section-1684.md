@@ -3,9 +3,9 @@ title: "Section 1684 - Blindness or visual impairment; prohibition against discr
 usc_title: 20
 usc_section: "1684"
 chapter: 38
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "20 U.S.C. § 1684"
-generated_at: "2026-03-30T06:53:49.534Z"
+generated_at: "2026-03-30T06:56:03.504Z"
 status: "active"
 ---
 

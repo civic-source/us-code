@@ -3,9 +3,9 @@ title: "Section 3082 - Renumbered § 10542]"
 usc_title: 10
 usc_section: "3082"
 chapter: 307
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 3082"
-generated_at: "2026-03-30T06:53:29.873Z"
+generated_at: "2026-03-30T06:55:28.012Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7257 - Authority to assist in establishment and maintenance of o
 usc_title: 7
 usc_section: "7257"
 chapter: 100
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 7257"
-generated_at: "2026-03-30T06:53:26.363Z"
+generated_at: "2026-03-30T06:55:34.081Z"
 status: "active"
 ---
 

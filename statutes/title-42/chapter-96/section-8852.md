@@ -3,9 +3,9 @@ title: "Section 8852 - Coordination of research and extension activities; consul
 usc_title: 42
 usc_section: "8852"
 chapter: 96
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 8852"
-generated_at: "2026-03-30T06:54:49.579Z"
+generated_at: "2026-03-30T06:56:51.332Z"
 status: "active"
 ---
 

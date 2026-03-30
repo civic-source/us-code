@@ -3,9 +3,9 @@ title: "Section 70507 - Technology development"
 usc_title: 51
 usc_section: "70507"
 chapter: 705
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "51 U.S.C. § 70507"
-generated_at: "2026-03-30T06:54:59.341Z"
+generated_at: "2026-03-30T06:57:16.457Z"
 status: "active"
 ---
 

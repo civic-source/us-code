@@ -3,9 +3,9 @@ title: "Section 4102a - Repealed. Pub. L. 112–141, div. F, title II , § 10022
 usc_title: 42
 usc_section: "4102a"
 chapter: 50
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 4102a"
-generated_at: "2026-03-30T06:54:49.456Z"
+generated_at: "2026-03-30T06:56:51.212Z"
 status: "repealed"
 ---
 

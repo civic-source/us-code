@@ -3,9 +3,9 @@ title: "Section 200 - Policy and objective"
 usc_title: 35
 usc_section: "200"
 chapter: 18
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "35 U.S.C. § 200"
-generated_at: "2026-03-30T06:54:28.405Z"
+generated_at: "2026-03-30T06:56:24.949Z"
 status: "active"
 ---
 

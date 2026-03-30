@@ -3,9 +3,9 @@ title: "Section 2734c - Employee assignment restrictions"
 usc_title: 22
 usc_section: "2734c"
 chapter: 38
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 2734c"
-generated_at: "2026-03-30T06:54:15.731Z"
+generated_at: "2026-03-30T06:56:09.928Z"
 status: "active"
 ---
 

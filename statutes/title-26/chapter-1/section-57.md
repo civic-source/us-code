@@ -3,9 +3,9 @@ title: "Section 57 - Items of tax preference"
 usc_title: 26
 usc_section: "57"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 57"
-generated_at: "2026-03-30T06:54:25.660Z"
+generated_at: "2026-03-30T06:56:22.930Z"
 status: "active"
 ---
 

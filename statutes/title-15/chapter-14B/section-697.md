@@ -3,9 +3,9 @@ title: "Section 697 - Development company debentures"
 usc_title: 15
 usc_section: "697"
 chapter: 14
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "15 U.S.C. § 697"
-generated_at: "2026-03-30T06:53:42.954Z"
+generated_at: "2026-03-30T06:55:50.210Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 606 - Duties of Deputy Director"
 usc_title: 28
 usc_section: "606"
 chapter: 41
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "28 U.S.C. § 606"
-generated_at: "2026-03-30T06:54:26.571Z"
+generated_at: "2026-03-30T06:56:17.922Z"
 status: "active"
 ---
 

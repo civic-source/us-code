@@ -3,9 +3,9 @@ title: "Section 3458 - Limitation on assistance"
 usc_title: 16
 usc_section: "3458"
 chapter: 54
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "16 U.S.C. § 3458"
-generated_at: "2026-03-30T06:53:52.700Z"
+generated_at: "2026-03-30T06:55:59.287Z"
 status: "active"
 ---
 

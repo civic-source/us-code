@@ -3,9 +3,9 @@ title: "Section 121 - Discontinuance of land offices by President"
 usc_title: 43
 usc_section: "121"
 chapter: 5
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "43 U.S.C. § 121"
-generated_at: "2026-03-30T06:54:39.340Z"
+generated_at: "2026-03-30T06:56:41.100Z"
 status: "active"
 ---
 

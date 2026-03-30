@@ -3,9 +3,9 @@ title: "Section 30172 - Whistleblower incentives and protections"
 usc_title: 49
 usc_section: "30172"
 chapter: 301
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "49 U.S.C. § 30172"
-generated_at: "2026-03-30T06:54:56.313Z"
+generated_at: "2026-03-30T06:56:58.441Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 506 - Regular components: extension of enlistments during war"
 usc_title: 10
 usc_section: "506"
 chapter: 31
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 506"
-generated_at: "2026-03-30T06:53:29.785Z"
+generated_at: "2026-03-30T06:55:27.921Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3144 - Authority to pay wages and list contractors violating con
 usc_title: 40
 usc_section: "3144"
 chapter: 31
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "40 U.S.C. § 3144"
-generated_at: "2026-03-30T06:54:34.208Z"
+generated_at: "2026-03-30T06:56:30.516Z"
 status: "active"
 ---
 

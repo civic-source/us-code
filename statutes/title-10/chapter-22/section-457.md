@@ -3,9 +3,9 @@ title: "Section 457 - Operational files previously maintained by or concerning a
 usc_title: 10
 usc_section: "457"
 chapter: 22
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 457"
-generated_at: "2026-03-30T06:53:29.784Z"
+generated_at: "2026-03-30T06:55:27.919Z"
 status: "active"
 ---
 

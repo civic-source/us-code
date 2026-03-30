@@ -3,9 +3,9 @@ title: "Section 2660 - Copies of treaties furnished to Director of the Governmen
 usc_title: 22
 usc_section: "2660"
 chapter: 38
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 2660"
-generated_at: "2026-03-30T06:54:15.727Z"
+generated_at: "2026-03-30T06:56:09.922Z"
 status: "active"
 ---
 

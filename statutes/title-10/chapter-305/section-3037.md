@@ -3,9 +3,9 @@ title: "Section 3037 - Judge Advocate General, Deputy Judge Advocate General, an
 usc_title: 10
 usc_section: "3037"
 chapter: 305
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 3037"
-generated_at: "2026-03-30T06:53:29.873Z"
+generated_at: "2026-03-30T06:55:28.012Z"
 status: "active"
 ---
 

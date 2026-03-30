@@ -3,9 +3,9 @@ title: "Section 3121 - Workforce development areas"
 usc_title: 29
 usc_section: "3121"
 chapter: 32
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "29 U.S.C. § 3121"
-generated_at: "2026-03-30T06:54:21.487Z"
+generated_at: "2026-03-30T06:56:17.089Z"
 status: "active"
 ---
 

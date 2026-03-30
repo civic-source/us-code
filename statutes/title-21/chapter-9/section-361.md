@@ -3,9 +3,9 @@ title: "Section 361 - Adulterated cosmetics"
 usc_title: 21
 usc_section: "361"
 chapter: 9
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "21 U.S.C. § 361"
-generated_at: "2026-03-30T06:54:06.632Z"
+generated_at: "2026-03-30T06:56:12.992Z"
 status: "active"
 ---
 

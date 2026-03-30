@@ -3,9 +3,9 @@ title: "Section 1359 - Omitted"
 usc_title: 22
 usc_section: "1359"
 chapter: 15
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 1359"
-generated_at: "2026-03-30T06:54:15.688Z"
+generated_at: "2026-03-30T06:56:09.874Z"
 status: "omitted"
 ---
 

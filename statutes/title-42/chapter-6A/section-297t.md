@@ -3,9 +3,9 @@ title: "Section 297t - National Advisory Council on Nurse Education and Practice
 usc_title: 42
 usc_section: "297t"
 chapter: 6
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 297t"
-generated_at: "2026-03-30T06:54:49.135Z"
+generated_at: "2026-03-30T06:56:50.895Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 579c - Backlog prevention: projects from Public Law 113–121"
 usc_title: 33
 usc_section: "579c"
 chapter: 12
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 579c"
-generated_at: "2026-03-30T06:54:30.470Z"
+generated_at: "2026-03-30T06:56:26.127Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 152402 - Purposes"
 usc_title: 36
 usc_section: "152402"
 chapter: 1524
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "36 U.S.C. § 152402"
-generated_at: "2026-03-30T06:54:33.205Z"
+generated_at: "2026-03-30T06:56:31.325Z"
 status: "active"
 ---
 

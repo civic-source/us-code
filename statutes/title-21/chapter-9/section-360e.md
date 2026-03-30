@@ -3,9 +3,9 @@ title: "Section 360e - Premarket approval"
 usc_title: 21
 usc_section: "360e"
 chapter: 9
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "21 U.S.C. § 360e"
-generated_at: "2026-03-30T06:54:06.621Z"
+generated_at: "2026-03-30T06:56:12.980Z"
 status: "active"
 ---
 
@@ -132,7 +132,7 @@ status: "active"
     - **(A)** stating (i) his determination that the requirements of the protocol have been fulfilled and that, to the best of his knowledge, there is no reason bearing on safety or effectiveness why the notice of completion should not become effective, and (ii) the data and other information upon which such determination was made, and
     - **(B)** setting forth the results of the trials required by the protocol and all the information required by subsection (c)(1).
   - **(6)**
-    - **(A)** The Secretary may, after providing the person who has an approved protocol and opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
+    - **(A)** The Secretary may, after providing the person who has an approved protocol an opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
       - **(i)** such person has failed substantially to comply with the requirements of the protocol,
       - **(ii)** the results of the trials obtained under the protocol differ so substantially from the results required by the protocol that further trials cannot be justified, or
       - **(iii)** the results of the trials conducted under the protocol or available new information do not demonstrate that the device tested under the protocol does not present an unreasonable risk to health and safety.

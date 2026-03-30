@@ -3,9 +3,9 @@ title: "Section 853 - Power to settle claims"
 usc_title: 33
 usc_section: "853"
 chapter: 17
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 853"
-generated_at: "2026-03-30T06:54:30.479Z"
+generated_at: "2026-03-30T06:56:26.135Z"
 status: "active"
 ---
 

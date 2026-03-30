@@ -3,9 +3,9 @@ title: "Section 1032b - Application requirements"
 usc_title: 20
 usc_section: "1032b"
 chapter: 28
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "20 U.S.C. § 1032b"
-generated_at: "2026-03-30T06:53:49.472Z"
+generated_at: "2026-03-30T06:56:03.394Z"
 status: "active"
 ---
 

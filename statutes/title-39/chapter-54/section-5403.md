@@ -3,9 +3,9 @@ title: "Section 5403 - Fines"
 usc_title: 39
 usc_section: "5403"
 chapter: 54
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "39 U.S.C. § 5403"
-generated_at: "2026-03-30T06:54:32.302Z"
+generated_at: "2026-03-30T06:56:30.690Z"
 status: "active"
 ---
 

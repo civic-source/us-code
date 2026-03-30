@@ -3,9 +3,9 @@ title: "Section 905 - Funding assistance"
 usc_title: 32
 usc_section: "905"
 chapter: 9
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "32 U.S.C. § 905"
-generated_at: "2026-03-30T06:54:28.209Z"
+generated_at: "2026-03-30T06:56:24.728Z"
 status: "active"
 ---
 

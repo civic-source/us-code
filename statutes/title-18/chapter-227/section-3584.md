@@ -3,9 +3,9 @@ title: "Section 3584 - Multiple sentences of imprisonment"
 usc_title: 18
 usc_section: "3584"
 chapter: 227
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "18 U.S.C. § 3584"
-generated_at: "2026-03-30T06:54:03.111Z"
+generated_at: "2026-03-30T06:56:04.450Z"
 status: "active"
 ---
 

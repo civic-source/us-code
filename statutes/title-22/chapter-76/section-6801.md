@@ -3,9 +3,9 @@ title: "Section 6801 - Definitions"
 usc_title: 22
 usc_section: "6801"
 chapter: 76
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 6801"
-generated_at: "2026-03-30T06:54:15.775Z"
+generated_at: "2026-03-30T06:56:09.982Z"
 status: "active"
 ---
 

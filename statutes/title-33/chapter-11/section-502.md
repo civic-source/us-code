@@ -3,9 +3,9 @@ title: "Section 502 - Alteration, removal, or repair of bridge or accessory obst
 usc_title: 33
 usc_section: "502"
 chapter: 11
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 502"
-generated_at: "2026-03-30T06:54:30.466Z"
+generated_at: "2026-03-30T06:56:26.125Z"
 status: "active"
 ---
 

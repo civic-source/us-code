@@ -3,9 +3,9 @@ title: "Section 261 - Repealed. Pub. L. 94–579, title VII , § 702, Oct. 21, 1
 usc_title: 43
 usc_section: "261"
 chapter: 7
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "43 U.S.C. § 261"
-generated_at: "2026-03-30T06:54:39.341Z"
+generated_at: "2026-03-30T06:56:41.102Z"
 status: "repealed"
 ---
 

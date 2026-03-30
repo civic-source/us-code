@@ -3,9 +3,9 @@ title: "Section 2904 - General responsibilities for records management"
 usc_title: 44
 usc_section: "2904"
 chapter: 29
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "44 U.S.C. § 2904"
-generated_at: "2026-03-30T06:54:39.646Z"
+generated_at: "2026-03-30T06:56:35.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1421j - Authorization of appropriations"
 usc_title: 48
 usc_section: "1421j"
 chapter: 8
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "48 U.S.C. § 1421j"
-generated_at: "2026-03-30T06:54:53.044Z"
+generated_at: "2026-03-30T06:57:13.313Z"
 status: "active"
 ---
 

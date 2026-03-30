@@ -3,9 +3,9 @@ title: "Section 44713 - Inspection and maintenance"
 usc_title: 49
 usc_section: "44713"
 chapter: 447
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "49 U.S.C. § 44713"
-generated_at: "2026-03-30T06:54:56.337Z"
+generated_at: "2026-03-30T06:56:58.468Z"
 status: "active"
 ---
 

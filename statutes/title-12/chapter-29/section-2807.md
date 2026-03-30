@@ -3,9 +3,9 @@ title: "Section 2807 - Report"
 usc_title: 12
 usc_section: "2807"
 chapter: 29
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "12 U.S.C. § 2807"
-generated_at: "2026-03-30T06:53:36.070Z"
+generated_at: "2026-03-30T06:55:43.091Z"
 status: "active"
 ---
 

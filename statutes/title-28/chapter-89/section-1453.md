@@ -3,9 +3,9 @@ title: "Section 1453 - Removal of class actions"
 usc_title: 28
 usc_section: "1453"
 chapter: 89
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "28 U.S.C. § 1453"
-generated_at: "2026-03-30T06:54:26.576Z"
+generated_at: "2026-03-30T06:56:17.928Z"
 status: "active"
 ---
 

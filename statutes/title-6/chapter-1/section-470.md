@@ -3,9 +3,9 @@ title: "Section 470 - Disclosures regarding homeland security grants"
 usc_title: 6
 usc_section: "470"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "6 U.S.C. § 470"
-generated_at: "2026-03-30T06:53:26.793Z"
+generated_at: "2026-03-30T06:55:21.881Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 45O - Agricultural chemicals security credit"
 usc_title: 26
 usc_section: "45O"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 45O"
-generated_at: "2026-03-30T06:54:25.654Z"
+generated_at: "2026-03-30T06:56:22.924Z"
 status: "active"
 ---
 

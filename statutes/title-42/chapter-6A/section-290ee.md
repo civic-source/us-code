@@ -3,9 +3,9 @@ title: "Section 290ee - Opioid overdose reversal medication access and education
 usc_title: 42
 usc_section: "290ee"
 chapter: 6
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 290ee"
-generated_at: "2026-03-30T06:54:49.120Z"
+generated_at: "2026-03-30T06:56:50.882Z"
 status: "active"
 ---
 

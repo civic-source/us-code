@@ -3,9 +3,9 @@ title: "Section 5383 - Amelioration and sweetening limitations for natural grape
 usc_title: 26
 usc_section: "5383"
 chapter: 51
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 5383"
-generated_at: "2026-03-30T06:54:25.832Z"
+generated_at: "2026-03-30T06:56:23.100Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6233 - Repealed. Pub. L. 106–469, title I , § 103(6), Nov. 9,
 usc_title: 42
 usc_section: "6233"
 chapter: 77
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 6233"
-generated_at: "2026-03-30T06:54:49.490Z"
+generated_at: "2026-03-30T06:56:51.246Z"
 status: "repealed"
 ---
 

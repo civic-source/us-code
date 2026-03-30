@@ -3,9 +3,9 @@ title: "Section 4015 - Chargeable premium rates"
 usc_title: 42
 usc_section: "4015"
 chapter: 50
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 4015"
-generated_at: "2026-03-30T06:54:49.453Z"
+generated_at: "2026-03-30T06:56:51.208Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4131 - Imposition of tax"
 usc_title: 26
 usc_section: "4131"
 chapter: 32
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 4131"
-generated_at: "2026-03-30T06:54:25.812Z"
+generated_at: "2026-03-30T06:56:23.081Z"
 status: "active"
 ---
 

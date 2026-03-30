@@ -3,9 +3,9 @@ title: "Section 2197 - Manufacturing experts in the classroom"
 usc_title: 10
 usc_section: "2197"
 chapter: 111
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 2197"
-generated_at: "2026-03-30T06:53:29.836Z"
+generated_at: "2026-03-30T06:55:27.973Z"
 status: "active"
 ---
 

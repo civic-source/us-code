@@ -3,9 +3,9 @@ title: "Section 7a - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "7a"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "16 U.S.C. § 7a"
-generated_at: "2026-03-30T06:53:52.463Z"
+generated_at: "2026-03-30T06:55:59.093Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2226 - Water resources projects on Federal land"
 usc_title: 33
 usc_section: "2226"
 chapter: 36
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 2226"
-generated_at: "2026-03-30T06:54:30.513Z"
+generated_at: "2026-03-30T06:56:26.166Z"
 status: "active"
 ---
 

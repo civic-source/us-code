@@ -3,9 +3,9 @@ title: "Section 4966 - Taxes on taxable distributions"
 usc_title: 26
 usc_section: "4966"
 chapter: 42
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 4966"
-generated_at: "2026-03-30T06:54:25.821Z"
+generated_at: "2026-03-30T06:56:23.089Z"
 status: "active"
 ---
 

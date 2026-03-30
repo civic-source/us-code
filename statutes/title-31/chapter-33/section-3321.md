@@ -3,9 +3,9 @@ title: "Section 3321 - Disbursing authority in the executive branch"
 usc_title: 31
 usc_section: "3321"
 chapter: 33
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "31 U.S.C. § 3321"
-generated_at: "2026-03-30T06:54:29.186Z"
+generated_at: "2026-03-30T06:56:28.444Z"
 status: "active"
 ---
 

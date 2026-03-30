@@ -3,9 +3,9 @@ title: "Section 1793 - Parent fees"
 usc_title: 10
 usc_section: "1793"
 chapter: 88
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 1793"
-generated_at: "2026-03-30T06:53:29.830Z"
+generated_at: "2026-03-30T06:55:27.968Z"
 status: "active"
 ---
 

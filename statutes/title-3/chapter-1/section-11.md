@@ -3,9 +3,9 @@ title: "Section 11 - Disposition of certificates"
 usc_title: 3
 usc_section: "11"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "3 U.S.C. § 11"
-generated_at: "2026-03-30T06:53:19.339Z"
+generated_at: "2026-03-30T06:55:10.134Z"
 status: "active"
 ---
 

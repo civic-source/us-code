@@ -3,9 +3,9 @@ title: "Section 6808 - Enforcement"
 usc_title: 7
 usc_section: "6808"
 chapter: 97
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 6808"
-generated_at: "2026-03-30T06:53:26.356Z"
+generated_at: "2026-03-30T06:55:34.074Z"
 status: "active"
 ---
 

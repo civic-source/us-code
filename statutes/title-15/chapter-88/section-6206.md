@@ -3,9 +3,9 @@ title: "Section 6206 - Publication requirements applicable to antitrust mutual a
 usc_title: 15
 usc_section: "6206"
 chapter: 88
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "15 U.S.C. § 6206"
-generated_at: "2026-03-30T06:53:43.034Z"
+generated_at: "2026-03-30T06:55:50.336Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3037 - Omitted"
 usc_title: 29
 usc_section: "3037"
 chapter: 31
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "29 U.S.C. § 3037"
-generated_at: "2026-03-30T06:54:21.484Z"
+generated_at: "2026-03-30T06:56:17.088Z"
 status: "omitted"
 ---
 

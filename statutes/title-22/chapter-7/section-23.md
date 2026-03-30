@@ -3,9 +3,9 @@ title: "Section 23 - Multilateral debt relief"
 usc_title: 22
 usc_section: "23"
 chapter: 7
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "22 U.S.C. § 23"
-generated_at: "2026-03-30T06:54:15.682Z"
+generated_at: "2026-03-30T06:56:09.867Z"
 status: "active"
 ---
 

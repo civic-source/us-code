@@ -3,9 +3,9 @@ title: "Section 4003 - Definitions applicable to Flood Disaster Protection Act o
 usc_title: 42
 usc_section: "4003"
 chapter: 50
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 4003"
-generated_at: "2026-03-30T06:54:49.452Z"
+generated_at: "2026-03-30T06:56:51.207Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12114 - Illegal use of drugs and alcohol"
 usc_title: 42
 usc_section: "12114"
 chapter: 126
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 12114"
-generated_at: "2026-03-30T06:54:49.630Z"
+generated_at: "2026-03-30T06:56:51.383Z"
 status: "active"
 ---
 

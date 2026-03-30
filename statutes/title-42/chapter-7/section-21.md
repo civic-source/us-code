@@ -3,9 +3,9 @@ title: "Section 21 - Eligibility, election, and enrollment"
 usc_title: 42
 usc_section: "21"
 chapter: 7
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T06:54:49.276Z"
+generated_at: "2026-03-30T06:56:51.033Z"
 status: "active"
 ---
 
@@ -21,11 +21,7 @@ status: "active"
       - **(ii)** Specialized MA plans for special needs individuals (as defined in section 1395w–28(b)(6) of this title ) may be any type of coordinated care plan.
     - **(B)** An MSA plan, as defined in section 1395w–28(b)(3) of this title , and a contribution into a Medicare+Choice medical savings account (MSA).
     - **(C)** A Medicare+Choice private fee-for-service plan, as defined in section 1395w–28(b)(2) of this title .
-  - **(3)**
-    - **(A)** In this subchapter, subject to subparagraph (B), the term “Medicare+Choice eligible individual” means an individual who is entitled to benefits under part A and enrolled under part B.
-    - **(B)** Such term shall not include an individual medically determined to have end-stage renal disease, except that—
-      - **(i)** an individual who develops end-stage renal disease while enrolled in a Medicare+Choice plan may continue to be enrolled in that plan; and
-      - **(ii)** in the case of such an individual who is enrolled in a Medicare+Choice plan under clause (i) (or subsequently under this clause), if the enrollment is discontinued under circumstances described in subsection (e)(4)(A), then the individual will be treated as a “Medicare+Choice eligible individual” for purposes of electing to continue enrollment in another Medicare+Choice plan.
+  - **(3)** In this subchapter, the term “Medicare+Choice eligible individual” means an individual who is entitled to benefits under part A and enrolled under part B.
 - **(b)**
   - **(1)**
     - **(A)** Except as the Secretary may otherwise provide and except as provided in subparagraph (C), an individual is eligible to elect a Medicare+Choice plan offered by a Medicare+Choice organization only if the plan serves the geographic area in which the individual resides.
@@ -226,6 +222,7 @@ status: "active"
 - **(i)**
   - **(1)** Subject to sections 1395w–22(a)(5), 1395w–23(a)(4), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), 1395ww(h)(3)(D), and 1395w–23(m) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B for items and services furnished to the individual.
   - **(2)** Subject to sections 1395w–23(a)(4), 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395w–27a(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
+  - **(3)** Paragraphs (1) and (2) shall not apply with respect to expenses for organ acquisitions for kidney transplants described in section 1395w–22(a)(1)(B)(i) of this title .
 - **(j)**
   - **(1)** The following prohibited activities are described in this paragraph:
     - **(A)** Any unsolicited means of direct contact of prospective enrollees, including soliciting door-to-door or any outbound telemarketing without the prospective enrollee initiating contact.

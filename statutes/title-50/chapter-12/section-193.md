@@ -3,9 +3,9 @@ title: "Section 193 - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862"
 usc_title: 50
 usc_section: "193"
 chapter: 12
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "50 U.S.C. § 193"
-generated_at: "2026-03-30T06:54:54.013Z"
+generated_at: "2026-03-30T06:56:56.548Z"
 status: "repealed"
 ---
 

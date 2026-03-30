@@ -3,9 +3,9 @@ title: "Section 3315 - Delegation"
 usc_title: 40
 usc_section: "3315"
 chapter: 33
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "40 U.S.C. § 3315"
-generated_at: "2026-03-30T06:54:34.210Z"
+generated_at: "2026-03-30T06:56:30.517Z"
 status: "active"
 ---
 

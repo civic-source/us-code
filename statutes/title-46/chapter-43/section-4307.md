@@ -3,9 +3,9 @@ title: "Section 4307 - Prohibited acts"
 usc_title: 46
 usc_section: "4307"
 chapter: 43
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "46 U.S.C. § 4307"
-generated_at: "2026-03-30T06:54:52.635Z"
+generated_at: "2026-03-30T06:56:54.694Z"
 status: "active"
 ---
 

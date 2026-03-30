@@ -3,9 +3,9 @@ title: "Section 5112 - Repealed. Pub. L. 102–295, title IV , § 402, May 28, 1
 usc_title: 42
 usc_section: "5112"
 chapter: 67
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 5112"
-generated_at: "2026-03-30T06:54:49.472Z"
+generated_at: "2026-03-30T06:56:51.227Z"
 status: "repealed"
 ---
 

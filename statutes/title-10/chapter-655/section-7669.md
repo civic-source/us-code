@@ -3,9 +3,9 @@ title: "Section 7669 - Security for costs"
 usc_title: 10
 usc_section: "7669"
 chapter: 655
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 7669"
-generated_at: "2026-03-30T06:53:29.891Z"
+generated_at: "2026-03-30T06:55:28.030Z"
 status: "active"
 ---
 

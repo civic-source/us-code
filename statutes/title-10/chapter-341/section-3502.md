@@ -3,9 +3,9 @@ title: "Section 3502 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "3502"
 chapter: 341
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 3502"
-generated_at: "2026-03-30T06:53:29.874Z"
+generated_at: "2026-03-30T06:55:28.013Z"
 status: "repealed"
 ---
 

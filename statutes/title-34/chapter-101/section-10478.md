@@ -3,9 +3,9 @@ title: "Section 10478 - Technical assistance, training, and evaluation"
 usc_title: 34
 usc_section: "10478"
 chapter: 101
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "34 U.S.C. § 10478"
-generated_at: "2026-03-30T06:54:29.712Z"
+generated_at: "2026-03-30T06:56:27.076Z"
 status: "active"
 ---
 

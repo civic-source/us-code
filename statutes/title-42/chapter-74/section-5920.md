@@ -3,9 +3,9 @@ title: "Section 5920 - Repealed. Pub. L. 109–58, title X , § 1009(b)(12), Aug
 usc_title: 42
 usc_section: "5920"
 chapter: 74
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 5920"
-generated_at: "2026-03-30T06:54:49.489Z"
+generated_at: "2026-03-30T06:56:51.245Z"
 status: "repealed"
 ---
 

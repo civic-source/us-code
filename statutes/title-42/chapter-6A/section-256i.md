@@ -3,9 +3,9 @@ title: "Section 256i - Community-based collaborative care network program"
 usc_title: 42
 usc_section: "256i"
 chapter: 6
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 256i"
-generated_at: "2026-03-30T06:54:49.083Z"
+generated_at: "2026-03-30T06:56:50.846Z"
 status: "active"
 ---
 

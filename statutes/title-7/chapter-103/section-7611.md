@@ -3,9 +3,9 @@ title: "Section 7611 - Standards for Federal funding of agricultural research, e
 usc_title: 7
 usc_section: "7611"
 chapter: 103
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 7611"
-generated_at: "2026-03-30T06:53:26.370Z"
+generated_at: "2026-03-30T06:55:34.088Z"
 status: "active"
 ---
 

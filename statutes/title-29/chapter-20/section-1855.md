@@ -3,9 +3,9 @@ title: "Section 1855 - Discrimination prohibited"
 usc_title: 29
 usc_section: "1855"
 chapter: 20
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "29 U.S.C. § 1855"
-generated_at: "2026-03-30T06:54:21.480Z"
+generated_at: "2026-03-30T06:56:17.082Z"
 status: "active"
 ---
 

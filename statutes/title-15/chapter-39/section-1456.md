@@ -3,9 +3,9 @@ title: "Section 1456 - Enforcement"
 usc_title: 15
 usc_section: "1456"
 chapter: 39
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "15 U.S.C. § 1456"
-generated_at: "2026-03-30T06:53:42.972Z"
+generated_at: "2026-03-30T06:55:50.229Z"
 status: "active"
 ---
 

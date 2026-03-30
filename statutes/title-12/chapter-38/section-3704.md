@@ -3,9 +3,9 @@ title: "Section 3704 - Foreclosure commissioner; designation, duties, etc."
 usc_title: 12
 usc_section: "3704"
 chapter: 38
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "12 U.S.C. § 3704"
-generated_at: "2026-03-30T06:53:36.077Z"
+generated_at: "2026-03-30T06:55:43.098Z"
 status: "active"
 ---
 

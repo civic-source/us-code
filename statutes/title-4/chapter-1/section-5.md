@@ -3,9 +3,9 @@ title: "Section 5 - Display and use of flag by civilians; codification of rules 
 usc_title: 4
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "4 U.S.C. § 5"
-generated_at: "2026-03-30T06:53:12.107Z"
+generated_at: "2026-03-30T06:55:10.041Z"
 status: "active"
 ---
 

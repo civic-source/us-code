@@ -3,9 +3,9 @@ title: "Section 333a - Repealed. Pub. L. 101–647, title XIX , § 1905, Nov. 29
 usc_title: 21
 usc_section: "333a"
 chapter: 9
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "21 U.S.C. § 333a"
-generated_at: "2026-03-30T06:54:06.601Z"
+generated_at: "2026-03-30T06:56:12.960Z"
 status: "repealed"
 ---
 

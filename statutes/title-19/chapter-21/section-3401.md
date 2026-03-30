@@ -3,9 +3,9 @@ title: "Section 3401 - Nonimmigrant traders and investors"
 usc_title: 19
 usc_section: "3401"
 chapter: 21
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "19 U.S.C. § 3401"
-generated_at: "2026-03-30T06:53:46.787Z"
+generated_at: "2026-03-30T06:55:54.851Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1583 - Employment of certain persons without pay"
 usc_title: 10
 usc_section: "1583"
 chapter: 81
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 1583"
-generated_at: "2026-03-30T06:53:29.825Z"
+generated_at: "2026-03-30T06:55:27.963Z"
 status: "active"
 ---
 

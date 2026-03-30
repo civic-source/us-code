@@ -3,9 +3,9 @@ title: "Section 2680 - Repealed. Pub. L. 111–383, div. B, title XXVIII , § 28
 usc_title: 10
 usc_section: "2680"
 chapter: 159
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 2680"
-generated_at: "2026-03-30T06:53:29.863Z"
+generated_at: "2026-03-30T06:55:28.002Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1272 - Environmental dredging"
 usc_title: 33
 usc_section: "1272"
 chapter: 26
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 1272"
-generated_at: "2026-03-30T06:54:30.492Z"
+generated_at: "2026-03-30T06:56:26.145Z"
 status: "active"
 ---
 

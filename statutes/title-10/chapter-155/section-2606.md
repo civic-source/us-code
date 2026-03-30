@@ -3,9 +3,9 @@ title: "Section 2606 - Scouting: cooperation and assistance in foreign areas"
 usc_title: 10
 usc_section: "2606"
 chapter: 155
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 2606"
-generated_at: "2026-03-30T06:53:29.860Z"
+generated_at: "2026-03-30T06:55:27.999Z"
 status: "active"
 ---
 

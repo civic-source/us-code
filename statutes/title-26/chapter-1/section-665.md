@@ -3,9 +3,9 @@ title: "Section 665 - Definitions applicable to subpart D"
 usc_title: 26
 usc_section: "665"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 665"
-generated_at: "2026-03-30T06:54:25.743Z"
+generated_at: "2026-03-30T06:56:23.012Z"
 status: "active"
 ---
 

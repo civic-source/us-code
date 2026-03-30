@@ -3,9 +3,9 @@ title: "Section 1312 - Seaward boundaries of States"
 usc_title: 43
 usc_section: "1312"
 chapter: 29
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "43 U.S.C. § 1312"
-generated_at: "2026-03-30T06:54:39.367Z"
+generated_at: "2026-03-30T06:56:41.127Z"
 status: "active"
 ---
 

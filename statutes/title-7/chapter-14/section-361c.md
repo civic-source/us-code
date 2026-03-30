@@ -3,9 +3,9 @@ title: "Section 361c - Authorization of appropriations and allotments of grants"
 usc_title: 7
 usc_section: "361c"
 chapter: 14
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 361c"
-generated_at: "2026-03-30T06:53:26.246Z"
+generated_at: "2026-03-30T06:55:33.962Z"
 status: "active"
 ---
 

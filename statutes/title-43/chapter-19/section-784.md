@@ -3,9 +3,9 @@ title: "Section 784 - Repealed. Pub. L. 85–56, title XXII , § 2202(1), June 1
 usc_title: 43
 usc_section: "784"
 chapter: 19
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "43 U.S.C. § 784"
-generated_at: "2026-03-30T06:54:39.362Z"
+generated_at: "2026-03-30T06:56:41.122Z"
 status: "repealed"
 ---
 

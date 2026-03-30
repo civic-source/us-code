@@ -3,9 +3,9 @@ title: "Section 6565 - Advancement by Secretary of Senate of travel funds to emp
 usc_title: 2
 usc_section: "6565"
 chapter: 65
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "2 U.S.C. § 6565"
-generated_at: "2026-03-30T06:53:13.516Z"
+generated_at: "2026-03-30T06:55:19.834Z"
 status: "active"
 ---
 

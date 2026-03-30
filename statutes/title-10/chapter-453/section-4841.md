@@ -3,9 +3,9 @@ title: "Section 4841 - Payment of small amounts to public creditors"
 usc_title: 10
 usc_section: "4841"
 chapter: 453
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 4841"
-generated_at: "2026-03-30T06:53:29.880Z"
+generated_at: "2026-03-30T06:55:28.019Z"
 status: "active"
 ---
 

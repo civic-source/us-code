@@ -3,9 +3,9 @@ title: "Section 973b - Regulations"
 usc_title: 16
 usc_section: "973b"
 chapter: 16
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "16 U.S.C. § 973b"
-generated_at: "2026-03-30T06:53:52.651Z"
+generated_at: "2026-03-30T06:55:59.235Z"
 status: "active"
 ---
 

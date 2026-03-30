@@ -3,9 +3,9 @@ title: "Section 929 - Record of injury or death"
 usc_title: 33
 usc_section: "929"
 chapter: 18
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 929"
-generated_at: "2026-03-30T06:54:30.484Z"
+generated_at: "2026-03-30T06:56:26.139Z"
 status: "active"
 ---
 

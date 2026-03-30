@@ -3,9 +3,9 @@ title: "Section 718 - Review by Congress"
 usc_title: 45
 usc_section: "718"
 chapter: 16
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "45 U.S.C. § 718"
-generated_at: "2026-03-30T06:54:38.845Z"
+generated_at: "2026-03-30T06:56:43.248Z"
 status: "active"
 ---
 

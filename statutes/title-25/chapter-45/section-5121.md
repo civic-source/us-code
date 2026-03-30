@@ -3,9 +3,9 @@ title: "Section 5121 - Claims or suits of Indian tribes against United States; r
 usc_title: 25
 usc_section: "5121"
 chapter: 45
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "25 U.S.C. § 5121"
-generated_at: "2026-03-30T06:54:11.308Z"
+generated_at: "2026-03-30T06:56:07.483Z"
 status: "active"
 ---
 

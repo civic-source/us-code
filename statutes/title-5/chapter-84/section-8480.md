@@ -3,9 +3,9 @@ title: "Section 8480 - Subpoena authority"
 usc_title: 5
 usc_section: "8480"
 chapter: 84
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "5 U.S.C. § 8480"
-generated_at: "2026-03-30T06:53:15.228Z"
+generated_at: "2026-03-30T06:55:12.191Z"
 status: "active"
 ---
 

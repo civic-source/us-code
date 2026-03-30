@@ -3,9 +3,9 @@ title: "Section 262 - Personal, living, and family expenses"
 usc_title: 26
 usc_section: "262"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "26 U.S.C. § 262"
-generated_at: "2026-03-30T06:54:25.692Z"
+generated_at: "2026-03-30T06:56:22.961Z"
 status: "active"
 ---
 

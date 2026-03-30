@@ -3,9 +3,9 @@ title: "Section 931c - Art. 131c]"
 usc_title: 10
 usc_section: "931c"
 chapter: 47
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 931c"
-generated_at: "2026-03-30T06:53:29.798Z"
+generated_at: "2026-03-30T06:55:27.934Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1177 - Members diagnosed with or reasonably asserting post-traum
 usc_title: 10
 usc_section: "1177"
 chapter: 59
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 1177"
-generated_at: "2026-03-30T06:53:29.814Z"
+generated_at: "2026-03-30T06:55:27.952Z"
 status: "active"
 ---
 

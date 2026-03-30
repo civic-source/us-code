@@ -3,9 +3,9 @@ title: "Section 1490h - Taxation of property held by Secretary"
 usc_title: 42
 usc_section: "1490h"
 chapter: 8
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 1490h"
-generated_at: "2026-03-30T06:54:49.373Z"
+generated_at: "2026-03-30T06:56:51.128Z"
 status: "active"
 ---
 

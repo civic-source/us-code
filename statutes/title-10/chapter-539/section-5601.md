@@ -3,9 +3,9 @@ title: "Section 5601 - Repealed. Pub. L. 89–609 , § 1(10), Sept. 30, 1966 , 8
 usc_title: 10
 usc_section: "5601"
 chapter: 539
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 5601"
-generated_at: "2026-03-30T06:53:29.882Z"
+generated_at: "2026-03-30T06:55:28.022Z"
 status: "repealed"
 ---
 

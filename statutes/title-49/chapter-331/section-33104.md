@@ -3,9 +3,9 @@ title: "Section 33104 - Designation of high theft vehicle lines and parts"
 usc_title: 49
 usc_section: "33104"
 chapter: 331
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "49 U.S.C. § 33104"
-generated_at: "2026-03-30T06:54:56.324Z"
+generated_at: "2026-03-30T06:56:58.452Z"
 status: "active"
 ---
 

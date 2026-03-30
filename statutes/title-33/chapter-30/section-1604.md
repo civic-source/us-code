@@ -3,9 +3,9 @@ title: "Section 1604 - Vessels not subject to International Regulations"
 usc_title: 33
 usc_section: "1604"
 chapter: 30
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 1604"
-generated_at: "2026-03-30T06:54:30.510Z"
+generated_at: "2026-03-30T06:56:26.163Z"
 status: "active"
 ---
 

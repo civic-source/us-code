@@ -3,9 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-30T06:54:36.626Z"
+generated_at: "2026-03-30T06:56:33.676Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
         - **(II)** the amount equal to—
     - **(B)** A monthly stipend in an amount as follows:
       - **(i)** Except as provided in clauses (ii) and (iii), for each month an individual pursues a program of education on more than a half-time basis, a monthly housing stipend equal to the product of—
-        - **(I)** the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution of higher learning at which the individual is enrolled, multiplied by
+        - **(I)** the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the campus of the institution of higher learning where the individual physically participates in a majority of classes, multiplied by
         - **(II)** the lesser of—
       - **(ii)** In the case of an individual pursuing a program of education at a foreign institution of higher learning on more than a half-time basis, for each month the individual pursues the program of education, a monthly housing stipend equal to the product of—
         - **(I)** the national average of the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5, multiplied by
@@ -124,3 +124,4 @@ status: "active"
     - **(B)** If the amount otherwise payable with respect to an individual under paragraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
 - **(h)** Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (7) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
 - **(i)** Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under section 403 of title 37 in effect as of January 1 of such calendar year.
+- **(j)** For any month during which an individual who is entitled to a monthly housing stipend under this section is performing active duty service, the Secretary shall determine the amount of such stipend payable to such individual for such month on a pro rata basis for the period of such month during which the individual is not performing active duty service.

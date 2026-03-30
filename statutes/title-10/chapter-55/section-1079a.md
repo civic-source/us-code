@@ -1,15 +1,15 @@
 ---
-title: "Section 1079a - CHAMPUS: treatment of refunds and other amounts collected"
+title: "Section 1079a - TRICARE program: treatment of refunds and other amounts collected"
 usc_title: 10
 usc_section: "1079a"
 chapter: 55
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 1079a"
-generated_at: "2026-03-30T06:53:29.809Z"
+generated_at: "2026-03-30T06:55:27.946Z"
 status: "active"
 ---
 
-# § 1079a. CHAMPUS: treatment of refunds and other amounts collected
+# § 1079a. TRICARE program: treatment of refunds and other amounts collected
 
-All refunds and other amounts collected in the administration of the Civilian Health and Medical Program of the Uniformed Services shall be credited to the appropriation available for that program for the fiscal year in which the refund or amount is collected.
+All refunds and other amounts collected in the administration of the TRICARE program shall be credited to the appropriation available for that program for the fiscal year in which the refund or amount is collected.
 

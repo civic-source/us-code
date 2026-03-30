@@ -3,9 +3,9 @@ title: "Section 2883 - Department of Defense Housing Funds"
 usc_title: 10
 usc_section: "2883"
 chapter: 169
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 2883"
-generated_at: "2026-03-30T06:53:29.871Z"
+generated_at: "2026-03-30T06:55:28.009Z"
 status: "active"
 ---
 

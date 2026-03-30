@@ -3,9 +3,9 @@ title: "Section 1355 - Fine, penalty or forfeiture"
 usc_title: 28
 usc_section: "1355"
 chapter: 85
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "28 U.S.C. § 1355"
-generated_at: "2026-03-30T06:54:26.575Z"
+generated_at: "2026-03-30T06:56:17.926Z"
 status: "active"
 ---
 

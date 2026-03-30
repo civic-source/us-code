@@ -3,9 +3,9 @@ title: "Section 1656 - Creation of new district or division or transfer of terri
 usc_title: 28
 usc_section: "1656"
 chapter: 111
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "28 U.S.C. § 1656"
-generated_at: "2026-03-30T06:54:26.578Z"
+generated_at: "2026-03-30T06:56:17.929Z"
 status: "active"
 ---
 

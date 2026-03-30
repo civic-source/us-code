@@ -3,9 +3,9 @@ title: "Section 21 - Bayou Cocodrie, Louisiana"
 usc_title: 33
 usc_section: "21"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 21"
-generated_at: "2026-03-30T06:54:30.456Z"
+generated_at: "2026-03-30T06:56:26.116Z"
 status: "active"
 ---
 

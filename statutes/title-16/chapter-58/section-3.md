@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 113–79, title II , § 2708, Feb. 7, 2014
 usc_title: 16
 usc_section: "3"
 chapter: 58
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T06:53:52.708Z"
+generated_at: "2026-03-30T06:55:59.294Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 167l - Injunctions"
 usc_title: 50
 usc_section: "167l"
 chapter: 10
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "50 U.S.C. § 167l"
-generated_at: "2026-03-30T06:54:54.012Z"
+generated_at: "2026-03-30T06:56:56.547Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2318 - Trafficking in counterfeit labels, illicit labels, or cou
 usc_title: 18
 usc_section: "2318"
 chapter: 113
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "18 U.S.C. § 2318"
-generated_at: "2026-03-30T06:54:03.098Z"
+generated_at: "2026-03-30T06:56:04.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8701 - Findings and purposes"
 usc_title: 40
 usc_section: "8701"
 chapter: 87
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "40 U.S.C. § 8701"
-generated_at: "2026-03-30T06:54:34.213Z"
+generated_at: "2026-03-30T06:56:30.521Z"
 status: "active"
 ---
 

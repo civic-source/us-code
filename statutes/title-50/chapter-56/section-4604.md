@@ -3,9 +3,9 @@ title: "Section 4604 - National security controls"
 usc_title: 50
 usc_section: "4604"
 chapter: 56
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "50 U.S.C. § 4604"
-generated_at: "2026-03-30T06:54:54.075Z"
+generated_at: "2026-03-30T06:56:56.609Z"
 status: "active"
 ---
 

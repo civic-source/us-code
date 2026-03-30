@@ -3,9 +3,9 @@ title: "Section 5455 - Repealed. Pub. L. 97–22 , § 10(b)(6)(A), July 10, 1981
 usc_title: 10
 usc_section: "5455"
 chapter: 533
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 5455"
-generated_at: "2026-03-30T06:53:29.882Z"
+generated_at: "2026-03-30T06:55:28.021Z"
 status: "repealed"
 ---
 

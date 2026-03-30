@@ -3,9 +3,9 @@ title: "Section 33 - Followup monitoring and treatment of other individuals with
 usc_title: 42
 usc_section: "33"
 chapter: 6
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 33"
-generated_at: "2026-03-30T06:54:49.188Z"
+generated_at: "2026-03-30T06:56:50.946Z"
 status: "active"
 ---
 

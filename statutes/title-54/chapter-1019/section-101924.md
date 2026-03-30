@@ -3,9 +3,9 @@ title: "Section 101924 - Promotion of sale of Indian, Alaska Native, Native Samo
 usc_title: 54
 usc_section: "101924"
 chapter: 1019
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "54 U.S.C. § 101924"
-generated_at: "2026-03-30T06:54:59.140Z"
+generated_at: "2026-03-30T06:57:16.272Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7253 - Composition"
 usc_title: 38
 usc_section: "7253"
 chapter: 72
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "38 U.S.C. § 7253"
-generated_at: "2026-03-30T06:54:36.644Z"
+generated_at: "2026-03-30T06:56:33.695Z"
 status: "active"
 ---
 
@@ -16,9 +16,12 @@ status: "active"
 - **(c)** The term of office of the judges of the Court of Appeals for Veterans Claims shall be 15 years. A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.
 - **(d)**
   - **(1)** The chief judge of the Court is the head of the Court. The chief judge of the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
-    - **(A)** have served for one or more years as judges of the Court; and
-    - **(B)** have not previously served as chief judge.
-  - **(2)** In any case in which there is no judge of the Court in regular active service who has served as a judge of the Court for at least one year, the judge of the court in regular active service who is senior in commission and has not served previously as chief judge shall act as the chief judge.
+    - **(A)** have served for one or more years as judges of the Court;
+    - **(B)** have at least 3 years remaining in term of office; and
+    - **(C)** have not previously served as chief judge.
+  - **(2)**
+    - **(A)** In any case in which there is no judge of the Court in regular active service who meets the requirements under paragraph (1), the judge of the Court in regular active service who is senior in commission and meets subparagraph (A) or (B) and subparagraph (C) of paragraph (1) shall act as the chief judge.
+    - **(B)** In any case under subparagraph (A) of this paragraph in which there is no judge of the Court in regular active service who meets subparagraph (A) or (B) and subparagraph (C) of paragraph (1), the judge of the Court in regular active service who is senior in commission and meets subparagraph (C) shall act as the chief judge.
   - **(3)** Except as provided in paragraph (4), a judge of the Court shall serve as the chief judge under paragraph (1) for a term of five years or until the judge becomes age 70, whichever occurs first. If no other judge is eligible under paragraph (1) to serve as chief judge upon the expiration of that term, that judge shall continue to serve as chief judge until another judge becomes eligible under that paragraph to serve as chief judge.
   - **(4)**
     - **(A)** The term of a chief judge shall be terminated before the end of the term prescribed by paragraph (3) if—

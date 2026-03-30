@@ -3,9 +3,9 @@ title: "Section 92a - Rights-of-way for railways, tramways, and cable lines"
 usc_title: 16
 usc_section: "92a"
 chapter: 1
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "16 U.S.C. § 92a"
-generated_at: "2026-03-30T06:53:52.470Z"
+generated_at: "2026-03-30T06:55:59.099Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2204 - Repealed. Pub. L. 102–552, title V , § 508, Oct. 28, 1
 usc_title: 12
 usc_section: "2204"
 chapter: 23
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "12 U.S.C. § 2204"
-generated_at: "2026-03-30T06:53:36.059Z"
+generated_at: "2026-03-30T06:55:43.080Z"
 status: "repealed"
 ---
 

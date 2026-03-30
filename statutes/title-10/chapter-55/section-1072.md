@@ -3,9 +3,9 @@ title: "Section 1072 - Definitions"
 usc_title: 10
 usc_section: "1072"
 chapter: 55
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 1072"
-generated_at: "2026-03-30T06:53:29.805Z"
+generated_at: "2026-03-30T06:55:27.942Z"
 status: "active"
 ---
 
@@ -45,7 +45,10 @@ In this chapter:
     - **(D)** An unmarried person—
       - **(i)** who is placed in the home of the member or former member by a placement agency (recognized by the Secretary of Defense), or by any other source authorized by State or local law to provide adoption placement, in anticipation of the legal adoption of the person by the member or former member; and
       - **(ii)** who otherwise meets the requirements specified in paragraph (2)(D).
-  - **(7)** The term “TRICARE program” means the managed health care program that is established by the Department of Defense under the authority of this chapter, principally section 1097 of this title , and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
+  - **(7)** The term “TRICARE program” means the various programs carried out by the Secretary of Defense under this chapter and any other provision of law providing for the furnishing of medical and dental care and health benefits to members and former members of the uniformed services and their dependents, including the following health plan options:
+    - **(A)** TRICARE Prime.
+    - **(B)** TRICARE Select.
+    - **(C)** TRICARE for Life.
   - **(8)** The term “custodial care” means treatment or services, regardless of who recommends such treatment or services or where such treatment or services are provided, that—
     - **(A)** can be rendered safely and reasonably by a person who is not medically skilled; or
     - **(B)** is or are designed mainly to help the patient with the activities of daily living.
@@ -53,3 +56,10 @@ In this chapter:
     - **(A)** providing support for the activities of daily living in the home is not available or is unsuitable; or
     - **(B)** members of the patient’s family are unwilling to provide the care.
   - **(10)** The term “health care” includes mental health care.
+  - **(11)** The term “TRICARE Extra” means the preferred-provider option of the TRICARE program made available prior to January 1, 2018 , under which TRICARE Standard beneficiaries may obtain discounts on cost sharing as a result of using TRICARE network providers.
+  - **(12)** The term “TRICARE Select” means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of this title .
+  - **(13)** The term “TRICARE for Life” means the Medicare wraparound coverage option of the TRICARE program made available to the beneficiary by reason of section 1086(d) of this title .
+  - **(14)** The term “TRICARE Prime” means the managed care option of the TRICARE program.
+  - **(15)** The term “TRICARE Standard” means the TRICARE program made available prior to January 1, 2018 , covering—
+    - **(A)** medical care to which a dependent described in section 1076(a)(2) of this title is entitled; and
+    - **(B)** health benefits contracted for under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.

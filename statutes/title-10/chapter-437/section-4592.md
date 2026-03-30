@@ -3,9 +3,9 @@ title: "Section 4592 - Radiograms and telegrams: forwarding charges due connecti
 usc_title: 10
 usc_section: "4592"
 chapter: 437
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 4592"
-generated_at: "2026-03-30T06:53:29.878Z"
+generated_at: "2026-03-30T06:55:28.018Z"
 status: "active"
 ---
 

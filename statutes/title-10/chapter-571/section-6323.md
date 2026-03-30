@@ -3,9 +3,9 @@ title: "Section 6323 - Officers: 20 years"
 usc_title: 10
 usc_section: "6323"
 chapter: 571
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 6323"
-generated_at: "2026-03-30T06:53:29.884Z"
+generated_at: "2026-03-30T06:55:28.023Z"
 status: "active"
 ---
 

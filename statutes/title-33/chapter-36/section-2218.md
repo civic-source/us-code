@@ -3,9 +3,9 @@ title: "Section 2218 - General applicability of cost sharing"
 usc_title: 33
 usc_section: "2218"
 chapter: 36
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "33 U.S.C. § 2218"
-generated_at: "2026-03-30T06:54:30.513Z"
+generated_at: "2026-03-30T06:56:26.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 123 - Micro entity defined"
 usc_title: 35
 usc_section: "123"
 chapter: 11
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "35 U.S.C. § 123"
-generated_at: "2026-03-30T06:54:28.404Z"
+generated_at: "2026-03-30T06:56:24.948Z"
 status: "active"
 ---
 

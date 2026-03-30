@@ -3,9 +3,9 @@ title: "Section 1731 - Acquisition Corps: in general"
 usc_title: 10
 usc_section: "1731"
 chapter: 87
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "10 U.S.C. § 1731"
-generated_at: "2026-03-30T06:53:29.829Z"
+generated_at: "2026-03-30T06:55:27.966Z"
 status: "active"
 ---
 

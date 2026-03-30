@@ -3,9 +3,9 @@ title: "Section 1374d - Omitted"
 usc_title: 48
 usc_section: "1374d"
 chapter: 6
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "48 U.S.C. § 1374d"
-generated_at: "2026-03-30T06:54:53.042Z"
+generated_at: "2026-03-30T06:57:13.311Z"
 status: "omitted"
 ---
 

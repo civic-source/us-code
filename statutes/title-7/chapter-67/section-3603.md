@@ -3,9 +3,9 @@ title: "Section 3603 - Delegation of powers and duties"
 usc_title: 7
 usc_section: "3603"
 chapter: 67
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "7 U.S.C. § 3603"
-generated_at: "2026-03-30T06:53:26.334Z"
+generated_at: "2026-03-30T06:55:34.052Z"
 status: "active"
 ---
 

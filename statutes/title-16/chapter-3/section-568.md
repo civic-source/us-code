@@ -3,9 +3,9 @@ title: "Section 568 - Cooperation by Secretary of Agriculture with States in est
 usc_title: 16
 usc_section: "568"
 chapter: 3
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "16 U.S.C. § 568"
-generated_at: "2026-03-30T06:53:52.613Z"
+generated_at: "2026-03-30T06:55:59.195Z"
 status: "active"
 ---
 

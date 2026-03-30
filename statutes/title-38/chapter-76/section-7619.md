@@ -3,9 +3,9 @@ title: "Section 7619 - Expiration of program"
 usc_title: 38
 usc_section: "7619"
 chapter: 76
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "38 U.S.C. § 7619"
-generated_at: "2026-03-30T06:54:36.652Z"
+generated_at: "2026-03-30T06:56:33.705Z"
 status: "active"
 ---
 

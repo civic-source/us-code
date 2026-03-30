@@ -3,9 +3,9 @@ title: "Section 10424 - Allocation and distribution of funds"
 usc_title: 34
 usc_section: "10424"
 chapter: 101
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "34 U.S.C. § 10424"
-generated_at: "2026-03-30T06:54:29.710Z"
+generated_at: "2026-03-30T06:56:27.074Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 152 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "152"
 chapter: 7
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "42 U.S.C. § 152"
-generated_at: "2026-03-30T06:54:49.290Z"
+generated_at: "2026-03-30T06:56:51.047Z"
 status: "active"
 ---
 
@@ -16,3 +16,4 @@ status: "active"
 - **(c)**
   - **(1)** In the case of an individual described in subparagraphs (A) through (D) of section 1395w–114a(g)(1) of this title who as of the last day of a calendar quarter in 2010 has incurred costs for covered part D drugs so that the individual has exceeded the initial coverage limit under section 1395w–102(b)(3) of this title for 2010, the Secretary shall provide for payment from the Medicare Prescription Drug Account of $250 to the individual by not later than the 15th day of the third month following the end of such quarter.
   - **(2)** The Secretary shall provide only 1 payment under this subsection with respect to any individual.
+- **(d)** In conducting a quality or performance assessment of a PDP sponsor, the Secretary shall develop or utilize existing screening methods for reviewing and considering complaints that are received from enrollees in a prescription drug plan offered by such PDP sponsor and that are complaints regarding the lack of access by the individual to prescription drugs due to a drug management program for at-risk beneficiaries.

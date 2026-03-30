@@ -3,9 +3,9 @@ title: "Section 3813 - Notice of requirements of this chapter; voluntary enlistm
 usc_title: 50
 usc_section: "3813"
 chapter: 49
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "50 U.S.C. § 3813"
-generated_at: "2026-03-30T06:54:54.060Z"
+generated_at: "2026-03-30T06:56:56.595Z"
 status: "active"
 ---
 

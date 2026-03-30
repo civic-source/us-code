@@ -3,9 +3,9 @@ title: "Section 5111 - Commencement of period of payment"
 usc_title: 38
 usc_section: "5111"
 chapter: 51
-current_through: "PL 115-82"
+current_through: "PL 115-84"
 classification: "38 U.S.C. § 5111"
-generated_at: "2026-03-30T06:54:36.639Z"
+generated_at: "2026-03-30T06:56:33.691Z"
 status: "active"
 ---
 
@@ -23,5 +23,5 @@ status: "active"
   - **(1)** This section shall not apply to payments made pursuant to section 5310 of this title .
   - **(2)** In the case of a temporary increase in compensation for hospitalization or treatment where such hospitalization or treatment commences and terminates within the same calendar month, the period of payment shall commence on the first day of such month.
 - **(d)** For the purposes of this section, the term “award or increased award” means—
-  - **(1)** an original or reopened award; or
+  - **(1)** an original award or award based on a supplemental claim; or
   - **(2)** an award that is increased because of an added dependent, increase in disability or disability rating, or reduction in income.
