@@ -3,9 +3,9 @@ title: "Section 333 - Mutual savings banks; application and admission to members
 usc_title: 12
 usc_section: "333"
 chapter: 3
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 333"
-generated_at: "2026-03-30T01:20:55.644Z"
+generated_at: "2026-03-30T01:24:44.535Z"
 ---
 
 # § 333. Mutual savings banks; application and admission to membership in Federal Reserve System

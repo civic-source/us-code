@@ -3,9 +3,9 @@ title: "Section 3524 - Support for the Associate Director of the Central Intelli
 usc_title: 50
 usc_section: "3524"
 chapter: 46
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "50 U.S.C. § 3524"
-generated_at: "2026-03-30T01:23:56.192Z"
+generated_at: "2026-03-30T01:26:05.092Z"
 ---
 
 # § 3524. Support for the Associate Director of the Central Intelligence Agency for Military Affairs

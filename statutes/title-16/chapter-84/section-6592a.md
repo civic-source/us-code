@@ -3,9 +3,9 @@ title: "Section 6592a - Ecosystem restoration"
 usc_title: 16
 usc_section: "6592a"
 chapter: 84
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 6592a"
-generated_at: "2026-03-30T01:21:05.134Z"
+generated_at: "2026-03-30T01:24:57.474Z"
 ---
 
 # § 6592a. Ecosystem restoration

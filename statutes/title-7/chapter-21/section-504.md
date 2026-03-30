@@ -3,9 +3,9 @@ title: "Section 504 - “Person” defined"
 usc_title: 7
 usc_section: "504"
 chapter: 21
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "7 U.S.C. § 504"
-generated_at: "2026-03-30T01:20:22.960Z"
+generated_at: "2026-03-30T01:24:33.266Z"
 ---
 
 # § 504. “Person” defined

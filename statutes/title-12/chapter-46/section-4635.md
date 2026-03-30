@@ -3,9 +3,9 @@ title: "Section 4635 - Enforcement and jurisdiction"
 usc_title: 12
 usc_section: "4635"
 chapter: 46
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 4635"
-generated_at: "2026-03-30T01:20:55.771Z"
+generated_at: "2026-03-30T01:24:44.670Z"
 ---
 
 # § 4635. Enforcement and jurisdiction

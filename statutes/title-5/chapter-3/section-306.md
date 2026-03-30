@@ -3,9 +3,9 @@ title: "Section 306 - Agency strategic plans"
 usc_title: 5
 usc_section: "306"
 chapter: 3
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "5 U.S.C. § 306"
-generated_at: "2026-03-30T01:19:01.527Z"
+generated_at: "2026-03-30T01:24:25.450Z"
 ---
 
 # § 306. Agency strategic plans

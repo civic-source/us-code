@@ -3,9 +3,9 @@ title: "Section 4344 - Duties and functions"
 usc_title: 42
 usc_section: "4344"
 chapter: 55
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 4344"
-generated_at: "2026-03-30T01:23:49.639Z"
+generated_at: "2026-03-30T01:25:56.296Z"
 ---
 
 # § 4344. Duties and functions

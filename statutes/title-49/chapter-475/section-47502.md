@@ -3,9 +3,9 @@ title: "Section 47502 - Noise measurement and exposure systems and identifying l
 usc_title: 49
 usc_section: "47502"
 chapter: 475
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 47502"
-generated_at: "2026-03-30T01:24:07.443Z"
+generated_at: "2026-03-30T01:26:15.879Z"
 ---
 
 # § 47502. Noise measurement and exposure systems and identifying land use compatible with noise exposure

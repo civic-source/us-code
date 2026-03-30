@@ -3,9 +3,9 @@ title: "Section 133b - Under Secretary of Defense for Acquisition and Sustainmen
 usc_title: 10
 usc_section: "133b"
 chapter: 4
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 133b"
-generated_at: "2026-03-30T01:19:58.189Z"
+generated_at: "2026-03-30T01:24:38.888Z"
 ---
 
 # § 133b. Under Secretary of Defense for Acquisition and Sustainment

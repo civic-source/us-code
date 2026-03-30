@@ -3,9 +3,9 @@ title: "Section 94 - Indiana"
 usc_title: 28
 usc_section: "94"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "28 U.S.C. § 94"
-generated_at: "2026-03-30T01:22:26.992Z"
+generated_at: "2026-03-30T01:25:13.452Z"
 ---
 
 # § 94. Indiana

@@ -3,9 +3,9 @@ title: "Section 3708 - Administrative arrangements"
 usc_title: 15
 usc_section: "3708"
 chapter: 63
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 3708"
-generated_at: "2026-03-30T01:20:30.858Z"
+generated_at: "2026-03-30T01:24:47.143Z"
 ---
 
 # § 3708. Administrative arrangements

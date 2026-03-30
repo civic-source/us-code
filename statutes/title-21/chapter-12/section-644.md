@@ -3,9 +3,9 @@ title: "Section 644 - Regulation of transactions, transportation, or importation
 usc_title: 21
 usc_section: "644"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "21 U.S.C. § 644"
-generated_at: "2026-03-30T01:21:23.983Z"
+generated_at: "2026-03-30T01:25:07.467Z"
 ---
 
 # § 644. Regulation of transactions, transportation, or importation of 4–D animals to prevent use as human food

@@ -3,9 +3,9 @@ title: "Section 91 - Collection and publication"
 usc_title: 13
 usc_section: "91"
 chapter: 3
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "13 U.S.C. § 91"
-generated_at: "2026-03-30T01:20:35.274Z"
+generated_at: "2026-03-30T01:24:42.481Z"
 ---
 
 # § 91. Collection and publication

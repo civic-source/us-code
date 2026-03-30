@@ -3,9 +3,9 @@ title: "Section 2822 - Omitted"
 usc_title: 42
 usc_section: "2822"
 chapter: 34
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 2822"
-generated_at: "2026-03-30T01:23:49.609Z"
+generated_at: "2026-03-30T01:25:56.262Z"
 ---
 
 # §§ 2821, 2822. Omitted

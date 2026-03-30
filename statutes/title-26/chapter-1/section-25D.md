@@ -3,9 +3,9 @@ title: "Section 25D - Residential clean energy credit"
 usc_title: 26
 usc_section: "25D"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 25D"
-generated_at: "2026-03-30T01:22:40.243Z"
+generated_at: "2026-03-30T01:25:24.991Z"
 ---
 
 # § 25D. Residential clean energy credit

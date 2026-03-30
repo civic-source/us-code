@@ -3,9 +3,9 @@ title: "Section 12c - Central Valley Water Recycling Project"
 usc_title: 43
 usc_section: "12c"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "43 U.S.C. § 12c"
-generated_at: "2026-03-30T01:23:05.568Z"
+generated_at: "2026-03-30T01:25:47.026Z"
 ---
 
 # § 390h–12c. Central Valley Water Recycling Project

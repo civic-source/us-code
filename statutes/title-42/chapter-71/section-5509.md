@@ -3,9 +3,9 @@ title: "Section 5509 - Supervision of systems and programs by Secretary"
 usc_title: 42
 usc_section: "5509"
 chapter: 71
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 5509"
-generated_at: "2026-03-30T01:23:49.668Z"
+generated_at: "2026-03-30T01:25:56.326Z"
 ---
 
 # § 5509. Supervision of systems and programs by Secretary

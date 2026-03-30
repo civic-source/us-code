@@ -3,9 +3,9 @@ title: "Section 2074 - Private remedies"
 usc_title: 15
 usc_section: "2074"
 chapter: 47
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 2074"
-generated_at: "2026-03-30T01:20:30.832Z"
+generated_at: "2026-03-30T01:24:47.117Z"
 ---
 
 # § 2074. Private remedies

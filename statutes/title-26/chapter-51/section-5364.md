@@ -3,9 +3,9 @@ title: "Section 5364 - Wine imported in bulk"
 usc_title: 26
 usc_section: "5364"
 chapter: 51
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 5364"
-generated_at: "2026-03-30T01:22:40.448Z"
+generated_at: "2026-03-30T01:25:25.188Z"
 ---
 
 # § 5364. Wine imported in bulk

@@ -3,9 +3,9 @@ title: "Section 2351 - Encouragement of free enterprise and private participatio
 usc_title: 22
 usc_section: "2351"
 chapter: 32
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 2351"
-generated_at: "2026-03-30T01:22:08.161Z"
+generated_at: "2026-03-30T01:25:10.596Z"
 ---
 
 # § 2351. Encouragement of free enterprise and private participation

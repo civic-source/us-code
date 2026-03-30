@@ -3,9 +3,9 @@ title: "Section 2509 - Presidential powers and authorities"
 usc_title: 22
 usc_section: "2509"
 chapter: 34
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 2509"
-generated_at: "2026-03-30T01:22:08.172Z"
+generated_at: "2026-03-30T01:25:10.606Z"
 ---
 
 # § 2509. Presidential powers and authorities

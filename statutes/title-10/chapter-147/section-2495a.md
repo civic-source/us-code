@@ -3,9 +3,9 @@ title: "Section 2495a - Overseas package stores: treatment of United States wine
 usc_title: 10
 usc_section: "2495a"
 chapter: 147
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 2495a"
-generated_at: "2026-03-30T01:19:58.280Z"
+generated_at: "2026-03-30T01:24:38.977Z"
 ---
 
 # § 2495a. Overseas package stores: treatment of United States wines

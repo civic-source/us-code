@@ -3,9 +3,9 @@ title: "Section 3403 - Task and delivery order contracts: general authority"
 usc_title: 10
 usc_section: "3403"
 chapter: 245
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 3403"
-generated_at: "2026-03-30T01:19:58.303Z"
+generated_at: "2026-03-30T01:24:38.998Z"
 ---
 
 # § 3403. Task and delivery order contracts: general authority

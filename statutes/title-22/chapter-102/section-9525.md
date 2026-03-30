@@ -3,9 +3,9 @@ title: "Section 9525 - Imposition of sanctions with respect to persons engaging 
 usc_title: 22
 usc_section: "9525"
 chapter: 102
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 9525"
-generated_at: "2026-03-30T01:22:08.283Z"
+generated_at: "2026-03-30T01:25:10.699Z"
 ---
 
 # § 9525. Imposition of sanctions with respect to persons engaging in transactions with the intelligence or defense sectors of the Government of the Russian Federation

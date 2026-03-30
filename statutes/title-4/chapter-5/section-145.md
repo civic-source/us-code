@@ -3,9 +3,9 @@ title: "Section 145 - Printing and distribution"
 usc_title: 4
 usc_section: "145"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "4 U.S.C. § 145"
-generated_at: "2026-03-30T01:18:58.177Z"
+generated_at: "2026-03-30T01:24:22.429Z"
 ---
 
 # § 145. Printing and distribution

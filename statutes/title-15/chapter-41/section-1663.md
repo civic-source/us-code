@@ -3,9 +3,9 @@ title: "Section 1663 - Advertising of open end credit plans"
 usc_title: 15
 usc_section: "1663"
 chapter: 41
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 1663"
-generated_at: "2026-03-30T01:20:30.810Z"
+generated_at: "2026-03-30T01:24:47.097Z"
 ---
 
 # § 1663. Advertising of open end credit plans

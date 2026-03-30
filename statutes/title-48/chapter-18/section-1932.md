@@ -3,9 +3,9 @@ title: "Section 1932 - Extension of Compact of Free Association to Palau"
 usc_title: 48
 usc_section: "1932"
 chapter: 18
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "48 U.S.C. § 1932"
-generated_at: "2026-03-30T01:24:03.445Z"
+generated_at: "2026-03-30T01:25:59.651Z"
 ---
 
 # § 1932. Extension of Compact of Free Association to Palau

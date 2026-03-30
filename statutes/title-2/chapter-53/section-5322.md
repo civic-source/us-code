@@ -3,9 +3,9 @@ title: "Section 5322 - Lyndon Baines Johnson congressional interns"
 usc_title: 2
 usc_section: "5322"
 chapter: 53
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "2 U.S.C. § 5322"
-generated_at: "2026-03-30T01:19:48.684Z"
+generated_at: "2026-03-30T01:24:23.822Z"
 ---
 
 # § 5322. Lyndon Baines Johnson congressional interns

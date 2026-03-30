@@ -3,9 +3,9 @@ title: "Section 56 - Transactions with certain affiliates"
 usc_title: 15
 usc_section: "56"
 chapter: 2
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 56"
-generated_at: "2026-03-30T01:20:30.738Z"
+generated_at: "2026-03-30T01:24:47.024Z"
 ---
 
 # § 80a–56. Transactions with certain affiliates

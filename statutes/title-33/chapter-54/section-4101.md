@@ -3,9 +3,9 @@ title: "Section 4101 - Definitions"
 usc_title: 33
 usc_section: "4101"
 chapter: 54
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "33 U.S.C. § 4101"
-generated_at: "2026-03-30T01:22:46.180Z"
+generated_at: "2026-03-30T01:25:29.864Z"
 ---
 
 # § 4101. Definitions

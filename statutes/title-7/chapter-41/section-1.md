@@ -3,9 +3,9 @@ title: "Section 1 - McGovern-Dole International Food for Education and Child Nut
 usc_title: 7
 usc_section: "1"
 chapter: 41
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T01:20:23.002Z"
+generated_at: "2026-03-30T01:24:33.307Z"
 ---
 
 # § 1736o–1. McGovern-Dole International Food for Education and Child Nutrition Program

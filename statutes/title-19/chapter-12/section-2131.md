@@ -3,9 +3,9 @@ title: "Section 2131 - Authorization of appropriation for GATT revision"
 usc_title: 19
 usc_section: "2131"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "19 U.S.C. § 2131"
-generated_at: "2026-03-30T01:21:06.219Z"
+generated_at: "2026-03-30T01:25:02.335Z"
 ---
 
 # § 2131. Authorization of appropriation for GATT revision

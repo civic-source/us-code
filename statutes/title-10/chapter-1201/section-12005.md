@@ -3,9 +3,9 @@ title: "Section 12005 - Strength in grade: commissioned officers in grades below
 usc_title: 10
 usc_section: "12005"
 chapter: 1201
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 12005"
-generated_at: "2026-03-30T01:19:58.352Z"
+generated_at: "2026-03-30T01:24:39.046Z"
 ---
 
 # § 12005. Strength in grade: commissioned officers in grades below brigadier general or rear admiral (lower half) in an active status

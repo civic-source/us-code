@@ -3,9 +3,9 @@ title: "Section 665 - Investigations as to effect of sewage, industrial wastes; 
 usc_title: 16
 usc_section: "665"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 665"
-generated_at: "2026-03-30T01:21:05.016Z"
+generated_at: "2026-03-30T01:24:57.347Z"
 ---
 
 # § 665. Investigations as to effect of sewage, industrial wastes; reports

@@ -3,9 +3,9 @@ title: "Section 9205 - Procedures"
 usc_title: 5
 usc_section: "9205"
 chapter: 92
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "5 U.S.C. § 9205"
-generated_at: "2026-03-30T01:19:01.591Z"
+generated_at: "2026-03-30T01:24:25.515Z"
 ---
 
 # § 9205. Procedures

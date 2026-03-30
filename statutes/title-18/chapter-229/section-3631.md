@@ -3,9 +3,9 @@ title: "Section 3631 - Duties of the Attorney General"
 usc_title: 18
 usc_section: "3631"
 chapter: 229
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "18 U.S.C. § 3631"
-generated_at: "2026-03-30T01:21:10.668Z"
+generated_at: "2026-03-30T01:24:51.204Z"
 ---
 
 # § 3631. Duties of the Attorney General

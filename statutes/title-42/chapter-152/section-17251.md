@@ -3,9 +3,9 @@ title: "Section 17251 - Carbon capture"
 usc_title: 42
 usc_section: "17251"
 chapter: 152
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 17251"
-generated_at: "2026-03-30T01:23:49.896Z"
+generated_at: "2026-03-30T01:25:56.583Z"
 ---
 
 # § 17251. Carbon capture

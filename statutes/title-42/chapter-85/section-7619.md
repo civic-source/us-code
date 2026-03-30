@@ -3,9 +3,9 @@ title: "Section 7619 - Air quality monitoring"
 usc_title: 42
 usc_section: "7619"
 chapter: 85
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 7619"
-generated_at: "2026-03-30T01:23:49.740Z"
+generated_at: "2026-03-30T01:25:56.409Z"
 ---
 
 # § 7619. Air quality monitoring

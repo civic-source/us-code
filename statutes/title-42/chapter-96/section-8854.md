@@ -3,9 +3,9 @@ title: "Section 8854 - Utilization of National Forest System in wood energy deve
 usc_title: 42
 usc_section: "8854"
 chapter: 96
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 8854"
-generated_at: "2026-03-30T01:23:49.764Z"
+generated_at: "2026-03-30T01:25:56.436Z"
 ---
 
 # § 8854. Utilization of National Forest System in wood energy development projects

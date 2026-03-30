@@ -3,9 +3,9 @@ title: "Section 12107 - Army National Guard of United States; Air National Guard
 usc_title: 10
 usc_section: "12107"
 chapter: 1203
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 12107"
-generated_at: "2026-03-30T01:19:58.353Z"
+generated_at: "2026-03-30T01:24:39.047Z"
 ---
 
 # § 12107. Army National Guard of United States; Air National Guard of the United States: enlistment in

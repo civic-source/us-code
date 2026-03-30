@@ -3,9 +3,9 @@ title: "Section 3373b - Unidentified anomalous phenomena reporting procedures"
 usc_title: 50
 usc_section: "3373b"
 chapter: 45
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "50 U.S.C. § 3373b"
-generated_at: "2026-03-30T01:23:56.188Z"
+generated_at: "2026-03-30T01:26:05.087Z"
 ---
 
 # § 3373b. Unidentified anomalous phenomena reporting procedures

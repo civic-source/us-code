@@ -3,9 +3,9 @@ title: "Section 5337 - State of good repair grants"
 usc_title: 49
 usc_section: "5337"
 chapter: 53
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 5337"
-generated_at: "2026-03-30T01:24:07.362Z"
+generated_at: "2026-03-30T01:26:15.788Z"
 ---
 
 # § 5337. State of good repair grants

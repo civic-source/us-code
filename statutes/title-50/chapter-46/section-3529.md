@@ -3,9 +3,9 @@ title: "Section 3529 - Medical advisory board"
 usc_title: 50
 usc_section: "3529"
 chapter: 46
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "50 U.S.C. § 3529"
-generated_at: "2026-03-30T01:23:56.192Z"
+generated_at: "2026-03-30T01:26:05.093Z"
 ---
 
 # § 3529. Medical advisory board

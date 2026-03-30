@@ -3,9 +3,9 @@ title: "Section 2622 - Investigations"
 usc_title: 7
 usc_section: "2622"
 chapter: 58
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "7 U.S.C. § 2622"
-generated_at: "2026-03-30T01:20:23.045Z"
+generated_at: "2026-03-30T01:24:33.433Z"
 ---
 
 # § 2622. Investigations

@@ -3,9 +3,9 @@ title: "Section 16323 - Science and engineering education pilot program"
 usc_title: 42
 usc_section: "16323"
 chapter: 149
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 16323"
-generated_at: "2026-03-30T01:23:49.880Z"
+generated_at: "2026-03-30T01:25:56.563Z"
 ---
 
 # § 16323. Science and engineering education pilot program

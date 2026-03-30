@@ -3,9 +3,9 @@ title: "Section 5225 - Graduated authorization to purchase"
 usc_title: 12
 usc_section: "5225"
 chapter: 52
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 5225"
-generated_at: "2026-03-30T01:20:55.780Z"
+generated_at: "2026-03-30T01:24:44.681Z"
 ---
 
 # § 5225. Graduated authorization to purchase

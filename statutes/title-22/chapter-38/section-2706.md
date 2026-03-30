@@ -3,9 +3,9 @@ title: "Section 2706 - Reprograming of funds; notice requirements"
 usc_title: 22
 usc_section: "2706"
 chapter: 38
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 2706"
-generated_at: "2026-03-30T01:22:08.181Z"
+generated_at: "2026-03-30T01:25:10.614Z"
 ---
 
 # § 2706. Reprograming of funds; notice requirements

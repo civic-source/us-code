@@ -3,9 +3,9 @@ title: "Section 275 - Alarm monitoring services"
 usc_title: 47
 usc_section: "275"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "47 U.S.C. § 275"
-generated_at: "2026-03-30T01:23:54.221Z"
+generated_at: "2026-03-30T01:26:00.527Z"
 ---
 
 # § 275. Alarm monitoring services

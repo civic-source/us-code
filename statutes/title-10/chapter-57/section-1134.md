@@ -3,9 +3,9 @@ title: "Section 1134 - Medal of honor: award to individual interred in Tomb of t
 usc_title: 10
 usc_section: "1134"
 chapter: 57
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 1134"
-generated_at: "2026-03-30T01:19:58.242Z"
+generated_at: "2026-03-30T01:24:38.939Z"
 ---
 
 # § 1134. Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war

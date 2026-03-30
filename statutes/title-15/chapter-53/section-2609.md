@@ -3,9 +3,9 @@ title: "Section 2609 - Research, development, collection, dissemination, and uti
 usc_title: 15
 usc_section: "2609"
 chapter: 53
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 2609"
-generated_at: "2026-03-30T01:20:30.842Z"
+generated_at: "2026-03-30T01:24:47.127Z"
 ---
 
 # § 2609. Research, development, collection, dissemination, and utilization of information

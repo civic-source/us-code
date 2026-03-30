@@ -3,9 +3,9 @@ title: "Section 2361 - Contract to purchase by priority purchaser"
 usc_title: 42
 usc_section: "2361"
 chapter: 24
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 2361"
-generated_at: "2026-03-30T01:23:49.607Z"
+generated_at: "2026-03-30T01:25:56.259Z"
 ---
 
 # § 2361. Contract to purchase by priority purchaser

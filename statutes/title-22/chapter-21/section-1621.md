@@ -3,9 +3,9 @@ title: "Section 1621 - Definitions"
 usc_title: 22
 usc_section: "1621"
 chapter: 21
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 1621"
-generated_at: "2026-03-30T01:22:08.135Z"
+generated_at: "2026-03-30T01:25:10.573Z"
 ---
 
 # § 1621. Definitions

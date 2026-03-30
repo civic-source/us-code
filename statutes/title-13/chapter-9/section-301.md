@@ -3,9 +3,9 @@ title: "Section 301 - Collection and publication"
 usc_title: 13
 usc_section: "301"
 chapter: 9
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "13 U.S.C. § 301"
-generated_at: "2026-03-30T01:20:35.275Z"
+generated_at: "2026-03-30T01:24:42.482Z"
 ---
 
 # § 301. Collection and publication

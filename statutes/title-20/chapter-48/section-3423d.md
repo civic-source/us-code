@@ -3,9 +3,9 @@ title: "Section 3423d - Office of English Language Acquisition, Language Enhance
 usc_title: 20
 usc_section: "3423d"
 chapter: 48
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "20 U.S.C. § 3423d"
-generated_at: "2026-03-30T01:21:15.550Z"
+generated_at: "2026-03-30T01:24:53.906Z"
 ---
 
 # § 3423d. Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students

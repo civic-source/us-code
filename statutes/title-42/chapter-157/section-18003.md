@@ -3,9 +3,9 @@ title: "Section 18003 - Immediate information that allows consumers to identify 
 usc_title: 42
 usc_section: "18003"
 chapter: 157
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 18003"
-generated_at: "2026-03-30T01:23:49.904Z"
+generated_at: "2026-03-30T01:25:56.592Z"
 ---
 
 # § 18003. Immediate information that allows consumers to identify affordable coverage options

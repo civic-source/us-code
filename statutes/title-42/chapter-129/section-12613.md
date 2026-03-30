@@ -3,9 +3,9 @@ title: "Section 12613 - National service program"
 usc_title: 42
 usc_section: "12613"
 chapter: 129
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 12613"
-generated_at: "2026-03-30T01:23:49.826Z"
+generated_at: "2026-03-30T01:25:56.504Z"
 ---
 
 # § 12613. National service program

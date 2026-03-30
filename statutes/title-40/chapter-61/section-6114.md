@@ -3,9 +3,9 @@ title: "Section 6114 - Oliver Wendell Holmes Garden"
 usc_title: 40
 usc_section: "6114"
 chapter: 61
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "40 U.S.C. § 6114"
-generated_at: "2026-03-30T01:22:56.118Z"
+generated_at: "2026-03-30T01:25:34.779Z"
 ---
 
 # § 6114. Oliver Wendell Holmes Garden

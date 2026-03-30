@@ -3,9 +3,9 @@ title: "Section 8815 - Price guarantees"
 usc_title: 42
 usc_section: "8815"
 chapter: 96
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 8815"
-generated_at: "2026-03-30T01:23:49.763Z"
+generated_at: "2026-03-30T01:25:56.436Z"
 ---
 
 # § 8815. Price guarantees

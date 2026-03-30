@@ -3,9 +3,9 @@ title: "Section 1736 - Shared civil penalties"
 usc_title: 30
 usc_section: "1736"
 chapter: 29
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "30 U.S.C. § 1736"
-generated_at: "2026-03-30T01:22:10.691Z"
+generated_at: "2026-03-30T01:25:13.920Z"
 ---
 
 # § 1736. Shared civil penalties

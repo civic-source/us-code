@@ -3,9 +3,9 @@ title: "Section 203 - Additional lands or deposits"
 usc_title: 30
 usc_section: "203"
 chapter: 3
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "30 U.S.C. § 203"
-generated_at: "2026-03-30T01:22:10.664Z"
+generated_at: "2026-03-30T01:25:13.890Z"
 ---
 
 # § 203. Additional lands or deposits

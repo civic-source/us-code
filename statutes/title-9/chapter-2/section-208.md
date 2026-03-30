@@ -3,9 +3,9 @@ title: "Section 208 - Application"
 usc_title: 9
 usc_section: "208"
 chapter: 2
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "9 U.S.C. § 208"
-generated_at: "2026-03-30T01:19:52.316Z"
+generated_at: "2026-03-30T01:24:26.901Z"
 ---
 
 # § 208. Application

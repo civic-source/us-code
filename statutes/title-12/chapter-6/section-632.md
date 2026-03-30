@@ -3,9 +3,9 @@ title: "Section 632 - Jurisdiction of United States courts; disposition by banks
 usc_title: 12
 usc_section: "632"
 chapter: 6
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 632"
-generated_at: "2026-03-30T01:20:55.650Z"
+generated_at: "2026-03-30T01:24:44.541Z"
 ---
 
 # § 632. Jurisdiction of United States courts; disposition by banks of foreign owned property

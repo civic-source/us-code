@@ -3,9 +3,9 @@ title: "Section 1201 - Issuance of visas"
 usc_title: 8
 usc_section: "1201"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "8 U.S.C. § 1201"
-generated_at: "2026-03-30T01:20:16.700Z"
+generated_at: "2026-03-30T01:24:28.158Z"
 ---
 
 # § 1201. Issuance of visas

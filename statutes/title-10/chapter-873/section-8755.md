@@ -3,9 +3,9 @@ title: "Section 8755 - Disclosures for offerors for certain shipbuilding major d
 usc_title: 10
 usc_section: "8755"
 chapter: 873
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 8755"
-generated_at: "2026-03-30T01:19:58.340Z"
+generated_at: "2026-03-30T01:24:39.034Z"
 ---
 
 # § 8755. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts

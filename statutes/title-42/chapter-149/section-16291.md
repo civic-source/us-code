@@ -3,9 +3,9 @@ title: "Section 16291 - Fossil energy"
 usc_title: 42
 usc_section: "16291"
 chapter: 149
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 16291"
-generated_at: "2026-03-30T01:23:49.876Z"
+generated_at: "2026-03-30T01:25:56.559Z"
 ---
 
 # § 16291. Fossil energy

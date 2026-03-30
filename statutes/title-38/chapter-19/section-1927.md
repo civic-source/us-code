@@ -3,9 +3,9 @@ title: "Section 1927 - Authority for higher monthly installments payable to cert
 usc_title: 38
 usc_section: "1927"
 chapter: 19
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "38 U.S.C. § 1927"
-generated_at: "2026-03-30T01:22:58.376Z"
+generated_at: "2026-03-30T01:25:34.319Z"
 ---
 
 # § 1927. Authority for higher monthly installments payable to certain annuitants

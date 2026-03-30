@@ -3,9 +3,9 @@ title: "Section 3205 - Confidentiality"
 usc_title: 25
 usc_section: "3205"
 chapter: 34
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "25 U.S.C. § 3205"
-generated_at: "2026-03-30T01:21:29.355Z"
+generated_at: "2026-03-30T01:25:06.245Z"
 ---
 
 # § 3205. Confidentiality

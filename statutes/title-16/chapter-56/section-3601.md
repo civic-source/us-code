@@ -3,9 +3,9 @@ title: "Section 3601 - Definitions"
 usc_title: 16
 usc_section: "3601"
 chapter: 56
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 3601"
-generated_at: "2026-03-30T01:21:05.105Z"
+generated_at: "2026-03-30T01:24:57.443Z"
 ---
 
 # § 3601. Definitions

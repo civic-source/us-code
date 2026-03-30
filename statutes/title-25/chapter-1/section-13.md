@@ -3,9 +3,9 @@ title: "Section 13 - Expenditure of appropriations by Bureau"
 usc_title: 25
 usc_section: "13"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "25 U.S.C. § 13"
-generated_at: "2026-03-30T01:21:29.309Z"
+generated_at: "2026-03-30T01:25:06.196Z"
 ---
 
 # § 13. Expenditure of appropriations by Bureau

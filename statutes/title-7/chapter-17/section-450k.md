@@ -3,9 +3,9 @@ title: "Section 450k - Transferred"
 usc_title: 7
 usc_section: "450k"
 chapter: 17
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "7 U.S.C. § 450k"
-generated_at: "2026-03-30T01:20:22.958Z"
+generated_at: "2026-03-30T01:24:33.264Z"
 ---
 
 # § 450k. Transferred

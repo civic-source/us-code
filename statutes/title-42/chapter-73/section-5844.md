@@ -3,9 +3,9 @@ title: "Section 5844 - Office of Nuclear Safety and Safeguards"
 usc_title: 42
 usc_section: "5844"
 chapter: 73
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 5844"
-generated_at: "2026-03-30T01:23:49.670Z"
+generated_at: "2026-03-30T01:25:56.328Z"
 ---
 
 # § 5844. Office of Nuclear Safety and Safeguards

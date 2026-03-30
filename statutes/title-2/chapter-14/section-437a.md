@@ -3,9 +3,9 @@ title: "Section 437a - Repealed. Pub. L. 94–283, title I, § 105 , May 11, 197
 usc_title: 2
 usc_section: "437a"
 chapter: 14
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "2 U.S.C. § 437a"
-generated_at: "2026-03-30T01:19:48.651Z"
+generated_at: "2026-03-30T01:24:23.788Z"
 ---
 
 # § 437a. Repealed. Pub. L. 94–283, title I, § 105 , May 11, 1976 , 90 Stat. 481

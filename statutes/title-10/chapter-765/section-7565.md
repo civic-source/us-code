@@ -3,9 +3,9 @@ title: "Section 7565 - Colors, standards, and guidons of demobilized organizatio
 usc_title: 10
 usc_section: "7565"
 chapter: 765
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 7565"
-generated_at: "2026-03-30T01:19:58.327Z"
+generated_at: "2026-03-30T01:24:39.022Z"
 ---
 
 # § 7565. Colors, standards, and guidons of demobilized organizations: disposition

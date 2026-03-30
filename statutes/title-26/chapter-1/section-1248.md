@@ -3,9 +3,9 @@ title: "Section 1248 - Gain from certain sales or exchanges of stock in certain 
 usc_title: 26
 usc_section: "1248"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 1248"
-generated_at: "2026-03-30T01:22:40.393Z"
+generated_at: "2026-03-30T01:25:25.135Z"
 ---
 
 # § 1248. Gain from certain sales or exchanges of stock in certain foreign corporations

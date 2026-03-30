@@ -3,9 +3,9 @@ title: "Section 668jj - Omitted"
 usc_title: 16
 usc_section: "668jj"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 668jj"
-generated_at: "2026-03-30T01:21:05.018Z"
+generated_at: "2026-03-30T01:24:57.349Z"
 ---
 
 # §§ 668ff to 668jj. Omitted

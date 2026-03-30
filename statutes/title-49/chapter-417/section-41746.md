@@ -3,9 +3,9 @@ title: "Section 41746 - Tracking service"
 usc_title: 49
 usc_section: "41746"
 chapter: 417
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 41746"
-generated_at: "2026-03-30T01:24:07.417Z"
+generated_at: "2026-03-30T01:26:15.849Z"
 ---
 
 # § 41746. Tracking service

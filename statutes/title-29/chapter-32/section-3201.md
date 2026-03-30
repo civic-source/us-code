@@ -3,9 +3,9 @@ title: "Section 3201 - Operations"
 usc_title: 29
 usc_section: "3201"
 chapter: 32
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "29 U.S.C. § 3201"
-generated_at: "2026-03-30T01:22:35.558Z"
+generated_at: "2026-03-30T01:25:19.634Z"
 ---
 
 # § 3201. Operations

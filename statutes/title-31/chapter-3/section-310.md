@@ -3,9 +3,9 @@ title: "Section 310 - Financial Crimes Enforcement Network"
 usc_title: 31
 usc_section: "310"
 chapter: 3
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "31 U.S.C. § 310"
-generated_at: "2026-03-30T01:22:48.316Z"
+generated_at: "2026-03-30T01:25:27.909Z"
 ---
 
 # § 310. Financial Crimes Enforcement Network

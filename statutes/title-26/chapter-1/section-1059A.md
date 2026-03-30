@@ -3,9 +3,9 @@ title: "Section 1059A - Limitation on taxpayer’s basis or inventory cost in pr
 usc_title: 26
 usc_section: "1059A"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 1059A"
-generated_at: "2026-03-30T01:22:40.390Z"
+generated_at: "2026-03-30T01:25:25.132Z"
 ---
 
 # § 1059A. Limitation on taxpayer’s basis or inventory cost in property imported from related persons

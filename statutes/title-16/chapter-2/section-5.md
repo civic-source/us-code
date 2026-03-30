@@ -3,9 +3,9 @@ title: "Section 5 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5"
 chapter: 2
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T01:21:05.006Z"
+generated_at: "2026-03-30T01:24:57.337Z"
 ---
 
 # § 546a–5. Authorization of appropriations

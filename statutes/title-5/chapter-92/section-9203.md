@@ -3,9 +3,9 @@ title: "Section 9203 - Agency policies; complaint procedures"
 usc_title: 5
 usc_section: "9203"
 chapter: 92
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "5 U.S.C. § 9203"
-generated_at: "2026-03-30T01:19:01.591Z"
+generated_at: "2026-03-30T01:24:25.514Z"
 ---
 
 # § 9203. Agency policies; complaint procedures

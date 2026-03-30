@@ -3,9 +3,9 @@ title: "Section 294s - Rural maternal and obstetric care training demonstration"
 usc_title: 42
 usc_section: "294s"
 chapter: 6
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 294s"
-generated_at: "2026-03-30T01:23:49.271Z"
+generated_at: "2026-03-30T01:25:55.912Z"
 ---
 
 # § 294s. Rural maternal and obstetric care training demonstration

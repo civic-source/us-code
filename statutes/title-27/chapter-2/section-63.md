@@ -3,9 +3,9 @@ title: "Section 63 - Repealed. June 19, 1934, ch. 657, § 3 , 48 Stat. 1116"
 usc_title: 27
 usc_section: "63"
 chapter: 2
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "27 U.S.C. § 63"
-generated_at: "2026-03-30T01:22:10.079Z"
+generated_at: "2026-03-30T01:25:12.340Z"
 ---
 
 # § 63. Repealed. June 19, 1934, ch. 657, § 3 , 48 Stat. 1116

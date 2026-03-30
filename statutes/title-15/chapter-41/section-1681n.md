@@ -3,9 +3,9 @@ title: "Section 1681n - Civil liability for willful noncompliance"
 usc_title: 15
 usc_section: "1681n"
 chapter: 41
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 1681n"
-generated_at: "2026-03-30T01:20:30.818Z"
+generated_at: "2026-03-30T01:24:47.103Z"
 ---
 
 # § 1681n. Civil liability for willful noncompliance

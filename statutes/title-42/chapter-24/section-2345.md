@@ -3,9 +3,9 @@ title: "Section 2345 - Deeds; form and provisions"
 usc_title: 42
 usc_section: "2345"
 chapter: 24
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 2345"
-generated_at: "2026-03-30T01:23:49.607Z"
+generated_at: "2026-03-30T01:25:56.259Z"
 ---
 
 # § 2345. Deeds; form and provisions

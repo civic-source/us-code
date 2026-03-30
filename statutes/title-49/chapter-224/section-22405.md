@@ -3,9 +3,9 @@ title: "Section 22405 - Substantive criteria and standards"
 usc_title: 49
 usc_section: "22405"
 chapter: 224
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 22405"
-generated_at: "2026-03-30T01:24:07.385Z"
+generated_at: "2026-03-30T01:26:15.813Z"
 ---
 
 # § 22405. Substantive criteria and standards

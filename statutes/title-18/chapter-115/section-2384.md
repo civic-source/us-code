@@ -3,9 +3,9 @@ title: "Section 2384 - Seditious conspiracy"
 usc_title: 18
 usc_section: "2384"
 chapter: 115
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "18 U.S.C. § 2384"
-generated_at: "2026-03-30T01:21:10.652Z"
+generated_at: "2026-03-30T01:24:51.187Z"
 ---
 
 # § 2384. Seditious conspiracy

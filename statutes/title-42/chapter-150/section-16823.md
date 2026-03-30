@@ -3,9 +3,9 @@ title: "Section 16823 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16823"
 chapter: 150
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 16823"
-generated_at: "2026-03-30T01:23:49.887Z"
+generated_at: "2026-03-30T01:25:56.572Z"
 ---
 
 # §§ 16821 to 16823. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

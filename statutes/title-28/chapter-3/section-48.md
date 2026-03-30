@@ -3,9 +3,9 @@ title: "Section 48 - Terms of court"
 usc_title: 28
 usc_section: "48"
 chapter: 3
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "28 U.S.C. § 48"
-generated_at: "2026-03-30T01:22:26.991Z"
+generated_at: "2026-03-30T01:25:13.451Z"
 ---
 
 # § 48. Terms of court

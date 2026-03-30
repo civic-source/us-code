@@ -3,9 +3,9 @@ title: "Section 16274 - Nuclear science and engineering support"
 usc_title: 42
 usc_section: "16274"
 chapter: 149
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 16274"
-generated_at: "2026-03-30T01:23:49.874Z"
+generated_at: "2026-03-30T01:25:56.557Z"
 ---
 
 # § 16274. Nuclear science and engineering support
@@ -75,7 +75,7 @@ generated_at: "2026-03-30T01:23:49.874Z"
   - **(2)** In carrying out the subprogram under this subsection, the Secretary shall—
     - **(A)** encourage appropriate partnerships among National Laboratories, affected universities, community colleges, trade schools, registered apprenticeship programs, pre-apprenticeship programs, and industry; and
     - **(B)** on an annual basis, evaluate the needs of the nuclear energy community to implement traineeships for focused topical areas addressing mission-specific workforce needs.
-    - **(A)** In carrying out the subprogram under this subsection, the Secretary may implement traineeships in focus areas that, in the determination of the Secretary, are necessary to support the nuclear energy sector in the United States, including—
+    - **(A)** 2 2 So in original. There are two subpars. (A). Probably should be designated par. (3). In carrying out the subprogram under this subsection, the Secretary may implement traineeships in focus areas that, in the determination of the Secretary, are necessary to support the nuclear energy sector in the United States, including—
       - **(i)** research and development;
       - **(ii)** construction and operation;
       - **(iii)** associated supply chains; and

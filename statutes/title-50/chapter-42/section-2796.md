@@ -3,9 +3,9 @@ title: "Section 2796 - Limitation on establishing an enduring bioassurance progr
 usc_title: 50
 usc_section: "2796"
 chapter: 42
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "50 U.S.C. § 2796"
-generated_at: "2026-03-30T01:23:56.165Z"
+generated_at: "2026-03-30T01:26:05.049Z"
 ---
 
 # § 2796. Limitation on establishing an enduring bioassurance program within the Administration

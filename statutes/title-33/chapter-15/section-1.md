@@ -3,9 +3,9 @@ title: "Section 1 - Authorization of appropriation"
 usc_title: 33
 usc_section: "1"
 chapter: 15
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T01:22:46.117Z"
+generated_at: "2026-03-30T01:25:29.795Z"
 ---
 
 # § 702k–1. Authorization of appropriation

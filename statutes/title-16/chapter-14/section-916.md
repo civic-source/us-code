@@ -3,9 +3,9 @@ title: "Section 916 - Definitions"
 usc_title: 16
 usc_section: "916"
 chapter: 14
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 916"
-generated_at: "2026-03-30T01:21:05.049Z"
+generated_at: "2026-03-30T01:24:57.381Z"
 ---
 
 # § 916. Definitions

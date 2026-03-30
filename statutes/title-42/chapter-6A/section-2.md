@@ -3,9 +3,9 @@ title: "Section 2 - Education and outreach"
 usc_title: 42
 usc_section: "2"
 chapter: 6
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T01:23:49.337Z"
+generated_at: "2026-03-30T01:25:55.976Z"
 ---
 
 # § 300mm–2. Education and outreach

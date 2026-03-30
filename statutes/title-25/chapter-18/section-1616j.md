@@ -3,9 +3,9 @@ title: "Section 1616j - Retention bonus"
 usc_title: 25
 usc_section: "1616j"
 chapter: 18
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "25 U.S.C. § 1616j"
-generated_at: "2026-03-30T01:21:29.328Z"
+generated_at: "2026-03-30T01:25:06.217Z"
 ---
 
 # § 1616j. Retention bonus

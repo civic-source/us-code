@@ -3,9 +3,9 @@ title: "Section 1828 - Rules and regulations"
 usc_title: 15
 usc_section: "1828"
 chapter: 44
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 1828"
-generated_at: "2026-03-30T01:20:30.827Z"
+generated_at: "2026-03-30T01:24:47.111Z"
 ---
 
 # § 1828. Rules and regulations

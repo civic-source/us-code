@@ -3,9 +3,9 @@ title: "Section 5106h - Authorization of appropriations"
 usc_title: 42
 usc_section: "5106h"
 chapter: 67
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 5106h"
-generated_at: "2026-03-30T01:23:49.653Z"
+generated_at: "2026-03-30T01:25:56.311Z"
 ---
 
 # § 5106h. Authorization of appropriations

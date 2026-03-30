@@ -3,9 +3,9 @@ title: "Section 47534 - Prohibition on operating certain aircraft weighing 75,00
 usc_title: 49
 usc_section: "47534"
 chapter: 475
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 47534"
-generated_at: "2026-03-30T01:24:07.444Z"
+generated_at: "2026-03-30T01:26:15.880Z"
 ---
 
 # § 47534. Prohibition on operating certain aircraft weighing 75,000 pounds or less not complying with stage 3 noise levels

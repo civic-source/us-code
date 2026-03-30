@@ -3,9 +3,9 @@ title: "Section 3511 - Omitted]"
 usc_title: 10
 usc_section: "3511"
 chapter: 249
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 3511"
-generated_at: "2026-03-30T01:19:58.304Z"
+generated_at: "2026-03-30T01:24:39.000Z"
 ---
 
 # [§§ 3502 to 3511. Omitted]

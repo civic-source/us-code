@@ -3,9 +3,9 @@ title: "Section 8514c - Imposition of sanctions with respect to persons engaged 
 usc_title: 22
 usc_section: "8514c"
 chapter: 92
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 8514c"
-generated_at: "2026-03-30T01:22:08.267Z"
+generated_at: "2026-03-30T01:25:10.686Z"
 ---
 
 # § 8514c. Imposition of sanctions with respect to persons engaged in the diversion of goods intended for the people of Iran

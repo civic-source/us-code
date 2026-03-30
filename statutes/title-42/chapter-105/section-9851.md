@@ -3,9 +3,9 @@ title: "Section 9851 - Political activities"
 usc_title: 42
 usc_section: "9851"
 chapter: 105
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 9851"
-generated_at: "2026-03-30T01:23:49.786Z"
+generated_at: "2026-03-30T01:25:56.460Z"
 ---
 
 # § 9851. Political activities

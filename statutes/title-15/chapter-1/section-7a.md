@@ -3,9 +3,9 @@ title: "Section 7a - Definitions"
 usc_title: 15
 usc_section: "7a"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 7a"
-generated_at: "2026-03-30T01:20:30.691Z"
+generated_at: "2026-03-30T01:24:46.976Z"
 ---
 
 # § 7a. Definitions

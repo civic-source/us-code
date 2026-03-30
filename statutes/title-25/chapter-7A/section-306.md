@@ -3,9 +3,9 @@ title: "Section 306 - Expenditures for encouragement of industry and self-suppor
 usc_title: 25
 usc_section: "306"
 chapter: 7
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "25 U.S.C. § 306"
-generated_at: "2026-03-30T01:21:29.314Z"
+generated_at: "2026-03-30T01:25:06.202Z"
 ---
 
 # § 306. Expenditures for encouragement of industry and self-support; repayment

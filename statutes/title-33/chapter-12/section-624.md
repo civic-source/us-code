@@ -3,9 +3,9 @@ title: "Section 624 - Limitation on improvement work by private contract"
 usc_title: 33
 usc_section: "624"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "33 U.S.C. § 624"
-generated_at: "2026-03-30T01:22:46.111Z"
+generated_at: "2026-03-30T01:25:29.790Z"
 ---
 
 # § 624. Limitation on improvement work by private contract

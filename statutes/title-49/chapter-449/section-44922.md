@@ -3,9 +3,9 @@ title: "Section 44922 - Deputization of State and local law enforcement officers
 usc_title: 49
 usc_section: "44922"
 chapter: 449
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 44922"
-generated_at: "2026-03-30T01:24:07.430Z"
+generated_at: "2026-03-30T01:26:15.863Z"
 ---
 
 # § 44922. Deputization of State and local law enforcement officers

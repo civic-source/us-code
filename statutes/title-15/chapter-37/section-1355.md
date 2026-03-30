@@ -3,9 +3,9 @@ title: "Section 1355 - Conditions precedent to acceptance of plans and programs 
 usc_title: 15
 usc_section: "1355"
 chapter: 37
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 1355"
-generated_at: "2026-03-30T01:20:30.800Z"
+generated_at: "2026-03-30T01:24:47.087Z"
 ---
 
 # § 1355. Conditions precedent to acceptance of plans and programs for review and approval by Secretary

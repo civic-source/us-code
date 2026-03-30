@@ -3,9 +3,9 @@ title: "Section 6b - Strategic National Stockpile and security countermeasure pr
 usc_title: 42
 usc_section: "6b"
 chapter: 6
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 6b"
-generated_at: "2026-03-30T01:23:49.198Z"
+generated_at: "2026-03-30T01:25:55.840Z"
 ---
 
 # § 247d–6b. Strategic National Stockpile and security countermeasure procurements

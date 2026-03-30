@@ -3,9 +3,9 @@ title: "Section 796c - State plan"
 usc_title: 29
 usc_section: "796c"
 chapter: 16
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "29 U.S.C. § 796c"
-generated_at: "2026-03-30T01:22:35.509Z"
+generated_at: "2026-03-30T01:25:19.585Z"
 ---
 
 # § 796c. State plan

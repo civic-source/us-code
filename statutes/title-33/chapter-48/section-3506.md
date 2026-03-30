@@ -3,9 +3,9 @@ title: "Section 3506 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3506"
 chapter: 48
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "33 U.S.C. § 3506"
-generated_at: "2026-03-30T01:22:46.176Z"
+generated_at: "2026-03-30T01:25:29.858Z"
 ---
 
 # § 3506. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 12496 - Training and technical assistance grants"
 usc_title: 34
 usc_section: "12496"
 chapter: 121
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "34 U.S.C. § 12496"
-generated_at: "2026-03-30T01:22:51.751Z"
+generated_at: "2026-03-30T01:25:28.807Z"
 ---
 
 # § 12496. Training and technical assistance grants

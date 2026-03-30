@@ -3,9 +3,9 @@ title: "Section 831k - Transmission lines; construction or lease; sale of power 
 usc_title: 16
 usc_section: "831k"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 831k"
-generated_at: "2026-03-30T01:21:05.042Z"
+generated_at: "2026-03-30T01:24:57.373Z"
 ---
 
 # § 831k. Transmission lines; construction or lease; sale of power over other than Government lines; rates when sold for resale at profit

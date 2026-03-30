@@ -3,9 +3,9 @@ title: "Section 9018 - Administrative Assistant"
 usc_title: 10
 usc_section: "9018"
 chapter: 903
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 9018"
-generated_at: "2026-03-30T01:19:58.342Z"
+generated_at: "2026-03-30T01:24:39.037Z"
 ---
 
 # § 9018. Administrative Assistant

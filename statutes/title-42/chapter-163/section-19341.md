@@ -3,9 +3,9 @@ title: "Section 19341 - Applied laboratories infrastructure restoration and mode
 usc_title: 42
 usc_section: "19341"
 chapter: 163
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 19341"
-generated_at: "2026-03-30T01:23:49.934Z"
+generated_at: "2026-03-30T01:25:56.625Z"
 ---
 
 # § 19341. Applied laboratories infrastructure restoration and modernization

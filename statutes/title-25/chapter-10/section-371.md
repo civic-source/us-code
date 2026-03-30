@@ -3,9 +3,9 @@ title: "Section 371 - Descent of land"
 usc_title: 25
 usc_section: "371"
 chapter: 10
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "25 U.S.C. § 371"
-generated_at: "2026-03-30T01:21:29.316Z"
+generated_at: "2026-03-30T01:25:06.204Z"
 ---
 
 # § 371. Descent of land

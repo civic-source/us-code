@@ -3,9 +3,9 @@ title: "Section 7 - Reports"
 usc_title: 42
 usc_section: "7"
 chapter: 55
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T01:23:49.643Z"
+generated_at: "2026-03-30T01:25:56.299Z"
 ---
 
 # § 4370m–7. Reports

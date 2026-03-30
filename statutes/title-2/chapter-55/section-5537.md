@@ -3,9 +3,9 @@ title: "Section 5537 - Net Expenses of Equipment Revolving Fund"
 usc_title: 2
 usc_section: "5537"
 chapter: 55
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "2 U.S.C. § 5537"
-generated_at: "2026-03-30T01:19:48.685Z"
+generated_at: "2026-03-30T01:24:23.823Z"
 ---
 
 # § 5537. Net Expenses of Equipment Revolving Fund

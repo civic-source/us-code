@@ -3,9 +3,9 @@ title: "Section 12603 - Attendance at inactive-duty training assemblies: commerc
 usc_title: 10
 usc_section: "12603"
 chapter: 1217
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 12603"
-generated_at: "2026-03-30T01:19:58.356Z"
+generated_at: "2026-03-30T01:24:39.049Z"
 ---
 
 # § 12603. Attendance at inactive-duty training assemblies: commercial travel at Federal supply schedule rates

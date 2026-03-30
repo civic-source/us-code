@@ -3,9 +3,9 @@ title: "Section 1413 - Repealed. Pub. L. 116–260, div. FF, title IX, § 902(b)
 usc_title: 47
 usc_section: "1413"
 chapter: 13
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "47 U.S.C. § 1413"
-generated_at: "2026-03-30T01:23:54.250Z"
+generated_at: "2026-03-30T01:26:00.562Z"
 ---
 
 # § 1413. Repealed. Pub. L. 116–260, div. FF, title IX, § 902(b)(1) , Dec. 27, 2020 , 134 Stat. 3206

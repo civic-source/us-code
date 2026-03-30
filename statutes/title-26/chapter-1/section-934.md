@@ -3,9 +3,9 @@ title: "Section 934 - Limitation on reduction in income tax liability incurred t
 usc_title: 26
 usc_section: "934"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 934"
-generated_at: "2026-03-30T01:22:40.380Z"
+generated_at: "2026-03-30T01:25:25.123Z"
 ---
 
 # § 934. Limitation on reduction in income tax liability incurred to the Virgin Islands

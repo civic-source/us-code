@@ -3,9 +3,9 @@ title: "Section 8207 - Coordination with States and Indian Tribes"
 usc_title: 16
 usc_section: "8207"
 chapter: 101
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 8207"
-generated_at: "2026-03-30T01:21:05.145Z"
+generated_at: "2026-03-30T01:24:57.487Z"
 ---
 
 # § 8207. Coordination with States and Indian Tribes

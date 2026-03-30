@@ -3,9 +3,9 @@ title: "Section 6601 - Congressional findings; priority goals"
 usc_title: 42
 usc_section: "6601"
 chapter: 79
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 6601"
-generated_at: "2026-03-30T01:23:49.690Z"
+generated_at: "2026-03-30T01:25:56.351Z"
 ---
 
 # § 6601. Congressional findings; priority goals

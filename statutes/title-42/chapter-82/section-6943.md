@@ -3,9 +3,9 @@ title: "Section 6943 - Requirements for approval of plans"
 usc_title: 42
 usc_section: "6943"
 chapter: 82
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 6943"
-generated_at: "2026-03-30T01:23:49.701Z"
+generated_at: "2026-03-30T01:25:56.365Z"
 ---
 
 # § 6943. Requirements for approval of plans

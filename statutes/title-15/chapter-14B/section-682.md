@@ -3,9 +3,9 @@ title: "Section 682 - Capital requirements"
 usc_title: 15
 usc_section: "682"
 chapter: 14
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 682"
-generated_at: "2026-03-30T01:20:30.775Z"
+generated_at: "2026-03-30T01:24:47.061Z"
 ---
 
 # § 682. Capital requirements

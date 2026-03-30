@@ -3,9 +3,9 @@ title: "Section 201 - Definitions"
 usc_title: 42
 usc_section: "201"
 chapter: 6
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 201"
-generated_at: "2026-03-30T01:23:49.175Z"
+generated_at: "2026-03-30T01:25:55.823Z"
 ---
 
 # § 201. Definitions

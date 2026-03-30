@@ -3,9 +3,9 @@ title: "Section 3 - Regulations"
 usc_title: 12
 usc_section: "3"
 chapter: 13
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T01:20:55.697Z"
+generated_at: "2026-03-30T01:24:44.590Z"
 ---
 
 # § 1749aaa–3. Regulations

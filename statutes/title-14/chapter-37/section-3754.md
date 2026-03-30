@@ -3,9 +3,9 @@ title: "Section 3754 - Rear admiral and rear admiral (lower half); maximum servi
 usc_title: 14
 usc_section: "3754"
 chapter: 37
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "14 U.S.C. § 3754"
-generated_at: "2026-03-30T01:20:25.559Z"
+generated_at: "2026-03-30T01:24:41.517Z"
 ---
 
 # § 3754. Rear admiral and rear admiral (lower half); maximum service in grade

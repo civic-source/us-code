@@ -3,9 +3,9 @@ title: "Section 1827 - Interpreters in courts of the United States"
 usc_title: 28
 usc_section: "1827"
 chapter: 119
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "28 U.S.C. § 1827"
-generated_at: "2026-03-30T01:22:27.017Z"
+generated_at: "2026-03-30T01:25:13.473Z"
 ---
 
 # § 1827. Interpreters in courts of the United States

@@ -3,9 +3,9 @@ title: "Section 5391 - Inspector General reviews"
 usc_title: 12
 usc_section: "5391"
 chapter: 53
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 5391"
-generated_at: "2026-03-30T01:20:55.790Z"
+generated_at: "2026-03-30T01:24:44.693Z"
 ---
 
 # § 5391. Inspector General reviews

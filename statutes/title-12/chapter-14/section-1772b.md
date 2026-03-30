@@ -3,9 +3,9 @@ title: "Section 1772b - Apportionment"
 usc_title: 12
 usc_section: "1772b"
 chapter: 14
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 1772b"
-generated_at: "2026-03-30T01:20:55.699Z"
+generated_at: "2026-03-30T01:24:44.592Z"
 ---
 
 # § 1772b. Apportionment

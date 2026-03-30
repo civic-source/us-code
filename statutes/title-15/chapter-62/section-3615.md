@@ -3,9 +3,9 @@ title: "Section 3615 - Nonexclusion of other statutory rights and remedies"
 usc_title: 15
 usc_section: "3615"
 chapter: 62
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 3615"
-generated_at: "2026-03-30T01:20:30.857Z"
+generated_at: "2026-03-30T01:24:47.142Z"
 ---
 
 # § 3615. Nonexclusion of other statutory rights and remedies

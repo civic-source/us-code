@@ -3,9 +3,9 @@ title: "Section 2204c - Water management for rural areas"
 usc_title: 7
 usc_section: "2204c"
 chapter: 55
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "7 U.S.C. § 2204c"
-generated_at: "2026-03-30T01:20:23.037Z"
+generated_at: "2026-03-30T01:24:33.339Z"
 ---
 
 # § 2204c. Water management for rural areas

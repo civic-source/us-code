@@ -3,9 +3,9 @@ title: "Section 2078 - International Center for Middle Eastern-Western Dialogue 
 usc_title: 22
 usc_section: "2078"
 chapter: 29
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 2078"
-generated_at: "2026-03-30T01:22:08.143Z"
+generated_at: "2026-03-30T01:25:10.580Z"
 ---
 
 # § 2078. International Center for Middle Eastern-Western Dialogue Trust Fund

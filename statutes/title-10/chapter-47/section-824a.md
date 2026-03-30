@@ -3,9 +3,9 @@ title: "Section 824a - Art. 24a. Special trial counsel"
 usc_title: 10
 usc_section: "824a"
 chapter: 47
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 824a"
-generated_at: "2026-03-30T01:19:58.218Z"
+generated_at: "2026-03-30T01:24:38.916Z"
 ---
 
 # § 824a. Art. 24a. Special trial counsel

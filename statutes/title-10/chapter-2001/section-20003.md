@@ -3,9 +3,9 @@ title: "Section 20003 - Members: minimum service requirement as applied to Space
 usc_title: 10
 usc_section: "20003"
 chapter: 2001
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 20003"
-generated_at: "2026-03-30T01:19:58.363Z"
+generated_at: "2026-03-30T01:24:39.056Z"
 ---
 
 # § 20003. Members: minimum service requirement as applied to Space Force

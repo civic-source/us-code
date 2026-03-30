@@ -3,9 +3,9 @@ title: "Section 4514 - Definitions"
 usc_title: 20
 usc_section: "4514"
 chapter: 57
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "20 U.S.C. § 4514"
-generated_at: "2026-03-30T01:21:15.557Z"
+generated_at: "2026-03-30T01:24:53.913Z"
 ---
 
 # § 4514. Definitions

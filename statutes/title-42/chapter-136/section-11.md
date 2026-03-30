@@ -3,9 +3,9 @@ title: "Section 11 - Transferred"
 usc_title: 42
 usc_section: "11"
 chapter: 136
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T01:23:49.852Z"
+generated_at: "2026-03-30T01:25:56.533Z"
 ---
 
 # § 14043e–11. Transferred

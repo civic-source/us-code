@@ -3,9 +3,9 @@ title: "Section 6941 - Under Secretary of Agriculture for Rural Development"
 usc_title: 7
 usc_section: "6941"
 chapter: 98
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "7 U.S.C. § 6941"
-generated_at: "2026-03-30T01:20:23.086Z"
+generated_at: "2026-03-30T01:24:33.476Z"
 ---
 
 # § 6941. Under Secretary of Agriculture for Rural Development

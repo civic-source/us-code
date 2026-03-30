@@ -3,9 +3,9 @@ title: "Section 4629 - Public works programs and projects of District of Columbi
 usc_title: 42
 usc_section: "4629"
 chapter: 61
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 4629"
-generated_at: "2026-03-30T01:23:49.644Z"
+generated_at: "2026-03-30T01:25:56.301Z"
 ---
 
 # § 4629. Public works programs and projects of District of Columbia government and Washington Metropolitan Area Transit Authority

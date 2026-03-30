@@ -3,9 +3,9 @@ title: "Section 7342 - Higher grade for service in special positions"
 usc_title: 10
 usc_section: "7342"
 chapter: 743
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 7342"
-generated_at: "2026-03-30T01:19:58.324Z"
+generated_at: "2026-03-30T01:24:39.018Z"
 ---
 
 # § 7342. Higher grade for service in special positions

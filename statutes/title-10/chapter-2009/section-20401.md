@@ -3,9 +3,9 @@ title: "Section 20401 - Applicability of certain provisions of law related to se
 usc_title: 10
 usc_section: "20401"
 chapter: 2009
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 20401"
-generated_at: "2026-03-30T01:19:58.365Z"
+generated_at: "2026-03-30T01:24:39.058Z"
 ---
 
 # § 20401. Applicability of certain provisions of law related to separation

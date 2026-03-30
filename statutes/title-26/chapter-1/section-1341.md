@@ -3,9 +3,9 @@ title: "Section 1341 - Computation of tax where taxpayer restores substantial am
 usc_title: 26
 usc_section: "1341"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 1341"
-generated_at: "2026-03-30T01:22:40.399Z"
+generated_at: "2026-03-30T01:25:25.141Z"
 ---
 
 # § 1341. Computation of tax where taxpayer restores substantial amount held under claim of right

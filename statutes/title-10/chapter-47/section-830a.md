@@ -3,9 +3,9 @@ title: "Section 830a - Art. 30a. Proceedings conducted before referral"
 usc_title: 10
 usc_section: "830a"
 chapter: 47
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 830a"
-generated_at: "2026-03-30T01:19:58.220Z"
+generated_at: "2026-03-30T01:24:38.917Z"
 ---
 
 # § 830a. Art. 30a. Proceedings conducted before referral

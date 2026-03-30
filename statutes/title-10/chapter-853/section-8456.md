@@ -3,9 +3,9 @@ title: "Section 8456 - Midshipmen: nomination and selection to fill vacancies"
 usc_title: 10
 usc_section: "8456"
 chapter: 853
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 8456"
-generated_at: "2026-03-30T01:19:58.334Z"
+generated_at: "2026-03-30T01:24:39.028Z"
 ---
 
 # § 8456. Midshipmen: nomination and selection to fill vacancies

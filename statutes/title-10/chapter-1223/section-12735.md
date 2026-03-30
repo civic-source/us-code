@@ -3,9 +3,9 @@ title: "Section 12735 - Inactive status list"
 usc_title: 10
 usc_section: "12735"
 chapter: 1223
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 12735"
-generated_at: "2026-03-30T01:19:58.356Z"
+generated_at: "2026-03-30T01:24:39.050Z"
 ---
 
 # § 12735. Inactive status list

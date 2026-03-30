@@ -3,9 +3,9 @@ title: "Section 944 - Right of way in Oklahoma and Arizona"
 usc_title: 43
 usc_section: "944"
 chapter: 22
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "43 U.S.C. § 944"
-generated_at: "2026-03-30T01:23:05.586Z"
+generated_at: "2026-03-30T01:25:47.045Z"
 ---
 
 # § 944. Right of way in Oklahoma and Arizona

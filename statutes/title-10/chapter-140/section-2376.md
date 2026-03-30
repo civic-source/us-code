@@ -3,9 +3,9 @@ title: "Section 2376 - Renumbered § 3451]"
 usc_title: 10
 usc_section: "2376"
 chapter: 140
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 2376"
-generated_at: "2026-03-30T01:19:58.277Z"
+generated_at: "2026-03-30T01:24:38.973Z"
 ---
 
 # [§ 2376. Renumbered § 3451]

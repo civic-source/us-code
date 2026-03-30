@@ -3,9 +3,9 @@ title: "Section 885 - Cross references"
 usc_title: 26
 usc_section: "885"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 885"
-generated_at: "2026-03-30T01:22:40.376Z"
+generated_at: "2026-03-30T01:25:25.118Z"
 ---
 
 # § 885. Cross references

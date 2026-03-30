@@ -3,9 +3,9 @@ title: "Section 1490a - Loans to provide occupant owned, rental, and cooperative
 usc_title: 42
 usc_section: "1490a"
 chapter: 8
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 1490a"
-generated_at: "2026-03-30T01:23:49.551Z"
+generated_at: "2026-03-30T01:25:56.198Z"
 ---
 
 # § 1490a. Loans to provide occupant owned, rental, and cooperative housing for low and moderate income, elderly or handicapped persons or families

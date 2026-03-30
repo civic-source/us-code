@@ -3,9 +3,9 @@ title: "Section 637a - Repealed. Pub. L. 89–409, § 3(b) , May 2, 1966 , 80 St
 usc_title: 15
 usc_section: "637a"
 chapter: 14
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 637a"
-generated_at: "2026-03-30T01:20:30.762Z"
+generated_at: "2026-03-30T01:24:47.048Z"
 ---
 
 # § 637a. Repealed. Pub. L. 89–409, § 3(b) , May 2, 1966 , 80 Stat. 133

@@ -3,9 +3,9 @@ title: "Section 1430c - Housing goals"
 usc_title: 12
 usc_section: "1430c"
 chapter: 11
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 1430c"
-generated_at: "2026-03-30T01:20:55.658Z"
+generated_at: "2026-03-30T01:24:44.548Z"
 ---
 
 # § 1430c. Housing goals

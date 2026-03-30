@@ -3,9 +3,9 @@ title: "Section 505 - Drainage facilities and minor construction in irrigation w
 usc_title: 43
 usc_section: "505"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "43 U.S.C. § 505"
-generated_at: "2026-03-30T01:23:05.575Z"
+generated_at: "2026-03-30T01:25:47.033Z"
 ---
 
 # § 505. Drainage facilities and minor construction in irrigation works; contracts with repayment organizations; limitation on costs; submission of contract to Congress

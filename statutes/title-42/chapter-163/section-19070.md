@@ -3,9 +3,9 @@ title: "Section 19070 - Research on the impact of inflation"
 usc_title: 42
 usc_section: "19070"
 chapter: 163
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 19070"
-generated_at: "2026-03-30T01:23:49.927Z"
+generated_at: "2026-03-30T01:25:56.618Z"
 ---
 
 # § 19070. Research on the impact of inflation

@@ -3,9 +3,9 @@ title: "Section 3542 - Special training allowance"
 usc_title: 38
 usc_section: "3542"
 chapter: 35
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "38 U.S.C. § 3542"
-generated_at: "2026-03-30T01:22:58.391Z"
+generated_at: "2026-03-30T01:25:34.335Z"
 ---
 
 # § 3542. Special training allowance

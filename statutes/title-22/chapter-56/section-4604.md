@@ -3,9 +3,9 @@ title: "Section 4604 - Powers and duties"
 usc_title: 22
 usc_section: "4604"
 chapter: 56
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 4604"
-generated_at: "2026-03-30T01:22:08.220Z"
+generated_at: "2026-03-30T01:25:10.647Z"
 ---
 
 # § 4604. Powers and duties

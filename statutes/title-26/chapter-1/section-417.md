@@ -3,9 +3,9 @@ title: "Section 417 - Definitions and special rules for purposes of minimum surv
 usc_title: 26
 usc_section: "417"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 417"
-generated_at: "2026-03-30T01:22:40.330Z"
+generated_at: "2026-03-30T01:25:25.075Z"
 ---
 
 # § 417. Definitions and special rules for purposes of minimum survivor annuity requirements

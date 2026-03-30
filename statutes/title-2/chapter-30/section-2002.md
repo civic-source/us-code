@@ -3,9 +3,9 @@ title: "Section 2002 - Acquisition of buildings and facilities for use in emerge
 usc_title: 2
 usc_section: "2002"
 chapter: 30
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "2 U.S.C. § 2002"
-generated_at: "2026-03-30T01:19:48.675Z"
+generated_at: "2026-03-30T01:24:23.811Z"
 ---
 
 # § 2002. Acquisition of buildings and facilities for use in emergency situation

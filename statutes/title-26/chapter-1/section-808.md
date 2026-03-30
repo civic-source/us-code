@@ -3,9 +3,9 @@ title: "Section 808 - Policyholder dividends deduction"
 usc_title: 26
 usc_section: "808"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 808"
-generated_at: "2026-03-30T01:22:40.363Z"
+generated_at: "2026-03-30T01:25:25.107Z"
 ---
 
 # § 808. Policyholder dividends deduction

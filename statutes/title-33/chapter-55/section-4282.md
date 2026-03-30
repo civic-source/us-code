@@ -3,9 +3,9 @@ title: "Section 4282 - Grant programs"
 usc_title: 33
 usc_section: "4282"
 chapter: 55
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "33 U.S.C. § 4282"
-generated_at: "2026-03-30T01:22:46.182Z"
+generated_at: "2026-03-30T01:25:29.865Z"
 ---
 
 # § 4282. Grant programs

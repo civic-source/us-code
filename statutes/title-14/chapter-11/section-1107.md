@@ -3,9 +3,9 @@ title: "Section 1107 - Extension of major acquisition program contracts"
 usc_title: 14
 usc_section: "1107"
 chapter: 11
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "14 U.S.C. § 1107"
-generated_at: "2026-03-30T01:20:25.551Z"
+generated_at: "2026-03-30T01:24:41.509Z"
 ---
 
 # § 1107. Extension of major acquisition program contracts

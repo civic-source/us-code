@@ -3,9 +3,9 @@ title: "Section 191 - Terms of measure, weight, and money in commercial reports"
 usc_title: 15
 usc_section: "191"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 191"
-generated_at: "2026-03-30T01:20:30.743Z"
+generated_at: "2026-03-30T01:24:47.028Z"
 ---
 
 # § 191. Terms of measure, weight, and money in commercial reports

@@ -3,9 +3,9 @@ title: "Section 41105 - Criminal background checks for applicants for employment
 usc_title: 34
 usc_section: "41105"
 chapter: 411
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "34 U.S.C. § 41105"
-generated_at: "2026-03-30T01:22:51.776Z"
+generated_at: "2026-03-30T01:25:28.831Z"
 ---
 
 # § 41105. Criminal background checks for applicants for employment in nursing facilities and home health care agencies

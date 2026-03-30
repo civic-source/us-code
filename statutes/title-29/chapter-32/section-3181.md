@@ -3,9 +3,9 @@ title: "Section 3181 - Authorization of appropriations"
 usc_title: 29
 usc_section: "3181"
 chapter: 32
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "29 U.S.C. § 3181"
-generated_at: "2026-03-30T01:22:35.558Z"
+generated_at: "2026-03-30T01:25:19.634Z"
 ---
 
 # § 3181. Authorization of appropriations

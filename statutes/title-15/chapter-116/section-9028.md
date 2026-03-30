@@ -3,9 +3,9 @@ title: "Section 9028 - Grants for short-time compensation programs"
 usc_title: 15
 usc_section: "9028"
 chapter: 116
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 9028"
-generated_at: "2026-03-30T01:20:30.904Z"
+generated_at: "2026-03-30T01:24:47.189Z"
 ---
 
 # § 9028. Grants for short-time compensation programs

@@ -3,9 +3,9 @@ title: "Section 716 - Arctic maritime transportation"
 usc_title: 14
 usc_section: "716"
 chapter: 7
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "14 U.S.C. § 716"
-generated_at: "2026-03-30T01:20:25.550Z"
+generated_at: "2026-03-30T01:24:41.507Z"
 ---
 
 # § 716. Arctic maritime transportation

@@ -3,9 +3,9 @@ title: "Section 12708 - Compliance"
 usc_title: 42
 usc_section: "12708"
 chapter: 130
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 12708"
-generated_at: "2026-03-30T01:23:49.835Z"
+generated_at: "2026-03-30T01:25:56.513Z"
 ---
 
 # § 12708. Compliance

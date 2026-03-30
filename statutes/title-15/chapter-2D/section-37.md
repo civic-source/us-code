@@ -3,9 +3,9 @@ title: "Section 37 - Rules, regulations, and orders"
 usc_title: 15
 usc_section: "37"
 chapter: 2
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 37"
-generated_at: "2026-03-30T01:20:30.737Z"
+generated_at: "2026-03-30T01:24:47.023Z"
 ---
 
 # § 80a–37. Rules, regulations, and orders

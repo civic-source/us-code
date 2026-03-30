@@ -3,9 +3,9 @@ title: "Section 1915 - Highest State appellate court libraries as depository lib
 usc_title: 44
 usc_section: "1915"
 chapter: 19
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "44 U.S.C. § 1915"
-generated_at: "2026-03-30T01:23:00.585Z"
+generated_at: "2026-03-30T01:25:38.438Z"
 ---
 
 # § 1915. Highest State appellate court libraries as depository libraries

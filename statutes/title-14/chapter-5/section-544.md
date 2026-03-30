@@ -3,9 +3,9 @@ title: "Section 544 - Aids to maritime navigation; penalty"
 usc_title: 14
 usc_section: "544"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "14 U.S.C. § 544"
-generated_at: "2026-03-30T01:20:25.549Z"
+generated_at: "2026-03-30T01:24:41.507Z"
 ---
 
 # § 544. Aids to maritime navigation; penalty

@@ -3,9 +3,9 @@ title: "Section 9451 - Cadets: deficiencies in conduct or studies; effect of fai
 usc_title: 10
 usc_section: "9451"
 chapter: 953
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 9451"
-generated_at: "2026-03-30T01:19:58.346Z"
+generated_at: "2026-03-30T01:24:39.040Z"
 ---
 
 # § 9451. Cadets: deficiencies in conduct or studies; effect of failure on successor

@@ -3,9 +3,9 @@ title: "Section 975a - Repealed. Pub. L. 97–468, title VI, § 615(a)(1) , Jan.
 usc_title: 43
 usc_section: "975a"
 chapter: 22
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "43 U.S.C. § 975a"
-generated_at: "2026-03-30T01:23:05.587Z"
+generated_at: "2026-03-30T01:25:47.046Z"
 ---
 
 # §§ 975, 975a. Repealed. Pub. L. 97–468, title VI, § 615(a)(1) , Jan. 14, 1983 , 96 Stat. 2577

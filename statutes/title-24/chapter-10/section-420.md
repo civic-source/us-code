@@ -3,9 +3,9 @@ title: "Section 420 - Disposition of effects of deceased persons; unclaimed prop
 usc_title: 24
 usc_section: "420"
 chapter: 10
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "24 U.S.C. § 420"
-generated_at: "2026-03-30T01:21:26.087Z"
+generated_at: "2026-03-30T01:25:04.251Z"
 ---
 
 # § 420. Disposition of effects of deceased persons; unclaimed property

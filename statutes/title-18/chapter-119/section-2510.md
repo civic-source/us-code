@@ -3,9 +3,9 @@ title: "Section 2510 - Definitions"
 usc_title: 18
 usc_section: "2510"
 chapter: 119
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "18 U.S.C. § 2510"
-generated_at: "2026-03-30T01:21:10.653Z"
+generated_at: "2026-03-30T01:24:51.188Z"
 ---
 
 # § 2510. Definitions

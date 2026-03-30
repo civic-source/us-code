@@ -3,9 +3,9 @@ title: "Section 1120 - Federal Government and agency priority goals"
 usc_title: 31
 usc_section: "1120"
 chapter: 11
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "31 U.S.C. § 1120"
-generated_at: "2026-03-30T01:22:48.323Z"
+generated_at: "2026-03-30T01:25:27.915Z"
 ---
 
 # § 1120. Federal Government and agency priority goals

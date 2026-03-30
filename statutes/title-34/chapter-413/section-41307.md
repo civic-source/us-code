@@ -3,9 +3,9 @@ title: "Section 41307 - Reporting requirement for missing children"
 usc_title: 34
 usc_section: "41307"
 chapter: 413
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "34 U.S.C. § 41307"
-generated_at: "2026-03-30T01:22:51.777Z"
+generated_at: "2026-03-30T01:25:28.832Z"
 ---
 
 # § 41307. Reporting requirement for missing children

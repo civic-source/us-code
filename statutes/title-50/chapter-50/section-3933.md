@@ -3,9 +3,9 @@ title: "Section 3933 - Fines and penalties under contracts"
 usc_title: 50
 usc_section: "3933"
 chapter: 50
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "50 U.S.C. § 3933"
-generated_at: "2026-03-30T01:23:56.197Z"
+generated_at: "2026-03-30T01:26:05.103Z"
 ---
 
 # § 3933. Fines and penalties under contracts

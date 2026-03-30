@@ -3,9 +3,9 @@ title: "Section 20237 - Numbers to be recommended for promotion"
 usc_title: 10
 usc_section: "20237"
 chapter: 2005
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 20237"
-generated_at: "2026-03-30T01:19:58.364Z"
+generated_at: "2026-03-30T01:24:39.057Z"
 ---
 
 # § 20237. Numbers to be recommended for promotion

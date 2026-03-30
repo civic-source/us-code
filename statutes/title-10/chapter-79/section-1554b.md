@@ -3,9 +3,9 @@ title: "Section 1554b - Confidential review of characterization of terms of disc
 usc_title: 10
 usc_section: "1554b"
 chapter: 79
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 1554b"
-generated_at: "2026-03-30T01:19:58.256Z"
+generated_at: "2026-03-30T01:24:38.953Z"
 ---
 
 # § 1554b. Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses

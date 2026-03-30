@@ -3,9 +3,9 @@ title: "Section 1761 - Summer food service program for children"
 usc_title: 42
 usc_section: "1761"
 chapter: 13
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 1761"
-generated_at: "2026-03-30T01:23:49.561Z"
+generated_at: "2026-03-30T01:25:56.211Z"
 ---
 
 # § 1761. Summer food service program for children
@@ -131,7 +131,7 @@ generated_at: "2026-03-30T01:23:49.561Z"
     - **(B)** Notwithstanding any other provision in this paragraph, for summer 2023, the Secretary may allow States to use implementation models developed by the Secretary for demonstration projects carried out under section 749(g) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2010 ( Public Law 111–80 ; 123 Stat. 2132 ), to carry out subparagraph (A).
     - **(C)** In administering this paragraph, the Secretary shall ensure that noncongregate meals are only available for a child—
       - **(i)** in an area in which poor economic conditions exist; and
-      - **(ii)** in an area that is not an area in which poor economic conditions exist, if the child is determined to be eligible for a free or reduced price lunch under this Act or a free or reduced price breakfast under section 4 of the Child Nutrition Act of 1966 ( 42 U.S.C. 1773 ).
+      - **(ii)** in an area that is not an area in which poor economic conditions exist, if the child is determined to be eligible for a free or reduced price lunch under this chapter or a free or reduced price breakfast under section 4 of the Child Nutrition Act of 1966 ( 42 U.S.C. 1773 ).
     - **(D)**
       - **(i)** States shall—
         - **(I)** identify areas with no congregate meal service that could benefit the most from the provision of noncongregate meals; and

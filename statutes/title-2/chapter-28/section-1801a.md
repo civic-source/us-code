@@ -3,9 +3,9 @@ title: "Section 1801a - Appointment and term of service of Architect of the Capi
 usc_title: 2
 usc_section: "1801a"
 chapter: 28
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "2 U.S.C. § 1801a"
-generated_at: "2026-03-30T01:19:48.670Z"
+generated_at: "2026-03-30T01:24:23.807Z"
 ---
 
 # § 1801a. Appointment and term of service of Architect of the Capitol

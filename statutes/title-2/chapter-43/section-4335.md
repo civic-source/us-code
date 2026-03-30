@@ -3,9 +3,9 @@ title: "Section 4335 - Employment of civilian employees of executive branch of G
 usc_title: 2
 usc_section: "4335"
 chapter: 43
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "2 U.S.C. § 4335"
-generated_at: "2026-03-30T01:19:48.680Z"
+generated_at: "2026-03-30T01:24:23.817Z"
 ---
 
 # § 4335. Employment of civilian employees of executive branch of Government by Senate Committee on Appropriations; restoration to former position

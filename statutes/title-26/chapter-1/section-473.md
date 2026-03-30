@@ -3,9 +3,9 @@ title: "Section 473 - Qualified liquidations of LIFO inventories"
 usc_title: 26
 usc_section: "473"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "26 U.S.C. § 473"
-generated_at: "2026-03-30T01:22:40.346Z"
+generated_at: "2026-03-30T01:25:25.091Z"
 ---
 
 # § 473. Qualified liquidations of LIFO inventories

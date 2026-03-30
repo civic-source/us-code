@@ -3,9 +3,9 @@ title: "Section 422j - Appropriations; notice to Congress of receipt of proposal
 usc_title: 43
 usc_section: "422j"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "43 U.S.C. § 422j"
-generated_at: "2026-03-30T01:23:05.572Z"
+generated_at: "2026-03-30T01:25:47.030Z"
 ---
 
 # § 422j. Appropriations; notice to Congress of receipt of proposal; funds to initiate proposal; availability of appropriations; reimbursement; limitations on expenditures in any single State; waiver

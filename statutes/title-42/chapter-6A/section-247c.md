@@ -3,9 +3,9 @@ title: "Section 247c - Sexually transmitted diseases; prevention and control pro
 usc_title: 42
 usc_section: "247c"
 chapter: 6
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 247c"
-generated_at: "2026-03-30T01:23:49.192Z"
+generated_at: "2026-03-30T01:25:55.836Z"
 ---
 
 # § 247c. Sexually transmitted diseases; prevention and control projects and programs

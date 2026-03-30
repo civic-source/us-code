@@ -3,9 +3,9 @@ title: "Section 113 - Treatment of certain programs under sequestration procedur
 usc_title: 38
 usc_section: "113"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "38 U.S.C. § 113"
-generated_at: "2026-03-30T01:22:58.355Z"
+generated_at: "2026-03-30T01:25:34.298Z"
 ---
 
 # § 113. Treatment of certain programs under sequestration procedures

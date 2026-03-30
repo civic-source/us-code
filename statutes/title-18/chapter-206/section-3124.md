@@ -3,9 +3,9 @@ title: "Section 3124 - Assistance in installation and use of a pen register or a
 usc_title: 18
 usc_section: "3124"
 chapter: 206
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "18 U.S.C. § 3124"
-generated_at: "2026-03-30T01:21:10.658Z"
+generated_at: "2026-03-30T01:24:51.193Z"
 ---
 
 # § 3124. Assistance in installation and use of a pen register or a trap and trace device

@@ -3,9 +3,9 @@ title: "Section 9101 - Congressional declaration of policy"
 usc_title: 42
 usc_section: "9101"
 chapter: 99
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 9101"
-generated_at: "2026-03-30T01:23:49.765Z"
+generated_at: "2026-03-30T01:25:56.437Z"
 ---
 
 # § 9101. Congressional declaration of policy

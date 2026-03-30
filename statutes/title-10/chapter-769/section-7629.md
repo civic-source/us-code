@@ -3,9 +3,9 @@ title: "Section 7629 - Proceeds: disposition"
 usc_title: 10
 usc_section: "7629"
 chapter: 769
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 7629"
-generated_at: "2026-03-30T01:19:58.327Z"
+generated_at: "2026-03-30T01:24:39.022Z"
 ---
 
 # § 7629. Proceeds: disposition

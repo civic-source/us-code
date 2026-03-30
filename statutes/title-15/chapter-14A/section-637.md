@@ -3,9 +3,9 @@ title: "Section 637 - Additional powers"
 usc_title: 15
 usc_section: "637"
 chapter: 14
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 637"
-generated_at: "2026-03-30T01:20:30.760Z"
+generated_at: "2026-03-30T01:24:47.046Z"
 ---
 
 # § 637. Additional powers

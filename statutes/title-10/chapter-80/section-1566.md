@@ -3,9 +3,9 @@ title: "Section 1566 - Voting assistance: compliance assessments; assistance"
 usc_title: 10
 usc_section: "1566"
 chapter: 80
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 1566"
-generated_at: "2026-03-30T01:19:58.258Z"
+generated_at: "2026-03-30T01:24:38.954Z"
 ---
 
 # § 1566. Voting assistance: compliance assessments; assistance

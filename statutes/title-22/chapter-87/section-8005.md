@@ -3,9 +3,9 @@ title: "Section 8005 - Inoperability of determination and waivers"
 usc_title: 22
 usc_section: "8005"
 chapter: 87
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 8005"
-generated_at: "2026-03-30T01:22:08.262Z"
+generated_at: "2026-03-30T01:25:10.681Z"
 ---
 
 # § 8005. Inoperability of determination and waivers

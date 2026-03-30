@@ -3,9 +3,9 @@ title: "Section 1436 - Reserves and dividends; emergency suspensions of requirem
 usc_title: 12
 usc_section: "1436"
 chapter: 11
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 1436"
-generated_at: "2026-03-30T01:20:55.658Z"
+generated_at: "2026-03-30T01:24:44.549Z"
 ---
 
 # § 1436. Reserves and dividends; emergency suspensions of requirements

@@ -3,9 +3,9 @@ title: "Section 1612 - Limited eligibility of qualified aliens for certain Feder
 usc_title: 8
 usc_section: "1612"
 chapter: 14
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "8 U.S.C. § 1612"
-generated_at: "2026-03-30T01:20:16.720Z"
+generated_at: "2026-03-30T01:24:28.178Z"
 ---
 
 # § 1612. Limited eligibility of qualified aliens for certain Federal programs

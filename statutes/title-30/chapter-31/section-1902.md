@@ -3,9 +3,9 @@ title: "Section 1902 - Research program"
 usc_title: 30
 usc_section: "1902"
 chapter: 31
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "30 U.S.C. § 1902"
-generated_at: "2026-03-30T01:22:10.692Z"
+generated_at: "2026-03-30T01:25:13.920Z"
 ---
 
 # § 1902. Research program

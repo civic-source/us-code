@@ -3,9 +3,9 @@ title: "Section 231a - Annuity eligibility requirements"
 usc_title: 45
 usc_section: "231a"
 chapter: 9
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "45 U.S.C. § 231a"
-generated_at: "2026-03-30T01:23:01.259Z"
+generated_at: "2026-03-30T01:25:37.907Z"
 ---
 
 # § 231a. Annuity eligibility requirements

@@ -3,9 +3,9 @@ title: "Section 1 - Federal Permitting Improvement Steering Council"
 usc_title: 42
 usc_section: "1"
 chapter: 55
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:23:49.642Z"
+generated_at: "2026-03-30T01:25:56.298Z"
 ---
 
 # § 4370m–1. Federal Permitting Improvement Steering Council

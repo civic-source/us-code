@@ -3,9 +3,9 @@ title: "Section 2665 - Withholding funds"
 usc_title: 7
 usc_section: "2665"
 chapter: 59
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "7 U.S.C. § 2665"
-generated_at: "2026-03-30T01:20:23.046Z"
+generated_at: "2026-03-30T01:24:33.434Z"
 ---
 
 # § 2665. Withholding funds

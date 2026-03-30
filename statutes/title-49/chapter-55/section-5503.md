@@ -3,9 +3,9 @@ title: "Section 5503 - Repealed. Pub. L. 114–94, div. A, title VI, § 6015(a) 
 usc_title: 49
 usc_section: "5503"
 chapter: 55
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 5503"
-generated_at: "2026-03-30T01:24:07.363Z"
+generated_at: "2026-03-30T01:26:15.789Z"
 ---
 
 # [§ 5503. Repealed. Pub. L. 114–94, div. A, title VI, § 6015(a) , Dec. 4, 2015 , 129 Stat. 1571 ]

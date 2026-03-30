@@ -3,9 +3,9 @@ title: "Section 2784a - Management of travel cards"
 usc_title: 10
 usc_section: "2784a"
 chapter: 165
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 2784a"
-generated_at: "2026-03-30T01:19:58.291Z"
+generated_at: "2026-03-30T01:24:38.986Z"
 ---
 
 # § 2784a. Management of travel cards

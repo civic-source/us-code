@@ -3,9 +3,9 @@ title: "Section 300z - Findings and purposes"
 usc_title: 42
 usc_section: "300z"
 chapter: 6
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 300z"
-generated_at: "2026-03-30T01:23:49.306Z"
+generated_at: "2026-03-30T01:25:55.945Z"
 ---
 
 # § 300z. Findings and purposes

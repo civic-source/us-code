@@ -3,9 +3,9 @@ title: "Section 3029 - Temporary appointments"
 usc_title: 33
 usc_section: "3029"
 chapter: 43
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "33 U.S.C. § 3029"
-generated_at: "2026-03-30T01:22:46.171Z"
+generated_at: "2026-03-30T01:25:29.853Z"
 ---
 
 # § 3029. Temporary appointments

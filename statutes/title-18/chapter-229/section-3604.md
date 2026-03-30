@@ -3,9 +3,9 @@ title: "Section 3604 - Transportation of a probationer"
 usc_title: 18
 usc_section: "3604"
 chapter: 229
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "18 U.S.C. § 3604"
-generated_at: "2026-03-30T01:21:10.667Z"
+generated_at: "2026-03-30T01:24:51.202Z"
 ---
 
 # § 3604. Transportation of a probationer

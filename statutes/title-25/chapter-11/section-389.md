@@ -3,9 +3,9 @@ title: "Section 389 - Investigation and adjustment of irrigation charges on land
 usc_title: 25
 usc_section: "389"
 chapter: 11
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "25 U.S.C. § 389"
-generated_at: "2026-03-30T01:21:29.317Z"
+generated_at: "2026-03-30T01:25:06.204Z"
 ---
 
 # § 389. Investigation and adjustment of irrigation charges on lands within projects on Indian reservations

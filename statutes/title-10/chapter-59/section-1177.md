@@ -3,9 +3,9 @@ title: "Section 1177 - Members diagnosed with or reasonably asserting post-traum
 usc_title: 10
 usc_section: "1177"
 chapter: 59
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 1177"
-generated_at: "2026-03-30T01:19:58.245Z"
+generated_at: "2026-03-30T01:24:38.941Z"
 ---
 
 # § 1177. Members diagnosed with or reasonably asserting post-traumatic stress disorder or traumatic brain injury: medical examination required before administrative separation

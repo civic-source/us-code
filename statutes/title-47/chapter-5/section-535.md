@@ -3,9 +3,9 @@ title: "Section 535 - Carriage of noncommercial educational television"
 usc_title: 47
 usc_section: "535"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "47 U.S.C. § 535"
-generated_at: "2026-03-30T01:23:54.236Z"
+generated_at: "2026-03-30T01:26:00.542Z"
 ---
 
 # § 535. Carriage of noncommercial educational television

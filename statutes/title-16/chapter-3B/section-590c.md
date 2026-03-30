@@ -3,9 +3,9 @@ title: "Section 590c - Conditions under which benefits of law extended to nongov
 usc_title: 16
 usc_section: "590c"
 chapter: 3
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 590c"
-generated_at: "2026-03-30T01:21:05.011Z"
+generated_at: "2026-03-30T01:24:57.342Z"
 ---
 
 # § 590c. Conditions under which benefits of law extended to nongovernment controlled lands

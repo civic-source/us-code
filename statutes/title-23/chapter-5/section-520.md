@@ -3,9 +3,9 @@ title: "Section 520 - Transportation Resilience and Adaptation Centers of Excell
 usc_title: 23
 usc_section: "520"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "23 U.S.C. § 520"
-generated_at: "2026-03-30T01:21:18.550Z"
+generated_at: "2026-03-30T01:25:05.286Z"
 ---
 
 # § 520. Transportation Resilience and Adaptation Centers of Excellence

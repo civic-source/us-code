@@ -3,9 +3,9 @@ title: "Section 2103 - Enforcement by Federal Trade Commission"
 usc_title: 15
 usc_section: "2103"
 chapter: 48
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 2103"
-generated_at: "2026-03-30T01:20:30.834Z"
+generated_at: "2026-03-30T01:24:47.119Z"
 ---
 
 # § 2103. Enforcement by Federal Trade Commission

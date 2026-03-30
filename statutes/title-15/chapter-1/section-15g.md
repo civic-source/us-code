@@ -3,9 +3,9 @@ title: "Section 15g - Definitions"
 usc_title: 15
 usc_section: "15g"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 15g"
-generated_at: "2026-03-30T01:20:30.693Z"
+generated_at: "2026-03-30T01:24:46.977Z"
 ---
 
 # § 15g. Definitions

@@ -3,9 +3,9 @@ title: "Section 384g - Restricting entrance of illicit drugs"
 usc_title: 21
 usc_section: "384g"
 chapter: 9
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "21 U.S.C. § 384g"
-generated_at: "2026-03-30T01:21:23.975Z"
+generated_at: "2026-03-30T01:25:07.459Z"
 ---
 
 # § 384g. Restricting entrance of illicit drugs

@@ -3,9 +3,9 @@ title: "Section 1182 - Over-the-road bus security assistance"
 usc_title: 6
 usc_section: "1182"
 chapter: 4
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "6 U.S.C. § 1182"
-generated_at: "2026-03-30T01:20:14.409Z"
+generated_at: "2026-03-30T01:24:29.025Z"
 ---
 
 # § 1182. Over-the-road bus security assistance

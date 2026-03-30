@@ -3,9 +3,9 @@ title: "Section 1370a - Officers entitled to retired pay for non-regular service
 usc_title: 10
 usc_section: "1370a"
 chapter: 69
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 1370a"
-generated_at: "2026-03-30T01:19:58.247Z"
+generated_at: "2026-03-30T01:24:38.944Z"
 ---
 
 # § 1370a. Officers entitled to retired pay for non-regular service

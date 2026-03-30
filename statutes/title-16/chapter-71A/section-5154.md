@@ -3,9 +3,9 @@ title: "Section 5154 - Moratorium"
 usc_title: 16
 usc_section: "5154"
 chapter: 71
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 5154"
-generated_at: "2026-03-30T01:21:05.125Z"
+generated_at: "2026-03-30T01:24:57.465Z"
 ---
 
 # § 5154. Moratorium

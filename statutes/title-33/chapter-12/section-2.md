@@ -3,9 +3,9 @@ title: "Section 2 - Deauthorization of inactive projects"
 usc_title: 33
 usc_section: "2"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T01:22:46.110Z"
+generated_at: "2026-03-30T01:25:29.789Z"
 ---
 
 # § 579d–2. Deauthorization of inactive projects

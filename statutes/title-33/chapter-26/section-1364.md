@@ -3,9 +3,9 @@ title: "Section 1364 - Emergency powers"
 usc_title: 33
 usc_section: "1364"
 chapter: 26
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "33 U.S.C. § 1364"
-generated_at: "2026-03-30T01:22:46.143Z"
+generated_at: "2026-03-30T01:25:29.825Z"
 ---
 
 # § 1364. Emergency powers

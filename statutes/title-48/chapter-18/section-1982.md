@@ -3,9 +3,9 @@ title: "Section 1982 - Definitions"
 usc_title: 48
 usc_section: "1982"
 chapter: 18
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "48 U.S.C. § 1982"
-generated_at: "2026-03-30T01:24:03.446Z"
+generated_at: "2026-03-30T01:25:59.652Z"
 ---
 
 # § 1982. Definitions

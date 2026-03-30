@@ -3,9 +3,9 @@ title: "Section 160b - Land acquisitions"
 usc_title: 16
 usc_section: "160b"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 160b"
-generated_at: "2026-03-30T01:21:04.911Z"
+generated_at: "2026-03-30T01:24:57.235Z"
 ---
 
 # § 160b. Land acquisitions

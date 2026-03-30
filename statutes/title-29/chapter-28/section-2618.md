@@ -3,9 +3,9 @@ title: "Section 2618 - Special rules concerning employees of local educational a
 usc_title: 29
 usc_section: "2618"
 chapter: 28
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "29 U.S.C. § 2618"
-generated_at: "2026-03-30T01:22:35.548Z"
+generated_at: "2026-03-30T01:25:19.624Z"
 ---
 
 # § 2618. Special rules concerning employees of local educational agencies

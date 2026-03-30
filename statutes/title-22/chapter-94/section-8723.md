@@ -3,9 +3,9 @@ title: "Section 8723 - Imposition of sanctions with respect to purchase, subscri
 usc_title: 22
 usc_section: "8723"
 chapter: 94
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 8723"
-generated_at: "2026-03-30T01:22:08.270Z"
+generated_at: "2026-03-30T01:25:10.688Z"
 ---
 
 # § 8723. Imposition of sanctions with respect to purchase, subscription to, or facilitation of the issuance of Iranian sovereign debt

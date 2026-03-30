@@ -3,9 +3,9 @@ title: "Section 2313a - Designation of transactions of sanctioned persons as of 
 usc_title: 21
 usc_section: "2313a"
 chapter: 28
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "21 U.S.C. § 2313a"
-generated_at: "2026-03-30T01:21:24.003Z"
+generated_at: "2026-03-30T01:25:07.489Z"
 ---
 
 # § 2313a. Designation of transactions of sanctioned persons as of primary money laundering concern

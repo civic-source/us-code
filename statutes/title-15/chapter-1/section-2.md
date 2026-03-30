@@ -3,9 +3,9 @@ title: "Section 2 - Special provisions of a liquidation proceeding"
 usc_title: 15
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T01:20:30.731Z"
+generated_at: "2026-03-30T01:24:47.016Z"
 ---
 
 # § 78fff–2. Special provisions of a liquidation proceeding

@@ -3,9 +3,9 @@ title: "Section 505 - Electromagnetic Spectrum Enterprise Operational Lead for J
 usc_title: 10
 usc_section: "505"
 chapter: 25
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 505"
-generated_at: "2026-03-30T01:19:58.208Z"
+generated_at: "2026-03-30T01:24:38.906Z"
 ---
 
 # § 505. 1 1 Another section 505 is set out in chapter 31 of this title. Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations

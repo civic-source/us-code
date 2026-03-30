@@ -3,9 +3,9 @@ title: "Section 2401b - Determinations by Secretary of Agriculture"
 usc_title: 19
 usc_section: "2401b"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "19 U.S.C. § 2401b"
-generated_at: "2026-03-30T01:21:06.227Z"
+generated_at: "2026-03-30T01:25:02.342Z"
 ---
 
 # § 2401b. Determinations by Secretary of Agriculture

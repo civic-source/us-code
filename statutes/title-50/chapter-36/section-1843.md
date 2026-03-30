@@ -3,9 +3,9 @@ title: "Section 1843 - Authorization during emergencies"
 usc_title: 50
 usc_section: "1843"
 chapter: 36
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "50 U.S.C. § 1843"
-generated_at: "2026-03-30T01:23:56.145Z"
+generated_at: "2026-03-30T01:26:05.014Z"
 ---
 
 # § 1843. Authorization during emergencies

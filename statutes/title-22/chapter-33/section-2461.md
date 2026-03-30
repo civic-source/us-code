@@ -3,9 +3,9 @@ title: "Section 2461 - Exchanges between United States and independent states of
 usc_title: 22
 usc_section: "2461"
 chapter: 33
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 2461"
-generated_at: "2026-03-30T01:22:08.171Z"
+generated_at: "2026-03-30T01:25:10.605Z"
 ---
 
 # § 2461. Exchanges between United States and independent states of the former Soviet Union

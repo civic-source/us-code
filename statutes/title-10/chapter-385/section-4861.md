@@ -3,9 +3,9 @@ title: "Section 4861 - Determinations of public interest under chapter 83 of tit
 usc_title: 10
 usc_section: "4861"
 chapter: 385
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 4861"
-generated_at: "2026-03-30T01:19:58.319Z"
+generated_at: "2026-03-30T01:24:39.014Z"
 ---
 
 # § 4861. Determinations of public interest under chapter 83 of title 41

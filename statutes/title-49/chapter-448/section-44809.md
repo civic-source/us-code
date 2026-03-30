@@ -3,9 +3,9 @@ title: "Section 44809 - Exception for limited recreational operations of unmanne
 usc_title: 49
 usc_section: "44809"
 chapter: 448
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 44809"
-generated_at: "2026-03-30T01:24:07.427Z"
+generated_at: "2026-03-30T01:26:15.860Z"
 ---
 
 # § 44809. Exception for limited recreational operations of unmanned aircraft

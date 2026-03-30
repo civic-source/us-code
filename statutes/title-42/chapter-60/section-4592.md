@@ -3,9 +3,9 @@ title: "Section 4592 - Recordkeeping for audit"
 usc_title: 42
 usc_section: "4592"
 chapter: 60
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 4592"
-generated_at: "2026-03-30T01:23:49.644Z"
+generated_at: "2026-03-30T01:25:56.300Z"
 ---
 
 # § 4592. Recordkeeping for audit

@@ -3,9 +3,9 @@ title: "Section 1681a - Requirements for entry of certain cigarettes and smokele
 usc_title: 19
 usc_section: "1681a"
 chapter: 4
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "19 U.S.C. § 1681a"
-generated_at: "2026-03-30T01:21:06.215Z"
+generated_at: "2026-03-30T01:25:02.331Z"
 ---
 
 # § 1681a. Requirements for entry of certain cigarettes and smokeless tobacco products

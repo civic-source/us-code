@@ -3,9 +3,9 @@ title: "Section 3839d - Repealed. Pub. L. 113–79, title II, § 2711 , Feb. 7, 
 usc_title: 16
 usc_section: "3839d"
 chapter: 58
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 3839d"
-generated_at: "2026-03-30T01:21:05.111Z"
+generated_at: "2026-03-30T01:24:57.449Z"
 ---
 
 # §§ 3839 to 3839d. Repealed. Pub. L. 113–79, title II, § 2711 , Feb. 7, 2014 , 128 Stat. 771

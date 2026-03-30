@@ -3,9 +3,9 @@ title: "Section 44111 - Modifications in registration and recordation system for
 usc_title: 49
 usc_section: "44111"
 chapter: 441
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 44111"
-generated_at: "2026-03-30T01:24:07.419Z"
+generated_at: "2026-03-30T01:26:15.851Z"
 ---
 
 # § 44111. Modifications in registration and recordation system for aircraft not providing air transportation

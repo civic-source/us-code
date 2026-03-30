@@ -3,9 +3,9 @@ title: "Section 11291 - Findings"
 usc_title: 34
 usc_section: "11291"
 chapter: 111
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "34 U.S.C. § 11291"
-generated_at: "2026-03-30T01:22:51.742Z"
+generated_at: "2026-03-30T01:25:28.798Z"
 ---
 
 # § 11291. Findings

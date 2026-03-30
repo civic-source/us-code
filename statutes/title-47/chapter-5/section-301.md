@@ -3,9 +3,9 @@ title: "Section 301 - License for radio communication or transmission of energy"
 usc_title: 47
 usc_section: "301"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "47 U.S.C. § 301"
-generated_at: "2026-03-30T01:23:54.222Z"
+generated_at: "2026-03-30T01:26:00.527Z"
 ---
 
 # § 301. License for radio communication or transmission of energy

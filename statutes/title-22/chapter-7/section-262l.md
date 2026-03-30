@@ -3,9 +3,9 @@ title: "Section 262l - Environmental reform measures and remedial measures; Comm
 usc_title: 22
 usc_section: "262l"
 chapter: 7
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 262l"
-generated_at: "2026-03-30T01:22:08.103Z"
+generated_at: "2026-03-30T01:25:10.547Z"
 ---
 
 # § 262l. Environmental reform measures and remedial measures; Committee on Health and the Environment

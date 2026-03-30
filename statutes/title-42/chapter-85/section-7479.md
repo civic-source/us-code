@@ -3,9 +3,9 @@ title: "Section 7479 - Definitions"
 usc_title: 42
 usc_section: "7479"
 chapter: 85
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 7479"
-generated_at: "2026-03-30T01:23:49.727Z"
+generated_at: "2026-03-30T01:25:56.395Z"
 ---
 
 # § 7479. Definitions

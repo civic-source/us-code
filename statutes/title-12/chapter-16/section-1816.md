@@ -3,9 +3,9 @@ title: "Section 1816 - Factors to be considered"
 usc_title: 12
 usc_section: "1816"
 chapter: 16
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "12 U.S.C. § 1816"
-generated_at: "2026-03-30T01:20:55.708Z"
+generated_at: "2026-03-30T01:24:44.601Z"
 ---
 
 # § 1816. Factors to be considered

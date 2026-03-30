@@ -3,9 +3,9 @@ title: "Section 3 - Compensation schedule for survivors"
 usc_title: 42
 usc_section: "3"
 chapter: 84
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T01:23:49.716Z"
+generated_at: "2026-03-30T01:25:56.382Z"
 ---
 
 # § 7385s–3. Compensation schedule for survivors

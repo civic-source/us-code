@@ -3,9 +3,9 @@ title: "Section 5903c - Moneys received by Secretary from fossil energy activity
 usc_title: 42
 usc_section: "5903c"
 chapter: 74
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 5903c"
-generated_at: "2026-03-30T01:23:49.671Z"
+generated_at: "2026-03-30T01:25:56.330Z"
 ---
 
 # § 5903c. Moneys received by Secretary from fossil energy activity; payment into Treasury; reports to House and Senate Committees

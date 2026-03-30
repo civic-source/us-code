@@ -3,9 +3,9 @@ title: "Section 14902 - Separation for substandard performance and for certain o
 usc_title: 10
 usc_section: "14902"
 chapter: 1411
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 14902"
-generated_at: "2026-03-30T01:19:58.359Z"
+generated_at: "2026-03-30T01:24:39.054Z"
 ---
 
 # § 14902. Separation for substandard performance and for certain other reasons

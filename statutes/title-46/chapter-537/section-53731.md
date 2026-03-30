@@ -3,9 +3,9 @@ title: "Section 53731 - Commercial demonstration ocean thermal energy conversion
 usc_title: 46
 usc_section: "53731"
 chapter: 537
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "46 U.S.C. § 53731"
-generated_at: "2026-03-30T01:24:08.340Z"
+generated_at: "2026-03-30T01:26:01.628Z"
 ---
 
 # § 53731. Commercial demonstration ocean thermal energy conversion facilities and plantships

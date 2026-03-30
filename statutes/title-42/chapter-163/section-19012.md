@@ -3,9 +3,9 @@ title: "Section 19012 - NSF Eddie Bernice Johnson INCLUDES Initiative"
 usc_title: 42
 usc_section: "19012"
 chapter: 163
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 19012"
-generated_at: "2026-03-30T01:23:49.926Z"
+generated_at: "2026-03-30T01:25:56.616Z"
 ---
 
 # § 19012. NSF Eddie Bernice Johnson INCLUDES Initiative

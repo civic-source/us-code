@@ -3,9 +3,9 @@ title: "Section 179 - Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat
 usc_title: 15
 usc_section: "179"
 chapter: 5
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 179"
-generated_at: "2026-03-30T01:20:30.743Z"
+generated_at: "2026-03-30T01:24:47.027Z"
 ---
 
 # § 179. Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat. 953

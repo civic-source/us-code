@@ -3,9 +3,9 @@ title: "Section 5136a - Assistance and training for communities with technologic
 usc_title: 42
 usc_section: "5136a"
 chapter: 68
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 5136a"
-generated_at: "2026-03-30T01:23:49.655Z"
+generated_at: "2026-03-30T01:25:56.314Z"
 ---
 
 # § 5136a. Assistance and training for communities with technological hazards and related emerging threats
@@ -13,7 +13,7 @@ generated_at: "2026-03-30T01:23:49.655Z"
 - **(a)** The Administrator shall maintain the capacity to provide States, local, and Indian Tribal governments with technological hazards and related emerging threats technical assistance, training, and other preparedness programming to build community resilience to technological hazards and related emerging threats.
 - **(b)** The Administrator shall carry out subsection (a) in accordance with—
   - **(1)** the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.);
-  - **(2)** section 5196g of title 42 ; and
+  - **(2)** section 5196g of this title ; and
   - **(3)** the Post-Katrina Emergency Management Reform Act of 2006 ( Public Law 109–295 ; 120 Stat. 1394 ).
 - **(c)** In carrying out subsection (a), the Administrator shall—
   - **(1)** use any available and appropriate multi-hazard risk assessment and mapping tools and capabilities to identify the communities that have the highest risk of and vulnerability to a technological hazard in each State; and

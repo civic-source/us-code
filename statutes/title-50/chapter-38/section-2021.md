@@ -3,9 +3,9 @@ title: "Section 2021 - Contributions to fund"
 usc_title: 50
 usc_section: "2021"
 chapter: 38
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "50 U.S.C. § 2021"
-generated_at: "2026-03-30T01:23:56.150Z"
+generated_at: "2026-03-30T01:26:05.023Z"
 ---
 
 # § 2021. Contributions to fund

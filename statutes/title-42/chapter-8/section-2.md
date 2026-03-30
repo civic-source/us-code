@@ -3,9 +3,9 @@ title: "Section 2 - Program allocation and covered housing assistance"
 usc_title: 42
 usc_section: "2"
 chapter: 8
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T01:23:49.546Z"
+generated_at: "2026-03-30T01:25:56.193Z"
 ---
 
 # § 1437bbb–2. Program allocation and covered housing assistance

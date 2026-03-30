@@ -3,9 +3,9 @@ title: "Section 1604 - Reports on covered communications equipment or services"
 usc_title: 47
 usc_section: "1604"
 chapter: 15
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "47 U.S.C. § 1604"
-generated_at: "2026-03-30T01:23:54.255Z"
+generated_at: "2026-03-30T01:26:00.567Z"
 ---
 
 # § 1604. Reports on covered communications equipment or services

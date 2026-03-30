@@ -3,9 +3,9 @@ title: "Section 772 - Annuity of the Comptroller General"
 usc_title: 31
 usc_section: "772"
 chapter: 7
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "31 U.S.C. § 772"
-generated_at: "2026-03-30T01:22:48.321Z"
+generated_at: "2026-03-30T01:25:27.913Z"
 ---
 
 # § 772. Annuity of the Comptroller General

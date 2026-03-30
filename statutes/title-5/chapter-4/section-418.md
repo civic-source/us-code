@@ -3,9 +3,9 @@ title: "Section 418 - Rule of construction of special provisions"
 usc_title: 5
 usc_section: "418"
 chapter: 4
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "5 U.S.C. § 418"
-generated_at: "2026-03-30T01:19:01.529Z"
+generated_at: "2026-03-30T01:24:25.452Z"
 ---
 
 # § 418. Rule of construction of special provisions

@@ -3,9 +3,9 @@ title: "Section 2339 - Renumbered § 4657]"
 usc_title: 10
 usc_section: "2339"
 chapter: 137
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 2339"
-generated_at: "2026-03-30T01:19:58.275Z"
+generated_at: "2026-03-30T01:24:38.971Z"
 ---
 
 # [§ 2339. Renumbered § 4657]

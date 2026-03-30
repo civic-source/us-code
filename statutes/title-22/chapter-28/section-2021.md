@@ -3,9 +3,9 @@ title: "Section 2021 - Agency appointments by President"
 usc_title: 22
 usc_section: "2021"
 chapter: 28
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "22 U.S.C. § 2021"
-generated_at: "2026-03-30T01:22:08.142Z"
+generated_at: "2026-03-30T01:25:10.579Z"
 ---
 
 # § 2021. Agency appointments by President

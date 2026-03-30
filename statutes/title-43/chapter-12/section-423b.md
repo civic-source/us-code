@@ -3,9 +3,9 @@ title: "Section 423b - Suspension of payment of construction charges against are
 usc_title: 43
 usc_section: "423b"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "43 U.S.C. § 423b"
-generated_at: "2026-03-30T01:23:05.572Z"
+generated_at: "2026-03-30T01:25:47.030Z"
 ---
 
 # § 423b. Suspension of payment of construction charges against areas temporarily unproductive

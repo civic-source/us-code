@@ -3,9 +3,9 @@ title: "Section 2804 - Assistance by other agencies"
 usc_title: 25
 usc_section: "2804"
 chapter: 30
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "25 U.S.C. § 2804"
-generated_at: "2026-03-30T01:21:29.351Z"
+generated_at: "2026-03-30T01:25:06.240Z"
 ---
 
 # § 2804. Assistance by other agencies

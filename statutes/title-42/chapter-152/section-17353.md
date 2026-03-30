@@ -3,9 +3,9 @@ title: "Section 17353 - Duties of Foundation"
 usc_title: 42
 usc_section: "17353"
 chapter: 152
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 17353"
-generated_at: "2026-03-30T01:23:49.898Z"
+generated_at: "2026-03-30T01:25:56.586Z"
 ---
 
 # § 17353. Duties of Foundation

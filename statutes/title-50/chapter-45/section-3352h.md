@@ -3,9 +3,9 @@ title: "Section 3352h - Timeliness standard for rendering determinations of trus
 usc_title: 50
 usc_section: "3352h"
 chapter: 45
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "50 U.S.C. § 3352h"
-generated_at: "2026-03-30T01:23:56.185Z"
+generated_at: "2026-03-30T01:26:05.080Z"
 ---
 
 # § 3352h. Timeliness standard for rendering determinations of trust for personnel vetting

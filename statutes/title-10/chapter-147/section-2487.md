@@ -3,9 +3,9 @@ title: "Section 2487 - Relationship between defense commissary system and exchan
 usc_title: 10
 usc_section: "2487"
 chapter: 147
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 2487"
-generated_at: "2026-03-30T01:19:58.280Z"
+generated_at: "2026-03-30T01:24:38.976Z"
 ---
 
 # § 2487. Relationship between defense commissary system and exchange stores system

@@ -3,9 +3,9 @@ title: "Section 1600k - Notices and existing laws"
 usc_title: 43
 usc_section: "1600k"
 chapter: 32
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "43 U.S.C. § 1600k"
-generated_at: "2026-03-30T01:23:05.598Z"
+generated_at: "2026-03-30T01:25:47.058Z"
 ---
 
 # § 1600k. Notices and existing laws

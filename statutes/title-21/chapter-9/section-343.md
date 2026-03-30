@@ -3,9 +3,9 @@ title: "Section 343 - Misbranded food"
 usc_title: 21
 usc_section: "343"
 chapter: 9
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "21 U.S.C. § 343"
-generated_at: "2026-03-30T01:21:23.924Z"
+generated_at: "2026-03-30T01:25:07.406Z"
 ---
 
 # § 343. Misbranded food

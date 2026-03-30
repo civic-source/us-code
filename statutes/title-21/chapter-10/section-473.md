@@ -3,9 +3,9 @@ title: "Section 473 - Grants for improvements to meat and poultry facilities to 
 usc_title: 21
 usc_section: "473"
 chapter: 10
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "21 U.S.C. § 473"
-generated_at: "2026-03-30T01:21:23.981Z"
+generated_at: "2026-03-30T01:25:07.466Z"
 ---
 
 # § 473. Grants for improvements to meat and poultry facilities to allow for interstate shipment

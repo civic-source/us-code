@@ -3,9 +3,9 @@ title: "Section 6305 - Citizen suits"
 usc_title: 42
 usc_section: "6305"
 chapter: 77
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 6305"
-generated_at: "2026-03-30T01:23:49.682Z"
+generated_at: "2026-03-30T01:25:56.341Z"
 ---
 
 # § 6305. Citizen suits

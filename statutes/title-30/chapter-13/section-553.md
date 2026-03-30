@@ -3,9 +3,9 @@ title: "Section 553 - Duties of Secretary; surveys, research, etc.; proj­ects"
 usc_title: 30
 usc_section: "553"
 chapter: 13
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "30 U.S.C. § 553"
-generated_at: "2026-03-30T01:22:10.668Z"
+generated_at: "2026-03-30T01:25:13.895Z"
 ---
 
 # § 553. Duties of Secretary; surveys, research, etc.; proj­ects

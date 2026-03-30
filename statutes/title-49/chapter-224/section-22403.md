@@ -3,9 +3,9 @@ title: "Section 22403 - Administration of direct loans and loan guarantees"
 usc_title: 49
 usc_section: "22403"
 chapter: 224
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 22403"
-generated_at: "2026-03-30T01:24:07.385Z"
+generated_at: "2026-03-30T01:26:15.813Z"
 ---
 
 # § 22403. Administration of direct loans and loan guarantees

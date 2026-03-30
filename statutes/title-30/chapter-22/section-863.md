@@ -3,9 +3,9 @@ title: "Section 863 - Ventilation"
 usc_title: 30
 usc_section: "863"
 chapter: 22
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "30 U.S.C. § 863"
-generated_at: "2026-03-30T01:22:10.672Z"
+generated_at: "2026-03-30T01:25:13.899Z"
 ---
 
 # § 863. Ventilation

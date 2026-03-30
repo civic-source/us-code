@@ -3,9 +3,9 @@ title: "Section 113 - Federal Motor Carrier Safety Administration"
 usc_title: 49
 usc_section: "113"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "49 U.S.C. § 113"
-generated_at: "2026-03-30T01:24:07.342Z"
+generated_at: "2026-03-30T01:26:15.767Z"
 ---
 
 # § 113. Federal Motor Carrier Safety Administration

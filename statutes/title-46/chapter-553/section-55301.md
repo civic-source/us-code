@@ -3,9 +3,9 @@ title: "Section 55301 - Report on administration of programs by other Federal de
 usc_title: 46
 usc_section: "55301"
 chapter: 553
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "46 U.S.C. § 55301"
-generated_at: "2026-03-30T01:24:08.342Z"
+generated_at: "2026-03-30T01:26:01.631Z"
 ---
 
 # § 55301. Report on administration of programs by other Federal departments and agencies

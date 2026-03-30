@@ -3,9 +3,9 @@ title: "Section 837a - Limitation of sale, delivery, and exchange of electric en
 usc_title: 16
 usc_section: "837a"
 chapter: 12
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 837a"
-generated_at: "2026-03-30T01:21:05.045Z"
+generated_at: "2026-03-30T01:24:57.377Z"
 ---
 
 # § 837a. Limitation of sale, delivery, and exchange of electric energy and electric peaking capacity for use outside Pacific Northwest to surplus energy and surplus peaking capacity; notice to customers; inspection of contract drafts

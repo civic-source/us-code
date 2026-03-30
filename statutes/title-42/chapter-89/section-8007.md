@@ -3,9 +3,9 @@ title: "Section 8007 - Evaluation of applications and programs"
 usc_title: 42
 usc_section: "8007"
 chapter: 89
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 8007"
-generated_at: "2026-03-30T01:23:49.751Z"
+generated_at: "2026-03-30T01:25:56.421Z"
 ---
 
 # § 8007. Evaluation of applications and programs

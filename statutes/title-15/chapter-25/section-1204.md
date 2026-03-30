@@ -3,9 +3,9 @@ title: "Section 1204 - Congressional veto of flammability regulations"
 usc_title: 15
 usc_section: "1204"
 chapter: 25
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "15 U.S.C. § 1204"
-generated_at: "2026-03-30T01:20:30.795Z"
+generated_at: "2026-03-30T01:24:47.083Z"
 ---
 
 # § 1204. Congressional veto of flammability regulations

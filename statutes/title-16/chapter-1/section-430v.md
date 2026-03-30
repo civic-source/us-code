@@ -3,9 +3,9 @@ title: "Section 430v - Monuments and memorials; regulations; historical markers"
 usc_title: 16
 usc_section: "430v"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 430v"
-generated_at: "2026-03-30T01:21:04.951Z"
+generated_at: "2026-03-30T01:24:57.279Z"
 ---
 
 # § 430v. Monuments and memorials; regulations; historical markers

@@ -3,9 +3,9 @@ title: "Section 7901 - Maintenance of effort"
 usc_title: 20
 usc_section: "7901"
 chapter: 70
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "20 U.S.C. § 7901"
-generated_at: "2026-03-30T01:21:15.587Z"
+generated_at: "2026-03-30T01:24:53.946Z"
 ---
 
 # § 7901. Maintenance of effort

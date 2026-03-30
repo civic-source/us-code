@@ -3,9 +3,9 @@ title: "Section 3527 - Chaplain Corps and Chief of Chaplains"
 usc_title: 50
 usc_section: "3527"
 chapter: 46
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "50 U.S.C. § 3527"
-generated_at: "2026-03-30T01:23:56.192Z"
+generated_at: "2026-03-30T01:26:05.092Z"
 ---
 
 # § 3527. Chaplain Corps and Chief of Chaplains

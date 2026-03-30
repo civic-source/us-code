@@ -3,9 +3,9 @@ title: "Section 3457 - Treatment of certain products and services as commercial 
 usc_title: 10
 usc_section: "3457"
 chapter: 247
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 3457"
-generated_at: "2026-03-30T01:19:58.304Z"
+generated_at: "2026-03-30T01:24:38.999Z"
 ---
 
 # § 3457. Treatment of certain products and services as commercial products and commercial services

@@ -3,9 +3,9 @@ title: "Section 577d - Boundary limits of additional lands acquired in northern 
 usc_title: 16
 usc_section: "577d"
 chapter: 3
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 577d"
-generated_at: "2026-03-30T01:21:05.008Z"
+generated_at: "2026-03-30T01:24:57.339Z"
 ---
 
 # § 577d. Boundary limits of additional lands acquired in northern Minnesota

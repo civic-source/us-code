@@ -3,9 +3,9 @@ title: "Section 10111 - Consolidation of financial management systems of Office 
 usc_title: 34
 usc_section: "10111"
 chapter: 101
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "34 U.S.C. § 10111"
-generated_at: "2026-03-30T01:22:51.721Z"
+generated_at: "2026-03-30T01:25:28.778Z"
 ---
 
 # § 10111. Consolidation of financial management systems of Office of Justice Programs

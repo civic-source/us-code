@@ -3,9 +3,9 @@ title: "Section 12641 - Contingent extension"
 usc_title: 42
 usc_section: "12641"
 chapter: 129
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 12641"
-generated_at: "2026-03-30T01:23:49.829Z"
+generated_at: "2026-03-30T01:25:56.507Z"
 ---
 
 # § 12641. Contingent extension

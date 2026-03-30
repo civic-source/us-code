@@ -3,9 +3,9 @@ title: "Section 2250 - Failure to register"
 usc_title: 18
 usc_section: "2250"
 chapter: 109
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "18 U.S.C. § 2250"
-generated_at: "2026-03-30T01:21:10.644Z"
+generated_at: "2026-03-30T01:24:51.180Z"
 ---
 
 # § 2250. Failure to register

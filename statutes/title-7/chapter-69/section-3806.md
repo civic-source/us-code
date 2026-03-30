@@ -3,9 +3,9 @@ title: "Section 3806 - Criminal penalties"
 usc_title: 7
 usc_section: "3806"
 chapter: 69
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "7 U.S.C. § 3806"
-generated_at: "2026-03-30T01:20:23.058Z"
+generated_at: "2026-03-30T01:24:33.447Z"
 ---
 
 # § 3806. Criminal penalties

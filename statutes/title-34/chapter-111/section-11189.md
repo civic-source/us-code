@@ -3,9 +3,9 @@ title: "Section 11189 - Leasing surplus Federal property"
 usc_title: 34
 usc_section: "11189"
 chapter: 111
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "34 U.S.C. § 11189"
-generated_at: "2026-03-30T01:22:51.741Z"
+generated_at: "2026-03-30T01:25:28.796Z"
 ---
 
 # § 11189. Leasing surplus Federal property

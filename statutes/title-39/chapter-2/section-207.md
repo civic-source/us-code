@@ -3,9 +3,9 @@ title: "Section 207 - Seal"
 usc_title: 39
 usc_section: "207"
 chapter: 2
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "39 U.S.C. § 207"
-generated_at: "2026-03-30T01:22:58.585Z"
+generated_at: "2026-03-30T01:25:31.482Z"
 ---
 
 # § 207. Seal

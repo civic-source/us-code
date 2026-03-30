@@ -3,9 +3,9 @@ title: "Section 384 - Filing date"
 usc_title: 35
 usc_section: "384"
 chapter: 38
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "35 U.S.C. § 384"
-generated_at: "2026-03-30T01:22:46.337Z"
+generated_at: "2026-03-30T01:25:27.139Z"
 ---
 
 # § 384. Filing date

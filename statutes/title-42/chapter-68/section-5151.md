@@ -3,9 +3,9 @@ title: "Section 5151 - Nondiscrimination in disaster assistance"
 usc_title: 42
 usc_section: "5151"
 chapter: 68
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "42 U.S.C. § 5151"
-generated_at: "2026-03-30T01:23:49.657Z"
+generated_at: "2026-03-30T01:25:56.314Z"
 ---
 
 # § 5151. Nondiscrimination in disaster assistance

@@ -3,9 +3,9 @@ title: "Section 192b - Application to contracts"
 usc_title: 30
 usc_section: "192b"
 chapter: 3
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "30 U.S.C. § 192b"
-generated_at: "2026-03-30T01:22:10.663Z"
+generated_at: "2026-03-30T01:25:13.889Z"
 ---
 
 # § 192b. Application to contracts

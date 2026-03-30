@@ -3,9 +3,9 @@ title: "Section 4101 - Congressional statement of purposes"
 usc_title: 16
 usc_section: "4101"
 chapter: 61
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "16 U.S.C. § 4101"
-generated_at: "2026-03-30T01:21:05.118Z"
+generated_at: "2026-03-30T01:24:57.458Z"
 ---
 
 # § 4101. Congressional statement of purposes

@@ -3,9 +3,9 @@ title: "Section 12685 - Reserves separated for cause: character of discharge"
 usc_title: 10
 usc_section: "12685"
 chapter: 1221
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "10 U.S.C. § 12685"
-generated_at: "2026-03-30T01:19:58.356Z"
+generated_at: "2026-03-30T01:24:39.049Z"
 ---
 
 # § 12685. Reserves separated for cause: character of discharge

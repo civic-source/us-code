@@ -3,9 +3,9 @@ title: "Section 193 - Technology clearinghouse to encourage and support innovati
 usc_title: 6
 usc_section: "193"
 chapter: 1
-current_through: "PL 118-65"
+current_through: "PL 118-66"
 classification: "6 U.S.C. § 193"
-generated_at: "2026-03-30T01:20:14.365Z"
+generated_at: "2026-03-30T01:24:28.985Z"
 ---
 
 # § 193. Technology clearinghouse to encourage and support innovative solutions to enhance homeland security
