@@ -3,9 +3,9 @@ title: "Section 360 - Registration of producers of drugs or devices"
 usc_title: 21
 usc_section: "360"
 chapter: 9
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "21 U.S.C. § 360"
-generated_at: "2026-03-30T07:22:08.146Z"
+generated_at: "2026-03-30T07:24:04.497Z"
 status: "active"
 ---
 

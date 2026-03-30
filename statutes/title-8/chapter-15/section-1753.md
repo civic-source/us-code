@@ -3,9 +3,9 @@ title: "Section 1753 - Joint United States-Canada projects for alternative inspe
 usc_title: 8
 usc_section: "1753"
 chapter: 15
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "8 U.S.C. § 1753"
-generated_at: "2026-03-30T07:21:10.475Z"
+generated_at: "2026-03-30T07:23:27.978Z"
 status: "active"
 ---
 

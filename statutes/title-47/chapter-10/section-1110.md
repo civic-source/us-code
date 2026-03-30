@@ -3,9 +3,9 @@ title: "Section 1110 - Omitted"
 usc_title: 47
 usc_section: "1110"
 chapter: 10
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "47 U.S.C. § 1110"
-generated_at: "2026-03-30T07:23:04.781Z"
+generated_at: "2026-03-30T07:24:52.401Z"
 status: "omitted"
 ---
 

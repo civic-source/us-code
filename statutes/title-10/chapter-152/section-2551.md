@@ -3,9 +3,9 @@ title: "Section 2551 - Equipment and barracks: national veterans’ organization
 usc_title: 10
 usc_section: "2551"
 chapter: 152
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 2551"
-generated_at: "2026-03-30T07:21:17.982Z"
+generated_at: "2026-03-30T07:23:35.416Z"
 status: "active"
 ---
 

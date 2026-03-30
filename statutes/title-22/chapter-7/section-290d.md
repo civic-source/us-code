@@ -3,9 +3,9 @@ title: "Section 290d - Enactment of specific legislation by Congress"
 usc_title: 22
 usc_section: "290d"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 290d"
-generated_at: "2026-03-30T07:22:06.495Z"
+generated_at: "2026-03-30T07:24:07.321Z"
 status: "active"
 ---
 

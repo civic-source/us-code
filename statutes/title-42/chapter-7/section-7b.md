@@ -3,9 +3,9 @@ title: "Section 7b - Criminal penalties for acts involving Federal health care p
 usc_title: 42
 usc_section: "7b"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 7b"
-generated_at: "2026-03-30T07:23:01.494Z"
+generated_at: "2026-03-30T07:24:48.446Z"
 status: "active"
 ---
 

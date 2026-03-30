@@ -3,9 +3,9 @@ title: "Section 5832 - National Training Program"
 usc_title: 7
 usc_section: "5832"
 chapter: 88
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 5832"
-generated_at: "2026-03-30T07:21:14.629Z"
+generated_at: "2026-03-30T07:23:30.994Z"
 status: "active"
 ---
 

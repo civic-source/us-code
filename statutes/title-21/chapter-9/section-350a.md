@@ -3,9 +3,9 @@ title: "Section 350a - Infant formulas"
 usc_title: 21
 usc_section: "350a"
 chapter: 9
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "21 U.S.C. § 350a"
-generated_at: "2026-03-30T07:22:08.135Z"
+generated_at: "2026-03-30T07:24:04.484Z"
 status: "active"
 ---
 

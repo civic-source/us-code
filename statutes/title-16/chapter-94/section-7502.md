@@ -3,9 +3,9 @@ title: "Section 7502 - Purposes and agreements"
 usc_title: 16
 usc_section: "7502"
 chapter: 94
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 7502"
-generated_at: "2026-03-30T07:22:00.125Z"
+generated_at: "2026-03-30T07:24:01.059Z"
 status: "active"
 ---
 

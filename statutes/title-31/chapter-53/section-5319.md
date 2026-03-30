@@ -3,9 +3,9 @@ title: "Section 5319 - Availability of reports"
 usc_title: 31
 usc_section: "5319"
 chapter: 53
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "31 U.S.C. § 5319"
-generated_at: "2026-03-30T07:22:25.155Z"
+generated_at: "2026-03-30T07:24:24.532Z"
 status: "active"
 ---
 

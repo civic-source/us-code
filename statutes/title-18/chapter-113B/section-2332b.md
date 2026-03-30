@@ -3,9 +3,9 @@ title: "Section 2332b - Acts of terrorism transcending national boundaries"
 usc_title: 18
 usc_section: "2332b"
 chapter: 113
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "18 U.S.C. § 2332b"
-generated_at: "2026-03-30T07:21:56.023Z"
+generated_at: "2026-03-30T07:23:50.510Z"
 status: "active"
 ---
 

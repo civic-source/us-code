@@ -3,9 +3,9 @@ title: "Section 5601 - Sea post service"
 usc_title: 39
 usc_section: "5601"
 chapter: 56
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "39 U.S.C. § 5601"
-generated_at: "2026-03-30T07:22:28.147Z"
+generated_at: "2026-03-30T07:24:30.746Z"
 status: "active"
 ---
 

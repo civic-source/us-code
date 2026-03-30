@@ -3,9 +3,9 @@ title: "Section 7101 - Purposes"
 usc_title: 31
 usc_section: "7101"
 chapter: 71
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "31 U.S.C. § 7101"
-generated_at: "2026-03-30T07:22:25.159Z"
+generated_at: "2026-03-30T07:24:24.537Z"
 status: "active"
 ---
 

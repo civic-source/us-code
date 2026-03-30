@@ -3,9 +3,9 @@ title: "Section 1587 - Employees of nonappropriated fund instrumentalities: repr
 usc_title: 10
 usc_section: "1587"
 chapter: 81
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 1587"
-generated_at: "2026-03-30T07:21:17.948Z"
+generated_at: "2026-03-30T07:23:35.379Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 284 - Directors of national research institutes"
 usc_title: 42
 usc_section: "284"
 chapter: 6
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 284"
-generated_at: "2026-03-30T07:23:01.362Z"
+generated_at: "2026-03-30T07:24:48.317Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 717 - Detail of Army engineers as construction aids"
 usc_title: 33
 usc_section: "717"
 chapter: 16
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "33 U.S.C. § 717"
-generated_at: "2026-03-30T07:22:26.316Z"
+generated_at: "2026-03-30T07:24:25.292Z"
 status: "active"
 ---
 

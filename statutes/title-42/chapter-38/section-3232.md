@@ -3,9 +3,9 @@ title: "Section 3232 - Authorization of appropriations for defense conversion ac
 usc_title: 42
 usc_section: "3232"
 chapter: 38
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 3232"
-generated_at: "2026-03-30T07:23:01.711Z"
+generated_at: "2026-03-30T07:24:48.659Z"
 status: "active"
 ---
 

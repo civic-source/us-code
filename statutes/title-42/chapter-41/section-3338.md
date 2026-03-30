@@ -3,9 +3,9 @@ title: "Section 3338 - Definitions"
 usc_title: 42
 usc_section: "3338"
 chapter: 41
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 3338"
-generated_at: "2026-03-30T07:23:01.711Z"
+generated_at: "2026-03-30T07:24:48.659Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8121 - Improper appropriation of streets"
 usc_title: 40
 usc_section: "8121"
 chapter: 81
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "40 U.S.C. § 8121"
-generated_at: "2026-03-30T07:22:30.726Z"
+generated_at: "2026-03-30T07:24:31.300Z"
 status: "active"
 ---
 

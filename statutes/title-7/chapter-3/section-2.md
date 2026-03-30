@@ -3,9 +3,9 @@ title: "Section 2 - Reporting requirements"
 usc_title: 7
 usc_section: "2"
 chapter: 3
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T07:21:14.511Z"
+generated_at: "2026-03-30T07:23:30.873Z"
 status: "active"
 ---
 

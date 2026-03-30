@@ -3,9 +3,9 @@ title: "Section 4261 - Repealed. Pub. L. 97–258 , § 5(b), Sept. 13, 1982 , 96
 usc_title: 42
 usc_section: "4261"
 chapter: 52
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 4261"
-generated_at: "2026-03-30T07:23:01.725Z"
+generated_at: "2026-03-30T07:24:48.673Z"
 status: "repealed"
 ---
 

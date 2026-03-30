@@ -3,9 +3,9 @@ title: "Section 641 - Establishment and maintenance of program for exploration; 
 usc_title: 30
 usc_section: "641"
 chapter: 17
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "30 U.S.C. § 641"
-generated_at: "2026-03-30T07:22:13.498Z"
+generated_at: "2026-03-30T07:24:12.079Z"
 status: "active"
 ---
 

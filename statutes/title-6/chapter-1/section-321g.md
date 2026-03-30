@@ -3,9 +3,9 @@ title: "Section 321g - Conduct of certain public health-related activities"
 usc_title: 6
 usc_section: "321g"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "6 U.S.C. § 321g"
-generated_at: "2026-03-30T07:21:09.566Z"
+generated_at: "2026-03-30T07:23:28.357Z"
 status: "active"
 ---
 

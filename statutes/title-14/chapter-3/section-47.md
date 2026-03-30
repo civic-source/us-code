@@ -3,9 +3,9 @@ title: "Section 47 - Vice Commandant; appointment"
 usc_title: 14
 usc_section: "47"
 chapter: 3
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "14 U.S.C. § 47"
-generated_at: "2026-03-30T07:21:20.307Z"
+generated_at: "2026-03-30T07:23:37.538Z"
 status: "active"
 ---
 

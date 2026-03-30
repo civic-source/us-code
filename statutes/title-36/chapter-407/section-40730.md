@@ -3,9 +3,9 @@ title: "Section 40730 - Surplus property"
 usc_title: 36
 usc_section: "40730"
 chapter: 407
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "36 U.S.C. § 40730"
-generated_at: "2026-03-30T07:22:29.176Z"
+generated_at: "2026-03-30T07:24:31.885Z"
 status: "active"
 ---
 

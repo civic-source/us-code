@@ -3,9 +3,9 @@ title: "Section 8001 - Sense of Congress"
 usc_title: 22
 usc_section: "8001"
 chapter: 87
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 8001"
-generated_at: "2026-03-30T07:22:06.601Z"
+generated_at: "2026-03-30T07:24:07.430Z"
 status: "active"
 ---
 

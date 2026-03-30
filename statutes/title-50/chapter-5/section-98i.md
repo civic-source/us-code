@@ -3,9 +3,9 @@ title: "Section 98i - Repealed. Pub. L. 85–861 , § 36A, Sept. 2, 1958 , 72 St
 usc_title: 50
 usc_section: "98i"
 chapter: 5
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "50 U.S.C. § 98i"
-generated_at: "2026-03-30T07:23:09.669Z"
+generated_at: "2026-03-30T07:24:56.937Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8401 - Regulation of certain biological agents and toxins"
 usc_title: 7
 usc_section: "8401"
 chapter: 110
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 8401"
-generated_at: "2026-03-30T07:21:14.668Z"
+generated_at: "2026-03-30T07:23:31.035Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8005 - Eligibility for services"
 usc_title: 42
 usc_section: "8005"
 chapter: 89
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 8005"
-generated_at: "2026-03-30T07:23:01.831Z"
+generated_at: "2026-03-30T07:24:48.783Z"
 status: "active"
 ---
 

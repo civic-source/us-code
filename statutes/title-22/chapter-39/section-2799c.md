@@ -3,9 +3,9 @@ title: "Section 2799c - Notifications and reports to Congress"
 usc_title: 22
 usc_section: "2799c"
 chapter: 39
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 2799c"
-generated_at: "2026-03-30T07:22:06.549Z"
+generated_at: "2026-03-30T07:24:07.377Z"
 status: "active"
 ---
 

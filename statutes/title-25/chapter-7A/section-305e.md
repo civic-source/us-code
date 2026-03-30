@@ -3,9 +3,9 @@ title: "Section 305e - Cause of action for misrepresentation of Indian produced 
 usc_title: 25
 usc_section: "305e"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "25 U.S.C. § 305e"
-generated_at: "2026-03-30T07:22:07.323Z"
+generated_at: "2026-03-30T07:24:05.284Z"
 status: "active"
 ---
 

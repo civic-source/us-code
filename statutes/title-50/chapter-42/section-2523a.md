@@ -3,9 +3,9 @@ title: "Section 2523a - Repealed. Pub. L. 112–239, div. C, title XXXI , § 313
 usc_title: 50
 usc_section: "2523a"
 chapter: 42
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "50 U.S.C. § 2523a"
-generated_at: "2026-03-30T07:23:09.695Z"
+generated_at: "2026-03-30T07:24:56.961Z"
 status: "repealed"
 ---
 

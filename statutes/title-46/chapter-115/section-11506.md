@@ -3,9 +3,9 @@ title: "Section 11506 - Carrying sheath knives"
 usc_title: 46
 usc_section: "11506"
 chapter: 115
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "46 U.S.C. § 11506"
-generated_at: "2026-03-30T07:23:05.403Z"
+generated_at: "2026-03-30T07:24:53.548Z"
 status: "active"
 ---
 

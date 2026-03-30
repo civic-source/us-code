@@ -3,9 +3,9 @@ title: "Section 12203 - Commissioned officers: appointment, how made; term"
 usc_title: 10
 usc_section: "12203"
 chapter: 1205
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 12203"
-generated_at: "2026-03-30T07:21:18.028Z"
+generated_at: "2026-03-30T07:23:35.465Z"
 status: "active"
 ---
 

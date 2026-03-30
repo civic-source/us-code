@@ -3,9 +3,9 @@ title: "Section 1860 - Civil forfeitures"
 usc_title: 16
 usc_section: "1860"
 chapter: 38
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 1860"
-generated_at: "2026-03-30T07:22:00.076Z"
+generated_at: "2026-03-30T07:24:01.013Z"
 status: "active"
 ---
 

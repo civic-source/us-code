@@ -3,9 +3,9 @@ title: "Section 12584a - Prohibited activities and ineligible organizations"
 usc_title: 42
 usc_section: "12584a"
 chapter: 129
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 12584a"
-generated_at: "2026-03-30T07:23:01.902Z"
+generated_at: "2026-03-30T07:24:48.857Z"
 status: "active"
 ---
 

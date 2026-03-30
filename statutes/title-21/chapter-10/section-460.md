@@ -3,9 +3,9 @@ title: "Section 460 - Miscellaneous activities subject to regulation"
 usc_title: 21
 usc_section: "460"
 chapter: 10
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "21 U.S.C. § 460"
-generated_at: "2026-03-30T07:22:08.178Z"
+generated_at: "2026-03-30T07:24:04.530Z"
 status: "active"
 ---
 

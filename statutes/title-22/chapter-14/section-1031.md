@@ -3,9 +3,9 @@ title: "Section 1031 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 1
 usc_title: 22
 usc_section: "1031"
 chapter: 14
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 1031"
-generated_at: "2026-03-30T07:22:06.501Z"
+generated_at: "2026-03-30T07:24:07.328Z"
 status: "repealed"
 ---
 

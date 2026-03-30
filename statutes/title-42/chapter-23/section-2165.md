@@ -3,9 +3,9 @@ title: "Section 2165 - Security restrictions"
 usc_title: 42
 usc_section: "2165"
 chapter: 23
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 2165"
-generated_at: "2026-03-30T07:23:01.684Z"
+generated_at: "2026-03-30T07:24:48.632Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 80o - Director, officers, and employees; appointment, compensati
 usc_title: 20
 usc_section: "80o"
 chapter: 3
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "20 U.S.C. § 80o"
-generated_at: "2026-03-30T07:21:47.200Z"
+generated_at: "2026-03-30T07:23:47.387Z"
 status: "active"
 ---
 

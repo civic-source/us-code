@@ -3,9 +3,9 @@ title: "Section 4001a - Consultation required"
 usc_title: 33
 usc_section: "4001a"
 chapter: 53
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "33 U.S.C. § 4001a"
-generated_at: "2026-03-30T07:22:26.376Z"
+generated_at: "2026-03-30T07:24:25.351Z"
 status: "active"
 ---
 

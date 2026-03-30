@@ -3,9 +3,9 @@ title: "Section 3747 - Eligible financial institutions"
 usc_title: 38
 usc_section: "3747"
 chapter: 37
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "38 U.S.C. § 3747"
-generated_at: "2026-03-30T07:22:30.319Z"
+generated_at: "2026-03-30T07:24:33.550Z"
 status: "active"
 ---
 

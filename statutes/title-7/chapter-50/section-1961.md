@@ -3,9 +3,9 @@ title: "Section 1961 - Eligibility for loans"
 usc_title: 7
 usc_section: "1961"
 chapter: 50
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 1961"
-generated_at: "2026-03-30T07:21:14.579Z"
+generated_at: "2026-03-30T07:23:30.943Z"
 status: "active"
 ---
 

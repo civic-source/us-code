@@ -3,9 +3,9 @@ title: "Section 7661f - Small business stationary source technical and environme
 usc_title: 42
 usc_section: "7661f"
 chapter: 85
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 7661f"
-generated_at: "2026-03-30T07:23:01.827Z"
+generated_at: "2026-03-30T07:24:48.779Z"
 status: "active"
 ---
 

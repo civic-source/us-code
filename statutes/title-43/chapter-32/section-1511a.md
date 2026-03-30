@@ -3,9 +3,9 @@ title: "Section 1511a - Cooperation and participation by Secretary of the Army w
 usc_title: 43
 usc_section: "1511a"
 chapter: 32
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "43 U.S.C. § 1511a"
-generated_at: "2026-03-30T07:22:34.957Z"
+generated_at: "2026-03-30T07:24:49.497Z"
 status: "active"
 ---
 

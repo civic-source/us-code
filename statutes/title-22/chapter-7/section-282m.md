@@ -3,9 +3,9 @@ title: "Section 282m - Authority to vote for capital increases necessary to supp
 usc_title: 22
 usc_section: "282m"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 282m"
-generated_at: "2026-03-30T07:22:06.488Z"
+generated_at: "2026-03-30T07:24:07.314Z"
 status: "active"
 ---
 

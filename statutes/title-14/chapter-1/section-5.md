@@ -3,9 +3,9 @@ title: "Section 5 - Omitted]"
 usc_title: 14
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "14 U.S.C. § 5"
-generated_at: "2026-03-30T07:21:20.307Z"
+generated_at: "2026-03-30T07:23:37.538Z"
 status: "omitted"
 ---
 

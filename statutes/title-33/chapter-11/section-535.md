@@ -3,9 +3,9 @@ title: "Section 535 - Congressional consent to construction, maintenance, and op
 usc_title: 33
 usc_section: "535"
 chapter: 11
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "33 U.S.C. § 535"
-generated_at: "2026-03-30T07:22:26.306Z"
+generated_at: "2026-03-30T07:24:25.283Z"
 status: "active"
 ---
 

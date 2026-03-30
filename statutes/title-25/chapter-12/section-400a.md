@@ -3,9 +3,9 @@ title: "Section 400a - Lease for mining purposes of land reserved for agency or 
 usc_title: 25
 usc_section: "400a"
 chapter: 12
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "25 U.S.C. § 400a"
-generated_at: "2026-03-30T07:22:07.326Z"
+generated_at: "2026-03-30T07:24:05.288Z"
 status: "active"
 ---
 

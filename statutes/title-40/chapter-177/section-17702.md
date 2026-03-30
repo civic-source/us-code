@@ -3,9 +3,9 @@ title: "Section 17702 - Transfer of Government-owned long-lines communication fa
 usc_title: 40
 usc_section: "17702"
 chapter: 177
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "40 U.S.C. § 17702"
-generated_at: "2026-03-30T07:22:30.732Z"
+generated_at: "2026-03-30T07:24:31.306Z"
 status: "active"
 ---
 

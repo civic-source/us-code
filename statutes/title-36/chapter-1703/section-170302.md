@@ -3,9 +3,9 @@ title: "Section 170302 - Organization"
 usc_title: 36
 usc_section: "170302"
 chapter: 1703
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "36 U.S.C. § 170302"
-generated_at: "2026-03-30T07:22:29.185Z"
+generated_at: "2026-03-30T07:24:31.895Z"
 status: "active"
 ---
 

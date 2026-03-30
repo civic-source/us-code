@@ -3,9 +3,9 @@ title: "Section 1585 - Powers in law and equity"
 usc_title: 28
 usc_section: "1585"
 chapter: 95
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "28 U.S.C. § 1585"
-generated_at: "2026-03-30T07:22:13.191Z"
+generated_at: "2026-03-30T07:24:15.832Z"
 status: "active"
 ---
 

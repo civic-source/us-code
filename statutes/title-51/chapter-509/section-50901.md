@@ -3,9 +3,9 @@ title: "Section 50901 - Findings and purposes"
 usc_title: 51
 usc_section: "50901"
 chapter: 509
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "51 U.S.C. § 50901"
-generated_at: "2026-03-30T07:23:11.438Z"
+generated_at: "2026-03-30T07:24:59.008Z"
 status: "active"
 ---
 

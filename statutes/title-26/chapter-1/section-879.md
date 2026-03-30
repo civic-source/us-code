@@ -3,9 +3,9 @@ title: "Section 879 - Tax treatment of certain community income in the case of n
 usc_title: 26
 usc_section: "879"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 879"
-generated_at: "2026-03-30T07:22:21.782Z"
+generated_at: "2026-03-30T07:24:21.695Z"
 status: "active"
 ---
 

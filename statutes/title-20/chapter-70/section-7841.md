@@ -3,9 +3,9 @@ title: "Section 7841 - Purposes"
 usc_title: 20
 usc_section: "7841"
 chapter: 70
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "20 U.S.C. § 7841"
-generated_at: "2026-03-30T07:21:47.412Z"
+generated_at: "2026-03-30T07:23:47.513Z"
 status: "active"
 ---
 

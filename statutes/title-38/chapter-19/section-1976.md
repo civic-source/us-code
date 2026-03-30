@@ -3,9 +3,9 @@ title: "Section 1976 - Effective date"
 usc_title: 38
 usc_section: "1976"
 chapter: 19
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "38 U.S.C. § 1976"
-generated_at: "2026-03-30T07:22:30.300Z"
+generated_at: "2026-03-30T07:24:33.530Z"
 status: "active"
 ---
 

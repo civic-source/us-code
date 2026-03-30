@@ -3,9 +3,9 @@ title: "Section 303c - Television program improvement"
 usc_title: 47
 usc_section: "303c"
 chapter: 5
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "47 U.S.C. § 303c"
-generated_at: "2026-03-30T07:23:04.760Z"
+generated_at: "2026-03-30T07:24:52.382Z"
 status: "active"
 ---
 

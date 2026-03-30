@@ -3,9 +3,9 @@ title: "Section 81c - Repealed. Pub. L. 104–186, title II , § 204(27)–(29),
 usc_title: 2
 usc_section: "81c"
 chapter: 4
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "2 U.S.C. § 81c"
-generated_at: "2026-03-30T07:21:05.855Z"
+generated_at: "2026-03-30T07:23:23.830Z"
 status: "repealed"
 ---
 

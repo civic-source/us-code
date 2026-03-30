@@ -3,9 +3,9 @@ title: "Section 702 - Allotment to States and Federal set-aside"
 usc_title: 42
 usc_section: "702"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 702"
-generated_at: "2026-03-30T07:23:01.483Z"
+generated_at: "2026-03-30T07:24:48.435Z"
 status: "active"
 ---
 

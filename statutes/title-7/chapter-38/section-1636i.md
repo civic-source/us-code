@@ -3,9 +3,9 @@ title: "Section 1636i - Termination of authority"
 usc_title: 7
 usc_section: "1636i"
 chapter: 38
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 1636i"
-generated_at: "2026-03-30T07:21:14.568Z"
+generated_at: "2026-03-30T07:23:30.932Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1706 - Repealed. Pub. L. 104–127, title II , §§ 206, 265(a),
 usc_title: 7
 usc_section: "1706"
 chapter: 41
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 1706"
-generated_at: "2026-03-30T07:21:14.569Z"
+generated_at: "2026-03-30T07:23:30.933Z"
 status: "repealed"
 ---
 

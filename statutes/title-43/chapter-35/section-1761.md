@@ -3,9 +3,9 @@ title: "Section 1761 - Grant, issue, or renewal of rights-of-way"
 usc_title: 43
 usc_section: "1761"
 chapter: 35
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "43 U.S.C. § 1761"
-generated_at: "2026-03-30T07:22:34.970Z"
+generated_at: "2026-03-30T07:24:49.511Z"
 status: "active"
 ---
 

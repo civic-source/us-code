@@ -3,9 +3,9 @@ title: "Section 3 - Use of certain local currency"
 usc_title: 7
 usc_section: "3"
 chapter: 41
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T07:21:14.572Z"
+generated_at: "2026-03-30T07:23:30.936Z"
 status: "active"
 ---
 

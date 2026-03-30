@@ -3,9 +3,9 @@ title: "Section 17704 - Contents of agreements for transfer"
 usc_title: 40
 usc_section: "17704"
 chapter: 177
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "40 U.S.C. § 17704"
-generated_at: "2026-03-30T07:22:30.732Z"
+generated_at: "2026-03-30T07:24:31.306Z"
 status: "active"
 ---
 

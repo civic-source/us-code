@@ -3,9 +3,9 @@ title: "Section 4502 - Definitions"
 usc_title: 12
 usc_section: "4502"
 chapter: 46
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "12 U.S.C. § 4502"
-generated_at: "2026-03-30T07:21:39.092Z"
+generated_at: "2026-03-30T07:23:40.720Z"
 status: "active"
 ---
 

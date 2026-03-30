@@ -3,9 +3,9 @@ title: "Section 20204 - Membership"
 usc_title: 36
 usc_section: "20204"
 chapter: 202
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "36 U.S.C. § 20204"
-generated_at: "2026-03-30T07:22:29.171Z"
+generated_at: "2026-03-30T07:24:31.880Z"
 status: "active"
 ---
 

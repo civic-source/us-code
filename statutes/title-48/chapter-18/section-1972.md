@@ -3,9 +3,9 @@ title: "Section 1972 - Controlled substances in freely associated states"
 usc_title: 48
 usc_section: "1972"
 chapter: 18
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "48 U.S.C. § 1972"
-generated_at: "2026-03-30T07:23:05.960Z"
+generated_at: "2026-03-30T07:24:52.732Z"
 status: "active"
 ---
 

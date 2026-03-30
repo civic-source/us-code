@@ -3,9 +3,9 @@ title: "Section 1459 - Records and audit"
 usc_title: 16
 usc_section: "1459"
 chapter: 33
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 1459"
-generated_at: "2026-03-30T07:22:00.064Z"
+generated_at: "2026-03-30T07:24:01.001Z"
 status: "active"
 ---
 

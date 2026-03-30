@@ -3,9 +3,9 @@ title: "Section 5932 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5932"
 chapter: 79
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 5932"
-generated_at: "2026-03-30T07:22:00.115Z"
+generated_at: "2026-03-30T07:24:01.050Z"
 status: "repealed"
 ---
 

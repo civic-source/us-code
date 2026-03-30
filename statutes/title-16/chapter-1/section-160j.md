@@ -3,9 +3,9 @@ title: "Section 160j - Roads accessible to public facilities"
 usc_title: 16
 usc_section: "160j"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 160j"
-generated_at: "2026-03-30T07:21:59.864Z"
+generated_at: "2026-03-30T07:24:00.853Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2404 - Death of defendant in damage action"
 usc_title: 28
 usc_section: "2404"
 chapter: 161
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "28 U.S.C. § 2404"
-generated_at: "2026-03-30T07:22:13.198Z"
+generated_at: "2026-03-30T07:24:15.839Z"
 status: "active"
 ---
 

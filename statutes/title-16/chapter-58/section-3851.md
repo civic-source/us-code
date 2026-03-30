@@ -3,9 +3,9 @@ title: "Section 3851 - Agriculture conservation experienced services program"
 usc_title: 16
 usc_section: "3851"
 chapter: 58
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 3851"
-generated_at: "2026-03-30T07:22:00.102Z"
+generated_at: "2026-03-30T07:24:01.037Z"
 status: "active"
 ---
 

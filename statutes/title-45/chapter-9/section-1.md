@@ -3,9 +3,9 @@ title: "Section 1 - Social Security Equivalent Benefit Account"
 usc_title: 45
 usc_section: "1"
 chapter: 9
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "45 U.S.C. § 1"
-generated_at: "2026-03-30T07:22:34.204Z"
+generated_at: "2026-03-30T07:24:36.422Z"
 status: "active"
 ---
 

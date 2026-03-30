@@ -3,9 +3,9 @@ title: "Section 17202 - Authorization of appropriations"
 usc_title: 42
 usc_section: "17202"
 chapter: 152
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 17202"
-generated_at: "2026-03-30T07:23:01.960Z"
+generated_at: "2026-03-30T07:24:48.915Z"
 status: "active"
 ---
 

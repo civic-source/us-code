@@ -3,9 +3,9 @@ title: "Section 5410 - Civil and criminal penalties"
 usc_title: 42
 usc_section: "5410"
 chapter: 70
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 5410"
-generated_at: "2026-03-30T07:23:01.751Z"
+generated_at: "2026-03-30T07:24:48.699Z"
 status: "active"
 ---
 

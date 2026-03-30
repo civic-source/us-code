@@ -3,9 +3,9 @@ title: "Section 2431 - Weapons development and procurement schedules"
 usc_title: 10
 usc_section: "2431"
 chapter: 144
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 2431"
-generated_at: "2026-03-30T07:21:17.975Z"
+generated_at: "2026-03-30T07:23:35.408Z"
 status: "active"
 ---
 

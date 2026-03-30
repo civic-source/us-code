@@ -3,9 +3,9 @@ title: "Section 15101 - Transportation policy"
 usc_title: 49
 usc_section: "15101"
 chapter: 151
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "49 U.S.C. § 15101"
-generated_at: "2026-03-30T07:23:07.811Z"
+generated_at: "2026-03-30T07:24:55.905Z"
 status: "active"
 ---
 

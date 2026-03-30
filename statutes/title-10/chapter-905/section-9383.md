@@ -3,9 +3,9 @@ title: "Section 9383 - Repealed. Pub. L. 114–328, div. A, title XII , § 1241(
 usc_title: 10
 usc_section: "9383"
 chapter: 905
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 9383"
-generated_at: "2026-03-30T07:21:18.021Z"
+generated_at: "2026-03-30T07:23:35.458Z"
 status: "repealed"
 ---
 

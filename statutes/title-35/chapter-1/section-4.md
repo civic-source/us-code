@@ -3,9 +3,9 @@ title: "Section 4 - Restrictions on officers and employees as to interest in pat
 usc_title: 35
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "35 U.S.C. § 4"
-generated_at: "2026-03-30T07:22:23.650Z"
+generated_at: "2026-03-30T07:24:23.580Z"
 status: "active"
 ---
 

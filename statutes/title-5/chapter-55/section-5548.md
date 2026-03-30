@@ -3,9 +3,9 @@ title: "Section 5548 - Regulations"
 usc_title: 5
 usc_section: "5548"
 chapter: 55
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "5 U.S.C. § 5548"
-generated_at: "2026-03-30T07:21:07.496Z"
+generated_at: "2026-03-30T07:23:25.717Z"
 status: "active"
 ---
 

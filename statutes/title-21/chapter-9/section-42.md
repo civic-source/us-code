@@ -3,9 +3,9 @@ title: "Section 42 - Authority to assess and use human generic drug fees"
 usc_title: 21
 usc_section: "42"
 chapter: 9
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "21 U.S.C. § 42"
-generated_at: "2026-03-30T07:22:08.168Z"
+generated_at: "2026-03-30T07:24:04.518Z"
 status: "active"
 ---
 

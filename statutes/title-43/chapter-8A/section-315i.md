@@ -3,9 +3,9 @@ title: "Section 315i - Disposition of moneys received; availability for improvem
 usc_title: 43
 usc_section: "315i"
 chapter: 8
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "43 U.S.C. § 315i"
-generated_at: "2026-03-30T07:22:34.926Z"
+generated_at: "2026-03-30T07:24:49.466Z"
 status: "active"
 ---
 

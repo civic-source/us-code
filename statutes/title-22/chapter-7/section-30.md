@@ -3,9 +3,9 @@ title: "Section 30 - Lower Rio Grande drainage conveyance canal projects; agreem
 usc_title: 22
 usc_section: "30"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 30"
-generated_at: "2026-03-30T07:22:06.486Z"
+generated_at: "2026-03-30T07:24:07.312Z"
 status: "active"
 ---
 

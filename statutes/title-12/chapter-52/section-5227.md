@@ -3,9 +3,9 @@ title: "Section 5227 - Study and report on margin authority"
 usc_title: 12
 usc_section: "5227"
 chapter: 52
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "12 U.S.C. § 5227"
-generated_at: "2026-03-30T07:21:39.111Z"
+generated_at: "2026-03-30T07:23:40.738Z"
 status: "active"
 ---
 

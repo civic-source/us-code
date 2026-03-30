@@ -3,9 +3,9 @@ title: "Section 3124 - Estimate of revenue reduction"
 usc_title: 26
 usc_section: "3124"
 chapter: 21
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 3124"
-generated_at: "2026-03-30T07:22:21.823Z"
+generated_at: "2026-03-30T07:24:21.735Z"
 status: "active"
 ---
 

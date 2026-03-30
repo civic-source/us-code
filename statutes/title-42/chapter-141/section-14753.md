@@ -3,9 +3,9 @@ title: "Section 14753 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "14753"
 chapter: 141
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 14753"
-generated_at: "2026-03-30T07:23:01.930Z"
+generated_at: "2026-03-30T07:24:48.885Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1185 - Travel control of citizens and aliens"
 usc_title: 8
 usc_section: "1185"
 chapter: 12
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "8 U.S.C. § 1185"
-generated_at: "2026-03-30T07:21:10.451Z"
+generated_at: "2026-03-30T07:23:27.952Z"
 status: "active"
 ---
 

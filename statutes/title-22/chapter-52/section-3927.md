@@ -3,9 +3,9 @@ title: "Section 3927 - Chief of mission"
 usc_title: 22
 usc_section: "3927"
 chapter: 52
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 3927"
-generated_at: "2026-03-30T07:22:06.558Z"
+generated_at: "2026-03-30T07:24:07.386Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 638b - Voluntary retirement incentive"
 usc_title: 10
 usc_section: "638b"
 chapter: 36
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 638b"
-generated_at: "2026-03-30T07:21:17.910Z"
+generated_at: "2026-03-30T07:23:35.338Z"
 status: "active"
 ---
 

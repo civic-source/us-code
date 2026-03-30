@@ -3,9 +3,9 @@ title: "Section 2115 - Investigations by Secretary; subpenas; oaths and affirmat
 usc_title: 7
 usc_section: "2115"
 chapter: 53
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 2115"
-generated_at: "2026-03-30T07:21:14.599Z"
+generated_at: "2026-03-30T07:23:30.963Z"
 status: "active"
 ---
 

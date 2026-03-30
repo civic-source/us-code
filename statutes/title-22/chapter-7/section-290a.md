@@ -3,9 +3,9 @@ title: "Section 290a - Designation of representatives and alternates; compensati
 usc_title: 22
 usc_section: "290a"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 290a"
-generated_at: "2026-03-30T07:22:06.495Z"
+generated_at: "2026-03-30T07:24:07.321Z"
 status: "active"
 ---
 

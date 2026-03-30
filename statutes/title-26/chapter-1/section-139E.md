@@ -3,9 +3,9 @@ title: "Section 139E - Indian general welfare benefits"
 usc_title: 26
 usc_section: "139E"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 139E"
-generated_at: "2026-03-30T07:22:21.693Z"
+generated_at: "2026-03-30T07:24:21.608Z"
 status: "active"
 ---
 

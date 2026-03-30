@@ -3,9 +3,9 @@ title: "Section 4301 - Members of Army: detail as students, observers, and inves
 usc_title: 10
 usc_section: "4301"
 chapter: 401
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 4301"
-generated_at: "2026-03-30T07:21:18.000Z"
+generated_at: "2026-03-30T07:23:35.435Z"
 status: "active"
 ---
 

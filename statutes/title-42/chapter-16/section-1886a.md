@@ -3,9 +3,9 @@ title: "Section 1886a - Data on specific fields of study"
 usc_title: 42
 usc_section: "1886a"
 chapter: 16
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 1886a"
-generated_at: "2026-03-30T07:23:01.665Z"
+generated_at: "2026-03-30T07:24:48.614Z"
 status: "active"
 ---
 

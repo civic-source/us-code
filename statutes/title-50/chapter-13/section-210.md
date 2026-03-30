@@ -3,9 +3,9 @@ title: "Section 210 - Penalties for unauthorized trading, etc.; jurisdiction of 
 usc_title: 50
 usc_section: "210"
 chapter: 13
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "50 U.S.C. § 210"
-generated_at: "2026-03-30T07:23:09.671Z"
+generated_at: "2026-03-30T07:24:56.939Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 190111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "190111"
 chapter: 1901
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "36 U.S.C. § 190111"
-generated_at: "2026-03-30T07:22:29.186Z"
+generated_at: "2026-03-30T07:24:31.895Z"
 status: "active"
 ---
 

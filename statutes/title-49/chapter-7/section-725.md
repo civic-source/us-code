@@ -3,9 +3,9 @@ title: "Section 725 - Repealed. Pub. L. 114–110 , § 3(a)(4), Dec. 18, 2015 , 
 usc_title: 49
 usc_section: "725"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "49 U.S.C. § 725"
-generated_at: "2026-03-30T07:23:07.786Z"
+generated_at: "2026-03-30T07:24:55.880Z"
 status: "repealed"
 ---
 

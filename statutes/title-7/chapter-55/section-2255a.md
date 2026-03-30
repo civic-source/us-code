@@ -3,9 +3,9 @@ title: "Section 2255a - Financial assistance to national and international confe
 usc_title: 7
 usc_section: "2255a"
 chapter: 55
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 2255a"
-generated_at: "2026-03-30T07:21:14.603Z"
+generated_at: "2026-03-30T07:23:30.968Z"
 status: "active"
 ---
 

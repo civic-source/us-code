@@ -3,9 +3,9 @@ title: "Section 5751 - Travel expenses of witnesses"
 usc_title: 5
 usc_section: "5751"
 chapter: 57
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "5 U.S.C. § 5751"
-generated_at: "2026-03-30T07:21:07.500Z"
+generated_at: "2026-03-30T07:23:25.720Z"
 status: "active"
 ---
 

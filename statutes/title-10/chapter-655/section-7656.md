@@ -3,9 +3,9 @@ title: "Section 7656 - Duties of United States attorney"
 usc_title: 10
 usc_section: "7656"
 chapter: 655
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 7656"
-generated_at: "2026-03-30T07:21:18.015Z"
+generated_at: "2026-03-30T07:23:35.452Z"
 status: "active"
 ---
 

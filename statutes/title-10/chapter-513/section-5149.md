@@ -3,9 +3,9 @@ title: "Section 5149 - Office of the Judge Advocate General: Deputy Judge Advoca
 usc_title: 10
 usc_section: "5149"
 chapter: 513
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 5149"
-generated_at: "2026-03-30T07:21:18.006Z"
+generated_at: "2026-03-30T07:23:35.441Z"
 status: "active"
 ---
 

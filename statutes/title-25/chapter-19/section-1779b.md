@@ -3,9 +3,9 @@ title: "Section 1779b - Omitted"
 usc_title: 25
 usc_section: "1779b"
 chapter: 19
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "25 U.S.C. § 1779b"
-generated_at: "2026-03-30T07:22:07.345Z"
+generated_at: "2026-03-30T07:24:05.309Z"
 status: "omitted"
 ---
 

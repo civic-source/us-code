@@ -3,9 +3,9 @@ title: "Section 48 - Energy credit"
 usc_title: 26
 usc_section: "48"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 48"
-generated_at: "2026-03-30T07:22:21.680Z"
+generated_at: "2026-03-30T07:24:21.595Z"
 status: "active"
 ---
 

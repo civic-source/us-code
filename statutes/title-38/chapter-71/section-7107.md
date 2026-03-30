@@ -3,9 +3,9 @@ title: "Section 7107 - Appeals: dockets; hearings"
 usc_title: 38
 usc_section: "7107"
 chapter: 71
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "38 U.S.C. § 7107"
-generated_at: "2026-03-30T07:22:30.328Z"
+generated_at: "2026-03-30T07:24:33.559Z"
 status: "active"
 ---
 

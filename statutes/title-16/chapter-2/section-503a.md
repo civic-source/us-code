@@ -3,9 +3,9 @@ title: "Section 503a - Omitted"
 usc_title: 16
 usc_section: "503a"
 chapter: 2
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 503a"
-generated_at: "2026-03-30T07:21:59.991Z"
+generated_at: "2026-03-30T07:24:00.929Z"
 status: "omitted"
 ---
 

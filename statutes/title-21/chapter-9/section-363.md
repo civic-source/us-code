@@ -3,9 +3,9 @@ title: "Section 363 - Regulations making exemptions"
 usc_title: 21
 usc_section: "363"
 chapter: 9
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "21 U.S.C. § 363"
-generated_at: "2026-03-30T07:22:08.161Z"
+generated_at: "2026-03-30T07:24:04.511Z"
 status: "active"
 ---
 

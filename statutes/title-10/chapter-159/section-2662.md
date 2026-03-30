@@ -3,9 +3,9 @@ title: "Section 2662 - Real property transactions: reports to congressional comm
 usc_title: 10
 usc_section: "2662"
 chapter: 159
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 2662"
-generated_at: "2026-03-30T07:21:17.986Z"
+generated_at: "2026-03-30T07:23:35.419Z"
 status: "active"
 ---
 

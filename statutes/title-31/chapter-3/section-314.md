@@ -3,9 +3,9 @@ title: "Section 314 - Covered agreements"
 usc_title: 31
 usc_section: "314"
 chapter: 3
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "31 U.S.C. § 314"
-generated_at: "2026-03-30T07:22:25.133Z"
+generated_at: "2026-03-30T07:24:24.509Z"
 status: "active"
 ---
 

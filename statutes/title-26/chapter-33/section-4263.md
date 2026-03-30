@@ -3,9 +3,9 @@ title: "Section 4263 - Special rules"
 usc_title: 26
 usc_section: "4263"
 chapter: 33
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 4263"
-generated_at: "2026-03-30T07:22:21.833Z"
+generated_at: "2026-03-30T07:24:21.745Z"
 status: "active"
 ---
 

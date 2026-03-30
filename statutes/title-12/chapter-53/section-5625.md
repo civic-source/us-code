@@ -3,9 +3,9 @@ title: "Section 5625 - Procedural provisions"
 usc_title: 12
 usc_section: "5625"
 chapter: 53
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "12 U.S.C. § 5625"
-generated_at: "2026-03-30T07:21:39.134Z"
+generated_at: "2026-03-30T07:23:40.759Z"
 status: "active"
 ---
 

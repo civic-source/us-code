@@ -3,9 +3,9 @@ title: "Section 580 - Regular warrant officers twice failing of selection for pr
 usc_title: 10
 usc_section: "580"
 chapter: 33
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 580"
-generated_at: "2026-03-30T07:21:17.907Z"
+generated_at: "2026-03-30T07:23:35.334Z"
 status: "active"
 ---
 

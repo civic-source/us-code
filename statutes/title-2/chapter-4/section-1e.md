@@ -3,9 +3,9 @@ title: "Section 1e - Transferred"
 usc_title: 2
 usc_section: "1e"
 chapter: 4
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "2 U.S.C. § 1e"
-generated_at: "2026-03-30T07:21:05.855Z"
+generated_at: "2026-03-30T07:23:23.829Z"
 status: "transferred"
 ---
 

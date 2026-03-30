@@ -3,9 +3,9 @@ title: "Section 408q - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , 
 usc_title: 16
 usc_section: "408q"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 408q"
-generated_at: "2026-03-30T07:21:59.878Z"
+generated_at: "2026-03-30T07:24:00.867Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14309 - Personal financial interests"
 usc_title: 40
 usc_section: "14309"
 chapter: 143
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "40 U.S.C. § 14309"
-generated_at: "2026-03-30T07:22:30.730Z"
+generated_at: "2026-03-30T07:24:31.303Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 7603 - Application and acceptance"
 usc_title: 38
 usc_section: "7603"
 chapter: 76
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "38 U.S.C. § 7603"
-generated_at: "2026-03-30T07:22:30.367Z"
+generated_at: "2026-03-30T07:24:33.568Z"
 status: "active"
 ---
 
 # § 7603. Application and acceptance
 
 - **(a)**
-  - **(1)** To apply to participate in the Educational Assistance Program under subchapter II, III, V, or VI of this chapter, an individual shall submit to the Secretary an application for such participation together with an agreement described in section 7604 of this title under which the participant agrees to serve a period of obligated service in the Veterans Health Administration as provided in the agreement in return for payment of educational assistance as provided in the agreement.
+  - **(1)** To apply to participate in the Educational Assistance Program under subchapter II, III, V, VI, or VIII of this chapter, an individual shall submit to the Secretary an application for such participation together with an agreement described in section 7604 of this title under which the participant agrees to serve a period of obligated service in the Veterans Health Administration as provided in the agreement in return for payment of educational assistance as provided in the agreement.
   - **(2)** To apply to participate in the Educational Assistance Program under subchapter VII of this chapter, an individual shall submit to the Secretary an application for such participation.
 - **(b)**
   - **(1)** An individual becomes a participant in the Educational Assistance Program upon the Secretary’s approval of the individual’s application and the Secretary’s acceptance of the agreement (if required).

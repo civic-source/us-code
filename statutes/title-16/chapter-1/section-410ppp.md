@@ -3,9 +3,9 @@ title: "Section 410ppp - Blackstone River Valley National Historical Park"
 usc_title: 16
 usc_section: "410ppp"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 410ppp"
-generated_at: "2026-03-30T07:21:59.893Z"
+generated_at: "2026-03-30T07:24:00.882Z"
 status: "active"
 ---
 

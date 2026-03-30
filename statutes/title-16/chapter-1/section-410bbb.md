@@ -3,9 +3,9 @@ title: "Section 410bbb - Findings and purpose"
 usc_title: 16
 usc_section: "410bbb"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 410bbb"
-generated_at: "2026-03-30T07:21:59.888Z"
+generated_at: "2026-03-30T07:24:00.877Z"
 status: "active"
 ---
 

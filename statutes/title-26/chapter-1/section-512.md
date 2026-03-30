@@ -3,9 +3,9 @@ title: "Section 512 - Unrelated business taxable income"
 usc_title: 26
 usc_section: "512"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 512"
-generated_at: "2026-03-30T07:22:21.758Z"
+generated_at: "2026-03-30T07:24:21.671Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1363 - Buildings or property within special maritime and territo
 usc_title: 18
 usc_section: "1363"
 chapter: 65
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "18 U.S.C. § 1363"
-generated_at: "2026-03-30T07:21:56.009Z"
+generated_at: "2026-03-30T07:23:50.495Z"
 status: "active"
 ---
 

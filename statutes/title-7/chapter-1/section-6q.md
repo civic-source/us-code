@@ -3,9 +3,9 @@ title: "Section 6q - Special procedures to encourage and facilitate bona fide he
 usc_title: 7
 usc_section: "6q"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 6q"
-generated_at: "2026-03-30T07:21:14.501Z"
+generated_at: "2026-03-30T07:23:30.864Z"
 status: "active"
 ---
 

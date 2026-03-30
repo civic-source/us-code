@@ -3,9 +3,9 @@ title: "Section 304 - Reexamination order by Director"
 usc_title: 35
 usc_section: "304"
 chapter: 30
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "35 U.S.C. § 304"
-generated_at: "2026-03-30T07:22:23.656Z"
+generated_at: "2026-03-30T07:24:23.586Z"
 status: "active"
 ---
 

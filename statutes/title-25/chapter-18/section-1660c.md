@@ -3,9 +3,9 @@ title: "Section 1660c - Urban NIAAA transferred programs"
 usc_title: 25
 usc_section: "1660c"
 chapter: 18
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "25 U.S.C. § 1660c"
-generated_at: "2026-03-30T07:22:07.341Z"
+generated_at: "2026-03-30T07:24:05.304Z"
 status: "active"
 ---
 

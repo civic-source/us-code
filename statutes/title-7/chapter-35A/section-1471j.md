@@ -3,9 +3,9 @@ title: "Section 1471j - Penalties"
 usc_title: 7
 usc_section: "1471j"
 chapter: 35
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 1471j"
-generated_at: "2026-03-30T07:21:14.556Z"
+generated_at: "2026-03-30T07:23:30.921Z"
 status: "active"
 ---
 

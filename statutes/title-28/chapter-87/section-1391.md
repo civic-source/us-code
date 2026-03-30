@@ -3,9 +3,9 @@ title: "Section 1391 - Venue generally"
 usc_title: 28
 usc_section: "1391"
 chapter: 87
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "28 U.S.C. § 1391"
-generated_at: "2026-03-30T07:22:13.190Z"
+generated_at: "2026-03-30T07:24:15.831Z"
 status: "active"
 ---
 

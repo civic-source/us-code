@@ -3,9 +3,9 @@ title: "Section 3802 - Covered vessels"
 usc_title: 33
 usc_section: "3802"
 chapter: 51
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "33 U.S.C. § 3802"
-generated_at: "2026-03-30T07:22:26.374Z"
+generated_at: "2026-03-30T07:24:25.349Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1826 - Recalcitrant witnesses"
 usc_title: 28
 usc_section: "1826"
 chapter: 119
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "28 U.S.C. § 1826"
-generated_at: "2026-03-30T07:22:13.193Z"
+generated_at: "2026-03-30T07:24:15.835Z"
 status: "active"
 ---
 

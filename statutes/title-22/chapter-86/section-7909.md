@@ -3,9 +3,9 @@ title: "Section 7909 - Authorization for the Clean Technology Fund"
 usc_title: 22
 usc_section: "7909"
 chapter: 86
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 7909"
-generated_at: "2026-03-30T07:22:06.601Z"
+generated_at: "2026-03-30T07:24:07.430Z"
 status: "active"
 ---
 

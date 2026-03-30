@@ -3,9 +3,9 @@ title: "Section 3442 - Jurors, examination, peremptory challenges; alternates—
 usc_title: 18
 usc_section: "3442"
 chapter: 221
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "18 U.S.C. § 3442"
-generated_at: "2026-03-30T07:21:56.036Z"
+generated_at: "2026-03-30T07:23:50.521Z"
 status: "active"
 ---
 

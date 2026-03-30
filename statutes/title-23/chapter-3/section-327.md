@@ -3,9 +3,9 @@ title: "Section 327 - Surface transportation project delivery program"
 usc_title: 23
 usc_section: "327"
 chapter: 3
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "23 U.S.C. § 327"
-generated_at: "2026-03-30T07:22:04.172Z"
+generated_at: "2026-03-30T07:24:03.702Z"
 status: "active"
 ---
 

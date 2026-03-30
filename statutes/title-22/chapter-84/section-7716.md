@@ -3,9 +3,9 @@ title: "Section 7716 - General personnel authorities"
 usc_title: 22
 usc_section: "7716"
 chapter: 84
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 7716"
-generated_at: "2026-03-30T07:22:06.600Z"
+generated_at: "2026-03-30T07:24:07.429Z"
 status: "active"
 ---
 

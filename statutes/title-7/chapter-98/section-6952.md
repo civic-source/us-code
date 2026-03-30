@@ -3,9 +3,9 @@ title: "Section 6952 - Multiagency task force"
 usc_title: 7
 usc_section: "6952"
 chapter: 98
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 6952"
-generated_at: "2026-03-30T07:21:14.642Z"
+generated_at: "2026-03-30T07:23:31.009Z"
 status: "active"
 ---
 

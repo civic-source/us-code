@@ -3,9 +3,9 @@ title: "Section 3216 - Employment of expediters and administrative employees"
 usc_title: 42
 usc_section: "3216"
 chapter: 38
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 3216"
-generated_at: "2026-03-30T07:23:01.711Z"
+generated_at: "2026-03-30T07:24:48.658Z"
 status: "active"
 ---
 

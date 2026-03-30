@@ -3,9 +3,9 @@ title: "Section 7601 - Establishment of program; purpose"
 usc_title: 38
 usc_section: "7601"
 chapter: 76
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "38 U.S.C. § 7601"
-generated_at: "2026-03-30T07:22:30.367Z"
+generated_at: "2026-03-30T07:24:33.568Z"
 status: "active"
 ---
 
@@ -15,6 +15,7 @@ status: "active"
   - **(1)** the scholarship program provided for in subchapter II of this chapter;
   - **(2)** the tuition reimbursement program provided for in subchapter III of this chapter;
   - **(3)** the Selected Reserve member stipend program provided for under subchapter V of this chapter;
-  - **(4)** the employee incentive scholarship program provided for in subchapter VI of this chapter; and
-  - **(5)** the education debt reduction program provided for in subchapter VII of this chapter.
+  - **(4)** the employee incentive scholarship program provided for in subchapter VI of this chapter;
+  - **(5)** the education debt reduction program provided for in subchapter VII of this chapter; and
+  - **(6)** the specialty education loan repayment program provided for in subchapter VIII of this chapter.
 - **(b)** The purpose of the Educational Assistance Program is to assist in providing an adequate supply of trained health-care personnel for the Department and the Nation.

@@ -3,9 +3,9 @@ title: "Section 3193a - Transfer of administration of Job Corps program to Emplo
 usc_title: 29
 usc_section: "3193a"
 chapter: 32
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "29 U.S.C. § 3193a"
-generated_at: "2026-03-30T07:22:15.637Z"
+generated_at: "2026-03-30T07:24:10.648Z"
 status: "active"
 ---
 

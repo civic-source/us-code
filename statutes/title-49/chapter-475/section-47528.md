@@ -3,9 +3,9 @@ title: "Section 47528 - Prohibition on operating certain aircraft not complying 
 usc_title: 49
 usc_section: "47528"
 chapter: 475
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "49 U.S.C. § 47528"
-generated_at: "2026-03-30T07:23:07.865Z"
+generated_at: "2026-03-30T07:24:55.959Z"
 status: "active"
 ---
 

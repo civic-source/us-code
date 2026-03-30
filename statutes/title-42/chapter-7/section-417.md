@@ -3,9 +3,9 @@ title: "Section 417 - Benefits for veterans"
 usc_title: 42
 usc_section: "417"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 417"
-generated_at: "2026-03-30T07:23:01.460Z"
+generated_at: "2026-03-30T07:24:48.411Z"
 status: "active"
 ---
 

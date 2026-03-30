@@ -3,9 +3,9 @@ title: "Section 676 - Search and rescue center standards"
 usc_title: 14
 usc_section: "676"
 chapter: 17
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "14 U.S.C. § 676"
-generated_at: "2026-03-30T07:21:20.315Z"
+generated_at: "2026-03-30T07:23:37.544Z"
 status: "active"
 ---
 

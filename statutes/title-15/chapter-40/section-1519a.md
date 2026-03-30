@@ -3,9 +3,9 @@ title: "Section 1519a - Repealed. Pub. L. 97–449 , § 7(b), Jan. 12, 1983 , 96
 usc_title: 15
 usc_section: "1519a"
 chapter: 40
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "15 U.S.C. § 1519a"
-generated_at: "2026-03-30T07:21:41.563Z"
+generated_at: "2026-03-30T07:23:42.796Z"
 status: "repealed"
 ---
 

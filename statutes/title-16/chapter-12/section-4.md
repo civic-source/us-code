@@ -3,9 +3,9 @@ title: "Section 4 - Southwestern Power Administration; deposit and availability 
 usc_title: 16
 usc_section: "4"
 chapter: 12
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T07:22:00.031Z"
+generated_at: "2026-03-30T07:24:00.968Z"
 status: "active"
 ---
 

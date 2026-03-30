@@ -3,9 +3,9 @@ title: "Section 2903 - Financial institutions; evaluation"
 usc_title: 12
 usc_section: "2903"
 chapter: 30
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "12 U.S.C. § 2903"
-generated_at: "2026-03-30T07:21:39.076Z"
+generated_at: "2026-03-30T07:23:40.705Z"
 status: "active"
 ---
 

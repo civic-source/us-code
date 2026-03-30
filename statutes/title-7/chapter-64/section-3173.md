@@ -3,9 +3,9 @@ title: "Section 3173 - Research by Department of Agriculture"
 usc_title: 7
 usc_section: "3173"
 chapter: 64
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 3173"
-generated_at: "2026-03-30T07:21:14.613Z"
+generated_at: "2026-03-30T07:23:30.978Z"
 status: "active"
 ---
 

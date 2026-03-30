@@ -3,9 +3,9 @@ title: "Section 501 - Filing of proofs of claims or interests"
 usc_title: 11
 usc_section: "501"
 chapter: 5
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "11 U.S.C. § 501"
-generated_at: "2026-03-30T07:21:21.118Z"
+generated_at: "2026-03-30T07:23:37.852Z"
 status: "active"
 ---
 

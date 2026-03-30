@@ -3,9 +3,9 @@ title: "Section 4655 - Arms and ammunition: agencies and departments of the Unit
 usc_title: 10
 usc_section: "4655"
 chapter: 441
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 4655"
-generated_at: "2026-03-30T07:21:18.002Z"
+generated_at: "2026-03-30T07:23:35.438Z"
 status: "active"
 ---
 

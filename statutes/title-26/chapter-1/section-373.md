@@ -3,9 +3,9 @@ title: "Section 373 - Repealed. Pub. L. 94–455, title XIX , § 1901(a)(52), Oc
 usc_title: 26
 usc_section: "373"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 373"
-generated_at: "2026-03-30T07:22:21.724Z"
+generated_at: "2026-03-30T07:24:21.637Z"
 status: "repealed"
 ---
 

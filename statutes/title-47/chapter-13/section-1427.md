@@ -3,9 +3,9 @@ title: "Section 1427 - Initial funding for the First Responder Network Authority
 usc_title: 47
 usc_section: "1427"
 chapter: 13
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "47 U.S.C. § 1427"
-generated_at: "2026-03-30T07:23:04.783Z"
+generated_at: "2026-03-30T07:24:52.404Z"
 status: "active"
 ---
 

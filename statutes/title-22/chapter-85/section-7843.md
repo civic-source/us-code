@@ -3,9 +3,9 @@ title: "Section 7843 - Facilitating submission of applications for admission as 
 usc_title: 22
 usc_section: "7843"
 chapter: 85
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 7843"
-generated_at: "2026-03-30T07:22:06.600Z"
+generated_at: "2026-03-30T07:24:07.430Z"
 status: "active"
 ---
 

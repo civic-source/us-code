@@ -3,9 +3,9 @@ title: "Section 903 - Field offices"
 usc_title: 30
 usc_section: "903"
 chapter: 22
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "30 U.S.C. § 903"
-generated_at: "2026-03-30T07:22:13.504Z"
+generated_at: "2026-03-30T07:24:12.085Z"
 status: "active"
 ---
 

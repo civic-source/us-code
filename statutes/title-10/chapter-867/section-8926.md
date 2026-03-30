@@ -3,9 +3,9 @@ title: "Section 8926 - Computation of years of service: voluntary retirement; re
 usc_title: 10
 usc_section: "8926"
 chapter: 867
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 8926"
-generated_at: "2026-03-30T07:21:18.019Z"
+generated_at: "2026-03-30T07:23:35.456Z"
 status: "active"
 ---
 

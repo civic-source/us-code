@@ -3,9 +3,9 @@ title: "Section 47e - Purchase of private lands for park authorized"
 usc_title: 16
 usc_section: "47e"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 47e"
-generated_at: "2026-03-30T07:21:59.858Z"
+generated_at: "2026-03-30T07:24:00.848Z"
 status: "active"
 ---
 

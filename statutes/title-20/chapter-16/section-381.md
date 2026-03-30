@@ -3,9 +3,9 @@ title: "Section 381 - Repealed. Pub. L. 104–208, div. A, title I , § 101(e) [
 usc_title: 20
 usc_section: "381"
 chapter: 16
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "20 U.S.C. § 381"
-generated_at: "2026-03-30T07:21:47.204Z"
+generated_at: "2026-03-30T07:23:47.391Z"
 status: "repealed"
 ---
 

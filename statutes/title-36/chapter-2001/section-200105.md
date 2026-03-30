@@ -3,9 +3,9 @@ title: "Section 200105 - Principal office"
 usc_title: 36
 usc_section: "200105"
 chapter: 2001
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "36 U.S.C. § 200105"
-generated_at: "2026-03-30T07:22:29.186Z"
+generated_at: "2026-03-30T07:24:31.895Z"
 status: "active"
 ---
 

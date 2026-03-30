@@ -3,9 +3,9 @@ title: "Section 467 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "467"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 467"
-generated_at: "2026-03-30T07:21:59.986Z"
+generated_at: "2026-03-30T07:24:00.924Z"
 status: "repealed"
 ---
 

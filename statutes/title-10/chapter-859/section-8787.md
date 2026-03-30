@@ -3,9 +3,9 @@ title: "Section 8787 - Repealed. Pub. L. 96–513, title II , § 213, Dec. 12, 1
 usc_title: 10
 usc_section: "8787"
 chapter: 859
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 8787"
-generated_at: "2026-03-30T07:21:18.019Z"
+generated_at: "2026-03-30T07:23:35.456Z"
 status: "repealed"
 ---
 

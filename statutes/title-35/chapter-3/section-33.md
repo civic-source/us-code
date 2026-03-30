@@ -3,9 +3,9 @@ title: "Section 33 - Unauthorized representation as practitioner"
 usc_title: 35
 usc_section: "33"
 chapter: 3
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "35 U.S.C. § 33"
-generated_at: "2026-03-30T07:22:23.651Z"
+generated_at: "2026-03-30T07:24:23.581Z"
 status: "active"
 ---
 

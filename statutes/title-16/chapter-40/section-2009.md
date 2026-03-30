@@ -3,9 +3,9 @@ title: "Section 2009 - Termination of program"
 usc_title: 16
 usc_section: "2009"
 chapter: 40
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 2009"
-generated_at: "2026-03-30T07:22:00.079Z"
+generated_at: "2026-03-30T07:24:01.015Z"
 status: "active"
 ---
 

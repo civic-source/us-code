@@ -3,9 +3,9 @@ title: "Section 511c - Demonstration of official standards; samples; cost"
 usc_title: 7
 usc_section: "511c"
 chapter: 21
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 511c"
-generated_at: "2026-03-30T07:21:14.533Z"
+generated_at: "2026-03-30T07:23:30.896Z"
 status: "active"
 ---
 

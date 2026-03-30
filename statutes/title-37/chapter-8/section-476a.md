@@ -3,9 +3,9 @@ title: "Section 476a - Travel and transportation allowances: authorized for trav
 usc_title: 37
 usc_section: "476a"
 chapter: 8
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "37 U.S.C. § 476a"
-generated_at: "2026-03-30T07:22:31.425Z"
+generated_at: "2026-03-30T07:24:32.211Z"
 status: "active"
 ---
 

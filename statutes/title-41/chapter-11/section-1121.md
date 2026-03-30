@@ -3,9 +3,9 @@ title: "Section 1121 - General authority"
 usc_title: 41
 usc_section: "1121"
 chapter: 11
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "41 U.S.C. § 1121"
-generated_at: "2026-03-30T07:22:33.161Z"
+generated_at: "2026-03-30T07:24:35.320Z"
 status: "active"
 ---
 

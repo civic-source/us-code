@@ -3,9 +3,9 @@ title: "Section 1576 - Interagency cooperation"
 usc_title: 43
 usc_section: "1576"
 chapter: 32
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "43 U.S.C. § 1576"
-generated_at: "2026-03-30T07:22:34.958Z"
+generated_at: "2026-03-30T07:24:49.499Z"
 status: "active"
 ---
 

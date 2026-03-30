@@ -3,9 +3,9 @@ title: "Section 1 - Declaration of nonnavigability for portion of Sacramento Dee
 usc_title: 33
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T07:22:26.298Z"
+generated_at: "2026-03-30T07:24:25.276Z"
 status: "active"
 ---
 

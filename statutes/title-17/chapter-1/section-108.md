@@ -3,9 +3,9 @@ title: "Section 108 - Limitations on exclusive rights: Reproduction by libraries
 usc_title: 17
 usc_section: "108"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "17 U.S.C. § 108"
-generated_at: "2026-03-30T07:21:44.589Z"
+generated_at: "2026-03-30T07:23:48.495Z"
 status: "active"
 ---
 

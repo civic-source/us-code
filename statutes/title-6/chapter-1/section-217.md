@@ -3,9 +3,9 @@ title: "Section 217 - Allocation of resources by the Secretary"
 usc_title: 6
 usc_section: "217"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "6 U.S.C. § 217"
-generated_at: "2026-03-30T07:21:09.561Z"
+generated_at: "2026-03-30T07:23:28.352Z"
 status: "active"
 ---
 

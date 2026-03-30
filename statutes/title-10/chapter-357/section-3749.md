@@ -3,9 +3,9 @@ title: "Section 3749 - Distinguished flying cross: award; limitations"
 usc_title: 10
 usc_section: "3749"
 chapter: 357
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 3749"
-generated_at: "2026-03-30T07:21:17.999Z"
+generated_at: "2026-03-30T07:23:35.433Z"
 status: "active"
 ---
 

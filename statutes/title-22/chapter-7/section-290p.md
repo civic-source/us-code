@@ -3,9 +3,9 @@ title: "Section 290p - Acceptance of statute and membership"
 usc_title: 22
 usc_section: "290p"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 290p"
-generated_at: "2026-03-30T07:22:06.498Z"
+generated_at: "2026-03-30T07:24:07.325Z"
 status: "active"
 ---
 

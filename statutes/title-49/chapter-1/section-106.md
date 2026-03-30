@@ -3,9 +3,9 @@ title: "Section 106 - Federal Aviation Administration"
 usc_title: 49
 usc_section: "106"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "49 U.S.C. § 106"
-generated_at: "2026-03-30T07:23:07.782Z"
+generated_at: "2026-03-30T07:24:55.873Z"
 status: "active"
 ---
 

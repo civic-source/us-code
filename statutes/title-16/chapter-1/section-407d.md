@@ -3,9 +3,9 @@ title: "Section 407d - Admission and guide fees exempt from tax"
 usc_title: 16
 usc_section: "407d"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 407d"
-generated_at: "2026-03-30T07:21:59.877Z"
+generated_at: "2026-03-30T07:24:00.866Z"
 status: "active"
 ---
 

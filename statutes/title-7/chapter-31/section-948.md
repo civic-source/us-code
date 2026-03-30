@@ -3,9 +3,9 @@ title: "Section 948 - Lending power"
 usc_title: 7
 usc_section: "948"
 chapter: 31
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 948"
-generated_at: "2026-03-30T07:21:14.542Z"
+generated_at: "2026-03-30T07:23:30.905Z"
 status: "active"
 ---
 

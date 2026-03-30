@@ -3,9 +3,9 @@ title: "Section 408k - Hunting and fishing; general rules and regulations; prote
 usc_title: 16
 usc_section: "408k"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 408k"
-generated_at: "2026-03-30T07:21:59.878Z"
+generated_at: "2026-03-30T07:24:00.867Z"
 status: "active"
 ---
 

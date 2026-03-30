@@ -3,9 +3,9 @@ title: "Section 2932 - Omitted"
 usc_title: 20
 usc_section: "2932"
 chapter: 47
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "20 U.S.C. § 2932"
-generated_at: "2026-03-30T07:21:47.288Z"
+generated_at: "2026-03-30T07:23:47.472Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 957 - Promulgation of regulations"
 usc_title: 30
 usc_section: "957"
 chapter: 22
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "30 U.S.C. § 957"
-generated_at: "2026-03-30T07:22:13.506Z"
+generated_at: "2026-03-30T07:24:12.087Z"
 status: "active"
 ---
 

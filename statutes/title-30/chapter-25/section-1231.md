@@ -3,9 +3,9 @@ title: "Section 1231 - Abandoned Mine Reclamation Fund"
 usc_title: 30
 usc_section: "1231"
 chapter: 25
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "30 U.S.C. § 1231"
-generated_at: "2026-03-30T07:22:13.509Z"
+generated_at: "2026-03-30T07:24:12.091Z"
 status: "active"
 ---
 

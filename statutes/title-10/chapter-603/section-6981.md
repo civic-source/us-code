@@ -3,9 +3,9 @@ title: "Section 6981 - Support of athletic and physical fitness programs"
 usc_title: 10
 usc_section: "6981"
 chapter: 603
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 6981"
-generated_at: "2026-03-30T07:21:18.010Z"
+generated_at: "2026-03-30T07:23:35.447Z"
 status: "active"
 ---
 

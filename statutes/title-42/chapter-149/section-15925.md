@@ -3,9 +3,9 @@ title: "Section 15925 - Fair market value determinations for linear rights-of-wa
 usc_title: 42
 usc_section: "15925"
 chapter: 149
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 15925"
-generated_at: "2026-03-30T07:23:01.939Z"
+generated_at: "2026-03-30T07:24:48.896Z"
 status: "active"
 ---
 

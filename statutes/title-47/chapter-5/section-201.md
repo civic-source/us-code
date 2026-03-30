@@ -3,9 +3,9 @@ title: "Section 201 - Service and charges"
 usc_title: 47
 usc_section: "201"
 chapter: 5
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "47 U.S.C. § 201"
-generated_at: "2026-03-30T07:23:04.752Z"
+generated_at: "2026-03-30T07:24:52.374Z"
 status: "active"
 ---
 

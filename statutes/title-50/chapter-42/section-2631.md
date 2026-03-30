@@ -3,9 +3,9 @@ title: "Section 2631 - Accelerated schedule for isolating high-level nuclear was
 usc_title: 50
 usc_section: "2631"
 chapter: 42
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "50 U.S.C. § 2631"
-generated_at: "2026-03-30T07:23:09.700Z"
+generated_at: "2026-03-30T07:24:56.964Z"
 status: "active"
 ---
 

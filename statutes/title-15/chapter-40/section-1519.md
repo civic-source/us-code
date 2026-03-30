@@ -3,9 +3,9 @@ title: "Section 1519 - Annual and special reports"
 usc_title: 15
 usc_section: "1519"
 chapter: 40
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "15 U.S.C. § 1519"
-generated_at: "2026-03-30T07:21:41.563Z"
+generated_at: "2026-03-30T07:23:42.796Z"
 status: "active"
 ---
 

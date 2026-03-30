@@ -3,9 +3,9 @@ title: "Section 3511 - Prescribing accounting requirements and developing accoun
 usc_title: 31
 usc_section: "3511"
 chapter: 35
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "31 U.S.C. § 3511"
-generated_at: "2026-03-30T07:22:25.144Z"
+generated_at: "2026-03-30T07:24:24.521Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5345 - Annotated United States Code for Members of House of Repr
 usc_title: 2
 usc_section: "5345"
 chapter: 53
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "2 U.S.C. § 5345"
-generated_at: "2026-03-30T07:21:05.896Z"
+generated_at: "2026-03-30T07:23:23.870Z"
 status: "active"
 ---
 

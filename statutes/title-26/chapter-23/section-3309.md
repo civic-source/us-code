@@ -3,9 +3,9 @@ title: "Section 3309 - State law coverage of services performed for nonprofit or
 usc_title: 26
 usc_section: "3309"
 chapter: 23
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 3309"
-generated_at: "2026-03-30T07:22:21.826Z"
+generated_at: "2026-03-30T07:24:21.739Z"
 status: "active"
 ---
 

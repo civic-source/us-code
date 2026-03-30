@@ -3,9 +3,9 @@ title: "Section 312 - Machinery, material, equipment, or supplies from other Gov
 usc_title: 44
 usc_section: "312"
 chapter: 3
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "44 U.S.C. § 312"
-generated_at: "2026-03-30T07:22:35.335Z"
+generated_at: "2026-03-30T07:24:49.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 914 - Separability"
 usc_title: 7
 usc_section: "914"
 chapter: 31
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 914"
-generated_at: "2026-03-30T07:21:14.539Z"
+generated_at: "2026-03-30T07:23:30.903Z"
 status: "active"
 ---
 

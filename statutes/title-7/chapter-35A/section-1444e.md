@@ -3,9 +3,9 @@ title: "Section 1444e - Omitted"
 usc_title: 7
 usc_section: "1444e"
 chapter: 35
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "7 U.S.C. § 1444e"
-generated_at: "2026-03-30T07:21:14.554Z"
+generated_at: "2026-03-30T07:23:30.918Z"
 status: "omitted"
 ---
 

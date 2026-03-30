@@ -3,9 +3,9 @@ title: "Section 4362a - Membership of Task Force on Environmental Cancer and Hea
 usc_title: 42
 usc_section: "4362a"
 chapter: 55
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 4362a"
-generated_at: "2026-03-30T07:23:01.726Z"
+generated_at: "2026-03-30T07:24:48.673Z"
 status: "active"
 ---
 

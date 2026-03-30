@@ -3,9 +3,9 @@ title: "Section 4552 - Certificates to pay rolls of employees of House"
 usc_title: 2
 usc_section: "4552"
 chapter: 45
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "2 U.S.C. § 4552"
-generated_at: "2026-03-30T07:21:05.892Z"
+generated_at: "2026-03-30T07:23:23.866Z"
 status: "active"
 ---
 

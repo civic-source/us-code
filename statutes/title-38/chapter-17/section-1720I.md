@@ -1,15 +1,15 @@
 ---
-title: "Section 1 - Mental and behavioral health care for certain former members of the Armed Forces"
+title: "Section 1720I - Mental and behavioral health care for certain former members of the Armed Forces"
 usc_title: 38
-usc_section: "1"
+usc_section: "1720I"
 chapter: 17
-current_through: "PL 115-181"
-classification: "38 U.S.C. § 1"
-generated_at: "2026-03-30T07:22:30.294Z"
+current_through: "PL 115-182"
+classification: "38 U.S.C. § 1720I"
+generated_at: "2026-03-30T07:24:33.524Z"
 status: "active"
 ---
 
-# § 1712I. 1 1 So in original. Probably should be “§ 1720I.” Mental and behavioral health care for certain former members of the Armed Forces
+# § 1720I. Mental and behavioral health care for certain former members of the Armed Forces
 
 - **(a)** The Secretary shall furnish to former members of the Armed Forces described in subsection (b)—
   - **(1)** an initial mental health assessment; and

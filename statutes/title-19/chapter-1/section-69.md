@@ -3,9 +3,9 @@ title: "Section 69 - Erection of protective gates and fences across and around r
 usc_title: 19
 usc_section: "69"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "19 U.S.C. § 69"
-generated_at: "2026-03-30T07:22:01.153Z"
+generated_at: "2026-03-30T07:23:51.593Z"
 status: "active"
 ---
 

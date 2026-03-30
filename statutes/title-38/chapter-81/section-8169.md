@@ -3,9 +3,9 @@ title: "Section 8169 - Expiration"
 usc_title: 38
 usc_section: "8169"
 chapter: 81
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "38 U.S.C. § 8169"
-generated_at: "2026-03-30T07:22:30.373Z"
+generated_at: "2026-03-30T07:24:33.574Z"
 status: "active"
 ---
 

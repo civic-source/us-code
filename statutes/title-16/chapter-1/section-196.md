@@ -3,9 +3,9 @@ title: "Section 196 - Use for Arbuckle Reservoir"
 usc_title: 16
 usc_section: "196"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 196"
-generated_at: "2026-03-30T07:21:59.865Z"
+generated_at: "2026-03-30T07:24:00.854Z"
 status: "active"
 ---
 

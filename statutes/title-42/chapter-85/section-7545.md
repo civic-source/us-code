@@ -3,9 +3,9 @@ title: "Section 7545 - Regulation of fuels"
 usc_title: 42
 usc_section: "7545"
 chapter: 85
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 7545"
-generated_at: "2026-03-30T07:23:01.816Z"
+generated_at: "2026-03-30T07:24:48.767Z"
 status: "active"
 ---
 

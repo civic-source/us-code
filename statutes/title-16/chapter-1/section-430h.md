@@ -3,9 +3,9 @@ title: "Section 430h - Vicksburg National Military Park"
 usc_title: 16
 usc_section: "430h"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 430h"
-generated_at: "2026-03-30T07:21:59.898Z"
+generated_at: "2026-03-30T07:24:00.888Z"
 status: "active"
 ---
 

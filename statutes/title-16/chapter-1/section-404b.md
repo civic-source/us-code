@@ -3,9 +3,9 @@ title: "Section 404b - Administration, protection, and development; Federal Powe
 usc_title: 16
 usc_section: "404b"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 404b"
-generated_at: "2026-03-30T07:21:59.877Z"
+generated_at: "2026-03-30T07:24:00.866Z"
 status: "active"
 ---
 

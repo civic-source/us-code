@@ -3,9 +3,9 @@ title: "Section 1259 - Record of admission for permanent residence in the case o
 usc_title: 8
 usc_section: "1259"
 chapter: 12
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "8 U.S.C. § 1259"
-generated_at: "2026-03-30T07:21:10.461Z"
+generated_at: "2026-03-30T07:23:27.962Z"
 status: "active"
 ---
 

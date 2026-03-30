@@ -3,9 +3,9 @@ title: "Section 15112 - Definitions"
 usc_title: 42
 usc_section: "15112"
 chapter: 144
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 15112"
-generated_at: "2026-03-30T07:23:01.935Z"
+generated_at: "2026-03-30T07:24:48.891Z"
 status: "active"
 ---
 

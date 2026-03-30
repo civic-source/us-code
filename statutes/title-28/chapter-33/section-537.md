@@ -3,9 +3,9 @@ title: "Section 537 - Expenses of unforeseen emergencies of a confidential chara
 usc_title: 28
 usc_section: "537"
 chapter: 33
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "28 U.S.C. § 537"
-generated_at: "2026-03-30T07:22:13.183Z"
+generated_at: "2026-03-30T07:24:15.823Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5607b - Use of Institute by Federal agency or other entity"
 usc_title: 20
 usc_section: "5607b"
 chapter: 66
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "20 U.S.C. § 5607b"
-generated_at: "2026-03-30T07:21:47.299Z"
+generated_at: "2026-03-30T07:23:47.483Z"
 status: "active"
 ---
 

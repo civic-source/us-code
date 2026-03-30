@@ -3,9 +3,9 @@ title: "Section 2408 - Prohibition on persons convicted of defense-contract rela
 usc_title: 10
 usc_section: "2408"
 chapter: 141
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 2408"
-generated_at: "2026-03-30T07:21:17.973Z"
+generated_at: "2026-03-30T07:23:35.406Z"
 status: "active"
 ---
 

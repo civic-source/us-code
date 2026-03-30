@@ -3,9 +3,9 @@ title: "Section 238n - Abortion-related discrimination in governmental activitie
 usc_title: 42
 usc_section: "238n"
 chapter: 6
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 238n"
-generated_at: "2026-03-30T07:23:01.319Z"
+generated_at: "2026-03-30T07:24:48.278Z"
 status: "active"
 ---
 

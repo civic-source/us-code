@@ -3,9 +3,9 @@ title: "Section 501 - Replacement of medals"
 usc_title: 14
 usc_section: "501"
 chapter: 13
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "14 U.S.C. § 501"
-generated_at: "2026-03-30T07:21:20.311Z"
+generated_at: "2026-03-30T07:23:37.541Z"
 status: "active"
 ---
 

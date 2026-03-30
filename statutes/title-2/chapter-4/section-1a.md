@@ -3,9 +3,9 @@ title: "Section 1a - Repealed. Pub. L. 90–57 , § 105(i)(4), (5), July 28, 196
 usc_title: 2
 usc_section: "1a"
 chapter: 4
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "2 U.S.C. § 1a"
-generated_at: "2026-03-30T07:21:05.855Z"
+generated_at: "2026-03-30T07:23:23.829Z"
 status: "repealed"
 ---
 

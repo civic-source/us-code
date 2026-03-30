@@ -3,9 +3,9 @@ title: "Section 315q - Withdrawal of lands for war or national defense purposes;
 usc_title: 43
 usc_section: "315q"
 chapter: 8
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "43 U.S.C. § 315q"
-generated_at: "2026-03-30T07:22:34.927Z"
+generated_at: "2026-03-30T07:24:49.467Z"
 status: "active"
 ---
 

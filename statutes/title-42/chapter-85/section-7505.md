@@ -3,9 +3,9 @@ title: "Section 7505 - Environmental Protection Agency grants"
 usc_title: 42
 usc_section: "7505"
 chapter: 85
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 7505"
-generated_at: "2026-03-30T07:23:01.811Z"
+generated_at: "2026-03-30T07:24:48.761Z"
 status: "active"
 ---
 

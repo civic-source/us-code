@@ -3,9 +3,9 @@ title: "Section 6211 - The continuing mission of Radio Free Europe and Radio Lib
 usc_title: 22
 usc_section: "6211"
 chapter: 71
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 6211"
-generated_at: "2026-03-30T07:22:06.582Z"
+generated_at: "2026-03-30T07:24:07.411Z"
 status: "active"
 ---
 

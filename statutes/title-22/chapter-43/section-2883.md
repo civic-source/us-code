@@ -3,9 +3,9 @@ title: "Section 2883 - Repealed. Pub. L. 103–236, title III , § 310(e), Apr. 
 usc_title: 22
 usc_section: "2883"
 chapter: 43
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 2883"
-generated_at: "2026-03-30T07:22:06.550Z"
+generated_at: "2026-03-30T07:24:07.378Z"
 status: "repealed"
 ---
 

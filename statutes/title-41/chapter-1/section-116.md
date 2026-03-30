@@ -3,9 +3,9 @@ title: "Section 116 - Technical data"
 usc_title: 41
 usc_section: "116"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "41 U.S.C. § 116"
-generated_at: "2026-03-30T07:22:33.161Z"
+generated_at: "2026-03-30T07:24:35.320Z"
 status: "active"
 ---
 

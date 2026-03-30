@@ -3,9 +3,9 @@ title: "Section 347 - Advances to member banks on their notes"
 usc_title: 12
 usc_section: "347"
 chapter: 3
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "12 U.S.C. § 347"
-generated_at: "2026-03-30T07:21:38.960Z"
+generated_at: "2026-03-30T07:23:40.606Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1495 - Partnership bond"
 usc_title: 19
 usc_section: "1495"
 chapter: 4
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "19 U.S.C. § 1495"
-generated_at: "2026-03-30T07:22:01.162Z"
+generated_at: "2026-03-30T07:23:51.603Z"
 status: "active"
 ---
 

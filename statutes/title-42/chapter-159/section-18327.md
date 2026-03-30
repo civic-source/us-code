@@ -3,9 +3,9 @@ title: "Section 18327 - Report requirement"
 usc_title: 42
 usc_section: "18327"
 chapter: 159
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 18327"
-generated_at: "2026-03-30T07:23:01.973Z"
+generated_at: "2026-03-30T07:24:48.929Z"
 status: "active"
 ---
 

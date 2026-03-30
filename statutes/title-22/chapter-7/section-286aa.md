@@ -3,9 +3,9 @@ title: "Section 286aa - Instructions to United States Executive Director; Commun
 usc_title: 22
 usc_section: "286aa"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 286aa"
-generated_at: "2026-03-30T07:22:06.492Z"
+generated_at: "2026-03-30T07:24:07.319Z"
 status: "active"
 ---
 

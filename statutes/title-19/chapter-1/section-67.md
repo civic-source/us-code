@@ -3,9 +3,9 @@ title: "Section 67 - Repealed. Aug. 2, 1956, ch. 887 , § 4(a)(24), 70 Stat. 947
 usc_title: 19
 usc_section: "67"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "19 U.S.C. § 67"
-generated_at: "2026-03-30T07:22:01.153Z"
+generated_at: "2026-03-30T07:23:51.593Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10308 - Authorization of appropriations"
 usc_title: 34
 usc_section: "10308"
 chapter: 101
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "34 U.S.C. § 10308"
-generated_at: "2026-03-30T07:22:24.472Z"
+generated_at: "2026-03-30T07:24:29.141Z"
 status: "active"
 ---
 

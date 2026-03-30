@@ -3,9 +3,9 @@ title: "Section 3241 - Congressional declaration of policy"
 usc_title: 22
 usc_section: "3241"
 chapter: 47
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 3241"
-generated_at: "2026-03-30T07:22:06.552Z"
+generated_at: "2026-03-30T07:24:07.380Z"
 status: "active"
 ---
 

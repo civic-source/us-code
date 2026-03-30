@@ -3,9 +3,9 @@ title: "Section 346a - Tolerances and exemptions for pesticide chemical residues
 usc_title: 21
 usc_section: "346a"
 chapter: 9
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "21 U.S.C. § 346a"
-generated_at: "2026-03-30T07:22:08.132Z"
+generated_at: "2026-03-30T07:24:04.482Z"
 status: "active"
 ---
 

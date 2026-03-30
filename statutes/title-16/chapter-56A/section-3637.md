@@ -3,9 +3,9 @@ title: "Section 3637 - Prohibited acts and penalties"
 usc_title: 16
 usc_section: "3637"
 chapter: 56
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "16 U.S.C. § 3637"
-generated_at: "2026-03-30T07:22:00.094Z"
+generated_at: "2026-03-30T07:24:01.030Z"
 status: "active"
 ---
 

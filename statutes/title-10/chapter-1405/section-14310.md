@@ -3,9 +3,9 @@ title: "Section 14310 - Removal of officers from a list of officers recommended 
 usc_title: 10
 usc_section: "14310"
 chapter: 1405
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 14310"
-generated_at: "2026-03-30T07:21:18.032Z"
+generated_at: "2026-03-30T07:23:35.470Z"
 status: "active"
 ---
 

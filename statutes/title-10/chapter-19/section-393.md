@@ -3,9 +3,9 @@ title: "Section 393 - Reporting on penetrations of networks and information syst
 usc_title: 10
 usc_section: "393"
 chapter: 19
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 393"
-generated_at: "2026-03-30T07:21:17.902Z"
+generated_at: "2026-03-30T07:23:35.328Z"
 status: "active"
 ---
 

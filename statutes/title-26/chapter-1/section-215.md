@@ -3,9 +3,9 @@ title: "Section 215 - Alimony, etc., payments"
 usc_title: 26
 usc_section: "215"
 chapter: 1
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 215"
-generated_at: "2026-03-30T07:22:21.711Z"
+generated_at: "2026-03-30T07:24:21.626Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 425 - United States Navy Band; United States Marine Corps Band: 
 usc_title: 37
 usc_section: "425"
 chapter: 7
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "37 U.S.C. § 425"
-generated_at: "2026-03-30T07:22:31.423Z"
+generated_at: "2026-03-30T07:24:32.210Z"
 status: "active"
 ---
 

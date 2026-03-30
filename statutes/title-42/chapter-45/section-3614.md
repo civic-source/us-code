@@ -3,9 +3,9 @@ title: "Section 3614 - Enforcement by Attorney General"
 usc_title: 42
 usc_section: "3614"
 chapter: 45
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "42 U.S.C. § 3614"
-generated_at: "2026-03-30T07:23:01.716Z"
+generated_at: "2026-03-30T07:24:48.665Z"
 status: "active"
 ---
 

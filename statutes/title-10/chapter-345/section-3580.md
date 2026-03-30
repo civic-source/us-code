@@ -3,9 +3,9 @@ title: "Section 3580 - Repealed. Pub. L. 95–485, title VIII , § 820(f), Oct. 
 usc_title: 10
 usc_section: "3580"
 chapter: 345
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 3580"
-generated_at: "2026-03-30T07:21:17.998Z"
+generated_at: "2026-03-30T07:23:35.433Z"
 status: "repealed"
 ---
 

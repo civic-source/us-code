@@ -3,9 +3,9 @@ title: "Section 7422 - Civil actions for refund"
 usc_title: 26
 usc_section: "7422"
 chapter: 76
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "26 U.S.C. § 7422"
-generated_at: "2026-03-30T07:22:21.891Z"
+generated_at: "2026-03-30T07:24:21.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2306 - Vessel reporting requirements"
 usc_title: 46
 usc_section: "2306"
 chapter: 23
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "46 U.S.C. § 2306"
-generated_at: "2026-03-30T07:23:05.392Z"
+generated_at: "2026-03-30T07:24:53.536Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8124 - Prohibited acts relating to complementary access"
 usc_title: 22
 usc_section: "8124"
 chapter: 88
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "22 U.S.C. § 8124"
-generated_at: "2026-03-30T07:22:06.602Z"
+generated_at: "2026-03-30T07:24:07.431Z"
 status: "active"
 ---
 

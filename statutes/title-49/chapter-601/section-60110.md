@@ -3,9 +3,9 @@ title: "Section 60110 - Excess flow valves"
 usc_title: 49
 usc_section: "60110"
 chapter: 601
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "49 U.S.C. § 60110"
-generated_at: "2026-03-30T07:23:07.869Z"
+generated_at: "2026-03-30T07:24:55.964Z"
 status: "active"
 ---
 

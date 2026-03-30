@@ -3,9 +3,9 @@ title: "Section 1294 - Antitrust laws unaffected as regards to other activities 
 usc_title: 15
 usc_section: "1294"
 chapter: 32
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "15 U.S.C. § 1294"
-generated_at: "2026-03-30T07:21:41.559Z"
+generated_at: "2026-03-30T07:23:42.792Z"
 status: "active"
 ---
 

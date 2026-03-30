@@ -3,9 +3,9 @@ title: "Section 23 - Length of claims on veins or lodes"
 usc_title: 30
 usc_section: "23"
 chapter: 2
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "30 U.S.C. § 23"
-generated_at: "2026-03-30T07:22:13.488Z"
+generated_at: "2026-03-30T07:24:12.069Z"
 status: "active"
 ---
 

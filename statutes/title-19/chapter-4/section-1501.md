@@ -3,9 +3,9 @@ title: "Section 1501 - Voluntary reliquidations by U.S. Customs and Border Prote
 usc_title: 19
 usc_section: "1501"
 chapter: 4
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "19 U.S.C. § 1501"
-generated_at: "2026-03-30T07:22:01.162Z"
+generated_at: "2026-03-30T07:23:51.603Z"
 status: "active"
 ---
 

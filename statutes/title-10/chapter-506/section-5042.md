@@ -3,9 +3,9 @@ title: "Section 5042 - Headquarters, Marine Corps: general duties"
 usc_title: 10
 usc_section: "5042"
 chapter: 506
-current_through: "PL 115-181"
+current_through: "PL 115-182"
 classification: "10 U.S.C. § 5042"
-generated_at: "2026-03-30T07:21:18.005Z"
+generated_at: "2026-03-30T07:23:35.440Z"
 status: "active"
 ---
 
