@@ -3,9 +3,9 @@ title: "Section 1206 - Members on active duty for 30 days or less or on inactive
 usc_title: 10
 usc_section: "1206"
 chapter: 61
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 1206"
-generated_at: "2026-03-30T03:29:26.485Z"
+generated_at: "2026-03-30T03:33:32.931Z"
 status: "active"
 ---
 

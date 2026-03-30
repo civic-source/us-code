@@ -3,9 +3,9 @@ title: "Section 4821 - Development of program; consultation; nature of program; 
 usc_title: 42
 usc_section: "4821"
 chapter: 63
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 4821"
-generated_at: "2026-03-30T03:32:06.648Z"
+generated_at: "2026-03-30T03:35:29.106Z"
 status: "active"
 ---
 

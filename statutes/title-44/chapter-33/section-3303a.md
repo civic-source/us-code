@@ -3,9 +3,9 @@ title: "Section 3303a - Examination by Archivist of lists and schedules of recor
 usc_title: 44
 usc_section: "3303a"
 chapter: 33
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "44 U.S.C. § 3303a"
-generated_at: "2026-03-30T03:31:08.344Z"
+generated_at: "2026-03-30T03:35:04.153Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 606 - War powers of President"
 usc_title: 47
 usc_section: "606"
 chapter: 5
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "47 U.S.C. § 606"
-generated_at: "2026-03-30T03:32:37.378Z"
+generated_at: "2026-03-30T03:35:32.755Z"
 status: "active"
 ---
 

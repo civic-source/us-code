@@ -3,9 +3,9 @@ title: "Section 832 - Art. 32. Investigation"
 usc_title: 10
 usc_section: "832"
 chapter: 47
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 832"
-generated_at: "2026-03-30T03:29:26.466Z"
+generated_at: "2026-03-30T03:33:32.898Z"
 status: "active"
 ---
 

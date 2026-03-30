@@ -3,9 +3,9 @@ title: "Section 7375 - Authorization of appropriations"
 usc_title: 42
 usc_section: "7375"
 chapter: 84
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 7375"
-generated_at: "2026-03-30T03:32:06.718Z"
+generated_at: "2026-03-30T03:35:29.188Z"
 status: "active"
 ---
 

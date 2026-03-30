@@ -3,9 +3,9 @@ title: "Section 1782 - Surveys of military families"
 usc_title: 10
 usc_section: "1782"
 chapter: 88
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 1782"
-generated_at: "2026-03-30T03:29:26.498Z"
+generated_at: "2026-03-30T03:33:32.956Z"
 status: "active"
 ---
 

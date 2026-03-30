@@ -3,9 +3,9 @@ title: "Section 949m - Number of votes required"
 usc_title: 10
 usc_section: "949m"
 chapter: 47
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 949m"
-generated_at: "2026-03-30T03:29:26.471Z"
+generated_at: "2026-03-30T03:33:32.906Z"
 status: "active"
 ---
 

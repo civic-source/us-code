@@ -3,9 +3,9 @@ title: "Section 470f - Effect of Federal undertakings upon property listed in Na
 usc_title: 16
 usc_section: "470f"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 470f"
-generated_at: "2026-03-30T03:29:46.266Z"
+generated_at: "2026-03-30T03:33:55.068Z"
 status: "active"
 ---
 

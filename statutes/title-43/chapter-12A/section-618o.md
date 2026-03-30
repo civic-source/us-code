@@ -3,9 +3,9 @@ title: "Section 618o - Short title"
 usc_title: 43
 usc_section: "618o"
 chapter: 12
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "43 U.S.C. § 618o"
-generated_at: "2026-03-30T03:31:00.913Z"
+generated_at: "2026-03-30T03:35:05.936Z"
 status: "active"
 ---
 

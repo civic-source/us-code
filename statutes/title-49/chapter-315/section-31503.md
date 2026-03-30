@@ -3,9 +3,9 @@ title: "Section 31503 - Research, investigation, and testing"
 usc_title: 49
 usc_section: "31503"
 chapter: 315
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "49 U.S.C. § 31503"
-generated_at: "2026-03-30T03:32:48.412Z"
+generated_at: "2026-03-30T03:35:36.189Z"
 status: "active"
 ---
 

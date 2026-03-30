@@ -3,13 +3,13 @@ title: "Section 315 - Regional offices"
 usc_title: 38
 usc_section: "315"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "38 U.S.C. § 315"
-generated_at: "2026-03-30T03:30:58.194Z"
+generated_at: "2026-03-30T03:34:51.016Z"
 status: "active"
 ---
 
 # § 315. Regional offices
 
 - **(a)** The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
-- **(b)** The Secretary may maintain a regional office in the Republic of the Philippines until December 31, 2013 .
+- **(b)** The Secretary may maintain a regional office in the Republic of the Philippines until December 31, 2014 .

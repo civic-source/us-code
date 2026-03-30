@@ -3,9 +3,9 @@ title: "Section 1305 - Administrative law judges"
 usc_title: 5
 usc_section: "1305"
 chapter: 13
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "5 U.S.C. § 1305"
-generated_at: "2026-03-30T03:29:17.161Z"
+generated_at: "2026-03-30T03:33:07.148Z"
 status: "active"
 ---
 

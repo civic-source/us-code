@@ -3,9 +3,9 @@ title: "Section 1421 - Reorganization status"
 usc_title: 29
 usc_section: "1421"
 chapter: 18
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "29 U.S.C. § 1421"
-generated_at: "2026-03-30T03:30:09.769Z"
+generated_at: "2026-03-30T03:34:33.906Z"
 status: "active"
 ---
 

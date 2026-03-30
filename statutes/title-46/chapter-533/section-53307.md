@@ -3,9 +3,9 @@ title: "Section 53307 - Basis for determining gain or loss and for depreciating 
 usc_title: 46
 usc_section: "53307"
 chapter: 533
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "46 U.S.C. § 53307"
-generated_at: "2026-03-30T03:32:19.123Z"
+generated_at: "2026-03-30T03:35:34.222Z"
 status: "active"
 ---
 

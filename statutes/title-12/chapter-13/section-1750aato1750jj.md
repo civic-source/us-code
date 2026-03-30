@@ -3,9 +3,9 @@ title: "Section 1750aato1750jj - Omitted"
 usc_title: 12
 usc_section: "1750aato1750jj"
 chapter: 13
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 1750aato1750jj"
-generated_at: "2026-03-30T03:29:34.089Z"
+generated_at: "2026-03-30T03:33:47.339Z"
 status: "omitted"
 ---
 

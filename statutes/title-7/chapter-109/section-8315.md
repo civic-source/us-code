@@ -3,9 +3,9 @@ title: "Section 8315 - Regulations and orders"
 usc_title: 7
 usc_section: "8315"
 chapter: 109
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "7 U.S.C. § 8315"
-generated_at: "2026-03-30T03:29:23.005Z"
+generated_at: "2026-03-30T03:33:26.502Z"
 status: "active"
 ---
 

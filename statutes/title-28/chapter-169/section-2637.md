@@ -3,9 +3,9 @@ title: "Section 2637 - Exhaustion of administrative remedies"
 usc_title: 28
 usc_section: "2637"
 chapter: 169
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "28 U.S.C. § 2637"
-generated_at: "2026-03-30T03:30:13.254Z"
+generated_at: "2026-03-30T03:34:25.093Z"
 status: "active"
 ---
 

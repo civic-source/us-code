@@ -3,9 +3,9 @@ title: "Section 5 - Omitted]"
 usc_title: 14
 usc_section: "5"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "14 U.S.C. § 5"
-generated_at: "2026-03-30T03:29:29.411Z"
+generated_at: "2026-03-30T03:33:49.157Z"
 status: "omitted"
 ---
 

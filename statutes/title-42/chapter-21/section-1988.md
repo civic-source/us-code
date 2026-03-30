@@ -3,9 +3,9 @@ title: "Section 1988 - Proceedings in vindication of civil rights"
 usc_title: 42
 usc_section: "1988"
 chapter: 21
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 1988"
-generated_at: "2026-03-30T03:32:06.578Z"
+generated_at: "2026-03-30T03:35:29.023Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5724b - Taxes on reimbursements for travel, transportation, and 
 usc_title: 5
 usc_section: "5724b"
 chapter: 57
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "5 U.S.C. § 5724b"
-generated_at: "2026-03-30T03:29:17.179Z"
+generated_at: "2026-03-30T03:33:07.165Z"
 status: "active"
 ---
 

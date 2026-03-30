@@ -3,9 +3,9 @@ title: "Section 17792 - Transferred"
 usc_title: 42
 usc_section: "17792"
 chapter: 155
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 17792"
-generated_at: "2026-03-30T03:32:06.920Z"
+generated_at: "2026-03-30T03:35:29.438Z"
 status: "transferred"
 ---
 

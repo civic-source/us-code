@@ -3,9 +3,9 @@ title: "Section 8062 - Policy; composition; aircraft authorization"
 usc_title: 10
 usc_section: "8062"
 chapter: 807
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 8062"
-generated_at: "2026-03-30T03:29:26.560Z"
+generated_at: "2026-03-30T03:33:33.068Z"
 status: "active"
 ---
 

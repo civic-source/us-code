@@ -3,9 +3,9 @@ title: "Section 610 - Permits to cut and remove timber; citizens of Washington C
 usc_title: 16
 usc_section: "610"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 610"
-generated_at: "2026-03-30T03:29:46.286Z"
+generated_at: "2026-03-30T03:33:55.091Z"
 status: "active"
 ---
 

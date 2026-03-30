@@ -3,9 +3,9 @@ title: "Section 4504 - Period for award"
 usc_title: 20
 usc_section: "4504"
 chapter: 57
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 4504"
-generated_at: "2026-03-30T03:29:44.016Z"
+generated_at: "2026-03-30T03:34:04.257Z"
 status: "active"
 ---
 

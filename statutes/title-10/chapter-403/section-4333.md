@@ -3,9 +3,9 @@ title: "Section 4333 - Superintendent; faculty: appointment and detail"
 usc_title: 10
 usc_section: "4333"
 chapter: 403
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 4333"
-generated_at: "2026-03-30T03:29:26.543Z"
+generated_at: "2026-03-30T03:33:33.038Z"
 status: "active"
 ---
 

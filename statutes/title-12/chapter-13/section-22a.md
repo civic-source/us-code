@@ -3,9 +3,9 @@ title: "Section 22a - Definitions"
 usc_title: 12
 usc_section: "22a"
 chapter: 13
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 22a"
-generated_at: "2026-03-30T03:29:34.081Z"
+generated_at: "2026-03-30T03:33:47.330Z"
 status: "active"
 ---
 

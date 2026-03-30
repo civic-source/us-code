@@ -3,9 +3,9 @@ title: "Section 5205 - Use of income on endowment"
 usc_title: 20
 usc_section: "5205"
 chapter: 63
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 5205"
-generated_at: "2026-03-30T03:29:44.017Z"
+generated_at: "2026-03-30T03:34:04.259Z"
 status: "active"
 ---
 

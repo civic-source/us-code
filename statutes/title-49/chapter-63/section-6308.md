@@ -3,9 +3,9 @@ title: "Section 6308 - Proceeds of data product sales"
 usc_title: 49
 usc_section: "6308"
 chapter: 63
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "49 U.S.C. § 6308"
-generated_at: "2026-03-30T03:32:48.371Z"
+generated_at: "2026-03-30T03:35:36.153Z"
 status: "active"
 ---
 

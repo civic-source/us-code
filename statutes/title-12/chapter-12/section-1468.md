@@ -3,9 +3,9 @@ title: "Section 1468 - Transactions with affiliates; extensions of credit to exe
 usc_title: 12
 usc_section: "1468"
 chapter: 12
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 1468"
-generated_at: "2026-03-30T03:29:34.060Z"
+generated_at: "2026-03-30T03:33:47.309Z"
 status: "active"
 ---
 

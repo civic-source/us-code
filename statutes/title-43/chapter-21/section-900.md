@@ -3,9 +3,9 @@ title: "Section 900 - Suits to cancel patents to lands erroneously issued under 
 usc_title: 43
 usc_section: "900"
 chapter: 21
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "43 U.S.C. § 900"
-generated_at: "2026-03-30T03:31:00.919Z"
+generated_at: "2026-03-30T03:35:05.942Z"
 status: "active"
 ---
 

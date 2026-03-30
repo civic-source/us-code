@@ -3,9 +3,9 @@ title: "Section 238f - Availability of appropriations"
 usc_title: 42
 usc_section: "238f"
 chapter: 6
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 238f"
-generated_at: "2026-03-30T03:32:06.249Z"
+generated_at: "2026-03-30T03:35:28.636Z"
 status: "active"
 ---
 

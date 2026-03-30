@@ -3,9 +3,9 @@ title: "Section 360j - General provisions respecting control of devices intended
 usc_title: 21
 usc_section: "360j"
 chapter: 9
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "21 U.S.C. § 360j"
-generated_at: "2026-03-30T03:30:00.627Z"
+generated_at: "2026-03-30T03:34:12.209Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7282 - Budget and expenditures"
 usc_title: 38
 usc_section: "7282"
 chapter: 72
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "38 U.S.C. § 7282"
-generated_at: "2026-03-30T03:30:58.241Z"
+generated_at: "2026-03-30T03:34:51.060Z"
 status: "active"
 ---
 

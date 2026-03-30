@@ -3,9 +3,9 @@ title: "Section 1861to1864 - Repealed. Pub. L. 95–561, title III, § 301(b)(1)
 usc_title: 20
 usc_section: "1861to1864"
 chapter: 40
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 1861to1864"
-generated_at: "2026-03-30T03:29:44.003Z"
+generated_at: "2026-03-30T03:34:04.242Z"
 status: "repealed"
 ---
 

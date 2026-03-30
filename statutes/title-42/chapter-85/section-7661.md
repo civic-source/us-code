@@ -3,9 +3,9 @@ title: "Section 7661 - Definitions"
 usc_title: 42
 usc_section: "7661"
 chapter: 85
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 7661"
-generated_at: "2026-03-30T03:32:06.748Z"
+generated_at: "2026-03-30T03:35:29.223Z"
 status: "active"
 ---
 

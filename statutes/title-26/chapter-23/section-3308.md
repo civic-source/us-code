@@ -3,9 +3,9 @@ title: "Section 3308 - Instrumentalities of the United States"
 usc_title: 26
 usc_section: "3308"
 chapter: 23
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 3308"
-generated_at: "2026-03-30T03:30:21.703Z"
+generated_at: "2026-03-30T03:34:31.389Z"
 status: "active"
 ---
 

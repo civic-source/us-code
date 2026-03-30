@@ -3,9 +3,9 @@ title: "Section 9337 - Chaplain"
 usc_title: 10
 usc_section: "9337"
 chapter: 903
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 9337"
-generated_at: "2026-03-30T03:29:26.563Z"
+generated_at: "2026-03-30T03:33:33.075Z"
 status: "active"
 ---
 

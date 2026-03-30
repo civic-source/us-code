@@ -3,9 +3,9 @@ title: "Section 278n - Technology Innovation Program"
 usc_title: 15
 usc_section: "278n"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "15 U.S.C. § 278n"
-generated_at: "2026-03-30T03:29:35.820Z"
+generated_at: "2026-03-30T03:33:43.786Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 262 - President’s participation in international congresses re
 usc_title: 22
 usc_section: "262"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 262"
-generated_at: "2026-03-30T03:29:52.627Z"
+generated_at: "2026-03-30T03:34:15.049Z"
 status: "active"
 ---
 

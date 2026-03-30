@@ -3,9 +3,9 @@ title: "Section 2 - Purchase and distribution of surplus fishery products"
 usc_title: 15
 usc_section: "2"
 chapter: 15
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T03:29:35.849Z"
+generated_at: "2026-03-30T03:33:43.815Z"
 status: "active"
 ---
 

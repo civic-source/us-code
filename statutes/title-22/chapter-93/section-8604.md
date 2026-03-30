@@ -3,9 +3,9 @@ title: "Section 8604 - Reports required"
 usc_title: 22
 usc_section: "8604"
 chapter: 93
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 8604"
-generated_at: "2026-03-30T03:29:52.755Z"
+generated_at: "2026-03-30T03:34:15.183Z"
 status: "active"
 ---
 

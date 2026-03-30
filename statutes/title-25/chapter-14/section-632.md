@@ -3,9 +3,9 @@ title: "Section 632 - Character and extent of administration; time limit; report
 usc_title: 25
 usc_section: "632"
 chapter: 14
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "25 U.S.C. § 632"
-generated_at: "2026-03-30T03:30:06.892Z"
+generated_at: "2026-03-30T03:34:13.430Z"
 status: "active"
 ---
 

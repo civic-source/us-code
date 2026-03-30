@@ -3,9 +3,9 @@ title: "Section 1464 - Federal savings associations"
 usc_title: 12
 usc_section: "1464"
 chapter: 12
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 1464"
-generated_at: "2026-03-30T03:29:34.056Z"
+generated_at: "2026-03-30T03:33:47.303Z"
 status: "active"
 ---
 
@@ -70,7 +70,7 @@ status: "active"
     - **(A)** Secured or unsecured loans for commercial, corporate, business, or agricultural purposes. The aggregate amount of loans made under this subparagraph may not exceed 20 percent of the total assets of the Federal savings association, and amounts in excess of 10 percent of such total assets may be used under this subparagraph only for small business loans, as that term is defined by the Comptroller.
     - **(B)**
       - **(i)** Loans on the security of liens upon nonresidential real property. Except as provided in clause (ii), the aggregate amount of such loans shall not exceed 400 percent of the Federal savings association’s capital, as determined under subsection (t) of this section.
-      - **(ii)** The Comptroller may permit a savings association to exceed the limitation set forth in clause (i) if the Director determines that the increased authority—
+      - **(ii)** The Comptroller may permit a savings association to exceed the limitation set forth in clause (i) if the Comptroller determines that the increased authority—
         - **(I)** poses no significant risk to the safe and sound operation of the association, and
         - **(II)** is consistent with prudent operating practices.
       - **(iii)** If the Comptroller permits any increased authority pursuant to clause (ii), the Comptroller shall closely monitor the Federal savings association’s condition and lending activities to ensure that the savings association carries out all authority under this paragraph in a safe and sound manner and complies with this subparagraph and all relevant laws and regulations.

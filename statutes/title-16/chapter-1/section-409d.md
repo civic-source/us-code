@@ -3,9 +3,9 @@ title: "Section 409d - Employees of Washington Association of New Jersey"
 usc_title: 16
 usc_section: "409d"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 409d"
-generated_at: "2026-03-30T03:29:46.206Z"
+generated_at: "2026-03-30T03:33:55.006Z"
 status: "active"
 ---
 

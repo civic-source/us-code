@@ -3,9 +3,9 @@ title: "Section 3436 - Subsidy negotiations"
 usc_title: 19
 usc_section: "3436"
 chapter: 21
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "19 U.S.C. § 3436"
-generated_at: "2026-03-30T03:29:40.765Z"
+generated_at: "2026-03-30T03:34:07.417Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1909 - MARPOL Protocol; proposed amendments"
 usc_title: 33
 usc_section: "1909"
 chapter: 33
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "33 U.S.C. § 1909"
-generated_at: "2026-03-30T03:30:28.019Z"
+generated_at: "2026-03-30T03:34:36.939Z"
 status: "active"
 ---
 

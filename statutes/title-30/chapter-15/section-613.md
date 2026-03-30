@@ -3,9 +3,9 @@ title: "Section 613 - Procedure for determining title uncertainties"
 usc_title: 30
 usc_section: "613"
 chapter: 15
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "30 U.S.C. § 613"
-generated_at: "2026-03-30T03:30:22.075Z"
+generated_at: "2026-03-30T03:34:31.779Z"
 status: "active"
 ---
 

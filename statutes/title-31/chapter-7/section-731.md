@@ -3,9 +3,9 @@ title: "Section 731 - General"
 usc_title: 31
 usc_section: "731"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "31 U.S.C. § 731"
-generated_at: "2026-03-30T03:30:24.793Z"
+generated_at: "2026-03-30T03:34:46.879Z"
 status: "active"
 ---
 

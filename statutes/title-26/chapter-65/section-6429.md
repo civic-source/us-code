@@ -3,9 +3,9 @@ title: "Section 6429 - Advance payment of portion of increased child credit for 
 usc_title: 26
 usc_section: "6429"
 chapter: 65
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 6429"
-generated_at: "2026-03-30T03:30:21.754Z"
+generated_at: "2026-03-30T03:34:31.442Z"
 status: "active"
 ---
 

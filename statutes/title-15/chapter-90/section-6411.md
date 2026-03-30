@@ -3,9 +3,9 @@ title: "Section 6411 - Reports"
 usc_title: 15
 usc_section: "6411"
 chapter: 90
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "15 U.S.C. § 6411"
-generated_at: "2026-03-30T03:29:35.933Z"
+generated_at: "2026-03-30T03:33:43.901Z"
 status: "active"
 ---
 

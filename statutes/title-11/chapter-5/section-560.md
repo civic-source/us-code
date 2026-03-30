@@ -3,9 +3,9 @@ title: "Section 560 - Contractual right to liquidate, terminate, or accelerate a
 usc_title: 11
 usc_section: "560"
 chapter: 5
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "11 U.S.C. § 560"
-generated_at: "2026-03-30T03:29:28.806Z"
+generated_at: "2026-03-30T03:33:45.643Z"
 status: "active"
 ---
 

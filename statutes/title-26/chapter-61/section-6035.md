@@ -3,9 +3,9 @@ title: "Section 6035 - Repealed. Pub. L. 108–357, title IV, § 413(c)(26) , Oc
 usc_title: 26
 usc_section: "6035"
 chapter: 61
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 6035"
-generated_at: "2026-03-30T03:30:21.733Z"
+generated_at: "2026-03-30T03:34:31.421Z"
 status: "repealed"
 ---
 

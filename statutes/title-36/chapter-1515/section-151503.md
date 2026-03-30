@@ -3,9 +3,9 @@ title: "Section 151503 - Purposes"
 usc_title: 36
 usc_section: "151503"
 chapter: 1515
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "36 U.S.C. § 151503"
-generated_at: "2026-03-30T03:30:37.028Z"
+generated_at: "2026-03-30T03:34:49.240Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3713a - Local law enforcement grants"
 usc_title: 42
 usc_section: "3713a"
 chapter: 46
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 3713a"
-generated_at: "2026-03-30T03:32:06.625Z"
+generated_at: "2026-03-30T03:35:29.079Z"
 status: "active"
 ---
 

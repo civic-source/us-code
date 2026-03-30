@@ -3,9 +3,9 @@ title: "Section 18033 - Financial integrity"
 usc_title: 42
 usc_section: "18033"
 chapter: 157
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 18033"
-generated_at: "2026-03-30T03:32:06.923Z"
+generated_at: "2026-03-30T03:35:29.443Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15941 - Great Lakes oil and gas drilling ban"
 usc_title: 42
 usc_section: "15941"
 chapter: 149
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 15941"
-generated_at: "2026-03-30T03:32:06.889Z"
+generated_at: "2026-03-30T03:35:29.401Z"
 status: "active"
 ---
 

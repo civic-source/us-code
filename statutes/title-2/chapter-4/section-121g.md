@@ -3,9 +3,9 @@ title: "Section 121g - Authority of Attending Physician in response to medical c
 usc_title: 2
 usc_section: "121g"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 121g"
-generated_at: "2026-03-30T03:29:15.690Z"
+generated_at: "2026-03-30T03:33:16.299Z"
 status: "active"
 ---
 

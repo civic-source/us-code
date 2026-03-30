@@ -3,9 +3,9 @@ title: "Section 2292d - Repealed. Pub. L. 95–424, title VI, § 604 , Oct. 6, 1
 usc_title: 22
 usc_section: "2292d"
 chapter: 32
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 2292d"
-generated_at: "2026-03-30T03:29:52.670Z"
+generated_at: "2026-03-30T03:34:15.096Z"
 status: "repealed"
 ---
 

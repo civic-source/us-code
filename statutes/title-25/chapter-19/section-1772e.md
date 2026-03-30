@@ -3,9 +3,9 @@ title: "Section 1772e - Water rights compact"
 usc_title: 25
 usc_section: "1772e"
 chapter: 19
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "25 U.S.C. § 1772e"
-generated_at: "2026-03-30T03:30:06.928Z"
+generated_at: "2026-03-30T03:34:13.471Z"
 status: "active"
 ---
 

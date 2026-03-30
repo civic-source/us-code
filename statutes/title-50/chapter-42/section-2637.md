@@ -3,9 +3,9 @@ title: "Section 2637 - Continuation of processing, treatment, and disposal of le
 usc_title: 50
 usc_section: "2637"
 chapter: 42
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "50 U.S.C. § 2637"
-generated_at: "2026-03-30T03:32:35.915Z"
+generated_at: "2026-03-30T03:35:33.534Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1639d - Escrow or impound accounts relating to certain consumer 
 usc_title: 15
 usc_section: "1639d"
 chapter: 41
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "15 U.S.C. § 1639d"
-generated_at: "2026-03-30T03:29:35.876Z"
+generated_at: "2026-03-30T03:33:43.842Z"
 status: "active"
 ---
 

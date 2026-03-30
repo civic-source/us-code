@@ -3,9 +3,9 @@ title: "Section 1104 - Unemployment Trust Fund"
 usc_title: 42
 usc_section: "1104"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 1104"
-generated_at: "2026-03-30T03:32:06.409Z"
+generated_at: "2026-03-30T03:35:28.824Z"
 status: "active"
 ---
 

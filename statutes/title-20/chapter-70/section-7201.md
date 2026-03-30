@@ -3,9 +3,9 @@ title: "Section 7201 - Purposes, State and local responsibility"
 usc_title: 20
 usc_section: "7201"
 chapter: 70
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 7201"
-generated_at: "2026-03-30T03:29:44.044Z"
+generated_at: "2026-03-30T03:34:04.287Z"
 status: "active"
 ---
 

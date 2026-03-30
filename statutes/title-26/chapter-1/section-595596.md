@@ -3,9 +3,9 @@ title: "Section 595596 - Repealed. Pub. L. 104–188, title I, § 1616(b)(8) , (
 usc_title: 26
 usc_section: "595596"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 595596"
-generated_at: "2026-03-30T03:30:21.630Z"
+generated_at: "2026-03-30T03:34:31.318Z"
 status: "repealed"
 ---
 

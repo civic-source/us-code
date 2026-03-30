@@ -3,9 +3,9 @@ title: "Section 1g - Referral of ethics violations by Senate Ethics Committee to
 usc_title: 2
 usc_section: "1g"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 1g"
-generated_at: "2026-03-30T03:29:15.687Z"
+generated_at: "2026-03-30T03:33:16.295Z"
 status: "active"
 ---
 

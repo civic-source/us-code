@@ -3,9 +3,9 @@ title: "Section 643 - Fair charge for use of Government-owned property"
 usc_title: 15
 usc_section: "643"
 chapter: 14
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "15 U.S.C. § 643"
-generated_at: "2026-03-30T03:29:35.836Z"
+generated_at: "2026-03-30T03:33:43.801Z"
 status: "active"
 ---
 

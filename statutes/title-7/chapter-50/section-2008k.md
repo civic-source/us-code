@@ -3,9 +3,9 @@ title: "Section 2008k - Making and servicing of loans by personnel of State, cou
 usc_title: 7
 usc_section: "2008k"
 chapter: 50
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "7 U.S.C. § 2008k"
-generated_at: "2026-03-30T03:29:22.927Z"
+generated_at: "2026-03-30T03:33:26.392Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12528 - Reserve Mobilization Income Insurance Fund"
 usc_title: 10
 usc_section: "12528"
 chapter: 1214
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 12528"
-generated_at: "2026-03-30T03:29:26.572Z"
+generated_at: "2026-03-30T03:33:33.092Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2017 - Authorization of appropriations"
 usc_title: 42
 usc_section: "2017"
 chapter: 23
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 2017"
-generated_at: "2026-03-30T03:32:06.586Z"
+generated_at: "2026-03-30T03:35:29.032Z"
 status: "active"
 ---
 

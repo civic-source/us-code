@@ -3,9 +3,9 @@ title: "Section 3031to3037 - Omitted"
 usc_title: 29
 usc_section: "3031to3037"
 chapter: 31
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "29 U.S.C. § 3031to3037"
-generated_at: "2026-03-30T03:30:09.786Z"
+generated_at: "2026-03-30T03:34:33.925Z"
 status: "omitted"
 ---
 

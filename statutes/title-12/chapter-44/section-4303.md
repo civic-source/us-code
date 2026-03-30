@@ -3,9 +3,9 @@ title: "Section 4303 - Account schedule"
 usc_title: 12
 usc_section: "4303"
 chapter: 44
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 4303"
-generated_at: "2026-03-30T03:29:34.151Z"
+generated_at: "2026-03-30T03:33:47.405Z"
 status: "active"
 ---
 

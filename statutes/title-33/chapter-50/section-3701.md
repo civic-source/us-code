@@ -3,9 +3,9 @@ title: "Section 3701 - Purposes"
 usc_title: 33
 usc_section: "3701"
 chapter: 50
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "33 U.S.C. § 3701"
-generated_at: "2026-03-30T03:30:28.035Z"
+generated_at: "2026-03-30T03:34:36.956Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1400to1400v - Omitted"
 usc_title: 42
 usc_section: "1400to1400v"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 1400to1400v"
-generated_at: "2026-03-30T03:32:06.528Z"
+generated_at: "2026-03-30T03:35:28.963Z"
 status: "omitted"
 ---
 

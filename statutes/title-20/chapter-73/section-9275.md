@@ -3,9 +3,9 @@ title: "Section 9275 - Buy-American requirements"
 usc_title: 20
 usc_section: "9275"
 chapter: 73
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 9275"
-generated_at: "2026-03-30T03:29:44.064Z"
+generated_at: "2026-03-30T03:34:04.309Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1g - Cooperative agreements"
 usc_title: 16
 usc_section: "1g"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 1g"
-generated_at: "2026-03-30T03:29:46.182Z"
+generated_at: "2026-03-30T03:33:54.980Z"
 status: "active"
 ---
 

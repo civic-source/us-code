@@ -3,9 +3,9 @@ title: "Section 57b - Representational allowance for Members of House of Represe
 usc_title: 2
 usc_section: "57b"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 57b"
-generated_at: "2026-03-30T03:29:15.681Z"
+generated_at: "2026-03-30T03:33:16.289Z"
 status: "active"
 ---
 

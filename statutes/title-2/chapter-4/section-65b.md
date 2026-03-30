@@ -3,9 +3,9 @@ title: "Section 65b - Advances to Sergeant at Arms of Senate for extraordinary e
 usc_title: 2
 usc_section: "65b"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 65b"
-generated_at: "2026-03-30T03:29:15.686Z"
+generated_at: "2026-03-30T03:33:16.294Z"
 status: "active"
 ---
 

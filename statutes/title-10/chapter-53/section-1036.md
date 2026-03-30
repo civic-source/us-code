@@ -3,9 +3,9 @@ title: "Section 1036 - Escorts for dependents of members: transportation and tra
 usc_title: 10
 usc_section: "1036"
 chapter: 53
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 1036"
-generated_at: "2026-03-30T03:29:26.474Z"
+generated_at: "2026-03-30T03:33:32.912Z"
 status: "active"
 ---
 

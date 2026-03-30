@@ -3,9 +3,9 @@ title: "Section 4014 - Reporting requirement; amendment of certificate; revocati
 usc_title: 15
 usc_section: "4014"
 chapter: 66
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "15 U.S.C. § 4014"
-generated_at: "2026-03-30T03:29:35.922Z"
+generated_at: "2026-03-30T03:33:43.890Z"
 status: "active"
 ---
 

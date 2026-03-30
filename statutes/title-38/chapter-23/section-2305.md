@@ -3,9 +3,9 @@ title: "Section 2305 - Persons eligible under prior law"
 usc_title: 38
 usc_section: "2305"
 chapter: 23
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "38 U.S.C. § 2305"
-generated_at: "2026-03-30T03:30:58.213Z"
+generated_at: "2026-03-30T03:34:51.035Z"
 status: "active"
 ---
 

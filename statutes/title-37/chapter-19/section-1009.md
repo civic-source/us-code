@@ -3,9 +3,9 @@ title: "Section 1009 - Adjustments of monthly basic pay"
 usc_title: 37
 usc_section: "1009"
 chapter: 19
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "37 U.S.C. § 1009"
-generated_at: "2026-03-30T03:30:38.566Z"
+generated_at: "2026-03-30T03:34:57.930Z"
 status: "active"
 ---
 

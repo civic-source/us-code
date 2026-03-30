@@ -3,9 +3,9 @@ title: "Section 8732 - Acquiring land subject to limited rights reserved to gran
 usc_title: 40
 usc_section: "8732"
 chapter: 87
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "40 U.S.C. § 8732"
-generated_at: "2026-03-30T03:30:48.555Z"
+generated_at: "2026-03-30T03:35:02.230Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 245ato245i - Repealed. Joint Res. Nov. 4, 1939, ch. 2, § 19 , 5
 usc_title: 22
 usc_section: "245ato245i"
 chapter: 5
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 245ato245i"
-generated_at: "2026-03-30T03:29:52.626Z"
+generated_at: "2026-03-30T03:34:15.049Z"
 status: "repealed"
 ---
 

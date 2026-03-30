@@ -3,9 +3,9 @@ title: "Section 2 - Micronutrient fortification programs"
 usc_title: 7
 usc_section: "2"
 chapter: 41
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T03:29:22.915Z"
+generated_at: "2026-03-30T03:33:26.375Z"
 status: "active"
 ---
 

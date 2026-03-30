@@ -3,9 +3,9 @@ title: "Section 641b - Filing of application for quitclaim deeds"
 usc_title: 43
 usc_section: "641b"
 chapter: 14
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "43 U.S.C. § 641b"
-generated_at: "2026-03-30T03:31:00.915Z"
+generated_at: "2026-03-30T03:35:05.938Z"
 status: "active"
 ---
 

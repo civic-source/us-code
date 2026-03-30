@@ -3,9 +3,9 @@ title: "Section 618 - Funding for child care"
 usc_title: 42
 usc_section: "618"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 618"
-generated_at: "2026-03-30T03:32:06.392Z"
+generated_at: "2026-03-30T03:35:28.802Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
       - **(ii)** The determination of the Secretary under clause (i) for a fiscal year shall be made not later than the end of the first quarter of the subsequent fiscal year. The redistribution of amounts under clause (i) shall be made as close as practicable to the date on which such determination is made. Any amount made available to a State from an appropriation for a fiscal year in accordance with this subparagraph shall, for purposes of this part, be regarded as part of such State’s payment (as determined under this subsection) for the fiscal year in which the redistribution is made.
   - **(3)** For grants under this section, there are appropriated $2,917,000,000 for fiscal year 2012.
   - **(4)** The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the aggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
-  - **(5)** In making the determinations concerning expenditures required under paragraphs (1) and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) 2 2 See References in Text note below. of this title.
+  - **(5)** In making the determinations concerning expenditures required under paragraphs (1) and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) 1 1 See References in Text note below. of this title.
 - **(b)**
   - **(1)** Amounts received by a State under this section shall only be used to provide child care assistance. Amounts received by a State under a grant under subsection (a)(1) of this section shall be available for use by the State without fiscal year limitation.
   - **(2)** A State shall ensure that not less than 70 percent of the total amount of funds received by the State in a fiscal year under this section are used to provide child care assistance to families who are receiving assistance under a State program under this part, families who are attempting through work activities to transition off of such assistance program, and families who are at risk of becoming dependent on such assistance program.

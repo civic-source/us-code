@@ -3,9 +3,9 @@ title: "Section 5673 - Withholding"
 usc_title: 42
 usc_section: "5673"
 chapter: 72
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 5673"
-generated_at: "2026-03-30T03:32:06.672Z"
+generated_at: "2026-03-30T03:35:29.134Z"
 status: "active"
 ---
 

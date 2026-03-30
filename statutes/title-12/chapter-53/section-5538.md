@@ -1,15 +1,15 @@
 ---
-title: "Section 5538 - Mortgages loans; rulemaking procedures; enforcement"
+title: "Section 5538 - Mortgage loans; rulemaking procedures; enforcement"
 usc_title: 12
 usc_section: "5538"
 chapter: 53
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 5538"
-generated_at: "2026-03-30T03:29:34.192Z"
+generated_at: "2026-03-30T03:33:47.441Z"
 status: "active"
 ---
 
-# § 5538. Mortgages loans; rulemaking procedures; enforcement
+# § 5538. Mortgage loans; rulemaking procedures; enforcement
 
 - **(a)**
   - **(1)** The Bureau of Consumer Financial Protection shall have authority to prescribe rules with respect to mortgage loans in accordance with section 553 of title 5 . Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services. Any violation of a rule prescribed under this paragraph shall be treated as a violation of a rule prohibiting unfair, deceptive, or abusive acts or practices under the Consumer Financial Protection Act of 2010 and a violation of a rule under section 18 of the Federal Trade Commission Act ( 15 U.S.C. 57a ) regarding unfair or deceptive acts or practices.

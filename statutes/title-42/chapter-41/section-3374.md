@@ -3,9 +3,9 @@ title: "Section 3374 - Acquisition of property at or near military bases which h
 usc_title: 42
 usc_section: "3374"
 chapter: 41
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 3374"
-generated_at: "2026-03-30T03:32:06.620Z"
+generated_at: "2026-03-30T03:35:29.072Z"
 status: "active"
 ---
 

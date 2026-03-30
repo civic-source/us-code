@@ -3,9 +3,9 @@ title: "Section 2216a - Rapidly meeting urgent needs: Joint Urgent Operational N
 usc_title: 10
 usc_section: "2216a"
 chapter: 131
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 2216a"
-generated_at: "2026-03-30T03:29:26.506Z"
+generated_at: "2026-03-30T03:33:32.969Z"
 status: "active"
 ---
 

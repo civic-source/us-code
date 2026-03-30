@@ -3,9 +3,9 @@ title: "Section 50703 - Annual report"
 usc_title: 51
 usc_section: "50703"
 chapter: 507
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "51 U.S.C. § 50703"
-generated_at: "2026-03-30T03:32:50.379Z"
+generated_at: "2026-03-30T03:35:38.035Z"
 status: "active"
 ---
 

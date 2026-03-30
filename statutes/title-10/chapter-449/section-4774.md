@@ -3,9 +3,9 @@ title: "Section 4774 - Repealed. Pub. L. 97–214, § 7(1) , July 12, 1982 , 96 
 usc_title: 10
 usc_section: "4774"
 chapter: 449
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 4774"
-generated_at: "2026-03-30T03:29:26.546Z"
+generated_at: "2026-03-30T03:33:33.044Z"
 status: "repealed"
 ---
 

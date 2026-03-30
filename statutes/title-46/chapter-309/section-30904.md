@@ -3,9 +3,9 @@ title: "Section 30904 - Exclusive remedy"
 usc_title: 46
 usc_section: "30904"
 chapter: 309
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "46 U.S.C. § 30904"
-generated_at: "2026-03-30T03:32:19.116Z"
+generated_at: "2026-03-30T03:35:34.214Z"
 status: "active"
 ---
 

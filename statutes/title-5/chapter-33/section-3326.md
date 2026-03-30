@@ -3,9 +3,9 @@ title: "Section 3326 - Appointments of retired members of the armed forces to po
 usc_title: 5
 usc_section: "3326"
 chapter: 33
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "5 U.S.C. § 3326"
-generated_at: "2026-03-30T03:29:17.164Z"
+generated_at: "2026-03-30T03:33:07.151Z"
 status: "active"
 ---
 

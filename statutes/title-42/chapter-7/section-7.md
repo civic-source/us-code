@@ -3,9 +3,9 @@ title: "Section 7 - State flexibility in benefit packages"
 usc_title: 42
 usc_section: "7"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T03:32:06.519Z"
+generated_at: "2026-03-30T03:35:28.952Z"
 status: "active"
 ---
 

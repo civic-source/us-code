@@ -3,9 +3,9 @@ title: "Section 1643l - Determination of ownership of claims referred by distric
 usc_title: 22
 usc_section: "1643l"
 chapter: 21
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 1643l"
-generated_at: "2026-03-30T03:29:52.655Z"
+generated_at: "2026-03-30T03:34:15.080Z"
 status: "active"
 ---
 

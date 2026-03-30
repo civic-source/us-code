@@ -3,9 +3,9 @@ title: "Section 2691 - Repealed. Pub. L. 101–649, title VI, § 603(a)(18) , No
 usc_title: 22
 usc_section: "2691"
 chapter: 38
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 2691"
-generated_at: "2026-03-30T03:29:52.689Z"
+generated_at: "2026-03-30T03:34:15.115Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 703 - Withdrawal of lands in aid of a governmental unit"
 usc_title: 30
 usc_section: "703"
 chapter: 20
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "30 U.S.C. § 703"
-generated_at: "2026-03-30T03:30:22.076Z"
+generated_at: "2026-03-30T03:34:31.779Z"
 status: "active"
 ---
 

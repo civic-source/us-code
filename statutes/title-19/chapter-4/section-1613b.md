@@ -3,9 +3,9 @@ title: "Section 1613b - Customs Forfeiture Fund"
 usc_title: 19
 usc_section: "1613b"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "19 U.S.C. § 1613b"
-generated_at: "2026-03-30T03:29:40.725Z"
+generated_at: "2026-03-30T03:34:07.377Z"
 status: "active"
 ---
 

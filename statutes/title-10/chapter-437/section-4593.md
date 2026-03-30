@@ -3,9 +3,9 @@ title: "Section 4593 - Quarters: heat and light"
 usc_title: 10
 usc_section: "4593"
 chapter: 437
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 4593"
-generated_at: "2026-03-30T03:29:26.545Z"
+generated_at: "2026-03-30T03:33:33.042Z"
 status: "active"
 ---
 

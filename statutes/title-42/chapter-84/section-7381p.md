@@ -3,9 +3,9 @@ title: "Section 7381p - Repealed. Pub. L. 111–358, title IX, § 901(a) , Jan. 
 usc_title: 42
 usc_section: "7381p"
 chapter: 84
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 7381p"
-generated_at: "2026-03-30T03:32:06.719Z"
+generated_at: "2026-03-30T03:35:29.189Z"
 status: "repealed"
 ---
 

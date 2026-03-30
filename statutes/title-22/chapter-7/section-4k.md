@@ -3,9 +3,9 @@ title: "Section 4k - Promotion of institution-building for nongovernmental organ
 usc_title: 22
 usc_section: "4k"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 4k"
-generated_at: "2026-03-30T03:29:52.630Z"
+generated_at: "2026-03-30T03:34:15.053Z"
 status: "active"
 ---
 

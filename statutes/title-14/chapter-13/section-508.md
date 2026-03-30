@@ -3,9 +3,9 @@ title: "Section 508 - Deserters; payment of expenses incident to apprehension an
 usc_title: 14
 usc_section: "508"
 chapter: 13
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "14 U.S.C. § 508"
-generated_at: "2026-03-30T03:29:29.413Z"
+generated_at: "2026-03-30T03:33:49.160Z"
 status: "active"
 ---
 

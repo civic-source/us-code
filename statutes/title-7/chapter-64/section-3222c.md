@@ -3,9 +3,9 @@ title: "Section 3222c - National research and training virtual centers"
 usc_title: 7
 usc_section: "3222c"
 chapter: 64
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "7 U.S.C. § 3222c"
-generated_at: "2026-03-30T03:29:22.955Z"
+generated_at: "2026-03-30T03:33:26.430Z"
 status: "active"
 ---
 

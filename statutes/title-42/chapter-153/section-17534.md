@@ -3,9 +3,9 @@ title: "Section 17534 - Bureau of Prisons policy on chapel library materials"
 usc_title: 42
 usc_section: "17534"
 chapter: 153
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 17534"
-generated_at: "2026-03-30T03:32:06.918Z"
+generated_at: "2026-03-30T03:35:29.437Z"
 status: "active"
 ---
 

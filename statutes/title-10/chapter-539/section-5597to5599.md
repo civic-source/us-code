@@ -3,9 +3,9 @@ title: "Section 5597to5599 - Repealed. Pub. L. 96–513, title III, § 327 , Dec
 usc_title: 10
 usc_section: "5597to5599"
 chapter: 539
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 5597to5599"
-generated_at: "2026-03-30T03:29:26.549Z"
+generated_at: "2026-03-30T03:33:33.049Z"
 status: "repealed"
 ---
 

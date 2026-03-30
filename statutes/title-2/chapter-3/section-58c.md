@@ -3,9 +3,9 @@ title: "Section 58c - Senators’ Official Personnel and Office Expense Account"
 usc_title: 2
 usc_section: "58c"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 58c"
-generated_at: "2026-03-30T03:29:15.681Z"
+generated_at: "2026-03-30T03:33:16.290Z"
 status: "active"
 ---
 

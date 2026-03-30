@@ -3,9 +3,9 @@ title: "Section 117g - Monies received by Attending Physician from sale of presc
 usc_title: 2
 usc_section: "117g"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 117g"
-generated_at: "2026-03-30T03:29:15.690Z"
+generated_at: "2026-03-30T03:33:16.298Z"
 status: "active"
 ---
 

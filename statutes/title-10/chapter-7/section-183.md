@@ -3,9 +3,9 @@ title: "Section 183 - Department of Defense Board of Actuaries"
 usc_title: 10
 usc_section: "183"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 183"
-generated_at: "2026-03-30T03:29:26.452Z"
+generated_at: "2026-03-30T03:33:32.873Z"
 status: "active"
 ---
 

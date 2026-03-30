@@ -3,9 +3,9 @@ title: "Section 3230 - Repealed. Pub. L. 96–513, title II, § 232 , Dec. 12, 1
 usc_title: 10
 usc_section: "3230"
 chapter: 331
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 3230"
-generated_at: "2026-03-30T03:29:26.540Z"
+generated_at: "2026-03-30T03:33:33.032Z"
 status: "repealed"
 ---
 

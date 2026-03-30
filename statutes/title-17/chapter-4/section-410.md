@@ -3,9 +3,9 @@ title: "Section 410 - Registration of claim and issuance of certificate"
 usc_title: 17
 usc_section: "410"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "17 U.S.C. § 410"
-generated_at: "2026-03-30T03:29:38.038Z"
+generated_at: "2026-03-30T03:33:56.706Z"
 status: "active"
 ---
 

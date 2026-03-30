@@ -3,9 +3,9 @@ title: "Section 993 - Sale of lands in Louisiana; preference rights; application
 usc_title: 43
 usc_section: "993"
 chapter: 23
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "43 U.S.C. § 993"
-generated_at: "2026-03-30T03:31:00.921Z"
+generated_at: "2026-03-30T03:35:05.944Z"
 status: "active"
 ---
 

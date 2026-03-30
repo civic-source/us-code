@@ -3,9 +3,9 @@ title: "Section 194 - Lands held in private, municipal, or State ownership not a
 usc_title: 16
 usc_section: "194"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 194"
-generated_at: "2026-03-30T03:29:46.193Z"
+generated_at: "2026-03-30T03:33:54.992Z"
 status: "active"
 ---
 

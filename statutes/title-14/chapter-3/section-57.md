@@ -3,9 +3,9 @@ title: "Section 57 - Prevention and response workforces"
 usc_title: 14
 usc_section: "57"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "14 U.S.C. § 57"
-generated_at: "2026-03-30T03:29:29.411Z"
+generated_at: "2026-03-30T03:33:49.157Z"
 status: "active"
 ---
 

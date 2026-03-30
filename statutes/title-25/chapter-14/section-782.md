@@ -3,9 +3,9 @@ title: "Section 782 - Payment to heirs or legatees"
 usc_title: 25
 usc_section: "782"
 chapter: 14
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "25 U.S.C. § 782"
-generated_at: "2026-03-30T03:30:06.902Z"
+generated_at: "2026-03-30T03:34:13.441Z"
 status: "active"
 ---
 

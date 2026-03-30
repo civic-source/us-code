@@ -3,9 +3,9 @@ title: "Section 11 - Tribal Deputy"
 usc_title: 42
 usc_section: "11"
 chapter: 46
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T03:32:06.633Z"
+generated_at: "2026-03-30T03:35:29.087Z"
 status: "active"
 ---
 

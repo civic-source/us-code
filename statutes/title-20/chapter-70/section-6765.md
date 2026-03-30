@@ -3,9 +3,9 @@ title: "Section 6765 - State activities"
 usc_title: 20
 usc_section: "6765"
 chapter: 70
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 6765"
-generated_at: "2026-03-30T03:29:44.037Z"
+generated_at: "2026-03-30T03:34:04.280Z"
 status: "active"
 ---
 

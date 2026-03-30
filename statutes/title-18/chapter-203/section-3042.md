@@ -3,9 +3,9 @@ title: "Section 3042 - Extraterritorial jurisdiction"
 usc_title: 18
 usc_section: "3042"
 chapter: 203
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "18 U.S.C. § 3042"
-generated_at: "2026-03-30T03:29:39.037Z"
+generated_at: "2026-03-30T03:34:08.324Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7087 - Election of annuity for self and beneficiary"
 usc_title: 10
 usc_section: "7087"
 chapter: 607
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 7087"
-generated_at: "2026-03-30T03:29:26.554Z"
+generated_at: "2026-03-30T03:33:33.057Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1961ato1961a5 - Repealed. Pub. L. 95–467, title IV, § 410(a) 
 usc_title: 42
 usc_section: "1961ato1961a5"
 chapter: 19
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 1961ato1961a5"
-generated_at: "2026-03-30T03:32:06.571Z"
+generated_at: "2026-03-30T03:35:29.015Z"
 status: "repealed"
 ---
 

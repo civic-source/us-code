@@ -3,9 +3,9 @@ title: "Section 4073 - Exemptions"
 usc_title: 26
 usc_section: "4073"
 chapter: 32
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 4073"
-generated_at: "2026-03-30T03:30:21.707Z"
+generated_at: "2026-03-30T03:34:31.394Z"
 status: "active"
 ---
 

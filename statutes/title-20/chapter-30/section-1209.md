@@ -3,9 +3,9 @@ title: "Section 1209 - Repealed. Pub. L. 105–220, title II, § 251(a)(1) , Aug
 usc_title: 20
 usc_section: "1209"
 chapter: 30
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 1209"
-generated_at: "2026-03-30T03:29:43.989Z"
+generated_at: "2026-03-30T03:34:04.225Z"
 status: "repealed"
 ---
 

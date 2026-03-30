@@ -3,9 +3,9 @@ title: "Section 1a - Travel expenses of Sergeant at Arms and Doorkeeper of Senat
 usc_title: 2
 usc_section: "1a"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 1a"
-generated_at: "2026-03-30T03:29:15.685Z"
+generated_at: "2026-03-30T03:33:16.294Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8987 - Coverage of restored survivor or disability annuitants"
 usc_title: 5
 usc_section: "8987"
 chapter: 89
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "5 U.S.C. § 8987"
-generated_at: "2026-03-30T03:29:17.210Z"
+generated_at: "2026-03-30T03:33:07.194Z"
 status: "active"
 ---
 

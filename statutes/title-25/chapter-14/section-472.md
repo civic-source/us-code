@@ -3,9 +3,9 @@ title: "Section 472 - Standards for Indians appointed to Indian Office"
 usc_title: 25
 usc_section: "472"
 chapter: 14
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "25 U.S.C. § 472"
-generated_at: "2026-03-30T03:30:06.886Z"
+generated_at: "2026-03-30T03:34:13.425Z"
 status: "active"
 ---
 

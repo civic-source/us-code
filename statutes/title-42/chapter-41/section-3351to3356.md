@@ -3,9 +3,9 @@ title: "Section 3351to3356 - Omitted"
 usc_title: 42
 usc_section: "3351to3356"
 chapter: 41
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 3351to3356"
-generated_at: "2026-03-30T03:32:06.620Z"
+generated_at: "2026-03-30T03:35:29.072Z"
 status: "omitted"
 ---
 

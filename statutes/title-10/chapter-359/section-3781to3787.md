@@ -3,9 +3,9 @@ title: "Section 3781to3787 - Repealed. Pub. L. 96–513, title II, § 213 , Dec.
 usc_title: 10
 usc_section: "3781to3787"
 chapter: 359
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 3781to3787"
-generated_at: "2026-03-30T03:29:26.542Z"
+generated_at: "2026-03-30T03:33:33.036Z"
 status: "repealed"
 ---
 

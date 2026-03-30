@@ -3,9 +3,9 @@ title: "Section 4607 - Procedures and records"
 usc_title: 22
 usc_section: "4607"
 chapter: 56
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 4607"
-generated_at: "2026-03-30T03:29:52.718Z"
+generated_at: "2026-03-30T03:34:15.144Z"
 status: "active"
 ---
 

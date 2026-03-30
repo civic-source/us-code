@@ -3,9 +3,9 @@ title: "Section 22108 - Authorization of appropriations"
 usc_title: 49
 usc_section: "22108"
 chapter: 221
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "49 U.S.C. § 22108"
-generated_at: "2026-03-30T03:32:48.393Z"
+generated_at: "2026-03-30T03:35:36.171Z"
 status: "active"
 ---
 

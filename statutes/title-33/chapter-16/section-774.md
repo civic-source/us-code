@@ -3,9 +3,9 @@ title: "Section 774 - Rules and regulations"
 usc_title: 33
 usc_section: "774"
 chapter: 16
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "33 U.S.C. § 774"
-generated_at: "2026-03-30T03:30:27.990Z"
+generated_at: "2026-03-30T03:34:36.908Z"
 status: "active"
 ---
 

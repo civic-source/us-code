@@ -3,9 +3,9 @@ title: "Section 1181to1187 - Omitted"
 usc_title: 16
 usc_section: "1181to1187"
 chapter: 24
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 1181to1187"
-generated_at: "2026-03-30T03:29:46.325Z"
+generated_at: "2026-03-30T03:33:55.136Z"
 status: "omitted"
 ---
 

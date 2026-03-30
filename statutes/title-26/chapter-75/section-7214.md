@@ -3,9 +3,9 @@ title: "Section 7214 - Offenses by officers and employees of the United States"
 usc_title: 26
 usc_section: "7214"
 chapter: 75
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 7214"
-generated_at: "2026-03-30T03:30:21.763Z"
+generated_at: "2026-03-30T03:34:31.453Z"
 status: "active"
 ---
 

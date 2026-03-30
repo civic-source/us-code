@@ -3,9 +3,9 @@ title: "Section 9 - Repealed. Pub. L. 110–84, title III, § 302(a) , Sept. 27,
 usc_title: 20
 usc_section: "9"
 chapter: 28
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 9"
-generated_at: "2026-03-30T03:29:43.956Z"
+generated_at: "2026-03-30T03:34:04.190Z"
 status: "repealed"
 ---
 

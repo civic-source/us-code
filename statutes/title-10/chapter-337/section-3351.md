@@ -3,9 +3,9 @@ title: "Section 3351 - Renumbered § 12211]"
 usc_title: 10
 usc_section: "3351"
 chapter: 337
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 3351"
-generated_at: "2026-03-30T03:29:26.541Z"
+generated_at: "2026-03-30T03:33:33.033Z"
 status: "renumbered"
 ---
 

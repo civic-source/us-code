@@ -3,9 +3,9 @@ title: "Section 10163 - Monitored Retrievable Storage Commission"
 usc_title: 42
 usc_section: "10163"
 chapter: 108
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 10163"
-generated_at: "2026-03-30T03:32:06.795Z"
+generated_at: "2026-03-30T03:35:29.281Z"
 status: "active"
 ---
 

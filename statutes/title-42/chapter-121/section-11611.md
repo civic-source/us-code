@@ -3,9 +3,9 @@ title: "Section 11611 - Report on compliance with the Hague Convention on Intern
 usc_title: 42
 usc_section: "11611"
 chapter: 121
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 11611"
-generated_at: "2026-03-30T03:32:06.816Z"
+generated_at: "2026-03-30T03:35:29.306Z"
 status: "active"
 ---
 

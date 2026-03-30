@@ -3,9 +3,9 @@ title: "Section 8081 - Assistant Surgeon General for Dental Services"
 usc_title: 10
 usc_section: "8081"
 chapter: 807
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 8081"
-generated_at: "2026-03-30T03:29:26.560Z"
+generated_at: "2026-03-30T03:33:33.068Z"
 status: "active"
 ---
 

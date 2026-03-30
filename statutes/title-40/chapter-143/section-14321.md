@@ -3,9 +3,9 @@ title: "Section 14321 - Grants and other assistance"
 usc_title: 40
 usc_section: "14321"
 chapter: 143
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "40 U.S.C. § 14321"
-generated_at: "2026-03-30T03:30:48.558Z"
+generated_at: "2026-03-30T03:35:02.232Z"
 status: "active"
 ---
 
@@ -40,4 +40,4 @@ status: "active"
     - **(B)** $2,500,000 shall be obligated for indigenous arts and crafts demonstrations.
 - **(c)**
   - **(1)** The Commission, as required by the President, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the President on the transactions and activities. The records of the Commission with respect to grants are available for audit by the President and the Comptroller General.
-  - **(2)** Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be available for audit by the President, the Comptroller General, and the Commission.
+  - **(2)** Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be 1 1 So in original. Probably should be preceded by “to”. available for audit by the President, the Comptroller General, and the Commission.

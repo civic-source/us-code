@@ -3,9 +3,9 @@ title: "Section 286f - Obtaining and furnishing information to the Fund"
 usc_title: 22
 usc_section: "286f"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 286f"
-generated_at: "2026-03-30T03:29:52.639Z"
+generated_at: "2026-03-30T03:34:15.063Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7452 - In-service training for teachers of Indian children"
 usc_title: 20
 usc_section: "7452"
 chapter: 70
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 7452"
-generated_at: "2026-03-30T03:29:44.053Z"
+generated_at: "2026-03-30T03:34:04.299Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2436 - Regulations"
 usc_title: 16
 usc_section: "2436"
 chapter: 44
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 2436"
-generated_at: "2026-03-30T03:29:46.364Z"
+generated_at: "2026-03-30T03:33:55.177Z"
 status: "active"
 ---
 

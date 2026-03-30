@@ -3,9 +3,9 @@ title: "Section 6368 - Definitions"
 usc_title: 20
 usc_section: "6368"
 chapter: 70
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 6368"
-generated_at: "2026-03-30T03:29:44.029Z"
+generated_at: "2026-03-30T03:34:04.270Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2343 - Sales"
 usc_title: 42
 usc_section: "2343"
 chapter: 24
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 2343"
-generated_at: "2026-03-30T03:32:06.601Z"
+generated_at: "2026-03-30T03:35:29.050Z"
 status: "active"
 ---
 

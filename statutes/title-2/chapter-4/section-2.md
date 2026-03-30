@@ -3,9 +3,9 @@ title: "Section 2 - Office of Interparliamentary Affairs"
 usc_title: 2
 usc_section: "2"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 2"
-generated_at: "2026-03-30T03:29:15.691Z"
+generated_at: "2026-03-30T03:33:16.299Z"
 status: "active"
 ---
 

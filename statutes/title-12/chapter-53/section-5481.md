@@ -3,9 +3,9 @@ title: "Section 5481 - Definitions"
 usc_title: 12
 usc_section: "5481"
 chapter: 53
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 5481"
-generated_at: "2026-03-30T03:29:34.187Z"
+generated_at: "2026-03-30T03:33:47.436Z"
 status: "active"
 ---
 

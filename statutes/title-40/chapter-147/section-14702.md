@@ -3,9 +3,9 @@ title: "Section 14702 - Nondiscrimination"
 usc_title: 40
 usc_section: "14702"
 chapter: 147
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "40 U.S.C. § 14702"
-generated_at: "2026-03-30T03:30:48.559Z"
+generated_at: "2026-03-30T03:35:02.234Z"
 status: "active"
 ---
 

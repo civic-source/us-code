@@ -3,9 +3,9 @@ title: "Section 14044b - Protection of juvenile victims of trafficking in person
 usc_title: 42
 usc_section: "14044b"
 chapter: 136
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 14044b"
-generated_at: "2026-03-30T03:32:06.866Z"
+generated_at: "2026-03-30T03:35:29.369Z"
 status: "active"
 ---
 

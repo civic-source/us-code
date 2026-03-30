@@ -3,9 +3,9 @@ title: "Section 5201to5204 - Repealed. Pub. L. 99–433, title V, § 513(a) , Oc
 usc_title: 10
 usc_section: "5201to5204"
 chapter: 515
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 5201to5204"
-generated_at: "2026-03-30T03:29:26.548Z"
+generated_at: "2026-03-30T03:33:33.047Z"
 status: "repealed"
 ---
 

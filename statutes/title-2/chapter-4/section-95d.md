@@ -3,9 +3,9 @@ title: "Section 95d - Account in House of Representatives for Employees’ Compe
 usc_title: 2
 usc_section: "95d"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 95d"
-generated_at: "2026-03-30T03:29:15.689Z"
+generated_at: "2026-03-30T03:33:16.297Z"
 status: "active"
 ---
 

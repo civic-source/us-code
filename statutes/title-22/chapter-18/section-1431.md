@@ -3,9 +3,9 @@ title: "Section 1431 - Congressional declaration of objectives"
 usc_title: 22
 usc_section: "1431"
 chapter: 18
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 1431"
-generated_at: "2026-03-30T03:29:52.649Z"
+generated_at: "2026-03-30T03:34:15.075Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 241dto241d2 - Repealed. Pub. L. 95–561, title I, § 101(c) , N
 usc_title: 20
 usc_section: "241dto241d2"
 chapter: 13
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 241dto241d2"
-generated_at: "2026-03-30T03:29:43.929Z"
+generated_at: "2026-03-30T03:34:04.162Z"
 status: "repealed"
 ---
 

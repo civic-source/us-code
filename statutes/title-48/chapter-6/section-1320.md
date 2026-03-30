@@ -3,9 +3,9 @@ title: "Section 1320 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 48
 usc_section: "1320"
 chapter: 6
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "48 U.S.C. § 1320"
-generated_at: "2026-03-30T03:32:29.303Z"
+generated_at: "2026-03-30T03:35:32.330Z"
 status: "repealed"
 ---
 

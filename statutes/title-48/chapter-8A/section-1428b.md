@@ -3,9 +3,9 @@ title: "Section 1428b - Prerequisite for loan or loan guarantee; maximum partici
 usc_title: 48
 usc_section: "1428b"
 chapter: 8
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "48 U.S.C. § 1428b"
-generated_at: "2026-03-30T03:32:29.306Z"
+generated_at: "2026-03-30T03:35:32.333Z"
 status: "active"
 ---
 

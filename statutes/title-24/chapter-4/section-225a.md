@@ -3,9 +3,9 @@ title: "Section 225a - Definitions"
 usc_title: 24
 usc_section: "225a"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "24 U.S.C. § 225a"
-generated_at: "2026-03-30T03:29:53.510Z"
+generated_at: "2026-03-30T03:34:10.676Z"
 status: "active"
 ---
 

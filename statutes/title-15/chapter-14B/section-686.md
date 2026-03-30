@@ -3,9 +3,9 @@ title: "Section 686 - Aggregate limitations on amount of assistance to any singl
 usc_title: 15
 usc_section: "686"
 chapter: 14
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "15 U.S.C. § 686"
-generated_at: "2026-03-30T03:29:35.844Z"
+generated_at: "2026-03-30T03:33:43.809Z"
 status: "active"
 ---
 

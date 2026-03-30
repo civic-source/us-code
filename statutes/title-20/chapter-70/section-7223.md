@@ -3,9 +3,9 @@ title: "Section 7223 - Purpose"
 usc_title: 20
 usc_section: "7223"
 chapter: 70
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 7223"
-generated_at: "2026-03-30T03:29:44.045Z"
+generated_at: "2026-03-30T03:34:04.288Z"
 status: "active"
 ---
 

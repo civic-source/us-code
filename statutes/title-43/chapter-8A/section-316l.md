@@ -3,9 +3,9 @@ title: "Section 316l - Stock driveways and free grazing"
 usc_title: 43
 usc_section: "316l"
 chapter: 8
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "43 U.S.C. § 316l"
-generated_at: "2026-03-30T03:31:00.896Z"
+generated_at: "2026-03-30T03:35:05.921Z"
 status: "active"
 ---
 

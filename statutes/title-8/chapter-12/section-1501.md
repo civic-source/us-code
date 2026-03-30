@@ -3,9 +3,9 @@ title: "Section 1501 - Certificate of diplomatic or consular officer of United S
 usc_title: 8
 usc_section: "1501"
 chapter: 12
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "8 U.S.C. § 1501"
-generated_at: "2026-03-30T03:29:20.145Z"
+generated_at: "2026-03-30T03:33:33.992Z"
 status: "active"
 ---
 

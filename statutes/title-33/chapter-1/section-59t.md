@@ -3,9 +3,9 @@ title: "Section 59t - Burnham Canal, Milwaukee, Wisconsin"
 usc_title: 33
 usc_section: "59t"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "33 U.S.C. § 59t"
-generated_at: "2026-03-30T03:30:27.973Z"
+generated_at: "2026-03-30T03:34:36.891Z"
 status: "active"
 ---
 

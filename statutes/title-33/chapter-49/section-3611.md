@@ -3,9 +3,9 @@ title: "Section 3611 - Assessing and modeling named storms over coastal States"
 usc_title: 33
 usc_section: "3611"
 chapter: 49
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "33 U.S.C. § 3611"
-generated_at: "2026-03-30T03:30:28.035Z"
+generated_at: "2026-03-30T03:34:36.956Z"
 status: "active"
 ---
 
@@ -34,8 +34,8 @@ status: "active"
     - **(C)** Not later than 90 days after an identification of a named storm is made under subparagraph (A), the Administrator shall submit to the Secretary of Homeland Security the post-storm assessment developed for such storm under subparagraph (B).
   - **(3)** The Administrator shall ensure, to the greatest extent practicable, that each post-storm assessment developed under paragraph (2) has a degree of accuracy of not less than 90 percent.
   - **(4)** For each post-storm assessment carried out under paragraph (2), the Administrator shall—
-    - **(A)**
-    - **(B)**
+    - **(A)** certify the degree of accuracy for such assessment, including specific reference to any segments or geographic areas for which the assessment is less than 90 percent accurate; and
+    - **(B)** report such certification to the Secretary of Homeland Security for the purposes of use with indeterminate loss claims under section 4057 of title 42 .
   - **(5)** A certification of the degree of accuracy of a post-storm assessment under this subsection by the Administrator shall be final and shall not be subject to judicial review.
   - **(6)** The Administrator shall make available to the public the Named Storm Event Model and any post-storm assessment developed under this subsection.
 - **(c)**
@@ -56,8 +56,8 @@ status: "active"
   - **(6)** The Administrator shall give priority in the acquisition for and deployment of sensors under the protocol required by paragraph (1) to areas of coastal States that have the highest risk of being harmed by named storms.
 - **(d)**
   - **(1)** Not later than 180 days after July 6, 2012 , the Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology—
-    - **(A)**
-    - **(B)**
+    - **(A)** carry out a survey to identify all Federal and State efforts and systems that are capable of collecting covered data; and
+    - **(B)** consult with private and academic sector entities to identify domestic private and academic systems that are capable of collecting covered data.
   - **(2)** The Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology and individuals and entities consulted under subsection (e)(3), assess the systems identified under paragraph (1) and identify which systems meet the needs of the National Oceanic and Atmospheric Administration for the collection of covered data, including with respect to the accuracy requirement for post-storm assessment under subsection (b)(3).
   - **(3)** Not later than 270 days after July 6, 2012 , the Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology, submit to Congress a plan for the collection of covered data necessary to develop the Named Storm Event Model and post-storm assessment required by subsection (b) that addresses any gaps identified in paragraph (2).
 - **(e)**

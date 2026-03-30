@@ -3,9 +3,9 @@ title: "Section 2115 - Graduates: limitation on number permitted to perform civi
 usc_title: 10
 usc_section: "2115"
 chapter: 104
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 2115"
-generated_at: "2026-03-30T03:29:26.502Z"
+generated_at: "2026-03-30T03:33:32.961Z"
 status: "active"
 ---
 

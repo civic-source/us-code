@@ -3,9 +3,9 @@ title: "Section 60502 - Discriminating duty on goods imported in foreign vessels
 usc_title: 46
 usc_section: "60502"
 chapter: 605
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "46 U.S.C. § 60502"
-generated_at: "2026-03-30T03:32:19.131Z"
+generated_at: "2026-03-30T03:35:34.228Z"
 status: "active"
 ---
 

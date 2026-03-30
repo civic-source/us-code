@@ -3,9 +3,9 @@ title: "Section 1525 - Assistance for facilities subject to inspection under Che
 usc_title: 50
 usc_section: "1525"
 chapter: 32
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "50 U.S.C. § 1525"
-generated_at: "2026-03-30T03:32:35.894Z"
+generated_at: "2026-03-30T03:35:33.512Z"
 status: "active"
 ---
 

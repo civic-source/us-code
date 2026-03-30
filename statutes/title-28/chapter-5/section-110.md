@@ -3,9 +3,9 @@ title: "Section 110 - New Jersey"
 usc_title: 28
 usc_section: "110"
 chapter: 5
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "28 U.S.C. § 110"
-generated_at: "2026-03-30T03:30:13.232Z"
+generated_at: "2026-03-30T03:34:25.065Z"
 status: "active"
 ---
 

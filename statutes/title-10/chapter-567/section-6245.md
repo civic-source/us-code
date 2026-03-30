@@ -3,9 +3,9 @@ title: "Section 6245 - Distinguished flying cross"
 usc_title: 10
 usc_section: "6245"
 chapter: 567
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 6245"
-generated_at: "2026-03-30T03:29:26.551Z"
+generated_at: "2026-03-30T03:33:33.052Z"
 status: "active"
 ---
 

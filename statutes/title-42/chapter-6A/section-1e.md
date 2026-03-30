@@ -3,9 +3,9 @@ title: "Section 1e - Study on traumatic brain injury"
 usc_title: 42
 usc_section: "1e"
 chapter: 6
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 1e"
-generated_at: "2026-03-30T03:32:06.279Z"
+generated_at: "2026-03-30T03:35:28.670Z"
 status: "active"
 ---
 

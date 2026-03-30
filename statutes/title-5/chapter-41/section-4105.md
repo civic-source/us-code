@@ -3,9 +3,9 @@ title: "Section 4105 - Non-Government facilities; use of"
 usc_title: 5
 usc_section: "4105"
 chapter: 41
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "5 U.S.C. § 4105"
-generated_at: "2026-03-30T03:29:17.168Z"
+generated_at: "2026-03-30T03:33:07.155Z"
 status: "active"
 ---
 

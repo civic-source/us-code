@@ -3,9 +3,9 @@ title: "Section 140 - Adjournment"
 usc_title: 28
 usc_section: "140"
 chapter: 5
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "28 U.S.C. § 140"
-generated_at: "2026-03-30T03:30:13.233Z"
+generated_at: "2026-03-30T03:34:25.067Z"
 status: "active"
 ---
 

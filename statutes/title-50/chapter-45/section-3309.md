@@ -3,9 +3,9 @@ title: "Section 3309 - Annual report on advisory committees"
 usc_title: 50
 usc_section: "3309"
 chapter: 45
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "50 U.S.C. § 3309"
-generated_at: "2026-03-30T03:32:35.929Z"
+generated_at: "2026-03-30T03:35:33.547Z"
 status: "active"
 ---
 

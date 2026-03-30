@@ -3,9 +3,9 @@ title: "Section 5602 - Purposes"
 usc_title: 42
 usc_section: "5602"
 chapter: 72
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 5602"
-generated_at: "2026-03-30T03:32:06.670Z"
+generated_at: "2026-03-30T03:35:29.132Z"
 status: "active"
 ---
 

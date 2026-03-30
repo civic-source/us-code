@@ -3,9 +3,9 @@ title: "Section 12311 - Active duty agreements"
 usc_title: 10
 usc_section: "12311"
 chapter: 1209
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 12311"
-generated_at: "2026-03-30T03:29:26.571Z"
+generated_at: "2026-03-30T03:33:33.091Z"
 status: "active"
 ---
 

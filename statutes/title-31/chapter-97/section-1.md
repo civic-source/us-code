@@ -3,9 +3,9 @@ title: "Section 1 - Department of the Treasury Forfeiture Fund"
 usc_title: 31
 usc_section: "1"
 chapter: 97
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "31 U.S.C. § 1"
-generated_at: "2026-03-30T03:30:24.817Z"
+generated_at: "2026-03-30T03:34:46.907Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12214 - Officers; Air Force Reserve: transfer from Air National 
 usc_title: 10
 usc_section: "12214"
 chapter: 1205
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 12214"
-generated_at: "2026-03-30T03:29:26.570Z"
+generated_at: "2026-03-30T03:33:33.090Z"
 status: "active"
 ---
 

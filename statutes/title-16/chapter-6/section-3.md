@@ -3,9 +3,9 @@ title: "Section 3 - The Valles Caldera National Preserve"
 usc_title: 16
 usc_section: "3"
 chapter: 6
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T03:29:46.296Z"
+generated_at: "2026-03-30T03:33:55.102Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12007 - No antitrust immunity or defenses"
 usc_title: 42
 usc_section: "12007"
 chapter: 125
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 12007"
-generated_at: "2026-03-30T03:32:06.819Z"
+generated_at: "2026-03-30T03:35:29.309Z"
 status: "active"
 ---
 

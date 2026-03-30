@@ -3,9 +3,9 @@ title: "Section 685 - Long-term loans to small-business concerns"
 usc_title: 15
 usc_section: "685"
 chapter: 14
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "15 U.S.C. § 685"
-generated_at: "2026-03-30T03:29:35.843Z"
+generated_at: "2026-03-30T03:33:43.809Z"
 status: "active"
 ---
 

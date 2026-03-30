@@ -3,9 +3,9 @@ title: "Section 220505 - Powers"
 usc_title: 36
 usc_section: "220505"
 chapter: 2205
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "36 U.S.C. § 220505"
-generated_at: "2026-03-30T03:30:37.033Z"
+generated_at: "2026-03-30T03:34:49.246Z"
 status: "active"
 ---
 

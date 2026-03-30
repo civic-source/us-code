@@ -3,9 +3,9 @@ title: "Section 233 - Civil actions or proceedings against commissioned officers
 usc_title: 42
 usc_section: "233"
 chapter: 6
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 233"
-generated_at: "2026-03-30T03:32:06.245Z"
+generated_at: "2026-03-30T03:35:28.634Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
   - **(1)** Not later than one year after December 26, 1995 , the Comptroller General of the United States shall submit to the Congress a report on the following:
     - **(A)** The medical malpractice liability claims experience of entities that have been deemed to be employees for purposes of this section.
     - **(B)** The risk exposure of such entities.
-    - **(C)** The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254b, or 256a of this title. 4 4 See References in Text notes below.
+    - **(C)** The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254b, or 256a of this title. 1
     - **(D)** A comparison of the costs and the benefits to taxpayers of maintaining medical malpractice liability coverage for such entities pursuant to this section, taking into account—
       - **(i)** a comparison of the costs of premiums paid by such entities for private medical malpractice liability insurance with the cost of coverage pursuant to this section; and
       - **(ii)** an analysis of whether the cost of premiums for private medical malpractice liability insurance coverage is consistent with the liability claims experience of such entities.
@@ -195,7 +195,7 @@ status: "active"
       - **(iv)** a State, a political subdivision of a State, or an agency or official of a State or of such a political subdivision, if such State, subdivision, agency, or official has established requirements, provided policy guidance, supplied technical or scientific advice or assistance, or otherwise supervised or administered a program with respect to administration of such countermeasures;
       - **(v)** in the case of a claim arising out of alleged transmission of vaccinia from an individual—
         - **(I)** the individual who allegedly transmitted the vaccinia, if vaccinia vaccine was administered to such individual as provided by paragraph (2)(B) and such individual was within a category of individuals covered by a declaration under paragraph (2)(A)(i); or
-        - **(II)** an entity that employs an individual described by clause (I) 5 5 So in original. Probably should be “subclause”. or where such individual has privileges or is otherwise authorized to provide health care;
+        - **(II)** an entity that employs an individual described by clause (I) 4 4 So in original. Probably should be “subclause”. or where such individual has privileges or is otherwise authorized to provide health care;
       - **(vi)** an official, agent, or employee of a person described in clause (i), (ii), (iii), or (iv);
       - **(vii)** a contractor of, or a volunteer working for, a person described in clause (i), (ii), or (iv), if the contractor or volunteer performs a function for which a person described in clause (i), (ii), or (iv) is a covered person; or
       - **(viii)** an individual who has privileges or is otherwise authorized to provide health care under the auspices of an entity described in clause (ii) or (v)(II).

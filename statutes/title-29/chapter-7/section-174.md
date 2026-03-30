@@ -3,9 +3,9 @@ title: "Section 174 - Co-equal obligations of employees, their representatives, 
 usc_title: 29
 usc_section: "174"
 chapter: 7
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "29 U.S.C. § 174"
-generated_at: "2026-03-30T03:30:09.729Z"
+generated_at: "2026-03-30T03:34:33.857Z"
 status: "active"
 ---
 

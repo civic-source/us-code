@@ -3,9 +3,9 @@ title: "Section 81u - Right to alter, amend, or repeal chapter"
 usc_title: 19
 usc_section: "81u"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "19 U.S.C. § 81u"
-generated_at: "2026-03-30T03:29:40.710Z"
+generated_at: "2026-03-30T03:34:07.361Z"
 status: "active"
 ---
 

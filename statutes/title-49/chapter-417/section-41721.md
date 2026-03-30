@@ -3,9 +3,9 @@ title: "Section 41721 - Reports by carriers on incidents involving animals durin
 usc_title: 49
 usc_section: "41721"
 chapter: 417
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "49 U.S.C. § 41721"
-generated_at: "2026-03-30T03:32:48.428Z"
+generated_at: "2026-03-30T03:35:36.203Z"
 status: "active"
 ---
 

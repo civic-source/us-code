@@ -3,9 +3,9 @@ title: "Section 961 - Adjustments to basis of stock in controlled foreign corpor
 usc_title: 26
 usc_section: "961"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 961"
-generated_at: "2026-03-30T03:30:21.665Z"
+generated_at: "2026-03-30T03:34:31.346Z"
 status: "active"
 ---
 

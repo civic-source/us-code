@@ -3,9 +3,9 @@ title: "Section 5847 - Effect on other laws"
 usc_title: 26
 usc_section: "5847"
 chapter: 53
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 5847"
-generated_at: "2026-03-30T03:30:21.730Z"
+generated_at: "2026-03-30T03:34:31.419Z"
 status: "active"
 ---
 

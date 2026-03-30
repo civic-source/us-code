@@ -3,9 +3,9 @@ title: "Section 2771 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2771"
 chapter: 34
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 2771"
-generated_at: "2026-03-30T03:32:06.604Z"
+generated_at: "2026-03-30T03:35:29.054Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 191to200 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 99
 usc_title: 22
 usc_section: "191to200"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 191to200"
-generated_at: "2026-03-30T03:29:52.625Z"
+generated_at: "2026-03-30T03:34:15.048Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101to106 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 86
 usc_title: 50
 usc_section: "101to106"
 chapter: 6
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "50 U.S.C. § 101to106"
-generated_at: "2026-03-30T03:32:35.887Z"
+generated_at: "2026-03-30T03:35:33.507Z"
 status: "repealed"
 ---
 

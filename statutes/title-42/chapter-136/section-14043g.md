@@ -3,9 +3,9 @@ title: "Section 14043g - Sexual assault services program"
 usc_title: 42
 usc_section: "14043g"
 chapter: 136
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 14043g"
-generated_at: "2026-03-30T03:32:06.865Z"
+generated_at: "2026-03-30T03:35:29.368Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2354 - Procurement"
 usc_title: 22
 usc_section: "2354"
 chapter: 32
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 2354"
-generated_at: "2026-03-30T03:29:52.674Z"
+generated_at: "2026-03-30T03:34:15.099Z"
 status: "active"
 ---
 

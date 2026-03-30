@@ -3,9 +3,9 @@ title: "Section 4836 - Repealed. Pub. L. 110–181, div. A, title III, § 375(c)
 usc_title: 10
 usc_section: "4836"
 chapter: 453
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 4836"
-generated_at: "2026-03-30T03:29:26.547Z"
+generated_at: "2026-03-30T03:33:33.044Z"
 status: "repealed"
 ---
 

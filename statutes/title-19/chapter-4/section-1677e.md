@@ -3,9 +3,9 @@ title: "Section 1677e - Determinations on basis of facts available"
 usc_title: 19
 usc_section: "1677e"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "19 U.S.C. § 1677e"
-generated_at: "2026-03-30T03:29:40.733Z"
+generated_at: "2026-03-30T03:34:07.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41306 - Simplified procedure to apply for, amend, modify, and su
 usc_title: 49
 usc_section: "41306"
 chapter: 413
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "49 U.S.C. § 41306"
-generated_at: "2026-03-30T03:32:48.425Z"
+generated_at: "2026-03-30T03:35:36.200Z"
 status: "active"
 ---
 

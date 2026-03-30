@@ -3,9 +3,9 @@ title: "Section 70913 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "70913"
 chapter: 709
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "36 U.S.C. § 70913"
-generated_at: "2026-03-30T03:30:37.023Z"
+generated_at: "2026-03-30T03:34:49.235Z"
 status: "active"
 ---
 

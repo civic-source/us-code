@@ -3,9 +3,9 @@ title: "Section 4053 - Adjustment and payment of claims; judicial review; limita
 usc_title: 42
 usc_section: "4053"
 chapter: 50
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 4053"
-generated_at: "2026-03-30T03:32:06.640Z"
+generated_at: "2026-03-30T03:35:29.097Z"
 status: "active"
 ---
 

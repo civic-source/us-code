@@ -3,9 +3,9 @@ title: "Section 5407 - Nature of payment"
 usc_title: 5
 usc_section: "5407"
 chapter: 54
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "5 U.S.C. § 5407"
-generated_at: "2026-03-30T03:29:17.174Z"
+generated_at: "2026-03-30T03:33:07.161Z"
 status: "active"
 ---
 

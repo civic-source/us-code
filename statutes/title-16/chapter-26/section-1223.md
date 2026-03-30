@@ -3,9 +3,9 @@ title: "Section 1223 - Agreements with States and subdivisions; equitable sharin
 usc_title: 16
 usc_section: "1223"
 chapter: 26
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 1223"
-generated_at: "2026-03-30T03:29:46.326Z"
+generated_at: "2026-03-30T03:33:55.137Z"
 status: "active"
 ---
 

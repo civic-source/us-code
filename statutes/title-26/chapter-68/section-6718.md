@@ -3,9 +3,9 @@ title: "Section 6718 - Failure to display tax registration on vessels"
 usc_title: 26
 usc_section: "6718"
 chapter: 68
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 6718"
-generated_at: "2026-03-30T03:30:21.761Z"
+generated_at: "2026-03-30T03:34:31.449Z"
 status: "active"
 ---
 

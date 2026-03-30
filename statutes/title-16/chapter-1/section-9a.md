@@ -3,9 +3,9 @@ title: "Section 9a - Government of parks, etc.; violation of regulations as misd
 usc_title: 16
 usc_section: "9a"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 9a"
-generated_at: "2026-03-30T03:29:46.182Z"
+generated_at: "2026-03-30T03:33:54.980Z"
 status: "active"
 ---
 

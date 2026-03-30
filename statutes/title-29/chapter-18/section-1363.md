@@ -3,9 +3,9 @@ title: "Section 1363 - Liability of substantial employer for withdrawal from sin
 usc_title: 29
 usc_section: "1363"
 chapter: 18
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "29 U.S.C. § 1363"
-generated_at: "2026-03-30T03:30:09.766Z"
+generated_at: "2026-03-30T03:34:33.902Z"
 status: "active"
 ---
 

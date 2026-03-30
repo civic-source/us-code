@@ -3,9 +3,9 @@ title: "Section 1910 - Civil actions for just compensation by mining claim holde
 usc_title: 16
 usc_section: "1910"
 chapter: 39
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 1910"
-generated_at: "2026-03-30T03:29:46.359Z"
+generated_at: "2026-03-30T03:33:55.172Z"
 status: "active"
 ---
 

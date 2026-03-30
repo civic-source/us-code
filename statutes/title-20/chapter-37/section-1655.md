@@ -3,9 +3,9 @@ title: "Section 1655 - Uniform rules of evidence of racial discrimination"
 usc_title: 20
 usc_section: "1655"
 chapter: 37
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 1655"
-generated_at: "2026-03-30T03:29:44.002Z"
+generated_at: "2026-03-30T03:34:04.241Z"
 status: "active"
 ---
 

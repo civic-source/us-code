@@ -3,9 +3,9 @@ title: "Section 8 - Cyber-enabled learning for national challenges"
 usc_title: 42
 usc_section: "8"
 chapter: 16
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T03:32:06.569Z"
+generated_at: "2026-03-30T03:35:29.012Z"
 status: "active"
 ---
 

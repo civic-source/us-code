@@ -3,9 +3,9 @@ title: "Section 4821to4823 - Repealed. Pub. L. 103–382, title III, § 365 , Oc
 usc_title: 20
 usc_section: "4821to4823"
 chapter: 60
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 4821to4823"
-generated_at: "2026-03-30T03:29:44.017Z"
+generated_at: "2026-03-30T03:34:04.258Z"
 status: "repealed"
 ---
 

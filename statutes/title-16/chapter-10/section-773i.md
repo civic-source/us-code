@@ -3,9 +3,9 @@ title: "Section 773i - Administration and enforcement"
 usc_title: 16
 usc_section: "773i"
 chapter: 10
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 773i"
-generated_at: "2026-03-30T03:29:46.301Z"
+generated_at: "2026-03-30T03:33:55.108Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12565 - Study and report"
 usc_title: 42
 usc_section: "12565"
 chapter: 129
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 12565"
-generated_at: "2026-03-30T03:32:06.826Z"
+generated_at: "2026-03-30T03:35:29.318Z"
 status: "active"
 ---
 

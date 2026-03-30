@@ -3,9 +3,9 @@ title: "Section 4031to4037 - Repealed. Pub. L. 100–297, title II, § 2303 , Ap
 usc_title: 20
 usc_section: "4031to4037"
 chapter: 52
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 4031to4037"
-generated_at: "2026-03-30T03:29:44.014Z"
+generated_at: "2026-03-30T03:34:04.254Z"
 status: "repealed"
 ---
 

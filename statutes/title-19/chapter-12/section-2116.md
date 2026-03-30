@@ -3,9 +3,9 @@ title: "Section 2116 - Agreements with developing countries"
 usc_title: 19
 usc_section: "2116"
 chapter: 12
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "19 U.S.C. § 2116"
-generated_at: "2026-03-30T03:29:40.739Z"
+generated_at: "2026-03-30T03:34:07.390Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31109 - Performance and registration information system manageme
 usc_title: 49
 usc_section: "31109"
 chapter: 311
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "49 U.S.C. § 31109"
-generated_at: "2026-03-30T03:32:48.406Z"
+generated_at: "2026-03-30T03:35:36.182Z"
 status: "active"
 ---
 

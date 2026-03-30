@@ -3,9 +3,9 @@ title: "Section 4767 - Termination of grants"
 usc_title: 42
 usc_section: "4767"
 chapter: 62
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 4767"
-generated_at: "2026-03-30T03:32:06.648Z"
+generated_at: "2026-03-30T03:35:29.106Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5001 - Definitions"
 usc_title: 10
 usc_section: "5001"
 chapter: 501
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 5001"
-generated_at: "2026-03-30T03:29:26.547Z"
+generated_at: "2026-03-30T03:33:33.044Z"
 status: "active"
 ---
 

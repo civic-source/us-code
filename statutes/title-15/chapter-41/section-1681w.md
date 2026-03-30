@@ -3,9 +3,9 @@ title: "Section 1681w - Disposal of records"
 usc_title: 15
 usc_section: "1681w"
 chapter: 41
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "15 U.S.C. § 1681w"
-generated_at: "2026-03-30T03:29:35.886Z"
+generated_at: "2026-03-30T03:33:43.851Z"
 status: "active"
 ---
 

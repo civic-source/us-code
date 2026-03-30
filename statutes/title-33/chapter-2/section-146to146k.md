@@ -3,9 +3,9 @@ title: "Section 146to146k - Repealed. Pub. L. 88–131, § 3 , Sept. 24, 1963 , 
 usc_title: 33
 usc_section: "146to146k"
 chapter: 2
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "33 U.S.C. § 146to146k"
-generated_at: "2026-03-30T03:30:27.975Z"
+generated_at: "2026-03-30T03:34:36.892Z"
 status: "repealed"
 ---
 

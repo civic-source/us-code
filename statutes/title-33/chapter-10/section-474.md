@@ -3,13 +3,13 @@ title: "Section 474 - Anchorage and general regulations for St. Marys River"
 usc_title: 33
 usc_section: "474"
 chapter: 10
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "33 U.S.C. § 474"
-generated_at: "2026-03-30T03:30:27.979Z"
+generated_at: "2026-03-30T03:34:36.896Z"
 status: "active"
 ---
 
 # § 474. Anchorage and general regulations for St. Marys River
 
-The Commandant of the Coast Guard is authorized and directed to adopt and prescribe suitable rules and regulations governing the movements and anchorage of vessels and rafts in Saint Marys River from Point Iroquois, on Lake Superior, to Point Detour, on Lake Huron, and for the purpose of enforcing the observance of such regulations the Secretary of Transportation is authorized to detail one or more Coast Guard vessels for duty upon the request of the Commandant of the Coast Guard on said river. All officers of the Coast Guard who are directed to enforce the regulations prescribed by the above rules are empowered and directed, in case of necessity, or when a proper notice has been disregarded, to use the force at their command to remove from channels or stop any vessel found violating the prescribed rules. In the event of the violation of any such regulations or rules of the Commandant of the Coast Guard by the owners, master, or person in charge of such vessel, such owners, master, or person in charge shall be liable to a penalty not exceeding $200: Provided , That the Commandant of the Coast Guard may remit said fine on such terms as he may prescribe: Provided also , That nothing in this section shall be construed to amend or repeal chapter 1 1 See References in Text note below. 4 of this title.
+The Commandant of the Coast Guard is authorized and directed to adopt and prescribe suitable rules and regulations governing the movements and anchorage of vessels and rafts in Saint Marys River from Point Iroquois, on Lake Superior, to Point Detour, on Lake Huron, and for the purpose of enforcing the observance of such regulations the Secretary of Transportation is authorized to detail one or more Coast Guard vessels for duty upon the request of the Commandant of the Coast Guard on said river. All officers of the Coast Guard who are directed to enforce the regulations prescribed by the above rules are empowered and directed, in case of necessity, or when a proper notice has been disregarded, to use the force at their command to remove from channels or stop any vessel found violating the prescribed rules. In the event of the violation of any such regulations or rules of the Commandant of the Coast Guard by the owners, master, or person in charge of such vessel, such owners, master, or person in charge shall be liable to a penalty not exceeding $200: Provided , That the Commandant of the Coast Guard may remit said fine on such terms as he may prescribe: Provided also , That nothing in this section shall be construed to amend or repeal chapter 4 1 1 See References in Text note below. of this title.
 

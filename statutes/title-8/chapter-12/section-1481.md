@@ -3,9 +3,9 @@ title: "Section 1481 - Loss of nationality by native-born or naturalized citizen
 usc_title: 8
 usc_section: "1481"
 chapter: 12
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "8 U.S.C. § 1481"
-generated_at: "2026-03-30T03:29:20.145Z"
+generated_at: "2026-03-30T03:33:33.992Z"
 status: "active"
 ---
 

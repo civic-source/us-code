@@ -3,9 +3,9 @@ title: "Section 3483 - Indigent defendants, process to produce evidence—(Rule)
 usc_title: 18
 usc_section: "3483"
 chapter: 223
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "18 U.S.C. § 3483"
-generated_at: "2026-03-30T03:29:39.042Z"
+generated_at: "2026-03-30T03:34:08.329Z"
 status: "active"
 ---
 

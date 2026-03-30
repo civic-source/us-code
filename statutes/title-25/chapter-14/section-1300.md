@@ -3,9 +3,9 @@ title: "Section 1300 - Distribution of funds; attorney fees and expenses"
 usc_title: 25
 usc_section: "1300"
 chapter: 14
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "25 U.S.C. § 1300"
-generated_at: "2026-03-30T03:30:06.909Z"
+generated_at: "2026-03-30T03:34:13.448Z"
 status: "active"
 ---
 

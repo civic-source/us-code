@@ -3,9 +3,9 @@ title: "Section 6305 - Collection of certain liability"
 usc_title: 26
 usc_section: "6305"
 chapter: 64
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 6305"
-generated_at: "2026-03-30T03:30:21.748Z"
+generated_at: "2026-03-30T03:34:31.436Z"
 status: "active"
 ---
 

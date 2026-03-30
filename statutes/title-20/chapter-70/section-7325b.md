@@ -3,9 +3,9 @@ title: "Section 7325b - Technical assistance"
 usc_title: 20
 usc_section: "7325b"
 chapter: 70
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 7325b"
-generated_at: "2026-03-30T03:29:44.052Z"
+generated_at: "2026-03-30T03:34:04.296Z"
 status: "active"
 ---
 

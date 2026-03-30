@@ -3,9 +3,9 @@ title: "Section 3723to3725 - Repealed. Pub. L. 105–368, title VI, § 602(a)(1)
 usc_title: 38
 usc_section: "3723to3725"
 chapter: 37
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "38 U.S.C. § 3723to3725"
-generated_at: "2026-03-30T03:30:58.229Z"
+generated_at: "2026-03-30T03:34:51.048Z"
 status: "repealed"
 ---
 

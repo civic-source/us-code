@@ -3,9 +3,9 @@ title: "Section 677 - Inclosure of Norbeck Wildlife Preserve"
 usc_title: 16
 usc_section: "677"
 chapter: 6
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 677"
-generated_at: "2026-03-30T03:29:46.292Z"
+generated_at: "2026-03-30T03:33:55.098Z"
 status: "active"
 ---
 

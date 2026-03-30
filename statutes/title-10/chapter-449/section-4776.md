@@ -3,9 +3,9 @@ title: "Section 4776 - Emergency construction: fortifications"
 usc_title: 10
 usc_section: "4776"
 chapter: 449
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 4776"
-generated_at: "2026-03-30T03:29:26.546Z"
+generated_at: "2026-03-30T03:33:33.044Z"
 status: "active"
 ---
 

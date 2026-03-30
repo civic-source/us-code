@@ -3,9 +3,9 @@ title: "Section 6121 - General"
 usc_title: 40
 usc_section: "6121"
 chapter: 61
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "40 U.S.C. § 6121"
-generated_at: "2026-03-30T03:30:48.552Z"
+generated_at: "2026-03-30T03:35:02.225Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
   - **(4)** to carry firearms as may be required while performing duties under section 6102 of this title , this subchapter, and subchapter IV.
 - **(b)**
   - **(1)** Duties under subsection (a)(2)(A) with respect to an official guest of the Supreme Court in any State (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice or an Associate Justice, if those duties require the carrying of firearms under subsection (a)(4).
-  - **(2)** The authority provided under subsection (a)(2) expires on December 29, 2013 .
+  - **(2)** The authority provided under subsection (a)(2) expires on December 29, 2019 .

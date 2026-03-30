@@ -3,9 +3,9 @@ title: "Section 2203 - Undertaking of runoff retardation and soil-erosion preven
 usc_title: 16
 usc_section: "2203"
 chapter: 42
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 2203"
-generated_at: "2026-03-30T03:29:46.363Z"
+generated_at: "2026-03-30T03:33:55.175Z"
 status: "active"
 ---
 

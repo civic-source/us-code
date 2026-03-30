@@ -3,9 +3,9 @@ title: "Section 60134 - Preference for private sector land remote sensing system
 usc_title: 51
 usc_section: "60134"
 chapter: 601
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "51 U.S.C. § 60134"
-generated_at: "2026-03-30T03:32:50.382Z"
+generated_at: "2026-03-30T03:35:38.036Z"
 status: "active"
 ---
 

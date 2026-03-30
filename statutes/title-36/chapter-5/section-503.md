@@ -3,9 +3,9 @@ title: "Section 503 - Use of reservations, grounds, and public spaces"
 usc_title: 36
 usc_section: "503"
 chapter: 5
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "36 U.S.C. § 503"
-generated_at: "2026-03-30T03:30:37.014Z"
+generated_at: "2026-03-30T03:34:49.226Z"
 status: "active"
 ---
 

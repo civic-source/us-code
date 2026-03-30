@@ -3,9 +3,9 @@ title: "Section 2585 - Accelerated schedule for environmental restoration and wa
 usc_title: 50
 usc_section: "2585"
 chapter: 42
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "50 U.S.C. § 2585"
-generated_at: "2026-03-30T03:32:35.914Z"
+generated_at: "2026-03-30T03:35:33.532Z"
 status: "active"
 ---
 

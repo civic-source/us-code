@@ -3,9 +3,9 @@ title: "Section 3507 - Definitions"
 usc_title: 33
 usc_section: "3507"
 chapter: 48
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "33 U.S.C. § 3507"
-generated_at: "2026-03-30T03:30:28.035Z"
+generated_at: "2026-03-30T03:34:36.955Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ In this chapter:
   - **(4)** The term “exclusive economic zone” means the exclusive economic zone of the United States established by Presidential Proclamation No. 5030, of March 10, 1983 .
   - **(5)** The term “ocean and coastal mapping” means the acquisition, processing, and management of physical, biological, geological, chemical, and archaeological characteristics and boundaries of ocean and coastal areas, resources, and sea beds through the use of acoustics, satellites, aerial photogrammetry, light and imaging, direct sampling, and other mapping technologies.
   - **(6)** The term “territorial sea” means the belt of sea measured from the baseline of the United States determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988 .
-  - **(7)** The term “nongovernmental entities” includes nongovernmental organizations, members of the academic community, and private sector organizations that provide products and services associated with measuring, locating, and preparing maps, charts, surveys, aerial photographs, satellite imagines, or other graphical or digital presentations depicting natural or manmade physical features, phenomena, and legal boundaries of the Earth.
+  - **(7)** The term “nongovernmental entities” includes nongovernmental organizations, members of the academic community, and private sector organizations that provide products and services associated with measuring, locating, and preparing maps, charts, surveys, aerial photographs, satellite imagines, 2 2 So in original. Probably should be “images,”. or other graphical or digital presentations depicting natural or manmade physical features, phenomena, and legal boundaries of the Earth.
   - **(8)** The term “Outer Continental Shelf” means all submerged lands lying seaward and outside of lands beneath navigable waters (as that term is defined in section 1301 of title 43 ), and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.

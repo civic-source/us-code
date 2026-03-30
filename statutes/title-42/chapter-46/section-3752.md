@@ -3,9 +3,9 @@ title: "Section 3752 - Applications"
 usc_title: 42
 usc_section: "3752"
 chapter: 46
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 3752"
-generated_at: "2026-03-30T03:32:06.628Z"
+generated_at: "2026-03-30T03:35:29.081Z"
 status: "active"
 ---
 

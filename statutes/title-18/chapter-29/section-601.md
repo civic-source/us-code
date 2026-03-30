@@ -3,9 +3,9 @@ title: "Section 601 - Deprivation of employment or other benefit for political c
 usc_title: 18
 usc_section: "601"
 chapter: 29
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "18 U.S.C. § 601"
-generated_at: "2026-03-30T03:29:39.004Z"
+generated_at: "2026-03-30T03:34:08.291Z"
 status: "active"
 ---
 

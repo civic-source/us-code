@@ -3,9 +3,9 @@ title: "Section 2898 - Special provisions"
 usc_title: 29
 usc_section: "2898"
 chapter: 30
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "29 U.S.C. § 2898"
-generated_at: "2026-03-30T03:30:09.780Z"
+generated_at: "2026-03-30T03:34:33.918Z"
 status: "active"
 ---
 

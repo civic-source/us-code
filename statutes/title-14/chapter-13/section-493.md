@@ -3,9 +3,9 @@ title: "Section 493 - Coast Guard medal"
 usc_title: 14
 usc_section: "493"
 chapter: 13
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "14 U.S.C. § 493"
-generated_at: "2026-03-30T03:29:29.413Z"
+generated_at: "2026-03-30T03:33:49.160Z"
 status: "active"
 ---
 

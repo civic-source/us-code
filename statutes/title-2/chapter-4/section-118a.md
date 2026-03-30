@@ -3,9 +3,9 @@ title: "Section 118a - Officers of Senate"
 usc_title: 2
 usc_section: "118a"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 118a"
-generated_at: "2026-03-30T03:29:15.690Z"
+generated_at: "2026-03-30T03:33:16.298Z"
 status: "active"
 ---
 

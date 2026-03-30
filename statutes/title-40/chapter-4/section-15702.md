@@ -3,9 +3,9 @@ title: "Section 15702 - Distressed counties and areas"
 usc_title: 40
 usc_section: "15702"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "40 U.S.C. § 15702"
-generated_at: "2026-03-30T03:30:48.560Z"
+generated_at: "2026-03-30T03:35:02.235Z"
 status: "active"
 ---
 

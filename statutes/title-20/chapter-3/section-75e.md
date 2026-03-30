@@ -3,9 +3,9 @@ title: "Section 75e - Powers of Board"
 usc_title: 20
 usc_section: "75e"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "20 U.S.C. § 75e"
-generated_at: "2026-03-30T03:29:43.923Z"
+generated_at: "2026-03-30T03:34:04.155Z"
 status: "active"
 ---
 

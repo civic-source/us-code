@@ -3,9 +3,9 @@ title: "Section 1973i - Prohibited acts"
 usc_title: 42
 usc_section: "1973i"
 chapter: 20
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 1973i"
-generated_at: "2026-03-30T03:32:06.574Z"
+generated_at: "2026-03-30T03:35:29.019Z"
 status: "active"
 ---
 

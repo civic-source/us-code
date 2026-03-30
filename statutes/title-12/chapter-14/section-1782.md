@@ -3,9 +3,9 @@ title: "Section 1782 - Administration of insurance fund"
 usc_title: 12
 usc_section: "1782"
 chapter: 14
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 1782"
-generated_at: "2026-03-30T03:29:34.091Z"
+generated_at: "2026-03-30T03:33:47.341Z"
 status: "active"
 ---
 
@@ -65,7 +65,7 @@ status: "active"
     - **(B)** The Board may assess a premium charge only if—
       - **(i)** the Fund’s equity ratio is less than 1.3 percent; and
       - **(ii)** the premium charge does not exceed the amount necessary to restore the equity ratio to 1.3 percent.
-    - **(C)** 2 percent .—If the Fund’s equity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
+    - **(C)** If the Fund’s equity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
     - **(D)**
       - **(i)** Whenever—
         - **(I)** the Board projects that the equity ratio of the Fund will, within 6 months of such determination, fall below the minimum amount specified in subparagraph (C); or
@@ -80,7 +80,7 @@ status: "active"
     - **(B)** The Board shall distribute under subparagraph (A) the maximum possible amount that—
       - **(i)** does not reduce the Fund’s equity ratio below the normal operating level; and
       - **(ii)** does not reduce the Fund’s available assets ratio below 1.0 percent.
-    - **(C)** In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section of this section for the final reporting period of the calendar year referred to in subparagraph (A).
+    - **(C)** In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section for the final reporting period of the calendar year referred to in subparagraph (A).
   - **(4)** In calculating the available assets ratio and equity ratio of the Fund, the Board shall use the most current and accurate data reasonably available.
 - **(d)**
   - **(1)** Any insured credit union which fails to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by it in connection with determining the amount of its deposit or any premium charge for insurance may be compelled to make such report or to file such statement by mandatory injunction or other appropriate remedy in a suit brought for such purpose by the Board against the credit union and any officer or officers thereof. Any such suit may be brought in any court of the United States of competent jurisdiction in the district or territory in which the principal office of the credit union is located.

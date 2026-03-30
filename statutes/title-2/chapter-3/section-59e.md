@@ -3,9 +3,9 @@ title: "Section 59e - Official mail of persons entitled to use congressional fra
 usc_title: 2
 usc_section: "59e"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 59e"
-generated_at: "2026-03-30T03:29:15.682Z"
+generated_at: "2026-03-30T03:33:16.290Z"
 status: "active"
 ---
 

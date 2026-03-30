@@ -3,9 +3,9 @@ title: "Section 3526 - Cooperation of other Federal agencies and State governmen
 usc_title: 18
 usc_section: "3526"
 chapter: 224
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "18 U.S.C. § 3526"
-generated_at: "2026-03-30T03:29:39.044Z"
+generated_at: "2026-03-30T03:34:08.331Z"
 status: "active"
 ---
 

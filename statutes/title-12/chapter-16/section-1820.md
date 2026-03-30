@@ -3,9 +3,9 @@ title: "Section 1820 - Administration of Corporation"
 usc_title: 12
 usc_section: "1820"
 chapter: 16
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 1820"
-generated_at: "2026-03-30T03:29:34.101Z"
+generated_at: "2026-03-30T03:33:47.352Z"
 status: "active"
 ---
 

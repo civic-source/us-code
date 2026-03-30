@@ -3,9 +3,9 @@ title: "Section 3917 - Thirty years or more: regular enlisted members"
 usc_title: 10
 usc_section: "3917"
 chapter: 367
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 3917"
-generated_at: "2026-03-30T03:29:26.542Z"
+generated_at: "2026-03-30T03:33:33.037Z"
 status: "active"
 ---
 

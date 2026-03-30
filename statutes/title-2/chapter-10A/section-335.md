@@ -3,9 +3,9 @@ title: "Section 335 - Obsolete references in existing law to basic pay rates"
 usc_title: 2
 usc_section: "335"
 chapter: 10
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 335"
-generated_at: "2026-03-30T03:29:15.698Z"
+generated_at: "2026-03-30T03:33:16.307Z"
 status: "active"
 ---
 

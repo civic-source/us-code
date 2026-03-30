@@ -3,9 +3,9 @@ title: "Section 1832to1837 - Repealed. Pub. L. 89–321, title VI, § 601 , Nov.
 usc_title: 7
 usc_section: "1832to1837"
 chapter: 45
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "7 U.S.C. § 1832to1837"
-generated_at: "2026-03-30T03:29:22.918Z"
+generated_at: "2026-03-30T03:33:26.378Z"
 status: "repealed"
 ---
 

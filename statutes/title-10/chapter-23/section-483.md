@@ -3,9 +3,9 @@ title: "Section 483 - Reports on transfers from high-priority readiness appropri
 usc_title: 10
 usc_section: "483"
 chapter: 23
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 483"
-generated_at: "2026-03-30T03:29:26.456Z"
+generated_at: "2026-03-30T03:33:32.880Z"
 status: "active"
 ---
 

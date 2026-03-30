@@ -3,9 +3,9 @@ title: "Section 10141 - Ready Reserve; Standby Reserve; Retired Reserve: placeme
 usc_title: 10
 usc_section: "10141"
 chapter: 1005
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 10141"
-generated_at: "2026-03-30T03:29:26.566Z"
+generated_at: "2026-03-30T03:33:33.083Z"
 status: "active"
 ---
 

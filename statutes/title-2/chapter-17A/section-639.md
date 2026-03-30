@@ -3,9 +3,9 @@ title: "Section 639 - Reports, summaries, and projections of Congressional budge
 usc_title: 2
 usc_section: "639"
 chapter: 17
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 639"
-generated_at: "2026-03-30T03:29:15.705Z"
+generated_at: "2026-03-30T03:33:16.315Z"
 status: "active"
 ---
 

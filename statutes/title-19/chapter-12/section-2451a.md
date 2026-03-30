@@ -3,9 +3,9 @@ title: "Section 2451a - Action in response to trade diversion"
 usc_title: 19
 usc_section: "2451a"
 chapter: 12
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "19 U.S.C. § 2451a"
-generated_at: "2026-03-30T03:29:40.748Z"
+generated_at: "2026-03-30T03:34:07.401Z"
 status: "active"
 ---
 

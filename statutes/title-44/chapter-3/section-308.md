@@ -3,9 +3,9 @@ title: "Section 308 - Disbursing officer; deputy disbursing officer; certifying 
 usc_title: 44
 usc_section: "308"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "44 U.S.C. § 308"
-generated_at: "2026-03-30T03:31:08.337Z"
+generated_at: "2026-03-30T03:35:04.147Z"
 status: "active"
 ---
 

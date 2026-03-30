@@ -3,9 +3,9 @@ title: "Section 6954 - Midshipmen: number"
 usc_title: 10
 usc_section: "6954"
 chapter: 603
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 6954"
-generated_at: "2026-03-30T03:29:26.552Z"
+generated_at: "2026-03-30T03:33:33.055Z"
 status: "active"
 ---
 

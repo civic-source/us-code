@@ -3,9 +3,9 @@ title: "Section 53705 - Pledge of United States Government"
 usc_title: 46
 usc_section: "53705"
 chapter: 537
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "46 U.S.C. § 53705"
-generated_at: "2026-03-30T03:32:19.124Z"
+generated_at: "2026-03-30T03:35:34.223Z"
 status: "active"
 ---
 

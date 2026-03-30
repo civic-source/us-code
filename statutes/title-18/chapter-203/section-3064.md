@@ -3,9 +3,9 @@ title: "Section 3064 - Powers of Federal Motor Carrier Safety Administration"
 usc_title: 18
 usc_section: "3064"
 chapter: 203
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "18 U.S.C. § 3064"
-generated_at: "2026-03-30T03:29:39.038Z"
+generated_at: "2026-03-30T03:34:08.325Z"
 status: "active"
 ---
 

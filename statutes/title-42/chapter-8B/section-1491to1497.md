@@ -3,9 +3,9 @@ title: "Section 1491to1497 - Omitted"
 usc_title: 42
 usc_section: "1491to1497"
 chapter: 8
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 1491to1497"
-generated_at: "2026-03-30T03:32:06.547Z"
+generated_at: "2026-03-30T03:35:28.987Z"
 status: "omitted"
 ---
 

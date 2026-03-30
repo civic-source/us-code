@@ -3,9 +3,9 @@ title: "Section 1103 - Approval of loan guarantees"
 usc_title: 47
 usc_section: "1103"
 chapter: 10
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "47 U.S.C. § 1103"
-generated_at: "2026-03-30T03:32:37.385Z"
+generated_at: "2026-03-30T03:35:32.761Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8425 - Mandatory separation"
 usc_title: 5
 usc_section: "8425"
 chapter: 84
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "5 U.S.C. § 8425"
-generated_at: "2026-03-30T03:29:17.201Z"
+generated_at: "2026-03-30T03:33:07.186Z"
 status: "active"
 ---
 

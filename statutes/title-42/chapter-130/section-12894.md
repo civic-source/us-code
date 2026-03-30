@@ -3,9 +3,9 @@ title: "Section 12894 - Homeownership program requirements"
 usc_title: 42
 usc_section: "12894"
 chapter: 130
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 12894"
-generated_at: "2026-03-30T03:32:06.843Z"
+generated_at: "2026-03-30T03:35:29.340Z"
 status: "active"
 ---
 

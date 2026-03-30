@@ -3,9 +3,9 @@ title: "Section 1108 - Health care coverage through Federal Employees Health Ben
 usc_title: 10
 usc_section: "1108"
 chapter: 55
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 1108"
-generated_at: "2026-03-30T03:29:26.481Z"
+generated_at: "2026-03-30T03:33:32.925Z"
 status: "active"
 ---
 

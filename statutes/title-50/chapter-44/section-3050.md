@@ -3,9 +3,9 @@ title: "Section 3050 - Additional annual reports from the Director of National I
 usc_title: 50
 usc_section: "3050"
 chapter: 44
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "50 U.S.C. § 3050"
-generated_at: "2026-03-30T03:32:35.923Z"
+generated_at: "2026-03-30T03:35:33.541Z"
 status: "active"
 ---
 

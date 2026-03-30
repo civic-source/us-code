@@ -3,9 +3,9 @@ title: "Section 385 - Treatment of certain interests in corporations as stock or
 usc_title: 26
 usc_section: "385"
 chapter: 1
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "26 U.S.C. § 385"
-generated_at: "2026-03-30T03:30:21.595Z"
+generated_at: "2026-03-30T03:34:31.280Z"
 status: "active"
 ---
 

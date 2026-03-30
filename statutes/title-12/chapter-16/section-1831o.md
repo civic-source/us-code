@@ -3,9 +3,9 @@ title: "Section 1831o - Prompt corrective action"
 usc_title: 12
 usc_section: "1831o"
 chapter: 16
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 1831o"
-generated_at: "2026-03-30T03:29:34.112Z"
+generated_at: "2026-03-30T03:33:47.363Z"
 status: "active"
 ---
 

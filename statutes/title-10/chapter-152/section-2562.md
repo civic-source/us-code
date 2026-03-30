@@ -3,9 +3,9 @@ title: "Section 2562 - Limitation on use of excess construction or fire equipmen
 usc_title: 10
 usc_section: "2562"
 chapter: 152
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 2562"
-generated_at: "2026-03-30T03:29:26.527Z"
+generated_at: "2026-03-30T03:33:33.006Z"
 status: "active"
 ---
 

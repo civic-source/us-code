@@ -3,9 +3,9 @@ title: "Section 130h - Support services for House during emergency; memorandum o
 usc_title: 2
 usc_section: "130h"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "2 U.S.C. § 130h"
-generated_at: "2026-03-30T03:29:15.692Z"
+generated_at: "2026-03-30T03:33:16.301Z"
 status: "active"
 ---
 

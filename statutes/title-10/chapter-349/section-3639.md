@@ -3,9 +3,9 @@ title: "Section 3639 - Enlisted members: officers not to use as servants"
 usc_title: 10
 usc_section: "3639"
 chapter: 349
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "10 U.S.C. § 3639"
-generated_at: "2026-03-30T03:29:26.541Z"
+generated_at: "2026-03-30T03:33:33.035Z"
 status: "active"
 ---
 

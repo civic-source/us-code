@@ -3,9 +3,9 @@ title: "Section 249to250f - Transferred"
 usc_title: 22
 usc_section: "249to250f"
 chapter: 5
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "22 U.S.C. § 249to250f"
-generated_at: "2026-03-30T03:29:52.626Z"
+generated_at: "2026-03-30T03:34:15.049Z"
 status: "transferred"
 ---
 

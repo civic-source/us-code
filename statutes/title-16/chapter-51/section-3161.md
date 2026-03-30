@@ -3,9 +3,9 @@ title: "Section 3161 - Congressional declaration of findings"
 usc_title: 16
 usc_section: "3161"
 chapter: 51
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 3161"
-generated_at: "2026-03-30T03:29:46.370Z"
+generated_at: "2026-03-30T03:33:55.183Z"
 status: "active"
 ---
 

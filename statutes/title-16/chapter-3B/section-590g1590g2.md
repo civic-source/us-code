@@ -3,9 +3,9 @@ title: "Section 590g1590g2 - Omitted"
 usc_title: 16
 usc_section: "590g1590g2"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 590g1590g2"
-generated_at: "2026-03-30T03:29:46.284Z"
+generated_at: "2026-03-30T03:33:55.089Z"
 status: "omitted"
 ---
 

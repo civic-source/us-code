@@ -3,9 +3,9 @@ title: "Section 3702 - Definitions"
 usc_title: 12
 usc_section: "3702"
 chapter: 38
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 3702"
-generated_at: "2026-03-30T03:29:34.144Z"
+generated_at: "2026-03-30T03:33:47.397Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ As used in this chapter—
   - **(4)** “mortgagor” means the obligor, grantor, or trustor named in the mortgage agreement and, unless the context otherwise indicates, includes the current owner of record of the security property whether or not personally liable on the mortgage debt;
   - **(5)** “person” includes any individual, group of individuals, association, partnership, corporation, or organization;
   - **(6)** “record” and “recorded” include “register” and “registered” in the instance of registered land;
-  - **(7)** “security property” means the property, real, personal or mixed, or an interest in property, including leaseholds, life estate, reversionary interests, and any other estates under applicable State law, together with fixtures and other interests subject to the lien of the mortgage under applicable State law;
+  - **(7)** “security property” means the property, real, personal or mixed, or an interest in property, including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, together with fixtures and other interests subject to the lien of the mortgage under applicable State law;
   - **(8)** “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands, and Indian tribes as defined by the Secretary;
   - **(9)** “county” means county as defined in section 2 of title 1 ; and
   - **(10)** “Secretary” means the Secretary of Housing and Urban Development.

@@ -3,9 +3,9 @@ title: "Section 577f - Exchange of lands"
 usc_title: 16
 usc_section: "577f"
 chapter: 3
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "16 U.S.C. § 577f"
-generated_at: "2026-03-30T03:29:46.282Z"
+generated_at: "2026-03-30T03:33:55.086Z"
 status: "active"
 ---
 

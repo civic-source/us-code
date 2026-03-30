@@ -3,9 +3,9 @@ title: "Section 1423l - Omitted"
 usc_title: 48
 usc_section: "1423l"
 chapter: 8
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "48 U.S.C. § 1423l"
-generated_at: "2026-03-30T03:32:29.306Z"
+generated_at: "2026-03-30T03:35:32.332Z"
 status: "omitted"
 ---
 

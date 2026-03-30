@@ -3,9 +3,9 @@ title: "Section 2 - Employment statistics"
 usc_title: 29
 usc_section: "2"
 chapter: 4
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-03-30T03:30:09.727Z"
+generated_at: "2026-03-30T03:34:33.854Z"
 status: "active"
 ---
 

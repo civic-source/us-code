@@ -3,9 +3,9 @@ title: "Section 10200 - Study of research and development needs for monitored re
 usc_title: 42
 usc_section: "10200"
 chapter: 108
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 10200"
-generated_at: "2026-03-30T03:32:06.797Z"
+generated_at: "2026-03-30T03:35:29.284Z"
 status: "active"
 ---
 

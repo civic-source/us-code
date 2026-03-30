@@ -3,9 +3,9 @@ title: "Section 7544 - State grants"
 usc_title: 42
 usc_section: "7544"
 chapter: 85
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 7544"
-generated_at: "2026-03-30T03:32:06.737Z"
+generated_at: "2026-03-30T03:35:29.210Z"
 status: "active"
 ---
 

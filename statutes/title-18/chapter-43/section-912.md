@@ -3,9 +3,9 @@ title: "Section 912 - Officer or employee of the United States"
 usc_title: 18
 usc_section: "912"
 chapter: 43
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "18 U.S.C. § 912"
-generated_at: "2026-03-30T03:29:39.009Z"
+generated_at: "2026-03-30T03:34:08.296Z"
 status: "active"
 ---
 

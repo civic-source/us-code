@@ -3,9 +3,9 @@ title: "Section 18383 - In-space servicing"
 usc_title: 42
 usc_section: "18383"
 chapter: 159
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 18383"
-generated_at: "2026-03-30T03:32:06.929Z"
+generated_at: "2026-03-30T03:35:29.450Z"
 status: "active"
 ---
 

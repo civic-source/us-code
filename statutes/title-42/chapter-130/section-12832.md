@@ -3,9 +3,9 @@ title: "Section 12832 - Nondiscrimination"
 usc_title: 42
 usc_section: "12832"
 chapter: 130
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 12832"
-generated_at: "2026-03-30T03:32:06.841Z"
+generated_at: "2026-03-30T03:35:29.338Z"
 status: "active"
 ---
 

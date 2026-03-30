@@ -3,9 +3,9 @@ title: "Section 1182f - Denial of entry into United States of Chinese and other 
 usc_title: 8
 usc_section: "1182f"
 chapter: 12
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "8 U.S.C. § 1182f"
-generated_at: "2026-03-30T03:29:20.123Z"
+generated_at: "2026-03-30T03:33:33.956Z"
 status: "active"
 ---
 

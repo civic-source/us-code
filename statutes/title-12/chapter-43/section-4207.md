@@ -3,9 +3,9 @@ title: "Section 4207 - Unreviewed declarations; petition to pursue action as pri
 usc_title: 12
 usc_section: "4207"
 chapter: 43
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "12 U.S.C. § 4207"
-generated_at: "2026-03-30T03:29:34.151Z"
+generated_at: "2026-03-30T03:33:47.404Z"
 status: "active"
 ---
 

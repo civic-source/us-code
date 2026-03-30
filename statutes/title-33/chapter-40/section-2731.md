@@ -3,9 +3,9 @@ title: "Section 2731 - Oil Spill Recovery Institute"
 usc_title: 33
 usc_section: "2731"
 chapter: 40
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "33 U.S.C. § 2731"
-generated_at: "2026-03-30T03:30:28.029Z"
+generated_at: "2026-03-30T03:34:36.950Z"
 status: "active"
 ---
 

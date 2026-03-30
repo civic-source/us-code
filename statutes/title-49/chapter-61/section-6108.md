@@ -3,9 +3,9 @@ title: "Section 6108 - Relationship to State laws"
 usc_title: 49
 usc_section: "6108"
 chapter: 61
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "49 U.S.C. § 6108"
-generated_at: "2026-03-30T03:32:48.371Z"
+generated_at: "2026-03-30T03:35:36.152Z"
 status: "active"
 ---
 

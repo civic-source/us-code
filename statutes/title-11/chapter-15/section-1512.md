@@ -3,9 +3,9 @@ title: "Section 1512 - Participation of a foreign representative in a case under
 usc_title: 11
 usc_section: "1512"
 chapter: 15
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "11 U.S.C. § 1512"
-generated_at: "2026-03-30T03:29:28.813Z"
+generated_at: "2026-03-30T03:33:45.650Z"
 status: "active"
 ---
 

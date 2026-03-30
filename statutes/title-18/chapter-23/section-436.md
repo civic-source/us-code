@@ -3,9 +3,9 @@ title: "Section 436 - Convict labor contracts"
 usc_title: 18
 usc_section: "436"
 chapter: 23
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "18 U.S.C. § 436"
-generated_at: "2026-03-30T03:29:39.002Z"
+generated_at: "2026-03-30T03:34:08.289Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 550 - False claim for refund of duties"
 usc_title: 18
 usc_section: "550"
 chapter: 27
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "18 U.S.C. § 550"
-generated_at: "2026-03-30T03:29:39.003Z"
+generated_at: "2026-03-30T03:34:08.291Z"
 status: "active"
 ---
 

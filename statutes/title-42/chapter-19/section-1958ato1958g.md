@@ -3,9 +3,9 @@ title: "Section 1958ato1958g - Omitted"
 usc_title: 42
 usc_section: "1958ato1958g"
 chapter: 19
-current_through: "PL 113-56"
+current_through: "PL 113-65"
 classification: "42 U.S.C. § 1958ato1958g"
-generated_at: "2026-03-30T03:32:06.571Z"
+generated_at: "2026-03-30T03:35:29.015Z"
 status: "omitted"
 ---
 
