@@ -3,9 +3,9 @@ title: "Section 4238 - Monitoring of compliance"
 usc_title: 25
 usc_section: "4238"
 chapter: 43
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 4238"
-generated_at: "2026-03-30T04:32:32.861Z"
+generated_at: "2026-03-30T04:33:59.960Z"
 status: "active"
 ---
 

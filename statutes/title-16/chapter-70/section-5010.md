@@ -3,9 +3,9 @@ title: "Section 5010 - Penalties"
 usc_title: 16
 usc_section: "5010"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 5010"
-generated_at: "2026-03-30T04:32:27.444Z"
+generated_at: "2026-03-30T04:33:54.996Z"
 status: "active"
 ---
 

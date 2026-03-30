@@ -3,9 +3,9 @@ title: "Section 14039 - Report to Congress"
 usc_title: 42
 usc_section: "14039"
 chapter: 136
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 14039"
-generated_at: "2026-03-30T04:33:08.263Z"
+generated_at: "2026-03-30T04:34:39.812Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11383 - Eligible activities"
 usc_title: 42
 usc_section: "11383"
 chapter: 119
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 11383"
-generated_at: "2026-03-30T04:33:08.212Z"
+generated_at: "2026-03-30T04:34:39.763Z"
 status: "active"
 ---
 

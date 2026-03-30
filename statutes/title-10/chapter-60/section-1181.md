@@ -3,9 +3,9 @@ title: "Section 1181 - Authority to establish procedures to consider the separat
 usc_title: 10
 usc_section: "1181"
 chapter: 60
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 1181"
-generated_at: "2026-03-30T04:32:08.623Z"
+generated_at: "2026-03-30T04:33:39.043Z"
 status: "active"
 ---
 

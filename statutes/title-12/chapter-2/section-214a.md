@@ -3,9 +3,9 @@ title: "Section 214a - Procedure for conversion, merger, or consolidation; vote 
 usc_title: 12
 usc_section: "214a"
 chapter: 2
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "12 U.S.C. § 214a"
-generated_at: "2026-03-30T04:32:14.305Z"
+generated_at: "2026-03-30T04:33:43.850Z"
 status: "active"
 ---
 

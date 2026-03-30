@@ -3,9 +3,9 @@ title: "Section 644 - Advice and assistance by Government departments and agenci
 usc_title: 30
 usc_section: "644"
 chapter: 17
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "30 U.S.C. § 644"
-generated_at: "2026-03-30T04:32:37.056Z"
+generated_at: "2026-03-30T04:34:12.485Z"
 status: "active"
 ---
 

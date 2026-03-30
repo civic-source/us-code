@@ -3,9 +3,9 @@ title: "Section 8905 - Site and design approval"
 usc_title: 40
 usc_section: "8905"
 chapter: 89
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "40 U.S.C. § 8905"
-generated_at: "2026-03-30T04:32:50.783Z"
+generated_at: "2026-03-30T04:34:23.310Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 737 - Gaming activities"
 usc_title: 25
 usc_section: "737"
 chapter: 14
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 737"
-generated_at: "2026-03-30T04:32:32.798Z"
+generated_at: "2026-03-30T04:33:59.899Z"
 status: "active"
 ---
 

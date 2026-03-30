@@ -3,9 +3,9 @@ title: "Section 1157 - Annual admission of refugees and admission of emergency s
 usc_title: 8
 usc_section: "1157"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "8 U.S.C. § 1157"
-generated_at: "2026-03-30T04:32:00.470Z"
+generated_at: "2026-03-30T04:33:33.453Z"
 status: "active"
 ---
 

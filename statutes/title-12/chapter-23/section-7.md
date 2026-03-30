@@ -3,9 +3,9 @@ title: "Section 7 - Recapitalization of Corporation"
 usc_title: 12
 usc_section: "7"
 chapter: 23
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "12 U.S.C. § 7"
-generated_at: "2026-03-30T04:32:14.406Z"
+generated_at: "2026-03-30T04:33:43.953Z"
 status: "active"
 ---
 

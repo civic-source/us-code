@@ -3,9 +3,9 @@ title: "Section 3123b - Renewable energy committee"
 usc_title: 7
 usc_section: "3123b"
 chapter: 64
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 3123b"
-generated_at: "2026-03-30T04:31:56.988Z"
+generated_at: "2026-03-30T04:33:35.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4307 - Authorization of appropriations"
 usc_title: 25
 usc_section: "4307"
 chapter: 44
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 4307"
-generated_at: "2026-03-30T04:32:32.861Z"
+generated_at: "2026-03-30T04:33:59.961Z"
 status: "active"
 ---
 

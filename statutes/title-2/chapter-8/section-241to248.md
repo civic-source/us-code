@@ -3,9 +3,9 @@ title: "Section 241to248 - Repealed. Pub. L. 92–225, title IV, § 405 , Feb. 7
 usc_title: 2
 usc_section: "241to248"
 chapter: 8
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "2 U.S.C. § 241to248"
-generated_at: "2026-03-30T04:31:47.444Z"
+generated_at: "2026-03-30T04:33:29.729Z"
 status: "repealed"
 ---
 

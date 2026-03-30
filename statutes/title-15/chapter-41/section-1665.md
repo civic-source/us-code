@@ -3,9 +3,9 @@ title: "Section 1665 - Nonliability of advertising media"
 usc_title: 15
 usc_section: "1665"
 chapter: 41
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "15 U.S.C. § 1665"
-generated_at: "2026-03-30T04:32:17.700Z"
+generated_at: "2026-03-30T04:33:45.795Z"
 status: "active"
 ---
 

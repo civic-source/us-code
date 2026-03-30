@@ -3,9 +3,9 @@ title: "Section 3156 - Definitions"
 usc_title: 18
 usc_section: "3156"
 chapter: 207
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "18 U.S.C. § 3156"
-generated_at: "2026-03-30T04:32:28.317Z"
+generated_at: "2026-03-30T04:33:49.123Z"
 status: "active"
 ---
 

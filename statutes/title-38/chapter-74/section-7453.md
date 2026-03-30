@@ -3,9 +3,9 @@ title: "Section 7453 - Nurses: additional pay"
 usc_title: 38
 usc_section: "7453"
 chapter: 74
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "38 U.S.C. § 7453"
-generated_at: "2026-03-30T04:32:50.169Z"
+generated_at: "2026-03-30T04:34:24.468Z"
 status: "active"
 ---
 

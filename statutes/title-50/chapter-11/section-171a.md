@@ -3,9 +3,9 @@ title: "Section 171a - Omitted"
 usc_title: 50
 usc_section: "171a"
 chapter: 11
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "50 U.S.C. § 171a"
-generated_at: "2026-03-30T04:33:12.864Z"
+generated_at: "2026-03-30T04:34:44.666Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 102 - Prescription drug benefits"
 usc_title: 42
 usc_section: "102"
 chapter: 7
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 102"
-generated_at: "2026-03-30T04:33:07.846Z"
+generated_at: "2026-03-30T04:34:39.408Z"
 status: "active"
 ---
 

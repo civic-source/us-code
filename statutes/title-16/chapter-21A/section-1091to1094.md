@@ -3,9 +3,9 @@ title: "Section 1091to1094 - Repealed. Pub. L. 94–265, title IV, § 402(a) , A
 usc_title: 16
 usc_section: "1091to1094"
 chapter: 21
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 1091to1094"
-generated_at: "2026-03-30T04:32:27.377Z"
+generated_at: "2026-03-30T04:33:54.924Z"
 status: "repealed"
 ---
 

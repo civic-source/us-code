@@ -3,9 +3,9 @@ title: "Section 13775 - Reports"
 usc_title: 42
 usc_section: "13775"
 chapter: 136
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 13775"
-generated_at: "2026-03-30T04:33:08.259Z"
+generated_at: "2026-03-30T04:34:39.808Z"
 status: "active"
 ---
 

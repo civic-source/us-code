@@ -3,9 +3,9 @@ title: "Section 1981to1985 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 
 usc_title: 22
 usc_section: "1981to1985"
 chapter: 26
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 1981to1985"
-generated_at: "2026-03-30T04:32:34.600Z"
+generated_at: "2026-03-30T04:34:03.712Z"
 status: "repealed"
 ---
 

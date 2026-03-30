@@ -3,9 +3,9 @@ title: "Section 562 - Laws operative"
 usc_title: 29
 usc_section: "562"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "29 U.S.C. § 562"
-generated_at: "2026-03-30T04:32:38.604Z"
+generated_at: "2026-03-30T04:34:16.280Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24904 - General authority"
 usc_title: 49
 usc_section: "24904"
 chapter: 249
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "49 U.S.C. § 24904"
-generated_at: "2026-03-30T04:33:14.467Z"
+generated_at: "2026-03-30T04:34:47.989Z"
 status: "active"
 ---
 

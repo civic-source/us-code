@@ -3,9 +3,9 @@ title: "Section 7117 - Programs for Native Hawaiians"
 usc_title: 20
 usc_section: "7117"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 7117"
-generated_at: "2026-03-30T04:32:24.058Z"
+generated_at: "2026-03-30T04:33:52.147Z"
 status: "active"
 ---
 

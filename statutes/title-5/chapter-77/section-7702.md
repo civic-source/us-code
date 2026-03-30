@@ -3,9 +3,9 @@ title: "Section 7702 - Actions involving discrimination"
 usc_title: 5
 usc_section: "7702"
 chapter: 77
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "5 U.S.C. § 7702"
-generated_at: "2026-03-30T04:31:50.523Z"
+generated_at: "2026-03-30T04:33:30.997Z"
 status: "active"
 ---
 

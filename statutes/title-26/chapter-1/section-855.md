@@ -3,9 +3,9 @@ title: "Section 855 - Dividends paid by regulated investment company after close
 usc_title: 26
 usc_section: "855"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "26 U.S.C. § 855"
-generated_at: "2026-03-30T04:32:42.904Z"
+generated_at: "2026-03-30T04:34:11.488Z"
 status: "active"
 ---
 

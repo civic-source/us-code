@@ -3,9 +3,9 @@ title: "Section 176 - Armed Forces Institute of Pathology"
 usc_title: 10
 usc_section: "176"
 chapter: 7
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 176"
-generated_at: "2026-03-30T04:32:08.590Z"
+generated_at: "2026-03-30T04:33:39.005Z"
 status: "active"
 ---
 

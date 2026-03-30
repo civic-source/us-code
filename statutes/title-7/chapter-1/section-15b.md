@@ -3,9 +3,9 @@ title: "Section 15b - Cotton futures contracts"
 usc_title: 7
 usc_section: "15b"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 15b"
-generated_at: "2026-03-30T04:31:56.883Z"
+generated_at: "2026-03-30T04:33:35.884Z"
 status: "active"
 ---
 
@@ -14,7 +14,9 @@ status: "active"
 - **(a)** This section may be cited as the “United States Cotton Futures Act”.
 - **(b)** Subchapter D of chapter 39 of title 26 (relating to tax on cotton futures) is repealed.
 - **(c)** For purposes of this section—
-  - **(1)** The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act [ 7 U.S.C. 1 et seq.] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.
+  - **(1)** The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act [ 7 U.S.C. 1 et seq.] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that—
+    - **(A)** any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section; and
+    - **(B)** any cotton futures contract that permits tender of cotton grown outside of the United States is excluded from the coverage of this paragraph and section to the extent that the cotton grown outside of the United States is tendered for delivery under the cotton futures contract.
   - **(2)** The term “future delivery” shall not include any cash sale of cotton for deferred shipment or delivery.
   - **(3)** The term “person” includes an individual, trust, estate, partnership, association, company, or corporation.
   - **(4)** The term “Secretary” means the Secretary of Agriculture of the United States.

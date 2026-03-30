@@ -3,9 +3,9 @@ title: "Section 2211c - Development and certification of poverty measurement met
 usc_title: 22
 usc_section: "2211c"
 chapter: 32
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 2211c"
-generated_at: "2026-03-30T04:32:34.610Z"
+generated_at: "2026-03-30T04:34:03.721Z"
 status: "active"
 ---
 

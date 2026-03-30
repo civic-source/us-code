@@ -3,9 +3,9 @@ title: "Section 7283f - Administration"
 usc_title: 20
 usc_section: "7283f"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 7283f"
-generated_at: "2026-03-30T04:32:24.066Z"
+generated_at: "2026-03-30T04:33:52.156Z"
 status: "active"
 ---
 

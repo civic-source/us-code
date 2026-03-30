@@ -3,9 +3,9 @@ title: "Section 403i - Secretary of the Interior authorized to purchase necessar
 usc_title: 16
 usc_section: "403i"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 403i"
-generated_at: "2026-03-30T04:32:27.257Z"
+generated_at: "2026-03-30T04:33:54.791Z"
 status: "active"
 ---
 

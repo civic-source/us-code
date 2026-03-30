@@ -3,9 +3,9 @@ title: "Section 1482a - Expenses incident to death: civilian employees serving w
 usc_title: 10
 usc_section: "1482a"
 chapter: 75
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 1482a"
-generated_at: "2026-03-30T04:32:08.631Z"
+generated_at: "2026-03-30T04:33:39.051Z"
 status: "active"
 ---
 

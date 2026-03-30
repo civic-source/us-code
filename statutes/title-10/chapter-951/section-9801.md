@@ -3,9 +3,9 @@ title: "Section 9801 - Definition"
 usc_title: 10
 usc_section: "9801"
 chapter: 951
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 9801"
-generated_at: "2026-03-30T04:32:08.704Z"
+generated_at: "2026-03-30T04:33:39.131Z"
 status: "active"
 ---
 

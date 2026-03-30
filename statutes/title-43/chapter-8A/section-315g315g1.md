@@ -3,9 +3,9 @@ title: "Section 315g315g1 - Repealed. Pub. L. 94–579, title VII, § 705(a) , O
 usc_title: 43
 usc_section: "315g315g1"
 chapter: 8
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "43 U.S.C. § 315g315g1"
-generated_at: "2026-03-30T04:32:53.540Z"
+generated_at: "2026-03-30T04:34:27.121Z"
 status: "repealed"
 ---
 

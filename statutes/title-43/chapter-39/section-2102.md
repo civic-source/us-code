@@ -3,9 +3,9 @@ title: "Section 2102 - Definitions"
 usc_title: 43
 usc_section: "2102"
 chapter: 39
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "43 U.S.C. § 2102"
-generated_at: "2026-03-30T04:32:53.592Z"
+generated_at: "2026-03-30T04:34:27.169Z"
 status: "active"
 ---
 

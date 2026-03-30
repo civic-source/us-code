@@ -3,9 +3,9 @@ title: "Section 3 - Reduction of costs of small securities issues"
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T04:32:17.636Z"
+generated_at: "2026-03-30T04:33:45.727Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6701 - Purposes"
 usc_title: 20
 usc_section: "6701"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 6701"
-generated_at: "2026-03-30T04:32:24.052Z"
+generated_at: "2026-03-30T04:33:52.140Z"
 status: "active"
 ---
 

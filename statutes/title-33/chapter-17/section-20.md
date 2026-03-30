@@ -3,9 +3,9 @@ title: "Section 20 - Coordination"
 usc_title: 33
 usc_section: "20"
 chapter: 17
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "33 U.S.C. § 20"
-generated_at: "2026-03-30T04:32:46.429Z"
+generated_at: "2026-03-30T04:34:20.100Z"
 status: "active"
 ---
 

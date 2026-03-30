@@ -3,9 +3,9 @@ title: "Section 1976 - Acceptance of donations of animals"
 usc_title: 2
 usc_section: "1976"
 chapter: 29
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "2 U.S.C. § 1976"
-generated_at: "2026-03-30T04:31:47.471Z"
+generated_at: "2026-03-30T04:33:29.752Z"
 status: "active"
 ---
 

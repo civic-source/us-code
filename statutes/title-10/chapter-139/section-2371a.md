@@ -3,9 +3,9 @@ title: "Section 2371a - Cooperative research and development agreements under St
 usc_title: 10
 usc_section: "2371a"
 chapter: 139
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 2371a"
-generated_at: "2026-03-30T04:32:08.655Z"
+generated_at: "2026-03-30T04:33:39.078Z"
 status: "active"
 ---
 

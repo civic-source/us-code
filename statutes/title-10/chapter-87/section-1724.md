@@ -3,9 +3,9 @@ title: "Section 1724 - Contracting positions: qualification requirements"
 usc_title: 10
 usc_section: "1724"
 chapter: 87
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 1724"
-generated_at: "2026-03-30T04:32:08.636Z"
+generated_at: "2026-03-30T04:33:39.057Z"
 status: "active"
 ---
 

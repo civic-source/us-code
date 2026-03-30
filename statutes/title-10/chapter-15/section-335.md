@@ -3,9 +3,9 @@ title: "Section 335 - Guam and Virgin Islands included as “State”"
 usc_title: 10
 usc_section: "335"
 chapter: 15
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 335"
-generated_at: "2026-03-30T04:32:08.592Z"
+generated_at: "2026-03-30T04:33:39.008Z"
 status: "active"
 ---
 

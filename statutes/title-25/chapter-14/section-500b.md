@@ -3,9 +3,9 @@ title: "Section 500b - Filing claim of title to reindeer by nonnatives"
 usc_title: 25
 usc_section: "500b"
 chapter: 14
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 500b"
-generated_at: "2026-03-30T04:32:32.786Z"
+generated_at: "2026-03-30T04:33:59.887Z"
 status: "active"
 ---
 

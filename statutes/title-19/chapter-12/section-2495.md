@@ -3,9 +3,9 @@ title: "Section 2495 - Definitions"
 usc_title: 19
 usc_section: "2495"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "19 U.S.C. § 2495"
-generated_at: "2026-03-30T04:32:21.066Z"
+generated_at: "2026-03-30T04:33:50.219Z"
 status: "active"
 ---
 

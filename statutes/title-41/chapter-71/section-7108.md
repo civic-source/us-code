@@ -3,9 +3,9 @@ title: "Section 7108 - Payment of claims"
 usc_title: 41
 usc_section: "7108"
 chapter: 71
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "41 U.S.C. § 7108"
-generated_at: "2026-03-30T04:32:53.012Z"
+generated_at: "2026-03-30T04:34:26.505Z"
 status: "active"
 ---
 

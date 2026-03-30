@@ -3,9 +3,9 @@ title: "Section 2053 - Consumer Product Safety Commission"
 usc_title: 15
 usc_section: "2053"
 chapter: 47
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "15 U.S.C. § 2053"
-generated_at: "2026-03-30T04:32:17.713Z"
+generated_at: "2026-03-30T04:33:45.809Z"
 status: "active"
 ---
 

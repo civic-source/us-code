@@ -3,9 +3,9 @@ title: "Section 121 - Information and Analysis and Infrastructure Protection"
 usc_title: 6
 usc_section: "121"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "6 U.S.C. § 121"
-generated_at: "2026-03-30T04:31:53.343Z"
+generated_at: "2026-03-30T04:33:32.897Z"
 status: "active"
 ---
 

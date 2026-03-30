@@ -3,9 +3,9 @@ title: "Section 6261to6264 - Repealed. Pub. L. 106–469, title I, § 104(1) , N
 usc_title: 42
 usc_section: "6261to6264"
 chapter: 77
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 6261to6264"
-generated_at: "2026-03-30T04:33:08.076Z"
+generated_at: "2026-03-30T04:34:39.632Z"
 status: "repealed"
 ---
 

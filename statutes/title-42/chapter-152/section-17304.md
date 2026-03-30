@@ -3,9 +3,9 @@ title: "Section 17304 - Penalties"
 usc_title: 42
 usc_section: "17304"
 chapter: 152
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 17304"
-generated_at: "2026-03-30T04:33:08.311Z"
+generated_at: "2026-03-30T04:34:39.858Z"
 status: "active"
 ---
 

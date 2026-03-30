@@ -3,9 +3,9 @@ title: "Section 835c - Duties of Secretary of the Interior"
 usc_title: 16
 usc_section: "835c"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 835c"
-generated_at: "2026-03-30T04:32:27.368Z"
+generated_at: "2026-03-30T04:33:54.913Z"
 status: "active"
 ---
 

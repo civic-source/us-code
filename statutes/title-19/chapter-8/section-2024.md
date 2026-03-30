@@ -3,9 +3,9 @@ title: "Section 2024 - Authorization of appropriations"
 usc_title: 19
 usc_section: "2024"
 chapter: 8
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "19 U.S.C. § 2024"
-generated_at: "2026-03-30T04:32:21.053Z"
+generated_at: "2026-03-30T04:33:50.205Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 498 - Transfer of management and operation of works to water use
 usc_title: 43
 usc_section: "498"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "43 U.S.C. § 498"
-generated_at: "2026-03-30T04:32:53.552Z"
+generated_at: "2026-03-30T04:34:27.133Z"
 status: "active"
 ---
 

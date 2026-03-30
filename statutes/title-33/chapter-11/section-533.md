@@ -3,9 +3,9 @@ title: "Section 533 - Penalties for violations"
 usc_title: 33
 usc_section: "533"
 chapter: 11
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "33 U.S.C. § 533"
-generated_at: "2026-03-30T04:32:46.418Z"
+generated_at: "2026-03-30T04:34:20.089Z"
 status: "active"
 ---
 

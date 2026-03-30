@@ -3,9 +3,9 @@ title: "Section 13707 - Accountability"
 usc_title: 42
 usc_section: "13707"
 chapter: 136
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 13707"
-generated_at: "2026-03-30T04:33:08.258Z"
+generated_at: "2026-03-30T04:34:39.807Z"
 status: "active"
 ---
 

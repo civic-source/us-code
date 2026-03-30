@@ -3,9 +3,9 @@ title: "Section 881 - Art. 81. Conspiracy"
 usc_title: 10
 usc_section: "881"
 chapter: 47
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 881"
-generated_at: "2026-03-30T04:32:08.606Z"
+generated_at: "2026-03-30T04:33:39.023Z"
 status: "active"
 ---
 

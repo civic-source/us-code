@@ -3,9 +3,9 @@ title: "Section 7141 - Definitions"
 usc_title: 16
 usc_section: "7141"
 chapter: 90
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 7141"
-generated_at: "2026-03-30T04:32:27.457Z"
+generated_at: "2026-03-30T04:33:55.011Z"
 status: "active"
 ---
 

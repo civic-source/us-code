@@ -3,9 +3,9 @@ title: "Section 640c - Study of facilities needs"
 usc_title: 25
 usc_section: "640c"
 chapter: 14
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 640c"
-generated_at: "2026-03-30T04:32:32.790Z"
+generated_at: "2026-03-30T04:33:59.891Z"
 status: "active"
 ---
 

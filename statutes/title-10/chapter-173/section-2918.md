@@ -3,9 +3,9 @@ title: "Section 2918 - Fuel sources for heating systems; prohibition on converti
 usc_title: 10
 usc_section: "2918"
 chapter: 173
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 2918"
-generated_at: "2026-03-30T04:32:08.677Z"
+generated_at: "2026-03-30T04:33:39.102Z"
 status: "active"
 ---
 

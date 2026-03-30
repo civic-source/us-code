@@ -3,9 +3,9 @@ title: "Section 1797 - Early childhood education program"
 usc_title: 10
 usc_section: "1797"
 chapter: 88
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 1797"
-generated_at: "2026-03-30T04:32:08.638Z"
+generated_at: "2026-03-30T04:33:39.059Z"
 status: "active"
 ---
 

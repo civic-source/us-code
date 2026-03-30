@@ -3,9 +3,9 @@ title: "Section 6684 - Evaluation and accountability for recruiting and retainin
 usc_title: 20
 usc_section: "6684"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 6684"
-generated_at: "2026-03-30T04:32:24.052Z"
+generated_at: "2026-03-30T04:33:52.140Z"
 status: "active"
 ---
 

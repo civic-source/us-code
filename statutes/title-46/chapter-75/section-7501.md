@@ -3,9 +3,9 @@ title: "Section 7501 - Duplicates"
 usc_title: 46
 usc_section: "7501"
 chapter: 75
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "46 U.S.C. § 7501"
-generated_at: "2026-03-30T04:33:11.873Z"
+generated_at: "2026-03-30T04:34:42.925Z"
 status: "active"
 ---
 

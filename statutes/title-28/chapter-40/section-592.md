@@ -3,9 +3,9 @@ title: "Section 592 - Preliminary investigation and application for appointment 
 usc_title: 28
 usc_section: "592"
 chapter: 40
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "28 U.S.C. § 592"
-generated_at: "2026-03-30T04:32:37.772Z"
+generated_at: "2026-03-30T04:34:06.491Z"
 status: "active"
 ---
 

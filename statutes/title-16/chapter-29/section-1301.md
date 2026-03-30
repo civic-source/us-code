@@ -3,9 +3,9 @@ title: "Section 1301 - Congressional declaration of policy; authority of Secreta
 usc_title: 16
 usc_section: "1301"
 chapter: 29
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 1301"
-generated_at: "2026-03-30T04:32:27.387Z"
+generated_at: "2026-03-30T04:33:54.934Z"
 status: "active"
 ---
 

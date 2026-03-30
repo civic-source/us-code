@@ -3,9 +3,9 @@ title: "Section 26 - Commodity whistleblower incentives and protection"
 usc_title: 7
 usc_section: "26"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 26"
-generated_at: "2026-03-30T04:31:56.885Z"
+generated_at: "2026-03-30T04:33:35.887Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1100bto1100b10 - Omitted"
 usc_title: 16
 usc_section: "1100bto1100b10"
 chapter: 21
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 1100bto1100b10"
-generated_at: "2026-03-30T04:32:27.377Z"
+generated_at: "2026-03-30T04:33:54.924Z"
 status: "omitted"
 ---
 

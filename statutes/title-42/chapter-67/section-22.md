@@ -3,9 +3,9 @@ title: "Section 22 - Authorization of appropriations"
 usc_title: 42
 usc_section: "22"
 chapter: 67
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T04:33:08.051Z"
+generated_at: "2026-03-30T04:34:39.606Z"
 status: "active"
 ---
 

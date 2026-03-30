@@ -3,9 +3,9 @@ title: "Section 1404 - Election of proceeding"
 usc_title: 2
 usc_section: "1404"
 chapter: 24
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "2 U.S.C. § 1404"
-generated_at: "2026-03-30T04:31:47.463Z"
+generated_at: "2026-03-30T04:33:29.745Z"
 status: "active"
 ---
 

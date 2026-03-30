@@ -3,9 +3,9 @@ title: "Section 7279c - Subgrants to local educational agencies"
 usc_title: 20
 usc_section: "7279c"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 7279c"
-generated_at: "2026-03-30T04:32:24.066Z"
+generated_at: "2026-03-30T04:33:52.155Z"
 status: "active"
 ---
 

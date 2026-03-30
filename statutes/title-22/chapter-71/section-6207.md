@@ -3,9 +3,9 @@ title: "Section 6207 - Limits on grants for Radio Free Europe and Radio Liberty"
 usc_title: 22
 usc_section: "6207"
 chapter: 71
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 6207"
-generated_at: "2026-03-30T04:32:34.670Z"
+generated_at: "2026-03-30T04:34:03.783Z"
 status: "active"
 ---
 

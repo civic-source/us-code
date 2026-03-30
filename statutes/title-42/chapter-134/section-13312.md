@@ -3,9 +3,9 @@ title: "Section 13312 - Renewable energy export technology training"
 usc_title: 42
 usc_section: "13312"
 chapter: 134
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 13312"
-generated_at: "2026-03-30T04:33:08.249Z"
+generated_at: "2026-03-30T04:34:39.799Z"
 status: "active"
 ---
 

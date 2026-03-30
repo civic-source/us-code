@@ -3,9 +3,9 @@ title: "Section 18014 - Treatment of expatriate health plans under ACA"
 usc_title: 42
 usc_section: "18014"
 chapter: 157
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 18014"
-generated_at: "2026-03-30T04:33:08.318Z"
+generated_at: "2026-03-30T04:34:39.865Z"
 status: "active"
 ---
 

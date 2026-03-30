@@ -3,9 +3,9 @@ title: "Section 24711 - Alternate passenger rail service pilot program"
 usc_title: 49
 usc_section: "24711"
 chapter: 247
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "49 U.S.C. § 24711"
-generated_at: "2026-03-30T04:33:14.467Z"
+generated_at: "2026-03-30T04:34:47.989Z"
 status: "active"
 ---
 

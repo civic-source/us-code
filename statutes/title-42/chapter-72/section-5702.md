@@ -3,9 +3,9 @@ title: "Section 5702 - Promulgation of rules"
 usc_title: 42
 usc_section: "5702"
 chapter: 72
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 5702"
-generated_at: "2026-03-30T04:33:08.067Z"
+generated_at: "2026-03-30T04:34:39.623Z"
 status: "active"
 ---
 

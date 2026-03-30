@@ -3,9 +3,9 @@ title: "Section 1739 - Advisory councils"
 usc_title: 43
 usc_section: "1739"
 chapter: 35
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "43 U.S.C. § 1739"
-generated_at: "2026-03-30T04:32:53.587Z"
+generated_at: "2026-03-30T04:34:27.165Z"
 status: "active"
 ---
 

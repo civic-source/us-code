@@ -3,9 +3,9 @@ title: "Section 1680f - Indian Health Service and Department of Veterans Affairs
 usc_title: 25
 usc_section: "1680f"
 chapter: 18
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 1680f"
-generated_at: "2026-03-30T04:32:32.823Z"
+generated_at: "2026-03-30T04:33:59.924Z"
 status: "active"
 ---
 

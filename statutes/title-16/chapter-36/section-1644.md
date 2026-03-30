@@ -3,9 +3,9 @@ title: "Section 1644 - Forestry and rangeland competitive research grants"
 usc_title: 16
 usc_section: "1644"
 chapter: 36
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 1644"
-generated_at: "2026-03-30T04:32:27.402Z"
+generated_at: "2026-03-30T04:33:54.950Z"
 status: "active"
 ---
 

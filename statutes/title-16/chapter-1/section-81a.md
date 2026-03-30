@@ -3,9 +3,9 @@ title: "Section 81a - Location and boundaries"
 usc_title: 16
 usc_section: "81a"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 81a"
-generated_at: "2026-03-30T04:32:27.240Z"
+generated_at: "2026-03-30T04:33:54.772Z"
 status: "active"
 ---
 

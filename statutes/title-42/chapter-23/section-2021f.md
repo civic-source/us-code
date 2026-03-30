@@ -3,9 +3,9 @@ title: "Section 2021f - Emergency access"
 usc_title: 42
 usc_section: "2021f"
 chapter: 23
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 2021f"
-generated_at: "2026-03-30T04:33:07.977Z"
+generated_at: "2026-03-30T04:34:39.534Z"
 status: "active"
 ---
 

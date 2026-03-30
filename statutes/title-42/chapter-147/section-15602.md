@@ -3,9 +3,9 @@ title: "Section 15602 - Purposes"
 usc_title: 42
 usc_section: "15602"
 chapter: 147
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 15602"
-generated_at: "2026-03-30T04:33:08.282Z"
+generated_at: "2026-03-30T04:34:39.830Z"
 status: "active"
 ---
 

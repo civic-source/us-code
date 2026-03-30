@@ -3,9 +3,9 @@ title: "Section 1352 - Bonds executed under federal law"
 usc_title: 28
 usc_section: "1352"
 chapter: 85
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "28 U.S.C. § 1352"
-generated_at: "2026-03-30T04:32:37.777Z"
+generated_at: "2026-03-30T04:34:06.497Z"
 status: "active"
 ---
 

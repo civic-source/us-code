@@ -3,9 +3,9 @@ title: "Section 7 - Provisions for furnishing surplus power and municipal or mis
 usc_title: 16
 usc_section: "7"
 chapter: 3
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T04:32:27.339Z"
+generated_at: "2026-03-30T04:33:54.881Z"
 status: "active"
 ---
 

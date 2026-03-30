@@ -3,9 +3,9 @@ title: "Section 9 - Regulations by President"
 usc_title: 25
 usc_section: "9"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 9"
-generated_at: "2026-03-30T04:32:32.767Z"
+generated_at: "2026-03-30T04:33:59.868Z"
 status: "active"
 ---
 

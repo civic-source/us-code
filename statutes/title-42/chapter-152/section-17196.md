@@ -3,9 +3,9 @@ title: "Section 17196 - Cost sharing and proposal evaluation"
 usc_title: 42
 usc_section: "17196"
 chapter: 152
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 17196"
-generated_at: "2026-03-30T04:33:08.308Z"
+generated_at: "2026-03-30T04:34:39.856Z"
 status: "active"
 ---
 

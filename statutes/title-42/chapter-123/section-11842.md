@@ -3,9 +3,9 @@ title: "Section 11842 - Evaluation of drug abuse education and prevention effort
 usc_title: 42
 usc_section: "11842"
 chapter: 123
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 11842"
-generated_at: "2026-03-30T04:33:08.218Z"
+generated_at: "2026-03-30T04:34:39.768Z"
 status: "active"
 ---
 

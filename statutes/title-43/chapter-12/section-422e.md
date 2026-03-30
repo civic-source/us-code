@@ -3,9 +3,9 @@ title: "Section 422e - Contract requirements"
 usc_title: 43
 usc_section: "422e"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "43 U.S.C. § 422e"
-generated_at: "2026-03-30T04:32:53.549Z"
+generated_at: "2026-03-30T04:34:27.129Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14135d - Authorization of appropriations"
 usc_title: 42
 usc_section: "14135d"
 chapter: 136
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 14135d"
-generated_at: "2026-03-30T04:33:08.270Z"
+generated_at: "2026-03-30T04:34:39.818Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3601 - Declaration of policy"
 usc_title: 42
 usc_section: "3601"
 chapter: 45
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 3601"
-generated_at: "2026-03-30T04:33:08.015Z"
+generated_at: "2026-03-30T04:34:39.571Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2858 - Limitation on the use of funds for expediting a construct
 usc_title: 10
 usc_section: "2858"
 chapter: 169
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 2858"
-generated_at: "2026-03-30T04:32:08.675Z"
+generated_at: "2026-03-30T04:33:39.100Z"
 status: "active"
 ---
 

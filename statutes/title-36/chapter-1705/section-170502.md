@@ -3,9 +3,9 @@ title: "Section 170502 - Organization"
 usc_title: 36
 usc_section: "170502"
 chapter: 1705
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "36 U.S.C. § 170502"
-generated_at: "2026-03-30T04:32:49.026Z"
+generated_at: "2026-03-30T04:34:22.896Z"
 status: "active"
 ---
 

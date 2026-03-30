@@ -3,9 +3,9 @@ title: "Section 9849 - Nondiscrimination provisions"
 usc_title: 42
 usc_section: "9849"
 chapter: 105
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 9849"
-generated_at: "2026-03-30T04:33:08.186Z"
+generated_at: "2026-03-30T04:34:39.738Z"
 status: "active"
 ---
 

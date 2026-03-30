@@ -3,9 +3,9 @@ title: "Section 1571 - Legislature"
 usc_title: 48
 usc_section: "1571"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "48 U.S.C. § 1571"
-generated_at: "2026-03-30T04:33:12.182Z"
+generated_at: "2026-03-30T04:34:42.258Z"
 status: "active"
 ---
 

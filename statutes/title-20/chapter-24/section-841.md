@@ -3,9 +3,9 @@ title: "Section 841 - Omitted"
 usc_title: 20
 usc_section: "841"
 chapter: 24
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 841"
-generated_at: "2026-03-30T04:32:23.951Z"
+generated_at: "2026-03-30T04:33:52.032Z"
 status: "omitted"
 ---
 

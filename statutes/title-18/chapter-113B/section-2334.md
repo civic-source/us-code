@@ -3,9 +3,9 @@ title: "Section 2334 - Jurisdiction and venue"
 usc_title: 18
 usc_section: "2334"
 chapter: 113
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "18 U.S.C. § 2334"
-generated_at: "2026-03-30T04:32:28.311Z"
+generated_at: "2026-03-30T04:33:49.116Z"
 status: "active"
 ---
 

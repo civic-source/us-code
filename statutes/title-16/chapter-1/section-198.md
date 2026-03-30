@@ -3,9 +3,9 @@ title: "Section 198 - Exclusive jurisdiction; assumption by United States; savin
 usc_title: 16
 usc_section: "198"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 198"
-generated_at: "2026-03-30T04:32:27.245Z"
+generated_at: "2026-03-30T04:33:54.779Z"
 status: "active"
 ---
 

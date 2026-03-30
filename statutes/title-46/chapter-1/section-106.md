@@ -3,9 +3,9 @@ title: "Section 106 - Documented vessel"
 usc_title: 46
 usc_section: "106"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "46 U.S.C. § 106"
-generated_at: "2026-03-30T04:33:11.866Z"
+generated_at: "2026-03-30T04:34:42.917Z"
 status: "active"
 ---
 

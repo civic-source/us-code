@@ -3,9 +3,9 @@ title: "Section 491 - Medal of honor"
 usc_title: 14
 usc_section: "491"
 chapter: 13
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "14 U.S.C. § 491"
-generated_at: "2026-03-30T04:32:10.954Z"
+generated_at: "2026-03-30T04:33:41.445Z"
 status: "active"
 ---
 

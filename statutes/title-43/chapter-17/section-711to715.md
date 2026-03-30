@@ -3,9 +3,9 @@ title: "Section 711to715 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oc
 usc_title: 43
 usc_section: "711to715"
 chapter: 17
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "43 U.S.C. § 711to715"
-generated_at: "2026-03-30T04:32:53.560Z"
+generated_at: "2026-03-30T04:34:27.139Z"
 status: "repealed"
 ---
 

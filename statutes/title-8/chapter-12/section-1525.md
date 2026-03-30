@@ -3,9 +3,9 @@ title: "Section 1525 - Repealed. Pub. L. 103–236, title I, § 162(m)(3) , Apr.
 usc_title: 8
 usc_section: "1525"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "8 U.S.C. § 1525"
-generated_at: "2026-03-30T04:32:00.497Z"
+generated_at: "2026-03-30T04:33:33.480Z"
 status: "repealed"
 ---
 

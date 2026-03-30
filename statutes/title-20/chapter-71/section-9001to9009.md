@@ -3,9 +3,9 @@ title: "Section 9001to9009 - Repealed. Pub. L. 107–279, title IV, § 403(1) , 
 usc_title: 20
 usc_section: "9001to9009"
 chapter: 71
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 9001to9009"
-generated_at: "2026-03-30T04:32:24.077Z"
+generated_at: "2026-03-30T04:33:52.167Z"
 status: "repealed"
 ---
 

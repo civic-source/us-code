@@ -3,9 +3,9 @@ title: "Section 1300j - Findings"
 usc_title: 25
 usc_section: "1300j"
 chapter: 14
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 1300j"
-generated_at: "2026-03-30T04:32:32.810Z"
+generated_at: "2026-03-30T04:33:59.911Z"
 status: "active"
 ---
 

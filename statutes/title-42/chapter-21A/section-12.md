@@ -3,9 +3,9 @@ title: "Section 12 - Binding nature of guidelines; disciplinary actions for viol
 usc_title: 42
 usc_section: "12"
 chapter: 21
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T04:33:07.972Z"
+generated_at: "2026-03-30T04:34:39.529Z"
 status: "active"
 ---
 

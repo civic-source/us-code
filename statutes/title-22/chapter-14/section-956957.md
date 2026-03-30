@@ -3,9 +3,9 @@ title: "Section 956957 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 64
 usc_title: 22
 usc_section: "956957"
 chapter: 14
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 956957"
-generated_at: "2026-03-30T04:32:34.591Z"
+generated_at: "2026-03-30T04:34:03.702Z"
 status: "repealed"
 ---
 

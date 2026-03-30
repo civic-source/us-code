@@ -3,9 +3,9 @@ title: "Section 2022 - Disposition of claims"
 usc_title: 7
 usc_section: "2022"
 chapter: 51
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 2022"
-generated_at: "2026-03-30T04:31:56.972Z"
+generated_at: "2026-03-30T04:33:35.978Z"
 status: "active"
 ---
 

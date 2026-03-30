@@ -3,9 +3,9 @@ title: "Section 2678to2678d - Omitted"
 usc_title: 42
 usc_section: "2678to2678d"
 chapter: 33
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 2678to2678d"
-generated_at: "2026-03-30T04:33:07.994Z"
+generated_at: "2026-03-30T04:34:39.551Z"
 status: "omitted"
 ---
 

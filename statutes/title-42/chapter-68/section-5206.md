@@ -3,9 +3,9 @@ title: "Section 5206 - Buy American"
 usc_title: 42
 usc_section: "5206"
 chapter: 68
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 5206"
-generated_at: "2026-03-30T04:33:08.056Z"
+generated_at: "2026-03-30T04:34:39.612Z"
 status: "active"
 ---
 

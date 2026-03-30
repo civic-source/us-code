@@ -3,9 +3,9 @@ title: "Section 4034 - Retroactive application for certain liquidations and reli
 usc_title: 19
 usc_section: "4034"
 chapter: 26
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "19 U.S.C. § 4034"
-generated_at: "2026-03-30T04:32:21.088Z"
+generated_at: "2026-03-30T04:33:50.241Z"
 status: "active"
 ---
 

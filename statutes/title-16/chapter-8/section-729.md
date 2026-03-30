@@ -3,9 +3,9 @@ title: "Section 729 - Price per acre"
 usc_title: 16
 usc_section: "729"
 chapter: 8
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 729"
-generated_at: "2026-03-30T04:32:27.352Z"
+generated_at: "2026-03-30T04:33:54.895Z"
 status: "active"
 ---
 

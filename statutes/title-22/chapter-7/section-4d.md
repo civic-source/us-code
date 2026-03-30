@@ -3,9 +3,9 @@ title: "Section 4d - Initiation of discussions to facilitate financing of human 
 usc_title: 22
 usc_section: "4d"
 chapter: 7
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 4d"
-generated_at: "2026-03-30T04:32:34.573Z"
+generated_at: "2026-03-30T04:34:03.684Z"
 status: "active"
 ---
 

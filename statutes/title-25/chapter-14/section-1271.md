@@ -3,9 +3,9 @@ title: "Section 1271 - Disposition of judgment funds"
 usc_title: 25
 usc_section: "1271"
 chapter: 14
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 1271"
-generated_at: "2026-03-30T04:32:32.806Z"
+generated_at: "2026-03-30T04:33:59.907Z"
 status: "active"
 ---
 

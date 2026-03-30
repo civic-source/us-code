@@ -3,9 +3,9 @@ title: "Section 10217 - Non-dual status technicians"
 usc_title: 10
 usc_section: "10217"
 chapter: 1007
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 10217"
-generated_at: "2026-03-30T04:32:08.705Z"
+generated_at: "2026-03-30T04:33:39.133Z"
 status: "active"
 ---
 

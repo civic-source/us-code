@@ -3,9 +3,9 @@ title: "Section 124 - Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1
 usc_title: 23
 usc_section: "124"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "23 U.S.C. § 124"
-generated_at: "2026-03-30T04:32:31.130Z"
+generated_at: "2026-03-30T04:33:57.659Z"
 status: "repealed"
 ---
 

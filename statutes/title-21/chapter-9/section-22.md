@@ -3,9 +3,9 @@ title: "Section 22 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "22"
 chapter: 9
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "21 U.S.C. § 22"
-generated_at: "2026-03-30T04:32:31.895Z"
+generated_at: "2026-03-30T04:33:59.061Z"
 status: "active"
 ---
 

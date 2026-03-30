@@ -3,9 +3,9 @@ title: "Section 11002 - Substances and facilities covered and notification"
 usc_title: 42
 usc_section: "11002"
 chapter: 116
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 11002"
-generated_at: "2026-03-30T04:33:08.206Z"
+generated_at: "2026-03-30T04:34:39.757Z"
 status: "active"
 ---
 

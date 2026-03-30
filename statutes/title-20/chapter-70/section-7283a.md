@@ -3,9 +3,9 @@ title: "Section 7283a - Statement of purpose"
 usc_title: 20
 usc_section: "7283a"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 7283a"
-generated_at: "2026-03-30T04:32:24.066Z"
+generated_at: "2026-03-30T04:33:52.155Z"
 status: "active"
 ---
 

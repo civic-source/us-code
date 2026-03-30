@@ -3,9 +3,9 @@ title: "Section 2182a - Agricultural and productive credit and self-help communi
 usc_title: 22
 usc_section: "2182a"
 chapter: 32
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 2182a"
-generated_at: "2026-03-30T04:32:34.607Z"
+generated_at: "2026-03-30T04:34:03.719Z"
 status: "active"
 ---
 

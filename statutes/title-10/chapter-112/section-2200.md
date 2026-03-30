@@ -3,9 +3,9 @@ title: "Section 2200 - Programs; purpose"
 usc_title: 10
 usc_section: "2200"
 chapter: 112
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 2200"
-generated_at: "2026-03-30T04:32:08.643Z"
+generated_at: "2026-03-30T04:33:39.065Z"
 status: "active"
 ---
 

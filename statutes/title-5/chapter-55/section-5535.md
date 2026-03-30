@@ -3,9 +3,9 @@ title: "Section 5535 - Extra pay for details prohibited"
 usc_title: 5
 usc_section: "5535"
 chapter: 55
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "5 U.S.C. § 5535"
-generated_at: "2026-03-30T04:31:50.508Z"
+generated_at: "2026-03-30T04:33:30.984Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1801 - Definitions"
 usc_title: 50
 usc_section: "1801"
 chapter: 36
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "50 U.S.C. § 1801"
-generated_at: "2026-03-30T04:33:12.870Z"
+generated_at: "2026-03-30T04:34:44.673Z"
 status: "active"
 ---
 

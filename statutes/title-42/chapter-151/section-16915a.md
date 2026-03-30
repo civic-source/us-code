@@ -3,9 +3,9 @@ title: "Section 16915a - Direction to the Attorney General"
 usc_title: 42
 usc_section: "16915a"
 chapter: 151
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 16915a"
-generated_at: "2026-03-30T04:33:08.301Z"
+generated_at: "2026-03-30T04:34:39.849Z"
 status: "active"
 ---
 

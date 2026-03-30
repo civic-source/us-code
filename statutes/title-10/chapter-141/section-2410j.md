@@ -3,9 +3,9 @@ title: "Section 2410j - Displaced contractor employees: assistance to obtain cer
 usc_title: 10
 usc_section: "2410j"
 chapter: 141
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 2410j"
-generated_at: "2026-03-30T04:32:08.657Z"
+generated_at: "2026-03-30T04:33:39.081Z"
 status: "active"
 ---
 

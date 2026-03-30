@@ -3,9 +3,9 @@ title: "Section 254c - Extension of more favorable or less favorable treatment t
 usc_title: 22
 usc_section: "254c"
 chapter: 6
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 254c"
-generated_at: "2026-03-30T04:32:34.570Z"
+generated_at: "2026-03-30T04:34:03.680Z"
 status: "active"
 ---
 

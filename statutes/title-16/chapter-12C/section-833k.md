@@ -3,9 +3,9 @@ title: "Section 833k - Separability"
 usc_title: 16
 usc_section: "833k"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 833k"
-generated_at: "2026-03-30T04:32:27.367Z"
+generated_at: "2026-03-30T04:33:54.913Z"
 status: "active"
 ---
 

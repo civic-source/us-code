@@ -3,9 +3,9 @@ title: "Section 13495 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13495"
 chapter: 134
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 13495"
-generated_at: "2026-03-30T04:33:08.254Z"
+generated_at: "2026-03-30T04:34:39.803Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7321a - Consolidation and use of funds"
 usc_title: 20
 usc_section: "7321a"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 7321a"
-generated_at: "2026-03-30T04:32:24.067Z"
+generated_at: "2026-03-30T04:33:52.157Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 390 - Concessions on reservoir sites and other lands in Indian i
 usc_title: 25
 usc_section: "390"
 chapter: 11
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 390"
-generated_at: "2026-03-30T04:32:32.775Z"
+generated_at: "2026-03-30T04:33:59.876Z"
 status: "active"
 ---
 

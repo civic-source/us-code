@@ -3,9 +3,9 @@ title: "Section 883b - Per capita shares; filing claims; reversion of unclaimed 
 usc_title: 25
 usc_section: "883b"
 chapter: 14
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 883b"
-generated_at: "2026-03-30T04:32:32.801Z"
+generated_at: "2026-03-30T04:33:59.901Z"
 status: "active"
 ---
 

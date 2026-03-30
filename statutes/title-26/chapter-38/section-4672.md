@@ -3,9 +3,9 @@ title: "Section 4672 - Definitions and special rules"
 usc_title: 26
 usc_section: "4672"
 chapter: 38
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "26 U.S.C. § 4672"
-generated_at: "2026-03-30T04:32:42.968Z"
+generated_at: "2026-03-30T04:34:11.552Z"
 status: "active"
 ---
 

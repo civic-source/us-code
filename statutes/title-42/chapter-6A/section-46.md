@@ -3,9 +3,9 @@ title: "Section 46 - Definition"
 usc_title: 42
 usc_section: "46"
 chapter: 6
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 46"
-generated_at: "2026-03-30T04:33:07.702Z"
+generated_at: "2026-03-30T04:34:39.268Z"
 status: "active"
 ---
 

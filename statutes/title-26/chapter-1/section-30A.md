@@ -3,9 +3,9 @@ title: "Section 30A - Puerto Rico economic activity credit"
 usc_title: 26
 usc_section: "30A"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "26 U.S.C. § 30A"
-generated_at: "2026-03-30T04:32:42.793Z"
+generated_at: "2026-03-30T04:34:11.376Z"
 status: "active"
 ---
 

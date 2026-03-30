@@ -3,9 +3,9 @@ title: "Section 1004 - Penalties"
 usc_title: 15
 usc_section: "1004"
 chapter: 19
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "15 U.S.C. § 1004"
-generated_at: "2026-03-30T04:32:17.678Z"
+generated_at: "2026-03-30T04:33:45.772Z"
 status: "active"
 ---
 

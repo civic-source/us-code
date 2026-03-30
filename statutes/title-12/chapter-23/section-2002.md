@@ -3,9 +3,9 @@ title: "Section 2002 - Farm Credit System"
 usc_title: 12
 usc_section: "2002"
 chapter: 23
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "12 U.S.C. § 2002"
-generated_at: "2026-03-30T04:32:14.393Z"
+generated_at: "2026-03-30T04:33:43.940Z"
 status: "active"
 ---
 

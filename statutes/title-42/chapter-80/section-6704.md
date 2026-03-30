@@ -3,9 +3,9 @@ title: "Section 6704 - Grants providing State or local contributions required un
 usc_title: 42
 usc_section: "6704"
 chapter: 80
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 6704"
-generated_at: "2026-03-30T04:33:08.094Z"
+generated_at: "2026-03-30T04:34:39.650Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 445b - Administration by National Park Service; powers and dutie
 usc_title: 16
 usc_section: "445b"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 445b"
-generated_at: "2026-03-30T04:32:27.284Z"
+generated_at: "2026-03-30T04:33:54.820Z"
 status: "active"
 ---
 

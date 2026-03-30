@@ -3,9 +3,9 @@ title: "Section 8111 - Sharing of Department of Veterans Affairs and Department 
 usc_title: 38
 usc_section: "8111"
 chapter: 81
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "38 U.S.C. § 8111"
-generated_at: "2026-03-30T04:32:50.173Z"
+generated_at: "2026-03-30T04:34:24.472Z"
 status: "active"
 ---
 

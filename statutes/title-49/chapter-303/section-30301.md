@@ -3,9 +3,9 @@ title: "Section 30301 - Definitions"
 usc_title: 49
 usc_section: "30301"
 chapter: 303
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "49 U.S.C. § 30301"
-generated_at: "2026-03-30T04:33:14.470Z"
+generated_at: "2026-03-30T04:34:47.993Z"
 status: "active"
 ---
 

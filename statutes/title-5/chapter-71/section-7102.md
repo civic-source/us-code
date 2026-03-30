@@ -3,9 +3,9 @@ title: "Section 7102 - Employees’ rights"
 usc_title: 5
 usc_section: "7102"
 chapter: 71
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "5 U.S.C. § 7102"
-generated_at: "2026-03-30T04:31:50.518Z"
+generated_at: "2026-03-30T04:33:30.994Z"
 status: "active"
 ---
 

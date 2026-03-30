@@ -3,9 +3,9 @@ title: "Section 53503 - Establishing a capital construction fund"
 usc_title: 46
 usc_section: "53503"
 chapter: 535
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "46 U.S.C. § 53503"
-generated_at: "2026-03-30T04:33:11.888Z"
+generated_at: "2026-03-30T04:34:42.941Z"
 status: "active"
 ---
 

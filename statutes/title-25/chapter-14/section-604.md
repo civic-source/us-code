@@ -3,9 +3,9 @@ title: "Section 604 - Loss of membership and removal from roll"
 usc_title: 25
 usc_section: "604"
 chapter: 14
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 604"
-generated_at: "2026-03-30T04:32:32.789Z"
+generated_at: "2026-03-30T04:33:59.890Z"
 status: "active"
 ---
 

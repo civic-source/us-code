@@ -3,9 +3,9 @@ title: "Section 12304a - Army Reserve, Navy Reserve, Marine Corps Reserve, and A
 usc_title: 10
 usc_section: "12304a"
 chapter: 1209
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 12304a"
-generated_at: "2026-03-30T04:32:08.709Z"
+generated_at: "2026-03-30T04:33:39.137Z"
 status: "active"
 ---
 

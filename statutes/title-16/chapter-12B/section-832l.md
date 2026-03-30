@@ -3,9 +3,9 @@ title: "Section 832l - Separability"
 usc_title: 16
 usc_section: "832l"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 832l"
-generated_at: "2026-03-30T04:32:27.367Z"
+generated_at: "2026-03-30T04:33:54.912Z"
 status: "active"
 ---
 

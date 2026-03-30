@@ -3,9 +3,9 @@ title: "Section 7201 - Definitions"
 usc_title: 22
 usc_section: "7201"
 chapter: 79
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 7201"
-generated_at: "2026-03-30T04:32:34.680Z"
+generated_at: "2026-03-30T04:34:03.794Z"
 status: "active"
 ---
 

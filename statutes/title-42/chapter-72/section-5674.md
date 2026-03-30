@@ -3,9 +3,9 @@ title: "Section 5674 - Use of funds"
 usc_title: 42
 usc_section: "5674"
 chapter: 72
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 5674"
-generated_at: "2026-03-30T04:33:08.067Z"
+generated_at: "2026-03-30T04:34:39.623Z"
 status: "active"
 ---
 

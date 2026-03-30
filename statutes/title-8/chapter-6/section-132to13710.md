@@ -3,9 +3,9 @@ title: "Section 132to13710 - Repealed. June 27, 1952, ch. 477 , title IV, § 403
 usc_title: 8
 usc_section: "132to13710"
 chapter: 6
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "8 U.S.C. § 132to13710"
-generated_at: "2026-03-30T04:32:00.466Z"
+generated_at: "2026-03-30T04:33:33.450Z"
 status: "repealed"
 ---
 

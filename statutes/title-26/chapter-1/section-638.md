@@ -3,9 +3,9 @@ title: "Section 638 - Continental shelf areas"
 usc_title: 26
 usc_section: "638"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "26 U.S.C. § 638"
-generated_at: "2026-03-30T04:32:42.893Z"
+generated_at: "2026-03-30T04:34:11.477Z"
 status: "active"
 ---
 

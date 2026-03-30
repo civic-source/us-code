@@ -3,9 +3,9 @@ title: "Section 2304 - Duty to provide assistance at sea"
 usc_title: 46
 usc_section: "2304"
 chapter: 23
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "46 U.S.C. § 2304"
-generated_at: "2026-03-30T04:33:11.867Z"
+generated_at: "2026-03-30T04:34:42.918Z"
 status: "active"
 ---
 

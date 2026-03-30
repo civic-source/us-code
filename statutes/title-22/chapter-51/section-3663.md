@@ -3,9 +3,9 @@ title: "Section 3663 - Repealed. Pub. L. 105–261, div. C, title XXXV, § 3508(
 usc_title: 22
 usc_section: "3663"
 chapter: 51
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 3663"
-generated_at: "2026-03-30T04:32:34.643Z"
+generated_at: "2026-03-30T04:34:03.755Z"
 status: "repealed"
 ---
 

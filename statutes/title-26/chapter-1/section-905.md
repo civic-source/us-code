@@ -3,9 +3,9 @@ title: "Section 905 - Applicable rules"
 usc_title: 26
 usc_section: "905"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "26 U.S.C. § 905"
-generated_at: "2026-03-30T04:32:42.914Z"
+generated_at: "2026-03-30T04:34:11.498Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13942 - Confidentiality of communications between sexual assault
 usc_title: 42
 usc_section: "13942"
 chapter: 136
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 13942"
-generated_at: "2026-03-30T04:33:08.262Z"
+generated_at: "2026-03-30T04:34:39.810Z"
 status: "active"
 ---
 

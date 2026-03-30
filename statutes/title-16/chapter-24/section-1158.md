@@ -3,9 +3,9 @@ title: "Section 1158 - Acceptance or rejection by Secretaries of State and Comme
 usc_title: 16
 usc_section: "1158"
 chapter: 24
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 1158"
-generated_at: "2026-03-30T04:32:27.378Z"
+generated_at: "2026-03-30T04:33:54.925Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 72c - Repealed. Pub. L. 104–186, title II, § 204(13) , Aug. 2
 usc_title: 2
 usc_section: "72c"
 chapter: 4
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "2 U.S.C. § 72c"
-generated_at: "2026-03-30T04:31:47.439Z"
+generated_at: "2026-03-30T04:33:29.723Z"
 status: "repealed"
 ---
 

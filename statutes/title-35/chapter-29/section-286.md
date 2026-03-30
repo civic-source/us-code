@@ -3,9 +3,9 @@ title: "Section 286 - Time limitation on damages"
 usc_title: 35
 usc_section: "286"
 chapter: 29
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "35 U.S.C. § 286"
-generated_at: "2026-03-30T04:32:44.803Z"
+generated_at: "2026-03-30T04:34:18.125Z"
 status: "active"
 ---
 

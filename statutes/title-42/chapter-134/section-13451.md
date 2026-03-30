@@ -3,9 +3,9 @@ title: "Section 13451 - General improved energy efficiency"
 usc_title: 42
 usc_section: "13451"
 chapter: 134
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 13451"
-generated_at: "2026-03-30T04:33:08.253Z"
+generated_at: "2026-03-30T04:34:39.802Z"
 status: "active"
 ---
 

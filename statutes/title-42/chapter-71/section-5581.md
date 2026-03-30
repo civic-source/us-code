@@ -3,9 +3,9 @@ title: "Section 5581 - Congressional findings and declaration of policy"
 usc_title: 42
 usc_section: "5581"
 chapter: 71
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 5581"
-generated_at: "2026-03-30T04:33:08.063Z"
+generated_at: "2026-03-30T04:34:39.619Z"
 status: "active"
 ---
 

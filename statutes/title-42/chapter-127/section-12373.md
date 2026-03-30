@@ -3,9 +3,9 @@ title: "Section 12373 - Conference administration"
 usc_title: 42
 usc_section: "12373"
 chapter: 127
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 12373"
-generated_at: "2026-03-30T04:33:08.224Z"
+generated_at: "2026-03-30T04:34:39.774Z"
 status: "active"
 ---
 

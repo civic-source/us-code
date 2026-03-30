@@ -3,9 +3,9 @@ title: "Section 60e60e1 - Repealed. Pub. L. 107–68, title I, § 116(b)(1) , (2
 usc_title: 2
 usc_section: "60e60e1"
 chapter: 4
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "2 U.S.C. § 60e60e1"
-generated_at: "2026-03-30T04:31:47.438Z"
+generated_at: "2026-03-30T04:33:29.723Z"
 status: "repealed"
 ---
 

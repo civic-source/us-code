@@ -3,9 +3,9 @@ title: "Section 329a - Omitted"
 usc_title: 12
 usc_section: "329a"
 chapter: 3
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "12 U.S.C. § 329a"
-generated_at: "2026-03-30T04:32:14.309Z"
+generated_at: "2026-03-30T04:33:43.853Z"
 status: "omitted"
 ---
 

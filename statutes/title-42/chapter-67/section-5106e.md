@@ -3,9 +3,9 @@ title: "Section 5106e - Coordination of child abuse and neglect programs"
 usc_title: 42
 usc_section: "5106e"
 chapter: 67
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 5106e"
-generated_at: "2026-03-30T04:33:08.049Z"
+generated_at: "2026-03-30T04:34:39.605Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16001 - Energy efficiency in federally assisted housing"
 usc_title: 42
 usc_section: "16001"
 chapter: 149
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 16001"
-generated_at: "2026-03-30T04:33:08.288Z"
+generated_at: "2026-03-30T04:34:39.836Z"
 status: "active"
 ---
 

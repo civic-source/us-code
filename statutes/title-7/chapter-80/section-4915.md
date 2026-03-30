@@ -3,9 +3,9 @@ title: "Section 4915 - Separability"
 usc_title: 7
 usc_section: "4915"
 chapter: 80
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 4915"
-generated_at: "2026-03-30T04:31:57.001Z"
+generated_at: "2026-03-30T04:33:36.008Z"
 status: "active"
 ---
 

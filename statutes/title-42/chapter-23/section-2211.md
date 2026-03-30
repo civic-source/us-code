@@ -3,9 +3,9 @@ title: "Section 2211 - Payment of claims or judgments for damage resulting from 
 usc_title: 42
 usc_section: "2211"
 chapter: 23
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 2211"
-generated_at: "2026-03-30T04:33:07.986Z"
+generated_at: "2026-03-30T04:34:39.543Z"
 status: "active"
 ---
 

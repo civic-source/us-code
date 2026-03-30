@@ -3,9 +3,9 @@ title: "Section 2611to2620 - Repealed. Pub. L. 93–203, title VII, § 714 , for
 usc_title: 42
 usc_section: "2611to2620"
 chapter: 30
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 2611to2620"
-generated_at: "2026-03-30T04:33:07.994Z"
+generated_at: "2026-03-30T04:34:39.551Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13962 - State databases"
 usc_title: 42
 usc_section: "13962"
 chapter: 136
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 13962"
-generated_at: "2026-03-30T04:33:08.262Z"
+generated_at: "2026-03-30T04:34:39.810Z"
 status: "active"
 ---
 

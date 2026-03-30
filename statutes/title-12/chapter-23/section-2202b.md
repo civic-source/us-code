@@ -3,9 +3,9 @@ title: "Section 2202b - Effect of restructuring on borrower stock"
 usc_title: 12
 usc_section: "2202b"
 chapter: 23
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "12 U.S.C. § 2202b"
-generated_at: "2026-03-30T04:32:14.397Z"
+generated_at: "2026-03-30T04:33:43.944Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14044c - Enhancing State and local efforts to combat trafficking
 usc_title: 42
 usc_section: "14044c"
 chapter: 136
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 14044c"
-generated_at: "2026-03-30T04:33:08.266Z"
+generated_at: "2026-03-30T04:34:39.815Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 802to807 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oc
 usc_title: 22
 usc_section: "802to807"
 chapter: 14
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 802to807"
-generated_at: "2026-03-30T04:32:34.591Z"
+generated_at: "2026-03-30T04:34:03.702Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 460ggg - Wilderness"
 usc_title: 16
 usc_section: "460ggg"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 460ggg"
-generated_at: "2026-03-30T04:32:27.310Z"
+generated_at: "2026-03-30T04:33:54.849Z"
 status: "active"
 ---
 

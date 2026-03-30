@@ -3,9 +3,9 @@ title: "Section 196 - Emergency foreign vessel acquisition; purchase or requisit
 usc_title: 50
 usc_section: "196"
 chapter: 12
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "50 U.S.C. § 196"
-generated_at: "2026-03-30T04:33:12.864Z"
+generated_at: "2026-03-30T04:34:44.667Z"
 status: "active"
 ---
 

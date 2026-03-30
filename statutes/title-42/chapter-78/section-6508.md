@@ -3,9 +3,9 @@ title: "Section 6508 - Transferred"
 usc_title: 42
 usc_section: "6508"
 chapter: 78
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 6508"
-generated_at: "2026-03-30T04:33:08.092Z"
+generated_at: "2026-03-30T04:34:39.648Z"
 status: "transferred"
 ---
 

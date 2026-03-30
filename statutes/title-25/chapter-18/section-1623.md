@@ -3,9 +3,9 @@ title: "Section 1623 - Special rules relating to Indians"
 usc_title: 25
 usc_section: "1623"
 chapter: 18
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 1623"
-generated_at: "2026-03-30T04:32:32.818Z"
+generated_at: "2026-03-30T04:33:59.918Z"
 status: "active"
 ---
 

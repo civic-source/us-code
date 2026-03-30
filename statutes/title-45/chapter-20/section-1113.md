@@ -3,9 +3,9 @@ title: "Section 1113 - Intercity passenger service"
 usc_title: 45
 usc_section: "1113"
 chapter: 20
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "45 U.S.C. § 1113"
-generated_at: "2026-03-30T04:32:53.852Z"
+generated_at: "2026-03-30T04:34:27.642Z"
 status: "active"
 ---
 

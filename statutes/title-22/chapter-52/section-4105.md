@@ -3,9 +3,9 @@ title: "Section 4105 - Management rights"
 usc_title: 22
 usc_section: "4105"
 chapter: 52
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "22 U.S.C. § 4105"
-generated_at: "2026-03-30T04:32:34.653Z"
+generated_at: "2026-03-30T04:34:03.764Z"
 status: "active"
 ---
 

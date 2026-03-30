@@ -3,9 +3,9 @@ title: "Section 952 - Repealed. Pub. L. 85–105, § 2 , July 17, 1957 , 71 Stat
 usc_title: 7
 usc_section: "952"
 chapter: 32
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 952"
-generated_at: "2026-03-30T04:31:56.922Z"
+generated_at: "2026-03-30T04:33:35.925Z"
 status: "repealed"
 ---
 

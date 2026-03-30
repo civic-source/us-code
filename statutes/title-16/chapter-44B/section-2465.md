@@ -3,9 +3,9 @@ title: "Section 2465 - Enforcement"
 usc_title: 16
 usc_section: "2465"
 chapter: 44
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 2465"
-generated_at: "2026-03-30T04:32:27.417Z"
+generated_at: "2026-03-30T04:33:54.967Z"
 status: "active"
 ---
 

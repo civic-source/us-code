@@ -3,9 +3,9 @@ title: "Section 4641to4645 - Repealed. Pub. L. 100–297, title I, § 1003(e) , 
 usc_title: 20
 usc_section: "4641to4645"
 chapter: 58
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 4641to4645"
-generated_at: "2026-03-30T04:32:24.033Z"
+generated_at: "2026-03-30T04:33:52.120Z"
 status: "repealed"
 ---
 

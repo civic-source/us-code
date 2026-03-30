@@ -3,9 +3,9 @@ title: "Section 1071 - Purpose of this chapter"
 usc_title: 10
 usc_section: "1071"
 chapter: 55
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 1071"
-generated_at: "2026-03-30T04:32:08.614Z"
+generated_at: "2026-03-30T04:33:39.033Z"
 status: "active"
 ---
 

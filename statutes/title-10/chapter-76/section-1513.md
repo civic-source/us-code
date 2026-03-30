@@ -3,9 +3,9 @@ title: "Section 1513 - Definitions"
 usc_title: 10
 usc_section: "1513"
 chapter: 76
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 1513"
-generated_at: "2026-03-30T04:32:08.632Z"
+generated_at: "2026-03-30T04:33:39.053Z"
 status: "active"
 ---
 

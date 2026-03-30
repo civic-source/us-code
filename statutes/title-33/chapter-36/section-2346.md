@@ -3,9 +3,9 @@ title: "Section 2346 - Project administration"
 usc_title: 33
 usc_section: "2346"
 chapter: 36
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "33 U.S.C. § 2346"
-generated_at: "2026-03-30T04:32:46.469Z"
+generated_at: "2026-03-30T04:34:20.141Z"
 status: "active"
 ---
 

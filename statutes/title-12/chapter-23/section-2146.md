@@ -3,9 +3,9 @@ title: "Section 2146 - Capitalization"
 usc_title: 12
 usc_section: "2146"
 chapter: 23
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "12 U.S.C. § 2146"
-generated_at: "2026-03-30T04:32:14.395Z"
+generated_at: "2026-03-30T04:33:43.942Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6766 - Local activities"
 usc_title: 20
 usc_section: "6766"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 6766"
-generated_at: "2026-03-30T04:32:24.053Z"
+generated_at: "2026-03-30T04:33:52.142Z"
 status: "active"
 ---
 

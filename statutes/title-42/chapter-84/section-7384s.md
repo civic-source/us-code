@@ -3,9 +3,9 @@ title: "Section 7384s - Compensation and benefits to be provided"
 usc_title: 42
 usc_section: "7384s"
 chapter: 84
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 7384s"
-generated_at: "2026-03-30T04:33:08.116Z"
+generated_at: "2026-03-30T04:34:39.672Z"
 status: "active"
 ---
 

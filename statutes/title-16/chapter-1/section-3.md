@@ -3,9 +3,9 @@ title: "Section 3 - Maps and legal descriptions"
 usc_title: 16
 usc_section: "3"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T04:32:27.318Z"
+generated_at: "2026-03-30T04:33:54.857Z"
 status: "active"
 ---
 

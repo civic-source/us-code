@@ -3,9 +3,9 @@ title: "Section 1106 - Improved cellular service in rural areas"
 usc_title: 47
 usc_section: "1106"
 chapter: 10
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "47 U.S.C. § 1106"
-generated_at: "2026-03-30T04:33:11.112Z"
+generated_at: "2026-03-30T04:34:45.101Z"
 status: "active"
 ---
 

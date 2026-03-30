@@ -3,9 +3,9 @@ title: "Section 716 - Commissioned officers: transfers among the armed forces, t
 usc_title: 10
 usc_section: "716"
 chapter: 41
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 716"
-generated_at: "2026-03-30T04:32:08.603Z"
+generated_at: "2026-03-30T04:33:39.019Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 404a - Specific limitations"
 usc_title: 39
 usc_section: "404a"
 chapter: 4
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "39 U.S.C. § 404a"
-generated_at: "2026-03-30T04:32:50.352Z"
+generated_at: "2026-03-30T04:34:22.003Z"
 status: "active"
 ---
 

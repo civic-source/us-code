@@ -3,9 +3,9 @@ title: "Section 3259to3261 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "3259to3261"
 chapter: 333
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 3259to3261"
-generated_at: "2026-03-30T04:32:08.679Z"
+generated_at: "2026-03-30T04:33:39.104Z"
 status: "repealed"
 ---
 

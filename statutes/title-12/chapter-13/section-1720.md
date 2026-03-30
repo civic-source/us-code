@@ -3,9 +3,9 @@ title: "Section 1720 - Repealed. Pub. L. 98–181, title I [title IV, § 483(a)]
 usc_title: 12
 usc_section: "1720"
 chapter: 13
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "12 U.S.C. § 1720"
-generated_at: "2026-03-30T04:32:14.352Z"
+generated_at: "2026-03-30T04:33:43.899Z"
 status: "repealed"
 ---
 

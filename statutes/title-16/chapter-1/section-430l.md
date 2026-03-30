@@ -3,9 +3,9 @@ title: "Section 430l - Leases with preceding owners of acquired lands; condition
 usc_title: 16
 usc_section: "430l"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 430l"
-generated_at: "2026-03-30T04:32:27.281Z"
+generated_at: "2026-03-30T04:33:54.817Z"
 status: "active"
 ---
 

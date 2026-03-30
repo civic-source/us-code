@@ -3,9 +3,9 @@ title: "Section 1000 - Short title"
 usc_title: 7
 usc_section: "1000"
 chapter: 33
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 1000"
-generated_at: "2026-03-30T04:31:56.923Z"
+generated_at: "2026-03-30T04:33:35.925Z"
 status: "active"
 ---
 

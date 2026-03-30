@@ -3,9 +3,9 @@ title: "Section 922 - Payment of benefits"
 usc_title: 30
 usc_section: "922"
 chapter: 22
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "30 U.S.C. § 922"
-generated_at: "2026-03-30T04:32:37.061Z"
+generated_at: "2026-03-30T04:34:12.490Z"
 status: "active"
 ---
 

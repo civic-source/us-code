@@ -3,9 +3,9 @@ title: "Section 6566 - Repealed. Pub. L. 104–287, § 10(b) , Oct. 11, 1996 , 1
 usc_title: 45
 usc_section: "6566"
 chapter: 3
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "45 U.S.C. § 6566"
-generated_at: "2026-03-30T04:32:53.831Z"
+generated_at: "2026-03-30T04:34:27.622Z"
 status: "repealed"
 ---
 

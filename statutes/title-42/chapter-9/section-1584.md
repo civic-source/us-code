@@ -3,9 +3,9 @@ title: "Section 1584 - Removal of all dwelling structures on land under Secretar
 usc_title: 42
 usc_section: "1584"
 chapter: 9
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 1584"
-generated_at: "2026-03-30T04:33:07.941Z"
+generated_at: "2026-03-30T04:34:39.499Z"
 status: "active"
 ---
 

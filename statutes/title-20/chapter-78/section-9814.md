@@ -3,9 +3,9 @@ title: "Section 9814 - Programs for master’s degrees in science, technology, e
 usc_title: 20
 usc_section: "9814"
 chapter: 78
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 9814"
-generated_at: "2026-03-30T04:32:24.084Z"
+generated_at: "2026-03-30T04:33:52.175Z"
 status: "active"
 ---
 

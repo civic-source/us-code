@@ -3,9 +3,9 @@ title: "Section 6978 - Mixed-funded athletic and recreational extracurricular pr
 usc_title: 10
 usc_section: "6978"
 chapter: 603
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 6978"
-generated_at: "2026-03-30T04:32:08.691Z"
+generated_at: "2026-03-30T04:33:39.118Z"
 status: "active"
 ---
 

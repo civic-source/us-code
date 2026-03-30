@@ -3,9 +3,9 @@ title: "Section 1562 - False representations as certified seed; required provisi
 usc_title: 7
 usc_section: "1562"
 chapter: 37
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 1562"
-generated_at: "2026-03-30T04:31:56.943Z"
+generated_at: "2026-03-30T04:33:35.946Z"
 status: "active"
 ---
 

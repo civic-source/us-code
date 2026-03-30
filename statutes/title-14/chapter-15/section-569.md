@@ -3,9 +3,9 @@ title: "Section 569 - Mission need statement"
 usc_title: 14
 usc_section: "569"
 chapter: 15
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "14 U.S.C. § 569"
-generated_at: "2026-03-30T04:32:10.955Z"
+generated_at: "2026-03-30T04:33:41.447Z"
 status: "active"
 ---
 

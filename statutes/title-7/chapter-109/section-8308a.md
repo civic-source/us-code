@@ -3,9 +3,9 @@ title: "Section 8308a - National animal health laboratory network"
 usc_title: 7
 usc_section: "8308a"
 chapter: 109
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 8308a"
-generated_at: "2026-03-30T04:31:57.041Z"
+generated_at: "2026-03-30T04:33:36.054Z"
 status: "active"
 ---
 

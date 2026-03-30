@@ -3,9 +3,9 @@ title: "Section 6367 - Information dissemination"
 usc_title: 20
 usc_section: "6367"
 chapter: 70
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 6367"
-generated_at: "2026-03-30T04:32:24.044Z"
+generated_at: "2026-03-30T04:33:52.133Z"
 status: "active"
 ---
 

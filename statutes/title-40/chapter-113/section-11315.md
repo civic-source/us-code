@@ -3,9 +3,9 @@ title: "Section 11315 - Agency Chief Information Officer"
 usc_title: 40
 usc_section: "11315"
 chapter: 113
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "40 U.S.C. § 11315"
-generated_at: "2026-03-30T04:32:50.784Z"
+generated_at: "2026-03-30T04:34:23.311Z"
 status: "active"
 ---
 

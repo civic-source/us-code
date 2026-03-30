@@ -3,9 +3,9 @@ title: "Section 7331 - Options pilot program"
 usc_title: 7
 usc_section: "7331"
 chapter: 100
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "7 U.S.C. § 7331"
-generated_at: "2026-03-30T04:31:57.023Z"
+generated_at: "2026-03-30T04:33:36.034Z"
 status: "active"
 ---
 

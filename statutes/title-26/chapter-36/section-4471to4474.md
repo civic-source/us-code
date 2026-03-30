@@ -3,9 +3,9 @@ title: "Section 4471to4474 - Repealed. Pub. L. 89–44, title IV, § 404 , June 
 usc_title: 26
 usc_section: "4471to4474"
 chapter: 36
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "26 U.S.C. § 4471to4474"
-generated_at: "2026-03-30T04:32:42.967Z"
+generated_at: "2026-03-30T04:34:11.551Z"
 status: "repealed"
 ---
 

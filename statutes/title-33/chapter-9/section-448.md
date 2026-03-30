@@ -3,9 +3,9 @@ title: "Section 448 - Return of permit; penalty for failure to return"
 usc_title: 33
 usc_section: "448"
 chapter: 9
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "33 U.S.C. § 448"
-generated_at: "2026-03-30T04:32:46.415Z"
+generated_at: "2026-03-30T04:34:20.087Z"
 status: "active"
 ---
 

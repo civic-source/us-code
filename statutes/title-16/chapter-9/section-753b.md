@@ -3,9 +3,9 @@ title: "Section 753b - Authorization of appropriations"
 usc_title: 16
 usc_section: "753b"
 chapter: 9
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "16 U.S.C. § 753b"
-generated_at: "2026-03-30T04:32:27.353Z"
+generated_at: "2026-03-30T04:33:54.897Z"
 status: "active"
 ---
 

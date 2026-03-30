@@ -3,9 +3,9 @@ title: "Section 3755 - Formula"
 usc_title: 42
 usc_section: "3755"
 chapter: 46
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 3755"
-generated_at: "2026-03-30T04:33:08.019Z"
+generated_at: "2026-03-30T04:34:39.576Z"
 status: "active"
 ---
 

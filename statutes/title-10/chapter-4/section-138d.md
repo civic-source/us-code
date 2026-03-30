@@ -3,9 +3,9 @@ title: "Section 138d - Repealed. Pub. L. 113–291, div. A, title IX, § 901(h)(
 usc_title: 10
 usc_section: "138d"
 chapter: 4
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 138d"
-generated_at: "2026-03-30T04:32:08.588Z"
+generated_at: "2026-03-30T04:33:39.003Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3331 - Purpose"
 usc_title: 12
 usc_section: "3331"
 chapter: 34
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "12 U.S.C. § 3331"
-generated_at: "2026-03-30T04:32:14.413Z"
+generated_at: "2026-03-30T04:33:43.961Z"
 status: "active"
 ---
 

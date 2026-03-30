@@ -3,9 +3,9 @@ title: "Section 16982 - Assistance for prosecution of cases cleared through use 
 usc_title: 42
 usc_section: "16982"
 chapter: 151
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 16982"
-generated_at: "2026-03-30T04:33:08.303Z"
+generated_at: "2026-03-30T04:34:39.850Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 853a - Transferred"
 usc_title: 21
 usc_section: "853a"
 chapter: 13
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "21 U.S.C. § 853a"
-generated_at: "2026-03-30T04:32:31.915Z"
+generated_at: "2026-03-30T04:33:59.083Z"
 status: "transferred"
 ---
 

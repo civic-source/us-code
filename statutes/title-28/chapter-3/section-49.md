@@ -3,9 +3,9 @@ title: "Section 49 - Assignment of judges to division to appoint independent cou
 usc_title: 28
 usc_section: "49"
 chapter: 3
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "28 U.S.C. § 49"
-generated_at: "2026-03-30T04:32:37.761Z"
+generated_at: "2026-03-30T04:34:06.482Z"
 status: "active"
 ---
 

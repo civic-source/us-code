@@ -3,9 +3,9 @@ title: "Section 12858 - Transition"
 usc_title: 42
 usc_section: "12858"
 chapter: 130
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 12858"
-generated_at: "2026-03-30T04:33:08.242Z"
+generated_at: "2026-03-30T04:34:39.792Z"
 status: "active"
 ---
 

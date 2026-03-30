@@ -3,9 +3,9 @@ title: "Section 7049 - Defense industry civilians: admission to defense product 
 usc_title: 10
 usc_section: "7049"
 chapter: 605
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 7049"
-generated_at: "2026-03-30T04:32:08.692Z"
+generated_at: "2026-03-30T04:33:39.118Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5318A - Special measures for jurisdictions, financial institutio
 usc_title: 31
 usc_section: "5318A"
 chapter: 53
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "31 U.S.C. § 5318A"
-generated_at: "2026-03-30T04:32:45.622Z"
+generated_at: "2026-03-30T04:34:18.985Z"
 status: "active"
 ---
 

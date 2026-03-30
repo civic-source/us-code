@@ -3,9 +3,9 @@ title: "Section 1775g - Effect of revocation of State Agreement"
 usc_title: 25
 usc_section: "1775g"
 chapter: 19
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "25 U.S.C. § 1775g"
-generated_at: "2026-03-30T04:32:32.829Z"
+generated_at: "2026-03-30T04:33:59.929Z"
 status: "active"
 ---
 

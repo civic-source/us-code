@@ -3,9 +3,9 @@ title: "Section 714n - Transfer of assets of Commodity Credit Corporation, a Del
 usc_title: 15
 usc_section: "714n"
 chapter: 15
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "15 U.S.C. § 714n"
-generated_at: "2026-03-30T04:32:17.671Z"
+generated_at: "2026-03-30T04:33:45.764Z"
 status: "active"
 ---
 

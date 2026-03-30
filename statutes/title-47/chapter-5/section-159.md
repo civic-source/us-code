@@ -3,9 +3,9 @@ title: "Section 159 - Regulatory fees"
 usc_title: 47
 usc_section: "159"
 chapter: 5
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "47 U.S.C. § 159"
-generated_at: "2026-03-30T04:33:11.082Z"
+generated_at: "2026-03-30T04:34:45.070Z"
 status: "active"
 ---
 

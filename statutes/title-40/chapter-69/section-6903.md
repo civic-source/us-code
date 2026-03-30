@@ -3,9 +3,9 @@ title: "Section 6903 - Agreements and contracts"
 usc_title: 40
 usc_section: "6903"
 chapter: 69
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "40 U.S.C. § 6903"
-generated_at: "2026-03-30T04:32:50.781Z"
+generated_at: "2026-03-30T04:34:23.308Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1556 - Bonded warehouses; regulations for establishing"
 usc_title: 19
 usc_section: "1556"
 chapter: 4
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "19 U.S.C. § 1556"
-generated_at: "2026-03-30T04:32:21.038Z"
+generated_at: "2026-03-30T04:33:50.190Z"
 status: "active"
 ---
 

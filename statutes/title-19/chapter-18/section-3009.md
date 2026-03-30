@@ -3,9 +3,9 @@ title: "Section 3009 - Coordination of trade policy and Convention"
 usc_title: 19
 usc_section: "3009"
 chapter: 18
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "19 U.S.C. § 3009"
-generated_at: "2026-03-30T04:32:21.074Z"
+generated_at: "2026-03-30T04:33:50.227Z"
 status: "active"
 ---
 

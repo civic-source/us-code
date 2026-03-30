@@ -3,9 +3,9 @@ title: "Section 3111 - Congressional statement of purpose"
 usc_title: 15
 usc_section: "3111"
 chapter: 58
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "15 U.S.C. § 3111"
-generated_at: "2026-03-30T04:32:17.734Z"
+generated_at: "2026-03-30T04:33:45.833Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6305 - Advisory council on transportation statistics"
 usc_title: 49
 usc_section: "6305"
 chapter: 63
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "49 U.S.C. § 6305"
-generated_at: "2026-03-30T04:33:14.450Z"
+generated_at: "2026-03-30T04:34:47.970Z"
 status: "active"
 ---
 

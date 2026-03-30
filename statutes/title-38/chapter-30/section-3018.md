@@ -3,9 +3,9 @@ title: "Section 3018 - Opportunity for certain active-duty personnel to withdraw
 usc_title: 38
 usc_section: "3018"
 chapter: 30
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "38 U.S.C. § 3018"
-generated_at: "2026-03-30T04:32:50.139Z"
+generated_at: "2026-03-30T04:34:24.441Z"
 status: "active"
 ---
 

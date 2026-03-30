@@ -3,9 +3,9 @@ title: "Section 1713 - Required recordkeeping"
 usc_title: 30
 usc_section: "1713"
 chapter: 29
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "30 U.S.C. § 1713"
-generated_at: "2026-03-30T04:32:37.077Z"
+generated_at: "2026-03-30T04:34:12.506Z"
 status: "active"
 ---
 

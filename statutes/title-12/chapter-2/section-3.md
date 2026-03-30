@@ -3,9 +3,9 @@ title: "Section 3 - Mergers and consolidations with subsidiaries and nonbank aff
 usc_title: 12
 usc_section: "3"
 chapter: 2
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T04:32:14.305Z"
+generated_at: "2026-03-30T04:33:43.851Z"
 status: "active"
 ---
 

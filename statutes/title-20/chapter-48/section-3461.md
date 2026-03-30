@@ -3,9 +3,9 @@ title: "Section 3461 - Officers and employees"
 usc_title: 20
 usc_section: "3461"
 chapter: 48
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "20 U.S.C. § 3461"
-generated_at: "2026-03-30T04:32:24.026Z"
+generated_at: "2026-03-30T04:33:52.113Z"
 status: "active"
 ---
 

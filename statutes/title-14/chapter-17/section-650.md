@@ -3,9 +3,9 @@ title: "Section 650 - Coast Guard Supply Fund"
 usc_title: 14
 usc_section: "650"
 chapter: 17
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "14 U.S.C. § 650"
-generated_at: "2026-03-30T04:32:10.956Z"
+generated_at: "2026-03-30T04:33:41.449Z"
 status: "active"
 ---
 

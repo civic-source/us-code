@@ -3,9 +3,9 @@ title: "Section 80114 - Lost, stolen, and destroyed negotiable bills"
 usc_title: 49
 usc_section: "80114"
 chapter: 801
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "49 U.S.C. § 80114"
-generated_at: "2026-03-30T04:33:14.511Z"
+generated_at: "2026-03-30T04:34:48.036Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 673a - Renumbered § 12303]"
 usc_title: 10
 usc_section: "673a"
 chapter: 39
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "10 U.S.C. § 673a"
-generated_at: "2026-03-30T04:32:08.602Z"
+generated_at: "2026-03-30T04:33:39.018Z"
 status: "renumbered"
 ---
 

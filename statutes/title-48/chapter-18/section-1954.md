@@ -3,9 +3,9 @@ title: "Section 1954 - Public auditor and special prosecutor"
 usc_title: 48
 usc_section: "1954"
 chapter: 18
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "48 U.S.C. § 1954"
-generated_at: "2026-03-30T04:33:12.190Z"
+generated_at: "2026-03-30T04:34:42.267Z"
 status: "active"
 ---
 

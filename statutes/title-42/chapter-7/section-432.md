@@ -3,9 +3,9 @@ title: "Section 432 - Processing of tax data"
 usc_title: 42
 usc_section: "432"
 chapter: 7
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "42 U.S.C. § 432"
-generated_at: "2026-03-30T04:33:07.763Z"
+generated_at: "2026-03-30T04:34:39.325Z"
 status: "active"
 ---
 

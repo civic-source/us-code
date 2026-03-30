@@ -3,9 +3,9 @@ title: "Section 592 - Mission of Office"
 usc_title: 6
 usc_section: "592"
 chapter: 1
-current_through: "PL 114-30"
+current_through: "PL 114-37"
 classification: "6 U.S.C. § 592"
-generated_at: "2026-03-30T04:31:53.361Z"
+generated_at: "2026-03-30T04:33:32.914Z"
 status: "active"
 ---
 
