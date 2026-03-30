@@ -3,9 +3,9 @@ title: "Section 6315 - Telecommunications services for Senators; payment of cost
 usc_title: 2
 usc_section: "6315"
 chapter: 63
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "2 U.S.C. § 6315"
-generated_at: "2026-03-30T02:26:24.060Z"
+generated_at: "2026-03-30T02:29:19.587Z"
 ---
 
 # § 6315. Telecommunications services for Senators; payment of costs out of contingent fund

@@ -3,9 +3,9 @@ title: "Section 4009 - Appropriations for sites and buildings"
 usc_title: 18
 usc_section: "4009"
 chapter: 301
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 4009"
-generated_at: "2026-03-30T02:27:34.442Z"
+generated_at: "2026-03-30T02:31:31.366Z"
 ---
 
 # § 4009. Appropriations for sites and buildings

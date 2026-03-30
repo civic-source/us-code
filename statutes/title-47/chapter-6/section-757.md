@@ -3,9 +3,9 @@ title: "Section 757 - Definitions"
 usc_title: 47
 usc_section: "757"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "47 U.S.C. § 757"
-generated_at: "2026-03-30T02:28:54.133Z"
+generated_at: "2026-03-30T02:33:12.904Z"
 ---
 
 # § 757. Definitions

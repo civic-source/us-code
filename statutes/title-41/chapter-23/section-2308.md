@@ -3,9 +3,9 @@ title: "Section 2308 - Modular contracting for information technology"
 usc_title: 41
 usc_section: "2308"
 chapter: 23
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "41 U.S.C. § 2308"
-generated_at: "2026-03-30T02:28:33.331Z"
+generated_at: "2026-03-30T02:32:48.763Z"
 ---
 
 # § 2308. Modular contracting for information technology

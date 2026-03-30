@@ -3,9 +3,9 @@ title: "Section 1801 - Findings, purposes and policy"
 usc_title: 16
 usc_section: "1801"
 chapter: 38
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 1801"
-generated_at: "2026-03-30T02:27:38.052Z"
+generated_at: "2026-03-30T02:31:30.194Z"
 ---
 
 # § 1801. Findings, purposes and policy

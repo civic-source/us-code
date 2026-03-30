@@ -3,9 +3,9 @@ title: "Section 4662 - Prohibition on the transfer of certain data on employees 
 usc_title: 10
 usc_section: "4662"
 chapter: 363
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 4662"
-generated_at: "2026-03-30T02:26:40.930Z"
+generated_at: "2026-03-30T02:30:23.317Z"
 ---
 
 # § 4662. Prohibition on the transfer of certain data on employees of the Department of Defense to third parties

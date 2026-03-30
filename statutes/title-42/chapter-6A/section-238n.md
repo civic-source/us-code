@@ -3,9 +3,9 @@ title: "Section 238n - Abortion-related discrimination in governmental activitie
 usc_title: 42
 usc_section: "238n"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 238n"
-generated_at: "2026-03-30T02:28:49.934Z"
+generated_at: "2026-03-30T02:33:07.199Z"
 ---
 
 # § 238n. Abortion-related discrimination in governmental activities regarding training and licensing of physicians

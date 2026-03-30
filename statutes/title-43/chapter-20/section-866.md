@@ -3,9 +3,9 @@ title: "Section 866 - Exchange of cut over land in Montana"
 usc_title: 43
 usc_section: "866"
 chapter: 20
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "43 U.S.C. § 866"
-generated_at: "2026-03-30T02:28:34.718Z"
+generated_at: "2026-03-30T02:32:50.120Z"
 ---
 
 # § 866. Exchange of cut over land in Montana

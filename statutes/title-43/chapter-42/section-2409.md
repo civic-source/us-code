@@ -3,9 +3,9 @@ title: "Section 2409 - Termination of authority"
 usc_title: 43
 usc_section: "2409"
 chapter: 42
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "43 U.S.C. § 2409"
-generated_at: "2026-03-30T02:28:34.758Z"
+generated_at: "2026-03-30T02:32:50.169Z"
 ---
 
 # § 2409. Termination of authority

@@ -3,9 +3,9 @@ title: "Section 3938a - Annual notice to members of the Armed Forces regarding c
 usc_title: 50
 usc_section: "3938a"
 chapter: 50
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "50 U.S.C. § 3938a"
-generated_at: "2026-03-30T02:29:01.366Z"
+generated_at: "2026-03-30T02:33:16.548Z"
 ---
 
 # § 3938a. Annual notice to members of the Armed Forces regarding child custody protections guaranteed by the Servicemembers Civil Relief Act

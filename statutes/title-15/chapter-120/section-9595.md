@@ -3,9 +3,9 @@ title: "Section 9595 - Biannual reports; recommendations"
 usc_title: 15
 usc_section: "9595"
 chapter: 120
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 9595"
-generated_at: "2026-03-30T02:27:25.745Z"
+generated_at: "2026-03-30T02:30:38.379Z"
 ---
 
 # § 9595. Biannual reports; recommendations

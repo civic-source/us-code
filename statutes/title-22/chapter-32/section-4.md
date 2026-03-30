@@ -3,9 +3,9 @@ title: "Section 4 - Authorization of appropriations"
 usc_title: 22
 usc_section: "4"
 chapter: 32
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 4"
-generated_at: "2026-03-30T02:27:46.001Z"
+generated_at: "2026-03-30T02:31:58.179Z"
 ---
 
 # § 2349bb–4. Authorization of appropriations

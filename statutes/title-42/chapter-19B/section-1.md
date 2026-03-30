@@ -3,9 +3,9 @@ title: "Section 1 - Rules and regulations"
 usc_title: 42
 usc_section: "1"
 chapter: 19
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:28:50.429Z"
+generated_at: "2026-03-30T02:33:07.845Z"
 ---
 
 # § 1962d–1. Rules and regulations

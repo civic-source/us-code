@@ -3,9 +3,9 @@ title: "Section 824 - Enhanced catastrophic incident annex"
 usc_title: 6
 usc_section: "824"
 chapter: 2
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "6 U.S.C. § 824"
-generated_at: "2026-03-30T02:26:30.340Z"
+generated_at: "2026-03-30T02:29:36.818Z"
 ---
 
 # § 824. Enhanced catastrophic incident annex

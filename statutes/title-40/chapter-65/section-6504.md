@@ -3,9 +3,9 @@ title: "Section 6504 - Lease of building"
 usc_title: 40
 usc_section: "6504"
 chapter: 65
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "40 U.S.C. § 6504"
-generated_at: "2026-03-30T02:28:28.919Z"
+generated_at: "2026-03-30T02:32:42.687Z"
 ---
 
 # § 6504. Lease of building

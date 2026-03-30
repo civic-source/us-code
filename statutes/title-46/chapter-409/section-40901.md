@@ -3,9 +3,9 @@ title: "Section 40901 - License requirement"
 usc_title: 46
 usc_section: "40901"
 chapter: 409
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "46 U.S.C. § 40901"
-generated_at: "2026-03-30T02:28:56.234Z"
+generated_at: "2026-03-30T02:33:14.617Z"
 ---
 
 # § 40901. License requirement

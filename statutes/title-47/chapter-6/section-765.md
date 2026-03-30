@@ -3,9 +3,9 @@ title: "Section 765 - Access to INTELSAT"
 usc_title: 47
 usc_section: "765"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "47 U.S.C. § 765"
-generated_at: "2026-03-30T02:28:54.133Z"
+generated_at: "2026-03-30T02:33:12.905Z"
 ---
 
 # § 765. Access to INTELSAT

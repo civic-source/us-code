@@ -3,9 +3,9 @@ title: "Section 372 - National stage: Requirements and procedure"
 usc_title: 35
 usc_section: "372"
 chapter: 37
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "35 U.S.C. § 372"
-generated_at: "2026-03-30T02:28:22.586Z"
+generated_at: "2026-03-30T02:32:35.009Z"
 ---
 
 # § 372. National stage: Requirements and procedure

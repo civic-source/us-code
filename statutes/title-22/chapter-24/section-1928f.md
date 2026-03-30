@@ -3,9 +3,9 @@ title: "Section 1928f - Limitation on withdrawal from the North Atlantic Treaty 
 usc_title: 22
 usc_section: "1928f"
 chapter: 24
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 1928f"
-generated_at: "2026-03-30T02:27:45.980Z"
+generated_at: "2026-03-30T02:31:58.154Z"
 ---
 
 # § 1928f. Limitation on withdrawal from the North Atlantic Treaty Organization

@@ -3,9 +3,9 @@ title: "Section 4884 - Industrial mobilization: Board on Mobilization of Industr
 usc_title: 10
 usc_section: "4884"
 chapter: 385
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 4884"
-generated_at: "2026-03-30T02:26:40.934Z"
+generated_at: "2026-03-30T02:30:23.326Z"
 ---
 
 # § 4884. Industrial mobilization: Board on Mobilization of Industries Essential for Military Preparedness

@@ -3,9 +3,9 @@ title: "Section 375b - Repealed. Pub. L. 96–363, § 2(a) , Sept. 26, 1980 , 94
 usc_title: 25
 usc_section: "375b"
 chapter: 10
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "25 U.S.C. § 375b"
-generated_at: "2026-03-30T02:27:43.710Z"
+generated_at: "2026-03-30T02:32:14.011Z"
 ---
 
 # § 375b. Repealed. Pub. L. 96–363, § 2(a) , Sept. 26, 1980 , 94 Stat. 1207

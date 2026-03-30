@@ -3,9 +3,9 @@ title: "Section 4308 - Contracts, mortgages, or pledges against or with enemy or
 usc_title: 50
 usc_section: "4308"
 chapter: 53
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "50 U.S.C. § 4308"
-generated_at: "2026-03-30T02:29:01.373Z"
+generated_at: "2026-03-30T02:33:16.558Z"
 ---
 
 # § 4308. Contracts, mortgages, or pledges against or with enemy or ally of enemy; abrogation of contracts; suspension of limitations

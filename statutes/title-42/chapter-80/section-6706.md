@@ -3,9 +3,9 @@ title: "Section 6706 - Implementing rules, regulations, and procedures; criteria
 usc_title: 42
 usc_section: "6706"
 chapter: 80
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 6706"
-generated_at: "2026-03-30T02:28:50.578Z"
+generated_at: "2026-03-30T02:33:08.046Z"
 ---
 
 # § 6706. Implementing rules, regulations, and procedures; criteria; employment of disabled and Vietnam-era veterans; determination of applications for grants

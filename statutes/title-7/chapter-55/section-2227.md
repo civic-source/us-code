@@ -3,9 +3,9 @@ title: "Section 2227 - Traveling expenses"
 usc_title: 7
 usc_section: "2227"
 chapter: 55
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 2227"
-generated_at: "2026-03-30T02:26:56.215Z"
+generated_at: "2026-03-30T02:29:33.301Z"
 ---
 
 # § 2227. Traveling expenses

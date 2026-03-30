@@ -3,9 +3,9 @@ title: "Section 5653 - Equitable treatment of high-value and value-added United 
 usc_title: 7
 usc_section: "5653"
 chapter: 87
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 5653"
-generated_at: "2026-03-30T02:26:56.243Z"
+generated_at: "2026-03-30T02:29:33.346Z"
 ---
 
 # § 5653. Equitable treatment of high-value and value-added United States agricultural commodities

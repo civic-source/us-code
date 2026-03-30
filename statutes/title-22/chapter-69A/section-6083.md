@@ -3,9 +3,9 @@ title: "Section 6083 - Proof of ownership of claims to confiscated property"
 usc_title: 22
 usc_section: "6083"
 chapter: 69
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 6083"
-generated_at: "2026-03-30T02:27:46.070Z"
+generated_at: "2026-03-30T02:31:58.265Z"
 ---
 
 # § 6083. Proof of ownership of claims to confiscated property

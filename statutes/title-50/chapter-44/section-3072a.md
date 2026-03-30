@@ -3,9 +3,9 @@ title: "Section 3072a - Reports on exercise of authority"
 usc_title: 50
 usc_section: "3072a"
 chapter: 44
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "50 U.S.C. § 3072a"
-generated_at: "2026-03-30T02:29:01.339Z"
+generated_at: "2026-03-30T02:33:16.508Z"
 ---
 
 # § 3072a. Reports on exercise of authority

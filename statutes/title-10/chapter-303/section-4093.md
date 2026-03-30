@@ -3,9 +3,9 @@ title: "Section 4093 - Science, Mathematics, and Research for Transformation (SM
 usc_title: 10
 usc_section: "4093"
 chapter: 303
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 4093"
-generated_at: "2026-03-30T02:26:40.924Z"
+generated_at: "2026-03-30T02:30:23.303Z"
 ---
 
 # § 4093. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program

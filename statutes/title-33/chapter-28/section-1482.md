@@ -3,9 +3,9 @@ title: "Section 1482 - Consultation for nomination and nomination of experts, ne
 usc_title: 33
 usc_section: "1482"
 chapter: 28
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 1482"
-generated_at: "2026-03-30T02:28:24.871Z"
+generated_at: "2026-03-30T02:32:39.327Z"
 ---
 
 # § 1482. Consultation for nomination and nomination of experts, negotiators, etc.; proposal of amendments to list of substances other than convention oil; Presidential acceptance of amendments

@@ -3,9 +3,9 @@ title: "Section 5100 - Definitions"
 usc_title: 38
 usc_section: "5100"
 chapter: 51
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "38 U.S.C. § 5100"
-generated_at: "2026-03-30T02:28:31.229Z"
+generated_at: "2026-03-30T02:32:46.071Z"
 ---
 
 # § 5100. Definitions

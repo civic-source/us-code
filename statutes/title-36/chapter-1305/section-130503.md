@@ -3,9 +3,9 @@ title: "Section 130503 - Membership"
 usc_title: 36
 usc_section: "130503"
 chapter: 1305
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "36 U.S.C. § 130503"
-generated_at: "2026-03-30T02:28:29.616Z"
+generated_at: "2026-03-30T02:32:43.690Z"
 ---
 
 # § 130503. Membership

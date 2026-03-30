@@ -3,9 +3,9 @@ title: "Section 6919 - Military Veterans Agricultural Liaison"
 usc_title: 7
 usc_section: "6919"
 chapter: 98
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 6919"
-generated_at: "2026-03-30T02:26:56.258Z"
+generated_at: "2026-03-30T02:29:33.372Z"
 ---
 
 # § 6919. Military Veterans Agricultural Liaison

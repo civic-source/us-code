@@ -3,9 +3,9 @@ title: "Section 687k - Guaranteed obligations not eligible for purchase by Feder
 usc_title: 15
 usc_section: "687k"
 chapter: 14
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 687k"
-generated_at: "2026-03-30T02:27:25.609Z"
+generated_at: "2026-03-30T02:30:38.152Z"
 ---
 
 # § 687k. Guaranteed obligations not eligible for purchase by Federal Financing Bank

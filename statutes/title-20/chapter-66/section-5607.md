@@ -3,9 +3,9 @@ title: "Section 5607 - Expenditures and audit of Trust Fund"
 usc_title: 20
 usc_section: "5607"
 chapter: 66
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 5607"
-generated_at: "2026-03-30T02:27:33.361Z"
+generated_at: "2026-03-30T02:31:22.690Z"
 ---
 
 # § 5607. Expenditures and audit of Trust Fund

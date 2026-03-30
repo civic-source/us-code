@@ -3,9 +3,9 @@ title: "Section 6411 - Office on International Religious Freedom; Ambassador at 
 usc_title: 22
 usc_section: "6411"
 chapter: 73
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 6411"
-generated_at: "2026-03-30T02:27:46.073Z"
+generated_at: "2026-03-30T02:31:58.269Z"
 ---
 
 # § 6411. Office on International Religious Freedom; Ambassador at Large for International Religious Freedom

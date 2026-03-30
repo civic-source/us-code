@@ -3,9 +3,9 @@ title: "Section 404e - Donations of money; acquisition of title to lands"
 usc_title: 16
 usc_section: "404e"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 404e"
-generated_at: "2026-03-30T02:27:37.880Z"
+generated_at: "2026-03-30T02:31:30.022Z"
 ---
 
 # § 404e. Donations of money; acquisition of title to lands

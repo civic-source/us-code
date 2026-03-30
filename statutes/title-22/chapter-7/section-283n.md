@@ -3,9 +3,9 @@ title: "Section 283n - Increase in authorized capital stock; United States share
 usc_title: 22
 usc_section: "283n"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 283n"
-generated_at: "2026-03-30T02:27:45.953Z"
+generated_at: "2026-03-30T02:31:58.122Z"
 ---
 
 # § 283n. Increase in authorized capital stock; United States share; authorization of appropriations

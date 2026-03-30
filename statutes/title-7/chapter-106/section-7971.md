@@ -3,9 +3,9 @@ title: "Section 7971 - Storage facility loans"
 usc_title: 7
 usc_section: "7971"
 chapter: 106
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 7971"
-generated_at: "2026-03-30T02:26:56.282Z"
+generated_at: "2026-03-30T02:29:33.413Z"
 ---
 
 # § 7971. Storage facility loans

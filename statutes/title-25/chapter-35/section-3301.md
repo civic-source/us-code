@@ -3,9 +3,9 @@ title: "Section 3301 - Short title"
 usc_title: 25
 usc_section: "3301"
 chapter: 35
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "25 U.S.C. § 3301"
-generated_at: "2026-03-30T02:27:43.753Z"
+generated_at: "2026-03-30T02:32:14.066Z"
 ---
 
 # § 3301. Short title

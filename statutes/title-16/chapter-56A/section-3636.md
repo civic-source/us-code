@@ -3,9 +3,9 @@ title: "Section 3636 - Rulemaking"
 usc_title: 16
 usc_section: "3636"
 chapter: 56
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 3636"
-generated_at: "2026-03-30T02:27:38.080Z"
+generated_at: "2026-03-30T02:31:30.222Z"
 ---
 
 # § 3636. Rulemaking

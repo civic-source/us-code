@@ -3,9 +3,9 @@ title: "Section 5545b - Pay for firefighters"
 usc_title: 5
 usc_section: "5545b"
 chapter: 55
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "5 U.S.C. § 5545b"
-generated_at: "2026-03-30T02:26:26.274Z"
+generated_at: "2026-03-30T02:29:23.261Z"
 ---
 
 # § 5545b. Pay for firefighters

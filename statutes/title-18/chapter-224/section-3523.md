@@ -3,9 +3,9 @@ title: "Section 3523 - Civil judgments"
 usc_title: 18
 usc_section: "3523"
 chapter: 224
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 3523"
-generated_at: "2026-03-30T02:27:34.435Z"
+generated_at: "2026-03-30T02:31:31.359Z"
 ---
 
 # § 3523. Civil judgments

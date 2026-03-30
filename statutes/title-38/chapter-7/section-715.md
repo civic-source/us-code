@@ -3,9 +3,9 @@ title: "Section 715 - Congressional testimony by employees: treatment as officia
 usc_title: 38
 usc_section: "715"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "38 U.S.C. § 715"
-generated_at: "2026-03-30T02:28:31.177Z"
+generated_at: "2026-03-30T02:32:45.994Z"
 ---
 
 # § 715. Congressional testimony by employees: treatment as official duty

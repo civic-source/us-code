@@ -3,9 +3,9 @@ title: "Section 5108 - Monitoring and oversight"
 usc_title: 42
 usc_section: "5108"
 chapter: 67
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 5108"
-generated_at: "2026-03-30T02:28:50.528Z"
+generated_at: "2026-03-30T02:33:07.969Z"
 ---
 
 # § 5108. Monitoring and oversight

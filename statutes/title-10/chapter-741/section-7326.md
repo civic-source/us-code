@@ -3,9 +3,9 @@ title: "Section 7326 - Computation of years of service: voluntary retirement; re
 usc_title: 10
 usc_section: "7326"
 chapter: 741
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 7326"
-generated_at: "2026-03-30T02:26:40.938Z"
+generated_at: "2026-03-30T02:30:23.335Z"
 ---
 
 # § 7326. Computation of years of service: voluntary retirement; regular and reserve commissioned officers

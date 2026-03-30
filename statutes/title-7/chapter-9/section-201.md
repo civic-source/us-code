@@ -3,9 +3,9 @@ title: "Section 201 - “Stockyard owner”; “stockyard services”; “market
 usc_title: 7
 usc_section: "201"
 chapter: 9
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 201"
-generated_at: "2026-03-30T02:26:56.131Z"
+generated_at: "2026-03-30T02:29:33.168Z"
 ---
 
 # § 201. “Stockyard owner”; “stockyard services”; “market agency”; “dealer”; defined

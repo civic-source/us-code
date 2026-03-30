@@ -3,9 +3,9 @@ title: "Section 741 - Export duties, taxes, etc.; bonds to anticipate revenues"
 usc_title: 48
 usc_section: "741"
 chapter: 4
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "48 U.S.C. § 741"
-generated_at: "2026-03-30T02:28:54.990Z"
+generated_at: "2026-03-30T02:33:13.431Z"
 ---
 
 # § 741. Export duties, taxes, etc.; bonds to anticipate revenues

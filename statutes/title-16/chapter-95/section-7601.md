@@ -3,9 +3,9 @@ title: "Section 7601 - Definitions"
 usc_title: 16
 usc_section: "7601"
 chapter: 95
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 7601"
-generated_at: "2026-03-30T02:27:38.120Z"
+generated_at: "2026-03-30T02:31:30.262Z"
 ---
 
 # § 7601. Definitions

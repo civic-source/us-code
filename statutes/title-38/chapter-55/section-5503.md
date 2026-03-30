@@ -3,9 +3,9 @@ title: "Section 5503 - Hospitalized veterans and estates of incompetent institut
 usc_title: 38
 usc_section: "5503"
 chapter: 55
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "38 U.S.C. § 5503"
-generated_at: "2026-03-30T02:28:31.233Z"
+generated_at: "2026-03-30T02:32:46.076Z"
 ---
 
 # § 5503. Hospitalized veterans and estates of incompetent institutionalized veterans

@@ -3,9 +3,9 @@ title: "Section 1827 - Reports by Corporation; audit of financial transactions; 
 usc_title: 12
 usc_section: "1827"
 chapter: 16
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "12 U.S.C. § 1827"
-generated_at: "2026-03-30T02:27:02.769Z"
+generated_at: "2026-03-30T02:31:09.819Z"
 ---
 
 # § 1827. Reports by Corporation; audit of financial transactions; report on audits; employment of certified public accountants for audits

@@ -3,9 +3,9 @@ title: "Section 1032 - Transfer of rights and duties of Reconstruction Finance C
 usc_title: 7
 usc_section: "1032"
 chapter: 33
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 1032"
-generated_at: "2026-03-30T02:26:56.149Z"
+generated_at: "2026-03-30T02:29:33.198Z"
 ---
 
 # § 1032. Transfer of rights and duties of Reconstruction Finance Corporation arising out of rehabilitation and farm tenancy loans to Secretary of the Treasury

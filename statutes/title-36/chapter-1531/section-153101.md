@@ -3,9 +3,9 @@ title: "Section 153101 - Organization"
 usc_title: 36
 usc_section: "153101"
 chapter: 1531
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "36 U.S.C. § 153101"
-generated_at: "2026-03-30T02:28:29.620Z"
+generated_at: "2026-03-30T02:32:43.696Z"
 ---
 
 # § 153101. Organization

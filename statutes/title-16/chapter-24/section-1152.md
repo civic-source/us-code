@@ -3,9 +3,9 @@ title: "Section 1152 - Prohibitions"
 usc_title: 16
 usc_section: "1152"
 chapter: 24
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 1152"
-generated_at: "2026-03-30T02:27:38.022Z"
+generated_at: "2026-03-30T02:31:30.165Z"
 ---
 
 # § 1152. Prohibitions

@@ -3,9 +3,9 @@ title: "Section 9594 - Review and report by Comptroller General"
 usc_title: 15
 usc_section: "9594"
 chapter: 120
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 9594"
-generated_at: "2026-03-30T02:27:25.745Z"
+generated_at: "2026-03-30T02:30:38.379Z"
 ---
 
 # § 9594. Review and report by Comptroller General

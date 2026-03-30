@@ -3,9 +3,9 @@ title: "Section 42102 - Regulations of other agencies"
 usc_title: 46
 usc_section: "42102"
 chapter: 421
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "46 U.S.C. § 42102"
-generated_at: "2026-03-30T02:28:56.236Z"
+generated_at: "2026-03-30T02:33:14.618Z"
 ---
 
 # § 42102. Regulations of other agencies

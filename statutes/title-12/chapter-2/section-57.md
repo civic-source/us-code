@@ -3,9 +3,9 @@ title: "Section 57 - Increase of capital by provision in articles of association
 usc_title: 12
 usc_section: "57"
 chapter: 2
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "12 U.S.C. § 57"
-generated_at: "2026-03-30T02:27:02.690Z"
+generated_at: "2026-03-30T02:31:09.724Z"
 ---
 
 # § 57. Increase of capital by provision in articles of association

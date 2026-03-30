@@ -3,9 +3,9 @@ title: "Section 9413 - Coordination by Interagency Committee"
 usc_title: 15
 usc_section: "9413"
 chapter: 119
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 9413"
-generated_at: "2026-03-30T02:27:25.742Z"
+generated_at: "2026-03-30T02:30:38.375Z"
 ---
 
 # § 9413. Coordination by Interagency Committee

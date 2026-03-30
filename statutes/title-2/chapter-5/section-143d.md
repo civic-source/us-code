@@ -3,9 +3,9 @@ title: "Section 143d - Funds available for workers compensation payments"
 usc_title: 2
 usc_section: "143d"
 chapter: 5
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "2 U.S.C. § 143d"
-generated_at: "2026-03-30T02:26:24.012Z"
+generated_at: "2026-03-30T02:29:19.539Z"
 ---
 
 # § 143d. Funds available for workers compensation payments

@@ -3,9 +3,9 @@ title: "Section 3012 - General corporate powers"
 usc_title: 12
 usc_section: "3012"
 chapter: 31
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "12 U.S.C. § 3012"
-generated_at: "2026-03-30T02:27:02.803Z"
+generated_at: "2026-03-30T02:31:09.856Z"
 ---
 
 # § 3012. General corporate powers

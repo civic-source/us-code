@@ -3,9 +3,9 @@ title: "Section 1727 - Repealed. Pub. L. 119–21, title V, § 50103 , July 4, 2
 usc_title: 30
 usc_section: "1727"
 chapter: 29
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "30 U.S.C. § 1727"
-generated_at: "2026-03-30T02:28:04.298Z"
+generated_at: "2026-03-30T02:32:20.906Z"
 ---
 
 # § 1727. Repealed. Pub. L. 119–21, title V, § 50103 , July 4, 2025 , 139 Stat. 142

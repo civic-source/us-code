@@ -3,9 +3,9 @@ title: "Section 8001 - Findings"
 usc_title: 15
 usc_section: "8001"
 chapter: 106
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 8001"
-generated_at: "2026-03-30T02:27:25.722Z"
+generated_at: "2026-03-30T02:30:38.344Z"
 ---
 
 # § 8001. Findings

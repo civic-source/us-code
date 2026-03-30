@@ -3,9 +3,9 @@ title: "Section 1819 - Transferred"
 usc_title: 42
 usc_section: "1819"
 chapter: 14
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 1819"
-generated_at: "2026-03-30T02:28:50.418Z"
+generated_at: "2026-03-30T02:33:07.831Z"
 ---
 
 # §§ 1801 to 1819. Transferred

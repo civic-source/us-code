@@ -3,9 +3,9 @@ title: "Section 337 - Allocation and assignment of new public safety services li
 usc_title: 47
 usc_section: "337"
 chapter: 5
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "47 U.S.C. § 337"
-generated_at: "2026-03-30T02:28:54.117Z"
+generated_at: "2026-03-30T02:33:12.885Z"
 ---
 
 # § 337. Allocation and assignment of new public safety services licenses and commercial licenses

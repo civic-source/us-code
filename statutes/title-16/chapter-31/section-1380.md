@@ -3,9 +3,9 @@ title: "Section 1380 - Marine mammal research grants"
 usc_title: 16
 usc_section: "1380"
 chapter: 31
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 1380"
-generated_at: "2026-03-30T02:27:38.036Z"
+generated_at: "2026-03-30T02:31:30.177Z"
 ---
 
 # § 1380. Marine mammal research grants

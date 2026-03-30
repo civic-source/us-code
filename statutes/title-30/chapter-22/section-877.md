@@ -3,9 +3,9 @@ title: "Section 877 - General safety provisions"
 usc_title: 30
 usc_section: "877"
 chapter: 22
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "30 U.S.C. § 877"
-generated_at: "2026-03-30T02:28:04.278Z"
+generated_at: "2026-03-30T02:32:20.882Z"
 ---
 
 # § 877. General safety provisions

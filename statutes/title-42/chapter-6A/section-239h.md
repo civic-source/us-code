@@ -3,9 +3,9 @@ title: "Section 239h - Relationship to other laws"
 usc_title: 42
 usc_section: "239h"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 239h"
-generated_at: "2026-03-30T02:28:49.936Z"
+generated_at: "2026-03-30T02:33:07.201Z"
 ---
 
 # § 239h. Relationship to other laws

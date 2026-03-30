@@ -3,9 +3,9 @@ title: "Section 1121 - Jurisdiction of Federal courts; State and local requireme
 usc_title: 15
 usc_section: "1121"
 chapter: 22
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 1121"
-generated_at: "2026-03-30T02:27:25.626Z"
+generated_at: "2026-03-30T02:30:38.179Z"
 ---
 
 # § 1121. Jurisdiction of Federal courts; State and local requirements that registered trademarks be altered or displayed differently; prohibition

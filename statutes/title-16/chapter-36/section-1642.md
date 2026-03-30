@@ -3,9 +3,9 @@ title: "Section 1642 - Investigations, experiments, tests, and other activities"
 usc_title: 16
 usc_section: "1642"
 chapter: 36
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 1642"
-generated_at: "2026-03-30T02:27:38.050Z"
+generated_at: "2026-03-30T02:31:30.192Z"
 ---
 
 # § 1642. Investigations, experiments, tests, and other activities

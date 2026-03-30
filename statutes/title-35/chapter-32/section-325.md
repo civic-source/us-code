@@ -3,9 +3,9 @@ title: "Section 325 - Relation to other proceedings or actions"
 usc_title: 35
 usc_section: "325"
 chapter: 32
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "35 U.S.C. § 325"
-generated_at: "2026-03-30T02:28:22.586Z"
+generated_at: "2026-03-30T02:32:35.008Z"
 ---
 
 # § 325. Relation to other proceedings or actions

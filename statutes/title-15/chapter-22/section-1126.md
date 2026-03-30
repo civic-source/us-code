@@ -3,9 +3,9 @@ title: "Section 1126 - International conventions"
 usc_title: 15
 usc_section: "1126"
 chapter: 22
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 1126"
-generated_at: "2026-03-30T02:27:25.626Z"
+generated_at: "2026-03-30T02:30:38.180Z"
 ---
 
 # § 1126. International conventions

@@ -3,9 +3,9 @@ title: "Section 4625 - Relocation planning, assistance coordination, and advisor
 usc_title: 42
 usc_section: "4625"
 chapter: 61
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 4625"
-generated_at: "2026-03-30T02:28:50.515Z"
+generated_at: "2026-03-30T02:33:07.953Z"
 ---
 
 # § 4625. Relocation planning, assistance coordination, and advisory services

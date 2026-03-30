@@ -3,9 +3,9 @@ title: "Section 2282g - Scope of feasibility studies"
 usc_title: 33
 usc_section: "2282g"
 chapter: 36
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 2282g"
-generated_at: "2026-03-30T02:28:24.882Z"
+generated_at: "2026-03-30T02:32:39.343Z"
 ---
 
 # § 2282g. Scope of feasibility studies

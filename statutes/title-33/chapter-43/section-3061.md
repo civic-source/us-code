@@ -3,9 +3,9 @@ title: "Section 3061 - Cooperation with and transfer to military departments"
 usc_title: 33
 usc_section: "3061"
 chapter: 43
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 3061"
-generated_at: "2026-03-30T02:28:24.899Z"
+generated_at: "2026-03-30T02:32:39.367Z"
 ---
 
 # § 3061. Cooperation with and transfer to military departments

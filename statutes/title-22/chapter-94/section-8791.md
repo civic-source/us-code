@@ -3,9 +3,9 @@ title: "Section 8791 - Imposition of sanctions with respect to certain persons w
 usc_title: 22
 usc_section: "8791"
 chapter: 94
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 8791"
-generated_at: "2026-03-30T02:27:46.103Z"
+generated_at: "2026-03-30T02:31:58.310Z"
 ---
 
 # § 8791. Imposition of sanctions with respect to certain persons who are responsible for or complicit in human rights abuses committed against citizens of Syria or their family members

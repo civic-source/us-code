@@ -3,9 +3,9 @@ title: "Section 254c - Extension of more favorable or less favorable treatment t
 usc_title: 22
 usc_section: "254c"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 254c"
-generated_at: "2026-03-30T02:27:45.941Z"
+generated_at: "2026-03-30T02:31:58.108Z"
 ---
 
 # § 254c. Extension of more favorable or less favorable treatment than provided under Vienna Convention; authority of President

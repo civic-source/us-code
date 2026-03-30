@@ -3,9 +3,9 @@ title: "Section 827 - Records and reports of registrants"
 usc_title: 21
 usc_section: "827"
 chapter: 13
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "21 U.S.C. § 827"
-generated_at: "2026-03-30T02:27:47.215Z"
+generated_at: "2026-03-30T02:32:09.091Z"
 ---
 
 # § 827. Records and reports of registrants

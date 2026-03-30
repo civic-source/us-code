@@ -3,9 +3,9 @@ title: "Section 2323 - Accountability"
 usc_title: 20
 usc_section: "2323"
 chapter: 44
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 2323"
-generated_at: "2026-03-30T02:27:33.346Z"
+generated_at: "2026-03-30T02:31:22.673Z"
 ---
 
 # § 2323. Accountability

@@ -3,9 +3,9 @@ title: "Section 4721a - State trade coordination"
 usc_title: 15
 usc_section: "4721a"
 chapter: 73
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 4721a"
-generated_at: "2026-03-30T02:27:25.700Z"
+generated_at: "2026-03-30T02:30:38.306Z"
 ---
 
 # § 4721a. State trade coordination

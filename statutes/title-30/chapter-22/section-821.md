@@ -3,9 +3,9 @@ title: "Section 821 - Entitlement of miners to full compensation"
 usc_title: 30
 usc_section: "821"
 chapter: 22
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "30 U.S.C. § 821"
-generated_at: "2026-03-30T02:28:04.275Z"
+generated_at: "2026-03-30T02:32:20.878Z"
 ---
 
 # § 821. Entitlement of miners to full compensation

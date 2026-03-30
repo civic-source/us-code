@@ -3,9 +3,9 @@ title: "Section 3996 - Submission of applications"
 usc_title: 20
 usc_section: "3996"
 chapter: 52
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 3996"
-generated_at: "2026-03-30T02:27:33.354Z"
+generated_at: "2026-03-30T02:31:22.682Z"
 ---
 
 # § 3996. Submission of applications

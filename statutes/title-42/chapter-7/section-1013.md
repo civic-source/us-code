@@ -3,9 +3,9 @@ title: "Section 1013 - Appropriations"
 usc_title: 42
 usc_section: "1013"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 1013"
-generated_at: "2026-03-30T02:28:50.176Z"
+generated_at: "2026-03-30T02:33:07.508Z"
 ---
 
 # § 1013. Appropriations

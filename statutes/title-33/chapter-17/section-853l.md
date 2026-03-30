@@ -3,9 +3,9 @@ title: "Section 853l - Repealed. Pub. L. 107–372, title II, § 271(1) , Dec. 1
 usc_title: 33
 usc_section: "853l"
 chapter: 17
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 853l"
-generated_at: "2026-03-30T02:28:24.837Z"
+generated_at: "2026-03-30T02:32:39.280Z"
 ---
 
 # §§ 853a to 853l. Repealed. Pub. L. 107–372, title II, § 271(1) , Dec. 19, 2002 , 116 Stat. 3094

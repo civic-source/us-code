@@ -3,9 +3,9 @@ title: "Section 8142 - Rent of other buildings"
 usc_title: 40
 usc_section: "8142"
 chapter: 81
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "40 U.S.C. § 8142"
-generated_at: "2026-03-30T02:28:28.920Z"
+generated_at: "2026-03-30T02:32:42.689Z"
 ---
 
 # § 8142. Rent of other buildings

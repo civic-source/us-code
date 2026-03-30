@@ -3,9 +3,9 @@ title: "Section 7353 - Gifts to Federal employees"
 usc_title: 5
 usc_section: "7353"
 chapter: 73
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "5 U.S.C. § 7353"
-generated_at: "2026-03-30T02:26:26.289Z"
+generated_at: "2026-03-30T02:29:23.272Z"
 ---
 
 # § 7353. Gifts to Federal employees

@@ -3,9 +3,9 @@ title: "Section 469d - Ice Age National Scientific Reserve; statement of purpose
 usc_title: 16
 usc_section: "469d"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 469d"
-generated_at: "2026-03-30T02:27:37.953Z"
+generated_at: "2026-03-30T02:31:30.098Z"
 ---
 
 # § 469d. Ice Age National Scientific Reserve; statement of purpose

@@ -3,9 +3,9 @@ title: "Section 860C - Taxation of residual interests"
 usc_title: 26
 usc_section: "860C"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "26 U.S.C. § 860C"
-generated_at: "2026-03-30T02:28:12.308Z"
+generated_at: "2026-03-30T02:32:32.703Z"
 ---
 
 # § 860C. Taxation of residual interests

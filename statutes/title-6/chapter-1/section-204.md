@@ -3,9 +3,9 @@ title: "Section 204 - Surface Transportation Security Advisory Committee"
 usc_title: 6
 usc_section: "204"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "6 U.S.C. § 204"
-generated_at: "2026-03-30T02:26:30.306Z"
+generated_at: "2026-03-30T02:29:36.768Z"
 ---
 
 # § 204. Surface Transportation Security Advisory Committee

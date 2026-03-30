@@ -3,9 +3,9 @@ title: "Section 854 - Investment of illicit drug profits"
 usc_title: 21
 usc_section: "854"
 chapter: 13
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "21 U.S.C. § 854"
-generated_at: "2026-03-30T02:27:47.218Z"
+generated_at: "2026-03-30T02:32:09.095Z"
 ---
 
 # § 854. Investment of illicit drug profits

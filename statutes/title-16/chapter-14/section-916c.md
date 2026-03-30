@@ -3,9 +3,9 @@ title: "Section 916c - Unlawful acts"
 usc_title: 16
 usc_section: "916c"
 chapter: 14
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 916c"
-generated_at: "2026-03-30T02:27:38.015Z"
+generated_at: "2026-03-30T02:31:30.158Z"
 ---
 
 # § 916c. Unlawful acts

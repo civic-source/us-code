@@ -3,9 +3,9 @@ title: "Section 67 - Right of repeal"
 usc_title: 20
 usc_section: "67"
 chapter: 3
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 67"
-generated_at: "2026-03-30T02:27:33.259Z"
+generated_at: "2026-03-30T02:31:22.579Z"
 ---
 
 # § 67. Right of repeal

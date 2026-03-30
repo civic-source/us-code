@@ -3,9 +3,9 @@ title: "Section 168b - Printing and distribution of additional copies of Constit
 usc_title: 2
 usc_section: "168b"
 chapter: 5
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "2 U.S.C. § 168b"
-generated_at: "2026-03-30T02:26:24.013Z"
+generated_at: "2026-03-30T02:29:19.541Z"
 ---
 
 # § 168b. Printing and distribution of additional copies of Constitution Annotated

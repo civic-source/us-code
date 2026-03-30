@@ -3,9 +3,9 @@ title: "Section 7031 - The Army Staff: function; composition"
 usc_title: 10
 usc_section: "7031"
 chapter: 705
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 7031"
-generated_at: "2026-03-30T02:26:40.936Z"
+generated_at: "2026-03-30T02:30:23.332Z"
 ---
 
 # § 7031. The Army Staff: function; composition

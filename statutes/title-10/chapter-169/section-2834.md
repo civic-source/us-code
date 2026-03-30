@@ -3,9 +3,9 @@ title: "Section 2834 - Participation in Department of State housing pools"
 usc_title: 10
 usc_section: "2834"
 chapter: 169
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 2834"
-generated_at: "2026-03-30T02:26:40.907Z"
+generated_at: "2026-03-30T02:30:23.266Z"
 ---
 
 # § 2834. Participation in Department of State housing pools

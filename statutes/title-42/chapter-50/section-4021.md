@@ -3,9 +3,9 @@ title: "Section 4021 - Participation in State disaster claims mediation programs
 usc_title: 42
 usc_section: "4021"
 chapter: 50
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 4021"
-generated_at: "2026-03-30T02:28:50.503Z"
+generated_at: "2026-03-30T02:33:07.938Z"
 ---
 
 # § 4021. Participation in State disaster claims mediation programs

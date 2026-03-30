@@ -3,9 +3,9 @@ title: "Section 130g - Transferred"
 usc_title: 2
 usc_section: "130g"
 chapter: 4
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "2 U.S.C. § 130g"
-generated_at: "2026-03-30T02:26:24.011Z"
+generated_at: "2026-03-30T02:29:19.537Z"
 ---
 
 # § 130g. Transferred

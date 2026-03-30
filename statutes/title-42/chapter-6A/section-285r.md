@@ -3,9 +3,9 @@ title: "Section 285r - Purpose of the Institute"
 usc_title: 42
 usc_section: "285r"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 285r"
-generated_at: "2026-03-30T02:28:50.008Z"
+generated_at: "2026-03-30T02:33:07.289Z"
 ---
 
 # § 285r. Purpose of the Institute

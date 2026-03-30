@@ -3,9 +3,9 @@ title: "Section 3 - Community partnership enhancement"
 usc_title: 16
 usc_section: "3"
 chapter: 9
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:27:37.995Z"
+generated_at: "2026-03-30T02:31:30.139Z"
 ---
 
 # § 760aa–3. Community partnership enhancement

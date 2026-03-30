@@ -3,9 +3,9 @@ title: "Section 103 - Special provisions relating to marriages"
 usc_title: 38
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "38 U.S.C. § 103"
-generated_at: "2026-03-30T02:28:31.171Z"
+generated_at: "2026-03-30T02:32:45.986Z"
 ---
 
 # § 103. Special provisions relating to marriages

@@ -3,9 +3,9 @@ title: "Section 5144 - Lump-sum allowances for House Minority Leader and Majorit
 usc_title: 2
 usc_section: "5144"
 chapter: 51
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "2 U.S.C. § 5144"
-generated_at: "2026-03-30T02:26:24.057Z"
+generated_at: "2026-03-30T02:29:19.583Z"
 ---
 
 # § 5144. Lump-sum allowances for House Minority Leader and Majority Whip

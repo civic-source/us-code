@@ -3,9 +3,9 @@ title: "Section 3508 - Treatment of real estate agents and direct­ sellers"
 usc_title: 26
 usc_section: "3508"
 chapter: 25
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "26 U.S.C. § 3508"
-generated_at: "2026-03-30T02:28:12.365Z"
+generated_at: "2026-03-30T02:32:32.788Z"
 ---
 
 # § 3508. Treatment of real estate agents and direct­ sellers

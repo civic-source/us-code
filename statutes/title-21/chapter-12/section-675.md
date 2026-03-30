@@ -3,9 +3,9 @@ title: "Section 675 - Assaulting, resisting, or impeding certain persons; murder
 usc_title: 21
 usc_section: "675"
 chapter: 12
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "21 U.S.C. § 675"
-generated_at: "2026-03-30T02:27:47.209Z"
+generated_at: "2026-03-30T02:32:09.085Z"
 ---
 
 # § 675. Assaulting, resisting, or impeding certain persons; murder; protection of such persons

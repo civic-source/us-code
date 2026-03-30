@@ -3,9 +3,9 @@ title: "Section 5081 - National Volunteer Antipoverty Programs"
 usc_title: 42
 usc_section: "5081"
 chapter: 66
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 5081"
-generated_at: "2026-03-30T02:28:50.524Z"
+generated_at: "2026-03-30T02:33:07.965Z"
 ---
 
 # § 5081. National Volunteer Antipoverty Programs

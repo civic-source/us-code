@@ -3,9 +3,9 @@ title: "Section 5305 - Reporting and audit requirements for recipients of Federa
 usc_title: 25
 usc_section: "5305"
 chapter: 46
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "25 U.S.C. § 5305"
-generated_at: "2026-03-30T02:27:43.766Z"
+generated_at: "2026-03-30T02:32:14.084Z"
 ---
 
 # § 5305. Reporting and audit requirements for recipients of Federal financial assistance

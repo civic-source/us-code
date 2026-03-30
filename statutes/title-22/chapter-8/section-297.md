@@ -3,9 +3,9 @@ title: "Section 297 - Acquisition of property by lease"
 usc_title: 22
 usc_section: "297"
 chapter: 8
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 297"
-generated_at: "2026-03-30T02:27:45.967Z"
+generated_at: "2026-03-30T02:31:58.136Z"
 ---
 
 # § 297. Acquisition of property by lease

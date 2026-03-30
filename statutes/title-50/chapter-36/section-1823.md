@@ -3,9 +3,9 @@ title: "Section 1823 - Application for order"
 usc_title: 50
 usc_section: "1823"
 chapter: 36
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "50 U.S.C. § 1823"
-generated_at: "2026-03-30T02:29:01.308Z"
+generated_at: "2026-03-30T02:33:16.463Z"
 ---
 
 # § 1823. Application for order
@@ -32,10 +32,10 @@ generated_at: "2026-03-30T02:29:01.308Z"
     - **(G)** that none of the information included in the statement described in paragraph (3) is attributable to or derived from the content of a media source unless the statement includes a clear identification of each author of that content, where applicable, the publisher of that content, information to corroborate that which was derived from the media source, and an explanation of the investigative techniques used to corroborate the information;
   - **(7)** where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information;
   - **(8)** a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application;
-  - **(9)** in the case of an application for an extension of an order under this subchapter in which the target of the physical search is a United States person, a summary statement of the foreign intelligence information obtained pursuant to the original order (and any preceding extension thereof) as of the date of the application for the extension, or a reasonable explanation of the failure to obtain such information; and
+  - **(9)** in the case of an application for an extension of an order under this subchapter in which the target of the physical search is a United States person, a summary statement of the foreign intelligence information obtained pursuant to the original order (and any preceding extension thereof) as of the date of the application for the extension, or a reasonable explanation of the failure to obtain such information; and 1 1 So in original. The word “and” probably should not appear.
   - **(10)** a certification by the applicant that, to the best knowledge of the applicant, the Attorney General or a designated attorney for the Government has been apprised of all information that might reasonably—
     - **(A)** call into question the accuracy of the application or the reasonableness of any assessment in the application conducted by the department or agency on whose behalf the application is made; or
-    - **(B)** otherwise raise doubts with respect to the findings required under section 1824(a) of this title .
+    - **(B)** otherwise raise doubts with respect to the findings required under section 1824(a) of this title . 2 2 So in original. The period probably should be “; and”.
   - **(11)** non-cumulative information known to the applicant or declarant that is potentially exculpatory regarding the requested legal findings or any assessment in the application.
 - **(b)** The Attorney General may require any other affidavit or certification from any other officer in connection with the application.
 - **(c)** The judge may require the applicant to furnish such other information as may be necessary to make the determinations required by section 1824 of this title .

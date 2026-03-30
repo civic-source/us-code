@@ -3,9 +3,9 @@ title: "Section 7706 - Eligible countries"
 usc_title: 22
 usc_section: "7706"
 chapter: 84
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 7706"
-generated_at: "2026-03-30T02:27:46.091Z"
+generated_at: "2026-03-30T02:31:58.293Z"
 ---
 
 # § 7706. Eligible countries

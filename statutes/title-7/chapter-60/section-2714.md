@@ -3,9 +3,9 @@ title: "Section 2714 - Civil enforcement proceedings"
 usc_title: 7
 usc_section: "2714"
 chapter: 60
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 2714"
-generated_at: "2026-03-30T02:26:56.223Z"
+generated_at: "2026-03-30T02:29:33.313Z"
 ---
 
 # § 2714. Civil enforcement proceedings

@@ -3,9 +3,9 @@ title: "Section 1 - Expenses from fees collected"
 usc_title: 19
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "19 U.S.C. § 1"
-generated_at: "2026-03-30T02:27:30.837Z"
+generated_at: "2026-03-30T02:31:48.723Z"
 ---
 
 # § 58b–1. Expenses from fees collected

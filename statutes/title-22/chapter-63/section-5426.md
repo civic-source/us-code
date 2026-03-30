@@ -3,9 +3,9 @@ title: "Section 5426 - United States policy of private financial support for Pol
 usc_title: 22
 usc_section: "5426"
 chapter: 63
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 5426"
-generated_at: "2026-03-30T02:27:46.063Z"
+generated_at: "2026-03-30T02:31:58.256Z"
 ---
 
 # § 5426. United States policy of private financial support for Polish and Hungarian credit unions

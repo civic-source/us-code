@@ -3,9 +3,9 @@ title: "Section 1355 - Restrictions on employment of former officers or employee
 usc_title: 43
 usc_section: "1355"
 chapter: 29
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "43 U.S.C. § 1355"
-generated_at: "2026-03-30T02:28:34.729Z"
+generated_at: "2026-03-30T02:32:50.133Z"
 ---
 
 # § 1355. Restrictions on employment of former officers or employees of Department of the Interior

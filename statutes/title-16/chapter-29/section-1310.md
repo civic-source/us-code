@@ -3,9 +3,9 @@ title: "Section 1310 - Authorization of appropriations; maximum amount of paymen
 usc_title: 16
 usc_section: "1310"
 chapter: 29
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 1310"
-generated_at: "2026-03-30T02:27:38.033Z"
+generated_at: "2026-03-30T02:31:30.175Z"
 ---
 
 # § 1310. Authorization of appropriations; maximum amount of payments pursuant to agreements

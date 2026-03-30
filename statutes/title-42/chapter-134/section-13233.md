@@ -3,9 +3,9 @@ title: "Section 13233 - Data acquisition program"
 usc_title: 42
 usc_section: "13233"
 chapter: 134
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 13233"
-generated_at: "2026-03-30T02:28:50.773Z"
+generated_at: "2026-03-30T02:33:08.311Z"
 ---
 
 # § 13233. Data acquisition program

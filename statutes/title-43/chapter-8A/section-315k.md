@@ -3,9 +3,9 @@ title: "Section 315k - Cooperation with governmental departments; coordination o
 usc_title: 43
 usc_section: "315k"
 chapter: 8
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "43 U.S.C. § 315k"
-generated_at: "2026-03-30T02:28:34.692Z"
+generated_at: "2026-03-30T02:32:50.084Z"
 ---
 
 # § 315k. Cooperation with governmental departments; coordination of range administration

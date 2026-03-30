@@ -3,9 +3,9 @@ title: "Section 1342 - National marketing quota; proclamation; amount; date of p
 usc_title: 7
 usc_section: "1342"
 chapter: 35
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 1342"
-generated_at: "2026-03-30T02:26:56.153Z"
+generated_at: "2026-03-30T02:29:33.205Z"
 ---
 
 # § 1342. National marketing quota; proclamation; amount; date of proclamation

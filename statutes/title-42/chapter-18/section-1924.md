@@ -3,9 +3,9 @@ title: "Section 1924 - Certificate of commendation accompanying awards; limitati
 usc_title: 42
 usc_section: "1924"
 chapter: 18
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 1924"
-generated_at: "2026-03-30T02:28:50.428Z"
+generated_at: "2026-03-30T02:33:07.844Z"
 ---
 
 # § 1924. Certificate of commendation accompanying awards; limitation on number of yearly awards

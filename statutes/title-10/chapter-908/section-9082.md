@@ -3,9 +3,9 @@ title: "Section 9082 - Chief of Space Operations"
 usc_title: 10
 usc_section: "9082"
 chapter: 908
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 9082"
-generated_at: "2026-03-30T02:26:40.957Z"
+generated_at: "2026-03-30T02:30:23.381Z"
 ---
 
 # § 9082. Chief of Space Operations

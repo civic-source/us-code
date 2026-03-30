@@ -3,9 +3,9 @@ title: "Section 6005 - Authorization of appropriations"
 usc_title: 15
 usc_section: "6005"
 chapter: 86
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 6005"
-generated_at: "2026-03-30T02:27:25.704Z"
+generated_at: "2026-03-30T02:30:38.313Z"
 ---
 
 # § 6005. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 47 - Employment of Indian labor and purchase of products of Indi
 usc_title: 25
 usc_section: "47"
 chapter: 2
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "25 U.S.C. § 47"
-generated_at: "2026-03-30T02:27:43.704Z"
+generated_at: "2026-03-30T02:32:14.001Z"
 ---
 
 # § 47. Employment of Indian labor and purchase of products of Indian industry; participation in Mentor-Protege Program

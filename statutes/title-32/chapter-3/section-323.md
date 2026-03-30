@@ -3,9 +3,9 @@ title: "Section 323 - Withdrawal of Federal recognition"
 usc_title: 32
 usc_section: "323"
 chapter: 3
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "32 U.S.C. § 323"
-generated_at: "2026-03-30T02:28:15.426Z"
+generated_at: "2026-03-30T02:32:35.114Z"
 ---
 
 # § 323. Withdrawal of Federal recognition

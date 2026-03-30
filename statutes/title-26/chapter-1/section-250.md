@@ -3,9 +3,9 @@ title: "Section 250 - Foreign-derived deduction eligible income and net CFC test
 usc_title: 26
 usc_section: "250"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "26 U.S.C. § 250"
-generated_at: "2026-03-30T02:28:12.234Z"
+generated_at: "2026-03-30T02:32:32.603Z"
 ---
 
 # § 250. Foreign-derived deduction eligible income and net CFC tested income

@@ -3,9 +3,9 @@ title: "Section 1396p - Liens, adjustments and recoveries, and transfers of asse
 usc_title: 42
 usc_section: "1396p"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 1396p"
-generated_at: "2026-03-30T02:28:50.334Z"
+generated_at: "2026-03-30T02:33:07.719Z"
 ---
 
 # § 1396p. Liens, adjustments and recoveries, and transfers of assets

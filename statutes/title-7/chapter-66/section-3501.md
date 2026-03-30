@@ -3,9 +3,9 @@ title: "Section 3501 - Reporting requirements"
 usc_title: 7
 usc_section: "3501"
 chapter: 66
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 3501"
-generated_at: "2026-03-30T02:26:56.232Z"
+generated_at: "2026-03-30T02:29:33.329Z"
 ---
 
 # § 3501. Reporting requirements

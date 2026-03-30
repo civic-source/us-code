@@ -3,9 +3,9 @@ title: "Section 460qq - Establishment"
 usc_title: 16
 usc_section: "460qq"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 460qq"
-generated_at: "2026-03-30T02:27:37.935Z"
+generated_at: "2026-03-30T02:31:30.079Z"
 ---
 
 # § 460qq. Establishment

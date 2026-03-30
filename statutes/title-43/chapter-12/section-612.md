@@ -3,9 +3,9 @@ title: "Section 612 - Omitted"
 usc_title: 43
 usc_section: "612"
 chapter: 12
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "43 U.S.C. § 612"
-generated_at: "2026-03-30T02:28:34.711Z"
+generated_at: "2026-03-30T02:32:50.110Z"
 ---
 
 # §§ 610 to 612. Omitted

@@ -3,9 +3,9 @@ title: "Section 1 - Postbaccalaureate programs"
 usc_title: 20
 usc_section: "1"
 chapter: 28
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-30T02:27:33.329Z"
+generated_at: "2026-03-30T02:31:22.654Z"
 ---
 
 # § 1161aa–1. Postbaccalaureate programs

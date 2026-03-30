@@ -3,9 +3,9 @@ title: "Section 24310 - Management accountability"
 usc_title: 49
 usc_section: "24310"
 chapter: 243
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "49 U.S.C. § 24310"
-generated_at: "2026-03-30T02:28:59.890Z"
+generated_at: "2026-03-30T02:33:20.272Z"
 ---
 
 # § 24310. Management accountability

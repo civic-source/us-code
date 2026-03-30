@@ -3,9 +3,9 @@ title: "Section 1131b - Advanced degree in international relations"
 usc_title: 20
 usc_section: "1131b"
 chapter: 28
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 1131b"
-generated_at: "2026-03-30T02:27:33.319Z"
+generated_at: "2026-03-30T02:31:22.644Z"
 ---
 
 # § 1131b. Advanced degree in international relations

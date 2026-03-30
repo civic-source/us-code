@@ -3,9 +3,9 @@ title: "Section 8679a - Contracting with shipyards controlled by a foreign adver
 usc_title: 10
 usc_section: "8679a"
 chapter: 863
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 8679a"
-generated_at: "2026-03-30T02:26:40.951Z"
+generated_at: "2026-03-30T02:30:23.367Z"
 ---
 
 # § 8679a. Contracting with shipyards controlled by a foreign adversary country: prohibition

@@ -3,9 +3,9 @@ title: "Section 494 - Rules and regulations; cooperation with States, etc., offi
 usc_title: 7
 usc_section: "494"
 chapter: 20
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 494"
-generated_at: "2026-03-30T02:26:56.136Z"
+generated_at: "2026-03-30T02:29:33.179Z"
 ---
 
 # § 494. Rules and regulations; cooperation with States, etc., officers and employees; expenditures

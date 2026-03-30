@@ -3,9 +3,9 @@ title: "Section 15108 - Continuation on the Reserve Active-Status List"
 usc_title: 10
 usc_section: "15108"
 chapter: 1413
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 15108"
-generated_at: "2026-03-30T02:26:40.974Z"
+generated_at: "2026-03-30T02:30:23.418Z"
 ---
 
 # § 15108. Continuation on the Reserve Active-Status List

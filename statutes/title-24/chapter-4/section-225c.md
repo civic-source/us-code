@@ -3,9 +3,9 @@ title: "Section 225c - Congressional review of system implementation plan"
 usc_title: 24
 usc_section: "225c"
 chapter: 4
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "24 U.S.C. § 225c"
-generated_at: "2026-03-30T02:27:40.060Z"
+generated_at: "2026-03-30T02:31:54.163Z"
 ---
 
 # § 225c. Congressional review of system implementation plan

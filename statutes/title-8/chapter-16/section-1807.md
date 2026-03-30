@@ -3,9 +3,9 @@ title: "Section 1807 - Form I–94 fee"
 usc_title: 8
 usc_section: "1807"
 chapter: 16
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "8 U.S.C. § 1807"
-generated_at: "2026-03-30T02:26:41.971Z"
+generated_at: "2026-03-30T02:29:28.561Z"
 ---
 
 # § 1807. Form I–94 fee

@@ -3,9 +3,9 @@ title: "Section 2411 - Establishment"
 usc_title: 15
 usc_section: "2411"
 chapter: 51
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 2411"
-generated_at: "2026-03-30T02:27:25.669Z"
+generated_at: "2026-03-30T02:30:38.255Z"
 ---
 
 # § 2411. Establishment

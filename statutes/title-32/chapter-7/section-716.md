@@ -3,9 +3,9 @@ title: "Section 716 - Claims for overpayment of pay and allowances, and travel a
 usc_title: 32
 usc_section: "716"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "32 U.S.C. § 716"
-generated_at: "2026-03-30T02:28:15.427Z"
+generated_at: "2026-03-30T02:32:35.116Z"
 ---
 
 # § 716. Claims for overpayment of pay and allowances, and travel and transportation allowances

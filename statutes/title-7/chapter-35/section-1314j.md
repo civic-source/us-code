@@ -3,9 +3,9 @@ title: "Section 1314j - Repealed. Pub. L. 108–357, title VI, § 611(a) , Oct. 
 usc_title: 7
 usc_section: "1314j"
 chapter: 35
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 1314j"
-generated_at: "2026-03-30T02:26:56.151Z"
+generated_at: "2026-03-30T02:29:33.202Z"
 ---
 
 # §§ 1314b to 1314j. Repealed. Pub. L. 108–357, title VI, § 611(a) , Oct. 22, 2004 , 118 Stat. 1522

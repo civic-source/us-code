@@ -3,9 +3,9 @@ title: "Section 1131 - General authority"
 usc_title: 49
 usc_section: "1131"
 chapter: 11
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "49 U.S.C. § 1131"
-generated_at: "2026-03-30T02:28:59.843Z"
+generated_at: "2026-03-30T02:33:20.214Z"
 ---
 
 # § 1131. General authority

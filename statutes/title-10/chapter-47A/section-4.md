@@ -3,9 +3,9 @@ title: "Section 4 - Discovery of, and access to, classified information by the a
 usc_title: 10
 usc_section: "4"
 chapter: 47
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 4"
-generated_at: "2026-03-30T02:26:40.843Z"
+generated_at: "2026-03-30T02:30:23.121Z"
 ---
 
 # § 949p–4. Discovery of, and access to, classified information by the accused

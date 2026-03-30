@@ -3,9 +3,9 @@ title: "Section 674 - Audit of grant recipient; maintenance of rec­ords; conten
 usc_title: 29
 usc_section: "674"
 chapter: 15
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "29 U.S.C. § 674"
-generated_at: "2026-03-30T02:27:51.089Z"
+generated_at: "2026-03-30T02:32:20.334Z"
 ---
 
 # § 674. Audit of grant recipient; maintenance of rec­ords; contents of records; access to books, etc.

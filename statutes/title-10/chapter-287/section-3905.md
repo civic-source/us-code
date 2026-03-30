@@ -3,9 +3,9 @@ title: "Section 3905 - Products of Federal Prison Industries: procedural require
 usc_title: 10
 usc_section: "3905"
 chapter: 287
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 3905"
-generated_at: "2026-03-30T02:26:40.922Z"
+generated_at: "2026-03-30T02:30:23.300Z"
 ---
 
 # § 3905. Products of Federal Prison Industries: procedural requirements

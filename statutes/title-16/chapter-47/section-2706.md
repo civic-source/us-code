@@ -3,9 +3,9 @@ title: "Section 2706 - New impoundments"
 usc_title: 16
 usc_section: "2706"
 chapter: 47
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 2706"
-generated_at: "2026-03-30T02:27:38.070Z"
+generated_at: "2026-03-30T02:31:30.212Z"
 ---
 
 # § 2706. New impoundments

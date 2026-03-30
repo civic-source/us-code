@@ -3,9 +3,9 @@ title: "Section 2903 - Conservation plans"
 usc_title: 16
 usc_section: "2903"
 chapter: 49
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 2903"
-generated_at: "2026-03-30T02:27:38.071Z"
+generated_at: "2026-03-30T02:31:30.213Z"
 ---
 
 # § 2903. Conservation plans

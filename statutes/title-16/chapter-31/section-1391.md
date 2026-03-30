@@ -3,9 +3,9 @@ title: "Section 1391 - Near real-time monitoring and mitigation program for larg
 usc_title: 16
 usc_section: "1391"
 chapter: 31
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 1391"
-generated_at: "2026-03-30T02:27:38.038Z"
+generated_at: "2026-03-30T02:31:30.181Z"
 ---
 
 # § 1391. Near real-time monitoring and mitigation program for large cetaceans

@@ -3,9 +3,9 @@ title: "Section 1869a - Contracts for precollege science or engineering curricul
 usc_title: 42
 usc_section: "1869a"
 chapter: 16
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 1869a"
-generated_at: "2026-03-30T02:28:50.427Z"
+generated_at: "2026-03-30T02:33:07.840Z"
 ---
 
 # § 1869a. Contracts for precollege science or engineering curriculum development activities; inspection of materials by parent or guardian

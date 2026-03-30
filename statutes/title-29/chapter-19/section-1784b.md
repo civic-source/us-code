@@ -3,9 +3,9 @@ title: "Section 1784b - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug
 usc_title: 29
 usc_section: "1784b"
 chapter: 19
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "29 U.S.C. § 1784b"
-generated_at: "2026-03-30T02:27:51.140Z"
+generated_at: "2026-03-30T02:32:20.393Z"
 ---
 
 # §§ 1784 to 1784b. Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug. 7, 1998 , 112 Stat. 1059

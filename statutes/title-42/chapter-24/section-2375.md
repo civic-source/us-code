@@ -3,9 +3,9 @@ title: "Section 2375 - Gift of utility to city; charges and terms for utilities 
 usc_title: 42
 usc_section: "2375"
 chapter: 24
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 2375"
-generated_at: "2026-03-30T02:28:50.466Z"
+generated_at: "2026-03-30T02:33:07.891Z"
 ---
 
 # § 2375. Gift of utility to city; charges and terms for utilities transferred to other transferees

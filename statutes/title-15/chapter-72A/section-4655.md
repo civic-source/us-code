@@ -3,9 +3,9 @@ title: "Section 4655 - Funding for development and adoption of measurably secure
 usc_title: 15
 usc_section: "4655"
 chapter: 72
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 4655"
-generated_at: "2026-03-30T02:27:25.698Z"
+generated_at: "2026-03-30T02:30:38.304Z"
 ---
 
 # § 4655. Funding for development and adoption of measurably secure semiconductors and measurably secure semiconductors supply chains

@@ -3,9 +3,9 @@ title: "Section 2513 - Confiscation of wire, oral, or electronic communication i
 usc_title: 18
 usc_section: "2513"
 chapter: 119
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 2513"
-generated_at: "2026-03-30T02:27:34.425Z"
+generated_at: "2026-03-30T02:31:31.349Z"
 ---
 
 # § 2513. Confiscation of wire, oral, or electronic communication intercepting devices

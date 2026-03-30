@@ -3,9 +3,9 @@ title: "Section 2810 - Military construction projects for innovation, research, 
 usc_title: 10
 usc_section: "2810"
 chapter: 169
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 2810"
-generated_at: "2026-03-30T02:26:40.906Z"
+generated_at: "2026-03-30T02:30:23.263Z"
 ---
 
 # § 2810. Military construction projects for innovation, research, development, test, and evaluation

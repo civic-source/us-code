@@ -3,9 +3,9 @@ title: "Section 3334t - Program for beyond 5G"
 usc_title: 50
 usc_section: "3334t"
 chapter: 45
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "50 U.S.C. § 3334t"
-generated_at: "2026-03-30T02:29:01.350Z"
+generated_at: "2026-03-30T02:33:16.525Z"
 ---
 
 # § 3334t. Program for beyond 5G

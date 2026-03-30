@@ -3,9 +3,9 @@ title: "Section 5196e - Radiological Emergency Preparedness Fund"
 usc_title: 42
 usc_section: "5196e"
 chapter: 68
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 5196e"
-generated_at: "2026-03-30T02:28:50.536Z"
+generated_at: "2026-03-30T02:33:07.981Z"
 ---
 
 # § 5196e. Radiological Emergency Preparedness Fund

@@ -3,9 +3,9 @@ title: "Section 9657 - Separability; contribution"
 usc_title: 42
 usc_section: "9657"
 chapter: 103
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 9657"
-generated_at: "2026-03-30T02:28:50.689Z"
+generated_at: "2026-03-30T02:33:08.204Z"
 ---
 
 # § 9657. Separability; contribution

@@ -3,9 +3,9 @@ title: "Section 4901 - Surveillance requirements"
 usc_title: 46
 usc_section: "4901"
 chapter: 49
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "46 U.S.C. § 4901"
-generated_at: "2026-03-30T02:28:56.216Z"
+generated_at: "2026-03-30T02:33:14.596Z"
 ---
 
 # § 4901. Surveillance requirements

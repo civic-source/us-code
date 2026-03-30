@@ -3,9 +3,9 @@ title: "Section 2032 - Automated data processing and information retrieval syste
 usc_title: 7
 usc_section: "2032"
 chapter: 51
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 2032"
-generated_at: "2026-03-30T02:26:56.209Z"
+generated_at: "2026-03-30T02:29:33.293Z"
 ---
 
 # § 2032. Automated data processing and information retrieval systems

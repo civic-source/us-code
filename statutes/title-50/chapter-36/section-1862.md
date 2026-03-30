@@ -3,9 +3,9 @@ title: "Section 1862 - Access to certain business records for foreign intelligen
 usc_title: 50
 usc_section: "1862"
 chapter: 36
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "50 U.S.C. § 1862"
-generated_at: "2026-03-30T02:29:01.309Z"
+generated_at: "2026-03-30T02:33:16.465Z"
 ---
 
 # § 1862. Access to certain business records for foreign intelligence and international terrorism investigations
@@ -18,7 +18,7 @@ generated_at: "2026-03-30T02:29:01.309Z"
   - **(2)** shall specify that—
     - **(A)** the records concerned are sought for an investigation described in subsection (a);
     - **(B)** there are specific and articulable facts giving reason to believe that the person to whom the records pertain is a foreign power or an agent of a foreign power;
-    - **(E)** 1 1 So in original.No subpars. (C) and (D) have been enacted. a statement by the applicant that, to the best knowledge of the applicant, the application fairly reflects all information that might reasonably—
+    - **(E)** 1 1 So in original. No subpars. (C) and (D) have been enacted. a statement by the applicant that, to the best knowledge of the applicant, the application fairly reflects all information that might reasonably—
       - **(i)** call into question the accuracy of the application or the reasonableness of any assessment in the application conducted by the department or agency on whose behalf the application is made; or
       - **(ii)** otherwise raise doubts with respect to the findings required under subsection (c); and
     - **(F)** non-cumulative information known to the applicant that is potentially exculpatory regarding the requested legal findings or any assessment in the application.

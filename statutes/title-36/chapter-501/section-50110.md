@@ -3,9 +3,9 @@ title: "Section 50110 - Service of process"
 usc_title: 36
 usc_section: "50110"
 chapter: 501
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "36 U.S.C. § 50110"
-generated_at: "2026-03-30T02:28:29.613Z"
+generated_at: "2026-03-30T02:32:43.684Z"
 ---
 
 # § 50110. Service of process

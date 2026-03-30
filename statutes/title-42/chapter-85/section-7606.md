@@ -3,9 +3,9 @@ title: "Section 7606 - Federal procurement"
 usc_title: 42
 usc_section: "7606"
 chapter: 85
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 7606"
-generated_at: "2026-03-30T02:28:50.639Z"
+generated_at: "2026-03-30T02:33:08.135Z"
 ---
 
 # § 7606. Federal procurement

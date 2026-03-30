@@ -3,9 +3,9 @@ title: "Section 1705 - Destruction of letter boxes or mail"
 usc_title: 18
 usc_section: "1705"
 chapter: 83
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 1705"
-generated_at: "2026-03-30T02:27:34.410Z"
+generated_at: "2026-03-30T02:31:31.334Z"
 ---
 
 # § 1705. Destruction of letter boxes or mail

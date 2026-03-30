@@ -3,9 +3,9 @@ title: "Section 2301 - Establishment of the United States Holocaust Memorial Mus
 usc_title: 36
 usc_section: "2301"
 chapter: 23
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "36 U.S.C. § 2301"
-generated_at: "2026-03-30T02:28:29.606Z"
+generated_at: "2026-03-30T02:32:43.676Z"
 ---
 
 # § 2301. Establishment of the United States Holocaust Memorial Museum; functions

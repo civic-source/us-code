@@ -3,9 +3,9 @@ title: "Section 4833 - Serious Security Incident investigation process"
 usc_title: 22
 usc_section: "4833"
 chapter: 58
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 4833"
-generated_at: "2026-03-30T02:27:46.060Z"
+generated_at: "2026-03-30T02:31:58.252Z"
 ---
 
 # § 4833. Serious Security Incident investigation process

@@ -3,9 +3,9 @@ title: "Section 4101 - Findings and action on goods of CAFTA–DR countries"
 usc_title: 19
 usc_section: "4101"
 chapter: 26
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "19 U.S.C. § 4101"
-generated_at: "2026-03-30T02:27:30.900Z"
+generated_at: "2026-03-30T02:31:48.825Z"
 ---
 
 # § 4101. Findings and action on goods of CAFTA–DR countries

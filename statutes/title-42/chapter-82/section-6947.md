@@ -3,9 +3,9 @@ title: "Section 6947 - Approval of State plan; Federal assistance"
 usc_title: 42
 usc_section: "6947"
 chapter: 82
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 6947"
-generated_at: "2026-03-30T02:28:50.591Z"
+generated_at: "2026-03-30T02:33:08.068Z"
 ---
 
 # § 6947. Approval of State plan; Federal assistance

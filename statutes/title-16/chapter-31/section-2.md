@@ -3,9 +3,9 @@ title: "Section 2 - Marine Mammal Health Monitoring and Analysis Platform (Healt
 usc_title: 16
 usc_section: "2"
 chapter: 31
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:27:38.040Z"
+generated_at: "2026-03-30T02:31:30.182Z"
 ---
 
 # § 1421f–2. Marine Mammal Health Monitoring and Analysis Platform (Health MAP)

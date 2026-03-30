@@ -3,9 +3,9 @@ title: "Section 756 - Internee of belligerent nation"
 usc_title: 18
 usc_section: "756"
 chapter: 35
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 756"
-generated_at: "2026-03-30T02:27:34.394Z"
+generated_at: "2026-03-30T02:31:31.314Z"
 ---
 
 # § 756. Internee of belligerent nation

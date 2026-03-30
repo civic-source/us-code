@@ -3,9 +3,9 @@ title: "Section 3616 - Federal Secure Cloud Advisory Committee"
 usc_title: 44
 usc_section: "3616"
 chapter: 36
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "44 U.S.C. § 3616"
-generated_at: "2026-03-30T02:28:33.608Z"
+generated_at: "2026-03-30T02:32:48.255Z"
 ---
 
 # § 3616. Federal Secure Cloud Advisory Committee

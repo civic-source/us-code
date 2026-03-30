@@ -3,9 +3,9 @@ title: "Section 203 - Application for license; requirements; qualifications for 
 usc_title: 21
 usc_section: "203"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "21 U.S.C. § 203"
-generated_at: "2026-03-30T02:27:47.141Z"
+generated_at: "2026-03-30T02:32:08.991Z"
 ---
 
 # § 203. Application for license; requirements; qualifications for license

@@ -3,9 +3,9 @@ title: "Section 1761 - Management information system"
 usc_title: 10
 usc_section: "1761"
 chapter: 87
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 1761"
-generated_at: "2026-03-30T02:26:40.876Z"
+generated_at: "2026-03-30T02:30:23.197Z"
 ---
 
 # § 1761. Management information system

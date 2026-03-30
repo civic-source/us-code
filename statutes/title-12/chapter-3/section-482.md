@@ -3,9 +3,9 @@ title: "Section 482 - Employees of Office of Comptroller of the Currency; appoin
 usc_title: 12
 usc_section: "482"
 chapter: 3
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "12 U.S.C. § 482"
-generated_at: "2026-03-30T02:27:02.701Z"
+generated_at: "2026-03-30T02:31:09.738Z"
 ---
 
 # § 482. Employees of Office of Comptroller of the Currency; appointment; compensation and benefits

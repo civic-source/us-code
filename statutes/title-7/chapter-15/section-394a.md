@@ -3,9 +3,9 @@ title: "Section 394a - Overtime of employees working at establishments which pre
 usc_title: 7
 usc_section: "394a"
 chapter: 15
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 394a"
-generated_at: "2026-03-30T02:26:56.135Z"
+generated_at: "2026-03-30T02:29:33.177Z"
 ---
 
 # § 394a. Overtime of employees working at establishments which prepare virus, serum, toxin, and analogous products

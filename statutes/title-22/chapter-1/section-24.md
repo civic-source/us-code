@@ -3,9 +3,9 @@ title: "Section 24 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(67), 6
 usc_title: 22
 usc_section: "24"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 24"
-generated_at: "2026-03-30T02:27:45.940Z"
+generated_at: "2026-03-30T02:31:58.106Z"
 ---
 
 # § 24. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(67), 60 Stat. 1040

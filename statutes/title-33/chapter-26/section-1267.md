@@ -3,9 +3,9 @@ title: "Section 1267 - Chesapeake Bay"
 usc_title: 33
 usc_section: "1267"
 chapter: 26
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 1267"
-generated_at: "2026-03-30T02:28:24.847Z"
+generated_at: "2026-03-30T02:32:39.294Z"
 ---
 
 # § 1267. Chesapeake Bay

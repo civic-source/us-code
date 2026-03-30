@@ -3,9 +3,9 @@ title: "Section 20509 - Designation of chief State election official"
 usc_title: 52
 usc_section: "20509"
 chapter: 205
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "52 U.S.C. § 20509"
-generated_at: "2026-03-30T02:29:04.667Z"
+generated_at: "2026-03-30T02:33:26.208Z"
 ---
 
 # § 20509. Designation of chief State election official

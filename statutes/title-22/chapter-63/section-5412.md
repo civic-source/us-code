@@ -3,9 +3,9 @@ title: "Section 5412 - Stabilization assistance for Poland"
 usc_title: 22
 usc_section: "5412"
 chapter: 63
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 5412"
-generated_at: "2026-03-30T02:27:46.062Z"
+generated_at: "2026-03-30T02:31:58.256Z"
 ---
 
 # § 5412. Stabilization assistance for Poland

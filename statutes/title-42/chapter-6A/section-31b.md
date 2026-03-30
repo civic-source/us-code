@@ -3,9 +3,9 @@ title: "Section 31b - Authorization of appropriations"
 usc_title: 42
 usc_section: "31b"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 31b"
-generated_at: "2026-03-30T02:28:50.096Z"
+generated_at: "2026-03-30T02:33:07.400Z"
 ---
 
 # § 300ff–31b. Authorization of appropriations

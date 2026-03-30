@@ -3,9 +3,9 @@ title: "Section 5042 - Revocation of probation"
 usc_title: 18
 usc_section: "5042"
 chapter: 403
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 5042"
-generated_at: "2026-03-30T02:27:34.446Z"
+generated_at: "2026-03-30T02:31:31.370Z"
 ---
 
 # § 5042. Revocation of probation

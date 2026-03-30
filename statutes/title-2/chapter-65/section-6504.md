@@ -3,9 +3,9 @@ title: "Section 6504 - Committee on Rules and Administration; designation of emp
 usc_title: 2
 usc_section: "6504"
 chapter: 65
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "2 U.S.C. § 6504"
-generated_at: "2026-03-30T02:26:24.061Z"
+generated_at: "2026-03-30T02:29:19.587Z"
 ---
 
 # § 6504. Committee on Rules and Administration; designation of employees to approve vouchers for payments from Senate contingent fund

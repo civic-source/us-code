@@ -3,9 +3,9 @@ title: "Section 8431 - Recruit basic training: separate housing for male and fem
 usc_title: 10
 usc_section: "8431"
 chapter: 852
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 8431"
-generated_at: "2026-03-30T02:26:40.947Z"
+generated_at: "2026-03-30T02:30:23.357Z"
 ---
 
 # § 8431. Recruit basic training: separate housing for male and female recruits

@@ -3,9 +3,9 @@ title: "Section 69h - Guaranty"
 usc_title: 15
 usc_section: "69h"
 chapter: 2
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 69h"
-generated_at: "2026-03-30T02:27:25.531Z"
+generated_at: "2026-03-30T02:30:38.024Z"
 ---
 
 # § 69h. Guaranty

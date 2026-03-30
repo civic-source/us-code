@@ -3,9 +3,9 @@ title: "Section 263 - Preparation of biological products by Service"
 usc_title: 42
 usc_section: "263"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 263"
-generated_at: "2026-03-30T02:28:49.974Z"
+generated_at: "2026-03-30T02:33:07.248Z"
 ---
 
 # § 263. Preparation of biological products by Service

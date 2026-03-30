@@ -3,9 +3,9 @@ title: "Section 3705 - Cooperative Research Centers"
 usc_title: 15
 usc_section: "3705"
 chapter: 63
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 3705"
-generated_at: "2026-03-30T02:27:25.689Z"
+generated_at: "2026-03-30T02:30:38.287Z"
 ---
 
 # § 3705. Cooperative Research Centers

@@ -3,9 +3,9 @@ title: "Section 13108 - Review of reports"
 usc_title: 5
 usc_section: "13108"
 chapter: 131
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "5 U.S.C. § 13108"
-generated_at: "2026-03-30T02:26:26.322Z"
+generated_at: "2026-03-30T02:29:23.301Z"
 ---
 
 # § 13108. Review of reports

@@ -3,9 +3,9 @@ title: "Section 106a - Financial and program audit by Secretary"
 usc_title: 20
 usc_section: "106a"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 106a"
-generated_at: "2026-03-30T02:27:33.264Z"
+generated_at: "2026-03-30T02:31:22.586Z"
 ---
 
 # § 106a. Financial and program audit by Secretary

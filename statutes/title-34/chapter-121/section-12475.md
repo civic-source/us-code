@@ -3,9 +3,9 @@ title: "Section 12475 - Grants to combat violence against women in public and as
 usc_title: 34
 usc_section: "12475"
 chapter: 121
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "34 U.S.C. § 12475"
-generated_at: "2026-03-30T02:28:26.102Z"
+generated_at: "2026-03-30T02:32:37.544Z"
 ---
 
 # § 12475. Grants to combat violence against women in public and assisted housing

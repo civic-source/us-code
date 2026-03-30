@@ -3,9 +3,9 @@ title: "Section 239 - Repealed. Pub. L. 103–382, title III, § 331(b) , Oct. 2
 usc_title: 20
 usc_section: "239"
 chapter: 13
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 239"
-generated_at: "2026-03-30T02:27:33.265Z"
+generated_at: "2026-03-30T02:31:22.588Z"
 ---
 
 # §§ 236 to 239. Repealed. Pub. L. 103–382, title III, § 331(b) , Oct. 20, 1994 , 108 Stat. 3965

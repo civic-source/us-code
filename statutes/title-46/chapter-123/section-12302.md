@@ -3,9 +3,9 @@ title: "Section 12302 - Standard numbering system"
 usc_title: 46
 usc_section: "12302"
 chapter: 123
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "46 U.S.C. § 12302"
-generated_at: "2026-03-30T02:28:56.228Z"
+generated_at: "2026-03-30T02:33:14.609Z"
 ---
 
 # § 12302. Standard numbering system

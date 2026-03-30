@@ -3,9 +3,9 @@ title: "Section 3065 - Assignment and delegation of procurement functions and re
 usc_title: 10
 usc_section: "3065"
 chapter: 203
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 3065"
-generated_at: "2026-03-30T02:26:40.913Z"
+generated_at: "2026-03-30T02:30:23.280Z"
 ---
 
 # § 3065. Assignment and delegation of procurement functions and responsibilities: delegation within agency

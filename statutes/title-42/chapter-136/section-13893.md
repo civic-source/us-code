@@ -3,9 +3,9 @@ title: "Section 13893 - Transferred"
 usc_title: 42
 usc_section: "13893"
 chapter: 136
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 13893"
-generated_at: "2026-03-30T02:28:50.785Z"
+generated_at: "2026-03-30T02:33:08.327Z"
 ---
 
 # § 13893. Transferred

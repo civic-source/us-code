@@ -3,9 +3,9 @@ title: "Section 721 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "721"
 chapter: 16
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 721"
-generated_at: "2026-03-30T02:28:24.837Z"
+generated_at: "2026-03-30T02:32:39.279Z"
 ---
 
 # § 721. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(2) , Dec. 23, 2022 , 136 Stat. 4165

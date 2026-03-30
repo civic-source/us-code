@@ -3,9 +3,9 @@ title: "Section 9608 - Financial responsibility"
 usc_title: 42
 usc_section: "9608"
 chapter: 103
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 9608"
-generated_at: "2026-03-30T02:28:50.682Z"
+generated_at: "2026-03-30T02:33:08.195Z"
 ---
 
 # § 9608. Financial responsibility

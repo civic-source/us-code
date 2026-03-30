@@ -3,9 +3,9 @@ title: "Section 1270 - Patrick Leahy Lake Champlain Basin Program"
 usc_title: 33
 usc_section: "1270"
 chapter: 26
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 1270"
-generated_at: "2026-03-30T02:28:24.849Z"
+generated_at: "2026-03-30T02:32:39.297Z"
 ---
 
 # § 1270. Patrick Leahy Lake Champlain Basin Program

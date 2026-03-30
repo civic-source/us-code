@@ -3,9 +3,9 @@ title: "Section 80302 - Patrol services"
 usc_title: 46
 usc_section: "80302"
 chapter: 803
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "46 U.S.C. § 80302"
-generated_at: "2026-03-30T02:28:56.266Z"
+generated_at: "2026-03-30T02:33:14.650Z"
 ---
 
 # § 80302. Patrol services

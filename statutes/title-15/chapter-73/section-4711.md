@@ -3,9 +3,9 @@ title: "Section 4711 - Repealed. Pub. L. 107–228, div. A, title VI, § 671(1) 
 usc_title: 15
 usc_section: "4711"
 chapter: 73
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 4711"
-generated_at: "2026-03-30T02:27:25.699Z"
+generated_at: "2026-03-30T02:30:38.305Z"
 ---
 
 # § 4711. Repealed. Pub. L. 107–228, div. A, title VI, § 671(1) , Sept. 30, 2002 , 116 Stat. 1407

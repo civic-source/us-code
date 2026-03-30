@@ -3,9 +3,9 @@ title: "Section 6066 - Requirements for determining democratically elected gover
 usc_title: 22
 usc_section: "6066"
 chapter: 69
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 6066"
-generated_at: "2026-03-30T02:27:46.069Z"
+generated_at: "2026-03-30T02:31:58.265Z"
 ---
 
 # § 6066. Requirements for determining democratically elected government

@@ -3,9 +3,9 @@ title: "Section 7i - Reporting of information relating to drug samples"
 usc_title: 42
 usc_section: "7i"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 7i"
-generated_at: "2026-03-30T02:28:50.189Z"
+generated_at: "2026-03-30T02:33:07.523Z"
 ---
 
 # § 1320a–7i. Reporting of information relating to drug samples

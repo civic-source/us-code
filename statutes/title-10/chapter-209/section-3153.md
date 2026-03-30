@@ -3,9 +3,9 @@ title: "Section 3153 - Contingency program management matters covered"
 usc_title: 10
 usc_section: "3153"
 chapter: 209
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 3153"
-generated_at: "2026-03-30T02:26:40.914Z"
+generated_at: "2026-03-30T02:30:23.282Z"
 ---
 
 # § 3153. Contingency program management matters covered

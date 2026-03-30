@@ -3,9 +3,9 @@ title: "Section 129 - Civilian personnel management"
 usc_title: 10
 usc_section: "129"
 chapter: 3
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 129"
-generated_at: "2026-03-30T02:26:40.805Z"
+generated_at: "2026-03-30T02:30:23.033Z"
 ---
 
 # § 129. Civilian personnel management

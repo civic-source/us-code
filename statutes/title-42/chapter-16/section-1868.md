@@ -3,9 +3,9 @@ title: "Section 1868 - Special commissions"
 usc_title: 42
 usc_section: "1868"
 chapter: 16
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 1868"
-generated_at: "2026-03-30T02:28:50.427Z"
+generated_at: "2026-03-30T02:33:07.840Z"
 ---
 
 # § 1868. Special commissions

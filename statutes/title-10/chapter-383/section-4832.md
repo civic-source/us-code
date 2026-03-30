@@ -3,9 +3,9 @@ title: "Section 4832 - Encouragement of technology transfer"
 usc_title: 10
 usc_section: "4832"
 chapter: 383
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 4832"
-generated_at: "2026-03-30T02:26:40.931Z"
+generated_at: "2026-03-30T02:30:23.321Z"
 ---
 
 # § 4832. Encouragement of technology transfer

@@ -3,9 +3,9 @@ title: "Section 3178 - Nutritional status monitoring"
 usc_title: 7
 usc_section: "3178"
 chapter: 64
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 3178"
-generated_at: "2026-03-30T02:26:56.227Z"
+generated_at: "2026-03-30T02:29:33.321Z"
 ---
 
 # § 3178. Nutritional status monitoring

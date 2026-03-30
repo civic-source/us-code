@@ -3,9 +3,9 @@ title: "Section 2532 - Manufacturing infrastructure for refabrication and certif
 usc_title: 50
 usc_section: "2532"
 chapter: 42
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "50 U.S.C. § 2532"
-generated_at: "2026-03-30T02:29:01.324Z"
+generated_at: "2026-03-30T02:33:16.487Z"
 ---
 
 # § 2532. Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile

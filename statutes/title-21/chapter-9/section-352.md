@@ -3,9 +3,9 @@ title: "Section 352 - Misbranded drugs and devices"
 usc_title: 21
 usc_section: "352"
 chapter: 9
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "21 U.S.C. § 352"
-generated_at: "2026-03-30T02:27:47.151Z"
+generated_at: "2026-03-30T02:32:09.006Z"
 ---
 
 # § 352. Misbranded drugs and devices

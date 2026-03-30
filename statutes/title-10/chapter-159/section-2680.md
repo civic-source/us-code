@@ -3,9 +3,9 @@ title: "Section 2680 - Minimum capital investment for facilities sustainment, re
 usc_title: 10
 usc_section: "2680"
 chapter: 159
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 2680"
-generated_at: "2026-03-30T02:26:40.900Z"
+generated_at: "2026-03-30T02:30:23.251Z"
 ---
 
 # § 2680. Minimum capital investment for facilities sustainment, restoration, and modernization for military departments

@@ -3,9 +3,9 @@ title: "Section 2021a - Storage or disposal facility planning"
 usc_title: 42
 usc_section: "2021a"
 chapter: 23
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 2021a"
-generated_at: "2026-03-30T02:28:50.444Z"
+generated_at: "2026-03-30T02:33:07.863Z"
 ---
 
 # § 2021a. Storage or disposal facility planning

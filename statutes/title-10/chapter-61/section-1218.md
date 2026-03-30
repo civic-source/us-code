@@ -3,9 +3,9 @@ title: "Section 1218 - Discharge or release from active duty: claims for compens
 usc_title: 10
 usc_section: "1218"
 chapter: 61
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 1218"
-generated_at: "2026-03-30T02:26:40.861Z"
+generated_at: "2026-03-30T02:30:23.163Z"
 ---
 
 # § 1218. Discharge or release from active duty: claims for compensation, pension, or hospitalization

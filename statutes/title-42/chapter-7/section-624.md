@@ -3,9 +3,9 @@ title: "Section 624 - Payment to States"
 usc_title: 42
 usc_section: "624"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 624"
-generated_at: "2026-03-30T02:28:50.150Z"
+generated_at: "2026-03-30T02:33:07.471Z"
 ---
 
 # § 624. Payment to States

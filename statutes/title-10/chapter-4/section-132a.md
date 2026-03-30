@@ -3,9 +3,9 @@ title: "Section 132a - Performance improvement officer 1 1 So in original. Proba
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-30T02:26:40.806Z"
+generated_at: "2026-03-30T02:30:23.037Z"
 ---
 
 # § 132a. Performance improvement officer 1 1 So in original. Probably should be capitalized as “Performance Improvement Officer”.

@@ -3,9 +3,9 @@ title: "Section 24 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 43
 usc_section: "24"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "43 U.S.C. § 24"
-generated_at: "2026-03-30T02:28:34.687Z"
+generated_at: "2026-03-30T02:32:50.073Z"
 ---
 
 # § 24. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 632 , 646, 647

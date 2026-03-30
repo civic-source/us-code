@@ -3,9 +3,9 @@ title: "Section 2652 - Restrictions on access to national security laboratories 
 usc_title: 50
 usc_section: "2652"
 chapter: 42
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "50 U.S.C. § 2652"
-generated_at: "2026-03-30T02:29:01.327Z"
+generated_at: "2026-03-30T02:33:16.490Z"
 ---
 
 # § 2652. Restrictions on access to national security laboratories by foreign visitors from sensitive countries
@@ -18,7 +18,7 @@ generated_at: "2026-03-30T02:29:01.327Z"
     - **(A)** the admittance of such individual to the facility is in the national security interests of the United States;
     - **(B)** no classified or restricted data will be revealed to such individual in connection with the admittance of such individual to the facility;
     - **(C)** the Secretary or Administrator has consulted with the heads of other relevant departments or agencies of the United States Government to mitigate risks associated with the admittance of such individual; and
-    - **(D)** the background review completed to subsection (a) with respect to such individual did not uncover any previously unreported affiliation with military or intelligence organizations associated with a covered foreign nation.
+    - **(D)** the background review completed to 1 1 So in original. subsection (a) with respect to such individual did not uncover any previously unreported affiliation with military or intelligence organizations associated with a covered foreign nation.
   - **(3)** A facility described in this paragraph is a facility, or any portion thereof, that directly supports the mission, functions, and operations of the Administration (as described in this chapter) and is located on—
     - **(A)** a national security laboratory;
     - **(B)** a nuclear weapons production facility; or

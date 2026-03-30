@@ -3,9 +3,9 @@ title: "Section 1302b - Small and medium publicly owned treatment works circuit 
 usc_title: 33
 usc_section: "1302b"
 chapter: 26
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 1302b"
-generated_at: "2026-03-30T02:28:24.854Z"
+generated_at: "2026-03-30T02:32:39.303Z"
 ---
 
 # § 1302b. Small and medium publicly owned treatment works circuit rider program

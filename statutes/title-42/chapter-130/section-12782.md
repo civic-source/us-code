@@ -3,9 +3,9 @@ title: "Section 12782 - Priorities for capacity development"
 usc_title: 42
 usc_section: "12782"
 chapter: 130
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 12782"
-generated_at: "2026-03-30T02:28:50.765Z"
+generated_at: "2026-03-30T02:33:08.301Z"
 ---
 
 # § 12782. Priorities for capacity development

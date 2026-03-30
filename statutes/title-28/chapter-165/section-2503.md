@@ -3,9 +3,9 @@ title: "Section 2503 - Proceedings generally"
 usc_title: 28
 usc_section: "2503"
 chapter: 165
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "28 U.S.C. § 2503"
-generated_at: "2026-03-30T02:28:03.295Z"
+generated_at: "2026-03-30T02:32:19.035Z"
 ---
 
 # § 2503. Proceedings generally

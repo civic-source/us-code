@@ -3,9 +3,9 @@ title: "Section 2092 - Board of directors"
 usc_title: 12
 usc_section: "2092"
 chapter: 23
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "12 U.S.C. § 2092"
-generated_at: "2026-03-30T02:27:02.787Z"
+generated_at: "2026-03-30T02:31:09.839Z"
 ---
 
 # § 2092. Board of directors

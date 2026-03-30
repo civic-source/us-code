@@ -3,9 +3,9 @@ title: "Section 15911 - Denali Commission"
 usc_title: 42
 usc_section: "15911"
 chapter: 149
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 15911"
-generated_at: "2026-03-30T02:28:50.801Z"
+generated_at: "2026-03-30T02:33:08.348Z"
 ---
 
 # § 15911. Denali Commission

@@ -3,9 +3,9 @@ title: "Section 9093 - Procedures for providing payroll support"
 usc_title: 15
 usc_section: "9093"
 chapter: 116
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 9093"
-generated_at: "2026-03-30T02:27:25.740Z"
+generated_at: "2026-03-30T02:30:38.372Z"
 ---
 
 # § 9093. Procedures for providing payroll support

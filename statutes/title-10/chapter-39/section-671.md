@@ -3,9 +3,9 @@ title: "Section 671 - Members not to be assigned outside United States before co
 usc_title: 10
 usc_section: "671"
 chapter: 39
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 671"
-generated_at: "2026-03-30T02:26:40.830Z"
+generated_at: "2026-03-30T02:30:23.097Z"
 ---
 
 # § 671. Members not to be assigned outside United States before completing training

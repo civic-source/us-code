@@ -3,9 +3,9 @@ title: "Section 474 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "474"
 chapter: 10
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 474"
-generated_at: "2026-03-30T02:28:24.823Z"
+generated_at: "2026-03-30T02:32:39.262Z"
 ---
 
 # § 474. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(1) , Dec. 23, 2022 , 136 Stat. 4165

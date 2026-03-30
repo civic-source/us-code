@@ -3,9 +3,9 @@ title: "Section 30502 - Application"
 usc_title: 46
 usc_section: "30502"
 chapter: 305
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "46 U.S.C. § 30502"
-generated_at: "2026-03-30T02:28:56.231Z"
+generated_at: "2026-03-30T02:33:14.612Z"
 ---
 
 # § 30502. Application

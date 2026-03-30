@@ -3,9 +3,9 @@ title: "Section 17503 - Data collection"
 usc_title: 40
 usc_section: "17503"
 chapter: 175
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "40 U.S.C. § 17503"
-generated_at: "2026-03-30T02:28:28.928Z"
+generated_at: "2026-03-30T02:32:42.700Z"
 ---
 
 # § 17503. Data collection

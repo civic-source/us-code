@@ -3,9 +3,9 @@ title: "Section 837g - Transmission lines between Pacific Northwest and Pacific 
 usc_title: 16
 usc_section: "837g"
 chapter: 12
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 837g"
-generated_at: "2026-03-30T02:27:38.011Z"
+generated_at: "2026-03-30T02:31:30.154Z"
 ---
 
 # § 837g. Transmission lines between Pacific Northwest and Pacific Southwest; prohibition against construction of lines or related facilities; exceptions of lines and facilities recommended by Secretary or authorized by Congress; authority of Secretary to construct other transmission lines unaffected

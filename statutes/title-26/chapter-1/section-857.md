@@ -3,9 +3,9 @@ title: "Section 857 - Taxation of real estate investment trusts and their benefi
 usc_title: 26
 usc_section: "857"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "26 U.S.C. § 857"
-generated_at: "2026-03-30T02:28:12.307Z"
+generated_at: "2026-03-30T02:32:32.701Z"
 ---
 
 # § 857. Taxation of real estate investment trusts and their beneficiaries

@@ -3,9 +3,9 @@ title: "Section 8459 - Midshipmen: service obligation"
 usc_title: 10
 usc_section: "8459"
 chapter: 853
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 8459"
-generated_at: "2026-03-30T02:26:40.947Z"
+generated_at: "2026-03-30T02:30:23.357Z"
 ---
 
 # § 8459. Midshipmen: service obligation

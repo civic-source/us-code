@@ -3,9 +3,9 @@ title: "Section 262 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "262"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "43 U.S.C. § 262"
-generated_at: "2026-03-30T02:28:34.691Z"
+generated_at: "2026-03-30T02:32:50.082Z"
 ---
 
 # § 262. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

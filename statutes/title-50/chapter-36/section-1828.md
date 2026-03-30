@@ -3,9 +3,9 @@ title: "Section 1828 - Civil liability"
 usc_title: 50
 usc_section: "1828"
 chapter: 36
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "50 U.S.C. § 1828"
-generated_at: "2026-03-30T02:29:01.309Z"
+generated_at: "2026-03-30T02:33:16.464Z"
 ---
 
 # § 1828. Civil liability

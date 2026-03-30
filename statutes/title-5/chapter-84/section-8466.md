@@ -3,9 +3,9 @@ title: "Section 8466 - Application for benefits"
 usc_title: 5
 usc_section: "8466"
 chapter: 84
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "5 U.S.C. § 8466"
-generated_at: "2026-03-30T02:26:26.309Z"
+generated_at: "2026-03-30T02:29:23.289Z"
 ---
 
 # § 8466. Application for benefits

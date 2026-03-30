@@ -3,9 +3,9 @@ title: "Section 13c - Responsibility as principal; minor violations"
 usc_title: 7
 usc_section: "13c"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 13c"
-generated_at: "2026-03-30T02:26:56.106Z"
+generated_at: "2026-03-30T02:29:33.129Z"
 ---
 
 # § 13c. Responsibility as principal; minor violations

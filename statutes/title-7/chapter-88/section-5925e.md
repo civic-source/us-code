@@ -3,9 +3,9 @@ title: "Section 5925e - Repealed. Pub. L. 113–79, title VII, § 7212(a) , Feb.
 usc_title: 7
 usc_section: "5925e"
 chapter: 88
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 5925e"
-generated_at: "2026-03-30T02:26:56.246Z"
+generated_at: "2026-03-30T02:29:33.351Z"
 ---
 
 # § 5925e. Repealed. Pub. L. 113–79, title VII, § 7212(a) , Feb. 7, 2014 , 128 Stat. 886

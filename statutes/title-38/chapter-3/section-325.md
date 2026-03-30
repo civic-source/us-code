@@ -3,9 +3,9 @@ title: "Section 325 - Veterans experience office 1 1 So in original. Probably sh
 usc_title: 38
 usc_section: "325"
 chapter: 3
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "38 U.S.C. § 325"
-generated_at: "2026-03-30T02:28:31.174Z"
+generated_at: "2026-03-30T02:32:45.990Z"
 ---
 
 # § 325. Veterans experience office 1 1 So in original. Probably should be “Veterans Experience Office”.

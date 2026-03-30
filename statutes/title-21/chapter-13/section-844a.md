@@ -3,9 +3,9 @@ title: "Section 844a - Civil penalty for possession of small amounts of certain 
 usc_title: 21
 usc_section: "844a"
 chapter: 13
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "21 U.S.C. § 844a"
-generated_at: "2026-03-30T02:27:47.217Z"
+generated_at: "2026-03-30T02:32:09.094Z"
 ---
 
 # § 844a. Civil penalty for possession of small amounts of certain controlled substances

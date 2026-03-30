@@ -3,9 +3,9 @@ title: "Section 31147 - Limitations on authority"
 usc_title: 49
 usc_section: "31147"
 chapter: 311
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "49 U.S.C. § 31147"
-generated_at: "2026-03-30T02:28:59.904Z"
+generated_at: "2026-03-30T02:33:20.292Z"
 ---
 
 # § 31147. Limitations on authority

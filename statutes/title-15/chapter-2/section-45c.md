@@ -3,9 +3,9 @@ title: "Section 45c - Unfair and deceptive acts and practices relating to circum
 usc_title: 15
 usc_section: "45c"
 chapter: 2
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "15 U.S.C. § 45c"
-generated_at: "2026-03-30T02:27:25.526Z"
+generated_at: "2026-03-30T02:30:38.016Z"
 ---
 
 # § 45c. Unfair and deceptive acts and practices relating to circumvention of ticket access control measures

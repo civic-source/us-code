@@ -3,9 +3,9 @@ title: "Section 41507 - Authority of the Secretary of Transportation to change p
 usc_title: 49
 usc_section: "41507"
 chapter: 415
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "49 U.S.C. § 41507"
-generated_at: "2026-03-30T02:28:59.922Z"
+generated_at: "2026-03-30T02:33:20.311Z"
 ---
 
 # § 41507. Authority of the Secretary of Transportation to change prices, classifications, rules, and practices for foreign air transportation

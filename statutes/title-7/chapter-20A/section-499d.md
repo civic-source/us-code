@@ -3,9 +3,9 @@ title: "Section 499d - Issuance of license"
 usc_title: 7
 usc_section: "499d"
 chapter: 20
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 499d"
-generated_at: "2026-03-30T02:26:56.137Z"
+generated_at: "2026-03-30T02:29:33.179Z"
 ---
 
 # § 499d. Issuance of license

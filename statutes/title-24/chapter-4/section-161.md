@@ -3,9 +3,9 @@ title: "Section 161 - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "161"
 chapter: 4
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "24 U.S.C. § 161"
-generated_at: "2026-03-30T02:27:40.060Z"
+generated_at: "2026-03-30T02:31:54.162Z"
 ---
 
 # § 161. Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 Stat. 3379

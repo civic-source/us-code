@@ -3,9 +3,9 @@ title: "Section 283b - National Advisory Council on International Monetary and F
 usc_title: 22
 usc_section: "283b"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 283b"
-generated_at: "2026-03-30T02:27:45.953Z"
+generated_at: "2026-03-30T02:31:58.121Z"
 ---
 
 # § 283b. National Advisory Council on International Monetary and Financial Problems

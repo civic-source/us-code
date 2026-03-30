@@ -3,9 +3,9 @@ title: "Section 53 - Possessory actions for recovery of mining titles or for dam
 usc_title: 30
 usc_section: "53"
 chapter: 2
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "30 U.S.C. § 53"
-generated_at: "2026-03-30T02:28:04.262Z"
+generated_at: "2026-03-30T02:32:20.862Z"
 ---
 
 # § 53. Possessory actions for recovery of mining titles or for damages to such title

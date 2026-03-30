@@ -3,9 +3,9 @@ title: "Section 1111 - Data exchange standardization for improved interoperabili
 usc_title: 42
 usc_section: "1111"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 1111"
-generated_at: "2026-03-30T02:28:50.179Z"
+generated_at: "2026-03-30T02:33:07.510Z"
 ---
 
 # § 1111. Data exchange standardization for improved interoperability

@@ -3,9 +3,9 @@ title: "Section 1965 - Venue and process"
 usc_title: 18
 usc_section: "1965"
 chapter: 96
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 1965"
-generated_at: "2026-03-30T02:27:34.414Z"
+generated_at: "2026-03-30T02:31:31.340Z"
 ---
 
 # § 1965. Venue and process

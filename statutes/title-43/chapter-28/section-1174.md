@@ -3,9 +3,9 @@ title: "Section 1174 - Repealed. Aug. 28, 1937, ch. 876 , title II, 50 Stat. 876
 usc_title: 43
 usc_section: "1174"
 chapter: 28
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "43 U.S.C. § 1174"
-generated_at: "2026-03-30T02:28:34.724Z"
+generated_at: "2026-03-30T02:32:50.126Z"
 ---
 
 # § 1174. Repealed. Aug. 28, 1937, ch. 876 , title II, 50 Stat. 876

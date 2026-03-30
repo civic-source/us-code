@@ -3,9 +3,9 @@ title: "Section 3043 - Mandatory retirement for age"
 usc_title: 33
 usc_section: "3043"
 chapter: 43
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 3043"
-generated_at: "2026-03-30T02:28:24.899Z"
+generated_at: "2026-03-30T02:32:39.367Z"
 ---
 
 # § 3043. Mandatory retirement for age

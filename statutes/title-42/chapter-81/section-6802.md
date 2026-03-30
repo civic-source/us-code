@@ -3,9 +3,9 @@ title: "Section 6802 - Definitions"
 usc_title: 42
 usc_section: "6802"
 chapter: 81
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 6802"
-generated_at: "2026-03-30T02:28:50.580Z"
+generated_at: "2026-03-30T02:33:08.048Z"
 ---
 
 # § 6802. Definitions

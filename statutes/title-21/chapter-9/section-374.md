@@ -3,9 +3,9 @@ title: "Section 374 - Inspection"
 usc_title: 21
 usc_section: "374"
 chapter: 9
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "21 U.S.C. § 374"
-generated_at: "2026-03-30T02:27:47.184Z"
+generated_at: "2026-03-30T02:32:09.052Z"
 ---
 
 # § 374. Inspection

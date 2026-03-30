@@ -3,9 +3,9 @@ title: "Section 9033 - Term of loans"
 usc_title: 7
 usc_section: "9033"
 chapter: 115
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 9033"
-generated_at: "2026-03-30T02:26:56.296Z"
+generated_at: "2026-03-30T02:29:33.435Z"
 ---
 
 # § 9033. Term of loans

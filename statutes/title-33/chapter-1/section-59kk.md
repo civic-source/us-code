@@ -3,9 +3,9 @@ title: "Section 59kk - Wateree River"
 usc_title: 33
 usc_section: "59kk"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 59kk"
-generated_at: "2026-03-30T02:28:24.818Z"
+generated_at: "2026-03-30T02:32:39.253Z"
 ---
 
 # § 59kk. Wateree River

@@ -3,9 +3,9 @@ title: "Section 273a - National living donor mechanisms"
 usc_title: 42
 usc_section: "273a"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 273a"
-generated_at: "2026-03-30T02:28:49.978Z"
+generated_at: "2026-03-30T02:33:07.253Z"
 ---
 
 # § 273a. National living donor mechanisms

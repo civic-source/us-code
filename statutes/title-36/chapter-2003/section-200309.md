@@ -3,9 +3,9 @@ title: "Section 200309 - Records and inspection"
 usc_title: 36
 usc_section: "200309"
 chapter: 2003
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "36 U.S.C. § 200309"
-generated_at: "2026-03-30T02:28:29.623Z"
+generated_at: "2026-03-30T02:32:43.701Z"
 ---
 
 # § 200309. Records and inspection

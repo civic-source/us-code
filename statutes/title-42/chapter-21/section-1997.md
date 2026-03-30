@@ -3,9 +3,9 @@ title: "Section 1997 - Definitions"
 usc_title: 42
 usc_section: "1997"
 chapter: 21
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 1997"
-generated_at: "2026-03-30T02:28:50.433Z"
+generated_at: "2026-03-30T02:33:07.850Z"
 ---
 
 # § 1997. Definitions

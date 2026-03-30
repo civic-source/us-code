@@ -3,9 +3,9 @@ title: "Section 4k - Promotion of institution-building for nongovernmental organ
 usc_title: 22
 usc_section: "4k"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 4k"
-generated_at: "2026-03-30T02:27:45.946Z"
+generated_at: "2026-03-30T02:31:58.112Z"
 ---
 
 # § 262p–4k. Promotion of institution-building for nongovernmental organizations concerned with environment

@@ -3,9 +3,9 @@ title: "Section 14112 - Dissemination of names of officers selected"
 usc_title: 10
 usc_section: "14112"
 chapter: 1403
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 14112"
-generated_at: "2026-03-30T02:26:40.970Z"
+generated_at: "2026-03-30T02:30:23.411Z"
 ---
 
 # § 14112. Dissemination of names of officers selected

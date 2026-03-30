@@ -3,9 +3,9 @@ title: "Section 932 - Liabilities and uses of Rural Electrification and Telephon
 usc_title: 7
 usc_section: "932"
 chapter: 31
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 932"
-generated_at: "2026-03-30T02:26:56.145Z"
+generated_at: "2026-03-30T02:29:33.192Z"
 ---
 
 # § 932. Liabilities and uses of Rural Electrification and Telephone Revolving Fund

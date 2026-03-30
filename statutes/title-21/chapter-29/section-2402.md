@@ -3,9 +3,9 @@ title: "Section 2402 - Major international doping fraud conspiracies"
 usc_title: 21
 usc_section: "2402"
 chapter: 29
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "21 U.S.C. § 2402"
-generated_at: "2026-03-30T02:27:47.234Z"
+generated_at: "2026-03-30T02:32:09.114Z"
 ---
 
 # § 2402. Major international doping fraud conspiracies

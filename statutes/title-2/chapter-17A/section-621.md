@@ -3,9 +3,9 @@ title: "Section 621 - Congressional declaration of purpose"
 usc_title: 2
 usc_section: "621"
 chapter: 17
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "2 U.S.C. § 621"
-generated_at: "2026-03-30T02:26:24.021Z"
+generated_at: "2026-03-30T02:29:19.548Z"
 ---
 
 # § 621. Congressional declaration of purpose

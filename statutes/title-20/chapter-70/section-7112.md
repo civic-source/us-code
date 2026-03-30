@@ -3,9 +3,9 @@ title: "Section 7112 - Definitions"
 usc_title: 20
 usc_section: "7112"
 chapter: 70
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 7112"
-generated_at: "2026-03-30T02:27:33.378Z"
+generated_at: "2026-03-30T02:31:22.706Z"
 ---
 
 # § 7112. Definitions

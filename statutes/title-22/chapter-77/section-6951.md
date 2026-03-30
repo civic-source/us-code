@@ -3,9 +3,9 @@ title: "Section 6951 - Report on compliance"
 usc_title: 22
 usc_section: "6951"
 chapter: 77
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 6951"
-generated_at: "2026-03-30T02:27:46.080Z"
+generated_at: "2026-03-30T02:31:58.279Z"
 ---
 
 # § 6951. Report on compliance

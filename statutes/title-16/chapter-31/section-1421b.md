@@ -3,9 +3,9 @@ title: "Section 1421b - Stranding or entanglement response agreements"
 usc_title: 16
 usc_section: "1421b"
 chapter: 31
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 1421b"
-generated_at: "2026-03-30T02:27:38.040Z"
+generated_at: "2026-03-30T02:31:30.182Z"
 ---
 
 # § 1421b. Stranding or entanglement response agreements

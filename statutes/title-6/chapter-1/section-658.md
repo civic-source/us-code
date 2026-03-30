@@ -3,9 +3,9 @@ title: "Section 658 - Cybersecurity recruitment and retention"
 usc_title: 6
 usc_section: "658"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "6 U.S.C. § 658"
-generated_at: "2026-03-30T02:26:30.331Z"
+generated_at: "2026-03-30T02:29:36.805Z"
 ---
 
 # § 658. Cybersecurity recruitment and retention

@@ -3,9 +3,9 @@ title: "Section 8323 - General requirements for exemptions"
 usc_title: 42
 usc_section: "8323"
 chapter: 92
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 8323"
-generated_at: "2026-03-30T02:28:50.665Z"
+generated_at: "2026-03-30T02:33:08.167Z"
 ---
 
 # § 8323. General requirements for exemptions

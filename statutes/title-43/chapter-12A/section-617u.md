@@ -3,9 +3,9 @@ title: "Section 617u - Lease of reserved lands in Boulder City, Nevada; disposit
 usc_title: 43
 usc_section: "617u"
 chapter: 12
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "43 U.S.C. § 617u"
-generated_at: "2026-03-30T02:28:34.712Z"
+generated_at: "2026-03-30T02:32:50.112Z"
 ---
 
 # § 617u. Lease of reserved lands in Boulder City, Nevada; disposition of revenues

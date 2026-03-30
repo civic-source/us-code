@@ -3,9 +3,9 @@ title: "Section 1636e - Voluntary reporting"
 usc_title: 7
 usc_section: "1636e"
 chapter: 38
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 1636e"
-generated_at: "2026-03-30T02:26:56.176Z"
+generated_at: "2026-03-30T02:29:33.240Z"
 ---
 
 # § 1636e. Voluntary reporting

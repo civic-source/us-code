@@ -3,9 +3,9 @@ title: "Section 403 - Reduction of insurance benefits"
 usc_title: 42
 usc_section: "403"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 403"
-generated_at: "2026-03-30T02:28:50.127Z"
+generated_at: "2026-03-30T02:33:07.441Z"
 ---
 
 # § 403. Reduction of insurance benefits

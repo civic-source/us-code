@@ -3,9 +3,9 @@ title: "Section 0a - Behavioral health crisis coordinating office"
 usc_title: 42
 usc_section: "0a"
 chapter: 6
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 0a"
-generated_at: "2026-03-30T02:28:50.016Z"
+generated_at: "2026-03-30T02:33:07.298Z"
 ---
 
 # § 290aa–0a. Behavioral health crisis coordinating office

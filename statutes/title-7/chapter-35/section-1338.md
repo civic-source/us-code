@@ -3,9 +3,9 @@ title: "Section 1338 - Transfer of quotas"
 usc_title: 7
 usc_section: "1338"
 chapter: 35
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 1338"
-generated_at: "2026-03-30T02:26:56.152Z"
+generated_at: "2026-03-30T02:29:33.204Z"
 ---
 
 # § 1338. Transfer of quotas

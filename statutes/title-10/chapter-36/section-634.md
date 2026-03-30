@@ -3,9 +3,9 @@ title: "Section 634 - Retirement for years of service: regular and Space Force c
 usc_title: 10
 usc_section: "634"
 chapter: 36
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 634"
-generated_at: "2026-03-30T02:26:40.829Z"
+generated_at: "2026-03-30T02:30:23.092Z"
 ---
 
 # § 634. Retirement for years of service: regular and Space Force colonels; regular Navy captains

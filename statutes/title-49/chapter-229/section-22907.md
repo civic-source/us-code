@@ -3,9 +3,9 @@ title: "Section 22907 - Consolidated rail infrastructure and safety improvements
 usc_title: 49
 usc_section: "22907"
 chapter: 229
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "49 U.S.C. § 22907"
-generated_at: "2026-03-30T02:28:59.887Z"
+generated_at: "2026-03-30T02:33:20.269Z"
 ---
 
 # § 22907. Consolidated rail infrastructure and safety improvements

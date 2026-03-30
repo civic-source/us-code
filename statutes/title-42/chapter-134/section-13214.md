@@ -3,9 +3,9 @@ title: "Section 13214 - Federal agency promotion, education, and coordination"
 usc_title: 42
 usc_section: "13214"
 chapter: 134
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 13214"
-generated_at: "2026-03-30T02:28:50.772Z"
+generated_at: "2026-03-30T02:33:08.310Z"
 ---
 
 # § 13214. Federal agency promotion, education, and coordination

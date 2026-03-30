@@ -3,9 +3,9 @@ title: "Section 1622 - Establishment of International Claims Commission"
 usc_title: 22
 usc_section: "1622"
 chapter: 21
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 1622"
-generated_at: "2026-03-30T02:27:45.973Z"
+generated_at: "2026-03-30T02:31:58.146Z"
 ---
 
 # § 1622. Establishment of International Claims Commission

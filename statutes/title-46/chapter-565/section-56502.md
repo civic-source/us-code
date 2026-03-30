@@ -3,9 +3,9 @@ title: "Section 56502 - Adjusting obligations and arranging maintenance"
 usc_title: 46
 usc_section: "56502"
 chapter: 565
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "46 U.S.C. § 56502"
-generated_at: "2026-03-30T02:28:56.256Z"
+generated_at: "2026-03-30T02:33:14.640Z"
 ---
 
 # § 56502. Adjusting obligations and arranging maintenance

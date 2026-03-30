@@ -3,9 +3,9 @@ title: "Section 10305 - Establishment and expansion of Regional Technology Offic
 usc_title: 22
 usc_section: "10305"
 chapter: 110
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 10305"
-generated_at: "2026-03-30T02:27:46.121Z"
+generated_at: "2026-03-30T02:31:58.334Z"
 ---
 
 # § 10305. Establishment and expansion of Regional Technology Officer Program

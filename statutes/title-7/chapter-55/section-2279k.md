@@ -3,9 +3,9 @@ title: "Section 2279k - Authorization of protection operations for the Secretary
 usc_title: 7
 usc_section: "2279k"
 chapter: 55
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 2279k"
-generated_at: "2026-03-30T02:26:56.218Z"
+generated_at: "2026-03-30T02:29:33.307Z"
 ---
 
 # § 2279k. Authorization of protection operations for the Secretary of Agriculture and others

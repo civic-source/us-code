@@ -3,9 +3,9 @@ title: "Section 1930 - Cadets: charges and fees for attendance; limitation"
 usc_title: 14
 usc_section: "1930"
 chapter: 19
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "14 U.S.C. § 1930"
-generated_at: "2026-03-30T02:27:08.002Z"
+generated_at: "2026-03-30T02:30:32.655Z"
 ---
 
 # § 1930. Cadets: charges and fees for attendance; limitation

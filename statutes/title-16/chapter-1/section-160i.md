@@ -3,9 +3,9 @@ title: "Section 160i - Applicability to treaties, orders, or agreements"
 usc_title: 16
 usc_section: "160i"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 160i"
-generated_at: "2026-03-30T02:27:37.865Z"
+generated_at: "2026-03-30T02:31:30.007Z"
 ---
 
 # § 160i. Applicability to treaties, orders, or agreements

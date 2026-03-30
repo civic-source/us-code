@@ -3,9 +3,9 @@ title: "Section 6514 - Orientation seminars, etc., for new Senators, Senate offi
 usc_title: 2
 usc_section: "6514"
 chapter: 65
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "2 U.S.C. § 6514"
-generated_at: "2026-03-30T02:26:24.061Z"
+generated_at: "2026-03-30T02:29:19.588Z"
 ---
 
 # § 6514. Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses

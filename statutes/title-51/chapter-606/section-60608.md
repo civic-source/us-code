@@ -3,9 +3,9 @@ title: "Section 60608 - Space weather benchmarks"
 usc_title: 51
 usc_section: "60608"
 chapter: 606
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "51 U.S.C. § 60608"
-generated_at: "2026-03-30T02:29:03.469Z"
+generated_at: "2026-03-30T02:33:23.418Z"
 ---
 
 # § 60608. Space weather benchmarks

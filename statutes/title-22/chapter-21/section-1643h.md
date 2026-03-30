@@ -3,9 +3,9 @@ title: "Section 1643h - Applicability of administrative provisions of subchapter
 usc_title: 22
 usc_section: "1643h"
 chapter: 21
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 1643h"
-generated_at: "2026-03-30T02:27:45.978Z"
+generated_at: "2026-03-30T02:31:58.150Z"
 ---
 
 # § 1643h. Applicability of administrative provisions of subchapter I

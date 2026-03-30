@@ -3,9 +3,9 @@ title: "Section 8 - Medical benefits"
 usc_title: 42
 usc_section: "8"
 chapter: 84
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T02:28:50.609Z"
+generated_at: "2026-03-30T02:33:08.096Z"
 ---
 
 # § 7385s–8. Medical benefits

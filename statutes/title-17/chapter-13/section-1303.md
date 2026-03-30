@@ -3,9 +3,9 @@ title: "Section 1303 - Revisions, adaptations, and rearrangements"
 usc_title: 17
 usc_section: "1303"
 chapter: 13
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "17 U.S.C. § 1303"
-generated_at: "2026-03-30T02:27:27.848Z"
+generated_at: "2026-03-30T02:31:12.500Z"
 ---
 
 # § 1303. Revisions, adaptations, and rearrangements

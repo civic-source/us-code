@@ -3,9 +3,9 @@ title: "Section 367 - Sale of lots"
 usc_title: 16
 usc_section: "367"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 367"
-generated_at: "2026-03-30T02:27:37.876Z"
+generated_at: "2026-03-30T02:31:30.017Z"
 ---
 
 # § 367. Sale of lots

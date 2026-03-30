@@ -3,9 +3,9 @@ title: "Section 1701v - Congressional findings and declaration for improved arch
 usc_title: 12
 usc_section: "1701v"
 chapter: 13
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "12 U.S.C. § 1701v"
-generated_at: "2026-03-30T02:27:02.723Z"
+generated_at: "2026-03-30T02:31:09.764Z"
 ---
 
 # § 1701v. Congressional findings and declaration for improved architectural design in Government housing programs

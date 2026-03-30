@@ -3,9 +3,9 @@ title: "Section 2945 - Conveyance of real property"
 usc_title: 14
 usc_section: "2945"
 chapter: 29
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "14 U.S.C. § 2945"
-generated_at: "2026-03-30T02:27:08.007Z"
+generated_at: "2026-03-30T02:30:32.662Z"
 ---
 
 # § 2945. Conveyance of real property

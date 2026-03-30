@@ -3,9 +3,9 @@ title: "Section 993 - Definitions and special rules"
 usc_title: 26
 usc_section: "993"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "26 U.S.C. § 993"
-generated_at: "2026-03-30T02:28:12.324Z"
+generated_at: "2026-03-30T02:32:32.728Z"
 ---
 
 # § 993. Definitions and special rules

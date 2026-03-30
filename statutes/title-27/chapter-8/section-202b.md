@@ -3,9 +3,9 @@ title: "Section 202b - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 27
 usc_section: "202b"
 chapter: 8
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "27 U.S.C. § 202b"
-generated_at: "2026-03-30T02:27:49.965Z"
+generated_at: "2026-03-30T02:32:16.787Z"
 ---
 
 # §§ 202a, 202b. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649

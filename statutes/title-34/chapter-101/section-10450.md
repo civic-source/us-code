@@ -3,9 +3,9 @@ title: "Section 10450 - Costs for criminal charges and protection orders"
 usc_title: 34
 usc_section: "10450"
 chapter: 101
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "34 U.S.C. § 10450"
-generated_at: "2026-03-30T02:28:26.080Z"
+generated_at: "2026-03-30T02:32:37.515Z"
 ---
 
 # § 10450. Costs for criminal charges and protection orders

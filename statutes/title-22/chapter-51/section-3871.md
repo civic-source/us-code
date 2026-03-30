@@ -3,9 +3,9 @@ title: "Section 3871 - Annual report"
 usc_title: 22
 usc_section: "3871"
 chapter: 51
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 3871"
-generated_at: "2026-03-30T02:27:46.043Z"
+generated_at: "2026-03-30T02:31:58.231Z"
 ---
 
 # § 3871. Annual report

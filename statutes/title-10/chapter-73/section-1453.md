@@ -3,9 +3,9 @@ title: "Section 1453 - Recovery of amounts erroneously paid"
 usc_title: 10
 usc_section: "1453"
 chapter: 73
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 1453"
-generated_at: "2026-03-30T02:26:40.867Z"
+generated_at: "2026-03-30T02:30:23.177Z"
 ---
 
 # § 1453. Recovery of amounts erroneously paid

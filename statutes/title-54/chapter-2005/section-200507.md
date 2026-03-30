@@ -3,9 +3,9 @@ title: "Section 200507 - Conversion of recreation property"
 usc_title: 54
 usc_section: "200507"
 chapter: 2005
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "54 U.S.C. § 200507"
-generated_at: "2026-03-30T02:29:04.166Z"
+generated_at: "2026-03-30T02:33:22.866Z"
 ---
 
 # § 200507. Conversion of recreation property

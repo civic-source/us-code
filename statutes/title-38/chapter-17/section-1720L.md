@@ -3,9 +3,9 @@ title: "Section 1720L - Home- and community-based services: programs"
 usc_title: 38
 usc_section: "1720L"
 chapter: 17
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "38 U.S.C. § 1720L"
-generated_at: "2026-03-30T02:28:31.191Z"
+generated_at: "2026-03-30T02:32:46.014Z"
 ---
 
 # § 1720L. Home- and community-based services: programs

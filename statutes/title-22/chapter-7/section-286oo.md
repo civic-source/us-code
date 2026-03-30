@@ -3,9 +3,9 @@ title: "Section 286oo - Principles for International Monetary Fund lending"
 usc_title: 22
 usc_section: "286oo"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 286oo"
-generated_at: "2026-03-30T02:27:45.960Z"
+generated_at: "2026-03-30T02:31:58.128Z"
 ---
 
 # § 286oo. Principles for International Monetary Fund lending

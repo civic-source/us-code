@@ -3,9 +3,9 @@ title: "Section 1897 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1897"
 chapter: 24
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 1897"
-generated_at: "2026-03-30T02:27:45.980Z"
+generated_at: "2026-03-30T02:31:58.153Z"
 ---
 
 # § 1897. Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept. 4, 1961 , 75 Stat. 460

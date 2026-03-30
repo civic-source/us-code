@@ -3,9 +3,9 @@ title: "Section 45 - Simultaneous publication of cotton reports"
 usc_title: 13
 usc_section: "45"
 chapter: 3
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "13 U.S.C. § 45"
-generated_at: "2026-03-30T02:26:59.786Z"
+generated_at: "2026-03-30T02:30:26.985Z"
 ---
 
 # § 45. Simultaneous publication of cotton reports

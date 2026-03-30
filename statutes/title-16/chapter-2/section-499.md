@@ -3,9 +3,9 @@ title: "Section 499 - Disposal of money received by or on account of Forest Serv
 usc_title: 16
 usc_section: "499"
 chapter: 2
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 499"
-generated_at: "2026-03-30T02:27:37.958Z"
+generated_at: "2026-03-30T02:31:30.103Z"
 ---
 
 # § 499. Disposal of money received by or on account of Forest Service; refund of excess and moneys erroneously collected; receipts from permits

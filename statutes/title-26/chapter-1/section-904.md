@@ -3,9 +3,9 @@ title: "Section 904 - Limitation on credit"
 usc_title: 26
 usc_section: "904"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "26 U.S.C. § 904"
-generated_at: "2026-03-30T02:28:12.316Z"
+generated_at: "2026-03-30T02:32:32.716Z"
 ---
 
 # § 904. Limitation on credit

@@ -3,9 +3,9 @@ title: "Section 724 - Memorial addresses: illustrations"
 usc_title: 44
 usc_section: "724"
 chapter: 7
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "44 U.S.C. § 724"
-generated_at: "2026-03-30T02:28:33.596Z"
+generated_at: "2026-03-30T02:32:48.234Z"
 ---
 
 # § 724. Memorial addresses: illustrations

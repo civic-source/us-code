@@ -3,9 +3,9 @@ title: "Section 397 - Principal Information Operations Advisor"
 usc_title: 10
 usc_section: "397"
 chapter: 19
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 397"
-generated_at: "2026-03-30T02:26:40.820Z"
+generated_at: "2026-03-30T02:30:23.071Z"
 ---
 
 # § 397. Principal Information Operations Advisor

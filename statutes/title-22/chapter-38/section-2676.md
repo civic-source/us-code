@@ -3,9 +3,9 @@ title: "Section 2676 - Contracts in foreign countries"
 usc_title: 22
 usc_section: "2676"
 chapter: 38
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 2676"
-generated_at: "2026-03-30T02:27:46.019Z"
+generated_at: "2026-03-30T02:31:58.201Z"
 ---
 
 # § 2676. Contracts in foreign countries

@@ -3,9 +3,9 @@ title: "Section 113 - Law Day, U.S.A."
 usc_title: 36
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "36 U.S.C. § 113"
-generated_at: "2026-03-30T02:28:29.605Z"
+generated_at: "2026-03-30T02:32:43.673Z"
 ---
 
 # § 113. Law Day, U.S.A.

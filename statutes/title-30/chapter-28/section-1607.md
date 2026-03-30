@@ -3,9 +3,9 @@ title: "Section 1607 - Critical minerals supply chains and reliability"
 usc_title: 30
 usc_section: "1607"
 chapter: 28
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "30 U.S.C. § 1607"
-generated_at: "2026-03-30T02:28:04.296Z"
+generated_at: "2026-03-30T02:32:20.904Z"
 ---
 
 # § 1607. Critical minerals supply chains and reliability

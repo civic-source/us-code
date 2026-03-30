@@ -3,9 +3,9 @@ title: "Section 4a - “Program or activity” and “program” defined"
 usc_title: 42
 usc_section: "4a"
 chapter: 21
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-30T02:28:50.436Z"
+generated_at: "2026-03-30T02:33:07.852Z"
 ---
 
 # § 2000d–4a. “Program or activity” and “program” defined

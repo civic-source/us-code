@@ -3,9 +3,9 @@ title: "Section 451 - Supervisor of harbor; appointment and duties"
 usc_title: 33
 usc_section: "451"
 chapter: 9
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 451"
-generated_at: "2026-03-30T02:28:24.822Z"
+generated_at: "2026-03-30T02:32:39.260Z"
 ---
 
 # § 451. Supervisor of harbor; appointment and duties

@@ -3,9 +3,9 @@ title: "Section 460w - Establishment; boundaries"
 usc_title: 16
 usc_section: "460w"
 chapter: 1
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "16 U.S.C. § 460w"
-generated_at: "2026-03-30T02:27:37.928Z"
+generated_at: "2026-03-30T02:31:30.071Z"
 ---
 
 # § 460w. Establishment; boundaries

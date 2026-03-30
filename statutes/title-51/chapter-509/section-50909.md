@@ -3,9 +3,9 @@ title: "Section 50909 - Prohibition, suspension, and end of launches, operation 
 usc_title: 51
 usc_section: "50909"
 chapter: 509
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "51 U.S.C. § 50909"
-generated_at: "2026-03-30T02:29:03.466Z"
+generated_at: "2026-03-30T02:33:23.414Z"
 ---
 
 # § 50909. Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries

@@ -3,9 +3,9 @@ title: "Section 7457 - Acceptance of guarantees with gifts for major projects"
 usc_title: 10
 usc_section: "7457"
 chapter: 753
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 7457"
-generated_at: "2026-03-30T02:26:40.939Z"
+generated_at: "2026-03-30T02:30:23.339Z"
 ---
 
 # § 7457. Acceptance of guarantees with gifts for major projects

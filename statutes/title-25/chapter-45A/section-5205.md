@@ -3,9 +3,9 @@ title: "Section 5205 - Amendment or revocation of charters; suits by and against
 usc_title: 25
 usc_section: "5205"
 chapter: 45
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "25 U.S.C. § 5205"
-generated_at: "2026-03-30T02:27:43.766Z"
+generated_at: "2026-03-30T02:32:14.083Z"
 ---
 
 # § 5205. Amendment or revocation of charters; suits by and against associations

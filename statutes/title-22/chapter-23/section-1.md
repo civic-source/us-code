@@ -3,9 +3,9 @@ title: "Section 1 - Report on strategies for reducing likelihood of United State
 usc_title: 22
 usc_section: "1"
 chapter: 23
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T02:27:45.979Z"
+generated_at: "2026-03-30T02:31:58.152Z"
 ---
 
 # § 1741c–1. Report on strategies for reducing likelihood of United States nationals being unlawfully or wrongfully detained or taken hostage

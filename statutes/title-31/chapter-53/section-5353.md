@@ -3,9 +3,9 @@ title: "Section 5353 - Information collection and dissemination with respect to 
 usc_title: 31
 usc_section: "5353"
 chapter: 53
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "31 U.S.C. § 5353"
-generated_at: "2026-03-30T02:28:15.326Z"
+generated_at: "2026-03-30T02:32:36.456Z"
 ---
 
 # § 5353. Information collection and dissemination with respect to grant recipients

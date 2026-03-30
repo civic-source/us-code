@@ -3,9 +3,9 @@ title: "Section 963 - Detention of armed vessel"
 usc_title: 18
 usc_section: "963"
 chapter: 45
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 963"
-generated_at: "2026-03-30T02:27:34.400Z"
+generated_at: "2026-03-30T02:31:31.320Z"
 ---
 
 # § 963. Detention of armed vessel

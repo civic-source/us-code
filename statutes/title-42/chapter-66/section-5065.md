@@ -3,9 +3,9 @@ title: "Section 5065 - Protection against improper use"
 usc_title: 42
 usc_section: "5065"
 chapter: 66
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 5065"
-generated_at: "2026-03-30T02:28:50.523Z"
+generated_at: "2026-03-30T02:33:07.965Z"
 ---
 
 # § 5065. Protection against improper use

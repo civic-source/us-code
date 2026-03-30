@@ -3,9 +3,9 @@ title: "Section 4236 - Allocation formula"
 usc_title: 25
 usc_section: "4236"
 chapter: 43
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "25 U.S.C. § 4236"
-generated_at: "2026-03-30T02:27:43.763Z"
+generated_at: "2026-03-30T02:32:14.080Z"
 ---
 
 # § 4236. Allocation formula

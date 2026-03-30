@@ -3,9 +3,9 @@ title: "Section 9816 - Repealed. Pub. L. 114–329, title II, § 205(b) , Jan. 6
 usc_title: 20
 usc_section: "9816"
 chapter: 78
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "20 U.S.C. § 9816"
-generated_at: "2026-03-30T02:27:33.405Z"
+generated_at: "2026-03-30T02:31:22.734Z"
 ---
 
 # §§ 9811 to 9816. Repealed. Pub. L. 114–329, title II, § 205(b) , Jan. 6, 2017 , 130 Stat. 3001

@@ -3,9 +3,9 @@ title: "Section 7451 - Petitions"
 usc_title: 26
 usc_section: "7451"
 chapter: 76
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "26 U.S.C. § 7451"
-generated_at: "2026-03-30T02:28:12.440Z"
+generated_at: "2026-03-30T02:32:33.048Z"
 ---
 
 # § 7451. Petitions

@@ -3,9 +3,9 @@ title: "Section 2 - Employment agency practices"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:28:50.441Z"
+generated_at: "2026-03-30T02:33:07.859Z"
 ---
 
 # § 2000ff–2. Employment agency practices

@@ -3,9 +3,9 @@ title: "Section 1126 - Sea grant colleges and sea grant institutes"
 usc_title: 33
 usc_section: "1126"
 chapter: 22
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "33 U.S.C. § 1126"
-generated_at: "2026-03-30T02:28:24.844Z"
+generated_at: "2026-03-30T02:32:39.291Z"
 ---
 
 # § 1126. Sea grant colleges and sea grant institutes

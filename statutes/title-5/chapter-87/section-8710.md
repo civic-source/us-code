@@ -3,9 +3,9 @@ title: "Section 8710 - Reinsurance"
 usc_title: 5
 usc_section: "8710"
 chapter: 87
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "5 U.S.C. § 8710"
-generated_at: "2026-03-30T02:26:26.311Z"
+generated_at: "2026-03-30T02:29:23.292Z"
 ---
 
 # § 8710. Reinsurance

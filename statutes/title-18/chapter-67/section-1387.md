@@ -3,9 +3,9 @@ title: "Section 1387 - Demonstrations at cemeteries under the control of the Nat
 usc_title: 18
 usc_section: "1387"
 chapter: 67
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 1387"
-generated_at: "2026-03-30T02:27:34.406Z"
+generated_at: "2026-03-30T02:31:31.329Z"
 ---
 
 # § 1387. Demonstrations at cemeteries under the control of the National Cemetery Administration and at Arlington National Cemetery

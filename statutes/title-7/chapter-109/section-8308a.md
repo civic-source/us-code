@@ -3,9 +3,9 @@ title: "Section 8308a - Animal disease prevention and management"
 usc_title: 7
 usc_section: "8308a"
 chapter: 109
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "7 U.S.C. § 8308a"
-generated_at: "2026-03-30T02:26:56.287Z"
+generated_at: "2026-03-30T02:29:33.421Z"
 ---
 
 # § 8308a. Animal disease prevention and management

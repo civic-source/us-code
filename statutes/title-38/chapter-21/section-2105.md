@@ -3,9 +3,9 @@ title: "Section 2105 - Nonliability of United States"
 usc_title: 38
 usc_section: "2105"
 chapter: 21
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "38 U.S.C. § 2105"
-generated_at: "2026-03-30T02:28:31.202Z"
+generated_at: "2026-03-30T02:32:46.031Z"
 ---
 
 # § 2105. Nonliability of United States

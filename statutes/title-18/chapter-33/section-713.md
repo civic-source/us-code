@@ -3,9 +3,9 @@ title: "Section 713 - Use of likenesses of the great seal of the United States, 
 usc_title: 18
 usc_section: "713"
 chapter: 33
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "18 U.S.C. § 713"
-generated_at: "2026-03-30T02:27:34.394Z"
+generated_at: "2026-03-30T02:31:31.313Z"
 ---
 
 # § 713. Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress

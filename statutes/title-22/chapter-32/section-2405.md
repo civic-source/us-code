@@ -3,9 +3,9 @@ title: "Section 2405 - Separability"
 usc_title: 22
 usc_section: "2405"
 chapter: 32
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 2405"
-generated_at: "2026-03-30T02:27:46.007Z"
+generated_at: "2026-03-30T02:31:58.187Z"
 ---
 
 # § 2405. Separability

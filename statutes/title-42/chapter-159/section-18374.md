@@ -3,9 +3,9 @@ title: "Section 18374 - Instrument test-beds and venture class missions"
 usc_title: 42
 usc_section: "18374"
 chapter: 159
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "42 U.S.C. § 18374"
-generated_at: "2026-03-30T02:28:50.862Z"
+generated_at: "2026-03-30T02:33:08.428Z"
 ---
 
 # § 18374. Instrument test-beds and venture class missions

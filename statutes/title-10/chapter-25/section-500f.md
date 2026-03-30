@@ -3,9 +3,9 @@ title: "Section 500f - Evaluations of abilities of armed forces and combatant co
 usc_title: 10
 usc_section: "500f"
 chapter: 25
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "10 U.S.C. § 500f"
-generated_at: "2026-03-30T02:26:40.823Z"
+generated_at: "2026-03-30T02:30:23.080Z"
 ---
 
 # § 500f. Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions

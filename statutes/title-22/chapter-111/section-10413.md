@@ -3,9 +3,9 @@ title: "Section 10413 - Reporting related to the AUKUS partnership"
 usc_title: 22
 usc_section: "10413"
 chapter: 111
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "22 U.S.C. § 10413"
-generated_at: "2026-03-30T02:27:46.122Z"
+generated_at: "2026-03-30T02:31:58.335Z"
 ---
 
 # § 10413. Reporting related to the AUKUS partnership

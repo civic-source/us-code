@@ -3,9 +3,9 @@ title: "Section 3108 - Allowances"
 usc_title: 38
 usc_section: "3108"
 chapter: 31
-current_through: "PL 119-33"
+current_through: "PL 119-34"
 classification: "38 U.S.C. § 3108"
-generated_at: "2026-03-30T02:28:31.208Z"
+generated_at: "2026-03-30T02:32:46.040Z"
 ---
 
 # § 3108. Allowances
