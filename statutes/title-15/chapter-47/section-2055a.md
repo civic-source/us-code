@@ -3,9 +3,9 @@ title: "Section 2055a - Publicly available consumer product safety information d
 usc_title: 15
 usc_section: "2055a"
 chapter: 47
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 2055a"
-generated_at: "2026-03-30T04:08:11.175Z"
+generated_at: "2026-03-30T04:10:30.007Z"
 status: "active"
 ---
 

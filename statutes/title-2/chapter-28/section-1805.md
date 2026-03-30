@@ -3,9 +3,9 @@ title: "Section 1805 - Deputy Architect of the Capitol/Chief Operating Officer"
 usc_title: 2
 usc_section: "1805"
 chapter: 28
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1805"
-generated_at: "2026-03-30T04:07:47.912Z"
+generated_at: "2026-03-30T04:10:05.241Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(A)** approved and signed by both the Architect of the Capitol and the Deputy Architect; and
     - **(B)** developed concurrently and consistent with the development of a strategic plan.
 - **(f)** The Government Accountability Office shall evaluate annually the implementation of the action plan and provide the results of the evaluation to the Architect of the Capitol, the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate.
-- **(g)** The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i) of this section. Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
+- **(g)** The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i). Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
 - **(h)** The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.
 - **(i)** The Deputy Architect of the Capitol shall prepare and transmit to the Architect of the Capitol an annual performance report. This report shall contain an evaluation of the extent to which the Office of the Architect of the Capitol met its goals and objectives.
 - **(j)** As of October 1, 2006 , the role of the Comptroller General and the Government Accountability Office, as established by this section, will cease.

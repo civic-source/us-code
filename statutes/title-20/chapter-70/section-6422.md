@@ -3,9 +3,9 @@ title: "Section 6422 - Payments for programs under this part"
 usc_title: 20
 usc_section: "6422"
 chapter: 70
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 6422"
-generated_at: "2026-03-30T04:08:20.402Z"
+generated_at: "2026-03-30T04:10:46.643Z"
 status: "active"
 ---
 

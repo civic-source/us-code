@@ -3,16 +3,16 @@ title: "Section 1736 - Use of Commodity Credit Corporation"
 usc_title: 7
 usc_section: "1736"
 chapter: 41
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1736"
-generated_at: "2026-03-30T04:07:57.449Z"
+generated_at: "2026-03-30T04:10:18.483Z"
 status: "active"
 ---
 
 # § 1736. Use of Commodity Credit Corporation
 
 - **(a)** The Commodity Credit Corporation may acquire and make available such agricultural commodities as necessary to carry out agreements under this chapter.
-- **(b)** With respect to commodities made available under subchapters III and III–A of this chapter, the Commodity Credit Corporation may pay—
+- **(b)** With respect to commodities made available under subchapters III and III–A, the Commodity Credit Corporation may pay—
   - **(1)** the cost of acquiring such commodities;
   - **(2)** the costs associated with packaging, enrichment, preservation, and fortification of such commodities, including the costs of carrying out section 1736g–2 of this title ;
   - **(3)** the processing, transportation, handling, and other incidental costs up to the time of the delivery of such commodities free on board vessels in United States ports;

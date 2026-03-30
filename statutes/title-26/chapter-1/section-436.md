@@ -3,9 +3,9 @@ title: "Section 436 - Funding-based limits on benefits and benefit accruals unde
 usc_title: 26
 usc_section: "436"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 436"
-generated_at: "2026-03-30T04:08:49.968Z"
+generated_at: "2026-03-30T04:11:13.694Z"
 status: "active"
 ---
 
@@ -80,7 +80,7 @@ status: "active"
   - **(2)** The term “adjusted funding target attainment percentage” means the funding target attainment percentage which is determined under paragraph (1) by increasing each of the amounts under subparagraphs (A) and (B) of section 430(d)(2) by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q)) which were made by the plan during the preceding 2 plan years.
   - **(3)**
     - **(A)** In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 430(f)(4)), the funding target attainment percentage for purposes of paragraphs (1) and (2) shall be determined without regard to such reduction.
-    - **(B)** Subparagraph (A) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table: In the case of a plan year The applicable beginning in calendar year: percentage is 2008 92 2009 94 2010 96.
+    - **(B)** Subparagraph (A) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table: In the case of a plan year beginning in calendar year: The applicable percentage is 2008 92 2009 94 2010 96.
     - **(C)** Subparagraph (B) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 430(f)(4)) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under subparagraph (B).
   - **(3)** Solely for purposes of any applicable provision—
     - **(A)** For plan years beginning on or after October 1, 2008 , and before October 1, 2010 , the adjusted funding target attainment percentage of a plan shall be the greater of—

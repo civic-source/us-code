@@ -3,9 +3,9 @@ title: "Section 242 - Powers of Secretary"
 usc_title: 7
 usc_section: "242"
 chapter: 10
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 242"
-generated_at: "2026-03-30T04:07:57.378Z"
+generated_at: "2026-03-30T04:10:18.416Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(2)** The Secretary shall not have the authority under this chapter to establish—
     - **(A)** one or more central filing systems for the filing of financing statements or the filing of the notice of financing statements; or
     - **(B)** rules to determine security interests of persons affected by this chapter.
-- **(i)** In addition to the authority provided under subsection ( l ) of this section, on request of the person, State agency, or commodity exchange, the Secretary may conduct an examination, audit, or similar activity with respect to—
+- **(i)** In addition to the authority provided under subsection ( l ), on request of the person, State agency, or commodity exchange, the Secretary may conduct an examination, audit, or similar activity with respect to—
   - **(1)** any person that is engaged in the business of storing an agricultural product that is subject to this chapter;
   - **(2)** any State agency that regulates the storage of an agricultural product by such a person; or
   - **(3)** any commodity exchange with regulatory authority over the storage of agricultural products that are subject to this chapter.

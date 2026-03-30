@@ -3,9 +3,9 @@ title: "Section 1352to1356 - Repealed. Pub. L. 97–98, title VI, § 601 , Dec. 
 usc_title: 7
 usc_section: "1352to1356"
 chapter: 35
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1352to1356"
-generated_at: "2026-03-30T04:07:57.415Z"
+generated_at: "2026-03-30T04:10:18.450Z"
 status: "repealed"
 ---
 

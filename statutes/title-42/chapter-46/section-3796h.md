@@ -3,9 +3,9 @@ title: "Section 3796h - Regional information sharing systems grants"
 usc_title: 42
 usc_section: "3796h"
 chapter: 46
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 3796h"
-generated_at: "2026-03-30T04:09:28.229Z"
+generated_at: "2026-03-30T04:11:46.802Z"
 status: "active"
 ---
 

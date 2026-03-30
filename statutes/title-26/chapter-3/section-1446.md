@@ -3,9 +3,9 @@ title: "Section 1446 - Withholding tax on foreign partners’ share of effective
 usc_title: 26
 usc_section: "1446"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 1446"
-generated_at: "2026-03-30T04:08:50.063Z"
+generated_at: "2026-03-30T04:11:13.788Z"
 status: "active"
 ---
 

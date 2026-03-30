@@ -3,9 +3,9 @@ title: "Section 636 - Adoption of constitution by Navajo Tribe; method; contents
 usc_title: 25
 usc_section: "636"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 636"
-generated_at: "2026-03-30T04:08:36.955Z"
+generated_at: "2026-03-30T04:11:02.027Z"
 status: "active"
 ---
 

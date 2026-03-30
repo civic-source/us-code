@@ -3,9 +3,9 @@ title: "Section 5633 - State plans"
 usc_title: 42
 usc_section: "5633"
 chapter: 72
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 5633"
-generated_at: "2026-03-30T04:09:28.288Z"
+generated_at: "2026-03-30T04:11:46.860Z"
 status: "active"
 ---
 

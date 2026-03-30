@@ -3,9 +3,9 @@ title: "Section 623 - Continuing study of additional budget reform proposals"
 usc_title: 2
 usc_section: "623"
 chapter: 17
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 623"
-generated_at: "2026-03-30T04:07:47.887Z"
+generated_at: "2026-03-30T04:10:05.222Z"
 status: "active"
 ---
 
@@ -16,5 +16,5 @@ status: "active"
   - **(2)** improving analytical and systematic evaluation of the effectiveness of existing programs;
   - **(3)** establishing maximum and minimum time limitations for program authorization; and
   - **(4)** developing techniques of human resource accounting and other means of providing noneconomic as well as economic evaluation measures.
-- **(b)** The Committee on the Budget of each House shall, from time to time, report to its House the results of the study carried on by it under subsection (a) of this section, together with its recommendations.
+- **(b)** The Committee on the Budget of each House shall, from time to time, report to its House the results of the study carried on by it under subsection (a), together with its recommendations.
 - **(c)** Nothing in this section shall preclude studies to improve the budgetary process by any other committee of the House of Representatives or the Senate or any joint committee of the Congress.

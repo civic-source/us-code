@@ -3,9 +3,9 @@ title: "Section 2851 - General authorization"
 usc_title: 29
 usc_section: "2851"
 chapter: 30
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 2851"
-generated_at: "2026-03-30T04:08:44.757Z"
+generated_at: "2026-03-30T04:11:07.410Z"
 status: "active"
 ---
 

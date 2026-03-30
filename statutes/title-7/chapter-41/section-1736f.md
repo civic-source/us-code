@@ -3,9 +3,9 @@ title: "Section 1736f - Authorization of appropriations"
 usc_title: 7
 usc_section: "1736f"
 chapter: 41
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1736f"
-generated_at: "2026-03-30T04:07:57.450Z"
+generated_at: "2026-03-30T04:10:18.484Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(C)** to make payments to the Commodity Credit Corporation to the extent the Commodity Credit Corporation is not reimbursed under the programs under this chapter for the actual costs incurred or to be incurred by the Commodity Credit Corporation in carrying out such programs.
 - **(b)**
   - **(1)** Except as provided in paragraph (2) and notwithstanding any other provision of law, the President may direct that up to 15 percent of the funds available for any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter.
-  - **(2)** The President may direct that up to 50 percent of the funds available for any fiscal year for carrying out subchapter III–A of this chapter be used to carry out subchapter III of this chapter.
+  - **(2)** The President may direct that up to 50 percent of the funds available for any fiscal year for carrying out subchapter III–A be used to carry out subchapter III.
 - **(c)** In presenting the Budget of the United States, the President shall classify expenditures under this chapter as expenditures for international affairs and finance rather than for agriculture and agricultural resources.
 - **(d)** Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from the inventory of the Commodity Credit Corporation that were acquired under dairy price support operations shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
 - **(e)**

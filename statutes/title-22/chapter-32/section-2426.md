@@ -3,9 +3,9 @@ title: "Section 2426 - Discrimination against United States personnel"
 usc_title: 22
 usc_section: "2426"
 chapter: 32
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 2426"
-generated_at: "2026-03-30T04:08:31.770Z"
+generated_at: "2026-03-30T04:11:00.356Z"
 status: "active"
 ---
 

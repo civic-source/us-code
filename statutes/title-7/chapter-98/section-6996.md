@@ -3,13 +3,13 @@ title: "Section 6996 - Right of participants to Division hearing"
 usc_title: 7
 usc_section: "6996"
 chapter: 98
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 6996"
-generated_at: "2026-03-30T04:07:57.566Z"
+generated_at: "2026-03-30T04:10:18.593Z"
 status: "active"
 ---
 
 # § 6996. Right of participants to Division hearing
 
-- **(a)** Subject to subsection (b) of this section, a participant shall have the right to appeal an adverse decision to the Division for an evidentiary hearing by a hearing officer consistent with section 6997 of this title .
+- **(a)** Subject to subsection (b), a participant shall have the right to appeal an adverse decision to the Division for an evidentiary hearing by a hearing officer consistent with section 6997 of this title .
 - **(b)** To be entitled to a hearing under section 6997 of this title , a participant shall request the hearing not later than 30 days after the date on which the participant first received notice of the adverse decision.

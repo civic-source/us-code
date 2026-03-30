@@ -3,9 +3,9 @@ title: "Section 5601 - Findings"
 usc_title: 20
 usc_section: "5601"
 chapter: 66
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 5601"
-generated_at: "2026-03-30T04:08:20.386Z"
+generated_at: "2026-03-30T04:10:46.626Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 1724 - Responsibilities of Board"
 usc_title: 2
 usc_section: "1724"
 chapter: 27
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1724"
-generated_at: "2026-03-30T04:07:47.912Z"
+generated_at: "2026-03-30T04:10:05.241Z"
 status: "active"
 ---
 
 # § 1724. Responsibilities of Board
 
 - **(a)**
-  - **(1)** The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I of this chapter, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
+  - **(1)** The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
   - **(2)** The Board shall consider for inclusion in the National Recording Registry nominations submitted by the general public as well as representatives of sound recording archives and the sound recording industry (such as the guilds and societies representing sound recording artists) and other creative artists.
 - **(b)** The Board shall conduct a study and issue a report on the following issues:
   - **(1)** The current state of sound recording archiving, preservation and restoration activities.

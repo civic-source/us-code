@@ -3,9 +3,9 @@ title: "Section 324 - Removal of trustee or examiner"
 usc_title: 11
 usc_section: "324"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "11 U.S.C. § 324"
-generated_at: "2026-03-30T04:08:05.231Z"
+generated_at: "2026-03-30T04:10:21.285Z"
 status: "active"
 ---
 

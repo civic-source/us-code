@@ -3,9 +3,9 @@ title: "Section 2505 - Rehabilitation and innovation grants"
 usc_title: 16
 usc_section: "2505"
 chapter: 45
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 2505"
-generated_at: "2026-03-30T04:08:23.328Z"
+generated_at: "2026-03-30T04:10:52.973Z"
 status: "active"
 ---
 

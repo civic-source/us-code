@@ -3,9 +3,9 @@ title: "Section 13021 - Findings and purpose"
 usc_title: 42
 usc_section: "13021"
 chapter: 132
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 13021"
-generated_at: "2026-03-30T04:09:28.530Z"
+generated_at: "2026-03-30T04:11:47.095Z"
 status: "active"
 ---
 

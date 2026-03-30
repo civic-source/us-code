@@ -3,9 +3,9 @@ title: "Section 1431 - Findings and policy"
 usc_title: 20
 usc_section: "1431"
 chapter: 33
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 1431"
-generated_at: "2026-03-30T04:08:20.357Z"
+generated_at: "2026-03-30T04:10:46.598Z"
 status: "active"
 ---
 

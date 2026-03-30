@@ -3,9 +3,9 @@ title: "Section 2291f - Prohibition on assistance to drug traffickers"
 usc_title: 22
 usc_section: "2291f"
 chapter: 32
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 2291f"
-generated_at: "2026-03-30T04:08:31.753Z"
+generated_at: "2026-03-30T04:11:00.341Z"
 status: "active"
 ---
 

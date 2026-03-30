@@ -3,9 +3,9 @@ title: "Section 38 - Yucaipa Valley regional water supply renewal project"
 usc_title: 43
 usc_section: "38"
 chapter: 12
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "43 U.S.C. § 38"
-generated_at: "2026-03-30T04:09:10.648Z"
+generated_at: "2026-03-30T04:11:26.643Z"
 status: "active"
 ---
 

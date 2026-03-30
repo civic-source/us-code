@@ -3,14 +3,14 @@ title: "Section 1820 - Acquisition of real property for Capitol Police"
 usc_title: 2
 usc_section: "1820"
 chapter: 28
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1820"
-generated_at: "2026-03-30T04:07:47.912Z"
+generated_at: "2026-03-30T04:10:05.242Z"
 status: "active"
 ---
 
 # § 1820. Acquisition of real property for Capitol Police
 
 - **(a)** Subject to the approval of the House Office Building Commission and the Senate Committee on Rules and Administration, the Architect of the Capitol is authorized to acquire (through purchase, lease, transfer from another Federal entity, or otherwise) real property, subject to the availability of appropriations and upon approval of an obligation plan by the Committees on Appropriations of the House and Senate, for the use of the United States Capitol Police.
-- **(b)** Any real property acquired by the Architect of the Capitol pursuant to subsection (a) of this section shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
+- **(b)** Any real property acquired by the Architect of the Capitol pursuant to subsection (a) shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
 - **(c)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.

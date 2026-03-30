@@ -3,9 +3,9 @@ title: "Section 403 - Transfer of activities of Department of Agriculture to bur
 usc_title: 7
 usc_section: "403"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 403"
-generated_at: "2026-03-30T04:07:57.382Z"
+generated_at: "2026-03-30T04:10:18.422Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6515 - Requirements of certifying agents"
 usc_title: 7
 usc_section: "6515"
 chapter: 94
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 6515"
-generated_at: "2026-03-30T04:07:57.556Z"
+generated_at: "2026-03-30T04:10:18.584Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
 - **(c)** Any certifying agent shall enter into an agreement with the Secretary under which such agent shall—
   - **(1)** agree to carry out the provisions of this chapter; and
   - **(2)** agree to such other terms and conditions as the Secretary determines appropriate.
-- **(d)** Any certifying agent that is a private person shall, in addition to the agreement required in subsection (c) of this section—
+- **(d)** Any certifying agent that is a private person shall, in addition to the agreement required in subsection (c)—
   - **(1)** agree to hold the Secretary harmless for any failure on the part of the certifying agent to carry out the provisions of this chapter; and
   - **(2)** furnish reasonable security, in an amount determined by the Secretary, for the purpose of protecting the rights of participants in the applicable organic certification program established under this chapter.
 - **(e)** Any certifying agent shall fully comply with the terms and conditions of the applicable organic certification program implemented under this chapter.

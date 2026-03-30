@@ -3,9 +3,9 @@ title: "Section 1743 - Insurance of mortgages"
 usc_title: 12
 usc_section: "1743"
 chapter: 13
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 1743"
-generated_at: "2026-03-30T04:08:08.520Z"
+generated_at: "2026-03-30T04:10:40.678Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
 - **(d)** The certificate of claim issued by the Secretary to any mortgagee in connection with the insurance of mortgages under this section shall be for an amount determined in accordance with subsections (e) and (f) of section 1739 of this title , except that any amount remaining after the payment of the full amount under the certificate of claim shall be retained by the Secretary and credited to the General Insurance Fund.
 - **(e)** Debentures issued under this section shall be issued in accordance with the provisions of section 1739 (d) of this title except that such debentures shall be dated as of the date of default as determined in subsection (c) of this section, and shall bear interest from such date.
 - **(f)** The provisions of section 1713(k) of this title shall be applicable to mortgages insured under this section, except that, as applied to such mortgages, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
-- **(g)** The Secretary shall also have power to insure under this subchapter or subchapter I, II, VIII, or X of this chapter any mortgage executed in connection with the sale by him of any property acquired under any of such subchapters without regard to limitations upon eligibility, time, or aggregate amount contained therein.
+- **(g)** The Secretary shall also have power to insure under this subchapter or subchapter I, II, VIII, or X any mortgage executed in connection with the sale by him of any property acquired under any of such subchapters without regard to limitations upon eligibility, time, or aggregate amount contained therein.

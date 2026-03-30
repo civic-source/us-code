@@ -3,9 +3,9 @@ title: "Section 2402 - Right to plant variety protection; plant varieties protec
 usc_title: 7
 usc_section: "2402"
 chapter: 57
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2402"
-generated_at: "2026-03-30T04:07:57.506Z"
+generated_at: "2026-03-30T04:10:18.539Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(3)** uniform, in the sense that any variations are describable, predictable, and commercially acceptable; and
   - **(4)** stable, in the sense that the variety, when reproduced, will remain unchanged with regard to the essential and distinctive characteristics of the variety with a reasonable degree of reliability commensurate with that of varieties of the same category in which the same breeding method is employed.
 - **(b)**
-  - **(1)** If 2 or more applicants submit applications on the same effective filing date for varieties that cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a) of this section, the applicant who first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
+  - **(1)** If 2 or more applicants submit applications on the same effective filing date for varieties that cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a), the applicant who first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), if 2 or more applicants comply with all requirements for protection on the same date, a certificate shall be issued for each variety.
     - **(B)** If the varieties that are the subject of the applications cannot be distinguished in any manner, a single certificate shall be issued jointly to the applicants.

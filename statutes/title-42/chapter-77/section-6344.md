@@ -3,9 +3,9 @@ title: "Section 6344 - Additional incentives for recovery, use, and prevention o
 usc_title: 42
 usc_section: "6344"
 chapter: 77
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 6344"
-generated_at: "2026-03-30T04:09:28.317Z"
+generated_at: "2026-03-30T04:11:46.886Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40 - One Hundred and Two River, Missouri"
 usc_title: 33
 usc_section: "40"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "33 U.S.C. § 40"
-generated_at: "2026-03-30T04:09:02.163Z"
+generated_at: "2026-03-30T04:11:17.318Z"
 status: "active"
 ---
 

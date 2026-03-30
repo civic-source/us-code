@@ -3,9 +3,9 @@ title: "Section 690a - Maintenance of lands acquired as refuge and breeding plac
 usc_title: 16
 usc_section: "690a"
 chapter: 6
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 690a"
-generated_at: "2026-03-30T04:08:23.230Z"
+generated_at: "2026-03-30T04:10:52.873Z"
 status: "active"
 ---
 

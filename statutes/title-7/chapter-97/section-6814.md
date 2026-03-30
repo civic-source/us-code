@@ -3,13 +3,13 @@ title: "Section 6814 - Authorization of appropriations"
 usc_title: 7
 usc_section: "6814"
 chapter: 97
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 6814"
-generated_at: "2026-03-30T04:07:57.560Z"
+generated_at: "2026-03-30T04:10:18.589Z"
 status: "active"
 ---
 
 # § 6814. Authorization of appropriations
 
 - **(a)** There are authorized to be appropriated for each fiscal year such sums as are necessary to carry out this chapter.
-- **(b)** Funds appropriated under subsection (a) of this section may not be used for the payment of the expenses or expenditures of the PromoFlor Council in administering a provision of an order.
+- **(b)** Funds appropriated under subsection (a) may not be used for the payment of the expenses or expenditures of the PromoFlor Council in administering a provision of an order.

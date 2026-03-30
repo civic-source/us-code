@@ -3,9 +3,9 @@ title: "Section 361g - Duties of Secretary; ascertainment of entitlement of Stat
 usc_title: 7
 usc_section: "361g"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 361g"
-generated_at: "2026-03-30T04:07:57.381Z"
+generated_at: "2026-03-30T04:10:18.421Z"
 status: "active"
 ---
 
@@ -19,12 +19,12 @@ status: "active"
     - **(A)** If any unexpended balance carried over by a State is not expended by the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the State.
     - **(B)** Federal funds that are deducted under subparagraph (A) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in section 361c(c) of this title to those States for which no deduction under subparagraph (A) has been taken for that fiscal year.
 - **(d)** Before funds may be provided to a State under sections 361a to 361i of this title for any fiscal year, a plan of work to be carried out under sections 361a to 361i of this title shall be submitted by the proper officials of the State and shall be approved by the Secretary of Agriculture.
-- **(e)** Each plan of work for a State required under subsection (d) of this section shall contain descriptions of the following:
+- **(e)** Each plan of work for a State required under subsection (d) shall contain descriptions of the following:
   - **(1)** The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues.
   - **(2)** The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
   - **(3)** The efforts made to identify and collaborate with other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State and the extent of current and emerging efforts (including regional efforts) to work with those other institutions.
   - **(4)** The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.
 - **(f)**
-  - **(1)** The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (d) of this section.
+  - **(1)** The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (d).
   - **(2)** The Secretary of Agriculture shall develop the protocols in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board established under section 3123 of this title and land-grant colleges and universities.
-- **(g)** To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) of this section to satisfy other appropriate Federal reporting requirements.
+- **(g)** To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) to satisfy other appropriate Federal reporting requirements.

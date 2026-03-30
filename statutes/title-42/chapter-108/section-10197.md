@@ -3,9 +3,9 @@ title: "Section 10197 - Research and development on disposal of high-level radio
 usc_title: 42
 usc_section: "10197"
 chapter: 108
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 10197"
-generated_at: "2026-03-30T04:09:28.464Z"
+generated_at: "2026-03-30T04:11:47.030Z"
 status: "active"
 ---
 

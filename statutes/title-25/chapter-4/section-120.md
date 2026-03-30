@@ -3,9 +3,9 @@ title: "Section 120 - Per capita payments to enrolled members of Choctaw and Chi
 usc_title: 25
 usc_section: "120"
 chapter: 4
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 120"
-generated_at: "2026-03-30T04:08:36.924Z"
+generated_at: "2026-03-30T04:11:01.998Z"
 status: "active"
 ---
 

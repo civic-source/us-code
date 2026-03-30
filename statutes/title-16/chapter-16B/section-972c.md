@@ -3,9 +3,9 @@ title: "Section 972c - Application to other laws"
 usc_title: 16
 usc_section: "972c"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 972c"
-generated_at: "2026-03-30T04:08:23.270Z"
+generated_at: "2026-03-30T04:10:52.914Z"
 status: "active"
 ---
 

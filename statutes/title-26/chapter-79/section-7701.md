@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-30T04:08:50.177Z"
+generated_at: "2026-03-30T04:11:13.906Z"
 status: "active"
 ---
 
@@ -154,7 +154,7 @@ status: "active"
   - **(3)**
     - **(A)** Except as otherwise provided in this paragraph, an individual meets the substantial presence test of this paragraph with respect to any calendar year (hereinafter in this subsection referred to as the “current year”) if—
       - **(i)** such individual was present in the United States on at least 31 days during the calendar year, and
-      - **(ii)** the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days: The applicable In the case of days in: multiplier is: Current year 1 1st preceding year ⅓ 2nd preceding year ⅙
+      - **(ii)** the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days: In the case of days in: The applicable multiplier is: Current year 1 1st preceding year ⅓ 2nd preceding year ⅙
     - **(B)** An individual shall not be treated as meeting the substantial presence test of this paragraph with respect to any current year if—
       - **(i)** such individual is present in the United States on fewer than 183 days during the current year, and
       - **(ii)** it is established that for the current year such individual has a tax home (as defined in section 911(d)(3) without regard to the second sentence thereof) in a foreign country and has a closer connection to such foreign country than to the United States.

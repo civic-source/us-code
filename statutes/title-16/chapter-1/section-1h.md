@@ -3,9 +3,9 @@ title: "Section 1h - Sums provided by private entities for utility services"
 usc_title: 16
 usc_section: "1h"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 1h"
-generated_at: "2026-03-30T04:08:23.075Z"
+generated_at: "2026-03-30T04:10:52.711Z"
 status: "active"
 ---
 

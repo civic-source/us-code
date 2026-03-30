@@ -3,9 +3,9 @@ title: "Section 134 - No private right of action"
 usc_title: 6
 usc_section: "134"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "6 U.S.C. § 134"
-generated_at: "2026-03-30T04:07:52.000Z"
+generated_at: "2026-03-30T04:10:09.276Z"
 status: "active"
 ---
 

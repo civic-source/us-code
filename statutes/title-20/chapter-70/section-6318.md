@@ -3,9 +3,9 @@ title: "Section 6318 - Parental involvement"
 usc_title: 20
 usc_section: "6318"
 chapter: 70
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 6318"
-generated_at: "2026-03-30T04:08:20.396Z"
+generated_at: "2026-03-30T04:10:46.636Z"
 status: "active"
 ---
 

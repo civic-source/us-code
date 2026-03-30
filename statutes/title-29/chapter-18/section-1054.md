@@ -3,9 +3,9 @@ title: "Section 1054 - Benefit accrual requirements"
 usc_title: 29
 usc_section: "1054"
 chapter: 18
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 1054"
-generated_at: "2026-03-30T04:08:44.714Z"
+generated_at: "2026-03-30T04:11:07.367Z"
 status: "active"
 ---
 
@@ -208,5 +208,5 @@ status: "active"
     - **(A)**
       - **(i)** In the case of the portion of an account to which paragraph (3) applies and which consists of employer securities acquired in a plan year beginning before January 1, 2007 , paragraph (3) shall only apply to the applicable percentage of such securities. This subparagraph shall be applied separately with respect to each class of securities.
       - **(ii)** Clause (i) shall not apply to an applicable individual who is a participant who has attained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005 .
-    - **(B)** For purposes of subparagraph (A), the applicable percentage shall be determined as follows: Plan year to which The applicable paragraph (3) applies: percentage is: 1st 33 2d 66 3d 100.
+    - **(B)** For purposes of subparagraph (A), the applicable percentage shall be determined as follows: Plan year to which paragraph (3) applies: The applicable percentage is: 1st 33 2d 66 3d 100.
 - **(k)** For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title .

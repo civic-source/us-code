@@ -3,9 +3,9 @@ title: "Section 1789 - Chaplain-led programs: authorized support"
 usc_title: 10
 usc_section: "1789"
 chapter: 88
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 1789"
-generated_at: "2026-03-30T04:08:01.886Z"
+generated_at: "2026-03-30T04:10:14.762Z"
 status: "active"
 ---
 

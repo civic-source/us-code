@@ -3,9 +3,9 @@ title: "Section 335 - Dealing in investment securities; limitations and conditio
 usc_title: 12
 usc_section: "335"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 335"
-generated_at: "2026-03-30T04:08:08.457Z"
+generated_at: "2026-03-30T04:10:40.612Z"
 status: "active"
 ---
 

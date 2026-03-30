@@ -3,9 +3,9 @@ title: "Section 381 - Procurement of equipment by State and local governments th
 usc_title: 10
 usc_section: "381"
 chapter: 18
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 381"
-generated_at: "2026-03-30T04:08:01.814Z"
+generated_at: "2026-03-30T04:10:14.694Z"
 status: "active"
 ---
 

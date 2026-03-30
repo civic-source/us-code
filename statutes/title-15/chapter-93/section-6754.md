@@ -3,9 +3,9 @@ title: "Section 6754 - Relationship to the Federal Government"
 usc_title: 15
 usc_section: "6754"
 chapter: 93
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 6754"
-generated_at: "2026-03-30T04:08:11.233Z"
+generated_at: "2026-03-30T04:10:30.074Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9441 - Status as federally chartered corporation; purposes"
 usc_title: 10
 usc_section: "9441"
 chapter: 909
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 9441"
-generated_at: "2026-03-30T04:08:01.989Z"
+generated_at: "2026-03-30T04:10:14.857Z"
 status: "active"
 ---
 

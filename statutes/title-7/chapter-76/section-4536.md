@@ -3,9 +3,9 @@ title: "Section 4536 - Dairy Research Trust Fund"
 usc_title: 7
 usc_section: "4536"
 chapter: 76
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 4536"
-generated_at: "2026-03-30T04:07:57.530Z"
+generated_at: "2026-03-30T04:10:18.561Z"
 status: "active"
 ---
 
@@ -14,5 +14,5 @@ status: "active"
 - **(a)** There may be established in the Treasury of the United States a trust fund to be known as the “Dairy Research Trust Fund” if the Institute is established under section 4532 of this title and a dairy products research order issued under section 4533 of this title is effective during such fiscal year.
 - **(b)**
   - **(1)** There is authorized to be appropriated to the Fund or transferred from moneys available to the Commodity Credit Corporation for deposit in the Fund, $100,000,000.
-  - **(2)** Moneys deposited in the Fund under paragraph (1) shall be invested by the Secretary of the Treasury in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States. Interest, dividends, and other payments that accrue from such investments shall be deposited in the Fund and also shall be so invested, subject to subsection (c) of this section.
-- **(c)** Moneys in the Fund, other than moneys appropriated or transferred under paragraph (1) of subsection (b) of this section, shall be available to the board, in such amounts, and for such activities authorized by this subchapter, as the Secretary may approve.
+  - **(2)** Moneys deposited in the Fund under paragraph (1) shall be invested by the Secretary of the Treasury in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States. Interest, dividends, and other payments that accrue from such investments shall be deposited in the Fund and also shall be so invested, subject to subsection (c).
+- **(c)** Moneys in the Fund, other than moneys appropriated or transferred under paragraph (1) of subsection (b), shall be available to the board, in such amounts, and for such activities authorized by this subchapter, as the Secretary may approve.

@@ -3,16 +3,16 @@ title: "Section 1910 - Report of disbursements"
 usc_title: 2
 usc_section: "1910"
 chapter: 29
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1910"
-generated_at: "2026-03-30T04:07:47.915Z"
+generated_at: "2026-03-30T04:10:05.245Z"
 status: "active"
 ---
 
 # § 1910. Report of disbursements
 
 - **(a)** Not later than 60 days after the last day of each semiannual period, the Chief of the Capitol Police shall submit to Congress, with respect to that period, a detailed, itemized report of the disbursements for the operations of the United States Capitol Police.
-- **(b)** The report required by subsection (a) of this section shall include—
+- **(b)** The report required by subsection (a) shall include—
   - **(1)** the name of each person or entity who receives a payment from the Capitol Police and the amount thereof;
   - **(2)** a description of any service rendered to the Capitol Police, together with service dates;
   - **(3)** a statement of all amounts appropriated to, or received or expended by, the Capitol Police and any unexpended balances of such amounts for any open fiscal year; and

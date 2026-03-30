@@ -3,9 +3,9 @@ title: "Section 5822 - Integrated Farm Management Program Option"
 usc_title: 7
 usc_section: "5822"
 chapter: 88
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 5822"
-generated_at: "2026-03-30T04:07:57.541Z"
+generated_at: "2026-03-30T04:10:18.571Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** The term “resource-conserving crop” means legumes, legume-grass mixtures, legume-small grain mixtures, legume-grass-small grain mixtures, and alternative crops.
     - **(B)** The term “resource-conserving crop rotation” means a crop rotation that includes at least one resource-conserving crop and that reduces erosion, maintains or improves soil fertility and tilth, interrupts pest cycles, or conserves water.
     - **(C)** The term “farming operations and practices” includes the integration of crops and crop-plant variety selection, rotation practices, tillage systems, soil conserving and soil building practices, nutrient management strategies, biological control and integrated pest management strategies, livestock production and management systems, animal waste management systems, water and energy conservation measures, and health and safety considerations.
-    - **(D)** The term “integrated farm management plan” means a comprehensive, multiyear, site-specific plan that meets the requirements of subsection (f) of this section.
+    - **(D)** The term “integrated farm management plan” means a comprehensive, multiyear, site-specific plan that meets the requirements of subsection (f).
   - **(2)** For purposes of paragraph (1)(A)—
     - **(A)** The term “grass” means perennial grasses commonly used for haying or grazing.
     - **(B)** The term “legume” means forage legumes (such as alfalfa or clover) or any legume grown for use as a forage or green manure, but not including any bean crop from which the seeds are harvested.

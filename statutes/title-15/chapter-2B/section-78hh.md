@@ -3,9 +3,9 @@ title: "Section 78hh - Effective date"
 usc_title: 15
 usc_section: "78hh"
 chapter: 2
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 78hh"
-generated_at: "2026-03-30T04:08:11.059Z"
+generated_at: "2026-03-30T04:10:29.870Z"
 status: "active"
 ---
 

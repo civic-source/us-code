@@ -3,9 +3,9 @@ title: "Section 192 - Unlawful practices enumerated"
 usc_title: 7
 usc_section: "192"
 chapter: 9
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 192"
-generated_at: "2026-03-30T04:07:57.375Z"
+generated_at: "2026-03-30T04:10:18.413Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ It shall be unlawful for any packer or swine contractor with respect to livestoc
 - **(d)** Sell or otherwise transfer to or for any other person, or buy or otherwise receive from or for any other person, any article for the purpose or with the effect of manipulating or controlling prices, or of creating a monopoly in the acquisition of, buying, selling, or dealing in, any article, or of restraining commerce; or
 - **(e)** Engage in any course of business or do any act for the purpose or with the effect of manipulating or controlling prices, or of creating a monopoly in the acquisition of, buying, selling, or dealing in, any article, or of restraining commerce; or
 - **(f)** Conspire, combine, agree, or arrange with any other person (1) to apportion territory for carrying on business, or (2) to apportion purchases or sales of any article, or (3) to manipulate or control prices; or
-- **(g)** Conspire, combine, agree, or arrange with any other person to do, or aid or abet the doing of, any act made unlawful by subdivisions (a), (b), (c), (d), or (e) of this section.
+- **(g)** Conspire, combine, agree, or arrange with any other person to do, or aid or abet the doing of, any act made unlawful by subdivisions (a), (b), (c), (d), or (e).

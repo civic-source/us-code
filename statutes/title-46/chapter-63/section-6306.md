@@ -3,9 +3,9 @@ title: "Section 6306 - Penalty"
 usc_title: 46
 usc_section: "6306"
 chapter: 63
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "46 U.S.C. § 6306"
-generated_at: "2026-03-30T04:09:32.285Z"
+generated_at: "2026-03-30T04:11:51.226Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1096a - Repealed. Pub. L. 102–325, title IV, § 494 , July 23,
 usc_title: 20
 usc_section: "1096a"
 chapter: 28
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 1096a"
-generated_at: "2026-03-30T04:08:20.326Z"
+generated_at: "2026-03-30T04:10:46.568Z"
 status: "repealed"
 ---
 

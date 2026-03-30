@@ -3,9 +3,9 @@ title: "Section 481k - Travel and transportation allowances: non-medical attenda
 usc_title: 37
 usc_section: "481k"
 chapter: 8
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "37 U.S.C. § 481k"
-generated_at: "2026-03-30T04:09:07.512Z"
+generated_at: "2026-03-30T04:11:21.620Z"
 status: "active"
 ---
 

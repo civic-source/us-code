@@ -3,9 +3,9 @@ title: "Section 3312 - Compliance with nationally recognized codes"
 usc_title: 40
 usc_section: "3312"
 chapter: 33
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "40 U.S.C. § 3312"
-generated_at: "2026-03-30T04:09:04.548Z"
+generated_at: "2026-03-30T04:11:23.634Z"
 status: "active"
 ---
 

@@ -3,15 +3,15 @@ title: "Section 7443 - Issuance and amendment of orders"
 usc_title: 7
 usc_section: "7443"
 chapter: 101
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 7443"
-generated_at: "2026-03-30T04:07:57.578Z"
+generated_at: "2026-03-30T04:10:18.604Z"
 status: "active"
 ---
 
 # § 7443. Issuance and amendment of orders
 
-- **(a)** Subject to subsection (b) of this section, the Secretary shall issue 1 or more orders under this subchapter applicable to producers and first purchasers of canola, rapeseed, or canola or rapeseed products. The order shall be national in scope. Not more than 1 order shall be in effect under this subchapter at any 1 time.
+- **(a)** Subject to subsection (b), the Secretary shall issue 1 or more orders under this subchapter applicable to producers and first purchasers of canola, rapeseed, or canola or rapeseed products. The order shall be national in scope. Not more than 1 order shall be in effect under this subchapter at any 1 time.
 - **(b)**
   - **(1)** The Secretary may propose the issuance of an order under this subchapter, or an association of canola and rapeseed producers or any other person that would be affected by an order issued pursuant to this subchapter may request the issuance of, and submit a proposal for, an order.
   - **(2)** Not later than 60 days after the receipt of a request and proposal for an order pursuant to paragraph (1), or whenever the Secretary determines to propose an order, the Secretary shall publish a proposed order and give due notice and opportunity for public comment on the proposed order.

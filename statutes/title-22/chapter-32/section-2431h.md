@@ -3,9 +3,9 @@ title: "Section 2431h - Tropical Forest Fund"
 usc_title: 22
 usc_section: "2431h"
 chapter: 32
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 2431h"
-generated_at: "2026-03-30T04:08:31.772Z"
+generated_at: "2026-03-30T04:11:00.358Z"
 status: "active"
 ---
 

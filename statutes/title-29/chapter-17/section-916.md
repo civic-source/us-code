@@ -3,9 +3,9 @@ title: "Section 916 - Repealed. Pub. L. 97–14, § 3 , June 16, 1981 , 95 Stat.
 usc_title: 29
 usc_section: "916"
 chapter: 17
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 916"
-generated_at: "2026-03-30T04:08:44.709Z"
+generated_at: "2026-03-30T04:11:07.363Z"
 status: "repealed"
 ---
 

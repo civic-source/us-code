@@ -3,9 +3,9 @@ title: "Section 433h - Donation of property; acquisition of lands"
 usc_title: 16
 usc_section: "433h"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 433h"
-generated_at: "2026-03-30T04:08:23.137Z"
+generated_at: "2026-03-30T04:10:52.777Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2020 - Administration"
 usc_title: 7
 usc_section: "2020"
 chapter: 51
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2020"
-generated_at: "2026-03-30T04:07:57.485Z"
+generated_at: "2026-03-30T04:10:18.522Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
     - **(B)** If a State agency implements a major change in operations, the State agency shall—
       - **(i)** notify the Secretary; and
       - **(ii)** collect such information as the Secretary shall require to identify and correct any adverse effects on program integrity or access, including access by any of the types of households described in subsection (e)(2)(A).
-- **(b)** When a State agency learns, through its own reviews under section 2025 of this title or other reviews, or through other sources, that it has improperly denied, terminated, or underissued benefits to an eligible household, the State agency shall promptly restore any improperly denied benefits to the extent required by subsection (e)(11) of this section and section 2023(b) of this title , and shall take other steps to prevent a recurrence of such errors where such error was caused by the application of State agency practices, rules or procedures inconsistent with the requirements of this chapter or with regulations or policies of the Secretary issued under the authority of this chapter.
+- **(b)** When a State agency learns, through its own reviews under section 2025 of this title or other reviews, or through other sources, that it has improperly denied, terminated, or underissued benefits to an eligible household, the State agency shall promptly restore any improperly denied benefits to the extent required by subsection (e)(11) and section 2023(b) of this title , and shall take other steps to prevent a recurrence of such errors where such error was caused by the application of State agency practices, rules or procedures inconsistent with the requirements of this chapter or with regulations or policies of the Secretary issued under the authority of this chapter.
 - **(c)**
   - **(1)** In the certification of applicant households for the supplemental nutrition assistance program, there shall be no discrimination by reason of race, sex, religious creed, national origin, or political affiliation.
   - **(2)** The administration of the program by a State agency shall be consistent with the rights of households under the following laws (including implementing regulations):
@@ -135,7 +135,7 @@ status: "active"
   - **(2)** Except in a case of disqualification as a penalty for failure to comply with a public assistance program rule or regulation, no household shall have its application to participate in the supplemental nutrition assistance program denied nor its benefits under the supplemental nutrition assistance program terminated solely on the basis that its application to participate has been denied or its benefits have been terminated under any of the programs carried out under the statutes specified in the second sentence of section 2014(a) of this title and without a separate determination by the State agency that the household fails to satisfy the eligibility requirements for participation in the supplemental nutrition assistance program.
 - **(j)**
   - **(1)** Any individual who is an applicant for or recipient of supplemental security income or social security benefits (under regulations prescribed by the Secretary in conjunction with the Commissioner of Social Security) shall be informed of the availability of benefits under the supplemental nutrition assistance program and informed of the availability of a simple application to participate in such program at the social security office.
-  - **(2)** The Secretary and the Commissioner of Social Security shall revise the memorandum of understanding in effect on December 23, 1985 , regarding services to be provided in social security offices under this subsection and subsection (i) of this section, in a manner to ensure that—
+  - **(2)** The Secretary and the Commissioner of Social Security shall revise the memorandum of understanding in effect on December 23, 1985 , regarding services to be provided in social security offices under this subsection and subsection (i), in a manner to ensure that—
     - **(A)** applicants for and recipients of social security benefits are adequately notified in social security offices that assistance may be available to them under this chapter;
     - **(B)** applications for assistance under this chapter from households in which all members are applicants for or recipients of supplemental security income will be forwarded immediately to the State agency in an efficient and timely manner; and
     - **(C)** the Commissioner of Social Security receives from the Secretary reimbursement for costs incurred to provide such services.
@@ -154,7 +154,7 @@ status: "active"
       - **(ii)** meet the time frames set forth in the plan.
     - **(B)** The Secretary shall extend a deadline imposed under subparagraph (A) to the extent the Secretary deems appropriate based on the Secretary’s finding of a good faith effort of a State agency to implement its plan in accordance with subparagraph (A).
 - **(p)** In carrying out the supplemental nutrition assistance program, a State agency shall be required to use an immigration status verification system established under section 1137 of the Social Security Act ( 42 U.S.C. 1320b–7 ), and an income and eligibility verification system, in accordance with standards set by the Secretary.
-- **(q)** The Secretary shall assist States, to the maximum extent practicable, in implementing a system to conduct computer matches or other systems to prevent prisoners described in subsection (e)(18)(B) of this section from participating in the supplemental nutrition assistance program as a member of any household.
+- **(q)** The Secretary shall assist States, to the maximum extent practicable, in implementing a system to conduct computer matches or other systems to prevent prisoners described in subsection (e)(18)(B) from participating in the supplemental nutrition assistance program as a member of any household.
 - **(r)** Each State agency shall—
   - **(1)** enter into a cooperative arrangement with the Commissioner of Social Security, pursuant to the authority of the Commissioner under section 205(r)(3) of the Social Security Act ( 42 U.S.C. 405(r)(3) ), to obtain information on individuals who are deceased; and
   - **(2)** use the information to verify and otherwise ensure that benefits are not issued to individuals who are deceased.

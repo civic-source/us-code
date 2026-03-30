@@ -3,9 +3,9 @@ title: "Section 0 - Establishment of Violence Against Women Office"
 usc_title: 42
 usc_section: "0"
 chapter: 46
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 0"
-generated_at: "2026-03-30T04:09:28.232Z"
+generated_at: "2026-03-30T04:11:46.806Z"
 status: "active"
 ---
 

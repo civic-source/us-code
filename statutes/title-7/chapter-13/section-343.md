@@ -3,9 +3,9 @@ title: "Section 343 - Appropriations; distribution; allotment and apportionment;
 usc_title: 7
 usc_section: "343"
 chapter: 13
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 343"
-generated_at: "2026-03-30T04:07:57.380Z"
+generated_at: "2026-03-30T04:10:18.418Z"
 status: "active"
 ---
 
@@ -28,9 +28,9 @@ status: "active"
   - **(2)** Of the remainder so appropriated for each fiscal year 20 per centum shall be paid to the several States in equal proportions, 40 per centum shall be paid to the several States in the proportion that the rural population of each bears to the total rural population of the several States as determined by the census, and the balance shall be paid to the several States in the proportion that the farm population of each bears to the total farm population of the several States as determined by the census. Any appropriation made hereunder shall be allotted in the first and succeeding years on the basis of the decennial census current at the time such appropriation is first made, and as to any increase, on the basis of decennial census current at the time such increase is first appropriated.
 - **(d)** The Secretary of Agriculture shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may compete for and receive funds directly from the Secretary of Agriculture.
 - **(e)**
-  - **(1)** Except as provided in paragraph (4) and subsection (f) of this section, no allotment shall be made to a State under subsection (b) or (c) of this section, and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
+  - **(1)** Except as provided in paragraph (4) and subsection (f), no allotment shall be made to a State under subsection (b) or (c), and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
   - **(2)** If a State fails to comply with the requirement to provide matching funds for a fiscal year under paragraph (1), the Secretary of Agriculture shall withhold from payment to the State for that fiscal year an amount equal to the difference between—
-    - **(A)** the amount that would be allotted and paid to the State under subsections (b) and (c) of this section (if the full amount of matching funds were provided by the State); and
+    - **(A)** the amount that would be allotted and paid to the State under subsections (b) and (c) (if the full amount of matching funds were provided by the State); and
     - **(B)** the amount of matching funds actually provided by the State.
   - **(3)**
     - **(A)** The Secretary of Agriculture shall reapportion amounts withheld under paragraph (2) for a fiscal year among the States satisfying the matching requirement for that fiscal year.
@@ -43,10 +43,10 @@ status: "active"
   - **(1)** The Secretary of Agriculture may conduct educational, instructional, demonstration, and publication distribution programs and enter into cooperative agreements with private nonprofit and profit organizations and individuals to share the cost of such programs through contributions from private sources as provided in this subsection.
   - **(2)** The Secretary may receive contributions under this subsection from private sources for the purposes described in paragraph (1) and provide matching funds in an amount not greater than 50 percent of such contributions.
 - **(h)**
-  - **(1)** Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) of this section during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as “multistate activities”).
+  - **(1)** Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as “multistate activities”).
   - **(2)**
-    - **(A)** Of the Federal formula funds that were paid to each State for fiscal year 1997 under subsections (b) and (c) of this section, the Secretary of Agriculture shall determine the percentage that the State expended for multistate activities.
-    - **(B)** Of the Federal formula funds that are paid to each State for fiscal year 2000 and each subsequent fiscal year under subsections (b) and (c) of this section, the State shall expend for the fiscal year for multistate activities a percentage that is at least equal to the lesser of—
+    - **(A)** Of the Federal formula funds that were paid to each State for fiscal year 1997 under subsections (b) and (c), the Secretary of Agriculture shall determine the percentage that the State expended for multistate activities.
+    - **(B)** Of the Federal formula funds that are paid to each State for fiscal year 2000 and each subsequent fiscal year under subsections (b) and (c), the State shall expend for the fiscal year for multistate activities a percentage that is at least equal to the lesser of—
       - **(i)** 25 percent; or
       - **(ii)** twice the percentage for the State determined under subparagraph (A).
     - **(C)** The Secretary may reduce the minimum percentage required to be expended for multistate activities under subparagraph (B) by a State in a case of hardship, infeasibility, or other similar circumstance beyond the control of the State, as determined by the Secretary.
@@ -56,6 +56,6 @@ status: "active"
     - **(B)** to a 1994 Institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 ( Public Law 103–382 ; 7 U.S.C. 301 note)); or
     - **(C)** to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam.
 - **(i)**
-  - **(1)** Effective October 1, 1999 , extension activity carried out under subsection (h) of this section shall be subject to merit review.
+  - **(1)** Effective October 1, 1999 , extension activity carried out under subsection (h) shall be subject to merit review.
   - **(2)** An extension activity for which merit review is conducted under paragraph (1) shall be considered to have satisfied the requirements for review under section 7613(e) of this title .
 - **(j)** Section 361c(i) of this title shall apply to amounts made available to carry out this subchapter.

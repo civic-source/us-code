@@ -3,9 +3,9 @@ title: "Section 4810 - Permissive provisions"
 usc_title: 7
 usc_section: "4810"
 chapter: 79
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 4810"
-generated_at: "2026-03-30T04:07:57.533Z"
+generated_at: "2026-03-30T04:10:18.565Z"
 status: "active"
 ---
 
@@ -19,9 +19,9 @@ status: "active"
     - **(A)** incidental to, and not inconsistent with, the terms and conditions specified in this chapter; and
     - **(B)** necessary to effectuate the other provisions of such order.
 - **(b)**
-  - **(1)** Information referred to in subsection (a)(1) of this section shall be made available to the Secretary and the Board as is appropriate or necessary for the effectuation, administration, or enforcement of this chapter or an order.
+  - **(1)** Information referred to in subsection (a)(1) shall be made available to the Secretary and the Board as is appropriate or necessary for the effectuation, administration, or enforcement of this chapter or an order.
   - **(2)**
-    - **(A)** Except as provided in subparagraphs (B) and (C), information obtained under subsection (a)(1) of this section shall be kept confidential by officers or employees of the Department of Agriculture or the Board.
+    - **(A)** Except as provided in subparagraphs (B) and (C), information obtained under subsection (a)(1) shall be kept confidential by officers or employees of the Department of Agriculture or the Board.
     - **(B)** Such information may be disclosed only—
       - **(i)** in a suit or administrative hearing involving the order with respect to which the information was furnished or acquired—
         - **(I)** brought at the direction or on the request of the Secretary; or
@@ -30,6 +30,6 @@ status: "active"
     - **(C)** Nothing in this section prohibits—
       - **(i)** the issuance of a general statement based on the reports of a number of persons subject to an order, or statistical data collected therefrom, if such statement or data does not identify the information furnished by any person; or
       - **(ii)** the publication, by direction of the Secretary, of the name of a person violating an order, together with a statement of the particular provisions of the order violated by such person.
-- **(c)** A person who willfully violates subsection (a)(1) or (b) of this section shall, on conviction, be—
+- **(c)** A person who willfully violates subsection (a)(1) or (b) shall, on conviction, be—
   - **(1)** subject to a fine of not more than $1,000 or imprisoned for not more than 1 year, or both; and
   - **(2)** if such person is an employee of the Department of Agriculture or the Board, removed from office.

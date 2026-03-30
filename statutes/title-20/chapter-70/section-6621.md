@@ -3,9 +3,9 @@ title: "Section 6621 - Allocations to local educational agencies"
 usc_title: 20
 usc_section: "6621"
 chapter: 70
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 6621"
-generated_at: "2026-03-30T04:08:20.408Z"
+generated_at: "2026-03-30T04:10:46.648Z"
 status: "active"
 ---
 

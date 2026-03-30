@@ -3,9 +3,9 @@ title: "Section 872 - Per capita distribution to tribal members"
 usc_title: 25
 usc_section: "872"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 872"
-generated_at: "2026-03-30T04:08:36.969Z"
+generated_at: "2026-03-30T04:11:02.041Z"
 status: "active"
 ---
 

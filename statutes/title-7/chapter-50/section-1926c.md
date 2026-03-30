@@ -3,9 +3,9 @@ title: "Section 1926c - Water and waste facility loans and grants to alleviate h
 usc_title: 7
 usc_section: "1926c"
 chapter: 50
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1926c"
-generated_at: "2026-03-30T04:07:57.458Z"
+generated_at: "2026-03-30T04:10:18.491Z"
 status: "active"
 ---
 
@@ -21,13 +21,13 @@ status: "active"
       - **(ii)** the unemployment rate of the residents of which is not less than 125 percent of the national average unemployment rate, as determined by the Bureau of Labor Statistics.
     - **(B)** Notwithstanding subparagraph (A), loans and grants under paragraph (1) may also be made if the loan or grant funds will be used primarily to provide water or waste services, or both, to residents of a rural area that was recognized as a colonia as of October 1, 1989 .
 - **(b)**
-  - **(1)** The Secretary shall make or insure loans and make grants to individuals who reside in a community described in subsection (a)(1) of this section for the purpose of extending water supply and waste disposal systems, connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems. Such loans shall be at a rate of interest no greater than the Federal Financing Bank rate on loans of a similar term at the time such loans are made. The repayment of such loans shall be amortized over the expected life of the water supply or waste disposal system to which the residence of the borrower will be connected.
+  - **(1)** The Secretary shall make or insure loans and make grants to individuals who reside in a community described in subsection (a)(1) for the purpose of extending water supply and waste disposal systems, connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems. Such loans shall be at a rate of interest no greater than the Federal Financing Bank rate on loans of a similar term at the time such loans are made. The repayment of such loans shall be amortized over the expected life of the water supply or waste disposal system to which the residence of the borrower will be connected.
   - **(2)** Loans and grants to individuals under paragraph (1) shall be made—
     - **(A)** directly to such individuals by the Secretary; or
     - **(B)** to such individuals through the rural water supply corporation, cooperative, or similar entity, or public agency, providing such water supply or waste disposal services, pursuant to regulations issued by the Secretary.
 - **(c)** The Secretary shall give preference in the awarding of loans and grants—
-  - **(1)** under subsection (a) of this section to rural water supply corporations, cooperatives, or similar entities, or public agencies, that propose to provide water supply or waste disposal services to the residents of those rural subdivisions commonly referred to as colonias, that are characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities; and
-  - **(2)** under subsection (b) of this section to individuals who reside in a rural subdivision commonly referred to as a colonia, that is characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities.
+  - **(1)** under subsection (a) to rural water supply corporations, cooperatives, or similar entities, or public agencies, that propose to provide water supply or waste disposal services to the residents of those rural subdivisions commonly referred to as colonias, that are characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities; and
+  - **(2)** under subsection (b) to individuals who reside in a rural subdivision commonly referred to as a colonia, that is characterized by substandard housing, inadequate roads and drainage, and a lack of adequate water or waste facilities.
 - **(d)** For purposes of this section, the term “cooperative” means a cooperative formed specifically for the purpose of the installation, expansion, improvement, or operation of water supply or waste disposal facilities or systems.
 - **(e)**
   - **(1)** Subject to paragraph (2), there are authorized to be appropriated—

@@ -3,9 +3,9 @@ title: "Section 180 - Legislative information retrieval system"
 usc_title: 2
 usc_section: "180"
 chapter: 5
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 180"
-generated_at: "2026-03-30T04:07:47.877Z"
+generated_at: "2026-03-30T04:10:05.213Z"
 status: "active"
 ---
 
@@ -13,6 +13,6 @@ status: "active"
 
 - **(a)** The purpose of this section is to reduce the cost of information support for the Congress by eliminating duplication among systems which provide electronic access by Congress to legislative information.
 - **(b)** As used in this section, the term “legislative information” means information, prepared within the legislative branch, consisting of the text of publicly available bills, amendments, committee hearings, and committee reports, the text of the Congressional Record, data relating to bill status, data relating to legislative activity, and other similar public information that is directly related to the legislative process.
-- **(c)** Pursuant to the plan approved under subsection (d) of this section and consistent with the provisions of any other law, the Library of Congress or the entity designated by that plan shall develop and maintain, in coordination with other appropriate entities of the legislative branch, a single legislative information retrieval system to serve the entire Congress.
+- **(c)** Pursuant to the plan approved under subsection (d) and consistent with the provisions of any other law, the Library of Congress or the entity designated by that plan shall develop and maintain, in coordination with other appropriate entities of the legislative branch, a single legislative information retrieval system to serve the entire Congress.
 - **(d)** The Library shall develop a plan for creation of this system, taking into consideration the findings and recommendations of the study directed by House Report No. 103–517 to identify and eliminate redundancies in congressional information systems. This plan must be approved by the Committee on Rules and Administration of the Senate, the Committee on House Oversight of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives. The Library shall provide these committees with regular status reports on the development of the plan.
 - **(e)** In formulating its plan, the Library shall examine issues regarding efficient ways to make this information available to the public. This analysis shall be submitted to the Committees on Appropriations of the Senate and the House of Representatives as well as the Committee on Rules and Administration of the Senate, and the Committee on House Oversight of the House of Representatives for their consideration and possible action.

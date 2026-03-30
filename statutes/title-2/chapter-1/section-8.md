@@ -3,15 +3,15 @@ title: "Section 8 - Vacancies"
 usc_title: 2
 usc_section: "8"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 8"
-generated_at: "2026-03-30T04:07:47.867Z"
+generated_at: "2026-03-30T04:10:05.204Z"
 status: "active"
 ---
 
 # § 8. Vacancies
 
-- **(a)** Except as provided in subsection (b) of this section, the time for holding elections in any State, District, or Territory for a Representative or Delegate to fill a vacancy, whether such vacancy is caused by a failure to elect at the time prescribed by law, or by the death, resignation, or incapacity of a person elected, may be prescribed by the laws of the several States and Territories respectively.
+- **(a)** Except as provided in subsection (b), the time for holding elections in any State, District, or Territory for a Representative or Delegate to fill a vacancy, whether such vacancy is caused by a failure to elect at the time prescribed by law, or by the death, resignation, or incapacity of a person elected, may be prescribed by the laws of the several States and Territories respectively.
 - **(b)**
   - **(1)** In extraordinary circumstances, the executive authority of any State in which a vacancy exists in its representation in the House of Representatives shall issue a writ of election to fill such vacancy by special election.
   - **(2)** A special election held under this subsection to fill a vacancy shall take place not later than 49 days after the Speaker of the House of Representatives announces that the vacancy exists, unless, during the 75-day period which begins on the date of the announcement of the vacancy—

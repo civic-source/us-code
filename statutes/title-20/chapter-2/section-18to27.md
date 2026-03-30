@@ -3,9 +3,9 @@ title: "Section 18to27 - Repealed. Pub. L. 105–33, title VI, § 6201 , Aug. 5,
 usc_title: 20
 usc_section: "18to27"
 chapter: 2
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 18to27"
-generated_at: "2026-03-30T04:08:20.253Z"
+generated_at: "2026-03-30T04:10:46.496Z"
 status: "repealed"
 ---
 

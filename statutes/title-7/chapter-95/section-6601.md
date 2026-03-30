@@ -3,20 +3,20 @@ title: "Section 6601 - Forestry rural revitalization"
 usc_title: 7
 usc_section: "6601"
 chapter: 95
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 6601"
-generated_at: "2026-03-30T04:07:57.557Z"
+generated_at: "2026-03-30T04:10:18.586Z"
 status: "active"
 ---
 
 # § 6601. Forestry rural revitalization
 
 - **(a)** The Secretary of Agriculture, acting through the National Institute of Food and Agriculture and the Cooperative Extension System, and in consultation with the Forest Service, shall establish and implement educational programs and provide technical assistance to assist businesses, industries, and policymakers to create jobs, raise incomes, and increase public revenues in manners consistent with environmental concerns.
-- **(b)** Each program established under subsection (a) of this section shall—
+- **(b)** Each program established under subsection (a) shall—
   - **(1)** transfer technologies to natural resource-based industries in the United States to make such industries more efficient, productive, and competitive;
   - **(2)** assist businesses to identify global marketing opportunities, conduct business on an international basis, and market themselves more effectively; and
   - **(3)** train local leaders in strategic community economic development.
-- **(c)** The Secretary of Agriculture shall establish specific programs under subsection (a) of this section to—
+- **(c)** The Secretary of Agriculture shall establish specific programs under subsection (a) to—
   - **(1)** deliver educational services focused on community economic analysis, economic diversification, economic impact analysis, retention and expansion of existing commodity and noncommodity industries, amenity resource and tourism development, and entrepreneurship focusing on forest lands and rural communities;
   - **(2)** use Cooperative Extension System databases and analytical tools to help communities diversify their economic bases, add value locally to raw forest product materials, and retain revenues by helping to develop local businesses and industries to supply forest products locally; and
   - **(3)** use the full resources of the Cooperative Extension System, including land-grant universities and county offices, to promote economic development that is sustainable and environmentally sound.

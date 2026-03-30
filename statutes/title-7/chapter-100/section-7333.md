@@ -3,9 +3,9 @@ title: "Section 7333 - Administration and operation of noninsured crop assistanc
 usc_title: 7
 usc_section: "7333"
 chapter: 100
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 7333"
-generated_at: "2026-03-30T04:07:57.572Z"
+generated_at: "2026-03-30T04:10:18.601Z"
 status: "active"
 ---
 
@@ -41,9 +41,9 @@ status: "active"
   - **(2)** To be eligible for assistance under this section, a producer shall provide annually to the Secretary records of crop acreage, acreage yields, and production for each crop, as required by the Secretary.
   - **(3)** A producer shall provide annual reports on acreage planted or prevented from being planted, as required by the Secretary, by the designated acreage reporting date for the crop and location as established by the Secretary.
 - **(c)**
-  - **(1)** To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
+  - **(1)** To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3).
   - **(2)**
-    - **(A)** On making a determination described in subsection (a)(3) of this section, the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3) of this section.
+    - **(A)** On making a determination described in subsection (a)(3), the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3).
     - **(B)** On making a determination described in subsection (a)(3) for aquaculture producers, the Secretary shall provide assistance under this section to aquaculture producers from all losses related to drought.
   - **(3)** Subject to paragraph (1), the Secretary shall make a prevented planting noninsured crop disaster assistance payment if the producer is prevented from planting more than 35 percent of the acreage intended for the eligible crop because of drought, flood, or other natural disaster, as determined by the Secretary.
   - **(4)** The Secretary shall provide assistance to individual producers without any requirement of an area loss.
@@ -91,7 +91,7 @@ status: "active"
     - **(B)** to ensure that payments under this section are attributed to a person or legal entity (excluding a joint venture or general partnership) in accordance with the terms and conditions of sections 1308 through 1308–3a of this title, as determined by the Secretary.
 - **(j)**
 - **(k)**
-  - **(1)** To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1) of this section) a service fee for the eligible crop in an amount that is equal to the lesser of—
+  - **(1)** To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
     - **(A)** $250 per crop per county; or
     - **(B)** $750 per producer per county, but not to exceed a total of $1,875 per producer.
   - **(2)** The Secretary shall waive the service fee required under paragraph (1) in the case of a limited resource, beginning, or socially disadvantaged farmer, as defined by the Secretary.

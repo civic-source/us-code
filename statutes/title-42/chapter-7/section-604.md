@@ -3,9 +3,9 @@ title: "Section 604 - Use of grants"
 usc_title: 42
 usc_section: "604"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 604"
-generated_at: "2026-03-30T04:09:27.883Z"
+generated_at: "2026-03-30T04:11:46.473Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
 - **(d)**
   - **(1)** Subject to paragraph (2), a State may use not more than 30 percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out a State program pursuant to any or all of the following provisions of law:
     - **(A)** Division A of subchapter XX of this chapter.
-    - **(B)** The Child Care and Development Block Grant Act of 1990 [ 42 U.S.C. 9858 et seq.].
+    - **(B)** The Child Care and Development Block Grant Act of 1990 [ 42 U.S.C. 9857 et seq.].
   - **(2)**
     - **(A)** A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to division A 1 of subchapter XX of this chapter.
     - **(B)** For purposes of subparagraph (A), the applicable percent is 4.25 percent in the case of fiscal year 2001 and each succeeding fiscal year.

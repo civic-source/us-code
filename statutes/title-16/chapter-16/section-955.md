@@ -3,9 +3,9 @@ title: "Section 955 - Secretary of State to act for United States"
 usc_title: 16
 usc_section: "955"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 955"
-generated_at: "2026-03-30T04:08:23.267Z"
+generated_at: "2026-03-30T04:10:52.912Z"
 status: "active"
 ---
 

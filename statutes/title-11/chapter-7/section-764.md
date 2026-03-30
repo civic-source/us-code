@@ -3,9 +3,9 @@ title: "Section 764 - Voidable transfers"
 usc_title: 11
 usc_section: "764"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "11 U.S.C. § 764"
-generated_at: "2026-03-30T04:08:05.243Z"
+generated_at: "2026-03-30T04:10:21.298Z"
 status: "active"
 ---
 

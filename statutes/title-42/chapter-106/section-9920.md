@@ -3,9 +3,9 @@ title: "Section 9920 - Operational rule"
 usc_title: 42
 usc_section: "9920"
 chapter: 106
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 9920"
-generated_at: "2026-03-30T04:09:28.457Z"
+generated_at: "2026-03-30T04:11:47.024Z"
 status: "active"
 ---
 

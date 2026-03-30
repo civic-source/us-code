@@ -3,9 +3,9 @@ title: "Section 1102 - Creditors’ and equity security holders’ committees"
 usc_title: 11
 usc_section: "1102"
 chapter: 11
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "11 U.S.C. § 1102"
-generated_at: "2026-03-30T04:08:05.243Z"
+generated_at: "2026-03-30T04:10:21.299Z"
 status: "active"
 ---
 

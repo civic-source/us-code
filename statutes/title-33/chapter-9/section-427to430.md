@@ -3,9 +3,9 @@ title: "Section 427to430 - Repealed. July 31, 1945, ch. 334, § 5 , 59 Stat. 508
 usc_title: 33
 usc_section: "427to430"
 chapter: 9
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "33 U.S.C. § 427to430"
-generated_at: "2026-03-30T04:09:02.170Z"
+generated_at: "2026-03-30T04:11:17.326Z"
 status: "repealed"
 ---
 

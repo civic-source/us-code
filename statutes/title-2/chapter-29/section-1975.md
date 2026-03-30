@@ -3,9 +3,9 @@ title: "Section 1975 - Overseas travel"
 usc_title: 2
 usc_section: "1975"
 chapter: 29
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1975"
-generated_at: "2026-03-30T04:07:47.917Z"
+generated_at: "2026-03-30T04:10:05.247Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** that travel is with, or in preparation for, travel of a Senator, including travel of a Senator as part of a congressional delegation;
   - **(2)** the member of the Capitol Police is performing security advisory and liaison functions (including advance security liaison preparations) relating to the travel of that Senator; and
   - **(3)** the Sergeant at Arms and Doorkeeper of the Senate gives prior approval to the travel of the member of the Capitol Police.
-- **(c)** Subsection (b) of this section shall not be construed to authorize the performance of law enforcement functions by a member of the Capitol Police in connection with the travel authorized under that subsection.
+- **(c)** Subsection (b) shall not be construed to authorize the performance of law enforcement functions by a member of the Capitol Police in connection with the travel authorized under that subsection.
 - **(d)** The Capitol Police shall be reimbursed for the overtime pay, travel, and related expenses of any member of the Capitol Police who travels under the authority of this section. Any reimbursement under this subsection shall be paid from the account under the heading “ sergeant at arms and doorkeeper of the senate ” under the heading “ Contingent Expenses of the Senate ”.
-- **(e)** Any amounts received by the Capitol Police for reimbursements under subsection (d) of this section shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
+- **(e)** Any amounts received by the Capitol Police for reimbursements under subsection (d) shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
 - **(f)** This section shall apply to fiscal year 2005 and each fiscal year thereafter.

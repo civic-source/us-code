@@ -3,9 +3,9 @@ title: "Section 445 - Authorization of appropriations for mitigating losses caus
 usc_title: 7
 usc_section: "445"
 chapter: 17
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 445"
-generated_at: "2026-03-30T04:07:57.384Z"
+generated_at: "2026-03-30T04:10:18.423Z"
 status: "active"
 ---
 

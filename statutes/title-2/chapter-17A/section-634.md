@@ -3,9 +3,9 @@ title: "Section 634 - Concurrent resolution on the budget must be adopted before
 usc_title: 2
 usc_section: "634"
 chapter: 17
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 634"
-generated_at: "2026-03-30T04:07:47.888Z"
+generated_at: "2026-03-30T04:10:05.223Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** provides an increase or decrease in the public debt limit to become effective during that fiscal year;
   - **(4)** in the Senate only, first provides new entitlement authority for that fiscal year; or
   - **(5)** in the Senate only, first provides for an increase or decrease in outlays for that fiscal year.
-- **(b)** In the House of Representatives, subsection (a) of this section does not apply—
+- **(b)** In the House of Representatives, subsection (a) does not apply—
   - **(1)**
     - **(A)** to any bill or joint resolution, as reported, providing advance discretionary new budget authority that first becomes available for the first or second fiscal year after the budget year; or
     - **(B)** to any bill or joint resolution, as reported, first increasing or decreasing revenues in a fiscal year following the fiscal year to which the concurrent resolution applies;

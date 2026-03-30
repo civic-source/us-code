@@ -3,9 +3,9 @@ title: "Section 13b - Loan guarantees for Native Hawaiian housing"
 usc_title: 12
 usc_section: "13b"
 chapter: 13
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 13b"
-generated_at: "2026-03-30T04:08:08.510Z"
+generated_at: "2026-03-30T04:10:40.667Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The term “Department of Hawaiian Home Lands” means the agency or department of the government of the State of Hawaii that is responsible for the administration of the Hawaiian Homes Commission Act, 1920 ( 42 Stat. 108 et seq.).
   - **(2)** The term “eligible entity” means a Native Hawaiian family, the Department of Hawaiian Home Lands, the Office of Hawaiian Affairs, and private nonprofit or private for-profit organizations experienced in the planning and development of affordable housing for Native Hawaiians.
   - **(3)** The term “family” means one or more persons maintaining a household, as the Secretary shall by regulation provide.
-  - **(4)** The term “Guarantee Fund” means the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j) of this section.
+  - **(4)** The term “Guarantee Fund” means the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j).
   - **(5)** The term “Hawaiian Home Lands” means lands that—
     - **(A)** have the status of Hawaiian Home Lands under section 204 of the Hawaiian Homes Commission Act ( 42 Stat. 110 ); or
     - **(B)** are acquired pursuant to that Act.
@@ -26,7 +26,7 @@ status: "active"
       - **(ii)** verification by kupuna (elders) or kama’aina (long-term community residents); or
       - **(iii)** birth records of the State of Hawaii.
   - **(7)** The term “Office of Hawaiian Affairs” means the entity of that name established under the constitution of the State of Hawaii.
-- **(b)** To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of the unpaid principal and interest that is due on an eligible loan under subsection (c) of this section.
+- **(b)** To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of the unpaid principal and interest that is due on an eligible loan under subsection (c).
 - **(c)** Under this section, a loan is an eligible loan if that loan meets the following requirements:
   - **(1)** The loan is made only to a borrower who is—
     - **(A)** a Native Hawaiian family;
@@ -48,7 +48,7 @@ status: "active"
       - **(iv)** Any other lender that is supervised, approved, regulated, or insured by any agency of the Federal Government.
   - **(5)** The loan shall—
     - **(A)** be made for a term not exceeding 30 years;
-    - **(B)** bear interest (exclusive of the guarantee fee under subsection (e) of this section and service charges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, but not to exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
+    - **(B)** bear interest (exclusive of the guarantee fee under subsection (e) and service charges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, but not to exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
     - **(C)** involve a principal obligation not exceeding—
       - **(i)** 97.75 percent of the appraised value of the property as of the date the loan is accepted for guarantee (or 98.75 percent if the value of the property is $50,000 or less); or
       - **(ii)** the amount approved by the Secretary under this section; and
@@ -72,23 +72,23 @@ status: "active"
   - **(2)** The fee under this subsection shall—
     - **(A)** be paid by the lender at time of issuance of the guarantee; and
     - **(B)** be adequate, in the determination of the Secretary, to cover expenses and probable losses.
-  - **(3)** The Secretary shall deposit any fees collected under this subsection in the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j) of this section.
+  - **(3)** The Secretary shall deposit any fees collected under this subsection in the Native Hawaiian Housing Loan Guarantee Fund established under subsection (j).
 - **(f)** The liability under a guarantee provided under this section shall decrease or increase on a pro rata basis according to any decrease or increase in the amount of the unpaid obligation under the provisions of the loan agreement involved.
 - **(g)** Notwithstanding any other provision of law, any loan guaranteed under this section, including the security given for the loan, may be sold or assigned by the lender to any financial institution subject to examination and supervision by an agency of the Federal Government or of any State or the District of Columbia.
 - **(h)**
   - **(1)**
-    - **(A)** The Secretary may take action under subparagraph (B) if the Secretary determines that any lender or holder of a guarantee certificate under subsection (d) of this section—
+    - **(A)** The Secretary may take action under subparagraph (B) if the Secretary determines that any lender or holder of a guarantee certificate under subsection (d)—
       - **(i)** has failed—
         - **(I)** to maintain adequate accounting records;
         - **(II)** to service adequately loans guaranteed under this section; or
         - **(III)** to exercise proper credit or underwriting judgment; or
       - **(ii)** has engaged in practices otherwise detrimental to the interest of a borrower or the United States.
-    - **(B)** Upon a determination by the Secretary that a holder of a guarantee certificate under subsection (d) of this section has failed to carry out an activity described in subparagraph (A)(i) or has engaged in practices described in subparagraph (A)(ii), the Secretary may—
+    - **(B)** Upon a determination by the Secretary that a holder of a guarantee certificate under subsection (d) has failed to carry out an activity described in subparagraph (A)(i) or has engaged in practices described in subparagraph (A)(ii), the Secretary may—
       - **(i)** refuse, either temporarily or permanently, to guarantee any further loans made by such lender or holder;
       - **(ii)** bar such lender or holder from acquiring additional loans guaranteed under this section; and
       - **(iii)** require that such lender or holder assume not less than 10 percent of any loss on further loans made or held by the lender or holder that are guaranteed under this section.
   - **(2)**
-    - **(A)** The Secretary may impose a civil monetary penalty on a lender or holder of a guarantee certificate under subsection (d) of this section if the Secretary determines that the holder or lender has intentionally failed—
+    - **(A)** The Secretary may impose a civil monetary penalty on a lender or holder of a guarantee certificate under subsection (d) if the Secretary determines that the holder or lender has intentionally failed—
       - **(i)** to maintain adequate accounting records;
       - **(ii)** to adequately service loans guaranteed under this section; or
       - **(iii)** to exercise proper credit or underwriting judgment.
@@ -110,7 +110,7 @@ status: "active"
   - **(2)** The Guarantee Fund shall be credited with—
     - **(A)** any amount, claims, notes, mortgages, contracts, and property acquired by the Secretary under this section, and any collections and proceeds therefrom;
     - **(B)** any amounts appropriated pursuant to paragraph (7);
-    - **(C)** any guarantee fees collected under subsection (e) of this section; and
+    - **(C)** any guarantee fees collected under subsection (e); and
     - **(D)** any interest or earnings on amounts invested under paragraph (4).
   - **(3)** Amounts in the Guarantee Fund shall be available, to the extent provided in appropriations Acts, for—
     - **(A)** fulfilling any obligations of the Secretary with respect to loans guaranteed under this section, including the costs (as that term is defined in section 661a of title 2 ) of such loans;

@@ -3,9 +3,9 @@ title: "Section 6002 - Definitions"
 usc_title: 7
 usc_section: "6002"
 chapter: 89
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 6002"
-generated_at: "2026-03-30T04:07:57.545Z"
+generated_at: "2026-03-30T04:10:18.576Z"
 status: "active"
 ---
 

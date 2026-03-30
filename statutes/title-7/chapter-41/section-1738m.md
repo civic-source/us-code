@@ -3,9 +3,9 @@ title: "Section 1738m - Annual report to Congress"
 usc_title: 7
 usc_section: "1738m"
 chapter: 41
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1738m"
-generated_at: "2026-03-30T04:07:57.455Z"
+generated_at: "2026-03-30T04:10:18.486Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
   - **(2)** a description of any Enviromental 1 1 So in original. Probably should be “Environmental”. Framework Agreement entered into under this subchapter;
   - **(3)** a report on what Environmental Funds have been established under this subchapter and on the operations of such Funds; and
   - **(4)** a description of any grants that have been extended by administering bodies pursuant to an Enviromental 1 Framework Agreement under this subchapter.
-- **(b)** No later than December 15 of each fiscal year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a) of this section. Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.
+- **(b)** No later than December 15 of each fiscal year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a). Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.

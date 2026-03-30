@@ -3,9 +3,9 @@ title: "Section 408e - Addition of lands; Passage Island"
 usc_title: 16
 usc_section: "408e"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 408e"
-generated_at: "2026-03-30T04:08:23.107Z"
+generated_at: "2026-03-30T04:10:52.748Z"
 status: "active"
 ---
 

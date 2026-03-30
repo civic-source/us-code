@@ -3,9 +3,9 @@ title: "Section 1738b - Eligibility for benefits under Facility"
 usc_title: 7
 usc_section: "1738b"
 chapter: 41
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1738b"
-generated_at: "2026-03-30T04:07:57.454Z"
+generated_at: "2026-03-30T04:10:18.486Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
     - **(B)** as appropriate, structural or sectoral adjustment loans from the International Bank for Reconstruction and Development (hereafter referred to in this subchapter as the “World Bank”) or the International Development Association (hereafter referred to in this subchapter as the “IDA”);
   - **(3)** have placed into effect major investment reforms in conjunction with an Inter-American Development Bank (hereafter referred to as the “IDB”) loan or otherwise be implementing, or making significant progress towards an open investment regime; and
   - **(4)** if appropriate, have agreed with its commercial bank lenders on a satisfactory financing program, including, as appropriate, debt or debt service reduction.
-- **(b)** The President shall determine whether a country is an eligible country for purposes of subsection (a) of this section.
+- **(b)** The President shall determine whether a country is an eligible country for purposes of subsection (a).

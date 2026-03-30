@@ -3,9 +3,9 @@ title: "Section 1787 - Payment of insurance"
 usc_title: 12
 usc_section: "1787"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 1787"
-generated_at: "2026-03-30T04:08:08.530Z"
+generated_at: "2026-03-30T04:10:40.688Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)**
     - **(A)** Upon its finding that a Federal credit union insured under this subchapter is bankrupt or insolvent, the Board shall close such credit union for liquidation and appoint itself liquidating agent therefor.
-    - **(B)** Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
+    - **(B)** Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b), such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
   - **(2)** Notwithstanding any other provision of law, the Board as liquidating agent of a closed Federal credit union insured under this subchapter shall not be required to furnish bond and shall have the right to appoint an agent or agents to assist it in its duties as such liquidating agent. All fees, compensation, and expenses of liquidation and administration thereof shall be fixed by the Board and may be paid by them out of funds coming into its possession as such liquidating agent.
   - **(3)** The Board may close any credit union for liquidation, and appoint itself or another (including, in the case of a State-chartered insured credit union, the State official having jurisdiction over the credit union) as liquidating agent of that credit union, if—
     - **(A)** the Board determines that—
@@ -181,7 +181,7 @@ status: "active"
       - **(iii)** damages for pain and suffering.
     - **(C)** In the case of any qualified financial contract or agreement to which paragraph (8) applies, compensatory damages shall be—
       - **(i)** deemed to include normal and reasonable costs of cover or other reasonable measures of damages utilized in the industries for such contract and agreement claims; and
-      - **(ii)** paid in accordance with this subsection and subsection (f) of this section except as otherwise specifically provided in this section.
+      - **(ii)** paid in accordance with this subsection and subsection (f) except as otherwise specifically provided in this section.
   - **(4)**
     - **(A)** If the conservator or liquidating agent disaffirms or repudiates a lease under which the credit union was the lessee, the conservator or liquidating agent shall not be liable for any damages (other than damages determined pursuant to subparagraph (B)) for the disaffirmance or repudiation of such lease.
     - **(B)** Notwithstanding subparagraph (A), the lessor under a lease to which such subparagraph applies shall—
@@ -189,7 +189,7 @@ status: "active"
         - **(I)** the notice of disaffirmance or repudiation is mailed; or
         - **(II)** the disaffirmance or repudiation becomes effective,
       - **(ii)** have no claim for damages under any acceleration clause or other penalty provision in the lease; and
-      - **(iii)** have a claim for any unpaid rent, subject to all appropriate offsets and defenses, due as of the date of the appointment which shall be paid in accordance with this subsection and subsection (b) of this section.
+      - **(iii)** have a claim for any unpaid rent, subject to all appropriate offsets and defenses, due as of the date of the appointment which shall be paid in accordance with this subsection and subsection (b).
   - **(5)**
     - **(A)** If the conservator or liquidating agent repudiates an unexpired written lease of real property of the credit union under which the credit union is the lessor and the lessee is not, as of the date of such repudiation, in default, the lessee under such lease may either—
       - **(i)** treat the lease as terminated by such repudiation; or
@@ -216,7 +216,7 @@ status: "active"
       - **(ii)** If an assignment and sale described in clause (i) is consummated, the conservator or liquidating agent shall have no further liability under the contract described in subparagraph (A) or with respect to the real property which was the subject of such contract.
   - **(7)**
     - **(A)** In the case of any contract for services between any person and any insured credit union for which the Board has been appointed conservator or liquidating agent, any claim of such person for services performed before the appointment of the conservator or the liquidating agent shall be—
-      - **(i)** a claim to be paid in accordance with subsection (b) of this section; and
+      - **(i)** a claim to be paid in accordance with subsection (b); and
       - **(ii)** deemed to have arisen as of the date the conservator or liquidating agent was appointed.
     - **(B)** If, in the case of any contract for services described in subparagraph (A), the conservator or liquidating agent accepts performance by the other person before the conservator or liquidating agent makes any determination to exercise the right of repudiation of such contract under this section—
       - **(i)** the other party shall be paid under the terms of the contract for the services performed; and
@@ -227,7 +227,7 @@ status: "active"
       - **(i)** any right such person has to cause the termination, liquidation, or acceleration of any qualified financial contract with an insured credit union which arises upon the appointment of the Board as liquidating agent for such credit union at any time after such appointment;
       - **(ii)** any right under any security agreement or arrangement or other credit enhancement related to 1 or more qualified financial contracts described in clause (i); 1 1 So in original. Probably should be followed by “or”.
       - **(iii)** any right to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more contracts and agreements described in clause (i), including any master agreement for such contracts or agreements.
-    - **(B)** Subsection (b)(12) of this section shall apply in the case of any judicial action or proceeding brought against any liquidating agent referred to in subparagraph (A), or the credit union for which such liquidating agent was appointed, by any party to a contract or agreement described in subparagraph (A)(i) with such credit union.
+    - **(B)** Subsection (b)(12) shall apply in the case of any judicial action or proceeding brought against any liquidating agent referred to in subparagraph (A), or the credit union for which such liquidating agent was appointed, by any party to a contract or agreement described in subparagraph (A)(i) with such credit union.
     - **(C)**
       - **(i)** Notwithstanding paragraph (11), section 91 of this title or any other Federal or State law relating to the avoidance of preferential or fraudulent transfers, the Board, whether acting as such or as conservator or liquidating agent of an insured credit union, may not avoid any transfer of money or other property in connection with any qualified financial contract with an insured credit union.
       - **(ii)** Clause (i) shall not apply to any transfer of money or other property in connection with any qualified financial contract with an insured credit union if the Board determines that the transferee had actual intent to hinder, delay, or defraud such credit union, the creditors of such credit union, or any conservator or liquidating agent appointed for such credit union.
@@ -344,7 +344,7 @@ status: "active"
   - **(3)** A determination by the Administration regarding any claim for insurance coverage shall be treated as a final determination for purposes of this section. In its discretion, the Board may promulgate regulations prescribing procedures for resolving any disputed claim relating to any insured deposit or any determination of insurance coverage with respect to any deposit. A final determination made by the Board regarding any claim for insurance coverage shall be a final agency action reviewable in accordance with chapter 7 of title 5 by the United States district court for the Federal judicial district where the principal place of business of the credit union is located.
   - **(4)** Any request for review of a final determination by the Board regarding any claim for insurance coverage shall be filed with the appropriate United States district court not later than 60 days after the date on which such determination is issued.
 - **(e)**
-  - **(1)** Notwithstanding any other provision of Federal law, the law of any State, or the constitution of any State, the Board, upon the payment to any accountholder as provided in subsection (d) of this section in connection with any insured credit union described in such subsection or the assumption of any deposit in such credit union by another insured credit union pursuant to this section, shall be subrogated to all rights of the accountholder against such credit union to the extent of such payment or assumption.
+  - **(1)** Notwithstanding any other provision of Federal law, the law of any State, or the constitution of any State, the Board, upon the payment to any accountholder as provided in subsection (d) in connection with any insured credit union described in such subsection or the assumption of any deposit in such credit union by another insured credit union pursuant to this section, shall be subrogated to all rights of the accountholder against such credit union to the extent of such payment or assumption.
   - **(2)** The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but such accountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
 - **(f)**
   - **(1)** Notwithstanding any other provision of Federal law or the law of any State, this subsection shall govern the rights of the creditors (other than insured accountholders) of such credit union.

@@ -3,9 +3,9 @@ title: "Section 8345 - Payment of benefits; commencement, termination, and waive
 usc_title: 5
 usc_section: "8345"
 chapter: 83
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "5 U.S.C. § 8345"
-generated_at: "2026-03-30T04:07:49.967Z"
+generated_at: "2026-03-30T04:10:07.265Z"
 status: "active"
 ---
 

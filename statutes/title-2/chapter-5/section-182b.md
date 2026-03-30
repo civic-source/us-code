@@ -3,9 +3,9 @@ title: "Section 182b - Revolving fund for gift shop, decimal classification, pho
 usc_title: 2
 usc_section: "182b"
 chapter: 5
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 182b"
-generated_at: "2026-03-30T04:07:47.878Z"
+generated_at: "2026-03-30T04:10:05.214Z"
 status: "active"
 ---
 
@@ -16,11 +16,11 @@ status: "active"
   - **(2)** The operation of a gift shop or other sales of items associated with collections, exhibits, performances, and special events of the Library of Congress.
   - **(3)** Document reproduction and microfilming services.
   - **(4)** Special events and programs.
-- **(b)** A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a) of this section.
-- **(c)** The Librarian may charge a fee for services under any of the programs and activities described in subsection (a) of this section, and shall deposit any such fees charged into the account of the revolving fund under this section for such program or activity.
+- **(b)** A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a).
+- **(c)** The Librarian may charge a fee for services under any of the programs and activities described in subsection (a), and shall deposit any such fees charged into the account of the revolving fund under this section for such program or activity.
 - **(d)**
   - **(1)** Each account of the revolving fund under this section shall consist of the following amounts:
-    - **(A)** Amounts deposited by the Librarian under subsection (c) of this section.
+    - **(A)** Amounts deposited by the Librarian under subsection (c).
     - **(B)** Any other amounts received by the Librarian which are attributable to the programs and activities covered by such account.
     - **(C)** Amounts deposited by the Librarian under paragraph (2).
     - **(D)** Such other amounts as may be appropriated under law.

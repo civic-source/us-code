@@ -3,9 +3,9 @@ title: "Section 8008 - Definitions"
 usc_title: 22
 usc_section: "8008"
 chapter: 87
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 8008"
-generated_at: "2026-03-30T04:08:31.878Z"
+generated_at: "2026-03-30T04:11:00.452Z"
 status: "active"
 ---
 

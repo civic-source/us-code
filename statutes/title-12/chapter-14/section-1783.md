@@ -3,9 +3,9 @@ title: "Section 1783 - National Credit Union Share Insurance Fund"
 usc_title: 12
 usc_section: "1783"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 1783"
-generated_at: "2026-03-30T04:08:08.527Z"
+generated_at: "2026-03-30T04:10:40.686Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
     - **(A)** During the period beginning on May 20, 2009 , and ending on December 31, 2010 , if, upon the written recommendation of the Board (upon a vote of not less than two-thirds of the members of the Board) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that additional amounts above the $6,000,000,000 amount specified in paragraph (1) are necessary, such amount shall be increased to the amount so determined to be necessary, not to exceed $30,000,000,000.
     - **(B)** If the borrowing authority of the Board is increased above $6,000,000,000 pursuant to subparagraph (A), the Board shall promptly submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the reasons and need for the additional borrowing authority and its intended uses.
 - **(e)** So long as any loans to the fund are outstanding, the Board shall from time to time, not less often than annually, determine whether the balance in the fund is in excess of the amount which, in its judgment, is needed to meet the requirements of the fund and shall pay such excess to the Secretary of the Treasury, to be credited against the loans to the fund.
-- **(f)** In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d) of this section, if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
+- **(f)** In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d), if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.

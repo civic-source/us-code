@@ -3,9 +3,9 @@ title: "Section 1705 - Development, submission, implementation, and assessment o
 usc_title: 21
 usc_section: "1705"
 chapter: 22
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "21 U.S.C. § 1705"
-generated_at: "2026-03-30T04:08:27.529Z"
+generated_at: "2026-03-30T04:10:57.069Z"
 status: "active"
 ---
 

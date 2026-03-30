@@ -3,9 +3,9 @@ title: "Section 2981to2981c - Repealed. Pub. L. 97–35, title VI, § 683(a) , A
 usc_title: 42
 usc_section: "2981to2981c"
 chapter: 34
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 2981to2981c"
-generated_at: "2026-03-30T04:09:28.194Z"
+generated_at: "2026-03-30T04:11:46.768Z"
 status: "repealed"
 ---
 

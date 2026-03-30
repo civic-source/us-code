@@ -3,9 +3,9 @@ title: "Section 1716E - Tobacco products as nonmailable"
 usc_title: 18
 usc_section: "1716E"
 chapter: 83
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "18 U.S.C. § 1716E"
-generated_at: "2026-03-30T04:08:15.002Z"
+generated_at: "2026-03-30T04:10:47.782Z"
 status: "active"
 ---
 

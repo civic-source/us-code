@@ -3,9 +3,9 @@ title: "Section 5955 - Reasonableness of rates"
 usc_title: 16
 usc_section: "5955"
 chapter: 79
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 5955"
-generated_at: "2026-03-30T04:08:23.374Z"
+generated_at: "2026-03-30T04:10:53.018Z"
 status: "active"
 ---
 

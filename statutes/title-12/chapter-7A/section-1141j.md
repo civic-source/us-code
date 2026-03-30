@@ -3,9 +3,9 @@ title: "Section 1141j - Miscellaneous provisions"
 usc_title: 12
 usc_section: "1141j"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 1141j"
-generated_at: "2026-03-30T04:08:08.472Z"
+generated_at: "2026-03-30T04:10:40.626Z"
 status: "active"
 ---
 

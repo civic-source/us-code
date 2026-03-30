@@ -3,9 +3,9 @@ title: "Section 1955 - Federal information clearinghouse"
 usc_title: 33
 usc_section: "1955"
 chapter: 33
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "33 U.S.C. § 1955"
-generated_at: "2026-03-30T04:09:02.231Z"
+generated_at: "2026-03-30T04:11:17.385Z"
 status: "active"
 ---
 

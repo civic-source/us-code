@@ -3,9 +3,9 @@ title: "Section 7223c - Charter school objectives"
 usc_title: 20
 usc_section: "7223c"
 chapter: 70
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 7223c"
-generated_at: "2026-03-30T04:08:20.423Z"
+generated_at: "2026-03-30T04:10:46.663Z"
 status: "active"
 ---
 

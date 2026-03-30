@@ -3,9 +3,9 @@ title: "Section 6651 - National activities of demonstrated effectiveness"
 usc_title: 20
 usc_section: "6651"
 chapter: 70
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 6651"
-generated_at: "2026-03-30T04:08:20.408Z"
+generated_at: "2026-03-30T04:10:46.648Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
       - **(i)**
         - **(I)** one or more institutions of higher education that provide professional development for early childhood educators who work with children from low-income families in high-need communities; or
         - **(II)** another public or private entity that provides such professional development;
-      - **(ii)** one or more public agencies ( 1 1 So in original. There is no closing parenthesis. including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 ( 42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
+      - **(ii)** one or more public agencies ( 1 1 So in original. There is no closing parenthesis. including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 [ 42 U.S.C. 9857 et seq.], Head Start agencies, or private organizations; and
       - **(iii)** to the extent feasible, an entity with demonstrated experience in providing training to educators in early childhood education programs concerning identifying and preventing behavior problems or working with children identified as or suspected to be victims of abuse.
     - **(B)**
       - **(i)** The Secretary shall award grants under this subsection for periods of not more than 4 years.

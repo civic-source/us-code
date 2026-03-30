@@ -3,9 +3,9 @@ title: "Section 762a - Research and demonstration projects"
 usc_title: 29
 usc_section: "762a"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 762a"
-generated_at: "2026-03-30T04:08:44.701Z"
+generated_at: "2026-03-30T04:11:07.354Z"
 status: "active"
 ---
 

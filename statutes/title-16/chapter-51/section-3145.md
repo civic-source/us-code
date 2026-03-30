@@ -3,9 +3,9 @@ title: "Section 3145 - Wildlife resources portion of study and impact of potenti
 usc_title: 16
 usc_section: "3145"
 chapter: 51
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 3145"
-generated_at: "2026-03-30T04:08:23.334Z"
+generated_at: "2026-03-30T04:10:52.979Z"
 status: "active"
 ---
 

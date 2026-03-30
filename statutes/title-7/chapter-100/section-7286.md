@@ -3,9 +3,9 @@ title: "Section 7286 - Commodity certificates"
 usc_title: 7
 usc_section: "7286"
 chapter: 100
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 7286"
-generated_at: "2026-03-30T04:07:57.572Z"
+generated_at: "2026-03-30T04:10:18.600Z"
 status: "active"
 ---
 
@@ -21,6 +21,6 @@ status: "active"
   - **(3)** by the issuance of negotiable certificates, which the Commodity Credit Corporation shall exchange for a commodity owned or controlled by the Corporation in accordance with regulations promulgated by the Corporation; or
   - **(4)** by such other methods as the Commodity Credit Corporation determines appropriate to promote the efficient, equitable, and expeditious receipt of the in-kind payments so that a person receiving the payments receives the same total return as if the payments had been made in cash.
 - **(c)**
-  - **(1)** At the option of a producer, the Commodity Credit Corporation shall make negotiable certificates authorized under subsection (b)(3) of this section available to the producer, in the form of program payments or by sale, in a manner that the Corporation determines will encourage the orderly marketing of commodities pledged as collateral for loans made to producers under subchapter III of this chapter, title I of the Farm Security and Rural Investment Act of 2002 [ 7 U.S.C. 7901 et seq.], and title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8701 et seq.].
+  - **(1)** At the option of a producer, the Commodity Credit Corporation shall make negotiable certificates authorized under subsection (b)(3) available to the producer, in the form of program payments or by sale, in a manner that the Corporation determines will encourage the orderly marketing of commodities pledged as collateral for loans made to producers under subchapter III of this chapter, title I of the Farm Security and Rural Investment Act of 2002 [ 7 U.S.C. 7901 et seq.], and title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8701 et seq.].
   - **(2)** A negotiable certificate issued in accordance with this subsection may be transferred to another person in accordance with regulations promulgated by the Secretary.
   - **(3)** The authority to carry out paragraph (1) terminates effective ending with the 2009 crop year.

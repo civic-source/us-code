@@ -3,16 +3,16 @@ title: "Section 1523 - Pilot programs"
 usc_title: 7
 usc_section: "1523"
 chapter: 36
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1523"
-generated_at: "2026-03-30T04:07:57.435Z"
+generated_at: "2026-03-30T04:10:18.469Z"
 status: "active"
 ---
 
 # § 1523. Pilot programs
 
 - **(a)**
-  - **(1)** Except as otherwise provided in this section, the Corporation may, at the sole discretion of the Corporation, conduct a pilot program submitted to and approved by the Board under section 1508(h) of this title , or that is developed under subsection (b) of this section or section 1522 of this title , to evaluate whether a proposal or new risk management tool tested by the pilot program is suitable for the marketplace and addresses the needs of producers of agricultural commodities.
+  - **(1)** Except as otherwise provided in this section, the Corporation may, at the sole discretion of the Corporation, conduct a pilot program submitted to and approved by the Board under section 1508(h) of this title , or that is developed under subsection (b) or section 1522 of this title , to evaluate whether a proposal or new risk management tool tested by the pilot program is suitable for the marketplace and addresses the needs of producers of agricultural commodities.
   - **(2)** Under this section, the Corporation shall not conduct any pilot program that provides insurance protection against a risk if insurance protection against the risk is generally available from private companies.
   - **(3)** The pilot programs described in paragraph (1) may include pilot programs providing insurance protection against losses involving—
     - **(A)** reduced forage on rangeland caused by drought or insect infestation;

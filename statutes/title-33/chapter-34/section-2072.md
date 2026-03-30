@@ -3,9 +3,9 @@ title: "Section 2072 - Violations of Inland Navigational Rules"
 usc_title: 33
 usc_section: "2072"
 chapter: 34
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "33 U.S.C. § 2072"
-generated_at: "2026-03-30T04:09:02.231Z"
+generated_at: "2026-03-30T04:11:17.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13104 - Grants to States for State technical assistance programs
 usc_title: 42
 usc_section: "13104"
 chapter: 133
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 13104"
-generated_at: "2026-03-30T04:09:28.530Z"
+generated_at: "2026-03-30T04:11:47.096Z"
 status: "active"
 ---
 

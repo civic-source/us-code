@@ -3,9 +3,9 @@ title: "Section 1258 - Supreme Court of Puerto Rico; certiorari"
 usc_title: 28
 usc_section: "1258"
 chapter: 81
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "28 U.S.C. § 1258"
-generated_at: "2026-03-30T04:08:43.364Z"
+generated_at: "2026-03-30T04:11:05.668Z"
 status: "active"
 ---
 

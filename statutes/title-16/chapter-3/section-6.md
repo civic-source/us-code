@@ -3,9 +3,9 @@ title: "Section 6 - United States release from liability"
 usc_title: 16
 usc_section: "6"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T04:08:23.218Z"
+generated_at: "2026-03-30T04:10:52.861Z"
 status: "active"
 ---
 

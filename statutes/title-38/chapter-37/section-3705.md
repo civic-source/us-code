@@ -3,9 +3,9 @@ title: "Section 3705 - Warranties"
 usc_title: 38
 usc_section: "3705"
 chapter: 37
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "38 U.S.C. § 3705"
-generated_at: "2026-03-30T04:09:07.038Z"
+generated_at: "2026-03-30T04:11:23.137Z"
 status: "active"
 ---
 

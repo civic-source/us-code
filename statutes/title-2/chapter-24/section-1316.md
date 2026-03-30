@@ -3,9 +3,9 @@ title: "Section 1316 - Rights and protections relating to veterans’ employment
 usc_title: 2
 usc_section: "1316"
 chapter: 24
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1316"
-generated_at: "2026-03-30T04:07:47.904Z"
+generated_at: "2026-03-30T04:10:05.235Z"
 status: "active"
 ---
 
@@ -20,10 +20,10 @@ status: "active"
     - **(A)** the term “eligible employee” means a covered employee performing service in the uniformed services, within the meaning of section 4303(13) of title 38 , whose service has not been terminated upon occurrence of any of the events enumerated in section 4304 of title 38 ,
     - **(B)** the term “covered employee” includes employees of the Government Accountability Office and the Library of Congress, and
     - **(C)** the term “employing office” includes the Government Accountability Office and the Library of Congress.
-- **(b)** The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under section 4323(d) of title 38 .
+- **(b)** The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under section 4323(d) of title 38 .
 - **(c)**
   - **(1)** The Board shall, pursuant to section 1384 of this title , issue regulations to implement this section.
-  - **(2)** The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+  - **(2)** The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995 .
+  - **(1)** Except as provided in paragraph (2), subsections (a) and (b) shall be effective 1 year after January 23, 1995 .
   - **(2)** This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title .

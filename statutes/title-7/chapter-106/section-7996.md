@@ -3,9 +3,9 @@ title: "Section 7996 - Equitable relief from ineligibility for loans, payments, 
 usc_title: 7
 usc_section: "7996"
 chapter: 106
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 7996"
-generated_at: "2026-03-30T04:07:57.597Z"
+generated_at: "2026-03-30T04:10:18.622Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(5)** receive such other equitable relief as the Secretary determines to be appropriate.
 - **(d)** As a condition of receiving relief under this section, the Secretary may require the participant to take actions designed to remedy any failure to comply with the covered program.
 - **(e)**
-  - **(1)** A State Director, in the case of programs administered by the State Director, and the State Conservationist, in the case of programs administered by the State Conservationist, may grant relief to a participant in accordance with subsections (b) through (d) of this section if—
+  - **(1)** A State Director, in the case of programs administered by the State Director, and the State Conservationist, in the case of programs administered by the State Conservationist, may grant relief to a participant in accordance with subsections (b) through (d) if—
     - **(A)** the amount of loans, payments, and benefits for which relief will be provided to the participant under this subsection is less than $20,000;
     - **(B)** the total amount of loans, payments, and benefits for which relief has been previously provided to the participant under this subsection is not more than $5,000; and
     - **(C)** the total amount of loans, payments, and benefits for which relief is provided to similarly situated participants under this subsection is not more than $1,000,000, as determined by the Secretary.
@@ -50,6 +50,6 @@ status: "active"
   - **(4)** The authority provided to a State Director and State Conservationist under this subsection is in addition to any other applicable authority and does not limit other authority provided by law or the Secretary.
 - **(f)** A discretionary decision by the Secretary, the State Director, or the State Conservationist under this section shall be final, and shall not be subject to review under chapter 7 of title 5.
 - **(g)** Not later than February 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes for the previous calendar year—
-  - **(1)** the number of requests for equitable relief under subsections (b) and (e) of this section and the disposition of the requests; and
+  - **(1)** the number of requests for equitable relief under subsections (b) and (e) and the disposition of the requests; and
   - **(2)** the number of requests for equitable relief under section 6998(d) of this title and the disposition of the requests.
 - **(h)** The authority provided in this section is in addition to any other authority provided in this or any other Act.

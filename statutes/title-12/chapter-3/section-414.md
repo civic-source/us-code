@@ -3,9 +3,9 @@ title: "Section 414 - Authority of Board of Governors respecting issuance of not
 usc_title: 12
 usc_section: "414"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 414"
-generated_at: "2026-03-30T04:08:08.462Z"
+generated_at: "2026-03-30T04:10:40.617Z"
 status: "active"
 ---
 

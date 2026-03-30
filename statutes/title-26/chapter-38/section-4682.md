@@ -3,9 +3,9 @@ title: "Section 4682 - Definitions and special rules"
 usc_title: 26
 usc_section: "4682"
 chapter: 38
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 4682"
-generated_at: "2026-03-30T04:08:50.096Z"
+generated_at: "2026-03-30T04:11:13.823Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
     - **(A)** which, at the time of the sale or use by the manufacturer, producer, or importer, is listed as an ozone-depleting chemical in the table contained in paragraph (2), and
     - **(B)** which is manufactured or produced in the United States or entered into the United States for consumption, use, or warehousing.
   - **(2)** Common name: Chemical nomenclature: CFC–11 trichlorofluoromethane CFC–12 dichlorodifluoromethane CFC–113 trichlorotrifluoroethane CFC–114 1,2-dichloro-1,1,2,2-tetra- fluoroethane CFC–115 chloropentafluoroethane Halon-1211 bromochlorodifluoro- methane Halon-1301 bromotrifluoromethane Halon-2402 dibromotetrafluoroethane Carbon tetrachloride Tetrachloromethane Methyl chloroform 1,1,1-trichloroethane CFC–13 CF3Cl CFC–111 C2FCl5 CFC–112 C2F2Cl4 CFC–211 C3FCl7 CFC–212 C3F2Cl6 CFC–213 C3F3Cl5 CFC–214 C3F4Cl4 CFC–215 C3F5Cl3 CFC–216 C3F6Cl2 CFC–217 C3F7Cl.
-- **(b)** For purposes of this subchapter, the term “ozone-depletion factor” means, with respect to an ozone-depleting chemical, the factor assigned to such chemical under the following table: Ozone-depleting chemical: Ozone-depletion factor: CFC–11 1.0 CFC–12 1.0 CFC–113 0.8 CFC–114 1.0 CFC–115 0.6 Halon-1211 3.0 Halon-1301 10.0 Halon-2402 6.0 Carbon tetrachloride 1.1 Methyl chloroform 0.1 CFC–13. 1.0 CFC–111 1.0 CFC–112 1.0 CFC–211 1.0 CFC–212 1.0 CFC–213 1.0 CFC–214 1.0 CFC–215 1.0 CFC–216 1.0 CFC–217 1.0.
+- **(b)** For purposes of this subchapter, the term “ozone-depletion factor” means, with respect to an ozone-depleting chemical, the factor assigned to such chemical under the following table: Ozone-depleting chemical: Ozone-depletion factor: CFC–11 1.0 CFC–12 1.0 CFC–113 0.8 CFC–114 1.0 CFC–115 0.6 Halon-1211 3.0 Halon-1301 10.0 Halon-2402 6.0 Carbon tetrachloride 1.1 Methyl chloroform 0.1 CFC–13 1.0 CFC–111 1.0 CFC–112 1.0 CFC–211 1.0 CFC–212 1.0 CFC–213 1.0 CFC–214 1.0 CFC–215 1.0 CFC–216 1.0 CFC–217 1.0.
 - **(c)** For purposes of this subchapter—
   - **(1)** The term “imported taxable product” means any product (other than an ozone-depleting chemical) entered into the United States for consumption, use, or warehousing if any ozone-depleting chemical was used as material in the manufacture or production of such product.
   - **(2)** The term “imported taxable product” shall not include any product specified in regulations prescribed by the Secretary as using a de minimis amount of ozone-depleting chemicals as materials in the manufacture or production thereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.

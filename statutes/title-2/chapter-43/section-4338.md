@@ -3,9 +3,9 @@ title: "Section 4338 - Designation by Senator who is Chairman or Vice Chairman o
 usc_title: 2
 usc_section: "4338"
 chapter: 43
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 4338"
-generated_at: "2026-03-30T04:07:47.926Z"
+generated_at: "2026-03-30T04:10:05.255Z"
 status: "active"
 ---
 

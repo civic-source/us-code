@@ -3,9 +3,9 @@ title: "Section 1482 - Repealed. Pub. L. 95–432, § 1 , Oct. 10, 1978 , 92 Sta
 usc_title: 8
 usc_section: "1482"
 chapter: 12
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "8 U.S.C. § 1482"
-generated_at: "2026-03-30T04:07:54.588Z"
+generated_at: "2026-03-30T04:10:10.162Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8221to8224 - Repealed. Pub. L. 105–277, div. A, § 101(f) [tit
 usc_title: 20
 usc_section: "8221to8224"
 chapter: 70
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 8221to8224"
-generated_at: "2026-03-30T04:08:20.444Z"
+generated_at: "2026-03-30T04:10:46.683Z"
 status: "repealed"
 ---
 

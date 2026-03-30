@@ -3,9 +3,9 @@ title: "Section 3744 - Federal, State and local authority"
 usc_title: 25
 usc_section: "3744"
 chapter: 39
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 3744"
-generated_at: "2026-03-30T04:08:37.048Z"
+generated_at: "2026-03-30T04:11:02.112Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395r - Amount of premiums for individuals enrolled under this p
 usc_title: 42
 usc_section: "1395r"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 1395r"
-generated_at: "2026-03-30T04:09:27.965Z"
+generated_at: "2026-03-30T04:11:46.552Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
       - **(i)** For 2007, 33 percent.
       - **(ii)** For 2008, 67 percent.
     - **(C)**
-      - **(i)** If the modified adjusted gross income is: The appli- cable per- centage is: More than $80,000 but not more than $100,000 35 percent More than $100,000 but not more than $150,000 50 percent More than $150,000 but not more than $200,000 65 percent More than $200,000 80 percent.
+      - **(i)** If the modified adjusted gross income is: The applicable percentage is: More than $80,000 but not more than $100,000 35 percent More than $100,000 but not more than $150,000 50 percent More than $150,000 but not more than $200,000 65 percent More than $200,000 80 percent.
       - **(ii)** In the case of a joint return, clause (i) shall be applied by substituting dollar amounts which are twice the dollar amounts otherwise applicable under clause (i) for the calendar year.
       - **(iii)** In the case of an individual who—
         - **(I)** is married as of the close of the taxable year (within the meaning of section 7703 of the Internal Revenue Code of 1986) but does not file a joint return for such year, and

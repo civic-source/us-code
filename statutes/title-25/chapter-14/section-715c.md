@@ -3,9 +3,9 @@ title: "Section 715c - Transfer of land to be held in trust"
 usc_title: 25
 usc_section: "715c"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 715c"
-generated_at: "2026-03-30T04:08:36.965Z"
+generated_at: "2026-03-30T04:11:02.037Z"
 status: "active"
 ---
 

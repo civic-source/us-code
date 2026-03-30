@@ -3,9 +3,9 @@ title: "Section 5504 - Designation of State Department-family liaison and toll-f
 usc_title: 22
 usc_section: "5504"
 chapter: 64
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 5504"
-generated_at: "2026-03-30T04:08:31.837Z"
+generated_at: "2026-03-30T04:11:00.416Z"
 status: "active"
 ---
 

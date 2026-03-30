@@ -3,9 +3,9 @@ title: "Section 5721 - Yukon River Salmon Panel"
 usc_title: 16
 usc_section: "5721"
 chapter: 77
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 5721"
-generated_at: "2026-03-30T04:08:23.372Z"
+generated_at: "2026-03-30T04:10:53.017Z"
 status: "active"
 ---
 

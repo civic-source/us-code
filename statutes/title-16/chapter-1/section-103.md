@@ -3,9 +3,9 @@ title: "Section 103 - Land Exchange, Tom J. Davis Livestock, Incorporated"
 usc_title: 16
 usc_section: "103"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 103"
-generated_at: "2026-03-30T04:08:23.183Z"
+generated_at: "2026-03-30T04:10:52.826Z"
 status: "active"
 ---
 

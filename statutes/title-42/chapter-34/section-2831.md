@@ -3,9 +3,9 @@ title: "Section 2831 - Omitted"
 usc_title: 42
 usc_section: "2831"
 chapter: 34
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 2831"
-generated_at: "2026-03-30T04:09:28.194Z"
+generated_at: "2026-03-30T04:11:46.767Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1422 - Notice of reorganization and funding requirements"
 usc_title: 29
 usc_section: "1422"
 chapter: 18
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 1422"
-generated_at: "2026-03-30T04:08:44.745Z"
+generated_at: "2026-03-30T04:11:07.399Z"
 status: "active"
 ---
 

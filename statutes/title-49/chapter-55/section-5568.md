@@ -3,9 +3,9 @@ title: "Section 5568 - Authorization of appropriations"
 usc_title: 49
 usc_section: "5568"
 chapter: 55
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "49 U.S.C. § 5568"
-generated_at: "2026-03-30T04:09:40.082Z"
+generated_at: "2026-03-30T04:11:57.094Z"
 status: "active"
 ---
 

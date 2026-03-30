@@ -3,9 +3,9 @@ title: "Section 14094 - Designation of lead agency and submission of State plan"
 usc_title: 42
 usc_section: "14094"
 chapter: 136
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 14094"
-generated_at: "2026-03-30T04:09:28.558Z"
+generated_at: "2026-03-30T04:11:47.124Z"
 status: "active"
 ---
 

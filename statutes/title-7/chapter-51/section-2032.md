@@ -3,9 +3,9 @@ title: "Section 2032 - Automated data processing and information retrieval syste
 usc_title: 7
 usc_section: "2032"
 chapter: 51
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2032"
-generated_at: "2026-03-30T04:07:57.493Z"
+generated_at: "2026-03-30T04:10:18.528Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(A)** comply with conditions of initial funding approvals; and
     - **(B)** adequately support program delivery in compliance with this chapter and regulations issued under this chapter.
 - **(b)**
-  - **(1)** After conducting the review required under subsection (a) of this section, the Secretary shall establish standards for approval of systems.
+  - **(1)** After conducting the review required under subsection (a), the Secretary shall establish standards for approval of systems.
   - **(2)** A State shall implement the standards established by the Secretary within a reasonable period of time, as determined by the Secretary.
   - **(3)** The Secretary shall conduct appropriate periodic reviews of systems to ensure compliance with the standards established by the Secretary.
 - **(c)** Not later than October 1, 1993 , the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the extent to which State agencies have developed and are operating effective systems that support supplemental nutrition assistance program delivery in compliance with this chapter and regulations issued under this chapter.

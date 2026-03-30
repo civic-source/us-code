@@ -3,9 +3,9 @@ title: "Section 3105 - Persons authorized to serve search warrant"
 usc_title: 18
 usc_section: "3105"
 chapter: 205
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "18 U.S.C. § 3105"
-generated_at: "2026-03-30T04:08:15.024Z"
+generated_at: "2026-03-30T04:10:47.808Z"
 status: "active"
 ---
 

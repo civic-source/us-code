@@ -3,9 +3,9 @@ title: "Section 2034 - Assistance for community food projects"
 usc_title: 7
 usc_section: "2034"
 chapter: 51
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2034"
-generated_at: "2026-03-30T04:07:57.493Z"
+generated_at: "2026-03-30T04:10:18.528Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(A)** $1,000,000 for fiscal year 1996;
     - **(B)** $5,000,000 for each of fiscal years 2008 through 2014; and
     - **(C)** $9,000,000 for fiscal year 2015 and each fiscal year thereafter.
-- **(c)** To be eligible for a grant under subsection (b) of this section, a public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners, must—
+- **(c)** To be eligible for a grant under subsection (b), a public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners, must—
   - **(1)** have experience in the area of—
     - **(A)** community food work, particularly concerning small and medium-sized farms, including the provision of food to people in low-income communities and the development of new markets in low-income communities for agricultural producers;
     - **(B)** job training and business development activities for food-related activities in low-income communities; or
@@ -41,7 +41,7 @@ status: "active"
   - **(2)** demonstrate competency to implement a project, provide fiscal accountability, collect data, and prepare reports and other necessary documentation;
   - **(3)** demonstrate a willingness to share information with researchers, practitioners, and other interested parties; and
   - **(4)** collaborate with 1 or more local partner organizations to achieve at least 1 hunger-free communities goal.
-- **(d)** In selecting community food projects to receive assistance under subsection (b) of this section, the Secretary shall give a preference to projects designed to—
+- **(d)** In selecting community food projects to receive assistance under subsection (b), the Secretary shall give a preference to projects designed to—
   - **(1)** develop linkages between 2 or more sectors of the food system;
   - **(2)** support the development of entrepreneurial projects;
   - **(3)** develop innovative linkages between the for-profit and nonprofit food sectors;
@@ -51,12 +51,12 @@ status: "active"
     - **(B)** coordinating food services with park and recreation programs and other community-based outlets to reduce barriers to access; or
     - **(C)** creating nutrition education programs for at-risk populations to enhance food-purchasing and food-preparation skills and to heighten awareness of the connection between diet and health.
 - **(e)**
-  - **(1)** The Federal share of the cost of establishing or carrying out a community food project that receives assistance under subsection (b) of this section may not exceed 50 percent of the cost of the project during the term of the grant.
+  - **(1)** The Federal share of the cost of establishing or carrying out a community food project that receives assistance under subsection (b) may not exceed 50 percent of the cost of the project during the term of the grant.
   - **(2)** In providing for the non-Federal share of the cost of carrying out a community food project, the entity receiving the grant shall provide for the share through a payment in cash or in kind, fairly evaluated, including facilities, equipment, or services.
   - **(3)** An entity may provide for the non-Federal share through State government, local government, or private sources.
 - **(f)**
-  - **(1)** A community food project may be supported by only a single grant under subsection (b) of this section.
-  - **(2)** The term of a grant under subsection (b) of this section may not exceed 5 years.
+  - **(1)** A community food project may be supported by only a single grant under subsection (b).
+  - **(2)** The term of a grant under subsection (b) may not exceed 5 years.
 - **(g)**
   - **(1)** In carrying out this section, the Secretary may provide technical assistance regarding community food projects, processes, and development to an entity seeking the assistance.
   - **(2)**

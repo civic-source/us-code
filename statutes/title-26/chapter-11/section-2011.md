@@ -3,9 +3,9 @@ title: "Section 2011 - Credit for State death taxes"
 usc_title: 26
 usc_section: "2011"
 chapter: 11
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 2011"
-generated_at: "2026-03-30T04:08:50.066Z"
+generated_at: "2026-03-30T04:11:13.792Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** Except as provided in paragraph (2), the credit allowed by this section shall not exceed the appropriate amount stated in the following table: If the adjusted taxable estate is: The maximum tax credit shall be: Not over $90,000 8 ⁄ 10 ths of 1% of the amount by which the adjusted taxable estate exceeds $40,000. Over $90,000 but not over $140,000 $400 plus 1.6% of the excess over $90,000. Over $140,000 but not over $240,000 $1,200 plus 2.4% of the excess over $140,000. Over $240,000 but not over $440,000 $3,600 plus 3.2% of the excess over $240,000. Over $440,000 but not over $640,000 $10,000 plus 4% of the excess over $440,000. Over $640,000 but not over $840,000 $18,000 plus 4.8% of the excess over $640,000. Over $840,000 but not over $1,040,000 $27,600 plus 5.6% of the excess over $840,000. Over $1,040,000 but not over $1,540,000 $38,800 plus 6.4% of the excess over $1,040,000. Over $1,540,000 but not over $2,040,000 $70,800 plus 7.2% of the excess over $1,540,000. Over $2,040,000 but not over $2,540,000 $106,800 plus 8% of the excess over $2,040,000. Over $2,540,000 but not over $3,040,000 $146,800 plus 8.8% of the excess over $2,540,000 Over $3,040,000 but not over $3,540,000 $190,800 plus 9.6% of the excess over $3,040,000. Over $3,540,000 but not over $4,040,000 $238,800 plus 10.4% of the excess over $3,540,000. Over $4,040,000 but not over $5,040,000 $290,800 plus 11.2% of the excess over $4,040,000. Over $5,040,000 but not over $6,040,000 $402,800 plus 12% of the excess over $5,040,000. Over $6,040,000 but not over $7,040,000 $522,800 plus 12.8% of the excess over $6,040,000. Over $7,040,000 but not over $8,040,000 $650,800 plus 13.6% of the excess over $7,040,000. Over $8,040,000 but not over $9,040,000 $786,800 plus 14.4% of the excess over $8,040,000. Over $9,040,000 but not over $10,040,000 $930,800 plus 15.2% of the excess over $9,040,000. Over $10,040,000 $1,082,800 plus 16% of the excess over $10,040,000.
   - **(2)**
     - **(A)** In the case of estates of decedents dying after December 31, 2001 , the credit allowed by this section shall not exceed the applicable percentage of the credit otherwise determined under paragraph (1).
-    - **(B)** In the case of estates of decedents The applicable dying during: percentage is: 2002 75 percent 2003 50 percent 2004 25 percent.
+    - **(B)** In the case of estates of decedents dying during: The applicable percentage is: 2002 75 percent 2003 50 percent 2004 25 percent.
   - **(3)** For purposes of this section, the term “adjusted taxable estate” means the taxable estate reduced by $60,000.
 - **(c)** The credit allowed by this section shall include only such taxes as were actually paid and credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
   - **(1)** If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), then within such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.

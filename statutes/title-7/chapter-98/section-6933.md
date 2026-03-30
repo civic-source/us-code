@@ -3,15 +3,15 @@ title: "Section 6933 - Office of Risk Management"
 usc_title: 7
 usc_section: "6933"
 chapter: 98
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 6933"
-generated_at: "2026-03-30T04:07:57.561Z"
+generated_at: "2026-03-30T04:10:18.590Z"
 status: "active"
 ---
 
 # § 6933. Office of Risk Management
 
-- **(a)** Subject to subsection (e) 1 1 So in original. There is no subsection (e). of this section, the Secretary shall establish and maintain in the Department an independent Office of Risk Management.
+- **(a)** Subject to subsection (e), 1 1 So in original. There is no subsection (e). the Secretary shall establish and maintain in the Department an independent Office of Risk Management.
 - **(b)** The Office of Risk Management shall have jurisdiction over the following functions:
   - **(1)** Supervision of the Federal Crop Insurance Corporation.
   - **(2)** Administration and oversight of all aspects, including delivery through local offices of the Department, of all programs authorized under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.).

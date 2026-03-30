@@ -3,9 +3,9 @@ title: "Section 31a - Findings and purpose"
 usc_title: 43
 usc_section: "31a"
 chapter: 2
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "43 U.S.C. § 31a"
-generated_at: "2026-03-30T04:09:10.633Z"
+generated_at: "2026-03-30T04:11:26.629Z"
 status: "active"
 ---
 

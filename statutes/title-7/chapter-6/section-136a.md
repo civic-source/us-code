@@ -3,9 +3,9 @@ title: "Section 136a - Registration of pesticides"
 usc_title: 7
 usc_section: "136a"
 chapter: 6
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 136a"
-generated_at: "2026-03-30T04:07:57.353Z"
+generated_at: "2026-03-30T04:10:18.394Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
         - **(II)** the term “significant minor uses” means 3 or more minor uses proposed for every nonminor use, a minor use that would, in the judgment of the Administrator, serve as a replacement for any use which has been canceled in the 5 years preceding the receipt of the application, or a minor use that in the opinion of the Administrator would avoid the reissuance of an emergency exemption under section 136p of this title for that minor use.
     - **(D)** If a registrant makes a request for a minor use waiver, regarding data required by the Administrator, pursuant to paragraph (2)(E), and if the Administrator denies in whole or in part such data waiver request, the registrant shall have a full-time period for providing such data. For purposes of this subparagraph, the term “full-time period” means the time period originally established by the Administrator for submission of such data, beginning with the date of receipt by the registrant of the Administrator’s notice of denial.
   - **(4)** The Administrator shall publish in the Federal Register, promptly after receipt of the statement and other data required pursuant to paragraphs (1) and (2), a notice of each application for registration of any pesticide if it contains any new active ingredient or if it would entail a changed use pattern. The notice shall provide for a period of 30 days in which any Federal agency or any other interested person may comment.
-  - **(5)** The Administrator shall register a pesticide if the Administrator determines that, when considered with any restrictions imposed under subsection (d) of this section—
+  - **(5)** The Administrator shall register a pesticide if the Administrator determines that, when considered with any restrictions imposed under subsection (d)—
     - **(A)** its composition is such as to warrant the proposed claims for it;
     - **(B)** its labeling and other material required to be submitted comply with the requirements of this subchapter;
     - **(C)** it will perform its intended function without unreasonable adverse effects on the environment; and
@@ -145,8 +145,8 @@ status: "active"
       - **(ii)** The Administrator shall identify, but not include in the docket, any confidential business information the disclosure of which is prohibited by section 136h of this title .
     - **(C)** Nothing in this subsection shall prohibit the Administrator from undertaking any other review of a pesticide pursuant to this subchapter.
   - **(2)**
-    - **(A)** The Administrator shall use the authority in subsection (c)(2)(B) of this section to require the submission of data when such data are necessary for a registration review.
-    - **(B)** For purposes of this subsection, the provisions of subsections (c)(1), (c)(2)(B), and (c)(2)(D) of this section shall be utilized for and be applicable to any data required for registration review.
+    - **(A)** The Administrator shall use the authority in subsection (c)(2)(B) to require the submission of data when such data are necessary for a registration review.
+    - **(B)** For purposes of this subsection, the provisions of subsections (c)(1), (c)(2)(B), and (c)(2)(D) shall be utilized for and be applicable to any data required for registration review.
 - **(h)**
   - **(1)** To the maximum extent practicable consistent with the degrees of risk presented by an antimicrobial pesticide and the type of review appropriate to evaluate the risks, the Administrator shall identify and evaluate reforms to the antimicrobial registration process that would reduce review periods existing as of August 3, 1996 , for antimicrobial pesticide product registration applications and applications for amended registration of antimicrobial pesticide products, including—
     - **(A)** new antimicrobial active ingredients;
@@ -178,7 +178,7 @@ status: "active"
         - **(II)** consider the establishment of a certification process by approved laboratories as an adjunct to the review process;
         - **(III)** use all appropriate and cost-effective review mechanisms, including—
         - **(IV)** clarify criteria for determination of the completeness of an application.
-    - **(C)** This subsection does not affect the requirements or extend the deadlines or review periods contained in subsection (c)(3) of this section.
+    - **(C)** This subsection does not affect the requirements or extend the deadlines or review periods contained in subsection (c)(3).
     - **(D)** If the final regulations to carry out this paragraph are not effective 630 days after August 3, 1996 , until the final regulations become effective, the review period, beginning on the date of receipt by the Agency of a complete application, shall be—
       - **(i)** 2 years for a new antimicrobial active ingredient pesticide registration;
       - **(ii)** 1 year for a new antimicrobial use of a registered active ingredient;
@@ -190,7 +190,7 @@ status: "active"
     - **(F)**
       - **(i)** Subject to clause (iii), the Administrator shall notify an applicant whether an application has been granted or denied not later than the final day of the appropriate review period under this paragraph, unless the applicant and the Administrator agree to a later date.
       - **(ii)** If the Administrator fails to notify an applicant within the period of time required under clause (i), the failure shall be considered an agency action unlawfully withheld or unreasonably delayed for purposes of judicial review under chapter 7 of title 5.
-      - **(iii)** This subparagraph does not apply to an application for an antimicrobial pesticide that is filed under subsection (c)(3)(B) of this section prior to 90 days after August 3, 1996 .
+      - **(iii)** This subparagraph does not apply to an application for an antimicrobial pesticide that is filed under subsection (c)(3)(B) prior to 90 days after August 3, 1996 .
       - **(iv)** Notwithstanding clause (ii), the failure of the Administrator to notify an applicant for an amendment to a registration for an antimicrobial pesticide shall not be judicially reviewable in a Federal or State court if the amendment requires scientific review of data within—
         - **(I)** the time period specified in subparagraph (D)(vi), in the absence of a final regulation under subparagraph (B); or
         - **(II)** the time period specified in paragraph (2)(F), if adopted in a final regulation under subparagraph (B).

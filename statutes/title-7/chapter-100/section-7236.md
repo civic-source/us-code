@@ -3,9 +3,9 @@ title: "Section 7236 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "7236"
 chapter: 100
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 7236"
-generated_at: "2026-03-30T04:07:57.570Z"
+generated_at: "2026-03-30T04:10:18.598Z"
 status: "active"
 ---
 
@@ -23,12 +23,12 @@ status: "active"
 - **(b)**
   - **(1)**
     - **(A)** The President shall carry out an import quota program during the period ending July 31, 2003 , as provided in this subsection.
-    - **(B)** Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 1 3 ⁄ 32 -inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a) of this section, exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
-    - **(C)** During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 1 3 ⁄ 32 -inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a) of this section.
+    - **(B)** Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 1 3 ⁄ 32 -inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a), exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
+    - **(C)** During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 1 3 ⁄ 32 -inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a).
     - **(D)** For the purposes of making estimates under subparagraph (C), the Secretary shall, on a monthly basis, estimate and report the season-ending United States upland cotton stocks-to-use ratio, excluding projected raw cotton imports but including the quantity of raw cotton that has been imported into the United States during the marketing year.
   - **(2)** The quota shall be equal to 1 week’s consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the most recent 3 months for which data are available.
   - **(3)** The quota shall apply to upland cotton purchased not later than 90 days after the date of the Secretary’s announcement under paragraph (1) and entered into the United States not later than 180 days after the date.
-  - **(4)** A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c) of this section.
+  - **(4)** A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c).
   - **(5)** The quantity under a special import quota shall be considered to be an in-quota quantity for purposes of—
     - **(A)** section 2703(d) of title 19 ;
     - **(B)** section 3203 of title 19 ;
@@ -55,4 +55,4 @@ status: "active"
         - **(II)** the larger of—
       - **(iii)** The term “limited global import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
     - **(E)** When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
-  - **(2)** Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b) of this section.
+  - **(2)** Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b).

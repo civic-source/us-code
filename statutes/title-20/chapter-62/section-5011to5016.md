@@ -3,9 +3,9 @@ title: "Section 5011to5016 - Repealed. Pub. L. 103–382, title III, § 391(i) ,
 usc_title: 20
 usc_section: "5011to5016"
 chapter: 62
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 5011to5016"
-generated_at: "2026-03-30T04:08:20.384Z"
+generated_at: "2026-03-30T04:10:46.625Z"
 status: "repealed"
 ---
 

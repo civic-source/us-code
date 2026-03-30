@@ -3,9 +3,9 @@ title: "Section 14616 - National Crime Prevention and Privacy Compact"
 usc_title: 42
 usc_section: "14616"
 chapter: 140
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 14616"
-generated_at: "2026-03-30T04:09:28.566Z"
+generated_at: "2026-03-30T04:11:47.132Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(10)** Direct access The term “direct access” means access to the National Identification Index by computer terminal or other automated means not requiring the assistance of or intervention by any other party or agency.
   - **(11)** Executive order The term “Executive order” means an order of the President of the United States or the chief executive officer of a State that has the force of law and that is promulgated in accordance with applicable law.
   - **(12)** FBI The term “FBI” means the Federal Bureau of Investigation.
-  - **(13)** Interstate Identification System The term “Interstate Identification Index System” or “III System”—
+  - **(13)** Interstate Identification System 1 1 So in original. Probably should be “Interstate Identification Index System”. The term “Interstate Identification Index System” or “III System”—
     - **(A)** means the cooperative Federal-State system for the exchange of criminal history records; and
     - **(B)** includes the National Identification Index, the National Fingerprint File and, to the extent of their participation in such system, the criminal history record repositories of the States and the FBI.
   - **(14)** National Fingerprint File The term “National Fingerprint File” means a database of fingerprints, or other uniquely personal identifying information, relating to an arrested or charged individual maintained by the FBI to provide positive identification of record subjects indexed in the III System.

@@ -3,9 +3,9 @@ title: "Section 1463 - Payments from the Fund"
 usc_title: 10
 usc_section: "1463"
 chapter: 74
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 1463"
-generated_at: "2026-03-30T04:08:01.873Z"
+generated_at: "2026-03-30T04:10:14.752Z"
 status: "active"
 ---
 

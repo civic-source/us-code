@@ -3,9 +3,9 @@ title: "Section 467f - Federal Food, Drug, and Cosmetic Act applications"
 usc_title: 21
 usc_section: "467f"
 chapter: 10
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "21 U.S.C. § 467f"
-generated_at: "2026-03-30T04:08:27.506Z"
+generated_at: "2026-03-30T04:10:57.047Z"
 status: "active"
 ---
 

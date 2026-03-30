@@ -3,9 +3,9 @@ title: "Section 19f - Board: membership, term of office, vacancies, Chairman, Se
 usc_title: 16
 usc_section: "19f"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 19f"
-generated_at: "2026-03-30T04:08:23.077Z"
+generated_at: "2026-03-30T04:10:52.713Z"
 status: "active"
 ---
 

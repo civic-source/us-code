@@ -3,9 +3,9 @@ title: "Section 1432 - Political affiliation and place of residence"
 usc_title: 2
 usc_section: "1432"
 chapter: 24
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1432"
-generated_at: "2026-03-30T04:07:47.909Z"
+generated_at: "2026-03-30T04:10:05.238Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** party affiliation;
   - **(2)** domicile; or
   - **(3)** political compatibility with the employing office;
-- **(b)** For purposes of subsection (a) of this section, the term “employee” means—
+- **(b)** For purposes of subsection (a), the term “employee” means—
   - **(1)** an employee on the staff of the leadership of the House of Representatives or the leadership of the Senate;
   - **(2)** an employee on the staff of a committee or subcommittee of—
     - **(A)** the House of Representatives;

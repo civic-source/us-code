@@ -3,9 +3,9 @@ title: "Section 1 - Amended compact"
 usc_title: 33
 usc_section: "1"
 chapter: 12
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T04:09:02.177Z"
+generated_at: "2026-03-30T04:11:17.332Z"
 status: "active"
 ---
 

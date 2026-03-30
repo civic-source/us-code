@@ -3,9 +3,9 @@ title: "Section 1523 - Definitions"
 usc_title: 21
 usc_section: "1523"
 chapter: 20
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "21 U.S.C. § 1523"
-generated_at: "2026-03-30T04:08:27.526Z"
+generated_at: "2026-03-30T04:10:57.066Z"
 status: "active"
 ---
 

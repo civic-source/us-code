@@ -3,9 +3,9 @@ title: "Section 1790d - Prompt corrective action"
 usc_title: 12
 usc_section: "1790d"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 1790d"
-generated_at: "2026-03-30T04:08:08.533Z"
+generated_at: "2026-03-30T04:10:40.691Z"
 status: "active"
 ---
 
@@ -37,13 +37,13 @@ status: "active"
   - **(1)** For purposes of this section the following definitions shall apply:
     - **(A)** An insured credit union is “well capitalized” if—
       - **(i)** it has a net worth ratio of not less than 7 percent; and
-      - **(ii)** it meets any applicable risk-based net worth requirement under subsection (d) of this section.
+      - **(ii)** it meets any applicable risk-based net worth requirement under subsection (d).
     - **(B)** An insured credit union is “adequately capitalized” if—
       - **(i)** it has a net worth ratio of not less than 6 percent; and
-      - **(ii)** it meets any applicable risk-based net worth requirement under subsection (d) of this section.
+      - **(ii)** it meets any applicable risk-based net worth requirement under subsection (d).
     - **(C)** An insured credit union is “undercapitalized” if—
       - **(i)** it has a net worth ratio of less than 6 percent; or
-      - **(ii)** it fails to meet any applicable risk-based net worth requirement under subsection (d) of this section.
+      - **(ii)** it fails to meet any applicable risk-based net worth requirement under subsection (d).
     - **(D)** An insured credit union is “significantly undercapitalized”—
       - **(i)** if it has a net worth ratio of less than 4 percent; or
       - **(ii)** if—
@@ -57,7 +57,7 @@ status: "active"
       - **(ii)** determines that the resulting net worth ratios are sufficient to carry out the purpose of this section.
     - **(C)** If the Board increases any net worth ratio under this paragraph, the Board shall give insured credit unions a reasonable period of time to meet the increased ratio.
 - **(d)**
-  - **(1)** The regulations required under subsection (b)(1) of this section shall include a risk-based net worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
+  - **(1)** The regulations required under subsection (b)(1) shall include a risk-based net worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
   - **(2)** The Board shall design the risk-based net worth requirement to take account of any material risks against which the net worth ratio required for an insured credit union to be adequately capitalized may not provide adequate protection.
 - **(e)**
   - **(1)** An insured credit union that is not well capitalized shall annually set aside as net worth an amount equal to not less than 0.4 percent of its total assets.

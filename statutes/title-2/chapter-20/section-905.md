@@ -3,9 +3,9 @@ title: "Section 905 - Exempt programs and activities"
 usc_title: 2
 usc_section: "905"
 chapter: 20
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 905"
-generated_at: "2026-03-30T04:07:47.897Z"
+generated_at: "2026-03-30T04:10:05.229Z"
 status: "active"
 ---
 
@@ -27,4 +27,4 @@ status: "active"
 - **(h)** The following programs shall be exempt from reduction under any order issued under this subchapter: Academic Competitiveness/Smart Grant Program (91–0205–0–1–502). Child Care Entitlement to States (75–1550–0–1–609). Child Enrollment Contingency Fund (75–5551–0–2–551). Child Nutrition Programs (with the exception of special milk programs) (12–3539–0–1–605). Children’s Health Insurance Fund (75–0515–0–1–551). Commodity Supplemental Food Program (12–3507–0–1–605). Contingency Fund (75–1522–0–1–609). Family Support Programs (75–1501–0–1–609). Federal Pell Grants under section 1070a of title 20 . Grants to States for Medicaid (75–0512–0–1–551). Payments for Foster Care and Permanency (75–1545–0–1–609). Supplemental Nutrition Assistance Program (12–3505–0–1–605). Supplemental Security Income Program (28–0406–0–1–609). Temporary Assistance for Needy Families (75–1552–0–1–609).
 - **(i)** The following programs shall be exempt from reduction under any order issued under this subchapter: GSE Preferred Stock Purchase Agreements (20–0125–0–1–371). Office of Financial Stability (20–0128–0–1–376). Special Inspector General for the Troubled Asset Relief Program (20–0133–0–1–376).
 - **(j)** Each of the following programs shall be exempt from any order under this subchapter to the extent that the budgetary resources of such programs are subject to obligation limitations in appropriations bills: Federal-Aid Highways (69–8083–0–7–401). Highway Traffic Safety Grants (69–8020–0–7–401). Operations and Research NHTSA and National Driver Register (69–8016–0–7–401). Motor Carrier Safety Operations and Programs (69–8159–0–7–401). Motor Carrier Safety Grants (69–8158–0–7–401). Formula and Bus Grants (69–8350–0–7–401). Grants-In-Aid for Airports (69–8106–0–7–402).
-- **(k)** For purposes of subsections (b), (g), and (h) of this section, each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
+- **(k)** For purposes of subsections (b), (g), and (h), each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.

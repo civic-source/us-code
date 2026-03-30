@@ -3,9 +3,9 @@ title: "Section 178b - Joint Commission on Research and Development of Critical 
 usc_title: 7
 usc_section: "178b"
 chapter: 8
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 178b"
-generated_at: "2026-03-30T04:07:57.372Z"
+generated_at: "2026-03-30T04:10:18.413Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** There is established a Joint Commission on Research and Development of Critical Agricultural Materials, hereinafter referred to as the Joint Commission. The function of the Joint Commission shall be to assist the Secretaries in carrying out the purposes of this subchapter.
 - **(b)** The Joint Commission shall consist of the following members: Three individuals designated by the Secretary of Agriculture from among the staff of the Department of Agriculture; three individuals designated by the Secretary of Commerce from among the staff of the Department of Commerce; a representative of the Bureau of Indian Affairs of the Department of the Interior; a representative of the National Science Foundation; a representative of the Department of State; a representative of the Department of Defense; and a representative of the Federal Emergency Management Agency. Each of the members of the Joint Commission shall be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
-- **(c)** The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b) of this section.
+- **(c)** The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b).
 - **(d)** The Secretaries may delegate to the Joint Commission one or more of their responsibilities under this subchapter, and transfer to the Joint Commission funds appropriated to carry out the purposes of this subchapter as they deem appropriate to achieve the purposes of this subchapter, and the Joint Commission is authorized to carry out such functions and expend such funds to achieve the purposes of the subchapter.
 - **(e)** The Joint Commission shall—
   - **(1)** develop a plan establishing goals, timetables, and tasks to be undertaken in carrying out the purposes of this subchapter;

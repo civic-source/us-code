@@ -3,9 +3,9 @@ title: "Section 8011 - Organization"
 usc_title: 10
 usc_section: "8011"
 chapter: 803
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 8011"
-generated_at: "2026-03-30T04:08:01.980Z"
+generated_at: "2026-03-30T04:10:14.850Z"
 status: "active"
 ---
 

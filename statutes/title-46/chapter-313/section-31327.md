@@ -3,9 +3,9 @@ title: "Section 31327 - Forfeiture of mortgagee interest"
 usc_title: 46
 usc_section: "31327"
 chapter: 313
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "46 U.S.C. § 31327"
-generated_at: "2026-03-30T04:09:32.298Z"
+generated_at: "2026-03-30T04:11:51.240Z"
 status: "active"
 ---
 

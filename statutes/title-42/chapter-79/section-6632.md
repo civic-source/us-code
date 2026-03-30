@@ -3,9 +3,9 @@ title: "Section 6632 - Membership of Committee"
 usc_title: 42
 usc_section: "6632"
 chapter: 79
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 6632"
-generated_at: "2026-03-30T04:09:28.325Z"
+generated_at: "2026-03-30T04:11:46.894Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22 - Grants for technical assistance and training"
 usc_title: 42
 usc_section: "22"
 chapter: 72
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T04:09:28.292Z"
+generated_at: "2026-03-30T04:11:46.862Z"
 status: "active"
 ---
 

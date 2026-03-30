@@ -3,9 +3,9 @@ title: "Section 470h - Historic Preservation Fund; establishment; appropriations
 usc_title: 16
 usc_section: "470h"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 470h"
-generated_at: "2026-03-30T04:08:23.192Z"
+generated_at: "2026-03-30T04:10:52.834Z"
 status: "active"
 ---
 

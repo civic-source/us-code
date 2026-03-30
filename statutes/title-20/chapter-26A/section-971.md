@@ -3,9 +3,9 @@ title: "Section 971 - Agreements to indemnify against loss or damage"
 usc_title: 20
 usc_section: "971"
 chapter: 26
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 971"
-generated_at: "2026-03-30T04:08:20.270Z"
+generated_at: "2026-03-30T04:10:46.513Z"
 status: "active"
 ---
 

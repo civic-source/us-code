@@ -3,9 +3,9 @@ title: "Section 9533 - Duties"
 usc_title: 20
 usc_section: "9533"
 chapter: 76
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 9533"
-generated_at: "2026-03-30T04:08:20.452Z"
+generated_at: "2026-03-30T04:10:46.691Z"
 status: "active"
 ---
 

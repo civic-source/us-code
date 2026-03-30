@@ -3,9 +3,9 @@ title: "Section 790d - Repealed. Pub. L. 104–66, title I, § 1051(k) , Dec. 21
 usc_title: 15
 usc_section: "790d"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 790d"
-generated_at: "2026-03-30T04:08:11.128Z"
+generated_at: "2026-03-30T04:10:29.951Z"
 status: "repealed"
 ---
 

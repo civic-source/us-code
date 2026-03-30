@@ -3,16 +3,16 @@ title: "Section 6711 - Carbon cycle research"
 usc_title: 7
 usc_section: "6711"
 chapter: 96
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 6711"
-generated_at: "2026-03-30T04:07:57.558Z"
+generated_at: "2026-03-30T04:10:18.587Z"
 status: "active"
 ---
 
 # § 6711. Carbon cycle research
 
-- **(a)** To the extent funds are made available for this purpose, the Secretary shall provide a grant to the Consortium for Agricultural Soils Mitigation of Greenhouse Gases, acting through Kansas State University, to develop, analyze, and implement, through the land grant universities described in subsection (b) of this section, carbon cycle research at the national, regional, and local levels.
-- **(b)** The land grant universities referred to in subsection (a) of this section are the following:
+- **(a)** To the extent funds are made available for this purpose, the Secretary shall provide a grant to the Consortium for Agricultural Soils Mitigation of Greenhouse Gases, acting through Kansas State University, to develop, analyze, and implement, through the land grant universities described in subsection (b), carbon cycle research at the national, regional, and local levels.
+- **(b)** The land grant universities referred to in subsection (a) are the following:
   - **(1)** Colorado State University.
   - **(2)** Iowa State University.
   - **(3)** Kansas State University.
@@ -22,7 +22,7 @@ status: "active"
   - **(7)** Ohio State University.
   - **(8)** Texas A&M University.
   - **(9)** University of Nebraska.
-- **(c)** Land grant universities described in subsection (b) of this section shall use funds made available under this section—
+- **(c)** Land grant universities described in subsection (b) shall use funds made available under this section—
   - **(1)** to conduct research to improve the scientific basis of using land management practices to increase soil carbon sequestration, including research on the use of new technologies to increase carbon cycle effectiveness, such as biotechnology and nanotechnology;
   - **(2)** to enter into partnerships to identify, develop, and evaluate agricultural best practices, including partnerships between—
     - **(A)** Federal, State, or private entities; and

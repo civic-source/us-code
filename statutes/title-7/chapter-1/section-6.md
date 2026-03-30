@@ -3,9 +3,9 @@ title: "Section 6 - Regulation of futures trading and foreign transactions"
 usc_title: 7
 usc_section: "6"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-30T04:07:57.331Z"
+generated_at: "2026-03-30T04:10:18.376Z"
 status: "active"
 ---
 
@@ -36,14 +36,14 @@ status: "active"
       - **(i)** requires Commission approval of any contract, rule, regulation, or action of any foreign board of trade, exchange, or market, or clearinghouse for such board of trade, exchange, or market; or
       - **(ii)** governs in any way any rule or contract term or action of any foreign board of trade, exchange, or market, or clearinghouse for such board of trade, exchange, or market.
 - **(c)**
-  - **(1)** In order to promote responsible economic or financial innovation and fair competition, the Commission by rule, regulation, or order, after notice and opportunity for hearing, may (on its own initiative or on application of any person, including any board of trade designated or registered as a contract market or derivatives transaction execution facility for transactions for future delivery in any commodity under section 7 of this title ) exempt any agreement, contract, or transaction (or class thereof) that is otherwise subject to subsection (a) of this section (including any person or class of persons offering, entering into, rendering advice or rendering other services with respect to, the agreement, contract, or transaction), either unconditionally or on stated terms or conditions or for stated periods and either retroactively or prospectively, or both, from any of the requirements of subsection (a) of this section, or from any other provision of this chapter (except subparagraphs (C)(ii) and (D) of section 2(a)(1) of this title , 2 2 So in original. A closing parenthesis probably should precede the comma. except that—
+  - **(1)** In order to promote responsible economic or financial innovation and fair competition, the Commission by rule, regulation, or order, after notice and opportunity for hearing, may (on its own initiative or on application of any person, including any board of trade designated or registered as a contract market or derivatives transaction execution facility for transactions for future delivery in any commodity under section 7 of this title ) exempt any agreement, contract, or transaction (or class thereof) that is otherwise subject to subsection (a) (including any person or class of persons offering, entering into, rendering advice or rendering other services with respect to, the agreement, contract, or transaction), either unconditionally or on stated terms or conditions or for stated periods and either retroactively or prospectively, or both, from any of the requirements of subsection (a), or from any other provision of this chapter (except subparagraphs (C)(ii) and (D) of section 2(a)(1) of this title , 2 2 So in original. A closing parenthesis probably should precede the comma. except that—
     - **(A)** unless the Commission is expressly authorized by any provision described in this subparagraph to grant exemptions, with respect to amendments made by subtitle A of the Wall Street Transparency and Accountability Act of 2010—
       - **(i)** with respect to—
         - **(I)** paragraphs (2), (3), (4), (5), and (7), paragraph (18)(A)(vii)(III), paragraphs (23), (24), (31), (32), (38), (39), (41), (42), (46), (47), (48), and (49) of section 1a of this title , and sections 2(a)(13), 2(c)(1)(D), 6a(a), 6a(b), 6d(c), 6d(d), 6r, 6s, 7a–1(a), 7a–1(b), 7(d), 7(g), 7(h), 3 3 So in original. Section 7 of this title does not contain subsecs. (g) and (h). 7a–1(c), 7a–1(i), 12(e), 4 4 See References in Text note below. and 24a of this title; and
         - **(II)** section 206(e) 5 5 So in original. Section 206 of the Act does not contain a subsec. (e). of the Gramm-Leach-Bliley Act ( Public Law 106–102 ; 15 U.S.C. 78c note); and
       - **(ii)** in sections 721(c) and 742 of the Dodd-Frank Wall Street Reform and Consumer Protection Act; and
     - **(B)** the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title ) 6 6 So in original. The closing parenthesis probably should not appear. if the Commissions determine that the exemption would be consistent with the public interest.
-  - **(2)** The Commission shall not grant any exemption under paragraph (1) from any of the requirements of subsection (a) of this section unless the Commission determines that—
+  - **(2)** The Commission shall not grant any exemption under paragraph (1) from any of the requirements of subsection (a) unless the Commission determines that—
     - **(A)** the requirement should not be applied to the agreement, contract, or transaction for which the exemption is sought and that the exemption would be consistent with the public interest and the purposes of this chapter; and
     - **(B)** the agreement, contract, or transaction—
       - **(i)** will be entered into solely between appropriate persons; and

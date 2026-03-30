@@ -3,9 +3,9 @@ title: "Section 11707 - Administration of grants and contracts"
 usc_title: 42
 usc_section: "11707"
 chapter: 122
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 11707"
-generated_at: "2026-03-30T04:09:28.490Z"
+generated_at: "2026-03-30T04:11:47.057Z"
 status: "active"
 ---
 

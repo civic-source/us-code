@@ -3,9 +3,9 @@ title: "Section 1531 - Regulatory process"
 usc_title: 2
 usc_section: "1531"
 chapter: 25
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1531"
-generated_at: "2026-03-30T04:07:47.909Z"
+generated_at: "2026-03-30T04:10:05.239Z"
 status: "active"
 ---
 

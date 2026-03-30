@@ -3,9 +3,9 @@ title: "Section 6775 - Ready-to-Learn Television"
 usc_title: 20
 usc_section: "6775"
 chapter: 70
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 6775"
-generated_at: "2026-03-30T04:08:20.412Z"
+generated_at: "2026-03-30T04:10:46.652Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(D)** A capacity to localize programming and materials to meet specific State and local needs and to provide educational outreach at the local level.
   - **(4)** An entity receiving a grant, contract, or cooperative agreement under this section shall consult with the Secretary and the Secretary of Health and Human Services—
     - **(A)** to maximize the utilization of quality educational programming by preschool and elementary school children, and make such programming widely available to federally funded programs serving such populations; and
-    - **(B)** to coordinate activities with Federal programs that have major training components for early childhood development, including programs under the Head Start Act ( 42 U.S.C. 9831 et seq.) and Even Start, and State training activities funded under the Child Care and Development Block Grant Act of 1990 ( 42 U.S.C. 9858 et seq.), regarding the availability and utilization of materials developed under paragraph (1)(E) to enhance parent and child care provider skills in early childhood development and education.
+    - **(B)** to coordinate activities with Federal programs that have major training components for early childhood development, including programs under the Head Start Act ( 42 U.S.C. 9831 et seq.) and Even Start, and State training activities funded under the Child Care and Development Block Grant Act of 1990 [ 42 U.S.C. 9857 et seq.], regarding the availability and utilization of materials developed under paragraph (1)(E) to enhance parent and child care provider skills in early childhood development and education.
 - **(b)** To be eligible to receive a grant, contract, or cooperative agreement under subsection (a) of this section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
 - **(c)**
   - **(1)** An entity receiving a grant, contract, or cooperative agreement under this section shall prepare and submit to the Secretary an annual report that contains such information as the Secretary may require. At a minimum, the report shall describe the program activities undertaken with funds received under the grant, contract, or cooperative agreement, including each of the following:

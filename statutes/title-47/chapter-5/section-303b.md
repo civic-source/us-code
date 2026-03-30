@@ -3,9 +3,9 @@ title: "Section 303b - Consideration of children’s television service in broad
 usc_title: 47
 usc_section: "303b"
 chapter: 5
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "47 U.S.C. § 303b"
-generated_at: "2026-03-30T04:09:33.703Z"
+generated_at: "2026-03-30T04:11:51.761Z"
 status: "active"
 ---
 

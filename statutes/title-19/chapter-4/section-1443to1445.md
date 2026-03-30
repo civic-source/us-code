@@ -3,9 +3,9 @@ title: "Section 1443to1445 - Repealed. Pub. L. 103–182, title VI, § 690(b)(6)
 usc_title: 19
 usc_section: "1443to1445"
 chapter: 4
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "19 U.S.C. § 1443to1445"
-generated_at: "2026-03-30T04:08:16.553Z"
+generated_at: "2026-03-30T04:10:49.778Z"
 status: "repealed"
 ---
 

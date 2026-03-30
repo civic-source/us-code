@@ -3,9 +3,9 @@ title: "Section 3004 - Direct marketing assistance within the States"
 usc_title: 7
 usc_section: "3004"
 chapter: 63
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 3004"
-generated_at: "2026-03-30T04:07:57.511Z"
+generated_at: "2026-03-30T04:10:18.546Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 808 - New licenses and renewals"
 usc_title: 16
 usc_section: "808"
 chapter: 12
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 808"
-generated_at: "2026-03-30T04:08:23.247Z"
+generated_at: "2026-03-30T04:10:52.890Z"
 status: "active"
 ---
 

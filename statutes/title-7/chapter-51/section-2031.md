@@ -3,18 +3,18 @@ title: "Section 2031 - Minnesota Family Investment Project"
 usc_title: 7
 usc_section: "2031"
 chapter: 51
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2031"
-generated_at: "2026-03-30T04:07:57.493Z"
+generated_at: "2026-03-30T04:10:18.528Z"
 status: "active"
 ---
 
 # § 2031. Minnesota Family Investment Project
 
 - **(a)**
-  - **(1)** Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws of Minnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d) of this section, the State may implement a family investment demonstration project (hereinafter in this section referred to as the “Project”) in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the supplemental nutrition assistance program and programs under parts A and F 1 1 See References in Text note below. of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.]. The State may provide cash payments under the Project, subject to paragraph (2), that replace assistance otherwise available under the supplemental nutrition assistance program and under part A of title IV of the Social Security Act.
+  - **(1)** Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws of Minnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d), the State may implement a family investment demonstration project (hereinafter in this section referred to as the “Project”) in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the supplemental nutrition assistance program and programs under parts A and F 1 1 See References in Text note below. of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.]. The State may provide cash payments under the Project, subject to paragraph (2), that replace assistance otherwise available under the supplemental nutrition assistance program and under part A of title IV of the Social Security Act.
   - **(2)** The Project may be implemented only in accordance with this section and only if the Secretary of Health and Human Services approves an application submitted by the State permitting the State to include in the Project families who are eligible to receive benefits under part A of title IV of the Social Security Act.
-- **(b)** The application submitted by the State under subsection (a) of this section shall provide an assurance that the Project shall satisfy all of the following requirements:
+- **(b)** The application submitted by the State under subsection (a) shall provide an assurance that the Project shall satisfy all of the following requirements:
   - **(1)** Only families may be eligible to receive assistance and services through the Project.
   - **(2)** Participating families, families eligible for or participating in the program authorized under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] or the supplemental nutrition assistance program that are assigned to and found eligible for the Project, and families required to submit an application for the Project that are found eligible for the Project shall be ineligible to receive benefits under the supplemental nutrition assistance program.
   - **(3)**
@@ -81,18 +81,18 @@ status: "active"
   - **(2)** The State shall not require any parent of a child under six years of age in a participating family with only one parent to be employed or participate in education or employment and training services for more than twenty hours a week.
   - **(3)** For any period during which an individual required to participate in education, employment, or training requirements fails to comply without good cause with a requirement imposed by the State under paragraph (1), the amount of assistance to the family under the Project may be reduced by an amount not more than 10 percent of the assistance the family would be eligible for with no income other than that from the Project.
 - **(d)**
-  - **(1)** If an application submitted under subsection (a) of this section complies with the requirements specified in subsection (b) of this section, then the Secretary shall—
+  - **(1)** If an application submitted under subsection (a) complies with the requirements specified in subsection (b), then the Secretary shall—
     - **(A)** approve such application; and
-    - **(B)** subject to subsection (b)(12) of this section from the funds appropriated under this chapter provide grant awards and pay the State each calendar quarter for—
+    - **(B)** subject to subsection (b)(12) from the funds appropriated under this chapter provide grant awards and pay the State each calendar quarter for—
       - **(i)** the cost of food assistance provided under the Project equal to the amount that would have otherwise been issued in the form of benefits under the supplemental nutrition assistance program had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State; and
       - **(ii)** the administrative costs incurred by the State to provide food assistance under the Project that are authorized under subsections (a), (g), (h)(2), and (h)(3) of section 2025 of this title equal to the amount that otherwise would have been paid under such subsections had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State: Provided , That payments made under subsection (g) of section 2025 of this title shall equal payments that would have been made if the Project had not been implemented.
   - **(2)** The Secretary shall periodically adjust payments made to the State under paragraph (1) to reflect—
-    - **(A)** the cost of benefits issued to individuals ineligible for the Project specified in subsection (b)(3)(E) of this section in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State; and
-    - **(B)** the cost of benefits issued to families exercising the option specified in subsection (b)(3)(D)(iii) of this section in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State.
+    - **(A)** the cost of benefits issued to individuals ineligible for the Project specified in subsection (b)(3)(E) in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State; and
+    - **(B)** the cost of benefits issued to families exercising the option specified in subsection (b)(3)(D)(iii) in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State.
   - **(3)** Payments under paragraph (1)(B) shall include adjustments, as estimated under a methodology satisfactory to the Secretary after negotiations with the State, for increases or decreases in the costs of providing food assistance and associated administrative costs that result from changes in economic, demographic, or other conditions in the State based on data specific to the State, changes in eligibility or benefit levels authorized by this chapter, and changes in or additional amounts of Federal funds available to States and localities under the supplemental nutrition assistance program.
 - **(e)** With respect to the Project, the Secretary shall waive compliance with any requirement contained in this chapter (other than this section) that, if applied, would prevent the State from carrying out the Project or effectively achieving its purpose.
 - **(f)** The Comptroller General of the United States shall—
-  - **(1)** conduct periodic audits of the operation of the Project to verify the amounts payable to the State from time to time under subsection (d) of this section; and
+  - **(1)** conduct periodic audits of the operation of the Project to verify the amounts payable to the State from time to time under subsection (d); and
   - **(2)** submit to the Secretary, the Secretary of Health and Human Services, the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of each such audit.
 - **(g)**
   - **(1)** For purposes of any Federal, State, or local law other than part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] or this chapter—

@@ -3,9 +3,9 @@ title: "Section 4027b - Assessment of claims-paying ability"
 usc_title: 42
 usc_section: "4027b"
 chapter: 50
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 4027b"
-generated_at: "2026-03-30T04:09:28.244Z"
+generated_at: "2026-03-30T04:11:46.818Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2022 - Disposition of claims"
 usc_title: 7
 usc_section: "2022"
 chapter: 51
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2022"
-generated_at: "2026-03-30T04:07:57.486Z"
+generated_at: "2026-03-30T04:10:18.524Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
 - **(b)**
   - **(1)** Except as otherwise provided in this subsection, a State agency shall collect any overissuance of benefits issued to a household by—
     - **(A)** reducing the allotment of the household;
-    - **(B)** withholding amounts from unemployment compensation from a member of the household under subsection (c) of this section;
-    - **(C)** recovering from Federal pay or a Federal income tax refund under subsection (d) of this section; or
+    - **(B)** withholding amounts from unemployment compensation from a member of the household under subsection (c);
+    - **(C)** recovering from Federal pay or a Federal income tax refund under subsection (d); or
     - **(D)** any other means.
   - **(2)** Paragraph (1) shall not apply if the State agency demonstrates to the satisfaction of the Secretary that all of the means referred to in paragraph (1) are not cost effective.
   - **(3)** If a household received an overissuance of benefits without any member of the household being found ineligible to participate in the program under section 2015(b)(1) of this title and a State agency elects to reduce the allotment of the household under paragraph (1)(A), the State agency shall not reduce the monthly allotment of the household under paragraph (1)(A) by an amount in excess of the greater of—
@@ -44,11 +44,11 @@ status: "active"
         - **(II)** During the period of time determined by the Secretary to be reasonable under subclause (I), interest in the amount owed shall not accrue.
       - **(vii)** Any liability amount established under section 2025(c)(1)(C) of this title shall be reduced by the amount of the claim established under this subparagraph.
 - **(c)**
-  - **(1)** As used in this subsection, the term “uncollected overissuance” means the amount of an overissuance of benefits, as determined under subsection (b)(1) of this section, that has not been recovered pursuant to subsection (b)(1) of this section.
+  - **(1)** As used in this subsection, the term “uncollected overissuance” means the amount of an overissuance of benefits, as determined under subsection (b)(1), that has not been recovered pursuant to subsection (b)(1).
   - **(2)** A State agency may determine on a periodic basis, from information supplied pursuant to section 49b(b) of title 29 , whether an individual receiving compensation under the State’s unemployment compensation law (including amounts payable pursuant to an agreement under a Federal unemployment compensation law) owes an uncollected overissuance.
   - **(3)** A State agency may recover an uncollected overissuance—
     - **(A)** by—
       - **(i)** entering into an agreement with an individual described in paragraph (2) under which specified amounts will be withheld from unemployment compensation otherwise payable to the individual; and
       - **(ii)** furnishing a copy of the agreement to the State agency administering the unemployment compensation law; or
     - **(B)** in the absence of an agreement, by obtaining a writ, order, summons, or other similar process in the nature of garnishment from a court of competent jurisdiction to require the withholding of amounts from the unemployment compensation.
-- **(d)** The amount of an overissuance of benefits, as determined under subsection (b)(1) of this section, that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31 .
+- **(d)** The amount of an overissuance of benefits, as determined under subsection (b)(1), that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31 .

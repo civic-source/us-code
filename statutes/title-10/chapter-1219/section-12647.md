@@ -3,9 +3,9 @@ title: "Section 12647 - Commissioned officers: retention in active status while 
 usc_title: 10
 usc_section: "12647"
 chapter: 1219
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 12647"
-generated_at: "2026-03-30T04:08:02.002Z"
+generated_at: "2026-03-30T04:10:14.868Z"
 status: "active"
 ---
 

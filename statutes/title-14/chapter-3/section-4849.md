@@ -3,9 +3,9 @@ title: "Section 4849 - Repealed. Pub. L. 86–474, § 1(7) , May 14, 1960 , 74 S
 usc_title: 14
 usc_section: "4849"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "14 U.S.C. § 4849"
-generated_at: "2026-03-30T04:08:04.321Z"
+generated_at: "2026-03-30T04:10:25.743Z"
 status: "repealed"
 ---
 

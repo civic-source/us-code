@@ -3,9 +3,9 @@ title: "Section 7573 - Quarters: temporary; transient members"
 usc_title: 10
 usc_section: "7573"
 chapter: 649
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 7573"
-generated_at: "2026-03-30T04:08:01.978Z"
+generated_at: "2026-03-30T04:10:14.847Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20156 - Railroad safety risk reduction program"
 usc_title: 49
 usc_section: "20156"
 chapter: 201
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "49 U.S.C. § 20156"
-generated_at: "2026-03-30T04:09:40.099Z"
+generated_at: "2026-03-30T04:11:57.113Z"
 status: "active"
 ---
 

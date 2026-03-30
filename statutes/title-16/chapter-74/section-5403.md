@@ -3,9 +3,9 @@ title: "Section 5403 - National Maritime Heritage Grants Program"
 usc_title: 16
 usc_section: "5403"
 chapter: 74
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 5403"
-generated_at: "2026-03-30T04:08:23.369Z"
+generated_at: "2026-03-30T04:10:53.013Z"
 status: "active"
 ---
 

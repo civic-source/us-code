@@ -3,9 +3,9 @@ title: "Section 1644m - Applicability of administrative provisions of subchapter
 usc_title: 22
 usc_section: "1644m"
 chapter: 21
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 1644m"
-generated_at: "2026-03-30T04:08:31.732Z"
+generated_at: "2026-03-30T04:11:00.322Z"
 status: "active"
 ---
 

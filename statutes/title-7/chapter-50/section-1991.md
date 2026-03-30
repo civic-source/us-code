@@ -3,9 +3,9 @@ title: "Section 1991 - Definitions"
 usc_title: 7
 usc_section: "1991"
 chapter: 50
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1991"
-generated_at: "2026-03-30T04:07:57.467Z"
+generated_at: "2026-03-30T04:10:18.498Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
         - **(I)** in the case of a loan made to an individual, individually or with the immediate family of the applicant, will—
         - **(II)**
     - **(E)** who agrees to participate in such loan assessment, borrower training, and financial management programs as the Secretary may require;
-    - **(F)** who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the average acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
+    - **(F)** who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the average acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II; and
     - **(G)** who demonstrates that the available resources of the applicant and spouse (if any) of the applicant are not sufficient to enable the applicant to continue farming or ranching on a viable scale.
   - **(12)**
     - **(A)** Except as provided in subparagraph (B), the term “debt forgiveness” means reducing or terminating a farmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—

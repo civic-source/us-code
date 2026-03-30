@@ -3,9 +3,9 @@ title: "Section 872 - Gross income"
 usc_title: 26
 usc_section: "872"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 872"
-generated_at: "2026-03-30T04:08:50.016Z"
+generated_at: "2026-03-30T04:11:13.742Z"
 status: "active"
 ---
 

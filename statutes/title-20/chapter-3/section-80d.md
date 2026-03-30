@@ -3,9 +3,9 @@ title: "Section 80d - Authorization of appropriations"
 usc_title: 20
 usc_section: "80d"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 80d"
-generated_at: "2026-03-30T04:08:20.258Z"
+generated_at: "2026-03-30T04:10:46.501Z"
 status: "active"
 ---
 

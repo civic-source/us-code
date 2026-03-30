@@ -3,9 +3,9 @@ title: "Section 831m - Allocation and charge of value and cost of plants to part
 usc_title: 16
 usc_section: "831m"
 chapter: 12
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 831m"
-generated_at: "2026-03-30T04:08:23.256Z"
+generated_at: "2026-03-30T04:10:52.900Z"
 status: "active"
 ---
 

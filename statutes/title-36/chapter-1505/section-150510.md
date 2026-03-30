@@ -3,9 +3,9 @@ title: "Section 150510 - Records and inspection"
 usc_title: 36
 usc_section: "150510"
 chapter: 1505
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "36 U.S.C. § 150510"
-generated_at: "2026-03-30T04:09:05.434Z"
+generated_at: "2026-03-30T04:11:21.159Z"
 status: "active"
 ---
 

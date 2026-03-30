@@ -3,9 +3,9 @@ title: "Section 9858m - Amounts reserved; allotments"
 usc_title: 42
 usc_section: "9858m"
 chapter: 105
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 9858m"
-generated_at: "2026-03-30T04:09:28.454Z"
+generated_at: "2026-03-30T04:11:47.020Z"
 status: "active"
 ---
 
@@ -13,7 +13,14 @@ status: "active"
 
 - **(a)**
   - **(1)** The Secretary shall reserve not to exceed one half of 1 percent of the amount appropriated under this subchapter in each fiscal year for payments to Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands to be allotted in accordance with their respective needs.
-  - **(2)** The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+  - **(2)**
+    - **(A)** The Secretary shall reserve not less than 2 percent of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+    - **(B)** Notwithstanding subparagraph (A), the Secretary shall only reserve an amount that is greater than 2 percent of the amount appropriated under section 9858 of this title , for payments described in subparagraph (A), for a fiscal year (referred to in this subparagraph as the “reservation year”) if—
+      - **(i)** the amount appropriated under section 9858 of this title for the reservation year is greater than the amount appropriated under section 9858 of this title for fiscal year 2014; and
+      - **(ii)** the Secretary ensures that the amount allotted to States under subsection (b) for the reservation year is not less than the amount allotted to States under subsection (b) for fiscal year 2014.
+  - **(3)** The Secretary shall reserve up to $1,500,000 of the amount appropriated under this subchapter for each fiscal year for the operation of a national toll-free hotline and Web site, under section 9858j(b) of this title .
+  - **(4)** The Secretary shall reserve up to ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to support technical assistance and dissemination activities under paragraphs (3) and (4) of section 9858g(a) of this title .
+  - **(5)** The Secretary may reserve ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the program described by this subchapter on increasing access to child care services and improving the safety and quality of child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis.
 - **(b)**
   - **(1)** From the amounts appropriated under section 9858 of this title for each fiscal year remaining after reservations under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
     - **(A)** an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
@@ -35,6 +42,7 @@ status: "active"
     - **(A)** The applicant will coordinate, to the maximum extent feasible, with the lead agency in the State or States in which the applicant will carry out programs or activities under this section.
     - **(B)** In the case of an applicant located in a State other than Alaska, California, or Oklahoma, programs and activities under this section will be carried out on the Indian reservation for the benefit of Indian children.
     - **(C)** The applicant will make such reports on, and conduct such audits of, programs and activities under a grant or contract under this section as the Secretary may require.
+    - **(D)** In lieu of any licensing and regulatory requirements applicable under State or local law, the Secretary, in consultation with Indian tribes and tribal organizations, shall develop minimum child care standards that shall be applicable to Indian tribes and tribal organizations receiving assistance under this subchapter. Such standards shall appropriately reflect Indian tribe and tribal organization needs and available resources, and shall include standards requiring a publicly available application, health and safety standards, and standards requiring a reservation of funds for activities to improve the quality of child care services provided to Indian children.
   - **(3)** In determining whether to approve an application for a grant or contract under this section, the Secretary shall take into consideration—
     - **(A)** the availability of child care services provided in accordance with this subchapter by the State or States in which the applicant proposes to carry out a program to provide child care services; and
     - **(B)** whether the applicant has the ability (including skills, personnel, resources, community support, and other necessary components) to satisfactorily carry out the proposed program or activity.
@@ -43,7 +51,11 @@ status: "active"
   - **(6)**
     - **(A)** An Indian tribe or tribal organization may submit to the Secretary a request to use amounts provided under this subsection for construction or renovation purposes.
     - **(B)** With respect to a request submitted under subparagraph (A), and except as provided in subparagraph (C), upon a determination by the Secretary that adequate facilities are not otherwise available to an Indian tribe or tribal organization to enable such tribe or organization to carry out child care programs in accordance with this subchapter, and that the lack of such facilities will inhibit the operation of such programs in the future, the Secretary may permit the tribe or organization to use assistance provided under this subsection to make payments for the construction or renovation of facilities that will be used to carry out such programs.
-    - **(C)** The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
+    - **(C)**
+      - **(i)** Except as provided in clause (ii), the Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if the use will result in a decrease in the level of child care services provided by the Indian tribe or tribal organization as compared to the level of child care services provided by the Indian tribe or tribal organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
+      - **(ii)** The Secretary shall waive the limitation described in clause (i) if—
+        - **(I)** the Secretary determines that the decrease in the level of child care services provided by the Indian tribe or tribal organization is temporary; and
+        - **(II)** the Indian tribe or tribal organization submits to the Secretary a plan that demonstrates that after the date on which the construction or renovation is completed—
     - **(D)** The Secretary shall develop and implement uniform procedures for the solicitation and consideration of requests under this paragraph.
 - **(d)** The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b) of this section.
 - **(e)**

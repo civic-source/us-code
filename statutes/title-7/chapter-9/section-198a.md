@@ -3,17 +3,17 @@ title: "Section 198a - Swine packer marketing contracts offered to producers"
 usc_title: 7
 usc_section: "198a"
 chapter: 9
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 198a"
-generated_at: "2026-03-30T04:07:57.376Z"
+generated_at: "2026-03-30T04:10:18.414Z"
 status: "active"
 ---
 
 # § 198a. Swine packer marketing contracts offered to producers
 
 - **(a)** Subject to the availability of appropriations to carry out this section, the Secretary shall establish and maintain a library or catalog of each type of contract offered by packers to swine producers for the purchase of all or part of the producers’ production of swine (including swine that are purchased or committed for delivery), including all available noncarcass merit premiums.
-- **(b)** The Secretary shall make available to swine producers and other interested persons information on the types of contracts described in subsection (a) of this section, including notice (on a real-time basis if practicable) of the types of contracts that are being offered by each individual packer to, and are open to acceptance by, producers for the purchase of swine.
-- **(c)** The reporting requirements under subsections (a) and (b) of this section shall be subject to the confidentiality protections provided under section 1636 of this title .
+- **(b)** The Secretary shall make available to swine producers and other interested persons information on the types of contracts described in subsection (a), including notice (on a real-time basis if practicable) of the types of contracts that are being offered by each individual packer to, and are open to acceptance by, producers for the purchase of swine.
+- **(c)** The reporting requirements under subsections (a) and (b) shall be subject to the confidentiality protections provided under section 1636 of this title .
 - **(d)**
   - **(1)** The Secretary shall—
     - **(A)** obtain (by a filing or other procedure required of each individual packer) information indicating what types of contracts for the purchase of swine are available from each packer; and

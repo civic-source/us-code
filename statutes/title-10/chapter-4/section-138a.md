@@ -3,9 +3,9 @@ title: "Section 138a - Assistant Secretary of Defense for Logistics and Materiel
 usc_title: 10
 usc_section: "138a"
 chapter: 4
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 138a"
-generated_at: "2026-03-30T04:08:01.804Z"
+generated_at: "2026-03-30T04:10:14.685Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7518 - Tax incentives relating to merchant marine capital constr
 usc_title: 26
 usc_section: "7518"
 chapter: 77
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 7518"
-generated_at: "2026-03-30T04:08:50.173Z"
+generated_at: "2026-03-30T04:11:13.902Z"
 status: "active"
 ---
 
@@ -87,7 +87,7 @@ status: "active"
     - **(A)** made in a taxable year beginning in 1970 or 1971 is 8 percent, or
     - **(B)** made in a taxable year beginning after 1971, shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
   - **(5)**
-    - **(A)** The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table: If the amount remains in the fund The applicable at the close of the— percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
+    - **(A)** The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table: If the amount remains in the fund at the close of the— The applicable percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
     - **(B)** The earnings of any capital construction fund for any taxable year (other than net gains) shall be treated for purposes of this paragraph as an amount deposited for such taxable year.
     - **(C)** For purposes of subparagraph (A), an amount shall not be treated as remaining in a capital construction fund at the close of any taxable year to the extent there is a binding contract at the close of such year for a qualified withdrawal of such amount with respect to an identified item for which such withdrawal may be made.
     - **(D)** If the Secretary determines that the balance in any capital construction fund exceeds the amount which is appropriate to meet the vessel construction program objectives of the person who established such fund, the amount of such excess shall be treated as a nonqualified withdrawal under subparagraph (A) unless such person develops appropriate program objectives within 3 years to dissipate such excess.

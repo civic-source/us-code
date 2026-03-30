@@ -3,9 +3,9 @@ title: "Section 1593e - Housing of persons displaced by acquisition of property 
 usc_title: 42
 usc_section: "1593e"
 chapter: 9
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 1593e"
-generated_at: "2026-03-30T04:09:28.118Z"
+generated_at: "2026-03-30T04:11:46.700Z"
 status: "active"
 ---
 

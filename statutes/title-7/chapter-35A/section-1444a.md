@@ -3,16 +3,16 @@ title: "Section 1444a - Corn and feed grains and cotton programs"
 usc_title: 7
 usc_section: "1444a"
 chapter: 35
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1444a"
-generated_at: "2026-03-30T04:07:57.422Z"
+generated_at: "2026-03-30T04:10:18.459Z"
 status: "active"
 ---
 
 # § 1444a. Corn and feed grains and cotton programs
 
 - **(a)** Not later than December 15, 1958 , the Secretary shall conduct a referendum of producers of corn in 1958 in the commercial corn-producing area for 1958 to determine whether such producers favor a price support program as provided in subsection (b) of this section for the 1959 and subsequent crops in lieu of acreage allotments as provided in the Agricultural Adjustment Act of 1938, as amended [ 7 U.S.C. 1281 et seq.], and price support as provided in section 1441 of this title .
-- **(b)** Notwithstanding any other provision of law, if less than a majority of the producers voting in the referendum conducted pursuant to subsection (a) of this section favor a price support program as provided in this subsection (b), the following provisions of law shall become inoperative:
+- **(b)** Notwithstanding any other provision of law, if less than a majority of the producers voting in the referendum conducted pursuant to subsection (a) favor a price support program as provided in this subsection (b), the following provisions of law shall become inoperative:
   - **(1)**
   - **(2)**
   - **(3)**

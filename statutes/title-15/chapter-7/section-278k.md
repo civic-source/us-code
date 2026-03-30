@@ -3,9 +3,9 @@ title: "Section 278k - Regional centers for the transfer of manufacturing techno
 usc_title: 15
 usc_section: "278k"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 278k"
-generated_at: "2026-03-30T04:08:11.081Z"
+generated_at: "2026-03-30T04:10:29.897Z"
 status: "active"
 ---
 

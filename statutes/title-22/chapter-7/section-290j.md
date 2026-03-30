@@ -3,9 +3,9 @@ title: "Section 290j - Establishment of the Fund"
 usc_title: 22
 usc_section: "290j"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 290j"
-generated_at: "2026-03-30T04:08:31.712Z"
+generated_at: "2026-03-30T04:11:00.306Z"
 status: "active"
 ---
 

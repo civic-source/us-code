@@ -3,24 +3,24 @@ title: "Section 2276 - Confidentiality of information"
 usc_title: 7
 usc_section: "2276"
 chapter: 55
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2276"
-generated_at: "2026-03-30T04:07:57.503Z"
+generated_at: "2026-03-30T04:10:18.537Z"
 status: "active"
 ---
 
 # § 2276. Confidentiality of information
 
-- **(a)** In the case of information furnished under a provision of law referred to in subsection (d) of this section, neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
+- **(a)** In the case of information furnished under a provision of law referred to in subsection (d), neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
   - **(1)** use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information;
   - **(2)** disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied particular information; or
-  - **(3)** in the case of information collected under the authority described in subsection (d)(12) of this section, disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
+  - **(3)** in the case of information collected under the authority described in subsection (d)(12), disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
 - **(b)**
-  - **(1)** In carrying out a provision of law referred to in subsection (d) of this section, no department, agency, officer, or employee of the Federal Government, other than the Secretary of Agriculture, shall require a person to furnish a copy of statistical information provided to the Department of Agriculture.
+  - **(1)** In carrying out a provision of law referred to in subsection (d), no department, agency, officer, or employee of the Federal Government, other than the Secretary of Agriculture, shall require a person to furnish a copy of statistical information provided to the Department of Agriculture.
   - **(2)** A copy of such information—
     - **(A)** shall be immune from mandatory disclosure of any type, including legal process; and
     - **(B)** shall not, without the consent of such person, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceeding.
-- **(c)** Any person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d) of this section, in any manner or for any purpose prohibited in section 1 1 So in original. Probably should be “subsection”. (a) of this section, shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
+- **(c)** Any person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d), in any manner or for any purpose prohibited in section 1 1 So in original. Probably should be “subsection”. (a), shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
 - **(d)** For purposes of this section, a provision of law referred to in this subsection means—
   - **(1)** the first section of the Act entitled “An Act authorizing the Secretary of Agriculture to collect and publish statistics of the grade and staple length of cotton”, approved March 3, 1927 ( 7 U.S.C. 471 ) (commonly referred to as the “Cotton Statistics and Estimates Act”);
   - **(2)** the first section of the Act entitled “An Act to provide for the collection and publication of statistics of tobacco by the Department of Agriculture”, approved January 14, 1929 ( 7 U.S.C. 501 );

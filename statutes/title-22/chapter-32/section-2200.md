@@ -3,9 +3,9 @@ title: "Section 2200 - Small business development in less developed friendly cou
 usc_title: 22
 usc_section: "2200"
 chapter: 32
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 2200"
-generated_at: "2026-03-30T04:08:31.749Z"
+generated_at: "2026-03-30T04:11:00.337Z"
 status: "active"
 ---
 

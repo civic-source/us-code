@@ -3,9 +3,9 @@ title: "Section 14112 - Allotment"
 usc_title: 42
 usc_section: "14112"
 chapter: 136
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 14112"
-generated_at: "2026-03-30T04:09:28.558Z"
+generated_at: "2026-03-30T04:11:47.125Z"
 status: "active"
 ---
 

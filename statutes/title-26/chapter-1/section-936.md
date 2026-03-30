@@ -3,9 +3,9 @@ title: "Section 936 - Puerto Rico and possession tax credit"
 usc_title: 26
 usc_section: "936"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 936"
-generated_at: "2026-03-30T04:08:50.024Z"
+generated_at: "2026-03-30T04:11:13.750Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
       - **(i)** If an election under this subparagraph applies to a possession corporation for any taxable year—
         - **(I)** subparagraph (A), and the provisions of subsection (i), shall not apply to such possession corporation for such taxable year, and
         - **(II)** the credit determined under paragraph (1) for such taxable year with respect to income referred to in subparagraph (A) thereof shall be the applicable percentage of the credit which would otherwise have been determined under such paragraph with respect to such income.
-      - **(ii)** The term “applicable percentage” means the percentage determined in accordance with the following table: In the case of taxable The years beginning in: percentage is: 1994 60 1995 55 1996 50 1997 45 1998 and thereafter 40.
+      - **(ii)** The term “applicable percentage” means the percentage determined in accordance with the following table: In the case of taxable years beginning in: The percentage is: 1994 60 1995 55 1996 50 1997 45 1998 and thereafter 40.
       - **(iii)**
         - **(I)** An election under this subparagraph by any possession corporation may be made only for the corporation’s first taxable year beginning after December 31, 1993 , for which it is a possession corporation.
         - **(II)** An election under this subparagraph shall apply to the taxable year for which made and all subsequent taxable years unless revoked.

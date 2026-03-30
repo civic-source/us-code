@@ -3,9 +3,9 @@ title: "Section 1790b - Credit union employee protection remedy"
 usc_title: 12
 usc_section: "1790b"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 1790b"
-generated_at: "2026-03-30T04:08:08.533Z"
+generated_at: "2026-03-30T04:10:40.691Z"
 status: "active"
 ---
 
@@ -17,8 +17,8 @@ status: "active"
     - **(A)** any credit union or the Administration;
     - **(B)** any director, officer, committee member, or employee of any credit union; or
     - **(C)** any officer or employee of the Administration.
-- **(b)** Any employee or former employee who believes he has been discharged or discriminated against in violation of subsection (a) of this section may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the Board.
-- **(c)** If the district court determines that a violation of subsection (a) of this section has occurred, it may order the credit union or the Administration which committed the violation—
+- **(b)** Any employee or former employee who believes he has been discharged or discriminated against in violation of subsection (a) may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the Board.
+- **(c)** If the district court determines that a violation of subsection (a) has occurred, it may order the credit union or the Administration which committed the violation—
   - **(1)** to reinstate the employee to his former position,
   - **(2)** to pay compensatory damages, or
   - **(3)** take other appropriate actions to remedy any past discrimination.

@@ -3,9 +3,9 @@ title: "Section 5915a - Expiration of initial authorization to construct fossil 
 usc_title: 42
 usc_section: "5915a"
 chapter: 74
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 5915a"
-generated_at: "2026-03-30T04:09:28.299Z"
+generated_at: "2026-03-30T04:11:46.869Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8726 - Authorization of appropriations"
 usc_title: 40
 usc_section: "8726"
 chapter: 87
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "40 U.S.C. § 8726"
-generated_at: "2026-03-30T04:09:04.553Z"
+generated_at: "2026-03-30T04:11:23.640Z"
 status: "active"
 ---
 

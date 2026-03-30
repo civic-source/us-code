@@ -3,9 +3,9 @@ title: "Section 4948 - Application of taxes and denial of exemption with respect
 usc_title: 26
 usc_section: "4948"
 chapter: 42
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 4948"
-generated_at: "2026-03-30T04:08:50.099Z"
+generated_at: "2026-03-30T04:11:13.827Z"
 status: "active"
 ---
 

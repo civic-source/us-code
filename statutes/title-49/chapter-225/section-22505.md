@@ -3,9 +3,9 @@ title: "Section 22505 - Authorization of appropriations"
 usc_title: 49
 usc_section: "22505"
 chapter: 225
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "49 U.S.C. § 22505"
-generated_at: "2026-03-30T04:09:40.102Z"
+generated_at: "2026-03-30T04:11:57.116Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1733 - General provisions"
 usc_title: 7
 usc_section: "1733"
 chapter: 41
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1733"
-generated_at: "2026-03-30T04:07:57.449Z"
+generated_at: "2026-03-30T04:10:18.482Z"
 status: "active"
 ---
 
@@ -44,8 +44,8 @@ status: "active"
   - **(2)** Paragraph (1) shall not prohibit the provision of assistance to such a country if the assistance is targeted to the most needy people in such country and is made available in such country through channels other than the government.
 - **(k)** Local currencies that are made available for use under this chapter may not be used to pay for the performance of abortions as a method of family planning or to motivate or coerce any person to practice abortions.
 - **(l)**
-  - **(1)** Subsections (b) and (h) of this section shall apply to sales of commodities in recipient countries to generate proceeds to carry out projects under—
-    - **(A)** subchapters II and III of this chapter;
+  - **(1)** Subsections (b) and (h) shall apply to sales of commodities in recipient countries to generate proceeds to carry out projects under—
+    - **(A)** subchapters II and III;
     - **(B)** section 1431(b) of this title ; and
     - **(C)** the Food for Progress Act of 1985 ( 7 U.S.C. 1736 o ).
   - **(2)** A sale described in paragraph (1) may be made in United States dollars or other currencies.

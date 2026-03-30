@@ -3,9 +3,9 @@ title: "Section 1107a - Emergency use products"
 usc_title: 10
 usc_section: "1107a"
 chapter: 55
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 1107a"
-generated_at: "2026-03-30T04:08:01.858Z"
+generated_at: "2026-03-30T04:10:14.735Z"
 status: "active"
 ---
 

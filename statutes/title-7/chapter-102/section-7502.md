@@ -3,9 +3,9 @@ title: "Section 7502 - Availability of CCC commodities"
 usc_title: 7
 usc_section: "7502"
 chapter: 102
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 7502"
-generated_at: "2026-03-30T04:07:57.582Z"
+generated_at: "2026-03-30T04:10:18.608Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** meet international market development and food aid commitments, and
   - **(4)** carry out the farm price and income stabilization purposes of the Agricultural Adjustment Act of 1938 [ 7 U.S.C. 1281 et seq.], the Agricultural Act of 1949 [ 7 U.S.C. 1421 et seq.], and the Commodity Credit Corporation Charter Act [ 15 U.S.C. 714 et seq.],
 - **(b)**
-- **(c)** In addition to any commodities described in subsection (a) of this section, in carrying out this chapter, the Secretary may use agricultural commodities and the products thereof made available under clause (2) of the second sentence of section 612c of this title .
+- **(c)** In addition to any commodities described in subsection (a), in carrying out this chapter, the Secretary may use agricultural commodities and the products thereof made available under clause (2) of the second sentence of section 612c of this title .
 - **(d)** Commodities made available under this chapter shall include a variety of commodities and products thereof that are most useful to eligible recipient agencies, including, but not be 1 1 So in original. The word “be” probably should not appear. limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal.
 - **(e)** Effective April 1, 1986 , the Secretary shall submit semiannually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the types and amounts of commodities made available for distribution under this chapter.
 - **(f)** Notwithstanding any other provision of law, the programs authorized by section 713a–14 of title 15 1 1 See References in Text note below. and section 1163 of the Food Security Act of 1985 shall not be operated in a manner that will, in any way, reduce the quantities of dairy products that traditionally are made available to carry out this chapter or any other domestic feeding program.

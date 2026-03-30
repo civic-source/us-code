@@ -3,9 +3,9 @@ title: "Section 797b - Preferential hiring"
 usc_title: 45
 usc_section: "797b"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "45 U.S.C. § 797b"
-generated_at: "2026-03-30T04:09:09.589Z"
+generated_at: "2026-03-30T04:11:27.042Z"
 status: "active"
 ---
 

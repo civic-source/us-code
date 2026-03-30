@@ -3,9 +3,9 @@ title: "Section 1532 - Statements to accompany significant regulatory actions"
 usc_title: 2
 usc_section: "1532"
 chapter: 25
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1532"
-generated_at: "2026-03-30T04:07:47.909Z"
+generated_at: "2026-03-30T04:10:05.239Z"
 status: "active"
 ---
 
@@ -24,5 +24,5 @@ status: "active"
     - **(A)** a description of the extent of the agency’s prior consultation with elected representatives (under section 1534 of this title ) of the affected State, local, and tribal governments;
     - **(B)** a summary of the comments and concerns that were presented by State, local, or tribal governments either orally or in writing to the agency; and
     - **(C)** a summary of the agency’s evaluation of those comments and concerns.
-- **(b)** In promulgating a general notice of proposed rulemaking or a final rule for which a statement under subsection (a) of this section is required, the agency shall include in the promulgation a summary of the information contained in the statement.
-- **(c)** Any agency may prepare any statement required under subsection (a) of this section in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a) of this section.
+- **(b)** In promulgating a general notice of proposed rulemaking or a final rule for which a statement under subsection (a) is required, the agency shall include in the promulgation a summary of the information contained in the statement.
+- **(c)** Any agency may prepare any statement required under subsection (a) in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a).

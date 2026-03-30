@@ -3,9 +3,9 @@ title: "Section 15461 - Transferred"
 usc_title: 42
 usc_section: "15461"
 chapter: 146
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 15461"
-generated_at: "2026-03-30T04:09:28.576Z"
+generated_at: "2026-03-30T04:11:47.141Z"
 status: "transferred"
 ---
 

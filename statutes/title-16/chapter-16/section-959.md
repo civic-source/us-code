@@ -3,9 +3,9 @@ title: "Section 959 - Enforcement of chapter"
 usc_title: 16
 usc_section: "959"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 959"
-generated_at: "2026-03-30T04:08:23.268Z"
+generated_at: "2026-03-30T04:10:52.912Z"
 status: "active"
 ---
 

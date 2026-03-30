@@ -3,9 +3,9 @@ title: "Section 922 - Art. 122. Robbery"
 usc_title: 10
 usc_section: "922"
 chapter: 47
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 922"
-generated_at: "2026-03-30T04:08:01.839Z"
+generated_at: "2026-03-30T04:10:14.714Z"
 status: "active"
 ---
 

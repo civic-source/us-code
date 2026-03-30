@@ -3,9 +3,9 @@ title: "Section 216 - Preventing transportation of goods to aid insurrection"
 usc_title: 50
 usc_section: "216"
 chapter: 13
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "50 U.S.C. § 216"
-generated_at: "2026-03-30T04:09:35.751Z"
+generated_at: "2026-03-30T04:11:54.450Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1094 - Licensure requirement for health-care professionals"
 usc_title: 10
 usc_section: "1094"
 chapter: 55
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 1094"
-generated_at: "2026-03-30T04:08:01.857Z"
+generated_at: "2026-03-30T04:10:14.733Z"
 status: "active"
 ---
 

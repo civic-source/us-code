@@ -3,9 +3,9 @@ title: "Section 473474 - Repealed. May 25, 1926, ch. 383, § 47 , 44 Stat. 650"
 usc_title: 43
 usc_section: "473474"
 chapter: 12
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "43 U.S.C. § 473474"
-generated_at: "2026-03-30T04:09:10.654Z"
+generated_at: "2026-03-30T04:11:26.651Z"
 status: "repealed"
 ---
 

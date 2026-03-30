@@ -3,9 +3,9 @@ title: "Section 1645 - Sharing arrangements with Federal agencies"
 usc_title: 25
 usc_section: "1645"
 chapter: 18
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 1645"
-generated_at: "2026-03-30T04:08:36.997Z"
+generated_at: "2026-03-30T04:11:02.066Z"
 status: "active"
 ---
 

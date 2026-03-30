@@ -3,9 +3,9 @@ title: "Section 7306a - Vessels stricken from Naval Vessel Register: use for exp
 usc_title: 10
 usc_section: "7306a"
 chapter: 633
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 7306a"
-generated_at: "2026-03-30T04:08:01.976Z"
+generated_at: "2026-03-30T04:10:14.844Z"
 status: "active"
 ---
 

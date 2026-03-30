@@ -3,9 +3,9 @@ title: "Section 608 - Powers of Secretary"
 usc_title: 7
 usc_section: "608"
 chapter: 26
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 608"
-generated_at: "2026-03-30T04:07:57.393Z"
+generated_at: "2026-03-30T04:10:18.430Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
   - **(1)** Whenever the Secretary of Agriculture has reason to believe that:
   - **(2)** Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shall provide, through agreements with producers or by other voluntary methods,
   - **(3)** Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shall make payments, out of any moneys available for such payments, in such amounts as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, to be fair and reasonable and best calculated to effectuate the declared policy of this chapter:
-  - **(4)** Whenever, during a period during which any of the powers conferred in subsection (2) or (3) of this section is being exercised, the Secretary of Agriculture has reason to believe that, with respect to any basic agricultural commodity:
+  - **(4)** Whenever, during a period during which any of the powers conferred in subsection (2) or (3) is being exercised, the Secretary of Agriculture has reason to believe that, with respect to any basic agricultural commodity:
   - **(5)** In the course of any investigation required to be made under subsection (1) or (4) of this section, the Secretary of Agriculture shall hold one or more hearings, and give due notice and opportunity for interested parties to be heard.
   - **(6)** No payment under this chapter made in an agricultural commodity acquired by the Secretary in pursuance of this chapter shall be made in a commodity other than that in respect of which the payment is being made. For the purposes of this subsection, hogs and field corn may be considered as one commodity.
   - **(7)** In the case of sugar beets or sugarcane, in the event that it shall be established to the satisfaction of the Secretary of Agriculture that returns to growers or producers, under the contracts for the 1933–1934 crop of sugar beets or sugarcane, entered into by and between the processors and producers and/or growers thereof, were reduced by reason of the payment of the processing tax, and/or the corresponding floor stocks tax, on sugar beets or sugarcane, in addition to the foregoing rental or benefit payments, the Secretary of Agriculture shall make such payments, representing in whole or in part such tax, as the Secretary deems fair and reasonable, to producers who agree, or have agreed, to participate in the program for reduction in the acreage or reduction in the production for market, or both, of sugar beets or sugarcane.

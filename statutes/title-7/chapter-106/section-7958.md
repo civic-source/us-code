@@ -3,9 +3,9 @@ title: "Section 7958 - Miscellaneous provisions"
 usc_title: 7
 usc_section: "7958"
 chapter: 106
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 7958"
-generated_at: "2026-03-30T04:07:57.596Z"
+generated_at: "2026-03-30T04:10:18.621Z"
 status: "active"
 ---
 
@@ -36,9 +36,9 @@ status: "active"
   - **(1)** In addition to other funds that are available to carry out this section, there is authorized to be appropriated such sums as are necessary to carry out this section.
   - **(2)** The expenses of the Peanut Standards Board shall not be counted toward any general limitation on the expenses of advisory committees, panels, commissions, and task forces of the Department of Agriculture, whether enacted before, on, or after May 13, 2002 , unless the limitation specifically refers to this paragraph and specifically includes the Peanut Standards Board within the general limitation.
 - **(g)**
-  - **(1)** Notwithstanding the appointment process specified in subsection (c) of this section for the Peanut Standards Board, during the transition period, the Secretary may designate persons serving as members of the Peanut Administrative Committee on the day before May 13, 2002 , to serve as members of the Peanut Standards Board for the purpose of carrying out the duties of the Board described in this section.
+  - **(1)** Notwithstanding the appointment process specified in subsection (c) for the Peanut Standards Board, during the transition period, the Secretary may designate persons serving as members of the Peanut Administrative Committee on the day before May 13, 2002 , to serve as members of the Peanut Standards Board for the purpose of carrying out the duties of the Board described in this section.
   - **(2)** The Secretary may transfer any funds available to carry out the activities of the Peanut Administrative Committee to the Peanut Standards Board to carry out the duties of the Board described in this section.
   - **(3)** In paragraph (1), the term “transition period” means the period beginning on May 13, 2002 , and ending on the earlier of—
-    - **(A)** the date the Secretary appoints the members of the Peanut Standards Board pursuant to subsection (c) of this section; or
+    - **(A)** the date the Secretary appoints the members of the Peanut Standards Board pursuant to subsection (c); or
     - **(B)** 180 days after May 13, 2002 .
 - **(h)** This section shall take effect with the 2002 crop of peanuts.

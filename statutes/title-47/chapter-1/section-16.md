@@ -3,9 +3,9 @@ title: "Section 16 - Washington-Alaska Military Cable and Telegraph System; mone
 usc_title: 47
 usc_section: "16"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "47 U.S.C. § 16"
-generated_at: "2026-03-30T04:09:33.673Z"
+generated_at: "2026-03-30T04:11:51.745Z"
 status: "active"
 ---
 

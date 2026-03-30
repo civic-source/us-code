@@ -3,9 +3,9 @@ title: "Section 4608 - Collection of assessments; refunds"
 usc_title: 7
 usc_section: "4608"
 chapter: 77
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 4608"
-generated_at: "2026-03-30T04:07:57.531Z"
+generated_at: "2026-03-30T04:10:18.562Z"
 status: "active"
 ---
 
@@ -28,9 +28,9 @@ status: "active"
     - **(A)** maintain and make available for inspection by the Secretary and the Honey Board such books and records as are required by the order and regulations issued under this chapter; and
     - **(B)** file reports at the times, in the manner, and having the content prescribed by the order and regulations, which reports shall include the total number of bee colonies maintained, the quantity of honey produced, and the quantity of honey and honey products handled or imported.
   - **(2)** To conduct an inspection or review a report of a handler, importer, producer, or producer-packer under paragraph (1), an individual shall be an employee or agent of the Department or the Honey Board, and shall not be a member or alternate member of the Honey Board.
-  - **(3)** An employee or agent described in paragraph (2) shall be subject to the confidentiality requirements of subsection (g) of this section.
+  - **(3)** An employee or agent described in paragraph (2) shall be subject to the confidentiality requirements of subsection (g).
 - **(g)**
-  - **(1)** All information obtained under subsection (f) of this section shall be kept confidential by all officers, employees, and agents of the Department or of the Honey Board.
+  - **(1)** All information obtained under subsection (f) shall be kept confidential by all officers, employees, and agents of the Department or of the Honey Board.
   - **(2)** Information subject to paragraph (1) may be disclosed—
     - **(A)** only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, that involves the order with respect to which the information was furnished or acquired; and
     - **(B)** only if the Secretary determines that the information is relevant to the suit or administrative hearing.

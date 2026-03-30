@@ -3,9 +3,9 @@ title: "Section 3504 - General Counsel; appointment"
 usc_title: 42
 usc_section: "3504"
 chapter: 43
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 3504"
-generated_at: "2026-03-30T04:09:28.217Z"
+generated_at: "2026-03-30T04:11:46.789Z"
 status: "active"
 ---
 

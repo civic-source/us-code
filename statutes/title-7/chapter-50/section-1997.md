@@ -3,9 +3,9 @@ title: "Section 1997 - Conservation easements"
 usc_title: 7
 usc_section: "1997"
 chapter: 50
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1997"
-generated_at: "2026-03-30T04:07:57.468Z"
+generated_at: "2026-03-30T04:10:18.499Z"
 status: "active"
 ---
 
@@ -16,8 +16,8 @@ status: "active"
   - **(2)** The terms “highly erodible land” and “wetland” have the meanings, respectively, that such terms are given in section 3801 of title 16 .
   - **(3)** The term “wildlife” means fish or wildlife as defined in section 3371(a) of title 16 .
   - **(4)** The term “recreational purposes” includes hunting.
-- **(b)** Subject to subsection (c) of this section, the Secretary may enter into a contract related to real property for conservation, recreation, or wildlife purposes.
-- **(c)** The Secretary may enter into a contract under subsection (b) of this section if—
+- **(b)** Subject to subsection (c), the Secretary may enter into a contract related to real property for conservation, recreation, or wildlife purposes.
+- **(c)** The Secretary may enter into a contract under subsection (b) if—
   - **(1)** such property is wetland, upland, or highly erodible land;
   - **(2)** such property is determined by the Secretary to be suitable for the purposes involved; and
   - **(3)**

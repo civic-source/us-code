@@ -3,9 +3,9 @@ title: "Section 12n - Treatment of effluent from sanitation districts of Los Ang
 usc_title: 43
 usc_section: "12n"
 chapter: 12
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "43 U.S.C. § 12n"
-generated_at: "2026-03-30T04:09:10.646Z"
+generated_at: "2026-03-30T04:11:26.642Z"
 status: "active"
 ---
 

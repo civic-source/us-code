@@ -3,9 +3,9 @@ title: "Section 129c - Medical personnel: limitations on reductions"
 usc_title: 10
 usc_section: "129c"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 129c"
-generated_at: "2026-03-30T04:08:01.802Z"
+generated_at: "2026-03-30T04:10:14.684Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1831j - Depository institution employee protection remedy"
 usc_title: 12
 usc_section: "1831j"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 1831j"
-generated_at: "2026-03-30T04:08:08.553Z"
+generated_at: "2026-03-30T04:10:40.712Z"
 status: "active"
 ---
 

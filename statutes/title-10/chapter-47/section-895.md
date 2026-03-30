@@ -3,9 +3,9 @@ title: "Section 895 - Art. 95. Resistance, flight, breach of arrest, and escape"
 usc_title: 10
 usc_section: "895"
 chapter: 47
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 895"
-generated_at: "2026-03-30T04:08:01.837Z"
+generated_at: "2026-03-30T04:10:14.712Z"
 status: "active"
 ---
 

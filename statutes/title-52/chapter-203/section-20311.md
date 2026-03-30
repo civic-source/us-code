@@ -3,9 +3,9 @@ title: "Section 20311 - Technology pilot program"
 usc_title: 52
 usc_section: "20311"
 chapter: 203
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "52 U.S.C. § 20311"
-generated_at: "2026-03-30T04:09:42.693Z"
+generated_at: "2026-03-30T04:12:01.142Z"
 status: "active"
 ---
 

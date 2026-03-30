@@ -3,9 +3,9 @@ title: "Section 7447 - Retirement"
 usc_title: 26
 usc_section: "7447"
 chapter: 76
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 7447"
-generated_at: "2026-03-30T04:08:50.169Z"
+generated_at: "2026-03-30T04:11:13.897Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** In any determination of length of service as judge there shall be included all periods (whether or not consecutive) during which an individual served as judge, as judge of the Tax Court of the United States, or as a member of the Board of Tax Appeals.
 - **(b)**
   - **(1)** Any judge shall retire upon attaining the age of 70.
-  - **(2)** Any judge who meets the age and service requirements set forth in the following table may retire: And the years of service as The judge has a judge are attained age: at least: 65 15 66 14 67 13 68 12 69 11 70 10.
+  - **(2)** Any judge who meets the age and service requirements set forth in the following table may retire: The judge has attained age: And the years of service as a judge are at least: 65 15 66 14 67 13 68 12 69 11 70 10.
   - **(3)** Any judge who is not reappointed following the expiration of the term of his office may retire upon the completion of such term, if (A) he has served as a judge of the Tax Court for 15 years or more and (B) not earlier than 9 months preceding the date of the expiration of the term of his office and not later than 6 months preceding such date, he advised the President in writing that he was willing to accept reappointment to the Tax Court.
   - **(4)** Any judge who becomes permanently disabled from performing his duties shall retire.
 - **(c)** At or after his retirement, any individual who has elected to receive retired pay under subsection (d) may be called upon by the chief judge of the Tax Court to perform such judicial duties with the Tax Court as may be requested of him for any period or periods specified by the chief judge; except that in the case of any such individual—

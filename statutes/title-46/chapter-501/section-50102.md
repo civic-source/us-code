@@ -3,9 +3,9 @@ title: "Section 50102 - Survey of merchant marine"
 usc_title: 46
 usc_section: "50102"
 chapter: 501
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "46 U.S.C. § 50102"
-generated_at: "2026-03-30T04:09:32.302Z"
+generated_at: "2026-03-30T04:11:51.243Z"
 status: "active"
 ---
 

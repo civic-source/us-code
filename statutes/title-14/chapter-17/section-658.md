@@ -3,9 +3,9 @@ title: "Section 658 - Confidential investigative expenses"
 usc_title: 14
 usc_section: "658"
 chapter: 17
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "14 U.S.C. § 658"
-generated_at: "2026-03-30T04:08:04.327Z"
+generated_at: "2026-03-30T04:10:25.749Z"
 status: "active"
 ---
 

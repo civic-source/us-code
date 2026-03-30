@@ -3,9 +3,9 @@ title: "Section 25 - Effect of payments to covered Indian tribes on benefits"
 usc_title: 25
 usc_section: "25"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 25"
-generated_at: "2026-03-30T04:08:36.980Z"
+generated_at: "2026-03-30T04:11:02.051Z"
 status: "active"
 ---
 

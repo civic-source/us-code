@@ -3,9 +3,9 @@ title: "Section 3031 - National Counterintelligence Executive"
 usc_title: 50
 usc_section: "3031"
 chapter: 44
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "50 U.S.C. § 3031"
-generated_at: "2026-03-30T04:09:35.790Z"
+generated_at: "2026-03-30T04:11:54.487Z"
 status: "active"
 ---
 

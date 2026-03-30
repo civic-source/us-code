@@ -3,9 +3,9 @@ title: "Section 903 - Enforcing deficit targets"
 usc_title: 2
 usc_section: "903"
 chapter: 20
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 903"
-generated_at: "2026-03-30T04:07:47.896Z"
+generated_at: "2026-03-30T04:10:05.228Z"
 status: "active"
 ---
 
@@ -15,20 +15,20 @@ status: "active"
 - **(b)** The excess deficit is, if greater than zero, the estimated deficit for the budget year, minus—
   - **(1)** the maximum deficit amount for that year;
   - **(2)** the amounts for that year designated as emergency direct spending or receipts legislation under section 902(e) of this title ; and
-  - **(3)** for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h) of this section.
+  - **(3)** for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h).
 - **(c)** To eliminate the excess deficit in a budget year, half of the required outlay reductions shall be obtained from non-exempt defense accounts (accounts designated as function 050 in the President’s fiscal year 1991 budget submission) and half from non-exempt, non-defense accounts (all other non-exempt accounts).
-- **(d)** Each non-exempt defense account shall be reduced by a dollar amount calculated by multiplying the level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (c) of this section, except that, if any military personnel are exempt, adjustments shall be made under the procedure set forth in section 901(a)(3) of this title .
+- **(d)** Each non-exempt defense account shall be reduced by a dollar amount calculated by multiplying the level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (c), except that, if any military personnel are exempt, adjustments shall be made under the procedure set forth in section 901(a)(3) of this title .
 - **(e)** Actions to reduce non-defense accounts shall be taken in the following order:
   - **(1)** All reductions in automatic spending increases under section 906(a) 1 1 See References in Text note below. of this title shall be made.
   - **(2)** If additional reductions in non-defense accounts are required to be made, the maximum reduction permissible under sections 906(b) of this title (guaranteed student loans) and 906(c) 1 of this title (foster care and adoption assistance) shall be made.
   - **(3)**
-    - **(A)** If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that—
+    - **(A)** If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c), except that—
       - **(i)** the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title , it may not be further reduced under this section; and
       - **(ii)** the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title ),
     - **(B)** For purposes of determining reductions under subparagraph (A), outlay reduction (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
 - **(f)**
-  - **(1)** For purposes of subsections (b), (c), (d), and (e) of this section, accounts shall be assumed to be at the level in the baseline minus any reductions required to be made under sections 901 and 902 of this title.
-  - **(2)** If, on the date specified in subsection (a) of this section, there is in effect an Act making or continuing appropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e) of this section, as applicable, shall be subtracted from—
+  - **(1)** For purposes of subsections (b), (c), (d), and (e), accounts shall be assumed to be at the level in the baseline minus any reductions required to be made under sections 901 and 902 of this title.
+  - **(2)** If, on the date specified in subsection (a), there is in effect an Act making or continuing appropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e), as applicable, shall be subtracted from—
     - **(A)** the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
     - **(B)** when a full-year appropriation for that account is enacted, from the amount otherwise provided by the full-year appropriation; except that the amount to be sequestered from that account shall be reduced (but not below zero) by the savings achieved by that appropriation when the enacted amount is less than the baseline for that account.
 - **(g)**

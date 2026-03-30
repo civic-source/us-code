@@ -3,9 +3,9 @@ title: "Section 450mmto450mm3 - Repealed. Pub. L. 108–387, title I, § 105(a) 
 usc_title: 16
 usc_section: "450mmto450mm3"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 450mmto450mm3"
-generated_at: "2026-03-30T04:08:23.141Z"
+generated_at: "2026-03-30T04:10:52.783Z"
 status: "repealed"
 ---
 

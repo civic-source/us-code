@@ -3,9 +3,9 @@ title: "Section 2102 - The competitive service"
 usc_title: 5
 usc_section: "2102"
 chapter: 21
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "5 U.S.C. § 2102"
-generated_at: "2026-03-30T04:07:49.916Z"
+generated_at: "2026-03-30T04:10:07.218Z"
 status: "active"
 ---
 

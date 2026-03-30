@@ -3,9 +3,9 @@ title: "Section 1151 - Open World Leadership Center"
 usc_title: 2
 usc_section: "1151"
 chapter: 22
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1151"
-generated_at: "2026-03-30T04:07:47.902Z"
+generated_at: "2026-03-30T04:10:05.233Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
 - **(g)** Any amounts appropriated for use in the program established under section 3011 of the 1999 Emergency Supplemental Appropriations Act ( Public Law 106–31 ; 113 Stat. 93 ) shall be transferred to the Fund and shall remain available without fiscal year limitation.
 - **(h)**
   - **(1)** This section shall take effect on December 21, 2000 .
-  - **(2)** Subsection (g) of this section shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
+  - **(2)** Subsection (g) shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
 - **(j)** In this section, the term “eligible foreign state” means—
   - **(1)** any country specified in section 5801 of title 22 ;
   - **(2)** Estonia, Latvia, and Lithuania; and

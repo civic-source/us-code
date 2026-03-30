@@ -3,9 +3,9 @@ title: "Section 4647 - Repealed. Feb. 28, 1933, ch. 131, § 1 , 47 Stat. 1349"
 usc_title: 19
 usc_section: "4647"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "19 U.S.C. § 4647"
-generated_at: "2026-03-30T04:08:16.540Z"
+generated_at: "2026-03-30T04:10:49.766Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8172 - Report on revisions to initial United States declaration"
 usc_title: 22
 usc_section: "8172"
 chapter: 88
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 8172"
-generated_at: "2026-03-30T04:08:31.880Z"
+generated_at: "2026-03-30T04:11:00.454Z"
 status: "active"
 ---
 

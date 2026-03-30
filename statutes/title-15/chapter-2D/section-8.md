@@ -3,9 +3,9 @@ title: "Section 8 - General prohibitions"
 usc_title: 15
 usc_section: "8"
 chapter: 2
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 8"
-generated_at: "2026-03-30T04:08:11.074Z"
+generated_at: "2026-03-30T04:10:29.888Z"
 status: "active"
 ---
 

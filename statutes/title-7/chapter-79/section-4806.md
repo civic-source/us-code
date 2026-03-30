@@ -3,9 +3,9 @@ title: "Section 4806 - National Pork Producers Delegate Body"
 usc_title: 7
 usc_section: "4806"
 chapter: 79
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 4806"
-generated_at: "2026-03-30T04:07:57.532Z"
+generated_at: "2026-03-30T04:10:18.563Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
     - **(B)** the number of importer members.
   - **(3)** Members entitled to cast a majority of the votes (including fractions thereof) on the Delegate Body shall constitute a quorum.
   - **(4)** A majority of the votes (including fractions thereof) cast at a meeting at which a quorum is present shall be decisive of a motion or election presented to the Delegate Body for a vote.
-- **(d)** A member of the Delegate Body shall serve for a term of 1 year, except that the term of a member of the Delegate Body shall continue until the successor of such member, if any, is appointed in accordance with subsection (b)(1) of this section.
+- **(d)** A member of the Delegate Body shall serve for a term of 1 year, except that the term of a member of the Delegate Body shall continue until the successor of such member, if any, is appointed in accordance with subsection (b)(1).
 - **(e)**
   - **(1)** At the first annual meeting, the Delegate Body shall select a Chairman by a majority vote.
   - **(2)** At each annual meeting thereafter, the President of the Board shall serve as the Chairman of the Delegate Body.

@@ -3,9 +3,9 @@ title: "Section 1801to1804 - Repealed. Pub. L. 109–469, title V, § 501(b) , D
 usc_title: 21
 usc_section: "1801to1804"
 chapter: 23
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "21 U.S.C. § 1801to1804"
-generated_at: "2026-03-30T04:08:27.532Z"
+generated_at: "2026-03-30T04:10:57.072Z"
 status: "repealed"
 ---
 

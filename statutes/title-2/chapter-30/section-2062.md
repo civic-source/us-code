@@ -3,9 +3,9 @@ title: "Section 2062 - House of Representatives Child Care Center"
 usc_title: 2
 usc_section: "2062"
 chapter: 30
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 2062"
-generated_at: "2026-03-30T04:07:47.920Z"
+generated_at: "2026-03-30T04:10:05.249Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(B)** The director of the center shall serve as an additional member of the board, ex officio and without the right to vote.
   - **(2)** A vacancy on the board shall be filled in the manner in which the original appointment is made.
   - **(3)** The chairman of the board shall be elected by the members of the board.
-- **(c)** In carrying out subsection (a) of this section, the Chief Administrative Officer is authorized—
+- **(c)** In carrying out subsection (a), the Chief Administrative Officer is authorized—
   - **(1)** to collect fees for child care services;
   - **(2)** to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives, acting jointly; and
   - **(3)** to employ a director and other employees for the center.

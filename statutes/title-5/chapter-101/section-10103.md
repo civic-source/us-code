@@ -3,9 +3,9 @@ title: "Section 10103 - Career paths"
 usc_title: 5
 usc_section: "10103"
 chapter: 101
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "5 U.S.C. § 10103"
-generated_at: "2026-03-30T04:07:49.991Z"
+generated_at: "2026-03-30T04:10:07.286Z"
 status: "active"
 ---
 

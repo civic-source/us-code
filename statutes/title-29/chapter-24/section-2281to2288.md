@@ -3,9 +3,9 @@ title: "Section 2281to2288 - Repealed. Pub. L. 105–394, title IV, § 401 , Nov
 usc_title: 29
 usc_section: "2281to2288"
 chapter: 24
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 2281to2288"
-generated_at: "2026-03-30T04:08:44.750Z"
+generated_at: "2026-03-30T04:11:07.405Z"
 status: "repealed"
 ---
 

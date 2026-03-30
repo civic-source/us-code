@@ -3,9 +3,9 @@ title: "Section 6703 - Qualification for payment"
 usc_title: 31
 usc_section: "6703"
 chapter: 67
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "31 U.S.C. § 6703"
-generated_at: "2026-03-30T04:08:54.038Z"
+generated_at: "2026-03-30T04:11:18.688Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(12)** Programs under the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.).
   - **(13)** The demonstration partnership programs including the community initiative targeted to minority youth under section 203 1 of the Human Services Reauthorization Act of 1994 ( Public Law 103–252 ).
   - **(14)** The runaway and homeless youth program and the transitional living program for homeless youth under title III of the Juvenile Justice and Delinquency Prevention Act ( Public Law 102–586 ).
-  - **(15)** After-school activities for school aged children under the Child Care and Development Block Grant Act ( 42 U.S.C. 9858 et seq.).
+  - **(15)** After-school activities for school aged children under the Child Care and Development Block Grant Act ( 42 U.S.C. 9858 1 et seq.).
   - **(16)** The community-based family resource programs under section 401 1 of the Human Services Reauthorization Act of 1994 ( Public Law 103–252 ).
   - **(17)** The family violence programs under the Child Abuse Prevention and Treatment Act Amendments of 1984.
   - **(18)** Job training programs administered by the Department of Agriculture, the Department of Defense, or the Department of Housing and Urban Development.

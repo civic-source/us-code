@@ -3,9 +3,9 @@ title: "Section 4979 - Tax on certain excess contributions"
 usc_title: 26
 usc_section: "4979"
 chapter: 43
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 4979"
-generated_at: "2026-03-30T04:08:50.104Z"
+generated_at: "2026-03-30T04:11:13.831Z"
 status: "active"
 ---
 

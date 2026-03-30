@@ -3,9 +3,9 @@ title: "Section 4001 - Imposition of tax"
 usc_title: 26
 usc_section: "4001"
 chapter: 31
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 4001"
-generated_at: "2026-03-30T04:08:50.087Z"
+generated_at: "2026-03-30T04:11:13.814Z"
 status: "active"
 ---
 
@@ -37,5 +37,5 @@ status: "active"
     - **(A)** $30,000, multiplied by
     - **(B)** the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the vehicle is sold, determined by substituting “calendar year 1990” for “calendar year 1992” in subparagraph (B) thereof.
   - **(2)** If any amount as adjusted under paragraph (1) is not a multiple of $2,000, such amount shall be rounded to the next lowest multiple of $2,000.
-- **(f)** For sales occurring in calendar years after 1995 and before 2003, subsection (a)(1) and section 4003(a) shall be applied by substituting for “10 percent”, each place it appears, the percentage determined in accordance with the following table: If the calendar year is: The percentage is: 1996 9 percent 1997 8 percent 1998 7 percent 1999 6 percent 2000 5 percent 2001 4 percent 2002 3 percent .
+- **(f)** For sales occurring in calendar years after 1995 and before 2003, subsection (a)(1) and section 4003(a) shall be applied by substituting for “10 percent”, each place it appears, the percentage determined in accordance with the following table: If the calendar year is: The percentage is: 1996 9 percent 1997 8 percent 1998 7 percent 1999 6 percent 2000 5 percent 2001 4 percent 2002 3 percent.
 - **(g)** The taxes imposed by this section and section 4003 shall not apply to any sale, use, or installation after December 31, 2002 .

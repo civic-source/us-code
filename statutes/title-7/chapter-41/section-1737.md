@@ -3,9 +3,9 @@ title: "Section 1737 - John Ogonowski and Doug Bereuter Farmer-to-Farmer Program
 usc_title: 7
 usc_section: "1737"
 chapter: 41
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1737"
-generated_at: "2026-03-30T04:07:57.454Z"
+generated_at: "2026-03-30T04:10:18.485Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
       - **(ix)** agricultural extension; and
     - **(B)** to strengthen cooperatives and other agricultural groups in those countries;
   - **(3)** transfer the knowledge and expertise of United States agricultural producers and businesses, on an individual basis, to those countries while enhancing the democratic process by supporting private and public agriculturally related organizations that request and support technical assistance activities through cash and in-kind services;
-  - **(4)** to the maximum extent practicable, make grants to or enter into contracts or other cooperative agreements with private voluntary organizations, cooperatives, land grant universities, private agribusiness, or nonprofit farm organizations to carry out this section (except that any such contract or other agreement may obligate the United States to make outlays only to the extent that the budget authority for such outlays is available under subsection (d) of this section or has otherwise been provided in advance in appropriation Acts);
+  - **(4)** to the maximum extent practicable, make grants to or enter into contracts or other cooperative agreements with private voluntary organizations, cooperatives, land grant universities, private agribusiness, or nonprofit farm organizations to carry out this section (except that any such contract or other agreement may obligate the United States to make outlays only to the extent that the budget authority for such outlays is available under subsection (d) or has otherwise been provided in advance in appropriation Acts);
   - **(5)** coordinate programs established under this section with other foreign assistance programs and activities carried out by the United States; and
   - **(6)** to the extent that local currencies can be used to meet the costs of a program established under this section, augment funds of the United States that are available for such a program through the use, within the country in which the program is being conducted, of—
     - **(A)** foreign currencies that accrue from the sale of agricultural commodities and products under this chapter; and

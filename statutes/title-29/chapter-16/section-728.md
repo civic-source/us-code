@@ -3,9 +3,9 @@ title: "Section 728 - Expenditure of certain amounts"
 usc_title: 29
 usc_section: "728"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 728"
-generated_at: "2026-03-30T04:08:44.699Z"
+generated_at: "2026-03-30T04:11:07.352Z"
 status: "active"
 ---
 

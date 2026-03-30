@@ -3,9 +3,9 @@ title: "Section 131to138 - Repealed. Pub. L. 103–325, title VI, § 602(e)(14) 
 usc_title: 12
 usc_section: "131to138"
 chapter: 2
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 131to138"
-generated_at: "2026-03-30T04:08:08.451Z"
+generated_at: "2026-03-30T04:10:40.606Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 785 - Repealed. Pub. L. 87–558, § 1 , July 27, 1962 , 76 Stat
 usc_title: 43
 usc_section: "785"
 chapter: 19
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "43 U.S.C. § 785"
-generated_at: "2026-03-30T04:09:10.667Z"
+generated_at: "2026-03-30T04:11:26.664Z"
 status: "repealed"
 ---
 

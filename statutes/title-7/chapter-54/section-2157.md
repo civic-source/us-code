@@ -3,9 +3,9 @@ title: "Section 2157 - Release of trade secrets"
 usc_title: 7
 usc_section: "2157"
 chapter: 54
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2157"
-generated_at: "2026-03-30T04:07:57.497Z"
+generated_at: "2026-03-30T04:10:18.533Z"
 status: "active"
 ---
 
@@ -17,10 +17,10 @@ status: "active"
 - **(b)** It shall be unlawful for any member of such Committee—
   - **(1)** to use or attempt to use to his advantages; or
   - **(2)** to reveal to any other person,
-- **(c)** A violation of subsection (a) or (b) of this section is punishable by—
+- **(c)** A violation of subsection (a) or (b) is punishable by—
   - **(1)** removal from such Committee; and
   - **(2)**
     - **(A)** a fine of not more than $1,000 and imprisonment of not more than one year; or
     - **(B)** if such violation is willful, a fine of not more than $10,000 and imprisonment of not more than three years.
 - **(d)** Any person, including any research facility, injured in its business or property by reason of a violation of this section may recover all actual and consequential damages sustained by such person and the cost of the suit including a reasonable attorney’s fee.
-- **(e)** Nothing in this section shall be construed to affect any other rights of a person injured in its business or property by reason of a violation of this section. Subsection (d) of this section shall not be construed to limit the exercise of any such rights arising out of or relating to a violation of subsections (a) and (b) of this section.
+- **(e)** Nothing in this section shall be construed to affect any other rights of a person injured in its business or property by reason of a violation of this section. Subsection (d) shall not be construed to limit the exercise of any such rights arising out of or relating to a violation of subsections (a) and (b).

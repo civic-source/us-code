@@ -3,16 +3,16 @@ title: "Section 5101 - Qualifying States"
 usc_title: 7
 usc_section: "5101"
 chapter: 82
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 5101"
-generated_at: "2026-03-30T04:07:57.534Z"
+generated_at: "2026-03-30T04:10:18.566Z"
 status: "active"
 ---
 
 # § 5101. Qualifying States
 
-- **(a)** A State is a qualifying State if the Secretary of Agriculture (hereinafter in this chapter referred to as the “Secretary”) determines that the State has in effect a mediation program that meets the requirements of subsection (c) of this section.
-- **(b)** Within 15 days after the Secretary receives from the Governor of a State a description of the mediation program of the State and a statement certifying that the State has met all of the requirements of subsection (c) of this section, the Secretary shall determine whether the State is a qualifying State.
+- **(a)** A State is a qualifying State if the Secretary of Agriculture (hereinafter in this chapter referred to as the “Secretary”) determines that the State has in effect a mediation program that meets the requirements of subsection (c).
+- **(b)** Within 15 days after the Secretary receives from the Governor of a State a description of the mediation program of the State and a statement certifying that the State has met all of the requirements of subsection (c), the Secretary shall determine whether the State is a qualifying State.
 - **(c)**
   - **(1)**
     - **(A)** To be certified as a qualifying State, the mediation program of the State must provide mediation services to persons described in paragraph (2) that are involved in agricultural loans (regardless of whether the loans are made or guaranteed by the Secretary or made by a third party).

@@ -3,9 +3,9 @@ title: "Section 5815 - Administrative provisions"
 usc_title: 42
 usc_section: "5815"
 chapter: 73
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 5815"
-generated_at: "2026-03-30T04:09:28.295Z"
+generated_at: "2026-03-30T04:11:46.865Z"
 status: "active"
 ---
 

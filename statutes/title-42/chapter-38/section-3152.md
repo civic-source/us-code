@@ -3,9 +3,9 @@ title: "Section 3152 - Reports by recipients"
 usc_title: 42
 usc_section: "3152"
 chapter: 38
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 3152"
-generated_at: "2026-03-30T04:09:28.213Z"
+generated_at: "2026-03-30T04:11:46.787Z"
 status: "active"
 ---
 

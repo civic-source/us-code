@@ -3,9 +3,9 @@ title: "Section 660 - Equal share distribution of 1964 appropriation"
 usc_title: 25
 usc_section: "660"
 chapter: 14
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 660"
-generated_at: "2026-03-30T04:08:36.959Z"
+generated_at: "2026-03-30T04:11:02.031Z"
 status: "active"
 ---
 

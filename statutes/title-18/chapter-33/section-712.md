@@ -3,9 +3,9 @@ title: "Section 712 - Misuse of names, words, emblems, or insignia"
 usc_title: 18
 usc_section: "712"
 chapter: 33
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "18 U.S.C. § 712"
-generated_at: "2026-03-30T04:08:14.981Z"
+generated_at: "2026-03-30T04:10:47.755Z"
 status: "active"
 ---
 

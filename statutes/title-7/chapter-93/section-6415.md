@@ -3,15 +3,15 @@ title: "Section 6415 - Amendments"
 usc_title: 7
 usc_section: "6415"
 chapter: 93
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 6415"
-generated_at: "2026-03-30T04:07:57.555Z"
+generated_at: "2026-03-30T04:10:18.583Z"
 status: "active"
 ---
 
 # § 6415. Amendments
 
-- **(a)** Subject to subsection (b) of this section, the Secretary may issue such amendments to an order as may be necessary to carry out this chapter.
+- **(a)** Subject to subsection (b), the Secretary may issue such amendments to an order as may be necessary to carry out this chapter.
 - **(b)**
   - **(1)** The Secretary may conduct at any time a referendum of persons who, during a representative period as determined by the Secretary, have been fluid milk processors on adjusting the assessment rate under the order issued under this chapter then in effect, and shall hold such a referendum on request of the Board or any group of such processors that among them marketed during a representative period, as determined by the Secretary, 10 percent or more of the volume of fluid milk products marketed by all processors.
   - **(2)** The Secretary shall adjust the assessment rate under the order whenever the Secretary determines that the adjustment is favored—

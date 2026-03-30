@@ -3,9 +3,9 @@ title: "Section 704 - Allotments: officers of Public Health Service"
 usc_title: 37
 usc_section: "704"
 chapter: 13
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "37 U.S.C. § 704"
-generated_at: "2026-03-30T04:09:07.514Z"
+generated_at: "2026-03-30T04:11:21.622Z"
 status: "active"
 ---
 

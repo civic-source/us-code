@@ -3,9 +3,9 @@ title: "Section 1631 - Definitions"
 usc_title: 22
 usc_section: "1631"
 chapter: 21
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 1631"
-generated_at: "2026-03-30T04:08:31.727Z"
+generated_at: "2026-03-30T04:11:00.318Z"
 status: "active"
 ---
 

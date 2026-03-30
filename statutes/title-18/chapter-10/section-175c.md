@@ -3,9 +3,9 @@ title: "Section 175c - Variola virus"
 usc_title: 18
 usc_section: "175c"
 chapter: 10
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "18 U.S.C. § 175c"
-generated_at: "2026-03-30T04:08:14.969Z"
+generated_at: "2026-03-30T04:10:47.742Z"
 status: "active"
 ---
 

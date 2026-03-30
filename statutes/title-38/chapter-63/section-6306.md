@@ -3,9 +3,9 @@ title: "Section 6306 - Use of other agencies"
 usc_title: 38
 usc_section: "6306"
 chapter: 63
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "38 U.S.C. § 6306"
-generated_at: "2026-03-30T04:09:07.053Z"
+generated_at: "2026-03-30T04:11:23.152Z"
 status: "active"
 ---
 

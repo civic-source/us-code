@@ -3,9 +3,9 @@ title: "Section 102 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(13)
 usc_title: 8
 usc_section: "102"
 chapter: 6
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "8 U.S.C. § 102"
-generated_at: "2026-03-30T04:07:54.541Z"
+generated_at: "2026-03-30T04:10:10.120Z"
 status: "repealed"
 ---
 

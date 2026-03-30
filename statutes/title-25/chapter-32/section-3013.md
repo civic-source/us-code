@@ -3,9 +3,9 @@ title: "Section 3013 - Enforcement"
 usc_title: 25
 usc_section: "3013"
 chapter: 32
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 3013"
-generated_at: "2026-03-30T04:08:37.040Z"
+generated_at: "2026-03-30T04:11:02.105Z"
 status: "active"
 ---
 

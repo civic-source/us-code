@@ -3,9 +3,9 @@ title: "Section 658d - Legislation subject to point of order"
 usc_title: 2
 usc_section: "658d"
 chapter: 17
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 658d"
-generated_at: "2026-03-30T04:07:47.890Z"
+generated_at: "2026-03-30T04:10:05.225Z"
 status: "active"
 ---
 
@@ -16,15 +16,15 @@ status: "active"
   - **(2)** any bill, joint resolution, amendment, motion, or conference report that would increase the direct costs of Federal intergovernmental mandates by an amount that causes the thresholds specified in section 658c(a)(1) of this title to be exceeded, unless—
     - **(A)** the bill, joint resolution, amendment, motion, or conference report provides new budget authority or new entitlement authority in the House of Representatives or direct spending authority in the Senate for each fiscal year for such mandates included in the bill, joint resolution, amendment, motion, or conference report in an amount equal to or exceeding the direct costs of such mandate; or
     - **(B)** the bill, joint resolution, amendment, motion, or conference report includes an authorization for appropriations in an amount equal to or exceeding the direct costs of such mandate, and—
-      - **(i)** identifies a specific dollar amount of the direct costs of such mandate for each year up to 10 years during which such mandate shall be in effect under the bill, joint resolution, amendment, motion or conference report, and such estimate is consistent with the estimate determined under subsection (e) of this section for each fiscal year;
+      - **(i)** identifies a specific dollar amount of the direct costs of such mandate for each year up to 10 years during which such mandate shall be in effect under the bill, joint resolution, amendment, motion or conference report, and such estimate is consistent with the estimate determined under subsection (e) for each fiscal year;
       - **(ii)** identifies any appropriation bill that is expected to provide for Federal funding of the direct cost referred to under clause (i); and
       - **(iii)**
         - **(I)** provides that for any fiscal year the responsible Federal agency shall determine whether there are insufficient appropriations for that fiscal year to provide for the direct costs under clause (i) of such mandate, and shall (no later than 30 days after the beginning of the fiscal year) notify the appropriate authorizing committees of Congress of the determination and submit either—
         - **(II)** provides for expedited procedures for the consideration of the statement or legislative recommendations referred to in subclause (I) by Congress no later than 30 days after the statement or recommendations are submitted to Congress; and
         - **(III)** provides that such mandate shall—
-- **(b)** The provisions of subsection (a)(2)(B)(iii) of this section shall not be construed to prohibit or otherwise restrict a State, local, or tribal government from voluntarily electing to remain subject to the original Federal intergovernmental mandate, complying with the programmatic or financial responsibilities of the original Federal intergovernmental mandate and providing the funding necessary consistent with the costs of Federal agency assistance, monitoring, and enforcement.
+- **(b)** The provisions of subsection (a)(2)(B)(iii) shall not be construed to prohibit or otherwise restrict a State, local, or tribal government from voluntarily electing to remain subject to the original Federal intergovernmental mandate, complying with the programmatic or financial responsibilities of the original Federal intergovernmental mandate and providing the funding necessary consistent with the costs of Federal agency assistance, monitoring, and enforcement.
 - **(c)**
-  - **(1)** The provisions of subsection (a) of this section—
+  - **(1)** The provisions of subsection (a)—
     - **(A)** shall not apply to any bill or resolution reported by the Committee on Appropriations of the Senate or the House of Representatives; except
     - **(B)** shall apply to—
       - **(i)** any legislative provision increasing direct costs of a Federal intergovernmental mandate contained in any bill or resolution reported by the Committee on Appropriations of the Senate or House of Representatives;

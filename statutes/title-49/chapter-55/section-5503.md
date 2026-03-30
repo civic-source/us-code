@@ -3,9 +3,9 @@ title: "Section 5503 - Office of Intermodalism"
 usc_title: 49
 usc_section: "5503"
 chapter: 55
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "49 U.S.C. § 5503"
-generated_at: "2026-03-30T04:09:40.081Z"
+generated_at: "2026-03-30T04:11:57.093Z"
 status: "active"
 ---
 

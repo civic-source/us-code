@@ -3,15 +3,15 @@ title: "Section 3155 - Agricultural and food policy research centers"
 usc_title: 7
 usc_section: "3155"
 chapter: 64
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 3155"
-generated_at: "2026-03-30T04:07:57.517Z"
+generated_at: "2026-03-30T04:10:18.549Z"
 status: "active"
 ---
 
 # § 3155. Agricultural and food policy research centers
 
-- **(a)** Consistent with this section, the Secretary shall, acting through the Office of the Chief Economist, make competitive grants to, or enter into cooperative agreements with, policy research centers described in subsection (b) of this section to conduct research and education programs that are objective, operationally independent, and external to the Federal Government and that concern the effect of public policies and trade agreements on—
+- **(a)** Consistent with this section, the Secretary shall, acting through the Office of the Chief Economist, make competitive grants to, or enter into cooperative agreements with, policy research centers described in subsection (b) to conduct research and education programs that are objective, operationally independent, and external to the Federal Government and that concern the effect of public policies and trade agreements on—
   - **(1)** the farm and agricultural sectors (including commodities, livestock, dairy, and specialty crops);
   - **(2)** the environment;
   - **(3)** rural families, households, and economies; and

@@ -3,9 +3,9 @@ title: "Section 1631 - Protection for purchasers of farm products"
 usc_title: 7
 usc_section: "1631"
 chapter: 38
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1631"
-generated_at: "2026-03-30T04:07:57.443Z"
+generated_at: "2026-03-30T04:10:18.475Z"
 status: "active"
 ---
 
@@ -62,7 +62,7 @@ status: "active"
   - **(10)** The term “person” means any individual, partnership, corporation, trust, or any other business entity.
   - **(11)** The term “Secretary of State” means the Secretary of State or the designee of the State.
   - **(5)** 3 3 So in original. Another par. (5) follows par. (4). The term “approved unique identifier” means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
-- **(d)** Except as provided in subsection (e) of this section and notwithstanding any other provision of Federal, State, or local law, a buyer who in the ordinary course of business buys a farm product from a seller engaged in farming operations shall take free of a security interest created by the seller, even though the security interest is perfected; and the buyer knows of the existence of such interest.
+- **(d)** Except as provided in subsection (e) and notwithstanding any other provision of Federal, State, or local law, a buyer who in the ordinary course of business buys a farm product from a seller engaged in farming operations shall take free of a security interest created by the seller, even though the security interest is perfected; and the buyer knows of the existence of such interest.
 - **(e)** A buyer of farm products takes subject to a security interest created by the seller if—
   - **(1)**
     - **(A)** within 1 year before the sale of the farm products, the buyer has received from the secured party or the seller written notice of the security interest organized according to farm products that—
@@ -101,7 +101,7 @@ status: "active"
       - **(i)** the commission merchant or selling agent has failed to register with the Secretary of State of such State prior to the purchase of farm products; and
       - **(ii)** the secured party has filed an effective financing statement or notice that covers the farm products being sold; or
     - **(D)** in the case of a farm product produced in a State that has established a central filing system, the commission merchant or selling agent—
-      - **(i)** receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
+      - **(i)** receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
       - **(ii)** does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
   - **(3)** What constitutes receipt, as used in this section, shall be determined by the law of the State in which the buyer resides.
 - **(h)**

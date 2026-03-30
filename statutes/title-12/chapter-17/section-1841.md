@@ -3,9 +3,9 @@ title: "Section 1841 - Definitions"
 usc_title: 12
 usc_section: "1841"
 chapter: 17
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "12 U.S.C. § 1841"
-generated_at: "2026-03-30T04:08:08.560Z"
+generated_at: "2026-03-30T04:10:40.720Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
       - **(ii)** is engaged in the business of making commercial loans.
   - **(2)** The term “bank” does not include any of the following:
     - **(A)** A foreign bank which would be a bank within the meaning of paragraph (1) solely because such bank has an insured or uninsured branch in the United States.
-    - **(B)** An insured institution (as defined in subsection (j) of this section).
+    - **(B)** An insured institution (as defined in subsection (j)).
     - **(C)** An organization that does not do business in the United States except as an incident to its activities outside the United States.
     - **(D)** An institution that functions solely in a trust or fiduciary capacity, if—
       - **(i)** all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;

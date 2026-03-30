@@ -3,9 +3,9 @@ title: "Section 1097c - TRICARE program: relationship with employer-sponsored gr
 usc_title: 10
 usc_section: "1097c"
 chapter: 55
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 1097c"
-generated_at: "2026-03-30T04:08:01.858Z"
+generated_at: "2026-03-30T04:10:14.734Z"
 status: "active"
 ---
 

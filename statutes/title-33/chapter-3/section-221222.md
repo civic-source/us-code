@@ -3,9 +3,9 @@ title: "Section 221222 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 9
 usc_title: 33
 usc_section: "221222"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "33 U.S.C. § 221222"
-generated_at: "2026-03-30T04:09:02.167Z"
+generated_at: "2026-03-30T04:11:17.321Z"
 status: "repealed"
 ---
 

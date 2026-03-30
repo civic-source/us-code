@@ -3,9 +3,9 @@ title: "Section 29a - Early organization of House of Representatives"
 usc_title: 2
 usc_section: "29a"
 chapter: 2
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 29a"
-generated_at: "2026-03-30T04:07:47.870Z"
+generated_at: "2026-03-30T04:10:05.205Z"
 status: "active"
 ---
 
@@ -17,8 +17,8 @@ status: "active"
   - **(3)** If a vacancy occurs in the office of majority leader or minority leader during any even-numbered year (and has not been filled), the chairman of the caucus or conference of the party involved for the current Congress may call an organizational caucus or conference under paragraph (1) by filing written notice thereof as provided by paragraph (2).
 - **(b)**
   - **(1)**
-    - **(A)** Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) of this section, and each incumbent Member reelected to the ensuing Congress who attends any such caucus or conference convening after the adjournment sine die of the Congress in the year involved, shall be paid for one round trip between his or her place of residence in the district which he or she represents and Washington, District of Columbia, for the purpose of attending such caucus or conference. Payment shall be made through the issuance of a transportation request form to each such Member-elect or incumbent Member by the Finance Office of the House before such caucus or conference.
-    - **(B)** Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) of this section shall in addition be reimbursed on a per diem or other basis for expenses incurred in connection with his or her attendance at such caucus or conference.
+    - **(A)** Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a), and each incumbent Member reelected to the ensuing Congress who attends any such caucus or conference convening after the adjournment sine die of the Congress in the year involved, shall be paid for one round trip between his or her place of residence in the district which he or she represents and Washington, District of Columbia, for the purpose of attending such caucus or conference. Payment shall be made through the issuance of a transportation request form to each such Member-elect or incumbent Member by the Finance Office of the House before such caucus or conference.
+    - **(B)** Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) shall in addition be reimbursed on a per diem or other basis for expenses incurred in connection with his or her attendance at such caucus or conference.
   - **(2)** Payments and reimbursements to Members-elect under paragraph (1) shall be made as provided (with respect to Members) in the regulations prescribed by the Committee on House Oversight with respect to travel and other expenses of committees and Members. Reimbursements shall be paid on special voucher forms prescribed by the Committee on House Oversight.
 - **(c)** The applicable accounts of the House of Representatives are made available to carry out the purposes of this section.
-- **(d)** With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) of this section shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members 1 1 So in original. Probably should be capitalized. in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
+- **(d)** With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members 1 1 So in original. Probably should be capitalized. in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.

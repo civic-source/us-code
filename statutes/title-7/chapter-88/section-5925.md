@@ -3,18 +3,18 @@ title: "Section 5925 - High-priority research and extension initiatives"
 usc_title: 7
 usc_section: "5925"
 chapter: 88
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 5925"
-generated_at: "2026-03-30T04:07:57.543Z"
+generated_at: "2026-03-30T04:10:18.573Z"
 status: "active"
 ---
 
 # § 5925. High-priority research and extension initiatives
 
-- **(a)** The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+- **(a)** The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g). The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 - **(b)**
   - **(1)** Except as otherwise provided in this section, paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.
-  - **(2)** To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (d) through (g) of this section, the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
+  - **(2)** To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (d) through (g), the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
 - **(c)** Following the completion of a peer review process for grant proposals received under this section, the Secretary shall provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.
 - **(d)**
   - **(1)** Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.

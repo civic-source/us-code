@@ -3,9 +3,9 @@ title: "Section 628 - Expenditure for dredging within harbor lines"
 usc_title: 33
 usc_section: "628"
 chapter: 12
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "33 U.S.C. § 628"
-generated_at: "2026-03-30T04:09:02.180Z"
+generated_at: "2026-03-30T04:11:17.334Z"
 status: "active"
 ---
 

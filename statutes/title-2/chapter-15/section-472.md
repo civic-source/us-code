@@ -3,9 +3,9 @@ title: "Section 472 - Office of Technology Assessment"
 usc_title: 2
 usc_section: "472"
 chapter: 15
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 472"
-generated_at: "2026-03-30T04:07:47.885Z"
+generated_at: "2026-03-30T04:10:05.219Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(5)** make estimates and comparisons of the impacts of alternative methods and programs;
   - **(6)** present findings of completed analyses to the appropriate legislative authorities;
   - **(7)** identify areas where additional research or data collection is required to provide adequate support for the assessments and estimates described in paragraph (1) through (5) of this subsection; and
-  - **(8)** undertake such additional associated activities as the appropriate authorities specified under subsection (d) of this section may direct.
+  - **(8)** undertake such additional associated activities as the appropriate authorities specified under subsection (d) may direct.
 - **(d)** Assessment activities undertaken by the Office may be initiated upon the request of:
   - **(1)** the chairman of any standing, special, or select committee of either House of the Congress, or of any joint committee of the Congress, acting for himself or at the request of the ranking minority member or a majority of the committee members;
   - **(2)** the Board; or

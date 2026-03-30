@@ -3,9 +3,9 @@ title: "Section 1673h - Establishment of product categories for short life cycle
 usc_title: 19
 usc_section: "1673h"
 chapter: 4
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "19 U.S.C. § 1673h"
-generated_at: "2026-03-30T04:08:16.573Z"
+generated_at: "2026-03-30T04:10:49.796Z"
 status: "active"
 ---
 

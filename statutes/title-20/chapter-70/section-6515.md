@@ -3,9 +3,9 @@ title: "Section 6515 - Local applications"
 usc_title: 20
 usc_section: "6515"
 chapter: 70
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 6515"
-generated_at: "2026-03-30T04:08:20.405Z"
+generated_at: "2026-03-30T04:10:46.646Z"
 status: "active"
 ---
 

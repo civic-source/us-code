@@ -3,9 +3,9 @@ title: "Section 2612 - Entry into customs territory of the United States"
 usc_title: 15
 usc_section: "2612"
 chapter: 53
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 2612"
-generated_at: "2026-03-30T04:08:11.192Z"
+generated_at: "2026-03-30T04:10:30.027Z"
 status: "active"
 ---
 

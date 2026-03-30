@@ -3,9 +3,9 @@ title: "Section 1060 - Multiple employer plans and other special rules"
 usc_title: 29
 usc_section: "1060"
 chapter: 18
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 1060"
-generated_at: "2026-03-30T04:08:44.717Z"
+generated_at: "2026-03-30T04:11:07.371Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
       - **(ii)** For purposes of clause (i), the applicable percentage is the lesser of—
         - **(I)** 1 percent multiplied by the number of years of service with the employer, or
         - **(II)** 20 percent.
-      - **(iii)** If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this title which meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title , the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table: If the participant’s age The as of the beginning percentage of the year is— is— 30 or less 2 Over 30 but less than 40 4 40 or over but less than 50 6 50 or over 8.
+      - **(iii)** If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this title which meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title , the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table: If the participant’s age as of the beginning of the year is— The percentage is— 30 or less 2 Over 30 but less than 40 4 40 or over but less than 50 6 50 or over 8.
       - **(iv)** For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (1), (2), and (3) of section 1053(b) of this title , except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
     - **(C)**
       - **(i)** The contribution requirements of this subparagraph with respect to any applicable individual account plan forming part of an eligible combined plan are met if—

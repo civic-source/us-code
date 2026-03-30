@@ -3,9 +3,9 @@ title: "Section 360qq - Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(A) ,
 usc_title: 21
 usc_section: "360qq"
 chapter: 9
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "21 U.S.C. § 360qq"
-generated_at: "2026-03-30T04:08:27.475Z"
+generated_at: "2026-03-30T04:10:57.014Z"
 status: "repealed"
 ---
 

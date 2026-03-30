@@ -3,9 +3,9 @@ title: "Section 1904 - Certifying officers"
 usc_title: 2
 usc_section: "1904"
 chapter: 29
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1904"
-generated_at: "2026-03-30T04:07:47.914Z"
+generated_at: "2026-03-30T04:10:05.244Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Chief Administrative Officer of the United States Capitol Police, or when there is not a Chief Administrative Officer, the Chief of the Capitol Police, shall appoint certifying officers to certify all vouchers for payment from funds made available to the United States Capitol Police.
 - **(b)**
-  - **(1)** Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Chief of the Capitol Police if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) of this section shall—
+  - **(1)** Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Chief of the Capitol Police if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) shall—
     - **(A)** be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting papers and for the legality of the proposed payment under the appropriation or fund involved;
     - **(B)** be held responsible and accountable for the correctness of the computations of certified vouchers; and
     - **(C)** be held accountable for and required to make good to the United States the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate made by such officer or employee, as well as for any payment prohibited by law or which did not represent a legal obligation under the appropriation or fund involved.

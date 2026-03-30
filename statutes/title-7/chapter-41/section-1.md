@@ -3,16 +3,16 @@ title: "Section 1 - McGovern-Dole International Food for Education and Child Nut
 usc_title: 7
 usc_section: "1"
 chapter: 41
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T04:07:57.451Z"
+generated_at: "2026-03-30T04:10:18.485Z"
 status: "active"
 ---
 
 # § 1736o–1. McGovern-Dole International Food for Education and Child Nutrition Program
 
 - **(a)** In this section, the term “agricultural commodity” means an agricultural commodity, or a product of an agricultural commodity, that is produced in the United States.
-- **(b)** Subject to subsection ( l ) of this section, the Secretary may establish a program, to be known as “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
+- **(b)** Subject to subsection ( l ), the Secretary may establish a program, to be known as “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
   - **(1)** preschool and school food for education programs in foreign countries to improve food security, reduce the incidence of hunger, and improve literacy and primary education, particularly with respect to girls; and
   - **(2)** maternal, infant, and child nutrition programs for pregnant women, nursing mothers, infants, and children who are 5 years of age or younger.
 - **(c)** Notwithstanding any other provision of law—
@@ -42,7 +42,7 @@ status: "active"
   - **(3)** consider, in determining whether a country should receive assistance under this section, whether the government of the country is taking concrete steps to improve the preschool and school systems in the country.
 - **(e)** Assistance may be provided under this section to private voluntary organizations, cooperatives, intergovernmental organizations, governments of developing countries and their agencies, and other organizations.
 - **(f)**
-  - **(1)** In carrying out subsection (b) of this section, the Secretary shall ensure that procedures are established that—
+  - **(1)** In carrying out subsection (b), the Secretary shall ensure that procedures are established that—
     - **(A)** provide for the submission of proposals by eligible entities, each of which may include 1 or more recipient countries, for commodities and other assistance under this section;
     - **(B)** provide for eligible commodities and assistance on a multiyear basis;
     - **(C)** ensure that eligible entities demonstrate the organizational capacity and the ability to develop, implement, monitor, report on, and provide accountability for activities conducted under this section;
@@ -56,7 +56,7 @@ status: "active"
       - **(ii)** in the case of programs to benefit mothers and children who are 5 years of age or younger, coordinate supplementary feeding and nutrition programs with existing or newly-established maternal, infant, and children programs that provide health-needs interventions, including maternal, prenatal, and postnatal and newborn care;
     - **(C)** involve indigenous institutions as well as local communities and governments in the development and implementation of the programs and activities to foster local capacity building and leadership; and
     - **(D)** carry out multiyear programs that foster local self-sufficiency and ensure the longevity of programs in the recipient country.
-- **(g)** The Food and Nutrition Service of the Department of Agriculture may provide technical advice on the establishment of programs under subsection (b)(1) of this section and on implementation of the programs in the field in recipient countries.
+- **(g)** The Food and Nutrition Service of the Department of Agriculture may provide technical advice on the establishment of programs under subsection (b)(1) and on implementation of the programs in the field in recipient countries.
 - **(h)**
   - **(1)** The Secretary is urged to engage existing international food aid coordinating mechanisms to ensure multilateral commitments to, and participation in, programs similar to programs supported under this section.
   - **(2)** The Secretary shall annually submit to the Committee on International Relations and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the commitments and activities of governments, including the United States government, in the global effort to reduce child hunger and increase school attendance.

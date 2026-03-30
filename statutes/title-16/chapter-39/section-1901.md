@@ -3,9 +3,9 @@ title: "Section 1901 - Congressional findings and declaration of policy"
 usc_title: 16
 usc_section: "1901"
 chapter: 39
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 1901"
-generated_at: "2026-03-30T04:08:23.320Z"
+generated_at: "2026-03-30T04:10:52.965Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7334 - Flood risk reduction"
 usc_title: 7
 usc_section: "7334"
 chapter: 100
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 7334"
-generated_at: "2026-03-30T04:07:57.573Z"
+generated_at: "2026-03-30T04:10:18.601Z"
 status: "active"
 ---
 
@@ -21,8 +21,8 @@ status: "active"
   - **(6)** not apply for disaster program benefits provided by the Secretary; and
   - **(7)** refund the payments, with interest, issued under the flood risk reduction contract to the Secretary, if the producer violates the terms of the contract or if the producer transfers the property to another person who violates the contract.
 - **(c)** In return for a contract entered into by a producer under this section, the Secretary shall pay the producer an amount that is not more than 95 percent of projected contract payments under the Agricultural Market Transition Act [ 7 U.S.C. 7201 et seq.] that the Secretary estimates the producer would otherwise have received during the period beginning at the time the contract is entered into under this section and ending September 30, 2002 .
-- **(d)** The Secretary shall carry out the program authorized by this section (other than subsection (e) of this section) through the Commodity Credit Corporation.
+- **(d)** The Secretary shall carry out the program authorized by this section (other than subsection (e)) through the Commodity Credit Corporation.
 - **(e)**
-  - **(1)** Subject to the availability of advanced appropriations, the Secretary may make payments to a producer described in subsection (a) of this section, in addition to the payments provided under subsection (c) of this section, to offset other estimated Federal Government outlays on frequently flooded land.
+  - **(1)** Subject to the availability of advanced appropriations, the Secretary may make payments to a producer described in subsection (a), in addition to the payments provided under subsection (c), to offset other estimated Federal Government outlays on frequently flooded land.
   - **(2)** There are authorized to be appropriated such sums as are necessary to carry out paragraph (1).
 - **(f)** Amounts made available for production flexibility contracts under section 7213 of this title shall be reduced by an amount that is equal to the contract payments that producers forgo under subsection (b)(1) of this section.

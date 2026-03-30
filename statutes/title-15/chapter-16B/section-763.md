@@ -3,9 +3,9 @@ title: "Section 763 - Repealed. Pub. L. 95–91, title VII, § 709(a)(1) , Aug. 
 usc_title: 15
 usc_section: "763"
 chapter: 16
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 763"
-generated_at: "2026-03-30T04:08:11.126Z"
+generated_at: "2026-03-30T04:10:29.949Z"
 status: "repealed"
 ---
 

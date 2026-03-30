@@ -3,9 +3,9 @@ title: "Section 87b - Prohibited acts"
 usc_title: 7
 usc_section: "87b"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 87b"
-generated_at: "2026-03-30T04:07:57.351Z"
+generated_at: "2026-03-30T04:10:18.392Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(12)** knowingly engage in falsely stating or falsifying the weight of any grain shipped in interstate or foreign commerce by any means, including, but not limited to, the use of inaccurate, faulty, or defective weighing equipment; or
   - **(13)** knowingly prevent or impede any buyer or seller of grain or other person having a financial interest in grain, or the authorized agent of any such person, from observing the loading of the grain inspected under this chapter and the weighing, sampling, and inspection of such grain under conditions prescribed by the Secretary.
 - **(b)** No person licensed or authorized to perform any function under this chapter shall—
-  - **(1)** commit any offense prohibited by subsection (a) of this section;
+  - **(1)** commit any offense prohibited by subsection (a);
   - **(2)** knowingly perform improperly any official sampling or other official inspection or weighing function under this chapter;
   - **(3)** knowingly execute or issue any false or incorrect official certificate or other official form; or
   - **(4)** accept money or other consideration, directly or indirectly, for any neglect or improper performance of duty.

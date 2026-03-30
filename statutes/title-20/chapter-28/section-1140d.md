@@ -3,9 +3,9 @@ title: "Section 1140d - Rule of construction"
 usc_title: 20
 usc_section: "1140d"
 chapter: 28
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 1140d"
-generated_at: "2026-03-30T04:08:20.335Z"
+generated_at: "2026-03-30T04:10:46.577Z"
 status: "active"
 ---
 

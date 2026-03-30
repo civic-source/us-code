@@ -3,9 +3,9 @@ title: "Section 9813 - Programs for baccalaureate degrees in science, technology
 usc_title: 20
 usc_section: "9813"
 chapter: 78
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 9813"
-generated_at: "2026-03-30T04:08:20.457Z"
+generated_at: "2026-03-30T04:10:46.697Z"
 status: "active"
 ---
 

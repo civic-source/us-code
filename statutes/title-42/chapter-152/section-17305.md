@@ -3,9 +3,9 @@ title: "Section 17305 - Effect on other laws"
 usc_title: 42
 usc_section: "17305"
 chapter: 152
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 17305"
-generated_at: "2026-03-30T04:09:28.616Z"
+generated_at: "2026-03-30T04:11:47.182Z"
 status: "active"
 ---
 

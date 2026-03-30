@@ -3,9 +3,9 @@ title: "Section 7401 - Commodity promotion and evaluation"
 usc_title: 7
 usc_section: "7401"
 chapter: 101
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 7401"
-generated_at: "2026-03-30T04:07:57.573Z"
+generated_at: "2026-03-30T04:10:18.602Z"
 status: "active"
 ---
 
@@ -26,10 +26,10 @@ status: "active"
   - **(12)** subtitle H of title XIX of Public Law 101–624 ( 7 U.S.C. 6401 et seq.);
   - **(13)** Public Law 103–190 ( 7 U.S.C. 6801 et seq.);
   - **(14)** Public Law 103–407 ( 7 U.S.C. 7101 et seq.);
-  - **(15)** subchapter II of this chapter;
-  - **(16)** subchapter III of this chapter;
-  - **(17)** subchapter IV of this chapter;
-  - **(18)** subchapter V of this chapter; or
+  - **(15)** subchapter II;
+  - **(16)** subchapter III;
+  - **(17)** subchapter IV;
+  - **(18)** subchapter V; or
   - **(19)** any other provision of law enacted after April 4, 1996 , that provides for the establishment and operation of a promotion program described in the first sentence.
 - **(b)** Congress finds the following:
   - **(1)** It is in the national public interest and vital to the welfare of the agricultural economy of the United States to maintain and expand existing markets and develop new markets and uses for agricultural commodities through industry-funded, Government-supervised, generic commodity promotion programs established under commodity promotion laws.

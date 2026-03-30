@@ -3,9 +3,9 @@ title: "Section 5760to5773 - Repealed. Pub. L. 96–513, title III, § 333 , Dec
 usc_title: 10
 usc_section: "5760to5773"
 chapter: 545
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 5760to5773"
-generated_at: "2026-03-30T04:08:01.966Z"
+generated_at: "2026-03-30T04:10:14.836Z"
 status: "repealed"
 ---
 

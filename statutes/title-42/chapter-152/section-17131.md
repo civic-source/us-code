@@ -3,9 +3,9 @@ title: "Section 17131 - Training Federal contracting officers to negotiate energ
 usc_title: 42
 usc_section: "17131"
 chapter: 152
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 17131"
-generated_at: "2026-03-30T04:09:28.610Z"
+generated_at: "2026-03-30T04:11:47.177Z"
 status: "active"
 ---
 

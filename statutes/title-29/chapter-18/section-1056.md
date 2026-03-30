@@ -3,9 +3,9 @@ title: "Section 1056 - Form and payment of benefits"
 usc_title: 29
 usc_section: "1056"
 chapter: 18
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 1056"
-generated_at: "2026-03-30T04:08:44.716Z"
+generated_at: "2026-03-30T04:11:07.369Z"
 status: "active"
 ---
 
@@ -173,7 +173,7 @@ status: "active"
     - **(B)** The term “adjusted funding target attainment percentage” means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26 ) which were made by the plan during the preceding 2 plan years.
     - **(C)**
       - **(i)** In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title ), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
-      - **(ii)** Clause (i) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table: In the case of a plan year The applicable beginning in calendar year: percentage is 2008 92 2009 94 2010 96.
+      - **(ii)** Clause (i) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table: In the case of a plan year beginning in calendar year: The applicable percentage is 2008 92 2009 94 2010 96.
       - **(iii)** Clause (ii) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title ) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
     - **(D)** Solely for purposes of any applicable provision—
       - **(i)** For plan years beginning on or after October 1, 2008 , and before October 1, 2010 , the adjusted funding target attainment percentage of a plan shall be the greater of—

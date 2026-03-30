@@ -3,9 +3,9 @@ title: "Section 703to712 - Omitted"
 usc_title: 15
 usc_section: "703to712"
 chapter: 15
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 703to712"
-generated_at: "2026-03-30T04:08:11.118Z"
+generated_at: "2026-03-30T04:10:29.940Z"
 status: "omitted"
 ---
 

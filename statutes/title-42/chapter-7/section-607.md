@@ -3,9 +3,9 @@ title: "Section 607 - Mandatory work requirements"
 usc_title: 42
 usc_section: "607"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 607"
-generated_at: "2026-03-30T04:09:27.884Z"
+generated_at: "2026-03-30T04:11:46.474Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
   - **(5)** For any fiscal year, a State may, at its option, not require an individual who is a single custodial parent caring for a child who has not attained 12 months of age to engage in work, and may disregard such an individual in determining the participation rates under subsection (a) of this section for not more than 12 months.
 - **(c)**
   - **(1)**
-    - **(A)** For purposes of subsection (b)(1)(B)(i) of this section, a recipient is engaged in work for a month in a fiscal year if the recipient is participating in work activities for at least the minimum average number of hours per week specified in the following table during the month, not fewer than 20 hours per week of which are attributable to an activity described in paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (12) of subsection (d) of this section, subject to this subsection: The minimum If the month is average number of in fiscal year: hours per week is: 1997 20 1998 20 1999 25 2000 or thereafter 30.
+    - **(A)** For purposes of subsection (b)(1)(B)(i) of this section, a recipient is engaged in work for a month in a fiscal year if the recipient is participating in work activities for at least the minimum average number of hours per week specified in the following table during the month, not fewer than 20 hours per week of which are attributable to an activity described in paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (12) of subsection (d) of this section, subject to this subsection: If the month is in fiscal year: The minimum average number of hours per week is: 1997 20 1998 20 1999 25 2000 or thereafter 30.
     - **(B)** For purposes of subsection (b)(2)(B) of this section, an individual is engaged in work for a month in a fiscal year if—
       - **(i)** the individual and the other parent in the family are participating in work activities for a total of at least 35 hours per week during the month, not fewer than 30 hours per week of which are attributable to an activity described in paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (12) of subsection (d) of this section, subject to this subsection; and
       - **(ii)** if the family of the individual receives federally-funded child care assistance and an adult in the family is not disabled or caring for a severely disabled child, the individual and the other parent in the family are participating in work activities for a total of at least 55 hours per week during the month, not fewer than 50 hours per week of which are attributable to an activity described in paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (12) of subsection (d) of this section.

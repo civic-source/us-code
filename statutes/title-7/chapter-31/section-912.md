@@ -3,9 +3,9 @@ title: "Section 912 - Extension of time for repayment of loans"
 usc_title: 7
 usc_section: "912"
 chapter: 31
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 912"
-generated_at: "2026-03-30T04:07:57.398Z"
+generated_at: "2026-03-30T04:10:18.436Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Secretary is authorized and empowered to extend the time of payment of interest or principal of any loans made by the Secretary pursuant to this chapter, except that, with respect to any loan made under section 904 or 922 of this title, the payment of interest or principal shall not be extended more than five years after such payment shall have become due.
 - **(b)**
-  - **(1)** Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a) of this section, except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
+  - **(1)** Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a), except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
   - **(2)**
     - **(A)** In the case of deferments made to enable the borrower to provide financing to local businesses, the deferment shall be repaid in equal installments, without the accrual of interest, over the 60-month period beginning on the date of the deferment, and the total amount of such payments shall be equal to the amount of the payment deferred.
     - **(B)** In the case of deferments made to enable the borrower to provide community development assistance, technical assistance to businesses, and for other community, business, or economic development projects not included under subparagraph (A), the deferment shall be repaid in equal installments, without the accrual of interest, over the 120-month period beginning on the date of the deferment, and the total amount of such payments shall be equal to the amount of the payment deferred.

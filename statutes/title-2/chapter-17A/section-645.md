@@ -3,20 +3,20 @@ title: "Section 645 - Adjustments"
 usc_title: 2
 usc_section: "645"
 chapter: 17
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 645"
-generated_at: "2026-03-30T04:07:47.889Z"
+generated_at: "2026-03-30T04:10:05.224Z"
 status: "active"
 ---
 
 # § 645. Adjustments
 
 - **(a)** After the reporting of a bill or joint resolution or the offering of an amendment thereto or the submission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate may make appropriate budgetary adjustments of new budget authority and the outlays flowing therefrom in the same amount as required by section 901(b) of this title .
-- **(b)** The adjustments made pursuant to subsection (a) of this section for legislation shall—
+- **(b)** The adjustments made pursuant to subsection (a) for legislation shall—
   - **(1)** apply while that legislation is under consideration;
   - **(2)** take effect upon the enactment of that legislation; and
   - **(3)** be published in the Congressional Record as soon as practicable.
-- **(c)** Following any adjustment made under subsection (a) of this section, the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under section 633(b) of this title to carry out this section.
+- **(c)** Following any adjustment made under subsection (a), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under section 633(b) of this title to carry out this section.
 - **(d)**
   - **(1)** In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency requirement pursuant to 901(b)(2)(A) 1 1 So in original. Probably should be preceded by the word “section”. of this title, the chair of the Committee on the Budget of the House of Representatives shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
   - **(2)**

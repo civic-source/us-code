@@ -3,9 +3,9 @@ title: "Section 10506 - Prohibition of land acquisition"
 usc_title: 42
 usc_section: "10506"
 chapter: 111
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 10506"
-generated_at: "2026-03-30T04:09:28.471Z"
+generated_at: "2026-03-30T04:11:47.038Z"
 status: "active"
 ---
 

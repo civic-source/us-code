@@ -3,9 +3,9 @@ title: "Section 44920 - Security screening opt-out program"
 usc_title: 49
 usc_section: "44920"
 chapter: 449
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "49 U.S.C. § 44920"
-generated_at: "2026-03-30T04:09:40.145Z"
+generated_at: "2026-03-30T04:11:57.162Z"
 status: "active"
 ---
 

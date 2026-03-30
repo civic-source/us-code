@@ -3,9 +3,9 @@ title: "Section 2907 - Allocation of funds for administration and reimbursement 
 usc_title: 16
 usc_section: "2907"
 chapter: 49
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 2907"
-generated_at: "2026-03-30T04:08:23.332Z"
+generated_at: "2026-03-30T04:10:52.977Z"
 status: "active"
 ---
 

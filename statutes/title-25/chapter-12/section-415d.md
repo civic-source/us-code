@@ -3,9 +3,9 @@ title: "Section 415d - Lease of restricted lands under other laws unaffected"
 usc_title: 25
 usc_section: "415d"
 chapter: 12
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "25 U.S.C. § 415d"
-generated_at: "2026-03-30T04:08:36.937Z"
+generated_at: "2026-03-30T04:11:02.010Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 1638a - Notice of country of origin"
 usc_title: 7
 usc_section: "1638a"
 chapter: 38
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1638a"
-generated_at: "2026-03-30T04:07:57.446Z"
+generated_at: "2026-03-30T04:10:18.479Z"
 status: "active"
 ---
 
 # § 1638a. Notice of country of origin
 
 - **(a)**
-  - **(1)** Except as provided in subsection (b) of this section, a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
+  - **(1)** Except as provided in subsection (b), a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
   - **(2)**
     - **(A)** A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
       - **(i)** exclusively born, raised, and slaughtered in the United States;
@@ -41,13 +41,13 @@ status: "active"
   - **(4)**
     - **(A)** A retailer of a covered commodity that is a perishable agricultural commodity, ginseng, peanut, pecan, or macadamia nut may designate the covered commodity as having a United States country of origin only if the covered commodity is exclusively produced in the United States.
     - **(B)** With respect to a covered commodity that is a perishable agricultural commodity, ginseng, peanut, pecan, or macadamia nut produced exclusively in the United States, designation by a retailer of the State, region, or locality of the United States where such commodity was produced shall be sufficient to identify the United States as the country of origin.
-- **(b)** Subsection (a) of this section shall not apply to a covered commodity if the covered commodity is—
+- **(b)** Subsection (a) shall not apply to a covered commodity if the covered commodity is—
   - **(1)** prepared or served in a food service establishment; and
   - **(2)**
     - **(A)** offered for sale or sold at the food service establishment in normal retail quantities; or
     - **(B)** served to consumers at the food service establishment.
 - **(c)**
-  - **(1)** The information required by subsection (a) of this section may be provided to consumers by means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
+  - **(1)** The information required by subsection (a) may be provided to consumers by means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
   - **(2)** If the covered commodity is already individually labeled for retail sale regarding country of origin, the retailer shall not be required to provide any additional information to comply with this section.
 - **(d)**
   - **(1)** The Secretary may conduct an audit of any person that prepares, stores, handles, or distributes a covered commodity for retail sale to verify compliance with this subchapter (including the regulations promulgated under section 1638c(b) of this title ).

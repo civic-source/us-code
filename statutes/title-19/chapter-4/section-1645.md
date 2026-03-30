@@ -3,9 +3,9 @@ title: "Section 1645 - Transportation and interment of remains of deceased emplo
 usc_title: 19
 usc_section: "1645"
 chapter: 4
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "19 U.S.C. § 1645"
-generated_at: "2026-03-30T04:08:16.568Z"
+generated_at: "2026-03-30T04:10:49.791Z"
 status: "active"
 ---
 

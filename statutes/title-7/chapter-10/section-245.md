@@ -3,15 +3,15 @@ title: "Section 245 - Bonding and other financial assurance requirements"
 usc_title: 7
 usc_section: "245"
 chapter: 10
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 245"
-generated_at: "2026-03-30T04:07:57.378Z"
+generated_at: "2026-03-30T04:10:18.417Z"
 status: "active"
 ---
 
 # § 245. Bonding and other financial assurance requirements
 
 - **(a)** As a condition of receiving a license or approval under this chapter (including regulations promulgated under this chapter), the person applying for the license or approval shall execute and file with the Secretary a bond, or provide such other financial assurance as the Secretary determines appropriate, to secure the person’s performance of the activities so licensed or approved.
-- **(b)** To qualify as a suitable bond or other financial assurance under subsection (a) of this section, the surety, sureties, or financial institution shall be subject to service of process in suits on the bond or other financial assurance in the State, district, or territory in which the warehouse is located.
+- **(b)** To qualify as a suitable bond or other financial assurance under subsection (a), the surety, sureties, or financial institution shall be subject to service of process in suits on the bond or other financial assurance in the State, district, or territory in which the warehouse is located.
 - **(c)** If the Secretary determines that a previously approved bond or other financial assurance is insufficient, the Secretary may suspend or revoke the license or approval covered by the bond or other financial assurance if the person that filed the bond or other financial assurance does not provide such additional bond or other financial assurance as the Secretary determines appropriate.
 - **(d)** Any person injured by the breach of any obligation arising under this chapter for which a bond or other financial assurance has been obtained as required by this section may sue with respect to the bond or other financial assurance in a district court of the United States to recover the damages that the person sustained as a result of the breach.

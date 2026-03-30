@@ -3,9 +3,9 @@ title: "Section 2006f - Rural development certified lenders program"
 usc_title: 7
 usc_section: "2006f"
 chapter: 50
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2006f"
-generated_at: "2026-03-30T04:07:57.470Z"
+generated_at: "2026-03-30T04:10:18.501Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(6)** This subsection shall not affect the responsibility of the Secretary to determine eligibility, review financial information, and otherwise assess an application.
 - **(b)**
   - **(1)** The Secretary may establish a preferred certified lenders program for lenders who establish their—
-    - **(A)** knowledge of, and experience under, the program established under subsection (a) of this section;
+    - **(A)** knowledge of, and experience under, the program established under subsection (a);
     - **(B)** knowledge of the regulations concerning the particular guaranteed loan program; and
     - **(C)** proficiency related to the certified lender program requirements.
   - **(2)** The Secretary may certify any lending institution as a preferred certified lender if the institution meets such additional criteria as the Secretary may prescribe by regulation.

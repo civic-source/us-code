@@ -3,9 +3,9 @@ title: "Section 1471a - Emergency livestock assistance"
 usc_title: 7
 usc_section: "1471a"
 chapter: 35
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1471a"
-generated_at: "2026-03-30T04:07:57.425Z"
+generated_at: "2026-03-30T04:10:18.461Z"
 status: "active"
 ---
 
@@ -14,6 +14,6 @@ status: "active"
 - **(a)** The Secretary shall provide emergency feed assistance under this subchapter for the preservation and maintenance of livestock in any State or area of a State where, because of disease, insect infestation, flood, drought, fire, hurricane, earthquake, storm, hot weather, or other natural disaster, the Secretary determines that a livestock emergency exists.
 - **(b)**
   - **(1)** The Secretary shall provide emergency feed assistance under this subchapter for the preservation and maintenance of livestock, to livestock producers that—
-    - **(A)** conduct farming, ranching, or aquaculture operations in any county contiguous to a county where the Secretary has determined, under subsection (a) of this section, that a livestock emergency exists, and
+    - **(A)** conduct farming, ranching, or aquaculture operations in any county contiguous to a county where the Secretary has determined, under subsection (a), that a livestock emergency exists, and
     - **(B)** are otherwise eligible for assistance under this subchapter.
   - **(2)** The Secretary shall accept applications for assistance under this subsection from producers that are affected by the livestock emergency at any time during the eight-month period beginning on the date on which the Secretary determines that such emergency exists in the other county.

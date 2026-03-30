@@ -3,9 +3,9 @@ title: "Section 19g - Gifts, devises, or bequests; restriction; real property in
 usc_title: 16
 usc_section: "19g"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 19g"
-generated_at: "2026-03-30T04:08:23.078Z"
+generated_at: "2026-03-30T04:10:52.713Z"
 status: "active"
 ---
 

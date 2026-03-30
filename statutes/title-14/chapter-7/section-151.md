@@ -3,9 +3,9 @@ title: "Section 151 - Contracts with Government-owned establishments for work an
 usc_title: 14
 usc_section: "151"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "14 U.S.C. § 151"
-generated_at: "2026-03-30T04:08:04.322Z"
+generated_at: "2026-03-30T04:10:25.745Z"
 status: "active"
 ---
 

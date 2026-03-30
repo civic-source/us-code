@@ -3,9 +3,9 @@ title: "Section 1083 - Minimum funding standards for single-employer defined ben
 usc_title: 29
 usc_section: "1083"
 chapter: 18
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "29 U.S.C. § 1083"
-generated_at: "2026-03-30T04:08:44.718Z"
+generated_at: "2026-03-30T04:11:07.372Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
     - **(A)** In any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(A)) is equal to or greater than the funding target of the plan for the plan year, the shortfall amortization base of the plan for such plan year shall be zero.
     - **(B)**
       - **(i)** Except as provided in clause (iii), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for purposes of paragraph (3)(A) and subparagraph (A).
-      - **(ii)** For purposes of subparagraph (A), the applicable percentage shall be determined in accordance with the following table: In the case of a plan year The applicable beginning in calendar year: percentage is 2008 92 2009 94 2010 96.
+      - **(ii)** For purposes of subparagraph (A), the applicable percentage shall be determined in accordance with the following table: In the case of a plan year beginning in calendar year: The applicable percentage is 2008 92 2009 94 2010 96.
       - **(iii)** Clause (i) shall not apply to a plan—
         - **(I)** which was not in effect for a plan year beginning in 2007, or
         - **(II)** which was in effect for a plan year beginning in 2007 and which was subject to section 1082(d) of this title (as in effect for plan years beginning in 2007) for such year, determined after the application of paragraphs (6) and (9) thereof.
@@ -301,7 +301,7 @@ status: "active"
     - **(A)** In any case in which a plan which is in at-risk status for a plan year has been in such status for a consecutive period of fewer than 5 plan years, the applicable amount of the funding target and of the target normal cost shall be, in lieu of the amount determined without regard to this paragraph, the sum of—
       - **(i)** the amount determined under this section without regard to this subsection, plus
       - **(ii)** the transition percentage for such plan year of the excess of the amount determined under this subsection (without regard to this paragraph) over the amount determined under this section without regard to this subsection.
-    - **(B)** For purposes of subparagraph (A), the transition percentage shall be determined in accordance with the following table: If the consecutive number of The years (including the plan year) transition the plan is in at-risk status is— percentage is— 1 20 2 40 3 60 4 80.
+    - **(B)** For purposes of subparagraph (A), the transition percentage shall be determined in accordance with the following table: If the consecutive number of years (including the plan year) the plan is in at-risk status is— The transition percentage is— 1 20 2 40 3 60 4 80.
     - **(C)** For purposes of this paragraph, plan years beginning before 2008 shall not be taken into account.
   - **(6)** If, on each day during the preceding plan year, a plan had 500 or fewer participants, the plan shall not be treated as in at-risk status for the plan year. For purposes of this paragraph, all defined benefit plans (other than multiemployer plans) maintained by the same employer (or any member of such employer’s controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account and the rules of subsection (g)(2)(C) shall apply.
 - **(j)**

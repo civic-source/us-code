@@ -3,9 +3,9 @@ title: "Section 6655 - Failure by corporation to pay estimated income tax"
 usc_title: 26
 usc_section: "6655"
 chapter: 68
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 6655"
-generated_at: "2026-03-30T04:08:50.157Z"
+generated_at: "2026-03-30T04:11:13.884Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
       - **(ii)** the aggregate amount of any prior required installments for the taxable year.
     - **(B)** For purposes of this paragraph—
       - **(i)** The taxable income, alternative minimum taxable income, and modified alternative minimum taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
-      - **(ii)** In the case of the following The applicable required installments: percentage is: 1st 25 2nd 50 3rd 75 4th 100.
+      - **(ii)** In the case of the following required installments: The applicable percentage is: 1st 25 2nd 50 3rd 75 4th 100.
       - **(iii)** The term “modified alternative minimum taxable income” has the meaning given to such term by section 59A(b).
     - **(C)**
       - **(i)** If the taxpayer makes an election under this clause—

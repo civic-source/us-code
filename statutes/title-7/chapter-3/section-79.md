@@ -3,9 +3,9 @@ title: "Section 79 - Official inspection"
 usc_title: 7
 usc_section: "79"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 79"
-generated_at: "2026-03-30T04:07:57.350Z"
+generated_at: "2026-03-30T04:10:18.391Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
       - **(x)** will comply with all provisions of this chapter and the regulations and instructions thereunder; and
       - **(xi)** meets other criteria established in regulations issued under this chapter relating to official functions under this chapter; and
     - **(B)** the Secretary determines that the applicant is better able than any other applicant to provide official inspection service.
-  - **(2)** Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) of this section to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title , the Secretary may—
+  - **(2)** Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title , the Secretary may—
     - **(A)** allow more than one designated official agency to carry out inspections within the same geographical area as part of a pilot program; and
     - **(B)** allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if the Secretary also determines that—
       - **(i)** the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;

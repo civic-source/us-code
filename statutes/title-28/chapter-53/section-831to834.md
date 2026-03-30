@@ -3,9 +3,9 @@ title: "Section 831to834 - Repealed. Pub. L. 97–164, title I, § 122(a) , Apr.
 usc_title: 28
 usc_section: "831to834"
 chapter: 53
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "28 U.S.C. § 831to834"
-generated_at: "2026-03-30T04:08:43.363Z"
+generated_at: "2026-03-30T04:11:05.666Z"
 status: "repealed"
 ---
 

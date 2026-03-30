@@ -3,9 +3,9 @@ title: "Section 81n - Transfer of lands for State Park"
 usc_title: 16
 usc_section: "81n"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 81n"
-generated_at: "2026-03-30T04:08:23.084Z"
+generated_at: "2026-03-30T04:10:52.724Z"
 status: "active"
 ---
 

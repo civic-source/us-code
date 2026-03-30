@@ -3,9 +3,9 @@ title: "Section 2057 - Family-owned business interests"
 usc_title: 26
 usc_section: "2057"
 chapter: 11
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 2057"
-generated_at: "2026-03-30T04:08:50.070Z"
+generated_at: "2026-03-30T04:11:13.796Z"
 status: "active"
 ---
 
@@ -81,7 +81,7 @@ status: "active"
     - **(A)** The amount of the additional estate tax imposed by paragraph (1) shall be equal to—
       - **(i)** the applicable percentage of the adjusted tax difference attributable to the qualified family-owned business interest, plus
       - **(ii)** interest on the amount determined under clause (i) at the underpayment rate established under section 6621 for the period beginning on the date the estate tax liability was due under this chapter and ending on the date such additional estate tax is due.
-    - **(B)** For purposes of this paragraph, the applicable percentage shall be determined under the following table: If the event described in paragraph (1) occurs in the following year of The applicable material participation: percentage is: 1 through 6 100 7 80 8 60 9 40 10 20.
+    - **(B)** For purposes of this paragraph, the applicable percentage shall be determined under the following table: If the event described in paragraph (1) occurs in the following year of material participation: The applicable percentage is: 1 through 6 100 7 80 8 60 9 40 10 20.
     - **(C)** For purposes of subparagraph (A)—
       - **(i)** The adjusted tax difference attributable to a qualified family-owned business interest is the amount which bears the same ratio to the adjusted tax difference with respect to the estate (determined under clause (ii)) as the value of such interest bears to the value of all qualified family-owned business interests described in subsection (b)(2).
       - **(ii)** For purposes of clause (i), the term “adjusted tax difference with respect to the estate” means the excess of what would have been the estate tax liability but for the election under this section over the estate tax liability. For purposes of this clause, the term “estate tax liability” means the tax imposed by section 2001 reduced by the credits allowable against such tax.

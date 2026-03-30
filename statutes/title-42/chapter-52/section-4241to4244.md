@@ -3,9 +3,9 @@ title: "Section 4241to4244 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 198
 usc_title: 42
 usc_section: "4241to4244"
 chapter: 52
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 4241to4244"
-generated_at: "2026-03-30T04:09:28.250Z"
+generated_at: "2026-03-30T04:11:46.822Z"
 status: "repealed"
 ---
 

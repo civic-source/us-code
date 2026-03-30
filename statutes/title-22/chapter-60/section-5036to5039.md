@@ -3,9 +3,9 @@ title: "Section 5036to5039 - Repealed. Pub. L. 103–149, § 4(a)(1) , Nov. 23, 
 usc_title: 22
 usc_section: "5036to5039"
 chapter: 60
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "22 U.S.C. § 5036to5039"
-generated_at: "2026-03-30T04:08:31.833Z"
+generated_at: "2026-03-30T04:11:00.412Z"
 status: "repealed"
 ---
 

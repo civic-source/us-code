@@ -3,16 +3,16 @@ title: "Section 1604 - Reports by registered lobbyists"
 usc_title: 2
 usc_section: "1604"
 chapter: 26
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1604"
-generated_at: "2026-03-30T04:07:47.910Z"
+generated_at: "2026-03-30T04:10:05.240Z"
 status: "active"
 ---
 
 # § 1604. Reports by registered lobbyists
 
 - **(a)** No later than 20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 1603 of this title , or on the first business day after such 20th day if the 20th day is not a business day, each registrant shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives on its lobbying activities during such quarterly period. A separate report shall be filed for each client of the registrant.
-- **(b)** Each quarterly report filed under subsection (a) of this section shall contain—
+- **(b)** Each quarterly report filed under subsection (a) shall contain—
   - **(1)** the name of the registrant, the name of the client, and any changes or updates to the information provided in the initial registration, including information under section 1603(b)(3) of this title ;
   - **(2)** for each general issue area in which the registrant engaged in lobbying activities on behalf of the client during the quarterly period—
     - **(A)** a list of the specific issues upon which a lobbyist employed by the registrant engaged in lobbying activities, including, to the maximum extent practicable, a list of bill numbers and references to specific executive branch actions;

@@ -3,9 +3,9 @@ title: "Section 2051 - Definition of taxable estate"
 usc_title: 26
 usc_section: "2051"
 chapter: 11
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 2051"
-generated_at: "2026-03-30T04:08:50.069Z"
+generated_at: "2026-03-30T04:11:13.795Z"
 status: "active"
 ---
 

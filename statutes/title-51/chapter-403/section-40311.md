@@ -3,9 +3,9 @@ title: "Section 40311 - Continuing emphasis"
 usc_title: 51
 usc_section: "40311"
 chapter: 403
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "51 U.S.C. § 40311"
-generated_at: "2026-03-30T04:09:47.497Z"
+generated_at: "2026-03-30T04:11:59.147Z"
 status: "active"
 ---
 

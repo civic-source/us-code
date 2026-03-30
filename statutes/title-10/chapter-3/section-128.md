@@ -3,9 +3,9 @@ title: "Section 128 - Physical protection of special nuclear material: limitatio
 usc_title: 10
 usc_section: "128"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 128"
-generated_at: "2026-03-30T04:08:01.802Z"
+generated_at: "2026-03-30T04:10:14.684Z"
 status: "active"
 ---
 

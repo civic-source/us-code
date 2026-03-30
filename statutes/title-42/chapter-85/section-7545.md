@@ -3,9 +3,9 @@ title: "Section 7545 - Regulation of fuels"
 usc_title: 42
 usc_section: "7545"
 chapter: 85
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 7545"
-generated_at: "2026-03-30T04:09:28.381Z"
+generated_at: "2026-03-30T04:11:46.948Z"
 status: "active"
 ---
 
@@ -263,10 +263,10 @@ status: "active"
       - **(iv)** If the Administrator does not promulgate regulations under clause (i), the percentage of renewable fuel in gasoline sold or dispensed to consumers in the United States, on a volume basis, shall be 2.78 percent for calendar year 2006.
     - **(B)**
       - **(i)**
-        - **(I)** For the purpose of subparagraph (A), the applicable volume of renewable fuel for the calendar years 2006 through 2022 shall be determined in accordance with the following table: Applicable volume of renewable fuel Calendar year: (in billions of gallons): 2006 4.0 2007 4.7 2008 9.0 2009 11.1 2010 12.95 2011 13.95 2012 15.2 2013 16.55 2014 18.15 2015 20.5 2016 22.25 2017 24.0 2018 26.0 2019 28.0 2020 30.0 2021 33.0 2022 36.0
-        - **(II)** For the purpose of subparagraph (A), of the volume of renewable fuel required under subclause (I), the applicable volume of advanced biofuel for the calendar years 2009 through 2022 shall be determined in accordance with the following table: Applicable volume of advanced biofuel Calendar year: (in billions of gallons): 2009 0.6 2010 0.95 2011 1.35 2012 2.0 2013 2.75 2014 3.75 2015 5.5 2016 7.25 2017 9.0 2018 11.0 2019 13.0 2020 15.0 2021 18.0 2022 21.0
-        - **(III)** For the purpose of subparagraph (A), of the volume of advanced biofuel required under subclause (II), the applicable volume of cellulosic biofuel for the calendar years 2010 through 2022 shall be determined in accordance with the following table: Applicable volume of cellulosic biofuel Calendar year: (in billions of gallons): 2010 0.1 2011 0.25 2012 0.5 2013 1.0 2014 1.75 2015 3.0 2016 4.25 2017 5.5 2018 7.0 2019 8.5 2020 10.5 2021 13.5 2022 16.0
-        - **(IV)** For the purpose of subparagraph (A), of the volume of advanced biofuel required under subclause (II), the applicable volume of biomass-based diesel for the calendar years 2009 through 2012 shall be determined in accordance with the following table: Applicable volume of biomass- based diesel Calendar year: (in billions of gallons): 2009 0.5 2010 0.65 2011 0.80 2012 1.0
+        - **(I)** For the purpose of subparagraph (A), the applicable volume of renewable fuel for the calendar years 2006 through 2022 shall be determined in accordance with the following table: Calendar year: Applicable volume of renewable fuel (in billions of gallons): 2006 4.0 2007 4.7 2008 9.0 2009 11.1 2010 12.95 2011 13.95 2012 15.2 2013 16.55 2014 18.15 2015 20.5 2016 22.25 2017 24.0 2018 26.0 2019 28.0 2020 30.0 2021 33.0 2022 36.0
+        - **(II)** For the purpose of subparagraph (A), of the volume of renewable fuel required under subclause (I), the applicable volume of advanced biofuel for the calendar years 2009 through 2022 shall be determined in accordance with the following table: Calendar year: Applicable volume of advanced biofuel (in billions of gallons): 2009 0.6 2010 0.95 2011 1.35 2012 2.0 2013 2.75 2014 3.75 2015 5.5 2016 7.25 2017 9.0 2018 11.0 2019 13.0 2020 15.0 2021 18.0 2022 21.0
+        - **(III)** For the purpose of subparagraph (A), of the volume of advanced biofuel required under subclause (II), the applicable volume of cellulosic biofuel for the calendar years 2010 through 2022 shall be determined in accordance with the following table: Calendar year: Applicable volume of cellulosic biofuel (in billions of gallons): 2010 0.1 2011 0.25 2012 0.5 2013 1.0 2014 1.75 2015 3.0 2016 4.25 2017 5.5 2018 7.0 2019 8.5 2020 10.5 2021 13.5 2022 16.0
+        - **(IV)** For the purpose of subparagraph (A), of the volume of advanced biofuel required under subclause (II), the applicable volume of biomass-based diesel for the calendar years 2009 through 2012 shall be determined in accordance with the following table: Calendar year: Applicable volume of biomass-based diesel (in billions of gallons): 2009 0.5 2010 0.65 2011 0.80 2012 1.0
       - **(ii)** For the purposes of subparagraph (A), the applicable volumes of each fuel specified in the tables in clause (i) for calendar years after the calendar years specified in the tables shall be determined by the Administrator, in coordination with the Secretary of Energy and the Secretary of Agriculture, based on a review of the implementation of the program during calendar years specified in the tables, and an analysis of—
         - **(I)** the impact of the production and use of renewable fuels on the environment, including on air quality, climate change, conversion of wetlands, ecosystems, wildlife habitat, water quality, and water supply;
         - **(II)** the impact of renewable fuels on the energy security of the United States;

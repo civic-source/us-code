@@ -3,9 +3,9 @@ title: "Section 2683 - Identification of dangerous levels of lead"
 usc_title: 15
 usc_section: "2683"
 chapter: 53
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "15 U.S.C. § 2683"
-generated_at: "2026-03-30T04:08:11.197Z"
+generated_at: "2026-03-30T04:10:30.032Z"
 status: "active"
 ---
 

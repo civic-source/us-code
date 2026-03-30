@@ -3,9 +3,9 @@ title: "Section 3330 - Reports to the intelligence community on penetrations of 
 usc_title: 50
 usc_section: "3330"
 chapter: 45
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "50 U.S.C. § 3330"
-generated_at: "2026-03-30T04:09:35.799Z"
+generated_at: "2026-03-30T04:11:54.498Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2348 - Project acceleration"
 usc_title: 33
 usc_section: "2348"
 chapter: 36
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "33 U.S.C. § 2348"
-generated_at: "2026-03-30T04:09:02.246Z"
+generated_at: "2026-03-30T04:11:17.400Z"
 status: "active"
 ---
 

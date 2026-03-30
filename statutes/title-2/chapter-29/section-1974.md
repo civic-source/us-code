@@ -3,9 +3,9 @@ title: "Section 1974 - Capitol Police special officers"
 usc_title: 2
 usc_section: "1974"
 chapter: 29
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 1974"
-generated_at: "2026-03-30T04:07:47.917Z"
+generated_at: "2026-03-30T04:10:05.247Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(2)** serve as a special officer no longer than a period specified at the time of appointment;
   - **(3)** not be a Federal employee by reason of service as a special officer, except as provided under paragraph (4); and
   - **(4)** shall be an employee of the Government for purposes of chapter 171 of title 28 if that individual is acting within the scope of his office or employment in service as a special officer.
-- **(c)** Any individual appointed under subsection (a) of this section shall be subject to—
+- **(c)** Any individual appointed under subsection (a) shall be subject to—
   - **(1)** qualification requirements as the Chief of the Capitol Police determines necessary; and
   - **(2)** approval by the Capitol Police Board.
 - **(d)** Nothing in this section shall prohibit the Capitol Police from entering into an agreement for the reimbursement of services provided under this section with any Federal, State, or local agency.

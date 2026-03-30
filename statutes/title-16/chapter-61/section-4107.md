@@ -3,9 +3,9 @@ title: "Section 4107 - Authorization of appropriations"
 usc_title: 16
 usc_section: "4107"
 chapter: 61
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 4107"
-generated_at: "2026-03-30T04:08:23.358Z"
+generated_at: "2026-03-30T04:10:53.004Z"
 status: "active"
 ---
 

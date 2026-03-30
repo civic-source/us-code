@@ -3,9 +3,9 @@ title: "Section 3021to3032 - Omitted"
 usc_title: 20
 usc_section: "3021to3032"
 chapter: 47
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 3021to3032"
-generated_at: "2026-03-30T04:08:20.372Z"
+generated_at: "2026-03-30T04:10:46.613Z"
 status: "omitted"
 ---
 

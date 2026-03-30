@@ -3,9 +3,9 @@ title: "Section 1736o - Food for progress"
 usc_title: 7
 usc_section: "1736o"
 chapter: 41
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1736o"
-generated_at: "2026-03-30T04:07:57.450Z"
+generated_at: "2026-03-30T04:10:18.484Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(7)** The term “nongovernmental organization” has the meaning given the term in section 402 of the Food for Peace Act ( 7 U.S.C. 1732 ).
   - **(8)** The term “private voluntary organization” has the meaning given the term in section 402 of the Food for Peace Act ( 7 U.S.C. 1732 ).
   - **(9)** The term “program” means a food assistance or development initiative proposed by an eligible entity and approved by the President under this section.
-- **(c)** In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President shall enter into agreements with eligible entities to furnish to the countries eligible commodities made available under subsections (e) and (f) of this section.
+- **(c)** In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President shall enter into agreements with eligible entities to furnish to the countries eligible commodities made available under subsections (e) and (f).
 - **(d)** In determining whether to enter into an agreement under this section, the President shall consider whether a potential recipient country is committed to carry out, or is carrying out, policies that promote economic freedom, private, domestic production of eligible commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of such eligible commodities. Such policies may provide for, among other things—
   - **(1)** access, on the part of farmers in the country, to private, competitive markets for their product;
   - **(2)** market pricing of eligible commodities to foster adequate private sector incentives to individual farmers to produce food on a regular basis for the country’s domestic needs;
@@ -38,7 +38,7 @@ status: "active"
   - **(6)** construction of facilities and distribution systems necessary to handle perishable products.
 - **(e)**
   - **(1)** The Corporation shall make available to the President such eligible commodities as the President may request for purposes of furnishing eligible commodities under this section.
-  - **(2)** Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Food for Peace Act [ 7 U.S.C. 1701 et seq.] in carrying out this section with respect to eligible commodities made available under that Act [ 7 U.S.C. 1691 ], and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
+  - **(2)** Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Food for Peace Act [ 7 U.S.C. 1701 et seq.] in carrying out this section with respect to eligible commodities made available under that Act [ 7 U.S.C. 1691 ], and subsection (g) does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
   - **(3)** The Corporation may finance the sale and exportation of eligible commodities, made available under the Food for Peace Act [ 7 U.S.C. 1691 et seq.], which are furnished under this section. Payment for eligible commodities made available under that Act which are purchased on credit terms under this section shall be on the same basis as the terms provided in section 103 of that Act [ 7 U.S.C. 1703 ].
   - **(4)** In the case of eligible commodities made available under the Food for Peace Act for purposes of this section, section 406 of that Act [ 7 U.S.C. 1736 ] shall apply to eligible commodities furnished on a grant basis under this section and sections 402, 403(a), 403(c), and 403(i) of that Act [ 7 U.S.C. 1732 , 1733(a), (c), (i)] shall apply to all eligible commodities furnished under this section.
   - **(5)** The President shall not make an eligible commodity available for disposition under this section in any amount that will reduce the amount of the eligible commodity that is traditionally made available through donations to domestic feeding programs or agencies, as determined by the President.
@@ -52,7 +52,7 @@ status: "active"
   - **(3)** No funds of the Corporation in excess of $40,000,000 (exclusive of the cost of eligible commodities) may be used for each of fiscal years 1996 through 2018 to carry out this section with respect to eligible commodities made available under section 1431(b) of this title unless authorized in advance in appropriation Acts.
   - **(4)** The cost of eligible commodities made available under section 1431(b) of this title which are furnished under this section, and the expenses incurred in connection with furnishing such eligible commodities, shall be in addition to the level of assistance programmed under the Food for Peace Act [ 7 U.S.C. 1691 et seq.] and may not be considered expenditures for international affairs and finance.
   - **(5)** In making sales of eligible eligible 1 1 So in original. commodities under this section, the Secretary shall follow the sale procedure described in section 403( l ) of the Food for Peace Act [ 7 U.S.C. 1733 ( l )].
-- **(g)** Subject to subsection (f)(3) of this section, not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2018.
+- **(g)** Subject to subsection (f)(3), not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2018.
 - **(h)** An agreement entered into under this section shall prohibit the resale or transshipment of the eligible commodities provided under the agreement to other countries.
 - **(i)** In entering into agreements under this section, the President shall take reasonable steps to avoid displacement of any sales of United States commodities that would otherwise be made to such countries.
 - **(j)**
@@ -96,6 +96,6 @@ status: "active"
       - **(vii)** ensuring that evaluation and monitoring methods are sufficient.
     - **(C)** Not later than 1 year after May 13, 2002 , the President shall consult with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on changes made in regulations and procedures.
   - **(3)** Each eligible entity that enters into an agreement under this section shall submit to the President, at such time as the President may request, a report containing such information as the President may request relating to the use of eligible commodities and funds furnished to the eligible entity under this section.
-- **(o)** In entering into agreements described in subsection (c) of this section, the President (acting through the Secretary)—
-  - **(1)** shall enter into agreements with eligible entities described in subparagraphs (C) and (F) of subsection (b)(5) of this section; and
+- **(o)** In entering into agreements described in subsection (c), the President (acting through the Secretary)—
+  - **(1)** shall enter into agreements with eligible entities described in subparagraphs (C) and (F) of subsection (b)(5); and
   - **(2)** shall not discriminate against such eligible entities.

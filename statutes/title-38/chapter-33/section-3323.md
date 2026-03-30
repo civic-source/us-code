@@ -3,9 +3,9 @@ title: "Section 3323 - Administration"
 usc_title: 38
 usc_section: "3323"
 chapter: 33
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "38 U.S.C. § 3323"
-generated_at: "2026-03-30T04:09:07.031Z"
+generated_at: "2026-03-30T04:11:23.129Z"
 status: "active"
 ---
 

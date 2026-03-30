@@ -3,9 +3,9 @@ title: "Section 3447to3449 - Repealed. Pub. L. 96–513, title II , §§ 207, 20
 usc_title: 10
 usc_section: "3447to3449"
 chapter: 339
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 3447to3449"
-generated_at: "2026-03-30T04:08:01.952Z"
+generated_at: "2026-03-30T04:10:14.821Z"
 status: "repealed"
 ---
 

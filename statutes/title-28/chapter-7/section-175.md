@@ -3,9 +3,9 @@ title: "Section 175 - Official duty station; residence"
 usc_title: 28
 usc_section: "175"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "28 U.S.C. § 175"
-generated_at: "2026-03-30T04:08:43.347Z"
+generated_at: "2026-03-30T04:11:05.651Z"
 status: "active"
 ---
 

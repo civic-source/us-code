@@ -3,9 +3,9 @@ title: "Section 231to250 - Omitted"
 usc_title: 24
 usc_section: "231to250"
 chapter: 5
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "24 U.S.C. § 231to250"
-generated_at: "2026-03-30T04:08:28.921Z"
+generated_at: "2026-03-30T04:10:55.992Z"
 status: "omitted"
 ---
 

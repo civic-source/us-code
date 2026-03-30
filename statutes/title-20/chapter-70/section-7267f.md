@@ -3,9 +3,9 @@ title: "Section 7267f - Supplement, not supplant"
 usc_title: 20
 usc_section: "7267f"
 chapter: 70
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 7267f"
-generated_at: "2026-03-30T04:08:20.428Z"
+generated_at: "2026-03-30T04:10:46.668Z"
 status: "active"
 ---
 

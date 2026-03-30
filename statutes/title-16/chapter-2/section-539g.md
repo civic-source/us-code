@@ -3,9 +3,9 @@ title: "Section 539g - Kings River Special Management Area"
 usc_title: 16
 usc_section: "539g"
 chapter: 2
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "16 U.S.C. § 539g"
-generated_at: "2026-03-30T04:08:23.203Z"
+generated_at: "2026-03-30T04:10:52.845Z"
 status: "active"
 ---
 

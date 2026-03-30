@@ -3,9 +3,9 @@ title: "Section 1551 - Definitions; applicability of subchapter"
 usc_title: 31
 usc_section: "1551"
 chapter: 15
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "31 U.S.C. § 1551"
-generated_at: "2026-03-30T04:08:54.005Z"
+generated_at: "2026-03-30T04:11:18.666Z"
 status: "active"
 ---
 

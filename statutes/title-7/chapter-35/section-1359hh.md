@@ -3,16 +3,16 @@ title: "Section 1359hh - Regulations; violations; publication of Secretary’s d
 usc_title: 7
 usc_section: "1359hh"
 chapter: 35
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 1359hh"
-generated_at: "2026-03-30T04:07:57.417Z"
+generated_at: "2026-03-30T04:10:18.452Z"
 status: "active"
 ---
 
 # § 1359hh. Regulations; violations; publication of Secretary’s determinations; jurisdiction of the courts; United States attorneys
 
 - **(a)** The Secretary or the Commodity Credit Corporation, as appropriate, shall issue such regulations as may be necessary to carry out the authority vested in the Secretary in administering this subpart.
-- **(b)** Any person knowingly violating any regulation of the Secretary issued under subsection (a) of this section shall be subject to a civil penalty of not more than $5,000 for each violation.
+- **(b)** Any person knowingly violating any regulation of the Secretary issued under subsection (a) shall be subject to a civil penalty of not more than $5,000 for each violation.
 - **(c)** Each determination issued by the Secretary to establish, adjust, or suspend allotments under this subpart shall be promptly published in the Federal Register and shall be accompanied by a statement of the reasons for the determination.
 - **(d)**
   - **(1)** The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, this subpart or any regulation issued thereunder.

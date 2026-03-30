@@ -3,9 +3,9 @@ title: "Section 6019 - Citizenship of officers of vessels"
 usc_title: 10
 usc_section: "6019"
 chapter: 555
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 6019"
-generated_at: "2026-03-30T04:08:01.966Z"
+generated_at: "2026-03-30T04:10:14.837Z"
 status: "active"
 ---
 

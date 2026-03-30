@@ -3,9 +3,9 @@ title: "Section 989 - Homestead entries by purchasers from Missouri of lands dec
 usc_title: 43
 usc_section: "989"
 chapter: 23
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "43 U.S.C. § 989"
-generated_at: "2026-03-30T04:09:10.674Z"
+generated_at: "2026-03-30T04:11:26.669Z"
 status: "active"
 ---
 

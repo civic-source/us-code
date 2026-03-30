@@ -3,9 +3,9 @@ title: "Section 2532 - Manufacturing infrastructure for refabrication and certif
 usc_title: 50
 usc_section: "2532"
 chapter: 42
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "50 U.S.C. § 2532"
-generated_at: "2026-03-30T04:09:35.779Z"
+generated_at: "2026-03-30T04:11:54.476Z"
 status: "active"
 ---
 

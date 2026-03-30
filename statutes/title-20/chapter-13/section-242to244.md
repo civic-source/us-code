@@ -3,9 +3,9 @@ title: "Section 242to244 - Repealed. Pub. L. 103–382, title III, § 331(b) , O
 usc_title: 20
 usc_section: "242to244"
 chapter: 13
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "20 U.S.C. § 242to244"
-generated_at: "2026-03-30T04:08:20.263Z"
+generated_at: "2026-03-30T04:10:46.506Z"
 status: "repealed"
 ---
 

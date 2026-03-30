@@ -3,9 +3,9 @@ title: "Section 4016 - Financing"
 usc_title: 42
 usc_section: "4016"
 chapter: 50
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 4016"
-generated_at: "2026-03-30T04:09:28.243Z"
+generated_at: "2026-03-30T04:11:46.817Z"
 status: "active"
 ---
 

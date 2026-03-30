@@ -3,9 +3,9 @@ title: "Section 415 - Computation of primary insurance amount"
 usc_title: 42
 usc_section: "415"
 chapter: 7
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "42 U.S.C. § 415"
-generated_at: "2026-03-30T04:09:27.873Z"
+generated_at: "2026-03-30T04:11:46.463Z"
 status: "active"
 ---
 
@@ -84,7 +84,7 @@ For the purposes of this subchapter—
       - **(i)** Any periodic payment which otherwise meets the requirements of subparagraph (A), but which is paid on other than a monthly basis, shall be allocated on a basis equivalent to a monthly payment (as determined by the Commissioner of Social Security), and such equivalent monthly payment shall constitute a monthly periodic payment for purposes of this paragraph.
       - **(ii)** In the case of an individual who has elected to receive a periodic payment that has been reduced so as to provide a survivor’s benefit to any other individual, the payment shall be deemed to be increased (for purposes of any computation under this paragraph or subsection (d)(3) of this section) by the amount of such reduction.
       - **(iii)** For purposes of this paragraph, the term “periodic payment” includes a payment payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
-    - **(D)** This paragraph shall not apply in the case of an individual who has 30 years or more of coverage. In the case of an individual who has more than 20 years of coverage but less than 30 years of coverage (as so defined), the percent specified in the applicable subdivision of subparagraph (B)(ii) shall (if such percent is smaller than the applicable percent specified in the following table) be deemed to be the applicable percent specified in the following table: If the number of such individual’s years of coverage (as so The applicable defined) is: percent is: 29 85 percent 28 80 percent 27 75 percent 26 70 percent 25 65 percent 24 60 percent 23 55 percent 22 50 percent 21 45 percent. For purposes of this subparagraph, the term “year of coverage” shall have the meaning provided in paragraph (1)(C)(ii), except that the reference to “15 percent” therein shall be deemed to be a reference to “25 percent”.
+    - **(D)** This paragraph shall not apply in the case of an individual who has 30 years or more of coverage. In the case of an individual who has more than 20 years of coverage but less than 30 years of coverage (as so defined), the percent specified in the applicable subdivision of subparagraph (B)(ii) shall (if such percent is smaller than the applicable percent specified in the following table) be deemed to be the applicable percent specified in the following table: If the number of such individual’s years of coverage (as so defined) is: The applicable percent is: 29 85 percent 28 80 percent 27 75 percent 26 70 percent 25 65 percent 24 60 percent 23 55 percent 22 50 percent 21 45 percent. For purposes of this subparagraph, the term “year of coverage” shall have the meaning provided in paragraph (1)(C)(ii), except that the reference to “15 percent” therein shall be deemed to be a reference to “25 percent”.
     - **(E)** This paragraph shall not apply in the case of an individual whose eligibility for old-age or disability insurance benefits is based on an agreement concluded pursuant to section 433 of this title or an individual who on January 1, 1984 —
       - **(i)** is an employee performing service to which social security coverage is extended on that date solely by reason of the amendments made by section 101 of the Social Security Amendments of 1983; or
       - **(ii)** is an employee of a nonprofit organization which (on December 31, 1983 ) did not have in effect a waiver certificate under section 3121(k) of the Internal Revenue Code of 1954 and to the employees of which social security coverage is extended on that date solely by reason of the amendments made by section 102 of that Act, unless social security coverage had previously extended to service performed by such individual as an employee of that organization under a waiver certificate which was subsequently (prior to December 31, 1983 ) terminated.

@@ -3,9 +3,9 @@ title: "Section 8306 - Seizure, quarantine, and disposal"
 usc_title: 7
 usc_section: "8306"
 chapter: 109
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 8306"
-generated_at: "2026-03-30T04:07:57.604Z"
+generated_at: "2026-03-30T04:10:18.627Z"
 status: "active"
 ---
 
@@ -35,9 +35,9 @@ status: "active"
         - **(III)** a statement of the reasons for the proposed action.
     - **(C)** If it is not practicable to publish in the Federal Register the information required under subparagraph (B)(iii) before taking action under subparagraph (A), the Secretary shall publish the information as soon as practicable, but not later than 10 business days, after commencement of the action.
 - **(c)**
-  - **(1)** The Secretary, in writing, may order the owner of any animal, article, facility, or means of conveyance referred to in subsection (a) or (b) of this section to maintain in quarantine, dispose of, or take other remedial action with respect to the animal, article, facility, or means of conveyance, in a manner determined by the Secretary.
+  - **(1)** The Secretary, in writing, may order the owner of any animal, article, facility, or means of conveyance referred to in subsection (a) or (b) to maintain in quarantine, dispose of, or take other remedial action with respect to the animal, article, facility, or means of conveyance, in a manner determined by the Secretary.
   - **(2)** If the owner fails to comply with the order of the Secretary, the Secretary may—
-    - **(A)** seize, quarantine, dispose of, or take other remedial action with respect to the animal, article, facility, or means of conveyance under subsection (a) or (b) of this section; and
+    - **(A)** seize, quarantine, dispose of, or take other remedial action with respect to the animal, article, facility, or means of conveyance under subsection (a) or (b); and
     - **(B)** recover from the owner the costs of any care, handling, disposal, or other remedial action incurred by the Secretary in connection with the seizure, quarantine, disposal, or other remedial action.
 - **(d)**
   - **(1)** Except as provided in paragraph (3), the Secretary shall compensate the owner of any animal, article, facility, or means of conveyance that the Secretary requires to be destroyed under this section.

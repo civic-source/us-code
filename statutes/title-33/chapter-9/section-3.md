@@ -3,9 +3,9 @@ title: "Section 3 - Transfer of functions of Beach Erosion Board"
 usc_title: 33
 usc_section: "3"
 chapter: 9
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "33 U.S.C. § 3"
-generated_at: "2026-03-30T04:09:02.169Z"
+generated_at: "2026-03-30T04:11:17.325Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7109 - Interest"
 usc_title: 41
 usc_section: "7109"
 chapter: 71
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "41 U.S.C. § 7109"
-generated_at: "2026-03-30T04:09:09.883Z"
+generated_at: "2026-03-30T04:11:25.850Z"
 status: "active"
 ---
 

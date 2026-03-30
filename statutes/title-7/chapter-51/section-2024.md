@@ -3,9 +3,9 @@ title: "Section 2024 - Violations and enforcement"
 usc_title: 7
 usc_section: "2024"
 chapter: 51
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 2024"
-generated_at: "2026-03-30T04:07:57.487Z"
+generated_at: "2026-03-30T04:10:18.524Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
 - **(d)** Benefits issued pursuant to this chapter shall be deemed to be obligations of the United States within the meaning of section 8 of title 18 .
 - **(e)** The Secretary may subject to forfeiture and denial of property rights any nonfood items, moneys, negotiable instruments, securities, or other things of value that are furnished by any person in exchange for benefits, or anything of value obtained by use of an access device, in any manner contrary to this chapter or the regulations issued under this chapter. Any forfeiture and disposal of property forfeited under this subsection shall be conducted in accordance with procedures contained in regulations issued by the Secretary.
 - **(f)**
-  - **(1)** In imposing a sentence on a person convicted of an offense in violation of subsection (b) or (c) of this section, a court shall order, in addition to any other sentence imposed under this section, that the person forfeit to the United States all property described in paragraph (2).
-  - **(2)** All property, real and personal, used in a transaction or attempted transaction, to commit, or to facilitate the commission of, a violation (other than a misdemeanor) of subsection (b) or (c) of this section, or proceeds traceable to a violation of subsection (b) or (c) of this section, shall be subject to forfeiture to the United States under paragraph (1).
+  - **(1)** In imposing a sentence on a person convicted of an offense in violation of subsection (b) or (c), a court shall order, in addition to any other sentence imposed under this section, that the person forfeit to the United States all property described in paragraph (2).
+  - **(2)** All property, real and personal, used in a transaction or attempted transaction, to commit, or to facilitate the commission of, a violation (other than a misdemeanor) of subsection (b) or (c), or proceeds traceable to a violation of subsection (b) or (c), shall be subject to forfeiture to the United States under paragraph (1).
   - **(3)** No interest in property shall be forfeited under this subsection as the result of any act or omission established by the owner of the interest to have been committed or omitted without the knowledge or consent of the owner.
   - **(4)** The proceeds from any sale of forfeited property and any monies forfeited under this subsection shall be used—
     - **(A)** first, to reimburse the Department of Justice for the costs incurred by the Department to initiate and complete the forfeiture proceeding;

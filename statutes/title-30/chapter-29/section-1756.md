@@ -3,9 +3,9 @@ title: "Section 1756 - Expanded royalty obligations"
 usc_title: 30
 usc_section: "1756"
 chapter: 29
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "30 U.S.C. § 1756"
-generated_at: "2026-03-30T04:08:39.761Z"
+generated_at: "2026-03-30T04:11:04.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1600g - Priority of laws"
 usc_title: 43
 usc_section: "1600g"
 chapter: 32
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "43 U.S.C. § 1600g"
-generated_at: "2026-03-30T04:09:10.689Z"
+generated_at: "2026-03-30T04:11:26.684Z"
 status: "active"
 ---
 

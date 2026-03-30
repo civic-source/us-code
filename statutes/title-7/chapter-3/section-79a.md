@@ -3,9 +3,9 @@ title: "Section 79a - Weighing authority"
 usc_title: 7
 usc_section: "79a"
 chapter: 3
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 79a"
-generated_at: "2026-03-30T04:07:57.350Z"
+generated_at: "2026-03-30T04:10:18.391Z"
 status: "active"
 ---
 
@@ -22,8 +22,8 @@ status: "active"
 - **(g)** Official certificates setting out the results of official weighing or supervision of weighing, issued and not cancelled under this chapter, shall be received by all officers and all courts of the United States as prima facie evidence of the truth of the facts stated therein.
 - **(h)** No State or local governmental agency or person shall weigh or state in any document the weight of grain determined at a location where official weighing is required to be performed as provided for in this section except in accordance with the procedures prescribed pursuant to this section.
 - **(i)**
-  - **(1)** No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in section 79(i) of this title and subsection (d) of this section.
-  - **(2)** Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) of this section to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title , the Secretary may—
+  - **(1)** No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in section 79(i) of this title and subsection (d).
+  - **(2)** Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title , the Secretary may—
     - **(A)** allow more than one designated official agency to carry out the weighing provisions within the same geographical area as part of a pilot program; and
     - **(B)** allow a designated official agency to cross boundary lines to carry out the weighing provisions in another geographic area if the Secretary also determines that—
       - **(i)** the current designated official agency for that geographic area is unable to provide the weighing services in a timely manner; or

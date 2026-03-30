@@ -3,9 +3,9 @@ title: "Section 935 - Insured loans; interest rates and lending levels"
 usc_title: 7
 usc_section: "935"
 chapter: 31
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "7 U.S.C. § 935"
-generated_at: "2026-03-30T04:07:57.399Z"
+generated_at: "2026-03-30T04:10:18.437Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
       - **(iii)** The Secretary has approved a telecommunications modernization plan for the State under paragraph (3) and, if the plan was developed by telephone borrowers under this subchapter, the applicant is a participant in the plan.
       - **(iv)** The average number of subscribers per mile of line in the area included in the proposed loan is not more than 17.
     - **(B)** The Secretary may waive the requirement of subparagraph (A)(ii) in any case in which the Secretary determines (and sets forth the reasons for the waiver in writing) that the requirement would prevent emergency restoration of the telephone system of the applicant or result in severe hardship to the applicant.
-    - **(C)** On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan under subchapter IV of this chapter.
+    - **(C)** On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan under subchapter IV.
   - **(2)**
     - **(A)** The Secretary may make insured telephone loans for the acquisition, purchase, and installation of telephone lines, systems, and facilities (other than buildings used primarily for administrative purposes, vehicles not used primarily in construction, and customer premise equipment) related to the furnishing, improvement, or extension of rural telecommunications service, at an interest rate equal to the then current cost of money to the Government of the United States for loans of similar maturity, but not more than 7 percent per year, to any applicant for a loan who meets the following requirements:
       - **(i)** The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) of the interest requirements on all of the outstanding and proposed loans of the applicant.

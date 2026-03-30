@@ -3,9 +3,9 @@ title: "Section 3284to3300 - Repealed. Pub. L. 96–513, title II, § 204 , Dec.
 usc_title: 10
 usc_section: "3284to3300"
 chapter: 335
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "10 U.S.C. § 3284to3300"
-generated_at: "2026-03-30T04:08:01.952Z"
+generated_at: "2026-03-30T04:10:14.820Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2108 - Provisions relating to Senate Commission on Art"
 usc_title: 2
 usc_section: "2108"
 chapter: 30
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "2 U.S.C. § 2108"
-generated_at: "2026-03-30T04:07:47.922Z"
+generated_at: "2026-03-30T04:10:05.250Z"
 status: "active"
 ---
 
@@ -40,9 +40,9 @@ status: "active"
   - **(7)** The Executive Secretary of the Commission shall provide assistance to an advisory board as authorized by the Commission.
 - **(c)**
   - **(1)** There is established in the Treasury a fund, to be known as the “Senate Preservation Fund” (in this section referred to as the “fund”), which shall consist of amounts deposited and credited under paragraph (3).
-  - **(2)** The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a) of this section, for official activities of any advisory board established under subsection (b) of this section, for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title , and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
+  - **(2)** The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a), for official activities of any advisory board established under subsection (b), for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title , and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
   - **(3)**
-    - **(A)** The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a) of this section.
+    - **(A)** The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a).
     - **(B)** The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund.
     - **(C)** Disbursements from the fund shall be made on vouchers approved by the Commission and signed by the Executive Secretary of the Commission.
   - **(4)**

@@ -3,9 +3,9 @@ title: "Section 536 - Income not placed on annual basis"
 usc_title: 26
 usc_section: "536"
 chapter: 1
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 536"
-generated_at: "2026-03-30T04:08:49.987Z"
+generated_at: "2026-03-30T04:11:13.714Z"
 status: "active"
 ---
 

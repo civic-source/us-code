@@ -3,9 +3,9 @@ title: "Section 4171to4173 - Repealed. Pub. L. 89–44, title II, § 205(b) , Ju
 usc_title: 26
 usc_section: "4171to4173"
 chapter: 32
-current_through: "PL 113-185"
+current_through: "PL 113-186"
 classification: "26 U.S.C. § 4171to4173"
-generated_at: "2026-03-30T04:08:50.090Z"
+generated_at: "2026-03-30T04:11:13.817Z"
 status: "repealed"
 ---
 
