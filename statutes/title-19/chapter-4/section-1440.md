@@ -3,9 +3,9 @@ title: "Section 1440 - Repealed. Pub. L. 103–182, title VI , § 690(b)(4), (5)
 usc_title: 19
 usc_section: "1440"
 chapter: 4
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "19 U.S.C. § 1440"
-generated_at: "2026-03-30T06:09:16.625Z"
+generated_at: "2026-03-30T06:11:11.421Z"
 status: "repealed"
 ---
 

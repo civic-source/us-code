@@ -3,9 +3,9 @@ title: "Section 1288 - Limitations on performance of longshore work by alien cre
 usc_title: 8
 usc_section: "1288"
 chapter: 12
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "8 U.S.C. § 1288"
-generated_at: "2026-03-30T06:08:02.703Z"
+generated_at: "2026-03-30T06:10:53.453Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2202a - Restructuring distressed loans"
 usc_title: 12
 usc_section: "2202a"
 chapter: 23
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "12 U.S.C. § 2202a"
-generated_at: "2026-03-30T06:08:38.952Z"
+generated_at: "2026-03-30T06:11:05.194Z"
 status: "active"
 ---
 

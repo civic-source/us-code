@@ -3,9 +3,9 @@ title: "Section 510 - Specifications in advertisements for paper"
 usc_title: 44
 usc_section: "510"
 chapter: 5
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "44 U.S.C. § 510"
-generated_at: "2026-03-30T06:10:07.451Z"
+generated_at: "2026-03-30T06:12:04.335Z"
 status: "active"
 ---
 

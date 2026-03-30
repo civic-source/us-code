@@ -3,9 +3,9 @@ title: "Section 7783 - Grants to weed management entities"
 usc_title: 7
 usc_section: "7783"
 chapter: 104
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "7 U.S.C. § 7783"
-generated_at: "2026-03-30T06:08:04.773Z"
+generated_at: "2026-03-30T06:10:56.539Z"
 status: "active"
 ---
 

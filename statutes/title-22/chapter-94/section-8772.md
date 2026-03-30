@@ -3,9 +3,9 @@ title: "Section 8772 - Interests in certain financial assets of Iran"
 usc_title: 22
 usc_section: "8772"
 chapter: 94
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 8772"
-generated_at: "2026-03-30T06:09:37.174Z"
+generated_at: "2026-03-30T06:11:34.293Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60147 - Consultation"
 usc_title: 51
 usc_section: "60147"
 chapter: 601
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "51 U.S.C. § 60147"
-generated_at: "2026-03-30T06:10:27.913Z"
+generated_at: "2026-03-30T06:12:31.898Z"
 status: "active"
 ---
 

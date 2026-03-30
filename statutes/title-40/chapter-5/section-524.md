@@ -3,9 +3,9 @@ title: "Section 524 - Duties of executive agencies"
 usc_title: 40
 usc_section: "524"
 chapter: 5
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "40 U.S.C. § 524"
-generated_at: "2026-03-30T06:10:05.713Z"
+generated_at: "2026-03-30T06:12:00.066Z"
 status: "active"
 ---
 

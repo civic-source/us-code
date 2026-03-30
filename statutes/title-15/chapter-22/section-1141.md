@@ -3,9 +3,9 @@ title: "Section 1141 - Definitions"
 usc_title: 15
 usc_section: "1141"
 chapter: 22
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 1141"
-generated_at: "2026-03-30T06:09:10.437Z"
+generated_at: "2026-03-30T06:11:07.658Z"
 status: "active"
 ---
 

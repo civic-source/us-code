@@ -3,9 +3,9 @@ title: "Section 180 - Repealed. Feb. 28, 1933, ch. 131 , § 1, 47 Stat. 1349"
 usc_title: 15
 usc_section: "180"
 chapter: 5
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 180"
-generated_at: "2026-03-30T06:09:10.391Z"
+generated_at: "2026-03-30T06:11:07.611Z"
 status: "repealed"
 ---
 

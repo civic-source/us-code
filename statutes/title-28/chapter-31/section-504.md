@@ -3,9 +3,9 @@ title: "Section 504 - Deputy Attorney General"
 usc_title: 28
 usc_section: "504"
 chapter: 31
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "28 U.S.C. § 504"
-generated_at: "2026-03-30T06:09:40.263Z"
+generated_at: "2026-03-30T06:11:43.997Z"
 status: "active"
 ---
 

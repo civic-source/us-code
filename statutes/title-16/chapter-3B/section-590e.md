@@ -3,9 +3,9 @@ title: "Section 590e - Repealed. Pub. L. 103–354, title II , § 246(f)(1), Oct
 usc_title: 16
 usc_section: "590e"
 chapter: 3
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 590e"
-generated_at: "2026-03-30T06:09:20.722Z"
+generated_at: "2026-03-30T06:11:22.784Z"
 status: "repealed"
 ---
 

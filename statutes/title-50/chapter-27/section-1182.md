@@ -3,9 +3,9 @@ title: "Section 1182 - Repealed. Pub. L. 85–861 , § 36A, Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1182"
 chapter: 27
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "50 U.S.C. § 1182"
-generated_at: "2026-03-30T06:10:24.013Z"
+generated_at: "2026-03-30T06:12:26.009Z"
 status: "repealed"
 ---
 

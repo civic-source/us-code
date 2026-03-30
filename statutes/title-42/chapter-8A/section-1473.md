@@ -3,9 +3,9 @@ title: "Section 1473 - Loans for housing and buildings on potentially adequate f
 usc_title: 42
 usc_section: "1473"
 chapter: 8
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 1473"
-generated_at: "2026-03-30T06:10:19.092Z"
+generated_at: "2026-03-30T06:12:18.116Z"
 status: "active"
 ---
 

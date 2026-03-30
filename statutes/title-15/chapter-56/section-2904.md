@@ -3,9 +3,9 @@ title: "Section 2904 - National Climate Program"
 usc_title: 15
 usc_section: "2904"
 chapter: 56
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 2904"
-generated_at: "2026-03-30T06:09:10.489Z"
+generated_at: "2026-03-30T06:11:07.711Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2713 - Protection of historic and artistic furnishings of recept
 usc_title: 22
 usc_section: "2713"
 chapter: 38
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 2713"
-generated_at: "2026-03-30T06:09:37.109Z"
+generated_at: "2026-03-30T06:11:34.229Z"
 status: "active"
 ---
 

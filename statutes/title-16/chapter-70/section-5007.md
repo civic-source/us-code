@@ -3,9 +3,9 @@ title: "Section 5007 - Cooperation with other agencies"
 usc_title: 16
 usc_section: "5007"
 chapter: 70
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 5007"
-generated_at: "2026-03-30T06:09:20.931Z"
+generated_at: "2026-03-30T06:11:22.894Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 76m - Photovoltaic system"
 usc_title: 20
 usc_section: "76m"
 chapter: 3
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "20 U.S.C. § 76m"
-generated_at: "2026-03-30T06:09:24.681Z"
+generated_at: "2026-03-30T06:11:20.462Z"
 status: "active"
 ---
 

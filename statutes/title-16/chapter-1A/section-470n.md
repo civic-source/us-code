@@ -3,9 +3,9 @@ title: "Section 470n - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470n"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 470n"
-generated_at: "2026-03-30T06:09:20.702Z"
+generated_at: "2026-03-30T06:11:22.764Z"
 status: "repealed"
 ---
 

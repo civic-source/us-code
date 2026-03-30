@@ -3,9 +3,9 @@ title: "Section 4413 - Transportation and subsistence during travel"
 usc_title: 10
 usc_section: "4413"
 chapter: 407
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 4413"
-generated_at: "2026-03-30T06:08:21.060Z"
+generated_at: "2026-03-30T06:11:00.215Z"
 status: "active"
 ---
 

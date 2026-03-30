@@ -3,9 +3,9 @@ title: "Section 13012 - Purpose"
 usc_title: 42
 usc_section: "13012"
 chapter: 132
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 13012"
-generated_at: "2026-03-30T06:10:19.400Z"
+generated_at: "2026-03-30T06:12:18.431Z"
 status: "active"
 ---
 

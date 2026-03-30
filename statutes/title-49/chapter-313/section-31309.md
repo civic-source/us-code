@@ -3,9 +3,9 @@ title: "Section 31309 - Commercial driver’s license information system"
 usc_title: 49
 usc_section: "31309"
 chapter: 313
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "49 U.S.C. § 31309"
-generated_at: "2026-03-30T06:10:25.908Z"
+generated_at: "2026-03-30T06:12:29.299Z"
 status: "active"
 ---
 

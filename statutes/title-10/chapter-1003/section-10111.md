@@ -3,9 +3,9 @@ title: "Section 10111 - Air National Guard of the United States: composition"
 usc_title: 10
 usc_section: "10111"
 chapter: 1003
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 10111"
-generated_at: "2026-03-30T06:08:21.081Z"
+generated_at: "2026-03-30T06:11:00.238Z"
 status: "active"
 ---
 

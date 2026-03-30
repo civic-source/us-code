@@ -3,9 +3,9 @@ title: "Section 2403 - Memorial areas"
 usc_title: 38
 usc_section: "2403"
 chapter: 24
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "38 U.S.C. § 2403"
-generated_at: "2026-03-30T06:10:00.119Z"
+generated_at: "2026-03-30T06:12:01.178Z"
 status: "active"
 ---
 

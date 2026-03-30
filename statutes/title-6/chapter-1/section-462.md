@@ -3,9 +3,9 @@ title: "Section 462 - Office of National Capital Region Coordination"
 usc_title: 6
 usc_section: "462"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "6 U.S.C. § 462"
-generated_at: "2026-03-30T06:08:15.371Z"
+generated_at: "2026-03-30T06:10:50.540Z"
 status: "active"
 ---
 

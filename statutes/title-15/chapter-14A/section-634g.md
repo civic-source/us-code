@@ -3,9 +3,9 @@ title: "Section 634g - Budgetary line item and authorization of appropriations"
 usc_title: 15
 usc_section: "634g"
 chapter: 14
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 634g"
-generated_at: "2026-03-30T06:09:10.403Z"
+generated_at: "2026-03-30T06:11:07.622Z"
 status: "active"
 ---
 

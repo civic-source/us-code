@@ -3,9 +3,9 @@ title: "Section 40106 - Emergency powers"
 usc_title: 49
 usc_section: "40106"
 chapter: 401
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "49 U.S.C. § 40106"
-generated_at: "2026-03-30T06:10:25.915Z"
+generated_at: "2026-03-30T06:12:29.306Z"
 status: "active"
 ---
 

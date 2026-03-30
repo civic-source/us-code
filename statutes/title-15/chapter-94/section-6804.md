@@ -3,9 +3,9 @@ title: "Section 6804 - Rulemaking"
 usc_title: 15
 usc_section: "6804"
 chapter: 94
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 6804"
-generated_at: "2026-03-30T06:09:10.514Z"
+generated_at: "2026-03-30T06:11:07.736Z"
 status: "active"
 ---
 

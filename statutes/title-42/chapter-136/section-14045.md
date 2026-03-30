@@ -3,9 +3,9 @@ title: "Section 14045 - Grants for outreach and services to underserved populati
 usc_title: 42
 usc_section: "14045"
 chapter: 136
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 14045"
-generated_at: "2026-03-30T06:10:19.420Z"
+generated_at: "2026-03-30T06:12:18.452Z"
 status: "active"
 ---
 

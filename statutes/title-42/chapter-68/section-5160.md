@@ -3,9 +3,9 @@ title: "Section 5160 - Recovery of assistance"
 usc_title: 42
 usc_section: "5160"
 chapter: 68
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 5160"
-generated_at: "2026-03-30T06:10:19.209Z"
+generated_at: "2026-03-30T06:12:18.239Z"
 status: "active"
 ---
 

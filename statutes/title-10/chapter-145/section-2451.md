@@ -3,9 +3,9 @@ title: "Section 2451 - Defense supply management"
 usc_title: 10
 usc_section: "2451"
 chapter: 145
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 2451"
-generated_at: "2026-03-30T06:08:21.036Z"
+generated_at: "2026-03-30T06:11:00.190Z"
 status: "active"
 ---
 

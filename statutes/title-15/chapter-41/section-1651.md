@@ -3,9 +3,9 @@ title: "Section 1651 - Procedure for timely settlement of estates of decedent ob
 usc_title: 15
 usc_section: "1651"
 chapter: 41
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 1651"
-generated_at: "2026-03-30T06:09:10.453Z"
+generated_at: "2026-03-30T06:11:07.674Z"
 status: "active"
 ---
 

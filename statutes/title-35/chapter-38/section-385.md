@@ -3,9 +3,9 @@ title: "Section 385 - Effect of international design application"
 usc_title: 35
 usc_section: "385"
 chapter: 38
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "35 U.S.C. § 385"
-generated_at: "2026-03-30T06:09:49.503Z"
+generated_at: "2026-03-30T06:11:55.232Z"
 status: "active"
 ---
 

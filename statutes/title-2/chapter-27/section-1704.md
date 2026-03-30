@@ -3,9 +3,9 @@ title: "Section 1704 - National Recording Registry Collection of the Library of 
 usc_title: 2
 usc_section: "1704"
 chapter: 27
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "2 U.S.C. § 1704"
-generated_at: "2026-03-30T06:07:44.572Z"
+generated_at: "2026-03-30T06:10:43.827Z"
 status: "active"
 ---
 

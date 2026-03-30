@@ -3,9 +3,9 @@ title: "Section 322 - Renumbered § 354]"
 usc_title: 37
 usc_section: "322"
 chapter: 5
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "37 U.S.C. § 322"
-generated_at: "2026-03-30T06:09:58.260Z"
+generated_at: "2026-03-30T06:12:01.701Z"
 status: "renumbered"
 ---
 

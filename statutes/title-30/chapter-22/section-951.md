@@ -3,9 +3,9 @@ title: "Section 951 - Studies and research"
 usc_title: 30
 usc_section: "951"
 chapter: 22
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "30 U.S.C. § 951"
-generated_at: "2026-03-30T06:09:42.295Z"
+generated_at: "2026-03-30T06:11:43.227Z"
 status: "active"
 ---
 

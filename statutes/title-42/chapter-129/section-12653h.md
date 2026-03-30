@@ -3,9 +3,9 @@ title: "Section 12653h - National Service Reserve Corps"
 usc_title: 42
 usc_section: "12653h"
 chapter: 129
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 12653h"
-generated_at: "2026-03-30T06:10:19.389Z"
+generated_at: "2026-03-30T06:12:18.421Z"
 status: "active"
 ---
 

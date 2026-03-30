@@ -3,9 +3,9 @@ title: "Section 8432c - Contributions of certain persons reemployed after servic
 usc_title: 5
 usc_section: "8432c"
 chapter: 84
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "5 U.S.C. § 8432c"
-generated_at: "2026-03-30T06:07:51.664Z"
+generated_at: "2026-03-30T06:10:48.518Z"
 status: "active"
 ---
 

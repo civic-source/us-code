@@ -3,9 +3,9 @@ title: "Section 1603 - Registration of lobbyists"
 usc_title: 2
 usc_section: "1603"
 chapter: 26
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "2 U.S.C. § 1603"
-generated_at: "2026-03-30T06:07:44.571Z"
+generated_at: "2026-03-30T06:10:43.826Z"
 status: "active"
 ---
 

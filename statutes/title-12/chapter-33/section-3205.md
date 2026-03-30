@@ -3,9 +3,9 @@ title: "Section 3205 - Management official in position prior to November 10, 197
 usc_title: 12
 usc_section: "3205"
 chapter: 33
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "12 U.S.C. § 3205"
-generated_at: "2026-03-30T06:08:38.968Z"
+generated_at: "2026-03-30T06:11:05.213Z"
 status: "active"
 ---
 

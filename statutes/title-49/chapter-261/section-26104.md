@@ -3,9 +3,9 @@ title: "Section 26104 - Authorization of appropriations"
 usc_title: 49
 usc_section: "26104"
 chapter: 261
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "49 U.S.C. § 26104"
-generated_at: "2026-03-30T06:10:25.899Z"
+generated_at: "2026-03-30T06:12:29.290Z"
 status: "active"
 ---
 

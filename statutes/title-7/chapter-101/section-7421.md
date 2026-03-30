@@ -3,9 +3,9 @@ title: "Section 7421 - Suspension or termination"
 usc_title: 7
 usc_section: "7421"
 chapter: 101
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "7 U.S.C. § 7421"
-generated_at: "2026-03-30T06:08:04.766Z"
+generated_at: "2026-03-30T06:10:56.531Z"
 status: "active"
 ---
 

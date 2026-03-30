@@ -3,9 +3,9 @@ title: "Section 634 - Officers holding certain offices"
 usc_title: 14
 usc_section: "634"
 chapter: 17
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "14 U.S.C. § 634"
-generated_at: "2026-03-30T06:08:28.957Z"
+generated_at: "2026-03-30T06:11:02.357Z"
 status: "active"
 ---
 

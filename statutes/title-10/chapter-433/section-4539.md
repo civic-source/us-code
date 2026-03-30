@@ -3,9 +3,9 @@ title: "Section 4539 - Repealed. Pub. L. 91–482 , § 1(a), Oct. 21, 1970 , 84 
 usc_title: 10
 usc_section: "4539"
 chapter: 433
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 4539"
-generated_at: "2026-03-30T06:08:21.060Z"
+generated_at: "2026-03-30T06:11:00.215Z"
 status: "repealed"
 ---
 

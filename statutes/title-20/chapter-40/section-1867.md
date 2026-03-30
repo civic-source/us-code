@@ -3,9 +3,9 @@ title: "Section 1867 - Repealed. Pub. L. 95–561, title III , § 301(b)(1)(G), 
 usc_title: 20
 usc_section: "1867"
 chapter: 40
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "20 U.S.C. § 1867"
-generated_at: "2026-03-30T06:09:24.760Z"
+generated_at: "2026-03-30T06:11:20.552Z"
 status: "repealed"
 ---
 

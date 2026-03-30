@@ -3,9 +3,9 @@ title: "Section 12003 - Authorized strengths: commissioned officers in an active
 usc_title: 10
 usc_section: "12003"
 chapter: 1201
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 12003"
-generated_at: "2026-03-30T06:08:21.084Z"
+generated_at: "2026-03-30T06:11:00.240Z"
 status: "active"
 ---
 

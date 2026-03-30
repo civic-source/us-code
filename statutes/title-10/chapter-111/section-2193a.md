@@ -3,9 +3,9 @@ title: "Section 2193a - Improvement of education in technical fields: general au
 usc_title: 10
 usc_section: "2193a"
 chapter: 111
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 2193a"
-generated_at: "2026-03-30T06:08:21.018Z"
+generated_at: "2026-03-30T06:11:00.170Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5712 - Validity of affidavits"
 usc_title: 38
 usc_section: "5712"
 chapter: 57
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "38 U.S.C. § 5712"
-generated_at: "2026-03-30T06:10:00.140Z"
+generated_at: "2026-03-30T06:12:01.198Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 151902 - Purposes"
 usc_title: 36
 usc_section: "151902"
 chapter: 1519
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "36 U.S.C. § 151902"
-generated_at: "2026-03-30T06:10:01.124Z"
+generated_at: "2026-03-30T06:11:59.336Z"
 status: "active"
 ---
 

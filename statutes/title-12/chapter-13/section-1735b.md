@@ -3,9 +3,9 @@ title: "Section 1735b - Expenditures to correct or reimburse for structural or o
 usc_title: 12
 usc_section: "1735b"
 chapter: 13
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "12 U.S.C. § 1735b"
-generated_at: "2026-03-30T06:08:38.911Z"
+generated_at: "2026-03-30T06:11:05.143Z"
 status: "active"
 ---
 

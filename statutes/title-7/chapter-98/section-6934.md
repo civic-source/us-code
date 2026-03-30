@@ -3,9 +3,9 @@ title: "Section 6934 - Office of Advocacy and Outreach"
 usc_title: 7
 usc_section: "6934"
 chapter: 98
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "7 U.S.C. § 6934"
-generated_at: "2026-03-30T06:08:04.756Z"
+generated_at: "2026-03-30T06:10:56.522Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 44726 - Denial and revocation of certificate for counterfeit par
 usc_title: 49
 usc_section: "44726"
 chapter: 447
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "49 U.S.C. § 44726"
-generated_at: "2026-03-30T06:10:25.927Z"
+generated_at: "2026-03-30T06:12:29.317Z"
 status: "active"
 ---
 

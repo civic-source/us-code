@@ -3,9 +3,9 @@ title: "Section 2830 - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13,
 usc_title: 42
 usc_section: "2830"
 chapter: 34
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 2830"
-generated_at: "2026-03-30T06:10:19.151Z"
+generated_at: "2026-03-30T06:12:18.177Z"
 status: "repealed"
 ---
 

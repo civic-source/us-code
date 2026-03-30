@@ -3,9 +3,9 @@ title: "Section 78nn - Tennessee Valley Authority"
 usc_title: 15
 usc_section: "78nn"
 chapter: 2
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 78nn"
-generated_at: "2026-03-30T06:09:10.379Z"
+generated_at: "2026-03-30T06:11:07.598Z"
 status: "active"
 ---
 

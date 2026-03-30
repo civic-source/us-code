@@ -3,9 +3,9 @@ title: "Section 1387 - Semiannual report of disbursements"
 usc_title: 2
 usc_section: "1387"
 chapter: 24
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "2 U.S.C. § 1387"
-generated_at: "2026-03-30T06:07:44.567Z"
+generated_at: "2026-03-30T06:10:43.823Z"
 status: "active"
 ---
 

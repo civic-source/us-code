@@ -3,9 +3,9 @@ title: "Section 795 - Fraud, waste, and abuse controls"
 usc_title: 6
 usc_section: "795"
 chapter: 2
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "6 U.S.C. § 795"
-generated_at: "2026-03-30T06:08:15.381Z"
+generated_at: "2026-03-30T06:10:50.554Z"
 status: "active"
 ---
 

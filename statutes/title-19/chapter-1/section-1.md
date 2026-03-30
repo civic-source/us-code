@@ -3,9 +3,9 @@ title: "Section 1 - Expenses from fees collected"
 usc_title: 19
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "19 U.S.C. § 1"
-generated_at: "2026-03-30T06:09:16.617Z"
+generated_at: "2026-03-30T06:11:11.413Z"
 status: "active"
 ---
 

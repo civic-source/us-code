@@ -3,9 +3,9 @@ title: "Section 855 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108 
 usc_title: 45
 usc_section: "855"
 chapter: 17
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "45 U.S.C. § 855"
-generated_at: "2026-03-30T06:10:07.923Z"
+generated_at: "2026-03-30T06:12:07.423Z"
 status: "repealed"
 ---
 

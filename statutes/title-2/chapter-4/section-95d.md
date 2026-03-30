@@ -3,9 +3,9 @@ title: "Section 95d - Transferred"
 usc_title: 2
 usc_section: "95d"
 chapter: 4
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "2 U.S.C. § 95d"
-generated_at: "2026-03-30T06:07:44.545Z"
+generated_at: "2026-03-30T06:10:43.799Z"
 status: "transferred"
 ---
 

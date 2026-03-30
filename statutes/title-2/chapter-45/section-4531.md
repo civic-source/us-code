@@ -3,9 +3,9 @@ title: "Section 4531 - House of Representatives pay adjustments; action by Chief
 usc_title: 2
 usc_section: "4531"
 chapter: 45
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "2 U.S.C. § 4531"
-generated_at: "2026-03-30T06:07:44.584Z"
+generated_at: "2026-03-30T06:10:43.839Z"
 status: "active"
 ---
 

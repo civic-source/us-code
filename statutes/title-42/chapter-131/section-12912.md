@@ -3,9 +3,9 @@ title: "Section 12912 - Authorization of appropriations"
 usc_title: 42
 usc_section: "12912"
 chapter: 131
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 12912"
-generated_at: "2026-03-30T06:10:19.398Z"
+generated_at: "2026-03-30T06:12:18.430Z"
 status: "active"
 ---
 

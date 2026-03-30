@@ -3,9 +3,9 @@ title: "Section 1645 - Congressional declaration of purpose"
 usc_title: 22
 usc_section: "1645"
 chapter: 21
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 1645"
-generated_at: "2026-03-30T06:09:37.075Z"
+generated_at: "2026-03-30T06:11:34.194Z"
 status: "active"
 ---
 

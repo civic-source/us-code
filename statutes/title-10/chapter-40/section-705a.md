@@ -3,9 +3,9 @@ title: "Section 705a - Rest and recuperation absence: certain members undergoing
 usc_title: 10
 usc_section: "705a"
 chapter: 40
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 705a"
-generated_at: "2026-03-30T06:08:20.976Z"
+generated_at: "2026-03-30T06:11:00.124Z"
 status: "active"
 ---
 

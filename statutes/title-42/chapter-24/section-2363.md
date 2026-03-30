@@ -3,9 +3,9 @@ title: "Section 2363 - Indemnity obligation of Commission; incorporation by refe
 usc_title: 42
 usc_section: "2363"
 chapter: 24
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 2363"
-generated_at: "2026-03-30T06:10:19.149Z"
+generated_at: "2026-03-30T06:12:18.176Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3712f - Division of Applied Law Enforcement Technology"
 usc_title: 42
 usc_section: "3712f"
 chapter: 46
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 3712f"
-generated_at: "2026-03-30T06:10:19.173Z"
+generated_at: "2026-03-30T06:12:18.201Z"
 status: "active"
 ---
 

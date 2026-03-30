@@ -3,9 +3,9 @@ title: "Section 1598 - Omitted"
 usc_title: 48
 usc_section: "1598"
 chapter: 12
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "48 U.S.C. § 1598"
-generated_at: "2026-03-30T06:10:22.334Z"
+generated_at: "2026-03-30T06:12:21.105Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 694 - Repealed. Pub. L. 100–590, title I , § 111(b), Nov. 3, 
 usc_title: 15
 usc_section: "694"
 chapter: 14
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 694"
-generated_at: "2026-03-30T06:09:10.423Z"
+generated_at: "2026-03-30T06:11:07.643Z"
 status: "repealed"
 ---
 

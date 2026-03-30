@@ -3,9 +3,9 @@ title: "Section 1002a - Repealed. Pub. L. 97–214 , § 7(16), July 12, 1982 , 9
 usc_title: 30
 usc_section: "1002a"
 chapter: 23
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "30 U.S.C. § 1002a"
-generated_at: "2026-03-30T06:09:42.296Z"
+generated_at: "2026-03-30T06:11:43.228Z"
 status: "repealed"
 ---
 

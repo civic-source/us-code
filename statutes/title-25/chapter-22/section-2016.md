@@ -3,9 +3,9 @@ title: "Section 2016 - Rights of Indian students"
 usc_title: 25
 usc_section: "2016"
 chapter: 22
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "25 U.S.C. § 2016"
-generated_at: "2026-03-30T06:09:28.174Z"
+generated_at: "2026-03-30T06:11:41.073Z"
 status: "active"
 ---
 

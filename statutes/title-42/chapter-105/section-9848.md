@@ -3,9 +3,9 @@ title: "Section 9848 - Comparability of wages"
 usc_title: 42
 usc_section: "9848"
 chapter: 105
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 9848"
-generated_at: "2026-03-30T06:10:19.338Z"
+generated_at: "2026-03-30T06:12:18.371Z"
 status: "active"
 ---
 

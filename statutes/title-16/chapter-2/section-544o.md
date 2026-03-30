@@ -3,9 +3,9 @@ title: "Section 544o - Savings provisions"
 usc_title: 16
 usc_section: "544o"
 chapter: 2
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 544o"
-generated_at: "2026-03-30T06:09:20.716Z"
+generated_at: "2026-03-30T06:11:22.777Z"
 status: "active"
 ---
 

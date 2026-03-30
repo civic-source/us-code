@@ -3,9 +3,9 @@ title: "Section 2346c - Administration of justice"
 usc_title: 22
 usc_section: "2346c"
 chapter: 32
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 2346c"
-generated_at: "2026-03-30T06:09:37.092Z"
+generated_at: "2026-03-30T06:11:34.212Z"
 status: "active"
 ---
 

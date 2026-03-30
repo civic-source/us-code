@@ -3,9 +3,9 @@ title: "Section 9511a - Civil Reserve Air Fleet contracts: payment rate"
 usc_title: 10
 usc_section: "9511a"
 chapter: 931
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 9511a"
-generated_at: "2026-03-30T06:08:21.079Z"
+generated_at: "2026-03-30T06:11:00.235Z"
 status: "active"
 ---
 

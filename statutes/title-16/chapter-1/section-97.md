@@ -3,9 +3,9 @@ title: "Section 97 - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , ef
 usc_title: 16
 usc_section: "97"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 97"
-generated_at: "2026-03-30T06:09:20.623Z"
+generated_at: "2026-03-30T06:11:22.684Z"
 status: "repealed"
 ---
 

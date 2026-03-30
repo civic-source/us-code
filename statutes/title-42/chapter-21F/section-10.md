@@ -3,9 +3,9 @@ title: "Section 10 - Regulations"
 usc_title: 42
 usc_section: "10"
 chapter: 21
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T06:10:19.131Z"
+generated_at: "2026-03-30T06:12:18.157Z"
 status: "active"
 ---
 

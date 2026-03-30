@@ -3,9 +3,9 @@ title: "Section 2292c - Repealed. Pub. L. 112–74, div. I, title VII , § 7034(
 usc_title: 22
 usc_section: "2292c"
 chapter: 32
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 2292c"
-generated_at: "2026-03-30T06:09:37.089Z"
+generated_at: "2026-03-30T06:11:34.209Z"
 status: "repealed"
 ---
 

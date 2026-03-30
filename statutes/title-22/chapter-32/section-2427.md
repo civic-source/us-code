@@ -3,9 +3,9 @@ title: "Section 2427 - Operating expenses"
 usc_title: 22
 usc_section: "2427"
 chapter: 32
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 2427"
-generated_at: "2026-03-30T06:09:37.099Z"
+generated_at: "2026-03-30T06:11:34.218Z"
 status: "active"
 ---
 

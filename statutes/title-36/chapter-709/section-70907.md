@@ -3,9 +3,9 @@ title: "Section 70907 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "70907"
 chapter: 709
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "36 U.S.C. § 70907"
-generated_at: "2026-03-30T06:10:01.120Z"
+generated_at: "2026-03-30T06:11:59.332Z"
 status: "active"
 ---
 

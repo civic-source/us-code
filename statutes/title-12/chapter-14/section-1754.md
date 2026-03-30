@@ -3,9 +3,9 @@ title: "Section 1754 - Approval of organization certificate"
 usc_title: 12
 usc_section: "1754"
 chapter: 14
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "12 U.S.C. § 1754"
-generated_at: "2026-03-30T06:08:38.917Z"
+generated_at: "2026-03-30T06:11:05.150Z"
 status: "active"
 ---
 

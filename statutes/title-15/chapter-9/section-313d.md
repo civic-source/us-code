@@ -3,9 +3,9 @@ title: "Section 313d - NIDIS program"
 usc_title: 15
 usc_section: "313d"
 chapter: 9
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 313d"
-generated_at: "2026-03-30T06:09:10.398Z"
+generated_at: "2026-03-30T06:11:07.617Z"
 status: "active"
 ---
 

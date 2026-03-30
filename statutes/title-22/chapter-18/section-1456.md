@@ -3,9 +3,9 @@ title: "Section 1456 - Utilization of facilities and personnel of other Governme
 usc_title: 22
 usc_section: "1456"
 chapter: 18
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 1456"
-generated_at: "2026-03-30T06:09:37.069Z"
+generated_at: "2026-03-30T06:11:34.190Z"
 status: "active"
 ---
 

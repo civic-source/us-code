@@ -3,9 +3,9 @@ title: "Section 3962 - Higher grade for service in special positions"
 usc_title: 10
 usc_section: "3962"
 chapter: 369
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 3962"
-generated_at: "2026-03-30T06:08:21.058Z"
+generated_at: "2026-03-30T06:11:00.213Z"
 status: "active"
 ---
 

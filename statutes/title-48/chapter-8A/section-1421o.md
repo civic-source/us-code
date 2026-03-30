@@ -3,9 +3,9 @@ title: "Section 1421o - Federal assistance for fire control, watershed protectio
 usc_title: 48
 usc_section: "1421o"
 chapter: 8
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "48 U.S.C. § 1421o"
-generated_at: "2026-03-30T06:10:22.330Z"
+generated_at: "2026-03-30T06:12:21.100Z"
 status: "active"
 ---
 

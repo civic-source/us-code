@@ -3,9 +3,9 @@ title: "Section 732a - Critical positions"
 usc_title: 31
 usc_section: "732a"
 chapter: 7
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "31 U.S.C. § 732a"
-generated_at: "2026-03-30T06:09:56.239Z"
+generated_at: "2026-03-30T06:11:56.047Z"
 status: "active"
 ---
 

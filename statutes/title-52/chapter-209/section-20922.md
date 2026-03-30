@@ -3,9 +3,9 @@ title: "Section 20922 - Duties"
 usc_title: 52
 usc_section: "20922"
 chapter: 209
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "52 U.S.C. § 20922"
-generated_at: "2026-03-30T06:10:28.043Z"
+generated_at: "2026-03-30T06:12:31.446Z"
 status: "active"
 ---
 

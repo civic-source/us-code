@@ -3,9 +3,9 @@ title: "Section 1716 - Declaration of purposes of subchapter"
 usc_title: 12
 usc_section: "1716"
 chapter: 13
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "12 U.S.C. § 1716"
-generated_at: "2026-03-30T06:08:38.909Z"
+generated_at: "2026-03-30T06:11:05.140Z"
 status: "active"
 ---
 

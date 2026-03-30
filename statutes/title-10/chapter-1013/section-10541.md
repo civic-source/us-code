@@ -3,9 +3,9 @@ title: "Section 10541 - National Guard and reserve component equipment: annual r
 usc_title: 10
 usc_section: "10541"
 chapter: 1013
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 10541"
-generated_at: "2026-03-30T06:08:21.083Z"
+generated_at: "2026-03-30T06:11:00.239Z"
 status: "active"
 ---
 

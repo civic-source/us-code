@@ -3,9 +3,9 @@ title: "Section 3797o - Reports"
 usc_title: 42
 usc_section: "3797o"
 chapter: 46
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 3797o"
-generated_at: "2026-03-30T06:10:19.183Z"
+generated_at: "2026-03-30T06:12:18.211Z"
 status: "active"
 ---
 

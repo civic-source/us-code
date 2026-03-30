@@ -3,9 +3,9 @@ title: "Section 14136e - Kirk Bloodsworth Post-Conviction DNA Testing Grant Prog
 usc_title: 42
 usc_section: "14136e"
 chapter: 136
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 14136e"
-generated_at: "2026-03-30T06:10:19.424Z"
+generated_at: "2026-03-30T06:12:18.456Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13384 - Assessment of alternative policy mechanisms for addressi
 usc_title: 42
 usc_section: "13384"
 chapter: 134
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 13384"
-generated_at: "2026-03-30T06:10:19.405Z"
+generated_at: "2026-03-30T06:12:18.437Z"
 status: "active"
 ---
 

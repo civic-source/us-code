@@ -3,9 +3,9 @@ title: "Section 807 - Rules for certain reserves"
 usc_title: 26
 usc_section: "807"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "26 U.S.C. § 807"
-generated_at: "2026-03-30T06:09:46.351Z"
+generated_at: "2026-03-30T06:11:50.866Z"
 status: "active"
 ---
 

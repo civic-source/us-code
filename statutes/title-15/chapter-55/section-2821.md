@@ -3,9 +3,9 @@ title: "Section 2821 - Definitions"
 usc_title: 15
 usc_section: "2821"
 chapter: 55
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 2821"
-generated_at: "2026-03-30T06:09:10.488Z"
+generated_at: "2026-03-30T06:11:07.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3025 - Designation of State agencies"
 usc_title: 42
 usc_section: "3025"
 chapter: 35
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 3025"
-generated_at: "2026-03-30T06:10:19.155Z"
+generated_at: "2026-03-30T06:12:18.183Z"
 status: "active"
 ---
 

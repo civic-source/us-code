@@ -3,9 +3,9 @@ title: "Section 16991 - Annual report on enforcement of registration requirement
 usc_title: 42
 usc_section: "16991"
 chapter: 151
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 16991"
-generated_at: "2026-03-30T06:10:19.457Z"
+generated_at: "2026-03-30T06:12:18.490Z"
 status: "active"
 ---
 

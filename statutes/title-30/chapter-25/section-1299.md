@@ -3,9 +3,9 @@ title: "Section 1299 - Study of reclamation standards for surface mining of othe
 usc_title: 30
 usc_section: "1299"
 chapter: 25
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "30 U.S.C. § 1299"
-generated_at: "2026-03-30T06:09:42.305Z"
+generated_at: "2026-03-30T06:11:43.236Z"
 status: "active"
 ---
 

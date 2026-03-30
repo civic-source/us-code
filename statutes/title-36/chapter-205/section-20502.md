@@ -3,9 +3,9 @@ title: "Section 20502 - Purposes"
 usc_title: 36
 usc_section: "20502"
 chapter: 205
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "36 U.S.C. § 20502"
-generated_at: "2026-03-30T06:10:01.114Z"
+generated_at: "2026-03-30T06:11:59.326Z"
 status: "active"
 ---
 

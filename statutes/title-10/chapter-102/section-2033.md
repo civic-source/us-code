@@ -3,9 +3,9 @@ title: "Section 2033 - Instructor qualifications"
 usc_title: 10
 usc_section: "2033"
 chapter: 102
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 2033"
-generated_at: "2026-03-30T06:08:21.014Z"
+generated_at: "2026-03-30T06:11:00.166Z"
 status: "active"
 ---
 

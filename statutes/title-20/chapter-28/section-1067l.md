@@ -3,9 +3,9 @@ title: "Section 1067l - Repealed. Pub. L. 105–244, title III , § 301(a)(8), O
 usc_title: 20
 usc_section: "1067l"
 chapter: 28
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "20 U.S.C. § 1067l"
-generated_at: "2026-03-30T06:09:24.701Z"
+generated_at: "2026-03-30T06:11:20.485Z"
 status: "repealed"
 ---
 

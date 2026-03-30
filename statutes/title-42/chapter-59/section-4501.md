@@ -3,9 +3,9 @@ title: "Section 4501 - Congressional statement of purpose"
 usc_title: 42
 usc_section: "4501"
 chapter: 59
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 4501"
-generated_at: "2026-03-30T06:10:19.196Z"
+generated_at: "2026-03-30T06:12:18.225Z"
 status: "active"
 ---
 

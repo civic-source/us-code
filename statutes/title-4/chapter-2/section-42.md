@@ -3,9 +3,9 @@ title: "Section 42 - Same; custody and use of"
 usc_title: 4
 usc_section: "42"
 chapter: 2
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "4 U.S.C. § 42"
-generated_at: "2026-03-30T06:07:46.942Z"
+generated_at: "2026-03-30T06:10:42.231Z"
 status: "active"
 ---
 

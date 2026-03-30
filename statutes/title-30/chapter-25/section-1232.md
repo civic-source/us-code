@@ -3,9 +3,9 @@ title: "Section 1232 - Reclamation fee"
 usc_title: 30
 usc_section: "1232"
 chapter: 25
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "30 U.S.C. § 1232"
-generated_at: "2026-03-30T06:09:42.299Z"
+generated_at: "2026-03-30T06:11:43.231Z"
 status: "active"
 ---
 
@@ -80,7 +80,7 @@ status: "active"
         - **(II)** the amount that the trustees estimated the Plan will receive during the next calendar year in payments paid by Federal agencies in connection with benefits provided by the Plan.
       - **(ii)** The excess determined under clause (i) shall be calculated—
         - **(I)** except as provided in subclause (II), by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006 , who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made; and
-        - **(II)** for purposes of the transfer made for fiscal year 2017, as if, for the period beginning January 1, 2017 , and ending April 30, 2017 , only—
+        - **(II)** for purposes of the transfer made for fiscal year 2017, as if, for the period beginning January 1, 2017 , and ending May 5, 2017 , only—
       - **(iii)** Individuals referred to in clause (ii)(II)(bb) shall be treated as eligible to receive health benefits under the Plan for the plan year that includes January 1, 2017 .
       - **(iv)** The amount of the transfer otherwise determined under this subparagraph for fiscal year 2017 shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees’ beneficiary association established as a result of a bankruptcy proceeding described in clause (ii)(II).
       - **(v)** The administrator of such voluntary employees’ beneficiary association shall transfer to the Plan any amounts received as a result of such bankruptcy proceeding, reduced by an amount for administrative costs of such association.

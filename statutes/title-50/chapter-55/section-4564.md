@@ -3,9 +3,9 @@ title: "Section 4564 - Termination of chapter"
 usc_title: 50
 usc_section: "4564"
 chapter: 55
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "50 U.S.C. § 4564"
-generated_at: "2026-03-30T06:10:24.070Z"
+generated_at: "2026-03-30T06:12:26.064Z"
 status: "active"
 ---
 

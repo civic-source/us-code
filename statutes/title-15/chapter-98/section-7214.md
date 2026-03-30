@@ -3,9 +3,9 @@ title: "Section 7214 - Inspections of registered public accounting firms"
 usc_title: 15
 usc_section: "7214"
 chapter: 98
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 7214"
-generated_at: "2026-03-30T06:09:10.517Z"
+generated_at: "2026-03-30T06:11:07.739Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3994 - Mining claims"
 usc_title: 50
 usc_section: "3994"
 chapter: 50
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "50 U.S.C. § 3994"
-generated_at: "2026-03-30T06:10:24.060Z"
+generated_at: "2026-03-30T06:12:26.054Z"
 status: "active"
 ---
 

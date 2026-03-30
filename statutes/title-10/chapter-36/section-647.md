@@ -3,9 +3,9 @@ title: "Section 647 - Force shaping authority"
 usc_title: 10
 usc_section: "647"
 chapter: 36
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 647"
-generated_at: "2026-03-30T06:08:20.974Z"
+generated_at: "2026-03-30T06:11:00.122Z"
 status: "active"
 ---
 

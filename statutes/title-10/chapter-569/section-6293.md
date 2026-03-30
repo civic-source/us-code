@@ -3,9 +3,9 @@ title: "Section 6293 - Repealed. Pub. L. 90–235 , § 3(a)(2), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "6293"
 chapter: 569
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 6293"
-generated_at: "2026-03-30T06:08:21.066Z"
+generated_at: "2026-03-30T06:11:00.222Z"
 status: "repealed"
 ---
 

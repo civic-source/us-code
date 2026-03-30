@@ -3,9 +3,9 @@ title: "Section 152701 - Definition"
 usc_title: 36
 usc_section: "152701"
 chapter: 1527
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "36 U.S.C. § 152701"
-generated_at: "2026-03-30T06:10:01.125Z"
+generated_at: "2026-03-30T06:11:59.337Z"
 status: "active"
 ---
 

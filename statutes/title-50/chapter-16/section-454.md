@@ -3,9 +3,9 @@ title: "Section 454 - Repealed. Pub. L. 101–510, div. A, title XIII , § 1303(
 usc_title: 50
 usc_section: "454"
 chapter: 16
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "50 U.S.C. § 454"
-generated_at: "2026-03-30T06:10:24.011Z"
+generated_at: "2026-03-30T06:12:26.008Z"
 status: "repealed"
 ---
 

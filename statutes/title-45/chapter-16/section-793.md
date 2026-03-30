@@ -3,9 +3,9 @@ title: "Section 793 - Repealed. Pub. L. 95–473 , § 4(b), Oct. 17, 1978 , 92 S
 usc_title: 45
 usc_section: "793"
 chapter: 16
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "45 U.S.C. § 793"
-generated_at: "2026-03-30T06:10:07.922Z"
+generated_at: "2026-03-30T06:12:07.421Z"
 status: "repealed"
 ---
 

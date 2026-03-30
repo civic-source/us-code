@@ -3,9 +3,9 @@ title: "Section 2332f - Bombings of places of public use, government facilities,
 usc_title: 18
 usc_section: "2332f"
 chapter: 113
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "18 U.S.C. § 2332f"
-generated_at: "2026-03-30T06:09:18.225Z"
+generated_at: "2026-03-30T06:11:14.098Z"
 status: "active"
 ---
 

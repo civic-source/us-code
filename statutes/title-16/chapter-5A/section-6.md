@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 93–205 , § 14, Dec. 28, 1973 , 87 Stat.
 usc_title: 16
 usc_section: "6"
 chapter: 5
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T06:09:20.727Z"
+generated_at: "2026-03-30T06:11:22.788Z"
 status: "repealed"
 ---
 

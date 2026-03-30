@@ -3,9 +3,9 @@ title: "Section 2148 - Importation of live dogs"
 usc_title: 7
 usc_section: "2148"
 chapter: 54
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "7 U.S.C. § 2148"
-generated_at: "2026-03-30T06:08:04.715Z"
+generated_at: "2026-03-30T06:10:56.480Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 934 - Limitation on reduction in income tax liability incurred t
 usc_title: 26
 usc_section: "934"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "26 U.S.C. § 934"
-generated_at: "2026-03-30T06:09:46.369Z"
+generated_at: "2026-03-30T06:11:50.882Z"
 status: "active"
 ---
 

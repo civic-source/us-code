@@ -3,9 +3,9 @@ title: "Section 3067 - Army Medical Department"
 usc_title: 10
 usc_section: "3067"
 chapter: 307
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 3067"
-generated_at: "2026-03-30T06:08:21.056Z"
+generated_at: "2026-03-30T06:11:00.210Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3820 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "3820"
 chapter: 361
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 3820"
-generated_at: "2026-03-30T06:08:21.057Z"
+generated_at: "2026-03-30T06:11:00.212Z"
 status: "repealed"
 ---
 

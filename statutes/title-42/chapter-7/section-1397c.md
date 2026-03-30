@@ -3,9 +3,9 @@ title: "Section 1397c - State reporting requirements"
 usc_title: 42
 usc_section: "1397c"
 chapter: 7
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 1397c"
-generated_at: "2026-03-30T06:10:19.070Z"
+generated_at: "2026-03-30T06:12:18.094Z"
 status: "active"
 ---
 

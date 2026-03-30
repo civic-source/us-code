@@ -3,9 +3,9 @@ title: "Section 1823 - Safety and health of housing"
 usc_title: 29
 usc_section: "1823"
 chapter: 20
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "29 U.S.C. § 1823"
-generated_at: "2026-03-30T06:09:47.698Z"
+generated_at: "2026-03-30T06:11:53.433Z"
 status: "active"
 ---
 

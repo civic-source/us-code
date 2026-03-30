@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 92–342 , July 10, 1972 , 86 Stat. 435"
 usc_title: 2
 usc_section: "5"
 chapter: 3
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "2 U.S.C. § 5"
-generated_at: "2026-03-30T06:07:44.543Z"
+generated_at: "2026-03-30T06:10:43.798Z"
 status: "repealed"
 ---
 

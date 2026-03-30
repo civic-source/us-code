@@ -3,9 +3,9 @@ title: "Section 3914 - Materials development and methods research for mathematic
 usc_title: 20
 usc_section: "3914"
 chapter: 52
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "20 U.S.C. § 3914"
-generated_at: "2026-03-30T06:09:24.770Z"
+generated_at: "2026-03-30T06:11:20.564Z"
 status: "active"
 ---
 

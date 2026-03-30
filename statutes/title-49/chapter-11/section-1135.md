@@ -3,9 +3,9 @@ title: "Section 1135 - Secretary of Transportation’s responses to safety recom
 usc_title: 49
 usc_section: "1135"
 chapter: 11
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "49 U.S.C. § 1135"
-generated_at: "2026-03-30T06:10:25.862Z"
+generated_at: "2026-03-30T06:12:29.258Z"
 status: "active"
 ---
 

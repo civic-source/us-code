@@ -3,9 +3,9 @@ title: "Section 450l - Expiration of dairy farmer indemnity program"
 usc_title: 7
 usc_section: "450l"
 chapter: 17
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "7 U.S.C. § 450l"
-generated_at: "2026-03-30T06:08:04.647Z"
+generated_at: "2026-03-30T06:10:56.408Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1201 - Alternative tax for corporations"
 usc_title: 26
 usc_section: "1201"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "26 U.S.C. § 1201"
-generated_at: "2026-03-30T06:09:46.380Z"
+generated_at: "2026-03-30T06:11:50.892Z"
 status: "active"
 ---
 

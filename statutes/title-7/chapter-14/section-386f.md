@@ -3,9 +3,9 @@ title: "Section 386f - Repealed. Aug. 11, 1955, ch. 790 , § 2, 69 Stat. 674"
 usc_title: 7
 usc_section: "386f"
 chapter: 14
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "7 U.S.C. § 386f"
-generated_at: "2026-03-30T06:08:04.645Z"
+generated_at: "2026-03-30T06:10:56.405Z"
 status: "repealed"
 ---
 

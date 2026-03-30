@@ -3,9 +3,9 @@ title: "Section 2910 - Authorization of appropriations"
 usc_title: 16
 usc_section: "2910"
 chapter: 49
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 2910"
-generated_at: "2026-03-30T06:09:20.908Z"
+generated_at: "2026-03-30T06:11:22.869Z"
 status: "active"
 ---
 

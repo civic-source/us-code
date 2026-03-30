@@ -3,9 +3,9 @@ title: "Section 475 - Purposes for which national forests may be established and
 usc_title: 16
 usc_section: "475"
 chapter: 2
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 475"
-generated_at: "2026-03-30T06:09:20.704Z"
+generated_at: "2026-03-30T06:11:22.767Z"
 status: "active"
 ---
 

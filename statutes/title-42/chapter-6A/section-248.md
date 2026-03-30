@@ -3,9 +3,9 @@ title: "Section 248 - Control and management of hospitals; furnishing prosthetic
 usc_title: 42
 usc_section: "248"
 chapter: 6
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 248"
-generated_at: "2026-03-30T06:10:18.809Z"
+generated_at: "2026-03-30T06:12:17.815Z"
 status: "active"
 ---
 

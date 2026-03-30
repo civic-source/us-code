@@ -3,9 +3,9 @@ title: "Section 940f - Extension of period of existing guarantee"
 usc_title: 7
 usc_section: "940f"
 chapter: 31
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "7 U.S.C. § 940f"
-generated_at: "2026-03-30T06:08:04.657Z"
+generated_at: "2026-03-30T06:10:56.418Z"
 status: "active"
 ---
 

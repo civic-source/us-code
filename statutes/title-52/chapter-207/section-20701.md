@@ -3,9 +3,9 @@ title: "Section 20701 - Retention and preservation of records and papers by offi
 usc_title: 52
 usc_section: "20701"
 chapter: 207
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "52 U.S.C. § 20701"
-generated_at: "2026-03-30T06:10:28.043Z"
+generated_at: "2026-03-30T06:12:31.446Z"
 status: "active"
 ---
 

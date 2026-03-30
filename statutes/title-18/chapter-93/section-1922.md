@@ -3,9 +3,9 @@ title: "Section 1922 - False or withheld report concerning Federal employees’ 
 usc_title: 18
 usc_section: "1922"
 chapter: 93
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "18 U.S.C. § 1922"
-generated_at: "2026-03-30T06:09:18.217Z"
+generated_at: "2026-03-30T06:11:14.088Z"
 status: "active"
 ---
 

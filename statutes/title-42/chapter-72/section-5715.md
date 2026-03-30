@@ -3,9 +3,9 @@ title: "Section 5715 - Reports"
 usc_title: 42
 usc_section: "5715"
 chapter: 72
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 5715"
-generated_at: "2026-03-30T06:10:19.224Z"
+generated_at: "2026-03-30T06:12:18.254Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1165 - Protection of the public interest"
 usc_title: 11
 usc_section: "1165"
 chapter: 11
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "11 U.S.C. § 1165"
-generated_at: "2026-03-30T06:08:28.584Z"
+generated_at: "2026-03-30T06:11:02.737Z"
 status: "active"
 ---
 

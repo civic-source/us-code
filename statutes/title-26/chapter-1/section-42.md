@@ -3,9 +3,9 @@ title: "Section 42 - Low-income housing credit"
 usc_title: 26
 usc_section: "42"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "26 U.S.C. § 42"
-generated_at: "2026-03-30T06:09:46.255Z"
+generated_at: "2026-03-30T06:11:50.768Z"
 status: "active"
 ---
 

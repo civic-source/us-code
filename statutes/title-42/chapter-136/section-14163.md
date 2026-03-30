@@ -3,9 +3,9 @@ title: "Section 14163 - Capital representation improvement grants"
 usc_title: 42
 usc_section: "14163"
 chapter: 136
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 14163"
-generated_at: "2026-03-30T06:10:19.424Z"
+generated_at: "2026-03-30T06:12:18.456Z"
 status: "active"
 ---
 

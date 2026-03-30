@@ -3,9 +3,9 @@ title: "Section 1632 - Authority for States to provide for attribution of sponso
 usc_title: 8
 usc_section: "1632"
 chapter: 14
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "8 U.S.C. § 1632"
-generated_at: "2026-03-30T06:08:02.717Z"
+generated_at: "2026-03-30T06:10:53.466Z"
 status: "active"
 ---
 

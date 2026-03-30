@@ -3,9 +3,9 @@ title: "Section 2279a - Principal Advisor on Space Control"
 usc_title: 10
 usc_section: "2279a"
 chapter: 135
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 2279a"
-generated_at: "2026-03-30T06:08:21.022Z"
+generated_at: "2026-03-30T06:11:00.175Z"
 status: "active"
 ---
 

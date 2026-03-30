@@ -3,9 +3,9 @@ title: "Section 3206 - Experimental projects and technical assistance"
 usc_title: 29
 usc_section: "3206"
 chapter: 32
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "29 U.S.C. § 3206"
-generated_at: "2026-03-30T06:09:47.712Z"
+generated_at: "2026-03-30T06:11:53.447Z"
 status: "active"
 ---
 

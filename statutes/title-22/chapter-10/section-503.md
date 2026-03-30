@@ -3,9 +3,9 @@ title: "Section 503 - Facilitating work of foreign traveling salesmen; licenses 
 usc_title: 22
 usc_section: "503"
 chapter: 10
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 503"
-generated_at: "2026-03-30T06:09:37.065Z"
+generated_at: "2026-03-30T06:11:34.186Z"
 status: "active"
 ---
 

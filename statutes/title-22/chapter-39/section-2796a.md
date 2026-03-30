@@ -3,9 +3,9 @@ title: "Section 2796a - Reports to Congress"
 usc_title: 22
 usc_section: "2796a"
 chapter: 39
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 2796a"
-generated_at: "2026-03-30T06:09:37.115Z"
+generated_at: "2026-03-30T06:11:34.234Z"
 status: "active"
 ---
 

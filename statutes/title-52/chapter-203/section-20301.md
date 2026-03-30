@@ -3,9 +3,9 @@ title: "Section 20301 - Federal responsibilities"
 usc_title: 52
 usc_section: "20301"
 chapter: 203
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "52 U.S.C. § 20301"
-generated_at: "2026-03-30T06:10:28.039Z"
+generated_at: "2026-03-30T06:12:31.444Z"
 status: "active"
 ---
 

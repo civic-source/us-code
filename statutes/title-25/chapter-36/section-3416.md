@@ -3,9 +3,9 @@ title: "Section 3416 - Labor market information on Indian work force"
 usc_title: 25
 usc_section: "3416"
 chapter: 36
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "25 U.S.C. § 3416"
-generated_at: "2026-03-30T06:09:28.190Z"
+generated_at: "2026-03-30T06:11:41.086Z"
 status: "active"
 ---
 

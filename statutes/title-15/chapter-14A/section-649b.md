@@ -3,9 +3,9 @@ title: "Section 649b - Grants, contracts and cooperative agreements for internat
 usc_title: 15
 usc_section: "649b"
 chapter: 14
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 649b"
-generated_at: "2026-03-30T06:09:10.415Z"
+generated_at: "2026-03-30T06:11:07.635Z"
 status: "active"
 ---
 

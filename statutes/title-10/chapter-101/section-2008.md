@@ -3,9 +3,9 @@ title: "Section 2008 - Authority to use funds for certain educational purposes"
 usc_title: 10
 usc_section: "2008"
 chapter: 101
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 2008"
-generated_at: "2026-03-30T06:08:21.014Z"
+generated_at: "2026-03-30T06:11:00.165Z"
 status: "active"
 ---
 

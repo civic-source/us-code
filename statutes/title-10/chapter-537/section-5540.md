@@ -3,9 +3,9 @@ title: "Section 5540 - Expiration: rights of member"
 usc_title: 10
 usc_section: "5540"
 chapter: 537
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 5540"
-generated_at: "2026-03-30T06:08:21.064Z"
+generated_at: "2026-03-30T06:11:00.219Z"
 status: "active"
 ---
 

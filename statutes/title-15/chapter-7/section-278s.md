@@ -3,9 +3,9 @@ title: "Section 278s - Network for Manufacturing Innovation"
 usc_title: 15
 usc_section: "278s"
 chapter: 7
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 278s"
-generated_at: "2026-03-30T06:09:10.396Z"
+generated_at: "2026-03-30T06:11:07.616Z"
 status: "active"
 ---
 

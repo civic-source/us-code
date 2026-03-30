@@ -3,9 +3,9 @@ title: "Section 45Q - Credit for carbon dioxide sequestration"
 usc_title: 26
 usc_section: "45Q"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "26 U.S.C. § 45Q"
-generated_at: "2026-03-30T06:09:46.260Z"
+generated_at: "2026-03-30T06:11:50.774Z"
 status: "active"
 ---
 

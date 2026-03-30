@@ -3,9 +3,9 @@ title: "Section 536 - Recording of instruments; furnishing of instruments affect
 usc_title: 16
 usc_section: "536"
 chapter: 2
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 536"
-generated_at: "2026-03-30T06:09:20.708Z"
+generated_at: "2026-03-30T06:11:22.770Z"
 status: "active"
 ---
 

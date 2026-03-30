@@ -3,9 +3,9 @@ title: "Section 10419 - Omitted"
 usc_title: 42
 usc_section: "10419"
 chapter: 110
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 10419"
-generated_at: "2026-03-30T06:10:19.355Z"
+generated_at: "2026-03-30T06:12:18.387Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 690m - Miscellaneous"
 usc_title: 15
 usc_section: "690m"
 chapter: 14
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 690m"
-generated_at: "2026-03-30T06:09:10.423Z"
+generated_at: "2026-03-30T06:11:07.643Z"
 status: "active"
 ---
 

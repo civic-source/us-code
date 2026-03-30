@@ -3,9 +3,9 @@ title: "Section 2107 - Conservation, restoration, replication, or replacement of
 usc_title: 2
 usc_section: "2107"
 chapter: 30
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "2 U.S.C. § 2107"
-generated_at: "2026-03-30T06:07:44.580Z"
+generated_at: "2026-03-30T06:10:43.835Z"
 status: "active"
 ---
 

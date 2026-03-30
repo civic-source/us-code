@@ -3,9 +3,9 @@ title: "Section 2293 - Long-term development assistance for sub-Saharan Africa"
 usc_title: 22
 usc_section: "2293"
 chapter: 32
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 2293"
-generated_at: "2026-03-30T06:09:37.089Z"
+generated_at: "2026-03-30T06:11:34.209Z"
 status: "active"
 ---
 

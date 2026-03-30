@@ -3,9 +3,9 @@ title: "Section 345 - Regulations making exemptions"
 usc_title: 21
 usc_section: "345"
 chapter: 9
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "21 U.S.C. § 345"
-generated_at: "2026-03-30T06:09:31.044Z"
+generated_at: "2026-03-30T06:11:26.356Z"
 status: "active"
 ---
 

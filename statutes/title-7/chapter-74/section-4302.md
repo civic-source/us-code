@@ -3,9 +3,9 @@ title: "Section 4302 - Definitions"
 usc_title: 7
 usc_section: "4302"
 chapter: 74
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "7 U.S.C. § 4302"
-generated_at: "2026-03-30T06:08:04.734Z"
+generated_at: "2026-03-30T06:10:56.499Z"
 status: "active"
 ---
 

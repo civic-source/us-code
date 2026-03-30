@@ -3,9 +3,9 @@ title: "Section 2344 - Cash sales"
 usc_title: 42
 usc_section: "2344"
 chapter: 24
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 2344"
-generated_at: "2026-03-30T06:10:19.148Z"
+generated_at: "2026-03-30T06:12:18.175Z"
 status: "active"
 ---
 

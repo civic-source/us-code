@@ -3,9 +3,9 @@ title: "Section 5527 - Miscellaneous provisions"
 usc_title: 15
 usc_section: "5527"
 chapter: 81
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 5527"
-generated_at: "2026-03-30T06:09:10.506Z"
+generated_at: "2026-03-30T06:11:07.728Z"
 status: "active"
 ---
 

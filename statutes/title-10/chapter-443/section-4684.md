@@ -3,9 +3,9 @@ title: "Section 4684 - Surplus obsolete ordnance: sale to patriotic organization
 usc_title: 10
 usc_section: "4684"
 chapter: 443
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 4684"
-generated_at: "2026-03-30T06:08:21.061Z"
+generated_at: "2026-03-30T06:11:00.216Z"
 status: "active"
 ---
 

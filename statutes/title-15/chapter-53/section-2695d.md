@@ -3,9 +3,9 @@ title: "Section 2695d - Authorization of appropriations"
 usc_title: 15
 usc_section: "2695d"
 chapter: 53
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 2695d"
-generated_at: "2026-03-30T06:09:10.487Z"
+generated_at: "2026-03-30T06:11:07.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Feasibility studies; acceleration; advancement of costs by n
 usc_title: 42
 usc_section: "6"
 chapter: 19
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T06:10:19.122Z"
+generated_at: "2026-03-30T06:12:18.148Z"
 status: "active"
 ---
 

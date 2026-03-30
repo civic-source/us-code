@@ -3,9 +3,9 @@ title: "Section 4025 - Production of supplies and munitions: hours and pay of la
 usc_title: 10
 usc_section: "4025"
 chapter: 373
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 4025"
-generated_at: "2026-03-30T06:08:21.058Z"
+generated_at: "2026-03-30T06:11:00.213Z"
 status: "active"
 ---
 

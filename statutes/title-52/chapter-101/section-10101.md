@@ -3,9 +3,9 @@ title: "Section 10101 - Voting rights"
 usc_title: 52
 usc_section: "10101"
 chapter: 101
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "52 U.S.C. § 10101"
-generated_at: "2026-03-30T06:10:28.038Z"
+generated_at: "2026-03-30T06:12:31.442Z"
 status: "active"
 ---
 

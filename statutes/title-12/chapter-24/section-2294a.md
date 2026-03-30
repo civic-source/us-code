@@ -3,9 +3,9 @@ title: "Section 2294a - Contracts for periodic payments to offset costs of purch
 usc_title: 12
 usc_section: "2294a"
 chapter: 24
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "12 U.S.C. § 2294a"
-generated_at: "2026-03-30T06:08:38.961Z"
+generated_at: "2026-03-30T06:11:05.206Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4103 - Application"
 usc_title: 22
 usc_section: "4103"
 chapter: 52
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "22 U.S.C. § 4103"
-generated_at: "2026-03-30T06:09:37.131Z"
+generated_at: "2026-03-30T06:11:34.250Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2339 - Micro-purchase threshold for basic research programs and 
 usc_title: 10
 usc_section: "2339"
 chapter: 137
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 2339"
-generated_at: "2026-03-30T06:08:21.028Z"
+generated_at: "2026-03-30T06:11:00.181Z"
 status: "active"
 ---
 

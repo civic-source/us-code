@@ -3,9 +3,9 @@ title: "Section 3323 - Repealed. Pub. L. 105–185, title III , § 302(a), June 
 usc_title: 7
 usc_section: "3323"
 chapter: 64
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "7 U.S.C. § 3323"
-generated_at: "2026-03-30T06:08:04.731Z"
+generated_at: "2026-03-30T06:10:56.496Z"
 status: "repealed"
 ---
 

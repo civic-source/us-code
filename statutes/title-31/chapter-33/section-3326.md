@@ -3,9 +3,9 @@ title: "Section 3326 - Waiver of requirements for warrants and advances"
 usc_title: 31
 usc_section: "3326"
 chapter: 33
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "31 U.S.C. § 3326"
-generated_at: "2026-03-30T06:09:56.246Z"
+generated_at: "2026-03-30T06:11:56.055Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6633 - Federal science, engineering, and technology survey; repo
 usc_title: 42
 usc_section: "6633"
 chapter: 79
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 6633"
-generated_at: "2026-03-30T06:10:19.248Z"
+generated_at: "2026-03-30T06:12:18.279Z"
 status: "active"
 ---
 

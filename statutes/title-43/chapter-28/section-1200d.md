@@ -3,9 +3,9 @@ title: "Section 1200d - Effect of condemnation of Sioux lands for dam purposes o
 usc_title: 43
 usc_section: "1200d"
 chapter: 28
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "43 U.S.C. § 1200d"
-generated_at: "2026-03-30T06:10:09.120Z"
+generated_at: "2026-03-30T06:12:03.907Z"
 status: "active"
 ---
 

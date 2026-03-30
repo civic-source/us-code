@@ -3,9 +3,9 @@ title: "Section 80n - Commission for the Museum of African Art"
 usc_title: 20
 usc_section: "80n"
 chapter: 3
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "20 U.S.C. § 80n"
-generated_at: "2026-03-30T06:09:24.682Z"
+generated_at: "2026-03-30T06:11:20.464Z"
 status: "active"
 ---
 

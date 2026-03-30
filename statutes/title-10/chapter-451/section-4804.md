@@ -3,9 +3,9 @@ title: "Section 4804 - Salvage claims by United States"
 usc_title: 10
 usc_section: "4804"
 chapter: 451
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 4804"
-generated_at: "2026-03-30T06:08:21.062Z"
+generated_at: "2026-03-30T06:11:00.217Z"
 status: "active"
 ---
 

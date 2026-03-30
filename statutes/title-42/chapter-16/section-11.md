@@ -3,9 +3,9 @@ title: "Section 11 - NSF grants in support of sponsored post-doctoral fellowship
 usc_title: 42
 usc_section: "11"
 chapter: 16
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T06:10:19.118Z"
+generated_at: "2026-03-30T06:12:18.144Z"
 status: "active"
 ---
 

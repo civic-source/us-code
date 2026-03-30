@@ -3,9 +3,9 @@ title: "Section 2854 - Repealed. Pub. L. 113–128, title V , § 511(a), July 22
 usc_title: 29
 usc_section: "2854"
 chapter: 30
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "29 U.S.C. § 2854"
-generated_at: "2026-03-30T06:09:47.703Z"
+generated_at: "2026-03-30T06:11:53.437Z"
 status: "repealed"
 ---
 

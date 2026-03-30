@@ -3,9 +3,9 @@ title: "Section 4402 - Illicitly imported, exported, or trafficked cultural prop
 usc_title: 19
 usc_section: "4402"
 chapter: 28
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "19 U.S.C. § 4402"
-generated_at: "2026-03-30T06:09:16.688Z"
+generated_at: "2026-03-30T06:11:11.487Z"
 status: "active"
 ---
 

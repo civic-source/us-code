@@ -3,9 +3,9 @@ title: "Section 6758 - Liability of the Association and the Board members, offic
 usc_title: 15
 usc_section: "6758"
 chapter: 93
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "15 U.S.C. § 6758"
-generated_at: "2026-03-30T06:09:10.514Z"
+generated_at: "2026-03-30T06:11:07.736Z"
 status: "active"
 ---
 

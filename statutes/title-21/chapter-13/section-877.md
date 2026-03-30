@@ -3,9 +3,9 @@ title: "Section 877 - Judicial review"
 usc_title: 21
 usc_section: "877"
 chapter: 13
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "21 U.S.C. § 877"
-generated_at: "2026-03-30T06:09:31.096Z"
+generated_at: "2026-03-30T06:11:26.414Z"
 status: "active"
 ---
 

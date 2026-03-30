@@ -3,9 +3,9 @@ title: "Section 47132 - Repealed. Pub. L. 106–181, title I , § 123(a)(1), Apr
 usc_title: 49
 usc_section: "47132"
 chapter: 471
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "49 U.S.C. § 47132"
-generated_at: "2026-03-30T06:10:25.939Z"
+generated_at: "2026-03-30T06:12:29.327Z"
 status: "repealed"
 ---
 

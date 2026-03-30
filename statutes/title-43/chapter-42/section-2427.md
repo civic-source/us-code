@@ -3,9 +3,9 @@ title: "Section 2427 - Water rights"
 usc_title: 43
 usc_section: "2427"
 chapter: 42
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "43 U.S.C. § 2427"
-generated_at: "2026-03-30T06:10:09.144Z"
+generated_at: "2026-03-30T06:12:03.930Z"
 status: "active"
 ---
 

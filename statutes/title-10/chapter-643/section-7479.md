@@ -3,9 +3,9 @@ title: "Section 7479 - Civil service mariners of Military Sealift Command: relea
 usc_title: 10
 usc_section: "7479"
 chapter: 643
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 7479"
-generated_at: "2026-03-30T06:08:21.072Z"
+generated_at: "2026-03-30T06:11:00.227Z"
 status: "active"
 ---
 

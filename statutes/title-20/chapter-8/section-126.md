@@ -3,9 +3,9 @@ title: "Section 126 - Authorization of appropriations for construction of hospit
 usc_title: 20
 usc_section: "126"
 chapter: 8
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "20 U.S.C. § 126"
-generated_at: "2026-03-30T06:09:24.686Z"
+generated_at: "2026-03-30T06:11:20.467Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 287 - Extension of prospecting permits"
 usc_title: 30
 usc_section: "287"
 chapter: 3
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "30 U.S.C. § 287"
-generated_at: "2026-03-30T06:09:42.286Z"
+generated_at: "2026-03-30T06:11:43.218Z"
 status: "active"
 ---
 

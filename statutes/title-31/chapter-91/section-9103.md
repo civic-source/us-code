@@ -3,9 +3,9 @@ title: "Section 9103 - Budgets of wholly owned Government corporations"
 usc_title: 31
 usc_section: "9103"
 chapter: 91
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "31 U.S.C. § 9103"
-generated_at: "2026-03-30T06:09:56.264Z"
+generated_at: "2026-03-30T06:11:56.071Z"
 status: "active"
 ---
 

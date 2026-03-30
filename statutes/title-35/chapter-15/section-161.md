@@ -3,9 +3,9 @@ title: "Section 161 - Patents for plants"
 usc_title: 35
 usc_section: "161"
 chapter: 15
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "35 U.S.C. § 161"
-generated_at: "2026-03-30T06:09:49.499Z"
+generated_at: "2026-03-30T06:11:55.228Z"
 status: "active"
 ---
 

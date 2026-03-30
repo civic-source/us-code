@@ -3,9 +3,9 @@ title: "Section 21907 - Service of process"
 usc_title: 36
 usc_section: "21907"
 chapter: 219
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "36 U.S.C. § 21907"
-generated_at: "2026-03-30T06:10:01.115Z"
+generated_at: "2026-03-30T06:11:59.327Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 951 - Amounts included in gross income of United States sharehol
 usc_title: 26
 usc_section: "951"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "26 U.S.C. § 951"
-generated_at: "2026-03-30T06:09:46.370Z"
+generated_at: "2026-03-30T06:11:50.884Z"
 status: "active"
 ---
 

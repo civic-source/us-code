@@ -3,9 +3,9 @@ title: "Section 8 - Conservation innovation grants and payments"
 usc_title: 16
 usc_section: "8"
 chapter: 58
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T06:09:20.921Z"
+generated_at: "2026-03-30T06:11:22.883Z"
 status: "active"
 ---
 

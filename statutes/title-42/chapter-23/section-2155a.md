@@ -3,9 +3,9 @@ title: "Section 2155a - Regulations establishing Commission procedures covering 
 usc_title: 42
 usc_section: "2155a"
 chapter: 23
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 2155a"
-generated_at: "2026-03-30T06:10:19.137Z"
+generated_at: "2026-03-30T06:12:18.164Z"
 status: "active"
 ---
 

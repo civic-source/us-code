@@ -3,9 +3,9 @@ title: "Section 353 - Toxicological testing of officers and employees"
 usc_title: 49
 usc_section: "353"
 chapter: 3
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "49 U.S.C. § 353"
-generated_at: "2026-03-30T06:10:25.861Z"
+generated_at: "2026-03-30T06:12:29.257Z"
 status: "active"
 ---
 

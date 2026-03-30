@@ -3,9 +3,9 @@ title: "Section 1706 - Repealed. Aug. 2, 1954, ch. 649 , title VIII, § 802(b), 
 usc_title: 12
 usc_section: "1706"
 chapter: 13
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "12 U.S.C. § 1706"
-generated_at: "2026-03-30T06:08:38.896Z"
+generated_at: "2026-03-30T06:11:05.123Z"
 status: "repealed"
 ---
 

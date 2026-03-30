@@ -3,9 +3,9 @@ title: "Section 356a - Manufacturing changes"
 usc_title: 21
 usc_section: "356a"
 chapter: 9
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "21 U.S.C. § 356a"
-generated_at: "2026-03-30T06:09:31.057Z"
+generated_at: "2026-03-30T06:11:26.369Z"
 status: "active"
 ---
 

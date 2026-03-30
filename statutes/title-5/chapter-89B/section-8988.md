@@ -3,9 +3,9 @@ title: "Section 8988 - Premiums"
 usc_title: 5
 usc_section: "8988"
 chapter: 89
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "5 U.S.C. § 8988"
-generated_at: "2026-03-30T06:07:51.672Z"
+generated_at: "2026-03-30T06:10:48.526Z"
 status: "active"
 ---
 

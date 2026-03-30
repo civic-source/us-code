@@ -3,9 +3,9 @@ title: "Section 184 - Limitations on leases held, owned or controlled by persons
 usc_title: 30
 usc_section: "184"
 chapter: 3
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "30 U.S.C. § 184"
-generated_at: "2026-03-30T06:09:42.281Z"
+generated_at: "2026-03-30T06:11:43.213Z"
 status: "active"
 ---
 

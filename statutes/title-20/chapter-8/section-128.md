@@ -3,9 +3,9 @@ title: "Section 128 - Authorization of appropriations for partial support of ope
 usc_title: 20
 usc_section: "128"
 chapter: 8
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "20 U.S.C. § 128"
-generated_at: "2026-03-30T06:09:24.686Z"
+generated_at: "2026-03-30T06:11:20.468Z"
 status: "active"
 ---
 

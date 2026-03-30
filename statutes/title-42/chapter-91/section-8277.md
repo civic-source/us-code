@@ -3,9 +3,9 @@ title: "Section 8277 - Advisory committee"
 usc_title: 42
 usc_section: "8277"
 chapter: 91
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 8277"
-generated_at: "2026-03-30T06:10:19.310Z"
+generated_at: "2026-03-30T06:12:18.342Z"
 status: "active"
 ---
 

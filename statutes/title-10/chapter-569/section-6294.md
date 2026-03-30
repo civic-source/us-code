@@ -3,9 +3,9 @@ title: "Section 6294 - Repealed. Pub. L. 96–513, title III , § 373(g), Dec. 1
 usc_title: 10
 usc_section: "6294"
 chapter: 569
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 6294"
-generated_at: "2026-03-30T06:08:21.066Z"
+generated_at: "2026-03-30T06:11:00.222Z"
 status: "repealed"
 ---
 

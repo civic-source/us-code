@@ -3,9 +3,9 @@ title: "Section 17384 - Smart grid technology research, development, and demonst
 usc_title: 42
 usc_section: "17384"
 chapter: 152
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 17384"
-generated_at: "2026-03-30T06:10:19.467Z"
+generated_at: "2026-03-30T06:12:18.499Z"
 status: "active"
 ---
 

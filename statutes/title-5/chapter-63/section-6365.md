@@ -3,9 +3,9 @@ title: "Section 6365 - Contributions of annual leave"
 usc_title: 5
 usc_section: "6365"
 chapter: 63
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "5 U.S.C. § 6365"
-generated_at: "2026-03-30T06:07:51.646Z"
+generated_at: "2026-03-30T06:10:48.498Z"
 status: "active"
 ---
 

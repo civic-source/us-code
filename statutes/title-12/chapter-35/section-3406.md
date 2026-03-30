@@ -3,9 +3,9 @@ title: "Section 3406 - Search warrants"
 usc_title: 12
 usc_section: "3406"
 chapter: 35
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "12 U.S.C. § 3406"
-generated_at: "2026-03-30T06:08:38.969Z"
+generated_at: "2026-03-30T06:11:05.215Z"
 status: "active"
 ---
 

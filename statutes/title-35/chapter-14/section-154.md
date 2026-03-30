@@ -3,9 +3,9 @@ title: "Section 154 - Contents and term of patent; provisional rights"
 usc_title: 35
 usc_section: "154"
 chapter: 14
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "35 U.S.C. § 154"
-generated_at: "2026-03-30T06:09:49.498Z"
+generated_at: "2026-03-30T06:11:55.228Z"
 status: "active"
 ---
 

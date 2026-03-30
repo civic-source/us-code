@@ -3,9 +3,9 @@ title: "Section 2991a - Congressional statement of purpose"
 usc_title: 42
 usc_section: "2991a"
 chapter: 34
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "42 U.S.C. § 2991a"
-generated_at: "2026-03-30T06:10:19.151Z"
+generated_at: "2026-03-30T06:12:18.178Z"
 status: "active"
 ---
 

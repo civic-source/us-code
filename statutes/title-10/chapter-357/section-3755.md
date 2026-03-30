@@ -3,9 +3,9 @@ title: "Section 3755 - Medal of honor: presentation of Medal of Honor Flag"
 usc_title: 10
 usc_section: "3755"
 chapter: 357
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "10 U.S.C. § 3755"
-generated_at: "2026-03-30T06:08:21.057Z"
+generated_at: "2026-03-30T06:11:00.212Z"
 status: "active"
 ---
 

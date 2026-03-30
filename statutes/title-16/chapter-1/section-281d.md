@@ -3,9 +3,9 @@ title: "Section 281d - Establishment; notice in Federal Register; administration
 usc_title: 16
 usc_section: "281d"
 chapter: 1
-current_through: "PL 115-29"
+current_through: "PL 115-30"
 classification: "16 U.S.C. § 281d"
-generated_at: "2026-03-30T06:09:20.633Z"
+generated_at: "2026-03-30T06:11:22.694Z"
 status: "active"
 ---
 
