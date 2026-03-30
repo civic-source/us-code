@@ -3,9 +3,9 @@ title: "Section 6622 - Interest compounded daily"
 usc_title: 26
 usc_section: "6622"
 chapter: 67
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "26 U.S.C. § 6622"
-generated_at: "2026-03-30T06:18:34.583Z"
+generated_at: "2026-03-30T06:20:42.369Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3313 - Moneys from sale of records payable into the Treasury"
 usc_title: 44
 usc_section: "3313"
 chapter: 33
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "44 U.S.C. § 3313"
-generated_at: "2026-03-30T06:18:45.898Z"
+generated_at: "2026-03-30T06:21:19.076Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450 - Cooperation with State agencies in administration and enfo
 usc_title: 7
 usc_section: "450"
 chapter: 17
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 450"
-generated_at: "2026-03-30T06:17:41.348Z"
+generated_at: "2026-03-30T06:19:46.624Z"
 status: "active"
 ---
 

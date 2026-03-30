@@ -3,9 +3,9 @@ title: "Section 10309 - Termination of assignment of observers"
 usc_title: 52
 usc_section: "10309"
 chapter: 103
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "52 U.S.C. § 10309"
-generated_at: "2026-03-30T06:19:18.718Z"
+generated_at: "2026-03-30T06:21:56.736Z"
 status: "active"
 ---
 

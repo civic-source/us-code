@@ -3,9 +3,9 @@ title: "Section 77eee - Securities required to be registered under Securities Ac
 usc_title: 15
 usc_section: "77eee"
 chapter: 2
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 77eee"
-generated_at: "2026-03-30T06:17:52.750Z"
+generated_at: "2026-03-30T06:19:57.947Z"
 status: "active"
 ---
 

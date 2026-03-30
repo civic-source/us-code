@@ -3,9 +3,9 @@ title: "Section 6152 - Emergency shore duty: advance of funds"
 usc_title: 10
 usc_section: "6152"
 chapter: 561
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 6152"
-generated_at: "2026-03-30T06:17:46.667Z"
+generated_at: "2026-03-30T06:19:43.939Z"
 status: "active"
 ---
 

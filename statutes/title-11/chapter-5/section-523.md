@@ -3,9 +3,9 @@ title: "Section 523 - Exceptions to discharge"
 usc_title: 11
 usc_section: "523"
 chapter: 5
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "11 U.S.C. § 523"
-generated_at: "2026-03-30T06:17:50.844Z"
+generated_at: "2026-03-30T06:19:54.343Z"
 status: "active"
 ---
 

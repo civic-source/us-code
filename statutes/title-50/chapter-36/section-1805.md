@@ -3,9 +3,9 @@ title: "Section 1805 - Issuance of order"
 usc_title: 50
 usc_section: "1805"
 chapter: 36
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "50 U.S.C. § 1805"
-generated_at: "2026-03-30T06:19:08.105Z"
+generated_at: "2026-03-30T06:21:38.449Z"
 status: "active"
 ---
 

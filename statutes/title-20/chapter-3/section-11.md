@@ -3,9 +3,9 @@ title: "Section 11 - Inventory, identification, and return of Native Hawaiian hu
 usc_title: 20
 usc_section: "11"
 chapter: 3
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-30T06:18:03.606Z"
+generated_at: "2026-03-30T06:20:21.239Z"
 status: "active"
 ---
 

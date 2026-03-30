@@ -3,9 +3,9 @@ title: "Section 5712 - Eligibility; plan requirements"
 usc_title: 42
 usc_section: "5712"
 chapter: 72
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 5712"
-generated_at: "2026-03-30T06:19:03.336Z"
+generated_at: "2026-03-30T06:21:33.502Z"
 status: "active"
 ---
 

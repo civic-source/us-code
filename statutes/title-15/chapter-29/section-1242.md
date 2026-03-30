@@ -3,9 +3,9 @@ title: "Section 1242 - Introduction, manufacture for introduction, transportatio
 usc_title: 15
 usc_section: "1242"
 chapter: 29
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 1242"
-generated_at: "2026-03-30T06:17:52.835Z"
+generated_at: "2026-03-30T06:19:58.032Z"
 status: "active"
 ---
 

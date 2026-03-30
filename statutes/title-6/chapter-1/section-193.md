@@ -3,9 +3,9 @@ title: "Section 193 - Technology clearinghouse to encourage and support innovati
 usc_title: 6
 usc_section: "193"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "6 U.S.C. § 193"
-generated_at: "2026-03-30T06:17:38.964Z"
+generated_at: "2026-03-30T06:19:48.020Z"
 status: "active"
 ---
 

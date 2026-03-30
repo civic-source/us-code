@@ -3,9 +3,9 @@ title: "Section 2350k - Relocation within host nation of elements of armed force
 usc_title: 10
 usc_section: "2350k"
 chapter: 138
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 2350k"
-generated_at: "2026-03-30T06:17:46.629Z"
+generated_at: "2026-03-30T06:19:43.897Z"
 status: "active"
 ---
 

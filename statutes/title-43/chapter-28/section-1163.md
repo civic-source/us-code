@@ -3,9 +3,9 @@ title: "Section 1163 - Patents surrendered and new ones issued"
 usc_title: 43
 usc_section: "1163"
 chapter: 28
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "43 U.S.C. § 1163"
-generated_at: "2026-03-30T06:18:45.453Z"
+generated_at: "2026-03-30T06:21:15.979Z"
 status: "active"
 ---
 

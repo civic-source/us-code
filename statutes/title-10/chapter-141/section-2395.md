@@ -3,9 +3,9 @@ title: "Section 2395 - Availability of appropriations for procurement of technic
 usc_title: 10
 usc_section: "2395"
 chapter: 141
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 2395"
-generated_at: "2026-03-30T06:17:46.632Z"
+generated_at: "2026-03-30T06:19:43.900Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2804 - Establishment of standards and criteria; publication in t
 usc_title: 22
 usc_section: "2804"
 chapter: 40
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 2804"
-generated_at: "2026-03-30T06:18:13.968Z"
+generated_at: "2026-03-30T06:20:29.541Z"
 status: "active"
 ---
 

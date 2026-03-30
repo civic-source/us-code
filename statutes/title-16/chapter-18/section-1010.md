@@ -3,9 +3,9 @@ title: "Section 1010 - Data"
 usc_title: 16
 usc_section: "1010"
 chapter: 18
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 1010"
-generated_at: "2026-03-30T06:18:06.452Z"
+generated_at: "2026-03-30T06:20:08.653Z"
 status: "active"
 ---
 

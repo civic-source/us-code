@@ -3,9 +3,9 @@ title: "Section 802 - Forfeiture of pay during absence from duty due to disease 
 usc_title: 37
 usc_section: "802"
 chapter: 15
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "37 U.S.C. § 802"
-generated_at: "2026-03-30T06:18:40.916Z"
+generated_at: "2026-03-30T06:21:06.002Z"
 status: "active"
 ---
 

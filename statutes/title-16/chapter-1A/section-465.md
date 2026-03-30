@@ -3,9 +3,9 @@ title: "Section 465 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "465"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 465"
-generated_at: "2026-03-30T06:18:06.392Z"
+generated_at: "2026-03-30T06:20:08.596Z"
 status: "repealed"
 ---
 

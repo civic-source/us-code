@@ -3,9 +3,9 @@ title: "Section 7 - Report"
 usc_title: 21
 usc_section: "7"
 chapter: 9
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "21 U.S.C. § 7"
-generated_at: "2026-03-30T06:18:11.080Z"
+generated_at: "2026-03-30T06:20:26.458Z"
 status: "active"
 ---
 

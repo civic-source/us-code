@@ -3,9 +3,9 @@ title: "Section 4071h - General and administrative provisions"
 usc_title: 22
 usc_section: "4071h"
 chapter: 52
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 4071h"
-generated_at: "2026-03-30T06:18:13.983Z"
+generated_at: "2026-03-30T06:20:29.555Z"
 status: "active"
 ---
 

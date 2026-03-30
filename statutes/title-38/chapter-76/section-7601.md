@@ -3,9 +3,9 @@ title: "Section 7601 - Establishment of program; purpose"
 usc_title: 38
 usc_section: "7601"
 chapter: 76
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "38 U.S.C. § 7601"
-generated_at: "2026-03-30T06:18:43.052Z"
+generated_at: "2026-03-30T06:21:07.945Z"
 status: "active"
 ---
 

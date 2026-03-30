@@ -3,9 +3,9 @@ title: "Section 10169 - Financial assistance"
 usc_title: 42
 usc_section: "10169"
 chapter: 108
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 10169"
-generated_at: "2026-03-30T06:19:03.459Z"
+generated_at: "2026-03-30T06:21:33.631Z"
 status: "active"
 ---
 

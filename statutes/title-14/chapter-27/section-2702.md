@@ -3,9 +3,9 @@ title: "Section 2702 - Authorization of appropriations"
 usc_title: 14
 usc_section: "2702"
 chapter: 27
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "14 U.S.C. § 2702"
-generated_at: "2026-03-30T06:17:51.060Z"
+generated_at: "2026-03-30T06:20:02.002Z"
 status: "active"
 ---
 

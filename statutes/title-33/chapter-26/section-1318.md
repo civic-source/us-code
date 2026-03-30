@@ -3,9 +3,9 @@ title: "Section 1318 - Records and reports; inspections"
 usc_title: 33
 usc_section: "1318"
 chapter: 26
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "33 U.S.C. § 1318"
-generated_at: "2026-03-30T06:18:37.566Z"
+generated_at: "2026-03-30T06:21:01.996Z"
 status: "active"
 ---
 

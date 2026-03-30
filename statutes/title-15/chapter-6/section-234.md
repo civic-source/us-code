@@ -3,9 +3,9 @@ title: "Section 234 - Standard barrel for fruits or other dry commodity"
 usc_title: 15
 usc_section: "234"
 chapter: 6
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 234"
-generated_at: "2026-03-30T06:17:52.789Z"
+generated_at: "2026-03-30T06:19:57.986Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 402 - Chief of bureau; appointment and duties"
 usc_title: 7
 usc_section: "402"
 chapter: 16
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 402"
-generated_at: "2026-03-30T06:17:41.347Z"
+generated_at: "2026-03-30T06:19:46.623Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 653 - Employment of draftsmen and engineers"
 usc_title: 14
 usc_section: "653"
 chapter: 17
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "14 U.S.C. § 653"
-generated_at: "2026-03-30T06:17:51.058Z"
+generated_at: "2026-03-30T06:20:02.001Z"
 status: "active"
 ---
 

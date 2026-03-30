@@ -3,9 +3,9 @@ title: "Section 2371 - Research projects: transactions other than contracts and 
 usc_title: 10
 usc_section: "2371"
 chapter: 139
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 2371"
-generated_at: "2026-03-30T06:17:46.630Z"
+generated_at: "2026-03-30T06:19:43.899Z"
 status: "active"
 ---
 

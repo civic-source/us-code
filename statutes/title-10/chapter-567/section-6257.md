@@ -3,9 +3,9 @@ title: "Section 6257 - Medal of honor: presentation of Medal of Honor Flag"
 usc_title: 10
 usc_section: "6257"
 chapter: 567
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 6257"
-generated_at: "2026-03-30T06:17:46.667Z"
+generated_at: "2026-03-30T06:19:43.939Z"
 status: "active"
 ---
 

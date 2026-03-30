@@ -3,9 +3,9 @@ title: "Section 6156 - Uniform: sale to former members of the naval service"
 usc_title: 10
 usc_section: "6156"
 chapter: 561
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 6156"
-generated_at: "2026-03-30T06:17:46.667Z"
+generated_at: "2026-03-30T06:19:43.939Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2608 - Relationship to other Federal laws"
 usc_title: 15
 usc_section: "2608"
 chapter: 53
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 2608"
-generated_at: "2026-03-30T06:17:52.877Z"
+generated_at: "2026-03-30T06:19:58.073Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40505 - Powers"
 usc_title: 36
 usc_section: "40505"
 chapter: 405
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "36 U.S.C. § 40505"
-generated_at: "2026-03-30T06:18:41.858Z"
+generated_at: "2026-03-30T06:21:06.571Z"
 status: "active"
 ---
 

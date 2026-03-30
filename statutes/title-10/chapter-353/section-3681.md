@@ -3,9 +3,9 @@ title: "Section 3681 - Presentation of United States flag upon retirement"
 usc_title: 10
 usc_section: "3681"
 chapter: 353
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 3681"
-generated_at: "2026-03-30T06:17:46.658Z"
+generated_at: "2026-03-30T06:19:43.929Z"
 status: "active"
 ---
 

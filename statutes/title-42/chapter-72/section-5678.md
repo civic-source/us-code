@@ -3,9 +3,9 @@ title: "Section 5678 - Rules of construction"
 usc_title: 42
 usc_section: "5678"
 chapter: 72
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 5678"
-generated_at: "2026-03-30T06:19:03.335Z"
+generated_at: "2026-03-30T06:21:33.502Z"
 status: "active"
 ---
 

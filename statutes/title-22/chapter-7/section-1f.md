@@ -3,9 +3,9 @@ title: "Section 1f - Additional increase in capital stock of Bank; subscription 
 usc_title: 22
 usc_section: "1f"
 chapter: 7
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 1f"
-generated_at: "2026-03-30T06:18:13.911Z"
+generated_at: "2026-03-30T06:20:29.482Z"
 status: "active"
 ---
 

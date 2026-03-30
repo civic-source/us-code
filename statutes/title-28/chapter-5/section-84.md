@@ -3,9 +3,9 @@ title: "Section 84 - California"
 usc_title: 28
 usc_section: "84"
 chapter: 5
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "28 U.S.C. § 84"
-generated_at: "2026-03-30T06:18:19.229Z"
+generated_at: "2026-03-30T06:20:32.507Z"
 status: "active"
 ---
 

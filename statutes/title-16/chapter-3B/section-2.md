@@ -3,9 +3,9 @@ title: "Section 2 - Voluntary relinquishment of allotments"
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T06:18:06.413Z"
+generated_at: "2026-03-30T06:20:08.616Z"
 status: "active"
 ---
 

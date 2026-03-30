@@ -3,9 +3,9 @@ title: "Section 1 - Critical shortages; recommendations by President; public hea
 usc_title: 15
 usc_section: "1"
 chapter: 15
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T06:17:52.821Z"
+generated_at: "2026-03-30T06:19:58.018Z"
 status: "active"
 ---
 

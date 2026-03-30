@@ -3,9 +3,9 @@ title: "Section 3702 - General provisions"
 usc_title: 5
 usc_section: "3702"
 chapter: 37
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "5 U.S.C. § 3702"
-generated_at: "2026-03-30T06:17:23.440Z"
+generated_at: "2026-03-30T06:19:32.610Z"
 status: "active"
 ---
 

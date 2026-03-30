@@ -3,9 +3,9 @@ title: "Section 5754 - Retention bonuses"
 usc_title: 5
 usc_section: "5754"
 chapter: 57
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "5 U.S.C. § 5754"
-generated_at: "2026-03-30T06:17:23.453Z"
+generated_at: "2026-03-30T06:19:32.625Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3319 - Restriction on treatment of indirect costs and tuition re
 usc_title: 7
 usc_section: "3319"
 chapter: 64
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 3319"
-generated_at: "2026-03-30T06:17:41.435Z"
+generated_at: "2026-03-30T06:19:46.709Z"
 status: "active"
 ---
 

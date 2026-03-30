@@ -3,9 +3,9 @@ title: "Section 13413 - Natural gas supply"
 usc_title: 42
 usc_section: "13413"
 chapter: 134
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 13413"
-generated_at: "2026-03-30T06:19:03.514Z"
+generated_at: "2026-03-30T06:21:33.689Z"
 status: "active"
 ---
 

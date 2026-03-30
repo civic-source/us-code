@@ -3,9 +3,9 @@ title: "Section 13701 - Requirements for reasonable rates, classifications, thro
 usc_title: 49
 usc_section: "13701"
 chapter: 137
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "49 U.S.C. § 13701"
-generated_at: "2026-03-30T06:19:16.764Z"
+generated_at: "2026-03-30T06:21:48.367Z"
 status: "active"
 ---
 

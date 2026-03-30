@@ -3,9 +3,9 @@ title: "Section 21 - Authority to assess and use generic new animal drug fees"
 usc_title: 21
 usc_section: "21"
 chapter: 9
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "21 U.S.C. § 21"
-generated_at: "2026-03-30T06:18:11.085Z"
+generated_at: "2026-03-30T06:20:26.463Z"
 status: "active"
 ---
 

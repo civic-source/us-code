@@ -3,9 +3,9 @@ title: "Section 1194 - Repealed. Pub. L. 98–24 , § 2(c)(2), Apr. 26, 1983 , 9
 usc_title: 21
 usc_section: "1194"
 chapter: 16
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "21 U.S.C. § 1194"
-generated_at: "2026-03-30T06:18:11.112Z"
+generated_at: "2026-03-30T06:20:26.490Z"
 status: "repealed"
 ---
 

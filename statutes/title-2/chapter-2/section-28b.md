@@ -3,9 +3,9 @@ title: "Section 28b - Printing and binding as public document of Precedents of H
 usc_title: 2
 usc_section: "28b"
 chapter: 2
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "2 U.S.C. § 28b"
-generated_at: "2026-03-30T06:17:34.081Z"
+generated_at: "2026-03-30T06:19:36.035Z"
 status: "active"
 ---
 

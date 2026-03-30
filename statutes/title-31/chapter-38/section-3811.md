@@ -3,9 +3,9 @@ title: "Section 3811 - Effect on other law"
 usc_title: 31
 usc_section: "3811"
 chapter: 38
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "31 U.S.C. § 3811"
-generated_at: "2026-03-30T06:18:38.928Z"
+generated_at: "2026-03-30T06:20:49.855Z"
 status: "active"
 ---
 

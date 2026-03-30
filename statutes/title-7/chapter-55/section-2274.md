@@ -3,9 +3,9 @@ title: "Section 2274 - Firearm authority of employees engaged in animal quaranti
 usc_title: 7
 usc_section: "2274"
 chapter: 55
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 2274"
-generated_at: "2026-03-30T06:17:41.423Z"
+generated_at: "2026-03-30T06:19:46.698Z"
 status: "active"
 ---
 

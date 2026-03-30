@@ -3,9 +3,9 @@ title: "Section 7401 - Commodity promotion and evaluation"
 usc_title: 7
 usc_section: "7401"
 chapter: 101
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 7401"
-generated_at: "2026-03-30T06:17:41.469Z"
+generated_at: "2026-03-30T06:19:46.743Z"
 status: "active"
 ---
 

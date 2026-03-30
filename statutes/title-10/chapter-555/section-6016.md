@@ -3,9 +3,9 @@ title: "Section 6016 - Repealed. Pub. L. 85–861 , § 36B(16), Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "6016"
 chapter: 555
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 6016"
-generated_at: "2026-03-30T06:17:46.666Z"
+generated_at: "2026-03-30T06:19:43.938Z"
 status: "repealed"
 ---
 

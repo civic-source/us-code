@@ -3,9 +3,9 @@ title: "Section 51A - Repealed. Pub. L. 109–432, div. A, title I , § 105(e)(4
 usc_title: 26
 usc_section: "51A"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "26 U.S.C. § 51A"
-generated_at: "2026-03-30T06:18:34.382Z"
+generated_at: "2026-03-30T06:20:42.167Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7705 - Enforcement"
 usc_title: 16
 usc_section: "7705"
 chapter: 96
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 7705"
-generated_at: "2026-03-30T06:18:06.539Z"
+generated_at: "2026-03-30T06:20:08.735Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11 - Rules, regulations, and orders of Commission"
 usc_title: 15
 usc_section: "11"
 chapter: 2
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 11"
-generated_at: "2026-03-30T06:17:52.785Z"
+generated_at: "2026-03-30T06:19:57.982Z"
 status: "active"
 ---
 

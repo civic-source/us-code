@@ -3,9 +3,9 @@ title: "Section 8317 - Repayment of annuity or retired pay properly paid; waiver
 usc_title: 5
 usc_section: "8317"
 chapter: 83
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "5 U.S.C. § 8317"
-generated_at: "2026-03-30T06:17:23.465Z"
+generated_at: "2026-03-30T06:19:32.636Z"
 status: "active"
 ---
 

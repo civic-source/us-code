@@ -3,9 +3,9 @@ title: "Section 1503b - Under Secretary of Commerce for Oceans and Atmosphere; d
 usc_title: 15
 usc_section: "1503b"
 chapter: 40
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 1503b"
-generated_at: "2026-03-30T06:17:52.840Z"
+generated_at: "2026-03-30T06:19:58.037Z"
 status: "active"
 ---
 

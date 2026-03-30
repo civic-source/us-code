@@ -3,9 +3,9 @@ title: "Section 301 - Lease or rental arrangements of not less than ten years; a
 usc_title: 22
 usc_section: "301"
 chapter: 8
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 301"
-generated_at: "2026-03-30T06:18:13.918Z"
+generated_at: "2026-03-30T06:20:29.490Z"
 status: "active"
 ---
 

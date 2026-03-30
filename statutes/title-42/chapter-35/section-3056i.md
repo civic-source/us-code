@@ -3,9 +3,9 @@ title: "Section 3056i - Coordination with the Workforce Innovation and Opportuni
 usc_title: 42
 usc_section: "3056i"
 chapter: 35
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 3056i"
-generated_at: "2026-03-30T06:19:03.272Z"
+generated_at: "2026-03-30T06:21:33.439Z"
 status: "active"
 ---
 

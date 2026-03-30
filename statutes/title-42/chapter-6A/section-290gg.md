@@ -3,9 +3,9 @@ title: "Section 290gg - Repealed. Pub. L. 106–310, div. B, title XXXIII , § 3
 usc_title: 42
 usc_section: "290gg"
 chapter: 6
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 290gg"
-generated_at: "2026-03-30T06:19:02.955Z"
+generated_at: "2026-03-30T06:21:33.120Z"
 status: "repealed"
 ---
 

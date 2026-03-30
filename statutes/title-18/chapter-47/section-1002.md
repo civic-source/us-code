@@ -3,9 +3,9 @@ title: "Section 1002 - Possession of false papers to defraud United States"
 usc_title: 18
 usc_section: "1002"
 chapter: 47
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "18 U.S.C. § 1002"
-generated_at: "2026-03-30T06:18:01.124Z"
+generated_at: "2026-03-30T06:20:05.743Z"
 status: "active"
 ---
 

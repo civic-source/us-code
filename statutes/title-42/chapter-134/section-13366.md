@@ -3,9 +3,9 @@ title: "Section 13366 - National clearinghouse"
 usc_title: 42
 usc_section: "13366"
 chapter: 134
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 13366"
-generated_at: "2026-03-30T06:19:03.513Z"
+generated_at: "2026-03-30T06:21:33.688Z"
 status: "active"
 ---
 

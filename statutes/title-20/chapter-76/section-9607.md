@@ -3,9 +3,9 @@ title: "Section 9607 - Grant program for statewide, longitudinal data systems"
 usc_title: 20
 usc_section: "9607"
 chapter: 76
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "20 U.S.C. § 9607"
-generated_at: "2026-03-30T06:18:03.735Z"
+generated_at: "2026-03-30T06:20:21.365Z"
 status: "active"
 ---
 

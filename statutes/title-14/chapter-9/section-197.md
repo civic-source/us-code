@@ -3,9 +3,9 @@ title: "Section 197 - Cadets: charges and fees for attendance; limitation"
 usc_title: 14
 usc_section: "197"
 chapter: 9
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "14 U.S.C. § 197"
-generated_at: "2026-03-30T06:17:51.055Z"
+generated_at: "2026-03-30T06:20:01.998Z"
 status: "active"
 ---
 

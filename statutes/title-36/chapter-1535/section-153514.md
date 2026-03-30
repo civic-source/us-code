@@ -3,9 +3,9 @@ title: "Section 153514 - Authorization of appropriations"
 usc_title: 36
 usc_section: "153514"
 chapter: 1535
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "36 U.S.C. § 153514"
-generated_at: "2026-03-30T06:18:41.866Z"
+generated_at: "2026-03-30T06:21:06.579Z"
 status: "active"
 ---
 

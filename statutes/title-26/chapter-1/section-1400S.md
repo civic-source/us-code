@@ -3,9 +3,9 @@ title: "Section 1400S - Additional tax relief provisions"
 usc_title: 26
 usc_section: "1400S"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "26 U.S.C. § 1400S"
-generated_at: "2026-03-30T06:18:34.514Z"
+generated_at: "2026-03-30T06:20:42.299Z"
 status: "active"
 ---
 

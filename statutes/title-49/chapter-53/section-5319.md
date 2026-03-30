@@ -3,9 +3,9 @@ title: "Section 5319 - Repealed. Pub. L. 114–94, div. A, title III , § 3030(c
 usc_title: 49
 usc_section: "5319"
 chapter: 53
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "49 U.S.C. § 5319"
-generated_at: "2026-03-30T06:19:16.754Z"
+generated_at: "2026-03-30T06:21:48.356Z"
 status: "repealed"
 ---
 

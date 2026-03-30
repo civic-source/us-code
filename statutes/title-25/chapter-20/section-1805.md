@@ -3,9 +3,9 @@ title: "Section 1805 - Technical assistance contracts"
 usc_title: 25
 usc_section: "1805"
 chapter: 20
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "25 U.S.C. § 1805"
-generated_at: "2026-03-30T06:18:09.867Z"
+generated_at: "2026-03-30T06:20:24.507Z"
 status: "active"
 ---
 

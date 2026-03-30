@@ -3,9 +3,9 @@ title: "Section 7455 - Increases in rates of basic pay"
 usc_title: 38
 usc_section: "7455"
 chapter: 74
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "38 U.S.C. § 7455"
-generated_at: "2026-03-30T06:18:43.051Z"
+generated_at: "2026-03-30T06:21:07.944Z"
 status: "active"
 ---
 

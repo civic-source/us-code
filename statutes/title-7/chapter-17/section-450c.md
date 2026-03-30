@@ -3,9 +3,9 @@ title: "Section 450c - Delegation of regulatory functions of Secretary of Agricu
 usc_title: 7
 usc_section: "450c"
 chapter: 17
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 450c"
-generated_at: "2026-03-30T06:17:41.348Z"
+generated_at: "2026-03-30T06:19:46.624Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1684 - Expenditure of funds for administration of Trust Territor
 usc_title: 48
 usc_section: "1684"
 chapter: 14
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "48 U.S.C. § 1684"
-generated_at: "2026-03-30T06:19:08.728Z"
+generated_at: "2026-03-30T06:21:41.808Z"
 status: "active"
 ---
 

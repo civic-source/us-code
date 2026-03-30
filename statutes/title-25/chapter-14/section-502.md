@@ -3,9 +3,9 @@ title: "Section 502 - Transferred"
 usc_title: 25
 usc_section: "502"
 chapter: 14
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "25 U.S.C. § 502"
-generated_at: "2026-03-30T06:18:09.849Z"
+generated_at: "2026-03-30T06:20:24.489Z"
 status: "transferred"
 ---
 

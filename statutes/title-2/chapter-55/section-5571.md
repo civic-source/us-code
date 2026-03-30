@@ -3,9 +3,9 @@ title: "Section 5571 - Office of General Counsel of House; administrative provis
 usc_title: 2
 usc_section: "5571"
 chapter: 55
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "2 U.S.C. § 5571"
-generated_at: "2026-03-30T06:17:34.124Z"
+generated_at: "2026-03-30T06:19:36.082Z"
 status: "active"
 ---
 

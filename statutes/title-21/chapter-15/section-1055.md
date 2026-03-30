@@ -3,9 +3,9 @@ title: "Section 1055 - Authorization of appropriations"
 usc_title: 21
 usc_section: "1055"
 chapter: 15
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "21 U.S.C. § 1055"
-generated_at: "2026-03-30T06:18:11.111Z"
+generated_at: "2026-03-30T06:20:26.489Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 357 - Condemnation of lands under laws of States"
 usc_title: 25
 usc_section: "357"
 chapter: 9
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "25 U.S.C. § 357"
-generated_at: "2026-03-30T06:18:09.845Z"
+generated_at: "2026-03-30T06:20:24.485Z"
 status: "active"
 ---
 

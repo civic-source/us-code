@@ -3,9 +3,9 @@ title: "Section 22102 - Eligibility"
 usc_title: 49
 usc_section: "22102"
 chapter: 221
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "49 U.S.C. § 22102"
-generated_at: "2026-03-30T06:19:16.774Z"
+generated_at: "2026-03-30T06:21:48.378Z"
 status: "active"
 ---
 

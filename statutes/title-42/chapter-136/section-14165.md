@@ -3,9 +3,9 @@ title: "Section 14165 - Definitions"
 usc_title: 42
 usc_section: "14165"
 chapter: 136
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 14165"
-generated_at: "2026-03-30T06:19:03.532Z"
+generated_at: "2026-03-30T06:21:33.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1153a - Repealed. Pub. L. 91–412 , § 3(f), Sept. 25, 1970 , 8
 usc_title: 15
 usc_section: "1153a"
 chapter: 23
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 1153a"
-generated_at: "2026-03-30T06:17:52.833Z"
+generated_at: "2026-03-30T06:19:58.030Z"
 status: "repealed"
 ---
 

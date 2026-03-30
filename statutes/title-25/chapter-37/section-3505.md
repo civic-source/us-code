@@ -3,9 +3,9 @@ title: "Section 3505 - Federal power marketing administrations"
 usc_title: 25
 usc_section: "3505"
 chapter: 37
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "25 U.S.C. § 3505"
-generated_at: "2026-03-30T06:18:09.887Z"
+generated_at: "2026-03-30T06:20:24.526Z"
 status: "active"
 ---
 

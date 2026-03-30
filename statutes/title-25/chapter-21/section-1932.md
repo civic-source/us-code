@@ -3,9 +3,9 @@ title: "Section 1932 - Grants for off-reservation programs for additional servic
 usc_title: 25
 usc_section: "1932"
 chapter: 21
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "25 U.S.C. § 1932"
-generated_at: "2026-03-30T06:18:09.868Z"
+generated_at: "2026-03-30T06:20:24.508Z"
 status: "active"
 ---
 

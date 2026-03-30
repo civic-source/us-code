@@ -3,9 +3,9 @@ title: "Section 1517 - Repealed. Pub. L. 101–380, title II , § 2003(a)(2), Au
 usc_title: 33
 usc_section: "1517"
 chapter: 29
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "33 U.S.C. § 1517"
-generated_at: "2026-03-30T06:18:37.578Z"
+generated_at: "2026-03-30T06:21:02.009Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 428b - Wheat and feed grains research; regional and national res
 usc_title: 7
 usc_section: "428b"
 chapter: 17
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 428b"
-generated_at: "2026-03-30T06:17:41.347Z"
+generated_at: "2026-03-30T06:19:46.624Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47 - Repealed. Feb. 28, 1933, ch. 131 , § 1, 47 Stat. 1349"
 usc_title: 19
 usc_section: "47"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "19 U.S.C. § 47"
-generated_at: "2026-03-30T06:17:59.261Z"
+generated_at: "2026-03-30T06:20:13.596Z"
 status: "repealed"
 ---
 

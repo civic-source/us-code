@@ -3,9 +3,9 @@ title: "Section 10143 - Ready Reserve: Selected Reserve"
 usc_title: 10
 usc_section: "10143"
 chapter: 1005
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 10143"
-generated_at: "2026-03-30T06:17:46.683Z"
+generated_at: "2026-03-30T06:19:43.957Z"
 status: "active"
 ---
 

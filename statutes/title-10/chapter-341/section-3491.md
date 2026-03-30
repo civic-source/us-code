@@ -3,9 +3,9 @@ title: "Section 3491 - Non-regular officers: status"
 usc_title: 10
 usc_section: "3491"
 chapter: 341
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 3491"
-generated_at: "2026-03-30T06:17:46.657Z"
+generated_at: "2026-03-30T06:19:43.929Z"
 status: "active"
 ---
 

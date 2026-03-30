@@ -3,9 +3,9 @@ title: "Section 250 - Repealed. Pub. L. 101–508, title XI , § 11801(a)(15), N
 usc_title: 26
 usc_section: "250"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "26 U.S.C. § 250"
-generated_at: "2026-03-30T06:18:34.416Z"
+generated_at: "2026-03-30T06:20:42.201Z"
 status: "repealed"
 ---
 

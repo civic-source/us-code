@@ -3,9 +3,9 @@ title: "Section 717c - Rates and charges"
 usc_title: 15
 usc_section: "717c"
 chapter: 15
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 717c"
-generated_at: "2026-03-30T06:17:52.823Z"
+generated_at: "2026-03-30T06:19:58.019Z"
 status: "active"
 ---
 

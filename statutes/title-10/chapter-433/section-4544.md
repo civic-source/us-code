@@ -3,9 +3,9 @@ title: "Section 4544 - Army industrial facilities: cooperative activities with n
 usc_title: 10
 usc_section: "4544"
 chapter: 433
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 4544"
-generated_at: "2026-03-30T06:17:46.661Z"
+generated_at: "2026-03-30T06:19:43.932Z"
 status: "active"
 ---
 

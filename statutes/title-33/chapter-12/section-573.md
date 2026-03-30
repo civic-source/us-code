@@ -3,9 +3,9 @@ title: "Section 573 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 S
 usc_title: 33
 usc_section: "573"
 chapter: 12
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "33 U.S.C. § 573"
-generated_at: "2026-03-30T06:18:37.541Z"
+generated_at: "2026-03-30T06:21:01.971Z"
 status: "repealed"
 ---
 

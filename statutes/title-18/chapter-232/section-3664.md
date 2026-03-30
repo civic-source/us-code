@@ -3,9 +3,9 @@ title: "Section 3664 - Procedure for issuance and enforcement of order of restit
 usc_title: 18
 usc_section: "3664"
 chapter: 232
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "18 U.S.C. § 3664"
-generated_at: "2026-03-30T06:18:01.163Z"
+generated_at: "2026-03-30T06:20:05.777Z"
 status: "active"
 ---
 

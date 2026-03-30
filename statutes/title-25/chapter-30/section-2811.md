@@ -3,9 +3,9 @@ title: "Section 2811 - Native American Issues Coordinator"
 usc_title: 25
 usc_section: "2811"
 chapter: 30
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "25 U.S.C. § 2811"
-generated_at: "2026-03-30T06:18:09.881Z"
+generated_at: "2026-03-30T06:20:24.520Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6403 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "6403"
 chapter: 573
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 6403"
-generated_at: "2026-03-30T06:17:46.668Z"
+generated_at: "2026-03-30T06:19:43.940Z"
 status: "repealed"
 ---
 

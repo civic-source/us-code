@@ -3,9 +3,9 @@ title: "Section 741 - Disposition of documents stored at Capitol"
 usc_title: 44
 usc_section: "741"
 chapter: 7
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "44 U.S.C. § 741"
-generated_at: "2026-03-30T06:18:45.892Z"
+generated_at: "2026-03-30T06:21:19.071Z"
 status: "active"
 ---
 

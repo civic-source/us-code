@@ -3,9 +3,9 @@ title: "Section 2704 - Evaluation by Secretary of Transportation on utilization 
 usc_title: 15
 usc_section: "2704"
 chapter: 54
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 2704"
-generated_at: "2026-03-30T06:17:52.884Z"
+generated_at: "2026-03-30T06:19:58.080Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Animals and equipment for field employees"
 usc_title: 43
 usc_section: "2"
 chapter: 8
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T06:18:45.428Z"
+generated_at: "2026-03-30T06:21:15.955Z"
 status: "active"
 ---
 

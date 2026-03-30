@@ -3,9 +3,9 @@ title: "Section 14133 - Federal Bureau of Investigation"
 usc_title: 42
 usc_section: "14133"
 chapter: 136
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 14133"
-generated_at: "2026-03-30T06:19:03.530Z"
+generated_at: "2026-03-30T06:21:33.706Z"
 status: "active"
 ---
 

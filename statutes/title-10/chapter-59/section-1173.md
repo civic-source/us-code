@@ -3,9 +3,9 @@ title: "Section 1173 - Enlisted members: discharge for hardship"
 usc_title: 10
 usc_section: "1173"
 chapter: 59
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 1173"
-generated_at: "2026-03-30T06:17:46.594Z"
+generated_at: "2026-03-30T06:19:43.859Z"
 status: "active"
 ---
 

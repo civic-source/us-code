@@ -3,9 +3,9 @@ title: "Section 2504 - Duties; authorization of grants for historical publicatio
 usc_title: 44
 usc_section: "2504"
 chapter: 25
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "44 U.S.C. § 2504"
-generated_at: "2026-03-30T06:18:45.897Z"
+generated_at: "2026-03-30T06:21:19.075Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8473 - Employee Thrift Advisory Council"
 usc_title: 5
 usc_section: "8473"
 chapter: 84
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "5 U.S.C. § 8473"
-generated_at: "2026-03-30T06:17:23.477Z"
+generated_at: "2026-03-30T06:19:32.650Z"
 status: "active"
 ---
 

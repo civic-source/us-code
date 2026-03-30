@@ -3,9 +3,9 @@ title: "Section 4117 - Standards of conduct for labor organizations"
 usc_title: 22
 usc_section: "4117"
 chapter: 52
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 4117"
-generated_at: "2026-03-30T06:18:13.984Z"
+generated_at: "2026-03-30T06:20:29.557Z"
 status: "active"
 ---
 

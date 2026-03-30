@@ -3,9 +3,9 @@ title: "Section 197e - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 
 usc_title: 15
 usc_section: "197e"
 chapter: 5
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 197e"
-generated_at: "2026-03-30T06:17:52.787Z"
+generated_at: "2026-03-30T06:19:57.984Z"
 status: "repealed"
 ---
 

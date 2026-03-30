@@ -3,9 +3,9 @@ title: "Section 7241 - Corporate responsibility for financial reports"
 usc_title: 15
 usc_section: "7241"
 chapter: 98
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 7241"
-generated_at: "2026-03-30T06:17:52.915Z"
+generated_at: "2026-03-30T06:19:58.112Z"
 status: "active"
 ---
 

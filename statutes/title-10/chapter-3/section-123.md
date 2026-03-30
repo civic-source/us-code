@@ -3,9 +3,9 @@ title: "Section 123 - Authority to suspend officer personnel laws during war or 
 usc_title: 10
 usc_section: "123"
 chapter: 3
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 123"
-generated_at: "2026-03-30T06:17:46.551Z"
+generated_at: "2026-03-30T06:19:43.811Z"
 status: "active"
 ---
 

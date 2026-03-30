@@ -3,9 +3,9 @@ title: "Section 526 - Shipowners’ protection and indemnity associations"
 usc_title: 26
 usc_section: "526"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "26 U.S.C. § 526"
-generated_at: "2026-03-30T06:18:34.459Z"
+generated_at: "2026-03-30T06:20:42.244Z"
 status: "active"
 ---
 

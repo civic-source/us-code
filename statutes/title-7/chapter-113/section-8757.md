@@ -3,9 +3,9 @@ title: "Section 8757 - Marketing assistance loans and loan deficiency payments f
 usc_title: 7
 usc_section: "8757"
 chapter: 113
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 8757"
-generated_at: "2026-03-30T06:17:41.491Z"
+generated_at: "2026-03-30T06:19:46.765Z"
 status: "active"
 ---
 

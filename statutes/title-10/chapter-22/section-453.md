@@ -3,9 +3,9 @@ title: "Section 453 - Sale of maps, charts, and navigational publications: price
 usc_title: 10
 usc_section: "453"
 chapter: 22
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 453"
-generated_at: "2026-03-30T06:17:46.563Z"
+generated_at: "2026-03-30T06:19:43.825Z"
 status: "active"
 ---
 

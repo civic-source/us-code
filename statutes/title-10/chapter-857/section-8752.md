@@ -3,9 +3,9 @@ title: "Section 8752 - Medals: posthumous award and presentation"
 usc_title: 10
 usc_section: "8752"
 chapter: 857
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 8752"
-generated_at: "2026-03-30T06:17:46.678Z"
+generated_at: "2026-03-30T06:19:43.952Z"
 status: "active"
 ---
 

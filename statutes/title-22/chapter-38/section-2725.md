@@ -3,9 +3,9 @@ title: "Section 2725 - Fees for use of the George P. Shultz National Foreign Aff
 usc_title: 22
 usc_section: "2725"
 chapter: 38
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 2725"
-generated_at: "2026-03-30T06:18:13.962Z"
+generated_at: "2026-03-30T06:20:29.535Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 355d - Internal committee for review of pediatric plans, assessm
 usc_title: 21
 usc_section: "355d"
 chapter: 9
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "21 U.S.C. § 355d"
-generated_at: "2026-03-30T06:18:11.063Z"
+generated_at: "2026-03-30T06:20:26.442Z"
 status: "active"
 ---
 

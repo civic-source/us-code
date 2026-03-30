@@ -3,9 +3,9 @@ title: "Section 2538c - Long-term plan for meeting national security requirement
 usc_title: 50
 usc_section: "2538c"
 chapter: 42
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "50 U.S.C. § 2538c"
-generated_at: "2026-03-30T06:19:08.121Z"
+generated_at: "2026-03-30T06:21:38.466Z"
 status: "active"
 ---
 

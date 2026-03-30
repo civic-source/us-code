@@ -3,9 +3,9 @@ title: "Section 1404 - Omitted"
 usc_title: 16
 usc_section: "1404"
 chapter: 31
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 1404"
-generated_at: "2026-03-30T06:18:06.468Z"
+generated_at: "2026-03-30T06:20:08.669Z"
 status: "omitted"
 ---
 

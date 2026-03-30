@@ -3,9 +3,9 @@ title: "Section 6008 - Petition and review"
 usc_title: 7
 usc_section: "6008"
 chapter: 89
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 6008"
-generated_at: "2026-03-30T06:17:41.451Z"
+generated_at: "2026-03-30T06:19:46.726Z"
 status: "active"
 ---
 

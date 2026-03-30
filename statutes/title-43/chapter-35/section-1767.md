@@ -3,9 +3,9 @@ title: "Section 1767 - Rights-of-way for Federal departments and agencies"
 usc_title: 43
 usc_section: "1767"
 chapter: 35
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "43 U.S.C. § 1767"
-generated_at: "2026-03-30T06:18:45.474Z"
+generated_at: "2026-03-30T06:21:15.999Z"
 status: "active"
 ---
 

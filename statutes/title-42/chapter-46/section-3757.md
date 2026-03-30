@@ -3,9 +3,9 @@ title: "Section 3757 - Interest-bearing trust funds"
 usc_title: 42
 usc_section: "3757"
 chapter: 46
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 3757"
-generated_at: "2026-03-30T06:19:03.285Z"
+generated_at: "2026-03-30T06:21:33.452Z"
 status: "active"
 ---
 

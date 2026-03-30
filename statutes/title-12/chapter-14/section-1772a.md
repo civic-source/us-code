@@ -3,9 +3,9 @@ title: "Section 1772a - Gifts; acceptance of conditional gifts; deposit"
 usc_title: 12
 usc_section: "1772a"
 chapter: 14
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "12 U.S.C. § 1772a"
-generated_at: "2026-03-30T06:17:55.407Z"
+generated_at: "2026-03-30T06:20:00.325Z"
 status: "active"
 ---
 

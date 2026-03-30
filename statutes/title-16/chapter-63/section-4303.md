@@ -3,9 +3,9 @@ title: "Section 4303 - Management actions"
 usc_title: 16
 usc_section: "4303"
 chapter: 63
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 4303"
-generated_at: "2026-03-30T06:18:06.519Z"
+generated_at: "2026-03-30T06:20:08.716Z"
 status: "active"
 ---
 

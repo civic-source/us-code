@@ -3,9 +3,9 @@ title: "Section 1103 - Eligibility; applications"
 usc_title: 20
 usc_section: "1103"
 chapter: 28
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "20 U.S.C. § 1103"
-generated_at: "2026-03-30T06:18:03.658Z"
+generated_at: "2026-03-30T06:20:21.289Z"
 status: "active"
 ---
 

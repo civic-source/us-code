@@ -3,9 +3,9 @@ title: "Section 1901 - Findings and policy"
 usc_title: 21
 usc_section: "1901"
 chapter: 24
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "21 U.S.C. § 1901"
-generated_at: "2026-03-30T06:18:11.116Z"
+generated_at: "2026-03-30T06:20:26.494Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2279b - Department of Agriculture educational, training, and pro
 usc_title: 7
 usc_section: "2279b"
 chapter: 55
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 2279b"
-generated_at: "2026-03-30T06:17:41.423Z"
+generated_at: "2026-03-30T06:19:46.699Z"
 status: "active"
 ---
 

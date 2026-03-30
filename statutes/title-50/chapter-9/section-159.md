@@ -3,9 +3,9 @@ title: "Section 159 - Transferred"
 usc_title: 50
 usc_section: "159"
 chapter: 9
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "50 U.S.C. § 159"
-generated_at: "2026-03-30T06:19:08.097Z"
+generated_at: "2026-03-30T06:21:38.440Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5510 - Authorization"
 usc_title: 20
 usc_section: "5510"
 chapter: 65
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "20 U.S.C. § 5510"
-generated_at: "2026-03-30T06:18:03.698Z"
+generated_at: "2026-03-30T06:20:21.329Z"
 status: "active"
 ---
 

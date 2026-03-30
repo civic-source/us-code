@@ -3,9 +3,9 @@ title: "Section 7676 - Compensation of prize commissioners and special prize com
 usc_title: 10
 usc_section: "7676"
 chapter: 655
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 7676"
-generated_at: "2026-03-30T06:17:46.675Z"
+generated_at: "2026-03-30T06:19:43.948Z"
 status: "active"
 ---
 

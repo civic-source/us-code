@@ -3,9 +3,9 @@ title: "Section 9056 - Margin protection payments"
 usc_title: 7
 usc_section: "9056"
 chapter: 115
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 9056"
-generated_at: "2026-03-30T06:17:41.495Z"
+generated_at: "2026-03-30T06:19:46.769Z"
 status: "active"
 ---
 

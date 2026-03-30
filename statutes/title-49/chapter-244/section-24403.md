@@ -3,9 +3,9 @@ title: "Section 24403 - Project management oversight"
 usc_title: 49
 usc_section: "24403"
 chapter: 244
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "49 U.S.C. § 24403"
-generated_at: "2026-03-30T06:19:16.777Z"
+generated_at: "2026-03-30T06:21:48.380Z"
 status: "active"
 ---
 

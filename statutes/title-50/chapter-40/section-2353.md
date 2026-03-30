@@ -3,9 +3,9 @@ title: "Section 2353 - Comprehensive preparedness program"
 usc_title: 50
 usc_section: "2353"
 chapter: 40
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "50 U.S.C. § 2353"
-generated_at: "2026-03-30T06:19:08.118Z"
+generated_at: "2026-03-30T06:21:38.462Z"
 status: "active"
 ---
 

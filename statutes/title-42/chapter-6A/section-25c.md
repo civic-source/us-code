@@ -3,9 +3,9 @@ title: "Section 25c - Repealed. Pub. L. 114–255, div. B, title IX , § 9017, D
 usc_title: 42
 usc_section: "25c"
 chapter: 6
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 25c"
-generated_at: "2026-03-30T06:19:02.950Z"
+generated_at: "2026-03-30T06:21:33.116Z"
 status: "repealed"
 ---
 

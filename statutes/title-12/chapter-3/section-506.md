@@ -3,9 +3,9 @@ title: "Section 506 - Notice after separation from service"
 usc_title: 12
 usc_section: "506"
 chapter: 3
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "12 U.S.C. § 506"
-generated_at: "2026-03-30T06:17:55.358Z"
+generated_at: "2026-03-30T06:20:00.279Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7274i - Transferred"
 usc_title: 42
 usc_section: "7274i"
 chapter: 84
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 7274i"
-generated_at: "2026-03-30T06:19:03.379Z"
+generated_at: "2026-03-30T06:21:33.548Z"
 status: "transferred"
 ---
 

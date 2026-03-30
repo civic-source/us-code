@@ -3,9 +3,9 @@ title: "Section 1867 - Cooperative research and management program"
 usc_title: 16
 usc_section: "1867"
 chapter: 38
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 1867"
-generated_at: "2026-03-30T06:18:06.488Z"
+generated_at: "2026-03-30T06:20:08.688Z"
 status: "active"
 ---
 

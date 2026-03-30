@@ -3,9 +3,9 @@ title: "Section 13943 - Information programs"
 usc_title: 42
 usc_section: "13943"
 chapter: 136
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 13943"
-generated_at: "2026-03-30T06:19:03.523Z"
+generated_at: "2026-03-30T06:21:33.698Z"
 status: "active"
 ---
 

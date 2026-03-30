@@ -3,9 +3,9 @@ title: "Section 2922 - Liquid fuels and natural gas: contracts for storage, hand
 usc_title: 10
 usc_section: "2922"
 chapter: 173
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 2922"
-generated_at: "2026-03-30T06:17:46.654Z"
+generated_at: "2026-03-30T06:19:43.925Z"
 status: "active"
 ---
 

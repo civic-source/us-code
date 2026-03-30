@@ -3,9 +3,9 @@ title: "Section 1083 - Repealed. Pub. L. 109–135, title IV , § 402(a)(1), Dec
 usc_title: 26
 usc_section: "1083"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "26 U.S.C. § 1083"
-generated_at: "2026-03-30T06:18:34.497Z"
+generated_at: "2026-03-30T06:20:42.282Z"
 status: "repealed"
 ---
 

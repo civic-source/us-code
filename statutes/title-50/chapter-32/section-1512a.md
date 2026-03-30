@@ -3,9 +3,9 @@ title: "Section 1512a - Transportation of chemical munitions"
 usc_title: 50
 usc_section: "1512a"
 chapter: 32
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "50 U.S.C. § 1512a"
-generated_at: "2026-03-30T06:19:08.103Z"
+generated_at: "2026-03-30T06:21:38.446Z"
 status: "active"
 ---
 

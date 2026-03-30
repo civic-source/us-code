@@ -3,9 +3,9 @@ title: "Section 28c - Length and termination of deferment"
 usc_title: 30
 usc_section: "28c"
 chapter: 2
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "30 U.S.C. § 28c"
-generated_at: "2026-03-30T06:18:25.586Z"
+generated_at: "2026-03-30T06:20:47.047Z"
 status: "active"
 ---
 

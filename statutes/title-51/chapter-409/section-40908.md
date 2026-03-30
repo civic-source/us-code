@@ -3,9 +3,9 @@ title: "Section 40908 - Continuation of certain education programs"
 usc_title: 51
 usc_section: "40908"
 chapter: 409
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "51 U.S.C. § 40908"
-generated_at: "2026-03-30T06:19:18.570Z"
+generated_at: "2026-03-30T06:21:56.942Z"
 status: "active"
 ---
 

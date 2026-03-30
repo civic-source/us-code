@@ -3,9 +3,9 @@ title: "Section 1243 - Interagency cooperation"
 usc_title: 30
 usc_section: "1243"
 chapter: 25
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "30 U.S.C. § 1243"
-generated_at: "2026-03-30T06:18:25.609Z"
+generated_at: "2026-03-30T06:20:47.070Z"
 status: "active"
 ---
 

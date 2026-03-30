@@ -3,9 +3,9 @@ title: "Section 1703 - Terms and conditions of sales"
 usc_title: 7
 usc_section: "1703"
 chapter: 41
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 1703"
-generated_at: "2026-03-30T06:17:41.388Z"
+generated_at: "2026-03-30T06:19:46.664Z"
 status: "active"
 ---
 

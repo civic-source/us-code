@@ -3,9 +3,9 @@ title: "Section 292m - Repayment by Secretary of loans of deceased or disabled b
 usc_title: 42
 usc_section: "292m"
 chapter: 6
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 292m"
-generated_at: "2026-03-30T06:19:02.958Z"
+generated_at: "2026-03-30T06:21:33.124Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2702 - Malpractice protection"
 usc_title: 22
 usc_section: "2702"
 chapter: 38
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 2702"
-generated_at: "2026-03-30T06:18:13.961Z"
+generated_at: "2026-03-30T06:20:29.533Z"
 status: "active"
 ---
 

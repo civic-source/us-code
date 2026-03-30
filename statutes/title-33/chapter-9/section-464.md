@@ -3,9 +3,9 @@ title: "Section 464 - Repealed. Mar. 3, 1901, ch. 854 , § 1636, 31 Stat. 1434"
 usc_title: 33
 usc_section: "464"
 chapter: 9
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "33 U.S.C. § 464"
-generated_at: "2026-03-30T06:18:37.537Z"
+generated_at: "2026-03-30T06:21:01.967Z"
 status: "repealed"
 ---
 

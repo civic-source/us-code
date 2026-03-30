@@ -3,9 +3,9 @@ title: "Section 6112 - Repealed. Pub. L. 87–649 , § 14c(36), Sept. 7, 1962 , 
 usc_title: 10
 usc_section: "6112"
 chapter: 559
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 6112"
-generated_at: "2026-03-30T06:17:46.667Z"
+generated_at: "2026-03-30T06:19:43.939Z"
 status: "repealed"
 ---
 

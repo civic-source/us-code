@@ -3,9 +3,9 @@ title: "Section 891 - Definitions and rules of construction"
 usc_title: 18
 usc_section: "891"
 chapter: 42
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "18 U.S.C. § 891"
-generated_at: "2026-03-30T06:18:01.119Z"
+generated_at: "2026-03-30T06:20:05.739Z"
 status: "active"
 ---
 

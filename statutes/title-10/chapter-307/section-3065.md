@@ -3,9 +3,9 @@ title: "Section 3065 - Assignment and detail: officers assigned or detailed to b
 usc_title: 10
 usc_section: "3065"
 chapter: 307
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 3065"
-generated_at: "2026-03-30T06:17:46.656Z"
+generated_at: "2026-03-30T06:19:43.928Z"
 status: "active"
 ---
 

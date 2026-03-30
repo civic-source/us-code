@@ -3,9 +3,9 @@ title: "Section 1022b - Presentation of analysis respecting short-term and mediu
 usc_title: 15
 usc_section: "1022b"
 chapter: 21
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 1022b"
-generated_at: "2026-03-30T06:17:52.830Z"
+generated_at: "2026-03-30T06:19:58.026Z"
 status: "active"
 ---
 

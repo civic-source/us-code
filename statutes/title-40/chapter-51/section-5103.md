@@ -3,9 +3,9 @@ title: "Section 5103 - Restrictions on public use of United States Capitol Groun
 usc_title: 40
 usc_section: "5103"
 chapter: 51
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "40 U.S.C. § 5103"
-generated_at: "2026-03-30T06:18:41.294Z"
+generated_at: "2026-03-30T06:21:09.139Z"
 status: "active"
 ---
 

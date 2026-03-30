@@ -3,9 +3,9 @@ title: "Section 844a - Civil penalty for possession of small amounts of certain 
 usc_title: 21
 usc_section: "844a"
 chapter: 13
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "21 U.S.C. § 844a"
-generated_at: "2026-03-30T06:18:11.106Z"
+generated_at: "2026-03-30T06:20:26.484Z"
 status: "active"
 ---
 

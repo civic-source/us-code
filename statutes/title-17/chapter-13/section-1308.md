@@ -3,9 +3,9 @@ title: "Section 1308 - Exclusive rights"
 usc_title: 17
 usc_section: "1308"
 chapter: 13
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "17 U.S.C. § 1308"
-generated_at: "2026-03-30T06:18:03.894Z"
+generated_at: "2026-03-30T06:20:06.152Z"
 status: "active"
 ---
 

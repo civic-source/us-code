@@ -3,9 +3,9 @@ title: "Section 1704c - Payments by Secretary of Defense in liquidation of amoun
 usc_title: 7
 usc_section: "1704c"
 chapter: 41
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "7 U.S.C. § 1704c"
-generated_at: "2026-03-30T06:17:41.388Z"
+generated_at: "2026-03-30T06:19:46.664Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1087oo - Family contribution for dependent students"
 usc_title: 20
 usc_section: "1087oo"
 chapter: 28
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "20 U.S.C. § 1087oo"
-generated_at: "2026-03-30T06:18:03.646Z"
+generated_at: "2026-03-30T06:20:21.277Z"
 status: "active"
 ---
 

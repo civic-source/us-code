@@ -3,9 +3,9 @@ title: "Section 3638 - Repealed. Pub. L. 85–861 , § 36B(8), Sept. 2, 1958 , 7
 usc_title: 10
 usc_section: "3638"
 chapter: 349
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 3638"
-generated_at: "2026-03-30T06:17:46.658Z"
+generated_at: "2026-03-30T06:19:43.929Z"
 status: "repealed"
 ---
 

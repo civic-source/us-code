@@ -3,9 +3,9 @@ title: "Section 3288 - Indictments and information dismissed after period of lim
 usc_title: 18
 usc_section: "3288"
 chapter: 213
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "18 U.S.C. § 3288"
-generated_at: "2026-03-30T06:18:01.157Z"
+generated_at: "2026-03-30T06:20:05.770Z"
 status: "active"
 ---
 

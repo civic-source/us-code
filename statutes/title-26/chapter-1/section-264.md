@@ -3,9 +3,9 @@ title: "Section 264 - Certain amounts paid in connection with insurance contract
 usc_title: 26
 usc_section: "264"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "26 U.S.C. § 264"
-generated_at: "2026-03-30T06:18:34.416Z"
+generated_at: "2026-03-30T06:20:42.202Z"
 status: "active"
 ---
 

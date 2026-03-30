@@ -3,9 +3,9 @@ title: "Section 8 - West Virginia fish hatchery; authorization of appropriations
 usc_title: 16
 usc_section: "8"
 chapter: 9
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T06:18:06.429Z"
+generated_at: "2026-03-30T06:20:08.631Z"
 status: "active"
 ---
 

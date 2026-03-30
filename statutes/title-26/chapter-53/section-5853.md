@@ -3,9 +3,9 @@ title: "Section 5853 - Transfer and making tax exemption available to certain go
 usc_title: 26
 usc_section: "5853"
 chapter: 53
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "26 U.S.C. § 5853"
-generated_at: "2026-03-30T06:18:34.558Z"
+generated_at: "2026-03-30T06:20:42.343Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1019 - Repealed. Pub. L. 87–353 , § 3(b), Oct. 4, 1961 , 75 S
 usc_title: 12
 usc_section: "1019"
 chapter: 7
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "12 U.S.C. § 1019"
-generated_at: "2026-03-30T06:17:55.364Z"
+generated_at: "2026-03-30T06:20:00.284Z"
 status: "repealed"
 ---
 

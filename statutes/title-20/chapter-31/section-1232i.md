@@ -3,9 +3,9 @@ title: "Section 1232i - Limitations on withholding of Federal assistance"
 usc_title: 20
 usc_section: "1232i"
 chapter: 31
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "20 U.S.C. § 1232i"
-generated_at: "2026-03-30T06:18:03.671Z"
+generated_at: "2026-03-30T06:20:21.301Z"
 status: "active"
 ---
 

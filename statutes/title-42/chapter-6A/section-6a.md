@@ -3,9 +3,9 @@ title: "Section 6a - Individual offices of minority health within the Department
 usc_title: 42
 usc_section: "6a"
 chapter: 6
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 6a"
-generated_at: "2026-03-30T06:19:02.987Z"
+generated_at: "2026-03-30T06:21:33.160Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8750 - Airman’s Medal: award; limitations"
 usc_title: 10
 usc_section: "8750"
 chapter: 857
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 8750"
-generated_at: "2026-03-30T06:17:46.678Z"
+generated_at: "2026-03-30T06:19:43.952Z"
 status: "active"
 ---
 

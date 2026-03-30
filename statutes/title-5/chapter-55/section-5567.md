@@ -3,9 +3,9 @@ title: "Section 5567 - Settlement of accounts"
 usc_title: 5
 usc_section: "5567"
 chapter: 55
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "5 U.S.C. § 5567"
-generated_at: "2026-03-30T06:17:23.450Z"
+generated_at: "2026-03-30T06:19:32.620Z"
 status: "active"
 ---
 

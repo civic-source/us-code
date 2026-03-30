@@ -3,9 +3,9 @@ title: "Section 46 - Additional powers of Commission"
 usc_title: 15
 usc_section: "46"
 chapter: 2
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 46"
-generated_at: "2026-03-30T06:17:52.740Z"
+generated_at: "2026-03-30T06:19:57.937Z"
 status: "active"
 ---
 

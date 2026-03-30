@@ -3,9 +3,9 @@ title: "Section 6052 - Returns regarding payment of wages in the form of group-t
 usc_title: 26
 usc_section: "6052"
 chapter: 61
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "26 U.S.C. § 6052"
-generated_at: "2026-03-30T06:18:34.565Z"
+generated_at: "2026-03-30T06:20:42.350Z"
 status: "active"
 ---
 

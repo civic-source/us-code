@@ -3,9 +3,9 @@ title: "Section 636 - Administration of oaths"
 usc_title: 14
 usc_section: "636"
 chapter: 17
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "14 U.S.C. § 636"
-generated_at: "2026-03-30T06:17:51.058Z"
+generated_at: "2026-03-30T06:20:02.000Z"
 status: "active"
 ---
 

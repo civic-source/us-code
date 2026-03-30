@@ -3,9 +3,9 @@ title: "Section 4607 - Foreign boycotts"
 usc_title: 50
 usc_section: "4607"
 chapter: 56
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "50 U.S.C. § 4607"
-generated_at: "2026-03-30T06:19:08.161Z"
+generated_at: "2026-03-30T06:21:38.509Z"
 status: "active"
 ---
 

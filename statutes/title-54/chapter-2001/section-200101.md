@@ -3,9 +3,9 @@ title: "Section 200101 - Findings and declaration of policy"
 usc_title: 54
 usc_section: "200101"
 chapter: 2001
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "54 U.S.C. § 200101"
-generated_at: "2026-03-30T06:19:19.058Z"
+generated_at: "2026-03-30T06:21:50.402Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 79m - Annual reporting requirements; contents; comprehensive gen
 usc_title: 16
 usc_section: "79m"
 chapter: 1
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 79m"
-generated_at: "2026-03-30T06:18:06.313Z"
+generated_at: "2026-03-30T06:20:08.520Z"
 status: "active"
 ---
 

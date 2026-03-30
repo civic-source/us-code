@@ -3,9 +3,9 @@ title: "Section 6991e - Federal enforcement"
 usc_title: 42
 usc_section: "6991e"
 chapter: 82
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 6991e"
-generated_at: "2026-03-30T06:19:03.374Z"
+generated_at: "2026-03-30T06:21:33.542Z"
 status: "active"
 ---
 

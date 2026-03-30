@@ -3,9 +3,9 @@ title: "Section 773k - Location of office space and other facilities on or near 
 usc_title: 16
 usc_section: "773k"
 chapter: 10
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 773k"
-generated_at: "2026-03-30T06:18:06.430Z"
+generated_at: "2026-03-30T06:20:08.632Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9354 - Buildings and grounds: buildings for religious worship"
 usc_title: 10
 usc_section: "9354"
 chapter: 903
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 9354"
-generated_at: "2026-03-30T06:17:46.680Z"
+generated_at: "2026-03-30T06:19:43.954Z"
 status: "active"
 ---
 

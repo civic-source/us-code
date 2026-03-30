@@ -3,9 +3,9 @@ title: "Section 8814 - Loan guarantees"
 usc_title: 42
 usc_section: "8814"
 chapter: 96
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 8814"
-generated_at: "2026-03-30T06:19:03.428Z"
+generated_at: "2026-03-30T06:21:33.598Z"
 status: "active"
 ---
 

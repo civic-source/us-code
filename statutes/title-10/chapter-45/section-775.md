@@ -3,9 +3,9 @@ title: "Section 775 - Issue of uniform without charge"
 usc_title: 10
 usc_section: "775"
 chapter: 45
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 775"
-generated_at: "2026-03-30T06:17:46.573Z"
+generated_at: "2026-03-30T06:19:43.836Z"
 status: "active"
 ---
 

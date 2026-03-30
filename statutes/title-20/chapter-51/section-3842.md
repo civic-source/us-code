@@ -3,9 +3,9 @@ title: "Section 3842 - Repealed. Pub. L. 100–297, title I , § 1003(a), Apr. 2
 usc_title: 20
 usc_section: "3842"
 chapter: 51
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "20 U.S.C. § 3842"
-generated_at: "2026-03-30T06:18:03.691Z"
+generated_at: "2026-03-30T06:20:21.322Z"
 status: "repealed"
 ---
 

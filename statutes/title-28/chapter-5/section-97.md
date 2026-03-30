@@ -3,9 +3,9 @@ title: "Section 97 - Kentucky"
 usc_title: 28
 usc_section: "97"
 chapter: 5
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "28 U.S.C. § 97"
-generated_at: "2026-03-30T06:18:19.229Z"
+generated_at: "2026-03-30T06:20:32.508Z"
 status: "active"
 ---
 

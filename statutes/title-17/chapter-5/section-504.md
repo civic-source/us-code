@@ -3,9 +3,9 @@ title: "Section 504 - Remedies for infringement: Damages and profits"
 usc_title: 17
 usc_section: "504"
 chapter: 5
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "17 U.S.C. § 504"
-generated_at: "2026-03-30T06:18:03.890Z"
+generated_at: "2026-03-30T06:20:06.149Z"
 status: "active"
 ---
 

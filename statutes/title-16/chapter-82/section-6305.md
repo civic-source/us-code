@@ -3,9 +3,9 @@ title: "Section 6305 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6305"
 chapter: 82
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "16 U.S.C. § 6305"
-generated_at: "2026-03-30T06:18:06.529Z"
+generated_at: "2026-03-30T06:20:08.725Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16925 - Failure of jurisdiction to comply"
 usc_title: 42
 usc_section: "16925"
 chapter: 151
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 16925"
-generated_at: "2026-03-30T06:19:03.563Z"
+generated_at: "2026-03-30T06:21:33.740Z"
 status: "active"
 ---
 

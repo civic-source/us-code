@@ -3,9 +3,9 @@ title: "Section 300t - Development grants for health systems agencies"
 usc_title: 42
 usc_section: "300t"
 chapter: 6
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "42 U.S.C. § 300t"
-generated_at: "2026-03-30T06:19:02.987Z"
+generated_at: "2026-03-30T06:21:33.159Z"
 status: "active"
 ---
 

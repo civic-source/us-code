@@ -3,9 +3,9 @@ title: "Section 150109 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "150109"
 chapter: 1501
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "36 U.S.C. § 150109"
-generated_at: "2026-03-30T06:18:41.862Z"
+generated_at: "2026-03-30T06:21:06.576Z"
 status: "active"
 ---
 

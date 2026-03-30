@@ -3,9 +3,9 @@ title: "Section 16162a - Accelerated payment of educational assistance"
 usc_title: 10
 usc_section: "16162a"
 chapter: 1607
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 16162a"
-generated_at: "2026-03-30T06:17:46.694Z"
+generated_at: "2026-03-30T06:19:43.970Z"
 status: "active"
 ---
 

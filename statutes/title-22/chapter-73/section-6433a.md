@@ -3,9 +3,9 @@ title: "Section 6433a - Strategic plan"
 usc_title: 22
 usc_section: "6433a"
 chapter: 73
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 6433a"
-generated_at: "2026-03-30T06:18:14.003Z"
+generated_at: "2026-03-30T06:20:29.576Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 481 - Plates, stones, or analog, digital, or electronic images f
 usc_title: 18
 usc_section: "481"
 chapter: 25
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "18 U.S.C. § 481"
-generated_at: "2026-03-30T06:18:01.113Z"
+generated_at: "2026-03-30T06:20:05.733Z"
 status: "active"
 ---
 

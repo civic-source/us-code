@@ -3,9 +3,9 @@ title: "Section 3681 - Order of special forfeiture"
 usc_title: 18
 usc_section: "3681"
 chapter: 232
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "18 U.S.C. § 3681"
-generated_at: "2026-03-30T06:18:01.164Z"
+generated_at: "2026-03-30T06:20:05.777Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 110 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(25)
 usc_title: 8
 usc_section: "110"
 chapter: 6
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "8 U.S.C. § 110"
-generated_at: "2026-03-30T06:17:37.349Z"
+generated_at: "2026-03-30T06:19:51.957Z"
 status: "repealed"
 ---
 

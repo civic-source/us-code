@@ -3,9 +3,9 @@ title: "Section 1447 - Definitions"
 usc_title: 10
 usc_section: "1447"
 chapter: 73
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 1447"
-generated_at: "2026-03-30T06:17:46.600Z"
+generated_at: "2026-03-30T06:19:43.866Z"
 status: "active"
 ---
 

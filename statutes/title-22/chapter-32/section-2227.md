@@ -3,9 +3,9 @@ title: "Section 2227 - Withholding of United States proportionate share for cert
 usc_title: 22
 usc_section: "2227"
 chapter: 32
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 2227"
-generated_at: "2026-03-30T06:18:13.940Z"
+generated_at: "2026-03-30T06:20:29.513Z"
 status: "active"
 ---
 

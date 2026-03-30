@@ -3,9 +3,9 @@ title: "Section 100802 - Interpretation and education authority"
 usc_title: 54
 usc_section: "100802"
 chapter: 1008
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "54 U.S.C. § 100802"
-generated_at: "2026-03-30T06:19:19.053Z"
+generated_at: "2026-03-30T06:21:50.398Z"
 status: "active"
 ---
 

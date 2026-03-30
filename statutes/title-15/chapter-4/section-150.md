@@ -3,9 +3,9 @@ title: "Section 150 - Stockholders’ meetings"
 usc_title: 15
 usc_section: "150"
 chapter: 4
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "15 U.S.C. § 150"
-generated_at: "2026-03-30T06:17:52.786Z"
+generated_at: "2026-03-30T06:19:57.984Z"
 status: "active"
 ---
 

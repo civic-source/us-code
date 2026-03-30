@@ -3,9 +3,9 @@ title: "Section 7476 - Administration of oaths by clerks and employees"
 usc_title: 10
 usc_section: "7476"
 chapter: 643
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "10 U.S.C. § 7476"
-generated_at: "2026-03-30T06:17:46.673Z"
+generated_at: "2026-03-30T06:19:43.946Z"
 status: "active"
 ---
 

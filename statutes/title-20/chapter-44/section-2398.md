@@ -3,9 +3,9 @@ title: "Section 2398 - Limitation on Federal regulations"
 usc_title: 20
 usc_section: "2398"
 chapter: 44
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "20 U.S.C. § 2398"
-generated_at: "2026-03-30T06:18:03.687Z"
+generated_at: "2026-03-30T06:20:21.318Z"
 status: "active"
 ---
 

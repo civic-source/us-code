@@ -3,9 +3,9 @@ title: "Section 2151i - Development and use of cooperatives"
 usc_title: 22
 usc_section: "2151i"
 chapter: 32
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "22 U.S.C. § 2151i"
-generated_at: "2026-03-30T06:18:13.934Z"
+generated_at: "2026-03-30T06:20:29.506Z"
 status: "active"
 ---
 

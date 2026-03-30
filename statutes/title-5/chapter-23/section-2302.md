@@ -3,9 +3,9 @@ title: "Section 2302 - Prohibited personnel practices"
 usc_title: 5
 usc_section: "2302"
 chapter: 23
-current_through: "PL 115-39"
+current_through: "PL 115-40"
 classification: "5 U.S.C. § 2302"
-generated_at: "2026-03-30T06:17:23.434Z"
+generated_at: "2026-03-30T06:19:32.603Z"
 status: "active"
 ---
 
@@ -67,7 +67,7 @@ status: "active"
       - **(ii)** other than with regard to remedying a violation of paragraph (8);
     - **(B)** testifying for or otherwise lawfully assisting any individual in the exercise of any right referred to in subparagraph (A)(i) or (ii);
     - **(C)** cooperating with or disclosing information to the Inspector General of an agency, or the Special Counsel, in accordance with applicable provisions of law; or
-    - **(D)** for 1 1 So in original. The word “for” probably should not appear. refusing to obey an order that would require the individual to violate a law;
+    - **(D)** refusing to obey an order that would require the individual to violate a law, rule, or regulation;
   - **(10)** discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
   - **(11)**
     - **(A)** knowingly take, recommend, or approve any personnel action if the taking of such action would violate a veterans’ preference requirement; or
@@ -87,7 +87,7 @@ status: "active"
     - **(B)** Sections 943(c)(2) and 1784(c) of title 10.
     - **(C)** Section 1308(b) of the Alaska National Interest Lands Conservation Act.
     - **(D)** Section 301(c) of the Foreign Service Act of 1980.
-    - **(E)** Sections 106(f), 2 2 See References in Text note below. 7281(e), and 7802(5) 2 of title 38.
+    - **(E)** Sections 106(f), 1 1 See References in Text note below. 7281(e), and 7802(5) 2 of title 38.
     - **(F)** Section 1005(a) of title 39 .
     - **(G)** Any other provision of law that the Director of the Office of Personnel Management designates in regulations as being a veterans’ preference requirement for the purposes of this subsection.
     - **(H)** Any regulation prescribed under subsection (b) or (c) of section 1302 and any other regulation that implements a provision of law referred to in any of the preceding subparagraphs.
