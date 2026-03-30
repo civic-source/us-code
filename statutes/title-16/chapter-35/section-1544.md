@@ -3,9 +3,9 @@ title: "Section 1544 - Annual cost analysis by Fish and Wildlife Service"
 usc_title: 16
 usc_section: "1544"
 chapter: 35
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "16 U.S.C. § 1544"
-generated_at: "2026-03-30T06:15:30.381Z"
+generated_at: "2026-03-30T06:18:06.477Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21071 - National Student and Parent Mock Election"
 usc_title: 52
 usc_section: "21071"
 chapter: 209
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "52 U.S.C. § 21071"
-generated_at: "2026-03-30T06:17:10.234Z"
+generated_at: "2026-03-30T06:19:18.724Z"
 status: "active"
 ---
 

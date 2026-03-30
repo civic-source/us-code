@@ -3,9 +3,9 @@ title: "Section 31d - Advisory committee"
 usc_title: 43
 usc_section: "31d"
 chapter: 2
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "43 U.S.C. § 31d"
-generated_at: "2026-03-30T06:16:48.458Z"
+generated_at: "2026-03-30T06:18:45.424Z"
 status: "active"
 ---
 

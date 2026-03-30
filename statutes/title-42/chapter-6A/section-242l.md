@@ -3,9 +3,9 @@ title: "Section 242l - International cooperation"
 usc_title: 42
 usc_section: "242l"
 chapter: 6
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 242l"
-generated_at: "2026-03-30T06:17:00.819Z"
+generated_at: "2026-03-30T06:19:02.888Z"
 status: "active"
 ---
 

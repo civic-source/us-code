@@ -3,9 +3,9 @@ title: "Section 7421 - Purpose"
 usc_title: 20
 usc_section: "7421"
 chapter: 70
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "20 U.S.C. § 7421"
-generated_at: "2026-03-30T06:15:16.144Z"
+generated_at: "2026-03-30T06:18:03.719Z"
 status: "active"
 ---
 

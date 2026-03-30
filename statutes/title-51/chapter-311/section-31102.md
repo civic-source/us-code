@@ -3,9 +3,9 @@ title: "Section 31102 - Drug and alcohol testing"
 usc_title: 51
 usc_section: "31102"
 chapter: 311
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "51 U.S.C. § 31102"
-generated_at: "2026-03-30T06:17:10.076Z"
+generated_at: "2026-03-30T06:19:18.569Z"
 status: "active"
 ---
 

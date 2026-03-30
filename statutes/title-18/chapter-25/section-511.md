@@ -3,9 +3,9 @@ title: "Section 511 - Altering or removing motor vehicle identification numbers"
 usc_title: 18
 usc_section: "511"
 chapter: 25
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "18 U.S.C. § 511"
-generated_at: "2026-03-30T06:15:28.043Z"
+generated_at: "2026-03-30T06:18:01.113Z"
 status: "active"
 ---
 

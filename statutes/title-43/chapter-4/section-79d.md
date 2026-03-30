@@ -3,9 +3,9 @@ title: "Section 79d - Alaska land claimant liable for fees, commissions or purch
 usc_title: 43
 usc_section: "79d"
 chapter: 4
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "43 U.S.C. § 79d"
-generated_at: "2026-03-30T06:16:48.460Z"
+generated_at: "2026-03-30T06:18:45.425Z"
 status: "active"
 ---
 

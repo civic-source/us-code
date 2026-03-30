@@ -3,9 +3,9 @@ title: "Section 5209 - Rules and regulations; repeals"
 usc_title: 25
 usc_section: "5209"
 chapter: 45
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "25 U.S.C. § 5209"
-generated_at: "2026-03-30T06:15:36.341Z"
+generated_at: "2026-03-30T06:18:09.896Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9345a - Repealed. Pub. L. 114–328, div. A, title XII , § 1248
 usc_title: 10
 usc_section: "9345a"
 chapter: 903
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 9345a"
-generated_at: "2026-03-30T06:14:52.910Z"
+generated_at: "2026-03-30T06:17:46.680Z"
 status: "repealed"
 ---
 

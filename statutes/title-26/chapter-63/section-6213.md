@@ -3,9 +3,9 @@ title: "Section 6213 - Restrictions applicable to deficiencies; petition to Tax 
 usc_title: 26
 usc_section: "6213"
 chapter: 63
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 6213"
-generated_at: "2026-03-30T06:16:16.289Z"
+generated_at: "2026-03-30T06:18:34.572Z"
 status: "active"
 ---
 

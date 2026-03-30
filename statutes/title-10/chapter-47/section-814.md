@@ -3,9 +3,9 @@ title: "Section 814 - Art. 14. Delivery of offenders to civil authorities"
 usc_title: 10
 usc_section: "814"
 chapter: 47
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 814"
-generated_at: "2026-03-30T06:14:52.802Z"
+generated_at: "2026-03-30T06:17:46.574Z"
 status: "active"
 ---
 

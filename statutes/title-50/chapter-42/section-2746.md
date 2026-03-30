@@ -3,9 +3,9 @@ title: "Section 2746 - Conceptual and construction design"
 usc_title: 50
 usc_section: "2746"
 chapter: 42
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "50 U.S.C. § 2746"
-generated_at: "2026-03-30T06:17:08.301Z"
+generated_at: "2026-03-30T06:19:08.125Z"
 status: "active"
 ---
 

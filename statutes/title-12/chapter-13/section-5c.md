@@ -3,9 +3,9 @@ title: "Section 5c - Transfer of rehabilitation loan fund assets and liabilities
 usc_title: 12
 usc_section: "5c"
 chapter: 13
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "12 U.S.C. § 5c"
-generated_at: "2026-03-30T06:15:01.481Z"
+generated_at: "2026-03-30T06:17:55.376Z"
 status: "active"
 ---
 

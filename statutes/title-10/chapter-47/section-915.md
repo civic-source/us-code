@@ -3,9 +3,9 @@ title: "Section 915 - Art. 115. Malingering"
 usc_title: 10
 usc_section: "915"
 chapter: 47
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 915"
-generated_at: "2026-03-30T06:14:52.806Z"
+generated_at: "2026-03-30T06:17:46.577Z"
 status: "active"
 ---
 

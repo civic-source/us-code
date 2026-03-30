@@ -3,9 +3,9 @@ title: "Section 6320 - Purchase of office equipment or furnishings by Senators"
 usc_title: 2
 usc_section: "6320"
 chapter: 63
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 6320"
-generated_at: "2026-03-30T06:14:33.762Z"
+generated_at: "2026-03-30T06:17:34.126Z"
 status: "active"
 ---
 

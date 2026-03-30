@@ -3,9 +3,9 @@ title: "Section 107 - Acquisition of rights-of-way—Interstate System"
 usc_title: 23
 usc_section: "107"
 chapter: 1
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "23 U.S.C. § 107"
-generated_at: "2026-03-30T06:15:33.015Z"
+generated_at: "2026-03-30T06:18:10.282Z"
 status: "active"
 ---
 

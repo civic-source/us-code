@@ -3,9 +3,9 @@ title: "Section 526 - Temporary assignment of excess real property"
 usc_title: 40
 usc_section: "526"
 chapter: 5
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "40 U.S.C. § 526"
-generated_at: "2026-03-30T06:16:32.385Z"
+generated_at: "2026-03-30T06:18:41.287Z"
 status: "active"
 ---
 

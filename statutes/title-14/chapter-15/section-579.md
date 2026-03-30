@@ -3,9 +3,9 @@ title: "Section 579 - Extension of major acquisition program contracts"
 usc_title: 14
 usc_section: "579"
 chapter: 15
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "14 U.S.C. § 579"
-generated_at: "2026-03-30T06:14:54.852Z"
+generated_at: "2026-03-30T06:17:51.058Z"
 status: "active"
 ---
 

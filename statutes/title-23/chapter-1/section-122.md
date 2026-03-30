@@ -3,9 +3,9 @@ title: "Section 122 - Payments to States for bond and other debt instrument fina
 usc_title: 23
 usc_section: "122"
 chapter: 1
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "23 U.S.C. § 122"
-generated_at: "2026-03-30T06:15:33.016Z"
+generated_at: "2026-03-30T06:18:10.283Z"
 status: "active"
 ---
 

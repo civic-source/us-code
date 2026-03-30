@@ -3,9 +3,9 @@ title: "Section 7504 - Fractional parts of a dollar"
 usc_title: 26
 usc_section: "7504"
 chapter: 77
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 7504"
-generated_at: "2026-03-30T06:16:16.322Z"
+generated_at: "2026-03-30T06:18:34.596Z"
 status: "active"
 ---
 

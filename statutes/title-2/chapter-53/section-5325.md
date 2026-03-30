@@ -3,9 +3,9 @@ title: "Section 5325 - Performance of duties by clerical assistants of dead or r
 usc_title: 2
 usc_section: "5325"
 chapter: 53
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 5325"
-generated_at: "2026-03-30T06:14:33.759Z"
+generated_at: "2026-03-30T06:17:34.122Z"
 status: "active"
 ---
 

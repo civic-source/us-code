@@ -3,9 +3,9 @@ title: "Section 1411 - Rules of construction"
 usc_title: 10
 usc_section: "1411"
 chapter: 71
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 1411"
-generated_at: "2026-03-30T06:14:52.828Z"
+generated_at: "2026-03-30T06:17:46.599Z"
 status: "active"
 ---
 

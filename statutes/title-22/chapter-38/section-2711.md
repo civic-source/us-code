@@ -3,9 +3,9 @@ title: "Section 2711 - Counterterrorism Protection Fund"
 usc_title: 22
 usc_section: "2711"
 chapter: 38
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 2711"
-generated_at: "2026-03-30T06:16:05.309Z"
+generated_at: "2026-03-30T06:18:13.962Z"
 status: "active"
 ---
 

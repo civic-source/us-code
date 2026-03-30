@@ -3,9 +3,9 @@ title: "Section 2002 - Records, audit, and report"
 usc_title: 21
 usc_section: "2002"
 chapter: 25
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "21 U.S.C. § 2002"
-generated_at: "2026-03-30T06:15:34.227Z"
+generated_at: "2026-03-30T06:18:11.117Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1532 - Statements to accompany significant regulatory actions"
 usc_title: 2
 usc_section: "1532"
 chapter: 25
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 1532"
-generated_at: "2026-03-30T06:14:33.739Z"
+generated_at: "2026-03-30T06:17:34.105Z"
 status: "active"
 ---
 

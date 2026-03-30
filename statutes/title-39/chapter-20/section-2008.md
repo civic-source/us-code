@@ -3,9 +3,9 @@ title: "Section 2008 - Audit and expenditures"
 usc_title: 39
 usc_section: "2008"
 chapter: 20
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "39 U.S.C. § 2008"
-generated_at: "2026-03-30T06:16:37.400Z"
+generated_at: "2026-03-30T06:18:40.597Z"
 status: "active"
 ---
 

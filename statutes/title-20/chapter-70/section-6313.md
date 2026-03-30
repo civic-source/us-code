@@ -3,9 +3,9 @@ title: "Section 6313 - Eligible school attendance areas"
 usc_title: 20
 usc_section: "6313"
 chapter: 70
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "20 U.S.C. § 6313"
-generated_at: "2026-03-30T06:15:16.130Z"
+generated_at: "2026-03-30T06:18:03.704Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 580e - Services furnished persons attending Forest Service demon
 usc_title: 16
 usc_section: "580e"
 chapter: 3
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "16 U.S.C. § 580e"
-generated_at: "2026-03-30T06:15:30.313Z"
+generated_at: "2026-03-30T06:18:06.409Z"
 status: "active"
 ---
 

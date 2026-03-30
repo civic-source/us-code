@@ -3,9 +3,9 @@ title: "Section 15601 - Findings"
 usc_title: 42
 usc_section: "15601"
 chapter: 147
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 15601"
-generated_at: "2026-03-30T06:17:01.464Z"
+generated_at: "2026-03-30T06:19:03.542Z"
 status: "active"
 ---
 

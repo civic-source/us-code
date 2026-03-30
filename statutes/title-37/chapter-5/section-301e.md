@@ -3,9 +3,9 @@ title: "Section 301e - Multiyear retention bonus: dental officers of the armed f
 usc_title: 37
 usc_section: "301e"
 chapter: 5
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "37 U.S.C. § 301e"
-generated_at: "2026-03-30T06:16:36.457Z"
+generated_at: "2026-03-30T06:18:40.904Z"
 status: "active"
 ---
 

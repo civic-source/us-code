@@ -3,9 +3,9 @@ title: "Section 40728B - Recovery of excess rifles, ammunition, and parts grante
 usc_title: 36
 usc_section: "40728B"
 chapter: 407
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "36 U.S.C. § 40728B"
-generated_at: "2026-03-30T06:16:37.977Z"
+generated_at: "2026-03-30T06:18:41.858Z"
 status: "active"
 ---
 

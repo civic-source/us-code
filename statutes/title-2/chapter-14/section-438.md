@@ -3,9 +3,9 @@ title: "Section 438 - Transferred"
 usc_title: 2
 usc_section: "438"
 chapter: 14
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 438"
-generated_at: "2026-03-30T06:14:33.721Z"
+generated_at: "2026-03-30T06:17:34.091Z"
 status: "transferred"
 ---
 

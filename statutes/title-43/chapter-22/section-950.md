@@ -3,9 +3,9 @@ title: "Section 950 - Right of way to canal and ditch companies for irrigation p
 usc_title: 43
 usc_section: "950"
 chapter: 22
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "43 U.S.C. § 950"
-generated_at: "2026-03-30T06:16:48.486Z"
+generated_at: "2026-03-30T06:18:45.451Z"
 status: "active"
 ---
 

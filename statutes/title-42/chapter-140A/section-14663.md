@@ -3,9 +3,9 @@ title: "Section 14663 - Uses of funds"
 usc_title: 42
 usc_section: "14663"
 chapter: 140
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 14663"
-generated_at: "2026-03-30T06:17:01.458Z"
+generated_at: "2026-03-30T06:19:03.535Z"
 status: "active"
 ---
 

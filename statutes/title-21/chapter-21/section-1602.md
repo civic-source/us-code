@@ -3,9 +3,9 @@ title: "Section 1602 - Definitions"
 usc_title: 21
 usc_section: "1602"
 chapter: 21
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "21 U.S.C. § 1602"
-generated_at: "2026-03-30T06:15:34.223Z"
+generated_at: "2026-03-30T06:18:11.113Z"
 status: "active"
 ---
 

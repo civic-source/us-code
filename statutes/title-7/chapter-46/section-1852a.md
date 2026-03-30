@@ -3,9 +3,9 @@ title: "Section 1852a - Repealed. Pub. L. 90–475 , § 8, Aug. 11, 1968 , 82 St
 usc_title: 7
 usc_section: "1852a"
 chapter: 46
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "7 U.S.C. § 1852a"
-generated_at: "2026-03-30T06:14:39.086Z"
+generated_at: "2026-03-30T06:17:41.393Z"
 status: "repealed"
 ---
 

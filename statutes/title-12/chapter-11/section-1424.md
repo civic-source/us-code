@@ -3,9 +3,9 @@ title: "Section 1424 - Eligibility for membership"
 usc_title: 12
 usc_section: "1424"
 chapter: 11
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "12 U.S.C. § 1424"
-generated_at: "2026-03-30T06:15:01.468Z"
+generated_at: "2026-03-30T06:17:55.365Z"
 status: "active"
 ---
 

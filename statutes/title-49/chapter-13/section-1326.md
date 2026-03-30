@@ -3,9 +3,9 @@ title: "Section 1326 - Authority of the Inspector General"
 usc_title: 49
 usc_section: "1326"
 chapter: 13
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "49 U.S.C. § 1326"
-generated_at: "2026-03-30T06:17:07.227Z"
+generated_at: "2026-03-30T06:19:16.745Z"
 status: "active"
 ---
 

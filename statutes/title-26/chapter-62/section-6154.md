@@ -3,9 +3,9 @@ title: "Section 6154 - Repealed. Pub. L. 100–203, title X , § 10301(b)(1), De
 usc_title: 26
 usc_section: "6154"
 chapter: 62
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 6154"
-generated_at: "2026-03-30T06:16:16.287Z"
+generated_at: "2026-03-30T06:18:34.570Z"
 status: "repealed"
 ---
 

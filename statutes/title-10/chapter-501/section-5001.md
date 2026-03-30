@@ -3,9 +3,9 @@ title: "Section 5001 - Definitions"
 usc_title: 10
 usc_section: "5001"
 chapter: 501
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 5001"
-generated_at: "2026-03-30T06:14:52.893Z"
+generated_at: "2026-03-30T06:17:46.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2025 - Administrative cost-sharing and quality control"
 usc_title: 7
 usc_section: "2025"
 chapter: 51
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "7 U.S.C. § 2025"
-generated_at: "2026-03-30T06:14:39.105Z"
+generated_at: "2026-03-30T06:17:41.414Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14601 - State grant program for criminal justice identification,
 usc_title: 42
 usc_section: "14601"
 chapter: 140
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 14601"
-generated_at: "2026-03-30T06:17:01.456Z"
+generated_at: "2026-03-30T06:19:03.534Z"
 status: "active"
 ---
 

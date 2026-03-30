@@ -3,9 +3,9 @@ title: "Section 2282 - Definitions"
 usc_title: 7
 usc_section: "2282"
 chapter: 55
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "7 U.S.C. § 2282"
-generated_at: "2026-03-30T06:14:39.115Z"
+generated_at: "2026-03-30T06:17:41.424Z"
 status: "active"
 ---
 

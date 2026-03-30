@@ -3,9 +3,9 @@ title: "Section 429 - Appropriations for Defense intelligence elements: accounts
 usc_title: 10
 usc_section: "429"
 chapter: 21
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 429"
-generated_at: "2026-03-30T06:14:52.792Z"
+generated_at: "2026-03-30T06:17:46.562Z"
 status: "active"
 ---
 

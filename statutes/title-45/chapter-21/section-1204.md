@@ -3,9 +3,9 @@ title: "Section 1204 - Transition period"
 usc_title: 45
 usc_section: "1204"
 chapter: 21
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "45 U.S.C. § 1204"
-generated_at: "2026-03-30T06:16:48.781Z"
+generated_at: "2026-03-30T06:18:46.146Z"
 status: "active"
 ---
 

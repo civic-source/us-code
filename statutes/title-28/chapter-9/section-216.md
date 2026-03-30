@@ -3,9 +3,9 @@ title: "Section 216 - Repealed. Pub. L. 97–164, title I , § 106, Apr. 2, 1982
 usc_title: 28
 usc_section: "216"
 chapter: 9
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "28 U.S.C. § 216"
-generated_at: "2026-03-30T06:16:17.731Z"
+generated_at: "2026-03-30T06:18:19.233Z"
 status: "repealed"
 ---
 

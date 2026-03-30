@@ -3,9 +3,9 @@ title: "Section 6327 - Cross references"
 usc_title: 26
 usc_section: "6327"
 chapter: 64
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 6327"
-generated_at: "2026-03-30T06:16:16.294Z"
+generated_at: "2026-03-30T06:18:34.576Z"
 status: "active"
 ---
 

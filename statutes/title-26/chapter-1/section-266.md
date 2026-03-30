@@ -3,9 +3,9 @@ title: "Section 266 - Carrying charges"
 usc_title: 26
 usc_section: "266"
 chapter: 1
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 266"
-generated_at: "2026-03-30T06:16:16.085Z"
+generated_at: "2026-03-30T06:18:34.417Z"
 status: "active"
 ---
 

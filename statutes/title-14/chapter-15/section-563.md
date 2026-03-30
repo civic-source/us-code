@@ -3,9 +3,9 @@ title: "Section 563 - Recognition of Coast Guard personnel for excellence in acq
 usc_title: 14
 usc_section: "563"
 chapter: 15
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "14 U.S.C. § 563"
-generated_at: "2026-03-30T06:14:54.851Z"
+generated_at: "2026-03-30T06:17:51.057Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 697a - Omitted"
 usc_title: 16
 usc_section: "697a"
 chapter: 6
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "16 U.S.C. § 697a"
-generated_at: "2026-03-30T06:15:30.326Z"
+generated_at: "2026-03-30T06:18:06.422Z"
 status: "omitted"
 ---
 

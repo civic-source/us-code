@@ -3,9 +3,9 @@ title: "Section 3871d - Funding"
 usc_title: 16
 usc_section: "3871d"
 chapter: 58
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "16 U.S.C. § 3871d"
-generated_at: "2026-03-30T06:15:30.418Z"
+generated_at: "2026-03-30T06:18:06.515Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 48108 - Availability and uses of amounts"
 usc_title: 49
 usc_section: "48108"
 chapter: 481
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "49 U.S.C. § 48108"
-generated_at: "2026-03-30T06:17:07.303Z"
+generated_at: "2026-03-30T06:19:16.824Z"
 status: "active"
 ---
 

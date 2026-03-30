@@ -3,9 +3,9 @@ title: "Section 2519 - Federal Defense Laboratory Diversification Program"
 usc_title: 10
 usc_section: "2519"
 chapter: 148
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 2519"
-generated_at: "2026-03-30T06:14:52.868Z"
+generated_at: "2026-03-30T06:17:46.639Z"
 status: "active"
 ---
 

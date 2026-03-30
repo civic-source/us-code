@@ -3,9 +3,9 @@ title: "Section 4154 - Standards for design, construction, and alteration of bui
 usc_title: 42
 usc_section: "4154"
 chapter: 51
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 4154"
-generated_at: "2026-03-30T06:17:01.226Z"
+generated_at: "2026-03-30T06:19:03.304Z"
 status: "active"
 ---
 

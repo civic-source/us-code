@@ -3,9 +3,9 @@ title: "Section 1609 - Repealed. Pub. L. 94–239 , § 3(b)(1), Mar. 23, 1976 , 
 usc_title: 15
 usc_section: "1609"
 chapter: 41
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "15 U.S.C. § 1609"
-generated_at: "2026-03-30T06:15:07.475Z"
+generated_at: "2026-03-30T06:17:52.843Z"
 status: "repealed"
 ---
 

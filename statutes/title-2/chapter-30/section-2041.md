@@ -3,9 +3,9 @@ title: "Section 2041 - House of Representatives restaurant, cafeteria, and food 
 usc_title: 2
 usc_section: "2041"
 chapter: 30
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 2041"
-generated_at: "2026-03-30T06:14:33.748Z"
+generated_at: "2026-03-30T06:17:34.112Z"
 status: "active"
 ---
 

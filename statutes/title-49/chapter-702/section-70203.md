@@ -3,9 +3,9 @@ title: "Section 70203 - Transportation investment data and planning tools"
 usc_title: 49
 usc_section: "70203"
 chapter: 702
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "49 U.S.C. § 70203"
-generated_at: "2026-03-30T06:17:07.310Z"
+generated_at: "2026-03-30T06:19:16.830Z"
 status: "active"
 ---
 

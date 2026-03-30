@@ -3,9 +3,9 @@ title: "Section 16911 - Relevant definitions, including Amie Zyla expansion of s
 usc_title: 42
 usc_section: "16911"
 chapter: 151
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 16911"
-generated_at: "2026-03-30T06:17:01.483Z"
+generated_at: "2026-03-30T06:19:03.562Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1386 - Definitions"
 usc_title: 22
 usc_section: "1386"
 chapter: 15
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 1386"
-generated_at: "2026-03-30T06:16:05.248Z"
+generated_at: "2026-03-30T06:18:13.921Z"
 status: "active"
 ---
 

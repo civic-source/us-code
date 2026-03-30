@@ -3,9 +3,9 @@ title: "Section 981 - Pilot integrated scanning system"
 usc_title: 6
 usc_section: "981"
 chapter: 3
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "6 U.S.C. § 981"
-generated_at: "2026-03-30T06:14:42.134Z"
+generated_at: "2026-03-30T06:17:38.987Z"
 status: "active"
 ---
 

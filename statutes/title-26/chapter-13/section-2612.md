@@ -3,9 +3,9 @@ title: "Section 2612 - Taxable termination; taxable distribution; direct skip"
 usc_title: 26
 usc_section: "2612"
 chapter: 13
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 2612"
-generated_at: "2026-03-30T06:16:16.220Z"
+generated_at: "2026-03-30T06:18:34.523Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31326 - Court sales to enforce preferred mortgage liens and mari
 usc_title: 46
 usc_section: "31326"
 chapter: 313
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "46 U.S.C. § 31326"
-generated_at: "2026-03-30T06:17:05.143Z"
+generated_at: "2026-03-30T06:19:07.005Z"
 status: "active"
 ---
 

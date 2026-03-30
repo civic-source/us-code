@@ -3,9 +3,9 @@ title: "Section 21 - Repealed. June 12, 1948, ch. 450 , § 4, 62 Stat. 380"
 usc_title: 24
 usc_section: "21"
 chapter: 1
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "24 U.S.C. § 21"
-generated_at: "2026-03-30T06:15:32.287Z"
+generated_at: "2026-03-30T06:18:16.361Z"
 status: "repealed"
 ---
 

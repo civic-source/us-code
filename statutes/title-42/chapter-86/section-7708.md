@@ -3,9 +3,9 @@ title: "Section 7708 - Network for Earthquake Engineering Simulation"
 usc_title: 42
 usc_section: "7708"
 chapter: 86
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 7708"
-generated_at: "2026-03-30T06:17:01.337Z"
+generated_at: "2026-03-30T06:19:03.414Z"
 status: "active"
 ---
 

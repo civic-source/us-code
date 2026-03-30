@@ -3,9 +3,9 @@ title: "Section 880b - Omitted"
 usc_title: 20
 usc_section: "880b"
 chapter: 24
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "20 U.S.C. § 880b"
-generated_at: "2026-03-30T06:15:16.038Z"
+generated_at: "2026-03-30T06:18:03.610Z"
 status: "omitted"
 ---
 

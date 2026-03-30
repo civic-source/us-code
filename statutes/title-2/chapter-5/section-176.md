@@ -3,9 +3,9 @@ title: "Section 176 - Mass Book Deacidification Facility; operation by Librarian
 usc_title: 2
 usc_section: "176"
 chapter: 5
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 176"
-generated_at: "2026-03-30T06:14:33.716Z"
+generated_at: "2026-03-30T06:17:34.086Z"
 status: "active"
 ---
 

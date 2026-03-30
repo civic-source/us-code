@@ -3,9 +3,9 @@ title: "Section 2033 - Election of survivor benefits for certain former spouses 
 usc_title: 50
 usc_section: "2033"
 chapter: 38
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "50 U.S.C. § 2033"
-generated_at: "2026-03-30T06:17:08.287Z"
+generated_at: "2026-03-30T06:19:08.113Z"
 status: "active"
 ---
 

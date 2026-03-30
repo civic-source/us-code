@@ -3,9 +3,9 @@ title: "Section 5827 - Technical assistance for Russian Far East"
 usc_title: 22
 usc_section: "5827"
 chapter: 67
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 5827"
-generated_at: "2026-03-30T06:16:05.357Z"
+generated_at: "2026-03-30T06:18:13.996Z"
 status: "active"
 ---
 

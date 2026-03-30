@@ -3,9 +3,9 @@ title: "Section 2032 - Annual report to Congress"
 usc_title: 19
 usc_section: "2032"
 chapter: 8
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "19 U.S.C. § 2032"
-generated_at: "2026-03-30T06:15:12.112Z"
+generated_at: "2026-03-30T06:17:59.289Z"
 status: "active"
 ---
 

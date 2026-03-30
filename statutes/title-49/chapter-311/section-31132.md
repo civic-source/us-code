@@ -3,9 +3,9 @@ title: "Section 31132 - Definitions"
 usc_title: 49
 usc_section: "31132"
 chapter: 311
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "49 U.S.C. § 31132"
-generated_at: "2026-03-30T06:17:07.267Z"
+generated_at: "2026-03-30T06:19:16.788Z"
 status: "active"
 ---
 

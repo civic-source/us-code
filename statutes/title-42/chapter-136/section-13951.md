@@ -3,9 +3,9 @@ title: "Section 13951 - Confidentiality of abused person’s address"
 usc_title: 42
 usc_section: "13951"
 chapter: 136
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 13951"
-generated_at: "2026-03-30T06:17:01.445Z"
+generated_at: "2026-03-30T06:19:03.523Z"
 status: "active"
 ---
 

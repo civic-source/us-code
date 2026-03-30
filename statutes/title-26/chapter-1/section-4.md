@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 94–455, title V , § 501(b)(1), Oct. 4, 
 usc_title: 26
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 4"
-generated_at: "2026-03-30T06:16:16.021Z"
+generated_at: "2026-03-30T06:18:34.365Z"
 status: "repealed"
 ---
 

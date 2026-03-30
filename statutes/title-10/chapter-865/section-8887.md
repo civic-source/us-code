@@ -3,9 +3,9 @@ title: "Section 8887 - Repealed. Pub. L. 85–155, title IV , § 401(1), Aug. 21
 usc_title: 10
 usc_section: "8887"
 chapter: 865
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 8887"
-generated_at: "2026-03-30T06:14:52.908Z"
+generated_at: "2026-03-30T06:17:46.679Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 78bbb - Application of Securities Exchange Act of 1934"
 usc_title: 15
 usc_section: "78bbb"
 chapter: 1
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "15 U.S.C. § 78bbb"
-generated_at: "2026-03-30T06:15:07.408Z"
+generated_at: "2026-03-30T06:17:52.775Z"
 status: "active"
 ---
 

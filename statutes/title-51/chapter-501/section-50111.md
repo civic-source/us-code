@@ -3,9 +3,9 @@ title: "Section 50111 - Commercialization of Space Station"
 usc_title: 51
 usc_section: "50111"
 chapter: 501
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "51 U.S.C. § 50111"
-generated_at: "2026-03-30T06:17:10.077Z"
+generated_at: "2026-03-30T06:19:18.570Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2332 - Share-in-savings contracts"
 usc_title: 10
 usc_section: "2332"
 chapter: 137
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 2332"
-generated_at: "2026-03-30T06:14:52.855Z"
+generated_at: "2026-03-30T06:17:46.627Z"
 status: "active"
 ---
 

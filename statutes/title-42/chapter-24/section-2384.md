@@ -3,9 +3,9 @@ title: "Section 2384 - Transfer to governmental entity or private nonprofit orga
 usc_title: 42
 usc_section: "2384"
 chapter: 24
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 2384"
-generated_at: "2026-03-30T06:17:01.182Z"
+generated_at: "2026-03-30T06:19:03.260Z"
 status: "active"
 ---
 

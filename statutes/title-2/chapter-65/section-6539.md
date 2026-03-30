@@ -3,9 +3,9 @@ title: "Section 6539 - Abolition of statutory positions in Office of Secretary o
 usc_title: 2
 usc_section: "6539"
 chapter: 65
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 6539"
-generated_at: "2026-03-30T06:14:33.762Z"
+generated_at: "2026-03-30T06:17:34.126Z"
 status: "active"
 ---
 

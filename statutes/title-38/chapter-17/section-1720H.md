@@ -3,9 +3,9 @@ title: "Section 1720H - Mental health treatment for veterans who served in class
 usc_title: 38
 usc_section: "1720H"
 chapter: 17
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "38 U.S.C. § 1720H"
-generated_at: "2026-03-30T06:16:45.973Z"
+generated_at: "2026-03-30T06:18:43.010Z"
 status: "active"
 ---
 

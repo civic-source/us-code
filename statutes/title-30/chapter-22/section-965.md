@@ -3,9 +3,9 @@ title: "Section 965 - Brookwood-Sago Mine Safety Grants"
 usc_title: 30
 usc_section: "965"
 chapter: 22
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "30 U.S.C. § 965"
-generated_at: "2026-03-30T06:16:22.106Z"
+generated_at: "2026-03-30T06:18:25.604Z"
 status: "active"
 ---
 

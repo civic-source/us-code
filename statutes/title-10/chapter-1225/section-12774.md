@@ -3,9 +3,9 @@ title: "Section 12774 - Retired lists"
 usc_title: 10
 usc_section: "12774"
 chapter: 1225
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 12774"
-generated_at: "2026-03-30T06:14:52.920Z"
+generated_at: "2026-03-30T06:17:46.690Z"
 status: "active"
 ---
 

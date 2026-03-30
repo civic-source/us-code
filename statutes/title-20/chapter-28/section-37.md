@@ -3,9 +3,9 @@ title: "Section 37 - Selection of scholars"
 usc_title: 20
 usc_section: "37"
 chapter: 28
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "20 U.S.C. § 37"
-generated_at: "2026-03-30T06:15:16.056Z"
+generated_at: "2026-03-30T06:18:03.629Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 56302 - Charter terms"
 usc_title: 46
 usc_section: "56302"
 chapter: 563
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "46 U.S.C. § 56302"
-generated_at: "2026-03-30T06:17:05.154Z"
+generated_at: "2026-03-30T06:19:07.017Z"
 status: "active"
 ---
 

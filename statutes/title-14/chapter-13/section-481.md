@@ -3,9 +3,9 @@ title: "Section 481 - Payments at time of discharge for good of service"
 usc_title: 14
 usc_section: "481"
 chapter: 13
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "14 U.S.C. § 481"
-generated_at: "2026-03-30T06:14:54.849Z"
+generated_at: "2026-03-30T06:17:51.056Z"
 status: "active"
 ---
 

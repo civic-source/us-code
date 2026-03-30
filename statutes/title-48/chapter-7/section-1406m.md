@@ -3,9 +3,9 @@ title: "Section 1406m - Short title"
 usc_title: 48
 usc_section: "1406m"
 chapter: 7
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "48 U.S.C. § 1406m"
-generated_at: "2026-03-30T06:17:04.036Z"
+generated_at: "2026-03-30T06:19:08.722Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1622 - Foreign landing certificates"
 usc_title: 19
 usc_section: "1622"
 chapter: 4
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "19 U.S.C. § 1622"
-generated_at: "2026-03-30T06:15:12.100Z"
+generated_at: "2026-03-30T06:17:59.278Z"
 status: "active"
 ---
 

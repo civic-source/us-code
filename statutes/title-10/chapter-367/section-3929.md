@@ -3,9 +3,9 @@ title: "Section 3929 - Computation of retired pay: law applicable"
 usc_title: 10
 usc_section: "3929"
 chapter: 367
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 3929"
-generated_at: "2026-03-30T06:14:52.887Z"
+generated_at: "2026-03-30T06:17:46.658Z"
 status: "active"
 ---
 

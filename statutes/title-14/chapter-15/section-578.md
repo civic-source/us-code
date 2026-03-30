@@ -3,9 +3,9 @@ title: "Section 578 - Role of Vice Commandant in major acquisition programs"
 usc_title: 14
 usc_section: "578"
 chapter: 15
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "14 U.S.C. § 578"
-generated_at: "2026-03-30T06:14:54.851Z"
+generated_at: "2026-03-30T06:17:51.058Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11272 - Dissemination"
 usc_title: 42
 usc_section: "11272"
 chapter: 118
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 11272"
-generated_at: "2026-03-30T06:17:01.396Z"
+generated_at: "2026-03-30T06:19:03.472Z"
 status: "active"
 ---
 

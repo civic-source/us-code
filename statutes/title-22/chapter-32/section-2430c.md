@@ -3,9 +3,9 @@ title: "Section 2430c - Reduction of certain debt"
 usc_title: 22
 usc_section: "2430c"
 chapter: 32
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 2430c"
-generated_at: "2026-03-30T06:16:05.294Z"
+generated_at: "2026-03-30T06:18:13.952Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1574 - Reports to Congress"
 usc_title: 8
 usc_section: "1574"
 chapter: 13
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "8 U.S.C. § 1574"
-generated_at: "2026-03-30T06:14:42.847Z"
+generated_at: "2026-03-30T06:17:37.380Z"
 status: "active"
 ---
 

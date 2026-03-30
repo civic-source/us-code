@@ -3,9 +3,9 @@ title: "Section 2796d - Loan of materials, supplies, and equipment for research 
 usc_title: 22
 usc_section: "2796d"
 chapter: 39
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 2796d"
-generated_at: "2026-03-30T06:16:05.316Z"
+generated_at: "2026-03-30T06:18:13.967Z"
 status: "active"
 ---
 

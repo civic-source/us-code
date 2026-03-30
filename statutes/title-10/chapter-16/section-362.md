@@ -3,9 +3,9 @@ title: "Section 362 - Prohibition on use of funds for assistance to units of for
 usc_title: 10
 usc_section: "362"
 chapter: 16
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 362"
-generated_at: "2026-03-30T06:14:52.790Z"
+generated_at: "2026-03-30T06:17:46.561Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 164a - Official distribution of State legislation index and dige
 usc_title: 2
 usc_section: "164a"
 chapter: 5
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 164a"
-generated_at: "2026-03-30T06:14:33.714Z"
+generated_at: "2026-03-30T06:17:34.085Z"
 status: "active"
 ---
 

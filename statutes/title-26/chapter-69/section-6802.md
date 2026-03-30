@@ -3,9 +3,9 @@ title: "Section 6802 - Supply and distribution"
 usc_title: 26
 usc_section: "6802"
 chapter: 69
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 6802"
-generated_at: "2026-03-30T06:16:16.312Z"
+generated_at: "2026-03-30T06:18:34.589Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5003 - Establishment of post roads"
 usc_title: 39
 usc_section: "5003"
 chapter: 50
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "39 U.S.C. § 5003"
-generated_at: "2026-03-30T06:16:37.406Z"
+generated_at: "2026-03-30T06:18:40.602Z"
 status: "active"
 ---
 

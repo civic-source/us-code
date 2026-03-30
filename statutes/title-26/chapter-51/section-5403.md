@@ -3,9 +3,9 @@ title: "Section 5403 - Cross references"
 usc_title: 26
 usc_section: "5403"
 chapter: 51
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 5403"
-generated_at: "2026-03-30T06:16:16.263Z"
+generated_at: "2026-03-30T06:18:34.554Z"
 status: "active"
 ---
 

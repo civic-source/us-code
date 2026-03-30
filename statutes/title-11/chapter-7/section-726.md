@@ -3,9 +3,9 @@ title: "Section 726 - Distribution of property of the estate"
 usc_title: 11
 usc_section: "726"
 chapter: 7
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "11 U.S.C. § 726"
-generated_at: "2026-03-30T06:14:55.299Z"
+generated_at: "2026-03-30T06:17:50.847Z"
 status: "active"
 ---
 

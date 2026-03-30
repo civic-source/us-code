@@ -3,9 +3,9 @@ title: "Section 744 - Coasting trade laws"
 usc_title: 48
 usc_section: "744"
 chapter: 4
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "48 U.S.C. § 744"
-generated_at: "2026-03-30T06:17:04.034Z"
+generated_at: "2026-03-30T06:19:08.719Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12d - St. George Area Water Recycling Project"
 usc_title: 43
 usc_section: "12d"
 chapter: 12
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "43 U.S.C. § 12d"
-generated_at: "2026-03-30T06:16:48.466Z"
+generated_at: "2026-03-30T06:18:45.431Z"
 status: "active"
 ---
 

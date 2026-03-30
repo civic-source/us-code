@@ -3,9 +3,9 @@ title: "Section 1017 - Unit and communitization agreements"
 usc_title: 30
 usc_section: "1017"
 chapter: 23
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "30 U.S.C. § 1017"
-generated_at: "2026-03-30T06:16:22.107Z"
+generated_at: "2026-03-30T06:18:25.605Z"
 status: "active"
 ---
 

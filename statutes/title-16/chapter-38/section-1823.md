@@ -3,9 +3,9 @@ title: "Section 1823 - Congressional oversight of international fishery agreemen
 usc_title: 16
 usc_section: "1823"
 chapter: 38
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "16 U.S.C. § 1823"
-generated_at: "2026-03-30T06:15:30.386Z"
+generated_at: "2026-03-30T06:18:06.482Z"
 status: "active"
 ---
 

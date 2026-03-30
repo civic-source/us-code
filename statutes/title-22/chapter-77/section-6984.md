@@ -3,9 +3,9 @@ title: "Section 6984 - Authorization of appropriations"
 usc_title: 22
 usc_section: "6984"
 chapter: 77
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 6984"
-generated_at: "2026-03-30T06:16:05.375Z"
+generated_at: "2026-03-30T06:18:14.009Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 947 - Borrowing power; telephone debentures; issuance; interest 
 usc_title: 7
 usc_section: "947"
 chapter: 31
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "7 U.S.C. § 947"
-generated_at: "2026-03-30T06:14:39.054Z"
+generated_at: "2026-03-30T06:17:41.359Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4980D - Failure to meet certain group health plan requirements"
 usc_title: 26
 usc_section: "4980D"
 chapter: 43
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 4980D"
-generated_at: "2026-03-30T06:16:16.252Z"
+generated_at: "2026-03-30T06:18:34.546Z"
 status: "active"
 ---
 

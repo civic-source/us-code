@@ -3,9 +3,9 @@ title: "Section 9837 - Settlement of accounts: remission or cancellation of inde
 usc_title: 10
 usc_section: "9837"
 chapter: 953
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 9837"
-generated_at: "2026-03-30T06:14:52.913Z"
+generated_at: "2026-03-30T06:17:46.683Z"
 status: "active"
 ---
 

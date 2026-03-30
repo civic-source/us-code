@@ -3,9 +3,9 @@ title: "Section 323 - Repealed. Pub. L. 96–591 , § 8(a), Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "323"
 chapter: 5
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "33 U.S.C. § 323"
-generated_at: "2026-03-30T06:16:26.465Z"
+generated_at: "2026-03-30T06:18:37.533Z"
 status: "repealed"
 ---
 

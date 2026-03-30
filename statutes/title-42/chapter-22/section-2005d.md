@@ -3,9 +3,9 @@ title: "Section 2005d - Eligibility of assisted project for aid under other acts
 usc_title: 42
 usc_section: "2005d"
 chapter: 22
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 2005d"
-generated_at: "2026-03-30T06:17:01.165Z"
+generated_at: "2026-03-30T06:19:03.243Z"
 status: "active"
 ---
 

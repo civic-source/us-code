@@ -3,9 +3,9 @@ title: "Section 2609 - Penalties"
 usc_title: 33
 usc_section: "2609"
 chapter: 39
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "33 U.S.C. § 2609"
-generated_at: "2026-03-30T06:16:26.524Z"
+generated_at: "2026-03-30T06:18:37.593Z"
 status: "active"
 ---
 

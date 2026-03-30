@@ -3,9 +3,9 @@ title: "Section 1995 - Participation and financial and technical assistance by o
 usc_title: 7
 usc_section: "1995"
 chapter: 50
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "7 U.S.C. § 1995"
-generated_at: "2026-03-30T06:14:39.093Z"
+generated_at: "2026-03-30T06:17:41.401Z"
 status: "active"
 ---
 

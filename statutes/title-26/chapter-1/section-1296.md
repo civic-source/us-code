@@ -3,9 +3,9 @@ title: "Section 1296 - Election of mark to market for marketable stock"
 usc_title: 26
 usc_section: "1296"
 chapter: 1
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 1296"
-generated_at: "2026-03-30T06:16:16.195Z"
+generated_at: "2026-03-30T06:18:34.504Z"
 status: "active"
 ---
 

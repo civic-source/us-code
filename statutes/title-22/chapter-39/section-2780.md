@@ -3,9 +3,9 @@ title: "Section 2780 - Transactions with countries supporting acts of internatio
 usc_title: 22
 usc_section: "2780"
 chapter: 39
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 2780"
-generated_at: "2026-03-30T06:16:05.315Z"
+generated_at: "2026-03-30T06:18:13.966Z"
 status: "active"
 ---
 

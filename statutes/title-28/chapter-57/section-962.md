@@ -3,9 +3,9 @@ title: "Section 962 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 S
 usc_title: 28
 usc_section: "962"
 chapter: 57
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "28 U.S.C. § 962"
-generated_at: "2026-03-30T06:16:17.743Z"
+generated_at: "2026-03-30T06:18:19.243Z"
 status: "repealed"
 ---
 

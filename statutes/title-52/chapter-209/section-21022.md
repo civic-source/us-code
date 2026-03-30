@@ -3,9 +3,9 @@ title: "Section 21022 - Amount of payment"
 usc_title: 52
 usc_section: "21022"
 chapter: 209
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "52 U.S.C. § 21022"
-generated_at: "2026-03-30T06:17:10.233Z"
+generated_at: "2026-03-30T06:19:18.724Z"
 status: "active"
 ---
 

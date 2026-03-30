@@ -3,9 +3,9 @@ title: "Section 2708 - Expiration date"
 usc_title: 12
 usc_section: "2708"
 chapter: 28
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "12 U.S.C. § 2708"
-generated_at: "2026-03-30T06:15:01.557Z"
+generated_at: "2026-03-30T06:17:55.455Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 720 - Declaration of policy; authorization of appropriations"
 usc_title: 29
 usc_section: "720"
 chapter: 16
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "29 U.S.C. § 720"
-generated_at: "2026-03-30T06:16:23.102Z"
+generated_at: "2026-03-30T06:18:26.534Z"
 status: "active"
 ---
 

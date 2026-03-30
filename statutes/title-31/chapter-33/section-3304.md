@@ -3,9 +3,9 @@ title: "Section 3304 - Transfers of public money from depositaries"
 usc_title: 31
 usc_section: "3304"
 chapter: 33
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "31 U.S.C. § 3304"
-generated_at: "2026-03-30T06:16:30.388Z"
+generated_at: "2026-03-30T06:18:38.921Z"
 status: "active"
 ---
 

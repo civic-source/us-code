@@ -3,9 +3,9 @@ title: "Section 2 - Domestic casein industry"
 usc_title: 7
 usc_section: "2"
 chapter: 35
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T06:14:39.068Z"
+generated_at: "2026-03-30T06:17:41.374Z"
 status: "active"
 ---
 

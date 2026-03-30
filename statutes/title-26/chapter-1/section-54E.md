@@ -3,9 +3,9 @@ title: "Section 54E - Qualified zone academy bonds"
 usc_title: 26
 usc_section: "54E"
 chapter: 1
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 54E"
-generated_at: "2026-03-30T06:16:16.043Z"
+generated_at: "2026-03-30T06:18:34.384Z"
 status: "active"
 ---
 

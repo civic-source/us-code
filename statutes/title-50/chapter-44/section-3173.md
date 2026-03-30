@@ -3,9 +3,9 @@ title: "Section 3173 - Reports"
 usc_title: 50
 usc_section: "3173"
 chapter: 44
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "50 U.S.C. § 3173"
-generated_at: "2026-03-30T06:17:08.313Z"
+generated_at: "2026-03-30T06:19:08.135Z"
 status: "active"
 ---
 

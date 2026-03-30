@@ -3,9 +3,9 @@ title: "Section 7101 - Degree granting authority for Naval War College"
 usc_title: 10
 usc_section: "7101"
 chapter: 609
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 7101"
-generated_at: "2026-03-30T06:14:52.901Z"
+generated_at: "2026-03-30T06:17:46.671Z"
 status: "active"
 ---
 

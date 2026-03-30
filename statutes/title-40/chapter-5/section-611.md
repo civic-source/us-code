@@ -3,9 +3,9 @@ title: "Section 611 - Duty to report violations"
 usc_title: 40
 usc_section: "611"
 chapter: 5
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "40 U.S.C. § 611"
-generated_at: "2026-03-30T06:16:32.388Z"
+generated_at: "2026-03-30T06:18:41.290Z"
 status: "active"
 ---
 

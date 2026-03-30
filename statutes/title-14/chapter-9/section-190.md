@@ -3,9 +3,9 @@ title: "Section 190 - Retirement of permanent commissioned teaching staff"
 usc_title: 14
 usc_section: "190"
 chapter: 9
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "14 U.S.C. § 190"
-generated_at: "2026-03-30T06:14:54.848Z"
+generated_at: "2026-03-30T06:17:51.055Z"
 status: "active"
 ---
 

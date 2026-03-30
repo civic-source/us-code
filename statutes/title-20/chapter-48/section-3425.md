@@ -3,9 +3,9 @@ title: "Section 3425 - Office of Educational Technology"
 usc_title: 20
 usc_section: "3425"
 chapter: 48
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "20 U.S.C. § 3425"
-generated_at: "2026-03-30T06:15:16.115Z"
+generated_at: "2026-03-30T06:18:03.689Z"
 status: "active"
 ---
 

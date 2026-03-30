@@ -3,9 +3,9 @@ title: "Section 748 - Abandonments"
 usc_title: 45
 usc_section: "748"
 chapter: 16
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "45 U.S.C. § 748"
-generated_at: "2026-03-30T06:16:48.776Z"
+generated_at: "2026-03-30T06:18:46.142Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1907a - Authority to transfer amounts between salaries and gener
 usc_title: 2
 usc_section: "1907a"
 chapter: 29
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 1907a"
-generated_at: "2026-03-30T06:14:33.743Z"
+generated_at: "2026-03-30T06:17:34.109Z"
 status: "active"
 ---
 

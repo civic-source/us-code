@@ -3,9 +3,9 @@ title: "Section 9303 - Access to Theodore Roosevelt Island"
 usc_title: 40
 usc_section: "9303"
 chapter: 93
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "40 U.S.C. § 9303"
-generated_at: "2026-03-30T06:16:32.395Z"
+generated_at: "2026-03-30T06:18:41.298Z"
 status: "active"
 ---
 

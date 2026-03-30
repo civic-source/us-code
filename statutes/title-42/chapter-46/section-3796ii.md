@@ -3,9 +3,9 @@ title: "Section 3796ii - Grant authority"
 usc_title: 42
 usc_section: "3796ii"
 chapter: 46
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 3796ii"
-generated_at: "2026-03-30T06:17:01.215Z"
+generated_at: "2026-03-30T06:19:03.292Z"
 status: "active"
 ---
 

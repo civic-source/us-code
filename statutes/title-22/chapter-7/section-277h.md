@@ -3,9 +3,9 @@ title: "Section 277h - Authority of the International Boundary and Water Commiss
 usc_title: 22
 usc_section: "277h"
 chapter: 7
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 277h"
-generated_at: "2026-03-30T06:16:05.225Z"
+generated_at: "2026-03-30T06:18:13.907Z"
 status: "active"
 ---
 

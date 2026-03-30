@@ -3,9 +3,9 @@ title: "Section 270 - Repealed. Pub. L. 104–65 , § 11(a), Dec. 19, 1995 , 109
 usc_title: 2
 usc_section: "270"
 chapter: 8
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 270"
-generated_at: "2026-03-30T06:14:33.718Z"
+generated_at: "2026-03-30T06:17:34.088Z"
 status: "repealed"
 ---
 

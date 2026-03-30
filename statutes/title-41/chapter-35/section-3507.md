@@ -3,9 +3,9 @@ title: "Section 3507 - Interest and penalties for certain overpayments"
 usc_title: 41
 usc_section: "3507"
 chapter: 35
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "41 U.S.C. § 3507"
-generated_at: "2026-03-30T06:16:49.023Z"
+generated_at: "2026-03-30T06:18:45.706Z"
 status: "active"
 ---
 

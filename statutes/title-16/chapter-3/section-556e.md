@@ -3,9 +3,9 @@ title: "Section 556e - Emergency appropriations for rehabilitation and wildfire 
 usc_title: 16
 usc_section: "556e"
 chapter: 3
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "16 U.S.C. § 556e"
-generated_at: "2026-03-30T06:15:30.311Z"
+generated_at: "2026-03-30T06:18:06.407Z"
 status: "active"
 ---
 

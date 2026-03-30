@@ -3,9 +3,9 @@ title: "Section 155 - Permits for importation"
 usc_title: 21
 usc_section: "155"
 chapter: 5
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "21 U.S.C. § 155"
-generated_at: "2026-03-30T06:15:34.152Z"
+generated_at: "2026-03-30T06:18:11.045Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 895 - Cancellation of patents erroneously issued; reconveyance"
 usc_title: 43
 usc_section: "895"
 chapter: 21
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "43 U.S.C. § 895"
-generated_at: "2026-03-30T06:16:48.484Z"
+generated_at: "2026-03-30T06:18:45.449Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6340 - Records of sale"
 usc_title: 26
 usc_section: "6340"
 chapter: 64
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 6340"
-generated_at: "2026-03-30T06:16:16.297Z"
+generated_at: "2026-03-30T06:18:34.577Z"
 status: "active"
 ---
 

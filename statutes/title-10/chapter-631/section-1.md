@@ -3,9 +3,9 @@ title: "Section 1 - Auxiliary vessels: extended lease authority"
 usc_title: 10
 usc_section: "1"
 chapter: 631
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T06:14:52.901Z"
+generated_at: "2026-03-30T06:17:46.671Z"
 status: "active"
 ---
 

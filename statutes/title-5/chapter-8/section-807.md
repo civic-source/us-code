@@ -3,9 +3,9 @@ title: "Section 807 - Exemption for monetary policy"
 usc_title: 5
 usc_section: "807"
 chapter: 8
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "5 U.S.C. § 807"
-generated_at: "2026-03-30T06:14:33.016Z"
+generated_at: "2026-03-30T06:17:23.432Z"
 status: "active"
 ---
 

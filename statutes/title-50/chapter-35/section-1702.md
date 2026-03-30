@@ -3,9 +3,9 @@ title: "Section 1702 - Presidential authorities"
 usc_title: 50
 usc_section: "1702"
 chapter: 35
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "50 U.S.C. § 1702"
-generated_at: "2026-03-30T06:17:08.278Z"
+generated_at: "2026-03-30T06:19:08.104Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1958 - Repealed. Pub. L. 92–60 , § 11, July 29, 1971 , 85 Sta
 usc_title: 42
 usc_section: "1958"
 chapter: 19
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 1958"
-generated_at: "2026-03-30T06:17:01.154Z"
+generated_at: "2026-03-30T06:19:03.232Z"
 status: "repealed"
 ---
 

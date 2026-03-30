@@ -3,9 +3,9 @@ title: "Section 581j - Congressional declaration of policy on reforestation and 
 usc_title: 16
 usc_section: "581j"
 chapter: 3
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "16 U.S.C. § 581j"
-generated_at: "2026-03-30T06:15:30.314Z"
+generated_at: "2026-03-30T06:18:06.410Z"
 status: "active"
 ---
 

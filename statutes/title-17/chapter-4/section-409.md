@@ -3,9 +3,9 @@ title: "Section 409 - Application for copyright registration"
 usc_title: 17
 usc_section: "409"
 chapter: 4
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "17 U.S.C. § 409"
-generated_at: "2026-03-30T06:15:09.558Z"
+generated_at: "2026-03-30T06:18:03.890Z"
 status: "active"
 ---
 

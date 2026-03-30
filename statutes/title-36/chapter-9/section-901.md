@@ -3,9 +3,9 @@ title: "Section 901 - Service flag and service lapel button"
 usc_title: 36
 usc_section: "901"
 chapter: 9
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "36 U.S.C. § 901"
-generated_at: "2026-03-30T06:16:37.970Z"
+generated_at: "2026-03-30T06:18:41.852Z"
 status: "active"
 ---
 

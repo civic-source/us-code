@@ -3,9 +3,9 @@ title: "Section 293c - Omitted"
 usc_title: 2
 usc_section: "293c"
 chapter: 10
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 293c"
-generated_at: "2026-03-30T06:14:33.719Z"
+generated_at: "2026-03-30T06:17:34.089Z"
 status: "omitted"
 ---
 

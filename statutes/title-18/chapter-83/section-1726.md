@@ -3,9 +3,9 @@ title: "Section 1726 - Postage collected unlawfully"
 usc_title: 18
 usc_section: "1726"
 chapter: 83
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "18 U.S.C. § 1726"
-generated_at: "2026-03-30T06:15:28.065Z"
+generated_at: "2026-03-30T06:18:01.134Z"
 status: "active"
 ---
 

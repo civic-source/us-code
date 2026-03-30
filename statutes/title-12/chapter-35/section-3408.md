@@ -3,9 +3,9 @@ title: "Section 3408 - Formal written request"
 usc_title: 12
 usc_section: "3408"
 chapter: 35
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "12 U.S.C. § 3408"
-generated_at: "2026-03-30T06:15:01.564Z"
+generated_at: "2026-03-30T06:17:55.462Z"
 status: "active"
 ---
 

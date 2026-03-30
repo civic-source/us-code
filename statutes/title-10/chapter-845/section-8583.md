@@ -3,9 +3,9 @@ title: "Section 8583 - Requirement of exemplary conduct"
 usc_title: 10
 usc_section: "8583"
 chapter: 845
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 8583"
-generated_at: "2026-03-30T06:14:52.908Z"
+generated_at: "2026-03-30T06:17:46.677Z"
 status: "active"
 ---
 

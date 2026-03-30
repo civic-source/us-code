@@ -3,9 +3,9 @@ title: "Section 41106 - Marine terminal operators"
 usc_title: 46
 usc_section: "41106"
 chapter: 411
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "46 U.S.C. § 41106"
-generated_at: "2026-03-30T06:17:05.144Z"
+generated_at: "2026-03-30T06:19:07.006Z"
 status: "active"
 ---
 

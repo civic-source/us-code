@@ -3,9 +3,9 @@ title: "Section 701j - Installation in dams of facilities for future development
 usc_title: 33
 usc_section: "701j"
 chapter: 15
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "33 U.S.C. § 701j"
-generated_at: "2026-03-30T06:16:26.477Z"
+generated_at: "2026-03-30T06:18:37.546Z"
 status: "active"
 ---
 

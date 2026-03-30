@@ -3,9 +3,9 @@ title: "Section 6421 - Gasoline used for certain nonhighway purposes, used by lo
 usc_title: 26
 usc_section: "6421"
 chapter: 65
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 6421"
-generated_at: "2026-03-30T06:16:16.299Z"
+generated_at: "2026-03-30T06:18:34.580Z"
 status: "active"
 ---
 

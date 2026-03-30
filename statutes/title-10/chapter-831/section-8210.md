@@ -3,9 +3,9 @@ title: "Section 8210 - Regular Air Force: strength in grade; general officers"
 usc_title: 10
 usc_section: "8210"
 chapter: 831
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 8210"
-generated_at: "2026-03-30T06:14:52.907Z"
+generated_at: "2026-03-30T06:17:46.677Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5526 - Repealed. Pub. L. 114–329, title I , § 105( o ), Jan. 
 usc_title: 15
 usc_section: "5526"
 chapter: 81
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "15 U.S.C. § 5526"
-generated_at: "2026-03-30T06:15:07.532Z"
+generated_at: "2026-03-30T06:17:52.903Z"
 status: "repealed"
 ---
 

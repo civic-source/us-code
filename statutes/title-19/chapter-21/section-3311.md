@@ -3,9 +3,9 @@ title: "Section 3311 - Approval and entry into force of North American Free Trad
 usc_title: 19
 usc_section: "3311"
 chapter: 21
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "19 U.S.C. § 3311"
-generated_at: "2026-03-30T06:15:12.135Z"
+generated_at: "2026-03-30T06:17:59.312Z"
 status: "active"
 ---
 

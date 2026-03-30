@@ -3,9 +3,9 @@ title: "Section 43 - Definitions"
 usc_title: 22
 usc_section: "43"
 chapter: 7
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 43"
-generated_at: "2026-03-30T06:16:05.224Z"
+generated_at: "2026-03-30T06:18:13.906Z"
 status: "active"
 ---
 

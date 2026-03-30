@@ -3,9 +3,9 @@ title: "Section 1161 - Application of Indian liquor laws"
 usc_title: 18
 usc_section: "1161"
 chapter: 53
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "18 U.S.C. § 1161"
-generated_at: "2026-03-30T06:15:28.058Z"
+generated_at: "2026-03-30T06:18:01.127Z"
 status: "active"
 ---
 

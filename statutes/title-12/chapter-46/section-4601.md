@@ -3,9 +3,9 @@ title: "Section 4601 - Review of underwriting guidelines"
 usc_title: 12
 usc_section: "4601"
 chapter: 46
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "12 U.S.C. § 4601"
-generated_at: "2026-03-30T06:15:01.578Z"
+generated_at: "2026-03-30T06:17:55.476Z"
 status: "active"
 ---
 

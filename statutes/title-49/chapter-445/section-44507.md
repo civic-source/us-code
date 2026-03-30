@@ -3,9 +3,9 @@ title: "Section 44507 - Civil aeromedical research"
 usc_title: 49
 usc_section: "44507"
 chapter: 445
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "49 U.S.C. § 44507"
-generated_at: "2026-03-30T06:17:07.286Z"
+generated_at: "2026-03-30T06:19:16.807Z"
 status: "active"
 ---
 

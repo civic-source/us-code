@@ -3,9 +3,9 @@ title: "Section 70505 - Failure to comply with international law as a defense"
 usc_title: 46
 usc_section: "70505"
 chapter: 705
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "46 U.S.C. § 70505"
-generated_at: "2026-03-30T06:17:05.159Z"
+generated_at: "2026-03-30T06:19:07.021Z"
 status: "active"
 ---
 

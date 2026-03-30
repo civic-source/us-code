@@ -3,9 +3,9 @@ title: "Section 2579 - War booty: procedures for handling and retaining battlefi
 usc_title: 10
 usc_section: "2579"
 chapter: 153
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 2579"
-generated_at: "2026-03-30T06:14:52.871Z"
+generated_at: "2026-03-30T06:17:46.643Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2721 - Executive management training in Department of Energy"
 usc_title: 50
 usc_section: "2721"
 chapter: 42
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "50 U.S.C. § 2721"
-generated_at: "2026-03-30T06:17:08.299Z"
+generated_at: "2026-03-30T06:19:08.124Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6611 - Establishment of Office"
 usc_title: 42
 usc_section: "6611"
 chapter: 79
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 6611"
-generated_at: "2026-03-30T06:17:01.282Z"
+generated_at: "2026-03-30T06:19:03.359Z"
 status: "active"
 ---
 

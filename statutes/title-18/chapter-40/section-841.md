@@ -3,9 +3,9 @@ title: "Section 841 - Definitions"
 usc_title: 18
 usc_section: "841"
 chapter: 40
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "18 U.S.C. § 841"
-generated_at: "2026-03-30T06:15:28.048Z"
+generated_at: "2026-03-30T06:18:01.118Z"
 status: "active"
 ---
 

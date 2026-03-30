@@ -3,9 +3,9 @@ title: "Section 1748a - Repealed. Pub. L. 89–117, title XI , § 1108(aa), Aug.
 usc_title: 12
 usc_section: "1748a"
 chapter: 13
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "12 U.S.C. § 1748a"
-generated_at: "2026-03-30T06:15:01.507Z"
+generated_at: "2026-03-30T06:17:55.403Z"
 status: "repealed"
 ---
 

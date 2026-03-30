@@ -3,9 +3,9 @@ title: "Section 262l - Environmental reform measures and remedial measures; Comm
 usc_title: 22
 usc_section: "262l"
 chapter: 7
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 262l"
-generated_at: "2026-03-30T06:16:05.207Z"
+generated_at: "2026-03-30T06:18:13.899Z"
 status: "active"
 ---
 

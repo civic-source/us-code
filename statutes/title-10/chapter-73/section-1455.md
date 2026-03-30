@@ -3,9 +3,9 @@ title: "Section 1455 - Regulations"
 usc_title: 10
 usc_section: "1455"
 chapter: 73
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 1455"
-generated_at: "2026-03-30T06:14:52.831Z"
+generated_at: "2026-03-30T06:17:46.602Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3204 - Special rules for standards"
 usc_title: 15
 usc_section: "3204"
 chapter: 59
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "15 U.S.C. § 3204"
-generated_at: "2026-03-30T06:15:07.518Z"
+generated_at: "2026-03-30T06:17:52.887Z"
 status: "active"
 ---
 

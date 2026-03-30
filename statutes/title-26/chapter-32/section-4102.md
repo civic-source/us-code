@@ -3,9 +3,9 @@ title: "Section 4102 - Inspection of records by local officers"
 usc_title: 26
 usc_section: "4102"
 chapter: 32
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "26 U.S.C. § 4102"
-generated_at: "2026-03-30T06:16:16.235Z"
+generated_at: "2026-03-30T06:18:34.534Z"
 status: "active"
 ---
 

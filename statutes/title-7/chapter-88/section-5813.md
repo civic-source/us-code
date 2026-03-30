@@ -3,9 +3,9 @@ title: "Section 5813 - Federal-State matching grant program"
 usc_title: 7
 usc_section: "5813"
 chapter: 88
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "7 U.S.C. § 5813"
-generated_at: "2026-03-30T06:14:39.137Z"
+generated_at: "2026-03-30T06:17:41.447Z"
 status: "active"
 ---
 

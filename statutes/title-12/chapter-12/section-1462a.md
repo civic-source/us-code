@@ -3,9 +3,9 @@ title: "Section 1462a - Administrative provisions"
 usc_title: 12
 usc_section: "1462a"
 chapter: 12
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "12 U.S.C. § 1462a"
-generated_at: "2026-03-30T06:15:01.474Z"
+generated_at: "2026-03-30T06:17:55.371Z"
 status: "active"
 ---
 

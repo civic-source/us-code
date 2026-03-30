@@ -3,9 +3,9 @@ title: "Section 411f - Renumbered § 481f]"
 usc_title: 37
 usc_section: "411f"
 chapter: 7
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "37 U.S.C. § 411f"
-generated_at: "2026-03-30T06:16:36.464Z"
+generated_at: "2026-03-30T06:18:40.911Z"
 status: "renumbered"
 ---
 

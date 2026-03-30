@@ -3,9 +3,9 @@ title: "Section 3012 - Department of the Army: seal"
 usc_title: 10
 usc_section: "3012"
 chapter: 303
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 3012"
-generated_at: "2026-03-30T06:14:52.884Z"
+generated_at: "2026-03-30T06:17:46.655Z"
 status: "active"
 ---
 

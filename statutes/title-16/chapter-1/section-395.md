@@ -3,9 +3,9 @@ title: "Section 395 - Exclusive jurisdiction in United States; exceptions; laws 
 usc_title: 16
 usc_section: "395"
 chapter: 1
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "16 U.S.C. § 395"
-generated_at: "2026-03-30T06:15:30.230Z"
+generated_at: "2026-03-30T06:18:06.329Z"
 status: "active"
 ---
 

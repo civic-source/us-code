@@ -3,9 +3,9 @@ title: "Section 433 - Allowance for muster duty"
 usc_title: 37
 usc_section: "433"
 chapter: 7
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "37 U.S.C. § 433"
-generated_at: "2026-03-30T06:16:36.465Z"
+generated_at: "2026-03-30T06:18:40.911Z"
 status: "active"
 ---
 

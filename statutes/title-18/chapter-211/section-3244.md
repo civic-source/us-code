@@ -3,9 +3,9 @@ title: "Section 3244 - Jurisdiction of proceedings relating to transferred offen
 usc_title: 18
 usc_section: "3244"
 chapter: 211
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "18 U.S.C. § 3244"
-generated_at: "2026-03-30T06:15:28.086Z"
+generated_at: "2026-03-30T06:18:01.157Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1974c - Transferred"
 usc_title: 42
 usc_section: "1974c"
 chapter: 20
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 1974c"
-generated_at: "2026-03-30T06:17:01.158Z"
+generated_at: "2026-03-30T06:19:03.235Z"
 status: "transferred"
 ---
 

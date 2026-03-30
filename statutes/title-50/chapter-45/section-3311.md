@@ -3,9 +3,9 @@ title: "Section 3311 - Submittal to Congress by heads of elements of intelligenc
 usc_title: 50
 usc_section: "3311"
 chapter: 45
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "50 U.S.C. § 3311"
-generated_at: "2026-03-30T06:17:08.314Z"
+generated_at: "2026-03-30T06:19:08.136Z"
 status: "active"
 ---
 

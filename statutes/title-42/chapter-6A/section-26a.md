@@ -3,9 +3,9 @@ title: "Section 26a - Withholding of substance abuse funding under section 300xโ
 usc_title: 42
 usc_section: "26a"
 chapter: 6
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. ยง 26a"
-generated_at: "2026-03-30T06:17:00.913Z"
+generated_at: "2026-03-30T06:19:02.990Z"
 status: "active"
 ---
 

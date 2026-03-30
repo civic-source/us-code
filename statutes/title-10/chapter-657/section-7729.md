@@ -3,9 +3,9 @@ title: "Section 7729 - Investigation before issue of certificate"
 usc_title: 10
 usc_section: "7729"
 chapter: 657
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 7729"
-generated_at: "2026-03-30T06:14:52.905Z"
+generated_at: "2026-03-30T06:17:46.675Z"
 status: "active"
 ---
 

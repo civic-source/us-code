@@ -3,9 +3,9 @@ title: "Section 1457 - Duties of Secretary"
 usc_title: 43
 usc_section: "1457"
 chapter: 31
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "43 U.S.C. § 1457"
-generated_at: "2026-03-30T06:16:48.494Z"
+generated_at: "2026-03-30T06:18:45.459Z"
 status: "active"
 ---
 

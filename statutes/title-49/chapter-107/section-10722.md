@@ -3,9 +3,9 @@ title: "Section 10722 - Car utilization"
 usc_title: 49
 usc_section: "10722"
 chapter: 107
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "49 U.S.C. § 10722"
-generated_at: "2026-03-30T06:17:07.241Z"
+generated_at: "2026-03-30T06:19:16.760Z"
 status: "active"
 ---
 

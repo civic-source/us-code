@@ -3,9 +3,9 @@ title: "Section 616 - Stock on hand when tax takes effect or terminates"
 usc_title: 7
 usc_section: "616"
 chapter: 26
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "7 U.S.C. § 616"
-generated_at: "2026-03-30T06:14:39.050Z"
+generated_at: "2026-03-30T06:17:41.355Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 475 - Leasing and hiring of quarters; rental of in­adequate hou
 usc_title: 14
 usc_section: "475"
 chapter: 13
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "14 U.S.C. § 475"
-generated_at: "2026-03-30T06:14:54.848Z"
+generated_at: "2026-03-30T06:17:51.056Z"
 status: "active"
 ---
 

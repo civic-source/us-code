@@ -3,9 +3,9 @@ title: "Section 321 - Definitions"
 usc_title: 24
 usc_section: "321"
 chapter: 9
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "24 U.S.C. § 321"
-generated_at: "2026-03-30T06:15:32.288Z"
+generated_at: "2026-03-30T06:18:16.363Z"
 status: "active"
 ---
 

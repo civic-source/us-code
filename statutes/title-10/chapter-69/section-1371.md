@@ -3,9 +3,9 @@ title: "Section 1371 - Warrant officers: general rule"
 usc_title: 10
 usc_section: "1371"
 chapter: 69
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "10 U.S.C. § 1371"
-generated_at: "2026-03-30T06:14:52.826Z"
+generated_at: "2026-03-30T06:17:46.597Z"
 status: "active"
 ---
 

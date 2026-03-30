@@ -3,9 +3,9 @@ title: "Section 1645h - Claims Fund; establishment; deductions"
 usc_title: 22
 usc_section: "1645h"
 chapter: 21
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 1645h"
-generated_at: "2026-03-30T06:16:05.258Z"
+generated_at: "2026-03-30T06:18:13.928Z"
 status: "active"
 ---
 

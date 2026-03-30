@@ -3,9 +3,9 @@ title: "Section 720 - Obligations of Association"
 usc_title: 45
 usc_section: "720"
 chapter: 16
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "45 U.S.C. § 720"
-generated_at: "2026-03-30T06:16:48.773Z"
+generated_at: "2026-03-30T06:18:46.139Z"
 status: "active"
 ---
 

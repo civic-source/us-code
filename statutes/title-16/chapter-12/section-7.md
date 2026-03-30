@@ -3,9 +3,9 @@ title: "Section 7 - Southwestern Power Administration; deposit and availability 
 usc_title: 16
 usc_section: "7"
 chapter: 12
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T06:15:30.343Z"
+generated_at: "2026-03-30T06:18:06.439Z"
 status: "active"
 ---
 

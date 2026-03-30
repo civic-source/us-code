@@ -3,9 +3,9 @@ title: "Section 147 - Stock; issuance at par value"
 usc_title: 15
 usc_section: "147"
 chapter: 4
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "15 U.S.C. § 147"
-generated_at: "2026-03-30T06:15:07.420Z"
+generated_at: "2026-03-30T06:17:52.786Z"
 status: "active"
 ---
 

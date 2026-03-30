@@ -3,9 +3,9 @@ title: "Section 1871 - Expired appropriations available for deposit into Employe
 usc_title: 2
 usc_section: "1871"
 chapter: 28
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "2 U.S.C. § 1871"
-generated_at: "2026-03-30T06:14:33.743Z"
+generated_at: "2026-03-30T06:17:34.109Z"
 status: "active"
 ---
 

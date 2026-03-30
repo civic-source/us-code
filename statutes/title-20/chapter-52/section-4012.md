@@ -3,9 +3,9 @@ title: "Section 4012 - Asbestos hazard abatement program"
 usc_title: 20
 usc_section: "4012"
 chapter: 52
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "20 U.S.C. § 4012"
-generated_at: "2026-03-30T06:15:16.118Z"
+generated_at: "2026-03-30T06:18:03.692Z"
 status: "active"
 ---
 

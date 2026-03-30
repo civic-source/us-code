@@ -3,9 +3,9 @@ title: "Section 36 - Preventing landing or operating of cables; injunction"
 usc_title: 47
 usc_section: "36"
 chapter: 2
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "47 U.S.C. § 36"
-generated_at: "2026-03-30T06:17:04.408Z"
+generated_at: "2026-03-30T06:19:06.294Z"
 status: "active"
 ---
 

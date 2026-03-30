@@ -3,9 +3,9 @@ title: "Section 2241 - Atomic safety and licensing boards; establishment; member
 usc_title: 42
 usc_section: "2241"
 chapter: 23
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "42 U.S.C. § 2241"
-generated_at: "2026-03-30T06:17:01.177Z"
+generated_at: "2026-03-30T06:19:03.255Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2343 - Recordkeeping, reporting, and inspection"
 usc_title: 18
 usc_section: "2343"
 chapter: 114
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "18 U.S.C. § 2343"
-generated_at: "2026-03-30T06:15:28.078Z"
+generated_at: "2026-03-30T06:18:01.150Z"
 status: "active"
 ---
 

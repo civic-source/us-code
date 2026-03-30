@@ -3,9 +3,9 @@ title: "Section 2382 - Coordination with foreign policy"
 usc_title: 22
 usc_section: "2382"
 chapter: 32
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "22 U.S.C. § 2382"
-generated_at: "2026-03-30T06:16:05.289Z"
+generated_at: "2026-03-30T06:18:13.949Z"
 status: "active"
 ---
 

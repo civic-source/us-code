@@ -3,9 +3,9 @@ title: "Section 5346 - Job grading system"
 usc_title: 5
 usc_section: "5346"
 chapter: 53
-current_through: "PL 115-37"
+current_through: "PL 115-39"
 classification: "5 U.S.C. § 5346"
-generated_at: "2026-03-30T06:14:33.031Z"
+generated_at: "2026-03-30T06:17:23.445Z"
 status: "active"
 ---
 
