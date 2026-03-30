@@ -3,9 +3,9 @@ title: "Section 20109 - Sexual assault survivors’ notification grants"
 usc_title: 34
 usc_section: "20109"
 chapter: 201
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "34 U.S.C. § 20109"
-generated_at: "2026-03-30T02:45:37.016Z"
+generated_at: "2026-03-30T02:48:10.370Z"
 ---
 
 # § 20109. Sexual assault survivors’ notification grants

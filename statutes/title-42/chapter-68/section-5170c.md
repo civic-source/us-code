@@ -3,9 +3,9 @@ title: "Section 5170c - Hazard mitigation"
 usc_title: 42
 usc_section: "5170c"
 chapter: 68
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 5170c"
-generated_at: "2026-03-30T02:46:04.628Z"
+generated_at: "2026-03-30T02:48:46.592Z"
 ---
 
 # § 5170c. Hazard mitigation

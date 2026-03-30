@@ -3,9 +3,9 @@ title: "Section 16493 - National Priority Project Designation"
 usc_title: 42
 usc_section: "16493"
 chapter: 149
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 16493"
-generated_at: "2026-03-30T02:46:04.973Z"
+generated_at: "2026-03-30T02:48:46.890Z"
 ---
 
 # § 16493. National Priority Project Designation

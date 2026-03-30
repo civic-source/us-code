@@ -3,9 +3,9 @@ title: "Section 42 - Contents of reports; number of bales of linter; distributio
 usc_title: 13
 usc_section: "42"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "13 U.S.C. § 42"
-generated_at: "2026-03-30T02:42:53.263Z"
+generated_at: "2026-03-30T02:47:10.779Z"
 ---
 
 # § 42. Contents of reports; number of bales of linter; distribution; publication by Department of Agriculture

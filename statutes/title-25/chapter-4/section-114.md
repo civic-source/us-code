@@ -3,9 +3,9 @@ title: "Section 114 - Payment of annuities in coin"
 usc_title: 25
 usc_section: "114"
 chapter: 4
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "25 U.S.C. § 114"
-generated_at: "2026-03-30T02:43:58.323Z"
+generated_at: "2026-03-30T02:47:49.210Z"
 ---
 
 # § 114. Payment of annuities in coin

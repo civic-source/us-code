@@ -3,9 +3,9 @@ title: "Section 644a - Small Business Procurement Advisory Council"
 usc_title: 15
 usc_section: "644a"
 chapter: 14
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 644a"
-generated_at: "2026-03-30T02:43:01.710Z"
+generated_at: "2026-03-30T02:47:19.615Z"
 ---
 
 # § 644a. Small Business Procurement Advisory Council

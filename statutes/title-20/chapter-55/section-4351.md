@@ -3,9 +3,9 @@ title: "Section 4351 - Definitions"
 usc_title: 20
 usc_section: "4351"
 chapter: 55
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "20 U.S.C. § 4351"
-generated_at: "2026-03-30T02:43:39.275Z"
+generated_at: "2026-03-30T02:47:29.651Z"
 ---
 
 # § 4351. Definitions

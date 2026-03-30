@@ -3,9 +3,9 @@ title: "Section 1075 - TRICARE Select"
 usc_title: 10
 usc_section: "1075"
 chapter: 55
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 1075"
-generated_at: "2026-03-30T02:42:43.810Z"
+generated_at: "2026-03-30T02:47:08.451Z"
 ---
 
 # § 1075. TRICARE Select

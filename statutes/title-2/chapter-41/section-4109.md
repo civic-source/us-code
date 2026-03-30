@@ -3,9 +3,9 @@ title: "Section 4109 - Detailed reports of receipts and expenditures by Secretar
 usc_title: 2
 usc_section: "4109"
 chapter: 41
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 4109"
-generated_at: "2026-03-30T02:42:18.902Z"
+generated_at: "2026-03-30T02:46:39.313Z"
 ---
 
 # § 4109. Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House

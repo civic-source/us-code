@@ -3,9 +3,9 @@ title: "Section 116 - Indians 18 years of age to have right to receipt for annui
 usc_title: 25
 usc_section: "116"
 chapter: 4
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "25 U.S.C. § 116"
-generated_at: "2026-03-30T02:43:58.323Z"
+generated_at: "2026-03-30T02:47:49.210Z"
 ---
 
 # § 116. Indians 18 years of age to have right to receipt for annuity

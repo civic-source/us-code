@@ -3,9 +3,9 @@ title: "Section 15906 - North Slope Science Initiative"
 usc_title: 42
 usc_section: "15906"
 chapter: 149
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 15906"
-generated_at: "2026-03-30T02:46:04.942Z"
+generated_at: "2026-03-30T02:48:46.863Z"
 ---
 
 # § 15906. North Slope Science Initiative

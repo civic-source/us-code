@@ -3,9 +3,9 @@ title: "Section 1091b - Institutional refunds"
 usc_title: 20
 usc_section: "1091b"
 chapter: 28
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "20 U.S.C. § 1091b"
-generated_at: "2026-03-30T02:43:39.203Z"
+generated_at: "2026-03-30T02:47:29.586Z"
 ---
 
 # § 1091b. Institutional refunds

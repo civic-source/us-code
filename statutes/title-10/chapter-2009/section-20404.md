@@ -3,9 +3,9 @@ title: "Section 20404 - Selection of officers for early retirement or discharge"
 usc_title: 10
 usc_section: "20404"
 chapter: 2009
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 20404"
-generated_at: "2026-03-30T02:42:44.016Z"
+generated_at: "2026-03-30T02:47:08.632Z"
 ---
 
 # § 20404. Selection of officers for early retirement or discharge

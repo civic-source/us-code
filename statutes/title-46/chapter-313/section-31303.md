@@ -3,9 +3,9 @@ title: "Section 31303 - Certain civil actions not authorized"
 usc_title: 46
 usc_section: "31303"
 chapter: 313
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "46 U.S.C. § 31303"
-generated_at: "2026-03-30T02:46:10.532Z"
+generated_at: "2026-03-30T02:48:52.053Z"
 ---
 
 # § 31303. Certain civil actions not authorized

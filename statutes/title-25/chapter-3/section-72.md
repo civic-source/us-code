@@ -3,9 +3,9 @@ title: "Section 72 - Repealed. Pub. L. 117–317, § 2(1) , Dec. 27, 2022 , 136 
 usc_title: 25
 usc_section: "72"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "25 U.S.C. § 72"
-generated_at: "2026-03-30T02:43:58.323Z"
+generated_at: "2026-03-30T02:47:49.209Z"
 ---
 
 # § 72. Repealed. Pub. L. 117–317, § 2(1) , Dec. 27, 2022 , 136 Stat. 4419

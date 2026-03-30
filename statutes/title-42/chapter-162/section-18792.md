@@ -3,9 +3,9 @@ title: "Section 18792 - Energy efficiency revolving loan fund capitalization gra
 usc_title: 42
 usc_section: "18792"
 chapter: 162
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 18792"
-generated_at: "2026-03-30T02:46:05.027Z"
+generated_at: "2026-03-30T02:48:46.939Z"
 ---
 
 # § 18792. Energy efficiency revolving loan fund capitalization grant program

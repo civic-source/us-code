@@ -3,9 +3,9 @@ title: "Section 505 - Functions and powers vested in the Commandant"
 usc_title: 14
 usc_section: "505"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "14 U.S.C. § 505"
-generated_at: "2026-03-30T02:42:54.112Z"
+generated_at: "2026-03-30T02:47:11.350Z"
 ---
 
 # § 505. Functions and powers vested in the Commandant

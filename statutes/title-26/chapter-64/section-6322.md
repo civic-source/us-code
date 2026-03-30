@@ -3,9 +3,9 @@ title: "Section 6322 - Period of lien"
 usc_title: 26
 usc_section: "6322"
 chapter: 64
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 6322"
-generated_at: "2026-03-30T02:45:23.212Z"
+generated_at: "2026-03-30T02:48:06.747Z"
 ---
 
 # § 6322. Period of lien

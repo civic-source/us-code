@@ -3,9 +3,9 @@ title: "Section 1l - Quota increase to 8,608,500,000 Special Drawing Rights"
 usc_title: 22
 usc_section: "1l"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 1l"
-generated_at: "2026-03-30T02:44:42.801Z"
+generated_at: "2026-03-30T02:47:52.568Z"
 ---
 
 # § 286e–1l. Quota increase to 8,608,500,000 Special Drawing Rights

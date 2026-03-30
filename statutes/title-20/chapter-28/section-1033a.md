@@ -3,9 +3,9 @@ title: "Section 1033a - Augustus F. Hawkins centers of excellence"
 usc_title: 20
 usc_section: "1033a"
 chapter: 28
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "20 U.S.C. § 1033a"
-generated_at: "2026-03-30T02:43:39.151Z"
+generated_at: "2026-03-30T02:47:29.541Z"
 ---
 
 # § 1033a. Augustus F. Hawkins centers of excellence

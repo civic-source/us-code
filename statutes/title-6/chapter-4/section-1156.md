@@ -3,9 +3,9 @@ title: "Section 1156 - Nuclear material and explosive detection technology"
 usc_title: 6
 usc_section: "1156"
 chapter: 4
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "6 U.S.C. § 1156"
-generated_at: "2026-03-30T02:42:31.173Z"
+generated_at: "2026-03-30T02:46:41.967Z"
 ---
 
 # § 1156. Nuclear material and explosive detection technology

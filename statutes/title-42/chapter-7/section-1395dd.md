@@ -3,9 +3,9 @@ title: "Section 1395dd - Examination and treatment for emergency medical conditi
 usc_title: 42
 usc_section: "1395dd"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 1395dd"
-generated_at: "2026-03-30T02:46:04.340Z"
+generated_at: "2026-03-30T02:48:46.334Z"
 ---
 
 # § 1395dd. Examination and treatment for emergency medical conditions and women in labor

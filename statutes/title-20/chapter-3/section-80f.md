@@ -3,9 +3,9 @@ title: "Section 80f - Woodrow Wilson International Center for Scholars; Board of
 usc_title: 20
 usc_section: "80f"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "20 U.S.C. § 80f"
-generated_at: "2026-03-30T02:43:39.124Z"
+generated_at: "2026-03-30T02:47:29.517Z"
 ---
 
 # § 80f. Woodrow Wilson International Center for Scholars; Board of Trustees of the Center

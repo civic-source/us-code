@@ -3,9 +3,9 @@ title: "Section 4121 - Imposition of tax"
 usc_title: 26
 usc_section: "4121"
 chapter: 32
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 4121"
-generated_at: "2026-03-30T02:45:23.150Z"
+generated_at: "2026-03-30T02:48:06.684Z"
 ---
 
 # § 4121. Imposition of tax

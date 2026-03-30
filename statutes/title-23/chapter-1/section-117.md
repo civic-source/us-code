@@ -3,9 +3,9 @@ title: "Section 117 - Nationally significant multimodal freight and highway proj
 usc_title: 23
 usc_section: "117"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "23 U.S.C. § 117"
-generated_at: "2026-03-30T02:43:54.407Z"
+generated_at: "2026-03-30T02:47:46.543Z"
 ---
 
 # § 117. Nationally significant multimodal freight and highway projects

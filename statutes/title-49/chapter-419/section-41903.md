@@ -3,9 +3,9 @@ title: "Section 41903 - Duty to provide certain transportation of mail"
 usc_title: 49
 usc_section: "41903"
 chapter: 419
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "49 U.S.C. § 41903"
-generated_at: "2026-03-30T02:46:14.281Z"
+generated_at: "2026-03-30T02:48:56.009Z"
 ---
 
 # § 41903. Duty to provide certain transportation of mail

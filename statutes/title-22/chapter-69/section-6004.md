@@ -3,9 +3,9 @@ title: "Section 6004 - Support for Cuban people"
 usc_title: 22
 usc_section: "6004"
 chapter: 69
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 6004"
-generated_at: "2026-03-30T02:44:42.956Z"
+generated_at: "2026-03-30T02:47:52.708Z"
 ---
 
 # § 6004. Support for Cuban people

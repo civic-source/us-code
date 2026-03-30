@@ -3,9 +3,9 @@ title: "Section 382 - Exports of certain unapproved products"
 usc_title: 21
 usc_section: "382"
 chapter: 9
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "21 U.S.C. § 382"
-generated_at: "2026-03-30T02:43:56.751Z"
+generated_at: "2026-03-30T02:47:48.004Z"
 ---
 
 # § 382. Exports of certain unapproved products

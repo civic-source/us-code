@@ -3,9 +3,9 @@ title: "Section 682 - Definitions"
 usc_title: 2
 usc_section: "682"
 chapter: 17
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 682"
-generated_at: "2026-03-30T02:42:18.864Z"
+generated_at: "2026-03-30T02:46:39.280Z"
 ---
 
 # § 682. Definitions

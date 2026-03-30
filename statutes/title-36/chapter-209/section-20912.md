@@ -3,9 +3,9 @@ title: "Section 20912 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "20912"
 chapter: 209
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "36 U.S.C. § 20912"
-generated_at: "2026-03-30T02:45:40.869Z"
+generated_at: "2026-03-30T02:48:16.851Z"
 ---
 
 # § 20912. Liability for acts of officers and agents

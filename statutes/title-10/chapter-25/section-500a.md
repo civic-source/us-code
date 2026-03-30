@@ -3,9 +3,9 @@ title: "Section 500a - Guidance on electromagnetic spectrum operations mission a
 usc_title: 10
 usc_section: "500a"
 chapter: 25
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 500a"
-generated_at: "2026-03-30T02:42:43.765Z"
+generated_at: "2026-03-30T02:47:08.412Z"
 ---
 
 # § 500a. Guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations

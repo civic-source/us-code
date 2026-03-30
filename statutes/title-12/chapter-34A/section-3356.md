@@ -3,9 +3,9 @@ title: "Section 3356 - Exemption from appraisals of real estate located in rural
 usc_title: 12
 usc_section: "3356"
 chapter: 34
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "12 U.S.C. § 3356"
-generated_at: "2026-03-30T02:43:29.903Z"
+generated_at: "2026-03-30T02:47:16.227Z"
 ---
 
 # § 3356. Exemption from appraisals of real estate located in rural areas

@@ -3,9 +3,9 @@ title: "Section 4503 - Fishing, fish tender, and fish processing vessel certific
 usc_title: 46
 usc_section: "4503"
 chapter: 45
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "46 U.S.C. § 4503"
-generated_at: "2026-03-30T02:46:10.512Z"
+generated_at: "2026-03-30T02:48:52.037Z"
 ---
 
 # § 4503. Fishing, fish tender, and fish processing vessel certification

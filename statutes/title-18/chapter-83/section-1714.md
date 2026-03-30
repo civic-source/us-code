@@ -3,9 +3,9 @@ title: "Section 1714 - Repealed. Pub. L. 101–647, title XII, § 1210(b) , Nov.
 usc_title: 18
 usc_section: "1714"
 chapter: 83
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "18 U.S.C. § 1714"
-generated_at: "2026-03-30T02:43:43.752Z"
+generated_at: "2026-03-30T02:47:34.129Z"
 ---
 
 # [§ 1714. Repealed. Pub. L. 101–647, title XII, § 1210(b) , Nov. 29, 1990 , 104 Stat. 4832 ]

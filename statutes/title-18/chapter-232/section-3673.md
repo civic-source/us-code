@@ -3,9 +3,9 @@ title: "Section 3673 - Definitions for sentencing provisions"
 usc_title: 18
 usc_section: "3673"
 chapter: 232
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "18 U.S.C. § 3673"
-generated_at: "2026-03-30T02:43:43.795Z"
+generated_at: "2026-03-30T02:47:34.169Z"
 ---
 
 # § 3673. Definitions for sentencing provisions

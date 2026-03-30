@@ -3,9 +3,9 @@ title: "Section 8561 - Findings"
 usc_title: 22
 usc_section: "8561"
 chapter: 92
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 8561"
-generated_at: "2026-03-30T02:44:43.005Z"
+generated_at: "2026-03-30T02:47:52.753Z"
 ---
 
 # § 8561. Findings

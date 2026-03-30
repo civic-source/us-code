@@ -3,9 +3,9 @@ title: "Section 1238 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(35) , 
 usc_title: 26
 usc_section: "1238"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 1238"
-generated_at: "2026-03-30T02:45:23.102Z"
+generated_at: "2026-03-30T02:48:06.636Z"
 ---
 
 # [§ 1238. Repealed. Pub. L. 101–508, title XI, § 11801(a)(35) , Nov. 5, 1990 , 104 Stat. 1388–521 ]

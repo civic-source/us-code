@@ -3,9 +3,9 @@ title: "Section 2342 - Access to water resource data"
 usc_title: 33
 usc_section: "2342"
 chapter: 36
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "33 U.S.C. § 2342"
-generated_at: "2026-03-30T02:45:34.129Z"
+generated_at: "2026-03-30T02:48:12.865Z"
 ---
 
 # § 2342. Access to water resource data

@@ -3,9 +3,9 @@ title: "Section 427 - Review and report by Comptroller General"
 usc_title: 6
 usc_section: "427"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "6 U.S.C. § 427"
-generated_at: "2026-03-30T02:42:31.134Z"
+generated_at: "2026-03-30T02:46:41.930Z"
 ---
 
 # § 427. Review and report by Comptroller General

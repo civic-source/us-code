@@ -3,9 +3,9 @@ title: "Section 4509 - Petition and review"
 usc_title: 7
 usc_section: "4509"
 chapter: 76
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "7 U.S.C. § 4509"
-generated_at: "2026-03-30T02:42:50.833Z"
+generated_at: "2026-03-30T02:46:47.662Z"
 ---
 
 # § 4509. Petition and review

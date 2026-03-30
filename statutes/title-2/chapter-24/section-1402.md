@@ -3,9 +3,9 @@ title: "Section 1402 - Initiation of procedures"
 usc_title: 2
 usc_section: "1402"
 chapter: 24
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 1402"
-generated_at: "2026-03-30T02:42:18.879Z"
+generated_at: "2026-03-30T02:46:39.294Z"
 ---
 
 # § 1402. Initiation of procedures

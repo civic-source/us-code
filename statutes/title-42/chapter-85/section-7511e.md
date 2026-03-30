@@ -3,9 +3,9 @@ title: "Section 7511e - Transitional areas"
 usc_title: 42
 usc_section: "7511e"
 chapter: 85
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 7511e"
-generated_at: "2026-03-30T02:46:04.739Z"
+generated_at: "2026-03-30T02:48:46.687Z"
 ---
 
 # § 7511e. Transitional areas

@@ -3,9 +3,9 @@ title: "Section 7251 - General authority"
 usc_title: 42
 usc_section: "7251"
 chapter: 84
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 7251"
-generated_at: "2026-03-30T02:46:04.709Z"
+generated_at: "2026-03-30T02:48:46.661Z"
 ---
 
 # § 7251. General authority

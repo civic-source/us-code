@@ -3,9 +3,9 @@ title: "Section 344 - Repealed. Pub. L. 117–58, div. F, title VI, § 60602(b) 
 usc_title: 47
 usc_section: "344"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "47 U.S.C. § 344"
-generated_at: "2026-03-30T02:46:09.146Z"
+generated_at: "2026-03-30T02:48:50.409Z"
 ---
 
 # § 344. Repealed. Pub. L. 117–58, div. F, title VI, § 60602(b) , Nov. 15, 2021 , 135 Stat. 1249

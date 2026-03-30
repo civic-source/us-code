@@ -3,9 +3,9 @@ title: "Section 3059 - Unfair or deceptive acts or practices"
 usc_title: 15
 usc_section: "3059"
 chapter: 57
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 3059"
-generated_at: "2026-03-30T02:43:01.835Z"
+generated_at: "2026-03-30T02:47:19.739Z"
 ---
 
 # § 3059. Unfair or deceptive acts or practices

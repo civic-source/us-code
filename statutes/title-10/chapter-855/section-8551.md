@@ -3,9 +3,9 @@ title: "Section 8551 - Development and operation of the Naval Innovation Center 
 usc_title: 10
 usc_section: "8551"
 chapter: 855
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 8551"
-generated_at: "2026-03-30T02:42:43.968Z"
+generated_at: "2026-03-30T02:47:08.591Z"
 ---
 
 # § 8551. Development and operation of the Naval Innovation Center at the Naval Postgraduate School

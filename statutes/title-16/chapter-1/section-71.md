@@ -3,9 +3,9 @@ title: "Section 71 - Designation of streams for wild and scenic river status in 
 usc_title: 16
 usc_section: "71"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 71"
-generated_at: "2026-03-30T02:43:50.317Z"
+generated_at: "2026-03-30T02:47:42.409Z"
 ---
 
 # § 460nnn–71. Designation of streams for wild and scenic river status in Steens Mountain Area

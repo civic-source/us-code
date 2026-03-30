@@ -3,9 +3,9 @@ title: "Section 2121 - Establishment"
 usc_title: 10
 usc_section: "2121"
 chapter: 105
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 2121"
-generated_at: "2026-03-30T02:42:43.860Z"
+generated_at: "2026-03-30T02:47:08.495Z"
 ---
 
 # § 2121. Establishment

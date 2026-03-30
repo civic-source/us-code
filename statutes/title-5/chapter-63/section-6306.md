@@ -3,9 +3,9 @@ title: "Section 6306 - Annual leave; refund of lump-sum payment; recredit of ann
 usc_title: 5
 usc_section: "6306"
 chapter: 63
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "5 U.S.C. § 6306"
-generated_at: "2026-03-30T02:42:23.351Z"
+generated_at: "2026-03-30T02:46:38.032Z"
 ---
 
 # § 6306. Annual leave; refund of lump-sum payment; recredit of annual leave

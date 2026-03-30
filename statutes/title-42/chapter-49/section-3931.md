@@ -3,9 +3,9 @@ title: "Section 3931 - Congressional statement of purpose"
 usc_title: 42
 usc_section: "3931"
 chapter: 49
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 3931"
-generated_at: "2026-03-30T02:46:04.590Z"
+generated_at: "2026-03-30T02:48:46.558Z"
 ---
 
 # § 3931. Congressional statement of purpose

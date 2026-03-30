@@ -3,9 +3,9 @@ title: "Section 50401 - United States Committee on the Marine Transportation Sys
 usc_title: 46
 usc_section: "50401"
 chapter: 504
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "46 U.S.C. § 50401"
-generated_at: "2026-03-30T02:46:10.539Z"
+generated_at: "2026-03-30T02:48:52.060Z"
 ---
 
 # § 50401. United States Committee on the Marine Transportation System

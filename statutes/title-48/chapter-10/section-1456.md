@@ -3,9 +3,9 @@ title: "Section 1456 - Repealed. Sept. 12, 1950, ch. 946 , title III, § 301(106
 usc_title: 48
 usc_section: "1456"
 chapter: 10
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "48 U.S.C. § 1456"
-generated_at: "2026-03-30T02:46:08.415Z"
+generated_at: "2026-03-30T02:48:50.954Z"
 ---
 
 # § 1456. Repealed. Sept. 12, 1950, ch. 946 , title III, § 301(106), 64 Stat. 844

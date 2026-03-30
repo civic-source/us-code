@@ -3,9 +3,9 @@ title: "Section 946 - User fees"
 usc_title: 14
 usc_section: "946"
 chapter: 9
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "14 U.S.C. § 946"
-generated_at: "2026-03-30T02:42:54.117Z"
+generated_at: "2026-03-30T02:47:11.354Z"
 ---
 
 # § 946. User fees

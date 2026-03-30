@@ -3,9 +3,9 @@ title: "Section 1293 - Repealed. Pub. L. 87–189, § 3 , Aug. 30, 1961 , 75 Sta
 usc_title: 28
 usc_section: "1293"
 chapter: 83
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "28 U.S.C. § 1293"
-generated_at: "2026-03-30T02:44:47.252Z"
+generated_at: "2026-03-30T02:47:58.855Z"
 ---
 
 # [§ 1293. Repealed. Pub. L. 87–189, § 3 , Aug. 30, 1961 , 75 Stat. 417 ]

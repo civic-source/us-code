@@ -3,9 +3,9 @@ title: "Section 411 - Registration and civil infringement actions"
 usc_title: 17
 usc_section: "411"
 chapter: 4
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "17 U.S.C. § 411"
-generated_at: "2026-03-30T02:43:46.311Z"
+generated_at: "2026-03-30T02:47:34.672Z"
 ---
 
 # § 411. Registration and civil infringement actions

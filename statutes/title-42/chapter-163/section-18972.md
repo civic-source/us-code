@@ -3,9 +3,9 @@ title: "Section 18972 - Promoting domestic production of technologies developed 
 usc_title: 42
 usc_section: "18972"
 chapter: 163
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 18972"
-generated_at: "2026-03-30T02:46:05.033Z"
+generated_at: "2026-03-30T02:48:46.944Z"
 ---
 
 # § 18972. Promoting domestic production of technologies developed under Manufacturing USA Program

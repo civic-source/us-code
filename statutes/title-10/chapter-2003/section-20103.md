@@ -3,9 +3,9 @@ title: "Section 20103 - Members not on sustained duty: agreements concerning con
 usc_title: 10
 usc_section: "20103"
 chapter: 2003
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 20103"
-generated_at: "2026-03-30T02:42:44.014Z"
+generated_at: "2026-03-30T02:47:08.630Z"
 ---
 
 # § 20103. Members not on sustained duty: agreements concerning conditions of service

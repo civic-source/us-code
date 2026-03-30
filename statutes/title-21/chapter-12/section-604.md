@@ -3,9 +3,9 @@ title: "Section 604 - Post mortem examination of carcasses and marking or labeli
 usc_title: 21
 usc_section: "604"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "21 U.S.C. § 604"
-generated_at: "2026-03-30T02:43:56.764Z"
+generated_at: "2026-03-30T02:47:48.018Z"
 ---
 
 # § 604. Post mortem examination of carcasses and marking or labeling; destruction of carcasses condemned; reinspection

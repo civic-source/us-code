@@ -3,9 +3,9 @@ title: "Section 1735 - Operation of Office; compensation, allowances, and benefi
 usc_title: 48
 usc_section: "1735"
 chapter: 16
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "48 U.S.C. § 1735"
-generated_at: "2026-03-30T02:46:08.423Z"
+generated_at: "2026-03-30T02:48:50.961Z"
 ---
 
 # § 1735. Operation of Office; compensation, allowances, and benefits; privileges and immunities

@@ -3,9 +3,9 @@ title: "Section 1566a - Voting assistance: voter assistance offices"
 usc_title: 10
 usc_section: "1566a"
 chapter: 80
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 1566a"
-generated_at: "2026-03-30T02:42:43.844Z"
+generated_at: "2026-03-30T02:47:08.482Z"
 ---
 
 # § 1566a. Voting assistance: voter assistance offices

@@ -3,9 +3,9 @@ title: "Section 8715 - Jurisdiction of courts"
 usc_title: 5
 usc_section: "8715"
 chapter: 87
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "5 U.S.C. § 8715"
-generated_at: "2026-03-30T02:42:23.391Z"
+generated_at: "2026-03-30T02:46:38.068Z"
 ---
 
 # § 8715. Jurisdiction of courts

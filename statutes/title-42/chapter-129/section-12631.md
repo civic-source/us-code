@@ -3,9 +3,9 @@ title: "Section 12631 - Family and medical leave"
 usc_title: 42
 usc_section: "12631"
 chapter: 129
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 12631"
-generated_at: "2026-03-30T02:46:04.887Z"
+generated_at: "2026-03-30T02:48:46.816Z"
 ---
 
 # § 12631. Family and medical leave

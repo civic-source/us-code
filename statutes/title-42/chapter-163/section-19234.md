@@ -3,9 +3,9 @@ title: "Section 19234 - Research security training requirement for Federal resea
 usc_title: 42
 usc_section: "19234"
 chapter: 163
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 19234"
-generated_at: "2026-03-30T02:46:05.044Z"
+generated_at: "2026-03-30T02:48:46.955Z"
 ---
 
 # § 19234. Research security training requirement for Federal research award personnel

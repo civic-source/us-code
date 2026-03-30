@@ -3,9 +3,9 @@ title: "Section 101114 - Disposition of property or income"
 usc_title: 54
 usc_section: "101114"
 chapter: 1011
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "54 U.S.C. § 101114"
-generated_at: "2026-03-30T02:46:18.903Z"
+generated_at: "2026-03-30T02:49:20.739Z"
 ---
 
 # § 101114. Disposition of property or income

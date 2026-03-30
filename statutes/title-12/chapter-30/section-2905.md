@@ -3,9 +3,9 @@ title: "Section 2905 - Regulations"
 usc_title: 12
 usc_section: "2905"
 chapter: 30
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "12 U.S.C. § 2905"
-generated_at: "2026-03-30T02:43:29.897Z"
+generated_at: "2026-03-30T02:47:16.220Z"
 ---
 
 # § 2905. Regulations

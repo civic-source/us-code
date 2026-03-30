@@ -3,9 +3,9 @@ title: "Section 239l - Establishment"
 usc_title: 42
 usc_section: "239l"
 chapter: 6
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 239l"
-generated_at: "2026-03-30T02:46:03.946Z"
+generated_at: "2026-03-30T02:48:45.981Z"
 ---
 
 # § 239l. Establishment

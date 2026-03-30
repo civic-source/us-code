@@ -3,9 +3,9 @@ title: "Section 1769b - Department of Defense overseas dependents’ schools"
 usc_title: 42
 usc_section: "1769b"
 chapter: 13
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 1769b"
-generated_at: "2026-03-30T02:46:04.488Z"
+generated_at: "2026-03-30T02:48:46.463Z"
 ---
 
 # § 1769b. Department of Defense overseas dependents’ schools

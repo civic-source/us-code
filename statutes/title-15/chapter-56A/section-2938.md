@@ -3,9 +3,9 @@ title: "Section 2938 - Relation to other authorities"
 usc_title: 15
 usc_section: "2938"
 chapter: 56
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 2938"
-generated_at: "2026-03-30T02:43:01.832Z"
+generated_at: "2026-03-30T02:47:19.737Z"
 ---
 
 # § 2938. Relation to other authorities

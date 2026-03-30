@@ -3,9 +3,9 @@ title: "Section 17156 - Competitive grants"
 usc_title: 42
 usc_section: "17156"
 chapter: 152
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 17156"
-generated_at: "2026-03-30T02:46:04.988Z"
+generated_at: "2026-03-30T02:48:46.903Z"
 ---
 
 # § 17156. Competitive grants

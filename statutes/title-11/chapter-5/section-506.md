@@ -3,9 +3,9 @@ title: "Section 506 - Determination of secured status"
 usc_title: 11
 usc_section: "506"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "11 U.S.C. § 506"
-generated_at: "2026-03-30T02:43:09.304Z"
+generated_at: "2026-03-30T02:47:11.922Z"
 ---
 
 # § 506. Determination of secured status

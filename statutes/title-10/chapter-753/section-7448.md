@@ -3,9 +3,9 @@ title: "Section 7448 - Cadets: service obligation"
 usc_title: 10
 usc_section: "7448"
 chapter: 753
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 7448"
-generated_at: "2026-03-30T02:42:43.952Z"
+generated_at: "2026-03-30T02:47:08.577Z"
 ---
 
 # § 7448. Cadets: service obligation

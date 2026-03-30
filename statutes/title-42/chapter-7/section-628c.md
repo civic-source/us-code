@@ -3,9 +3,9 @@ title: "Section 628c - Grants to States to enhance collaboration between State c
 usc_title: 42
 usc_section: "628c"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 628c"
-generated_at: "2026-03-30T02:46:04.190Z"
+generated_at: "2026-03-30T02:48:46.198Z"
 ---
 
 # § 628c. Grants to States to enhance collaboration between State child welfare and juvenile justice systems

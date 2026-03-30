@@ -3,9 +3,9 @@ title: "Section 1073 - Administration of this chapter"
 usc_title: 10
 usc_section: "1073"
 chapter: 55
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 1073"
-generated_at: "2026-03-30T02:42:43.806Z"
+generated_at: "2026-03-30T02:47:08.448Z"
 ---
 
 # § 1073. Administration of this chapter

@@ -3,9 +3,9 @@ title: "Section 357 - State or local government rights; taxation"
 usc_title: 30
 usc_section: "357"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "30 U.S.C. § 357"
-generated_at: "2026-03-30T02:44:53.596Z"
+generated_at: "2026-03-30T02:47:56.156Z"
 ---
 
 # § 357. State or local government rights; taxation

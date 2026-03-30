@@ -3,9 +3,9 @@ title: "Section 3001 - Congressional findings and policy"
 usc_title: 15
 usc_section: "3001"
 chapter: 57
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 3001"
-generated_at: "2026-03-30T02:43:01.832Z"
+generated_at: "2026-03-30T02:47:19.737Z"
 ---
 
 # § 3001. Congressional findings and policy

@@ -3,9 +3,9 @@ title: "Section 2708 - Clothing for officers and enlisted personnel"
 usc_title: 14
 usc_section: "2708"
 chapter: 27
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "14 U.S.C. § 2708"
-generated_at: "2026-03-30T02:42:54.129Z"
+generated_at: "2026-03-30T02:47:11.364Z"
 ---
 
 # § 2708. Clothing for officers and enlisted personnel

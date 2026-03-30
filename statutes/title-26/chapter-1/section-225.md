@@ -3,9 +3,9 @@ title: "Section 225 - Qualified overtime compensation"
 usc_title: 26
 usc_section: "225"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 225"
-generated_at: "2026-03-30T02:45:22.971Z"
+generated_at: "2026-03-30T02:48:06.501Z"
 ---
 
 # § 225. Qualified overtime compensation

@@ -3,9 +3,9 @@ title: "Section 14701a - Continuation on reserve active-status list: officers in
 usc_title: 10
 usc_section: "14701a"
 chapter: 1409
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 14701a"
-generated_at: "2026-03-30T02:42:44.009Z"
+generated_at: "2026-03-30T02:47:08.626Z"
 ---
 
 # § 14701a. Continuation on reserve active-status list: officers in certain military specialties and career tracks

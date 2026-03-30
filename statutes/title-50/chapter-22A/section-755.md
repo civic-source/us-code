@@ -3,9 +3,9 @@ title: "Section 755 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 St
 usc_title: 50
 usc_section: "755"
 chapter: 22
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "50 U.S.C. § 755"
-generated_at: "2026-03-30T02:46:16.156Z"
+generated_at: "2026-03-30T02:49:17.585Z"
 ---
 
 # §§ 751 to 755. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1570

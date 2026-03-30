@@ -3,9 +3,9 @@ title: "Section 6039K - Returns with respect to qualified opportunity funds and 
 usc_title: 26
 usc_section: "6039K"
 chapter: 61
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 6039K"
-generated_at: "2026-03-30T02:45:23.191Z"
+generated_at: "2026-03-30T02:48:06.726Z"
 ---
 
 # § 6039K. Returns with respect to qualified opportunity funds and qualified rural opportunity funds

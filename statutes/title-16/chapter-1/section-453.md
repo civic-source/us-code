@@ -3,9 +3,9 @@ title: "Section 453 - Donations of land for park purposes near or adjacent to Na
 usc_title: 16
 usc_section: "453"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 453"
-generated_at: "2026-03-30T02:43:50.275Z"
+generated_at: "2026-03-30T02:47:42.367Z"
 ---
 
 # § 453. Donations of land for park purposes near or adjacent to National Forest Reserve in North Carolina

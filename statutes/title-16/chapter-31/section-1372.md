@@ -3,9 +3,9 @@ title: "Section 1372 - Prohibitions"
 usc_title: 16
 usc_section: "1372"
 chapter: 31
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 1372"
-generated_at: "2026-03-30T02:43:50.437Z"
+generated_at: "2026-03-30T02:47:42.528Z"
 ---
 
 # § 1372. Prohibitions

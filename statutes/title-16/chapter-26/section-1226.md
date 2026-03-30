@@ -3,9 +3,9 @@ title: "Section 1226 - Federal agency authority to carry out Federal project wit
 usc_title: 16
 usc_section: "1226"
 chapter: 26
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 1226"
-generated_at: "2026-03-30T02:43:50.423Z"
+generated_at: "2026-03-30T02:47:42.514Z"
 ---
 
 # § 1226. Federal agency authority to carry out Federal project within an estuary unaffected

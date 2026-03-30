@@ -3,9 +3,9 @@ title: "Section 1332 - National encampments of Veterans’ organizations; procee
 usc_title: 44
 usc_section: "1332"
 chapter: 13
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "44 U.S.C. § 1332"
-generated_at: "2026-03-30T02:45:47.560Z"
+generated_at: "2026-03-30T02:48:29.899Z"
 ---
 
 # § 1332. National encampments of Veterans’ organizations; proceedings printed annually for Congress

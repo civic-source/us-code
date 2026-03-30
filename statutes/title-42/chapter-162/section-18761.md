@@ -3,9 +3,9 @@ title: "Section 18761 - Clean energy demonstration program on current and former
 usc_title: 42
 usc_section: "18761"
 chapter: 162
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 18761"
-generated_at: "2026-03-30T02:46:05.026Z"
+generated_at: "2026-03-30T02:48:46.938Z"
 ---
 
 # § 18761. Clean energy demonstration program on current and former mine land

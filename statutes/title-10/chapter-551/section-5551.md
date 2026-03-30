@@ -3,9 +3,9 @@ title: "Section 5551 - Prohibitions relating to missile defense information and 
 usc_title: 10
 usc_section: "5551"
 chapter: 551
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 5551"
-generated_at: "2026-03-30T02:42:43.947Z"
+generated_at: "2026-03-30T02:47:08.572Z"
 ---
 
 # § 5551. Prohibitions relating to missile defense information and systems

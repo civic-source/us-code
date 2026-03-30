@@ -3,9 +3,9 @@ title: "Section 55605 - Definitions"
 usc_title: 46
 usc_section: "55605"
 chapter: 556
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "46 U.S.C. § 55605"
-generated_at: "2026-03-30T02:46:10.558Z"
+generated_at: "2026-03-30T02:48:52.076Z"
 ---
 
 # § 55605. Definitions

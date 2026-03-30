@@ -3,9 +3,9 @@ title: "Section 933 - Repealed. Pub. L. 103–116, § 4(c) , Oct. 27, 1993 , 107
 usc_title: 25
 usc_section: "933"
 chapter: 14
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "25 U.S.C. § 933"
-generated_at: "2026-03-30T02:43:58.342Z"
+generated_at: "2026-03-30T02:47:49.229Z"
 ---
 
 # § 933. Repealed. Pub. L. 103–116, § 4(c) , Oct. 27, 1993 , 107 Stat. 1121

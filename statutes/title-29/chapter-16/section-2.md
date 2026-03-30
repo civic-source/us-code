@@ -3,9 +3,9 @@ title: "Section 2 - Grants to centers for independent living in States in which 
 usc_title: 29
 usc_section: "2"
 chapter: 16
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-03-30T02:45:08.830Z"
+generated_at: "2026-03-30T02:47:57.859Z"
 ---
 
 # § 796f–2. Grants to centers for independent living in States in which State funding equals or exceeds Federal funding

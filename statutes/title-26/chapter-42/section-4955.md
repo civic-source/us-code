@@ -3,9 +3,9 @@ title: "Section 4955 - Taxes on political expenditures of section 501(c)(3) orga
 usc_title: 26
 usc_section: "4955"
 chapter: 42
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 4955"
-generated_at: "2026-03-30T02:45:23.162Z"
+generated_at: "2026-03-30T02:48:06.696Z"
 ---
 
 # § 4955. Taxes on political expenditures of section 501(c)(3) organizations

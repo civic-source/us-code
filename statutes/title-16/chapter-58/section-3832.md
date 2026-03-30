@@ -3,9 +3,9 @@ title: "Section 3832 - Duties of owners and operators"
 usc_title: 16
 usc_section: "3832"
 chapter: 58
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 3832"
-generated_at: "2026-03-30T02:43:50.508Z"
+generated_at: "2026-03-30T02:47:42.597Z"
 ---
 
 # § 3832. Duties of owners and operators

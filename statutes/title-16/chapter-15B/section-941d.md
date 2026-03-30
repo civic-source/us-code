@@ -3,9 +3,9 @@ title: "Section 941d - Goals of United States Fish and Wildlife Service programs
 usc_title: 16
 usc_section: "941d"
 chapter: 15
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 941d"
-generated_at: "2026-03-30T02:43:50.413Z"
+generated_at: "2026-03-30T02:47:42.504Z"
 ---
 
 # § 941d. Goals of United States Fish and Wildlife Service programs related to Great Lakes fish and wildlife resources

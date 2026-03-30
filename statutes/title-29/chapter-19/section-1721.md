@@ -3,9 +3,9 @@ title: "Section 1721 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1721"
 chapter: 19
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "29 U.S.C. § 1721"
-generated_at: "2026-03-30T02:45:08.881Z"
+generated_at: "2026-03-30T02:47:57.910Z"
 ---
 
 # § 1721. Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug. 7, 1998 , 112 Stat. 1059

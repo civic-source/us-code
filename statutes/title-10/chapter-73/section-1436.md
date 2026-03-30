@@ -3,9 +3,9 @@ title: "Section 1436 - Computation of reduction in retired pay; withdrawal for s
 usc_title: 10
 usc_section: "1436"
 chapter: 73
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 1436"
-generated_at: "2026-03-30T02:42:43.833Z"
+generated_at: "2026-03-30T02:47:08.472Z"
 ---
 
 # § 1436. Computation of reduction in retired pay; withdrawal for severe financial hardship

@@ -3,9 +3,9 @@ title: "Section 2102 - Duties of Commission"
 usc_title: 2
 usc_section: "2102"
 chapter: 30
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 2102"
-generated_at: "2026-03-30T02:42:18.897Z"
+generated_at: "2026-03-30T02:46:39.309Z"
 ---
 
 # § 2102. Duties of Commission

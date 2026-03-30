@@ -3,9 +3,9 @@ title: "Section 263 - Acceptance of donations"
 usc_title: 16
 usc_section: "263"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 263"
-generated_at: "2026-03-30T02:43:50.214Z"
+generated_at: "2026-03-30T02:47:42.305Z"
 ---
 
 # § 263. Acceptance of donations

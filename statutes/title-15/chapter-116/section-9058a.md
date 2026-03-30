@@ -3,9 +3,9 @@ title: "Section 9058a - Emergency rental assistance"
 usc_title: 15
 usc_section: "9058a"
 chapter: 116
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 9058a"
-generated_at: "2026-03-30T02:43:01.914Z"
+generated_at: "2026-03-30T02:47:19.819Z"
 ---
 
 # § 9058a. Emergency rental assistance

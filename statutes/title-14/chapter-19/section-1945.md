@@ -3,9 +3,9 @@ title: "Section 1945 - Retirement of permanent commissioned teaching staff"
 usc_title: 14
 usc_section: "1945"
 chapter: 19
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "14 U.S.C. § 1945"
-generated_at: "2026-03-30T02:42:54.121Z"
+generated_at: "2026-03-30T02:47:11.358Z"
 ---
 
 # § 1945. Retirement of permanent commissioned teaching staff

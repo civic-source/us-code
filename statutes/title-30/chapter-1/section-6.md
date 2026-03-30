@@ -3,9 +3,9 @@ title: "Section 6 - Personal interest of director and members of Bureau in mines
 usc_title: 30
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "30 U.S.C. § 6"
-generated_at: "2026-03-30T02:44:53.583Z"
+generated_at: "2026-03-30T02:47:56.143Z"
 ---
 
 # § 6. Personal interest of director and members of Bureau in mines

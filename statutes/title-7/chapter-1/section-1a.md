@@ -3,9 +3,9 @@ title: "Section 1a - Definitions"
 usc_title: 7
 usc_section: "1a"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-30T02:42:50.628Z"
+generated_at: "2026-03-30T02:46:47.445Z"
 ---
 
 # § 1a. Definitions

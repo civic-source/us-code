@@ -3,9 +3,9 @@ title: "Section 5129 - Repealed. Pub. L. 115–244, div. B, title I, § 118(a) ,
 usc_title: 2
 usc_section: "5129"
 chapter: 51
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 5129"
-generated_at: "2026-03-30T02:42:18.910Z"
+generated_at: "2026-03-30T02:46:39.320Z"
 ---
 
 # §§ 5126 to 5129. Repealed. Pub. L. 115–244, div. B, title I, § 118(a) , Sept. 21, 2018 , 132 Stat. 2930

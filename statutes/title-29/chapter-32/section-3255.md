@@ -3,9 +3,9 @@ title: "Section 3255 - Restrictions on lobbying activities"
 usc_title: 29
 usc_section: "3255"
 chapter: 32
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "29 U.S.C. § 3255"
-generated_at: "2026-03-30T02:45:08.912Z"
+generated_at: "2026-03-30T02:47:57.939Z"
 ---
 
 # § 3255. Restrictions on lobbying activities

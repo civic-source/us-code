@@ -3,9 +3,9 @@ title: "Section 6241 - Definitions and special rules"
 usc_title: 26
 usc_section: "6241"
 chapter: 63
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 6241"
-generated_at: "2026-03-30T02:45:23.209Z"
+generated_at: "2026-03-30T02:48:06.745Z"
 ---
 
 # § 6241. Definitions and special rules

@@ -3,9 +3,9 @@ title: "Section 9516 - National Board for Education Sciences"
 usc_title: 20
 usc_section: "9516"
 chapter: 76
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "20 U.S.C. § 9516"
-generated_at: "2026-03-30T02:43:39.340Z"
+generated_at: "2026-03-30T02:47:29.709Z"
 ---
 
 # § 9516. National Board for Education Sciences

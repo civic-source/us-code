@@ -3,9 +3,9 @@ title: "Section 375a - Jurisdiction of Secretary of the Interior over probate an
 usc_title: 25
 usc_section: "375a"
 chapter: 10
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "25 U.S.C. § 375a"
-generated_at: "2026-03-30T02:43:58.332Z"
+generated_at: "2026-03-30T02:47:49.220Z"
 ---
 
 # § 375a. Jurisdiction of Secretary of the Interior over probate and distribution of estates not exceeding $2,500

@@ -3,9 +3,9 @@ title: "Section 3a - Grants to public sector agencies"
 usc_title: 42
 usc_section: "3a"
 chapter: 6
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-30T02:46:04.091Z"
+generated_at: "2026-03-30T02:48:46.111Z"
 ---
 
 # § 300j–3a. Grants to public sector agencies

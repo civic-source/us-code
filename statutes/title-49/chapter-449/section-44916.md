@@ -3,9 +3,9 @@ title: "Section 44916 - Assessments and evaluations"
 usc_title: 49
 usc_section: "44916"
 chapter: 449
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "49 U.S.C. § 44916"
-generated_at: "2026-03-30T02:46:14.299Z"
+generated_at: "2026-03-30T02:48:56.027Z"
 ---
 
 # § 44916. Assessments and evaluations

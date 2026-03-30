@@ -3,9 +3,9 @@ title: "Section 1106 - Submittal of claims: standard form; time limits"
 usc_title: 10
 usc_section: "1106"
 chapter: 55
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 1106"
-generated_at: "2026-03-30T02:42:43.818Z"
+generated_at: "2026-03-30T02:47:08.458Z"
 ---
 
 # § 1106. Submittal of claims: standard form; time limits

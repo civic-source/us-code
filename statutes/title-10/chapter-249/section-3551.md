@@ -3,9 +3,9 @@ title: "Section 3551 - Multiyear procurement authority: purchase of dinitrogen t
 usc_title: 10
 usc_section: "3551"
 chapter: 249
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 3551"
-generated_at: "2026-03-30T02:42:43.918Z"
+generated_at: "2026-03-30T02:47:08.548Z"
 ---
 
 # § 3551. Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products

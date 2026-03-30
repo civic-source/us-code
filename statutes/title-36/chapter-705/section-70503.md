@@ -3,17 +3,14 @@ title: "Section 70503 - Membership"
 usc_title: 36
 usc_section: "70503"
 chapter: 705
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "36 U.S.C. § 70503"
-generated_at: "2026-03-30T02:45:40.877Z"
+generated_at: "2026-03-30T02:48:16.859Z"
 ---
 
 # § 70503. Membership
 
-- **(a)** The members of the corporation are—
-  - **(1)** the members of the National Council of the Federal Bar Association, a nonprofit corporation incorporated in the District of Columbia, during their term of membership on that Council; and
-  - **(2)** other individuals the corporation provides for in the bylaws or otherwise.
-- **(b)** Each member has one vote on each matter submitted to a vote of the members.
-- **(c)** An individual may not be a member, director, or officer of the corporation if the individual—
+- **(a)** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
+- **(b)** An individual may not be a member, director, or officer of the corporation if the individual—
   - **(1)** is a member of, or advocates the principles of, an organization believing in, or working for, the overthrow of the United States Government by force or violence; or
   - **(2)** refuses to uphold and defend the Constitution of the United States.

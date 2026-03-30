@@ -3,9 +3,9 @@ title: "Section 1104 - Fiduciary duties"
 usc_title: 29
 usc_section: "1104"
 chapter: 18
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "29 U.S.C. § 1104"
-generated_at: "2026-03-30T02:45:08.852Z"
+generated_at: "2026-03-30T02:47:57.880Z"
 ---
 
 # § 1104. Fiduciary duties

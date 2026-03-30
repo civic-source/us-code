@@ -3,9 +3,9 @@ title: "Section 54 - Assumption of risks of employment"
 usc_title: 45
 usc_section: "54"
 chapter: 2
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "45 U.S.C. § 54"
-generated_at: "2026-03-30T02:45:46.503Z"
+generated_at: "2026-03-30T02:48:26.934Z"
 ---
 
 # § 54. Assumption of risks of employment

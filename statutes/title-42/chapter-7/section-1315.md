@@ -3,9 +3,9 @@ title: "Section 1315 - Demonstration projects"
 usc_title: 42
 usc_section: "1315"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 1315"
-generated_at: "2026-03-30T02:46:04.225Z"
+generated_at: "2026-03-30T02:48:46.230Z"
 ---
 
 # § 1315. Demonstration projects

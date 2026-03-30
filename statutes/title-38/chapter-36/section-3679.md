@@ -3,9 +3,9 @@ title: "Section 3679 - Disapproval of courses"
 usc_title: 38
 usc_section: "3679"
 chapter: 36
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "38 U.S.C. § 3679"
-generated_at: "2026-03-30T02:45:44.051Z"
+generated_at: "2026-03-30T02:48:19.043Z"
 ---
 
 # § 3679. Disapproval of courses
@@ -16,7 +16,7 @@ generated_at: "2026-03-30T02:45:44.051Z"
   - **(3)** In this section, the term “risk-based survey” means a risk-based survey developed under section 3673A(a) of this title .
 - **(b)** Each State approving agency shall notify the Secretary of each course which it has disapproved under this section. The Secretary shall notify the State approving agency of the Secretary’s disapproval of any educational institution under chapter 31 of this title.
 - **(c)**
-  - **(1)** Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning if the institution charges tuition and fees for that course for covered individuals who are pursuing the course with educational assistance under chapter 30, 31, 33, or 35 of this title while living in the State in which the institution is located at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.
+  - **(1)** Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning if the institution charges tuition and fees for that course for covered individuals who are pursuing the course with educational assistance under chapter 30, 31, 33, or 35 of this title, or chapter 1606 of title 10, while living in the State in which the institution is located at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.
   - **(2)** For purposes of this subsection, a covered individual is any individual as follows:
     - **(A)** A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, air, or space service.
     - **(B)** An individual who is entitled to assistance under—
@@ -26,6 +26,7 @@ generated_at: "2026-03-30T02:45:44.051Z"
         - **(II)** a member of the uniformed services described in section 3319(b) of this title who is serving on active duty.
     - **(C)** An individual who is entitled to rehabilitation under section 3102(a) of this title .
     - **(D)** An individual who is entitled to assistance under section 3510 of this title .
+    - **(E)** An individual who is entitled to assistance under section 16131 of title 10 .
   - **(3)** If after enrollment in a course of education that is subject to disapproval under paragraph (1) by reason of paragraph (2)(A), (2)(B), or (2)(C) a covered individual pursues one or more courses of education at the same public institution of higher learning while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters or terms) at that institution of higher learning, any course so pursued by the covered individual at that institution of higher learning while so continuously enrolled shall also be subject to disapproval under paragraph (1).
   - **(4)**
     - **(A)** It shall not be grounds to disapprove a course of education under paragraph (1) if a public institution of higher learning requires a covered individual pursuing a course of education at the institution to demonstrate an intent, by means other than satisfying a physical presence requirement, to establish residency in the State in which the institution is located, or to satisfy other requirements not relating to the establishment of residency, in order to be charged tuition and fees for that course at a rate that is equal to or less than the rate the institution charges for tuition and fees for that course for residents of the State.
@@ -33,17 +34,17 @@ generated_at: "2026-03-30T02:45:44.051Z"
       - **(i)** an initial explanation of such requirements; and
       - **(ii)** not later than 90 days after the date on which any such requirements change, the updated requirements.
   - **(5)** The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
-  - **(6)** Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30, 31, 33, and 35 of this title.
+  - **(6)** Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30, 31, 33, and 35 of this title, or chapter 1606 of title 10.
 - **(d)** Notwithstanding any other provision of this chapter, the Secretary or the applicable State approving agency shall disapprove a course of education described in paragraph (15) or (16) of section 3676(c) of this title unless the educational institution providing the course of education—
   - **(1)** publicly discloses any conditions or additional requirements, including training, experience, or examinations, required to obtain the license, certification, or approval for which the course of education is designed to provide preparation; and
   - **(2)** makes each disclosure required by paragraph (1) in a manner that the Secretary considers prominent (as specified by the Secretary in regulations prescribed for purposes of this subsection).
 - **(e)**
   - **(1)** Notwithstanding any other provision of this chapter, beginning on August 1, 2019 , a State approving agency, or the Secretary when acting in the role of the State approving agency, shall disapprove a course of education provided by an educational institution that has in effect a policy that is inconsistent with any of the following:
-    - **(A)** A policy that permits any covered individual to attend or participate in the course of education during the period beginning on the date on which the individual provides to the educational institution a certificate of eligibility for entitlement to educational assistance under chapter 31, 33, or 35 of this title and ending on the earlier of the following dates:
+    - **(A)** A policy that permits any covered individual to attend or participate in the course of education during the period beginning on the date on which the individual provides to the educational institution a certificate of eligibility for entitlement to educational assistance under chapter 31, 33, or 35 of this title, or chapter 1606 of title 10, and ending on the earlier of the following dates:
       - **(i)** The date on which the Secretary provides payment for such course of education to such institution.
       - **(ii)** The date that is 90 days after the date on which the educational institution certifies for tuition and fees following receipt from the student such certificate of eligibility.
-    - **(B)** A policy that ensures that the educational institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that a covered individual borrow additional funds, on any covered individual because of the individual’s inability to meet his or her financial obligations to the institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31 1 1 So in original. Probably should be followed by a comma. 33, or 35 of this title.
-  - **(2)** For purposes of this subsection, a covered individual is any individual who is entitled to educational assistance under chapter 31 1 33, or 35 of this title.
+    - **(B)** A policy that ensures that the educational institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that a covered individual borrow additional funds, on any covered individual because of the individual’s inability to meet his or her financial obligations to the institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31, 33, or 35 of this title, or chapter 1606 of title 10.
+  - **(2)** For purposes of this subsection, a covered individual is any individual who is entitled to educational assistance under chapter 31, 33, or 35 of this title, or chapter 1606 of title 10.
   - **(3)** The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
   - **(4)** It shall not be inconsistent with a policy described in paragraph (1) for an educational institution to require a covered individual to take the following additional actions:
     - **(A)** Submit a certificate of eligibility for entitlement to educational assistance not later than the first day of a course of education for which the individual has indicated the individual wishes to use the individual’s entitlement to educational assistance.
@@ -78,7 +79,7 @@ generated_at: "2026-03-30T02:45:44.051Z"
     - **(I)** Comply with the notification requirements under sections 3675(b)(5) and 3676(c)(14) of this title, when applicable.
   - **(2)** Except as provided by paragraph (5), a State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency, the Secretary, or any Federal agency, determines that an educational institution, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services, does any of the following:
     - **(A)** Carries out deceptive or persistent recruiting techniques, including on military installations, that may include—
-      - **(i)** misrepresentation (as defined in section 3696(e)(2)(B) 2 2 See References in Text note below. of this title) or payment of incentive compensation;
+      - **(i)** misrepresentation (as defined in section 3696(e)(2)(B) 1 1 See References in Text note below. of this title) or payment of incentive compensation;
       - **(ii)** during any one-month period making three or more unsolicited contacts to a covered individual, including contacts by phone, email, or in-person; or
       - **(iii)** engaging in same-day recruitment and registration.
     - **(B)** Provides a commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
@@ -91,7 +92,7 @@ generated_at: "2026-03-30T02:45:44.051Z"
     - **(A)** An action described in this subparagraph is any of the following:
       - **(i)** Submitting to the Secretary a recommendation that the Secretary publish a warning on the internet website of the Department described in section 3698(c)(2) of this title , or such other similar internet website of the Department, that describes how an educational institution is failing to meet a requirement under paragraph (1), (2), or (3).
       - **(ii)** Suspending the approval of the courses and programs of education offered by the educational institution by disapproving new enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution.
-      - **(iii)** Revoking the approval of the courses and programs of education offered by the educational institution by disapproving all enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution 3 3 So in original. Probably should be followed by a period.
+      - **(iii)** Revoking the approval of the courses and programs of education offered by the educational institution by disapproving all enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution 2 2 So in original. Probably should be followed by a period.
     - **(B)**
       - **(i)** The Secretary shall establish guidelines to ensure that the actions described in subparagraph (A) are applied in a proportional and uniform manner by State approving agencies, or the Secretary when acting in the role of the State approving agency.
       - **(ii)** Each State approving agency and the Secretary, when acting in the role of the State approving agency, shall adhere to the guidelines established under clause (i).

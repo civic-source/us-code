@@ -3,9 +3,9 @@ title: "Section 3698 - Comprehensive policy on providing education information t
 usc_title: 38
 usc_section: "3698"
 chapter: 36
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "38 U.S.C. § 3698"
-generated_at: "2026-03-30T02:45:44.054Z"
+generated_at: "2026-03-30T02:48:19.049Z"
 ---
 
 # § 3698. Comprehensive policy on providing education information to veterans
@@ -54,7 +54,7 @@ generated_at: "2026-03-30T02:45:44.054Z"
       - **(xviii)** employment rate and median income of graduates of the institution in general two and five years after graduation, disaggregated by—
         - **(I)** specific program; and
         - **(II)** individuals using educational assistance under laws administered by the Secretary and individuals who are not; and
-      - **(xix)** the number of individuals using educational assistance under laws administered by the Secretary who are enrolled in the both the institution and specific program per year.
+      - **(xix)** the number of individuals using educational assistance under laws administered by the Secretary who are enrolled in the both the 1 institution and specific program per year.
   - **(2)**
     - **(A)** To the extent practicable, the Secretary shall provide the information described in paragraph (1) by including hyperlinks on the Internet website of the Department to other Internet websites that contain such information, including the Internet website of the Department of Education, in a form that is comprehensive and easily understood by veterans, members of the Armed Forces, and other individuals. To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.
     - **(B)** The Secretary shall ensure that information provided pursuant to subsection (b)(5) is provided in a manner that is easy for, and accessible to, individuals described in subsection (a).

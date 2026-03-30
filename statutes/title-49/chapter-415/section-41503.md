@@ -3,9 +3,9 @@ title: "Section 41503 - Establishing joint prices for through routes provided by
 usc_title: 49
 usc_section: "41503"
 chapter: 415
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "49 U.S.C. § 41503"
-generated_at: "2026-03-30T02:46:14.276Z"
+generated_at: "2026-03-30T02:48:56.005Z"
 ---
 
 # § 41503. Establishing joint prices for through routes provided by State authorized carriers

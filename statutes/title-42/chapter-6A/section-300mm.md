@@ -3,9 +3,9 @@ title: "Section 300mm - Establishment of World Trade Center Health Program"
 usc_title: 42
 usc_section: "300mm"
 chapter: 6
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 300mm"
-generated_at: "2026-03-30T02:46:04.153Z"
+generated_at: "2026-03-30T02:48:46.166Z"
 ---
 
 # § 300mm. Establishment of World Trade Center Health Program

@@ -3,9 +3,9 @@ title: "Section 11703 - Enforcement by the Attorney General"
 usc_title: 49
 usc_section: "11703"
 chapter: 117
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "49 U.S.C. § 11703"
-generated_at: "2026-03-30T02:46:14.212Z"
+generated_at: "2026-03-30T02:48:55.949Z"
 ---
 
 # § 11703. Enforcement by the Attorney General

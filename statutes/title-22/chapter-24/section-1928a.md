@@ -3,9 +3,9 @@ title: "Section 1928a - North Atlantic Treaty Parliamentary Conference; particip
 usc_title: 22
 usc_section: "1928a"
 chapter: 24
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 1928a"
-generated_at: "2026-03-30T02:44:42.833Z"
+generated_at: "2026-03-30T02:47:52.596Z"
 ---
 
 # § 1928a. North Atlantic Treaty Parliamentary Conference; participation; appointment of United States Group

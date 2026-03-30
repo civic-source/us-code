@@ -3,9 +3,9 @@ title: "Section 5116e - Local program requirements"
 usc_title: 42
 usc_section: "5116e"
 chapter: 67
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 5116e"
-generated_at: "2026-03-30T02:46:04.623Z"
+generated_at: "2026-03-30T02:48:46.587Z"
 ---
 
 # § 5116e. Local program requirements

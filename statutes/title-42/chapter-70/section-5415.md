@@ -3,9 +3,9 @@ title: "Section 5415 - Certification by manufacturer of conformity of manufactur
 usc_title: 42
 usc_section: "5415"
 chapter: 70
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 5415"
-generated_at: "2026-03-30T02:46:04.642Z"
+generated_at: "2026-03-30T02:48:46.604Z"
 ---
 
 # § 5415. Certification by manufacturer of conformity of manufactured home with standards; form and placement of certification

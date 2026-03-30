@@ -3,9 +3,9 @@ title: "Section 7434 - Repealed. Pub. L. 119–21, title VI, § 60002 , July 4, 
 usc_title: 42
 usc_section: "7434"
 chapter: 85
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 7434"
-generated_at: "2026-03-30T02:46:04.732Z"
+generated_at: "2026-03-30T02:48:46.681Z"
 ---
 
 # § 7434. Repealed. Pub. L. 119–21, title VI, § 60002 , July 4, 2025 , 139 Stat. 154

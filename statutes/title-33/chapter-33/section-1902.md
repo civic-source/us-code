@@ -3,9 +3,9 @@ title: "Section 1902 - Ships subject to preventive measures"
 usc_title: 33
 usc_section: "1902"
 chapter: 33
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "33 U.S.C. § 1902"
-generated_at: "2026-03-30T02:45:34.109Z"
+generated_at: "2026-03-30T02:48:12.841Z"
 ---
 
 # § 1902. Ships subject to preventive measures

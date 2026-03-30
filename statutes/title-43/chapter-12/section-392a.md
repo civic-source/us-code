@@ -3,9 +3,9 @@ title: "Section 392a - Payment into reclamation fund of receipts from irrigation
 usc_title: 43
 usc_section: "392a"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "43 U.S.C. § 392a"
-generated_at: "2026-03-30T02:45:48.487Z"
+generated_at: "2026-03-30T02:48:28.897Z"
 ---
 
 # § 392a. Payment into reclamation fund of receipts from irrigation projects; transfer of power revenues to General Treasury after repayment of construction costs

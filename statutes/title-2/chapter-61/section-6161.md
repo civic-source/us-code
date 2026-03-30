@@ -3,9 +3,9 @@ title: "Section 6161 - Senate Democratic Leadership Offices Funding and Authorit
 usc_title: 2
 usc_section: "6161"
 chapter: 61
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 6161"
-generated_at: "2026-03-30T02:42:18.915Z"
+generated_at: "2026-03-30T02:46:39.325Z"
 ---
 
 # § 6161. Senate Democratic Leadership Offices Funding and Authorities

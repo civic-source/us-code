@@ -3,9 +3,9 @@ title: "Section 624 - Powers of the Board"
 usc_title: 28
 usc_section: "624"
 chapter: 42
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "28 U.S.C. § 624"
-generated_at: "2026-03-30T02:44:47.248Z"
+generated_at: "2026-03-30T02:47:58.851Z"
 ---
 
 # § 624. Powers of the Board

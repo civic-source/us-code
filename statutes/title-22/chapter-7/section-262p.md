@@ -3,9 +3,9 @@ title: "Section 262p - Impact adjustment lending programs"
 usc_title: 22
 usc_section: "262p"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 262p"
-generated_at: "2026-03-30T02:44:42.781Z"
+generated_at: "2026-03-30T02:47:52.552Z"
 ---
 
 # § 262p. Impact adjustment lending programs

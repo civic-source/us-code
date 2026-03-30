@@ -3,9 +3,9 @@ title: "Section 2643 - Commissary and exchange services: transportation overseas
 usc_title: 10
 usc_section: "2643"
 chapter: 157
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 2643"
-generated_at: "2026-03-30T02:42:43.887Z"
+generated_at: "2026-03-30T02:47:08.519Z"
 ---
 
 # § 2643. Commissary and exchange services: transportation overseas

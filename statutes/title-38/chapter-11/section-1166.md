@@ -3,9 +3,9 @@ title: "Section 1166 - Claims involving military sexual trauma"
 usc_title: 38
 usc_section: "1166"
 chapter: 11
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "38 U.S.C. § 1166"
-generated_at: "2026-03-30T02:45:44.007Z"
+generated_at: "2026-03-30T02:48:19.001Z"
 ---
 
 # § 1166. Claims involving military sexual trauma

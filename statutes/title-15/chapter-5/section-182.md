@@ -3,9 +3,9 @@ title: "Section 182 - Statistics of manufactures"
 usc_title: 15
 usc_section: "182"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 182"
-generated_at: "2026-03-30T02:43:01.671Z"
+generated_at: "2026-03-30T02:47:19.577Z"
 ---
 
 # § 182. Statistics of manufactures

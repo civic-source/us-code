@@ -3,9 +3,9 @@ title: "Section 30 - Adverse claims; oath of claimants; requisites; waiver; stay
 usc_title: 30
 usc_section: "30"
 chapter: 2
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "30 U.S.C. § 30"
-generated_at: "2026-03-30T02:44:53.584Z"
+generated_at: "2026-03-30T02:47:56.145Z"
 ---
 
 # § 30. Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession; successful claimants’ filing of judgment roll, certificate of labor, and description of claim in land office, and acreage and fee payments; issuance of patents for entire or partial claims upon certification of land office proceedings and judgment roll; alienation of patent title

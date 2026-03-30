@@ -3,9 +3,9 @@ title: "Section 5851 - Findings"
 usc_title: 22
 usc_section: "5851"
 chapter: 67
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 5851"
-generated_at: "2026-03-30T02:44:42.954Z"
+generated_at: "2026-03-30T02:47:52.707Z"
 ---
 
 # § 5851. Findings

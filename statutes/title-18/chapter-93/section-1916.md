@@ -3,9 +3,9 @@ title: "Section 1916 - Unauthorized employment and disposition of lapsed appropr
 usc_title: 18
 usc_section: "1916"
 chapter: 93
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "18 U.S.C. § 1916"
-generated_at: "2026-03-30T02:43:43.756Z"
+generated_at: "2026-03-30T02:47:34.132Z"
 ---
 
 # § 1916. Unauthorized employment and disposition of lapsed appropriations

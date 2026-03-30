@@ -3,9 +3,9 @@ title: "Section 1182e - Denial of entry into United States of foreign nationals 
 usc_title: 8
 usc_section: "1182e"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "8 U.S.C. § 1182e"
-generated_at: "2026-03-30T02:42:32.065Z"
+generated_at: "2026-03-30T02:46:42.816Z"
 ---
 
 # § 1182e. Denial of entry into United States of foreign nationals engaged in establishment or enforcement of forced abortion or sterilization policy

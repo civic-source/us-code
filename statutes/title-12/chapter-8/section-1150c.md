@@ -3,9 +3,9 @@ title: "Section 1150c - Self-hauling of hay or other roughages under hay transpo
 usc_title: 12
 usc_section: "1150c"
 chapter: 8
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "12 U.S.C. § 1150c"
-generated_at: "2026-03-30T02:43:29.794Z"
+generated_at: "2026-03-30T02:47:16.079Z"
 ---
 
 # § 1150c. Self-hauling of hay or other roughages under hay transportation assistance program; liability for or refund of excess payments; availability of funds for payments

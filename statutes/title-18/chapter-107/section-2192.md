@@ -3,9 +3,9 @@ title: "Section 2192 - Incitation of seamen to revolt or mutiny"
 usc_title: 18
 usc_section: "2192"
 chapter: 107
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "18 U.S.C. § 2192"
-generated_at: "2026-03-30T02:43:43.760Z"
+generated_at: "2026-03-30T02:47:34.136Z"
 ---
 
 # § 2192. Incitation of seamen to revolt or mutiny

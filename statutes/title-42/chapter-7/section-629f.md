@@ -3,9 +3,9 @@ title: "Section 629f - Authorization of appropriations; reservation of certain a
 usc_title: 42
 usc_section: "629f"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 629f"
-generated_at: "2026-03-30T02:46:04.192Z"
+generated_at: "2026-03-30T02:48:46.200Z"
 ---
 
 # § 629f. Authorization of appropriations; reservation of certain amounts

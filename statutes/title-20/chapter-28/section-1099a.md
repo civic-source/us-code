@@ -3,9 +3,9 @@ title: "Section 1099a - State responsibilities"
 usc_title: 20
 usc_section: "1099a"
 chapter: 28
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "20 U.S.C. § 1099a"
-generated_at: "2026-03-30T02:43:39.212Z"
+generated_at: "2026-03-30T02:47:29.595Z"
 ---
 
 # § 1099a. State responsibilities

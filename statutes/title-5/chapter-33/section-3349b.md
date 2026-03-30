@@ -3,9 +3,9 @@ title: "Section 3349b - Holdover provisions"
 usc_title: 5
 usc_section: "3349b"
 chapter: 33
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "5 U.S.C. § 3349b"
-generated_at: "2026-03-30T02:42:23.324Z"
+generated_at: "2026-03-30T02:46:38.007Z"
 ---
 
 # § 3349b. Holdover provisions

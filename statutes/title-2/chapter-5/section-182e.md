@@ -3,9 +3,9 @@ title: "Section 182e - Library of Congress National Collection Stewardship Fund"
 usc_title: 2
 usc_section: "182e"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 182e"
-generated_at: "2026-03-30T02:42:18.847Z"
+generated_at: "2026-03-30T02:46:39.267Z"
 ---
 
 # § 182e. Library of Congress National Collection Stewardship Fund

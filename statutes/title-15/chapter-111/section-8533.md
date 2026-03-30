@@ -3,9 +3,9 @@ title: "Section 8533 - Unnecessary duplication"
 usc_title: 15
 usc_section: "8533"
 chapter: 111
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 8533"
-generated_at: "2026-03-30T02:43:01.899Z"
+generated_at: "2026-03-30T02:47:19.804Z"
 ---
 
 # § 8533. Unnecessary duplication

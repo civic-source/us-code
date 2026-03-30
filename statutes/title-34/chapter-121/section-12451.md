@@ -3,9 +3,9 @@ title: "Section 12451 - Creating hope through outreach, options, services, and e
 usc_title: 34
 usc_section: "12451"
 chapter: 121
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "34 U.S.C. § 12451"
-generated_at: "2026-03-30T02:45:37.008Z"
+generated_at: "2026-03-30T02:48:10.361Z"
 ---
 
 # § 12451. Creating hope through outreach, options, services, and education for children and youth (“CHOOSE Children & Youth”)

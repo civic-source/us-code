@@ -3,9 +3,9 @@ title: "Section 638a - Modification to rules for continuation on active duty; en
 usc_title: 10
 usc_section: "638a"
 chapter: 36
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 638a"
-generated_at: "2026-03-30T02:42:43.776Z"
+generated_at: "2026-03-30T02:47:08.420Z"
 ---
 
 # § 638a. Modification to rules for continuation on active duty; enhanced authority for selective early retirement and early discharges

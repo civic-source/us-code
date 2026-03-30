@@ -3,9 +3,9 @@ title: "Section 14165 - Transferred"
 usc_title: 42
 usc_section: "14165"
 chapter: 136
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 14165"
-generated_at: "2026-03-30T02:46:04.925Z"
+generated_at: "2026-03-30T02:48:46.849Z"
 ---
 
 # § 14165. Transferred

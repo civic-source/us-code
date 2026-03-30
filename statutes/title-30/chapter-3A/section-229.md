@@ -3,9 +3,9 @@ title: "Section 229 - Preference right to permits or leases of claimants of land
 usc_title: 30
 usc_section: "229"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "30 U.S.C. § 229"
-generated_at: "2026-03-30T02:44:53.594Z"
+generated_at: "2026-03-30T02:47:56.154Z"
 ---
 
 # § 229. Preference right to permits or leases of claimants of lands bona fide entered as agricultural land; terms and conditions

@@ -3,9 +3,9 @@ title: "Section 1274A - Special rules for certain transactions where stated prin
 usc_title: 26
 usc_section: "1274A"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 1274A"
-generated_at: "2026-03-30T02:45:23.106Z"
+generated_at: "2026-03-30T02:48:06.641Z"
 ---
 
 # § 1274A. Special rules for certain transactions where stated principal amount does not exceed $2,800,000

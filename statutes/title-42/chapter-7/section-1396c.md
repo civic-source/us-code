@@ -3,9 +3,9 @@ title: "Section 1396c - Operation of State plans"
 usc_title: 42
 usc_section: "1396c"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 1396c"
-generated_at: "2026-03-30T02:46:04.387Z"
+generated_at: "2026-03-30T02:48:46.377Z"
 ---
 
 # § 1396c. Operation of State plans

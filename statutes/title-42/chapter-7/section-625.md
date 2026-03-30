@@ -3,9 +3,9 @@ title: "Section 625 - Limitations on authorization of appropriations"
 usc_title: 42
 usc_section: "625"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 625"
-generated_at: "2026-03-30T02:46:04.189Z"
+generated_at: "2026-03-30T02:48:46.198Z"
 ---
 
 # § 625. Limitations on authorization of appropriations

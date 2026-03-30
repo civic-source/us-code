@@ -3,9 +3,9 @@ title: "Section 77dd - Powers and duties of Corporation, generally"
 usc_title: 15
 usc_section: "77dd"
 chapter: 2
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 77dd"
-generated_at: "2026-03-30T02:43:01.614Z"
+generated_at: "2026-03-30T02:47:19.521Z"
 ---
 
 # § 77dd. Powers and duties of Corporation, generally

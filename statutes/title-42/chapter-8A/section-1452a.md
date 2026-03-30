@@ -3,9 +3,9 @@ title: "Section 1452a - Repealed. Pub. L. 91–609, title V, § 503(2) , Dec. 31
 usc_title: 42
 usc_section: "1452a"
 chapter: 8
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 1452a"
-generated_at: "2026-03-30T02:46:04.462Z"
+generated_at: "2026-03-30T02:48:46.438Z"
 ---
 
 # § 1452a. Repealed. Pub. L. 91–609, title V, § 503(2) , Dec. 31, 1970 , 84 Stat. 1785

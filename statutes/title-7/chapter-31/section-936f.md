@@ -3,9 +3,9 @@ title: "Section 936f - Substantially underserved trust areas"
 usc_title: 7
 usc_section: "936f"
 chapter: 31
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "7 U.S.C. § 936f"
-generated_at: "2026-03-30T02:42:50.701Z"
+generated_at: "2026-03-30T02:46:47.525Z"
 ---
 
 # § 936f. Substantially underserved trust areas

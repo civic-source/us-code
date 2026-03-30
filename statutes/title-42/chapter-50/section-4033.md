@@ -3,9 +3,9 @@ title: "Section 4033 - Designation of Flood Insurance Advocate"
 usc_title: 42
 usc_section: "4033"
 chapter: 50
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 4033"
-generated_at: "2026-03-30T02:46:04.594Z"
+generated_at: "2026-03-30T02:48:46.562Z"
 ---
 
 # § 4033. Designation of Flood Insurance Advocate

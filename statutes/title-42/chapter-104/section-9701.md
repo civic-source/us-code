@@ -3,9 +3,9 @@ title: "Section 9701 - Congressional findings and declaration of policy"
 usc_title: 42
 usc_section: "9701"
 chapter: 104
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 9701"
-generated_at: "2026-03-30T02:46:04.814Z"
+generated_at: "2026-03-30T02:48:46.752Z"
 ---
 
 # § 9701. Congressional findings and declaration of policy

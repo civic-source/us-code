@@ -3,9 +3,9 @@ title: "Section 8035 - Vice Chief of Naval Operations"
 usc_title: 10
 usc_section: "8035"
 chapter: 805
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 8035"
-generated_at: "2026-03-30T02:42:43.960Z"
+generated_at: "2026-03-30T02:47:08.583Z"
 ---
 
 # § 8035. Vice Chief of Naval Operations

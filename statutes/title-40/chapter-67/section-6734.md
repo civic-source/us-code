@@ -3,9 +3,9 @@ title: "Section 6734 - Ronald Reagan Building and International Trade Center"
 usc_title: 40
 usc_section: "6734"
 chapter: 67
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "40 U.S.C. § 6734"
-generated_at: "2026-03-30T02:45:39.998Z"
+generated_at: "2026-03-30T02:48:15.454Z"
 ---
 
 # § 6734. Ronald Reagan Building and International Trade Center

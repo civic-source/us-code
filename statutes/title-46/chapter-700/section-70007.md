@@ -3,9 +3,9 @@ title: "Section 70007 - Anchorage grounds"
 usc_title: 46
 usc_section: "70007"
 chapter: 700
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "46 U.S.C. § 70007"
-generated_at: "2026-03-30T02:46:10.563Z"
+generated_at: "2026-03-30T02:48:52.081Z"
 ---
 
 # § 70007. Anchorage grounds

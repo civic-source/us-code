@@ -3,9 +3,9 @@ title: "Section 1372 - Grade on retirement for physical disability: members of a
 usc_title: 10
 usc_section: "1372"
 chapter: 69
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 1372"
-generated_at: "2026-03-30T02:42:43.828Z"
+generated_at: "2026-03-30T02:47:08.467Z"
 ---
 
 # § 1372. Grade on retirement for physical disability: members of armed forces

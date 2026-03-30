@@ -3,9 +3,9 @@ title: "Section 60 - Penalty for extortion"
 usc_title: 19
 usc_section: "60"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "19 U.S.C. § 60"
-generated_at: "2026-03-30T02:43:41.572Z"
+generated_at: "2026-03-30T02:47:37.116Z"
 ---
 
 # § 60. Penalty for extortion

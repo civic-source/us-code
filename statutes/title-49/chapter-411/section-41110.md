@@ -3,9 +3,9 @@ title: "Section 41110 - Effective periods and amendments, modifications, suspens
 usc_title: 49
 usc_section: "41110"
 chapter: 411
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "49 U.S.C. § 41110"
-generated_at: "2026-03-30T02:46:14.275Z"
+generated_at: "2026-03-30T02:48:56.003Z"
 ---
 
 # § 41110. Effective periods and amendments, modifications, suspensions, and revocations of certificates

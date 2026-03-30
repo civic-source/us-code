@@ -3,9 +3,9 @@ title: "Section 844 - Rock dust and gas hazards; controls"
 usc_title: 30
 usc_section: "844"
 chapter: 22
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "30 U.S.C. § 844"
-generated_at: "2026-03-30T02:44:53.603Z"
+generated_at: "2026-03-30T02:47:56.164Z"
 ---
 
 # § 844. Rock dust and gas hazards; controls

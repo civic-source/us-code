@@ -3,9 +3,9 @@ title: "Section 1073b - Recurring reports and publication of certain data"
 usc_title: 10
 usc_section: "1073b"
 chapter: 55
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 1073b"
-generated_at: "2026-03-30T02:42:43.806Z"
+generated_at: "2026-03-30T02:47:08.448Z"
 ---
 
 # § 1073b. Recurring reports and publication of certain data

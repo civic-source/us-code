@@ -3,9 +3,9 @@ title: "Section 561 - Definitions"
 usc_title: 6
 usc_section: "561"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "6 U.S.C. § 561"
-generated_at: "2026-03-30T02:42:31.143Z"
+generated_at: "2026-03-30T02:46:41.938Z"
 ---
 
 # § 561. Definitions

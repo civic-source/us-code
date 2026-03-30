@@ -3,9 +3,9 @@ title: "Section 12501 - Grant for national resource center on workplace response
 usc_title: 34
 usc_section: "12501"
 chapter: 121
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "34 U.S.C. § 12501"
-generated_at: "2026-03-30T02:45:37.010Z"
+generated_at: "2026-03-30T02:48:10.364Z"
 ---
 
 # § 12501. Grant for national resource center on workplace responses to assist victims of domestic and sexual violence

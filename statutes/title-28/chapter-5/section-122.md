@@ -3,9 +3,9 @@ title: "Section 122 - South Dakota"
 usc_title: 28
 usc_section: "122"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "28 U.S.C. § 122"
-generated_at: "2026-03-30T02:44:47.232Z"
+generated_at: "2026-03-30T02:47:58.835Z"
 ---
 
 # § 122. South Dakota

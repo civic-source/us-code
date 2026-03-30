@@ -3,9 +3,9 @@ title: "Section 9103 - Personnel"
 usc_title: 40
 usc_section: "9103"
 chapter: 91
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "40 U.S.C. § 9103"
-generated_at: "2026-03-30T02:45:40.001Z"
+generated_at: "2026-03-30T02:48:15.457Z"
 ---
 
 # § 9103. Personnel

@@ -3,9 +3,9 @@ title: "Section 31111 - Length limitations"
 usc_title: 49
 usc_section: "31111"
 chapter: 311
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "49 U.S.C. § 31111"
-generated_at: "2026-03-30T02:46:14.253Z"
+generated_at: "2026-03-30T02:48:55.985Z"
 ---
 
 # § 31111. Length limitations

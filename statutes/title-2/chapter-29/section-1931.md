@@ -3,9 +3,9 @@ title: "Section 1931 - Additional compensation for employees with specialty assi
 usc_title: 2
 usc_section: "1931"
 chapter: 29
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 1931"
-generated_at: "2026-03-30T02:42:18.891Z"
+generated_at: "2026-03-30T02:46:39.304Z"
 ---
 
 # § 1931. Additional compensation for employees with specialty assignments and proficiencies

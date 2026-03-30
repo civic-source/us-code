@@ -3,9 +3,9 @@ title: "Section 1600j - Federal leases"
 usc_title: 43
 usc_section: "1600j"
 chapter: 32
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "43 U.S.C. § 1600j"
-generated_at: "2026-03-30T02:45:48.528Z"
+generated_at: "2026-03-30T02:48:28.934Z"
 ---
 
 # § 1600j. Federal leases

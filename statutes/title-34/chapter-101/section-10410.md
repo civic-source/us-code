@@ -3,9 +3,9 @@ title: "Section 10410 - Definitions"
 usc_title: 34
 usc_section: "10410"
 chapter: 101
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "34 U.S.C. § 10410"
-generated_at: "2026-03-30T02:45:36.979Z"
+generated_at: "2026-03-30T02:48:10.333Z"
 ---
 
 # § 10410. Definitions

@@ -3,9 +3,9 @@ title: "Section 4406 - Relationship to other payments systems"
 usc_title: 12
 usc_section: "4406"
 chapter: 45
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "12 U.S.C. § 4406"
-generated_at: "2026-03-30T02:43:29.914Z"
+generated_at: "2026-03-30T02:47:16.243Z"
 ---
 
 # § 4406. Relationship to other payments systems

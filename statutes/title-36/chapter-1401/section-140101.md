@@ -3,9 +3,9 @@ title: "Section 140101 - Organization"
 usc_title: 36
 usc_section: "140101"
 chapter: 1401
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "36 U.S.C. § 140101"
-generated_at: "2026-03-30T02:45:40.881Z"
+generated_at: "2026-03-30T02:48:16.862Z"
 ---
 
 # § 140101. Organization

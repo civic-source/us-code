@@ -3,9 +3,9 @@ title: "Section 6104 - Mansfield Fellows on detail from Government service"
 usc_title: 22
 usc_section: "6104"
 chapter: 70
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 6104"
-generated_at: "2026-03-30T02:44:42.960Z"
+generated_at: "2026-03-30T02:47:52.712Z"
 ---
 
 # § 6104. Mansfield Fellows on detail from Government service

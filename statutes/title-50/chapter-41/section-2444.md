@@ -3,9 +3,9 @@ title: "Section 2444 - Nonproliferation and national security scholarship and fe
 usc_title: 50
 usc_section: "2444"
 chapter: 41
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "50 U.S.C. § 2444"
-generated_at: "2026-03-30T02:46:16.187Z"
+generated_at: "2026-03-30T02:49:17.614Z"
 ---
 
 # § 2444. Nonproliferation and national security scholarship and fellowship program

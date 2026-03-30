@@ -3,9 +3,9 @@ title: "Section 225 - Continuing financial crimes enterprise"
 usc_title: 18
 usc_section: "225"
 chapter: 11
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "18 U.S.C. § 225"
-generated_at: "2026-03-30T02:43:43.719Z"
+generated_at: "2026-03-30T02:47:34.098Z"
 ---
 
 # § 225. Continuing financial crimes enterprise

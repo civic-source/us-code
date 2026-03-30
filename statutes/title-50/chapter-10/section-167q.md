@@ -3,9 +3,9 @@ title: "Section 167q - Federal agency helium acquisition strategy"
 usc_title: 50
 usc_section: "167q"
 chapter: 10
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "50 U.S.C. § 167q"
-generated_at: "2026-03-30T02:46:16.153Z"
+generated_at: "2026-03-30T02:49:17.579Z"
 ---
 
 # § 167q. Federal agency helium acquisition strategy

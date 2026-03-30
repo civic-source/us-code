@@ -3,9 +3,9 @@ title: "Section 562 - Timing of damage measurement in connection with swap agree
 usc_title: 11
 usc_section: "562"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "11 U.S.C. § 562"
-generated_at: "2026-03-30T02:43:09.311Z"
+generated_at: "2026-03-30T02:47:11.930Z"
 ---
 
 # § 562. Timing of damage measurement in connection with swap agreements, securities contracts, forward contracts, commodity contracts, repurchase agreements, and master netting agreements

@@ -3,9 +3,9 @@ title: "Section 1 - Integrated public alert and warning system"
 usc_title: 6
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "6 U.S.C. § 1"
-generated_at: "2026-03-30T02:42:31.127Z"
+generated_at: "2026-03-30T02:46:41.925Z"
 ---
 
 # § 321o–1. Integrated public alert and warning system

@@ -3,9 +3,9 @@ title: "Section 5012 - Repealed. Pub. L. 103–82, title III, § 346 , Sept. 21,
 usc_title: 42
 usc_section: "5012"
 chapter: 66
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 5012"
-generated_at: "2026-03-30T02:46:04.615Z"
+generated_at: "2026-03-30T02:48:46.581Z"
 ---
 
 # § 5012. Repealed. Pub. L. 103–82, title III, § 346 , Sept. 21, 1993 , 107 Stat. 905

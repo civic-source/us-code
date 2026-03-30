@@ -3,9 +3,9 @@ title: "Section 2431h - Conservation Fund"
 usc_title: 22
 usc_section: "2431h"
 chapter: 32
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 2431h"
-generated_at: "2026-03-30T02:44:42.872Z"
+generated_at: "2026-03-30T02:47:52.633Z"
 ---
 
 # § 2431h. Conservation Fund

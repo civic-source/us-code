@@ -3,9 +3,9 @@ title: "Section 1823 - Appellate jurisdiction of District Court; procedure; revi
 usc_title: 48
 usc_section: "1823"
 chapter: 17
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "48 U.S.C. § 1823"
-generated_at: "2026-03-30T02:46:08.424Z"
+generated_at: "2026-03-30T02:48:50.963Z"
 ---
 
 # § 1823. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules

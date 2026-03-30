@@ -3,9 +3,9 @@ title: "Section 8487 - Savings clause"
 usc_title: 16
 usc_section: "8487"
 chapter: 103
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 8487"
-generated_at: "2026-03-30T02:43:50.568Z"
+generated_at: "2026-03-30T02:47:42.655Z"
 ---
 
 # § 8487. Savings clause

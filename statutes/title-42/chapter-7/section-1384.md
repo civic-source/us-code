@@ -3,9 +3,9 @@ title: "Section 1384 - Omitted"
 usc_title: 42
 usc_section: "1384"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 1384"
-generated_at: "2026-03-30T02:46:04.258Z"
+generated_at: "2026-03-30T02:48:46.258Z"
 ---
 
 # § 1384. Omitted

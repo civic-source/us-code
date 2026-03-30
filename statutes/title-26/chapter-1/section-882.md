@@ -3,9 +3,9 @@ title: "Section 882 - Tax on income of foreign corporations connected with Unite
 usc_title: 26
 usc_section: "882"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 882"
-generated_at: "2026-03-30T02:45:23.077Z"
+generated_at: "2026-03-30T02:48:06.611Z"
 ---
 
 # § 882. Tax on income of foreign corporations connected with United States business

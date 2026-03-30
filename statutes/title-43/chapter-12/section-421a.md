@@ -3,9 +3,9 @@ title: "Section 421a - Construction of distribution and drainage systems by irri
 usc_title: 43
 usc_section: "421a"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "43 U.S.C. § 421a"
-generated_at: "2026-03-30T02:45:48.488Z"
+generated_at: "2026-03-30T02:48:28.898Z"
 ---
 
 # § 421a. Construction of distribution and drainage systems by irrigation districts or public agencies

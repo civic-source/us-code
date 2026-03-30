@@ -3,9 +3,9 @@ title: "Section 583a - Payment of pay and allowances of officers of Corps of Eng
 usc_title: 33
 usc_section: "583a"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "33 U.S.C. § 583a"
-generated_at: "2026-03-30T02:45:34.052Z"
+generated_at: "2026-03-30T02:48:12.779Z"
 ---
 
 # § 583a. Payment of pay and allowances of officers of Corps of Engineers from appropriation for improvements

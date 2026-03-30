@@ -3,9 +3,9 @@ title: "Section 546 - Contractor inventories"
 usc_title: 40
 usc_section: "546"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "40 U.S.C. § 546"
-generated_at: "2026-03-30T02:45:39.987Z"
+generated_at: "2026-03-30T02:48:15.442Z"
 ---
 
 # § 546. Contractor inventories

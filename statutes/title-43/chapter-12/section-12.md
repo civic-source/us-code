@@ -3,9 +3,9 @@ title: "Section 12 - San Gabriel basin demonstration project"
 usc_title: 43
 usc_section: "12"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "43 U.S.C. § 12"
-generated_at: "2026-03-30T02:45:48.482Z"
+generated_at: "2026-03-30T02:48:28.894Z"
 ---
 
 # § 390h–12. San Gabriel basin demonstration project

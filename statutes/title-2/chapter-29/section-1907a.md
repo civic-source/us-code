@@ -3,9 +3,9 @@ title: "Section 1907a - Authority to transfer amounts between salaries and gener
 usc_title: 2
 usc_section: "1907a"
 chapter: 29
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 1907a"
-generated_at: "2026-03-30T02:42:18.890Z"
+generated_at: "2026-03-30T02:46:39.303Z"
 ---
 
 # § 1907a. Authority to transfer amounts between salaries and general expenses

@@ -3,9 +3,9 @@ title: "Section 322 - Federal Government service delivery"
 usc_title: 5
 usc_section: "322"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "5 U.S.C. § 322"
-generated_at: "2026-03-30T02:42:23.295Z"
+generated_at: "2026-03-30T02:46:37.983Z"
 ---
 
 # § 322. Federal Government service delivery

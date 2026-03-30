@@ -3,9 +3,9 @@ title: "Section 1397D - Qualified zone property defined"
 usc_title: 26
 usc_section: "1397D"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 1397D"
-generated_at: "2026-03-30T02:45:23.117Z"
+generated_at: "2026-03-30T02:48:06.652Z"
 ---
 
 # § 1397D. Qualified zone property defined

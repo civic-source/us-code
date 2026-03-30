@@ -3,9 +3,9 @@ title: "Section 280A - Disallowance of certain expenses in connection with busin
 usc_title: 26
 usc_section: "280A"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 280A"
-generated_at: "2026-03-30T02:45:22.977Z"
+generated_at: "2026-03-30T02:48:06.508Z"
 ---
 
 # § 280A. Disallowance of certain expenses in connection with business use of home, rental of vacation homes, etc.

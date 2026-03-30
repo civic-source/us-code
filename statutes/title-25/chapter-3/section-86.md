@@ -3,9 +3,9 @@ title: "Section 86 - Encumbrances on lands allotted to applicants for enrollment
 usc_title: 25
 usc_section: "86"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "25 U.S.C. § 86"
-generated_at: "2026-03-30T02:43:58.323Z"
+generated_at: "2026-03-30T02:47:49.210Z"
 ---
 
 # § 86. Encumbrances on lands allotted to applicants for enrollment in Five Civilized Tribes; use of interest on tribal funds

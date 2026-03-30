@@ -3,9 +3,9 @@ title: "Section 248c - Master account and services database"
 usc_title: 12
 usc_section: "248c"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "12 U.S.C. § 248c"
-generated_at: "2026-03-30T02:43:29.779Z"
+generated_at: "2026-03-30T02:47:16.058Z"
 ---
 
 # § 248c. Master account and services database

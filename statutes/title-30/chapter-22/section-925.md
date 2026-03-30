@@ -3,9 +3,9 @@ title: "Section 925 - Procedure for the determination of claims during transitio
 usc_title: 30
 usc_section: "925"
 chapter: 22
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "30 U.S.C. § 925"
-generated_at: "2026-03-30T02:44:53.609Z"
+generated_at: "2026-03-30T02:47:56.168Z"
 ---
 
 # § 925. Procedure for the determination of claims during transition period

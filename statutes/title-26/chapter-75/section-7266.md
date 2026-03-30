@@ -3,9 +3,9 @@ title: "Section 7266 - Repealed. Pub. L. 93–490, § 3(b)(3) , Oct. 26, 1974 , 
 usc_title: 26
 usc_section: "7266"
 chapter: 75
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 7266"
-generated_at: "2026-03-30T02:45:23.238Z"
+generated_at: "2026-03-30T02:48:06.773Z"
 ---
 
 # [§ 7266. Repealed. Pub. L. 93–490, § 3(b)(3) , Oct. 26, 1974 , 88 Stat. 1467 ]

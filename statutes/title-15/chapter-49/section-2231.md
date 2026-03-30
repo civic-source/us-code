@@ -3,9 +3,9 @@ title: "Section 2231 - Cooperative agreements with Federal facilities"
 usc_title: 15
 usc_section: "2231"
 chapter: 49
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 2231"
-generated_at: "2026-03-30T02:43:01.811Z"
+generated_at: "2026-03-30T02:47:19.715Z"
 ---
 
 # § 2231. Cooperative agreements with Federal facilities

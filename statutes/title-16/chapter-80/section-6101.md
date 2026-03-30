@@ -3,9 +3,9 @@ title: "Section 6101 - Findings"
 usc_title: 16
 usc_section: "6101"
 chapter: 80
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 6101"
-generated_at: "2026-03-30T02:43:50.536Z"
+generated_at: "2026-03-30T02:47:42.624Z"
 ---
 
 # § 6101. Findings

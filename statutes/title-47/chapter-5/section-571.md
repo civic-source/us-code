@@ -3,9 +3,9 @@ title: "Section 571 - Regulatory treatment of video programming services"
 usc_title: 47
 usc_section: "571"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "47 U.S.C. § 571"
-generated_at: "2026-03-30T02:46:09.159Z"
+generated_at: "2026-03-30T02:48:50.420Z"
 ---
 
 # § 571. Regulatory treatment of video programming services

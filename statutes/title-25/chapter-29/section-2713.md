@@ -3,9 +3,9 @@ title: "Section 2713 - Civil penalties"
 usc_title: 25
 usc_section: "2713"
 chapter: 29
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "25 U.S.C. § 2713"
-generated_at: "2026-03-30T02:43:58.389Z"
+generated_at: "2026-03-30T02:47:49.272Z"
 ---
 
 # § 2713. Civil penalties

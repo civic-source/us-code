@@ -3,9 +3,9 @@ title: "Section 7917 - Financial assistance"
 usc_title: 42
 usc_section: "7917"
 chapter: 88
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 7917"
-generated_at: "2026-03-30T02:46:04.770Z"
+generated_at: "2026-03-30T02:48:46.714Z"
 ---
 
 # § 7917. Financial assistance

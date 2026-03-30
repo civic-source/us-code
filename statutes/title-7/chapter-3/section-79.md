@@ -3,9 +3,9 @@ title: "Section 79 - Official inspection"
 usc_title: 7
 usc_section: "79"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "7 U.S.C. § 79"
-generated_at: "2026-03-30T02:42:50.649Z"
+generated_at: "2026-03-30T02:46:47.468Z"
 ---
 
 # § 79. Official inspection

@@ -3,9 +3,9 @@ title: "Section 1653 - Compensation districts; judicial proceedings"
 usc_title: 42
 usc_section: "1653"
 chapter: 11
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 1653"
-generated_at: "2026-03-30T02:46:04.477Z"
+generated_at: "2026-03-30T02:48:46.452Z"
 ---
 
 # § 1653. Compensation districts; judicial proceedings

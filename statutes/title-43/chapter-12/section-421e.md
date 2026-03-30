@@ -3,9 +3,9 @@ title: "Section 421e - Municipal and industrial water supply delivery and distri
 usc_title: 43
 usc_section: "421e"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "43 U.S.C. § 421e"
-generated_at: "2026-03-30T02:45:48.488Z"
+generated_at: "2026-03-30T02:48:28.898Z"
 ---
 
 # § 421e. Municipal and industrial water supply delivery and distribution; allocation of loan funds; loan repayment contract requirements; rate of interest

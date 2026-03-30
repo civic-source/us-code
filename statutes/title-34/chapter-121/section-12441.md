@@ -3,9 +3,9 @@ title: "Section 12441 - Grants to protect the privacy and confidentiality of vic
 usc_title: 34
 usc_section: "12441"
 chapter: 121
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "34 U.S.C. § 12441"
-generated_at: "2026-03-30T02:45:37.008Z"
+generated_at: "2026-03-30T02:48:10.361Z"
 ---
 
 # § 12441. Grants to protect the privacy and confidentiality of victims of domestic violence, dating violence, sexual assault, and stalking

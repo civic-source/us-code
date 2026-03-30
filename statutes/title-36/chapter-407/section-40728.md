@@ -3,9 +3,9 @@ title: "Section 40728 - Transfer of firearms, ammunition, and parts"
 usc_title: 36
 usc_section: "40728"
 chapter: 407
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "36 U.S.C. § 40728"
-generated_at: "2026-03-30T02:45:40.874Z"
+generated_at: "2026-03-30T02:48:16.856Z"
 ---
 
 # § 40728. Transfer of firearms, ammunition, and parts

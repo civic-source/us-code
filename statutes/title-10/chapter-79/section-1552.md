@@ -3,9 +3,9 @@ title: "Section 1552 - Correction of military records: claims incident thereto"
 usc_title: 10
 usc_section: "1552"
 chapter: 79
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 1552"
-generated_at: "2026-03-30T02:42:43.842Z"
+generated_at: "2026-03-30T02:47:08.479Z"
 ---
 
 # § 1552. Correction of military records: claims incident thereto

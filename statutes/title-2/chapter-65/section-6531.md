@@ -3,9 +3,9 @@ title: "Section 6531 - Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3
 usc_title: 2
 usc_section: "6531"
 chapter: 65
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 6531"
-generated_at: "2026-03-30T02:42:18.917Z"
+generated_at: "2026-03-30T02:46:39.326Z"
 ---
 
 # § 6531. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H) , Dec. 20, 2019 , 133 Stat. 2776

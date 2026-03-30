@@ -3,9 +3,9 @@ title: "Section 2036c - Annual State report on verification of SNAP participatio
 usc_title: 7
 usc_section: "2036c"
 chapter: 51
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "7 U.S.C. § 2036c"
-generated_at: "2026-03-30T02:42:50.796Z"
+generated_at: "2026-03-30T02:46:47.623Z"
 ---
 
 # § 2036c. Annual State report on verification of SNAP participation

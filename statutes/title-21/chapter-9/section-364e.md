@@ -3,9 +3,9 @@ title: "Section 364e - Labeling"
 usc_title: 21
 usc_section: "364e"
 chapter: 9
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "21 U.S.C. § 364e"
-generated_at: "2026-03-30T02:43:56.730Z"
+generated_at: "2026-03-30T02:47:47.985Z"
 ---
 
 # § 364e. Labeling

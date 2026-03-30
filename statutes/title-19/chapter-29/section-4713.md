@@ -3,9 +3,9 @@ title: "Section 4713 - Monitoring actions"
 usc_title: 19
 usc_section: "4713"
 chapter: 29
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "19 U.S.C. § 4713"
-generated_at: "2026-03-30T02:43:41.684Z"
+generated_at: "2026-03-30T02:47:37.215Z"
 ---
 
 # § 4713. Monitoring actions

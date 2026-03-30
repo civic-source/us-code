@@ -3,9 +3,9 @@ title: "Section 1531 - Buying Power Maintenance accounts for International Trade
 usc_title: 15
 usc_section: "1531"
 chapter: 40
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 1531"
-generated_at: "2026-03-30T02:43:01.763Z"
+generated_at: "2026-03-30T02:47:19.668Z"
 ---
 
 # § 1531. Buying Power Maintenance accounts for International Trade Administration, Export Administration, and United States Travel and Tourism Administration

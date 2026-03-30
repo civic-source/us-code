@@ -3,9 +3,9 @@ title: "Section 3792 - Bases of tolls"
 usc_title: 22
 usc_section: "3792"
 chapter: 51
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 3792"
-generated_at: "2026-03-30T02:44:42.919Z"
+generated_at: "2026-03-30T02:47:52.674Z"
 ---
 
 # § 3792. Bases of tolls

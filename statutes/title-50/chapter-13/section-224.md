@@ -3,9 +3,9 @@ title: "Section 224 - Refusing clearance to vessels with suspected cargoes; forf
 usc_title: 50
 usc_section: "224"
 chapter: 13
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "50 U.S.C. § 224"
-generated_at: "2026-03-30T02:46:16.154Z"
+generated_at: "2026-03-30T02:49:17.582Z"
 ---
 
 # § 224. Refusing clearance to vessels with suspected cargoes; forfeiture for departing without clearance

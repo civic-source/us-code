@@ -3,9 +3,9 @@ title: "Section 18312 - Goals and objectives"
 usc_title: 42
 usc_section: "18312"
 chapter: 159
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 18312"
-generated_at: "2026-03-30T02:46:05.013Z"
+generated_at: "2026-03-30T02:48:46.926Z"
 ---
 
 # § 18312. Goals and objectives

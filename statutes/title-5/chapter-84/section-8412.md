@@ -3,9 +3,9 @@ title: "Section 8412 - Immediate retirement"
 usc_title: 5
 usc_section: "8412"
 chapter: 84
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "5 U.S.C. § 8412"
-generated_at: "2026-03-30T02:42:23.377Z"
+generated_at: "2026-03-30T02:46:38.055Z"
 ---
 
 # § 8412. Immediate retirement

@@ -3,9 +3,9 @@ title: "Section 478 - Egress or ingress of actual settlers; prospecting"
 usc_title: 16
 usc_section: "478"
 chapter: 2
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 478"
-generated_at: "2026-03-30T02:43:50.330Z"
+generated_at: "2026-03-30T02:47:42.422Z"
 ---
 
 # § 478. Egress or ingress of actual settlers; prospecting

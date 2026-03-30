@@ -3,9 +3,9 @@ title: "Section 1062 - Gain from the sale or exchange of qualified farmland prop
 usc_title: 26
 usc_section: "1062"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 1062"
-generated_at: "2026-03-30T02:45:23.098Z"
+generated_at: "2026-03-30T02:48:06.632Z"
 ---
 
 # § 1062. Gain from the sale or exchange of qualified farmland property to qualified farmers

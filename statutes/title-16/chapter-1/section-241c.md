@@ -3,9 +3,9 @@ title: "Section 241c - Additional extension of lands"
 usc_title: 16
 usc_section: "241c"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 241c"
-generated_at: "2026-03-30T02:43:50.213Z"
+generated_at: "2026-03-30T02:47:42.303Z"
 ---
 
 # § 241c. Additional extension of lands

@@ -3,9 +3,9 @@ title: "Section 430m - Administration"
 usc_title: 16
 usc_section: "430m"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 430m"
-generated_at: "2026-03-30T02:43:50.267Z"
+generated_at: "2026-03-30T02:47:42.359Z"
 ---
 
 # § 430m. Administration

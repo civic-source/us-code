@@ -3,9 +3,9 @@ title: "Section 311 - Congressional notification requirements"
 usc_title: 49
 usc_section: "311"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "49 U.S.C. § 311"
-generated_at: "2026-03-30T02:46:14.175Z"
+generated_at: "2026-03-30T02:48:55.910Z"
 ---
 
 # § 311. Congressional notification requirements

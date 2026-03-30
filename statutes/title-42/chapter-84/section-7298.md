@@ -3,9 +3,9 @@ title: "Section 7298 - Presidential authority"
 usc_title: 42
 usc_section: "7298"
 chapter: 84
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 7298"
-generated_at: "2026-03-30T02:46:04.712Z"
+generated_at: "2026-03-30T02:48:46.665Z"
 ---
 
 # § 7298. Presidential authority

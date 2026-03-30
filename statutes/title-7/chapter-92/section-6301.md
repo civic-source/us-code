@@ -3,9 +3,9 @@ title: "Section 6301 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6301"
 chapter: 92
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "7 U.S.C. § 6301"
-generated_at: "2026-03-30T02:42:50.855Z"
+generated_at: "2026-03-30T02:46:47.686Z"
 ---
 
 # § 6301. Findings and declaration of policy

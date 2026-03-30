@@ -3,9 +3,9 @@ title: "Section 16458 - Enforcement"
 usc_title: 42
 usc_section: "16458"
 chapter: 149
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 16458"
-generated_at: "2026-03-30T02:46:04.972Z"
+generated_at: "2026-03-30T02:48:46.890Z"
 ---
 
 # § 16458. Enforcement

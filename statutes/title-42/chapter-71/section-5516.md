@@ -3,9 +3,9 @@ title: "Section 5516 - Transfer of functions"
 usc_title: 42
 usc_section: "5516"
 chapter: 71
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 5516"
-generated_at: "2026-03-30T02:46:04.643Z"
+generated_at: "2026-03-30T02:48:46.606Z"
 ---
 
 # § 5516. Transfer of functions

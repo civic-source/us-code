@@ -3,9 +3,9 @@ title: "Section 81m - Permission to others to use zone"
 usc_title: 19
 usc_section: "81m"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "19 U.S.C. § 81m"
-generated_at: "2026-03-30T02:43:41.573Z"
+generated_at: "2026-03-30T02:47:37.116Z"
 ---
 
 # § 81m. Permission to others to use zone

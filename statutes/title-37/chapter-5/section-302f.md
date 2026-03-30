@@ -3,9 +3,9 @@ title: "Section 302f - Special pay: reserve, recalled, or retained health care o
 usc_title: 37
 usc_section: "302f"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "37 U.S.C. § 302f"
-generated_at: "2026-03-30T02:45:39.350Z"
+generated_at: "2026-03-30T02:48:15.970Z"
 ---
 
 # § 302f. Special pay: reserve, recalled, or retained health care officers

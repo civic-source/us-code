@@ -3,9 +3,9 @@ title: "Section 547 - Patent to desert-land entryman"
 usc_title: 43
 usc_section: "547"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "43 U.S.C. § 547"
-generated_at: "2026-03-30T02:45:48.496Z"
+generated_at: "2026-03-30T02:48:28.906Z"
 ---
 
 # § 547. Patent to desert-land entryman

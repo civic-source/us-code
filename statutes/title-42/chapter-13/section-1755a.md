@@ -3,9 +3,9 @@ title: "Section 1755a - Whole grain products"
 usc_title: 42
 usc_section: "1755a"
 chapter: 13
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 1755a"
-generated_at: "2026-03-30T02:46:04.479Z"
+generated_at: "2026-03-30T02:48:46.454Z"
 ---
 
 # § 1755a. Whole grain products

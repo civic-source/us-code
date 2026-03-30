@@ -3,9 +3,9 @@ title: "Section 3455 - Eligibility; terms and conditions"
 usc_title: 16
 usc_section: "3455"
 chapter: 54
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 3455"
-generated_at: "2026-03-30T02:43:50.500Z"
+generated_at: "2026-03-30T02:47:42.589Z"
 ---
 
 # § 3455. Eligibility; terms and conditions

@@ -3,9 +3,9 @@ title: "Section 2225d - Availability of Department of Agriculture funds for temp
 usc_title: 7
 usc_section: "2225d"
 chapter: 55
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "7 U.S.C. § 2225d"
-generated_at: "2026-03-30T02:42:50.803Z"
+generated_at: "2026-03-30T02:46:47.630Z"
 ---
 
 # § 2225d. Availability of Department of Agriculture funds for temporary employment

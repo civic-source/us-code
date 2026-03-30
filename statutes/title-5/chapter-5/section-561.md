@@ -3,9 +3,9 @@ title: "Section 561 - Purpose"
 usc_title: 5
 usc_section: "561"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "5 U.S.C. § 561"
-generated_at: "2026-03-30T02:42:23.307Z"
+generated_at: "2026-03-30T02:46:37.993Z"
 ---
 
 # § 561. Purpose

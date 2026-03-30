@@ -3,9 +3,9 @@ title: "Section 5363 - Prohibition on acceptance of any financial instrument for
 usc_title: 31
 usc_section: "5363"
 chapter: 53
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "31 U.S.C. § 5363"
-generated_at: "2026-03-30T02:45:32.617Z"
+generated_at: "2026-03-30T02:48:11.399Z"
 ---
 
 # § 5363. Prohibition on acceptance of any financial instrument for unlawful Internet gambling

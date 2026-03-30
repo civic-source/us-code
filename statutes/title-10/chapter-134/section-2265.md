@@ -3,9 +3,9 @@ title: "Section 2265 - Access to broadband internet access service for certain m
 usc_title: 10
 usc_section: "2265"
 chapter: 134
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 2265"
-generated_at: "2026-03-30T02:42:43.869Z"
+generated_at: "2026-03-30T02:47:08.504Z"
 ---
 
 # § 2265. Access to broadband internet access service for certain members of the armed forces

@@ -3,9 +3,9 @@ title: "Section 3106 - Nonbanking activities of foreign banks"
 usc_title: 12
 usc_section: "3106"
 chapter: 32
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "12 U.S.C. § 3106"
-generated_at: "2026-03-30T02:43:29.900Z"
+generated_at: "2026-03-30T02:47:16.224Z"
 ---
 
 # § 3106. Nonbanking activities of foreign banks

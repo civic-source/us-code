@@ -3,9 +3,9 @@ title: "Section 70105 - Transportation worker identification credentials"
 usc_title: 46
 usc_section: "70105"
 chapter: 701
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "46 U.S.C. § 70105"
-generated_at: "2026-03-30T02:46:10.565Z"
+generated_at: "2026-03-30T02:48:52.082Z"
 ---
 
 # § 70105. Transportation worker identification credentials

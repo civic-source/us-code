@@ -3,9 +3,9 @@ title: "Section 408d - Addition of lands purchased within boundaries for conserv
 usc_title: 16
 usc_section: "408d"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 408d"
-generated_at: "2026-03-30T02:43:50.227Z"
+generated_at: "2026-03-30T02:47:42.318Z"
 ---
 
 # § 408d. Addition of lands purchased within boundaries for conservation or forestation purposes

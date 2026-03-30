@@ -3,9 +3,9 @@ title: "Section 416 - Special rules for top-heavy plans"
 usc_title: 26
 usc_section: "416"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 416"
-generated_at: "2026-03-30T02:45:23.012Z"
+generated_at: "2026-03-30T02:48:06.544Z"
 ---
 
 # § 416. Special rules for top-heavy plans

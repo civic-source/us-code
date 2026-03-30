@@ -3,9 +3,9 @@ title: "Section 405 - Sale of allotment of noncompetent Indian"
 usc_title: 25
 usc_section: "405"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "25 U.S.C. § 405"
-generated_at: "2026-03-30T02:43:58.334Z"
+generated_at: "2026-03-30T02:47:49.223Z"
 ---
 
 # § 405. Sale of allotment of noncompetent Indian

@@ -3,9 +3,9 @@ title: "Section 151103 - Membership"
 usc_title: 36
 usc_section: "151103"
 chapter: 1511
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "36 U.S.C. § 151103"
-generated_at: "2026-03-30T02:45:40.883Z"
+generated_at: "2026-03-30T02:48:16.864Z"
 ---
 
 # § 151103. Membership

@@ -3,9 +3,9 @@ title: "Section 133 - Repealed. Pub. L. 104–188, title I, § 1602(a) , Aug. 20
 usc_title: 26
 usc_section: "133"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 133"
-generated_at: "2026-03-30T02:45:22.937Z"
+generated_at: "2026-03-30T02:48:06.467Z"
 ---
 
 # [§ 133. Repealed. Pub. L. 104–188, title I, § 1602(a) , Aug. 20, 1996 , 110 Stat. 1833 ]

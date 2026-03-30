@@ -3,9 +3,9 @@ title: "Section 7652 - Rifles and ammunition for target practice: educational in
 usc_title: 10
 usc_section: "7652"
 chapter: 771
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 7652"
-generated_at: "2026-03-30T02:42:43.955Z"
+generated_at: "2026-03-30T02:47:08.581Z"
 ---
 
 # § 7652. Rifles and ammunition for target practice: educational institutions having corps of cadets

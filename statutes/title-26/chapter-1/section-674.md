@@ -3,9 +3,9 @@ title: "Section 674 - Power to control beneficial enjoyment"
 usc_title: 26
 usc_section: "674"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 674"
-generated_at: "2026-03-30T02:45:23.055Z"
+generated_at: "2026-03-30T02:48:06.589Z"
 ---
 
 # § 674. Power to control beneficial enjoyment

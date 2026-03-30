@@ -3,9 +3,9 @@ title: "Section 180 - Discharge of injunction upon certification of results of e
 usc_title: 29
 usc_section: "180"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "29 U.S.C. § 180"
-generated_at: "2026-03-30T02:45:08.754Z"
+generated_at: "2026-03-30T02:47:57.831Z"
 ---
 
 # § 180. Discharge of injunction upon certification of results of election or settlement; report to Congress

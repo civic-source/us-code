@@ -3,9 +3,9 @@ title: "Section 170105 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "170105"
 chapter: 1701
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "36 U.S.C. § 170105"
-generated_at: "2026-03-30T02:45:40.889Z"
+generated_at: "2026-03-30T02:48:16.870Z"
 ---
 
 # § 170105. Exclusive right to name, seals, emblems, and badges

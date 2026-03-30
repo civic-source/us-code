@@ -3,9 +3,9 @@ title: "Section 3357a - Statement of policy on Taiwan"
 usc_title: 22
 usc_section: "3357a"
 chapter: 48
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 3357a"
-generated_at: "2026-03-30T02:44:42.909Z"
+generated_at: "2026-03-30T02:47:52.666Z"
 ---
 
 # § 3357a. Statement of policy on Taiwan

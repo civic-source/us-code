@@ -3,9 +3,9 @@ title: "Section 3005 - Technical assistance and data collection support"
 usc_title: 29
 usc_section: "3005"
 chapter: 31
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "29 U.S.C. § 3005"
-generated_at: "2026-03-30T02:45:08.890Z"
+generated_at: "2026-03-30T02:47:57.919Z"
 ---
 
 # § 3005. Technical assistance and data collection support

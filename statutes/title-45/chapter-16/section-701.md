@@ -3,9 +3,9 @@ title: "Section 701 - Congressional declaration of policy"
 usc_title: 45
 usc_section: "701"
 chapter: 16
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "45 U.S.C. § 701"
-generated_at: "2026-03-30T02:45:46.520Z"
+generated_at: "2026-03-30T02:48:26.953Z"
 ---
 
 # § 701. Congressional declaration of policy

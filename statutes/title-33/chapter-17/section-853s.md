@@ -3,9 +3,9 @@ title: "Section 853s - Repealed. Pub. L. 88–431, § 1(c)(2) , Aug. 14, 1964 , 
 usc_title: 33
 usc_section: "853s"
 chapter: 17
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "33 U.S.C. § 853s"
-generated_at: "2026-03-30T02:45:34.063Z"
+generated_at: "2026-03-30T02:48:12.791Z"
 ---
 
 # § 853s. Repealed. Pub. L. 88–431, § 1(c)(2) , Aug. 14, 1964 , 78 Stat. 440

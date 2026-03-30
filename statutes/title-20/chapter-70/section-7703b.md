@@ -3,9 +3,9 @@ title: "Section 7703b - Assistance to local educational agencies that benefit de
 usc_title: 20
 usc_section: "7703b"
 chapter: 70
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "20 U.S.C. § 7703b"
-generated_at: "2026-03-30T02:43:39.324Z"
+generated_at: "2026-03-30T02:47:29.695Z"
 ---
 
 # § 7703b. Assistance to local educational agencies that benefit dependents of members of the Armed Forces and Department of Defense civilian employees

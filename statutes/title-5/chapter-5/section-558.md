@@ -3,9 +3,9 @@ title: "Section 558 - Imposition of sanctions; determination of applications for
 usc_title: 5
 usc_section: "558"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "5 U.S.C. § 558"
-generated_at: "2026-03-30T02:42:23.306Z"
+generated_at: "2026-03-30T02:46:37.993Z"
 ---
 
 # § 558. Imposition of sanctions; determination of applications for licenses; suspension, revocation, and expiration of licenses

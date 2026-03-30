@@ -3,9 +3,9 @@ title: "Section 303 - Payments to States and certain territories; computation of
 usc_title: 42
 usc_section: "303"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 303"
-generated_at: "2026-03-30T02:46:04.157Z"
+generated_at: "2026-03-30T02:48:46.170Z"
 ---
 
 # § 303. Payments to States and certain territories; computation of amount; eligibility of State to receive payment

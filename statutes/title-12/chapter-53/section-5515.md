@@ -3,9 +3,9 @@ title: "Section 5515 - Supervision of very large banks, savings associations, an
 usc_title: 12
 usc_section: "5515"
 chapter: 53
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "12 U.S.C. § 5515"
-generated_at: "2026-03-30T02:43:29.951Z"
+generated_at: "2026-03-30T02:47:16.293Z"
 ---
 
 # § 5515. Supervision of very large banks, savings associations, and credit unions

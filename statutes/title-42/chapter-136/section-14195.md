@@ -3,9 +3,9 @@ title: "Section 14195 - Omitted"
 usc_title: 42
 usc_section: "14195"
 chapter: 136
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 14195"
-generated_at: "2026-03-30T02:46:04.925Z"
+generated_at: "2026-03-30T02:48:46.849Z"
 ---
 
 # § 14195. Omitted

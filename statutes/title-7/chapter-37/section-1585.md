@@ -3,9 +3,9 @@ title: "Section 1585 - Certain seeds not adapted for general agricultural use"
 usc_title: 7
 usc_section: "1585"
 chapter: 37
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "7 U.S.C. § 1585"
-generated_at: "2026-03-30T02:42:50.739Z"
+generated_at: "2026-03-30T02:46:47.564Z"
 ---
 
 # § 1585. Certain seeds not adapted for general agricultural use

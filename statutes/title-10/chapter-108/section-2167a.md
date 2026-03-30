@@ -3,9 +3,9 @@ title: "Section 2167a - Defense Cyber Investigations Training Academy: admission
 usc_title: 10
 usc_section: "2167a"
 chapter: 108
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 2167a"
-generated_at: "2026-03-30T02:42:43.862Z"
+generated_at: "2026-03-30T02:47:08.497Z"
 ---
 
 # § 2167a. Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction

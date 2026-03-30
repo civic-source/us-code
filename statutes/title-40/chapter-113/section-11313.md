@@ -3,9 +3,9 @@ title: "Section 11313 - Performance and results-based management"
 usc_title: 40
 usc_section: "11313"
 chapter: 113
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "40 U.S.C. § 11313"
-generated_at: "2026-03-30T02:45:40.001Z"
+generated_at: "2026-03-30T02:48:15.458Z"
 ---
 
 # § 11313. Performance and results-based management

@@ -3,9 +3,9 @@ title: "Section 288 - Office of Senate Legal Counsel"
 usc_title: 2
 usc_section: "288"
 chapter: 9
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "2 U.S.C. § 288"
-generated_at: "2026-03-30T02:42:18.850Z"
+generated_at: "2026-03-30T02:46:39.269Z"
 ---
 
 # § 288. Office of Senate Legal Counsel

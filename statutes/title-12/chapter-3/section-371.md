@@ -3,9 +3,9 @@ title: "Section 371 - Real estate loans"
 usc_title: 12
 usc_section: "371"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "12 U.S.C. § 371"
-generated_at: "2026-03-30T02:43:29.784Z"
+generated_at: "2026-03-30T02:47:16.062Z"
 ---
 
 # § 371. Real estate loans

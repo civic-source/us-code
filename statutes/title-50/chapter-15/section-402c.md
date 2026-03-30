@@ -3,9 +3,9 @@ title: "Section 402c - Transferred"
 usc_title: 50
 usc_section: "402c"
 chapter: 15
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "50 U.S.C. § 402c"
-generated_at: "2026-03-30T02:46:16.154Z"
+generated_at: "2026-03-30T02:49:17.583Z"
 ---
 
 # § 402c. Transferred

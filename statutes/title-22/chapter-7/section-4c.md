@@ -3,9 +3,9 @@ title: "Section 4c - Initiation of discussions to facilitate debt-for-developmen
 usc_title: 22
 usc_section: "4c"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 4c"
-generated_at: "2026-03-30T02:44:42.782Z"
+generated_at: "2026-03-30T02:47:52.552Z"
 ---
 
 # § 262p–4c. Initiation of discussions to facilitate debt-for-development swaps for human welfare and environmental conservation

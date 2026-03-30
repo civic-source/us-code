@@ -3,9 +3,9 @@ title: "Section 4 - Water gauges on Mississippi River and tributaries"
 usc_title: 33
 usc_section: "4"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "33 U.S.C. § 4"
-generated_at: "2026-03-30T02:45:34.033Z"
+generated_at: "2026-03-30T02:48:12.760Z"
 ---
 
 # § 4. Water gauges on Mississippi River and tributaries

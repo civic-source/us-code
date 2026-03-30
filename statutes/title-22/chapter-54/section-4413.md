@@ -3,9 +3,9 @@ title: "Section 4413 - Eligibility of the Endowment for grants"
 usc_title: 22
 usc_section: "4413"
 chapter: 54
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 4413"
-generated_at: "2026-03-30T02:44:42.941Z"
+generated_at: "2026-03-30T02:47:52.695Z"
 ---
 
 # § 4413. Eligibility of the Endowment for grants

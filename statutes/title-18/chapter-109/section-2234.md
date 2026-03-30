@@ -3,9 +3,9 @@ title: "Section 2234 - Authority exceeded in executing warrant"
 usc_title: 18
 usc_section: "2234"
 chapter: 109
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "18 U.S.C. § 2234"
-generated_at: "2026-03-30T02:43:43.760Z"
+generated_at: "2026-03-30T02:47:34.136Z"
 ---
 
 # § 2234. Authority exceeded in executing warrant

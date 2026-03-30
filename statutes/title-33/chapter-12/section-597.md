@@ -3,9 +3,9 @@ title: "Section 597 - Acquisition of lands for water resource development projec
 usc_title: 33
 usc_section: "597"
 chapter: 12
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "33 U.S.C. § 597"
-generated_at: "2026-03-30T02:45:34.052Z"
+generated_at: "2026-03-30T02:48:12.779Z"
 ---
 
 # § 597. Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings; regulations

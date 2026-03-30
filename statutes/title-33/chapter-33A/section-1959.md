@@ -3,9 +3,9 @@ title: "Section 1959 - Prioritization of marine debris in existing innovation an
 usc_title: 33
 usc_section: "1959"
 chapter: 33
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "33 U.S.C. § 1959"
-generated_at: "2026-03-30T02:45:34.111Z"
+generated_at: "2026-03-30T02:48:12.843Z"
 ---
 
 # § 1959. Prioritization of marine debris in existing innovation and entrepreneurship programs

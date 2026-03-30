@@ -3,9 +3,9 @@ title: "Section 310 - Special pay: duty subject to hostile fire or imminent dang
 usc_title: 37
 usc_section: "310"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "37 U.S.C. § 310"
-generated_at: "2026-03-30T02:45:39.352Z"
+generated_at: "2026-03-30T02:48:15.972Z"
 ---
 
 # § 310. Special pay: duty subject to hostile fire or imminent danger

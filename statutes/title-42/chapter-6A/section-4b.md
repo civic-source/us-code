@@ -3,9 +3,9 @@ title: "Section 4b - Expanding access to unified care"
 usc_title: 42
 usc_section: "4b"
 chapter: 6
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 4b"
-generated_at: "2026-03-30T02:46:04.000Z"
+generated_at: "2026-03-30T02:48:46.030Z"
 ---
 
 # § 280g–4b. Expanding access to unified care

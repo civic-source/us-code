@@ -3,9 +3,9 @@ title: "Section 321j - Procurement of security countermeasures for Strategic Nat
 usc_title: 6
 usc_section: "321j"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "6 U.S.C. § 321j"
-generated_at: "2026-03-30T02:42:31.126Z"
+generated_at: "2026-03-30T02:46:41.924Z"
 ---
 
 # § 321j. Procurement of security countermeasures for Strategic National Stockpile

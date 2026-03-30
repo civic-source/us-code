@@ -3,9 +3,9 @@ title: "Section 670e - Applicability to other laws; national forest lands"
 usc_title: 16
 usc_section: "670e"
 chapter: 5
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 670e"
-generated_at: "2026-03-30T02:43:50.368Z"
+generated_at: "2026-03-30T02:47:42.461Z"
 ---
 
 # § 670e. Applicability to other laws; national forest lands

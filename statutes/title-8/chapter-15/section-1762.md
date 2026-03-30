@@ -3,9 +3,9 @@ title: "Section 1762 - Review of institutions and other entities authorized to e
 usc_title: 8
 usc_section: "1762"
 chapter: 15
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "8 U.S.C. § 1762"
-generated_at: "2026-03-30T02:42:32.108Z"
+generated_at: "2026-03-30T02:46:42.861Z"
 ---
 
 # § 1762. Review of institutions and other entities authorized to enroll or sponsor certain nonimmigrants

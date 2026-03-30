@@ -3,9 +3,9 @@ title: "Section 410j - Acquisition of land, water, and interests therein; consen
 usc_title: 16
 usc_section: "410j"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 410j"
-generated_at: "2026-03-30T02:43:50.229Z"
+generated_at: "2026-03-30T02:47:42.320Z"
 ---
 
 # § 410j. Acquisition of land, water, and interests therein; consent of owner; reservations

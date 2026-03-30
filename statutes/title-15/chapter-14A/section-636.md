@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T02:43:01.689Z"
+generated_at: "2026-03-30T02:47:19.594Z"
 ---
 
 # § 636. Additional powers
@@ -1073,7 +1073,7 @@ generated_at: "2026-03-30T02:43:01.689Z"
     - **(B)** the term “microloan” means a short-term, fixed rate loan of not more than $50,000, made by an intermediary to a startup, newly established, or growing small business concern;
     - **(C)** the term “rural area” means any political subdivision or unincorporated area—
       - **(i)** in a nonmetropolitan county (as defined by the Secretary of Agriculture) or its equivalent thereof; or
-      - **(ii)** in a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural. 23 23 So in original. The period probably should be “; and”.
+      - **(ii)** in a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural; and
     - **(D)** the term “economically distressed area”, as used in paragraph (4), means a county or equivalent division of local government of a State in which the small business concern is located, in which, according to the most recent data available from the Bureau of the Census, Department of Commerce, not less than 40 percent of residents have an annual income that is at or below the poverty level.
   - **(12)** In lieu of making direct loans to intermediaries as authorized in paragraph (1)(B), during fiscal years 1998 through 2000, the Administration may, on a pilot program basis, participate on a deferred basis of not less than 90 percent and not more than 100 percent on loans made to intermediaries by a for-profit or nonprofit entity or by alliances of such entities, subject to the following conditions:
     - **(A)** In carrying out this paragraph, the Administration shall not participate in providing financing on a deferred basis to more than 10 intermediaries in urban areas or more than 10 intermediaries in rural areas.

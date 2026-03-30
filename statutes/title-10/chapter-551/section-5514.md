@@ -3,9 +3,9 @@ title: "Section 5514 - Acquisition accountability on the missile defense system"
 usc_title: 10
 usc_section: "5514"
 chapter: 551
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 5514"
-generated_at: "2026-03-30T02:42:43.947Z"
+generated_at: "2026-03-30T02:47:08.572Z"
 ---
 
 # § 5514. Acquisition accountability on the missile defense system

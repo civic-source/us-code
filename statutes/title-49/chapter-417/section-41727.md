@@ -3,9 +3,9 @@ title: "Section 41727 - Passenger Rights 1 1 So in original. Probably should not
 usc_title: 49
 usc_section: "41727"
 chapter: 417
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "49 U.S.C. § 41727"
-generated_at: "2026-03-30T02:46:14.279Z"
+generated_at: "2026-03-30T02:48:56.007Z"
 ---
 
 # § 41727. Passenger Rights 1 1 So in original. Probably should not be capitalized.

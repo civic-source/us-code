@@ -3,9 +3,9 @@ title: "Section 331 - Evaluation of projects within an operational right-of-way"
 usc_title: 23
 usc_section: "331"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "23 U.S.C. § 331"
-generated_at: "2026-03-30T02:43:54.439Z"
+generated_at: "2026-03-30T02:47:46.569Z"
 ---
 
 # § 331. Evaluation of projects within an operational right-of-way

@@ -3,9 +3,9 @@ title: "Section 9085 - Office of the Chief of Space Operations: general duties"
 usc_title: 10
 usc_section: "9085"
 chapter: 908
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 9085"
-generated_at: "2026-03-30T02:42:43.983Z"
+generated_at: "2026-03-30T02:47:08.603Z"
 ---
 
 # § 9085. Office of the Chief of Space Operations: general duties

@@ -3,9 +3,9 @@ title: "Section 218d - Breastfeeding accommodations in the workplace"
 usc_title: 29
 usc_section: "218d"
 chapter: 8
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "29 U.S.C. § 218d"
-generated_at: "2026-03-30T02:45:08.758Z"
+generated_at: "2026-03-30T02:47:57.835Z"
 ---
 
 # § 218d. Breastfeeding accommodations in the workplace

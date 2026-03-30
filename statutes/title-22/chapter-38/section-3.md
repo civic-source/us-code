@@ -3,9 +3,9 @@ title: "Section 3 - Responsiveness to Congressional Research Service inquiries a
 usc_title: 22
 usc_section: "3"
 chapter: 38
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-03-30T02:44:42.886Z"
+generated_at: "2026-03-30T02:47:52.645Z"
 ---
 
 # § 2680–3. Responsiveness to Congressional Research Service inquiries and Congressional Budget Office inquiries

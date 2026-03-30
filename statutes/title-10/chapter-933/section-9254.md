@@ -3,9 +3,9 @@ title: "Section 9254 - Authority to designate certain separated members of the A
 usc_title: 10
 usc_section: "9254"
 chapter: 933
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 9254"
-generated_at: "2026-03-30T02:42:43.983Z"
+generated_at: "2026-03-30T02:47:08.604Z"
 ---
 
 # § 9254. Authority to designate certain separated members of the Air Force as honorary separated members of the Space Force

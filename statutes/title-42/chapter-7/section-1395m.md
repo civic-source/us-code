@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T02:46:04.276Z"
+generated_at: "2026-03-30T02:48:46.275Z"
 ---
 
 # § 1395m. Special payment rules for particular items and services

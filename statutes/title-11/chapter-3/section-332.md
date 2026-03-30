@@ -3,9 +3,9 @@ title: "Section 332 - Consumer privacy ombudsman"
 usc_title: 11
 usc_section: "332"
 chapter: 3
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "11 U.S.C. § 332"
-generated_at: "2026-03-30T02:43:09.298Z"
+generated_at: "2026-03-30T02:47:11.918Z"
 ---
 
 # § 332. Consumer privacy ombudsman

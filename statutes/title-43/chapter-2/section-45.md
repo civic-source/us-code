@@ -3,9 +3,9 @@ title: "Section 45 - Production and sale of copies of photographs and records; d
 usc_title: 43
 usc_section: "45"
 chapter: 2
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "43 U.S.C. § 45"
-generated_at: "2026-03-30T02:45:48.472Z"
+generated_at: "2026-03-30T02:48:28.884Z"
 ---
 
 # § 45. Production and sale of copies of photographs and records; disposition of receipts

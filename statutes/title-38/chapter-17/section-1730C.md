@@ -3,9 +3,9 @@ title: "Section 1730C - Licensure of health care professionals providing treatme
 usc_title: 38
 usc_section: "1730C"
 chapter: 17
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "38 U.S.C. § 1730C"
-generated_at: "2026-03-30T02:45:44.021Z"
+generated_at: "2026-03-30T02:48:19.015Z"
 ---
 
 # § 1730C. Licensure of health care professionals providing treatment via telemedicine

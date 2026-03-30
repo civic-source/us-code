@@ -3,9 +3,9 @@ title: "Section 2425 - Use of interstate facilities to transmit information abou
 usc_title: 18
 usc_section: "2425"
 chapter: 117
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "18 U.S.C. § 2425"
-generated_at: "2026-03-30T02:43:43.772Z"
+generated_at: "2026-03-30T02:47:34.147Z"
 ---
 
 # § 2425. Use of interstate facilities to transmit information about a minor

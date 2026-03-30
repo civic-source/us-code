@@ -3,9 +3,9 @@ title: "Section 6206 - Grantee corporate boards of directors"
 usc_title: 22
 usc_section: "6206"
 chapter: 71
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 6206"
-generated_at: "2026-03-30T02:44:42.961Z"
+generated_at: "2026-03-30T02:47:52.713Z"
 ---
 
 # § 6206. Grantee corporate boards of directors

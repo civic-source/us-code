@@ -3,9 +3,9 @@ title: "Section 216b - Liability for overtime work performed prior to July 20, 1
 usc_title: 29
 usc_section: "216b"
 chapter: 8
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "29 U.S.C. § 216b"
-generated_at: "2026-03-30T02:45:08.758Z"
+generated_at: "2026-03-30T02:47:57.835Z"
 ---
 
 # § 216b. Liability for overtime work performed prior to July 20, 1949

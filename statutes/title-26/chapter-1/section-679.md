@@ -3,9 +3,9 @@ title: "Section 679 - Foreign trusts having one or more United States beneficiar
 usc_title: 26
 usc_section: "679"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "26 U.S.C. § 679"
-generated_at: "2026-03-30T02:45:23.056Z"
+generated_at: "2026-03-30T02:48:06.589Z"
 ---
 
 # § 679. Foreign trusts having one or more United States beneficiaries

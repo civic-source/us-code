@@ -3,9 +3,9 @@ title: "Section 7020 - Inspector General"
 usc_title: 10
 usc_section: "7020"
 chapter: 703
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 7020"
-generated_at: "2026-03-30T02:42:43.948Z"
+generated_at: "2026-03-30T02:47:08.573Z"
 ---
 
 # § 7020. Inspector General

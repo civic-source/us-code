@@ -3,9 +3,9 @@ title: "Section 114 - Sensitive Security Information"
 usc_title: 6
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "6 U.S.C. § 114"
-generated_at: "2026-03-30T02:42:31.105Z"
+generated_at: "2026-03-30T02:46:41.902Z"
 ---
 
 # § 114. Sensitive Security Information

@@ -3,9 +3,9 @@ title: "Section 1333 - Powers and duties of Secretary"
 usc_title: 16
 usc_section: "1333"
 chapter: 30
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "16 U.S.C. § 1333"
-generated_at: "2026-03-30T02:43:50.436Z"
+generated_at: "2026-03-30T02:47:42.527Z"
 ---
 
 # § 1333. Powers and duties of Secretary

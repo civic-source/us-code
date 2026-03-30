@@ -3,9 +3,9 @@ title: "Section 7431 - Pay"
 usc_title: 38
 usc_section: "7431"
 chapter: 74
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "38 U.S.C. § 7431"
-generated_at: "2026-03-30T02:45:44.086Z"
+generated_at: "2026-03-30T02:48:19.120Z"
 ---
 
 # § 7431. Pay

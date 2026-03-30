@@ -3,9 +3,9 @@ title: "Section 11281 - Restriction on use of funds"
 usc_title: 34
 usc_section: "11281"
 chapter: 111
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "34 U.S.C. § 11281"
-generated_at: "2026-03-30T02:45:36.997Z"
+generated_at: "2026-03-30T02:48:10.352Z"
 ---
 
 # § 11281. Restriction on use of funds

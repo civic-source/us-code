@@ -3,9 +3,9 @@ title: "Section 1927 - Cadets; initial clothing allowance"
 usc_title: 14
 usc_section: "1927"
 chapter: 19
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "14 U.S.C. § 1927"
-generated_at: "2026-03-30T02:42:54.121Z"
+generated_at: "2026-03-30T02:47:11.357Z"
 ---
 
 # § 1927. Cadets; initial clothing allowance

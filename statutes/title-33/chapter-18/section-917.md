@@ -3,9 +3,9 @@ title: "Section 917 - Lien against compensation"
 usc_title: 33
 usc_section: "917"
 chapter: 18
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "33 U.S.C. § 917"
-generated_at: "2026-03-30T02:45:34.068Z"
+generated_at: "2026-03-30T02:48:12.797Z"
 ---
 
 # § 917. Lien against compensation

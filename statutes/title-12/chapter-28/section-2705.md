@@ -3,9 +3,9 @@ title: "Section 2705 - Emergency mortgage relief payments"
 usc_title: 12
 usc_section: "2705"
 chapter: 28
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "12 U.S.C. § 2705"
-generated_at: "2026-03-30T02:43:29.896Z"
+generated_at: "2026-03-30T02:47:16.219Z"
 ---
 
 # § 2705. Emergency mortgage relief payments

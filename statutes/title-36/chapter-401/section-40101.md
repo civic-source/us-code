@@ -3,9 +3,9 @@ title: "Section 40101 - Definition"
 usc_title: 36
 usc_section: "40101"
 chapter: 401
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "36 U.S.C. § 40101"
-generated_at: "2026-03-30T02:45:40.873Z"
+generated_at: "2026-03-30T02:48:16.855Z"
 ---
 
 # § 40101. Definition

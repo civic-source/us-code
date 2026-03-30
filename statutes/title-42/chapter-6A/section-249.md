@@ -3,9 +3,9 @@ title: "Section 249 - Medical care and treatment of quarantined and detained per
 usc_title: 42
 usc_section: "249"
 chapter: 6
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "42 U.S.C. § 249"
-generated_at: "2026-03-30T02:46:03.969Z"
+generated_at: "2026-03-30T02:48:46.003Z"
 ---
 
 # § 249. Medical care and treatment of quarantined and detained persons

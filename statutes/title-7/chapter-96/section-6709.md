@@ -3,9 +3,9 @@ title: "Section 6709 - Interagency cooperation to maximize biomass growth"
 usc_title: 7
 usc_section: "6709"
 chapter: 96
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "7 U.S.C. § 6709"
-generated_at: "2026-03-30T02:42:50.863Z"
+generated_at: "2026-03-30T02:46:47.694Z"
 ---
 
 # § 6709. Interagency cooperation to maximize biomass growth

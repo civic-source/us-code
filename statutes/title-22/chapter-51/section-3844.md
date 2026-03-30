@@ -3,9 +3,9 @@ title: "Section 3844 - Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(
 usc_title: 22
 usc_section: "3844"
 chapter: 51
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "22 U.S.C. § 3844"
-generated_at: "2026-03-30T02:44:42.919Z"
+generated_at: "2026-03-30T02:47:52.675Z"
 ---
 
 # §§ 3841 to 3844. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4) , Sept. 23, 1996 , 110 Stat. 2868

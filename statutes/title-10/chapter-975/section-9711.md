@@ -3,9 +3,9 @@ title: "Section 9711 - Repealed. Pub. L. 106–65, div. A, title VII, § 721(b) 
 usc_title: 10
 usc_section: "9711"
 chapter: 975
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "10 U.S.C. § 9711"
-generated_at: "2026-03-30T02:42:43.990Z"
+generated_at: "2026-03-30T02:47:08.609Z"
 ---
 
 # [§ 9711. Repealed. Pub. L. 106–65, div. A, title VII, § 721(b) , Oct. 5, 1999 , 113 Stat. 694 ]

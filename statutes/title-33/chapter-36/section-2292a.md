@@ -3,9 +3,9 @@ title: "Section 2292a - National coastal mapping program"
 usc_title: 33
 usc_section: "2292a"
 chapter: 36
-current_through: "PL 119-46"
+current_through: "PL 119-57"
 classification: "33 U.S.C. § 2292a"
-generated_at: "2026-03-30T02:45:34.122Z"
+generated_at: "2026-03-30T02:48:12.856Z"
 ---
 
 # § 2292a. National coastal mapping program
