@@ -3,9 +3,9 @@ title: "Section 619 - Eligibility for consideration for promotion: time-in-grade
 usc_title: 10
 usc_section: "619"
 chapter: 36
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 619"
-generated_at: "2026-03-30T03:15:52.741Z"
+generated_at: "2026-03-30T03:18:22.638Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1143 - Assistance of Secretary in preparing membership rolls; ap
 usc_title: 25
 usc_section: "1143"
 chapter: 14
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "25 U.S.C. § 1143"
-generated_at: "2026-03-30T03:16:32.004Z"
+generated_at: "2026-03-30T03:19:33.116Z"
 status: "active"
 ---
 

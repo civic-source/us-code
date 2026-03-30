@@ -3,9 +3,9 @@ title: "Section 78jjj - Prohibited acts"
 usc_title: 15
 usc_section: "78jjj"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 78jjj"
-generated_at: "2026-03-30T03:16:02.020Z"
+generated_at: "2026-03-30T03:18:53.617Z"
 status: "active"
 ---
 

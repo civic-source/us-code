@@ -3,9 +3,9 @@ title: "Section 12584 - Ineligible service categories"
 usc_title: 42
 usc_section: "12584"
 chapter: 129
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 12584"
-generated_at: "2026-03-30T03:17:32.850Z"
+generated_at: "2026-03-30T03:20:42.882Z"
 status: "active"
 ---
 

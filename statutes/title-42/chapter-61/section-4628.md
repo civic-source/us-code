@@ -3,9 +3,9 @@ title: "Section 4628 - State acting as agent for Federal program"
 usc_title: 42
 usc_section: "4628"
 chapter: 61
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 4628"
-generated_at: "2026-03-30T03:17:32.648Z"
+generated_at: "2026-03-30T03:20:42.624Z"
 status: "active"
 ---
 

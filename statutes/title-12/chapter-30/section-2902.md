@@ -3,9 +3,9 @@ title: "Section 2902 - Definitions"
 usc_title: 12
 usc_section: "2902"
 chapter: 30
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 2902"
-generated_at: "2026-03-30T03:15:58.649Z"
+generated_at: "2026-03-30T03:19:16.945Z"
 status: "active"
 ---
 

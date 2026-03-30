@@ -3,9 +3,9 @@ title: "Section 4562 - Clothing"
 usc_title: 10
 usc_section: "4562"
 chapter: 435
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 4562"
-generated_at: "2026-03-30T03:15:52.830Z"
+generated_at: "2026-03-30T03:18:22.726Z"
 status: "active"
 ---
 

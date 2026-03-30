@@ -3,9 +3,9 @@ title: "Section 7255d - Other grant assistance"
 usc_title: 20
 usc_section: "7255d"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 7255d"
-generated_at: "2026-03-30T03:16:10.777Z"
+generated_at: "2026-03-30T03:19:25.659Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 476 - Travel and transportation allowances: dependents; baggage 
 usc_title: 37
 usc_section: "476"
 chapter: 8
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "37 U.S.C. § 476"
-generated_at: "2026-03-30T03:17:10.888Z"
+generated_at: "2026-03-30T03:20:18.547Z"
 status: "active"
 ---
 

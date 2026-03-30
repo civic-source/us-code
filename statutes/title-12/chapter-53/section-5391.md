@@ -3,9 +3,9 @@ title: "Section 5391 - Inspector General reviews"
 usc_title: 12
 usc_section: "5391"
 chapter: 53
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 5391"
-generated_at: "2026-03-30T03:15:58.692Z"
+generated_at: "2026-03-30T03:19:17.009Z"
 status: "active"
 ---
 

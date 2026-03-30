@@ -3,9 +3,9 @@ title: "Section 130513 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "130513"
 chapter: 1305
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "36 U.S.C. § 130513"
-generated_at: "2026-03-30T03:17:11.517Z"
+generated_at: "2026-03-30T03:20:13.942Z"
 status: "active"
 ---
 

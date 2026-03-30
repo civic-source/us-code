@@ -3,9 +3,9 @@ title: "Section 6939b - Interim control of hazardous waste injection"
 usc_title: 42
 usc_section: "6939b"
 chapter: 82
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 6939b"
-generated_at: "2026-03-30T03:17:32.712Z"
+generated_at: "2026-03-30T03:20:42.707Z"
 status: "active"
 ---
 

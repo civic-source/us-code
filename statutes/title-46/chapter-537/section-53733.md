@@ -1,0 +1,28 @@
+---
+title: "Section 53733 - Shipyard modernization and improvement"
+usc_title: 46
+usc_section: "53733"
+chapter: 537
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 53733"
+generated_at: "2026-03-30T03:20:50.666Z"
+status: "active"
+---
+
+# § 53733. Shipyard modernization and improvement
+
+- **(a)** In this section:
+  - **(1)** The term “advanced shipbuilding technology” includes—
+    - **(A)** numerically controlled machine tools, robots, automated process control equipment, computerized flexible manufacturing systems, associated computer software, and other technology for improving shipbuilding and related industrial production that advance the state-of-the-art; and
+    - **(B)** novel techniques and processes designed to improve shipbuilding quality, productivity, and practice, and to promote sustainable development, including engineering design, quality assurance, concurrent engineering, continuous process production technology, energy efficiency, waste minimization, design for recyclability or parts reuse, inventory management, upgraded worker skills, and communications with customers and suppliers.
+  - **(2)** The term “general shipyard facility” means—
+    - **(A)** for operations on land—
+      - **(i)** a structure or appurtenance thereto designed for the construction, reconstruction, repair, rehabilitation, or refurbishment of a vessel, including a graving dock, building way, ship lift, wharf, or pier crane;
+      - **(ii)** the land necessary for the structure or appurtenance; and
+      - **(iii)** equipment that is for use with the structure or appurtenance and that is necessary for performing a function referred to in clause (i); and
+    - **(B)** for operations not on land, a vessel, floating drydock, or barge built in the United States and used for, equipped to be used for, or of a type normally used for, performing a function referred to in subparagraph (A)(i).
+  - **(3)** The term “modern shipbuilding technology” means the best available proven technology, techniques, and processes appropriate to enhancing the productivity of shipyards.
+- **(b)** Under subchapter I of this chapter, the Administrator may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation for advanced shipbuilding technology and modern shipbuilding technology of a general shipyard facility in the United States. Only a private shipyard is eligible to receive a guarantee.
+- **(c)** Except as otherwise provided in this section, a guarantee or commitment to guarantee under this section is subject to all the provisions applicable to a guarantee or commitment to guarantee under subchapter I of this chapter.
+- **(d)** The principal amount of an obligation guaranteed under this chapter may not exceed 87.5 percent of the actual cost of the advanced shipbuilding technology or modern shipbuilding technology.
+- **(e)** The Administrator may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661a )) of making guarantees or commitments to guarantee under this section.

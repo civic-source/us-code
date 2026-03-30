@@ -3,9 +3,9 @@ title: "Section 797 - Publication and sale of photographs of defense installatio
 usc_title: 18
 usc_section: "797"
 chapter: 37
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "18 U.S.C. § 797"
-generated_at: "2026-03-30T03:16:09.097Z"
+generated_at: "2026-03-30T03:19:20.990Z"
 status: "active"
 ---
 

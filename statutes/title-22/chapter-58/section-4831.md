@@ -3,9 +3,9 @@ title: "Section 4831 - Accountability Review Boards"
 usc_title: 22
 usc_section: "4831"
 chapter: 58
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 4831"
-generated_at: "2026-03-30T03:16:41.413Z"
+generated_at: "2026-03-30T03:19:35.476Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6823 - State and specially qualified agency plans"
 usc_title: 20
 usc_section: "6823"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 6823"
-generated_at: "2026-03-30T03:16:10.767Z"
+generated_at: "2026-03-30T03:19:25.644Z"
 status: "active"
 ---
 

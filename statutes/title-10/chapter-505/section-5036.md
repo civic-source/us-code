@@ -3,9 +3,9 @@ title: "Section 5036 - Deputy Chiefs of Naval Operations"
 usc_title: 10
 usc_section: "5036"
 chapter: 505
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 5036"
-generated_at: "2026-03-30T03:15:52.833Z"
+generated_at: "2026-03-30T03:18:22.729Z"
 status: "active"
 ---
 

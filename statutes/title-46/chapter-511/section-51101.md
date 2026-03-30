@@ -1,0 +1,15 @@
+---
+title: "Section 51101 - Policy"
+usc_title: 46
+usc_section: "51101"
+chapter: 511
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 51101"
+generated_at: "2026-03-30T03:20:50.659Z"
+status: "active"
+---
+
+# § 51101. Policy
+
+It is the policy of the United States that merchant marine vessels of the United States should be operated by highly trained and efficient citizens of the United States and that the United States Navy and the merchant marine of the United States should work closely together to promote the maximum integration of the total seapower forces of the United States.
+

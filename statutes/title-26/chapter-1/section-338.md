@@ -3,9 +3,9 @@ title: "Section 338 - Certain stock purchases treated as asset acquisitions"
 usc_title: 26
 usc_section: "338"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 338"
-generated_at: "2026-03-30T03:17:04.385Z"
+generated_at: "2026-03-30T03:19:57.742Z"
 status: "active"
 ---
 

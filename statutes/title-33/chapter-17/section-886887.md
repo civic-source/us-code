@@ -3,9 +3,9 @@ title: "Section 886887 - Repealed. June 21, 1955, ch. 172, § 5(1) , (2), 69 Sta
 usc_title: 33
 usc_section: "886887"
 chapter: 17
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "33 U.S.C. § 886887"
-generated_at: "2026-03-30T03:17:08.918Z"
+generated_at: "2026-03-30T03:20:10.129Z"
 status: "repealed"
 ---
 

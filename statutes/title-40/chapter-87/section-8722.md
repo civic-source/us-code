@@ -3,9 +3,9 @@ title: "Section 8722 - Proposed federal and district developments and projects"
 usc_title: 40
 usc_section: "8722"
 chapter: 87
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "40 U.S.C. § 8722"
-generated_at: "2026-03-30T03:17:13.690Z"
+generated_at: "2026-03-30T03:20:12.391Z"
 status: "active"
 ---
 

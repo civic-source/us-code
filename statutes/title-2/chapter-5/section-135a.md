@@ -3,9 +3,9 @@ title: "Section 135a - Books and sound-reproduction records for blind and other 
 usc_title: 2
 usc_section: "135a"
 chapter: 5
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "2 U.S.C. § 135a"
-generated_at: "2026-03-30T03:15:32.285Z"
+generated_at: "2026-03-30T03:17:55.450Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 32504 - Certificates of compliance"
 usc_title: 49
 usc_section: "32504"
 chapter: 325
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "49 U.S.C. § 32504"
-generated_at: "2026-03-30T03:17:39.995Z"
+generated_at: "2026-03-30T03:20:49.627Z"
 status: "active"
 ---
 

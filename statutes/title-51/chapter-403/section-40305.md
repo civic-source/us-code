@@ -3,9 +3,9 @@ title: "Section 40305 - Specific national needs"
 usc_title: 51
 usc_section: "40305"
 chapter: 403
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "51 U.S.C. § 40305"
-generated_at: "2026-03-30T03:17:42.404Z"
+generated_at: "2026-03-30T03:20:59.194Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 242m - General provisions respecting effectiveness, efficiency, 
 usc_title: 42
 usc_section: "242m"
 chapter: 6
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 242m"
-generated_at: "2026-03-30T03:17:32.221Z"
+generated_at: "2026-03-30T03:20:41.848Z"
 status: "active"
 ---
 

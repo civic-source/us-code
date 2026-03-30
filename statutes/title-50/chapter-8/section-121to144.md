@@ -3,9 +3,9 @@ title: "Section 121to144 - Repealed. Pub. L. 91–452, title XI, § 1106(a) , Oc
 usc_title: 50
 usc_section: "121to144"
 chapter: 8
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "50 U.S.C. § 121to144"
-generated_at: "2026-03-30T03:17:37.422Z"
+generated_at: "2026-03-30T03:20:46.716Z"
 status: "repealed"
 ---
 

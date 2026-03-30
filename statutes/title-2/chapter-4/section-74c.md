@@ -3,9 +3,9 @@ title: "Section 74c - Compensation of certain House minority employees"
 usc_title: 2
 usc_section: "74c"
 chapter: 4
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "2 U.S.C. § 74c"
-generated_at: "2026-03-30T03:15:32.280Z"
+generated_at: "2026-03-30T03:17:55.444Z"
 status: "active"
 ---
 

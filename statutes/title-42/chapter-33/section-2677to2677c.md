@@ -3,9 +3,9 @@ title: "Section 2677to2677c - Transferred"
 usc_title: 42
 usc_section: "2677to2677c"
 chapter: 33
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 2677to2677c"
-generated_at: "2026-03-30T03:17:32.597Z"
+generated_at: "2026-03-30T03:20:42.557Z"
 status: "transferred"
 ---
 

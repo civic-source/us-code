@@ -3,9 +3,9 @@ title: "Section 44b - Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(
 usc_title: 24
 usc_section: "44b"
 chapter: 2
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "24 U.S.C. § 44b"
-generated_at: "2026-03-30T03:16:17.654Z"
+generated_at: "2026-03-30T03:19:29.770Z"
 status: "repealed"
 ---
 

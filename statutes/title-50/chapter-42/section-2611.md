@@ -3,9 +3,9 @@ title: "Section 2611 - Defense environmental management privatization projects"
 usc_title: 50
 usc_section: "2611"
 chapter: 42
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "50 U.S.C. § 2611"
-generated_at: "2026-03-30T03:17:37.449Z"
+generated_at: "2026-03-30T03:20:46.749Z"
 status: "active"
 ---
 

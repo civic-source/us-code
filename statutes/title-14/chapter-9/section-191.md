@@ -3,9 +3,9 @@ title: "Section 191 - Credit for service as member of civilian teaching staff"
 usc_title: 14
 usc_section: "191"
 chapter: 9
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "14 U.S.C. § 191"
-generated_at: "2026-03-30T03:15:55.218Z"
+generated_at: "2026-03-30T03:18:45.180Z"
 status: "active"
 ---
 

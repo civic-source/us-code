@@ -3,9 +3,9 @@ title: "Section 5711 - Federal Trade Commission regulations"
 usc_title: 15
 usc_section: "5711"
 chapter: 83
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 5711"
-generated_at: "2026-03-30T03:16:02.144Z"
+generated_at: "2026-03-30T03:18:53.788Z"
 status: "active"
 ---
 

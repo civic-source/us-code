@@ -3,9 +3,9 @@ title: "Section 473to484d - Omitted"
 usc_title: 48
 usc_section: "473to484d"
 chapter: 2
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "48 U.S.C. § 473to484d"
-generated_at: "2026-03-30T03:17:35.714Z"
+generated_at: "2026-03-30T03:20:51.094Z"
 status: "omitted"
 ---
 

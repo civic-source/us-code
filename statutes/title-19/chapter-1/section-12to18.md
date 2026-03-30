@@ -3,9 +3,9 @@ title: "Section 12to18 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(1) –(7), 70 
 usc_title: 19
 usc_section: "12to18"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "19 U.S.C. § 12to18"
-generated_at: "2026-03-30T03:16:06.675Z"
+generated_at: "2026-03-30T03:19:27.315Z"
 status: "repealed"
 ---
 

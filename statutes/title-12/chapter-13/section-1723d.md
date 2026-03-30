@@ -3,9 +3,9 @@ title: "Section 1723d - Transfer of certain functions to Association"
 usc_title: 12
 usc_section: "1723d"
 chapter: 13
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 1723d"
-generated_at: "2026-03-30T03:15:58.592Z"
+generated_at: "2026-03-30T03:19:16.860Z"
 status: "active"
 ---
 

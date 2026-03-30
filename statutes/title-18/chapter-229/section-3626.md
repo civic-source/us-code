@@ -3,9 +3,9 @@ title: "Section 3626 - Appropriate remedies with respect to prison conditions"
 usc_title: 18
 usc_section: "3626"
 chapter: 229
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "18 U.S.C. § 3626"
-generated_at: "2026-03-30T03:16:09.137Z"
+generated_at: "2026-03-30T03:19:21.048Z"
 status: "active"
 ---
 

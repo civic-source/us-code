@@ -3,9 +3,9 @@ title: "Section 41102 - General prohibitions"
 usc_title: 46
 usc_section: "41102"
 chapter: 411
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "46 U.S.C. § 41102"
-generated_at: "2026-03-30T03:17:36.219Z"
+generated_at: "2026-03-30T03:20:50.656Z"
 status: "active"
 ---
 

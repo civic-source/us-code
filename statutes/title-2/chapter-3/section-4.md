@@ -3,9 +3,9 @@ title: "Section 4 - Metered charges on copiers; “Sergeant at Arms” and “us
 usc_title: 2
 usc_section: "4"
 chapter: 3
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "2 U.S.C. § 4"
-generated_at: "2026-03-30T03:15:32.273Z"
+generated_at: "2026-03-30T03:17:55.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5302 - Definitions"
 usc_title: 49
 usc_section: "5302"
 chapter: 53
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "49 U.S.C. § 5302"
-generated_at: "2026-03-30T03:17:39.929Z"
+generated_at: "2026-03-30T03:20:49.574Z"
 status: "active"
 ---
 

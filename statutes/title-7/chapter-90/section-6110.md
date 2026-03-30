@@ -3,9 +3,9 @@ title: "Section 6110 - Suspension or termination of orders"
 usc_title: 7
 usc_section: "6110"
 chapter: 90
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 6110"
-generated_at: "2026-03-30T03:15:47.525Z"
+generated_at: "2026-03-30T03:18:29.484Z"
 status: "active"
 ---
 

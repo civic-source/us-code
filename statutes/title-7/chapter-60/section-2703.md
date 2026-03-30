@@ -3,9 +3,9 @@ title: "Section 2703 - Orders of Secretary to egg producers, etc."
 usc_title: 7
 usc_section: "2703"
 chapter: 60
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 2703"
-generated_at: "2026-03-30T03:15:47.498Z"
+generated_at: "2026-03-30T03:18:29.452Z"
 status: "active"
 ---
 

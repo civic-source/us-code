@@ -3,9 +3,9 @@ title: "Section 7707 - Advanced National Seismic Research and Monitoring System"
 usc_title: 42
 usc_section: "7707"
 chapter: 86
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 7707"
-generated_at: "2026-03-30T03:17:32.763Z"
+generated_at: "2026-03-30T03:20:42.772Z"
 status: "active"
 ---
 

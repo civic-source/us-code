@@ -3,9 +3,9 @@ title: "Section 1911 - Consultation of Secretary of Agriculture with farmers, fa
 usc_title: 7
 usc_section: "1911"
 chapter: 49
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 1911"
-generated_at: "2026-03-30T03:15:47.460Z"
+generated_at: "2026-03-30T03:18:29.412Z"
 status: "active"
 ---
 

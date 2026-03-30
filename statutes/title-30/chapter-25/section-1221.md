@@ -3,9 +3,9 @@ title: "Section 1221 - Authorization of State allotments to institutes"
 usc_title: 30
 usc_section: "1221"
 chapter: 25
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "30 U.S.C. § 1221"
-generated_at: "2026-03-30T03:16:46.501Z"
+generated_at: "2026-03-30T03:19:38.232Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5907 - Demonstration projects"
 usc_title: 42
 usc_section: "5907"
 chapter: 74
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 5907"
-generated_at: "2026-03-30T03:17:32.682Z"
+generated_at: "2026-03-30T03:20:42.669Z"
 status: "active"
 ---
 

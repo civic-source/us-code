@@ -3,9 +3,9 @@ title: "Section 131to152 - Omitted"
 usc_title: 20
 usc_section: "131to152"
 chapter: 9
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 131to152"
-generated_at: "2026-03-30T03:16:10.654Z"
+generated_at: "2026-03-30T03:19:25.433Z"
 status: "omitted"
 ---
 

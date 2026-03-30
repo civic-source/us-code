@@ -1,0 +1,25 @@
+---
+title: "Section 55107 - Empty cargo containers and barges"
+usc_title: 46
+usc_section: "55107"
+chapter: 551
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 55107"
+generated_at: "2026-03-30T03:20:50.667Z"
+status: "active"
+---
+
+# § 55107. Empty cargo containers and barges
+
+- **(a)** Subject to subsections (b) and (c), and on terms and conditions the Secretary of Homeland Security may prescribe by regulation, section 55102 of this title does not apply to the transportation of—
+  - **(1)** empty cargo vans, empty lift vans, or empty shipping tanks;
+  - **(2)** equipment for use with cargo vans, lift vans, or shipping tanks;
+  - **(3)** empty barges specifically designed for carriage aboard a vessel and equipment (except propulsion equipment) for use with those barges;
+  - **(4)** empty instruments for international traffic exempted from the customs laws under section 322(a) of the Tariff Act of 1930 ( 19 U.S.C. 1322(a) ); or
+  - **(5)** stevedoring equipment and material.
+- **(b)**
+  - **(1)** Paragraphs (1)–(4) of subsection (a) apply only if the items named are owned or leased by the owner or operator of the vessel and transported for its use in handling its cargo in foreign trade.
+  - **(2)** Paragraph (5) of subsection (a) applies only if the items named are—
+    - **(A)** owned or leased by the owner or operator of the vessel or by the stevedoring company having the contract for the loading or unloading of the vessel; and
+    - **(B)** transported without charge for use in the handling of cargo in foreign trade.
+- **(c)** This section applies to a vessel of foreign registry only if the Secretary of Homeland Security finds, based on information from the Secretary of State, that the government of the nation of registry extends reciprocal privileges to vessels of the United States.

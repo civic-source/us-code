@@ -3,9 +3,9 @@ title: "Section 5436 - Continuation of services"
 usc_title: 12
 usc_section: "5436"
 chapter: 53
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 5436"
-generated_at: "2026-03-30T03:15:58.694Z"
+generated_at: "2026-03-30T03:19:17.012Z"
 status: "active"
 ---
 

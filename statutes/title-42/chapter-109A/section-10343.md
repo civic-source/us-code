@@ -3,9 +3,9 @@ title: "Section 10343 - Goals of research program"
 usc_title: 42
 usc_section: "10343"
 chapter: 109
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 10343"
-generated_at: "2026-03-30T03:17:32.816Z"
+generated_at: "2026-03-30T03:20:42.840Z"
 status: "active"
 ---
 

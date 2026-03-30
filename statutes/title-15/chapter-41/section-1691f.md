@@ -3,9 +3,9 @@ title: "Section 1691f - Annual reports to Congress; contents"
 usc_title: 15
 usc_section: "1691f"
 chapter: 41
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 1691f"
-generated_at: "2026-03-30T03:16:02.100Z"
+generated_at: "2026-03-30T03:18:53.728Z"
 status: "active"
 ---
 

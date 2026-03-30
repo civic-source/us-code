@@ -3,9 +3,9 @@ title: "Section 13315 - Data system and energy technology evaluation"
 usc_title: 42
 usc_section: "13315"
 chapter: 134
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 13315"
-generated_at: "2026-03-30T03:17:32.875Z"
+generated_at: "2026-03-30T03:20:42.911Z"
 status: "active"
 ---
 

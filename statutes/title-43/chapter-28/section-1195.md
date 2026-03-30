@@ -3,9 +3,9 @@ title: "Section 1195 - Negotiations for cession of lands"
 usc_title: 43
 usc_section: "1195"
 chapter: 28
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 1195"
-generated_at: "2026-03-30T03:17:16.309Z"
+generated_at: "2026-03-30T03:20:21.389Z"
 status: "active"
 ---
 

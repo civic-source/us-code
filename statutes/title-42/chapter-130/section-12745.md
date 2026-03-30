@@ -3,9 +3,9 @@ title: "Section 12745 - Qualification as affordable housing"
 usc_title: 42
 usc_section: "12745"
 chapter: 130
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 12745"
-generated_at: "2026-03-30T03:17:32.863Z"
+generated_at: "2026-03-30T03:20:42.898Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Failure by the State to assure enforcement of State pesticid
 usc_title: 7
 usc_section: "2"
 chapter: 6
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T03:15:47.398Z"
+generated_at: "2026-03-30T03:18:29.337Z"
 status: "active"
 ---
 

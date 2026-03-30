@@ -3,9 +3,9 @@ title: "Section 6766 - Definitions"
 usc_title: 15
 usc_section: "6766"
 chapter: 93
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 6766"
-generated_at: "2026-03-30T03:16:02.152Z"
+generated_at: "2026-03-30T03:18:53.798Z"
 status: "active"
 ---
 

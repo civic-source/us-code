@@ -3,9 +3,9 @@ title: "Section 1564 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(38) , 
 usc_title: 26
 usc_section: "1564"
 chapter: 6
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 1564"
-generated_at: "2026-03-30T03:17:04.487Z"
+generated_at: "2026-03-30T03:19:57.873Z"
 status: "repealed"
 ---
 

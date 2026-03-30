@@ -3,9 +3,9 @@ title: "Section 7671 - Evaluation and assessment of agricultural research, exten
 usc_title: 7
 usc_section: "7671"
 chapter: 103
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 7671"
-generated_at: "2026-03-30T03:15:47.548Z"
+generated_at: "2026-03-30T03:18:29.512Z"
 status: "active"
 ---
 

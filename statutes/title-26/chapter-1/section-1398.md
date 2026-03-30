@@ -3,9 +3,9 @@ title: "Section 1398 - Rules relating to individuals’ title 11 cases"
 usc_title: 26
 usc_section: "1398"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 1398"
-generated_at: "2026-03-30T03:17:04.479Z"
+generated_at: "2026-03-30T03:19:57.863Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2575 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "2575"
 chapter: 35
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 2575"
-generated_at: "2026-03-30T03:16:41.374Z"
+generated_at: "2026-03-30T03:19:35.426Z"
 status: "repealed"
 ---
 

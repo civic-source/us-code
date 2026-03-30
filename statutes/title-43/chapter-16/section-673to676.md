@@ -3,9 +3,9 @@ title: "Section 673to676 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oc
 usc_title: 43
 usc_section: "673to676"
 chapter: 16
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 673to676"
-generated_at: "2026-03-30T03:17:16.301Z"
+generated_at: "2026-03-30T03:20:21.378Z"
 status: "repealed"
 ---
 

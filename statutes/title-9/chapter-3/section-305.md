@@ -3,9 +3,9 @@ title: "Section 305 - Relationship between the Inter-American Convention and the
 usc_title: 9
 usc_section: "305"
 chapter: 3
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "9 U.S.C. § 305"
-generated_at: "2026-03-30T03:15:43.672Z"
+generated_at: "2026-03-30T03:18:12.904Z"
 status: "active"
 ---
 

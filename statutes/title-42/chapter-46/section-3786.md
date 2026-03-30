@@ -3,9 +3,9 @@ title: "Section 3786 - Delegation of functions"
 usc_title: 42
 usc_section: "3786"
 chapter: 46
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 3786"
-generated_at: "2026-03-30T03:17:32.626Z"
+generated_at: "2026-03-30T03:20:42.595Z"
 status: "active"
 ---
 

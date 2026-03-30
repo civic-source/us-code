@@ -1,0 +1,21 @@
+---
+title: "Section 55114 - Unloading fish from foreign vessels"
+usc_title: 46
+usc_section: "55114"
+chapter: 551
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 55114"
+generated_at: "2026-03-30T03:20:50.667Z"
+status: "active"
+---
+
+# § 55114. Unloading fish from foreign vessels
+
+- **(a)** Except as otherwise provided by this section or a treaty or convention to which the United States is a party, a foreign vessel may not unload, in a port of the United States—
+  - **(1)** its catch of fish taken on board on the high seas or fish products processed from that catch of fish; or
+  - **(2)** fish or fish products taken on board that vessel on the high seas from a vessel engaged in fishing operations or the processing of fish or fish products.
+- **(b)** The Secretary of Commerce may prescribe regulations the Secretary considers necessary to obtain information on the transportation of fish products by vessels of the United States for foreign fish processing vessels to points in the United States.
+- **(c)**
+  - **(1)** A foreign vessel of not more than 50 feet overall in length may unload its catch of fresh fish (whole or with the heads, viscera, or fins removed, but not frozen, otherwise processed, or further advanced) in a port of the Virgin Islands for immediate consumption in those islands. Fish unloaded under this paragraph may be sold or transferred only for immediate consumption. In the absence of satisfactory evidence that a sale or transfer to an agent, representative, or employee of a freezer or cannery is for immediate consumption, the sale or transfer is deemed not to be for immediate consumption. This paragraph does not prohibit the freezing, smoking, or other processing of fresh fish by the ultimate consumer of the fish.
+  - **(2)** Fish unloaded in the Virgin Islands that are retained, sold, or transferred, except as allowed by paragraph (1), are liable to seizure by and forfeiture to the United States Government. A person retaining, selling, transferring, buying, or receiving the fish is liable to the Government for a civil penalty of not more than $1,000 for each violation. A penalty or forfeiture under this paragraph may be compromised, modified, or remitted under section 2107(b) of this title .
+- **(d)** Subsection (a) does not apply to the Northern Mariana Islands.

@@ -3,9 +3,9 @@ title: "Section 6295 - Energy conservation standards"
 usc_title: 42
 usc_section: "6295"
 chapter: 77
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 6295"
-generated_at: "2026-03-30T03:17:32.689Z"
+generated_at: "2026-03-30T03:20:42.677Z"
 status: "active"
 ---
 
@@ -202,7 +202,7 @@ status: "active"
       - **(iii)** R20 incandescent reflector lamps rated 45 watts or less.
     - **(D)**
       - **(i)** The standards specified in subparagraph (B) shall apply with respect to ER incandescent reflector lamps, BR incandescent reflector lamps, BPAR incandescent reflector lamps, and similar bulb shapes on and after January 1, 2008 .
-      - **(ii)** 25–2.75 inches in diameter .—The standards specified in subparagraph (B) shall apply with respect to incandescent reflector lamps with a diameter of more than 2.25 inches, but not more than 2.75 inches, on and after the later of January 1, 2008 , or the date that is 180 days after December 19, 2007 .
+      - **(ii)** The standards specified in subparagraph (B) shall apply with respect to incandescent reflector lamps with a diameter of more than 2.25 inches, but not more than 2.75 inches, on and after the later of January 1, 2008 , or the date that is 180 days after December 19, 2007 .
   - **(2)** Notwithstanding section 6302(a)(5) of this title and section 6302(b) of this title , it shall not be unlawful for a manufacturer to sell a lamp which is in compliance with the law at the time such lamp was manufactured.
   - **(3)** Not less than 36 months after October 24, 1992 , the Secretary shall initiate a rulemaking procedure and shall publish a final rule not later than the end of the 54-month period beginning on October 24, 1992 , to determine if the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after the 36-month period beginning on the date such final rule is published.
   - **(4)** Not less than eight years after October 24, 1992 , the Secretary shall initiate a rulemaking procedure and shall publish a final rule not later than nine years and six months after October 24, 1992 , to determine if the standards in effect for fluorescent lamps and incandescent lamps should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after the 36-month period beginning on the date such final rule is published.

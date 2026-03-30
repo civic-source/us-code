@@ -3,9 +3,9 @@ title: "Section 8771 - Dairy product price support program"
 usc_title: 7
 usc_section: "8771"
 chapter: 113
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 8771"
-generated_at: "2026-03-30T03:15:47.565Z"
+generated_at: "2026-03-30T03:18:29.532Z"
 status: "active"
 ---
 

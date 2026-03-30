@@ -3,9 +3,9 @@ title: "Section 3 - Provision of information regarding, and evaluations of, elde
 usc_title: 42
 usc_section: "3"
 chapter: 7
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T03:17:32.510Z"
+generated_at: "2026-03-30T03:20:42.433Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 620b - Congressional intent; additional undesignated projects no
 usc_title: 43
 usc_section: "620b"
 chapter: 12
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 620b"
-generated_at: "2026-03-30T03:17:16.299Z"
+generated_at: "2026-03-30T03:20:21.376Z"
 status: "active"
 ---
 

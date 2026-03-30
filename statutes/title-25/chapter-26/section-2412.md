@@ -3,9 +3,9 @@ title: "Section 2412 - Tribal Action Plans"
 usc_title: 25
 usc_section: "2412"
 chapter: 26
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "25 U.S.C. § 2412"
-generated_at: "2026-03-30T03:16:32.083Z"
+generated_at: "2026-03-30T03:19:33.165Z"
 status: "active"
 ---
 

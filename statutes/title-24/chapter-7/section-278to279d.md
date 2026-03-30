@@ -3,9 +3,9 @@ title: "Section 278to279d - Repealed. Pub. L. 93–43, § 7(a)(1) , (4), (5), (7
 usc_title: 24
 usc_section: "278to279d"
 chapter: 7
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "24 U.S.C. § 278to279d"
-generated_at: "2026-03-30T03:16:17.656Z"
+generated_at: "2026-03-30T03:19:29.772Z"
 status: "repealed"
 ---
 

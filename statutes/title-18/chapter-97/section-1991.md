@@ -3,9 +3,9 @@ title: "Section 1991 - Entering train to commit crime"
 usc_title: 18
 usc_section: "1991"
 chapter: 97
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "18 U.S.C. § 1991"
-generated_at: "2026-03-30T03:16:09.116Z"
+generated_at: "2026-03-30T03:19:21.017Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4707 - Assistance provided by Fund"
 usc_title: 12
 usc_section: "4707"
 chapter: 47
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 4707"
-generated_at: "2026-03-30T03:15:58.674Z"
+generated_at: "2026-03-30T03:19:16.982Z"
 status: "active"
 ---
 

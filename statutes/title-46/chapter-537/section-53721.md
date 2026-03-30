@@ -1,0 +1,22 @@
+---
+title: "Section 53721 - Rights of obligee"
+usc_title: 46
+usc_section: "53721"
+chapter: 537
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 53721"
+generated_at: "2026-03-30T03:20:50.665Z"
+status: "active"
+---
+
+# § 53721. Rights of obligee
+
+- **(a)** Except as provided in subsection (c), if an obligor has continued in default for 30 days in the payment of principal or interest on an obligation guaranteed under this chapter, the obligee or the obligee’s agent may demand that the Secretary or Administrator pay the unpaid principal amount of the obligation and the unpaid interest on the obligation to the date of payment. The demand must be made within the earlier of—
+  - **(1)** a period that may be specified in the guarantee or a related agreement; or
+  - **(2)** 90 days from the date of the default.
+- **(b)**
+  - **(1)** If a demand is made under subsection (a), the Secretary or Administrator shall pay to the obligee or the obligee’s agent the unpaid principal amount of the obligation and the unpaid interest on the obligation to the date of payment. Payment shall be made within the earlier of—
+    - **(A)** a period that may be specified in the guarantee or a related agreement; or
+    - **(B)** 30 days from the date of the demand.
+  - **(2)** The Secretary or Administrator is not required to make payment under this subsection if, within the appropriate period under paragraph (1), the Secretary or Administrator finds that the obligor was not in default or that the default was remedied before the demand.
+- **(c)** An obligee or the obligee’s agent may not demand payment under this section if the Secretary or Administrator, before the demand and on terms that may be provided in the obligation or a related agreement, has assumed the obligor’s rights and duties under the obligation and any related agreement and made any payment in default. However, the guarantee of the obligation remains in effect after the Secretary’s or Administrator’s assumption.

@@ -3,9 +3,9 @@ title: "Section 333to337 - Repealed. Pub. L. 91–230, title I, § 143(b) , Apr.
 usc_title: 20
 usc_section: "333to337"
 chapter: 15
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 333to337"
-generated_at: "2026-03-30T03:16:10.655Z"
+generated_at: "2026-03-30T03:19:25.434Z"
 status: "repealed"
 ---
 

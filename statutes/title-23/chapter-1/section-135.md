@@ -3,9 +3,9 @@ title: "Section 135 - Statewide and nonmetropolitan transportation planning"
 usc_title: 23
 usc_section: "135"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "23 U.S.C. § 135"
-generated_at: "2026-03-30T03:16:32.456Z"
+generated_at: "2026-03-30T03:19:30.962Z"
 status: "active"
 ---
 

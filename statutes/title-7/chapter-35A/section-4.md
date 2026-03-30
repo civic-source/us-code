@@ -3,9 +3,9 @@ title: "Section 4 - Transferred"
 usc_title: 7
 usc_section: "4"
 chapter: 35
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T03:15:47.440Z"
+generated_at: "2026-03-30T03:18:29.389Z"
 status: "transferred"
 ---
 

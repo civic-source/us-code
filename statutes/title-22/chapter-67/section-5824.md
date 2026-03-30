@@ -3,9 +3,9 @@ title: "Section 5824 - Interagency working group on energy of the Trade Promotio
 usc_title: 22
 usc_section: "5824"
 chapter: 67
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 5824"
-generated_at: "2026-03-30T03:16:41.419Z"
+generated_at: "2026-03-30T03:19:35.484Z"
 status: "active"
 ---
 

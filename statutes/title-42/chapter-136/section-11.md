@@ -3,9 +3,9 @@ title: "Section 11 - Housing protections for victims of domestic violence, datin
 usc_title: 42
 usc_section: "11"
 chapter: 136
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T03:17:32.892Z"
+generated_at: "2026-03-30T03:20:42.933Z"
 status: "active"
 ---
 

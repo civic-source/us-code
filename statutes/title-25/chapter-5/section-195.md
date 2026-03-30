@@ -3,9 +3,9 @@ title: "Section 195 - Repealed. Aug. 15, 1953, ch. 506, § 2(b) , 67 Stat. 590"
 usc_title: 25
 usc_section: "195"
 chapter: 5
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "25 U.S.C. § 195"
-generated_at: "2026-03-30T03:16:31.967Z"
+generated_at: "2026-03-30T03:19:33.070Z"
 status: "repealed"
 ---
 

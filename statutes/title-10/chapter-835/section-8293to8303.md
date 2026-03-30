@@ -3,9 +3,9 @@ title: "Section 8293to8303 - Repealed. Pub. L. 96–513, title II, § 204 , Dec.
 usc_title: 10
 usc_section: "8293to8303"
 chapter: 835
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 8293to8303"
-generated_at: "2026-03-30T03:15:52.846Z"
+generated_at: "2026-03-30T03:18:22.743Z"
 status: "repealed"
 ---
 

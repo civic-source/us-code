@@ -3,9 +3,9 @@ title: "Section 68c - Computation of compensation for stenographic assistance of
 usc_title: 2
 usc_section: "68c"
 chapter: 4
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "2 U.S.C. § 68c"
-generated_at: "2026-03-30T03:15:32.279Z"
+generated_at: "2026-03-30T03:17:55.440Z"
 status: "active"
 ---
 

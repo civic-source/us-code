@@ -3,9 +3,9 @@ title: "Section 2602 - American National Red Cross: cooperation and assistance"
 usc_title: 10
 usc_section: "2602"
 chapter: 155
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 2602"
-generated_at: "2026-03-30T03:15:52.812Z"
+generated_at: "2026-03-30T03:18:22.708Z"
 status: "active"
 ---
 

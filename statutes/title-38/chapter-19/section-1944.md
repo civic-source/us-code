@@ -3,9 +3,9 @@ title: "Section 1944 - Policy provisions"
 usc_title: 38
 usc_section: "1944"
 chapter: 19
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "38 U.S.C. § 1944"
-generated_at: "2026-03-30T03:17:12.854Z"
+generated_at: "2026-03-30T03:20:15.742Z"
 status: "active"
 ---
 

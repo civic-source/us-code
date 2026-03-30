@@ -3,9 +3,9 @@ title: "Section 30181 - Policy"
 usc_title: 49
 usc_section: "30181"
 chapter: 301
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "49 U.S.C. § 30181"
-generated_at: "2026-03-30T03:17:39.982Z"
+generated_at: "2026-03-30T03:20:49.617Z"
 status: "active"
 ---
 

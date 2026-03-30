@@ -3,9 +3,9 @@ title: "Section 519a - Regulations"
 usc_title: 7
 usc_section: "519a"
 chapter: 21
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 519a"
-generated_at: "2026-03-30T03:15:47.418Z"
+generated_at: "2026-03-30T03:18:29.362Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 677g - Membership rolls of full-blood and mixed-blood members; p
 usc_title: 25
 usc_section: "677g"
 chapter: 14
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "25 U.S.C. § 677g"
-generated_at: "2026-03-30T03:16:31.991Z"
+generated_at: "2026-03-30T03:19:33.100Z"
 status: "active"
 ---
 

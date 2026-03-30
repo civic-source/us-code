@@ -3,9 +3,9 @@ title: "Section 1863 - Funds out of Contingent Expenses, Architect of the Capito
 usc_title: 2
 usc_section: "1863"
 chapter: 28
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "2 U.S.C. § 1863"
-generated_at: "2026-03-30T03:15:32.318Z"
+generated_at: "2026-03-30T03:17:55.495Z"
 status: "active"
 ---
 

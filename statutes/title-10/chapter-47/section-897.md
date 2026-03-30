@@ -3,9 +3,9 @@ title: "Section 897 - Art. 97. Unlawful detention"
 usc_title: 10
 usc_section: "897"
 chapter: 47
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 897"
-generated_at: "2026-03-30T03:15:52.749Z"
+generated_at: "2026-03-30T03:18:22.645Z"
 status: "active"
 ---
 

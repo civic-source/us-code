@@ -3,9 +3,9 @@ title: "Section 1541 - Omitted"
 usc_title: 42
 usc_section: "1541"
 chapter: 9
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 1541"
-generated_at: "2026-03-30T03:17:32.536Z"
+generated_at: "2026-03-30T03:20:42.474Z"
 status: "omitted"
 ---
 

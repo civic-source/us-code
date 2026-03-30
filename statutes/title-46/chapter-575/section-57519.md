@@ -1,0 +1,15 @@
+---
+title: "Section 57519 - Insurance"
+usc_title: 46
+usc_section: "57519"
+chapter: 575
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 57519"
+generated_at: "2026-03-30T03:20:50.670Z"
+status: "active"
+---
+
+# § 57519. Insurance
+
+A charter under this chapter shall require the charterer to carry, at the charterer’s expense, insurance on the chartered vessel covering all marine and port risks, protection and indemnity risks, and all other hazards and liabilities, adequate to cover damages claimed against and losses sustained by the chartered vessel arising during the term of the charter. The insurance shall be in such form, in such amount, and with such companies as the Secretary of Transportation may require. In accordance with law, any of the insurance risks may be underwritten by the Secretary.
+

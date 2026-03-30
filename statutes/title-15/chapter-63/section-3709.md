@@ -3,9 +3,9 @@ title: "Section 3709 - Repealed. Pub. L. 99–502, § 9(a) , Oct. 20, 1986 , 100
 usc_title: 15
 usc_section: "3709"
 chapter: 63
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 3709"
-generated_at: "2026-03-30T03:16:02.132Z"
+generated_at: "2026-03-30T03:18:53.772Z"
 status: "repealed"
 ---
 

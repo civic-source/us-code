@@ -3,9 +3,9 @@ title: "Section 2601 - Congressional findings and purpose"
 usc_title: 12
 usc_section: "2601"
 chapter: 27
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 2601"
-generated_at: "2026-03-30T03:15:58.647Z"
+generated_at: "2026-03-30T03:19:16.941Z"
 status: "active"
 ---
 

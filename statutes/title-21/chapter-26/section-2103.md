@@ -3,9 +3,9 @@ title: "Section 2103 - Ensuring efficient and effective communications during a 
 usc_title: 21
 usc_section: "2103"
 chapter: 26
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "21 U.S.C. § 2103"
-generated_at: "2026-03-30T03:16:19.037Z"
+generated_at: "2026-03-30T03:19:31.980Z"
 status: "active"
 ---
 

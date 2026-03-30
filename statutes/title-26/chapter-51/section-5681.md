@@ -3,9 +3,9 @@ title: "Section 5681 - Penalty relating to signs"
 usc_title: 26
 usc_section: "5681"
 chapter: 51
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 5681"
-generated_at: "2026-03-30T03:17:04.530Z"
+generated_at: "2026-03-30T03:19:57.928Z"
 status: "active"
 ---
 

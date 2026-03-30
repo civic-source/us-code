@@ -3,9 +3,9 @@ title: "Section 1706b - Taxation of real property held by Secretary"
 usc_title: 12
 usc_section: "1706b"
 chapter: 13
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 1706b"
-generated_at: "2026-03-30T03:15:58.576Z"
+generated_at: "2026-03-30T03:19:16.834Z"
 status: "active"
 ---
 

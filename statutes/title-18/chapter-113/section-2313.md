@@ -3,9 +3,9 @@ title: "Section 2313 - Sale or receipt of stolen vehicles"
 usc_title: 18
 usc_section: "2313"
 chapter: 113
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "18 U.S.C. § 2313"
-generated_at: "2026-03-30T03:16:09.121Z"
+generated_at: "2026-03-30T03:19:21.024Z"
 status: "active"
 ---
 

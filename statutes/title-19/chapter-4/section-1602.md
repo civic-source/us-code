@@ -3,9 +3,9 @@ title: "Section 1602 - Seizure; report to customs officer"
 usc_title: 19
 usc_section: "1602"
 chapter: 4
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "19 U.S.C. § 1602"
-generated_at: "2026-03-30T03:16:06.692Z"
+generated_at: "2026-03-30T03:19:27.338Z"
 status: "active"
 ---
 

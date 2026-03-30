@@ -3,9 +3,9 @@ title: "Section 151909 - Service of process"
 usc_title: 36
 usc_section: "151909"
 chapter: 1519
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "36 U.S.C. § 151909"
-generated_at: "2026-03-30T03:17:11.520Z"
+generated_at: "2026-03-30T03:20:13.945Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4608 - Collection of assessments; refunds"
 usc_title: 7
 usc_section: "4608"
 chapter: 77
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 4608"
-generated_at: "2026-03-30T03:15:47.512Z"
+generated_at: "2026-03-30T03:18:29.470Z"
 status: "active"
 ---
 

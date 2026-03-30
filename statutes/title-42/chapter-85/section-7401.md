@@ -3,9 +3,9 @@ title: "Section 7401 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "7401"
 chapter: 85
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 7401"
-generated_at: "2026-03-30T03:17:32.729Z"
+generated_at: "2026-03-30T03:20:42.730Z"
 status: "active"
 ---
 

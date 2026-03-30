@@ -1,0 +1,21 @@
+---
+title: "Section 53906 - Hull insurance valuation"
+usc_title: 46
+usc_section: "53906"
+chapter: 539
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 53906"
+generated_at: "2026-03-30T03:20:50.666Z"
+status: "active"
+---
+
+# § 53906. Hull insurance valuation
+
+- **(a)** The valuation in a hull insurance policy for actual or constructive total loss of the insured vessel shall be a stated valuation determined by the Secretary of Transportation. The stated valuation—
+  - **(1)** shall exclude national defense features paid for by the United States Government; and
+  - **(2)** may not exceed the amount that would be payable if the ownership of the vessel had been requisitioned under chapter 563 of this title at the time the insurance attached under the policy.
+- **(b)** Within 60 days after the insurance attaches under a policy referred to in subsection (a) or within 60 days after the Secretary determines the valuation, whichever is later, the insured may reject the valuation and pay, at the rate provided in the policy, premiums based on the asserted valuation the insured specifies at the time of rejection. However, the asserted valuation is not binding on the Government in any subsequent action on the policy.
+- **(c)** If a vessel is actually or constructively totally lost and the insured under a policy referred to in subsection (a) has not rejected the stated valuation determined by the Secretary, the amount of a claim adjusted, compromised, settled, adjudged, or paid may not exceed the stated valuation. However, if the insured has rejected the valuation, the insured—
+  - **(1)** shall be paid, as a tentative advance only, 75 percent of the stated valuation; and
+  - **(2)** may bring a civil action against the United States in a court having jurisdiction of the claim to recover a valuation equal to the just compensation the court determines would have been payable if the ownership of the vessel had been requisitioned under chapter 563 of this title at the time the insurance attached under the policy.
+- **(d)** If a court makes a determination as provided under subsection (c)(2), premiums paid under the policy shall be adjusted based on the court’s determination and the rates provided for in the policy.

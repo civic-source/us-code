@@ -3,9 +3,9 @@ title: "Section 1973 - Jurisdiction of courts; duty of United States attorneys; 
 usc_title: 12
 usc_section: "1973"
 chapter: 22
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 1973"
-generated_at: "2026-03-30T03:15:58.633Z"
+generated_at: "2026-03-30T03:19:16.920Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4103 - Appraisal and preservation value of eligible low-income h
 usc_title: 12
 usc_section: "4103"
 chapter: 42
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 4103"
-generated_at: "2026-03-30T03:15:58.660Z"
+generated_at: "2026-03-30T03:19:16.962Z"
 status: "active"
 ---
 

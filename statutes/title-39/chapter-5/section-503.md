@@ -3,9 +3,9 @@ title: "Section 503 - Rules; regulations; procedures"
 usc_title: 39
 usc_section: "503"
 chapter: 5
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "39 U.S.C. § 503"
-generated_at: "2026-03-30T03:17:11.727Z"
+generated_at: "2026-03-30T03:20:11.902Z"
 status: "active"
 ---
 

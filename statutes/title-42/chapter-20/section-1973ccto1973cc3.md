@@ -3,9 +3,9 @@ title: "Section 1973ccto1973cc3 - Repealed. Pub. L. 99–410, title II, § 203 ,
 usc_title: 42
 usc_section: "1973ccto1973cc3"
 chapter: 20
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 1973ccto1973cc3"
-generated_at: "2026-03-30T03:17:32.566Z"
+generated_at: "2026-03-30T03:20:42.516Z"
 status: "repealed"
 ---
 

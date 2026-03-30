@@ -3,9 +3,9 @@ title: "Section 943 - Right of way for railroads; reserved lands in Minnesota"
 usc_title: 43
 usc_section: "943"
 chapter: 22
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 943"
-generated_at: "2026-03-30T03:17:16.306Z"
+generated_at: "2026-03-30T03:20:21.385Z"
 status: "active"
 ---
 

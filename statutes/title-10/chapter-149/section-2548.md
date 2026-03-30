@@ -3,9 +3,9 @@ title: "Section 2548 - Performance assessments of the defense acquisition system
 usc_title: 10
 usc_section: "2548"
 chapter: 149
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 2548"
-generated_at: "2026-03-30T03:15:52.810Z"
+generated_at: "2026-03-30T03:18:22.706Z"
 status: "active"
 ---
 

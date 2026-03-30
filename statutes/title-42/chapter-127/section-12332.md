@@ -3,9 +3,9 @@ title: "Section 12332 - Definitions"
 usc_title: 42
 usc_section: "12332"
 chapter: 127
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 12332"
-generated_at: "2026-03-30T03:17:32.844Z"
+generated_at: "2026-03-30T03:20:42.874Z"
 status: "active"
 ---
 

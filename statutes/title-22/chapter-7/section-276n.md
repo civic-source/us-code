@@ -3,9 +3,9 @@ title: "Section 276n - United States Senate-China Interparliamentary Group"
 usc_title: 22
 usc_section: "276n"
 chapter: 7
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 276n"
-generated_at: "2026-03-30T03:16:41.314Z"
+generated_at: "2026-03-30T03:19:35.351Z"
 status: "active"
 ---
 

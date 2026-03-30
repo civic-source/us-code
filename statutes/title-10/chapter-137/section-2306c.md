@@ -3,9 +3,9 @@ title: "Section 2306c - Multiyear contracts: acquisition of services"
 usc_title: 10
 usc_section: "2306c"
 chapter: 137
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 2306c"
-generated_at: "2026-03-30T03:15:52.794Z"
+generated_at: "2026-03-30T03:18:22.691Z"
 status: "active"
 ---
 

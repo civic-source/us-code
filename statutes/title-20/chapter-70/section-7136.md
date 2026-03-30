@@ -3,9 +3,9 @@ title: "Section 7136 - Community service grant program"
 usc_title: 20
 usc_section: "7136"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 7136"
-generated_at: "2026-03-30T03:16:10.771Z"
+generated_at: "2026-03-30T03:19:25.650Z"
 status: "active"
 ---
 

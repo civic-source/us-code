@@ -3,9 +3,9 @@ title: "Section 809810 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct.
 usc_title: 22
 usc_section: "809810"
 chapter: 14
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 809810"
-generated_at: "2026-03-30T03:16:41.332Z"
+generated_at: "2026-03-30T03:19:35.372Z"
 status: "repealed"
 ---
 

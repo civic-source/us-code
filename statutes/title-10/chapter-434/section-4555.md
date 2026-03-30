@@ -3,9 +3,9 @@ title: "Section 4555 - ARMS Initiative loan guarantee program"
 usc_title: 10
 usc_section: "4555"
 chapter: 434
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 4555"
-generated_at: "2026-03-30T03:15:52.830Z"
+generated_at: "2026-03-30T03:18:22.726Z"
 status: "active"
 ---
 

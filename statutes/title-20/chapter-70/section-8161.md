@@ -3,9 +3,9 @@ title: "Section 8161 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8161"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 8161"
-generated_at: "2026-03-30T03:16:10.790Z"
+generated_at: "2026-03-30T03:19:25.678Z"
 status: "repealed"
 ---
 

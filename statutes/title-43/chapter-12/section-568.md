@@ -3,9 +3,9 @@ title: "Section 568 - Use of reclamation fund for expenses of and disposal of pr
 usc_title: 43
 usc_section: "568"
 chapter: 12
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 568"
-generated_at: "2026-03-30T03:17:16.296Z"
+generated_at: "2026-03-30T03:20:21.371Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 112 - Protection of foreign officials, official guests, and inte
 usc_title: 18
 usc_section: "112"
 chapter: 7
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "18 U.S.C. § 112"
-generated_at: "2026-03-30T03:16:09.088Z"
+generated_at: "2026-03-30T03:19:20.974Z"
 status: "active"
 ---
 

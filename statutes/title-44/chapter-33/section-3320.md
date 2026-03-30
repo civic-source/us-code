@@ -3,9 +3,9 @@ title: "Section 3320 - Powers of Commission"
 usc_title: 44
 usc_section: "3320"
 chapter: 33
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "44 U.S.C. § 3320"
-generated_at: "2026-03-30T03:17:15.468Z"
+generated_at: "2026-03-30T03:20:24.711Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2708 - Department of State rewards program"
 usc_title: 22
 usc_section: "2708"
 chapter: 38
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 2708"
-generated_at: "2026-03-30T03:16:41.380Z"
+generated_at: "2026-03-30T03:19:35.433Z"
 status: "active"
 ---
 

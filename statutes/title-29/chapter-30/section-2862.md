@@ -3,9 +3,9 @@ title: "Section 2862 - State allotments"
 usc_title: 29
 usc_section: "2862"
 chapter: 30
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "29 U.S.C. § 2862"
-generated_at: "2026-03-30T03:16:48.189Z"
+generated_at: "2026-03-30T03:19:40.553Z"
 status: "active"
 ---
 

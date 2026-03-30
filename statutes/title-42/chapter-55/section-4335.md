@@ -3,9 +3,9 @@ title: "Section 4335 - Efforts supplemental to existing authorizations"
 usc_title: 42
 usc_section: "4335"
 chapter: 55
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 4335"
-generated_at: "2026-03-30T03:17:32.644Z"
+generated_at: "2026-03-30T03:20:42.618Z"
 status: "active"
 ---
 

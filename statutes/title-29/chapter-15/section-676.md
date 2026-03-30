@@ -3,9 +3,9 @@ title: "Section 676 - Omitted"
 usc_title: 29
 usc_section: "676"
 chapter: 15
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "29 U.S.C. § 676"
-generated_at: "2026-03-30T03:16:48.124Z"
+generated_at: "2026-03-30T03:19:40.446Z"
 status: "omitted"
 ---
 

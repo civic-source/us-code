@@ -3,9 +3,9 @@ title: "Section 3202 - Repealed. Pub. L. 101–510, div. A, title IV, § 403(b)(
 usc_title: 10
 usc_section: "3202"
 chapter: 331
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 3202"
-generated_at: "2026-03-30T03:15:52.825Z"
+generated_at: "2026-03-30T03:18:22.721Z"
 status: "repealed"
 ---
 

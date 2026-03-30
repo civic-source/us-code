@@ -3,9 +3,9 @@ title: "Section 2 - Reasonable fees and rules for payment card transactions"
 usc_title: 15
 usc_section: "2"
 chapter: 41
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T03:16:02.102Z"
+generated_at: "2026-03-30T03:18:53.732Z"
 status: "active"
 ---
 

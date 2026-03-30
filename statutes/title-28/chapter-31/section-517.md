@@ -3,9 +3,9 @@ title: "Section 517 - Interests of United States in pending suits"
 usc_title: 28
 usc_section: "517"
 chapter: 31
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "28 U.S.C. § 517"
-generated_at: "2026-03-30T03:16:45.883Z"
+generated_at: "2026-03-30T03:19:39.336Z"
 status: "active"
 ---
 

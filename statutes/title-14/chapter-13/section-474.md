@@ -3,9 +3,9 @@ title: "Section 474 - Repealed. Sept. 1, 1954, ch. 1211, § 5 , 68 Stat. 1130 ]"
 usc_title: 14
 usc_section: "474"
 chapter: 13
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "14 U.S.C. § 474"
-generated_at: "2026-03-30T03:15:55.219Z"
+generated_at: "2026-03-30T03:18:45.181Z"
 status: "repealed"
 ---
 

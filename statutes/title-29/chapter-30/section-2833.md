@@ -3,9 +3,9 @@ title: "Section 2833 - Local plan"
 usc_title: 29
 usc_section: "2833"
 chapter: 30
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "29 U.S.C. § 2833"
-generated_at: "2026-03-30T03:16:48.187Z"
+generated_at: "2026-03-30T03:19:40.549Z"
 status: "active"
 ---
 

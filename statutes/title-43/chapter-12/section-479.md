@@ -3,9 +3,9 @@ title: "Section 479 - Shutting off water for nonpayment of construction charge"
 usc_title: 43
 usc_section: "479"
 chapter: 12
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 479"
-generated_at: "2026-03-30T03:17:16.293Z"
+generated_at: "2026-03-30T03:20:21.366Z"
 status: "active"
 ---
 

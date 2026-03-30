@@ -3,9 +3,9 @@ title: "Section 2671to2674 - Transferred"
 usc_title: 42
 usc_section: "2671to2674"
 chapter: 33
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 2671to2674"
-generated_at: "2026-03-30T03:17:32.597Z"
+generated_at: "2026-03-30T03:20:42.557Z"
 status: "transferred"
 ---
 

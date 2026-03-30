@@ -3,9 +3,9 @@ title: "Section 1161t - Model programs for Centers of Excellence for Veteran Stu
 usc_title: 20
 usc_section: "1161t"
 chapter: 28
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 1161t"
-generated_at: "2026-03-30T03:16:10.714Z"
+generated_at: "2026-03-30T03:19:25.516Z"
 status: "active"
 ---
 

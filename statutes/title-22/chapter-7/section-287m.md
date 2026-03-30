@@ -3,9 +3,9 @@ title: "Section 287m - Acceptance of membership by the United States"
 usc_title: 22
 usc_section: "287m"
 chapter: 7
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 287m"
-generated_at: "2026-03-30T03:16:41.325Z"
+generated_at: "2026-03-30T03:19:35.364Z"
 status: "active"
 ---
 

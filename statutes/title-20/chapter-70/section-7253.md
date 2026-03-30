@@ -3,9 +3,9 @@ title: "Section 7253 - Short title"
 usc_title: 20
 usc_section: "7253"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 7253"
-generated_at: "2026-03-30T03:16:10.776Z"
+generated_at: "2026-03-30T03:19:25.658Z"
 status: "active"
 ---
 

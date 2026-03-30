@@ -3,9 +3,9 @@ title: "Section 1506 - Additional Assistant Secretary; appointment; applicabilit
 usc_title: 15
 usc_section: "1506"
 chapter: 40
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 1506"
-generated_at: "2026-03-30T03:16:02.082Z"
+generated_at: "2026-03-30T03:18:53.705Z"
 status: "active"
 ---
 

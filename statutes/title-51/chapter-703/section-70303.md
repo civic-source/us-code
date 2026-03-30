@@ -3,9 +3,9 @@ title: "Section 70303 - Definition of additive cost"
 usc_title: 51
 usc_section: "70303"
 chapter: 703
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "51 U.S.C. § 70303"
-generated_at: "2026-03-30T03:17:42.409Z"
+generated_at: "2026-03-30T03:20:59.201Z"
 status: "active"
 ---
 

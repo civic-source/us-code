@@ -3,9 +3,9 @@ title: "Section 5 - Agricultural cooperatives"
 usc_title: 15
 usc_section: "5"
 chapter: 2
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T03:16:01.986Z"
+generated_at: "2026-03-30T03:18:53.569Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4025 - Grant program"
 usc_title: 25
 usc_section: "4025"
 chapter: 42
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "25 U.S.C. § 4025"
-generated_at: "2026-03-30T03:16:32.095Z"
+generated_at: "2026-03-30T03:19:33.181Z"
 status: "active"
 ---
 

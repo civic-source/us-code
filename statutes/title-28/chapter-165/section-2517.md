@@ -1,0 +1,15 @@
+---
+title: "Section 2517 - Payment of judgments"
+usc_title: 28
+usc_section: "2517"
+chapter: 165
+current_through: "PL 113-46"
+classification: "28 U.S.C. § 2517"
+generated_at: "2026-03-30T03:19:39.363Z"
+status: "active"
+---
+
+# § 2517. Payment of judgments
+
+- **(a)** Except as provided by chapter 71 of title 41, every final judgment rendered by the United States Court of Federal Claims against the United States shall be paid out of any general appropriation therefor, on presentation to the Secretary of the Treasury of a certification of the judgment by the clerk and chief judge of the court.
+- **(b)** Payment of any such judgment and of interest thereon shall be a full discharge to the United States of all claims and demands arising out of the matters involved in the case or controversy, unless the judgment is designated a partial judgment, in which event only the matters described therein shall be discharged.

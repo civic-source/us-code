@@ -3,9 +3,9 @@ title: "Section 7165 - Transfer of school disciplinary records"
 usc_title: 20
 usc_section: "7165"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 7165"
-generated_at: "2026-03-30T03:16:10.772Z"
+generated_at: "2026-03-30T03:19:25.651Z"
 status: "active"
 ---
 

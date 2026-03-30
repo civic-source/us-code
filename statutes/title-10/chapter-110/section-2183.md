@@ -3,9 +3,9 @@ title: "Section 2183 - Educational assistance: former captives"
 usc_title: 10
 usc_section: "2183"
 chapter: 110
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 2183"
-generated_at: "2026-03-30T03:15:52.787Z"
+generated_at: "2026-03-30T03:18:22.683Z"
 status: "active"
 ---
 

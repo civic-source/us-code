@@ -3,9 +3,9 @@ title: "Section 11360a - Collaborative applicants"
 usc_title: 42
 usc_section: "11360a"
 chapter: 119
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 11360a"
-generated_at: "2026-03-30T03:17:32.830Z"
+generated_at: "2026-03-30T03:20:42.856Z"
 status: "active"
 ---
 

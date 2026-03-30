@@ -3,9 +3,9 @@ title: "Section 1012 - Authorization to withdraw, prorate and distribute funds"
 usc_title: 25
 usc_section: "1012"
 chapter: 14
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "25 U.S.C. § 1012"
-generated_at: "2026-03-30T03:16:32.002Z"
+generated_at: "2026-03-30T03:19:33.114Z"
 status: "active"
 ---
 

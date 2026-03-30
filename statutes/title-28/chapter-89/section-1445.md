@@ -3,9 +3,9 @@ title: "Section 1445 - Nonremovable actions"
 usc_title: 28
 usc_section: "1445"
 chapter: 89
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "28 U.S.C. § 1445"
-generated_at: "2026-03-30T03:16:45.893Z"
+generated_at: "2026-03-30T03:19:39.350Z"
 status: "active"
 ---
 

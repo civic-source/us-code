@@ -1,0 +1,15 @@
+---
+title: "Section 58104 - Willful violation constitutes breach of contract or charter"
+usc_title: 46
+usc_section: "58104"
+chapter: 581
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 58104"
+generated_at: "2026-03-30T03:20:50.670Z"
+status: "active"
+---
+
+# § 58104. Willful violation constitutes breach of contract or charter
+
+A willful violation of any provision of sections 58101–58103 of this title constitutes a breach of the contract or charter. On determining that a violation has occurred, the Secretary of Transportation may declare the contract or charter rescinded.
+

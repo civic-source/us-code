@@ -3,9 +3,9 @@ title: "Section 11389 - Repealed. Pub. L. 111–22, div. B, title III, § 1305(1
 usc_title: 42
 usc_section: "11389"
 chapter: 119
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 11389"
-generated_at: "2026-03-30T03:17:32.833Z"
+generated_at: "2026-03-30T03:20:42.860Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7205 - Promotion of health and prevention of accidents"
 usc_title: 10
 usc_section: "7205"
 chapter: 631
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 7205"
-generated_at: "2026-03-30T03:15:52.840Z"
+generated_at: "2026-03-30T03:18:22.737Z"
 status: "active"
 ---
 

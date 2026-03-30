@@ -3,9 +3,9 @@ title: "Section 14701 - Applicable labor standards"
 usc_title: 40
 usc_section: "14701"
 chapter: 147
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "40 U.S.C. § 14701"
-generated_at: "2026-03-30T03:17:13.697Z"
+generated_at: "2026-03-30T03:20:12.396Z"
 status: "active"
 ---
 

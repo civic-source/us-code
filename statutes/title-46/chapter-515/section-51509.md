@@ -1,0 +1,36 @@
+---
+title: "Section 51509 - Student incentive payment agreements"
+usc_title: 46
+usc_section: "51509"
+chapter: 515
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 51509"
+generated_at: "2026-03-30T03:20:50.661Z"
+status: "active"
+---
+
+# § 51509. Student incentive payment agreements
+
+- **(a)** If a State maritime academy has an agreement with the Secretary of Transportation under section 51505 of this title , the Secretary may make an agreement with a student at the academy who is a citizen of the United States to make student incentive payments to the individual. An agreement with a student may not be effective for more than 4 academic years. The Secretary shall allocate payments under this section among the various State maritime academies in an equitable manner.
+- **(b)** Payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary. The payments shall be used for uniforms, tuition, books, and subsistence.
+- **(c)** An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
+- **(d)** An agreement under this section shall require the student to—
+  - **(1)** complete the course of instruction at the academy the individual is attending;
+  - **(2)** take the examination for a license as an officer in the merchant marine of the United States before graduation from the academy and fulfill the requirements for such a license within 3 months after graduation from the academy;
+  - **(3)** maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;
+  - **(4)** accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;
+  - **(5)** serve the foreign and domestic commerce and the national defense of the United States for at least 3 years after graduation from the academy—
+    - **(A)** as a merchant marine officer on a documented vessel or a vessel owned and operated by the United States Government or by a State;
+    - **(B)** as an employee in a United States maritime-related industry, profession, or marine science (as determined by the Secretary), if the Secretary determines that service under subparagraph (A) is not available to the individual;
+    - **(C)** as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the National Oceanic and Atmospheric Administration, or in other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
+    - **(D)** by a combination of the service alternatives referred to in subparagraphs (A)–(C); and
+  - **(6)** report to the Secretary on compliance with this subsection.
+- **(e)**
+  - **(1)** If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of not more than 2 years. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
+  - **(2)** If the Secretary of Defense is unable or unwilling to order an individual to serve on active duty under paragraph (1), or if the Secretary of Transportation determines that reimbursement of the cost of education provided would better serve the interests of the United States, the Secretary of Transportation may recover from the individual the amount of student incentive payments, plus interest and attorney fees. The Secretary may reduce the amount to be recovered to reflect partial performance of service obligations and other factors the Secretary determines merit a reduction.
+- **(f)**
+  - **(1)** If the Secretary of Transportation determines that an individual has failed to fulfill any part of the agreement described in subsection (d)(2)–(6), the individual may be ordered to serve on active duty for a period of at least 2 years but not more than the unexpired period (as determined by the Secretary) of the service required by subsection (d)(5). The Secretary of Transportation, in consultation with the Secretary of Defense, shall determine in which service the individual shall serve. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
+  - **(2)** If the Secretary of Defense is unable or unwilling to order an individual to serve on active duty under paragraph (1), or if the Secretary of Transportation determines that reimbursement of the cost of education provided would better serve the interests of the United States, the Secretary of Transportation may recover from the individual the amount of student incentive payments, plus interest and attorney fees. The Secretary may reduce the amount to be recovered to reflect partial performance of service obligations and other factors the Secretary determines merit a reduction.
+- **(g)** To aid in the recovery of the cost of education provided by the Government under a commitment agreement under this section, the Secretary of Transportation may—
+  - **(1)** request the Attorney General to bring a civil action against the individual; and
+  - **(2)** make use of the Federal debt collection procedures in chapter 176 of title 28 or other applicable administrative remedies.

@@ -3,9 +3,9 @@ title: "Section 7816 - Establishment of regional framework"
 usc_title: 22
 usc_section: "7816"
 chapter: 85
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 7816"
-generated_at: "2026-03-30T03:16:41.447Z"
+generated_at: "2026-03-30T03:19:35.521Z"
 status: "active"
 ---
 

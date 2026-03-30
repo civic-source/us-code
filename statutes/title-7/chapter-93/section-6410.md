@@ -3,9 +3,9 @@ title: "Section 6410 - Petition and review"
 usc_title: 7
 usc_section: "6410"
 chapter: 93
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 6410"
-generated_at: "2026-03-30T03:15:47.528Z"
+generated_at: "2026-03-30T03:18:29.489Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4104 - Government facilities; use of"
 usc_title: 5
 usc_section: "4104"
 chapter: 41
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "5 U.S.C. § 4104"
-generated_at: "2026-03-30T03:15:42.263Z"
+generated_at: "2026-03-30T03:18:06.117Z"
 status: "active"
 ---
 

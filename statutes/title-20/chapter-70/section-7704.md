@@ -3,9 +3,9 @@ title: "Section 7704 - Policies and procedures relating to children residing on 
 usc_title: 20
 usc_section: "7704"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 7704"
-generated_at: "2026-03-30T03:16:10.786Z"
+generated_at: "2026-03-30T03:19:25.672Z"
 status: "active"
 ---
 

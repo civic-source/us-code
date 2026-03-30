@@ -3,9 +3,9 @@ title: "Section 1495 - Damages for unjust conviction and imprisonment; claim aga
 usc_title: 28
 usc_section: "1495"
 chapter: 91
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "28 U.S.C. § 1495"
-generated_at: "2026-03-30T03:16:45.894Z"
+generated_at: "2026-03-30T03:19:39.351Z"
 status: "active"
 ---
 

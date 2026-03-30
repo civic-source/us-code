@@ -3,9 +3,9 @@ title: "Section 1303 - Operation of corporation"
 usc_title: 29
 usc_section: "1303"
 chapter: 18
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "29 U.S.C. § 1303"
-generated_at: "2026-03-30T03:16:48.164Z"
+generated_at: "2026-03-30T03:19:40.489Z"
 status: "active"
 ---
 

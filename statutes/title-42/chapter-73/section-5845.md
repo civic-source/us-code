@@ -3,9 +3,9 @@ title: "Section 5845 - Office of Nuclear Regulatory Research"
 usc_title: 42
 usc_section: "5845"
 chapter: 73
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 5845"
-generated_at: "2026-03-30T03:17:32.680Z"
+generated_at: "2026-03-30T03:20:42.666Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 561to570 - Omitted"
 usc_title: 12
 usc_section: "561to570"
 chapter: 4
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 561to570"
-generated_at: "2026-03-30T03:15:58.552Z"
+generated_at: "2026-03-30T03:19:16.795Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 340 - Significantly viewed signals permitted to be carried"
 usc_title: 47
 usc_section: "340"
 chapter: 5
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "47 U.S.C. § 340"
-generated_at: "2026-03-30T03:17:40.617Z"
+generated_at: "2026-03-30T03:20:57.114Z"
 status: "active"
 ---
 

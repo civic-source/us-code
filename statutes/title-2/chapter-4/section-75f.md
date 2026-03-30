@@ -3,9 +3,9 @@ title: "Section 75f - House emergency operations positions"
 usc_title: 2
 usc_section: "75f"
 chapter: 4
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "2 U.S.C. § 75f"
-generated_at: "2026-03-30T03:15:32.281Z"
+generated_at: "2026-03-30T03:17:55.444Z"
 status: "active"
 ---
 

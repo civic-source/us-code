@@ -3,9 +3,9 @@ title: "Section 1772g - Revocation of settlement"
 usc_title: 25
 usc_section: "1772g"
 chapter: 19
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "25 U.S.C. § 1772g"
-generated_at: "2026-03-30T03:16:32.066Z"
+generated_at: "2026-03-30T03:19:33.145Z"
 status: "active"
 ---
 

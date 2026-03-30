@@ -3,9 +3,9 @@ title: "Section 6764 - Coordination with other regulators"
 usc_title: 15
 usc_section: "6764"
 chapter: 93
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 6764"
-generated_at: "2026-03-30T03:16:02.152Z"
+generated_at: "2026-03-30T03:18:53.797Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2295b - Authorities relating to assistance and other provisions"
 usc_title: 22
 usc_section: "2295b"
 chapter: 32
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 2295b"
-generated_at: "2026-03-30T03:16:41.358Z"
+generated_at: "2026-03-30T03:19:35.406Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7528 - Internal Revenue Service user fees"
 usc_title: 26
 usc_section: "7528"
 chapter: 77
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 7528"
-generated_at: "2026-03-30T03:17:04.575Z"
+generated_at: "2026-03-30T03:19:57.986Z"
 status: "active"
 ---
 

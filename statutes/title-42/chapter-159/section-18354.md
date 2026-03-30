@@ -3,9 +3,9 @@ title: "Section 18354 - Management of the ISS national laboratory"
 usc_title: 42
 usc_section: "18354"
 chapter: 159
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 18354"
-generated_at: "2026-03-30T03:17:32.962Z"
+generated_at: "2026-03-30T03:20:43.020Z"
 status: "active"
 ---
 

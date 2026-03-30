@@ -3,9 +3,9 @@ title: "Section 486 - Clothing for destitute shipwrecked persons"
 usc_title: 14
 usc_section: "486"
 chapter: 13
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "14 U.S.C. § 486"
-generated_at: "2026-03-30T03:15:55.219Z"
+generated_at: "2026-03-30T03:18:45.181Z"
 status: "active"
 ---
 

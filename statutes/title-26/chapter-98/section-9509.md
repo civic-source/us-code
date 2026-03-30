@@ -3,9 +3,9 @@ title: "Section 9509 - Oil Spill Liability Trust Fund"
 usc_title: 26
 usc_section: "9509"
 chapter: 98
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 9509"
-generated_at: "2026-03-30T03:17:04.586Z"
+generated_at: "2026-03-30T03:19:58.000Z"
 status: "active"
 ---
 

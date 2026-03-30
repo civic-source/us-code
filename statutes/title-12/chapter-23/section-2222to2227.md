@@ -3,9 +3,9 @@ title: "Section 2222to2227 - Repealed. Pub. L. 100–399, title IV, § 409(d) , 
 usc_title: 12
 usc_section: "2222to2227"
 chapter: 23
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 2222to2227"
-generated_at: "2026-03-30T03:15:58.638Z"
+generated_at: "2026-03-30T03:19:16.928Z"
 status: "repealed"
 ---
 

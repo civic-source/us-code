@@ -3,9 +3,9 @@ title: "Section 1181e - Rules and regulations generally; consultation and agreem
 usc_title: 43
 usc_section: "1181e"
 chapter: 28
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 1181e"
-generated_at: "2026-03-30T03:17:16.309Z"
+generated_at: "2026-03-30T03:20:21.388Z"
 status: "active"
 ---
 

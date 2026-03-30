@@ -3,9 +3,9 @@ title: "Section 1638 - Definitions"
 usc_title: 7
 usc_section: "1638"
 chapter: 38
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 1638"
-generated_at: "2026-03-30T03:15:47.453Z"
+generated_at: "2026-03-30T03:18:29.403Z"
 status: "active"
 ---
 

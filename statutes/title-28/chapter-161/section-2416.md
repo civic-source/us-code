@@ -1,0 +1,19 @@
+---
+title: "Section 2416 - Time for commencing actions brought by the United States—Exclusions"
+usc_title: 28
+usc_section: "2416"
+chapter: 161
+current_through: "PL 113-46"
+classification: "28 U.S.C. § 2416"
+generated_at: "2026-03-30T03:19:39.362Z"
+status: "active"
+---
+
+# § 2416. Time for commencing actions brought by the United States—Exclusions
+
+For the purpose of computing the limitations periods established in section 2415, there shall be excluded all periods during which—
+
+- **(a)** the defendant or the res is outside the United States, its territories and possessions, the District of Columbia, or the Commonwealth of Puerto Rico; or
+- **(b)** the defendant is exempt from legal process because of infancy, mental incompetence, diplomatic immunity, or for any other reason; or
+- **(c)** facts material to the right of action are not known and reasonably could not be known by an official of the United States charged with the responsibility to act in the circumstances; or
+- **(d)** the United States is in a state of war declared pursuant to article I, section 8, of the Constitution of the United States.

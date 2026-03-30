@@ -3,9 +3,9 @@ title: "Section 13433 - Alternative fuel vehicle program"
 usc_title: 42
 usc_section: "13433"
 chapter: 134
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 13433"
-generated_at: "2026-03-30T03:17:32.878Z"
+generated_at: "2026-03-30T03:20:42.916Z"
 status: "active"
 ---
 

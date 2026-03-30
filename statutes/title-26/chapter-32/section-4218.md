@@ -3,9 +3,9 @@ title: "Section 4218 - Use by manufacturer or importer considered sale"
 usc_title: 26
 usc_section: "4218"
 chapter: 32
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 4218"
-generated_at: "2026-03-30T03:17:04.509Z"
+generated_at: "2026-03-30T03:19:57.899Z"
 status: "active"
 ---
 

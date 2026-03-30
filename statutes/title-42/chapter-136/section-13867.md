@@ -3,9 +3,9 @@ title: "Section 13867 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13867"
 chapter: 136
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 13867"
-generated_at: "2026-03-30T03:17:32.887Z"
+generated_at: "2026-03-30T03:20:42.926Z"
 status: "active"
 ---
 

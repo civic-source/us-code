@@ -3,9 +3,9 @@ title: "Section 1to18 - Repealed or Omitted"
 usc_title: 8
 usc_section: "1to18"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "8 U.S.C. § 1to18"
-generated_at: "2026-03-30T03:15:48.456Z"
+generated_at: "2026-03-30T03:18:43.050Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 87 - Repealed. Pub. L. 94–546, § 1(6) , (7), Oct. 18, 1976 , 
 usc_title: 14
 usc_section: "87"
 chapter: 5
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "14 U.S.C. § 87"
-generated_at: "2026-03-30T03:15:55.217Z"
+generated_at: "2026-03-30T03:18:45.179Z"
 status: "repealed"
 ---
 

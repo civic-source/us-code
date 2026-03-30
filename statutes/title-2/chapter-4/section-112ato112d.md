@@ -3,9 +3,9 @@ title: "Section 112ato112d - Repealed. Pub. L. 91–139, § 2(a) , Dec. 5, 1969 
 usc_title: 2
 usc_section: "112ato112d"
 chapter: 4
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "2 U.S.C. § 112ato112d"
-generated_at: "2026-03-30T03:15:32.282Z"
+generated_at: "2026-03-30T03:17:55.446Z"
 status: "repealed"
 ---
 

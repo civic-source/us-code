@@ -3,9 +3,9 @@ title: "Section 1108 - Definitions"
 usc_title: 47
 usc_section: "1108"
 chapter: 10
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "47 U.S.C. § 1108"
-generated_at: "2026-03-30T03:17:40.638Z"
+generated_at: "2026-03-30T03:20:57.142Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5091to5091n - Repealed. Pub. L. 103–82, title III, § 385 , Se
 usc_title: 42
 usc_section: "5091to5091n"
 chapter: 66
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 5091to5091n"
-generated_at: "2026-03-30T03:17:32.656Z"
+generated_at: "2026-03-30T03:20:42.634Z"
 status: "repealed"
 ---
 

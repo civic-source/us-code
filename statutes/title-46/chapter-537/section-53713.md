@@ -1,0 +1,24 @@
+---
+title: "Section 53713 - Administrative fees"
+usc_title: 46
+usc_section: "53713"
+chapter: 537
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 53713"
+generated_at: "2026-03-30T03:20:50.665Z"
+status: "active"
+---
+
+# § 53713. Administrative fees
+
+- **(a)** The Secretary or Administrator shall charge and collect from the obligor fees the Secretary or Administrator considers reasonable for—
+  - **(1)** investigating an application for a guarantee;
+  - **(2)** appraising property offered as security for a guarantee;
+  - **(3)** issuing a commitment;
+  - **(4)** providing services related to an escrow fund under section 53715 of this title ; and
+  - **(5)** inspecting property during construction, reconstruction, or reconditioning.
+- **(b)** The total fees under subsection (a) may not exceed 0.5 percent of the original principal amount of the obligations to be guaranteed.
+- **(c)** The Secretary or Administrator may charge and collect fees to cover the costs of independent analysis under section 53708(d) of this title . Notwithstanding section 3302 of title 31 , any fee collected under this subsection shall—
+  - **(1)** be credited as an offsetting collection to the account that finances the administration of the loan guarantee program;
+  - **(2)** be available for expenditure only to pay the costs of activities and services for which the fee is imposed; and
+  - **(3)** remain available until expended.

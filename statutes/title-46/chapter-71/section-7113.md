@@ -3,9 +3,9 @@ title: "Section 7113 - Exemption from draft"
 usc_title: 46
 usc_section: "7113"
 chapter: 71
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "46 U.S.C. § 7113"
-generated_at: "2026-03-30T03:17:36.204Z"
+generated_at: "2026-03-30T03:20:50.641Z"
 status: "active"
 ---
 

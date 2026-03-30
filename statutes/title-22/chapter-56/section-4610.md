@@ -3,9 +3,9 @@ title: "Section 4610 - Dissolution or liquidation"
 usc_title: 22
 usc_section: "4610"
 chapter: 56
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 4610"
-generated_at: "2026-03-30T03:16:41.412Z"
+generated_at: "2026-03-30T03:19:35.475Z"
 status: "active"
 ---
 

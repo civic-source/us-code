@@ -3,9 +3,9 @@ title: "Section 3184 - Fugitives from foreign country to United States"
 usc_title: 18
 usc_section: "3184"
 chapter: 209
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "18 U.S.C. § 3184"
-generated_at: "2026-03-30T03:16:09.130Z"
+generated_at: "2026-03-30T03:19:21.038Z"
 status: "active"
 ---
 

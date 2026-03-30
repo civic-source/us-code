@@ -3,9 +3,9 @@ title: "Section 12655d - Related programs"
 usc_title: 42
 usc_section: "12655d"
 chapter: 129
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 12655d"
-generated_at: "2026-03-30T03:17:32.859Z"
+generated_at: "2026-03-30T03:20:42.893Z"
 status: "active"
 ---
 

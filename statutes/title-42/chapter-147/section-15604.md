@@ -3,9 +3,9 @@ title: "Section 15604 - Prison rape prevention and prosecution"
 usc_title: 42
 usc_section: "15604"
 chapter: 147
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 15604"
-generated_at: "2026-03-30T03:17:32.914Z"
+generated_at: "2026-03-30T03:20:42.961Z"
 status: "active"
 ---
 

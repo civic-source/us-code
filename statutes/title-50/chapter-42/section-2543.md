@@ -3,9 +3,9 @@ title: "Section 2543 - Tritium production"
 usc_title: 50
 usc_section: "2543"
 chapter: 42
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "50 U.S.C. § 2543"
-generated_at: "2026-03-30T03:17:37.447Z"
+generated_at: "2026-03-30T03:20:46.745Z"
 status: "active"
 ---
 

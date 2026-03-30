@@ -3,9 +3,9 @@ title: "Section 283 - Public subscription to capital stock"
 usc_title: 12
 usc_section: "283"
 chapter: 3
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 283"
-generated_at: "2026-03-30T03:15:58.546Z"
+generated_at: "2026-03-30T03:19:16.785Z"
 status: "active"
 ---
 

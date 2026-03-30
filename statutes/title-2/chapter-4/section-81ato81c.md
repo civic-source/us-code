@@ -3,9 +3,9 @@ title: "Section 81ato81c - Repealed. Pub. L. 104–186, title II, § 204(27) –
 usc_title: 2
 usc_section: "81ato81c"
 chapter: 4
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "2 U.S.C. § 81ato81c"
-generated_at: "2026-03-30T03:15:32.281Z"
+generated_at: "2026-03-30T03:17:55.445Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6907 - Repealed. Pub. L. 87–100, § 1(1) , July 21, 1961 , 75 
 usc_title: 10
 usc_section: "6907"
 chapter: 601
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 6907"
-generated_at: "2026-03-30T03:15:52.838Z"
+generated_at: "2026-03-30T03:18:22.734Z"
 status: "repealed"
 ---
 

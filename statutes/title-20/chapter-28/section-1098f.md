@@ -3,9 +3,9 @@ title: "Section 1098f - Deferral of loan repayment following active duty"
 usc_title: 20
 usc_section: "1098f"
 chapter: 28
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 1098f"
-generated_at: "2026-03-30T03:16:10.702Z"
+generated_at: "2026-03-30T03:19:25.497Z"
 status: "active"
 ---
 

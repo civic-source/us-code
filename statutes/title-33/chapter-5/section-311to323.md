@@ -3,9 +3,9 @@ title: "Section 311to323 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 ,
 usc_title: 33
 usc_section: "311to323"
 chapter: 5
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "33 U.S.C. § 311to323"
-generated_at: "2026-03-30T03:17:08.900Z"
+generated_at: "2026-03-30T03:20:10.104Z"
 status: "repealed"
 ---
 

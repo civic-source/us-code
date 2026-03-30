@@ -3,9 +3,9 @@ title: "Section 16515 - Limitation on commitments to guarantee loans"
 usc_title: 42
 usc_section: "16515"
 chapter: 149
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 16515"
-generated_at: "2026-03-30T03:17:32.934Z"
+generated_at: "2026-03-30T03:20:42.986Z"
 status: "active"
 ---
 

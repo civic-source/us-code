@@ -3,9 +3,9 @@ title: "Section 6831 - Congressional findings and purpose"
 usc_title: 42
 usc_section: "6831"
 chapter: 81
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 6831"
-generated_at: "2026-03-30T03:17:32.705Z"
+generated_at: "2026-03-30T03:20:42.698Z"
 status: "active"
 ---
 

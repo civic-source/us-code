@@ -3,9 +3,9 @@ title: "Section 3535 - Annual independent evaluation"
 usc_title: 44
 usc_section: "3535"
 chapter: 35
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "44 U.S.C. § 3535"
-generated_at: "2026-03-30T03:17:15.470Z"
+generated_at: "2026-03-30T03:20:24.713Z"
 status: "active"
 ---
 

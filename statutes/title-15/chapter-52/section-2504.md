@@ -3,9 +3,9 @@ title: "Section 2504 - Coordination between Secretary of Energy and other agenci
 usc_title: 15
 usc_section: "2504"
 chapter: 52
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 2504"
-generated_at: "2026-03-30T03:16:02.116Z"
+generated_at: "2026-03-30T03:18:53.751Z"
 status: "active"
 ---
 

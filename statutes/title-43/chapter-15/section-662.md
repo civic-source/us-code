@@ -3,9 +3,9 @@ title: "Section 662 - Reservation of reservoir sites generally"
 usc_title: 43
 usc_section: "662"
 chapter: 15
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 662"
-generated_at: "2026-03-30T03:17:16.301Z"
+generated_at: "2026-03-30T03:20:21.378Z"
 status: "active"
 ---
 

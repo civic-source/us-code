@@ -3,9 +3,9 @@ title: "Section 6731 - Economization by State and local governments; statement o
 usc_title: 42
 usc_section: "6731"
 chapter: 80
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 6731"
-generated_at: "2026-03-30T03:17:32.705Z"
+generated_at: "2026-03-30T03:20:42.698Z"
 status: "active"
 ---
 

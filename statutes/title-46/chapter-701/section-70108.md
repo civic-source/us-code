@@ -1,0 +1,33 @@
+---
+title: "Section 70108 - Foreign port assessment"
+usc_title: 46
+usc_section: "70108"
+chapter: 701
+current_through: "PL 113-46"
+classification: "46 U.S.C. § 70108"
+generated_at: "2026-03-30T03:20:50.674Z"
+status: "active"
+---
+
+# § 70108. Foreign port assessment
+
+- **(a)** The Secretary shall assess the effectiveness of the antiterrorism measures maintained at—
+  - **(1)** a foreign port—
+    - **(A)** served by vessels documented under chapter 121 of this title; or
+    - **(B)** from which foreign vessels depart on a voyage to the United States; and
+  - **(2)** any other foreign port the Secretary believes poses a security risk to international maritime commerce.
+- **(b)** In conducting an assessment under subsection (a), the Secretary shall assess the effectiveness of—
+  - **(1)** screening of containerized and other cargo and baggage;
+  - **(2)** security measures to restrict access to cargo, vessels, and dockside property to authorized personnel only;
+  - **(3)** additional security on board vessels;
+  - **(4)** licensing or certification of compliance with appropriate security standards;
+  - **(5)** the security management program of the foreign port; and
+  - **(6)** other appropriate measures to deter terrorism against the United States.
+- **(c)** In carrying out this section, the Secretary shall consult with—
+  - **(1)** the Secretary of Defense and the Secretary of State—
+    - **(A)** on the terrorist threat that exists in each country involved; and
+    - **(B)** to identify foreign ports that pose a high risk of introducing terrorism to international maritime commerce;
+  - **(2)** appropriate authorities of foreign governments; and
+  - **(3)** operators of vessels.
+- **(d)** The Secretary, acting through the Commandant of the Coast Guard, shall reassess the effectiveness of antiterrorism measures maintained at ports as described under subsection (a) and of procedures described in subsection (b) not less than once every 3 years.
+- **(e)** The absence of an inspection of a foreign port shall not bar the Secretary from making a finding that a port in a foreign country does not maintain effective antiterrorism measures.

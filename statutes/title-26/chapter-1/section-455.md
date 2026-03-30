@@ -3,9 +3,9 @@ title: "Section 455 - Prepaid subscription income"
 usc_title: 26
 usc_section: "455"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 455"
-generated_at: "2026-03-30T03:17:04.414Z"
+generated_at: "2026-03-30T03:19:57.779Z"
 status: "active"
 ---
 

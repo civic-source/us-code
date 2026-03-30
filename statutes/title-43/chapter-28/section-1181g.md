@@ -3,9 +3,9 @@ title: "Section 1181g - Unselected and unpatented odd-numbered sections as reves
 usc_title: 43
 usc_section: "1181g"
 chapter: 28
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 1181g"
-generated_at: "2026-03-30T03:17:16.309Z"
+generated_at: "2026-03-30T03:20:21.388Z"
 status: "active"
 ---
 

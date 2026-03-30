@@ -3,9 +3,9 @@ title: "Section 1677 - Effect on State laws"
 usc_title: 15
 usc_section: "1677"
 chapter: 41
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 1677"
-generated_at: "2026-03-30T03:16:02.093Z"
+generated_at: "2026-03-30T03:18:53.719Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2254 - Operation, maintenance and purchase of aircraft by Agricu
 usc_title: 7
 usc_section: "2254"
 chapter: 55
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 2254"
-generated_at: "2026-03-30T03:15:47.491Z"
+generated_at: "2026-03-30T03:18:29.446Z"
 status: "active"
 ---
 

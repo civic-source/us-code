@@ -3,9 +3,9 @@ title: "Section 8142 - Peace Corps volunteers"
 usc_title: 5
 usc_section: "8142"
 chapter: 81
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "5 U.S.C. § 8142"
-generated_at: "2026-03-30T03:15:42.284Z"
+generated_at: "2026-03-30T03:18:06.157Z"
 status: "active"
 ---
 

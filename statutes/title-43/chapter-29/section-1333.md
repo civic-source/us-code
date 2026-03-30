@@ -3,9 +3,9 @@ title: "Section 1333 - Laws and regulations governing lands"
 usc_title: 43
 usc_section: "1333"
 chapter: 29
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 1333"
-generated_at: "2026-03-30T03:17:16.310Z"
+generated_at: "2026-03-30T03:20:21.390Z"
 status: "active"
 ---
 

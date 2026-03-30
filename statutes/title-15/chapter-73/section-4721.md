@@ -3,9 +3,9 @@ title: "Section 4721 - United States and Foreign Commercial Service"
 usc_title: 15
 usc_section: "4721"
 chapter: 73
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "15 U.S.C. § 4721"
-generated_at: "2026-03-30T03:16:02.139Z"
+generated_at: "2026-03-30T03:18:53.781Z"
 status: "active"
 ---
 

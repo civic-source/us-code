@@ -3,9 +3,9 @@ title: "Section 1292 - Interlocutory decisions"
 usc_title: 28
 usc_section: "1292"
 chapter: 83
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "28 U.S.C. § 1292"
-generated_at: "2026-03-30T03:16:45.890Z"
+generated_at: "2026-03-30T03:19:39.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24 - Eastern Municipal Water District recycled water system pres
 usc_title: 43
 usc_section: "24"
 chapter: 12
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "43 U.S.C. § 24"
-generated_at: "2026-03-30T03:17:16.287Z"
+generated_at: "2026-03-30T03:20:21.359Z"
 status: "active"
 ---
 

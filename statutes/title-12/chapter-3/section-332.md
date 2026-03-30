@@ -3,9 +3,9 @@ title: "Section 332 - Depositaries of public money; financial agents; security r
 usc_title: 12
 usc_section: "332"
 chapter: 3
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 332"
-generated_at: "2026-03-30T03:15:58.547Z"
+generated_at: "2026-03-30T03:19:16.787Z"
 status: "active"
 ---
 

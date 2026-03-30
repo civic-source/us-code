@@ -3,9 +3,9 @@ title: "Section 5881to5885 - Repealed. Pub. L. 104–127, title VIII, § 862(a) 
 usc_title: 7
 usc_section: "5881to5885"
 chapter: 88
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 5881to5885"
-generated_at: "2026-03-30T03:15:47.520Z"
+generated_at: "2026-03-30T03:18:29.480Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 719 - Classification and numbering of publications ordered print
 usc_title: 44
 usc_section: "719"
 chapter: 7
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "44 U.S.C. § 719"
-generated_at: "2026-03-30T03:17:15.461Z"
+generated_at: "2026-03-30T03:20:24.702Z"
 status: "active"
 ---
 

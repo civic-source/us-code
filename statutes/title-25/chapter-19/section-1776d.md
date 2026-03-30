@@ -3,9 +3,9 @@ title: "Section 1776d - Establishment and administration of Crow Tribal Trust Fu
 usc_title: 25
 usc_section: "1776d"
 chapter: 19
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "25 U.S.C. § 1776d"
-generated_at: "2026-03-30T03:16:32.068Z"
+generated_at: "2026-03-30T03:19:33.147Z"
 status: "active"
 ---
 

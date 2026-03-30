@@ -1,0 +1,15 @@
+---
+title: "Section 2678 - Attorney fees; penalty"
+usc_title: 28
+usc_section: "2678"
+chapter: 171
+current_through: "PL 113-46"
+classification: "28 U.S.C. § 2678"
+generated_at: "2026-03-30T03:19:39.365Z"
+status: "active"
+---
+
+# § 2678. Attorney fees; penalty
+
+No attorney shall charge, demand, receive, or collect for services rendered, fees in excess of 25 per centum of any judgment rendered pursuant to section 1346(b) of this title or any settlement made pursuant to section 2677 of this title , or in excess of 20 per centum of any award, compromise, or settlement made pursuant to section 2672 of this title . Any attorney who charges, demands, receives, or collects for services rendered in connection with such claim any amount in excess of that allowed under this section, if recovery be had, shall be fined not more than $2,000 or imprisoned not more than one year, or both.
+

@@ -3,9 +3,9 @@ title: "Section 7277c - Report to Congress"
 usc_title: 20
 usc_section: "7277c"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 7277c"
-generated_at: "2026-03-30T03:16:10.780Z"
+generated_at: "2026-03-30T03:19:25.662Z"
 status: "active"
 ---
 

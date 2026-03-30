@@ -3,9 +3,9 @@ title: "Section 63 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 19
 usc_section: "63"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "19 U.S.C. § 63"
-generated_at: "2026-03-30T03:16:06.677Z"
+generated_at: "2026-03-30T03:19:27.317Z"
 status: "repealed"
 ---
 

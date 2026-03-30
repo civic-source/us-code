@@ -3,9 +3,9 @@ title: "Section 5106 - System of registration administration by Federal agencies
 usc_title: 12
 usc_section: "5106"
 chapter: 51
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 5106"
-generated_at: "2026-03-30T03:15:58.680Z"
+generated_at: "2026-03-30T03:19:16.991Z"
 status: "active"
 ---
 

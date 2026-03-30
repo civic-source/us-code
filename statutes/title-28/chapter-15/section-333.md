@@ -3,9 +3,9 @@ title: "Section 333 - Judicial conferences of circuits"
 usc_title: 28
 usc_section: "333"
 chapter: 15
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "28 U.S.C. § 333"
-generated_at: "2026-03-30T03:16:45.879Z"
+generated_at: "2026-03-30T03:19:39.332Z"
 status: "active"
 ---
 

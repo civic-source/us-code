@@ -3,9 +3,9 @@ title: "Section 2157 - Release of trade secrets"
 usc_title: 7
 usc_section: "2157"
 chapter: 54
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 2157"
-generated_at: "2026-03-30T03:15:47.489Z"
+generated_at: "2026-03-30T03:18:29.443Z"
 status: "active"
 ---
 

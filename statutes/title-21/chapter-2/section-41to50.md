@@ -3,9 +3,9 @@ title: "Section 41to50 - Repealed. Pub. L. 104–128, § 2 , Apr. 9, 1996 , 110 
 usc_title: 21
 usc_section: "41to50"
 chapter: 2
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "21 U.S.C. § 41to50"
-generated_at: "2026-03-30T03:16:18.967Z"
+generated_at: "2026-03-30T03:19:31.892Z"
 status: "repealed"
 ---
 

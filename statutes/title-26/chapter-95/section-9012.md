@@ -3,9 +3,9 @@ title: "Section 9012 - Criminal penalties"
 usc_title: 26
 usc_section: "9012"
 chapter: 95
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 9012"
-generated_at: "2026-03-30T03:17:04.584Z"
+generated_at: "2026-03-30T03:19:57.997Z"
 status: "active"
 ---
 

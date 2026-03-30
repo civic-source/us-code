@@ -3,9 +3,9 @@ title: "Section 6965 - Failure to report violation: dismissal"
 usc_title: 10
 usc_section: "6965"
 chapter: 603
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 6965"
-generated_at: "2026-03-30T03:15:52.838Z"
+generated_at: "2026-03-30T03:18:22.734Z"
 status: "active"
 ---
 

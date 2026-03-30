@@ -3,9 +3,9 @@ title: "Section 1e - Equivalent increase in quota of United States"
 usc_title: 22
 usc_section: "1e"
 chapter: 7
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 1e"
-generated_at: "2026-03-30T03:16:41.321Z"
+generated_at: "2026-03-30T03:19:35.359Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9703 - Research, development, and demonstration program; establi
 usc_title: 42
 usc_section: "9703"
 chapter: 104
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 9703"
-generated_at: "2026-03-30T03:17:32.796Z"
+generated_at: "2026-03-30T03:20:42.815Z"
 status: "active"
 ---
 

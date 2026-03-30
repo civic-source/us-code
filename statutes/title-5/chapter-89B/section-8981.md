@@ -3,9 +3,9 @@ title: "Section 8981 - Definitions"
 usc_title: 5
 usc_section: "8981"
 chapter: 89
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "5 U.S.C. § 8981"
-generated_at: "2026-03-30T03:15:42.302Z"
+generated_at: "2026-03-30T03:18:06.188Z"
 status: "active"
 ---
 

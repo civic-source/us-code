@@ -3,9 +3,9 @@ title: "Section 2421 - Trade and Development Agency"
 usc_title: 22
 usc_section: "2421"
 chapter: 32
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 2421"
-generated_at: "2026-03-30T03:16:41.368Z"
+generated_at: "2026-03-30T03:19:35.418Z"
 status: "active"
 ---
 

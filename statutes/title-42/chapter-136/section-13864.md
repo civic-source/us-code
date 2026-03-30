@@ -3,9 +3,9 @@ title: "Section 13864 - Allocation of funds; limitations on grants"
 usc_title: 42
 usc_section: "13864"
 chapter: 136
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 13864"
-generated_at: "2026-03-30T03:17:32.886Z"
+generated_at: "2026-03-30T03:20:42.926Z"
 status: "active"
 ---
 

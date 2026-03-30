@@ -3,9 +3,9 @@ title: "Section 2502 - National Defense Technology and Industrial Base Council"
 usc_title: 10
 usc_section: "2502"
 chapter: 148
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "10 U.S.C. § 2502"
-generated_at: "2026-03-30T03:15:52.808Z"
+generated_at: "2026-03-30T03:18:22.704Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5408 - Cooperation by Secretary with public and private agencies
 usc_title: 42
 usc_section: "5408"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 5408"
-generated_at: "2026-03-30T03:17:32.670Z"
+generated_at: "2026-03-30T03:20:42.653Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 90 - Georgia"
 usc_title: 28
 usc_section: "90"
 chapter: 5
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "28 U.S.C. § 90"
-generated_at: "2026-03-30T03:16:45.876Z"
+generated_at: "2026-03-30T03:19:39.325Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1627 - Appointment of personnel; compensation; employment of spe
 usc_title: 7
 usc_section: "1627"
 chapter: 38
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "7 U.S.C. § 1627"
-generated_at: "2026-03-30T03:15:47.450Z"
+generated_at: "2026-03-30T03:18:29.401Z"
 status: "active"
 ---
 

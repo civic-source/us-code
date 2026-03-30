@@ -3,9 +3,9 @@ title: "Section 6492 - Demonstrations of innovative practices"
 usc_title: 20
 usc_section: "6492"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "20 U.S.C. § 6492"
-generated_at: "2026-03-30T03:16:10.760Z"
+generated_at: "2026-03-30T03:19:25.634Z"
 status: "active"
 ---
 

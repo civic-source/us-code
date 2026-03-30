@@ -3,9 +3,9 @@ title: "Section 3901 - Contracts awarded using procedures other than sealed-bid 
 usc_title: 41
 usc_section: "3901"
 chapter: 39
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "41 U.S.C. § 3901"
-generated_at: "2026-03-30T03:17:16.591Z"
+generated_at: "2026-03-30T03:20:20.471Z"
 status: "active"
 ---
 

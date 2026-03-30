@@ -3,9 +3,9 @@ title: "Section 9808 - Federal share; amount; availability; ownership of propert
 usc_title: 42
 usc_section: "9808"
 chapter: 105
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "42 U.S.C. § 9808"
-generated_at: "2026-03-30T03:17:32.796Z"
+generated_at: "2026-03-30T03:20:42.815Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6307 - Outreach for eligible dependents"
 usc_title: 38
 usc_section: "6307"
 chapter: 63
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "38 U.S.C. § 6307"
-generated_at: "2026-03-30T03:17:12.885Z"
+generated_at: "2026-03-30T03:20:15.781Z"
 status: "active"
 ---
 

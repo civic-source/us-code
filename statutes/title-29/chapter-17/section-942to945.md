@@ -3,9 +3,9 @@ title: "Section 942to945 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "942to945"
 chapter: 17
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "29 U.S.C. § 942to945"
-generated_at: "2026-03-30T03:16:48.138Z"
+generated_at: "2026-03-30T03:19:40.461Z"
 status: "repealed"
 ---
 

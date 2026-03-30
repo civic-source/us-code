@@ -3,9 +3,9 @@ title: "Section 8106 - Riding gangs"
 usc_title: 46
 usc_section: "8106"
 chapter: 81
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "46 U.S.C. § 8106"
-generated_at: "2026-03-30T03:17:36.207Z"
+generated_at: "2026-03-30T03:20:50.643Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
     - **(C)** required by a contractual guarantee or warranty on actual repairs performed in a shipyard located outside of the United States.
   - **(2)** Subsection (a)(1)(A) applies only to a riding gang member described in paragraph (1) who is on the vessel when it calls at a United States port.
 - **(e)** In addition to the requirements of subsection (a), the owner or managing operator of a vessel to which subsection (a) applies shall ensure that all information necessary to ensure compliance with this section, as determined by the Secretary, is entered into the vessel’s official logbook required by chapter 113.
-- **(f)** S. Citizens or Residents.—
+- **(f)**
   - **(1)** The owner or operator of a vessel to which subsection (a) applies may not employ a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence to perform work described in subsection (b) unless the owner or operator determines, in accordance with procedures established by the Secretary to carry out section 8103(b)(3)(C), that there is not a sufficient number of United States citizens or individuals lawfully admitted to the United States for permanent residence who are qualified and available for the work for which the riding gang member is to be employed.
   - **(2)** A violation of paragraph (1) is punishable by a civil penalty of not more than $10,000 for each day during which the violation continues.
   - **(3)** The maximum amount of a civil penalty for a violation under this subsection shall not exceed—

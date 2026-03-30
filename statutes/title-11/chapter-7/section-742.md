@@ -3,9 +3,9 @@ title: "Section 742 - Effect of section 362 of this title in this subchapter"
 usc_title: 11
 usc_section: "742"
 chapter: 7
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "11 U.S.C. § 742"
-generated_at: "2026-03-30T03:15:55.523Z"
+generated_at: "2026-03-30T03:19:04.762Z"
 status: "active"
 ---
 

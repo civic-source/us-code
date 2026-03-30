@@ -3,9 +3,9 @@ title: "Section 61to64b - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 
 usc_title: 45
 usc_section: "61to64b"
 chapter: 3
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "45 U.S.C. § 61to64b"
-generated_at: "2026-03-30T03:17:17.101Z"
+generated_at: "2026-03-30T03:20:23.633Z"
 status: "repealed"
 ---
 

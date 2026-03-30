@@ -3,9 +3,9 @@ title: "Section 1571to1583 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) 
 usc_title: 29
 usc_section: "1571to1583"
 chapter: 19
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "29 U.S.C. § 1571to1583"
-generated_at: "2026-03-30T03:16:48.176Z"
+generated_at: "2026-03-30T03:19:40.540Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12 - Securities in credit enhanced pools"
 usc_title: 12
 usc_section: "12"
 chapter: 23
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "12 U.S.C. § 12"
-generated_at: "2026-03-30T03:15:58.644Z"
+generated_at: "2026-03-30T03:19:16.939Z"
 status: "active"
 ---
 

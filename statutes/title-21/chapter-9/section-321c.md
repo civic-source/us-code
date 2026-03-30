@@ -3,9 +3,9 @@ title: "Section 321c - Nonfat dry milk; “milk” defined"
 usc_title: 21
 usc_section: "321c"
 chapter: 9
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "21 U.S.C. § 321c"
-generated_at: "2026-03-30T03:16:18.970Z"
+generated_at: "2026-03-30T03:19:31.895Z"
 status: "active"
 ---
 

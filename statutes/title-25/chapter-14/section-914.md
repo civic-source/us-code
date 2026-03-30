@@ -3,9 +3,9 @@ title: "Section 914 - Costs"
 usc_title: 25
 usc_section: "914"
 chapter: 14
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "25 U.S.C. § 914"
-generated_at: "2026-03-30T03:16:31.999Z"
+generated_at: "2026-03-30T03:19:33.110Z"
 status: "active"
 ---
 

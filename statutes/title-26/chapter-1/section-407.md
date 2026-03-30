@@ -3,9 +3,9 @@ title: "Section 407 - Certain employees of domestic subsidiaries engaged in busi
 usc_title: 26
 usc_section: "407"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "26 U.S.C. § 407"
-generated_at: "2026-03-30T03:17:04.395Z"
+generated_at: "2026-03-30T03:19:57.754Z"
 status: "active"
 ---
 

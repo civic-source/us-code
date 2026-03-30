@@ -3,9 +3,9 @@ title: "Section 6962 - Functions of Task Force"
 usc_title: 22
 usc_section: "6962"
 chapter: 77
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "22 U.S.C. § 6962"
-generated_at: "2026-03-30T03:16:41.435Z"
+generated_at: "2026-03-30T03:19:35.506Z"
 status: "active"
 ---
 

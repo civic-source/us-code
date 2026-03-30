@@ -3,9 +3,9 @@ title: "Section 1624 - Authority of States and political subdivisions of States 
 usc_title: 8
 usc_section: "1624"
 chapter: 14
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "8 U.S.C. § 1624"
-generated_at: "2026-03-30T03:15:48.489Z"
+generated_at: "2026-03-30T03:18:43.088Z"
 status: "active"
 ---
 

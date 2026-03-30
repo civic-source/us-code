@@ -3,9 +3,9 @@ title: "Section 5304a - Authority to fix an alternative level of comparability p
 usc_title: 5
 usc_section: "5304a"
 chapter: 53
-current_through: "PL 113-45"
+current_through: "PL 113-46"
 classification: "5 U.S.C. § 5304a"
-generated_at: "2026-03-30T03:15:42.265Z"
+generated_at: "2026-03-30T03:18:06.124Z"
 status: "active"
 ---
 
