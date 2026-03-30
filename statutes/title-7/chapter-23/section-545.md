@@ -3,9 +3,9 @@ title: "Section 545 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(56), 
 usc_title: 7
 usc_section: "545"
 chapter: 23
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 545"
-generated_at: "2026-03-30T00:33:09.008Z"
+generated_at: "2026-03-30T00:36:25.665Z"
 ---
 
 # §§ 541 to 545. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(56), 60 Stat. 1039

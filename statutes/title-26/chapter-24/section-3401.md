@@ -3,9 +3,9 @@ title: "Section 3401 - Definitions"
 usc_title: 26
 usc_section: "3401"
 chapter: 24
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "26 U.S.C. § 3401"
-generated_at: "2026-03-30T00:34:36.197Z"
+generated_at: "2026-03-30T00:37:37.775Z"
 ---
 
 # § 3401. Definitions

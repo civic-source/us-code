@@ -3,9 +3,9 @@ title: "Section 382 - Assessment of net income taxes"
 usc_title: 15
 usc_section: "382"
 chapter: 10
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 382"
-generated_at: "2026-03-30T00:33:17.912Z"
+generated_at: "2026-03-30T00:36:40.567Z"
 ---
 
 # § 382. Assessment of net income taxes

@@ -3,9 +3,9 @@ title: "Section 6907 - State legislation requiring reallocation or redistributio
 usc_title: 31
 usc_section: "6907"
 chapter: 69
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "31 U.S.C. § 6907"
-generated_at: "2026-03-30T00:34:55.776Z"
+generated_at: "2026-03-30T00:38:00.895Z"
 ---
 
 # § 6907. State legislation requiring reallocation or redistribution of payments to smaller units of general purpose government

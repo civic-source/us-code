@@ -3,9 +3,9 @@ title: "Section 2265 - Deposit of money accepted for benefit of National Agricul
 usc_title: 7
 usc_section: "2265"
 chapter: 55
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 2265"
-generated_at: "2026-03-30T00:33:09.084Z"
+generated_at: "2026-03-30T00:36:25.747Z"
 ---
 
 # § 2265. Deposit of money accepted for benefit of National Agricultural Library; disbursement

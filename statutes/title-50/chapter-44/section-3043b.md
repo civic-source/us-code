@@ -3,9 +3,9 @@ title: "Section 3043b - Annual reports on worldwide threats"
 usc_title: 50
 usc_section: "3043b"
 chapter: 44
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3043b"
-generated_at: "2026-03-30T00:35:44.405Z"
+generated_at: "2026-03-30T00:38:42.516Z"
 ---
 
 # § 3043b. Annual reports on worldwide threats

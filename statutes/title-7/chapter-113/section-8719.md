@@ -3,9 +3,9 @@ title: "Section 8719 - Period of effectiveness"
 usc_title: 7
 usc_section: "8719"
 chapter: 113
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 8719"
-generated_at: "2026-03-30T00:33:09.161Z"
+generated_at: "2026-03-30T00:36:25.831Z"
 ---
 
 # § 8719. Period of effectiveness

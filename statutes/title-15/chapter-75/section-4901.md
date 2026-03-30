@@ -3,9 +3,9 @@ title: "Section 4901 - Definitions"
 usc_title: 15
 usc_section: "4901"
 chapter: 75
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 4901"
-generated_at: "2026-03-30T00:33:18.047Z"
+generated_at: "2026-03-30T00:36:40.725Z"
 ---
 
 # § 4901. Definitions

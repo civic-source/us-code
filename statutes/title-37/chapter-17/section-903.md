@@ -3,9 +3,9 @@ title: "Section 903 - Retired members recalled to active duty; former members"
 usc_title: 37
 usc_section: "903"
 chapter: 17
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "37 U.S.C. § 903"
-generated_at: "2026-03-30T00:35:10.509Z"
+generated_at: "2026-03-30T00:38:07.408Z"
 ---
 
 # § 903. Retired members recalled to active duty; former members

@@ -3,9 +3,9 @@ title: "Section 1920 - Improper removal of child from custody; declination of ju
 usc_title: 25
 usc_section: "1920"
 chapter: 21
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "25 U.S.C. § 1920"
-generated_at: "2026-03-30T00:33:39.979Z"
+generated_at: "2026-03-30T00:37:24.758Z"
 ---
 
 # § 1920. Improper removal of child from custody; declination of jurisdiction; forthwith return of child: danger exception

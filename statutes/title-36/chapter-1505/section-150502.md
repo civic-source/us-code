@@ -3,9 +3,9 @@ title: "Section 150502 - Organization"
 usc_title: 36
 usc_section: "150502"
 chapter: 1505
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "36 U.S.C. § 150502"
-generated_at: "2026-03-30T00:35:11.410Z"
+generated_at: "2026-03-30T00:38:10.140Z"
 ---
 
 # § 150502. Organization

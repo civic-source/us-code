@@ -3,9 +3,9 @@ title: "Section 2242 - Sexual abuse"
 usc_title: 18
 usc_section: "2242"
 chapter: 109
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 2242"
-generated_at: "2026-03-30T00:33:26.790Z"
+generated_at: "2026-03-30T00:36:51.560Z"
 ---
 
 # § 2242. Sexual abuse

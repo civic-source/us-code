@@ -3,9 +3,9 @@ title: "Section 81m - Additional exchange of lands"
 usc_title: 16
 usc_section: "81m"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 81m"
-generated_at: "2026-03-30T00:33:32.861Z"
+generated_at: "2026-03-30T00:37:02.124Z"
 ---
 
 # § 81m. Additional exchange of lands

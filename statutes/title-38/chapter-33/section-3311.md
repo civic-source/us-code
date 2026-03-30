@@ -3,9 +3,9 @@ title: "Section 3311 - Educational assistance for service in the Armed Forces co
 usc_title: 38
 usc_section: "3311"
 chapter: 33
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 3311"
-generated_at: "2026-03-30T00:35:01.643Z"
+generated_at: "2026-03-30T00:38:11.757Z"
 ---
 
 # § 3311. Educational assistance for service in the Armed Forces commencing on or after September 11, 2001 : entitlement
@@ -56,7 +56,7 @@ generated_at: "2026-03-30T00:35:01.643Z"
 - **(c)** A discharge or release from active duty of an individual described in this subsection is a discharge or release as follows:
   - **(1)** A discharge from active duty in the Armed Forces with an honorable discharge.
   - **(2)** A release after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service and placement on the retired list, transfer to the Fleet Reserve or Fleet Marine Corps Reserve, or placement on the temporary disability retired list.
-  - **(3)** A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service.
+  - **(3)** A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces, or for further service in the Space Force in a space force active status not on sustained duty under section 20105 of title 10 , after service on active duty characterized by the Secretary concerned as honorable service.
   - **(4)** A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service for—
     - **(A)** a medical condition which preexisted the service of the individual as described in the applicable paragraph of subsection (b) and which the Secretary determines is not service-connected;
     - **(B)** hardship; or

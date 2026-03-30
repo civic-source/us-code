@@ -3,9 +3,9 @@ title: "Section 2543 - Representation of United States interests before internat
 usc_title: 19
 usc_section: "2543"
 chapter: 13
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "19 U.S.C. § 2543"
-generated_at: "2026-03-30T00:33:36.098Z"
+generated_at: "2026-03-30T00:36:50.281Z"
 ---
 
 # § 2543. Representation of United States interests before international standards organizations

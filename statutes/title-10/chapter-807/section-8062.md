@@ -3,9 +3,9 @@ title: "Section 8062 - United States Navy: composition; functions"
 usc_title: 10
 usc_section: "8062"
 chapter: 807
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 8062"
-generated_at: "2026-03-30T00:33:02.348Z"
+generated_at: "2026-03-30T00:36:31.063Z"
 ---
 
 # § 8062. United States Navy: composition; functions
@@ -36,5 +36,5 @@ generated_at: "2026-03-30T00:33:02.348Z"
       - **(ii)** to a training unit for technical and specialized training for crew personnel or leading to aircrew qualification;
       - **(iii)** to a test unit for testing of the aircraft or its components for purposes of research, development, test, and evaluation, operational test and evaluation, or to support testing programs; or
       - **(iv)** to meet requirements for missions not otherwise specified in clauses (i) through (iii).
-- **(g)** 1 1 So in original. Two subsecs. (g) have been enacted. A nuclear powered aircraft carrier may not be retired before its first refueling.
-- **(g)** 1 In this section, the term “amphibious warfare ship” means a ship that is classified as an amphibious assault ship (general purpose) (LHA), an amphibious assault ship (multi-purpose) (LHD), an amphibious transport dock (LPD), or a dock landing ship (LSD).
+- **(g)** A nuclear powered aircraft carrier may not be retired before its first refueling.
+- **(h)** In this section, the term “amphibious warfare ship” means a ship that is classified as an amphibious assault ship (general purpose) (LHA), an amphibious assault ship (multi-purpose) (LHD), an amphibious transport dock (LPD), or a dock landing ship (LSD).

@@ -3,9 +3,9 @@ title: "Section 6136 - Transfer of funds from representation allowance of Majori
 usc_title: 2
 usc_section: "6136"
 chapter: 61
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "2 U.S.C. § 6136"
-generated_at: "2026-03-30T00:32:43.045Z"
+generated_at: "2026-03-30T00:36:16.979Z"
 ---
 
 # § 6136. Transfer of funds from representation allowance of Majority and Minority Leaders of Senate to expense allowance; availability; definitions

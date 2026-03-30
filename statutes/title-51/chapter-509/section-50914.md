@@ -3,9 +3,9 @@ title: "Section 50914 - Liability insurance and financial responsibility require
 usc_title: 51
 usc_section: "50914"
 chapter: 509
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "51 U.S.C. § 50914"
-generated_at: "2026-03-30T00:36:02.485Z"
+generated_at: "2026-03-30T00:38:47.755Z"
 ---
 
 # § 50914. Liability insurance and financial responsibility requirements

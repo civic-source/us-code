@@ -3,9 +3,9 @@ title: "Section 4351 - Selected Acquisition Reports"
 usc_title: 10
 usc_section: "4351"
 chapter: 324
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 4351"
-generated_at: "2026-03-30T00:33:02.331Z"
+generated_at: "2026-03-30T00:36:31.043Z"
 ---
 
 # § 4351. Selected Acquisition Reports
@@ -33,7 +33,7 @@ generated_at: "2026-03-30T00:33:02.331Z"
       - **(i)** the Baseline Estimate (as that term is defined in section 4371(a)(4) of this title ), along with the associated risk and sensitivity analysis of that estimate;
       - **(ii)** the original Baseline Estimate (as that term is defined in section 4214(d)(1) of this title ), along with the associated risk and sensitivity analysis of that estimate;
       - **(iii)** if the original Baseline Estimate was adjusted or revised pursuant to section 4214(d)(2) of this title , such adjusted or revised estimate, along with the associated risk and sensitivity analysis of that estimate; and
-      - **(iv)** the primary risk parameters associated with the current procurement cost for the program (as that term is used in section 4355(4) 1 1 See References in Text note below. of this title);
+      - **(iv)** the primary risk parameters associated with the current procurement cost for the program (as that term is used in subsection (e)(4));
     - **(C)** a summary of the history of significant developments from the date each major defense acquisition program or designated major subprogram included in the report was first included in a Selected Acquisition Report and program highlights since the last Selected Acquisition Report;
     - **(D)** the significant schedule and technical risks for each such program or subprogram, identified at each major milestone and as of the quarter for which the current report is submitted;
     - **(E)** the current program acquisition cost and program acquisition unit cost for each such program or subprogram included in the report and the history of those costs from the December 2001 reporting period to the end of the quarter for which the current report is submitted;

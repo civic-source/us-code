@@ -3,9 +3,9 @@ title: "Section 1657 - Priority of civil actions"
 usc_title: 28
 usc_section: "1657"
 chapter: 111
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "28 U.S.C. § 1657"
-generated_at: "2026-03-30T00:34:14.485Z"
+generated_at: "2026-03-30T00:37:57.023Z"
 ---
 
 # § 1657. Priority of civil actions

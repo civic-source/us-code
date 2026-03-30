@@ -3,9 +3,9 @@ title: "Section 11386d - Matching funding"
 usc_title: 42
 usc_section: "11386d"
 chapter: 119
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 11386d"
-generated_at: "2026-03-30T00:35:37.203Z"
+generated_at: "2026-03-30T00:38:36.121Z"
 ---
 
 # § 11386d. Matching funding

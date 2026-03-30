@@ -3,9 +3,9 @@ title: "Section 2007 - Payment of tuition for off-duty training or education"
 usc_title: 10
 usc_section: "2007"
 chapter: 101
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2007"
-generated_at: "2026-03-30T00:33:02.280Z"
+generated_at: "2026-03-30T00:36:30.985Z"
 ---
 
 # § 2007. Payment of tuition for off-duty training or education
@@ -30,3 +30,4 @@ generated_at: "2026-03-30T00:33:02.280Z"
   - **(1)** If an officer who enters into an agreement under subsection (b) does not complete the period of active duty specified in the agreement, the officer shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
   - **(2)** If a member of the Ready Reserve who enters into an agreement under subsection (c) does not complete the period of service specified in the agreement, the member shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 - **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security.
+- **(g)** The provisions of this section pertaining to members of the Ready Reserve, the Selected Reserve, or the Individual Ready Reserve also apply to members of the Space Force in a space force active status who are not on active duty.

@@ -3,9 +3,9 @@ title: "Section 544a - Purposes"
 usc_title: 16
 usc_section: "544a"
 chapter: 2
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 544a"
-generated_at: "2026-03-30T00:33:32.963Z"
+generated_at: "2026-03-30T00:37:02.233Z"
 ---
 
 # § 544a. Purposes

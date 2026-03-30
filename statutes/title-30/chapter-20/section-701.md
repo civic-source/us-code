@@ -3,9 +3,9 @@ title: "Section 701 - Authorization to convey; acreage limitations; qualified ap
 usc_title: 30
 usc_section: "701"
 chapter: 20
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "30 U.S.C. § 701"
-generated_at: "2026-03-30T00:34:18.082Z"
+generated_at: "2026-03-30T00:37:31.653Z"
 ---
 
 # § 701. Authorization to convey; acreage limitations; qualified applicants; payment; “qualified officer of the United States” defined

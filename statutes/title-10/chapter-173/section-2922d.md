@@ -3,9 +3,9 @@ title: "Section 2922d - Procurement of fuel derived from coal, oil shale, and ta
 usc_title: 10
 usc_section: "2922d"
 chapter: 173
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2922d"
-generated_at: "2026-03-30T00:33:02.314Z"
+generated_at: "2026-03-30T00:36:31.025Z"
 ---
 
 # § 2922d. Procurement of fuel derived from coal, oil shale, and tar sands

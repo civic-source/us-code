@@ -3,9 +3,9 @@ title: "Section 10225 - Location of test and evaluation facility"
 usc_title: 42
 usc_section: "10225"
 chapter: 108
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 10225"
-generated_at: "2026-03-30T00:35:37.188Z"
+generated_at: "2026-03-30T00:38:36.104Z"
 ---
 
 # § 10225. Location of test and evaluation facility

@@ -3,9 +3,9 @@ title: "Section 8214 - Enlisted members: authority for transfer between Marine C
 usc_title: 10
 usc_section: "8214"
 chapter: 825
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 8214"
-generated_at: "2026-03-30T00:33:02.350Z"
+generated_at: "2026-03-30T00:36:31.064Z"
 ---
 
 # § 8214. Enlisted members: authority for transfer between Marine Corps and Hospital Corps of the Navy

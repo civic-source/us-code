@@ -3,9 +3,9 @@ title: "Section 299b - Health care outcome improvement research"
 usc_title: 42
 usc_section: "299b"
 chapter: 6
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 299b"
-generated_at: "2026-03-30T00:35:36.611Z"
+generated_at: "2026-03-30T00:38:35.518Z"
 ---
 
 # § 299b. Health care outcome improvement research

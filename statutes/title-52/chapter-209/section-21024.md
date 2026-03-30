@@ -3,9 +3,9 @@ title: "Section 21024 - Authorization of appropriations"
 usc_title: 52
 usc_section: "21024"
 chapter: 209
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "52 U.S.C. § 21024"
-generated_at: "2026-03-30T00:36:02.670Z"
+generated_at: "2026-03-30T00:38:48.265Z"
 ---
 
 # § 21024. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 121 - Agricultural entry or purchase of lands withdrawn or class
 usc_title: 30
 usc_section: "121"
 chapter: 3
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "30 U.S.C. § 121"
-generated_at: "2026-03-30T00:34:18.072Z"
+generated_at: "2026-03-30T00:37:31.644Z"
 ---
 
 # § 121. Agricultural entry or purchase of lands withdrawn or classified as containing phosphate, nitrate, potash, oil, or gas; reservations to United States; application

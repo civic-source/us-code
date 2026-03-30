@@ -3,9 +3,9 @@ title: "Section 3373 - Establishment of All-domain Anomaly Resolution Office"
 usc_title: 50
 usc_section: "3373"
 chapter: 45
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3373"
-generated_at: "2026-03-30T00:35:44.423Z"
+generated_at: "2026-03-30T00:38:42.535Z"
 ---
 
 # § 3373. Establishment of All-domain Anomaly Resolution Office
@@ -65,7 +65,7 @@ generated_at: "2026-03-30T00:35:44.423Z"
   - **(2)** The Archivist of the United States shall make available to the Office such information maintained by the National Archives and Records Administration, including classified information, as the Director of the Office considers necessary to carry out paragraph (1).
 - **(k)**
   - **(1)**
-    - **(A)** Not later than 180 days after December 23, 2022 , and annually thereafter for four years, the Director of National Intelligence and the Secretary of Defense shall jointly submit to the appropriate congressional committees a report on unidentified anomalous phenomena.
+    - **(A)** Not later than 180 days after December 23, 2022 , and annually thereafter for four years, the Director of the Office shall submit to the appropriate congressional committees a report on unidentified anomalous phenomena.
     - **(B)** Each report submitted under subparagraph (A) shall include, with respect to the year covered by the report, the following information:
       - **(i)** All reported unidentified anomalous phenomena-related events that occurred during the one-year period.
       - **(ii)** All reported unidentified anomalous phenomena-related events that occurred during a period other than that one-year period but were not included in an earlier report.

@@ -3,9 +3,9 @@ title: "Section 3123 - Local plan"
 usc_title: 29
 usc_section: "3123"
 chapter: 32
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "29 U.S.C. § 3123"
-generated_at: "2026-03-30T00:34:11.715Z"
+generated_at: "2026-03-30T00:37:38.941Z"
 ---
 
 # § 3123. Local plan

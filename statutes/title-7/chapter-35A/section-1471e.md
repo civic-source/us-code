@@ -3,9 +3,9 @@ title: "Section 1471e - Additional assistance"
 usc_title: 7
 usc_section: "1471e"
 chapter: 35
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 1471e"
-generated_at: "2026-03-30T00:33:09.031Z"
+generated_at: "2026-03-30T00:36:25.689Z"
 ---
 
 # § 1471e. Additional assistance

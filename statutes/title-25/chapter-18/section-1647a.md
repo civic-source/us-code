@@ -3,9 +3,9 @@ title: "Section 1647a - Nondiscrimination under Federal health care programs in 
 usc_title: 25
 usc_section: "1647a"
 chapter: 18
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "25 U.S.C. § 1647a"
-generated_at: "2026-03-30T00:33:39.972Z"
+generated_at: "2026-03-30T00:37:24.749Z"
 ---
 
 # § 1647a. Nondiscrimination under Federal health care programs in qualifications for reimbursement for services

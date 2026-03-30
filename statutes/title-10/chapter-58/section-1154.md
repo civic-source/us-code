@@ -3,9 +3,9 @@ title: "Section 1154 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1154"
 chapter: 58
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1154"
-generated_at: "2026-03-30T00:33:02.258Z"
+generated_at: "2026-03-30T00:36:30.962Z"
 ---
 
 # § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program
@@ -15,12 +15,14 @@ generated_at: "2026-03-30T00:33:02.258Z"
   - **(2)** The term “eligible school” means—
     - **(A)** a public school, including a charter school, at which—
       - **(i)** at least 30 percent of the students enrolled in the school are from families with incomes below 185 percent of poverty level (as defined by the Office of Management and Budget and revised at least annually in accordance with section 9(b)(1) of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1758(b)(1) ) applicable to a family of the size involved; or
-      - **(ii)** at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act ( 20 U.S.C. 1411 et seq.); or
-    - **(B)** a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 ( 25 U.S.C. 2021(3) ).
+      - **(ii)** at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act ( 20 U.S.C. 1411 et seq.);
+    - **(B)** a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 ( 25 U.S.C. 2021(3) );
+    - **(C)** a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3197 ).
   - **(3)** The term “high-need school” means—
     - **(A)** an elementary or middle school in which at least 50 percent of the enrolled students are children from low-income families, based on the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.), the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.), the number of children eligible to receive medical assistance under the Medicaid program, or a composite of these indicators;
-    - **(B)** a high school in which at least 40 percent of enrolled students are children from low-income families, which may be calculated using comparable data from feeder schools; or
-    - **(C)** a school that is in a local educational agency that is eligible under section 5211(b) of the Elementary and Secondary Education Act of 1965.
+    - **(B)** a high school in which at least 40 percent of enrolled students are children from low-income families, which may be calculated using comparable data from feeder schools;
+    - **(C)** a school that is in a local educational agency that is eligible under section 5211(b) of the Elementary and Secondary Education Act of 1965; or
+    - **(D)** a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3197 ).
   - **(4)** The term “member of the armed forces” includes a retired or former member of the armed forces.
   - **(5)** The term “participant” means an eligible member of the armed forces selected to participate in the Program.
   - **(6)** The term “Program” means the Troops-to-Teachers Program authorized by this section.
@@ -31,8 +33,9 @@ generated_at: "2026-03-30T00:33:02.258Z"
   - **(2)** to facilitate the employment of such members—
     - **(A)** by local educational agencies or charter schools that the Secretary of Education identifies as—
       - **(i)** receiving grants under part A of title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6301 et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; or
-      - **(ii)** experiencing a shortage of teachers, in particular a shortage of science, mathematics, special education, foreign language, or career or technical teachers; and
-    - **(B)** in elementary schools or secondary schools, or as career or technical teachers.
+      - **(ii)** experiencing a shortage of teachers, in particular a shortage of science, mathematics, special education, foreign language, or career or technical teachers;
+    - **(B)** in elementary schools or secondary schools, or as career or technical teachers; and
+    - **(C)** as administrators and instructors of the Junior Reserve Officers’ Training Corps under section 2031(d) of this title .
 - **(c)** The Secretary may provide counseling and referral services to members of the armed forces who do not meet the eligibility criteria described in subsection (d), including the education qualification requirements under paragraph (3)(B) of such subsection.
 - **(d)**
   - **(1)** The following members of the armed forces are eligible for selection to participate in the Program:
@@ -59,7 +62,7 @@ generated_at: "2026-03-30T00:33:02.258Z"
   - **(4)** In selecting eligible members of the armed forces to receive assistance under the Program, the Secretary—
     - **(A)** shall give priority to members who—
       - **(i)** have educational or military experience in science, mathematics, special education, foreign language, or career or technical subjects; and
-      - **(ii)** agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or in other schools under the jurisdiction of a local educational agency; and
+      - **(ii)** agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or Job Corps centers or in other schools under the jurisdiction of a local educational agency; and
     - **(B)** may give priority to members who agree to seek employment in a high-need school.
   - **(5)**
     - **(A)** Subject to subsection (i), the Secretary may not select an eligible member of the armed forces to participate in the Program and receive financial assistance unless the Secretary has sufficient appropriations for the Program available at the time of the selection to satisfy the obligations to be incurred by the United States under subsection (e) with respect to the member.
@@ -75,7 +78,7 @@ generated_at: "2026-03-30T00:33:02.258Z"
     - **(B)** is serving on active duty as a member of the armed forces;
     - **(C)** is temporarily totally disabled for a period of time not to exceed three years as established by sworn affidavit of a qualified physician;
     - **(D)** is unable to secure employment for a period not to exceed 12 months by reason of the care required by a spouse who is disabled;
-    - **(E)** is unable to find full-time employment as a teacher in an eligible elementary school or secondary school or as a career or technical teacher for a single period not to exceed 27 months; or
+    - **(E)** is unable to find full-time employment as a teacher in an eligible elementary school or secondary school or Job Corps center or as a career or technical teacher for a single period not to exceed 27 months; or
     - **(F)** satisfies the provisions of additional reimbursement exceptions that may be prescribed by the Secretary.
   - **(3)**
     - **(A)** Subject to subparagraph (C), the Secretary may pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
@@ -112,4 +115,4 @@ generated_at: "2026-03-30T00:33:02.258Z"
     - **(A)** the Committee on Armed Services and the Committee on Help, Education, Labor, and Pensions of the Senate; and
     - **(B)** the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives.
 - **(j)** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
-- **(k)** The Program shall terminate on July 1, 2025 , with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
+- **(k)** The Program shall terminate on July 1, 2027 , with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.

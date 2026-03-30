@@ -3,9 +3,9 @@ title: "Section 9 - Application"
 usc_title: 42
 usc_section: "9"
 chapter: 55
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T00:35:37.015Z"
+generated_at: "2026-03-30T00:38:35.928Z"
 ---
 
 # § 4370m–9. Application

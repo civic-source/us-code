@@ -3,9 +3,9 @@ title: "Section 3322 - Disclosure of certain matters occurring before grand jury
 usc_title: 18
 usc_section: "3322"
 chapter: 215
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 3322"
-generated_at: "2026-03-30T00:33:26.806Z"
+generated_at: "2026-03-30T00:36:51.578Z"
 ---
 
 # § 3322. Disclosure of certain matters occurring before grand jury

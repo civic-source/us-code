@@ -3,9 +3,9 @@ title: "Section 4144 - Fees of attorneys and agents"
 usc_title: 50
 usc_section: "4144"
 chapter: 51
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 4144"
-generated_at: "2026-03-30T00:35:44.439Z"
+generated_at: "2026-03-30T00:38:42.550Z"
 ---
 
 # § 4144. Fees of attorneys and agents

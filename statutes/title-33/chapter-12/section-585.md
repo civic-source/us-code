@@ -3,9 +3,9 @@ title: "Section 585 - Reserve component training at water resources development 
 usc_title: 33
 usc_section: "585"
 chapter: 12
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "33 U.S.C. § 585"
-generated_at: "2026-03-30T00:34:45.258Z"
+generated_at: "2026-03-30T00:38:05.337Z"
 ---
 
 # § 585. Reserve component training at water resources development projects

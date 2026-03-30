@@ -3,9 +3,9 @@ title: "Section 19351 - Advanced nuclear technologies Federal research, developm
 usc_title: 42
 usc_section: "19351"
 chapter: 163
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 19351"
-generated_at: "2026-03-30T00:35:37.338Z"
+generated_at: "2026-03-30T00:38:36.266Z"
 ---
 
 # § 19351. Advanced nuclear technologies Federal research, development, and demonstration program
@@ -27,7 +27,7 @@ generated_at: "2026-03-30T00:35:37.338Z"
   - **(3)** The term “program” means the program established under subsection (b)(1).
   - **(4)** The term “Secretary” means the Secretary of Energy.
 - **(b)**
-  - **(1)** The Secretary shall establish a program to provide Federal financial assistance to eligible entities to support the research, development, and demonstration of advanced nuclear reactors.
+  - **(1)** The Secretary shall establish a program to provide Federal financial assistance to eligible entities to support the research, development, demonstration, and deployment of advanced nuclear reactors and associated supply chain infrastructure.
   - **(2)** To the maximum extent practicable, the Secretary shall carry out the program using a competitive, merit-based review process that is consistent with section 16353 of this title .
 - **(c)** An eligible entity desiring Federal financial assistance under the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 - **(d)** In selecting eligible entities to receive Federal financial assistance under the program, the Secretary shall give priority to eligible entities that—

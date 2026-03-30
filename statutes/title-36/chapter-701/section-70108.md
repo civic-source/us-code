@@ -3,9 +3,9 @@ title: "Section 70108 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "70108"
 chapter: 701
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "36 U.S.C. § 70108"
-generated_at: "2026-03-30T00:35:11.406Z"
+generated_at: "2026-03-30T00:38:10.136Z"
 ---
 
 # § 70108. Duty to maintain corporate and tax-exempt status

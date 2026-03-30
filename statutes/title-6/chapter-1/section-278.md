@@ -3,9 +3,9 @@ title: "Section 278 - Application of Internet-based technologies"
 usc_title: 6
 usc_section: "278"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "6 U.S.C. § 278"
-generated_at: "2026-03-30T00:32:48.438Z"
+generated_at: "2026-03-30T00:36:21.330Z"
 ---
 
 # § 278. Application of Internet-based technologies

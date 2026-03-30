@@ -3,9 +3,9 @@ title: "Section 12341 - Rural domestic violence, dating violence, sexual assault
 usc_title: 34
 usc_section: "12341"
 chapter: 121
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "34 U.S.C. § 12341"
-generated_at: "2026-03-30T00:34:49.271Z"
+generated_at: "2026-03-30T00:38:01.729Z"
 ---
 
 # § 12341. Rural domestic violence, dating violence, sexual assault, stalking, and child abuse enforcement assistance

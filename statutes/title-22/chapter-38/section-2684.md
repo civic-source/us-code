@@ -3,9 +3,9 @@ title: "Section 2684 - Capital fund for Department of State to centralize reprod
 usc_title: 22
 usc_section: "2684"
 chapter: 38
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 2684"
-generated_at: "2026-03-30T00:33:49.812Z"
+generated_at: "2026-03-30T00:37:11.287Z"
 ---
 
 # § 2684. Capital fund for Department of State to centralize reproduction, editorial, data processing, audiovisual and other services; maximum amount; operation of fund

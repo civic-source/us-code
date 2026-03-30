@@ -3,9 +3,9 @@ title: "Section 7109 - Administrative provisions"
 usc_title: 7
 usc_section: "7109"
 chapter: 99
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 7109"
-generated_at: "2026-03-30T00:33:09.134Z"
+generated_at: "2026-03-30T00:36:25.801Z"
 ---
 
 # § 7109. Administrative provisions

@@ -3,9 +3,9 @@ title: "Section 53 - “Person” or “persons” defined"
 usc_title: 29
 usc_section: "53"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "29 U.S.C. § 53"
-generated_at: "2026-03-30T00:34:11.650Z"
+generated_at: "2026-03-30T00:37:38.866Z"
 ---
 
 # § 53. “Person” or “persons” defined

@@ -3,9 +3,9 @@ title: "Section 3444 - Disability of judge—(Rule)"
 usc_title: 18
 usc_section: "3444"
 chapter: 221
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 3444"
-generated_at: "2026-03-30T00:33:26.807Z"
+generated_at: "2026-03-30T00:36:51.578Z"
 ---
 
 # § 3444. Disability of judge—(Rule)

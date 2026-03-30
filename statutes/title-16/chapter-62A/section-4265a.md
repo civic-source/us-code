@@ -3,9 +3,9 @@ title: "Section 4265a - Advisory group"
 usc_title: 16
 usc_section: "4265a"
 chapter: 62
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 4265a"
-generated_at: "2026-03-30T00:33:33.092Z"
+generated_at: "2026-03-30T00:37:02.366Z"
 ---
 
 # § 4265a. Advisory group

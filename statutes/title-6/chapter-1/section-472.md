@@ -3,9 +3,9 @@ title: "Section 472 - Annual weaponry report"
 usc_title: 6
 usc_section: "472"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "6 U.S.C. § 472"
-generated_at: "2026-03-30T00:32:48.454Z"
+generated_at: "2026-03-30T00:36:21.341Z"
 ---
 
 # § 472. Annual weaponry report

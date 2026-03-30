@@ -3,9 +3,9 @@ title: "Section 28 - Authorization of appropriations"
 usc_title: 20
 usc_section: "28"
 chapter: 28
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 28"
-generated_at: "2026-03-30T00:33:29.941Z"
+generated_at: "2026-03-30T00:36:53.626Z"
 ---
 
 # § 1070a–28. Authorization of appropriations

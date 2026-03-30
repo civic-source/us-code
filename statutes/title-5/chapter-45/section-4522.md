@@ -3,9 +3,9 @@ title: "Section 4522 - General provision"
 usc_title: 5
 usc_section: "4522"
 chapter: 45
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 4522"
-generated_at: "2026-03-30T00:32:45.574Z"
+generated_at: "2026-03-30T00:36:18.962Z"
 ---
 
 # § 4522. General provision

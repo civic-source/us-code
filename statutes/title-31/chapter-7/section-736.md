@@ -3,9 +3,9 @@ title: "Section 736 - Authorization of appropriations"
 usc_title: 31
 usc_section: "736"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "31 U.S.C. § 736"
-generated_at: "2026-03-30T00:34:55.749Z"
+generated_at: "2026-03-30T00:38:00.861Z"
 ---
 
 # § 736. Authorization of appropriations

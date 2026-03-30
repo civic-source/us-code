@@ -3,9 +3,9 @@ title: "Section 578 - Promotions: how made; effective date"
 usc_title: 10
 usc_section: "578"
 chapter: 33
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 578"
-generated_at: "2026-03-30T00:33:02.222Z"
+generated_at: "2026-03-30T00:36:30.922Z"
 ---
 
 # § 578. Promotions: how made; effective date
@@ -16,3 +16,4 @@ generated_at: "2026-03-30T00:33:02.222Z"
 - **(d)** Promotions shall be made in the order in which the names of warrant officers appear on the promotion list and after warrant officers previously selected for promotion in the applicable grade (or grade and competitive category) have been promoted.
 - **(e)** A warrant officer who is appointed to a higher grade under this section is considered to have accepted such appointment on the date on which the appointment is made unless the officer expressly declines the appointment.
 - **(f)** A warrant officer who has served continuously as an officer since subscribing to the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this section.
+- **(g)** Notwithstanding subsection (d), and subject to regulations prescribed by the Secretary of Defense, in the case of a warrant officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the warrant officer’s name on the applicable promotion list is approved 1 1 So in original. for transfer to a new component within the same or a different armed force, the Secretary concerned may place the warrant officer’s name on a corresponding promotion list of the new component without regard to the warrant officer’s competitive category. A warrant officer’s promotion under this subsection shall be made pursuant to section 12242 of this title .

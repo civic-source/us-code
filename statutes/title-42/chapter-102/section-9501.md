@@ -3,9 +3,9 @@ title: "Section 9501 - Bill of Rights"
 usc_title: 42
 usc_section: "9501"
 chapter: 102
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 9501"
-generated_at: "2026-03-30T00:35:37.157Z"
+generated_at: "2026-03-30T00:38:36.073Z"
 ---
 
 # § 9501. Bill of Rights

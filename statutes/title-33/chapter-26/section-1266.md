@@ -3,9 +3,9 @@ title: "Section 1266 - Hudson River reclamation demonstration proj­ect"
 usc_title: 33
 usc_section: "1266"
 chapter: 26
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "33 U.S.C. § 1266"
-generated_at: "2026-03-30T00:34:45.276Z"
+generated_at: "2026-03-30T00:38:05.355Z"
 ---
 
 # § 1266. Hudson River reclamation demonstration proj­ect

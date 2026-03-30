@@ -3,9 +3,9 @@ title: "Section 3601 - Procedures for urgent acquisition and deployment of capab
 usc_title: 10
 usc_section: "3601"
 chapter: 253
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 3601"
-generated_at: "2026-03-30T00:33:02.321Z"
+generated_at: "2026-03-30T00:36:31.031Z"
 ---
 
 # § 3601. Procedures for urgent acquisition and deployment of capabilities needed in response to urgent operational needs or vital national security interest
@@ -16,8 +16,13 @@ generated_at: "2026-03-30T00:33:02.321Z"
       - **(i)** can be fielded within a period of two to 24 months;
       - **(ii)** do not require substantial development effort;
       - **(iii)** are based on technologies that are proven and available; and
-      - **(iv)** can appropriately be acquired under fixed-price contracts; or
-    - **(B)** that can be developed or procured under a section 804 rapid acquisition pathway.
+      - **(iv)** can appropriately be acquired under fixed-price contracts;
+    - **(B)** that can be developed or procured under a section 804 rapid acquisition pathway; or
+    - **(C)** with respect to an armed attack by a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 ( 22 U.S.C. 2651a(m) ), to which the United States is not a party, for purposes of—
+      - **(i)** replenishing United States stockpiles of defense articles when such stockpiles are diminished as a result of the United States providing defense articles in response to such armed attack by a country of concern against—
+        - **(I)** a United States ally (as that term is defined in section 201(d) of the Act of December 2, 1942 , titled “To provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and for other purposes” ( 56 Stat. 1028 , chapter 668; 42 U.S.C. 1711(d) )); or
+        - **(II)** a United States partner; or
+      - **(ii)** contracting for the movement or delivery of defense articles transferred to such ally or partner through the President’s drawdown authorities under sections 506(a)(1) and 614 of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2318(a)(1) and 2364) in connection with such response.
   - **(2)** In this section, the term “section 804 rapid acquisition pathway” means the rapid fielding acquisition pathway or the rapid prototyping acquisition pathway authorized under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 3201 prec.). 1 1 So in original. Probably should be “ 10 U.S.C. 3201 note prec.).”
 - **(b)** The procedures prescribed under subsection (a) shall include the following:
   - **(1)** A process for streamlined communications between the Chairman of the Joint Chiefs of Staff, the acquisition community, and the research and development community, including—
@@ -28,7 +33,7 @@ generated_at: "2026-03-30T00:33:02.321Z"
     - **(B)** a process for developing an acquisition and funding strategy for the deployment of the capability; and
     - **(C)** a process for making deployment and utilization determinations based on information obtained pursuant to subparagraphs (A) and (B).
   - **(3)** A process to determine the disposition of a capability, including termination (demilitarization or disposal), continued sustainment, or transition to a program of record.
-  - **(4)** Specific procedures in accordance with the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 3201 prec.). 1
+  - **(4)** Specific procedures in accordance with the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 3201 note prec.).
 - **(c)**
   - **(1)**
     - **(A)** In the case of any capability that, as determined in writing by the Secretary of Defense, is urgently needed to eliminate a documented deficiency that has resulted in combat casualties, or is likely to result in combat casualties, the Secretary may use the procedures developed under this section in order to accomplish the urgent acquisition and deployment of the needed capability.

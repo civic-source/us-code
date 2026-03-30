@@ -3,9 +3,9 @@ title: "Section 50103 - Contract preference for domestic firms"
 usc_title: 49
 usc_section: "50103"
 chapter: 501
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "49 U.S.C. § 50103"
-generated_at: "2026-03-30T00:36:00.220Z"
+generated_at: "2026-03-30T00:38:45.406Z"
 ---
 
 # § 50103. Contract preference for domestic firms

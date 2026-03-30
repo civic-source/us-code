@@ -3,9 +3,9 @@ title: "Section 1310 - Appropriations for private organizations"
 usc_title: 31
 usc_section: "1310"
 chapter: 13
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "31 U.S.C. § 1310"
-generated_at: "2026-03-30T00:34:55.753Z"
+generated_at: "2026-03-30T00:38:00.866Z"
 ---
 
 # § 1310. Appropriations for private organizations

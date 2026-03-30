@@ -3,9 +3,9 @@ title: "Section 19116 - Authorities"
 usc_title: 42
 usc_section: "19116"
 chapter: 163
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 19116"
-generated_at: "2026-03-30T00:35:37.331Z"
+generated_at: "2026-03-30T00:38:36.258Z"
 ---
 
 # § 19116. Authorities

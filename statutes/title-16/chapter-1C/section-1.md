@@ -3,9 +3,9 @@ title: "Section 1 - Management"
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T00:33:32.951Z"
+generated_at: "2026-03-30T00:37:02.220Z"
 ---
 
 # § 470aaa–1. Management

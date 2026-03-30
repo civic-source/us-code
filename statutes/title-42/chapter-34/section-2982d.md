@@ -3,9 +3,9 @@ title: "Section 2982d - Omitted"
 usc_title: 42
 usc_section: "2982d"
 chapter: 34
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 2982d"
-generated_at: "2026-03-30T00:35:36.979Z"
+generated_at: "2026-03-30T00:38:35.890Z"
 ---
 
 # § 2982d. Omitted

@@ -3,9 +3,9 @@ title: "Section 1416 - Relationship to other laws"
 usc_title: 33
 usc_section: "1416"
 chapter: 27
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "33 U.S.C. § 1416"
-generated_at: "2026-03-30T00:34:45.298Z"
+generated_at: "2026-03-30T00:38:05.379Z"
 ---
 
 # § 1416. Relationship to other laws

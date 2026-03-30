@@ -3,9 +3,9 @@ title: "Section 295 - Conditions upon designation and assignment"
 usc_title: 28
 usc_section: "295"
 chapter: 13
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "28 U.S.C. § 295"
-generated_at: "2026-03-30T00:34:14.468Z"
+generated_at: "2026-03-30T00:37:57.002Z"
 ---
 
 # § 295. Conditions upon designation and assignment

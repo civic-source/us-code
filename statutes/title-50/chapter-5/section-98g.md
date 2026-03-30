@@ -3,19 +3,16 @@ title: "Section 98g - Materials development and research"
 usc_title: 50
 usc_section: "98g"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 98g"
-generated_at: "2026-03-30T00:35:44.367Z"
+generated_at: "2026-03-30T00:38:42.470Z"
 ---
 
 # § 98g. Materials development and research
 
 - **(a)**
-  - **(1)** The President shall make scientific, technologic, and economic investigations concerning the development, mining, preparation, treatment, and utilization of ores and other mineral substances that (A) are found in the United States, or in its territories or possessions, (B) are essential to the national defense, industrial, and essential civilian needs of the United States, and (C) are found in known domestic sources in inadequate quantities or grades.
-  - **(2)** Such investigations shall be carried out in order to—
-    - **(A)** determine and develop new domestic sources of supply of such ores and mineral substances;
-    - **(B)** devise new methods for the treatment and utilization of lower grade reserves of such ores and mineral substances; and
-    - **(C)** develop substitutes for such essential ores and mineral products.
+  - **(1)** The President shall make scientific, technologic, and economic investigations concerning the development, mining, preparation, treatment, and utilization of ores and other mineral substances that (A) are found in the United States, its territories or possessions, or in a reliable source 1 1 So in original. Probably should be followed by a comma. (B) are essential to the national defense, industrial, and essential civilian needs of the United States, and (C) are found in known domestic sources in inadequate quantities or grades.
+  - **(2)** Such investigations shall be carried out in order to develop new sources of strategic and critical materials, develop substitutes, or conserve domestic sources and reliable sources of supply for such strategic and critical materials.
   - **(3)** Investigations under paragraph (1) may be carried out on public lands and, with the consent of the owner, on privately owned lands for the purpose of exploring and determining the extent and quality of deposits of such minerals, the most suitable methods of mining and beneficiating such minerals, and the cost at which the minerals or metals may be produced.
 - **(b)** The President shall make scientific, technologic, and economic investigations of the feasibility of developing domestic sources of supplies of any agricultural material or for using agricultural commodities for the manufacture of any material determined pursuant to section 98b(a) of this title to be a strategic and critical material or substitutes therefor.
 - **(c)** The President shall make scientific, technologic, and economic investigations concerning the feasibility of—

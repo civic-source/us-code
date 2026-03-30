@@ -3,9 +3,9 @@ title: "Section 1176 - Agreement with National Academies of Sciences, Engineerin
 usc_title: 38
 usc_section: "1176"
 chapter: 11
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 1176"
-generated_at: "2026-03-30T00:35:01.619Z"
+generated_at: "2026-03-30T00:38:11.732Z"
 ---
 
 # § 1176. Agreement with National Academies of Sciences, Engineering, and Medicine concerning toxic exposures

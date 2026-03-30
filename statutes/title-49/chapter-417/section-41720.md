@@ -3,9 +3,9 @@ title: "Section 41720 - Joint venture agreements"
 usc_title: 49
 usc_section: "41720"
 chapter: 417
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "49 U.S.C. § 41720"
-generated_at: "2026-03-30T00:36:00.196Z"
+generated_at: "2026-03-30T00:38:45.376Z"
 ---
 
 # § 41720. Joint venture agreements

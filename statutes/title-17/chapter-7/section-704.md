@@ -3,9 +3,9 @@ title: "Section 704 - Retention and disposition of articles deposited in Copyrig
 usc_title: 17
 usc_section: "704"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "17 U.S.C. § 704"
-generated_at: "2026-03-30T00:33:28.102Z"
+generated_at: "2026-03-30T00:36:46.775Z"
 ---
 
 # § 704. Retention and disposition of articles deposited in Copyright Office

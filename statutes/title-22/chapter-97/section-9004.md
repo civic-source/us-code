@@ -3,9 +3,9 @@ title: "Section 9004 - Provisional remedies"
 usc_title: 22
 usc_section: "9004"
 chapter: 97
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 9004"
-generated_at: "2026-03-30T00:33:49.909Z"
+generated_at: "2026-03-30T00:37:11.377Z"
 ---
 
 # § 9004. Provisional remedies

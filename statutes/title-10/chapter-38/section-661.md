@@ -3,14 +3,14 @@ title: "Section 661 - Management policies for joint qualified officers"
 usc_title: 10
 usc_section: "661"
 chapter: 38
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 661"
-generated_at: "2026-03-30T00:33:02.227Z"
+generated_at: "2026-03-30T00:36:30.928Z"
 ---
 
 # § 661. Management policies for joint qualified officers
 
-- **(a)** The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, Marine Corps, and Space Force on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in section 668 of this title ). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
+- **(a)** The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, and Marine Corps on the active-duty list, and officers of the Space Force on the Space Force officer list, who are particularly trained in, and oriented toward, joint matters (as defined in section 668 of this title ). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
 - **(b)**
   - **(1)**
     - **(A)** The Secretary of Defense shall establish different levels of joint qualification, as well as the criteria for qualification at each level. Such levels of joint qualification shall be established by the Secretary with the advice of the Chairman of the Joint Chiefs of Staff. Each level shall, as a minimum, have both joint education criteria and joint experience criteria. The purpose of establishing such qualification levels is to ensure a systematic, progressive, career-long development of officers in joint matters and to ensure that officers serving as general and flag officers have the requisite experience and education to be highly proficient in joint matters.

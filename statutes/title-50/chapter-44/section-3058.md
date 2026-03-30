@@ -3,9 +3,9 @@ title: "Section 3058 - National Intelligence Centers"
 usc_title: 50
 usc_section: "3058"
 chapter: 44
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3058"
-generated_at: "2026-03-30T00:35:44.406Z"
+generated_at: "2026-03-30T00:38:42.516Z"
 ---
 
 # § 3058. National Intelligence Centers

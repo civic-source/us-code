@@ -1,14 +1,14 @@
 ---
-title: "Section 18353 - Maintenance of the United States segment and assurance of continued operations of the International Space Station."
+title: "Section 18353 - Maintenance of the United States segment and assurance of continued operations of the International Space Station"
 usc_title: 42
 usc_section: "18353"
 chapter: 159
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 18353"
-generated_at: "2026-03-30T00:35:37.311Z"
+generated_at: "2026-03-30T00:38:36.237Z"
 ---
 
-# § 18353. Maintenance of the United States segment and assurance of continued operations of the International Space Station.
+# § 18353. Maintenance of the United States segment and assurance of continued operations of the International Space Station
 
 - **(a)** The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2030 .
 - **(b)**

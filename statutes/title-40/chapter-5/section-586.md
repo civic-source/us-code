@@ -3,9 +3,9 @@ title: "Section 586 - Charges for space and services"
 usc_title: 40
 usc_section: "586"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "40 U.S.C. § 586"
-generated_at: "2026-03-30T00:35:11.822Z"
+generated_at: "2026-03-30T00:38:09.062Z"
 ---
 
 # § 586. Charges for space and services

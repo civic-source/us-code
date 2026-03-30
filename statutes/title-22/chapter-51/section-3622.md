@@ -3,9 +3,9 @@ title: "Section 3622 - Code of conduct for Commission personnel"
 usc_title: 22
 usc_section: "3622"
 chapter: 51
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 3622"
-generated_at: "2026-03-30T00:33:49.829Z"
+generated_at: "2026-03-30T00:37:11.306Z"
 ---
 
 # § 3622. Code of conduct for Commission personnel

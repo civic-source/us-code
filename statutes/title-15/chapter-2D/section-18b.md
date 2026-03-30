@@ -3,9 +3,9 @@ title: "Section 18b - Custody of client accounts"
 usc_title: 15
 usc_section: "18b"
 chapter: 2
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 18b"
-generated_at: "2026-03-30T00:33:17.900Z"
+generated_at: "2026-03-30T00:36:40.552Z"
 ---
 
 # § 80b–18b. Custody of client accounts

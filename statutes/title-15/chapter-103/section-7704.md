@@ -3,9 +3,9 @@ title: "Section 7704 - Other protections for users of commercial electronic mail
 usc_title: 15
 usc_section: "7704"
 chapter: 103
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 7704"
-generated_at: "2026-03-30T00:33:18.070Z"
+generated_at: "2026-03-30T00:36:40.751Z"
 ---
 
 # § 7704. Other protections for users of commercial electronic mail

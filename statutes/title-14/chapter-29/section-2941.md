@@ -3,9 +3,9 @@ title: "Section 2941 - Definitions"
 usc_title: 14
 usc_section: "2941"
 chapter: 29
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "14 U.S.C. § 2941"
-generated_at: "2026-03-30T00:33:11.692Z"
+generated_at: "2026-03-30T00:36:34.039Z"
 ---
 
 # § 2941. Definitions

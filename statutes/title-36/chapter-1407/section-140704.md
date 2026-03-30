@@ -3,9 +3,9 @@ title: "Section 140704 - Membership"
 usc_title: 36
 usc_section: "140704"
 chapter: 1407
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "36 U.S.C. § 140704"
-generated_at: "2026-03-30T00:35:11.410Z"
+generated_at: "2026-03-30T00:38:10.140Z"
 ---
 
 # § 140704. Membership

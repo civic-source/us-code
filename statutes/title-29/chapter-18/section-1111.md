@@ -3,9 +3,9 @@ title: "Section 1111 - Persons prohibited from holding certain positions"
 usc_title: 29
 usc_section: "1111"
 chapter: 18
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "29 U.S.C. § 1111"
-generated_at: "2026-03-30T00:34:11.688Z"
+generated_at: "2026-03-30T00:37:38.910Z"
 ---
 
 # § 1111. Persons prohibited from holding certain positions

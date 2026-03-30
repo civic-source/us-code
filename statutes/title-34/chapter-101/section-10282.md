@@ -3,9 +3,9 @@ title: "Section 10282 - Limitations on benefits"
 usc_title: 34
 usc_section: "10282"
 chapter: 101
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "34 U.S.C. § 10282"
-generated_at: "2026-03-30T00:34:49.250Z"
+generated_at: "2026-03-30T00:38:01.706Z"
 ---
 
 # § 10282. Limitations on benefits

@@ -3,9 +3,9 @@ title: "Section 3614 - Louis Stokes Educational Scholarship Program"
 usc_title: 50
 usc_section: "3614"
 chapter: 47
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3614"
-generated_at: "2026-03-30T00:35:44.429Z"
+generated_at: "2026-03-30T00:38:42.541Z"
 ---
 
 # § 3614. Louis Stokes Educational Scholarship Program
@@ -14,7 +14,7 @@ generated_at: "2026-03-30T00:35:44.429Z"
 - **(b)** The Secretary of Defense is authorized, in his discretion, to assign civilians who may or may not be employees of the National Security Agency as students at accredited professional, technical, and other institutions of higher learning for training at the undergraduate or graduate level in skills critical to effective performance of the mission of the Agency.
 - **(c)** The National Security Agency may pay, directly or by reimbursement to program participants, expenses incident to assignments under subsection (b), in any fiscal year only to the extent that appropriated funds are available for such purpose.
 - **(d)**
-  - **(1)** To be eligible for assignment under subsection (b), a program participant, 1 1 So in original. must agree in writing—
+  - **(1)** To be eligible for assignment under subsection (b), a program participant must agree in writing—
     - **(A)** to continue in the service of the Agency for the period of the assignment and to complete the educational course of training for which the program participant is assigned;
     - **(B)** to continue in the service of the Agency following completion of the assignment for a period of one-and-a-half years for each year of the assignment or part thereof;
     - **(C)** to reimburse the United States for the total cost of education (excluding the program participant’s pay and allowances) provided under this section to the program participant if, prior to the program participant’s completing the educational course of training for which the program participant is assigned, the assignment or the program participant’s employment with the Agency is terminated—
@@ -26,7 +26,7 @@ generated_at: "2026-03-30T00:35:44.429Z"
   - **(3)**
     - **(A)** A discharge in bankruptcy under title 11 shall not release a person from an obligation to reimburse the United States required under an agreement described in paragraph (1) if the final decree of the discharge in bankruptcy is issued within five years after the last day of the combined period of service obligation described in subparagraphs (A) and (B) of paragraph (1).
     - **(B)** The Secretary of Defense may release a person, in whole or in part, from the obligation to reimburse the United States under an agreement described in paragraph (1) when, in his discretion, the Secretary determines that equity or the interests of the United States so require.
-    - **(C)** The Secretary of Defense shall permit an 1 program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant’s employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
+    - **(C)** The Secretary of Defense shall permit an 1 1 So in original. program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant’s employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
 - **(e)** Agency efforts to recruit individuals at educational institutions for participation in the undergraduate and graduate training program established by this section shall be made openly and according to the common practices of universities and employers recruiting at such institutions.
 - **(f)** Chapter 41 of title 5 and subsections (a) and (b) of section 3324 of title 31 shall not apply with respect to this section.
 - **(g)** The Secretary of Defense may issue such regulations as may be necessary to implement this section.

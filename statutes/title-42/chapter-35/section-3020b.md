@@ -3,9 +3,9 @@ title: "Section 3020b - Reduction of paperwork"
 usc_title: 42
 usc_section: "3020b"
 chapter: 35
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 3020b"
-generated_at: "2026-03-30T00:35:36.983Z"
+generated_at: "2026-03-30T00:38:35.894Z"
 ---
 
 # § 3020b. Reduction of paperwork

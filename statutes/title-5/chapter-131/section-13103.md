@@ -3,9 +3,9 @@ title: "Section 13103 - Persons required to file"
 usc_title: 5
 usc_section: "13103"
 chapter: 131
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 13103"
-generated_at: "2026-03-30T00:32:45.655Z"
+generated_at: "2026-03-30T00:36:19.014Z"
 ---
 
 # § 13103. Persons required to file

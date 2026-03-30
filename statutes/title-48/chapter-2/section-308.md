@@ -3,9 +3,9 @@ title: "Section 308 - Transferred"
 usc_title: 48
 usc_section: "308"
 chapter: 2
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "48 U.S.C. § 308"
-generated_at: "2026-03-30T00:35:41.127Z"
+generated_at: "2026-03-30T00:38:39.287Z"
 ---
 
 # §§ 302 to 308. Transferred

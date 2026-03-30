@@ -3,17 +3,31 @@ title: "Section 201 - Bribery of public officials and witnesses"
 usc_title: 18
 usc_section: "201"
 chapter: 11
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 201"
-generated_at: "2026-03-30T00:33:26.759Z"
+generated_at: "2026-03-30T00:36:51.527Z"
 ---
 
 # § 201. Bribery of public officials and witnesses
 
 - **(a)** For the purpose of this section—
   - **(1)** the term “public official” means Member of Congress, Delegate, or Resident Commissioner, either before or after such official has qualified, or an officer or employee or person acting for or on behalf of the United States, or any department, agency or branch of Government thereof, including the District of Columbia, in any official function, under or by authority of any such department, agency, or branch of Government, or a juror;
-  - **(2)** the term “person who has been selected to be a public official” means any person who has been nominated or appointed to be a public official, or has been officially informed that such person will be so nominated or appointed; and
-  - **(3)** the term “official act” means any decision or action on any question, matter, cause, suit, proceeding or controversy, which may at any time be pending, or which may by law be brought before any public official, in such official’s official capacity, or in such official’s place of trust or profit.
+  - **(2)** the term “person who has been selected to be a public official” means any person who has been nominated or appointed to be a public official, or has been officially informed that such person will be so nominated or appointed;
+  - **(3)** the term “official act” means any decision or action on any question, matter, cause, suit, proceeding or controversy, which may at any time be pending, or which may by law be brought before any public official, in such official’s official capacity, or in such official’s place of trust or profit;
+  - **(4)** the term “foreign official” means—
+    - **(A)**
+      - **(i)** any official or employee of a foreign government or any department, agency, or instrumentality thereof; or
+      - **(ii)** any senior foreign political figure, as defined in section 1010.605 of title 31, Code of Federal Regulations, or any successor regulation;
+    - **(B)** any official or employee of a public international organization;
+    - **(C)** any person acting in an official capacity for or on behalf of—
+      - **(i)** a government, department, agency, or instrumentality described in subparagraph (A)(i); or
+      - **(ii)** a public international organization; or
+    - **(D)** any person acting in an unofficial capacity for or on behalf of—
+      - **(i)** a government, department, agency, or instrumentality described in subparagraph (A)(i); or
+      - **(ii)** a public international organization; and
+  - **(5)** the term “public international organization” means—
+    - **(A)** an organization that is designated by Executive order pursuant to section 1 of the International Organizations Immunities Act ( 22 U.S.C. 288 ); or
+    - **(B)** any other international organization that is designated by the President by Executive order for the purposes of this section, effective as of the date of publication of such order in the Federal Register.
 - **(b)** Whoever—
   - **(1)** directly or indirectly, corruptly gives, offers or promises anything of value to any public official or person who has been selected to be a public official, or offers or promises any public official or any person who has been selected to be a public official to give anything of value to any other person or entity, with intent—
     - **(A)** to influence any official act; or
@@ -33,3 +47,17 @@ generated_at: "2026-03-30T00:33:26.759Z"
   - **(3)** directly or indirectly, demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally for or because of the testimony under oath or affirmation given or to be given by such person as a witness upon any such trial, hearing, or other proceeding, or for or because of such person’s absence therefrom; shall be fined under this title or imprisoned for not more than two years, or both.
 - **(d)** Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c) shall not be construed to prohibit the payment or receipt of witness fees provided by law, or the payment, by the party upon whose behalf a witness is called and receipt by a witness, of the reasonable cost of travel and subsistence incurred and the reasonable value of time lost in attendance at any such trial, hearing, or proceeding, or in the case of expert witnesses, a reasonable fee for time spent in the preparation of such opinion, and in appearing and testifying.
 - **(e)** The offenses and penalties prescribed in this section are separate from and in addition to those prescribed in sections 1503, 1504, and 1505 of this title.
+- **(f)**
+  - **(1)** It shall be unlawful for any foreign official or person selected to be a foreign official to corruptly demand, seek, receive, accept, or agree to receive or accept, directly or indirectly, anything of value personally or for any other person or nongovernmental entity, by making use of the mails or any means or instrumentality of interstate commerce, from any person (as defined in section 104A of the Foreign Corrupt Practices Act of 1977 ( 15 U.S.C. 78dd–3 ), except that that definition shall be applied without regard to whether the person is an offender) while in the territory of the United States, from an issuer (as defined in section 3(a) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a) )), or from a domestic concern (as defined in section 104 of the Foreign Corrupt Practices Act of 1977 ( 15 U.S.C. 78dd–2 )), in return for—
+    - **(A)** being influenced in the performance of any official act;
+    - **(B)** being induced to do or omit to do any act in violation of the official duty of such foreign official or person; or
+    - **(C)** conferring any improper advantage,
+  - **(2)** Any person who violates paragraph (1) shall be fined not more than $250,000 or 3 times the monetary equivalent of the thing of value, imprisoned for not more than 15 years, or both.
+  - **(3)** An offense under paragraph (1) shall be subject to extraterritorial Federal jurisdiction.
+  - **(4)** Not later than 1 year after the date of enactment of the Foreign Extortion Prevention Act, 1 1 See References in Text note below. and annually thereafter, the Attorney General, in consultation with the Secretary of State as relevant, shall submit to the Committee on the Judiciary and the Committee on Foreign Relations of the Senate and the Committee on the Judiciary and the Committee on Foreign Affairs of the House of Representatives, and post on the publicly available website of the Department of Justice, a report—
+    - **(A)** focusing, in part, on demands by foreign officials for bribes from entities domiciled or incorporated in the United States, and the efforts of foreign governments to prosecute such cases;
+    - **(B)** addressing United States diplomatic efforts to protect entities domiciled or incorporated in the United States from foreign bribery, and the effectiveness of those efforts in protecting such entities;
+    - **(C)** summarizing major actions taken under this section in the previous year, including enforcement actions taken and penalties imposed;
+    - **(D)** evaluating the effectiveness of the Department of Justice in enforcing this section; and
+    - **(E)** detailing what resources or legislative action the Department of Justice needs to ensure adequate enforcement of this section.
+  - **(5)** This subsection shall not be construed as encompassing conduct that would violate section 30A of the Securities Exchange Act of 1934 ( 15 U.S.C. 78dd–1 ) or section 104 or 104A of the Foreign Corrupt Practices Act of 1977 ( 15 U.S.C. 78dd–2 ; 15 U.S.C. 78dd–3 ) whether pursuant to a theory of direct liability, conspiracy, complicity, or otherwise.

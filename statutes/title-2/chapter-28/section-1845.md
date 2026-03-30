@@ -3,9 +3,9 @@ title: "Section 1845 - Effect on existing law"
 usc_title: 2
 usc_section: "1845"
 chapter: 28
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "2 U.S.C. § 1845"
-generated_at: "2026-03-30T00:32:43.015Z"
+generated_at: "2026-03-30T00:36:16.961Z"
 ---
 
 # § 1845. Effect on existing law

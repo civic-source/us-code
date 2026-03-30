@@ -3,9 +3,9 @@ title: "Section 948l - Detail or employment of reporters and interpreters"
 usc_title: 10
 usc_section: "948l"
 chapter: 47
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 948l"
-generated_at: "2026-03-30T00:33:02.239Z"
+generated_at: "2026-03-30T00:36:30.940Z"
 ---
 
 # § 948l. Detail or employment of reporters and interpreters

@@ -3,9 +3,9 @@ title: "Section 130i - Protection of certain facilities and assets from unmanned
 usc_title: 10
 usc_section: "130i"
 chapter: 3
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 130i"
-generated_at: "2026-03-30T00:33:02.201Z"
+generated_at: "2026-03-30T00:36:30.897Z"
 ---
 
 # § 130i. Protection of certain facilities and assets from unmanned aircraft
@@ -48,8 +48,8 @@ generated_at: "2026-03-30T00:33:02.201Z"
   - **(1)** vest in the Secretary of Defense any authority of the Secretary of Transportation or the Administrator of the Federal Aviation Administration under title 49; and
   - **(2)** vest in the Secretary of Transportation or the Administrator of the Federal Aviation Administration any authority of the Secretary of Defense under this title.
 - **(i)**
-  - **(1)** Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2023 .
-  - **(2)** The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2023 , the President certifies to Congress that such extension is in the national security interests of the United States.
+  - **(1)** Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2026 .
+  - **(2)** The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2026 , the President certifies to Congress that such extension is in the national security interests of the United States.
 - **(j)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional defense committees;

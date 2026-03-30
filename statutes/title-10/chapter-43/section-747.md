@@ -3,9 +3,9 @@ title: "Section 747 - Command: when different commands of Army, Navy, Air Force,
 usc_title: 10
 usc_section: "747"
 chapter: 43
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 747"
-generated_at: "2026-03-30T00:33:02.229Z"
+generated_at: "2026-03-30T00:36:30.930Z"
 ---
 
 # § 747. Command: when different commands of Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard join

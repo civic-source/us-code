@@ -3,9 +3,9 @@ title: "Section 3649 - Applicability of certain benefits"
 usc_title: 22
 usc_section: "3649"
 chapter: 51
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 3649"
-generated_at: "2026-03-30T00:33:49.830Z"
+generated_at: "2026-03-30T00:37:11.307Z"
 ---
 
 # § 3649. Applicability of certain benefits

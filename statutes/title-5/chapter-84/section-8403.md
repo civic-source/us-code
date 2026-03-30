@@ -3,9 +3,9 @@ title: "Section 8403 - Relationship to the Social Security Act"
 usc_title: 5
 usc_section: "8403"
 chapter: 84
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 8403"
-generated_at: "2026-03-30T00:32:45.624Z"
+generated_at: "2026-03-30T00:36:18.996Z"
 ---
 
 # § 8403. Relationship to the Social Security Act

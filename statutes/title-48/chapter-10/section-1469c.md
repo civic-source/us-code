@@ -3,9 +3,9 @@ title: "Section 1469c - Availability of services, facilities, and equipment of a
 usc_title: 48
 usc_section: "1469c"
 chapter: 10
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "48 U.S.C. § 1469c"
-generated_at: "2026-03-30T00:35:41.135Z"
+generated_at: "2026-03-30T00:38:39.295Z"
 ---
 
 # § 1469c. Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements

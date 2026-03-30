@@ -3,9 +3,9 @@ title: "Section 3351 - Modernizing Taiwan’s security capabilities to deter and
 usc_title: 22
 usc_section: "3351"
 chapter: 48
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 3351"
-generated_at: "2026-03-30T00:33:49.826Z"
+generated_at: "2026-03-30T00:37:11.303Z"
 ---
 
 # § 3351. Modernizing Taiwan’s security capabilities to deter and, if necessary, defeat aggression by the People’s Republic of China
@@ -28,7 +28,7 @@ generated_at: "2026-03-30T00:33:49.826Z"
 - **(e)**
   - **(1)** Not later than March 1, 2023 , and annually thereafter, the Secretary of State, in coordination with the Secretary of Defense, shall submit a plan to the appropriate congressional committees describing how amounts authorized to be appropriated pursuant to subsection (h), if made available, would be used to achieve the purpose described in subsection (c).
   - **(2)**
-    - **(A)** Amounts authorized to be appropriated for each fiscal year pursuant to subsection (h) are authorized to be made available after the Secretary of State, in coordination with the Secretary of Defense, certifies not less than annually to the appropriate committees of Congress that Taiwan has increased its defense spending relative to Taiwan’s defense spending in its prior fiscal year, which includes support for an asymmetric strategy, excepting accounts in Taiwan’s defense budget related to personnel expenditures, (other than military training and education and any funding related to the All-Out Defense Mobilization Agency).
+    - **(A)** Amounts authorized to be appropriated for each fiscal year pursuant to subsection (h) are authorized to be made available after the Secretary of State, in coordination with the Secretary of Defense, certifies not later than 1 year after December 22, 2023 , and not less than annually to the appropriate committees of Congress that Taiwan has increased its defense spending relative to Taiwan’s defense spending in its prior fiscal year, which includes support for an asymmetric strategy, excepting accounts in Taiwan’s defense budget related to personnel expenditures, (other than military training and education and any funding related to the All-Out Defense Mobilization Agency).
     - **(B)** The Secretary of State may waive the certification requirement under subparagraph (A) if the Secretary, in consultation with the Secretary of Defense, certifies to the appropriate congressional committees that for any given year—
       - **(i)** Taiwan is unable to increase its defense spending relative to its defense spending in its prior fiscal year due to severe hardship; and
       - **(ii)** making available the amounts authorized under subparagraph (A) is in the national interests of the United States.
@@ -67,10 +67,13 @@ generated_at: "2026-03-30T00:33:49.826Z"
     - **(I)** an assessment of the efforts made by Taiwan to enhance its cybersecurity, including the security and survivability of official civilian and military networks;
     - **(J)** an assessment of the efforts made by Taiwan to improve the image and prestige of its defense forces among the population of Taiwan;
     - **(K)** an assessment of any significant gaps in any of the matters described in subparagraphs (A) through (J) with respect to which the United States assesses that additional action is needed;
-    - **(L)** a description of cooperative efforts between the United States and Taiwan on the matters described in subparagraphs (A) through (K); and
+    - **(L)** a description of cooperative efforts between the United States and Taiwan on the matters described in subparagraphs (A) through (K);
     - **(M)** a description of any challenge in Taiwan to—
       - **(i)** implement the matters described in subparagraphs (A) through (J); or
-      - **(ii)** United States support or engagement with regard to such matters.
+      - **(ii)** United States support or engagement with regard to such matters;
+    - **(N)** a description of actions taken to establish or expand a comprehensive training program with Taiwan pursuant to section 3353 of this title ;
+    - **(O)** a description of actions taken to establish a joint consultative mechanism with appropriate officials of Taiwan, and the multi-year plan to provide for the acquisition of appropriate defensive capabilities by Taiwan, pursuant to section 3355 of this title ; and
+    - **(P)** the list compiled pursuant to section 3356(a) of this title , and a description of actions taken pursuant to sections 3356(b) of this title and 3356(c) of this title.
   - **(3)** Concurrently with subsequent certifications required under subsection (e)(2), the Secretary of State and the Secretary of Defense shall jointly submit updates to the initial report required under paragraph (1) that provides a description of changes and developments that occurred in the prior year.
   - **(4)** The reports required under paragraphs (1) and (3) shall be submitted in an unclassified form, but may contain a classified annex.
   - **(5)** The Secretary of State and the Secretary of Defense shall jointly share any unclassified portions of the reports, pursuant to paragraph (4), with Taiwan, as appropriate.

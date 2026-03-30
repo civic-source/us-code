@@ -3,9 +3,9 @@ title: "Section 2221 - Details of persons from or to office of Secretary"
 usc_title: 7
 usc_section: "2221"
 chapter: 55
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 2221"
-generated_at: "2026-03-30T00:33:09.083Z"
+generated_at: "2026-03-30T00:36:25.746Z"
 ---
 
 # § 2221. Details of persons from or to office of Secretary

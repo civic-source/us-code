@@ -3,9 +3,9 @@ title: "Section 1693l - Waiver of rights"
 usc_title: 15
 usc_section: "1693l"
 chapter: 41
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 1693l"
-generated_at: "2026-03-30T00:33:17.993Z"
+generated_at: "2026-03-30T00:36:40.661Z"
 ---
 
 # § 1693l. Waiver of rights

@@ -3,9 +3,9 @@ title: "Section 4302 - Rule of reason standard"
 usc_title: 15
 usc_section: "4302"
 chapter: 69
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 4302"
-generated_at: "2026-03-30T00:33:18.040Z"
+generated_at: "2026-03-30T00:36:40.717Z"
 ---
 
 # § 4302. Rule of reason standard

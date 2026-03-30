@@ -3,14 +3,14 @@ title: "Section 3113 - Unfunded priorities of the intelligence community: annual
 usc_title: 50
 usc_section: "3113"
 chapter: 44
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3113"
-generated_at: "2026-03-30T00:35:44.411Z"
+generated_at: "2026-03-30T00:38:42.520Z"
 ---
 
 # § 3113. Unfunded priorities of the intelligence community: annual report
 
-- **(a)** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31 , the head of each element of the intelligence community shall submit to the Director of National Intelligence, the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a report on the unfunded priorities of the programs under the jurisdiction of such head.
+- **(a)** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31 , the head of each element of the intelligence community shall prepare and submit to the Director of National Intelligence, the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a report on the unfunded priorities of the programs under the jurisdiction of such head.
 - **(b)**
   - **(1)** Each report under subsection (a) shall specify, for each unfunded priority covered by such report, the following:
     - **(A)** A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part).

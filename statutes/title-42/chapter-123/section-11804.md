@@ -3,9 +3,9 @@ title: "Section 11804 - Coordination with juvenile justice programs"
 usc_title: 42
 usc_section: "11804"
 chapter: 123
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 11804"
-generated_at: "2026-03-30T00:35:37.207Z"
+generated_at: "2026-03-30T00:38:36.124Z"
 ---
 
 # § 11804. Coordination with juvenile justice programs

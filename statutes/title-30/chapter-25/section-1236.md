@@ -3,9 +3,9 @@ title: "Section 1236 - Reclamation of rural lands"
 usc_title: 30
 usc_section: "1236"
 chapter: 25
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "30 U.S.C. § 1236"
-generated_at: "2026-03-30T00:34:18.092Z"
+generated_at: "2026-03-30T00:37:31.666Z"
 ---
 
 # § 1236. Reclamation of rural lands

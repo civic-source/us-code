@@ -3,9 +3,9 @@ title: "Section 222a - Unfunded priorities of the armed forces and combatant com
 usc_title: 10
 usc_section: "222a"
 chapter: 9
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 222a"
-generated_at: "2026-03-30T00:33:02.207Z"
+generated_at: "2026-03-30T00:36:30.905Z"
 ---
 
 # § 222a. Unfunded priorities of the armed forces and combatant commands: annual report
@@ -28,6 +28,10 @@ generated_at: "2026-03-30T00:33:02.207Z"
       - **(ii)** Program Element (PE) number for applicable research, development, test, and evaluation accounts.
       - **(iii)** Sub-activity group (SAG) for applicable operation and maintenance accounts.
     - **(D)** A detailed assessment of each specific risk that would be reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title if such priority is funded (whether in whole or in part).
+    - **(E)** The requirement to be addressed by the unfunded priority.
+    - **(F)** The reason why funding for the priority was not included in the budget of the President.
+    - **(G)** A description of any funding provided for the requirement for the current and preceding fiscal year.
+    - **(H)** An assessment of the effect that providing funding for the priority would have on the future-years defense plan.
   - **(2)** Each report shall present the unfunded priorities covered by such report as follows:
     - **(A)** In overall order of urgency of priority according to the amount of risk reduced.
     - **(B)** In overall order of urgency of priority among unfunded priorities (other than covered military construction projects).

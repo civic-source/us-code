@@ -3,9 +3,9 @@ title: "Section 711 - Clerks and employees"
 usc_title: 28
 usc_section: "711"
 chapter: 47
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "28 U.S.C. § 711"
-generated_at: "2026-03-30T00:34:14.479Z"
+generated_at: "2026-03-30T00:37:57.016Z"
 ---
 
 # § 711. Clerks and employees

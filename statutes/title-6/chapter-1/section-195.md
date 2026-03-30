@@ -3,9 +3,9 @@ title: "Section 195 - Office for Interoperability and Compatibility"
 usc_title: 6
 usc_section: "195"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "6 U.S.C. § 195"
-generated_at: "2026-03-30T00:32:48.430Z"
+generated_at: "2026-03-30T00:36:21.323Z"
 ---
 
 # § 195. Office for Interoperability and Compatibility

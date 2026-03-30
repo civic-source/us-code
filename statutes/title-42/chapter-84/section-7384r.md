@@ -3,9 +3,9 @@ title: "Section 7384r - Separate treatment of chronic silicosis"
 usc_title: 42
 usc_section: "7384r"
 chapter: 84
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 7384r"
-generated_at: "2026-03-30T00:35:37.097Z"
+generated_at: "2026-03-30T00:38:36.011Z"
 ---
 
 # § 7384r. Separate treatment of chronic silicosis

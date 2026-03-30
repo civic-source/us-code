@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 113–79, title II, § 2708 , Feb. 7, 2014
 usc_title: 16
 usc_section: "3"
 chapter: 58
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T00:33:33.085Z"
+generated_at: "2026-03-30T00:37:02.358Z"
 ---
 
 # § 3839bb–3. Repealed. Pub. L. 113–79, title II, § 2708 , Feb. 7, 2014 , 128 Stat. 770

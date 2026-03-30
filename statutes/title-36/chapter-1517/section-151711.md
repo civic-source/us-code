@@ -3,9 +3,9 @@ title: "Section 151711 - Authorization of appropriations"
 usc_title: 36
 usc_section: "151711"
 chapter: 1517
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "36 U.S.C. § 151711"
-generated_at: "2026-03-30T00:35:11.411Z"
+generated_at: "2026-03-30T00:38:10.142Z"
 ---
 
 # § 151711. Authorization of appropriations

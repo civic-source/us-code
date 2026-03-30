@@ -3,16 +3,16 @@ title: "Section 482 - Readiness reports"
 usc_title: 10
 usc_section: "482"
 chapter: 23
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 482"
-generated_at: "2026-03-30T00:33:02.217Z"
+generated_at: "2026-03-30T00:36:30.917Z"
 ---
 
 # § 482. Readiness reports
 
 - **(a)**
-  - **(1)** Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
-  - **(2)** Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components.
+  - **(1)** Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components and the Space Force. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
+  - **(2)** Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components and the Space Force.
   - **(3)** Each report under this subsection shall contain the elements required by subsection (b) for the quarter covered by the report, and each briefing shall address any changes to the elements described in subsection (b) since the submittal of the most recently submitted report.
 - **(b)** The elements described in this subsection are each of the following:
   - **(1)** A description of each readiness problem or deficiency that affects the ground, sea, air, space, cyber, or special operations forces, and any other area determined appropriate by the Secretary of Defense.

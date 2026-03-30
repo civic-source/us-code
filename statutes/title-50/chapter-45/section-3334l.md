@@ -3,9 +3,9 @@ title: "Section 3334l - Oversight of Defense Intelligence Agency culture"
 usc_title: 50
 usc_section: "3334l"
 chapter: 45
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3334l"
-generated_at: "2026-03-30T00:35:44.417Z"
+generated_at: "2026-03-30T00:38:42.528Z"
 ---
 
 # § 3334l. Oversight of Defense Intelligence Agency culture
@@ -20,7 +20,7 @@ generated_at: "2026-03-30T00:35:44.417Z"
   - **(2)** The term “workforce climate survey”—
     - **(A)** means a workforce engagement or climate survey conducted at the agency, directorate, career field, or integrated intelligence center level, without regard to whether the survey is conducted on an annual or ad-hoc basis; and
     - **(B)** does not include an exit survey specified in subsection (c).
-- **(b)** Congress finds that the Defense Intelligence Agency has committed to improving Agency culture and leadership; however, actions taken by the Agency as of December 23, 2022 , have not enabled a full assessment of the extent of workforce culture issues and potential management abuses, and require additional Congressional 1 1 So in original. Probably should not be capitalized. oversight to ensure concerns are both understood and addressed.
+- **(b)** Congress finds that the Defense Intelligence Agency has committed to improving Agency culture and leadership; however, actions taken by the Agency as of December 23, 2022 , have not enabled a full assessment of the extent of workforce culture issues and potential management abuses, and require additional congressional oversight to ensure concerns are both understood and addressed.
 - **(c)**
   - **(1)** The Director of the Defense Intelligence Agency shall ensure that each employee of such Agency who leaves employment with such Agency (but not including any detail assignment) completes an exit survey or exit interview prior to such departure, to the extent practicable.
   - **(2)** On an annual basis during the 3-year period beginning on December 23, 2022 , the Director of the Defense Intelligence Agency shall submit to the appropriate committees of Congress a written analysis of the results of the exit surveys or exit interviews completed pursuant to paragraph (1) during the year covered by the report together with a plan of the Director to address any issues identified pursuant to such results to improve retention and culture.

@@ -3,9 +3,9 @@ title: "Section 460gggg - Numu Newe Special Management Area"
 usc_title: 16
 usc_section: "460gggg"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 460gggg"
-generated_at: "2026-03-30T00:33:32.949Z"
+generated_at: "2026-03-30T00:37:02.218Z"
 ---
 
 # § 460gggg. Numu Newe Special Management Area
@@ -15,7 +15,7 @@ generated_at: "2026-03-30T00:33:32.949Z"
   - **(2)** The term “Secretary” means the Secretary of the Interior.
   - **(3)** The term “Special Management Area” means the Numu Newe Special Management Area established by subsection (b).
 - **(b)** To protect, conserve, and enhance the unique and nationally important historic, cultural, archaeological, natural, and educational resources of the Numu Newe traditional homeland, subject to valid existing rights, there is established in Churchill and Mineral Counties, Nevada, the Numu Newe Special Management Area, to be administered by the Secretary.
-- **(c)** The Special Management Area shall consist of the approximately 217,845 acres of public land in Churchill and Mineral Counties, Nevada, administered by the Bureau of Land Management, as depicted on the map entitled “Churchill County Proposed Fallon Range Training Complex Modernization and Lands Bill” and dated November 30, 2022 .
+- **(c)** The Special Management Area shall consist of the approximately 209,181 acres of public land in Churchill and Mineral Counties, Nevada, administered by the Bureau of Land Management, as depicted on the map entitled “Churchill County Proposed Fallon Range Training Complex Modernization and Lands Bill” and dated November 30, 2022 .
 - **(d)**
   - **(1)** Not later than 2 years after December 23, 2022 , the Secretary shall develop a comprehensive management plan for the long-term management of the Special Management Area.
   - **(2)** In developing and implementing the management plan, the Secretary shall consult with—

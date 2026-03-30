@@ -3,16 +3,16 @@ title: "Section 2402 - Persons eligible for interment in national cemeteries"
 usc_title: 38
 usc_section: "2402"
 chapter: 24
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 2402"
-generated_at: "2026-03-30T00:35:01.638Z"
+generated_at: "2026-03-30T00:38:11.751Z"
 ---
 
 # § 2402. Persons eligible for interment in national cemeteries
 
 - **(a)** Under such regulations as the Secretary may prescribe and subject to the provisions of section 6105 of this title , the remains of the following persons may be buried in any open national cemetery under the control of the National Cemetery Administration:
   - **(1)** Any veteran (which for the purposes of this chapter includes a person who died in the active military, naval, air, or space service).
-  - **(2)** Any member of a Reserve component of the Armed Forces, and any member of the Army National Guard or the Air National Guard, whose death occurs under honorable conditions while such member is hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is performing active duty for training, inactive duty training, or undergoing that hospitalization or treatment at the expense of the United States.
+  - **(2)** Any member of a Reserve component of the Armed Forces, any member of the Space Force, and any member of the Army National Guard or the Air National Guard, whose death occurs under honorable conditions while such member is hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is performing active duty for training, inactive duty training, or undergoing that hospitalization or treatment at the expense of the United States.
   - **(3)** Any member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force whose death occurs under honorable conditions while such member is—
     - **(A)** attending an authorized training camp or on an authorized practice cruise;
     - **(B)** performing authorized travel to or from that camp or cruise; or

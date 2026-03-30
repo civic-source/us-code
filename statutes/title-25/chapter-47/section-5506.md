@@ -3,9 +3,9 @@ title: "Section 5506 - Tax exemption for conveyed lands and gross receipts; dist
 usc_title: 25
 usc_section: "5506"
 chapter: 47
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "25 U.S.C. § 5506"
-generated_at: "2026-03-30T00:33:40.020Z"
+generated_at: "2026-03-30T00:37:24.800Z"
 ---
 
 # § 5506. Tax exemption for conveyed lands and gross receipts; distribution of gross receipts to tribal members

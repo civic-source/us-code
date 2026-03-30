@@ -3,9 +3,9 @@ title: "Section 3301 - Vessels subject to inspection"
 usc_title: 46
 usc_section: "3301"
 chapter: 33
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "46 U.S.C. § 3301"
-generated_at: "2026-03-30T00:35:42.031Z"
+generated_at: "2026-03-30T00:38:41.101Z"
 ---
 
 # § 3301. Vessels subject to inspection

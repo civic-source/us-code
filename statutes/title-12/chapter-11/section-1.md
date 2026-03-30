@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 12
 usc_section: "1"
 chapter: 11
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T00:33:22.415Z"
+generated_at: "2026-03-30T00:36:37.465Z"
 ---
 
 # § 1441a–1. Definitions

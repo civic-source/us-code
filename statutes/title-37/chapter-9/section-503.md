@@ -3,12 +3,17 @@ title: "Section 503 - Absence without leave or over leave"
 usc_title: 37
 usc_section: "503"
 chapter: 9
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "37 U.S.C. § 503"
-generated_at: "2026-03-30T00:35:10.508Z"
+generated_at: "2026-03-30T00:38:07.408Z"
 ---
 
 # § 503. Absence without leave or over leave
 
-- **(a)** A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent without leave or over leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
+- **(a)**
+  - **(1)** Subject to paragraph (2), a member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent without leave or over leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
+  - **(2)**
+    - **(A)** In the case of a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard when it is operating as service in the Department of the Navy, the Secretary of Defense may determine to pay the pay and allowances described in paragraph (1).
+    - **(B)** The Secretary may not delegate the authority to make a determination under subparagraph (A).
+    - **(C)** Not later than 30 days after determining to pay any pay or allowance under subparagraph (A), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding such determination.
 - **(b)** A commissioned officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps 1 1 See Change of Name note below. of the Public Health Service on active duty, who is absent without leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.

@@ -3,9 +3,9 @@ title: "Section 3456 - Commercial product and commercial service determinations 
 usc_title: 10
 usc_section: "3456"
 chapter: 247
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 3456"
-generated_at: "2026-03-30T00:33:02.320Z"
+generated_at: "2026-03-30T00:36:31.031Z"
 ---
 
 # § 3456. Commercial product and commercial service determinations by Department of Defense
@@ -17,7 +17,7 @@ generated_at: "2026-03-30T00:33:02.320Z"
   - **(1)** In making a determination whether a particular product or service offered by a contractor meets the definition of a commercial product or commercial service, a contracting officer of the Department of Defense may—
     - **(A)** request support from the Director of the Defense Contract Management Agency, the Director of the Defense Contract Audit Agency, or other appropriate experts in the Department to make a determination whether a product or service is a commercial product or commercial service; and
     - **(B)** consider the views of appropriate public and private sector entities.
-  - **(2)** Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification for such determination.
+  - **(2)** Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification why the product or service was determined to be commercial or noncommercial. Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.
 - **(c)**
   - **(1)** A contract for a product or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or service determination with respect to such product or service for purposes of this chapter unless the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures.
   - **(2)**

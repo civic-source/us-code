@@ -3,9 +3,9 @@ title: "Section 763 - Transfer of Noble Training Center"
 usc_title: 6
 usc_section: "763"
 chapter: 2
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "6 U.S.C. § 763"
-generated_at: "2026-03-30T00:32:48.488Z"
+generated_at: "2026-03-30T00:36:21.359Z"
 ---
 
 # § 763. Transfer of Noble Training Center

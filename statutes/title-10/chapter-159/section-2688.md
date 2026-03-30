@@ -3,9 +3,9 @@ title: "Section 2688 - Utility systems: conveyance authority"
 usc_title: 10
 usc_section: "2688"
 chapter: 159
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2688"
-generated_at: "2026-03-30T00:33:02.304Z"
+generated_at: "2026-03-30T00:36:31.012Z"
 ---
 
 # § 2688. Utility systems: conveyance authority
@@ -52,5 +52,7 @@ generated_at: "2026-03-30T00:33:02.304Z"
     - **(A)** the additional utility infrastructure cannot operate without being a part of the conveyed utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and
     - **(B)** the military department receives as consideration an amount for the utility infrastructure determined in the same manner as the consideration the Secretary could require under subsection (c) for a conveyance under subsection (a).
   - **(2)** The conveyance under this paragraph may consist of all right, title, and interest of the United States or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
-- **(k)** In the case of a utility system that is conveyed under this section and that only provides utility services to a military installation, the Secretary concerned may use amounts authorized to be appropriated for military construction to improve the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system.
+- **(k)**
+  - **(1)** In the case of a utility system that has been conveyed under this section and that only provides utility services to a military installation, the Secretary of Defense or the Secretary of a military department may authorize a contract on a sole source basis with the conveyee of the utility system to carry out a military construction project as authorized and appropriated for by law for an infrastructure improvement that enhances the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system.
+  - **(2)** The Secretary of Defense or the Secretary of a military department may convey under subsection (j) any infrastructure constructed under paragraph (1) that is in addition to the utility system conveyed under such paragraph.
 - **(l)** This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.

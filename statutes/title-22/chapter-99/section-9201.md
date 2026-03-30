@@ -3,9 +3,9 @@ title: "Section 9201 - Findings; purposes"
 usc_title: 22
 usc_section: "9201"
 chapter: 99
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 9201"
-generated_at: "2026-03-30T00:33:49.911Z"
+generated_at: "2026-03-30T00:37:11.379Z"
 ---
 
 # § 9201. Findings; purposes

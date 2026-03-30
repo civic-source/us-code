@@ -3,9 +3,9 @@ title: "Section 19261 - Quantum networking and communications"
 usc_title: 42
 usc_section: "19261"
 chapter: 163
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 19261"
-generated_at: "2026-03-30T00:35:37.336Z"
+generated_at: "2026-03-30T00:38:36.263Z"
 ---
 
 # § 19261. Quantum networking and communications

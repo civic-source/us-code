@@ -3,9 +3,9 @@ title: "Section 1382 - Eligibility for benefits"
 usc_title: 42
 usc_section: "1382"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 1382"
-generated_at: "2026-03-30T00:35:36.753Z"
+generated_at: "2026-03-30T00:38:35.657Z"
 ---
 
 # § 1382. Eligibility for benefits

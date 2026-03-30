@@ -3,9 +3,9 @@ title: "Section 2437 - Procedure for Congressional approval or disapproval of ex
 usc_title: 19
 usc_section: "2437"
 chapter: 12
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "19 U.S.C. § 2437"
-generated_at: "2026-03-30T00:33:36.093Z"
+generated_at: "2026-03-30T00:36:50.277Z"
 ---
 
 # § 2437. Procedure for Congressional approval or disapproval of extension of nondiscriminatory treatment and Presidential reports

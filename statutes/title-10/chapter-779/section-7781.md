@@ -3,9 +3,9 @@ title: "Section 7781 - Cyber Center for Education and Innovation-Home of the Nat
 usc_title: 10
 usc_section: "7781"
 chapter: 779
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 7781"
-generated_at: "2026-03-30T00:33:02.347Z"
+generated_at: "2026-03-30T00:36:31.060Z"
 ---
 
 # § 7781. Cyber Center for Education and Innovation-Home of the National Cryptologic Museum

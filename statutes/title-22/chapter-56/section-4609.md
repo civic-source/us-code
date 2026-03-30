@@ -3,9 +3,9 @@ title: "Section 4609 - Funding"
 usc_title: 22
 usc_section: "4609"
 chapter: 56
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 4609"
-generated_at: "2026-03-30T00:33:49.848Z"
+generated_at: "2026-03-30T00:37:11.327Z"
 ---
 
 # § 4609. Funding

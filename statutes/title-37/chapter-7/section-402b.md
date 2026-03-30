@@ -3,9 +3,9 @@ title: "Section 402b - Basic needs allowance for members on active service in th
 usc_title: 37
 usc_section: "402b"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "37 U.S.C. § 402b"
-generated_at: "2026-03-30T00:35:10.505Z"
+generated_at: "2026-03-30T00:38:07.404Z"
 ---
 
 # § 402b. Basic needs allowance for members on active service in the Armed Forces
@@ -54,5 +54,5 @@ generated_at: "2026-03-30T00:35:10.505Z"
 - **(k)** In this section:
   - **(1)** The term “gross household income”, with respect to a member of the armed forces, includes—
     - **(A)** all household income, derived from any source; minus
-    - **(B)** in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living, any portion of the basic allowance for housing under section 403 of this title that the Secretary concerned elects to exclude.
+    - **(B)** in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living or that otherwise has a demonstrated need, any portion of the basic allowance for housing under section 403 of this title that the Secretary concerned elects to exclude.
   - **(2)** The term “household” means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.

@@ -3,9 +3,9 @@ title: "Section 3157 - Omitted"
 usc_title: 20
 usc_section: "3157"
 chapter: 47
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 3157"
-generated_at: "2026-03-30T00:33:30.013Z"
+generated_at: "2026-03-30T00:36:53.694Z"
 ---
 
 # §§ 3151 to 3157. Omitted

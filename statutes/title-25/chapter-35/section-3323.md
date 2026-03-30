@@ -3,9 +3,9 @@ title: "Section 3323 - Service conditions permitted"
 usc_title: 25
 usc_section: "3323"
 chapter: 35
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "25 U.S.C. § 3323"
-generated_at: "2026-03-30T00:33:40.001Z"
+generated_at: "2026-03-30T00:37:24.778Z"
 ---
 
 # § 3323. Service conditions permitted

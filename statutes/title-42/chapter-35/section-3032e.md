@@ -3,9 +3,9 @@ title: "Section 3032e - Technical assistance and innovation to improve transport
 usc_title: 42
 usc_section: "3032e"
 chapter: 35
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 3032e"
-generated_at: "2026-03-30T00:35:36.988Z"
+generated_at: "2026-03-30T00:38:35.900Z"
 ---
 
 # § 3032e. Technical assistance and innovation to improve transportation for older individuals

@@ -3,9 +3,9 @@ title: "Section 1154 - Consideration to be accorded time, place, and circumstanc
 usc_title: 38
 usc_section: "1154"
 chapter: 11
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 1154"
-generated_at: "2026-03-30T00:35:01.618Z"
+generated_at: "2026-03-30T00:38:11.731Z"
 ---
 
 # § 1154. Consideration to be accorded time, place, and circumstances of service

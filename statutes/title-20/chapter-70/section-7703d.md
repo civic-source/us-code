@@ -3,18 +3,15 @@ title: "Section 7703d - Assistance to local educational agencies that benefit de
 usc_title: 20
 usc_section: "7703d"
 chapter: 70
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 7703d"
-generated_at: "2026-03-30T00:33:30.051Z"
+generated_at: "2026-03-30T00:36:53.733Z"
 ---
 
 # § 7703d. Assistance to local educational agencies that benefit dependents of members of the Armed Forces with enrollment changes due to base closures, force structure changes, or force relocations
 
-- **(a)** To assist communities in making adjustments resulting from changes in the size or location of the Armed Forces, the Secretary of Defense shall provide financial assistance to an eligible local educational agency described in subsection (b) if, during the period between the end of the school year preceding the fiscal year for which the assistance is authorized and the beginning of the school year immediately preceding that school year, the local educational agency—
-  - **(1)** had (as determined by the Secretary of Defense in consultation with the Secretary of Education) an overall increase or reduction of—
-    - **(A)** not less than five percent in the average daily attendance of military dependent students in the schools of the local educational agency; or
-    - **(B)** not less than 500 military dependent students in average daily attendance in the schools of the local educational agency; or
-  - **(2)** is projected to have an overall increase, between fiscal years 2023 and 2028, of not less than 500 military dependent students in average daily attendance in the schools of the local educational agency as the result of a signed record of decision.
+- **(a)** To assist communities in making adjustments resulting from changes in the size or location of the Armed Forces, the Secretary of Defense shall provide financial assistance to an eligible local educational agency described in subsection (b) if, during the period between the end of the school year preceding the fiscal year for which the assistance is authorized and the beginning of the school year immediately preceding that school year, the local educational agency had (as determined by the Secretary of Defense in consultation with the Secretary of Education) an overall increase or reduction of—
+  - **(1)** not less than five percent in the average daily attendance of military dependent students in the schools of the local educational agency; or (2 not less than 500 military dependent students in average daily attendance in the schools of the local educational agency.
 - **(b)** A local educational agency is eligible for assistance under subsection (a) for a fiscal year if—
   - **(1)** 20 percent or more of students enrolled in schools of the local educational agency are military dependent students; and
   - **(2)** in the case of assistance described in subsection (a)(1), the overall increase or reduction in military dependent students in schools of the local educational agency is the result of one or more of the following:
@@ -37,16 +34,10 @@ generated_at: "2026-03-30T00:33:30.051Z"
   - **(2)** the amount of the assistance for which the local educational agency is eligible.
 - **(f)** The Secretary of Defense shall disburse assistance made available under subsection (a) for a fiscal year not later than 30 days after the date on which notification to the eligible local educational agencies is provided pursuant to subsection (e) for that fiscal year.
 - **(g)** Not later than March 1, 2023 , the Secretary of Defense shall brief the Committees on Armed Services of the Senate and the House of Representatives on the estimated cost of providing assistance to local educational agencies under subsection (a) through September 30, 2028 .
-- **(h)** Amounts disbursed to a local education agency under subsection (f) may be used by such local educational agency for—
-  - **(1)** general fund purposes;
-  - **(2)** special education;
-  - **(3)** school maintenance and operation;
-  - **(4)** school expansion; or
-  - **(5)** new school construction.
-- **(i)**
+- **(h)**
   - **(1)** Notwithstanding the amounts set forth in the funding tables in division D, the amount authorized to be appropriated in section 301 for Operation and Maintenance, Defense-wide, Department of Defense Education Activity, Line 390, as specified in the corresponding funding table in section 4301, is hereby increased by $15,000,000 for purposes of this section.
   - **(2)** Notwithstanding the amounts set forth in the funding tables in division D, the amount authorized to be appropriated in section 301 for Operation and Maintenance, Defense-wide, for Washington Headquarters Services, Line 500, as specified in the corresponding funding table in section 4301, is hereby reduced by $15,000,000.
-- **(j)** In this section:
+- **(i)** In this section:
   - **(1)** The term “base closure process” means any base closure and realignment process conducted after December 23, 2022 , under section 2687 of title 10 or any other similar law enacted after that date.
   - **(2)** The term “local educational agency” has the meaning given that term in section 7713(9) of this title .
   - **(3)** The term “military dependent students” means—

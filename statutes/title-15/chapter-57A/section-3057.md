@@ -3,9 +3,9 @@ title: "Section 3057 - Rule violations and civil sanctions"
 usc_title: 15
 usc_section: "3057"
 chapter: 57
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 3057"
-generated_at: "2026-03-30T00:33:18.028Z"
+generated_at: "2026-03-30T00:36:40.702Z"
 ---
 
 # § 3057. Rule violations and civil sanctions

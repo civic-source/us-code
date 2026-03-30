@@ -3,9 +3,9 @@ title: "Section 3698 - Comprehensive policy on providing education information t
 usc_title: 38
 usc_section: "3698"
 chapter: 36
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 3698"
-generated_at: "2026-03-30T00:35:01.652Z"
+generated_at: "2026-03-30T00:38:11.767Z"
 ---
 
 # § 3698. Comprehensive policy on providing education information to veterans
@@ -37,10 +37,10 @@ generated_at: "2026-03-30T00:35:01.652Z"
       - **(x)** the information regarding the institution’s policies related to transfer of credit from other institutions, as required under section 485(h)(1) of the Higher Education Act of 1965 ( 20 U.S.C. 1092(h)(1) ) and provided to the Secretary of Education under section 132(i)(1)(V)(iv) of such Act ( 20 U.S.C. 1015a(i)(1)(V)(iv) );
       - **(xi)** information on whether the institution administers a priority enrollment system that allows certain student veterans to enroll in courses earlier than other students;
       - **(xii)** information on whether the institution requires a covered individual to take additional action pursuant to section 3679(e)(4) of this title to stay enrolled in a course pending receipt of educational assistance under a law administered by the Secretary;
-      - **(xiii)** 1 1 See Applicability of Amendment note below. whether the institution is listed on the College Navigator website as affiliated with a religion and, if so, which religious denomination;
-      - **(xiv)** 1 whether the Secretary of Education or other head of a department or agency of the Federal Government has determined that the institution is a minority serving institution and, if so, which one or more types of minority serving institutions; and
-      - **(xv)** 1 whether the institution is gender specific.
-  - **(2)** To the extent practicable, the Secretary shall provide the information described in paragraph (1) by including hyperlinks on the Internet website of the Department to other Internet websites that contain such information, including the Internet website of the Department of Education, in a form that is comprehensive and easily understood by veterans, members of the Armed Forces, and other individuals. To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format. 1
+      - **(xiii)** whether the institution is listed on the College Navigator website as affiliated with a religion and, if so, which religious denomination;
+      - **(xiv)** whether the Secretary of Education or other head of a department or agency of the Federal Government has determined that the institution is a minority serving institution and, if so, which one or more types of minority serving institutions; and
+      - **(xv)** whether the institution is gender specific.
+  - **(2)** To the extent practicable, the Secretary shall provide the information described in paragraph (1) by including hyperlinks on the Internet website of the Department to other Internet websites that contain such information, including the Internet website of the Department of Education, in a form that is comprehensive and easily understood by veterans, members of the Armed Forces, and other individuals. To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.
   - **(3)**
     - **(A)** If the Secretary of Veterans Affairs requires, for purposes of providing information pursuant to subsection (b)(5), information that has been reported, or information that is similar to information that has been reported, by an institution of higher learning to the Secretary of Education, the Secretary of Defense, the Secretary of Labor, or the heads of other Federal agencies under a provision of law other than under this section, the Secretary of Veterans Affairs shall obtain the information the Secretary of Veterans Affairs requires from the Secretary or head with the information rather than the institution of higher learning.
     - **(B)** If the Secretary of Veterans Affairs requires, for purposes of providing information pursuant to subsection (b)(5), information from an institution of higher learning that has not been reported to another Federal agency, the Secretary shall, to the degree practicable, obtain such information through the Secretary of Education.
@@ -51,9 +51,9 @@ generated_at: "2026-03-30T00:35:01.652Z"
 - **(f)** In this section:
   - **(1)** The term “institution of higher learning” has the meaning given that term in section 3452(f) of this title .
   - **(2)** The term “postsecondary education and training opportunities” means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.
-  - **(3)** 1 The term “College Navigator website” has the meaning given that term in section 132 of the Higher Education Act 2 2 So in original. Probably should be followed by “of 1965”. ( 20 U.S.C. 1015a ).
-  - **(4)** 1 The term “minority serving institution” means any of the following:
-    - **(A)** A part B institution, as such term is defined in section 322(2) of the Higher Education Act 2 ( 20 U.S.C. 1061(2) ).
+  - **(3)** The term “College Navigator website” has the meaning given that term in section 132 of the Higher Education Act 1 1 So in original. Probably should be followed by “of 1965”. ( 20 U.S.C. 1015a ).
+  - **(4)** The term “minority serving institution” means any of the following:
+    - **(A)** A part B institution, as such term is defined in section 322(2) of the Higher Education Act 1 ( 20 U.S.C. 1061(2) ).
     - **(B)** A Hispanic-serving institution, as such term is defined in section 502(a)(5) of such Act ( 20 U.S.C. 1101a(5) ).
     - **(C)** A Tribal College or University, as such term is defined in section 316(b)(3) of such Act ( 20 U.S.C. 1059c(b)(3) ).
     - **(D)** A predominantly Black institution, as such term is defined in section 318(b)(6) of such Act ( 20 U.S.C. 1059e(b)(6) ).

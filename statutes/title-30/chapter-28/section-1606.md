@@ -3,9 +3,9 @@ title: "Section 1606 - Mineral security"
 usc_title: 30
 usc_section: "1606"
 chapter: 28
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "30 U.S.C. § 1606"
-generated_at: "2026-03-30T00:34:18.102Z"
+generated_at: "2026-03-30T00:37:31.675Z"
 ---
 
 # § 1606. Mineral security

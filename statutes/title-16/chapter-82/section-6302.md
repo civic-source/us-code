@@ -3,9 +3,9 @@ title: "Section 6302 - Definitions"
 usc_title: 16
 usc_section: "6302"
 chapter: 82
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 6302"
-generated_at: "2026-03-30T00:33:33.102Z"
+generated_at: "2026-03-30T00:37:02.377Z"
 ---
 
 # § 6302. Definitions

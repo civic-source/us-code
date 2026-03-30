@@ -3,9 +3,9 @@ title: "Section 6565 - Advancement by Secretary of Senate of travel funds to emp
 usc_title: 2
 usc_section: "6565"
 chapter: 65
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "2 U.S.C. § 6565"
-generated_at: "2026-03-30T00:32:43.051Z"
+generated_at: "2026-03-30T00:36:16.982Z"
 ---
 
 # § 6565. Advancement by Secretary of Senate of travel funds to employees under his jurisdiction for Federal Election Campaign Act travel expenses

@@ -3,9 +3,9 @@ title: "Section 3351a - Making certain policies and execution plans relating to 
 usc_title: 50
 usc_section: "3351a"
 chapter: 45
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3351a"
-generated_at: "2026-03-30T00:35:44.420Z"
+generated_at: "2026-03-30T00:38:42.530Z"
 ---
 
 # § 3351a. Making certain policies and execution plans relating to personnel clearances available to industry partners

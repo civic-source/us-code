@@ -3,9 +3,9 @@ title: "Section 18772 - Data collection in the electricity sector"
 usc_title: 42
 usc_section: "18772"
 chapter: 162
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 18772"
-generated_at: "2026-03-30T00:35:37.320Z"
+generated_at: "2026-03-30T00:38:36.248Z"
 ---
 
 # § 18772. Data collection in the electricity sector

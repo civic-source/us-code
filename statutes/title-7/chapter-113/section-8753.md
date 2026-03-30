@@ -3,9 +3,9 @@ title: "Section 8753 - Repealed. Pub. L. 113–79, title I, § 1101 , Feb. 7, 20
 usc_title: 7
 usc_section: "8753"
 chapter: 113
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 8753"
-generated_at: "2026-03-30T00:33:09.163Z"
+generated_at: "2026-03-30T00:36:25.832Z"
 ---
 
 # § 8753. Repealed. Pub. L. 113–79, title I, § 1101 , Feb. 7, 2014 , 128 Stat. 658

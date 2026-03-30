@@ -3,9 +3,9 @@ title: "Section 709 - False advertising or misuse of names to indicate Federal a
 usc_title: 18
 usc_section: "709"
 chapter: 33
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 709"
-generated_at: "2026-03-30T00:33:26.767Z"
+generated_at: "2026-03-30T00:36:51.537Z"
 ---
 
 # § 709. False advertising or misuse of names to indicate Federal agency

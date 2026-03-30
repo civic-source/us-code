@@ -3,9 +3,9 @@ title: "Section 60701 - Definitions"
 usc_title: 34
 usc_section: "60701"
 chapter: 607
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "34 U.S.C. § 60701"
-generated_at: "2026-03-30T00:34:49.302Z"
+generated_at: "2026-03-30T00:38:01.762Z"
 ---
 
 # § 60701. Definitions

@@ -3,9 +3,9 @@ title: "Section 3060 - Climate Security Advisory Council"
 usc_title: 50
 usc_section: "3060"
 chapter: 44
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3060"
-generated_at: "2026-03-30T00:35:44.406Z"
+generated_at: "2026-03-30T00:38:42.517Z"
 ---
 
 # § 3060. Climate Security Advisory Council
@@ -53,7 +53,7 @@ generated_at: "2026-03-30T00:35:44.406Z"
   - **(2)** Each report under paragraph (1) shall include a description of any obstacles or gaps relating to—
     - **(A)** the Council fulfilling its duties and responsibilities under subsection (c); or
     - **(B)** the responsiveness of the intelligence community to the climate security needs and priorities of the policymaking elements of the Federal Government.
-- **(e)** The Council shall terminate on December 31, 2025 .
+- **(e)** The Council shall terminate on December 31, 2024 .
 - **(f)** In this section:
   - **(1)** The term “climate security” means the effects of climate change on the following:
     - **(A)** The national security of the United States, including national security infrastructure.

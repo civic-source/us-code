@@ -3,9 +3,9 @@ title: "Section 292n - Additional requirements for institutions and lenders"
 usc_title: 42
 usc_section: "292n"
 chapter: 6
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 292n"
-generated_at: "2026-03-30T00:35:36.599Z"
+generated_at: "2026-03-30T00:38:35.508Z"
 ---
 
 # § 292n. Additional requirements for institutions and lenders

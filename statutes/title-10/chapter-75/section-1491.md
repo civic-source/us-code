@@ -3,9 +3,9 @@ title: "Section 1491 - Funeral honors functions at funerals for veterans"
 usc_title: 10
 usc_section: "1491"
 chapter: 75
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1491"
-generated_at: "2026-03-30T00:33:02.269Z"
+generated_at: "2026-03-30T00:36:30.974Z"
 ---
 
 # § 1491. Funeral honors functions at funerals for veterans
@@ -36,5 +36,5 @@ generated_at: "2026-03-30T00:33:02.269Z"
   - **(4)** Procedures for providing training and ensuring quality of performance.
 - **(g)** The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than January 31 of each year beginning with 2001 and ending with 2005 on the experience of the Department of Defense under this section. Each such report shall provide data on the number of funerals supported under this section, the cost for that support, shown by manpower and other cost factors, and the number and costs of funerals supported by each participating organization. The data in the report shall be presented in a standard format, regardless of military department or other organization.
 - **(h)** In this section, the term “veteran” means a decedent who—
-  - **(1)** served in the active military, naval, or air service (as defined in section 101(24) of title 38 ) and who was discharged or released therefrom under conditions other than dishonorable; or
+  - **(1)** served in the active military, naval, air, or space service (as defined in section 101(24) of title 38 ) and who was discharged or released therefrom under conditions other than dishonorable; or
   - **(2)** was a member or former member of the Selected Reserve described in section 2301(f) of title 38 .

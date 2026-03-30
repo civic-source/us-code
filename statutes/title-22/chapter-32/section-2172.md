@@ -3,9 +3,9 @@ title: "Section 2172 - Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oc
 usc_title: 22
 usc_section: "2172"
 chapter: 32
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 2172"
-generated_at: "2026-03-30T00:33:49.739Z"
+generated_at: "2026-03-30T00:37:11.257Z"
 ---
 
 # §§ 2171, 2172. Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oct. 6, 1978 , 92 Stat. 942

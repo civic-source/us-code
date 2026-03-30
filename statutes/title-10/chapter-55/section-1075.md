@@ -3,9 +3,9 @@ title: "Section 1075 - TRICARE Select"
 usc_title: 10
 usc_section: "1075"
 chapter: 55
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1075"
-generated_at: "2026-03-30T00:33:02.249Z"
+generated_at: "2026-03-30T00:36:30.953Z"
 ---
 
 # § 1075. TRICARE Select
@@ -28,6 +28,11 @@ generated_at: "2026-03-30T00:33:02.249Z"
     - **(A)** Except as provided by subsection (e), with respect to beneficiaries described in subparagraph (B) in the active-duty family member category or the retired category, the cost-sharing requirements shall be calculated as if the beneficiary were enrolled in TRICARE Extra or TRICARE Standard as if TRICARE Extra or TRICARE Standard, as the case may be, were still being carried out by the Secretary.
     - **(B)** Beneficiaries described in this subparagraph are beneficiaries who are eligible to enroll in the TRICARE program by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services before January 1, 2018 , or by reason of being a dependent of such a member.
   - **(3)** With respect to beneficiaries in the reserve and young adult category, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1) as if the beneficiary were in the active-duty family member category or the retired category, as applicable, except that the premiums calculated pursuant to section 1076d, 1076e, or 1110b of this title, as the case may be, shall apply instead of any enrollment fee required under this section.
+  - **(4)**
+    - **(A)** Consistent with other provisions of this chapter and subject to requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits each year of any of the following beneficiaries:
+      - **(i)** Beneficiaries in the active-duty family member category.
+      - **(ii)** Beneficiaries covered by section 1110b of this title .
+    - **(B)** This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
 - **(d)**
   - **(1)** Beneficiaries described in subsection (c)(1) enrolled in TRICARE Select shall be subject to cost-sharing requirements in accordance with the amounts and percentages under the following table during calendar year 2018 and as such amounts are adjusted under paragraph (2) for subsequent years: TRICARE Select Active-Duty Family Member (Individual/Family) Retired (Individual/Family) Annual Enrollment $0 $450 / $900 Annual deductible E4 & below: $50 / $100 $150 / $300 Network ..................... E5 & above: $150 / $300 $300 / $600 out of network Annual catastrophic cap $1,000 $3,500 Outpatient visit civilian network $15 primary care $25 primary care ..................... $25 specialty care $40 specialty care ..................... ..................... Out of network: 20% 25% out of network ER visit civilian network $40 network $80 network ..................... 20% out of network 25% out of network Urgent care civilian network $20 network $40 network ..................... 20% out of network 25% out of network Ambulatory surgery civilian network $25 network $95 network ..................... 20% out of network 25% out of network Ground ambulance civilian network $15 $60 Durable medical equipment civilian network 10% of negotiated fee 20% network Inpatient visit civilian network $60 per network admission $175 per admission network ..................... ..................... 20% out of network 25% out of network Inpatient skilled nursing/rehab civilian $25 per day network $50 per day network ..................... $50 per day out of network Lesser of $300 per day or 20% of billed charges out of network
   - **(2)** Each dollar amount expressed as a fixed dollar amount in the table set forth in paragraph (1), and the amounts specified under paragraphs (1) and (2) of subsection (e), shall be annually indexed to the amount by which retired pay is increased under section 1401a of this title , rounded to the next lower multiple of $1. The remaining amount above such multiple of $1 shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.

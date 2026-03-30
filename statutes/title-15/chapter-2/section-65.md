@@ -3,9 +3,9 @@ title: "Section 65 - Information required from export trade corporation; powers 
 usc_title: 15
 usc_section: "65"
 chapter: 2
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 65"
-generated_at: "2026-03-30T00:33:17.850Z"
+generated_at: "2026-03-30T00:36:40.494Z"
 ---
 
 # § 65. Information required from export trade corporation; powers of Federal Trade Commission

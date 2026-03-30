@@ -3,9 +3,9 @@ title: "Section 9563 - Prioritization of efforts and assistance for energy infra
 usc_title: 22
 usc_section: "9563"
 chapter: 102
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 9563"
-generated_at: "2026-03-30T00:33:49.920Z"
+generated_at: "2026-03-30T00:37:11.385Z"
 ---
 
 # § 9563. Prioritization of efforts and assistance for energy infrastructure projects in Europe and Eurasia

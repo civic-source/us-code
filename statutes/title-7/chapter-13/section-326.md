@@ -3,9 +3,9 @@ title: "Section 326 - Ascertainment and certification of amounts due States; cer
 usc_title: 7
 usc_section: "326"
 chapter: 13
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 326"
-generated_at: "2026-03-30T00:33:09.002Z"
+generated_at: "2026-03-30T00:36:25.658Z"
 ---
 
 # § 326. Ascertainment and certification of amounts due States; certificates withheld from States; appeal to Congress

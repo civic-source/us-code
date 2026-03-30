@@ -3,9 +3,9 @@ title: "Section 704 - Waiver of pay limitation for certain employees"
 usc_title: 38
 usc_section: "704"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 704"
-generated_at: "2026-03-30T00:35:01.615Z"
+generated_at: "2026-03-30T00:38:11.727Z"
 ---
 
 # § 704. Waiver of pay limitation for certain employees

@@ -3,9 +3,9 @@ title: "Section 818 - Injunctions"
 usc_title: 30
 usc_section: "818"
 chapter: 22
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "30 U.S.C. § 818"
-generated_at: "2026-03-30T00:34:18.083Z"
+generated_at: "2026-03-30T00:37:31.655Z"
 ---
 
 # § 818. Injunctions

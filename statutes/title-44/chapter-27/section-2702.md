@@ -3,9 +3,9 @@ title: "Section 2702 - Membership; chairman; meetings"
 usc_title: 44
 usc_section: "2702"
 chapter: 27
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "44 U.S.C. § 2702"
-generated_at: "2026-03-30T00:35:13.746Z"
+generated_at: "2026-03-30T00:38:15.881Z"
 ---
 
 # § 2702. Membership; chairman; meetings

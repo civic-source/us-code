@@ -3,9 +3,9 @@ title: "Section 9230 - Codification of sanctions with respect to North Korean ac
 usc_title: 22
 usc_section: "9230"
 chapter: 99
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 9230"
-generated_at: "2026-03-30T00:33:49.915Z"
+generated_at: "2026-03-30T00:37:11.381Z"
 ---
 
 # § 9230. Codification of sanctions with respect to North Korean activities undermining cybersecurity

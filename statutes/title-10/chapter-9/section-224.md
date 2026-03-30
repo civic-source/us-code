@@ -3,9 +3,9 @@ title: "Section 224 - Ballistic missile defense programs: display of amounts for
 usc_title: 10
 usc_section: "224"
 chapter: 9
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 224"
-generated_at: "2026-03-30T00:33:02.208Z"
+generated_at: "2026-03-30T00:36:30.906Z"
 ---
 
 # § 224. Ballistic missile defense programs: display of amounts for research, development, test, and evaluation

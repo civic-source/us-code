@@ -3,9 +3,9 @@ title: "Section 9782 - Maintenance and repair of real property"
 usc_title: 10
 usc_section: "9782"
 chapter: 979
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 9782"
-generated_at: "2026-03-30T00:33:02.372Z"
+generated_at: "2026-03-30T00:36:31.086Z"
 ---
 
 # § 9782. Maintenance and repair of real property

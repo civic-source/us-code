@@ -3,9 +3,9 @@ title: "Section 133 - Repealed. May 7, 1926, ch. 250, § 7 , 44 Stat. 405"
 usc_title: 22
 usc_section: "133"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 133"
-generated_at: "2026-03-30T00:33:49.695Z"
+generated_at: "2026-03-30T00:37:11.209Z"
 ---
 
 # § 133. Repealed. May 7, 1926, ch. 250, § 7 , 44 Stat. 405

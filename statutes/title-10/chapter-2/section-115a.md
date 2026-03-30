@@ -3,9 +3,9 @@ title: "Section 115a - Annual defense manpower profile report and related report
 usc_title: 10
 usc_section: "115a"
 chapter: 2
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 115a"
-generated_at: "2026-03-30T00:33:02.198Z"
+generated_at: "2026-03-30T00:36:30.892Z"
 ---
 
 # § 115a. Annual defense manpower profile report and related reports
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T00:33:02.198Z"
     - **(C)** other separations;
     - **(D)** deaths;
     - **(E)** promotions; and
-    - **(F)** reserve and regular officers ordered to active duty.
+    - **(F)** reserve and regular officers ordered to active duty or, in the case of the Space Force, officers ordered to active duty other than under section 20105(b) of this title .
   - **(4)** The opportunities for promotion of commissioned officers anticipated to be estimated pursuant to section 623(b)(4) of this title for the fiscal year in which such report is submitted for purposes of promotion selection boards convened pursuant to section 611 of this title during such fiscal year.
 - **(e)**
   - **(1)** Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.

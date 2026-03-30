@@ -3,9 +3,9 @@ title: "Section 403s - Transferred"
 usc_title: 50
 usc_section: "403s"
 chapter: 15
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 403s"
-generated_at: "2026-03-30T00:35:44.370Z"
+generated_at: "2026-03-30T00:38:42.473Z"
 ---
 
 # § 403s. Transferred

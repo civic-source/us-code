@@ -3,9 +3,9 @@ title: "Section 2694 - Conservation and cultural activities"
 usc_title: 10
 usc_section: "2694"
 chapter: 159
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2694"
-generated_at: "2026-03-30T00:33:02.304Z"
+generated_at: "2026-03-30T00:36:31.013Z"
 ---
 
 # § 2694. Conservation and cultural activities
@@ -30,4 +30,4 @@ generated_at: "2026-03-30T00:33:02.304Z"
       - **(ii)** for one or more ecosystems within a sentinel landscape.
 - **(c)** The Secretary may negotiate and enter into cooperative agreements with public and private agencies, organizations, institutions, individuals, or other entities to carry out the program established under subsection (a).
 - **(d)** Nothing in this section shall be construed or interpreted as preempting any otherwise applicable Federal, State, or local law or regulation relating to the management of natural and cultural resources on military installations.
-- **(e)** In this section, the term “sentinel landscape” has the meaning given that term in section 317(f) of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115–91 ; 10 U.S.C. 2684a note).
+- **(e)** In this section, the term “sentinel landscape” has the meaning given that term in section 2693(g) of this title .

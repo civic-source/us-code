@@ -3,9 +3,9 @@ title: "Section 1272 - Designating areas unsuitable for surface coal mining"
 usc_title: 30
 usc_section: "1272"
 chapter: 25
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "30 U.S.C. § 1272"
-generated_at: "2026-03-30T00:34:18.097Z"
+generated_at: "2026-03-30T00:37:31.670Z"
 ---
 
 # § 1272. Designating areas unsuitable for surface coal mining

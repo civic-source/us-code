@@ -3,17 +3,17 @@ title: "Section 51509 - Student incentive payment agreements"
 usc_title: 46
 usc_section: "51509"
 chapter: 515
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "46 U.S.C. § 51509"
-generated_at: "2026-03-30T00:35:42.059Z"
+generated_at: "2026-03-30T00:38:41.131Z"
 ---
 
 # § 51509. Student incentive payment agreements
 
 - **(a)** If a State maritime academy has an agreement with the Secretary of Transportation under section 51505 of this title , the Secretary may make an agreement with a student at the academy who is a citizen of the United States to make student incentive payments to the individual. An agreement with a student may not be effective for more than 4 academic years. The Secretary shall allocate payments under this section among the various State maritime academies in an equitable manner.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
-  - **(2)** The Secretary may modify the payments made to an individual under paragraph (1), but the total amount of payments to that individual may not exceed $32,000.
+  - **(1)** Except as provided in paragraph (2), payments under an agreement under this section shall be equal to $16,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
+  - **(2)** The Secretary may modify the payments made to an individual under paragraph (1), but the total amount of payments to that individual may not exceed $64,000.
   - **(3)** The payments shall be used for uniforms, tuition, books, and subsistence.
 - **(c)** An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
 - **(d)** An agreement under this section shall require the student to—

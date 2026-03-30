@@ -3,9 +3,9 @@ title: "Section 2121 - Establishment; titles; branches"
 usc_title: 12
 usc_section: "2121"
 chapter: 23
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "12 U.S.C. § 2121"
-generated_at: "2026-03-30T00:33:22.496Z"
+generated_at: "2026-03-30T00:36:37.551Z"
 ---
 
 # § 2121. Establishment; titles; branches

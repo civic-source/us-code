@@ -3,9 +3,9 @@ title: "Section 4271 - Imposition of tax"
 usc_title: 26
 usc_section: "4271"
 chapter: 33
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "26 U.S.C. § 4271"
-generated_at: "2026-03-30T00:34:36.204Z"
+generated_at: "2026-03-30T00:37:37.782Z"
 ---
 
 # § 4271. Imposition of tax
@@ -21,6 +21,6 @@ generated_at: "2026-03-30T00:34:36.204Z"
   - **(1)** The tax imposed by subsection (a) shall apply to—
     - **(A)** transportation beginning during the period—
       - **(i)** beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
-      - **(ii)** ending on December 31, 2023 , and
+      - **(ii)** ending on March 8, 2024 , and
     - **(B)** amounts paid during such period for transportation beginning after such period.
   - **(2)** If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.

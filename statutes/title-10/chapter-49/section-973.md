@@ -3,9 +3,9 @@ title: "Section 973 - Duties: officers on active duty; performance of civil func
 usc_title: 10
 usc_section: "973"
 chapter: 49
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 973"
-generated_at: "2026-03-30T00:33:02.242Z"
+generated_at: "2026-03-30T00:36:30.944Z"
 ---
 
 # § 973. Duties: officers on active duty; performance of civil functions restricted
@@ -14,8 +14,9 @@ generated_at: "2026-03-30T00:33:02.242Z"
 - **(b)**
   - **(1)** This subsection applies—
     - **(A)** to a regular officer of an armed force on the active-duty list (and a regular officer of the Coast Guard on the active duty promotion list);
-    - **(B)** to a retired regular officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days; and
-    - **(C)** to a reserve officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days.
+    - **(B)** to a retired regular officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days;
+    - **(C)** to a reserve officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days; and
+    - **(D)** to an officer on the Space Force officer list serving on active duty under section 20105(b) of this title or under a call or order to active duty for a period in excess of 270 days.
   - **(2)**
     - **(A)** Except as otherwise authorized by law, an officer to whom this subsection applies may not hold, or exercise the functions of, a civil office in the Government of the United States—
       - **(i)** that is an elective office;

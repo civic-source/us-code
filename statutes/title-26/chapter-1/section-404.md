@@ -3,9 +3,9 @@ title: "Section 404 - Deduction for contributions of an employer to an employees
 usc_title: 26
 usc_section: "404"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "26 U.S.C. § 404"
-generated_at: "2026-03-30T00:34:36.087Z"
+generated_at: "2026-03-30T00:37:37.670Z"
 ---
 
 # § 404. Deduction for contributions of an employer to an employees’ trust or annuity plan and compensation under a deferred-payment plan

@@ -3,9 +3,9 @@ title: "Section 10362 - State applications"
 usc_title: 34
 usc_section: "10362"
 chapter: 101
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "34 U.S.C. § 10362"
-generated_at: "2026-03-30T00:34:49.252Z"
+generated_at: "2026-03-30T00:38:01.707Z"
 ---
 
 # § 10362. State applications

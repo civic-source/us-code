@@ -3,9 +3,9 @@ title: "Section 621 - Subjection of lands in State irrigation district to State 
 usc_title: 43
 usc_section: "621"
 chapter: 13
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "43 U.S.C. § 621"
-generated_at: "2026-03-30T00:35:27.231Z"
+generated_at: "2026-03-30T00:38:15.573Z"
 ---
 
 # § 621. Subjection of lands in State irrigation district to State laws generally

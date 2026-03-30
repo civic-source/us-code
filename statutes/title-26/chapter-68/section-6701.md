@@ -3,9 +3,9 @@ title: "Section 6701 - Penalties for aiding and abetting understatement of tax l
 usc_title: 26
 usc_section: "6701"
 chapter: 68
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "26 U.S.C. § 6701"
-generated_at: "2026-03-30T00:34:36.266Z"
+generated_at: "2026-03-30T00:37:37.839Z"
 ---
 
 # § 6701. Penalties for aiding and abetting understatement of tax liability

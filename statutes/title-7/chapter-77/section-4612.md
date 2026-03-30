@@ -3,9 +3,9 @@ title: "Section 4612 - Termination or suspension"
 usc_title: 7
 usc_section: "4612"
 chapter: 77
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 4612"
-generated_at: "2026-03-30T00:33:09.107Z"
+generated_at: "2026-03-30T00:36:25.771Z"
 ---
 
 # § 4612. Termination or suspension

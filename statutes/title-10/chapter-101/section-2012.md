@@ -3,9 +3,9 @@ title: "Section 2012 - Support and services for eligible organizations and activ
 usc_title: 10
 usc_section: "2012"
 chapter: 101
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2012"
-generated_at: "2026-03-30T00:33:02.280Z"
+generated_at: "2026-03-30T00:36:30.985Z"
 ---
 
 # § 2012. Support and services for eligible organizations and activities outside Department of Defense
@@ -47,9 +47,11 @@ generated_at: "2026-03-30T00:33:02.280Z"
   - **(1)** The Secretary of Defense shall encourage the establishment of advisory councils at regional, State, and local levels, as appropriate, in order to obtain recommendations and guidance concerning assistance under this section from persons who are knowledgeable about regional, State, and local conditions and needs.
   - **(2)** The advisory councils should include officials from relevant military organizations, representatives of appropriate local, State, and Federal agencies, representatives of civic and social service organizations, business representatives, and labor representatives.
   - **(3)** Chapter 10 of title 5 shall not apply to such councils.
-- **(i)** Nothing in this section shall be construed as authorizing—
-  - **(1)** the use of the armed forces for civilian law enforcement purposes or for response to natural or manmade disasters; or
-  - **(2)** the use of Department of Defense personnel or resources for any program, project, or activity that is prohibited by law.
+- **(i)**
+  - **(1)** Nothing in this section shall be construed as authorizing—
+    - **(A)** the use of the armed forces for civilian law enforcement purposes or, except as provided in paragraph (2), for response to natural or manmade disasters; or
+    - **(B)** the use of Department of Defense personnel or resources for any program, project, or activity that is prohibited by law.
+  - **(2)** Funds available to the Secretary of a military department for operation and maintenance for the Innovative Readiness Training program (as established pursuant to this section) may be expended under this section, upon approval by the Secretary concerned, to assist in demolition, clearing of roads, infrastructure improvements, and military construction to restore an area after a natural disaster.
 - **(j)** The Secretary of Defense shall establish a program to improve the oversight and cost accounting of training projects conducted in accordance with this section. The program shall include measures to accomplish the following:
   - **(1)** Ensure that each project that is proposed to be conducted in accordance with this section (regardless of whether additional funding from the Secretary of Defense is sought) is requested in writing, reviewed for full compliance with this section, and approved in advance of initiation by the Secretary of the military department concerned and, in the case of a project that seeks additional funding from the Secretary of Defense, by the Secretary of Defense.
   - **(2)** Ensure that each project that is conducted in accordance with this section is required to provide, within a specified period following completion of the project, an after-action report to the Secretary of Defense.

@@ -3,9 +3,9 @@ title: "Section 2267 - New York Bight study"
 usc_title: 33
 usc_section: "2267"
 chapter: 36
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "33 U.S.C. § 2267"
-generated_at: "2026-03-30T00:34:45.309Z"
+generated_at: "2026-03-30T00:38:05.388Z"
 ---
 
 # § 2267. New York Bight study

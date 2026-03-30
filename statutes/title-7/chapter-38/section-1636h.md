@@ -3,9 +3,9 @@ title: "Section 1636h - Federal preemption"
 usc_title: 7
 usc_section: "1636h"
 chapter: 38
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 1636h"
-generated_at: "2026-03-30T00:33:09.044Z"
+generated_at: "2026-03-30T00:36:25.703Z"
 ---
 
 # § 1636h. Federal preemption

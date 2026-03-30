@@ -3,9 +3,9 @@ title: "Section 14306 - Administrative powers and expenses"
 usc_title: 40
 usc_section: "14306"
 chapter: 143
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "40 U.S.C. § 14306"
-generated_at: "2026-03-30T00:35:11.832Z"
+generated_at: "2026-03-30T00:38:09.074Z"
 ---
 
 # § 14306. Administrative powers and expenses

@@ -3,9 +3,9 @@ title: "Section 3036 - Career flexibility to enhance retention of officers"
 usc_title: 33
 usc_section: "3036"
 chapter: 43
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "33 U.S.C. § 3036"
-generated_at: "2026-03-30T00:34:45.328Z"
+generated_at: "2026-03-30T00:38:05.407Z"
 ---
 
 # § 3036. Career flexibility to enhance retention of officers

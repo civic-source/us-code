@@ -3,9 +3,9 @@ title: "Section 2825 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2825"
 chapter: 34
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 2825"
-generated_at: "2026-03-30T00:35:36.979Z"
+generated_at: "2026-03-30T00:38:35.889Z"
 ---
 
 # §§ 2823 to 2825. Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13, 1981 , 95 Stat. 519

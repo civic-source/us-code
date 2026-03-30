@@ -1,14 +1,14 @@
 ---
-title: "Section 3330d - Appointment of military spouses"
+title: "Section 3330d - Appointment of military and Department of Defense civilian spouses"
 usc_title: 5
 usc_section: "3330d"
 chapter: 33
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 3330d"
-generated_at: "2026-03-30T00:32:45.564Z"
+generated_at: "2026-03-30T00:36:18.956Z"
 ---
 
-# § 3330d. Appointment of military spouses
+# § 3330d. Appointment of military and Department of Defense civilian spouses
 
 - **(a)** In this section:
   - **(1)** The term “active duty”—
@@ -18,16 +18,21 @@ generated_at: "2026-03-30T00:32:45.564Z"
   - **(2)** The term “agency”—
     - **(A)** has the meaning given the term “Executive agency” in section 105 of this title ; and
     - **(B)** does not include the Government Accountability Office.
-  - **(3)** The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
+  - **(3)** The term “remote work” refers to a particular type of telework under which an employee is not expected to report to an officially established agency location on a regular and recurring basis.
+  - **(4)** 1 1 So in original. Two pars. (4) have been enacted. The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
     - **(A)** who is married to a member of the Armed Forces who—
       - **(i)** is retired, released, or discharged from the Armed Forces; and
       - **(ii)** on the date on which the member retires, is released, or is discharged, has a disability rating of 100 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs; or
     - **(B)** who—
       - **(i)** was married to a member of the Armed Forces on the date on which the member dies while on active duty in the Armed Forces; and
       - **(ii)** has not remarried.
+  - **(5)** The term “telework” has the meaning given the term in section 6501.
+  - **(4)** 1 The term “spouse of an employee of the Department of Defense” means an individual who is married to an employee of the Department of Defense who is transferred in the interest of the Government from one official station within the Department to another within the Department (that is outside of normal commuting distance) for permanent duty.
 - **(b)** The head of an agency may appoint noncompetitively—
-  - **(1)** a spouse of a member of the Armed Forces on active duty; or
-  - **(2)** a spouse of a disabled or deceased member of the Armed Forces.
+  - **(1)** a spouse of a member of the Armed Forces on active duty;
+  - **(2)** a spouse of a disabled or deceased member of the Armed Forces; or
+  - **(3)** 2 2 So in original. Two pars. (3) have been enacted. a spouse of a member of the Armed Forces on active duty, or a spouse of a disabled or deceased member of the Armed Forces, to a position in which the spouse will engage in remote work.
+  - **(3)** 2 a spouse of an employee of the Department of Defense.
 - **(c)**
-  - **(1)** An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(3) is not restricted to a geographical area.
+  - **(1)** An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(4) is not restricted to a geographical area.
   - **(2)** A spouse of a disabled or deceased member of the Armed Forces may not receive more than 1 permanent appointment under this section.

@@ -3,9 +3,9 @@ title: "Section 4117 - Administration"
 usc_title: 5
 usc_section: "4117"
 chapter: 41
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 4117"
-generated_at: "2026-03-30T00:32:45.570Z"
+generated_at: "2026-03-30T00:36:18.961Z"
 ---
 
 # § 4117. Administration

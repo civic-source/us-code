@@ -3,9 +3,9 @@ title: "Section 3334 - Officers and staff"
 usc_title: 12
 usc_section: "3334"
 chapter: 34
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "12 U.S.C. § 3334"
-generated_at: "2026-03-30T00:33:22.515Z"
+generated_at: "2026-03-30T00:36:37.574Z"
 ---
 
 # § 3334. Officers and staff

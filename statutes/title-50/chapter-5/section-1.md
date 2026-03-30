@@ -3,9 +3,9 @@ title: "Section 1 - Strategic and Critical Materials Board of Directors"
 usc_title: 50
 usc_section: "1"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-03-30T00:35:44.367Z"
+generated_at: "2026-03-30T00:38:42.470Z"
 ---
 
 # § 98h–1. Strategic and Critical Materials Board of Directors
@@ -21,17 +21,16 @@ generated_at: "2026-03-30T00:35:44.367Z"
   - **(1)** Adopt by-laws that ensure sufficient oversight, governance, and effectiveness of the National Defense Stockpile program.
   - **(2)** Elect or remove Board members.
   - **(3)** Advise the National Defense Stockpile Manager.
-  - **(4)** Establish performance metrics and conduct an annual performance review of the National Defense Stockpile Manager.
-  - **(5)** Set compensation for the National Defense Stockpile Manager.
-  - **(6)** Review and approve the annual budget of the National Defense Stockpile program and conduct appropriate reviews of annual financial statements.
-  - **(7)** Re-allocate budget resources within the annual budget of the National Defense Stockpile program.
-  - **(8)** Review and approve the Annual Materials and Operations Plan required by section 98h–2(a)(2) of this title , including a review of the projected domestic and foreign economic effects of proposed actions to be taken under the Annual Materials and Operations Plan.
-  - **(9)** Complete and submit the annual Board Report, in accordance with section 98h–2(b)(2) of this title .
-  - **(10)** Recommend to the Secretary of Defense—
+  - **(4)** Establish performance metrics and conduct an annual performance review of the management and operations of the National Defense Stockpile program.
+  - **(5)** Review and approve the annual budget of the National Defense Stockpile program and conduct appropriate reviews of annual financial statements.
+  - **(6)** Re-allocate budget resources within the annual budget of the National Defense Stockpile program.
+  - **(7)** Review and approve the Annual Materials and Operations Plan required by section 98h–2(a) of this title . The report required by section 98h–2(b)(2) of this title shall include the views and recommendations of the Board on the projected domestic and foreign economic effects of all acquisition of materials for and disposals of materials from the stockpile.
+  - **(8)** Complete and submit the annual Board Report, in accordance with section 98h–2(b)(2) of this title .
+  - **(9)** Recommend to the Secretary of Defense—
     - **(A)** a strategy to ensure a secure supply of materials designated as critical to national security; and
     - **(B)** such other strategies as the Board considers appropriate to strengthen the industrial base with respect to materials critical to national security.
 - **(d)** The Board shall meet as determined necessary by the chairman but not less frequently than once every year to fulfill the duties described in subsection (c).
-- **(e)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Board.
+- **(e)** Section 1013(a) of title 5 shall not apply to the Board.
 - **(f)** In this section:
   - **(1)** The term “materials critical to national security” means materials—
     - **(A)** upon which the production or sustainment of military equipment is dependent; and

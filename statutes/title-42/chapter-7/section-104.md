@@ -3,9 +3,9 @@ title: "Section 104 - Beneficiary protections for qualified prescription drug co
 usc_title: 42
 usc_section: "104"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 104"
-generated_at: "2026-03-30T00:35:36.804Z"
+generated_at: "2026-03-30T00:38:35.710Z"
 ---
 
 # § 1395w–104. Beneficiary protections for qualified prescription drug coverage

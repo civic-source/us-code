@@ -3,9 +3,9 @@ title: "Section 290n - Appointment of members of Border Health Commission"
 usc_title: 22
 usc_section: "290n"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 290n"
-generated_at: "2026-03-30T00:33:49.717Z"
+generated_at: "2026-03-30T00:37:11.232Z"
 ---
 
 # § 290n. Appointment of members of Border Health Commission

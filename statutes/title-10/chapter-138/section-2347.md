@@ -3,9 +3,9 @@ title: "Section 2347 - Limitation on amounts that may be obligated or accrued by
 usc_title: 10
 usc_section: "2347"
 chapter: 138
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2347"
-generated_at: "2026-03-30T00:33:02.291Z"
+generated_at: "2026-03-30T00:36:30.999Z"
 ---
 
 # § 2347. Limitation on amounts that may be obligated or accrued by the United States

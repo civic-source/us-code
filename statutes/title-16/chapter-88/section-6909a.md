@@ -3,9 +3,9 @@ title: "Section 6909a - United States conservation, management, and enforcement 
 usc_title: 16
 usc_section: "6909a"
 chapter: 88
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 6909a"
-generated_at: "2026-03-30T00:33:33.113Z"
+generated_at: "2026-03-30T00:37:02.388Z"
 ---
 
 # § 6909a. United States conservation, management, and enforcement objectives

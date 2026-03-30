@@ -3,9 +3,9 @@ title: "Section 9858i - Reports and audits"
 usc_title: 42
 usc_section: "9858i"
 chapter: 105
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 9858i"
-generated_at: "2026-03-30T00:35:37.179Z"
+generated_at: "2026-03-30T00:38:36.094Z"
 ---
 
 # § 9858i. Reports and audits

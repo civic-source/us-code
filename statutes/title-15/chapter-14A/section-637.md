@@ -3,9 +3,9 @@ title: "Section 637 - Additional powers"
 usc_title: 15
 usc_section: "637"
 chapter: 14
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 637"
-generated_at: "2026-03-30T00:33:17.922Z"
+generated_at: "2026-03-30T00:36:40.579Z"
 ---
 
 # § 637. Additional powers
@@ -294,11 +294,16 @@ generated_at: "2026-03-30T00:33:17.922Z"
   - **(13)**
     - **(A)** In this paragraph, the term “covered contract” means a contract relating to which a prime contractor is required to develop a subcontracting plan under paragraph (4) or (5).
     - **(B)**
-      - **(i)** A prime contractor for a covered contract shall notify in writing the contracting officer for the covered contract if the prime contractor pays a reduced price to a subcontractor for goods and services upon completion of the responsibilities of the subcontractor or the payment to a subcontractor is more than 90 days past due for goods or services provided for the covered contract for which the Federal agency has paid the prime contractor.
+      - **(i)** A prime contractor for a covered contract shall notify in writing the contracting officer for the covered contract if the prime contractor pays a reduced price to a subcontractor for goods and services upon completion of the responsibilities of the subcontractor or the payment to a subcontractor is more than 30 days past due for goods or services provided for the covered contract for which the Federal agency has paid the prime contractor.
       - **(ii)** A prime contractor shall include the reason for the reduction in a payment to or failure to pay a subcontractor in any notice made under clause (i).
-    - **(C)** A contracting officer for a covered contract shall consider the unjustified failure by a prime contractor to make a full or timely payment to a subcontractor in evaluating the performance of the prime contractor.
-    - **(D)** If the contracting officer for a covered contract determines that a prime contractor has a history of unjustified, untimely payments to contractors, the contracting officer shall record the identity of the contractor in accordance with the regulations promulgated under subparagraph (E).
-    - **(E)** Not later than 1 year after September 27, 2010 , the Federal Acquisition Regulatory Council established under section 1302(a) of title 41 shall amend the Federal Acquisition Regulation issued under section 1303(a) of title 41 to—
+    - **(C)** A contracting officer for a covered contract—
+      - **(i)** shall consider the unjustified failure by a prime contractor to make a full or timely payment to a subcontractor in evaluating the performance of the prime contractor; and
+      - **(ii)** may enter or modify past performance information of the prime contractor in connection with the unjustified failure to make a full or timely payment to a subcontractor subject to this paragraph before or after close-out of the covered contract.
+    - **(D)** If the contracting officer for a covered contract determines that a prime contractor has a history of unjustified, untimely payments to contractors, the contracting officer shall record the identity of the contractor in accordance with the regulations promulgated under subparagraph (F).
+    - **(E)**
+      - **(i)** Once a contracting officer determines, with respect to the past performance of a prime contractor, that there was an unjustified failure by the prime contractor on a covered contract to make a full or timely payment to a subcontractor covered by subparagraph (B) or (C), the prime contractor is required to cooperate with the contracting officer, who shall consult with the Director of Small Business Programs or the Director of Small and Disadvantaged Business Utilization acting pursuant to section 644(k)(6) of this title and other representatives of the Government, regarding correcting and mitigating the unjustified failure to make a full or timely payment to a subcontractor.
+      - **(ii)** The duty of cooperation under this subparagraph for a prime contractor described in clause (i) continues until the subcontractor is made whole or the determination of the contracting officer determination is no longer effective, and regardless of performance or close-out status of the covered contract.
+    - **(F)** Not later than 1 year after September 27, 2010 , the Federal Acquisition Regulatory Council established under section 1302(a) of title 41 shall amend the Federal Acquisition Regulation issued under section 1303(a) of title 41 to—
       - **(i)** describe the circumstances under which a contractor may be determined to have a history of unjustified, untimely payments to subcontractors;
       - **(ii)** establish a process for contracting officers to record the identity of a contractor described in clause (i); and
       - **(iii)** require the identity of a contractor described in clause (i) to be incorporated in, and made publicly available through, the Federal Awardee Performance and Integrity Information System, or any successor thereto.

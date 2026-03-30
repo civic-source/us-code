@@ -3,9 +3,9 @@ title: "Section 5334 - Rate on change of position or type of appointment; regula
 usc_title: 5
 usc_section: "5334"
 chapter: 53
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 5334"
-generated_at: "2026-03-30T00:32:45.578Z"
+generated_at: "2026-03-30T00:36:18.965Z"
 ---
 
 # § 5334. Rate on change of position or type of appointment; regulations

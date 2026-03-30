@@ -3,9 +3,9 @@ title: "Section 2779 - Transportation to and from certain places of employment"
 usc_title: 14
 usc_section: "2779"
 chapter: 27
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "14 U.S.C. § 2779"
-generated_at: "2026-03-30T00:33:11.691Z"
+generated_at: "2026-03-30T00:36:34.038Z"
 ---
 
 # § 2779. Transportation to and from certain places of employment

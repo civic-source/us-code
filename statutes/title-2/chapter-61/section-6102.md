@@ -3,9 +3,9 @@ title: "Section 6102 - Expense allowance of Majority and Minority Leaders of Sen
 usc_title: 2
 usc_section: "6102"
 chapter: 61
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "2 U.S.C. § 6102"
-generated_at: "2026-03-30T00:32:43.045Z"
+generated_at: "2026-03-30T00:36:16.979Z"
 ---
 
 # § 6102. Expense allowance of Majority and Minority Leaders of Senate; expense allowance of Majority and Minority Whips; methods of payment; taxability

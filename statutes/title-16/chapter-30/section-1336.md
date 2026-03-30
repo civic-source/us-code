@@ -3,9 +3,9 @@ title: "Section 1336 - Cooperative agreements; regulations"
 usc_title: 16
 usc_section: "1336"
 chapter: 30
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 1336"
-generated_at: "2026-03-30T00:33:33.030Z"
+generated_at: "2026-03-30T00:37:02.302Z"
 ---
 
 # § 1336. Cooperative agreements; regulations

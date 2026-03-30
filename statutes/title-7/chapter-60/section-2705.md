@@ -3,9 +3,9 @@ title: "Section 2705 - Findings and issuance of orders"
 usc_title: 7
 usc_section: "2705"
 chapter: 60
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 2705"
-generated_at: "2026-03-30T00:33:09.090Z"
+generated_at: "2026-03-30T00:36:25.753Z"
 ---
 
 # § 2705. Findings and issuance of orders

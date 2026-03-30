@@ -3,9 +3,9 @@ title: "Section 3122 - Application for an order for a pen register or a trap and
 usc_title: 18
 usc_section: "3122"
 chapter: 206
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 3122"
-generated_at: "2026-03-30T00:33:26.803Z"
+generated_at: "2026-03-30T00:36:51.574Z"
 ---
 
 # § 3122. Application for an order for a pen register or a trap and trace device

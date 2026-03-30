@@ -3,9 +3,9 @@ title: "Section 2514 - Expansion of the coverage of the Agreement"
 usc_title: 19
 usc_section: "2514"
 chapter: 13
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "19 U.S.C. § 2514"
-generated_at: "2026-03-30T00:33:36.097Z"
+generated_at: "2026-03-30T00:36:50.281Z"
 ---
 
 # § 2514. Expansion of the coverage of the Agreement

@@ -3,9 +3,9 @@ title: "Section 47f - Definitions"
 usc_title: 50
 usc_section: "47f"
 chapter: 4
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 47f"
-generated_at: "2026-03-30T00:35:44.367Z"
+generated_at: "2026-03-30T00:38:42.469Z"
 ---
 
 # § 47f. Definitions

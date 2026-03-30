@@ -3,9 +3,9 @@ title: "Section 954 - False statements influencing foreign government"
 usc_title: 18
 usc_section: "954"
 chapter: 45
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 954"
-generated_at: "2026-03-30T00:33:26.774Z"
+generated_at: "2026-03-30T00:36:51.543Z"
 ---
 
 # § 954. False statements influencing foreign government

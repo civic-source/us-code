@@ -3,9 +3,9 @@ title: "Section 3073a - Requirements for certain employment activities by former
 usc_title: 50
 usc_section: "3073a"
 chapter: 44
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3073a"
-generated_at: "2026-03-30T00:35:44.407Z"
+generated_at: "2026-03-30T00:38:42.517Z"
 ---
 
 # § 3073a. Requirements for certain employment activities by former intelligence officers and employees
@@ -45,11 +45,11 @@ generated_at: "2026-03-30T00:35:44.407Z"
   - **(1)** A former employee who knowingly and willfully violates subsection (a) or who knowingly and willfully fails to make a required report under subsection (b) shall be fined under title 18 or imprisoned for not more than 5 years, or both. Each report under subsection (b) shall be subject to section 1001 of title 18 .
   - **(2)** The head of an element of the intelligence community shall revoke the security clearance of a former employee if the former employee knowingly and willfully fails to make a required report under subsection (b) or knowingly and willfully makes a false report under such subsection.
 - **(d)**
-  - **(1)** The head of each element of the intelligence community shall regularly provide training on the reporting requirements under subsection (b) to employees of that element who occupy a covered intelligence position.
-  - **(2)** The head of each element of the intelligence community shall provide written notice of the reporting requirements under subsection (b) to an employee when the employee ceases to occupy a covered intelligence position.
+  - **(1)** The head of each element of the intelligence community shall regularly provide training on the restrictions under subsection (a) and the reporting requirements under subsection (b) to employees of that element who occupy a covered intelligence position.
+  - **(2)** The head of each element of the intelligence community shall provide written notice of the reporting requirements under subsection (b) to an employee when the employee occupies a covered intelligence position.
   - **(3)** The head of each element of the intelligence community shall provide written notice of the restrictions under subsection (a) to any person who may be subject to such restrictions on or after December 23, 2022 —
     - **(A)** when the head of the element determines that such person may become subject to such covered intelligence position restrictions; and
-    - **(B)** before the person ceases to occupy a covered intelligence position.
+    - **(B)** when the person occupies a covered intelligence position.
 - **(e)**
   - **(1)** Not later than March 31 of each year, the Director of National Intelligence shall submit to the congressional intelligence committees a report on covered post-service employment occurring during the year covered by the report.
   - **(2)** Each report under paragraph (1) shall include the following:

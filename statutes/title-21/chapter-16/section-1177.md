@@ -3,9 +3,9 @@ title: "Section 1177 - Special project grants and contracts"
 usc_title: 21
 usc_section: "1177"
 chapter: 16
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "21 U.S.C. § 1177"
-generated_at: "2026-03-30T00:34:04.381Z"
+generated_at: "2026-03-30T00:37:07.533Z"
 ---
 
 # § 1177. Special project grants and contracts

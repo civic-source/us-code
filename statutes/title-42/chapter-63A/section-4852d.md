@@ -3,9 +3,9 @@ title: "Section 4852d - Disclosure of information concerning lead upon transfer 
 usc_title: 42
 usc_section: "4852d"
 chapter: 63
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 4852d"
-generated_at: "2026-03-30T00:35:37.021Z"
+generated_at: "2026-03-30T00:38:35.932Z"
 ---
 
 # § 4852d. Disclosure of information concerning lead upon transfer of residential property

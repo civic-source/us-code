@@ -3,9 +3,9 @@ title: "Section 10b - National Advisory Committee on Children and Disasters"
 usc_title: 42
 usc_section: "10b"
 chapter: 6
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 10b"
-generated_at: "2026-03-30T00:35:36.669Z"
+generated_at: "2026-03-30T00:38:35.576Z"
 ---
 
 # § 300hh–10b. National Advisory Committee on Children and Disasters

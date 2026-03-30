@@ -3,9 +3,9 @@ title: "Section 4552 - Definitions"
 usc_title: 50
 usc_section: "4552"
 chapter: 55
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 4552"
-generated_at: "2026-03-30T00:35:44.445Z"
+generated_at: "2026-03-30T00:38:42.559Z"
 ---
 
 # § 4552. Definitions
@@ -20,9 +20,17 @@ For purposes of this chapter, the following definitions shall apply:
     - **(A)** to furnish materials, industrial resources, or a critical technology for the national defense; or
     - **(B)** to perform services for the national defense.
   - **(6)** The term “domestic industrial base” means domestic sources which are providing, or which would be reasonably expected to provide, materials or services to meet national defense requirements during peacetime, national emergency, or war.
-  - **(7)** The term “domestic source” means a business concern—
-    - **(A)** that performs in the United States or Canada substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item; and
-    - **(B)** that procures from business concerns described in subparagraph (A) substantially all of any components and assemblies required under a contract with the United States relating to a critical component or critical technology item.
+  - **(7)**
+    - **(A)** Except as provided in subparagraph (B), the term “domestic source” means a business concern—
+      - **(i)** that performs in the United States or Canada substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item; and
+      - **(ii)** that procures from business concerns described in clause (i) substantially all of any components and assemblies required under a contract with the United States relating to a critical component or critical technology item.
+    - **(B)**
+      - **(i)** For purposes of subchapter II, the term “domestic source” means a business concern that—
+        - **(I)** performs substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item in—
+        - **(II)** procures from business concerns described in subclause (I) substantially all of any components or assemblies required under a contract with the United States relating to a critical component or critical technology item.
+      - **(ii)**
+        - **(I)** A business concern described in clause (i)(I)(bb) may be treated as a domestic source only for purposes of the exercise of authorities under subchapter II relating to national defense matters that cannot be fully addressed with business concerns described in clause (i)(I)(aa).
+        - **(II)** For purposes of subclause (I), the term “national defense matter” is a matter relating to the development or production of—
   - **(8)** The term “facilities” includes all types of buildings, structures, or other improvements to real property (but excluding farms, churches or other places of worship, and private dwelling houses), and services relating to the use of any such building, structure, or other improvement.
   - **(9)** The term “foreign source” means a business entity other than a “domestic source”.
   - **(10)** The term “guaranteeing agency” means a department or agency of the United States engaged in procurement for the national defense.

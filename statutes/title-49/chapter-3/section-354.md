@@ -3,9 +3,9 @@ title: "Section 354 - Investigative authority of Inspector General"
 usc_title: 49
 usc_section: "354"
 chapter: 3
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "49 U.S.C. § 354"
-generated_at: "2026-03-30T00:36:00.135Z"
+generated_at: "2026-03-30T00:38:45.292Z"
 ---
 
 # § 354. Investigative authority of Inspector General

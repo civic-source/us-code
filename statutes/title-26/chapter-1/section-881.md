@@ -3,9 +3,9 @@ title: "Section 881 - Tax on income of foreign corporations not connected with U
 usc_title: 26
 usc_section: "881"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "26 U.S.C. § 881"
-generated_at: "2026-03-30T00:34:36.145Z"
+generated_at: "2026-03-30T00:37:37.728Z"
 ---
 
 # § 881. Tax on income of foreign corporations not connected with United States business

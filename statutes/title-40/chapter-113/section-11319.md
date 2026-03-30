@@ -3,9 +3,9 @@ title: "Section 11319 - Resources, planning, and portfolio management"
 usc_title: 40
 usc_section: "11319"
 chapter: 113
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "40 U.S.C. § 11319"
-generated_at: "2026-03-30T00:35:11.831Z"
+generated_at: "2026-03-30T00:38:09.073Z"
 ---
 
 # § 11319. Resources, planning, and portfolio management
@@ -46,7 +46,7 @@ generated_at: "2026-03-30T00:35:11.831Z"
     - **(H)** to carry out any other goals that the Director may establish.
   - **(2)** The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall develop standardized cost savings and cost avoidance metrics and performance indicators for use by agencies for the process implemented under paragraph (1).
   - **(3)** The Chief Information Officer of each covered agency, in conjunction with the Chief Operating Officer or Deputy Secretary (or equivalent) of the covered agency and the Administrator of the Office of Electronic Government, shall conduct an annual review of the information technology portfolio of the covered agency.
-  - **(4)** In the case of the Department of Defense, processes established pursuant to this subsection shall apply only to the business systems information technology portfolio of the Department of Defense and not to national security systems as defined by section 11103(a) of this title . The annual review required by paragraph (3) shall be carried out by the Chief Management Officer of the Department of Defense (or any successor to such Officer), in consultation with the Chief Information Officer, the Under Secretary of Defense for Acquisition and Sustainment, and other appropriate Department of Defense officials. The Secretary of Defense may designate an existing investment or management review process to fulfill the requirement for the annual review required by paragraph (3), in consultation with the Administrator of the Office of Electronic Government.
+  - **(4)** In the case of the Department of Defense, processes established pursuant to this subsection shall apply only to the business systems information technology portfolio of the Department of Defense and not to national security systems as defined by section 11103(a) of this title . The annual review required by paragraph (3) shall be carried out by the Chief Information Officer of the Department of Defense, in consultation with the Under Secretary of Defense for Acquisition and Sustainment and other appropriate Department of Defense officials. The Secretary of Defense may designate an existing investment or management review process to fulfill the requirement for the annual review required by paragraph (3), in consultation with the Administrator of the Office of Electronic Government.
   - **(5)**
     - **(A)** The Administrator of the Office of Electronic Government shall submit a quarterly report on the cost savings and reductions in duplicative information technology investments identified through the review required by paragraph (3) to—
       - **(i)** the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate;

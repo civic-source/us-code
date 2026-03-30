@@ -3,9 +3,9 @@ title: "Section 4022 - Authority of the Department of Defense to carry out certa
 usc_title: 10
 usc_section: "4022"
 chapter: 301
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 4022"
-generated_at: "2026-03-30T00:33:02.326Z"
+generated_at: "2026-03-30T00:36:31.037Z"
 ---
 
 # § 4022. Authority of the Department of Defense to carry out certain prototype projects
@@ -23,7 +23,7 @@ generated_at: "2026-03-30T00:33:02.326Z"
       - **(ii)** the congressional defense committees are notified in writing at least 30 days before such authority is exercised; and
     - **(C)** may be exercised for a transaction for a follow-on production contract or transaction that is awarded pursuant to subsection (f) and expected to cost the Department of Defense in excess of $100,000,000 (including all options) only if a covered official—
       - **(i)** determines in writing that—
-        - **(I)** the requirements of subsection (d) will be met; and
+        - **(I)** the requirements of subsection (d) were met for the prior transaction for the prototype project that provided for the award of the follow-on production contract or transaction, and the requirements of subsection (f) will be met; and
         - **(II)** the use of the authority of this section is essential to meet critical national security objectives; and
       - **(ii)** notifies the congressional defense committees in writing of the determinations required under clause (i) at the time such authority is exercised.
   - **(3)** The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretaries of Defense under paragraph (2)(B), may not be delegated.
@@ -49,6 +49,7 @@ generated_at: "2026-03-30T00:33:02.326Z"
     - **(B)** Costs that were incurred for a prototype project by a party after the beginning of negotiations resulting in a transaction (other than a contract, grant, or cooperative agreement) with respect to the project before the date on which the transaction becomes effective may be counted for purposes of this subsection as being provided, or to be provided, by the party to the transaction if and to the extent that the official responsible for entering into the transaction determines in writing that—
       - **(i)** the party incurred the costs in anticipation of entering into the transaction; and
       - **(ii)** it was appropriate for the party to incur the costs before the transaction became effective in order to ensure the successful implementation of the transaction.
+  - **(3)** The requirements of this subsection do not apply to follow-on production contracts or transactions under subsection (f).
 - **(e)** In this section:
   - **(1)** The term “covered official” means—
     - **(A)** a service acquisition executive;
@@ -79,8 +80,11 @@ generated_at: "2026-03-30T00:33:02.326Z"
 - **(i)**
   - **(1)** The Secretary of Defense or the Secretary of a military department may establish a pilot program under which the Secretary may, under the authority of this section, carry out prototype projects that are directly relevant to enhancing the ability of the Department of Defense to prototype the design, development, or demonstration of new construction techniques or technologies to improve military installations or facilities (as such terms are defined in section 2801 of this title ).
   - **(2)** In carrying out prototype projects under the pilot program established under paragraph (1)—
-    - **(A)** not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and
-    - **(B)** the aggregate value of all transactions entered into under such pilot program may not exceed $200,000,000.
-  - **(3)**
+    - **(A)** except for projects carried out for the purpose of repairing a facility, not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and
+    - **(B)** the aggregate value of all transactions entered into under such pilot program may not exceed $300,000,000.
+  - **(3)** The Secretary of Defense or the Secretary of a military department may carry out prototype projects under the pilot program established under paragraph (1) using amounts available to the Secretary of Defense or the Secretary of a military department (as applicable) for military construction, operation and maintenance, or research, development, test, and evaluation, notwithstanding—
+    - **(A)** subchapters I and III of chapter 169 of this title; and
+    - **(B)** chapters 221 and 223 of this title.
+  - **(4)**
     - **(A)** Except as provided in subparagraph (B), the authority to carry out prototype projects under the pilot program established under paragraph (1) shall terminate on September 30, 2025 .
     - **(B)** Subparagraph (A) shall not apply with respect to prototype projects being carried out under the pilot program established under paragraph (1) on the date described in subparagraph (A).

@@ -3,9 +3,9 @@ title: "Section 1101a - Definitions; eligibility"
 usc_title: 20
 usc_section: "1101a"
 chapter: 28
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 1101a"
-generated_at: "2026-03-30T00:33:29.977Z"
+generated_at: "2026-03-30T00:36:53.660Z"
 ---
 
 # § 1101a. Definitions; eligibility

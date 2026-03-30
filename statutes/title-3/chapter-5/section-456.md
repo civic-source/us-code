@@ -3,9 +3,9 @@ title: "Section 456 - Confidentiality"
 usc_title: 3
 usc_section: "456"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "3 U.S.C. § 456"
-generated_at: "2026-03-30T00:32:40.584Z"
+generated_at: "2026-03-30T00:36:15.904Z"
 ---
 
 # § 456. Confidentiality

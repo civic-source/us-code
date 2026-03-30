@@ -3,9 +3,9 @@ title: "Section 727 - Monitoring and review"
 usc_title: 29
 usc_section: "727"
 chapter: 16
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "29 U.S.C. § 727"
-generated_at: "2026-03-30T00:34:11.665Z"
+generated_at: "2026-03-30T00:37:38.883Z"
 ---
 
 # § 727. Monitoring and review

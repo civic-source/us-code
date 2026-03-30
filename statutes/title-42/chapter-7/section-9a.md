@@ -3,9 +3,9 @@ title: "Section 9a - Child health quality measures"
 usc_title: 42
 usc_section: "9a"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 9a"
-generated_at: "2026-03-30T00:35:36.741Z"
+generated_at: "2026-03-30T00:38:35.646Z"
 ---
 
 # § 1320b–9a. Child health quality measures

@@ -3,9 +3,9 @@ title: "Section 9012 - Base acres"
 usc_title: 7
 usc_section: "9012"
 chapter: 115
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 9012"
-generated_at: "2026-03-30T00:33:09.165Z"
+generated_at: "2026-03-30T00:36:25.835Z"
 ---
 
 # § 9012. Base acres

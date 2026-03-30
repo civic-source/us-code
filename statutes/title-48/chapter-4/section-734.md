@@ -3,9 +3,9 @@ title: "Section 734 - United States laws extended to Puerto Rico; internal reven
 usc_title: 48
 usc_section: "734"
 chapter: 4
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "48 U.S.C. § 734"
-generated_at: "2026-03-30T00:35:41.128Z"
+generated_at: "2026-03-30T00:38:39.288Z"
 ---
 
 # § 734. United States laws extended to Puerto Rico; internal revenue receipts covered into treasury

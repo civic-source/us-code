@@ -3,9 +3,9 @@ title: "Section 1946 - Dividends to pay premiums"
 usc_title: 38
 usc_section: "1946"
 chapter: 19
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 1946"
-generated_at: "2026-03-30T00:35:01.632Z"
+generated_at: "2026-03-30T00:38:11.744Z"
 ---
 
 # § 1946. Dividends to pay premiums

@@ -3,12 +3,12 @@ title: "Section 504 - Persons not qualified"
 usc_title: 10
 usc_section: "504"
 chapter: 31
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 504"
-generated_at: "2026-03-30T00:33:02.219Z"
+generated_at: "2026-03-30T00:36:30.920Z"
 ---
 
-# § 504. Persons not qualified
+# § 504. 1 1 Another section 504 is set out in chapter 25 of this title. Persons not qualified
 
 - **(a)** No person who is insane, intoxicated, or a deserter from an armed force, or who has been convicted of a felony, may be enlisted in any armed force. However, the Secretary concerned may authorize exceptions, in meritorious cases, for the enlistment of deserters and persons convicted of felonies.
 - **(b)**

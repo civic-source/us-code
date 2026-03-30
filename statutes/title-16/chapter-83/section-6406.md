@@ -3,9 +3,9 @@ title: "Section 6406 - Block grants"
 usc_title: 16
 usc_section: "6406"
 chapter: 83
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 6406"
-generated_at: "2026-03-30T00:33:33.103Z"
+generated_at: "2026-03-30T00:37:02.378Z"
 ---
 
 # § 6406. Block grants

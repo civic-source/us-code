@@ -3,9 +3,9 @@ title: "Section 5602 - Penalty for tax fraud by distiller"
 usc_title: 26
 usc_section: "5602"
 chapter: 51
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "26 U.S.C. § 5602"
-generated_at: "2026-03-30T00:34:36.229Z"
+generated_at: "2026-03-30T00:37:37.803Z"
 ---
 
 # § 5602. Penalty for tax fraud by distiller

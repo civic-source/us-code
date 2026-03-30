@@ -3,9 +3,9 @@ title: "Section 13105 - Filing of reports"
 usc_title: 5
 usc_section: "13105"
 chapter: 131
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 13105"
-generated_at: "2026-03-30T00:32:45.656Z"
+generated_at: "2026-03-30T00:36:19.015Z"
 ---
 
 # § 13105. Filing of reports

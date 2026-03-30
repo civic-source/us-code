@@ -3,9 +3,9 @@ title: "Section 7545 - Administrative provisions"
 usc_title: 20
 usc_section: "7545"
 chapter: 70
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 7545"
-generated_at: "2026-03-30T00:33:30.049Z"
+generated_at: "2026-03-30T00:36:53.731Z"
 ---
 
 # § 7545. Administrative provisions

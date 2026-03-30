@@ -3,9 +3,9 @@ title: "Section 499n - Inspection of perishable agricultural commodities"
 usc_title: 7
 usc_section: "499n"
 chapter: 20
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 499n"
-generated_at: "2026-03-30T00:33:09.007Z"
+generated_at: "2026-03-30T00:36:25.662Z"
 ---
 
 # § 499n. Inspection of perishable agricultural commodities

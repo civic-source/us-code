@@ -3,9 +3,9 @@ title: "Section 1206 - Members on active duty for 30 days or less or on inactive
 usc_title: 10
 usc_section: "1206"
 chapter: 61
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1206"
-generated_at: "2026-03-30T00:33:02.260Z"
+generated_at: "2026-03-30T00:36:30.964Z"
 ---
 
 # § 1206. Members on active duty for 30 days or less or on inactive-duty training: separation

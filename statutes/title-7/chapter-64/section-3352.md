@@ -3,9 +3,9 @@ title: "Section 3352 - Agriculture research facility expansion and security upgr
 usc_title: 7
 usc_section: "3352"
 chapter: 64
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 3352"
-generated_at: "2026-03-30T00:33:09.100Z"
+generated_at: "2026-03-30T00:36:25.764Z"
 ---
 
 # § 3352. Agriculture research facility expansion and security upgrades

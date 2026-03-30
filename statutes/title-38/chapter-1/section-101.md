@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 38
 usc_section: "101"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 101"
-generated_at: "2026-03-30T00:35:01.609Z"
+generated_at: "2026-03-30T00:38:11.720Z"
 ---
 
 # § 101. Definitions
@@ -58,8 +58,8 @@ For the purposes of this title—
     - **(D)** duty performed by a member of a Senior Reserve Officers’ Training Corps program when ordered to such duty for the purpose of training or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned; and
     - **(E)** authorized travel to or from such duty.
   - **(23)** The term “inactive duty training” means—
-    - **(A)** duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service) by the Secretary concerned under section 206 of title 37 or any other provision of law;
-    - **(B)** special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
+    - **(A)** duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10 ), by the Secretary concerned under section 206 of title 37 or any other provision of law;
+    - **(B)** special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10 ), by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
     - **(C)** training (other than active duty for training) by a member of, or applicant for membership (as defined in section 8140(g) of title 5 ) in, the Senior Reserve Officers’ Training Corps prescribed under chapter 103 of title 10.
   - **(24)** The term “active military, naval, air, or space service” includes—
     - **(A)** active duty;
@@ -80,10 +80,9 @@ For the purposes of this title—
     - **(B)** the Navy Reserve;
     - **(C)** the Marine Corps Reserve;
     - **(D)** the Air Force Reserve;
-    - **(E)** the Space Force Reserve;
-    - **(F)** the Coast Guard Reserve;
-    - **(G)** the Army National Guard of the United States; and
-    - **(H)** the Air National Guard of the United States.
+    - **(E)** the Coast Guard Reserve;
+    - **(F)** the Army National Guard of the United States; and
+    - **(G)** the Air National Guard of the United States.
   - **(28)** The term “nursing home care” means the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care, but who require nursing care and related medical services, if such nursing care and medical services are prescribed by, or are performed under the general direction of, persons duly licensed to provide such care. Such term includes services furnished in skilled nursing care facilities, in intermediate care facilities, and in combined facilities. It does not include domiciliary care.
   - **(29)** The term “Vietnam era” means the following:
     - **(A)** The period beginning on November 1, 1955 , and ending on May 7, 1975 , in the case of a veteran who served in the Republic of Vietnam during that period.

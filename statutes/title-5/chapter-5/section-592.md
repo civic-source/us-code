@@ -3,9 +3,9 @@ title: "Section 592 - Definitions"
 usc_title: 5
 usc_section: "592"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 592"
-generated_at: "2026-03-30T00:32:45.549Z"
+generated_at: "2026-03-30T00:36:18.945Z"
 ---
 
 # § 592. Definitions

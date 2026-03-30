@@ -3,9 +3,9 @@ title: "Section 9707 - The national public service multimedia campaign to enhanc
 usc_title: 20
 usc_section: "9707"
 chapter: 77
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 9707"
-generated_at: "2026-03-30T00:33:30.066Z"
+generated_at: "2026-03-30T00:36:53.747Z"
 ---
 
 # § 9707. The national public service multimedia campaign to enhance the state of financial literacy

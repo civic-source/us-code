@@ -3,9 +3,9 @@ title: "Section 906 - Effective date and publication of reorganization plans"
 usc_title: 5
 usc_section: "906"
 chapter: 9
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 906"
-generated_at: "2026-03-30T00:32:45.551Z"
+generated_at: "2026-03-30T00:36:18.948Z"
 ---
 
 # § 906. Effective date and publication of reorganization plans

@@ -3,9 +3,9 @@ title: "Section 2165 - National Defense University: component institutions"
 usc_title: 10
 usc_section: "2165"
 chapter: 108
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2165"
-generated_at: "2026-03-30T00:33:02.284Z"
+generated_at: "2026-03-30T00:36:30.991Z"
 ---
 
 # § 2165. National Defense University: component institutions
@@ -17,7 +17,8 @@ generated_at: "2026-03-30T00:33:02.284Z"
   - **(3)** The Joint Forces Staff College.
   - **(4)** The Institute for National Strategic Studies.
   - **(5)** The College of Information and Cyberspace.
-  - **(6)** Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
+  - **(6)** The College of International Security Affairs.
+  - **(7)** Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
 - **[(c)** Repealed. Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B) , Oct. 17, 2006 , 120 Stat. 2353 .]
 - **(d)** Funding for the professional development education operations of the National Defense University shall be provided from funds made available to the Secretary of Defense from the annual appropriation “Operation and Maintenance, Defense-wide”.
 - **(e)**

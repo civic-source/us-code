@@ -3,9 +3,9 @@ title: "Section 133b - Under Secretary of Defense for Acquisition and Sustainmen
 usc_title: 10
 usc_section: "133b"
 chapter: 4
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 133b"
-generated_at: "2026-03-30T00:33:02.201Z"
+generated_at: "2026-03-30T00:36:30.897Z"
 ---
 
 # § 133b. Under Secretary of Defense for Acquisition and Sustainment
@@ -28,5 +28,5 @@ generated_at: "2026-03-30T00:33:02.201Z"
     - **(B)** core logistics capabilities (as described under section 2464 of this title ); and
     - **(C)** the national technology and industrial base (as defined in section 4801 of this title ).
 - **(c)**
-  - **(1)** With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, 1 1 See Transfer of Functions note below. and the Under Secretary of Defense for Research and Engineering.
-  - **(2)** With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer, 1 the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
+  - **(1)** With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Under Secretary of Defense for Research and Engineering.
+  - **(2)** With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.

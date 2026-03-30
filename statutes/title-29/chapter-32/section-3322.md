@@ -3,9 +3,9 @@ title: "Section 3322 - Local application"
 usc_title: 29
 usc_section: "3322"
 chapter: 32
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "29 U.S.C. § 3322"
-generated_at: "2026-03-30T00:34:11.727Z"
+generated_at: "2026-03-30T00:37:38.955Z"
 ---
 
 # § 3322. Local application

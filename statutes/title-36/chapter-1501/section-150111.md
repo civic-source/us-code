@@ -3,9 +3,9 @@ title: "Section 150111 - Service of process"
 usc_title: 36
 usc_section: "150111"
 chapter: 1501
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "36 U.S.C. § 150111"
-generated_at: "2026-03-30T00:35:11.410Z"
+generated_at: "2026-03-30T00:38:10.140Z"
 ---
 
 # § 150111. Service of process

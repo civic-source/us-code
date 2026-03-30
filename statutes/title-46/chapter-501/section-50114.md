@@ -3,9 +3,9 @@ title: "Section 50114 - National maritime strategy"
 usc_title: 46
 usc_section: "50114"
 chapter: 501
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "46 U.S.C. § 50114"
-generated_at: "2026-03-30T00:35:42.055Z"
+generated_at: "2026-03-30T00:38:41.127Z"
 ---
 
 # § 50114. National maritime strategy

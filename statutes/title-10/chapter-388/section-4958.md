@@ -3,9 +3,9 @@ title: "Section 4958 - Authority to provide certain types of technical assistanc
 usc_title: 10
 usc_section: "4958"
 chapter: 388
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 4958"
-generated_at: "2026-03-30T00:33:02.339Z"
+generated_at: "2026-03-30T00:36:31.050Z"
 ---
 
 # § 4958. Authority to provide certain types of technical assistance
@@ -13,5 +13,7 @@ generated_at: "2026-03-30T00:33:02.339Z"
 - **(a)** The procurement technical assistance furnished by eligible entities assisted by the Department of Defense under this chapter may include technical assistance relating to contracts entered into with (1) Federal departments and agencies other than the Department of Defense, and (2) State and local governments.
 - **(b)** An eligible entity assisted by the Department of Defense under this chapter also may furnish information relating to assistance and other programs available pursuant to the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992.
 - **(c)** An eligible entity assisted by the Department of Defense under this chapter also may furnish education on the requirements applicable to small businesses under the regulations issued—
-  - **(1)** under section 38 of the Arms Export Control Act ( 22 U.S.C. 2778 ), and on compliance with those requirements; and
-  - **(2)** under section 9 of the Small Business Act ( 15 U.S.C. 638 ), and on compliance with those requirements.
+  - **(1)** under section 38 of the Arms Export Control Act ( 22 U.S.C. 2778 ), and on compliance with those requirements;
+  - **(2)** under section 9 of the Small Business Act ( 15 U.S.C. 638 ), and on compliance with those requirements;
+  - **(3)** under clause 252.204–7012 of the Defense Acquisition Regulation Supplement, or any successor regulation, and on compliance with those requirements (and any successor requirements); and
+  - **(4)** under section 847 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 133 Stat. 1505 ), and on compliance with those requirements (and any such successor requirements).

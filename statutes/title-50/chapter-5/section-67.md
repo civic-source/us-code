@@ -3,9 +3,9 @@ title: "Section 67 - Transferred"
 usc_title: 50
 usc_section: "67"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 67"
-generated_at: "2026-03-30T00:35:44.367Z"
+generated_at: "2026-03-30T00:38:42.469Z"
 ---
 
 # § 67. Transferred

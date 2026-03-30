@@ -3,9 +3,9 @@ title: "Section 941 - Strategic plan to enhance the security of the internationa
 usc_title: 6
 usc_section: "941"
 chapter: 3
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "6 U.S.C. § 941"
-generated_at: "2026-03-30T00:32:48.490Z"
+generated_at: "2026-03-30T00:36:21.361Z"
 ---
 
 # § 941. Strategic plan to enhance the security of the international supply chain

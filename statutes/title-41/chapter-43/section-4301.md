@@ -3,9 +3,9 @@ title: "Section 4301 - Definitions"
 usc_title: 41
 usc_section: "4301"
 chapter: 43
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "41 U.S.C. § 4301"
-generated_at: "2026-03-30T00:35:18.493Z"
+generated_at: "2026-03-30T00:38:14.727Z"
 ---
 
 # § 4301. Definitions

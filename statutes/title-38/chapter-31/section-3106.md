@@ -3,9 +3,9 @@ title: "Section 3106 - Initial and extended evaluations; determinations regardin
 usc_title: 38
 usc_section: "3106"
 chapter: 31
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 3106"
-generated_at: "2026-03-30T00:35:01.642Z"
+generated_at: "2026-03-30T00:38:11.756Z"
 ---
 
 # § 3106. Initial and extended evaluations; determinations regarding serious employment handicap

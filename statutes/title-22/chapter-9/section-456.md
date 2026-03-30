@@ -3,9 +3,9 @@ title: "Section 456 - Definitions"
 usc_title: 22
 usc_section: "456"
 chapter: 9
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 456"
-generated_at: "2026-03-30T00:33:49.719Z"
+generated_at: "2026-03-30T00:37:11.234Z"
 ---
 
 # § 456. Definitions

@@ -3,9 +3,9 @@ title: "Section 7761 - Repealed. Pub. L. 113–79, title X, § 10007(c) , Feb. 7
 usc_title: 7
 usc_section: "7761"
 chapter: 104
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 7761"
-generated_at: "2026-03-30T00:33:09.148Z"
+generated_at: "2026-03-30T00:36:25.817Z"
 ---
 
 # § 7761. Repealed. Pub. L. 113–79, title X, § 10007(c) , Feb. 7, 2014 , 128 Stat. 947

@@ -3,9 +3,9 @@ title: "Section 2787 - Cost-benefit analyses for competition of management and o
 usc_title: 50
 usc_section: "2787"
 chapter: 42
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 2787"
-generated_at: "2026-03-30T00:35:44.400Z"
+generated_at: "2026-03-30T00:38:42.508Z"
 ---
 
 # § 2787. Cost-benefit analyses for competition of management and operating contracts
@@ -38,5 +38,5 @@ generated_at: "2026-03-30T00:35:44.400Z"
       - **(iii)** Whether expected benefits of the competition with respect to mission performance or operations have been achieved.
       - **(iv)** Such other matters as the Comptroller General considers appropriate.
 - **(f)**
-  - **(1)** The requirements for briefings under subsection (a) and reports under subsection (b) shall apply with respect to requests for proposals issued or contracts awarded, as applicable, by the Administrator during fiscal years 2019 through 2022.
+  - **(1)** The requirements for briefings under subsection (a) and reports under subsection (b) shall apply with respect to requests for proposals issued or contracts awarded, as applicable, by the Administrator during fiscal years 2019 through 2032.
   - **(2)** The requirements for briefings under subsection (a) and reports under subsection (b) shall not apply with respect to a management and operations contract for a Naval Reactor facility.

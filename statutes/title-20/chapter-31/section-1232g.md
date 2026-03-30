@@ -3,9 +3,9 @@ title: "Section 1232g - Family educational and privacy rights"
 usc_title: 20
 usc_section: "1232g"
 chapter: 31
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 1232g"
-generated_at: "2026-03-30T00:33:29.991Z"
+generated_at: "2026-03-30T00:36:53.674Z"
 ---
 
 # § 1232g. Family educational and privacy rights

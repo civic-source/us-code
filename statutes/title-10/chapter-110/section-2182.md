@@ -3,9 +3,9 @@ title: "Section 2182 - Educational assistance: dependents of captives"
 usc_title: 10
 usc_section: "2182"
 chapter: 110
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2182"
-generated_at: "2026-03-30T00:33:02.285Z"
+generated_at: "2026-03-30T00:36:30.991Z"
 ---
 
 # § 2182. Educational assistance: dependents of captives

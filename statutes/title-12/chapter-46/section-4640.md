@@ -3,9 +3,9 @@ title: "Section 4640 - Notice of service"
 usc_title: 12
 usc_section: "4640"
 chapter: 46
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "12 U.S.C. § 4640"
-generated_at: "2026-03-30T00:33:22.537Z"
+generated_at: "2026-03-30T00:36:37.596Z"
 ---
 
 # § 4640. Notice of service

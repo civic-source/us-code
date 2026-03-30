@@ -3,9 +3,9 @@ title: "Section 2391 - Military base reuse studies and community planning assist
 usc_title: 10
 usc_section: "2391"
 chapter: 141
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2391"
-generated_at: "2026-03-30T00:33:02.293Z"
+generated_at: "2026-03-30T00:36:31.000Z"
 ---
 
 # § 2391. Military base reuse studies and community planning assistance
@@ -44,7 +44,7 @@ generated_at: "2026-03-30T00:33:02.293Z"
     - **(B)** The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under this subsection, including selection of community infrastructure projects in the following order of priority:
       - **(i)** Projects that will enhance military value at a military installation, taking into consideration the military value criteria originally developed by the Secretary in compliance with the amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002 (division B of Public Law 107–107 ; 115 Stat. 1344 ).
       - **(ii)** Projects that will contribute to the training of cadets enrolled in an independent Reserve Officer Training Corps program at a covered educational institution.
-      - **(iii)** Projects that will enhance military installation resilience, as defined in section 101(e)(8) of this title .
+      - **(iii)** Projects that will enhance military installation resilience, as defined in section 101(e)(8) 1 1 See References in Text note below. of this title.
       - **(iv)** Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
   - **(2)**
     - **(A)** The criteria established for the selection of community infrastructure projects to receive assistance under this subsection shall include a requirement that, except as provided in subparagraph (B), the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project.
@@ -53,7 +53,6 @@ generated_at: "2026-03-30T00:33:02.293Z"
       - **(ii)** may reduce the requirement for a State or local government contribution to 30 percent or less or waive the cost-sharing requirement entirely.
   - **(3)** In selecting community infrastructure projects to receive assistance under this subsection, the Secretary shall consider infrastructure improvements identified in the report on strategic seaports required by section 3515 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 133 Stat. 1985 ).
   - **(4)** Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
-  - **(5)** The authority under this subsection shall expire on September 30, 2028 .
 - **(e)** In this section:
   - **(1)** The terms “military installation” and “realignment” have the meanings given those terms in section 2687 of this title . For purposes of paragraphs (1)(D) and (E) and (5)(D) of subsection (b) and subsection (d), the term “military installation” includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
   - **(2)** The term “defense facility” means any private facility producing goods or services pursuant to a defense contract.

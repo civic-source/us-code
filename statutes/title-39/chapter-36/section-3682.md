@@ -3,9 +3,9 @@ title: "Section 3682 - Size and weight limits"
 usc_title: 39
 usc_section: "3682"
 chapter: 36
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "39 U.S.C. § 3682"
-generated_at: "2026-03-30T00:35:08.604Z"
+generated_at: "2026-03-30T00:38:08.465Z"
 ---
 
 # § 3682. Size and weight limits

@@ -3,9 +3,9 @@ title: "Section 4204 - Repealed. Pub. L. 102–555, § 4 , Oct. 28, 1992 , 106 S
 usc_title: 15
 usc_section: "4204"
 chapter: 68
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 4204"
-generated_at: "2026-03-30T00:33:18.040Z"
+generated_at: "2026-03-30T00:36:40.717Z"
 ---
 
 # §§ 4201 to 4204. Repealed. Pub. L. 102–555, § 4 , Oct. 28, 1992 , 106 Stat. 4166

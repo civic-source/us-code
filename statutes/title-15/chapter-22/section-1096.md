@@ -3,9 +3,9 @@ title: "Section 1096 - Registration on supplemental register not used to stop im
 usc_title: 15
 usc_section: "1096"
 chapter: 22
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 1096"
-generated_at: "2026-03-30T00:33:17.959Z"
+generated_at: "2026-03-30T00:36:40.622Z"
 ---
 
 # § 1096. Registration on supplemental register not used to stop importations

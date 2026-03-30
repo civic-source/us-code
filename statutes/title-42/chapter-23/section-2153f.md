@@ -3,9 +3,9 @@ title: "Section 2153f - Savings clause; Nuclear Non-Proliferation Act of 1978"
 usc_title: 42
 usc_section: "2153f"
 chapter: 23
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 2153f"
-generated_at: "2026-03-30T00:35:36.962Z"
+generated_at: "2026-03-30T00:38:35.873Z"
 ---
 
 # § 2153f. Savings clause; Nuclear Non-Proliferation Act of 1978

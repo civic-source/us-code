@@ -3,9 +3,9 @@ title: "Section 3052 - Definitions"
 usc_title: 25
 usc_section: "3052"
 chapter: 32
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "25 U.S.C. § 3052"
-generated_at: "2026-03-30T00:33:39.997Z"
+generated_at: "2026-03-30T00:37:24.773Z"
 ---
 
 # § 3052. Definitions

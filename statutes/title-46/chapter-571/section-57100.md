@@ -3,9 +3,9 @@ title: "Section 57100 - National Defense Reserve Fleet"
 usc_title: 46
 usc_section: "57100"
 chapter: 571
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "46 U.S.C. § 57100"
-generated_at: "2026-03-30T00:35:42.069Z"
+generated_at: "2026-03-30T00:38:41.140Z"
 ---
 
 # § 57100. National Defense Reserve Fleet
@@ -43,4 +43,4 @@ generated_at: "2026-03-30T00:35:42.069Z"
   - **(3)** Whether safety precautions will be taken, including indemnification of liability when applicable.
   - **(4)** Whether any costs incurred by such use will be funded as a reimbursable transaction between Federal agencies, as applicable.
   - **(5)** Any other matters the Maritime Administrator considers appropriate.
-- **(g)** A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be of insufficient value to remain in the National Defense Reserve Fleet shall remain a vessel within the meaning of that term in section 3 of title 1 , United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
+- **(g)** A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be an obsolete vessel shall remain a vessel within the meaning of that term in section 3 of title 1 , United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.

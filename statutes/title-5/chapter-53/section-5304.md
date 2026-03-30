@@ -3,9 +3,9 @@ title: "Section 5304 - Locality-based comparability payments"
 usc_title: 5
 usc_section: "5304"
 chapter: 53
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 5304"
-generated_at: "2026-03-30T00:32:45.576Z"
+generated_at: "2026-03-30T00:36:18.963Z"
 ---
 
 # § 5304. Locality-based comparability payments

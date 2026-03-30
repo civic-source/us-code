@@ -3,9 +3,9 @@ title: "Section 130 - National Poison Prevention Week"
 usc_title: 36
 usc_section: "130"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "36 U.S.C. § 130"
-generated_at: "2026-03-30T00:35:11.399Z"
+generated_at: "2026-03-30T00:38:10.128Z"
 ---
 
 # § 130. National Poison Prevention Week

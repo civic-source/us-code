@@ -1,0 +1,18 @@
+---
+title: "Section 2701a - Education allowance for dependents of Department of State employees located in United States territories"
+usc_title: 22
+usc_section: "2701a"
+chapter: 38
+current_through: "PL 118-34"
+classification: "22 U.S.C. § 2701a"
+generated_at: "2026-03-30T00:37:11.287Z"
+---
+
+# § 2701a. Education allowance for dependents of Department of State employees located in United States territories
+
+- **(a)** An individual employed by the Department at a location described in subsection (b) shall be eligible for a cost-of-living allowance for the education of the dependents of such employee in an amount that does not exceed the educational allowance authorized by the Secretary of Defense for such location.
+- **(b)** A location is described in this subsection if—
+  - **(1)** such location is in a territory of the United States; and
+  - **(2)** the Secretary of Defense has determined that schools available in such location are unable to adequately provide for the education of—
+    - **(A)** dependents of members of the Armed Forces; or
+    - **(B)** dependents of employees of the Department of Defense.

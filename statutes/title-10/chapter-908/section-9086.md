@@ -3,9 +3,9 @@ title: "Section 9086 - Space Development Agency"
 usc_title: 10
 usc_section: "9086"
 chapter: 908
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 9086"
-generated_at: "2026-03-30T00:33:02.365Z"
+generated_at: "2026-03-30T00:36:31.079Z"
 ---
 
 # § 9086. Space Development Agency

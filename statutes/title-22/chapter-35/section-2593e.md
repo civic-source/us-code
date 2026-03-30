@@ -3,9 +3,9 @@ title: "Section 2593e - Measures against persons involved in activities that vio
 usc_title: 22
 usc_section: "2593e"
 chapter: 35
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 2593e"
-generated_at: "2026-03-30T00:33:49.807Z"
+generated_at: "2026-03-30T00:37:11.282Z"
 ---
 
 # § 2593e. Measures against persons involved in activities that violate arms control treaties or agreements with the United States

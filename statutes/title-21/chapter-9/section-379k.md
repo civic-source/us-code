@@ -3,9 +3,9 @@ title: "Section 379k - Information system"
 usc_title: 21
 usc_section: "379k"
 chapter: 9
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "21 U.S.C. § 379k"
-generated_at: "2026-03-30T00:34:04.357Z"
+generated_at: "2026-03-30T00:37:07.505Z"
 ---
 
 # § 379k. Information system

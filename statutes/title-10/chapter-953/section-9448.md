@@ -3,9 +3,9 @@ title: "Section 9448 - Cadets: agreement to serve as officer"
 usc_title: 10
 usc_section: "9448"
 chapter: 953
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 9448"
-generated_at: "2026-03-30T00:33:02.368Z"
+generated_at: "2026-03-30T00:36:31.083Z"
 ---
 
 # § 9448. Cadets: agreement to serve as officer
@@ -13,11 +13,11 @@ generated_at: "2026-03-30T00:33:02.368Z"
 - **(a)** Each cadet shall sign an agreement with respect to the cadet’s length of service in the armed forces. The agreement shall provide that the cadet agrees to the following:
   - **(1)** That the cadet will complete the course of instruction at the Academy.
   - **(2)** That upon graduation from the Academy the cadet—
-    - **(A)** will accept an appointment, if tendered, as a commissioned officer of the Regular Air Force or the Regular Space Force; and
+    - **(A)** will accept an appointment, if tendered, as a commissioned officer of the Regular Air Force or the Space Force; and
     - **(B)** will serve on active duty for at least five years immediately after such appointment.
-  - **(3)** That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before completion of the commissioned service obligation of the cadet, the cadet—
-    - **(A)** will accept an appointment as a commissioned officer as a Reserve in the Air Force for service in the Air Force Reserve or as a Reserve in the Space Force for service in the Space Force Reserve; and
-    - **(B)** will remain in that reserve component until completion of the commissioned service obligation of the cadet.
+  - **(3)** That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer, or to terminate the officer’s order to sustained duty in the Space Force before completion of the commissioned service obligation of the cadet, the cadet—
+    - **(A)** will accept an appointment as a commissioned officer as a Reserve in the Air Force for service in the Air Force Reserve or will accept further assignment in a space force active status; and
+    - **(B)** will remain in that reserve component, or the Space Force, until completion of the commissioned service obligation of the cadet.
   - **(4)** That if an appointment described in paragraph (2) or (3) is tendered and the cadet participates in a program under section 2121 of this title , the cadet will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
   - **(5)** That the cadet may not obtain employment as a professional athlete until two years after the cadet graduates from the Academy.
 - **(b)**

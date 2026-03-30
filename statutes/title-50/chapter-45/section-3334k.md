@@ -3,9 +3,9 @@ title: "Section 3334k - Report on protocols for certain intelligence community e
 usc_title: 50
 usc_section: "3334k"
 chapter: 45
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3334k"
-generated_at: "2026-03-30T00:35:44.417Z"
+generated_at: "2026-03-30T00:38:42.528Z"
 ---
 
 # § 3334k. Report on protocols for certain intelligence community employees and dependents

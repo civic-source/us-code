@@ -3,9 +3,9 @@ title: "Section 312 - Inspector General"
 usc_title: 38
 usc_section: "312"
 chapter: 3
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "38 U.S.C. § 312"
-generated_at: "2026-03-30T00:35:01.611Z"
+generated_at: "2026-03-30T00:38:11.723Z"
 ---
 
 # § 312. Inspector General
@@ -41,8 +41,9 @@ generated_at: "2026-03-30T00:35:01.611Z"
   - **(4)** Before requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the degree practicable—
     - **(A)** notify the witness of the intent of the Inspector General to issue the subpoena; and
     - **(B)** provide the witness an opportunity to attend and testify voluntarily.
-  - **(5)** Whenever requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the greatest extent practicable, travel to residence of the witness, the principal place of business of the witness, or other similar location that is in proximity to the residence of the witness.
-  - **(6)** 2 2 See Effective Date of 2022 Amendment note below. (A) Along with each semiannual report submitted by the Inspector General pursuant to section 5(b) of the Inspector General Act of 1978 (5 U.S.C. App. 5(b)), 1 the Inspector General shall include a report on the exercise of the authority provided by paragraph (1).
+  - **(5)** Whenever requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the greatest extent practicable, travel to residence 2 2 So in original. Probably should be preceded by “the”. of the witness, the principal place of business of the witness, or other similar location that is in proximity to the residence of the witness.
+  - **(6)**
+    - **(A)** Along with each semiannual report submitted by the Inspector General pursuant to section 5(b) of the Inspector General Act of 1978 (5 U.S.C. App. 5(b)), 1 the Inspector General shall include a report on the exercise of the authority provided by paragraph (1).
     - **(B)** Each report submitted under subparagraph (A) shall include, for the most recently completed six-month period, the following:
       - **(i)** The number of testimonial subpoenas issued and the number of individuals interviewed pursuant to such subpoenas.
       - **(ii)** The number of proposed testimonial subpoenas with respect to which the Attorney General objected under paragraph (3)(B).

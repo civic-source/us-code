@@ -1,20 +1,21 @@
 ---
-title: "Section 3049a - Special pay authority for science, technology, engineering, or mathematics positions"
+title: "Section 3049a - Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise"
 usc_title: 50
 usc_section: "3049a"
 chapter: 44
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3049a"
-generated_at: "2026-03-30T00:35:44.406Z"
+generated_at: "2026-03-30T00:38:42.516Z"
 ---
 
-# § 3049a. Special pay authority for science, technology, engineering, or mathematics positions
+# § 3049a. Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise
 
 - **(a)**
-  - **(1)** Notwithstanding part III of title 5, the head of each element of the intelligence community may, for one or more categories of positions in such element that require expertise in science, technology, engineering, or mathematics—
+  - **(1)** Notwithstanding part III of title 5, the head of each element of the intelligence community may, for one or more categories of positions in such element that require expertise in science, technology, engineering, or mathematics or in banking or financial services (including expertise relating to critical financial infrastructure operations, capital markets, banking compliance programs, or international investments)—
     - **(A)** establish higher minimum rates of pay; and
     - **(B)** make corresponding increases in all rates of pay of the pay range for each grade or level, subject to subsection (b) or (c), as applicable.
-  - **(2)** The special rate supplements resulting from the establishment of higher rates under paragraph (1) shall be basic pay for the same or similar purposes as those specified in section 5305(j) of title 5 .
+  - **(2)** For each element of the intelligence community, the number of individuals serving in a position in such element who receive a higher rate of pay established or increased under paragraph (1) may not, at any time during a given fiscal year, exceed 50 individuals or 5 percent of the total number of full-time equivalent positions authorized for such element for the preceding fiscal year, whichever is greater.
+  - **(3)** The special rate supplements resulting from the establishment of higher rates under paragraph (1) shall be basic pay for the same or similar purposes as those specified in section 5305(j) of title 5 .
 - **(b)**
   - **(1)** Notwithstanding subsection (c), the Director of the National Security Agency may establish a special rate of pay—
     - **(A)** not to exceed the rate of basic pay payable for level II of the Executive Schedule under section 5313 of title 5 if the Director certifies to the Under Secretary of Defense for Intelligence and Security, in consultation with the Under Secretary of Defense for Personnel and Readiness, that the rate of pay is for positions that perform functions that execute the cyber mission of the Agency; or
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T00:35:44.406Z"
 - **(d)** If the head of an element of the intelligence community removes a category of positions from coverage under a rate of pay authorized by subsection (a) or (b) after that rate of pay takes effect—
   - **(1)** the head of such element shall provide notice of the loss of coverage of the special rate of pay to each individual in such category; and
   - **(2)** the loss of coverage will take effect on the first day of the first pay period after the date of the notice.
-- **(e)** Subject to the limitations in this section, rates of pay established under this section by the head of the element of the intelligence community may be revised from time to time by the head of such element and the revisions have the force and effect of statute.
+- **(e)** Subject to the limitations in this section, rates of pay established under this section by the head of an element of the intelligence community may be revised from time to time by the head of such element and the revisions have the force and effect of statute.
 - **(f)** The head of each element of the intelligence community shall promulgate regulations to carry out this section with respect to such element, which shall, to the extent practicable, be comparable to the regulations promulgated to carry out section 5305 of title 5 .
 - **(g)**
   - **(1)** Not later than 90 days after the date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019, 1 1 See References in Text note below. the head of each element of the intelligence community shall submit to the congressional intelligence committees a report on any rates of pay established for such element under this section.

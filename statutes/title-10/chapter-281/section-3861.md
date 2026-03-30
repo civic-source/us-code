@@ -3,9 +3,9 @@ title: "Section 3861 - Research and development contracts: indemnification provi
 usc_title: 10
 usc_section: "3861"
 chapter: 281
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 3861"
-generated_at: "2026-03-30T00:33:02.326Z"
+generated_at: "2026-03-30T00:36:31.036Z"
 ---
 
 # § 3861. Research and development contracts: indemnification provisions

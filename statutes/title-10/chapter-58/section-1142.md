@@ -3,9 +3,9 @@ title: "Section 1142 - Preseparation counseling; transmittal of certain records 
 usc_title: 10
 usc_section: "1142"
 chapter: 58
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1142"
-generated_at: "2026-03-30T00:33:02.256Z"
+generated_at: "2026-03-30T00:36:30.960Z"
 ---
 
 # § 1142. Preseparation counseling; transmittal of certain records to Department of Veterans Affairs
@@ -51,8 +51,8 @@ generated_at: "2026-03-30T00:33:02.256Z"
     - **(B)** Term of service.
     - **(C)** Gender.
     - **(D)** Whether the member was a member of a regular or reserve component of an armed force.
-    - **(E)** Disability.
-    - **(F)** Character of discharge (including expedited discharge and discharge under conditions other than honorable).
+    - **(E)** Potential or confirmed disability.
+    - **(F)** Potential or confirmed character of discharge (including expedited discharge and discharge under conditions other than honorable).
     - **(G)** Health (including mental health).
     - **(H)** Military occupational specialty.
     - **(I)** Whether the member intends, after separation, retirement, or discharge, to—

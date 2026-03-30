@@ -3,9 +3,9 @@ title: "Section 913 - Authorization of loans, conveyances, etc., by municipaliti
 usc_title: 48
 usc_section: "913"
 chapter: 4
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "48 U.S.C. § 913"
-generated_at: "2026-03-30T00:35:41.129Z"
+generated_at: "2026-03-30T00:38:39.289Z"
 ---
 
 # § 913. Authorization of loans, conveyances, etc., by municipalities

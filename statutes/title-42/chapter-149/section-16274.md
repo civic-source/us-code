@@ -3,9 +3,9 @@ title: "Section 16274 - Nuclear science and engineering support"
 usc_title: 42
 usc_section: "16274"
 chapter: 149
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 16274"
-generated_at: "2026-03-30T00:35:37.273Z"
+generated_at: "2026-03-30T00:38:36.194Z"
 ---
 
 # § 16274. Nuclear science and engineering support
@@ -71,8 +71,13 @@ generated_at: "2026-03-30T00:35:37.273Z"
     - **(E)** The term “minority-serving institution” means a Hispanic-serving institution, an Alaska Native-serving institution, a Native Hawaiian-serving institution, a Predominantly Black Institution, an Asian American and Native American Pacific Islander-serving institution, or a Native American-serving nontribal institution as described in section 1067q of title 20 .
     - **(F)** The term “Tribal College or University” has the meaning given such term in section 1059c of title 20 .
 - **(b)**
-  - **(1)** In carrying out the program under subsection (a), the Secretary shall establish a nuclear energy graduate traineeship subprogram under which the Secretary shall competitively award graduate traineeships in coordination with universities to provide focused, advanced training to meet critical mission needs of the Department, including in industries that are represented by skilled labor unions.
+  - **(1)** In carrying out the program under subsection (a), the Secretary shall establish a nuclear energy traineeship subprogram under which the Secretary shall competitively award traineeships in coordination with universities to provide focused, advanced training to meet critical mission needs of the Department, including in industries that are represented by skilled labor unions.
   - **(2)** In carrying out the subprogram under this subsection, the Secretary shall—
-    - **(A)** encourage appropriate partnerships among National Laboratories, affected universities, and industry; and
-    - **(B)** on an annual basis, evaluate the needs of the nuclear energy community to implement graduate traineeships for focused topical areas addressing mission-specific workforce needs.
-  - **(3)** There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2021 through 2025.
+    - **(A)** encourage appropriate partnerships among National Laboratories, affected universities, community colleges, trade schools, registered apprenticeship programs, pre-apprenticeship programs, and industry; and
+    - **(B)** on an annual basis, evaluate the needs of the nuclear energy community to implement traineeships for focused topical areas addressing mission-specific workforce needs.
+    - **(A)** In carrying out the subprogram under this subsection, the Secretary may implement traineeships in focus areas that, in the determination of the Secretary, are necessary to support the nuclear energy sector in the United States, including—
+      - **(i)** research and development;
+      - **(ii)** construction and operation;
+      - **(iii)** associated supply chains; and
+      - **(iv)** workforce training and retraining to support transitioning workforces.
+  - **(4)** There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2023 through 2027.

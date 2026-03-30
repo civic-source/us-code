@@ -3,9 +3,9 @@ title: "Section 2216a - Rapidly meeting urgent needs: Joint Urgent Operational N
 usc_title: 10
 usc_section: "2216a"
 chapter: 131
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2216a"
-generated_at: "2026-03-30T00:33:02.287Z"
+generated_at: "2026-03-30T00:36:30.993Z"
 ---
 
 # § 2216a. Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund

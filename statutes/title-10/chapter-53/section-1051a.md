@@ -3,9 +3,9 @@ title: "Section 1051a - Repealed. Pub. L. 114–328, div. A, title XII, § 1243(
 usc_title: 10
 usc_section: "1051a"
 chapter: 53
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1051a"
-generated_at: "2026-03-30T00:33:02.245Z"
+generated_at: "2026-03-30T00:36:30.948Z"
 ---
 
 # [§§ 1050a to 1051a. Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1) , Dec. 23, 2016 , 130 Stat. 2516 ]

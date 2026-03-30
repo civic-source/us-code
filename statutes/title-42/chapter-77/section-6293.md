@@ -3,9 +3,9 @@ title: "Section 6293 - Test procedures"
 usc_title: 42
 usc_section: "6293"
 chapter: 77
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 6293"
-generated_at: "2026-03-30T00:35:37.053Z"
+generated_at: "2026-03-30T00:38:35.967Z"
 ---
 
 # § 6293. Test procedures

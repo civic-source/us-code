@@ -3,9 +3,9 @@ title: "Section 2350b - Cooperative projects under Arms Export Control Act: acqu
 usc_title: 10
 usc_section: "2350b"
 chapter: 138
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2350b"
-generated_at: "2026-03-30T00:33:02.291Z"
+generated_at: "2026-03-30T00:36:30.999Z"
 ---
 
 # § 2350b. Cooperative projects under Arms Export Control Act: acquisition of defense equipment

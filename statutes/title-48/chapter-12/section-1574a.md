@@ -3,9 +3,9 @@ title: "Section 1574a - Revenue bonds or other obligations"
 usc_title: 48
 usc_section: "1574a"
 chapter: 12
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "48 U.S.C. § 1574a"
-generated_at: "2026-03-30T00:35:41.137Z"
+generated_at: "2026-03-30T00:38:39.297Z"
 ---
 
 # § 1574a. Revenue bonds or other obligations

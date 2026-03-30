@@ -3,9 +3,9 @@ title: "Section 955 - National Council on the Arts"
 usc_title: 20
 usc_section: "955"
 chapter: 26
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 955"
-generated_at: "2026-03-30T00:33:29.924Z"
+generated_at: "2026-03-30T00:36:53.609Z"
 ---
 
 # § 955. National Council on the Arts

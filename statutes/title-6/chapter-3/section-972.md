@@ -3,9 +3,9 @@ title: "Section 972 - Additional personnel"
 usc_title: 6
 usc_section: "972"
 chapter: 3
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "6 U.S.C. § 972"
-generated_at: "2026-03-30T00:32:48.492Z"
+generated_at: "2026-03-30T00:36:21.363Z"
 ---
 
 # § 972. Additional personnel

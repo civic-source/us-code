@@ -3,9 +3,9 @@ title: "Section 1934 - Jurisdiction"
 usc_title: 48
 usc_section: "1934"
 chapter: 18
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "48 U.S.C. § 1934"
-generated_at: "2026-03-30T00:35:41.146Z"
+generated_at: "2026-03-30T00:38:39.308Z"
 ---
 
 # § 1934. Jurisdiction

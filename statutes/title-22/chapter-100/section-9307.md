@@ -3,9 +3,9 @@ title: "Section 9307 - Reports"
 usc_title: 22
 usc_section: "9307"
 chapter: 100
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 9307"
-generated_at: "2026-03-30T00:33:49.916Z"
+generated_at: "2026-03-30T00:37:11.382Z"
 ---
 
 # § 9307. Reports
@@ -25,10 +25,10 @@ generated_at: "2026-03-30T00:33:49.916Z"
   - **(12)** assess efforts to coordinate United States international food security and nutrition programs, activities, and initiatives with key stakeholders;
   - **(13)** assess United States Government-facilitated private investment in related sectors and efforts to encourage financial donor burden sharing and the impact of such investment and efforts in target countries and communities;
   - **(14)** describe how agriculture research is prioritized within the Global Food Security Strategy to support agriculture-led growth and eventual self-sufficiency and assess efforts to coordinate research programs within the Global Food Security Strategy with key stakeholders;
-  - **(15)** identify any United States legal or regulatory impediments that could obstruct the effective implementation of the programming referred to in paragraphs (8) and (9);
+  - **(15)** identify any United States legal or regulatory impediments that could obstruct the effective implementation of the programming referred to in paragraphs (8) and (9); 1 1 See References in Text note below.
   - **(16)** contain a clear gender analysis of programming, to inform project-level activities, that includes established disaggregated gender indicators to better analyze outcomes for food productivity, income growth, control of assets, equity in access to inputs, jobs and markets, and nutrition;
   - **(17)** incorporate a plan for regularly reviewing and updating strategies, partnerships, and programs and sharing lessons learned, including key challenges or missteps, with a wide range of stakeholders in an open, transparent manner; and
-  - **(18)** during the final year of each strategy required under section 5, complete country graduation reports to determine whether a country should remain a target country based on quantitative and qualitative analysis.
+  - **(18)** during the final year of each strategy required under section 9304 of this title , complete country graduation reports to determine whether a country should remain a target country based on quantitative and qualitative analysis.
 - **(b)** Not later than 120 days after the President submits the budget to Congress under section 1105(a) of title 31 , the Director of the Office of Management and Budget shall submit to the appropriate congressional committees a report including—
   - **(1)** an interagency budget crosscut report that—
     - **(A)** displays the budget proposed, including any planned interagency or intra-agency transfer, for each of the principal Federal agencies that carries out global food security activities in the upcoming fiscal year, separately reporting the amount of planned funding to be provided under existing laws pertaining to the global food security strategy to the extent available; and

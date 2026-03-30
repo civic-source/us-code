@@ -3,9 +3,9 @@ title: "Section 3103 - Admission of guide dogs or other service animals accompan
 usc_title: 40
 usc_section: "3103"
 chapter: 31
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "40 U.S.C. § 3103"
-generated_at: "2026-03-30T00:35:11.824Z"
+generated_at: "2026-03-30T00:38:09.064Z"
 ---
 
 # § 3103. Admission of guide dogs or other service animals accompanying individuals with disabilities

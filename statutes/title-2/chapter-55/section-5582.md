@@ -3,9 +3,9 @@ title: "Section 5582 - Office of Interparliamentary Affairs"
 usc_title: 2
 usc_section: "5582"
 chapter: 55
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "2 U.S.C. § 5582"
-generated_at: "2026-03-30T00:32:43.044Z"
+generated_at: "2026-03-30T00:36:16.978Z"
 ---
 
 # § 5582. Office of Interparliamentary Affairs

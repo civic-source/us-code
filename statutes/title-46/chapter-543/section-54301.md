@@ -3,9 +3,9 @@ title: "Section 54301 - Port infrastructure development program"
 usc_title: 46
 usc_section: "54301"
 chapter: 543
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "46 U.S.C. § 54301"
-generated_at: "2026-03-30T00:35:42.066Z"
+generated_at: "2026-03-30T00:38:41.138Z"
 ---
 
 # § 54301. Port infrastructure development program
@@ -28,8 +28,9 @@ generated_at: "2026-03-30T00:35:42.066Z"
       - **(ii)** will be used to improve the safety, efficiency, or reliability of—
         - **(I)** the loading and unloading of goods at the port, such as for marine terminal equipment;
         - **(II)** the movement of goods into, out of, around, or within a port, such as for highway or rail infrastructure, intermodal facilities, freight intelligent transportation systems, and digital infrastructure systems;
-        - **(III)** operational improvements, including projects to improve port resilience; or
+        - **(III)** operational improvements, including projects to improve port resilience;
         - **(IV)** environmental and emission mitigation measures; including projects for—
+        - **(V)** port and port-related infrastructure that supports seafood and seafood-related businesses, including the loading and unloading of commercially harvested fish and fish products, seafood processing, cold storage, and other related infrastructure.
     - **(B)** notwithstanding paragraph (6)(A)(v), to provide financial assistance to 1 or more projects under subparagraph (A) for development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, and preliminary engineering and design work.
   - **(4)** A grant award under this subsection may not be used—
     - **(A)** to finance or refinance the construction, reconstruction, reconditioning, or purchase of a vessel that is eligible for such assistance under chapter 537, unless the Secretary determines such vessel—
@@ -42,21 +43,23 @@ generated_at: "2026-03-30T00:35:42.066Z"
   - **(6)**
     - **(A)** The Secretary may select a project described in paragraph (3) for funding under this subsection if the Secretary determines that—
       - **(i)** the project improves the safety, efficiency, or reliability of the movement of goods through a port or intermodal connection to a port;
-      - **(ii)** the project is cost effective;
+      - **(ii)** the project is cost effective (except in the case of a project described under subparagraph (C)); 1 1 Probably means the subpar. (C) relating to noncontiguous states and territories.
       - **(iii)** the eligible applicant has authority to carry out the project;
       - **(iv)** the eligible applicant has sufficient funding available to meet the matching requirements under paragraph (8);
       - **(v)** the project will be completed without unreasonable delay; and
       - **(vi)** the project cannot be easily and efficiently completed without Federal funding or financial assistance available to the project sponsor.
     - **(B)** In selecting projects described in paragraph (3) for funding under this subsection, the Secretary shall give substantial weight to—
       - **(i)** the utilization of non-Federal contributions;
-      - **(ii)** the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable; and
+      - **(ii)** the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable (except in the case of a project described under subparagraph (C)); 1 and
       - **(iii)** a port’s increased resilience as a result of the project.
+    - **(C)** In selecting projects described in paragraph (3), the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements.
+    - **(C)** The requirements under subparagraphs (A)(ii) and (B)(ii) shall not apply in the case of a project described in paragraph (3) in a noncontiguous State or territory.
   - **(7)**
     - **(A)** Not more than 25 percent of the amounts made available for grants under this subsection for a fiscal year may be used to make grants for projects in any 1 State.
     - **(B)** The Secretary shall reserve 25 percent of the amounts made available for grants under this subsection each fiscal year to make grants for eligible projects described in subsection (b). The requirement under paragraph (6)(A)(ii) shall not apply to grants made under subsection (b).
     - **(C)** Of the amounts made available for grants under this section for a fiscal year—
       - **(i)** not more than 10 percent may be used to make grants for development phase activities under paragraph (3)(B); and
-      - **(ii)** not more than 10 percent may be used to make grants for development phase activities under subsection (b)(3)(A)(ii)(III).
+      - **(ii)** not more than 10 percent may be used to make grants for development phase activities under subsection (b)(5)(A)(ii)(III).
   - **(8)**
     - **(A)** To be eligible for a grant under this subsection or subsection (b), an eligible applicant shall submit to the Secretary an estimate of the total costs of the project for which the grant is requested based on the best available information, including any available engineering studies, studies of economic feasibility, environmental analyses, and information on the expected use of equipment or facilities.
     - **(B)**
@@ -72,7 +75,7 @@ generated_at: "2026-03-30T00:35:42.066Z"
       - **(ii)** make the records described in clause (i) available for review and audit by the Secretary; and
       - **(iii)** periodically report to the Secretary such information as the Secretary considers necessary to assess progress.
     - **(B)**
-      - **(i)** Notwithstanding any other provision of law ans 1 1 So in original. Probably should be “and”. subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
+      - **(i)** Notwithstanding any other provision of law ans 3 3 So in original. Probably should be “and”. subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
         - **(I)** the grant recipient may obligate and expend non-Federal funds with respect to the project for which the grant is provided; and
         - **(II)** any non-Federal funds obligated or expended in accordance with subclause (I) shall be credited toward the non-Federal cost share for the project for which the grant is provided.
       - **(ii)**
@@ -97,15 +100,21 @@ generated_at: "2026-03-30T00:35:42.066Z"
     - **(B)** The term “project” includes construction, reconstruction, environmental rehabilitation, acquisition of property, including land related to the project and improvements to the land, equipment acquisition, and operational improvements.
     - **(C)** The term “rural area” means an area that is outside an urbanized area.
     - **(D)** The term “resilience” means the ability to anticipate, prepare for, adapt to, withstand, respond to, and recover from operational disruptions and sustain critical operations at ports, including disruptions caused by natural or manmade hazards, such as sea level rise, flooding, earthquakes, hurricanes, tsunami inundation or other extreme weather events.
+    - **(E)** In this subsection the term “strategic seaport” means a military port or and 4 4 So in original. commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.
 - **(b)**
-  - **(1)** From amounts reserved under subsection (a)(7)(B), the Secretary, acting through the Administrator of the Maritime Administration, shall make grants under this subsection to eligible applicants for eligible projects at a port, to and from which the average annual tonnage of cargo for the immediately preceding 3 calendar years from the time an application is submitted is less than 8,000,000 short tons, as determined using United States Army Corps of Engineers data or data provided by an independent audit the findings of which are acceptable to the Secretary.
-  - **(2)** In providing assistance under this subsection, the Secretary shall—
+  - **(1)** From amounts reserved under subsection (a)(7)(B), the Secretary, acting through the Administrator of the Maritime Administration, shall make grants under this subsection to eligible applicants for eligible projects at a port, to and from which the average annual tonnage of cargo for the immediately preceding 3 calendar years from the time an application is submitted is less than 8,000,000 short tons, as determined using United States Army Corps of Engineers data or data provided by an independent audit.
+  - **(2)**
+    - **(A)** If an eligible applicant provides data by an independent audit for purposes of paragraph (1), the Secretary shall use such data to make a tonnage determination if the Secretary determines that it is acceptable to use such data instead of using Corps of Engineers data.
+    - **(B)** For purposes of subparagraph (A), an acceptable use of data means that the Secretary has determined such data is a reasonable substitute for Army Corps data.
+    - **(C)** If the Secretary makes a determination pursuant to subparagraph (A) that it is not acceptable to use independent audit data provided by an eligible applicant, the Secretary shall provide the eligible applicant with notification of, and justification for, such determination.
+  - **(3)** In making a determination of the average annual tonnage of cargo using Corps of Engineers data for purposes of evaluating an application of an eligible applicant pursuant to paragraph (1), the Secretary shall use data that is specific to the eligible applicant.
+  - **(4)** In providing assistance under this subsection, the Secretary shall—
     - **(A)** take into account—
       - **(i)** the economic advantage and the contribution to freight transportation at a port; and
       - **(ii)** the competitive disadvantage of such a port;
     - **(B)** not make more than 1 award per applicant under this subsection for each fiscal year appropriation; and
     - **(C)** take into consideration the degree to which a project would promote the enhancement and efficiencies of a port.
-  - **(3)**
+  - **(5)**
     - **(A)** Assistance provided under this subsection may be used for a project that—
       - **(i)** is—
         - **(I)** within the boundary of a port; or
@@ -118,15 +127,15 @@ generated_at: "2026-03-30T00:35:42.066Z"
     - **(B)** The Secretary may not require as a condition of issuing a grant under this subsection—
       - **(i)** direct ownership of either a facility or equipment to be procured using funds awarded under this subsection; or
       - **(ii)** that equipment procured using such funds be new.
-  - **(4)** Funds provided under this subsection may not be used for—
+  - **(6)** Funds provided under this subsection may not be used for—
     - **(A)** projects conducted on property outside the boundary of a port unless such property is directly related to port operations or to an intermodal connection to a port;
     - **(B)** any single grant award more than 10 percent of total allocation of funds to carry out this subsection per fiscal year appropriation; or
     - **(C)** activities, including channel improvements or harbor deepening that is part of a Federal channel or an access channel associated with a Federal channel, authorized, as of the date of the application for assistance under this subsection, to be carried out by of the United States Army Corps of Engineers.
-  - **(5)**
+  - **(7)**
     - **(A)** Any costs of the project to be paid by the recipient’s matching share pursuant to subsection (a)(8)(B) may—
       - **(i)** be incurred prior to the date on which assistance is provided; and
       - **(ii)** include a loan agreement, a commitment from investors, cash on balance sheet, or other contributions determined acceptable by the Secretary.
-    - **(B)** In determining whether a project meets the criteria under clauses (i), (iii), (iv), (v), and (vi) of subsection (c)(6)(A), the Secretary shall accept documentation used to obtain a commitment of the matching funds covered by this paragraph, including feasibility studies, business plans, investor prospectuses, loan applications, or similar documentation.
+    - **(B)** In determining whether a project meets the criteria under clauses (i), (iii), (iv), (v), and (vi) of subsection (a)(6)(A), the Secretary shall accept documentation used to obtain a commitment of the matching funds covered by this paragraph, including feasibility studies, business plans, investor prospectuses, loan applications, or similar documentation.
 - **(c)** In carrying out this section, the Secretary may—
   - **(1)** coordinate with other Federal agencies to expedite the process established under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) for the improvement of port facilities to improve the efficiency of the transportation system, to increase port security, or to provide greater access to port facilities;
   - **(2)** seek to coordinate all reviews or requirements with appropriate Federal, State, and local agencies; and

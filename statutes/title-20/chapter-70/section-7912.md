@@ -3,9 +3,9 @@ title: "Section 7912 - Unsafe school choice option"
 usc_title: 20
 usc_section: "7912"
 chapter: 70
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 7912"
-generated_at: "2026-03-30T00:33:30.056Z"
+generated_at: "2026-03-30T00:36:53.737Z"
 ---
 
 # § 7912. Unsafe school choice option

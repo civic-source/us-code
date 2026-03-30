@@ -3,9 +3,9 @@ title: "Section 1169 - Regular enlisted members: limitations on discharge"
 usc_title: 10
 usc_section: "1169"
 chapter: 59
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1169"
-generated_at: "2026-03-30T00:33:02.258Z"
+generated_at: "2026-03-30T00:36:30.963Z"
 ---
 
 # § 1169. Regular enlisted members: limitations on discharge

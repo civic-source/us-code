@@ -3,9 +3,9 @@ title: "Section 5205 - Disaster grant closeout procedures"
 usc_title: 42
 usc_section: "5205"
 chapter: 68
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 5205"
-generated_at: "2026-03-30T00:35:37.037Z"
+generated_at: "2026-03-30T00:38:35.949Z"
 ---
 
 # § 5205. Disaster grant closeout procedures

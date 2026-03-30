@@ -3,9 +3,9 @@ title: "Section 824a - Art. 24a. Special trial counsel"
 usc_title: 10
 usc_section: "824a"
 chapter: 47
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 824a"
-generated_at: "2026-03-30T00:33:02.231Z"
+generated_at: "2026-03-30T00:36:30.933Z"
 ---
 
 # § 824a. Art. 24a. Special trial counsel
@@ -30,3 +30,14 @@ generated_at: "2026-03-30T00:33:02.231Z"
     - **(D)** determine if an authorized rehearing is impracticable.
   - **(4)** The determination of a special trial counsel to refer charges and specifications to a court-martial for trial shall be binding on any applicable convening authority for the referral of such charges and specifications.
   - **(5)** If a special trial counsel exercises authority over an offense and elects not to prefer charges and specifications for such offense or, with respect to charges and specifications for such offense preferred by a person other than a special trial counsel, elects not to refer such charges and specifications, a commander or convening authority may exercise any of the authorities of such commander or convening authority under this chapter with respect to such offense, except that such commander or convening authority may not refer charges and specifications for a covered offense for trial by special or general court-martial.
+- **(d)**
+  - **(1)** A special trial counsel may, at the sole and exclusive discretion of the special trial counsel, exercise authority over the following offenses:
+    - **(A)** An offense under section 917a (article 117a), 918 (article 118), section 919 (article 119), section 920 (article 120), section 920b (article 120b), section 920c (article 120c), section 928b (article 128b), or the standalone offense of child pornography punishable under section 934 (article 134) of this title that occurred on or before December 27, 2023 .
+    - **(B)** An offense under section 925 (article 125), section 930 (article 130), or section 932 (article 132) of this title that occurred on or after January 1, 2019 , and before December 28, 2023 .
+    - **(C)** An offense under section 920a (article 120a) of this title, an offense under section 925 (article 125) of this title alleging an act of nonconsensual sodomy, or the standalone offense of kidnapping punishable under section 934 (article 134) of this title that occurred before January 1, 2019 .
+    - **(D)** A conspiracy to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 881 of this title (article 81).
+    - **(E)** A solicitation to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 882 of this title (article 82).
+    - **(F)** An attempt to commit an offense specified in subparagraph (A), (B), (C), (D), or (E) as punishable under section 880 of this title (article 80).
+  - **(2)**
+    - **(A)** If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the offense over which the special trial counsel exercises authority shall be considered a covered offense for purposes of this chapter.
+    - **(B)** If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the special trial counsel may exercise the authority of the special trial counsel under subparagraph (B) of subsection (c)(2) with respect to other offenses described in that subparagraph without regard to the date on which the other offenses occur.

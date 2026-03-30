@@ -3,9 +3,9 @@ title: "Section 12305 - Authority of President to suspend certain laws relating 
 usc_title: 10
 usc_section: "12305"
 chapter: 1209
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 12305"
-generated_at: "2026-03-30T00:33:02.378Z"
+generated_at: "2026-03-30T00:36:31.093Z"
 ---
 
 # § 12305. Authority of President to suspend certain laws relating to promotion, retirement, and separation

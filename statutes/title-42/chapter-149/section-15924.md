@@ -3,9 +3,9 @@ title: "Section 15924 - Project to improve Federal permit coordination"
 usc_title: 42
 usc_section: "15924"
 chapter: 149
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 15924"
-generated_at: "2026-03-30T00:35:37.262Z"
+generated_at: "2026-03-30T00:38:36.183Z"
 ---
 
 # § 15924. Project to improve Federal permit coordination

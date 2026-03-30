@@ -3,9 +3,9 @@ title: "Section 23 - Applications"
 usc_title: 20
 usc_section: "23"
 chapter: 28
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 23"
-generated_at: "2026-03-30T00:33:29.940Z"
+generated_at: "2026-03-30T00:36:53.625Z"
 ---
 
 # § 1070a–23. Applications

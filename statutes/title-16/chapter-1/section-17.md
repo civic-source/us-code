@@ -3,9 +3,9 @@ title: "Section 17 - Permits"
 usc_title: 16
 usc_section: "17"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 17"
-generated_at: "2026-03-30T00:33:32.936Z"
+generated_at: "2026-03-30T00:37:02.203Z"
 ---
 
 # § 460vv–17. Permits

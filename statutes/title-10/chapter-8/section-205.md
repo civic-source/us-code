@@ -3,15 +3,22 @@ title: "Section 205 - Missile Defense Agency"
 usc_title: 10
 usc_section: "205"
 chapter: 8
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 205"
-generated_at: "2026-03-30T00:33:02.207Z"
+generated_at: "2026-03-30T00:36:30.905Z"
 ---
 
 # § 205. Missile Defense Agency
 
-- **(a)** The Director of the Missile Defense Agency shall be appointed for a six-year term.
+- **(a)** The Director of the Missile Defense Agency shall be a general or flag officer appointed for a six-year term.
 - **(b)**
+  - **(1)** There is a Deputy Director of the Missile Defense Agency, who shall be appointed by the Secretary of Defense from among the general officers on active duty in the Army, Air Force, Marine Corps, or Space Force, or from among the flag officers on active duty in the Navy. In selecting an individual to serve as the Deputy Director, the Secretary of Defense shall select an individual who serves in a different armed force than the armed force in which the Director serves.
+  - **(2)** The Deputy Director shall be appointed for a term of not fewer than two, and not more than four years.
+  - **(3)** The Deputy Director shall be under the authority, direction, and control of the Director of the Missile Defense Agency.
+  - **(4)** The Deputy Director shall—
+    - **(A)** carry out such responsibilities as may be assigned by the Director; and
+    - **(B)** serve as acting director during periods of absence by the Director, or at such times as the office of the Director is vacant.
+- **(c)**
   - **(1)** The Secretary of Defense may not make any changes to the missile defense non-standard acquisition and requirements processes and responsibilities unless, with respect to those proposed changes—
     - **(A)** the Secretary, without delegation, has taken each of the actions specified in paragraph (2); and
     - **(B)** a period of 120 days has elapsed following the date on which the Secretary submits the report under subparagraph (C) of such paragraph.

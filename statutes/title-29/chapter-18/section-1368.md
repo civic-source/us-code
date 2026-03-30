@@ -3,9 +3,9 @@ title: "Section 1368 - Lien for liability"
 usc_title: 29
 usc_section: "1368"
 chapter: 18
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "29 U.S.C. § 1368"
-generated_at: "2026-03-30T00:34:11.701Z"
+generated_at: "2026-03-30T00:37:38.925Z"
 ---
 
 # § 1368. Lien for liability

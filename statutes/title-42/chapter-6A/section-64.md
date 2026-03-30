@@ -1,59 +1,18 @@
 ---
-title: "Section 64 - Additional required agreements"
+title: "Section 64 - Pentagon/Shanksville Fund"
 usc_title: 42
 usc_section: "64"
 chapter: 6
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 64"
-generated_at: "2026-03-30T00:35:36.654Z"
+generated_at: "2026-03-30T00:38:35.585Z"
 ---
 
-# § 300ff–64. Additional required agreements
+# § 300mm–64. Pentagon/Shanksville Fund
 
-- **(a)** The Secretary may not make a grant under this part unless—
-  - **(1)** the applicant submits to the Secretary—
-    - **(A)** a specification of the expenditures made by the applicant for early intervention services for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant;
-    - **(B)** an estimate of the number of individuals to whom the applicant has provided such services for such fiscal year;
-    - **(C)** information regarding how the expected expenditures of the grant are related to the planning process for localities funded under part A (including the planning process described in section 300ff–12 of this title ) and for States funded under part B (including the planning process described in section 300ff–27(b) of this title ); and
-    - **(D)** a specification of the expected expenditures and how those expenditures will improve overall client outcomes, as described in the State plan under section 300ff–27(b) of this title ;
-  - **(2)** the applicant agrees to submit to the Secretary a report providing—
-    - **(A)** the number of individuals to whom the applicant provides early intervention services pursuant to the grant;
-    - **(B)** epidemiological and demographic data on the population of such individuals;
-    - **(C)** the extent to which the costs of HIV-related health care for such individuals are paid by third-party payors;
-    - **(D)** the average costs of providing each category of early intervention service; and
-    - **(E)** the aggregate amounts expended for each such category;
-  - **(3)** the applicant agrees to provide additional documentation to the Secretary regarding the process used to obtain community input into the design and implementation of activities related to such grant; and
-  - **(4)** the applicant agrees to submit, every 2 years, to the lead State agency under section 300ff–27(b)(4) of this title audits, consistent with Office of Management and Budget circular A133, regarding funds expended in accordance with this subchapter and shall include necessary client level data to complete unmet need calculations and Statewide coordinated statements of need process.
-- **(b)** The Secretary may not make a grant under this part unless the applicant for the grant agrees that, to the extent permitted under State law, regulation or rule, the applicant will offer substantial opportunities for an individual—
-  - **(1)** to undergo counseling and testing regarding HIV/AIDS without being required to provide any information relating to the identity of the individual; and
-  - **(2)** to undergo such counseling and testing through the use of a pseudonym.
-- **(c)** The Secretary may not make a grant under this part unless the applicant for the grant agrees that, with respect to an individual seeking health services from the applicant, the applicant will not require the individual to undergo testing for HIV as a condition of receiving any health services unless such testing is medically indicated in the provision of the health services sought by the individual.
-- **(d)** The Secretary may not make a grant under this part unless the applicant for the grant agrees to maintain the expenditures of the applicant for early intervention services at a level equal to not less than the level of such expenditures maintained by the State for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant.
-- **(e)**
-  - **(1)** The Secretary may not make a grant under this part unless, subject to paragraph (5), the applicant for the grant agrees that—
-    - **(A)** in the case of individuals with an income less than or equal to 100 percent of the official poverty line, the applicant will not impose a charge on any such individual for the provision of early intervention services under the grant;
-    - **(B)** in the case of individuals with an income greater than 100 percent of the official poverty line, the applicant—
-      - **(i)** will impose a charge on each such individual for the provision of such services; and
-      - **(ii)** will impose the charge according to a schedule of charges that is made available to the public.
-  - **(2)** With respect to the imposition of a charge for purposes of paragraph (1)(B)(ii), the Secretary may not make a grant under this part unless, subject to paragraph (5), the applicant for the grant agrees that—
-    - **(A)** in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
-    - **(B)** in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
-    - **(C)** in the case of individuals with an income greater than 300 percent of the official poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
-  - **(3)** With respect to compliance with the agreement made under paragraph (1), a grantee under this part may, in the case of individuals subject to a charge for purposes of such paragraph—
-    - **(A)** assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules and of paragraph (2) regarding limitations on the maximum amount of charges; and
-    - **(B)** take into consideration the medical expenses of individuals in assessing the amount of the charge, subject to such provisions.
-  - **(4)** The Secretary may not make a grant under this part unless the applicant for the grant agrees that the limitations established in paragraph (2) regarding the imposition of charges for services applies to the annual aggregate of charges imposed for such services, without regard to whether they are characterized as enrollment fees, premiums, deductibles, cost sharing, copayments, coinsurance, or similar charges.
-  - **(5)** The requirement established in paragraph (1)(B)(i) shall be waived by the Secretary in the case of any entity for whom the Secretary has granted a waiver under section 300ff–52(b)(2) of this title .
-- **(f)**
-  - **(1)** The Secretary may not make a grant under this part unless the applicant for the grant agrees that, subject to paragraph (2), the grant will not be expended by the applicant, or by any entity receiving amounts from the applicant for the provision of early intervention services, to make payment for any such service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
-    - **(A)** under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (except for a program administered by or providing the services of the Indian Health Service); or
-    - **(B)** by an entity that provides health services on a prepaid basis.
-  - **(2)** An agreement made under paragraph (1) shall not apply in the case of an entity through which a grantee under this part provides early intervention services if the Secretary has provided a waiver under section 300ff–52(b)(2) of this title regarding the entity.
-- **(g)** The Secretary may not make a grant under this part unless the applicant for the grant agrees that—
-  - **(1)** the applicant will not expend amounts received pursuant to this part for any purpose other than the purposes described in the subpart under which the grant involved is made;
-  - **(2)** the applicant will establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant;
-  - **(3)** the applicant will not expend more than 10 percent of the grant for administrative expenses with respect to the grant, including planning and evaluation, except that the costs of a clinical quality management program under paragraph (5) may not be considered administrative expenses for purposes of such limitation;
-  - **(4)** the applicant will submit evidence that the proposed program is consistent with the statewide coordinated statement of need and agree to participate in the ongoing revision of such statement of need; and
-  - **(5)** the applicant will provide for the establishment of a clinical quality management program—
-    - **(A)** to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
-    - **(B)** to ensure that improvements in the access to and quality of HIV health services are addressed.
+- **(a)** There is established a fund to be known as the World Trade Center Health Program Fund for Certain WTC Responders at the Pentagon and Shanksville, Pennsylvania (referred to in this section as the “Pentagon/Shanksville Fund”), consisting of amounts deposited into the Pentagon/Shanksville Fund under subsection (b).
+- **(b)** Out of any money in the Treasury not otherwise appropriated, there is appropriated for fiscal year 2024 $232,000,000 for deposit into the Pentagon/Shanksville Fund, which amounts shall remain available in such Fund through fiscal year 2033.
+- **(c)**
+  - **(1)** Amounts deposited into the Pentagon/Shanksville Fund under subsection (b) shall be available, without further appropriation and without regard to any spending limitation under section 300mm–61(c) of this title , to the WTC Program Administrator for the purpose of carrying out section 300mm–22 of this title with regard to WTC responders enrolled in the WTC Program based on eligibility criteria described in subclause (III) or (IV) of section 300mm–21(a)(2)(C)(i) of this title .
+  - **(2)** Notwithstanding sections 300mm–41(a), 300mm–61(b)(1), 300mm–62(c), and 300mm–63(c) of this title, and any other provision in this subchapter, for the period of fiscal years 2024 through 2033, no amounts made available under this subchapter other than those amounts appropriated under subsection (b) may be available for the purpose described in paragraph (1).
+- **(d)** Any amounts that remain in the Pentagon/Shanksville Fund on September 30, 2033 , shall be deposited into the Treasury as miscellaneous receipts.

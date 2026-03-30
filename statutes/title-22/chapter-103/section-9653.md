@@ -3,9 +3,9 @@ title: "Section 9653 - Annual report"
 usc_title: 22
 usc_section: "9653"
 chapter: 103
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 9653"
-generated_at: "2026-03-30T00:33:49.922Z"
+generated_at: "2026-03-30T00:37:11.388Z"
 ---
 
 # § 9653. Annual report

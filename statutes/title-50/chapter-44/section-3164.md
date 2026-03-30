@@ -3,9 +3,9 @@ title: "Section 3164 - Definitions"
 usc_title: 50
 usc_section: "3164"
 chapter: 44
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3164"
-generated_at: "2026-03-30T00:35:44.412Z"
+generated_at: "2026-03-30T00:38:42.521Z"
 ---
 
 # § 3164. Definitions
@@ -17,6 +17,6 @@ For purposes of this subchapter—
   - **(3)** the term “consumer reporting agency” has the meaning given such term in section 1681a of title 15 ;
   - **(4)** the term “employee” includes any person who receives a salary or compensation of any kind from the United States Government, is a contractor of the United States Government or an employee thereof, is an unpaid consultant of the United States Government, or otherwise acts for or on behalf of the United States Government, except as otherwise determined by the President;
   - **(5)** the terms “financial agency” and “financial institution” have the meanings given to such terms in section 5312(a) of title 31 and the term “holding company” has the meaning given to such term in section 3401(6) of title 12 ;
-  - **(6)** the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections 1 1 So in original. Probably should be “section”. 1801(a) and (b), respectively, of this title;
+  - **(6)** the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in subsections (a) and (b) of section 1801, respectively, of this title;
   - **(7)** the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States; and
   - **(8)** the term “computer” means any electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device and any data or other information stored or contained in such device.

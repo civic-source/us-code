@@ -3,16 +3,16 @@ title: "Section 410dddd - White Sands National Park"
 usc_title: 16
 usc_section: "410dddd"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 410dddd"
-generated_at: "2026-03-30T00:33:32.901Z"
+generated_at: "2026-03-30T00:37:02.167Z"
 ---
 
 # § 410dddd. White Sands National Park
 
 - **(a)** In this section:
   - **(1)** The term “Map” means the map entitled “White Sands National Park Proposed Boundary Revision & Transfer of Lands Between National Park Service & Department of the Army”, numbered 142/136,271, and dated February 14, 2017 .
-  - **(2)** The term “military munitions” has the meaning given the term in section 101(e) of title 10 .
+  - **(2)** The term “military munitions” has the meaning given the term in section 101(e) 1 1 See References in Text note below. of title 10.
   - **(3)** The term “missile range” means the White Sands Missile Range, New Mexico, administered by the Secretary of the Army.
   - **(4)** The term “Monument” means the White Sands National Monument, New Mexico, established by Presidential Proclamation No. 2025 ( 54 U.S.C. 320301 note), dated January 18, 1933 , and administered by the Secretary of the Interior.
   - **(5)** The term “munitions debris” has the meaning given the term in volume 8 of the Department of Defense Manual Number 6055.09-M entitled “DoD Ammunitions and Explosives Safety Standards” and dated February 29, 2008 (as in effect on December 20, 2019 ).

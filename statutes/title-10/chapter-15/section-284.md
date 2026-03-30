@@ -3,9 +3,9 @@ title: "Section 284 - Support for counterdrug activities and activities to count
 usc_title: 10
 usc_section: "284"
 chapter: 15
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 284"
-generated_at: "2026-03-30T00:33:02.210Z"
+generated_at: "2026-03-30T00:36:30.909Z"
 ---
 
 # § 284. Support for counterdrug activities and activities to counter transnational organized crime
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T00:33:02.210Z"
     - **(B)** surface traffic outside the geographic boundary of the United States and within the United States not to exceed 25 miles of the boundary if the initial detection occurred outside of the boundary.
   - **(7)** Construction of roads and fences and installation of lighting to block drug smuggling corridors across international boundaries of the United States.
   - **(8)** Establishment of command, control, communications, and computer networks for improved integration of law enforcement, active military, and National Guard activities.
-  - **(9)** The provision of linguist and intelligence analysis services.
+  - **(9)** The provision of linguist, intelligence analysis, and planning services.
   - **(10)** Aerial and ground reconnaissance.
 - **(c)**
   - **(1)** The purposes for which the Secretary may provide support under subsection (a) for foreign law enforcement agencies are the following:
@@ -82,7 +82,7 @@ generated_at: "2026-03-30T00:33:02.210Z"
     - **(A)** the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Affairs of the House of Representatives; and
     - **(B)** the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate.
   - **(2)** The term “Indian tribe” means a Federally recognized Indian tribe.
-  - **(3)** The term “small scale construction” means construction at a cost not to exceed $750,000 for any project.
+  - **(3)** The term “small scale construction” means construction at a cost not to exceed $1,000,000 for any project.
   - **(4)** The term “tribal government” means the governing body of an Indian tribe, the status of whose land is “Indian country” as defined in section 1151 of title 18 or held in trust by the United States for the benefit of the Indian tribe.
   - **(5)** The term “tribal law enforcement agency” means the law enforcement agency of a tribal government.
   - **(6)** The term “transnational organized crime” means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.

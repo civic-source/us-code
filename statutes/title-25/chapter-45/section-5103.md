@@ -3,9 +3,9 @@ title: "Section 5103 - Restoration of lands to tribal ownership"
 usc_title: 25
 usc_section: "5103"
 chapter: 45
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "25 U.S.C. § 5103"
-generated_at: "2026-03-30T00:33:40.011Z"
+generated_at: "2026-03-30T00:37:24.790Z"
 ---
 
 # § 5103. Restoration of lands to tribal ownership

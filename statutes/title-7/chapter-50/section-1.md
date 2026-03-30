@@ -3,9 +3,9 @@ title: "Section 1 - Purposes"
 usc_title: 7
 usc_section: "1"
 chapter: 50
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T00:33:09.066Z"
+generated_at: "2026-03-30T00:36:25.728Z"
 ---
 
 # § 2009cc–1. Purposes

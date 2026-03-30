@@ -3,9 +3,9 @@ title: "Section 6607 - Report to Congress"
 usc_title: 16
 usc_section: "6607"
 chapter: 85
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 6607"
-generated_at: "2026-03-30T00:33:33.110Z"
+generated_at: "2026-03-30T00:37:02.385Z"
 ---
 
 # § 6607. Report to Congress

@@ -3,9 +3,9 @@ title: "Section 1170 - Illegal trafficking in Native American human remains and 
 usc_title: 18
 usc_section: "1170"
 chapter: 53
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 1170"
-generated_at: "2026-03-30T00:33:26.780Z"
+generated_at: "2026-03-30T00:36:51.550Z"
 ---
 
 # § 1170. Illegal trafficking in Native American human remains and cultural items

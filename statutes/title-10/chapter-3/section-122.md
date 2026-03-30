@@ -3,9 +3,9 @@ title: "Section 122 - Official registers"
 usc_title: 10
 usc_section: "122"
 chapter: 3
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 122"
-generated_at: "2026-03-30T00:33:02.199Z"
+generated_at: "2026-03-30T00:36:30.893Z"
 ---
 
 # § 122. Official registers

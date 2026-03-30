@@ -3,9 +3,9 @@ title: "Section 925D - Special assistant U.S. attorneys and cross-deputized atto
 usc_title: 18
 usc_section: "925D"
 chapter: 44
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 925D"
-generated_at: "2026-03-30T00:33:26.774Z"
+generated_at: "2026-03-30T00:36:51.542Z"
 ---
 
 # § 925D. Special assistant U.S. attorneys and cross-deputized attorneys

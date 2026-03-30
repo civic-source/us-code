@@ -3,9 +3,9 @@ title: "Section 1405x - Repealed. Pub. L. 97–357, title III, § 307 , Oct. 19,
 usc_title: 48
 usc_section: "1405x"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "48 U.S.C. § 1405x"
-generated_at: "2026-03-30T00:35:41.130Z"
+generated_at: "2026-03-30T00:38:39.290Z"
 ---
 
 # § 1405x. Repealed. Pub. L. 97–357, title III, § 307 , Oct. 19, 1982 , 96 Stat. 1709

@@ -3,9 +3,9 @@ title: "Section 1485 - Dependents of members of armed forces"
 usc_title: 10
 usc_section: "1485"
 chapter: 75
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1485"
-generated_at: "2026-03-30T00:33:02.269Z"
+generated_at: "2026-03-30T00:36:30.974Z"
 ---
 
 # § 1485. Dependents of members of armed forces

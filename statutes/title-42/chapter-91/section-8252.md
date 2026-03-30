@@ -3,9 +3,9 @@ title: "Section 8252 - Purpose"
 usc_title: 42
 usc_section: "8252"
 chapter: 91
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 8252"
-generated_at: "2026-03-30T00:35:37.142Z"
+generated_at: "2026-03-30T00:38:36.057Z"
 ---
 
 # § 8252. Purpose

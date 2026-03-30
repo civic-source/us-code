@@ -3,9 +3,9 @@ title: "Section 1254 - Gain from disposition of interest in oil, gas, geothermal
 usc_title: 26
 usc_section: "1254"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "26 U.S.C. § 1254"
-generated_at: "2026-03-30T00:34:36.166Z"
+generated_at: "2026-03-30T00:37:37.747Z"
 ---
 
 # § 1254. Gain from disposition of interest in oil, gas, geothermal, or other mineral properties

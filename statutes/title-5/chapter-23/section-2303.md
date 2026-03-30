@@ -3,9 +3,9 @@ title: "Section 2303 - Prohibited personnel practices in the Federal Bureau of I
 usc_title: 5
 usc_section: "2303"
 chapter: 23
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "5 U.S.C. § 2303"
-generated_at: "2026-03-30T00:32:45.560Z"
+generated_at: "2026-03-30T00:36:18.952Z"
 ---
 
 # § 2303. Prohibited personnel practices in the Federal Bureau of Investigation

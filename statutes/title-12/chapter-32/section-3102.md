@@ -3,9 +3,9 @@ title: "Section 3102 - Establishment of Federal branches and agencies by foreign
 usc_title: 12
 usc_section: "3102"
 chapter: 32
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "12 U.S.C. § 3102"
-generated_at: "2026-03-30T00:33:22.513Z"
+generated_at: "2026-03-30T00:36:37.570Z"
 ---
 
 # § 3102. Establishment of Federal branches and agencies by foreign bank

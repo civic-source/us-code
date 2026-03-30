@@ -3,9 +3,9 @@ title: "Section 2421f - Sustainability requirements for certain capital projects
 usc_title: 22
 usc_section: "2421f"
 chapter: 32
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 2421f"
-generated_at: "2026-03-30T00:33:49.801Z"
+generated_at: "2026-03-30T00:37:11.275Z"
 ---
 
 # § 2421f. Sustainability requirements for certain capital projects in connection with overseas contingency operations

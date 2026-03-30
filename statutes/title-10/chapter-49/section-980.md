@@ -3,9 +3,9 @@ title: "Section 980 - Limitation on use of humans as experimental subjects"
 usc_title: 10
 usc_section: "980"
 chapter: 49
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 980"
-generated_at: "2026-03-30T00:33:02.242Z"
+generated_at: "2026-03-30T00:36:30.944Z"
 ---
 
 # § 980. Limitation on use of humans as experimental subjects
@@ -13,4 +13,6 @@ generated_at: "2026-03-30T00:33:02.242Z"
 - **(a)** Funds appropriated to the Department of Defense may not be used for research involving a human being as an experimental subject unless—
   - **(1)** the informed consent of the subject is obtained in advance; or
   - **(2)** in the case of research intended to be beneficial to the subject, the informed consent of the subject or a legal representative of the subject is obtained in advance.
-- **(b)** The Secretary of Defense may waive the prohibition in this section with respect to a specific research project to advance the development of a medical product necessary to the armed forces if the research project may directly benefit the subject and is carried out in accordance with all other applicable laws.
+- **(b)**
+  - **(1)** The Secretary of Defense may waive the prohibition in this section with respect to a specific research project to advance the development of a medical product necessary to the armed forces if the research project may directly benefit the subject and is carried out in accordance with all other applicable laws.
+  - **(2)** The Secretary may delegate the authority provided by paragraph (1) to the Under Secretary of Defense for Research and Engineering.

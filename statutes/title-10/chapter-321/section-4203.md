@@ -3,9 +3,9 @@ title: "Section 4203 - Major subprograms"
 usc_title: 10
 usc_section: "4203"
 chapter: 321
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 4203"
-generated_at: "2026-03-30T00:33:02.329Z"
+generated_at: "2026-03-30T00:36:31.040Z"
 ---
 
 # § 4203. Major subprograms

@@ -3,9 +3,9 @@ title: "Section 12555 - Scholarship assistance"
 usc_title: 34
 usc_section: "12555"
 chapter: 121
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "34 U.S.C. § 12555"
-generated_at: "2026-03-30T00:34:49.276Z"
+generated_at: "2026-03-30T00:38:01.733Z"
 ---
 
 # § 12555. Scholarship assistance

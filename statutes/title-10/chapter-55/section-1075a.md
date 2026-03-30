@@ -3,9 +3,9 @@ title: "Section 1075a - TRICARE Prime: cost sharing"
 usc_title: 10
 usc_section: "1075a"
 chapter: 55
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1075a"
-generated_at: "2026-03-30T00:33:02.250Z"
+generated_at: "2026-03-30T00:36:30.953Z"
 ---
 
 # § 1075a. TRICARE Prime: cost sharing
@@ -16,6 +16,9 @@ generated_at: "2026-03-30T00:33:02.250Z"
   - **(3)**
     - **(A)** With respect to beneficiaries described in subparagraph (B) in the active-duty family member category or the retired category (as described in section 1075(b)(1) of this title ), the cost-sharing requirements shall be calculated in accordance with the other provisions of this chapter without regard to subsection (b).
     - **(B)** Beneficiaries described in this subparagraph are beneficiaries who are eligible to enroll in the TRICARE program by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services before January 1, 2018 , or by reason of being a dependent of such a member.
+  - **(4)**
+    - **(A)** Consistent with other provisions of this chapter and subject to requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits each year of a beneficiary in the active-duty family member category (as described in section 1075(b)(1)(A) of this title ).
+    - **(B)** This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
 - **(b)**
   - **(1)** Beneficiaries described in subsection (a)(2) enrolled in TRICARE Prime shall be subject to cost-sharing requirements in accordance with the amounts and percentages under the following table during calendar year 2018 and as such amounts are adjusted under paragraph (2) for subsequent years: TRICARE Prime Active-Duty Family Member (Individual/Family) Retired (Individual/Family) Annual Enrollment $0 $350 / $700 Annual deductible No No Annual catastrophic cap $1,000 $3,500 Outpatient visit civilian network $0 $20 primary care ..................... $30 specialty care ER visit civilian network $0 $60 network Urgent care civilian network $0 $30 network Ambulatory surgery civilian network $0 $60 network Ground ambulance civilian network $0 $40 Durable medical equipment civilian network $0 20% of negotiated fee, network Inpatient visit civilian network $0 $150 per admission Inpatient skilled nursing/rehab civilian $0 $30 per day network
   - **(2)** Each dollar amount expressed as a fixed dollar amount in the table set forth in paragraph (1) shall be annually indexed to the amount by which retired pay is increased under section 1401a of this title , rounded to the next lower multiple of $1. The remaining amount above such multiple of $1 shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.

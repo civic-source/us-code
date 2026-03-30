@@ -3,9 +3,9 @@ title: "Section 3204 - Allowed uses"
 usc_title: 16
 usc_section: "3204"
 chapter: 51
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 3204"
-generated_at: "2026-03-30T00:33:33.074Z"
+generated_at: "2026-03-30T00:37:02.345Z"
 ---
 
 # § 3204. Allowed uses

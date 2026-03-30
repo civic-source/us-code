@@ -3,9 +3,9 @@ title: "Section 1821 - Definitions"
 usc_title: 50
 usc_section: "1821"
 chapter: 36
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 1821"
-generated_at: "2026-03-30T00:35:44.378Z"
+generated_at: "2026-03-30T00:38:42.482Z"
 ---
 
 # § 1821. Definitions

@@ -3,9 +3,9 @@ title: "Section 501 - Fiduciary responsibility of officers of labor organization
 usc_title: 29
 usc_section: "501"
 chapter: 11
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "29 U.S.C. § 501"
-generated_at: "2026-03-30T00:34:11.658Z"
+generated_at: "2026-03-30T00:37:38.875Z"
 ---
 
 # § 501. Fiduciary responsibility of officers of labor organizations

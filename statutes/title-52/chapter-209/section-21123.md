@@ -3,9 +3,9 @@ title: "Section 21123 - Authorization of appropriations"
 usc_title: 52
 usc_section: "21123"
 chapter: 209
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "52 U.S.C. § 21123"
-generated_at: "2026-03-30T00:36:02.671Z"
+generated_at: "2026-03-30T00:38:48.266Z"
 ---
 
 # § 21123. Authorization of appropriations

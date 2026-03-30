@@ -1,14 +1,16 @@
 ---
-title: "Section 357 - Incentive pay authorities for members of the reserve components of the armed forces"
+title: "Section 357 - Special and incentive pay authorities for members of the reserve components of the armed forces"
 usc_title: 37
 usc_section: "357"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "37 U.S.C. § 357"
-generated_at: "2026-03-30T00:35:10.505Z"
+generated_at: "2026-03-30T00:38:07.404Z"
 ---
 
-# § 357. Incentive pay authorities for members of the reserve components of the armed forces
+# § 357. Special and incentive pay authorities for members of the reserve components of the armed forces
 
-Notwithstanding section 1004 of this title , the Secretary concerned shall pay a member of the reserve component of an armed force incentive pay in the same monthly amount as that paid to a member in the regular component of such armed force performing comparable work requiring comparable skills.
+Notwithstanding section 1004 of this title , the Secretary concerned shall pay a member of the reserve component of an armed force special or incentive pay in the same monthly amount as that paid to a member in the regular component of such armed force performing comparable work requiring comparable skills if the Secretary concerned is paying the member of the reserve component the special or incentive pay for the purpose of—
 
+  - **(1)** maintaining a skill certification or proficiency identical to a skill certification or proficiency required of the member in the regular component; or
+  - **(2)** compensating the member of the reserve component for exposure to hazards or risks identical to hazards or risks to which the member in the regular component was exposed.

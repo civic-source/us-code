@@ -3,9 +3,9 @@ title: "Section 35 - Repealed. Pub. L. 87–304, § 9(a)(2) , Sept. 26, 1961 , 7
 usc_title: 43
 usc_section: "35"
 chapter: 2
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "43 U.S.C. § 35"
-generated_at: "2026-03-30T00:35:27.210Z"
+generated_at: "2026-03-30T00:38:15.550Z"
 ---
 
 # § 35. Repealed. Pub. L. 87–304, § 9(a)(2) , Sept. 26, 1961 , 75 Stat. 664

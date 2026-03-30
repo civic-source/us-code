@@ -3,9 +3,9 @@ title: "Section 3403 - Supplemental authorization of economic support for Egypt"
 usc_title: 22
 usc_section: "3403"
 chapter: 49
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 3403"
-generated_at: "2026-03-30T00:33:49.828Z"
+generated_at: "2026-03-30T00:37:11.305Z"
 ---
 
 # § 3403. Supplemental authorization of economic support for Egypt

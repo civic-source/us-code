@@ -3,9 +3,9 @@ title: "Section 3726 - Payment for transportation"
 usc_title: 31
 usc_section: "3726"
 chapter: 37
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "31 U.S.C. § 3726"
-generated_at: "2026-03-30T00:34:55.762Z"
+generated_at: "2026-03-30T00:38:00.877Z"
 ---
 
 # § 3726. Payment for transportation

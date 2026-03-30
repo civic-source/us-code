@@ -3,9 +3,9 @@ title: "Section 1343 - Repealed. Pub. L. 105–362, title IX, § 901(l)(1) , Nov
 usc_title: 43
 usc_section: "1343"
 chapter: 29
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "43 U.S.C. § 1343"
-generated_at: "2026-03-30T00:35:27.241Z"
+generated_at: "2026-03-30T00:38:15.583Z"
 ---
 
 # § 1343. Repealed. Pub. L. 105–362, title IX, § 901(l)(1) , Nov. 10, 1998 , 112 Stat. 3290

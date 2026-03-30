@@ -3,14 +3,20 @@ title: "Section 1528 - Congressional notification of biological select agent and
 usc_title: 50
 usc_section: "1528"
 chapter: 32
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 1528"
-generated_at: "2026-03-30T00:35:44.373Z"
+generated_at: "2026-03-30T00:38:42.478Z"
 ---
 
 # § 1528. Congressional notification of biological select agent and toxin theft, loss, or release involving the Department of Defense
 
-- **(a)** Not later than 15 days after notice of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is provided to the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, as specified by section 331.19 of part 1 1 So in original. Probably should be “title”. 7 of the Code of Federal Regulations, the Secretary of Defense shall provide to the congressional defense committees notice of such theft, loss, or release.
+- **(a)**
+  - **(1)** Subject to paragraph (2), not later than 45 days after a covered report of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is filed with the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, the Secretary of Defense, acting through the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs, shall provide to the congressional defense committees notice of such theft, loss, or release.
+  - **(2)** The Secretary shall provide to the congressional defense committees notice of a release under paragraph (1) only if the Secretary, acting through the Assistant Secretary, determines that the release is outside the barriers of secondary containment into the ambient air or environment or is causing occupational exposure that presents a threat to public safety.
+  - **(3)** In this subsection, the term “covered report” means a report filed under any of the following (or any successor regulations):
+    - **(A)** Section 331.19 of title 7, Code of Federal Regulations.
+    - **(B)** Section 121.19 of title 9, Code of Federal Regulations.
+    - **(C)** Section 73.19 of title 42, Code of Federal Regulations.
 - **(b)** Notice of a theft, loss, or release of a biological select agent or toxin under subsection (a) shall include each of the following:
   - **(1)** The name of the agent or toxin and any identifying information, including the strain or other relevant characterization information.
   - **(2)** An estimate of the quantity of the agent or toxin stolen, lost, or released.

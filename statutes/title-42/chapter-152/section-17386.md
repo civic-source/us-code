@@ -3,9 +3,9 @@ title: "Section 17386 - Federal matching fund for smart grid investment costs"
 usc_title: 42
 usc_section: "17386"
 chapter: 152
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 17386"
-generated_at: "2026-03-30T00:35:37.300Z"
+generated_at: "2026-03-30T00:38:36.224Z"
 ---
 
 # § 17386. Federal matching fund for smart grid investment costs

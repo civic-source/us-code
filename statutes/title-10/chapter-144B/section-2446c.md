@@ -3,9 +3,9 @@ title: "Section 2446c - Renumbered § 4403]"
 usc_title: 10
 usc_section: "2446c"
 chapter: 144
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2446c"
-generated_at: "2026-03-30T00:33:02.294Z"
+generated_at: "2026-03-30T00:36:31.001Z"
 ---
 
 # [§ 2446c. Renumbered § 4403]

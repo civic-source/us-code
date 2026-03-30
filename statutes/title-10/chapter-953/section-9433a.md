@@ -3,9 +3,9 @@ title: "Section 9433a - Superintendent: condition for detail to position"
 usc_title: 10
 usc_section: "9433a"
 chapter: 953
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 9433a"
-generated_at: "2026-03-30T00:33:02.367Z"
+generated_at: "2026-03-30T00:36:31.081Z"
 ---
 
 # § 9433a. Superintendent: condition for detail to position

@@ -3,9 +3,9 @@ title: "Section 2832 - Repealed. Pub. L. 95–568, § 7(a) , Nov. 2, 1978 , 92 S
 usc_title: 42
 usc_section: "2832"
 chapter: 34
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 2832"
-generated_at: "2026-03-30T00:35:36.979Z"
+generated_at: "2026-03-30T00:38:35.889Z"
 ---
 
 # § 2832. Repealed. Pub. L. 95–568, § 7(a) , Nov. 2, 1978 , 92 Stat. 2428

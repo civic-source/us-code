@@ -3,9 +3,9 @@ title: "Section 10222 - Imposition of sanctions with respect to human rights abu
 usc_title: 22
 usc_section: "10222"
 chapter: 109
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 10222"
-generated_at: "2026-03-30T00:33:49.927Z"
+generated_at: "2026-03-30T00:37:11.391Z"
 ---
 
 # § 10222. Imposition of sanctions with respect to human rights abuses and perpetration of a coup in Burma
@@ -32,7 +32,7 @@ generated_at: "2026-03-30T00:33:49.927Z"
       - **(i)** significantly prohibit, limit, or penalize the exercise of freedom of expression or assembly by people in Burma; or
       - **(ii)** limit access to print, online, or broadcast media in Burma; or
     - **(D)** the orchestration of arbitrary detention or torture in Burma or other serious human rights abuses in Burma; or
-  - **(5)**
+  - **(5)** any Burmese entity that provides materiel to the Burmese military.
 - **(d)** The sanctions described in this subsection are the following:
   - **(1)** The President may exercise all powers granted to the President by the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
   - **(2)** The President may, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the foreign person has any interest.

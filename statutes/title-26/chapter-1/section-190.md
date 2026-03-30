@@ -3,9 +3,9 @@ title: "Section 190 - Expenditures to remove architectural and transportation ba
 usc_title: 26
 usc_section: "190"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "26 U.S.C. § 190"
-generated_at: "2026-03-30T00:34:36.063Z"
+generated_at: "2026-03-30T00:37:37.648Z"
 ---
 
 # § 190. Expenditures to remove architectural and transportation barriers to the handicapped and elderly

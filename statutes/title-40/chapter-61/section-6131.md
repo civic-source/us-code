@@ -3,9 +3,9 @@ title: "Section 6131 - Public travel in Supreme Court grounds"
 usc_title: 40
 usc_section: "6131"
 chapter: 61
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "40 U.S.C. § 6131"
-generated_at: "2026-03-30T00:35:11.828Z"
+generated_at: "2026-03-30T00:38:09.069Z"
 ---
 
 # § 6131. Public travel in Supreme Court grounds

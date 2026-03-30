@@ -3,9 +3,9 @@ title: "Section 2254a - Data files of military flight operations quality assuran
 usc_title: 10
 usc_section: "2254a"
 chapter: 134
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2254a"
-generated_at: "2026-03-30T00:33:02.289Z"
+generated_at: "2026-03-30T00:36:30.995Z"
 ---
 
 # § 2254a. Data files of military flight operations quality assurance systems: exemption from disclosure under Freedom of Information Act
@@ -20,5 +20,4 @@ generated_at: "2026-03-30T00:33:02.289Z"
   - **(3)** Information that is exempt under paragraph (1) from disclosure under section 552(b)(3) of title 5 shall be exempt from such disclosure even if such information is contained in a data file that is not exempt in its entirety from such disclosure.
   - **(4)** The provisions of paragraph (1) may not be superseded except by a provision of law which is enacted after the date of the enactment of this section and which specifically cites and repeals or modifies those provisions.
 - **(b)** The Secretary of Defense shall prescribe regulations for the administration of this section. Such regulations shall ensure consistent application of the authority in subsection (a) across the military departments.
-- **(c)** The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management of the Department.
-- **(d)** Each determination of the Secretary, or the Secretary’s designee, under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request, through the Office of the Director of Administration and Management.
+- **(c)** Each determination of the Secretary under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request.

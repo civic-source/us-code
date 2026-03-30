@@ -3,9 +3,9 @@ title: "Section 492a - Annual report on the plan for the nuclear weapons stockpi
 usc_title: 10
 usc_section: "492a"
 chapter: 24
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 492a"
-generated_at: "2026-03-30T00:33:02.218Z"
+generated_at: "2026-03-30T00:36:30.918Z"
 ---
 
 # § 492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
@@ -39,3 +39,15 @@ generated_at: "2026-03-30T00:33:02.218Z"
 - **(c)** The Comptroller General of the United States shall—
   - **(1)** periodically review reports submitted under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
   - **(2)** submit to the congressional defense committees a summary of each such review.
+- **(d)**
+  - **(1)** Not later than 150 days after the submission to Congress of the budget of the President under section 1105(a) of title 31 , for each fiscal year the Commander of United States Strategic Command shall complete an independent assessment of any operational effects of the sufficiency of the execution, as of the date of the assessment, of the acquisition, construction, and recapitalization programs of the Department of Defense and the National Nuclear Security Administration to modernize the nuclear forces of the United States and meet current and future deterrence requirements.
+  - **(2)** Each assessment required under paragraph (1) shall include an evaluation of the ongoing execution of modernization programs associated with—
+    - **(A)** the nuclear weapons design, production, and sustainment infrastructure;
+    - **(B)** the nuclear weapons stockpile;
+    - **(C)** the delivery systems for nuclear weapons; and
+    - **(D)** the nuclear command, control, and communications system.
+  - **(3)**
+    - **(A)** Not later than 15 days after completion of an assessment required by paragraph (1), the Commander of United States Strategic Command shall—
+      - **(i)** submit the assessment to the Chairman of the Nuclear Weapons Council; and
+      - **(ii)** notify the congressional defense committees that the assessment has been submitted to the Chairman of the Nuclear Weapons Council.
+    - **(B)** Not later than 15 days after the Chairman of the Nuclear Weapons Council receives an assessment required by paragraph (1), the Chairman shall transmit the assessment, without change, to the congressional defense committees.

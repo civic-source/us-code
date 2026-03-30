@@ -3,9 +3,9 @@ title: "Section 53a - Authorization of appropriations"
 usc_title: 20
 usc_section: "53a"
 chapter: 3
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 53a"
-generated_at: "2026-03-30T00:33:29.912Z"
+generated_at: "2026-03-30T00:36:53.597Z"
 ---
 
 # § 53a. Authorization of appropriations

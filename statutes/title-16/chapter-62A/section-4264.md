@@ -3,9 +3,9 @@ title: "Section 4264 - Asian elephant conservation assistance"
 usc_title: 16
 usc_section: "4264"
 chapter: 62
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 4264"
-generated_at: "2026-03-30T00:33:33.092Z"
+generated_at: "2026-03-30T00:37:02.366Z"
 ---
 
 # § 4264. Asian elephant conservation assistance

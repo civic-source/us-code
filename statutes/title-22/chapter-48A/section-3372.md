@@ -3,15 +3,15 @@ title: "Section 3372 - Strategy to support Taiwan’s meaningful participation i
 usc_title: 22
 usc_section: "3372"
 chapter: 48
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 3372"
-generated_at: "2026-03-30T00:33:49.827Z"
+generated_at: "2026-03-30T00:37:11.304Z"
 ---
 
 # § 3372. Strategy to support Taiwan’s meaningful participation in international organizations
 
 - **(a)** Not later than 180 days after December 23, 2022 , the Secretary of State, in consultation with other Federal departments and agencies as appropriate, shall submit to the appropriate congressional committees a strategy—
-  - **(1)** to advance Taiwan”s meaningful participation in a prioritized set of international organizations (IOs); and
+  - **(1)** to advance Taiwan”s 1 1 So in original. Probably should be “Taiwan’s”. meaningful participation in a prioritized set of international organizations (IOs); and
   - **(2)** that responds to growing pressure from the PRC on foreign governments, IOs, commercial actors, and civil society organizations to comply with its “One-China Principle”, with respect to Taiwan.
 - **(b)** The strategy required under subsection (a) should include the following elements:
   - **(1)** An assessment of the methods the PRC uses to coerce actors to into adhering to its “One-China Principle.” The methods should include those employed against governments, IOs, and civil society organizations. The assessment should also include pressure on commercial actors, to the extent it is relevant in the context of Taiwan’s meaningful participation in IOs.

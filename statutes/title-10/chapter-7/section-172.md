@@ -3,29 +3,29 @@ title: "Section 172 - Explosive safety board"
 usc_title: 10
 usc_section: "172"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 172"
-generated_at: "2026-03-30T00:33:02.204Z"
+generated_at: "2026-03-30T00:36:30.901Z"
 ---
 
 # § 172. Explosive safety board
 
 - **(a)** The Secretary of Defense, acting through a joint board that includes members selected by the Secretaries of the military departments, composed of military officers designated as the chair and voting members of the board for each military department, and other civilian officers and employees of the Department of Defense, as necessary, shall provide oversight on storage and transportation of supplies of ammunition and components thereof for use of the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard, with particular regard to keeping those supplies properly dispersed and stored and to preventing hazardous conditions from arising to endanger life and property inside or outside of storage reservations. When the Coast Guard is not operating as a service in the Department of the Navy, the Secretary of Homeland Security shall appoint an officer of the Coast Guard to serve as a voting member of the board.
 - **(b)** The Secretaries of the military departments shall provide research, development, test, evaluation, and manufacturing oversight for energetic materials supporting military requirements.
-- **(c)** The chair of the explosive safety board shall carry out the following responsibilities:
+- **(c)** Except as provided in subsection (h), the chair of the explosive safety board shall carry out the following responsibilities:
   - **(1)** To act as the principal executive representative and advisor of the Secretary on explosive and chemical agent safety matters related to Department of Defense military munitions.
   - **(2)** To perform the hazard classification approval duties assigned to the chair.
   - **(3)** To preside over meetings of the explosive safety board.
   - **(4)** To direct the staff of the explosive safety board.
-  - **(5)** To performs 1 1 So in original. other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
+  - **(5)** To perform other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
   - **(6)** To provide impartial and objective advice related to explosives safety management to the Secretary of Defense and the heads of the military departments.
   - **(7)** To serve as the principal representative and advisor of the Department of Defense on matters relating to explosives safety management.
   - **(8)** To provide assistance and advice to the Under Secretary of Defense for Acquisition and Sustainment and the Deputy Director of Land Warfare and Munitions in munitions acquisition oversight and technology advancement for Department of Defense military munitions, especially in the areas of explosives and chemical agent safety and demilitarization.
   - **(9)** To provide assistance and advice to the Assistant Secretary of Defense for Logistics and Material Readiness in sustainment oversight of Department of Defense military munitions, especially in the areas of explosives and chemical agent safety, storage, transportation, and demilitarization.
   - **(10)** To develop and recommend issuances to define the functions of the explosive safety board.
-  - **(11)** To establishes 1 joint hazard classification procedures with covered components of the Department.
+  - **(11)** To establish joint hazard classification procedures with covered components of the Department.
   - **(12)** To make recommendations to the Under Secretary of Defense for Acquisition and Sustainment with respect to explosives and chemical agent safety tenets and requirements.
-  - **(13)** To conducts 1 oversight of Department of Defense explosive safety management programs.
+  - **(13)** To conduct oversight of Department of Defense explosive safety management programs.
   - **(14)** To carry out such other responsibilities as the Secretary of Defense determines appropriate.
 - **(d)** The executive director and civilian members of the explosive safety board shall—
   - **(1)** provide assistance to the chair in carrying out the responsibilities specified in subsection (c); and
@@ -44,3 +44,6 @@ generated_at: "2026-03-30T00:33:02.204Z"
   - **(5)** The Defense Agencies.
   - **(6)** The Department of Defense field activities.
   - **(7)** All other organizational entities within the Department.
+- **(h)**
+  - **(1)** The Secretary of Defense shall delegate to the Secretary of the Air Force, who may further delegate to the Commanders of the Space Launch Deltas, the responsibilities under subsection (c) with respect to explosives used by space launch vehicles.
+  - **(2)** In this subsection, the term “launch vehicle” has the meaning given such term in section 50902(11) of title 51 .

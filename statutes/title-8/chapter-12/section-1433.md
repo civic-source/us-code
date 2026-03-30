@@ -3,9 +3,9 @@ title: "Section 1433 - Children born and residing outside the United States; con
 usc_title: 8
 usc_section: "1433"
 chapter: 12
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "8 U.S.C. § 1433"
-generated_at: "2026-03-30T00:32:53.233Z"
+generated_at: "2026-03-30T00:36:22.476Z"
 ---
 
 # § 1433. Children born and residing outside the United States; conditions for acquiring certificate of citizenship

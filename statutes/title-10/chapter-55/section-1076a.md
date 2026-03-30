@@ -3,9 +3,9 @@ title: "Section 1076a - TRICARE dental program"
 usc_title: 10
 usc_section: "1076a"
 chapter: 55
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 1076a"
-generated_at: "2026-03-30T00:33:02.250Z"
+generated_at: "2026-03-30T00:36:30.953Z"
 ---
 
 # § 1076a. TRICARE dental program
@@ -55,7 +55,7 @@ generated_at: "2026-03-30T00:33:02.250Z"
       - **(ii)** the sum of one-half percent and the percent computed under section 5303(a) of title 5 for the increase in rates of basic pay for statutory pay systems for pay periods beginning on or after such date.
     - **(D)** During the period preceding January 1, 2026 , the Secretary of Defense may reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4 if the Secretary determines that such a reduction is appropriate to assist such members to participate in a dental plan referred to in subparagraph (A).
     - **(E)** Beginning on January 1, 2026 , the amount of the premium required under subparagraph (A)—
-      - **(i)** for standard option plans, shall be established by the Secretary annually such that in the aggregate (taking into account the adjustments under subparagraph (F) and subsection (e)(3), 1 1 So in original. Another closing parenthesis probably should precede the comma. the Secretary’s share of each premium is 60 percent of the premium for each enrollment category (self, self plus one, and family, respectively) of each standard option plan; and
+      - **(i)** for standard option plans, shall be established by the Secretary annually such that in the aggregate (taking into account the adjustments under subparagraph (F) and subsection (e)(3)), the Secretary’s share of each premium is 60 percent of the premium for each enrollment category (self, self plus one, and family, respectively) of each standard option plan; and
       - **(ii)** for non-standard option plans, shall be equal to the amount determined under clause (i) plus 100 percent of the additional premium amount applicable to such non-standard option plan.
     - **(F)** Beginning on January 1, 2026 , the Secretary of Defense shall reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
   - **(2)**

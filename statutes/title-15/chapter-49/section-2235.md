@@ -3,9 +3,9 @@ title: "Section 2235 - Investigation authorities"
 usc_title: 15
 usc_section: "2235"
 chapter: 49
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 2235"
-generated_at: "2026-03-30T00:33:18.008Z"
+generated_at: "2026-03-30T00:36:40.680Z"
 ---
 
 # § 2235. Investigation authorities

@@ -3,9 +3,9 @@ title: "Section 1488 - Nationality lost solely from performance of acts or fulfi
 usc_title: 8
 usc_section: "1488"
 chapter: 12
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "8 U.S.C. § 1488"
-generated_at: "2026-03-30T00:32:53.238Z"
+generated_at: "2026-03-30T00:36:22.478Z"
 ---
 
 # § 1488. Nationality lost solely from performance of acts or fulfillment of conditions

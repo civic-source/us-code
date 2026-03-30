@@ -3,9 +3,9 @@ title: "Section 49 - Bayou Saint John in New Orleans"
 usc_title: 33
 usc_section: "49"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "33 U.S.C. § 49"
-generated_at: "2026-03-30T00:34:45.245Z"
+generated_at: "2026-03-30T00:38:05.324Z"
 ---
 
 # § 49. Bayou Saint John in New Orleans

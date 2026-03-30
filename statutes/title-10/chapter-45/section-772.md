@@ -3,9 +3,9 @@ title: "Section 772 - When wearing by persons not on active duty authorized"
 usc_title: 10
 usc_section: "772"
 chapter: 45
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 772"
-generated_at: "2026-03-30T00:33:02.229Z"
+generated_at: "2026-03-30T00:36:30.930Z"
 ---
 
 # § 772. When wearing by persons not on active duty authorized
@@ -18,7 +18,7 @@ generated_at: "2026-03-30T00:33:02.229Z"
 - **(f)** While portraying a member of the Army, Navy, Air Force, Marine Corps, or Space Force, an actor in a theatrical or motion-picture production may wear the uniform of that armed force if the portrayal does not tend to discredit that armed force.
 - **(g)** An officer or resident of a veterans’ home administered by the Department of Veterans Affairs may wear such uniform as the Secretary of the military department concerned may prescribe.
 - **(h)** While attending a course of military instruction conducted by the Army, Navy, Air Force, Marine Corps, or Space Force, a civilian may wear the uniform prescribed by that armed force if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned.
-- **(i)** Under such regulations as the Secretary of the Air Force may prescribe, a citizen of a foreign country who graduates from an Air Force school may wear the appropriate aviation badges of the Air Force.
+- **(i)** Under such regulations as the Secretary of the Air Force may prescribe, a citizen of a foreign country who graduates from an Air Force or Space Force school may wear the appropriate aviation or space badges of the Air Force or Space Force.
 - **(j)** A person in any of the following categories may wear the uniform prescribed for that category:
   - **(1)** Members of the Boy Scouts of America.
   - **(2)** Members of any other organization designated by the Secretary of a military department.

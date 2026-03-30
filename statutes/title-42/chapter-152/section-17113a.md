@@ -3,9 +3,9 @@ title: "Section 17113a - Low-emissions steel manufacturing research program"
 usc_title: 42
 usc_section: "17113a"
 chapter: 152
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 17113a"
-generated_at: "2026-03-30T00:35:37.290Z"
+generated_at: "2026-03-30T00:38:36.213Z"
 ---
 
 # § 17113a. Low-emissions steel manufacturing research program
@@ -82,7 +82,7 @@ generated_at: "2026-03-30T00:35:37.290Z"
   - **(3)** The Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate—
     - **(A)** not less frequently than once every two years for the duration of the demonstration initiative under this subsection, a report describing the performance of the initiative; and
     - **(B)** if the initiative established under this subsection is terminated, an assessment of the success of, and education provided by, the measures carried out by recipients of financial assistance under the initiative.
-      - **(i)** Additional coordination
+- **(i)**
   - **(1)** In carrying out this section the Secretary shall consider—
     - **(A)** leveraging the resources of relevant existing Manufacturing USA Institutes described in section 278s(d) of title 15 ;
     - **(B)** integrating program activities into a relevant existing Manufacturing USA Institute; or

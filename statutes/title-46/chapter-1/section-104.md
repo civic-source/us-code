@@ -3,9 +3,9 @@ title: "Section 104 - Citizen of the United States"
 usc_title: 46
 usc_section: "104"
 chapter: 1
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "46 U.S.C. § 104"
-generated_at: "2026-03-30T00:35:42.029Z"
+generated_at: "2026-03-30T00:38:41.099Z"
 ---
 
 # § 104. Citizen of the United States

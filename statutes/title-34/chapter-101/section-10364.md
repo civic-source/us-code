@@ -3,9 +3,9 @@ title: "Section 10364 - Local applications"
 usc_title: 34
 usc_section: "10364"
 chapter: 101
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "34 U.S.C. § 10364"
-generated_at: "2026-03-30T00:34:49.252Z"
+generated_at: "2026-03-30T00:38:01.707Z"
 ---
 
 # § 10364. Local applications

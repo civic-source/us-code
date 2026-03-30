@@ -3,9 +3,9 @@ title: "Section 18793 - Energy auditor training grant program"
 usc_title: 42
 usc_section: "18793"
 chapter: 162
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 18793"
-generated_at: "2026-03-30T00:35:37.321Z"
+generated_at: "2026-03-30T00:38:36.249Z"
 ---
 
 # § 18793. Energy auditor training grant program

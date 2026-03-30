@@ -3,9 +3,9 @@ title: "Section 242m - General provisions respecting effectiveness, efficiency, 
 usc_title: 42
 usc_section: "242m"
 chapter: 6
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 242m"
-generated_at: "2026-03-30T00:35:36.516Z"
+generated_at: "2026-03-30T00:38:35.428Z"
 ---
 
 # § 242m. General provisions respecting effectiveness, efficiency, and quality of health services

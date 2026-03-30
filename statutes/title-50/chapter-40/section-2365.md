@@ -3,9 +3,9 @@ title: "Section 2365 - Sense of Congress concerning purchase, packaging, and tra
 usc_title: 50
 usc_section: "2365"
 chapter: 40
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 2365"
-generated_at: "2026-03-30T00:35:44.390Z"
+generated_at: "2026-03-30T00:38:42.497Z"
 ---
 
 # § 2365. Sense of Congress concerning purchase, packaging, and transportation of fissile materials at risk of theft

@@ -3,9 +3,9 @@ title: "Section 1381 - Withdrawal liability established; criteria and definition
 usc_title: 29
 usc_section: "1381"
 chapter: 18
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "29 U.S.C. § 1381"
-generated_at: "2026-03-30T00:34:11.701Z"
+generated_at: "2026-03-30T00:37:38.926Z"
 ---
 
 # § 1381. Withdrawal liability established; criteria and definitions

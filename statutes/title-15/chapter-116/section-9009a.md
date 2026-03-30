@@ -3,9 +3,9 @@ title: "Section 9009a - Grants for shuttered venue operators"
 usc_title: 15
 usc_section: "9009a"
 chapter: 116
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "15 U.S.C. § 9009a"
-generated_at: "2026-03-30T00:33:18.084Z"
+generated_at: "2026-03-30T00:36:40.765Z"
 ---
 
 # § 9009a. Grants for shuttered venue operators

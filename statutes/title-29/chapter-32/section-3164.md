@@ -3,9 +3,9 @@ title: "Section 3164 - Use of funds for youth workforce investment activities"
 usc_title: 29
 usc_section: "3164"
 chapter: 32
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "29 U.S.C. § 3164"
-generated_at: "2026-03-30T00:34:11.717Z"
+generated_at: "2026-03-30T00:37:38.945Z"
 ---
 
 # § 3164. Use of funds for youth workforce investment activities

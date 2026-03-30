@@ -3,9 +3,9 @@ title: "Section 4872 - Acquisition of sensitive materials from non-allied foreig
 usc_title: 10
 usc_section: "4872"
 chapter: 385
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 4872"
-generated_at: "2026-03-30T00:33:02.337Z"
+generated_at: "2026-03-30T00:36:31.049Z"
 ---
 
 # § 4872. Acquisition of sensitive materials from non-allied foreign nations: prohibition
@@ -16,8 +16,10 @@ generated_at: "2026-03-30T00:33:02.337Z"
     - **(A)** any covered nation; or
     - **(B)** any third party that the Secretary reasonably believes is acting as a broker or agent for a covered nation or an entity in a covered nation.
 - **(b)** Subsection (a) shall apply to prime contracts and subcontracts at any tier.
-- **(c)** Subsection (a) does not apply under the following circumstances:
-  - **(1)** If the Secretary of Defense determines that covered materials of satisfactory quality and quantity, in the required form, cannot be procured as and when needed at a reasonable price.
+- **(c)** Subsection (a)(1) does not apply under the following circumstances:
+  - **(1)** If the Secretary of Defense—
+    - **(A)** identifies a specific end item for which a specific covered material of satisfactory quality and quantity, in the required form, cannot be procured as and when needed at a reasonable price; and
+    - **(B)** waives subsection (a)(1) for such specific end item and such specific covered material for a period not exceeding 36 months.
   - **(2)** To the procurement of an end item described in subsection (a)(1) or the sale of any covered material described under subsection (a)(1) by the Secretary outside of the United States for use outside of the United States.
   - **(3)** To the purchase by the Secretary of an end item containing a covered material that is—
     - **(A)** a commercially available off-the-shelf item (as defined in section 104 of title 41 ), other than—

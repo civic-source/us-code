@@ -3,9 +3,9 @@ title: "Section 7014 - Termination of authority"
 usc_title: 7
 usc_section: "7014"
 chapter: 98
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 7014"
-generated_at: "2026-03-30T00:33:09.132Z"
+generated_at: "2026-03-30T00:36:25.799Z"
 ---
 
 # § 7014. Termination of authority

@@ -3,9 +3,9 @@ title: "Section 153704 - Governing body"
 usc_title: 36
 usc_section: "153704"
 chapter: 1537
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "36 U.S.C. § 153704"
-generated_at: "2026-03-30T00:35:11.413Z"
+generated_at: "2026-03-30T00:38:10.144Z"
 ---
 
 # § 153704. Governing body

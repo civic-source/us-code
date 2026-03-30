@@ -3,9 +3,9 @@ title: "Section 3548 - Semiannual report on contracts and task orders"
 usc_title: 42
 usc_section: "3548"
 chapter: 44
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 3548"
-generated_at: "2026-03-30T00:35:37.000Z"
+generated_at: "2026-03-30T00:38:35.912Z"
 ---
 
 # § 3548. Semiannual report on contracts and task orders

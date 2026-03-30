@@ -3,9 +3,9 @@ title: "Section 906 - Wireless supply chain innovation and multilateral security
 usc_title: 47
 usc_section: "906"
 chapter: 8
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "47 U.S.C. § 906"
-generated_at: "2026-03-30T00:35:42.721Z"
+generated_at: "2026-03-30T00:38:39.884Z"
 ---
 
 # § 906. Wireless supply chain innovation and multilateral security
@@ -57,15 +57,7 @@ generated_at: "2026-03-30T00:35:42.721Z"
       - **(i)** Advancing research and development of secure and trusted communications technologies.
       - **(ii)** Strengthening supply chains.
       - **(iii)** Promoting the use of trusted vendors.
-    - **(C)** Not later than 1 year after January 1, 2021 , and annually thereafter for each fiscal year during which amounts in the Multilateral Telecommunications Security Fund are available, the Secretary of State shall submit to the relevant committees of Congress a report on the status and progress of the funding mechanism established under subparagraph (B), including—
-      - **(i)** any funding commitments from foreign partners, including each specific amount committed;
-      - **(ii)** governing criteria for use of the Multilateral Telecommunications Security Fund;
-      - **(iii)** an account of—
-        - **(I)** how, and to whom, funds have been deployed;
-        - **(II)** amounts remaining in the Multilateral Telecommunications Security Fund; and
-        - **(III)** the progress of the Secretary of State in meeting the objective described in subparagraph (B); and
-      - **(iv)** additional authorities needed to enhance the effectiveness of the Multilateral Telecommunications Security Fund in achieving the security goals of the United States.
-    - **(D)**
+    - **(C)**
       - **(i)** Not later than 15 days prior to the Fund making a financial commitment associated with the provision of expenditures under subparagraph (A)(ii) in an amount in excess of $1,000,000, the Secretary of State shall submit to the appropriate congressional committees a report in writing that contains the information required by clause (ii).
       - **(ii)** The information required by this clause includes—
         - **(I)** the amount of each such expenditure;

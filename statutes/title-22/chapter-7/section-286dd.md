@@ -3,9 +3,9 @@ title: "Section 286dd - Fund bailouts of banks; rescheduling of debt"
 usc_title: 22
 usc_section: "286dd"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 286dd"
-generated_at: "2026-03-30T00:33:49.711Z"
+generated_at: "2026-03-30T00:37:11.227Z"
 ---
 
 # § 286dd. Fund bailouts of banks; rescheduling of debt

@@ -3,9 +3,9 @@ title: "Section 19158 - Definition"
 usc_title: 42
 usc_section: "19158"
 chapter: 163
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 19158"
-generated_at: "2026-03-30T00:35:37.333Z"
+generated_at: "2026-03-30T00:38:36.259Z"
 ---
 
 # § 19158. Definition

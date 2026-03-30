@@ -3,9 +3,9 @@ title: "Section 708 - Nondiscrimination provisions"
 usc_title: 42
 usc_section: "708"
 chapter: 7
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 708"
-generated_at: "2026-03-30T00:35:36.721Z"
+generated_at: "2026-03-30T00:38:35.626Z"
 ---
 
 # § 708. Nondiscrimination provisions

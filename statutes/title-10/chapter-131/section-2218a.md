@@ -3,9 +3,9 @@ title: "Section 2218a - National Sea-Based Deterrence Fund"
 usc_title: 10
 usc_section: "2218a"
 chapter: 131
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 2218a"
-generated_at: "2026-03-30T00:33:02.287Z"
+generated_at: "2026-03-30T00:36:30.994Z"
 ---
 
 # § 2218a. National Sea-Based Deterrence Fund
@@ -52,3 +52,14 @@ generated_at: "2026-03-30T00:33:02.287Z"
     - **(M)** A control surface.
     - **(N)** A launcher component.
     - **(O)** A propulsor.
+    - **(P)** Major bulkheads and tanks.
+    - **(Q)** All major pumps and motors.
+    - **(R)** Large vertical array.
+    - **(S)** Atmosphere control equipment.
+    - **(T)** Diesel systems and components.
+    - **(U)** Hydraulic valves and components.
+    - **(V)** Bearings.
+    - **(W)** Major air and blow valves and components.
+    - **(X)** Decks and superstructure.
+    - **(Y)** Castings, forgings, and tank structure.
+    - **(Z)** Hatches and hull penetrators.

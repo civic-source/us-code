@@ -3,9 +3,9 @@ title: "Section 386 - Annual report"
 usc_title: 10
 usc_section: "386"
 chapter: 16
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 386"
-generated_at: "2026-03-30T00:33:02.213Z"
+generated_at: "2026-03-30T00:36:30.912Z"
 ---
 
 # § 386. Annual report
@@ -20,7 +20,7 @@ generated_at: "2026-03-30T00:33:02.213Z"
     - **(B)** With respect to amounts made available for section 332(b) of this title , the Department of Defense incremental execution costs to conduct activities under such section.
     - **(C)** With respect to section 333 of this title , the value of all programs for which notice is required by such section.
     - **(D)** With respect to section 335 of this title , the total Department of Defense costs to fund expenses to attend training provided by the Government of Colombia that began during the period of the report.
-    - **(E)** With respect to amounts made available for section 341 of this title , the Department of Defense manpower and travel costs to conduct bi-lateral 1 1 So in original. Probably should be “bilateral”. state partnership program engagements with the partner country.
+    - **(E)** With respect to amounts made available for section 341 of this title , the Department of Defense manpower and travel costs to conduct bilateral state partnership program engagements with the partner country.
     - **(F)** With respect to amounts made available for section 342 of this title , the Department of Defense-funded, foreign-partner travel costs to attend a regional center activity that began during the period of the report.
     - **(G)** With respect to amounts made available for section 345 of this title , the estimated Department of Defense execution cost to complete all training that began during the period of the report.
     - **(H)** With respect to amounts made available for section 2561 of this title , the planned execution cost of completing humanitarian assistance activities for the partner country that were approved for the period of the report.
@@ -54,7 +54,7 @@ generated_at: "2026-03-30T00:33:02.213Z"
     - **(E)** With respect to each Government of Colombia training activity which included Department of Defense funded participants under section 335 of this title that commenced during the period of the report—
       - **(i)** the units of the defense personnel of the friendly foreign country to which the Department of Defense funded assistance was provided;
       - **(ii)** the units of the Government of Colombia that conducted the training activity;
-      - **(iii)** the duration of the training activity provided by the Government of Colombia; 2 2 So in original. Probably should be followed by “and”.
+      - **(iii)** the duration of the training activity provided by the Government of Colombia; and
       - **(iv)** a description of the objective of the training activity provided by the Government of Colombia.
     - **(F)** With respect to each activity commenced under section 341 of this title during the period of the report—
       - **(i)** a description of the activity;
@@ -66,7 +66,7 @@ generated_at: "2026-03-30T00:33:02.213Z"
       - **(ii)** the name of the Regional Center that sponsored the activity;
       - **(iii)** the location and duration of the training; and
       - **(iv)** the number of officials from the foreign country who participated the activity.
-    - **(H)** With respect to each training event that commenced under sections 3 3 So in original. 343, 345, 348, 349, 350, or 3 352 of this title during the period of the report—
+    - **(H)** With respect to each training event that commenced under section 343, 345, 348, 349, 350, or 352 of this title during the period of the report—
       - **(i)** a description of the training;
       - **(ii)** the location and duration of the training; and
       - **(iii)** the number of personnel of the foreign country trained.

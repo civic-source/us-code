@@ -3,9 +3,9 @@ title: "Section 10505 - Vice Chief of the National Guard Bureau"
 usc_title: 10
 usc_section: "10505"
 chapter: 1011
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 10505"
-generated_at: "2026-03-30T00:33:02.375Z"
+generated_at: "2026-03-30T00:36:31.089Z"
 ---
 
 # § 10505. Vice Chief of the National Guard Bureau
@@ -22,3 +22,6 @@ generated_at: "2026-03-30T00:33:02.375Z"
     - **(B)** The term of the Vice Chief of the National Guard Bureau shall end upon the appointment of a Chief of the National Guard Bureau who is a member of the same armed force as the Vice Chief.
   - **(4)** The Secretary of Defense may waive the restrictions in paragraph (2) and the provisions of paragraph (3) for not more than 90 days to provide for the orderly transition of officers appointed to serve in the positions of Chief of the National Guard Bureau and the Vice Chief of the National Guard Bureau.
 - **(b)** The Vice Chief of the National Guard Bureau performs such duties as may be prescribed by the Chief of the National Guard Bureau.
+- **(c)**
+  - **(1)** The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of general.
+  - **(2)** The Secretary of Defense shall designate, pursuant to subsection (b) of section 526 of this title , the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.

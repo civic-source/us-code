@@ -3,9 +3,9 @@ title: "Section 3373a - Support for and oversight of Unidentified Aerial Phenome
 usc_title: 50
 usc_section: "3373a"
 chapter: 45
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "50 U.S.C. § 3373a"
-generated_at: "2026-03-30T00:35:44.424Z"
+generated_at: "2026-03-30T00:38:42.535Z"
 ---
 
 # § 3373a. Support for and oversight of Unidentified Aerial Phenomena Task Force

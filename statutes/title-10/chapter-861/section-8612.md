@@ -3,12 +3,12 @@ title: "Section 8612 - Employment of outside architects and engineers"
 usc_title: 10
 usc_section: "8612"
 chapter: 861
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 8612"
-generated_at: "2026-03-30T00:33:02.356Z"
+generated_at: "2026-03-30T00:36:31.069Z"
 ---
 
 # § 8612. Employment of outside architects and engineers
 
 - **(a)** Whenever the Secretary of the Navy believes that the existing facilities of the Department of the Navy are inadequate and he considers it advantageous to national defense, he may employ, by contract or otherwise, without advertising and without reference to sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5, architectural or engineering corporations, or firms, or individual architects or engineers, to produce designs, plans, drawings, and specifications for the accomplishment of any naval public works or utilities project or for the construction of any vessel or aircraft, or part thereof.
-- **(b)** The fee for any service under this section may not exceed 6 percent of the estimated cost, as determined by the Secretary, of the project to which the fee applies.
+- **(b)** The fee for any service under this section may not exceed 10 percent of the estimated cost, as determined by the Secretary, of the project to which the fee applies.

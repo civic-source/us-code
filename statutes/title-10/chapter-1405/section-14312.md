@@ -3,9 +3,9 @@ title: "Section 14312 - Delay of promotion: voluntary"
 usc_title: 10
 usc_section: "14312"
 chapter: 1405
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 14312"
-generated_at: "2026-03-30T00:33:02.383Z"
+generated_at: "2026-03-30T00:36:31.098Z"
 ---
 
 # § 14312. Delay of promotion: voluntary

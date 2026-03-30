@@ -3,9 +3,9 @@ title: "Section 620a - Restrictions on exports of unprocessed timber originating
 usc_title: 16
 usc_section: "620a"
 chapter: 4
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 620a"
-generated_at: "2026-03-30T00:33:32.974Z"
+generated_at: "2026-03-30T00:37:02.245Z"
 ---
 
 # § 620a. Restrictions on exports of unprocessed timber originating from Federal lands

@@ -3,9 +3,9 @@ title: "Section 5334 - Training regarding anti-money laundering and countering t
 usc_title: 31
 usc_section: "5334"
 chapter: 53
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "31 U.S.C. § 5334"
-generated_at: "2026-03-30T00:34:55.771Z"
+generated_at: "2026-03-30T00:38:00.889Z"
 ---
 
 # § 5334. Training regarding anti-money laundering and countering the financing of terrorism

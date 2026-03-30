@@ -3,14 +3,14 @@ title: "Section 9020 - Inspector General"
 usc_title: 10
 usc_section: "9020"
 chapter: 903
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 9020"
-generated_at: "2026-03-30T00:33:02.364Z"
+generated_at: "2026-03-30T00:36:31.078Z"
 ---
 
 # § 9020. Inspector General
 
-- **(a)** There is an Inspector General of the Department of the Air Force who shall be detailed to such position by the Secretary of the Air Force from the general officers of the Air Force or the general, flag, or equivalent officers of the Space Force. An officer may not be detailed to such position for a tour of duty of more than four years, except that the Secretary may extend such a tour of duty if he makes a special finding that the extension is necessary in the public interest.
+- **(a)** There is an Inspector General of the Department of the Air Force who shall be detailed to such position by the Secretary of the Air Force from the general officers of the Air Force or the Space Force. An officer may not be detailed to such position for a tour of duty of more than four years, except that the Secretary may extend such a tour of duty if he makes a special finding that the extension is necessary in the public interest.
 - **(b)** When directed by the Secretary, the Chief of Staff of the Air Force, or the Chief of Space Operations, the Inspector General shall—
   - **(1)** inquire into and report upon the discipline, efficiency, and economy of the Department of the Air Force; and
   - **(2)** perform any other duties prescribed by the Secretary, the Chief of Staff, or the Chief of Space Operations.

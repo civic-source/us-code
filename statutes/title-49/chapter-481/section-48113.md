@@ -3,9 +3,9 @@ title: "Section 48113 - Reprogramming notification requirement"
 usc_title: 49
 usc_section: "48113"
 chapter: 481
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "49 U.S.C. § 48113"
-generated_at: "2026-03-30T00:36:00.220Z"
+generated_at: "2026-03-30T00:38:45.405Z"
 ---
 
 # § 48113. Reprogramming notification requirement

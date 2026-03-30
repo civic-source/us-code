@@ -3,9 +3,9 @@ title: "Section 301 - Definitions"
 usc_title: 10
 usc_section: "301"
 chapter: 16
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "10 U.S.C. § 301"
-generated_at: "2026-03-30T00:33:02.210Z"
+generated_at: "2026-03-30T00:36:30.909Z"
 ---
 
 # § 301. Definitions
@@ -30,5 +30,5 @@ In this chapter:
     - **(A)** To build and develop allied and friendly security capabilities for self-defense and multinational operations.
     - **(B)** To provide the armed forces with access to the foreign country during peacetime or a contingency operation.
     - **(C)** To build relationships that promote specific United States security interests.
-  - **(8)** The term “small-scale construction” means construction at a cost not to exceed $1,500,000 for any project.
+  - **(8)** The term “small-scale construction” means construction at a cost not to exceed $2,000,000 for any project.
   - **(9)** The term “training” has the meaning given the term “military education and training” in section 644 of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2403 ).

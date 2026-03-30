@@ -3,9 +3,9 @@ title: "Section 1140 - Information for families of individuals involved in accid
 usc_title: 49
 usc_section: "1140"
 chapter: 11
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "49 U.S.C. § 1140"
-generated_at: "2026-03-30T00:36:00.138Z"
+generated_at: "2026-03-30T00:38:45.298Z"
 ---
 
 # § 1140. Information for families of individuals involved in accidents

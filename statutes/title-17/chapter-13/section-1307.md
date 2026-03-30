@@ -3,9 +3,9 @@ title: "Section 1307 - Effect of omission of notice"
 usc_title: 17
 usc_section: "1307"
 chapter: 13
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "17 U.S.C. § 1307"
-generated_at: "2026-03-30T00:33:28.105Z"
+generated_at: "2026-03-30T00:36:46.779Z"
 ---
 
 # § 1307. Effect of omission of notice

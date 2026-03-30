@@ -3,9 +3,9 @@ title: "Section 5141 - Additional employees in offices of House Minority Leader,
 usc_title: 2
 usc_section: "5141"
 chapter: 51
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "2 U.S.C. § 5141"
-generated_at: "2026-03-30T00:32:43.040Z"
+generated_at: "2026-03-30T00:36:16.976Z"
 ---
 
 # § 5141. Additional employees in offices of House Minority Leader, Majority Whip, and Chief Deputy Majority Whip; authorization; compensation

@@ -3,9 +3,9 @@ title: "Section 3737 - Record—(Rule)"
 usc_title: 18
 usc_section: "3737"
 chapter: 235
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 3737"
-generated_at: "2026-03-30T00:33:26.815Z"
+generated_at: "2026-03-30T00:36:51.588Z"
 ---
 
 # § 3737. Record—(Rule)

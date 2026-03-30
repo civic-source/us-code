@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 16
 usc_section: "1"
 chapter: 6
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T00:33:32.986Z"
+generated_at: "2026-03-30T00:37:02.256Z"
 ---
 
 # § 698u–1. Definitions

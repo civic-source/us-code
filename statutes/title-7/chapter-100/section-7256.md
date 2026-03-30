@@ -3,9 +3,9 @@ title: "Section 7256 - Northeast Interstate Dairy Compact"
 usc_title: 7
 usc_section: "7256"
 chapter: 100
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 7256"
-generated_at: "2026-03-30T00:33:09.135Z"
+generated_at: "2026-03-30T00:36:25.803Z"
 ---
 
 # § 7256. Northeast Interstate Dairy Compact

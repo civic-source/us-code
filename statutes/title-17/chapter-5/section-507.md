@@ -3,9 +3,9 @@ title: "Section 507 - Limitations on actions"
 usc_title: 17
 usc_section: "507"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "17 U.S.C. § 507"
-generated_at: "2026-03-30T00:33:28.101Z"
+generated_at: "2026-03-30T00:36:46.774Z"
 ---
 
 # § 507. Limitations on actions

@@ -3,9 +3,9 @@ title: "Section 3515b - Prohibition on funding certain experiments involving hum
 usc_title: 42
 usc_section: "3515b"
 chapter: 43
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 3515b"
-generated_at: "2026-03-30T00:35:36.998Z"
+generated_at: "2026-03-30T00:38:35.910Z"
 ---
 
 # § 3515b. Prohibition on funding certain experiments involving human participants

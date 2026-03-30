@@ -3,9 +3,9 @@ title: "Section 1463 - Mailing indecent matter on wrappers or envelopes"
 usc_title: 18
 usc_section: "1463"
 chapter: 71
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 1463"
-generated_at: "2026-03-30T00:33:26.782Z"
+generated_at: "2026-03-30T00:36:51.552Z"
 ---
 
 # § 1463. Mailing indecent matter on wrappers or envelopes

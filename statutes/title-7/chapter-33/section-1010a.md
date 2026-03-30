@@ -3,9 +3,9 @@ title: "Section 1010a - Soil, water, and related resource data"
 usc_title: 7
 usc_section: "1010a"
 chapter: 33
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "7 U.S.C. § 1010a"
-generated_at: "2026-03-30T00:33:09.017Z"
+generated_at: "2026-03-30T00:36:25.675Z"
 ---
 
 # § 1010a. Soil, water, and related resource data

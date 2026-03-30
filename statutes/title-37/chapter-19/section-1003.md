@@ -3,9 +3,9 @@ title: "Section 1003 - Assimilation of pay and allowances"
 usc_title: 37
 usc_section: "1003"
 chapter: 19
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "37 U.S.C. § 1003"
-generated_at: "2026-03-30T00:35:10.510Z"
+generated_at: "2026-03-30T00:38:07.409Z"
 ---
 
 # § 1003. Assimilation of pay and allowances

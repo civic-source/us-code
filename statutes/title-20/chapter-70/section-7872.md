@@ -3,9 +3,9 @@ title: "Section 7872 - Approval and disapproval of local educational agency appl
 usc_title: 20
 usc_section: "7872"
 chapter: 70
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "20 U.S.C. § 7872"
-generated_at: "2026-03-30T00:33:30.055Z"
+generated_at: "2026-03-30T00:36:53.736Z"
 ---
 
 # § 7872. Approval and disapproval of local educational agency applications

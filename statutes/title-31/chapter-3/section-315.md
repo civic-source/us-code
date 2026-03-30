@@ -3,9 +3,9 @@ title: "Section 315 - Continuing in office"
 usc_title: 31
 usc_section: "315"
 chapter: 3
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "31 U.S.C. § 315"
-generated_at: "2026-03-30T00:34:55.746Z"
+generated_at: "2026-03-30T00:38:00.859Z"
 ---
 
 # § 315. Continuing in office

@@ -3,9 +3,9 @@ title: "Section 544 - Validity of transfer instruments"
 usc_title: 40
 usc_section: "544"
 chapter: 5
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "40 U.S.C. § 544"
-generated_at: "2026-03-30T00:35:11.820Z"
+generated_at: "2026-03-30T00:38:09.060Z"
 ---
 
 # § 544. Validity of transfer instruments

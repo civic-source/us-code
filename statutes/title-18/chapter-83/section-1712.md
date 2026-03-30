@@ -3,9 +3,9 @@ title: "Section 1712 - Falsification of postal returns to increase compensation"
 usc_title: 18
 usc_section: "1712"
 chapter: 83
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "18 U.S.C. § 1712"
-generated_at: "2026-03-30T00:33:26.784Z"
+generated_at: "2026-03-30T00:36:51.555Z"
 ---
 
 # § 1712. Falsification of postal returns to increase compensation

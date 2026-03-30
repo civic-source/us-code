@@ -3,9 +3,9 @@ title: "Section 253 - Duties of chief judge"
 usc_title: 28
 usc_section: "253"
 chapter: 11
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "28 U.S.C. § 253"
-generated_at: "2026-03-30T00:34:14.468Z"
+generated_at: "2026-03-30T00:37:57.001Z"
 ---
 
 # § 253. Duties of chief judge

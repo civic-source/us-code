@@ -3,9 +3,9 @@ title: "Section 3665 - Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a
 usc_title: 22
 usc_section: "3665"
 chapter: 51
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "22 U.S.C. § 3665"
-generated_at: "2026-03-30T00:33:49.830Z"
+generated_at: "2026-03-30T00:37:11.308Z"
 ---
 
 # § 3665. Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a)(3) , Nov. 18, 1997 , 111 Stat. 2065

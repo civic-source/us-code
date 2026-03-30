@@ -3,9 +3,9 @@ title: "Section 13706 - Liability for payment of rates"
 usc_title: 49
 usc_section: "13706"
 chapter: 137
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "49 U.S.C. § 13706"
-generated_at: "2026-03-30T00:36:00.157Z"
+generated_at: "2026-03-30T00:38:45.322Z"
 ---
 
 # § 13706. Liability for payment of rates

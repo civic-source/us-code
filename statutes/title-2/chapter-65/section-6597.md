@@ -3,9 +3,9 @@ title: "Section 6597 - Abolition of statutory positions in Office of Sergeant at
 usc_title: 2
 usc_section: "6597"
 chapter: 65
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "2 U.S.C. § 6597"
-generated_at: "2026-03-30T00:32:43.052Z"
+generated_at: "2026-03-30T00:36:16.983Z"
 ---
 
 # § 6597. Abolition of statutory positions in Office of Sergeant at Arms and Doorkeeper of Senate; authority to establish and fix compensation for positions

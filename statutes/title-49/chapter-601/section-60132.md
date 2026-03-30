@@ -3,9 +3,9 @@ title: "Section 60132 - National pipeline mapping system"
 usc_title: 49
 usc_section: "60132"
 chapter: 601
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "49 U.S.C. § 60132"
-generated_at: "2026-03-30T00:36:00.224Z"
+generated_at: "2026-03-30T00:38:45.410Z"
 ---
 
 # § 60132. National pipeline mapping system

@@ -3,9 +3,9 @@ title: "Section 8541 - Administration"
 usc_title: 42
 usc_section: "8541"
 chapter: 93
-current_through: "PL 118-30"
+current_through: "PL 118-34"
 classification: "42 U.S.C. § 8541"
-generated_at: "2026-03-30T00:35:37.150Z"
+generated_at: "2026-03-30T00:38:36.065Z"
 ---
 
 # § 8541. Administration
