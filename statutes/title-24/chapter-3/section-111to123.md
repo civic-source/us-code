@@ -3,9 +3,9 @@ title: "Section 111to123 - Repealed. Pub. L. 85–857, § 14(1) , (2), (7), (9),
 usc_title: 24
 usc_section: "111to123"
 chapter: 3
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "24 U.S.C. § 111to123"
-generated_at: "2026-03-30T03:19:29.770Z"
+generated_at: "2026-03-30T03:22:37.795Z"
 status: "repealed"
 ---
 

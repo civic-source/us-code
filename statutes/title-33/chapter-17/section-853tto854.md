@@ -3,9 +3,9 @@ title: "Section 853tto854 - Repealed. Pub. L. 107–372, title II, § 271(1) , (
 usc_title: 33
 usc_section: "853tto854"
 chapter: 17
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 853tto854"
-generated_at: "2026-03-30T03:20:10.128Z"
+generated_at: "2026-03-30T03:23:42.878Z"
 status: "repealed"
 ---
 

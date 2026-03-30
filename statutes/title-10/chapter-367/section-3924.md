@@ -3,9 +3,9 @@ title: "Section 3924 - Forty years or more: Army officers"
 usc_title: 10
 usc_section: "3924"
 chapter: 367
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 3924"
-generated_at: "2026-03-30T03:18:22.723Z"
+generated_at: "2026-03-30T03:21:39.565Z"
 status: "active"
 ---
 

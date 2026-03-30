@@ -3,9 +3,9 @@ title: "Section 7208 - Repealed. Pub. L. 98–525, title XIV, § 1401(d)(3)(A) ,
 usc_title: 10
 usc_section: "7208"
 chapter: 631
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 7208"
-generated_at: "2026-03-30T03:18:22.737Z"
+generated_at: "2026-03-30T03:21:39.583Z"
 status: "repealed"
 ---
 

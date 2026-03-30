@@ -3,9 +3,9 @@ title: "Section 5001 - Purpose"
 usc_title: 16
 usc_section: "5001"
 chapter: 70
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 5001"
-generated_at: "2026-03-30T03:16:15.732Z"
+generated_at: "2026-03-30T03:22:28.618Z"
 status: "active"
 ---
 

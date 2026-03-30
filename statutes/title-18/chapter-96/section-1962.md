@@ -3,9 +3,9 @@ title: "Section 1962 - Prohibited activities"
 usc_title: 18
 usc_section: "1962"
 chapter: 96
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "18 U.S.C. § 1962"
-generated_at: "2026-03-30T03:19:21.016Z"
+generated_at: "2026-03-30T03:22:29.865Z"
 status: "active"
 ---
 

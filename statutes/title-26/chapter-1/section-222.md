@@ -3,9 +3,9 @@ title: "Section 222 - Qualified tuition and related expenses"
 usc_title: 26
 usc_section: "222"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 222"
-generated_at: "2026-03-30T03:19:57.731Z"
+generated_at: "2026-03-30T03:23:39.325Z"
 status: "active"
 ---
 

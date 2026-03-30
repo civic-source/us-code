@@ -3,9 +3,9 @@ title: "Section 53508 - Separate accounts within a fund"
 usc_title: 46
 usc_section: "53508"
 chapter: 535
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "46 U.S.C. § 53508"
-generated_at: "2026-03-30T03:20:50.663Z"
+generated_at: "2026-03-30T03:24:22.644Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1111to1114 - Repealed. Pub. L. 100–690, title I, § 1007(c)(1)
 usc_title: 21
 usc_section: "1111to1114"
 chapter: 16
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "21 U.S.C. § 1111to1114"
-generated_at: "2026-03-30T03:19:31.972Z"
+generated_at: "2026-03-30T03:22:39.084Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2894 - Industry councils"
 usc_title: 29
 usc_section: "2894"
 chapter: 30
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "29 U.S.C. § 2894"
-generated_at: "2026-03-30T03:19:40.556Z"
+generated_at: "2026-03-30T03:23:15.823Z"
 status: "active"
 ---
 

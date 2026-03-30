@@ -3,9 +3,9 @@ title: "Section 2386 - Copyrights, patents, designs, etc.; acquisition"
 usc_title: 10
 usc_section: "2386"
 chapter: 141
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 2386"
-generated_at: "2026-03-30T03:18:22.698Z"
+generated_at: "2026-03-30T03:21:39.529Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19l - Tax exemptions; contributions toward costs of local govern
 usc_title: 16
 usc_section: "19l"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 19l"
-generated_at: "2026-03-30T03:16:15.523Z"
+generated_at: "2026-03-30T03:22:28.300Z"
 status: "active"
 ---
 

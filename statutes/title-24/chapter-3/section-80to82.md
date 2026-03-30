@@ -3,9 +3,9 @@ title: "Section 80to82 - Repealed. Pub. L. 85–857, § 14(3) , (18), (19), Sept
 usc_title: 24
 usc_section: "80to82"
 chapter: 3
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "24 U.S.C. § 80to82"
-generated_at: "2026-03-30T03:19:29.770Z"
+generated_at: "2026-03-30T03:22:37.795Z"
 status: "repealed"
 ---
 

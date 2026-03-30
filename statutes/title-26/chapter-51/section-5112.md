@@ -3,9 +3,9 @@ title: "Section 5112 - Registration and regulation"
 usc_title: 26
 usc_section: "5112"
 chapter: 51
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 5112"
-generated_at: "2026-03-30T03:19:57.921Z"
+generated_at: "2026-03-30T03:23:39.526Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 457 - Appropriations"
 usc_title: 22
 usc_section: "457"
 chapter: 9
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 457"
-generated_at: "2026-03-30T03:19:35.370Z"
+generated_at: "2026-03-30T03:22:42.576Z"
 status: "active"
 ---
 

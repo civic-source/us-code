@@ -3,9 +3,9 @@ title: "Section 16103 - Conserve by Bicycling Program"
 usc_title: 42
 usc_section: "16103"
 chapter: 149
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 16103"
-generated_at: "2026-03-30T03:20:42.972Z"
+generated_at: "2026-03-30T03:24:18.935Z"
 status: "active"
 ---
 

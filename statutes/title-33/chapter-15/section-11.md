@@ -3,9 +3,9 @@ title: "Section 11 - Morganza Floodway; Eudora Floodway"
 usc_title: 33
 usc_section: "11"
 chapter: 15
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 11"
-generated_at: "2026-03-30T03:20:10.125Z"
+generated_at: "2026-03-30T03:23:42.875Z"
 status: "active"
 ---
 

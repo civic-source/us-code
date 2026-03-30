@@ -3,9 +3,9 @@ title: "Section 80to82 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(9)
 usc_title: 22
 usc_section: "80to82"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 80to82"
-generated_at: "2026-03-30T03:19:35.341Z"
+generated_at: "2026-03-30T03:22:42.540Z"
 status: "repealed"
 ---
 

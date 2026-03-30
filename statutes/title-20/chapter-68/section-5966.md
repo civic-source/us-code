@@ -3,9 +3,9 @@ title: "Section 5966 - National activities"
 usc_title: 20
 usc_section: "5966"
 chapter: 68
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 5966"
-generated_at: "2026-03-30T03:19:25.617Z"
+generated_at: "2026-03-30T03:22:33.832Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 682 - Payment free of liens or claims"
 usc_title: 25
 usc_section: "682"
 chapter: 14
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 682"
-generated_at: "2026-03-30T03:19:33.103Z"
+generated_at: "2026-03-30T03:22:57.471Z"
 status: "active"
 ---
 

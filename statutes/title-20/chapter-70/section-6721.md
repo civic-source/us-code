@@ -3,9 +3,9 @@ title: "Section 6721 - Establishment of program"
 usc_title: 20
 usc_section: "6721"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 6721"
-generated_at: "2026-03-30T03:19:25.641Z"
+generated_at: "2026-03-30T03:22:33.857Z"
 status: "active"
 ---
 

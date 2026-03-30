@@ -3,9 +3,9 @@ title: "Section 6325 - Absence resulting from hostile action abroad"
 usc_title: 5
 usc_section: "6325"
 chapter: 63
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "5 U.S.C. § 6325"
-generated_at: "2026-03-30T03:18:06.144Z"
+generated_at: "2026-03-30T03:21:29.206Z"
 status: "active"
 ---
 

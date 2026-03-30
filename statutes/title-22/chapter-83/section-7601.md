@@ -3,9 +3,9 @@ title: "Section 7601 - Findings"
 usc_title: 22
 usc_section: "7601"
 chapter: 83
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 7601"
-generated_at: "2026-03-30T03:19:35.514Z"
+generated_at: "2026-03-30T03:22:42.734Z"
 status: "active"
 ---
 

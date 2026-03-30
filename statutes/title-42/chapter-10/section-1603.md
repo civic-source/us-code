@@ -3,9 +3,9 @@ title: "Section 1603 - Omitted"
 usc_title: 42
 usc_section: "1603"
 chapter: 10
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 1603"
-generated_at: "2026-03-30T03:20:42.479Z"
+generated_at: "2026-03-30T03:24:18.472Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1to14 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 10
 usc_title: 45
 usc_section: "1to14"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "45 U.S.C. § 1to14"
-generated_at: "2026-03-30T03:20:23.632Z"
+generated_at: "2026-03-30T03:23:52.228Z"
 status: "repealed"
 ---
 

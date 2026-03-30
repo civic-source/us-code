@@ -3,9 +3,9 @@ title: "Section 2662 - Return requirements"
 usc_title: 26
 usc_section: "2662"
 chapter: 13
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 2662"
-generated_at: "2026-03-30T03:19:57.884Z"
+generated_at: "2026-03-30T03:23:39.487Z"
 status: "active"
 ---
 

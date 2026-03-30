@@ -3,9 +3,9 @@ title: "Section 302a - Devices which interfere with radio reception"
 usc_title: 47
 usc_section: "302a"
 chapter: 5
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "47 U.S.C. § 302a"
-generated_at: "2026-03-30T03:20:57.104Z"
+generated_at: "2026-03-30T03:24:23.178Z"
 status: "active"
 ---
 

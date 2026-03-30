@@ -3,9 +3,9 @@ title: "Section 54 - Annotated United States Code for Members of House of Repres
 usc_title: 2
 usc_section: "54"
 chapter: 3
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 54"
-generated_at: "2026-03-30T03:17:55.434Z"
+generated_at: "2026-03-30T03:21:14.980Z"
 status: "active"
 ---
 

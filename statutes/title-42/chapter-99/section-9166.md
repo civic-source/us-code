@@ -3,9 +3,9 @@ title: "Section 9166 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9166"
 chapter: 99
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 9166"
-generated_at: "2026-03-30T03:20:42.797Z"
+generated_at: "2026-03-30T03:24:18.769Z"
 status: "active"
 ---
 

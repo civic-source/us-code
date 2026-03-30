@@ -3,9 +3,9 @@ title: "Section 666 - Public-availability requirement; national defense; patent 
 usc_title: 30
 usc_section: "666"
 chapter: 18
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "30 U.S.C. § 666"
-generated_at: "2026-03-30T03:19:38.217Z"
+generated_at: "2026-03-30T03:23:00.217Z"
 status: "active"
 ---
 

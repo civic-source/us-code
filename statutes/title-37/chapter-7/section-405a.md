@@ -3,9 +3,9 @@ title: "Section 405a - Renumbered § 475a]"
 usc_title: 37
 usc_section: "405a"
 chapter: 7
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "37 U.S.C. § 405a"
-generated_at: "2026-03-30T03:20:18.545Z"
+generated_at: "2026-03-30T03:23:46.177Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17i - Hire of work animals, vehicles and equipment with or witho
 usc_title: 16
 usc_section: "17i"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 17i"
-generated_at: "2026-03-30T03:16:15.522Z"
+generated_at: "2026-03-30T03:22:28.298Z"
 status: "active"
 ---
 

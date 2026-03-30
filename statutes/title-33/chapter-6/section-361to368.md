@@ -3,9 +3,9 @@ title: "Section 361to368 - Repealed. Pub. L. 98–89, § 4(b) , Aug. 26, 1983 , 
 usc_title: 33
 usc_section: "361to368"
 chapter: 6
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 361to368"
-generated_at: "2026-03-30T03:20:10.105Z"
+generated_at: "2026-03-30T03:23:42.857Z"
 status: "repealed"
 ---
 

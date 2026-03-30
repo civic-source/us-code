@@ -3,9 +3,9 @@ title: "Section 691 - Permanent end strength levels to support two major regiona
 usc_title: 10
 usc_section: "691"
 chapter: 39
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 691"
-generated_at: "2026-03-30T03:18:22.641Z"
+generated_at: "2026-03-30T03:21:39.450Z"
 status: "active"
 ---
 

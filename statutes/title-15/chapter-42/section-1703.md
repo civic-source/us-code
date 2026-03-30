@@ -3,9 +3,9 @@ title: "Section 1703 - Requirements respecting sale or lease of lots"
 usc_title: 15
 usc_section: "1703"
 chapter: 42
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "15 U.S.C. § 1703"
-generated_at: "2026-03-30T03:18:53.733Z"
+generated_at: "2026-03-30T03:21:55.996Z"
 status: "active"
 ---
 

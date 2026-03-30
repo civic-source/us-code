@@ -3,9 +3,9 @@ title: "Section 5961 - Special rule for transportation contracting services"
 usc_title: 16
 usc_section: "5961"
 chapter: 79
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 5961"
-generated_at: "2026-03-30T03:16:15.738Z"
+generated_at: "2026-03-30T03:22:28.626Z"
 status: "active"
 ---
 

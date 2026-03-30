@@ -3,9 +3,9 @@ title: "Section 2689to2689e - Repealed. Pub. L. 97–35, title IX, § 902(e)(2)(
 usc_title: 42
 usc_section: "2689to2689e"
 chapter: 33
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 2689to2689e"
-generated_at: "2026-03-30T03:20:42.557Z"
+generated_at: "2026-03-30T03:24:18.542Z"
 status: "repealed"
 ---
 

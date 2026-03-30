@@ -3,9 +3,9 @@ title: "Section 3837b - Duties of owners"
 usc_title: 16
 usc_section: "3837b"
 chapter: 58
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 3837b"
-generated_at: "2026-03-30T03:16:15.720Z"
+generated_at: "2026-03-30T03:22:28.600Z"
 status: "active"
 ---
 

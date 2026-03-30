@@ -3,9 +3,9 @@ title: "Section 4182 - Exemptions"
 usc_title: 26
 usc_section: "4182"
 chapter: 32
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 4182"
-generated_at: "2026-03-30T03:19:57.899Z"
+generated_at: "2026-03-30T03:23:39.503Z"
 status: "active"
 ---
 

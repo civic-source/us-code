@@ -3,9 +3,9 @@ title: "Section 853ato853l - Repealed. Pub. L. 107–372, title II, § 271(1) , 
 usc_title: 33
 usc_section: "853ato853l"
 chapter: 17
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 853ato853l"
-generated_at: "2026-03-30T03:20:10.127Z"
+generated_at: "2026-03-30T03:23:42.878Z"
 status: "repealed"
 ---
 

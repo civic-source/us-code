@@ -3,9 +3,9 @@ title: "Section 7151to7154 - Transferred]"
 usc_title: 5
 usc_section: "7151to7154"
 chapter: 71
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "5 U.S.C. § 7151to7154"
-generated_at: "2026-03-30T03:18:06.149Z"
+generated_at: "2026-03-30T03:21:29.210Z"
 status: "transferred"
 ---
 

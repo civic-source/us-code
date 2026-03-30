@@ -3,9 +3,9 @@ title: "Section 7706 - Repealed. Pub. L. 106–398, § 1 [[div. A], title XVIII,
 usc_title: 20
 usc_section: "7706"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 7706"
-generated_at: "2026-03-30T03:19:25.673Z"
+generated_at: "2026-03-30T03:22:33.890Z"
 status: "repealed"
 ---
 

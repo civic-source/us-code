@@ -3,9 +3,9 @@ title: "Section 2021 - Loans through associations or agents"
 usc_title: 12
 usc_section: "2021"
 chapter: 23
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "12 U.S.C. § 2021"
-generated_at: "2026-03-30T03:19:16.921Z"
+generated_at: "2026-03-30T03:22:00.634Z"
 status: "active"
 ---
 

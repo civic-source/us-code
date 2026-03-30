@@ -3,9 +3,9 @@ title: "Section 6363 - State formula grant applications"
 usc_title: 20
 usc_section: "6363"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 6363"
-generated_at: "2026-03-30T03:19:25.629Z"
+generated_at: "2026-03-30T03:22:33.844Z"
 status: "active"
 ---
 

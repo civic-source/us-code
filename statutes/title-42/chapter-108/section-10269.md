@@ -3,9 +3,9 @@ title: "Section 10269 - Authorization of appropriations"
 usc_title: 42
 usc_section: "10269"
 chapter: 108
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 10269"
-generated_at: "2026-03-30T03:20:42.839Z"
+generated_at: "2026-03-30T03:24:18.809Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 125 - Expenditure of moneys of tribes of Quapaw Agency"
 usc_title: 25
 usc_section: "125"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 125"
-generated_at: "2026-03-30T03:19:33.067Z"
+generated_at: "2026-03-30T03:22:57.432Z"
 status: "active"
 ---
 

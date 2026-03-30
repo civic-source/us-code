@@ -3,9 +3,9 @@ title: "Section 2750 - Transfer of defense environmental management funds"
 usc_title: 50
 usc_section: "2750"
 chapter: 42
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "50 U.S.C. § 2750"
-generated_at: "2026-03-30T03:20:46.752Z"
+generated_at: "2026-03-30T03:24:24.085Z"
 status: "active"
 ---
 

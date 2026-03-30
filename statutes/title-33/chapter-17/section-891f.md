@@ -3,9 +3,9 @@ title: "Section 891f - Use of vessels"
 usc_title: 33
 usc_section: "891f"
 chapter: 17
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 891f"
-generated_at: "2026-03-30T03:20:10.129Z"
+generated_at: "2026-03-30T03:23:42.881Z"
 status: "active"
 ---
 

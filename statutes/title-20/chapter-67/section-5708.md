@@ -3,9 +3,9 @@ title: "Section 5708 - Administrative provisions"
 usc_title: 20
 usc_section: "5708"
 chapter: 67
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 5708"
-generated_at: "2026-03-30T03:19:25.613Z"
+generated_at: "2026-03-30T03:22:33.831Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3538 - Administrative action following WTO panel reports"
 usc_title: 19
 usc_section: "3538"
 chapter: 22
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "19 U.S.C. § 3538"
-generated_at: "2026-03-30T03:19:27.402Z"
+generated_at: "2026-03-30T03:22:25.156Z"
 status: "active"
 ---
 

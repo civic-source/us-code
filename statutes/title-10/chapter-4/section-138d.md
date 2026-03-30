@@ -3,9 +3,9 @@ title: "Section 138d - Assistant Secretary of Defense for Nuclear, Chemical, and
 usc_title: 10
 usc_section: "138d"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 138d"
-generated_at: "2026-03-30T03:18:22.626Z"
+generated_at: "2026-03-30T03:21:39.430Z"
 status: "active"
 ---
 

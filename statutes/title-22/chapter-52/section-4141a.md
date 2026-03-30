@@ -3,9 +3,9 @@ title: "Section 4141a - Foreign Service Internship Program"
 usc_title: 22
 usc_section: "4141a"
 chapter: 52
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 4141a"
-generated_at: "2026-03-30T03:19:35.469Z"
+generated_at: "2026-03-30T03:22:42.686Z"
 status: "active"
 ---
 

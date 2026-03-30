@@ -3,9 +3,9 @@ title: "Section 152607 - Service of process"
 usc_title: 36
 usc_section: "152607"
 chapter: 1526
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "36 U.S.C. § 152607"
-generated_at: "2026-03-30T03:20:13.947Z"
+generated_at: "2026-03-30T03:23:46.960Z"
 status: "active"
 ---
 

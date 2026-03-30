@@ -3,9 +3,9 @@ title: "Section 4423 - Inspection of books"
 usc_title: 26
 usc_section: "4423"
 chapter: 35
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 4423"
-generated_at: "2026-03-30T03:19:57.903Z"
+generated_at: "2026-03-30T03:23:39.506Z"
 status: "active"
 ---
 

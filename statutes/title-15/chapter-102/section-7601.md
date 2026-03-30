@@ -3,9 +3,9 @@ title: "Section 7601 - Availability of contact lens prescriptions to patients"
 usc_title: 15
 usc_section: "7601"
 chapter: 102
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "15 U.S.C. § 7601"
-generated_at: "2026-03-30T03:18:53.807Z"
+generated_at: "2026-03-30T03:21:56.077Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 179B - Deduction for capital costs incurred in complying with En
 usc_title: 26
 usc_section: "179B"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 179B"
-generated_at: "2026-03-30T03:19:57.725Z"
+generated_at: "2026-03-30T03:23:39.319Z"
 status: "active"
 ---
 

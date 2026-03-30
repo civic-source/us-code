@@ -3,9 +3,9 @@ title: "Section 68f - Payment of certain expenses"
 usc_title: 2
 usc_section: "68f"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 68f"
-generated_at: "2026-03-30T03:17:55.441Z"
+generated_at: "2026-03-30T03:21:14.989Z"
 status: "active"
 ---
 

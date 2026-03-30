@@ -3,9 +3,9 @@ title: "Section 5926 - Repealed. Pub. L. 110–234, title VII, § 7209 , May 22,
 usc_title: 7
 usc_section: "5926"
 chapter: 88
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 5926"
-generated_at: "2026-03-30T03:18:29.481Z"
+generated_at: "2026-03-30T03:21:47.574Z"
 status: "repealed"
 ---
 

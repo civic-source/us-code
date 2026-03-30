@@ -3,9 +3,9 @@ title: "Section 65 - Requirement of submission of application containing certain
 usc_title: 42
 usc_section: "65"
 chapter: 6
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 65"
-generated_at: "2026-03-30T03:20:41.993Z"
+generated_at: "2026-03-30T03:24:18.206Z"
 status: "active"
 ---
 

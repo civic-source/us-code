@@ -3,9 +3,9 @@ title: "Section 231t - Short title"
 usc_title: 45
 usc_section: "231t"
 chapter: 9
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "45 U.S.C. § 231t"
-generated_at: "2026-03-30T03:20:23.643Z"
+generated_at: "2026-03-30T03:23:52.239Z"
 status: "active"
 ---
 

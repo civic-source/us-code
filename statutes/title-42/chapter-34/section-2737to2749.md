@@ -3,9 +3,9 @@ title: "Section 2737to2749 - Repealed. Pub. L. 93–203, title VI, § 614 , Dec.
 usc_title: 42
 usc_section: "2737to2749"
 chapter: 34
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 2737to2749"
-generated_at: "2026-03-30T03:20:42.557Z"
+generated_at: "2026-03-30T03:24:18.542Z"
 status: "repealed"
 ---
 

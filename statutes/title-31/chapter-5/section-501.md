@@ -3,9 +3,9 @@ title: "Section 501 - Office of Management and Budget"
 usc_title: 31
 usc_section: "501"
 chapter: 5
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "31 U.S.C. § 501"
-generated_at: "2026-03-30T03:20:01.845Z"
+generated_at: "2026-03-30T03:23:43.933Z"
 status: "active"
 ---
 

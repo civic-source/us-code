@@ -3,9 +3,9 @@ title: "Section 1512 - Tampering with a witness, victim, or an informant"
 usc_title: 18
 usc_section: "1512"
 chapter: 73
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "18 U.S.C. § 1512"
-generated_at: "2026-03-30T03:19:21.008Z"
+generated_at: "2026-03-30T03:22:29.856Z"
 status: "active"
 ---
 

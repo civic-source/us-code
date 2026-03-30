@@ -3,9 +3,9 @@ title: "Section 282 - Leases to permittees of lands showing valuable deposits; r
 usc_title: 30
 usc_section: "282"
 chapter: 3
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "30 U.S.C. § 282"
-generated_at: "2026-03-30T03:19:38.213Z"
+generated_at: "2026-03-30T03:23:00.212Z"
 status: "active"
 ---
 

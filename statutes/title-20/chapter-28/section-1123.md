@@ -3,9 +3,9 @@ title: "Section 1123 - Language resource centers"
 usc_title: 20
 usc_section: "1123"
 chapter: 28
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 1123"
-generated_at: "2026-03-30T03:19:25.502Z"
+generated_at: "2026-03-30T03:22:33.767Z"
 status: "active"
 ---
 

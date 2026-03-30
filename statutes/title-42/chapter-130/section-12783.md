@@ -3,9 +3,9 @@ title: "Section 12783 - Conditions of contracts"
 usc_title: 42
 usc_section: "12783"
 chapter: 130
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 12783"
-generated_at: "2026-03-30T03:20:42.899Z"
+generated_at: "2026-03-30T03:24:18.867Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 305 - Under Secretary for Health"
 usc_title: 38
 usc_section: "305"
 chapter: 3
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "38 U.S.C. § 305"
-generated_at: "2026-03-30T03:20:15.725Z"
+generated_at: "2026-03-30T03:23:49.183Z"
 status: "active"
 ---
 

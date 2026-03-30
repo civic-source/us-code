@@ -3,9 +3,9 @@ title: "Section 15904 - Rights and remedies of persons injured by pipeline carri
 usc_title: 49
 usc_section: "15904"
 chapter: 159
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "49 U.S.C. § 15904"
-generated_at: "2026-03-30T03:20:49.599Z"
+generated_at: "2026-03-30T03:24:26.422Z"
 status: "active"
 ---
 

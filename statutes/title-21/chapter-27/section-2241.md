@@ -3,9 +3,9 @@ title: "Section 2241 - Inspection by the Secretary of Commerce"
 usc_title: 21
 usc_section: "2241"
 chapter: 27
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "21 U.S.C. § 2241"
-generated_at: "2026-03-30T03:19:31.982Z"
+generated_at: "2026-03-30T03:22:39.095Z"
 status: "active"
 ---
 

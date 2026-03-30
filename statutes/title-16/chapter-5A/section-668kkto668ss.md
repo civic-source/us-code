@@ -3,9 +3,9 @@ title: "Section 668kkto668ss - Omitted"
 usc_title: 16
 usc_section: "668kkto668ss"
 chapter: 5
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 668kkto668ss"
-generated_at: "2026-03-30T03:16:15.630Z"
+generated_at: "2026-03-30T03:22:28.462Z"
 status: "omitted"
 ---
 

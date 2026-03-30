@@ -3,9 +3,9 @@ title: "Section 13742 - Ounce of prevention grant program"
 usc_title: 42
 usc_section: "13742"
 chapter: 136
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 13742"
-generated_at: "2026-03-30T03:20:42.924Z"
+generated_at: "2026-03-30T03:24:18.890Z"
 status: "active"
 ---
 

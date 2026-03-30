@@ -3,9 +3,9 @@ title: "Section 6406 - Prohibition of administrative review of decisions"
 usc_title: 26
 usc_section: "6406"
 chapter: 65
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 6406"
-generated_at: "2026-03-30T03:19:57.959Z"
+generated_at: "2026-03-30T03:23:39.564Z"
 status: "active"
 ---
 

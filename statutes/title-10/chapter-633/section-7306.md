@@ -3,9 +3,9 @@ title: "Section 7306 - Vessels stricken from Naval Vessel Register; captured ves
 usc_title: 10
 usc_section: "7306"
 chapter: 633
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 7306"
-generated_at: "2026-03-30T03:18:22.738Z"
+generated_at: "2026-03-30T03:21:39.584Z"
 status: "active"
 ---
 

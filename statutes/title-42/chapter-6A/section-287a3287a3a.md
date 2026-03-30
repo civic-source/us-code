@@ -3,9 +3,9 @@ title: "Section 287a3287a3a - Transferred"
 usc_title: 42
 usc_section: "287a3287a3a"
 chapter: 6
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 287a3287a3a"
-generated_at: "2026-03-30T03:20:41.913Z"
+generated_at: "2026-03-30T03:24:18.125Z"
 status: "transferred"
 ---
 

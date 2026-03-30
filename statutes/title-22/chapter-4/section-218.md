@@ -3,9 +3,9 @@ title: "Section 218 - Returns as to passports issued, etc."
 usc_title: 22
 usc_section: "218"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 218"
-generated_at: "2026-03-30T03:19:35.342Z"
+generated_at: "2026-03-30T03:22:42.540Z"
 status: "active"
 ---
 

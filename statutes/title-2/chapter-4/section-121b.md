@@ -3,9 +3,9 @@ title: "Section 121b - Senate Beauty Shop"
 usc_title: 2
 usc_section: "121b"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 121b"
-generated_at: "2026-03-30T03:17:55.447Z"
+generated_at: "2026-03-30T03:21:14.994Z"
 status: "active"
 ---
 

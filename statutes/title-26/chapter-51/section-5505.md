@@ -3,9 +3,9 @@ title: "Section 5505 - Applicability of provisions of this chapter"
 usc_title: 26
 usc_section: "5505"
 chapter: 51
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 5505"
-generated_at: "2026-03-30T03:19:57.926Z"
+generated_at: "2026-03-30T03:23:39.530Z"
 status: "active"
 ---
 

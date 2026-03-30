@@ -3,9 +3,9 @@ title: "Section 1774 - Findings and purposes"
 usc_title: 25
 usc_section: "1774"
 chapter: 19
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 1774"
-generated_at: "2026-03-30T03:19:33.146Z"
+generated_at: "2026-03-30T03:22:57.521Z"
 status: "active"
 ---
 

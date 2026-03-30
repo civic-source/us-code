@@ -3,9 +3,9 @@ title: "Section 1051a - Liaison officers of certain foreign nations; administrat
 usc_title: 10
 usc_section: "1051a"
 chapter: 53
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 1051a"
-generated_at: "2026-03-30T03:18:22.652Z"
+generated_at: "2026-03-30T03:21:39.466Z"
 status: "active"
 ---
 

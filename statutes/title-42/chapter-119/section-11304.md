@@ -3,9 +3,9 @@ title: "Section 11304 - Evaluation by Comptroller General"
 usc_title: 42
 usc_section: "11304"
 chapter: 119
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 11304"
-generated_at: "2026-03-30T03:20:42.855Z"
+generated_at: "2026-03-30T03:24:18.823Z"
 status: "active"
 ---
 

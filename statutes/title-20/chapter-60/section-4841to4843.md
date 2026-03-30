@@ -3,9 +3,9 @@ title: "Section 4841to4843 - Repealed. Pub. L. 103–382, title III, § 365 , Oc
 usc_title: 20
 usc_section: "4841to4843"
 chapter: 60
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 4841to4843"
-generated_at: "2026-03-30T03:19:25.609Z"
+generated_at: "2026-03-30T03:22:33.828Z"
 status: "repealed"
 ---
 

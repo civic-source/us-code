@@ -3,9 +3,9 @@ title: "Section 72d - Discretionary authority of Senate Committee on Appropriati
 usc_title: 2
 usc_section: "72d"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 72d"
-generated_at: "2026-03-30T03:17:55.441Z"
+generated_at: "2026-03-30T03:21:14.990Z"
 status: "active"
 ---
 

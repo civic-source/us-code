@@ -3,9 +3,9 @@ title: "Section 11 - Delegation of powers and duties by Secretary of the Interio
 usc_title: 16
 usc_section: "11"
 chapter: 3
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T03:16:15.627Z"
+generated_at: "2026-03-30T03:22:28.455Z"
 status: "active"
 ---
 

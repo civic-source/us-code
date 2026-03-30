@@ -3,9 +3,9 @@ title: "Section 5731 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5731"
 chapter: 52
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 5731"
-generated_at: "2026-03-30T03:19:57.929Z"
+generated_at: "2026-03-30T03:23:39.533Z"
 status: "active"
 ---
 

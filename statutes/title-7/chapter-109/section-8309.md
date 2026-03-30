@@ -3,9 +3,9 @@ title: "Section 8309 - Veterinary accreditation program"
 usc_title: 7
 usc_section: "8309"
 chapter: 109
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 8309"
-generated_at: "2026-03-30T03:18:29.525Z"
+generated_at: "2026-03-30T03:21:47.625Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1346 - Environmental studies"
 usc_title: 43
 usc_section: "1346"
 chapter: 29
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "43 U.S.C. § 1346"
-generated_at: "2026-03-30T03:20:21.393Z"
+generated_at: "2026-03-30T03:23:53.382Z"
 status: "active"
 ---
 

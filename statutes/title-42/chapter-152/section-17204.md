@@ -3,9 +3,9 @@ title: "Section 17204 - High cost region geothermal energy grant program"
 usc_title: 42
 usc_section: "17204"
 chapter: 152
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 17204"
-generated_at: "2026-03-30T03:20:43.000Z"
+generated_at: "2026-03-30T03:24:18.961Z"
 status: "active"
 ---
 

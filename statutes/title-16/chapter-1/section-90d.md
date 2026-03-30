@@ -3,9 +3,9 @@ title: "Section 90d - Distributive share of counties of receipts for schools and
 usc_title: 16
 usc_section: "90d"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 90d"
-generated_at: "2026-03-30T03:16:15.528Z"
+generated_at: "2026-03-30T03:22:28.308Z"
 status: "active"
 ---
 

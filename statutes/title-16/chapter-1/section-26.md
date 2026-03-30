@@ -3,9 +3,9 @@ title: "Section 26 - Cooperative authorities and gifts"
 usc_title: 16
 usc_section: "26"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 26"
-generated_at: "2026-03-30T03:16:15.597Z"
+generated_at: "2026-03-30T03:22:28.412Z"
 status: "active"
 ---
 

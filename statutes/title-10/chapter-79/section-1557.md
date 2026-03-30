@@ -3,9 +3,9 @@ title: "Section 1557 - Timeliness standards for disposition of applications befo
 usc_title: 10
 usc_section: "1557"
 chapter: 79
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 1557"
-generated_at: "2026-03-30T03:18:22.673Z"
+generated_at: "2026-03-30T03:21:39.495Z"
 status: "active"
 ---
 

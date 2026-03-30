@@ -3,9 +3,9 @@ title: "Section 4216 - Posting rates of fees"
 usc_title: 22
 usc_section: "4216"
 chapter: 52
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 4216"
-generated_at: "2026-03-30T03:19:35.470Z"
+generated_at: "2026-03-30T03:22:42.687Z"
 status: "active"
 ---
 

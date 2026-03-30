@@ -3,9 +3,9 @@ title: "Section 4706 - Renumbered § 4705]"
 usc_title: 5
 usc_section: "4706"
 chapter: 47
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "5 U.S.C. § 4706"
-generated_at: "2026-03-30T03:18:06.120Z"
+generated_at: "2026-03-30T03:21:29.184Z"
 status: "renumbered"
 ---
 

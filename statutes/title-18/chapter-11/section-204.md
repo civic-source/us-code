@@ -3,9 +3,9 @@ title: "Section 204 - Practice in United States Court of Federal Claims or the U
 usc_title: 18
 usc_section: "204"
 chapter: 11
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "18 U.S.C. § 204"
-generated_at: "2026-03-30T03:19:20.977Z"
+generated_at: "2026-03-30T03:22:29.820Z"
 status: "active"
 ---
 

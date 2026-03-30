@@ -3,9 +3,9 @@ title: "Section 1974c - Disclosure of records or papers"
 usc_title: 42
 usc_section: "1974c"
 chapter: 20
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 1974c"
-generated_at: "2026-03-30T03:20:42.519Z"
+generated_at: "2026-03-30T03:24:18.507Z"
 status: "active"
 ---
 

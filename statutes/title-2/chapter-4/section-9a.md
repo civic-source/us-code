@@ -3,9 +3,9 @@ title: "Section 9a - Travel expenses of Secretary of Senate; advancement of trav
 usc_title: 2
 usc_section: "9a"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 9a"
-generated_at: "2026-03-30T03:17:55.438Z"
+generated_at: "2026-03-30T03:21:14.986Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5962 - Use of nonmonetary consideration in concessions contracts
 usc_title: 16
 usc_section: "5962"
 chapter: 79
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 5962"
-generated_at: "2026-03-30T03:16:15.738Z"
+generated_at: "2026-03-30T03:22:28.626Z"
 status: "active"
 ---
 

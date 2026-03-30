@@ -3,9 +3,9 @@ title: "Section 7321b - Limitations on administrative expenditures"
 usc_title: 20
 usc_section: "7321b"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 7321b"
-generated_at: "2026-03-30T03:19:25.665Z"
+generated_at: "2026-03-30T03:22:33.881Z"
 status: "active"
 ---
 

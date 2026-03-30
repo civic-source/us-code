@@ -3,9 +3,9 @@ title: "Section 6295to6298 - Repealed. Pub. L. 90–235 , §§ 3(a)(2), (b)(1), 
 usc_title: 10
 usc_section: "6295to6298"
 chapter: 569
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 6295to6298"
-generated_at: "2026-03-30T03:18:22.732Z"
+generated_at: "2026-03-30T03:21:39.577Z"
 status: "repealed"
 ---
 

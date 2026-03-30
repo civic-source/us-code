@@ -3,9 +3,9 @@ title: "Section 4481to4485 - Repealed. Pub. L. 93–288, title VII, § 703 , for
 usc_title: 42
 usc_section: "4481to4485"
 chapter: 58
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 4481to4485"
-generated_at: "2026-03-30T03:20:42.622Z"
+generated_at: "2026-03-30T03:24:18.601Z"
 status: "repealed"
 ---
 

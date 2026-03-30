@@ -3,9 +3,9 @@ title: "Section 414 - Trespassing for hunting, or shooting"
 usc_title: 16
 usc_section: "414"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 414"
-generated_at: "2026-03-30T03:16:15.560Z"
+generated_at: "2026-03-30T03:22:28.357Z"
 status: "active"
 ---
 

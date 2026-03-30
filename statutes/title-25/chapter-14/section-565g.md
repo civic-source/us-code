@@ -3,9 +3,9 @@ title: "Section 565g - Rules and regulations"
 usc_title: 25
 usc_section: "565g"
 chapter: 14
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 565g"
-generated_at: "2026-03-30T03:19:33.093Z"
+generated_at: "2026-03-30T03:22:57.460Z"
 status: "active"
 ---
 

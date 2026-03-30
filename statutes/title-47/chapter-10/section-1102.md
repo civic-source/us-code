@@ -3,9 +3,9 @@ title: "Section 1102 - LOCAL Television Loan Guarantee Board"
 usc_title: 47
 usc_section: "1102"
 chapter: 10
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "47 U.S.C. § 1102"
-generated_at: "2026-03-30T03:20:57.140Z"
+generated_at: "2026-03-30T03:24:23.207Z"
 status: "active"
 ---
 

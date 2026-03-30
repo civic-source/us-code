@@ -3,9 +3,9 @@ title: "Section 18121 - Implementation funding"
 usc_title: 42
 usc_section: "18121"
 chapter: 157
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 18121"
-generated_at: "2026-03-30T03:20:43.019Z"
+generated_at: "2026-03-30T03:24:18.981Z"
 status: "active"
 ---
 

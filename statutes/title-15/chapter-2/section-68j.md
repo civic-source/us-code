@@ -3,9 +3,9 @@ title: "Section 68j - Exceptions from subchapter"
 usc_title: 15
 usc_section: "68j"
 chapter: 2
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "15 U.S.C. § 68j"
-generated_at: "2026-03-30T03:18:53.570Z"
+generated_at: "2026-03-30T03:21:55.829Z"
 status: "active"
 ---
 

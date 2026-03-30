@@ -3,9 +3,9 @@ title: "Section 1 - Dominguez-Escalante National Conservation Area"
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T03:16:15.603Z"
+generated_at: "2026-03-30T03:22:28.419Z"
 status: "active"
 ---
 

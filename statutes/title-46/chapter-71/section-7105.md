@@ -3,9 +3,9 @@ title: "Section 7105 - Oaths"
 usc_title: 46
 usc_section: "7105"
 chapter: 71
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "46 U.S.C. § 7105"
-generated_at: "2026-03-30T03:20:50.641Z"
+generated_at: "2026-03-30T03:24:22.621Z"
 status: "active"
 ---
 

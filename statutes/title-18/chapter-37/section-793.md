@@ -3,9 +3,9 @@ title: "Section 793 - Gathering, transmitting or losing defense information"
 usc_title: 18
 usc_section: "793"
 chapter: 37
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "18 U.S.C. § 793"
-generated_at: "2026-03-30T03:19:20.990Z"
+generated_at: "2026-03-30T03:22:29.833Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3331 - Tariff modifications"
 usc_title: 19
 usc_section: "3331"
 chapter: 21
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "19 U.S.C. § 3331"
-generated_at: "2026-03-30T03:19:27.394Z"
+generated_at: "2026-03-30T03:22:25.149Z"
 status: "active"
 ---
 

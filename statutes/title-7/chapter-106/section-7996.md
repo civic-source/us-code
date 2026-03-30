@@ -3,9 +3,9 @@ title: "Section 7996 - Equitable relief from ineligibility for loans, payments, 
 usc_title: 7
 usc_section: "7996"
 chapter: 106
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 7996"
-generated_at: "2026-03-30T03:18:29.521Z"
+generated_at: "2026-03-30T03:21:47.619Z"
 status: "active"
 ---
 

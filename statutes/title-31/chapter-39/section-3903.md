@@ -3,9 +3,9 @@ title: "Section 3903 - Regulations"
 usc_title: 31
 usc_section: "3903"
 chapter: 39
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "31 U.S.C. § 3903"
-generated_at: "2026-03-30T03:20:01.866Z"
+generated_at: "2026-03-30T03:23:43.954Z"
 status: "active"
 ---
 

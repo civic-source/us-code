@@ -3,9 +3,9 @@ title: "Section 1446a - Dairy products; availability through Commodity Credit Co
 usc_title: 7
 usc_section: "1446a"
 chapter: 35
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 1446a"
-generated_at: "2026-03-30T03:18:29.390Z"
+generated_at: "2026-03-30T03:21:47.470Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 527 - Political organizations"
 usc_title: 26
 usc_section: "527"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 527"
-generated_at: "2026-03-30T03:19:57.792Z"
+generated_at: "2026-03-30T03:23:39.391Z"
 status: "active"
 ---
 

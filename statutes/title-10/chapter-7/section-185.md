@@ -3,9 +3,9 @@ title: "Section 185 - Financial Management Modernization Executive Committee"
 usc_title: 10
 usc_section: "185"
 chapter: 7
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 185"
-generated_at: "2026-03-30T03:18:22.629Z"
+generated_at: "2026-03-30T03:21:39.435Z"
 status: "active"
 ---
 

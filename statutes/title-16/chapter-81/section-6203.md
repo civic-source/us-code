@@ -3,9 +3,9 @@ title: "Section 6203 - Definitions"
 usc_title: 16
 usc_section: "6203"
 chapter: 81
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 6203"
-generated_at: "2026-03-30T03:16:15.738Z"
+generated_at: "2026-03-30T03:22:28.627Z"
 status: "active"
 ---
 

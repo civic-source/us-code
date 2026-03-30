@@ -3,9 +3,9 @@ title: "Section 366a - Effect of Internal Revenue Code"
 usc_title: 45
 usc_section: "366a"
 chapter: 11
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "45 U.S.C. § 366a"
-generated_at: "2026-03-30T03:20:23.647Z"
+generated_at: "2026-03-30T03:23:52.243Z"
 status: "active"
 ---
 

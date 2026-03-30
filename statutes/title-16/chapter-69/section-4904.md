@@ -3,9 +3,9 @@ title: "Section 4904 - Moratoria on imports of exotic birds covered by Conventio
 usc_title: 16
 usc_section: "4904"
 chapter: 69
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 4904"
-generated_at: "2026-03-30T03:16:15.731Z"
+generated_at: "2026-03-30T03:22:28.617Z"
 status: "active"
 ---
 

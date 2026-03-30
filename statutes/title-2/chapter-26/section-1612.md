@@ -3,9 +3,9 @@ title: "Section 1612 - Sense of Senate that lobbying expenses should remain nond
 usc_title: 2
 usc_section: "1612"
 chapter: 26
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 1612"
-generated_at: "2026-03-30T03:17:55.490Z"
+generated_at: "2026-03-30T03:21:15.036Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 111112 - Repealed. Pub. L. 107–171, title X, § 10418(a)(7) , 
 usc_title: 21
 usc_section: "111112"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "21 U.S.C. § 111112"
-generated_at: "2026-03-30T03:19:31.893Z"
+generated_at: "2026-03-30T03:22:38.996Z"
 status: "repealed"
 ---
 

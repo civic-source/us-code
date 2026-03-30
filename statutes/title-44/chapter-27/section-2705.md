@@ -3,9 +3,9 @@ title: "Section 2705 - Compensation and travel expenses"
 usc_title: 44
 usc_section: "2705"
 chapter: 27
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "44 U.S.C. § 2705"
-generated_at: "2026-03-30T03:20:24.709Z"
+generated_at: "2026-03-30T03:23:51.535Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3316 - Rules and regulations"
 usc_title: 7
 usc_section: "3316"
 chapter: 64
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 3316"
-generated_at: "2026-03-30T03:18:29.461Z"
+generated_at: "2026-03-30T03:21:47.551Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2072 - Rules of procedure and evidence; power to prescribe"
 usc_title: 28
 usc_section: "2072"
 chapter: 131
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "28 U.S.C. § 2072"
-generated_at: "2026-03-30T03:19:39.358Z"
+generated_at: "2026-03-30T03:23:16.871Z"
 status: "active"
 ---
 

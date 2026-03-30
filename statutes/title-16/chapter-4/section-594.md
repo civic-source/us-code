@@ -3,9 +3,9 @@ title: "Section 594 - Protection of timber owned by United States from fire, dis
 usc_title: 16
 usc_section: "594"
 chapter: 4
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 594"
-generated_at: "2026-03-30T03:16:15.627Z"
+generated_at: "2026-03-30T03:22:28.455Z"
 status: "active"
 ---
 

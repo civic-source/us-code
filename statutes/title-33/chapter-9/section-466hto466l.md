@@ -3,9 +3,9 @@ title: "Section 466hto466l - Transferred"
 usc_title: 33
 usc_section: "466hto466l"
 chapter: 9
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 466hto466l"
-generated_at: "2026-03-30T03:20:10.111Z"
+generated_at: "2026-03-30T03:23:42.861Z"
 status: "transferred"
 ---
 

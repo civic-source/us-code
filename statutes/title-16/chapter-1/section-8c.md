@@ -3,9 +3,9 @@ title: "Section 8c - National-park approach roads across or within national fore
 usc_title: 16
 usc_section: "8c"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 8c"
-generated_at: "2026-03-30T03:16:15.521Z"
+generated_at: "2026-03-30T03:22:28.298Z"
 status: "active"
 ---
 

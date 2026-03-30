@@ -3,9 +3,9 @@ title: "Section 1902 - Preservation and management of areas by Secretary of the 
 usc_title: 16
 usc_section: "1902"
 chapter: 39
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 1902"
-generated_at: "2026-03-30T03:16:15.699Z"
+generated_at: "2026-03-30T03:22:28.567Z"
 status: "active"
 ---
 

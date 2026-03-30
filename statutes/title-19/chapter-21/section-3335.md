@@ -3,9 +3,9 @@ title: "Section 3335 - Monitoring of television and picture tube imports"
 usc_title: 19
 usc_section: "3335"
 chapter: 21
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "19 U.S.C. § 3335"
-generated_at: "2026-03-30T03:19:27.396Z"
+generated_at: "2026-03-30T03:22:25.150Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2170 - Battery recharging stations for privately owned vehicles 
 usc_title: 2
 usc_section: "2170"
 chapter: 30
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 2170"
-generated_at: "2026-03-30T03:17:55.502Z"
+generated_at: "2026-03-30T03:21:15.047Z"
 status: "active"
 ---
 

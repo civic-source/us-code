@@ -3,9 +3,9 @@ title: "Section 2301 - Congressional statement of findings and purpose"
 usc_title: 16
 usc_section: "2301"
 chapter: 43
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 2301"
-generated_at: "2026-03-30T03:16:15.703Z"
+generated_at: "2026-03-30T03:22:28.573Z"
 status: "active"
 ---
 

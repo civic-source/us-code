@@ -3,9 +3,9 @@ title: "Section 5402 - National maritime heritage policy"
 usc_title: 16
 usc_section: "5402"
 chapter: 74
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 5402"
-generated_at: "2026-03-30T03:16:15.733Z"
+generated_at: "2026-03-30T03:22:28.621Z"
 status: "active"
 ---
 

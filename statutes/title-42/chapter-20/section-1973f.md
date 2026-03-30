@@ -3,9 +3,9 @@ title: "Section 1973f - Use of observers"
 usc_title: 42
 usc_section: "1973f"
 chapter: 20
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 1973f"
-generated_at: "2026-03-30T03:20:42.514Z"
+generated_at: "2026-03-30T03:24:18.504Z"
 status: "active"
 ---
 

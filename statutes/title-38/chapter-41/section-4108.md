@@ -3,9 +3,9 @@ title: "Section 4108 - Cooperation and coordination"
 usc_title: 38
 usc_section: "4108"
 chapter: 41
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "38 U.S.C. § 4108"
-generated_at: "2026-03-30T03:20:15.771Z"
+generated_at: "2026-03-30T03:23:49.231Z"
 status: "active"
 ---
 

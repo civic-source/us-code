@@ -3,9 +3,9 @@ title: "Section 1831 - Human resources program"
 usc_title: 2
 usc_section: "1831"
 chapter: 28
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 1831"
-generated_at: "2026-03-30T03:17:55.492Z"
+generated_at: "2026-03-30T03:21:15.038Z"
 status: "active"
 ---
 

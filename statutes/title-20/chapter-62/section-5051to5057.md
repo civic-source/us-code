@@ -3,9 +3,9 @@ title: "Section 5051to5057 - Repealed. Pub. L. 103–382, title III, § 391(i) ,
 usc_title: 20
 usc_section: "5051to5057"
 chapter: 62
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 5051to5057"
-generated_at: "2026-03-30T03:19:25.610Z"
+generated_at: "2026-03-30T03:22:33.828Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 126 - Transfer of funds and employees"
 usc_title: 10
 usc_section: "126"
 chapter: 3
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 126"
-generated_at: "2026-03-30T03:18:22.624Z"
+generated_at: "2026-03-30T03:21:39.427Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 422 - Dairying and livestock experiment station, Lewisburg, Tenn
 usc_title: 7
 usc_section: "422"
 chapter: 17
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 422"
-generated_at: "2026-03-30T03:18:29.356Z"
+generated_at: "2026-03-30T03:21:47.430Z"
 status: "active"
 ---
 

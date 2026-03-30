@@ -3,9 +3,9 @@ title: "Section 95to98a - Repealed. Pub. L. 86–649, title II, § 204(b) , July
 usc_title: 43
 usc_section: "95to98a"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "43 U.S.C. § 95to98a"
-generated_at: "2026-03-30T03:20:21.349Z"
+generated_at: "2026-03-30T03:23:53.339Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450k - Rules and regulations"
 usc_title: 25
 usc_section: "450k"
 chapter: 14
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 450k"
-generated_at: "2026-03-30T03:19:33.083Z"
+generated_at: "2026-03-30T03:22:57.448Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2209 - Trusteeship title of United States for any Indian or Indi
 usc_title: 25
 usc_section: "2209"
 chapter: 24
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 2209"
-generated_at: "2026-03-30T03:19:33.163Z"
+generated_at: "2026-03-30T03:22:57.541Z"
 status: "active"
 ---
 

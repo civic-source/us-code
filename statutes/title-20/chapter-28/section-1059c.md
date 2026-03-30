@@ -3,9 +3,9 @@ title: "Section 1059c - American Indian tribally controlled colleges and univers
 usc_title: 20
 usc_section: "1059c"
 chapter: 28
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 1059c"
-generated_at: "2026-03-30T03:19:25.450Z"
+generated_at: "2026-03-30T03:22:33.709Z"
 status: "active"
 ---
 

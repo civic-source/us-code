@@ -3,9 +3,9 @@ title: "Section 8133 - Compensation in case of death"
 usc_title: 5
 usc_section: "8133"
 chapter: 81
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "5 U.S.C. § 8133"
-generated_at: "2026-03-30T03:18:06.156Z"
+generated_at: "2026-03-30T03:21:29.216Z"
 status: "active"
 ---
 

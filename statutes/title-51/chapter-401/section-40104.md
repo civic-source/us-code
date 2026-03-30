@@ -3,9 +3,9 @@ title: "Section 40104 - Cooperation among Mission Directorates"
 usc_title: 51
 usc_section: "40104"
 chapter: 401
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "51 U.S.C. § 40104"
-generated_at: "2026-03-30T03:20:59.194Z"
+generated_at: "2026-03-30T03:24:29.903Z"
 status: "active"
 ---
 

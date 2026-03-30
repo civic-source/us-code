@@ -3,9 +3,9 @@ title: "Section 31 - Authority to collect and use fees"
 usc_title: 21
 usc_section: "31"
 chapter: 9
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "21 U.S.C. § 31"
-generated_at: "2026-03-30T03:19:31.938Z"
+generated_at: "2026-03-30T03:22:39.047Z"
 status: "active"
 ---
 

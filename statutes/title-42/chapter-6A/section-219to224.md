@@ -3,9 +3,9 @@ title: "Section 219to224 - Transferred"
 usc_title: 42
 usc_section: "219to224"
 chapter: 6
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 219to224"
-generated_at: "2026-03-30T03:20:41.843Z"
+generated_at: "2026-03-30T03:24:18.051Z"
 status: "transferred"
 ---
 

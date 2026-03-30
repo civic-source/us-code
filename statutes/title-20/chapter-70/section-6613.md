@@ -3,9 +3,9 @@ title: "Section 6613 - State use of funds"
 usc_title: 20
 usc_section: "6613"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 6613"
-generated_at: "2026-03-30T03:19:25.637Z"
+generated_at: "2026-03-30T03:22:33.853Z"
 status: "active"
 ---
 

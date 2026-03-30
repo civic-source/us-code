@@ -3,9 +3,9 @@ title: "Section 1123 - Resource inventory and assessment program"
 usc_title: 30
 usc_section: "1123"
 chapter: 24
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "30 U.S.C. § 1123"
-generated_at: "2026-03-30T03:19:38.230Z"
+generated_at: "2026-03-30T03:23:00.231Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8105 - Powers and duties of corporation"
 usc_title: 42
 usc_section: "8105"
 chapter: 90
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 8105"
-generated_at: "2026-03-30T03:20:42.779Z"
+generated_at: "2026-03-30T03:24:18.752Z"
 status: "active"
 ---
 

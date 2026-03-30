@@ -3,9 +3,9 @@ title: "Section 2901to2906 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Au
 usc_title: 42
 usc_section: "2901to2906"
 chapter: 34
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 2901to2906"
-generated_at: "2026-03-30T03:20:42.560Z"
+generated_at: "2026-03-30T03:24:18.545Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3073 - Chaplains"
 usc_title: 10
 usc_section: "3073"
 chapter: 307
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 3073"
-generated_at: "2026-03-30T03:18:22.721Z"
+generated_at: "2026-03-30T03:21:39.562Z"
 status: "active"
 ---
 

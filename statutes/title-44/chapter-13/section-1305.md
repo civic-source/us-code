@@ -3,9 +3,9 @@ title: "Section 1305 - Attorney General: opinions"
 usc_title: 44
 usc_section: "1305"
 chapter: 13
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "44 U.S.C. § 1305"
-generated_at: "2026-03-30T03:20:24.704Z"
+generated_at: "2026-03-30T03:23:51.530Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2319to2321 - Repealed. Pub. L. 93–189, § 12(b)(5) , Dec. 17, 
 usc_title: 22
 usc_section: "2319to2321"
 chapter: 32
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 2319to2321"
-generated_at: "2026-03-30T03:19:35.408Z"
+generated_at: "2026-03-30T03:22:42.618Z"
 status: "repealed"
 ---
 

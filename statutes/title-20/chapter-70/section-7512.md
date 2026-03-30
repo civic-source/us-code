@@ -3,9 +3,9 @@ title: "Section 7512 - Findings"
 usc_title: 20
 usc_section: "7512"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 7512"
-generated_at: "2026-03-30T03:19:25.669Z"
+generated_at: "2026-03-30T03:22:33.886Z"
 status: "active"
 ---
 

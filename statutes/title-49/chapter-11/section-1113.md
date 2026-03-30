@@ -3,9 +3,9 @@ title: "Section 1113 - Administrative"
 usc_title: 49
 usc_section: "1113"
 chapter: 11
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "49 U.S.C. § 1113"
-generated_at: "2026-03-30T03:20:49.568Z"
+generated_at: "2026-03-30T03:24:26.390Z"
 status: "active"
 ---
 

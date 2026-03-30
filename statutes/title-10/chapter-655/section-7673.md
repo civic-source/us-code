@@ -3,9 +3,9 @@ title: "Section 7673 - Allowance of expenses to marshals"
 usc_title: 10
 usc_section: "7673"
 chapter: 655
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 7673"
-generated_at: "2026-03-30T03:18:22.740Z"
+generated_at: "2026-03-30T03:21:39.588Z"
 status: "active"
 ---
 

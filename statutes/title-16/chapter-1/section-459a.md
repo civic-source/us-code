@@ -3,9 +3,9 @@ title: "Section 459a - Acceptance of donations; acquisition of property by purch
 usc_title: 16
 usc_section: "459a"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 459a"
-generated_at: "2026-03-30T03:16:15.571Z"
+generated_at: "2026-03-30T03:22:28.373Z"
 status: "active"
 ---
 

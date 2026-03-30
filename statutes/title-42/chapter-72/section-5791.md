@@ -3,9 +3,9 @@ title: "Section 5791 - National coordination of AMBER Alert communications netwo
 usc_title: 42
 usc_section: "5791"
 chapter: 72
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 5791"
-generated_at: "2026-03-30T03:20:42.664Z"
+generated_at: "2026-03-30T03:24:18.641Z"
 status: "active"
 ---
 

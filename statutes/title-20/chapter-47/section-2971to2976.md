@@ -3,9 +3,9 @@ title: "Section 2971to2976 - Omitted"
 usc_title: 20
 usc_section: "2971to2976"
 chapter: 47
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 2971to2976"
-generated_at: "2026-03-30T03:19:25.597Z"
+generated_at: "2026-03-30T03:22:33.814Z"
 status: "omitted"
 ---
 

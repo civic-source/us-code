@@ -3,9 +3,9 @@ title: "Section 4657 - Sale of ammunition for avalanche-control purposes"
 usc_title: 10
 usc_section: "4657"
 chapter: 441
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 4657"
-generated_at: "2026-03-30T03:18:22.727Z"
+generated_at: "2026-03-30T03:21:39.570Z"
 status: "active"
 ---
 

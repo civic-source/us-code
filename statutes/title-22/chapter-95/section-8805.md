@@ -3,9 +3,9 @@ title: "Section 8805 - Imposition of sanctions with respect to the provision of 
 usc_title: 22
 usc_section: "8805"
 chapter: 95
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 8805"
-generated_at: "2026-03-30T03:19:35.535Z"
+generated_at: "2026-03-30T03:22:42.756Z"
 status: "active"
 ---
 

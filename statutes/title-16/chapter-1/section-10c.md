@@ -3,9 +3,9 @@ title: "Section 10c - Repeal of provisions prohibiting collection of recreation 
 usc_title: 16
 usc_section: "10c"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 10c"
-generated_at: "2026-03-30T03:16:15.577Z"
+generated_at: "2026-03-30T03:22:28.381Z"
 status: "active"
 ---
 

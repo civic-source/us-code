@@ -3,9 +3,9 @@ title: "Section 7225b - Applications"
 usc_title: 20
 usc_section: "7225b"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 7225b"
-generated_at: "2026-03-30T03:19:25.656Z"
+generated_at: "2026-03-30T03:22:33.873Z"
 status: "active"
 ---
 

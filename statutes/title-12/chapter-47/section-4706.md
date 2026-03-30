@@ -3,9 +3,9 @@ title: "Section 4706 - Selection of institutions"
 usc_title: 12
 usc_section: "4706"
 chapter: 47
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "12 U.S.C. § 4706"
-generated_at: "2026-03-30T03:19:16.982Z"
+generated_at: "2026-03-30T03:22:00.689Z"
 status: "active"
 ---
 

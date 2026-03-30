@@ -3,9 +3,9 @@ title: "Section 677p - Tax exemption; exceptions and time limits; valuation for 
 usc_title: 25
 usc_section: "677p"
 chapter: 14
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 677p"
-generated_at: "2026-03-30T03:19:33.102Z"
+generated_at: "2026-03-30T03:22:57.471Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 109 - Maintenance of other troops"
 usc_title: 32
 usc_section: "109"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "32 U.S.C. § 109"
-generated_at: "2026-03-30T03:19:59.738Z"
+generated_at: "2026-03-30T03:23:41.335Z"
 status: "active"
 ---
 

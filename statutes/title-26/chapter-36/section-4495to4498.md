@@ -3,9 +3,9 @@ title: "Section 4495to4498 - Repealed. Pub. L. 105–34, title XIV, § 1432(b)(1
 usc_title: 26
 usc_section: "4495to4498"
 chapter: 36
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 4495to4498"
-generated_at: "2026-03-30T03:19:57.904Z"
+generated_at: "2026-03-30T03:23:39.507Z"
 status: "repealed"
 ---
 

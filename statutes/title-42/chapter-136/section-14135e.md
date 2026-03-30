@@ -3,9 +3,9 @@ title: "Section 14135e - Privacy protection standards"
 usc_title: 42
 usc_section: "14135e"
 chapter: 136
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 14135e"
-generated_at: "2026-03-30T03:20:42.939Z"
+generated_at: "2026-03-30T03:24:18.904Z"
 status: "active"
 ---
 

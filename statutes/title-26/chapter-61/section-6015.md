@@ -3,9 +3,9 @@ title: "Section 6015 - Relief from joint and several liability on joint return"
 usc_title: 26
 usc_section: "6015"
 chapter: 61
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 6015"
-generated_at: "2026-03-30T03:19:57.932Z"
+generated_at: "2026-03-30T03:23:39.537Z"
 status: "active"
 ---
 

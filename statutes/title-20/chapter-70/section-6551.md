@@ -3,9 +3,9 @@ title: "Section 6551 - Short title"
 usc_title: 20
 usc_section: "6551"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 6551"
-generated_at: "2026-03-30T03:19:25.636Z"
+generated_at: "2026-03-30T03:22:33.852Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 635 - Retirement for years of service: regular brigadier general
 usc_title: 10
 usc_section: "635"
 chapter: 36
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 635"
-generated_at: "2026-03-30T03:18:22.639Z"
+generated_at: "2026-03-30T03:21:39.448Z"
 status: "active"
 ---
 

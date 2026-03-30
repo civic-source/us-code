@@ -3,9 +3,9 @@ title: "Section 1221i - Repealed. Pub. L. 104–208, div. A, title I, § 101(e) 
 usc_title: 20
 usc_section: "1221i"
 chapter: 31
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 1221i"
-generated_at: "2026-03-30T03:19:25.568Z"
+generated_at: "2026-03-30T03:22:33.783Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 321 - Acquisition Services Fund"
 usc_title: 40
 usc_section: "321"
 chapter: 3
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "40 U.S.C. § 321"
-generated_at: "2026-03-30T03:20:12.377Z"
+generated_at: "2026-03-30T03:23:47.459Z"
 status: "active"
 ---
 

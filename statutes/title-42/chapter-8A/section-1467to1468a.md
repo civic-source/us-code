@@ -3,9 +3,9 @@ title: "Section 1467to1468a - Omitted"
 usc_title: 42
 usc_section: "1467to1468a"
 chapter: 8
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 1467to1468a"
-generated_at: "2026-03-30T03:20:42.464Z"
+generated_at: "2026-03-30T03:24:18.458Z"
 status: "omitted"
 ---
 

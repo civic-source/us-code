@@ -3,9 +3,9 @@ title: "Section 80303 - Speed of vessel in ice region"
 usc_title: 46
 usc_section: "80303"
 chapter: 803
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "46 U.S.C. § 80303"
-generated_at: "2026-03-30T03:20:50.676Z"
+generated_at: "2026-03-30T03:24:22.657Z"
 status: "active"
 ---
 

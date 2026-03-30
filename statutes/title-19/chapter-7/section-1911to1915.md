@@ -3,9 +3,9 @@ title: "Section 1911to1915 - Repealed. Pub. L. 93–618, title VI, § 602(e) , J
 usc_title: 19
 usc_section: "1911to1915"
 chapter: 7
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "19 U.S.C. § 1911to1915"
-generated_at: "2026-03-30T03:19:27.356Z"
+generated_at: "2026-03-30T03:22:25.113Z"
 status: "repealed"
 ---
 

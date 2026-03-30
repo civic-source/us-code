@@ -3,9 +3,9 @@ title: "Section 230g - Authorization of appropriations; general management plan;
 usc_title: 16
 usc_section: "230g"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 230g"
-generated_at: "2026-03-30T03:16:15.535Z"
+generated_at: "2026-03-30T03:22:28.319Z"
 status: "active"
 ---
 

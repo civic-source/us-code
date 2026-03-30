@@ -3,9 +3,9 @@ title: "Section 9351 - Cadets: deficiencies in conduct or studies; effect of fai
 usc_title: 10
 usc_section: "9351"
 chapter: 903
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 9351"
-generated_at: "2026-03-30T03:18:22.746Z"
+generated_at: "2026-03-30T03:21:39.596Z"
 status: "active"
 ---
 

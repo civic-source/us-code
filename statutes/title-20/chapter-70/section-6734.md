@@ -3,9 +3,9 @@ title: "Section 6734 - Applicability"
 usc_title: 20
 usc_section: "6734"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 6734"
-generated_at: "2026-03-30T03:19:25.642Z"
+generated_at: "2026-03-30T03:22:33.857Z"
 status: "active"
 ---
 

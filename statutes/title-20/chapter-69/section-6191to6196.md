@@ -3,9 +3,9 @@ title: "Section 6191to6196 - Omitted"
 usc_title: 20
 usc_section: "6191to6196"
 chapter: 69
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 6191to6196"
-generated_at: "2026-03-30T03:19:25.618Z"
+generated_at: "2026-03-30T03:22:33.835Z"
 status: "omitted"
 ---
 

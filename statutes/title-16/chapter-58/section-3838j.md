@@ -3,9 +3,9 @@ title: "Section 3838j - Farm viability program"
 usc_title: 16
 usc_section: "3838j"
 chapter: 58
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 3838j"
-generated_at: "2026-03-30T03:16:15.722Z"
+generated_at: "2026-03-30T03:22:28.602Z"
 status: "active"
 ---
 

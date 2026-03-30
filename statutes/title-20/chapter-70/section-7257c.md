@@ -3,9 +3,9 @@ title: "Section 7257c - Digital educational programming grants"
 usc_title: 20
 usc_section: "7257c"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 7257c"
-generated_at: "2026-03-30T03:19:25.659Z"
+generated_at: "2026-03-30T03:22:33.876Z"
 status: "active"
 ---
 

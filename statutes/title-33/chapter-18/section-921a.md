@@ -3,9 +3,9 @@ title: "Section 921a - Appearance of attorneys for Secretary, deputy commissione
 usc_title: 33
 usc_section: "921a"
 chapter: 18
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 921a"
-generated_at: "2026-03-30T03:20:10.132Z"
+generated_at: "2026-03-30T03:23:42.884Z"
 status: "active"
 ---
 

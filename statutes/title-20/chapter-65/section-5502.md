@@ -3,9 +3,9 @@ title: "Section 5502 - Definitions"
 usc_title: 20
 usc_section: "5502"
 chapter: 65
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 5502"
-generated_at: "2026-03-30T03:19:25.610Z"
+generated_at: "2026-03-30T03:22:33.828Z"
 status: "active"
 ---
 

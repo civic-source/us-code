@@ -3,9 +3,9 @@ title: "Section 3534 - Corps of Engineers: detail of officers to assist Mayor of
 usc_title: 10
 usc_section: "3534"
 chapter: 343
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 3534"
-generated_at: "2026-03-30T03:18:22.722Z"
+generated_at: "2026-03-30T03:21:39.563Z"
 status: "active"
 ---
 

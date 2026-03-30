@@ -3,9 +3,9 @@ title: "Section 1412to1416 - Omitted"
 usc_title: 42
 usc_section: "1412to1416"
 chapter: 8
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 1412to1416"
-generated_at: "2026-03-30T03:20:42.441Z"
+generated_at: "2026-03-30T03:24:18.441Z"
 status: "omitted"
 ---
 

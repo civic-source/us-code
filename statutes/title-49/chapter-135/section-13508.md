@@ -3,9 +3,9 @@ title: "Section 13508 - Limited authority over cooperative associations"
 usc_title: 49
 usc_section: "13508"
 chapter: 135
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "49 U.S.C. § 13508"
-generated_at: "2026-03-30T03:20:49.593Z"
+generated_at: "2026-03-30T03:24:26.414Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5356 - Appropriations"
 usc_title: 5
 usc_section: "5356"
 chapter: 53
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "5 U.S.C. § 5356"
-generated_at: "2026-03-30T03:18:06.127Z"
+generated_at: "2026-03-30T03:21:29.190Z"
 status: "active"
 ---
 

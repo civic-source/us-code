@@ -3,9 +3,9 @@ title: "Section 2297eto2297e7 - Repealed. Pub. L. 104–134, title III, § 3116(
 usc_title: 42
 usc_section: "2297eto2297e7"
 chapter: 23
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 2297eto2297e7"
-generated_at: "2026-03-30T03:20:42.551Z"
+generated_at: "2026-03-30T03:24:18.537Z"
 status: "repealed"
 ---
 

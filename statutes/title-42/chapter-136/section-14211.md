@@ -3,9 +3,9 @@ title: "Section 14211 - Creation of Violent Crime Reduction Trust Fund"
 usc_title: 42
 usc_section: "14211"
 chapter: 136
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 14211"
-generated_at: "2026-03-30T03:20:42.942Z"
+generated_at: "2026-03-30T03:24:18.906Z"
 status: "active"
 ---
 

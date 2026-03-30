@@ -3,9 +3,9 @@ title: "Section 112g - Net Expenses of Equipment Revolving Fund"
 usc_title: 2
 usc_section: "112g"
 chapter: 4
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 112g"
-generated_at: "2026-03-30T03:17:55.446Z"
+generated_at: "2026-03-30T03:21:14.993Z"
 status: "active"
 ---
 

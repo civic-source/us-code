@@ -3,9 +3,9 @@ title: "Section 1971 - Repealed. Pub. L. 99–198, title XIII, § 1308(d) , Dec.
 usc_title: 7
 usc_section: "1971"
 chapter: 50
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 1971"
-generated_at: "2026-03-30T03:18:29.417Z"
+generated_at: "2026-03-30T03:21:47.502Z"
 status: "repealed"
 ---
 

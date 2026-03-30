@@ -3,9 +3,9 @@ title: "Section 3919 - Repealed. Pub. L. 96–513, title II, § 217(a) , Dec. 12
 usc_title: 10
 usc_section: "3919"
 chapter: 367
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 3919"
-generated_at: "2026-03-30T03:18:22.723Z"
+generated_at: "2026-03-30T03:21:39.565Z"
 status: "repealed"
 ---
 

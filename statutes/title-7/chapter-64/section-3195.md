@@ -3,9 +3,9 @@ title: "Section 3195 - Continuing animal health and disease research programs"
 usc_title: 7
 usc_section: "3195"
 chapter: 64
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 3195"
-generated_at: "2026-03-30T03:18:29.459Z"
+generated_at: "2026-03-30T03:21:47.549Z"
 status: "active"
 ---
 

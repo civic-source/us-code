@@ -3,9 +3,9 @@ title: "Section 1775f - General discharge and release of obligations of State of
 usc_title: 25
 usc_section: "1775f"
 chapter: 19
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 1775f"
-generated_at: "2026-03-30T03:19:33.147Z"
+generated_at: "2026-03-30T03:22:57.522Z"
 status: "active"
 ---
 

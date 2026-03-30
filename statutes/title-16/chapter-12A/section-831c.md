@@ -3,9 +3,9 @@ title: "Section 831c - Corporate powers generally; eminent domain; construction 
 usc_title: 16
 usc_section: "831c"
 chapter: 12
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 831c"
-generated_at: "2026-03-30T03:16:15.652Z"
+generated_at: "2026-03-30T03:22:28.496Z"
 status: "active"
 ---
 

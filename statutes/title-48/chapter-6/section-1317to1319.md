@@ -3,9 +3,9 @@ title: "Section 1317to1319 - Omitted"
 usc_title: 48
 usc_section: "1317to1319"
 chapter: 6
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "48 U.S.C. § 1317to1319"
-generated_at: "2026-03-30T03:20:51.098Z"
+generated_at: "2026-03-30T03:24:27.957Z"
 status: "omitted"
 ---
 

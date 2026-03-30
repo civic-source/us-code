@@ -3,9 +3,9 @@ title: "Section 1983 - Civil action for deprivation of rights"
 usc_title: 42
 usc_section: "1983"
 chapter: 21
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 1983"
-generated_at: "2026-03-30T03:20:42.519Z"
+generated_at: "2026-03-30T03:24:18.508Z"
 status: "active"
 ---
 

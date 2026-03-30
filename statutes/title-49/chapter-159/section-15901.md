@@ -3,9 +3,9 @@ title: "Section 15901 - General authority"
 usc_title: 49
 usc_section: "15901"
 chapter: 159
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "49 U.S.C. § 15901"
-generated_at: "2026-03-30T03:20:49.599Z"
+generated_at: "2026-03-30T03:24:26.422Z"
 status: "active"
 ---
 

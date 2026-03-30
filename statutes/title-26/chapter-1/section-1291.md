@@ -3,9 +3,9 @@ title: "Section 1291 - Interest on tax deferral"
 usc_title: 26
 usc_section: "1291"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 1291"
-generated_at: "2026-03-30T03:19:57.854Z"
+generated_at: "2026-03-30T03:23:39.457Z"
 status: "active"
 ---
 

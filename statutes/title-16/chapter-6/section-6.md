@@ -3,9 +3,9 @@ title: "Section 6 - Resource management"
 usc_title: 16
 usc_section: "6"
 chapter: 6
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T03:16:15.637Z"
+generated_at: "2026-03-30T03:22:28.472Z"
 status: "active"
 ---
 

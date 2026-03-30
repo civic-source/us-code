@@ -3,9 +3,9 @@ title: "Section 5341 - Policy"
 usc_title: 5
 usc_section: "5341"
 chapter: 53
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "5 U.S.C. § 5341"
-generated_at: "2026-03-30T03:18:06.126Z"
+generated_at: "2026-03-30T03:21:29.189Z"
 status: "active"
 ---
 

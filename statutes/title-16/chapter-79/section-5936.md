@@ -3,9 +3,9 @@ title: "Section 5936 - Integration of study results into management decisions"
 usc_title: 16
 usc_section: "5936"
 chapter: 79
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 5936"
-generated_at: "2026-03-30T03:16:15.737Z"
+generated_at: "2026-03-30T03:22:28.625Z"
 status: "active"
 ---
 

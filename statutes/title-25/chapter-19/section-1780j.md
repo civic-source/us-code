@@ -3,9 +3,9 @@ title: "Section 1780j - Conveyance of the Northern Tier Land"
 usc_title: 25
 usc_section: "1780j"
 chapter: 19
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 1780j"
-generated_at: "2026-03-30T03:19:33.151Z"
+generated_at: "2026-03-30T03:22:57.527Z"
 status: "active"
 ---
 

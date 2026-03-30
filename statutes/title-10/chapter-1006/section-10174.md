@@ -3,9 +3,9 @@ title: "Section 10174 - Air Force Reserve Command"
 usc_title: 10
 usc_section: "10174"
 chapter: 1006
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 10174"
-generated_at: "2026-03-30T03:18:22.749Z"
+generated_at: "2026-03-30T03:21:39.601Z"
 status: "active"
 ---
 

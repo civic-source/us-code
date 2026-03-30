@@ -3,9 +3,9 @@ title: "Section 5311 - Formula grants for rural areas"
 usc_title: 49
 usc_section: "5311"
 chapter: 53
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "49 U.S.C. § 5311"
-generated_at: "2026-03-30T03:20:49.578Z"
+generated_at: "2026-03-30T03:24:26.400Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6447 - Presidential waiver"
 usc_title: 22
 usc_section: "6447"
 chapter: 73
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 6447"
-generated_at: "2026-03-30T03:19:35.498Z"
+generated_at: "2026-03-30T03:22:42.717Z"
 status: "active"
 ---
 

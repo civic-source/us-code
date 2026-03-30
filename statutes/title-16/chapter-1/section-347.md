@@ -3,9 +3,9 @@ title: "Section 347 - Establishment; boundaries"
 usc_title: 16
 usc_section: "347"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 347"
-generated_at: "2026-03-30T03:16:15.540Z"
+generated_at: "2026-03-30T03:22:28.324Z"
 status: "active"
 ---
 

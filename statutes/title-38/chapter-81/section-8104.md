@@ -3,9 +3,9 @@ title: "Section 8104 - Congressional approval of certain medical facility acquis
 usc_title: 38
 usc_section: "8104"
 chapter: 81
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "38 U.S.C. § 8104"
-generated_at: "2026-03-30T03:20:15.796Z"
+generated_at: "2026-03-30T03:23:49.257Z"
 status: "active"
 ---
 

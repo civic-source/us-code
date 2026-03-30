@@ -3,9 +3,9 @@ title: "Section 2712 - Refund of assessment from Egg Board"
 usc_title: 7
 usc_section: "2712"
 chapter: 60
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 2712"
-generated_at: "2026-03-30T03:18:29.453Z"
+generated_at: "2026-03-30T03:21:47.543Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 972h - Authorization of appropriations"
 usc_title: 16
 usc_section: "972h"
 chapter: 16
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 972h"
-generated_at: "2026-03-30T03:16:15.662Z"
+generated_at: "2026-03-30T03:22:28.513Z"
 status: "active"
 ---
 

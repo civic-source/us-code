@@ -3,9 +3,9 @@ title: "Section 55331 - Definitions"
 usc_title: 46
 usc_section: "55331"
 chapter: 553
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "46 U.S.C. § 55331"
-generated_at: "2026-03-30T03:20:50.668Z"
+generated_at: "2026-03-30T03:24:22.648Z"
 status: "active"
 ---
 

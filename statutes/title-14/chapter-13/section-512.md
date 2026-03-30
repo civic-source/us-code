@@ -3,9 +3,9 @@ title: "Section 512 - Monetary allowance for transportation of household effects
 usc_title: 14
 usc_section: "512"
 chapter: 13
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "14 U.S.C. § 512"
-generated_at: "2026-03-30T03:18:45.181Z"
+generated_at: "2026-03-30T03:22:04.470Z"
 status: "active"
 ---
 

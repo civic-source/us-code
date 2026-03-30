@@ -3,9 +3,9 @@ title: "Section 7173 - State application"
 usc_title: 20
 usc_section: "7173"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 7173"
-generated_at: "2026-03-30T03:19:25.651Z"
+generated_at: "2026-03-30T03:22:33.868Z"
 status: "active"
 ---
 

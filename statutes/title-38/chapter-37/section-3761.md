@@ -3,9 +3,9 @@ title: "Section 3761 - Direct housing loans to Native American veterans; program
 usc_title: 38
 usc_section: "3761"
 chapter: 37
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "38 U.S.C. § 3761"
-generated_at: "2026-03-30T03:20:15.769Z"
+generated_at: "2026-03-30T03:23:49.229Z"
 status: "active"
 ---
 

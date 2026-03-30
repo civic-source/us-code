@@ -3,9 +3,9 @@ title: "Section 581 - Judicial Review 1 1 So in original. Probably should not be
 usc_title: 5
 usc_section: "581"
 chapter: 5
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "5 U.S.C. § 581"
-generated_at: "2026-03-30T03:18:06.100Z"
+generated_at: "2026-03-30T03:21:29.161Z"
 status: "active"
 ---
 

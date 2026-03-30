@@ -3,9 +3,9 @@ title: "Section 59A - Environmental tax"
 usc_title: 26
 usc_section: "59A"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 59A"
-generated_at: "2026-03-30T03:19:57.690Z"
+generated_at: "2026-03-30T03:23:39.282Z"
 status: "active"
 ---
 

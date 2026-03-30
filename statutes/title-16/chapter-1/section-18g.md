@@ -3,9 +3,9 @@ title: "Section 18g - Creation of program"
 usc_title: 16
 usc_section: "18g"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 18g"
-generated_at: "2026-03-30T03:16:15.523Z"
+generated_at: "2026-03-30T03:22:28.299Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9a - Assessment of money penalties"
 usc_title: 7
 usc_section: "9a"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 9a"
-generated_at: "2026-03-30T03:18:29.320Z"
+generated_at: "2026-03-30T03:21:47.391Z"
 status: "active"
 ---
 

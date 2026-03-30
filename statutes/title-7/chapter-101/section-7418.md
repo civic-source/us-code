@@ -3,9 +3,9 @@ title: "Section 7418 - Petition and review of orders"
 usc_title: 7
 usc_section: "7418"
 chapter: 101
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 7418"
-generated_at: "2026-03-30T03:18:29.505Z"
+generated_at: "2026-03-30T03:21:47.602Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2003 - Congressional policy and declaration of purpose"
 usc_title: 16
 usc_section: "2003"
 chapter: 40
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 2003"
-generated_at: "2026-03-30T03:16:15.699Z"
+generated_at: "2026-03-30T03:22:28.567Z"
 status: "active"
 ---
 

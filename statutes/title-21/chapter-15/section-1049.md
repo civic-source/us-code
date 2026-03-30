@@ -3,9 +3,9 @@ title: "Section 1049 - Seizure and condemnation proceedings"
 usc_title: 21
 usc_section: "1049"
 chapter: 15
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "21 U.S.C. § 1049"
-generated_at: "2026-03-30T03:19:31.971Z"
+generated_at: "2026-03-30T03:22:39.083Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7265d - Availability of funds"
 usc_title: 20
 usc_section: "7265d"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 7265d"
-generated_at: "2026-03-30T03:19:25.660Z"
+generated_at: "2026-03-30T03:22:33.877Z"
 status: "active"
 ---
 

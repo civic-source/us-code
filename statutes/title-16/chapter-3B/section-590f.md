@@ -3,9 +3,9 @@ title: "Section 590f - Authorization of appropriation"
 usc_title: 16
 usc_section: "590f"
 chapter: 3
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 590f"
-generated_at: "2026-03-30T03:16:15.625Z"
+generated_at: "2026-03-30T03:22:28.453Z"
 status: "active"
 ---
 

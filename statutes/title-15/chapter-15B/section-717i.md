@@ -3,9 +3,9 @@ title: "Section 717i - Periodic and special reports"
 usc_title: 15
 usc_section: "717i"
 chapter: 15
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "15 U.S.C. § 717i"
-generated_at: "2026-03-30T03:18:53.681Z"
+generated_at: "2026-03-30T03:21:55.941Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2b - Transfer of funds from appropriations account of Majority a
 usc_title: 2
 usc_section: "2b"
 chapter: 3
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "2 U.S.C. § 2b"
-generated_at: "2026-03-30T03:17:55.432Z"
+generated_at: "2026-03-30T03:21:14.978Z"
 status: "active"
 ---
 

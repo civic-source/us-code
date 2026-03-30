@@ -3,9 +3,9 @@ title: "Section 2240 - Emergency response services"
 usc_title: 33
 usc_section: "2240"
 chapter: 36
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 2240"
-generated_at: "2026-03-30T03:20:10.175Z"
+generated_at: "2026-03-30T03:23:42.924Z"
 status: "active"
 ---
 

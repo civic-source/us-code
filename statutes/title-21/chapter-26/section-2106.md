@@ -3,9 +3,9 @@ title: "Section 2106 - Consultation regarding genetically engineered seafood pro
 usc_title: 21
 usc_section: "2106"
 chapter: 26
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "21 U.S.C. § 2106"
-generated_at: "2026-03-30T03:19:31.980Z"
+generated_at: "2026-03-30T03:22:39.093Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14505 - Entrepreneurship initiative"
 usc_title: 40
 usc_section: "14505"
 chapter: 145
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "40 U.S.C. § 14505"
-generated_at: "2026-03-30T03:20:12.396Z"
+generated_at: "2026-03-30T03:23:47.478Z"
 status: "active"
 ---
 

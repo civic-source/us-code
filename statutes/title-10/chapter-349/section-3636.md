@@ -3,9 +3,9 @@ title: "Section 3636 - Repealed. Pub. L. 87–649, § 14c(8) , Sept. 7, 1962 , 7
 usc_title: 10
 usc_section: "3636"
 chapter: 349
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 3636"
-generated_at: "2026-03-30T03:18:22.722Z"
+generated_at: "2026-03-30T03:21:39.564Z"
 status: "repealed"
 ---
 

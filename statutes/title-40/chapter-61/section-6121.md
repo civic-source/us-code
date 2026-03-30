@@ -3,9 +3,9 @@ title: "Section 6121 - General"
 usc_title: 40
 usc_section: "6121"
 chapter: 61
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "40 U.S.C. § 6121"
-generated_at: "2026-03-30T03:20:12.388Z"
+generated_at: "2026-03-30T03:23:47.469Z"
 status: "active"
 ---
 

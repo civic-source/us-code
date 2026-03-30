@@ -3,9 +3,9 @@ title: "Section 1402 - Rule of construction"
 usc_title: 47
 usc_section: "1402"
 chapter: 13
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "47 U.S.C. § 1402"
-generated_at: "2026-03-30T03:20:57.145Z"
+generated_at: "2026-03-30T03:24:23.210Z"
 status: "active"
 ---
 

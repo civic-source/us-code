@@ -3,9 +3,9 @@ title: "Section 3545 - Annual independent evaluation"
 usc_title: 44
 usc_section: "3545"
 chapter: 35
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "44 U.S.C. § 3545"
-generated_at: "2026-03-30T03:20:24.714Z"
+generated_at: "2026-03-30T03:23:51.541Z"
 status: "active"
 ---
 

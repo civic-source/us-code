@@ -3,9 +3,9 @@ title: "Section 6661 - Purpose; definitions"
 usc_title: 20
 usc_section: "6661"
 chapter: 70
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 6661"
-generated_at: "2026-03-30T03:19:25.639Z"
+generated_at: "2026-03-30T03:22:33.855Z"
 status: "active"
 ---
 

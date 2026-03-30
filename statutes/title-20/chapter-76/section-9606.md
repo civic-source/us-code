@@ -3,9 +3,9 @@ title: "Section 9606 - Priorities"
 usc_title: 20
 usc_section: "9606"
 chapter: 76
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 9606"
-generated_at: "2026-03-30T03:19:25.690Z"
+generated_at: "2026-03-30T03:22:33.908Z"
 status: "active"
 ---
 

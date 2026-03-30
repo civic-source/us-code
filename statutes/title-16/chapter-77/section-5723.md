@@ -3,9 +3,9 @@ title: "Section 5723 - Exemption"
 usc_title: 16
 usc_section: "5723"
 chapter: 77
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 5723"
-generated_at: "2026-03-30T03:16:15.736Z"
+generated_at: "2026-03-30T03:22:28.624Z"
 status: "active"
 ---
 

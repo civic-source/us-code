@@ -3,9 +3,9 @@ title: "Section 426c - Control of nuisance mammals and birds and those constitut
 usc_title: 7
 usc_section: "426c"
 chapter: 17
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 426c"
-generated_at: "2026-03-30T03:18:29.356Z"
+generated_at: "2026-03-30T03:21:47.431Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7874 - Rules relating to expatriated entities and their foreign 
 usc_title: 26
 usc_section: "7874"
 chapter: 80
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 7874"
-generated_at: "2026-03-30T03:19:57.996Z"
+generated_at: "2026-03-30T03:23:39.602Z"
 status: "active"
 ---
 

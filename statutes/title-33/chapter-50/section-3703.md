@@ -3,9 +3,9 @@ title: "Section 3703 - Interagency Subcommittee"
 usc_title: 33
 usc_section: "3703"
 chapter: 50
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 3703"
-generated_at: "2026-03-30T03:20:10.197Z"
+generated_at: "2026-03-30T03:23:42.945Z"
 status: "active"
 ---
 

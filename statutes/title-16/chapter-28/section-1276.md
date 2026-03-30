@@ -3,9 +3,9 @@ title: "Section 1276 - Rivers constituting potential additions to national wild 
 usc_title: 16
 usc_section: "1276"
 chapter: 28
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 1276"
-generated_at: "2026-03-30T03:16:15.673Z"
+generated_at: "2026-03-30T03:22:28.529Z"
 status: "active"
 ---
 
@@ -119,7 +119,7 @@ status: "active"
   - **(105)** The segment from its confluence with the Minam River to its confluence with the Grande Ronde River; by the Secretary of Agriculture.
   - **(106)** The segment from its origin at the confluence of the Pemigewasset and Winnipesaukee Rivers in Franklin, New Hampshire, to the backwater impoundment at Hooksett Dam, excluding the Garvins Falls Dam and its impoundment.
   - **(107)** The segments from Profile Lake downstream to the southern boundary of the Franconia Notch State Park and from the northern Thornton town-line downstream to the backwater of the Ayers Island Dam; by the Secretary of the Interior.
-  - **(108)** Marys River, Florida and Georgia .—The segment from its headwaters to its confluence with the Bells River.
+  - **(108)** The segment from its headwaters to its confluence with the Bells River.
   - **(109)** The North Fork from the bottom of the spillway of the Hendersonville Reservoir downstream to its confluence with the South Fork; the South Fork from its confluence with the Pigeon Branch downstream to its confluence with the North Fork; and the main stem from the confluence of the North and South Forks downstream to a point 750 feet upstream from the centerline of North Carolina Highway 191/280.
   - **(110)** The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990 .
   - **(111)** The 6-mile segment of the river from its confluence with Chimney Creek to its confluence with Rock Creek.

@@ -3,9 +3,9 @@ title: "Section 2151aa - Program to provide technical assistance to foreign gove
 usc_title: 22
 usc_section: "2151aa"
 chapter: 32
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 2151aa"
-generated_at: "2026-03-30T03:19:35.395Z"
+generated_at: "2026-03-30T03:22:42.603Z"
 status: "active"
 ---
 

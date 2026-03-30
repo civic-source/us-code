@@ -3,9 +3,9 @@ title: "Section 6606 - Prelitigation notice"
 usc_title: 15
 usc_section: "6606"
 chapter: 92
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "15 U.S.C. § 6606"
-generated_at: "2026-03-30T03:18:53.794Z"
+generated_at: "2026-03-30T03:21:56.063Z"
 status: "active"
 ---
 

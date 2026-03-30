@@ -3,9 +3,9 @@ title: "Section 1432 - Definitions"
 usc_title: 16
 usc_section: "1432"
 chapter: 32
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 1432"
-generated_at: "2026-03-30T03:16:15.681Z"
+generated_at: "2026-03-30T03:22:28.541Z"
 status: "active"
 ---
 

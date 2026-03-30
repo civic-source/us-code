@@ -3,9 +3,9 @@ title: "Section 1637 - Indian health care delivery demonstration projects"
 usc_title: 25
 usc_section: "1637"
 chapter: 18
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 1637"
-generated_at: "2026-03-30T03:19:33.133Z"
+generated_at: "2026-03-30T03:22:57.506Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 458a - Mats for reproduction in magazines and newspapers of phot
 usc_title: 16
 usc_section: "458a"
 chapter: 1
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 458a"
-generated_at: "2026-03-30T03:16:15.571Z"
+generated_at: "2026-03-30T03:22:28.373Z"
 status: "active"
 ---
 

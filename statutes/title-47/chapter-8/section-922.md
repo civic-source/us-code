@@ -3,9 +3,9 @@ title: "Section 922 - National spectrum allocation planning"
 usc_title: 47
 usc_section: "922"
 chapter: 8
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "47 U.S.C. § 922"
-generated_at: "2026-03-30T03:20:57.133Z"
+generated_at: "2026-03-30T03:24:23.204Z"
 status: "active"
 ---
 

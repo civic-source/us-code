@@ -3,9 +3,9 @@ title: "Section 14 - Groundwater study"
 usc_title: 43
 usc_section: "14"
 chapter: 12
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "43 U.S.C. § 14"
-generated_at: "2026-03-30T03:20:21.359Z"
+generated_at: "2026-03-30T03:23:53.349Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2662a - Repealed. Pub. L. 104–127, title VII, § 706 , title V
 usc_title: 7
 usc_section: "2662a"
 chapter: 59
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 2662a"
-generated_at: "2026-03-30T03:18:29.452Z"
+generated_at: "2026-03-30T03:21:47.542Z"
 status: "repealed"
 ---
 

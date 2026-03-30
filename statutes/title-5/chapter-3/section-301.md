@@ -3,9 +3,9 @@ title: "Section 301 - Departmental regulations"
 usc_title: 5
 usc_section: "301"
 chapter: 3
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "5 U.S.C. § 301"
-generated_at: "2026-03-30T03:18:06.090Z"
+generated_at: "2026-03-30T03:21:29.154Z"
 status: "active"
 ---
 

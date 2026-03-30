@@ -3,9 +3,9 @@ title: "Section 17381 - Statement of policy on modernization of electricity grid
 usc_title: 42
 usc_section: "17381"
 chapter: 152
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 17381"
-generated_at: "2026-03-30T03:20:43.005Z"
+generated_at: "2026-03-30T03:24:18.968Z"
 status: "active"
 ---
 

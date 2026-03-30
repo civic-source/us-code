@@ -3,9 +3,9 @@ title: "Section 4152 - Conversion to Foreign Service Schedule"
 usc_title: 22
 usc_section: "4152"
 chapter: 52
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 4152"
-generated_at: "2026-03-30T03:19:35.469Z"
+generated_at: "2026-03-30T03:22:42.686Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2266 - Hearings and judicial review"
 usc_title: 12
 usc_section: "2266"
 chapter: 23
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "12 U.S.C. § 2266"
-generated_at: "2026-03-30T03:19:16.930Z"
+generated_at: "2026-03-30T03:22:00.642Z"
 status: "active"
 ---
 

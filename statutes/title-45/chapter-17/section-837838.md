@@ -3,9 +3,9 @@ title: "Section 837838 - Repealed. Pub. L. 105–178, title VII, § 7203(a)(2) ,
 usc_title: 45
 usc_section: "837838"
 chapter: 17
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "45 U.S.C. § 837838"
-generated_at: "2026-03-30T03:20:23.656Z"
+generated_at: "2026-03-30T03:23:52.253Z"
 status: "repealed"
 ---
 

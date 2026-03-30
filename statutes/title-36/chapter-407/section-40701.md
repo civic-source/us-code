@@ -3,9 +3,9 @@ title: "Section 40701 - Organization"
 usc_title: 36
 usc_section: "40701"
 chapter: 407
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "36 U.S.C. § 40701"
-generated_at: "2026-03-30T03:20:13.935Z"
+generated_at: "2026-03-30T03:23:46.950Z"
 status: "active"
 ---
 

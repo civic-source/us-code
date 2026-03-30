@@ -3,9 +3,9 @@ title: "Section 1592 - Unlawful conduct with respect to documents in furtherance
 usc_title: 18
 usc_section: "1592"
 chapter: 77
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "18 U.S.C. § 1592"
-generated_at: "2026-03-30T03:19:21.011Z"
+generated_at: "2026-03-30T03:22:29.858Z"
 status: "active"
 ---
 

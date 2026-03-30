@@ -3,9 +3,9 @@ title: "Section 3205 - Federal participation"
 usc_title: 15
 usc_section: "3205"
 chapter: 59
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "15 U.S.C. § 3205"
-generated_at: "2026-03-30T03:18:53.767Z"
+generated_at: "2026-03-30T03:21:56.032Z"
 status: "active"
 ---
 

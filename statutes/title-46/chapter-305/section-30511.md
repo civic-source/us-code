@@ -3,9 +3,9 @@ title: "Section 30511 - Action by owner for limitation"
 usc_title: 46
 usc_section: "30511"
 chapter: 305
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "46 U.S.C. § 30511"
-generated_at: "2026-03-30T03:20:50.653Z"
+generated_at: "2026-03-30T03:24:22.633Z"
 status: "active"
 ---
 

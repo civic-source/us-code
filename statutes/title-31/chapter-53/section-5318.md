@@ -3,9 +3,9 @@ title: "Section 5318 - Compliance, exemptions, and summons authority"
 usc_title: 31
 usc_section: "5318"
 chapter: 53
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "31 U.S.C. § 5318"
-generated_at: "2026-03-30T03:20:01.871Z"
+generated_at: "2026-03-30T03:23:43.959Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
   - **(3)** The court may issue an order requiring the person summoned to appear before the Secretary or his delegate to produce books, papers, records, and other data, to give testimony as may be necessary to explain how such material was compiled and maintained, and to pay the costs of the proceeding.
   - **(4)** Any failure to obey the order of the court may be punished by the court as a contempt thereof.
   - **(5)** All process in any case under this subsection may be served in any judicial district in which such person may be found.
-- **(f)** No person shall qualify for an exemption under subsection (a)(5) 2 2 See References in Text note below. unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
+- **(f)** No person shall qualify for an exemption under subsection (a)(5) 1 unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
   - **(1)** describes in detail the reasons why such person is qualified for such exemption; and
   - **(2)** contains the signature of such person.
 - **(g)**

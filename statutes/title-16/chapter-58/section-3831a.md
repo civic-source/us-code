@@ -3,9 +3,9 @@ title: "Section 3831a - Emergency forestry conservation reserve program"
 usc_title: 16
 usc_section: "3831a"
 chapter: 58
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 3831a"
-generated_at: "2026-03-30T03:16:15.718Z"
+generated_at: "2026-03-30T03:22:28.598Z"
 status: "active"
 ---
 

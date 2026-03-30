@@ -3,9 +3,9 @@ title: "Section 6117 - Cross reference"
 usc_title: 26
 usc_section: "6117"
 chapter: 61
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 6117"
-generated_at: "2026-03-30T03:19:57.948Z"
+generated_at: "2026-03-30T03:23:39.552Z"
 status: "active"
 ---
 

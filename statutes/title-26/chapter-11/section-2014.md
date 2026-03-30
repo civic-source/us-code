@@ -3,9 +3,9 @@ title: "Section 2014 - Credit for foreign death taxes"
 usc_title: 26
 usc_section: "2014"
 chapter: 11
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "26 U.S.C. § 2014"
-generated_at: "2026-03-30T03:19:57.874Z"
+generated_at: "2026-03-30T03:23:39.477Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9561 - Rations"
 usc_title: 10
 usc_section: "9561"
 chapter: 935
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "10 U.S.C. § 9561"
-generated_at: "2026-03-30T03:18:22.748Z"
+generated_at: "2026-03-30T03:21:39.598Z"
 status: "active"
 ---
 

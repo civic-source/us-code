@@ -3,9 +3,9 @@ title: "Section 1674a - Expanded programs"
 usc_title: 16
 usc_section: "1674a"
 chapter: 36
-current_through: "PL 113-45"
+current_through: "PL 113-47"
 classification: "16 U.S.C. § 1674a"
-generated_at: "2026-03-30T03:16:15.690Z"
+generated_at: "2026-03-30T03:22:28.554Z"
 status: "active"
 ---
 

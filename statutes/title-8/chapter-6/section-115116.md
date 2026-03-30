@@ -3,9 +3,9 @@ title: "Section 115116 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(
 usc_title: 8
 usc_section: "115116"
 chapter: 6
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "8 U.S.C. § 115116"
-generated_at: "2026-03-30T03:18:43.050Z"
+generated_at: "2026-03-30T03:21:34.166Z"
 status: "repealed"
 ---
 

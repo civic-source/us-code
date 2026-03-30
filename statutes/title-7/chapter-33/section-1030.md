@@ -3,9 +3,9 @@ title: "Section 1030 - Consolidation of agricultural credit and service offices"
 usc_title: 7
 usc_section: "1030"
 chapter: 33
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "7 U.S.C. § 1030"
-generated_at: "2026-03-30T03:18:29.374Z"
+generated_at: "2026-03-30T03:21:47.452Z"
 status: "active"
 ---
 

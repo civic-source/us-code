@@ -3,9 +3,9 @@ title: "Section 726 - Railroad-Shipper Transportation Advisory Council"
 usc_title: 49
 usc_section: "726"
 chapter: 7
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "49 U.S.C. § 726"
-generated_at: "2026-03-30T03:20:49.567Z"
+generated_at: "2026-03-30T03:24:26.390Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 727 - Citizenship status unaffected"
 usc_title: 25
 usc_section: "727"
 chapter: 14
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "25 U.S.C. § 727"
-generated_at: "2026-03-30T03:19:33.106Z"
+generated_at: "2026-03-30T03:22:57.475Z"
 status: "active"
 ---
 

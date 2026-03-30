@@ -3,9 +3,9 @@ title: "Section 5805to5808 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 ,
 usc_title: 15
 usc_section: "5805to5808"
 chapter: 84
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "15 U.S.C. § 5805to5808"
-generated_at: "2026-03-30T03:18:53.788Z"
+generated_at: "2026-03-30T03:21:56.056Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 29 - Patents; procurement procedure; filing: application under o
 usc_title: 30
 usc_section: "29"
 chapter: 2
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "30 U.S.C. § 29"
-generated_at: "2026-03-30T03:19:38.203Z"
+generated_at: "2026-03-30T03:23:00.203Z"
 status: "active"
 ---
 

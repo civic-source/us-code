@@ -3,9 +3,9 @@ title: "Section 5001 - Repealed. Pub. L. 103–149, § 4(a)(2) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5001"
 chapter: 60
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 5001"
-generated_at: "2026-03-30T03:19:35.478Z"
+generated_at: "2026-03-30T03:22:42.696Z"
 status: "repealed"
 ---
 

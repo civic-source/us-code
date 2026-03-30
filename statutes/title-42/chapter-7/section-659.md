@@ -3,9 +3,9 @@ title: "Section 659 - Consent by United States to income withholding, garnishmen
 usc_title: 42
 usc_section: "659"
 chapter: 7
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 659"
-generated_at: "2026-03-30T03:20:42.049Z"
+generated_at: "2026-03-30T03:24:18.262Z"
 status: "active"
 ---
 

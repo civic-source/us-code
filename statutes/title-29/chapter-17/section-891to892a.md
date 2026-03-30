@@ -3,9 +3,9 @@ title: "Section 891to892a - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , 
 usc_title: 29
 usc_section: "891to892a"
 chapter: 17
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "29 U.S.C. § 891to892a"
-generated_at: "2026-03-30T03:19:40.461Z"
+generated_at: "2026-03-30T03:23:15.769Z"
 status: "repealed"
 ---
 

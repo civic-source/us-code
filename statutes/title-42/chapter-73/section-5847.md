@@ -3,9 +3,9 @@ title: "Section 5847 - Nuclear energy center site survey"
 usc_title: 42
 usc_section: "5847"
 chapter: 73
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "42 U.S.C. § 5847"
-generated_at: "2026-03-30T03:20:42.666Z"
+generated_at: "2026-03-30T03:24:18.643Z"
 status: "active"
 ---
 

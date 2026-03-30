@@ -3,9 +3,9 @@ title: "Section 731732 - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561"
 usc_title: 33
 usc_section: "731732"
 chapter: 16
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "33 U.S.C. § 731732"
-generated_at: "2026-03-30T03:20:10.127Z"
+generated_at: "2026-03-30T03:23:42.877Z"
 status: "repealed"
 ---
 

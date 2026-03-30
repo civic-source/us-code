@@ -3,9 +3,9 @@ title: "Section 1087i - Authority to sell loans"
 usc_title: 20
 usc_section: "1087i"
 chapter: 28
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 1087i"
-generated_at: "2026-03-30T03:19:25.481Z"
+generated_at: "2026-03-30T03:22:33.743Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 34 - Repealed. Pub. L. 91–230, title IV, § 401(d)(1) , (2), A
 usc_title: 20
 usc_section: "34"
 chapter: 1
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "20 U.S.C. § 34"
-generated_at: "2026-03-30T03:19:25.423Z"
+generated_at: "2026-03-30T03:22:33.679Z"
 status: "repealed"
 ---
 

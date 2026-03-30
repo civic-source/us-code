@@ -3,9 +3,9 @@ title: "Section 2321e - Repealed. Pub. L. 93–189, § 12(b)(5) , Dec. 17, 1973 
 usc_title: 22
 usc_section: "2321e"
 chapter: 32
-current_through: "PL 113-46"
+current_through: "PL 113-47"
 classification: "22 U.S.C. § 2321e"
-generated_at: "2026-03-30T03:19:35.409Z"
+generated_at: "2026-03-30T03:22:42.618Z"
 status: "repealed"
 ---
 
