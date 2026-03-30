@@ -3,9 +3,9 @@ title: "Section 5507 - Transfers of amounts appropriated for House"
 usc_title: 2
 usc_section: "5507"
 chapter: 55
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "2 U.S.C. § 5507"
-generated_at: "2026-03-30T07:48:12.696Z"
+generated_at: "2026-03-30T07:50:35.331Z"
 status: "active"
 ---
 

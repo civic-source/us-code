@@ -3,9 +3,9 @@ title: "Section 812 - Schedules of controlled substances"
 usc_title: 21
 usc_section: "812"
 chapter: 13
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "21 U.S.C. § 812"
-generated_at: "2026-03-30T07:49:09.828Z"
+generated_at: "2026-03-30T07:51:21.611Z"
 status: "active"
 ---
 

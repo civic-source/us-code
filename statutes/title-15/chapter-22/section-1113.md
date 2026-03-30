@@ -3,9 +3,9 @@ title: "Section 1113 - Fees"
 usc_title: 15
 usc_section: "1113"
 chapter: 22
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 1113"
-generated_at: "2026-03-30T07:48:52.137Z"
+generated_at: "2026-03-30T07:50:53.582Z"
 status: "active"
 ---
 

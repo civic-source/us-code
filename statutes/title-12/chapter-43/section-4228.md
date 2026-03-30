@@ -3,9 +3,9 @@ title: "Section 4228 - Nonreviewability of action by Attorney Gen­eral"
 usc_title: 12
 usc_section: "4228"
 chapter: 43
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 4228"
-generated_at: "2026-03-30T07:48:49.567Z"
+generated_at: "2026-03-30T07:50:57.220Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5466 - Examination of and enforcement actions against designated
 usc_title: 12
 usc_section: "5466"
 chapter: 53
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 5466"
-generated_at: "2026-03-30T07:48:49.598Z"
+generated_at: "2026-03-30T07:50:57.252Z"
 status: "active"
 ---
 

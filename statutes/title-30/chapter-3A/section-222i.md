@@ -3,9 +3,9 @@ title: "Section 222i - Omitted"
 usc_title: 30
 usc_section: "222i"
 chapter: 3
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "30 U.S.C. § 222i"
-generated_at: "2026-03-30T07:49:21.406Z"
+generated_at: "2026-03-30T07:51:24.935Z"
 status: "omitted"
 ---
 

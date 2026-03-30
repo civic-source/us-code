@@ -3,9 +3,9 @@ title: "Section 3375 - Filing of contracts and agreements"
 usc_title: 15
 usc_section: "3375"
 chapter: 60
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 3375"
-generated_at: "2026-03-30T07:48:52.193Z"
+generated_at: "2026-03-30T07:50:53.638Z"
 status: "active"
 ---
 

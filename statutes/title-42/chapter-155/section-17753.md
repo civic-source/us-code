@@ -3,9 +3,9 @@ title: "Section 17753 - Omitted"
 usc_title: 42
 usc_section: "17753"
 chapter: 155
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 17753"
-generated_at: "2026-03-30T07:50:07.297Z"
+generated_at: "2026-03-30T07:52:13.790Z"
 status: "omitted"
 ---
 

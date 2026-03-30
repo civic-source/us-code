@@ -3,9 +3,9 @@ title: "Section 9308 - Rule of construction"
 usc_title: 22
 usc_section: "9308"
 chapter: 100
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 9308"
-generated_at: "2026-03-30T07:49:19.120Z"
+generated_at: "2026-03-30T07:51:13.730Z"
 status: "active"
 ---
 

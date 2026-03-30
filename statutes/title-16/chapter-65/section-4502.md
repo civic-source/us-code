@@ -3,9 +3,9 @@ title: "Section 4502 - Tropical deforestation assessment and assistance"
 usc_title: 16
 usc_section: "4502"
 chapter: 65
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 4502"
-generated_at: "2026-03-30T07:49:06.100Z"
+generated_at: "2026-03-30T07:51:07.880Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16254 - Regional bioeconomy development grants"
 usc_title: 42
 usc_section: "16254"
 chapter: 149
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 16254"
-generated_at: "2026-03-30T07:50:07.277Z"
+generated_at: "2026-03-30T07:52:13.773Z"
 status: "active"
 ---
 

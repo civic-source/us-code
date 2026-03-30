@@ -3,9 +3,9 @@ title: "Section 170313 - Annual report"
 usc_title: 36
 usc_section: "170313"
 chapter: 1703
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "36 U.S.C. § 170313"
-generated_at: "2026-03-30T07:49:43.378Z"
+generated_at: "2026-03-30T07:51:43.178Z"
 status: "active"
 ---
 

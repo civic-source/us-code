@@ -3,9 +3,9 @@ title: "Section 1975b - Administrative provisions"
 usc_title: 42
 usc_section: "1975b"
 chapter: 20
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 1975b"
-generated_at: "2026-03-30T07:50:06.968Z"
+generated_at: "2026-03-30T07:52:13.486Z"
 status: "active"
 ---
 

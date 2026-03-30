@@ -3,9 +3,9 @@ title: "Section 8131 - Definitions"
 usc_title: 38
 usc_section: "8131"
 chapter: 81
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "38 U.S.C. § 8131"
-generated_at: "2026-03-30T07:49:45.596Z"
+generated_at: "2026-03-30T07:51:44.973Z"
 status: "active"
 ---
 

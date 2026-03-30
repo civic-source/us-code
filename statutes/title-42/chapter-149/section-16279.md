@@ -3,9 +3,9 @@ title: "Section 16279 - Budget plan"
 usc_title: 42
 usc_section: "16279"
 chapter: 149
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 16279"
-generated_at: "2026-03-30T07:50:07.277Z"
+generated_at: "2026-03-30T07:52:13.773Z"
 status: "active"
 ---
 

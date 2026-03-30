@@ -3,9 +3,9 @@ title: "Section 397 - Establishment; boundaries"
 usc_title: 16
 usc_section: "397"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 397"
-generated_at: "2026-03-30T07:49:05.910Z"
+generated_at: "2026-03-30T07:51:07.687Z"
 status: "active"
 ---
 

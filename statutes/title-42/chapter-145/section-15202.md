@@ -3,9 +3,9 @@ title: "Section 15202 - Medal of Valor Board"
 usc_title: 42
 usc_section: "15202"
 chapter: 145
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 15202"
-generated_at: "2026-03-30T07:50:07.265Z"
+generated_at: "2026-03-30T07:52:13.761Z"
 status: "active"
 ---
 

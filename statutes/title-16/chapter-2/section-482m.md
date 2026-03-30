@@ -3,9 +3,9 @@ title: "Section 482m - Teton National Forest in Wyoming; additional lands"
 usc_title: 16
 usc_section: "482m"
 chapter: 2
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 482m"
-generated_at: "2026-03-30T07:49:05.978Z"
+generated_at: "2026-03-30T07:51:07.756Z"
 status: "active"
 ---
 

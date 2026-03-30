@@ -3,9 +3,9 @@ title: "Section 286bb - Elimination of predatory agricultural export subsidies"
 usc_title: 22
 usc_section: "286bb"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 286bb"
-generated_at: "2026-03-30T07:49:18.995Z"
+generated_at: "2026-03-30T07:51:13.601Z"
 status: "active"
 ---
 

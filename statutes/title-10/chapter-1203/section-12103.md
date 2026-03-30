@@ -3,9 +3,9 @@ title: "Section 12103 - Reserve components: terms"
 usc_title: 10
 usc_section: "12103"
 chapter: 1203
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 12103"
-generated_at: "2026-03-30T07:48:44.010Z"
+generated_at: "2026-03-30T07:50:48.339Z"
 status: "active"
 ---
 

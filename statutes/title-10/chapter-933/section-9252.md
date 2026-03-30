@@ -3,9 +3,9 @@ title: "Section 9252 - Service credit: regular enlisted members; service as an o
 usc_title: 10
 usc_section: "9252"
 chapter: 933
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 9252"
-generated_at: "2026-03-30T07:48:44.001Z"
+generated_at: "2026-03-30T07:50:48.331Z"
 status: "active"
 ---
 

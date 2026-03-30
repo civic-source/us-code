@@ -3,9 +3,9 @@ title: "Section 12b - Calleguas Municipal Water District Recycling Project"
 usc_title: 43
 usc_section: "12b"
 chapter: 12
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 12b"
-generated_at: "2026-03-30T07:49:48.802Z"
+generated_at: "2026-03-30T07:52:30.919Z"
 status: "active"
 ---
 

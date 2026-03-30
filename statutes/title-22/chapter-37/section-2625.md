@@ -3,9 +3,9 @@ title: "Section 2625 - Gifts or decorations on deposit with State Department"
 usc_title: 22
 usc_section: "2625"
 chapter: 37
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 2625"
-generated_at: "2026-03-30T07:49:19.042Z"
+generated_at: "2026-03-30T07:51:13.650Z"
 status: "active"
 ---
 

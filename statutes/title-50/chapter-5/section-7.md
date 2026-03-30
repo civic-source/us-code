@@ -3,9 +3,9 @@ title: "Section 7 - National Defense Stockpile Manager"
 usc_title: 50
 usc_section: "7"
 chapter: 5
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "50 U.S.C. § 7"
-generated_at: "2026-03-30T07:50:18.868Z"
+generated_at: "2026-03-30T07:52:49.841Z"
 status: "active"
 ---
 

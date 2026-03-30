@@ -3,9 +3,9 @@ title: "Section 284f - Repealed. Pub. L. 104–333, div. I, title VIII , § 814(
 usc_title: 16
 usc_section: "284f"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 284f"
-generated_at: "2026-03-30T07:49:05.906Z"
+generated_at: "2026-03-30T07:51:07.684Z"
 status: "repealed"
 ---
 

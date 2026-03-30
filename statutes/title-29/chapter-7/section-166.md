@@ -3,9 +3,9 @@ title: "Section 166 - Separability"
 usc_title: 29
 usc_section: "166"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "29 U.S.C. § 166"
-generated_at: "2026-03-30T07:49:22.763Z"
+generated_at: "2026-03-30T07:51:27.324Z"
 status: "active"
 ---
 

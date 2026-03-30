@@ -3,9 +3,9 @@ title: "Section 7487 - Enforcement"
 usc_title: 7
 usc_section: "7487"
 chapter: 101
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 7487"
-generated_at: "2026-03-30T07:48:18.791Z"
+generated_at: "2026-03-30T07:50:43.512Z"
 status: "active"
 ---
 

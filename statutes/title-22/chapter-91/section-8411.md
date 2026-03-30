@@ -3,9 +3,9 @@ title: "Section 8411 - Authorization of assistance"
 usc_title: 22
 usc_section: "8411"
 chapter: 91
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 8411"
-generated_at: "2026-03-30T07:49:19.109Z"
+generated_at: "2026-03-30T07:51:13.717Z"
 status: "active"
 ---
 

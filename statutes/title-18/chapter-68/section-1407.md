@@ -3,9 +3,9 @@ title: "Section 1407 - Repealed. Pub. L. 91–513, title III , § 1101(b)(1)(A),
 usc_title: 18
 usc_section: "1407"
 chapter: 68
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "18 U.S.C. § 1407"
-generated_at: "2026-03-30T07:48:55.475Z"
+generated_at: "2026-03-30T07:51:00.570Z"
 status: "repealed"
 ---
 

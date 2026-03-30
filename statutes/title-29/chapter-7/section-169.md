@@ -3,9 +3,9 @@ title: "Section 169 - Employees with religious convictions; payment of dues and 
 usc_title: 29
 usc_section: "169"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "29 U.S.C. § 169"
-generated_at: "2026-03-30T07:49:22.763Z"
+generated_at: "2026-03-30T07:51:27.325Z"
 status: "active"
 ---
 

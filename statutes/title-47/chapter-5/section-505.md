@@ -3,9 +3,9 @@ title: "Section 505 - Venue of trials"
 usc_title: 47
 usc_section: "505"
 chapter: 5
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "47 U.S.C. § 505"
-generated_at: "2026-03-30T07:50:12.599Z"
+generated_at: "2026-03-30T07:52:43.701Z"
 status: "active"
 ---
 

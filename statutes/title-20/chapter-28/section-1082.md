@@ -3,9 +3,9 @@ title: "Section 1082 - Legal powers and responsibilities"
 usc_title: 20
 usc_section: "1082"
 chapter: 28
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 1082"
-generated_at: "2026-03-30T07:48:57.326Z"
+generated_at: "2026-03-30T07:51:05.074Z"
 status: "active"
 ---
 

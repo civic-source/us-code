@@ -3,9 +3,9 @@ title: "Section 2252 - Compliance with international agreements"
 usc_title: 21
 usc_section: "2252"
 chapter: 27
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "21 U.S.C. § 2252"
-generated_at: "2026-03-30T07:49:09.845Z"
+generated_at: "2026-03-30T07:51:21.627Z"
 status: "active"
 ---
 

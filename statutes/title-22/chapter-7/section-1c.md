@@ -3,9 +3,9 @@ title: "Section 1c - Additional increase in quota of United States"
 usc_title: 22
 usc_section: "1c"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 1c"
-generated_at: "2026-03-30T07:49:18.994Z"
+generated_at: "2026-03-30T07:51:13.600Z"
 status: "active"
 ---
 

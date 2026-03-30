@@ -3,9 +3,9 @@ title: "Section 6307 - Sick leave; accrual and accumulation"
 usc_title: 5
 usc_section: "6307"
 chapter: 63
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "5 U.S.C. § 6307"
-generated_at: "2026-03-30T07:48:04.597Z"
+generated_at: "2026-03-30T07:50:37.201Z"
 status: "active"
 ---
 

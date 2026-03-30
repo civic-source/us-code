@@ -3,9 +3,9 @@ title: "Section 1285b - Establishment of boundaries for certain component rivers
 usc_title: 16
 usc_section: "1285b"
 chapter: 28
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 1285b"
-generated_at: "2026-03-30T07:49:06.043Z"
+generated_at: "2026-03-30T07:51:07.823Z"
 status: "active"
 ---
 

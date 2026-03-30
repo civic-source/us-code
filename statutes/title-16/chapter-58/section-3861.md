@@ -3,9 +3,9 @@ title: "Section 3861 - Establishment of State technical committees"
 usc_title: 16
 usc_section: "3861"
 chapter: 58
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 3861"
-generated_at: "2026-03-30T07:49:06.094Z"
+generated_at: "2026-03-30T07:51:07.874Z"
 status: "active"
 ---
 

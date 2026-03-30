@@ -3,9 +3,9 @@ title: "Section 910 - Repealed. Pub. L. 90–351, title IV , § 906, June 19, 19
 usc_title: 15
 usc_section: "910"
 chapter: 18
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 910"
-generated_at: "2026-03-30T07:48:52.134Z"
+generated_at: "2026-03-30T07:50:53.579Z"
 status: "repealed"
 ---
 

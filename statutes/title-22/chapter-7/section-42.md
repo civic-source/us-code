@@ -3,9 +3,9 @@ title: "Section 42 - Construction, operation, and maintenance of flood control w
 usc_title: 22
 usc_section: "42"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 42"
-generated_at: "2026-03-30T07:49:18.989Z"
+generated_at: "2026-03-30T07:51:13.595Z"
 status: "active"
 ---
 

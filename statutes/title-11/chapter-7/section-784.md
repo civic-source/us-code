@@ -3,9 +3,9 @@ title: "Section 784 - Right to be heard"
 usc_title: 11
 usc_section: "784"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "11 U.S.C. § 784"
-generated_at: "2026-03-30T07:48:46.558Z"
+generated_at: "2026-03-30T07:50:50.682Z"
 status: "active"
 ---
 

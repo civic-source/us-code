@@ -3,9 +3,9 @@ title: "Section 28 - Repealed. Pub. L. 103–325, title VI , § 602(e)(1), Sept.
 usc_title: 12
 usc_section: "28"
 chapter: 2
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 28"
-generated_at: "2026-03-30T07:48:49.444Z"
+generated_at: "2026-03-30T07:50:57.094Z"
 status: "repealed"
 ---
 

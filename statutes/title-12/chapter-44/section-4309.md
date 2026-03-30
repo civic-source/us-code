@@ -3,9 +3,9 @@ title: "Section 4309 - Administrative enforcement"
 usc_title: 12
 usc_section: "4309"
 chapter: 44
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 4309"
-generated_at: "2026-03-30T07:48:49.567Z"
+generated_at: "2026-03-30T07:50:57.221Z"
 status: "active"
 ---
 

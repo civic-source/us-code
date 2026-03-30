@@ -3,9 +3,9 @@ title: "Section 281a - Structural failures"
 usc_title: 15
 usc_section: "281a"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 281a"
-generated_at: "2026-03-30T07:48:52.098Z"
+generated_at: "2026-03-30T07:50:53.543Z"
 status: "active"
 ---
 

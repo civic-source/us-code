@@ -3,9 +3,9 @@ title: "Section 7805 - Referenda"
 usc_title: 7
 usc_section: "7805"
 chapter: 105
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 7805"
-generated_at: "2026-03-30T07:48:18.798Z"
+generated_at: "2026-03-30T07:50:43.519Z"
 status: "active"
 ---
 

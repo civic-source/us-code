@@ -3,9 +3,9 @@ title: "Section 4110 - Incentives for transfer to qualified purchasers"
 usc_title: 12
 usc_section: "4110"
 chapter: 42
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 4110"
-generated_at: "2026-03-30T07:48:49.564Z"
+generated_at: "2026-03-30T07:50:57.218Z"
 status: "active"
 ---
 

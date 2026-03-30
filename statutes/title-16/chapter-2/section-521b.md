@@ -3,9 +3,9 @@ title: "Section 521b - Report of Secretary of Agriculture prior to purchase or e
 usc_title: 16
 usc_section: "521b"
 chapter: 2
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 521b"
-generated_at: "2026-03-30T07:49:05.980Z"
+generated_at: "2026-03-30T07:51:07.758Z"
 status: "active"
 ---
 

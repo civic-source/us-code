@@ -3,9 +3,9 @@ title: "Section 117a - Per capita distribution of funds to tribe members"
 usc_title: 25
 usc_section: "117a"
 chapter: 4
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "25 U.S.C. § 117a"
-generated_at: "2026-03-30T07:49:10.530Z"
+generated_at: "2026-03-30T07:51:22.595Z"
 status: "active"
 ---
 

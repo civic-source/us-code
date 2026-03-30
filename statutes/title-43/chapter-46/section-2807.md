@@ -3,9 +3,9 @@ title: "Section 2807 - Geoplatform"
 usc_title: 43
 usc_section: "2807"
 chapter: 46
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 2807"
-generated_at: "2026-03-30T07:49:48.850Z"
+generated_at: "2026-03-30T07:52:30.971Z"
 status: "active"
 ---
 

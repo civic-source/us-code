@@ -3,9 +3,9 @@ title: "Section 554a - Employees to be appointed without regard to political aff
 usc_title: 16
 usc_section: "554a"
 chapter: 3
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 554a"
-generated_at: "2026-03-30T07:49:05.989Z"
+generated_at: "2026-03-30T07:51:07.769Z"
 status: "active"
 ---
 

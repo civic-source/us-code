@@ -3,9 +3,9 @@ title: "Section 184a - Authorization of States to include in agreements for cons
 usc_title: 30
 usc_section: "184a"
 chapter: 3
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "30 U.S.C. § 184a"
-generated_at: "2026-03-30T07:49:21.404Z"
+generated_at: "2026-03-30T07:51:24.931Z"
 status: "active"
 ---
 

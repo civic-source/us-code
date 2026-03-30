@@ -3,9 +3,9 @@ title: "Section 990 - Grant to Missouri"
 usc_title: 43
 usc_section: "990"
 chapter: 23
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 990"
-generated_at: "2026-03-30T07:49:48.821Z"
+generated_at: "2026-03-30T07:52:30.940Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2083 - Capitol Preservation Fund"
 usc_title: 2
 usc_section: "2083"
 chapter: 30
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "2 U.S.C. § 2083"
-generated_at: "2026-03-30T07:48:12.687Z"
+generated_at: "2026-03-30T07:50:35.323Z"
 status: "active"
 ---
 

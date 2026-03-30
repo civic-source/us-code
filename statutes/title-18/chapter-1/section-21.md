@@ -3,9 +3,9 @@ title: "Section 21 - Stolen or counterfeit nature of property for certain crimes
 usc_title: 18
 usc_section: "21"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "18 U.S.C. § 21"
-generated_at: "2026-03-30T07:48:55.452Z"
+generated_at: "2026-03-30T07:51:00.548Z"
 status: "active"
 ---
 

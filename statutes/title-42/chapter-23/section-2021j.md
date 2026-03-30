@@ -3,9 +3,9 @@ title: "Section 2021j - Radioactive waste below regulatory concern"
 usc_title: 42
 usc_section: "2021j"
 chapter: 23
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 2021j"
-generated_at: "2026-03-30T07:50:06.977Z"
+generated_at: "2026-03-30T07:52:13.496Z"
 status: "active"
 ---
 

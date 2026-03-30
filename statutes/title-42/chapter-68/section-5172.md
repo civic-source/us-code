@@ -3,9 +3,9 @@ title: "Section 5172 - Repair, restoration, and replacement of damaged facilitie
 usc_title: 42
 usc_section: "5172"
 chapter: 68
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 5172"
-generated_at: "2026-03-30T07:50:07.042Z"
+generated_at: "2026-03-30T07:52:13.562Z"
 status: "active"
 ---
 

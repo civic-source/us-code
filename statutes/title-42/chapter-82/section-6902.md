@@ -3,9 +3,9 @@ title: "Section 6902 - Objectives and national policy"
 usc_title: 42
 usc_section: "6902"
 chapter: 82
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 6902"
-generated_at: "2026-03-30T07:50:07.081Z"
+generated_at: "2026-03-30T07:52:13.600Z"
 status: "active"
 ---
 

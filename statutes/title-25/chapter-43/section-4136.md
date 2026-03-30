@@ -3,9 +3,9 @@ title: "Section 4136 - Repealed. Pub. L. 106–568, title X , § 1003(k)(2), Dec
 usc_title: 25
 usc_section: "4136"
 chapter: 43
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "25 U.S.C. § 4136"
-generated_at: "2026-03-30T07:49:10.582Z"
+generated_at: "2026-03-30T07:51:22.644Z"
 status: "repealed"
 ---
 

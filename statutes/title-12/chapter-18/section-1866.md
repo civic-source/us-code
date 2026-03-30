@@ -3,9 +3,9 @@ title: "Section 1866 - Services to nonstockholders or nonmembers"
 usc_title: 12
 usc_section: "1866"
 chapter: 18
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 1866"
-generated_at: "2026-03-30T07:48:49.536Z"
+generated_at: "2026-03-30T07:50:57.189Z"
 status: "active"
 ---
 

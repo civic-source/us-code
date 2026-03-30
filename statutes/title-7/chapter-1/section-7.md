@@ -3,9 +3,9 @@ title: "Section 7 - Designation of boards of trade as contract markets"
 usc_title: 7
 usc_section: "7"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 7"
-generated_at: "2026-03-30T07:48:18.631Z"
+generated_at: "2026-03-30T07:50:43.351Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6571 - References"
 usc_title: 22
 usc_section: "6571"
 chapter: 74
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 6571"
-generated_at: "2026-03-30T07:49:19.090Z"
+generated_at: "2026-03-30T07:51:13.699Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2022 - Liens on stock"
 usc_title: 12
 usc_section: "2022"
 chapter: 23
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 2022"
-generated_at: "2026-03-30T07:48:49.538Z"
+generated_at: "2026-03-30T07:50:57.190Z"
 status: "active"
 ---
 

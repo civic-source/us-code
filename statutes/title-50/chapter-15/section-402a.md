@@ -3,9 +3,9 @@ title: "Section 402a - Transferred"
 usc_title: 50
 usc_section: "402a"
 chapter: 15
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "50 U.S.C. § 402a"
-generated_at: "2026-03-30T07:50:18.870Z"
+generated_at: "2026-03-30T07:52:49.843Z"
 status: "transferred"
 ---
 

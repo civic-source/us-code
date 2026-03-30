@@ -3,9 +3,9 @@ title: "Section 430r - Rules and regulations"
 usc_title: 16
 usc_section: "430r"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 430r"
-generated_at: "2026-03-30T07:49:05.937Z"
+generated_at: "2026-03-30T07:51:07.715Z"
 status: "active"
 ---
 

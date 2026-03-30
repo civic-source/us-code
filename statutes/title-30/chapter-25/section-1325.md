@@ -3,9 +3,9 @@ title: "Section 1325 - Limitation on fellowships"
 usc_title: 30
 usc_section: "1325"
 chapter: 25
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "30 U.S.C. § 1325"
-generated_at: "2026-03-30T07:49:21.430Z"
+generated_at: "2026-03-30T07:51:24.957Z"
 status: "active"
 ---
 

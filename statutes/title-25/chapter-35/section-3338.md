@@ -3,9 +3,9 @@ title: "Section 3338 - Repealed. Pub. L. 105–332 , § 6(b)(1), Oct. 31, 1998 ,
 usc_title: 25
 usc_section: "3338"
 chapter: 35
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "25 U.S.C. § 3338"
-generated_at: "2026-03-30T07:49:10.575Z"
+generated_at: "2026-03-30T07:51:22.637Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 630 - Limitation on expenditure for purchase of dredges"
 usc_title: 33
 usc_section: "630"
 chapter: 12
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "33 U.S.C. § 630"
-generated_at: "2026-03-30T07:49:41.172Z"
+generated_at: "2026-03-30T07:51:38.222Z"
 status: "active"
 ---
 

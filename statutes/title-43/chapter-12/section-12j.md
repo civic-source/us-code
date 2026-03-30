@@ -3,9 +3,9 @@ title: "Section 12j - Orange County Regional Water Reclamation Project"
 usc_title: 43
 usc_section: "12j"
 chapter: 12
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 12j"
-generated_at: "2026-03-30T07:49:48.802Z"
+generated_at: "2026-03-30T07:52:30.920Z"
 status: "active"
 ---
 

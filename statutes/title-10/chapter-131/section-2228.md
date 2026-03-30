@@ -3,9 +3,9 @@ title: "Section 2228 - Office of Corrosion Policy and Oversight"
 usc_title: 10
 usc_section: "2228"
 chapter: 131
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 2228"
-generated_at: "2026-03-30T07:48:43.945Z"
+generated_at: "2026-03-30T07:50:48.276Z"
 status: "active"
 ---
 

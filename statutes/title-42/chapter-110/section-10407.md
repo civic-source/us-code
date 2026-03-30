@@ -3,9 +3,9 @@ title: "Section 10407 - State application"
 usc_title: 42
 usc_section: "10407"
 chapter: 110
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 10407"
-generated_at: "2026-03-30T07:50:07.194Z"
+generated_at: "2026-03-30T07:52:13.701Z"
 status: "active"
 ---
 

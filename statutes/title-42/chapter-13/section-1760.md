@@ -3,9 +3,9 @@ title: "Section 1760 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "1760"
 chapter: 13
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 1760"
-generated_at: "2026-03-30T07:50:06.946Z"
+generated_at: "2026-03-30T07:52:13.466Z"
 status: "active"
 ---
 

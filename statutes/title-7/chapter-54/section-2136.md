@@ -3,9 +3,9 @@ title: "Section 2136 - Registration of research facilities, handlers, carriers a
 usc_title: 7
 usc_section: "2136"
 chapter: 54
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 2136"
-generated_at: "2026-03-30T07:48:18.734Z"
+generated_at: "2026-03-30T07:50:43.453Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 691i - Transferred"
 usc_title: 20
 usc_section: "691i"
 chapter: 20
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 691i"
-generated_at: "2026-03-30T07:48:57.300Z"
+generated_at: "2026-03-30T07:51:05.047Z"
 status: "transferred"
 ---
 

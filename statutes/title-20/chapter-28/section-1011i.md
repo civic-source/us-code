@@ -3,9 +3,9 @@ title: "Section 1011i - Drug and alcohol abuse prevention"
 usc_title: 20
 usc_section: "1011i"
 chapter: 28
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 1011i"
-generated_at: "2026-03-30T07:48:57.305Z"
+generated_at: "2026-03-30T07:51:05.053Z"
 status: "active"
 ---
 

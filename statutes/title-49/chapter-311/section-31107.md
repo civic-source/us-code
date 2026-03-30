@@ -3,9 +3,9 @@ title: "Section 31107 - Repealed. Pub. L. 114–94, div. A, title V , § 5101(e)
 usc_title: 49
 usc_section: "31107"
 chapter: 311
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "49 U.S.C. § 31107"
-generated_at: "2026-03-30T07:50:15.311Z"
+generated_at: "2026-03-30T07:52:37.154Z"
 status: "repealed"
 ---
 

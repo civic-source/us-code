@@ -3,9 +3,9 @@ title: "Section 6453 - Local educational agency applications"
 usc_title: 20
 usc_section: "6453"
 chapter: 70
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 6453"
-generated_at: "2026-03-30T07:48:57.397Z"
+generated_at: "2026-03-30T07:51:05.147Z"
 status: "active"
 ---
 

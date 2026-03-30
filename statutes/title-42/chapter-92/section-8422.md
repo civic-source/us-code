@@ -3,9 +3,9 @@ title: "Section 8422 - Compliance report"
 usc_title: 42
 usc_section: "8422"
 chapter: 92
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 8422"
-generated_at: "2026-03-30T07:50:07.141Z"
+generated_at: "2026-03-30T07:52:13.661Z"
 status: "active"
 ---
 

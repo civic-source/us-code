@@ -3,9 +3,9 @@ title: "Section 4104 - Definition"
 usc_title: 44
 usc_section: "4104"
 chapter: 41
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "44 U.S.C. § 4104"
-generated_at: "2026-03-30T07:49:48.246Z"
+generated_at: "2026-03-30T07:51:53.220Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 953 - National Foundation on the Arts and the Humanities"
 usc_title: 20
 usc_section: "953"
 chapter: 26
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 953"
-generated_at: "2026-03-30T07:48:57.302Z"
+generated_at: "2026-03-30T07:51:05.049Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1281 - Designation procedures"
 usc_title: 30
 usc_section: "1281"
 chapter: 25
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "30 U.S.C. § 1281"
-generated_at: "2026-03-30T07:49:21.428Z"
+generated_at: "2026-03-30T07:51:24.955Z"
 status: "active"
 ---
 

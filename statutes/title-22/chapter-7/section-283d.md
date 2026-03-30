@@ -3,9 +3,9 @@ title: "Section 283d - Federal Reserve banks as depositories"
 usc_title: 22
 usc_section: "283d"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 283d"
-generated_at: "2026-03-30T07:49:18.990Z"
+generated_at: "2026-03-30T07:51:13.596Z"
 status: "active"
 ---
 

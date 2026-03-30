@@ -3,9 +3,9 @@ title: "Section 690b - Consent of Utah to acquisition of lands for Bear River Re
 usc_title: 16
 usc_section: "690b"
 chapter: 6
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 690b"
-generated_at: "2026-03-30T07:49:06.002Z"
+generated_at: "2026-03-30T07:51:07.782Z"
 status: "active"
 ---
 

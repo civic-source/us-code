@@ -3,9 +3,9 @@ title: "Section 965 - Treatment of deferred foreign income upon transition to pa
 usc_title: 26
 usc_section: "965"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "26 U.S.C. § 965"
-generated_at: "2026-03-30T07:49:37.120Z"
+generated_at: "2026-03-30T07:51:34.207Z"
 status: "active"
 ---
 

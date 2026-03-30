@@ -3,9 +3,9 @@ title: "Section 3692 - Advisory committee"
 usc_title: 38
 usc_section: "3692"
 chapter: 36
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "38 U.S.C. § 3692"
-generated_at: "2026-03-30T07:49:45.569Z"
+generated_at: "2026-03-30T07:51:44.948Z"
 status: "active"
 ---
 

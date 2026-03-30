@@ -3,9 +3,9 @@ title: "Section 794 - Nondiscrimination under Federal grants and programs"
 usc_title: 29
 usc_section: "794"
 chapter: 16
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "29 U.S.C. § 794"
-generated_at: "2026-03-30T07:49:22.780Z"
+generated_at: "2026-03-30T07:51:27.340Z"
 status: "active"
 ---
 

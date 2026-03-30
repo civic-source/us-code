@@ -3,9 +3,9 @@ title: "Section 118 - Submission of reports to Congress in electronic form"
 usc_title: 38
 usc_section: "118"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "38 U.S.C. § 118"
-generated_at: "2026-03-30T07:49:45.537Z"
+generated_at: "2026-03-30T07:51:44.917Z"
 status: "active"
 ---
 

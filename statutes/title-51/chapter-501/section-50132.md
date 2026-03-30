@@ -3,9 +3,9 @@ title: "Section 50132 - Acquisition of commercial space transportation services"
 usc_title: 51
 usc_section: "50132"
 chapter: 501
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "51 U.S.C. § 50132"
-generated_at: "2026-03-30T07:50:20.808Z"
+generated_at: "2026-03-30T07:53:03.488Z"
 status: "active"
 ---
 

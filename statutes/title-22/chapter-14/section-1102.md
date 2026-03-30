@@ -3,9 +3,9 @@ title: "Section 1102 - Repealed. Pub. L. 89–348 , § 1(22), Nov. 8, 1965 , 79 
 usc_title: 22
 usc_section: "1102"
 chapter: 14
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 1102"
-generated_at: "2026-03-30T07:49:19.004Z"
+generated_at: "2026-03-30T07:51:13.611Z"
 status: "repealed"
 ---
 

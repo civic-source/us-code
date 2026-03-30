@@ -3,9 +3,9 @@ title: "Section 657a - HUBZone program"
 usc_title: 15
 usc_section: "657a"
 chapter: 14
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 657a"
-generated_at: "2026-03-30T07:48:52.118Z"
+generated_at: "2026-03-30T07:50:53.563Z"
 status: "active"
 ---
 

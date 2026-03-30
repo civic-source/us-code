@@ -3,9 +3,9 @@ title: "Section 2143 - Regular lieutenants; separation for failure of selection 
 usc_title: 14
 usc_section: "2143"
 chapter: 21
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "14 U.S.C. § 2143"
-generated_at: "2026-03-30T07:48:46.252Z"
+generated_at: "2026-03-30T07:50:50.372Z"
 status: "active"
 ---
 

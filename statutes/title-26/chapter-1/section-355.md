@@ -3,9 +3,9 @@ title: "Section 355 - Distribution of stock and securities of a controlled corpo
 usc_title: 26
 usc_section: "355"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "26 U.S.C. § 355"
-generated_at: "2026-03-30T07:49:37.055Z"
+generated_at: "2026-03-30T07:51:34.139Z"
 status: "active"
 ---
 

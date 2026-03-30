@@ -3,9 +3,9 @@ title: "Section 14305 - Information gathering and access"
 usc_title: 42
 usc_section: "14305"
 chapter: 137
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 14305"
-generated_at: "2026-03-30T07:50:07.258Z"
+generated_at: "2026-03-30T07:52:13.755Z"
 status: "active"
 ---
 

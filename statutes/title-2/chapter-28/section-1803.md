@@ -3,9 +3,9 @@ title: "Section 1803 - Delegation of authority"
 usc_title: 2
 usc_section: "1803"
 chapter: 28
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "2 U.S.C. § 1803"
-generated_at: "2026-03-30T07:48:12.681Z"
+generated_at: "2026-03-30T07:50:35.316Z"
 status: "active"
 ---
 

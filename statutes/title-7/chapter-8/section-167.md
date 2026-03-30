@@ -3,9 +3,9 @@ title: "Section 167 - Repealed. Pub. L. 106–224, title IV , § 438(a)(1), June
 usc_title: 7
 usc_section: "167"
 chapter: 8
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 167"
-generated_at: "2026-03-30T07:48:18.656Z"
+generated_at: "2026-03-30T07:50:43.375Z"
 status: "repealed"
 ---
 

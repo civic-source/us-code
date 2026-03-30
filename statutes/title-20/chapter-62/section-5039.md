@@ -3,9 +3,9 @@ title: "Section 5039 - Repealed. Pub. L. 103–382, title III , § 391(i), (j), 
 usc_title: 20
 usc_section: "5039"
 chapter: 62
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 5039"
-generated_at: "2026-03-30T07:48:57.385Z"
+generated_at: "2026-03-30T07:51:05.135Z"
 status: "repealed"
 ---
 

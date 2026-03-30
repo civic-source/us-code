@@ -3,9 +3,9 @@ title: "Section 1542 - Transfer of funds from other Federal agencies to Secretar
 usc_title: 42
 usc_section: "1542"
 chapter: 9
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 1542"
-generated_at: "2026-03-30T07:50:06.939Z"
+generated_at: "2026-03-30T07:52:13.458Z"
 status: "active"
 ---
 

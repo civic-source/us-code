@@ -3,9 +3,9 @@ title: "Section 277b - Works or projects under treaty"
 usc_title: 22
 usc_section: "277b"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 277b"
-generated_at: "2026-03-30T07:49:18.988Z"
+generated_at: "2026-03-30T07:51:13.594Z"
 status: "active"
 ---
 

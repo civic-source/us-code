@@ -3,9 +3,9 @@ title: "Section 202 - Certain classes of persons and corporations excepted; inse
 usc_title: 21
 usc_section: "202"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "21 U.S.C. § 202"
-generated_at: "2026-03-30T07:49:09.771Z"
+generated_at: "2026-03-30T07:51:21.555Z"
 status: "active"
 ---
 

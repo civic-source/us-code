@@ -3,9 +3,9 @@ title: "Section 76bb - Joseph H. Hirshhorn Museum and Sculpture Garden"
 usc_title: 20
 usc_section: "76bb"
 chapter: 3
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 76bb"
-generated_at: "2026-03-30T07:48:57.295Z"
+generated_at: "2026-03-30T07:51:05.043Z"
 status: "active"
 ---
 

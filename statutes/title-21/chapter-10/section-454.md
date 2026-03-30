@@ -3,9 +3,9 @@ title: "Section 454 - Federal and State cooperation in development and administr
 usc_title: 21
 usc_section: "454"
 chapter: 10
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "21 U.S.C. § 454"
-generated_at: "2026-03-30T07:49:09.822Z"
+generated_at: "2026-03-30T07:51:21.605Z"
 status: "active"
 ---
 

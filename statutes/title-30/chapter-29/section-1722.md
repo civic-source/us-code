@@ -3,9 +3,9 @@ title: "Section 1722 - Injunction and specific enforcement authority"
 usc_title: 30
 usc_section: "1722"
 chapter: 29
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "30 U.S.C. § 1722"
-generated_at: "2026-03-30T07:49:21.434Z"
+generated_at: "2026-03-30T07:51:24.961Z"
 status: "active"
 ---
 

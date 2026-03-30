@@ -3,9 +3,9 @@ title: "Section 7993 - Repealed. Pub. L. 110–234, title I , § 1623(a), May 22
 usc_title: 7
 usc_section: "7993"
 chapter: 106
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 7993"
-generated_at: "2026-03-30T07:48:18.803Z"
+generated_at: "2026-03-30T07:50:43.523Z"
 status: "repealed"
 ---
 

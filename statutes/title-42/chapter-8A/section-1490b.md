@@ -3,9 +3,9 @@ title: "Section 1490b - Housing for rural trainees"
 usc_title: 42
 usc_section: "1490b"
 chapter: 8
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 1490b"
-generated_at: "2026-03-30T07:50:06.937Z"
+generated_at: "2026-03-30T07:52:13.456Z"
 status: "active"
 ---
 

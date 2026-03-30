@@ -3,9 +3,9 @@ title: "Section 285ee - Fifth capital increase"
 usc_title: 22
 usc_section: "285ee"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 285ee"
-generated_at: "2026-03-30T07:49:18.993Z"
+generated_at: "2026-03-30T07:51:13.599Z"
 status: "active"
 ---
 

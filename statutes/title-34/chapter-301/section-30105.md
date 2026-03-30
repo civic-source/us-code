@@ -3,9 +3,9 @@ title: "Section 30105 - Additional funding for resources to investigate and pros
 usc_title: 34
 usc_section: "30105"
 chapter: 301
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "34 U.S.C. § 30105"
-generated_at: "2026-03-30T07:49:40.356Z"
+generated_at: "2026-03-30T07:51:39.281Z"
 status: "active"
 ---
 

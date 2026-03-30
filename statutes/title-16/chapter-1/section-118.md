@@ -3,9 +3,9 @@ title: "Section 118 - Appropriations; availability for operation of Aileen Nusba
 usc_title: 16
 usc_section: "118"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 118"
-generated_at: "2026-03-30T07:49:05.897Z"
+generated_at: "2026-03-30T07:51:07.674Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2206 - Descent and distribution"
 usc_title: 25
 usc_section: "2206"
 chapter: 24
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "25 U.S.C. § 2206"
-generated_at: "2026-03-30T07:49:10.563Z"
+generated_at: "2026-03-30T07:51:22.626Z"
 status: "active"
 ---
 

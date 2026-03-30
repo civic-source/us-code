@@ -3,9 +3,9 @@ title: "Section 5504a - Repealed. Pub. L. 96–125, title VIII , § 804(b), Nov.
 usc_title: 42
 usc_section: "5504a"
 chapter: 71
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 5504a"
-generated_at: "2026-03-30T07:50:07.052Z"
+generated_at: "2026-03-30T07:52:13.572Z"
 status: "repealed"
 ---
 

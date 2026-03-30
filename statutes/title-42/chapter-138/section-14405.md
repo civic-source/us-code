@@ -3,9 +3,9 @@ title: "Section 14405 - Restriction on use of other Federal funds"
 usc_title: 42
 usc_section: "14405"
 chapter: 138
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 14405"
-generated_at: "2026-03-30T07:50:07.259Z"
+generated_at: "2026-03-30T07:52:13.755Z"
 status: "active"
 ---
 

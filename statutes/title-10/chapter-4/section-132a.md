@@ -3,9 +3,9 @@ title: "Section 132a - Chief Management Officer"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-30T07:48:43.868Z"
+generated_at: "2026-03-30T07:50:48.201Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7807 - Audit of accounts"
 usc_title: 38
 usc_section: "7807"
 chapter: 78
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "38 U.S.C. § 7807"
-generated_at: "2026-03-30T07:49:45.593Z"
+generated_at: "2026-03-30T07:51:44.971Z"
 status: "active"
 ---
 

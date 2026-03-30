@@ -3,9 +3,9 @@ title: "Section 3607 - Religious organization or private club exemption"
 usc_title: 42
 usc_section: "3607"
 chapter: 45
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 3607"
-generated_at: "2026-03-30T07:50:07.015Z"
+generated_at: "2026-03-30T07:52:13.533Z"
 status: "active"
 ---
 

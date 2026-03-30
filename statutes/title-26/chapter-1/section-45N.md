@@ -3,9 +3,9 @@ title: "Section 45N - Mine rescue team training credit"
 usc_title: 26
 usc_section: "45N"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "26 U.S.C. § 45N"
-generated_at: "2026-03-30T07:49:37.012Z"
+generated_at: "2026-03-30T07:51:34.095Z"
 status: "active"
 ---
 

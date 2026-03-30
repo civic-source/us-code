@@ -3,9 +3,9 @@ title: "Section 2608 - Acceptance of contributions for defense programs, project
 usc_title: 10
 usc_section: "2608"
 chapter: 155
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 2608"
-generated_at: "2026-03-30T07:48:43.970Z"
+generated_at: "2026-03-30T07:50:48.301Z"
 status: "active"
 ---
 

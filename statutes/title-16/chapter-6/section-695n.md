@@ -3,9 +3,9 @@ title: "Section 695n - Leases of Lower Klamath and Tule Lake National Wildlife R
 usc_title: 16
 usc_section: "695n"
 chapter: 6
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 695n"
-generated_at: "2026-03-30T07:49:06.003Z"
+generated_at: "2026-03-30T07:51:07.782Z"
 status: "active"
 ---
 

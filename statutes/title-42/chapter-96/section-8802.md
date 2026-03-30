@@ -3,9 +3,9 @@ title: "Section 8802 - Definitions"
 usc_title: 42
 usc_section: "8802"
 chapter: 96
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 8802"
-generated_at: "2026-03-30T07:50:07.145Z"
+generated_at: "2026-03-30T07:52:13.664Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2033 - Property in which the decedent had an interest"
 usc_title: 26
 usc_section: "2033"
 chapter: 11
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "26 U.S.C. § 2033"
-generated_at: "2026-03-30T07:49:37.144Z"
+generated_at: "2026-03-30T07:51:34.233Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Fees"
 usc_title: 7
 usc_section: "6"
 chapter: 50
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-30T07:48:18.722Z"
+generated_at: "2026-03-30T07:50:43.441Z"
 status: "active"
 ---
 

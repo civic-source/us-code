@@ -3,9 +3,9 @@ title: "Section 4 - Investigation of lignite coal and peat"
 usc_title: 30
 usc_section: "4"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "30 U.S.C. § 4"
-generated_at: "2026-03-30T07:49:21.400Z"
+generated_at: "2026-03-30T07:51:24.928Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3513 - Director review of agency activities; reporting; agency r
 usc_title: 44
 usc_section: "3513"
 chapter: 35
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "44 U.S.C. § 3513"
-generated_at: "2026-03-30T07:49:48.243Z"
+generated_at: "2026-03-30T07:51:53.217Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8262b - Intergovernmental energy management planning and coordin
 usc_title: 42
 usc_section: "8262b"
 chapter: 91
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 8262b"
-generated_at: "2026-03-30T07:50:07.138Z"
+generated_at: "2026-03-30T07:52:13.658Z"
 status: "active"
 ---
 

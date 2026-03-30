@@ -3,9 +3,9 @@ title: "Section 1532 - Definitions"
 usc_title: 16
 usc_section: "1532"
 chapter: 35
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 1532"
-generated_at: "2026-03-30T07:49:06.054Z"
+generated_at: "2026-03-30T07:51:07.835Z"
 status: "active"
 ---
 

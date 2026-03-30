@@ -3,9 +3,9 @@ title: "Section 6011 - Requirement of referendum"
 usc_title: 7
 usc_section: "6011"
 chapter: 89
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 6011"
-generated_at: "2026-03-30T07:48:18.770Z"
+generated_at: "2026-03-30T07:50:43.489Z"
 status: "active"
 ---
 

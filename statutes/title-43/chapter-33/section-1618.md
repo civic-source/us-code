@@ -3,9 +3,9 @@ title: "Section 1618 - Revocation of reserved rights; excepted reserve; acquisit
 usc_title: 43
 usc_section: "1618"
 chapter: 33
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 1618"
-generated_at: "2026-03-30T07:49:48.833Z"
+generated_at: "2026-03-30T07:52:30.953Z"
 status: "active"
 ---
 

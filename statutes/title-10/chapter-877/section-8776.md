@@ -3,9 +3,9 @@ title: "Section 8776 - Quarters: extension telephones"
 usc_title: 10
 usc_section: "8776"
 chapter: 877
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 8776"
-generated_at: "2026-03-30T07:48:43.998Z"
+generated_at: "2026-03-30T07:50:48.328Z"
 status: "active"
 ---
 

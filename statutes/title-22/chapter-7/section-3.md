@@ -3,9 +3,9 @@ title: "Section 3 - Federal Reserve Banks as depositories"
 usc_title: 22
 usc_section: "3"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-03-30T07:49:19.000Z"
+generated_at: "2026-03-30T07:51:13.606Z"
 status: "active"
 ---
 

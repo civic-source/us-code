@@ -3,9 +3,9 @@ title: "Section 1152 - Prohibitions"
 usc_title: 16
 usc_section: "1152"
 chapter: 24
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 1152"
-generated_at: "2026-03-30T07:49:06.034Z"
+generated_at: "2026-03-30T07:51:07.814Z"
 status: "active"
 ---
 

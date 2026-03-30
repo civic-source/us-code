@@ -3,9 +3,9 @@ title: "Section 18303 - Standards for arbitrators"
 usc_title: 40
 usc_section: "18303"
 chapter: 183
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "40 U.S.C. § 18303"
-generated_at: "2026-03-30T07:49:44.024Z"
+generated_at: "2026-03-30T07:51:51.429Z"
 status: "active"
 ---
 

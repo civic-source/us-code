@@ -3,9 +3,9 @@ title: "Section 544a - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 
 usc_title: 33
 usc_section: "544a"
 chapter: 12
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "33 U.S.C. § 544a"
-generated_at: "2026-03-30T07:49:41.169Z"
+generated_at: "2026-03-30T07:51:38.218Z"
 status: "repealed"
 ---
 

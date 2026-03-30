@@ -3,9 +3,9 @@ title: "Section 1275 - Additions to national wild and scenic rivers system"
 usc_title: 16
 usc_section: "1275"
 chapter: 28
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 1275"
-generated_at: "2026-03-30T07:49:06.041Z"
+generated_at: "2026-03-30T07:51:07.822Z"
 status: "active"
 ---
 

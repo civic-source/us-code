@@ -3,9 +3,9 @@ title: "Section 408a - Acceptance of title to lands"
 usc_title: 16
 usc_section: "408a"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 408a"
-generated_at: "2026-03-30T07:49:05.913Z"
+generated_at: "2026-03-30T07:51:07.690Z"
 status: "active"
 ---
 

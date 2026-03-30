@@ -3,9 +3,9 @@ title: "Section 4811 - Referendum"
 usc_title: 7
 usc_section: "4811"
 chapter: 79
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 4811"
-generated_at: "2026-03-30T07:48:18.760Z"
+generated_at: "2026-03-30T07:50:43.480Z"
 status: "active"
 ---
 

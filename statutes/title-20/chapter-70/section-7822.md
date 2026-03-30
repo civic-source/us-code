@@ -3,9 +3,9 @@ title: "Section 7822 - Single local educational agency States"
 usc_title: 20
 usc_section: "7822"
 chapter: 70
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 7822"
-generated_at: "2026-03-30T07:48:57.413Z"
+generated_at: "2026-03-30T07:51:05.165Z"
 status: "active"
 ---
 

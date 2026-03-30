@@ -3,9 +3,9 @@ title: "Section 569b - Contracts; architect and engineering services; surveying 
 usc_title: 33
 usc_section: "569b"
 chapter: 12
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "33 U.S.C. § 569b"
-generated_at: "2026-03-30T07:49:41.170Z"
+generated_at: "2026-03-30T07:51:38.219Z"
 status: "active"
 ---
 

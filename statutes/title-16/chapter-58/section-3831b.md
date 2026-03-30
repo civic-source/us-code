@@ -3,9 +3,9 @@ title: "Section 3831b - Farmable wetland program"
 usc_title: 16
 usc_section: "3831b"
 chapter: 58
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 3831b"
-generated_at: "2026-03-30T07:49:06.089Z"
+generated_at: "2026-03-30T07:51:07.868Z"
 status: "active"
 ---
 

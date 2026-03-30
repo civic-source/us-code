@@ -3,9 +3,9 @@ title: "Section 8545 - Warning coordination meteorologists at weather forecast o
 usc_title: 15
 usc_section: "8545"
 chapter: 111
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 8545"
-generated_at: "2026-03-30T07:48:52.228Z"
+generated_at: "2026-03-30T07:50:53.674Z"
 status: "active"
 ---
 

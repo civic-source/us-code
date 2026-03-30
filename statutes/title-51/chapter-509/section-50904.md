@@ -3,9 +3,9 @@ title: "Section 50904 - Restrictions on launches, operations, and reentries"
 usc_title: 51
 usc_section: "50904"
 chapter: 509
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "51 U.S.C. § 50904"
-generated_at: "2026-03-30T07:50:20.809Z"
+generated_at: "2026-03-30T07:53:03.489Z"
 status: "active"
 ---
 

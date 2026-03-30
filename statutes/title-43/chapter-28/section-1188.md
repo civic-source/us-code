@@ -3,9 +3,9 @@ title: "Section 1188 - Transferred"
 usc_title: 43
 usc_section: "1188"
 chapter: 28
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 1188"
-generated_at: "2026-03-30T07:49:48.822Z"
+generated_at: "2026-03-30T07:52:30.941Z"
 status: "transferred"
 ---
 

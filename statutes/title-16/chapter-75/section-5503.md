@@ -3,9 +3,9 @@ title: "Section 5503 - Permitting"
 usc_title: 16
 usc_section: "5503"
 chapter: 75
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 5503"
-generated_at: "2026-03-30T07:49:06.106Z"
+generated_at: "2026-03-30T07:51:07.886Z"
 status: "active"
 ---
 

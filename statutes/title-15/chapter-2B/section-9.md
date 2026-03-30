@@ -3,9 +3,9 @@ title: "Section 9 - Study and rulemaking on assigned credit ratings"
 usc_title: 15
 usc_section: "9"
 chapter: 2
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 9"
-generated_at: "2026-03-30T07:48:52.073Z"
+generated_at: "2026-03-30T07:50:53.517Z"
 status: "active"
 ---
 

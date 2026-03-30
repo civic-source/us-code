@@ -3,9 +3,9 @@ title: "Section 1102 - Printing to be authorized by law and necessary to the pub
 usc_title: 44
 usc_section: "1102"
 chapter: 11
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "44 U.S.C. § 1102"
-generated_at: "2026-03-30T07:49:48.237Z"
+generated_at: "2026-03-30T07:51:53.211Z"
 status: "active"
 ---
 

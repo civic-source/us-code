@@ -3,9 +3,9 @@ title: "Section 450nn - General Grant National Memorial; establishment"
 usc_title: 16
 usc_section: "450nn"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 450nn"
-generated_at: "2026-03-30T07:49:05.941Z"
+generated_at: "2026-03-30T07:51:07.719Z"
 status: "active"
 ---
 

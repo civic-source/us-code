@@ -3,9 +3,9 @@ title: "Section 107 - Operation of vending facilities"
 usc_title: 20
 usc_section: "107"
 chapter: 6
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 107"
-generated_at: "2026-03-30T07:48:57.298Z"
+generated_at: "2026-03-30T07:51:05.046Z"
 status: "active"
 ---
 

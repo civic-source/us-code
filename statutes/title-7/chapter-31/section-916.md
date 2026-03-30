@@ -3,9 +3,9 @@ title: "Section 916 - Criteria for loans"
 usc_title: 7
 usc_section: "916"
 chapter: 31
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 916"
-generated_at: "2026-03-30T07:48:18.672Z"
+generated_at: "2026-03-30T07:50:43.390Z"
 status: "active"
 ---
 

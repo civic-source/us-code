@@ -3,9 +3,9 @@ title: "Section 44913 - Explosive detection"
 usc_title: 49
 usc_section: "44913"
 chapter: 449
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "49 U.S.C. § 44913"
-generated_at: "2026-03-30T07:50:15.337Z"
+generated_at: "2026-03-30T07:52:37.177Z"
 status: "active"
 ---
 

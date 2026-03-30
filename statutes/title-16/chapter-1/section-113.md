@@ -3,9 +3,9 @@ title: "Section 113 - Examinations, excavations, and gathering objects of intere
 usc_title: 16
 usc_section: "113"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 113"
-generated_at: "2026-03-30T07:49:05.897Z"
+generated_at: "2026-03-30T07:51:07.674Z"
 status: "active"
 ---
 

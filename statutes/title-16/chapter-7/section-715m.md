@@ -3,9 +3,9 @@ title: "Section 715m - Repealed. Pub. L. 89–669 , § 7(d), Oct. 15, 1966 , 80 
 usc_title: 16
 usc_section: "715m"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 715m"
-generated_at: "2026-03-30T07:49:06.006Z"
+generated_at: "2026-03-30T07:51:07.786Z"
 status: "repealed"
 ---
 

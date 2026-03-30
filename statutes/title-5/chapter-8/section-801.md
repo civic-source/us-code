@@ -3,9 +3,9 @@ title: "Section 801 - Congressional review"
 usc_title: 5
 usc_section: "801"
 chapter: 8
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "5 U.S.C. § 801"
-generated_at: "2026-03-30T07:48:04.570Z"
+generated_at: "2026-03-30T07:50:37.178Z"
 status: "active"
 ---
 

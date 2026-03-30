@@ -3,9 +3,9 @@ title: "Section 214b - Continuation of business and corporate entity"
 usc_title: 12
 usc_section: "214b"
 chapter: 2
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 214b"
-generated_at: "2026-03-30T07:48:49.449Z"
+generated_at: "2026-03-30T07:50:57.099Z"
 status: "active"
 ---
 

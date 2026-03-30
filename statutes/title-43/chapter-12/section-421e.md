@@ -3,9 +3,9 @@ title: "Section 421e - Municipal and industrial water supply delivery and distri
 usc_title: 43
 usc_section: "421e"
 chapter: 12
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 421e"
-generated_at: "2026-03-30T07:49:48.805Z"
+generated_at: "2026-03-30T07:52:30.923Z"
 status: "active"
 ---
 

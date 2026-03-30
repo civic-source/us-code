@@ -3,9 +3,9 @@ title: "Section 2213 - Annual conference"
 usc_title: 15
 usc_section: "2213"
 chapter: 49
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 2213"
-generated_at: "2026-03-30T07:48:52.174Z"
+generated_at: "2026-03-30T07:50:53.620Z"
 status: "active"
 ---
 

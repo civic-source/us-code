@@ -3,9 +3,9 @@ title: "Section 1651 - Purpose"
 usc_title: 25
 usc_section: "1651"
 chapter: 18
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "25 U.S.C. § 1651"
-generated_at: "2026-03-30T07:49:10.551Z"
+generated_at: "2026-03-30T07:51:22.615Z"
 status: "active"
 ---
 

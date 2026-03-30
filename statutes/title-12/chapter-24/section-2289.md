@@ -3,9 +3,9 @@ title: "Section 2289 - General powers"
 usc_title: 12
 usc_section: "2289"
 chapter: 24
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 2289"
-generated_at: "2026-03-30T07:48:49.550Z"
+generated_at: "2026-03-30T07:50:57.203Z"
 status: "active"
 ---
 

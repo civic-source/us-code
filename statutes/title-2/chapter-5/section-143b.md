@@ -3,9 +3,9 @@ title: "Section 143b - Payments in advance for subscriptions or other charges"
 usc_title: 2
 usc_section: "143b"
 chapter: 5
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "2 U.S.C. § 143b"
-generated_at: "2026-03-30T07:48:12.656Z"
+generated_at: "2026-03-30T07:50:35.291Z"
 status: "active"
 ---
 

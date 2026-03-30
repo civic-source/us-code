@@ -3,9 +3,9 @@ title: "Section 134 - Under Secretary of Defense for Policy"
 usc_title: 10
 usc_section: "134"
 chapter: 4
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 134"
-generated_at: "2026-03-30T07:48:43.868Z"
+generated_at: "2026-03-30T07:50:48.202Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2286h - Contract authority subject to appropriations"
 usc_title: 42
 usc_section: "2286h"
 chapter: 23
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 2286h"
-generated_at: "2026-03-30T07:50:06.989Z"
+generated_at: "2026-03-30T07:52:13.508Z"
 status: "active"
 ---
 

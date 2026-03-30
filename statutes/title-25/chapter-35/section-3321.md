@@ -3,9 +3,9 @@ title: "Section 3321 - Short title"
 usc_title: 25
 usc_section: "3321"
 chapter: 35
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "25 U.S.C. § 3321"
-generated_at: "2026-03-30T07:49:10.575Z"
+generated_at: "2026-03-30T07:51:22.637Z"
 status: "active"
 ---
 

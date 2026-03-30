@@ -3,9 +3,9 @@ title: "Section 1414a - Special provisions regarding certain dumping sites"
 usc_title: 33
 usc_section: "1414a"
 chapter: 27
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "33 U.S.C. § 1414a"
-generated_at: "2026-03-30T07:49:41.204Z"
+generated_at: "2026-03-30T07:51:38.255Z"
 status: "active"
 ---
 

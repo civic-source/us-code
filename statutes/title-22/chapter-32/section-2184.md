@@ -3,9 +3,9 @@ title: "Section 2184 - Trade credit insurance program for Central America"
 usc_title: 22
 usc_section: "2184"
 chapter: 32
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 2184"
-generated_at: "2026-03-30T07:49:19.020Z"
+generated_at: "2026-03-30T07:51:13.628Z"
 status: "active"
 ---
 

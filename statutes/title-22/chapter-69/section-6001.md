@@ -3,9 +3,9 @@ title: "Section 6001 - Findings"
 usc_title: 22
 usc_section: "6001"
 chapter: 69
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 6001"
-generated_at: "2026-03-30T07:49:19.082Z"
+generated_at: "2026-03-30T07:51:13.691Z"
 status: "active"
 ---
 

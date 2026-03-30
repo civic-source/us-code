@@ -3,9 +3,9 @@ title: "Section 2712 - Authority to control certain terrorism-related services"
 usc_title: 22
 usc_section: "2712"
 chapter: 38
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 2712"
-generated_at: "2026-03-30T07:49:19.046Z"
+generated_at: "2026-03-30T07:51:13.654Z"
 status: "active"
 ---
 

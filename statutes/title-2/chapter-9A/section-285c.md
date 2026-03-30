@@ -3,9 +3,9 @@ title: "Section 285c - Law Revision Counsel"
 usc_title: 2
 usc_section: "285c"
 chapter: 9
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "2 U.S.C. § 285c"
-generated_at: "2026-03-30T07:48:12.662Z"
+generated_at: "2026-03-30T07:50:35.295Z"
 status: "active"
 ---
 

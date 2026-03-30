@@ -3,9 +3,9 @@ title: "Section 2519 - Security investigations"
 usc_title: 22
 usc_section: "2519"
 chapter: 34
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 2519"
-generated_at: "2026-03-30T07:49:19.041Z"
+generated_at: "2026-03-30T07:51:13.649Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2864 - Repealed. Pub. L. 113–128, title V , § 511(a), July 22
 usc_title: 29
 usc_section: "2864"
 chapter: 30
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "29 U.S.C. § 2864"
-generated_at: "2026-03-30T07:49:22.816Z"
+generated_at: "2026-03-30T07:51:27.375Z"
 status: "repealed"
 ---
 

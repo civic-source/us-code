@@ -3,9 +3,9 @@ title: "Section 439 - Cultivation requirement as to entrymen"
 usc_title: 43
 usc_section: "439"
 chapter: 12
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 439"
-generated_at: "2026-03-30T07:49:48.806Z"
+generated_at: "2026-03-30T07:52:30.925Z"
 status: "active"
 ---
 

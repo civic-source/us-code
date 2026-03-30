@@ -3,9 +3,9 @@ title: "Section 233 - Repealed. June 22, 1948, ch. 605 , § 3, 62 Stat. 576"
 usc_title: 30
 usc_section: "233"
 chapter: 3
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "30 U.S.C. § 233"
-generated_at: "2026-03-30T07:49:21.408Z"
+generated_at: "2026-03-30T07:51:24.936Z"
 status: "repealed"
 ---
 

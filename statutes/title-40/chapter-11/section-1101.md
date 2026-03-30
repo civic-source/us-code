@@ -3,9 +3,9 @@ title: "Section 1101 - Policy"
 usc_title: 40
 usc_section: "1101"
 chapter: 11
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "40 U.S.C. § 1101"
-generated_at: "2026-03-30T07:49:44.012Z"
+generated_at: "2026-03-30T07:51:51.418Z"
 status: "active"
 ---
 

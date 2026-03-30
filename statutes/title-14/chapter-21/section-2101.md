@@ -3,9 +3,9 @@ title: "Section 2101 - Original appointment of permanent commissioned officers"
 usc_title: 14
 usc_section: "2101"
 chapter: 21
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "14 U.S.C. § 2101"
-generated_at: "2026-03-30T07:48:46.251Z"
+generated_at: "2026-03-30T07:50:50.370Z"
 status: "active"
 ---
 

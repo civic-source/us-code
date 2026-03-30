@@ -3,9 +3,9 @@ title: "Section 551a - Cooperation by Secretary of Agriculture with States and p
 usc_title: 16
 usc_section: "551a"
 chapter: 3
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 551a"
-generated_at: "2026-03-30T07:49:05.989Z"
+generated_at: "2026-03-30T07:51:07.768Z"
 status: "active"
 ---
 

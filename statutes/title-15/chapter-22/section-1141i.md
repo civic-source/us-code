@@ -3,9 +3,9 @@ title: "Section 1141i - Effect of extension of protection"
 usc_title: 15
 usc_section: "1141i"
 chapter: 22
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 1141i"
-generated_at: "2026-03-30T07:48:52.138Z"
+generated_at: "2026-03-30T07:50:53.583Z"
 status: "active"
 ---
 

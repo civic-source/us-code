@@ -3,9 +3,9 @@ title: "Section 11 - Savings provision"
 usc_title: 42
 usc_section: "11"
 chapter: 55
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T07:50:07.027Z"
+generated_at: "2026-03-30T07:52:13.547Z"
 status: "active"
 ---
 

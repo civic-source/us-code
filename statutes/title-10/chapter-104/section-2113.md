@@ -3,9 +3,9 @@ title: "Section 2113 - Administration of University"
 usc_title: 10
 usc_section: "2113"
 chapter: 104
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 2113"
-generated_at: "2026-03-30T07:48:43.940Z"
+generated_at: "2026-03-30T07:50:48.271Z"
 status: "active"
 ---
 

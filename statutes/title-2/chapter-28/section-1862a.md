@@ -3,9 +3,9 @@ title: "Section 1862a - Use of construction project funds to reimburse Capitol P
 usc_title: 2
 usc_section: "1862a"
 chapter: 28
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "2 U.S.C. § 1862a"
-generated_at: "2026-03-30T07:48:12.682Z"
+generated_at: "2026-03-30T07:50:35.318Z"
 status: "active"
 ---
 

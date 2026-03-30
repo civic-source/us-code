@@ -3,9 +3,9 @@ title: "Section 7778 - Licenses: military reservations; erection and use of buil
 usc_title: 10
 usc_section: "7778"
 chapter: 779
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 7778"
-generated_at: "2026-03-30T07:48:43.988Z"
+generated_at: "2026-03-30T07:50:48.318Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6326 - Definitions"
 usc_title: 42
 usc_section: "6326"
 chapter: 77
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 6326"
-generated_at: "2026-03-30T07:50:07.070Z"
+generated_at: "2026-03-30T07:52:13.590Z"
 status: "active"
 ---
 

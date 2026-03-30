@@ -3,9 +3,9 @@ title: "Section 20207 - Restrictions"
 usc_title: 36
 usc_section: "20207"
 chapter: 202
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "36 U.S.C. § 20207"
-generated_at: "2026-03-30T07:49:43.363Z"
+generated_at: "2026-03-30T07:51:43.163Z"
 status: "active"
 ---
 

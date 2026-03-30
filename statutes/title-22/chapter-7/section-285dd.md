@@ -3,9 +3,9 @@ title: "Section 285dd - Ninth replenishment"
 usc_title: 22
 usc_section: "285dd"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 285dd"
-generated_at: "2026-03-30T07:49:18.993Z"
+generated_at: "2026-03-30T07:51:13.599Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8271 - Settlement of accounts: remission or cancellation of inde
 usc_title: 10
 usc_section: "8271"
 chapter: 831
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 8271"
-generated_at: "2026-03-30T07:48:43.991Z"
+generated_at: "2026-03-30T07:50:48.322Z"
 status: "active"
 ---
 

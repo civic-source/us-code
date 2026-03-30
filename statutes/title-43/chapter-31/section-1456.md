@@ -3,9 +3,9 @@ title: "Section 1456 - Chief clerk"
 usc_title: 43
 usc_section: "1456"
 chapter: 31
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 1456"
-generated_at: "2026-03-30T07:49:48.826Z"
+generated_at: "2026-03-30T07:52:30.946Z"
 status: "active"
 ---
 

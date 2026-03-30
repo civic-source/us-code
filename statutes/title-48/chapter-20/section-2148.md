@@ -3,9 +3,9 @@ title: "Section 2148 - Required reports"
 usc_title: 48
 usc_section: "2148"
 chapter: 20
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "48 U.S.C. § 2148"
-generated_at: "2026-03-30T07:50:10.105Z"
+generated_at: "2026-03-30T07:52:40.159Z"
 status: "active"
 ---
 

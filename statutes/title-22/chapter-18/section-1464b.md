@@ -3,9 +3,9 @@ title: "Section 1464b - Voice of America hiring practices"
 usc_title: 22
 usc_section: "1464b"
 chapter: 18
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 1464b"
-generated_at: "2026-03-30T07:49:19.006Z"
+generated_at: "2026-03-30T07:51:13.612Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2716 - Financial responsibility"
 usc_title: 33
 usc_section: "2716"
 chapter: 40
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "33 U.S.C. § 2716"
-generated_at: "2026-03-30T07:49:41.223Z"
+generated_at: "2026-03-30T07:51:38.276Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5565 - Transfer of functions"
 usc_title: 42
 usc_section: "5565"
 chapter: 71
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 5565"
-generated_at: "2026-03-30T07:50:07.053Z"
+generated_at: "2026-03-30T07:52:13.573Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8441 - Definitions"
 usc_title: 5
 usc_section: "8441"
 chapter: 84
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "5 U.S.C. § 8441"
-generated_at: "2026-03-30T07:48:04.618Z"
+generated_at: "2026-03-30T07:50:37.220Z"
 status: "active"
 ---
 

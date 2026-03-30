@@ -3,9 +3,9 @@ title: "Section 3743 - Reports on activities and assistance under Department of 
 usc_title: 50
 usc_section: "3743"
 chapter: 48
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "50 U.S.C. § 3743"
-generated_at: "2026-03-30T07:50:18.917Z"
+generated_at: "2026-03-30T07:52:49.882Z"
 status: "active"
 ---
 

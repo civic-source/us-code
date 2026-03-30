@@ -3,9 +3,9 @@ title: "Section 130i - Protection of certain facilities and assets from unmanned
 usc_title: 10
 usc_section: "130i"
 chapter: 3
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 130i"
-generated_at: "2026-03-30T07:48:43.868Z"
+generated_at: "2026-03-30T07:50:48.201Z"
 status: "active"
 ---
 

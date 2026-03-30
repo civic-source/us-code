@@ -3,9 +3,9 @@ title: "Section 8514a - Imposition of sanctions with respect to the transfer of 
 usc_title: 22
 usc_section: "8514a"
 chapter: 92
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 8514a"
-generated_at: "2026-03-30T07:49:19.111Z"
+generated_at: "2026-03-30T07:51:13.720Z"
 status: "active"
 ---
 

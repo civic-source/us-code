@@ -3,9 +3,9 @@ title: "Section 1666i - Assertion by cardholder against card issuer of claims an
 usc_title: 15
 usc_section: "1666i"
 chapter: 41
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 1666i"
-generated_at: "2026-03-30T07:48:52.155Z"
+generated_at: "2026-03-30T07:50:53.600Z"
 status: "active"
 ---
 

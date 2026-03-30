@@ -3,9 +3,9 @@ title: "Section 3206 - Waiver of parental consent"
 usc_title: 25
 usc_section: "3206"
 chapter: 34
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "25 U.S.C. § 3206"
-generated_at: "2026-03-30T07:49:10.574Z"
+generated_at: "2026-03-30T07:51:22.636Z"
 status: "active"
 ---
 

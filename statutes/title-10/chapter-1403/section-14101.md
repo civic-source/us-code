@@ -3,9 +3,9 @@ title: "Section 14101 - Convening of selection boards"
 usc_title: 10
 usc_section: "14101"
 chapter: 1403
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 14101"
-generated_at: "2026-03-30T07:48:44.013Z"
+generated_at: "2026-03-30T07:50:48.343Z"
 status: "active"
 ---
 

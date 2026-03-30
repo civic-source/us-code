@@ -3,9 +3,9 @@ title: "Section 583 - Repealed. Pub. L. 91–230, title IV , § 401(h)(1), Apr. 
 usc_title: 20
 usc_section: "583"
 chapter: 17
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "20 U.S.C. § 583"
-generated_at: "2026-03-30T07:48:57.300Z"
+generated_at: "2026-03-30T07:51:05.047Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 645 - Repealed. Pub. L. 93–608 , § 1(13), Jan. 2, 1975 , 88 S
 usc_title: 30
 usc_section: "645"
 chapter: 17
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "30 U.S.C. § 645"
-generated_at: "2026-03-30T07:49:21.412Z"
+generated_at: "2026-03-30T07:51:24.939Z"
 status: "repealed"
 ---
 

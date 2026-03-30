@@ -3,9 +3,9 @@ title: "Section 2a - Teacher science and technology enhancement Institute progra
 usc_title: 15
 usc_section: "2a"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 2a"
-generated_at: "2026-03-30T07:48:52.096Z"
+generated_at: "2026-03-30T07:50:53.541Z"
 status: "active"
 ---
 

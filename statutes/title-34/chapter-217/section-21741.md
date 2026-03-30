@@ -3,9 +3,9 @@ title: "Section 21741 - Training and technical assistance for States"
 usc_title: 34
 usc_section: "21741"
 chapter: 217
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "34 U.S.C. § 21741"
-generated_at: "2026-03-30T07:49:40.355Z"
+generated_at: "2026-03-30T07:51:39.280Z"
 status: "active"
 ---
 

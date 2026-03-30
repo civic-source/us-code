@@ -3,9 +3,9 @@ title: "Section 9926 - Projects to expand the number of job opportunities availa
 usc_title: 42
 usc_section: "9926"
 chapter: 106
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 9926"
-generated_at: "2026-03-30T07:50:07.184Z"
+generated_at: "2026-03-30T07:52:13.693Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2733 - Medal of honor: duplicate medal"
 usc_title: 14
 usc_section: "2733"
 chapter: 27
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "14 U.S.C. § 2733"
-generated_at: "2026-03-30T07:48:46.253Z"
+generated_at: "2026-03-30T07:50:50.374Z"
 status: "active"
 ---
 

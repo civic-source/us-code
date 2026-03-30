@@ -3,9 +3,9 @@ title: "Section 1768 - Foreign Operations Administration unaffected"
 usc_title: 7
 usc_section: "1768"
 chapter: 43
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 1768"
-generated_at: "2026-03-30T07:48:18.708Z"
+generated_at: "2026-03-30T07:50:43.427Z"
 status: "active"
 ---
 

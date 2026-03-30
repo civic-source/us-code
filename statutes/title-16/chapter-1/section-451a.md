@@ -3,9 +3,9 @@ title: "Section 451a - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "451a"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 451a"
-generated_at: "2026-03-30T07:49:05.942Z"
+generated_at: "2026-03-30T07:51:07.720Z"
 status: "repealed"
 ---
 

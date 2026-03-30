@@ -3,9 +3,9 @@ title: "Section 7842 - Settlement of accounts of line officers"
 usc_title: 10
 usc_section: "7842"
 chapter: 783
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 7842"
-generated_at: "2026-03-30T07:48:43.989Z"
+generated_at: "2026-03-30T07:50:48.319Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2390 - Enlistment to serve against United States"
 usc_title: 18
 usc_section: "2390"
 chapter: 115
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "18 U.S.C. § 2390"
-generated_at: "2026-03-30T07:48:55.491Z"
+generated_at: "2026-03-30T07:51:00.587Z"
 status: "active"
 ---
 

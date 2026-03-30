@@ -3,9 +3,9 @@ title: "Section 3254f - Omitted"
 usc_title: 42
 usc_section: "3254f"
 chapter: 39
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "42 U.S.C. § 3254f"
-generated_at: "2026-03-30T07:50:07.010Z"
+generated_at: "2026-03-30T07:52:13.529Z"
 status: "omitted"
 ---
 

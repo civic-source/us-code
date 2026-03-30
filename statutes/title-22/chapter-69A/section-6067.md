@@ -3,9 +3,9 @@ title: "Section 6067 - Settlement of outstanding United States claims to confisc
 usc_title: 22
 usc_section: "6067"
 chapter: 69
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 6067"
-generated_at: "2026-03-30T07:49:19.084Z"
+generated_at: "2026-03-30T07:51:13.693Z"
 status: "active"
 ---
 

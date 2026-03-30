@@ -3,9 +3,9 @@ title: "Section 211 - Acceptance or solicitation to obtain appointive public off
 usc_title: 18
 usc_section: "211"
 chapter: 11
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "18 U.S.C. § 211"
-generated_at: "2026-03-30T07:48:55.456Z"
+generated_at: "2026-03-30T07:51:00.551Z"
 status: "active"
 ---
 

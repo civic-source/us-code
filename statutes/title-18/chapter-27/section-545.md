@@ -3,9 +3,9 @@ title: "Section 545 - Smuggling goods into the United States"
 usc_title: 18
 usc_section: "545"
 chapter: 27
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "18 U.S.C. § 545"
-generated_at: "2026-03-30T07:48:55.460Z"
+generated_at: "2026-03-30T07:51:00.556Z"
 status: "active"
 ---
 

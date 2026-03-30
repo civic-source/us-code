@@ -3,9 +3,9 @@ title: "Section 941f - Reports"
 usc_title: 16
 usc_section: "941f"
 chapter: 15
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 941f"
-generated_at: "2026-03-30T07:49:06.030Z"
+generated_at: "2026-03-30T07:51:07.810Z"
 status: "active"
 ---
 

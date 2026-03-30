@@ -3,9 +3,9 @@ title: "Section 1823 - Appellate jurisdiction of District Court; procedure; revi
 usc_title: 48
 usc_section: "1823"
 chapter: 17
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "48 U.S.C. § 1823"
-generated_at: "2026-03-30T07:50:10.098Z"
+generated_at: "2026-03-30T07:52:40.152Z"
 status: "active"
 ---
 

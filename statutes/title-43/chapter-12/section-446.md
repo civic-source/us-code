@@ -3,9 +3,9 @@ title: "Section 446 - Right to make entry on relinquishment of former entry unde
 usc_title: 43
 usc_section: "446"
 chapter: 12
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 446"
-generated_at: "2026-03-30T07:49:48.806Z"
+generated_at: "2026-03-30T07:52:30.925Z"
 status: "active"
 ---
 

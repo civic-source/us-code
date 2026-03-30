@@ -3,9 +3,9 @@ title: "Section 1627 - Merger of Native corporations"
 usc_title: 43
 usc_section: "1627"
 chapter: 33
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 1627"
-generated_at: "2026-03-30T07:49:48.834Z"
+generated_at: "2026-03-30T07:52:30.955Z"
 status: "active"
 ---
 

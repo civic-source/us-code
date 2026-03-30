@@ -3,9 +3,9 @@ title: "Section 10633 - Repealed. Pub. L. 115–391, title V , § 504(g)(1), Dec
 usc_title: 34
 usc_section: "10633"
 chapter: 101
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "34 U.S.C. § 10633"
-generated_at: "2026-03-30T07:49:40.328Z"
+generated_at: "2026-03-30T07:51:39.251Z"
 status: "repealed"
 ---
 

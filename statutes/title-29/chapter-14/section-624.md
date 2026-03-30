@@ -3,9 +3,9 @@ title: "Section 624 - Study by Secretary of Labor; reports to President and Cong
 usc_title: 29
 usc_section: "624"
 chapter: 14
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "29 U.S.C. § 624"
-generated_at: "2026-03-30T07:49:22.770Z"
+generated_at: "2026-03-30T07:51:27.331Z"
 status: "active"
 ---
 

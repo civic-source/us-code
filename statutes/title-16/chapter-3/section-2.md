@@ -3,9 +3,9 @@ title: "Section 2 - National Forest System Trails Volunteer and Partnership Stra
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T07:49:05.993Z"
+generated_at: "2026-03-30T07:51:07.773Z"
 status: "active"
 ---
 

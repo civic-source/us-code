@@ -3,9 +3,9 @@ title: "Section 2350a - Cooperative research and development agreements: NATO or
 usc_title: 10
 usc_section: "2350a"
 chapter: 138
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 2350a"
-generated_at: "2026-03-30T07:48:43.954Z"
+generated_at: "2026-03-30T07:50:48.285Z"
 status: "active"
 ---
 

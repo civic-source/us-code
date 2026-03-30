@@ -3,9 +3,9 @@ title: "Section 4108 - Functions of General Counsel"
 usc_title: 22
 usc_section: "4108"
 chapter: 52
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 4108"
-generated_at: "2026-03-30T07:49:19.069Z"
+generated_at: "2026-03-30T07:51:13.677Z"
 status: "active"
 ---
 

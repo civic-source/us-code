@@ -3,9 +3,9 @@ title: "Section 1173 - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 2
 usc_title: 43
 usc_section: "1173"
 chapter: 28
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "43 U.S.C. § 1173"
-generated_at: "2026-03-30T07:49:48.822Z"
+generated_at: "2026-03-30T07:52:30.941Z"
 status: "repealed"
 ---
 

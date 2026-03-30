@@ -3,9 +3,9 @@ title: "Section 10746 - Demurrage charges"
 usc_title: 49
 usc_section: "10746"
 chapter: 107
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "49 U.S.C. § 10746"
-generated_at: "2026-03-30T07:50:15.283Z"
+generated_at: "2026-03-30T07:52:37.133Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 777l - State use of contributions"
 usc_title: 16
 usc_section: "777l"
 chapter: 10
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 777l"
-generated_at: "2026-03-30T07:49:06.012Z"
+generated_at: "2026-03-30T07:51:07.791Z"
 status: "active"
 ---
 

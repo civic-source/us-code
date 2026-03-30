@@ -3,9 +3,9 @@ title: "Section 2703 - Definitions"
 usc_title: 25
 usc_section: "2703"
 chapter: 29
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "25 U.S.C. § 2703"
-generated_at: "2026-03-30T07:49:10.568Z"
+generated_at: "2026-03-30T07:51:22.631Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40c - Creation of special fund; expenditure"
 usc_title: 16
 usc_section: "40c"
 chapter: 1
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 40c"
-generated_at: "2026-03-30T07:49:05.892Z"
+generated_at: "2026-03-30T07:51:07.669Z"
 status: "active"
 ---
 

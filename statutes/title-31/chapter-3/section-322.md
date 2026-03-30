@@ -3,9 +3,9 @@ title: "Section 322 - Working capital fund"
 usc_title: 31
 usc_section: "322"
 chapter: 3
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "31 U.S.C. § 322"
-generated_at: "2026-03-30T07:49:39.756Z"
+generated_at: "2026-03-30T07:51:40.814Z"
 status: "active"
 ---
 

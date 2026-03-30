@@ -3,9 +3,9 @@ title: "Section 11162 - Training and technical assistance"
 usc_title: 34
 usc_section: "11162"
 chapter: 111
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "34 U.S.C. § 11162"
-generated_at: "2026-03-30T07:49:40.333Z"
+generated_at: "2026-03-30T07:51:39.257Z"
 status: "active"
 ---
 

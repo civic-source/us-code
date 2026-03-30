@@ -3,9 +3,9 @@ title: "Section 2517 - Repealed. Pub. L. 115–232, div. A, title VIII , § 811(
 usc_title: 10
 usc_section: "2517"
 chapter: 148
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "10 U.S.C. § 2517"
-generated_at: "2026-03-30T07:48:43.966Z"
+generated_at: "2026-03-30T07:50:48.296Z"
 status: "repealed"
 ---
 

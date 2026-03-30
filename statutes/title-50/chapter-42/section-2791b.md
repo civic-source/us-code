@@ -3,9 +3,9 @@ title: "Section 2791b - Charges to individual program, project, or activity"
 usc_title: 50
 usc_section: "2791b"
 chapter: 42
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "50 U.S.C. § 2791b"
-generated_at: "2026-03-30T07:50:18.900Z"
+generated_at: "2026-03-30T07:52:49.867Z"
 status: "active"
 ---
 

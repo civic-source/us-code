@@ -3,9 +3,9 @@ title: "Section 1h - Increase of subscription of stock; authority of United Stat
 usc_title: 22
 usc_section: "1h"
 chapter: 7
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "22 U.S.C. § 1h"
-generated_at: "2026-03-30T07:49:18.994Z"
+generated_at: "2026-03-30T07:51:13.600Z"
 status: "active"
 ---
 

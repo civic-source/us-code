@@ -3,9 +3,9 @@ title: "Section 6207 - Conditions on use of antitrust mutual assistance agreemen
 usc_title: 15
 usc_section: "6207"
 chapter: 88
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "15 U.S.C. § 6207"
-generated_at: "2026-03-30T07:48:52.209Z"
+generated_at: "2026-03-30T07:50:53.654Z"
 status: "active"
 ---
 

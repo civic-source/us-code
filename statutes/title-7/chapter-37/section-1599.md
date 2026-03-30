@@ -3,9 +3,9 @@ title: "Section 1599 - Cease and desist proceedings"
 usc_title: 7
 usc_section: "1599"
 chapter: 37
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "7 U.S.C. § 1599"
-generated_at: "2026-03-30T07:48:18.697Z"
+generated_at: "2026-03-30T07:50:43.416Z"
 status: "active"
 ---
 

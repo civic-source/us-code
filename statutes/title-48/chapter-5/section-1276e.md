@@ -3,9 +3,9 @@ title: "Section 1276e - Transferred"
 usc_title: 48
 usc_section: "1276e"
 chapter: 5
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "48 U.S.C. § 1276e"
-generated_at: "2026-03-30T07:50:10.088Z"
+generated_at: "2026-03-30T07:52:40.143Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 825i - Appointment of officers and employees; compensation"
 usc_title: 16
 usc_section: "825i"
 chapter: 12
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "16 U.S.C. § 825i"
-generated_at: "2026-03-30T07:49:06.020Z"
+generated_at: "2026-03-30T07:51:07.799Z"
 status: "active"
 ---
 

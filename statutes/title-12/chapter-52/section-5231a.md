@@ -3,9 +3,9 @@ title: "Section 5231a - Public-Private Investment Program; additional appropriat
 usc_title: 12
 usc_section: "5231a"
 chapter: 52
-current_through: "PL 116-10"
+current_through: "PL 116-12"
 classification: "12 U.S.C. § 5231a"
-generated_at: "2026-03-30T07:48:49.587Z"
+generated_at: "2026-03-30T07:50:57.240Z"
 status: "active"
 ---
 
