@@ -3,9 +3,9 @@ title: "Section 2793 - Limitation on use of funds for certain research and devel
 usc_title: 50
 usc_section: "2793"
 chapter: 42
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "50 U.S.C. § 2793"
-generated_at: "2026-03-30T03:26:29.238Z"
+generated_at: "2026-03-30T03:29:01.565Z"
 status: "active"
 ---
 

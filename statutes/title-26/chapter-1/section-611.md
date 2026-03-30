@@ -3,9 +3,9 @@ title: "Section 611 - Allowance of deduction for depletion"
 usc_title: 26
 usc_section: "611"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "26 U.S.C. § 611"
-generated_at: "2026-03-30T03:25:51.233Z"
+generated_at: "2026-03-30T03:28:25.601Z"
 status: "active"
 ---
 

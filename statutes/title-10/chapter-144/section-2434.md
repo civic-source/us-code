@@ -3,9 +3,9 @@ title: "Section 2434 - Independent cost estimates; operational manpower requirem
 usc_title: 10
 usc_section: "2434"
 chapter: 144
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 2434"
-generated_at: "2026-03-30T03:24:54.768Z"
+generated_at: "2026-03-30T03:27:18.289Z"
 status: "active"
 ---
 

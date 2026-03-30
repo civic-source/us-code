@@ -3,9 +3,9 @@ title: "Section 408 - Use of land and naval forces to prevent exportation"
 usc_title: 22
 usc_section: "408"
 chapter: 9
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 408"
-generated_at: "2026-03-30T03:25:39.576Z"
+generated_at: "2026-03-30T03:27:52.146Z"
 status: "active"
 ---
 

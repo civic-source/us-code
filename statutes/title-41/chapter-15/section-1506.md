@@ -3,9 +3,9 @@ title: "Section 1506 - Authorization of appropriations"
 usc_title: 41
 usc_section: "1506"
 chapter: 15
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "41 U.S.C. § 1506"
-generated_at: "2026-03-30T03:26:02.520Z"
+generated_at: "2026-03-30T03:28:43.866Z"
 status: "active"
 ---
 

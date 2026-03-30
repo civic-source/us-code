@@ -3,9 +3,9 @@ title: "Section 894 - Availability of facilities and appropriations"
 usc_title: 14
 usc_section: "894"
 chapter: 25
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "14 U.S.C. § 894"
-generated_at: "2026-03-30T03:25:00.104Z"
+generated_at: "2026-03-30T03:27:22.263Z"
 status: "active"
 ---
 

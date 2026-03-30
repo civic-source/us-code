@@ -3,9 +3,9 @@ title: "Section 220304 - Governing body"
 usc_title: 36
 usc_section: "220304"
 chapter: 2203
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "36 U.S.C. § 220304"
-generated_at: "2026-03-30T03:25:58.409Z"
+generated_at: "2026-03-30T03:28:39.602Z"
 status: "active"
 ---
 

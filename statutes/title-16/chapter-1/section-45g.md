@@ -3,9 +3,9 @@ title: "Section 45g - Addition to Sequoia National Park"
 usc_title: 16
 usc_section: "45g"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "16 U.S.C. § 45g"
-generated_at: "2026-03-30T03:25:28.679Z"
+generated_at: "2026-03-30T03:27:38.018Z"
 status: "active"
 ---
 

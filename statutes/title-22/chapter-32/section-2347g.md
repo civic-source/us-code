@@ -3,9 +3,9 @@ title: "Section 2347g - Records regarding foreign participants"
 usc_title: 22
 usc_section: "2347g"
 chapter: 32
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 2347g"
-generated_at: "2026-03-30T03:25:39.616Z"
+generated_at: "2026-03-30T03:27:52.173Z"
 status: "active"
 ---
 

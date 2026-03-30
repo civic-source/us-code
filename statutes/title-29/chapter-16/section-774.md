@@ -3,9 +3,9 @@ title: "Section 774 - Migrant and seasonal farmworkers"
 usc_title: 29
 usc_section: "774"
 chapter: 16
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "29 U.S.C. § 774"
-generated_at: "2026-03-30T03:25:44.303Z"
+generated_at: "2026-03-30T03:28:04.176Z"
 status: "active"
 ---
 

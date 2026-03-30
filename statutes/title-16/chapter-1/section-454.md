@@ -3,9 +3,9 @@ title: "Section 454 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 16
 usc_section: "454"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "16 U.S.C. § 454"
-generated_at: "2026-03-30T03:25:28.746Z"
+generated_at: "2026-03-30T03:27:38.064Z"
 status: "repealed"
 ---
 

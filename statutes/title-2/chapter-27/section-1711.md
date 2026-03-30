@@ -3,9 +3,9 @@ title: "Section 1711 - Establishment of program by Librarian of Congress"
 usc_title: 2
 usc_section: "1711"
 chapter: 27
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 1711"
-generated_at: "2026-03-30T03:24:44.093Z"
+generated_at: "2026-03-30T03:26:44.306Z"
 status: "active"
 ---
 

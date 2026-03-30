@@ -3,9 +3,9 @@ title: "Section 5324 - Public transportation emergency relief program"
 usc_title: 49
 usc_section: "5324"
 chapter: 53
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "49 U.S.C. § 5324"
-generated_at: "2026-03-30T03:26:22.636Z"
+generated_at: "2026-03-30T03:29:03.204Z"
 status: "active"
 ---
 

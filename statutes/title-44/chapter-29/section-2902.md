@@ -3,9 +3,9 @@ title: "Section 2902 - Objectives of records management"
 usc_title: 44
 usc_section: "2902"
 chapter: 29
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "44 U.S.C. § 2902"
-generated_at: "2026-03-30T03:26:03.196Z"
+generated_at: "2026-03-30T03:28:42.813Z"
 status: "active"
 ---
 

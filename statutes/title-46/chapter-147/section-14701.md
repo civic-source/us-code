@@ -3,9 +3,9 @@ title: "Section 14701 - General violation"
 usc_title: 46
 usc_section: "14701"
 chapter: 147
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "46 U.S.C. § 14701"
-generated_at: "2026-03-30T03:26:27.827Z"
+generated_at: "2026-03-30T03:29:00.931Z"
 status: "active"
 ---
 

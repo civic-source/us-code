@@ -3,9 +3,9 @@ title: "Section 58a - Telecommunications services for Senators; payment of costs
 usc_title: 2
 usc_section: "58a"
 chapter: 3
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 58a"
-generated_at: "2026-03-30T03:24:44.037Z"
+generated_at: "2026-03-30T03:26:44.268Z"
 status: "active"
 ---
 

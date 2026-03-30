@@ -3,9 +3,9 @@ title: "Section 654 - Repealed. Pub. L. 111–321, § 2(f)(1)(A) , Dec. 22, 2010
 usc_title: 10
 usc_section: "654"
 chapter: 37
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 654"
-generated_at: "2026-03-30T03:24:54.687Z"
+generated_at: "2026-03-30T03:27:18.231Z"
 status: "repealed"
 ---
 

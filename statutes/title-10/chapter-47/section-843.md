@@ -3,9 +3,9 @@ title: "Section 843 - Art. 43. Statute of limitations"
 usc_title: 10
 usc_section: "843"
 chapter: 47
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 843"
-generated_at: "2026-03-30T03:24:54.692Z"
+generated_at: "2026-03-30T03:27:18.235Z"
 status: "active"
 ---
 

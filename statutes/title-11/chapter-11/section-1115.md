@@ -3,9 +3,9 @@ title: "Section 1115 - Property of the estate"
 usc_title: 11
 usc_section: "1115"
 chapter: 11
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "11 U.S.C. § 1115"
-generated_at: "2026-03-30T03:25:09.284Z"
+generated_at: "2026-03-30T03:27:22.629Z"
 status: "active"
 ---
 

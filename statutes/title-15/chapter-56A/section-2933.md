@@ -3,9 +3,9 @@ title: "Section 2933 - United States Global Change Research Program"
 usc_title: 15
 usc_section: "2933"
 chapter: 56
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 2933"
-generated_at: "2026-03-30T03:25:15.636Z"
+generated_at: "2026-03-30T03:27:26.951Z"
 status: "active"
 ---
 

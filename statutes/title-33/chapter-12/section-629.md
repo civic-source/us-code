@@ -3,9 +3,9 @@ title: "Section 629 - Contract for hire of dredging plant"
 usc_title: 33
 usc_section: "629"
 chapter: 12
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "33 U.S.C. § 629"
-generated_at: "2026-03-30T03:25:55.503Z"
+generated_at: "2026-03-30T03:28:36.892Z"
 status: "active"
 ---
 

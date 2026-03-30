@@ -3,9 +3,9 @@ title: "Section 290jj - Requirement relating to the rights of residents of certa
 usc_title: 42
 usc_section: "290jj"
 chapter: 6
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 290jj"
-generated_at: "2026-03-30T03:26:16.124Z"
+generated_at: "2026-03-30T03:28:56.500Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11803 - Approval of applications"
 usc_title: 42
 usc_section: "11803"
 chapter: 123
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 11803"
-generated_at: "2026-03-30T03:26:16.787Z"
+generated_at: "2026-03-30T03:28:57.019Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 334335 - Repealed. Pub. L. 103–272, § 4(j)(9)(A) , July 5, 19
 usc_title: 49
 usc_section: "334335"
 chapter: 3
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "49 U.S.C. § 334335"
-generated_at: "2026-03-30T03:26:22.622Z"
+generated_at: "2026-03-30T03:29:03.193Z"
 status: "repealed"
 ---
 

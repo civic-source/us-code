@@ -3,9 +3,9 @@ title: "Section 1597 - Civilian positions: guidelines for reductions"
 usc_title: 10
 usc_section: "1597"
 chapter: 81
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 1597"
-generated_at: "2026-03-30T03:24:54.733Z"
+generated_at: "2026-03-30T03:27:18.264Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1402 - Limitations on loans; financial structure of corporation,
 usc_title: 12
 usc_section: "1402"
 chapter: 10
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "12 U.S.C. § 1402"
-generated_at: "2026-03-30T03:25:13.014Z"
+generated_at: "2026-03-30T03:27:24.414Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8091 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8091"
 chapter: 70
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "20 U.S.C. § 8091"
-generated_at: "2026-03-30T03:25:21.546Z"
+generated_at: "2026-03-30T03:27:33.401Z"
 status: "repealed"
 ---
 

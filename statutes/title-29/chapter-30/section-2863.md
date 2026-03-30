@@ -3,9 +3,9 @@ title: "Section 2863 - Within State allocations"
 usc_title: 29
 usc_section: "2863"
 chapter: 30
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "29 U.S.C. § 2863"
-generated_at: "2026-03-30T03:25:44.360Z"
+generated_at: "2026-03-30T03:28:04.212Z"
 status: "active"
 ---
 

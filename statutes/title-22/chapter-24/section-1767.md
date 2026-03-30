@@ -3,9 +3,9 @@ title: "Section 1767 - Repealed. Pub. L. 85–141, § 11(d) , Aug. 14, 1957 , 71
 usc_title: 22
 usc_section: "1767"
 chapter: 24
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 1767"
-generated_at: "2026-03-30T03:25:39.592Z"
+generated_at: "2026-03-30T03:27:52.157Z"
 status: "repealed"
 ---
 

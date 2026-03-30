@@ -3,9 +3,9 @@ title: "Section 11601 - Findings and declarations"
 usc_title: 42
 usc_section: "11601"
 chapter: 121
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 11601"
-generated_at: "2026-03-30T03:26:16.785Z"
+generated_at: "2026-03-30T03:28:57.018Z"
 status: "active"
 ---
 

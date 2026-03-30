@@ -3,9 +3,9 @@ title: "Section 2022 - Coordination of outreach services for veterans at risk of
 usc_title: 38
 usc_section: "2022"
 chapter: 20
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "38 U.S.C. § 2022"
-generated_at: "2026-03-30T03:26:00.166Z"
+generated_at: "2026-03-30T03:28:40.590Z"
 status: "active"
 ---
 

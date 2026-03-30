@@ -3,9 +3,9 @@ title: "Section 1992 - Speedy trial"
 usc_title: 42
 usc_section: "1992"
 chapter: 21
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 1992"
-generated_at: "2026-03-30T03:26:16.476Z"
+generated_at: "2026-03-30T03:28:56.776Z"
 status: "active"
 ---
 

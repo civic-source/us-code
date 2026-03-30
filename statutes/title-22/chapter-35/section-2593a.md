@@ -3,9 +3,9 @@ title: "Section 2593a - Annual report to Congress"
 usc_title: 22
 usc_section: "2593a"
 chapter: 35
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 2593a"
-generated_at: "2026-03-30T03:25:39.632Z"
+generated_at: "2026-03-30T03:27:52.185Z"
 status: "active"
 ---
 

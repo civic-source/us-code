@@ -3,9 +3,9 @@ title: "Section 19k - Bylaws, rules, and regulations; contracts for services"
 usc_title: 16
 usc_section: "19k"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "16 U.S.C. § 19k"
-generated_at: "2026-03-30T03:25:28.677Z"
+generated_at: "2026-03-30T03:27:38.017Z"
 status: "active"
 ---
 

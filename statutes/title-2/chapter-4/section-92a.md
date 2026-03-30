@@ -3,9 +3,9 @@ title: "Section 92a - Pay of clerical assistants as affected by death of Senator
 usc_title: 2
 usc_section: "92a"
 chapter: 4
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 92a"
-generated_at: "2026-03-30T03:24:44.048Z"
+generated_at: "2026-03-30T03:26:44.276Z"
 status: "active"
 ---
 

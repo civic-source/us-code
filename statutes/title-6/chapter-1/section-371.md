@@ -3,9 +3,9 @@ title: "Section 371 - Repealed. Pub. L. 108–7, div. L, § 104(c)(1) , Feb. 20,
 usc_title: 6
 usc_section: "371"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "6 U.S.C. § 371"
-generated_at: "2026-03-30T03:24:48.975Z"
+generated_at: "2026-03-30T03:27:07.731Z"
 status: "repealed"
 ---
 

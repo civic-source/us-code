@@ -3,9 +3,9 @@ title: "Section 8 - Designation of chief State election official"
 usc_title: 42
 usc_section: "8"
 chapter: 20
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T03:26:16.474Z"
+generated_at: "2026-03-30T03:28:56.774Z"
 status: "active"
 ---
 

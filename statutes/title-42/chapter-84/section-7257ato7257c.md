@@ -3,9 +3,9 @@ title: "Section 7257ato7257c - Transferred"
 usc_title: 42
 usc_section: "7257ato7257c"
 chapter: 84
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 7257ato7257c"
-generated_at: "2026-03-30T03:26:16.654Z"
+generated_at: "2026-03-30T03:28:56.917Z"
 status: "transferred"
 ---
 

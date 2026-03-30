@@ -3,9 +3,9 @@ title: "Section 8067 - Designation: officers to perform certain professional fun
 usc_title: 10
 usc_section: "8067"
 chapter: 807
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 8067"
-generated_at: "2026-03-30T03:24:54.822Z"
+generated_at: "2026-03-30T03:27:18.328Z"
 status: "active"
 ---
 

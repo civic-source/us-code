@@ -3,9 +3,9 @@ title: "Section 5412 - Repealed. Pub. L. 106–34, § 10 , June 8, 1999 , 113 St
 usc_title: 15
 usc_section: "5412"
 chapter: 80
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 5412"
-generated_at: "2026-03-30T03:25:15.659Z"
+generated_at: "2026-03-30T03:27:26.966Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15408 - Reports"
 usc_title: 42
 usc_section: "15408"
 chapter: 146
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 15408"
-generated_at: "2026-03-30T03:26:16.871Z"
+generated_at: "2026-03-30T03:28:57.083Z"
 status: "active"
 ---
 

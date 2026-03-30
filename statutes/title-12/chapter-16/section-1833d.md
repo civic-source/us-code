@@ -3,9 +3,9 @@ title: "Section 1833d - Repealed. Pub. L. 102–242, title I, § 121(b) , Dec. 1
 usc_title: 12
 usc_section: "1833d"
 chapter: 16
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "12 U.S.C. § 1833d"
-generated_at: "2026-03-30T03:25:13.110Z"
+generated_at: "2026-03-30T03:27:24.476Z"
 status: "repealed"
 ---
 

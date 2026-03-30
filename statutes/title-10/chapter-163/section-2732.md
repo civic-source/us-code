@@ -3,9 +3,9 @@ title: "Section 2732 - Payment of claims: availability of appropriations"
 usc_title: 10
 usc_section: "2732"
 chapter: 163
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 2732"
-generated_at: "2026-03-30T03:24:54.785Z"
+generated_at: "2026-03-30T03:27:18.301Z"
 status: "active"
 ---
 

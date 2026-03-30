@@ -3,9 +3,9 @@ title: "Section 125a - Death gratuity payments as gifts"
 usc_title: 2
 usc_section: "125a"
 chapter: 4
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 125a"
-generated_at: "2026-03-30T03:24:44.051Z"
+generated_at: "2026-03-30T03:26:44.278Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7274e - Scholarship and fellowship program for environmental res
 usc_title: 42
 usc_section: "7274e"
 chapter: 84
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 7274e"
-generated_at: "2026-03-30T03:26:16.655Z"
+generated_at: "2026-03-30T03:28:56.918Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40101 - Policy"
 usc_title: 49
 usc_section: "40101"
 chapter: 401
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "49 U.S.C. § 40101"
-generated_at: "2026-03-30T03:26:22.682Z"
+generated_at: "2026-03-30T03:29:03.239Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1b - Secretary of the Interior’s authorization of additional a
 usc_title: 16
 usc_section: "1b"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "16 U.S.C. § 1b"
-generated_at: "2026-03-30T03:25:28.674Z"
+generated_at: "2026-03-30T03:27:38.014Z"
 status: "active"
 ---
 

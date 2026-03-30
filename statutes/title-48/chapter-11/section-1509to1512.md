@@ -3,9 +3,9 @@ title: "Section 1509to1512 - Omitted"
 usc_title: 48
 usc_section: "1509to1512"
 chapter: 11
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "48 U.S.C. § 1509to1512"
-generated_at: "2026-03-30T03:26:26.865Z"
+generated_at: "2026-03-30T03:29:00.295Z"
 status: "omitted"
 ---
 

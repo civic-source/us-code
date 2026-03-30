@@ -3,9 +3,9 @@ title: "Section 1111 - Establishment and purpose of Fund; definitions; authority
 usc_title: 10
 usc_section: "1111"
 chapter: 56
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 1111"
-generated_at: "2026-03-30T03:24:54.713Z"
+generated_at: "2026-03-30T03:27:18.250Z"
 status: "active"
 ---
 

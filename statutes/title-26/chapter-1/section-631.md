@@ -3,9 +3,9 @@ title: "Section 631 - Gain or loss in the case of timber, coal, or domestic iron
 usc_title: 26
 usc_section: "631"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "26 U.S.C. § 631"
-generated_at: "2026-03-30T03:25:51.234Z"
+generated_at: "2026-03-30T03:28:25.603Z"
 status: "active"
 ---
 

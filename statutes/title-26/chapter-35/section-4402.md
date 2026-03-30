@@ -3,9 +3,9 @@ title: "Section 4402 - Exemptions"
 usc_title: 26
 usc_section: "4402"
 chapter: 35
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "26 U.S.C. § 4402"
-generated_at: "2026-03-30T03:25:51.336Z"
+generated_at: "2026-03-30T03:28:25.671Z"
 status: "active"
 ---
 

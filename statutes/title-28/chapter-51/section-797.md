@@ -3,9 +3,9 @@ title: "Section 797 - Recall of retired judges"
 usc_title: 28
 usc_section: "797"
 chapter: 51
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "28 U.S.C. § 797"
-generated_at: "2026-03-30T03:25:45.298Z"
+generated_at: "2026-03-30T03:28:02.682Z"
 status: "active"
 ---
 

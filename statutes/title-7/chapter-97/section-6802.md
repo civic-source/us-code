@@ -3,9 +3,9 @@ title: "Section 6802 - Definitions"
 usc_title: 7
 usc_section: "6802"
 chapter: 97
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "7 U.S.C. § 6802"
-generated_at: "2026-03-30T03:24:57.787Z"
+generated_at: "2026-03-30T03:27:20.205Z"
 status: "active"
 ---
 

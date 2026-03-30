@@ -3,9 +3,9 @@ title: "Section 968 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(14),
 usc_title: 18
 usc_section: "968"
 chapter: 45
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "18 U.S.C. § 968"
-generated_at: "2026-03-30T03:25:23.375Z"
+generated_at: "2026-03-30T03:27:34.283Z"
 status: "repealed"
 ---
 

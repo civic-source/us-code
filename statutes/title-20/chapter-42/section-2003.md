@@ -3,9 +3,9 @@ title: "Section 2003 - Other Federal memorials prohibited"
 usc_title: 20
 usc_section: "2003"
 chapter: 42
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "20 U.S.C. § 2003"
-generated_at: "2026-03-30T03:25:21.463Z"
+generated_at: "2026-03-30T03:27:33.344Z"
 status: "active"
 ---
 

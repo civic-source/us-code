@@ -3,9 +3,9 @@ title: "Section 6446 - Effects on existing contracts"
 usc_title: 22
 usc_section: "6446"
 chapter: 73
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 6446"
-generated_at: "2026-03-30T03:25:39.700Z"
+generated_at: "2026-03-30T03:27:52.231Z"
 status: "active"
 ---
 

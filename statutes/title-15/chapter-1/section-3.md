@@ -3,9 +3,9 @@ title: "Section 3 - SIPC advances"
 usc_title: 15
 usc_section: "3"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T03:25:15.486Z"
+generated_at: "2026-03-30T03:27:26.851Z"
 status: "active"
 ---
 

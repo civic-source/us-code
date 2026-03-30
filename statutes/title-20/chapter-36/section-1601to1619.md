@@ -3,9 +3,9 @@ title: "Section 1601to1619 - Repealed. Pub. L. 95–561, title VI, § 601(b)(2) 
 usc_title: 20
 usc_section: "1601to1619"
 chapter: 36
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "20 U.S.C. § 1601to1619"
-generated_at: "2026-03-30T03:25:21.461Z"
+generated_at: "2026-03-30T03:27:33.342Z"
 status: "repealed"
 ---
 

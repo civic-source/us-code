@@ -3,9 +3,9 @@ title: "Section 1665c - Interest rate reduction on open end consumer credit plan
 usc_title: 15
 usc_section: "1665c"
 chapter: 41
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 1665c"
-generated_at: "2026-03-30T03:25:15.588Z"
+generated_at: "2026-03-30T03:27:26.918Z"
 status: "active"
 ---
 

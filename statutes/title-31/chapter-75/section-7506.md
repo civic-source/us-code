@@ -3,9 +3,9 @@ title: "Section 7506 - Monitoring responsibilities of the Comptroller General"
 usc_title: 31
 usc_section: "7506"
 chapter: 75
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "31 U.S.C. § 7506"
-generated_at: "2026-03-30T03:25:54.603Z"
+generated_at: "2026-03-30T03:28:28.455Z"
 status: "active"
 ---
 

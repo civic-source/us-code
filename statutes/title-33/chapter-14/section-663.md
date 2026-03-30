@@ -3,9 +3,9 @@ title: "Section 663 - Territorial jurisdiction over hydraulic mining; hydraulic 
 usc_title: 33
 usc_section: "663"
 chapter: 14
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "33 U.S.C. § 663"
-generated_at: "2026-03-30T03:25:55.503Z"
+generated_at: "2026-03-30T03:28:36.893Z"
 status: "active"
 ---
 

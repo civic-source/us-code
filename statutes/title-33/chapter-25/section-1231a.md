@@ -3,9 +3,9 @@ title: "Section 1231a - Towing Safety Advisory Committee"
 usc_title: 33
 usc_section: "1231a"
 chapter: 25
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "33 U.S.C. § 1231a"
-generated_at: "2026-03-30T03:25:55.521Z"
+generated_at: "2026-03-30T03:28:36.906Z"
 status: "active"
 ---
 

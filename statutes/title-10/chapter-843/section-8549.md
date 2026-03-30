@@ -3,9 +3,9 @@ title: "Section 8549 - Repealed. Pub. L. 102–190, div. A, title V, § 531(a)(1
 usc_title: 10
 usc_section: "8549"
 chapter: 843
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 8549"
-generated_at: "2026-03-30T03:24:54.824Z"
+generated_at: "2026-03-30T03:27:18.329Z"
 status: "repealed"
 ---
 

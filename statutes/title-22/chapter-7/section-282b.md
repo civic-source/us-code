@@ -3,9 +3,9 @@ title: "Section 282b - Applicability of National Advisory Council on Internation
 usc_title: 22
 usc_section: "282b"
 chapter: 7
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 282b"
-generated_at: "2026-03-30T03:25:39.561Z"
+generated_at: "2026-03-30T03:27:52.135Z"
 status: "active"
 ---
 

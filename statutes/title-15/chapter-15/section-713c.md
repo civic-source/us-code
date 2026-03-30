@@ -3,9 +3,9 @@ title: "Section 713c - Federal Surplus Commodities Corporation; continuance of e
 usc_title: 15
 usc_section: "713c"
 chapter: 15
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 713c"
-generated_at: "2026-03-30T03:25:15.546Z"
+generated_at: "2026-03-30T03:27:26.891Z"
 status: "active"
 ---
 

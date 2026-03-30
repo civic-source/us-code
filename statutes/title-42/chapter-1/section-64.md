@@ -3,9 +3,9 @@ title: "Section 64 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 42
 usc_section: "64"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 64"
-generated_at: "2026-03-30T03:26:16.040Z"
+generated_at: "2026-03-30T03:28:56.436Z"
 status: "repealed"
 ---
 

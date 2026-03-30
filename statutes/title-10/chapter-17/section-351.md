@@ -3,9 +3,9 @@ title: "Section 351 - During war or threat to national security"
 usc_title: 10
 usc_section: "351"
 chapter: 17
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 351"
-generated_at: "2026-03-30T03:24:54.676Z"
+generated_at: "2026-03-30T03:27:18.222Z"
 status: "active"
 ---
 

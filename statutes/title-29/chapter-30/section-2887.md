@@ -3,9 +3,9 @@ title: "Section 2887 - Job Corps centers"
 usc_title: 29
 usc_section: "2887"
 chapter: 30
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "29 U.S.C. § 2887"
-generated_at: "2026-03-30T03:25:44.362Z"
+generated_at: "2026-03-30T03:28:04.213Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9301 - Members of Air Force: detail as students, observers, and 
 usc_title: 10
 usc_section: "9301"
 chapter: 901
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 9301"
-generated_at: "2026-03-30T03:24:54.826Z"
+generated_at: "2026-03-30T03:27:18.330Z"
 status: "active"
 ---
 

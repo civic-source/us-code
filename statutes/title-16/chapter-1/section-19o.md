@@ -3,9 +3,9 @@ title: "Section 19o - Promotion of local fundraising support"
 usc_title: 16
 usc_section: "19o"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "16 U.S.C. § 19o"
-generated_at: "2026-03-30T03:25:28.677Z"
+generated_at: "2026-03-30T03:27:38.017Z"
 status: "active"
 ---
 

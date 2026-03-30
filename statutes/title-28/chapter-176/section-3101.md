@@ -3,9 +3,9 @@ title: "Section 3101 - Prejudgment remedies"
 usc_title: 28
 usc_section: "3101"
 chapter: 176
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "28 U.S.C. § 3101"
-generated_at: "2026-03-30T03:25:45.316Z"
+generated_at: "2026-03-30T03:28:02.695Z"
 status: "active"
 ---
 

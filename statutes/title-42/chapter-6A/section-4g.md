@@ -3,9 +3,9 @@ title: "Section 4g - Interagency Coordinating Council on Prematurity and Low Bir
 usc_title: 42
 usc_section: "4g"
 chapter: 6
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 4g"
-generated_at: "2026-03-30T03:26:16.053Z"
+generated_at: "2026-03-30T03:28:56.445Z"
 status: "active"
 ---
 

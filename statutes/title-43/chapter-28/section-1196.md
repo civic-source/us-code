@@ -3,9 +3,9 @@ title: "Section 1196 - Classification and appraisement of unallotted and unreser
 usc_title: 43
 usc_section: "1196"
 chapter: 28
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "43 U.S.C. § 1196"
-generated_at: "2026-03-30T03:26:03.890Z"
+generated_at: "2026-03-30T03:28:43.487Z"
 status: "active"
 ---
 

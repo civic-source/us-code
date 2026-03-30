@@ -3,9 +3,9 @@ title: "Section 10 - Modification of rules and customs by President"
 usc_title: 4
 usc_section: "10"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "4 U.S.C. § 10"
-generated_at: "2026-03-30T03:24:42.696Z"
+generated_at: "2026-03-30T03:26:41.648Z"
 status: "active"
 ---
 

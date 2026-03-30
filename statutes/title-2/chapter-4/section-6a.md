@@ -3,9 +3,9 @@ title: "Section 6a - Transfers from appropriations account for expenses of Offic
 usc_title: 2
 usc_section: "6a"
 chapter: 4
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 6a"
-generated_at: "2026-03-30T03:24:44.043Z"
+generated_at: "2026-03-30T03:26:44.273Z"
 status: "active"
 ---
 

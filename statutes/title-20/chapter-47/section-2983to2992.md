@@ -3,9 +3,9 @@ title: "Section 2983to2992 - Omitted"
 usc_title: 20
 usc_section: "2983to2992"
 chapter: 47
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "20 U.S.C. § 2983to2992"
-generated_at: "2026-03-30T03:25:21.470Z"
+generated_at: "2026-03-30T03:27:33.349Z"
 status: "omitted"
 ---
 

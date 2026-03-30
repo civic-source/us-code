@@ -3,9 +3,9 @@ title: "Section 1836 - Civil proceedings to enjoin violations"
 usc_title: 18
 usc_section: "1836"
 chapter: 90
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "18 U.S.C. § 1836"
-generated_at: "2026-03-30T03:25:23.390Z"
+generated_at: "2026-03-30T03:27:34.294Z"
 status: "active"
 ---
 

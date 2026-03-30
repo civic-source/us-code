@@ -3,9 +3,9 @@ title: "Section 617to619 - Repealed or Omitted"
 usc_title: 15
 usc_section: "617to619"
 chapter: 14
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 617to619"
-generated_at: "2026-03-30T03:25:15.514Z"
+generated_at: "2026-03-30T03:27:26.868Z"
 status: "repealed"
 ---
 

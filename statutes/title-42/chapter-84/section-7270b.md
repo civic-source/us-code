@@ -3,9 +3,9 @@ title: "Section 7270b - Trespass on Strategic Petroleum Reserve facilities"
 usc_title: 42
 usc_section: "7270b"
 chapter: 84
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 7270b"
-generated_at: "2026-03-30T03:26:16.655Z"
+generated_at: "2026-03-30T03:28:56.918Z"
 status: "active"
 ---
 

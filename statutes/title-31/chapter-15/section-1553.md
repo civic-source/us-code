@@ -3,9 +3,9 @@ title: "Section 1553 - Availability of appropriation accounts to pay obligations
 usc_title: 31
 usc_section: "1553"
 chapter: 15
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "31 U.S.C. § 1553"
-generated_at: "2026-03-30T03:25:54.578Z"
+generated_at: "2026-03-30T03:28:28.437Z"
 status: "active"
 ---
 

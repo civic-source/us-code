@@ -3,9 +3,9 @@ title: "Section 613 - Research, evaluations, and national studies"
 usc_title: 42
 usc_section: "613"
 chapter: 7
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 613"
-generated_at: "2026-03-30T03:26:16.229Z"
+generated_at: "2026-03-30T03:28:56.582Z"
 status: "active"
 ---
 

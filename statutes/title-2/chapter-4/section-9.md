@@ -3,9 +3,9 @@ title: "Section 9 - Appointment of consultants by Speaker, Majority Leader, and 
 usc_title: 2
 usc_section: "9"
 chapter: 4
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 9"
-generated_at: "2026-03-30T03:24:44.046Z"
+generated_at: "2026-03-30T03:26:44.274Z"
 status: "active"
 ---
 

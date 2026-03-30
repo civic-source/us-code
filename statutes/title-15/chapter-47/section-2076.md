@@ -3,9 +3,9 @@ title: "Section 2076 - Additional functions of Consumer Product Safety Commissio
 usc_title: 15
 usc_section: "2076"
 chapter: 47
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 2076"
-generated_at: "2026-03-30T03:25:15.613Z"
+generated_at: "2026-03-30T03:27:26.936Z"
 status: "active"
 ---
 

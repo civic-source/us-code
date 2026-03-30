@@ -3,9 +3,9 @@ title: "Section 386to386g - Repealed. Pub. L. 104–208, div. A, title I, § 101
 usc_title: 20
 usc_section: "386to386g"
 chapter: 16
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "20 U.S.C. § 386to386g"
-generated_at: "2026-03-30T03:25:21.362Z"
+generated_at: "2026-03-30T03:27:33.272Z"
 status: "repealed"
 ---
 

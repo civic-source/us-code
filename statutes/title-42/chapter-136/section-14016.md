@@ -3,9 +3,9 @@ title: "Section 14016 - Enforcement of statutory rape laws"
 usc_title: 42
 usc_section: "14016"
 chapter: 136
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 14016"
-generated_at: "2026-03-30T03:26:16.846Z"
+generated_at: "2026-03-30T03:28:57.064Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3532 - Definitions"
 usc_title: 44
 usc_section: "3532"
 chapter: 35
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "44 U.S.C. § 3532"
-generated_at: "2026-03-30T03:26:03.199Z"
+generated_at: "2026-03-30T03:28:42.816Z"
 status: "active"
 ---
 

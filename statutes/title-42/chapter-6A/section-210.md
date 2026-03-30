@@ -3,9 +3,9 @@ title: "Section 210 - Pay and allowances"
 usc_title: 42
 usc_section: "210"
 chapter: 6
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 210"
-generated_at: "2026-03-30T03:26:16.042Z"
+generated_at: "2026-03-30T03:28:56.437Z"
 status: "active"
 ---
 

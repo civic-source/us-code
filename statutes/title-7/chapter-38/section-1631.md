@@ -3,9 +3,9 @@ title: "Section 1631 - Protection for purchasers of farm products"
 usc_title: 7
 usc_section: "1631"
 chapter: 38
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "7 U.S.C. § 1631"
-generated_at: "2026-03-30T03:24:57.685Z"
+generated_at: "2026-03-30T03:27:20.135Z"
 status: "active"
 ---
 

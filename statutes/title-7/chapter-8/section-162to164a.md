@@ -3,9 +3,9 @@ title: "Section 162to164a - Repealed. Pub. L. 106–224, title IV, § 438(a)(1) 
 usc_title: 7
 usc_section: "162to164a"
 chapter: 8
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "7 U.S.C. § 162to164a"
-generated_at: "2026-03-30T03:24:57.625Z"
+generated_at: "2026-03-30T03:27:20.095Z"
 status: "repealed"
 ---
 

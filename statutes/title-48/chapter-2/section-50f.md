@@ -3,9 +3,9 @@ title: "Section 50f - Disposal of miscellaneous revenues from schools, hospitals
 usc_title: 48
 usc_section: "50f"
 chapter: 2
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "48 U.S.C. § 50f"
-generated_at: "2026-03-30T03:26:26.857Z"
+generated_at: "2026-03-30T03:29:00.287Z"
 status: "active"
 ---
 

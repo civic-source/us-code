@@ -3,9 +3,9 @@ title: "Section 292 - Solicitation of employment and receipt of unapproved fees 
 usc_title: 18
 usc_section: "292"
 chapter: 15
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "18 U.S.C. § 292"
-generated_at: "2026-03-30T03:25:23.359Z"
+generated_at: "2026-03-30T03:27:34.272Z"
 status: "active"
 ---
 

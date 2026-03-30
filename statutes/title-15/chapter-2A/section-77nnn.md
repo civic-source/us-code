@@ -3,9 +3,9 @@ title: "Section 77nnn - Reports by obligor; evidence of compliance with indentur
 usc_title: 15
 usc_section: "77nnn"
 chapter: 2
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 77nnn"
-generated_at: "2026-03-30T03:25:15.451Z"
+generated_at: "2026-03-30T03:27:26.828Z"
 status: "active"
 ---
 

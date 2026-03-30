@@ -3,9 +3,9 @@ title: "Section 286b - National Advisory Council on International Monetary and F
 usc_title: 22
 usc_section: "286b"
 chapter: 7
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 286b"
-generated_at: "2026-03-30T03:25:39.565Z"
+generated_at: "2026-03-30T03:27:52.137Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8236a - Technical assistance"
 usc_title: 42
 usc_section: "8236a"
 chapter: 91
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 8236a"
-generated_at: "2026-03-30T03:26:16.709Z"
+generated_at: "2026-03-30T03:28:56.959Z"
 status: "active"
 ---
 

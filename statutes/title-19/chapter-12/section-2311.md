@@ -3,9 +3,9 @@ title: "Section 2311 - Agreements with States"
 usc_title: 19
 usc_section: "2311"
 chapter: 12
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "19 U.S.C. § 2311"
-generated_at: "2026-03-30T03:25:24.619Z"
+generated_at: "2026-03-30T03:27:43.936Z"
 status: "active"
 ---
 

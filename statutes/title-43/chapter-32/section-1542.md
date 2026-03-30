@@ -3,9 +3,9 @@ title: "Section 1542 - Repayment capability of Indian lands"
 usc_title: 43
 usc_section: "1542"
 chapter: 32
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "43 U.S.C. § 1542"
-generated_at: "2026-03-30T03:26:03.900Z"
+generated_at: "2026-03-30T03:28:43.493Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 46a - Stationery allowance for President of Senate"
 usc_title: 2
 usc_section: "46a"
 chapter: 3
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 46a"
-generated_at: "2026-03-30T03:24:44.036Z"
+generated_at: "2026-03-30T03:26:44.267Z"
 status: "active"
 ---
 

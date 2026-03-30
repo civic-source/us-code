@@ -3,9 +3,9 @@ title: "Section 8519 - Reports on certain activities of foreign export credit ag
 usc_title: 22
 usc_section: "8519"
 chapter: 92
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 8519"
-generated_at: "2026-03-30T03:25:39.730Z"
+generated_at: "2026-03-30T03:27:52.252Z"
 status: "active"
 ---
 

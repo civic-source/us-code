@@ -3,9 +3,9 @@ title: "Section 103 - Conditions for patentability; non-obvious subject matter"
 usc_title: 35
 usc_section: "103"
 chapter: 10
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "35 U.S.C. § 103"
-generated_at: "2026-03-30T03:25:53.435Z"
+generated_at: "2026-03-30T03:28:27.836Z"
 status: "active"
 ---
 

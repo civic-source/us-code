@@ -3,9 +3,9 @@ title: "Section 11604 - Provisional remedies"
 usc_title: 42
 usc_section: "11604"
 chapter: 121
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 11604"
-generated_at: "2026-03-30T03:26:16.786Z"
+generated_at: "2026-03-30T03:28:57.018Z"
 status: "active"
 ---
 

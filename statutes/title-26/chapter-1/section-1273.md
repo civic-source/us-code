@@ -3,9 +3,9 @@ title: "Section 1273 - Determination of amount of original issue discount"
 usc_title: 26
 usc_section: "1273"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "26 U.S.C. § 1273"
-generated_at: "2026-03-30T03:25:51.285Z"
+generated_at: "2026-03-30T03:28:25.638Z"
 status: "active"
 ---
 

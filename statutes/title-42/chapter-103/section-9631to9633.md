@@ -3,9 +3,9 @@ title: "Section 9631to9633 - Repealed. Pub. L. 99–499, title V, § 517(c)(1) ,
 usc_title: 42
 usc_section: "9631to9633"
 chapter: 103
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 9631to9633"
-generated_at: "2026-03-30T03:26:16.739Z"
+generated_at: "2026-03-30T03:28:56.982Z"
 status: "repealed"
 ---
 

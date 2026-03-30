@@ -3,9 +3,9 @@ title: "Section 595a - Compensation for taking or condemnation of property for p
 usc_title: 33
 usc_section: "595a"
 chapter: 12
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "33 U.S.C. § 595a"
-generated_at: "2026-03-30T03:25:55.502Z"
+generated_at: "2026-03-30T03:28:36.891Z"
 status: "active"
 ---
 

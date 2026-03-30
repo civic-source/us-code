@@ -3,9 +3,9 @@ title: "Section 1428a - Repealed. Pub. L. 101–73, title VII, § 718 , Aug. 9, 
 usc_title: 12
 usc_section: "1428a"
 chapter: 11
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "12 U.S.C. § 1428a"
-generated_at: "2026-03-30T03:25:13.017Z"
+generated_at: "2026-03-30T03:27:24.415Z"
 status: "repealed"
 ---
 

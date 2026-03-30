@@ -3,9 +3,9 @@ title: "Section 437 - Reports on convention financing"
 usc_title: 2
 usc_section: "437"
 chapter: 14
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 437"
-generated_at: "2026-03-30T03:24:44.065Z"
+generated_at: "2026-03-30T03:26:44.287Z"
 status: "active"
 ---
 

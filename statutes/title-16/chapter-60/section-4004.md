@@ -3,9 +3,9 @@ title: "Section 4004 - Establishment of National Council"
 usc_title: 16
 usc_section: "4004"
 chapter: 60
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "16 U.S.C. § 4004"
-generated_at: "2026-03-30T03:25:28.963Z"
+generated_at: "2026-03-30T03:27:38.219Z"
 status: "active"
 ---
 

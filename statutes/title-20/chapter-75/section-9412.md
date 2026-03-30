@@ -3,9 +3,9 @@ title: "Section 9412 - Local applications"
 usc_title: 20
 usc_section: "9412"
 chapter: 75
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "20 U.S.C. § 9412"
-generated_at: "2026-03-30T03:25:21.553Z"
+generated_at: "2026-03-30T03:27:33.405Z"
 status: "active"
 ---
 

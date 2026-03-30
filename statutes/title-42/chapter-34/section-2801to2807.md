@@ -3,9 +3,9 @@ title: "Section 2801to2807 - Repealed. Pub. L. 89–750, title III, § 315 , Nov
 usc_title: 42
 usc_section: "2801to2807"
 chapter: 34
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 2801to2807"
-generated_at: "2026-03-30T03:26:16.508Z"
+generated_at: "2026-03-30T03:28:56.803Z"
 status: "repealed"
 ---
 

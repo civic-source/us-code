@@ -3,9 +3,9 @@ title: "Section 27 - Mortgage lending business defined"
 usc_title: 18
 usc_section: "27"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "18 U.S.C. § 27"
-generated_at: "2026-03-30T03:25:23.353Z"
+generated_at: "2026-03-30T03:27:34.266Z"
 status: "active"
 ---
 

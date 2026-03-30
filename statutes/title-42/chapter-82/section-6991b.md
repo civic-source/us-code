@@ -3,9 +3,9 @@ title: "Section 6991b - Release detection, prevention, and correction regulation
 usc_title: 42
 usc_section: "6991b"
 chapter: 82
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 6991b"
-generated_at: "2026-03-30T03:26:16.646Z"
+generated_at: "2026-03-30T03:28:56.912Z"
 status: "active"
 ---
 

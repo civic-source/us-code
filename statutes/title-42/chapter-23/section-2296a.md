@@ -3,9 +3,9 @@ title: "Section 2296a - Remedial action program"
 usc_title: 42
 usc_section: "2296a"
 chapter: 23
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 2296a"
-generated_at: "2026-03-30T03:26:16.501Z"
+generated_at: "2026-03-30T03:28:56.796Z"
 status: "active"
 ---
 

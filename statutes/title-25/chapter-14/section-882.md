@@ -3,9 +3,9 @@ title: "Section 882 - Sac and Fox Tribes; disposition of judgment fund; deductio
 usc_title: 25
 usc_section: "882"
 chapter: 14
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "25 U.S.C. § 882"
-generated_at: "2026-03-30T03:25:33.931Z"
+generated_at: "2026-03-30T03:27:53.746Z"
 status: "active"
 ---
 

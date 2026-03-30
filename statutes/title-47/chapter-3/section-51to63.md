@@ -3,9 +3,9 @@ title: "Section 51to63 - Repealed. Feb. 23, 1927, ch. 169, § 39 , 44 Stat. 1174
 usc_title: 47
 usc_section: "51to63"
 chapter: 3
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "47 U.S.C. § 51to63"
-generated_at: "2026-03-30T03:26:28.395Z"
+generated_at: "2026-03-30T03:28:59.896Z"
 status: "repealed"
 ---
 

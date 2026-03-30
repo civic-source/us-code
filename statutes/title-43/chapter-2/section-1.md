@@ -3,9 +3,9 @@ title: "Section 1 - Funds for mappings and investigations considered intragovern
 usc_title: 43
 usc_section: "1"
 chapter: 2
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T03:26:03.850Z"
+generated_at: "2026-03-30T03:28:43.462Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 794 - Energy conservation study"
 usc_title: 15
 usc_section: "794"
 chapter: 16
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 794"
-generated_at: "2026-03-30T03:25:15.557Z"
+generated_at: "2026-03-30T03:27:26.898Z"
 status: "active"
 ---
 

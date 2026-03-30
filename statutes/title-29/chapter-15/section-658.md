@@ -3,9 +3,9 @@ title: "Section 658 - Citations"
 usc_title: 29
 usc_section: "658"
 chapter: 15
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "29 U.S.C. § 658"
-generated_at: "2026-03-30T03:25:44.293Z"
+generated_at: "2026-03-30T03:28:04.170Z"
 status: "active"
 ---
 

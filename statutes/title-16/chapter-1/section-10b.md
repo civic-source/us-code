@@ -3,9 +3,9 @@ title: "Section 10b - Contracts for options to acquire lands and waters in natio
 usc_title: 16
 usc_section: "10b"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "16 U.S.C. § 10b"
-generated_at: "2026-03-30T03:25:28.755Z"
+generated_at: "2026-03-30T03:27:38.071Z"
 status: "active"
 ---
 

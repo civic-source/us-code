@@ -3,9 +3,9 @@ title: "Section 261to264 - Omitted"
 usc_title: 24
 usc_section: "261to264"
 chapter: 6
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "24 U.S.C. § 261to264"
-generated_at: "2026-03-30T03:25:31.245Z"
+generated_at: "2026-03-30T03:27:47.842Z"
 status: "omitted"
 ---
 

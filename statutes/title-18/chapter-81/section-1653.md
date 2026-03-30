@@ -3,9 +3,9 @@ title: "Section 1653 - Aliens as pirates"
 usc_title: 18
 usc_section: "1653"
 chapter: 81
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "18 U.S.C. § 1653"
-generated_at: "2026-03-30T03:25:23.387Z"
+generated_at: "2026-03-30T03:27:34.292Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 654 - Public and commercial vessels and other watercraft; sale o
 usc_title: 14
 usc_section: "654"
 chapter: 17
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "14 U.S.C. § 654"
-generated_at: "2026-03-30T03:25:00.101Z"
+generated_at: "2026-03-30T03:27:22.261Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 432 - Permits to examine ruins, excavations, and gathering of ob
 usc_title: 16
 usc_section: "432"
 chapter: 1
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "16 U.S.C. § 432"
-generated_at: "2026-03-30T03:25:28.740Z"
+generated_at: "2026-03-30T03:27:38.060Z"
 status: "active"
 ---
 

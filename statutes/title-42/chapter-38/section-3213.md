@@ -3,9 +3,9 @@ title: "Section 3213 - Annual report to Congress"
 usc_title: 42
 usc_section: "3213"
 chapter: 38
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 3213"
-generated_at: "2026-03-30T03:26:16.527Z"
+generated_at: "2026-03-30T03:28:56.817Z"
 status: "active"
 ---
 

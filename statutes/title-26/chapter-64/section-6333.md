@@ -3,9 +3,9 @@ title: "Section 6333 - Production of books"
 usc_title: 26
 usc_section: "6333"
 chapter: 64
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "26 U.S.C. § 6333"
-generated_at: "2026-03-30T03:25:51.390Z"
+generated_at: "2026-03-30T03:28:25.709Z"
 status: "active"
 ---
 

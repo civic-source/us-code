@@ -3,9 +3,9 @@ title: "Section 48105 - Weather reporting services"
 usc_title: 49
 usc_section: "48105"
 chapter: 481
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "49 U.S.C. § 48105"
-generated_at: "2026-03-30T03:26:22.716Z"
+generated_at: "2026-03-30T03:29:03.264Z"
 status: "active"
 ---
 

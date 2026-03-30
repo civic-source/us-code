@@ -3,9 +3,9 @@ title: "Section 6403 - Overpayment of installment"
 usc_title: 26
 usc_section: "6403"
 chapter: 65
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "26 U.S.C. § 6403"
-generated_at: "2026-03-30T03:25:51.392Z"
+generated_at: "2026-03-30T03:28:25.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2983to2983b - Repealed. Pub. L. 97–35, title VI, § 683(a) , A
 usc_title: 42
 usc_section: "2983to2983b"
 chapter: 34
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 2983to2983b"
-generated_at: "2026-03-30T03:26:16.509Z"
+generated_at: "2026-03-30T03:28:56.803Z"
 status: "repealed"
 ---
 

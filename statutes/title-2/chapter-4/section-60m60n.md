@@ -3,9 +3,9 @@ title: "Section 60m60n - Repealed. Pub. L. 104–1, title V, § 504(b) , Jan. 23
 usc_title: 2
 usc_section: "60m60n"
 chapter: 4
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 60m60n"
-generated_at: "2026-03-30T03:24:44.040Z"
+generated_at: "2026-03-30T03:26:44.270Z"
 status: "repealed"
 ---
 

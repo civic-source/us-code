@@ -3,9 +3,9 @@ title: "Section 4416 - Retention of interest"
 usc_title: 22
 usc_section: "4416"
 chapter: 54
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 4416"
-generated_at: "2026-03-30T03:25:39.677Z"
+generated_at: "2026-03-30T03:27:52.216Z"
 status: "active"
 ---
 

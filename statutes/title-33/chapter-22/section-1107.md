@@ -3,9 +3,9 @@ title: "Section 1107 - Definitions"
 usc_title: 33
 usc_section: "1107"
 chapter: 22
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "33 U.S.C. § 1107"
-generated_at: "2026-03-30T03:25:55.519Z"
+generated_at: "2026-03-30T03:28:36.905Z"
 status: "active"
 ---
 

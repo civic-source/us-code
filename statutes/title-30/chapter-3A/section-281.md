@@ -3,9 +3,9 @@ title: "Section 281 - Prospecting permits for chlorides, sulphates, carbonates, 
 usc_title: 30
 usc_section: "281"
 chapter: 3
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "30 U.S.C. § 281"
-generated_at: "2026-03-30T03:25:43.323Z"
+generated_at: "2026-03-30T03:28:02.055Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1423to1426 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 
 usc_title: 42
 usc_section: "1423to1426"
 chapter: 8
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 1423to1426"
-generated_at: "2026-03-30T03:26:16.409Z"
+generated_at: "2026-03-30T03:28:56.724Z"
 status: "repealed"
 ---
 

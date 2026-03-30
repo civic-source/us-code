@@ -3,9 +3,9 @@ title: "Section 1973bb2to1973bb4 - Repealed. Pub. L. 94–73, title IV, § 407 ,
 usc_title: 42
 usc_section: "1973bb2to1973bb4"
 chapter: 20
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 1973bb2to1973bb4"
-generated_at: "2026-03-30T03:26:16.472Z"
+generated_at: "2026-03-30T03:28:56.772Z"
 status: "repealed"
 ---
 

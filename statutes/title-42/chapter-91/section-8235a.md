@@ -3,9 +3,9 @@ title: "Section 8235a - Approval of plans for prototype residential energy effic
 usc_title: 42
 usc_section: "8235a"
 chapter: 91
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 8235a"
-generated_at: "2026-03-30T03:26:16.708Z"
+generated_at: "2026-03-30T03:28:56.958Z"
 status: "active"
 ---
 

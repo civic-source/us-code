@@ -3,9 +3,9 @@ title: "Section 5944 - Repealed. Pub. L. 98–164, title I, § 127(b)(1) , Nov. 
 usc_title: 5
 usc_section: "5944"
 chapter: 59
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "5 U.S.C. § 5944"
-generated_at: "2026-03-30T03:24:46.156Z"
+generated_at: "2026-03-30T03:27:05.228Z"
 status: "repealed"
 ---
 

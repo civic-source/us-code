@@ -3,9 +3,9 @@ title: "Section 875 - Interstate communications"
 usc_title: 18
 usc_section: "875"
 chapter: 41
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "18 U.S.C. § 875"
-generated_at: "2026-03-30T03:25:23.369Z"
+generated_at: "2026-03-30T03:27:34.279Z"
 status: "active"
 ---
 

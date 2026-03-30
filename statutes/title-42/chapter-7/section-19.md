@@ -3,9 +3,9 @@ title: "Section 19 - The Ticket to Work and Self-Sufficiency Program"
 usc_title: 42
 usc_section: "19"
 chapter: 7
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-30T03:26:16.269Z"
+generated_at: "2026-03-30T03:28:56.613Z"
 status: "active"
 ---
 

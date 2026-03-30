@@ -3,9 +3,9 @@ title: "Section 494 - Insignia for additional awards"
 usc_title: 14
 usc_section: "494"
 chapter: 13
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "14 U.S.C. § 494"
-generated_at: "2026-03-30T03:25:00.098Z"
+generated_at: "2026-03-30T03:27:22.259Z"
 status: "active"
 ---
 

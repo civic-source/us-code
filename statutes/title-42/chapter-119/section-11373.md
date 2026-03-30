@@ -3,9 +3,9 @@ title: "Section 11373 - Allocation and distribution of assistance"
 usc_title: 42
 usc_section: "11373"
 chapter: 119
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 11373"
-generated_at: "2026-03-30T03:26:16.780Z"
+generated_at: "2026-03-30T03:28:57.014Z"
 status: "active"
 ---
 

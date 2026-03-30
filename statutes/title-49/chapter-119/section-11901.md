@@ -3,9 +3,9 @@ title: "Section 11901 - General civil penalties"
 usc_title: 49
 usc_section: "11901"
 chapter: 119
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "49 U.S.C. § 11901"
-generated_at: "2026-03-30T03:26:22.646Z"
+generated_at: "2026-03-30T03:29:03.211Z"
 status: "active"
 ---
 

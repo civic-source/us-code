@@ -3,9 +3,9 @@ title: "Section 6894 - Residents of the territories and freely associated states
 usc_title: 20
 usc_section: "6894"
 chapter: 70
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "20 U.S.C. § 6894"
-generated_at: "2026-03-30T03:25:21.516Z"
+generated_at: "2026-03-30T03:27:33.379Z"
 status: "active"
 ---
 

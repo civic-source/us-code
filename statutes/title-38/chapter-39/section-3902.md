@@ -3,9 +3,9 @@ title: "Section 3902 - Assistance for providing automobile and adaptive equipmen
 usc_title: 38
 usc_section: "3902"
 chapter: 39
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "38 U.S.C. § 3902"
-generated_at: "2026-03-30T03:26:00.190Z"
+generated_at: "2026-03-30T03:28:40.606Z"
 status: "active"
 ---
 

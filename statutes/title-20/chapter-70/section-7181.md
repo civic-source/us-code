@@ -3,9 +3,9 @@ title: "Section 7181 - Short title"
 usc_title: 20
 usc_section: "7181"
 chapter: 70
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "20 U.S.C. § 7181"
-generated_at: "2026-03-30T03:25:21.523Z"
+generated_at: "2026-03-30T03:27:33.384Z"
 status: "active"
 ---
 

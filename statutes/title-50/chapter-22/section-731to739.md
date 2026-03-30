@@ -3,9 +3,9 @@ title: "Section 731to739 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 
 usc_title: 50
 usc_section: "731to739"
 chapter: 22
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "50 U.S.C. § 731to739"
-generated_at: "2026-03-30T03:26:29.207Z"
+generated_at: "2026-03-30T03:29:01.539Z"
 status: "repealed"
 ---
 

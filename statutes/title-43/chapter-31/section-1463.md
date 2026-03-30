@@ -3,9 +3,9 @@ title: "Section 1463 - Disposition of receipts"
 usc_title: 43
 usc_section: "1463"
 chapter: 31
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "43 U.S.C. § 1463"
-generated_at: "2026-03-30T03:26:03.898Z"
+generated_at: "2026-03-30T03:28:43.492Z"
 status: "active"
 ---
 

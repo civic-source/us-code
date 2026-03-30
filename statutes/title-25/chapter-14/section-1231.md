@@ -3,9 +3,9 @@ title: "Section 1231 - Persons eligible for equal share payments"
 usc_title: 25
 usc_section: "1231"
 chapter: 14
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "25 U.S.C. § 1231"
-generated_at: "2026-03-30T03:25:33.939Z"
+generated_at: "2026-03-30T03:27:53.751Z"
 status: "active"
 ---
 

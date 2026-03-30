@@ -3,9 +3,9 @@ title: "Section 6715 - Certain State affiliation laws preempted for insurance co
 usc_title: 15
 usc_section: "6715"
 chapter: 93
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 6715"
-generated_at: "2026-03-30T03:25:15.669Z"
+generated_at: "2026-03-30T03:27:26.973Z"
 status: "active"
 ---
 

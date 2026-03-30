@@ -3,9 +3,9 @@ title: "Section 57 - Changes in investment policy"
 usc_title: 15
 usc_section: "57"
 chapter: 2
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 57"
-generated_at: "2026-03-30T03:25:15.497Z"
+generated_at: "2026-03-30T03:27:26.858Z"
 status: "active"
 ---
 

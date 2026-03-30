@@ -3,9 +3,9 @@ title: "Section 7361 - Drug abuse"
 usc_title: 5
 usc_section: "7361"
 chapter: 73
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "5 U.S.C. § 7361"
-generated_at: "2026-03-30T03:24:46.164Z"
+generated_at: "2026-03-30T03:27:05.234Z"
 status: "active"
 ---
 

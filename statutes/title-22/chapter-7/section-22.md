@@ -3,9 +3,9 @@ title: "Section 22 - Prohibition against duplicate payments; eligibility for pay
 usc_title: 22
 usc_section: "22"
 chapter: 7
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 22"
-generated_at: "2026-03-30T03:25:39.559Z"
+generated_at: "2026-03-30T03:27:52.133Z"
 status: "active"
 ---
 

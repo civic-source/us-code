@@ -3,9 +3,9 @@ title: "Section 2547 - Consultations with representatives of domestic interests"
 usc_title: 19
 usc_section: "2547"
 chapter: 13
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "19 U.S.C. § 2547"
-generated_at: "2026-03-30T03:25:24.631Z"
+generated_at: "2026-03-30T03:27:43.945Z"
 status: "active"
 ---
 

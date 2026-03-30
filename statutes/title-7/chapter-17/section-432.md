@@ -3,9 +3,9 @@ title: "Section 432 - Purchase of cultures for soil and fertilizer investigation
 usc_title: 7
 usc_section: "432"
 chapter: 17
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "7 U.S.C. § 432"
-generated_at: "2026-03-30T03:24:57.635Z"
+generated_at: "2026-03-30T03:27:20.102Z"
 status: "active"
 ---
 

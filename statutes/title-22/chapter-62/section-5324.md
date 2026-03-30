@@ -3,9 +3,9 @@ title: "Section 5324 - Statement of policy"
 usc_title: 22
 usc_section: "5324"
 chapter: 62
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "22 U.S.C. § 5324"
-generated_at: "2026-03-30T03:25:39.682Z"
+generated_at: "2026-03-30T03:27:52.220Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 221a - Instructions of citizens from American republics; United 
 usc_title: 20
 usc_section: "221a"
 chapter: 12
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "20 U.S.C. § 221a"
-generated_at: "2026-03-30T03:25:21.362Z"
+generated_at: "2026-03-30T03:27:33.272Z"
 status: "active"
 ---
 

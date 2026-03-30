@@ -3,9 +3,9 @@ title: "Section 5822 - Integrated Farm Management Program Option"
 usc_title: 7
 usc_section: "5822"
 chapter: 88
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "7 U.S.C. § 5822"
-generated_at: "2026-03-30T03:24:57.770Z"
+generated_at: "2026-03-30T03:27:20.194Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10507 - Repayment"
 usc_title: 42
 usc_section: "10507"
 chapter: 111
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 10507"
-generated_at: "2026-03-30T03:26:16.768Z"
+generated_at: "2026-03-30T03:28:57.005Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 633 - Federal-State relationship"
 usc_title: 29
 usc_section: "633"
 chapter: 14
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "29 U.S.C. § 633"
-generated_at: "2026-03-30T03:25:44.292Z"
+generated_at: "2026-03-30T03:28:04.169Z"
 status: "active"
 ---
 

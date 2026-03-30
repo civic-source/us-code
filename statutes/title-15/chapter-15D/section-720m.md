@@ -3,9 +3,9 @@ title: "Section 720m - Sense of Congress concerning Alaskan ownership"
 usc_title: 15
 usc_section: "720m"
 chapter: 15
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 720m"
-generated_at: "2026-03-30T03:25:15.554Z"
+generated_at: "2026-03-30T03:27:26.896Z"
 status: "active"
 ---
 

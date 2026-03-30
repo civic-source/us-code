@@ -3,9 +3,9 @@ title: "Section 17509 - Applicability"
 usc_title: 40
 usc_section: "17509"
 chapter: 175
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "40 U.S.C. § 17509"
-generated_at: "2026-03-30T03:26:00.746Z"
+generated_at: "2026-03-30T03:28:41.132Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2636 - Continuation of processing, treatment, and disposal of le
 usc_title: 50
 usc_section: "2636"
 chapter: 42
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "50 U.S.C. § 2636"
-generated_at: "2026-03-30T03:26:29.235Z"
+generated_at: "2026-03-30T03:29:01.562Z"
 status: "active"
 ---
 

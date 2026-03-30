@@ -3,9 +3,9 @@ title: "Section 1226 - Port, harbor, and coastal facility security"
 usc_title: 33
 usc_section: "1226"
 chapter: 25
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "33 U.S.C. § 1226"
-generated_at: "2026-03-30T03:25:55.520Z"
+generated_at: "2026-03-30T03:28:36.906Z"
 status: "active"
 ---
 

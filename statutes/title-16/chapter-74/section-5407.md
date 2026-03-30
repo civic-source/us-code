@@ -3,9 +3,9 @@ title: "Section 5407 - Regulations"
 usc_title: 16
 usc_section: "5407"
 chapter: 74
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "16 U.S.C. § 5407"
-generated_at: "2026-03-30T03:25:28.976Z"
+generated_at: "2026-03-30T03:27:38.228Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 714o - Dissolution of Delaware corporation"
 usc_title: 15
 usc_section: "714o"
 chapter: 15
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "15 U.S.C. § 714o"
-generated_at: "2026-03-30T03:25:15.549Z"
+generated_at: "2026-03-30T03:27:26.892Z"
 status: "active"
 ---
 

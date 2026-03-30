@@ -3,9 +3,9 @@ title: "Section 13663 - Ineligibility of dangerous sex offenders for admission t
 usc_title: 42
 usc_section: "13663"
 chapter: 135
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 13663"
-generated_at: "2026-03-30T03:26:16.838Z"
+generated_at: "2026-03-30T03:28:57.058Z"
 status: "active"
 ---
 

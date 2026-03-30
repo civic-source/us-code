@@ -3,9 +3,9 @@ title: "Section 2223 - Enhancing tracking and tracing of food and recordkeeping"
 usc_title: 21
 usc_section: "2223"
 chapter: 27
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "21 U.S.C. § 2223"
-generated_at: "2026-03-30T03:25:40.713Z"
+generated_at: "2026-03-30T03:27:52.955Z"
 status: "active"
 ---
 

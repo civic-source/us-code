@@ -3,9 +3,9 @@ title: "Section 4306 - Service schools: leaves of absence for instructors"
 usc_title: 10
 usc_section: "4306"
 chapter: 401
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 4306"
-generated_at: "2026-03-30T03:24:54.798Z"
+generated_at: "2026-03-30T03:27:18.311Z"
 status: "active"
 ---
 

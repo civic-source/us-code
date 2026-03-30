@@ -3,9 +3,9 @@ title: "Section 2484 - Correction of Plant Variety Protection Office mistake"
 usc_title: 7
 usc_section: "2484"
 chapter: 57
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "7 U.S.C. § 2484"
-generated_at: "2026-03-30T03:24:57.740Z"
+generated_at: "2026-03-30T03:27:20.173Z"
 status: "active"
 ---
 

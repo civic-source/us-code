@@ -3,9 +3,9 @@ title: "Section 1302 - Application of laws"
 usc_title: 2
 usc_section: "1302"
 chapter: 24
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 1302"
-generated_at: "2026-03-30T03:24:44.087Z"
+generated_at: "2026-03-30T03:26:44.301Z"
 status: "active"
 ---
 

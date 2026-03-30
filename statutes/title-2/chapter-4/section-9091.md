@@ -3,9 +3,9 @@ title: "Section 9091 - Repealed. Pub. L. 104–186, title II, § 204(33) , Aug. 
 usc_title: 2
 usc_section: "9091"
 chapter: 4
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 9091"
-generated_at: "2026-03-30T03:24:44.048Z"
+generated_at: "2026-03-30T03:26:44.276Z"
 status: "repealed"
 ---
 

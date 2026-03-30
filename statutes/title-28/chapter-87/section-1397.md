@@ -3,9 +3,9 @@ title: "Section 1397 - Interpleader"
 usc_title: 28
 usc_section: "1397"
 chapter: 87
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "28 U.S.C. § 1397"
-generated_at: "2026-03-30T03:25:45.301Z"
+generated_at: "2026-03-30T03:28:02.685Z"
 status: "active"
 ---
 

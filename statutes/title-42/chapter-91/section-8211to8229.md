@@ -3,9 +3,9 @@ title: "Section 8211to8229 - Omitted"
 usc_title: 42
 usc_section: "8211to8229"
 chapter: 91
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "42 U.S.C. § 8211to8229"
-generated_at: "2026-03-30T03:26:16.708Z"
+generated_at: "2026-03-30T03:28:56.958Z"
 status: "omitted"
 ---
 

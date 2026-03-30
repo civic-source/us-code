@@ -3,9 +3,9 @@ title: "Section 104c - Preservation of reports, statements, or documents filed w
 usc_title: 2
 usc_section: "104c"
 chapter: 4
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "2 U.S.C. § 104c"
-generated_at: "2026-03-30T03:24:44.048Z"
+generated_at: "2026-03-30T03:26:44.276Z"
 status: "active"
 ---
 

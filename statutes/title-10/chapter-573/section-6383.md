@@ -3,9 +3,9 @@ title: "Section 6383 - Regular Navy and Regular Marine Corps; officers designate
 usc_title: 10
 usc_section: "6383"
 chapter: 573
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "10 U.S.C. § 6383"
-generated_at: "2026-03-30T03:24:54.810Z"
+generated_at: "2026-03-30T03:27:18.320Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 501to517 - Repealed. Pub. L. 91–513, title III, § 1101(a)(10)
 usc_title: 21
 usc_section: "501to517"
 chapter: 11
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "21 U.S.C. § 501to517"
-generated_at: "2026-03-30T03:25:40.685Z"
+generated_at: "2026-03-30T03:27:52.936Z"
 status: "repealed"
 ---
 

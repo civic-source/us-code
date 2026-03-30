@@ -3,9 +3,9 @@ title: "Section 8502 - National Capital Service Director"
 usc_title: 40
 usc_section: "8502"
 chapter: 85
-current_through: "PL 113-49"
+current_through: "PL 113-52"
 classification: "40 U.S.C. § 8502"
-generated_at: "2026-03-30T03:26:00.739Z"
+generated_at: "2026-03-30T03:28:41.127Z"
 status: "active"
 ---
 
