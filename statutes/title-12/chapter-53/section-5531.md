@@ -3,9 +3,9 @@ title: "Section 5531 - Prohibiting unfair, deceptive, or abusive acts or practic
 usc_title: 12
 usc_section: "5531"
 chapter: 53
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 5531"
-generated_at: "2026-03-30T07:04:15.213Z"
+generated_at: "2026-03-30T07:06:01.119Z"
 status: "active"
 ---
 

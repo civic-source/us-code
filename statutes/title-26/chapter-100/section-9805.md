@@ -3,9 +3,9 @@ title: "Section 9805 - Renumbered § 9832]"
 usc_title: 26
 usc_section: "9805"
 chapter: 100
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 9805"
-generated_at: "2026-03-30T07:04:56.899Z"
+generated_at: "2026-03-30T07:06:35.720Z"
 status: "renumbered"
 ---
 

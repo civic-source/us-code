@@ -3,9 +3,9 @@ title: "Section 2314 - Transportation of stolen goods, securities, moneys, fraud
 usc_title: 18
 usc_section: "2314"
 chapter: 113
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "18 U.S.C. § 2314"
-generated_at: "2026-03-30T07:04:31.732Z"
+generated_at: "2026-03-30T07:06:08.134Z"
 status: "active"
 ---
 

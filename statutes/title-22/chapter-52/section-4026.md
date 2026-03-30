@@ -3,9 +3,9 @@ title: "Section 4026 - Career counseling"
 usc_title: 22
 usc_section: "4026"
 chapter: 52
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 4026"
-generated_at: "2026-03-30T07:04:37.965Z"
+generated_at: "2026-03-30T07:06:26.396Z"
 status: "active"
 ---
 

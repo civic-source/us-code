@@ -3,9 +3,9 @@ title: "Section 10702 - Authority for rail carriers to establish rates, classifi
 usc_title: 49
 usc_section: "10702"
 chapter: 107
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "49 U.S.C. § 10702"
-generated_at: "2026-03-30T07:05:28.431Z"
+generated_at: "2026-03-30T07:07:14.342Z"
 status: "active"
 ---
 

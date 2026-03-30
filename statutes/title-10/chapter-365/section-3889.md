@@ -3,9 +3,9 @@ title: "Section 3889 - Repealed. Pub. L. 96–513, title II , § 216, Dec. 12, 1
 usc_title: 10
 usc_section: "3889"
 chapter: 365
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 3889"
-generated_at: "2026-03-30T07:03:43.813Z"
+generated_at: "2026-03-30T07:05:55.676Z"
 status: "repealed"
 ---
 

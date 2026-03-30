@@ -3,9 +3,9 @@ title: "Section 19gg - Omitted"
 usc_title: 16
 usc_section: "19gg"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 19gg"
-generated_at: "2026-03-30T07:04:22.199Z"
+generated_at: "2026-03-30T07:06:11.275Z"
 status: "omitted"
 ---
 

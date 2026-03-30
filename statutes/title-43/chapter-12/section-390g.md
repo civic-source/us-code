@@ -3,9 +3,9 @@ title: "Section 390g - Groundwater recharge of aquifers; demonstration program"
 usc_title: 43
 usc_section: "390g"
 chapter: 12
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "43 U.S.C. § 390g"
-generated_at: "2026-03-30T07:05:11.391Z"
+generated_at: "2026-03-30T07:06:48.841Z"
 status: "active"
 ---
 

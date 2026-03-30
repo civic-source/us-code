@@ -3,9 +3,9 @@ title: "Section 1074e - Medical care: certain Reserves who served in Southwest A
 usc_title: 10
 usc_section: "1074e"
 chapter: 55
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 1074e"
-generated_at: "2026-03-30T07:03:43.742Z"
+generated_at: "2026-03-30T07:05:55.598Z"
 status: "active"
 ---
 

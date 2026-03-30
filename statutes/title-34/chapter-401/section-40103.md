@@ -3,9 +3,9 @@ title: "Section 40103 - Funding for improvement of child abuse crime information
 usc_title: 34
 usc_section: "40103"
 chapter: 401
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "34 U.S.C. § 40103"
-generated_at: "2026-03-30T07:04:59.530Z"
+generated_at: "2026-03-30T07:06:39.498Z"
 status: "active"
 ---
 

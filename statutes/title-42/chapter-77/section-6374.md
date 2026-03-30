@@ -3,9 +3,9 @@ title: "Section 6374 - Alternative fuel use by light duty Federal vehicles"
 usc_title: 42
 usc_section: "6374"
 chapter: 77
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 6374"
-generated_at: "2026-03-30T07:05:21.795Z"
+generated_at: "2026-03-30T07:07:06.632Z"
 status: "active"
 ---
 

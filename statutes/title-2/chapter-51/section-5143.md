@@ -3,9 +3,9 @@ title: "Section 5143 - Compensation of certain House minority employees"
 usc_title: 2
 usc_section: "5143"
 chapter: 51
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "2 U.S.C. § 5143"
-generated_at: "2026-03-30T07:03:26.308Z"
+generated_at: "2026-03-30T07:05:44.283Z"
 status: "active"
 ---
 

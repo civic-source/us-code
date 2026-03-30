@@ -3,9 +3,9 @@ title: "Section 78h - Restrictions on borrowing and lending by members, brokers,
 usc_title: 15
 usc_section: "78h"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 78h"
-generated_at: "2026-03-30T07:03:49.190Z"
+generated_at: "2026-03-30T07:06:02.873Z"
 status: "active"
 ---
 

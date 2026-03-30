@@ -3,9 +3,9 @@ title: "Section 2216 - Defense Modernization Account"
 usc_title: 10
 usc_section: "2216"
 chapter: 131
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 2216"
-generated_at: "2026-03-30T07:03:43.773Z"
+generated_at: "2026-03-30T07:05:55.633Z"
 status: "active"
 ---
 

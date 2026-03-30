@@ -3,9 +3,9 @@ title: "Section 228j - Authorization of appropriations; availability of sums"
 usc_title: 16
 usc_section: "228j"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 228j"
-generated_at: "2026-03-30T07:04:22.211Z"
+generated_at: "2026-03-30T07:06:11.286Z"
 status: "active"
 ---
 

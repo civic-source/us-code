@@ -3,9 +3,9 @@ title: "Section 2000ee - Privacy and Civil Liberties Oversight Board"
 usc_title: 42
 usc_section: "2000ee"
 chapter: 21
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 2000ee"
-generated_at: "2026-03-30T07:05:21.699Z"
+generated_at: "2026-03-30T07:07:06.528Z"
 status: "active"
 ---
 
@@ -55,9 +55,9 @@ status: "active"
       - **(i)** the Board advised against implementation; and
       - **(ii)** notwithstanding such advice, actions were taken to implement; and
     - **(E)** for the preceding period, any requests submitted under subsection (g)(1)(D) for the issuance of subpoenas that were modified or denied by the Attorney General.
-- **(f)** The Board shall—
-  - **(1)** make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
-  - **(2)** hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law.
+- **(f)** The Board—
+  - **(1)** shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
+  - **(2)** shall hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law, but may, notwithstanding section 552b of title 5 , meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public.
 - **(g)**
   - **(1)** If determined by the Board to be necessary to carry out its responsibilities under this section, the Board is authorized to—
     - **(A)** have access from any department, agency, or element of the executive branch, or any Federal officer or employee of any such department, agency, or element, to all relevant records, reports, audits, reviews, documents, papers, recommendations, or other relevant material, including classified information consistent with applicable law;
@@ -89,8 +89,9 @@ status: "active"
   - **(2)** Members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for persons employed intermittently by the Government under section 5703(b) 1 1 See References in Text note below. of title 5, while away from their homes or regular places of business in the performance of services for the Board.
 - **(j)**
   - **(1)** The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5 .
-  - **(2)** Any Federal employee may be detailed to the Board without reimbursement from the Board, and such detailee shall retain the rights, status, and privileges of the detailee’s regular employment without interruption.
-  - **(3)** The Board may procure the temporary or intermittent services of experts and consultants in accordance with section 3109 of title 5 , at rates that do not exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
+  - **(2)** If the position of chairman of the Board is vacant, during the period of the vacancy, the Board, at the direction of the unanimous vote of the serving members of the Board, may exercise the authority of the chairman under paragraph (1).
+  - **(3)** Any Federal employee may be detailed to the Board without reimbursement from the Board, and such detailee shall retain the rights, status, and privileges of the detailee’s regular employment without interruption.
+  - **(4)** The Board may procure the temporary or intermittent services of experts and consultants in accordance with section 3109 of title 5 , at rates that do not exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
 - **(k)**
   - **(1)** The appropriate departments, agencies, and elements of the executive branch shall cooperate with the Board to expeditiously provide the Board members and staff with appropriate security clearances to the extent possible under existing procedures and requirements.
   - **(2)** After consultation with the Secretary of Defense, the Attorney General, and the Director of National Intelligence, the Board shall adopt rules and procedures of the Board for physical, communications, computer, document, personnel, and other security relating to carrying out the functions of the Board.

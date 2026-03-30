@@ -3,9 +3,9 @@ title: "Section 311 - Taxability of corporation on distribution"
 usc_title: 26
 usc_section: "311"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 311"
-generated_at: "2026-03-30T07:04:56.704Z"
+generated_at: "2026-03-30T07:06:35.533Z"
 status: "active"
 ---
 

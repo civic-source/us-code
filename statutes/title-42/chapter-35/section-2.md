@@ -3,9 +3,9 @@ title: "Section 2 - Maintenance of effort"
 usc_title: 42
 usc_section: "2"
 chapter: 35
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T07:05:21.727Z"
+generated_at: "2026-03-30T07:07:06.559Z"
 status: "active"
 ---
 

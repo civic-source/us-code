@@ -3,9 +3,9 @@ title: "Section 42303 - Use of insecticides in passenger aircraft"
 usc_title: 49
 usc_section: "42303"
 chapter: 423
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "49 U.S.C. § 42303"
-generated_at: "2026-03-30T07:05:28.473Z"
+generated_at: "2026-03-30T07:07:14.388Z"
 status: "active"
 ---
 

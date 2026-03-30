@@ -3,9 +3,9 @@ title: "Section 167a - Exchange of lands and other property"
 usc_title: 16
 usc_section: "167a"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 167a"
-generated_at: "2026-03-30T07:04:22.208Z"
+generated_at: "2026-03-30T07:06:11.283Z"
 status: "active"
 ---
 

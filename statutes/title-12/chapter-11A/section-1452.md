@@ -3,9 +3,9 @@ title: "Section 1452 - Federal Home Loan Mortgage Corporation"
 usc_title: 12
 usc_section: "1452"
 chapter: 11
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 1452"
-generated_at: "2026-03-30T07:04:15.086Z"
+generated_at: "2026-03-30T07:06:00.984Z"
 status: "active"
 ---
 

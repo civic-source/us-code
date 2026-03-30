@@ -3,9 +3,9 @@ title: "Section 5727 - Definitions"
 usc_title: 38
 usc_section: "5727"
 chapter: 57
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "38 U.S.C. § 5727"
-generated_at: "2026-03-30T07:05:05.992Z"
+generated_at: "2026-03-30T07:06:44.691Z"
 status: "active"
 ---
 

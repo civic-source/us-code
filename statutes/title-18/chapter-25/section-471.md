@@ -3,9 +3,9 @@ title: "Section 471 - Obligations or securities of United States"
 usc_title: 18
 usc_section: "471"
 chapter: 25
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "18 U.S.C. § 471"
-generated_at: "2026-03-30T07:04:31.701Z"
+generated_at: "2026-03-30T07:06:08.105Z"
 status: "active"
 ---
 

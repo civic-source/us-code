@@ -3,9 +3,9 @@ title: "Section 934 - Repealed. Pub. L. 92–471, title II , § 203(a), Oct. 9, 
 usc_title: 16
 usc_section: "934"
 chapter: 15
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 934"
-generated_at: "2026-03-30T07:04:22.333Z"
+generated_at: "2026-03-30T07:06:11.408Z"
 status: "repealed"
 ---
 

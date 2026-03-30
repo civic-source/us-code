@@ -3,9 +3,9 @@ title: "Section 115a - Mineral resources; exploitation"
 usc_title: 16
 usc_section: "115a"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 115a"
-generated_at: "2026-03-30T07:04:22.205Z"
+generated_at: "2026-03-30T07:06:11.281Z"
 status: "active"
 ---
 

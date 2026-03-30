@@ -3,9 +3,9 @@ title: "Section 1396s - Program for distribution of pediatric vaccines"
 usc_title: 42
 usc_section: "1396s"
 chapter: 7
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 1396s"
-generated_at: "2026-03-30T07:05:21.634Z"
+generated_at: "2026-03-30T07:07:06.459Z"
 status: "active"
 ---
 

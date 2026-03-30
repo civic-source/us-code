@@ -3,9 +3,9 @@ title: "Section 6a - Exemptions"
 usc_title: 15
 usc_section: "6a"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 6a"
-generated_at: "2026-03-30T07:03:49.218Z"
+generated_at: "2026-03-30T07:06:02.901Z"
 status: "active"
 ---
 

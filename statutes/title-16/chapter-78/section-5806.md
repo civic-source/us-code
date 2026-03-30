@@ -3,9 +3,9 @@ title: "Section 5806 - Administrative services and support"
 usc_title: 16
 usc_section: "5806"
 chapter: 78
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 5806"
-generated_at: "2026-03-30T07:04:22.407Z"
+generated_at: "2026-03-30T07:06:11.480Z"
 status: "active"
 ---
 

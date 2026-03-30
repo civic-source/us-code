@@ -3,9 +3,9 @@ title: "Section 556 - Coordination of Federal, State, and local authority"
 usc_title: 47
 usc_section: "556"
 chapter: 5
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "47 U.S.C. § 556"
-generated_at: "2026-03-30T07:05:25.758Z"
+generated_at: "2026-03-30T07:07:09.503Z"
 status: "active"
 ---
 

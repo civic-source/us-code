@@ -3,9 +3,9 @@ title: "Section 1323h - Repealed. Pub. L. 87–845 , § 26(b), Oct. 18, 1962 , 7
 usc_title: 48
 usc_section: "1323h"
 chapter: 6
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "48 U.S.C. § 1323h"
-generated_at: "2026-03-30T07:05:25.365Z"
+generated_at: "2026-03-30T07:07:09.999Z"
 status: "repealed"
 ---
 

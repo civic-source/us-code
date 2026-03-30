@@ -3,9 +3,9 @@ title: "Section 412 - Renumbered § 455]"
 usc_title: 37
 usc_section: "412"
 chapter: 7
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "37 U.S.C. § 412"
-generated_at: "2026-03-30T07:05:02.838Z"
+generated_at: "2026-03-30T07:06:45.754Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8232 - Severability"
 usc_title: 15
 usc_section: "8232"
 chapter: 108
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 8232"
-generated_at: "2026-03-30T07:03:49.356Z"
+generated_at: "2026-03-30T07:06:03.042Z"
 status: "active"
 ---
 

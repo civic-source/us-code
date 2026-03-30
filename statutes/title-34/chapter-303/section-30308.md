@@ -3,9 +3,9 @@ title: "Section 30308 - Requirement that accreditation organizations adopt accre
 usc_title: 34
 usc_section: "30308"
 chapter: 303
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "34 U.S.C. § 30308"
-generated_at: "2026-03-30T07:04:59.530Z"
+generated_at: "2026-03-30T07:06:39.497Z"
 status: "active"
 ---
 

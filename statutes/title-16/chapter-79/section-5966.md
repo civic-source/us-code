@@ -3,9 +3,9 @@ title: "Section 5966 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5966"
 chapter: 79
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 5966"
-generated_at: "2026-03-30T07:04:22.407Z"
+generated_at: "2026-03-30T07:06:11.481Z"
 status: "repealed"
 ---
 

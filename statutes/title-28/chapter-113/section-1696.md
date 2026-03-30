@@ -3,9 +3,9 @@ title: "Section 1696 - Service in foreign and international litigation"
 usc_title: 28
 usc_section: "1696"
 chapter: 113
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "28 U.S.C. § 1696"
-generated_at: "2026-03-30T07:04:51.521Z"
+generated_at: "2026-03-30T07:06:29.134Z"
 status: "active"
 ---
 

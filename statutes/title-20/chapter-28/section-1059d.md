@@ -3,9 +3,9 @@ title: "Section 1059d - Alaska Native and Native Hawaiian-serving institutions"
 usc_title: 20
 usc_section: "1059d"
 chapter: 28
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "20 U.S.C. § 1059d"
-generated_at: "2026-03-30T07:04:27.730Z"
+generated_at: "2026-03-30T07:06:19.929Z"
 status: "active"
 ---
 

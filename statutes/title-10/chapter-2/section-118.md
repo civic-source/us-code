@@ -3,9 +3,9 @@ title: "Section 118 - Repealed. Pub. L. 114–328, div. A, title IX , § 941(b)(
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-03-30T07:03:43.706Z"
+generated_at: "2026-03-30T07:05:55.560Z"
 status: "repealed"
 ---
 

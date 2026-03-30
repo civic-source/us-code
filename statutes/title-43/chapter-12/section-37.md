@@ -3,9 +3,9 @@ title: "Section 37 - Oxnard, California, water reclamation, reuse, and treatment
 usc_title: 43
 usc_section: "37"
 chapter: 12
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "43 U.S.C. § 37"
-generated_at: "2026-03-30T07:05:11.392Z"
+generated_at: "2026-03-30T07:06:48.843Z"
 status: "active"
 ---
 

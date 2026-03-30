@@ -3,9 +3,9 @@ title: "Section 21112 - Establishment of National ICAC Task Force Program"
 usc_title: 34
 usc_section: "21112"
 chapter: 211
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "34 U.S.C. § 21112"
-generated_at: "2026-03-30T07:04:59.526Z"
+generated_at: "2026-03-30T07:06:39.494Z"
 status: "active"
 ---
 

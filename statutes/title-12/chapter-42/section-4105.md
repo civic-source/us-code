@@ -3,9 +3,9 @@ title: "Section 4105 - Federal cost limits and limitations on plans of action"
 usc_title: 12
 usc_section: "4105"
 chapter: 42
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 4105"
-generated_at: "2026-03-30T07:04:15.177Z"
+generated_at: "2026-03-30T07:06:01.080Z"
 status: "active"
 ---
 

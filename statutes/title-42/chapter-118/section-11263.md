@@ -3,9 +3,9 @@ title: "Section 11263 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11263"
 chapter: 118
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 11263"
-generated_at: "2026-03-30T07:05:21.908Z"
+generated_at: "2026-03-30T07:07:06.750Z"
 status: "active"
 ---
 

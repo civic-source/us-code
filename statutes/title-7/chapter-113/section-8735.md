@@ -3,9 +3,9 @@ title: "Section 8735 - Loan deficiency payments"
 usc_title: 7
 usc_section: "8735"
 chapter: 113
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "7 U.S.C. § 8735"
-generated_at: "2026-03-30T07:03:40.632Z"
+generated_at: "2026-03-30T07:05:50.891Z"
 status: "active"
 ---
 

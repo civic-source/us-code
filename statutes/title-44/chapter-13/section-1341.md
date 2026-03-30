@@ -3,9 +3,9 @@ title: "Section 1341 - Smithsonian Institution: report"
 usc_title: 44
 usc_section: "1341"
 chapter: 13
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "44 U.S.C. § 1341"
-generated_at: "2026-03-30T07:05:08.550Z"
+generated_at: "2026-03-30T07:06:48.322Z"
 status: "active"
 ---
 

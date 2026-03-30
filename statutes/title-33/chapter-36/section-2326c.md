@@ -3,9 +3,9 @@ title: "Section 2326c - Reservoir sediment"
 usc_title: 33
 usc_section: "2326c"
 chapter: 36
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "33 U.S.C. § 2326c"
-generated_at: "2026-03-30T07:05:00.890Z"
+generated_at: "2026-03-30T07:06:40.434Z"
 status: "active"
 ---
 

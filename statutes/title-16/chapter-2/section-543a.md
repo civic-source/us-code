@@ -3,9 +3,9 @@ title: "Section 543a - Extension of National Forest boundary"
 usc_title: 16
 usc_section: "543a"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 543a"
-generated_at: "2026-03-30T07:04:22.290Z"
+generated_at: "2026-03-30T07:06:11.365Z"
 status: "active"
 ---
 

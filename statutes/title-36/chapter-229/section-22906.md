@@ -3,9 +3,9 @@ title: "Section 22906 - Powers"
 usc_title: 36
 usc_section: "22906"
 chapter: 229
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "36 U.S.C. § 22906"
-generated_at: "2026-03-30T07:05:06.707Z"
+generated_at: "2026-03-30T07:06:42.594Z"
 status: "active"
 ---
 

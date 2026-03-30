@@ -3,9 +3,9 @@ title: "Section 632 - Repealed. Pub. L. 94–455, title XIX , § 1901(a)(90), Oc
 usc_title: 26
 usc_section: "632"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 632"
-generated_at: "2026-03-30T07:04:56.749Z"
+generated_at: "2026-03-30T07:06:35.576Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2837 - Repealed. Pub. L. 113–66, div. B, title XXVIII , § 280
 usc_title: 10
 usc_section: "2837"
 chapter: 169
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 2837"
-generated_at: "2026-03-30T07:03:43.807Z"
+generated_at: "2026-03-30T07:05:55.670Z"
 status: "repealed"
 ---
 

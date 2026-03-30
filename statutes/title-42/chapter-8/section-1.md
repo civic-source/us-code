@@ -3,9 +3,9 @@ title: "Section 1 - Flexible grant program"
 usc_title: 42
 usc_section: "1"
 chapter: 8
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T07:05:21.659Z"
+generated_at: "2026-03-30T07:07:06.486Z"
 status: "active"
 ---
 

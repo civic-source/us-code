@@ -3,9 +3,9 @@ title: "Section 20702 - Establishment of grant program to develop, expand, and s
 usc_title: 34
 usc_section: "20702"
 chapter: 207
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "34 U.S.C. § 20702"
-generated_at: "2026-03-30T07:04:59.523Z"
+generated_at: "2026-03-30T07:06:39.490Z"
 status: "active"
 ---
 

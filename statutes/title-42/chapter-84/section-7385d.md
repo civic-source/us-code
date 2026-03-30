@@ -3,9 +3,9 @@ title: "Section 7385d - Election of remedy for beryllium employees and atomic we
 usc_title: 42
 usc_section: "7385d"
 chapter: 84
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 7385d"
-generated_at: "2026-03-30T07:05:21.821Z"
+generated_at: "2026-03-30T07:07:06.660Z"
 status: "active"
 ---
 

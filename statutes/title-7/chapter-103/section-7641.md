@@ -3,9 +3,9 @@ title: "Section 7641 - Patent Culture Collection fees"
 usc_title: 7
 usc_section: "7641"
 chapter: 103
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "7 U.S.C. § 7641"
-generated_at: "2026-03-30T07:03:40.618Z"
+generated_at: "2026-03-30T07:05:50.876Z"
 status: "active"
 ---
 

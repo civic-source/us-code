@@ -3,9 +3,9 @@ title: "Section 7506 - Annual report"
 usc_title: 16
 usc_section: "7506"
 chapter: 94
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 7506"
-generated_at: "2026-03-30T07:04:22.417Z"
+generated_at: "2026-03-30T07:06:11.490Z"
 status: "active"
 ---
 

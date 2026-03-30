@@ -3,9 +3,9 @@ title: "Section 3016 - Annual meetings; notice, agenda, etc."
 usc_title: 12
 usc_section: "3016"
 chapter: 31
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 3016"
-generated_at: "2026-03-30T07:04:15.168Z"
+generated_at: "2026-03-30T07:06:01.070Z"
 status: "active"
 ---
 

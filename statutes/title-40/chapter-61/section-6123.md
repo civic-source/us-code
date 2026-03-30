@@ -3,9 +3,9 @@ title: "Section 6123 - Authority of Metropolitan Police of the District of Colum
 usc_title: 40
 usc_section: "6123"
 chapter: 61
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "40 U.S.C. § 6123"
-generated_at: "2026-03-30T07:05:03.722Z"
+generated_at: "2026-03-30T07:06:43.443Z"
 status: "active"
 ---
 

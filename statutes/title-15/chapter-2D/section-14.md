@@ -3,9 +3,9 @@ title: "Section 14 - Jurisdiction of offenses and suits"
 usc_title: 15
 usc_section: "14"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 14"
-generated_at: "2026-03-30T07:03:49.219Z"
+generated_at: "2026-03-30T07:06:02.902Z"
 status: "active"
 ---
 

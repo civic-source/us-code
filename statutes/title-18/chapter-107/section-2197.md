@@ -3,9 +3,9 @@ title: "Section 2197 - Misuse of Federal certificate, license or document"
 usc_title: 18
 usc_section: "2197"
 chapter: 107
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "18 U.S.C. § 2197"
-generated_at: "2026-03-30T07:04:31.727Z"
+generated_at: "2026-03-30T07:06:08.130Z"
 status: "active"
 ---
 

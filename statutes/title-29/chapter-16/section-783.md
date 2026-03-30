@@ -3,9 +3,9 @@ title: "Section 783 - Staff of National Council"
 usc_title: 29
 usc_section: "783"
 chapter: 16
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "29 U.S.C. § 783"
-generated_at: "2026-03-30T07:04:44.527Z"
+generated_at: "2026-03-30T07:06:30.350Z"
 status: "active"
 ---
 

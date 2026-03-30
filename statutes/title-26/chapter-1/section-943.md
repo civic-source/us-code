@@ -3,9 +3,9 @@ title: "Section 943 - Repealed. Pub. L. 108–357, title I , § 101(b)(1), Oct. 
 usc_title: 26
 usc_section: "943"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 943"
-generated_at: "2026-03-30T07:04:56.772Z"
+generated_at: "2026-03-30T07:06:35.598Z"
 status: "repealed"
 ---
 

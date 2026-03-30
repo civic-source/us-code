@@ -3,9 +3,9 @@ title: "Section 1861 - Access to certain business records for foreign intelligen
 usc_title: 50
 usc_section: "1861"
 chapter: 36
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "50 U.S.C. § 1861"
-generated_at: "2026-03-30T07:05:26.710Z"
+generated_at: "2026-03-30T07:07:12.600Z"
 status: "active"
 ---
 
@@ -50,6 +50,7 @@ status: "active"
         - **(I)** adopt minimization procedures that require the prompt destruction of all call detail records produced under the order that the Government determines are not foreign intelligence information; and
         - **(II)** destroy all call detail records produced under the order as prescribed by such procedures.
   - **(3)** No order issued under this subsection may authorize the collection of tangible things without the use of a specific selection term that meets the requirements of subsection (b)(2).
+  - **(4)** A denial of the application made under this subsection may be reviewed as provided in section 1803 of this title .
 - **(d)**
   - **(1)** No person shall disclose to any other person that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order issued or an emergency production required under this section, other than to—
     - **(A)** those persons to whom disclosure is necessary to comply with such order or such emergency production;

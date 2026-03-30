@@ -3,9 +3,9 @@ title: "Section 360fff - Definitions"
 usc_title: 21
 usc_section: "360fff"
 chapter: 9
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "21 U.S.C. § 360fff"
-generated_at: "2026-03-30T07:04:41.322Z"
+generated_at: "2026-03-30T07:06:24.172Z"
 status: "active"
 ---
 

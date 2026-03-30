@@ -3,9 +3,9 @@ title: "Section 443 - Returns for a period of less than 12 months"
 usc_title: 26
 usc_section: "443"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 443"
-generated_at: "2026-03-30T07:04:56.732Z"
+generated_at: "2026-03-30T07:06:35.559Z"
 status: "active"
 ---
 

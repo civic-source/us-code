@@ -3,9 +3,9 @@ title: "Section 10106 - Quarterly report on vacancy rate in employee positions"
 usc_title: 5
 usc_section: "10106"
 chapter: 101
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "5 U.S.C. § 10106"
-generated_at: "2026-03-30T07:03:32.356Z"
+generated_at: "2026-03-30T07:05:45.676Z"
 status: "active"
 ---
 

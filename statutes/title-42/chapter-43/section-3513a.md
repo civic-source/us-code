@@ -3,9 +3,9 @@ title: "Section 3513a - Working capital fund; availability for centralized perso
 usc_title: 42
 usc_section: "3513a"
 chapter: 43
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 3513a"
-generated_at: "2026-03-30T07:05:21.736Z"
+generated_at: "2026-03-30T07:07:06.569Z"
 status: "active"
 ---
 

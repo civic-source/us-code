@@ -3,9 +3,9 @@ title: "Section 48D - Qualifying therapeutic discovery project credit"
 usc_title: 26
 usc_section: "48D"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 48D"
-generated_at: "2026-03-30T07:04:56.664Z"
+generated_at: "2026-03-30T07:06:35.494Z"
 status: "active"
 ---
 

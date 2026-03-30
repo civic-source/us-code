@@ -3,9 +3,9 @@ title: "Section 17 - Tenth replenishment"
 usc_title: 22
 usc_section: "17"
 chapter: 7
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 17"
-generated_at: "2026-03-30T07:04:37.897Z"
+generated_at: "2026-03-30T07:06:26.329Z"
 status: "active"
 ---
 

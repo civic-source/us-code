@@ -3,9 +3,9 @@ title: "Section 9276 - Repealed. Pub. L. 113–128, title V , § 511(a), July 22
 usc_title: 20
 usc_section: "9276"
 chapter: 73
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "20 U.S.C. § 9276"
-generated_at: "2026-03-30T07:04:27.843Z"
+generated_at: "2026-03-30T07:06:20.036Z"
 status: "repealed"
 ---
 

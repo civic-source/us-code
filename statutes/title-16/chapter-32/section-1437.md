@@ -3,9 +3,9 @@ title: "Section 1437 - Enforcement"
 usc_title: 16
 usc_section: "1437"
 chapter: 32
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 1437"
-generated_at: "2026-03-30T07:04:22.357Z"
+generated_at: "2026-03-30T07:06:11.429Z"
 status: "active"
 ---
 

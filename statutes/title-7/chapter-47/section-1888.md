@@ -3,9 +3,9 @@ title: "Section 1888 - Repealed. Pub. L. 91–648, title IV , § 403, Jan. 5, 19
 usc_title: 7
 usc_section: "1888"
 chapter: 47
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "7 U.S.C. § 1888"
-generated_at: "2026-03-30T07:03:40.538Z"
+generated_at: "2026-03-30T07:05:50.795Z"
 status: "repealed"
 ---
 

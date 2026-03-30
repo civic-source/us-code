@@ -3,9 +3,9 @@ title: "Section 701 - Administrative"
 usc_title: 40
 usc_section: "701"
 chapter: 7
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "40 U.S.C. § 701"
-generated_at: "2026-03-30T07:05:03.718Z"
+generated_at: "2026-03-30T07:06:43.439Z"
 status: "active"
 ---
 

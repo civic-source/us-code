@@ -3,9 +3,9 @@ title: "Section 212 - Omitted"
 usc_title: 27
 usc_section: "212"
 chapter: 8
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "27 U.S.C. § 212"
-generated_at: "2026-03-30T07:04:42.928Z"
+generated_at: "2026-03-30T07:06:28.018Z"
 status: "omitted"
 ---
 

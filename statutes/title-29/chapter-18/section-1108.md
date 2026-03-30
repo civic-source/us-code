@@ -3,9 +3,9 @@ title: "Section 1108 - Exemptions from prohibited transactions"
 usc_title: 29
 usc_section: "1108"
 chapter: 18
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "29 U.S.C. § 1108"
-generated_at: "2026-03-30T07:04:44.543Z"
+generated_at: "2026-03-30T07:06:30.368Z"
 status: "active"
 ---
 

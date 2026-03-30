@@ -3,9 +3,9 @@ title: "Section 70d - Records"
 usc_title: 15
 usc_section: "70d"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 70d"
-generated_at: "2026-03-30T07:03:49.177Z"
+generated_at: "2026-03-30T07:06:02.860Z"
 status: "active"
 ---
 

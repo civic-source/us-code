@@ -3,9 +3,9 @@ title: "Section 415a - Lease of lands of deceased Indians for benefit of heirs o
 usc_title: 25
 usc_section: "415a"
 chapter: 12
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "25 U.S.C. § 415a"
-generated_at: "2026-03-30T07:04:34.888Z"
+generated_at: "2026-03-30T07:06:23.000Z"
 status: "active"
 ---
 

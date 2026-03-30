@@ -3,9 +3,9 @@ title: "Section 136 - Under Secretary of Defense for Personnel and Readiness"
 usc_title: 10
 usc_section: "136"
 chapter: 4
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 136"
-generated_at: "2026-03-30T07:03:43.709Z"
+generated_at: "2026-03-30T07:05:55.563Z"
 status: "active"
 ---
 

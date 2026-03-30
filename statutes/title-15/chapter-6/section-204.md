@@ -3,9 +3,9 @@ title: "Section 204 - Metric system authorized"
 usc_title: 15
 usc_section: "204"
 chapter: 6
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 204"
-generated_at: "2026-03-30T07:03:49.220Z"
+generated_at: "2026-03-30T07:06:02.903Z"
 status: "active"
 ---
 

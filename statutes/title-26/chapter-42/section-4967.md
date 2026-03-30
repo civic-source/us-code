@@ -3,9 +3,9 @@ title: "Section 4967 - Taxes on prohibited benefits"
 usc_title: 26
 usc_section: "4967"
 chapter: 42
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 4967"
-generated_at: "2026-03-30T07:04:56.830Z"
+generated_at: "2026-03-30T07:06:35.653Z"
 status: "active"
 ---
 

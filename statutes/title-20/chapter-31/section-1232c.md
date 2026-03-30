@@ -3,9 +3,9 @@ title: "Section 1232c - State agency monitoring and enforcement"
 usc_title: 20
 usc_section: "1232c"
 chapter: 31
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "20 U.S.C. § 1232c"
-generated_at: "2026-03-30T07:04:27.780Z"
+generated_at: "2026-03-30T07:06:19.975Z"
 status: "active"
 ---
 

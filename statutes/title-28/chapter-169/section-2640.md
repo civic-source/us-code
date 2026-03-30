@@ -3,9 +3,9 @@ title: "Section 2640 - Scope and standard of review"
 usc_title: 28
 usc_section: "2640"
 chapter: 169
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "28 U.S.C. § 2640"
-generated_at: "2026-03-30T07:04:51.529Z"
+generated_at: "2026-03-30T07:06:29.142Z"
 status: "active"
 ---
 

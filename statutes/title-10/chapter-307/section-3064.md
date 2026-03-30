@@ -3,9 +3,9 @@ title: "Section 3064 - Special branches"
 usc_title: 10
 usc_section: "3064"
 chapter: 307
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 3064"
-generated_at: "2026-03-30T07:03:43.811Z"
+generated_at: "2026-03-30T07:05:55.674Z"
 status: "active"
 ---
 

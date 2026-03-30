@@ -3,9 +3,9 @@ title: "Section 273a - Acquisition of property; authority of Secretary; State pr
 usc_title: 16
 usc_section: "273a"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 273a"
-generated_at: "2026-03-30T07:04:22.214Z"
+generated_at: "2026-03-30T07:06:11.289Z"
 status: "active"
 ---
 

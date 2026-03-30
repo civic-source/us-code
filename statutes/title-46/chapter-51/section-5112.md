@@ -3,9 +3,9 @@ title: "Section 5112 - Loading restrictions"
 usc_title: 46
 usc_section: "5112"
 chapter: 51
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "46 U.S.C. § 5112"
-generated_at: "2026-03-30T07:05:24.829Z"
+generated_at: "2026-03-30T07:07:11.098Z"
 status: "active"
 ---
 

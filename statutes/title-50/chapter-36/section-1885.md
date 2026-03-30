@@ -3,9 +3,9 @@ title: "Section 1885 - Definitions"
 usc_title: 50
 usc_section: "1885"
 chapter: 36
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "50 U.S.C. § 1885"
-generated_at: "2026-03-30T07:05:26.712Z"
+generated_at: "2026-03-30T07:07:12.602Z"
 status: "active"
 ---
 
@@ -35,5 +35,5 @@ In this subchapter:
     - **(B)** a landlord, custodian, or other person who may be authorized or required to furnish assistance pursuant to—
       - **(i)** an order of the court established under section 1803(a) of this title directing such assistance;
       - **(ii)** a certification in writing under section 2511(2)(a)(ii)(B) or 2709(b) of title 18; or
-      - **(iii)** a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 ( Public Law 110–55 ), or 1881a(h) of this title.
+      - **(iii)** a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 ( Public Law 110–55 ), or 1881a(i) of this title.
   - **(9)** The term “State” means any State, political subdivision of a State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States, and includes any officer, public utility commission, or other body authorized to regulate an electronic communication service provider.

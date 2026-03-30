@@ -3,9 +3,9 @@ title: "Section 1201 - Repealed. Pub. L. 115–97, title I , § 13001(b)(2)(A), 
 usc_title: 26
 usc_section: "1201"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 1201"
-generated_at: "2026-03-30T07:04:56.781Z"
+generated_at: "2026-03-30T07:06:35.608Z"
 status: "repealed"
 ---
 

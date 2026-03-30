@@ -3,9 +3,9 @@ title: "Section 3331 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "3331"
 chapter: 41
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 3331"
-generated_at: "2026-03-30T07:05:21.735Z"
+generated_at: "2026-03-30T07:07:06.567Z"
 status: "active"
 ---
 

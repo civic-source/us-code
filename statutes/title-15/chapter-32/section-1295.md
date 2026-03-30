@@ -3,9 +3,9 @@ title: "Section 1295 - “Persons” defined"
 usc_title: 15
 usc_section: "1295"
 chapter: 32
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 1295"
-generated_at: "2026-03-30T07:03:49.270Z"
+generated_at: "2026-03-30T07:06:02.956Z"
 status: "active"
 ---
 

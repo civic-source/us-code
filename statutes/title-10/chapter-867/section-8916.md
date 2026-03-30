@@ -3,9 +3,9 @@ title: "Section 8916 - Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12
 usc_title: 10
 usc_section: "8916"
 chapter: 867
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 8916"
-generated_at: "2026-03-30T07:03:43.833Z"
+generated_at: "2026-03-30T07:05:55.698Z"
 status: "repealed"
 ---
 

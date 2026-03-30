@@ -3,9 +3,9 @@ title: "Section 1532 - Telecommunications; electromagnetic radiation; research, 
 usc_title: 15
 usc_section: "1532"
 chapter: 40
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 1532"
-generated_at: "2026-03-30T07:03:49.274Z"
+generated_at: "2026-03-30T07:06:02.960Z"
 status: "active"
 ---
 

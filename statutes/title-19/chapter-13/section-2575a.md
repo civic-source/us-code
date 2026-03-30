@@ -3,9 +3,9 @@ title: "Section 2575a - Inquiry point"
 usc_title: 19
 usc_section: "2575a"
 chapter: 13
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "19 U.S.C. § 2575a"
-generated_at: "2026-03-30T07:04:19.073Z"
+generated_at: "2026-03-30T07:06:06.847Z"
 status: "active"
 ---
 

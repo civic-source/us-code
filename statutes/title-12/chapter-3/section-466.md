@@ -3,9 +3,9 @@ title: "Section 466 - Reserves of banks in dependencies or insular possessions"
 usc_title: 12
 usc_section: "466"
 chapter: 3
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 466"
-generated_at: "2026-03-30T07:04:15.075Z"
+generated_at: "2026-03-30T07:06:00.973Z"
 status: "active"
 ---
 

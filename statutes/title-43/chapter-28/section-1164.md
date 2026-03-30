@@ -3,9 +3,9 @@ title: "Section 1164 - Transferred"
 usc_title: 43
 usc_section: "1164"
 chapter: 28
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "43 U.S.C. § 1164"
-generated_at: "2026-03-30T07:05:11.410Z"
+generated_at: "2026-03-30T07:06:48.862Z"
 status: "transferred"
 ---
 

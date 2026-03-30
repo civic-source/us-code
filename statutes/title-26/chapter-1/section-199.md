@@ -3,9 +3,9 @@ title: "Section 199 - Repealed. Pub. L. 115–97, title I , § 13305(a), Dec. 22
 usc_title: 26
 usc_section: "199"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 199"
-generated_at: "2026-03-30T07:04:56.694Z"
+generated_at: "2026-03-30T07:06:35.523Z"
 status: "repealed"
 ---
 

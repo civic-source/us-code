@@ -3,9 +3,9 @@ title: "Section 1020 - Highway projects"
 usc_title: 18
 usc_section: "1020"
 chapter: 47
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "18 U.S.C. § 1020"
-generated_at: "2026-03-30T07:04:31.713Z"
+generated_at: "2026-03-30T07:06:08.117Z"
 status: "active"
 ---
 

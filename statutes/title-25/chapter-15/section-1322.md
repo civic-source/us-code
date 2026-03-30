@@ -3,9 +3,9 @@ title: "Section 1322 - Assumption by State of civil jurisdiction"
 usc_title: 25
 usc_section: "1322"
 chapter: 15
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "25 U.S.C. § 1322"
-generated_at: "2026-03-30T07:04:34.894Z"
+generated_at: "2026-03-30T07:06:23.005Z"
 status: "active"
 ---
 

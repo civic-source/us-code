@@ -3,9 +3,9 @@ title: "Section 9592 - Radiograms and telegrams: forwarding charges due connecti
 usc_title: 10
 usc_section: "9592"
 chapter: 937
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 9592"
-generated_at: "2026-03-30T07:03:43.836Z"
+generated_at: "2026-03-30T07:05:55.701Z"
 status: "active"
 ---
 

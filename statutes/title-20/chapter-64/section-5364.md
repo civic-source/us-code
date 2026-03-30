@@ -3,9 +3,9 @@ title: "Section 5364 - Repealed. Pub. L. 103–382, title III , § 391(l), Oct. 
 usc_title: 20
 usc_section: "5364"
 chapter: 64
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "20 U.S.C. § 5364"
-generated_at: "2026-03-30T07:04:27.808Z"
+generated_at: "2026-03-30T07:06:20.002Z"
 status: "repealed"
 ---
 

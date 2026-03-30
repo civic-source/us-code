@@ -3,9 +3,9 @@ title: "Section 1447 - Price support levels for other nonbasic agricultural comm
 usc_title: 7
 usc_section: "1447"
 chapter: 35
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "7 U.S.C. § 1447"
-generated_at: "2026-03-30T07:03:40.520Z"
+generated_at: "2026-03-30T07:05:50.776Z"
 status: "active"
 ---
 

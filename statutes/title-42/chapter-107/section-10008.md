@@ -3,9 +3,9 @@ title: "Section 10008 - Applicability to Federal agencies"
 usc_title: 42
 usc_section: "10008"
 chapter: 107
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 10008"
-generated_at: "2026-03-30T07:05:21.893Z"
+generated_at: "2026-03-30T07:07:06.736Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 390 - Utilization of dams and reservoir projects for irrigation 
 usc_title: 43
 usc_section: "390"
 chapter: 12
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "43 U.S.C. § 390"
-generated_at: "2026-03-30T07:05:11.390Z"
+generated_at: "2026-03-30T07:06:48.841Z"
 status: "active"
 ---
 

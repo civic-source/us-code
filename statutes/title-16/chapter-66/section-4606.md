@@ -3,9 +3,9 @@ title: "Section 4606 - Distribution of appropriate items"
 usc_title: 16
 usc_section: "4606"
 chapter: 66
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 4606"
-generated_at: "2026-03-30T07:04:22.401Z"
+generated_at: "2026-03-30T07:06:11.474Z"
 status: "active"
 ---
 

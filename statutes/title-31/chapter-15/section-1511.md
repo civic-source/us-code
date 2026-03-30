@@ -3,9 +3,9 @@ title: "Section 1511 - Definition and application"
 usc_title: 31
 usc_section: "1511"
 chapter: 15
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "31 U.S.C. § 1511"
-generated_at: "2026-03-30T07:05:00.077Z"
+generated_at: "2026-03-30T07:06:38.940Z"
 status: "active"
 ---
 

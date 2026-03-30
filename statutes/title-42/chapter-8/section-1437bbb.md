@@ -3,9 +3,9 @@ title: "Section 1437bbb - Purpose"
 usc_title: 42
 usc_section: "1437bbb"
 chapter: 8
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 1437bbb"
-generated_at: "2026-03-30T07:05:21.659Z"
+generated_at: "2026-03-30T07:07:06.486Z"
 status: "active"
 ---
 

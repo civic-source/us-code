@@ -3,9 +3,9 @@ title: "Section 900 - Art. 100. Subordinate compelling surrender"
 usc_title: 10
 usc_section: "900"
 chapter: 47
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 900"
-generated_at: "2026-03-30T07:03:43.733Z"
+generated_at: "2026-03-30T07:05:55.588Z"
 status: "active"
 ---
 

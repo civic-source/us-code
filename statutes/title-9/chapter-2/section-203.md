@@ -3,9 +3,9 @@ title: "Section 203 - Jurisdiction; amount in controversy"
 usc_title: 9
 usc_section: "203"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "9 U.S.C. § 203"
-generated_at: "2026-03-30T07:03:33.704Z"
+generated_at: "2026-03-30T07:05:47.032Z"
 status: "active"
 ---
 

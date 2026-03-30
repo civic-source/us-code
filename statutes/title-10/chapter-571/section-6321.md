@@ -3,9 +3,9 @@ title: "Section 6321 - Officers: 40 years"
 usc_title: 10
 usc_section: "6321"
 chapter: 571
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 6321"
-generated_at: "2026-03-30T07:03:43.822Z"
+generated_at: "2026-03-30T07:05:55.686Z"
 status: "active"
 ---
 

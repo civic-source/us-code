@@ -3,9 +3,9 @@ title: "Section 661 - Within special maritime and territorial jurisdiction"
 usc_title: 18
 usc_section: "661"
 chapter: 31
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "18 U.S.C. § 661"
-generated_at: "2026-03-30T07:04:31.704Z"
+generated_at: "2026-03-30T07:06:08.108Z"
 status: "active"
 ---
 

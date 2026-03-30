@@ -3,9 +3,9 @@ title: "Section 1666h - Offset of cardholder’s indebtedness by issuer of credi
 usc_title: 15
 usc_section: "1666h"
 chapter: 41
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 1666h"
-generated_at: "2026-03-30T07:03:49.283Z"
+generated_at: "2026-03-30T07:06:02.969Z"
 status: "active"
 ---
 

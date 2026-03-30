@@ -3,9 +3,9 @@ title: "Section 4832 - Accountability Review Board"
 usc_title: 22
 usc_section: "4832"
 chapter: 58
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 4832"
-generated_at: "2026-03-30T07:04:37.976Z"
+generated_at: "2026-03-30T07:06:26.406Z"
 status: "active"
 ---
 

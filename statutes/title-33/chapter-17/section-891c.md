@@ -3,9 +3,9 @@ title: "Section 891c - Design of NOAA vessels"
 usc_title: 33
 usc_section: "891c"
 chapter: 17
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "33 U.S.C. § 891c"
-generated_at: "2026-03-30T07:05:00.854Z"
+generated_at: "2026-03-30T07:06:40.394Z"
 status: "active"
 ---
 

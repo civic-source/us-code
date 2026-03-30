@@ -3,9 +3,9 @@ title: "Section 496 - Relation to the National Security Council"
 usc_title: 6
 usc_section: "496"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "6 U.S.C. § 496"
-generated_at: "2026-03-30T07:03:35.274Z"
+generated_at: "2026-03-30T07:05:47.620Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11313 - Grants for delinquency prevention programs"
 usc_title: 34
 usc_section: "11313"
 chapter: 111
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "34 U.S.C. § 11313"
-generated_at: "2026-03-30T07:04:59.510Z"
+generated_at: "2026-03-30T07:06:39.477Z"
 status: "active"
 ---
 

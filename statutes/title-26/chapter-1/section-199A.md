@@ -3,9 +3,9 @@ title: "Section 199A - Qualified business income"
 usc_title: 26
 usc_section: "199A"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 199A"
-generated_at: "2026-03-30T07:04:56.694Z"
+generated_at: "2026-03-30T07:06:35.523Z"
 status: "active"
 ---
 
@@ -103,7 +103,7 @@ status: "active"
       - **(i)** an organization or corporation described in section 501(c)(12) or 1381(a), or
       - **(ii)** an organization which is governed under this title by the rules applicable to cooperatives under this title before the enactment of subchapter T.
   - **(5)** The term “qualified publicly traded partnership income” means, with respect to any qualified trade or business of a taxpayer, the sum of—
-    - **(A)** the net amount of such taxpayer’s allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publicly traded partnership (as defined in section 7704(a) 1 1 So in original. Probably should be “7704(b)”. ) which is not treated as a corporation under section 7704(c), plus
+    - **(A)** the net amount of such taxpayer’s allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publicly traded partnership (as defined in section 7704(a)) 1 1 So in original. Probably should be “7704(b))”. which is not treated as a corporation under section 7704(c), plus
     - **(B)** any gain recognized by such taxpayer upon disposition of its interest in such partnership to the extent such gain is treated as an amount realized from the sale or exchange of property other than a capital asset under section 751(a).
 - **(f)**
   - **(1)**

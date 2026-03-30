@@ -3,9 +3,9 @@ title: "Section 1874 - Public reporting by persons subject to orders"
 usc_title: 50
 usc_section: "1874"
 chapter: 36
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "50 U.S.C. § 1874"
-generated_at: "2026-03-30T07:05:26.711Z"
+generated_at: "2026-03-30T07:07:12.601Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
     - **(A)** the number of national security letters received, reported in bands of 1000 starting with 0–999;
     - **(B)** the number of customer selectors targeted by national security letters, reported in bands of 1000 starting with 0–999;
     - **(C)** the number of orders or directives received, combined, under this chapter for contents, reported in bands of 1000 starting with 0–999;
-    - **(D)** the number of customer selectors targeted under orders or directives received, combined, under this chapter for contents 1 1 So in original. Probably should be followed by a comma. reported in bands of 1000 starting with 0–999;
+    - **(D)** the number of customer selectors targeted under orders or directives received, combined, under this chapter for contents, reported in bands of 1000 starting with 0–999;
     - **(E)** the number of orders received under this chapter for noncontents, reported in bands of 1000 starting with 0–999; and
     - **(F)** the number of customer selectors targeted under orders under this chapter for noncontents, reported in bands of 1000 starting with 0–999, pursuant to—
       - **(i)** subchapter III;
@@ -29,7 +29,7 @@ status: "active"
     - **(D)** the number of customer selectors targeted under orders or directives received, combined, under this chapter for contents, reported in bands of 500 starting with 0–499;
     - **(E)** the number of orders received under this chapter for noncontents, reported in bands of 500 starting with 0–499; and
     - **(F)** the number of customer selectors targeted under orders received under this chapter for noncontents, reported in bands of 500 starting with 0–499.
-  - **(3)** A semiannual report that aggregates the number of orders, directives, or national security letters with which the person was required to comply in the 2 2 So in original. into separate categories of—
+  - **(3)** A semiannual report that aggregates the number of orders, directives, or national security letters with which the person was required to comply into separate categories of—
     - **(A)** the total number of all national security process received, including all national security letters, and orders or directives under this chapter, combined, reported in bands of 250 starting with 0–249; and
     - **(B)** the total number of customer selectors targeted under all national security process received, including all national security letters, and orders or directives under this chapter, combined, reported in bands of 250 starting with 0–249.
   - **(4)** An annual report that aggregates the number of orders, directives, and national security letters the person was required to comply with into separate categories of—

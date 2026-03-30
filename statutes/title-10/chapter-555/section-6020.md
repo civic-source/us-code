@@ -3,9 +3,9 @@ title: "Section 6020 - Repealed. Pub. L. 87–123 , § 5(23), Aug. 3, 1961 , 75 
 usc_title: 10
 usc_section: "6020"
 chapter: 555
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 6020"
-generated_at: "2026-03-30T07:03:43.821Z"
+generated_at: "2026-03-30T07:05:55.684Z"
 status: "repealed"
 ---
 

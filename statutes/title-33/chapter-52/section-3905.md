@@ -3,9 +3,9 @@ title: "Section 3905 - Projects eligible for assistance"
 usc_title: 33
 usc_section: "3905"
 chapter: 52
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "33 U.S.C. § 3905"
-generated_at: "2026-03-30T07:05:00.905Z"
+generated_at: "2026-03-30T07:06:40.449Z"
 status: "active"
 ---
 

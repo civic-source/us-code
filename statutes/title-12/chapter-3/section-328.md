@@ -3,9 +3,9 @@ title: "Section 328 - Withdrawals from membership"
 usc_title: 12
 usc_section: "328"
 chapter: 3
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 328"
-generated_at: "2026-03-30T07:04:15.070Z"
+generated_at: "2026-03-30T07:06:00.969Z"
 status: "active"
 ---
 

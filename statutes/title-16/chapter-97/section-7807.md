@@ -3,9 +3,9 @@ title: "Section 7807 - Cooperation in carrying out the Convention"
 usc_title: 16
 usc_section: "7807"
 chapter: 97
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 7807"
-generated_at: "2026-03-30T07:04:22.418Z"
+generated_at: "2026-03-30T07:06:11.491Z"
 status: "active"
 ---
 

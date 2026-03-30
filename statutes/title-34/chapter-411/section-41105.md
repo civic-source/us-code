@@ -3,9 +3,9 @@ title: "Section 41105 - Criminal background checks for applicants for employment
 usc_title: 34
 usc_section: "41105"
 chapter: 411
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "34 U.S.C. § 41105"
-generated_at: "2026-03-30T07:04:59.534Z"
+generated_at: "2026-03-30T07:06:39.502Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2692 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2692"
 chapter: 53
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 2692"
-generated_at: "2026-03-30T07:03:49.316Z"
+generated_at: "2026-03-30T07:06:03.002Z"
 status: "active"
 ---
 

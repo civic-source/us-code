@@ -3,9 +3,9 @@ title: "Section 1816 - Repealed. Pub. L. 99–603, title I , § 101(b)(1)(C), No
 usc_title: 29
 usc_section: "1816"
 chapter: 20
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "29 U.S.C. § 1816"
-generated_at: "2026-03-30T07:04:44.558Z"
+generated_at: "2026-03-30T07:06:30.383Z"
 status: "repealed"
 ---
 

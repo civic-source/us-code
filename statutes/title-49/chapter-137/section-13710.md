@@ -3,9 +3,9 @@ title: "Section 13710 - Additional billing and collecting practices"
 usc_title: 49
 usc_section: "13710"
 chapter: 137
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "49 U.S.C. § 13710"
-generated_at: "2026-03-30T07:05:28.436Z"
+generated_at: "2026-03-30T07:07:14.348Z"
 status: "active"
 ---
 

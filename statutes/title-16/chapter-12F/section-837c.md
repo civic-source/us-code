@@ -3,9 +3,9 @@ title: "Section 837c - Contract limitations and conditions for use of electric e
 usc_title: 16
 usc_section: "837c"
 chapter: 12
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 837c"
-generated_at: "2026-03-30T07:04:22.329Z"
+generated_at: "2026-03-30T07:06:11.404Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1715 - Explanation of payments"
 usc_title: 30
 usc_section: "1715"
 chapter: 29
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "30 U.S.C. § 1715"
-generated_at: "2026-03-30T07:04:43.589Z"
+generated_at: "2026-03-30T07:06:36.211Z"
 status: "active"
 ---
 

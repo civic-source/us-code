@@ -3,9 +3,9 @@ title: "Section 8146a - Cost-of-living adjustment of compensation"
 usc_title: 5
 usc_section: "8146a"
 chapter: 81
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "5 U.S.C. § 8146a"
-generated_at: "2026-03-30T07:03:32.335Z"
+generated_at: "2026-03-30T07:05:45.653Z"
 status: "active"
 ---
 

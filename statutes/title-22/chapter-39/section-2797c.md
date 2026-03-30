@@ -3,9 +3,9 @@ title: "Section 2797c - Definitions"
 usc_title: 22
 usc_section: "2797c"
 chapter: 39
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 2797c"
-generated_at: "2026-03-30T07:04:37.953Z"
+generated_at: "2026-03-30T07:06:26.383Z"
 status: "active"
 ---
 

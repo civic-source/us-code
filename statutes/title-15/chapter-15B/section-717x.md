@@ -3,9 +3,9 @@ title: "Section 717x - Conserved natural gas"
 usc_title: 15
 usc_section: "717x"
 chapter: 15
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 717x"
-generated_at: "2026-03-30T07:03:49.257Z"
+generated_at: "2026-03-30T07:06:02.942Z"
 status: "active"
 ---
 

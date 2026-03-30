@@ -3,9 +3,9 @@ title: "Section 713 - Librarians"
 usc_title: 28
 usc_section: "713"
 chapter: 47
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "28 U.S.C. § 713"
-generated_at: "2026-03-30T07:04:51.515Z"
+generated_at: "2026-03-30T07:06:29.127Z"
 status: "active"
 ---
 

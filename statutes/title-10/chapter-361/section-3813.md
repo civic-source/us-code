@@ -3,9 +3,9 @@ title: "Section 3813 - Repealed. Pub. L. 90–235 , § 3(a)(2), (b)(1), Jan. 2, 
 usc_title: 10
 usc_section: "3813"
 chapter: 361
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 3813"
-generated_at: "2026-03-30T07:03:43.813Z"
+generated_at: "2026-03-30T07:05:55.676Z"
 status: "repealed"
 ---
 

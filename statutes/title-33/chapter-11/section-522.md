@@ -3,9 +3,9 @@ title: "Section 522 - Existing provisions of law"
 usc_title: 33
 usc_section: "522"
 chapter: 11
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "33 U.S.C. § 522"
-generated_at: "2026-03-30T07:05:00.842Z"
+generated_at: "2026-03-30T07:06:40.382Z"
 status: "active"
 ---
 

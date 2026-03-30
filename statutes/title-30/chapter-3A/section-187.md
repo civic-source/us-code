@@ -3,9 +3,9 @@ title: "Section 187 - Assignment or subletting of leases; relinquishment of righ
 usc_title: 30
 usc_section: "187"
 chapter: 3
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "30 U.S.C. § 187"
-generated_at: "2026-03-30T07:04:43.560Z"
+generated_at: "2026-03-30T07:06:36.183Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8289 - Repealed. Pub. L. 96–513, title II , § 204, Dec. 12, 1
 usc_title: 10
 usc_section: "8289"
 chapter: 835
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 8289"
-generated_at: "2026-03-30T07:03:43.831Z"
+generated_at: "2026-03-30T07:05:55.696Z"
 status: "repealed"
 ---
 

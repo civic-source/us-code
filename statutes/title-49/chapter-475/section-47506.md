@@ -3,9 +3,9 @@ title: "Section 47506 - Limitations on recovering damages for noise"
 usc_title: 49
 usc_section: "47506"
 chapter: 475
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "49 U.S.C. § 47506"
-generated_at: "2026-03-30T07:05:28.490Z"
+generated_at: "2026-03-30T07:07:14.406Z"
 status: "active"
 ---
 

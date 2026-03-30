@@ -3,9 +3,9 @@ title: "Section 677t - Omitted"
 usc_title: 25
 usc_section: "677t"
 chapter: 14
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "25 U.S.C. § 677t"
-generated_at: "2026-03-30T07:04:34.890Z"
+generated_at: "2026-03-30T07:06:23.002Z"
 status: "omitted"
 ---
 

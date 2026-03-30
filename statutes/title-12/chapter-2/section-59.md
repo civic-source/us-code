@@ -3,9 +3,9 @@ title: "Section 59 - Reduction of capital"
 usc_title: 12
 usc_section: "59"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 59"
-generated_at: "2026-03-30T07:04:15.062Z"
+generated_at: "2026-03-30T07:06:00.963Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12522 - Establishment of insurance program"
 usc_title: 10
 usc_section: "12522"
 chapter: 1214
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 12522"
-generated_at: "2026-03-30T07:03:43.843Z"
+generated_at: "2026-03-30T07:05:55.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2645 - Utility regulatory institute"
 usc_title: 16
 usc_section: "2645"
 chapter: 46
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 2645"
-generated_at: "2026-03-30T07:04:22.380Z"
+generated_at: "2026-03-30T07:06:11.452Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1259 - Constructive sales treatment for appreciated financial po
 usc_title: 26
 usc_section: "1259"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 1259"
-generated_at: "2026-03-30T07:04:56.786Z"
+generated_at: "2026-03-30T07:06:35.612Z"
 status: "active"
 ---
 

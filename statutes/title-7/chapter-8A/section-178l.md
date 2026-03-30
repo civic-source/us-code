@@ -3,9 +3,9 @@ title: "Section 178l - Rules and regulations"
 usc_title: 7
 usc_section: "178l"
 chapter: 8
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "7 U.S.C. § 178l"
-generated_at: "2026-03-30T07:03:40.490Z"
+generated_at: "2026-03-30T07:05:50.745Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7704 - Authorization of assistance"
 usc_title: 22
 usc_section: "7704"
 chapter: 84
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 7704"
-generated_at: "2026-03-30T07:04:38.004Z"
+generated_at: "2026-03-30T07:06:26.435Z"
 status: "active"
 ---
 

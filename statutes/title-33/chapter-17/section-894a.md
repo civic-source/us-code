@@ -3,9 +3,9 @@ title: "Section 894a - Actions to address sexual assault at National Oceanic and
 usc_title: 33
 usc_section: "894a"
 chapter: 17
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "33 U.S.C. § 894a"
-generated_at: "2026-03-30T07:05:00.855Z"
+generated_at: "2026-03-30T07:06:40.395Z"
 status: "active"
 ---
 

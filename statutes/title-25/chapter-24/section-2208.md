@@ -3,9 +3,9 @@ title: "Section 2208 - Conveyancing authority upon sale or exchange of tribal la
 usc_title: 25
 usc_section: "2208"
 chapter: 24
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "25 U.S.C. § 2208"
-generated_at: "2026-03-30T07:04:34.916Z"
+generated_at: "2026-03-30T07:06:23.026Z"
 status: "active"
 ---
 

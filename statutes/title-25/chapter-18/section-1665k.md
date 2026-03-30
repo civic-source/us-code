@@ -3,9 +3,9 @@ title: "Section 1665k - Fetal alcohol spectrum disorders programs"
 usc_title: 25
 usc_section: "1665k"
 chapter: 18
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "25 U.S.C. § 1665k"
-generated_at: "2026-03-30T07:04:34.904Z"
+generated_at: "2026-03-30T07:06:23.014Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10304 - Marine Corps Reserve Policy Board"
 usc_title: 10
 usc_section: "10304"
 chapter: 1009
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 10304"
-generated_at: "2026-03-30T07:03:43.839Z"
+generated_at: "2026-03-30T07:05:55.704Z"
 status: "active"
 ---
 

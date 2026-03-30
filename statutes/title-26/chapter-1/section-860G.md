@@ -3,9 +3,9 @@ title: "Section 860G - Other definitions and special rules"
 usc_title: 26
 usc_section: "860G"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 860G"
-generated_at: "2026-03-30T07:04:56.762Z"
+generated_at: "2026-03-30T07:06:35.589Z"
 status: "active"
 ---
 

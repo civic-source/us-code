@@ -3,9 +3,9 @@ title: "Section 696 - National Key Deer Refuge; establishment; acquisition of pr
 usc_title: 16
 usc_section: "696"
 chapter: 6
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 696"
-generated_at: "2026-03-30T07:04:22.308Z"
+generated_at: "2026-03-30T07:06:11.383Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 475 - Travel and transportation allowances: per diem while on du
 usc_title: 37
 usc_section: "475"
 chapter: 8
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "37 U.S.C. § 475"
-generated_at: "2026-03-30T07:05:02.839Z"
+generated_at: "2026-03-30T07:06:45.757Z"
 status: "active"
 ---
 

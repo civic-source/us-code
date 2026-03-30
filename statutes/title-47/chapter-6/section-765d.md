@@ -3,9 +3,9 @@ title: "Section 765d - Termination of provisions of this chapter"
 usc_title: 47
 usc_section: "765d"
 chapter: 6
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "47 U.S.C. § 765d"
-generated_at: "2026-03-30T07:05:25.761Z"
+generated_at: "2026-03-30T07:07:09.507Z"
 status: "active"
 ---
 

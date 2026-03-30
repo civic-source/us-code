@@ -3,9 +3,9 @@ title: "Section 520a - Repealed. Pub. L. 106–398 , § 1 [[div. A], title X, §
 usc_title: 10
 usc_section: "520a"
 chapter: 31
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 520a"
-generated_at: "2026-03-30T07:03:43.722Z"
+generated_at: "2026-03-30T07:05:55.576Z"
 status: "repealed"
 ---
 

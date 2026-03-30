@@ -3,9 +3,9 @@ title: "Section 5000A - Requirement to maintain minimum essential coverage"
 usc_title: 26
 usc_section: "5000A"
 chapter: 48
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 5000A"
-generated_at: "2026-03-30T07:04:56.835Z"
+generated_at: "2026-03-30T07:06:35.659Z"
 status: "active"
 ---
 
@@ -85,7 +85,7 @@ status: "active"
     - **(A)** Coverage under—
       - **(i)** the Medicare program under part A of title XVIII of the Social Security Act,
       - **(ii)** the Medicaid program under title XIX of the Social Security Act,
-      - **(iii)** the CHIP program under title XXI of the Social Security Act,
+      - **(iii)** the CHIP program under title XXI of the Social Security Act or under a qualified CHIP look-alike program (as defined in section 2107(g) of the Social Security Act),
       - **(iv)** medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; 3 3 So in original. The semicolon probably should be a comma.
       - **(v)** a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary,
       - **(vi)** a health plan under section 2504(e) of title 22 , United States Code (relating to Peace Corps volunteers); 3 or

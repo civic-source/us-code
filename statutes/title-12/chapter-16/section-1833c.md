@@ -3,9 +3,9 @@ title: "Section 1833c - Comptroller General audit and access to records"
 usc_title: 12
 usc_section: "1833c"
 chapter: 16
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 1833c"
-generated_at: "2026-03-30T07:04:15.146Z"
+generated_at: "2026-03-30T07:06:01.047Z"
 status: "active"
 ---
 

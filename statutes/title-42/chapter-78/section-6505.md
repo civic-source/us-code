@@ -3,9 +3,9 @@ title: "Section 6505 - Executive department responsibility for studies to determ
 usc_title: 42
 usc_section: "6505"
 chapter: 78
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 6505"
-generated_at: "2026-03-30T07:05:21.797Z"
+generated_at: "2026-03-30T07:07:06.633Z"
 status: "active"
 ---
 

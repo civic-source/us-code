@@ -3,9 +3,9 @@ title: "Section 1790a - Board disapproval of directors, committee members, and s
 usc_title: 12
 usc_section: "1790a"
 chapter: 14
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 1790a"
-generated_at: "2026-03-30T07:04:15.127Z"
+generated_at: "2026-03-30T07:06:01.026Z"
 status: "active"
 ---
 

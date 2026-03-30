@@ -3,9 +3,9 @@ title: "Section 1795f - Powers of Board"
 usc_title: 12
 usc_section: "1795f"
 chapter: 14
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 1795f"
-generated_at: "2026-03-30T07:04:15.128Z"
+generated_at: "2026-03-30T07:06:01.027Z"
 status: "active"
 ---
 

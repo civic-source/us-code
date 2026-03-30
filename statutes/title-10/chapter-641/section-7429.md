@@ -3,9 +3,9 @@ title: "Section 7429 - Re-lease of certain lands: lessee’s preferential right"
 usc_title: 10
 usc_section: "7429"
 chapter: 641
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 7429"
-generated_at: "2026-03-30T07:03:43.827Z"
+generated_at: "2026-03-30T07:05:55.692Z"
 status: "active"
 ---
 

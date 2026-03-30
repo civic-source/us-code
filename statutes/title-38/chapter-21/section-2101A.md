@@ -3,9 +3,9 @@ title: "Section 2101A - Eligibility for benefits and assistance: members of the 
 usc_title: 38
 usc_section: "2101A"
 chapter: 21
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "38 U.S.C. § 2101A"
-generated_at: "2026-03-30T07:05:05.969Z"
+generated_at: "2026-03-30T07:06:44.666Z"
 status: "active"
 ---
 

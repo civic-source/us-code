@@ -3,9 +3,9 @@ title: "Section 40901 - Establishment"
 usc_title: 34
 usc_section: "40901"
 chapter: 409
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "34 U.S.C. § 40901"
-generated_at: "2026-03-30T07:04:59.532Z"
+generated_at: "2026-03-30T07:06:39.501Z"
 status: "active"
 ---
 

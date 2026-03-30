@@ -3,9 +3,9 @@ title: "Section 1785 - Youth sponsorship program"
 usc_title: 10
 usc_section: "1785"
 chapter: 88
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 1785"
-generated_at: "2026-03-30T07:03:43.766Z"
+generated_at: "2026-03-30T07:05:55.626Z"
 status: "active"
 ---
 

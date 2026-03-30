@@ -3,9 +3,9 @@ title: "Section 389e - Actions taken to be included in report to Congress"
 usc_title: 25
 usc_section: "389e"
 chapter: 11
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "25 U.S.C. § 389e"
-generated_at: "2026-03-30T07:04:34.886Z"
+generated_at: "2026-03-30T07:06:22.997Z"
 status: "active"
 ---
 

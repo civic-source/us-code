@@ -3,9 +3,9 @@ title: "Section 28 - Parliamentary precedents of House of Representatives"
 usc_title: 2
 usc_section: "28"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "2 U.S.C. § 28"
-generated_at: "2026-03-30T07:03:26.265Z"
+generated_at: "2026-03-30T07:05:44.242Z"
 status: "active"
 ---
 

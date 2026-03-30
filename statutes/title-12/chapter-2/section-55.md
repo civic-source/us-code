@@ -3,9 +3,9 @@ title: "Section 55 - Enforcing payment of deficiency in capital stock; assessmen
 usc_title: 12
 usc_section: "55"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 55"
-generated_at: "2026-03-30T07:04:15.062Z"
+generated_at: "2026-03-30T07:06:00.962Z"
 status: "active"
 ---
 

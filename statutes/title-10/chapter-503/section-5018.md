@@ -3,9 +3,9 @@ title: "Section 5018 - Administrative Assistant"
 usc_title: 10
 usc_section: "5018"
 chapter: 503
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 5018"
-generated_at: "2026-03-30T07:03:43.818Z"
+generated_at: "2026-03-30T07:05:55.682Z"
 status: "active"
 ---
 

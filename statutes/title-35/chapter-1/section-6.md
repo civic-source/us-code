@@ -3,9 +3,9 @@ title: "Section 6 - Patent Trial and Appeal Board"
 usc_title: 35
 usc_section: "6"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "35 U.S.C. § 6"
-generated_at: "2026-03-30T07:04:58.686Z"
+generated_at: "2026-03-30T07:06:39.646Z"
 status: "active"
 ---
 

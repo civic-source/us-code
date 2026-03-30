@@ -3,9 +3,9 @@ title: "Section 3101 - Findings"
 usc_title: 25
 usc_section: "3101"
 chapter: 33
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "25 U.S.C. § 3101"
-generated_at: "2026-03-30T07:04:34.924Z"
+generated_at: "2026-03-30T07:06:23.033Z"
 status: "active"
 ---
 

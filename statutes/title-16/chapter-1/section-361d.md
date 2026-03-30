@@ -3,9 +3,9 @@ title: "Section 361d - Additions to park"
 usc_title: 16
 usc_section: "361d"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 361d"
-generated_at: "2026-03-30T07:04:22.216Z"
+generated_at: "2026-03-30T07:06:11.292Z"
 status: "active"
 ---
 

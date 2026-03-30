@@ -3,9 +3,9 @@ title: "Section 376 - Annuities for survivors of certain judicial officials of t
 usc_title: 28
 usc_section: "376"
 chapter: 17
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "28 U.S.C. § 376"
-generated_at: "2026-03-30T07:04:51.504Z"
+generated_at: "2026-03-30T07:06:29.120Z"
 status: "active"
 ---
 

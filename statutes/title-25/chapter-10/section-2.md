@@ -3,9 +3,9 @@ title: "Section 2 - Indian probate judges"
 usc_title: 25
 usc_section: "2"
 chapter: 10
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-30T07:04:34.884Z"
+generated_at: "2026-03-30T07:06:22.997Z"
 status: "active"
 ---
 

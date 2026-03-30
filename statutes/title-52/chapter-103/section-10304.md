@@ -3,9 +3,9 @@ title: "Section 10304 - Alteration of voting qualifications; procedure and appea
 usc_title: 52
 usc_section: "10304"
 chapter: 103
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "52 U.S.C. § 10304"
-generated_at: "2026-03-30T07:05:32.825Z"
+generated_at: "2026-03-30T07:07:16.065Z"
 status: "active"
 ---
 

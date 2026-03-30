@@ -3,9 +3,9 @@ title: "Section 835i - Contracts with State of Washington for maintenance and op
 usc_title: 16
 usc_section: "835i"
 chapter: 12
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 835i"
-generated_at: "2026-03-30T07:04:22.329Z"
+generated_at: "2026-03-30T07:06:11.403Z"
 status: "active"
 ---
 

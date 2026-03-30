@@ -3,9 +3,9 @@ title: "Section 7104 - Prevention of trafficking"
 usc_title: 22
 usc_section: "7104"
 chapter: 78
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 7104"
-generated_at: "2026-03-30T07:04:37.996Z"
+generated_at: "2026-03-30T07:06:26.427Z"
 status: "active"
 ---
 

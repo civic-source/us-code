@@ -3,9 +3,9 @@ title: "Section 1007 - Deductions from pay"
 usc_title: 37
 usc_section: "1007"
 chapter: 19
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "37 U.S.C. § 1007"
-generated_at: "2026-03-30T07:05:02.844Z"
+generated_at: "2026-03-30T07:06:45.760Z"
 status: "active"
 ---
 

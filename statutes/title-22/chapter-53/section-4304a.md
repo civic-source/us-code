@@ -3,9 +3,9 @@ title: "Section 4304a - Enforcement of compliance with liability insurance requi
 usc_title: 22
 usc_section: "4304a"
 chapter: 53
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 4304a"
-generated_at: "2026-03-30T07:04:37.973Z"
+generated_at: "2026-03-30T07:06:26.403Z"
 status: "active"
 ---
 

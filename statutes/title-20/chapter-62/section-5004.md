@@ -3,9 +3,9 @@ title: "Section 5004 - Repealed. Pub. L. 103–382, title III , § 391(i), Oct. 
 usc_title: 20
 usc_section: "5004"
 chapter: 62
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "20 U.S.C. § 5004"
-generated_at: "2026-03-30T07:04:27.808Z"
+generated_at: "2026-03-30T07:06:20.002Z"
 status: "repealed"
 ---
 

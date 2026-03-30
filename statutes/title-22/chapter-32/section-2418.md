@@ -3,9 +3,9 @@ title: "Section 2418 - Repealed. Pub. L. 95–424, title VI , § 604, Oct. 6, 19
 usc_title: 22
 usc_section: "2418"
 chapter: 32
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 2418"
-generated_at: "2026-03-30T07:04:37.936Z"
+generated_at: "2026-03-30T07:06:26.366Z"
 status: "repealed"
 ---
 

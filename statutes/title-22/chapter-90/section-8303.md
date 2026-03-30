@@ -3,9 +3,9 @@ title: "Section 8303 - Office of Volunteers for Prosperity"
 usc_title: 22
 usc_section: "8303"
 chapter: 90
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 8303"
-generated_at: "2026-03-30T07:04:38.009Z"
+generated_at: "2026-03-30T07:06:26.439Z"
 status: "active"
 ---
 

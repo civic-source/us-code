@@ -3,9 +3,9 @@ title: "Section 2400 - Establishment of National Cemetery Administration; compos
 usc_title: 38
 usc_section: "2400"
 chapter: 24
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "38 U.S.C. § 2400"
-generated_at: "2026-03-30T07:05:05.970Z"
+generated_at: "2026-03-30T07:06:44.667Z"
 status: "active"
 ---
 

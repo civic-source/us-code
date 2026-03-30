@@ -3,9 +3,9 @@ title: "Section 1757 - Severability"
 usc_title: 30
 usc_section: "1757"
 chapter: 29
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "30 U.S.C. § 1757"
-generated_at: "2026-03-30T07:04:43.590Z"
+generated_at: "2026-03-30T07:06:36.213Z"
 status: "active"
 ---
 

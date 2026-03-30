@@ -3,9 +3,9 @@ title: "Section 3042 - Authorization of appropriations for advances; deposits in
 usc_title: 12
 usc_section: "3042"
 chapter: 31
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 3042"
-generated_at: "2026-03-30T07:04:15.168Z"
+generated_at: "2026-03-30T07:06:01.071Z"
 status: "active"
 ---
 

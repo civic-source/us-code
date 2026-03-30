@@ -3,9 +3,9 @@ title: "Section 9316 - Repealed. Pub. L. 110–417 , [div. A], title III, § 353
 usc_title: 10
 usc_section: "9316"
 chapter: 901
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 9316"
-generated_at: "2026-03-30T07:03:43.833Z"
+generated_at: "2026-03-30T07:05:55.699Z"
 status: "repealed"
 ---
 

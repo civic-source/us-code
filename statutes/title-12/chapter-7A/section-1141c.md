@@ -3,9 +3,9 @@ title: "Section 1141c - Special powers of administration"
 usc_title: 12
 usc_section: "1141c"
 chapter: 7
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 1141c"
-generated_at: "2026-03-30T07:04:15.082Z"
+generated_at: "2026-03-30T07:06:00.979Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 760 - Establishment of rearing ponds and fish hatchery in Kentuc
 usc_title: 16
 usc_section: "760"
 chapter: 9
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 760"
-generated_at: "2026-03-30T07:04:22.314Z"
+generated_at: "2026-03-30T07:06:11.389Z"
 status: "active"
 ---
 

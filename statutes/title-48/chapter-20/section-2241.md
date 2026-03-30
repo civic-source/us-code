@@ -3,9 +3,9 @@ title: "Section 2241 - Sense of Congress regarding permanent, pro-growth fiscal 
 usc_title: 48
 usc_section: "2241"
 chapter: 20
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "48 U.S.C. § 2241"
-generated_at: "2026-03-30T07:05:25.384Z"
+generated_at: "2026-03-30T07:07:10.018Z"
 status: "active"
 ---
 

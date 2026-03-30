@@ -3,9 +3,9 @@ title: "Section 2626 - Development and evaluation of test methods"
 usc_title: 15
 usc_section: "2626"
 chapter: 53
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 2626"
-generated_at: "2026-03-30T07:03:49.313Z"
+generated_at: "2026-03-30T07:06:02.999Z"
 status: "active"
 ---
 

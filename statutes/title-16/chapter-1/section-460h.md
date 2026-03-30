@@ -3,9 +3,9 @@ title: "Section 460h - Costs of surveys or relocation of boundaries"
 usc_title: 16
 usc_section: "460h"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 460h"
-generated_at: "2026-03-30T07:04:22.254Z"
+generated_at: "2026-03-30T07:06:11.328Z"
 status: "active"
 ---
 

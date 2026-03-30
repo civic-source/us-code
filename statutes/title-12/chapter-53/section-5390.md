@@ -3,9 +3,9 @@ title: "Section 5390 - Powers and duties of the Corporation"
 usc_title: 12
 usc_section: "5390"
 chapter: 53
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "12 U.S.C. § 5390"
-generated_at: "2026-03-30T07:04:15.204Z"
+generated_at: "2026-03-30T07:06:01.109Z"
 status: "active"
 ---
 

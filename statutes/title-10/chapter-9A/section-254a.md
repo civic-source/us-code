@@ -3,9 +3,9 @@ title: "Section 254a - Audits: use of commercial data integration and analysis p
 usc_title: 10
 usc_section: "254a"
 chapter: 9
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 254a"
-generated_at: "2026-03-30T07:03:43.714Z"
+generated_at: "2026-03-30T07:05:55.569Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1120 - Omitted"
 usc_title: 21
 usc_section: "1120"
 chapter: 16
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "21 U.S.C. § 1120"
-generated_at: "2026-03-30T07:04:41.355Z"
+generated_at: "2026-03-30T07:06:24.205Z"
 status: "omitted"
 ---
 

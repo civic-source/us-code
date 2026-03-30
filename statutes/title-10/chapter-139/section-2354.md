@@ -3,9 +3,9 @@ title: "Section 2354 - Contracts: indemnification provisions"
 usc_title: 10
 usc_section: "2354"
 chapter: 139
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 2354"
-generated_at: "2026-03-30T07:03:43.784Z"
+generated_at: "2026-03-30T07:05:55.645Z"
 status: "active"
 ---
 

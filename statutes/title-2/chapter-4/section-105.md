@@ -3,9 +3,9 @@ title: "Section 105 - Transferred"
 usc_title: 2
 usc_section: "105"
 chapter: 4
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "2 U.S.C. § 105"
-generated_at: "2026-03-30T07:03:26.268Z"
+generated_at: "2026-03-30T07:05:44.245Z"
 status: "transferred"
 ---
 

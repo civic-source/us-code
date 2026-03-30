@@ -3,9 +3,9 @@ title: "Section 606 - Grants to directly eligible tribes"
 usc_title: 6
 usc_section: "606"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "6 U.S.C. § 606"
-generated_at: "2026-03-30T07:03:35.277Z"
+generated_at: "2026-03-30T07:05:47.623Z"
 status: "active"
 ---
 

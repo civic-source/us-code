@@ -3,9 +3,9 @@ title: "Section 1635 - State selections and conveyances"
 usc_title: 43
 usc_section: "1635"
 chapter: 33
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "43 U.S.C. § 1635"
-generated_at: "2026-03-30T07:05:11.424Z"
+generated_at: "2026-03-30T07:06:48.878Z"
 status: "active"
 ---
 

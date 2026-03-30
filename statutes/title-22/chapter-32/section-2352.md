@@ -3,9 +3,9 @@ title: "Section 2352 - Small business"
 usc_title: 22
 usc_section: "2352"
 chapter: 32
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 2352"
-generated_at: "2026-03-30T07:04:37.931Z"
+generated_at: "2026-03-30T07:06:26.360Z"
 status: "active"
 ---
 

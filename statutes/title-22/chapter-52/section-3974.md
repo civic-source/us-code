@@ -3,9 +3,9 @@ title: "Section 3974 - Border equalization pay adjustment"
 usc_title: 22
 usc_section: "3974"
 chapter: 52
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "22 U.S.C. § 3974"
-generated_at: "2026-03-30T07:04:37.964Z"
+generated_at: "2026-03-30T07:06:26.394Z"
 status: "active"
 ---
 

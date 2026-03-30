@@ -3,9 +3,9 @@ title: "Section 354 - Veterinary feed directive drugs"
 usc_title: 21
 usc_section: "354"
 chapter: 9
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "21 U.S.C. § 354"
-generated_at: "2026-03-30T07:04:41.300Z"
+generated_at: "2026-03-30T07:06:24.150Z"
 status: "active"
 ---
 

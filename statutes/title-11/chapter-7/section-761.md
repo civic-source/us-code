@@ -3,9 +3,9 @@ title: "Section 761 - Definitions for this subchapter"
 usc_title: 11
 usc_section: "761"
 chapter: 7
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "11 U.S.C. § 761"
-generated_at: "2026-03-30T07:03:46.194Z"
+generated_at: "2026-03-30T07:05:59.097Z"
 status: "active"
 ---
 

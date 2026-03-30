@@ -3,9 +3,9 @@ title: "Section 1864 - Authorization of appropriations"
 usc_title: 25
 usc_section: "1864"
 chapter: 20
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "25 U.S.C. § 1864"
-generated_at: "2026-03-30T07:04:34.908Z"
+generated_at: "2026-03-30T07:06:23.019Z"
 status: "active"
 ---
 

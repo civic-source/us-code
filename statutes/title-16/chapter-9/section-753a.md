@@ -3,9 +3,9 @@ title: "Section 753a - Cooperative research and training programs for fish and w
 usc_title: 16
 usc_section: "753a"
 chapter: 9
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 753a"
-generated_at: "2026-03-30T07:04:22.314Z"
+generated_at: "2026-03-30T07:06:11.388Z"
 status: "active"
 ---
 

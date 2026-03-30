@@ -3,9 +3,9 @@ title: "Section 1916 - Unauthorized employment and disposition of lapsed appropr
 usc_title: 18
 usc_section: "1916"
 chapter: 93
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "18 U.S.C. § 1916"
-generated_at: "2026-03-30T07:04:31.725Z"
+generated_at: "2026-03-30T07:06:08.127Z"
 status: "active"
 ---
 

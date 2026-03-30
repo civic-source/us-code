@@ -3,9 +3,9 @@ title: "Section 298 - Advice of counsel"
 usc_title: 35
 usc_section: "298"
 chapter: 29
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "35 U.S.C. § 298"
-generated_at: "2026-03-30T07:04:58.691Z"
+generated_at: "2026-03-30T07:06:39.651Z"
 status: "active"
 ---
 

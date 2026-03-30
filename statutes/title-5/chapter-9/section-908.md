@@ -3,9 +3,9 @@ title: "Section 908 - Rules of Senate and House of Representatives on reorganiza
 usc_title: 5
 usc_section: "908"
 chapter: 9
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "5 U.S.C. § 908"
-generated_at: "2026-03-30T07:03:32.303Z"
+generated_at: "2026-03-30T07:05:45.618Z"
 status: "active"
 ---
 

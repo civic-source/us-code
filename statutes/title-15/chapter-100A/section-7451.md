@@ -3,9 +3,9 @@ title: "Section 7451 - National cybersecurity awareness and education program"
 usc_title: 15
 usc_section: "7451"
 chapter: 100
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 7451"
-generated_at: "2026-03-30T07:03:49.351Z"
+generated_at: "2026-03-30T07:06:03.038Z"
 status: "active"
 ---
 

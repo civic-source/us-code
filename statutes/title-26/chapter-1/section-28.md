@@ -3,9 +3,9 @@ title: "Section 28 - Renumbered § 45C]"
 usc_title: 26
 usc_section: "28"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "26 U.S.C. § 28"
-generated_at: "2026-03-30T07:04:56.649Z"
+generated_at: "2026-03-30T07:06:35.479Z"
 status: "renumbered"
 ---
 

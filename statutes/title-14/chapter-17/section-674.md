@@ -3,9 +3,9 @@ title: "Section 674 - Small boat station rescue capability"
 usc_title: 14
 usc_section: "674"
 chapter: 17
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "14 U.S.C. § 674"
-generated_at: "2026-03-30T07:03:45.881Z"
+generated_at: "2026-03-30T07:05:57.748Z"
 status: "active"
 ---
 

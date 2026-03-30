@@ -3,9 +3,9 @@ title: "Section 47140 - Airport ground support equipment emissions retrofit pilo
 usc_title: 49
 usc_section: "47140"
 chapter: 471
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "49 U.S.C. § 47140"
-generated_at: "2026-03-30T07:05:28.488Z"
+generated_at: "2026-03-30T07:07:14.405Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 172 - Transfer of duties of Department of Labor; special investi
 usc_title: 15
 usc_section: "172"
 chapter: 5
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 172"
-generated_at: "2026-03-30T07:03:49.220Z"
+generated_at: "2026-03-30T07:06:02.903Z"
 status: "active"
 ---
 

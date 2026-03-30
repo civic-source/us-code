@@ -3,9 +3,9 @@ title: "Section 6908 - Repealed. Pub. L. 88–647, title III , § 301(17), Oct. 
 usc_title: 10
 usc_section: "6908"
 chapter: 601
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 6908"
-generated_at: "2026-03-30T07:03:43.823Z"
+generated_at: "2026-03-30T07:05:55.687Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2363 - Sense of Congress concerning assistance to states of form
 usc_title: 50
 usc_section: "2363"
 chapter: 40
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "50 U.S.C. § 2363"
-generated_at: "2026-03-30T07:05:26.720Z"
+generated_at: "2026-03-30T07:07:12.609Z"
 status: "active"
 ---
 

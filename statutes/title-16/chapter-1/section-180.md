@@ -3,9 +3,9 @@ title: "Section 180 - Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1028"
 usc_title: 16
 usc_section: "180"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 180"
-generated_at: "2026-03-30T07:04:22.208Z"
+generated_at: "2026-03-30T07:06:11.283Z"
 status: "repealed"
 ---
 

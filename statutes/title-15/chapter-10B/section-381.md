@@ -3,9 +3,9 @@ title: "Section 381 - Imposition of net income tax"
 usc_title: 15
 usc_section: "381"
 chapter: 10
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 381"
-generated_at: "2026-03-30T07:03:49.227Z"
+generated_at: "2026-03-30T07:06:02.911Z"
 status: "active"
 ---
 

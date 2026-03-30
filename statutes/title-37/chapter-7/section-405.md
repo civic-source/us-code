@@ -3,9 +3,9 @@ title: "Section 405 - Renumbered § 475]"
 usc_title: 37
 usc_section: "405"
 chapter: 7
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "37 U.S.C. § 405"
-generated_at: "2026-03-30T07:05:02.838Z"
+generated_at: "2026-03-30T07:06:45.754Z"
 status: "renumbered"
 ---
 

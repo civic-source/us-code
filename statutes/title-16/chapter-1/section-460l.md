@@ -3,9 +3,9 @@ title: "Section 460l - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "460l"
 chapter: 1
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 460l"
-generated_at: "2026-03-30T07:04:22.254Z"
+generated_at: "2026-03-30T07:06:11.329Z"
 status: "repealed"
 ---
 

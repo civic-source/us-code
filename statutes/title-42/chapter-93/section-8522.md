@@ -3,9 +3,9 @@ title: "Section 8522 - Out-of-State vehicles to be exempted from odd-even motor 
 usc_title: 42
 usc_section: "8522"
 chapter: 93
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 8522"
-generated_at: "2026-03-30T07:05:21.863Z"
+generated_at: "2026-03-30T07:07:06.705Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 77ff - Accounts and annual balance sheet of Corporation; audits"
 usc_title: 15
 usc_section: "77ff"
 chapter: 2
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "15 U.S.C. § 77ff"
-generated_at: "2026-03-30T07:03:49.182Z"
+generated_at: "2026-03-30T07:06:02.865Z"
 status: "active"
 ---
 

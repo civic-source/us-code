@@ -3,9 +3,9 @@ title: "Section 418 - Private lands within project; agreement as to disposal of 
 usc_title: 43
 usc_section: "418"
 chapter: 12
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "43 U.S.C. § 418"
-generated_at: "2026-03-30T07:05:11.394Z"
+generated_at: "2026-03-30T07:06:48.846Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5143 - Coordinating officers"
 usc_title: 42
 usc_section: "5143"
 chapter: 68
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "42 U.S.C. § 5143"
-generated_at: "2026-03-30T07:05:21.764Z"
+generated_at: "2026-03-30T07:07:06.598Z"
 status: "active"
 ---
 

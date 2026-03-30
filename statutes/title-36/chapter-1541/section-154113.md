@@ -3,9 +3,9 @@ title: "Section 154113 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "154113"
 chapter: 1541
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "36 U.S.C. § 154113"
-generated_at: "2026-03-30T07:05:06.717Z"
+generated_at: "2026-03-30T07:06:42.605Z"
 status: "active"
 ---
 

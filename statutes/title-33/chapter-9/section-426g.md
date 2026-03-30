@@ -3,9 +3,9 @@ title: "Section 426g - Storm and hurricane restoration and impact minimization p
 usc_title: 33
 usc_section: "426g"
 chapter: 9
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "33 U.S.C. § 426g"
-generated_at: "2026-03-30T07:05:00.839Z"
+generated_at: "2026-03-30T07:06:40.378Z"
 status: "active"
 ---
 

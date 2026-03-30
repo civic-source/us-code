@@ -3,9 +3,9 @@ title: "Section 1221 - Effective date of retirement or placement of name on temp
 usc_title: 10
 usc_section: "1221"
 chapter: 61
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 1221"
-generated_at: "2026-03-30T07:03:43.752Z"
+generated_at: "2026-03-30T07:05:55.610Z"
 status: "active"
 ---
 

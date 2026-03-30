@@ -3,9 +3,9 @@ title: "Section 6087 - Sale of meals by general messes"
 usc_title: 10
 usc_section: "6087"
 chapter: 557
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "10 U.S.C. § 6087"
-generated_at: "2026-03-30T07:03:43.821Z"
+generated_at: "2026-03-30T07:05:55.685Z"
 status: "active"
 ---
 

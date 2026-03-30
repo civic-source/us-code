@@ -3,9 +3,9 @@ title: "Section 80 - Transferred"
 usc_title: 2
 usc_section: "80"
 chapter: 4
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "2 U.S.C. § 80"
-generated_at: "2026-03-30T07:03:26.268Z"
+generated_at: "2026-03-30T07:05:44.244Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 838e - Acquisition of property"
 usc_title: 16
 usc_section: "838e"
 chapter: 12
-current_through: "PL 115-117"
+current_through: "PL 115-122"
 classification: "16 U.S.C. § 838e"
-generated_at: "2026-03-30T07:04:22.330Z"
+generated_at: "2026-03-30T07:06:11.404Z"
 status: "active"
 ---
 
