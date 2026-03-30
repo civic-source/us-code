@@ -3,9 +3,9 @@ title: "Section 6247a - Use of underutilized facilities"
 usc_title: 42
 usc_section: "6247a"
 chapter: 77
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 6247a"
-generated_at: "2026-03-30T09:39:15.084Z"
+generated_at: "2026-03-30T09:41:59.788Z"
 status: "active"
 ---
 

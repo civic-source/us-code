@@ -3,9 +3,9 @@ title: "Section 3591 - Textile product integration"
 usc_title: 19
 usc_section: "3591"
 chapter: 22
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "19 U.S.C. § 3591"
-generated_at: "2026-03-30T09:36:17.336Z"
+generated_at: "2026-03-30T09:40:23.052Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1914 - Petition to court of competent jurisdiction to invalidate
 usc_title: 25
 usc_section: "1914"
 chapter: 21
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "25 U.S.C. § 1914"
-generated_at: "2026-03-30T09:36:30.481Z"
+generated_at: "2026-03-30T09:40:32.482Z"
 status: "active"
 ---
 

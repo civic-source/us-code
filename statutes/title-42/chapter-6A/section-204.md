@@ -3,9 +3,9 @@ title: "Section 204 - Commissioned Corps and Ready Reserve Corps"
 usc_title: 42
 usc_section: "204"
 chapter: 6
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 204"
-generated_at: "2026-03-30T09:39:14.657Z"
+generated_at: "2026-03-30T09:41:59.324Z"
 status: "active"
 ---
 

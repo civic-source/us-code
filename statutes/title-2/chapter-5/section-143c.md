@@ -3,9 +3,9 @@ title: "Section 143c - Use of other library funds to make payments"
 usc_title: 2
 usc_section: "143c"
 chapter: 5
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "2 U.S.C. § 143c"
-generated_at: "2026-03-30T09:35:13.194Z"
+generated_at: "2026-03-30T09:39:45.864Z"
 status: "active"
 ---
 

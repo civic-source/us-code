@@ -3,9 +3,9 @@ title: "Section 8257 - Interagency Energy Management Task Force"
 usc_title: 42
 usc_section: "8257"
 chapter: 91
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 8257"
-generated_at: "2026-03-30T09:39:15.166Z"
+generated_at: "2026-03-30T09:41:59.866Z"
 status: "active"
 ---
 

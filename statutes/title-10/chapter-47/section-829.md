@@ -3,9 +3,9 @@ title: "Section 829 - Art 29. Assembly and impaneling of members; detail of new 
 usc_title: 10
 usc_section: "829"
 chapter: 47
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 829"
-generated_at: "2026-03-30T09:35:23.905Z"
+generated_at: "2026-03-30T09:39:54.565Z"
 status: "active"
 ---
 

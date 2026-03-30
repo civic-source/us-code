@@ -3,9 +3,9 @@ title: "Section 2908 - Funding"
 usc_title: 33
 usc_section: "2908"
 chapter: 42
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "33 U.S.C. § 2908"
-generated_at: "2026-03-30T09:37:31.612Z"
+generated_at: "2026-03-30T09:41:07.703Z"
 status: "active"
 ---
 

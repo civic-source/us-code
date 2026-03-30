@@ -3,9 +3,9 @@ title: "Section 313 - Centers of expertise for Coast Guard prevention and respon
 usc_title: 14
 usc_section: "313"
 chapter: 3
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "14 U.S.C. § 313"
-generated_at: "2026-03-30T09:35:48.421Z"
+generated_at: "2026-03-30T09:40:00.542Z"
 status: "active"
 ---
 

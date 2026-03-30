@@ -3,9 +3,9 @@ title: "Section 1917 - Repealed. Pub. L. 93–618, title VI, § 602(e) , Jan. 3,
 usc_title: 19
 usc_section: "1917"
 chapter: 7
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "19 U.S.C. § 1917"
-generated_at: "2026-03-30T09:36:17.310Z"
+generated_at: "2026-03-30T09:40:23.026Z"
 status: "repealed"
 ---
 

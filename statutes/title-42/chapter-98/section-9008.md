@@ -3,9 +3,9 @@ title: "Section 9008 - Definitions"
 usc_title: 42
 usc_section: "9008"
 chapter: 98
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 9008"
-generated_at: "2026-03-30T09:39:15.175Z"
+generated_at: "2026-03-30T09:41:59.876Z"
 status: "active"
 ---
 

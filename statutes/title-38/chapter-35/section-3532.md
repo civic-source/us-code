@@ -3,9 +3,9 @@ title: "Section 3532 - Computation of educational assistance allowance"
 usc_title: 38
 usc_section: "3532"
 chapter: 35
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "38 U.S.C. § 3532"
-generated_at: "2026-03-30T09:38:03.195Z"
+generated_at: "2026-03-30T09:41:11.797Z"
 status: "active"
 ---
 
@@ -30,6 +30,6 @@ status: "active"
   - **(2)** The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount paid to such individual for such test by the full-time monthly institutional rate of the educational assistance allowance which, except for paragraph (1), such individual would otherwise be paid under this chapter.
   - **(3)** In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual’s available entitlement under this chapter.
 - **(g)**
-  - **(1)** Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title is the amount of the fee charged for the test.
-  - **(2)** The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
-  - **(3)** In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual’s available entitlement under this chapter.
+  - **(1)** Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title or a covered preparatory course (as that term is defined in section 3315B(a) of this title ) is the amount of the fee charged for the test.
+  - **(2)** The number of months of entitlement charged in the case of any individual for a test or covered preparatory course described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test or covered preparatory course by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
+  - **(3)** In no event shall payment of educational assistance under this subsection for a test or covered preparatory course described in paragraph (1) exceed the amount of the individual’s available entitlement under this chapter.

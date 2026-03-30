@@ -3,9 +3,9 @@ title: "Section 8110 - Operation of medical facilities"
 usc_title: 38
 usc_section: "8110"
 chapter: 81
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "38 U.S.C. § 8110"
-generated_at: "2026-03-30T09:38:03.222Z"
+generated_at: "2026-03-30T09:41:11.823Z"
 status: "active"
 ---
 

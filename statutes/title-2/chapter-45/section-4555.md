@@ -3,9 +3,9 @@ title: "Section 4555 - Withholding of State income tax by Chief Administrative O
 usc_title: 2
 usc_section: "4555"
 chapter: 45
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "2 U.S.C. § 4555"
-generated_at: "2026-03-30T09:35:13.230Z"
+generated_at: "2026-03-30T09:39:45.902Z"
 status: "active"
 ---
 

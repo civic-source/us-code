@@ -3,9 +3,9 @@ title: "Section 1553 - Assistant Commissioners and one District Director; compen
 usc_title: 8
 usc_section: "1553"
 chapter: 13
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "8 U.S.C. § 1553"
-generated_at: "2026-03-30T09:35:16.476Z"
+generated_at: "2026-03-30T09:39:48.494Z"
 status: "active"
 ---
 

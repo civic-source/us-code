@@ -3,9 +3,9 @@ title: "Section 6318 - Additional home State office space for Senators; declarat
 usc_title: 2
 usc_section: "6318"
 chapter: 63
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "2 U.S.C. § 6318"
-generated_at: "2026-03-30T09:35:13.237Z"
+generated_at: "2026-03-30T09:39:45.909Z"
 status: "active"
 ---
 

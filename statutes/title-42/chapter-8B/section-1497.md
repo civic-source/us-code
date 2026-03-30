@@ -3,9 +3,9 @@ title: "Section 1497 - Omitted"
 usc_title: 42
 usc_section: "1497"
 chapter: 8
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 1497"
-generated_at: "2026-03-30T09:39:14.969Z"
+generated_at: "2026-03-30T09:41:59.666Z"
 status: "omitted"
 ---
 

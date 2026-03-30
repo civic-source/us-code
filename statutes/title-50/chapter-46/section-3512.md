@@ -3,9 +3,9 @@ title: "Section 3512 - Gifts, devises, and bequests"
 usc_title: 50
 usc_section: "3512"
 chapter: 46
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "50 U.S.C. § 3512"
-generated_at: "2026-03-30T09:39:27.946Z"
+generated_at: "2026-03-30T09:42:11.110Z"
 status: "active"
 ---
 

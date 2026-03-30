@@ -3,9 +3,9 @@ title: "Section 3910 - Radio station deemed government station"
 usc_title: 14
 usc_section: "3910"
 chapter: 39
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "14 U.S.C. § 3910"
-generated_at: "2026-03-30T09:35:48.431Z"
+generated_at: "2026-03-30T09:40:00.553Z"
 status: "active"
 ---
 

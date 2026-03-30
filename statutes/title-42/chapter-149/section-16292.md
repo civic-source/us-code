@@ -3,9 +3,9 @@ title: "Section 16292 - Coal and related technologies program"
 usc_title: 42
 usc_section: "16292"
 chapter: 149
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 16292"
-generated_at: "2026-03-30T09:39:15.282Z"
+generated_at: "2026-03-30T09:41:59.982Z"
 status: "active"
 ---
 

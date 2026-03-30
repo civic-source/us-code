@@ -3,9 +3,9 @@ title: "Section 5051 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5051"
 chapter: 51
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "26 U.S.C. § 5051"
-generated_at: "2026-03-30T09:36:58.420Z"
+generated_at: "2026-03-30T09:41:03.203Z"
 status: "active"
 ---
 

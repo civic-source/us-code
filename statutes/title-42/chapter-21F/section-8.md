@@ -3,9 +3,9 @@ title: "Section 8 - Construction"
 usc_title: 42
 usc_section: "8"
 chapter: 21
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T09:39:15.001Z"
+generated_at: "2026-03-30T09:41:59.701Z"
 status: "active"
 ---
 

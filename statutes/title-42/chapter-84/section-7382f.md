@@ -3,9 +3,9 @@ title: "Section 7382f - Authorization of appropriations"
 usc_title: 42
 usc_section: "7382f"
 chapter: 84
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 7382f"
-generated_at: "2026-03-30T09:39:15.126Z"
+generated_at: "2026-03-30T09:41:59.827Z"
 status: "active"
 ---
 

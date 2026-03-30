@@ -3,9 +3,9 @@ title: "Section 57107 - Vessels for other agencies"
 usc_title: 46
 usc_section: "57107"
 chapter: 571
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "46 U.S.C. § 57107"
-generated_at: "2026-03-30T09:39:18.616Z"
+generated_at: "2026-03-30T09:42:18.617Z"
 status: "active"
 ---
 

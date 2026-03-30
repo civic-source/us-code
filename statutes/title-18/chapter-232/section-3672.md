@@ -3,9 +3,9 @@ title: "Section 3672 - Duties of Director of Administrative Office of the United
 usc_title: 18
 usc_section: "3672"
 chapter: 232
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "18 U.S.C. § 3672"
-generated_at: "2026-03-30T09:36:06.934Z"
+generated_at: "2026-03-30T09:40:16.663Z"
 status: "active"
 ---
 

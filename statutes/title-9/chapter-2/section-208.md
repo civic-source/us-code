@@ -3,9 +3,9 @@ title: "Section 208 - Chapter 1; residual application"
 usc_title: 9
 usc_section: "208"
 chapter: 2
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "9 U.S.C. § 208"
-generated_at: "2026-03-30T09:35:15.020Z"
+generated_at: "2026-03-30T09:39:47.592Z"
 status: "active"
 ---
 

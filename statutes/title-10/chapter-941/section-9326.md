@@ -3,9 +3,9 @@ title: "Section 9326 - Computation of years of service: voluntary retirement; re
 usc_title: 10
 usc_section: "9326"
 chapter: 941
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 9326"
-generated_at: "2026-03-30T09:35:24.011Z"
+generated_at: "2026-03-30T09:39:54.673Z"
 status: "active"
 ---
 

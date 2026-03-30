@@ -3,9 +3,9 @@ title: "Section 451b - Waters included within subchapter"
 usc_title: 33
 usc_section: "451b"
 chapter: 9
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "33 U.S.C. § 451b"
-generated_at: "2026-03-30T09:37:31.552Z"
+generated_at: "2026-03-30T09:41:07.643Z"
 status: "active"
 ---
 

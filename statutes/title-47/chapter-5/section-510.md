@@ -3,9 +3,9 @@ title: "Section 510 - Forfeiture of communications devices"
 usc_title: 47
 usc_section: "510"
 chapter: 5
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "47 U.S.C. § 510"
-generated_at: "2026-03-30T09:39:19.485Z"
+generated_at: "2026-03-30T09:42:03.029Z"
 status: "active"
 ---
 

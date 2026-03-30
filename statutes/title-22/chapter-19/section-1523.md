@@ -3,9 +3,9 @@ title: "Section 1523 - Repealed. Oct. 26, 1951, ch. 575 , title III, § 305, 65 
 usc_title: 22
 usc_section: "1523"
 chapter: 19
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "22 U.S.C. § 1523"
-generated_at: "2026-03-30T09:36:47.819Z"
+generated_at: "2026-03-30T09:40:36.488Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1205 - Members on active duty for 30 days or less: temporary dis
 usc_title: 10
 usc_section: "1205"
 chapter: 61
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 1205"
-generated_at: "2026-03-30T09:35:23.928Z"
+generated_at: "2026-03-30T09:39:54.588Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9541 - Repealed. Pub. L. 103–160, div. A, title VIII, § 822(d
 usc_title: 10
 usc_section: "9541"
 chapter: 963
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 9541"
-generated_at: "2026-03-30T09:35:24.014Z"
+generated_at: "2026-03-30T09:39:54.675Z"
 status: "repealed"
 ---
 

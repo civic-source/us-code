@@ -3,9 +3,9 @@ title: "Section 7453 - Cadets: degree and commission on graduation"
 usc_title: 10
 usc_section: "7453"
 chapter: 753
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 7453"
-generated_at: "2026-03-30T09:35:23.995Z"
+generated_at: "2026-03-30T09:39:54.656Z"
 status: "active"
 ---
 

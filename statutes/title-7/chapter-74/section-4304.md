@@ -3,9 +3,9 @@ title: "Section 4304 - Notice and hearing"
 usc_title: 7
 usc_section: "4304"
 chapter: 74
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "7 U.S.C. § 4304"
-generated_at: "2026-03-30T09:35:28.214Z"
+generated_at: "2026-03-30T09:39:57.937Z"
 status: "active"
 ---
 

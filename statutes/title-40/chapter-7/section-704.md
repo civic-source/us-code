@@ -3,9 +3,9 @@ title: "Section 704 - Other methods of disposal"
 usc_title: 40
 usc_section: "704"
 chapter: 7
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "40 U.S.C. § 704"
-generated_at: "2026-03-30T09:37:39.611Z"
+generated_at: "2026-03-30T09:41:13.390Z"
 status: "active"
 ---
 

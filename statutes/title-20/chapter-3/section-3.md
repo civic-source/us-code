@@ -3,9 +3,9 @@ title: "Section 3 - Authorization of appropriations"
 usc_title: 20
 usc_section: "3"
 chapter: 3
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T09:36:19.124Z"
+generated_at: "2026-03-30T09:40:21.562Z"
 status: "active"
 ---
 

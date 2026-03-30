@@ -3,9 +3,9 @@ title: "Section 210 - Defense access roads"
 usc_title: 23
 usc_section: "210"
 chapter: 2
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "23 U.S.C. § 210"
-generated_at: "2026-03-30T09:36:30.943Z"
+generated_at: "2026-03-30T09:40:37.180Z"
 status: "active"
 ---
 

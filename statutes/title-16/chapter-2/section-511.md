@@ -3,9 +3,9 @@ title: "Section 511 - Reinstatement of entries canceled or relinquished"
 usc_title: 16
 usc_section: "511"
 chapter: 2
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 511"
-generated_at: "2026-03-30T09:36:12.707Z"
+generated_at: "2026-03-30T09:40:28.706Z"
 status: "active"
 ---
 

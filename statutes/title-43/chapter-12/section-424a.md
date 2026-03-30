@@ -3,9 +3,9 @@ title: "Section 424a - Sale of unproductive lands; terms; area purchasable; trac
 usc_title: 43
 usc_section: "424a"
 chapter: 12
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "43 U.S.C. § 424a"
-generated_at: "2026-03-30T09:38:06.482Z"
+generated_at: "2026-03-30T09:41:20.977Z"
 status: "active"
 ---
 

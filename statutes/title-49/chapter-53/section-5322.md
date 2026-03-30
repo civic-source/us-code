@@ -3,9 +3,9 @@ title: "Section 5322 - Repealed. Pub. L. 114–94, div. A, title III, § 3030(d)
 usc_title: 49
 usc_section: "5322"
 chapter: 53
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "49 U.S.C. § 5322"
-generated_at: "2026-03-30T09:39:22.591Z"
+generated_at: "2026-03-30T09:42:07.284Z"
 status: "repealed"
 ---
 

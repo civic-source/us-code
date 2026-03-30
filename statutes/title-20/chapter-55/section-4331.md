@@ -3,9 +3,9 @@ title: "Section 4331 - Authority"
 usc_title: 20
 usc_section: "4331"
 chapter: 55
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "20 U.S.C. § 4331"
-generated_at: "2026-03-30T09:36:19.206Z"
+generated_at: "2026-03-30T09:40:21.646Z"
 status: "active"
 ---
 

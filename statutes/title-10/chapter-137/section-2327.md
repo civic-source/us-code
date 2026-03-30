@@ -3,9 +3,9 @@ title: "Section 2327 - Contracts: consideration of national security objectives"
 usc_title: 10
 usc_section: "2327"
 chapter: 137
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 2327"
-generated_at: "2026-03-30T09:35:23.960Z"
+generated_at: "2026-03-30T09:39:54.620Z"
 status: "active"
 ---
 

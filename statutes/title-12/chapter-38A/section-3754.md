@@ -3,9 +3,9 @@ title: "Section 3754 - Designation of foreclosure commissioner"
 usc_title: 12
 usc_section: "3754"
 chapter: 38
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "12 U.S.C. § 3754"
-generated_at: "2026-03-30T09:35:33.486Z"
+generated_at: "2026-03-30T09:40:04.373Z"
 status: "active"
 ---
 

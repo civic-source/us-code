@@ -3,9 +3,9 @@ title: "Section 597b - Compensation for easements"
 usc_title: 43
 usc_section: "597b"
 chapter: 12
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "43 U.S.C. § 597b"
-generated_at: "2026-03-30T09:38:06.486Z"
+generated_at: "2026-03-30T09:41:20.983Z"
 status: "active"
 ---
 

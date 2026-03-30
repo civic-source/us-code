@@ -3,9 +3,9 @@ title: "Section 6050B - Returns relating to unemployment compensation"
 usc_title: 26
 usc_section: "6050B"
 chapter: 61
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "26 U.S.C. § 6050B"
-generated_at: "2026-03-30T09:36:58.434Z"
+generated_at: "2026-03-30T09:41:03.217Z"
 status: "active"
 ---
 

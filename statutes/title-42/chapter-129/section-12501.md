@@ -3,9 +3,9 @@ title: "Section 12501 - Findings and purpose"
 usc_title: 42
 usc_section: "12501"
 chapter: 129
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 12501"
-generated_at: "2026-03-30T09:39:15.232Z"
+generated_at: "2026-03-30T09:41:59.931Z"
 status: "active"
 ---
 

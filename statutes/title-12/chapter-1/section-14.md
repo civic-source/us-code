@@ -3,9 +3,9 @@ title: "Section 14 - Report of Comptroller"
 usc_title: 12
 usc_section: "14"
 chapter: 1
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "12 U.S.C. § 14"
-generated_at: "2026-03-30T09:35:33.376Z"
+generated_at: "2026-03-30T09:40:04.257Z"
 status: "active"
 ---
 

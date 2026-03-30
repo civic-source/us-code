@@ -3,9 +3,9 @@ title: "Section 6064 - Contraceptive devices"
 usc_title: 20
 usc_section: "6064"
 chapter: 68
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "20 U.S.C. § 6064"
-generated_at: "2026-03-30T09:36:19.213Z"
+generated_at: "2026-03-30T09:40:21.653Z"
 status: "active"
 ---
 

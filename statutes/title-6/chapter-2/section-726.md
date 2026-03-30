@@ -3,9 +3,9 @@ title: "Section 726 - Basic life supporting first aid and education"
 usc_title: 6
 usc_section: "726"
 chapter: 2
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "6 U.S.C. § 726"
-generated_at: "2026-03-30T09:35:15.762Z"
+generated_at: "2026-03-30T09:39:49.627Z"
 status: "active"
 ---
 

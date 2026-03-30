@@ -3,9 +3,9 @@ title: "Section 1885 - Seafood import monitoring program"
 usc_title: 16
 usc_section: "1885"
 chapter: 38
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 1885"
-generated_at: "2026-03-30T09:36:12.798Z"
+generated_at: "2026-03-30T09:40:28.800Z"
 status: "active"
 ---
 

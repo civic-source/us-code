@@ -3,9 +3,9 @@ title: "Section 4963 - Definitions"
 usc_title: 26
 usc_section: "4963"
 chapter: 42
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "26 U.S.C. § 4963"
-generated_at: "2026-03-30T09:36:58.413Z"
+generated_at: "2026-03-30T09:41:03.196Z"
 status: "active"
 ---
 

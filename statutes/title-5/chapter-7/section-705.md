@@ -3,9 +3,9 @@ title: "Section 705 - Relief pending review"
 usc_title: 5
 usc_section: "705"
 chapter: 7
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "5 U.S.C. § 705"
-generated_at: "2026-03-30T09:35:11.679Z"
+generated_at: "2026-03-30T09:39:44.957Z"
 status: "active"
 ---
 

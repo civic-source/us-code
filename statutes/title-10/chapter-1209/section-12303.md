@@ -3,9 +3,9 @@ title: "Section 12303 - Ready Reserve: members not assigned to, or participating
 usc_title: 10
 usc_section: "12303"
 chapter: 1209
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 12303"
-generated_at: "2026-03-30T09:35:24.019Z"
+generated_at: "2026-03-30T09:39:54.682Z"
 status: "active"
 ---
 

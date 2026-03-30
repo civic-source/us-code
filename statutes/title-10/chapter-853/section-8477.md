@@ -3,9 +3,9 @@ title: "Section 8477 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "8477"
 chapter: 853
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 8477"
-generated_at: "2026-03-30T09:35:24.003Z"
+generated_at: "2026-03-30T09:39:54.665Z"
 status: "active"
 ---
 

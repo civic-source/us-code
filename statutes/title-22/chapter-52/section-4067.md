@@ -3,9 +3,9 @@ title: "Section 4067 - Compatibility between retirement systems"
 usc_title: 22
 usc_section: "4067"
 chapter: 52
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "22 U.S.C. § 4067"
-generated_at: "2026-03-30T09:36:47.878Z"
+generated_at: "2026-03-30T09:40:36.548Z"
 status: "active"
 ---
 

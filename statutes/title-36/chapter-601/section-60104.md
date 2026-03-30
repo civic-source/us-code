@@ -3,9 +3,9 @@ title: "Section 60104 - Membership"
 usc_title: 36
 usc_section: "60104"
 chapter: 601
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "36 U.S.C. § 60104"
-generated_at: "2026-03-30T09:37:38.078Z"
+generated_at: "2026-03-30T09:41:10.309Z"
 status: "active"
 ---
 

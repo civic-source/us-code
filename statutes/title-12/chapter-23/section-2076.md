@@ -3,9 +3,9 @@ title: "Section 2076 - Other services"
 usc_title: 12
 usc_section: "2076"
 chapter: 23
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "12 U.S.C. § 2076"
-generated_at: "2026-03-30T09:35:33.465Z"
+generated_at: "2026-03-30T09:40:04.351Z"
 status: "active"
 ---
 

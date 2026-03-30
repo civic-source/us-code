@@ -3,9 +3,9 @@ title: "Section 2487c - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "2487c"
 chapter: 26
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 2487c"
-generated_at: "2026-03-30T09:39:15.020Z"
+generated_at: "2026-03-30T09:41:59.720Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9625 - Ordnance property: officers of armed forces; civilian emp
 usc_title: 10
 usc_section: "9625"
 chapter: 969
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 9625"
-generated_at: "2026-03-30T09:35:24.014Z"
+generated_at: "2026-03-30T09:39:54.676Z"
 status: "active"
 ---
 

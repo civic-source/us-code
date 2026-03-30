@@ -3,9 +3,9 @@ title: "Section 7781 - Cyber Center for Education and Innovation-Home of the Nat
 usc_title: 10
 usc_section: "7781"
 chapter: 779
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 7781"
-generated_at: "2026-03-30T09:35:23.997Z"
+generated_at: "2026-03-30T09:39:54.659Z"
 status: "active"
 ---
 

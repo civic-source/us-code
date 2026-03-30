@@ -3,9 +3,9 @@ title: "Section 4 - Cooperative agreements"
 usc_title: 16
 usc_section: "4"
 chapter: 3
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T09:36:12.721Z"
+generated_at: "2026-03-30T09:40:28.721Z"
 status: "active"
 ---
 

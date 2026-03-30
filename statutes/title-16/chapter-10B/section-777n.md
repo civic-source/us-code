@@ -3,9 +3,9 @@ title: "Section 777n - Repealed. Pub. L. 114–94, div. A, title X, § 10001(g)(
 usc_title: 16
 usc_section: "777n"
 chapter: 10
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 777n"
-generated_at: "2026-03-30T09:36:12.741Z"
+generated_at: "2026-03-30T09:40:28.740Z"
 status: "repealed"
 ---
 

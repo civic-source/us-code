@@ -3,9 +3,9 @@ title: "Section 41313 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "41313"
 chapter: 413
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "49 U.S.C. § 41313"
-generated_at: "2026-03-30T09:39:22.635Z"
+generated_at: "2026-03-30T09:42:07.330Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9484 - Quartermaster and ordnance property: sales"
 usc_title: 10
 usc_section: "9484"
 chapter: 957
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 9484"
-generated_at: "2026-03-30T09:35:24.012Z"
+generated_at: "2026-03-30T09:39:54.675Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8532 - Commercial weather data"
 usc_title: 15
 usc_section: "8532"
 chapter: 111
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "15 U.S.C. § 8532"
-generated_at: "2026-03-30T09:35:58.581Z"
+generated_at: "2026-03-30T09:40:12.897Z"
 status: "active"
 ---
 

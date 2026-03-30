@@ -3,9 +3,9 @@ title: "Section 134 - Simplified acquisition threshold"
 usc_title: 41
 usc_section: "134"
 chapter: 1
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "41 U.S.C. § 134"
-generated_at: "2026-03-30T09:38:05.087Z"
+generated_at: "2026-03-30T09:41:20.186Z"
 status: "active"
 ---
 

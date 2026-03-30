@@ -3,9 +3,9 @@ title: "Section 336 - Issuance of circulating obligations of less than $1"
 usc_title: 18
 usc_section: "336"
 chapter: 17
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "18 U.S.C. § 336"
-generated_at: "2026-03-30T09:36:06.885Z"
+generated_at: "2026-03-30T09:40:16.616Z"
 status: "active"
 ---
 

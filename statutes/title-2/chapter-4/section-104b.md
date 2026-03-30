@@ -3,9 +3,9 @@ title: "Section 104b - Transferred"
 usc_title: 2
 usc_section: "104b"
 chapter: 4
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "2 U.S.C. § 104b"
-generated_at: "2026-03-30T09:35:13.192Z"
+generated_at: "2026-03-30T09:39:45.862Z"
 status: "transferred"
 ---
 

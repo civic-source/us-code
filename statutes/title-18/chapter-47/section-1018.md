@@ -3,9 +3,9 @@ title: "Section 1018 - Official certificates or writings"
 usc_title: 18
 usc_section: "1018"
 chapter: 47
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "18 U.S.C. § 1018"
-generated_at: "2026-03-30T09:36:06.898Z"
+generated_at: "2026-03-30T09:40:16.627Z"
 status: "active"
 ---
 

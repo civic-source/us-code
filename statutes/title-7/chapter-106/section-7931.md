@@ -3,9 +3,9 @@ title: "Section 7931 - Availability of nonrecourse marketing assistance loans fo
 usc_title: 7
 usc_section: "7931"
 chapter: 106
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "7 U.S.C. § 7931"
-generated_at: "2026-03-30T09:35:28.261Z"
+generated_at: "2026-03-30T09:39:57.983Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3301 - Securities fraud offenses"
 usc_title: 18
 usc_section: "3301"
 chapter: 213
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "18 U.S.C. § 3301"
-generated_at: "2026-03-30T09:36:06.926Z"
+generated_at: "2026-03-30T09:40:16.655Z"
 status: "active"
 ---
 

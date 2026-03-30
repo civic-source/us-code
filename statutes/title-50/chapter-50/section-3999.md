@@ -3,9 +3,9 @@ title: "Section 3999 - Regulations"
 usc_title: 50
 usc_section: "3999"
 chapter: 50
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "50 U.S.C. § 3999"
-generated_at: "2026-03-30T09:39:27.955Z"
+generated_at: "2026-03-30T09:42:11.117Z"
 status: "active"
 ---
 

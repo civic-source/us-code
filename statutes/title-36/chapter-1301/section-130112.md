@@ -3,9 +3,9 @@ title: "Section 130112 - Annual report"
 usc_title: 36
 usc_section: "130112"
 chapter: 1301
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "36 U.S.C. § 130112"
-generated_at: "2026-03-30T09:37:38.081Z"
+generated_at: "2026-03-30T09:41:10.312Z"
 status: "active"
 ---
 

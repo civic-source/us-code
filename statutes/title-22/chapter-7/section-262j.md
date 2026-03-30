@@ -3,9 +3,9 @@ title: "Section 262j - Use of renewable resources for energy production"
 usc_title: 22
 usc_section: "262j"
 chapter: 7
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "22 U.S.C. § 262j"
-generated_at: "2026-03-30T09:36:47.788Z"
+generated_at: "2026-03-30T09:40:36.462Z"
 status: "active"
 ---
 

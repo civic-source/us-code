@@ -3,9 +3,9 @@ title: "Section 2004b - Implementation of education, hospital and health facilit
 usc_title: 42
 usc_section: "2004b"
 chapter: 22
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 2004b"
-generated_at: "2026-03-30T09:39:15.001Z"
+generated_at: "2026-03-30T09:41:59.701Z"
 status: "active"
 ---
 

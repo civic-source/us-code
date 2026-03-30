@@ -3,9 +3,9 @@ title: "Section 3131 - Bonds of contractors of public buildings or works"
 usc_title: 40
 usc_section: "3131"
 chapter: 31
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "40 U.S.C. § 3131"
-generated_at: "2026-03-30T09:37:39.613Z"
+generated_at: "2026-03-30T09:41:13.391Z"
 status: "active"
 ---
 

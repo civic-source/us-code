@@ -3,9 +3,9 @@ title: "Section 11704 - Rights and remedies of persons injured by rail carriers"
 usc_title: 49
 usc_section: "11704"
 chapter: 117
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "49 U.S.C. § 11704"
-generated_at: "2026-03-30T09:39:22.600Z"
+generated_at: "2026-03-30T09:42:07.292Z"
 status: "active"
 ---
 

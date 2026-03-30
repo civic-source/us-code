@@ -3,9 +3,9 @@ title: "Section 2697 - Acceptance and use of landing fees charged for use of dom
 usc_title: 10
 usc_section: "2697"
 chapter: 159
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 2697"
-generated_at: "2026-03-30T09:35:23.982Z"
+generated_at: "2026-03-30T09:39:54.643Z"
 status: "active"
 ---
 

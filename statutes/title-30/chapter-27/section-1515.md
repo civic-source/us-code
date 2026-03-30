@@ -3,9 +3,9 @@ title: "Section 1515 - Regulations"
 usc_title: 30
 usc_section: "1515"
 chapter: 27
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "30 U.S.C. § 1515"
-generated_at: "2026-03-30T09:36:50.246Z"
+generated_at: "2026-03-30T09:40:44.687Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4005 - Payment of interest"
 usc_title: 12
 usc_section: "4005"
 chapter: 41
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "12 U.S.C. § 4005"
-generated_at: "2026-03-30T09:35:33.489Z"
+generated_at: "2026-03-30T09:40:04.375Z"
 status: "active"
 ---
 

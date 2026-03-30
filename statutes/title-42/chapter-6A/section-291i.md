@@ -3,9 +3,9 @@ title: "Section 291i - Recovery of expenditures under certain conditions"
 usc_title: 42
 usc_section: "291i"
 chapter: 6
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 291i"
-generated_at: "2026-03-30T09:39:14.729Z"
+generated_at: "2026-03-30T09:41:59.401Z"
 status: "active"
 ---
 

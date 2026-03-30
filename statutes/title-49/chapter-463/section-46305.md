@@ -3,9 +3,9 @@ title: "Section 46305 - Actions to recover civil penalties"
 usc_title: 49
 usc_section: "46305"
 chapter: 463
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "49 U.S.C. § 46305"
-generated_at: "2026-03-30T09:39:22.651Z"
+generated_at: "2026-03-30T09:42:07.347Z"
 status: "active"
 ---
 

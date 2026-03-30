@@ -3,9 +3,9 @@ title: "Section 80c - Liaison between Securities and Exchange Commission and Sma
 usc_title: 15
 usc_section: "80c"
 chapter: 2
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "15 U.S.C. § 80c"
-generated_at: "2026-03-30T09:35:58.404Z"
+generated_at: "2026-03-30T09:40:12.760Z"
 status: "active"
 ---
 

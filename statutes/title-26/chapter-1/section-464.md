@@ -3,9 +3,9 @@ title: "Section 464 - Limitations on deductions for certain farming expenses"
 usc_title: 26
 usc_section: "464"
 chapter: 1
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "26 U.S.C. § 464"
-generated_at: "2026-03-30T09:36:58.325Z"
+generated_at: "2026-03-30T09:41:03.110Z"
 status: "active"
 ---
 

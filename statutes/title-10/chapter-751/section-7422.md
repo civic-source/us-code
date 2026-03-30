@@ -3,9 +3,9 @@ title: "Section 7422 - Degree granting authority for United States Army Armament
 usc_title: 10
 usc_section: "7422"
 chapter: 751
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 7422"
-generated_at: "2026-03-30T09:35:23.994Z"
+generated_at: "2026-03-30T09:39:54.656Z"
 status: "active"
 ---
 

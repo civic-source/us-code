@@ -3,9 +3,9 @@ title: "Section 105 - General provisions applicable to land exchanges"
 usc_title: 16
 usc_section: "105"
 chapter: 1
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 105"
-generated_at: "2026-03-30T09:36:12.697Z"
+generated_at: "2026-03-30T09:40:28.695Z"
 status: "active"
 ---
 

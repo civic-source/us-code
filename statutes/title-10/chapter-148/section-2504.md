@@ -3,9 +3,9 @@ title: "Section 2504 - Annual report to Congress"
 usc_title: 10
 usc_section: "2504"
 chapter: 148
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 2504"
-generated_at: "2026-03-30T09:35:23.973Z"
+generated_at: "2026-03-30T09:39:54.634Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Bureau of the Census"
 usc_title: 13
 usc_section: "2"
 chapter: 1
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "13 U.S.C. § 2"
-generated_at: "2026-03-30T09:35:33.580Z"
+generated_at: "2026-03-30T09:40:00.076Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 541a - Claims located prior to May 25, 1955 ; extra­lateral rig
 usc_title: 30
 usc_section: "541a"
 chapter: 12
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "30 U.S.C. § 541a"
-generated_at: "2026-03-30T09:36:50.225Z"
+generated_at: "2026-03-30T09:40:44.666Z"
 status: "active"
 ---
 

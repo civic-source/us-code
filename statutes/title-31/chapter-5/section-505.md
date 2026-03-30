@@ -3,9 +3,9 @@ title: "Section 505 - Office of Information and Regulatory Affairs"
 usc_title: 31
 usc_section: "505"
 chapter: 5
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "31 U.S.C. § 505"
-generated_at: "2026-03-30T09:37:16.893Z"
+generated_at: "2026-03-30T09:41:06.749Z"
 status: "active"
 ---
 

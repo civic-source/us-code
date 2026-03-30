@@ -3,9 +3,9 @@ title: "Section 110d - Mount Rainier National Park Boundary Adjustment"
 usc_title: 16
 usc_section: "110d"
 chapter: 1
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 110d"
-generated_at: "2026-03-30T09:36:12.621Z"
+generated_at: "2026-03-30T09:40:28.618Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20941 - Establishment"
 usc_title: 52
 usc_section: "20941"
 chapter: 209
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "52 U.S.C. § 20941"
-generated_at: "2026-03-30T09:39:29.675Z"
+generated_at: "2026-03-30T09:42:20.443Z"
 status: "active"
 ---
 

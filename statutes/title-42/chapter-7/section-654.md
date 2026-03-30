@@ -3,9 +3,9 @@ title: "Section 654 - State plan for child and spousal support"
 usc_title: 42
 usc_section: "654"
 chapter: 7
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 654"
-generated_at: "2026-03-30T09:39:14.813Z"
+generated_at: "2026-03-30T09:41:59.495Z"
 status: "active"
 ---
 

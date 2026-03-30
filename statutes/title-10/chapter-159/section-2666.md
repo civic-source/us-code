@@ -3,9 +3,9 @@ title: "Section 2666 - Repealed. Pub. L. 108–375, div. B, title XXVIII, § 282
 usc_title: 10
 usc_section: "2666"
 chapter: 159
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 2666"
-generated_at: "2026-03-30T09:35:23.980Z"
+generated_at: "2026-03-30T09:39:54.641Z"
 status: "repealed"
 ---
 

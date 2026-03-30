@@ -3,9 +3,9 @@ title: "Section 4024 - Technical assistance"
 usc_title: 25
 usc_section: "4024"
 chapter: 42
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "25 U.S.C. § 4024"
-generated_at: "2026-03-30T09:36:30.529Z"
+generated_at: "2026-03-30T09:40:32.505Z"
 status: "active"
 ---
 

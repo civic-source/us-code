@@ -3,9 +3,9 @@ title: "Section 4303 - Effect of submission of unallowable costs"
 usc_title: 41
 usc_section: "4303"
 chapter: 43
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "41 U.S.C. § 4303"
-generated_at: "2026-03-30T09:38:05.094Z"
+generated_at: "2026-03-30T09:41:20.195Z"
 status: "active"
 ---
 

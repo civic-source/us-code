@@ -3,9 +3,9 @@ title: "Section 7571 - Establishment of standards"
 usc_title: 42
 usc_section: "7571"
 chapter: 85
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 7571"
-generated_at: "2026-03-30T09:39:15.147Z"
+generated_at: "2026-03-30T09:41:59.849Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7626 - Aircraft supplies and services: foreign military or air a
 usc_title: 10
 usc_section: "7626"
 chapter: 769
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 7626"
-generated_at: "2026-03-30T09:35:23.996Z"
+generated_at: "2026-03-30T09:39:54.658Z"
 status: "active"
 ---
 

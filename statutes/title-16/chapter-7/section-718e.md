@@ -3,9 +3,9 @@ title: "Section 718e - Loans and transfers, alteration, and reproduction of stam
 usc_title: 16
 usc_section: "718e"
 chapter: 7
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 718e"
-generated_at: "2026-03-30T09:36:12.736Z"
+generated_at: "2026-03-30T09:40:28.735Z"
 status: "active"
 ---
 

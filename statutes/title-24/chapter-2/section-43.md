@@ -3,9 +3,9 @@ title: "Section 43 - Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(1
 usc_title: 24
 usc_section: "43"
 chapter: 2
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "24 U.S.C. § 43"
-generated_at: "2026-03-30T09:36:21.462Z"
+generated_at: "2026-03-30T09:40:30.890Z"
 status: "repealed"
 ---
 

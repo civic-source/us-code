@@ -3,9 +3,9 @@ title: "Section 190108 - Headquarters"
 usc_title: 36
 usc_section: "190108"
 chapter: 1901
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "36 U.S.C. § 190108"
-generated_at: "2026-03-30T09:37:38.087Z"
+generated_at: "2026-03-30T09:41:10.319Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 669c - Allocation and apportionment of available amounts"
 usc_title: 16
 usc_section: "669c"
 chapter: 5
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 669c"
-generated_at: "2026-03-30T09:36:12.728Z"
+generated_at: "2026-03-30T09:40:28.727Z"
 status: "active"
 ---
 

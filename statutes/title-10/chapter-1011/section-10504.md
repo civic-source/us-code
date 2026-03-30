@@ -3,9 +3,9 @@ title: "Section 10504 - Chief of National Guard Bureau: annual reports"
 usc_title: 10
 usc_section: "10504"
 chapter: 1011
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 10504"
-generated_at: "2026-03-30T09:35:24.017Z"
+generated_at: "2026-03-30T09:39:54.679Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 467c - Determination of danger to human life and property"
 usc_title: 33
 usc_section: "467c"
 chapter: 9
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "33 U.S.C. § 467c"
-generated_at: "2026-03-30T09:37:31.553Z"
+generated_at: "2026-03-30T09:41:07.643Z"
 status: "active"
 ---
 

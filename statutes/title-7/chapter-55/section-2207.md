@@ -3,9 +3,9 @@ title: "Section 2207 - Reports"
 usc_title: 7
 usc_section: "2207"
 chapter: 55
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "7 U.S.C. § 2207"
-generated_at: "2026-03-30T09:35:28.194Z"
+generated_at: "2026-03-30T09:39:57.917Z"
 status: "active"
 ---
 

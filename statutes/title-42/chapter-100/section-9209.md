@@ -3,9 +3,9 @@ title: "Section 9209 - Utilization of capabilities and facilities"
 usc_title: 42
 usc_section: "9209"
 chapter: 100
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 9209"
-generated_at: "2026-03-30T09:39:15.177Z"
+generated_at: "2026-03-30T09:41:59.878Z"
 status: "active"
 ---
 

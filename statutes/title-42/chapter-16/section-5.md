@@ -3,9 +3,9 @@ title: "Section 5 - Programs to expand STEM opportunities"
 usc_title: 42
 usc_section: "5"
 chapter: 16
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T09:39:14.990Z"
+generated_at: "2026-03-30T09:41:59.689Z"
 status: "active"
 ---
 

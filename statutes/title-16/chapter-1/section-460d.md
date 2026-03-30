@@ -3,9 +3,9 @@ title: "Section 460d - Construction and operation of public parks and recreation
 usc_title: 16
 usc_section: "460d"
 chapter: 1
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 460d"
-generated_at: "2026-03-30T09:36:12.672Z"
+generated_at: "2026-03-30T09:40:28.672Z"
 status: "active"
 ---
 

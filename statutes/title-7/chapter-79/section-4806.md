@@ -3,9 +3,9 @@ title: "Section 4806 - National Pork Producers Delegate Body"
 usc_title: 7
 usc_section: "4806"
 chapter: 79
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "7 U.S.C. § 4806"
-generated_at: "2026-03-30T09:35:28.218Z"
+generated_at: "2026-03-30T09:39:57.941Z"
 status: "active"
 ---
 

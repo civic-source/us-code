@@ -3,9 +3,9 @@ title: "Section 220103 - Membership"
 usc_title: 36
 usc_section: "220103"
 chapter: 2201
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "36 U.S.C. § 220103"
-generated_at: "2026-03-30T09:37:38.088Z"
+generated_at: "2026-03-30T09:41:10.319Z"
 status: "active"
 ---
 

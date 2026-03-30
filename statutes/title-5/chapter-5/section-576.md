@@ -3,9 +3,9 @@ title: "Section 576 - Enforcement of arbitration agreements"
 usc_title: 5
 usc_section: "576"
 chapter: 5
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "5 U.S.C. § 576"
-generated_at: "2026-03-30T09:35:11.678Z"
+generated_at: "2026-03-30T09:39:44.955Z"
 status: "active"
 ---
 

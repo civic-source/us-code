@@ -3,9 +3,9 @@ title: "Section 2047 - Supersedure of prior provisions for maintenance and opera
 usc_title: 2
 usc_section: "2047"
 chapter: 30
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "2 U.S.C. § 2047"
-generated_at: "2026-03-30T09:35:13.224Z"
+generated_at: "2026-03-30T09:39:45.896Z"
 status: "active"
 ---
 

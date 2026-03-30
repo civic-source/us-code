@@ -3,9 +3,9 @@ title: "Section 19 - Biennial report"
 usc_title: 33
 usc_section: "19"
 chapter: 17
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "33 U.S.C. § 19"
-generated_at: "2026-03-30T09:37:31.566Z"
+generated_at: "2026-03-30T09:41:07.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 27 - Antioch recycled water project"
 usc_title: 43
 usc_section: "27"
 chapter: 12
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "43 U.S.C. § 27"
-generated_at: "2026-03-30T09:38:06.478Z"
+generated_at: "2026-03-30T09:41:20.974Z"
 status: "active"
 ---
 

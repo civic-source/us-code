@@ -3,9 +3,9 @@ title: "Section 636l - Semiannual report"
 usc_title: 15
 usc_section: "636l"
 chapter: 14
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "15 U.S.C. § 636l"
-generated_at: "2026-03-30T09:35:58.453Z"
+generated_at: "2026-03-30T09:40:12.776Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5341 - Donations for Indians; use of gifts; annual report to Con
 usc_title: 25
 usc_section: "5341"
 chapter: 46
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "25 U.S.C. § 5341"
-generated_at: "2026-03-30T09:36:30.539Z"
+generated_at: "2026-03-30T09:40:32.514Z"
 status: "active"
 ---
 

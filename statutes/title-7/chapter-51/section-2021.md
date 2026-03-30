@@ -3,9 +3,9 @@ title: "Section 2021 - Civil penalties and disqualification of retail food store
 usc_title: 7
 usc_section: "2021"
 chapter: 51
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "7 U.S.C. § 2021"
-generated_at: "2026-03-30T09:35:28.184Z"
+generated_at: "2026-03-30T09:39:57.908Z"
 status: "active"
 ---
 

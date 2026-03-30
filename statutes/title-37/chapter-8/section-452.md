@@ -3,9 +3,9 @@ title: "Section 452 - Allowable travel and transportation: general authorities"
 usc_title: 37
 usc_section: "452"
 chapter: 8
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "37 U.S.C. § 452"
-generated_at: "2026-03-30T09:37:40.076Z"
+generated_at: "2026-03-30T09:41:17.780Z"
 status: "active"
 ---
 

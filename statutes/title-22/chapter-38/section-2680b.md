@@ -3,9 +3,9 @@ title: "Section 2680b - Special rules for certain monthly workers’ compensatio
 usc_title: 22
 usc_section: "2680b"
 chapter: 38
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "22 U.S.C. § 2680b"
-generated_at: "2026-03-30T09:36:47.857Z"
+generated_at: "2026-03-30T09:40:36.525Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(1)** prescribe regulations ensuring the fair and equitable implementation of this section; and
   - **(2)** submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives such regulations.
 - **(e)** In this section:
-  - **(1)** The term “covered dependent” means a family member (as defined by the Secretary of State) of a employee who, on or after January 1, 2016 —
+  - **(1)** The term “covered dependent” means a family member (as defined by the Secretary of State) of a 1 1 So in original. Probably should be “an”. employee who, on or after January 1, 2016 —
     - **(A)** accompanies the employee to an assigned duty station in a foreign country under chief of mission authority; and
     - **(B)** becomes injured by reason of a qualifying injury.
   - **(2)** The term “covered employee” means an employee of the Department of State who, on or after January 1, 2016 , becomes injured by reason of a qualifying injury and was assigned to a duty station in the Republic of Cuba, the People’s Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f).

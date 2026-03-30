@@ -3,9 +3,9 @@ title: "Section 1438 - Repealed. Pub. L. 100–627, title II, § 203(1) , Nov. 7
 usc_title: 16
 usc_section: "1438"
 chapter: 32
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 1438"
-generated_at: "2026-03-30T09:36:12.781Z"
+generated_at: "2026-03-30T09:40:28.781Z"
 status: "repealed"
 ---
 

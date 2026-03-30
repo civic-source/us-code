@@ -3,9 +3,9 @@ title: "Section 282a - Staff; Deputy Legislative Counsel; delegation of function
 usc_title: 2
 usc_section: "282a"
 chapter: 9
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "2 U.S.C. § 282a"
-generated_at: "2026-03-30T09:35:13.198Z"
+generated_at: "2026-03-30T09:39:45.868Z"
 status: "active"
 ---
 

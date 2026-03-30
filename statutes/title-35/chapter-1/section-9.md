@@ -3,9 +3,9 @@ title: "Section 9 - Certified copies of records"
 usc_title: 35
 usc_section: "9"
 chapter: 1
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "35 U.S.C. § 9"
-generated_at: "2026-03-30T09:37:18.716Z"
+generated_at: "2026-03-30T09:41:06.915Z"
 status: "active"
 ---
 

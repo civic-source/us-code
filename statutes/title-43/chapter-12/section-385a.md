@@ -3,9 +3,9 @@ title: "Section 385a - Payments to school districts for education of dependents 
 usc_title: 43
 usc_section: "385a"
 chapter: 12
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "43 U.S.C. § 385a"
-generated_at: "2026-03-30T09:38:06.475Z"
+generated_at: "2026-03-30T09:41:20.971Z"
 status: "active"
 ---
 

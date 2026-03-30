@@ -3,9 +3,9 @@ title: "Section 1611 - Postemployment assistance: certain terminated intelligenc
 usc_title: 10
 usc_section: "1611"
 chapter: 83
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 1611"
-generated_at: "2026-03-30T09:35:23.942Z"
+generated_at: "2026-03-30T09:39:54.602Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Establishment"
 usc_title: 7
 usc_section: "2"
 chapter: 50
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T09:35:28.178Z"
+generated_at: "2026-03-30T09:39:57.902Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1115 - Registration on principal register as evidence of exclusi
 usc_title: 15
 usc_section: "1115"
 chapter: 22
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "15 U.S.C. § 1115"
-generated_at: "2026-03-30T09:35:58.487Z"
+generated_at: "2026-03-30T09:40:12.806Z"
 status: "active"
 ---
 

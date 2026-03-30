@@ -3,9 +3,9 @@ title: "Section 2879 - Window fall prevention devices in military family housing
 usc_title: 10
 usc_section: "2879"
 chapter: 169
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 2879"
-generated_at: "2026-03-30T09:35:23.988Z"
+generated_at: "2026-03-30T09:39:54.650Z"
 status: "active"
 ---
 

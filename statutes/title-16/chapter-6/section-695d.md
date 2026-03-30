@@ -3,9 +3,9 @@ title: "Section 695d - Development of water supplies for waterfowl management in
 usc_title: 16
 usc_section: "695d"
 chapter: 6
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 695d"
-generated_at: "2026-03-30T09:36:12.732Z"
+generated_at: "2026-03-30T09:40:28.730Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2202a - Cost-share requirement"
 usc_title: 16
 usc_section: "2202a"
 chapter: 42
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "16 U.S.C. § 2202a"
-generated_at: "2026-03-30T09:36:12.802Z"
+generated_at: "2026-03-30T09:40:28.803Z"
 status: "active"
 ---
 

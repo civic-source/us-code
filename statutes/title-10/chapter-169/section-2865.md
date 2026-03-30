@@ -3,9 +3,9 @@ title: "Section 2865 - Work in Process Curve charts and outlay tables for milita
 usc_title: 10
 usc_section: "2865"
 chapter: 169
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 2865"
-generated_at: "2026-03-30T09:35:23.987Z"
+generated_at: "2026-03-30T09:39:54.649Z"
 status: "active"
 ---
 

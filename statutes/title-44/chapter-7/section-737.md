@@ -3,9 +3,9 @@ title: "Section 737 - Binding for Senate library"
 usc_title: 44
 usc_section: "737"
 chapter: 7
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "44 U.S.C. § 737"
-generated_at: "2026-03-30T09:38:14.049Z"
+generated_at: "2026-03-30T09:41:19.673Z"
 status: "active"
 ---
 

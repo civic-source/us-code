@@ -3,9 +3,9 @@ title: "Section 47504 - Noise compatibility programs"
 usc_title: 49
 usc_section: "47504"
 chapter: 475
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "49 U.S.C. § 47504"
-generated_at: "2026-03-30T09:39:22.658Z"
+generated_at: "2026-03-30T09:42:07.354Z"
 status: "active"
 ---
 

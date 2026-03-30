@@ -3,9 +3,9 @@ title: "Section 7772 - Transfer authority"
 usc_title: 7
 usc_section: "7772"
 chapter: 104
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "7 U.S.C. § 7772"
-generated_at: "2026-03-30T09:35:28.258Z"
+generated_at: "2026-03-30T09:39:57.981Z"
 status: "active"
 ---
 

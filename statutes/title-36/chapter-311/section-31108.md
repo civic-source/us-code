@@ -3,9 +3,9 @@ title: "Section 31108 - Records and inspection"
 usc_title: 36
 usc_section: "31108"
 chapter: 311
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "36 U.S.C. § 31108"
-generated_at: "2026-03-30T09:37:38.077Z"
+generated_at: "2026-03-30T09:41:10.308Z"
 status: "active"
 ---
 

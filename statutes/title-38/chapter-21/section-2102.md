@@ -3,9 +3,9 @@ title: "Section 2102 - Limitations on assistance furnished"
 usc_title: 38
 usc_section: "2102"
 chapter: 21
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "38 U.S.C. § 2102"
-generated_at: "2026-03-30T09:38:03.185Z"
+generated_at: "2026-03-30T09:41:11.786Z"
 status: "active"
 ---
 
@@ -18,15 +18,21 @@ status: "active"
   - **(4)** where the individual has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the individual of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to the individual of such housing unit and the necessary land upon which it is situated.
 - **(b)** Except as provided in section 2104(b) of this title , the assistance authorized by section 2101(b) of this title shall be limited to the lesser of—
   - **(1)** the actual cost, or, in the case of an individual acquiring a residence already adapted with special features, the fair market value, of the adaptations determined by the Secretary under such section 2101(b) to be reasonably necessary, or
-  - **(2)** $12,000.
+  - **(2)** $19,733.
 - **(c)** The amount of assistance afforded under subsection (a) for an individual authorized assistance by section 2101(a) of this title shall not be reduced by reason that title to the housing unit, which is vested in the individual, is also vested in any other person, if the individual resides in the housing unit.
 - **(d)**
-  - **(1)** The aggregate amount of assistance available to an individual under section 2101(a) of this title shall be limited to $63,780.
-  - **(2)** The aggregate amount of assistance available to an individual under section 2101(b) of this title shall be limited to $12,756.
-  - **(3)** No veteran may receive more than three grants of assistance under this chapter.
+  - **(1)** The aggregate amount of assistance available to an individual under section 2101(a) of this title shall be limited to $98,492.
+  - **(2)** The aggregate amount of assistance available to an individual under section 2101(b) of this title shall be limited to $19,733.
+  - **(3)** Subject to subsection (f), no veteran may receive more than six grants of assistance under this chapter.
 - **(e)**
   - **(1)** Effective on October 1 of each year (beginning in 2009), the Secretary shall increase the amounts described in subsection (b)(2) and paragraphs (1) and (2) of subsection (d) in accordance with this subsection.
   - **(2)** The increase in amounts under paragraph (1) to take effect on October 1 of a year shall be by an amount of such amounts equal to the percentage by which—
     - **(A)** the residential home cost-of-construction index for the preceding calendar year, exceeds
     - **(B)** the residential home cost-of-construction index for the year preceding the year described in subparagraph (A).
   - **(3)** The Secretary shall establish a residential home cost-of-construction index for the purposes of this subsection. The index shall reflect a uniform, national average change in the cost of residential home construction, determined on a calendar year basis. The Secretary may use an index developed in the private sector that the Secretary determines is appropriate for purposes of this subsection.
+- **(f)**
+  - **(1)** Beginning October 1, 2030 , notwithstanding the aggregate amounts specified in subsection (d), a covered veteran may apply for and receive an additional amount of assistance under subsection (a) or (b) of section 2101 of this title in an amount that does not exceed half of the amount specified in subsection (d).
+  - **(2)** In this subsection, a covered veteran is a veteran who—
+    - **(A)** is described in subsection (a)(2) or (b)(2) of section 2101 of this title ;
+    - **(B)** as of the date of the veteran’s application for assistance under paragraph (1), most recently received assistance under this chapter more than 10 years before such date; and
+    - **(C)** lives in a home that the Secretary determines does not have adaptations that are reasonably necessary because of the veteran’s disability.

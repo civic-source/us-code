@@ -3,9 +3,9 @@ title: "Section 8451 - Location"
 usc_title: 10
 usc_section: "8451"
 chapter: 853
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "10 U.S.C. § 8451"
-generated_at: "2026-03-30T09:35:24.002Z"
+generated_at: "2026-03-30T09:39:54.664Z"
 status: "active"
 ---
 

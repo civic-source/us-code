@@ -3,9 +3,9 @@ title: "Section 8372 - Repealed. Pub. L. 100–42, § 1(a)(3) , (4), May 21, 198
 usc_title: 42
 usc_section: "8372"
 chapter: 92
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 8372"
-generated_at: "2026-03-30T09:39:15.168Z"
+generated_at: "2026-03-30T09:41:59.869Z"
 status: "repealed"
 ---
 

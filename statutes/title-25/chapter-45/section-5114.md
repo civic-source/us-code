@@ -3,9 +3,9 @@ title: "Section 5114 - Interest charges covered into revolving fund"
 usc_title: 25
 usc_section: "5114"
 chapter: 45
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "25 U.S.C. § 5114"
-generated_at: "2026-03-30T09:36:30.534Z"
+generated_at: "2026-03-30T09:40:32.511Z"
 status: "active"
 ---
 

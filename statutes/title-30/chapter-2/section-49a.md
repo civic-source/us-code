@@ -3,9 +3,9 @@ title: "Section 49a - Mining laws of United States extended to Alaska; explorati
 usc_title: 30
 usc_section: "49a"
 chapter: 2
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "30 U.S.C. § 49a"
-generated_at: "2026-03-30T09:36:50.216Z"
+generated_at: "2026-03-30T09:40:44.658Z"
 status: "active"
 ---
 

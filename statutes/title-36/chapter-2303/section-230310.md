@@ -3,9 +3,9 @@ title: "Section 230310 - Service of process"
 usc_title: 36
 usc_section: "230310"
 chapter: 2303
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "36 U.S.C. § 230310"
-generated_at: "2026-03-30T09:37:38.090Z"
+generated_at: "2026-03-30T09:41:10.322Z"
 status: "active"
 ---
 

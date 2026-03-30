@@ -3,9 +3,9 @@ title: "Section 109 - Who may be a debtor"
 usc_title: 11
 usc_section: "109"
 chapter: 1
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "11 U.S.C. § 109"
-generated_at: "2026-03-30T09:35:34.658Z"
+generated_at: "2026-03-30T09:40:01.434Z"
 status: "active"
 ---
 

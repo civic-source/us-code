@@ -3,9 +3,9 @@ title: "Section 6211 - Repealed. Pub. L. 106–469, title I, § 103(1) , Nov. 9,
 usc_title: 42
 usc_section: "6211"
 chapter: 77
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "42 U.S.C. § 6211"
-generated_at: "2026-03-30T09:39:15.083Z"
+generated_at: "2026-03-30T09:41:59.787Z"
 status: "repealed"
 ---
 

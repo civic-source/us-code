@@ -3,9 +3,9 @@ title: "Section 1862 - Congressional oversight"
 usc_title: 50
 usc_section: "1862"
 chapter: 36
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "50 U.S.C. § 1862"
-generated_at: "2026-03-30T09:39:27.906Z"
+generated_at: "2026-03-30T09:42:11.071Z"
 status: "active"
 ---
 

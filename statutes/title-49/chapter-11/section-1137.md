@@ -3,9 +3,9 @@ title: "Section 1137 - Authority of the Inspector General"
 usc_title: 49
 usc_section: "1137"
 chapter: 11
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "49 U.S.C. § 1137"
-generated_at: "2026-03-30T09:39:22.583Z"
+generated_at: "2026-03-30T09:42:07.275Z"
 status: "active"
 ---
 

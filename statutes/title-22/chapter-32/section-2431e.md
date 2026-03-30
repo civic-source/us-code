@@ -3,9 +3,9 @@ title: "Section 2431e - Reduction of debt owed to United States as result of cre
 usc_title: 22
 usc_section: "2431e"
 chapter: 32
-current_through: "PL 116-152"
+current_through: "PL 116-155"
 classification: "22 U.S.C. § 2431e"
-generated_at: "2026-03-30T09:36:47.849Z"
+generated_at: "2026-03-30T09:40:36.517Z"
 status: "active"
 ---
 
