@@ -3,9 +3,9 @@ title: "Section 1717a - Prohibition against sale of obligations by Federal depar
 usc_title: 12
 usc_section: "1717a"
 chapter: 13
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "12 U.S.C. § 1717a"
-generated_at: "2026-03-30T01:50:36.059Z"
+generated_at: "2026-03-30T01:52:58.324Z"
 ---
 
 # § 1717a. Prohibition against sale of obligations by Federal departments and agencies after June 30, 1966 , without compliance with requirements of section 1717(c) of this title or without approval by Secretary of the Treasury; exemption

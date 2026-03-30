@@ -3,9 +3,9 @@ title: "Section 747 - Public property transferred; “control” defined"
 usc_title: 48
 usc_section: "747"
 chapter: 4
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "48 U.S.C. § 747"
-generated_at: "2026-03-30T01:51:54.406Z"
+generated_at: "2026-03-30T01:55:01.611Z"
 ---
 
 # § 747. Public property transferred; “control” defined

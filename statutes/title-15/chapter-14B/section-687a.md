@@ -3,9 +3,9 @@ title: "Section 687a - Revocation and suspension of licenses; cease and desist o
 usc_title: 15
 usc_section: "687a"
 chapter: 14
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 687a"
-generated_at: "2026-03-30T01:50:38.878Z"
+generated_at: "2026-03-30T01:53:03.805Z"
 ---
 
 # § 687a. Revocation and suspension of licenses; cease and desist orders

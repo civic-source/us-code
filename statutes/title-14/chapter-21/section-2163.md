@@ -3,9 +3,9 @@ title: "Section 2163 - Removal of officer from active duty; action by Secretary"
 usc_title: 14
 usc_section: "2163"
 chapter: 21
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "14 U.S.C. § 2163"
-generated_at: "2026-03-30T01:50:29.691Z"
+generated_at: "2026-03-30T01:53:06.360Z"
 ---
 
 # § 2163. Removal of officer from active duty; action by Secretary

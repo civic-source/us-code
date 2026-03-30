@@ -3,9 +3,9 @@ title: "Section 422c - Ascertaining and marking of lines of battle"
 usc_title: 16
 usc_section: "422c"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 422c"
-generated_at: "2026-03-30T01:50:50.166Z"
+generated_at: "2026-03-30T01:53:13.153Z"
 ---
 
 # § 422c. Ascertaining and marking of lines of battle

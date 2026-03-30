@@ -3,9 +3,9 @@ title: "Section 5 - Section 612c funds for purchase of fruits, vegetables, and n
 usc_title: 7
 usc_section: "5"
 chapter: 26
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T01:50:10.914Z"
+generated_at: "2026-03-30T01:52:47.472Z"
 ---
 
 # § 612c–5. Section 612c funds for purchase of fruits, vegetables, and nuts to support domestic nutrition assistance programs

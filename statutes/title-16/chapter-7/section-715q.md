@@ -3,9 +3,9 @@ title: "Section 715q - Expenses of commission; authorization of appropriations"
 usc_title: 16
 usc_section: "715q"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 715q"
-generated_at: "2026-03-30T01:50:50.249Z"
+generated_at: "2026-03-30T01:53:13.230Z"
 ---
 
 # § 715q. Expenses of commission; authorization of appropriations

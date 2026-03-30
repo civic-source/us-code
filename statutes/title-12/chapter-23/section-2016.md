@@ -3,9 +3,9 @@ title: "Section 2016 - Interest rates and other charges"
 usc_title: 12
 usc_section: "2016"
 chapter: 23
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "12 U.S.C. § 2016"
-generated_at: "2026-03-30T01:50:36.104Z"
+generated_at: "2026-03-30T01:52:58.366Z"
 ---
 
 # § 2016. Interest rates and other charges

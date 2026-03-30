@@ -3,9 +3,9 @@ title: "Section 1401 - Pesticide monitoring and enforcement information"
 usc_title: 21
 usc_section: "1401"
 chapter: 19
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "21 U.S.C. § 1401"
-generated_at: "2026-03-30T01:50:58.511Z"
+generated_at: "2026-03-30T01:53:24.808Z"
 ---
 
 # § 1401. Pesticide monitoring and enforcement information

@@ -3,9 +3,9 @@ title: "Section 4102 - Penalty"
 usc_title: 14
 usc_section: "4102"
 chapter: 41
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "14 U.S.C. § 4102"
-generated_at: "2026-03-30T01:50:29.695Z"
+generated_at: "2026-03-30T01:53:06.364Z"
 ---
 
 # § 4102. Penalty

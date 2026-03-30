@@ -3,9 +3,9 @@ title: "Section 5003 - Custody of State offenders"
 usc_title: 18
 usc_section: "5003"
 chapter: 401
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "18 U.S.C. § 5003"
-generated_at: "2026-03-30T01:50:45.916Z"
+generated_at: "2026-03-30T01:53:21.400Z"
 ---
 
 # § 5003. Custody of State offenders

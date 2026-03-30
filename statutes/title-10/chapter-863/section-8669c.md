@@ -3,9 +3,9 @@ title: "Section 8669c - Assessments required prior to start of construction on f
 usc_title: 10
 usc_section: "8669c"
 chapter: 863
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 8669c"
-generated_at: "2026-03-30T01:50:26.008Z"
+generated_at: "2026-03-30T01:52:52.543Z"
 ---
 
 # § 8669c. Assessments required prior to start of construction on first ship of a shipbuilding program

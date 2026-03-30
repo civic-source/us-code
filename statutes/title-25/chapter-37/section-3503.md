@@ -3,9 +3,9 @@ title: "Section 3503 - Indian tribal energy resource regulation"
 usc_title: 25
 usc_section: "3503"
 chapter: 37
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "25 U.S.C. § 3503"
-generated_at: "2026-03-30T01:51:06.025Z"
+generated_at: "2026-03-30T01:53:25.788Z"
 ---
 
 # § 3503. Indian tribal energy resource regulation

@@ -3,9 +3,9 @@ title: "Section 32 - Filing of documents with Commission in civil actions"
 usc_title: 15
 usc_section: "32"
 chapter: 2
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 32"
-generated_at: "2026-03-30T01:50:38.839Z"
+generated_at: "2026-03-30T01:53:03.766Z"
 ---
 
 # § 80a–32. Filing of documents with Commission in civil actions

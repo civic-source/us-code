@@ -3,9 +3,9 @@ title: "Section 44723 - Annual report"
 usc_title: 49
 usc_section: "44723"
 chapter: 447
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "49 U.S.C. § 44723"
-generated_at: "2026-03-30T01:51:58.904Z"
+generated_at: "2026-03-30T01:55:07.861Z"
 ---
 
 # § 44723. Annual report

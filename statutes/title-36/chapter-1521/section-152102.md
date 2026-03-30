@@ -3,9 +3,9 @@ title: "Section 152102 - Organization"
 usc_title: 36
 usc_section: "152102"
 chapter: 1521
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "36 U.S.C. § 152102"
-generated_at: "2026-03-30T01:51:25.263Z"
+generated_at: "2026-03-30T01:54:08.609Z"
 ---
 
 # § 152102. Organization

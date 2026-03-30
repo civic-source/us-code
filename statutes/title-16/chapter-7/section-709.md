@@ -3,9 +3,9 @@ title: "Section 709 - Omitted"
 usc_title: 16
 usc_section: "709"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 709"
-generated_at: "2026-03-30T01:50:50.248Z"
+generated_at: "2026-03-30T01:53:13.230Z"
 ---
 
 # § 709. Omitted

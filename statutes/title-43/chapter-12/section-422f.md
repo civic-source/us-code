@@ -3,9 +3,9 @@ title: "Section 422f - Proposals for projects previously authorized; waiver of r
 usc_title: 43
 usc_section: "422f"
 chapter: 12
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "43 U.S.C. § 422f"
-generated_at: "2026-03-30T01:51:32.529Z"
+generated_at: "2026-03-30T01:54:29.401Z"
 ---
 
 # § 422f. Proposals for projects previously authorized; waiver of requirements; approval; negotiation of contract

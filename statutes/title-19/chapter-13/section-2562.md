@@ -3,9 +3,9 @@ title: "Section 2562 - Consideration of standards-related activities by an inter
 usc_title: 19
 usc_section: "2562"
 chapter: 13
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "19 U.S.C. § 2562"
-generated_at: "2026-03-30T01:50:42.817Z"
+generated_at: "2026-03-30T01:53:16.060Z"
 ---
 
 # § 2562. Consideration of standards-related activities by an international forum

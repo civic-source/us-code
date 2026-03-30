@@ -3,9 +3,9 @@ title: "Section 4980E - Failure of employer to make comparable Archer MSA contri
 usc_title: 26
 usc_section: "4980E"
 chapter: 43
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 4980E"
-generated_at: "2026-03-30T01:51:17.902Z"
+generated_at: "2026-03-30T01:53:45.454Z"
 ---
 
 # § 4980E. Failure of employer to make comparable Archer MSA contributions

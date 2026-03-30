@@ -3,9 +3,9 @@ title: "Section 3344a - Training to promote sensible classification"
 usc_title: 50
 usc_section: "3344a"
 chapter: 45
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "50 U.S.C. § 3344a"
-generated_at: "2026-03-30T01:51:56.396Z"
+generated_at: "2026-03-30T01:55:03.854Z"
 ---
 
 # § 3344a. Training to promote sensible classification

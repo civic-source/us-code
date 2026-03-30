@@ -3,9 +3,9 @@ title: "Section 3504 - General authorities; fiscal requirement for authorities"
 usc_title: 22
 usc_section: "3504"
 chapter: 50
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 3504"
-generated_at: "2026-03-30T01:50:56.562Z"
+generated_at: "2026-03-30T01:53:29.280Z"
 ---
 
 # § 3504. General authorities; fiscal requirement for authorities

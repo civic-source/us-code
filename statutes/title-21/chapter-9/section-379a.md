@@ -3,9 +3,9 @@ title: "Section 379a - Presumption of existence of jurisdiction"
 usc_title: 21
 usc_section: "379a"
 chapter: 9
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "21 U.S.C. § 379a"
-generated_at: "2026-03-30T01:50:58.475Z"
+generated_at: "2026-03-30T01:53:24.774Z"
 ---
 
 # § 379a. Presumption of existence of jurisdiction

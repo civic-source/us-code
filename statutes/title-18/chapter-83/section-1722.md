@@ -3,9 +3,9 @@ title: "Section 1722 - False evidence to secure second-class rate"
 usc_title: 18
 usc_section: "1722"
 chapter: 83
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "18 U.S.C. § 1722"
-generated_at: "2026-03-30T01:50:45.882Z"
+generated_at: "2026-03-30T01:53:21.366Z"
 ---
 
 # § 1722. False evidence to secure second-class rate

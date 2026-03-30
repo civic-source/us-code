@@ -3,9 +3,9 @@ title: "Section 19e - Water infrastructure and workforce investment"
 usc_title: 42
 usc_section: "19e"
 chapter: 6
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 19e"
-generated_at: "2026-03-30T01:51:50.264Z"
+generated_at: "2026-03-30T01:54:58.049Z"
 ---
 
 # § 300j–19e. Water infrastructure and workforce investment

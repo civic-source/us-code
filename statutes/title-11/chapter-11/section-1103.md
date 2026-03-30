@@ -3,9 +3,9 @@ title: "Section 1103 - Powers and duties of committees"
 usc_title: 11
 usc_section: "1103"
 chapter: 11
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "11 U.S.C. § 1103"
-generated_at: "2026-03-30T01:50:30.410Z"
+generated_at: "2026-03-30T01:52:56.401Z"
 ---
 
 # § 1103. Powers and duties of committees

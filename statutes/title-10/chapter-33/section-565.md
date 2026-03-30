@@ -3,9 +3,9 @@ title: "Section 565 - Repealed. Pub. L. 102–190, div. A, title XI, § 1112(a) 
 usc_title: 10
 usc_section: "565"
 chapter: 33
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 565"
-generated_at: "2026-03-30T01:50:25.868Z"
+generated_at: "2026-03-30T01:52:52.414Z"
 ---
 
 # [§§ 555 to 565. Repealed. Pub. L. 102–190, div. A, title XI, § 1112(a) , Dec. 5, 1991 , 105 Stat. 1492 ]

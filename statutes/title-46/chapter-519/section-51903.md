@@ -3,9 +3,9 @@ title: "Section 51903 - Multiple awards"
 usc_title: 46
 usc_section: "51903"
 chapter: 519
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "46 U.S.C. § 51903"
-generated_at: "2026-03-30T01:52:00.233Z"
+generated_at: "2026-03-30T01:55:15.761Z"
 ---
 
 # § 51903. Multiple awards

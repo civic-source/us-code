@@ -3,9 +3,9 @@ title: "Section 552 - Officers aiding importation of obscene or treasonous books
 usc_title: 18
 usc_section: "552"
 chapter: 27
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "18 U.S.C. § 552"
-generated_at: "2026-03-30T01:50:45.862Z"
+generated_at: "2026-03-30T01:53:21.347Z"
 ---
 
 # § 552. Officers aiding importation of obscene or treasonous books and articles

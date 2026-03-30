@@ -3,9 +3,9 @@ title: "Section 2118 - Robberies and burglaries involving controlled substances"
 usc_title: 18
 usc_section: "2118"
 chapter: 103
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "18 U.S.C. § 2118"
-generated_at: "2026-03-30T01:50:45.886Z"
+generated_at: "2026-03-30T01:53:21.370Z"
 ---
 
 # § 2118. Robberies and burglaries involving controlled substances

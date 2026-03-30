@@ -3,9 +3,9 @@ title: "Section 4231 - Definitions"
 usc_title: 33
 usc_section: "4231"
 chapter: 55
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 4231"
-generated_at: "2026-03-30T01:51:22.625Z"
+generated_at: "2026-03-30T01:54:02.361Z"
 ---
 
 # § 4231. Definitions

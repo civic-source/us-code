@@ -3,9 +3,9 @@ title: "Section 776 - Transferred"
 usc_title: 33
 usc_section: "776"
 chapter: 16
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 776"
-generated_at: "2026-03-30T01:51:22.548Z"
+generated_at: "2026-03-30T01:54:02.292Z"
 ---
 
 # § 776. Transferred

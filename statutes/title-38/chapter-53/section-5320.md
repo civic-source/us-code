@@ -3,9 +3,9 @@ title: "Section 5320 - Threshold for reporting debts to consumer reporting agenc
 usc_title: 38
 usc_section: "5320"
 chapter: 53
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "38 U.S.C. § 5320"
-generated_at: "2026-03-30T01:51:28.245Z"
+generated_at: "2026-03-30T01:54:16.115Z"
 ---
 
 # § 5320. Threshold for reporting debts to consumer reporting agencies

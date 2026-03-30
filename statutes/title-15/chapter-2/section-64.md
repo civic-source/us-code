@@ -3,9 +3,9 @@ title: "Section 64 - Unfair methods of competition in export trade"
 usc_title: 15
 usc_section: "64"
 chapter: 2
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 64"
-generated_at: "2026-03-30T01:50:38.801Z"
+generated_at: "2026-03-30T01:53:03.727Z"
 ---
 
 # § 64. Unfair methods of competition in export trade

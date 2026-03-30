@@ -3,9 +3,9 @@ title: "Section 603 - Government owned cotton; transfer to Secretary of Agricult
 usc_title: 7
 usc_section: "603"
 chapter: 26
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 603"
-generated_at: "2026-03-30T01:50:10.910Z"
+generated_at: "2026-03-30T01:52:47.469Z"
 ---
 
 # § 603. Government owned cotton; transfer to Secretary of Agriculture; powers of Secretary

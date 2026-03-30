@@ -3,9 +3,9 @@ title: "Section 251b - Exchange of lands"
 usc_title: 16
 usc_section: "251b"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 251b"
-generated_at: "2026-03-30T01:50:50.132Z"
+generated_at: "2026-03-30T01:53:13.122Z"
 ---
 
 # § 251b. Exchange of lands

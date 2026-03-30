@@ -3,9 +3,9 @@ title: "Section 3704 - United States-Sub-Saharan Africa Trade and Economic Coope
 usc_title: 19
 usc_section: "3704"
 chapter: 23
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "19 U.S.C. § 3704"
-generated_at: "2026-03-30T01:50:42.828Z"
+generated_at: "2026-03-30T01:53:16.071Z"
 ---
 
 # § 3704. United States-Sub-Saharan Africa Trade and Economic Cooperation Forum

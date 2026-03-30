@@ -3,9 +3,9 @@ title: "Section 6e - Overtime compensation based on standard or daylight saving 
 usc_title: 19
 usc_section: "6e"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "19 U.S.C. § 6e"
-generated_at: "2026-03-30T01:50:42.768Z"
+generated_at: "2026-03-30T01:53:16.013Z"
 ---
 
 # § 6e. Overtime compensation based on standard or daylight saving time

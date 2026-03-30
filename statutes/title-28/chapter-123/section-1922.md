@@ -3,9 +3,9 @@ title: "Section 1922 - Witness fees before United States magistrate judges"
 usc_title: 28
 usc_section: "1922"
 chapter: 123
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "28 U.S.C. § 1922"
-generated_at: "2026-03-30T01:51:09.468Z"
+generated_at: "2026-03-30T01:53:40.574Z"
 ---
 
 # § 1922. Witness fees before United States magistrate judges

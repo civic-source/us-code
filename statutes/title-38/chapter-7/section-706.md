@@ -3,9 +3,9 @@ title: "Section 706 - Additional authority relating to recruitment and retention
 usc_title: 38
 usc_section: "706"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "38 U.S.C. § 706"
-generated_at: "2026-03-30T01:51:28.189Z"
+generated_at: "2026-03-30T01:54:16.068Z"
 ---
 
 # § 706. Additional authority relating to recruitment and retention of personnel

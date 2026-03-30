@@ -3,9 +3,9 @@ title: "Section 9554 - Study and report"
 usc_title: 15
 usc_section: "9554"
 chapter: 120
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 9554"
-generated_at: "2026-03-30T01:50:39.012Z"
+generated_at: "2026-03-30T01:53:03.941Z"
 ---
 
 # § 9554. Study and report

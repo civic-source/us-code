@@ -3,9 +3,9 @@ title: "Section 702 - Government Accountability Office"
 usc_title: 31
 usc_section: "702"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "31 U.S.C. § 702"
-generated_at: "2026-03-30T01:51:20.737Z"
+generated_at: "2026-03-30T01:53:51.229Z"
 ---
 
 # § 702. Government Accountability Office

@@ -3,9 +3,9 @@ title: "Section 522 - Definitions"
 usc_title: 47
 usc_section: "522"
 chapter: 5
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "47 U.S.C. § 522"
-generated_at: "2026-03-30T01:51:54.964Z"
+generated_at: "2026-03-30T01:55:11.392Z"
 ---
 
 # § 522. Definitions

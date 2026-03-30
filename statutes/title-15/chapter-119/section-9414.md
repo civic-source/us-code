@@ -3,9 +3,9 @@ title: "Section 9414 - National Artificial Intelligence Advisory Committee"
 usc_title: 15
 usc_section: "9414"
 chapter: 119
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 9414"
-generated_at: "2026-03-30T01:50:39.009Z"
+generated_at: "2026-03-30T01:53:03.939Z"
 ---
 
 # § 9414. National Artificial Intelligence Advisory Committee

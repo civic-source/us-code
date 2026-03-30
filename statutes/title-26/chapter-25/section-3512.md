@@ -3,9 +3,9 @@ title: "Section 3512 - Treatment of certain persons as employers with respect to
 usc_title: 26
 usc_section: "3512"
 chapter: 25
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 3512"
-generated_at: "2026-03-30T01:51:17.887Z"
+generated_at: "2026-03-30T01:53:45.438Z"
 ---
 
 # § 3512. Treatment of certain persons as employers with respect to motion picture projects

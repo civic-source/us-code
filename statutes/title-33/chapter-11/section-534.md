@@ -3,9 +3,9 @@ title: "Section 534 - Conveyance of right, title, and interest of United States 
 usc_title: 33
 usc_section: "534"
 chapter: 11
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 534"
-generated_at: "2026-03-30T01:51:22.537Z"
+generated_at: "2026-03-30T01:54:02.281Z"
 ---
 
 # § 534. Conveyance of right, title, and interest of United States in bridges transferred to States or political subdivisions; terms and conditions

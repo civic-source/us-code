@@ -3,9 +3,9 @@ title: "Section 413 - Duty of United States attorneys and other Federal officers
 usc_title: 33
 usc_section: "413"
 chapter: 9
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 413"
-generated_at: "2026-03-30T01:51:22.532Z"
+generated_at: "2026-03-30T01:54:02.275Z"
 ---
 
 # § 413. Duty of United States attorneys and other Federal officers in enforcement of provisions; arrest of offenders

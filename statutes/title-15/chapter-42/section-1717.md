@@ -3,9 +3,9 @@ title: "Section 1717 - Penalties for violations"
 usc_title: 15
 usc_section: "1717"
 chapter: 42
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 1717"
-generated_at: "2026-03-30T01:50:38.924Z"
+generated_at: "2026-03-30T01:53:03.852Z"
 ---
 
 # § 1717. Penalties for violations

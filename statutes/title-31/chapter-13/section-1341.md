@@ -3,9 +3,9 @@ title: "Section 1341 - Limitations on expending and obligating amounts"
 usc_title: 31
 usc_section: "1341"
 chapter: 13
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "31 U.S.C. § 1341"
-generated_at: "2026-03-30T01:51:20.743Z"
+generated_at: "2026-03-30T01:53:51.234Z"
 ---
 
 # § 1341. Limitations on expending and obligating amounts

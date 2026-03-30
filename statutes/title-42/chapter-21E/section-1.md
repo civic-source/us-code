@@ -3,9 +3,9 @@ title: "Section 1 - Privacy and civil liberties officers"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:51:50.594Z"
+generated_at: "2026-03-30T01:54:58.346Z"
 ---
 
 # § 2000ee–1. Privacy and civil liberties officers

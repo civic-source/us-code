@@ -3,9 +3,9 @@ title: "Section 4557 - Withholding of charitable contributions by Chief Administ
 usc_title: 2
 usc_section: "4557"
 chapter: 45
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "2 U.S.C. § 4557"
-generated_at: "2026-03-30T01:49:52.129Z"
+generated_at: "2026-03-30T01:52:27.383Z"
 ---
 
 # § 4557. Withholding of charitable contributions by Chief Administrative Officer of House

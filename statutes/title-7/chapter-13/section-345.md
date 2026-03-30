@@ -3,9 +3,9 @@ title: "Section 345 - Replacement of diminished, lost or misapplied funds; restr
 usc_title: 7
 usc_section: "345"
 chapter: 13
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 345"
-generated_at: "2026-03-30T01:50:10.904Z"
+generated_at: "2026-03-30T01:52:47.463Z"
 ---
 
 # § 345. Replacement of diminished, lost or misapplied funds; restrictions on use; reports of colleges

@@ -3,9 +3,9 @@ title: "Section 10461 - Grants"
 usc_title: 34
 usc_section: "10461"
 chapter: 101
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "34 U.S.C. § 10461"
-generated_at: "2026-03-30T01:51:21.463Z"
+generated_at: "2026-03-30T01:53:55.370Z"
 ---
 
 # § 10461. Grants

@@ -3,9 +3,9 @@ title: "Section 13284 - Cost-sharing"
 usc_title: 42
 usc_section: "13284"
 chapter: 134
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 13284"
-generated_at: "2026-03-30T01:51:50.878Z"
+generated_at: "2026-03-30T01:54:58.643Z"
 ---
 
 # § 13284. Cost-sharing

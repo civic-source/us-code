@@ -3,9 +3,9 @@ title: "Section 8622 - Definitions"
 usc_title: 42
 usc_section: "8622"
 chapter: 94
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 8622"
-generated_at: "2026-03-30T01:51:50.785Z"
+generated_at: "2026-03-30T01:54:58.555Z"
 ---
 
 # § 8622. Definitions

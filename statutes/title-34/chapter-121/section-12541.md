@@ -3,9 +3,9 @@ title: "Section 12541 - Rural Crime and Drug Enforcement Task Forces"
 usc_title: 34
 usc_section: "12541"
 chapter: 121
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "34 U.S.C. § 12541"
-generated_at: "2026-03-30T01:51:21.484Z"
+generated_at: "2026-03-30T01:53:55.393Z"
 ---
 
 # § 12541. Rural Crime and Drug Enforcement Task Forces

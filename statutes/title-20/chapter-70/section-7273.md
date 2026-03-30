@@ -3,9 +3,9 @@ title: "Section 7273 - Program authorized"
 usc_title: 20
 usc_section: "7273"
 chapter: 70
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 7273"
-generated_at: "2026-03-30T01:50:44.939Z"
+generated_at: "2026-03-30T01:53:18.056Z"
 ---
 
 # § 7273. Program authorized

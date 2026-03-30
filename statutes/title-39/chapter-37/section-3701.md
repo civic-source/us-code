@@ -3,9 +3,9 @@ title: "Section 3701 - Purpose"
 usc_title: 39
 usc_section: "3701"
 chapter: 37
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "39 U.S.C. § 3701"
-generated_at: "2026-03-30T01:51:24.598Z"
+generated_at: "2026-03-30T01:54:04.160Z"
 ---
 
 # § 3701. Purpose

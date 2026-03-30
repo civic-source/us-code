@@ -3,9 +3,9 @@ title: "Section 5335 - National transit database"
 usc_title: 49
 usc_section: "5335"
 chapter: 53
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "49 U.S.C. § 5335"
-generated_at: "2026-03-30T01:51:58.835Z"
+generated_at: "2026-03-30T01:55:07.796Z"
 ---
 
 # § 5335. National transit database

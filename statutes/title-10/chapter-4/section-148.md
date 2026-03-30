@@ -3,9 +3,9 @@ title: "Section 148 - Joint Energetics Transition Office"
 usc_title: 10
 usc_section: "148"
 chapter: 4
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 148"
-generated_at: "2026-03-30T01:50:25.846Z"
+generated_at: "2026-03-30T01:52:52.395Z"
 ---
 
 # § 148. Joint Energetics Transition Office

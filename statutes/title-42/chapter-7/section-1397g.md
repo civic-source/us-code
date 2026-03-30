@@ -3,9 +3,9 @@ title: "Section 1397g - Demonstration projects to address health professions wor
 usc_title: 42
 usc_section: "1397g"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 1397g"
-generated_at: "2026-03-30T01:51:50.524Z"
+generated_at: "2026-03-30T01:54:58.281Z"
 ---
 
 # § 1397g. Demonstration projects to address health professions workforce needs

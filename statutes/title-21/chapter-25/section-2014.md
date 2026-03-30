@@ -3,9 +3,9 @@ title: "Section 2014 - Authorization of appropriations"
 usc_title: 21
 usc_section: "2014"
 chapter: 25
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "21 U.S.C. § 2014"
-generated_at: "2026-03-30T01:50:58.518Z"
+generated_at: "2026-03-30T01:53:24.814Z"
 ---
 
 # § 2014. Authorization of appropriations

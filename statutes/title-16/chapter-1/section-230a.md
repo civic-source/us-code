@@ -3,9 +3,9 @@ title: "Section 230a - Acquisition of property"
 usc_title: 16
 usc_section: "230a"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 230a"
-generated_at: "2026-03-30T01:50:50.131Z"
+generated_at: "2026-03-30T01:53:13.121Z"
 ---
 
 # § 230a. Acquisition of property

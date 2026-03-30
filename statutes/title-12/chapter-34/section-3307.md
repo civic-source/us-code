@@ -3,9 +3,9 @@ title: "Section 3307 - Administration"
 usc_title: 12
 usc_section: "3307"
 chapter: 34
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "12 U.S.C. § 3307"
-generated_at: "2026-03-30T01:50:36.123Z"
+generated_at: "2026-03-30T01:52:58.386Z"
 ---
 
 # § 3307. Administration

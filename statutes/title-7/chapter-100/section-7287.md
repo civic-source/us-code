@@ -3,9 +3,9 @@ title: "Section 7287 - Commodity Credit Corporation storage payments"
 usc_title: 7
 usc_section: "7287"
 chapter: 100
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 7287"
-generated_at: "2026-03-30T01:50:11.042Z"
+generated_at: "2026-03-30T01:52:47.589Z"
 ---
 
 # § 7287. Commodity Credit Corporation storage payments

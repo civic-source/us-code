@@ -3,9 +3,9 @@ title: "Section 661f - Effect on other laws"
 usc_title: 2
 usc_section: "661f"
 chapter: 17
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "2 U.S.C. § 661f"
-generated_at: "2026-03-30T01:49:52.101Z"
+generated_at: "2026-03-30T01:52:27.352Z"
 ---
 
 # § 661f. Effect on other laws

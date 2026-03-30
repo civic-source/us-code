@@ -3,9 +3,9 @@ title: "Section 523 - Unlawful disclosure of information"
 usc_title: 49
 usc_section: "523"
 chapter: 5
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "49 U.S.C. § 523"
-generated_at: "2026-03-30T01:51:58.818Z"
+generated_at: "2026-03-30T01:55:07.781Z"
 ---
 
 # § 523. Unlawful disclosure of information

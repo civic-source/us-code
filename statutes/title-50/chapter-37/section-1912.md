@@ -3,9 +3,9 @@ title: "Section 1912 - Funding for scholarship program for advanced English lang
 usc_title: 50
 usc_section: "1912"
 chapter: 37
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "50 U.S.C. § 1912"
-generated_at: "2026-03-30T01:51:56.359Z"
+generated_at: "2026-03-30T01:55:03.817Z"
 ---
 
 # § 1912. Funding for scholarship program for advanced English language studies by heritage community citizens

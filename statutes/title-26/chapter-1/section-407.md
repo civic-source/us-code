@@ -3,9 +3,9 @@ title: "Section 407 - Certain employees of domestic subsidiaries engaged in busi
 usc_title: 26
 usc_section: "407"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 407"
-generated_at: "2026-03-30T01:51:17.789Z"
+generated_at: "2026-03-30T01:53:45.330Z"
 ---
 
 # § 407. Certain employees of domestic subsidiaries engaged in business outside the United States

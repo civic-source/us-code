@@ -3,9 +3,9 @@ title: "Section 657u - Lender Oversight Committee"
 usc_title: 15
 usc_section: "657u"
 chapter: 14
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 657u"
-generated_at: "2026-03-30T01:50:38.876Z"
+generated_at: "2026-03-30T01:53:03.803Z"
 ---
 
 # § 657u. Lender Oversight Committee

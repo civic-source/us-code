@@ -3,9 +3,9 @@ title: "Section 283 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 15
 usc_section: "283"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 283"
-generated_at: "2026-03-30T01:50:38.851Z"
+generated_at: "2026-03-30T01:53:03.778Z"
 ---
 
 # § 283. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 655 , 656

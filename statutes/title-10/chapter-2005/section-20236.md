@@ -3,9 +3,9 @@ title: "Section 20236 - Competitive categories"
 usc_title: 10
 usc_section: "20236"
 chapter: 2005
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 20236"
-generated_at: "2026-03-30T01:50:26.038Z"
+generated_at: "2026-03-30T01:52:52.571Z"
 ---
 
 # § 20236. Competitive categories

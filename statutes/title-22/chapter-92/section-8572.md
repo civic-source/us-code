@@ -3,9 +3,9 @@ title: "Section 8572 - Imposition of sanctions with respect to Iranian petroleum
 usc_title: 22
 usc_section: "8572"
 chapter: 92
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 8572"
-generated_at: "2026-03-30T01:50:56.624Z"
+generated_at: "2026-03-30T01:53:29.336Z"
 ---
 
 # § 8572. Imposition of sanctions with respect to Iranian petroleum

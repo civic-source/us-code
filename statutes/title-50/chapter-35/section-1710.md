@@ -3,9 +3,9 @@ title: "Section 1710 - Confronting asymmetric and malicious cyber activities"
 usc_title: 50
 usc_section: "1710"
 chapter: 35
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "50 U.S.C. § 1710"
-generated_at: "2026-03-30T01:51:56.350Z"
+generated_at: "2026-03-30T01:55:03.808Z"
 ---
 
 # § 1710. Confronting asymmetric and malicious cyber activities

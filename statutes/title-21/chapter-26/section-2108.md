@@ -3,9 +3,9 @@ title: "Section 2108 - Annual report to Congress"
 usc_title: 21
 usc_section: "2108"
 chapter: 26
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "21 U.S.C. § 2108"
-generated_at: "2026-03-30T01:50:58.518Z"
+generated_at: "2026-03-30T01:53:24.814Z"
 ---
 
 # § 2108. Annual report to Congress

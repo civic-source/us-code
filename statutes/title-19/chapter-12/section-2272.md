@@ -3,9 +3,9 @@ title: "Section 2272 - Group eligibility requirements"
 usc_title: 19
 usc_section: "2272"
 chapter: 12
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "19 U.S.C. § 2272"
-generated_at: "2026-03-30T01:50:42.807Z"
+generated_at: "2026-03-30T01:53:16.050Z"
 ---
 
 # § 2272. Group eligibility requirements

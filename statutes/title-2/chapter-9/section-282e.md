@@ -3,9 +3,9 @@ title: "Section 282e - Authorization of appropriations"
 usc_title: 2
 usc_section: "282e"
 chapter: 9
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "2 U.S.C. § 282e"
-generated_at: "2026-03-30T01:49:52.093Z"
+generated_at: "2026-03-30T01:52:27.343Z"
 ---
 
 # § 282e. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 62 - Transferred"
 usc_title: 2
 usc_section: "62"
 chapter: 4
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "2 U.S.C. § 62"
-generated_at: "2026-03-30T01:49:52.083Z"
+generated_at: "2026-03-30T01:52:27.334Z"
 ---
 
 # § 62. Transferred

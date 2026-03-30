@@ -3,9 +3,9 @@ title: "Section 2605 - Enforcement"
 usc_title: 33
 usc_section: "2605"
 chapter: 39
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 2605"
-generated_at: "2026-03-30T01:51:22.605Z"
+generated_at: "2026-03-30T01:54:02.344Z"
 ---
 
 # § 2605. Enforcement

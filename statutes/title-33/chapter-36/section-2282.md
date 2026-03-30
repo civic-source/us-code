@@ -3,9 +3,9 @@ title: "Section 2282 - Feasibility reports"
 usc_title: 33
 usc_section: "2282"
 chapter: 36
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 2282"
-generated_at: "2026-03-30T01:51:22.593Z"
+generated_at: "2026-03-30T01:54:02.334Z"
 ---
 
 # § 2282. Feasibility reports

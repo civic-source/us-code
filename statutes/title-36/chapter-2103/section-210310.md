@@ -3,9 +3,9 @@ title: "Section 210310 - Records and inspection"
 usc_title: 36
 usc_section: "210310"
 chapter: 2103
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "36 U.S.C. § 210310"
-generated_at: "2026-03-30T01:51:25.268Z"
+generated_at: "2026-03-30T01:54:08.613Z"
 ---
 
 # § 210310. Records and inspection

@@ -3,9 +3,9 @@ title: "Section 952 - Subpart F income defined"
 usc_title: 26
 usc_section: "952"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 952"
-generated_at: "2026-03-30T01:51:17.846Z"
+generated_at: "2026-03-30T01:53:45.391Z"
 ---
 
 # § 952. Subpart F income defined

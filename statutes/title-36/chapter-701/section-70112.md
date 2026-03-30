@@ -3,9 +3,9 @@ title: "Section 70112 - Annual report"
 usc_title: 36
 usc_section: "70112"
 chapter: 701
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "36 U.S.C. § 70112"
-generated_at: "2026-03-30T01:51:25.258Z"
+generated_at: "2026-03-30T01:54:08.603Z"
 ---
 
 # § 70112. Annual report

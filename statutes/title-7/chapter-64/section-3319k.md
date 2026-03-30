@@ -3,9 +3,9 @@ title: "Section 3319k - Agriculture Advanced Research and Development Authority 
 usc_title: 7
 usc_section: "3319k"
 chapter: 64
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 3319k"
-generated_at: "2026-03-30T01:50:11.004Z"
+generated_at: "2026-03-30T01:52:47.555Z"
 ---
 
 # § 3319k. Agriculture Advanced Research and Development Authority pilot

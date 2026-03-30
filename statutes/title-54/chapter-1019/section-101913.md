@@ -3,9 +3,9 @@ title: "Section 101913 - Award of concession contracts"
 usc_title: 54
 usc_section: "101913"
 chapter: 1019
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "54 U.S.C. § 101913"
-generated_at: "2026-03-30T01:52:03.622Z"
+generated_at: "2026-03-30T01:55:25.266Z"
 ---
 
 # § 101913. Award of concession contracts

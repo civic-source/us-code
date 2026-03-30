@@ -3,9 +3,9 @@ title: "Section 44813 - Center of Excellence for Unmanned Aircraft Systems"
 usc_title: 49
 usc_section: "44813"
 chapter: 448
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "49 U.S.C. § 44813"
-generated_at: "2026-03-30T01:51:58.907Z"
+generated_at: "2026-03-30T01:55:07.865Z"
 ---
 
 # § 44813. Center of Excellence for Unmanned Aircraft Systems

@@ -3,9 +3,9 @@ title: "Section 368b - Transferred"
 usc_title: 7
 usc_section: "368b"
 chapter: 14
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 368b"
-generated_at: "2026-03-30T01:50:10.905Z"
+generated_at: "2026-03-30T01:52:47.464Z"
 ---
 
 # §§ 368 to 368b. Transferred

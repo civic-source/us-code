@@ -3,9 +3,9 @@ title: "Section 8904 - Types of benefits"
 usc_title: 5
 usc_section: "8904"
 chapter: 89
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "5 U.S.C. § 8904"
-generated_at: "2026-03-30T01:50:03.082Z"
+generated_at: "2026-03-30T01:52:30.168Z"
 ---
 
 # § 8904. Types of benefits

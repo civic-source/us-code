@@ -3,9 +3,9 @@ title: "Section 2008b - Socially disadvantaged farmers and ranchers; qualified b
 usc_title: 7
 usc_section: "2008b"
 chapter: 50
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 2008b"
-generated_at: "2026-03-30T01:50:10.966Z"
+generated_at: "2026-03-30T01:52:47.520Z"
 ---
 
 # § 2008b. Socially disadvantaged farmers and ranchers; qualified beginning farmers and ranchers

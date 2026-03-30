@@ -3,9 +3,9 @@ title: "Section 1402 - Duties of Commission"
 usc_title: 16
 usc_section: "1402"
 chapter: 31
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 1402"
-generated_at: "2026-03-30T01:50:50.295Z"
+generated_at: "2026-03-30T01:53:13.277Z"
 ---
 
 # § 1402. Duties of Commission

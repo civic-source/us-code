@@ -3,9 +3,9 @@ title: "Section 11283 - Repealed. Pub. L. 100–607, title I, § 142(c)(1)(A) , 
 usc_title: 42
 usc_section: "11283"
 chapter: 118
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 11283"
-generated_at: "2026-03-30T01:51:50.833Z"
+generated_at: "2026-03-30T01:54:58.604Z"
 ---
 
 # § 11283. Repealed. Pub. L. 100–607, title I, § 142(c)(1)(A) , Nov. 4, 1988 , 102 Stat. 3057

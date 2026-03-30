@@ -3,9 +3,9 @@ title: "Section 1405 - Creation or alteration of district or division"
 usc_title: 28
 usc_section: "1405"
 chapter: 87
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "28 U.S.C. § 1405"
-generated_at: "2026-03-30T01:51:09.463Z"
+generated_at: "2026-03-30T01:53:40.569Z"
 ---
 
 # § 1405. Creation or alteration of district or division

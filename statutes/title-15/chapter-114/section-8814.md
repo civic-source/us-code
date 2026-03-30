@@ -3,9 +3,9 @@ title: "Section 8814 - National Quantum Initiative Advisory Committee"
 usc_title: 15
 usc_section: "8814"
 chapter: 114
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 8814"
-generated_at: "2026-03-30T01:50:38.997Z"
+generated_at: "2026-03-30T01:53:03.926Z"
 ---
 
 # § 8814. National Quantum Initiative Advisory Committee

@@ -3,9 +3,9 @@ title: "Section 3504 - Limitations on Federal expenditures affecting the System"
 usc_title: 16
 usc_section: "3504"
 chapter: 55
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 3504"
-generated_at: "2026-03-30T01:50:50.335Z"
+generated_at: "2026-03-30T01:53:13.315Z"
 ---
 
 # § 3504. Limitations on Federal expenditures affecting the System
@@ -17,3 +17,4 @@ generated_at: "2026-03-30T01:50:50.335Z"
 - **(b)** An expenditure or financial assistance made available under authority of Federal law shall, for purposes of this chapter, be a new expenditure or new financial assistance if—
   - **(1)** in any case with respect to which specific appropriations are required, no money for construction or purchase purposes was appropriated before the date on which the relevant System unit or portion of the System unit was included within the System under this chapter or the Coastal Barrier Improvement Act of 1990; or
   - **(2)** no legally binding commitment for the expenditure or financial assistance was made before such date.
+- **(c)** Not later than 2 years after November 25, 2024 , the Secretary, in consultation with the Secretary of Housing and Urban Development, shall issue regulations requiring the owner or lessor of real property located in a community affected by this chapter, as determined by the Director of the United States Fish and Wildlife Service, to disclose to a prospective buyer or lessee such location of such real property.

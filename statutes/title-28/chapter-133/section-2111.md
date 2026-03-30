@@ -3,9 +3,9 @@ title: "Section 2111 - Harmless error"
 usc_title: 28
 usc_section: "2111"
 chapter: 133
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "28 U.S.C. § 2111"
-generated_at: "2026-03-30T01:51:09.469Z"
+generated_at: "2026-03-30T01:53:40.575Z"
 ---
 
 # § 2111. Harmless error

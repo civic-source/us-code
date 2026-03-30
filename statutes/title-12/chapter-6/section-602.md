@@ -3,9 +3,9 @@ title: "Section 602 - Reports and examinations"
 usc_title: 12
 usc_section: "602"
 chapter: 6
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "12 U.S.C. § 602"
-generated_at: "2026-03-30T01:50:36.020Z"
+generated_at: "2026-03-30T01:52:58.284Z"
 ---
 
 # § 602. Reports and examinations

@@ -3,9 +3,9 @@ title: "Section 1011 - Oath of office"
 usc_title: 39
 usc_section: "1011"
 chapter: 10
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "39 U.S.C. § 1011"
-generated_at: "2026-03-30T01:51:24.592Z"
+generated_at: "2026-03-30T01:54:04.154Z"
 ---
 
 # § 1011. Oath of office

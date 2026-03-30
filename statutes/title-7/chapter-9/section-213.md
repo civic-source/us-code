@@ -3,9 +3,9 @@ title: "Section 213 - Prevention of unfair, discriminatory, or deceptive practic
 usc_title: 7
 usc_section: "213"
 chapter: 9
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 213"
-generated_at: "2026-03-30T01:50:10.900Z"
+generated_at: "2026-03-30T01:52:47.460Z"
 ---
 
 # § 213. Prevention of unfair, discriminatory, or deceptive practices

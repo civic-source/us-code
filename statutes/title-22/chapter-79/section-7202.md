@@ -3,9 +3,9 @@ title: "Section 7202 - Restriction"
 usc_title: 22
 usc_section: "7202"
 chapter: 79
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 7202"
-generated_at: "2026-03-30T01:50:56.608Z"
+generated_at: "2026-03-30T01:53:29.322Z"
 ---
 
 # § 7202. Restriction

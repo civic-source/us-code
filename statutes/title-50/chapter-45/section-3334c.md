@@ -3,9 +3,9 @@ title: "Section 3334c - Assessment of homeland security vulnerabilities associat
 usc_title: 50
 usc_section: "3334c"
 chapter: 45
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "50 U.S.C. § 3334c"
-generated_at: "2026-03-30T01:51:56.394Z"
+generated_at: "2026-03-30T01:55:03.852Z"
 ---
 
 # § 3334c. Assessment of homeland security vulnerabilities associated with certain retired and former personnel of the intelligence community

@@ -3,9 +3,9 @@ title: "Section 1451 - Extra compensation 1 1 See Codification note below."
 usc_title: 19
 usc_section: "1451"
 chapter: 4
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "19 U.S.C. § 1451"
-generated_at: "2026-03-30T01:50:42.778Z"
+generated_at: "2026-03-30T01:53:16.023Z"
 ---
 
 # § 1451. Extra compensation 1 1 See Codification note below.

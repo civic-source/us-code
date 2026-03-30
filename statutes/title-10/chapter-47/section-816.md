@@ -3,9 +3,9 @@ title: "Section 816 - Art. 16. Courts-martial classified"
 usc_title: 10
 usc_section: "816"
 chapter: 47
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 816"
-generated_at: "2026-03-30T01:50:25.877Z"
+generated_at: "2026-03-30T01:52:52.422Z"
 ---
 
 # § 816. Art. 16. Courts-martial classified

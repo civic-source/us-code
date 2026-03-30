@@ -3,9 +3,9 @@ title: "Section 1153 - Retirement Savings Lost and Found"
 usc_title: 29
 usc_section: "1153"
 chapter: 18
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "29 U.S.C. § 1153"
-generated_at: "2026-03-30T01:51:12.000Z"
+generated_at: "2026-03-30T01:53:32.993Z"
 ---
 
 # § 1153. Retirement Savings Lost and Found

@@ -3,9 +3,9 @@ title: "Section 3056m - Report on service to minority individuals"
 usc_title: 42
 usc_section: "3056m"
 chapter: 35
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 3056m"
-generated_at: "2026-03-30T01:51:50.631Z"
+generated_at: "2026-03-30T01:54:58.389Z"
 ---
 
 # § 3056m. Report on service to minority individuals

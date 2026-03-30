@@ -3,9 +3,9 @@ title: "Section 22 - Credit for the elderly and the permanently and totally disa
 usc_title: 26
 usc_section: "22"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 22"
-generated_at: "2026-03-30T01:51:17.713Z"
+generated_at: "2026-03-30T01:53:45.252Z"
 ---
 
 # § 22. Credit for the elderly and the permanently and totally disabled

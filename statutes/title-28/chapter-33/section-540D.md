@@ -3,9 +3,9 @@ title: "Section 540D - Multidisciplinary teams"
 usc_title: 28
 usc_section: "540D"
 chapter: 33
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "28 U.S.C. § 540D"
-generated_at: "2026-03-30T01:51:09.452Z"
+generated_at: "2026-03-30T01:53:40.561Z"
 ---
 
 # § 540D. Multidisciplinary teams

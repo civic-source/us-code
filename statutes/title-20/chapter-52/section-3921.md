@@ -3,9 +3,9 @@ title: "Section 3921 - Prohibition against the Federal control of education"
 usc_title: 20
 usc_section: "3921"
 chapter: 52
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 3921"
-generated_at: "2026-03-30T01:50:44.912Z"
+generated_at: "2026-03-30T01:53:18.023Z"
 ---
 
 # § 3921. Prohibition against the Federal control of education

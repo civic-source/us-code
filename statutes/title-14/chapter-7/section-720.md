@@ -3,9 +3,9 @@ title: "Section 720 - VHF communications services"
 usc_title: 14
 usc_section: "720"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "14 U.S.C. § 720"
-generated_at: "2026-03-30T01:50:29.683Z"
+generated_at: "2026-03-30T01:53:06.354Z"
 ---
 
 # § 720. VHF communications services

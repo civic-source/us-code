@@ -3,9 +3,9 @@ title: "Section 6977 - Grants or contracts for training projects"
 usc_title: 42
 usc_section: "6977"
 chapter: 82
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 6977"
-generated_at: "2026-03-30T01:51:50.722Z"
+generated_at: "2026-03-30T01:54:58.492Z"
 ---
 
 # § 6977. Grants or contracts for training projects

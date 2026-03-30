@@ -3,9 +3,9 @@ title: "Section 580 - Use of Forest Service appropriations for repair, etc. of e
 usc_title: 16
 usc_section: "580"
 chapter: 3
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 580"
-generated_at: "2026-03-30T01:50:50.231Z"
+generated_at: "2026-03-30T01:53:13.214Z"
 ---
 
 # § 580. Use of Forest Service appropriations for repair, etc. of equipment; rental of fire control equipment to non-Federal agencies

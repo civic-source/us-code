@@ -3,9 +3,9 @@ title: "Section 12491 - Housing protections for victims of domestic violence, da
 usc_title: 34
 usc_section: "12491"
 chapter: 121
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "34 U.S.C. § 12491"
-generated_at: "2026-03-30T01:51:21.482Z"
+generated_at: "2026-03-30T01:53:55.391Z"
 ---
 
 # § 12491. Housing protections for victims of domestic violence, dating violence, sexual assault, and stalking

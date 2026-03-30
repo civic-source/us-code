@@ -3,9 +3,9 @@ title: "Section 6393 - Administrative procedure and judicial review"
 usc_title: 42
 usc_section: "6393"
 chapter: 77
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 6393"
-generated_at: "2026-03-30T01:51:50.707Z"
+generated_at: "2026-03-30T01:54:58.473Z"
 ---
 
 # § 6393. Administrative procedure and judicial review

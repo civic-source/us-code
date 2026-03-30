@@ -3,9 +3,9 @@ title: "Section 7802 - Appointment or designation of United States Commissioners
 usc_title: 16
 usc_section: "7802"
 chapter: 97
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 7802"
-generated_at: "2026-03-30T01:50:50.376Z"
+generated_at: "2026-03-30T01:53:13.353Z"
 ---
 
 # § 7802. Appointment or designation of United States Commissioners

@@ -3,9 +3,9 @@ title: "Section 7703 - Establishment and management of the Millennium Challenge 
 usc_title: 22
 usc_section: "7703"
 chapter: 84
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 7703"
-generated_at: "2026-03-30T01:50:56.614Z"
+generated_at: "2026-03-30T01:53:29.327Z"
 ---
 
 # § 7703. Establishment and management of the Millennium Challenge Corporation

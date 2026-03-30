@@ -3,9 +3,9 @@ title: "Section 9301 - Definitions"
 usc_title: 46
 usc_section: "9301"
 chapter: 93
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "46 U.S.C. § 9301"
-generated_at: "2026-03-30T01:52:00.212Z"
+generated_at: "2026-03-30T01:55:15.744Z"
 ---
 
 # § 9301. Definitions

@@ -3,9 +3,9 @@ title: "Section 5601 - Representation of United States under Convention"
 usc_title: 16
 usc_section: "5601"
 chapter: 76
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 5601"
-generated_at: "2026-03-30T01:50:50.358Z"
+generated_at: "2026-03-30T01:53:13.336Z"
 ---
 
 # § 5601. Representation of United States under Convention

@@ -3,9 +3,9 @@ title: "Section 2672a - Alternate United States Commissioners for international 
 usc_title: 22
 usc_section: "2672a"
 chapter: 38
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 2672a"
-generated_at: "2026-03-30T01:50:56.544Z"
+generated_at: "2026-03-30T01:53:29.263Z"
 ---
 
 # § 2672a. Alternate United States Commissioners for international fisheries commissions

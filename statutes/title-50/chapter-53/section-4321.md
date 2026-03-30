@@ -3,9 +3,9 @@ title: "Section 4321 - Payment of taxes and expenses by Alien Property Custodian
 usc_title: 50
 usc_section: "4321"
 chapter: 53
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "50 U.S.C. § 4321"
-generated_at: "2026-03-30T01:51:56.421Z"
+generated_at: "2026-03-30T01:55:03.879Z"
 ---
 
 # § 4321. Payment of taxes and expenses by Alien Property Custodian

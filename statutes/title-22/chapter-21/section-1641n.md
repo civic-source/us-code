@@ -3,9 +3,9 @@ title: "Section 1641n - Appropriations"
 usc_title: 22
 usc_section: "1641n"
 chapter: 21
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 1641n"
-generated_at: "2026-03-30T01:50:56.505Z"
+generated_at: "2026-03-30T01:53:29.225Z"
 ---
 
 # § 1641n. Appropriations

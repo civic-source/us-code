@@ -3,9 +3,9 @@ title: "Section 2306 - Headstones, markers, and burial receptacles"
 usc_title: 38
 usc_section: "2306"
 chapter: 23
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "38 U.S.C. § 2306"
-generated_at: "2026-03-30T01:51:28.214Z"
+generated_at: "2026-03-30T01:54:16.091Z"
 ---
 
 # § 2306. Headstones, markers, and burial receptacles
@@ -47,10 +47,9 @@ generated_at: "2026-03-30T01:51:28.214Z"
     - **(A)** In carrying out this subsection with respect to a deceased individual described in subparagraph (C), the Secretary shall furnish, upon request, a headstone or marker under paragraph (1) or a medallion under paragraph (4) that signifies the deceased’s status as a medal of honor recipient.
     - **(B)** If the Secretary furnished a headstone, marker, or medallion under paragraph (1) or (4) for a deceased individual described in subparagraph (C) that does not signify the deceased’s status as a medal of honor recipient, the Secretary shall, upon request, replace such headstone, marker, or medallion with a headstone, marker, or medallion, as the case may be, that so signifies the deceased’s status as a medal of honor recipient.
     - **(C)** A deceased individual described in this subparagraph is a deceased individual who—
-      - **(i)** served in the Armed Forces on or after April 6, 1917 ;
-      - **(ii)** is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
-      - **(iii)** was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References in Text note below. of title 14 (including posthumously).
-    - **(D)** In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 of title 14.
+      - **(i)** is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (except that subparagraph (B)(i) of such paragraph shall not apply) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
+      - **(ii)** was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 2732 of title 14 (including posthumously).
+    - **(D)** In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 2732 of title 14 .
 - **(e)**
   - **(1)**
     - **(A)** The Secretary of Veterans Affairs may provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration, or in a cemetery that is the subject of a grant to a State or a tribal organization under section 2408 of this title , in which remains are interred in a casket.

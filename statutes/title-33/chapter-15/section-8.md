@@ -3,9 +3,9 @@ title: "Section 8 - Additional roads; construction by United States"
 usc_title: 33
 usc_section: "8"
 chapter: 15
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 8"
-generated_at: "2026-03-30T01:51:22.546Z"
+generated_at: "2026-03-30T01:54:02.290Z"
 ---
 
 # § 702a–8. Additional roads; construction by United States

@@ -3,9 +3,9 @@ title: "Section 32 - Rancho California Water District project, California"
 usc_title: 43
 usc_section: "32"
 chapter: 12
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "43 U.S.C. § 32"
-generated_at: "2026-03-30T01:51:32.527Z"
+generated_at: "2026-03-30T01:54:29.398Z"
 ---
 
 # § 390h–32. Rancho California Water District project, California

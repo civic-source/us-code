@@ -3,9 +3,9 @@ title: "Section 6807 - Petition and review"
 usc_title: 7
 usc_section: "6807"
 chapter: 97
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 6807"
-generated_at: "2026-03-30T01:50:11.033Z"
+generated_at: "2026-03-30T01:52:47.581Z"
 ---
 
 # § 6807. Petition and review

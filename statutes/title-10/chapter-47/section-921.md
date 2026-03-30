@@ -3,9 +3,9 @@ title: "Section 921 - Art. 121. Larceny and wrongful appropriation"
 usc_title: 10
 usc_section: "921"
 chapter: 47
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 921"
-generated_at: "2026-03-30T01:50:25.883Z"
+generated_at: "2026-03-30T01:52:52.429Z"
 ---
 
 # § 921. Art. 121. Larceny and wrongful appropriation

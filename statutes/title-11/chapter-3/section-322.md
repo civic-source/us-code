@@ -3,9 +3,9 @@ title: "Section 322 - Qualification of trustee"
 usc_title: 11
 usc_section: "322"
 chapter: 3
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "11 U.S.C. § 322"
-generated_at: "2026-03-30T01:50:30.401Z"
+generated_at: "2026-03-30T01:52:56.391Z"
 ---
 
 # § 322. Qualification of trustee

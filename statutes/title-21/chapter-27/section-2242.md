@@ -3,9 +3,9 @@ title: "Section 2242 - Foreign offices of the Food and Drug Administration"
 usc_title: 21
 usc_section: "2242"
 chapter: 27
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "21 U.S.C. § 2242"
-generated_at: "2026-03-30T01:50:58.520Z"
+generated_at: "2026-03-30T01:53:24.815Z"
 ---
 
 # § 2242. Foreign offices of the Food and Drug Administration

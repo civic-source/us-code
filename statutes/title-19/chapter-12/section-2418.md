@@ -3,9 +3,9 @@ title: "Section 2418 - Request for information"
 usc_title: 19
 usc_section: "2418"
 chapter: 12
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "19 U.S.C. § 2418"
-generated_at: "2026-03-30T01:50:42.812Z"
+generated_at: "2026-03-30T01:53:16.054Z"
 ---
 
 # § 2418. Request for information

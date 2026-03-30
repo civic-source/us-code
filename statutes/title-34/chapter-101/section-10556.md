@@ -3,9 +3,9 @@ title: "Section 10556 - Rules of construction"
 usc_title: 34
 usc_section: "10556"
 chapter: 101
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "34 U.S.C. § 10556"
-generated_at: "2026-03-30T01:51:21.465Z"
+generated_at: "2026-03-30T01:53:55.373Z"
 ---
 
 # § 10556. Rules of construction

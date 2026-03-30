@@ -3,9 +3,9 @@ title: "Section 152912 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "152912"
 chapter: 1529
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "36 U.S.C. § 152912"
-generated_at: "2026-03-30T01:51:25.266Z"
+generated_at: "2026-03-30T01:54:08.610Z"
 ---
 
 # § 152912. Liability for acts of officers and agents

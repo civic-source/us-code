@@ -3,14 +3,14 @@ title: "Section 506 - Grants to States for reemployment services and eligibility
 usc_title: 42
 usc_section: "506"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 506"
-generated_at: "2026-03-30T01:51:50.339Z"
+generated_at: "2026-03-30T01:54:58.108Z"
 ---
 
 # § 506. Grants to States for reemployment services and eligibility assessments
 
-- **(a)** The Secretary of Labor (in this section referred to as the “Secretary”) shall award grants under this section for a fiscal year to eligible States to conduct a program of reemployment services and eligibility assessments for individuals referred to reemployment services as described in section 503(j) of this title for weeks in such fiscal year for which such individuals receive unemployment compensation.
+- **(a)** The Secretary of Labor (in this section referred to as the “Secretary”) shall award grants under this section for a fiscal year to eligible States to conduct a program of reemployment services and eligibility assessments for claimants for regular compensation, including claimants referred to reemployment services as described in section 503(j) of this title , for weeks in such fiscal year for which such claimants receive unemployment compensation.
 - **(b)** The purposes of this section are to accomplish the following goals:
   - **(1)** To improve employment outcomes of individuals that receive unemployment compensation and to reduce the average duration of receipt of such compensation through employment.
   - **(2)** To strengthen program integrity and reduce improper payments of unemployment compensation by States through the detection and prevention of such payments to individuals who are not eligible for such compensation.

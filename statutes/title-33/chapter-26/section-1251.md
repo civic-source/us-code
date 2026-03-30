@@ -3,9 +3,9 @@ title: "Section 1251 - Congressional declaration of goals and policy"
 usc_title: 33
 usc_section: "1251"
 chapter: 26
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 1251"
-generated_at: "2026-03-30T01:51:22.557Z"
+generated_at: "2026-03-30T01:54:02.300Z"
 ---
 
 # § 1251. Congressional declaration of goals and policy

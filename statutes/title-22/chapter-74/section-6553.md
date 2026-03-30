@@ -3,9 +3,9 @@ title: "Section 6553 - Continuation of United States Advisory Commission on Publ
 usc_title: 22
 usc_section: "6553"
 chapter: 74
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 6553"
-generated_at: "2026-03-30T01:50:56.600Z"
+generated_at: "2026-03-30T01:53:29.314Z"
 ---
 
 # § 6553. Continuation of United States Advisory Commission on Public Diplomacy

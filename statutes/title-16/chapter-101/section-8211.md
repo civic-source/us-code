@@ -3,9 +3,9 @@ title: "Section 8211 - Nonapplicability of Federal Advisory Committee Act"
 usc_title: 16
 usc_section: "8211"
 chapter: 101
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 8211"
-generated_at: "2026-03-30T01:50:50.378Z"
+generated_at: "2026-03-30T01:53:13.356Z"
 ---
 
 # § 8211. Nonapplicability of Federal Advisory Committee Act

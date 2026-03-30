@@ -3,9 +3,9 @@ title: "Section 1301 - Alien seeking entry; contents"
 usc_title: 8
 usc_section: "1301"
 chapter: 12
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "8 U.S.C. § 1301"
-generated_at: "2026-03-30T01:50:20.703Z"
+generated_at: "2026-03-30T01:52:48.218Z"
 ---
 
 # § 1301. Alien seeking entry; contents

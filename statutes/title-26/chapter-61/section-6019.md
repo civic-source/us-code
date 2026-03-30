@@ -3,9 +3,9 @@ title: "Section 6019 - Gift tax returns"
 usc_title: 26
 usc_section: "6019"
 chapter: 61
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 6019"
-generated_at: "2026-03-30T01:51:17.915Z"
+generated_at: "2026-03-30T01:53:45.468Z"
 ---
 
 # § 6019. Gift tax returns

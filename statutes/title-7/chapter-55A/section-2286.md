@@ -3,9 +3,9 @@ title: "Section 2286 - Termination of committees"
 usc_title: 7
 usc_section: "2286"
 chapter: 55
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 2286"
-generated_at: "2026-03-30T01:50:10.992Z"
+generated_at: "2026-03-30T01:52:47.543Z"
 ---
 
 # § 2286. Termination of committees

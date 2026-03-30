@@ -3,9 +3,9 @@ title: "Section 4114 - Return of transferred offenders"
 usc_title: 18
 usc_section: "4114"
 chapter: 306
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "18 U.S.C. § 4114"
-generated_at: "2026-03-30T01:50:45.914Z"
+generated_at: "2026-03-30T01:53:21.398Z"
 ---
 
 # § 4114. Return of transferred offenders

@@ -3,9 +3,9 @@ title: "Section 12214 - Officers; Air Force Reserve: transfer from Air National 
 usc_title: 10
 usc_section: "12214"
 chapter: 1205
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 12214"
-generated_at: "2026-03-30T01:50:26.027Z"
+generated_at: "2026-03-30T01:52:52.560Z"
 ---
 
 # § 12214. Officers; Air Force Reserve: transfer from Air National Guard of the United States

@@ -3,9 +3,9 @@ title: "Section 1269 - Regulations"
 usc_title: 15
 usc_section: "1269"
 chapter: 30
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 1269"
-generated_at: "2026-03-30T01:50:38.899Z"
+generated_at: "2026-03-30T01:53:03.826Z"
 ---
 
 # § 1269. Regulations

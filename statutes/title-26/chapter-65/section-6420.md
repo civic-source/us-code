@@ -3,9 +3,9 @@ title: "Section 6420 - Gasoline used on farms"
 usc_title: 26
 usc_section: "6420"
 chapter: 65
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 6420"
-generated_at: "2026-03-30T01:51:17.935Z"
+generated_at: "2026-03-30T01:53:45.491Z"
 ---
 
 # § 6420. Gasoline used on farms

@@ -3,9 +3,9 @@ title: "Section 631 - Declaration of policy"
 usc_title: 15
 usc_section: "631"
 chapter: 14
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 631"
-generated_at: "2026-03-30T01:50:38.854Z"
+generated_at: "2026-03-30T01:53:03.780Z"
 ---
 
 # § 631. Declaration of policy

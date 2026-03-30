@@ -3,9 +3,9 @@ title: "Section 1327 - Judicial review procedures"
 usc_title: 41
 usc_section: "1327"
 chapter: 13
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "41 U.S.C. § 1327"
-generated_at: "2026-03-30T01:51:30.214Z"
+generated_at: "2026-03-30T01:54:18.157Z"
 ---
 
 # § 1327. Judicial review procedures

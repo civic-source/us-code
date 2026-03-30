@@ -3,9 +3,9 @@ title: "Section 4321 - Board of Advisers"
 usc_title: 18
 usc_section: "4321"
 chapter: 317
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "18 U.S.C. § 4321"
-generated_at: "2026-03-30T01:50:45.915Z"
+generated_at: "2026-03-30T01:53:21.400Z"
 ---
 
 # § 4321. Board of Advisers

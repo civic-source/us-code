@@ -3,9 +3,9 @@ title: "Section 49 - Construction with other laws"
 usc_title: 15
 usc_section: "49"
 chapter: 2
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 49"
-generated_at: "2026-03-30T01:50:38.840Z"
+generated_at: "2026-03-30T01:53:03.767Z"
 ---
 
 # § 80a–49. Construction with other laws

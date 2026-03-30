@@ -3,9 +3,9 @@ title: "Section 4323 - Appropriate congressional committees defined"
 usc_title: 19
 usc_section: "4323"
 chapter: 28
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "19 U.S.C. § 4323"
-generated_at: "2026-03-30T01:50:42.838Z"
+generated_at: "2026-03-30T01:53:16.082Z"
 ---
 
 # § 4323. Appropriate congressional committees defined

@@ -3,9 +3,9 @@ title: "Section 2502 - Purposes"
 usc_title: 19
 usc_section: "2502"
 chapter: 13
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "19 U.S.C. § 2502"
-generated_at: "2026-03-30T01:50:42.816Z"
+generated_at: "2026-03-30T01:53:16.058Z"
 ---
 
 # § 2502. Purposes

@@ -3,9 +3,9 @@ title: "Section 3957 - Protection of life insurance policy"
 usc_title: 50
 usc_section: "3957"
 chapter: 50
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "50 U.S.C. § 3957"
-generated_at: "2026-03-30T01:51:56.413Z"
+generated_at: "2026-03-30T01:55:03.871Z"
 ---
 
 # § 3957. Protection of life insurance policy

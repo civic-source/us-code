@@ -3,9 +3,9 @@ title: "Section 1283 - Definitions and special rules"
 usc_title: 26
 usc_section: "1283"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 1283"
-generated_at: "2026-03-30T01:51:17.861Z"
+generated_at: "2026-03-30T01:53:45.408Z"
 ---
 
 # § 1283. Definitions and special rules

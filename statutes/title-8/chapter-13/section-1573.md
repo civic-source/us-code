@@ -3,9 +3,9 @@ title: "Section 1573 - Immigration Services and Infrastructure Improvements Acco
 usc_title: 8
 usc_section: "1573"
 chapter: 13
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "8 U.S.C. § 1573"
-generated_at: "2026-03-30T01:50:20.715Z"
+generated_at: "2026-03-30T01:52:48.229Z"
 ---
 
 # § 1573. Immigration Services and Infrastructure Improvements Account

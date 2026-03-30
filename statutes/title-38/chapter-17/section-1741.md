@@ -3,9 +3,9 @@ title: "Section 1741 - Criteria for payment"
 usc_title: 38
 usc_section: "1741"
 chapter: 17
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "38 U.S.C. § 1741"
-generated_at: "2026-03-30T01:51:28.204Z"
+generated_at: "2026-03-30T01:54:16.082Z"
 ---
 
 # § 1741. Criteria for payment

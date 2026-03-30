@@ -3,9 +3,9 @@ title: "Section 0b - Interdepartmental Serious Mental Illness Coordinating Commi
 usc_title: 42
 usc_section: "0b"
 chapter: 6
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 0b"
-generated_at: "2026-03-30T01:51:50.210Z"
+generated_at: "2026-03-30T01:54:58.005Z"
 ---
 
 # § 290aa–0b. Interdepartmental Serious Mental Illness Coordinating Committee

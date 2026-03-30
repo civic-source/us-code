@@ -3,9 +3,9 @@ title: "Section 2461 - Public-private competition required before conversion to 
 usc_title: 10
 usc_section: "2461"
 chapter: 146
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 2461"
-generated_at: "2026-03-30T01:50:25.943Z"
+generated_at: "2026-03-30T01:52:52.482Z"
 ---
 
 # § 2461. Public-private competition required before conversion to contractor performance

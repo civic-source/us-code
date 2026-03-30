@@ -3,9 +3,9 @@ title: "Section 1161c - Business workforce partnerships for job skill training i
 usc_title: 20
 usc_section: "1161c"
 chapter: 28
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 1161c"
-generated_at: "2026-03-30T01:50:44.881Z"
+generated_at: "2026-03-30T01:53:17.993Z"
 ---
 
 # § 1161c. Business workforce partnerships for job skill training in high-growth occupations or industries

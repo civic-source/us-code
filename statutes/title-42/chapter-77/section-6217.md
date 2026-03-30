@@ -3,9 +3,9 @@ title: "Section 6217 - Scientific inventory of oil and gas reserves"
 usc_title: 42
 usc_section: "6217"
 chapter: 77
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 6217"
-generated_at: "2026-03-30T01:51:50.688Z"
+generated_at: "2026-03-30T01:54:58.455Z"
 ---
 
 # § 6217. Scientific inventory of oil and gas reserves

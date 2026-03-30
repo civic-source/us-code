@@ -3,9 +3,9 @@ title: "Section 5903 - Prohibitions"
 usc_title: 49
 usc_section: "5903"
 chapter: 59
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "49 U.S.C. § 5903"
-generated_at: "2026-03-30T01:51:58.837Z"
+generated_at: "2026-03-30T01:55:07.798Z"
 ---
 
 # § 5903. Prohibitions

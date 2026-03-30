@@ -3,9 +3,9 @@ title: "Section 315r - Rental payments in advance in case of withdrawal of lands
 usc_title: 43
 usc_section: "315r"
 chapter: 8
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "43 U.S.C. § 315r"
-generated_at: "2026-03-30T01:51:32.521Z"
+generated_at: "2026-03-30T01:54:29.392Z"
 ---
 
 # § 315r. Rental payments in advance in case of withdrawal of lands for war or national defense purposes

@@ -3,9 +3,9 @@ title: "Section 78hh - Effective date"
 usc_title: 15
 usc_section: "78hh"
 chapter: 2
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 78hh"
-generated_at: "2026-03-30T01:50:38.831Z"
+generated_at: "2026-03-30T01:53:03.757Z"
 ---
 
 # § 78hh. Effective date

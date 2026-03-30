@@ -3,9 +3,9 @@ title: "Section 92 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 S
 usc_title: 45
 usc_section: "92"
 chapter: 5
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "45 U.S.C. § 92"
-generated_at: "2026-03-30T01:51:33.721Z"
+generated_at: "2026-03-30T01:54:23.112Z"
 ---
 
 # §§ 81 to 92. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

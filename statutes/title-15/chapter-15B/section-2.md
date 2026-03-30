@@ -3,9 +3,9 @@ title: "Section 2 - Natural gas market transparency rules"
 usc_title: 15
 usc_section: "2"
 chapter: 15
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T01:50:38.886Z"
+generated_at: "2026-03-30T01:53:03.813Z"
 ---
 
 # § 717t–2. Natural gas market transparency rules

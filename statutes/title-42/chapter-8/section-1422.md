@@ -3,9 +3,9 @@ title: "Section 1422 - Omitted"
 usc_title: 42
 usc_section: "1422"
 chapter: 8
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 1422"
-generated_at: "2026-03-30T01:51:50.533Z"
+generated_at: "2026-03-30T01:54:58.290Z"
 ---
 
 # §§ 1417a to 1422. Omitted

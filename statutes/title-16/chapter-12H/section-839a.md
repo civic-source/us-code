@@ -3,9 +3,9 @@ title: "Section 839a - Definitions"
 usc_title: 16
 usc_section: "839a"
 chapter: 12
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 839a"
-generated_at: "2026-03-30T01:50:50.270Z"
+generated_at: "2026-03-30T01:53:13.252Z"
 ---
 
 # § 839a. Definitions

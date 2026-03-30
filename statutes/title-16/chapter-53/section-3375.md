@@ -3,9 +3,9 @@ title: "Section 3375 - Enforcement"
 usc_title: 16
 usc_section: "3375"
 chapter: 53
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 3375"
-generated_at: "2026-03-30T01:50:50.334Z"
+generated_at: "2026-03-30T01:53:13.314Z"
 ---
 
 # § 3375. Enforcement

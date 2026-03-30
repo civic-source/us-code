@@ -3,9 +3,9 @@ title: "Section 2301 - Findings"
 usc_title: 43
 usc_section: "2301"
 chapter: 41
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "43 U.S.C. § 2301"
-generated_at: "2026-03-30T01:51:32.573Z"
+generated_at: "2026-03-30T01:54:29.452Z"
 ---
 
 # § 2301. Findings

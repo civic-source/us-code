@@ -3,9 +3,9 @@ title: "Section 80115 - Limitation on use of judicial process to obtain possessi
 usc_title: 49
 usc_section: "80115"
 chapter: 801
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "49 U.S.C. § 80115"
-generated_at: "2026-03-30T01:51:58.935Z"
+generated_at: "2026-03-30T01:55:07.891Z"
 ---
 
 # § 80115. Limitation on use of judicial process to obtain possession of goods from common carriers

@@ -3,9 +3,9 @@ title: "Section 2602 - Agreements to implement Article 9 of the convention"
 usc_title: 19
 usc_section: "2602"
 chapter: 14
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "19 U.S.C. § 2602"
-generated_at: "2026-03-30T01:50:42.818Z"
+generated_at: "2026-03-30T01:53:16.060Z"
 ---
 
 # § 2602. Agreements to implement Article 9 of the convention

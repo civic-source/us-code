@@ -3,9 +3,9 @@ title: "Section 1697 - Service in multiparty, multiforum actions"
 usc_title: 28
 usc_section: "1697"
 chapter: 113
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "28 U.S.C. § 1697"
-generated_at: "2026-03-30T01:51:09.466Z"
+generated_at: "2026-03-30T01:53:40.572Z"
 ---
 
 # § 1697. Service in multiparty, multiforum actions

@@ -3,9 +3,9 @@ title: "Section 1320 - International pollution abatement"
 usc_title: 33
 usc_section: "1320"
 chapter: 26
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 1320"
-generated_at: "2026-03-30T01:51:22.569Z"
+generated_at: "2026-03-30T01:54:02.312Z"
 ---
 
 # § 1320. International pollution abatement

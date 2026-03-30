@@ -3,9 +3,9 @@ title: "Section 12623 - Standards and best practices for use of non-invasive and
 usc_title: 34
 usc_section: "12623"
 chapter: 121
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "34 U.S.C. § 12623"
-generated_at: "2026-03-30T01:51:21.487Z"
+generated_at: "2026-03-30T01:53:55.394Z"
 ---
 
 # § 12623. Standards and best practices for use of non-invasive and non-permanent tracking devices

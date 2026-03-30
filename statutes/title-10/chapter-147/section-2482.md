@@ -3,9 +3,9 @@ title: "Section 2482 - Commissary stores: criteria for establishment or closure;
 usc_title: 10
 usc_section: "2482"
 chapter: 147
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 2482"
-generated_at: "2026-03-30T01:50:25.944Z"
+generated_at: "2026-03-30T01:52:52.484Z"
 ---
 
 # § 2482. Commissary stores: criteria for establishment or closure; store size

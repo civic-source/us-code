@@ -3,9 +3,9 @@ title: "Section 224 - Failure to answer questions affecting companies, businesse
 usc_title: 13
 usc_section: "224"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "13 U.S.C. § 224"
-generated_at: "2026-03-30T01:50:28.626Z"
+generated_at: "2026-03-30T01:53:00.334Z"
 ---
 
 # § 224. Failure to answer questions affecting companies, businesses, religious bodies, and other organizations; false answers

@@ -3,9 +3,9 @@ title: "Section 28103 - Limitations on rail passenger transportation liability"
 usc_title: 49
 usc_section: "28103"
 chapter: 281
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "49 U.S.C. § 28103"
-generated_at: "2026-03-30T01:51:58.868Z"
+generated_at: "2026-03-30T01:55:07.827Z"
 ---
 
 # § 28103. Limitations on rail passenger transportation liability

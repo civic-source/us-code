@@ -3,9 +3,9 @@ title: "Section 3505 - Exceptions to limitations on expenditures"
 usc_title: 16
 usc_section: "3505"
 chapter: 55
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 3505"
-generated_at: "2026-03-30T01:50:50.335Z"
+generated_at: "2026-03-30T01:53:13.315Z"
 ---
 
 # § 3505. Exceptions to limitations on expenditures
@@ -21,9 +21,13 @@ generated_at: "2026-03-30T01:50:50.335Z"
     - **(B)** Establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
     - **(C)** Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.).
     - **(D)** Scientific research, including aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
-    - **(E)** Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, and 5192 of title 42 and section 1362 1 1 See References in Text note below. of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4103 ) and are limited to actions that are necessary to alleviate the emergency.
+    - **(E)** Emergency actions necessary to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, 5173, and 5192 of title 42 and are limited to actions that are necessary to alleviate the applicable emergency.
     - **(F)** Maintenance, replacement, reconstruction, or repair, but not the expansion (except with respect to United States route 1 in the Florida Keys), of publicly owned or publicly operated roads, structures, and facilities.
     - **(G)** Nonstructural projects for shoreline stabilization that are designed to mimic, enhance, or restore a natural stabilization system.
+    - **(H)** Aquaculture operations that—
+      - **(i)** produce shellfish (including oysters, clams, and mussels), cultivate micro- or macro-algae, or do not require the use of aquaculture feeds; and
+      - **(ii)** adhere to best management practices and conservation measures recommended by the Secretary through the consultation process referred to in this subsection.
+  - **(7)** Use of a sand source within a System unit by Federal coastal storm risk management projects or their predecessor projects that have used a System unit for sand to nourish adjacent beaches outside the System pursuant to section 701n of title 33 at least once between December 31, 2008 and December 31, 2023 in response to an emergency situation prior to December 31, 2023 .
 - **(b)** For purposes of subsection (a)(2), a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System.
 - **(c)** The limitations on the use of Federal expenditures or financial assistance within the System under subsection (a)(3) shall not apply to a highway—
   - **(1)** located in a unit of the System in Michigan; and
@@ -34,3 +38,13 @@ generated_at: "2026-03-30T01:50:50.335Z"
   - **(3)**
     - **(A)** No financial assistance for acquisition, construction, or improvement purposes may be provided under any program administered by the Secretary of Housing and Urban Development for any services or facilities and related infrastructure located outside the boundaries of unit T–11 of the System that facilitate an activity within that unit that is not consistent with the purposes of this chapter.
     - **(B)** For purposes of this paragraph, the term “financial assistance” includes any contract, loan, grant, cooperative agreement, or other form of assistance, including the insurance or guarantee of a loan, mortgage, or pool of mortgages.
+- **(e)**
+  - **(1)** The prohibitions on new Federal expenditures and financial assistance described in section 3504(a) of this title do not apply within Otherwise Protected Areas except with respect to limitations on new flood insurance coverage described in section 1321 of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4028 ).
+  - **(2)** Notwithstanding paragraph (1), new Federal flood insurance may be provided for a structure in an Otherwise Protected Area that is used in a manner consistent with the purpose for which such Otherwise Protected Area is protected.
+- **(f)**
+  - **(1)** With respect to an addition to the System made under section 3503 of this title on or after November 25, 2024 , subject to paragraph (2), the prohibitions on new Federal expenditures and financial assistance described in section 3504(a) of this title shall take effect on the date that is 1 year after the date on which such addition is made.
+  - **(2)**
+    - **(A)** The prohibitions on new Federal expenditures and financial assistance described in section 3504(a) of this title do not apply to an insurable structure.
+    - **(B)** In this subsection, the term “insurable structure” means an insurable structure that is—
+      - **(i)** located within an addition described in paragraph (1); and
+      - **(ii)** in existence before the expiration of the applicable 1-year period described in paragraph (1).

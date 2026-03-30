@@ -3,9 +3,9 @@ title: "Section 1486 - Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Sta
 usc_title: 48
 usc_section: "1486"
 chapter: 10
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "48 U.S.C. § 1486"
-generated_at: "2026-03-30T01:51:54.412Z"
+generated_at: "2026-03-30T01:55:01.617Z"
 ---
 
 # § 1486. Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat. 953

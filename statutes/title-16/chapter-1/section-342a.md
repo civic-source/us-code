@@ -3,9 +3,9 @@ title: "Section 342a - Repealed. Pub. L. 116–9, title II, § 2108(d)(2) , Mar.
 usc_title: 16
 usc_section: "342a"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 342a"
-generated_at: "2026-03-30T01:50:50.136Z"
+generated_at: "2026-03-30T01:53:13.126Z"
 ---
 
 # § 342a. Repealed. Pub. L. 116–9, title II, § 2108(d)(2) , Mar. 12, 2019 , 133 Stat. 730

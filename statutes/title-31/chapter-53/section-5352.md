@@ -3,9 +3,9 @@ title: "Section 5352 - Program authorization"
 usc_title: 31
 usc_section: "5352"
 chapter: 53
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "31 U.S.C. § 5352"
-generated_at: "2026-03-30T01:51:20.762Z"
+generated_at: "2026-03-30T01:53:51.254Z"
 ---
 
 # § 5352. Program authorization

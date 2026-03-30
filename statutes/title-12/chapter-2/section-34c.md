@@ -3,9 +3,9 @@ title: "Section 34c - Transferred"
 usc_title: 12
 usc_section: "34c"
 chapter: 2
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "12 U.S.C. § 34c"
-generated_at: "2026-03-30T01:50:36.008Z"
+generated_at: "2026-03-30T01:52:58.272Z"
 ---
 
 # §§ 33 to 34c. Transferred

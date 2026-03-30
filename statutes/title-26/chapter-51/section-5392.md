@@ -3,9 +3,9 @@ title: "Section 5392 - Definitions"
 usc_title: 26
 usc_section: "5392"
 chapter: 51
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 5392"
-generated_at: "2026-03-30T01:51:17.910Z"
+generated_at: "2026-03-30T01:53:45.462Z"
 ---
 
 # § 5392. Definitions

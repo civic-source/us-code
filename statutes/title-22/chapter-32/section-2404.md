@@ -3,9 +3,9 @@ title: "Section 2404 - Unexpended balances"
 usc_title: 22
 usc_section: "2404"
 chapter: 32
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 2404"
-generated_at: "2026-03-30T01:50:56.533Z"
+generated_at: "2026-03-30T01:53:29.252Z"
 ---
 
 # § 2404. Unexpended balances

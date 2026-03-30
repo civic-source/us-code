@@ -3,9 +3,9 @@ title: "Section 8820 - Office of Alcohol Fuels"
 usc_title: 42
 usc_section: "8820"
 chapter: 96
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 8820"
-generated_at: "2026-03-30T01:51:50.788Z"
+generated_at: "2026-03-30T01:54:58.557Z"
 ---
 
 # § 8820. Office of Alcohol Fuels

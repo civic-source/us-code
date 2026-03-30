@@ -3,9 +3,9 @@ title: "Section 3505 - Prevention of departure"
 usc_title: 46
 usc_section: "3505"
 chapter: 35
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "46 U.S.C. § 3505"
-generated_at: "2026-03-30T01:52:00.202Z"
+generated_at: "2026-03-30T01:55:15.738Z"
 ---
 
 # § 3505. Prevention of departure

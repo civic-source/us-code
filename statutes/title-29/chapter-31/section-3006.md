@@ -3,9 +3,9 @@ title: "Section 3006 - Projects of national significance"
 usc_title: 29
 usc_section: "3006"
 chapter: 31
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "29 U.S.C. § 3006"
-generated_at: "2026-03-30T01:51:12.023Z"
+generated_at: "2026-03-30T01:53:33.017Z"
 ---
 
 # § 3006. Projects of national significance

@@ -3,9 +3,9 @@ title: "Section 425 - Application of certain commercial items authorities to cer
 usc_title: 6
 usc_section: "425"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "6 U.S.C. § 425"
-generated_at: "2026-03-30T01:50:06.229Z"
+generated_at: "2026-03-30T01:52:43.000Z"
 ---
 
 # § 425. Application of certain commercial items authorities to certain procurements

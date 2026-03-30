@@ -3,9 +3,9 @@ title: "Section 1319 - Geological Survey: specific appropriations required for m
 usc_title: 44
 usc_section: "1319"
 chapter: 13
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "44 U.S.C. § 1319"
-generated_at: "2026-03-30T01:51:31.801Z"
+generated_at: "2026-03-30T01:54:17.901Z"
 ---
 
 # § 1319. Geological Survey: specific appropriations required for monographs and bulletins

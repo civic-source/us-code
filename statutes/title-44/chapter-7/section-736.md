@@ -3,9 +3,9 @@ title: "Section 736 - Binding at expense of Members of Congress"
 usc_title: 44
 usc_section: "736"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "44 U.S.C. § 736"
-generated_at: "2026-03-30T01:51:31.800Z"
+generated_at: "2026-03-30T01:54:17.900Z"
 ---
 
 # § 736. Binding at expense of Members of Congress

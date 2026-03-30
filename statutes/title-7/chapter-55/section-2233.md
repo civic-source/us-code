@@ -3,9 +3,9 @@ title: "Section 2233 - Funds available for expenses of advisory committees"
 usc_title: 7
 usc_section: "2233"
 chapter: 55
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 2233"
-generated_at: "2026-03-30T01:50:10.988Z"
+generated_at: "2026-03-30T01:52:47.540Z"
 ---
 
 # § 2233. Funds available for expenses of advisory committees

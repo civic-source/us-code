@@ -3,9 +3,9 @@ title: "Section 31l - Earth Mapping Resources Initiative"
 usc_title: 43
 usc_section: "31l"
 chapter: 2
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "43 U.S.C. § 31l"
-generated_at: "2026-03-30T01:51:32.517Z"
+generated_at: "2026-03-30T01:54:29.388Z"
 ---
 
 # § 31l. Earth Mapping Resources Initiative

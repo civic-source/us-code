@@ -3,9 +3,9 @@ title: "Section 956 - Rules and regulations; cooperation with departments, etc.;
 usc_title: 7
 usc_section: "956"
 chapter: 32
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 956"
-generated_at: "2026-03-30T01:50:10.920Z"
+generated_at: "2026-03-30T01:52:47.477Z"
 ---
 
 # § 956. Rules and regulations; cooperation with departments, etc.; officers and employees; expenses of administration; authorization of appropriations

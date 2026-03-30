@@ -3,9 +3,9 @@ title: "Section 390yy - Leasing requirements"
 usc_title: 43
 usc_section: "390yy"
 chapter: 12
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "43 U.S.C. § 390yy"
-generated_at: "2026-03-30T01:51:32.528Z"
+generated_at: "2026-03-30T01:54:29.400Z"
 ---
 
 # § 390yy. Leasing requirements

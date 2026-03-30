@@ -3,9 +3,9 @@ title: "Section 1727e - Use of local currency proceeds"
 usc_title: 7
 usc_section: "1727e"
 chapter: 41
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 1727e"
-generated_at: "2026-03-30T01:50:10.951Z"
+generated_at: "2026-03-30T01:52:47.506Z"
 ---
 
 # § 1727e. Use of local currency proceeds

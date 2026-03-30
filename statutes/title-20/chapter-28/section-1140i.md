@@ -3,9 +3,9 @@ title: "Section 1140i - Authorization of appropriations and reservation"
 usc_title: 20
 usc_section: "1140i"
 chapter: 28
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 1140i"
-generated_at: "2026-03-30T01:50:44.879Z"
+generated_at: "2026-03-30T01:53:17.991Z"
 ---
 
 # § 1140i. Authorization of appropriations and reservation

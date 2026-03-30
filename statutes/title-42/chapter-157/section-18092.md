@@ -3,9 +3,9 @@ title: "Section 18092 - Notification of nonenrollment"
 usc_title: 42
 usc_section: "18092"
 chapter: 157
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 18092"
-generated_at: "2026-03-30T01:51:50.958Z"
+generated_at: "2026-03-30T01:54:58.715Z"
 ---
 
 # § 18092. Notification of nonenrollment

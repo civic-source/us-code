@@ -3,9 +3,9 @@ title: "Section 2358a - Renumbered § 4091]"
 usc_title: 10
 usc_section: "2358a"
 chapter: 139
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 2358a"
-generated_at: "2026-03-30T01:50:25.941Z"
+generated_at: "2026-03-30T01:52:52.481Z"
 ---
 
 # [§ 2358a. Renumbered § 4091]

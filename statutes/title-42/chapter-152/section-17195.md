@@ -3,9 +3,9 @@ title: "Section 17195 - Geothermal energy production from oil and gas fields and
 usc_title: 42
 usc_section: "17195"
 chapter: 152
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 17195"
-generated_at: "2026-03-30T01:51:50.936Z"
+generated_at: "2026-03-30T01:54:58.698Z"
 ---
 
 # § 17195. Geothermal energy production from oil and gas fields and recovery and production of geopressured gas resources

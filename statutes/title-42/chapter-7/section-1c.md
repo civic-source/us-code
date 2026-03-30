@@ -3,9 +3,9 @@ title: "Section 1c - Presumptive eligibility for family planning services"
 usc_title: 42
 usc_section: "1c"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 1c"
-generated_at: "2026-03-30T01:51:50.508Z"
+generated_at: "2026-03-30T01:54:58.268Z"
 ---
 
 # § 1396r–1c. Presumptive eligibility for family planning services

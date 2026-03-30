@@ -3,9 +3,9 @@ title: "Section 4084 - Records and audits"
 usc_title: 42
 usc_section: "4084"
 chapter: 50
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 4084"
-generated_at: "2026-03-30T01:51:50.648Z"
+generated_at: "2026-03-30T01:54:58.408Z"
 ---
 
 # § 4084. Records and audits

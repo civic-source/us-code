@@ -3,9 +3,9 @@ title: "Section 300q - Loan and loan guarantee authority"
 usc_title: 42
 usc_section: "300q"
 chapter: 6
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 300q"
-generated_at: "2026-03-30T01:51:50.267Z"
+generated_at: "2026-03-30T01:54:58.052Z"
 ---
 
 # § 300q. Loan and loan guarantee authority

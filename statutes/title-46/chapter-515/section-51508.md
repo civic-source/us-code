@@ -3,9 +3,9 @@ title: "Section 51508 - Allowances for students"
 usc_title: 46
 usc_section: "51508"
 chapter: 515
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "46 U.S.C. § 51508"
-generated_at: "2026-03-30T01:52:00.232Z"
+generated_at: "2026-03-30T01:55:15.760Z"
 ---
 
 # § 51508. Allowances for students

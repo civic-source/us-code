@@ -3,9 +3,9 @@ title: "Section 9033 - Return to work reporting"
 usc_title: 15
 usc_section: "9033"
 chapter: 116
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 9033"
-generated_at: "2026-03-30T01:50:39.003Z"
+generated_at: "2026-03-30T01:53:03.932Z"
 ---
 
 # § 9033. Return to work reporting

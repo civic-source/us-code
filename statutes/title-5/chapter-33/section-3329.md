@@ -3,9 +3,9 @@ title: "Section 3329 - Appointments of military reserve technicians to positions
 usc_title: 5
 usc_section: "3329"
 chapter: 33
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "5 U.S.C. § 3329"
-generated_at: "2026-03-30T01:50:03.035Z"
+generated_at: "2026-03-30T01:52:30.113Z"
 ---
 
 # § 3329. Appointments of military reserve technicians to positions in the competitive service

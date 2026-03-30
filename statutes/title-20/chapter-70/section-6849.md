@@ -3,9 +3,9 @@ title: "Section 6849 - Prohibition"
 usc_title: 20
 usc_section: "6849"
 chapter: 70
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 6849"
-generated_at: "2026-03-30T01:50:44.934Z"
+generated_at: "2026-03-30T01:53:18.052Z"
 ---
 
 # § 6849. Prohibition

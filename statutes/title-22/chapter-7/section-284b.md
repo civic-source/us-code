@@ -3,9 +3,9 @@ title: "Section 284b - National Advisory Council on International Monetary and F
 usc_title: 22
 usc_section: "284b"
 chapter: 7
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 284b"
-generated_at: "2026-03-30T01:50:56.486Z"
+generated_at: "2026-03-30T01:53:29.208Z"
 ---
 
 # § 284b. National Advisory Council on International Monetary and Financial Problems

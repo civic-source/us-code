@@ -3,9 +3,9 @@ title: "Section 3 - Collection of paleontological resources"
 usc_title: 16
 usc_section: "3"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T01:50:50.213Z"
+generated_at: "2026-03-30T01:53:13.198Z"
 ---
 
 # § 470aaa–3. Collection of paleontological resources

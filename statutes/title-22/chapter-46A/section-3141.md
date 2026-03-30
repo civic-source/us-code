@@ -3,9 +3,9 @@ title: "Section 3141 - Congressional findings"
 usc_title: 22
 usc_section: "3141"
 chapter: 46
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 3141"
-generated_at: "2026-03-30T01:50:56.558Z"
+generated_at: "2026-03-30T01:53:29.276Z"
 ---
 
 # § 3141. Congressional findings

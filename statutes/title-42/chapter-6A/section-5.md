@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 42
 usc_section: "5"
 chapter: 6
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T01:51:50.314Z"
+generated_at: "2026-03-30T01:54:58.090Z"
 ---
 
 # § 300mm–5. Definitions

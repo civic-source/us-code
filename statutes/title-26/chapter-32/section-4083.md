@@ -3,9 +3,9 @@ title: "Section 4083 - Definitions; special rule; administrative authority"
 usc_title: 26
 usc_section: "4083"
 chapter: 32
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 4083"
-generated_at: "2026-03-30T01:51:17.889Z"
+generated_at: "2026-03-30T01:53:45.440Z"
 ---
 
 # § 4083. Definitions; special rule; administrative authority

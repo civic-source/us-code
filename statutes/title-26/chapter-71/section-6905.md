@@ -3,9 +3,9 @@ title: "Section 6905 - Discharge of executor from personal liability for deceden
 usc_title: 26
 usc_section: "6905"
 chapter: 71
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 6905"
-generated_at: "2026-03-30T01:51:17.947Z"
+generated_at: "2026-03-30T01:53:45.503Z"
 ---
 
 # § 6905. Discharge of executor from personal liability for decedent’s income and gift taxes

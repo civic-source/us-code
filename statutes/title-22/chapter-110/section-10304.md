@@ -3,9 +3,9 @@ title: "Section 10304 - Short course on emerging technologies for senior officia
 usc_title: 22
 usc_section: "10304"
 chapter: 110
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "22 U.S.C. § 10304"
-generated_at: "2026-03-30T01:50:56.644Z"
+generated_at: "2026-03-30T01:53:29.355Z"
 ---
 
 # § 10304. Short course on emerging technologies for senior officials

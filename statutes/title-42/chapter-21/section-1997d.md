@@ -3,9 +3,9 @@ title: "Section 1997d - Prohibition of retaliation"
 usc_title: 42
 usc_section: "1997d"
 chapter: 21
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 1997d"
-generated_at: "2026-03-30T01:51:50.588Z"
+generated_at: "2026-03-30T01:54:58.342Z"
 ---
 
 # § 1997d. Prohibition of retaliation

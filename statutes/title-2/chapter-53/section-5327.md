@@ -3,9 +3,9 @@ title: "Section 5327 - Termination of service of Members of House"
 usc_title: 2
 usc_section: "5327"
 chapter: 53
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "2 U.S.C. § 5327"
-generated_at: "2026-03-30T01:49:52.133Z"
+generated_at: "2026-03-30T01:52:27.386Z"
 ---
 
 # § 5327. Termination of service of Members of House

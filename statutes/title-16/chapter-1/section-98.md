@@ -3,9 +3,9 @@ title: "Section 98 - Protection of game and fish; forfeitures and punishments"
 usc_title: 16
 usc_section: "98"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 98"
-generated_at: "2026-03-30T01:50:50.124Z"
+generated_at: "2026-03-30T01:53:13.115Z"
 ---
 
 # § 98. Protection of game and fish; forfeitures and punishments

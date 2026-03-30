@@ -3,9 +3,9 @@ title: "Section 1087oo - Student aid index for dependent students"
 usc_title: 20
 usc_section: "1087oo"
 chapter: 28
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 1087oo"
-generated_at: "2026-03-30T01:50:44.863Z"
+generated_at: "2026-03-30T01:53:17.974Z"
 ---
 
 # § 1087oo. Student aid index for dependent students

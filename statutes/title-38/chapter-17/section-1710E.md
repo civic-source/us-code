@@ -3,9 +3,9 @@ title: "Section 1710E - Traumatic brain injury: use of non-Department facilities
 usc_title: 38
 usc_section: "1710E"
 chapter: 17
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "38 U.S.C. § 1710E"
-generated_at: "2026-03-30T01:51:28.201Z"
+generated_at: "2026-03-30T01:54:16.078Z"
 ---
 
 # § 1710E. Traumatic brain injury: use of non-Department facilities for rehabilitation

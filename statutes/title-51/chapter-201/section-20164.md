@@ -3,9 +3,9 @@ title: "Section 20164 - International cooperation"
 usc_title: 51
 usc_section: "20164"
 chapter: 201
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "51 U.S.C. § 20164"
-generated_at: "2026-03-30T01:52:02.933Z"
+generated_at: "2026-03-30T01:55:17.839Z"
 ---
 
 # § 20164. International cooperation

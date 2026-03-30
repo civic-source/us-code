@@ -3,9 +3,9 @@ title: "Section 3461 - Eligibility; entitlement; duration"
 usc_title: 38
 usc_section: "3461"
 chapter: 34
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "38 U.S.C. § 3461"
-generated_at: "2026-03-30T01:51:28.226Z"
+generated_at: "2026-03-30T01:54:16.099Z"
 ---
 
 # § 3461. Eligibility; entitlement; duration

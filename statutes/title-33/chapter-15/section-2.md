@@ -3,9 +3,9 @@ title: "Section 2 - Separability"
 usc_title: 33
 usc_section: "2"
 chapter: 15
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T01:51:22.547Z"
+generated_at: "2026-03-30T01:54:02.291Z"
 ---
 
 # § 702k–2. Separability

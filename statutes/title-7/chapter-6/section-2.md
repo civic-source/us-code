@@ -3,9 +3,9 @@ title: "Section 2 - Failure by the State to assure enforcement of State pesticid
 usc_title: 7
 usc_section: "2"
 chapter: 6
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T01:50:10.888Z"
+generated_at: "2026-03-30T01:52:47.448Z"
 ---
 
 # § 136w–2. Failure by the State to assure enforcement of State pesticide use regulations

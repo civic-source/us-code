@@ -3,9 +3,9 @@ title: "Section 15833 - Energy efficiency pilot program"
 usc_title: 42
 usc_section: "15833"
 chapter: 149
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 15833"
-generated_at: "2026-03-30T01:51:50.898Z"
+generated_at: "2026-03-30T01:54:58.661Z"
 ---
 
 # § 15833. Energy efficiency pilot program

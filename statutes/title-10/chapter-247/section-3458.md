@@ -3,9 +3,9 @@ title: "Section 3458 - Authority to acquire innovative commercial products and c
 usc_title: 10
 usc_section: "3458"
 chapter: 247
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 3458"
-generated_at: "2026-03-30T01:50:25.971Z"
+generated_at: "2026-03-30T01:52:52.512Z"
 ---
 
 # § 3458. Authority to acquire innovative commercial products and commercial services using general solicitation competitive procedures

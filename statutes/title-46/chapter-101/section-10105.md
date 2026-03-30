@@ -3,9 +3,9 @@ title: "Section 10105 - Reports to Congress"
 usc_title: 46
 usc_section: "10105"
 chapter: 101
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "46 U.S.C. § 10105"
-generated_at: "2026-03-30T01:52:00.212Z"
+generated_at: "2026-03-30T01:55:15.745Z"
 ---
 
 # § 10105. Reports to Congress

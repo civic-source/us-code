@@ -3,9 +3,9 @@ title: "Section 2101 - Supreme Court; time for appeal or certiorari; docketing; 
 usc_title: 28
 usc_section: "2101"
 chapter: 133
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "28 U.S.C. § 2101"
-generated_at: "2026-03-30T01:51:09.469Z"
+generated_at: "2026-03-30T01:53:40.575Z"
 ---
 
 # § 2101. Supreme Court; time for appeal or certiorari; docketing; stay

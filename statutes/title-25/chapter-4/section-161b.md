@@ -3,9 +3,9 @@ title: "Section 161b - “Indian Money, Proceeds of Labor” fund; separate acco
 usc_title: 25
 usc_section: "161b"
 chapter: 4
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "25 U.S.C. § 161b"
-generated_at: "2026-03-30T01:51:05.977Z"
+generated_at: "2026-03-30T01:53:25.739Z"
 ---
 
 # § 161b. “Indian Money, Proceeds of Labor” fund; separate accounts for respective tribes; rate of interest

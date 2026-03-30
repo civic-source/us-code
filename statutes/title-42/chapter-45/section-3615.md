@@ -3,9 +3,9 @@ title: "Section 3615 - Effect on State laws"
 usc_title: 42
 usc_section: "3615"
 chapter: 45
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 3615"
-generated_at: "2026-03-30T01:51:50.642Z"
+generated_at: "2026-03-30T01:54:58.402Z"
 ---
 
 # § 3615. Effect on State laws

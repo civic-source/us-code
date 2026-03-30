@@ -3,9 +3,9 @@ title: "Section 9131 - Reservations and allotments"
 usc_title: 20
 usc_section: "9131"
 chapter: 72
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 9131"
-generated_at: "2026-03-30T01:50:44.954Z"
+generated_at: "2026-03-30T01:53:18.068Z"
 ---
 
 # § 9131. Reservations and allotments

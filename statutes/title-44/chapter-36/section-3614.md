@@ -3,9 +3,9 @@ title: "Section 3614 - Roles and responsibilities of the Office of Management an
 usc_title: 44
 usc_section: "3614"
 chapter: 36
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "44 U.S.C. § 3614"
-generated_at: "2026-03-30T01:51:31.811Z"
+generated_at: "2026-03-30T01:54:17.910Z"
 ---
 
 # § 3614. Roles and responsibilities of the Office of Management and Budget

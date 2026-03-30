@@ -3,9 +3,9 @@ title: "Section 1704c - Payments by Secretary of Defense in liquidation of amoun
 usc_title: 7
 usc_section: "1704c"
 chapter: 41
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 1704c"
-generated_at: "2026-03-30T01:50:10.950Z"
+generated_at: "2026-03-30T01:52:47.505Z"
 ---
 
 # § 1704c. Payments by Secretary of Defense in liquidation of amount due for foreign currencies

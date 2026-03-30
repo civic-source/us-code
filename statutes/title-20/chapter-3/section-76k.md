@@ -3,9 +3,9 @@ title: "Section 76k - Powers of Board"
 usc_title: 20
 usc_section: "76k"
 chapter: 3
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 76k"
-generated_at: "2026-03-30T01:50:44.813Z"
+generated_at: "2026-03-30T01:53:17.928Z"
 ---
 
 # § 76k. Powers of Board

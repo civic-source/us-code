@@ -3,9 +3,9 @@ title: "Section 879 - Threats against former Presidents and certain other person
 usc_title: 18
 usc_section: "879"
 chapter: 41
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "18 U.S.C. § 879"
-generated_at: "2026-03-30T01:50:45.867Z"
+generated_at: "2026-03-30T01:53:21.352Z"
 ---
 
 # § 879. Threats against former Presidents and certain other persons

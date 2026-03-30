@@ -3,9 +3,9 @@ title: "Section 1973n - Transferred"
 usc_title: 42
 usc_section: "1973n"
 chapter: 20
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 1973n"
-generated_at: "2026-03-30T01:51:50.586Z"
+generated_at: "2026-03-30T01:54:58.340Z"
 ---
 
 # § 1973n. Transferred

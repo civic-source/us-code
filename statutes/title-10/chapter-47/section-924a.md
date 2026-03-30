@@ -3,9 +3,9 @@ title: "Section 924a - Art. 124a. Bribery"
 usc_title: 10
 usc_section: "924a"
 chapter: 47
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 924a"
-generated_at: "2026-03-30T01:50:25.883Z"
+generated_at: "2026-03-30T01:52:52.429Z"
 ---
 
 # § 924a. Art. 124a. Bribery

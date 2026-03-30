@@ -3,9 +3,9 @@ title: "Section 302 - Duration of copyright: Works created on or after January 1
 usc_title: 17
 usc_section: "302"
 chapter: 3
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "17 U.S.C. § 302"
-generated_at: "2026-03-30T01:50:40.990Z"
+generated_at: "2026-03-30T01:53:09.332Z"
 ---
 
 # § 302. Duration of copyright: Works created on or after January 1, 1978

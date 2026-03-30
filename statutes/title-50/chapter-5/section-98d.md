@@ -3,9 +3,9 @@ title: "Section 98d - Authority for stockpile operations"
 usc_title: 50
 usc_section: "98d"
 chapter: 5
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "50 U.S.C. § 98d"
-generated_at: "2026-03-30T01:51:56.339Z"
+generated_at: "2026-03-30T01:55:03.799Z"
 ---
 
 # § 98d. Authority for stockpile operations

@@ -3,9 +3,9 @@ title: "Section 6848 - Programs for Native Americans and Puerto Rico"
 usc_title: 20
 usc_section: "6848"
 chapter: 70
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 6848"
-generated_at: "2026-03-30T01:50:44.934Z"
+generated_at: "2026-03-30T01:53:18.052Z"
 ---
 
 # § 6848. Programs for Native Americans and Puerto Rico

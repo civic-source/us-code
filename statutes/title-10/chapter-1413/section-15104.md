@@ -3,9 +3,9 @@ title: "Section 15104 - Opportunities for consideration for promotion"
 usc_title: 10
 usc_section: "15104"
 chapter: 1413
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 15104"
-generated_at: "2026-03-30T01:50:26.033Z"
+generated_at: "2026-03-30T01:52:52.567Z"
 ---
 
 # § 15104. Opportunities for consideration for promotion

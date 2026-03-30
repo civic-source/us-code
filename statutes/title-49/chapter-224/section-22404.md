@@ -3,9 +3,9 @@ title: "Section 22404 - Employee protection"
 usc_title: 49
 usc_section: "22404"
 chapter: 224
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "49 U.S.C. § 22404"
-generated_at: "2026-03-30T01:51:58.860Z"
+generated_at: "2026-03-30T01:55:07.819Z"
 ---
 
 # § 22404. Employee protection

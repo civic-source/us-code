@@ -3,9 +3,9 @@ title: "Section 6509 - Animal production practices and materials"
 usc_title: 7
 usc_section: "6509"
 chapter: 94
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "7 U.S.C. § 6509"
-generated_at: "2026-03-30T01:50:11.028Z"
+generated_at: "2026-03-30T01:52:47.577Z"
 ---
 
 # § 6509. Animal production practices and materials

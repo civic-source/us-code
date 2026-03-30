@@ -3,9 +3,9 @@ title: "Section 4533 - Single per annum gross rates of pay for employees"
 usc_title: 2
 usc_section: "4533"
 chapter: 45
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "2 U.S.C. § 4533"
-generated_at: "2026-03-30T01:49:52.129Z"
+generated_at: "2026-03-30T01:52:27.382Z"
 ---
 
 # § 4533. Single per annum gross rates of pay for employees

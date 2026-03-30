@@ -3,9 +3,9 @@ title: "Section 53910 - Administrative"
 usc_title: 46
 usc_section: "53910"
 chapter: 539
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "46 U.S.C. § 53910"
-generated_at: "2026-03-30T01:52:00.240Z"
+generated_at: "2026-03-30T01:55:15.767Z"
 ---
 
 # § 53910. Administrative

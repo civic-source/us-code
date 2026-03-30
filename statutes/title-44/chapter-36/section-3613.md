@@ -3,9 +3,9 @@ title: "Section 3613 - Roles and responsibilities of agencies"
 usc_title: 44
 usc_section: "3613"
 chapter: 36
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "44 U.S.C. § 3613"
-generated_at: "2026-03-30T01:51:31.811Z"
+generated_at: "2026-03-30T01:54:17.909Z"
 ---
 
 # § 3613. Roles and responsibilities of agencies

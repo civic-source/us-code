@@ -3,9 +3,9 @@ title: "Section 2624 - Lifeline rates"
 usc_title: 16
 usc_section: "2624"
 chapter: 46
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 2624"
-generated_at: "2026-03-30T01:50:50.325Z"
+generated_at: "2026-03-30T01:53:13.306Z"
 ---
 
 # § 2624. Lifeline rates

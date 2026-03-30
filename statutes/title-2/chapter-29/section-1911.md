@@ -3,9 +3,9 @@ title: "Section 1911 - General Counsel to the Chief of Police and the United Sta
 usc_title: 2
 usc_section: "1911"
 chapter: 29
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "2 U.S.C. § 1911"
-generated_at: "2026-03-30T01:49:52.119Z"
+generated_at: "2026-03-30T01:52:27.371Z"
 ---
 
 # § 1911. General Counsel to the Chief of Police and the United States Capitol Police

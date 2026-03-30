@@ -3,9 +3,9 @@ title: "Section 46 - Repealed. Pub. L. 116–260, div. O, title X, § 1002(1) , 
 usc_title: 18
 usc_section: "46"
 chapter: 3
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "18 U.S.C. § 46"
-generated_at: "2026-03-30T01:50:45.855Z"
+generated_at: "2026-03-30T01:53:21.340Z"
 ---
 
 # [§ 46. Repealed. Pub. L. 116–260, div. O, title X, § 1002(1) , Dec. 27, 2020 , 134 Stat. 2155 ]

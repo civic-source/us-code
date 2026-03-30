@@ -3,9 +3,9 @@ title: "Section 4703 - Establishment of Barry Goldwater Scholarship and Excellen
 usc_title: 20
 usc_section: "4703"
 chapter: 59
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 4703"
-generated_at: "2026-03-30T01:50:44.916Z"
+generated_at: "2026-03-30T01:53:18.028Z"
 ---
 
 # § 4703. Establishment of Barry Goldwater Scholarship and Excellence in Education Foundation

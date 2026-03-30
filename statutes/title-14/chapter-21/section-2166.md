@@ -3,9 +3,9 @@ title: "Section 2166 - Continuation on active duty; Coast Guard officers with ce
 usc_title: 14
 usc_section: "2166"
 chapter: 21
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "14 U.S.C. § 2166"
-generated_at: "2026-03-30T01:50:29.691Z"
+generated_at: "2026-03-30T01:53:06.360Z"
 ---
 
 # § 2166. Continuation on active duty; Coast Guard officers with certain critical skills

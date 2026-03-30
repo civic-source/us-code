@@ -3,9 +3,9 @@ title: "Section 763 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV],
 usc_title: 33
 usc_section: "763"
 chapter: 16
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 763"
-generated_at: "2026-03-30T01:51:22.548Z"
+generated_at: "2026-03-30T01:54:02.292Z"
 ---
 
 # § 763. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(a), Jan. 1, 2021 , 134 Stat. 4757 ; Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(13) , Dec. 23, 2022 , 136 Stat. 4165

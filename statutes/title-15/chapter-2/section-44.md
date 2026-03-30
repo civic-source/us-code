@@ -3,9 +3,9 @@ title: "Section 44 - Definitions"
 usc_title: 15
 usc_section: "44"
 chapter: 2
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 44"
-generated_at: "2026-03-30T01:50:38.796Z"
+generated_at: "2026-03-30T01:53:03.721Z"
 ---
 
 # § 44. Definitions

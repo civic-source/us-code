@@ -3,9 +3,9 @@ title: "Section 5 - Back levee north of Eudora Floodway"
 usc_title: 33
 usc_section: "5"
 chapter: 15
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 5"
-generated_at: "2026-03-30T01:51:22.546Z"
+generated_at: "2026-03-30T01:54:02.289Z"
 ---
 
 # § 702a–5. Back levee north of Eudora Floodway

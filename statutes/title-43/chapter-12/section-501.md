@@ -3,9 +3,9 @@ title: "Section 501 - Disposition of profits of project taken over by water user
 usc_title: 43
 usc_section: "501"
 chapter: 12
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "43 U.S.C. § 501"
-generated_at: "2026-03-30T01:51:32.532Z"
+generated_at: "2026-03-30T01:54:29.406Z"
 ---
 
 # § 501. Disposition of profits of project taken over by water users

@@ -3,9 +3,9 @@ title: "Section 4702 - Research programs"
 usc_title: 5
 usc_section: "4702"
 chapter: 47
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "5 U.S.C. § 4702"
-generated_at: "2026-03-30T01:50:03.041Z"
+generated_at: "2026-03-30T01:52:30.118Z"
 ---
 
 # § 4702. Research programs

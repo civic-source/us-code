@@ -3,9 +3,9 @@ title: "Section 5195c - Critical infrastructures protection"
 usc_title: 42
 usc_section: "5195c"
 chapter: 68
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 5195c"
-generated_at: "2026-03-30T01:51:50.674Z"
+generated_at: "2026-03-30T01:54:58.440Z"
 ---
 
 # § 5195c. Critical infrastructures protection

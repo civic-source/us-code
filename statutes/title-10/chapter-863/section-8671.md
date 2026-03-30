@@ -3,9 +3,9 @@ title: "Section 8671 - Determination of vessel delivery dates"
 usc_title: 10
 usc_section: "8671"
 chapter: 863
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 8671"
-generated_at: "2026-03-30T01:50:26.008Z"
+generated_at: "2026-03-30T01:52:52.544Z"
 ---
 
 # § 8671. Determination of vessel delivery dates

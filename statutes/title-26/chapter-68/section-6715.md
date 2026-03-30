@@ -3,9 +3,9 @@ title: "Section 6715 - Dyed fuel sold for use or used in taxable use, etc."
 usc_title: 26
 usc_section: "6715"
 chapter: 68
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "26 U.S.C. § 6715"
-generated_at: "2026-03-30T01:51:17.944Z"
+generated_at: "2026-03-30T01:53:45.501Z"
 ---
 
 # § 6715. Dyed fuel sold for use or used in taxable use, etc.

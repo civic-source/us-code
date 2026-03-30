@@ -3,9 +3,9 @@ title: "Section 18641 - Basic energy sciences"
 usc_title: 42
 usc_section: "18641"
 chapter: 161
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 18641"
-generated_at: "2026-03-30T01:51:50.964Z"
+generated_at: "2026-03-30T01:54:58.718Z"
 ---
 
 # § 18641. Basic energy sciences

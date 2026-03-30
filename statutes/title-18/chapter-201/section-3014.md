@@ -3,9 +3,9 @@ title: "Section 3014 - Additional special assessment"
 usc_title: 18
 usc_section: "3014"
 chapter: 201
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "18 U.S.C. § 3014"
-generated_at: "2026-03-30T01:50:45.899Z"
+generated_at: "2026-03-30T01:53:21.383Z"
 ---
 
 # § 3014. Additional special assessment

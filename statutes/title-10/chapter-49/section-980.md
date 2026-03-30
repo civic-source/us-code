@@ -3,9 +3,9 @@ title: "Section 980 - Limitation on use of humans as experimental subjects"
 usc_title: 10
 usc_section: "980"
 chapter: 49
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 980"
-generated_at: "2026-03-30T01:50:25.888Z"
+generated_at: "2026-03-30T01:52:52.434Z"
 ---
 
 # § 980. Limitation on use of humans as experimental subjects

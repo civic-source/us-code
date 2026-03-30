@@ -3,9 +3,9 @@ title: "Section 1743 - Authorization of appropriations"
 usc_title: 2
 usc_section: "1743"
 chapter: 27
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "2 U.S.C. § 1743"
-generated_at: "2026-03-30T01:49:52.116Z"
+generated_at: "2026-03-30T01:52:27.366Z"
 ---
 
 # § 1743. Authorization of appropriations

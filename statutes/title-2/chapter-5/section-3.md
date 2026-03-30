@@ -3,9 +3,9 @@ title: "Section 3 - Authority to transfer amounts between categories of appropri
 usc_title: 2
 usc_section: "3"
 chapter: 5
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "2 U.S.C. § 3"
-generated_at: "2026-03-30T01:49:52.085Z"
+generated_at: "2026-03-30T01:52:27.336Z"
 ---
 
 # § 132a–3. Authority to transfer amounts between categories of appropriations

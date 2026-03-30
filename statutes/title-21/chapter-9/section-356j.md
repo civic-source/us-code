@@ -3,9 +3,9 @@ title: "Section 356j - Discontinuance or interruption in the production of medic
 usc_title: 21
 usc_section: "356j"
 chapter: 9
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "21 U.S.C. § 356j"
-generated_at: "2026-03-30T01:50:58.454Z"
+generated_at: "2026-03-30T01:53:24.755Z"
 ---
 
 # § 356j. Discontinuance or interruption in the production of medical devices

@@ -3,9 +3,9 @@ title: "Section 107 - Domestic Policy Staff and Office of Administration; person
 usc_title: 3
 usc_section: "107"
 chapter: 2
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "3 U.S.C. § 107"
-generated_at: "2026-03-30T01:49:53.985Z"
+generated_at: "2026-03-30T01:52:37.694Z"
 ---
 
 # § 107. Domestic Policy Staff and Office of Administration; personnel

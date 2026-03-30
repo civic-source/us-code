@@ -3,9 +3,9 @@ title: "Section 4 - Fuse-plug levees"
 usc_title: 33
 usc_section: "4"
 chapter: 15
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 4"
-generated_at: "2026-03-30T01:51:22.546Z"
+generated_at: "2026-03-30T01:54:02.289Z"
 ---
 
 # § 702a–4. Fuse-plug levees

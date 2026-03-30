@@ -3,9 +3,9 @@ title: "Section 3904 - Securities laws"
 usc_title: 15
 usc_section: "3904"
 chapter: 65
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "15 U.S.C. § 3904"
-generated_at: "2026-03-30T01:50:38.962Z"
+generated_at: "2026-03-30T01:53:03.889Z"
 ---
 
 # § 3904. Securities laws

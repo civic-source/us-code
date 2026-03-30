@@ -3,9 +3,9 @@ title: "Section 1974 - Actions by United States; subpenas for witnesses"
 usc_title: 12
 usc_section: "1974"
 chapter: 22
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "12 U.S.C. § 1974"
-generated_at: "2026-03-30T01:50:36.103Z"
+generated_at: "2026-03-30T01:52:58.366Z"
 ---
 
 # § 1974. Actions by United States; subpenas for witnesses

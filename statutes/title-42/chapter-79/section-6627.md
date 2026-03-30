@@ -3,9 +3,9 @@ title: "Section 6627 - Federally-funded research with enhanced pathogens of pand
 usc_title: 42
 usc_section: "6627"
 chapter: 79
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 6627"
-generated_at: "2026-03-30T01:51:50.709Z"
+generated_at: "2026-03-30T01:54:58.476Z"
 ---
 
 # § 6627. Federally-funded research with enhanced pathogens of pandemic potential

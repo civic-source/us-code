@@ -3,9 +3,9 @@ title: "Section 2716 - Financial responsibility"
 usc_title: 33
 usc_section: "2716"
 chapter: 40
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "33 U.S.C. § 2716"
-generated_at: "2026-03-30T01:51:22.608Z"
+generated_at: "2026-03-30T01:54:02.346Z"
 ---
 
 # § 2716. Financial responsibility

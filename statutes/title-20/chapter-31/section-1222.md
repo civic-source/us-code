@@ -3,9 +3,9 @@ title: "Section 1222 - Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B) , Au
 usc_title: 20
 usc_section: "1222"
 chapter: 31
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "20 U.S.C. § 1222"
-generated_at: "2026-03-30T01:50:44.886Z"
+generated_at: "2026-03-30T01:53:17.998Z"
 ---
 
 # § 1222. Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B) , Aug. 21, 1974 , 88 Stat. 562

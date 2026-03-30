@@ -3,9 +3,9 @@ title: "Section 2225 - Reclamation Drought Response Fund"
 usc_title: 43
 usc_section: "2225"
 chapter: 40
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "43 U.S.C. § 2225"
-generated_at: "2026-03-30T01:51:32.572Z"
+generated_at: "2026-03-30T01:54:29.452Z"
 ---
 
 # § 2225. Reclamation Drought Response Fund

@@ -3,9 +3,9 @@ title: "Section 4127 - Authorization of appropriations; availability"
 usc_title: 42
 usc_section: "4127"
 chapter: 50
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 4127"
-generated_at: "2026-03-30T01:51:50.650Z"
+generated_at: "2026-03-30T01:54:58.410Z"
 ---
 
 # § 4127. Authorization of appropriations; availability

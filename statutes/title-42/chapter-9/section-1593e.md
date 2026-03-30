@@ -3,9 +3,9 @@ title: "Section 1593e - Housing of persons displaced by acquisition of property 
 usc_title: 42
 usc_section: "1593e"
 chapter: 9
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "42 U.S.C. § 1593e"
-generated_at: "2026-03-30T01:51:50.559Z"
+generated_at: "2026-03-30T01:54:58.314Z"
 ---
 
 # § 1593e. Housing of persons displaced by acquisition of property for defense installations or industries

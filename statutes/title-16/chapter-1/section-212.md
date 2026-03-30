@@ -3,9 +3,9 @@ title: "Section 212 - Endowment fund; protection and preservation"
 usc_title: 16
 usc_section: "212"
 chapter: 1
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "16 U.S.C. § 212"
-generated_at: "2026-03-30T01:50:50.129Z"
+generated_at: "2026-03-30T01:53:13.120Z"
 ---
 
 # § 212. Endowment fund; protection and preservation

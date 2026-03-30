@@ -3,9 +3,9 @@ title: "Section 6122 - Flexible schedules; agencies authorized to use"
 usc_title: 5
 usc_section: "6122"
 chapter: 61
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "5 U.S.C. § 6122"
-generated_at: "2026-03-30T01:50:03.053Z"
+generated_at: "2026-03-30T01:52:30.134Z"
 ---
 
 # § 6122. Flexible schedules; agencies authorized to use

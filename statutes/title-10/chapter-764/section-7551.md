@@ -3,9 +3,9 @@ title: "Section 7551 - Definitions"
 usc_title: 10
 usc_section: "7551"
 chapter: 764
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 7551"
-generated_at: "2026-03-30T01:50:25.997Z"
+generated_at: "2026-03-30T01:52:52.534Z"
 ---
 
 # § 7551. Definitions

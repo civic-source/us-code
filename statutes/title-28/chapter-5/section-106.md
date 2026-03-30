@@ -3,9 +3,9 @@ title: "Section 106 - Montana"
 usc_title: 28
 usc_section: "106"
 chapter: 5
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "28 U.S.C. § 106"
-generated_at: "2026-03-30T01:51:09.438Z"
+generated_at: "2026-03-30T01:53:40.553Z"
 ---
 
 # § 106. Montana

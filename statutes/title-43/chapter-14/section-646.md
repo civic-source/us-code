@@ -3,9 +3,9 @@ title: "Section 646 - Grant extended to New Mexico and Arizona"
 usc_title: 43
 usc_section: "646"
 chapter: 14
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "43 U.S.C. § 646"
-generated_at: "2026-03-30T01:51:32.539Z"
+generated_at: "2026-03-30T01:54:29.412Z"
 ---
 
 # § 646. Grant extended to New Mexico and Arizona

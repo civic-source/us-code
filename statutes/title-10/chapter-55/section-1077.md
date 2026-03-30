@@ -3,9 +3,9 @@ title: "Section 1077 - Medical care for dependents: authorized care in facilitie
 usc_title: 10
 usc_section: "1077"
 chapter: 55
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "10 U.S.C. § 1077"
-generated_at: "2026-03-30T01:50:25.897Z"
+generated_at: "2026-03-30T01:52:52.441Z"
 ---
 
 # § 1077. Medical care for dependents: authorized care in facilities of uniformed services

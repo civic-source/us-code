@@ -3,9 +3,9 @@ title: "Section 1790d - Prompt corrective action"
 usc_title: 12
 usc_section: "1790d"
 chapter: 14
-current_through: "PL 118-107"
+current_through: "PL 118-136"
 classification: "12 U.S.C. § 1790d"
-generated_at: "2026-03-30T01:50:36.074Z"
+generated_at: "2026-03-30T01:52:58.339Z"
 ---
 
 # § 1790d. Prompt corrective action
