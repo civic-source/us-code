@@ -3,9 +3,9 @@ title: "Section 2547 - Acquisition-related functions of chiefs of the armed forc
 usc_title: 10
 usc_section: "2547"
 chapter: 149
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2547"
-generated_at: "2026-03-30T08:55:17.717Z"
+generated_at: "2026-03-30T08:58:17.484Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
 - **(b)**
   - **(1)** The Secretary of the military department concerned shall ensure that the program capability document supporting a Milestone B or subsequent decision for a major defense acquisition program may not be approved until the chief of the armed force concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under section 2448a(a) of this title .
   - **(2)** Consistent with the performance of duties under subsection (a), the Chief of the armed force concerned, or in the case of a joint program the chiefs of the armed forces concerned, with respect to major defense acquisition programs, shall—
-    - **(A)** concur with the need for a material solution as identified in the Material Development Decision Review prior to entry into the Material Solution Analysis Phase under Department of Defense Instruction 5000.02;
+    - **(A)** concur with the need for a materiel solution as identified in the Materiel Development Decision Review prior to entry into the Materiel Solution Analysis Phase under Department of Defense Instruction 5000.02;
     - **(B)** concur with the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program before Milestone A approval is granted under section 2366a of this title ;
     - **(C)** concur that appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total life-cycle cost before Milestone B approval is granted under section 2366b of this title ; and
     - **(D)** concur that the requirements in the program capability document are necessary and realistic in relation to program cost and fielding targets as required by paragraph (1) before Milestone C approval is granted.

@@ -3,9 +3,9 @@ title: "Section 2501 - Definitions"
 usc_title: 50
 usc_section: "2501"
 chapter: 42
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2501"
-generated_at: "2026-03-30T08:57:54.487Z"
+generated_at: "2026-03-30T08:59:52.828Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ Except as otherwise provided, in this chapter:
     - **(C)** Lawrence Livermore National Laboratory, Livermore, California.
   - **(8)** The term “Nuclear Weapons Council” means the Nuclear Weapons Council established by section 179 of title 10 .
   - **(9)** The term “nuclear weapons production facility” means any of the following:
-    - **(A)** The Kansas City Plant, Kansas City, Missouri.
+    - **(A)** The Kansas City National Security Campus, Kansas City, Missouri.
     - **(B)** The Pantex Plant, Amarillo, Texas.
     - **(C)** The Y–12 National Security Complex, Oak Ridge, Tennessee.
     - **(D)** The Savannah River Site, Aiken, South Carolina.

@@ -3,9 +3,9 @@ title: "Section 2221 - General authority"
 usc_title: 22
 usc_section: "2221"
 chapter: 32
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 2221"
-generated_at: "2026-03-30T08:56:22.211Z"
+generated_at: "2026-03-30T08:59:03.821Z"
 status: "active"
 ---
 

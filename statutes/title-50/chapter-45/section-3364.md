@@ -3,9 +3,9 @@ title: "Section 3364 - Assignment of responsibilities relating to analytic integ
 usc_title: 50
 usc_section: "3364"
 chapter: 45
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 3364"
-generated_at: "2026-03-30T08:57:54.505Z"
+generated_at: "2026-03-30T08:59:52.849Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(A)** include whether the product or products concerned were based on all sources of available intelligence, properly describe the quality and reliability of underlying sources, properly caveat and express uncertainties or confidence in analytic judgments, properly distinguish between underlying intelligence and the assumptions and judgments of analysts, and incorporate, where appropriate, alternative analyses; and
     - **(B)** ensure that the analytic methodologies, tradecraft, and practices used by the element or elements concerned in the production of the product or products concerned meet the standards set forth in subsection (a).
   - **(3)** Information drafted under paragraph (1)(D) should, as appropriate, be included in analysis teaching modules and case studies for use throughout the intelligence community.
-- **(c)** Not later than December 1 each year, the Director of National Intelligence shall submit to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a report containing a description, and the associated findings, of each review under subsection (b)(1)(B) during such year.
+- **(c)** Not later than December 1 each year, the Director of National Intelligence shall provide to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a briefing with a description, and the associated findings, of each review under subsection (b)(1)(B) during such year.
 - **(d)** In this section, the term “congressional intelligence committees” means—
   - **(1)** the Select Committee on Intelligence of the Senate; and
   - **(2)** the Permanent Select Committee on Intelligence of the House of Representatives.

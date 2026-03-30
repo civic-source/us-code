@@ -3,9 +3,9 @@ title: "Section 4135 - Foreign Service Grievance Board"
 usc_title: 22
 usc_section: "4135"
 chapter: 52
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 4135"
-generated_at: "2026-03-30T08:56:22.258Z"
+generated_at: "2026-03-30T08:59:03.869Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9110 - Standards for depository institutions holding securities 
 usc_title: 31
 usc_section: "9110"
 chapter: 91
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "31 U.S.C. § 9110"
-generated_at: "2026-03-30T08:56:52.865Z"
+generated_at: "2026-03-30T08:59:22.415Z"
 status: "active"
 ---
 

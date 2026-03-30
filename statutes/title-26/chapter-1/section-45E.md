@@ -3,9 +3,9 @@ title: "Section 45E - Small employer pension plan startup costs"
 usc_title: 26
 usc_section: "45E"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 45E"
-generated_at: "2026-03-30T08:56:41.309Z"
+generated_at: "2026-03-30T08:59:14.296Z"
 status: "active"
 ---
 
@@ -13,7 +13,11 @@ status: "active"
 
 - **(a)** For purposes of section 38, in the case of an eligible employer, the small employer pension plan startup cost credit determined under this section for any taxable year is an amount equal to 50 percent of the qualified startup costs paid or incurred by the taxpayer during the taxable year.
 - **(b)** The amount of the credit determined under this section for any taxable year shall not exceed—
-  - **(1)** $500 for the first credit year and each of the 2 taxable years immediately following the first credit year, and
+  - **(1)** for the first credit year and each of the 2 taxable years immediately following the first credit year, the greater of—
+    - **(A)** $500, or
+    - **(B)** the lesser of—
+      - **(i)** $250 for each employee of the eligible employer who is not a highly compensated employee (as defined in section 414(q)) and who is eligible to participate in the eligible employer plan maintained by the eligible employer, or
+      - **(ii)** $5,000, and
   - **(2)** zero for any other taxable year.
 - **(c)** For purposes of this section—
   - **(1)** The term “eligible employer” has the meaning given such term by section 408(p)(2)(C)(i).

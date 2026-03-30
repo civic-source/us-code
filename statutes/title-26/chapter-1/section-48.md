@@ -3,9 +3,9 @@ title: "Section 48 - Energy credit"
 usc_title: 26
 usc_section: "48"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 48"
-generated_at: "2026-03-30T08:56:41.312Z"
+generated_at: "2026-03-30T08:59:14.299Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
     - **(B)** No credit shall be allowed under section 45 for any taxable year with respect to any qualified investment credit facility.
     - **(C)** For purposes of this paragraph, the term “qualified investment credit facility” means any facility—
       - **(i)** which is a qualified facility (within the meaning of section 45) described in paragraph (1), (2), (3), (4), (6), (7), (9), or (11) of section 45(d),
-      - **(ii)** which is placed in service after 2008 and the construction of which begins before January 1, 2018 ( January 1, 2020 , in the case of any facility which is described in paragraph (1) of section 45(d)), and
+      - **(ii)** which is placed in service after 2008 and the construction of which begins before January 1, 2021 , and
       - **(iii)** with respect to which—
         - **(I)** no credit has been allowed under section 45, and
         - **(II)** the taxpayer makes an irrevocable election to have this paragraph apply.
@@ -67,8 +67,9 @@ status: "active"
       - **(iv)** the original use of which commences with the taxpayer.
     - **(E)** In the case of any facility using wind to produce electricity which is treated as energy property by reason of this paragraph, the amount of the credit determined under this section (determined after the application of paragraphs (1) and (2) and without regard to this subparagraph) shall be reduced by—
       - **(i)** in the case of any facility the construction of which begins after December 31, 2016 , and before January 1, 2018 , 20 percent,
-      - **(ii)** in the case of any facility the construction of which begins after December 31, 2017 , and before January 1, 2019 , 40 percent, and
-      - **(iii)** in the case of any facility the construction of which begins after December 31, 2018 , and before January 1, 2020 , 60 percent.
+      - **(ii)** in the case of any facility the construction of which begins after December 31, 2017 , and before January 1, 2019 , 40 percent,
+      - **(iii)** in the case of any facility the construction of which begins after December 31, 2018 , and before January 1, 2020 , 60 percent, and
+      - **(iv)** in the case of any facility the construction of which begins after December 31, 2019 , and before January 1, 2021 , 40 percent.
   - **(6)**
     - **(A)** Subject to subparagraph (B), in the case of any energy property described in paragraph (3)(A)(i) the construction of which begins before January 1, 2022 , the energy percentage determined under paragraph (2) shall be equal to—
       - **(i)** in the case of any property the construction of which begins after December 31, 2019 , and before January 1, 2021 , 26 percent, and

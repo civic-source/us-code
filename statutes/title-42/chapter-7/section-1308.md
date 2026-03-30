@@ -3,9 +3,9 @@ title: "Section 1308 - Additional grants to Puerto Rico, Virgin Islands, Guam, a
 usc_title: 42
 usc_section: "1308"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 1308"
-generated_at: "2026-03-30T08:57:32.224Z"
+generated_at: "2026-03-30T08:59:46.747Z"
 status: "active"
 ---
 
@@ -50,12 +50,22 @@ status: "active"
     - **(C)** For Guam, $750,000.
     - **(D)** For the Northern Mariana Islands, $500,000.
     - **(E)** For American Samoa, $500,000.
-  - **(2)** Notwithstanding subsection (f) and subject to and section 18043(a)(2) of this title paragraphs (3) and (5), 2 2 So in original. Probably should be “Notwithstanding subsection (f) and subject to paragraphs (3) and (5) and section 18043(a)(2) of this title ,”. with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX for payment to—
-    - **(A)** Puerto Rico shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
-    - **(B)** the Virgin Islands shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
-    - **(C)** Guam shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
-    - **(D)** the Northern Mariana Islands shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
-    - **(E)** American Samoa shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000.
+  - **(2)** Notwithstanding subsection (f) and subject to section 18043(a)(2) of this title and paragraphs (3) and (5), with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX for payment to—
+    - **(A)** Puerto Rico shall not exceed—
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000; and
+      - **(ii)** for each of fiscal years 2020 through 2021, the amount specified in paragraph (6) for each such fiscal year;
+    - **(B)** the Virgin Islands shall not exceed—
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+      - **(ii)** for each of fiscal years 2020 through 2021, $126,000,000;
+    - **(C)** Guam shall not exceed—
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+      - **(ii)** for each of fiscal years 2020 through 2021, $127,000,000;
+    - **(D)** the Northern Mariana Islands shall not exceed—
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+      - **(ii)** for each of fiscal years 2020 through 2021, $60,000,000; and
+    - **(E)** American Samoa shall not exceed—
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+      - **(ii)** for each of fiscal years 2020 through 2021, $84,000,000.
   - **(3)** The amounts otherwise determined under this subsection for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa for fiscal year 2006 and fiscal year 2007 shall be increased by the following amounts:
     - **(A)** For Puerto Rico, $12,000,000 for fiscal year 2006 and $12,000,000 for fiscal year 2007.
     - **(B)** For the Virgin Islands, $2,500,000 for fiscal year 2006 and $5,000,000 for fiscal year 2007.
@@ -79,3 +89,44 @@ status: "active"
       - **(i)** during the period in which the additional funds provided under subparagraphs (C), (D), and (E) are available for Puerto Rico, the Virgin Islands, and the Northern Mariana Islands, respectively, with respect to payments from such additional funds for amounts expended by Puerto Rico, the Virgin Islands, and the Northern Mariana Islands under such subchapter, the Secretary shall increase the Federal medical assistance percentage or other rate that would otherwise apply to such payments to 100 percent; and
       - **(ii)** for the period beginning January 1, 2019 , and ending September 30, 2019 , with respect to payments to Guam and American Samoa from the additional funds provided under subparagraph (A), the Secretary shall increase the Federal medical assistance percentage or other rate that would otherwise apply to such payments to 100 percent.
     - **(G)** Not later than September 30, 2019 , Guam and American Samoa shall each submit a plan to the Secretary outlining the steps each such territory shall take to collect and report reliable data to the Transformed Medicaid Statistical Information System (T–MSIS) (or a successor system).
+  - **(6)**
+    - **(A)** Subject to subparagraph (B), the amount specified in this paragraph is—
+      - **(i)** for fiscal year 2020, $2,623,188,000; and
+      - **(ii)** for fiscal year 2021, $2,719,072,000.
+    - **(B)**
+      - **(i)** For each of fiscal years 2020 through 2021, the amount specified in this paragraph for the fiscal year shall be equal to the amount specified for such fiscal year under subparagraph (A) increased by $200,000,000 if the Secretary certifies that, with respect to such fiscal year, Puerto Rico’s State plan under subchapter XIX (or a waiver of such plan) establishes a reimbursement floor, implemented through a directed payment arrangement plan, for physician services that are covered under the Medicare part B fee schedule in the Puerto Rico locality established under section 1395w–4(b) of this title that is not less than 70 percent of the payment that would apply to such services if they were furnished under part B of subchapter XVIII during such fiscal year.
+      - **(ii)** In certifying whether Puerto Rico has established a reimbursement floor under a directed payment arrangement plan that satisfies the requirements of clause (i)—
+        - **(I)** for fiscal year 2020, the Secretary shall apply such requirements to payments for physician services under a managed care contract entered into or renewed after December 20, 2019 , and disregard payments for physician services under any managed care contract that was entered into prior to such date; and
+        - **(II)** for each of fiscal years 2020 through 2021—
+  - **(7)**
+    - **(A)**
+      - **(i)** Not later than 6 months after December 20, 2019 , the agency responsible for the administration of Puerto Rico’s Medicaid program under subchapter XIX shall designate an officer (other than the director of such agency) to serve as the Program Integrity Lead for such program.
+      - **(ii)** Not later than 18 months after December 20, 2019 , Puerto Rico shall publish a plan, developed by Puerto Rico in coordination with the Administrator of the Centers for Medicare & Medicaid Services and approved by the Administrator, for how Puerto Rico will develop measures to satisfy the payment error rate measurement (PERM) requirements under subpart Q of part 431 of title 42, Code of Federal Regulations (or any successor regulation).
+      - **(iii)** Not later than 12 months after December 20, 2019 , Puerto Rico shall publish a contracting reform plan to combat fraudulent, wasteful, or abusive contracts under Puerto Rico’s Medicaid program under subchapter XIX that includes—
+        - **(I)** metrics for evaluating the success of the plan; and
+        - **(II)** a schedule for publicly releasing status reports on the plan.
+      - **(iv)** Not later than 18 months after December 20, 2019 , Puerto Rico shall publish a plan, developed by Puerto Rico in coordination with the Administrator of the Centers for Medicare & Medicaid Services and approved by the Administrator, for how Puerto Rico will comply with the Medicaid eligibility quality control (MEQC) requirements of subpart P of part 431 of title 42, Code of Federal Regulations (or any successor regulation).
+    - **(B)**
+      - **(i)** For each fiscal quarter during the period beginning on January 1, 2020 , and ending on September 30, 2021 :
+        - **(I)** For every clause under subparagraph (A) with respect to which Puerto Rico does not fully satisfy the requirements described in the clause (including requirements imposed under the terms of a plan described in the clause) in the fiscal quarter, the Federal medical assistance percentage applicable to Puerto Rico under section 1396d(ff) of this title shall be reduced by the number of percentage points determined for the clause and fiscal quarter under subclause (II).
+        - **(II)** The number of percentage points determined under this subclause with respect to a clause under subparagraph (A) and a fiscal quarter shall be the number of percentage points (not to exceed 2.5 percentage points) equal to—
+      - **(ii)** For purposes of clause (i), Puerto Rico shall be deemed to have fully satisfied the requirements of a clause under subparagraph (A) (including requirements imposed under the terms of a plan described in the clause) for a fiscal quarter if—
+        - **(I)** the Secretary approves an application from Puerto Rico describing extenuating circumstances that prevented Puerto Rico from fully satisfying the requirements of the clause; or
+        - **(II)** in the case of a requirement imposed under the terms of a plan described in a clause under subparagraph (A), Puerto Rico has made objectively reasonable progress towards satisfying such terms and has submitted a timely request for an exception to the imposition of a penalty to the Secretary.
+  - **(8)**
+    - **(A)** Not later than October 1, 2020 , the agency responsible for the administration of the Medicaid program under subchapter XIX of each territory specified in subparagraph (C) shall designate an officer (other than the director of such agency) to serve as the Program Integrity Lead for such program.
+    - **(B)** For each fiscal quarter during fiscal year 2021, if the territory fails to satisfy the requirement of subparagraph (A) for the fiscal quarter, the Federal medical assistance percentage applicable to the territory under section 1396d(ff) of this title for such fiscal quarter shall be reduced by the number of percentage points (not to exceed 5 percentage points) equal to—
+      - **(i)** 0.25 percentage points; multiplied by
+      - **(ii)** the total number of fiscal quarters during the fiscal year in which the territory failed to satisfy such requirement.
+    - **(C)** This paragraph shall apply to the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.
+  - **(9)**
+    - **(A)** Not later than the date that is 30 days after the end of each fiscal year (beginning with fiscal year 2020 and ending with fiscal year 2021), in the case that a specified territory receives a Medicaid cap increase, or an increase in the Federal medical assistance percentage for such territory under section 1396d(ff) of this title , for such fiscal year, such territory shall submit to the Chair and Ranking Member of the Committee on Energy and Commerce of the House of Representatives and the Chair and Ranking Member of the Committee on Finance of the Senate a report, employing the most up-to-date information available, that describes how such territory has used such Medicaid cap increase, or such increase in the Federal medical assistance percentage, as applicable, to increase access to health care under the State Medicaid plan of such territory under subchapter XIX (or a waiver of such plan). Such report may include—
+      - **(i)** the extent to which such territory has, with respect to such plan (or waiver)—
+        - **(I)** increased payments to health care providers;
+        - **(II)** increased covered benefits;
+        - **(III)** expanded health care provider networks; or
+        - **(IV)** improved in any other manner the carrying out of such plan (or waiver); and
+      - **(ii)** any other information as determined necessary by such territory.
+    - **(B)** In this paragraph:
+      - **(i)** The term “Medicaid cap increase” means, with respect to a specified territory and fiscal year, any increase in the amounts otherwise determined under this subsection for such territory for such fiscal year by reason of the amendments made by section 202 of division N of the Further Consolidated Appropriations Act, 2020.
+      - **(ii)** The term “specified territory” means Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.

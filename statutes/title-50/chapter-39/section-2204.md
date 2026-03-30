@@ -3,9 +3,9 @@ title: "Section 2204 - Definitions"
 usc_title: 50
 usc_section: "2204"
 chapter: 39
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2204"
-generated_at: "2026-03-30T08:57:54.484Z"
+generated_at: "2026-03-30T08:59:52.825Z"
 status: "active"
 ---
 

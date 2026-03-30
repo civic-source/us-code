@@ -3,9 +3,9 @@ title: "Section 1903 - Special emergency procurement authority"
 usc_title: 41
 usc_section: "1903"
 chapter: 19
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "41 U.S.C. § 1903"
-generated_at: "2026-03-30T08:57:22.251Z"
+generated_at: "2026-03-30T08:59:30.595Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(B)** $1,500,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
   - **(3)** the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and section 2304(g)(1)(B) of title 10 is deemed to be $10,000,000.
 - **(c)**
-  - **(1)** The head of an executive agency carrying out a procurement of property or a service to which this section applies under subsection (a)(2) may treat the property or service as a commercial item for the purpose of carrying out the procurement.
-  - **(2)** A contract in an amount of more than $15,000,000 that is awarded on a sole source basis for an item or service treated as a commercial item under paragraph (1) is not exempt from—
+  - **(1)** The head of an executive agency carrying out a procurement of property or a service to which this section applies under subsection (a)(2) may treat the property or service as a commercial product or a commercial service for the purpose of carrying out the procurement.
+  - **(2)** A contract in an amount of more than $15,000,000 that is awarded on a sole source basis for a product or service treated as a commercial product or a commercial service under paragraph (1) is not exempt from—
     - **(A)** cost accounting standards prescribed under section 1502 of this title ; or
     - **(B)** cost or pricing data requirements (commonly referred to as truth in negotiating) under chapter 35 of this title and section 2306a of title 10 .

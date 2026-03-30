@@ -3,9 +3,9 @@ title: "Section 139b - Special Operations Policy and Oversight Council"
 usc_title: 10
 usc_section: "139b"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 139b"
-generated_at: "2026-03-30T08:55:17.622Z"
+generated_at: "2026-03-30T08:58:17.389Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** The Under Secretary of Defense for Management and Support.
     - **(C)** The Under Secretary of Defense (Comptroller).
     - **(D)** The Under Secretary of Defense for Personnel and Readiness.
-    - **(E)** The Under Secretary of Defense for Intelligence.
+    - **(E)** The Under Secretary of Defense for Intelligence and Security.
     - **(F)** The General Counsel of the Department of Defense.
     - **(G)** The other Assistant Secretaries of Defense under the Under Secretary of Defense for Policy.
     - **(H)** The military departments.

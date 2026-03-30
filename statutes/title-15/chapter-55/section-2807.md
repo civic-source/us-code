@@ -3,9 +3,9 @@ title: "Section 2807 - Prohibition on restriction of installation of renewable f
 usc_title: 15
 usc_section: "2807"
 chapter: 55
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 2807"
-generated_at: "2026-03-30T08:55:58.053Z"
+generated_at: "2026-03-30T08:58:33.099Z"
 status: "active"
 ---
 

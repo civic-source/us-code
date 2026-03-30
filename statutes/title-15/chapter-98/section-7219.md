@@ -3,9 +3,9 @@ title: "Section 7219 - Funding"
 usc_title: 15
 usc_section: "7219"
 chapter: 98
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 7219"
-generated_at: "2026-03-30T08:55:58.084Z"
+generated_at: "2026-03-30T08:58:33.128Z"
 status: "active"
 ---
 

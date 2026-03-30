@@ -3,9 +3,9 @@ title: "Section 554 - Duty of shipowners and officers to furnish information to 
 usc_title: 33
 usc_section: "554"
 chapter: 12
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 554"
-generated_at: "2026-03-30T08:56:54.000Z"
+generated_at: "2026-03-30T08:59:20.760Z"
 status: "active"
 ---
 

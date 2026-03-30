@@ -3,9 +3,9 @@ title: "Section 2279 - Foreign commercial satellite services and foreign launche
 usc_title: 10
 usc_section: "2279"
 chapter: 135
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2279"
-generated_at: "2026-03-30T08:55:17.697Z"
+generated_at: "2026-03-30T08:58:17.462Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(B)** To the extent practicable, a description of the ownership interest that a covered foreign country has in the foreign entity providing satellite services to the Department of Defense under the contract and the launch or other satellite services that will be provided in a covered foreign country under the contract.
     - **(C)** A justification for entering into a contract with such foreign entity and a description of the actions necessary to eliminate the need to enter into such a contract with such foreign entity in the future.
     - **(D)** A risk assessment of entering into a contract with such foreign entity, including an assessment of mission assurance and security of information and a description of any measures necessary to mitigate risks found by such risk assessment.
-- **(d)** The Secretary of Defense may only delegate the authority under subsection (c) to enter into a contract subject to the prohibition under subsection (a) or (b) to the Deputy Secretary of Defense, the Under Secretary of Defense for Policy, or the Under Secretary of Defense for Acquisition, Technology, and Logistics and such authority may not be further delegated.
+- **(d)** The Secretary of Defense may only delegate the authority under subsection (c) to enter into a contract subject to the prohibition under subsection (a) or (b) to the Deputy Secretary of Defense, the Under Secretary of Defense for Policy, or the Under Secretary of Defense for Acquisition and Sustainment and such authority may not be further delegated.
 - **(e)** Each assessment under subsection (c) shall be submitted in unclassified form, but may include a classified annex.
 - **(f)** In this section:
   - **(1)** The term “covered foreign country” means any of the following:

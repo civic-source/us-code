@@ -3,9 +3,9 @@ title: "Section 2305a - Design-build selection procedures"
 usc_title: 10
 usc_section: "2305a"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2305a"
-generated_at: "2026-03-30T08:55:17.699Z"
+generated_at: "2026-03-30T08:58:17.464Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
     - **(B)** the evaluation factors and subfactors, including cost or price, that must be considered in the evaluations of proposals in accordance with paragraphs (2), (3), and (4) of section 2305(a) of this title .
   - **(5)** The agency awards the contract in accordance with section 2305(b)(4) of this title .
 - **(d)** A solicitation issued pursuant to the procedures described in subsection (c) shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4). If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless—
-  - **(1)** the solicitation is issued pursuant to a 1 1 So in original. Probably should be “an”. indefinite delivery-indefinite quantity contract for design-build construction; or
+  - **(1)** the solicitation is issued pursuant to an indefinite delivery-indefinite quantity contract for design-build construction; or
   - **(2)**
     - **(A)** the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer’s justification with respect to an individual solicitation that a maximum number greater than 5 is in the interest of the Federal Government; and
     - **(B)** the contracting officer provides written documentation of how a maximum number greater than 5 is consistent with the purposes and objectives of the two-phase selection procedures.

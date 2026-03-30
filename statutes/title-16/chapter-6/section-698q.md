@@ -3,9 +3,9 @@ title: "Section 698q - Little River Canyon National Preserve; establishment"
 usc_title: 16
 usc_section: "698q"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 698q"
-generated_at: "2026-03-30T08:56:05.454Z"
+generated_at: "2026-03-30T08:58:41.665Z"
 status: "active"
 ---
 

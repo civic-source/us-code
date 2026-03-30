@@ -3,9 +3,9 @@ title: "Section 602 - Duties and functions"
 usc_title: 2
 usc_section: "602"
 chapter: 17
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "2 U.S.C. § 602"
-generated_at: "2026-03-30T08:54:57.506Z"
+generated_at: "2026-03-30T08:58:09.918Z"
 status: "active"
 ---
 

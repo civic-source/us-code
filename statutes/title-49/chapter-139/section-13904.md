@@ -3,9 +3,9 @@ title: "Section 13904 - Registration of brokers"
 usc_title: 49
 usc_section: "13904"
 chapter: 139
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "49 U.S.C. § 13904"
-generated_at: "2026-03-30T08:57:40.827Z"
+generated_at: "2026-03-30T08:59:54.778Z"
 status: "active"
 ---
 

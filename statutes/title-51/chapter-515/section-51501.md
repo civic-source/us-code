@@ -3,9 +3,9 @@ title: "Section 51501 - Establishment of Office of Spaceports"
 usc_title: 51
 usc_section: "51501"
 chapter: 515
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "51 U.S.C. § 51501"
-generated_at: "2026-03-30T08:57:56.454Z"
+generated_at: "2026-03-30T09:00:04.260Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(3)** provide technical assistance and guidance to spaceports;
   - **(4)** promote United States spaceports within the Department; and
   - **(5)** strengthen the Nation’s competitiveness in commercial space transportation infrastructure and increase resilience for the Federal Government and commercial customers.
-- **(c)** In carrying out the functions assigned in subsection (b), the Secretary shall recognize the unique needs and distinctions of spaceports that host—
+- **(c)** In carrying out the functions assigned in subsection (b), the Secretary shall recognize the unique needs and distinctions of spaceports that host— 1 1 So in original. The dash probably should follow “that” and the word “host” probably should appear at the beginning of par. (1).
   - **(1)** launches to or reentries from orbit; and
   - **(2)** are involved in suborbital launch activities.
 - **(d)** The head of the Office of the Associate Administrator for Commercial Space Transportation shall designate a Director of the Office of Spaceports.

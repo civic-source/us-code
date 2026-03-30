@@ -3,9 +3,9 @@ title: "Section 386 - Annual report"
 usc_title: 10
 usc_section: "386"
 chapter: 16
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 386"
-generated_at: "2026-03-30T08:55:17.634Z"
+generated_at: "2026-03-30T08:58:17.399Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(5)** The number of members of the United States armed forces involved in providing such defense articles, defense services, supplies (including consumables), and small-scale construction, and, if applicable, a description of the military benefits for such members involved in providing such training, equipment, or assistance.
   - **(6)** A summary, by authority, of the activities carried out under each authority specified in subsection (c).
 - **(c)** The authorities specified in this subsection are the following authorities (or any successor authorities):
-  - **(1)** Sections 246, 251, 252, 253, 1 1 See References in Text note below. 321, 344, 348, 349, and 350 of this title.
+  - **(1)** Sections 246, 251, 252, 253, 1 1 See References in Text note below. 321, 341, 344, 348, 349, and 350 of this title.
   - **(2)** Section 166a(b)(6) of this title , relating to humanitarian and civic assistance by the commanders of the combatant commands.
   - **(3)** Section 168 of this title , relating to authority—
     - **(A)** to provide assistance to nations of the former Soviet Union as part of the Warsaw Initiative Fund;

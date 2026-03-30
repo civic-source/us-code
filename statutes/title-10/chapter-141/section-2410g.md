@@ -3,9 +3,9 @@ title: "Section 2410g - Advance notification of contract performance outside the
 usc_title: 10
 usc_section: "2410g"
 chapter: 141
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2410g"
-generated_at: "2026-03-30T08:55:17.710Z"
+generated_at: "2026-03-30T08:58:17.475Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(2)** in the case of any other Department of Defense contract, to such officer or employee of the Department of Defense as the Secretary of Defense may direct.
 - **(c)** The Secretary of Defense shall ensure that the notifications (or copies) are maintained in compiled form for a period of 5 years after the date of submission and are available for use in the preparation of the national defense technology and industrial base assessment carried out under section 2505 of this title .
 - **(d)** This section shall not apply to contracts for any of the following:
-  - **(1)** Commercial items (as defined in section 103 of title 41 ).
+  - **(1)** Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).
   - **(2)** Military construction.
   - **(3)** Ores.
   - **(4)** Natural gas.

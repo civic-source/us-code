@@ -1,15 +1,15 @@
 ---
-title: "Section 2323a - Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education"
+title: "Section 2323a - Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses"
 usc_title: 10
 usc_section: "2323a"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2323a"
-generated_at: "2026-03-30T08:55:17.702Z"
+generated_at: "2026-03-30T08:58:17.467Z"
 status: "active"
 ---
 
-# § 2323a. Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education
+# § 2323a. Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses
 
 - **(a)** Subject to subsections (b) and (c), in any case in which a subcontracting goal is specified in a Department of Defense contract in the implementation of section 8(d) of the Small Business Act ( 15 U.S.C. 637(d) ), credit toward meeting that subcontracting goal shall be given for—
   - **(1)** work performed in connection with that Department of Defense contract, and work performed in connection with any subcontract awarded under that Department of Defense contract, if such work is performed on any Indian lands and meets the requirements of paragraph (1) of subsection (b); or
@@ -27,7 +27,7 @@ status: "active"
   - **(2)** in the case of a contract or subcontract undertaken to be performed by a joint venture as described in subsection (a)(2), an amount equal to the amount of the contract or subcontract multiplied by the percentage of the tribe’s or tribally owned corporation’s ownership interest in the joint venture.
 - **(d)** The Secretary of Defense shall prescribe regulations for the implementation of this section.
 - **(e)** In this section:
-  - **(1)** The term “Indian lands” has the meaning given that term by section 4(4) of the Indian Gaming Regulatory Act ( 102 Stat. 2468 ; 25 U.S.C. 2703(4) ).
-  - **(2)** The term “Indian” has the meaning given that term by section 4(d) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b(d) ). 1 1 See References in Text note below.
-  - **(3)** The term “Indian tribe” has the meaning given that term by section 4(e) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b(e) ). 1
+  - **(1)** The term “Indian lands” has the meaning given that term by section 4(4) of the Indian Gaming Regulatory Act ( 25 U.S.C. 2703(4) ).
+  - **(2)** The term “Indian” has the meaning given that term by section 4(d) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304(d) ).
+  - **(3)** The term “Indian tribe” has the meaning given that term by section 4(e) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304(e) ).
   - **(4)** The term “tribally owned corporation” means a corporation owned entirely by an Indian tribe.

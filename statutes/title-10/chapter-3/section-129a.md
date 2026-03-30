@@ -3,9 +3,9 @@ title: "Section 129a - General policy for total force management"
 usc_title: 10
 usc_section: "129a"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 129a"
-generated_at: "2026-03-30T08:55:17.618Z"
+generated_at: "2026-03-30T08:58:17.388Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
 - **(c)** The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
   - **(1)** The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for guidance to implement such policies and procedures.
   - **(2)** The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.
-  - **(3)** The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for ensuring that the defense acquisition system, as defined in section 2545 of this title , is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
+  - **(3)** The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for ensuring that the defense acquisition system, as defined in section 2545 of this title , is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
   - **(4)** The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 - **(d)** The policies and procedures established by the Secretary under subsection (a) shall specifically require the Department of Defense to use the following when making determinations regarding the appropriate workforce mix necessary to perform its mission:
   - **(1)** The inventory of contracts for services required by section 2330a(c) of this title .
@@ -35,5 +35,7 @@ status: "active"
 - **(g)**
   - **(1)** Functions performed by civilian personnel should not be performed by military personnel except—
     - **(A)** if the Secretary of the military department concerned determines in writing based on mission requirements that the performance of such functions by military personnel is cost-effective, taking into account the fully-burdened costs of the civilian, military, and contractor workforces, including the impact of the performance of such functions on military career progression or when required by military necessity; or
-    - **(B)** if the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress, in which case such functions may not be performed by military personnel for a period in excess of one year.
+    - **(B)** such functions may be performed by military personnel for a period that does not exceed one year if the Secretary of the military department concerned determines that—
+      - **(i)** the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress; and
+      - **(ii)** the military department concerned is in compliance with the policies, procedures, and analysis required by this section and section 129 of this title .
   - **(2)** In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.

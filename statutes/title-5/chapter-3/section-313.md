@@ -3,9 +3,9 @@ title: "Section 313 - Evaluation Officers"
 usc_title: 5
 usc_section: "313"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "5 U.S.C. § 313"
-generated_at: "2026-03-30T08:54:55.075Z"
+generated_at: "2026-03-30T08:58:09.190Z"
 status: "active"
 ---
 

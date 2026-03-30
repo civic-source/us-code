@@ -3,9 +3,9 @@ title: "Section 127 - Vehicle weight limitations—Interstate System"
 usc_title: 23
 usc_section: "127"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "23 U.S.C. § 127"
-generated_at: "2026-03-30T08:56:18.789Z"
+generated_at: "2026-03-30T08:59:05.176Z"
 status: "active"
 ---
 
@@ -75,9 +75,11 @@ status: "active"
     - **(A)** Interstate Route 69 in Kentucky (formerly the Wendell H. Ford (Western Kentucky) Parkway) from the Interstate Route 24 Interchange, near Eddyville, to the Edward T. Breathitt (Pennyrile) Parkway Interchange.
     - **(B)** The Edward T. Breathitt (Pennyrile) Parkway (to be designated as Interstate Route 69) in Kentucky from the Wendell H. Ford (Western Kentucky) Parkway Interchange to near milepost 77, and on new alignment to an interchange on the Audubon Parkway, if the segment is designated as part of the Interstate System.
   - **(3)**
-    - **(A)** If any segment of highway described in clause (i) or (ii) of this subparagraph is designated as a route of the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a), except that such vehicle shall not exceed a gross vehicle weight of 120,000 pounds. The highway segments referred to in this paragraph are as follows:
+    - **(A)** If any segment of highway described in clauses (i) through (iv) of this subparagraph is designated as a route of the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a), except that such vehicle shall not exceed a gross vehicle weight of 120,000 pounds. The highway segments referred to in this paragraph are as follows:
       - **(i)** The William H. Natcher Parkway (to be designated as a spur of Interstate Route 65) from Interstate Route 65 in Bowling Green, Kentucky, to United States Route 60 in Owensboro, Kentucky.
       - **(ii)** The Julian M. Carroll (Purchase) Parkway (to be designated as Interstate Route 69) in Kentucky from the Tennessee state line to the interchange with Interstate Route 24, near Calvert City.
+      - **(iii)** The Wendell H. Ford (Western Kentucky) Parkway (to be designated as a spur of Interstate Route 69) from the interchange with the William H. Natcher Parkway in Ohio County, Kentucky, west to the interchange of the Western Kentucky Parkway with the Edward T. Breathitt (Pennyrile) Parkway.
+      - **(iv)** The Edward T. Breathitt (Pennyrile) Parkway (to be designated as a spur of Interstate Route 69) from Interstate 24, north to Interstate 69.
     - **(B)** Nothing in this paragraph shall prohibit the State from issuing a permit for a nondivisible load or vehicle with a gross vehicle weight that exceeds 120,000 pounds.
 - **(m)**
   - **(1)** The vehicle weight limitations set forth in this section do not apply to a covered heavy-duty tow and recovery vehicle.

@@ -3,9 +3,9 @@ title: "Section 230 - Repealed. Apr. 27, 1956, ch. 211, § 5(e) , 70 Stat. 117"
 usc_title: 42
 usc_section: "230"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 230"
-generated_at: "2026-03-30T08:57:32.046Z"
+generated_at: "2026-03-30T08:59:46.563Z"
 status: "repealed"
 ---
 

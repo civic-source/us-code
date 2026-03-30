@@ -3,9 +3,9 @@ title: "Section 1076e - TRICARE program: TRICARE Retired Reserve coverage for ce
 usc_title: 10
 usc_section: "1076e"
 chapter: 55
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1076e"
-generated_at: "2026-03-30T08:55:17.664Z"
+generated_at: "2026-03-30T08:58:17.429Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
 - **(b)** Eligibility for TRICARE Retired Reserve coverage of a member under this section shall terminate upon the member becoming eligible for TRICARE coverage at age 60 under section 1086 of this title .
 - **(c)** While a member of a reserve component is covered by TRICARE Retired Reserve under this section, the members of the immediate family of such member are eligible for TRICARE Retired Reserve coverage as dependents of the member. If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Retired Reserve coverage under this section shall continue for the same period of time that would be provided under section 1086 of this title if the member had been eligible at the time of death for TRICARE coverage under such section (instead of under this section).
 - **(d)**
-  - **(1)** A member of a reserve component covered by TRICARE Retired Reserve under this section shall pay a premium for that coverage. Such premium shall apply instead of any enrollment fees required under section 1075 of this section. 1 1 So in original. Probably should be “of this title.”
+  - **(1)** A member of a reserve component covered by TRICARE Retired Reserve under this section shall pay a premium for that coverage. Such premium shall apply instead of any enrollment fees required under section 1075 of this title .
   - **(2)** The Secretary of Defense shall prescribe for the purposes of this section one premium for TRICARE Retired Reserve coverage of members without dependents and one premium for TRICARE Retired Reserve coverage of members with dependents referred to in subsection (f)(1). The premium prescribed for a coverage shall apply uniformly to all members of the reserve components covered under this section.
   - **(3)** The monthly amount of the premium in effect for a month for TRICARE Retired Reserve coverage under this section shall be the amount equal to the cost of coverage that the Secretary determines on an appropriate actuarial basis.
   - **(4)** The Secretary shall prescribe the requirements and procedures applicable to the payment of premiums under this subsection.

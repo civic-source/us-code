@@ -3,9 +3,9 @@ title: "Section 2533b - Requirement to buy strategic materials critical to natio
 usc_title: 10
 usc_section: "2533b"
 chapter: 148
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2533b"
-generated_at: "2026-03-30T08:55:17.716Z"
+generated_at: "2026-03-30T08:58:17.482Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
 - **(k)**
   - **(1)** Notwithstanding subsection (a), the Secretary of Defense may accept the delivery of an end item containing noncompliant materials if the Secretary determines in writing that acceptance of such end item is necessary to the national security interests of the United States.
   - **(2)** A written determination under paragraph (1)—
-    - **(A)** may not be delegated below the level of the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+    - **(A)** may not be delegated below the level of the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition and Sustainment;
     - **(B)** shall specify the quantity of end items to which the waiver applies and the time period over which the waiver applies; and
     - **(C)** shall be provided to the congressional defense committees prior to making such a determination (except that in the case of an urgent national security requirement, such certification may be provided to the defense committees up to 7 days after it is made).
   - **(3)**

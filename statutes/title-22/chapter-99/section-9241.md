@@ -3,9 +3,9 @@ title: "Section 9241 - Strategy to promote North Korean human rights"
 usc_title: 22
 usc_section: "9241"
 chapter: 99
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 9241"
-generated_at: "2026-03-30T08:56:22.310Z"
+generated_at: "2026-03-30T08:59:03.921Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** The report required under subsection (a) should include—
   - **(1)** a list of countries that forcibly repatriate refugees from North Korea;
   - **(2)** a list of countries where North Korean laborers work, including countries the governments of which have formal arrangements with the Government of North Korea or any person acting for or on behalf of that Government to employ North Korean workers; and
-  - **(3)** a list of foreign persons that knowingly employ North Korean laborers, as described in section 9214(b)(1)(M) 1 1 So in original. The reference probably should be to section 9214(b)(1)(L) of this title . of this title.
+  - **(3)** a list of foreign persons that knowingly employ North Korean laborers, as described in section 9214(g)(1)(C) of this title .
 - **(c)** The report required under subsection (a) should include—
   - **(1)** a plan to enhance bilateral and multilateral outreach, including sustained engagement with the governments of partners and allies with overseas posts to routinely demarche or brief those governments on North Korea human rights issues, including forced labor, trafficking, and repatriation of citizens of North Korea;
   - **(2)** public affairs and public diplomacy campaigns, including options to work with news organizations and media outlets to publish opinion pieces and secure public speaking opportunities for United States Government officials on issues related to the human rights situation in North Korea, including forced labor, trafficking, and repatriation of citizens of North Korea; and

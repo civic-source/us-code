@@ -3,9 +3,9 @@ title: "Section 5776a - Transferred"
 usc_title: 42
 usc_section: "5776a"
 chapter: 72
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 5776a"
-generated_at: "2026-03-30T08:57:32.478Z"
+generated_at: "2026-03-30T08:59:47.021Z"
 status: "transferred"
 ---
 

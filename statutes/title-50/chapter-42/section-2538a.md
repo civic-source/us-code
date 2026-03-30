@@ -3,9 +3,9 @@ title: "Section 2538a - Plutonium pit production capacity"
 usc_title: 50
 usc_section: "2538a"
 chapter: 42
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2538a"
-generated_at: "2026-03-30T08:57:54.488Z"
+generated_at: "2026-03-30T08:59:52.829Z"
 status: "active"
 ---
 
@@ -16,14 +16,6 @@ status: "active"
   - **(2)** during 2024, produces not less than 10 war reserve plutonium pits;
   - **(3)** during 2025, produces not less than 20 war reserve plutonium pits;
   - **(4)** during 2026, produces not less than 30 war reserve plutonium pits; and
-  - **(5)** during a pilot period of not less than 90 days during 2027 (subject to subsection (b)), demonstrates the capability to produce war reserve plutonium pits at a rate sufficient to produce 80 pits per year.
-- **(b)** The Secretary of Energy and the Secretary of Defense may jointly delay, for not more than two years, the requirement under subsection (a)(5) if—
-  - **(1)** the Secretary of Defense and the Secretary of Energy jointly submit to the congressional defense committees a report describing—
-    - **(A)** the justification for the proposed delay;
-    - **(B)** the effects of the proposed delay on stockpile stewardship and modernization, life extension programs, future stockpile strategy, and dismantlement efforts; and
-    - **(C)** whether the proposed delay is consistent with national policy regarding creation of a responsive nuclear infrastructure; and
-  - **(2)** the Commander of the United States Strategic Command submits to the congressional defense committees a report containing the assessment of the Commander with respect to the potential risks to national security of the proposed delay in meeting—
-    - **(A)** the nuclear deterrence requirements of the United States Strategic Command; and
-    - **(B)** national requirements related to creation of a responsive nuclear infrastructure.
-- **(c)** Not later than March 1, 2015 , and each year thereafter through 2027 (or, if the authority under subsection (b) is exercised, 2029), the Secretary of Energy shall certify to the congressional defense committees and the Secretary of Defense that the programs and budget of the Secretary of Energy will enable the nuclear security enterprise to meet the requirements under subsection (a).
-- **(d)** If the Secretary of Energy does not make a certification under subsection (c) by March 1 of any year in which a certification is required under that subsection, by not later than May 1 of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressional defense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.
+  - **(5)** during 2030, produces not less than 80 war reserve plutonium pits.
+- **(b)** Not later than March 1, 2015 , and each year thereafter through 2030, the Secretary of Energy shall certify to the congressional defense committees and the Secretary of Defense that the programs and budget of the Secretary of Energy will enable the nuclear security enterprise to meet the requirements under subsection (a).
+- **(c)** If the Secretary of Energy does not make a certification under subsection (b) by March 1 of any year in which a certification is required under that subsection, by not later than May 1 of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressional defense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.

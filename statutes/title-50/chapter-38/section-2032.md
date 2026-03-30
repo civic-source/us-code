@@ -3,9 +3,9 @@ title: "Section 2032 - Annuities for former spouses"
 usc_title: 50
 usc_section: "2032"
 chapter: 38
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2032"
-generated_at: "2026-03-30T08:57:54.482Z"
+generated_at: "2026-03-30T08:59:52.821Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
     - **(C)** After the death of a participant or retired participant, a court order under section 2094(b) of this title may not adjust the amount of the annuity of a former spouse of that participant or retired participant under this section.
   - **(5)**
     - **(A)** If a former spouse of a retired participant dies or remarries before attaining age 55, the annuity of the retired participant, if reduced to provide a survivor annuity for that former spouse, shall be recomputed and paid, effective on the first day of the month beginning after such death or remarriage, as if the annuity had not been so reduced, unless an election is in effect under subparagraph (B).
-    - **(B)** Subject to paragraph (4)(B), the participant may elect in writing within one year after receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
+    - **(B)** Subject to paragraph (4)(B), the participant may elect in writing within two years after receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
 - **(c)**
   - **(1)** In the case of any participant providing a survivor annuity under subsection (b) for a former spouse—
     - **(A)** such participant may elect, or

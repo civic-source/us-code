@@ -3,9 +3,9 @@ title: "Section 1975c - Authorization of appropriations"
 usc_title: 42
 usc_section: "1975c"
 chapter: 20
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 1975c"
-generated_at: "2026-03-30T08:57:32.390Z"
+generated_at: "2026-03-30T08:59:46.930Z"
 status: "active"
 ---
 

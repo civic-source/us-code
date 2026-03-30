@@ -3,9 +3,9 @@ title: "Section 44506 - Air traffic controllers"
 usc_title: 49
 usc_section: "44506"
 chapter: 445
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "49 U.S.C. § 44506"
-generated_at: "2026-03-30T08:57:40.867Z"
+generated_at: "2026-03-30T08:59:54.816Z"
 status: "active"
 ---
 
@@ -47,10 +47,10 @@ status: "active"
   - **(1)**
     - **(A)** In appointing individuals to the position of air traffic controller, the Administrator shall give preferential consideration to qualified individuals maintaining 52 consecutive weeks of air traffic control experience involving the full-time active separation of air traffic after receipt of an air traffic certification or air traffic control facility rating within 5 years of application while serving at—
       - **(i)** a Federal Aviation Administration air traffic control facility;
-      - **(ii)** a civilian or military air traffic control facility of the Department of Defense; or
+      - **(ii)** a civilian or military air traffic control facility of the Department of Defense (including a facility of the National Guard); or
       - **(iii)** a tower operating under contract with the Federal Aviation Administration under section 47124.
     - **(B)**
-      - **(i)** After giving preferential consideration to applicants under subparagraph (A), the Administrator shall consider additional applicants for the position of air traffic controller by referring an approximately equal number of individuals for appointment among the 2 applicant pools described in this subparagraph. The number of individuals referred for consideration from each group shall not differ by more than 10 percent.
+      - **(i)** After giving preferential consideration to applicants under subparagraph (A), the Administrator shall consider additional applicants for the position of air traffic controller by giving further preferential consideration, within each qualification category based upon pre-employment testing results (including application of veterans’ preference as required under section 40122(g)(2)(B)), to pool 1 applicants described in clause (ii) before pool 2 applicants described in clause (iii).
       - **(ii)** Pool 1 applicants are individuals who—
         - **(I)** have successfully completed air traffic controller training and graduated from an institution participating in the Collegiate Training Initiative program maintained under subsection (c)(1) and who have received from the institution—
         - **(II)** are eligible for a veterans recruitment appointment pursuant to section 4214 of title 38 and provide a Certificate of Release or Discharge from Active Duty within 120 days of the announcement closing;

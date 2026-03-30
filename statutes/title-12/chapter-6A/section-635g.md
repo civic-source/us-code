@@ -3,9 +3,9 @@ title: "Section 635g - Report to Congress; time for submission; contents"
 usc_title: 12
 usc_section: "635g"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "12 U.S.C. § 635g"
-generated_at: "2026-03-30T08:55:36.720Z"
+generated_at: "2026-03-30T08:58:34.789Z"
 status: "active"
 ---
 
@@ -67,3 +67,4 @@ status: "active"
 - **(i)** The Bank shall include in its annual report to the Congress under subsection (a) of this section a report on the determinations made by the Advisory Committee under section 635a(d)(5) of this title in the year covered by the report.
 - **(j)** The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of the success of the Bank in providing effective and reasonably priced financing to the United States textile and apparel industry for exports of goods manufactured in the United States that are used as components in global textile and apparel supply chains in the year covered by the report, and steps the Bank has taken to increase the use of Bank products by such firms.
 - **(k)** The Bank shall include in its annual report to Congress under subsection (a) a report on the programs of the Bank for United States businesses with less than $250,000,000 in annual sales.
+- **(l)** The Bank shall include in its annual report to Congress under subsection (a) a narrative and financial summary of the authorizations made under the Program on China and Transformational Exports.

@@ -3,9 +3,9 @@ title: "Section 8788 - Durum wheat quality program"
 usc_title: 7
 usc_section: "8788"
 chapter: 113
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "7 U.S.C. § 8788"
-generated_at: "2026-03-30T08:55:28.613Z"
+generated_at: "2026-03-30T08:58:19.930Z"
 status: "active"
 ---
 

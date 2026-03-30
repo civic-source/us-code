@@ -3,9 +3,9 @@ title: "Section 408 - Repealed. Pub. L. 112–141, div. C, title I, § 31109(b) 
 usc_title: 23
 usc_section: "408"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "23 U.S.C. § 408"
-generated_at: "2026-03-30T08:56:18.801Z"
+generated_at: "2026-03-30T08:59:05.190Z"
 status: "repealed"
 ---
 

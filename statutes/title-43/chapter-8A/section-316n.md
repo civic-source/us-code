@@ -3,9 +3,9 @@ title: "Section 316n - Administration"
 usc_title: 43
 usc_section: "316n"
 chapter: 8
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 316n"
-generated_at: "2026-03-30T08:57:23.065Z"
+generated_at: "2026-03-30T08:59:31.436Z"
 status: "active"
 ---
 

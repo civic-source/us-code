@@ -3,9 +3,9 @@ title: "Section 5125 - Acceptance optional"
 usc_title: 25
 usc_section: "5125"
 chapter: 45
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 5125"
-generated_at: "2026-03-30T08:56:18.406Z"
+generated_at: "2026-03-30T08:59:00.944Z"
 status: "active"
 ---
 

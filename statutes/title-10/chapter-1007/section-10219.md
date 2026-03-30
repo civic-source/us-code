@@ -3,9 +3,9 @@ title: "Section 10219 - Suicide prevention and resilience program"
 usc_title: 10
 usc_section: "10219"
 chapter: 1007
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 10219"
-generated_at: "2026-03-30T08:55:17.756Z"
+generated_at: "2026-03-30T08:58:17.527Z"
 status: "active"
 ---
 
@@ -28,4 +28,7 @@ status: "active"
   - **(2)** Members described in this paragraph are—
     - **(A)** members of the Individual Ready Reserve; and
     - **(B)** members of a reserve component who are individual mobilization augmentees.
-- **(g)** The program under this section shall terminate on October 1, 2020 .
+- **(g)** The Secretary shall evaluate the program every third year beginning in 2022 until the program terminates to determine whether the program effectively—
+  - **(1)** provides training and assistance under subsections (b), (c), and (d); and
+  - **(2)** implements subsection (e).
+- **(h)** The program under this section shall terminate on October 1, 2025 .

@@ -3,9 +3,9 @@ title: "Section 1111 - Repealed. Pub. L. 105–134, title IV, § 408 , Dec. 2, 1
 usc_title: 45
 usc_section: "1111"
 chapter: 20
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "45 U.S.C. § 1111"
-generated_at: "2026-03-30T08:57:17.997Z"
+generated_at: "2026-03-30T08:59:30.903Z"
 status: "repealed"
 ---
 

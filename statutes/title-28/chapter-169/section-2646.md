@@ -3,9 +3,9 @@ title: "Section 2646 - Retrial or rehearing"
 usc_title: 28
 usc_section: "2646"
 chapter: 169
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "28 U.S.C. § 2646"
-generated_at: "2026-03-30T08:56:33.748Z"
+generated_at: "2026-03-30T08:59:09.379Z"
 status: "active"
 ---
 

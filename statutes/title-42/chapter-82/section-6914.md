@@ -3,9 +3,9 @@ title: "Section 6914 - Grants for discarded tire disposal"
 usc_title: 42
 usc_section: "6914"
 chapter: 82
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 6914"
-generated_at: "2026-03-30T08:57:32.505Z"
+generated_at: "2026-03-30T08:59:47.048Z"
 status: "active"
 ---
 

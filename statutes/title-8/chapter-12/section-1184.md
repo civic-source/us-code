@@ -3,9 +3,9 @@ title: "Section 1184 - Admission of nonimmigrants"
 usc_title: 8
 usc_section: "1184"
 chapter: 12
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "8 U.S.C. § 1184"
-generated_at: "2026-03-30T08:55:18.287Z"
+generated_at: "2026-03-30T08:58:27.348Z"
 status: "active"
 ---
 
@@ -322,7 +322,7 @@ status: "active"
       - **(i)** Once a petitioner has had two fiancé(e) or spousal petitions approved under clause (i) or (ii) of section 1101(a)(15)(K) of this title , if a subsequent petition is filed under such section less than 10 years after the date the first visa petition was filed under such section, the Secretary of Homeland Security shall notify both the petitioner and beneficiary of any such subsequent petition about the number of previously approved fiancé(e) or spousal petitions listed in the database.
       - **(ii)** To notify the beneficiary as required by clause (i), the Secretary of Homeland Security shall provide such notice to the Secretary of State for inclusion in the mailing to the beneficiary described in section 1375a(a)(5)(A)(i) of this title .
   - **(5)** In this subsection:
-    - **(A)** The terms “domestic violence”, “sexual assault”, “child abuse and neglect”, “dating violence”, “elder abuse”, and “stalking” have the meaning given such terms in section 3 of the Violence Against Women and Department of Justice Reauthorization Act of 2005. 2
+    - **(A)** The terms “domestic violence”, “sexual assault”, “child abuse and neglect”, “dating violence”, “elder abuse”, and “stalking” have the meaning given such terms in section 3 of the Violence Against Women and Department of Justice Reauthorization Act of 2005. 1
     - **(B)** The term “specified crime” means the following:
       - **(i)** Domestic violence, sexual assault, child abuse and neglect, dating violence, elder abuse, stalking, or an attempt to commit any such crime.
       - **(ii)** Homicide, murder, manslaughter, rape, abusive sexual contact, sexual exploitation, incest, torture, trafficking, peonage, holding hostage, involuntary servitude, slave trade, kidnapping, abduction, unlawful criminal restraint, false imprisonment, or an attempt to commit any of the crimes described in this clause.

@@ -3,9 +3,9 @@ title: "Section 415 - Limitations on benefits and contribution under qualified p
 usc_title: 26
 usc_section: "415"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 415"
-generated_at: "2026-03-30T08:56:41.367Z"
+generated_at: "2026-03-30T08:59:14.358Z"
 status: "active"
 ---
 
@@ -118,6 +118,11 @@ status: "active"
     - **(C)** In the case of any individual described in subparagraph (B) performing services outside the United States, contributions and other additions for an annuity contract or retirement income account described in section 403(b) with respect to such employee, when expressed as an annual addition to such employee’s account, shall not be treated as exceeding the limitation of paragraph (1) if such annual addition is not in excess of $3,000. This subparagraph shall not apply with respect to any taxable year to any individual whose adjusted gross income for such taxable year (determined separately and without regard to community property laws) exceeds $17,000.
     - **(D)** For purposes of this paragraph, the term “annual addition” has the meaning given such term by paragraph (2).
     - **(E)** For purposes of this paragraph, the terms “church” and “convention or association of churches” have the same meaning as when used in section 414(e).
+  - **(8)**
+    - **(A)** For purposes of paragraph (1)(B), in the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, the participant’s compensation, or earned income, as the case may be, shall be increased by the amount so excluded.
+    - **(B)** Any contribution by the participant which is allowable due to such increase—
+      - **(i)** shall be treated for purposes of this title as investment in the contract, and
+      - **(ii)** shall not cause a plan (and any arrangement which is part of such plan) to be treated as failing to meet any requirements of this chapter solely by reason of allowing any such contributions.
 - **(d)**
   - **(1)** The Secretary shall adjust annually—
     - **(A)** the $160,000 amount in subsection (b)(1)(A),

@@ -3,9 +3,9 @@ title: "Section 635 - Powers and functions of Bank"
 usc_title: 12
 usc_section: "635"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "12 U.S.C. § 635"
-generated_at: "2026-03-30T08:55:36.718Z"
+generated_at: "2026-03-30T08:58:34.786Z"
 status: "active"
 ---
 
@@ -32,14 +32,14 @@ status: "active"
     - **(D)** It is further the policy of the United States to foster the delivery of United States services in international commerce. In exercising its powers and functions, the Bank shall give full and equal consideration to making loans and providing guarantees for the export of services (independently, or in conjunction with the export of manufactured goods, equipment, hardware or other capital goods) consistent with the Bank’s policy to neutralize foreign subsidized credit competition and to supplement the private capital market.
     - **(E)**
       - **(i)**
-        - **(I)** It is further the policy of the United States to encourage the participation of small business in international commerce.
+        - **(I)** It is further the policy of the United States to encourage the participation of small business (including women-owned businesses, minority-owned businesses, veteran-owned businesses, businesses owned by persons with disabilities, and businesses in rural areas) and start-up businesses in international commerce, and to educate such businesses about how to export goods using the Bank.
         - **(II)** In exercising its authority, the Bank shall develop a program which gives fair consideration to making loans and providing guarantees for the export of goods and services by small businesses.
       - **(ii)** It is further the policy of the United States that the Bank shall give due recognition to the policy stated in section 631(a) of title 15 that “the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small business concerns in order to preserve free competitive enterprise”.
       - **(iii)** In furtherance of this policy, the Board of Directors shall designate an officer of the Bank who—
         - **(I)** shall be responsible to the President of the Bank for all matters concerning or affecting small business concerns; and
         - **(II)** among other duties, shall be responsible for advising small business concerns of the opportunities for small business concerns in the functions of the Bank, with particular emphasis on conducting outreach and increasing loans to socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15 ), small business concerns (as defined in section 632(a) of title 15 ) owned by women, and small business concerns (as defined in section 632(a) of title 15 ) employing fewer than 100 employees, and for maintaining liaison with the Small Business Administration and other departments and agencies in matters affecting small business concerns.
       - **(iv)** The Director appointed to represent the interests of small business under section 635a(c) of this title shall ensure that the Bank carries out its responsibilities under clauses (ii) and (iii) of this subparagraph and that the Bank’s financial and other resources are, to the maximum extent possible, appropriately used for small business needs.
-      - **(v)** To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under section 632 of title 15 ) which shall be not less than 25 percent of such authority for each fiscal year. From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in section 635a(i)(1) of this title .
+      - **(v)** To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under section 632 of title 15 ) which shall be not less than 25 percent of such authority for each fiscal year. From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in section 635a(i)(1) of this title . For the purpose of calculating the amounts of authority required under this clause, the Bank shall, with respect to insurance, exclude unutilized authorizations that terminated during the fiscal year.
       - **(vi)** The Bank shall utilize the amount set aside pursuant to clause (v) of this subparagraph to offer financing for small business exports on terms which are fully competitive with regard to interest rates and with regard to the portion of financing which may be provided, guaranteed, or insured. Financing under this clause (vi) shall be available without regard to whether financing for the particular transaction was disapproved by any other Federal agency.
       - **(vii)**
         - **(I)** The Bank shall utilize a part of the amount set aside pursuant to clause (v) to provide lines of credit or guarantees to consortia of small or medium size banks, export trading companies, State export finance agencies, export financing cooperatives, small business investment companies (as defined in section 662 of title 15 ), or other financing institutions or entities in order to finance small business exports.
@@ -60,7 +60,7 @@ status: "active"
         - **(II)** invite State and local governments, trade centers, commercial banks, and other appropriate public and private organizations to serve as intermediaries for the outreach efforts.
     - **(I)** The President of the Bank shall undertake efforts to enhance the Bank’s capacity to provide information about the Bank’s programs to small and rural companies which have not previously participated in the Bank’s programs. Not later than 1 year after November 26, 1997 , the President of the Bank shall submit to Congress a report on the activities undertaken pursuant to this subparagraph.
     - **(J)** The Bank shall implement an electronic system designed to track all pending transactions of the Bank.
-    - **(K)** The Bank shall promote the export of goods and services related to renewable energy sources.
+    - **(K)** The Bank shall promote the export of goods and services related to renewable energy sources, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage. It shall be a goal of the Bank to ensure that not less than 5 percent of the applicable amount (as defined in section 635e(a)(2) of this title ) is made available each fiscal year for the financing of renewable energy, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage technology exports.
     - **(L)** The Bank shall require an applicant for assistance from the Bank to disclose whether the applicant has been found by a court of the United States to have violated the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act [ 22 U.S.C. 2751 et seq.], the International Emergency Economic Powers Act [ 50 U.S.C. 1701 et seq.], or the Export Administration Act of 1979 within the preceding 12 months, and shall maintain, in cooperation with the Department of Justice, for not less than 3 years a record of such applicants so found to have violated any such Act.
     - **(M)** Not later than 2 years after December 4, 2015 , the Bank shall implement policies—
       - **(i)** to accept electronic documents with respect to transactions whenever possible, including copies of bills of lading, certifications, and compliance documents, in such manner so as not to undermine any potential civil or criminal enforcement related to the transactions; and
@@ -245,7 +245,7 @@ status: "active"
     - **(E)** The Bank shall maintain documentation relating to economic impact analyses and similar studies conducted under this subsection in a manner consistent with the Standards for Internal Control of the Federal Government issued by the Comptroller General of the United States.
     - **(F)** This paragraph shall not be construed to make subchapter II of chapter 5 of title 5 applicable to the Bank.
     - **(G)** The Bank shall implement such regulations and procedures as may be appropriate to carry out this paragraph.
-- **(f)** In addition to any other authority of the Bank, the Bank may deny an application for assistance with respect to a transaction if the Bank has substantial credible evidence that any party to the transaction or any party involved in the transaction has committed an act of fraud or corruption in connection with the transaction.
+- **(f)** In addition to any other authority of the Bank, the Bank may deny an application for assistance with respect to a transaction if the Bank has substantial credible evidence that any party to the transaction or any party involved in the transaction has committed an act of fraud or corruption in connection with the transaction, and shall deny an application for assistance if the end user, borrower, lender, or exporter has been convicted of an act of fraud or corruption in connection with an application for support from the Bank made in the preceding 5 years. The Bank may proceed with an application described in this subsection only if an end user, borrower, lender, or exporter can be fully excluded from the transaction.
 - **(g)** The Bank shall establish and adhere to a clearly defined process for—
   - **(1)** acknowledging receipt of applications;
   - **(2)** informing applicants that their applications are complete or, if incomplete or containing a minor defect, of the additional material or changes that, if supplied or made, would make the application eligible for consideration; and
@@ -261,10 +261,43 @@ status: "active"
       - **(i)** the status of any such application;
       - **(ii)** the Small Business Division of the Bank; and
       - **(iii)** incentives, preferences, targets, and goals relating to small business concerns (as defined in section 632(a) of title 15 ), including small business concerns exporting to Africa.
-- **(i)** The Bank shall set due diligence standards for its lender partners and participants, which should be applied across all programs consistently. To minimize or prevent fraudulent activity, the Bank should require all delegated lenders to implement “Know your customer practices”.
+- **(i)** The Bank shall set due diligence standards for its lender partners and participants, which should be applied across all programs consistently. To minimize or prevent fraudulent activity, the Bank shall require all delegated lenders to implement “Know your customer practices”.
 - **(j)** In entering into financing contracts, the Bank shall seek a creditor status which is not subordinate to that of all other creditors, in order to reduce the risk to, and enhance recoveries for, the Bank.
 - **(k)**
   - **(1)** Except as provided in this subchapter, the Bank may not—
     - **(A)** deny an application for financing based solely on the industry, sector, or business that the application concerns; or
     - **(B)** promulgate or implement policies that discriminate against an application based solely on the industry, sector, or business that the application concerns.
   - **(2)** The prohibitions under paragraph (1) apply only to applications for financing by the Bank for projects concerning the exploration, development, production, or export of energy sources and the generation or transmission of electrical power, or combined heat and power, regardless of the energy source involved.
+- **(l)**
+  - **(1)** The Bank shall establish a Program on China and Transformational Exports to support the extension of loans, guarantees, and insurance, at rates and on terms and other conditions, to the extent practicable, that are fully competitive with rates, terms, and other conditions established by the People’s Republic of China or by a covered country, that aim to—
+    - **(A)** directly neutralize export subsidies for competing goods and services financed by official export credit, tied aid, or blended financing provided by the People’s Republic of China or by a covered country; or
+    - **(B)** advance the comparative leadership of the United States with respect to the People’s Republic of China, or support United States innovation, employment, and technological standards, through direct exports in any of the following areas:
+      - **(i)** Artificial intelligence.
+      - **(ii)** Biotechnology.
+      - **(iii)** Biomedical sciences.
+      - **(iv)** Wireless communications equipment (including 5G or subsequent wireless technologies).
+      - **(v)** Quantum computing.
+      - **(vi)** Renewable energy, energy efficiency, and energy storage.
+      - **(vii)** Semiconductor and semiconductor machinery manufacturing.
+      - **(viii)** Emerging financial technologies, including technologies that facilitate—
+        - **(I)** financial inclusion through increased access to capital and financial services;
+        - **(II)** data security and privacy;
+        - **(III)** payments, the transfer of funds, and associated messaging services; and
+        - **(IV)** efforts to combat money laundering and the financing of terrorism.
+      - **(ix)** Water treatment and sanitation, including technologies and infrastructure to reduce contaminants and improve water quality.
+      - **(x)** High performance computing.
+      - **(xi)** Associated services necessary for use of any of the foregoing exports.
+  - **(2)** In this subsection, the term “covered country” means any country that—
+    - **(A)** the Secretary of the Treasury designates as a covered country in a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Development of the Senate;
+    - **(B)** is not a participant in the Arrangement on Officially Supported Export Credits of the Organization for Economic Cooperation and Development (in this subsection referred to as the “Arrangement”); and
+    - **(C)** is not in substantial compliance with the financial terms and conditions of the Arrangement.
+  - **(3)**
+    - **(A)** It shall be a goal of the Bank to reserve not less than 20 percent of the applicable amount (as defined in section 635e(a)(2) of this title ) for support made pursuant to the Program on China and Transformational Exports.
+    - **(B)** The Secretary of the Treasury may reduce or eliminate the 20 percent goal in subparagraph (A), on reporting to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that the People’s Republic of China is in substantial compliance with—
+      - **(i)** the financial terms and conditions of the Arrangement; and
+      - **(ii)** the rules and principles of the Paris Club.
+    - **(C)** The program established under paragraph (1) shall expire on December 31, 2026 . Not later than 4 years after December 20, 2019 , the President of the Bank shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate assessing the following:
+      - **(i)** The capacity and demand of United States entities to export goods and services in the areas described in paragraph (1)(B), as assessed in consultation with the Secretary of Commerce.
+      - **(ii)** The availability of private-sector financing for exports in the areas.
+      - **(iii)** The feasibility and advisability of continuing the goal of subparagraph (A) of this paragraph with respect to paragraph (1)(B) after December 31, 2026 .
+    - **(D)** The National Advisory Council on International Monetary and Financial Problems shall ensure that Bank authorizations pursuant to the Program on China and Transformational Exports are considered or reviewed expeditiously, consistent with the other credit standards required by law.

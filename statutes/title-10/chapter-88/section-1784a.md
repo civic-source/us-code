@@ -3,9 +3,9 @@ title: "Section 1784a - Education and training opportunities for military spouse
 usc_title: 10
 usc_section: "1784a"
 chapter: 88
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1784a"
-generated_at: "2026-03-30T08:55:17.688Z"
+generated_at: "2026-03-30T08:58:17.452Z"
 status: "active"
 ---
 
@@ -16,7 +16,9 @@ status: "active"
     - **(A)** the education and training required for a degree or credential at an accredited college, university, or technical school in the United States that expands employment and portable career opportunities for the spouse; or
     - **(B)** the education prerequisites and professional licensure or credential required, by a government or government sanctioned licensing body, for an occupation that expands employment and portable career opportunities for the spouse.
   - **(2)** As an alternative to, or in addition to, establishing a program under this subsection, the Secretary may provide tuition assistance to an eligible spouse who is pursuing education, training, or a license or credential to expand the spouse’s employment and portable career opportunities.
-- **(b)** Assistance under this section is limited to a spouse of a member of the armed forces who is serving on active duty.
+- **(b)**
+  - **(1)** Assistance under this section is limited to a spouse of a member of the armed forces who is serving on active duty.
+  - **(2)** A spouse who is eligible for a program under this section and begins a course of education or training for a degree, license, or credential described in subsection (a) may not become ineligible to complete such course of education or training solely because the member to whom the spouse is married is promoted to a higher grade.
 - **(c)** Subsection (b) does not include—
   - **(1)** a person who is married to, but legally separated from, a member of the armed forces under court order or statute of any State or territorial possession of the United States; and
   - **(2)** a spouse of a member of the armed forces who is also a member of the armed forces.

@@ -1,0 +1,28 @@
+---
+title: "Section 3370 - Supply Chain and Counterintelligence Risk Management Task Force"
+usc_title: 50
+usc_section: "3370"
+chapter: 45
+current_through: "PL 116-108"
+classification: "50 U.S.C. § 3370"
+generated_at: "2026-03-30T08:59:52.850Z"
+status: "active"
+---
+
+# § 3370. Supply Chain and Counterintelligence Risk Management Task Force
+
+- **(a)** In this section, the term “appropriate congressional committees” means the following:
+  - **(1)** The congressional intelligence committees.
+  - **(2)** The Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate.
+  - **(3)** The Committee on Armed Services, the Committee on Homeland Security, and the Committee on Oversight and Reform of the House of Representatives.
+- **(b)** The Director of National Intelligence shall establish a Supply Chain and Counterintelligence Risk Management Task Force to standardize information sharing between the intelligence community and the acquisition community of the United States Government with respect to the supply chain and counterintelligence risks.
+- **(c)** The Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall be composed of—
+  - **(1)** a representative of the Defense Security Service of the Department of Defense;
+  - **(2)** a representative of the General Services Administration;
+  - **(3)** a representative of the Office of Federal Procurement Policy of the Office of Management and Budget;
+  - **(4)** a representative of the Department of Homeland Security;
+  - **(5)** a representative of the Federal Bureau of Investigation;
+  - **(6)** the Director of the National Counterintelligence and Security Center; and
+  - **(7)** any other members the Director of National Intelligence determines appropriate.
+- **(d)** Each member of the Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall have a security clearance at the top secret level and be able to access sensitive compartmented information.
+- **(e)** The Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall submit to the appropriate congressional committees an annual report that describes the activities of the Task Force during the previous year, including identification of the supply chain, cybersecurity, and counterintelligence risks shared with the acquisition community of the United States Government by the intelligence community.

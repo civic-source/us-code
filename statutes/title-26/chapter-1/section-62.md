@@ -3,9 +3,9 @@ title: "Section 62 - Adjusted gross income defined"
 usc_title: 26
 usc_section: "62"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 62"
-generated_at: "2026-03-30T08:56:41.316Z"
+generated_at: "2026-03-30T08:59:14.303Z"
 status: "active"
 ---
 
@@ -73,7 +73,7 @@ status: "active"
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2014” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(e)** For purposes of subsection (a)(20), the term “unlawful discrimination” means an act that is unlawful under any of the following:
   - **(1)** Section 302 of the Civil Rights Act of 1991 ( 42 U.S.C. 2000e–16b ).
-  - **(2)** Section 201, 202, 203, 204, 205, 206, or 207 of the Congressional Accountability Act of 1995 ( 2 U.S.C. 1311 , 1312, 1313, 1314, 1315, 1316, or 1317).
+  - **(2)** Section 201, 202, 203, 204, 205, 206, 207, or 208 of the Congressional Accountability Act of 1995 ( 2 U.S.C. 1311 , 1312, 1313, 1314, 1315, 1316, or 1317). 1 1 See References in Text note below.
   - **(3)** The National Labor Relations Act ( 29 U.S.C. 151 et seq.).
   - **(4)** The Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq.).
   - **(5)** Section 4 or 15 of the Age Discrimination in Employment Act of 1967 ( 29 U.S.C. 623 or 633a).

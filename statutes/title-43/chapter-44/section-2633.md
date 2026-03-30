@@ -3,9 +3,9 @@ title: "Section 2633 - Designation of national-forest areas within counties; dis
 usc_title: 43
 usc_section: "2633"
 chapter: 44
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 2633"
-generated_at: "2026-03-30T08:57:23.115Z"
+generated_at: "2026-03-30T08:59:31.487Z"
 status: "active"
 ---
 

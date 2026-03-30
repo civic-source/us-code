@@ -3,9 +3,9 @@ title: "Section 1143 - Employment assistance"
 usc_title: 10
 usc_section: "1143"
 chapter: 58
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1143"
-generated_at: "2026-03-30T08:55:17.669Z"
+generated_at: "2026-03-30T08:58:17.434Z"
 status: "active"
 ---
 
@@ -31,4 +31,5 @@ status: "active"
   - **(2)** A member of the armed forces is an eligible member for purposes of a program under this subsection if the member—
     - **(A)** has completed at least 180 days on active duty in the armed forces; and
     - **(B)** is expected to be discharged or released from active duty in the armed forces within 180 days of the date of commencement of participation in such a program.
-  - **(3)** Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
+  - **(3)** Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary of the military department concerned considers appropriate.
+  - **(4)** Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary of Defense.

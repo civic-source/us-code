@@ -3,9 +3,9 @@ title: "Section 939 - Transmission of recommendations"
 usc_title: 16
 usc_section: "939"
 chapter: 15
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 939"
-generated_at: "2026-03-30T08:56:05.480Z"
+generated_at: "2026-03-30T08:58:41.691Z"
 status: "active"
 ---
 

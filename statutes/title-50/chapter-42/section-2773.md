@@ -3,9 +3,9 @@ title: "Section 2773 - Independent acquisition project reviews of capital assets
 usc_title: 50
 usc_section: "2773"
 chapter: 42
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2773"
-generated_at: "2026-03-30T08:57:54.493Z"
+generated_at: "2026-03-30T08:59:52.834Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
     - **(B)** the Assistant Secretary of Energy for Environmental Management, with respect to capital assets acquisition projects of the Office of Environmental Management.
   - **(3)** The term “capital assets acquisition project” means a project—
     - **(A)** the total project cost of which is more than $500,000,000; and
-    - **(B)** that is covered by Department of Energy Order 413.3, or a successor order, for the acquisition of capital assets for atomic energy defense activities.
+    - **(B)** that is covered by Department of Energy Order 413.3B, or a successor order, for the acquisition of capital assets for atomic energy defense activities.

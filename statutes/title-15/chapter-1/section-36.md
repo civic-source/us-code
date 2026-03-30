@@ -3,9 +3,9 @@ title: "Section 36 - Recovery of damages, etc., for antitrust violations on clai
 usc_title: 15
 usc_section: "36"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 36"
-generated_at: "2026-03-30T08:55:57.911Z"
+generated_at: "2026-03-30T08:58:32.958Z"
 status: "active"
 ---
 

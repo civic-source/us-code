@@ -3,9 +3,9 @@ title: "Section 2025 - Effect of employment on retirement, insurance, and other 
 usc_title: 22
 usc_section: "2025"
 chapter: 28
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 2025"
-generated_at: "2026-03-30T08:56:22.201Z"
+generated_at: "2026-03-30T08:59:03.812Z"
 status: "active"
 ---
 

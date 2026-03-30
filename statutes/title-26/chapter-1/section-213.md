@@ -3,9 +3,9 @@ title: "Section 213 - Medical, dental, etc., expenses"
 usc_title: 26
 usc_section: "213"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 213"
-generated_at: "2026-03-30T08:56:41.342Z"
+generated_at: "2026-03-30T08:59:14.331Z"
 status: "active"
 ---
 
@@ -50,6 +50,4 @@ status: "active"
     - **(A)** by the spouse of the individual or by a relative (directly or through a partnership, corporation, or other entity) unless the service is provided by a licensed professional with respect to such service, or
     - **(B)** by a corporation or partnership which is related (within the meaning of section 267(b) or 707(b)) to the individual.
 - **(e)** Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
-- **(f)** In the case of any taxable year—
-  - **(1)** beginning after December 31, 2012 , and ending before January 1, 2017 , in the case of a taxpayer if such taxpayer or such taxpayer’s spouse has attained age 65 before the close of such taxable year, and
-  - **(2)** beginning after December 31, 2016 , and ending before January 1, 2019 , in the case of any taxpayer,
+- **(f)** In the case of taxable years beginning before January 1, 2021 , subsection (a) shall be applied with respect to a taxpayer by substituting “7.5 percent” for “10 percent”.

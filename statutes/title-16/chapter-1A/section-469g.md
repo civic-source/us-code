@@ -3,9 +3,9 @@ title: "Section 469g - Ice Age National Scientific Reserve; recommendations for 
 usc_title: 16
 usc_section: "469g"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 469g"
-generated_at: "2026-03-30T08:56:05.424Z"
+generated_at: "2026-03-30T08:58:41.633Z"
 status: "active"
 ---
 

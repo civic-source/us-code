@@ -3,9 +3,9 @@ title: "Section 1 - Additional requirements applicable to rulemaking"
 usc_title: 42
 usc_section: "1"
 chapter: 34
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T08:57:32.418Z"
+generated_at: "2026-03-30T08:59:46.959Z"
 status: "active"
 ---
 

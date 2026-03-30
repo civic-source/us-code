@@ -3,9 +3,9 @@ title: "Section 7102 - Definitions"
 usc_title: 22
 usc_section: "7102"
 chapter: 78
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 7102"
-generated_at: "2026-03-30T08:56:22.283Z"
+generated_at: "2026-03-30T08:59:03.895Z"
 status: "active"
 ---
 
@@ -55,7 +55,7 @@ In this chapter:
       - **(v)** antiterrorism assistance under chapter 8 of part II of that Act [ 22 U.S.C. 2349aa et seq.];
       - **(vi)** assistance for refugees;
       - **(vii)** humanitarian and other development assistance in support of programs of nongovernmental organizations under chapters 1 and 10 2 2 See References in Text note below. of that Act;
-      - **(viii)** programs under title IV of chapter 2 of part I of that Act [ 22 U.S.C. 2191 et seq.], relating to the Overseas Private Investment Corporation; and
+      - **(viii)** any support under subchapter II of chapter 103 of this title relating to the United States International Development Finance Corporation;
       - **(ix)** other programs involving trade-related or humanitarian assistance; and
     - **(B)** sales, or financing on any terms, under the Arms Export Control Act [ 22 U.S.C. 2751 et seq.], other than sales or financing provided for narcotics-related purposes following notification in accordance with the prior notification procedures applicable to reprogrammings pursuant to section 634A of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2394–1 ].
   - **(11)** The term “severe forms of trafficking in persons” means—

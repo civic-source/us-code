@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T08:55:57.971Z"
+generated_at: "2026-03-30T08:58:33.013Z"
 status: "active"
 ---
 
@@ -322,14 +322,14 @@ status: "active"
     - **(D)** if no disaster declaration has been issued pursuant to subparagraph (A), (B), or (C), the Governor of a State in which a disaster has occurred may certify to the Small Business Administration that small business concerns, private nonprofit organizations, or small agricultural cooperatives (1) have suffered economic injury as a result of such disaster, and (2) are in need of financial assistance which is not available on reasonable terms in the disaster stricken area. Not later than 30 days after the date of receipt of such certification by a Governor of a State, the Administration shall respond in writing to that Governor on its determination and the reasons therefore, 6 6 So in original. Probably should be “therefor,”. and may then make such loans as would have been available under this paragraph if a disaster declaration had been issued.
   - **(3)**
     - **(A)** In this paragraph—
-      - **(i)** the term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern;
-      - **(ii)** the term “period of military conflict” has the meaning given the term in subsection (n)(1); and
+      - **(i)** the term “active service” has the meaning given that term in section 101(d)(3) of title 10 ;
+      - **(ii)** the term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern; and
       - **(iii)** the term “substantial economic injury” means an economic harm to a business concern that results in the inability of the business concern—
         - **(I)** to meet its obligations as they mature;
         - **(II)** to pay its ordinary and necessary operating expenses; or
         - **(III)** to market, produce, or provide a product or service ordinarily marketed, produced, or provided by the business concern.
-    - **(B)** The Administration may make such disaster loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis) to assist a small business concern that has suffered or that is likely to suffer substantial economic injury as the result of an essential employee of such small business concern being ordered to active military duty during a period of military conflict.
-    - **(C)** A small business concern described in subparagraph (B) shall be eligible to apply for assistance under this paragraph during the period beginning on the date on which the essential employee is ordered to active duty and ending on the date that is 1 year after the date on which such essential employee is discharged or released from active duty. The Administrator may, when appropriate (as determined by the Administrator), extend the ending date specified in the preceding sentence by not more than 1 year.
+    - **(B)** The Administration may make such disaster loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis) to assist a small business concern that has suffered or that is likely to suffer substantial economic injury as the result of an essential employee of such small business concern being ordered to perform active service for a period of more than 30 consecutive days.
+    - **(C)** A small business concern described in subparagraph (B) shall be eligible to apply for assistance under this paragraph during the period beginning on the date on which the essential employee is ordered to active service and ending on the date that is 1 year after the date on which such essential employee is discharged or released from active service. The Administrator may, when appropriate (as determined by the Administrator), extend the ending date specified in the preceding sentence by not more than 1 year.
     - **(D)** Any loan or guarantee extended pursuant to this paragraph shall be made at the same interest rate as economic injury loans under paragraph (2).
     - **(E)** No loan may be made under this paragraph, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis, if the total amount outstanding and committed to the borrower under this subsection would exceed $1,500,000, unless such applicant constitutes, or have 7 7 So in original. Probably should be “has”. become due to changed economic circumstances, a major source of employment in its surrounding area, as determined by the Administration, in which case the Administration, in its discretion, may waive the $1,500,000 limitation.
     - **(F)** For purposes of assistance under this paragraph, no declaration of a disaster area shall be required.
@@ -337,7 +337,7 @@ status: "active"
       - **(i)** Notwithstanding any other provision of law, the Administrator may make a loan under this paragraph of not more than $50,000 without collateral.
       - **(ii)** The Administrator may defer payment of principal and interest on a loan described in clause (i) during the longer of—
         - **(I)** the 1-year period beginning on the date of the initial disbursement of the loan; and
-        - **(II)** the period during which the relevant essential employee is on active duty.
+        - **(II)** the period during which the relevant essential employee is on active service.
     - **(H)** The Administrator shall give priority to any application for a loan under this paragraph and shall process and make a determination regarding such applications prior to processing or making a determination on other loan applications under this subsection, on a rolling basis.
   - **(4)**
     - **(A)** Notwithstanding any other provision of law, for any disaster declared under this subsection or major disaster (including any major disaster relating to which the Administrator declares eligibility for additional disaster assistance under paragraph (9)), the Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, shall ensure, to the maximum extent practicable, that all application periods for disaster relief under this chapter correspond with application deadlines established under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.), or as extended by the President.
@@ -834,18 +834,15 @@ status: "active"
   - **(13)** On January 31, 1999 , and annually thereafter, the Administration shall submit to the Committees on Small Business of the House of Representatives and the Senate a report on any monies distributed pursuant to paragraph (4)(F).
 - **(n)**
   - **(1)** In this subsection:
-    - **(A)** The term “eligible reservist” means a member of a reserve component of the Armed Forces ordered to active duty during a period of military conflict.
-    - **(B)** The term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern.
-    - **(C)** The term “period of military conflict” means—
-      - **(i)** a period of war declared by the Congress;
-      - **(ii)** a period of national emergency declared by the Congress or by the President; or
-      - **(iii)** a period of a contingency operation, as defined in section 101(a) of title 10 .
+    - **(A)** The term “active service” has the meaning given that term in section 101(d)(3) of title 10 .
+    - **(B)** The term “eligible reservist” means a member of a reserve component of the Armed Forces ordered to perform active service for a period of more than 30 consecutive days.
+    - **(C)** The term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern.
     - **(D)** The term “qualified borrower” means—
-      - **(i)** an individual who is an eligible reservist and who received a direct loan under subsection (a) or (b) before being ordered to active duty; or
-      - **(ii)** a small business concern that received a direct loan under subsection (a) or (b) before an eligible reservist, who is an essential employee, was ordered to active duty.
+      - **(i)** an individual who is an eligible reservist and who received a direct loan under subsection (a) or (b) before being ordered to active service; or
+      - **(ii)** a small business concern that received a direct loan under subsection (a) or (b) before an eligible reservist, who is an essential employee, was ordered to active service.
   - **(2)**
     - **(A)** The Administration shall, upon written request, defer repayment of principal and interest due on a direct loan made under subsection (a) or (b), if such loan was incurred by a qualified borrower.
-    - **(B)** The period of deferral for repayment under this paragraph shall begin on the date on which the eligible reservist is ordered to active duty and shall terminate on the date that is 180 days after the date such eligible reservist is discharged or released from active duty.
+    - **(B)** The period of deferral for repayment under this paragraph shall begin on the date on which the eligible reservist is ordered to active service and shall terminate on the date that is 180 days after the date such eligible reservist is discharged or released from active service.
     - **(C)** Notwithstanding any other provision of law, during the period of deferral described in subparagraph (B), the Administration may, in its discretion, reduce the interest rate on any loan qualifying for a deferral under this paragraph.
   - **(3)** The Administration shall—
     - **(A)** encourage intermediaries participating in the program under subsection (m) to defer repayment of a loan made with proceeds made available under that subsection, if such loan was incurred by a small business concern that is eligible to apply for assistance under subsection (b)(3); and

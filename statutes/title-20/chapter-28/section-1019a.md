@@ -3,9 +3,9 @@ title: "Section 1019a - Responsibilities of covered institutions, institution-af
 usc_title: 20
 usc_section: "1019a"
 chapter: 28
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "20 U.S.C. § 1019a"
-generated_at: "2026-03-30T08:56:07.115Z"
+generated_at: "2026-03-30T08:58:44.608Z"
 status: "active"
 ---
 

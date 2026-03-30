@@ -3,9 +3,9 @@ title: "Section 1506 - Repealed. Pub. L. 111–340, title IV, § 401(a) , Dec. 2
 usc_title: 20
 usc_section: "1506"
 chapter: 34
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "20 U.S.C. § 1506"
-generated_at: "2026-03-30T08:56:07.176Z"
+generated_at: "2026-03-30T08:58:44.674Z"
 status: "repealed"
 ---
 

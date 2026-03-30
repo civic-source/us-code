@@ -3,9 +3,9 @@ title: "Section 1930 - Bankruptcy fees"
 usc_title: 28
 usc_section: "1930"
 chapter: 123
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "28 U.S.C. § 1930"
-generated_at: "2026-03-30T08:56:33.743Z"
+generated_at: "2026-03-30T08:59:09.374Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(5)** For a case commenced under chapter 12 of title 11, $200.
   - **(6)**
     - **(A)** Except as provided in subparagraph (B), in addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11, other than under subchapter V, for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $325 for each quarter in which disbursements total less than $15,000; $650 for each quarter in which disbursements total $15,000 or more but less than $75,000; $975 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,625 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,950 for each quarter in which disbursements total $225,000 or more but less than $300,000; $4,875 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $6,500 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $9,750 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $10,400 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $13,000 for each quarter in which disbursements total $5,000,000 or more but less than $15,000,000; $20,000 for each quarter in which disbursements total $15,000,000 or more but less than $30,000,000; $30,000 for each quarter in which disbursements total more than $30,000,000. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
-    - **(B)** During each of fiscal years 2018 through 2022, if the balance in the United States Trustee System Fund as of September 30 of the most recent full fiscal year is less than $200,000,000, the quarterly fee payable for a quarter in which disbursements equal or exceed $1,000,000 shall be the lesser of 1 percent of such disbursements or $250,000.
+    - **(B)** During each of fiscal years 2018 through 2022, if the balance in the United States Trustee System Fund as of September 30 of the most recent full fiscal year is less than $200,000,000, 1 1 See Application of Subsection (a)(6)(B) to Quarterly Fees in Fiscal Years 2020 and 2021 note below. the quarterly fee payable for a quarter in which disbursements equal or exceed $1,000,000 shall be the lesser of 1 percent of such disbursements or $250,000.
   - **(7)** In districts that are not part of a United States trustee region as defined in section 581 of this title , the Judicial Conference of the United States may require the debtor in a case under chapter 11 of title 11 to pay fees equal to those imposed by paragraph (6) of this subsection. Such fees shall be deposited as offsetting receipts to the fund established under section 1931 of this title and shall remain available until expended.
 - **(b)** The Judicial Conference of the United States may prescribe additional fees in cases under title 11 of the same kind as the Judicial Conference prescribes under section 1914(b) of this title .
 - **(c)** Upon the filing of any separate or joint notice of appeal or application for appeal or upon the receipt of any order allowing, or notice of the allowance of, an appeal or a writ of certiorari $5 shall be paid to the clerk of the court, by the appellant or petitioner.

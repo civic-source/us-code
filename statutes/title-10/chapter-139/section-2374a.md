@@ -3,15 +3,15 @@ title: "Section 2374a - Prizes for advanced technology achievements"
 usc_title: 10
 usc_section: "2374a"
 chapter: 139
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2374a"
-generated_at: "2026-03-30T08:55:17.708Z"
+generated_at: "2026-03-30T08:58:17.473Z"
 status: "active"
 ---
 
 # § 2374a. Prizes for advanced technology achievements
 
-- **(a)** The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the service acquisition executive for each military department, may carry out programs to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that have the potential for application to the performance of the military missions of the Department of Defense.
+- **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the service acquisition executive for each military department, may carry out programs to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that have the potential for application to the performance of the military missions of the Department of Defense.
 - **(b)** Each program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of research results, technology developments, and prototypes.
 - **(c)**
   - **(1)** No prize competition may result in the award of a prize with a fair market value of more than $10,000,000.

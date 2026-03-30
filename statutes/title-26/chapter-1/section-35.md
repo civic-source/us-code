@@ -3,9 +3,9 @@ title: "Section 35 - Health insurance costs of eligible individuals"
 usc_title: 26
 usc_section: "35"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 35"
-generated_at: "2026-03-30T08:56:41.302Z"
+generated_at: "2026-03-30T08:59:14.287Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
       - **(ii)** is covered by qualified health insurance, the premium for which is paid by the taxpayer,
       - **(iii)** does not have other specified coverage, and
       - **(iv)** is not imprisoned under Federal, State, or local authority, and
-    - **(B)** such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2020 .
+    - **(B)** such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2021 .
   - **(2)** In the case of a joint return, the requirements of paragraph (1)(A) shall be treated as met with respect to any month if at least 1 spouse satisfies such requirements.
 - **(c)** For purposes of this section—
   - **(1)** The term “eligible individual” means—

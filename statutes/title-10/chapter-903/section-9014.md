@@ -3,9 +3,9 @@ title: "Section 9014 - Office of the Secretary of the Air Force"
 usc_title: 10
 usc_section: "9014"
 chapter: 903
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 9014"
-generated_at: "2026-03-30T08:55:17.749Z"
+generated_at: "2026-03-30T08:58:17.518Z"
 status: "active"
 ---
 
@@ -40,8 +40,8 @@ status: "active"
   - **(4)** The Secretary shall prescribe the relationship of the office or other entity established or designated under paragraph (3) to the Chief of Staff of the Air Force and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
 - **(e)** The Secretary of the Air Force shall ensure that the Office of the Secretary of the Air Force and the Air Staff do not duplicate specific functions for which the Secretary has assigned responsibility to the other.
 - **(f)**
-  - **(1)** The total number of members of the armed forces and civilian employees of the Department of the Air Force assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff may not exceed 2,639.
-  - **(2)** Not more than 1,585 officers of the Air Force on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff.
+  - **(1)** The total number of members of the armed forces and civilian employees of the Department of the Air Force assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff may not exceed 2,750.
+  - **(2)** Not more than 1,650 officers of the Air Force on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff.
   - **(3)** The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff may not exceed 60.
   - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
   - **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.

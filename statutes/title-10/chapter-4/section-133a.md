@@ -3,9 +3,9 @@ title: "Section 133a - Under Secretary of Defense for Research and Engineering"
 usc_title: 10
 usc_section: "133a"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 133a"
-generated_at: "2026-03-30T08:55:17.621Z"
+generated_at: "2026-03-30T08:58:17.389Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** There is an Under Secretary of Defense for Research and Engineering, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Under Secretary shall be appointed from among persons who have an extensive technology, science, or engineering background and experience with managing complex or advanced technological programs. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 - **(b)** Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary shall perform such duties and exercise such powers as the Secretary may prescribe, including—
   - **(1)** serving as the chief technology officer of the Department of Defense with the mission of advancing technology and innovation for the armed forces (and the Department);
-  - **(2)** establishing policies on, and supervising, all defense research and engineering, technology development, technology transition, prototyping, experimentation, and developmental testing activities and programs, including the allocation of resources for defense research and engineering, and unifying defense research and engineering efforts across the Department; and
+  - **(2)** establishing policies on, and supervising, all defense research and engineering, technology development, technology transition, appropriate prototyping activities, experimentation, and developmental testing activities and programs and unifying defense research and engineering efforts across the Department; and
   - **(3)** serving as the principal advisor to the Secretary on all research, engineering, and technology development activities and programs in the Department.
 - **(c)**
   - **(1)** With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.

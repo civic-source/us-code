@@ -3,9 +3,9 @@ title: "Section 6435a - Standards of conduct and disclosure"
 usc_title: 22
 usc_section: "6435a"
 chapter: 73
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 6435a"
-generated_at: "2026-03-30T08:56:22.277Z"
+generated_at: "2026-03-30T08:59:03.888Z"
 status: "active"
 ---
 
@@ -35,3 +35,5 @@ status: "active"
     - **(F)** Informational materials such as documents, books, videotapes, periodicals, or other forms of communications.
     - **(G)** Goods or services provided by any agency or component of the Government of the United States, including any commission established under the authority of such Government.
 - **(e)** In addition to providing the reports required under section 6432 of this title , the Commission shall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
+- **(f)** The Commission shall comply with all of the records management requirements set forth in chapter 31 of title 44 (commonly referred to as the “Federal Records Act of 1950”).
+- **(g)** When conducting any Commission business on electronic accounts, Commission Members and staff shall use official Commission electronic accounts.

@@ -3,9 +3,9 @@ title: "Section 3762 - Direct housing loans to Native American veterans; program
 usc_title: 38
 usc_section: "3762"
 chapter: 37
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "38 U.S.C. § 3762"
-generated_at: "2026-03-30T08:57:14.272Z"
+generated_at: "2026-03-30T08:59:28.812Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(E)** That the tribal organization agrees to such other terms and conditions with respect to the making of direct loans to Native American veterans under the jurisdiction of the tribal organization as the Secretary may require in order to ensure that loans under this subchapter are made in a responsible and prudent manner.
   - **(2)** The Secretary may not enter into a memorandum of understanding with a tribal organization under this subsection unless the Secretary determines that the memorandum provides for such standards and procedures as are necessary for the reasonable protection of the financial interests of the United States.
 - **(c)**
-  - **(1)** 1 1 See Applicability of Amendment note below. Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or section 3712(f) of this title , and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as the Secretary may prescribe.
+  - **(1)** Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or section 3712(f) of this title , and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as the Secretary may prescribe.
   - **(2)** Notwithstanding section 3704(a) of this title , the Secretary shall establish minimum requirements for planning, construction, improvement, and general acceptability relating to any direct loan made under this section.
 - **(d)**
   - **(1)** The Secretary shall establish credit underwriting standards to be used in evaluating loans made under this subchapter. In establishing such standards, the Secretary shall take into account the purpose of this program to make available housing to Native American veterans living on trust lands.

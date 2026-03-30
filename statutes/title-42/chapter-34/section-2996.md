@@ -3,9 +3,9 @@ title: "Section 2996 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "2996"
 chapter: 34
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 2996"
-generated_at: "2026-03-30T08:57:32.418Z"
+generated_at: "2026-03-30T08:59:46.959Z"
 status: "active"
 ---
 

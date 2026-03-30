@@ -3,9 +3,9 @@ title: "Section 329 - Limitations on outside activities"
 usc_title: 31
 usc_section: "329"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "31 U.S.C. § 329"
-generated_at: "2026-03-30T08:56:52.840Z"
+generated_at: "2026-03-30T08:59:22.388Z"
 status: "active"
 ---
 

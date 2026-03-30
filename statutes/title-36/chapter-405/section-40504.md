@@ -3,9 +3,9 @@ title: "Section 40504 - Governing body"
 usc_title: 36
 usc_section: "40504"
 chapter: 405
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "36 U.S.C. § 40504"
-generated_at: "2026-03-30T08:56:58.043Z"
+generated_at: "2026-03-30T08:59:26.465Z"
 status: "active"
 ---
 

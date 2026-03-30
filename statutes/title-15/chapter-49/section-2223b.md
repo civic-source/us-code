@@ -3,9 +3,9 @@ title: "Section 2223b - Working group"
 usc_title: 15
 usc_section: "2223b"
 chapter: 49
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 2223b"
-generated_at: "2026-03-30T08:55:58.040Z"
+generated_at: "2026-03-30T08:58:33.084Z"
 status: "active"
 ---
 

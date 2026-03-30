@@ -3,9 +3,9 @@ title: "Section 40A - Biodiesel and renewable diesel used as fuel"
 usc_title: 26
 usc_section: "40A"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 40A"
-generated_at: "2026-03-30T08:56:41.304Z"
+generated_at: "2026-03-30T08:59:14.290Z"
 status: "active"
 ---
 
@@ -88,4 +88,4 @@ status: "active"
   - **(4)**
     - **(A)** Except as provided in the last 3 sentences of paragraph (3), the term “renewable diesel” shall include fuel derived from biomass which meets the requirements of a Department of Defense specification for military jet fuel or an American Society of Testing and Materials specification for aviation turbine fuel.
     - **(B)** In the case of fuel which is treated as renewable diesel solely by reason of subparagraph (A), subsection (b)(1) and section 6426(c) shall be applied with respect to such fuel by treating kerosene as though it were diesel fuel.
-- **(g)** This section shall not apply to any sale or use after December 31, 2017 .
+- **(g)** This section shall not apply to any sale or use after December 31, 2022 .

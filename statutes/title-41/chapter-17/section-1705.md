@@ -3,9 +3,9 @@ title: "Section 1705 - Advocates for competition"
 usc_title: 41
 usc_section: "1705"
 chapter: 17
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "41 U.S.C. § 1705"
-generated_at: "2026-03-30T08:57:22.250Z"
+generated_at: "2026-03-30T08:59:30.594Z"
 status: "active"
 ---
 
@@ -31,4 +31,4 @@ status: "active"
     - **(A)** goals and the plans for increasing competition on a fiscal year basis; and
     - **(B)** a system of personal and organizational accountability for competition, which may include the use of recognition and awards to motivate program managers, contracting officers, and others in authority to promote competition in procurement programs; and
   - **(6)** describe other ways in which the executive agency has emphasized competition in programs for procurement training and research.
-- **(c)** The advocate for competition for each procuring activity is responsible for promoting full and open competition, promoting the acquisition of commercial items, and challenging barriers to acquisition, including unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
+- **(c)** The advocate for competition for each procuring activity is responsible for promoting full and open competition, promoting the acquisition of commercial products and commercial services, and challenging barriers to acquisition, including unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.

@@ -3,9 +3,9 @@ title: "Section 6051 - Receipts for employees"
 usc_title: 26
 usc_section: "6051"
 chapter: 61
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 6051"
-generated_at: "2026-03-30T08:56:41.482Z"
+generated_at: "2026-03-30T08:59:14.483Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(11)** the amount contributed to any Archer MSA (as defined in section 220(d)) of such employee or such employee’s spouse,
   - **(12)** the amount contributed to any health savings account (as defined in section 223(d)) of such employee or such employee’s spouse,
   - **(13)** the total amount of deferrals for the year under a nonqualified deferred compensation plan (within the meaning of section 409A(d)),
-  - **(14)** the aggregate cost (determined under rules similar to the rules of section 4980B(f)(4)) of applicable employer-sponsored coverage (as defined in section 4980I(d)(1)), except that this paragraph shall not apply to—
+  - **(14)** the aggregate cost (determined under rules similar to the rules of section 4980B(f)(4)) of applicable employer-sponsored coverage (as defined in subsection (g)), except that this paragraph shall not apply to—
     - **(A)** coverage to which paragraphs (11) and (12) apply, or
     - **(B)** the amount of any salary reduction contributions to a flexible spending arrangement (within the meaning of section 125),
   - **(15)** the total amount of permitted benefit (as defined in section 9831(d)(3)(C)) for the year under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)) with respect to the employee,
@@ -52,3 +52,11 @@ status: "active"
   - **(2)** Every employer who receives a statement under paragraph (1)(A) with respect to sick pay paid to any employee during any calendar year shall, on or before January 31 of the succeeding year, furnish a written statement to such employee showing—
     - **(A)** the information shown on the statement furnished under paragraph (1)(A), and
     - **(B)** if any portion of the sick pay is excludable from gross income under section 104(a)(3), the portion which is not so excludable and the portion which is so excludable.
+- **(g)** For purposes of subsection (a)(14)—
+  - **(1)** The term “applicable employer-sponsored coverage” means, with respect to any employee, coverage under any group health plan made available to the employee by an employer which is excludable from the employee’s gross income under section 106, or would be so excludable if it were employer-provided coverage (within the meaning of such section 106).
+  - **(2)** The term “applicable employer-sponsored coverage” shall not include—
+    - **(A)** any coverage (whether through insurance or otherwise) described in section 9832(c)(1) (other than subparagraph (G) thereof) or for long-term care,
+    - **(B)** any coverage under a separate policy, certificate, or contract of insurance which provides benefits substantially all of which are for treatment of the mouth (including any organ or structure within the mouth) or for treatment of the eye, or
+    - **(C)** any coverage described in section 9832(c)(3) the payment for which is not excludable from gross income and for which a deduction under section 162( l ) is not allowable.
+  - **(3)** Coverage shall be treated as applicable employer-sponsored coverage without regard to whether the employer or employee pays for the coverage.
+  - **(4)** Applicable employer-sponsored coverage shall include coverage under any group health plan established and maintained primarily for its civilian employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any such government.

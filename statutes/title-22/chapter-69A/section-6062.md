@@ -3,9 +3,9 @@ title: "Section 6062 - Assistance for Cuban people"
 usc_title: 22
 usc_section: "6062"
 chapter: 69
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 6062"
-generated_at: "2026-03-30T08:56:22.273Z"
+generated_at: "2026-03-30T08:59:03.884Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
       - **(i)** assistance under chapter 1 of part I [ 22 U.S.C. 2151 et seq.] (relating to development assistance), and chapter 4 of part II [ 22 U.S.C. 2346 et seq.] (relating to the economic support fund), of the Foreign Assistance Act of 1961;
       - **(ii)** assistance under the Food for Peace Act [ 7 U.S.C. 1691 et seq.];
       - **(iii)** financing, guarantees, and other forms of assistance provided by the Export-Import Bank of the United States;
-      - **(iv)** financial support provided by the Overseas Private Investment Corporation for investment projects in Cuba;
+      - **(iv)** financial support provided by the United States International Development Finance Corporation for investment projects in Cuba;
       - **(v)** assistance provided by the Trade and Development Agency;
       - **(vi)** Peace Corps programs; and
       - **(vii)** other appropriate assistance to carry out the policy of section 6061 of this title .

@@ -3,9 +3,9 @@ title: "Section 580n - Protection and development of forest or other vegetative 
 usc_title: 16
 usc_section: "580n"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 580n"
-generated_at: "2026-03-30T08:56:05.442Z"
+generated_at: "2026-03-30T08:58:41.651Z"
 status: "active"
 ---
 

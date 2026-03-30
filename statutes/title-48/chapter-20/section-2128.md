@@ -3,9 +3,9 @@ title: "Section 2128 - Autonomy of Oversight Board"
 usc_title: 48
 usc_section: "2128"
 chapter: 20
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "48 U.S.C. § 2128"
-generated_at: "2026-03-30T08:57:35.598Z"
+generated_at: "2026-03-30T08:59:51.298Z"
 status: "active"
 ---
 

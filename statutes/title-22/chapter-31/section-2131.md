@@ -3,9 +3,9 @@ title: "Section 2131 - Travel Promotion Act of 2009"
 usc_title: 22
 usc_section: "2131"
 chapter: 31
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 2131"
-generated_at: "2026-03-30T08:56:22.202Z"
+generated_at: "2026-03-30T08:59:03.813Z"
 status: "active"
 ---
 
@@ -17,13 +17,13 @@ status: "active"
   - **(2)**
     - **(A)** The Corporation shall have a board of directors of 11 members with knowledge of international travel promotion or marketing, broadly representing various regions of the United States, who are United States citizens. At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with section 7265 of title 15 ). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position. Members of the board shall be appointed by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State), as follows:
       - **(i)** 1 shall have appropriate expertise and experience in the hotel accommodations sector;
-      - **(ii)** 1 shall have appropriate expertise and experience in the restaurant sector;
+      - **(ii)** 1 shall have appropriate expertise and experience in the restaurant or foodservice sector;
       - **(iii)** 1 shall have appropriate expertise and experience in the small business or retail sector or in associations representing that sector;
       - **(iv)** 1 shall have appropriate expertise and experience in the travel distribution services sector;
-      - **(v)** 1 shall have appropriate expertise and experience in the attractions or recreations sector;
+      - **(v)** 1 shall have appropriate expertise and experience in the attractions or recreations sector, such as outdoor recreation;
       - **(vi)** 1 shall have appropriate expertise and experience as officials of a city convention and visitors’ bureau;
       - **(vii)** 2 shall have appropriate expertise and experience as officials of a State tourism office;
-      - **(viii)** 1 shall have appropriate expertise and experience in the passenger air sector;
+      - **(viii)** 1 shall have appropriate expertise and experience in the commercial or private passenger air sector;
       - **(ix)** 1 shall have appropriate expertise and experience in immigration law and policy, including visa requirements and United States entry procedures; and
       - **(x)** 1 shall have appropriate expertise in the land or sea passenger transportation sector.
     - **(B)** The members of the initial board of directors shall serve as incorporators and shall take whatever actions are necessary to establish the Corporation under the District of Columbia Nonprofit Corporation Act (D.C. Code, section 29–301.01 et seq.).
@@ -48,9 +48,10 @@ status: "active"
     - **(A)** The Corporation shall develop and execute a plan—
       - **(i)** to provide useful information to foreign tourists, business people, students, scholars, scientists, and others interested in traveling to the United States, including the distribution of material provided by the Federal government concerning entry requirements, required documentation, fees, processes, and information concerning declared public health emergencies, to prospective travelers, travel agents, tour operators, meeting planners, foreign governments, travel media and other international stakeholders;
       - **(ii)** to identify, counter, and correct misperceptions regarding United States entry policies around the world;
-      - **(iii)** to maximize the economic and diplomatic benefits of travel to the United States by promoting the United States of America to world travelers through the use of, but not limited to, all forms of advertising, outreach to trade shows, and other appropriate promotional activities;
-      - **(iv)** to ensure that international travel benefits all States and territories of the United States and the District of Columbia, and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers; and
-      - **(v)** to give priority to the Corporation’s efforts with respect to countries and populations most likely to travel to the United States.
+      - **(iii)** to maximize the economic and diplomatic benefits of travel to the United States by promoting the United States of America to world travelers through the use of, but not limited to, all forms of advertising, outreach to trade shows, speaking conventions, sales missions, and other appropriate promotional activities;
+      - **(iv)** to ensure that international travel benefits all States and territories of the United States and the District of Columbia, and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers;
+      - **(v)** to give priority to the Corporation’s efforts with respect to countries and populations most likely to travel to the United States; and
+      - **(vi)** to promote tourism to the United States through digital media, online platforms, and other appropriate medium.
     - **(B)** In order to carry out the purposes of this subsection, the Corporation may—
       - **(i)** obtain grants from and make contracts with individuals and private companies, State, and Federal agencies, organizations, and institutions;
       - **(ii)** hire or accept the voluntary services of consultants, experts, advisory boards, and panels to aid the Corporation in carrying out its purposes; and
@@ -60,7 +61,7 @@ status: "active"
   - **(7)** The board may not authorize the Corporation to obligate or expend more than $25,000,000 on any advertising campaign, promotion, or related effort unless—
     - **(A)** the obligation or expenditure is approved by an affirmative vote of at least 2/3 of the members of the board present at the meeting;
     - **(B)** at least 6 members of the board are present at the meeting at which it is approved; and
-    - **(C)** each member of the board has been given at least 3 days advance notice of the meeting at which the vote is to be taken and the matters to be voted upon at that meeting.
+    - **(C)** each member of the board has been given at least 5 days advance notice of the meeting at which the vote is to be taken and the matters to be voted upon at that meeting.
   - **(8)**
     - **(A)** The Corporation shall establish as its fiscal year the 12-month period beginning on October 1.
     - **(B)** The Corporation shall adopt a budget for each fiscal year.
@@ -68,7 +69,7 @@ status: "active"
     - **(D)** Not later than 2 years after March 4, 2010 , the Comptroller General shall conduct a review of the programmatic activities of the Corporation for Travel Promotion. This report shall be provided to appropriate congressional committees.
 - **(c)**
   - **(1)** The Board shall establish annual objectives for the Corporation for each fiscal year subject to approval by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State). The Corporation shall establish a marketing plan for each fiscal year not less than 60 days before the beginning of that year and provide a copy of the plan, and any revisions thereof, to the Secretary.
-  - **(2)** The board shall transmit a copy of the Corporation’s budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $500,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation’s website.
+  - **(2)** The board shall transmit a copy of the Corporation’s budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $450,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation’s website.
   - **(3)** The Corporation shall submit an annual report for the preceding fiscal year to the Secretary of Commerce for transmittal to the Congress on or before the 15th day of May of each year. The report shall include—
     - **(A)** a comprehensive and detailed report of the Corporation’s operations, activities, financial condition, and accomplishments under this section;
     - **(B)** a comprehensive and detailed inventory of amounts obligated or expended by the Corporation during the preceding fiscal year;
@@ -80,21 +81,23 @@ status: "active"
     - **(H)**
       - **(i)** a description of, and rationales for, the Corporation’s combination of media channels employed in meeting the promotional objectives of its marketing campaign;
       - **(ii)** the ratio in which such channels are used; and
-      - **(iii)** a justification for the use and ratio of such channels; and
-    - **(I)** such recommendations as the Corporation deems appropriate.
+      - **(iii)** a justification for the use and ratio of such channels;
+    - **(I)** a list of countries the Corporation identifies as emerging markets for tourism to the United States;
+    - **(J)** a description of the efforts the Corporation has made to promote tourism to rural areas of the United States; and
+    - **(K)** such recommendations as the Corporation deems appropriate.
   - **(4)** Amounts deposited in the Fund may not be used for any purpose inconsistent with carrying out the objectives, budget, and report described in this subsection.
 - **(d)**
   - **(1)** There is hereby established in the Treasury a fund which shall be known as the Travel Promotion Fund.
   - **(2)**
     - **(A)** The Secretary of the Treasury shall make available to the Corporation such sums as may be necessary, but not to exceed $10,000,000, from amounts deposited in the general fund of the Treasury from fees under section 1187(h)(3)(B)(i)(I) of title 8 to cover the Corporation’s initial expenses and activities under this section. Transfers shall be made at least monthly, immediately following the collection of fees under section 1187(h)(3)(B)(i)(I) of title 8 , on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
-    - **(B)** For each of fiscal years 2012 through 2020, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under section 1187(h)(3)(B)(i)(I) of title 8 , the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
+    - **(B)** For each of fiscal years 2012 through 2027, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under section 1187(h)(3)(B)(i)(I) of title 8 , the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
   - **(3)**
     - **(A)** No amounts may be made available to the Corporation under this subsection after fiscal year 2011, except to the extent that—
       - **(i)** for fiscal year 2012, the Corporation provides matching amounts from non-Federal sources equal in the aggregate to 50 percent or more of the amount transferred to the Fund under paragraph (2); and
       - **(ii)** for any fiscal year after fiscal year 2012, the Corporation provides matching amounts from non-Federal sources equal in the aggregate to 100 percent of the amount transferred to the Fund under paragraph (2) for the fiscal year.
     - **(B)** For the purpose of determining the amount received from non-Federal sources by the Corporation, other than money—
       - **(i)** the fair market value of goods and services (including advertising) contributed to the Corporation for use under this section may be included in the determination; but
-      - **(ii)** the fair market value of such goods and services may not account for more than 70 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
+      - **(ii)** the fair market value of such goods and services may not account for more than 50 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
     - **(C)** The Corporation may decline to accept any contribution in-kind that it determines to be inappropriate, not useful, or commercially worthless.
     - **(D)** The Corporation may not obligate or expend funds in excess of the total amount received by the Corporation for a fiscal year from Federal and non-Federal sources.
     - **(E)** The Corporation shall maintain an in-kind contributions policy.
@@ -104,7 +107,7 @@ status: "active"
     - **(G)** The Corporation and the Secretary of Commerce (or their designees) shall meet on a biannual basis to review the procedures to determine the fair market value of goods and services received from non-Federal sources by the Corporation under subparagraph (B).
   - **(4)**
     - **(A)** Amounts transferred to the Fund under paragraph (2)(B) shall remain available until expended.
-    - **(B)** Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2020 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
+    - **(B)** Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2027 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
 - **(e)**
 - **(f)**
   - **(1)** Not later than 90 days after December 16, 2014 , the Corporation shall—

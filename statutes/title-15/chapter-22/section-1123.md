@@ -3,9 +3,9 @@ title: "Section 1123 - Rules and regulations for conduct of proceedings in Paten
 usc_title: 15
 usc_section: "1123"
 chapter: 22
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 1123"
-generated_at: "2026-03-30T08:55:58.004Z"
+generated_at: "2026-03-30T08:58:33.047Z"
 status: "active"
 ---
 

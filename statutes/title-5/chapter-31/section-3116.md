@@ -3,9 +3,9 @@ title: "Section 3116 - Expedited hiring authority for post-secondary students; c
 usc_title: 5
 usc_section: "3116"
 chapter: 31
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "5 U.S.C. § 3116"
-generated_at: "2026-03-30T08:54:55.085Z"
+generated_at: "2026-03-30T08:58:09.199Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(B)** advertise positions in a manner that provides for diverse and qualified applicants; and
     - **(C)** ensure potential applicants have appropriate information relevant to the positions available.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2), the total number of students that the head of an agency may appoint under this section during a fiscal year may not exceed the number equal to 15 percent of the number of students that the agency head appointed during the previous fiscal year to a position in the competitive service at the GS–11 level, or an equivalent level, or below.
+  - **(1)** Except as provided in paragraph (2), the total number of students that the head of an agency may appoint under this section during a fiscal year may not exceed the number equal to 15 percent of the number of students that the agency head appointed during the previous fiscal year to a position at the GS–11 level, or an equivalent level, or below.
   - **(2)** Under a regulation prescribed under subsection (g), the Director may establish a lower limit on the number of students that may be appointed under paragraph (1) of this subsection during a fiscal year based on any factor the Director considers appropriate.
 - **(e)** The head of an agency may, without regard to any provision of chapter 33 or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, convert a student serving in an appointment under subsection (b) to a permanent appointment in the competitive service within the agency without further competition if the student—
   - **(1)** has completed the course of study leading to the baccalaureate or graduate degree;

@@ -3,9 +3,9 @@ title: "Section 280c - Employment of personnel with specialized skills"
 usc_title: 22
 usc_section: "280c"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 280c"
-generated_at: "2026-03-30T08:56:22.176Z"
+generated_at: "2026-03-30T08:59:03.787Z"
 status: "active"
 ---
 

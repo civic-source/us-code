@@ -3,9 +3,9 @@ title: "Section 4375 - Health insurance"
 usc_title: 26
 usc_section: "4375"
 chapter: 34
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 4375"
-generated_at: "2026-03-30T08:56:41.456Z"
+generated_at: "2026-03-30T08:59:14.453Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
 - **(d)** In the case of any policy year ending in any fiscal year beginning after September 30, 2014 , the dollar amount in effect under subsection (a) for such policy year shall be equal to the sum of such dollar amount for policy years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
   - **(1)** such dollar amount for policy years ending in the previous fiscal year, multiplied by
   - **(2)** the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year.
-- **(e)** This section shall not apply to policy years ending after September 30, 2019 .
+- **(e)** This section shall not apply to policy years ending after September 30, 2029 .

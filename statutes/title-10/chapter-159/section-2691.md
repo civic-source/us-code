@@ -3,9 +3,9 @@ title: "Section 2691 - Restoration of land used by permit or damaged by mishap; 
 usc_title: 10
 usc_section: "2691"
 chapter: 159
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2691"
-generated_at: "2026-03-30T08:55:17.724Z"
+generated_at: "2026-03-30T08:58:17.490Z"
 status: "active"
 ---
 

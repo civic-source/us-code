@@ -3,9 +3,9 @@ title: "Section 2273 - Policy regarding assured access to space: national securi
 usc_title: 10
 usc_section: "2273"
 chapter: 135
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2273"
-generated_at: "2026-03-30T08:55:17.697Z"
+generated_at: "2026-03-30T08:58:17.462Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
 - **(b)** The appropriate actions referred to in subsection (a) shall include, at a minimum, providing resources and policy guidance to sustain—
-  - **(1)** the availability of at least two space launch vehicles (or families of space launch vehicles) capable of delivering into space any payload designated by the Secretary of Defense or the Director of National Intelligence as a national security payload 1 1 So in original. Probably should be followed by a semicolon.
+  - **(1)** the availability of at least two space launch vehicles (or families of space launch vehicles) capable of delivering into space any payload designated by the Secretary of Defense or the Director of National Intelligence as a national security payload;
   - **(2)** a robust space launch infrastructure and industrial base; and
   - **(3)** the availability of rapid, responsive, and reliable space launches for national security space programs to—
     - **(A)** improve the responsiveness and flexibility of a national security space system;

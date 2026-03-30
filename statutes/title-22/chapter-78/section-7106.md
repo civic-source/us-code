@@ -3,9 +3,9 @@ title: "Section 7106 - Minimum standards for the elimination of trafficking"
 usc_title: 22
 usc_section: "7106"
 chapter: 78
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 7106"
-generated_at: "2026-03-30T08:56:22.285Z"
+generated_at: "2026-03-30T08:59:03.897Z"
 status: "active"
 ---
 

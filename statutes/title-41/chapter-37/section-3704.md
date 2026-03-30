@@ -3,9 +3,9 @@ title: "Section 3704 - Post-award debriefings"
 usc_title: 41
 usc_section: "3704"
 chapter: 37
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "41 U.S.C. § 3704"
-generated_at: "2026-03-30T08:57:22.254Z"
+generated_at: "2026-03-30T08:59:30.598Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(2)** the overall evaluated cost and technical rating of the offer of the contractor awarded the contract and the overall evaluated cost and technical rating of the offer of the debriefed offeror;
   - **(3)** the overall ranking of all offers;
   - **(4)** a summary of the rationale for the award;
-  - **(5)** in the case of a proposal that includes a commercial item that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract; and
+  - **(5)** in the case of a proposal that includes a commercial product that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract; and
   - **(6)** reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
 - **(d)** The debriefing may not include point-by-point comparisons of the debriefed offeror’s offer with other offers and may not disclose any information that is exempt from disclosure under section 552(b) of title 5 .
 - **(e)** Each solicitation for competitive proposals shall include a statement that information described in subsection (c) may be disclosed in post-award debriefings.

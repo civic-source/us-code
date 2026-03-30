@@ -3,9 +3,9 @@ title: "Section 3304 - Limitations on statutory construction"
 usc_title: 33
 usc_section: "3304"
 chapter: 46
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 3304"
-generated_at: "2026-03-30T08:56:54.061Z"
+generated_at: "2026-03-30T08:59:20.823Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 2200a - Scholarship program"
 usc_title: 10
 usc_section: "2200a"
 chapter: 112
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2200a"
-generated_at: "2026-03-30T08:55:17.694Z"
+generated_at: "2026-03-30T08:58:17.458Z"
 status: "active"
 ---
 
 # § 2200a. Scholarship program
 
 - **(a)** The Secretary of Defense may, subject to subsection (f), provide financial assistance in accordance with this section to a person—
-  - **(1)** who is pursuing an associate, baccalaureate, or advanced degree, or a certification, in a cyber discipline referred to in section 2200(a) of this title at an institution of higher education; and
+  - **(1)** who is pursuing an associate, baccalaureate, advanced degree, or certificate in a cyber discipline referred to in section 2200(a) of this title at an institution of higher education; and
   - **(2)** who enters into an agreement with the Secretary as described in subsection (b).
 - **(b)**
   - **(1)** To receive financial assistance under this section—

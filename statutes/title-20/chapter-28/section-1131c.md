@@ -3,15 +3,15 @@ title: "Section 1131c - Internships"
 usc_title: 20
 usc_section: "1131c"
 chapter: 28
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "20 U.S.C. § 1131c"
-generated_at: "2026-03-30T08:56:07.155Z"
+generated_at: "2026-03-30T08:58:44.652Z"
 status: "active"
 ---
 
 # § 1131c. Internships
 
-- **(a)** The Institute shall enter into agreements with historically Black colleges and universities, tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions, other institutions of higher education with significant numbers of minority students, and institutions of higher education with programs in training foreign service professionals, to provide academic year internships during the junior and senior year and summer internships following the sophomore and junior academic years, by work placements with international, voluntary or government organizations or agencies, including the Agency for International Development, the Department of State, 1 1 So in original. “Department of State” appears twice. the International Monetary Fund, the National Security Council, the Organization of American States, the Export-Import Bank, the Overseas Private Investment Corporation, the Department of State, 1 Office of the United States Trade Representative, the World Bank, and the United Nations.
+- **(a)** The Institute shall enter into agreements with historically Black colleges and universities, tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions, other institutions of higher education with significant numbers of minority students, and institutions of higher education with programs in training foreign service professionals, to provide academic year internships during the junior and senior year and summer internships following the sophomore and junior academic years, by work placements with international, voluntary or government organizations or agencies, including the Agency for International Development, the Department of State, 1 1 So in original. “Department of State” appears twice. the International Monetary Fund, the National Security Council, the Organization of American States, the Export-Import Bank, the United States International Development Finance Corporation, the Department of State, 1 Office of the United States Trade Representative, the World Bank, and the United Nations.
 - **(b)** The Institute shall enter into agreements with institutions of higher education described in the first sentence of subsection (a) to conduct internships for students who have completed study for a baccalaureate degree. The internship program authorized by this subsection shall—
   - **(1)** assist the students to prepare for a master’s degree program;
   - **(2)** be carried out with the assistance of the Woodrow Wilson International Center for Scholars; and

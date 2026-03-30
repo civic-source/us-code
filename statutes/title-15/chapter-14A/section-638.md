@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-30T08:55:57.977Z"
+generated_at: "2026-03-30T08:58:33.020Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** It shall be the duty of the Administration, and it is empowered—
   - **(1)** to assist small-business concerns to obtain Government contracts for research and development;
   - **(2)** to assist small-business concerns to obtain the benefits of research and development performed under Government contracts or at Government expense;
-  - **(3)** to provide technical assistance to small-business concerns to accomplish the purposes of this section; and 1 1 So in original. The word “and” probably should not appear.
+  - **(3)** to provide technical assistance to small-business concerns to accomplish the purposes of this section;
   - **(4)** to develop and maintain a source file and an information program to assure each qualified and interested small business concern the opportunity to participate in Federal agency small business innovation research programs and small business technology transfer programs;
   - **(5)** to coordinate with participating agencies a schedule for release of SBIR and STTR solicitations, and to prepare a master release schedule so as to maximize small businesses’ opportunities to respond to solicitations;
   - **(6)** to independently survey and monitor the operation of SBIR and STTR programs within participating Federal agencies;
@@ -27,8 +27,9 @@ status: "active"
     - **(E)** a detailed description of appeals of Phase III awards and notices of noncompliance with the SBIR Policy Directive and the STTR Policy Directive filed by the Administrator with Federal agencies;
     - **(F)** an accounting of funds, initiatives, and outcomes under the Commercialization Readiness Program; and
     - **(G)** a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k);
-  - **(8)** to provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing); and
-  - **(9)** to coordinate the implementation of electronic databases at each of the Federal agencies participating in the SBIR program or the STTR program, including the technical ability of the participating agencies to electronically share data.
+  - **(8)** to provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing);
+  - **(9)** to coordinate the implementation of electronic databases at each of the Federal agencies participating in the SBIR program or the STTR program, including the technical ability of the participating agencies to electronically share data; and
+  - **(10)** to consult, where appropriate, with personnel from the relevant Federal agency to assist small business concerns participating in a SBIR or STTR program with commercializing research developed under such a program before such small business concern is awarded a contract from such Federal agency.
 - **(c)** The Administration is authorized to consult and cooperate with all Government agencies and to make studies and recommendations to such agencies, and such agencies are authorized and directed to cooperate with the Administration in order to carry out and to accomplish the purposes of this section.
 - **(d)**
   - **(1)** The Administrator is authorized to consult with representatives of small-business concerns with a view to assisting and encouraging such firms to undertake joint programs for research and development carried out through such corporate or other mechanism as may be most appropriate for the purpose. Such joint programs may, among other things, include the following purposes:
@@ -62,7 +63,7 @@ status: "active"
       - **(i)** in which commercial applications of STTR-funded research or research and development are funded by non-Federal sources of capital or, for products or services intended for use by the Federal Government, by follow-on non-STTR Federal funding awards; and
       - **(ii)** for which awards from non-STTR Federal funding sources are used for the continuation of research or research and development that has been competitively selected using peer review or scientific review criteria;
   - **(7)** the term “cooperative research and development” means research or research and development conducted jointly by a small business concern and a research institution in which not less than 40 percent of the work is performed by the small business concern, and not less than 30 percent of the work is performed by the research institution;
-  - **(8)** the term “research institution” means a nonprofit institution, as defined in section 3703(5) 2 2 See References in Text note below. of this title, and includes federally funded research and development centers, as identified by the National Scientific Foundation in accordance with the governmentwide Federal Acquisition Regulation issued in accordance with section 1303(a)(1) of title 41 (or any successor regulation thereto);
+  - **(8)** the term “research institution” means a nonprofit institution, as defined in section 3703(5) 1 1 See References in Text note below. of this title, and includes federally funded research and development centers, as identified by the National Scientific Foundation in accordance with the governmentwide Federal Acquisition Regulation issued in accordance with section 1303(a)(1) of title 41 (or any successor regulation thereto);
   - **(9)** the term “commercial applications” shall not be construed to exclude testing and evaluation of products, services, or technologies for use in technical or weapons systems, and further, awards for testing and evaluation of products, services, or technologies for use in technical or weapons systems may be made in either Phase II or Phase III of the Small Business Innovation Research Program and of the Small Business Technology Transfer Program, as defined in this subsection;
   - **(10)** the term “commercialization” means—
     - **(A)** the process of developing products, processes, technologies, or services; and
@@ -72,10 +73,11 @@ status: "active"
     - **(B)** with respect to the STTR program, the first phase described in paragraph (6)(A);
   - **(12)** the term “Phase II” means—
     - **(A)** with respect to the SBIR program, the second phase described in paragraph (4)(B); and
-    - **(B)** with respect to the STTR program, the second phase described in paragraph (6)(B); and
+    - **(B)** with respect to the STTR program, the second phase described in paragraph (6)(B);
   - **(13)** the term “Phase III” means—
     - **(A)** with respect to the SBIR program, the third phase described in paragraph (4)(C); and
-    - **(B)** with respect to the STTR program, the third phase described in paragraph (6)(C).
+    - **(B)** with respect to the STTR program, the third phase described in paragraph (6)(C); and
+  - **(14)** the term “senior procurement executive” means an official designated under section 1702(c) of title 41 as the senior procurement executive of a Federal agency participating in a SBIR or STTR program.
 - **(f)**
   - **(1)** Except as provided in paragraph (2)(B), each Federal agency which has an extramural budget for research or research and development in excess of $100,000,000 for fiscal year 1992, or any fiscal year thereafter, shall expend with small business concerns—
     - **(A)** not less than 1.5 percent of such budget in each of fiscal years 1993 and 1994;
@@ -96,8 +98,8 @@ status: "active"
   - **(1)** unilaterally determine categories of projects to be in its SBIR program;
   - **(2)** issue small business innovation research solicitations in accordance with a schedule determined cooperatively with the Small Business Administration;
   - **(3)** unilaterally determine research topics within the agency’s SBIR solicitations, giving special consideration to broad research topics and to topics that further 1 or more critical technologies, as identified by—
-    - **(A)** the National Critical Technologies Panel (or its successor) in the 1991 report required under section 6683 2 of title 42, and in subsequent reports issued under that authority; or
-    - **(B)** the Secretary of Defense, in the 1992 report issued in accordance with section 2522 2 of title 10, and in subsequent reports issued under that authority;
+    - **(A)** the National Critical Technologies Panel (or its successor) in the 1991 report required under section 6683 1 of title 42, and in subsequent reports issued under that authority; or
+    - **(B)** the Secretary of Defense, in the 1992 report issued in accordance with section 2522 1 of title 10, and in subsequent reports issued under that authority;
   - **(4)**
     - **(A)** unilaterally receive and evaluate proposals resulting from SBIR proposals; and
     - **(B)** make a final decision on each proposal submitted under the SBIR program—
@@ -114,8 +116,8 @@ status: "active"
       - **(ii)** has an investor that—
         - **(I)** is an individual who is not a citizen of the United States or a lawful permanent resident of the United States and, if so, the name of any such individual; or
         - **(II)** is a person that is not an individual and is not organized under the laws of a State or the United States and, if so, the name of any such person;
-      - **(iii)** is owned by a woman or has a woman as a principal investigator; 3 3 So in original. Probably should be “investor;”.
-      - **(iv)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 3
+      - **(iii)** is owned by a woman or has a woman as a principal investigator; 2 2 So in original. Probably should be “investor;”.
+      - **(iv)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 2
       - **(v)** is a faculty member or a student of an institution of higher education, as that term is defined in section 1001 of title 20 ; or
       - **(vi)** is located in a State described in subsection (u)(3);
     - **(B)** a justification statement from the agency, if an awardee receives an award in an amount that is more than the award guidelines under this section; and
@@ -134,7 +136,7 @@ status: "active"
   - **(1)** The Small Business Administration, after consultation with the Administrator of the Office of Federal Procurement Policy, the Director of the Office of Science and Technology Policy, and the Intergovernmental Affairs Division of the Office of Management and Budget, shall, within one hundred and twenty days of July 22, 1982 , issue policy directives for the general conduct of the SBIR programs within the Federal Government, including providing for—
     - **(A)** simplified, standardized, and timely SBIR solicitations;
     - **(B)** a simplified, standardized funding process which provides for (i) the timely receipt and review of proposals; (ii) outside peer review for at least Phase II proposals, if appropriate; (iii) protection of proprietary information provided in proposals; (iv) selection of awardees; (v) retention of rights in data generated in the performance of the contract by the small business concern; (vi) transfer of title to property provided by the agency to the small business concern if such a transfer would be more cost effective than recovery of the property by the agency; (vii) cost sharing; and (viii) cost principles and payment schedules;
-    - **(C)** exemptions from the regulations under paragraph (2) 4 4 So in original. Probably should be “subparagraph (B)”. if national security or intelligence functions clearly would be jeopardized;
+    - **(C)** exemptions from the regulations under paragraph (2) 3 3 So in original. Probably should be “subparagraph (B)”. if national security or intelligence functions clearly would be jeopardized;
     - **(D)** minimizing regulatory burden associated with participation in the SBIR program for the small business concern which will stimulate the cost-effective conduct of Federal research and development and the likelihood of commercialization of the results of research and development conducted under the SBIR program;
     - **(E)** simplified, standardized, and timely annual report on the SBIR program to the Small Business Administration and the Office of Science and Technology Policy;
     - **(F)** standardized and orderly withdrawal from program participation by an agency having a SBIR program; at the discretion of the Administration, such directives may require a phased withdrawal over a period of time sufficient in duration to minimize any adverse impact on small business concerns; and
@@ -145,8 +147,8 @@ status: "active"
     - **(C)** procedures to ensure, to the extent practicable, that an agency which intends to pursue research, development, or production of a technology developed by a small business concern under an SBIR program enters into follow-on, non-SBIR funding agreements with the small business concern for such research, development, or production;
     - **(D)** an increase to $150,000 in the amount of funds which an agency may award in Phase I of an SBIR program, and to $1,000,000 in Phase II of an SBIR program, and an adjustment of such amounts every year for inflation;
     - **(E)** a process for notifying the participating SBIR agencies and potential SBIR participants of the 1991, 1992, and the current critical technologies, as identified—
-      - **(i)** by the National Critical Technologies Panel (or its successor), in accordance with section 6683 2 of title 42; or
-      - **(ii)** by the Secretary of Defense, in accordance with section 2522 2 of title 10;
+      - **(i)** by the National Critical Technologies Panel (or its successor), in accordance with section 6683 1 of title 42; or
+      - **(ii)** by the Secretary of Defense, in accordance with section 2522 1 of title 10;
     - **(F)** enhanced outreach efforts to increase the participation of socially and economically disadvantaged small business concerns, as defined in section 637(a)(4) of this title , and the participation of small businesses that are 51 percent owned and controlled by women in technological innovation and in SBIR programs, including Phase III of such programs, and the collection of data to document such participation;
     - **(G)** technical and programmatic guidance to encourage agencies to develop gap-funding programs to address the delay between an award for Phase I of an SBIR program and the application for and extension of an award for Phase II of such program;
     - **(H)** procedures to ensure that a small business concern that submits a proposal for a funding agreement for Phase I of an SBIR program and that has received more than 15 Phase II SBIR awards during the preceding 5 fiscal years is able to demonstrate the extent to which it was able to secure Phase III funding to develop concepts resulting from previous Phase II SBIR awards; and
@@ -159,6 +161,7 @@ status: "active"
       - **(ii)** the identity of the entity with which the agency contracted to perform the research, development, or production; and
       - **(iii)** a description of the type of funding agreement under which the research, development, or production was obtained; and
     - **(D)** to implement subsection (v), including establishing standardized procedures for the provision of information pursuant to subsection (k)(3).
+  - **(4)** Upon the enactment of this paragraph, the Administrator shall modify the policy directives issued pursuant to this subsection to require procurement center representatives (as described in section 644( l ) of this title) to consult with the appropriate personnel from the relevant Federal agency, to assist small business concerns participating in the SBIR program, particularly in Phase III.
 - **(k)**
   - **(1)** Not later than 180 days after December 21, 2000 , the Administrator shall develop, maintain, and make available to the public a searchable, up-to-date, electronic database that includes—
     - **(A)** the name, size, location, and an identifying number assigned by the Administrator, of each small business concern that has received a Phase I or Phase II SBIR or STTR award from a Federal agency;
@@ -175,8 +178,8 @@ status: "active"
       - **(iv)** how the proceeds from commercialization, marketing, or sale of technology resulting from each assisted STTR project were allocated (by percentage) between the small business concern and the research institution; and
     - **(F)** for each small business concern that has received a Phase I or Phase II SBIR or STTR award from a Federal agency, whether the small business concern—
       - **(i)** has venture capital, hedge fund, or private equity firm investment and, if so, whether the small business concern is registered as majority-owned by multiple venture capital operating companies, hedge funds, or private equity firms as required under subsection (dd)(3);
-      - **(ii)** is owned by a woman or has a woman as a principal investigator; 3
-      - **(iii)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 3
+      - **(ii)** is owned by a woman or has a woman as a principal investigator; 2
+      - **(iii)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 2
       - **(iv)** is owned by a faculty member or a student of an institution of higher education, as that term is defined in section 1001 of title 20 ; or
       - **(v)** received assistance under the Federal and State Technology Partnership Program (FAST Program).
   - **(2)** Not later than 90 days after December 31, 2011 , the Administrator, in consultation with Federal agencies required to have an SBIR program pursuant to subsection (f)(1) or an STTR program pursuant to subsection (n)(1), shall develop and maintain a database to be used exclusively for SBIR and STTR program evaluation that—
@@ -241,8 +244,8 @@ status: "active"
   - **(1)** unilaterally determine categories of projects to be included in its STTR program;
   - **(2)** issue STTR solicitations in accordance with a schedule determined cooperatively with the Administration;
   - **(3)** unilaterally determine research topics within the agency’s STTR solicitations, giving special consideration to broad research topics and to topics that further 1 or more critical technologies, as identified—
-    - **(A)** by the National Critical Technologies Panel (or its successor) in reports required under section 6683 2 of title 42; or
-    - **(B)** by the Secretary of Defense, in accordance with section 2522 2 of title 10;
+    - **(A)** by the National Critical Technologies Panel (or its successor) in reports required under section 6683 1 of title 42; or
+    - **(B)** by the Secretary of Defense, in accordance with section 2522 1 of title 10;
   - **(4)**
     - **(A)** unilaterally receive and evaluate proposals resulting from STTR solicitations; and
     - **(B)** make a final decision on each proposal submitted under the STTR program—
@@ -260,8 +263,8 @@ status: "active"
       - **(ii)** has an investor that—
         - **(I)** is an individual who is not a citizen of the United States or a lawful permanent resident of the United States and, if so, the name of any such individual; or
         - **(II)** is a person that is not an individual and is not organized under the laws of a State or the United States and, if so, the name of any such person;
-      - **(iii)** is owned by a woman or has a woman as a principal investigator; 3
-      - **(iv)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 3
+      - **(iii)** is owned by a woman or has a woman as a principal investigator; 2
+      - **(iv)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 2
       - **(v)** is a faculty member or a student of an institution of higher education, as that term is defined in section 1001 of title 20 ; or
       - **(vi)** is located in a State in which the total value of contracts awarded to small business concerns under all STTR programs is less than the total value of contracts awarded to small business concerns in a majority of other States, as determined by the Administrator in biennial fiscal years, beginning with fiscal year 2008, based on the most recent statistics compiled by the Administrator;
     - **(B)** if an awardee receives an award in an amount that is more than the award guidelines under this section, a statement from the agency that justifies the award amount; and
@@ -301,8 +304,12 @@ status: "active"
     - **(D)** guidelines for a model agreement, to be used by all agencies, for allocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
     - **(E)** procedures to ensure that—
       - **(i)** a recipient of an STTR award is a small business concern, as defined in section 632 of this title and the regulations promulgated thereunder; and
-      - **(ii)** such small business concern exercises management and control of the performance of the STTR funding agreement pursuant to a business plan providing for the commercialization of the technology that is the subject matter of the award; and
-    - **(F)** procedures to ensure, to the extent practicable, that an agency which intends to pursue research, development, or production of a technology developed by a small business concern under an STTR program enters into follow-on, non-STTR funding agreements with the small business concern for such research, development, or production.
+      - **(ii)** such small business concern exercises management and control of the performance of the STTR funding agreement pursuant to a business plan providing for the commercialization of the technology that is the subject matter of the award;
+    - **(F)** procedures to ensure, to the extent practicable, that an agency which intends to pursue research, development, or production of a technology developed by a small business concern under an STTR program enters into follow-on, non-STTR funding agreements with the small business concern for such research, development, or production; and
+    - **(G)** procedures to ensure that procurement center representatives (as described in section 644( l ) of this title)—
+      - **(i)** consult with the appropriate personnel from the relevant Federal agency, to assist small business concerns participating in the STTR program, particularly in Phase III;
+      - **(ii)** provide technical assistance to such concerns to submit a bid for an award of a Federal contract; and
+      - **(iii)** consult with the appropriate personnel from the relevant Federal agency in providing the assistance described in clause (i).
   - **(3)** Not later than 120 days after October 15, 2001 , the Administrator shall modify the policy directive issued pursuant to this subsection to clarify that the rights provided for under paragraph (2)(B)(v) apply to all Federal funding awards under this section, including Phase I, Phase II, and Phase III.
 - **(q)**
   - **(1)** Each Federal agency required by this section to conduct an SBIR program or STTR program may enter into an agreement with 1 or more vendors selected under paragraph (2)(A) to provide small business concerns engaged in SBIR or STTR projects with technical and business assistance services, such as access to a network of scientists and engineers engaged in a wide range of technologies, assistance with product sales, intellectual property protections, market research, market validation, and development of regulatory plans and manufacturing plans, or access to technical and business literature available through on-line data bases, for the purpose of assisting such concerns in—

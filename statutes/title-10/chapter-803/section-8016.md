@@ -3,9 +3,9 @@ title: "Section 8016 - Assistant Secretaries of the Navy"
 usc_title: 10
 usc_section: "8016"
 chapter: 803
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 8016"
-generated_at: "2026-03-30T08:55:17.738Z"
+generated_at: "2026-03-30T08:58:17.507Z"
 status: "active"
 ---
 
@@ -21,4 +21,7 @@ status: "active"
     - **(C)** The principal responsibility of the Assistant Secretary shall be the exercise of the comptroller functions of the Department of the Navy, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Navy and shall advise the Secretary of the Navy on financial management.
   - **(4)**
     - **(A)** One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Research, Development, and Acquisition. The principal duty of the Assistant Secretary shall be the overall supervision of research, development, acquisition, and sustainment (including maintenance) matters of the Department of the Navy.
-    - **(B)** The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Navy or the Marine Corps on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1733 of this title . In the event of a vacancy in the position of Assistant Secretary of the Navy for Research, Development, and Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
+    - **(B)** The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Navy or the Marine Corps on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1731 of this title . In the event of a vacancy in the position of Assistant Secretary of the Navy for Research, Development, and Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
+  - **(5)**
+    - **(A)** One of the Assistant Secretaries shall be the Assistant Secretary for Energy, Installations, and Environment.
+    - **(B)** The principal duty of the Assistant Secretary for Energy, Installations, and Environment shall be the overall supervision of energy, installation, and environment matters for the Department of the Navy.

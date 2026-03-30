@@ -3,9 +3,9 @@ title: "Section 8772 - Interests in certain financial assets of Iran"
 usc_title: 22
 usc_section: "8772"
 chapter: 94
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 8772"
-generated_at: "2026-03-30T08:56:22.304Z"
+generated_at: "2026-03-30T08:59:03.914Z"
 status: "active"
 ---
 
@@ -13,13 +13,15 @@ status: "active"
 
 - **(a)**
   - **(1)** Subject to paragraph (2), notwithstanding any other provision of law, including any provision of law relating to sovereign immunity, and preempting any inconsistent provision of State law, a financial asset that is—
-    - **(A)** held in the United States for a foreign securities intermediary doing business in the United States;
-    - **(B)** a blocked asset (whether or not subsequently unblocked) that is property described in subsection (b); and
+    - **(A)** held by or for a foreign securities intermediary doing business in the United States;
+    - **(B)** a blocked asset (whether or not subsequently unblocked), or an asset that would be blocked if the asset were located in the United States, that is property described in subsection (b); and
     - **(C)** equal in value to a financial asset of Iran, including an asset of the central bank or monetary authority of the Government of Iran or any agency or instrumentality of that Government, that such foreign securities intermediary or a related intermediary holds abroad,
   - **(2)** In order to ensure that Iran is held accountable for paying the judgments described in paragraph (1) and in furtherance of the broader goals of this Act to sanction Iran, prior to an award turning over any asset pursuant to execution or attachment in aid of execution with respect to any judgments against Iran described in paragraph (1), the court shall determine whether Iran holds equitable title to, or the beneficial interest in, the assets described in subsection (b) and that no other person possesses a constitutionally protected interest in the assets described in subsection (b) under the Fifth Amendment to the Constitution of the United States. To the extent the court determines that a person other than Iran holds—
     - **(A)** equitable title to, or a beneficial interest in, the assets described in subsection (b) (excluding a custodial interest of a foreign securities intermediary or a related intermediary that holds the assets abroad for the benefit of Iran); or
     - **(B)** a constitutionally protected interest in the assets described in subsection (b),
-- **(b)** The financial assets described in this section are the financial assets that are identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 10 Civ. 4518 (BSJ) (GWG), that were restrained by restraining notices and levies secured by the plaintiffs in those proceedings, as modified by court order dated June 27, 2008 , and extended by court orders dated June 23, 2009 , May 10, 2010 , and June 11, 2010 , so long as such assets remain restrained by court order.
+- **(b)** The financial assets described in this section are the financial assets that are—
+  - **(1)** identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 10 Civ. 4518 (BSJ) (GWG), that were restrained by restraining notices and levies secured by the plaintiffs in those proceedings, as modified by court order dated June 27, 2008 , and extended by court orders dated June 23, 2009 , May 10, 2010 , and June 11, 2010 , so long as such assets remain restrained by court order; and
+  - **(2)** identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 13 Civ. 9195 (LAP).
 - **(c)** Nothing in this section shall be construed—
   - **(1)** to affect the availability, or lack thereof, of a right to satisfy a judgment in any other action against a terrorist party in any proceedings other than proceedings referred to in subsection (b); or
   - **(2)** to apply to assets other than the assets described in subsection (b), or to preempt State law, including the Uniform Commercial Code, except as expressly provided in subsection (a)(1).

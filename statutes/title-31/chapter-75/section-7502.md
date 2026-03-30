@@ -3,9 +3,9 @@ title: "Section 7502 - Audit requirements; exemptions"
 usc_title: 31
 usc_section: "7502"
 chapter: 75
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "31 U.S.C. § 7502"
-generated_at: "2026-03-30T08:56:52.864Z"
+generated_at: "2026-03-30T08:59:22.413Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
 - **(g)**
   - **(1)** The auditor shall report on the results of any audit conducted pursuant to this section, in accordance with guidance issued by the Director.
   - **(2)** When reporting on any single audit, the auditor shall include a summary of the auditor’s results regarding the non-Federal entity’s financial statements, internal controls, and compliance with laws and regulations.
-- **(h)** The non-Federal entity shall transmit the reporting package, which shall include the non-Federal entity’s financial statements, schedule of expenditures of Federal awards, corrective action plan defined under subsection (i), and auditor’s reports developed pursuant to this section, to a Federal clearinghouse designated by the Director, and make it available for public inspection within the earlier of—
+- **(h)** The non-Federal entity shall transmit the reporting package, in an electronic form in accordance with the data standards established under chapter 64 and which shall include the non-Federal entity’s financial statements, schedule of expenditures of Federal awards, corrective action plan defined under subsection (i), and auditor’s reports developed pursuant to this section, to a Federal clearinghouse designated by the Director, and make it available for public inspection within the earlier of—
   - **(1)** 30 days after receipt of the auditor’s report; or
   - **(2)**
     - **(A)** for a transition period of at least 2 years after the effective date of the Single Audit Act Amendments of 1996, as established by the Director, 13 months after the end of the period audited; or

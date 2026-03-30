@@ -3,13 +3,13 @@ title: "Section 241g - Change in name of Theodore Roosevelt National Memorial Pa
 usc_title: 16
 usc_section: "241g"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 241g"
-generated_at: "2026-03-30T08:56:05.353Z"
+generated_at: "2026-03-30T08:58:41.559Z"
 status: "active"
 ---
 
 # § 241g. Change in name of Theodore Roosevelt National Memorial Park
 
-The area formerly known as the “Theodore Roosevelt National Memorial Park”, established by this subchapter shall henceforth be known as the “Theodore Roosevelt National Park.”
+The area formerly known as the “Theodore Roosevelt National Memorial Park”, established by the Act of April 25, 1947 ( 61 Stat. 52 ) [ 16 U.S.C. 241 et seq.], shall henceforth be known as the “Theodore Roosevelt National Park”.
 

@@ -3,9 +3,9 @@ title: "Section 402 - Construction of bridges, etc., over Illinois and Mississip
 usc_title: 33
 usc_section: "402"
 chapter: 9
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 402"
-generated_at: "2026-03-30T08:56:53.994Z"
+generated_at: "2026-03-30T08:59:20.753Z"
 status: "active"
 ---
 

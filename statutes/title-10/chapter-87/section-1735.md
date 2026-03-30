@@ -3,9 +3,9 @@ title: "Section 1735 - Education, training, and experience requirements for crit
 usc_title: 10
 usc_section: "1735"
 chapter: 87
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1735"
-generated_at: "2026-03-30T08:55:17.687Z"
+generated_at: "2026-03-30T08:58:17.451Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(C)** a deputy program manager of a major defense acquisition program, must have at least six years of experience in acquisition, at least two years of which were performed in a systems program office or similar organization; and
     - **(D)** a deputy program manager of a significant nonmajor defense acquisition program, must have at least four years of experience in acquisition.
 - **(c)** Before being assigned to a position as a program executive officer, a person—
-  - **(1)** must have completed the program management course at the Defense Systems Management College or a management program at an accredited educational institution in the private sector determined to be comparable by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+  - **(1)** must have completed the program management course at the Defense Systems Management College or a management program at an accredited educational institution in the private sector determined to be comparable by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment;
   - **(2)** must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position; and
   - **(3)** must have held a position as a program manager or a deputy program manager.
 - **(d)** Before a general or flag officer, or a civilian serving in a position equivalent in grade to the grade of such an officer, may be assigned to a critical acquisition position, the person must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position.

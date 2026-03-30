@@ -3,9 +3,9 @@ title: "Section 1400 - Patents and copyrights, mask works, and designs"
 usc_title: 28
 usc_section: "1400"
 chapter: 87
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "28 U.S.C. § 1400"
-generated_at: "2026-03-30T08:56:33.738Z"
+generated_at: "2026-03-30T08:59:09.370Z"
 status: "active"
 ---
 

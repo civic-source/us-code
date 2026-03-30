@@ -3,9 +3,9 @@ title: "Section 221 - Interest on education loans"
 usc_title: 26
 usc_section: "221"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 221"
-generated_at: "2026-03-30T08:56:41.343Z"
+generated_at: "2026-03-30T08:59:14.332Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(3)** The term “eligible student” has the meaning given such term by section 25A(b)(3).
   - **(4)** The term “dependent” has the meaning given such term by section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
 - **(e)**
-  - **(1)** No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter.
+  - **(1)** No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter. The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but not below zero) by so much of the distributions treated as a qualified higher education expense under section 529(c)(9) with respect to loans of the taxpayer as would be includible in gross income under section 529(c)(3)(A) for such taxable year but for such treatment.
   - **(2)** If the taxpayer is married at the close of the taxable year, the deduction shall be allowed under subsection (a) only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
   - **(3)** Marital status shall be determined in accordance with section 7703.
 - **(f)**

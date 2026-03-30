@@ -3,9 +3,9 @@ title: "Section 452 - Allowable travel and transportation: general authorities"
 usc_title: 37
 usc_section: "452"
 chapter: 8
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "37 U.S.C. § 452"
-generated_at: "2026-03-30T08:56:56.790Z"
+generated_at: "2026-03-30T08:59:26.797Z"
 status: "active"
 ---
 
@@ -33,7 +33,8 @@ status: "active"
 - **(c)** Travel and transportation allowances which may be provided under subsection (a) include the following:
   - **(1)** Allowances for transportation, lodging, and meals.
   - **(2)** Dislocation or relocation allowances paid in connection with a change in a member’s temporary or permanent duty assignment location.
-  - **(3)** Other related miscellaneous expenses.
+  - **(3)** A partial dislocation allowance paid to a member ordered to occupy or vacate housing provided by the United States.
+  - **(4)** Other related miscellaneous expenses.
 - **(d)** Any authorized travel and transportation may be provided—
   - **(1)** as an actual expense;
   - **(2)** as an authorized allowance;

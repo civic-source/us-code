@@ -1,0 +1,31 @@
+---
+title: "Section 9221b - Sanctions with respect to foreign financial institutions that provide financial services to certain sanctioned persons"
+usc_title: 22
+usc_section: "9221b"
+chapter: 99
+current_through: "PL 116-108"
+classification: "22 U.S.C. § 9221b"
+generated_at: "2026-03-30T08:59:03.920Z"
+status: "active"
+---
+
+# § 9221b. Sanctions with respect to foreign financial institutions that provide financial services to certain sanctioned persons
+
+- **(a)** The Secretary of the Treasury shall impose one or more of the sanctions described in subsection (b) with respect to a foreign financial institution that the Secretary determines, in consultation with the Secretary of State, knowingly, on or after the date that is 120 days after December 20, 2019 , provides significant financial services to any person designated for the imposition of sanctions with respect to North Korea under—
+  - **(1)** subsection (a), (b), or (g) of section 9214 of this title ;
+  - **(2)** an applicable Executive order; or
+  - **(3)** an applicable United Nations Security Council resolution.
+- **(b)** The sanctions that may be imposed with respect to a foreign financial institution subject to subsection (a) are the following:
+  - **(1)** The Secretary may block and prohibit, pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), all transactions in all property and interests in property of the foreign financial institution if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+  - **(2)** The Secretary may prohibit, or impose strict conditions on, the opening or maintaining in the United States of a correspondent account or a payable-through account by the foreign financial institution.
+- **(c)**
+  - **(1)** The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1702 and 1704) to carry out this section.
+  - **(2)** A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+- **(d)** Not later than 120 days after December 20, 2019 , the President shall, as appropriate, prescribe regulations to carry out this section.
+- **(e)**
+  - **(1)** Notwithstanding section 9254(b) of this title or any provision of this section, the authorities and requirements to impose sanctions under this section shall not include the authority or a requirement to impose sanctions on the importation of goods.
+  - **(2)** In this subsection, the term “good” means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(f)** In this section:
+  - **(1)** The terms “account”, “correspondent account”, and “payable-through account” have the meanings given those terms in section 5318A of title 31 .
+  - **(2)** The term “foreign financial institution” has the meaning given that term in section 510.309 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+  - **(3)** The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.

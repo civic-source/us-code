@@ -3,9 +3,9 @@ title: "Section 3154a - Performance awards"
 usc_title: 42
 usc_section: "3154a"
 chapter: 38
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 3154a"
-generated_at: "2026-03-30T08:57:32.431Z"
+generated_at: "2026-03-30T08:59:46.974Z"
 status: "active"
 ---
 

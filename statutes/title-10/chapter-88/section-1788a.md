@@ -3,9 +3,9 @@ title: "Section 1788a - Family support programs: immediate family members of mem
 usc_title: 10
 usc_section: "1788a"
 chapter: 88
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1788a"
-generated_at: "2026-03-30T08:55:17.688Z"
+generated_at: "2026-03-30T08:58:17.452Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(2)** conduct a cost-benefit analysis of each family support service proposed to be included in a program.
 - **(c)** The Commander may expend up to $10,000,000 during each fiscal year, from funds available for Major Force Program 11, to carry out family support programs under this section.
 - **(d)**
-  - **(1)** Not later than March 1, 2019 , and each March 1 thereafter, the Commander, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall submit to the congressional defense committees a report describing the progress made in achieving the goals of the family support programs conducted under this section.
+  - **(1)** Not later than March 1 each year, the Commander, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall submit to the congressional defense committees a report describing the progress made in achieving the goals of the family support programs conducted under this section.
   - **(2)** Each report under this subsection shall include the following:
     - **(A)** A detailed description of the programs conducted under this section to address family support requirements for family members of members of the armed forces assigned to special operations forces.
     - **(B)** An assessment of the impact of the programs on military readiness and on family members of members of the armed forces assigned to special operations forces.

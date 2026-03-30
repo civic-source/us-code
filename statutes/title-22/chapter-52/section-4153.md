@@ -3,9 +3,9 @@ title: "Section 4153 - Conversion to Senior Foreign Service"
 usc_title: 22
 usc_section: "4153"
 chapter: 52
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 4153"
-generated_at: "2026-03-30T08:56:22.259Z"
+generated_at: "2026-03-30T08:59:03.870Z"
 status: "active"
 ---
 

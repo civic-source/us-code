@@ -3,9 +3,9 @@ title: "Section 117c - Standards for approval of tribal payments; United States 
 usc_title: 25
 usc_section: "117c"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 117c"
-generated_at: "2026-03-30T08:56:18.350Z"
+generated_at: "2026-03-30T08:59:00.887Z"
 status: "active"
 ---
 

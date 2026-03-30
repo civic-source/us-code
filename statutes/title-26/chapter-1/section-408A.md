@@ -3,9 +3,9 @@ title: "Section 408A - Roth IRAs"
 usc_title: 26
 usc_section: "408A"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 408A"
-generated_at: "2026-03-30T08:56:41.361Z"
+generated_at: "2026-03-30T08:59:14.352Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
 - **(c)**
   - **(1)** No deduction shall be allowed under section 219 for a contribution to a Roth IRA.
   - **(2)** The aggregate amount of contributions for any taxable year to all Roth IRAs maintained for the benefit of an individual shall not exceed the excess (if any) of—
-    - **(A)** the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) or (g) of such section), over
+    - **(A)** the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) 1 1 See References in Text note below. or (g) of such section), over
     - **(B)** the aggregate amount of contributions for such taxable year to all other individual retirement plans (other than Roth IRAs) maintained for the benefit of the individual.
   - **(3)**
     - **(A)** The amount determined under paragraph (2) for any taxable year shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced (but not below zero) by the amount which bears the same ratio to such amount as—
@@ -34,14 +34,13 @@ status: "active"
     - **(D)** In the case of any taxable year beginning in a calendar year after 2006, the dollar amounts in subclauses (I) and (II) of subparagraph (B)(ii) shall each be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-  - **(4)** Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½.
-  - **(5)** Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
+  - **(4)** Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
     - **(A)** Section 401(a)(9)(A).
     - **(B)** The incidental death benefit requirements of section 401(a).
-  - **(6)**
+  - **(5)**
     - **(A)** No rollover contribution may be made to a Roth IRA unless it is a qualified rollover contribution.
     - **(B)** A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
-  - **(7)** For purposes of this section, the rule of section 219(f)(3) shall apply.
+  - **(6)** For purposes of this section, the rule of section 219(f)(3) shall apply.
 - **(d)** For purposes of this title—
   - **(1)** Any qualified distribution from a Roth IRA shall not be includible in gross income.
   - **(2)** For purposes of this subsection—

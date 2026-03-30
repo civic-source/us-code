@@ -3,9 +3,9 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-30T08:56:41.333Z"
+generated_at: "2026-03-30T08:59:14.322Z"
 status: "active"
 ---
 
@@ -65,8 +65,8 @@ status: "active"
   - **(3)**
     - **(A)** The term “3-year property” includes—
       - **(i)** any race horse—
-        - **(I)** which is placed in service before January 1, 2018 , and
-        - **(II)** which is placed in service after December 31, 2017 , and which is more than 2 years old at the time such horse is placed in service by such purchaser,
+        - **(I)** which is placed in service before January 1, 2021 , and
+        - **(II)** which is placed in service after December 31, 2020 , and which is more than 2 years old at the time such horse is placed in service by such purchaser,
       - **(ii)** any horse other than a race horse which is more than 12 years old at the time it is placed in service, and
       - **(iii)** any qualified rent-to-own property.
     - **(B)** The term “5-year property” includes—
@@ -373,7 +373,7 @@ status: "active"
       - **(ii)** support facilities (including food and beverage retailing, souvenir vending, and other nonlodging accommodations), and
       - **(iii)** appurtenances associated with such facilities and related attractions and amusements (including ticket booths, race track surfaces, suites and hospitality facilities, grandstands and viewing structures, props, walls, facilities that support the delivery of entertainment services, other special purpose structures, facades, shop interiors, and buildings).
     - **(C)** Such term shall not include any transportation equipment, administrative services assets, warehouses, administrative buildings, hotels, or motels.
-    - **(D)** Such term shall not include any property placed in service after December 31, 2017 .
+    - **(D)** Such term shall not include any property placed in service after December 31, 2020 .
   - **(16)** The term “Alaska natural gas pipeline” means the natural gas pipeline system located in the State of Alaska which—
     - **(A)** has a capacity of more than 500,000,000,000 Btu of natural gas per day, and
     - **(B)** is—
@@ -428,7 +428,7 @@ status: "active"
     - **(B)** section 4(10) of the Indian Child Welfare Act of 1978 ( 25 U.S.C. 1903(10) ).
   - **(7)** Any reference in this subsection to a provision not contained in this title shall be treated for purposes of this subsection as a reference to such provision as in effect on the date of the enactment of this paragraph.
   - **(8)** If a taxpayer makes an election under this paragraph with respect to any class of property for any taxable year, paragraph (1) shall not apply to all property in such class placed in service during such taxable year. Such election, once made, shall be irrevocable.
-  - **(9)** This subsection shall not apply to property placed in service after December 31, 2017 .
+  - **(9)** This subsection shall not apply to property placed in service after December 31, 2020 .
 - **(k)**
   - **(1)** In the case of any qualified property—
     - **(A)** the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to the applicable percentage of the adjusted basis of the qualified property, and
@@ -544,7 +544,7 @@ status: "active"
     - **(A)** which is used in the United States solely to produce second generation biofuel (as defined in section 40(b)(6)(E)),
     - **(B)** the original use of which commences with the taxpayer after the date of the enactment of this subsection,
     - **(C)** which is acquired by the taxpayer by purchase (as defined in section 179(d)) after the date of the enactment of this subsection, but only if no written binding contract for the acquisition was in effect on or before the date of the enactment of this subsection, and
-    - **(D)** which is placed in service by the taxpayer before January 1, 2018 .
+    - **(D)** which is placed in service by the taxpayer before January 1, 2021 .
   - **(3)**
     - **(A)** Such term shall not include any property to which subsection (k) applies.
     - **(B)** Such term shall not include any property described in subsection (k)(2)(D).

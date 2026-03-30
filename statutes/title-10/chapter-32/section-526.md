@@ -3,9 +3,9 @@ title: "Section 526 - Authorized strength: general and flag officers on active d
 usc_title: 10
 usc_section: "526"
 chapter: 32
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 526"
-generated_at: "2026-03-30T08:55:17.639Z"
+generated_at: "2026-03-30T08:58:17.404Z"
 status: "active"
 ---
 
@@ -61,4 +61,4 @@ status: "active"
 - **(j)** Not later than March 1, 2015 , and each March 1 thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report specifying—
   - **(1)** the numbers of general officers and flag officers who, as of January 1 of the calendar year in which the report is submitted, counted toward the service-specific limits of subsection (a); and
   - **(2)** the number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
-- **(k)** The provisions of this section shall not apply to number 1 1 So in original. Probably should be preceded by “the”. of general officers and flag officers in the armed forces after December 31, 2022 . For provisions applicable to the number of such officers after that date, see section 526a of this title .
+- **(k)** The provisions of this section shall not apply to the number of general officers and flag officers in the armed forces after December 31, 2022 . For provisions applicable to the number of such officers after that date, see section 526a of this title .

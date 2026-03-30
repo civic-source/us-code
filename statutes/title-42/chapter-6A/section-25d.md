@@ -3,9 +3,9 @@ title: "Section 25d - Centers of excellence on services for individuals with fet
 usc_title: 42
 usc_section: "25d"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 25d"
-generated_at: "2026-03-30T08:57:32.109Z"
+generated_at: "2026-03-30T08:59:46.629Z"
 status: "active"
 ---
 

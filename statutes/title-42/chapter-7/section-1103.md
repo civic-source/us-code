@@ -3,9 +3,9 @@ title: "Section 1103 - Amounts transferred to State accounts"
 usc_title: 42
 usc_section: "1103"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 1103"
-generated_at: "2026-03-30T08:57:32.223Z"
+generated_at: "2026-03-30T08:59:46.745Z"
 status: "active"
 ---
 

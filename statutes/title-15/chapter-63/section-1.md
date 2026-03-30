@@ -3,9 +3,9 @@ title: "Section 1 - Recovery of operating costs through fee collections"
 usc_title: 15
 usc_section: "1"
 chapter: 63
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T08:55:58.060Z"
+generated_at: "2026-03-30T08:58:33.105Z"
 status: "active"
 ---
 

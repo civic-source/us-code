@@ -3,9 +3,9 @@ title: "Section 1076d - TRICARE program: TRICARE Reserve Select coverage for mem
 usc_title: 10
 usc_section: "1076d"
 chapter: 55
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1076d"
-generated_at: "2026-03-30T08:55:17.664Z"
+generated_at: "2026-03-30T08:58:17.429Z"
 status: "active"
 ---
 
@@ -13,13 +13,13 @@ status: "active"
 
 - **(a)**
   - **(1)** Except as provided in paragraph (2), a member of the Selected Reserve of the Ready Reserve of a reserve component of the armed forces is eligible for health benefits under TRICARE Reserve Select as provided in this section.
-  - **(2)** Paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
+  - **(2)** During the period preceding January 1, 2030 , paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), eligibility for TRICARE Reserve Select coverage of a member under this section shall terminate upon the termination of the member’s service in the Selected Reserve.
   - **(2)** During the period beginning on the date of the enactment of this paragraph and ending December 31, 2018 , eligibility for a member under this section who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall terminate 180 days after the date on which the member is separated.
 - **(c)** While a member of a reserve component is covered by TRICARE Reserve Select under the section, the members of the immediate family of such member are eligible for TRICARE Reserve Select coverage as dependents of the member. If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Reserve Select coverage shall continue for six months beyond the date of death of the member.
 - **(d)**
-  - **(1)** A member of a reserve component covered by TRICARE Reserve Select under this section shall pay a premium for that coverage. Such premium shall apply instead of any enrollment fees required under section 1075 of this section. 1 1 So in original. Probably should be “of this title.”
+  - **(1)** A member of a reserve component covered by TRICARE Reserve Select under this section shall pay a premium for that coverage. Such premium shall apply instead of any enrollment fees required under section 1075 of this title .
   - **(2)** The Secretary of Defense shall prescribe for the purposes of this section one premium for TRICARE Reserve Select coverage of members without dependents and one premium for TRICARE Reserve Select coverage of members with dependents referred to in subsection (f)(1). The premium prescribed for a coverage shall apply uniformly to all covered members of the reserve components.
   - **(3)**
     - **(A)** The monthly amount of the premium in effect for a month for TRICARE Reserve Select coverage under this section shall be the amount equal to 28 percent of the total monthly amount determined on an appropriate actuarial basis as being reasonable for that coverage.

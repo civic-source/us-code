@@ -3,9 +3,9 @@ title: "Section 1786 - Dependent student travel within the United States"
 usc_title: 10
 usc_section: "1786"
 chapter: 88
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1786"
-generated_at: "2026-03-30T08:55:17.688Z"
+generated_at: "2026-03-30T08:58:17.452Z"
 status: "active"
 ---
 

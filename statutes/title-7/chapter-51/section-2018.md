@@ -3,9 +3,9 @@ title: "Section 2018 - Approval of retail food stores and wholesale food concern
 usc_title: 7
 usc_section: "2018"
 chapter: 51
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "7 U.S.C. § 2018"
-generated_at: "2026-03-30T08:55:28.527Z"
+generated_at: "2026-03-30T08:58:19.840Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
     - **(D)** shall report the results of these reviews to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate not later than 18 months after December 20, 2018 , along with recommendations regarding—
       - **(i)** any additional requirements or oversight that would be appropriate for such facilities, programs, and arrangements; and
       - **(ii)** whether such facilities, programs, and arrangements should continue to be authorized to participate in the supplemental nutrition assistance program.
-  - **(2)** Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution for a period of 18 months from December 20, 2018 .
+  - **(2)** Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution prior to December 31, 2020 .
 - **(j)**
   - **(1)** In this subsection, the term “eligible incentive food” means—
     - **(A)** a staple food that is identified for increased consumption, consistent with the most recent dietary recommendations; and

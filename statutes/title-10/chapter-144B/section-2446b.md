@@ -3,9 +3,9 @@ title: "Section 2446b - Requirement to address modular open system approach in p
 usc_title: 10
 usc_section: "2446b"
 chapter: 144
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2446b"
-generated_at: "2026-03-30T08:55:17.712Z"
+generated_at: "2026-03-30T08:58:17.478Z"
 status: "active"
 ---
 
@@ -29,3 +29,4 @@ status: "active"
     - **(B)** such major system interfaces are consistent with the widely supported and consensus-based standards that exist at the time of the milestone decision, unless such standards are unavailable or unsuitable for particular major system interfaces; and
     - **(C)** the Government has arranged to obtain appropriate and necessary intellectual property rights with respect to such major system interfaces upon completion of the development of the major system platform; or
   - **(2)** in the case of a program that does not use a modular open system approach, that the use of a modular open system approach is not practicable.
+- **(f)** The Secretaries of the military departments shall issue guidance to implement the requirements of this section.

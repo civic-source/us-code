@@ -3,9 +3,9 @@ title: "Section 1605 - Procedures for dismissal of civil actions against biomate
 usc_title: 21
 usc_section: "1605"
 chapter: 21
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "21 U.S.C. § 1605"
-generated_at: "2026-03-30T08:56:24.265Z"
+generated_at: "2026-03-30T08:59:06.304Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4704 - United States as entitled to all benefits of exemption an
 usc_title: 50
 usc_section: "4704"
 chapter: 57
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 4704"
-generated_at: "2026-03-30T08:57:54.526Z"
+generated_at: "2026-03-30T08:59:52.871Z"
 status: "active"
 ---
 

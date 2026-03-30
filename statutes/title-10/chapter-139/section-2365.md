@@ -3,15 +3,15 @@ title: "Section 2365 - Global Research Watch Program"
 usc_title: 10
 usc_section: "2365"
 chapter: 139
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2365"
-generated_at: "2026-03-30T08:55:17.706Z"
+generated_at: "2026-03-30T08:58:17.472Z"
 status: "active"
 ---
 
 # § 2365. Global Research Watch Program
 
-- **(a)** The Assistant Secretary of Defense for Research and Engineering shall carry out a Global Research Watch program in accordance with this section.
+- **(a)** The Under Secretary of Defense for Research and Engineering shall carry out a Global Research Watch program in accordance with this section.
 - **(b)** The goals of the program are as follows:
   - **(1)** To monitor and analyze the basic and applied research activities and capabilities of foreign nations and private sector persons in areas of military interest, including allies and competitors.
   - **(2)** To provide standards for comparison and comparative analysis of research capabilities of foreign nations and private sector persons in relation to the research capabilities of the United States.
@@ -21,10 +21,10 @@ status: "active"
   - **(6)** To establish and maintain an electronic database on international research capabilities, comparative assessments of capabilities, cooperative research opportunities, and ongoing cooperative programs.
 - **(c)** The program shall be focused on research and technologies at a technical maturity level equivalent to Department of Defense basic and applied research programs.
 - **(d)**
-  - **(1)** The Assistant Secretary shall coordinate the program with the international cooperation and analysis activities of the military departments and Defense Agencies.
-  - **(2)** The Secretaries of the military departments and the directors of the Defense Agencies shall provide the Assistant Secretary of Defense for Research and Engineering such assistance as the Assistant Secretary may require for purposes of the program.
+  - **(1)** The Under Secretary shall coordinate the program with the international cooperation and analysis activities of the military departments and Defense Agencies.
+  - **(2)** The Secretaries of the military departments and the directors of the Defense Agencies shall provide the Under Secretary of Defense for Research and Engineering such assistance as the Under Secretary may require for purposes of the program.
   - **(3)**
-    - **(A)** Funds available to a military department for a fiscal year for monitoring or analyzing the research activities and capabilities of foreign nations may not be obligated or expended until the Assistant Secretary certifies to the Under Secretary of Defense for Acquisition, Technology, and Logistics that the Secretary of such military department has provided the assistance required under paragraph (2).
+    - **(A)** Funds available to a military department for a fiscal year for monitoring or analyzing the research activities and capabilities of foreign nations may not be obligated or expended until the Under Secretary of Defense for Research and Engineering certifies to the Under Secretary of Defense for Acquisition, Technology, and Logistics that the Secretary of such military department has provided the assistance required under paragraph (2).
     - **(B)** The limitation in subparagraph (A) shall not be construed to alter or effect the availability to a military department of funds for intelligence activities.
-- **(e)** Information in electronic databases of the Global Research Watch program shall be maintained in unclassified form and, as determined necessary by the Assistant Secretary, in classified form in such databases.
+- **(e)** Information in electronic databases of the Global Research Watch program shall be maintained in unclassified form and, as determined necessary by the Under Secretary of Defense for Research and Engineering, in classified form in such databases.
 - **(f)** The requirement to carry out the program under this section shall terminate on September 30, 2025 .

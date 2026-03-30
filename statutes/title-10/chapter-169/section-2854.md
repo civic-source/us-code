@@ -3,9 +3,9 @@ title: "Section 2854 - Restoration or replacement of damaged or destroyed facili
 usc_title: 10
 usc_section: "2854"
 chapter: 169
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2854"
-generated_at: "2026-03-30T08:55:17.728Z"
+generated_at: "2026-03-30T08:58:17.495Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
       - **(iii)** in the case of damage to a facility rather than destruction, a certification that the replacement project is more cost-effective than repair or restoration; and
       - **(iv)** a certification that deferral of the replacement project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
   - **(2)** A replacement project under this subsection may be carried out only after the end of the 7-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to section 480 of this title .
-  - **(3)** The maximum aggregate amount that the Secretary concerned may obligate from appropriations available for operation and maintenance in any fiscal year for replacement projects under the authority of this subsection is $50,000,000.
+  - **(3)** The maximum aggregate amount that the Secretary concerned may obligate from appropriations available for operation and maintenance in any fiscal year for replacement projects under the authority of this subsection is $100,000,000.

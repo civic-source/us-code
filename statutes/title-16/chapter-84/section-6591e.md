@@ -3,9 +3,9 @@ title: "Section 6591e - Categorical exclusion for greater sage-grouse and mule d
 usc_title: 16
 usc_section: "6591e"
 chapter: 84
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 6591e"
-generated_at: "2026-03-30T08:56:05.564Z"
+generated_at: "2026-03-30T08:58:41.774Z"
 status: "active"
 ---
 

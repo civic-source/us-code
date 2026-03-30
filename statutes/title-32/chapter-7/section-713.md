@@ -3,9 +3,9 @@ title: "Section 713 - Official mail: free transmission"
 usc_title: 32
 usc_section: "713"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "32 U.S.C. § 713"
-generated_at: "2026-03-30T08:56:43.498Z"
+generated_at: "2026-03-30T08:59:19.262Z"
 status: "active"
 ---
 

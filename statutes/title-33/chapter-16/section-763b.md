@@ -3,9 +3,9 @@ title: "Section 763b - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58
 usc_title: 33
 usc_section: "763b"
 chapter: 16
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 763b"
-generated_at: "2026-03-30T08:56:54.010Z"
+generated_at: "2026-03-30T08:59:20.770Z"
 status: "repealed"
 ---
 

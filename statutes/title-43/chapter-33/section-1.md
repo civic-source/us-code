@@ -3,9 +3,9 @@ title: "Section 1 - Alaska Native Vietnam era veterans land allotment"
 usc_title: 43
 usc_section: "1"
 chapter: 33
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T08:57:23.102Z"
+generated_at: "2026-03-30T08:59:31.474Z"
 status: "active"
 ---
 
@@ -36,10 +36,10 @@ status: "active"
       - **(i)** who served in the Armed Forces during the period between August 5, 1964 , and December 31, 1971 ; and
       - **(ii)** has not received an allotment made pursuant to—
         - **(I)** the Act of May 17, 1906 ( 34 Stat. 197 , chapter 2469) (as in effect on December 17, 1971 );
-        - **(II)** section 1613(h)(5) of title 43 ; or
-        - **(III)** section 1629g of title 43 ; or
+        - **(II)** section 1613(h)(5) of this title ; or
+        - **(III)** section 1629g of this title ; or
     - **(B)** is the personal representative of the estate of a deceased eligible individual described in subparagraph (A), who has been duly appointed in the appropriate Alaska State court or a registrar has qualified, acting for the benefit of the heirs of the estate of a deceased eligible individual described in subparagraph (A).
-  - **(3)** The terms “Native”, “Regional Corporation”, and “Village Corporation” have the meanings given those terms in section 1602 of title 43 .
+  - **(3)** The terms “Native”, “Regional Corporation”, and “Village Corporation” have the meanings given those terms in section 1602 of this title .
   - **(4)** The term “State” means the State of Alaska.
   - **(5)** The term “veteran” has the meaning given the term in section 101 of title 38 .
 - **(b)**

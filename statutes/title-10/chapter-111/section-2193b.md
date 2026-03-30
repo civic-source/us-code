@@ -3,15 +3,15 @@ title: "Section 2193b - Improvement of education in technical fields: program fo
 usc_title: 10
 usc_section: "2193b"
 chapter: 111
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2193b"
-generated_at: "2026-03-30T08:55:17.694Z"
+generated_at: "2026-03-30T08:58:17.458Z"
 status: "active"
 ---
 
 # § 2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology
 
-- **(a)** The Secretary of Defense may conduct a science, mathematics, and technology education improvement program known as the “Department of Defense STARBASE Program”. The Secretary shall carry out the program in coordination with the Secretaries of the military departments.
+- **(a)** The Secretary of Defense may conduct a science, mathematics, and technology education improvement program known as the “Department of Defense STARBASE Program”. The Secretary shall carry out the program in coordination with the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating.
 - **(b)** The purpose of the program is to improve knowledge and skills of students in kindergarten through twelfth grade in mathematics, science, and technology.
 - **(c)**
   - **(1)** The Secretary shall provide for the establishment of at least 25 academies under the program.
@@ -22,7 +22,7 @@ status: "active"
 - **(d)** The Secretary shall prescribe standards and procedures for selection of persons for participation in the program.
 - **(e)** The Secretary of Defense shall prescribe regulations governing the conduct of the program.
 - **(f)**
-  - **(1)** The Secretary of Defense and the Secretaries of the military departments may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
+  - **(1)** The Secretary of Defense, the Secretaries of the military departments, and the Secretary of the Department in which the Coast Guard is operating may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
   - **(2)** The Secretary of Defense shall remain the executive agent to carry out the program regardless of the source of funds for the program or any transfer of jurisdiction over the program within the executive branch.
 - **(g)** Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on the program under this section. The report shall contain a discussion of the design and conduct of the program and an evaluation of the effectiveness of the program.
 - **(h)** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.

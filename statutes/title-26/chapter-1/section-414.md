@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-30T08:56:41.365Z"
+generated_at: "2026-03-30T08:59:14.356Z"
 status: "active"
 ---
 
@@ -327,7 +327,7 @@ status: "active"
       - **(ii)** the differential wage payment shall be treated as compensation, and
       - **(iii)** the plan shall not be treated as failing to meet the requirements of any provision described in paragraph (1)(C) by reason of any contribution or benefit which is based on the differential wage payment.
     - **(B)**
-      - **(i)** Notwithstanding subparagraph (A)(i), for purposes of section 401(k)(2)(B)(i)(I), 403(b)(7)(A)(ii), 403(b)(11)(A), or 457(d)(1)(A)(ii), an individual shall be treated as having been severed from employment during any period the individual is performing service in the uniformed services described in section 3401(h)(2)(A).
+      - **(i)** Notwithstanding subparagraph (A)(i), for purposes of section 401(k)(2)(B)(i)(I), 403(b)(7)(A)(ii), 403(b)(11)(A), or 457(d)(1)(A)(ii), 2 2 See References in Text note below. an individual shall be treated as having been severed from employment during any period the individual is performing service in the uniformed services described in section 3401(h)(2)(A).
       - **(ii)** If an individual elects to receive a distribution by reason of clause (i), the plan shall provide that the individual may not make an elective deferral or employee contribution during the 6-month period beginning on the date of the distribution.
     - **(C)** Subparagraph (A)(iii) shall apply only if all employees of an employer (as determined under subsections (b), (c), (m), and ( o )) performing service in the uniformed services described in section 3401(h)(2)(A) are entitled to receive differential wage payments on reasonably equivalent terms and, if eligible to participate in a retirement plan maintained by the employer, to make contributions based on the payments on reasonably equivalent terms. For purposes of applying this subparagraph, the provisions of paragraphs (3), (4), and (5) of section 410(b) shall apply.
     - **(D)** For purposes of this paragraph, the term “differential wage payment” has the meaning given such term by section 3401(h)(2).

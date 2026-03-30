@@ -3,9 +3,9 @@ title: "Section 2013 - Computerized management information system"
 usc_title: 25
 usc_section: "2013"
 chapter: 22
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 2013"
-generated_at: "2026-03-30T08:56:18.382Z"
+generated_at: "2026-03-30T08:59:00.919Z"
 status: "active"
 ---
 

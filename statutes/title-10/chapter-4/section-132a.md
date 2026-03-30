@@ -3,9 +3,9 @@ title: "Section 132a - Chief Management Officer"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-30T08:55:17.621Z"
+generated_at: "2026-03-30T08:58:17.389Z"
 status: "active"
 ---
 
@@ -16,15 +16,10 @@ status: "active"
   - **(2)** The Chief Management Officer shall be appointed from among persons who have an extensive management or business background and experience with managing large or complex organizations. A person may not be appointed as Chief Management Officer within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 - **(b)** Subject to the authority, direction, and control of the Secretary of Defense and the Deputy Secretary of Defense, the Chief Management Officer shall perform such duties and exercise such powers as the Secretary or the Deputy Secretary may prescribe, including the following:
   - **(1)** Serving as the chief management officer of the Department of Defense with the mission of managing enterprise business operations and shared services of the Department of Defense.
-  - **(2)** Serving as the principal advisor to the Secretary and the Deputy Secretary on establishing policies for, and directing, all enterprise business operations of the Department, including planning and processes, business transformation, performance measurement and management, and business information technology management and improvement activities and programs, including the allocation of resources for enterprise business operations and unifying business management efforts across the Department.
+  - **(2)** Serving as the principal advisor to the Secretary and the Deputy Secretary on establishing policies for, and directing, all enterprise business operations of the Department, including planning and processes, business transformation, and performance measurement and management activities and programs, including the allocation of resources for enterprise business operations and unifying business management efforts across the Department.
   - **(3)** Exercising authority, direction, and control over the Defense Agencies and Department of Defense Field Activities providing shared business services for the Department that are designated by the Secretary or the Deputy Secretary for purposes of this paragraph.
-  - **(4)** As of January 1, 2019 —
-    - **(A)** serving as the Chief Information Officer of the Department for purposes of section 2222 of this title ;
-    - **(B)** administering the responsibilities and duties specified in sections 11315 and 11319 of title 40, section 3506(a)(2) of title 44 , and section 2223(a) of this title for business systems and management; and
-    - **(C)** Exercising any responsibilities, duties, and powers relating to business systems or management that are exercisable by a chief information officer for the Department, other than those responsibilities, duties, and powers of a chief information officer that are vested in the Chief Information Officer of the Department of Defense by section 142 of this title .
-  - **(5)** Serving as the official with principal responsibility in the Department for providing for the availability of common, usable, Defense-wide data sets with applications such as improving acquisition outcomes and personnel management.
-  - **(6)** Authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Chief Management Officer has responsibility under this section.
-  - **(7)** Serving as the official with principal responsibility in the Department for minimizing the duplication of efforts, maximizing efficiency and effectiveness, and establishing metrics for performance among and for all organizations and elements of the Department.
+  - **(4)** Authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Chief Management Officer has responsibility under this section.
+  - **(5)** Serving as the official with principal responsibility in the Department for minimizing the duplication of efforts, maximizing efficiency and effectiveness, and establishing metrics for performance among and for all organizations and elements of the Department.
 - **(c)**
   - **(1)**
     - **(A)** Beginning in fiscal year 2020, the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the head of each Defense Agency and Department of Defense Field Activity specified by the Secretary for purposes of this subsection to transmit the proposed budget of such Agency or Activity for enterprise business operations for a fiscal year, and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year, to the Chief Management Officer for review under subparagraph (B) at the same time the proposed budget is submitted to the Under Secretary of Defense (Comptroller).

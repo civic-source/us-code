@@ -1,15 +1,13 @@
 ---
-title: "Section 6537 - Compensation of Assistants to Majority and Minority in Office of Secretary of Senate"
+title: "Section 6537 - Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(A) , Dec. 20, 2019 , 133 Stat. 2775"
 usc_title: 2
 usc_section: "6537"
 chapter: 65
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "2 U.S.C. § 6537"
-generated_at: "2026-03-30T08:54:57.539Z"
-status: "active"
+generated_at: "2026-03-30T08:58:09.954Z"
+status: "repealed"
 ---
 
-# § 6537. Compensation of Assistants to Majority and Minority in Office of Secretary of Senate
-
-The Assistant to the Majority of the Senate and the Assistant to the Minority of the Senate in the Office of the Secretary of the Senate may each be paid a maximum annual rate of compensation not to exceed $36,500.
+# § 6537. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(A) , Dec. 20, 2019 , 133 Stat. 2775
 

@@ -3,15 +3,15 @@ title: "Section 2286a - Mission and functions of Board"
 usc_title: 42
 usc_section: "2286a"
 chapter: 23
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 2286a"
-generated_at: "2026-03-30T08:57:32.411Z"
+generated_at: "2026-03-30T08:59:46.951Z"
 status: "active"
 ---
 
 # § 2286a. Mission and functions of Board
 
-- **(a)** The mission of the Board shall be to provide independent analysis, advice, and recommendations to the Secretary of Energy to inform the Secretary, in the role of the Secretary as operator and regulator of the defense nuclear facilities of the Department of Energy, in providing adequate protection of public health and safety at such defense nuclear facilities.
+- **(a)** The mission of the Board shall be to provide independent analysis, advice, and recommendations to the Secretary of Energy to inform the Secretary, in the role of the Secretary as operator and regulator of the defense nuclear facilities of the Department of Energy, in providing adequate protection of public health and safety at such defense nuclear facilities, including with respect to the health and safety of employees and contractors at such facilities.
 - **(b)** The Board shall perform the following functions:
   - **(1)** The Board shall review and evaluate the content and implementation of the standards relating to the design, construction, operation, and decommissioning of defense nuclear facilities of the Department of Energy (including all applicable Department of Energy orders, regulations, and requirements) at each Department of Energy defense nuclear facility. The Board shall recommend to the Secretary of Energy those specific measures that should be adopted to ensure that public health and safety are adequately protected. The Board shall include in its recommendations necessary changes in the content and implementation of such standards, as well as matters on which additional data or additional research is needed.
   - **(2)**

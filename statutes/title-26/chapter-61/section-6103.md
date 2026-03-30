@@ -3,9 +3,9 @@ title: "Section 6103 - Confidentiality and disclosure of returns and return info
 usc_title: 26
 usc_section: "6103"
 chapter: 61
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 6103"
-generated_at: "2026-03-30T08:56:41.484Z"
+generated_at: "2026-03-30T08:59:14.484Z"
 status: "active"
 ---
 
@@ -538,6 +538,7 @@ status: "active"
     - **(A)** Returns and return information with respect to taxes imposed by subtitle E (relating to taxes on alcohol, tobacco, and firearms) shall be open to inspection by or disclosure to officers and employees of a Federal agency whose official duties require such inspection or disclosure.
     - **(B)** Returns and return information disclosed to a Federal agency under subparagraph (A) may be used in an action or proceeding (or in preparation for such action or proceeding) brought under section 625 of the American Jobs Creation Act of 2004 for the collection of any unpaid assessment or penalty arising under such Act.
   - **(2)** Returns and return information with respect to taxes imposed by chapter 35 (relating to taxes on wagering) shall, notwithstanding any other provision of this section, be open to inspection by or disclosure only to such person or persons and for such purpose or purposes as are prescribed by section 4424.
+  - **(3)** Returns and return information with respect to taxes imposed by section 4481 shall be open to inspection by or disclosure to officers and employees of United States Customs and Border Protection of the Department of Homeland Security whose official duties require such inspection or disclosure for purposes of administering such section.
 - **(p)**
   - **(1)** Requests for the inspection or disclosure of a return or return information and such inspection or disclosure shall be made in such manner and at such time and place as shall be prescribed by the Secretary.
   - **(2)**
@@ -553,7 +554,7 @@ status: "active"
         - **(II)** instances in which returns and return information were disclosed pursuant to such requests or otherwise,
         - **(III)** taxpayers whose returns, or return information with respect to whom, were disclosed pursuant to such requests, and
       - **(ii)** describes the general purposes for which such requests were made.
-  - **(4)** Any Federal agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5), or (7), (j)(1), (2), or (5), (k)(8), (10), or (11), ( l )(1), (2), (3), (5), (10), (11), (13), (14), (17), or (22) or ( o )(1)(A), the Government Accountability Office, the Congressional Budget Office, or any agency, body, or commission described in subsection (d), (i)(1)(C), (3)(B)(i), or (7)(A)(ii), or (k)(10), ( l )(6), (7), (8), (9), (12), (15), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10), subsection ( l )(10), (13), (16), (18), (19), or (20), or any entity described in subsection ( l )(21), shall, as a condition for receiving returns or return information—
+  - **(4)** Any Federal agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5), or (7), (j)(1), (2), or (5), (k)(8), (10), or (11), ( l )(1), (2), (3), (5), (10), (11), (13), (14), (17), or (22), ( o )(1)(A), or ( o )(3), the Government Accountability Office, the Congressional Budget Office, or any agency, body, or commission described in subsection (d), (i)(1)(C), (3)(B)(i), or (7)(A)(ii), or (k)(10), ( l )(6), (7), (8), (9), (12), (15), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10), subsection ( l )(10), (13), (16), (18), (19), or (20), or any entity described in subsection ( l )(21), shall, as a condition for receiving returns or return information—
     - **(A)** establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to any request, the reason for such request, and the date of such request made by or of it and any disclosure of return or return information made by or to it;
     - **(B)** establish and maintain, to the satisfaction of the Secretary, a secure area or place in which such returns or return information shall be stored;
     - **(C)** restrict, to the satisfaction of the Secretary, access to the returns or return information only to persons whose duties or responsibilities require access and to whom disclosure may be made under the provisions of this title;
@@ -561,7 +562,7 @@ status: "active"
     - **(E)** furnish a report to the Secretary, at such time and containing such information as the Secretary may prescribe, which describes the procedures established and utilized by such agency, body, or commission, the Government Accountability Office, or the Congressional Budget Office for ensuring the confidentiality of returns and return information required by this paragraph; and
     - **(F)** upon completion of use of such returns or return information—
       - **(i)** in the case of an agency, body, or commission described in subsection (d), (i)(3)(B)(i), (k)(10), or ( l )(6), (7), (8), (9), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or subsection ( l )(10), (13), (16), (18), (19), or (20) return to the Secretary such returns or return information (along with any copies made therefrom) or make such returns or return information undisclosable in any manner and furnish a written report to the Secretary describing such manner,
-      - **(ii)** in the case of an agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8), (10), or (11), ( l )(1), (2), (3), (5), (10), (11), (12), (13), (14), (15), (17), or (22), or ( o )(1)(A) or any entity described in subsection ( l )(21), the Government Accountability Office, or the Congressional Budget Office, either—
+      - **(ii)** in the case of an agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8), (10), or (11), ( l )(1), (2), (3), (5), (10), (11), (12), (13), (14), (15), (17), or (22),, 2 ( o )(1)(A), or ( o )(3) or any entity described in subsection ( l )(21), the Government Accountability Office, or the Congressional Budget Office, either—
         - **(I)** return to the Secretary such returns or return information (along with any copies made therefrom),
         - **(II)** otherwise make such returns or return information undisclosable, or
         - **(III)** to the extent not so returned or made undisclosable, ensure that the conditions of subparagraphs (A), (B), (C), (D), and (E) of this paragraph continue to be met with respect to such returns or return information, and

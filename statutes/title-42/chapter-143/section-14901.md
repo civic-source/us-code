@@ -3,9 +3,9 @@ title: "Section 14901 - Findings and purposes"
 usc_title: 42
 usc_section: "14901"
 chapter: 143
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 14901"
-generated_at: "2026-03-30T08:57:32.666Z"
+generated_at: "2026-03-30T08:59:47.204Z"
 status: "active"
 ---
 

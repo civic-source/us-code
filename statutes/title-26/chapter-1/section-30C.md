@@ -3,9 +3,9 @@ title: "Section 30C - Alternative fuel vehicle refueling property credit"
 usc_title: 26
 usc_section: "30C"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 30C"
-generated_at: "2026-03-30T08:56:41.301Z"
+generated_at: "2026-03-30T08:59:14.287Z"
 status: "active"
 ---
 
@@ -36,4 +36,4 @@ status: "active"
   - **(5)** Rules similar to the rules of section 179A(e)(4) shall apply.
   - **(6)** For purposes of this section, any reference to section 179A shall be treated as a reference to such section as in effect immediately before its repeal.
 - **(f)** The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
-- **(g)** This section shall not apply to any property placed in service after December 31, 2017 .
+- **(g)** This section shall not apply to any property placed in service after December 31, 2020 .

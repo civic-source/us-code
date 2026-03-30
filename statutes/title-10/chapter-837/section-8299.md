@@ -1,15 +1,13 @@
 ---
-title: "Section 8299 - Limitation of honorable service"
+title: "Section 8299 - Repealed. Pub. L. 116–92, div. A, title V, § 582(b)(2)(A) , Dec. 20, 2019 , 133 Stat. 1412 ]"
 usc_title: 10
 usc_section: "8299"
 chapter: 837
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 8299"
-generated_at: "2026-03-30T08:55:17.741Z"
-status: "active"
+generated_at: "2026-03-30T08:58:17.509Z"
+status: "repealed"
 ---
 
-# § 8299. Limitation of honorable service
-
-No medal, cross, or bar, or associated emblem or insignia may be awarded or presented to any person or to his representative if his service after he distinguished himself has not been honorable.
+# [§ 8299. Repealed. Pub. L. 116–92, div. A, title V, § 582(b)(2)(A) , Dec. 20, 2019 , 133 Stat. 1412 ]
 

@@ -3,9 +3,9 @@ title: "Section 2384 - Supplies: identification of supplier and sources"
 usc_title: 10
 usc_section: "2384"
 chapter: 141
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2384"
-generated_at: "2026-03-30T08:55:17.708Z"
+generated_at: "2026-03-30T08:58:17.474Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
     - **(A)** the actual manufacturer or producer of the item or of all sources of supply of the contractor for that item;
     - **(B)** the national stock number of the item (if there is such a number) and the identification number of the actual manufacturer or producer of the item or of each source of supply of the contractor for the item; and
     - **(C)** the source of any technical data delivered under the contract.
-  - **(2)** The regulations prescribed pursuant to paragraph (1) do not apply to a contract that requires the delivery of supplies that are commercial items (as defined in section 103 of title 41 ).
+  - **(2)** The regulations prescribed pursuant to paragraph (1) do not apply to a contract that requires the delivery of supplies that are commercial products (as defined in section 103 of title 41 ).
   - **(3)** The regulations prescribed pursuant to paragraph (1) do not apply to a contract for an amount not greater than the simplified acquisition threshold (as defined in section 134 of title 41 ).
 - **(c)** Identification of supplies and technical data under this section shall be made in the manner and with respect to the supplies prescribed by the Secretary of Defense.

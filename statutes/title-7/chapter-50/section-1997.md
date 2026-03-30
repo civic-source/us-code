@@ -3,9 +3,9 @@ title: "Section 1997 - Conservation easements"
 usc_title: 7
 usc_section: "1997"
 chapter: 50
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "7 U.S.C. § 1997"
-generated_at: "2026-03-30T08:55:28.516Z"
+generated_at: "2026-03-30T08:58:19.830Z"
 status: "active"
 ---
 

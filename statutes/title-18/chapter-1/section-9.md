@@ -3,9 +3,9 @@ title: "Section 9 - Vessel of the United States defined"
 usc_title: 18
 usc_section: "9"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 9"
-generated_at: "2026-03-30T08:56:14.996Z"
+generated_at: "2026-03-30T08:58:42.659Z"
 status: "active"
 ---
 

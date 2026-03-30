@@ -3,9 +3,9 @@ title: "Section 2228 - Office of Corrosion Policy and Oversight"
 usc_title: 10
 usc_section: "2228"
 chapter: 131
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2228"
-generated_at: "2026-03-30T08:55:17.696Z"
+generated_at: "2026-03-30T08:58:17.461Z"
 status: "active"
 ---
 
@@ -13,11 +13,11 @@ status: "active"
 
 - **(a)**
   - **(1)** There is an Office of Corrosion Policy and Oversight within the Office of the Under Secretary of Defense for Acquisition and Sustainment.
-  - **(2)** The Office shall be headed by a Director of Corrosion Policy and Oversight, who shall be assigned to such position by the Under Secretary from among civilian employees of the Department of Defense with the qualifications described in paragraph (3). The Director is responsible in the Department of Defense to the Secretary of Defense (after the Under Secretary of Defense for Acquisition and Sustainment) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department of Defense.. 1 1 So in original.
+  - **(2)** The Office shall be headed by a Director of Corrosion Policy and Oversight, who shall be assigned to such position by the Under Secretary from among civilian employees of the Department of Defense with the qualifications described in paragraph (3). The Director is responsible in the Department of Defense to the Secretary of Defense (after the Under Secretary of Defense for Acquisition and Sustainment) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department of Defense.
   - **(3)** In order to qualify to be assigned to the position of Director, an individual shall—
     - **(A)** have management expertise in, and professional experience with, corrosion project and policy implementation, including an understanding of the effects of corrosion policies on infrastructure; research, development, test, and evaluation; and maintenance; and
     - **(B)** have an understanding of Department of Defense budget formulation and execution, policy formulation, and planning and program requirements.
-  - **(4)** The Secretary of Defense shall designate the position of Director as a critical acquisition position under section 1733(b)(1)(C) of this title .
+  - **(4)** The Secretary of Defense shall designate the position of Director as a critical acquisition position under section 1731 of this title .
 - **(b)**
   - **(1)** The Director of Corrosion Policy and Oversight (in this section referred to as the “Director”) shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the military equipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
   - **(2)** The Director shall develop and recommend any policy guidance on the prevention and mitigation of corrosion to be issued by the Secretary of Defense.

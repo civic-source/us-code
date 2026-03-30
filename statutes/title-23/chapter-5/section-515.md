@@ -3,9 +3,9 @@ title: "Section 515 - General authorities and requirements"
 usc_title: 23
 usc_section: "515"
 chapter: 5
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "23 U.S.C. § 515"
-generated_at: "2026-03-30T08:56:18.803Z"
+generated_at: "2026-03-30T08:59:05.192Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2905 - Accession of state trading regimes to General Agreement o
 usc_title: 19
 usc_section: "2905"
 chapter: 17
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "19 U.S.C. § 2905"
-generated_at: "2026-03-30T08:56:12.266Z"
+generated_at: "2026-03-30T08:58:57.618Z"
 status: "active"
 ---
 

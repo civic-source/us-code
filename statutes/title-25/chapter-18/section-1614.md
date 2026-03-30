@@ -3,9 +3,9 @@ title: "Section 1614 - Indian health service extern programs"
 usc_title: 25
 usc_section: "1614"
 chapter: 18
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 1614"
-generated_at: "2026-03-30T08:56:18.366Z"
+generated_at: "2026-03-30T08:59:00.903Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 701 - Entitlement and accumulation"
 usc_title: 10
 usc_section: "701"
 chapter: 40
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 701"
-generated_at: "2026-03-30T08:55:17.644Z"
+generated_at: "2026-03-30T08:58:17.410Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
   - **(4)** Notwithstanding paragraph (1)(A), a member may receive more than six weeks of medical convalescent leave in connection with the birth of a child, but only if the additional medical convalescent leave—
     - **(A)** is specifically recommended, in writing, by the medical provider of the member to address a diagnosed medical condition; and
     - **(B)** is approved by the commander of the member.
-  - **(5)** Any leave taken by a member under this subsection, including leave under paragraphs (1) and (4), may be taken only in one increment in connection with such birth or adoption.
+  - **(5)** Any leave taken by a member under this subsection, including leave under paragraphs (1) and (4), may be taken in more than one increment in connection with such birth or adoption in accordance with regulations prescribed by the Secretary concerned.
   - **(6)**
     - **(A)** Any leave authorized by this subsection that is not taken within one year of such birth or adoption shall be forfeited.
     - **(B)** Any leave authorized by this subsection for a member of a reserve component on active duty that is not taken by the time the member is separated from active duty shall be forfeited at that time.
@@ -65,3 +65,6 @@ status: "active"
   - **(3)** Any leave taken by a member under this subsection may be taken only in one increment in connection with such birth or adoption.
   - **(4)** Under the regulations prescribed for purposes of this subsection, paragraphs (6) through (10) of subsection (i) (other than paragraph (9)(B) of such subsection) shall apply to leave, and the taking of leave, authorized by this subsection.
 - **(k)** A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member’s next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
+- **(l)** A member of the armed forces who gives birth while on active duty may be deployed during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
+  - **(1)** at the election of such member; or
+  - **(2)** in the interest of national security, as determined by the Secretary of Defense.

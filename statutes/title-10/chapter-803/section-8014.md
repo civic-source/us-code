@@ -3,9 +3,9 @@ title: "Section 8014 - Office of the Secretary of the Navy"
 usc_title: 10
 usc_section: "8014"
 chapter: 803
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 8014"
-generated_at: "2026-03-30T08:55:17.738Z"
+generated_at: "2026-03-30T08:58:17.507Z"
 status: "active"
 ---
 
@@ -51,8 +51,8 @@ status: "active"
     - **(B)** ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
 - **(e)** The Secretary of the Navy shall ensure that the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, do not duplicate specific functions for which the Secretary has assigned responsibility to another of such offices.
 - **(f)**
-  - **(1)** The total number of members of the armed forces and civilian employees of the Department of the Navy assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed 2,866.
-  - **(2)** Not more than 1,720 officers of the Navy and Marine Corps on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps.
+  - **(1)** The total number of members of the armed forces and civilian employees of the Department of the Navy assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed 3,150.
+  - **(2)** Not more than 1,800 officers of the Navy and Marine Corps on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps.
   - **(3)** The total number of general and flag officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed 74.
   - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
   - **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.

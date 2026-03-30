@@ -3,9 +3,9 @@ title: "Section 5414 - Removals from one brewery to another belonging to the sam
 usc_title: 26
 usc_section: "5414"
 chapter: 51
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 5414"
-generated_at: "2026-03-30T08:56:41.472Z"
+generated_at: "2026-03-30T08:59:14.472Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
       - **(i)** the proprietors of transferring and receiving premises are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and
       - **(ii)** the transferor has divested itself of all interest in the beer so transferred and the transferee has accepted responsibility for payment of the tax.
   - **(2)** For purposes of paragraph (1)(C), such relief from liability shall be effective from the time of removal from the transferor’s bonded premises, or from the time of divestment of interest, whichever is later.
-  - **(3)** This subsection shall not apply to any calendar quarter beginning after December 31, 2019 .
+  - **(3)** This subsection shall not apply to any calendar quarter beginning after December 31, 2020 .

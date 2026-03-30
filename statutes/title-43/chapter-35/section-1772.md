@@ -1,15 +1,15 @@
 ---
-title: "Section 1772 - Vegetation managment, facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way"
+title: "Section 1772 - Vegetation managment, 1 1 So in original. Probably should be “management,”. facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way"
 usc_title: 43
 usc_section: "1772"
 chapter: 35
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 1772"
-generated_at: "2026-03-30T08:57:23.109Z"
+generated_at: "2026-03-30T08:59:31.480Z"
 status: "active"
 ---
 
-# § 1772. Vegetation managment, facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way
+# § 1772. Vegetation managment, 1 1 So in original. Probably should be “management,”. facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way
 
 - **(a)** In this section:
   - **(1)** The term “hazard tree” means any tree or part thereof (whether located inside or outside a right-of-way) that has been designated, prior to tree failure, by a certified or licensed arborist or forester under the supervision of the Secretary concerned or the owner or operator of a transmission or distribution facility to be—

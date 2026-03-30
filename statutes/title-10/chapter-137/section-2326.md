@@ -3,9 +3,9 @@ title: "Section 2326 - Undefinitized contractual actions: restrictions"
 usc_title: 10
 usc_section: "2326"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2326"
-generated_at: "2026-03-30T08:55:17.703Z"
+generated_at: "2026-03-30T08:58:17.468Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(A)** the possible reduced cost risk of the contractor with respect to costs incurred during performance of the contract before the final price is negotiated; and
     - **(B)** the reduced cost risk of the contractor with respect to costs incurred during performance of the remaining portion of the contract.
   - **(2)** If a contractor submits a qualifying proposal to definitize an undefinitized contractual action and the contracting officer for such action definitizes the contract after the end of the 180-day period beginning on the date on which the contractor submitted the qualifying proposal, the head of the agency concerned shall ensure that the profit allowed on the contract accurately reflects the cost risk of the contractor as such risk existed on the date the contractor submitted the qualifying proposal.
-- **(g)** No undefinitized contractual action may extend beyond 90 days without a written determination by the Secretary of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition, Technology, and Logistics (as applicable) that it is in the best interests of the military department, the Defense Agency, the combatant command, or the Department of Defense, respectively, to continue the action.
+- **(g)** No undefinitized contractual action may extend beyond 90 days without a written determination by the Secretary of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition and Sustainment (as applicable) that it is in the best interests of the military department, the Defense Agency, the combatant command, or the Department of Defense, respectively, to continue the action.
 - **(h)**
   - **(1)** Except as provided in paragraph (2), a contracting officer of the Department of Defense may not enter into an undefinitized contractual action for a foreign military sale unless the contractual action provides for agreement upon contractual terms, specifications, and price by the end of the 180-day period described in subsection (b)(1)(A).
   - **(2)** The requirement under paragraph (1) may be waived in accordance with subsection (b)(4).

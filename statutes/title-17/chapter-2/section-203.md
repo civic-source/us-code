@@ -3,9 +3,9 @@ title: "Section 203 - Termination of transfers and licenses granted by the autho
 usc_title: 17
 usc_section: "203"
 chapter: 2
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "17 U.S.C. § 203"
-generated_at: "2026-03-30T08:56:12.465Z"
+generated_at: "2026-03-30T08:58:37.270Z"
 status: "active"
 ---
 

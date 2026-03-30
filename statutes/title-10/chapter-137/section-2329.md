@@ -3,19 +3,19 @@ title: "Section 2329 - Procurement of services: data analysis and requirements v
 usc_title: 10
 usc_section: "2329"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2329"
-generated_at: "2026-03-30T08:55:17.703Z"
+generated_at: "2026-03-30T08:58:17.468Z"
 status: "active"
 ---
 
 # § 2329. Procurement of services: data analysis and requirements validation
 
-- **(a)** The Secretary of Defense shall ensure that—
+- **(a)** The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation, shall ensure that—
   - **(1)** appropriate and sufficiently detailed data are collected and analyzed to support the validation of requirements for services contracts and inform the planning, programming, budgeting, and execution process of the Department of Defense;
   - **(2)** requirements for services contracts are evaluated appropriately and in a timely manner to inform decisions regarding the procurement of services; and
   - **(3)** decisions regarding the procurement of services consider available resources and total force management policies and procedures.
-- **(b)** Effective October 1, 2021 , the Secretary of Defense shall annually submit to Congress information on services contracts that clearly and separately identifies the amount requested for each category of services to be procured for each Defense Agency, Department of Defense Field Activity, command, or military installation. Such information shall—
+- **(b)** Effective October 1, 2021 , the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation, shall annually submit to Congress information on services contracts that clearly and separately identifies the amount requested for each category of services to be procured for each Defense Agency, Department of Defense Field Activity, command, or military installation. Such information shall—
   - **(1)** be submitted at or before the time of the budget submission by the President under section 1105(a) of title 31 or on the date on which the future-years defense program is submitted to Congress under section 221 of this title ;
   - **(2)** cover the fiscal year covered by such budget submission by the President;
   - **(3)** be consistent with total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Department of Defense included in such budget submission by the President for that fiscal year;
@@ -24,7 +24,7 @@ status: "active"
 - **(c)**
   - **(1)** Each Secretary of a military department shall regularly analyze past spending patterns and anticipated future requirements with respect to the procurement of services within such military department.
   - **(2)**
-    - **(A)** The Secretary of Defense shall regularly analyze past spending patterns and anticipated future requirements with respect to the procurement of services—
+    - **(A)** The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation, shall regularly analyze past spending patterns and anticipated future requirements with respect to the procurement of services—
       - **(i)** within each Defense Agency and Department of Defense Field Activity; and
       - **(ii)** across military departments, Defense Agencies, and Department of Defense Field Activities.
     - **(B)** The Secretaries of the military departments shall make data on services contracts available to the Secretary of Defense for purposes of conducting the analysis required under subparagraph (A).
@@ -46,7 +46,7 @@ status: "active"
   - **(2)** services contracts in support of a national security emergency declared with respect to a named operation; or
   - **(3)** services contracts entered into pursuant to an international agreement.
 - **(g)** In this section:
-  - **(1)** The term “bridge contact” 1 1 So in original. Probably should be “ ‘bridge contract’ ”. means—
+  - **(1)** The term “bridge contract” means—
     - **(A)** an extension to an existing contract beyond the period of performance to avoid a lapse in service caused by a delay in awarding a subsequent contract; or
     - **(B)** a new short-term contract awarded on a sole-source basis to avoid a lapse in service caused by a delay in awarding a subsequent contract.
   - **(2)** The term “requirements owner” means a member of the armed forces (other than the Coast Guard) or a civilian employee of the Department of Defense responsible for a requirement for a service to be performed through a services contract.

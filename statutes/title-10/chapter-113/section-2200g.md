@@ -1,0 +1,15 @@
+---
+title: "Section 2200g - Establishment"
+usc_title: 10
+usc_section: "2200g"
+chapter: 113
+current_through: "PL 116-108"
+classification: "10 U.S.C. § 2200g"
+generated_at: "2026-03-30T08:58:17.459Z"
+status: "active"
+---
+
+# § 2200g. Establishment
+
+For the purposes of preparing selected students for public service in Department of Defense occupations relating to acquisition, science, engineering, or other civilian occupations determined by the Secretary of Defense, and to target critical skill gaps in the Department of Defense, the Secretary of Defense shall establish and maintain a Defense Civilian Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees.
+

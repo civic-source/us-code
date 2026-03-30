@@ -3,9 +3,9 @@ title: "Section 187 - Strategic Materials Protection Board"
 usc_title: 10
 usc_section: "187"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 187"
-generated_at: "2026-03-30T08:55:17.626Z"
+generated_at: "2026-03-30T08:58:17.393Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** The Board shall be composed of the following:
     - **(A)** The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy, who shall be the chairman of the Board.
     - **(B)** The Administrator of the Defense Logistics Agency Strategic Materials, or any successor organization, who shall be the vice chairman of the Board.
-    - **(C)** A designee of the Assistant Secretary of the Army for Acquisition, Technology, and Logistics.
+    - **(C)** A designee of the Assistant Secretary of the Army for Acquisition, Logistics, and Technology.
     - **(D)** A designee of the Assistant Secretary of the Navy for Research, Development, and Acquisition.
     - **(E)** A designee of the Assistant Secretary of the Air Force for Acquisition. 1 1 See Change of Name note below.
 - **(b)** In addition to other matters assigned to it by the Secretary of Defense, the Board shall—

@@ -3,9 +3,9 @@ title: "Section 1451 - Amount of annuity"
 usc_title: 10
 usc_section: "1451"
 chapter: 73
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1451"
-generated_at: "2026-03-30T08:55:17.678Z"
+generated_at: "2026-03-30T08:58:17.442Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
     - **(B)**
       - **(i)** If the person receiving the annuity (other than a dependent child) is 62 years of age or older when the member or former member dies, the monthly annuity shall be the amount equal to the applicable percent of the retired pay to which the member or former member would have been entitled as determined under subparagraph (A). The percent applicable for a month under the preceding sentence is the percent specified under subsection (a)(1)(B)(i) as being applicable for that month.
       - **(ii)** If the beneficiary is eligible to have the annuity computed under subsection (e) and if computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
-  - **(2)** An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by the amount of dependency and indemnity compensation to which the surviving spouse is entitled under section 1311(a) of title 38 . Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
+  - **(2)** An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by a portion (calculated under section 1450(c) of this title ) of the amount of dependency and indemnity compensation to which the surviving spouse is entitled under section 1311(a) of title 38 . Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
   - **(3)** In the case of an annuity provided by reason of the service of a member described in clause (ii) or (iii) of section 1448(d)(1)(A) of this title who first became a member of a uniformed service before September 8, 1980 , the retired pay to which the member would have been entitled when he died shall be determined for purposes of paragraph (1) based upon the rate of basic pay in effect at the time of death for the grade in which the member was serving at the time of death, unless (as determined by the Secretary concerned) the member would have been entitled to be retired in a higher grade.
   - **(4)** In the case of an annuity paid under section 1448(f) of this title by reason of the service of a person who first became a member of a uniformed service before September 8, 1980 , the retired pay of the person providing the annuity shall for the purposes of paragraph (1) be computed on the basis of the rates of basic pay in effect on the effective date of the annuity.
 - **(d)**

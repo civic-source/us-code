@@ -3,9 +3,9 @@ title: "Section 1599g - Public-private talent exchange"
 usc_title: 10
 usc_section: "1599g"
 chapter: 81
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1599g"
-generated_at: "2026-03-30T08:55:17.685Z"
+generated_at: "2026-03-30T08:58:17.449Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
 - **(e)**
   - **(1)** An employee of the Department of Defense who is assigned to a private-sector organization under this section shall be considered, during the period of assignment, to be on detail to a regular work assignment in the Department for all purposes. The written agreement established under subsection (b)(1) shall address the specific terms and conditions related to the employee’s continued status as a Federal employee.
   - **(2)** In establishing a temporary assignment of an employee of the Department of Defense to a private-sector organization, the Secretary of Defense shall—
-    - **(A)** ensure that the normal duties and functions of such employee can be reasonably performed by other employees of the Department of Defense without the transfer or reassignment of other personnel of the Department of Defense, including members of the armed forces;
+    - **(A)** ensure that the normal duties and functions of such employee can be reasonably performed by other employees of the Department of Defense without the permanent transfer or reassignment of other personnel of the Department of Defense, including members of the armed forces;
     - **(B)** ensure that the normal duties and functions of such employees are not, as a result of and during the course of such temporary assignment, performed or augmented by contractor personnel in violation of the provisions of section 2461 of this title ; and
     - **(C)** certify that the temporary assignment of such employee shall not have an adverse or negative impact on mission attainment, warfighter support, or organizational capabilities associated with the assignment.
 - **(f)** An employee of a private-sector organization who is assigned to a Department of Defense organization under this section—
@@ -46,3 +46,8 @@ status: "active"
   - **(1)** shall ensure that, of the assignments made under this section each year, at least 20 percent are from small business concerns (as defined by section 3703(e)(2)(A) of title 5 );
   - **(2)** shall take into consideration the question of how assignments under this section might best be used to help meet the needs of the Department of Defense with respect to the training of employees; and
   - **(3)** shall take into consideration, where applicable, areas of particular private sector expertise, such as cybersecurity.
+- **(i)** A private-sector organization that is temporarily assigned a member of the acquisition workforce under this section shall not be considered to have a conflict of interest with the Department of Defense solely because of participation in the program established under this section.
+- **(j)** Funds for the expenses for the program established under this section may be provided from amounts in the Department of Defense Acquisition Workforce Development Fund. Expenses for the program include—
+  - **(1)** notwithstanding section 1705(e)(5) of this title , the base salary of a civilian member of the acquisition workforce assigned to a private-sector organization under this section, during the period of that assignment;
+  - **(2)** expenses relating to assignment under this section of a member of the acquisition workforce away from the member’s regular duty station, including expenses for travel, per diem, and lodging; and
+  - **(3)** expenses for the administration of the program.

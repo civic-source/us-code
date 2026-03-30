@@ -3,9 +3,9 @@ title: "Section 1012 - Department of Housing and Urban Development transactions"
 usc_title: 18
 usc_section: "1012"
 chapter: 47
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 1012"
-generated_at: "2026-03-30T08:56:15.014Z"
+generated_at: "2026-03-30T08:58:42.677Z"
 status: "active"
 ---
 

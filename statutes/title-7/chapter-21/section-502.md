@@ -3,9 +3,9 @@ title: "Section 502 - Standards for classification; returns and blanks"
 usc_title: 7
 usc_section: "502"
 chapter: 21
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "7 U.S.C. § 502"
-generated_at: "2026-03-30T08:55:28.465Z"
+generated_at: "2026-03-30T08:58:19.778Z"
 status: "active"
 ---
 

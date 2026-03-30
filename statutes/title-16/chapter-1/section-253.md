@@ -3,9 +3,9 @@ title: "Section 253 - Apportionment of income among counties"
 usc_title: 16
 usc_section: "253"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 253"
-generated_at: "2026-03-30T08:56:05.354Z"
+generated_at: "2026-03-30T08:58:41.559Z"
 status: "active"
 ---
 

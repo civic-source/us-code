@@ -3,9 +3,9 @@ title: "Section 5039 - Commitment"
 usc_title: 18
 usc_section: "5039"
 chapter: 403
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 5039"
-generated_at: "2026-03-30T08:56:15.056Z"
+generated_at: "2026-03-30T08:58:42.720Z"
 status: "active"
 ---
 

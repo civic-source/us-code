@@ -3,9 +3,9 @@ title: "Section 150709 - Headquarters and principal office"
 usc_title: 36
 usc_section: "150709"
 chapter: 1507
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "36 U.S.C. § 150709"
-generated_at: "2026-03-30T08:56:58.049Z"
+generated_at: "2026-03-30T08:59:26.471Z"
 status: "active"
 ---
 

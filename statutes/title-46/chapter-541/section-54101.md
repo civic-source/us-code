@@ -3,9 +3,9 @@ title: "Section 54101 - Assistance for small shipyards"
 usc_title: 46
 usc_section: "54101"
 chapter: 541
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "46 U.S.C. § 54101"
-generated_at: "2026-03-30T08:57:51.930Z"
+generated_at: "2026-03-30T08:59:50.955Z"
 status: "active"
 ---
 
@@ -26,7 +26,24 @@ status: "active"
     - **(A)** make capital and related improvements in small shipyards; and
     - **(B)** provide training for workers in shipbuilding, ship repair, and associated industries.
   - **(2)** Not more than 2 percent of amounts made available to carry out the program may be used for the necessary costs of grant administration.
-- **(d)** Grants awarded under this section may not be used to construct buildings or other physical facilities or to acquire land.
+- **(d)**
+  - **(1)** Grants awarded under this section may not be used to construct buildings or other physical facilities or to acquire land.
+  - **(2)**
+    - **(A)** Subject to subparagraph (B), no funds may be obligated by the Administrator of the Maritime Administration under this section, unless each product and material purchased with those funds (including products and materials purchased by a grantee), and including any commercially available off-the-shelf item, is—
+      - **(i)** an unmanufactured article, material, or supply that has been mined or produced in the United States; or
+      - **(ii)** a manufactured article, material, or supply that has been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States.
+    - **(B)**
+      - **(i)** Notwithstanding subparagraph (A), the requirements of that subparagraph shall not apply with respect to a particular product or material if the Administrator determines—
+        - **(I)** that the application of those requirements would be inconsistent with the public interest;
+        - **(II)** that such product or material is not available in the United States in sufficient and reasonably available quantities, of a satisfactory quality, or on a timely basis; or
+        - **(III)** that inclusion of a domestic product or material will increase the cost of that product or material by more than 25 percent, with respect to a certain contract between a grantee and that grantee’s supplier.
+      - **(ii)** A determination made by the Administrator under this subparagraph shall be published in the Federal Register.
+    - **(C)** ln this paragraph:
+      - **(i)** The term “commercially available off-the-shelf item” means—
+        - **(I)** any item of supply (including construction material) that is—
+        - **(II)** does not include bulk cargo, as defined in section 40102(4) of this title , such as agricultural products and petroleum products.
+      - **(ii)** The term “product or material” means an article, material, or supply brought to the site by the recipient for incorporation into the building, work, or project. The term also includes an item brought to the site preassembled from articles, materials, or supplies. However, emergency life safety systems, such as emergency lighting, fire alarm, and audio evacuation systems, that are discrete systems incorporated into a public building or work and that are produced as complete systems, are evaluated as a single and distinct construction material regardless of when or how the individual parts or components of those systems are delivered to the construction site.
+      - **(iii)** The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 - **(e)**
   - **(1)** Federal funds for any eligible project under this section shall not exceed 75 percent of the total cost of such project.
   - **(2)** The Administrator may not award more than 25 percent of the funds appropriated to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.
@@ -46,4 +63,4 @@ status: "active"
     - **(C)** the recipient has authority to carry out the proposed project.
 - **(g)** All grantees under this section shall maintain such records as the Administrator may require and make such records available for review and audit by the Administrator.
 - **(h)** In this section, the term “small shipyard” means a shipyard facility in one geographic location that does not have more than 1,200 employees.
-- **(i)** There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2018, 2019, and 2020 to carry out this section $35,000,000.
+- **(i)** There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2020 and 2021 to carry out this section $40,000,000.

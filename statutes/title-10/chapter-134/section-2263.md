@@ -3,9 +3,9 @@ title: "Section 2263 - United States contributions to the North Atlantic Treaty 
 usc_title: 10
 usc_section: "2263"
 chapter: 134
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2263"
-generated_at: "2026-03-30T08:55:17.697Z"
+generated_at: "2026-03-30T08:58:17.462Z"
 status: "active"
 ---
 

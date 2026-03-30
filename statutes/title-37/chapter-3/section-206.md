@@ -3,9 +3,9 @@ title: "Section 206 - Reserves; members of National Guard: inactive-duty trainin
 usc_title: 37
 usc_section: "206"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "37 U.S.C. § 206"
-generated_at: "2026-03-30T08:56:56.782Z"
+generated_at: "2026-03-30T08:59:26.789Z"
 status: "active"
 ---
 

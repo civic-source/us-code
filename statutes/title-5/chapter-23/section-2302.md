@@ -3,9 +3,9 @@ title: "Section 2302 - Prohibited personnel practices"
 usc_title: 5
 usc_section: "2302"
 chapter: 23
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "5 U.S.C. § 2302"
-generated_at: "2026-03-30T08:54:55.084Z"
+generated_at: "2026-03-30T08:58:09.198Z"
 status: "active"
 ---
 
@@ -60,7 +60,12 @@ status: "active"
       - **(ii)** gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety,
     - **(B)** any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
       - **(i)** any violation (other than a violation of this section) of any law, rule, or regulation, or
-      - **(ii)** gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+      - **(ii)** gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; or
+    - **(C)** any disclosure to Congress (including any committee of Congress) by any employee of an agency or applicant for employment at an agency of information described in subparagraph (B) that is—
+      - **(i)** not classified; or
+      - **(ii)** if classified—
+        - **(I)** has been classified by the head of an agency that is not an element of the intelligence community (as defined by section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 )); and
+        - **(II)** does not reveal intelligence sources and methods. 1 1 So in original. The period probably should be a semicolon.
   - **(9)** take or fail to take, or threaten to take or fail to take, any personnel action against any employee or applicant for employment because of—
     - **(A)** the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation—
       - **(i)** with regard to remedying a violation of paragraph (8); or
@@ -90,7 +95,7 @@ status: "active"
       - **(iii)** the means by which, with respect to information that is otherwise required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs, an employee may make a lawful disclosure of the information to—
         - **(I)** the Special Counsel;
         - **(II)** the Inspector General of an agency;
-        - **(III)** Congress; or
+        - **(III)** Congress (including any committee of Congress with respect to information that is not classified or, if classified, has been classified by the head of an agency that is not an element of the intelligence community and does not reveal intelligence sources and methods); or
         - **(IV)** another employee of the agency who is designated to receive such a disclosure.
   - **(3)** The head of each agency shall ensure that the information described in paragraph (2) is provided to each new employee of the agency not later than 180 days after the date on which the new employee is appointed.
   - **(4)** The head of each agency shall make available information regarding whistleblower protections applicable to employees of the agency on the public website of the agency and on any online portal that is made available only to employees of the agency, if such portal exists.

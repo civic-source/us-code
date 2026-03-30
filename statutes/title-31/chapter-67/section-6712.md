@@ -3,9 +3,9 @@ title: "Section 6712 - Discrimination proceedings"
 usc_title: 31
 usc_section: "6712"
 chapter: 67
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "31 U.S.C. § 6712"
-generated_at: "2026-03-30T08:56:52.863Z"
+generated_at: "2026-03-30T08:59:22.412Z"
 status: "active"
 ---
 

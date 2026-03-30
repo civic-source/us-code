@@ -3,16 +3,16 @@ title: "Section 2273a - Space Rapid Capabilities Office"
 usc_title: 10
 usc_section: "2273a"
 chapter: 135
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2273a"
-generated_at: "2026-03-30T08:55:17.697Z"
+generated_at: "2026-03-30T08:58:17.462Z"
 status: "active"
 ---
 
 # § 2273a. Space Rapid Capabilities Office
 
-- **(a)** There is within the Air Force Space Command a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
-- **(b)** The head of the Office shall be the designee of the Secretary of the Air Force. The head of the Office shall report to the Commander of the Air Force Space Command.
+- **(a)** There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
+- **(b)** The head of the Office shall be the designee of the Secretary of the Air Force. The head of the Office shall report to the Chief of Space Operations.
 - **(c)** The mission of the Office shall be—
   - **(1)** to contribute to the development of low-cost, rapid reaction payloads, busses, launch, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution;
   - **(2)** to coordinate and execute space rapid capabilities efforts across the Department of Defense with respect to planning, acquisition, and operations; and
@@ -20,7 +20,7 @@ status: "active"
 - **(d)** The acquisition activities of the Office shall be subject to the following:
   - **(1)** The Secretary of the Air Force shall designate the acquisition executive of the Office who shall provide streamlined acquisition authorities for projects of the Office.
   - **(2)** The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office.
-  - **(3)** The Commander of the United States Strategic Command, acting through the United States Space Command, shall—
+  - **(3)** The Commander of the United States Space Command, or, if no such command exists, the Commander of the United States Strategic Command, shall—
     - **(A)** establish and validate capability requirements; and
     - **(B)** recommend priorities as the Commander determines appropriate.
 - **(e)**

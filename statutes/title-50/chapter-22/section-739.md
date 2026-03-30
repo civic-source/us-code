@@ -3,9 +3,9 @@ title: "Section 739 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "739"
 chapter: 22
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 739"
-generated_at: "2026-03-30T08:57:54.469Z"
+generated_at: "2026-03-30T08:59:52.810Z"
 status: "repealed"
 ---
 

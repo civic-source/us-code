@@ -3,9 +3,9 @@ title: "Section 710 - Cremation urns for military use"
 usc_title: 18
 usc_section: "710"
 chapter: 33
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 710"
-generated_at: "2026-03-30T08:56:15.006Z"
+generated_at: "2026-03-30T08:58:42.670Z"
 status: "active"
 ---
 

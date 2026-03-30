@@ -3,9 +3,9 @@ title: "Section 7902 - Reduction of greenhouse gas intensity"
 usc_title: 22
 usc_section: "7902"
 chapter: 86
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 7902"
-generated_at: "2026-03-30T08:56:22.295Z"
+generated_at: "2026-03-30T08:59:03.906Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(C)**
       - **(i)** The Secretary of State shall use the initial report submitted under subparagraph (A) to establish baselines for the developing countries identified in the report with respect to the information provided under clauses (i) and (ii) of that subparagraph.
       - **(ii)** The Secretary of State shall use the annual reports prepared under subparagraph (B) and any other information available to the Secretary to track the progress of the developing countries with respect to reducing greenhouse gas intensity.
-- **(b)** The Secretary of State, in coordination with Administrator of the United States Agency for International Development, shall (directly or through agreements with the World Bank, the International Monetary Fund, the Overseas Private Investment Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
+- **(b)** The Secretary of State, in coordination with Administrator of the United States Agency for International Development, shall (directly or through agreements with the World Bank, the International Monetary Fund, the United States International Development Finance Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
   - **(1)** leverage, through bilateral agreements, funds for reduction of greenhouse gas intensity;
   - **(2)** increase private investment in projects and activities to reduce greenhouse gas intensity; and
   - **(3)** expedite the deployment of technology to reduce greenhouse gas intensity.

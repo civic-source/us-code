@@ -3,9 +3,9 @@ title: "Section 8423 - Government contributions"
 usc_title: 5
 usc_section: "8423"
 chapter: 84
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "5 U.S.C. § 8423"
-generated_at: "2026-03-30T08:54:55.121Z"
+generated_at: "2026-03-30T08:58:09.236Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
       - **(i)** the normal-cost percentage, as determined for employees (other than employees covered by subparagraph (B)), multiplied by
       - **(ii)** the aggregate amount of basic pay payable by the agency, for the period involved, to employees (under clause (i)) who are within such agency; and
     - **(B)** the product of—
-      - **(i)** the normal-cost percentage, as determined for Members, Congressional employees, law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and employees under sections 302 and 303 of the Central Intelligence Agency Retirement Act, multiplied by
+      - **(i)** the normal-cost percentage, as determined for Members, Congressional employees (including a separate normal-cost percentage for Congressional employees that are members of the Capitol Police covered under subsection (d) of section 8412 and subsection (c) of section 8425), law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and employees under sections 302 and 303 of the Central Intelligence Agency Retirement Act, multiplied by
       - **(ii)** the aggregate amount of basic pay payable by the agency, for the period involved, to employees and Members (under clause (i)) who are within such agency.
   - **(2)**
     - **(A)** In determining any normal-cost percentage to be applied under this subsection, amounts provided for under section 8422 shall be taken into account.

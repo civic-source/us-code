@@ -3,9 +3,9 @@ title: "Section 1552 - Correction of military records: claims incident thereto"
 usc_title: 10
 usc_section: "1552"
 chapter: 79
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1552"
-generated_at: "2026-03-30T08:55:17.682Z"
+generated_at: "2026-03-30T08:58:17.446Z"
 status: "active"
 ---
 
@@ -19,7 +19,9 @@ status: "active"
     - **(B)** If a board makes a preliminary determination that a claim under this section lacks sufficient information or documents to support the claim, the board shall notify the claimant, in writing, indicating the specific information or documents necessary to make the claim complete and reviewable by the board.
     - **(C)** If a claimant is unable to provide military personnel or medical records applicable to a claim under this section, the board shall make reasonable efforts to obtain the records. A claimant shall provide the board with documentary evidence of the efforts of the claimant to obtain such records. The board shall inform the claimant of the results of the board’s efforts, and shall provide the claimant copies of any records so obtained upon request of the claimant.
     - **(D)** Any request for reconsideration of a determination of a board under this section, no matter when filed, shall be reconsidered by a board under this section if supported by materials not previously presented to or considered by the board in making such determination.
-  - **(4)** Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.
+  - **(4)**
+    - **(A)** Subject to subparagraph (B), a correction under this section is final and conclusive on all officers of the United States except when procured by fraud.
+    - **(B)** If a board established under this section does not grant a request for an upgrade to the characterization of a discharge or dismissal, that declination may be considered under section 1553a of this title .
   - **(5)** Each final decision of a board under this subsection shall be made available to the public in electronic form on a centralized Internet website. In any decision so made available to the public there shall be redacted all personally identifiable information.
 - **(b)** No correction may be made under subsection (a)(1) unless the claimant (or the claimant’s heir or legal representative) or the Secretary concerned files a request for the correction within three years after discovering the error or injustice. The Secretary concerned may file a request for correction of a military record only if the request is made on behalf of a group of members or former members of the armed forces who were similarly harmed by the same error or injustice. A board established under subsection (a)(1) may excuse a failure to file within three years after discovery if it finds it to be in the interest of justice.
 - **(c)**
@@ -35,7 +37,10 @@ status: "active"
 - **(f)** With respect to records of courts-martial and related administrative records pertaining to court-martial cases tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under subsection (a) may extend only to—
   - **(1)** correction of a record to reflect actions taken by reviewing authorities under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)); or
   - **(2)** action on the sentence of a court-martial for purposes of clemency.
-- **(g)** Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
+- **(g)**
+  - **(1)** Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
+  - **(2)** If a board established under subsection (a)(1) is reviewing a claim described in subsection (h), the board shall seek advice and counsel in the review from a psychiatrist, psychologist, or social worker with training on mental health issues associated with post-traumatic stress disorder or traumatic brain injury or other trauma as specified in the current edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
+  - **(3)** If a board established under subsection (a)(1) is reviewing a claim in which sexual trauma, intimate partner violence, or spousal abuse is claimed, the board shall seek advice and counsel in the review from an expert in trauma specific to sexual assault, intimate partner violence, or spousal abuse, as applicable.
 - **(h)**
   - **(1)** This subsection applies to a former member of the armed forces whose claim under this section for review of a discharge or dismissal is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale, or as justification for priority consideration, and whose post-traumatic stress disorder or traumatic brain injury is related to combat or military sexual trauma, as determined by the Secretary concerned.
   - **(2)** In the case of a claimant described in paragraph (1), a board established under subsection (a)(1) shall—

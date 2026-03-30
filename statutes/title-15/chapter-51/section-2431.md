@@ -3,9 +3,9 @@ title: "Section 2431 - Liaison with Center"
 usc_title: 15
 usc_section: "2431"
 chapter: 51
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 2431"
-generated_at: "2026-03-30T08:55:58.043Z"
+generated_at: "2026-03-30T08:58:33.088Z"
 status: "active"
 ---
 

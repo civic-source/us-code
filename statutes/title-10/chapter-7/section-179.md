@@ -3,9 +3,9 @@ title: "Section 179 - Nuclear Weapons Council"
 usc_title: 10
 usc_section: "179"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 179"
-generated_at: "2026-03-30T08:55:17.625Z"
+generated_at: "2026-03-30T08:58:17.393Z"
 status: "active"
 ---
 
@@ -70,3 +70,8 @@ status: "active"
     - **(A)** The term “budget” has the meaning given that term in section 231(f) of this title .
     - **(B)** The term “defense budget materials” has the meaning given that term in section 231(f) of this title .
     - **(C)** The term “proposed transfer of estimated nuclear budget request authority” means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
+- **(g)**
+  - **(1)** Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a briefing on, with respect to the six-month period preceding the briefing—
+    - **(A)** the dates on which the Council met; and
+    - **(B)** except as provided by paragraph (2), a summary of any decisions made by the Council pursuant to subsection (d) at each such meeting and the rationale for and options that informed such decisions.
+  - **(2)** The Council shall not be required to include in a briefing under paragraph (1) the matters described in subparagraph (B) of that paragraph with respect to decisions of the Council relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31 as of the date of the briefing.

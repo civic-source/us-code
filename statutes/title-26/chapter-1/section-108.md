@@ -3,9 +3,9 @@ title: "Section 108 - Income from discharge of indebtedness"
 usc_title: 26
 usc_section: "108"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 108"
-generated_at: "2026-03-30T08:56:41.321Z"
+generated_at: "2026-03-30T08:59:14.308Z"
 status: "active"
 ---
 
@@ -18,8 +18,8 @@ status: "active"
     - **(C)** the indebtedness discharged is qualified farm indebtedness,
     - **(D)** in the case of a taxpayer other than a C corporation, the indebtedness discharged is qualified real property business indebtedness, or
     - **(E)** the indebtedness discharged is qualified principal residence indebtedness which is discharged—
-      - **(i)** before January 1, 2018 , or
-      - **(ii)** subject to an arrangement that is entered into and evidenced in writing before January 1, 2018 .
+      - **(i)** before January 1, 2021 , or
+      - **(ii)** subject to an arrangement that is entered into and evidenced in writing before January 1, 2021 .
   - **(2)**
     - **(A)** Subparagraphs (B), (C), (D), and (E) of paragraph (1) shall not apply to a discharge which occurs in a title 11 case.
     - **(B)** Subparagraphs (C) and (D) of paragraph (1) shall not apply to a discharge to the extent the taxpayer is insolvent.
@@ -155,7 +155,7 @@ status: "active"
     - **(D)** For purposes of this paragraph, the adjusted basis of any qualified property and the amount of the adjusted tax attributes shall be determined after any reduction under subsection (b) by reason of amounts excluded from gross income under subsection (a)(1)(B).
 - **(h)**
   - **(1)** The amount excluded from gross income by reason of subsection (a)(1)(E) shall be applied to reduce (but not below zero) the basis of the principal residence of the taxpayer.
-  - **(2)** For purposes of this section, the term “qualified principal residence indebtedness” means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting “$2,000,000 ($1,000,000” for “$1,000,000 ($500,000” in clause (ii) thereof) with respect to the principal residence of the taxpayer.
+  - **(2)** For purposes of this section, the term “qualified principal residence indebtedness” means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting “$2,000,000 ($1,000,000” for “$1,000,000 ($500,000” in clause (ii) thereof and determined without regard to the substitution described in section 163(h)(3)(F)(i)(II)) with respect to the principal residence of the taxpayer.
   - **(3)** Subsection (a)(1)(E) shall not apply to the discharge of a loan if the discharge is on account of services performed for the lender or any other factor not directly related to a decline in the value of the residence or to the financial condition of the taxpayer.
   - **(4)** If any loan is discharged, in whole or in part, and only a portion of such loan is qualified principal residence indebtedness, subsection (a)(1)(E) shall apply only to so much of the amount discharged as exceeds the amount of the loan (as determined immediately before such discharge) which is not qualified principal residence indebtedness.
   - **(5)** For purposes of this subsection, the term “principal residence” has the same meaning as when used in section 121.

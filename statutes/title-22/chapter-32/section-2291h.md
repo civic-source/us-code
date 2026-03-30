@@ -3,9 +3,9 @@ title: "Section 2291h - Reporting requirements"
 usc_title: 22
 usc_section: "2291h"
 chapter: 32
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 2291h"
-generated_at: "2026-03-30T08:56:22.213Z"
+generated_at: "2026-03-30T08:59:03.823Z"
 status: "active"
 ---
 
@@ -58,6 +58,11 @@ status: "active"
     - **(B)** The identification of countries that imported the largest amount of chemicals under subparagraph (A)(ii) shall be based on the following:
       - **(i)** An economic analysis that estimates the legitimate demand for such chemicals in such countries as compared to the actual or estimated amount of such chemicals that is imported into such countries.
       - **(ii)** The best available data and other information regarding the production of methamphetamine in such countries and the diversion of such chemicals for use in the production of methamphetamine.
+  - **(9)**
+    - **(A)** An assessment conducted by the Secretary of State, in consultation with the Secretary of the Treasury and the Director of National Intelligence, of the extent to which any diplomatic efforts described in section 7217(a) of the Fentanyl Sanctions Act have been successful.
+    - **(B)** Each assessment required by subparagraph (A) shall include an identification of—
+      - **(i)** the countries the governments of which have agreed to undertake measures to apply economic or other financial sanctions to foreign traffickers of illicit opioids and a description of those measures; and
+      - **(ii)** the countries the governments of which have not agreed to measures described in clause (i), and, with respect to those countries, other measures the Secretary of State recommends that the United States take to apply economic and other financial sanctions to foreign traffickers of illicit opioids.
 - **(b)**
   - **(1)** At the time that the report required by subsection (a) is submitted each year, the Secretary of State, in consultation with appropriate United States Government agencies, shall report to the appropriate committees of the Congress on the assistance provided or proposed to be provided by the United States Government during the preceding fiscal year, the current fiscal year, and the next fiscal year to support international efforts to combat illicit narcotics production or trafficking.
   - **(2)** Each report pursuant to this subsection shall—

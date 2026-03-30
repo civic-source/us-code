@@ -3,9 +3,9 @@ title: "Section 1708 - Procurement notice"
 usc_title: 41
 usc_section: "1708"
 chapter: 17
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "41 U.S.C. § 1708"
-generated_at: "2026-03-30T08:57:22.250Z"
+generated_at: "2026-03-30T08:59:30.594Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
   - **(3)** the name, business address, and telephone number of the contracting officer;
   - **(4)** a statement that all responsible sources may submit a bid, proposal, or quotation (as appropriate) that the agency shall consider;
   - **(5)** in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of those procedures and the identity of the intended source; and
-  - **(6)** in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial items using special simplified procedures—
+  - **(6)** in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial products or commercial services using special simplified procedures—
     - **(A)** a description of the procedures to be used in awarding the contract; and
     - **(B)** a statement specifying the periods for prospective offerors and the contracting officer to take the necessary preaward and award actions.
 - **(d)** A notice of solicitation, award, or order required to be published under subsection (a) shall be published by electronic means. The notice must be electronically accessible in a form that allows convenient and universal user access through the single Government-wide point of entry designated in the Federal Acquisition Regulation.
@@ -60,6 +60,6 @@ status: "active"
       - **(ii)** in the case of an order under a basic agreement, basic ordering agreement, or similar arrangement, is earlier than 30 days after the date the notice required for an order described in subsection (a)(2)(B) is published; or
       - **(iii)** in any other case, is earlier than 30 days after the date the solicitation is issued.
   - **(2)** An executive agency shall establish a deadline for the submission of all bids or proposals in response to a solicitation for which a deadline is not provided by statute. Each deadline for the submission of offers shall afford potential offerors a reasonable opportunity to respond.
-  - **(3)** The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial items.
+  - **(3)** The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
 - **(f)** An executive agency intending to solicit offers for a contract for which a notice of solicitation is required to be posted under subsection (a)(1) shall ensure that contracting officers consider each responsive offer timely received from an offeror.
 - **(g)** An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.

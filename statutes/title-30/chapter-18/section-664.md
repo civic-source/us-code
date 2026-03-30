@@ -3,9 +3,9 @@ title: "Section 664 - Repealed. Pub. L. 109–58, title X, § 1009(a)(1)(C) , Au
 usc_title: 30
 usc_section: "664"
 chapter: 18
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "30 U.S.C. § 664"
-generated_at: "2026-03-30T08:56:26.817Z"
+generated_at: "2026-03-30T08:59:08.719Z"
 status: "repealed"
 ---
 

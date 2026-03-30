@@ -3,15 +3,15 @@ title: "Section 603 - Homeland security grant programs"
 usc_title: 6
 usc_section: "603"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "6 U.S.C. § 603"
-generated_at: "2026-03-30T08:55:03.544Z"
+generated_at: "2026-03-30T08:58:12.311Z"
 status: "active"
 ---
 
 # § 603. Homeland security grant programs
 
-- **(a)** The Secretary, through the Administrator, may award grants under sections 604 and 605 of this title to State, local, and tribal governments.
+- **(a)** The Secretary, through the Administrator, may award grants under sections 604, 605, and 609a of this title to State, local, and tribal governments.
 - **(b)** This part shall not be construed to affect any of the following Federal programs:
   - **(1)** Firefighter and other assistance programs authorized under the Federal Fire Prevention and Control Act of 1974 ( 15 U.S.C. 2201 et seq.).
   - **(2)** Grants authorized under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).

@@ -3,9 +3,9 @@ title: "Section 6 - Terminal lakes assistance"
 usc_title: 16
 usc_section: "6"
 chapter: 58
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T08:56:05.545Z"
+generated_at: "2026-03-30T08:58:41.755Z"
 status: "active"
 ---
 

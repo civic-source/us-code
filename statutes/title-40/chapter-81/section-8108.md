@@ -3,9 +3,9 @@ title: "Section 8108 - Use of public buildings for public ceremonies"
 usc_title: 40
 usc_section: "8108"
 chapter: 81
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "40 U.S.C. § 8108"
-generated_at: "2026-03-30T08:56:56.463Z"
+generated_at: "2026-03-30T08:59:27.170Z"
 status: "active"
 ---
 

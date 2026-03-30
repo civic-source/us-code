@@ -3,9 +3,9 @@ title: "Section 3689 - Approval requirements for licensing and certification tes
 usc_title: 38
 usc_section: "3689"
 chapter: 36
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "38 U.S.C. § 3689"
-generated_at: "2026-03-30T08:57:14.267Z"
+generated_at: "2026-03-30T08:59:28.807Z"
 status: "active"
 ---
 

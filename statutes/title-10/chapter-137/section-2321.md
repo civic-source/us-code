@@ -3,9 +3,9 @@ title: "Section 2321 - Validation of proprietary data restrictions"
 usc_title: 10
 usc_section: "2321"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2321"
-generated_at: "2026-03-30T08:55:17.702Z"
+generated_at: "2026-03-30T08:58:17.467Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
     - **(A)** such validation occurred after a challenge to the validated restriction under this subsection; and
     - **(B)** the validated restriction was asserted by the same contractor or subcontractor (or a licensee of such contractor or subcontractor).
 - **(e)** If a contractor or subcontractor asserting a use or release restriction submits to the contracting officer a written request, showing the need for additional time to comply with the requirement to justify the current validity of the asserted restriction, additional time to adequately permit the submission of such justification shall be provided by the contracting officer as appropriate. If a party asserting a restriction receives notices of challenges to restrictions on technical data from more than one contracting officer, and notifies each contracting officer of the existence of more than one challenge, the contracting officer initiating the first in time challenge, after consultation with the party asserting the restriction and the other contracting officers, shall formulate a schedule of responses to each of the challenges that will afford the party asserting the restriction with an equitable opportunity to respond to each such challenge.
-- **(f)** In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial items, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
+- **(f)** In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial products, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that commercial products was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that commercial products was not developed exclusively at private expense.
 - **(g)**
   - **(1)** Upon a failure by the contractor or subcontractor to submit any response under subsection (d)(3), the contracting officer shall issue a decision pertaining to the validity of the asserted restriction.
   - **(2)** After review of any justification submitted in response to the notice provided pursuant to subsection (d)(3), the contracting officer shall, within 60 days of receipt of any justification submitted, issue a decision or notify the party asserting the restriction of the time within which a decision will be issued.

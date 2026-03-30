@@ -3,9 +3,9 @@ title: "Section 6482 - Voluntary codes of conduct for United States institutions
 usc_title: 22
 usc_section: "6482"
 chapter: 73
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 6482"
-generated_at: "2026-03-30T08:56:22.278Z"
+generated_at: "2026-03-30T08:59:03.890Z"
 status: "active"
 ---
 

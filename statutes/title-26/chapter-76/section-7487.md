@@ -3,9 +3,9 @@ title: "Section 7487 - Cross references"
 usc_title: 26
 usc_section: "7487"
 chapter: 76
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 7487"
-generated_at: "2026-03-30T08:56:41.513Z"
+generated_at: "2026-03-30T08:59:14.514Z"
 status: "active"
 ---
 

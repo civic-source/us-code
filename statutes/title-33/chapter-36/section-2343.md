@@ -3,9 +3,9 @@ title: "Section 2343 - Independent peer review"
 usc_title: 33
 usc_section: "2343"
 chapter: 36
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 2343"
-generated_at: "2026-03-30T08:56:54.052Z"
+generated_at: "2026-03-30T08:59:20.813Z"
 status: "active"
 ---
 

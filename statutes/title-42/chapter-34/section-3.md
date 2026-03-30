@@ -3,9 +3,9 @@ title: "Section 3 - Grant program to ensure survival and continuing vitality of 
 usc_title: 42
 usc_section: "3"
 chapter: 34
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T08:57:32.418Z"
+generated_at: "2026-03-30T08:59:46.958Z"
 status: "active"
 ---
 
@@ -23,11 +23,11 @@ status: "active"
   - **(6)** the purchase of equipment (including audio and video recording equipment, computers, and software) required to conduct a Native American language project; and
   - **(7)**
     - **(A)** Native American language nests, which are site-based educational programs that—
-      - **(i)** provide instruction and child care through the use of a Native American language for at least 10 children under the age of 7 for an average of at least 500 hours per year per student;
+      - **(i)** provide instruction and child care through the use of a Native American language for at least 5 children under the age of 7 for an average of at least 500 hours per year per student;
       - **(ii)** provide classes in a Native American language for parents (or legal guardians) of students enrolled in a Native American language nest (including Native American language-speaking parents); and
       - **(iii)** ensure that a Native American language is the dominant medium of instruction in the Native American language nest;
     - **(B)** Native American language survival schools, which are site-based educational programs for school-age students that—
-      - **(i)** provide an average of at least 500 hours of instruction through the use of 1 or more Native American languages for at least 15 students for whom a Native American language survival school is their principal place of instruction;
+      - **(i)** provide an average of at least 500 hours of instruction through the use of 1 or more Native American languages for at least 10 students for whom a Native American language survival school is their principal place of instruction;
       - **(ii)** develop instructional courses and materials for learning Native American languages and for instruction through the use of Native American languages;
       - **(iii)** provide for teacher training;
       - **(iv)** work toward a goal of all students achieving—
@@ -62,7 +62,7 @@ status: "active"
         - **(I)** by the Federal Government pursuant to the satisfaction of a claim made under Federal law;
         - **(II)** from funds collected and administered by the Federal Government on behalf of such tribe or its constituent members; or
         - **(III)** by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ( 25 U.S.C. 450f et seq.) 1 1 See References in Text note below. or tribal budget priority system.
-  - **(2)** The Secretary may make grants made under subsection (a) on a 1-year, 2-year, or 3-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis.
+  - **(2)** The Secretary may make grants made under subsection (a) on a 1-year, 2-year, 3-year, 4-year, or 5-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year, 4-year, or 5-year basis.
 - **(f)**
   - **(1)** The Secretary shall carry out this section through the Administration for Native Americans.
   - **(2)**

@@ -1,0 +1,22 @@
+---
+title: "Section 9701 - Findings; sense of Congress in support of the interim President of Venezuela"
+usc_title: 22
+usc_section: "9701"
+chapter: 104
+current_through: "PL 116-108"
+classification: "22 U.S.C. § 9701"
+generated_at: "2026-03-30T08:59:03.927Z"
+status: "active"
+---
+
+# § 9701. Findings; sense of Congress in support of the interim President of Venezuela
+
+- **(a)** Congress makes the following findings:
+  - **(1)** Venezuela’s electoral event on May 20, 2018 was characterized by widespread fraud and did not comply with international standards for a free, fair, and transparent electoral process.
+  - **(2)** Given the fraudulent nature of Venezuela’s May 20, 2018 electoral event, Nicolás Maduro’s tenure as President of Venezuela ended on January 10, 2019 .
+  - **(3)** The National Assembly of Venezuela approved a resolution on January 15, 2019 that terminated Nicolás Maduro’s authority as the President of Venezuela.
+  - **(4)** On January 23, 2019 , the President of the National Assembly of Venezuela was sworn in as the Interim President of Venezuela.
+- **(b)** It is the sense of Congress—
+  - **(1)** to support the decisions by the United States Government, more than 50 governments around the world, the Organization of American States, the Inter-American Development Bank, and the European Parliament to recognize National Assembly President Juan Guaidó as the Interim President of Venezuela;
+  - **(2)** to encourage the Interim President of Venezuela to advance efforts to hold democratic presidential elections in the shortest possible period; and
+  - **(3)** that the Organization of American States, with support from the United States Government and partner governments, should provide diplomatic, technical, and financial support for a new presidential election in Venezuela that complies with international standards for a free, fair, and transparent electoral process.

@@ -3,9 +3,9 @@ title: "Section 710 - Career flexibility to enhance retention of members"
 usc_title: 10
 usc_section: "710"
 chapter: 40
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 710"
-generated_at: "2026-03-30T08:55:17.645Z"
+generated_at: "2026-03-30T08:58:17.410Z"
 status: "active"
 ---
 
@@ -56,5 +56,8 @@ status: "active"
     - **(A)** begins on the date of the inactivation of the member from active service under the program; and
     - **(B)** ends at such time after the return of the member to active service under the program that the member is treatable as eligible for promotion by reason of time in grade and such other requirements as the Secretary of the military department concerned shall prescribe in regulations for purposes of the program.
 - **(h)** A member participating in a program under this section shall, while participating in the program, be treated as a member of the armed forces on active duty for a period of more than 30 days for purposes of—
-  - **(1)** the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of this title; and
-  - **(2)** retirement or separation for physical disability under the provisions of chapters 55 and 61 of this title.
+  - **(1)** the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of this title;
+  - **(2)** retirement or separation for physical disability under the provisions of chapters 55 and 61 of this title;
+  - **(3)** the entitlement of the member and of the survivors of the member to all death benefits under the provisions of chapter 75 of this title;
+  - **(4)** the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 481f of title 37 ; and
+  - **(5)** the eligibility of the member for general benefits as provided in part II of title 38.

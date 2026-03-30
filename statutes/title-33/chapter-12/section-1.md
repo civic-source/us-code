@@ -3,9 +3,9 @@ title: "Section 1 - Deauthorization of inactive projects as of Public Law 115–
 usc_title: 33
 usc_section: "1"
 chapter: 12
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T08:56:54.002Z"
+generated_at: "2026-03-30T08:59:20.762Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 981 - Civil forfeiture"
 usc_title: 18
 usc_section: "981"
 chapter: 46
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 981"
-generated_at: "2026-03-30T08:56:15.012Z"
+generated_at: "2026-03-30T08:58:42.676Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
       - **(i)** the seizure is made pursuant to a lawful arrest or search; or
       - **(ii)** another exception to the Fourth Amendment warrant requirement would apply; or
     - **(C)** the property was lawfully seized by a State or local law enforcement agency and transferred to a Federal agency.
-  - **(3)** Notwithstanding the provisions of rule 41(a) of the Federal Rules of Criminal Procedure, a seizure warrant may be issued pursuant to this subsection by a judicial officer in any district in which a forfeiture action against the property may be filed under section 1355(b) of title 28 , and may be executed in any district in which the property is found, or transmitted to the central authority of any foreign state for service in accordance with any treaty or other international agreement. Any motion for the return of property seized under this section shall be filed in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
+  - **(3)** Notwithstanding the provisions of rule 41(a) 4 of the Federal Rules of Criminal Procedure, a seizure warrant may be issued pursuant to this subsection by a judicial officer in any district in which a forfeiture action against the property may be filed under section 1355(b) of title 28 , and may be executed in any district in which the property is found, or transmitted to the central authority of any foreign state for service in accordance with any treaty or other international agreement. Any motion for the return of property seized under this section shall be filed in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
   - **(4)**
     - **(A)** If any person is arrested or charged in a foreign country in connection with an offense that would give rise to the forfeiture of property in the United States under this section or under the Controlled Substances Act, the Attorney General may apply to any Federal judge or magistrate judge in the district in which the property is located for an ex parte order restraining the property subject to forfeiture for not more than 30 days, except that the time may be extended for good cause shown at a hearing conducted in the manner provided in rule 43(e) of the Federal Rules of Civil Procedure.
     - **(B)** The application for the restraining order shall set forth the nature and circumstances of the foreign charges and the basis for belief that the person arrested or charged has property in the United States that would be subject to forfeiture, and shall contain a statement that the restraining order is needed to preserve the availability of property for such time as is necessary to receive evidence from the foreign country or elsewhere in support of probable cause for the seizure of the property under this subsection.

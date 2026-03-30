@@ -3,9 +3,9 @@ title: "Section 2216 - Defense Modernization Account"
 usc_title: 10
 usc_section: "2216"
 chapter: 131
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2216"
-generated_at: "2026-03-30T08:55:17.695Z"
+generated_at: "2026-03-30T08:58:17.459Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** There is established in the Treasury an account to be known as the “Defense Modernization Account”.
 - **(b)** The Defense Modernization Account shall consist of the following:
-  - **(1)** Amounts appropriated to the Defense Modernization Account for the costs of projects described in subsection (d)(1), and amounts reimbursed to the Defense Modernization Account under subsection (c)(1)(B)(iii) out of savings derived from such projects.
+  - **(1)** Amounts appropriated to the Defense Modernization Account for the costs of projects described in subsection (d)(1), and amounts reimbursed to the Defense Modernization Account under subsection (c)(1)(B)(ii) out of savings derived from such projects.
   - **(2)** Amounts transferred to the Defense Modernization Account under subsection (c).
 - **(c)**
   - **(1)**

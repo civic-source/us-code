@@ -3,9 +3,9 @@ title: "Section 11 - Review of mortgagee performance and authority to terminate"
 usc_title: 12
 usc_section: "11"
 chapter: 13
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "12 U.S.C. § 11"
-generated_at: "2026-03-30T08:55:36.760Z"
+generated_at: "2026-03-30T08:58:34.827Z"
 status: "active"
 ---
 

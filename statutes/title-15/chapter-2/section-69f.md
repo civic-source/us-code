@@ -3,9 +3,9 @@ title: "Section 69f - Enforcement of subchapter"
 usc_title: 15
 usc_section: "69f"
 chapter: 2
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 69f"
-generated_at: "2026-03-30T08:55:57.919Z"
+generated_at: "2026-03-30T08:58:32.962Z"
 status: "active"
 ---
 

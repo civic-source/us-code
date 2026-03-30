@@ -3,9 +3,9 @@ title: "Section 8926 - Expanded nonmilitary assistance for Ukraine"
 usc_title: 22
 usc_section: "8926"
 chapter: 96
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 8926"
-generated_at: "2026-03-30T08:56:22.307Z"
+generated_at: "2026-03-30T08:59:03.917Z"
 status: "active"
 ---
 
@@ -52,9 +52,9 @@ status: "active"
       - **(v)** improve energy efficiency.
     - **(C)** The Secretary of State, the Administrator of the United States Agency for International Development, and the Secretary of Energy should, during fiscal years 2015 through 2018, work with other donors, including multilateral agencies and nongovernmental organizations, to prioritize, to the extent practicable and as appropriate, the provision of assistance from such donors to help Ukraine to improve energy efficiency, increase energy supplies produced in Ukraine, and reduce reliance on energy imports from the Russian Federation, including natural gas.
     - **(D)** There are authorized to be appropriated $50,000,000 in the aggregate for fiscal years 2016 through 2018 to carry out activities under this paragraph.
-  - **(3)** The Overseas Private Investment Corporation shall—
+  - **(3)** The United States International Development Finance Corporation shall—
     - **(A)** prioritize, to the extent practicable, support for investments to help increase energy efficiency, develop domestic oil and natural gas reserves, improve and repair electricity infrastructure, and develop renewable and other sources of energy in Ukraine; and
-    - **(B)** implement procedures for expedited review and, as appropriate, approval, of applications by eligible investors (as defined in section 2198 of this title ) for loans, loan guarantees, and insurance for such investments.
+    - **(B)** implement procedures for expedited review and, as appropriate, approval, of applications for loans, loan guarantees, and insurance for such investments.
   - **(4)** The President shall, to the extent practicable and as appropriate, direct the United States Executive Directors of the World Bank Group and the European Bank for Reconstruction and Development to use the voice, vote, and influence of the United States to encourage the World Bank Group and the European Bank for Reconstruction and Development and other international financial institutions—
     - **(A)** to invest in, and increase their efforts to promote investment in, projects to improve energy efficiency, improve and repair electricity infrastructure, develop domestic oil and natural gas reserves, and develop renewable and other sources of energy in Ukraine; and
     - **(B)** to stimulate private investment in such projects.

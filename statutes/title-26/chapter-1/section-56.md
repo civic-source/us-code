@@ -3,9 +3,9 @@ title: "Section 56 - Adjustments in computing alternative minimum taxable income
 usc_title: 26
 usc_section: "56"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 56"
-generated_at: "2026-03-30T08:56:41.315Z"
+generated_at: "2026-03-30T08:59:14.302Z"
 status: "active"
 ---
 
@@ -38,15 +38,14 @@ status: "active"
     - **(A)** No deduction shall be allowed—
       - **(i)** for any miscellaneous itemized deduction (as defined in section 67(b)), or
       - **(ii)** for any taxes described in paragraph (1), (2), or (3) of section 164(a) or clause (ii) of section 164(b)(5)(A).
-    - **(B)** In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied without regard to subsection (f) of such section. This subparagraph shall not apply to taxable years beginning after December 31, 2016 , and ending before January 1, 2019 2 2 So in original. Probably should be followed by a period.
-    - **(C)** In determining the amount allowable as a deduction for interest, subsections (d) and (h) of section 163 shall apply, except that—
+    - **(B)** In determining the amount allowable as a deduction for interest, subsections (d) and (h) of section 163 shall apply, except that—
       - **(i)** in lieu of the exception under section 163(h)(2)(D), the term “personal interest” shall not include any qualified housing interest (as defined in subsection (e)),
       - **(ii)** interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section 57(a)(5)(B)), and any deduction referred to in section 57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section 163(d),
       - **(iii)** in lieu of the exception under section 163(d)(3)(B)(i), the term “investment interest” shall not include any qualified housing interest (as defined in subsection (e)), and
       - **(iv)** the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
-    - **(D)** No recovery of any tax to which subparagraph (A)(ii) applied shall be included in gross income for purposes of determining alternative minimum taxable income.
-    - **(E)** The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed.
-    - **(F)** Section 68 shall not apply.
+    - **(C)** No recovery of any tax to which subparagraph (A)(ii) applied shall be included in gross income for purposes of determining alternative minimum taxable income.
+    - **(D)** The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed.
+    - **(E)** Section 68 shall not apply.
   - **(2)**
     - **(A)** The amount allowable as a deduction under section 173 or 174(a) in computing the regular tax for amounts paid or incurred after December 31, 1986 , shall be capitalized and—
       - **(i)** in the case of circulation expenditures described in section 173, shall be amortized ratably over the 3-year period beginning with the taxable year in which the expenditures were made, or

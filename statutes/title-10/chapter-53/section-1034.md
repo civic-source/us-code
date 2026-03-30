@@ -3,9 +3,9 @@ title: "Section 1034 - Protected communications; prohibition of retaliatory pers
 usc_title: 10
 usc_section: "1034"
 chapter: 53
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1034"
-generated_at: "2026-03-30T08:55:17.659Z"
+generated_at: "2026-03-30T08:58:17.423Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(A)** a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted;
     - **(B)** a communication that is described in subsection (c)(2) and that is made (or prepared to be made) to—
       - **(i)** a Member of Congress;
-      - **(ii)** an Inspector General (as defined in subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978;
+      - **(ii)** an Inspector General (as defined in subsection (j)) or any other Inspector General appointed under the Inspector General Act of 1978;
       - **(iii)** a member of a Department of Defense audit, inspection, investigation, or law enforcement organization;
       - **(iv)** any person or organization in the chain of command;
       - **(v)** a court-martial proceeding; or

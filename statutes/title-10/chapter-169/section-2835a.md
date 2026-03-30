@@ -3,9 +3,9 @@ title: "Section 2835a - Use of military family housing constructed under build a
 usc_title: 10
 usc_section: "2835a"
 chapter: 169
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2835a"
-generated_at: "2026-03-30T08:55:17.728Z"
+generated_at: "2026-03-30T08:58:17.494Z"
 status: "active"
 ---
 
@@ -17,6 +17,5 @@ status: "active"
 - **(b)**
   - **(1)** If the Secretary concerned determines that military family housing constructed and leased under section 2835 of this title is excess to the long-term needs of the family housing program of the Secretary, the Secretary may convert the lease contract entered into under subsection (a) of such section into a long-term lease of military unaccompanied housing.
   - **(2)** The term of the lease contract for military unaccompanied housing converted from military family housing under paragraph (1) may not exceed the remaining term of the lease contract for the family housing so converted.
-- **(c)**
-  - **(1)** 1 1 So in original. There is no par. (2). See 2017 Amendment note below. The Secretary concerned may not convert military family housing to military unaccompanied housing under subsection (b) until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress a notice of the intent to undertake the conversion.
+- **(c)** The Secretary concerned may not convert military family housing to military unaccompanied housing under subsection (b) until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress a notice of the intent to undertake the conversion.
 - **(d)** This section also shall apply to housing initially acquired or constructed under the former section 2828(g) of this title (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984 ( Public Law 98–115 ; 97 Stat 782).

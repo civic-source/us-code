@@ -3,17 +3,17 @@ title: "Section 9224 - Procurement sanctions"
 usc_title: 22
 usc_section: "9224"
 chapter: 99
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 9224"
-generated_at: "2026-03-30T08:56:22.309Z"
+generated_at: "2026-03-30T08:59:03.920Z"
 status: "active"
 ---
 
 # § 9224. Procurement sanctions
 
-- **(a)** Except as provided in this section, the head of an executive agency may not procure, or enter into any contract for the procurement of, any goods or services from any person designated under section 9214(a) of this title .
+- **(a)** Except as provided in this section, the head of an executive agency may not procure, or enter into any contract for the procurement of, any goods or services from any person designated under section 9214(a) or (g) of this title.
 - **(b)**
-  - **(1)** The Federal Acquisition Regulation issued pursuant to section 1303(a)(1) of title 41 shall be revised to require that each person that is a prospective contractor submit a certification that such person does not engage in any activity described in section 9214(a) of this title .
+  - **(1)** The Federal Acquisition Regulation issued pursuant to section 1303(a)(1) of title 41 shall be revised to require that each person that is a prospective contractor submit a certification that such person does not engage in any activity described in section 9214(a) or (g) of this title.
   - **(2)** The revision required under paragraph (1) shall apply with respect to contracts for which solicitations are issued on or after the date that is 90 days after February 18, 2016 .
 - **(c)**
   - **(1)** The Administrator of General Services shall include, on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation, each person that is debarred, suspended, or proposed for debarment or suspension by the head of an executive agency on the basis of a determination of a false certification under subsection (b).

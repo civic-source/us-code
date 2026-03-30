@@ -3,9 +3,9 @@ title: "Section 332 - Omitted"
 usc_title: 43
 usc_section: "332"
 chapter: 9
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 332"
-generated_at: "2026-03-30T08:57:23.066Z"
+generated_at: "2026-03-30T08:59:31.437Z"
 status: "omitted"
 ---
 

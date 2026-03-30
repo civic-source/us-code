@@ -3,15 +3,15 @@ title: "Section 2275 - Reports on integration of acquisition and capability deli
 usc_title: 10
 usc_section: "2275"
 chapter: 135
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2275"
-generated_at: "2026-03-30T08:55:17.697Z"
+generated_at: "2026-03-30T08:58:17.462Z"
 status: "active"
 ---
 
 # § 2275. Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs
 
-- **(a)** The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees a report on each major satellite acquisition program in accordance with subsection (d) that assesses—
+- **(a)** The Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report on each major satellite acquisition program in accordance with subsection (d) that assesses—
   - **(1)** the integration of the schedules for the acquisition and the delivery of the capabilities of the segments for the program; and
   - **(2)** funding for the program.
 - **(b)** Each report required by subsection (a) with respect to a major satellite acquisition program shall include the following:

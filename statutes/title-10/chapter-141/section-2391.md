@@ -3,9 +3,9 @@ title: "Section 2391 - Military base reuse studies and community planning assist
 usc_title: 10
 usc_section: "2391"
 chapter: 141
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2391"
-generated_at: "2026-03-30T08:55:17.709Z"
+generated_at: "2026-03-30T08:58:17.474Z"
 status: "active"
 ---
 
@@ -47,6 +47,15 @@ status: "active"
   - **(1)** The terms “military installation” and “realignment” have the meanings given those terms in section 2687 of this title . For purposes of subsection (b)(1)(D), the term “military installation” includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
   - **(2)** The term “defense facility” means any private facility producing goods or services pursuant to a defense contract.
   - **(3)** The terms “community adjustment” and “economic diversification” include the development of feasibility studies and business plans for market diversification within a community adversely affected by an action described in clause (A), (B), (C), or (E) of subsection (b)(1) by adversely affected businesses and labor organizations located in the community.
-  - **(4)** The term “community infrastructure” means any transportation project; school, hospital, police, fire, emergency response, or other community support facility; or water, waste-water, telecommunications, electric, gas, or other utility infrastructure project that is located off of a military installation and owned by a State or local government.
+  - **(4)**
+    - **(A)** The term “community infrastructure” means a project or facility described in subparagraph (B) that—
+      - **(i)** is located off of a military installation; and
+      - **(ii)** is—
+        - **(I)** owned by a State or local government; or
+        - **(II)** a not-for-profit, member-owned utility service.
+    - **(B)** A project or facility described in this subparagraph is any of the following:
+      - **(i)** Any transportation project.
+      - **(ii)** A school, hospital, police, fire, emergency response, or other community support facility.
+      - **(iii)** A water, waste-water, telecommunications, electric, gas, or other utility infrastructure project.
   - **(5)** The term “rural area” means a city, town, or unincorporated area that has a population of not more than 50,000 inhabitants.
 - **(f)** The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.

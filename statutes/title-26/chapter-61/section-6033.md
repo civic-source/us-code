@@ -3,9 +3,9 @@ title: "Section 6033 - Returns by exempt organizations"
 usc_title: 26
 usc_section: "6033"
 chapter: 61
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 6033"
-generated_at: "2026-03-30T08:56:41.477Z"
+generated_at: "2026-03-30T08:59:14.477Z"
 status: "active"
 ---
 
@@ -116,7 +116,11 @@ status: "active"
     - **(F)** evidence of the continuing basis for the organization’s exemption from the filing requirements under subsection (a)(1), and
   - **(2)** upon the termination of the existence of the organization, shall furnish notice of such termination.
 - **(j)**
-  - **(1)** If an organization described in subsection (a)(1) or (i) fails to file an annual return or notice required under either subsection for 3 consecutive years, such organization’s status as an organization exempt from tax under section 501(a) shall be considered revoked on and after the date set by the Secretary for the filing of the third annual return or notice. The Secretary shall publish and maintain a list of any organization the status of which is so revoked.
+  - **(1)**
+    - **(A)** If an organization described in subsection (a)(1) or (i) fails to file the annual return or notice required under either subsection for 2 consecutive years, the Secretary shall notify the organization—
+      - **(i)** that the Internal Revenue Service has no record of such a return or notice from such organization for 2 consecutive years, and
+      - **(ii)** about the revocation that will occur under subparagraph (B) if the organization fails to file such a return or notice by the due date for the next such return or notice required to be filed.
+    - **(B)** If an organization described in subsection (a)(1) or (i) fails to file an annual return or notice required under either subsection for 3 consecutive years, such organization’s status as an organization exempt from tax under section 501(a) shall be considered revoked on and after the date set by the Secretary for the filing of the third annual return or notice. The Secretary shall publish and maintain a list of any organization the status of which is so revoked.
   - **(2)** Any organization the tax-exempt status of which is revoked under paragraph (1) must apply in order to obtain reinstatement of such status regardless of whether such organization was originally required to make such an application.
   - **(3)** If, upon application for reinstatement of status as an organization exempt from tax under section 501(a), an organization described in paragraph (1) can show to the satisfaction of the Secretary evidence of reasonable cause for the failure described in such paragraph, the organization’s exempt status may, in the discretion of the Secretary, be reinstated effective from the date of the revocation under such paragraph.
 - **(k)** Every organization described in section 4966(d)(1) shall, on the return required under subsection (a) for the taxable year—

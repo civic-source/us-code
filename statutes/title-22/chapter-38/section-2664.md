@@ -3,9 +3,9 @@ title: "Section 2664 - Distribution of duties of officers, clerks, and employees
 usc_title: 22
 usc_section: "2664"
 chapter: 38
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 2664"
-generated_at: "2026-03-30T08:56:22.232Z"
+generated_at: "2026-03-30T08:59:03.842Z"
 status: "active"
 ---
 

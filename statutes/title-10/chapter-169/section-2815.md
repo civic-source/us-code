@@ -1,13 +1,26 @@
 ---
-title: "Section 2815 - Repealed. Pub. L. 112–81, div. A, title X, § 1061(23)(A) , Dec. 31, 2011 , 125 Stat. 1584 ]"
+title: "Section 2815 - Military installation resilience projects"
 usc_title: 10
 usc_section: "2815"
 chapter: 169
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2815"
-generated_at: "2026-03-30T08:55:17.727Z"
-status: "repealed"
+generated_at: "2026-03-30T08:58:17.494Z"
+status: "active"
 ---
 
-# [§ 2815. Repealed. Pub. L. 112–81, div. A, title X, § 1061(23)(A) , Dec. 31, 2011 , 125 Stat. 1584 ]
+# § 2815. Military installation resilience projects
 
+- **(a)** The Secretary of Defense shall carry out military construction projects for military installation resilience, in accordance with section 2802 of this title .
+- **(b)**
+  - **(1)** When a decision is made to carry out a project under this section, the Secretary of Defense shall notify the congressional defense committees of that decision.
+  - **(2)** The Secretary of Defense shall include in each notification submitted under paragraph (1) the rationale for how the project would—
+    - **(A)** enhance military installation resilience;
+    - **(B)** enhance mission assurance;
+    - **(C)** support mission critical functions; and
+    - **(D)** address known vulnerabilities.
+- **(c)** A project may be carried out under this section only after the end of the 14-day period beginning on the date that notification with respect to that project under subsection (b) is received by the congressional defense committees in an electronic medium pursuant to section 480 of this title .
+- **(d)** Not later than 90 days after the end of each fiscal year until December 31, 2025 , the Secretary of Defense shall submit to the congressional defense committees a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
+  - **(1)** The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
+  - **(2)** The information provided under subsection (b)(2).
+  - **(3)** Such other information as the Secretary considers appropriate.

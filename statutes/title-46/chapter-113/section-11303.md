@@ -3,9 +3,9 @@ title: "Section 11303 - Penalties"
 usc_title: 46
 usc_section: "11303"
 chapter: 113
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "46 U.S.C. § 11303"
-generated_at: "2026-03-30T08:57:51.914Z"
+generated_at: "2026-03-30T08:59:50.939Z"
 status: "active"
 ---
 

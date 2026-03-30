@@ -1,25 +1,26 @@
 ---
-title: "Section 2756 - Unfunded priorities of the National Nuclear Security Administration"
+title: "Section 2756 - Unfunded priorities of the Administration"
 usc_title: 50
 usc_section: "2756"
 chapter: 42
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2756"
-generated_at: "2026-03-30T08:57:54.492Z"
+generated_at: "2026-03-30T08:59:52.833Z"
 status: "active"
 ---
 
-# § 2756. Unfunded priorities of the National Nuclear Security Administration
+# § 2756. Unfunded priorities of the Administration
 
-- **(a)** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31 , the Administrator shall submit to the Secretary of Energy and the congressional defense committees a report on the unfunded priorities of the Administration.
+- **(a)** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31 , the Administrator shall submit to the Secretary of Energy and the congressional defense committees either—
+  - **(1)** a report on the unfunded priorities of the Administration; or
+  - **(2)** if the Administrator determines that there are no unfunded priorities to include in such a report, a certification and explanation by the Administrator, without delegation, of the determination.
 - **(b)**
-  - **(1)** Each report required by subsection (a) shall specify, for each unfunded priority covered by the report, the following:
+  - **(1)** Each report report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
     - **(A)** A summary description of that priority, including the objectives to be achieved if that priority is funded (whether in whole or in part).
     - **(B)** The additional amount of funds recommended in connection with the objectives under subparagraph (A).
     - **(C)** Account information with respect to that priority.
-  - **(2)** Each report required by subsection (a) shall present the unfunded priorities covered by the report in order of urgency of priority.
-- **(c)** If the Administrator fails to submit to the congressional defense committees a report required by subsection (a) for any of fiscal years 2020 through 2024 that includes the matters specified in subsection (b)(1) for at least one unfunded priority by the deadline specified in subsection (a), not more than 65 percent of the funds authorized to be appropriated or otherwise made available for the fiscal year in which such failure occurs for travel and transportation of persons under the Federal salaries and expenses account of the Administration may be obligated or expended until the date on which the Administrator submits such report.
-- **(d)** In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—
+  - **(2)** Each report under subsection (a)(1) shall present the unfunded priorities covered by the report in order of urgency of priority.
+- **(c)** In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—
   - **(1)** is not funded in the budget of the President for that fiscal year as submitted to Congress pursuant to section 1105(a) of title 31 ;
   - **(2)** is necessary to fulfill a requirement associated with the mission of the Administration; and
   - **(3)** would have been recommended for funding through the budget referred to in paragraph (1) by the Administrator—

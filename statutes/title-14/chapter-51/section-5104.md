@@ -3,9 +3,9 @@ title: "Section 5104 - Manpower requirements plan"
 usc_title: 14
 usc_section: "5104"
 chapter: 51
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "14 U.S.C. § 5104"
-generated_at: "2026-03-30T08:55:30.676Z"
+generated_at: "2026-03-30T08:58:29.404Z"
 status: "active"
 ---
 

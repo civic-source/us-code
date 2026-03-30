@@ -3,9 +3,9 @@ title: "Section 1343 - Reportable events"
 usc_title: 29
 usc_section: "1343"
 chapter: 18
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "29 U.S.C. § 1343"
-generated_at: "2026-03-30T08:56:28.265Z"
+generated_at: "2026-03-30T08:59:17.649Z"
 status: "active"
 ---
 

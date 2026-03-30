@@ -3,9 +3,9 @@ title: "Section 2432 - Indian education programs"
 usc_title: 25
 usc_section: "2432"
 chapter: 26
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 2432"
-generated_at: "2026-03-30T08:56:18.387Z"
+generated_at: "2026-03-30T08:59:00.924Z"
 status: "active"
 ---
 

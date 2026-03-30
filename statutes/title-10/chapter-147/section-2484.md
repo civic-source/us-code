@@ -3,9 +3,9 @@ title: "Section 2484 - Commissary stores: merchandise that may be sold; uniform 
 usc_title: 10
 usc_section: "2484"
 chapter: 147
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2484"
-generated_at: "2026-03-30T08:55:17.714Z"
+generated_at: "2026-03-30T08:58:17.480Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(3)** The sales price of merchandise and services sold in, at, or by commissary stores shall be adjusted to cover the following:
     - **(A)** The cost of first destination commercial transportation of the merchandise in the United States to the place of sale.
     - **(B)** The actual or estimated cost of shrinkage, spoilage, and pilferage of merchandise under the control of commissary stores.
-- **(f)** The Secretary of Defense may use the exception provided in section 2304(c)(5) of this title for the procurement of any commercial item (including brand-name and generic items) for resale in, at, or by commissary stores.
+- **(f)** The Secretary of Defense may use the exception provided in section 2304(c)(5) of this title for the procurement of any commercial product (including brand-name and generic items) for resale in, at, or by commissary stores.
 - **(g)**
   - **(1)** Notwithstanding the general requirement that merchandise sold in, at, or by commissary stores be commissary store inventory, the Secretary of Defense may authorize the sale of tobacco products as noncommissary store inventory. Except as provided in paragraph (2), subsections (d) and (e) shall not apply to the pricing of such merchandise items.
   - **(2)** When tobacco products are authorized for sale in a commissary store as noncommissary store inventory, any revenue above the cost of procuring the tobacco products shall be allocated as if the revenue were a uniform sales price surcharge described in subsection (d).

@@ -3,13 +3,13 @@ title: "Section 2194a - Contract authority of Corporation; specific authorizatio
 usc_title: 22
 usc_section: "2194a"
 chapter: 32
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 2194a"
-generated_at: "2026-03-30T08:56:22.209Z"
+generated_at: "2026-03-30T08:59:03.820Z"
 status: "active"
 ---
 
 # § 2194a. Contract authority of Corporation; specific authorization in appropriation Acts required
 
-The authority of the Overseas Private Investment Corporation to enter into contracts under section 2194(a) of this title shall be effective for any fiscal year beginning after September 30, 1981 , only to such extent or in such amounts as are provided in appropriation Acts.
+The authority of the Overseas Private Investment Corporation to enter into contracts under section 2194(a) 1 1 See References in Text note below. of this title shall be effective for any fiscal year beginning after September 30, 1981 , only to such extent or in such amounts as are provided in appropriation Acts.
 

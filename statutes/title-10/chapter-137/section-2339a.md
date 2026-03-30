@@ -3,9 +3,9 @@ title: "Section 2339a - Requirements for information relating to supply chain ri
 usc_title: 10
 usc_section: "2339a"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2339a"
-generated_at: "2026-03-30T08:55:17.704Z"
+generated_at: "2026-03-30T08:58:17.469Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** carry out a covered procurement action; and
   - **(2)** limit, notwithstanding any other provision of law, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
 - **(b)** The head of a covered agency may exercise the authority provided in subsection (a) only after—
-  - **(1)** obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence, that there is a significant supply chain risk to a covered system;
+  - **(1)** obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence, 1 1 See Change of Name note below. that there is a significant supply chain risk to a covered system;
   - **(2)** making a determination in writing, in unclassified or classified form, with the concurrence of the Under Secretary of Defense for Acquisition and Sustainment, that—
     - **(A)** use of the authority in subsection (a)(1) is necessary to protect national security by reducing supply chain risk;
     - **(B)** less intrusive measures are not reasonably available to reduce such supply chain risk; and
@@ -23,7 +23,7 @@ status: "active"
   - **(3)** providing a classified or unclassified notice of the determination made under paragraph (2) to the appropriate congressional committees, which notice shall include—
     - **(A)** the information required by section 2304(f)(3) of this title ;
     - **(B)** the joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense as specified in paragraph (1);
-    - **(C)** a summary of the risk assessment by the Under Secretary of Defense for Intelligence that serves as the basis for the joint recommendation specified in paragraph (1); and
+    - **(C)** a summary of the risk assessment by the Under Secretary of Defense for Intelligence 1 that serves as the basis for the joint recommendation specified in paragraph (1); and
     - **(D)** a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
 - **(c)** The head of a covered agency may not delegate the authority provided in subsection (a) or the responsibility to make a determination under subsection (b) to an official below the level of the service acquisition executive for the agency concerned.
 - **(d)** If the head of a covered agency has exercised the authority provided in subsection (a)(2) to limit disclosure of information—
@@ -47,7 +47,7 @@ status: "active"
     - **(B)** the consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in section 2304c(d)(3) of this title , where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk; or
     - **(C)** any contract action involving a contract for a covered system or a covered item of supply where such contract includes a clause establishing requirements relating to supply chain risk.
   - **(4)** The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system.
-  - **(5)** The term “covered system” means a national security system, as that term is defined in section 3542(b) 1 1 So in original. Probably should be “section 3552(b)”. of title 44.
+  - **(5)** The term “covered system” means a national security system, as that term is defined in section 3552(b)(6) of title 44 .
   - **(6)** The term “covered item of supply” means an item of information technology (as that term is defined in section 11101 of title 40 ) that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system.
   - **(7)** The term “appropriate congressional committees” means—
     - **(A)** in the case of a covered system included in the National Intelligence Program or the Military Intelligence Program, the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, and the congressional defense committees; and

@@ -3,9 +3,9 @@ title: "Section 263A - Capitalization and inclusion in inventory costs of certai
 usc_title: 26
 usc_section: "263A"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 263A"
-generated_at: "2026-03-30T08:56:41.345Z"
+generated_at: "2026-03-30T08:59:14.334Z"
 status: "active"
 ---
 
@@ -96,7 +96,7 @@ status: "active"
       - **(i)** beer (as defined in section 5052(a)),
       - **(ii)** wine (as described in section 5041(a)), or
       - **(iii)** distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
-    - **(B)** This paragraph shall not apply to interest costs paid or accrued after December 31, 2019 .
+    - **(B)** This paragraph shall not apply to interest costs paid or accrued after December 31, 2020 .
   - **(5)** For purposes of this subsection—
     - **(A)** Property has a long useful life if such property is—
       - **(i)** real property, or

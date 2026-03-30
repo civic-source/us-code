@@ -3,9 +3,9 @@ title: "Section 30301 - Short title"
 usc_title: 46
 usc_section: "30301"
 chapter: 303
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "46 U.S.C. § 30301"
-generated_at: "2026-03-30T08:57:51.919Z"
+generated_at: "2026-03-30T08:59:50.943Z"
 status: "active"
 ---
 

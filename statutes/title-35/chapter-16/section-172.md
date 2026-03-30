@@ -3,9 +3,9 @@ title: "Section 172 - Right of priority"
 usc_title: 35
 usc_section: "172"
 chapter: 16
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "35 U.S.C. § 172"
-generated_at: "2026-03-30T08:56:43.856Z"
+generated_at: "2026-03-30T08:59:19.497Z"
 status: "active"
 ---
 

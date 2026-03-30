@@ -3,9 +3,9 @@ title: "Section 5084 - Administration and coordination"
 usc_title: 42
 usc_section: "5084"
 chapter: 66
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 5084"
-generated_at: "2026-03-30T08:57:32.459Z"
+generated_at: "2026-03-30T08:59:47.002Z"
 status: "active"
 ---
 

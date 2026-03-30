@@ -3,9 +3,9 @@ title: "Section 130i - Protection of certain facilities and assets from unmanned
 usc_title: 10
 usc_section: "130i"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 130i"
-generated_at: "2026-03-30T08:55:17.621Z"
+generated_at: "2026-03-30T08:58:17.388Z"
 status: "active"
 ---
 
@@ -49,8 +49,8 @@ status: "active"
   - **(1)** vest in the Secretary of Defense any authority of the Secretary of Transportation or the Administrator of the Federal Aviation Administration under title 49; and
   - **(2)** vest in the Secretary of Transportation or the Administrator of the Federal Aviation Administration any authority of the Secretary of Defense under this title.
 - **(i)**
-  - **(1)** Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3) 1 1 So in original. Probably should be “subsection (j)(3)(C)”. shall terminate on December 31, 2020 .
-  - **(2)** The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2020 , the President certifies to Congress that such extension is in the national security interests of the United States.
+  - **(1)** Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C)shall terminate on December 31, 2023 .
+  - **(2)** The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2023 , the President certifies to Congress that such extension is in the national security interests of the United States.
 - **(j)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional defense committees;
@@ -72,4 +72,4 @@ status: "active"
       - **(ix)** a Major Range and Test Facility Base (as defined in section 196(i) of this title ).
   - **(4)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(5)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in section 2510 of title 18 .
-  - **(6)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 ( Public Law 112–95 ; 49 U.S.C. 40101 2 2 See References in Text note below. note).
+  - **(6)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49 1 1 So in original. Probably should be followed by a period.

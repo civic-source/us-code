@@ -3,9 +3,9 @@ title: "Section 3731 - Appraisals"
 usc_title: 38
 usc_section: "3731"
 chapter: 37
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "38 U.S.C. § 3731"
-generated_at: "2026-03-30T08:57:14.271Z"
+generated_at: "2026-03-30T08:59:28.811Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
 - **(b)**
   - **(1)** The Secretary shall select appraisers from a list required by subsection (a)(3) of this section on a rotating basis to make appraisals for the purposes of this chapter.
   - **(2)** If uniform qualifications become applicable for appraisers who perform appraisals for or in connection with the Federal Government, the qualifications required by subsection (a)(1) of this section may be more stringent than such uniform qualifications, but the Secretary may use no written test in determining the qualifications of appraisers other than the test prescribed to implement such uniform qualifications.
-  - **(3)** 1 1 See Applicability of Amendment note below. The Secretary shall permit an appraiser on a list developed and maintained under subsection (a)(3) to make an appraisal for the purposes of this chapter based solely on information gathered by a person with whom the appraiser has entered into an agreement for such services.
+  - **(3)** The Secretary shall permit an appraiser on a list developed and maintained under subsection (a)(3) to make an appraisal for the purposes of this chapter based solely on information gathered by a person with whom the appraiser has entered into an agreement for such services.
 - **(c)** Except as provided in subsection (f) of this section, the appraiser shall forward an appraisal report to the Secretary for review. Upon receipt of such report, the Secretary shall determine the reasonable value of the property, construction, repairs, or alterations for purposes of this chapter, and notify the veteran of such determination. Upon request, the Secretary shall furnish a copy of the appraisal made of property for the purposes of this chapter to the lender proposing to make the loan which is to be secured by such property and is to be guaranteed under this chapter.
 - **(d)** If a lender (other than a lender authorized under subsection (f) of this section to determine reasonable value)—
   - **(1)** has proposed to make a loan to be guaranteed under this chapter,

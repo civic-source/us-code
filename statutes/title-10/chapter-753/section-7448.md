@@ -3,9 +3,9 @@ title: "Section 7448 - Cadets: agreement to serve as officer"
 usc_title: 10
 usc_section: "7448"
 chapter: 753
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 7448"
-generated_at: "2026-03-30T08:55:17.735Z"
+generated_at: "2026-03-30T08:58:17.504Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(B)** will remain in that reserve component until completion of the commissioned service obligation of the cadet.
   - **(4)** That if an appointment described in paragraph (2) or (3) is tendered and the cadet participates in a program under section 2121 of this title , the cadet will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
   - **(5)** That the cadet—
-    - **(A)** will not seek release from the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
+    - **(A)** will not seek release from the cadet’s commissioned service obligation or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
     - **(B)** understands that the appointment alternative described in paragraph (3) will not be used to allow the cadet to obtain such employment until at least the end of that two-year period.
 - **(b)**
   - **(1)** The Secretary of the Army may transfer to the Army Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title .

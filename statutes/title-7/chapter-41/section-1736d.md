@@ -3,9 +3,9 @@ title: "Section 1736d - Repealed. Pub. L. 104–127, title II , §§ 218, 219, A
 usc_title: 7
 usc_section: "1736d"
 chapter: 41
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "7 U.S.C. § 1736d"
-generated_at: "2026-03-30T08:55:28.505Z"
+generated_at: "2026-03-30T08:58:19.818Z"
 status: "repealed"
 ---
 

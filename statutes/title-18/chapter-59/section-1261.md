@@ -3,9 +3,9 @@ title: "Section 1261 - Enforcement, regulations, and scope"
 usc_title: 18
 usc_section: "1261"
 chapter: 59
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 1261"
-generated_at: "2026-03-30T08:56:15.018Z"
+generated_at: "2026-03-30T08:58:42.681Z"
 status: "active"
 ---
 

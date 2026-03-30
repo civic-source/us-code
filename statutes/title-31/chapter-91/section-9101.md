@@ -3,9 +3,9 @@ title: "Section 9101 - Definitions"
 usc_title: 31
 usc_section: "9101"
 chapter: 91
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "31 U.S.C. § 9101"
-generated_at: "2026-03-30T08:56:52.864Z"
+generated_at: "2026-03-30T08:59:22.414Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ In this chapter—
     - **(E)** Federal Prison Industries, Incorporated.
     - **(F)** the Corporation for National and Community Service.
     - **(G)** the Government National Mortgage Association.
-    - **(H)** the Overseas Private Investment Corporation.
+    - **(H)** the United States International Development Finance Corporation.
     - **(I)** the Pennsylvania Avenue Development Corporation.
     - **(J)** the Pension Benefit Guaranty Corporation.
     - **(K)** the Saint Lawrence Seaway Development Corporation.

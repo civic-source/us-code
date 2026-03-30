@@ -3,9 +3,9 @@ title: "Section 44718 - Structures interfering with air commerce or national sec
 usc_title: 49
 usc_section: "44718"
 chapter: 447
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "49 U.S.C. § 44718"
-generated_at: "2026-03-30T08:57:40.869Z"
+generated_at: "2026-03-30T08:59:54.818Z"
 status: "active"
 ---
 
@@ -43,4 +43,4 @@ status: "active"
 - **(g)** In the case of a proposed structure to be located within a geographic area identified under section 183a(d)(2)(B) of title 10 , the Secretary of Transportation may not issue a determination pursuant to this section until the Secretary of Defense issues a finding under section 183a(e) of title 10 , the Secretary of Defense advises the Secretary of Transportation that no finding under section 183a(e) of title 10 will be forthcoming, or 180 days have lapsed since the project was filed with the Secretary of Transportation pursuant to this section, whichever occurs first.
 - **(h)** In this section, the following definitions apply:
   - **(1)** The term “adverse impact on military operations and readiness” has the meaning given the term in section 183a(h)(1) of title 10 .
-  - **(2)** The term “unacceptable risk to the national security of the United States” has the meaning given the term in section 183a(h)(7) of title 10 .
+  - **(2)** The term “unacceptable risk to the national security of the United States” has the meaning given the term in section 183a(h)(7) 1 1 See References in Text note below. of title 10.

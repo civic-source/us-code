@@ -3,9 +3,9 @@ title: "Section 2 - Reports to Congress"
 usc_title: 50
 usc_section: "2"
 chapter: 5
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2"
-generated_at: "2026-03-30T08:57:54.466Z"
+generated_at: "2026-03-30T08:59:52.806Z"
 status: "active"
 ---
 

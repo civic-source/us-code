@@ -3,9 +3,9 @@ title: "Section 171 - Armed Forces Policy Council"
 usc_title: 10
 usc_section: "171"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 171"
-generated_at: "2026-03-30T08:55:17.625Z"
+generated_at: "2026-03-30T08:58:17.392Z"
 status: "active"
 ---
 
@@ -14,15 +14,18 @@ status: "active"
 - **(a)** There is in the Department of Defense an Armed Forces Policy Council consisting of—
   - **(1)** the Secretary of Defense, as Chairman, with the power of decision;
   - **(2)** the Deputy Secretary of Defense;
-  - **(3)** the Under Secretary of Defense for Acquisition, Technology, and Logistics;
-  - **(4)** the Secretary of the Army;
-  - **(5)** the Secretary of the Navy;
-  - **(6)** the Secretary of the Air Force;
-  - **(7)** the Under Secretary of Defense for Policy;
-  - **(8)** the Deputy Under Secretary of Defense for Acquisition and Technology;
-  - **(9)** the Chairman of the Joint Chiefs of Staff;
-  - **(10)** the Chief of Staff of the Army;
-  - **(11)** the Chief of Naval Operations;
-  - **(12)** the Chief of Staff of the Air Force; and
-  - **(13)** the Commandant of the Marine Corps.
+  - **(3)** the Under Secretary of Defense for Acquisition and Sustainment;
+  - **(4)** the Under Secretary of Defense for Research and Engineering;
+  - **(5)** the Secretary of the Army;
+  - **(6)** the Secretary of the Navy;
+  - **(7)** the Secretary of the Air Force;
+  - **(8)** the Under Secretary of Defense for Policy;
+  - **(9)** the Deputy Under Secretary of Defense for Acquisition and Technology;
+  - **(10)** the Deputy Under Secretary of Defense for Research and Engineering;
+  - **(11)** the Deputy Under Secretary of Defense for Acquisition and Sustainment;
+  - **(12)** the Chairman of the Joint Chiefs of Staff;
+  - **(13)** the Chief of Staff of the Army;
+  - **(14)** the Chief of Naval Operations;
+  - **(15)** the Chief of Staff of the Air Force; and
+  - **(16)** the Commandant of the Marine Corps.
 - **(b)** The Armed Forces Policy Council shall advise the Secretary of Defense on matters of broad policy relating to the armed forces and shall consider and report on such other matters as the Secretary of Defense may direct.

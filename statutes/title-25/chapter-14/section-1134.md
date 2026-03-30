@@ -3,9 +3,9 @@ title: "Section 1134 - Omitted"
 usc_title: 25
 usc_section: "1134"
 chapter: 14
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 1134"
-generated_at: "2026-03-30T08:56:18.362Z"
+generated_at: "2026-03-30T08:59:00.900Z"
 status: "omitted"
 ---
 

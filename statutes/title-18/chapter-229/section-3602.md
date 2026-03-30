@@ -3,9 +3,9 @@ title: "Section 3602 - Appointment of probation officers"
 usc_title: 18
 usc_section: "3602"
 chapter: 229
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 3602"
-generated_at: "2026-03-30T08:56:15.048Z"
+generated_at: "2026-03-30T08:58:42.713Z"
 status: "active"
 ---
 

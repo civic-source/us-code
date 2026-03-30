@@ -3,15 +3,15 @@ title: "Section 9543 - Coordinating aid and assistance across Europe and Eurasia
 usc_title: 22
 usc_section: "9543"
 chapter: 102
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 9543"
-generated_at: "2026-03-30T08:56:22.313Z"
+generated_at: "2026-03-30T08:59:03.924Z"
 status: "active"
 ---
 
 # § 9543. Coordinating aid and assistance across Europe and Eurasia
 
-- **(a)** There are authorized to be appropriated for the Countering Russian Influence Fund $250,000,000 for fiscal years 2018 and 2019.
+- **(a)** There are authorized to be appropriated for the Countering Russian Influence Fund $250,000,000 for fiscal years 2020, 2021, 2022, and 2023.
 - **(b)** Amounts in the Countering Russian Influence Fund shall be used to effectively implement, prioritized in the following order and subject to the availability of funds, the following goals:
   - **(1)** To assist in protecting critical infrastructure and electoral mechanisms from cyberattacks in the following countries:
     - **(A)** Countries that are members of the North Atlantic Treaty Organization or the European Union that the Secretary of State determines—
@@ -23,6 +23,7 @@ status: "active"
   - **(4)** To improve participatory legislative processes and legal education, political transparency and competition, and compliance with international obligations in the countries described in paragraph (1).
   - **(5)** To build the capacity of civil society, media, and other nongovernmental organizations countering the influence and propaganda of the Russian Federation to combat corruption, prioritize access to truthful information, and operate freely in all regions in the countries described in paragraph (1).
   - **(6)** To assist the Secretary of State in executing the functions specified in section 1287(b) of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114–328 ; 22 U.S.C. 2656 note) for the purposes of recognizing, understanding, exposing, and countering propaganda and disinformation efforts by foreign governments, in coordination with the relevant regional Assistant Secretary or Assistant Secretaries of the Department of State.
+  - **(7)** To assist United States agencies that operate under the foreign policy guidance of the Secretary of State in providing assistance under section 9563 of this title .
 - **(c)** The Secretary of State may modify the goals described in subsection (b) if, not later than 15 days before revising such a goal, the Secretary notifies the appropriate congressional committees of the revision.
 - **(d)**
   - **(1)** The Secretary of State shall, acting through the Coordinator of United States Assistance to Europe and Eurasia (authorized pursuant to section 5461 of this title and section 5812 of this title ), and in consultation with the Administrator for the United States Agency for International Development, the Director of the Global Engagement Center of the Department of State, the Secretary of Defense, the Chairman of the Broadcasting Board of Governors, and the heads of other relevant Federal agencies, coordinate and carry out activities to achieve the goals described in subsection (b).

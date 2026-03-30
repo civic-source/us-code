@@ -3,9 +3,9 @@ title: "Section 3024 - Responsibilities and authorities of the Director of Natio
 usc_title: 50
 usc_section: "3024"
 chapter: 44
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 3024"
-generated_at: "2026-03-30T08:57:54.495Z"
+generated_at: "2026-03-30T08:59:52.836Z"
 status: "active"
 ---
 
@@ -230,7 +230,7 @@ status: "active"
 - **(p)** Subject to the direction of the President, the Director of National Intelligence shall, after consultation with the Secretary of Defense, ensure that the National Intelligence Program budgets for the elements of the intelligence community that are within the Department of Defense are adequate to satisfy the national intelligence needs of the Department of Defense, including the needs of the Chairman of the Joint Chiefs of Staff and the commanders of the unified and specified commands, and wherever such elements are performing Government-wide functions, the needs of other Federal departments and agencies.
 - **(q)**
   - **(1)** For each intelligence program within the National Intelligence Program for the acquisition of a major system, the Director of National Intelligence shall—
-    - **(A)** require the development and implementation of a program management plan that includes cost, schedule, and performance goals and program milestone criteria, except that with respect to Department of Defense programs the Director shall consult with the Secretary of Defense;
+    - **(A)** require the development and implementation of a program management plan that includes cost, schedule, security risks, and performance goals and program milestone criteria, except that with respect to Department of Defense programs the Director shall consult with the Secretary of Defense;
     - **(B)** serve as exclusive milestone decision authority, except that with respect to Department of Defense programs the Director shall serve as milestone decision authority jointly with the Secretary of Defense or the designee of the Secretary; and
     - **(C)** periodically—
       - **(i)** review and assess the progress made toward the achievement of the goals and milestones established in such plan; and

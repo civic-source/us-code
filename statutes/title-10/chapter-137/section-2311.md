@@ -3,9 +3,9 @@ title: "Section 2311 - Assignment and delegation of procurement functions and re
 usc_title: 10
 usc_section: "2311"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2311"
-generated_at: "2026-03-30T08:55:17.701Z"
+generated_at: "2026-03-30T08:58:17.466Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(2)** the heads of two or more agencies may by agreement delegate procurement functions and assign procurement responsibilities from one agency to another of those agencies or to an officer or civilian employee of another of those agencies; and
   - **(3)** the heads of two or more agencies may create joint or combined offices to exercise procurement functions and responsibilities.
 - **(c)**
-  - **(1)** The Secretary of Defense shall prescribe regulations that prohibit each military department participating in a joint acquisition program approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics from terminating or substantially reducing its participation in such program without the approval of the Under Secretary.
+  - **(1)** The Secretary of Defense shall prescribe regulations that prohibit each military department participating in a joint acquisition program approved by the Under Secretary of Defense for Acquisition and Sustainment from terminating or substantially reducing its participation in such program without the approval of the Under Secretary.
   - **(2)** The regulations shall include the following provisions:
     - **(A)** A requirement that, before any such termination or substantial reduction in participation is approved, the proposed termination or reduction be reviewed by the Joint Requirements Oversight Council of the Department of Defense.
-    - **(B)** A provision that authorizes the Under Secretary of Defense for Acquisition, Technology, and Logistics to require a military department whose participation in a joint acquisition program has been approved for termination or substantial reduction to continue to provide some or all of the funding necessary for the acquisition program to be continued in an efficient manner.
+    - **(B)** A provision that authorizes the Under Secretary of Defense for Acquisition and Sustainment to require a military department whose participation in a joint acquisition program has been approved for termination or substantial reduction to continue to provide some or all of the funding necessary for the acquisition program to be continued in an efficient manner.

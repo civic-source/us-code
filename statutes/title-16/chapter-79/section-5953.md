@@ -3,9 +3,9 @@ title: "Section 5953 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5953"
 chapter: 79
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 5953"
-generated_at: "2026-03-30T08:56:05.560Z"
+generated_at: "2026-03-30T08:58:41.770Z"
 status: "repealed"
 ---
 

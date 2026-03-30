@@ -3,9 +3,9 @@ title: "Section 50 - Repealed. Pub. L. 106–345, title III, § 301(a) , Oct. 20
 usc_title: 42
 usc_section: "50"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 50"
-generated_at: "2026-03-30T08:57:32.166Z"
+generated_at: "2026-03-30T08:59:46.687Z"
 status: "repealed"
 ---
 

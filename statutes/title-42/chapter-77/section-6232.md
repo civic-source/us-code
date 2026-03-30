@@ -3,9 +3,9 @@ title: "Section 6232 - Definitions"
 usc_title: 42
 usc_section: "6232"
 chapter: 77
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 6232"
-generated_at: "2026-03-30T08:57:32.482Z"
+generated_at: "2026-03-30T08:59:47.025Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 524 - Effect on State laws"
 usc_title: 29
 usc_section: "524"
 chapter: 11
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "29 U.S.C. § 524"
-generated_at: "2026-03-30T08:56:28.229Z"
+generated_at: "2026-03-30T08:59:17.610Z"
 status: "active"
 ---
 

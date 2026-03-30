@@ -3,9 +3,9 @@ title: "Section 3302 - Requirements for purchase of property and services pursua
 usc_title: 41
 usc_section: "3302"
 chapter: 33
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "41 U.S.C. § 3302"
-generated_at: "2026-03-30T08:57:22.253Z"
+generated_at: "2026-03-30T08:59:30.597Z"
 status: "active"
 ---
 
@@ -40,3 +40,4 @@ status: "active"
     - **(B)** disclose the determination required by subsection (c)(1) related to sole source task or delivery orders in excess of the simplified acquisition threshold placed against multiple award contracts through the same mechanism and to the same extent as the disclosure of documents containing a justification and approval required by section 2304(f)(1) of title 10 and section 3304(e)(1) of this title , except in the event of extraordinary circumstances or classified orders.
   - **(2)** This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5 .
 - **(e)** The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regard to whether the multiple award contracts were entered into before, on, or after the effective date.
+- **(f)** The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition.

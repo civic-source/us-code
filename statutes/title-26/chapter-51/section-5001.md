@@ -3,9 +3,9 @@ title: "Section 5001 - Imposition, rate, and attachment of tax"
 usc_title: 26
 usc_section: "5001"
 chapter: 51
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 5001"
-generated_at: "2026-03-30T08:56:41.467Z"
+generated_at: "2026-03-30T08:59:14.466Z"
 status: "active"
 ---
 
@@ -43,5 +43,5 @@ status: "active"
     - **(C)**
       - **(i)** For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the distilled spirits operation, as described under paragraph (2).
       - **(ii)** For purposes of this paragraph, in the case of a controlled group, rules similar to section 5051(a)(5)(B) shall apply.
-  - **(4)** This subsection shall not apply to distilled spirits removed after December 31, 2019 .
+  - **(4)** This subsection shall not apply to distilled spirits removed after December 31, 2020 .
 - **(d)** For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.

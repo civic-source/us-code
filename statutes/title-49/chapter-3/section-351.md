@@ -3,9 +3,9 @@ title: "Section 351 - Judicial review of actions in carrying out certain transfe
 usc_title: 49
 usc_section: "351"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "49 U.S.C. § 351"
-generated_at: "2026-03-30T08:57:40.804Z"
+generated_at: "2026-03-30T08:59:54.756Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1784 - Employment opportunities for military spouses"
 usc_title: 10
 usc_section: "1784"
 chapter: 88
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1784"
-generated_at: "2026-03-30T08:55:17.688Z"
+generated_at: "2026-03-30T08:58:17.452Z"
 status: "active"
 ---
 
@@ -26,3 +26,11 @@ status: "active"
   - **(1)** shall seek to develop partnerships with firms in the private sector to enhance employment opportunities for spouses of members of the armed forces and to provide for improved job portability for such spouses, especially in the case of the spouse of a member of the armed forces accompanying the member to a new geographical area because of a change of permanent duty station of the member; and
   - **(2)** shall work with the United States Chamber of Commerce and other appropriate private-sector entities to facilitate the formation of such partnerships.
 - **(g)** The Secretary of Defense shall examine and seek ways for incorporating hiring preferences for qualified spouses of members of the armed forces into contracts between the Department of Defense and private-sector entities.
+- **(h)**
+  - **(1)** The Secretary of Defense shall seek to enter into a cooperative agreement with the Council of State Governments to assist with funding of the development of interstate compacts on licensed occupations in order to alleviate the burden associated with relicensing in such an occupation by spouse of a members of the armed forces in connection with a permanent change of duty station of members to another State.
+  - **(2)** The amount provided under paragraph (1) as assistance for the development of any particular interstate compact may not exceed $1,000,000.
+  - **(3)** The total amount of assistance provided under paragraph (1) in any fiscal year may not exceed $4,000,000.
+  - **(4)** Not later than February 28 each year, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on interstate compacts described in paragraph (1) developed through assistance provided under that paragraph. Each report shall set forth the following:
+    - **(A)** Any interstate compact developed during the preceding calendar year, including the occupational licenses covered by such compact and the States agreeing to enter into such compact.
+    - **(B)** Any interstate compact developed during a prior calendar year into which one or more additional States agreed to enter during the preceding calendar year.
+  - **(5)** The authority to enter into a cooperative agreement under paragraph (1), and to provide assistance described in that paragraph pursuant to such cooperative agreement, expire 1 1 So in original. Probably should be “expires”. on September 30, 2024 .

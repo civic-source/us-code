@@ -3,9 +3,9 @@ title: "Section 2371b - Authority of the Department of Defense to carry out cert
 usc_title: 10
 usc_section: "2371b"
 chapter: 139
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2371b"
-generated_at: "2026-03-30T08:55:17.708Z"
+generated_at: "2026-03-30T08:58:17.472Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
   - **(1)** The Secretary of Defense shall ensure that no official of an agency enters into a transaction (other than a contract, grant, or cooperative agreement) for a prototype project under the authority of this section unless one of the following conditions is met:
     - **(A)** There is at least one nontraditional defense contractor or nonprofit research institution participating to a significant extent in the prototype project.
     - **(B)** All significant participants in the transaction other than the Federal Government are small businesses (including small businesses participating in a program described under section 9 of the Small Business Act ( 15 U.S.C. 638 )) or nontraditional defense contractors.
-    - **(C)** At least one third of the total cost of the prototype project is to be paid out of funds provided by sources other than other than 1 1 So in original. the Federal Government.
+    - **(C)** At least one third of the total cost of the prototype project is to be paid out of funds provided by sources other than the Federal Government.
     - **(D)** The senior procurement executive for the agency determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract, or would provide an opportunity to expand the defense supply base in a manner that would not be practical or feasible under a contract.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the amounts counted for the purposes of this subsection as being provided, or to be provided, by a party to a transaction with respect to a prototype project that is entered into under this section other than the Federal Government do not include costs that were incurred before the date on which the transaction becomes effective.

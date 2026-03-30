@@ -3,9 +3,9 @@ title: "Section 2902 - Strategic Environmental Research and Development Program 
 usc_title: 10
 usc_section: "2902"
 chapter: 172
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2902"
-generated_at: "2026-03-30T08:55:17.730Z"
+generated_at: "2026-03-30T08:58:17.498Z"
 status: "active"
 ---
 
@@ -13,9 +13,9 @@ status: "active"
 
 - **(a)** There is a Strategic Environmental Research and Development Program Council (hereinafter in this chapter referred to as the “Council”).
 - **(b)** The Council is composed of 12 members as follows:
-  - **(1)** The official within the Office of the Assistant Secretary of Defense for Research and Engineering who is responsible for science and technology.
+  - **(1)** The official within the Office of the Under Secretary of Defense for Research and Engineering who is responsible for science and technology.
   - **(2)** The Vice Chairman of the Joint Chiefs of Staff.
-  - **(3)** The official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics who is responsible for environmental security.
+  - **(3)** The official within the Office of the Under Secretary of Defense for Acquisition and Sustainment who is responsible for environmental security.
   - **(4)** The Assistant Secretary of Energy for Defense programs.
   - **(5)** The Assistant Secretary of Energy responsible for environmental restoration and waste management.
   - **(6)** The Director of the Department of Energy Office of Science.

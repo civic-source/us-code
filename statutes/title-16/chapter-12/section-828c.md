@@ -3,13 +3,13 @@ title: "Section 828c - Applicability of this subchapter"
 usc_title: 16
 usc_section: "828c"
 chapter: 12
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 828c"
-generated_at: "2026-03-30T08:56:05.471Z"
+generated_at: "2026-03-30T08:58:41.681Z"
 status: "active"
 ---
 
 # § 828c. Applicability of this subchapter
 
-Except as herein provided, the provisions of this subchapter shall not be construed as repealing or affecting any of the provisions of this chapter.
+Except as herein provided, the provisions of this subchapter shall not be construed as repealing or affecting any of the provisions of the Federal Power Act [ 16 U.S.C. 791a et seq.].
 

@@ -3,9 +3,9 @@ title: "Section 18031 - Affordable choices of health benefit plans"
 usc_title: 42
 usc_section: "18031"
 chapter: 157
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 18031"
-generated_at: "2026-03-30T08:57:32.705Z"
+generated_at: "2026-03-30T08:59:47.243Z"
 status: "active"
 ---
 
@@ -53,6 +53,14 @@ status: "active"
     - **(B)** annual open enrollment periods, as determined by the Secretary for calendar years after the initial enrollment period;
     - **(C)** special enrollment periods specified in section 9801 of title 26 and other special enrollment periods under circumstances similar to such periods under part D of title XVIII of the Social Security Act [ 42 U.S.C. 1395w–101 et seq.]; and
     - **(D)** special monthly enrollment periods for Indians (as defined in section 1603 of title 25 ).
+  - **(7)**
+    - **(A)** In the case of an Exchange that the Secretary operates pursuant to section 18041(c)(1) of this title , the Secretary shall establish a process under which an individual described in subparagraph (B) is reenrolled for plan year 2021 in a qualified health plan offered through such Exchange. Such qualified health plan under which such individual is so reenrolled shall be—
+      - **(i)** if available for plan year 2021, the qualified health plan under which such individual is enrolled during the annual open enrollment period for such plan year; and
+      - **(ii)** if such qualified health plan is not available for plan year 2021, a qualified health plan offered through such Exchange determined appropriate by the Secretary.
+    - **(B)** An individual described in this subsection is an individual who, with respect to plan year 2020—
+      - **(i)** resides in a State with an Exchange described in subparagraph (A);
+      - **(ii)** is enrolled in a qualified health plan during such plan year and does not enroll in a qualified health plan for plan year 2021 during the annual open enrollment period for such plan year 2021; and
+      - **(iii)** does not elect to disenroll under a qualified health plan for plan year 2021 during such annual open enrollment period.
 - **(d)**
   - **(1)** An Exchange shall be a governmental agency or nonprofit entity that is established by a State.
   - **(2)**

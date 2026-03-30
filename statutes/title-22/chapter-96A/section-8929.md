@@ -3,9 +3,9 @@ title: "Section 8929 - Report on non-compliance by the Russian Federation of its
 usc_title: 22
 usc_section: "8929"
 chapter: 96
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 8929"
-generated_at: "2026-03-30T08:56:22.307Z"
+generated_at: "2026-03-30T08:59:03.917Z"
 status: "active"
 ---
 
@@ -24,6 +24,7 @@ status: "active"
     - **(C)** Notification of any deployment by the Russian Federation of a ground launched ballistic or cruise missile system with a range of between 500 and 5,500 kilometers.
     - **(D)** A plan developed by the Secretary of State, in consultation with the Director of National Intelligence and the Defense Threat Reduction Agency (DTRA), to verify that the Russian Federation has fully and completely dismantled any ground launched cruise missiles or ballistic missiles with a range of between 500 and 5,500 kilometers, including details on facilities that inspectors need access to, people inspectors need to talk with, how often inspectors need the accesses for, and how much the verification regime would cost.
   - **(2)** The report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
+  - **(3)** The reporting requirement under paragraph (1) shall be in effect so long as the INF Treaty remains in force.
 - **(d)** The committees specified in this subsection are—
   - **(1)** the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
   - **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.

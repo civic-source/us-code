@@ -3,9 +3,9 @@ title: "Section 60k - Transferred"
 usc_title: 2
 usc_section: "60k"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "2 U.S.C. § 60k"
-generated_at: "2026-03-30T08:54:57.496Z"
+generated_at: "2026-03-30T08:58:09.907Z"
 status: "transferred"
 ---
 

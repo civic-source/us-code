@@ -3,9 +3,9 @@ title: "Section 10405 - Allotment of funds"
 usc_title: 42
 usc_section: "10405"
 chapter: 110
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 10405"
-generated_at: "2026-03-30T08:57:32.610Z"
+generated_at: "2026-03-30T08:59:47.150Z"
 status: "active"
 ---
 

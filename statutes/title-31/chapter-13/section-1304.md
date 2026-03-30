@@ -3,9 +3,9 @@ title: "Section 1304 - Judgments, awards, and compromise settlements"
 usc_title: 31
 usc_section: "1304"
 chapter: 13
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "31 U.S.C. § 1304"
-generated_at: "2026-03-30T08:56:52.845Z"
+generated_at: "2026-03-30T08:59:22.393Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** under section 2414, 2517, 2672, or 2677 of title 28;
     - **(B)** under section 3723 of this title ;
     - **(C)** under a decision of a board of contract appeals; or
-    - **(D)** in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733 or 2734 of title 10, section 715 of title 32 , or section 20113 of title 51 .
+    - **(D)** in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733, 2733a, or 2734 of title 10, section 715 of title 32 , or section 20113 of title 51 .
 - **(b)**
   - **(1)** Interest may be paid from the appropriation made by this section—
     - **(A)** on a judgment of a district court, only when the judgment becomes final after review on appeal or petition by the United States Government, and then only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance; or

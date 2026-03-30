@@ -3,9 +3,9 @@ title: "Section 333 - Foreign security forces: authority to build capacity"
 usc_title: 10
 usc_section: "333"
 chapter: 16
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 333"
-generated_at: "2026-03-30T08:55:17.632Z"
+generated_at: "2026-03-30T08:58:17.397Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** Counter-transnational organized crime operations.
   - **(5)** Maritime and border security operations.
   - **(6)** Military intelligence operations.
-  - **(7)** Operations or activities that contribute to an international coalition operation that is determined by the Secretary to be in the national interest of the United States.
+  - **(7)** Operations or activities that contribute to an existing international coalition operation that is determined by the Secretary to be in the national interest of the United States.
 - **(b)**
   - **(1)** The concurrence of the Secretary of State is required to conduct or support any program authorized by subsection (a).
   - **(2)** The Secretary of Defense and the Secretary of State shall jointly develop and plan any program carried out pursuant to subsection (a). In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.
@@ -46,6 +46,9 @@ status: "active"
     - **(A)** A written justification that the provision of sustainment support described in that subsection for a period in excess of five years will enhance the security interest of the United States.
     - **(B)** To the extent practicable, a plan to transition such sustainment support from funding through the Department to funding through another security sector assistance program of the United States Government or funding through partner nations.
   - **(8)** In the case of activities under a program that results in the provision of small-scale construction above $750,000, the location, project title, and cost of each small-scale construction project that will be carried out, a Department of Defense Form 1391 for each such project, and a masterplan of planned infrastructure investments at the location over the next 5 years.
+  - **(9)** In the case of a program described in subsection (a), each of the following:
+    - **(A)** A description of whether assistance under the program could be provided pursuant to other authorities under this title, the Foreign Assistance Act of 1961, or any other train and equip authorities of the Department of Defense.
+    - **(B)** An identification of each such authority described in subparagraph (A).
 - **(f)** The Director of the Defense Security Cooperation Agency shall, on a quarterly basis, submit to the appropriate committees of Congress a report setting forth, for the preceding calendar quarter, the following:
   - **(1)** Information, by recipient country, of the delivery and execution status of all defense articles, training, defense services, supplies (including consumables), and small-scale construction under programs under subsection (a).
   - **(2)** Information on the timeliness of delivery of defense articles, defense services, supplies (including consumables), and small-scale construction when compared with delivery schedules for such articles, services, supplies, and construction previously provided to Congress.

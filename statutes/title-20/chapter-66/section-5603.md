@@ -3,9 +3,9 @@ title: "Section 5603 - Establishment of Morris K. Udall and Stewart L. Udall Fou
 usc_title: 20
 usc_section: "5603"
 chapter: 66
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "20 U.S.C. § 5603"
-generated_at: "2026-03-30T08:56:07.193Z"
+generated_at: "2026-03-30T08:58:44.692Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(B)** a Trustee appointed to fill a vacancy shall serve for the remainder of the term for which the Trustee’s predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made; and
     - **(C)** a Trustee may serve after the expiration of the Trustee’s term until a successor has been chosen.
 - **(d)** Trustees shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Board.
-- **(e)** The Foundation shall be located in Tucson, Arizona.
+- **(e)** The Foundation shall be located in Tucson, Arizona and the District of Columbia.
 - **(f)**
   - **(1)** There shall be an Executive Director of the Foundation who shall be appointed by the Board. The Executive Director shall be the chief executive officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Director shall carry out such other functions consistent with the provisions of this chapter as the Board shall prescribe.
   - **(2)** The Executive Director of the Foundation shall be compensated at a rate determined by the Board in accordance with section 5383 of title 5 .

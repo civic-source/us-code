@@ -3,9 +3,9 @@ title: "Section 831i - Sale of surplus power; preferences; experimental work; ac
 usc_title: 16
 usc_section: "831i"
 chapter: 12
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 831i"
-generated_at: "2026-03-30T08:56:05.472Z"
+generated_at: "2026-03-30T08:58:41.682Z"
 status: "active"
 ---
 

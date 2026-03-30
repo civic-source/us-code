@@ -1,22 +1,15 @@
 ---
-title: "Section 9067 - Designation: officers to perform certain professional functions"
+title: "Section 9067 - Assistant Surgeon General for Dental Services"
 usc_title: 10
 usc_section: "9067"
 chapter: 907
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 9067"
-generated_at: "2026-03-30T08:55:17.750Z"
+generated_at: "2026-03-30T08:58:17.520Z"
 status: "active"
 ---
 
-# § 9067. Designation: officers to perform certain professional functions
+# § 9067. Assistant Surgeon General for Dental Services
 
-- **(a)** Medical functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary of the Air Force and who are designated as medical officers.
-- **(b)** Dental functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as dental officers.
-- **(c)** Veterinary functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as veterinary officers.
-- **(d)** Medical service functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as medical service officers.
-- **(e)** Nursing functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as Air Force nurses.
-- **(f)** Biomedical science functions, including physician assistant functions and chiropractic functions, in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as biomedical science officers.
-- **(g)** Judge advocate functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as judge advocates.
-- **(h)** Chaplain functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as chaplains.
-- **(i)** Other functions in the Air Force requiring special training or experience shall be performed by members of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as being in named categories.
+There is an Assistant Surgeon General for Dental Services in the Air Force who is appointed by the Secretary of the Air Force upon the recommendation of the Surgeon General from officers of the Air Force above the grade of lieutenant colonel who are designated as dental officers under section 9067(b) of this title . The Assistant Surgeon General for Dental Services serves at the pleasure of the Secretary.
+

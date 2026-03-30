@@ -3,9 +3,9 @@ title: "Section 2951 - Findings and purposes"
 usc_title: 15
 usc_section: "2951"
 chapter: 56
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 2951"
-generated_at: "2026-03-30T08:55:58.055Z"
+generated_at: "2026-03-30T08:58:33.100Z"
 status: "active"
 ---
 

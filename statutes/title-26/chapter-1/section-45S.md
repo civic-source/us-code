@@ -3,9 +3,9 @@ title: "Section 45S - Employer credit for paid family and medical leave"
 usc_title: 26
 usc_section: "45S"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 45S"
-generated_at: "2026-03-30T08:56:41.311Z"
+generated_at: "2026-03-30T08:59:14.298Z"
 status: "active"
 ---
 
@@ -48,4 +48,4 @@ status: "active"
 - **(h)**
   - **(1)** A taxpayer may elect to have this section not apply for any taxable year.
   - **(2)** Rules similar to the rules of paragraphs (2) and (3) of section 51(j) shall apply for purposes of this subsection.
-- **(i)** This section shall not apply to wages paid in taxable years beginning after December 31, 2019 .
+- **(i)** This section shall not apply to wages paid in taxable years beginning after December 31, 2020 .

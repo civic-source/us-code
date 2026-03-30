@@ -3,9 +3,9 @@ title: "Section 70504 - Jurisdiction and venue"
 usc_title: 46
 usc_section: "70504"
 chapter: 705
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "46 U.S.C. § 70504"
-generated_at: "2026-03-30T08:57:51.938Z"
+generated_at: "2026-03-30T08:59:50.962Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 501 - Exemption from tax on corporations, certain trusts, etc."
 usc_title: 26
 usc_section: "501"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 501"
-generated_at: "2026-03-30T08:56:41.383Z"
+generated_at: "2026-03-30T08:59:14.375Z"
 status: "active"
 ---
 
@@ -80,6 +80,9 @@ status: "active"
       - **(viii)** A company shall not fail to be treated as a mutual or cooperative electric company for purposes of this paragraph or as a corporation operating on a cooperative basis for purposes of section 1381(a)(2)(C) by reason of the treatment under clause (i).
       - **(ix)** For purposes of subparagraph (A), in the case of a mutual or cooperative electric company, income received, or accrued, indirectly from a member shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
     - **(I)** In the case of a mutual or cooperative electric company described in this paragraph or an organization described in section 1381(a)(2), income received or accrued in connection with an election under section 45J(e)(1) shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
+    - **(J)** In the case of a mutual or cooperative telephone or electric company described in this paragraph, subparagraph (A) shall be applied without taking into account any income received or accrued from—
+      - **(i)** any grant, contribution, or assistance provided pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act or any similar grant, contribution, or assistance by any local, State, or regional governmental entity for the purpose of relief, recovery, or restoration from, or preparation for, a disaster or emergency, or
+      - **(ii)** any grant or contribution by any governmental entity (other than a contribution in aid of construction or any other contribution as a customer or potential customer) the purpose of which is substantially related to providing, constructing, restoring, or relocating electric, communication, broadband, internet, or other utility facilities or services.
   - **(13)** Cemetery companies owned and operated exclusively for the benefit of their members or which are not operated for profit; and any corporation chartered solely for the purpose of the disposal of bodies by burial or cremation which is not permitted by its charter to engage in any business not necessarily incident to that purpose and no part of the net earnings of which inures to the benefit of any private shareholder or individual.
   - **(14)**
     - **(A)** Credit unions without capital stock organized and operated for mutual purposes and without profit.

@@ -3,9 +3,9 @@ title: "Section 1142 - Preseparation counseling; transmittal of certain records 
 usc_title: 10
 usc_section: "1142"
 chapter: 58
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1142"
-generated_at: "2026-03-30T08:55:17.669Z"
+generated_at: "2026-03-30T08:58:17.433Z"
 status: "active"
 ---
 
@@ -45,6 +45,7 @@ status: "active"
   - **(16)** Information on home loan services and housing assistance benefits available under the laws administered by the Secretary of Veterans Affairs and counseling on responsible borrowing practices.
   - **(17)** A description, developed in consultation with the Secretary of Veterans Affairs, of health care and other benefits to which the member may be entitled under the laws administered by the Secretary of Veterans Affairs, and information regarding the means by which the member can receive additional counseling regarding the member’s actual entitlement to such benefits and apply for such benefits.
   - **(18)** A description, developed in consultation with the Secretary of Veterans Affairs, of the assistance and support services for family caregivers of eligible veterans under the program conducted by the Secretary of Veterans Affairs pursuant to section 1720G of title 38 , including the veterans covered by the program, the caregivers eligible for assistance and support through the program, and the assistance and support available through the program.
+  - **(19)** Information regarding how to file claims for benefits available to the member under laws administered by the Secretaries of Defense and Veterans Affairs.
 - **(c)**
   - **(1)** Each Secretary concerned, in consultation with the Secretaries of Labor and Veterans Affairs, shall establish at least three pathways for members of the military department concerned receiving individualized counseling under this section. The Secretaries shall design the pathways to address the needs of members, based on the following factors:
     - **(A)** Rank.
@@ -73,7 +74,7 @@ status: "active"
     - **(C)** receive information from the counselor regarding resources (including resources regarding military sexual trauma)—
       - **(i)** for members of the armed forces separated, retired, or discharged;
       - **(ii)** located in the community in which the member will reside after separation, retirement, or discharge.
-  - **(3)** At the meeting under paragraph (2), the member may elect to have the Secretary concerned (in consultation with the Secretaries of Labor and Veterans Affairs) provide the contact information of the member to the resources described in paragraph (2)(B). 1 1 So in original. Probably should be “paragraph (2)(C).”
+  - **(3)** At the meeting under paragraph (2), the member may elect to have the Secretary concerned (in consultation with the Secretaries of Labor and Veterans Affairs) provide the contact information of the member to the resources described in paragraph (2)(C).
 - **(d)** In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member’s service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 - **(e)** The Secretary concerned shall provide a copy of the joint service transcript of a member described in subsection (a) to—
   - **(1)** that member—

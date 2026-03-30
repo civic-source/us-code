@@ -3,15 +3,15 @@ title: "Section 9251 - Suspension of sanctions and other measures"
 usc_title: 22
 usc_section: "9251"
 chapter: 99
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 9251"
-generated_at: "2026-03-30T08:56:22.310Z"
+generated_at: "2026-03-30T08:59:03.921Z"
 status: "active"
 ---
 
 # § 9251. Suspension of sanctions and other measures
 
-- **(a)** Any sanction or other measure required under subchapter I, II, or III (or any amendment made by such subchapters) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
+- **(a)** Any sanction or other measure required under subchapter I, II, or III (or any amendment made by such subchapters) (other than section 9214(g), 9221b, or 9221c of this title) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
   - **(1)** verifiably ceasing its counterfeiting of United States currency, including the surrender or destruction of specialized materials and equipment used or particularly suitable for counterfeiting;
   - **(2)** taking steps toward financial transparency to comply with generally accepted protocols to cease and prevent the laundering of monetary instruments;
   - **(3)** taking steps toward verification of its compliance with applicable United Nations Security Council resolutions;

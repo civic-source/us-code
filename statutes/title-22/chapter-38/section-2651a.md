@@ -3,9 +3,9 @@ title: "Section 2651a - Organization of Department of State"
 usc_title: 22
 usc_section: "2651a"
 chapter: 38
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 2651a"
-generated_at: "2026-03-30T08:56:22.230Z"
+generated_at: "2026-03-30T08:59:03.841Z"
 status: "active"
 ---
 
@@ -39,7 +39,18 @@ status: "active"
       - **(ii)** Preparing the statements and reports to Congress required under section 2304 of this title .
       - **(iii)** Making recommendations to the Secretary of State and the Administrator of the Agency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary’s overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework under which section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
       - **(iv)** Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
-  - **(3)** Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the regional or functional bureau or bureaus of the Department of State with respect to which the individual shall have responsibility.
+  - **(3)**
+    - **(A)** Subject to the numerical limitation specified in paragraph (1), there is authorized to be established in the Department of State an Assistant Secretary of State who shall be responsible to the Secretary of State for matters pertaining to international economics and business matters in the conduct of foreign policy.
+    - **(B)** The matters referred to in subparagraph (A) include the following:
+      - **(i)** International trade and investment policy.
+      - **(ii)** International finance, economic development, and debt policy.
+      - **(iii)** Economic sanctions and combating terrorist financing.
+      - **(iv)** International transportation policy.
+      - **(v)** Support for United States businesses.
+      - **(vi)** Economic policy analysis and private sector outreach.
+      - **(vii)** International data privacy and innovation policies.
+      - **(viii)** Such other related duties as the Secretary may from time to time designate.
+  - **(4)** Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the regional or functional bureau or bureaus of the Department of State with respect to which the individual shall have responsibility.
 - **(d)** In addition to officials of the Department of State who are otherwise authorized to be appointed by the President, by and with the advice and consent of the Senate, and to be compensated at level IV of the Executive Schedule of 1 1 So in original. Probably should be “under”. section 5315 of title 5 four other such appointments are authorized.
 - **(e)**
   - **(1)** There is within the office of the Secretary of State a Coordinator for Counterterrorism (in this paragraph referred to as the “Coordinator”) who shall be appointed by the President, by and with the advice and consent of the Senate.

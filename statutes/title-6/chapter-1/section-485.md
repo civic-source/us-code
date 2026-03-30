@@ -3,9 +3,9 @@ title: "Section 485 - Information sharing"
 usc_title: 6
 usc_section: "485"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "6 U.S.C. § 485"
-generated_at: "2026-03-30T08:55:03.540Z"
+generated_at: "2026-03-30T08:58:12.307Z"
 status: "active"
 ---
 
@@ -25,11 +25,11 @@ status: "active"
     - **(B)** includes weapons of mass destruction information.
   - **(6)** The term “weapons of mass destruction information” means information that could reasonably be expected to assist in the development, proliferation, or use of a weapon of mass destruction (including a chemical, biological, radiological, or nuclear weapon) that could be used by a terrorist or a terrorist organization against the United States, including information about the location of any stockpile of nuclear materials that could be exploited for use in such a weapon that could be used by a terrorist or a terrorist organization against the United States.
 - **(b)**
-  - **(1)** The President shall—
+  - **(1)** The Director of National Intelligence shall—
     - **(A)** create an information sharing environment for the sharing of terrorism information in a manner consistent with national security and with applicable legal standards relating to privacy and civil liberties;
     - **(B)** designate the organizational and management structures that will be used to operate and manage the ISE; and
     - **(C)** determine and enforce the policies, directives, and rules that will govern the content and usage of the ISE.
-  - **(2)** The President shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The President shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
+  - **(2)** The Director of National Intelligence shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The Director of National Intelligence shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
     - **(A)** connects existing systems, where appropriate, provides no single points of failure, and allows users to share information among agencies, between levels of government, and, as appropriate, with the private sector;
     - **(B)** ensures direct and continuous online electronic access to information;
     - **(C)** facilitates the availability of information in a form and manner that facilitates its use in analysis, investigations and operations;
@@ -72,7 +72,7 @@ status: "active"
     - **(B)** the authority of the Secretary of Homeland Security and the Attorney General, and the role of the Department of Homeland Security and the Department of Justice, in coordinating with State, local, and tribal officials and the private sector.
   - **(11)** The recommendations of the program manager, in consultation with the Information Sharing Council, for a future management structure for the ISE, including whether the position of program manager should continue to remain in existence.
 - **(f)**
-  - **(1)** Not later than 120 days after December 17, 2004 , with notification to Congress, the President shall designate an individual as the program manager responsible for information sharing across the Federal Government. The individual designated as the program manager shall serve as program manager until removed from service or replaced by the President (at the President’s sole discretion). The program manager, in consultation with the head of any affected department or agency, shall have and exercise governmentwide authority over the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by all Federal departments, agencies, and components, irrespective of the Federal department, agency, or component in which the program manager may be administratively located, except as otherwise expressly provided by law.
+  - **(1)** Not later than 120 days after December 17, 2004 , with notification to Congress, the President shall designate an individual as the program manager responsible for information sharing across the Federal Government. Beginning on December 20, 2019 , each individual designated as the program manager shall be appointed by the Director of National Intelligence. The program manager, in consultation with the head of any affected department or agency, shall have and exercise governmentwide authority over the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by all Federal departments, agencies, and components, irrespective of the Federal department, agency, or component in which the program manager may be administratively located, except as otherwise expressly provided by law.
   - **(2)**
     - **(A)** The program manager shall, in consultation with the Information Sharing Council—
       - **(i)** plan for and oversee the implementation of, and manage, the ISE;
@@ -92,7 +92,7 @@ status: "active"
 - **(g)**
   - **(1)** There is established an Information Sharing Council that shall assist the President and the program manager in their duties under this section. The Information Sharing Council shall serve until removed from service or replaced by the President (at the sole discretion of the President) with a successor body.
   - **(2)** In assisting the President and the program manager in their duties under this section, the Information Sharing Council shall—
-    - **(A)** advise the President and the program manager in developing policies, procedures, guidelines, roles, and standards necessary to establish, implement, and maintain the ISE;
+    - **(A)** advise the President and the program manager in developing policies, procedures, guidelines, roles, 2 2 So in original. Probably should be “rules,”. and standards necessary to establish, implement, and maintain the ISE;
     - **(B)** work to ensure coordination among the Federal departments and agencies participating in the ISE in the establishment, implementation, and maintenance of the ISE;
     - **(C)** identify and, as appropriate, recommend the consolidation and elimination of current programs, systems, and processes used by Federal departments and agencies to share information, and recommend, as appropriate, the redirection of existing resources to support the ISE;
     - **(D)** identify gaps, if any, between existing technologies, programs and systems used by Federal departments and agencies to share information and the parameters of the proposed information sharing environment;

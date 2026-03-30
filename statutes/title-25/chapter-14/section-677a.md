@@ -3,9 +3,9 @@ title: "Section 677a - Omitted"
 usc_title: 25
 usc_section: "677a"
 chapter: 14
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 677a"
-generated_at: "2026-03-30T08:56:18.360Z"
+generated_at: "2026-03-30T08:59:00.898Z"
 status: "omitted"
 ---
 

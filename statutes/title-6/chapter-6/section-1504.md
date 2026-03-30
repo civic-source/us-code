@@ -3,9 +3,9 @@ title: "Section 1504 - Sharing of cyber threat indicators and defensive measures
 usc_title: 6
 usc_section: "1504"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "6 U.S.C. § 1504"
-generated_at: "2026-03-30T08:55:03.559Z"
+generated_at: "2026-03-30T08:58:12.326Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9504 - Review and recommendations"
 usc_title: 31
 usc_section: "9504"
 chapter: 95
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "31 U.S.C. § 9504"
-generated_at: "2026-03-30T08:56:52.866Z"
+generated_at: "2026-03-30T08:59:22.415Z"
 status: "active"
 ---
 

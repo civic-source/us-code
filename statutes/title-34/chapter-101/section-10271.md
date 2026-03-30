@@ -3,9 +3,9 @@ title: "Section 10271 - Misuse of Federal assistance"
 usc_title: 34
 usc_section: "10271"
 chapter: 101
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "34 U.S.C. § 10271"
-generated_at: "2026-03-30T08:56:51.143Z"
+generated_at: "2026-03-30T08:59:24.348Z"
 status: "active"
 ---
 

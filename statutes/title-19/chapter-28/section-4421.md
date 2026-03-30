@@ -3,9 +3,9 @@ title: "Section 4421 - Enhancement of engagement on currency exchange rate and e
 usc_title: 19
 usc_section: "4421"
 chapter: 28
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "19 U.S.C. § 4421"
-generated_at: "2026-03-30T08:56:12.287Z"
+generated_at: "2026-03-30T08:58:57.639Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
     - **(B)** The Secretary shall promptly certify to Congress a determination under subparagraph (A) and promptly submit to Congress a report that describes in detail the reasons for the Secretary’s determination under subparagraph (A).
 - **(c)**
   - **(1)** If, on or after the date that is one year after the commencement of enhanced bilateral engagement by the President, through the Secretary, with respect to a country under subsection (b)(1), the Secretary determines that the country has failed to adopt appropriate policies to correct the undervaluation and surpluses described in subsection (b)(1)(A) with respect to that country, the President shall take one or more of the following actions:
-    - **(A)** Prohibit the Overseas Private Investment Corporation from approving any new financing (including any insurance, reinsurance, or guarantee) with respect to a project located in that country on and after such date.
+    - **(A)** Prohibit the United States International Development Finance Corporation from approving any new financing (including any insurance, reinsurance, or guarantee) with respect to a project located in that country on and after such date.
     - **(B)** Except as provided in paragraph (3), and pursuant to paragraph (4), prohibit the Federal Government from procuring, or entering into any contract for the procurement of, goods or services from that country on and after such date.
     - **(C)** Instruct the United States Executive Director of the International Monetary Fund to call for additional rigorous surveillance of the macroeconomic and exchange rate policies of that country and, as appropriate, formal consultations on findings of currency manipulation.
     - **(D)** Instruct the United States Trade Representative to take into account, in consultation with the Secretary, in assessing whether to enter into a bilateral or regional trade agreement with that country or to initiate or participate in negotiations with respect to a bilateral or regional trade agreement with that country, the extent to which that country has failed to adopt appropriate policies to correct the undervaluation and surpluses described in subsection (b)(1)(A).

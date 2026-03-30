@@ -3,9 +3,9 @@ title: "Section 3904 - Members of the Auxiliary; status"
 usc_title: 14
 usc_section: "3904"
 chapter: 39
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "14 U.S.C. § 3904"
-generated_at: "2026-03-30T08:55:30.676Z"
+generated_at: "2026-03-30T08:58:29.403Z"
 status: "active"
 ---
 
@@ -20,6 +20,6 @@ status: "active"
   - **(5)** Chapter 311 of title 46 (known as the Public Vessels Act).
   - **(6)** Other matters related to noncontractual civil liability.
   - **(7)** Compensation for work injuries under chapter 81 of title 5.
-  - **(8)** The resolution of claims relating to damage to or loss of personal property of the member incident to service under the Military Personnel and Civilian Employees’ Claims Act of 1964 ( 31 U.S.C. 3721 ). 1
+  - **(8)** The resolution of claims relating to damage to or loss of personal property of the member incident to service under the Military Personnel and Civilian Employees’ Claims Act of 1964 ( 31 U.S.C. 3721 ). 1 1 See References in Text note below.
   - **(9)** Section 651 of Public Law 104–208 .
 - **(c)** A member of the Auxiliary, while assigned to duty, shall be deemed to be a person acting under an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28 .

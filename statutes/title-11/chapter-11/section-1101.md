@@ -3,9 +3,9 @@ title: "Section 1101 - Definitions for this chapter"
 usc_title: 11
 usc_section: "1101"
 chapter: 11
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "11 U.S.C. § 1101"
-generated_at: "2026-03-30T08:55:31.104Z"
+generated_at: "2026-03-30T08:58:29.771Z"
 status: "active"
 ---
 

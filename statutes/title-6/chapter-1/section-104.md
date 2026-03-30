@@ -3,9 +3,9 @@ title: "Section 104 - National biodefense strategy"
 usc_title: 6
 usc_section: "104"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "6 U.S.C. § 104"
-generated_at: "2026-03-30T08:55:03.523Z"
+generated_at: "2026-03-30T08:58:12.288Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(7)** Recommendations for improving and formalizing interagency coordination and support mechanisms with respect to providing a robust national biodefense.
   - **(8)** Any other matters the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Agriculture determine necessary.
 - **(c)** Not later than 275 days after December 23, 2016 , the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Agriculture shall submit to the appropriate congressional committees the strategy and associated implementation plan required by subsection (a). The strategy and implementation plan shall be submitted in unclassified form, but may include a classified annex.
-- **(d)** Not later than March 1, 2017 , and annually thereafter until March 1, 2019 , the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Agriculture shall provide to the Committee on Armed Services of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Homeland Security of the House of Representatives, and the Committee on Agriculture of the House of Representatives a joint briefing on the strategy developed under subsection (a) and the status of the implementation of such strategy.
+- **(d)** Not later than March 1, 2017 , and annually thereafter until March 1, 2025 , the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Agriculture shall provide to the Committee on Armed Services of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Homeland Security of the House of Representatives, and the Committee on Agriculture of the House of Representatives a joint briefing on the strategy developed under subsection (a) and the status of the implementation of such strategy.
 - **(e)** Not later than 180 days after the date of the submittal of the strategy and implementation plan under subsection (c), the Comptroller General of the United States shall conduct a review of the strategy and implementation plan to analyze gaps and resources mapped against the requirements of the National Biodefense Strategy and existing United States biodefense policy documents.
 - **(f)** In this section, the term “appropriate congressional committees” means the following:
   - **(1)** The congressional defense committees.

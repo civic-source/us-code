@@ -3,9 +3,9 @@ title: "Section 290aa - Substance Abuse and Mental Health Services Administratio
 usc_title: 42
 usc_section: "290aa"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 290aa"
-generated_at: "2026-03-30T08:57:32.105Z"
+generated_at: "2026-03-30T08:59:46.624Z"
 status: "active"
 ---
 

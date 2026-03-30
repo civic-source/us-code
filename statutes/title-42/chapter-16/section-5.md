@@ -3,9 +3,9 @@ title: "Section 5 - Programs to expand STEM opportunities"
 usc_title: 42
 usc_section: "5"
 chapter: 16
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T08:57:32.386Z"
+generated_at: "2026-03-30T08:59:46.924Z"
 status: "active"
 ---
 
@@ -30,6 +30,14 @@ status: "active"
   - **(2)**
     - **(A)** Grants awarded under this subsection may include grants for the establishment of a Center of Excellence to collect, maintain, and disseminate information to increase participation of underrepresented populations in STEM fields.
     - **(B)** The purpose of a Center of Excellence under this subsection is to promote diversity in STEM fields by building on the success of the INCLUDES programs, providing technical assistance, maintaining best practices, and providing related training at federally funded academic institutions.
+  - **(3)** As a component of improving participation of women in STEM fields, research funded by a grant under this subsection may include research on—
+    - **(A)** the role of teacher training and professional development, including effective incentive structures to encourage teachers to participate in such training and professional development, in encouraging or discouraging female students in prekindergarten through elementary school from participating in STEM activities;
+    - **(B)** the role of teachers in shaping perceptions of STEM in female students in prekindergarten through elementary school and discouraging such students from participating in STEM activities;
+    - **(C)** the role of other facets of the learning environment on the willingness of female students in prekindergarten through elementary school to participate in STEM activities, including learning materials and textbooks, seating arrangements, use of media and technology, classroom culture, and composition of students during group work;
+    - **(D)** the role of parents and other caregivers in encouraging or discouraging female students in prekindergarten through elementary school from participating in STEM activities;
+    - **(E)** the types of STEM activities that encourage greater participation by female students in prekindergarten through elementary school;
+    - **(F)** the role of mentorship and best practices in finding and utilizing mentors; and
+    - **(G)** the role of informal and after-school STEM learning opportunities on the perception of and participation in STEM activities of female students in prekindergarten through elementary school.
 - **(e)**
   - **(1)**
     - **(A)** Not later than 5 years after January 6, 2017 , the Director of the Foundation shall evaluate the grants provided under this section.

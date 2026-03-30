@@ -3,9 +3,9 @@ title: "Section 7081 - Dental Corps: Chief, functions"
 usc_title: 10
 usc_section: "7081"
 chapter: 707
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 7081"
-generated_at: "2026-03-30T08:55:17.733Z"
+generated_at: "2026-03-30T08:58:17.501Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
   - **(1)** establish professional standards and policies for dental practice;
   - **(2)** initiate and recommend action pertaining to organization requirements and utilization of the Dental Corps and dental auxiliary strength, appointments, advancement, training assignments, and transfer of dental personnel; and
   - **(3)** serve as the adviser to the Office of the Surgeon General on all matters relating directly to dentistry.
-- **(d)** Under such regulations as the Secretary of the Army may prescribe, dental and dental auxiliary personnel throughout the Army shall be organized into units commanded by a designated Dental Corps Officer. Such officer will be directly responsible to the commander of installations, organizations, and activities for all professional and technical matters and such administrative matters as may be prescribed by regulation.
+- **(d)** Under such regulations as the Secretary of the Army may prescribe, dental and dental auxiliary personnel throughout the Army shall be organized into units commanded by a designated commissioned officer of the Army Medical Department. Such officer will be directly responsible to the commander of installations, organizations, and activities for all professional and technical matters and such administrative matters as may be prescribed by regulation.

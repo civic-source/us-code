@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-30T08:55:17.614Z"
+generated_at: "2026-03-30T08:58:17.385Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The term “United States”, in a geographic sense, means the States and the District of Columbia.
   - **[(2)** Repealed. Pub. L. 109–163, div. A, title X, § 1057(a)(1) , Jan. 6, 2006 , 119 Stat. 3440 .]
   - **(3)** The term “possessions” includes the Virgin Islands, Guam, American Samoa, and the Guano Islands, so long as they remain possessions, but does not include any Commonwealth.
-  - **(4)** The term “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+  - **(4)** The term “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard.
   - **(5)** The term “uniformed services” means—
     - **(A)** the armed forces;
     - **(B)** the commissioned corps of the National Oceanic and Atmospheric Administration; and
@@ -26,7 +26,7 @@ status: "active"
   - **(9)** The term “Secretary concerned” means—
     - **(A)** the Secretary of the Army, with respect to matters concerning the Army;
     - **(B)** the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Department of the Navy;
-    - **(C)** the Secretary of the Air Force, with respect to matters concerning the Air Force; and
+    - **(C)** the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force; and
     - **(D)** the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
   - **(10)** The term “service acquisition executive” means the civilian official within a military department who is designated as the service acquisition executive for purposes of regulations and procedures providing for a service acquisition executive for that military department.
   - **(11)** The term “Defense Agency” means an organizational entity of the Department of Defense—

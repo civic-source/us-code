@@ -3,9 +3,9 @@ title: "Section 2504 - Annual report to Congress"
 usc_title: 10
 usc_section: "2504"
 chapter: 148
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2504"
-generated_at: "2026-03-30T08:55:17.716Z"
+generated_at: "2026-03-30T08:58:17.481Z"
 status: "active"
 ---
 
@@ -15,7 +15,11 @@ The Secretary of Defense shall transmit to the Committee on Armed Services of th
 
   - **(1)** A description of the departmental guidance prepared pursuant to section 2506 of this title .
   - **(2)** A description of the assessments prepared pursuant to section 2505 of this title and other analyses used in developing the budget submission of the Department of Defense for the next fiscal year.
-  - **(3)** Based on the strategy required by section 2501 of this title and on the assessments prepared pursuant to section 2505 of this title —
-    - **(A)** a description of any mitigation strategies necessary to address any gaps or vulnerabilities in the national technology and industrial base; and
-    - **(B)** any other steps necessary to foster and safeguard the national technology and industrial base.
+  - **(3)** Based on the strategy required by section 2501 of this title and on the assessments prepared pursuant to Executive order or section 2505 of this title —
+    - **(A)** a map of the industrial base;(4) by inserting after subparagraph (A) the following new subparagraph:
+    - **(B)** a prioritized list of gaps or vulnerabilities in the national technology and industrial base, including—
+      - **(i)** a description of mitigation strategies necessary to address such gaps or vulnerabilities;
+      - **(ii)** the identification of the Secretary concerned or the head of the Defense Agency responsible for addressing such gaps or vulnerabilities; and
+      - **(iii)** a proposed timeline for action to address such gaps or vulnerabilities; and
+    - **(C)** any other steps necessary to foster and safeguard the national technology and industrial base.
   - **(4)** Identification of each program designed to sustain specific essential technological and industrial capabilities and processes of the national technology and industrial base.

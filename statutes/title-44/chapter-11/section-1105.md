@@ -3,9 +3,9 @@ title: "Section 1105 - Form and style of work for departments"
 usc_title: 44
 usc_section: "1105"
 chapter: 11
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "44 U.S.C. § 1105"
-generated_at: "2026-03-30T08:57:17.462Z"
+generated_at: "2026-03-30T08:59:32.175Z"
 status: "active"
 ---
 

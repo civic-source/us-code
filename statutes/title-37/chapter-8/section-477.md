@@ -3,9 +3,9 @@ title: "Section 477 - Travel and transportation allowances: dislocation allowanc
 usc_title: 37
 usc_section: "477"
 chapter: 8
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "37 U.S.C. § 477"
-generated_at: "2026-03-30T08:56:56.791Z"
+generated_at: "2026-03-30T08:59:26.799Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
   - **(2)** This subsection does not apply in time of national emergency or in time of war.
 - **(e)** A member is not entitled to payment of a dislocation allowance under this section when the member is ordered from the member’s home to the member’s first duty station (except as provided in subsection (a)(2)(F)) or from the member’s last duty station to the member’s home.
 - **(f)**
-  - **(1)** Under regulations prescribed by the Secretary concerned, a member ordered to occupy or vacate family housing provided by the United States to permit the privatization or renovation of housing or for any other reason (other than pursuant to a permanent change of station) may be paid a partial dislocation allowance of $500.
+  - **(1)** Under regulations prescribed by the Secretary concerned, a member ordered to occupy or vacate housing provided by the United States to permit the privatization or renovation of housing or for any other reason (other than pursuant to a permanent change of station) may be paid a partial dislocation allowance of $500.
   - **(2)** Effective on the same date that the monthly rates of basic pay for all members are increased under section 1009 of this title or another provision of law, the Secretary of Defense shall adjust the rate of the partial dislocation allowance authorized by this subsection by the percentage equal to the average percentage increase in the rates of basic pay.
   - **(3)** Subsections (c) and (d) do not apply to the partial dislocation allowance authorized by this subsection.
 - **(g)** For purposes of this section, a member whose dependents may not make an authorized move in connection with a change of permanent station is considered a member without dependents.

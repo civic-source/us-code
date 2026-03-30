@@ -3,9 +3,9 @@ title: "Section 2208 - Working-capital funds"
 usc_title: 10
 usc_section: "2208"
 chapter: 131
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2208"
-generated_at: "2026-03-30T08:55:17.694Z"
+generated_at: "2026-03-30T08:58:17.459Z"
 status: "active"
 ---
 
@@ -88,7 +88,9 @@ status: "active"
   - **(1)** From amounts available for Working Capital Fund, Defense, the Secretary shall reserve up to $1,000,000,000, to remain available without fiscal year limitation, for petroleum market price fluctuations. Such amounts may only be disbursed if the Secretary determines such a disbursement is necessary to absorb volatile market changes in fuel prices without affecting the standard price charged for fuel.
   - **(2)** A budget request for the anticipated costs of fuel may not take into account the availability of funds reserved under paragraph (1).
 - **(u)**
-  - **(1)** The Secretary of a military department may use a working capital fund of the department under this section to carry out an unspecified minor military construction project under section 2805 for the revitalization and recapitalization of a defense industrial base facility owned by the United States and under the jurisdiction of the Secretary.
-  - **(2)** Section 2805 shall apply with respect to a project carried out with a working capital fund under the authority of this subsection in the same manner as such section applies to any unspecified minor military construction project under section 2805.
+  - **(1)** The Secretary of a military department may use a working capital fund of the department under this section to fund an unspecified minor military construction project under section 2805 of this title for the revitalization and recapitalization of a defense industrial base facility owned by the United States and under the jurisdiction of the Secretary.
+  - **(2)**
+    - **(A)** Except as provided in subparagraph (B), section 2805 of this title shall apply with respect to a project funded using a working capital fund under the authority of this subsection in the same manner as such section applies to any unspecified minor military construction project under section 2805 of this title .
+    - **(B)** For purposes of applying subparagraph (A), the dollar limitation specified in subsection (a)(2) of section 2805 of this title , subject to adjustment as provided in subsection (f) of such section, shall apply rather than the dollar limitation specified in subsection (c) of such section.
   - **(3)** In this subsection, the term “defense industrial base facility” means any Department of Defense depot, arsenal, shipyard, or plant located within the United States.
-  - **(4)** The authority to use a working capital fund to carry out a project under the authority of this subsection expires on September 30, 2023 .
+  - **(4)** The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2023 .

@@ -3,9 +3,9 @@ title: "Section 333 - Penalties"
 usc_title: 21
 usc_section: "333"
 chapter: 9
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "21 U.S.C. § 333"
-generated_at: "2026-03-30T08:56:24.199Z"
+generated_at: "2026-03-30T08:59:06.233Z"
 status: "active"
 ---
 
@@ -69,7 +69,7 @@ status: "active"
   - **(7)** If any person fails to pay an assessment of a civil penalty—
     - **(A)** after the order making the assessment becomes final, and if such person does not file a petition for judicial review of the order in accordance with paragraph (6), or
     - **(B)** after a court in an action brought under paragraph (6) has entered a final judgment in favor of the Secretary,
-  - **(8)** If the Secretary finds that a person has committed repeated violations of restrictions promulgated under section 387f(d) of this title at a particular retail outlet then the Secretary may impose a no-tobacco-sale order on that person prohibiting the sale of tobacco products in that outlet. A no-tobacco-sale order may be imposed with a civil penalty under paragraph (1). Prior to the entry of a no-sale order under this paragraph, a person shall be entitled to a hearing pursuant to the procedures established through regulations of the Food and Drug Administration for assessing civil money penalties, including at a retailer’s request a hearing by telephone, or at the nearest regional or field office of the Food and Drug Administration, or at a Federal, State, or county facility within 100 miles from the location of the retail outlet, if such a facility is available.
+  - **(8)** If the Secretary finds that a person has committed repeated violations of section 387f(d)(5) of this title or of restrictions promulgated under section 387f(d) of this title at a particular retail outlet then the Secretary may impose a no-tobacco-sale order on that person prohibiting the sale of tobacco products in that outlet. A no-tobacco-sale order may be imposed with a civil penalty under paragraph (1). Prior to the entry of a no-sale order under this paragraph, a person shall be entitled to a hearing pursuant to the procedures established through regulations of the Food and Drug Administration for assessing civil money penalties, including at a retailer’s request a hearing by telephone, or at the nearest regional or field office of the Food and Drug Administration, or at a Federal, State, or county facility within 100 miles from the location of the retail outlet, if such a facility is available.
   - **(9)**
     - **(A)** Subject to subparagraph (B), any person who violates a requirement of this chapter which relates to tobacco products shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding.
     - **(B)**

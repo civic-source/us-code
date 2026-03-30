@@ -3,9 +3,9 @@ title: "Section 7112 - Payments to States and counties"
 usc_title: 16
 usc_section: "7112"
 chapter: 90
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 7112"
-generated_at: "2026-03-30T08:56:05.568Z"
+generated_at: "2026-03-30T08:58:41.778Z"
 status: "active"
 ---
 
@@ -23,10 +23,10 @@ status: "active"
     - **(A)** The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2013 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
     - **(B)** If an election for an affected county is not transmitted to the Secretary concerned by the date specified under subparagraph (A), the affected county shall be considered to have elected to receive a share of the State payment, the county payment, or a share of the State payment and the county payment, as applicable.
     - **(C)** The election otherwise required by subparagraph (A) shall not apply for fiscal year 2014 or 2015.
-    - **(D)** The election otherwise required by subparagraph (A) shall not apply for fiscal years 2017 or 2018.
+    - **(D)** The election otherwise required by subparagraph (A) shall not apply for each of fiscal years 2017 through 2020.
   - **(2)**
-    - **(A)** A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015 and for fiscal years 2017 and 2018.
-    - **(B)** If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2015 and for fiscal years 2017 and 2018.
+    - **(A)** A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015 and for each of fiscal years 2017 through 2020.
+    - **(B)** If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2015 and for each of fiscal years 2017 through 2020.
   - **(3)** The payment to an eligible State or eligible county under this section for a fiscal year shall be derived from—
     - **(A)** any amounts that are appropriated to carry out this chapter;
     - **(B)** any revenues, fees, penalties, or miscellaneous receipts, exclusive of deposits to any relevant trust fund, special account, or permanent operating funds, received by the Federal Government from activities by the Bureau of Land Management or the Forest Service on the applicable Federal land; and
@@ -49,7 +49,7 @@ status: "active"
       - **(iii)** Return the portion of the balance not reserved under clauses (i) and (ii) to the Treasury of the United States.
     - **(D)** In the case of each eligible county to which less than $100,000 is distributed for any fiscal year pursuant to either or both of paragraphs (1)(B) and (2)(B) of subsection (a), the eligible county may elect to expend all the funds in the same manner in which the 25-percent payments or 50-percent payments, as applicable, are required to be expended.
     - **(E)** The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for fiscal years 2014 and 2015.
-    - **(F)** The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for fiscal years 2017 and 2018.
+    - **(F)** The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for each of fiscal years 2017 through 2020.
   - **(2)**
     - **(A)** Funds reserved by an eligible county under subparagraph (B)(i) or (C)(i) of paragraph (1) for carrying out projects under subchapter II shall be deposited in a special account in the Treasury of the United States.
     - **(B)** Amounts deposited under subparagraph (A) shall—
@@ -61,7 +61,7 @@ status: "active"
       - **(i)** the eligible county shall be considered to have elected to expend 80 percent of the funds in accordance with paragraph (1)(A); and
       - **(ii)** the remainder shall be available to the Secretary concerned to carry out projects in the eligible county to further the purposes described in section 7122(b) of this title , section 7123(c) of this title , or section 7124(a)(5) of this title .
     - **(C)** This paragraph does not apply for fiscal years 2014 and 2015.
-    - **(D)** This paragraph does not apply for fiscal years 2017 and 2018.
+    - **(D)** This paragraph does not apply for each of fiscal years 2017 through 2020.
 - **(e)** The payments required under this section for a fiscal year shall be made as soon as practicable after the end of that fiscal year.
 - **(f)**
   - **(1)** None of the funds made available to an eligible county under this chapter may be used in lieu of, or to otherwise offset, a State funding source for a local school, facility, or educational purpose.

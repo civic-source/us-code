@@ -3,9 +3,9 @@ title: "Section 130502 - Purposes"
 usc_title: 36
 usc_section: "130502"
 chapter: 1305
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "36 U.S.C. § 130502"
-generated_at: "2026-03-30T08:56:58.047Z"
+generated_at: "2026-03-30T08:59:26.470Z"
 status: "active"
 ---
 

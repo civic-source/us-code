@@ -3,9 +3,9 @@ title: "Section 10534 - James Guelff and Chris McCurley Body Armor Act of 2002"
 usc_title: 34
 usc_section: "10534"
 chapter: 101
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "34 U.S.C. § 10534"
-generated_at: "2026-03-30T08:56:51.149Z"
+generated_at: "2026-03-30T08:59:24.353Z"
 status: "active"
 ---
 

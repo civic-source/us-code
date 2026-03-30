@@ -3,9 +3,9 @@ title: "Section 1f - Prevention of falls among older adults"
 usc_title: 42
 usc_section: "1f"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 1f"
-generated_at: "2026-03-30T08:57:32.080Z"
+generated_at: "2026-03-30T08:59:46.599Z"
 status: "active"
 ---
 

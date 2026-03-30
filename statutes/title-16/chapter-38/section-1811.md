@@ -3,9 +3,9 @@ title: "Section 1811 - United States sovereign rights to fish and fishery manage
 usc_title: 16
 usc_section: "1811"
 chapter: 38
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 1811"
-generated_at: "2026-03-30T08:56:05.513Z"
+generated_at: "2026-03-30T08:58:41.723Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 508 - Coast Guard health-care professionals; licensure portabili
 usc_title: 14
 usc_section: "508"
 chapter: 5
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "14 U.S.C. § 508"
-generated_at: "2026-03-30T08:55:30.666Z"
+generated_at: "2026-03-30T08:58:29.394Z"
 status: "active"
 ---
 

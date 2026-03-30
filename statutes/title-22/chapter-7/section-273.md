@@ -3,9 +3,9 @@ title: "Section 273 - Pan American Institute of Geography and History; authoriza
 usc_title: 22
 usc_section: "273"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 273"
-generated_at: "2026-03-30T08:56:22.172Z"
+generated_at: "2026-03-30T08:59:03.698Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 754a - Purchase of commissary and quartermaster supplies"
 usc_title: 33
 usc_section: "754a"
 chapter: 16
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 754a"
-generated_at: "2026-03-30T08:56:54.010Z"
+generated_at: "2026-03-30T08:59:20.770Z"
 status: "active"
 ---
 

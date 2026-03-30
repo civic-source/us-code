@@ -3,9 +3,9 @@ title: "Section 9202 - Definitions"
 usc_title: 22
 usc_section: "9202"
 chapter: 99
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 9202"
-generated_at: "2026-03-30T08:56:22.308Z"
+generated_at: "2026-03-30T08:59:03.919Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ In this chapter:
   - **(3)** The term “appropriate congressional committees” means—
     - **(A)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
     - **(B)** the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Ways and Means of the House of Representatives.
-  - **(4)** The term “designated person” means a person designated under subsection (a) or (b) of section 9214 of this title for purposes of applying 1 or more of the sanctions described in subchapter I or II with respect to the person.
+  - **(4)** The term “designated person” means a person designated under subsection (a), (b), or (g) of section 9214 of this title for purposes of applying 1 or more of the sanctions described in subchapter I or II with respect to the person.
   - **(5)** The term “foreign person” means—
     - **(A)** an individual who is not a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
     - **(B)** an entity that is not a United States person.

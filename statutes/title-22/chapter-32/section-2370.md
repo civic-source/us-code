@@ -3,9 +3,9 @@ title: "Section 2370 - Prohibitions against furnishing assistance"
 usc_title: 22
 usc_section: "2370"
 chapter: 32
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 2370"
-generated_at: "2026-03-30T08:56:22.219Z"
+generated_at: "2026-03-30T08:59:03.829Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
 - **(i)**
 - **(j)** The President shall consider terminating assistance under this chapter or any other Act to any country which permits, or fails to take adequate measures to prevent, the damage or destruction by mob action of United States property within such country, and fails to take appropriate measures to prevent a recurrence thereof and to provide adequate compensation for such damage or destruction.
 - **(k)** Without the express approval of Congress, no assistance shall be furnished under this chapter to any country for construction of any productive enterprise with respect to which the aggregate value of assistance to be furnished by the United States will exceed $100,000,000, except that this sentence does not apply with respect to assistance for construction of any productive enterprise in Egypt which is described in the presentation materials to Congress. Except as otherwise provided in section 2318 of this title , no military assistance shall be furnished to any country under this chapter for carrying out any program, with respect to which the aggregate value of assistance to be furnished beginning July 1, 1966 , by the United States will exceed $100,000,000 unless such program has been included in the presentation to the Congress during its consideration of authorizations for appropriations under this chapter or of appropriations pursuant to authorizations contained in this chapter. No provision of this chapter or any other Act shall be construed to authorize the President to waive the provisions of this subsection.
-- **(l)** The President shall consider denying assistance under this chapter to the government of any less developed country which, after December 31, 1966 , has failed to enter into an agreement with the President to institute the investment guaranty program under section 2194(a)(1) of this title , providing protection against the specific risks of inconvertibility under subparagraph (A), and expropriation or confiscation under subparagraph (B), of such section 2194(a)(1).
+- **(l)** The President shall consider denying assistance under this chapter to the government of any less developed country which, after December 31, 1966 , has failed to enter into an agreement with the President to institute the investment guaranty program under section 2194(a)(1) 2 2 See References in Text note below. of this title, providing protection against the specific risks of inconvertibility under subparagraph (A), and expropriation or confiscation under subparagraph (B), of such section 2194(a)(1). 2
 - **(m)**
 - **(n)**
 - **(o)** In determining whether or not to furnish assistance under this chapter, consideration shall be given to excluding from such assistance any country which hereafter seizes, or imposes any penalty or sanction against, any United States fishing vessel on account of its fishing activities in international waters. The provisions of this subsection shall not be applicable in any case governed by international agreement to which the United States is a party.

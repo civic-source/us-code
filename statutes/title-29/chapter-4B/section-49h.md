@@ -3,9 +3,9 @@ title: "Section 49h - Fiscal controls and accounting procedures"
 usc_title: 29
 usc_section: "49h"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "29 U.S.C. § 49h"
-generated_at: "2026-03-30T08:56:28.220Z"
+generated_at: "2026-03-30T08:59:17.601Z"
 status: "active"
 ---
 

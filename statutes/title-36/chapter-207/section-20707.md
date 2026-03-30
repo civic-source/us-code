@@ -3,9 +3,9 @@ title: "Section 20707 - Restrictions"
 usc_title: 36
 usc_section: "20707"
 chapter: 207
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "36 U.S.C. § 20707"
-generated_at: "2026-03-30T08:56:58.040Z"
+generated_at: "2026-03-30T08:59:26.461Z"
 status: "active"
 ---
 

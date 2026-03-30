@@ -1,15 +1,15 @@
 ---
-title: "Section 1 - Wildfire Technology Modernization"
+title: "Section 1 - Wildfire technology modernization"
 usc_title: 43
 usc_section: "1"
 chapter: 35
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T08:57:23.107Z"
+generated_at: "2026-03-30T08:59:31.478Z"
 status: "active"
 ---
 
-# § 1748b–1. Wildfire Technology Modernization
+# § 1748b–1. Wildfire technology modernization
 
 - **(a)** The purpose of this section is to promote the use of the best available technology to enhance the effective and cost-efficient response to wildfires—
   - **(1)** to meet applicable protection objectives; and

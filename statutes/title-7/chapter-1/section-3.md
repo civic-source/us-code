@@ -3,9 +3,9 @@ title: "Section 3 - Omitted"
 usc_title: 7
 usc_section: "3"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T08:55:28.435Z"
+generated_at: "2026-03-30T08:58:19.748Z"
 status: "omitted"
 ---
 

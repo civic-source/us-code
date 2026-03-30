@@ -3,9 +3,9 @@ title: "Section 1762 - Demonstration project relating to certain acquisition per
 usc_title: 10
 usc_section: "1762"
 chapter: 87
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1762"
-generated_at: "2026-03-30T08:55:17.687Z"
+generated_at: "2026-03-30T08:58:17.452Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
       - **(ii)** at least two-thirds of the workforce participating in the demonstration project consists of members of the acquisition workforce and supporting personnel assigned to work directly with the acquisition workforce; and
     - **(B)** the demonstration project commences before October 1, 2007 .
   - **(4)** The Secretary of Defense shall exercise the authorities granted to the Office of Personnel Management under section 4703 of title 5 for purposes of the demonstration project authorized under this section.
-- **(c)** The total number of persons who may participate in at 1 1 So in original. any one time the demonstration project under this section may not exceed 130,000.
+- **(c)** The total number of persons who may participate at any one time in the demonstration project under this section may not exceed 130,000.
 - **(d)** The applicability of paragraph (2) of subsection (b) to an organization or team shall not terminate by reason that the organization or team, after having satisfied the conditions in paragraph (3) of such subsection when it began to participate in a demonstration project under this section, ceases to meet one or both of the conditions set forth in subparagraph (A) of such paragraph (3) as a result of a reorganization, restructuring, realignment, consolidation, or other organizational change.
 - **(e)**
   - **(1)** The Secretary of Defense shall designate an independent organization to conduct two assessments of the acquisition workforce demonstration project described in subsection (a).

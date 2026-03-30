@@ -3,9 +3,9 @@ title: "Section 1059 - Dependents of members separated for dependent abuse: tran
 usc_title: 10
 usc_section: "1059"
 chapter: 53
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1059"
-generated_at: "2026-03-30T08:55:17.661Z"
+generated_at: "2026-03-30T08:58:17.425Z"
 status: "active"
 ---
 
@@ -60,6 +60,10 @@ status: "active"
   - **(2)** who is 18 years of age or older and is incapable of self-support because of a mental or physical incapacity that existed before the age of 18 and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support; or
   - **(3)** who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support.
 - **(m)**
-  - **(1)** The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the former member engaged in conduct that is a dependent-abuse offense under this section and the former member was separated from active duty other than as described in subsection (b).
-  - **(2)** In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (k), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
-  - **(3)** The authority of the Secretary concerned under paragraph (1) may not be delegated.
+  - **(1)** The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a member or former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the member or former member engaged in conduct that is a dependent-abuse offense under this section and the member or former member was separated from active duty other than as described in subsection (b).
+  - **(2)** In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the member or former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (k), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
+  - **(3)** For purposes of the provision of benefits under this section pursuant to this subsection, a member shall be considered separated from active duty upon the earliest of—
+    - **(A)** the date an administrative separation is initiated by a commander of the member;
+    - **(B)** the date the court-martial sentence is adjudged if the sentence, as adjudged, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; or
+    - **(C)** the date the member’s term of service expires.
+  - **(4)** The authority of the Secretary concerned under paragraph (1) may not be delegated.

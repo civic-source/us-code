@@ -3,9 +3,9 @@ title: "Section 3955 - Termination of residential or motor vehicle leases"
 usc_title: 50
 usc_section: "3955"
 chapter: 50
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 3955"
-generated_at: "2026-03-30T08:57:54.513Z"
+generated_at: "2026-03-30T08:59:52.858Z"
 status: "active"
 ---
 
@@ -16,7 +16,8 @@ status: "active"
     - **(A)** the lessee’s entry into military service; or
     - **(B)** the date of the lessee’s military orders described in paragraph (1)(B) or (2)(B) of subsection (b), as the case may be.
   - **(2)** A lessee’s termination of a lease pursuant to this subsection shall terminate any obligation a dependent of the lessee may have under the lease.
-  - **(3)** The spouse of the lessee on a lease described in subsection (b)(1) may terminate the lease during the one-year period beginning on the date of the death of the lessee, if the lessee dies while in military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10 ).
+  - **(3)** The spouse of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date of the death of the lessee, if the lessee dies while in military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10 ).
+  - **(4)** The spouse of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date on which the lessee incurs a catastrophic injury or illness (as that term is defined in section 439(g) of title 37 , if the lessee incurs the catastrophic injury or illness during a period of military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10 ).
 - **(b)** This section applies to the following leases:
   - **(1)** A lease of premises occupied, or intended to be occupied, by a servicemember or a servicemember’s dependents for a residential, professional, business, agricultural, or similar purpose if—
     - **(A)** the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service; or
@@ -46,5 +47,6 @@ status: "active"
 - **(g)** Upon application by the lessor to a court before the termination date provided in the written notice, relief granted by this section to a servicemember may be modified as justice and equity require.
 - **(h)** Any person who knowingly seizes, holds, or detains the personal effects, security deposit, or other property of a servicemember or a servicemember’s dependent who lawfully terminates a lease covered by this section, or who knowingly interferes with the removal of such property from premises covered by such lease, for the purpose of subjecting or attempting to subject any of such property to a claim for rent accruing subsequent to the date of termination of such lease, or attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 - **(i)**
-  - **(1)** The term “military orders”, with respect to a servicemember, means official military orders, or any notification, certification, or verification from the servicemember’s commanding officer, with respect to the servicemember’s current or future military duty status.
+  - **(1)** The term “military orders”, with respect to a servicemember, means official military orders (including orders for separation or retirement), or any notification, certification, or verification from the servicemember’s commanding officer, with respect to the servicemember’s current or future military duty status.
   - **(2)** The term “continental United States” means the 48 contiguous States and the District of Columbia.
+  - **(3)** The term “permanent change of station” includes separation or retirement from military service.

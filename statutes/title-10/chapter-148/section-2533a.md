@@ -3,9 +3,9 @@ title: "Section 2533a - Requirement to buy certain articles from American source
 usc_title: 10
 usc_section: "2533a"
 chapter: 148
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2533a"
-generated_at: "2026-03-30T08:55:17.716Z"
+generated_at: "2026-03-30T08:58:17.482Z"
 status: "active"
 ---
 
@@ -20,6 +20,8 @@ status: "active"
     - **(D)** cotton and other natural fiber products, woven silk or woven silk blends, spun silk yarn for cartridge cloth, synthetic fabric or coated synthetic fabric (including all textile fibers and yarns that are for use in such fabrics), canvas products, or wool (whether in the form of fiber or yarn or contained in fabrics, materials, or manufactured articles); or
     - **(E)** any item of individual equipment manufactured from or containing such fibers, yarns, fabrics, or materials.
   - **(2)** Hand or measuring tools.
+  - **(3)** Stainless steel flatware.
+  - **(4)** Dinnerware.
 - **(c)** Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
 - **(d)** Subsection (a) does not apply to the following:
   - **(1)** Procurements outside the United States in support of combat operations or procurements of any item listed in subsection (b)(1)(A) or (b)(2) in support of contingency operations.

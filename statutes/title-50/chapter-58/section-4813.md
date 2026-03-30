@@ -3,9 +3,9 @@ title: "Section 4813 - Additional authorities"
 usc_title: 50
 usc_section: "4813"
 chapter: 58
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 4813"
-generated_at: "2026-03-30T08:57:54.526Z"
+generated_at: "2026-03-30T08:59:52.872Z"
 status: "active"
 ---
 

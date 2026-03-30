@@ -3,9 +3,9 @@ title: "Section 70914 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "70914"
 chapter: 709
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "36 U.S.C. § 70914"
-generated_at: "2026-03-30T08:56:58.045Z"
+generated_at: "2026-03-30T08:59:26.467Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1067i - Cross program and cross agency cooperation"
 usc_title: 20
 usc_section: "1067i"
 chapter: 28
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "20 U.S.C. § 1067i"
-generated_at: "2026-03-30T08:56:07.121Z"
+generated_at: "2026-03-30T08:58:44.615Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4975 - Tax on prohibited transactions"
 usc_title: 26
 usc_section: "4975"
 chapter: 43
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 4975"
-generated_at: "2026-03-30T08:56:41.462Z"
+generated_at: "2026-03-30T08:59:14.461Z"
 status: "active"
 ---
 
@@ -29,6 +29,7 @@ status: "active"
   - **(4)** An individual for whose benefit an Archer MSA (within the meaning of section 220(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 220(e)(2) applies to such transaction.
   - **(5)** An individual for whose benefit a Coverdell education savings account is established and any contributor to such account shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 530(d) applies with respect to such transaction.
   - **(6)** An individual for whose benefit a health savings account (within the meaning of section 223(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a health savings account by reason of the application of section 223(e)(2) to such account.
+  - **(7)** Any party to an arrangement which satisfies the requirements of section 408(h) of the Employee Retirement Income Security Act of 1974 shall be exempt from the tax imposed by this section with respect to such arrangement.
 - **(d)** Except as provided in subsection (f)(6), the prohibitions provided in subsection (c) shall not apply to—
   - **(1)** any loan made by the plan to a disqualified person who is a participant or beneficiary of the plan if such loan—
     - **(A)** is available to all such participants or beneficiaries on a reasonably equivalent basis,

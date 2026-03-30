@@ -3,9 +3,9 @@ title: "Section 3136 - Regulations"
 usc_title: 5
 usc_section: "3136"
 chapter: 31
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "5 U.S.C. § 3136"
-generated_at: "2026-03-30T08:54:55.085Z"
+generated_at: "2026-03-30T08:58:09.199Z"
 status: "active"
 ---
 

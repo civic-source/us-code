@@ -3,9 +3,9 @@ title: "Section 511 - Joint development of unitary plan for construction of faci
 usc_title: 50
 usc_section: "511"
 chapter: 20
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 511"
-generated_at: "2026-03-30T08:57:54.469Z"
+generated_at: "2026-03-30T08:59:52.809Z"
 status: "active"
 ---
 

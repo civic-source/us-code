@@ -3,16 +3,16 @@ title: "Section 2307 - Contract financing"
 usc_title: 10
 usc_section: "2307"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2307"
-generated_at: "2026-03-30T08:55:17.701Z"
+generated_at: "2026-03-30T08:58:17.465Z"
 status: "active"
 ---
 
 # § 2307. Contract financing
 
 - **(a)**
-  - **(1)** The head of any agency may 1 1 So in original.
+  - **(1)** The head of any agency may—
     - **(A)** make advance, partial, progress, or other payments under contracts for property or services made by the agency; and
     - **(B)** insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
   - **(2)**
@@ -37,8 +37,8 @@ status: "active"
   - **(2)** The Secretary shall ensure that progress payments referred to in paragraph (1) are not made for more than 80 percent of the work accomplished under a defense contract so long as the Secretary has not made the contractual terms, specifications, and price definite.
   - **(3)** This subsection applies to any contract in an amount greater than $25,000.
 - **(f)**
-  - **(1)** Payments under subsection (a) for commercial items may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
-  - **(2)** Advance payments made under subsection (a) for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
+  - **(1)** Payments under subsection (a) for commercial products and commercial services may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
+  - **(2)** Advance payments made under subsection (a) for commercial products and commercial services may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
   - **(3)** The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency, with commercial terms and conditions pursuant to paragraphs (1) and (2).
 - **(g)**
   - **(1)** The Secretary of the Navy shall provide that the rate for progress payments on any contract awarded by the Secretary for repair, maintenance, or overhaul of a naval vessel shall be not less than—

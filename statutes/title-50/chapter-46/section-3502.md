@@ -3,9 +3,9 @@ title: "Section 3502 - Seal of office"
 usc_title: 50
 usc_section: "3502"
 chapter: 46
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 3502"
-generated_at: "2026-03-30T08:57:54.506Z"
+generated_at: "2026-03-30T08:59:52.851Z"
 status: "active"
 ---
 

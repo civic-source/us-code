@@ -3,9 +3,9 @@ title: "Section 108 - Nevada"
 usc_title: 28
 usc_section: "108"
 chapter: 5
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "28 U.S.C. § 108"
-generated_at: "2026-03-30T08:56:33.723Z"
+generated_at: "2026-03-30T08:59:09.355Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 53106 - Payments"
 usc_title: 46
 usc_section: "53106"
 chapter: 531
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "46 U.S.C. § 53106"
-generated_at: "2026-03-30T08:57:51.927Z"
+generated_at: "2026-03-30T08:59:50.950Z"
 status: "active"
 ---
 
@@ -14,8 +14,11 @@ status: "active"
 - **(a)**
   - **(1)** The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
     - **(A)** $5,000,000 for each of fiscal years 2018, 2019, and 2020;
-    - **(B)** $5,233,463 for fiscal year 2021; and
-    - **(C)** $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
+    - **(B)** $5,233,463 for fiscal year 2021;
+    - **(C)** $5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;
+    - **(D)** $5,800,000 for each of fiscal years 2026, 2027, and 2028;
+    - **(E)** $6,300,000 for each of fiscal years 2029, 2030, and 2031; and
+    - **(F)** $6,800,000 for each of fiscal years 2032, 2033, 2034, and 2035.
   - **(2)** The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
 - **(b)** As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 - **(c)** The Secretary of Transportation shall not make any payment under this chapter for a vessel with respect to any days for which the vessel is—

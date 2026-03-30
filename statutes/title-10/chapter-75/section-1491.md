@@ -3,9 +3,9 @@ title: "Section 1491 - Funeral honors functions at funerals for veterans"
 usc_title: 10
 usc_section: "1491"
 chapter: 75
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1491"
-generated_at: "2026-03-30T08:55:17.680Z"
+generated_at: "2026-03-30T08:58:17.445Z"
 status: "active"
 ---
 
@@ -15,6 +15,10 @@ status: "active"
 - **(b)**
   - **(1)** The Secretary of each military department shall ensure that a funeral honors detail for the funeral of a veteran consists of two or more persons.
   - **(2)** At least two members of the funeral honors detail for a veteran’s funeral shall be members of the armed forces (other than members in a retired status), at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail may consist of members of the armed forces (including members in a retired status), or members of veterans organizations or other organizations approved for purposes of this section under regulations prescribed by the Secretary of Defense. Each member of the armed forces in the detail shall wear the uniform of the member’s armed force while serving in the detail.
+  - **(3)** The Secretary concerned shall provide full military honors (as determined by the Secretary concerned) for the funeral of a veteran who—
+    - **(A)** is first interred or first inurned in Arlington National Cemetery on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020;
+    - **(B)** was awarded the medal of honor or the prisoner-of-war medal; and
+    - **(C)** is not entitled to full military honors by the grade of that veteran.
 - **(c)** A funeral honors detail shall, at a minimum, perform at the funeral a ceremony that includes the folding of a United States flag and presentation of the flag to the veteran’s family and the playing of Taps. Unless a bugler is a member of the detail, the funeral honors detail shall play a recorded version of Taps using audio equipment which the detail shall provide if adequate audio equipment is not otherwise available for use at the funeral.
 - **(d)**
   - **(1)** To support a funeral honors detail under this section, the Secretary of a military department may provide the following:

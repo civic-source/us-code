@@ -3,9 +3,9 @@ title: "Section 914 - Omitted"
 usc_title: 43
 usc_section: "914"
 chapter: 21
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 914"
-generated_at: "2026-03-30T08:57:23.085Z"
+generated_at: "2026-03-30T08:59:31.457Z"
 status: "omitted"
 ---
 

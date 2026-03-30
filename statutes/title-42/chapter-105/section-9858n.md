@@ -3,9 +3,9 @@ title: "Section 9858n - Definitions"
 usc_title: 42
 usc_section: "9858n"
 chapter: 105
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 9858n"
-generated_at: "2026-03-30T08:57:32.598Z"
+generated_at: "2026-03-30T08:59:47.140Z"
 status: "active"
 ---
 

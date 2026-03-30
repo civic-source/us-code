@@ -3,9 +3,9 @@ title: "Section 55 - Alternative minimum tax imposed"
 usc_title: 26
 usc_section: "55"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 55"
-generated_at: "2026-03-30T08:56:41.315Z"
+generated_at: "2026-03-30T08:59:14.301Z"
 status: "active"
 ---
 
@@ -67,11 +67,12 @@ status: "active"
     - **(A)** In the case of any taxable year beginning after December 31, 2017 , and before January 1, 2026 —
       - **(i)** paragraph (1) shall be applied—
         - **(I)** by substituting “$109,400” for “$78,750” in subparagraph (A), and
-        - **(II)** by substituting “$70,300” for “$50,600” in subparagraph (B), and
+        - **(II)** by substituting “$70,300” for “$50,600” in subparagraph (B),
       - **(ii)** paragraph (2) shall be applied—
         - **(I)** by substituting “$1,000,000” for “$150,000” in subparagraph (A),
         - **(II)** by substituting “50 percent of the dollar amount applicable under subparagraph (A)” for “$112,500” in subparagraph (B), and
-        - **(III)** in the case of a taxpayer described in paragraph (1)(D), without regard to the substitution under subclause (I).
+        - **(III)** in the case of a taxpayer described in paragraph (1)(D), without regard to the substitution under subclause (I), and
+      - **(iii)** subsection (j) of section 59 shall not apply.
     - **(B)**
       - **(i)** In the case of any taxable year beginning in a calendar year after 2018, the amounts described in clause (ii) shall each be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by

@@ -3,9 +3,9 @@ title: "Section 822 - Direct loans and loan guarantees"
 usc_title: 45
 usc_section: "822"
 chapter: 17
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "45 U.S.C. § 822"
-generated_at: "2026-03-30T08:57:17.995Z"
+generated_at: "2026-03-30T08:59:30.901Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
       - **(iii)** has a high probability of the applicant commencing the contracting process for construction not later than 90 days after the date on which the direct loan or loan guarantee is obligated for the project under this subchapter; and
       - **(iv)** has a high probability of reducing the need for financial assistance under any other Federal program for the relevant passenger rail station or service by increasing ridership, tenant lease payments, or other activities that generate revenue exceeding costs.
   - **(2)** Direct loans and loan guarantees under this section shall not be used for railroad operating expenses.
-  - **(3)** The Secretary may provide a direct loan or loan guarantee under this section for a project described in paragraph (1)(E) only during the 4-year period beginning on December 4, 2015 .
+  - **(3)** The Secretary may provide a direct loan or loan guarantee under this section for a project described in paragraph (1)(E) until September 30, 2020 .
 - **(c)** In granting applications for direct loans or guaranteed loans under this section, the Secretary shall give priority to projects that—
   - **(1)** enhance public safety, including projects for the installation of a positive train control system (as defined in section 20157(i) of title 49 );
   - **(2)** promote economic development;

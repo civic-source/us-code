@@ -3,23 +3,26 @@ title: "Section 127e - Support of special operations to combat terrorism"
 usc_title: 10
 usc_section: "127e"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 127e"
-generated_at: "2026-03-30T08:55:17.618Z"
+generated_at: "2026-03-30T08:58:17.388Z"
 status: "active"
 ---
 
 # § 127e. Support of special operations to combat terrorism
 
-- **(a)** The Secretary of Defense may, with the concurrence of the relevant Chief of Mission, expend up to $100,000,000 during any fiscal year to provide support to foreign forces, irregular forces, groups, or individuals engaged in supporting or facilitating ongoing military operations by United States special operations forces to combat terrorism.
+- **(a)** The Secretary of Defense may, with the concurrence of the relevant Chief of Mission, expend up to $100,000,000 during any fiscal year to provide support to foreign forces, irregular forces, groups, or individuals engaged in supporting or facilitating authorized ongoing military operations by United States special operations forces to combat terrorism.
 - **(b)** Funds for support under this section in a fiscal year shall be derived from amounts authorized to be appropriated for that fiscal year for the Department of Defense for operation and maintenance.
 - **(c)** The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section. The Secretary shall notify the congressional defense committees of any material modification of such procedures.
 - **(d)**
   - **(1)** Not later than 15 days before exercising the authority in this section to make funds available to initiate support of an approved military operation or changing the scope or funding level of any support for such an operation by $1,000,000 or an amount equal to 20 percent of such funding level (whichever is less), or not later than 48 hours after exercising such authority if the Secretary determines that extraordinary circumstances that impact the national security of the United States exist, the Secretary shall notify the congressional defense committees of the use of such authority with respect to that operation. Any such notification shall be in writing.
   - **(2)** A notification required by this subsection shall include the following:
-    - **(A)** The type of support provided or to be provided to United States special operations forces.
-    - **(B)** The type of support provided or to be provided to the recipient of the funds.
-    - **(C)** The amount obligated under the authority to provide support.
+    - **(A)** The type of support provided or to be provided to United States special operations forces and a description of the authorized ongoing operation.
+    - **(B)** A description of the foreign forces, irregular forces, groups, or individuals engaged in supporting or facilitating the authorized ongoing operation who will receive support provided under this section.
+    - **(C)** A detailed description of the support provided or to be provided to the recipient.
+    - **(D)** The amount obligated under the authority to provide support.
+    - **(E)** A detailed description of the legal and operational authorities related to the authorized ongoing operation, including relevant execute orders issued by the Secretary of Defense and combatant commanders related to the authorized ongoing operation, including an identification of operational activities United States Special Operations Forces are authorized to conduct under such execute orders.
+    - **(F)** The duration for which the support is expected to be provided and an identification of the timeframe in which the provision of support will be reviewed by the combatant commander for a determination regarding the necessity of continuation of support.
 - **(e)** The authority of the Secretary to make funds available under this section for support of a military operation may not be delegated.
 - **(f)** This section does not constitute authority to conduct a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 ( 50 U.S.C. 3093(e) ).
 - **(g)** The Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs for support authorized by this section.

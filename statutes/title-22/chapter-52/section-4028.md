@@ -3,9 +3,9 @@ title: "Section 4028 - Training for Foreign Service officers"
 usc_title: 22
 usc_section: "4028"
 chapter: 52
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 4028"
-generated_at: "2026-03-30T08:56:22.252Z"
+generated_at: "2026-03-30T08:59:03.863Z"
 status: "active"
 ---
 
@@ -31,3 +31,4 @@ status: "active"
       - **(v)** efforts to counter violent religious extremism.
 - **(b)** The Secretary of State shall provide sessions on refugee law and adjudications and on religious persecution to each individual seeking a commission as a United States consular officer. The Secretary shall also ensure that any member of the Service who is assigned to a position that may be called upon to assess requests for consideration for refugee admissions, including any consular officer, has completed training on refugee law and refugee adjudications in addition to the training required in this section.
 - **(c)** The Secretary of State, with the assistance of other relevant officials, shall establish as part of the standard training provided for chiefs of mission, deputy chiefs of mission, and other officers of the Service who are or will be involved in the assessment of child soldier use or the drafting of the annual Human Rights Report instruction on matters related to child soldiers, and the substance of the Child Soldiers Prevention Act of 2008.
+- **(d)** The Secretary of State, with the assistance of other relevant officials and the private sector, shall establish as part of the standard training provided for economic and commercial officers of the Foreign Service, chiefs of mission, and deputy chiefs of mission, training on matters related to economic and commercial diplomacy, with particular attention to market access and other elements of an enabling framework for United States businesses, commercial advocacy, and United States foreign economic policy, in addition to awareness about the support of the United States Government available to United States businesses, including support provided by the Department of Agriculture, the Department of Commerce, the Export-Import Bank of the United States, the Millennium Challenge Corporation, the Trade and Development Agency, the Department of the Treasury, the United States Agency for International Development, and the United States International Development Finance Corporation.

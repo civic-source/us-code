@@ -3,9 +3,9 @@ title: "Section 3113 - Economic activity coordination"
 usc_title: 15
 usc_section: "3113"
 chapter: 58
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 3113"
-generated_at: "2026-03-30T08:55:58.056Z"
+generated_at: "2026-03-30T08:58:33.100Z"
 status: "active"
 ---
 

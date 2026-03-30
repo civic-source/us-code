@@ -3,9 +3,9 @@ title: "Section 2304a - Task and delivery order contracts: general authority"
 usc_title: 10
 usc_section: "2304a"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2304a"
-generated_at: "2026-03-30T08:55:17.699Z"
+generated_at: "2026-03-30T08:58:17.463Z"
 status: "active"
 ---
 
@@ -22,13 +22,15 @@ status: "active"
     - **(A)** to award a single task or delivery order contract; or
     - **(B)** if the solicitation states that the head of the agency has the option to do so, to award separate task or delivery order contracts for the same or similar services or property to two or more sources.
   - **(2)** No determination under section 2304(b) of this title is required for award of multiple task or delivery order contracts under paragraph (1)(B).
-  - **(3)** No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the agency determines in writing that—
-    - **(A)** the task or delivery orders expected under the contract are so integrally related that only a single source can efficiently perform the work;
-    - **(B)** the contract provides only for firm, fixed price task orders or delivery orders for—
-      - **(i)** products for which unit prices are established in the contract; or
-      - **(ii)** services for which prices are established in the contract for the specific tasks to be performed;
-    - **(C)** only one source is qualified and capable of performing the work at a reasonable price to the government; or
-    - **(D)** because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
+  - **(3)**
+    - **(A)** Except as provided under subparagraph (B), no task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the agency determines in writing that—
+      - **(i)** the task or delivery orders expected under the contract are so integrally related that only a single source can efficiently perform the work;
+      - **(ii)** the contract provides only for firm, fixed price task orders or delivery orders for—
+        - **(I)** products for which unit prices are established in the contract; or
+        - **(II)** services for which prices are established in the contract for the specific tasks to be performed;
+      - **(iii)** only one source is qualified and capable of performing the work at a reasonable price to the government; or
+      - **(iv)** because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
+    - **(B)** A task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source without the written determination otherwise required under subparagraph (A) if the head of the agency has made a written determination pursuant to section 2304(c) of this title that procedures other than competitive procedures may be used for the awarding of such contract.
   - **(4)** The regulations implementing this subsection shall—
     - **(A)** establish a preference for awarding, to the maximum extent practicable, multiple task or delivery order contracts for the same or similar services or property under the authority of paragraph (1)(B); and
     - **(B)** establish criteria for determining when award of multiple task or delivery order contracts would not be in the best interest of the Federal Government.

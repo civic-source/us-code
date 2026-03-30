@@ -3,9 +3,9 @@ title: "Section 2786 - Enhanced procurement authority to manage supply chain ris
 usc_title: 50
 usc_section: "2786"
 chapter: 42
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2786"
-generated_at: "2026-03-30T08:57:54.493Z"
+generated_at: "2026-03-30T08:59:52.834Z"
 status: "active"
 ---
 
@@ -29,16 +29,7 @@ status: "active"
   - **(2)** notify other Federal agencies responsible for procurement that may be subject to the same or similar supply chain risk, in a manner and to the extent consistent with the requirements of national security; and
   - **(3)** ensure the confidentiality of any notifications under paragraph (1) or (2).
 - **(d)** No action taken by the Secretary under the authority under subsection (a) shall be subject to review in any Federal court.
-- **(e)** Not later than one year after the effective date specified in subsection (g)(1), and annually for four years thereafter, the Comptroller General of the United States shall—
-  - **(1)** review the authority provided under subsection (a), including—
-    - **(A)** the adequacy of resources, such as trained personnel, to effectively exercise that authority during the four-year period beginning on that effective date; and
-    - **(B)** the sufficiency of determinations under subsection (b)(2);
-  - **(2)** review the thoroughness of the process and systems utilized by the Office of the Chief Information Officer and the Office of Intelligence and Counterintelligence of the Department of Energy to reasonably detect supply chain threats to the national security functions of the Department; and
-  - **(3)** submit to the appropriate congressional committees a report that includes—
-    - **(A)** the results of the reviews conducted under paragraphs (1) and (2);
-    - **(B)** any recommendations of the Comptroller General for improving the process and systems described in paragraph (2); and
-    - **(C)** a description of the status of the implementation of recommendations, if any, with respect to that process and such systems made by the Comptroller General in previous years.
-- **(f)** In this section:
+- **(e)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional defense committees; and
     - **(B)** the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
@@ -60,4 +51,4 @@ status: "active"
     - **(D)** Items associated with the surveillance of the nuclear weapon stockpile.
     - **(E)** Items associated with the design and development of nonproliferation and counterproliferation programs and systems.
   - **(6)** The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
-- **(g)** The authority under this section shall terminate on June 30, 2023 .
+- **(f)** The authority under this section shall terminate on June 30, 2023 .

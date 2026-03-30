@@ -3,9 +3,9 @@ title: "Section 5353 - Information collection and dissemination with respect to 
 usc_title: 31
 usc_section: "5353"
 chapter: 53
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "31 U.S.C. § 5353"
-generated_at: "2026-03-30T08:56:52.861Z"
+generated_at: "2026-03-30T08:59:22.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 897 - Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "897"
 chapter: 14
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 897"
-generated_at: "2026-03-30T08:56:18.361Z"
+generated_at: "2026-03-30T08:59:00.900Z"
 status: "repealed"
 ---
 

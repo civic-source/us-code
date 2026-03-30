@@ -3,9 +3,9 @@ title: "Section 9843 - Technical assistance and training"
 usc_title: 42
 usc_section: "9843"
 chapter: 105
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 9843"
-generated_at: "2026-03-30T08:57:32.594Z"
+generated_at: "2026-03-30T08:59:47.134Z"
 status: "active"
 ---
 

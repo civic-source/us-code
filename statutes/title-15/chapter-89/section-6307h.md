@@ -3,9 +3,9 @@ title: "Section 6307h - Judges and referees"
 usc_title: 15
 usc_section: "6307h"
 chapter: 89
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 6307h"
-generated_at: "2026-03-30T08:55:58.075Z"
+generated_at: "2026-03-30T08:58:33.119Z"
 status: "active"
 ---
 

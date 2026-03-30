@@ -3,9 +3,9 @@ title: "Section 1806 - Immigration and transition"
 usc_title: 48
 usc_section: "1806"
 chapter: 17
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "48 U.S.C. § 1806"
-generated_at: "2026-03-30T08:57:35.589Z"
+generated_at: "2026-03-30T08:59:51.290Z"
 status: "active"
 ---
 
@@ -99,6 +99,12 @@ status: "active"
         - **(I)** A permit may not be approved for a prospective employer that is not a legitimate business.
         - **(II)** In this clause, the term “legitimate business” means a real, active, and operating commercial or entrepreneurial undertaking that the Secretary, in the Secretary’s sole discretion, determines—
       - **(v)** A permit for Construction and Extraction Occupations (as defined by the Department of Labor as Standard Occupational Classification Group 47–0000) may not be issued for any worker other than a worker described in paragraph (7)(B).
+    - **(E)**
+      - **(i)** Notwithstanding any numerical cap set forth in subparagraph (B) for each of fiscal years 2020, 2021, and 2022, the Secretary of Homeland Security shall increase by 3,000, for each such fiscal year, the total number of permits available under this subsection for Construction and Extraction Occupations (as defined by the Department of Labor as Standard Occupational Classification Group 47–0000).
+      - **(ii)** The Secretary may only issue a permit made available under clause (i) to a prospective employer if the permit is for an alien who—
+        - **(I)** is a national of a country designated eligible to participate in the program under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(b) ) during calendar year 2018; and
+        - **(II)** is performing service or labor pursuant to a contract or subcontract for construction, repairs, renovations, or facility services directly connected to, or associated with recovery from a presidentially declared major disaster or emergency (as those terms are defined in section 5122 of title 42 ), or for preparation for a future disaster or emergency.
+      - **(iii)** Subparagraph (D)(v) shall not apply to a permit made available under clause (i) for any fiscal year described in such clause.
   - **(4)** The Secretary of Homeland Security shall set the conditions for admission of such an alien under the transition program, and the Secretary of State shall authorize the issuance of nonimmigrant visas for such an alien. Such a visa shall not be valid for admission to the United States, as defined in section 101(a)(38) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(38) ), except admission to the Commonwealth or to Guam for the purpose of transit only. An alien admitted to the Commonwealth on the basis of such a visa shall be permitted to engage in employment only as authorized pursuant to the transition program.
   - **(5)** Such an alien shall be permitted to transfer between employers in the Commonwealth during the period of such alien’s authorized stay therein, without permission of the employee’s current or prior employer, within the alien’s occupational category or another occupational category the Secretary of Homeland Security has found requires alien workers to supplement the resident workforce. Approval of a petition filed by the new employer with a start date within the same fiscal year as the current permit shall not count against the numerical limitation for that period.
   - **(6)** The Secretary of Homeland Security may authorize the admission of a spouse or minor child accompanying or following to join a worker admitted pursuant to this subsection.

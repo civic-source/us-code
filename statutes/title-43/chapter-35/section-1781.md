@@ -3,9 +3,9 @@ title: "Section 1781 - California Desert Conservation Area"
 usc_title: 43
 usc_section: "1781"
 chapter: 35
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 1781"
-generated_at: "2026-03-30T08:57:23.109Z"
+generated_at: "2026-03-30T08:59:31.481Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1546a - Expedited procedures for certain joint resolutions and b
 usc_title: 50
 usc_section: "1546a"
 chapter: 33
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 1546a"
-generated_at: "2026-03-30T08:57:54.473Z"
+generated_at: "2026-03-30T08:59:52.812Z"
 status: "active"
 ---
 

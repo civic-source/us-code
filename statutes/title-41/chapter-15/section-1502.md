@@ -3,9 +3,9 @@ title: "Section 1502 - Cost accounting standards"
 usc_title: 41
 usc_section: "1502"
 chapter: 15
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "41 U.S.C. § 1502"
-generated_at: "2026-03-30T08:57:22.249Z"
+generated_at: "2026-03-30T08:59:30.593Z"
 status: "active"
 ---
 
@@ -16,10 +16,10 @@ status: "active"
   - **(2)** The Administrator, after consultation with the Board, shall prescribe rules and procedures governing actions of the Board under this chapter. The rules and procedures shall require that any action to prescribe, amend, or rescind a standard or interpretation be approved by majority vote of the Board.
 - **(b)**
   - **(1)**
-    - **(A)** In this paragraph, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+    - **(A)** In this paragraph, the term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
     - **(B)** Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in section 2306a(a)(1)(A)(i) of title 10 as the amount is adjusted in accordance with applicable requirements of law.
     - **(C)** Subparagraph (B) does not apply to—
-      - **(i)** a contract or subcontract for the acquisition of a commercial item;
+      - **(i)** a contract or subcontract for the acquisition of a commercial product or commercial service;
       - **(ii)** a contract or subcontract where the price negotiated is based on a price set by law or regulation;
       - **(iii)** a firm, fixed-price contract or subcontract awarded on the basis of adequate price competition without submission of certified cost or pricing data; or
       - **(iv)** a contract or subcontract with a value of less than $7,500,000 if, when the contract or subcontract is entered into, the segment of the contractor or subcontractor that will perform the work has not been awarded at least one contract or subcontract with a value of more than $7,500,000 that is covered by the standards.
@@ -28,7 +28,7 @@ status: "active"
     - **(B)** establish procedures for the waiver of the requirements of this chapter for individual contracts and subcontracts.
   - **(3)**
     - **(A)** The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $100,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
-      - **(i)** is primarily engaged in the sale of commercial items; and
+      - **(i)** is primarily engaged in the sale of commercial products or commercial services; and
       - **(ii)** would not otherwise be subject to the cost accounting standards under this section.
     - **(B)** The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract under exceptional circumstances when necessary to meet the needs of the agency. A determination to waive the applicability of the standards under this subparagraph shall be set forth in writing and shall include a statement of the circumstances justifying the waiver.
     - **(C)** The head of an executive agency may not delegate the authority under subparagraph (A) or (B) to an official in the executive agency below the senior policymaking level in the executive agency.

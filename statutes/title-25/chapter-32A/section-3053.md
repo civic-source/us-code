@@ -3,9 +3,9 @@ title: "Section 3053 - Reburial of human remains and cultural items"
 usc_title: 25
 usc_section: "3053"
 chapter: 32
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 3053"
-generated_at: "2026-03-30T08:56:18.392Z"
+generated_at: "2026-03-30T08:59:00.930Z"
 status: "active"
 ---
 

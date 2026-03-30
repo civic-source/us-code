@@ -3,9 +3,9 @@ title: "Section 1044 - Legal assistance"
 usc_title: 10
 usc_section: "1044"
 chapter: 53
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 1044"
-generated_at: "2026-03-30T08:55:17.659Z"
+generated_at: "2026-03-30T08:58:17.424Z"
 status: "active"
 ---
 
@@ -26,5 +26,5 @@ status: "active"
   - **(2)** Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State and, for purposes of service as a Special Victims’ Counsel under section 1044e of this title , satisfies the additional qualifications and training requirements specified in subsection (d) of such section.
   - **(3)** In this subsection, the term “military legal assistance” includes—
     - **(A)** legal assistance provided under this section; and
-    - **(B)** legal assistance contemplated by sections 1044a, 1044b, 1044c, 1044d, 1044e, and 1565b(a)(1)(A) of this title.
+    - **(B)** legal assistance contemplated by sections 1044a, 1044b, 1044c, 1044d, 1044e, 1565b(a)(1)(A), and 2894(b)(4) of this title.
 - **(e)** The Secretary concerned shall define “dependent” for the purposes of this section.

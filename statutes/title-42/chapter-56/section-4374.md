@@ -3,9 +3,9 @@ title: "Section 4374 - Authorization of appropriations"
 usc_title: 42
 usc_section: "4374"
 chapter: 56
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 4374"
-generated_at: "2026-03-30T08:57:32.451Z"
+generated_at: "2026-03-30T08:59:46.993Z"
 status: "active"
 ---
 

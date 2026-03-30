@@ -3,9 +3,9 @@ title: "Section 9831 - General exceptions"
 usc_title: 26
 usc_section: "9831"
 chapter: 100
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 9831"
-generated_at: "2026-03-30T08:56:41.528Z"
+generated_at: "2026-03-30T08:59:14.531Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(C)** Such benefits are paid with respect to an event without regard to whether benefits are provided with respect to such an event under any group health plan maintained by the same plan sponsor.
   - **(3)** The requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(4) if the benefits are provided under a separate policy, certificate, or contract of insurance.
 - **(d)**
-  - **(1)** For purposes of this title (except as provided in section 4980I(f)(4) and notwithstanding any other provision of this title), the term “group health plan” shall not include any qualified small employer health reimbursement arrangement.
+  - **(1)** For purposes of this title (and notwithstanding any other provision of this title), the term “group health plan” shall not include any qualified small employer health reimbursement arrangement.
   - **(2)** For purposes of this subsection—
     - **(A)** The term “qualified small employer health reimbursement arrangement” means an arrangement which—
       - **(i)** is described in subparagraph (B), and

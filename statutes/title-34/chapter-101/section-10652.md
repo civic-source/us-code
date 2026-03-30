@@ -3,9 +3,9 @@ title: "Section 10652 - National criminal justice and mental health training and
 usc_title: 34
 usc_section: "10652"
 chapter: 101
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "34 U.S.C. § 10652"
-generated_at: "2026-03-30T08:56:51.152Z"
+generated_at: "2026-03-30T08:59:24.357Z"
 status: "active"
 ---
 

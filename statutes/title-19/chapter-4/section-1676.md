@@ -3,9 +3,9 @@ title: "Section 1676 - Required consultations"
 usc_title: 19
 usc_section: "1676"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "19 U.S.C. § 1676"
-generated_at: "2026-03-30T08:56:12.238Z"
+generated_at: "2026-03-30T08:58:57.590Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
   - **(1)** eliminating the countervailable subsidy completely, or
   - **(2)** reducing the net countervailable subsidy to a level that eliminates completely the injurious effect of exports to the United States of the merchandise.
 - **(b)** At the direction of the President, the administering authority shall modify a quantitative restriction agreement as a result of consultations entered into under subsection (a).
-- **(c)** This chapter shall cease to apply to a quantitative restriction agreement described in section 1671c(c)(3) of this title at such time as that agreement ceases to have force and effect under section 1671c(f) of this title or violation is found under section 1671c(i) of this title .
+- **(c)** This subpart shall cease to apply to a quantitative restriction agreement described in section 1671c(c)(3) of this title at such time as that agreement ceases to have force and effect under section 1671c(f) of this title or violation is found under section 1671c(i) of this title .

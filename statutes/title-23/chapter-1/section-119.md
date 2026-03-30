@@ -3,9 +3,9 @@ title: "Section 119 - National highway performance program"
 usc_title: 23
 usc_section: "119"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "23 U.S.C. § 119"
-generated_at: "2026-03-30T08:56:18.788Z"
+generated_at: "2026-03-30T08:59:05.176Z"
 status: "active"
 ---
 
@@ -52,7 +52,9 @@ status: "active"
     - **(D)** lifecycle cost and risk management analysis;
     - **(E)** a financial plan; and
     - **(F)** investment strategies.
-  - **(5)** Notwithstanding section 120, with respect to the second fiscal year beginning after the date of establishment of the process established in paragraph (8) or any subsequent fiscal year, if the Secretary determines that a State has not developed and implemented a State asset management plan consistent with this section, the Federal share payable on account of any project or activity carried out by the State in that fiscal year under this section shall be 65 percent.
+  - **(5)**
+    - **(A)** Notwithstanding section 120, each fiscal year, if the Secretary determines that a State has not developed and implemented a State asset management plan consistent with this section, the Federal share payable on account of any project or activity for which funds are obligated by the State in that fiscal year under this section shall be 65 percent.
+    - **(B)** The Secretary shall make the determination under subparagraph (A) for a fiscal year not later than the day before the beginning of such fiscal year.
   - **(6)**
     - **(A)** Not later than 90 days after the date on which a State submits a request for approval of the process used by the State to develop the State asset management plan for the National Highway System, the Secretary shall—
       - **(i)** review the process; and

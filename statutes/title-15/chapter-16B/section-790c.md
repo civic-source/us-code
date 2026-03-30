@@ -3,9 +3,9 @@ title: "Section 790c - Analysis and evaluation of energy information; establishm
 usc_title: 15
 usc_section: "790c"
 chapter: 16
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 790c"
-generated_at: "2026-03-30T08:55:58.000Z"
+generated_at: "2026-03-30T08:58:33.043Z"
 status: "active"
 ---
 

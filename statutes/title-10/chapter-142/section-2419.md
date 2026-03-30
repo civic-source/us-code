@@ -3,16 +3,16 @@ title: "Section 2419 - Advancing small business growth"
 usc_title: 10
 usc_section: "2419"
 chapter: 142
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2419"
-generated_at: "2026-03-30T08:55:17.711Z"
+generated_at: "2026-03-30T08:58:17.476Z"
 status: "active"
 ---
 
 # § 2419. Advancing small business growth
 
 - **(a)**
-  - **(1)** The Under Secretary of Defense for Acquisition, Technology, and Logistics shall require the clause described in paragraph (2) to be included in each covered contract awarded by the Department of Defense.
+  - **(1)** The Under Secretary of Defense for Acquisition and Sustainment shall require the clause described in paragraph (2) to be included in each covered contract awarded by the Department of Defense.
   - **(2)** The clause described in this paragraph is a clause that—
     - **(A)** requires the contractor to acknowledge that acceptance of the contract may cause the business to exceed the applicable small business size standards (established pursuant to section 3(a) of the Small Business Act) for the industry concerned and that the contractor may no longer qualify as a small business concern for that industry; and
     - **(B)** encourages the contractor to develop capabilities and characteristics typically desired in contractors that are competitive as an other-than-small business in that industry.

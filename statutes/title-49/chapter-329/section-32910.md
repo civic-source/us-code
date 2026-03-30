@@ -3,9 +3,9 @@ title: "Section 32910 - Administrative"
 usc_title: 49
 usc_section: "32910"
 chapter: 329
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "49 U.S.C. § 32910"
-generated_at: "2026-03-30T08:57:40.854Z"
+generated_at: "2026-03-30T08:59:54.804Z"
 status: "active"
 ---
 

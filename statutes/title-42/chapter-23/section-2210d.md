@@ -3,9 +3,9 @@ title: "Section 2210d - Security evaluations"
 usc_title: 42
 usc_section: "2210d"
 chapter: 23
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 2210d"
-generated_at: "2026-03-30T08:57:32.407Z"
+generated_at: "2026-03-30T08:59:46.948Z"
 status: "active"
 ---
 

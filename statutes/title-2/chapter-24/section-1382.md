@@ -3,9 +3,9 @@ title: "Section 1382 - Officers, staff, and other personnel"
 usc_title: 2
 usc_section: "1382"
 chapter: 24
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "2 U.S.C. § 1382"
-generated_at: "2026-03-30T08:54:57.517Z"
+generated_at: "2026-03-30T08:58:09.930Z"
 status: "active"
 ---
 
@@ -18,9 +18,7 @@ status: "active"
     - **(C)** The disqualifications in section 1381(d)(2) of this title shall apply to the appointment of the Executive Director.
   - **(2)**
     - **(A)** The Chair may fix the compensation of the Executive Director.
-    - **(B)** The rate of pay for the Executive Director may not exceed the lesser of—
-      - **(i)** the highest annual rate of compensation of any officer of the Senate; or
-      - **(ii)** the highest annual rate of compensation of any officer of the House of Representatives.
+    - **(B)** The rate of pay for the Executive Director may not exceed the maximum rate of pay in effect under section 4575(f) of this title .
   - **(3)** The term of office of the Executive Director shall be not more than 2 terms of 5 years, except that the first Executive Director shall have a single term of 7 years.
   - **(4)** The Executive Director shall serve as the chief operating officer of the Office. Except as otherwise specified in this chapter, the Executive Director shall carry out all of the responsibilities of the Office under this chapter.
 - **(b)**

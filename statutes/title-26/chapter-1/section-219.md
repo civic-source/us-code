@@ -3,9 +3,9 @@ title: "Section 219 - Retirement savings"
 usc_title: 26
 usc_section: "219"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 219"
-generated_at: "2026-03-30T08:56:41.342Z"
+generated_at: "2026-03-30T08:59:14.331Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
     - **(A)** such individual files a joint return for the taxable year, and
     - **(B)** the amount of compensation (if any) includible in such individual’s gross income for the taxable year is less than the compensation includible in the gross income of such individual’s spouse for the taxable year.
 - **(d)**
-  - **(1)** No deduction shall be allowed under this section with respect to any qualified retirement contribution for the benefit of an individual if such individual has attained age 70½ before the close of such individual’s taxable year for which the contribution was made.
+  - **[(1)**
   - **(2)** No deduction shall be allowed under this section with respect to a rollover contribution described in section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16).
   - **(3)** In the case of an endowment contract described in section 408(b), no deduction shall be allowed under this section for that portion of the amounts paid under the contract for the taxable year which is properly allocable, under regulations prescribed by the Secretary, to the cost of life insurance.
   - **(4)** No deduction shall be allowed under this section with respect to any amount paid to an inherited individual retirement account or individual retirement annuity (within the meaning of section 408(d)(3)(C)(ii)).
@@ -52,7 +52,7 @@ status: "active"
   - **(1)** any amount paid in cash for the taxable year by or on behalf of an individual to an individual retirement plan for such individual’s benefit, and
   - **(2)** any amount contributed on behalf of any individual to a plan described in section 501(c)(18).
 - **(f)**
-  - **(1)** For purposes of this section, the term “compensation” includes earned income (as defined in section 401(c)(2)). The term “compensation” does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term “compensation” includes any differential wage payment (as defined in section 3401(h)(2)).
+  - **(1)** For purposes of this section, the term “compensation” includes earned income (as defined in section 401(c)(2)). The term “compensation” does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term “compensation” includes any differential wage payment (as defined in section 3401(h)(2)). The term “compensation” shall include any amount which is included in the individual’s gross income and paid to the individual to aid the individual in the pursuit of graduate or postdoctoral study.
   - **(2)** The maximum deduction under subsection (b) shall be computed separately for each individual, and this section shall be applied without regard to any community property laws.
   - **(3)** For purposes of this section, a taxpayer shall be deemed to have made a contribution to an individual retirement plan on the last day of the preceding taxable year if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
   - **[(4)**

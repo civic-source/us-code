@@ -3,9 +3,9 @@ title: "Section 3433 - Arraignment—(Rule)"
 usc_title: 18
 usc_section: "3433"
 chapter: 221
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 3433"
-generated_at: "2026-03-30T08:56:15.044Z"
+generated_at: "2026-03-30T08:58:42.708Z"
 status: "active"
 ---
 

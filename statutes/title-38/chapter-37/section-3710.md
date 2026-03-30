@@ -3,9 +3,9 @@ title: "Section 3710 - Purchase or construction of homes"
 usc_title: 38
 usc_section: "3710"
 chapter: 37
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "38 U.S.C. § 3710"
-generated_at: "2026-03-30T08:57:14.269Z"
+generated_at: "2026-03-30T08:59:28.809Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
   - **(3)** Notwithstanding the provisions of section 3703(a)(1)(A) of this title , any loan guaranteed under this subsection shall be guaranteed in an amount equal to the sum of—
     - **(A)** the guaranty that would be provided under those provisions for the dwelling without the energy efficiency improvements; and
     - **(B)** an amount that bears the same relation to the cost of the energy efficiency improvements as the guaranty referred to in subparagraph (A) bears to the amount of the loan minus the cost of such improvements.
-  - **(4)** 1 1 See Applicability of Amendment note below. The amount of the veteran’s entitlement, calculated in accordance with subparagraph (B) or (C) of section 3703(a)(1) of this title , shall not be affected by the amount of the guaranty referred to in paragraph (3)(B).
+  - **(4)** The amount of the veteran’s entitlement, calculated in accordance with subparagraph (B) or (C) of section 3703(a)(1) of this title , shall not be affected by the amount of the guaranty referred to in paragraph (3)(B).
   - **(5)** The Secretary shall take appropriate actions to notify eligible veterans, participating lenders, and interested realtors of the availability of loan guarantees under this subsection and the procedures and requirements that apply to the obtaining of such guarantees.
   - **(6)** For the purposes of this subsection:
     - **(A)** The term “energy efficiency improvement” includes a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system, and the application of a residential energy conservation measure.

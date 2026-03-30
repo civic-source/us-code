@@ -3,9 +3,9 @@ title: "Section 706 - Renumbered §§ 1301 to 1306]"
 usc_title: 49
 usc_section: "706"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "49 U.S.C. § 706"
-generated_at: "2026-03-30T08:57:40.805Z"
+generated_at: "2026-03-30T08:59:54.757Z"
 status: "renumbered"
 ---
 

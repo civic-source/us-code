@@ -3,9 +3,9 @@ title: "Section 2451 - Defense supply management"
 usc_title: 10
 usc_section: "2451"
 chapter: 145
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2451"
-generated_at: "2026-03-30T08:55:17.713Z"
+generated_at: "2026-03-30T08:58:17.478Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
   - **(1)** standardize items used throughout the Department of Defense by developing and using single specifications, eliminating overlapping and duplicate specifications, and reducing the number of sizes and kinds of items that are generally similar;
   - **(2)** standardize the methods of packing, packaging, and preserving such items; and
   - **(3)** make efficient use of the services and facilities for inspecting, testing, and accepting such items.
-- **(d)** The Secretary shall coordinate with the Administrator of General Services to enable the use of commercial identifiers for commercial items within the Federal cataloging system.
+- **(d)** The Secretary shall coordinate with the Administrator of General Services to enable the use of commercial identifiers for commercial products (as defined in section 103 of title 41 ) within the Federal cataloging system.

@@ -3,9 +3,9 @@ title: "Section 5582 - Designated transfer date"
 usc_title: 12
 usc_section: "5582"
 chapter: 53
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "12 U.S.C. § 5582"
-generated_at: "2026-03-30T08:55:36.863Z"
+generated_at: "2026-03-30T08:58:34.931Z"
 status: "active"
 ---
 
@@ -21,6 +21,6 @@ status: "active"
   - **(1)** Except as provided in paragraph (2), any date designated under this section shall be not earlier than 180 days, nor later than 12 months, after July 21, 2010 .
   - **(2)** The Secretary may designate a date that is later than 12 months after July 21, 2010 , if the Secretary transmits to appropriate committees of Congress—
     - **(A)** a written determination that orderly implementation of this title 2 2 See References in Text note below. is not feasible before the date that is 12 months after July 21, 2010 ;
-    - **(B)** an explanation of why an extension is necessary for the orderly implementation of this title; 1 and
-    - **(C)** a description of the steps that will be taken to effect an orderly and timely implementation of this title 1 within the extended time period.
+    - **(B)** an explanation of why an extension is necessary for the orderly implementation of this title; 2 and
+    - **(C)** a description of the steps that will be taken to effect an orderly and timely implementation of this title 2 within the extended time period.
   - **(3)** In no case may any date designated under this section be later than 18 months after July 21, 2010 .

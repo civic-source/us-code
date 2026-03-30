@@ -3,9 +3,9 @@ title: "Section 3701 - Findings"
 usc_title: 15
 usc_section: "3701"
 chapter: 63
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 3701"
-generated_at: "2026-03-30T08:55:58.059Z"
+generated_at: "2026-03-30T08:58:33.104Z"
 status: "active"
 ---
 

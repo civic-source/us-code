@@ -1,15 +1,15 @@
 ---
-title: "Section 928b - Art. 128b. Domestic violence 1 1 Section catchline editorially supplied to correspond to item 928b in subchapter analysis, as amended by Pub. L. 115–232 ."
+title: "Section 928b - Art. 128b. Domestic violence"
 usc_title: 10
 usc_section: "928b"
 chapter: 47
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 928b"
-generated_at: "2026-03-30T08:55:17.653Z"
+generated_at: "2026-03-30T08:58:17.418Z"
 status: "active"
 ---
 
-# § 928b. Art. 128b. Domestic violence 1 1 Section catchline editorially supplied to correspond to item 928b in subchapter analysis, as amended by Pub. L. 115–232 .
+# § 928b. Art. 128b. Domestic violence
 
 Any person who—
 

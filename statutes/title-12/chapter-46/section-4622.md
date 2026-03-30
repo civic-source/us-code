@@ -3,9 +3,9 @@ title: "Section 4622 - Capital restoration plans"
 usc_title: 12
 usc_section: "4622"
 chapter: 46
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "12 U.S.C. § 4622"
-generated_at: "2026-03-30T08:55:36.834Z"
+generated_at: "2026-03-30T08:58:34.902Z"
 status: "active"
 ---
 

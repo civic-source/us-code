@@ -3,9 +3,9 @@ title: "Section 2103 - Actions required of procurement officers when contacted r
 usc_title: 41
 usc_section: "2103"
 chapter: 21
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "41 U.S.C. § 2103"
-generated_at: "2026-03-30T08:57:22.252Z"
+generated_at: "2026-03-30T08:59:30.596Z"
 status: "active"
 ---
 

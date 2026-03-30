@@ -3,9 +3,9 @@ title: "Section 2324 - Allowable costs under defense contracts"
 usc_title: 10
 usc_section: "2324"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2324"
-generated_at: "2026-03-30T08:55:17.702Z"
+generated_at: "2026-03-30T08:58:17.467Z"
 status: "active"
 ---
 
@@ -127,7 +127,7 @@ status: "active"
     - **(C)** The term “penalty” does not include restitution, reimbursement, or compensatory damages.
 - **(l)** In this section:
   - **(1)**
-    - **(A)** The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
+    - **(A)** The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial products or commercial services.
     - **(B)** Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted in accordance with section 1908 of title 41 .
   - **(2)** The term “head of the agency” or “agency head” does not include the Secretary of a military department.
   - **(3)** The term “agency” means the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.

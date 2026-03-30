@@ -1,0 +1,22 @@
+---
+title: "Section 2870 - Use of qualified apprentices by military construction contractors"
+usc_title: 10
+usc_section: "2870"
+chapter: 169
+current_through: "PL 116-108"
+classification: "10 U.S.C. § 2870"
+generated_at: "2026-03-30T08:58:17.496Z"
+status: "active"
+---
+
+# § 2870. Use of qualified apprentices by military construction contractors
+
+- **(a)** The Secretary of Defense shall require each offeror for a contract for a military construction project to certify to the Secretary that, if awarded such a contract, the offeror will—
+  - **(1)** establish a goal that not less than 20 percent of the total workforce employed in the performance of such a contract are qualified apprentices; and
+  - **(2)** make a good faith effort to meet or exceed such goal.
+- **(b)** The Secretary of Defense shall develop incentives for offerors for a contract for military construction projects to meet or exceed the goal described in subsection (a).
+- **(c)** The Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that the system used by the Federal Government to monitor or record contractor past performance includes an analysis of whether the contractor has made a good faith effort to meet or exceed the goal described in subsection (a), including consideration of the actual number of qualified apprentices used by the contractor on the contract, as part of the past performance rating of such contractor.
+- **(d)** In this section, the term “qualified apprentice” means an employee participating in an apprenticeship program that is—
+  - **(1)** registered with the Office of Apprenticeship of the Employment Training Administration of the Department of Labor pursuant to the Act of August 16, 1937 (popularly known as the “National Apprenticeship Act”; 29 U.S.C. 50 et seq.);
+  - **(2)** registered with a State apprenticeship agency recognized by such Office of Apprenticeship pursuant to such Act; or
+  - **(3)** determined to be a high-quality apprenticeship program by industry and the Secretary of Labor.

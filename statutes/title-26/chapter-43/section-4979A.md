@@ -3,9 +3,9 @@ title: "Section 4979A - Tax on certain prohibited allocations of qualified secur
 usc_title: 26
 usc_section: "4979A"
 chapter: 43
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 4979A"
-generated_at: "2026-03-30T08:56:41.464Z"
+generated_at: "2026-03-30T08:59:14.462Z"
 status: "active"
 ---
 

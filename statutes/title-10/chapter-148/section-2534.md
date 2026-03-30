@@ -3,9 +3,9 @@ title: "Section 2534 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "2534"
 chapter: 148
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2534"
-generated_at: "2026-03-30T08:55:17.717Z"
+generated_at: "2026-03-30T08:58:17.483Z"
 status: "active"
 ---
 
@@ -24,6 +24,7 @@ status: "active"
     - **(A)** Powered and non-powered valves in Federal Supply Classes 4810 and 4820 used in piping for naval surface ships and submarines.
     - **(B)** Machine tools in the Federal Supply Classes for metal-working machinery numbered 3405, 3408, 3410 through 3419, 3426, 3433, 3438, 3441 through 3443, 3445, 3446, 3448, 3449, 3460, and 3461.
   - **(5)** Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992 , except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer.
+  - **(6)** Subject to subsection (k) 1 1 So in original. Probably means the subsec. (k) enacted by Pub. L. 116–92 . See 2019 Amendment note below. , large medium-speed diesel engines.
 - **(b)**
   - **(1)** A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
   - **(2)** In the case of a procurement of chemical weapons antidote referred to in subsection (a)(2), a manufacturer meets the requirements of this subsection only if the manufacturer—
@@ -81,3 +82,28 @@ status: "active"
     - **(C)** at least two manufacturers in the national technology and industrial base that are capable of producing the ball or roller bearings have not responded to a request for quotation issued by the contracting activity for that contract or subcontract; and
     - **(D)** no bearing to be procured under the contract or subcontract has a basic outside diameter (exclusive of flange diameters) in excess of 30 millimeters.
   - **(2)** Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and roller bearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
+- **(k)**
+  - **(1)** The Secretary of Defense shall administer a process to analyze and assess potential items for consideration to be required to be procured from a manufacturer that is part of the national technology and industrial base.
+  - **(2)** The application process required under paragraph (1) shall include the following elements:
+    - **(A)** The Secretary shall designate an official within the Office of the Secretary of Defense responsible for administration of the limitation on certain procurements application process and associated policy.
+    - **(B)** A person or organization that meets the definition of national technology and industrial base under section 2500(1) of this title shall have the opportunity to apply for status as an item required to be procured from a manufacturer that is part of the national technology and industrial base. The application shall include, at a minimum, the following information:
+      - **(i)** Information demonstrating the applicant meets the criteria of a manufacturer in the national technology and industrial base under section 2500(1) of this title .
+      - **(ii)** For each item the applicant seeks to be required to be procured from a manufacturer that is part of the national technology and industrial base, the applicant shall include the following information:
+        - **(I)** The extent to which such item has commercial applications.
+        - **(II)** The number of such items to be procured by current programs of record.
+        - **(III)** The criticality of such item to a military unit’s mission accomplishment.
+        - **(IV)** The estimated cost and other considerations of reconstituting the manufacturing capability of such item, if not maintained in the national technology and industrial base.
+        - **(V)** National security regulations or restrictions imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
+        - **(VI)** Non-national security-related Federal, State, and local government regulations imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
+        - **(VII)** The extent to which such item is fielded in current programs of record.
+        - **(VIII)** The extent to which cost and pricing data for such item has been deemed fair and reasonable.
+  - **(3)**
+    - **(A)** The official designated pursuant to paragraph (2)(A) shall be responsible for providing complete applications submitted pursuant to this subsection to the appropriate component acquisition executive for consideration not later than 15 days after receipt of such application.
+    - **(B)** Not later than 120 days after receiving a complete application, the component acquisition executive shall review such application, make a determination, and return the application to the official designated pursuant to paragraph (2)(A).
+    - **(C)** The determination required under subparagraph (B) shall, for each item proposed pursuant to paragraph (2)(B)(ii)—
+      - **(i)** recommend inclusion under this section;
+      - **(ii)** recommend inclusion under this section with further modifications; or
+      - **(iii)** not recommend inclusion under this section.
+    - **(D)** The determination required under subparagraph (B) shall also include the rationale and justification for the determination.
+  - **(4)** For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.
+- **(k)** Subsection (a)(6) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term ‘auxiliary ship’ does not include an icebreaker or a special mission ship.

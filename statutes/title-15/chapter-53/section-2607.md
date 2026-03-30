@@ -3,9 +3,9 @@ title: "Section 2607 - Reporting and retention of information"
 usc_title: 15
 usc_section: "2607"
 chapter: 53
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 2607"
-generated_at: "2026-03-30T08:55:58.045Z"
+generated_at: "2026-03-30T08:58:33.091Z"
 status: "active"
 ---
 
@@ -45,6 +45,7 @@ status: "active"
   - **(6)**
     - **(A)** The Administrator shall enter into a negotiated rulemaking pursuant to subchapter III of chapter 5 of title 5 to develop and publish, not later than 3 years after June 22, 2016 , a proposed rule providing for limiting the reporting requirements, under this subsection, for manufacturers of any inorganic byproducts, when such byproducts, whether by the byproduct manufacturer or by any other person, are subsequently recycled, reused, or reprocessed.
     - **(B)** Not later than 3 and one-half years after June 22, 2016 , the Administrator shall publish a final rule resulting from such negotiated rulemaking.
+  - **(7)** Not later than January 1, 2023 , the Administrator shall promulgate a rule in accordance with this subsection requiring each person who has manufactured a chemical substance that is a perfluoroalkyl or polyfluoroalkyl substance in any year since January 1, 2011 , to submit to the Administrator a report that includes, for each year since January 1, 2011 , the information described in subparagraphs (A) through (G) of paragraph (2).
 - **(b)**
   - **(1)** The Administrator shall compile, keep current, and publish a list of each chemical substance which is manufactured or processed in the United States. Such list shall at least include each chemical substance which any person reports, under section 2604 of this title or subsection (a) of this section, is manufactured or processed in the United States. Such list may not include any chemical substance which was not manufactured or processed in the United States within three years before the effective date of the rules promulgated pursuant to the last sentence of subsection (a)(1). In the case of a chemical substance for which a notice is submitted in accordance with section 2604 of this title , such chemical substance shall be included in such list as of the earliest date (as determined by the Administrator) on which such substance was manufactured or processed in the United States. The Administrator shall first publish such a list not later than 315 days after January 1, 1977 . The Administrator shall not include in such list any chemical substance which is manufactured or processed only in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including such research or analysis for the development of a product.
   - **(2)** To the extent consistent with the purposes of this chapter, the Administrator may, in lieu of listing, pursuant to paragraph (1), a chemical substance individually, list a category of chemical substances in which such substance is included.

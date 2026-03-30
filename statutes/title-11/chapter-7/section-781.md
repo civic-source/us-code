@@ -3,9 +3,9 @@ title: "Section 781 - Definitions"
 usc_title: 11
 usc_section: "781"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "11 U.S.C. § 781"
-generated_at: "2026-03-30T08:55:31.104Z"
+generated_at: "2026-03-30T08:58:29.771Z"
 status: "active"
 ---
 

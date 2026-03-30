@@ -3,9 +3,9 @@ title: "Section 1094 - Program participation agreements"
 usc_title: 20
 usc_section: "1094"
 chapter: 28
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "20 U.S.C. § 1094"
-generated_at: "2026-03-30T08:56:07.149Z"
+generated_at: "2026-03-30T08:58:44.646Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 934 - Compensation notice"
 usc_title: 33
 usc_section: "934"
 chapter: 18
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 934"
-generated_at: "2026-03-30T08:56:54.015Z"
+generated_at: "2026-03-30T08:59:20.774Z"
 status: "active"
 ---
 

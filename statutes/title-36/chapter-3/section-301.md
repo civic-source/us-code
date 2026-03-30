@@ -3,9 +3,9 @@ title: "Section 301 - National anthem"
 usc_title: 36
 usc_section: "301"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "36 U.S.C. § 301"
-generated_at: "2026-03-30T08:56:58.038Z"
+generated_at: "2026-03-30T08:59:26.459Z"
 status: "active"
 ---
 

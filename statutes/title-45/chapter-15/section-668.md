@@ -3,9 +3,9 @@ title: "Section 668 - Guarantee fees; amount; deposit"
 usc_title: 45
 usc_section: "668"
 chapter: 15
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "45 U.S.C. § 668"
-generated_at: "2026-03-30T08:57:17.989Z"
+generated_at: "2026-03-30T08:59:30.896Z"
 status: "active"
 ---
 

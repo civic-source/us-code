@@ -3,9 +3,9 @@ title: "Section 233g - Transferred"
 usc_title: 22
 usc_section: "233g"
 chapter: 5
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 233g"
-generated_at: "2026-03-30T08:56:22.167Z"
+generated_at: "2026-03-30T08:59:03.691Z"
 status: "transferred"
 ---
 

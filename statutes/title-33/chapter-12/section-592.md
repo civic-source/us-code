@@ -3,9 +3,9 @@ title: "Section 592 - Condemnation of land in aid of person, com­pany, corporat
 usc_title: 33
 usc_section: "592"
 chapter: 12
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 592"
-generated_at: "2026-03-30T08:56:54.003Z"
+generated_at: "2026-03-30T08:59:20.763Z"
 status: "active"
 ---
 

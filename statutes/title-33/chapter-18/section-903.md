@@ -3,9 +3,9 @@ title: "Section 903 - Coverage"
 usc_title: 33
 usc_section: "903"
 chapter: 18
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 903"
-generated_at: "2026-03-30T08:56:54.013Z"
+generated_at: "2026-03-30T08:59:20.772Z"
 status: "active"
 ---
 

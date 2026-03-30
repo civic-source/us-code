@@ -3,9 +3,9 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-30T08:55:57.981Z"
+generated_at: "2026-03-30T08:58:33.023Z"
 status: "active"
 ---
 
@@ -194,6 +194,16 @@ status: "active"
       - **(i)** To assist in the implementation of this section, the Administrator shall have access to information collected through the Federal Procurement Data System, Federal Subcontracting Reporting System, or any new or successor system.
       - **(ii)** On the date that the Administrator makes available the report required under paragraph (2), the Administrator of the General Services Administration shall submit to the President and Congress, and shall make available on a public website, a report in the same form and manner, and including the same information, as the report required under paragraph (2). The report shall include all procurements made for the period covered by the report and may not exclude any contract awarded.
     - **(B)** To assist in the implementation of this section, the head of each contracting agency shall provide, upon request of the Administrator, procurement information collected through agency data collection sources in existence at the time of the request. Contracting agencies shall not be required to establish new data collection systems to provide such data.
+  - **(4)**
+    - **(A)** In addition to the requirements under paragraph (2) and for each best in class designation, the Administrator shall include in the report required by such paragraph—
+      - **(i)** the total amount of spending Governmentwide in such designation; and
+      - **(ii)** the number of small business concerns awarded contracts and the dollar amount of such contracts awarded within each such designation to each of the following—
+        - **(I)** qualified HUBZone small business concerns;
+        - **(II)** small business concerns owned and controlled by women;
+        - **(III)** small business concerns owned and controlled by service-disabled veterans; and
+        - **(IV)** small business concerns owned and controlled by socially and economically disadvantaged individuals.
+    - **(B)** The term “best in class” has the meaning given such term by the Director of the Office of Management and Budget.
+    - **(C)** The Administrator shall report on the information described by subparagraph (A) beginning on the date that such information is available in the Federal Procurement Data System, the System for Award Management, or any successor to such systems.
 - **(i)** Nothing in this chapter or any other provision of law precludes exclusive small business set-asides for procurements of architectural and engineering services, research, development, test and evaluation, and each Federal agency is authorized to develop such set-asides to further the interests of small business in those areas.
 - **(j)**
   - **(1)** Each contract for the purchase of goods and services that has an anticipated value greater than the micro-purchase threshold, but not greater than the simplified acquisition threshold shall be reserved exclusively for small business concerns unless the contracting officer is unable to obtain offers from two or more small business concerns that are competitive with market prices and are competitive with regard to the quality and delivery of the goods or services being purchased.
@@ -227,8 +237,9 @@ status: "active"
     - **(B)** inform the advocate for competition of such agency (as established under section 1705 of title 41 or section 2318 of title 10 ) of such notice; and
     - **(C)** ensure that the small business concern is aware of other resources and processes available to address unduly restrictive provisions in a solicitation, request for proposal, or request for quotation, even if such resources and processes are provided by such agency, the Administration, the Comptroller General, or a procurement technical assistance program established under chapter 142 of title 10;
   - **(18)** shall review summary data provided by purchase card issuers of purchases made by the agency greater than the micro-purchase threshold (as defined under section 1902 of title 41 ) and less than the simplified acquisition threshold to ensure that the purchases have been made in compliance with the provisions of this chapter and have been properly recorded in the Federal Procurement Data System, if the method of payment is a purchase card issued by the Department of Defense pursuant to section 2784 of title 10 or by the head of an executive agency pursuant to section 1909 of title 41 ;
-  - **(19)** shall provide assistance to a small business concern awarded a contract or subcontract under this chapter or under title 10 or title 41 in finding resources for education and training on compliance with contracting regulations (including the Federal Acquisition Regulation) after award of such a contract or subcontract; and
-  - **(20)** shall review all subcontracting plans required by paragraph (4) or (5) of section 637(d) of this title to ensure that the plan provides maximum practicable opportunity for small business concerns to participate in the performance of the contract to which the plan applies.
+  - **(19)** shall provide assistance to a small business concern awarded a contract or subcontract under this chapter or under title 10 or title 41 in finding resources for education and training on compliance with contracting regulations (including the Federal Acquisition Regulation) after award of such a contract or subcontract;
+  - **(20)** shall review all subcontracting plans required by paragraph (4) or (5) of section 637(d) of this title to ensure that the plan provides maximum practicable opportunity for small business concerns to participate in the performance of the contract to which the plan applies; 5 5 So in original. Probably should be followed by “and”.
+  - **(21)** shall consult with the appropriate personnel from the relevant Federal agency to assist small business concerns participating in a SBIR or STTR program under section 638 of this title with researching applicable solicitations for the award of a Federal contract (particularly with the Federal agency that has a funding agreement, as defined under section 638 of this title , with the concern) to market the research developed by such concern under such SBIR or STTR program.
 - **(l)**
   - **(1)** The Administrator shall assign to each major procurement center a procurement center representative with such assistance as may be appropriate.
   - **(2)** A procurement center representative is authorized to—
@@ -238,10 +249,11 @@ status: "active"
     - **(D)** review any bundled or consolidated solicitation or contract in accordance with this chapter;
     - **(E)** have access to procurement records and other data of the procurement center commensurate with the level of such representative’s approved security clearance classification, with such data provided upon request in electronic format, when available;
     - **(F)** receive unsolicited proposals from small business concerns and transmit such proposals to personnel of the activity responsible for reviewing such proposals, who shall furnish the procurement center representative with information regarding the disposition of any such proposal;
-    - **(G)** consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph 5 5 So in original. Probably should be “paragraphs”. (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
+    - **(G)** consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph 6 6 So in original. Probably should be “paragraphs”. (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
     - **(H)** be an advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements when not justified;
-    - **(I)** assist small business concerns with finding resources for education and training on compliance with contracting regulations (including the Federal Acquisition Regulation) after award of a contract or subcontract; and
-    - **(J)** carry out any other responsibility assigned by the Administrator.
+    - **(I)** assist small business concerns with finding resources for education and training on compliance with contracting regulations (including the Federal Acquisition Regulation) after award of a contract or subcontract;
+    - **(J)** consult with the appropriate personnel from the relevant Federal agency, to assist small business concerns participating in a SBIR or STTR program under section 9 with Phase III; 5
+    - **(K)** carry out any other responsibility assigned by the Administrator.
   - **(3)** A procurement center representative is authorized to appeal the failure to act favorably on any recommendation made pursuant to paragraph (2). Such appeal shall be filed and processed in the same manner and subject to the same conditions and limitations as an appeal filed by the Administrator pursuant to subsection (a).
   - **(4)** The Administration shall assign and co-locate at least two small business technical advisers to each major procurement center in addition to such other advisers as may be authorized from time to time. The sole duties of such advisers shall be to assist the procurement center representative for the center to which such advisers are assigned in carrying out the functions described in paragraph (2) and the representatives referred to in subsection (k)(6).
   - **(5)**
@@ -257,7 +269,7 @@ status: "active"
         - **(II)** The requirements of subclause (I) shall—
   - **(6)** For purposes of this subsection, the term “major procurement center” means a procurement center that, in the opinion of the Administrator, purchases substantial dollar amounts of goods or services, including goods or services that are commercially available.
   - **(7)**
-    - **(A)** At such times as the Administrator deems appropriate, the breakout procurement center representative 6 6 So in original. Probably should be “the procurement center representative”. shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
+    - **(A)** At such times as the Administrator deems appropriate, the breakout procurement center representative 7 7 So in original. Probably should be “the procurement center representative”. shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
     - **(B)** A procurement center representative may provide training under subparagraph (A) only to the extent that the training does not interfere with the representative carrying out other activities under this subsection.
   - **(8)** A procurement center representative shall prepare and personally deliver an annual briefing and report to the head of the procurement center to which such representative is assigned. Such briefing and report shall detail the past and planned activities of the representative and shall contain such recommendations for improvement in the operation of the center as may be appropriate. The head of such center shall personally receive such briefing and report and shall, within 60 calendar days after receipt, respond, in writing, to each recommendation made by such representative.
   - **(9)** The Administrator—
@@ -349,5 +361,10 @@ status: "active"
     - **(F)** More than 365 days after receipt of a request for an equitable adjustment.
     - **(G)** After the completion of the performance of the contract through a contract modification addressing all undefinitized requests for an equitable adjustment received during the term of the contract.
 - **(x)**
-  - **(1)** If an agency awards a prime contract to Puerto Rico business during the period beginning on August 13, 2018 , and ending on the date that is 4 years after such date, the value of the contract shall be doubled for purposes of determining compliance with the goals for procurement contracts under subsection (g)(1)(A)(i) during such period.
+  - **(1)** If an agency awards a prime contract to Puerto Rico business or a covered territory business, or a prime contractor awards a subcontract (at any tier) to a subcontractor that is a Puerto Rico business or a covered territory business, during the period beginning on August 13, 2018 , and ending on the date that is 4 years after such date, the value of the contract or subcontract shall be doubled for purposes of determining compliance with the goals for procurement contracts under subsection (g)(1)(A) during such period.
   - **(2)** Along with the report required under subsection (h)(1), the head of each Federal agency shall submit to the Administrator, and make publicly available on the scorecard described in section 868(b) of the National Defense Authorization Act for Fiscal Year 2016 ( 15 U.S.C. 644 note), an analysis of the number and dollar amount of prime contracts awarded pursuant to paragraph (1) for each fiscal year of the period described in such paragraph.
+  - **(3)** In this subsection, the term “covered territory business” means a small business concern that has its principal office located in one of the following:
+    - **(A)** The United States Virgin Islands.
+    - **(B)** American Samoa.
+    - **(C)** Guam.
+    - **(D)** The Northern Mariana Islands.

@@ -3,9 +3,9 @@ title: "Section 3019 - Joint funding of projects"
 usc_title: 42
 usc_section: "3019"
 chapter: 35
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 3019"
-generated_at: "2026-03-30T08:57:32.421Z"
+generated_at: "2026-03-30T08:59:46.964Z"
 status: "active"
 ---
 

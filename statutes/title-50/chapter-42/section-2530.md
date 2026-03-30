@@ -3,9 +3,9 @@ title: "Section 2530 - Testing of nuclear weapons"
 usc_title: 50
 usc_section: "2530"
 chapter: 42
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2530"
-generated_at: "2026-03-30T08:57:54.488Z"
+generated_at: "2026-03-30T08:59:52.829Z"
 status: "active"
 ---
 

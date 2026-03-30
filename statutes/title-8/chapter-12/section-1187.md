@@ -3,9 +3,9 @@ title: "Section 1187 - Visa waiver program for certain visitors"
 usc_title: 8
 usc_section: "1187"
 chapter: 12
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "8 U.S.C. § 1187"
-generated_at: "2026-03-30T08:55:18.289Z"
+generated_at: "2026-03-30T08:58:27.350Z"
 status: "active"
 ---
 
@@ -227,7 +227,7 @@ status: "active"
     - **(A)** The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a fully automated electronic system for travel authorization (referred to in this paragraph as the “System”) to collect such biographical and other information as the Secretary of Homeland Security determines necessary to determine, in advance of travel, the eligibility of, and whether there exists a law enforcement or security risk in permitting, the 4 4 So in original. Probably should be “an”. alien to travel to the United States.
     - **(B)**
       - **(i)** No later than 6 months after March 4, 2010 , the Secretary of Homeland Security shall establish a fee for the use of the System and begin assessment and collection of that fee. The initial fee shall be the sum of—
-        - **(I)** $10 per travel authorization; and
+        - **(I)** $17 per travel authorization; and
         - **(II)** an amount that will at least ensure recovery of the full costs of providing and administering the System, as determined by the Secretary.
       - **(ii)** Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22 . Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
       - **(iii)** The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2027 .

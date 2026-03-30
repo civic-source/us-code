@@ -3,9 +3,9 @@ title: "Section 3306 - Planning and solicitation requirements"
 usc_title: 41
 usc_section: "3306"
 chapter: 33
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "41 U.S.C. § 3306"
-generated_at: "2026-03-30T08:57:22.253Z"
+generated_at: "2026-03-30T08:59:30.597Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(A)** function, so that a variety of products or services may qualify;
     - **(B)** performance, including specifications of the range of acceptable characteristics or of the minimum acceptable standards; or
     - **(C)** design requirements.
-- **(b)** In addition to the specifications described in subsection (a), each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial items using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
+- **(b)** In addition to the specifications described in subsection (a), each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial products or commercial services using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
   - **(1)** a statement of—
     - **(A)** all significant factors and significant subfactors that the executive agency reasonably expects to consider in evaluating sealed bids (including price) or competitive proposals (including cost or price, cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors); and
     - **(B)** the relative importance assigned to each of those factors and subfactors; and

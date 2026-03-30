@@ -3,9 +3,9 @@ title: "Section 9415 - Community College of the Air Force: associate degrees"
 usc_title: 10
 usc_section: "9415"
 chapter: 951
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 9415"
-generated_at: "2026-03-30T08:55:17.752Z"
+generated_at: "2026-03-30T08:58:17.522Z"
 status: "active"
 ---
 
@@ -17,6 +17,7 @@ status: "active"
 - **(b)** Subject to such other eligibility requirements as the Secretary concerned may prescribe, the following members of the armed forces are eligible to participate in programs of higher education under subsection (a)(1):
   - **(1)** Enlisted members of the Air Force.
   - **(2)** Enlisted members of the armed forces other than the Air Force who are serving as instructors at Air Force training schools.
+  - **(3)** Enlisted members of the armed forces other than the Air Force who are participating in Community College of the Air Force affiliated joint-service training and education courses.
 - **(c)**
   - **(1)** The Secretary of the Air Force may authorize participation in a program of higher education under subsection (a)(1) by a person who is a former or retired enlisted member of the armed forces who at the time of the person’s separation from active duty—
     - **(A)** had commenced but had not completed a program of higher education under subsection (a)(1); and

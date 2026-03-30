@@ -3,9 +3,9 @@ title: "Section 153 - Salaries; character of service"
 usc_title: 28
 usc_section: "153"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "28 U.S.C. § 153"
-generated_at: "2026-03-30T08:56:33.724Z"
+generated_at: "2026-03-30T08:59:09.356Z"
 status: "active"
 ---
 

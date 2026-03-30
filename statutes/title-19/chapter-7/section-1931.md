@@ -3,9 +3,9 @@ title: "Section 1931 - Repealed. Pub. L. 93–618, title VI, § 602(e) , Jan. 3,
 usc_title: 19
 usc_section: "1931"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "19 U.S.C. § 1931"
-generated_at: "2026-03-30T08:56:12.244Z"
+generated_at: "2026-03-30T08:58:57.596Z"
 status: "repealed"
 ---
 

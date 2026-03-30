@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T08:56:41.355Z"
+generated_at: "2026-03-30T08:59:14.345Z"
 status: "active"
 ---
 
@@ -51,21 +51,43 @@ status: "active"
         - **(II)** such portion will be distributed (in accordance with regulations) over the life of such designated beneficiary (or over a period not extending beyond the life expectancy of such beneficiary), and
         - **(III)** such distributions begin not later than 1 year after the date of the employee’s death or such later date as the Secretary may by regulations prescribe,
       - **(iv)** If the designated beneficiary referred to in clause (iii)(I) is the surviving spouse of the employee—
-        - **(I)** the date on which the distributions are required to begin under clause (iii)(III) shall not be earlier than the date on which the employee would have attained age 70½, and
+        - **(I)** the date on which the distributions are required to begin under clause (iii)(III) shall not be earlier than the date on which the employee would have attained age 72, and
         - **(II)** if the surviving spouse dies before the distributions to such spouse begin, this subparagraph shall be applied as if the surviving spouse were the employee.
     - **(C)** For purposes of this paragraph—
       - **(i)** The term “required beginning date” means April 1 of the calendar year following the later of—
-        - **(I)** the calendar year in which the employee attains age 70½, or
+        - **(I)** the calendar year in which the employee attains age 72, or
         - **(II)** the calendar year in which the employee retires.
       - **(ii)** Subclause (II) of clause (i) shall not apply—
-        - **(I)** except as provided in section 409(d), in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains age 70½, or
+        - **(I)** except as provided in section 409(d), in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains age 72, or
         - **(II)** for purposes of section 408(a)(6) or (b)(3).
       - **(iii)** In the case of an employee to whom clause (i)(II) applies who retires in a calendar year after the calendar year in which the employee attains age 70½, the employee’s accrued benefit shall be actuarially increased to take into account the period after age 70½ in which the employee was not receiving any benefits under the plan.
       - **(iv)** Clauses (ii) and (iii) shall not apply in the case of a governmental plan or church plan. For purposes of this clause, the term “church plan” means a plan maintained by a church for church employees, and the term “church” means any church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
     - **(D)** For purposes of this paragraph, the life expectancy of an employee and the employee’s spouse (other than in the case of a life annuity) may be redetermined but not more frequently than annually.
-    - **(E)** For purposes of this paragraph, the term “designated beneficiary” means any individual designated as a beneficiary by the employee.
+    - **(E)** For purposes of this paragraph—
+      - **(i)** The term “designated beneficiary” means any individual designated as a beneficiary by the employee.
+      - **(ii)** The term “eligible designated beneficiary” means, with respect to any employee, any designated beneficiary who is—
+        - **(I)** the surviving spouse of the employee,
+        - **(II)** subject to clause (iii), a child of the employee who has not reached majority (within the meaning of subparagraph (F)),
+        - **(III)** disabled (within the meaning of section 72(m)(7)),
+        - **(IV)** a chronically ill individual (within the meaning of section 7702B(c)(2), except that the requirements of subparagraph (A)(i) thereof shall only be treated as met if there is a certification that, as of such date, the period of inability described in such subparagraph with respect to the individual is an indefinite one which is reasonably expected to be lengthy in nature), or
+        - **(V)** an individual not described in any of the preceding subclauses who is not more than 10 years younger than the employee.
+      - **(iii)** Subject to subparagraph (F), an individual described in clause (ii)(II) shall cease to be an eligible designated beneficiary as of the date the individual reaches majority and any remainder of the portion of the individual’s interest to which subparagraph (H)(ii) applies shall be distributed within 10 years after such date.
     - **(F)** Under regulations prescribed by the Secretary, for purposes of this paragraph, any amount paid to a child shall be treated as if it had been paid to the surviving spouse if such amount will become payable to the surviving spouse upon such child reaching majority (or other designated event permitted under regulations).
     - **(G)** For purposes of this title, any distribution required under the incidental death benefit requirements of this subsection shall be treated as a distribution required under this paragraph.
+    - **(H)** In the case of a defined contribution plan, if an employee dies before the distribution of the employee’s entire interest—
+      - **(i)** Except in the case of a beneficiary who is not a designated beneficiary, subparagraph (B)(ii)—
+        - **(I)** shall be applied by substituting “10 years” for “5 years”, and
+        - **(II)** shall apply whether or not distributions of the employee’s interests have begun in accordance with subparagraph (A).
+      - **(ii)** Subparagraph (B)(iii) shall apply only in the case of an eligible designated beneficiary.
+      - **(iii)** If an eligible designated beneficiary dies before the portion of the employee’s interest to which this subparagraph applies is entirely distributed, the exception under clause (ii) shall not apply to any beneficiary of such eligible designated beneficiary and the remainder of such portion shall be distributed within 10 years after the death of such eligible designated beneficiary.
+      - **(iv)** In the case of an applicable multi-beneficiary trust, if under the terms of the trust—
+        - **(I)** it is to be divided immediately upon the death of the employee into separate trusts for each beneficiary, or
+        - **(II)** no individual (other than a eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii)) has any right to the employee’s interest in the plan until the death of all such eligible designated beneficiaries with respect to the trust,
+      - **(v)** For purposes of this subparagraph, the term “applicable multi-beneficiary trust” means a trust—
+        - **(I)** which has more than one beneficiary,
+        - **(II)** all of the beneficiaries of which are treated as designated beneficiaries for purposes of determining the distribution period pursuant to this paragraph, and
+        - **(III)** at least one of the beneficiaries of which is an eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii).
+      - **(vi)** For purposes of applying the provisions of this subparagraph in determining amounts required to be distributed pursuant to this paragraph, all eligible retirement plans (as defined in section 402(c)(8)(B), other than a defined benefit plan described in clause (iv) or (v) thereof or a qualified trust which is a part of a defined benefit plan) shall be treated as a defined contribution plan.
   - **(10)**
     - **(A)** In the case of any plan which provides contributions or benefits for employees some or all of whom are owner-employees (as defined in subsection (c)(3)), a trust forming part of such plan shall constitute a qualified trust under this section only if the requirements of subsection (d) are also met.
     - **(B)**
@@ -156,6 +178,14 @@ status: "active"
     - **(F)** At the election of the employer and with the consent of the Secretary, this paragraph may be applied separately with respect to each separate line of business of the employer. For purposes of this paragraph, the term “separate line of business” has the meaning given such term by section 414(r) (without regard to paragraph (2)(A) or (7) thereof).
     - **(G)** This paragraph shall not apply to a governmental plan (within the meaning of section 414(d)).
     - **(H)** The Secretary may by regulation provide that any separate benefit structure, any separate trust, or any other separate arrangement is to be treated as a separate plan for purposes of applying this paragraph.
+    - **(I)**
+      - **(i)** A plan shall be deemed to satisfy the requirements of subparagraph (A) if—
+        - **(I)** the plan is amended—
+        - **(II)** the plan satisfies subparagraph (A) (without regard to this subparagraph) as of the effective date of the amendment, and
+        - **(III)** the amendment was adopted before April 5, 2017 , or the plan is described in clause (ii).
+      - **(ii)** A plan is described in this clause if the plan would be described in subsection ( o )(1)(C), as applied for purposes of subsection ( o )(1)(B)(iii)(IV) and by treating the effective date of the amendment as the date the class was closed for purposes of subsection ( o )(1)(C).
+      - **(iii)** For purposes of clause (i)(II), in applying section 410(b)(6)(C), the amendments described in clause (i) shall not be treated as a significant change in coverage under section 410(b)(6)(C)(i)(II).
+      - **(iv)** For purposes of this subparagraph, if a portion of a plan described in clause (i) is spun off to another employer, the treatment under clause (i) of the spun-off plan shall continue with respect to the other employer.
   - **(27)**
     - **(A)** The determination of whether the plan under which any contributions are made is a profit-sharing plan shall be made without regard to current or accumulated profits of the employer and without regard to whether the employer is a tax-exempt organization.
     - **(B)** In the case of a plan which is intended to be a money purchase pension plan or a profit-sharing plan, a trust forming part of such plan shall not constitute a qualified trust under this subsection unless the plan designates such intent at such time and in such manner as the Secretary may prescribe.
@@ -251,9 +281,24 @@ status: "active"
         - **(I)** In the case of the portion of an account to which subparagraph (C) applies and which consists of employer securities acquired in a plan year beginning before January 1, 2007 , subparagraph (C) shall only apply to the applicable percentage of such securities. This subparagraph shall be applied separately with respect to each class of securities.
         - **(II)** Subclause (I) shall not apply to an applicable individual who is a participant who has attained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005 .
       - **(ii)** For purposes of clause (i), the applicable percentage shall be determined as follows: Plan year to which subparagraph (C) applies: The applicable percentage is: 1st 33 2d 66 3d and following 100.
-  - **(36)** A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 62 and who is not separated from employment at the time of such distribution.
+  - **(36)** A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 59½ and who is not separated from employment at the time of such distribution.
   - **(37)** A trust shall not constitute a qualified trust unless the plan provides that, in the case of a participant who dies while performing qualified military service (as defined in section 414(u)), the survivors of the participant are entitled to any additional benefits (other than benefit accruals relating to the period of qualified military service) provided under the plan had the participant resumed and then terminated employment on account of death.
-- **(b)** A stock bonus, pension, profit-sharing, or annuity plan shall be considered as satisfying the requirements of subsection (a) for the period beginning with the date on which it was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary may designate, if all provisions of the plan which are necessary to satisfy such requirements are in effect by the end of such period and have been made effective for all purposes for the whole of such period.
+  - **(38)**
+    - **(A)** Except as may be otherwise provided by regulations, a trust forming part of a defined contribution plan shall not be treated as failing to constitute a qualified trust under this section solely by reason of allowing—
+      - **(i)** qualified distributions of a lifetime income investment, or
+      - **(ii)** distributions of a lifetime income investment in the form of a qualified plan distribution annuity contract,
+    - **(B)** For purposes of this subsection—
+      - **(i)** the term “qualified distribution” means a direct trustee-to-trustee transfer described in paragraph (31)(A) to an eligible retirement plan (as defined in section 402(c)(8)(B)),
+      - **(ii)** the term “lifetime income investment” means an investment option which is designed to provide an employee with election rights—
+        - **(I)** which are not uniformly available with respect to other investment options under the plan, and
+        - **(II)** which are to a lifetime income feature available through a contract or other arrangement offered under the plan (or under another eligible retirement plan (as so defined), if paid by means of a direct trustee-to-trustee transfer described in paragraph (31)(A) to such other eligible retirement plan),
+      - **(iii)** the term “lifetime income feature” means—
+        - **(I)** a feature which guarantees a minimum level of income annually (or more frequently) for at least the remainder of the life of the employee or the joint lives of the employee and the employee’s designated beneficiary, or
+        - **(II)** an annuity payable on behalf of the employee under which payments are made in substantially equal periodic payments (not less frequently than annually) over the life of the employee or the joint lives of the employee and the employee’s designated beneficiary, and
+      - **(iv)** the term “qualified plan distribution annuity contract” means an annuity contract purchased for a participant and distributed to the participant by a plan or contract described in subparagraph (B) of section 402(c)(8) (without regard to clauses (i) and (ii) thereof).
+- **(b)**
+  - **(1)** A stock bonus, pension, profit-sharing, or annuity plan shall be considered as satisfying the requirements of subsection (a) for the period beginning with the date on which it was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary may designate, if all provisions of the plan which are necessary to satisfy such requirements are in effect by the end of such period and have been made effective for all purposes for the whole of such period.
+  - **(2)** If an employer adopts a stock bonus, pension, profit-sharing, or annuity plan after the close of a taxable year but before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof), the employer may elect to treat the plan as having been adopted as of the last day of the taxable year.
 - **(c)** For purposes of this section—
   - **(1)**
     - **(A)** The term “employee” includes, for any taxable year, an individual who is a self-employed individual for such taxable year.
@@ -305,9 +350,11 @@ status: "active"
         - **(I)** severance from employment, death, or disability,
         - **(II)** an event described in paragraph (10),
         - **(III)** in the case of a profit-sharing or stock bonus plan, the attainment of age 59½,
-        - **(IV)** subject to the provisions of paragraph (14), upon hardship of the employee, or
-        - **(V)** in the case of a qualified reservist distribution (as defined in section 72(t)(2)(G)(iii)), the date on which a period referred to in subclause (III) of such section begins, and
-      - **(ii)** will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years;
+        - **(IV)** subject to the provisions of paragraph (14), upon hardship of the employee,
+        - **(V)** in the case of a qualified reservist distribution (as defined in section 72(t)(2)(G)(iii)), the date on which a period referred to in subclause (III) of such section begins, or
+        - **(VI)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in subsection (a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the arrangement,
+      - **(ii)** will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years, and
+      - **(iii)** except as may be otherwise provided by regulations, in the case of amounts described in clause (i)(VI), will be distributed only in the form of a qualified distribution (as defined in subsection (a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in subsection (a)(38)(B)(iv)),
     - **(C)** which provides that an employee’s right to his accrued benefit derived from employer contributions made to the trust pursuant to his election is nonforfeitable, and
     - **(D)** which does not require, as a condition of participation in the arrangement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the period permitted under section 410(a)(1) (determined without regard to subparagraph (B)(i) thereof).
   - **(3)**
@@ -396,8 +443,8 @@ status: "active"
       - **(ii)** A plan meeting the requirements of this paragraph for any year shall not be treated as a top-heavy plan under section 416 for such year if such plan allows only contributions required under this paragraph.
   - **(12)**
     - **(A)** A cash or deferred arrangement shall be treated as meeting the requirements of paragraph (3)(A)(ii) if such arrangement—
-      - **(i)** meets the contribution requirements of subparagraph (B) or (C), and
-      - **(ii)** meets the notice requirements of subparagraph (D).
+      - **(i)** meets the contribution requirements of subparagraph (B) and the notice requirements of subparagraph (D), or
+      - **(ii)** meets the contribution requirements of subparagraph (C).
     - **(B)**
       - **(i)** The requirements of this subparagraph are met if, under the arrangement, the employer makes matching contributions on behalf of each employee who is not a highly compensated employee in an amount equal to—
         - **(I)** 100 percent of the elective contributions of the employee to the extent such elective contributions do not exceed 3 percent of the employee’s compensation, and
@@ -413,16 +460,24 @@ status: "active"
     - **(E)**
       - **(i)** An arrangement shall not be treated as meeting the requirements of subparagraph (B) or (C) of this paragraph unless the requirements of subparagraphs (B) and (C) of paragraph (2) are met with respect to all employer contributions (including matching contributions) taken into account in determining whether the requirements of subparagraphs (B) and (C) of this paragraph are met.
       - **(ii)** An arrangement shall not be treated as meeting the requirements of subparagraph (B) or (C) unless such requirements are met without regard to subsection ( l ), and, for purposes of subsection ( l ), employer contributions under subparagraph (B) or (C) shall not be taken into account.
-    - **(F)** An arrangement shall be treated as meeting the requirements under subparagraph (A)(i) if any other plan maintained by the employer meets such requirements with respect to employees eligible under the arrangement.
+    - **(F)**
+      - **(i)** Except as provided in clause (ii), a plan may be amended after the beginning of a plan year to provide that the requirements of subparagraph (C) shall apply to the arrangement for the plan year, but only if the amendment is adopted—
+        - **(I)** at any time before the 30th day before the close of the plan year, or
+        - **(II)** at any time before the last day under paragraph (8)(A) for distributing excess contributions for the plan year.
+      - **(ii)** Clause (i) shall not apply to any plan year if the plan provided at any time during the plan year that the requirements of subparagraph (B) or paragraph (13)(D)(i)(I) applied to the plan year.
+      - **(iii)** Clause (i)(II) shall not apply to an arrangement unless the amount of the contributions described in subparagraph (C) which the employer is required to make under the arrangement for the plan year with respect to any employee is an amount equal to at least 4 percent of the employee’s compensation.
+    - **(G)** An arrangement shall be treated as meeting the requirements under subparagraph (A)(i) if any other plan maintained by the employer meets such requirements with respect to employees eligible under the arrangement.
   - **(13)**
     - **(A)** A qualified automatic contribution arrangement shall be treated as meeting the requirements of paragraph (3)(A)(ii).
-    - **(B)** For purposes of this paragraph, the term “qualified automatic contribution arrangement” means any cash or deferred arrangement which meets the requirements of subparagraphs (C) through (E).
+    - **(B)** For purposes of this paragraph, the term “qualified automatic contribution arrangement” means a cash or deferred arrangement—
+      - **(i)** which is described in subparagraph (D)(i)(I) and meets the applicable requirements of subparagraphs (C) through (E), or
+      - **(ii)** which is described in subparagraph (D)(i)(II) and meets the applicable requirements of subparagraphs (C) and (D).
     - **(C)**
       - **(i)** The requirements of this subparagraph are met if, under the arrangement, each employee eligible to participate in the arrangement is treated as having elected to have the employer make elective contributions in an amount equal to a qualified percentage of compensation.
       - **(ii)** The election treated as having been made under clause (i) shall cease to apply with respect to any employee if such employee makes an affirmative election—
         - **(I)** to not have such contributions made, or
         - **(II)** to make elective contributions at a level specified in such affirmative election.
-      - **(iii)** For purposes of this subparagraph, the term “qualified percentage” means, with respect to any employee, any percentage determined under the arrangement if such percentage is applied uniformly, does not exceed 10 percent, and is at least—
+      - **(iii)** For purposes of this subparagraph, the term “qualified percentage” means, with respect to any employee, any percentage determined under the arrangement if such percentage is applied uniformly, does not exceed 15 percent (10 percent during the period described in subclause (I)), and is at least—
         - **(I)** 3 percent during the period ending on the last day of the first plan year which begins after the date on which the first elective contribution described in clause (i) is made with respect to such employee,
         - **(II)** 4 percent during the first plan year following the plan year described in subclause (I),
         - **(III)** 5 percent during the second plan year following the plan year described in subclause (I), and
@@ -447,6 +502,12 @@ status: "active"
         - **(I)** the notice explains the employee’s right under the arrangement to elect not to have elective contributions made on the employee’s behalf (or to elect to have such contributions made at a different percentage),
         - **(II)** in the case of an arrangement under which the employee may elect among 2 or more investment options, the notice explains how contributions made under the arrangement will be invested in the absence of any investment election by the employee, and
         - **(III)** the employee has a reasonable period of time after receipt of the notice described in subclauses (I) and (II) and before the first elective contribution is made to make either such election.
+    - **(F)**
+      - **(i)** Except as provided in clause (ii), a plan may be amended after the beginning of a plan year to provide that the requirements of subparagraph (D)(i)(II) shall apply to the arrangement for the plan year, but only if the amendment is adopted—
+        - **(I)** at any time before the 30th day before the close of the plan year, or
+        - **(II)** at any time before the last day under paragraph (8)(A) for distributing excess contributions for the plan year.
+      - **(ii)** Clause (i) shall not apply to any plan year if the plan provided at any time during the plan year that the requirements of subparagraph (D)(i)(I) or paragraph (12)(B) applied to the plan year.
+      - **(iii)** Clause (i)(II) shall not apply to an arrangement unless the amount of the contributions described in subparagraph (D)(i)(II) which the employer is required to make under the arrangement for the plan year with respect to any employee is an amount equal to at least 4 percent of the employee’s compensation.
   - **(14)** For purposes of paragraph (2)(B)(i)(IV)—
     - **(A)** The following amounts may be distributed upon hardship of the employee:
       - **(i)** Contributions to a profit-sharing or stock bonus plan to which section 402(e)(3) applies.
@@ -567,4 +628,67 @@ status: "active"
     - **(B)** meets the requirements of paragraph (11)(B).
   - **(13)** For excise tax on certain excess contributions, see section 4979.
 - **(n)** The Secretary shall prescribe such rules or regulations as may be necessary to coordinate the requirements of subsection (a)(13)(B) and section 414(p) (and the regulations issued by the Secretary of Labor thereunder) with the other provisions of this chapter.
-- **(o)** For exemption from tax of a trust qualified under this section, see section 501(a).
+- **(o)**
+  - **(1)**
+    - **(A)** A defined benefit plan which provides benefits, rights, or features to a closed class of participants shall not fail to satisfy the requirements of subsection (a)(4) by reason of the composition of such closed class or the benefits, rights, or features provided to such closed class, if—
+      - **(i)** for the plan year as of which the class closes and the 2 succeeding plan years, such benefits, rights, and features satisfy the requirements of subsection (a)(4) (without regard to this subparagraph but taking into account the rules of subparagraph (I)),
+      - **(ii)** after the date as of which the class was closed, any plan amendment which modifies the closed class or the benefits, rights, and features provided to such closed class does not discriminate significantly in favor of highly compensated employees, and
+      - **(iii)** the class was closed before April 5, 2017 , or the plan is described in subparagraph (C).
+    - **(B)**
+      - **(i)** For purposes of determining compliance with subsection (a)(4) and section 410(b), a defined benefit plan described in clause (iii) may be aggregated and tested on a benefits basis with 1 or more defined contribution plans, including with the portion of 1 or more defined contribution plans which—
+        - **(I)** provides matching contributions (as defined in subsection (m)(4)(A)),
+        - **(II)** provides annuity contracts described in section 403(b) which are purchased with matching contributions or nonelective contributions, or
+        - **(III)** consists of an employee stock ownership plan (within the meaning of section 4975(e)(7)) or a tax credit employee stock ownership plan (within the meaning of section 409(a)).
+      - **(ii)** For purposes of clause (i), if a defined benefit plan is aggregated with a portion of a defined contribution plan providing matching contributions—
+        - **(I)** such defined benefit plan must also be aggregated with any portion of such defined contribution plan which provides elective deferrals described in subparagraph (A) or (C) of section 402(g)(3), and
+        - **(II)** such matching contributions shall be treated in the same manner as nonelective contributions, including for purposes of applying the rules of subsection ( l ).
+      - **(iii)** A defined benefit plan is described in this clause if—
+        - **(I)** the plan provides benefits to a closed class of participants,
+        - **(II)** for the plan year as of which the class closes and the 2 succeeding plan years, the plan satisfies the requirements of section 410(b) and subsection (a)(4) (without regard to this subparagraph but taking into account the rules of subparagraph (I)),
+        - **(III)** after the date as of which the class was closed, any plan amendment which modifies the closed class or the benefits provided to such closed class does not discriminate significantly in favor of highly compensated employees, and
+        - **(IV)** the class was closed before April 5, 2017 , or the plan is described in subparagraph (C).
+    - **(C)** A plan is described in this subparagraph if, taking into account any predecessor plan—
+      - **(i)** such plan has been in effect for at least 5 years as of the date the class is closed, and
+      - **(ii)** during the 5-year period preceding the date the class is closed, there has not been a substantial increase in the coverage or value of the benefits, rights, or features described in subparagraph (A) or in the coverage or benefits under the plan described in subparagraph (B)(iii) (whichever is applicable).
+    - **(D)** In applying subparagraph (C)(ii) for purposes of subparagraph (A)(iii), a plan shall be treated as having had a substantial increase in coverage or value of the benefits, rights, or features described in subparagraph (A) during the applicable 5-year period only if, during such period—
+      - **(i)** the number of participants covered by such benefits, rights, or features on the date such period ends is more than 50 percent greater than the number of such participants on the first day of the plan year in which such period began, or
+      - **(ii)** such benefits, rights, and features have been modified by 1 or more plan amendments in such a way that, as of the date the class is closed, the value of such benefits, rights, and features to the closed class as a whole is substantially greater than the value as of the first day of such 5-year period, solely as a result of such amendments.
+    - **(E)** In applying subparagraph (C)(ii) for purposes of subparagraph (B)(iii)(IV), a plan shall be treated as having had a substantial increase in coverage or benefits during the applicable 5-year period only if, during such period—
+      - **(i)** the number of participants benefitting under the plan on the date such period ends is more than 50 percent greater than the number of such participants on the first day of the plan year in which such period began, or
+      - **(ii)** the average benefit provided to such participants on the date such period ends is more than 50 percent greater than the average benefit provided on the first day of the plan year in which such period began.
+    - **(F)** For purposes of subparagraphs (D) and (E), any increase in coverage or value or in coverage or benefits, whichever is applicable, which is attributable to such coverage and value or coverage and benefits provided to employees—
+      - **(i)** who became participants as a result of a merger, acquisition, or similar event which occurred during the 7-year period preceding the date the class is closed, or
+      - **(ii)** who became participants by reason of a merger of the plan with another plan which had been in effect for at least 5 years as of the date of the merger,
+    - **(G)** For purposes of subparagraph (E)—
+      - **(i)** the average benefit provided to participants under the plan will be treated as having remained the same between the 2 dates described in subparagraph (E)(ii) if the benefit formula applicable to such participants has not changed between such dates, and
+      - **(ii)** if the benefit formula applicable to 1 or more participants under the plan has changed between such 2 dates, then the average benefit under the plan shall be considered to have increased by more than 50 percent only if—
+        - **(I)** the total amount determined under section 430(b)(1)(A)(i) for all participants benefitting under the plan for the plan year in which the 5-year period described in subparagraph (E) ends, exceeds
+        - **(II)** the total amount determined under section 430(b)(1)(A)(i) for all such participants for such plan year, by using the benefit formula in effect for each such participant for the first plan year in such 5-year period,
+    - **(H)** For purposes of subparagraphs (E) and (G), a plan described in section 413(c) shall be treated as a single plan rather than as separate plans maintained by each employer in the plan.
+    - **(I)** For purposes of subparagraphs (A)(i) and (B)(iii)(II), the following rules shall apply:
+      - **(i)** In applying section 410(b)(6)(C), the closing of the class of participants shall not be treated as a significant change in coverage under section 410(b)(6)(C)(i)(II).
+      - **(ii)** 2 or more plans shall not fail to be eligible to be aggregated and treated as a single plan solely by reason of having different plan years.
+      - **(iii)** Changes in the employee population shall be disregarded to the extent attributable to individuals who become employees or cease to be employees, after the date the class is closed, by reason of a merger, acquisition, divestiture, or similar event.
+      - **(iv)** Aggregation and all other testing methodologies otherwise applicable under subsection (a)(4) and section 410(b) may be taken into account.
+    - **(J)** For purposes of this paragraph, if a portion of a defined benefit plan described in subparagraph (A) or (B)(iii) is spun off to another employer and the spun-off plan continues to satisfy the requirements of—
+      - **(i)** subparagraph (A)(i) or (B)(iii)(II), whichever is applicable, if the original plan was still within the 3-year period described in such subparagraph at the time of the spin off, and
+      - **(ii)** subparagraph (A)(ii) or (B)(iii)(III), whichever is applicable,
+  - **(2)**
+    - **(A)** A defined contribution plan shall be permitted to be tested on a benefits basis if—
+      - **(i)** such defined contribution plan provides make-whole contributions to a closed class of participants whose accruals under a defined benefit plan have been reduced or eliminated,
+      - **(ii)** for the plan year of the defined contribution plan as of which the class eligible to receive such make-whole contributions closes and the 2 succeeding plan years, such closed class of participants satisfies the requirements of section 410(b)(2)(A)(i) (determined by applying the rules of paragraph (1)(I)),
+      - **(iii)** after the date as of which the class was closed, any plan amendment to the defined contribution plan which modifies the closed class or the allocations, benefits, rights, and features provided to such closed class does not discriminate significantly in favor of highly compensated employees, and
+      - **(iv)** the class was closed before April 5, 2017 , or the defined benefit plan under clause (i) is described in paragraph (1)(C) (as applied for purposes of paragraph (1)(B)(iii)(IV)).
+    - **(B)**
+      - **(i)** With respect to 1 or more defined contribution plans described in subparagraph (A), for purposes of determining compliance with subsection (a)(4) and section 410(b), the portion of such plans which provides make-whole contributions or other nonelective contributions may be aggregated and tested on a benefits basis with the portion of 1 or more other defined contribution plans which—
+        - **(I)** provides matching contributions (as defined in subsection (m)(4)(A)),
+        - **(II)** provides annuity contracts described in section 403(b) which are purchased with matching contributions or nonelective contributions, or
+        - **(III)** consists of an employee stock ownership plan (within the meaning of section 4975(e)(7)) or a tax credit employee stock ownership plan (within the meaning of section 409(a)).
+      - **(ii)** Rules similar to the rules of paragraph (1)(B)(ii) shall apply for purposes of clause (i).
+    - **(C)** In the case of a defined contribution plan which provides benefits, rights, or features to a closed class of participants whose accruals under a defined benefit plan have been reduced or eliminated, the plan shall not fail to satisfy the requirements of subsection (a)(4) solely by reason of the composition of the closed class or the benefits, rights, or features provided to such closed class if the defined contribution plan and defined benefit plan otherwise meet the requirements of subparagraph (A) but for the fact that the make-whole contributions under the defined contribution plan are made in whole or in part through matching contributions.
+    - **(D)** For purposes of this paragraph, if a portion of a defined contribution plan described in subparagraph (A) or (C) is spun off to another employer, the treatment under subparagraph (A) or (C) of the spun-off plan shall continue with respect to the other employer if such plan continues to comply with the requirements of clauses (ii) (if the original plan was still within the 3-year period described in such clause at the time of the spin off) and (iii) of subparagraph (A), as determined for purposes of subparagraph (A) or (C), whichever is applicable.
+  - **(3)** For purposes of this subsection—
+    - **(A)** Except as otherwise provided in paragraph (2)(C), the term “make-whole contributions” means nonelective allocations for each employee in the class which are reasonably calculated, in a consistent manner, to replace some or all of the retirement benefits which the employee would have received under the defined benefit plan and any other plan or qualified cash or deferred arrangement under subsection (k)(2) if no change had been made to such defined benefit plan and such other plan or arrangement. For purposes of the preceding sentence, consistency shall not be required with respect to employees who were subject to different benefit formulas under the defined benefit plan.
+    - **(B)** References to a closed class of participants and similar references to a closed class shall include arrangements under which 1 or more classes of participants are closed, except that 1 or more classes of participants closed on different dates shall not be aggregated for purposes of determining the date any such class was closed.
+    - **(C)** The term “highly compensated employee” has the meaning given such term in section 414(q).
+- **(p)** For exemption from tax of a trust qualified under this section, see section 501(a).

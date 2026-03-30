@@ -3,15 +3,15 @@ title: "Section 708 - Property and fiscal officers"
 usc_title: 32
 usc_section: "708"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "32 U.S.C. § 708"
-generated_at: "2026-03-30T08:56:43.497Z"
+generated_at: "2026-03-30T08:59:19.262Z"
 status: "active"
 ---
 
 # § 708. Property and fiscal officers
 
-- **(a)** The Governor of each State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands, and the commanding general of the National Guard of the District of Columbia, shall appoint, designate or detail, subject to the approval of the Secretary of the Army and the Secretary of the Air Force, a qualified commissioned officer of the National Guard of that jurisdiction who is also a commissioned officer of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, to be the property and fiscal officer of that jurisdiction. If the officer is not on active duty, the President may order him to active duty, with his consent, to serve as a property and fiscal officer.
+- **(a)** The Governor of each State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands, and the commanding general of the National Guard of the District of Columbia, shall, in consultation with the Chief of the National Guard Bureau, appoint, designate or detail, subject to the approval of the Secretary of the Army and the Secretary of the Air Force, a qualified commissioned officer of the National Guard of that jurisdiction who is also a commissioned officer of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, to be the property and fiscal officer of that jurisdiction. If the officer is not on active duty, the President may order him to active duty, with his consent, to serve as a property and fiscal officer.
 - **(b)** Each property and fiscal officer shall—
   - **(1)** receipt and account for all funds and property of the United States in the possession of the National Guard for which he is property and fiscal officer; and
   - **(2)** make returns and reports concerning those funds and that property, as required by the Secretary concerned.

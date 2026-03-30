@@ -3,9 +3,9 @@ title: "Section 5322a - Allowance for compensation of interns in member offices"
 usc_title: 2
 usc_section: "5322a"
 chapter: 53
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "2 U.S.C. § 5322a"
-generated_at: "2026-03-30T08:54:57.536Z"
+generated_at: "2026-03-30T08:58:09.950Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
 - **(e)** In this section—
   - **(1)** the term “intern” has the meaning given such term in section 5321(c)(2) of this title ; and
   - **(2)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
-- **(f)** There are authorized to be appropriated to carry out this section $8,800,000 for fiscal year 2019.
+- **(f)** There are authorized to be appropriated to carry out this section $8,800,000 for fiscal year 2019, and such sums as may be necessary for fiscal year 2020 and each succeeding fiscal year.

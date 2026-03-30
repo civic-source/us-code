@@ -3,9 +3,9 @@ title: "Section 2393 - Prohibition against doing business with certain offerors 
 usc_title: 10
 usc_section: "2393"
 chapter: 141
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2393"
-generated_at: "2026-03-30T08:55:17.709Z"
+generated_at: "2026-03-30T08:58:17.474Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
 - **(c)** In this section:
   - **(1)** The term “debar” means to exclude, pursuant to established administrative procedures, from Government contracting and subcontracting for a specified period of time commensurate with the seriousness of the failure or offense or the inadequacy of performance.
   - **(2)** The term “suspend” means to disqualify, pursuant to established administrative procedures, from Government contracting and subcontracting for a temporary period of time because a concern or individual is suspected of engaging in criminal, fraudulent, or seriously improper conduct.
-- **(d)** The Secretary of Defense shall prescribe in regulations a requirement that each contractor under contract with the Department of Defense shall require each contractor to whom it awards a contract (in this section referred to as a subcontractor) to disclose to the contractor whether the subcontractor is or is not, as of the time of the award of the subcontract, debarred or suspended by the Federal Government from Government contracting or subcontracting. The requirement shall apply to any subcontractor whose subcontract is in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41 ). The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined in section 103 of title 41 ).
+- **(d)** The Secretary of Defense shall prescribe in regulations a requirement that each contractor under contract with the Department of Defense shall require each contractor to whom it awards a contract (in this section referred to as a subcontractor) to disclose to the contractor whether the subcontractor is or is not, as of the time of the award of the subcontract, debarred or suspended by the Federal Government from Government contracting or subcontracting. The requirement shall apply to any subcontractor whose subcontract is in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41 ). The requirement shall not apply in the case of a subcontract for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).

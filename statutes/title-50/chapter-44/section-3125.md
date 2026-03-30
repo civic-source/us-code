@@ -3,9 +3,9 @@ title: "Section 3125 - Providing information to Congress"
 usc_title: 50
 usc_section: "3125"
 chapter: 44
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 3125"
-generated_at: "2026-03-30T08:57:54.500Z"
+generated_at: "2026-03-30T08:59:52.842Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 333 - Special bonus and incentive pay authorities for nuclear of
 usc_title: 37
 usc_section: "333"
 chapter: 5
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "37 U.S.C. § 333"
-generated_at: "2026-03-30T08:56:56.786Z"
+generated_at: "2026-03-30T08:59:26.794Z"
 status: "active"
 ---
 
@@ -34,4 +34,4 @@ status: "active"
 - **(f)** A nuclear officer bonus or nuclear officer incentive pay paid to a person or officer under this section is in addition to any other pay and allowance to which the person or officer is entitled, except that a person or officer may not receive a payment under this section and section 332 or 353 of this title for the same skill and period of service.
 - **(g)** A person or officer who receives a nuclear officer bonus or nuclear officer incentive pay under this section and who fails to complete the officer naval nuclear power training program, maintain required technical and operational qualifications, complete the period of service, or meet the types or conditions of service for which the bonus or incentive pay is paid, as specified in the written agreement under subsection (e) in the case of a nuclear officer bonus, shall be subject to the repayment provisions of section 373 of this title .
 - **(h)** This section shall be administered under regulations prescribed by the Secretary of the Navy.
-- **(i)** No agreement may be entered into under this section after December 31, 2019 .
+- **(i)** No agreement may be entered into under this section after December 31, 2020 .

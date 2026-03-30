@@ -3,9 +3,9 @@ title: "Section 2366b - Major defense acquisition programs: certification requir
 usc_title: 10
 usc_section: "2366b"
 chapter: 139
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2366b"
-generated_at: "2026-03-30T08:55:17.706Z"
+generated_at: "2026-03-30T08:58:17.472Z"
 status: "active"
 ---
 
@@ -29,8 +29,9 @@ status: "active"
     - **(L)** the program complies with all relevant policies, regulations, and directives of the Department of Defense;
     - **(M)** the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B);
     - **(N)** the requirements of section 2446b(e) of this title are met; and
-    - **(O)** appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program; and
-  - **(4)** in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019 .
+    - **(O)** appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program;
+  - **(4)** in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019 ; and
+  - **(5)** in the case of a naval vessel program, certifies compliance with the requirements of section 8669b of this title .
 - **(b)**
   - **(1)** The program manager for a major defense acquisition program that has received certifications or a determination under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
     - **(A)** alter the substantive basis for the certifications or determination of the milestone decision authority relating to any component of such certifications or determination specified in paragraph (1), (2), or (3) of subsection (a); or

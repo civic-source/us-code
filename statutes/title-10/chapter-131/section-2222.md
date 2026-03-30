@@ -3,9 +3,9 @@ title: "Section 2222 - Defense business systems: business process reengineering;
 usc_title: 10
 usc_section: "2222"
 chapter: 131
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2222"
-generated_at: "2026-03-30T08:55:17.696Z"
+generated_at: "2026-03-30T08:58:17.460Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
   - **(4)** uses an acquisition and sustainment strategy that prioritizes the use of commercial software and business practices.
 - **(c)**
   - **(1)** The Secretary shall issue guidance to provide for the coordination of, and decision making for, the planning, programming, and control of investments in covered defense business systems.
-  - **(2)** The Secretary shall direct the Chief Management Officer of the Department of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Chief Information Officer, and the Chief Management Officer of each of the military departments to issue and maintain supporting guidance, as appropriate and within their respective areas of responsibility, for the guidance of the Secretary issued under paragraph (1).
-- **(d)** The guidance issued under subsection (c)(1) shall include the following elements:
+  - **(2)** The Secretary shall direct the Chief Management Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Chief Information Officer, and the Chief Management Officer of each of the military departments to issue and maintain supporting guidance, as appropriate and within their respective areas of responsibility, for the guidance of the Secretary issued under paragraph (1).
+- **(d)** The guidance issued under subsection (c) shall include the following elements:
   - **(1)** Policy to ensure that the business processes of the Department of Defense are continuously reviewed and revised—
     - **(A)** to implement the most streamlined and efficient business processes practicable; and
     - **(B)** to eliminate or reduce the need to tailor commercial off-the-shelf systems to meet or incorporate requirements or interfaces that are unique to the Department of Defense.
@@ -29,6 +29,8 @@ status: "active"
   - **(4)** Policy requiring the periodic review of covered defense business systems that have been fully deployed, by portfolio, to ensure that investments in such portfolios are appropriate.
   - **(5)** Policy to ensure full consideration of sustainability and technological refreshment requirements, and the appropriate use of open architectures.
   - **(6)** Policy to ensure that best acquisition and systems engineering practices are used in the procurement and deployment of commercial systems, modified commercial systems, and defense-unique systems to meet Department of Defense missions.
+  - **(7)** Policy to ensure a covered defense business system is in compliance with the Department’s auditability requirements.
+  - **(8)** Policy to ensure approvals required for the development of a covered defense business system.
 - **(e)**
   - **(1)** The Secretary, working through the Chief Management Officer of the Department of Defense, shall develop and maintain a blueprint to guide the development of integrated business processes within the Department of Defense. Such blueprint shall be known as the “defense business enterprise architecture”.
   - **(2)** The defense business enterprise architecture shall be sufficiently defined to effectively guide implementation of interoperable defense business system solutions and shall be consistent with the policies and procedures established by the Director of the Office of Management and Budget.
@@ -61,7 +63,7 @@ status: "active"
   - **(2)** The membership of the Council shall include the following:
     - **(A)** The Chief Management Officers of the military departments, or their designees.
     - **(B)** The following officials of the Department of Defense, or their designees:
-      - **(i)** The Under Secretary of Defense for Acquisition, Technology, and Logistics with respect to acquisition, logistics, and installations management processes.
+      - **(i)** The Under Secretary of Defense for Acquisition and Sustainment with respect to acquisition, logistics, and installations management processes.
       - **(ii)** The Under Secretary of Defense (Comptroller) with respect to financial management and planning and budgeting processes.
       - **(iii)** The Under Secretary of Defense for Personnel and Readiness with respect to human resources management processes.
 - **(g)**
@@ -105,4 +107,4 @@ status: "active"
   - **(8)** The term “national security system” has the meaning given that term in section 3552(b)(6)(A) of title 44 .
   - **(9)** The term “business process mapping” means a procedure in which the steps in a business process are clarified and documented in both written form and in a flow chart.
   - **(10)** The term “common enterprise data” means business operations or management-related data, generally from defense business systems, in a usable format that is automatically accessible by authorized personnel and organizations.
-  - **(11)** The term “data governance process” means a system to manage the timely Department of Defense-wide sharing of data described under subsection (a)(6)(A). 1 1 So in original. Probably should be “subsection (e)(6)(A).”
+  - **(11)** The term “data governance process” means a system to manage the timely Department of Defense-wide sharing of data described under subsection (e)(6)(A).

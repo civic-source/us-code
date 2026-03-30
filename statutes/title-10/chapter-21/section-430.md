@@ -3,17 +3,17 @@ title: "Section 430 - Tactical Exploitation of National Capabilities Executive A
 usc_title: 10
 usc_section: "430"
 chapter: 21
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 430"
-generated_at: "2026-03-30T08:55:17.635Z"
+generated_at: "2026-03-30T08:58:17.401Z"
 status: "active"
 ---
 
 # § 430. Tactical Exploitation of National Capabilities Executive Agent
 
-- **(a)** The Under Secretary of Defense for Intelligence shall designate a civilian employee of the Department or a member of the armed forces to serve as the Tactical Exploitation of National Capabilities Executive Agent.
+- **(a)** The Under Secretary of Defense for Intelligence and Security shall designate a civilian employee of the Department or a member of the armed forces to serve as the Tactical Exploitation of National Capabilities Executive Agent.
 - **(b)** The Executive Agent designated under subsection (a) shall—
-  - **(1)** report directly to the Under Secretary of Defense for Intelligence;
+  - **(1)** report directly to the Under Secretary of Defense for Intelligence; 1 1 See Change of Name note below.
   - **(2)** work with the combatant commands, military departments, and the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) ) to—
     - **(A)** develop methods to increase warfighter effectiveness through the exploitation of national capabilities; and
     - **(B)** promote cross-domain integration of such capabilities into military operations, training, intelligence, surveillance, and reconnaissance activities.

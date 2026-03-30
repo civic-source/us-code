@@ -3,9 +3,9 @@ title: "Section 2821 - Requirement for authorization of appropriations for const
 usc_title: 10
 usc_section: "2821"
 chapter: 169
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2821"
-generated_at: "2026-03-30T08:55:17.727Z"
+generated_at: "2026-03-30T08:58:17.494Z"
 status: "active"
 ---
 
@@ -19,3 +19,4 @@ status: "active"
   - **(2)** improvements to existing military family housing units and facilities;
   - **(3)** relocation of military family housing units under section 2827 of this title ; and
   - **(4)** architectural and engineering services and construction design.
+- **(e)** The Secretary concerned shall provide for the installation and maintenance of an appropriate number of carbon monoxide detectors in each unit of military family housing under the jurisdiction of the Secretary.

@@ -3,9 +3,9 @@ title: "Section 2405 - Repealed. Pub. L. 105–85, div. A, title VIII, § 810(a)
 usc_title: 10
 usc_section: "2405"
 chapter: 141
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2405"
-generated_at: "2026-03-30T08:55:17.709Z"
+generated_at: "2026-03-30T08:58:17.475Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8680 - Overhaul, repair, etc. of vessels in foreign shipyards: r
 usc_title: 10
 usc_section: "8680"
 chapter: 863
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 8680"
-generated_at: "2026-03-30T08:55:17.746Z"
+generated_at: "2026-03-30T08:58:17.515Z"
 status: "active"
 ---
 
@@ -25,8 +25,10 @@ status: "active"
       - **(i)** The term “corrective and preventive maintenance or repair” means—
         - **(I)** maintenance or repair actions performed as a result of a failure in order to return or restore equipment to acceptable performance levels; and
         - **(II)** scheduled maintenance or repair actions to prevent or discover functional failures.
-      - **(ii)** The term “facilities maintenance” means preservation or corrosion control efforts and cleaning services.
-    - **(D)** This paragraph shall expire on September 30, 2020 .
+      - **(ii)** The term “facilities maintenance” means—. 1 1 So in original. The period probably should not appear.
+        - **(I)** the effort required to provide housekeeping services throughout the ship;
+        - **(II)** the effort required to perform coating maintenance and repair to exterior and interior surfaces due to normal environmental conditions; and
+        - **(III)** the effort required to clean mechanical spaces, mission zones, and topside spaces.
 - **(b)**
   - **(1)** In the case of a naval vessel the homeport of which is not in the United States (or a territory of the United States), the Secretary of the Navy may not during the 15-month period preceding the planned reassignment of the vessel to a homeport in the United States (or a territory of the United States) begin any work for the overhaul, repair, or maintenance of the vessel that is scheduled to be for a period of more than six months.
   - **(2)** In the case of a naval vessel the homeport of which is in the United States (or a territory of the United States), the Secretary of the Navy shall during the 15-month period preceding the planned reassignment of the vessel to a homeport not in the United States (or a territory of the United States) perform in the United States (or a territory of the United States) any work for the overhaul, repair, or maintenance of the vessel that is scheduled—

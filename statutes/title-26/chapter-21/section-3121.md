@@ -3,9 +3,9 @@ title: "Section 3121 - Definitions"
 usc_title: 26
 usc_section: "3121"
 chapter: 21
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 3121"
-generated_at: "2026-03-30T08:56:41.445Z"
+generated_at: "2026-03-30T08:59:14.442Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
   - **(22)** remuneration on account of—
     - **(A)** a transfer of a share of stock to any individual pursuant to an exercise of an incentive stock option (as defined in section 422(b)) or under an employee stock purchase plan (as defined in section 423(b)), or
     - **(B)** any disposition by the individual of such stock; or
-  - **(23)** any benefit or payment which is excludable from the gross income of the employee under section 139B(b).
+  - **(23)** any benefit or payment which is excludable from the gross income of the employee under section section 1 1 So in original. 139B(a).
 - **(b)** For purposes of this chapter, the term “employment” means any service, of whatever nature, performed (A) by an employee for the person employing him, irrespective of the citizenship or residence of either, (i) within the United States, or (ii) on or in connection with an American vessel or American aircraft under a contract of service which is entered into within the United States or during the performance of which and while the employee is employed on the vessel or aircraft it touches at a port in the United States, if the employee is employed on and in connection with such vessel or aircraft when outside the United States, or (B) outside the United States by a citizen or resident of the United States as an employee for an American employer (as defined in subsection (h)), or (C) if it is service, regardless of where or by whom performed, which is designated as employment or recognized as equivalent to employment under an agreement entered into under section 233 of the Social Security Act; except that such term shall not include—
   - **(1)** service performed by foreign agricultural workers lawfully admitted to the United States from the Bahamas, Jamaica, and the other British West Indies, or from any other foreign country or possession thereof, on a temporary basis to perform agricultural labor;
   - **(2)** domestic service performed in a local college club, or local chapter of a college fraternity or sorority, by a student who is enrolled and is regularly attending classes at a school, college, or university;

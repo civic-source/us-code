@@ -3,9 +3,9 @@ title: "Section 2471 - Definitions"
 usc_title: 50
 usc_section: "2471"
 chapter: 41
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2471"
-generated_at: "2026-03-30T08:57:54.487Z"
+generated_at: "2026-03-30T08:59:52.827Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ For purposes of this chapter:
     - **(B)** Sandia National Laboratories, Albuquerque, New Mexico, and Livermore, California.
     - **(C)** Lawrence Livermore National Laboratory, Livermore, California.
   - **(2)** The term “nuclear weapons production facility” means any of the following:
-    - **(A)** The Kansas City Plant, Kansas City, Missouri.
+    - **(A)** The Kansas City National Security Campus, Kansas City, Missouri.
     - **(B)** The Pantex Plant, Amarillo, Texas.
     - **(C)** The Y–12 National Security Complex, Oak Ridge, Tennessee.
     - **(D)** The Savannah River Site, Aiken, South Carolina.

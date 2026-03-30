@@ -3,9 +3,9 @@ title: "Section 9251 - Presentation of United States flag upon retirement"
 usc_title: 10
 usc_section: "9251"
 chapter: 933
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 9251"
-generated_at: "2026-03-30T08:55:17.750Z"
+generated_at: "2026-03-30T08:58:17.521Z"
 status: "active"
 ---
 

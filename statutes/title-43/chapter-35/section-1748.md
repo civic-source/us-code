@@ -3,9 +3,9 @@ title: "Section 1748 - Funding requirements"
 usc_title: 43
 usc_section: "1748"
 chapter: 35
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 1748"
-generated_at: "2026-03-30T08:57:23.107Z"
+generated_at: "2026-03-30T08:59:31.478Z"
 status: "active"
 ---
 

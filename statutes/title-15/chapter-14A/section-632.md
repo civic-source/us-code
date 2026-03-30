@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T08:55:57.969Z"
+generated_at: "2026-03-30T08:58:33.012Z"
 status: "active"
 ---
 
@@ -126,89 +126,7 @@ status: "active"
     - **(C)** the geographical dispersion of the contract performance sites; or
     - **(D)** any combination of the factors described in subparagraphs (A), (B), and (C).
   - **(3)** The term “separate smaller contract”, with respect to a bundling of contract requirements, means a contract that has been performed by 1 or more small business concerns or was suitable for award to 1 or more small business concerns.
-- **(p)** In this chapter:
-  - **(1)** The term “historically underutilized business zone” means any area located within 1 or more—
-    - **(A)** qualified census tracts;
-    - **(B)** qualified nonmetropolitan counties;
-    - **(C)** lands within the external boundaries of an Indian reservation;
-    - **(D)** redesignated areas;
-    - **(E)** base closure areas; or
-    - **(F)** qualified disaster areas.
-  - **(2)** The term “HUBZone” means a historically underutilized business zone.
-  - **(3)** The term “HUBZone small business concern” means—
-    - **(A)** a small business concern that is at least 51 percent owned and controlled by United States citizens;
-    - **(B)** a small business concern that is—
-      - **(i)** an Alaska Native Corporation owned and controlled by Natives (as determined pursuant to section 1626(e)(1) of title 43 ); or
-      - **(ii)** a direct or indirect subsidiary corporation, joint venture, or partnership of an Alaska Native Corporation qualifying pursuant to section 1626(e)(1) of title 43 , if that subsidiary, joint venture, or partnership is owned and controlled by Natives (as determined pursuant to section 1626(e)(2) of title 43 );
-    - **(C)** a small business concern—
-      - **(i)** that is wholly owned by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments; or
-      - **(ii)** that is owned in part by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments, if all other owners are either United States citizens or small business concerns;
-    - **(D)** a small business concern—
-      - **(i)** that is wholly owned by one or more Native Hawaiian Organizations (as defined in section 637(a)(15) of this title ), or by a corporation that is wholly owned by one or more Native Hawaiian Organizations; or
-      - **(ii)** that is owned in part by one or more Native Hawaiian Organizations, or by a corporation that is wholly owned by one or more Native Hawaiian Organizations, if all other owners are either United States citizens or small business concerns;
-    - **(E)** a small business concern that is—
-      - **(i)** wholly owned by a community development corporation that has received financial assistance under part 1 of subchapter A of the Community Economic Development Act of 1981 ( 42 U.S.C. 9805 et seq.); or
-      - **(ii)** owned in part by one or more community development corporations, if all other owners are either United States citizens or small business concerns; or
-    - **(F)** a small business concern that is—
-      - **(i)** a small agricultural cooperative organized or incorporated in the United States;
-      - **(ii)** wholly owned by 1 or more small agricultural cooperatives organized or incorporated in the United States; or
-      - **(iii)** owned in part by 1 or more small agricultural cooperatives organized or incorporated in the United States, if all owners are small business concerns or United States citizens.
-  - **(4)**
-    - **(A)**
-      - **(i)** The term “qualified census tract” has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 .
-      - **(ii)** For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term “qualified census tract” has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section, except that this clause shall only apply—
-        - **(I)** 10 years after the date that the Administrator implements this clause, or
-        - **(II)** the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist,
-    - **(B)** The term “qualified nonmetropolitan county” means any county—
-      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 3 3 See References in Text note below. of title 26; and
-      - **(ii)** in which—
-        - **(I)** the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce;
-        - **(II)** the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor; or
-        - **(III)** there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) 3 of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
-    - **(C)** The term “redesignated area” means any census tract that ceases to be qualified under subparagraph (A) and any nonmetropolitan county that ceases to be qualified under subparagraph (B), except that a census tract or a nonmetropolitan county may be a “redesignated area” only until the later of—
-      - **(i)** the date on which the Census Bureau publicly releases the first results from the 2010 decennial census; or
-      - **(ii)** 3 years after the date on which the census tract or nonmetropolitan county ceased to be so qualified.
-    - **(D)**
-      - **(i)** Subject to clause (ii), the term “base closure area” means—
-        - **(I)** lands within the external boundaries of a military installation that were closed through a privatization process under the authority of—
-        - **(II)** the census tract or nonmetropolitan county in which the lands described in subclause (I) are wholly contained;
-        - **(III)** a census tract or nonmetropolitan county the boundaries of which intersect the area described in subclause (I); and
-        - **(IV)** a census tract or nonmetropolitan county the boundaries of which are contiguous to the area described in subclause (II) or subclause (III).
-      - **(ii)** A base closure area shall be treated as a HUBZone—
-        - **(I)** with respect to a census tract or nonmetropolitan county described in clause (i), for a period of not less than 8 years, beginning on the date the military installation undergoes final closure and ending on the date the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B) in accordance with the results of the decennial census conducted after the area was initially designated as a base closure area; and
-        - **(II)** if such area was treated as a HUBZone at any time after 2010, until such time as the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B), after the 2020 decennial census.
-      - **(iii)** In this subparagraph:
-        - **(I)** The term “census tract” means a census tract delineated by the United States Bureau of the Census in the most recent decennial census that is not located in a nonmetropolitan county and does not otherwise qualify as a qualified census tract.
-        - **(II)** The term “nonmetropolitan county” means a county that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts and does not otherwise qualify as a qualified nonmetropolitan county.
-    - **(E)**
-      - **(i)** Subject to clause (ii), the term “qualified disaster area” means any census tract or nonmetropolitan county located in an area for which the President has declared a major disaster under section 5170 of title 42 or located in an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be qualified under subparagraph (A) or (B), as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred and ending 2 years after such date, except that such census tract or nonmetropolitan county may be a “qualified disaster area” only—
-        - **(I)** in the case of a major disaster declared by the President, during the 5-year period beginning on the date on which the President declared the major disaster for the area in which the census tract or nonmetropolitan county, as applicable, is located; and
-        - **(II)** in the case of a catastrophic incident, during the 10-year period beginning on the date on which the catastrophic incident occurred in the area in which the census tract or nonmetropolitan county, as applicable, is located.
-      - **(ii)** A qualified disaster area described in clause (i) shall be treated as a HUBZone for a period of not less than 8 years, beginning on the date the Administrator makes a final determination as to whether or not to implement the designations described in subparagraphs (A) and (B) in accordance with the results of the decennial census conducted after the area was initially designated as a qualified disaster area.
-  - **(5)**
-    - **(A)** A HUBZone small business concern is “qualified”, if—
-      - **(i)** the small business concern has certified in writing to the Administrator (or the Administrator otherwise determines, based on information submitted to the Administrator by the small business concern, or based on certification procedures, which shall be established by the Administration by regulation) that—
-        - **(I)** it is a HUBZone small business concern—
-        - **(II)** the small business concern will attempt to maintain the applicable employment percentage under subclause (I) during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title ; and
-        - **(III)** with respect to any subcontract entered into by the small business concern pursuant to a contract awarded to the small business concern under section 657a of this title , the small business concern will ensure that the requirements of section 657s of this title are satisfied; and
-      - **(ii)** no certification made or information provided by the small business concern under clause (i) has been, in accordance with the procedures established under section 657a(c)(1) of this title —
-        - **(I)** successfully challenged by an interested party; or
-        - **(II)** otherwise determined by the Administrator to be materially false.
-    - **(B)** The Administrator shall establish and maintain a list of qualified HUBZone small business concerns, which list shall, to the extent practicable—
-      - **(i)** once the Administrator has made the certification required by subparagraph (A)(i) regarding a qualified HUBZone small business concern and has determined that subparagraph (A)(ii) does not apply to that concern, include the name, address, and type of business with respect to each such small business concern;
-      - **(ii)** be updated by the Administrator not less than annually; and
-      - **(iii)** be provided upon request to any Federal agency or other entity.
-  - **(6)**
-    - **(A)** The term “Alaska Native Corporation” has the same meaning as the term “Native Corporation” in section 1602 of title 43 .
-    - **(B)** The term “Alaska Native Village” has the same meaning as the term “Native village” in section 1602 of title 43 .
-    - **(C)** The term “Indian reservation”—
-      - **(i)** has the same meaning as the term “Indian country” in section 1151 of title 18 , except that such term does not include—
-        - **(I)** any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000 , unless that tribe is recognized after December 21, 2000 , by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
-        - **(II)** lands taken into trust or acquired by an Indian tribe after December 21, 2000 , if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000 ; and
-      - **(ii)** in the State of Oklahoma, means lands that—
-        - **(I)** are within the jurisdictional areas of an Oklahoma Indian tribe (as determined by the Secretary of the Interior); and
-        - **(II)** are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effect on December 21, 2000 ).
-  - **(7)** The term “agricultural commodity” has the same meaning as in section 5602 of title 7 .
+- **(p)** In this chapter, the term “qualified HUBZone small business concern” has the meaning given such term in section 657a(b) of this title .
 - **(q)** In this chapter, the following definitions apply:
   - **(1)** The term “service-disabled veteran” means a veteran with a disability that is service-connected (as defined in section 101(16) of title 38 ).
   - **(2)** The term “small business concern owned and controlled by service-disabled veterans” means any of the following:
@@ -221,8 +139,8 @@ status: "active"
     - **(C)**
       - **(i)** During the time period described in clause (ii), a small business concern that was a small business concern described in subparagraph (A) or (B) immediately prior to the death of a service-disabled veteran who was the owner of the concern, the death of whom causes the concern to be less than 51 percent owned by one or more service-disabled veterans, if—
         - **(I)** the surviving spouse of the deceased veteran acquires such veteran’s ownership interest in such concern;
-        - **(II)** such veteran had a service-connected disability (as defined in section 101(16) of title 38 ) rated as 100 percent disabling under the laws administered by the Secretary of Veterans Affairs or such veteran died as a result of a service-connected disability; and
-        - **(III)** immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 8127(f) of title 38 .
+        - **(II)** such veteran had a service-connected disability (as defined in section 101(16) of title 38 ); and
+        - **(III)** the date that—
       - **(ii)** The time period described in this clause is the time period beginning on the date of the veteran’s death and ending on the earlier of—
         - **(I)** the date on which the surviving spouse remarries;
         - **(II)** the date on which the surviving spouse relinquishes an ownership interest in the small business concern; or

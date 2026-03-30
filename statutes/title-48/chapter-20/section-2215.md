@@ -3,9 +3,9 @@ title: "Section 2215 - Federal agency requirements"
 usc_title: 48
 usc_section: "2215"
 chapter: 20
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "48 U.S.C. § 2215"
-generated_at: "2026-03-30T08:57:35.601Z"
+generated_at: "2026-03-30T08:59:51.301Z"
 status: "active"
 ---
 

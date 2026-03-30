@@ -3,9 +3,9 @@ title: "Section 735 - Marking pierheads in certain lakes"
 usc_title: 33
 usc_section: "735"
 chapter: 16
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 735"
-generated_at: "2026-03-30T08:56:54.009Z"
+generated_at: "2026-03-30T08:59:20.769Z"
 status: "active"
 ---
 

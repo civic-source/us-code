@@ -3,9 +3,9 @@ title: "Section 181 - Joint Requirements Oversight Council"
 usc_title: 10
 usc_section: "181"
 chapter: 7
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 181"
-generated_at: "2026-03-30T08:55:17.626Z"
+generated_at: "2026-03-30T08:58:17.393Z"
 status: "active"
 ---
 
@@ -33,12 +33,13 @@ status: "active"
 - **(d)**
   - **(1)** The following officials of the Department of Defense shall serve as advisors to the Joint Requirements Oversight Council on matters within their authority and expertise:
     - **(A)** The Under Secretary of Defense for Policy.
-    - **(B)** The Under Secretary of Defense for Intelligence.
-    - **(C)** The Under Secretary of Defense for Acquisition, Technology, and Logistics.
-    - **(D)** The Under Secretary of Defense (Comptroller).
-    - **(E)** The Director of Cost Assessment and Program Evaluation.
-    - **(F)** The Director of Operational Test and Evaluation.
-    - **(G)** The commander of a combatant command when matters related to the area of responsibility or functions of that command are under consideration by the Council.
+    - **(B)** The Under Secretary of Defense for Intelligence and Security.
+    - **(C)** The Under Secretary of Defense for Acquisition and Sustainment.
+    - **(D)** the 1 1 So in original. Probably should be capitalized. Under Secretary of Defense for Research and Engineering.
+    - **(E)** The Under Secretary of Defense (Comptroller).
+    - **(F)** The Director of Cost Assessment and Program Evaluation.
+    - **(G)** The Director of Operational Test and Evaluation.
+    - **(H)** The commander of a combatant command when matters related to the area of responsibility or functions of that command are under consideration by the Council.
   - **(2)** The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b).
   - **(3)** The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense under subsection (b)(2) and joint performance requirements pursuant to subsection (b)(3).
 - **(e)** The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.

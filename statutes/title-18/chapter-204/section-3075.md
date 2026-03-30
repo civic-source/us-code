@@ -3,9 +3,9 @@ title: "Section 3075 - Repealed. Pub. L. 107–273, div. A, title III, § 301(c)
 usc_title: 18
 usc_section: "3075"
 chapter: 204
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 3075"
-generated_at: "2026-03-30T08:56:15.039Z"
+generated_at: "2026-03-30T08:58:42.704Z"
 status: "repealed"
 ---
 

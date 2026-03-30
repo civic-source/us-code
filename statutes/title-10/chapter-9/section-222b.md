@@ -3,15 +3,15 @@ title: "Section 222b - Unfunded priorities of the Missile Defense Agency: annual
 usc_title: 10
 usc_section: "222b"
 chapter: 9
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 222b"
-generated_at: "2026-03-30T08:55:17.628Z"
+generated_at: "2026-03-30T08:58:17.394Z"
 status: "active"
 ---
 
 # § 222b. Unfunded priorities of the Missile Defense Agency: annual report
 
-- **(a)** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31 , United States Code, the Director of the Missile Defense Agency shall submit to the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, and to the congressional defense committees, a report on the unfunded priorities of the Missile Defense Agency.
+- **(a)** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31 , the Director of the Missile Defense Agency shall submit to the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, and to the congressional defense committees, a report on the unfunded priorities of the Missile Defense Agency.
 - **(b)**
   - **(1)** Each report under subsection (a) shall specify, for each unfunded priority covered by such report, the following:
     - **(A)** A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part).

@@ -3,9 +3,9 @@ title: "Section 71104 - Planetary radar"
 usc_title: 51
 usc_section: "71104"
 chapter: 711
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "51 U.S.C. § 71104"
-generated_at: "2026-03-30T08:57:56.456Z"
+generated_at: "2026-03-30T09:00:04.262Z"
 status: "active"
 ---
 

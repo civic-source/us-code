@@ -3,16 +3,16 @@ title: "Section 2431a - Acquisition strategy"
 usc_title: 10
 usc_section: "2431a"
 chapter: 144
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2431a"
-generated_at: "2026-03-30T08:55:17.711Z"
+generated_at: "2026-03-30T08:58:17.476Z"
 status: "active"
 ---
 
 # § 2431a. Acquisition strategy
 
 - **(a)** There shall be an acquisition strategy for each major defense acquisition program, each major automated information system, and each major system approved by a milestone decision authority.
-- **(b)** For each acquisition strategy required by subsection (a), the Under Secretary of Defense for Acquisition, Technology, and Logistics, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, is responsible for issuing and maintaining the requirements for—
+- **(b)** For each acquisition strategy required by subsection (a), the Under Secretary of Defense for Acquisition and Sustainment, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, is responsible for issuing and maintaining the requirements for—
   - **(1)** the content of the strategy; and
   - **(2)** the review and approval process for the strategy.
 - **(c)**

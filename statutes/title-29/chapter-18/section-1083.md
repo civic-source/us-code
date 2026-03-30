@@ -3,9 +3,9 @@ title: "Section 1083 - Minimum funding standards for single-employer defined ben
 usc_title: 29
 usc_section: "1083"
 chapter: 18
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "29 U.S.C. § 1083"
-generated_at: "2026-03-30T08:56:28.249Z"
+generated_at: "2026-03-30T08:59:17.632Z"
 status: "active"
 ---
 
@@ -151,7 +151,7 @@ status: "active"
       - **(ii)** For purposes of subsection (c)(4)(B), the value of plan assets shall not be deemed to be reduced for a plan year by the amount of the specified balance if, with respect to such balance, there is in effect for a plan year a binding written agreement with the Pension Benefit Guaranty Corporation which provides that such balance is not available to reduce the minimum required contribution for the plan year. For purposes of the preceding sentence, the term “specified balance” means the prefunding balance or the funding standard carryover balance, as the case may be.
     - **(C)** For purposes of paragraph (3)(C)(i) of this subsection, the value of plan assets is deemed to be such amount, reduced by the amount of the prefunding balance.
   - **(5)**
-    - **(A)** The plan sponsor may elect to reduce by any amount the balance of the prefunding balance and the funding standard carryover balance for any plan year (but not below zero). Such reduction shall be effective prior to any determination of the value of plan assets for such plan year under this section and application of the balance in reducing the minimum required contribution for such plan for such plan year pursuant to an election under paragraph (2).
+    - **(A)** The plan sponsor may elect to reduce by any amount the balance of the prefunding balance and the funding standard carryover balance for any plan year (but not below zero). Such reduction shall be effective prior to any determination of the value of plan assets for such plan year under this section and application of the balance in reducing the minimum required contribution for such plan for such plan year pursuant to an election under paragraph (2). 2 2 So in original. Probably should be “(3).”
     - **(B)** To the extent that any plan has a funding standard carryover balance greater than zero, no election may be made under subparagraph (A) with respect to the prefunding balance.
   - **(6)**
     - **(A)** A prefunding balance maintained by a plan shall consist of a beginning balance of zero, increased and decreased to the extent provided in subparagraphs (B) and (C), and adjusted further as provided in paragraph (8).
@@ -214,7 +214,7 @@ status: "active"
       - **(i)** The term “corporate bond yield curve” means, with respect to any month, a yield curve which is prescribed by the Secretary of the Treasury for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
       - **(ii)** Solely for purposes of determining the minimum required contribution under this section, the plan sponsor may, in lieu of the segment rates determined under subparagraph (C), elect to use interest rates under the corporate bond yield curve. For purposes of the preceding sentence such curve shall be determined without regard to the 24-month averaging described in clause (i). Such election, once made, may be revoked only with the consent of the Secretary of the Treasury.
     - **(E)** For purposes of this paragraph, the term “applicable month” means, with respect to any plan for any plan year, the month which includes the valuation date of such plan for such plan year or, at the election of the plan sponsor, any of the 4 months which precede such month. Any election made under this subparagraph shall apply to the plan year for which the election is made and all succeeding plan years, unless the election is revoked with the consent of the Secretary of the Treasury.
-    - **(F)** The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) 2 2 See References in Text note below. of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
+    - **(F)** The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) 3 3 See References in Text note below. of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
   - **(3)**
     - **(A)** Except as provided in subparagraph (C) or (D), the Secretary of the Treasury shall by regulation prescribe mortality tables to be used in determining any present value or making any computation under this section. Such tables shall be based on the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary of the Treasury shall take into account results of available independent studies of mortality of individuals covered by pension plans.
     - **(B)** The Secretary of the Treasury shall (at least every 10 years) make revisions in any table in effect under subparagraph (A) to reflect the actual experience of pension plans and projected trends in such experience.
@@ -344,10 +344,42 @@ status: "active"
   - **(4)**
     - **(A)** A person committing a failure described in paragraph (1) shall notify the Pension Benefit Guaranty Corporation of such failure within 10 days of the due date for the required contribution payment.
     - **(B)** The lien imposed by paragraph (1) shall arise on the due date for the required contribution payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2) during the period referred to in the preceding sentence.
-    - **(C)** Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) and the amount with respect to such lien.
+    - **(C)** Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) 5 5 So in original. Probably should be “paragraph (1)”. and the amount with respect to such lien.
   - **(5)** Any lien created under paragraph (1) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Pension Benefit Guaranty Corporation, by the contributing sponsor (or any member of the controlled group of the contributing sponsor).
   - **(6)** For purposes of this subsection—
     - **(A)** The term “contribution payment” means, in connection with a plan, a contribution payment required to be made to the plan, including any required installment under paragraphs (3) and (4) of subsection (j).
     - **(B)** The terms “due date” and “required installment” have the meanings given such terms by subsection (j).
     - **(C)** The term “controlled group” means any group treated as a single employer under subsections (b), (c), (m), and ( o ) of section 414 of title 26 .
 - **(l)** In the case of a qualified transfer (as defined in section 420 of title 26 ), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
+- **(m)**
+  - **(1)** The plan sponsor of a community newspaper plan under which no participant has had the participant’s accrued benefit increased (whether because of service or compensation) after December 31, 2017 , may elect to have the alternative standards described in paragraph (3) apply to such plan, and any plan sponsored by any member of the same controlled group.
+  - **(2)** An election under paragraph (1) shall be made at such time and in such manner as prescribed by the Secretary of the Treasury. Such election, once made with respect to a plan year, shall apply to all subsequent plan years unless revoked with the consent of the Secretary of the Treasury.
+  - **(3)** The alternative standards described in this paragraph are the following:
+    - **(A)**
+      - **(i)** Notwithstanding subsection (h)(2)(C) and except as provided in clause (ii), the first, second, and third segment rates in effect for any month for purposes of this section shall be 8 percent.
+      - **(ii)** Notwithstanding subsection (h)(2), for purposes of determining the funding target and normal cost of a plan for any plan year, the present value of any benefits accrued or earned under the plan for a plan year with respect to which an election under paragraph (1) is in effect shall be determined on the basis of the United States Treasury obligation yield curve for the day that is the valuation date of such plan for such plan year.
+      - **(iii)** For purposes of this subsection, the term “United States Treasury obligation yield curve” means, with respect to any day, a yield curve which shall be prescribed by the Secretary of the Treasury for such day on interest-bearing obligations of the United States.
+    - **(B)**
+      - **(i)** The shortfall amortization bases determined under subsection (c)(3) for all plan years preceding the first plan year to which the election under paragraph (1) applies (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero under rules similar to the rules of subsection (c)(6).
+      - **(ii)** Notwithstanding subsection (c)(3), the shortfall amortization base for the first plan year to which the election under paragraph (1) applies shall be the funding shortfall of such plan for such plan year (determined using the interest rates as modified under subparagraph (A)).
+    - **(C)**
+      - **(i)** Subparagraphs (A) and (B) of subsection (c)(2) shall be applied by substituting “30-plan-year” for “7-plan-year” each place it appears.
+      - **(ii)** The election under subparagraph (D) of subsection (c)(2) shall not apply to any plan year to which the election under paragraph (1) applies.
+    - **(D)** Subsection (i) shall not apply.
+  - **(4)** For purposes of this subsection—
+    - **(A)** The term “community newspaper plan” means a plan to which this section applies maintained by an employer which, as of December 31, 2017 —
+      - **(i)** publishes and distributes daily, either electronically or in printed form—
+        - **(I)** a community newspaper, or
+        - **(II)** 1 or more community newspapers in the same State,
+      - **(ii)** is not a company the stock of which is publicly traded (on a stock exchange or in an over-the-counter market), and is not controlled, directly or indirectly, by such a company,
+      - **(iii)** is controlled, directly or indirectly—
+        - **(I)** by 1 or more persons residing primarily in the State in which the community newspaper is published,
+        - **(II)** for not less than 30 years by individuals who are members of the same family,
+        - **(III)** by a trust created or organized in the State in which the community newspaper is published, the sole trustees of which are persons described in subclause (I) or (II),
+        - **(IV)** by an entity which is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of title 26 , which is organized and operated in the State in which the community newspaper is published, and the primary purpose of which is to benefit communities in such State, or
+        - **(V)** by a combination of persons described in subclause (I), (III), or (IV), and
+      - **(iv)** does not control, directly or indirectly, any newspaper in any other State.
+    - **(B)** The term “community newspaper” means a newspaper which primarily serves a metropolitan statistical area, as determined by the Office of Management and Budget, with a population of not less than 100,000.
+    - **(C)** A person shall be treated as controlled by another person if such other person possesses, directly or indirectly, the power to direct or cause the direction and management of such person (including the power to elect a majority of the members of the board of directors of such person) through the ownership of voting securities.
+  - **(5)** For purposes of this subsection, the term “controlled group” means all persons treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 of title 26 as of December 20, 2019 .
+  - **(6)** Notwithstanding any other provision of law or any regulation issued by the Pension Benefit Guaranty Corporation, in the case of a plan for which an election is made to apply the alternative standards described in paragraph (3), the additional premium under section 1306(a)(3)(E) of this title shall be determined as if such election had not been made.

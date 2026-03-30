@@ -3,9 +3,9 @@ title: "Section 2286 - Establishment"
 usc_title: 42
 usc_section: "2286"
 chapter: 23
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 2286"
-generated_at: "2026-03-30T08:57:32.410Z"
+generated_at: "2026-03-30T08:59:46.950Z"
 status: "active"
 ---
 
@@ -16,26 +16,34 @@ status: "active"
   - **(1)** The Board shall be composed of five members appointed from civilian life by the President, by and with the advice and consent of the Senate, from among United States citizens who are respected experts in the field of nuclear safety with a demonstrated competence and knowledge relevant to the independent investigative and oversight functions of the Board. Not more than three members of the Board shall be of the same political party.
   - **(2)** Any vacancy in the membership of the Board shall be filled in the same manner in which the original appointment was made.
   - **(3)** No member of the Board may be an employee of, or have any significant financial relationship with, the Department of Energy or any contractor of the Department of Energy.
+  - **(4)** The President shall enter into an arrangement with the National Academy of Sciences under which the National Academy shall maintain a list of individuals who meet the qualifications described in paragraph (1) to assist the President in selecting individuals to nominate for positions as members of the Board.
 - **(c)**
   - **(1)** The President shall designate a Chairman and Vice Chairman of the Board from among members of the Board.
-  - **(2)** In accordance with paragraphs (5), (6), and (7), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
+  - **(2)** In accordance with paragraphs (5) and (6), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
     - **(A)** the appointment and supervision of employees of the Board;
     - **(B)** the organization of any administrative units established by the Board; and
     - **(C)** the use and expenditure of funds.
-  - **(3)** The Chairman may delegate any of the functions under this paragraph to any other member or to any appropriate officer of the Board.
+  - **(3)**
+    - **(A)** The Chairman may delegate any of the functions under this paragraph to any other member or to any appropriate officer of the Board.
+    - **(B)** In carrying out subparagraph (A), the Chairman shall delegate to the Executive Director of Operations established under section 2286b(b)(3) of this title the following functions:
+      - **(i)** Administrative functions of the Board.
+      - **(ii)** Appointment and supervision of employees of the Board not specified under paragraph (6).
+      - **(iii)** Distribution of business among the employees and administrative units and offices of the Board.
+      - **(iv)** Preparation of—
+        - **(I)** proposals for the reorganization of the administrative units or offices of the Board;
+        - **(II)** the budget estimate for the Board; and
+        - **(III)** the proposed distribution of funds according to purposes approved by the Board.
   - **(4)** The Vice Chairman shall act as Chairman in the event of the absence or incapacity of the Chairman or in case of a vacancy in the office of Chairman.
   - **(5)** Each member of the Board, including the Chairman and Vice Chairman, shall—
     - **(A)** have equal responsibility and authority in establishing decisions and determining actions of the Board;
     - **(B)** have full access to all information relating to the performance of the Board’s functions, powers, and mission; and
     - **(C)** have one vote.
-  - **(6)** In carrying out paragraph (5)(B), the Chairman may not withhold from any member of the Board any information that is made available to the Chairman regarding the Board’s functions, powers, and mission (including with respect to the management and evaluation of employees of the Board).
-  - **(7)**
-    - **(A)** The Chairman, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C).
-    - **(B)** The Chairman, subject to the approval of the Board, may remove a senior employee described in subparagraph (C).
+  - **(6)**
+    - **(A)** The Chairman, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C). Any member of the Board may propose to the Chairman an individual to be so appointed.
+    - **(B)** The Chairman, subject to the approval of the Board, may remove a senior employee described in subparagraph (C). Any member of the Board may propose to the Chairman an individual to be so removed.
     - **(C)** The senior employees described in this subparagraph are the following senior employees of the Board:
-      - **(i)** The senior employee responsible for budgetary and general administration matters.
+      - **(i)** The Executive Director of Operations established under section 2286b(b)(3) of this title .
       - **(ii)** The general counsel.
-      - **(iii)** The senior employee responsible for technical matters.
 - **(d)**
   - **(1)** Except as provided under paragraph (2), the members of the Board shall serve for terms of five years. Members of the Board may be reappointed.
   - **(2)** Of the members first appointed—
@@ -45,4 +53,11 @@ status: "active"
     - **(D)** one shall be appointed for a term of four years; and
     - **(E)** one shall be appointed for a term of five years,
   - **(3)** Any member appointed to fill a vacancy occurring before the expiration of the term of office for which such member’s predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of that member’s term until a successor has taken office.
+  - **(4)**
+    - **(A)** Not later than 180 days after the expiration of the term of a member of the Board, the President shall—
+      - **(i)** submit to the Senate the nomination of an individual to fill the vacancy; or
+      - **(ii)** submit to the Committee on Armed Services of the Senate a report that includes—
+        - **(I)** a description of the reasons the President did not submit such a nomination; and
+        - **(II)** a plan for submitting such a nomination during the 90-day period following the submission of the report.
+    - **(B)** If the President does not submit to the Senate the nomination of an individual to fill a vacancy during the 90-day period described in subclause (II) of subparagraph (A)(ii), the President shall submit to the Committee on Armed Services a report described in that subparagraph not less frequently than every 90 days until the President submits such a nomination.
 - **(e)** Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.

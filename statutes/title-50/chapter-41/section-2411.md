@@ -3,9 +3,9 @@ title: "Section 2411 - Director for Cost Estimating and Program Evaluation"
 usc_title: 50
 usc_section: "2411"
 chapter: 41
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2411"
-generated_at: "2026-03-30T08:57:54.486Z"
+generated_at: "2026-03-30T08:59:52.826Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** There is in the Administration a Director for Cost Estimating and Program Evaluation (in this section referred to as the “Director”).
   - **(2)** The position of the Director shall be a Senior Executive Service position (as defined in section 3132(a) of title 5 ).
 - **(b)**
-  - **(1)** The Director shall be the principal advisor to the Administrator, the Deputy Secretary of Energy, and the Secretary of Energy with respect to cost estimation and program evaluation for the Administration.
+  - **(1)** The Director shall be the principal advisor to the Administrator, the Deputy Secretary of Energy, and the Secretary of Energy with respect to cost estimation and program evaluation for the Administration. The Director shall report directly to the Administrator.
   - **(2)** The Administrator may not delegate responsibility for receiving or acting on communications from the Director with respect to cost estimation and program evaluation for the Administration.
 - **(c)**
   - **(1)** The Director shall be the responsible for the following activities relating to cost estimation:

@@ -3,9 +3,9 @@ title: "Section 3553 - Authority and functions of the Director and the Secretary
 usc_title: 44
 usc_section: "3553"
 chapter: 35
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "44 U.S.C. § 3553"
-generated_at: "2026-03-30T08:57:17.469Z"
+generated_at: "2026-03-30T08:59:32.182Z"
 status: "active"
 ---
 
@@ -90,6 +90,7 @@ status: "active"
       - **(i)** information collected or maintained by or on behalf of an agency; or
       - **(ii)** that portion of an information system used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency.
 - **(i)** Not later than February 1 of each year, the Director and the Secretary shall submit to the appropriate congressional committees a report regarding the specific actions the Director and the Secretary have taken pursuant to subsection (a)(5), including any actions taken pursuant to section 11303(b)(5) of title 40 .
-- **(j)** In this section, the term “appropriate congressional committees” means—
+- **(j)** Nothing in this section shall be construed to require the Secretary to provide notice to any private entity before the Secretary issues a binding operational directive under subsection (b)(2).
+- **(k)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
   - **(2)** the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.

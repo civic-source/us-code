@@ -3,9 +3,9 @@ title: "Section 262 - Regulation of biological products"
 usc_title: 42
 usc_section: "262"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 262"
-generated_at: "2026-03-30T08:57:32.074Z"
+generated_at: "2026-03-30T08:59:46.592Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
   - **(2)** is not intended for sale in the United States; and
   - **(3)** is intended for further manufacture into final dosage form outside the United States,
 - **(i)** In this section:
-  - **(1)** The term “biological product” means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, protein (except any chemically synthesized polypeptide), or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent organic arsenic compound), applicable to the prevention, treatment, or cure of a disease or condition of human beings.
+  - **(1)** The term “biological product” means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, protein, or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent organic arsenic compound), applicable to the prevention, treatment, or cure of a disease or condition of human beings.
   - **(2)** The term “biosimilar” or “biosimilarity”, in reference to a biological product that is the subject of an application under subsection (k), means—
     - **(A)** that the biological product is highly similar to the reference product notwithstanding minor differences in clinically inactive components; and
     - **(B)** there are no clinically meaningful differences between the biological product and the reference product in terms of the safety, purity, and potency of the product.
@@ -96,6 +96,10 @@ status: "active"
       - **(ii)** a subsequent application filed by the same sponsor or manufacturer of the biological product that is the reference product (or a licensor, predecessor in interest, or other related entity) for—
         - **(I)** a change (not including a modification to the structure of the biological product) that results in a new indication, route of administration, dosing schedule, dosage form, delivery system, delivery device, or strength; or
         - **(II)** a modification to the structure of the biological product that does not result in a change in safety, purity, or potency.
+    - **(D)**
+      - **(i)** An approved application that is deemed to be a license for a biological product under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009 shall not be treated as having been first licensed under subsection (a) for purposes of subparagraphs (A) and (B).
+      - **(ii)** Subparagraph (C) shall apply with respect to a reference product referred to in such subparagraph that was the subject of an approved application that was deemed to be a license pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009.
+      - **(iii)** The exclusivity periods described in section 527, section 505A(b)(1)(A)(ii), and section 505A(c)(1)(A)(ii) of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 360cc and 355a(b)(1)(A)(ii), (c)(1)(A)(ii)] shall continue to apply to a biological product after an approved application for the biological product is deemed to be a license for the biological product under subsection (a) pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009.
   - **(8)**
     - **(A)** The Secretary may, after opportunity for public comment, issue guidance in accordance, except as provided in subparagraph (B)(i), with section 701(h) of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 371(h) ] with respect to the licensure of a biological product under this subsection. Any such guidance may be general or specific.
     - **(B)**

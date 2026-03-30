@@ -3,9 +3,9 @@ title: "Section 10495 - Award of grants; limitation"
 usc_title: 34
 usc_section: "10495"
 chapter: 101
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "34 U.S.C. § 10495"
-generated_at: "2026-03-30T08:56:51.148Z"
+generated_at: "2026-03-30T08:59:24.353Z"
 status: "active"
 ---
 

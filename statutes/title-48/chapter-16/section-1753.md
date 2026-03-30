@@ -3,9 +3,9 @@ title: "Section 1753 - Qualifications for office of Delegate"
 usc_title: 48
 usc_section: "1753"
 chapter: 16
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "48 U.S.C. § 1753"
-generated_at: "2026-03-30T08:57:35.589Z"
+generated_at: "2026-03-30T08:59:51.290Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 3006 - Repealing and savings provisions"
+title: "Section 3006 - Transferred"
 usc_title: 50
 usc_section: "3006"
 chapter: 44
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 3006"
-generated_at: "2026-03-30T08:57:54.495Z"
-status: "active"
+generated_at: "2026-03-30T08:59:52.835Z"
+status: "transferred"
 ---
 
-# § 3006. Repealing and savings provisions
-
-All laws, orders, and regulations inconsistent with the provisions of this title 1 1 See References in Text note below. are repealed insofar as they are inconsistent with the powers, duties, and responsibilities enacted hereby: Provided , That the powers, duties, and responsibilities of the Secretary of Defense under this title 1 shall be administered in conformance with the policy and requirements for administration of budgetary and fiscal matters in the Government generally, including accounting and financial reporting, and that nothing in this title 1 shall be construed as eliminating or modifying the powers, duties, and responsibilities of any other department, agency, or officer of the Government in connection with such matters, but no such department, agency, or officer shall exercise any such powers, duties, or responsibilities in a manner that will render ineffective the provisions of this title. 1
+# § 3006. Transferred
 

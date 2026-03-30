@@ -1,15 +1,15 @@
 ---
-title: "Section 1705 - National Drug Control Strategy"
+title: "Section 1705 - Development, submission, implementation, and assessment of National Drug Control Strategy"
 usc_title: 21
 usc_section: "1705"
 chapter: 22
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "21 U.S.C. § 1705"
-generated_at: "2026-03-30T08:56:24.266Z"
+generated_at: "2026-03-30T08:59:06.306Z"
 status: "active"
 ---
 
-# § 1705. National Drug Control Strategy
+# § 1705. Development, submission, implementation, and assessment of National Drug Control Strategy
 
 - **(a)**
   - **(1)** The Director shall release a statement of drug control policy priorities in the calendar year of a Presidential inauguration following the inauguration, but not later than April 1.
@@ -20,7 +20,7 @@ status: "active"
   - **(3)** The Director shall ensure the National Drug Control Strategy is based on the best available evidence regarding the policies that are most effective in reducing the demand for and supply of illegal drugs.
   - **(4)** In developing and effectively implementing the National Drug Control Strategy, the Director—
     - **(A)** shall consult with—
-      - **(i)** the heads of the National Drug Control Program Agencies;
+      - **(i)** the heads of the National Drug Control Program agencies;
       - **(ii)** each Coordinator listed in section 1703 of this title ;
       - **(iii)** the Interdiction Committee and the Emerging Threats Committee;
       - **(iv)** the appropriate congressional committees and any other committee of jurisdiction;
@@ -81,8 +81,8 @@ status: "active"
     - **(B)**
       - **(i)** The Southwest Border Counternarcotics Strategy shall—
         - **(I)** set forth the Government’s strategy for preventing the illegal trafficking of drugs across the international border between the United States and Mexico, including through ports of entry and between ports of entry on that border;
-        - **(II)** state the specific roles and responsibilities of the relevant National Drug Control Program Agencies for implementing that strategy; and
-        - **(III)** identify the specific resources required to enable the relevant National Drug Control Program Agencies to implement that strategy.
+        - **(II)** state the specific roles and responsibilities of the relevant National Drug Control Program agencies for implementing that strategy; and
+        - **(III)** identify the specific resources required to enable the relevant National Drug Control Program agencies to implement that strategy.
       - **(ii)** The Southwest Border Counternarcotics Strategy shall include—
         - **(I)** a strategy to end the construction and use of tunnels and subterranean passages that cross the international border between the United States and Mexico for the purpose of illegal trafficking of drugs across such border; and
         - **(II)** recommendations for criminal penalties for persons who construct or use such a tunnel or subterranean passage for such a purpose.
@@ -90,7 +90,7 @@ status: "active"
       - **(i)** The Northern Border Counternarcotics Strategy shall—
         - **(I)** set forth the strategy of the Federal Government for preventing the illegal trafficking of drugs across the international border between the United States and Canada, including through ports of entry and between ports of entry on the border;
         - **(II)** state the specific roles and responsibilities of each relevant National Drug Control Program agency for implementing the strategy;
-        - **(III)** identify the specific resources required to enable the relevant National Drug Control Program Agencies to implement the strategy;
+        - **(III)** identify the specific resources required to enable the relevant National Drug Control Program agencies to implement the strategy;
         - **(IV)** be designed to promote, and not hinder, legitimate trade and travel; and
         - **(V)** reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law, 1 1 So in original. The comma probably should not appear. enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
       - **(ii)** The Northern Border Counternarcotics Strategy shall include—

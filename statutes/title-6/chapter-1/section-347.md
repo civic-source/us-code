@@ -3,9 +3,9 @@ title: "Section 347 - Quadrennial homeland security review"
 usc_title: 6
 usc_section: "347"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "6 U.S.C. § 347"
-generated_at: "2026-03-30T08:55:03.535Z"
+generated_at: "2026-03-30T08:58:12.302Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** In fiscal year 2009, and every 4 years thereafter, the Secretary shall conduct a review of the homeland security of the Nation (in this section referred to as a “quadrennial homeland security review”).
   - **(2)** Each quadrennial homeland security review shall be a comprehensive examination of the homeland security strategy of the Nation, including recommendations regarding the long-term strategy and priorities of the Nation for homeland security and guidance on the programs, assets, capabilities, budget, policies, and authorities of the Department.
   - **(3)** The Secretary shall conduct each quadrennial homeland security review under this subsection in consultation with—
-    - **(A)** the heads of other Federal agencies, including the Attorney General, the Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of the Treasury, the Secretary of Agriculture, and the Director of National Intelligence;
+    - **(A)** the heads of other Federal agencies, including the Attorney General, the Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of the Treasury, the Secretary of Agriculture the Secretary of Energy,, 1 1 So in original. and the Director of National Intelligence;
     - **(B)** key officials of the Department, including the Under Secretary for Strategy, Policy, and Plans; and
     - **(C)** other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, private sector representatives, academics, and other policy experts.
   - **(4)** The Secretary shall ensure that each review conducted under this section is coordinated with the Future Years Homeland Security Program required under section 454 of this title .
@@ -30,7 +30,7 @@ status: "active"
   - **(1)** Not later than December 31 of the year in which a quadrennial homeland security review is conducted, the Secretary shall submit to Congress a report regarding that quadrennial homeland security review.
   - **(2)** Each report submitted under paragraph (1) shall include—
     - **(A)** the results of the quadrennial homeland security review;
-    - **(B)** a description of the threats to the assumed or defined national homeland security interests of the Nation that were examined for the purposes of that review;
+    - **(B)** a description of the threats to the assumed or defined national homeland security interests of the Nation that were examined for the purposes of that review or for purposes of the quadrennial EMP and GMD risk assessment under section 195f(d)(1)(E) of this title ;
     - **(C)** the national homeland security strategy, including a prioritized list of the critical homeland security missions of the Nation;
     - **(D)** a description of the interagency cooperation, preparedness of Federal response assets, infrastructure, budget plan, and other elements of the homeland security program and policies of the Nation associated with the national homeland security strategy, required to execute successfully the full range of missions called for in the applicable national homeland security strategy referred to in subsection (b)(1) and the homeland security mission areas outlined under subsection (b)(2);
     - **(E)** an assessment of the organizational alignment of the Department with the applicable national homeland security strategy referred to in subsection (b)(1) and the homeland security mission areas outlined under subsection (b)(2), including the Department’s organizational structure, management systems, budget and accounting systems, human resources systems, procurement systems, and physical and technical infrastructure;

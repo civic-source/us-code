@@ -3,9 +3,9 @@ title: "Section 198 - Adjournment"
 usc_title: 2
 usc_section: "198"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "2 U.S.C. § 198"
-generated_at: "2026-03-30T08:54:57.502Z"
+generated_at: "2026-03-30T08:58:09.914Z"
 status: "active"
 ---
 

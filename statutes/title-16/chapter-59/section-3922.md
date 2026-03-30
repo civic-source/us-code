@@ -3,9 +3,9 @@ title: "Section 3922 - Federal acquisition"
 usc_title: 16
 usc_section: "3922"
 chapter: 59
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "16 U.S.C. § 3922"
-generated_at: "2026-03-30T08:56:05.548Z"
+generated_at: "2026-03-30T08:58:41.758Z"
 status: "active"
 ---
 

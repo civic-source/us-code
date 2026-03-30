@@ -3,9 +3,9 @@ title: "Section 2803 - National Geospatial Advisory Committee"
 usc_title: 43
 usc_section: "2803"
 chapter: 46
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 2803"
-generated_at: "2026-03-30T08:57:23.115Z"
+generated_at: "2026-03-30T08:59:31.487Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
     - **(B)** after serving for 2 consecutive terms, is eligible to be appointed as a member of the Advisory Committee on and after the date that is 2 years after the end of the second consecutive term of the individual as a member of the Advisory Committee.
   - **(5)** A member of the Advisory Committee may not participate in any specific-party matter (including a lease, license, permit, contract, claim, agreement, or related litigation) with the Department of the Interior in which the member has a direct financial interest.
   - **(6)**
-    - **(A)** An individual serving on the day before October 5, 2018 as a member of the National Geospatial Advisory Committee established by the Secretary of the Interior may serve as a member of the Advisory Committee until the end of the term of the individual under the appointment.
+    - **(A)** An individual serving on the day before October 5, 2018 , as a member of the National Geospatial Advisory Committee established by the Secretary of the Interior may serve as a member of the Advisory Committee until the end of the term of the individual under the appointment.
     - **(B)** Any period of service as a member of the National Geospatial Advisory Committee established by the Secretary of the Interior shall be considered a period of service as a member of the Advisory Committee for purposes of paragraph (4).
 - **(c)** A subcommittee of the Advisory Committee—
   - **(1)** may be formed for the purposes of compiling information or conducting research;

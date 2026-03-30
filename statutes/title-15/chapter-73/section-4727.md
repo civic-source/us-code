@@ -3,9 +3,9 @@ title: "Section 4727 - Trade Promotion Coordinating Committee"
 usc_title: 15
 usc_section: "4727"
 chapter: 73
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 4727"
-generated_at: "2026-03-30T08:55:58.068Z"
+generated_at: "2026-03-30T08:58:33.113Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
     - **(H)** the Small Business Administration;
     - **(I)** the Agency for International Development;
     - **(J)** the Trade and Development Program;
-    - **(K)** the Overseas Private Investment Corporation;
+    - **(K)** the United States International Development Finance Corporation;
     - **(L)** the Export-Import Bank of the United States; and
     - **(M)** at the discretion of the President, such other departments or agencies as may be necessary.
   - **(2)** The TPCC shall also include 1 or more members appointed by the President who are representatives of State trade promotion agencies.

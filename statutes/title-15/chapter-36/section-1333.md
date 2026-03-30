@@ -3,9 +3,9 @@ title: "Section 1333 - Labeling"
 usc_title: 15
 usc_section: "1333"
 chapter: 36
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 1333"
-generated_at: "2026-03-30T08:55:58.009Z"
+generated_at: "2026-03-30T08:58:33.053Z"
 status: "active"
 ---
 

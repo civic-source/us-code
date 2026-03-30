@@ -3,9 +3,9 @@ title: "Section 7014 - Office of the Secretary of the Army"
 usc_title: 10
 usc_section: "7014"
 chapter: 703
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 7014"
-generated_at: "2026-03-30T08:55:17.732Z"
+generated_at: "2026-03-30T08:58:17.500Z"
 status: "active"
 ---
 
@@ -41,8 +41,8 @@ status: "active"
   - **(4)** The Secretary shall prescribe the relationship of the office or other entity established or designated under paragraph (3) to the Chief of Staff of the Army and to the Army Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
 - **(e)** The Secretary of the Army shall ensure that the Office of the Secretary of the Army and the Army Staff do not duplicate specific functions for which the Secretary has assigned responsibility to the other.
 - **(f)**
-  - **(1)** The total number of members of the armed forces and civilian employees of the Department of the Army assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 3,105.
-  - **(2)** Not more than 1,865 officers of the Army on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff.
+  - **(1)** The total number of members of the armed forces and civilian employees of the Department of the Army assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 3,250.
+  - **(2)** Not more than 1,900 officers of the Army on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff.
   - **(3)** The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 67.
   - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
   - **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.

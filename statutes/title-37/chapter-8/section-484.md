@@ -3,9 +3,9 @@ title: "Section 484 - Travel and transportation; dependents; household and perso
 usc_title: 37
 usc_section: "484"
 chapter: 8
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "37 U.S.C. § 484"
-generated_at: "2026-03-30T08:56:56.792Z"
+generated_at: "2026-03-30T08:59:26.800Z"
 status: "active"
 ---
 
@@ -30,6 +30,6 @@ status: "active"
 - **(i)** If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this section does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the dependent for expenses incurred after that date to rent a motor vehicle for the dependent’s use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first). In a case in which two motor vehicles of a member (or the dependent or dependents of a member) are transported at the expense of the United States, no reimbursement is payable under this subsection unless both motor vehicles do not arrive at the authorized destination of the vehicles by the designated delivery date.
 - **(j)** This section does not amend or repeal—
   - **(1)** section 2575, 2733, 4712, 6522, or 9712 of title 10;
-  - **(2)** section 507 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14; or
+  - **(2)** section 507 1 1 See References in Text note below. of title 14; or
   - **(3)** chapter 171 of title 28.
 - **(k)** No transportation, allowance, or reimbursement may be provided under this section for a move that begins after the travel authorities transition expiration date.

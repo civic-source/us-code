@@ -3,9 +3,9 @@ title: "Section 17 - Plats of land surveyed"
 usc_title: 43
 usc_section: "17"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 17"
-generated_at: "2026-03-30T08:57:23.061Z"
+generated_at: "2026-03-30T08:59:31.432Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 125 - Emergency relief"
 usc_title: 23
 usc_section: "125"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "23 U.S.C. § 125"
-generated_at: "2026-03-30T08:56:18.788Z"
+generated_at: "2026-03-30T08:59:05.176Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
     - **(A)** an event not declared a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.);
     - **(B)** an event declared a major disaster or emergency by the President under that Act if the debris removal is not eligible for assistance under section 403, 407, or 502 of that Act ( 42 U.S.C. 5170b , 5173, 5192); or
     - **(C)** projects eligible for assistance under this section located on tribal transportation facilities, Federal lands transportation facilities, or other federally owned roads that are open to public travel (as defined in subsection (e)(1)).
-  - **(4)** The total obligations for projects under this section for any fiscal year in the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall not exceed $20,000,000.
+  - **[(4)** Repealed. Pub. L. 116–94, div. H, title I, § 127 , Dec. 20, 2019 , 133 Stat. 2953 .]
   - **(5)** Notwithstanding any other provision of this section, actual and necessary costs of maintenance and operation of ferryboats or additional transit service providing temporary substitute highway traffic service, less the amount of fares charged for comparable service, may be expended from the emergency fund authorized by this section for Federal-aid highways.
 - **(e)**
   - **(1)** In this subsection, the following definitions apply:

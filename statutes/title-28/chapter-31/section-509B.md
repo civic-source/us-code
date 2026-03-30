@@ -3,9 +3,9 @@ title: "Section 509B - Section to enforce human rights laws"
 usc_title: 28
 usc_section: "509B"
 chapter: 31
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "28 U.S.C. § 509B"
-generated_at: "2026-03-30T08:56:33.729Z"
+generated_at: "2026-03-30T08:59:09.360Z"
 status: "active"
 ---
 

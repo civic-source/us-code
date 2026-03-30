@@ -3,9 +3,9 @@ title: "Section 312 - Terrorism and financial intelligence"
 usc_title: 31
 usc_section: "312"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "31 U.S.C. § 312"
-generated_at: "2026-03-30T08:56:52.839Z"
+generated_at: "2026-03-30T08:59:22.387Z"
 status: "active"
 ---
 
@@ -25,9 +25,10 @@ status: "active"
     - **(B)** United States economic sanctions programs;
     - **(C)** combating terrorist financing;
     - **(D)** combating financial crimes, including money laundering, counterfeiting, and other offenses threatening the integrity of the banking and financial systems;
-    - **(E)** other enforcement matters;
-    - **(F)** those intelligence analysis and coordination functions described in subsection (b); and
-    - **(G)** the security functions and programs of the Department of the Treasury.
+    - **(E)** combating illicit financing relating to human trafficking;
+    - **(F)** other enforcement matters;
+    - **(G)** those intelligence analysis and coordination functions described in subsection (b); and
+    - **(H)** the security functions and programs of the Department of the Treasury.
   - **(5)** The Undersecretary for Terrorism and Financial Crimes and the Assistant Secretary for Terrorist Financing shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 72 hours after proposing by rule, regulation, order, or otherwise, any measure to reorganize the structure of the Department for combatting money laundering and terrorist financing, before any such proposal becomes effective.
   - **(6)** Notwithstanding any other provision of law, the following offices of the Department of the Treasury shall be within the OTFI:
     - **(A)** The Office of the Assistant Secretary for Intelligence and Analysis, which shall report directly to the Undersecretary for Terrorism and Financial Crimes.
@@ -39,6 +40,13 @@ status: "active"
   - **(7)**
     - **(A)** The Financial Crimes Enforcement Network (in this section referred to as “FinCEN”), a bureau of the Department of the Treasury, shall report to the Undersecretary for Terrorism and Financial Crimes. The Undersecretary for Terrorism and Financial Crimes may not redelegate its reporting authority over FinCEN.
     - **(B)** There is established within FinCEN, an Office of Compliance.
+  - **(8)** The Secretary of the Treasury, after consultation with the Undersecretary for Terrorism and Financial Crimes, shall designate an office within the OTFI that shall coordinate efforts to combat the illicit financing of human trafficking with—
+    - **(A)** other offices of the Department of the Treasury;
+    - **(B)** other Federal agencies, including—
+      - **(i)** the Office to Monitor and Combat Trafficking in Persons of the Department of State; and
+      - **(ii)** the Interagency Task Force to Monitor and Combat Trafficking;
+    - **(C)** State and local law enforcement agencies; and
+    - **(D)** foreign governments.
 - **(b)**
   - **(1)** The Assistant Secretary for Intelligence and Analysis shall head the OIA.
   - **(2)** The OIA shall be responsible for the receipt, analysis, collation, and dissemination of intelligence and counterintelligence information related to the operations and responsibilities of the entire Department of the Treasury, including all components and bureaus of the Department.

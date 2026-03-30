@@ -3,9 +3,9 @@ title: "Section 3034a - Functional Managers for the intelligence community"
 usc_title: 50
 usc_section: "3034a"
 chapter: 44
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 3034a"
-generated_at: "2026-03-30T08:57:54.497Z"
+generated_at: "2026-03-30T08:59:52.838Z"
 status: "active"
 ---
 

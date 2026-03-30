@@ -3,9 +3,9 @@ title: "Section 1761a - Streamlining the Forest Service process for consideratio
 usc_title: 43
 usc_section: "1761a"
 chapter: 35
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 1761a"
-generated_at: "2026-03-30T08:57:23.108Z"
+generated_at: "2026-03-30T08:59:31.480Z"
 status: "active"
 ---
 
@@ -54,8 +54,9 @@ status: "active"
 - **(f)**
   - **(1)** The Secretary of the Treasury shall establish a special account in the Treasury for the Forest Service for the deposit of fees collected by the Forest Service under subsection (c)(3) for communications use authorizations on covered land granted, issued, or executed by the Forest Service.
   - **(2)** Fees collected by the Forest Service under subsection (c)(3) shall be—
-    - **(A)** based on the costs described in subsection (c)(3); and
-    - **(B)** competitively neutral, technology neutral, and nondiscriminatory with respect to other users of the communications site.
+    - **(A)** collected only to the extent provided in advance in appropriations Acts;
+    - **(B)** based on the costs described in subsection (c)(3); and
+    - **(C)** competitively neutral, technology neutral, and nondiscriminatory with respect to other users of the communications site.
   - **(3)** Fees collected by the Forest Service under subsection (c)(3) shall be deposited in the special account established for the Forest Service under paragraph (1).
   - **(4)** Amounts deposited in the special account for the Forest Service shall be available, to the extent and in such amounts as are provided in advance in appropriation Acts, to the Secretary to cover costs incurred by the Forest Service described in subsection (c)(3), including the following:
     - **(A)** Preparing needs assessments or other programmatic analyses necessary to designate communications sites and issue communications use authorizations.

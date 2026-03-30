@@ -3,20 +3,20 @@ title: "Section 9414b - United States Air Force Institute of Technology: adminis
 usc_title: 10
 usc_section: "9414b"
 chapter: 951
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 9414b"
-generated_at: "2026-03-30T08:55:17.752Z"
+generated_at: "2026-03-30T08:58:17.522Z"
 status: "active"
 ---
 
 # § 9414b. United States Air Force Institute of Technology: administration
 
 - **(a)**
-  - **(1)** The Commandant of the United States Air Force Institute of Technology shall be selected by the Secretary of the Air Force.
-  - **(2)** The Commandant shall be one of the following:
+  - **(1)** The Director and Chancellor of the United States Air Force Institute of Technology shall be selected by the Secretary of the Air Force.
+  - **(2)** The Director and Chancellor shall be one of the following:
     - **(A)** An officer of the Air Force on active duty in a grade not below the grade of colonel who possesses such qualifications as the Secretary considers appropriate and is assigned or detailed to such position.
-    - **(B)** A member of the Senior Executive Service or a civilian individual, including an individual who was retired from the Air Force in a grade not below brigadier general, who has the qualifications appropriate for the position of Commandant and is selected by the Secretary as the best qualified from among candidates for the position in accordance with a process and criteria determined by the Secretary.
-  - **(3)** An individual selected for the position of Commandant under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
+    - **(B)** A member of the Senior Executive Service or a civilian individual, including an individual who was retired from the Air Force in a grade not below brigadier general, who has the qualifications appropriate for the position of Director and Chancellor and is selected by the Secretary as the best qualified from among candidates for the position in accordance with a process and criteria determined by the Secretary.
+  - **(3)** An individual selected for the position of Director and Chancellor under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
 - **(b)**
   - **(1)** There is established at the United States Air Force Institute of Technology the civilian position of Provost and Academic Dean who shall be appointed by the Secretary.
   - **(2)** An individual appointed to the position of Provost and Academic Dean shall serve in that position for a term of five years.

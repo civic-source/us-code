@@ -3,9 +3,9 @@ title: "Section 195 - Enforcement"
 usc_title: 30
 usc_section: "195"
 chapter: 3
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "30 U.S.C. § 195"
-generated_at: "2026-03-30T08:56:26.811Z"
+generated_at: "2026-03-30T08:59:08.712Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15 - Office of Ombudsman"
 usc_title: 42
 usc_section: "15"
 chapter: 84
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T08:57:32.527Z"
+generated_at: "2026-03-30T08:59:47.068Z"
 status: "active"
 ---
 
@@ -17,8 +17,9 @@ status: "active"
   - **(2)** An individual employed by the Secretary from the private sector from among individuals in the private sector who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c).
 - **(c)** The duties of the Office shall be as follows:
   - **(1)** To provide information on the benefits available under this part and part B and on the requirements and procedures applicable to the provision of such benefits.
-  - **(2)** To make recommendations to the Secretary regarding the location of centers (to be known as “resource centers”) for the acceptance and development of claims for benefits under this part and part B.
-  - **(3)** To carry out such other duties with respect to this part and part B as the Secretary shall specify for purposes of this section.
+  - **(2)** To provide guidance and assistance to claimants.
+  - **(3)** To make recommendations to the Secretary regarding the location of centers (to be known as “resource centers”) for the acceptance and development of claims for benefits under this part and part B.
+  - **(4)** To carry out such other duties with respect to this part and part B as the Secretary shall specify for purposes of this section.
 - **(d)** The Secretary shall take appropriate actions to ensure the independence of the Office within the Department of Labor, including independence from other officers and employees of the Department engaged in activities relating to the administration of the provisions of this part and part B.
 - **(e)**
   - **(1)** Not later than July 30 each year, the Ombudsman shall submit to Congress a report on activities under this part and part B.
@@ -32,4 +33,4 @@ status: "active"
     - **(C)** if the Secretary does not agree with the Ombudsman on those issues, describes the reasons the Secretary does not agree.
 - **(f)** The Secretary of Labor and the Secretary of Health and Human Services shall each undertake outreach to advise the public of the existence and duties of the Office.
 - **(g)** In carrying out the duties of the Ombudsman under this section, the Ombudsman shall work with the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
-- **(h)** Effective October 28, 2019 , this section shall have no further force or effect.
+- **(h)** Effective October 28, 2020 , this section shall have no further force or effect.

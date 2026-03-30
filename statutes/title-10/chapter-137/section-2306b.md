@@ -3,9 +3,9 @@ title: "Section 2306b - Multiyear contracts: acquisition of property"
 usc_title: 10
 usc_section: "2306b"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2306b"
-generated_at: "2026-03-30T08:55:17.700Z"
+generated_at: "2026-03-30T08:58:17.465Z"
 status: "active"
 ---
 
@@ -63,7 +63,7 @@ status: "active"
     - **(A)** The Secretary may obligate funds for procurement of an end item under a multiyear contract for the purchase of property only for procurement of a complete and usable end item.
     - **(B)** The Secretary may obligate funds appropriated for any fiscal year for advance procurement under a contract for the purchase of property only for the procurement of those long-lead items necessary in order to meet a planned delivery schedule for complete major end items that are programmed under the contract to be acquired with funds appropriated for a subsequent fiscal year (including an economic order quantity of such long-lead items when authorized by law).
   - **(6)** The Secretary may make the certification under paragraph (3) notwithstanding the fact that one or more of the conditions of such certification are not met, if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
-  - **(7)** The Secretary may not delegate the authority to make the certification under paragraph (3) or the determination under paragraph (6) to an official below the level of Under Secretary of Defense for Acquisition, Technology, and Logistics.
+  - **(7)** The Secretary may not delegate the authority to make the certification under paragraph (3) or the determination under paragraph (6) to an official below the level of Under Secretary of Defense for Acquisition and Sustainment.
 - **(j)** The Secretary of Defense may instruct the Secretary of the military department concerned to incorporate into a proposed multiyear contract negotiated priced options for varying the quantities of end items to be procured over the period of the contract.
 - **(k)** For the purposes of this section, a multiyear contract is a contract for the purchase of property for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 - **(l)**

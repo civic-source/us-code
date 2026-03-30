@@ -3,9 +3,9 @@ title: "Section 2518 - Seal and name"
 usc_title: 22
 usc_section: "2518"
 chapter: 34
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 2518"
-generated_at: "2026-03-30T08:56:22.229Z"
+generated_at: "2026-03-30T08:59:03.839Z"
 status: "active"
 ---
 

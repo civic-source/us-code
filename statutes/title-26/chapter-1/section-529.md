@@ -3,9 +3,9 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-03-30T08:56:41.387Z"
+generated_at: "2026-03-30T08:59:14.380Z"
 status: "active"
 ---
 
@@ -66,6 +66,13 @@ status: "active"
       - **(ii)** a member of the family of the old beneficiary.
   - **(6)** The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from a Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004 , which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
   - **(7)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for tuition in connection with enrollment or attendance at an elementary or secondary public, private, or religious school.
+  - **(8)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for fees, books, supplies, and equipment required for the participation of a designated beneficiary in an apprenticeship program registered and certified with the Secretary of Labor under section 1 of the National Apprenticeship Act ( 29 U.S.C. 50 ).
+  - **(9)**
+    - **(A)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to amounts paid as principal or interest on any qualified education loan (as defined in section 221(d)) of the designated beneficiary or a sibling of the designated beneficiary.
+    - **(B)** The amount of distributions treated as a qualified higher education expense under this paragraph with respect to the loans of any individual shall not exceed $10,000 (reduced by the amount of distributions so treated for all prior taxable years).
+    - **(C)**
+      - **(i)** For purposes of subparagraph (B) and subsection (d), amounts treated as a qualified higher education expense with respect to the loans of a sibling of the designated beneficiary shall be taken into account with respect to such sibling and not with respect to such designated beneficiary.
+      - **(ii)** For purposes of this paragraph, the term “sibling” means an individual who bears a relationship to the designated beneficiary which is described in section 152(d)(2)(B).
 - **(d)** Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 - **(e)** For purposes of this section—
   - **(1)** The term “designated beneficiary” means—

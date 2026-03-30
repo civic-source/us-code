@@ -3,9 +3,9 @@ title: "Section 1d - National program for traumatic brain injury surveillance an
 usc_title: 42
 usc_section: "1d"
 chapter: 6
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 1d"
-generated_at: "2026-03-30T08:57:32.080Z"
+generated_at: "2026-03-30T08:59:46.599Z"
 status: "active"
 ---
 

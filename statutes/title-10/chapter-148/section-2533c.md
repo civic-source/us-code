@@ -3,9 +3,9 @@ title: "Section 2533c - Prohibition on acquisition of sensitive materials from n
 usc_title: 10
 usc_section: "2533c"
 chapter: 148
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2533c"
-generated_at: "2026-03-30T08:55:17.717Z"
+generated_at: "2026-03-30T08:58:17.483Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Except as provided in subsection (c), the Secretary of Defense may not—
   - **(1)** procure any covered material melted or produced in any covered nation, or any end item that contains a covered material manufactured in any covered nation, except as provided by subsection (c); or
-  - **(2)** sell any covered material from the National Defense Stockpile, if the National Defense Stockpile Manager determines that such a sale is not in the national interests of the United States, to—
+  - **(2)** sell any material from the National Defense Stockpile, if the National Defense Stockpile Manager determines that such a sale is not in the national interests of the United States, to—
     - **(A)** any covered nation; or
     - **(B)** any third party that the Secretary reasonably believes is acting as a broker or agent for a covered nation or an entity in a covered nation.
 - **(b)** Subsection (a) shall apply to prime contracts and subcontracts at any tier.
@@ -30,8 +30,9 @@ status: "active"
   - **(1)** The term “covered material” means—
     - **(A)** samarium-cobalt magnets;
     - **(B)** neodymium-iron-boron magnets;
-    - **(C)** tungsten metal powder; and
-    - **(D)** tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy.
+    - **(C)** tungsten metal powder;
+    - **(D)** tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy; and
+    - **(E)** tantalum metals and alloys.
   - **(2)** The term “covered nation” means—
     - **(A)** the Democratic People’s Republic of North Korea;
     - **(B)** the People’s Republic of China;

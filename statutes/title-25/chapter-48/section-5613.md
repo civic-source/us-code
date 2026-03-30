@@ -3,9 +3,9 @@ title: "Section 5613 - Indian trust asset management plan"
 usc_title: 25
 usc_section: "5613"
 chapter: 48
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "25 U.S.C. § 5613"
-generated_at: "2026-03-30T08:56:18.412Z"
+generated_at: "2026-03-30T08:59:00.950Z"
 status: "active"
 ---
 

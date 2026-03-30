@@ -3,9 +3,9 @@ title: "Section 2402 - Prohibition of contractors limiting subcontractor sales d
 usc_title: 10
 usc_section: "2402"
 chapter: 141
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2402"
-generated_at: "2026-03-30T08:55:17.709Z"
+generated_at: "2026-03-30T08:58:17.475Z"
 status: "active"
 ---
 
@@ -17,5 +17,5 @@ status: "active"
 - **(b)** This section does not prohibit a contractor from asserting rights it otherwise has under law.
 - **(c)** This section does not apply to a contract that is for an amount not greater than the simplified acquisition threshold (as defined in section 134 of title 41 ).
 - **(d)**
-  - **(1)** An agreement between the contractor in a contract for the acquisition of commercial items and a subcontractor under such contract that restricts sales by such subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the United States in violation of the provision included in such contract pursuant to subsection (a) if the agreement does not result in the United States being treated differently with regard to the restriction than any other prospective purchaser of such commercial items from that subcontractor.
-  - **(2)** In paragraph (1), the term “commercial item” has the meaning given such term in section 103 of title 41 .
+  - **(1)** An agreement between the contractor in a contract for the acquisition of commercial products or commercial services and a subcontractor under such contract that restricts sales by such subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the United States in violation of the provision included in such contract pursuant to subsection (a) if the agreement does not result in the United States being treated differently with regard to the restriction than any other prospective purchaser of such commercial products or commercial services from that subcontractor.
+  - **(2)** In paragraph (1), the terms “commercial product” and “commercial service” have the meanings given those terms in sections 103 and 103a, respectively, of title 41.

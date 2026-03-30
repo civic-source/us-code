@@ -3,9 +3,9 @@ title: "Section 113 - Secretary of Defense"
 usc_title: 10
 usc_section: "113"
 chapter: 2
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 113"
-generated_at: "2026-03-30T08:55:17.615Z"
+generated_at: "2026-03-30T08:58:17.386Z"
 status: "active"
 ---
 
@@ -84,7 +84,7 @@ status: "active"
     - **(E)** identify the deficiencies in the defense capabilities of the armed forces of the United States in such budget and such five-year defense program.
   - **(3)** The Secretary shall transmit to Congress the report required for each year under paragraph (1) at the same time that the President submits the budget to Congress under section 1105 of title 31 in that year. Such report shall be transmitted in both classified and unclassified form.
 - **(j)**
-  - **(1)** Not later than April 8 of each year, the Secretary of Defense shall submit to congressional defense committees 1 1 So in original. Probably should be “the congressional defense committees”. a report on the cost of stationing United States forces outside of the United States. Each such report shall include a detailed statement of the following:
+  - **(1)** Not later than April 8 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the cost of stationing United States forces outside of the United States. Each such report shall include a detailed statement of the following:
     - **(A)** The costs incurred outside the United States in connection with operating, maintaining, and supporting United States forces outside the United States, including all direct and indirect expenditures of United States funds in connection with such stationing.
     - **(B)** The amount of direct and indirect support for the stationing of United States forces provided by each host nation.
   - **(2)** In this subsection, the term “United States”, when used in a geographic sense, includes the territories and possessions of the United States.
@@ -93,3 +93,6 @@ status: "active"
 - **(m)** Whenever the President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
   - **(1)** What clear and distinct objectives guide the activities of United States forces in the operation.
   - **(2)** What the President has identified on the basis of those objectives as the date, or the set of conditions, that defines the endpoint of the operation.
+- **(n)** The Secretary of Defense shall provide the Chair of the Council of Inspectors General on Integrity and Efficiency written notification of the commencement or designation of a military operation as an overseas contingency operation upon the earlier of—
+  - **(1)** a determination by the Secretary that the overseas contingency operation is expected to exceed 60 days; or
+  - **(2)** the date on which the overseas contingency operation exceeds 60 days.

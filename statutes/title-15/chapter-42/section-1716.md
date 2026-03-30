@@ -3,9 +3,9 @@ title: "Section 1716 - Unlawful representations"
 usc_title: 15
 usc_section: "1716"
 chapter: 42
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "15 U.S.C. § 1716"
-generated_at: "2026-03-30T08:55:58.032Z"
+generated_at: "2026-03-30T08:58:33.076Z"
 status: "active"
 ---
 

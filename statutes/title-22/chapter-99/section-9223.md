@@ -3,9 +3,9 @@ title: "Section 9223 - Proliferation prevention sanctions"
 usc_title: 22
 usc_section: "9223"
 chapter: 99
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 9223"
-generated_at: "2026-03-30T08:56:22.309Z"
+generated_at: "2026-03-30T08:59:03.920Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** A validated license shall be required for the export to North Korea of any goods or technology otherwise covered under section 4605(j) 1 1 See References in Text note below. of title 50. No defense exports may be approved for the Government of North Korea.
 - **(b)**
   - **(1)** The President shall withhold assistance under the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq.) to the government of any country that provides to or receives from the Government of North Korea a defense article or defense service, as such terms are defined in section 2794 of this title , if the President determines that a significant type or amount of such article or service has been so provided or received.
-  - **(2)** The prohibition under paragraph (1) with respect to a government shall terminate on the date that is 2 years after the date on which the prohibition under paragraph (1) is applied to that government.
+  - **(2)** The prohibition under paragraph (1) with respect to a government shall terminate on the date that is 5 years after the date on which the prohibition under paragraph (1) is applied to that government.
 - **(c)** Notwithstanding any other provision of law, the Secretary of State may waive the prohibitions under this section with respect to a country if the Secretary—
   - **(1)** determines that such waiver is in the national interest of the United States; and
   - **(2)** submits a written report to the appropriate congressional committees that describes—

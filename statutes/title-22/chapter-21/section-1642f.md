@@ -3,9 +3,9 @@ title: "Section 1642f - Prevention of double benefits"
 usc_title: 22
 usc_section: "1642f"
 chapter: 21
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "22 U.S.C. § 1642f"
-generated_at: "2026-03-30T08:56:22.197Z"
+generated_at: "2026-03-30T08:59:03.808Z"
 status: "active"
 ---
 

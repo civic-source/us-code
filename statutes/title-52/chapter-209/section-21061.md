@@ -3,9 +3,9 @@ title: "Section 21061 - Payments for protection and advocacy systems"
 usc_title: 52
 usc_section: "21061"
 chapter: 209
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "52 U.S.C. § 21061"
-generated_at: "2026-03-30T08:57:56.249Z"
+generated_at: "2026-03-30T08:59:59.407Z"
 status: "active"
 ---
 

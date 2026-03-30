@@ -3,9 +3,9 @@ title: "Section 40118 - Government-financed air transportation"
 usc_title: 49
 usc_section: "40118"
 chapter: 401
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "49 U.S.C. § 40118"
-generated_at: "2026-03-30T08:57:40.859Z"
+generated_at: "2026-03-30T08:59:54.808Z"
 status: "active"
 ---
 
@@ -26,9 +26,9 @@ status: "active"
 - **(d)** Notwithstanding subsections (a) and (c) of this section, any amount appropriated to the Secretary of State or the Administrator of the Agency for International Development may be used to pay for the transportation of an officer or employee of the Department of State or one of those agencies, a dependent of the officer or employee, and accompanying baggage, by a foreign air carrier when the transportation is between 2 places outside the United States.
 - **(e)** This section does not affect the application of the antidiscrimination provisions of this part.
 - **(f)**
-  - **(1)** No certification by a contractor, and no contract clause, may be required in the case of a contract for the transportation of commercial items in order to implement a requirement in this section.
-  - **(2)** In paragraph (1), the term “commercial item” has the meaning given such term in section 103 of title 41 , except that it shall not include a contract for the transportation by air of passengers.
+  - **(1)** No certification by a contractor, and no contract clause, may be required in the case of a contract for the transportation of commercial products in order to implement a requirement in this section.
+  - **(2)** In paragraph (1), the term “commercial product” has the meaning given such term in section 103 of title 41 , except that it shall not include a contract for the transportation by air of passengers.
 - **(g)** The Administrator of General Services shall ensure that any contract entered into for provision of air transportation with a domestic carrier under this section requires that the contracting air carrier submits to the Administrator of General Services, the Secretary of Transportation, the Administrator of the Transportation Security Administration, the Secretary of Labor and the Commissioner of U.S. Customs and Border Protection an annual report regarding—
-  - **(1)** the number of personnel trained in the detection and reporting of potential human trafficking (as described in paragraphs (9) and (10) of section 103 of the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7102 )), including the training required under section 44734(a)(4);
+  - **(1)** the number of personnel trained in the detection and reporting of potential human trafficking (as described in paragraphs (9) and (10) 1 1 See References in Text note below. of section 103 of the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7102 )), including the training required under section 44734(a)(4);
   - **(2)** the number of notifications of potential human trafficking victims received from staff or other passengers; and
   - **(3)** whether the air carrier notified the National Human Trafficking Hotline or law enforcement at the relevant airport of the potential human trafficking victim for each such notification of potential human trafficking, and if so, when the notification was made.

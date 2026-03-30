@@ -3,15 +3,15 @@ title: "Section 53104 - Effectiveness of operating agreements"
 usc_title: 46
 usc_section: "53104"
 chapter: 531
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "46 U.S.C. § 53104"
-generated_at: "2026-03-30T08:57:51.927Z"
+generated_at: "2026-03-30T08:59:50.950Z"
 status: "active"
 ---
 
 # § 53104. Effectiveness of operating agreements
 
-- **(a)** The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2025.
+- **(a)** The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2035.
 - **(b)** Unless an earlier date is requested by the applicant, the effective date for an operating agreement with respect to a vessel that is, on the date of entry into an operating agreement, on charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107, shall be the expiration or termination date of the Government charter covering the vessel, or any earlier date the vessel is withdrawn from that charter.
 - **(c)**
   - **(1)** If the contractor with respect to an operating agreement materially fails to comply with the terms of the agreement—

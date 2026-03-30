@@ -3,9 +3,9 @@ title: "Section 2700 - Definitions"
 usc_title: 10
 usc_section: "2700"
 chapter: 160
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2700"
-generated_at: "2026-03-30T08:55:17.724Z"
+generated_at: "2026-03-30T08:58:17.491Z"
 status: "active"
 ---
 
@@ -14,5 +14,7 @@ status: "active"
 In this chapter:
 
   - **(1)** The term “CERCLA” means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 et seq.).
-  - **(2)** The terms “environment”, “facility”, “hazardous substance”, “person”, “pollutant or contaminant”, “release”, “removal”, “response”, “disposal”, and “hazardous waste” have the meanings given those terms in section 101 of CERCLA ( 42 U.S.C. 9601 ).
+  - **(2)**
+    - **(A)** The terms “environment”, “facility”, “hazardous substance”, “person”, “pollutant or contaminant”, “release”, “removal”, “response”, “disposal”, and “hazardous waste” have the meanings given those terms in section 101 of CERCLA ( 42 U.S.C. 9601 ).
+    - **(B)** The term “facility” includes real property that is owned by, leased to, or otherwise possessed by the United States at locations at which military activities are conducted under this title or title 32 (including real property owned or leased by the Federal Government that is licensed to and operated by a State for training for the National Guard).
   - **(3)** The term “Administrator” means the Administrator of the Environmental Protection Agency.

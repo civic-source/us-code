@@ -3,9 +3,9 @@ title: "Section 18403 - Goal for Agency space technology"
 usc_title: 42
 usc_section: "18403"
 chapter: 159
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 18403"
-generated_at: "2026-03-30T08:57:32.711Z"
+generated_at: "2026-03-30T08:59:47.250Z"
 status: "active"
 ---
 

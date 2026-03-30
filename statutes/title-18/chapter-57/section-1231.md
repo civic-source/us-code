@@ -3,9 +3,9 @@ title: "Section 1231 - Transportation of strikebreakers"
 usc_title: 18
 usc_section: "1231"
 chapter: 57
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "18 U.S.C. § 1231"
-generated_at: "2026-03-30T08:56:15.018Z"
+generated_at: "2026-03-30T08:58:42.681Z"
 status: "active"
 ---
 

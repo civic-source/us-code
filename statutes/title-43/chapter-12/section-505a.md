@@ -3,9 +3,9 @@ title: "Section 505a - Definitions"
 usc_title: 43
 usc_section: "505a"
 chapter: 12
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "43 U.S.C. § 505a"
-generated_at: "2026-03-30T08:57:23.076Z"
+generated_at: "2026-03-30T08:59:31.447Z"
 status: "active"
 ---
 

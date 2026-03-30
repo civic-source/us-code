@@ -1,13 +1,18 @@
 ---
-title: "Section 118 - Repealed. Pub. L. 114–328, div. A, title IX, § 941(b)(1) , Dec. 23, 2016 , 130 Stat. 2367 ]"
+title: "Section 118 - Annual report on major weapons systems sustainment"
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-03-30T08:55:17.616Z"
-status: "repealed"
+generated_at: "2026-03-30T08:58:17.387Z"
+status: "active"
 ---
 
-# [§ 118. Repealed. Pub. L. 114–328, div. A, title IX, § 941(b)(1) , Dec. 23, 2016 , 130 Stat. 2367 ]
+# § 118. Annual report on major weapons systems sustainment
 
+Not later than five days after the date on which the Secretary of Defense submits to Congress the materials in support of the budget of the President for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees an annual report on major weapons systems sustainment for the period covered by the future years defense program specified by section 221 of this title . Such report shall include—
+
+  - **(1)** an assessment of the materiel availability, materiel reliability, and mean down time metrics for each major weapons system;
+  - **(2)** a detailed explanation of any factors that could preclude the Department of Defense or any of the military departments from meeting applicable readiness goals or objectives; and
+  - **(3)** an assessment of the validity and effectiveness of the definitions used to determine defense readiness, including the terms “major weapons system”, “covered asset”, “total and required inventory”, “materiel and operational availability”, “materiel and operational capability”, 1 1 So in original. The word “and” probably should appear. “materiel and operational reliability”.

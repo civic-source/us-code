@@ -3,9 +3,9 @@ title: "Section 3319 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3319"
 chapter: 33
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "38 U.S.C. § 3319"
-generated_at: "2026-03-30T08:57:14.263Z"
+generated_at: "2026-03-30T08:59:28.803Z"
 status: "active"
 ---
 
@@ -79,5 +79,6 @@ status: "active"
     - **(A)** the manner of authorizing the transfer of entitlements under this section;
     - **(B)** the eligibility criteria in accordance with subsection (b); and
     - **(C)** the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
+  - **(3)** The Secretary of Defense may not prescribe any regulation that would provide for a limitation on eligibility to transfer unused education benefits to family members based on a maximum number of years of service in the Armed Forces.
 - **(k)** In the case of a dependent to whom entitlement to educational assistance is transferred under this section who dies before using all of such entitlement, the individual who transferred the entitlement to the dependent may transfer any remaining entitlement to a different eligible dependent, notwithstanding whether the individual is serving as a member of the Armed Forces when such transfer is executed.
 - **(l)** In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.

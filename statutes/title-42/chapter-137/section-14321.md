@@ -3,9 +3,9 @@ title: "Section 14321 - Purpose"
 usc_title: 42
 usc_section: "14321"
 chapter: 137
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "42 U.S.C. § 14321"
-generated_at: "2026-03-30T08:57:32.664Z"
+generated_at: "2026-03-30T08:59:47.203Z"
 status: "active"
 ---
 

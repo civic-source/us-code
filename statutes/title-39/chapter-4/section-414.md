@@ -3,9 +3,9 @@ title: "Section 414 - Special postage stamps"
 usc_title: 39
 usc_section: "414"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "39 U.S.C. § 414"
-generated_at: "2026-03-30T08:56:55.742Z"
+generated_at: "2026-03-30T08:59:27.327Z"
 status: "active"
 ---
 
@@ -27,8 +27,8 @@ status: "active"
   - **(1)** directly or indirectly cause a net decrease in total funds received by the National Institutes of Health, the Department of Defense, or any other agency of the Government (or any component or program thereof) below the level that would otherwise have been received but for the enactment of this section; or
   - **(2)** affect regular first-class rates of postage or any other regular rates of postage.
 - **(e)** Special postage stamps under this section shall be made available to the public beginning on such date as the Postal Service shall by regulation prescribe, but in no event later than 12 months after the date of the enactment of this section.
-- **(f)** The Postmaster General shall include in each report rendered under section 2402 with respect to any period during any portion of which this section is in effect information concerning the operation of this section, except that, at a minimum, each shall include—
+- **(f)** Thea Postmaster General shall include in each report rendered under section 2402 with respect to any period during any portion of which this section is in effect information concerning the operation of this section, except that, at a minimum, each shall include—
   - **(1)** the total amount described in subsection (c)(2)(A) which was received by the Postal Service during the period covered by such report; and
   - **(2)** of the amount under paragraph (1), how much (in the aggregate and by category) was required for the purposes described in subsection (c)(2)(B).
 - **(g)** For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
-- **(h)** This section shall cease to be effective after December 31, 2019 .
+- **(h)** This section shall cease to be effective after December 31, 2027 .

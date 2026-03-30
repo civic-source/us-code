@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T08:56:41.360Z"
+generated_at: "2026-03-30T08:59:14.351Z"
 status: "active"
 ---
 
@@ -78,7 +78,9 @@ status: "active"
     - **(A)** Notwithstanding any other provision of this subsection or section 72(t), paragraph (1) and section 72(t)(1) shall apply to the transfer or distribution from a simplified employee pension of any contribution under a salary reduction arrangement described in subsection (k)(6) (or any income allocable thereto) before a determination as to whether the requirements of subsection (k)(6)(A)(iii) are met with respect to such contribution.
     - **(B)** For purposes of paragraphs (4) and (5) and section 4973, any amount excludable or excluded from gross income under section 402(h) or 402(k) shall be treated as an amount allowable or allowed as a deduction under section 219.
   - **(8)**
-    - **(A)** So much of the aggregate amount of qualified charitable distributions with respect to a taxpayer made during any taxable year which does not exceed $100,000 shall not be includible in gross income of such taxpayer for such taxable year.
+    - **(A)** So much of the aggregate amount of qualified charitable distributions with respect to a taxpayer made during any taxable year which does not exceed $100,000 shall not be includible in gross income of such taxpayer for such taxable year. The amount of distributions not includible in gross income by reason of the preceding sentence for a taxable year (determined without regard to this sentence) shall be reduced (but not below zero) by an amount equal to the excess of—
+      - **(i)** the aggregate amount of deductions allowed to the taxpayer under section 219 for all taxable years ending on or after the date the taxpayer attains age 70½, over
+      - **(ii)** the aggregate amount of reductions under this sentence for all taxable years preceding the current taxable year.
     - **(B)** For purposes of this paragraph, the term “qualified charitable distribution” means any distribution from an individual retirement plan (other than a plan described in subsection (k) or (p))—
       - **(i)** which is made directly by the trustee to an organization described in section 170(b)(1)(A) (other than any organization described in section 509(a)(3) or any fund or account described in section 4966(d)(2)), and
       - **(ii)** which is made on or after the date that the individual for whose benefit the plan is maintained has attained age 70½.
@@ -233,6 +235,9 @@ status: "active"
       - **(iv)** The aggregate balance of all individual retirement plans of the individual as of the close of the calendar year in which the taxable year begins.
       - **(v)** Such other information as the Secretary may prescribe.
     - **(C)** For penalty where individual reports designated nondeductible contributions not made, see section 6693(b).
+  - **(5)** In the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, if—
+    - **(A)** the deductible amount in effect for the taxable year under subsection (b), exceeds
+    - **(B)** the amount of compensation includible in the individual’s gross income for the taxable year,
 - **(p)**
   - **(1)** For purposes of this title, the term “simple retirement account” means an individual retirement plan (as defined in section 7701(a)(37))—
     - **(A)** with respect to which the requirements of paragraphs (3), (4), and (5) are met; and

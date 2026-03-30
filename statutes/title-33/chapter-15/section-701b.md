@@ -3,9 +3,9 @@ title: "Section 701b - Supervision of Secretary of the Army; reclamation project
 usc_title: 33
 usc_section: "701b"
 chapter: 15
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "33 U.S.C. § 701b"
-generated_at: "2026-03-30T08:56:54.006Z"
+generated_at: "2026-03-30T08:59:20.765Z"
 status: "active"
 ---
 

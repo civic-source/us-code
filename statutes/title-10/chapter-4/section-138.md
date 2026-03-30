@@ -3,9 +3,9 @@ title: "Section 138 - Assistant Secretaries of Defense"
 usc_title: 10
 usc_section: "138"
 chapter: 4
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 138"
-generated_at: "2026-03-30T08:55:17.622Z"
+generated_at: "2026-03-30T08:58:17.389Z"
 status: "active"
 ---
 
@@ -27,6 +27,7 @@ status: "active"
     - **(A)** advise the Secretary of Defense on nuclear energy, nuclear weapons, and chemical and biological defense;
     - **(B)** serve as the Staff Director of the Nuclear Weapons Council established by section 179 of this title ; and
     - **(C)** perform such additional duties as the Secretary may prescribe.
+  - **(5)** One of the Assistant Secretaries is the Assistant Secretary of Defense for Space Policy. The principal duty of the Assistant Secretary shall be the overall supervision of policy of the Department of Defense for space warfighting.
 - **(c)** Except as otherwise specifically provided by law, an Assistant Secretary may not issue an order to a military department unless—
   - **(1)** the Secretary of Defense has specifically delegated that authority to the Assistant Secretary in writing; and
   - **(2)** the order is issued through the Secretary of the military department concerned.

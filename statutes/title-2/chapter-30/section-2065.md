@@ -3,9 +3,9 @@ title: "Section 2065 - Reimbursement of Senate day care center employees"
 usc_title: 2
 usc_section: "2065"
 chapter: 30
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "2 U.S.C. § 2065"
-generated_at: "2026-03-30T08:54:57.528Z"
+generated_at: "2026-03-30T08:58:09.941Z"
 status: "active"
 ---
 

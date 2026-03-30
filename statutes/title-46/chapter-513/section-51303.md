@@ -3,13 +3,13 @@ title: "Section 51303 - Non-competitive appointments"
 usc_title: 46
 usc_section: "51303"
 chapter: 513
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "46 U.S.C. § 51303"
-generated_at: "2026-03-30T08:57:51.925Z"
+generated_at: "2026-03-30T08:59:50.948Z"
 status: "active"
 ---
 
 # § 51303. Non-competitive appointments
 
-The Secretary of Transportation may appoint each year without competition as cadets at the United States Merchant Marine Academy not more than 50 qualified individuals with qualities the Secretary considers to be of special value to the Academy. In making these appointments, the Secretary shall try to achieve a national demographic balance at the Academy.
-
+- **(a)** The Secretary of Transportation may appoint each year without competition as cadets at the United States Merchant Marine Academy not more than 50 qualified individuals with qualities the Secretary considers to be of special value to the Academy. In making these appointments, the Secretary shall try to achieve a national demographic balance at the Academy.
+- **(b)** The Secretary of Transportation may appoint each year as cadets at the United States Merchant Marine Academy not more than 40 qualified individuals sponsored by the Academy to attend preparatory school during the academic year prior to entrance in the Academy, and who have successfully met the terms and conditions of sponsorship set by the Academy.

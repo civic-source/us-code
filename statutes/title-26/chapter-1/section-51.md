@@ -3,9 +3,9 @@ title: "Section 51 - Amount of credit"
 usc_title: 26
 usc_section: "51"
 chapter: 1
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "26 U.S.C. § 51"
-generated_at: "2026-03-30T08:56:41.314Z"
+generated_at: "2026-03-30T08:59:14.301Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(3)** If—
     - **(A)** the principal place of employment of an individual with the employer is at a plant or facility, and
     - **(B)** there is a strike or lockout involving employees at such plant or facility,
-  - **(4)** The term “wages” shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2019 .
+  - **(4)** The term “wages” shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2020 .
   - **(5)** The term “wages” shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) 1 during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) 1 unless such qualified employer makes an election not to have section 3111(d) 1 apply.
 - **(d)** For purposes of this subpart—
   - **(1)** An individual is a member of a targeted group if such individual is—

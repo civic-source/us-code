@@ -3,9 +3,9 @@ title: "Section 2538 - Advice to President and Congress regarding safety, securi
 usc_title: 50
 usc_section: "2538"
 chapter: 42
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "50 U.S.C. § 2538"
-generated_at: "2026-03-30T08:57:54.488Z"
+generated_at: "2026-03-30T08:59:52.829Z"
 status: "active"
 ---
 
@@ -21,9 +21,9 @@ status: "active"
     - **(B)** the United States should continue to maintain nuclear forces of sufficient size and capability to implement an effective and robust deterrent strategy; and
     - **(C)** the advice of the persons required to provide the President and Congress with assurances of the safety, security, effectiveness, and reliability of the nuclear weapons force should be scientifically based, without regard for politics, and of the highest quality and integrity.
 - **(b)**
-- **(d)** In addition to a director of a national security laboratory or a nuclear weapons production facility under section 2533 of this title , any member of the Nuclear Weapons Council or the Commander of the United States Strategic Command may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
+- **(d)** In addition to a director of a national security laboratory or a nuclear weapons production facility under section 2533 of this title , any member of the Nuclear Weapons Council may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
 - **(e)**
-  - **(1)** No individual, including a representative of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility, a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command from presenting the professional views of the director, member, or Commander, as the case may be, to the President, the National Security Council, or Congress regarding—
+  - **(1)** No individual, including a representative of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility or a member of the Nuclear Weapons Council from presenting the professional views of the director or member, as the case may be, to the President, the National Security Council, or Congress regarding—
     - **(A)** the safety, security, reliability, or credibility of the nuclear weapons stockpile and nuclear forces; or
     - **(B)** the status of, and plans for, the capabilities and infrastructure that support and sustain the nuclear weapons stockpile and nuclear forces.
   - **(2)** Nothing in paragraph (1)(B) may be construed to affect the interagency budget process.

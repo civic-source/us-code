@@ -3,9 +3,9 @@ title: "Section 2911 - Energy policy of the Department of Defense"
 usc_title: 10
 usc_section: "2911"
 chapter: 173
-current_through: "PL 116-91"
+current_through: "PL 116-108"
 classification: "10 U.S.C. § 2911"
-generated_at: "2026-03-30T08:55:17.730Z"
+generated_at: "2026-03-30T08:58:17.498Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(3)** Not later than 30 days after the date on which the budget of the President is submitted to Congress for a fiscal year under section 1105(a) of title 31 , the Secretary shall submit the current version of the master plan to Congress.
 - **(e)** For the purpose of developing and implementing the energy performance goals and energy performance master plan, the Secretary of Defense shall consider at a minimum the following:
   - **(1)** Opportunities to reduce the current rate of consumption of energy, the future demand for energy, and the requirement for the use of energy.
-  - **(2)** Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that impact mission assurance on military installations.
+  - **(2)** Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that affect mission assurance on military installations.
   - **(3)** Opportunities to implement conservation measures to improve the efficient use of energy.
   - **(4)** Opportunities to pursue alternative energy initiatives, including the use of alternative fuels and hybrid-electric drive in military vehicles and equipment.
   - **(5)** Opportunities for the high-performance construction, lease, operation, and maintenance of buildings.
@@ -45,7 +45,7 @@ status: "active"
   - **(10)** The value of incorporating electric, hybrid-electric, and high efficiency vehicles into vehicle fleets.
   - **(11)** The potential for an action to serve as an incentive for members of the armed forces and civilian personnel to reduce energy consumption or adopt an improved energy performance measure.
   - **(12)** Opportunities for improving energy security for facility energy projects that will use renewable energy sources.
-  - **(13)** Opportunities to leverage third-party financing to address installation energy needs.
+  - **(13)** Opportunities to leverage financing provided by a non-Department entity to address installation energy needs.
 - **(f)** For the purpose of implementing the energy performance master plan, the Secretary of Defense shall provide that the selection of energy conservation measures, including energy efficient maintenance, shall be limited to those measures that—
   - **(1)** are readily available;
   - **(2)** demonstrate an economic return on the investment;
