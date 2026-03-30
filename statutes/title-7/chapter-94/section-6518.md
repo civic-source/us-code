@@ -3,9 +3,9 @@ title: "Section 6518 - National Organic Standards Board"
 usc_title: 7
 usc_section: "6518"
 chapter: 94
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 6518"
-generated_at: "2026-03-30T01:14:35.678Z"
+generated_at: "2026-03-30T01:20:23.080Z"
 ---
 
 # § 6518. National Organic Standards Board

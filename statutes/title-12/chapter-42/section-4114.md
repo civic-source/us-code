@@ -3,9 +3,9 @@ title: "Section 4114 - Permissible prepayment or voluntary termination and modif
 usc_title: 12
 usc_section: "4114"
 chapter: 42
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 4114"
-generated_at: "2026-03-30T01:14:52.688Z"
+generated_at: "2026-03-30T01:20:55.760Z"
 ---
 
 # § 4114. Permissible prepayment or voluntary termination and modification of commitments

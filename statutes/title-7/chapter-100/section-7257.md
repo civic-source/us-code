@@ -3,9 +3,9 @@ title: "Section 7257 - Authority to assist in establishment and maintenance of o
 usc_title: 7
 usc_section: "7257"
 chapter: 100
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 7257"
-generated_at: "2026-03-30T01:14:35.692Z"
+generated_at: "2026-03-30T01:20:23.092Z"
 ---
 
 # § 7257. Authority to assist in establishment and maintenance of one or more export trading companies

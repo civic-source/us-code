@@ -3,9 +3,9 @@ title: "Section 31101 - Short title"
 usc_title: 46
 usc_section: "31101"
 chapter: 311
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "46 U.S.C. § 31101"
-generated_at: "2026-03-30T01:18:24.203Z"
+generated_at: "2026-03-30T01:24:08.326Z"
 ---
 
 # § 31101. Short title

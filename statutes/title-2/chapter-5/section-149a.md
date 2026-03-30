@@ -3,9 +3,9 @@ title: "Section 149a - Permitting use of proceeds from disposition of surplus or
 usc_title: 2
 usc_section: "149a"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "2 U.S.C. § 149a"
-generated_at: "2026-03-30T01:14:22.964Z"
+generated_at: "2026-03-30T01:19:48.642Z"
 ---
 
 # § 149a. Permitting use of proceeds from disposition of surplus or obsolete personal property

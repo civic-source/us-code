@@ -3,9 +3,9 @@ title: "Section 951 - Declaration of findings and purposes"
 usc_title: 20
 usc_section: "951"
 chapter: 26
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 951"
-generated_at: "2026-03-30T01:15:07.548Z"
+generated_at: "2026-03-30T01:21:15.473Z"
 ---
 
 # § 951. Declaration of findings and purposes

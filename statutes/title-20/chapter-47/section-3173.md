@@ -3,9 +3,9 @@ title: "Section 3173 - Omitted"
 usc_title: 20
 usc_section: "3173"
 chapter: 47
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 3173"
-generated_at: "2026-03-30T01:15:07.637Z"
+generated_at: "2026-03-30T01:21:15.549Z"
 ---
 
 # §§ 3171 to 3173. Omitted

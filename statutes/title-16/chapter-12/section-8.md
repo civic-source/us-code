@@ -3,9 +3,9 @@ title: "Section 8 - Southeastern Power Administration: rates of basic and premiu
 usc_title: 16
 usc_section: "8"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T01:15:30.996Z"
+generated_at: "2026-03-30T01:21:05.041Z"
 ---
 
 # § 825s–8. Southeastern Power Administration: rates of basic and premium pay

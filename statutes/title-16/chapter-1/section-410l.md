@@ -3,9 +3,9 @@ title: "Section 410l - Rules and regulations governing reservation rights"
 usc_title: 16
 usc_section: "410l"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 410l"
-generated_at: "2026-03-30T01:15:30.873Z"
+generated_at: "2026-03-30T01:21:04.926Z"
 ---
 
 # § 410l. Rules and regulations governing reservation rights

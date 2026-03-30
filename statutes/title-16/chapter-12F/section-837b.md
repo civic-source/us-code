@@ -3,9 +3,9 @@ title: "Section 837b - Contract terms and conditions for use of electric energy 
 usc_title: 16
 usc_section: "837b"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 837b"
-generated_at: "2026-03-30T01:15:31.001Z"
+generated_at: "2026-03-30T01:21:05.045Z"
 ---
 
 # § 837b. Contract terms and conditions for use of electric energy outside Pacific Northwest

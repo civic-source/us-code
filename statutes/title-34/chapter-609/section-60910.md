@@ -3,9 +3,9 @@ title: "Section 60910 - Applicability"
 usc_title: 34
 usc_section: "60910"
 chapter: 609
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "34 U.S.C. § 60910"
-generated_at: "2026-03-30T01:16:36.271Z"
+generated_at: "2026-03-30T01:22:51.782Z"
 ---
 
 # § 60910. Applicability

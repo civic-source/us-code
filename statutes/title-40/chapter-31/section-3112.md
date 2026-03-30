@@ -3,9 +3,9 @@ title: "Section 3112 - Federal jurisdiction"
 usc_title: 40
 usc_section: "3112"
 chapter: 31
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "40 U.S.C. § 3112"
-generated_at: "2026-03-30T01:16:41.131Z"
+generated_at: "2026-03-30T01:22:56.114Z"
 ---
 
 # § 3112. Federal jurisdiction

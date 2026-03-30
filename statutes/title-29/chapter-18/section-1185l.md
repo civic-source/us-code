@@ -3,9 +3,9 @@ title: "Section 1185l - Air ambulance report requirements"
 usc_title: 29
 usc_section: "1185l"
 chapter: 18
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 1185l"
-generated_at: "2026-03-30T01:15:48.782Z"
+generated_at: "2026-03-30T01:22:35.532Z"
 ---
 
 # § 1185l. Air ambulance report requirements

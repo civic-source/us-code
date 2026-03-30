@@ -3,9 +3,9 @@ title: "Section 238o - Restriction on use of funds for assisted suicide, euthana
 usc_title: 42
 usc_section: "238o"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 238o"
-generated_at: "2026-03-30T01:18:07.094Z"
+generated_at: "2026-03-30T01:23:49.183Z"
 ---
 
 # § 238o. Restriction on use of funds for assisted suicide, euthanasia, and mercy killing

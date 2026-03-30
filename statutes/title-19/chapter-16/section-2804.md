@@ -3,9 +3,9 @@ title: "Section 2804 - Actions to reduce or eliminate tariff and nontariff barri
 usc_title: 19
 usc_section: "2804"
 chapter: 16
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "19 U.S.C. § 2804"
-generated_at: "2026-03-30T01:15:05.496Z"
+generated_at: "2026-03-30T01:21:06.238Z"
 ---
 
 # § 2804. Actions to reduce or eliminate tariff and nontariff barriers affecting United States wine

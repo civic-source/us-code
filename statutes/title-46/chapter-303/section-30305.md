@@ -3,9 +3,9 @@ title: "Section 30305 - Death of plaintiff in pending action"
 usc_title: 46
 usc_section: "30305"
 chapter: 303
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "46 U.S.C. § 30305"
-generated_at: "2026-03-30T01:18:24.202Z"
+generated_at: "2026-03-30T01:24:08.325Z"
 ---
 
 # § 30305. Death of plaintiff in pending action

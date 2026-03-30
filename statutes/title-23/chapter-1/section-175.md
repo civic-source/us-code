@@ -3,9 +3,9 @@ title: "Section 175 - Carbon reduction program"
 usc_title: 23
 usc_section: "175"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "23 U.S.C. § 175"
-generated_at: "2026-03-30T01:15:39.089Z"
+generated_at: "2026-03-30T01:21:18.540Z"
 ---
 
 # § 175. Carbon reduction program

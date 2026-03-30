@@ -3,9 +3,9 @@ title: "Section 1639o - Definitions"
 usc_title: 7
 usc_section: "1639o"
 chapter: 38
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 1639o"
-generated_at: "2026-03-30T01:14:35.590Z"
+generated_at: "2026-03-30T01:20:22.999Z"
 ---
 
 # § 1639o. Definitions

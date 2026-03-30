@@ -3,9 +3,9 @@ title: "Section 1 - Deadline for responses to questions from congressional commi
 usc_title: 22
 usc_section: "1"
 chapter: 38
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T01:15:42.353Z"
+generated_at: "2026-03-30T01:22:08.179Z"
 ---
 
 # § 2680–1. Deadline for responses to questions from congressional committees

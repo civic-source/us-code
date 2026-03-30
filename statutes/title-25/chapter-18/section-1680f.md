@@ -3,9 +3,9 @@ title: "Section 1680f - Indian Health Service and Department of Veterans Affairs
 usc_title: 25
 usc_section: "1680f"
 chapter: 18
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "25 U.S.C. § 1680f"
-generated_at: "2026-03-30T01:15:35.097Z"
+generated_at: "2026-03-30T01:21:29.336Z"
 ---
 
 # § 1680f. Indian Health Service and Department of Veterans Affairs health facilities and services sharing

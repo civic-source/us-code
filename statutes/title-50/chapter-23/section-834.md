@@ -3,9 +3,9 @@ title: "Section 834 - “Classified information” defined"
 usc_title: 50
 usc_section: "834"
 chapter: 23
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 834"
-generated_at: "2026-03-30T01:18:12.750Z"
+generated_at: "2026-03-30T01:23:56.137Z"
 ---
 
 # § 834. “Classified information” defined

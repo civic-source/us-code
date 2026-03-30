@@ -3,9 +3,9 @@ title: "Section 677e - Rule of construction"
 usc_title: 6
 usc_section: "677e"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "6 U.S.C. § 677e"
-generated_at: "2026-03-30T01:14:36.324Z"
+generated_at: "2026-03-30T01:20:14.398Z"
 ---
 
 # § 677e. Rule of construction

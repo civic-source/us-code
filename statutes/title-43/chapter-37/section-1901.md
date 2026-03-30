@@ -3,9 +3,9 @@ title: "Section 1901 - Congressional findings and declaration of policy"
 usc_title: 43
 usc_section: "1901"
 chapter: 37
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 1901"
-generated_at: "2026-03-30T01:17:12.152Z"
+generated_at: "2026-03-30T01:23:05.614Z"
 ---
 
 # § 1901. Congressional findings and declaration of policy

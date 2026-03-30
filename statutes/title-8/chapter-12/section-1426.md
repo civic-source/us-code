@@ -3,9 +3,9 @@ title: "Section 1426 - Citizenship denied alien relieved of service in Armed For
 usc_title: 8
 usc_section: "1426"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "8 U.S.C. § 1426"
-generated_at: "2026-03-30T01:14:44.271Z"
+generated_at: "2026-03-30T01:20:16.715Z"
 ---
 
 # § 1426. Citizenship denied alien relieved of service in Armed Forces because of alienage

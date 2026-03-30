@@ -3,9 +3,9 @@ title: "Section 934 - “Fund” defined; liability of operators to United State
 usc_title: 30
 usc_section: "934"
 chapter: 22
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "30 U.S.C. § 934"
-generated_at: "2026-03-30T01:15:55.554Z"
+generated_at: "2026-03-30T01:22:10.675Z"
 ---
 
 # § 934. “Fund” defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest

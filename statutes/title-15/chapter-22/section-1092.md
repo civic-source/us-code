@@ -3,9 +3,9 @@ title: "Section 1092 - Publication; not subject to opposition; cancellation"
 usc_title: 15
 usc_section: "1092"
 chapter: 22
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "15 U.S.C. § 1092"
-generated_at: "2026-03-30T01:14:59.526Z"
+generated_at: "2026-03-30T01:20:30.792Z"
 ---
 
 # § 1092. Publication; not subject to opposition; cancellation

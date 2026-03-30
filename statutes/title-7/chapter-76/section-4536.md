@@ -3,9 +3,9 @@ title: "Section 4536 - Dairy Research Trust Fund"
 usc_title: 7
 usc_section: "4536"
 chapter: 76
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 4536"
-generated_at: "2026-03-30T01:14:35.657Z"
+generated_at: "2026-03-30T01:20:23.061Z"
 ---
 
 # § 4536. Dairy Research Trust Fund

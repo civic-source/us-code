@@ -3,9 +3,9 @@ title: "Section 309 - Special pay: enlistment bonus"
 usc_title: 37
 usc_section: "309"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "37 U.S.C. § 309"
-generated_at: "2026-03-30T01:16:40.655Z"
+generated_at: "2026-03-30T01:22:53.720Z"
 ---
 
 # § 309. Special pay: enlistment bonus

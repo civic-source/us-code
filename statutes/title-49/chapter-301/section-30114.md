@@ -3,9 +3,9 @@ title: "Section 30114 - Special exemptions"
 usc_title: 49
 usc_section: "30114"
 chapter: 301
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 30114"
-generated_at: "2026-03-30T01:18:16.092Z"
+generated_at: "2026-03-30T01:24:07.393Z"
 ---
 
 # § 30114. Special exemptions

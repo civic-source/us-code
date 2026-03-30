@@ -3,9 +3,9 @@ title: "Section 1199 - Repealed. Pub. L. 95–105, title I, § 111(a)(1) , Aug. 
 usc_title: 22
 usc_section: "1199"
 chapter: 14
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 1199"
-generated_at: "2026-03-30T01:15:42.308Z"
+generated_at: "2026-03-30T01:22:08.132Z"
 ---
 
 # § 1199. Repealed. Pub. L. 95–105, title I, § 111(a)(1) , Aug. 17, 1977 , 91 Stat. 848

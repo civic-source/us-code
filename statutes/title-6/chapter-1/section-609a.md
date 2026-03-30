@@ -3,9 +3,9 @@ title: "Section 609a - Nonprofit Security Grant Program"
 usc_title: 6
 usc_section: "609a"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "6 U.S.C. § 609a"
-generated_at: "2026-03-30T01:14:36.316Z"
+generated_at: "2026-03-30T01:20:14.390Z"
 ---
 
 # § 609a. Nonprofit Security Grant Program

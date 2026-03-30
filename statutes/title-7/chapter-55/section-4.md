@@ -3,9 +3,9 @@ title: "Section 4 - Institute for Rural Partnerships"
 usc_title: 7
 usc_section: "4"
 chapter: 55
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T01:14:35.631Z"
+generated_at: "2026-03-30T01:20:23.037Z"
 ---
 
 # § 2204b–4. Institute for Rural Partnerships

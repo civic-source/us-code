@@ -3,9 +3,9 @@ title: "Section 4864 - Increased participation of United States contractors in l
 usc_title: 22
 usc_section: "4864"
 chapter: 58
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 4864"
-generated_at: "2026-03-30T01:15:42.392Z"
+generated_at: "2026-03-30T01:22:08.224Z"
 ---
 
 # § 4864. Increased participation of United States contractors in local guard contracts abroad under diplomatic security program

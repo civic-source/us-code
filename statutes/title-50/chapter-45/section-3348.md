@@ -3,9 +3,9 @@ title: "Section 3348 - Reports relating to certain special access programs and s
 usc_title: 50
 usc_section: "3348"
 chapter: 45
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 3348"
-generated_at: "2026-03-30T01:18:12.802Z"
+generated_at: "2026-03-30T01:23:56.184Z"
 ---
 
 # § 3348. Reports relating to certain special access programs and similar programs

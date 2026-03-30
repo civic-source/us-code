@@ -3,9 +3,9 @@ title: "Section 415 - Information to members of provisions of chapter"
 usc_title: 29
 usc_section: "415"
 chapter: 11
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 415"
-generated_at: "2026-03-30T01:15:48.742Z"
+generated_at: "2026-03-30T01:22:35.496Z"
 ---
 
 # § 415. Information to members of provisions of chapter

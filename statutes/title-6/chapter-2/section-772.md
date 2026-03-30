@@ -3,9 +3,9 @@ title: "Section 772 - National Disaster Housing Strategy"
 usc_title: 6
 usc_section: "772"
 chapter: 2
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "6 U.S.C. § 772"
-generated_at: "2026-03-30T01:14:36.326Z"
+generated_at: "2026-03-30T01:20:14.401Z"
 ---
 
 # § 772. National Disaster Housing Strategy

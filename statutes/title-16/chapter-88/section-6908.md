@@ -3,9 +3,9 @@ title: "Section 6908 - Territorial participation"
 usc_title: 16
 usc_section: "6908"
 chapter: 88
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 6908"
-generated_at: "2026-03-30T01:15:31.108Z"
+generated_at: "2026-03-30T01:21:05.138Z"
 ---
 
 # § 6908. Territorial participation

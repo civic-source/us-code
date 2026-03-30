@@ -3,9 +3,9 @@ title: "Section 178 - Repealed. Pub. L. 103–325, title VI, § 602(f)(5)(B) , S
 usc_title: 12
 usc_section: "178"
 chapter: 2
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 178"
-generated_at: "2026-03-30T01:14:52.539Z"
+generated_at: "2026-03-30T01:20:55.637Z"
 ---
 
 # § 178. Repealed. Pub. L. 103–325, title VI, § 602(f)(5)(B) , Sept. 23, 1994 , 108 Stat. 2293

@@ -3,9 +3,9 @@ title: "Section 30306 - National Prison Rape Elimination Commission"
 usc_title: 34
 usc_section: "30306"
 chapter: 303
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "34 U.S.C. § 30306"
-generated_at: "2026-03-30T01:16:36.259Z"
+generated_at: "2026-03-30T01:22:51.769Z"
 ---
 
 # § 30306. National Prison Rape Elimination Commission

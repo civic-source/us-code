@@ -3,9 +3,9 @@ title: "Section 4731 - Border water infrastructure improvement authority"
 usc_title: 19
 usc_section: "4731"
 chapter: 29
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "19 U.S.C. § 4731"
-generated_at: "2026-03-30T01:15:05.521Z"
+generated_at: "2026-03-30T01:21:06.264Z"
 ---
 
 # § 4731. Border water infrastructure improvement authority

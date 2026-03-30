@@ -3,9 +3,9 @@ title: "Section 1702 - Congressional findings"
 usc_title: 20
 usc_section: "1702"
 chapter: 39
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 1702"
-generated_at: "2026-03-30T01:15:07.629Z"
+generated_at: "2026-03-30T01:21:15.542Z"
 ---
 
 # § 1702. Congressional findings

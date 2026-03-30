@@ -3,9 +3,9 @@ title: "Section 161 - Repealed. Pub. L. 106–224, title IV, § 438(a)(1) , June
 usc_title: 7
 usc_section: "161"
 chapter: 8
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 161"
-generated_at: "2026-03-30T01:14:35.533Z"
+generated_at: "2026-03-30T01:20:22.951Z"
 ---
 
 # §§ 156 to 161. Repealed. Pub. L. 106–224, title IV, § 438(a)(1) , June 20, 2000 , 114 Stat. 454

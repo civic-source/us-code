@@ -3,9 +3,9 @@ title: "Section 7111 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7111"
 chapter: 99
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 7111"
-generated_at: "2026-03-30T01:14:35.690Z"
+generated_at: "2026-03-30T01:20:23.090Z"
 ---
 
 # § 7111. Authorization of appropriations

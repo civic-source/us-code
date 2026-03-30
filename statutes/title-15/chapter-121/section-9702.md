@@ -3,9 +3,9 @@ title: "Section 9702 - National Integrated Flood Information System"
 usc_title: 15
 usc_section: "9702"
 chapter: 121
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "15 U.S.C. § 9702"
-generated_at: "2026-03-30T01:14:59.652Z"
+generated_at: "2026-03-30T01:20:30.913Z"
 ---
 
 # § 9702. National Integrated Flood Information System

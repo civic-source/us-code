@@ -3,9 +3,9 @@ title: "Section 3191 - Scholarships and work-study for pursuit of graduate degre
 usc_title: 50
 usc_section: "3191"
 chapter: 44
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 3191"
-generated_at: "2026-03-30T01:18:12.795Z"
+generated_at: "2026-03-30T01:23:56.177Z"
 ---
 
 # § 3191. Scholarships and work-study for pursuit of graduate degrees in science and technology

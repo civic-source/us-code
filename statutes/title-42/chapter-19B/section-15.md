@@ -3,9 +3,9 @@ title: "Section 15 - Protection of United States from liability for damages; exc
 usc_title: 42
 usc_section: "15"
 chapter: 19
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T01:18:07.488Z"
+generated_at: "2026-03-30T01:23:49.580Z"
 ---
 
 # § 1962d–15. Protection of United States from liability for damages; exception of damages due to fault or negligence of United States

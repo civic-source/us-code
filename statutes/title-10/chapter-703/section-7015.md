@@ -3,9 +3,9 @@ title: "Section 7015 - Under Secretary of the Army"
 usc_title: 10
 usc_section: "7015"
 chapter: 703
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 7015"
-generated_at: "2026-03-30T01:14:40.742Z"
+generated_at: "2026-03-30T01:19:58.322Z"
 ---
 
 # § 7015. Under Secretary of the Army

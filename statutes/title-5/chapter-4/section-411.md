@@ -3,9 +3,9 @@ title: "Section 411 - Special provisions concerning the Federal Deposit Insuranc
 usc_title: 5
 usc_section: "411"
 chapter: 4
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 411"
-generated_at: "2026-03-30T01:14:21.496Z"
+generated_at: "2026-03-30T01:19:01.528Z"
 ---
 
 # § 411. Special provisions concerning the Federal Deposit Insurance Corporation

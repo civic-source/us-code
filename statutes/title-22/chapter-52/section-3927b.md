@@ -3,9 +3,9 @@ title: "Section 3927b - Reporting requirement on chiefs of mission"
 usc_title: 22
 usc_section: "3927b"
 chapter: 52
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 3927b"
-generated_at: "2026-03-30T01:15:42.375Z"
+generated_at: "2026-03-30T01:22:08.205Z"
 ---
 
 # § 3927b. Reporting requirement on chiefs of mission

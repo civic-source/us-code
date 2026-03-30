@@ -3,9 +3,9 @@ title: "Section 6030 - Repealed. Pub. L. 106–402, title IV, § 401(a) , Oct. 3
 usc_title: 42
 usc_section: "6030"
 chapter: 75
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 6030"
-generated_at: "2026-03-30T01:18:07.590Z"
+generated_at: "2026-03-30T01:23:49.673Z"
 ---
 
 # §§ 6029, 6030. Repealed. Pub. L. 106–402, title IV, § 401(a) , Oct. 30, 2000 , 114 Stat. 1737

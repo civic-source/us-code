@@ -3,9 +3,9 @@ title: "Section 98g - Materials development and research"
 usc_title: 50
 usc_section: "98g"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 98g"
-generated_at: "2026-03-30T01:18:12.743Z"
+generated_at: "2026-03-30T01:23:56.133Z"
 ---
 
 # § 98g. Materials development and research

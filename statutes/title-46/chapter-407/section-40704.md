@@ -3,9 +3,9 @@ title: "Section 40704 - Commission review"
 usc_title: 46
 usc_section: "40704"
 chapter: 407
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "46 U.S.C. § 40704"
-generated_at: "2026-03-30T01:18:24.206Z"
+generated_at: "2026-03-30T01:24:08.328Z"
 ---
 
 # § 40704. Commission review

@@ -3,9 +3,9 @@ title: "Section 3218 - Franked mail for survivors of Members of Congress"
 usc_title: 39
 usc_section: "3218"
 chapter: 32
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "39 U.S.C. § 3218"
-generated_at: "2026-03-30T01:16:47.774Z"
+generated_at: "2026-03-30T01:22:58.591Z"
 ---
 
 # § 3218. Franked mail for survivors of Members of Congress

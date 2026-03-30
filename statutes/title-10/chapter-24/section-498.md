@@ -3,9 +3,9 @@ title: "Section 498 - Unilateral change in nuclear weapons stockpile of the Unit
 usc_title: 10
 usc_section: "498"
 chapter: 24
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 498"
-generated_at: "2026-03-30T01:14:40.616Z"
+generated_at: "2026-03-30T01:19:58.207Z"
 ---
 
 # § 498. Unilateral change in nuclear weapons stockpile of the United States

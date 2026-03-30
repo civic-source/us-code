@@ -3,9 +3,9 @@ title: "Section 5728 - Authorization of appropriations"
 usc_title: 38
 usc_section: "5728"
 chapter: 57
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "38 U.S.C. § 5728"
-generated_at: "2026-03-30T01:16:53.012Z"
+generated_at: "2026-03-30T01:22:58.406Z"
 ---
 
 # § 5728. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 9631 - National Center for Research in Advanced Information and 
 usc_title: 20
 usc_section: "9631"
 chapter: 76
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 9631"
-generated_at: "2026-03-30T01:15:07.693Z"
+generated_at: "2026-03-30T01:21:15.597Z"
 ---
 
 # § 9631. National Center for Research in Advanced Information and Digital Technologies

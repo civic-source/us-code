@@ -3,9 +3,9 @@ title: "Section 1327 - Mines, Bureau of: publications"
 usc_title: 44
 usc_section: "1327"
 chapter: 13
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "44 U.S.C. § 1327"
-generated_at: "2026-03-30T01:16:58.473Z"
+generated_at: "2026-03-30T01:23:00.584Z"
 ---
 
 # § 1327. Mines, Bureau of: publications

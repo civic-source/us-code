@@ -3,9 +3,9 @@ title: "Section 382 - Execution and administration of programs and activities"
 usc_title: 10
 usc_section: "382"
 chapter: 16
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 382"
-generated_at: "2026-03-30T01:14:40.609Z"
+generated_at: "2026-03-30T01:19:58.201Z"
 ---
 
 # § 382. Execution and administration of programs and activities

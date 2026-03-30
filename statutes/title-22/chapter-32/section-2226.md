@@ -3,9 +3,9 @@ title: "Section 2226 - Reports on international organizations"
 usc_title: 22
 usc_section: "2226"
 chapter: 32
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 2226"
-generated_at: "2026-03-30T01:15:42.329Z"
+generated_at: "2026-03-30T01:22:08.153Z"
 ---
 
 # § 2226. Reports on international organizations

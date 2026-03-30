@@ -3,9 +3,9 @@ title: "Section 2135 - Termination and withdrawal authority"
 usc_title: 19
 usc_section: "2135"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "19 U.S.C. § 2135"
-generated_at: "2026-03-30T01:15:05.448Z"
+generated_at: "2026-03-30T01:21:06.220Z"
 ---
 
 # § 2135. Termination and withdrawal authority

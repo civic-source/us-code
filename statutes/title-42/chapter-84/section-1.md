@@ -3,9 +3,9 @@ title: "Section 1 - Compensation to be provided"
 usc_title: 42
 usc_section: "1"
 chapter: 84
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:18:07.635Z"
+generated_at: "2026-03-30T01:23:49.716Z"
 ---
 
 # § 7385s–1. Compensation to be provided

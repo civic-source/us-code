@@ -3,9 +3,9 @@ title: "Section 408f - Former Siskiwit Islands Bird Reservation"
 usc_title: 16
 usc_section: "408f"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 408f"
-generated_at: "2026-03-30T01:15:30.872Z"
+generated_at: "2026-03-30T01:21:04.925Z"
 ---
 
 # § 408f. Former Siskiwit Islands Bird Reservation

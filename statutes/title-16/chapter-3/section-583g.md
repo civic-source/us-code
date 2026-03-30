@@ -3,9 +3,9 @@ title: "Section 583g - Rules and regulations; delegation of powers and duties"
 usc_title: 16
 usc_section: "583g"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 583g"
-generated_at: "2026-03-30T01:15:30.964Z"
+generated_at: "2026-03-30T01:21:05.010Z"
 ---
 
 # § 583g. Rules and regulations; delegation of powers and duties

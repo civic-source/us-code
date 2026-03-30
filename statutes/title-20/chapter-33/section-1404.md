@@ -3,9 +3,9 @@ title: "Section 1404 - Acquisition of equipment; construction or alteration of f
 usc_title: 20
 usc_section: "1404"
 chapter: 33
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 1404"
-generated_at: "2026-03-30T01:15:07.618Z"
+generated_at: "2026-03-30T01:21:15.533Z"
 ---
 
 # § 1404. Acquisition of equipment; construction or alteration of facilities

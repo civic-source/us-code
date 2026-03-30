@@ -3,9 +3,9 @@ title: "Section 564l - Omitted"
 usc_title: 25
 usc_section: "564l"
 chapter: 14
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "25 U.S.C. § 564l"
-generated_at: "2026-03-30T01:15:35.080Z"
+generated_at: "2026-03-30T01:21:29.320Z"
 ---
 
 # § 564l. Omitted

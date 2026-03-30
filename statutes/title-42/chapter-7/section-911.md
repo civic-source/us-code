@@ -3,9 +3,9 @@ title: "Section 911 - Budgetary treatment of trust fund operations"
 usc_title: 42
 usc_section: "911"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 911"
-generated_at: "2026-03-30T01:18:07.290Z"
+generated_at: "2026-03-30T01:23:49.383Z"
 ---
 
 # § 911. Budgetary treatment of trust fund operations

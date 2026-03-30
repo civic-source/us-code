@@ -3,9 +3,9 @@ title: "Section 607 - Repealed. Pub. L. 97–306, title III, § 311 , Oct. 14, 1
 usc_title: 29
 usc_section: "607"
 chapter: 13
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 607"
-generated_at: "2026-03-30T01:15:48.744Z"
+generated_at: "2026-03-30T01:22:35.497Z"
 ---
 
 # § 607. Repealed. Pub. L. 97–306, title III, § 311 , Oct. 14, 1982 , 96 Stat. 1442

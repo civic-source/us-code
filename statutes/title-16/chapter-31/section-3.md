@@ -3,9 +3,9 @@ title: "Section 3 - Reports to Congress"
 usc_title: 16
 usc_section: "3"
 chapter: 31
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T01:15:31.030Z"
+generated_at: "2026-03-30T01:21:05.071Z"
 ---
 
 # § 1421f–3. Reports to Congress

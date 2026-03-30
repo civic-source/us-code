@@ -3,9 +3,9 @@ title: "Section 21131 - Transfer of functions of Office of Election Administrati
 usc_title: 52
 usc_section: "21131"
 chapter: 209
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "52 U.S.C. § 21131"
-generated_at: "2026-03-30T01:18:47.356Z"
+generated_at: "2026-03-30T01:24:10.655Z"
 ---
 
 # § 21131. Transfer of functions of Office of Election Administration of Federal Election Commission

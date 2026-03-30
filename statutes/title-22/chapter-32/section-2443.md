@@ -3,9 +3,9 @@ title: "Section 2443 - Repealed. Pub. L. 95–384, § 12(c)(4) , Sept. 26, 1978 
 usc_title: 22
 usc_section: "2443"
 chapter: 32
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 2443"
-generated_at: "2026-03-30T01:15:42.344Z"
+generated_at: "2026-03-30T01:22:08.169Z"
 ---
 
 # §§ 2441 to 2443. Repealed. Pub. L. 95–384, § 12(c)(4) , Sept. 26, 1978 , 92 Stat. 737

@@ -3,9 +3,9 @@ title: "Section 8563 - Report and imposition of sanctions with respect to person
 usc_title: 22
 usc_section: "8563"
 chapter: 92
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 8563"
-generated_at: "2026-03-30T01:15:42.432Z"
+generated_at: "2026-03-30T01:22:08.269Z"
 ---
 
 # § 8563. Report and imposition of sanctions with respect to persons who are responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran

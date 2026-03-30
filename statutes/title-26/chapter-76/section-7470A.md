@@ -3,9 +3,9 @@ title: "Section 7470A - Judicial conference"
 usc_title: 26
 usc_section: "7470A"
 chapter: 76
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 7470A"
-generated_at: "2026-03-30T01:16:03.516Z"
+generated_at: "2026-03-30T01:22:40.495Z"
 ---
 
 # § 7470A. Judicial conference

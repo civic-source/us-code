@@ -3,9 +3,9 @@ title: "Section 101301 - Maintenance management system"
 usc_title: 54
 usc_section: "101301"
 chapter: 1013
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "54 U.S.C. § 101301"
-generated_at: "2026-03-30T01:18:38.937Z"
+generated_at: "2026-03-30T01:24:11.680Z"
 ---
 
 # § 101301. Maintenance management system

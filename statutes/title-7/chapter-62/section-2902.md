@@ -3,9 +3,9 @@ title: "Section 2902 - Definitions"
 usc_title: 7
 usc_section: "2902"
 chapter: 62
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 2902"
-generated_at: "2026-03-30T01:14:35.642Z"
+generated_at: "2026-03-30T01:20:23.047Z"
 ---
 
 # § 2902. Definitions

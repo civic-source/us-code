@@ -3,9 +3,9 @@ title: "Section 1011 - Fiscal and administrative provisions"
 usc_title: 5
 usc_section: "1011"
 chapter: 10
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 1011"
-generated_at: "2026-03-30T01:14:21.507Z"
+generated_at: "2026-03-30T01:19:01.537Z"
 ---
 
 # § 1011. Fiscal and administrative provisions

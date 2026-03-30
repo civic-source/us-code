@@ -3,9 +3,9 @@ title: "Section 391 - Tax on or with respect to generation or transmission of el
 usc_title: 15
 usc_section: "391"
 chapter: 10
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "15 U.S.C. § 391"
-generated_at: "2026-03-30T01:14:59.480Z"
+generated_at: "2026-03-30T01:20:30.751Z"
 ---
 
 # § 391. Tax on or with respect to generation or transmission of electricity

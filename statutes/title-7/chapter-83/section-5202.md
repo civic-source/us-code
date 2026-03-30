@@ -3,9 +3,9 @@ title: "Section 5202 - Policy"
 usc_title: 7
 usc_section: "5202"
 chapter: 83
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 5202"
-generated_at: "2026-03-30T01:14:35.661Z"
+generated_at: "2026-03-30T01:20:23.064Z"
 ---
 
 # § 5202. Policy

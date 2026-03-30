@@ -3,9 +3,9 @@ title: "Section 8822 - Admiralty claims against the United States"
 usc_title: 10
 usc_section: "8822"
 chapter: 881
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 8822"
-generated_at: "2026-03-30T01:14:40.760Z"
+generated_at: "2026-03-30T01:19:58.340Z"
 ---
 
 # § 8822. Admiralty claims against the United States

@@ -3,9 +3,9 @@ title: "Section 20108 - Research, development, testing, and training"
 usc_title: 49
 usc_section: "20108"
 chapter: 201
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 20108"
-generated_at: "2026-03-30T01:18:16.075Z"
+generated_at: "2026-03-30T01:24:07.378Z"
 ---
 
 # § 20108. Research, development, testing, and training

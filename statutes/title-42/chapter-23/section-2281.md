@@ -3,9 +3,9 @@ title: "Section 2281 - Contempt proceedings"
 usc_title: 42
 usc_section: "2281"
 chapter: 23
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 2281"
-generated_at: "2026-03-30T01:18:07.512Z"
+generated_at: "2026-03-30T01:23:49.603Z"
 ---
 
 # § 2281. Contempt proceedings

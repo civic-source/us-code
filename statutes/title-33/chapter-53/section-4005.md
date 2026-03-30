@@ -3,9 +3,9 @@ title: "Section 4005 - Great Lakes hypoxia and harmful algal blooms"
 usc_title: 33
 usc_section: "4005"
 chapter: 53
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "33 U.S.C. § 4005"
-generated_at: "2026-03-30T01:16:07.228Z"
+generated_at: "2026-03-30T01:22:46.180Z"
 ---
 
 # § 4005. Great Lakes hypoxia and harmful algal blooms

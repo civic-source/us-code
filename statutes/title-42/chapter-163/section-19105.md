@@ -3,9 +3,9 @@ title: "Section 19105 - Assistant Director"
 usc_title: 42
 usc_section: "19105"
 chapter: 163
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 19105"
-generated_at: "2026-03-30T01:18:07.855Z"
+generated_at: "2026-03-30T01:23:49.928Z"
 ---
 
 # § 19105. Assistant Director

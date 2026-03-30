@@ -3,9 +3,9 @@ title: "Section 3735 - Bail on appeal or certiorari—(Rule)"
 usc_title: 18
 usc_section: "3735"
 chapter: 235
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "18 U.S.C. § 3735"
-generated_at: "2026-03-30T01:15:03.850Z"
+generated_at: "2026-03-30T01:21:10.670Z"
 ---
 
 # § 3735. Bail on appeal or certiorari—(Rule)

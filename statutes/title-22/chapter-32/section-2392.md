@@ -3,9 +3,9 @@ title: "Section 2392 - Government agencies"
 usc_title: 22
 usc_section: "2392"
 chapter: 32
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 2392"
-generated_at: "2026-03-30T01:15:42.339Z"
+generated_at: "2026-03-30T01:22:08.164Z"
 ---
 
 # § 2392. Government agencies

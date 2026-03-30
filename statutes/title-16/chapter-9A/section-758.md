@@ -3,9 +3,9 @@ title: "Section 758 - Exploration, investigation, development, and maintenance o
 usc_title: 16
 usc_section: "758"
 chapter: 9
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 758"
-generated_at: "2026-03-30T01:15:30.985Z"
+generated_at: "2026-03-30T01:21:05.030Z"
 ---
 
 # § 758. Exploration, investigation, development, and maintenance of fishing resources and industry of Pacific Ocean

@@ -3,9 +3,9 @@ title: "Section 193 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 24
 usc_section: "193"
 chapter: 4
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "24 U.S.C. § 193"
-generated_at: "2026-03-30T01:15:35.214Z"
+generated_at: "2026-03-30T01:21:26.084Z"
 ---
 
 # § 193. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

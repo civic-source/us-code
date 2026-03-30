@@ -3,9 +3,9 @@ title: "Section 2705 - Authority to provide certificate of commendation to Depar
 usc_title: 50
 usc_section: "2705"
 chapter: 42
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 2705"
-generated_at: "2026-03-30T01:18:12.779Z"
+generated_at: "2026-03-30T01:23:56.163Z"
 ---
 
 # § 2705. Authority to provide certificate of commendation to Department of Energy and contractor employees for exemplary service in stockpile stewardship and security

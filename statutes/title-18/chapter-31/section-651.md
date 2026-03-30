@@ -3,9 +3,9 @@ title: "Section 651 - Disbursing officer falsely certifying full payment"
 usc_title: 18
 usc_section: "651"
 chapter: 31
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "18 U.S.C. § 651"
-generated_at: "2026-03-30T01:15:03.797Z"
+generated_at: "2026-03-30T01:21:10.619Z"
 ---
 
 # § 651. Disbursing officer falsely certifying full payment

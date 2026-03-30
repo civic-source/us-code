@@ -3,9 +3,9 @@ title: "Section 418 - Clothing allowance: enlisted members"
 usc_title: 37
 usc_section: "418"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "37 U.S.C. § 418"
-generated_at: "2026-03-30T01:16:40.660Z"
+generated_at: "2026-03-30T01:22:53.726Z"
 ---
 
 # § 418. Clothing allowance: enlisted members

@@ -3,9 +3,9 @@ title: "Section 3079a - Treatment of commission in commissioned officer corps as
 usc_title: 33
 usc_section: "3079a"
 chapter: 43
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "33 U.S.C. § 3079a"
-generated_at: "2026-03-30T01:16:07.219Z"
+generated_at: "2026-03-30T01:22:46.173Z"
 ---
 
 # § 3079a. Treatment of commission in commissioned officer corps as employment in Administration for purposes of certain hiring decisions

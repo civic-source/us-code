@@ -3,9 +3,9 @@ title: "Section 677 - Income for benefit of grantor"
 usc_title: 26
 usc_section: "677"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 677"
-generated_at: "2026-03-30T01:16:03.369Z"
+generated_at: "2026-03-30T01:22:40.360Z"
 ---
 
 # § 677. Income for benefit of grantor

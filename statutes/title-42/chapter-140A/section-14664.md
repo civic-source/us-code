@@ -3,9 +3,9 @@ title: "Section 14664 - Omitted"
 usc_title: 42
 usc_section: "14664"
 chapter: 140
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 14664"
-generated_at: "2026-03-30T01:18:07.780Z"
+generated_at: "2026-03-30T01:23:49.853Z"
 ---
 
 # § 14664. Omitted

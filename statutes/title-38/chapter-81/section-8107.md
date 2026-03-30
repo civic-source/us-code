@@ -3,9 +3,9 @@ title: "Section 8107 - Repealed. Pub. L. 111–163, title V, § 501(b)(1) , May 
 usc_title: 38
 usc_section: "8107"
 chapter: 81
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "38 U.S.C. § 8107"
-generated_at: "2026-03-30T01:16:53.026Z"
+generated_at: "2026-03-30T01:22:58.418Z"
 ---
 
 # [§ 8107. Repealed. Pub. L. 111–163, title V, § 501(b)(1) , May 5, 2010 , 124 Stat. 1157 ]

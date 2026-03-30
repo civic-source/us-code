@@ -3,9 +3,9 @@ title: "Section 1182d - Denial of visas to confiscators of American property"
 usc_title: 8
 usc_section: "1182d"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "8 U.S.C. § 1182d"
-generated_at: "2026-03-30T01:14:44.249Z"
+generated_at: "2026-03-30T01:20:16.695Z"
 ---
 
 # § 1182d. Denial of visas to confiscators of American property

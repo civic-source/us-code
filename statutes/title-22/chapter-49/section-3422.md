@@ -3,9 +3,9 @@ title: "Section 3422 - Participation of United States personnel in the Multinati
 usc_title: 22
 usc_section: "3422"
 chapter: 49
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 3422"
-generated_at: "2026-03-30T01:15:42.370Z"
+generated_at: "2026-03-30T01:22:08.199Z"
 ---
 
 # § 3422. Participation of United States personnel in the Multinational Force and Observers

@@ -3,9 +3,9 @@ title: "Section 41729 - COVID–19 vaccination status"
 usc_title: 49
 usc_section: "41729"
 chapter: 417
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 41729"
-generated_at: "2026-03-30T01:18:16.118Z"
+generated_at: "2026-03-30T01:24:07.417Z"
 ---
 
 # § 41729. COVID–19 vaccination status

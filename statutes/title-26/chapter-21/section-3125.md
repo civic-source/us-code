@@ -3,9 +3,9 @@ title: "Section 3125 - Returns in the case of governmental employees in States, 
 usc_title: 26
 usc_section: "3125"
 chapter: 21
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 3125"
-generated_at: "2026-03-30T01:16:03.432Z"
+generated_at: "2026-03-30T01:22:40.417Z"
 ---
 
 # § 3125. Returns in the case of governmental employees in States, Guam, American Samoa, and the District of Columbia

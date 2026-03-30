@@ -3,9 +3,9 @@ title: "Section 905 - Art. 105. Forgery"
 usc_title: 10
 usc_section: "905"
 chapter: 47
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 905"
-generated_at: "2026-03-30T01:14:40.633Z"
+generated_at: "2026-03-30T01:19:58.223Z"
 ---
 
 # § 905. Art. 105. Forgery

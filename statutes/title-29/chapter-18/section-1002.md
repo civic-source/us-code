@@ -3,9 +3,9 @@ title: "Section 1002 - Definitions"
 usc_title: 29
 usc_section: "1002"
 chapter: 18
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 1002"
-generated_at: "2026-03-30T01:15:48.759Z"
+generated_at: "2026-03-30T01:22:35.511Z"
 ---
 
 # § 1002. Definitions
@@ -199,3 +199,6 @@ For purposes of this subchapter:
         - **(II)** such employer (and not the plan with respect to which the failure occurred or any other employer in such plan) shall, except to the extent provided in such guidance, be liable for any liabilities with respect to such plan attributable to employees of such employer (or beneficiaries of such employees).
     - **(D)** An employer or pooled plan provider shall not be treated as failing to meet a requirement of guidance issued by the Secretary under subparagraph (C) if, before the issuance of such guidance, the employer or pooled plan provider complies in good faith with a reasonable interpretation of the provisions of this paragraph, or paragraph (43), to which such guidance relates.
     - **(E)** For purposes of this paragraph, in determining whether a person meets the requirements of this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 of title 26 shall be treated as one person.
+  - **(45)** The term “pension-linked emergency savings account” means a short-term savings account established and maintained as part of an individual account plan, in accordance with section 1193 of this title , on behalf of an eligible participant (as such term is defined in section 1193(b) of this title ) that—
+    - **(A)** is a designated Roth account (within the meaning of section 402A of title 26 ) and accepts only participant contributions, as described in section 1193(d)(1)(A) of this title , which are designated Roth contributions subject to the rules of section 402A(e) of title 26 ; and
+    - **(B)** meets the requirements of part 8 of subtitle B.

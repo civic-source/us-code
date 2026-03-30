@@ -3,9 +3,9 @@ title: "Section 1845 - Claims procedure"
 usc_title: 43
 usc_section: "1845"
 chapter: 36
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 1845"
-generated_at: "2026-03-30T01:17:12.152Z"
+generated_at: "2026-03-30T01:23:05.614Z"
 ---
 
 # § 1845. Claims procedure

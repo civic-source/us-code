@@ -3,9 +3,9 @@ title: "Section 670d - Liability for funds; accounting to Comptroller General"
 usc_title: 16
 usc_section: "670d"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 670d"
-generated_at: "2026-03-30T01:15:30.975Z"
+generated_at: "2026-03-30T01:21:05.019Z"
 ---
 
 # § 670d. Liability for funds; accounting to Comptroller General

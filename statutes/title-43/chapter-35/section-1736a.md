@@ -3,9 +3,9 @@ title: "Section 1736a - Revolving fund derived from disposal of salvage timber"
 usc_title: 43
 usc_section: "1736a"
 chapter: 35
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 1736a"
-generated_at: "2026-03-30T01:17:12.147Z"
+generated_at: "2026-03-30T01:23:05.609Z"
 ---
 
 # § 1736a. Revolving fund derived from disposal of salvage timber

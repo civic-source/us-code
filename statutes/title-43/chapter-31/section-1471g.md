@@ -3,9 +3,9 @@ title: "Section 1471g - Availability of appropriations to support Memorial Day a
 usc_title: 43
 usc_section: "1471g"
 chapter: 31
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 1471g"
-generated_at: "2026-03-30T01:17:12.134Z"
+generated_at: "2026-03-30T01:23:05.594Z"
 ---
 
 # § 1471g. Availability of appropriations to support Memorial Day and Fourth of July ceremonies and activities in National Capital Region

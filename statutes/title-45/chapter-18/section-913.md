@@ -3,9 +3,9 @@ title: "Section 913 - Authorization of appropriations"
 usc_title: 45
 usc_section: "913"
 chapter: 18
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "45 U.S.C. § 913"
-generated_at: "2026-03-30T01:17:07.599Z"
+generated_at: "2026-03-30T01:23:01.273Z"
 ---
 
 # § 913. Authorization of appropriations

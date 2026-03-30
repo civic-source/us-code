@@ -3,9 +3,9 @@ title: "Section 1653 - Amendment of pleadings to show jurisdiction"
 usc_title: 28
 usc_section: "1653"
 chapter: 111
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "28 U.S.C. § 1653"
-generated_at: "2026-03-30T01:15:52.508Z"
+generated_at: "2026-03-30T01:22:27.015Z"
 ---
 
 # § 1653. Amendment of pleadings to show jurisdiction

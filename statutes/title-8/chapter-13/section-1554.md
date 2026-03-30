@@ -3,9 +3,9 @@ title: "Section 1554 - Special immigrant inspectors at Washington"
 usc_title: 8
 usc_section: "1554"
 chapter: 13
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "8 U.S.C. § 1554"
-generated_at: "2026-03-30T01:14:44.275Z"
+generated_at: "2026-03-30T01:20:16.720Z"
 ---
 
 # § 1554. Special immigrant inspectors at Washington

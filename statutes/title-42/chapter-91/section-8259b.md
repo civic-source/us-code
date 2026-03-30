@@ -3,9 +3,9 @@ title: "Section 8259b - Federal procurement of energy efficient products"
 usc_title: 42
 usc_section: "8259b"
 chapter: 91
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 8259b"
-generated_at: "2026-03-30T01:18:07.676Z"
+generated_at: "2026-03-30T01:23:49.756Z"
 ---
 
 # § 8259b. Federal procurement of energy efficient products

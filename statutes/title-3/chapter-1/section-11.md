@@ -3,9 +3,9 @@ title: "Section 11 - Transmission of certificates by electors"
 usc_title: 3
 usc_section: "11"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "3 U.S.C. § 11"
-generated_at: "2026-03-30T01:14:17.253Z"
+generated_at: "2026-03-30T01:18:59.793Z"
 ---
 
 # § 11. Transmission of certificates by electors

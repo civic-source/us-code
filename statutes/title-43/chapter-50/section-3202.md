@@ -3,9 +3,9 @@ title: "Section 3202 - Water storage, groundwater storage, and conveyance projec
 usc_title: 43
 usc_section: "3202"
 chapter: 50
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 3202"
-generated_at: "2026-03-30T01:17:12.159Z"
+generated_at: "2026-03-30T01:23:05.621Z"
 ---
 
 # § 3202. Water storage, groundwater storage, and conveyance projects

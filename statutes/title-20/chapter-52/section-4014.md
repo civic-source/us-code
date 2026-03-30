@@ -3,9 +3,9 @@ title: "Section 4014 - Financial assistance"
 usc_title: 20
 usc_section: "4014"
 chapter: 52
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 4014"
-generated_at: "2026-03-30T01:15:07.643Z"
+generated_at: "2026-03-30T01:21:15.554Z"
 ---
 
 # § 4014. Financial assistance

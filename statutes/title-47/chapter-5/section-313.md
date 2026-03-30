@@ -3,9 +3,9 @@ title: "Section 313 - Application of antitrust laws to manufacture, sale, and tr
 usc_title: 47
 usc_section: "313"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "47 U.S.C. § 313"
-generated_at: "2026-03-30T01:18:33.868Z"
+generated_at: "2026-03-30T01:23:54.224Z"
 ---
 
 # § 313. Application of antitrust laws to manufacture, sale, and trade in radio apparatus

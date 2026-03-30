@@ -3,9 +3,9 @@ title: "Section 3358 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 
 usc_title: 19
 usc_section: "3358"
 chapter: 21
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "19 U.S.C. § 3358"
-generated_at: "2026-03-30T01:15:05.499Z"
+generated_at: "2026-03-30T01:21:06.242Z"
 ---
 
 # §§ 3351 to 3358. Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78

@@ -3,9 +3,9 @@ title: "Section 635t - Definitions"
 usc_title: 12
 usc_section: "635t"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 635t"
-generated_at: "2026-03-30T01:14:52.558Z"
+generated_at: "2026-03-30T01:20:55.655Z"
 ---
 
 # § 635t. Definitions

@@ -3,9 +3,9 @@ title: "Section 1252 - Gain from disposition of farm land"
 usc_title: 26
 usc_section: "1252"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 1252"
-generated_at: "2026-03-30T01:16:03.406Z"
+generated_at: "2026-03-30T01:22:40.393Z"
 ---
 
 # § 1252. Gain from disposition of farm land

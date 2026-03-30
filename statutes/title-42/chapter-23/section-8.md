@@ -3,9 +3,9 @@ title: "Section 8 - Employee protections"
 usc_title: 42
 usc_section: "8"
 chapter: 23
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T01:18:07.515Z"
+generated_at: "2026-03-30T01:23:49.605Z"
 ---
 
 # § 2297h–8. Employee protections

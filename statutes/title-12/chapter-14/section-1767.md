@@ -3,9 +3,9 @@ title: "Section 1767 - Fiscal agents and depositories; authorization to secure d
 usc_title: 12
 usc_section: "1767"
 chapter: 14
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 1767"
-generated_at: "2026-03-30T01:14:52.613Z"
+generated_at: "2026-03-30T01:20:55.699Z"
 ---
 
 # § 1767. Fiscal agents and depositories; authorization to secure deposits by governmental bodies

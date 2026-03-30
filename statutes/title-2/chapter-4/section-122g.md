@@ -3,9 +3,9 @@ title: "Section 122g - Repealed. Pub. L. 104–186, title II, § 204(67) , Aug. 
 usc_title: 2
 usc_section: "122g"
 chapter: 4
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "2 U.S.C. § 122g"
-generated_at: "2026-03-30T01:14:22.961Z"
+generated_at: "2026-03-30T01:19:48.640Z"
 ---
 
 # §§ 122b to 122g. Repealed. Pub. L. 104–186, title II, § 204(67) , Aug. 20, 1996 , 110 Stat. 1740

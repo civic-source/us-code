@@ -3,9 +3,9 @@ title: "Section 7408 - Actions to enjoin specified conduct related to tax shelte
 usc_title: 26
 usc_section: "7408"
 chapter: 76
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 7408"
-generated_at: "2026-03-30T01:16:03.510Z"
+generated_at: "2026-03-30T01:22:40.492Z"
 ---
 
 # § 7408. Actions to enjoin specified conduct related to tax shelters and reportable transactions

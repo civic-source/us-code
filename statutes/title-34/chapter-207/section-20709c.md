@@ -3,9 +3,9 @@ title: "Section 20709c - Transferred"
 usc_title: 34
 usc_section: "20709c"
 chapter: 207
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "34 U.S.C. § 20709c"
-generated_at: "2026-03-30T01:16:36.253Z"
+generated_at: "2026-03-30T01:22:51.763Z"
 ---
 
 # §§ 20709a to 20709c. Transferred

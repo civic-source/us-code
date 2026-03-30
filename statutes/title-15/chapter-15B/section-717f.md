@@ -3,9 +3,9 @@ title: "Section 717f - Construction, extension, or abandonment of facilities"
 usc_title: 15
 usc_section: "717f"
 chapter: 15
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "15 U.S.C. § 717f"
-generated_at: "2026-03-30T01:14:59.516Z"
+generated_at: "2026-03-30T01:20:30.783Z"
 ---
 
 # § 717f. Construction, extension, or abandonment of facilities

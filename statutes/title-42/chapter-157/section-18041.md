@@ -3,9 +3,9 @@ title: "Section 18041 - State flexibility in operation and enforcement of Exchan
 usc_title: 42
 usc_section: "18041"
 chapter: 157
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 18041"
-generated_at: "2026-03-30T01:18:07.833Z"
+generated_at: "2026-03-30T01:23:49.906Z"
 ---
 
 # § 18041. State flexibility in operation and enforcement of Exchanges and related requirements

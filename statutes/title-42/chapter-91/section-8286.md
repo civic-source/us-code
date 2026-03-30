@@ -3,9 +3,9 @@ title: "Section 8286 - Consensus on factors and data for energy conservation sta
 usc_title: 42
 usc_section: "8286"
 chapter: 91
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 8286"
-generated_at: "2026-03-30T01:18:07.677Z"
+generated_at: "2026-03-30T01:23:49.757Z"
 ---
 
 # § 8286. Consensus on factors and data for energy conservation standards

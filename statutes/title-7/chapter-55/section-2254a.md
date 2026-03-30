@@ -3,9 +3,9 @@ title: "Section 2254a - Availability of funds appropriated for Agricultural Rese
 usc_title: 7
 usc_section: "2254a"
 chapter: 55
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 2254a"
-generated_at: "2026-03-30T01:14:35.634Z"
+generated_at: "2026-03-30T01:20:23.039Z"
 ---
 
 # § 2254a. Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products

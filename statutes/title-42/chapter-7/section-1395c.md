@@ -3,9 +3,9 @@ title: "Section 1395c - Description of program"
 usc_title: 42
 usc_section: "1395c"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 1395c"
-generated_at: "2026-03-30T01:18:07.320Z"
+generated_at: "2026-03-30T01:23:49.414Z"
 ---
 
 # § 1395c. Description of program

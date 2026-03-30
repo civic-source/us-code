@@ -3,9 +3,9 @@ title: "Section 4324 - Return by Custodian, to United States, of payments under 
 usc_title: 50
 usc_section: "4324"
 chapter: 53
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 4324"
-generated_at: "2026-03-30T01:18:12.827Z"
+generated_at: "2026-03-30T01:23:56.206Z"
 ---
 
 # § 4324. Return by Custodian, to United States, of payments under licenses, assignments or sales of patents

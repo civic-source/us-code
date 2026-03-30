@@ -3,9 +3,9 @@ title: "Section 1367 - Penalties for disclosure of information"
 usc_title: 8
 usc_section: "1367"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "8 U.S.C. § 1367"
-generated_at: "2026-03-30T01:14:44.268Z"
+generated_at: "2026-03-30T01:20:16.712Z"
 ---
 
 # § 1367. Penalties for disclosure of information

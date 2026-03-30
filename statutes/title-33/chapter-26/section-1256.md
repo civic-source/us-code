@@ -3,9 +3,9 @@ title: "Section 1256 - Grants for pollution control programs"
 usc_title: 33
 usc_section: "1256"
 chapter: 26
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "33 U.S.C. § 1256"
-generated_at: "2026-03-30T01:16:07.168Z"
+generated_at: "2026-03-30T01:22:46.126Z"
 ---
 
 # § 1256. Grants for pollution control programs

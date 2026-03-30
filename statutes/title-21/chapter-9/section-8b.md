@@ -3,9 +3,9 @@ title: "Section 8b - Use of clinical investigation data from outside the United 
 usc_title: 21
 usc_section: "8b"
 chapter: 9
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "21 U.S.C. § 8b"
-generated_at: "2026-03-30T01:15:40.053Z"
+generated_at: "2026-03-30T01:21:23.955Z"
 ---
 
 # § 360bbb–8b. Use of clinical investigation data from outside the United States

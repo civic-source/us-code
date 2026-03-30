@@ -3,9 +3,9 @@ title: "Section 1271 - Treatment of amounts received on retirement or sale or ex
 usc_title: 26
 usc_section: "1271"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 1271"
-generated_at: "2026-03-30T01:16:03.407Z"
+generated_at: "2026-03-30T01:22:40.395Z"
 ---
 
 # § 1271. Treatment of amounts received on retirement or sale or exchange of debt instruments

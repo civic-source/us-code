@@ -3,9 +3,9 @@ title: "Section 5 - Advisory Committee"
 usc_title: 16
 usc_section: "5"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T01:15:30.980Z"
+generated_at: "2026-03-30T01:21:05.025Z"
 ---
 
 # § 698u–5. Advisory Committee

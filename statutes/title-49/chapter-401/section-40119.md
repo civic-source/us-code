@@ -3,9 +3,9 @@ title: "Section 40119 - Sensitive security information"
 usc_title: 49
 usc_section: "40119"
 chapter: 401
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 40119"
-generated_at: "2026-03-30T01:18:16.112Z"
+generated_at: "2026-03-30T01:24:07.411Z"
 ---
 
 # § 40119. Sensitive security information

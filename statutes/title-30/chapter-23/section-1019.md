@@ -3,9 +3,9 @@ title: "Section 1019 - Disposal of moneys from sales, bonuses, rentals, and roya
 usc_title: 30
 usc_section: "1019"
 chapter: 23
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "30 U.S.C. § 1019"
-generated_at: "2026-03-30T01:15:55.556Z"
+generated_at: "2026-03-30T01:22:10.678Z"
 ---
 
 # § 1019. Disposal of moneys from sales, bonuses, rentals, and royalties

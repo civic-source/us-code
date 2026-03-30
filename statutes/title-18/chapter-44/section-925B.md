@@ -3,9 +3,9 @@ title: "Section 925B - Reporting of background check denials to State authoritie
 usc_title: 18
 usc_section: "925B"
 chapter: 44
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "18 U.S.C. § 925B"
-generated_at: "2026-03-30T01:15:03.805Z"
+generated_at: "2026-03-30T01:21:10.626Z"
 ---
 
 # § 925B. Reporting of background check denials to State authorities

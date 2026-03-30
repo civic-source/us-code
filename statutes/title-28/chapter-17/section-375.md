@@ -3,9 +3,9 @@ title: "Section 375 - Recall of certain judges and magistrate judges"
 usc_title: 28
 usc_section: "375"
 chapter: 17
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "28 U.S.C. § 375"
-generated_at: "2026-03-30T01:15:52.493Z"
+generated_at: "2026-03-30T01:22:26.999Z"
 ---
 
 # § 375. Recall of certain judges and magistrate judges

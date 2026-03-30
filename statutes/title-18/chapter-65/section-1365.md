@@ -3,9 +3,9 @@ title: "Section 1365 - Tampering with consumer products"
 usc_title: 18
 usc_section: "1365"
 chapter: 65
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "18 U.S.C. § 1365"
-generated_at: "2026-03-30T01:15:03.812Z"
+generated_at: "2026-03-30T01:21:10.634Z"
 ---
 
 # § 1365. Tampering with consumer products

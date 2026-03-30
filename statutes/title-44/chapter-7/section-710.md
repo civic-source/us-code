@@ -3,9 +3,9 @@ title: "Section 710 - Copies of Acts furnished to Director of the Government Pub
 usc_title: 44
 usc_section: "710"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "44 U.S.C. § 710"
-generated_at: "2026-03-30T01:16:58.471Z"
+generated_at: "2026-03-30T01:23:00.582Z"
 ---
 
 # § 710. Copies of Acts furnished to Director of the Government Publishing Office

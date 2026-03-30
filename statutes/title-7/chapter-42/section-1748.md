@@ -3,9 +3,9 @@ title: "Section 1748 - Annual reports by agricultural attachés"
 usc_title: 7
 usc_section: "1748"
 chapter: 42
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 1748"
-generated_at: "2026-03-30T01:14:35.597Z"
+generated_at: "2026-03-30T01:20:23.004Z"
 ---
 
 # § 1748. Annual reports by agricultural attachés

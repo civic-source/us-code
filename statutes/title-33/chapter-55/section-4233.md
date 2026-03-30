@@ -3,9 +3,9 @@ title: "Section 4233 - Agreement with the Marine Debris Foundation"
 usc_title: 33
 usc_section: "4233"
 chapter: 55
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "33 U.S.C. § 4233"
-generated_at: "2026-03-30T01:16:07.229Z"
+generated_at: "2026-03-30T01:22:46.181Z"
 ---
 
 # § 4233. Agreement with the Marine Debris Foundation

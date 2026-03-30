@@ -3,9 +3,9 @@ title: "Section 3618 - Collection of service charges for certification or valida
 usc_title: 50
 usc_section: "3618"
 chapter: 47
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 3618"
-generated_at: "2026-03-30T01:18:12.813Z"
+generated_at: "2026-03-30T01:23:56.194Z"
 ---
 
 # § 3618. Collection of service charges for certification or validation of information assurance products

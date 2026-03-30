@@ -3,9 +3,9 @@ title: "Section 3784 - Technical data under contracts for commercial items: pres
 usc_title: 10
 usc_section: "3784"
 chapter: 275
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 3784"
-generated_at: "2026-03-30T01:14:40.726Z"
+generated_at: "2026-03-30T01:19:58.307Z"
 ---
 
 # § 3784. Technical data under contracts for commercial items: presumption of development exclusively at private expense

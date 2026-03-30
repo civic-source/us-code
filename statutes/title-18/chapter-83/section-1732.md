@@ -3,9 +3,9 @@ title: "Section 1732 - Approval of bond or sureties by postmaster"
 usc_title: 18
 usc_section: "1732"
 chapter: 83
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "18 U.S.C. § 1732"
-generated_at: "2026-03-30T01:15:03.817Z"
+generated_at: "2026-03-30T01:21:10.639Z"
 ---
 
 # § 1732. Approval of bond or sureties by postmaster

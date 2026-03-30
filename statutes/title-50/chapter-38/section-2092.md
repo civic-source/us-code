@@ -3,9 +3,9 @@ title: "Section 2092 - Investment of moneys in fund"
 usc_title: 50
 usc_section: "2092"
 chapter: 38
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 2092"
-generated_at: "2026-03-30T01:18:12.765Z"
+generated_at: "2026-03-30T01:23:56.153Z"
 ---
 
 # § 2092. Investment of moneys in fund

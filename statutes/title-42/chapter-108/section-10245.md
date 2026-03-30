@@ -3,9 +3,9 @@ title: "Section 10245 - Site characterization; licensing"
 usc_title: 42
 usc_section: "10245"
 chapter: 108
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 10245"
-generated_at: "2026-03-30T01:18:07.720Z"
+generated_at: "2026-03-30T01:23:49.797Z"
 ---
 
 # § 10245. Site characterization; licensing

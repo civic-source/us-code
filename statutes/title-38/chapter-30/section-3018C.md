@@ -3,9 +3,9 @@ title: "Section 3018C - Opportunity for certain VEAP participants to enroll"
 usc_title: 38
 usc_section: "3018C"
 chapter: 30
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "38 U.S.C. § 3018C"
-generated_at: "2026-03-30T01:16:52.987Z"
+generated_at: "2026-03-30T01:22:58.384Z"
 ---
 
 # § 3018C. Opportunity for certain VEAP participants to enroll

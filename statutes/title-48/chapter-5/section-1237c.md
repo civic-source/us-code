@@ -3,9 +3,9 @@ title: "Section 1237c - Omitted"
 usc_title: 48
 usc_section: "1237c"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "48 U.S.C. § 1237c"
-generated_at: "2026-03-30T01:18:11.173Z"
+generated_at: "2026-03-30T01:24:03.429Z"
 ---
 
 # §§ 1236b to 1237c. Omitted

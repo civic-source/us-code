@@ -3,9 +3,9 @@ title: "Section 6 - Safeguarding and elimination of conventional arms"
 usc_title: 22
 usc_section: "6"
 chapter: 32
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 6"
-generated_at: "2026-03-30T01:15:42.336Z"
+generated_at: "2026-03-30T01:22:08.161Z"
 ---
 
 # § 2349bb–6. Safeguarding and elimination of conventional arms

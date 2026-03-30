@@ -3,9 +3,9 @@ title: "Section 248 - Control and management of hospitals; furnishing prosthetic
 usc_title: 42
 usc_section: "248"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 248"
-generated_at: "2026-03-30T01:18:07.114Z"
+generated_at: "2026-03-30T01:23:49.202Z"
 ---
 
 # § 248. Control and management of hospitals; furnishing prosthetic and orthopedic devices; transfer of patients; disposal of articles produced by patients; disposal of money and effects of deceased patients; payment of burial expenses

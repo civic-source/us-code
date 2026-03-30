@@ -3,9 +3,9 @@ title: "Section 1504 - Investigations; notice of hearing"
 usc_title: 5
 usc_section: "1504"
 chapter: 15
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 1504"
-generated_at: "2026-03-30T01:14:21.509Z"
+generated_at: "2026-03-30T01:19:01.540Z"
 ---
 
 # § 1504. Investigations; notice of hearing

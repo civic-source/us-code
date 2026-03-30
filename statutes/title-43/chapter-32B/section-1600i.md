@@ -3,9 +3,9 @@ title: "Section 1600i - Reports to Congress"
 usc_title: 43
 usc_section: "1600i"
 chapter: 32
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 1600i"
-generated_at: "2026-03-30T01:17:12.137Z"
+generated_at: "2026-03-30T01:23:05.598Z"
 ---
 
 # § 1600i. Reports to Congress

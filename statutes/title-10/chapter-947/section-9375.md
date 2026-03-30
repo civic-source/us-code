@@ -3,9 +3,9 @@ title: "Section 9375 - Production of supplies and munitions: hours and pay of la
 usc_title: 10
 usc_section: "9375"
 chapter: 947
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 9375"
-generated_at: "2026-03-30T01:14:40.765Z"
+generated_at: "2026-03-30T01:19:58.344Z"
 ---
 
 # § 9375. Production of supplies and munitions: hours and pay of laborers and mechanics

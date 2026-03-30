@@ -3,9 +3,9 @@ title: "Section 21711 - Supporting Federal cases involving elder justice"
 usc_title: 34
 usc_section: "21711"
 chapter: 217
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "34 U.S.C. § 21711"
-generated_at: "2026-03-30T01:16:36.257Z"
+generated_at: "2026-03-30T01:22:51.767Z"
 ---
 
 # § 21711. Supporting Federal cases involving elder justice
@@ -43,7 +43,7 @@ generated_at: "2026-03-30T01:16:36.257Z"
       - **(i)** the name of the district where the case originated;
       - **(ii)** the style of the case, including the case name and number;
       - **(iii)** a description of the scheme or scam; and
-      - **(iv)** the outcome of the case. 2 2 So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv);
+      - **(iv)** the outcome of the case. 2 2 So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv).
     - **(B)** with respect to the report by the Attorney General, including a link to the publicly available best practices identified under subsection (b)(1)(B) and the replication guides and training materials created or compiled under such subsection; and
     - **(C)** with respect to the report by the Federal Trade Commission, in relevant years, including information on—
       - **(i)** the newly created materials, guidance, or recommendations of the Senior Scams Prevention Advisory Group established under section 112 of the Stop Senior Scams Act and any relevant views or considerations made by members of the Advisory Group that were not included in the Advisory Group’s model materials or considered an official recommendation by the Advisory Group;

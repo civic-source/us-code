@@ -3,9 +3,9 @@ title: "Section 5928 - Danger pay allowance"
 usc_title: 5
 usc_section: "5928"
 chapter: 59
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 5928"
-generated_at: "2026-03-30T01:14:21.535Z"
+generated_at: "2026-03-30T01:19:01.561Z"
 ---
 
 # § 5928. Danger pay allowance

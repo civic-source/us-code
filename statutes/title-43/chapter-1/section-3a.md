@@ -3,9 +3,9 @@ title: "Section 3a - Omitted"
 usc_title: 43
 usc_section: "3a"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 3a"
-generated_at: "2026-03-30T01:17:12.097Z"
+generated_at: "2026-03-30T01:23:05.559Z"
 ---
 
 # § 3a. Omitted

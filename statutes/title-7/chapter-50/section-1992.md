@@ -3,9 +3,9 @@ title: "Section 1992 - Loan limitations"
 usc_title: 7
 usc_section: "1992"
 chapter: 50
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 1992"
-generated_at: "2026-03-30T01:14:35.607Z"
+generated_at: "2026-03-30T01:20:23.016Z"
 ---
 
 # § 1992. Loan limitations

@@ -3,9 +3,9 @@ title: "Section 310 - Aligning Federal environmental reviews"
 usc_title: 49
 usc_section: "310"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 310"
-generated_at: "2026-03-30T01:18:16.038Z"
+generated_at: "2026-03-30T01:24:07.345Z"
 ---
 
 # § 310. Aligning Federal environmental reviews

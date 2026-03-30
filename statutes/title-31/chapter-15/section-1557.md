@@ -3,9 +3,9 @@ title: "Section 1557 - Authority for exemptions in appropriation laws"
 usc_title: 31
 usc_section: "1557"
 chapter: 15
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "31 U.S.C. § 1557"
-generated_at: "2026-03-30T01:16:35.438Z"
+generated_at: "2026-03-30T01:22:48.327Z"
 ---
 
 # § 1557. Authority for exemptions in appropriation laws

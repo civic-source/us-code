@@ -3,9 +3,9 @@ title: "Section 4343 - Employment of personnel, experts and consultants"
 usc_title: 42
 usc_section: "4343"
 chapter: 55
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 4343"
-generated_at: "2026-03-30T01:18:07.553Z"
+generated_at: "2026-03-30T01:23:49.639Z"
 ---
 
 # § 4343. Employment of personnel, experts and consultants

@@ -3,9 +3,9 @@ title: "Section 81a - Transfer of land to Anza-Borrego Desert State Park"
 usc_title: 16
 usc_section: "81a"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 81a"
-generated_at: "2026-03-30T01:15:30.884Z"
+generated_at: "2026-03-30T01:21:04.935Z"
 ---
 
 # § 410aaa–81a. Transfer of land to Anza-Borrego Desert State Park

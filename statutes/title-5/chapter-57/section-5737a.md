@@ -3,9 +3,9 @@ title: "Section 5737a - Employees temporarily deployed in contingency operations
 usc_title: 5
 usc_section: "5737a"
 chapter: 57
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 5737a"
-generated_at: "2026-03-30T01:14:21.533Z"
+generated_at: "2026-03-30T01:19:01.559Z"
 ---
 
 # § 5737a. Employees temporarily deployed in contingency operations

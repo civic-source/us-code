@@ -3,9 +3,9 @@ title: "Section 364 - Effect of felony conviction"
 usc_title: 28
 usc_section: "364"
 chapter: 16
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "28 U.S.C. § 364"
-generated_at: "2026-03-30T01:15:52.493Z"
+generated_at: "2026-03-30T01:22:26.998Z"
 ---
 
 # § 364. Effect of felony conviction

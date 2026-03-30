@@ -3,9 +3,9 @@ title: "Section 6503 - Transportation research and development 5-year strategic 
 usc_title: 49
 usc_section: "6503"
 chapter: 65
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 6503"
-generated_at: "2026-03-30T01:18:16.062Z"
+generated_at: "2026-03-30T01:24:07.367Z"
 ---
 
 # § 6503. Transportation research and development 5-year strategic plan

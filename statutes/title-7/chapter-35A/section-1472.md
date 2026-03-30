@@ -3,9 +3,9 @@ title: "Section 1472 - Assistance for livestock producers"
 usc_title: 7
 usc_section: "1472"
 chapter: 35
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 1472"
-generated_at: "2026-03-30T01:14:35.574Z"
+generated_at: "2026-03-30T01:20:22.984Z"
 ---
 
 # § 1472. Assistance for livestock producers

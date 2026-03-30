@@ -3,9 +3,9 @@ title: "Section 105 - Books for Library of Congress"
 usc_title: 20
 usc_section: "105"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 105"
-generated_at: "2026-03-30T01:15:07.543Z"
+generated_at: "2026-03-30T01:21:15.470Z"
 ---
 
 # § 105. Books for Library of Congress

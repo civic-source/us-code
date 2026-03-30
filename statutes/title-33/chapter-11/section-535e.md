@@ -3,9 +3,9 @@ title: "Section 535e - Ownership"
 usc_title: 33
 usc_section: "535e"
 chapter: 11
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "33 U.S.C. § 535e"
-generated_at: "2026-03-30T01:16:07.148Z"
+generated_at: "2026-03-30T01:22:46.108Z"
 ---
 
 # § 535e. Ownership

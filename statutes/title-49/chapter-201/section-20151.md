@@ -3,9 +3,9 @@ title: "Section 20151 - Railroad trespassing, vandalism, and highway-rail grade 
 usc_title: 49
 usc_section: "20151"
 chapter: 201
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 20151"
-generated_at: "2026-03-30T01:18:16.079Z"
+generated_at: "2026-03-30T01:24:07.380Z"
 ---
 
 # § 20151. Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy

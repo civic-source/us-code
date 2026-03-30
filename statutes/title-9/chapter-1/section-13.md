@@ -3,9 +3,9 @@ title: "Section 13 - Papers filed with order on motions; judgment; docketing; fo
 usc_title: 9
 usc_section: "13"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "9 U.S.C. § 13"
-generated_at: "2026-03-30T01:14:26.404Z"
+generated_at: "2026-03-30T01:19:52.316Z"
 ---
 
 # § 13. Papers filed with order on motions; judgment; docketing; force and effect; enforcement

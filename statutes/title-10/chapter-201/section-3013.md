@@ -3,9 +3,9 @@ title: "Section 3013 - Technical data"
 usc_title: 10
 usc_section: "3013"
 chapter: 201
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 3013"
-generated_at: "2026-03-30T01:14:40.718Z"
+generated_at: "2026-03-30T01:19:58.300Z"
 ---
 
 # § 3013. Technical data

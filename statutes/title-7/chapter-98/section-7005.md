@@ -3,9 +3,9 @@ title: "Section 7005 - Under Secretary of Agriculture for Marketing and Regulato
 usc_title: 7
 usc_section: "7005"
 chapter: 98
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 7005"
-generated_at: "2026-03-30T01:14:35.687Z"
+generated_at: "2026-03-30T01:20:23.088Z"
 ---
 
 # § 7005. Under Secretary of Agriculture for Marketing and Regulatory Programs

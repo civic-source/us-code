@@ -3,9 +3,9 @@ title: "Section 2a - Assistant or deputy commissioners; appointment; powers and 
 usc_title: 25
 usc_section: "2a"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "25 U.S.C. § 2a"
-generated_at: "2026-03-30T01:15:35.068Z"
+generated_at: "2026-03-30T01:21:29.309Z"
 ---
 
 # § 2a. Assistant or deputy commissioners; appointment; powers and duties

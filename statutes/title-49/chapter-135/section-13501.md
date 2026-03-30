@@ -3,9 +3,9 @@ title: "Section 13501 - General jurisdiction"
 usc_title: 49
 usc_section: "13501"
 chapter: 135
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 13501"
-generated_at: "2026-03-30T01:18:16.069Z"
+generated_at: "2026-03-30T01:24:07.371Z"
 ---
 
 # § 13501. General jurisdiction

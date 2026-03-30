@@ -3,9 +3,9 @@ title: "Section 1152 - Coordination of enforcement regarding violations of certa
 usc_title: 29
 usc_section: "1152"
 chapter: 18
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 1152"
-generated_at: "2026-03-30T01:15:48.777Z"
+generated_at: "2026-03-30T01:22:35.527Z"
 ---
 
 # § 1152. Coordination of enforcement regarding violations of certain health care provider requirements; complaint process

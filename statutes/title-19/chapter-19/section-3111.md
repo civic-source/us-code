@@ -3,9 +3,9 @@ title: "Section 3111 - International obligations"
 usc_title: 19
 usc_section: "3111"
 chapter: 19
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "19 U.S.C. § 3111"
-generated_at: "2026-03-30T01:15:05.498Z"
+generated_at: "2026-03-30T01:21:06.241Z"
 ---
 
 # § 3111. International obligations

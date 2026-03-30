@@ -3,9 +3,9 @@ title: "Section 1922 - Persons eligible for real estate loans"
 usc_title: 7
 usc_section: "1922"
 chapter: 50
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 1922"
-generated_at: "2026-03-30T01:14:35.599Z"
+generated_at: "2026-03-30T01:20:23.006Z"
 ---
 
 # § 1922. Persons eligible for real estate loans

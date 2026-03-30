@@ -3,9 +3,9 @@ title: "Section 9810 - Rule of construction"
 usc_title: 22
 usc_section: "9810"
 chapter: 105
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 9810"
-generated_at: "2026-03-30T01:15:42.451Z"
+generated_at: "2026-03-30T01:22:08.289Z"
 ---
 
 # § 9810. Rule of construction

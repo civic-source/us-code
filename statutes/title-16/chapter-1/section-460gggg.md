@@ -3,9 +3,9 @@ title: "Section 460gggg - Numu Newe Special Management Area"
 usc_title: 16
 usc_section: "460gggg"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 460gggg"
-generated_at: "2026-03-30T01:15:30.943Z"
+generated_at: "2026-03-30T01:21:04.990Z"
 ---
 
 # § 460gggg. Numu Newe Special Management Area

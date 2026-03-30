@@ -3,9 +3,9 @@ title: "Section 555 - Ancillary matters"
 usc_title: 5
 usc_section: "555"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 555"
-generated_at: "2026-03-30T01:14:21.501Z"
+generated_at: "2026-03-30T01:19:01.534Z"
 ---
 
 # § 555. Ancillary matters

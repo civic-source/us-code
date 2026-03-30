@@ -3,9 +3,9 @@ title: "Section 9802 - Prohibiting discrimination against individual participant
 usc_title: 26
 usc_section: "9802"
 chapter: 100
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 9802"
-generated_at: "2026-03-30T01:16:03.536Z"
+generated_at: "2026-03-30T01:22:40.514Z"
 ---
 
 # § 9802. Prohibiting discrimination against individual participants and beneficiaries based on health status

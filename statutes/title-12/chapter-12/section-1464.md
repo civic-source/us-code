@@ -3,9 +3,9 @@ title: "Section 1464 - Federal savings associations"
 usc_title: 12
 usc_section: "1464"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 1464"
-generated_at: "2026-03-30T01:14:52.568Z"
+generated_at: "2026-03-30T01:20:55.662Z"
 ---
 
 # § 1464. Federal savings associations

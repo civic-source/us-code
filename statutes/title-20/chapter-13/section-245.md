@@ -3,9 +3,9 @@ title: "Section 245 - Repealed. Pub. L. 85–620, title II, § 206 , Aug. 12, 19
 usc_title: 20
 usc_section: "245"
 chapter: 13
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 245"
-generated_at: "2026-03-30T01:15:07.546Z"
+generated_at: "2026-03-30T01:21:15.471Z"
 ---
 
 # § 245. Repealed. Pub. L. 85–620, title II, § 206 , Aug. 12, 1958 , 72 Stat. 561

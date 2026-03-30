@@ -3,9 +3,9 @@ title: "Section 1003 - Coverage"
 usc_title: 29
 usc_section: "1003"
 chapter: 18
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 1003"
-generated_at: "2026-03-30T01:15:48.760Z"
+generated_at: "2026-03-30T01:22:35.512Z"
 ---
 
 # § 1003. Coverage

@@ -3,9 +3,9 @@ title: "Section 2099 - Prohibitions against issuance of license"
 usc_title: 42
 usc_section: "2099"
 chapter: 23
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 2099"
-generated_at: "2026-03-30T01:18:07.503Z"
+generated_at: "2026-03-30T01:23:49.594Z"
 ---
 
 # § 2099. Prohibitions against issuance of license

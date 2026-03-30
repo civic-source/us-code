@@ -3,9 +3,9 @@ title: "Section 417 - Special provisions concerning the Department of Homeland S
 usc_title: 5
 usc_section: "417"
 chapter: 4
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 417"
-generated_at: "2026-03-30T01:14:21.497Z"
+generated_at: "2026-03-30T01:19:01.529Z"
 ---
 
 # § 417. Special provisions concerning the Department of Homeland Security

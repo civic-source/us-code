@@ -3,9 +3,9 @@ title: "Section 3051 - Repealed. Pub. L. 111–259, title III, § 347(c) , Oct. 
 usc_title: 50
 usc_section: "3051"
 chapter: 44
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 3051"
-generated_at: "2026-03-30T01:18:12.789Z"
+generated_at: "2026-03-30T01:23:56.171Z"
 ---
 
 # § 3051. Repealed. Pub. L. 111–259, title III, § 347(c) , Oct. 7, 2010 , 124 Stat. 2698

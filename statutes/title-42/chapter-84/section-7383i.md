@@ -3,9 +3,9 @@ title: "Section 7383i - Definitions of national laboratory and nuclear weapons p
 usc_title: 42
 usc_section: "7383i"
 chapter: 84
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 7383i"
-generated_at: "2026-03-30T01:18:07.633Z"
+generated_at: "2026-03-30T01:23:49.715Z"
 ---
 
 # § 7383i. Definitions of national laboratory and nuclear weapons production facility

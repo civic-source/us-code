@@ -3,9 +3,9 @@ title: "Section 7409 - Contracts for scarce medical specialist services"
 usc_title: 38
 usc_section: "7409"
 chapter: 74
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "38 U.S.C. § 7409"
-generated_at: "2026-03-30T01:16:53.020Z"
+generated_at: "2026-03-30T01:22:58.413Z"
 ---
 
 # § 7409. Contracts for scarce medical specialist services

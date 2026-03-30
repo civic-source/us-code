@@ -3,9 +3,9 @@ title: "Section 282f - Jurisdiction and venue of actions"
 usc_title: 22
 usc_section: "282f"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 282f"
-generated_at: "2026-03-30T01:15:42.294Z"
+generated_at: "2026-03-30T01:22:08.114Z"
 ---
 
 # § 282f. Jurisdiction and venue of actions

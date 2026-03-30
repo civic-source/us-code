@@ -3,9 +3,9 @@ title: "Section 12008 - Army Reserve and Air Force Reserve: warrant officers"
 usc_title: 10
 usc_section: "12008"
 chapter: 1201
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 12008"
-generated_at: "2026-03-30T01:14:40.773Z"
+generated_at: "2026-03-30T01:19:58.352Z"
 ---
 
 # § 12008. Army Reserve and Air Force Reserve: warrant officers

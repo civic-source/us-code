@@ -3,9 +3,9 @@ title: "Section 9047 - Federal credit union transaction account guarantees"
 usc_title: 15
 usc_section: "9047"
 chapter: 116
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "15 U.S.C. § 9047"
-generated_at: "2026-03-30T01:14:59.642Z"
+generated_at: "2026-03-30T01:20:30.905Z"
 ---
 
 # § 9047. Federal credit union transaction account guarantees

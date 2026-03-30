@@ -3,9 +3,9 @@ title: "Section 8507 - False statements and misrepresentations"
 usc_title: 5
 usc_section: "8507"
 chapter: 85
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 8507"
-generated_at: "2026-03-30T01:14:21.560Z"
+generated_at: "2026-03-30T01:19:01.586Z"
 ---
 
 # § 8507. False statements and misrepresentations

@@ -3,9 +3,9 @@ title: "Section 6212 - Regulations"
 usc_title: 7
 usc_section: "6212"
 chapter: 91
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 6212"
-generated_at: "2026-03-30T01:14:35.674Z"
+generated_at: "2026-03-30T01:20:23.076Z"
 ---
 
 # § 6212. Regulations

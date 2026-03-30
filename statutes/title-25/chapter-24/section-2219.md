@@ -3,9 +3,9 @@ title: "Section 2219 - Application to Alaska"
 usc_title: 25
 usc_section: "2219"
 chapter: 24
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "25 U.S.C. § 2219"
-generated_at: "2026-03-30T01:15:35.108Z"
+generated_at: "2026-03-30T01:21:29.346Z"
 ---
 
 # § 2219. Application to Alaska

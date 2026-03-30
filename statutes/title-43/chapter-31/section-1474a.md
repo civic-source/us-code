@@ -3,9 +3,9 @@ title: "Section 1474a - Emergency Department of the Interior Firefighting Fund; 
 usc_title: 43
 usc_section: "1474a"
 chapter: 31
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 1474a"
-generated_at: "2026-03-30T01:17:12.134Z"
+generated_at: "2026-03-30T01:23:05.594Z"
 ---
 
 # § 1474a. Emergency Department of the Interior Firefighting Fund; amounts considered “emergency requirements”

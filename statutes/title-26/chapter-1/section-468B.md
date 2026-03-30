@@ -3,9 +3,9 @@ title: "Section 468B - Special rules for designated settlement funds"
 usc_title: 26
 usc_section: "468B"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 468B"
-generated_at: "2026-03-30T01:16:03.352Z"
+generated_at: "2026-03-30T01:22:40.344Z"
 ---
 
 # § 468B. Special rules for designated settlement funds

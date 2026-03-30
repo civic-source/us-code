@@ -3,9 +3,9 @@ title: "Section 2615 - Contracts and liens; validity"
 usc_title: 12
 usc_section: "2615"
 chapter: 27
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 2615"
-generated_at: "2026-03-30T01:14:52.672Z"
+generated_at: "2026-03-30T01:20:55.747Z"
 ---
 
 # § 2615. Contracts and liens; validity

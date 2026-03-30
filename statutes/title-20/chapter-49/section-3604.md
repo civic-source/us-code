@@ -3,9 +3,9 @@ title: "Section 3604 - Asbestos hazards detection program"
 usc_title: 20
 usc_section: "3604"
 chapter: 49
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 3604"
-generated_at: "2026-03-30T01:15:07.640Z"
+generated_at: "2026-03-30T01:21:15.552Z"
 ---
 
 # § 3604. Asbestos hazards detection program

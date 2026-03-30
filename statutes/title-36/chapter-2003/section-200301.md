@@ -3,9 +3,9 @@ title: "Section 200301 - Organization"
 usc_title: 36
 usc_section: "200301"
 chapter: 2003
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "36 U.S.C. § 200301"
-generated_at: "2026-03-30T01:16:51.438Z"
+generated_at: "2026-03-30T01:22:56.768Z"
 ---
 
 # § 200301. Organization

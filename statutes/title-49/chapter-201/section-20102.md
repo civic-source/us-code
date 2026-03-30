@@ -3,9 +3,9 @@ title: "Section 20102 - Definitions"
 usc_title: 49
 usc_section: "20102"
 chapter: 201
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 20102"
-generated_at: "2026-03-30T01:18:16.075Z"
+generated_at: "2026-03-30T01:24:07.378Z"
 ---
 
 # § 20102. Definitions

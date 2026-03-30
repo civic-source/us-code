@@ -3,9 +3,9 @@ title: "Section 256h - Program of payments to teaching health centers that opera
 usc_title: 42
 usc_section: "256h"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 256h"
-generated_at: "2026-03-30T01:18:07.125Z"
+generated_at: "2026-03-30T01:23:49.213Z"
 ---
 
 # § 256h. Program of payments to teaching health centers that operate graduate medical education programs

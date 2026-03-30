@@ -3,9 +3,9 @@ title: "Section 1476 - Emergencies"
 usc_title: 33
 usc_section: "1476"
 chapter: 28
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "33 U.S.C. § 1476"
-generated_at: "2026-03-30T01:16:07.192Z"
+generated_at: "2026-03-30T01:22:46.147Z"
 ---
 
 # § 1476. Emergencies

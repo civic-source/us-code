@@ -3,9 +3,9 @@ title: "Section 4118 - Consultations with other interested parties"
 usc_title: 12
 usc_section: "4118"
 chapter: 42
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 4118"
-generated_at: "2026-03-30T01:14:52.688Z"
+generated_at: "2026-03-30T01:20:55.761Z"
 ---
 
 # § 4118. Consultations with other interested parties

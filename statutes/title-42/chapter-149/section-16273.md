@@ -3,9 +3,9 @@ title: "Section 16273 - Fuel cycle research, development, demonstration, and com
 usc_title: 42
 usc_section: "16273"
 chapter: 149
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 16273"
-generated_at: "2026-03-30T01:18:07.801Z"
+generated_at: "2026-03-30T01:23:49.874Z"
 ---
 
 # § 16273. Fuel cycle research, development, demonstration, and commercial application

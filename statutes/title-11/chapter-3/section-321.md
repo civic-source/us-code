@@ -3,9 +3,9 @@ title: "Section 321 - Eligibility to serve as trustee"
 usc_title: 11
 usc_section: "321"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "11 U.S.C. § 321"
-generated_at: "2026-03-30T01:14:49.762Z"
+generated_at: "2026-03-30T01:20:32.497Z"
 ---
 
 # § 321. Eligibility to serve as trustee

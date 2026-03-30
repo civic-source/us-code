@@ -3,9 +3,9 @@ title: "Section 393a - Long-range planning for facilities"
 usc_title: 47
 usc_section: "393a"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "47 U.S.C. § 393a"
-generated_at: "2026-03-30T01:18:33.875Z"
+generated_at: "2026-03-30T01:23:54.230Z"
 ---
 
 # § 393a. Long-range planning for facilities

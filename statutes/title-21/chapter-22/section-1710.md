@@ -3,9 +3,9 @@ title: "Section 1710 - Drug Interdiction Coordinator and Committee"
 usc_title: 21
 usc_section: "1710"
 chapter: 22
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "21 U.S.C. § 1710"
-generated_at: "2026-03-30T01:15:40.104Z"
+generated_at: "2026-03-30T01:21:23.999Z"
 ---
 
 # § 1710. Drug Interdiction Coordinator and Committee

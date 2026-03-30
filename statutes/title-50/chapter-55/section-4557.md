@@ -3,9 +3,9 @@ title: "Section 4557 - Liability for compliance with invalid regulations; discri
 usc_title: 50
 usc_section: "4557"
 chapter: 55
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 4557"
-generated_at: "2026-03-30T01:18:12.829Z"
+generated_at: "2026-03-30T01:23:56.210Z"
 ---
 
 # § 4557. Liability for compliance with invalid regulations; discrimination against orders or contracts affected by priorities or allocations

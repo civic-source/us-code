@@ -3,9 +3,9 @@ title: "Section 168 - Repealed. Pub. L. 98–621, § 10(c) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "168"
 chapter: 4
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "24 U.S.C. § 168"
-generated_at: "2026-03-30T01:15:35.213Z"
+generated_at: "2026-03-30T01:21:26.084Z"
 ---
 
 # § 168. Repealed. Pub. L. 98–621, § 10(c) , Nov. 8, 1984 , 98 Stat. 3379

@@ -3,9 +3,9 @@ title: "Section 269f - International Bureau for the Protection of Industrial Pro
 usc_title: 22
 usc_section: "269f"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 269f"
-generated_at: "2026-03-30T01:15:42.289Z"
+generated_at: "2026-03-30T01:22:08.108Z"
 ---
 
 # § 269f. International Bureau for the Protection of Industrial Property; authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 772 - Training"
 usc_title: 29
 usc_section: "772"
 chapter: 16
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 772"
-generated_at: "2026-03-30T01:15:48.753Z"
+generated_at: "2026-03-30T01:22:35.506Z"
 ---
 
 # § 772. Training

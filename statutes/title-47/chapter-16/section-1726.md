@@ -3,9 +3,9 @@ title: "Section 1726 - General provisions"
 usc_title: 47
 usc_section: "1726"
 chapter: 16
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "47 U.S.C. § 1726"
-generated_at: "2026-03-30T01:18:33.902Z"
+generated_at: "2026-03-30T01:23:54.259Z"
 ---
 
 # § 1726. General provisions

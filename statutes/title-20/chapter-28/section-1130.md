@@ -3,9 +3,9 @@ title: "Section 1130 - Findings and purposes"
 usc_title: 20
 usc_section: "1130"
 chapter: 28
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 1130"
-generated_at: "2026-03-30T01:15:07.603Z"
+generated_at: "2026-03-30T01:21:15.520Z"
 ---
 
 # § 1130. Findings and purposes

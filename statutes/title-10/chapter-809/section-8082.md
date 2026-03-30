@@ -3,9 +3,9 @@ title: "Section 8082 - Chaplain Corps and Chief of Chaplains"
 usc_title: 10
 usc_section: "8082"
 chapter: 809
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 8082"
-generated_at: "2026-03-30T01:14:40.749Z"
+generated_at: "2026-03-30T01:19:58.330Z"
 ---
 
 # § 8082. Chaplain Corps and Chief of Chaplains

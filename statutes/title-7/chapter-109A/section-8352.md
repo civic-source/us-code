@@ -3,9 +3,9 @@ title: "Section 8352 - Authorization of expenditures for the eradication and con
 usc_title: 7
 usc_section: "8352"
 chapter: 109
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 8352"
-generated_at: "2026-03-30T01:14:35.721Z"
+generated_at: "2026-03-30T01:20:23.115Z"
 ---
 
 # § 8352. Authorization of expenditures for the eradication and control of predatory and other wild animals

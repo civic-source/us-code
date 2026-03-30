@@ -3,9 +3,9 @@ title: "Section 5028 - Authority of Director"
 usc_title: 42
 usc_section: "5028"
 chapter: 66
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 5028"
-generated_at: "2026-03-30T01:18:07.565Z"
+generated_at: "2026-03-30T01:23:49.650Z"
 ---
 
 # § 5028. Authority of Director

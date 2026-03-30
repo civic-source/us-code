@@ -3,9 +3,9 @@ title: "Section 511 - Attorney General to advise the President"
 usc_title: 28
 usc_section: "511"
 chapter: 31
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "28 U.S.C. § 511"
-generated_at: "2026-03-30T01:15:52.495Z"
+generated_at: "2026-03-30T01:22:27.002Z"
 ---
 
 # § 511. Attorney General to advise the President

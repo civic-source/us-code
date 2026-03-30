@@ -3,9 +3,9 @@ title: "Section 851 - Definition of regulated investment company"
 usc_title: 26
 usc_section: "851"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 851"
-generated_at: "2026-03-30T01:16:03.376Z"
+generated_at: "2026-03-30T01:22:40.367Z"
 ---
 
 # § 851. Definition of regulated investment company

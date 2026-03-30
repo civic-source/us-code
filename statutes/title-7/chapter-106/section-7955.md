@@ -3,9 +3,9 @@ title: "Section 7955 - Producer agreement required as condition on provision of 
 usc_title: 7
 usc_section: "7955"
 chapter: 106
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 7955"
-generated_at: "2026-03-30T01:14:35.713Z"
+generated_at: "2026-03-30T01:20:23.108Z"
 ---
 
 # § 7955. Producer agreement required as condition on provision of direct payments and counter-cyclical payments

@@ -3,9 +3,9 @@ title: "Section 47107 - Project grant application approval conditioned on assura
 usc_title: 49
 usc_section: "47107"
 chapter: 471
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 47107"
-generated_at: "2026-03-30T01:18:16.140Z"
+generated_at: "2026-03-30T01:24:07.436Z"
 ---
 
 # § 47107. Project grant application approval conditioned on assurances about airport operations
@@ -108,7 +108,7 @@ generated_at: "2026-03-30T01:18:16.140Z"
   - **(1)** subsection (c)(2)(A)(iii) of this section is available to the Secretary of Transportation to make a grant for airport development or airport planning under section 47104 of this title ;
   - **(2)** subsection (c)(2)(B)(iii) of this section is available to the Secretary—
     - **(A)** to make a grant for a purpose described in section 47115(b) of this title ; and
-    - **(B)** for use under section 47114(d)(2) 1 1 See References in Text note below. of this title at another airport in the State in which the land was disposed of under subsection (c)(2)(B)(ii) of this section; and
+    - **(B)** for use under section 47114(d)(2) of this title at another airport in the State in which the land was disposed of under subsection (c)(2)(B)(ii) of this section; and
   - **(3)** subsection (c)(2)(B)(iii) of this section is in addition to an amount made available to the Secretary under section 48103 of this title and not subject to apportionment under section 47114 of this title .
 - **(g)**
   - **(1)** To ensure compliance with this section, the Secretary of Transportation—

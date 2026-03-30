@@ -3,9 +3,9 @@ title: "Section 5505 - Environmental education grants"
 usc_title: 20
 usc_section: "5505"
 chapter: 65
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 5505"
-generated_at: "2026-03-30T01:15:07.648Z"
+generated_at: "2026-03-30T01:21:15.558Z"
 ---
 
 # § 5505. Environmental education grants

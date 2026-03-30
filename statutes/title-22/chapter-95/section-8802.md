@@ -3,9 +3,9 @@ title: "Section 8802 - Sense of Congress relating to violations of human rights 
 usc_title: 22
 usc_section: "8802"
 chapter: 95
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 8802"
-generated_at: "2026-03-30T01:15:42.436Z"
+generated_at: "2026-03-30T01:22:08.272Z"
 ---
 
 # § 8802. Sense of Congress relating to violations of human rights by Iran

@@ -3,9 +3,9 @@ title: "Section 669a - Nonliability for financial institutions providing financi
 usc_title: 42
 usc_section: "669a"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 669a"
-generated_at: "2026-03-30T01:18:07.279Z"
+generated_at: "2026-03-30T01:23:49.372Z"
 ---
 
 # § 669a. Nonliability for financial institutions providing financial records to State child support enforcement agencies in child support cases

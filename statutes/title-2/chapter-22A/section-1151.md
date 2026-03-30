@@ -3,9 +3,9 @@ title: "Section 1151 - Congressional Office for International Leadership"
 usc_title: 2
 usc_section: "1151"
 chapter: 22
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "2 U.S.C. § 1151"
-generated_at: "2026-03-30T01:14:22.981Z"
+generated_at: "2026-03-30T01:19:48.662Z"
 ---
 
 # § 1151. Congressional Office for International Leadership

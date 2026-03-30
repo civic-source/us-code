@@ -3,9 +3,9 @@ title: "Section 3073 - Export prohibitions; export certification system; interna
 usc_title: 25
 usc_section: "3073"
 chapter: 32
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "25 U.S.C. § 3073"
-generated_at: "2026-03-30T01:15:35.116Z"
+generated_at: "2026-03-30T01:21:29.353Z"
 ---
 
 # § 3073. Export prohibitions; export certification system; international agreements

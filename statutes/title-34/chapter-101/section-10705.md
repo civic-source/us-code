@@ -3,9 +3,9 @@ title: "Section 10705 - Definitions"
 usc_title: 34
 usc_section: "10705"
 chapter: 101
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "34 U.S.C. § 10705"
-generated_at: "2026-03-30T01:16:36.227Z"
+generated_at: "2026-03-30T01:22:51.738Z"
 ---
 
 # § 10705. Definitions

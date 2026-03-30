@@ -3,9 +3,9 @@ title: "Section 46505 - Carrying a weapon or explosive on an aircraft"
 usc_title: 49
 usc_section: "46505"
 chapter: 465
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 46505"
-generated_at: "2026-03-30T01:18:16.139Z"
+generated_at: "2026-03-30T01:24:07.435Z"
 ---
 
 # § 46505. Carrying a weapon or explosive on an aircraft

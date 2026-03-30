@@ -3,9 +3,9 @@ title: "Section 873 - Cooperative arrangements"
 usc_title: 21
 usc_section: "873"
 chapter: 13
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "21 U.S.C. § 873"
-generated_at: "2026-03-30T01:15:40.093Z"
+generated_at: "2026-03-30T01:21:23.991Z"
 ---
 
 # § 873. Cooperative arrangements

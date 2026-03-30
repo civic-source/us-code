@@ -3,9 +3,9 @@ title: "Section 6612 - Subgrants to local educational agencies"
 usc_title: 20
 usc_section: "6612"
 chapter: 70
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 6612"
-generated_at: "2026-03-30T01:15:07.663Z"
+generated_at: "2026-03-30T01:21:15.571Z"
 ---
 
 # § 6612. Subgrants to local educational agencies

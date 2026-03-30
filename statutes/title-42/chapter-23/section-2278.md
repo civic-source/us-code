@@ -3,9 +3,9 @@ title: "Section 2278 - Statute of limitations"
 usc_title: 42
 usc_section: "2278"
 chapter: 23
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 2278"
-generated_at: "2026-03-30T01:18:07.512Z"
+generated_at: "2026-03-30T01:23:49.602Z"
 ---
 
 # § 2278. Statute of limitations

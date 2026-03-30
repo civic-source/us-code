@@ -3,9 +3,9 @@ title: "Section 1336 - Repealed. Pub. L. 98–369, div. B, title VI, § 2663(f) 
 usc_title: 42
 usc_section: "1336"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 1336"
-generated_at: "2026-03-30T01:18:07.313Z"
+generated_at: "2026-03-30T01:23:49.407Z"
 ---
 
 # §§ 1331 to 1336. Repealed. Pub. L. 98–369, div. B, title VI, § 2663(f) , July 18, 1984 , 98 Stat. 1168

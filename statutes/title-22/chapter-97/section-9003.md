@@ -3,9 +3,9 @@ title: "Section 9003 - Judicial remedies"
 usc_title: 22
 usc_section: "9003"
 chapter: 97
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 9003"
-generated_at: "2026-03-30T01:15:42.439Z"
+generated_at: "2026-03-30T01:22:08.275Z"
 ---
 
 # § 9003. Judicial remedies

@@ -3,9 +3,9 @@ title: "Section 1115 - Training"
 usc_title: 49
 usc_section: "1115"
 chapter: 11
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "49 U.S.C. § 1115"
-generated_at: "2026-03-30T01:18:16.043Z"
+generated_at: "2026-03-30T01:24:07.349Z"
 ---
 
 # § 1115. Training

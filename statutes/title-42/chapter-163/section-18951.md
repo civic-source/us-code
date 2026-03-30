@@ -3,9 +3,9 @@ title: "Section 18951 - International standards development"
 usc_title: 42
 usc_section: "18951"
 chapter: 163
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 18951"
-generated_at: "2026-03-30T01:18:07.851Z"
+generated_at: "2026-03-30T01:23:49.923Z"
 ---
 
 # § 18951. International standards development

@@ -3,9 +3,9 @@ title: "Section 460 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(39)
 usc_title: 8
 usc_section: "460"
 chapter: 10
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "8 U.S.C. § 460"
-generated_at: "2026-03-30T01:14:44.236Z"
+generated_at: "2026-03-30T01:20:16.686Z"
 ---
 
 # §§ 451 to 460. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(39), 66 Stat. 280 , eff. Dec. 24, 1952

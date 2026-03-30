@@ -3,9 +3,9 @@ title: "Section 1453a - Additional Assistant Secretary of the Interior; appointm
 usc_title: 43
 usc_section: "1453a"
 chapter: 31
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 1453a"
-generated_at: "2026-03-30T01:17:12.133Z"
+generated_at: "2026-03-30T01:23:05.593Z"
 ---
 
 # § 1453a. Additional Assistant Secretary of the Interior; appointment; duties; compensation

@@ -3,9 +3,9 @@ title: "Section 311 - Captains of the port"
 usc_title: 14
 usc_section: "311"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "14 U.S.C. § 311"
-generated_at: "2026-03-30T01:14:50.343Z"
+generated_at: "2026-03-30T01:20:25.546Z"
 ---
 
 # § 311. Captains of the port

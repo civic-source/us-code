@@ -3,9 +3,9 @@ title: "Section 4406 - Repealed. Pub. L. 115–91, div. C, title XXXV, § 3502(a
 usc_title: 50
 usc_section: "4406"
 chapter: 54
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 4406"
-generated_at: "2026-03-30T01:18:12.828Z"
+generated_at: "2026-03-30T01:23:56.207Z"
 ---
 
 # § 4406. Repealed. Pub. L. 115–91, div. C, title XXXV, § 3502(a)(1) , Dec. 12, 2017 , 131 Stat. 1910

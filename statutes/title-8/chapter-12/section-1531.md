@@ -3,9 +3,9 @@ title: "Section 1531 - Definitions"
 usc_title: 8
 usc_section: "1531"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "8 U.S.C. § 1531"
-generated_at: "2026-03-30T01:14:44.274Z"
+generated_at: "2026-03-30T01:20:16.719Z"
 ---
 
 # § 1531. Definitions

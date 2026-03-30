@@ -3,9 +3,9 @@ title: "Section 563 - Cooperation with States for fire protection on private or 
 usc_title: 16
 usc_section: "563"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 563"
-generated_at: "2026-03-30T01:15:30.961Z"
+generated_at: "2026-03-30T01:21:05.008Z"
 ---
 
 # § 563. Cooperation with States for fire protection on private or State forest lands upon the watersheds of navigable rivers

@@ -3,9 +3,9 @@ title: "Section 837h - Provisions not applicable to Canyon Ferry project or bene
 usc_title: 16
 usc_section: "837h"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 837h"
-generated_at: "2026-03-30T01:15:31.001Z"
+generated_at: "2026-03-30T01:21:05.045Z"
 ---
 
 # § 837h. Provisions not applicable to Canyon Ferry project or benefits and exchanges under Treaty between Canada and United States; preference of power users in Montana not modified

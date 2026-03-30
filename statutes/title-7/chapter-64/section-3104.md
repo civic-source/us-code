@@ -3,9 +3,9 @@ title: "Section 3104 - Agriculture research; declaration of policy; duties of Se
 usc_title: 7
 usc_section: "3104"
 chapter: 64
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 3104"
-generated_at: "2026-03-30T01:14:35.643Z"
+generated_at: "2026-03-30T01:20:23.048Z"
 ---
 
 # § 3104. Agriculture research; declaration of policy; duties of Secretary of Agriculture; use of existing facilities

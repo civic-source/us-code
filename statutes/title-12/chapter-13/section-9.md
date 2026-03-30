@@ -3,9 +3,9 @@ title: "Section 9 - Limitation on commitments to insure loans and mortgages"
 usc_title: 12
 usc_section: "9"
 chapter: 13
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 9"
-generated_at: "2026-03-30T01:14:52.604Z"
+generated_at: "2026-03-30T01:20:55.693Z"
 ---
 
 # § 1735f–9. Limitation on commitments to insure loans and mortgages

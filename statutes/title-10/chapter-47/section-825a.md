@@ -3,9 +3,9 @@ title: "Section 825a - Art. 25a. Number of court-martial members in capital case
 usc_title: 10
 usc_section: "825a"
 chapter: 47
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 825a"
-generated_at: "2026-03-30T01:14:40.630Z"
+generated_at: "2026-03-30T01:19:58.219Z"
 ---
 
 # § 825a. Art. 25a. Number of court-martial members in capital cases

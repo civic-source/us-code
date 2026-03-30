@@ -3,9 +3,9 @@ title: "Section 8403 - Negative option marketing on the Internet"
 usc_title: 15
 usc_section: "8403"
 chapter: 110
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "15 U.S.C. § 8403"
-generated_at: "2026-03-30T01:14:59.631Z"
+generated_at: "2026-03-30T01:20:30.894Z"
 ---
 
 # § 8403. Negative option marketing on the Internet

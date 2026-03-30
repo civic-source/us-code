@@ -3,9 +3,9 @@ title: "Section 605 - Unlawful cutting on mineral lands; notice to Secretary"
 usc_title: 16
 usc_section: "605"
 chapter: 4
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 605"
-generated_at: "2026-03-30T01:15:30.967Z"
+generated_at: "2026-03-30T01:21:05.013Z"
 ---
 
 # § 605. Unlawful cutting on mineral lands; notice to Secretary

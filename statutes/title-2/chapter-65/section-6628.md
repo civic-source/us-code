@@ -3,9 +3,9 @@ title: "Section 6628 - Treatment of electronic services provided by Sergeant at 
 usc_title: 2
 usc_section: "6628"
 chapter: 65
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "2 U.S.C. § 6628"
-generated_at: "2026-03-30T01:14:23.010Z"
+generated_at: "2026-03-30T01:19:48.690Z"
 ---
 
 # § 6628. Treatment of electronic services provided by Sergeant at Arms

@@ -3,9 +3,9 @@ title: "Section 153 - Reservation of lands in North Dakota"
 usc_title: 43
 usc_section: "153"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 153"
-generated_at: "2026-03-30T01:17:12.102Z"
+generated_at: "2026-03-30T01:23:05.561Z"
 ---
 
 # § 153. Reservation of lands in North Dakota

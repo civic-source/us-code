@@ -3,9 +3,9 @@ title: "Section 294b - Continuing educational support for health professionals s
 usc_title: 42
 usc_section: "294b"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 294b"
-generated_at: "2026-03-30T01:18:07.180Z"
+generated_at: "2026-03-30T01:23:49.269Z"
 ---
 
 # § 294b. Continuing educational support for health professionals serving in rural and underserved communities

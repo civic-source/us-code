@@ -3,9 +3,9 @@ title: "Section 31 - Identification and initial health evaluation of screening-e
 usc_title: 42
 usc_section: "31"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 31"
-generated_at: "2026-03-30T01:18:07.247Z"
+generated_at: "2026-03-30T01:23:49.339Z"
 ---
 
 # § 300mm–31. Identification and initial health evaluation of screening-eligible and certified-eligible WTC survivors

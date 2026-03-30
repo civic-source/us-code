@@ -3,9 +3,9 @@ title: "Section 1 - Inclusion of certain surveys in labor requirements of mining
 usc_title: 30
 usc_section: "1"
 chapter: 2
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "30 U.S.C. § 1"
-generated_at: "2026-03-30T01:15:55.535Z"
+generated_at: "2026-03-30T01:22:10.658Z"
 ---
 
 # § 28–1. Inclusion of certain surveys in labor requirements of mining claims; conditions and restrictions

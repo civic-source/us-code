@@ -3,9 +3,9 @@ title: "Section 7707 - Congressional and public notification of candidate countr
 usc_title: 22
 usc_section: "7707"
 chapter: 84
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 7707"
-generated_at: "2026-03-30T01:15:42.422Z"
+generated_at: "2026-03-30T01:22:08.258Z"
 ---
 
 # § 7707. Congressional and public notification of candidate countries, eligibility criteria, and eligible countries

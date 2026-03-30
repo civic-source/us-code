@@ -3,9 +3,9 @@ title: "Section 2347 - Administration of financial assistance"
 usc_title: 19
 usc_section: "2347"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "19 U.S.C. § 2347"
-generated_at: "2026-03-30T01:15:05.483Z"
+generated_at: "2026-03-30T01:21:06.226Z"
 ---
 
 # § 2347. Administration of financial assistance

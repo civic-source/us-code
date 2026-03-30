@@ -3,9 +3,9 @@ title: "Section 7117 - Duty to bargain in good faith; compelling need; duty to c
 usc_title: 5
 usc_section: "7117"
 chapter: 71
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 7117"
-generated_at: "2026-03-30T01:14:21.540Z"
+generated_at: "2026-03-30T01:19:01.566Z"
 ---
 
 # § 7117. Duty to bargain in good faith; compelling need; duty to consult

@@ -3,9 +3,9 @@ title: "Section 1095 - Health care services incurred on behalf of covered benefi
 usc_title: 10
 usc_section: "1095"
 chapter: 55
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 1095"
-generated_at: "2026-03-30T01:14:40.651Z"
+generated_at: "2026-03-30T01:19:58.239Z"
 ---
 
 # § 1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers

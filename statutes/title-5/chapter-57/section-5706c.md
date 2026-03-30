@@ -3,9 +3,9 @@ title: "Section 5706c - Reimbursement for taxes incurred on money received for t
 usc_title: 5
 usc_section: "5706c"
 chapter: 57
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "5 U.S.C. § 5706c"
-generated_at: "2026-03-30T01:14:21.531Z"
+generated_at: "2026-03-30T01:19:01.558Z"
 ---
 
 # § 5706c. Reimbursement for taxes incurred on money received for travel expenses

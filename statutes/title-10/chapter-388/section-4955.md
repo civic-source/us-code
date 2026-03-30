@@ -3,9 +3,9 @@ title: "Section 4955 - Funding"
 usc_title: 10
 usc_section: "4955"
 chapter: 388
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 4955"
-generated_at: "2026-03-30T01:14:40.741Z"
+generated_at: "2026-03-30T01:19:58.321Z"
 ---
 
 # § 4955. Funding

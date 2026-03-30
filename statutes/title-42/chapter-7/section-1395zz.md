@@ -3,9 +3,9 @@ title: "Section 1395zz - Provider education and technical assistance"
 usc_title: 42
 usc_section: "1395zz"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 1395zz"
-generated_at: "2026-03-30T01:18:07.396Z"
+generated_at: "2026-03-30T01:23:49.492Z"
 ---
 
 # § 1395zz. Provider education and technical assistance

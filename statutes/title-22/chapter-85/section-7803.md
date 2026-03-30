@@ -3,9 +3,9 @@ title: "Section 7803 - Definitions"
 usc_title: 22
 usc_section: "7803"
 chapter: 85
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 7803"
-generated_at: "2026-03-30T01:15:42.423Z"
+generated_at: "2026-03-30T01:22:08.260Z"
 ---
 
 # § 7803. Definitions

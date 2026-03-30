@@ -3,9 +3,9 @@ title: "Section 2 - Reasonable fees and rules for payment card transactions"
 usc_title: 15
 usc_section: "2"
 chapter: 41
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T01:14:59.558Z"
+generated_at: "2026-03-30T01:20:30.825Z"
 ---
 
 # § 1693o–2. Reasonable fees and rules for payment card transactions

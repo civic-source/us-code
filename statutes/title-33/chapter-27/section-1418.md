@@ -3,9 +3,9 @@ title: "Section 1418 - Regulations"
 usc_title: 33
 usc_section: "1418"
 chapter: 27
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "33 U.S.C. § 1418"
-generated_at: "2026-03-30T01:16:07.191Z"
+generated_at: "2026-03-30T01:22:46.147Z"
 ---
 
 # § 1418. Regulations

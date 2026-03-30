@@ -3,9 +3,9 @@ title: "Section 105 - Doing in concert of certain acts as constituting unlawful 
 usc_title: 29
 usc_section: "105"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 105"
-generated_at: "2026-03-30T01:15:48.735Z"
+generated_at: "2026-03-30T01:22:35.488Z"
 ---
 
 # § 105. Doing in concert of certain acts as constituting unlawful combination or conspiracy subjecting person to injunctive remedies

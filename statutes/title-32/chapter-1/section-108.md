@@ -3,9 +3,9 @@ title: "Section 108 - Forfeiture of Federal benefits"
 usc_title: 32
 usc_section: "108"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "32 U.S.C. § 108"
-generated_at: "2026-03-30T01:16:05.305Z"
+generated_at: "2026-03-30T01:22:42.812Z"
 ---
 
 # § 108. Forfeiture of Federal benefits

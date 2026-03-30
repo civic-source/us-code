@@ -3,9 +3,9 @@ title: "Section 822 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "822"
 chapter: 17
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 822"
-generated_at: "2026-03-30T01:15:48.759Z"
+generated_at: "2026-03-30T01:22:35.511Z"
 ---
 
 # §§ 811 to 822. Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 13, 1982 , 96 Stat. 1357

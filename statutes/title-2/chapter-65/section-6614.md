@@ -3,9 +3,9 @@ title: "Section 6614 - Funds advanced by Secretary of Senate to Sergeant at Arms
 usc_title: 2
 usc_section: "6614"
 chapter: 65
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "2 U.S.C. § 6614"
-generated_at: "2026-03-30T01:14:23.010Z"
+generated_at: "2026-03-30T01:19:48.690Z"
 ---
 
 # § 6614. Funds advanced by Secretary of Senate to Sergeant at Arms and Doorkeeper of Senate to defray office expenses; accountability; maximum amount; vouchers

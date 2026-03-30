@@ -3,9 +3,9 @@ title: "Section 864a - Grants to reduce production of methamphetamines from anhy
 usc_title: 21
 usc_section: "864a"
 chapter: 13
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "21 U.S.C. § 864a"
-generated_at: "2026-03-30T01:15:40.093Z"
+generated_at: "2026-03-30T01:21:23.991Z"
 ---
 
 # § 864a. Grants to reduce production of methamphetamines from anhydrous ammonia

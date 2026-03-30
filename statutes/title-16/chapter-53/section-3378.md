@@ -3,9 +3,9 @@ title: "Section 3378 - Miscellaneous provisions"
 usc_title: 16
 usc_section: "3378"
 chapter: 53
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 3378"
-generated_at: "2026-03-30T01:15:31.069Z"
+generated_at: "2026-03-30T01:21:05.104Z"
 ---
 
 # § 3378. Miscellaneous provisions

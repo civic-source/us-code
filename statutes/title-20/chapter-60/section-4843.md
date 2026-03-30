@@ -3,9 +3,9 @@ title: "Section 4843 - Repealed. Pub. L. 103–382, title III, § 365 , Oct. 20,
 usc_title: 20
 usc_section: "4843"
 chapter: 60
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 4843"
-generated_at: "2026-03-30T01:15:07.647Z"
+generated_at: "2026-03-30T01:21:15.557Z"
 ---
 
 # §§ 4841 to 4843. Repealed. Pub. L. 103–382, title III, § 365 , Oct. 20, 1994 , 108 Stat. 3975

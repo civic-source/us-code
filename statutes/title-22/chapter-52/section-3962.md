@@ -3,9 +3,9 @@ title: "Section 3962 - Salaries of Senior Foreign Service members"
 usc_title: 22
 usc_section: "3962"
 chapter: 52
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 3962"
-generated_at: "2026-03-30T01:15:42.376Z"
+generated_at: "2026-03-30T01:22:08.206Z"
 ---
 
 # § 3962. Salaries of Senior Foreign Service members

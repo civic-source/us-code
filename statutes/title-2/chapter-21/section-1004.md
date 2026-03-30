@@ -3,9 +3,9 @@ title: "Section 1004 - Repealed. Pub. L. 101–483 , Oct. 31, 1990 , 104 Stat. 1
 usc_title: 2
 usc_section: "1004"
 chapter: 21
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "2 U.S.C. § 1004"
-generated_at: "2026-03-30T01:14:22.980Z"
+generated_at: "2026-03-30T01:19:48.662Z"
 ---
 
 # §§ 1001 to 1004. Repealed. Pub. L. 101–483 , Oct. 31, 1990 , 104 Stat. 1166

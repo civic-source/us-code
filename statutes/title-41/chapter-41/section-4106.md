@@ -3,9 +3,9 @@ title: "Section 4106 - Orders"
 usc_title: 41
 usc_section: "4106"
 chapter: 41
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "41 U.S.C. § 4106"
-generated_at: "2026-03-30T01:17:10.642Z"
+generated_at: "2026-03-30T01:23:02.005Z"
 ---
 
 # § 4106. Orders

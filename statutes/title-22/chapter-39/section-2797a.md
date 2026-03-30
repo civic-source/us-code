@@ -3,9 +3,9 @@ title: "Section 2797a - Denial of transfer of missile equipment or technology by
 usc_title: 22
 usc_section: "2797a"
 chapter: 39
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 2797a"
-generated_at: "2026-03-30T01:15:42.364Z"
+generated_at: "2026-03-30T01:22:08.191Z"
 ---
 
 # § 2797a. Denial of transfer of missile equipment or technology by United States persons

@@ -3,9 +3,9 @@ title: "Section 4309 - Application to public international organizations and off
 usc_title: 22
 usc_section: "4309"
 chapter: 53
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 4309"
-generated_at: "2026-03-30T01:15:42.388Z"
+generated_at: "2026-03-30T01:22:08.219Z"
 ---
 
 # § 4309. Application to public international organizations and official missions to such organizations

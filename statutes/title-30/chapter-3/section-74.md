@@ -3,9 +3,9 @@ title: "Section 74 - Number of coal land entries; other entries upon noncomplian
 usc_title: 30
 usc_section: "74"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "30 U.S.C. § 74"
-generated_at: "2026-03-30T01:15:55.536Z"
+generated_at: "2026-03-30T01:22:10.661Z"
 ---
 
 # § 74. Number of coal land entries; other entries upon noncompliance with conditions

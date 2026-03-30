@@ -3,9 +3,9 @@ title: "Section 10a - Biennial survey of economic and housing market conditions"
 usc_title: 12
 usc_section: "10a"
 chapter: 13
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 10a"
-generated_at: "2026-03-30T01:14:52.581Z"
+generated_at: "2026-03-30T01:20:55.673Z"
 ---
 
 # § 1701z–10a. Biennial survey of economic and housing market conditions

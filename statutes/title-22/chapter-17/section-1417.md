@@ -3,9 +3,9 @@ title: "Section 1417 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(2),
 usc_title: 22
 usc_section: "1417"
 chapter: 17
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 1417"
-generated_at: "2026-03-30T01:15:42.309Z"
+generated_at: "2026-03-30T01:22:08.133Z"
 ---
 
 # §§ 1411 to 1417. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(2), (3), 68 Stat. 861

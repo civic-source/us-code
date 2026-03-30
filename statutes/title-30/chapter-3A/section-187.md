@@ -3,9 +3,9 @@ title: "Section 187 - Assignment or subletting of leases; relinquishment of righ
 usc_title: 30
 usc_section: "187"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "30 U.S.C. § 187"
-generated_at: "2026-03-30T01:15:55.539Z"
+generated_at: "2026-03-30T01:22:10.663Z"
 ---
 
 # § 187. Assignment or subletting of leases; relinquishment of rights under leases; conditions in leases for protection of diverse interests in operation of mines, wells, etc.; State laws not impaired

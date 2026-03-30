@@ -3,9 +3,9 @@ title: "Section 645 - Certain revocable trusts treated as part of estate"
 usc_title: 26
 usc_section: "645"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 645"
-generated_at: "2026-03-30T01:16:03.367Z"
+generated_at: "2026-03-30T01:22:40.358Z"
 ---
 
 # § 645. Certain revocable trusts treated as part of estate

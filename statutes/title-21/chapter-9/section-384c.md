@@ -3,9 +3,9 @@ title: "Section 384c - Inspection of foreign food facilities"
 usc_title: 21
 usc_section: "384c"
 chapter: 9
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "21 U.S.C. § 384c"
-generated_at: "2026-03-30T01:15:40.074Z"
+generated_at: "2026-03-30T01:21:23.974Z"
 ---
 
 # § 384c. Inspection of foreign food facilities

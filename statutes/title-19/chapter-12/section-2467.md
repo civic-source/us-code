@@ -3,9 +3,9 @@ title: "Section 2467 - Definitions"
 usc_title: 19
 usc_section: "2467"
 chapter: 12
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "19 U.S.C. § 2467"
-generated_at: "2026-03-30T01:15:05.487Z"
+generated_at: "2026-03-30T01:21:06.230Z"
 ---
 
 # § 2467. Definitions

@@ -3,9 +3,9 @@ title: "Section 2585 - Accelerated schedule for defense environmental cleanup ac
 usc_title: 50
 usc_section: "2585"
 chapter: 42
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 2585"
-generated_at: "2026-03-30T01:18:12.775Z"
+generated_at: "2026-03-30T01:23:56.161Z"
 ---
 
 # § 2585. Accelerated schedule for defense environmental cleanup activities

@@ -3,9 +3,9 @@ title: "Section 224 - Payments for oil or gas taken prior to application for lea
 usc_title: 30
 usc_section: "224"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "30 U.S.C. § 224"
-generated_at: "2026-03-30T01:15:55.541Z"
+generated_at: "2026-03-30T01:22:10.664Z"
 ---
 
 # § 224. Payments for oil or gas taken prior to application for lease

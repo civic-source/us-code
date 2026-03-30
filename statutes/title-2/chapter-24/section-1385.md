@@ -3,9 +3,9 @@ title: "Section 1385 - Expenses"
 usc_title: 2
 usc_section: "1385"
 chapter: 24
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "2 U.S.C. § 1385"
-generated_at: "2026-03-30T01:14:22.984Z"
+generated_at: "2026-03-30T01:19:48.666Z"
 ---
 
 # § 1385. Expenses

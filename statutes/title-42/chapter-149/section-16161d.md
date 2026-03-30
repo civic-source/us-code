@@ -3,9 +3,9 @@ title: "Section 16161d - Clean hydrogen electrolysis program"
 usc_title: 42
 usc_section: "16161d"
 chapter: 149
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 16161d"
-generated_at: "2026-03-30T01:18:07.796Z"
+generated_at: "2026-03-30T01:23:49.870Z"
 ---
 
 # § 16161d. Clean hydrogen electrolysis program

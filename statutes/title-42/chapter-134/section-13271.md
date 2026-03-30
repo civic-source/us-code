@@ -3,9 +3,9 @@ title: "Section 13271 - Definitions"
 usc_title: 42
 usc_section: "13271"
 chapter: 134
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 13271"
-generated_at: "2026-03-30T01:18:07.769Z"
+generated_at: "2026-03-30T01:23:49.843Z"
 ---
 
 # § 13271. Definitions

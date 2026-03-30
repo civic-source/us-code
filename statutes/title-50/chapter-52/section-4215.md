@@ -3,9 +3,9 @@ title: "Section 4215 - Restitution"
 usc_title: 50
 usc_section: "4215"
 chapter: 52
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 4215"
-generated_at: "2026-03-30T01:18:12.822Z"
+generated_at: "2026-03-30T01:23:56.203Z"
 ---
 
 # § 4215. Restitution

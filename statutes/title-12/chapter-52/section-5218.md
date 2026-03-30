@@ -3,9 +3,9 @@ title: "Section 5218 - Conflicts of interest"
 usc_title: 12
 usc_section: "5218"
 chapter: 52
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 5218"
-generated_at: "2026-03-30T01:14:52.713Z"
+generated_at: "2026-03-30T01:20:55.779Z"
 ---
 
 # § 5218. Conflicts of interest

@@ -3,9 +3,9 @@ title: "Section 1205 - Lands to be transferred"
 usc_title: 45
 usc_section: "1205"
 chapter: 21
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "45 U.S.C. § 1205"
-generated_at: "2026-03-30T01:17:07.600Z"
+generated_at: "2026-03-30T01:23:01.274Z"
 ---
 
 # § 1205. Lands to be transferred

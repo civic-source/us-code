@@ -3,9 +3,9 @@ title: "Section 2701 - Findings"
 usc_title: 29
 usc_section: "2701"
 chapter: 29
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "29 U.S.C. § 2701"
-generated_at: "2026-03-30T01:15:48.799Z"
+generated_at: "2026-03-30T01:22:35.549Z"
 ---
 
 # § 2701. Findings

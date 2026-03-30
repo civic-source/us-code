@@ -3,9 +3,9 @@ title: "Section 350 - Purchase and sale of debentures and like obligations of in
 usc_title: 12
 usc_section: "350"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 350"
-generated_at: "2026-03-30T01:14:52.547Z"
+generated_at: "2026-03-30T01:20:55.645Z"
 ---
 
 # § 350. Purchase and sale of debentures and like obligations of intermediate credit banks and agricultural credit corporations

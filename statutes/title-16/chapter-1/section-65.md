@@ -3,9 +3,9 @@ title: "Section 65 - Seizure and forfeiture of guns, traps, teams, horses, etc."
 usc_title: 16
 usc_section: "65"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 65"
-generated_at: "2026-03-30T01:15:30.847Z"
+generated_at: "2026-03-30T01:21:04.905Z"
 ---
 
 # § 65. Seizure and forfeiture of guns, traps, teams, horses, etc.

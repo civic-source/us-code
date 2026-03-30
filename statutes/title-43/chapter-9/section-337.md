@@ -3,9 +3,9 @@ title: "Section 337 - Entry, after expenditures, perfected as homestead entry"
 usc_title: 43
 usc_section: "337"
 chapter: 9
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 337"
-generated_at: "2026-03-30T01:17:12.106Z"
+generated_at: "2026-03-30T01:23:05.565Z"
 ---
 
 # § 337. Entry, after expenditures, perfected as homestead entry

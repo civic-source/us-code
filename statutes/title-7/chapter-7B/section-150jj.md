@@ -3,9 +3,9 @@ title: "Section 150jj - Repealed. Pub. L. 106–224, title IV, § 438(a)(2) , Ju
 usc_title: 7
 usc_section: "150jj"
 chapter: 7
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 150jj"
-generated_at: "2026-03-30T01:14:35.533Z"
+generated_at: "2026-03-30T01:20:22.950Z"
 ---
 
 # §§ 150aa to 150jj. Repealed. Pub. L. 106–224, title IV, § 438(a)(2) , June 20, 2000 , 114 Stat. 454

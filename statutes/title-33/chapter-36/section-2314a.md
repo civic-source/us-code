@@ -3,9 +3,9 @@ title: "Section 2314a - Technical assistance program"
 usc_title: 33
 usc_section: "2314a"
 chapter: 36
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "33 U.S.C. § 2314a"
-generated_at: "2026-03-30T01:16:07.206Z"
+generated_at: "2026-03-30T01:22:46.159Z"
 ---
 
 # § 2314a. Technical assistance program

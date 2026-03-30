@@ -3,9 +3,9 @@ title: "Section 3221 - Brownfields redevelopment report"
 usc_title: 42
 usc_section: "3221"
 chapter: 38
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 3221"
-generated_at: "2026-03-30T01:18:07.538Z"
+generated_at: "2026-03-30T01:23:49.625Z"
 ---
 
 # § 3221. Brownfields redevelopment report

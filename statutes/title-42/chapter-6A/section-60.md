@@ -3,9 +3,9 @@ title: "Section 60 - Rule of construction regarding delegation of authority to S
 usc_title: 42
 usc_section: "60"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 60"
-generated_at: "2026-03-30T01:18:07.215Z"
+generated_at: "2026-03-30T01:23:49.305Z"
 ---
 
 # § 300x–60. Rule of construction regarding delegation of authority to States

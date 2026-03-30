@@ -3,9 +3,9 @@ title: "Section 8 - Pesticide registration service fees"
 usc_title: 7
 usc_section: "8"
 chapter: 6
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 8"
-generated_at: "2026-03-30T01:14:35.522Z"
+generated_at: "2026-03-30T01:20:22.941Z"
 ---
 
 # § 136w–8. Pesticide registration service fees

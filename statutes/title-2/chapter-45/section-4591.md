@@ -3,9 +3,9 @@ title: "Section 4591 - Vice President, Senators, officers, and employees paid by
 usc_title: 2
 usc_section: "4591"
 chapter: 45
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "2 U.S.C. § 4591"
-generated_at: "2026-03-30T01:14:23.003Z"
+generated_at: "2026-03-30T01:19:48.683Z"
 ---
 
 # § 4591. Vice President, Senators, officers, and employees paid by Secretary of Senate; payment of salary; advance payment

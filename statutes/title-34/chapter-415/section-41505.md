@@ -3,9 +3,9 @@ title: "Section 41505 - Organized retail theft database"
 usc_title: 34
 usc_section: "41505"
 chapter: 415
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "34 U.S.C. § 41505"
-generated_at: "2026-03-30T01:16:36.267Z"
+generated_at: "2026-03-30T01:22:51.777Z"
 ---
 
 # § 41505. Organized retail theft database

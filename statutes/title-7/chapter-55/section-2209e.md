@@ -3,9 +3,9 @@ title: "Section 2209e - Prohibition on payments to parties involved with prohibi
 usc_title: 7
 usc_section: "2209e"
 chapter: 55
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "7 U.S.C. § 2209e"
-generated_at: "2026-03-30T01:14:35.632Z"
+generated_at: "2026-03-30T01:20:23.038Z"
 ---
 
 # § 2209e. Prohibition on payments to parties involved with prohibited drug-producing plants

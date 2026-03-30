@@ -3,9 +3,9 @@ title: "Section 5c - Non-Federal public bodies, installment construction payment
 usc_title: 42
 usc_section: "5c"
 chapter: 19
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 5c"
-generated_at: "2026-03-30T01:18:07.487Z"
+generated_at: "2026-03-30T01:23:49.580Z"
 ---
 
 # § 1962d–5c. Non-Federal public bodies, installment construction payments

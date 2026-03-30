@@ -3,9 +3,9 @@ title: "Section 4502 - Declaration of policy"
 usc_title: 50
 usc_section: "4502"
 chapter: 55
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 4502"
-generated_at: "2026-03-30T01:18:12.828Z"
+generated_at: "2026-03-30T01:23:56.207Z"
 ---
 
 # § 4502. Declaration of policy

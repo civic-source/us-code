@@ -3,9 +3,9 @@ title: "Section 3366 - Authorities of heads of other departments and agencies"
 usc_title: 50
 usc_section: "3366"
 chapter: 45
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "50 U.S.C. § 3366"
-generated_at: "2026-03-30T01:18:12.805Z"
+generated_at: "2026-03-30T01:23:56.186Z"
 ---
 
 # § 3366. Authorities of heads of other departments and agencies

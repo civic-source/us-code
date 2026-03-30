@@ -3,9 +3,9 @@ title: "Section 3148 - Application of this subchapter to certain contracts"
 usc_title: 40
 usc_section: "3148"
 chapter: 31
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "40 U.S.C. § 3148"
-generated_at: "2026-03-30T01:16:41.131Z"
+generated_at: "2026-03-30T01:22:56.115Z"
 ---
 
 # § 3148. Application of this subchapter to certain contracts

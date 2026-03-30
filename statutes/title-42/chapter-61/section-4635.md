@@ -3,9 +3,9 @@ title: "Section 4635 - Planning and other preliminary expenses for additional ho
 usc_title: 42
 usc_section: "4635"
 chapter: 61
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 4635"
-generated_at: "2026-03-30T01:18:07.559Z"
+generated_at: "2026-03-30T01:23:49.645Z"
 ---
 
 # § 4635. Planning and other preliminary expenses for additional housing

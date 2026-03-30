@@ -3,9 +3,9 @@ title: "Section 924 - Time for filing claims"
 usc_title: 30
 usc_section: "924"
 chapter: 22
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "30 U.S.C. § 924"
-generated_at: "2026-03-30T01:15:55.553Z"
+generated_at: "2026-03-30T01:22:10.675Z"
 ---
 
 # § 924. Time for filing claims

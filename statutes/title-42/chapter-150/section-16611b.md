@@ -3,9 +3,9 @@ title: "Section 16611b - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124
 usc_title: 42
 usc_section: "16611b"
 chapter: 150
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 16611b"
-generated_at: "2026-03-30T01:18:07.813Z"
+generated_at: "2026-03-30T01:23:49.886Z"
 ---
 
 # § 16611b. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

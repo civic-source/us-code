@@ -3,9 +3,9 @@ title: "Section 20261 - Selection of officers for continuation on the Space Forc
 usc_title: 10
 usc_section: "20261"
 chapter: 2005
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 20261"
-generated_at: "2026-03-30T01:14:40.787Z"
+generated_at: "2026-03-30T01:19:58.364Z"
 ---
 
 # § 20261. Selection of officers for continuation on the Space Force officer list

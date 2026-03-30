@@ -3,9 +3,9 @@ title: "Section 130505 - Powers"
 usc_title: 36
 usc_section: "130505"
 chapter: 1305
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "36 U.S.C. § 130505"
-generated_at: "2026-03-30T01:16:51.431Z"
+generated_at: "2026-03-30T01:22:56.761Z"
 ---
 
 # § 130505. Powers

@@ -3,9 +3,9 @@ title: "Section 4083 - Penitentiary imprisonment; consent"
 usc_title: 18
 usc_section: "4083"
 chapter: 305
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "18 U.S.C. § 4083"
-generated_at: "2026-03-30T01:15:03.852Z"
+generated_at: "2026-03-30T01:21:10.672Z"
 ---
 
 # § 4083. Penitentiary imprisonment; consent

@@ -3,9 +3,9 @@ title: "Section 1612 - Health professions recruitment program for Indians"
 usc_title: 25
 usc_section: "1612"
 chapter: 18
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "25 U.S.C. § 1612"
-generated_at: "2026-03-30T01:15:35.087Z"
+generated_at: "2026-03-30T01:21:29.326Z"
 ---
 
 # § 1612. Health professions recruitment program for Indians

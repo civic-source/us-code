@@ -3,9 +3,9 @@ title: "Section 1301 - Experimental practices"
 usc_title: 30
 usc_section: "1301"
 chapter: 25
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "30 U.S.C. § 1301"
-generated_at: "2026-03-30T01:15:55.565Z"
+generated_at: "2026-03-30T01:22:10.685Z"
 ---
 
 # § 1301. Experimental practices

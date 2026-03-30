@@ -3,9 +3,9 @@ title: "Section 1206 - Reliable emergency alert distribution improvement"
 usc_title: 47
 usc_section: "1206"
 chapter: 11
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "47 U.S.C. § 1206"
-generated_at: "2026-03-30T01:18:33.892Z"
+generated_at: "2026-03-30T01:23:54.248Z"
 ---
 
 # § 1206. Reliable emergency alert distribution improvement

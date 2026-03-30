@@ -3,9 +3,9 @@ title: "Section 10307 - Digital Connectivity and Cybersecurity Partnership"
 usc_title: 22
 usc_section: "10307"
 chapter: 110
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 10307"
-generated_at: "2026-03-30T01:15:42.453Z"
+generated_at: "2026-03-30T01:22:08.292Z"
 ---
 
 # § 10307. Digital Connectivity and Cybersecurity Partnership

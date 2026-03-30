@@ -3,9 +3,9 @@ title: "Section 4152 - Standards for design, construction, and alteration of bui
 usc_title: 42
 usc_section: "4152"
 chapter: 51
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 4152"
-generated_at: "2026-03-30T01:18:07.552Z"
+generated_at: "2026-03-30T01:23:49.638Z"
 ---
 
 # § 4152. Standards for design, construction, and alteration of buildings; Administrator of General Services

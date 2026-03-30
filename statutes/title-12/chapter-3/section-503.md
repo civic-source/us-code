@@ -3,9 +3,9 @@ title: "Section 503 - Liability of directors and officers of member banks"
 usc_title: 12
 usc_section: "503"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "12 U.S.C. § 503"
-generated_at: "2026-03-30T01:14:52.550Z"
+generated_at: "2026-03-30T01:20:55.649Z"
 ---
 
 # § 503. Liability of directors and officers of member banks

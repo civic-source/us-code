@@ -3,9 +3,9 @@ title: "Section 2 - Reporting requirements"
 usc_title: 43
 usc_section: "2"
 chapter: 35
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T01:17:12.148Z"
+generated_at: "2026-03-30T01:23:05.610Z"
 ---
 
 # § 1748a–2. Reporting requirements

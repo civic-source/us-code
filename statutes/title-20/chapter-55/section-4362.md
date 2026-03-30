@@ -3,9 +3,9 @@ title: "Section 4362 - Purchases through General Services Administration"
 usc_title: 20
 usc_section: "4362"
 chapter: 55
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 4362"
-generated_at: "2026-03-30T01:15:07.645Z"
+generated_at: "2026-03-30T01:21:15.555Z"
 ---
 
 # § 4362. Purchases through General Services Administration

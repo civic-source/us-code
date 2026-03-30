@@ -3,9 +3,9 @@ title: "Section 873 - Extra compensation for instrument observers, recorders and
 usc_title: 33
 usc_section: "873"
 chapter: 17
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "33 U.S.C. § 873"
-generated_at: "2026-03-30T01:16:07.159Z"
+generated_at: "2026-03-30T01:22:46.118Z"
 ---
 
 # § 873. Extra compensation for instrument observers, recorders and other Federal employees for oceanographic, seismographic and magnetic observations

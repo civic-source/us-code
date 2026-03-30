@@ -3,9 +3,9 @@ title: "Section 661 - Short title; authorization"
 usc_title: 16
 usc_section: "661"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 661"
-generated_at: "2026-03-30T01:15:30.970Z"
+generated_at: "2026-03-30T01:21:05.015Z"
 ---
 
 # § 661. Short title; authorization

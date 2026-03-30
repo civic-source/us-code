@@ -3,9 +3,9 @@ title: "Section 1711 - Continuing inventory and identification of public lands; 
 usc_title: 43
 usc_section: "1711"
 chapter: 35
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "43 U.S.C. § 1711"
-generated_at: "2026-03-30T01:17:12.145Z"
+generated_at: "2026-03-30T01:23:05.607Z"
 ---
 
 # § 1711. Continuing inventory and identification of public lands; preparation and maintenance

@@ -3,9 +3,9 @@ title: "Section 1130 - Omitted"
 usc_title: 25
 usc_section: "1130"
 chapter: 14
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "25 U.S.C. § 1130"
-generated_at: "2026-03-30T01:15:35.083Z"
+generated_at: "2026-03-30T01:21:29.323Z"
 ---
 
 # § 1130. Omitted

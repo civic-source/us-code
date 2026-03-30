@@ -3,9 +3,9 @@ title: "Section 5157 - Penalties"
 usc_title: 42
 usc_section: "5157"
 chapter: 68
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 5157"
-generated_at: "2026-03-30T01:18:07.573Z"
+generated_at: "2026-03-30T01:23:49.657Z"
 ---
 
 # § 5157. Penalties

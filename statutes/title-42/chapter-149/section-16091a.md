@@ -3,9 +3,9 @@ title: "Section 16091a - Clean school bus program"
 usc_title: 42
 usc_section: "16091a"
 chapter: 149
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "42 U.S.C. § 16091a"
-generated_at: "2026-03-30T01:18:07.794Z"
+generated_at: "2026-03-30T01:23:49.867Z"
 ---
 
 # § 16091a. Clean school bus program

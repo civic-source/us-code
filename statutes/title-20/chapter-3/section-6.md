@@ -3,9 +3,9 @@ title: "Section 6 - Definitions"
 usc_title: 20
 usc_section: "6"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "20 U.S.C. § 6"
-generated_at: "2026-03-30T01:15:07.542Z"
+generated_at: "2026-03-30T01:21:15.468Z"
 ---
 
 # § 80t–6. Definitions

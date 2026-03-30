@@ -3,9 +3,9 @@ title: "Section 18505 - Reserves traveling for inactive-duty training: space-req
 usc_title: 10
 usc_section: "18505"
 chapter: 1805
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 18505"
-generated_at: "2026-03-30T01:14:40.785Z"
+generated_at: "2026-03-30T01:19:58.363Z"
 ---
 
 # § 18505. 1 1 So in original. No sections 18503 and 18504 have been enacted. Reserves traveling for inactive-duty training: space-required travel on military aircraft

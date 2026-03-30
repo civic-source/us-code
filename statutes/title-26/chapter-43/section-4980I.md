@@ -3,9 +3,9 @@ title: "Section 4980I - Repealed. Pub. L. 116–94, div. N, title I, § 503(a) ,
 usc_title: 26
 usc_section: "4980I"
 chapter: 43
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 4980I"
-generated_at: "2026-03-30T01:16:03.456Z"
+generated_at: "2026-03-30T01:22:40.441Z"
 ---
 
 # [§ 4980I. Repealed. Pub. L. 116–94, div. N, title I, § 503(a) , Dec. 20, 2019 , 133 Stat. 3119 ]

@@ -3,9 +3,9 @@ title: "Section 4071e - Deductions and withholdings from pay"
 usc_title: 22
 usc_section: "4071e"
 chapter: 52
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 4071e"
-generated_at: "2026-03-30T01:15:42.382Z"
+generated_at: "2026-03-30T01:22:08.213Z"
 ---
 
 # § 4071e. Deductions and withholdings from pay

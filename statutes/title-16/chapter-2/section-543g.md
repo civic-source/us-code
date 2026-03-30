@@ -3,9 +3,9 @@ title: "Section 543g - Authorization of appropriations"
 usc_title: 16
 usc_section: "543g"
 chapter: 2
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "16 U.S.C. § 543g"
-generated_at: "2026-03-30T01:15:30.956Z"
+generated_at: "2026-03-30T01:21:05.003Z"
 ---
 
 # § 543g. Authorization of appropriations

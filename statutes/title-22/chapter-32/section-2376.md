@@ -3,9 +3,9 @@ title: "Section 2376 - Nuclear non-proliferation policy in South Asia"
 usc_title: 22
 usc_section: "2376"
 chapter: 32
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "22 U.S.C. § 2376"
-generated_at: "2026-03-30T01:15:42.338Z"
+generated_at: "2026-03-30T01:22:08.163Z"
 ---
 
 # § 2376. Nuclear non-proliferation policy in South Asia

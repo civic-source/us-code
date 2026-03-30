@@ -3,9 +3,9 @@ title: "Section 754 - Manner of electing optional adjustment to basis of partner
 usc_title: 26
 usc_section: "754"
 chapter: 1
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 754"
-generated_at: "2026-03-30T01:16:03.372Z"
+generated_at: "2026-03-30T01:22:40.362Z"
 ---
 
 # § 754. Manner of electing optional adjustment to basis of partnership property

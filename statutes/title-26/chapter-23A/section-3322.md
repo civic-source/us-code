@@ -3,9 +3,9 @@ title: "Section 3322 - Definitions"
 usc_title: 26
 usc_section: "3322"
 chapter: 23
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "26 U.S.C. § 3322"
-generated_at: "2026-03-30T01:16:03.436Z"
+generated_at: "2026-03-30T01:22:40.422Z"
 ---
 
 # § 3322. Definitions

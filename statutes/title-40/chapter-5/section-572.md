@@ -3,9 +3,9 @@ title: "Section 572 - Real property"
 usc_title: 40
 usc_section: "572"
 chapter: 5
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "40 U.S.C. § 572"
-generated_at: "2026-03-30T01:16:41.125Z"
+generated_at: "2026-03-30T01:22:56.112Z"
 ---
 
 # § 572. Real property

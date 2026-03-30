@@ -3,9 +3,9 @@ title: "Section 985 - Information sharing relating to supply chain security coop
 usc_title: 6
 usc_section: "985"
 chapter: 3
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "6 U.S.C. § 985"
-generated_at: "2026-03-30T01:14:36.330Z"
+generated_at: "2026-03-30T01:20:14.404Z"
 ---
 
 # § 985. Information sharing relating to supply chain security cooperation

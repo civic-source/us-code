@@ -3,9 +3,9 @@ title: "Section 2273a - Space Rapid Capabilities Office"
 usc_title: 10
 usc_section: "2273a"
 chapter: 135
-current_through: "PL 118-64"
+current_through: "PL 118-65"
 classification: "10 U.S.C. § 2273a"
-generated_at: "2026-03-30T01:14:40.690Z"
+generated_at: "2026-03-30T01:19:58.273Z"
 ---
 
 # § 2273a. Space Rapid Capabilities Office
