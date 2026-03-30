@@ -3,9 +3,9 @@ title: "Section 11326 - Employee protective arrangements in transactions involvi
 usc_title: 49
 usc_section: "11326"
 chapter: 113
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 11326"
-generated_at: "2026-03-30T03:39:18.822Z"
+generated_at: "2026-03-30T03:42:13.931Z"
 status: "active"
 ---
 

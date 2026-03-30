@@ -3,9 +3,9 @@ title: "Section 2649 - State and Federal law"
 usc_title: 15
 usc_section: "2649"
 chapter: 53
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2649"
-generated_at: "2026-03-30T03:38:06.079Z"
+generated_at: "2026-03-30T03:40:16.194Z"
 status: "active"
 ---
 

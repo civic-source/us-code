@@ -3,9 +3,9 @@ title: "Section 46107 - Enforcement by the Attorney General"
 usc_title: 49
 usc_section: "46107"
 chapter: 461
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 46107"
-generated_at: "2026-03-30T03:39:18.898Z"
+generated_at: "2026-03-30T03:42:14.020Z"
 status: "active"
 ---
 

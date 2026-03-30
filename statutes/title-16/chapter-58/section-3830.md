@@ -3,9 +3,9 @@ title: "Section 3830 - Comprehensive conservation enhancement program"
 usc_title: 16
 usc_section: "3830"
 chapter: 58
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 3830"
-generated_at: "2026-03-30T03:38:15.765Z"
+generated_at: "2026-03-30T03:40:45.026Z"
 status: "active"
 ---
 

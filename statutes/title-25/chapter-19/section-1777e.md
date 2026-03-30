@@ -3,9 +3,9 @@ title: "Section 1777e - Miscellaneous provisions"
 usc_title: 25
 usc_section: "1777e"
 chapter: 19
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1777e"
-generated_at: "2026-03-30T03:38:23.475Z"
+generated_at: "2026-03-30T03:40:54.199Z"
 status: "active"
 ---
 

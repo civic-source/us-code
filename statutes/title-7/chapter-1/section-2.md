@@ -3,9 +3,9 @@ title: "Section 2 - Jurisdiction of States"
 usc_title: 7
 usc_section: "2"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T03:37:54.770Z"
+generated_at: "2026-03-30T03:40:07.599Z"
 status: "active"
 ---
 

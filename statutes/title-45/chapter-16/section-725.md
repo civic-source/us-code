@@ -3,9 +3,9 @@ title: "Section 725 - Interim agreements"
 usc_title: 45
 usc_section: "725"
 chapter: 16
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "45 U.S.C. § 725"
-generated_at: "2026-03-30T03:38:48.695Z"
+generated_at: "2026-03-30T03:41:35.178Z"
 status: "active"
 ---
 

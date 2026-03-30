@@ -3,9 +3,9 @@ title: "Section 3546 - Federal information security incident center"
 usc_title: 44
 usc_section: "3546"
 chapter: 35
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 3546"
-generated_at: "2026-03-30T03:38:48.362Z"
+generated_at: "2026-03-30T03:41:33.991Z"
 status: "active"
 ---
 

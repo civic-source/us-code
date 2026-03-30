@@ -3,9 +3,9 @@ title: "Section 262 - Powers"
 usc_title: 12
 usc_section: "262"
 chapter: 3
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 262"
-generated_at: "2026-03-30T03:38:03.838Z"
+generated_at: "2026-03-30T03:40:23.176Z"
 status: "active"
 ---
 

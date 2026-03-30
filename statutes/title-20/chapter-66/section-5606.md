@@ -3,9 +3,9 @@ title: "Section 5606 - Establishment of Morris K. Udall and Stewart L. Udall Tru
 usc_title: 20
 usc_section: "5606"
 chapter: 66
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 5606"
-generated_at: "2026-03-30T03:38:12.854Z"
+generated_at: "2026-03-30T03:40:47.887Z"
 status: "active"
 ---
 

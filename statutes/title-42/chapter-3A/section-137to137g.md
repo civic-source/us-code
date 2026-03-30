@@ -3,9 +3,9 @@ title: "Section 137to137g - Repealed. July 1, 1944, ch. 373 , title XIII, § 131
 usc_title: 42
 usc_section: "137to137g"
 chapter: 3
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 137to137g"
-generated_at: "2026-03-30T03:39:05.554Z"
+generated_at: "2026-03-30T03:41:55.778Z"
 status: "repealed"
 ---
 

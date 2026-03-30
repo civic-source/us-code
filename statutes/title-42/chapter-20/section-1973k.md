@@ -3,9 +3,9 @@ title: "Section 1973k - Termination of assignment of observers"
 usc_title: 42
 usc_section: "1973k"
 chapter: 20
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1973k"
-generated_at: "2026-03-30T03:39:06.072Z"
+generated_at: "2026-03-30T03:41:56.395Z"
 status: "active"
 ---
 

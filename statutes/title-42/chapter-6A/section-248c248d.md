@@ -3,9 +3,9 @@ title: "Section 248c248d - Repealed. Pub. L. 104–201, div. A, title VII, § 72
 usc_title: 42
 usc_section: "248c248d"
 chapter: 6
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 248c248d"
-generated_at: "2026-03-30T03:39:05.578Z"
+generated_at: "2026-03-30T03:41:55.810Z"
 status: "repealed"
 ---
 

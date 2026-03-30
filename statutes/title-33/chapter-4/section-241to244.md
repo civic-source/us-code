@@ -3,9 +3,9 @@ title: "Section 241to244 - Repealed. Pub. L. 96–591, § 8(b) , Dec. 24, 1980 ,
 usc_title: 33
 usc_section: "241to244"
 chapter: 4
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 241to244"
-generated_at: "2026-03-30T03:38:40.652Z"
+generated_at: "2026-03-30T03:41:21.873Z"
 status: "repealed"
 ---
 

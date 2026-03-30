@@ -3,9 +3,9 @@ title: "Section 7261e - Administrative provisions"
 usc_title: 20
 usc_section: "7261e"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7261e"
-generated_at: "2026-03-30T03:38:12.890Z"
+generated_at: "2026-03-30T03:40:47.933Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1104 - Administration of loan guarantees"
 usc_title: 47
 usc_section: "1104"
 chapter: 10
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 1104"
-generated_at: "2026-03-30T03:39:11.252Z"
+generated_at: "2026-03-30T03:42:06.709Z"
 status: "active"
 ---
 

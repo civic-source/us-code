@@ -3,9 +3,9 @@ title: "Section 403 - Leases of lands held in trust"
 usc_title: 25
 usc_section: "403"
 chapter: 12
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 403"
-generated_at: "2026-03-30T03:38:23.413Z"
+generated_at: "2026-03-30T03:40:54.118Z"
 status: "active"
 ---
 

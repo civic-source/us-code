@@ -3,9 +3,9 @@ title: "Section 1941 - Uniform"
 usc_title: 2
 usc_section: "1941"
 chapter: 29
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 1941"
-generated_at: "2026-03-30T03:37:47.348Z"
+generated_at: "2026-03-30T03:39:39.549Z"
 status: "active"
 ---
 

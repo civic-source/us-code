@@ -3,9 +3,9 @@ title: "Section 5118to5118e - Repealed. Pub. L. 104–235, title I, § 131 , Oct
 usc_title: 42
 usc_section: "5118to5118e"
 chapter: 67
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5118to5118e"
-generated_at: "2026-03-30T03:39:06.205Z"
+generated_at: "2026-03-30T03:41:56.546Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 430uu - Big Hole National Battlefield; redesignation of monument
 usc_title: 16
 usc_section: "430uu"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 430uu"
-generated_at: "2026-03-30T03:38:15.592Z"
+generated_at: "2026-03-30T03:40:44.798Z"
 status: "active"
 ---
 

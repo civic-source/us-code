@@ -3,9 +3,9 @@ title: "Section 1232 - Enhancing efforts to combat the trafficking of children"
 usc_title: 8
 usc_section: "1232"
 chapter: 12
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1232"
-generated_at: "2026-03-30T03:37:52.058Z"
+generated_at: "2026-03-30T03:39:48.855Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
 - **(c)**
   - **(1)** The Secretary of Health and Human Services, Secretary of Homeland Security, Attorney General, and Secretary of State shall establish policies and programs to ensure that unaccompanied alien children in the United States are protected from traffickers and other persons seeking to victimize or otherwise engage such children in criminal, harmful, or exploitative activity, including policies and programs reflecting best practices in witness security programs.
   - **(2)**
-    - **(A)**
+    - **(A)** Subject to section 279(b)(2) of title 6 , an unaccompanied alien child in the custody of the Secretary of Health and Human Services shall be promptly placed in the least restrictive setting that is in the best interest of the child. In making such placements, the Secretary may consider danger to self, danger to the community, and risk of flight. Placement of child trafficking victims may include placement in an Unaccompanied Refugee Minor program, pursuant to section 412(d) of the Immigration and Nationality Act ( 8 U.S.C. 1522(d) ), if a suitable family member is not available to provide care. A child shall not be placed in a secure facility absent a determination that the child poses a danger to self or others or has been charged with having committed a criminal offense. The placement of a child in a secure facility shall be reviewed, at a minimum, on a monthly basis, in accordance with procedures prescribed by the Secretary, to determine if such placement remains warranted.
     - **(B)** If a minor described in subparagraph (A) reaches 18 years of age and is transferred to the custody of the Secretary of Homeland Security, the Secretary shall consider placement in the least restrictive setting available after taking into account the alien’s danger to self, danger to the community, and risk of flight. Such aliens shall be eligible to participate in alternative to detention programs, utilizing a continuum of alternatives based on the alien’s need for supervision, which may include placement of the alien with an individual or an organizational sponsor, or in a supervised group home.
   - **(3)**
     - **(A)** Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child’s physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian’s identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
@@ -60,7 +60,7 @@ status: "active"
   - **(4)** The Secretary of Health and Human Services shall cooperate with the Executive Office for Immigration Review to ensure that custodians receive legal orientation presentations provided through the Legal Orientation Program administered by the Executive Office for Immigration Review. At a minimum, such presentations shall address the custodian’s responsibility to attempt to ensure the child’s appearance at all immigration proceedings and to protect the child from mistreatment, exploitation, and trafficking.
   - **(5)** The Secretary of Health and Human Services shall ensure, to the greatest extent practicable and consistent with section 292 of the Immigration and Nationality Act ( 8 U.S.C. 1362 ), that all unaccompanied alien children who are or have been in the custody of the Secretary or the Secretary of Homeland Security, and who are not described in subsection (a)(2)(A), have counsel to represent them in legal proceedings or matters and protect them from mistreatment, exploitation, and trafficking. To the greatest extent practicable, the Secretary of Health and Human Services shall make every effort to utilize the services of pro bono counsel who agree to provide representation to such children without charge.
   - **(6)**
-    - **(A)**
+    - **(A)** The Secretary of Health and Human Services is authorized to appoint independent child advocates for child trafficking victims and other vulnerable unaccompanied alien children. A child advocate shall be provided access to materials necessary to effectively advocate for the best interest of the child. The child advocate shall not be compelled to testify or provide evidence in any proceeding concerning any information or opinion received from the child in the course of serving as a child advocate. The child advocate shall be presumed to be acting in good faith and be immune from civil liability for lawful conduct of duties as described in this provision.
     - **(B)**
       - **(i)** Not later than 2 years after March 7, 2013 , the Secretary of Health and Human Services shall appoint child advocates at 3 new immigration detention sites to provide independent child advocates for trafficking victims and vulnerable unaccompanied alien children.
       - **(ii)** Not later than 3 years after March 7, 2013 , the Secretary shall appoint child advocates at not more than 3 additional immigration detention sites.

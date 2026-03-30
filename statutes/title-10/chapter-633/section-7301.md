@@ -3,9 +3,9 @@ title: "Section 7301 - Repealed. Pub. L. 103–160, div. A, title VIII, § 824(a
 usc_title: 10
 usc_section: "7301"
 chapter: 633
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 7301"
-generated_at: "2026-03-30T03:37:58.874Z"
+generated_at: "2026-03-30T03:39:59.628Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2901 - Omitted"
 usc_title: 20
 usc_section: "2901"
 chapter: 47
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 2901"
-generated_at: "2026-03-30T03:38:12.842Z"
+generated_at: "2026-03-30T03:40:47.870Z"
 status: "omitted"
 ---
 

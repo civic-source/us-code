@@ -3,9 +3,9 @@ title: "Section 667 - Annual reports"
 usc_title: 33
 usc_section: "667"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 667"
-generated_at: "2026-03-30T03:38:40.675Z"
+generated_at: "2026-03-30T03:41:21.891Z"
 status: "active"
 ---
 

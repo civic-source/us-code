@@ -3,9 +3,9 @@ title: "Section 1679j - Relation to State law"
 usc_title: 15
 usc_section: "1679j"
 chapter: 41
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1679j"
-generated_at: "2026-03-30T03:38:06.047Z"
+generated_at: "2026-03-30T03:40:16.155Z"
 status: "active"
 ---
 

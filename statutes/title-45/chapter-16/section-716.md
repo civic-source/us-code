@@ -3,9 +3,9 @@ title: "Section 716 - Final system plan"
 usc_title: 45
 usc_section: "716"
 chapter: 16
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "45 U.S.C. § 716"
-generated_at: "2026-03-30T03:38:48.693Z"
+generated_at: "2026-03-30T03:41:35.176Z"
 status: "active"
 ---
 

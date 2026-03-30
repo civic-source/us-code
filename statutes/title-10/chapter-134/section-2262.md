@@ -3,9 +3,9 @@ title: "Section 2262 - Department of Defense conferences: collection of fees to 
 usc_title: 10
 usc_section: "2262"
 chapter: 134
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2262"
-generated_at: "2026-03-30T03:37:58.821Z"
+generated_at: "2026-03-30T03:39:59.555Z"
 status: "active"
 ---
 

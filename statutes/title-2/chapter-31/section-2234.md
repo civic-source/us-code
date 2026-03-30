@@ -3,9 +3,9 @@ title: "Section 2234 - Administration of Fund"
 usc_title: 2
 usc_section: "2234"
 chapter: 31
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 2234"
-generated_at: "2026-03-30T03:37:47.354Z"
+generated_at: "2026-03-30T03:39:39.558Z"
 status: "active"
 ---
 

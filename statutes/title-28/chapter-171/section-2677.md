@@ -3,9 +3,9 @@ title: "Section 2677 - Compromise"
 usc_title: 28
 usc_section: "2677"
 chapter: 171
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 2677"
-generated_at: "2026-03-30T03:38:28.796Z"
+generated_at: "2026-03-30T03:41:06.055Z"
 status: "active"
 ---
 

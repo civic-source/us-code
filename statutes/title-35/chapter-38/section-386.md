@@ -3,9 +3,9 @@ title: "Section 386 - Right of priority"
 usc_title: 35
 usc_section: "386"
 chapter: 38
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "35 U.S.C. § 386"
-generated_at: "2026-03-30T03:38:38.374Z"
+generated_at: "2026-03-30T03:41:19.279Z"
 status: "active"
 ---
 

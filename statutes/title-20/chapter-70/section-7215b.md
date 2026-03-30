@@ -3,9 +3,9 @@ title: "Section 7215b - Local applications"
 usc_title: 20
 usc_section: "7215b"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7215b"
-generated_at: "2026-03-30T03:38:12.885Z"
+generated_at: "2026-03-30T03:40:47.926Z"
 status: "active"
 ---
 

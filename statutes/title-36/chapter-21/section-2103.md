@@ -3,9 +3,9 @@ title: "Section 2103 - Administrative"
 usc_title: 36
 usc_section: "2103"
 chapter: 21
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 2103"
-generated_at: "2026-03-30T03:38:44.279Z"
+generated_at: "2026-03-30T03:41:24.989Z"
 status: "active"
 ---
 

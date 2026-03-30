@@ -3,9 +3,9 @@ title: "Section 1774h - Authorization of appropriations"
 usc_title: 25
 usc_section: "1774h"
 chapter: 19
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1774h"
-generated_at: "2026-03-30T03:38:23.472Z"
+generated_at: "2026-03-30T03:40:54.197Z"
 status: "active"
 ---
 

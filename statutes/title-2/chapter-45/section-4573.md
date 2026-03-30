@@ -3,9 +3,9 @@ title: "Section 4573 - Senate pay adjustments; action by President pro tempore o
 usc_title: 2
 usc_section: "4573"
 chapter: 45
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 4573"
-generated_at: "2026-03-30T03:37:47.357Z"
+generated_at: "2026-03-30T03:39:39.562Z"
 status: "active"
 ---
 

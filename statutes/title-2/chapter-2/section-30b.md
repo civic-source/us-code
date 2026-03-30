@@ -3,9 +3,9 @@ title: "Section 30b - Notice of objecting to proceeding"
 usc_title: 2
 usc_section: "30b"
 chapter: 2
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 30b"
-generated_at: "2026-03-30T03:37:47.307Z"
+generated_at: "2026-03-30T03:39:39.497Z"
 status: "active"
 ---
 

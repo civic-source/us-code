@@ -3,9 +3,9 @@ title: "Section 3712h - Office of Audit, Assessment, and Management"
 usc_title: 42
 usc_section: "3712h"
 chapter: 46
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3712h"
-generated_at: "2026-03-30T03:39:06.154Z"
+generated_at: "2026-03-30T03:41:56.488Z"
 status: "active"
 ---
 

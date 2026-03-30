@@ -3,9 +3,9 @@ title: "Section 3508 - Department of Health and Human Services"
 usc_title: 20
 usc_section: "3508"
 chapter: 48
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 3508"
-generated_at: "2026-03-30T03:38:12.845Z"
+generated_at: "2026-03-30T03:40:47.873Z"
 status: "active"
 ---
 

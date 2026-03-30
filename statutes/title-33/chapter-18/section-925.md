@@ -3,9 +3,9 @@ title: "Section 925 - Witness fees"
 usc_title: 33
 usc_section: "925"
 chapter: 18
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 925"
-generated_at: "2026-03-30T03:38:40.691Z"
+generated_at: "2026-03-30T03:41:21.909Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3009 - Printing and binding costs"
 usc_title: 22
 usc_section: "3009"
 chapter: 45
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 3009"
-generated_at: "2026-03-30T03:38:22.261Z"
+generated_at: "2026-03-30T03:40:57.186Z"
 status: "active"
 ---
 

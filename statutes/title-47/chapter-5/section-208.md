@@ -3,9 +3,9 @@ title: "Section 208 - Complaints to Commission; investigations; duration of inve
 usc_title: 47
 usc_section: "208"
 chapter: 5
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 208"
-generated_at: "2026-03-30T03:39:11.210Z"
+generated_at: "2026-03-30T03:42:06.655Z"
 status: "active"
 ---
 

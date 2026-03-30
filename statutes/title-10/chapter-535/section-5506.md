@@ -3,9 +3,9 @@ title: "Section 5506 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1673(d
 usc_title: 10
 usc_section: "5506"
 chapter: 535
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 5506"
-generated_at: "2026-03-30T03:37:58.867Z"
+generated_at: "2026-03-30T03:39:59.619Z"
 status: "repealed"
 ---
 

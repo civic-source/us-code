@@ -3,9 +3,9 @@ title: "Section 833to835 - Repealed. Pub. L. 96–129, title II, § 216(b) , Nov
 usc_title: 18
 usc_section: "833to835"
 chapter: 39
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 833to835"
-generated_at: "2026-03-30T03:38:09.912Z"
+generated_at: "2026-03-30T03:40:28.127Z"
 status: "repealed"
 ---
 

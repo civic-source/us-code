@@ -3,9 +3,9 @@ title: "Section 4053 - Exemptions"
 usc_title: 26
 usc_section: "4053"
 chapter: 31
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4053"
-generated_at: "2026-03-30T03:38:36.116Z"
+generated_at: "2026-03-30T03:41:16.754Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12o - San Joaquin Area Water Recycling and Reuse Project"
 usc_title: 43
 usc_section: "12o"
 chapter: 12
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 12o"
-generated_at: "2026-03-30T03:38:49.719Z"
+generated_at: "2026-03-30T03:41:33.040Z"
 status: "active"
 ---
 

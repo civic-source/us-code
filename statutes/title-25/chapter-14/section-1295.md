@@ -3,9 +3,9 @@ title: "Section 1295 - Payments to adults; trusts for minors and persons under l
 usc_title: 25
 usc_section: "1295"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1295"
-generated_at: "2026-03-30T03:38:23.448Z"
+generated_at: "2026-03-30T03:40:54.165Z"
 status: "active"
 ---
 

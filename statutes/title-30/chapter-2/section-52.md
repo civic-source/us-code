@@ -3,9 +3,9 @@ title: "Section 52 - Patents or homesteads subject to vested and accrued water r
 usc_title: 30
 usc_section: "52"
 chapter: 2
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 52"
-generated_at: "2026-03-30T03:38:25.661Z"
+generated_at: "2026-03-30T03:41:02.223Z"
 status: "active"
 ---
 

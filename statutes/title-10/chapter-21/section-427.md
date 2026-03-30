@@ -3,9 +3,9 @@ title: "Section 427 - Repealed. Pub. L. 112–81, div. A, title X, § 1061(4)(A)
 usc_title: 10
 usc_section: "427"
 chapter: 21
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 427"
-generated_at: "2026-03-30T03:37:58.757Z"
+generated_at: "2026-03-30T03:39:59.470Z"
 status: "repealed"
 ---
 

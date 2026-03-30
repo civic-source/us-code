@@ -3,9 +3,9 @@ title: "Section 404A - Deduction for certain foreign deferred compensation plans
 usc_title: 26
 usc_section: "404A"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 404A"
-generated_at: "2026-03-30T03:38:35.942Z"
+generated_at: "2026-03-30T03:41:16.569Z"
 status: "active"
 ---
 

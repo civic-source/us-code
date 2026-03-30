@@ -3,9 +3,9 @@ title: "Section 2032 - Responsibility of the Secretaries of the military departm
 usc_title: 10
 usc_section: "2032"
 chapter: 102
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2032"
-generated_at: "2026-03-30T03:37:58.812Z"
+generated_at: "2026-03-30T03:39:59.543Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3204 - Implementation of safety management system"
 usc_title: 46
 usc_section: "3204"
 chapter: 32
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 3204"
-generated_at: "2026-03-30T03:39:12.569Z"
+generated_at: "2026-03-30T03:42:02.613Z"
 status: "active"
 ---
 

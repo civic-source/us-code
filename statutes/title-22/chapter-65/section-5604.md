@@ -3,9 +3,9 @@ title: "Section 5604 - Determinations regarding use of chemical or biological we
 usc_title: 22
 usc_section: "5604"
 chapter: 65
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 5604"
-generated_at: "2026-03-30T03:38:22.291Z"
+generated_at: "2026-03-30T03:40:57.229Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 500k - Rules and regulations"
 usc_title: 25
 usc_section: "500k"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 500k"
-generated_at: "2026-03-30T03:38:23.424Z"
+generated_at: "2026-03-30T03:40:54.132Z"
 status: "active"
 ---
 

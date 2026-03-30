@@ -3,9 +3,9 @@ title: "Section 3334 - Prohibition on drawback for television picture tubes"
 usc_title: 19
 usc_section: "3334"
 chapter: 21
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 3334"
-generated_at: "2026-03-30T03:38:10.972Z"
+generated_at: "2026-03-30T03:40:29.528Z"
 status: "active"
 ---
 

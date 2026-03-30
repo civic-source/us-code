@@ -3,9 +3,9 @@ title: "Section 682ato682e - Repealed. Pub. L. 94–579, title VII, § 702 , Oct
 usc_title: 43
 usc_section: "682ato682e"
 chapter: 16
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 682ato682e"
-generated_at: "2026-03-30T03:38:49.739Z"
+generated_at: "2026-03-30T03:41:33.064Z"
 status: "repealed"
 ---
 

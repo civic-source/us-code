@@ -3,9 +3,9 @@ title: "Section 401to411 - Repealed. Pub. L. 86–613, § 19 , formerly § 18, J
 usc_title: 15
 usc_section: "401to411"
 chapter: 11
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 401to411"
-generated_at: "2026-03-30T03:38:05.983Z"
+generated_at: "2026-03-30T03:40:16.076Z"
 status: "repealed"
 ---
 

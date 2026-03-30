@@ -3,9 +3,9 @@ title: "Section 382 - Filing international design applications"
 usc_title: 35
 usc_section: "382"
 chapter: 38
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "35 U.S.C. § 382"
-generated_at: "2026-03-30T03:38:38.374Z"
+generated_at: "2026-03-30T03:41:19.279Z"
 status: "active"
 ---
 

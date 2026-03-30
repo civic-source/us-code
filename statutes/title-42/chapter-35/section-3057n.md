@@ -3,9 +3,9 @@ title: "Section 3057n - Authorization of appropriations"
 usc_title: 42
 usc_section: "3057n"
 chapter: 35
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3057n"
-generated_at: "2026-03-30T03:39:06.139Z"
+generated_at: "2026-03-30T03:41:56.471Z"
 status: "active"
 ---
 

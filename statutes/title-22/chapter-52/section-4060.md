@@ -3,9 +3,9 @@ title: "Section 4060 - Assignment and attachment of moneys"
 usc_title: 22
 usc_section: "4060"
 chapter: 52
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 4060"
-generated_at: "2026-03-30T03:38:22.275Z"
+generated_at: "2026-03-30T03:40:57.206Z"
 status: "active"
 ---
 

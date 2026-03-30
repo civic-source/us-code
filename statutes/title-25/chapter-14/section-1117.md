@@ -3,9 +3,9 @@ title: "Section 1117 - Distribution of funds of Miami Indians of Oklahoma; perso
 usc_title: 25
 usc_section: "1117"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1117"
-generated_at: "2026-03-30T03:38:23.446Z"
+generated_at: "2026-03-30T03:40:54.162Z"
 status: "active"
 ---
 

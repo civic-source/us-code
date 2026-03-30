@@ -3,9 +3,9 @@ title: "Section 339 - Carriage of distant television stations by satellite carri
 usc_title: 47
 usc_section: "339"
 chapter: 5
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 339"
-generated_at: "2026-03-30T03:39:11.229Z"
+generated_at: "2026-03-30T03:42:06.679Z"
 status: "active"
 ---
 

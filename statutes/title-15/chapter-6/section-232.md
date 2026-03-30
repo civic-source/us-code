@@ -3,9 +3,9 @@ title: "Section 232 - Barrels below standard; marking"
 usc_title: 15
 usc_section: "232"
 chapter: 6
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 232"
-generated_at: "2026-03-30T03:38:05.976Z"
+generated_at: "2026-03-30T03:40:16.067Z"
 status: "active"
 ---
 

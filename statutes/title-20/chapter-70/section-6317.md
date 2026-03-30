@@ -3,9 +3,9 @@ title: "Section 6317 - School support and recognition"
 usc_title: 20
 usc_section: "6317"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6317"
-generated_at: "2026-03-30T03:38:12.862Z"
+generated_at: "2026-03-30T03:40:47.896Z"
 status: "active"
 ---
 

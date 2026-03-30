@@ -3,9 +3,9 @@ title: "Section 6777 - Internet safety"
 usc_title: 20
 usc_section: "6777"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6777"
-generated_at: "2026-03-30T03:38:12.877Z"
+generated_at: "2026-03-30T03:40:47.916Z"
 status: "active"
 ---
 

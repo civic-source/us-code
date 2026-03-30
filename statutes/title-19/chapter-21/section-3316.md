@@ -3,9 +3,9 @@ title: "Section 3316 - Appointments to chapter 20 panel proceedings"
 usc_title: 19
 usc_section: "3316"
 chapter: 21
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 3316"
-generated_at: "2026-03-30T03:38:10.970Z"
+generated_at: "2026-03-30T03:40:29.526Z"
 status: "active"
 ---
 

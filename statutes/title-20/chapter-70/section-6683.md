@@ -3,9 +3,9 @@ title: "Section 6683 - Grant program"
 usc_title: 20
 usc_section: "6683"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6683"
-generated_at: "2026-03-30T03:38:12.874Z"
+generated_at: "2026-03-30T03:40:47.913Z"
 status: "active"
 ---
 

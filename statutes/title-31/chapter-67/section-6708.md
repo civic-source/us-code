@@ -3,9 +3,9 @@ title: "Section 6708 - Adjustments of local government allocations"
 usc_title: 31
 usc_section: "6708"
 chapter: 67
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 6708"
-generated_at: "2026-03-30T03:38:39.616Z"
+generated_at: "2026-03-30T03:41:20.627Z"
 status: "active"
 ---
 

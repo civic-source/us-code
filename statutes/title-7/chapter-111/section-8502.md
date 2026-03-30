@@ -3,9 +3,9 @@ title: "Section 8502 - Sense of Congress regarding need for improved and better 
 usc_title: 7
 usc_section: "8502"
 chapter: 111
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 8502"
-generated_at: "2026-03-30T03:37:54.942Z"
+generated_at: "2026-03-30T03:40:07.849Z"
 status: "active"
 ---
 

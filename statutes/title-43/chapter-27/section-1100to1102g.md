@@ -3,9 +3,9 @@ title: "Section 1100to1102g - Repealed. Pub. L. 94–579, title VII, § 703(a) ,
 usc_title: 43
 usc_section: "1100to1102g"
 chapter: 27
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1100to1102g"
-generated_at: "2026-03-30T03:38:49.748Z"
+generated_at: "2026-03-30T03:41:33.074Z"
 status: "repealed"
 ---
 

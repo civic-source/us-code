@@ -3,9 +3,9 @@ title: "Section 637b - Availability of information"
 usc_title: 15
 usc_section: "637b"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 637b"
-generated_at: "2026-03-30T03:38:05.993Z"
+generated_at: "2026-03-30T03:40:16.088Z"
 status: "active"
 ---
 

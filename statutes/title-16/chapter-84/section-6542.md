@@ -3,9 +3,9 @@ title: "Section 6542 - Tribal watershed forestry assistance"
 usc_title: 16
 usc_section: "6542"
 chapter: 84
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 6542"
-generated_at: "2026-03-30T03:38:15.790Z"
+generated_at: "2026-03-30T03:40:45.061Z"
 status: "active"
 ---
 

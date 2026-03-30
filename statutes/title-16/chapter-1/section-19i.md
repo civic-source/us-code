@@ -3,9 +3,9 @@ title: "Section 19i - Corporate succession; powers and duties of trustee; suits;
 usc_title: 16
 usc_section: "19i"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 19i"
-generated_at: "2026-03-30T03:38:15.543Z"
+generated_at: "2026-03-30T03:40:44.735Z"
 status: "active"
 ---
 

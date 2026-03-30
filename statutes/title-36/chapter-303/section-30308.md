@@ -3,9 +3,9 @@ title: "Section 30308 - Principal office"
 usc_title: 36
 usc_section: "30308"
 chapter: 303
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 30308"
-generated_at: "2026-03-30T03:38:44.285Z"
+generated_at: "2026-03-30T03:41:24.999Z"
 status: "active"
 ---
 

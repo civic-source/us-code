@@ -3,9 +3,9 @@ title: "Section 2146 - National Garden"
 usc_title: 2
 usc_section: "2146"
 chapter: 30
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 2146"
-generated_at: "2026-03-30T03:37:47.351Z"
+generated_at: "2026-03-30T03:39:39.556Z"
 status: "active"
 ---
 

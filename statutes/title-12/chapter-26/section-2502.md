@@ -3,9 +3,9 @@ title: "Section 2502 - Definitions"
 usc_title: 12
 usc_section: "2502"
 chapter: 26
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2502"
-generated_at: "2026-03-30T03:38:03.934Z"
+generated_at: "2026-03-30T03:40:23.317Z"
 status: "active"
 ---
 

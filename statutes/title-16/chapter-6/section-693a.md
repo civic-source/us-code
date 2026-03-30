@@ -3,9 +3,9 @@ title: "Section 693a - Rules and regulations for administration of Ouachita Nati
 usc_title: 16
 usc_section: "693a"
 chapter: 6
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 693a"
-generated_at: "2026-03-30T03:38:15.669Z"
+generated_at: "2026-03-30T03:40:44.898Z"
 status: "active"
 ---
 

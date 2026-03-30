@@ -3,9 +3,9 @@ title: "Section 110111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "110111"
 chapter: 1101
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 110111"
-generated_at: "2026-03-30T03:38:44.292Z"
+generated_at: "2026-03-30T03:41:25.007Z"
 status: "active"
 ---
 

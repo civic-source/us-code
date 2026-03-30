@@ -3,9 +3,9 @@ title: "Section 16516 - Temporary program for rapid deployment of renewable ener
 usc_title: 42
 usc_section: "16516"
 chapter: 149
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16516"
-generated_at: "2026-03-30T03:39:06.581Z"
+generated_at: "2026-03-30T03:41:57.031Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 635r - Establishment of tied aid credit program administered by 
 usc_title: 12
 usc_section: "635r"
 chapter: 6
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 635r"
-generated_at: "2026-03-30T03:38:03.849Z"
+generated_at: "2026-03-30T03:40:23.192Z"
 status: "active"
 ---
 

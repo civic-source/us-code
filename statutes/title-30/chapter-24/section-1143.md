@@ -3,9 +3,9 @@ title: "Section 1143 - Period of guaranties and interest assistance"
 usc_title: 30
 usc_section: "1143"
 chapter: 24
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 1143"
-generated_at: "2026-03-30T03:38:25.681Z"
+generated_at: "2026-03-30T03:41:02.278Z"
 status: "active"
 ---
 

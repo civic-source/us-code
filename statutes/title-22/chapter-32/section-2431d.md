@@ -3,9 +3,9 @@ title: "Section 2431d - Reduction of debt owed to United States as result of con
 usc_title: 22
 usc_section: "2431d"
 chapter: 32
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2431d"
-generated_at: "2026-03-30T03:38:22.242Z"
+generated_at: "2026-03-30T03:40:57.159Z"
 status: "active"
 ---
 

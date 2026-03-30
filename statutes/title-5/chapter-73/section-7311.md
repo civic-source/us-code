@@ -3,9 +3,9 @@ title: "Section 7311 - Loyalty and striking"
 usc_title: 5
 usc_section: "7311"
 chapter: 73
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 7311"
-generated_at: "2026-03-30T03:37:49.013Z"
+generated_at: "2026-03-30T03:39:45.413Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2465fto2467b - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010
 usc_title: 42
 usc_section: "2465fto2467b"
 chapter: 26
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2465fto2467b"
-generated_at: "2026-03-30T03:39:06.116Z"
+generated_at: "2026-03-30T03:41:56.446Z"
 status: "repealed"
 ---
 

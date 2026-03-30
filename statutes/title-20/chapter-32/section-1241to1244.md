@@ -3,9 +3,9 @@ title: "Section 1241to1244 - Omitted"
 usc_title: 20
 usc_section: "1241to1244"
 chapter: 32
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1241to1244"
-generated_at: "2026-03-30T03:38:12.823Z"
+generated_at: "2026-03-30T03:40:47.845Z"
 status: "omitted"
 ---
 

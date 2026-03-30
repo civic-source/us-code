@@ -3,9 +3,9 @@ title: "Section 9415 - Inter-American Air Forces Academy"
 usc_title: 10
 usc_section: "9415"
 chapter: 907
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 9415"
-generated_at: "2026-03-30T03:37:58.885Z"
+generated_at: "2026-03-30T03:39:59.642Z"
 status: "active"
 ---
 

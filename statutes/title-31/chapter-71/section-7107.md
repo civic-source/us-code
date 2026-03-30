@@ -3,9 +3,9 @@ title: "Section 7107 - Joint management funds"
 usc_title: 31
 usc_section: "7107"
 chapter: 71
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 7107"
-generated_at: "2026-03-30T03:38:39.619Z"
+generated_at: "2026-03-30T03:41:20.630Z"
 status: "active"
 ---
 

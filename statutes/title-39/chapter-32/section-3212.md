@@ -3,9 +3,9 @@ title: "Section 3212 - Congressional Record under frank of Members of Congress"
 usc_title: 39
 usc_section: "3212"
 chapter: 32
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "39 U.S.C. § 3212"
-generated_at: "2026-03-30T03:38:43.351Z"
+generated_at: "2026-03-30T03:41:23.905Z"
 status: "active"
 ---
 

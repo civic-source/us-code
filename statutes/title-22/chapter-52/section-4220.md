@@ -3,9 +3,9 @@ title: "Section 4220 - Medium for payment of fees"
 usc_title: 22
 usc_section: "4220"
 chapter: 52
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 4220"
-generated_at: "2026-03-30T03:38:22.281Z"
+generated_at: "2026-03-30T03:40:57.214Z"
 status: "active"
 ---
 

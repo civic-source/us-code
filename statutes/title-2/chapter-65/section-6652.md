@@ -3,9 +3,9 @@ title: "Section 6652 - Compensation of employees of Chaplain of Senate"
 usc_title: 2
 usc_section: "6652"
 chapter: 65
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 6652"
-generated_at: "2026-03-30T03:37:47.367Z"
+generated_at: "2026-03-30T03:39:39.575Z"
 status: "active"
 ---
 

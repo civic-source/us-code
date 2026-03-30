@@ -3,9 +3,9 @@ title: "Section 909 - Administration on nonpolitical basis; dismissal of officer
 usc_title: 7
 usc_section: "909"
 chapter: 31
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 909"
-generated_at: "2026-03-30T03:37:54.806Z"
+generated_at: "2026-03-30T03:40:07.652Z"
 status: "active"
 ---
 

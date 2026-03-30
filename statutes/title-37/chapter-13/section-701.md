@@ -3,9 +3,9 @@ title: "Section 701 - Members of the Army, Navy, Air Force, and Marine Corps; co
 usc_title: 37
 usc_section: "701"
 chapter: 13
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 701"
-generated_at: "2026-03-30T03:38:43.115Z"
+generated_at: "2026-03-30T03:41:26.705Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1381to1398 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 
 usc_title: 50
 usc_section: "1381to1398"
 chapter: 27
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 1381to1398"
-generated_at: "2026-03-30T03:39:13.701Z"
+generated_at: "2026-03-30T03:42:07.761Z"
 status: "repealed"
 ---
 

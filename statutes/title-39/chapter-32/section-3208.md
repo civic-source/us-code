@@ -3,9 +3,9 @@ title: "Section 3208 - Shipment by most economical means"
 usc_title: 39
 usc_section: "3208"
 chapter: 32
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "39 U.S.C. § 3208"
-generated_at: "2026-03-30T03:38:43.350Z"
+generated_at: "2026-03-30T03:41:23.905Z"
 status: "active"
 ---
 

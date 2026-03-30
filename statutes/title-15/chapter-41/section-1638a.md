@@ -3,9 +3,9 @@ title: "Section 1638a - Reset of hybrid adjustable rate mortgages"
 usc_title: 15
 usc_section: "1638a"
 chapter: 41
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1638a"
-generated_at: "2026-03-30T03:38:06.041Z"
+generated_at: "2026-03-30T03:40:16.147Z"
 status: "active"
 ---
 

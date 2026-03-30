@@ -3,9 +3,9 @@ title: "Section 2661 - Administration"
 usc_title: 26
 usc_section: "2661"
 chapter: 13
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 2661"
-generated_at: "2026-03-30T03:38:36.100Z"
+generated_at: "2026-03-30T03:41:16.737Z"
 status: "active"
 ---
 

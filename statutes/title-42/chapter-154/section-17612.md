@@ -3,9 +3,9 @@ title: "Section 17612 - Establishment of National ICAC Task Force Program"
 usc_title: 42
 usc_section: "17612"
 chapter: 154
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 17612"
-generated_at: "2026-03-30T03:39:06.603Z"
+generated_at: "2026-03-30T03:41:57.062Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2169 - School of Nursing: establishment"
 usc_title: 10
 usc_section: "2169"
 chapter: 108
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2169"
-generated_at: "2026-03-30T03:37:58.816Z"
+generated_at: "2026-03-30T03:39:59.548Z"
 status: "active"
 ---
 

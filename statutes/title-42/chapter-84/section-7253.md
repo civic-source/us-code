@@ -3,9 +3,9 @@ title: "Section 7253 - Reorganization"
 usc_title: 42
 usc_section: "7253"
 chapter: 84
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7253"
-generated_at: "2026-03-30T03:39:06.295Z"
+generated_at: "2026-03-30T03:41:56.658Z"
 status: "active"
 ---
 

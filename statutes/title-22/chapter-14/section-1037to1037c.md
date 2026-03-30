@@ -3,9 +3,9 @@ title: "Section 1037to1037c - Repealed. Pub. L. 96–465, title II, § 2205(1) ,
 usc_title: 22
 usc_section: "1037to1037c"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 1037to1037c"
-generated_at: "2026-03-30T03:38:22.205Z"
+generated_at: "2026-03-30T03:40:57.107Z"
 status: "repealed"
 ---
 

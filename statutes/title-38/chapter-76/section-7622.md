@@ -3,9 +3,9 @@ title: "Section 7622 - Eligibility; application; agreement"
 usc_title: 38
 usc_section: "7622"
 chapter: 76
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 7622"
-generated_at: "2026-03-30T03:38:46.442Z"
+generated_at: "2026-03-30T03:41:28.473Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6939e - Federally owned treatment works"
 usc_title: 42
 usc_section: "6939e"
 chapter: 82
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6939e"
-generated_at: "2026-03-30T03:39:06.279Z"
+generated_at: "2026-03-30T03:41:56.640Z"
 status: "active"
 ---
 

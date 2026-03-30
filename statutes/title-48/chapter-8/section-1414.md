@@ -3,9 +3,9 @@ title: "Section 1414 - Exclusive privileges of discoverer"
 usc_title: 48
 usc_section: "1414"
 chapter: 8
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "48 U.S.C. § 1414"
-generated_at: "2026-03-30T03:39:10.558Z"
+generated_at: "2026-03-30T03:42:09.272Z"
 status: "active"
 ---
 

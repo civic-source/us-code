@@ -3,9 +3,9 @@ title: "Section 1221ato1221c - Repealed. Pub. L. 103–382, title II, § 212(a)(
 usc_title: 20
 usc_section: "1221ato1221c"
 chapter: 31
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1221ato1221c"
-generated_at: "2026-03-30T03:38:12.819Z"
+generated_at: "2026-03-30T03:40:47.840Z"
 status: "repealed"
 ---
 

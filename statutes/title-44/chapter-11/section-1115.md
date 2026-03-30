@@ -3,9 +3,9 @@ title: "Section 1115 - Annual reports: time of delivery by Public Printer to Con
 usc_title: 44
 usc_section: "1115"
 chapter: 11
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 1115"
-generated_at: "2026-03-30T03:38:48.352Z"
+generated_at: "2026-03-30T03:41:33.978Z"
 status: "active"
 ---
 

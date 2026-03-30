@@ -3,9 +3,9 @@ title: "Section 4309 - Savings provision"
 usc_title: 16
 usc_section: "4309"
 chapter: 63
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 4309"
-generated_at: "2026-03-30T03:38:15.776Z"
+generated_at: "2026-03-30T03:40:45.041Z"
 status: "active"
 ---
 

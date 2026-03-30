@@ -3,9 +3,9 @@ title: "Section 12135 - Invalidation of certificates of documentation"
 usc_title: 46
 usc_section: "12135"
 chapter: 121
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 12135"
-generated_at: "2026-03-30T03:39:12.588Z"
+generated_at: "2026-03-30T03:42:02.632Z"
 status: "active"
 ---
 

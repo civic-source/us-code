@@ -3,9 +3,9 @@ title: "Section 771a - Disposition on discharge"
 usc_title: 10
 usc_section: "771a"
 chapter: 45
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 771a"
-generated_at: "2026-03-30T03:37:58.769Z"
+generated_at: "2026-03-30T03:39:59.486Z"
 status: "active"
 ---
 

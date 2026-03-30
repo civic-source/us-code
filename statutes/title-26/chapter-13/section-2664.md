@@ -3,9 +3,9 @@ title: "Section 2664 - Repealed. Pub. L. 111–312, title III, § 301(a) , Dec. 
 usc_title: 26
 usc_section: "2664"
 chapter: 13
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 2664"
-generated_at: "2026-03-30T03:38:36.101Z"
+generated_at: "2026-03-30T03:41:16.737Z"
 status: "repealed"
 ---
 

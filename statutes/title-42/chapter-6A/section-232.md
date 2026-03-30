@@ -3,9 +3,9 @@ title: "Section 232 - National Institute of Mental Health; authorization of appr
 usc_title: 42
 usc_section: "232"
 chapter: 6
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 232"
-generated_at: "2026-03-30T03:39:05.559Z"
+generated_at: "2026-03-30T03:41:55.784Z"
 status: "active"
 ---
 

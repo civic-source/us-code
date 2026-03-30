@@ -3,9 +3,9 @@ title: "Section 119 - National Day of Prayer"
 usc_title: 36
 usc_section: "119"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 119"
-generated_at: "2026-03-30T03:38:44.276Z"
+generated_at: "2026-03-30T03:41:24.987Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3063 - Basic branches"
 usc_title: 10
 usc_section: "3063"
 chapter: 307
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 3063"
-generated_at: "2026-03-30T03:37:58.857Z"
+generated_at: "2026-03-30T03:39:59.605Z"
 status: "active"
 ---
 

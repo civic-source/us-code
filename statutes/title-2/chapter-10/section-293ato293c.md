@@ -3,9 +3,9 @@ title: "Section 293ato293c - Omitted"
 usc_title: 2
 usc_section: "293ato293c"
 chapter: 10
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 293ato293c"
-generated_at: "2026-03-30T03:37:47.318Z"
+generated_at: "2026-03-30T03:39:39.510Z"
 status: "omitted"
 ---
 

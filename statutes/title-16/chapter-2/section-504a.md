@@ -3,9 +3,9 @@ title: "Section 504a - Sale of forest-tree seed and nursery stock to States and 
 usc_title: 16
 usc_section: "504a"
 chapter: 2
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 504a"
-generated_at: "2026-03-30T03:38:15.644Z"
+generated_at: "2026-03-30T03:40:44.865Z"
 status: "active"
 ---
 

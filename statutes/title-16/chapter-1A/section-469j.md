@@ -3,9 +3,9 @@ title: "Section 469j - Commission for the Preservation of America’s Heritage A
 usc_title: 16
 usc_section: "469j"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 469j"
-generated_at: "2026-03-30T03:38:15.634Z"
+generated_at: "2026-03-30T03:40:44.854Z"
 status: "active"
 ---
 

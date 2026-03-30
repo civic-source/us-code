@@ -3,9 +3,9 @@ title: "Section 3434 - Requests for review of determinations by competent invest
 usc_title: 19
 usc_section: "3434"
 chapter: 21
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 3434"
-generated_at: "2026-03-30T03:38:10.973Z"
+generated_at: "2026-03-30T03:40:29.530Z"
 status: "active"
 ---
 

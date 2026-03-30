@@ -3,9 +3,9 @@ title: "Section 2161 - Repealed. Pub. L. 100–399, title I, § 101(a) , Aug. 17
 usc_title: 12
 usc_section: "2161"
 chapter: 23
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2161"
-generated_at: "2026-03-30T03:38:03.924Z"
+generated_at: "2026-03-30T03:40:23.302Z"
 status: "repealed"
 ---
 

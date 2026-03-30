@@ -3,9 +3,9 @@ title: "Section 6805 - Enforcement"
 usc_title: 15
 usc_section: "6805"
 chapter: 94
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 6805"
-generated_at: "2026-03-30T03:38:06.115Z"
+generated_at: "2026-03-30T03:40:16.237Z"
 status: "active"
 ---
 

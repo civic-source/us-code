@@ -3,9 +3,9 @@ title: "Section 151to167 - Omitted"
 usc_title: 27
 usc_section: "151to167"
 chapter: 7
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "27 U.S.C. § 151to167"
-generated_at: "2026-03-30T03:38:25.156Z"
+generated_at: "2026-03-30T03:40:59.150Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5581 - Repealed. Pub. L. 96–513, title III, § 373(c) , Dec. 1
 usc_title: 10
 usc_section: "5581"
 chapter: 539
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 5581"
-generated_at: "2026-03-30T03:37:58.867Z"
+generated_at: "2026-03-30T03:39:59.619Z"
 status: "repealed"
 ---
 

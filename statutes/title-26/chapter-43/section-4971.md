@@ -3,9 +3,9 @@ title: "Section 4971 - Taxes on failure to meet minimum funding standards"
 usc_title: 26
 usc_section: "4971"
 chapter: 43
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4971"
-generated_at: "2026-03-30T03:38:36.131Z"
+generated_at: "2026-03-30T03:41:16.771Z"
 status: "active"
 ---
 

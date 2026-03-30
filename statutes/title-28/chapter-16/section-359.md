@@ -3,9 +3,9 @@ title: "Section 359 - Restrictions"
 usc_title: 28
 usc_section: "359"
 chapter: 16
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 359"
-generated_at: "2026-03-30T03:38:28.760Z"
+generated_at: "2026-03-30T03:41:06.025Z"
 status: "active"
 ---
 

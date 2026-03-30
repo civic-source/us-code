@@ -3,9 +3,9 @@ title: "Section 122 - Certain reduced uniformed services retirement pay"
 usc_title: 26
 usc_section: "122"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 122"
-generated_at: "2026-03-30T03:38:35.875Z"
+generated_at: "2026-03-30T03:41:16.500Z"
 status: "active"
 ---
 

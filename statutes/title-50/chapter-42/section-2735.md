@@ -3,9 +3,9 @@ title: "Section 2735 - Use of probabilistic risk assessment to ensure nuclear sa
 usc_title: 50
 usc_section: "2735"
 chapter: 42
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2735"
-generated_at: "2026-03-30T03:39:13.731Z"
+generated_at: "2026-03-30T03:42:07.801Z"
 status: "active"
 ---
 

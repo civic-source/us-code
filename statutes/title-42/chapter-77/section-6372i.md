@@ -3,9 +3,9 @@ title: "Section 6372i - Records"
 usc_title: 42
 usc_section: "6372i"
 chapter: 77
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6372i"
-generated_at: "2026-03-30T03:39:06.262Z"
+generated_at: "2026-03-30T03:41:56.620Z"
 status: "active"
 ---
 

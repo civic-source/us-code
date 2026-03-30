@@ -3,9 +3,9 @@ title: "Section 430k - Condemnation proceedings; purchase without condemnation; 
 usc_title: 16
 usc_section: "430k"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 430k"
-generated_at: "2026-03-30T03:38:15.591Z"
+generated_at: "2026-03-30T03:40:44.797Z"
 status: "active"
 ---
 

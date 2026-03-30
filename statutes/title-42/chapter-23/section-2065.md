@@ -3,9 +3,9 @@ title: "Section 2065 - Improving the reliability of domestic medical isotope sup
 usc_title: 42
 usc_section: "2065"
 chapter: 23
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2065"
-generated_at: "2026-03-30T03:39:06.095Z"
+generated_at: "2026-03-30T03:41:56.421Z"
 status: "active"
 ---
 

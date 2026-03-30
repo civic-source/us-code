@@ -3,9 +3,9 @@ title: "Section 1544 - Compensation"
 usc_title: 21
 usc_section: "1544"
 chapter: 20
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 1544"
-generated_at: "2026-03-30T03:38:19.582Z"
+generated_at: "2026-03-30T03:40:52.965Z"
 status: "active"
 ---
 

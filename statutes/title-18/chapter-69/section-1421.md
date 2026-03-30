@@ -3,9 +3,9 @@ title: "Section 1421 - Accounts of court officers"
 usc_title: 18
 usc_section: "1421"
 chapter: 69
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 1421"
-generated_at: "2026-03-30T03:38:09.924Z"
+generated_at: "2026-03-30T03:40:28.143Z"
 status: "active"
 ---
 

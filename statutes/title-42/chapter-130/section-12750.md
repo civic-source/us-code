@@ -3,9 +3,9 @@ title: "Section 12750 - Matching requirements"
 usc_title: 42
 usc_section: "12750"
 chapter: 130
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12750"
-generated_at: "2026-03-30T03:39:06.489Z"
+generated_at: "2026-03-30T03:41:56.887Z"
 status: "active"
 ---
 

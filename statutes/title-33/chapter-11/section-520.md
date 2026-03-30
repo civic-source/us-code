@@ -3,9 +3,9 @@ title: "Section 520 - Review of findings and orders"
 usc_title: 33
 usc_section: "520"
 chapter: 11
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 520"
-generated_at: "2026-03-30T03:38:40.664Z"
+generated_at: "2026-03-30T03:41:21.884Z"
 status: "active"
 ---
 

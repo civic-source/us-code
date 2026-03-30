@@ -3,9 +3,9 @@ title: "Section 661 - Equal share distribution of undistributed balance of 1945 
 usc_title: 25
 usc_section: "661"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 661"
-generated_at: "2026-03-30T03:38:23.432Z"
+generated_at: "2026-03-30T03:40:54.142Z"
 status: "active"
 ---
 

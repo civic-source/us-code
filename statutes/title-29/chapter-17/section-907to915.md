@@ -3,9 +3,9 @@ title: "Section 907to915 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "907to915"
 chapter: 17
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 907to915"
-generated_at: "2026-03-30T03:38:27.177Z"
+generated_at: "2026-03-30T03:41:00.961Z"
 status: "repealed"
 ---
 

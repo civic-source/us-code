@@ -3,9 +3,9 @@ title: "Section 7345b - Accountability"
 usc_title: 20
 usc_section: "7345b"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7345b"
-generated_at: "2026-03-30T03:38:12.894Z"
+generated_at: "2026-03-30T03:40:47.938Z"
 status: "active"
 ---
 

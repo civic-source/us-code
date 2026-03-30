@@ -3,9 +3,9 @@ title: "Section 1736bbto1736bb6 - Repealed. Pub. L. 104–127, title II, § 271(
 usc_title: 7
 usc_section: "1736bbto1736bb6"
 chapter: 41
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1736bbto1736bb6"
-generated_at: "2026-03-30T03:37:54.841Z"
+generated_at: "2026-03-30T03:40:07.702Z"
 status: "repealed"
 ---
 

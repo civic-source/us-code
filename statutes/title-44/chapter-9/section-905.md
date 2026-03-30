@@ -3,9 +3,9 @@ title: "Section 905 - Congressional Record: additional insertions"
 usc_title: 44
 usc_section: "905"
 chapter: 9
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 905"
-generated_at: "2026-03-30T03:38:48.350Z"
+generated_at: "2026-03-30T03:41:33.977Z"
 status: "active"
 ---
 

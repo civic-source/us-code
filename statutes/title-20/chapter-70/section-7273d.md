@@ -3,9 +3,9 @@ title: "Section 7273d - Administrative provisions"
 usc_title: 20
 usc_section: "7273d"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7273d"
-generated_at: "2026-03-30T03:38:12.891Z"
+generated_at: "2026-03-30T03:40:47.935Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1041d - Organization of the Tribe; tribal constitution"
 usc_title: 25
 usc_section: "1041d"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1041d"
-generated_at: "2026-03-30T03:38:23.444Z"
+generated_at: "2026-03-30T03:40:54.161Z"
 status: "active"
 ---
 

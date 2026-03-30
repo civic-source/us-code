@@ -3,9 +3,9 @@ title: "Section 5557 - Solar Energy Information Data Bank"
 usc_title: 42
 usc_section: "5557"
 chapter: 71
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5557"
-generated_at: "2026-03-30T03:39:06.224Z"
+generated_at: "2026-03-30T03:41:56.570Z"
 status: "active"
 ---
 

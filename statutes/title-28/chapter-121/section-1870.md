@@ -3,9 +3,9 @@ title: "Section 1870 - Challenges"
 usc_title: 28
 usc_section: "1870"
 chapter: 121
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 1870"
-generated_at: "2026-03-30T03:38:28.787Z"
+generated_at: "2026-03-30T03:41:06.048Z"
 status: "active"
 ---
 

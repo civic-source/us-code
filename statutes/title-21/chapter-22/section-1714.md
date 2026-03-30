@@ -3,9 +3,9 @@ title: "Section 1714 - Awards for demonstration programs by local partnerships t
 usc_title: 21
 usc_section: "1714"
 chapter: 22
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 1714"
-generated_at: "2026-03-30T03:38:19.586Z"
+generated_at: "2026-03-30T03:40:52.970Z"
 status: "active"
 ---
 

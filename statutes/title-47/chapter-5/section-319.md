@@ -3,9 +3,9 @@ title: "Section 319 - Construction permits"
 usc_title: 47
 usc_section: "319"
 chapter: 5
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 319"
-generated_at: "2026-03-30T03:39:11.226Z"
+generated_at: "2026-03-30T03:42:06.674Z"
 status: "active"
 ---
 

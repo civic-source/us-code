@@ -3,9 +3,9 @@ title: "Section 1150 - Applicability of State law to combat fraud and abuse"
 usc_title: 29
 usc_section: "1150"
 chapter: 18
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1150"
-generated_at: "2026-03-30T03:38:27.200Z"
+generated_at: "2026-03-30T03:41:00.983Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 167n - Helium gas resource assessment"
 usc_title: 50
 usc_section: "167n"
 chapter: 10
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 167n"
-generated_at: "2026-03-30T03:39:13.694Z"
+generated_at: "2026-03-30T03:42:07.755Z"
 status: "active"
 ---
 

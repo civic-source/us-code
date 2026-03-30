@@ -3,9 +3,9 @@ title: "Section 3304 - Use of noncompetitive procedures"
 usc_title: 41
 usc_section: "3304"
 chapter: 33
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "41 U.S.C. § 3304"
-generated_at: "2026-03-30T03:38:49.035Z"
+generated_at: "2026-03-30T03:41:31.011Z"
 status: "active"
 ---
 

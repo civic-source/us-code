@@ -3,9 +3,9 @@ title: "Section 15385 - Study and report on electronic voting and the electoral 
 usc_title: 42
 usc_section: "15385"
 chapter: 146
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15385"
-generated_at: "2026-03-30T03:39:06.551Z"
+generated_at: "2026-03-30T03:41:56.987Z"
 status: "active"
 ---
 

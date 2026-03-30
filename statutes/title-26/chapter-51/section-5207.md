@@ -3,9 +3,9 @@ title: "Section 5207 - Records and reports"
 usc_title: 26
 usc_section: "5207"
 chapter: 51
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 5207"
-generated_at: "2026-03-30T03:38:36.145Z"
+generated_at: "2026-03-30T03:41:16.786Z"
 status: "active"
 ---
 

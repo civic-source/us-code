@@ -3,9 +3,9 @@ title: "Section 5982 - Repealed. Pub. L. 96–513, title III, § 361(b) , Dec. 1
 usc_title: 10
 usc_section: "5982"
 chapter: 553
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 5982"
-generated_at: "2026-03-30T03:37:58.867Z"
+generated_at: "2026-03-30T03:39:59.620Z"
 status: "repealed"
 ---
 

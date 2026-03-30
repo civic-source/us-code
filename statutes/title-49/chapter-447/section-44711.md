@@ -3,9 +3,9 @@ title: "Section 44711 - Prohibitions and exemption"
 usc_title: 49
 usc_section: "44711"
 chapter: 447
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 44711"
-generated_at: "2026-03-30T03:39:18.888Z"
+generated_at: "2026-03-30T03:42:14.008Z"
 status: "active"
 ---
 

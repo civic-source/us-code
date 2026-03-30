@@ -3,9 +3,9 @@ title: "Section 9858l - Nondiscrimination"
 usc_title: 42
 usc_section: "9858l"
 chapter: 105
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9858l"
-generated_at: "2026-03-30T03:39:06.412Z"
+generated_at: "2026-03-30T03:41:56.792Z"
 status: "active"
 ---
 

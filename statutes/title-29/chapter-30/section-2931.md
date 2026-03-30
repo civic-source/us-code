@@ -3,9 +3,9 @@ title: "Section 2931 - Requirements and restrictions"
 usc_title: 29
 usc_section: "2931"
 chapter: 30
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 2931"
-generated_at: "2026-03-30T03:38:27.241Z"
+generated_at: "2026-03-30T03:41:01.022Z"
 status: "active"
 ---
 

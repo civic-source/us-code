@@ -3,9 +3,9 @@ title: "Section 1855 - Other requirements and authority"
 usc_title: 16
 usc_section: "1855"
 chapter: 38
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1855"
-generated_at: "2026-03-30T03:38:15.740Z"
+generated_at: "2026-03-30T03:40:44.991Z"
 status: "active"
 ---
 

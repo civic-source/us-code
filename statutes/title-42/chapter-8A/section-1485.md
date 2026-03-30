@@ -3,9 +3,9 @@ title: "Section 1485 - Housing and related facilities for elderly persons and fa
 usc_title: 42
 usc_section: "1485"
 chapter: 8
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1485"
-generated_at: "2026-03-30T03:39:06.022Z"
+generated_at: "2026-03-30T03:41:56.336Z"
 status: "active"
 ---
 

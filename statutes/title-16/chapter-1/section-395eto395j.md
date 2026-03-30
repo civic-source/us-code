@@ -3,9 +3,9 @@ title: "Section 395eto395j - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 
 usc_title: 16
 usc_section: "395eto395j"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 395eto395j"
-generated_at: "2026-03-30T03:38:15.565Z"
+generated_at: "2026-03-30T03:40:44.762Z"
 status: "repealed"
 ---
 

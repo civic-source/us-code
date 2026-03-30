@@ -3,9 +3,9 @@ title: "Section 1118 - Distribution of shares"
 usc_title: 25
 usc_section: "1118"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1118"
-generated_at: "2026-03-30T03:38:23.446Z"
+generated_at: "2026-03-30T03:40:54.162Z"
 status: "active"
 ---
 

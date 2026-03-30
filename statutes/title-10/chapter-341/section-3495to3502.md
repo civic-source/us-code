@@ -3,9 +3,9 @@ title: "Section 3495to3502 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "3495to3502"
 chapter: 341
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 3495to3502"
-generated_at: "2026-03-30T03:37:58.858Z"
+generated_at: "2026-03-30T03:39:59.606Z"
 status: "repealed"
 ---
 

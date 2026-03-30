@@ -3,9 +3,9 @@ title: "Section 3364 - Miscellaneous provisions"
 usc_title: 15
 usc_section: "3364"
 chapter: 60
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 3364"
-generated_at: "2026-03-30T03:38:06.088Z"
+generated_at: "2026-03-30T03:40:16.205Z"
 status: "active"
 ---
 

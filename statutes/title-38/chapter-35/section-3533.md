@@ -3,9 +3,9 @@ title: "Section 3533 - Special assistance for the educationally dis­advantaged"
 usc_title: 38
 usc_section: "3533"
 chapter: 35
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 3533"
-generated_at: "2026-03-30T03:38:46.409Z"
+generated_at: "2026-03-30T03:41:28.431Z"
 status: "active"
 ---
 

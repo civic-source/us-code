@@ -3,9 +3,9 @@ title: "Section 2372 - Authorization of appropriations"
 usc_title: 19
 usc_section: "2372"
 chapter: 12
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2372"
-generated_at: "2026-03-30T03:38:10.955Z"
+generated_at: "2026-03-30T03:40:29.503Z"
 status: "active"
 ---
 

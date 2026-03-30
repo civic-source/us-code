@@ -3,9 +3,9 @@ title: "Section 300e2300e3 - Repealed. Pub. L. 99–660, title VIII, § 803(a) ,
 usc_title: 42
 usc_section: "300e2300e3"
 chapter: 6
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 300e2300e3"
-generated_at: "2026-03-30T03:39:05.679Z"
+generated_at: "2026-03-30T03:41:55.933Z"
 status: "repealed"
 ---
 

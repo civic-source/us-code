@@ -3,9 +3,9 @@ title: "Section 3074 - Commands: territorial organization; engineer tactical uni
 usc_title: 10
 usc_section: "3074"
 chapter: 307
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 3074"
-generated_at: "2026-03-30T03:37:58.857Z"
+generated_at: "2026-03-30T03:39:59.605Z"
 status: "active"
 ---
 

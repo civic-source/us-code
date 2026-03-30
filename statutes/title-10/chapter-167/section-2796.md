@@ -3,9 +3,9 @@ title: "Section 2796 - Renumbered § 455]"
 usc_title: 10
 usc_section: "2796"
 chapter: 167
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2796"
-generated_at: "2026-03-30T03:37:58.850Z"
+generated_at: "2026-03-30T03:39:59.596Z"
 status: "renumbered"
 ---
 

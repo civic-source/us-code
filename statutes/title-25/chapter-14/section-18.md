@@ -3,9 +3,9 @@ title: "Section 18 - Reduction of livestock within joint use area"
 usc_title: 25
 usc_section: "18"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 18"
-generated_at: "2026-03-30T03:38:23.431Z"
+generated_at: "2026-03-30T03:40:54.140Z"
 status: "active"
 ---
 

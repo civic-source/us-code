@@ -3,9 +3,9 @@ title: "Section 2792 - Limitations on use of funds for laboratory directed resea
 usc_title: 50
 usc_section: "2792"
 chapter: 42
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2792"
-generated_at: "2026-03-30T03:39:13.734Z"
+generated_at: "2026-03-30T03:42:07.804Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 460s - Establishment"
 usc_title: 16
 usc_section: "460s"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 460s"
-generated_at: "2026-03-30T03:38:15.608Z"
+generated_at: "2026-03-30T03:40:44.818Z"
 status: "active"
 ---
 

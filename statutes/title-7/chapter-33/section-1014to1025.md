@@ -3,9 +3,9 @@ title: "Section 1014to1025 - Repealed. Pub. L. 87–128, title III, § 341(a) , 
 usc_title: 7
 usc_section: "1014to1025"
 chapter: 33
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1014to1025"
-generated_at: "2026-03-30T03:37:54.812Z"
+generated_at: "2026-03-30T03:40:07.660Z"
 status: "repealed"
 ---
 

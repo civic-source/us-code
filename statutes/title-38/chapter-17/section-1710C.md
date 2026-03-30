@@ -3,9 +3,9 @@ title: "Section 1710C - Traumatic brain injury: plans for rehabilitation and rei
 usc_title: 38
 usc_section: "1710C"
 chapter: 17
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 1710C"
-generated_at: "2026-03-30T03:38:46.378Z"
+generated_at: "2026-03-30T03:41:28.399Z"
 status: "active"
 ---
 

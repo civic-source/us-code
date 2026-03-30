@@ -3,9 +3,9 @@ title: "Section 410d - Acceptance and protection of property pending establishme
 usc_title: 16
 usc_section: "410d"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 410d"
-generated_at: "2026-03-30T03:38:15.569Z"
+generated_at: "2026-03-30T03:40:44.768Z"
 status: "active"
 ---
 

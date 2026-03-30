@@ -3,9 +3,9 @@ title: "Section 80103 - Constitution and bylaws"
 usc_title: 36
 usc_section: "80103"
 chapter: 801
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 80103"
-generated_at: "2026-03-30T03:38:44.291Z"
+generated_at: "2026-03-30T03:41:25.006Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 677f - Employment of legal counsel for mixed-blood members; fees
 usc_title: 25
 usc_section: "677f"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 677f"
-generated_at: "2026-03-30T03:38:23.433Z"
+generated_at: "2026-03-30T03:40:54.143Z"
 status: "active"
 ---
 

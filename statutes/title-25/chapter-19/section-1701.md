@@ -3,9 +3,9 @@ title: "Section 1701 - Congressional findings and declaration of policy"
 usc_title: 25
 usc_section: "1701"
 chapter: 19
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1701"
-generated_at: "2026-03-30T03:38:23.467Z"
+generated_at: "2026-03-30T03:40:54.191Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 221to227 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a
 usc_title: 8
 usc_section: "221to227"
 chapter: 6
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 221to227"
-generated_at: "2026-03-30T03:37:52.039Z"
+generated_at: "2026-03-30T03:39:48.826Z"
 status: "repealed"
 ---
 

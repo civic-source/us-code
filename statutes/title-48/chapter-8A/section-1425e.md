@@ -3,9 +3,9 @@ title: "Section 1425e - Additional powers"
 usc_title: 48
 usc_section: "1425e"
 chapter: 8
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "48 U.S.C. § 1425e"
-generated_at: "2026-03-30T03:39:10.561Z"
+generated_at: "2026-03-30T03:42:09.276Z"
 status: "active"
 ---
 

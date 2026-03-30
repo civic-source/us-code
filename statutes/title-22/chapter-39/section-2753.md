@@ -3,9 +3,9 @@ title: "Section 2753 - Eligibility for defense services or defense articles"
 usc_title: 22
 usc_section: "2753"
 chapter: 39
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2753"
-generated_at: "2026-03-30T03:38:22.255Z"
+generated_at: "2026-03-30T03:40:57.177Z"
 status: "active"
 ---
 

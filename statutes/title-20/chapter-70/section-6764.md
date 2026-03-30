@@ -3,9 +3,9 @@ title: "Section 6764 - Local applications"
 usc_title: 20
 usc_section: "6764"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6764"
-generated_at: "2026-03-30T03:38:12.876Z"
+generated_at: "2026-03-30T03:40:47.915Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8540 - Repealed. Pub. L. 88–647, title III, § 301(23) , Oct. 
 usc_title: 10
 usc_section: "8540"
 chapter: 843
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 8540"
-generated_at: "2026-03-30T03:37:58.881Z"
+generated_at: "2026-03-30T03:39:59.637Z"
 status: "repealed"
 ---
 

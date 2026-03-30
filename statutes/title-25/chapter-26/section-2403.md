@@ -3,9 +3,9 @@ title: "Section 2403 - Definitions"
 usc_title: 25
 usc_section: "2403"
 chapter: 26
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 2403"
-generated_at: "2026-03-30T03:38:23.489Z"
+generated_at: "2026-03-30T03:40:54.217Z"
 status: "active"
 ---
 

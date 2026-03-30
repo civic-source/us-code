@@ -3,9 +3,9 @@ title: "Section 2531 - Repealed. Pub. L. 112–239, div. C, title XXXI, § 3131(
 usc_title: 50
 usc_section: "2531"
 chapter: 42
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2531"
-generated_at: "2026-03-30T03:39:13.726Z"
+generated_at: "2026-03-30T03:42:07.793Z"
 status: "repealed"
 ---
 

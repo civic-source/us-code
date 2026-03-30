@@ -3,9 +3,9 @@ title: "Section 1921d - Supplemental provisions"
 usc_title: 48
 usc_section: "1921d"
 chapter: 18
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "48 U.S.C. § 1921d"
-generated_at: "2026-03-30T03:39:10.575Z"
+generated_at: "2026-03-30T03:42:09.299Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ status: "active"
       - **(vi)** For fiscal year 2004, the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands shall continue to be eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii).
       - **(vii)** The Federated States of Micronesia and the Republic of the Marshall Islands may request technical assistance from the Secretary of Education, the Secretary of Health and Human Services, or the Secretary of Labor the terms of which, including reimbursement, shall be negotiated with the participation of the appropriate cabinet officer for inclusion in the Federal Programs and Services Agreement.
       - **(viii)** The Governments of the Federated States of Micronesia and the Republic of the Marshall Islands shall continue to be eligible for competitive grants administered by the Secretary of Education, the Secretary of Health and Human Services, and the Secretary of Labor to the extent that such grants continue to be available to State and local governments in the United States.
-      - **(ix)** The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009, 1 1 See Continued Applicability of Subsection (f)(1)(B)(ix) notes below. to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
+      - **(ix)** The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009, to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
     - **(C)** The Legal Services Corporation, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions).
     - **(D)** The Public Health Service.
     - **(E)** The Rural Housing Service (formerly, the Farmers Home Administration) in the Marshall Islands and each of the four States of the Federated States of Micronesia: Provided , That in lieu of continuation of the program in the Federated States of Micronesia, the President may agree to transfer to the Government of the Federated States of Micronesia without cost, the portfolio of the Rural Housing Service applicable to the Federated States of Micronesia and provide such technical assistance in management of the portfolio as may be requested by the Federated States of Micronesia.

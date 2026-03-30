@@ -3,9 +3,9 @@ title: "Section 1882to1884 - Repealed. Pub. L. 93–618, title VI, § 602(d) , J
 usc_title: 19
 usc_section: "1882to1884"
 chapter: 7
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1882to1884"
-generated_at: "2026-03-30T03:38:10.946Z"
+generated_at: "2026-03-30T03:40:29.490Z"
 status: "repealed"
 ---
 

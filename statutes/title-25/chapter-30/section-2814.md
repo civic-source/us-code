@@ -3,9 +3,9 @@ title: "Section 2814 - Policies and protocol"
 usc_title: 25
 usc_section: "2814"
 chapter: 30
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 2814"
-generated_at: "2026-03-30T03:38:23.495Z"
+generated_at: "2026-03-30T03:40:54.226Z"
 status: "active"
 ---
 

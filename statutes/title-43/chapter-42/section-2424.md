@@ -3,9 +3,9 @@ title: "Section 2424 - Defaults"
 usc_title: 43
 usc_section: "2424"
 chapter: 42
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 2424"
-generated_at: "2026-03-30T03:38:49.786Z"
+generated_at: "2026-03-30T03:41:33.118Z"
 status: "active"
 ---
 

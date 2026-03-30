@@ -3,9 +3,9 @@ title: "Section 907 - Applicability of other laws"
 usc_title: 20
 usc_section: "907"
 chapter: 25
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 907"
-generated_at: "2026-03-30T03:38:12.750Z"
+generated_at: "2026-03-30T03:40:47.752Z"
 status: "active"
 ---
 

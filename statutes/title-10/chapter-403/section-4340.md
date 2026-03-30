@@ -3,9 +3,9 @@ title: "Section 4340 - Quartermaster"
 usc_title: 10
 usc_section: "4340"
 chapter: 403
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 4340"
-generated_at: "2026-03-30T03:37:58.860Z"
+generated_at: "2026-03-30T03:39:59.610Z"
 status: "active"
 ---
 

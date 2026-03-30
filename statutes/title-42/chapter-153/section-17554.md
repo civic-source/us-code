@@ -3,9 +3,9 @@ title: "Section 17554 - Study of effectiveness of depot naltrexone for heroin ad
 usc_title: 42
 usc_section: "17554"
 chapter: 153
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 17554"
-generated_at: "2026-03-30T03:39:06.603Z"
+generated_at: "2026-03-30T03:41:57.060Z"
 status: "active"
 ---
 

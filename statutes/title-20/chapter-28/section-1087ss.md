@@ -3,9 +3,9 @@ title: "Section 1087ss - Simplified needs test"
 usc_title: 20
 usc_section: "1087ss"
 chapter: 28
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1087ss"
-generated_at: "2026-03-30T03:38:12.794Z"
+generated_at: "2026-03-30T03:40:47.809Z"
 status: "active"
 ---
 

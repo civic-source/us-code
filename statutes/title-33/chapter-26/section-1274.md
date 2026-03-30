@@ -3,9 +3,9 @@ title: "Section 1274 - Wet weather watershed pilot projects"
 usc_title: 33
 usc_section: "1274"
 chapter: 26
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1274"
-generated_at: "2026-03-30T03:38:40.702Z"
+generated_at: "2026-03-30T03:41:21.923Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4416 - Staff of Institute"
 usc_title: 20
 usc_section: "4416"
 chapter: 56
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 4416"
-generated_at: "2026-03-30T03:38:12.850Z"
+generated_at: "2026-03-30T03:40:47.881Z"
 status: "active"
 ---
 

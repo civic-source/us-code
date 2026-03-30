@@ -3,9 +3,9 @@ title: "Section 2501 - Findings"
 usc_title: 33
 usc_section: "2501"
 chapter: 38
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2501"
-generated_at: "2026-03-30T03:38:40.745Z"
+generated_at: "2026-03-30T03:41:21.974Z"
 status: "active"
 ---
 

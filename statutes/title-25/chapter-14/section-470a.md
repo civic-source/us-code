@@ -3,9 +3,9 @@ title: "Section 470a - Interest charges covered into revolving fund"
 usc_title: 25
 usc_section: "470a"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 470a"
-generated_at: "2026-03-30T03:38:23.422Z"
+generated_at: "2026-03-30T03:40:54.129Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1760 - Separability"
 usc_title: 25
 usc_section: "1760"
 chapter: 19
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1760"
-generated_at: "2026-03-30T03:38:23.470Z"
+generated_at: "2026-03-30T03:40:54.194Z"
 status: "active"
 ---
 

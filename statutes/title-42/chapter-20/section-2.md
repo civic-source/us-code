@@ -3,9 +3,9 @@ title: "Section 2 - National procedures for voter registration for elections for
 usc_title: 42
 usc_section: "2"
 chapter: 20
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T03:39:06.075Z"
+generated_at: "2026-03-30T03:41:56.399Z"
 status: "active"
 ---
 

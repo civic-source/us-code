@@ -3,9 +3,9 @@ title: "Section 145 - Navy Department"
 usc_title: 14
 usc_section: "145"
 chapter: 7
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "14 U.S.C. § 145"
-generated_at: "2026-03-30T03:38:00.897Z"
+generated_at: "2026-03-30T03:40:16.656Z"
 status: "active"
 ---
 

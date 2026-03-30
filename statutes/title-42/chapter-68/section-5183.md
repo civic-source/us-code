@@ -3,9 +3,9 @@ title: "Section 5183 - Crisis counseling assistance and training"
 usc_title: 42
 usc_section: "5183"
 chapter: 68
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5183"
-generated_at: "2026-03-30T03:39:06.211Z"
+generated_at: "2026-03-30T03:41:56.554Z"
 status: "active"
 ---
 

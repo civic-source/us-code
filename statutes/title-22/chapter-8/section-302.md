@@ -3,9 +3,9 @@ title: "Section 302 - Award of contracts"
 usc_title: 22
 usc_section: "302"
 chapter: 8
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 302"
-generated_at: "2026-03-30T03:38:22.202Z"
+generated_at: "2026-03-30T03:40:57.102Z"
 status: "active"
 ---
 

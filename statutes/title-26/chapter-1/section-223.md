@@ -3,9 +3,9 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-30T03:38:35.915Z"
+generated_at: "2026-03-30T03:41:16.541Z"
 status: "active"
 ---
 

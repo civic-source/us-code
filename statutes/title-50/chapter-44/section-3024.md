@@ -3,9 +3,9 @@ title: "Section 3024 - Responsibilities and authorities of the Director of Natio
 usc_title: 50
 usc_section: "3024"
 chapter: 44
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 3024"
-generated_at: "2026-03-30T03:39:13.736Z"
+generated_at: "2026-03-30T03:42:07.806Z"
 status: "active"
 ---
 

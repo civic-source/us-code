@@ -3,9 +3,9 @@ title: "Section 2397to2397c - Repealed. Pub. L. 104–106, div. D, title XLIII, 
 usc_title: 10
 usc_section: "2397to2397c"
 chapter: 141
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2397to2397c"
-generated_at: "2026-03-30T03:37:58.832Z"
+generated_at: "2026-03-30T03:39:59.570Z"
 status: "repealed"
 ---
 

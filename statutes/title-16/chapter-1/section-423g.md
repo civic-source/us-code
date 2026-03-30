@@ -3,9 +3,9 @@ title: "Section 423g - Rules and regulations"
 usc_title: 16
 usc_section: "423g"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 423g"
-generated_at: "2026-03-30T03:38:15.586Z"
+generated_at: "2026-03-30T03:40:44.790Z"
 status: "active"
 ---
 

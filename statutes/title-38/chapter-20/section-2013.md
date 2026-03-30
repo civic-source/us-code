@@ -3,9 +3,9 @@ title: "Section 2013 - Authorization of appropriations"
 usc_title: 38
 usc_section: "2013"
 chapter: 20
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 2013"
-generated_at: "2026-03-30T03:38:46.390Z"
+generated_at: "2026-03-30T03:41:28.412Z"
 status: "active"
 ---
 

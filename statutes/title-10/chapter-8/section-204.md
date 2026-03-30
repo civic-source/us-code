@@ -3,9 +3,9 @@ title: "Section 204 - Small Business Ombudsman for defense audit agencies"
 usc_title: 10
 usc_section: "204"
 chapter: 8
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 204"
-generated_at: "2026-03-30T03:37:58.753Z"
+generated_at: "2026-03-30T03:39:59.467Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2491to2494 - Repealed. Pub. L. 91–230, title VI, § 662(1) , A
 usc_title: 42
 usc_section: "2491to2494"
 chapter: 27
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2491to2494"
-generated_at: "2026-03-30T03:39:06.117Z"
+generated_at: "2026-03-30T03:41:56.446Z"
 status: "repealed"
 ---
 

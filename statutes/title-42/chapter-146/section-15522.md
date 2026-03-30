@@ -3,9 +3,9 @@ title: "Section 15522 - Activities under Program"
 usc_title: 42
 usc_section: "15522"
 chapter: 146
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15522"
-generated_at: "2026-03-30T03:39:06.554Z"
+generated_at: "2026-03-30T03:41:56.991Z"
 status: "active"
 ---
 

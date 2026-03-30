@@ -3,9 +3,9 @@ title: "Section 2410 - Requests for equitable adjustment or other relief: certif
 usc_title: 10
 usc_section: "2410"
 chapter: 141
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2410"
-generated_at: "2026-03-30T03:37:58.833Z"
+generated_at: "2026-03-30T03:39:59.571Z"
 status: "active"
 ---
 

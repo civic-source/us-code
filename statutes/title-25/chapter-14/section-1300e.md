@@ -3,9 +3,9 @@ title: "Section 1300e - Disposition of funds; percentage basis for division; att
 usc_title: 25
 usc_section: "1300e"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1300e"
-generated_at: "2026-03-30T03:38:23.449Z"
+generated_at: "2026-03-30T03:40:54.167Z"
 status: "active"
 ---
 

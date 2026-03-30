@@ -3,9 +3,9 @@ title: "Section 1 - Standards of need as basis for general assistance payments b
 usc_title: 25
 usc_section: "1"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T03:38:23.402Z"
+generated_at: "2026-03-30T03:40:54.103Z"
 status: "active"
 ---
 

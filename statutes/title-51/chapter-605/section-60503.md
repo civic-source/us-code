@@ -3,9 +3,9 @@ title: "Section 60503 - Reauthorization of Glory Mission"
 usc_title: 51
 usc_section: "60503"
 chapter: 605
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "51 U.S.C. § 60503"
-generated_at: "2026-03-30T03:39:20.943Z"
+generated_at: "2026-03-30T03:42:16.643Z"
 status: "active"
 ---
 

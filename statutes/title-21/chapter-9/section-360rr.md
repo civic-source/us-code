@@ -3,9 +3,9 @@ title: "Section 360rr - Federal-State cooperation"
 usc_title: 21
 usc_section: "360rr"
 chapter: 9
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 360rr"
-generated_at: "2026-03-30T03:38:19.541Z"
+generated_at: "2026-03-30T03:40:52.910Z"
 status: "active"
 ---
 

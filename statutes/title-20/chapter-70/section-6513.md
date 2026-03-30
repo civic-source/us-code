@@ -3,9 +3,9 @@ title: "Section 6513 - State applications"
 usc_title: 20
 usc_section: "6513"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6513"
-generated_at: "2026-03-30T03:38:12.871Z"
+generated_at: "2026-03-30T03:40:47.907Z"
 status: "active"
 ---
 

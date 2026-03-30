@@ -3,9 +3,9 @@ title: "Section 3543 - Authority and functions of the Director"
 usc_title: 44
 usc_section: "3543"
 chapter: 35
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 3543"
-generated_at: "2026-03-30T03:38:48.360Z"
+generated_at: "2026-03-30T03:41:33.990Z"
 status: "active"
 ---
 

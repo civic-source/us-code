@@ -3,9 +3,9 @@ title: "Section 5121A - Substitution in case of death of claimant"
 usc_title: 38
 usc_section: "5121A"
 chapter: 51
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 5121A"
-generated_at: "2026-03-30T03:38:46.423Z"
+generated_at: "2026-03-30T03:41:28.450Z"
 status: "active"
 ---
 

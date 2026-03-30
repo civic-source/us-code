@@ -3,9 +3,9 @@ title: "Section 593 - Duties of the division of the court"
 usc_title: 28
 usc_section: "593"
 chapter: 40
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 593"
-generated_at: "2026-03-30T03:38:28.770Z"
+generated_at: "2026-03-30T03:41:06.032Z"
 status: "active"
 ---
 

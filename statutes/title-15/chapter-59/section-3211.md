@@ -3,9 +3,9 @@ title: "Section 3211 - Relationship to other authority"
 usc_title: 15
 usc_section: "3211"
 chapter: 59
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 3211"
-generated_at: "2026-03-30T03:38:06.087Z"
+generated_at: "2026-03-30T03:40:16.204Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1487 - Effective date"
 usc_title: 33
 usc_section: "1487"
 chapter: 28
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1487"
-generated_at: "2026-03-30T03:38:40.728Z"
+generated_at: "2026-03-30T03:41:21.952Z"
 status: "active"
 ---
 

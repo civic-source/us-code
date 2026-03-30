@@ -3,9 +3,9 @@ title: "Section 460gg - Establishment"
 usc_title: 16
 usc_section: "460gg"
 chapter: 1
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 460gg"
-generated_at: "2026-03-30T03:38:15.615Z"
+generated_at: "2026-03-30T03:40:44.828Z"
 status: "active"
 ---
 

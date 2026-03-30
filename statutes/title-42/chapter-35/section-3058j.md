@@ -3,9 +3,9 @@ title: "Section 3058j - State legal assistance development"
 usc_title: 42
 usc_section: "3058j"
 chapter: 35
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3058j"
-generated_at: "2026-03-30T03:39:06.140Z"
+generated_at: "2026-03-30T03:41:56.472Z"
 status: "active"
 ---
 

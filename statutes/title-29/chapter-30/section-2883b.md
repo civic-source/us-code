@@ -3,9 +3,9 @@ title: "Section 2883b - Transfer of administration of Job Corps program to Emplo
 usc_title: 29
 usc_section: "2883b"
 chapter: 30
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 2883b"
-generated_at: "2026-03-30T03:38:27.235Z"
+generated_at: "2026-03-30T03:41:01.016Z"
 status: "active"
 ---
 

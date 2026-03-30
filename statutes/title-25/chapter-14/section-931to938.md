@@ -3,9 +3,9 @@ title: "Section 931to938 - Repealed. Pub. L. 103–116, § 4(c) , Oct. 27, 1993 
 usc_title: 25
 usc_section: "931to938"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 931to938"
-generated_at: "2026-03-30T03:38:23.441Z"
+generated_at: "2026-03-30T03:40:54.155Z"
 status: "repealed"
 ---
 

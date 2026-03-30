@@ -3,9 +3,9 @@ title: "Section 1681q - Obtaining information under false pretenses"
 usc_title: 15
 usc_section: "1681q"
 chapter: 41
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1681q"
-generated_at: "2026-03-30T03:38:06.052Z"
+generated_at: "2026-03-30T03:40:16.160Z"
 status: "active"
 ---
 

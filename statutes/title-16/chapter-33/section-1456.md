@@ -3,9 +3,9 @@ title: "Section 1456 - Coordination and cooperation"
 usc_title: 16
 usc_section: "1456"
 chapter: 33
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1456"
-generated_at: "2026-03-30T03:38:15.727Z"
+generated_at: "2026-03-30T03:40:44.973Z"
 status: "active"
 ---
 

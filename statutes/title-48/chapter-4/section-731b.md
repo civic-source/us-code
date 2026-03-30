@@ -3,9 +3,9 @@ title: "Section 731b - Organization of a government pursuant to a constitution"
 usc_title: 48
 usc_section: "731b"
 chapter: 4
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "48 U.S.C. § 731b"
-generated_at: "2026-03-30T03:39:10.552Z"
+generated_at: "2026-03-30T03:42:09.266Z"
 status: "active"
 ---
 

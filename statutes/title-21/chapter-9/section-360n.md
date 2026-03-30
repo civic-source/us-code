@@ -3,9 +3,9 @@ title: "Section 360n - Priority review to encourage treatments for tropical dise
 usc_title: 21
 usc_section: "360n"
 chapter: 9
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 360n"
-generated_at: "2026-03-30T03:38:19.539Z"
+generated_at: "2026-03-30T03:40:52.908Z"
 status: "active"
 ---
 

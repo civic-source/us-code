@@ -3,9 +3,9 @@ title: "Section 2624 - Studies"
 usc_title: 15
 usc_section: "2624"
 chapter: 53
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2624"
-generated_at: "2026-03-30T03:38:06.078Z"
+generated_at: "2026-03-30T03:40:16.192Z"
 status: "active"
 ---
 

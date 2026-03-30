@@ -3,9 +3,9 @@ title: "Section 2864 - Use of funds for employment and training activities"
 usc_title: 29
 usc_section: "2864"
 chapter: 30
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 2864"
-generated_at: "2026-03-30T03:38:27.233Z"
+generated_at: "2026-03-30T03:41:01.014Z"
 status: "active"
 ---
 

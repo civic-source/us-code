@@ -3,9 +3,9 @@ title: "Section 2209j - Permanent debarment from participation in Department of 
 usc_title: 7
 usc_section: "2209j"
 chapter: 55
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2209j"
-generated_at: "2026-03-30T03:37:54.872Z"
+generated_at: "2026-03-30T03:40:07.747Z"
 status: "active"
 ---
 

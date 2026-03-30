@@ -3,9 +3,9 @@ title: "Section 7137 - School Security Technology and Resource Center"
 usc_title: 20
 usc_section: "7137"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7137"
-generated_at: "2026-03-30T03:38:12.882Z"
+generated_at: "2026-03-30T03:40:47.923Z"
 status: "active"
 ---
 

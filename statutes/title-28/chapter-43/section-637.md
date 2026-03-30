@@ -3,9 +3,9 @@ title: "Section 637 - Training"
 usc_title: 28
 usc_section: "637"
 chapter: 43
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 637"
-generated_at: "2026-03-30T03:38:28.773Z"
+generated_at: "2026-03-30T03:41:06.036Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2525 - Annual assessments and reports to the President and Congr
 usc_title: 50
 usc_section: "2525"
 chapter: 42
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2525"
-generated_at: "2026-03-30T03:39:13.726Z"
+generated_at: "2026-03-30T03:42:07.792Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4221 - Review of African elephant conservation programs"
 usc_title: 16
 usc_section: "4221"
 chapter: 62
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 4221"
-generated_at: "2026-03-30T03:38:15.775Z"
+generated_at: "2026-03-30T03:40:45.039Z"
 status: "active"
 ---
 

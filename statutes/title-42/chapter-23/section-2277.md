@@ -3,9 +3,9 @@ title: "Section 2277 - Disclosure of Restricted Data"
 usc_title: 42
 usc_section: "2277"
 chapter: 23
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2277"
-generated_at: "2026-03-30T03:39:06.109Z"
+generated_at: "2026-03-30T03:41:56.436Z"
 status: "active"
 ---
 

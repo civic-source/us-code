@@ -3,9 +3,9 @@ title: "Section 3073 - Advisory committees; appointment; compensation of part-ti
 usc_title: 50
 usc_section: "3073"
 chapter: 44
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 3073"
-generated_at: "2026-03-30T03:39:13.741Z"
+generated_at: "2026-03-30T03:42:07.815Z"
 status: "active"
 ---
 

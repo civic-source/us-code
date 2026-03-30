@@ -3,9 +3,9 @@ title: "Section 7217d - Definitions"
 usc_title: 20
 usc_section: "7217d"
 chapter: 70
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7217d"
-generated_at: "2026-03-30T03:38:12.885Z"
+generated_at: "2026-03-30T03:40:47.927Z"
 status: "active"
 ---
 

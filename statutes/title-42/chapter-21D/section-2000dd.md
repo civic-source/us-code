@@ -3,9 +3,9 @@ title: "Section 2000dd - Prohibition on cruel, inhuman, or degrading treatment o
 usc_title: 42
 usc_section: "2000dd"
 chapter: 21
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2000dd"
-generated_at: "2026-03-30T03:39:06.086Z"
+generated_at: "2026-03-30T03:41:56.411Z"
 status: "active"
 ---
 

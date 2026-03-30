@@ -3,9 +3,9 @@ title: "Section 30108 - Principal office"
 usc_title: 36
 usc_section: "30108"
 chapter: 301
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 30108"
-generated_at: "2026-03-30T03:38:44.285Z"
+generated_at: "2026-03-30T03:41:24.999Z"
 status: "active"
 ---
 

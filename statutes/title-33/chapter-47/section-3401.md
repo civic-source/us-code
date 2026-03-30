@@ -3,9 +3,9 @@ title: "Section 3401 - Purpose"
 usc_title: 33
 usc_section: "3401"
 chapter: 47
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 3401"
-generated_at: "2026-03-30T03:38:40.757Z"
+generated_at: "2026-03-30T03:41:21.988Z"
 status: "active"
 ---
 

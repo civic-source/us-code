@@ -3,9 +3,9 @@ title: "Section 17095 - Cost-effective technology acceleration program"
 usc_title: 42
 usc_section: "17095"
 chapter: 152
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 17095"
-generated_at: "2026-03-30T03:39:06.590Z"
+generated_at: "2026-03-30T03:41:57.043Z"
 status: "active"
 ---
 

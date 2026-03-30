@@ -3,9 +3,9 @@ title: "Section 1099 - Health care enrollment system"
 usc_title: 10
 usc_section: "1099"
 chapter: 55
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1099"
-generated_at: "2026-03-30T03:37:58.789Z"
+generated_at: "2026-03-30T03:39:59.512Z"
 status: "active"
 ---
 

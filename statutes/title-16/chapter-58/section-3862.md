@@ -3,9 +3,9 @@ title: "Section 3862 - Responsibilities"
 usc_title: 16
 usc_section: "3862"
 chapter: 58
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 3862"
-generated_at: "2026-03-30T03:38:15.772Z"
+generated_at: "2026-03-30T03:40:45.035Z"
 status: "active"
 ---
 

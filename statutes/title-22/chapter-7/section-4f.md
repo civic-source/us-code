@@ -3,9 +3,9 @@ title: "Section 4f - Assistance to countries to develop statistical assessment o
 usc_title: 22
 usc_section: "4f"
 chapter: 7
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 4f"
-generated_at: "2026-03-30T03:38:22.183Z"
+generated_at: "2026-03-30T03:40:57.076Z"
 status: "active"
 ---
 

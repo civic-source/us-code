@@ -3,9 +3,9 @@ title: "Section 16927 - Election by Indian tribes"
 usc_title: 42
 usc_section: "16927"
 chapter: 151
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16927"
-generated_at: "2026-03-30T03:39:06.585Z"
+generated_at: "2026-03-30T03:41:57.036Z"
 status: "active"
 ---
 

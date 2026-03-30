@@ -3,9 +3,9 @@ title: "Section 7458 - Hearings"
 usc_title: 26
 usc_section: "7458"
 chapter: 76
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7458"
-generated_at: "2026-03-30T03:38:36.213Z"
+generated_at: "2026-03-30T03:41:16.865Z"
 status: "active"
 ---
 

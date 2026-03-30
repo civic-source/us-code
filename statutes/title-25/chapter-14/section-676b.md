@@ -3,9 +3,9 @@ title: "Section 676b - Distribution of judgment fund; deductions; availability f
 usc_title: 25
 usc_section: "676b"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 676b"
-generated_at: "2026-03-30T03:38:23.432Z"
+generated_at: "2026-03-30T03:40:54.143Z"
 status: "active"
 ---
 

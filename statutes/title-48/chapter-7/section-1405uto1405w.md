@@ -3,9 +3,9 @@ title: "Section 1405uto1405w - Repealed. Pub. L. 97–357, title III, § 307 , O
 usc_title: 48
 usc_section: "1405uto1405w"
 chapter: 7
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "48 U.S.C. § 1405uto1405w"
-generated_at: "2026-03-30T03:39:10.557Z"
+generated_at: "2026-03-30T03:42:09.271Z"
 status: "repealed"
 ---
 

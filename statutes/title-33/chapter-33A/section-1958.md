@@ -3,9 +3,9 @@ title: "Section 1958 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1958"
 chapter: 33
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1958"
-generated_at: "2026-03-30T03:38:40.733Z"
+generated_at: "2026-03-30T03:41:21.960Z"
 status: "active"
 ---
 

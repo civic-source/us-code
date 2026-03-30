@@ -3,9 +3,9 @@ title: "Section 5024 - Naval Research Advisory Committee"
 usc_title: 10
 usc_section: "5024"
 chapter: 503
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 5024"
-generated_at: "2026-03-30T03:37:58.865Z"
+generated_at: "2026-03-30T03:39:59.616Z"
 status: "active"
 ---
 

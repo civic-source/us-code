@@ -3,9 +3,9 @@ title: "Section 610b - Title to lands; tax exemption; prohibition of restriction
 usc_title: 25
 usc_section: "610b"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 610b"
-generated_at: "2026-03-30T03:38:23.428Z"
+generated_at: "2026-03-30T03:40:54.137Z"
 status: "active"
 ---
 

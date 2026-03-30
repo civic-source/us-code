@@ -3,9 +3,9 @@ title: "Section 564r - Termination of Federal powers over tribe"
 usc_title: 25
 usc_section: "564r"
 chapter: 14
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 564r"
-generated_at: "2026-03-30T03:38:23.426Z"
+generated_at: "2026-03-30T03:40:54.134Z"
 status: "active"
 ---
 

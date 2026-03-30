@@ -3,9 +3,9 @@ title: "Section 9006 - Payments to eligible candidates"
 usc_title: 26
 usc_section: "9006"
 chapter: 95
-current_through: "PL 113-99"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 9006"
-generated_at: "2026-03-30T03:38:36.230Z"
+generated_at: "2026-03-30T03:41:16.885Z"
 status: "active"
 ---
 
