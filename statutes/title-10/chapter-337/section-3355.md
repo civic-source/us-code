@@ -3,9 +3,9 @@ title: "Section 3355 - Repealed. Pub. L. 88–647, title III , § 301(5), Oct. 1
 usc_title: 10
 usc_section: "3355"
 chapter: 337
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 3355"
-generated_at: "2026-03-30T06:32:27.100Z"
+generated_at: "2026-03-30T06:36:17.797Z"
 status: "repealed"
 ---
 

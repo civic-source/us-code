@@ -3,9 +3,9 @@ title: "Section 1 - Allocation of recovery zone bonds"
 usc_title: 26
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 1"
-generated_at: "2026-03-30T06:34:25.235Z"
+generated_at: "2026-03-30T06:37:05.579Z"
 status: "active"
 ---
 

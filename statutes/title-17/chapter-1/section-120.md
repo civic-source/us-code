@@ -3,9 +3,9 @@ title: "Section 120 - Scope of exclusive rights in architectural works"
 usc_title: 17
 usc_section: "120"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "17 U.S.C. § 120"
-generated_at: "2026-03-30T06:32:45.978Z"
+generated_at: "2026-03-30T06:36:38.489Z"
 status: "active"
 ---
 

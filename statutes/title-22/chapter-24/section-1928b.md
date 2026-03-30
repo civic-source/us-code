@@ -3,9 +3,9 @@ title: "Section 1928b - Authorization of appropriations"
 usc_title: 22
 usc_section: "1928b"
 chapter: 24
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 1928b"
-generated_at: "2026-03-30T06:34:00.513Z"
+generated_at: "2026-03-30T06:36:52.869Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2208 - National Fire Data Center"
 usc_title: 15
 usc_section: "2208"
 chapter: 49
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "15 U.S.C. § 2208"
-generated_at: "2026-03-30T06:32:44.045Z"
+generated_at: "2026-03-30T06:36:27.111Z"
 status: "active"
 ---
 

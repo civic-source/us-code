@@ -3,9 +3,9 @@ title: "Section 77x - Penalties"
 usc_title: 15
 usc_section: "77x"
 chapter: 2
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "15 U.S.C. § 77x"
-generated_at: "2026-03-30T06:32:43.929Z"
+generated_at: "2026-03-30T06:36:26.995Z"
 status: "active"
 ---
 

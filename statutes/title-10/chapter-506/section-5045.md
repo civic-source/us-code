@@ -3,9 +3,9 @@ title: "Section 5045 - Deputy Commandants"
 usc_title: 10
 usc_section: "5045"
 chapter: 506
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 5045"
-generated_at: "2026-03-30T06:32:27.107Z"
+generated_at: "2026-03-30T06:36:17.804Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3783 - Disposition of property of United States"
 usc_title: 22
 usc_section: "3783"
 chapter: 51
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 3783"
-generated_at: "2026-03-30T06:34:00.562Z"
+generated_at: "2026-03-30T06:36:52.917Z"
 status: "active"
 ---
 

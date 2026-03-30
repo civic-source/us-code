@@ -3,9 +3,9 @@ title: "Section 10633 - State, Tribal, and local reentry courts"
 usc_title: 34
 usc_section: "10633"
 chapter: 101
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "34 U.S.C. § 10633"
-generated_at: "2026-03-30T06:34:28.622Z"
+generated_at: "2026-03-30T06:37:08.128Z"
 status: "active"
 ---
 

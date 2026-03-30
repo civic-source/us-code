@@ -3,9 +3,9 @@ title: "Section 423i - Omitted"
 usc_title: 16
 usc_section: "423i"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 423i"
-generated_at: "2026-03-30T06:33:07.659Z"
+generated_at: "2026-03-30T06:36:34.717Z"
 status: "omitted"
 ---
 

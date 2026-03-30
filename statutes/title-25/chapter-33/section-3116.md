@@ -3,9 +3,9 @@ title: "Section 3116 - Obligated service; breach of contract"
 usc_title: 25
 usc_section: "3116"
 chapter: 33
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "25 U.S.C. § 3116"
-generated_at: "2026-03-30T06:33:40.460Z"
+generated_at: "2026-03-30T06:36:41.782Z"
 status: "active"
 ---
 

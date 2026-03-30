@@ -3,9 +3,9 @@ title: "Section 38 - Stipends and scholarship conditions"
 usc_title: 20
 usc_section: "38"
 chapter: 28
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "20 U.S.C. § 38"
-generated_at: "2026-03-30T06:32:57.308Z"
+generated_at: "2026-03-30T06:36:38.123Z"
 status: "active"
 ---
 

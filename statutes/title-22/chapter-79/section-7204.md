@@ -3,9 +3,9 @@ title: "Section 7204 - Termination of sanctions"
 usc_title: 22
 usc_section: "7204"
 chapter: 79
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 7204"
-generated_at: "2026-03-30T06:34:00.600Z"
+generated_at: "2026-03-30T06:36:52.952Z"
 status: "active"
 ---
 

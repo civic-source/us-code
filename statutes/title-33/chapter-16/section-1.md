@@ -3,9 +3,9 @@ title: "Section 1 - Retirement, exceptions for age and period of service"
 usc_title: 33
 usc_section: "1"
 chapter: 16
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T06:34:36.635Z"
+generated_at: "2026-03-30T06:37:11.903Z"
 status: "active"
 ---
 

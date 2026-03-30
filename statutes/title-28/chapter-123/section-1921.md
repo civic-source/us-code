@@ -3,9 +3,9 @@ title: "Section 1921 - United States marshal’s fees"
 usc_title: 28
 usc_section: "1921"
 chapter: 123
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "28 U.S.C. § 1921"
-generated_at: "2026-03-30T06:34:12.389Z"
+generated_at: "2026-03-30T06:36:59.120Z"
 status: "active"
 ---
 

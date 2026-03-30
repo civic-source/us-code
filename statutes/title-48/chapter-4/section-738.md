@@ -3,9 +3,9 @@ title: "Section 738 - Free interchange of merchandise with United States"
 usc_title: 48
 usc_section: "738"
 chapter: 4
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "48 U.S.C. § 738"
-generated_at: "2026-03-30T06:35:28.020Z"
+generated_at: "2026-03-30T06:37:38.001Z"
 status: "active"
 ---
 

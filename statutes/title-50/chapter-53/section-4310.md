@@ -3,9 +3,9 @@ title: "Section 4310 - Acts permitted; applications for patents, or registration
 usc_title: 50
 usc_section: "4310"
 chapter: 53
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "50 U.S.C. § 4310"
-generated_at: "2026-03-30T06:35:36.752Z"
+generated_at: "2026-03-30T06:37:40.101Z"
 status: "active"
 ---
 

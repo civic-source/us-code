@@ -3,9 +3,9 @@ title: "Section 97 - Proposals or bids for contracts to be preserved"
 usc_title: 25
 usc_section: "97"
 chapter: 4
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "25 U.S.C. § 97"
-generated_at: "2026-03-30T06:33:40.411Z"
+generated_at: "2026-03-30T06:36:41.739Z"
 status: "active"
 ---
 

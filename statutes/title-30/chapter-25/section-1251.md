@@ -3,9 +3,9 @@ title: "Section 1251 - Environmental protection standards"
 usc_title: 30
 usc_section: "1251"
 chapter: 25
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "30 U.S.C. § 1251"
-generated_at: "2026-03-30T06:34:04.591Z"
+generated_at: "2026-03-30T06:36:57.579Z"
 status: "active"
 ---
 

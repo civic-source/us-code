@@ -3,9 +3,9 @@ title: "Section 433l - Erection of monuments and tablets"
 usc_title: 16
 usc_section: "433l"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 433l"
-generated_at: "2026-03-30T06:33:07.664Z"
+generated_at: "2026-03-30T06:36:34.723Z"
 status: "active"
 ---
 

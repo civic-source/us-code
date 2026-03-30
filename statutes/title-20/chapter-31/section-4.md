@@ -3,9 +3,9 @@ title: "Section 4 - Educational impact statement"
 usc_title: 20
 usc_section: "4"
 chapter: 31
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-30T06:32:57.346Z"
+generated_at: "2026-03-30T06:36:38.162Z"
 status: "active"
 ---
 

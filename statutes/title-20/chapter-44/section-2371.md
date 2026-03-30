@@ -3,9 +3,9 @@ title: "Section 2371 - State allotment and application"
 usc_title: 20
 usc_section: "2371"
 chapter: 44
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "20 U.S.C. § 2371"
-generated_at: "2026-03-30T06:32:57.364Z"
+generated_at: "2026-03-30T06:36:38.180Z"
 status: "active"
 ---
 

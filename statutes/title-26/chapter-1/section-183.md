@@ -3,9 +3,9 @@ title: "Section 183 - Activities not engaged in for profit"
 usc_title: 26
 usc_section: "183"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 183"
-generated_at: "2026-03-30T06:34:25.131Z"
+generated_at: "2026-03-30T06:37:05.473Z"
 status: "active"
 ---
 

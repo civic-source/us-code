@@ -3,9 +3,9 @@ title: "Section 4049 - Death in service"
 usc_title: 22
 usc_section: "4049"
 chapter: 52
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 4049"
-generated_at: "2026-03-30T06:34:00.567Z"
+generated_at: "2026-03-30T06:36:52.921Z"
 status: "active"
 ---
 

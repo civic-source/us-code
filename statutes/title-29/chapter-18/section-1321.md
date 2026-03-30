@@ -3,9 +3,9 @@ title: "Section 1321 - Coverage"
 usc_title: 29
 usc_section: "1321"
 chapter: 18
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "29 U.S.C. § 1321"
-generated_at: "2026-03-30T06:34:08.683Z"
+generated_at: "2026-03-30T06:36:59.947Z"
 status: "active"
 ---
 

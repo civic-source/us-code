@@ -3,9 +3,9 @@ title: "Section 3510 - Authorization of appropriations"
 usc_title: 22
 usc_section: "3510"
 chapter: 50
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 3510"
-generated_at: "2026-03-30T06:34:00.559Z"
+generated_at: "2026-03-30T06:36:52.913Z"
 status: "active"
 ---
 

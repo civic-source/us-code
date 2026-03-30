@@ -3,9 +3,9 @@ title: "Section 8704 - Alien deemed to be employed in the United States"
 usc_title: 46
 usc_section: "8704"
 chapter: 87
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "46 U.S.C. § 8704"
-generated_at: "2026-03-30T06:35:28.655Z"
+generated_at: "2026-03-30T06:37:35.144Z"
 status: "active"
 ---
 

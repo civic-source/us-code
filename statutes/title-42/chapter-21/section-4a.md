@@ -3,9 +3,9 @@ title: "Section 4a - “Program or activity” and “program” defined"
 usc_title: 42
 usc_section: "4a"
 chapter: 21
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-30T06:35:24.877Z"
+generated_at: "2026-03-30T06:37:31.347Z"
 status: "active"
 ---
 

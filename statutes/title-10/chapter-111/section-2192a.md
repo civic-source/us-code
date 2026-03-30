@@ -3,9 +3,9 @@ title: "Section 2192a - Science, Mathematics, and Research for Transformation (S
 usc_title: 10
 usc_section: "2192a"
 chapter: 111
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 2192a"
-generated_at: "2026-03-30T06:32:27.059Z"
+generated_at: "2026-03-30T06:36:17.758Z"
 status: "active"
 ---
 

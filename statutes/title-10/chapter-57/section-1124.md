@@ -3,9 +3,9 @@ title: "Section 1124 - Cash awards for disclosures, suggestions, inventions, and
 usc_title: 10
 usc_section: "1124"
 chapter: 57
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 1124"
-generated_at: "2026-03-30T06:32:27.035Z"
+generated_at: "2026-03-30T06:36:17.735Z"
 status: "active"
 ---
 

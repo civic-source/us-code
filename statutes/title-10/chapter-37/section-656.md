@@ -3,9 +3,9 @@ title: "Section 656 - Diversity in military leadership: plan"
 usc_title: 10
 usc_section: "656"
 chapter: 37
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 656"
-generated_at: "2026-03-30T06:32:27.013Z"
+generated_at: "2026-03-30T06:36:17.714Z"
 status: "active"
 ---
 

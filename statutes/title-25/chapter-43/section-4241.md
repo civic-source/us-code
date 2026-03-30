@@ -3,9 +3,9 @@ title: "Section 4241 - Government Accountability Office audits"
 usc_title: 25
 usc_section: "4241"
 chapter: 43
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "25 U.S.C. § 4241"
-generated_at: "2026-03-30T06:33:40.470Z"
+generated_at: "2026-03-30T06:36:41.793Z"
 status: "active"
 ---
 

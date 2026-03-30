@@ -3,9 +3,9 @@ title: "Section 4227 - Cross reference"
 usc_title: 26
 usc_section: "4227"
 chapter: 32
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 4227"
-generated_at: "2026-03-30T06:34:25.256Z"
+generated_at: "2026-03-30T06:37:05.602Z"
 status: "active"
 ---
 

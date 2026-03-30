@@ -3,9 +3,9 @@ title: "Section 1504 - Effect on other standards and regulations"
 usc_title: 41
 usc_section: "1504"
 chapter: 15
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "41 U.S.C. § 1504"
-generated_at: "2026-03-30T06:34:44.381Z"
+generated_at: "2026-03-30T06:37:18.017Z"
 status: "active"
 ---
 

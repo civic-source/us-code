@@ -3,9 +3,9 @@ title: "Section 8222 - Translation of human rights reports"
 usc_title: 22
 usc_section: "8222"
 chapter: 89
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 8222"
-generated_at: "2026-03-30T06:34:00.610Z"
+generated_at: "2026-03-30T06:36:52.961Z"
 status: "active"
 ---
 

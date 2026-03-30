@@ -3,9 +3,9 @@ title: "Section 1475c - Repealed. Pub. L. 105–277, div. G , subdiv. A, title X
 usc_title: 22
 usc_section: "1475c"
 chapter: 18
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 1475c"
-generated_at: "2026-03-30T06:34:00.508Z"
+generated_at: "2026-03-30T06:36:52.864Z"
 status: "repealed"
 ---
 

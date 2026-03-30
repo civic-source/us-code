@@ -3,9 +3,9 @@ title: "Section 387f - General provisions respecting control of tobacco products
 usc_title: 21
 usc_section: "387f"
 chapter: 9
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "21 U.S.C. § 387f"
-generated_at: "2026-03-30T06:33:12.549Z"
+generated_at: "2026-03-30T06:36:47.430Z"
 status: "active"
 ---
 

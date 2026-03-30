@@ -3,9 +3,9 @@ title: "Section 1951 - Establishment of United States Capitol Police Memorial Fu
 usc_title: 2
 usc_section: "1951"
 chapter: 29
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "2 U.S.C. § 1951"
-generated_at: "2026-03-30T06:32:10.160Z"
+generated_at: "2026-03-30T06:36:08.978Z"
 status: "active"
 ---
 

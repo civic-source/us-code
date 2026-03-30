@@ -3,9 +3,9 @@ title: "Section 934 - Authorized financial transactions; interim notes; purchase
 usc_title: 7
 usc_section: "934"
 chapter: 31
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 934"
-generated_at: "2026-03-30T06:32:29.816Z"
+generated_at: "2026-03-30T06:36:14.450Z"
 status: "active"
 ---
 

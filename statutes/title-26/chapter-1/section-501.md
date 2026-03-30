@@ -3,9 +3,9 @@ title: "Section 501 - Exemption from tax on corporations, certain trusts, etc."
 usc_title: 26
 usc_section: "501"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 501"
-generated_at: "2026-03-30T06:34:25.175Z"
+generated_at: "2026-03-30T06:37:05.518Z"
 status: "active"
 ---
 

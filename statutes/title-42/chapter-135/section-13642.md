@@ -3,9 +3,9 @@ title: "Section 13642 - Applicability"
 usc_title: 42
 usc_section: "13642"
 chapter: 135
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 13642"
-generated_at: "2026-03-30T06:35:25.127Z"
+generated_at: "2026-03-30T06:37:31.606Z"
 status: "active"
 ---
 

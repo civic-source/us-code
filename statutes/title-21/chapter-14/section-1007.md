@@ -3,9 +3,9 @@ title: "Section 1007 - Repealed. Pub. L. 97–35, title V , § 587(a)(3), Aug. 1
 usc_title: 21
 usc_section: "1007"
 chapter: 14
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "21 U.S.C. § 1007"
-generated_at: "2026-03-30T06:33:12.566Z"
+generated_at: "2026-03-30T06:36:47.447Z"
 status: "repealed"
 ---
 

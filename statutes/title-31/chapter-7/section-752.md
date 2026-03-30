@@ -3,9 +3,9 @@ title: "Section 752 - Chairman and General Counsel"
 usc_title: 31
 usc_section: "752"
 chapter: 7
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "31 U.S.C. § 752"
-generated_at: "2026-03-30T06:34:34.115Z"
+generated_at: "2026-03-30T06:37:08.800Z"
 status: "active"
 ---
 

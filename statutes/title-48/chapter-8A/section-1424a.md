@@ -3,9 +3,9 @@ title: "Section 1424a - Repealed. Oct. 31, 1951, ch. 655 , § 56(e), 65 Stat. 72
 usc_title: 48
 usc_section: "1424a"
 chapter: 8
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "48 U.S.C. § 1424a"
-generated_at: "2026-03-30T06:35:28.026Z"
+generated_at: "2026-03-30T06:37:38.005Z"
 status: "repealed"
 ---
 

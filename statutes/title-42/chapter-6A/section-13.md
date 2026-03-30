@@ -3,9 +3,9 @@ title: "Section 13 - Setting priorities for standards adoption"
 usc_title: 42
 usc_section: "13"
 chapter: 6
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T06:35:24.657Z"
+generated_at: "2026-03-30T06:37:31.133Z"
 status: "active"
 ---
 

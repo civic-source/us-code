@@ -3,13 +3,13 @@ title: "Section 6809 - Sunset provision"
 usc_title: 16
 usc_section: "6809"
 chapter: 87
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 6809"
-generated_at: "2026-03-30T06:33:07.833Z"
+generated_at: "2026-03-30T06:36:34.902Z"
 status: "active"
 ---
 
 # § 6809. Sunset provision
 
-The authority of the Secretary to carry out this chapter shall terminate September 30, 2018 .
+The authority of the Secretary to carry out this chapter shall terminate September 30, 2019 .
 

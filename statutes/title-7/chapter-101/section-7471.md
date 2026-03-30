@@ -3,9 +3,9 @@ title: "Section 7471 - Suspension or termination"
 usc_title: 7
 usc_section: "7471"
 chapter: 101
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 7471"
-generated_at: "2026-03-30T06:32:29.932Z"
+generated_at: "2026-03-30T06:36:14.564Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8832 - Construction loans"
 usc_title: 42
 usc_section: "8832"
 chapter: 96
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 8832"
-generated_at: "2026-03-30T06:35:25.044Z"
+generated_at: "2026-03-30T06:37:31.519Z"
 status: "active"
 ---
 

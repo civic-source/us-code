@@ -3,9 +3,9 @@ title: "Section 7445 - Offices"
 usc_title: 26
 usc_section: "7445"
 chapter: 76
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 7445"
-generated_at: "2026-03-30T06:34:25.315Z"
+generated_at: "2026-03-30T06:37:05.661Z"
 status: "active"
 ---
 

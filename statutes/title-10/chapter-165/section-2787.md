@@ -3,9 +3,9 @@ title: "Section 2787 - Reports of survey"
 usc_title: 10
 usc_section: "2787"
 chapter: 165
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 2787"
-generated_at: "2026-03-30T06:32:27.093Z"
+generated_at: "2026-03-30T06:36:17.790Z"
 status: "active"
 ---
 

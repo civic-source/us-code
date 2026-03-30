@@ -3,9 +3,9 @@ title: "Section 56 - Quarters, fuel, and light for employees"
 usc_title: 25
 usc_section: "56"
 chapter: 2
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "25 U.S.C. § 56"
-generated_at: "2026-03-30T06:33:40.410Z"
+generated_at: "2026-03-30T06:36:41.738Z"
 status: "active"
 ---
 

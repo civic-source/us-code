@@ -3,9 +3,9 @@ title: "Section 1368 - Distributions"
 usc_title: 26
 usc_section: "1368"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 1368"
-generated_at: "2026-03-30T06:34:25.228Z"
+generated_at: "2026-03-30T06:37:05.572Z"
 status: "active"
 ---
 

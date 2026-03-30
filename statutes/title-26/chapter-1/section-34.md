@@ -3,9 +3,9 @@ title: "Section 34 - Certain uses of gasoline and special fuels"
 usc_title: 26
 usc_section: "34"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 34"
-generated_at: "2026-03-30T06:34:25.088Z"
+generated_at: "2026-03-30T06:37:05.431Z"
 status: "active"
 ---
 

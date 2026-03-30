@@ -3,9 +3,9 @@ title: "Section 2446a - Requirement for modular open system approach in major de
 usc_title: 10
 usc_section: "2446a"
 chapter: 144
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 2446a"
-generated_at: "2026-03-30T06:32:27.078Z"
+generated_at: "2026-03-30T06:36:17.777Z"
 status: "active"
 ---
 

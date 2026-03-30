@@ -3,9 +3,9 @@ title: "Section 2165 - Repealed. Pub. L. 110–437, title I , § 101(e), Oct. 20
 usc_title: 2
 usc_section: "2165"
 chapter: 30
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "2 U.S.C. § 2165"
-generated_at: "2026-03-30T06:32:10.164Z"
+generated_at: "2026-03-30T06:36:08.983Z"
 status: "repealed"
 ---
 

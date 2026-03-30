@@ -3,9 +3,9 @@ title: "Section 194 - Annual Board of Visitors"
 usc_title: 14
 usc_section: "194"
 chapter: 9
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "14 U.S.C. § 194"
-generated_at: "2026-03-30T06:32:32.024Z"
+generated_at: "2026-03-30T06:36:20.030Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 38 - Authorization for appropriations"
 usc_title: 42
 usc_section: "38"
 chapter: 6
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 38"
-generated_at: "2026-03-30T06:35:24.659Z"
+generated_at: "2026-03-30T06:37:31.135Z"
 status: "active"
 ---
 

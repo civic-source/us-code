@@ -3,9 +3,9 @@ title: "Section 351 - Congressional, Cabinet, and Supreme Court assassination, k
 usc_title: 18
 usc_section: "351"
 chapter: 18
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "18 U.S.C. § 351"
-generated_at: "2026-03-30T06:32:47.465Z"
+generated_at: "2026-03-30T06:36:30.533Z"
 status: "active"
 ---
 

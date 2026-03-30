@@ -3,9 +3,9 @@ title: "Section 2310 - Determinations and decisions"
 usc_title: 10
 usc_section: "2310"
 chapter: 137
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 2310"
-generated_at: "2026-03-30T06:32:27.067Z"
+generated_at: "2026-03-30T06:36:17.766Z"
 status: "active"
 ---
 

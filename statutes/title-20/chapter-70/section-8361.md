@@ -3,9 +3,9 @@ title: "Section 8361 - Repealed. Pub. L. 107–110, title X , § 1011(5)(A), Jan
 usc_title: 20
 usc_section: "8361"
 chapter: 70
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "20 U.S.C. § 8361"
-generated_at: "2026-03-30T06:32:57.405Z"
+generated_at: "2026-03-30T06:36:38.223Z"
 status: "repealed"
 ---
 

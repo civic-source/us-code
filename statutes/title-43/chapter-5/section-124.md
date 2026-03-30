@@ -3,9 +3,9 @@ title: "Section 124 - Consolidation of land offices"
 usc_title: 43
 usc_section: "124"
 chapter: 5
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "43 U.S.C. § 124"
-generated_at: "2026-03-30T06:34:52.407Z"
+generated_at: "2026-03-30T06:37:18.866Z"
 status: "active"
 ---
 

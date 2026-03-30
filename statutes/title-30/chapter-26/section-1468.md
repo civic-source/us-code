@@ -3,9 +3,9 @@ title: "Section 1468 - Regulations"
 usc_title: 30
 usc_section: "1468"
 chapter: 26
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "30 U.S.C. § 1468"
-generated_at: "2026-03-30T06:34:04.597Z"
+generated_at: "2026-03-30T06:36:57.586Z"
 status: "active"
 ---
 

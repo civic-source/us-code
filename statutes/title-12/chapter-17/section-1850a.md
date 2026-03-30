@@ -3,9 +3,9 @@ title: "Section 1850a - Securities holding companies"
 usc_title: 12
 usc_section: "1850a"
 chapter: 17
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "12 U.S.C. § 1850a"
-generated_at: "2026-03-30T06:32:36.108Z"
+generated_at: "2026-03-30T06:36:23.316Z"
 status: "active"
 ---
 

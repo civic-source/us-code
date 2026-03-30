@@ -3,9 +3,9 @@ title: "Section 1302 - Functions"
 usc_title: 49
 usc_section: "1302"
 chapter: 13
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "49 U.S.C. § 1302"
-generated_at: "2026-03-30T06:35:52.459Z"
+generated_at: "2026-03-30T06:37:37.608Z"
 status: "active"
 ---
 

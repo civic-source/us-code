@@ -3,9 +3,9 @@ title: "Section 1128 - Repealed. Pub. L. 110–403, title III , § 305(a)(1), Oc
 usc_title: 15
 usc_section: "1128"
 chapter: 22
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "15 U.S.C. § 1128"
-generated_at: "2026-03-30T06:32:44.010Z"
+generated_at: "2026-03-30T06:36:27.075Z"
 status: "repealed"
 ---
 

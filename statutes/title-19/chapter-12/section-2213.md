@@ -3,9 +3,9 @@ title: "Section 2213 - Reports"
 usc_title: 19
 usc_section: "2213"
 chapter: 12
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "19 U.S.C. § 2213"
-generated_at: "2026-03-30T06:33:04.905Z"
+generated_at: "2026-03-30T06:36:31.850Z"
 status: "active"
 ---
 

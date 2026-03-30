@@ -3,9 +3,9 @@ title: "Section 467 - Computation of length of service"
 usc_title: 14
 usc_section: "467"
 chapter: 13
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "14 U.S.C. § 467"
-generated_at: "2026-03-30T06:32:32.024Z"
+generated_at: "2026-03-30T06:36:20.031Z"
 status: "active"
 ---
 

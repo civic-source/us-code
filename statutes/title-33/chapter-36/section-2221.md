@@ -3,9 +3,9 @@ title: "Section 2221 - Cost limitations on projects"
 usc_title: 33
 usc_section: "2221"
 chapter: 36
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "33 U.S.C. § 2221"
-generated_at: "2026-03-30T06:34:36.668Z"
+generated_at: "2026-03-30T06:37:11.935Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8261 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "8261"
 chapter: 833
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 8261"
-generated_at: "2026-03-30T06:32:27.120Z"
+generated_at: "2026-03-30T06:36:17.816Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6922 - Duties"
 usc_title: 40
 usc_section: "6922"
 chapter: 69
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "40 U.S.C. § 6922"
-generated_at: "2026-03-30T06:34:38.815Z"
+generated_at: "2026-03-30T06:37:13.998Z"
 status: "active"
 ---
 

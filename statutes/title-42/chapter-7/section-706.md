@@ -3,9 +3,9 @@ title: "Section 706 - Administrative and fiscal accountability"
 usc_title: 42
 usc_section: "706"
 chapter: 7
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 706"
-generated_at: "2026-03-30T06:35:24.695Z"
+generated_at: "2026-03-30T06:37:31.170Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1162 - State jurisdiction over offenses committed by or against 
 usc_title: 18
 usc_section: "1162"
 chapter: 53
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "18 U.S.C. § 1162"
-generated_at: "2026-03-30T06:32:47.480Z"
+generated_at: "2026-03-30T06:36:30.548Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2235 - Search warrant procured maliciously"
 usc_title: 18
 usc_section: "2235"
 chapter: 109
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "18 U.S.C. § 2235"
-generated_at: "2026-03-30T06:32:47.491Z"
+generated_at: "2026-03-30T06:36:30.558Z"
 status: "active"
 ---
 

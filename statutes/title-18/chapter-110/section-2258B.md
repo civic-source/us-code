@@ -3,9 +3,9 @@ title: "Section 2258B - Limited liability for electronic communication service p
 usc_title: 18
 usc_section: "2258B"
 chapter: 110
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "18 U.S.C. § 2258B"
-generated_at: "2026-03-30T06:32:47.493Z"
+generated_at: "2026-03-30T06:36:30.560Z"
 status: "active"
 ---
 

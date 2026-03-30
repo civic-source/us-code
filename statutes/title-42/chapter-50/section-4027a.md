@@ -3,9 +3,9 @@ title: "Section 4027a - Report of the Administrator on activities under the Nati
 usc_title: 42
 usc_section: "4027a"
 chapter: 50
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 4027a"
-generated_at: "2026-03-30T06:35:24.926Z"
+generated_at: "2026-03-30T06:37:31.395Z"
 status: "active"
 ---
 

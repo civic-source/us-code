@@ -3,9 +3,9 @@ title: "Section 10704 - Equitable distribution of funds"
 usc_title: 34
 usc_section: "10704"
 chapter: 101
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "34 U.S.C. § 10704"
-generated_at: "2026-03-30T06:34:28.624Z"
+generated_at: "2026-03-30T06:37:08.131Z"
 status: "active"
 ---
 

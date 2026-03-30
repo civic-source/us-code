@@ -3,9 +3,9 @@ title: "Section 307 - Special pay: special duty assignment pay for enlisted memb
 usc_title: 37
 usc_section: "307"
 chapter: 5
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "37 U.S.C. § 307"
-generated_at: "2026-03-30T06:34:39.151Z"
+generated_at: "2026-03-30T06:37:14.328Z"
 status: "active"
 ---
 

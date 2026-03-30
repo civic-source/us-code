@@ -3,9 +3,9 @@ title: "Section 832 - Injury or death in line of duty"
 usc_title: 14
 usc_section: "832"
 chapter: 23
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "14 U.S.C. § 832"
-generated_at: "2026-03-30T06:32:32.030Z"
+generated_at: "2026-03-30T06:36:20.035Z"
 status: "active"
 ---
 

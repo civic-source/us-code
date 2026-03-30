@@ -3,9 +3,9 @@ title: "Section 3125b - National Rural Information Center Clearinghouse"
 usc_title: 7
 usc_section: "3125b"
 chapter: 64
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 3125b"
-generated_at: "2026-03-30T06:32:29.889Z"
+generated_at: "2026-03-30T06:36:14.521Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 426d - Receipt of report of commission by Secretary of the Inter
 usc_title: 16
 usc_section: "426d"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 426d"
-generated_at: "2026-03-30T06:33:07.660Z"
+generated_at: "2026-03-30T06:36:34.718Z"
 status: "active"
 ---
 

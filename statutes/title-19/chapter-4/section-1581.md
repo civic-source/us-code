@@ -3,9 +3,9 @@ title: "Section 1581 - Boarding vessels"
 usc_title: 19
 usc_section: "1581"
 chapter: 4
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "19 U.S.C. § 1581"
-generated_at: "2026-03-30T06:33:04.887Z"
+generated_at: "2026-03-30T06:36:31.831Z"
 status: "active"
 ---
 

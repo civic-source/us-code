@@ -3,9 +3,9 @@ title: "Section 3503 - Omitted"
 usc_title: 42
 usc_section: "3503"
 chapter: 43
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 3503"
-generated_at: "2026-03-30T06:35:24.917Z"
+generated_at: "2026-03-30T06:37:31.386Z"
 status: "omitted"
 ---
 

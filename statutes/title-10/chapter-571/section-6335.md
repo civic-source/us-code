@@ -3,9 +3,9 @@ title: "Section 6335 - Restoration to former grade: warrant officers and enliste
 usc_title: 10
 usc_section: "6335"
 chapter: 571
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 6335"
-generated_at: "2026-03-30T06:32:27.111Z"
+generated_at: "2026-03-30T06:36:17.807Z"
 status: "active"
 ---
 

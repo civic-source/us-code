@@ -3,9 +3,9 @@ title: "Section 256a - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , 
 usc_title: 16
 usc_section: "256a"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 256a"
-generated_at: "2026-03-30T06:33:07.632Z"
+generated_at: "2026-03-30T06:36:34.690Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1448a - Election to discontinue participation: one-year opportun
 usc_title: 10
 usc_section: "1448a"
 chapter: 73
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 1448a"
-generated_at: "2026-03-30T06:32:27.044Z"
+generated_at: "2026-03-30T06:36:17.744Z"
 status: "active"
 ---
 

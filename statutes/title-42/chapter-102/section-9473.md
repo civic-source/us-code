@@ -3,9 +3,9 @@ title: "Section 9473 - Repealed. Pub. L. 97–35, title IX , § 902(e)(1), Aug. 
 usc_title: 42
 usc_section: "9473"
 chapter: 102
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 9473"
-generated_at: "2026-03-30T06:35:25.048Z"
+generated_at: "2026-03-30T06:37:31.523Z"
 status: "repealed"
 ---
 

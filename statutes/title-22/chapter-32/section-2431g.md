@@ -3,9 +3,9 @@ title: "Section 2431g - Tropical Forest Agreement"
 usc_title: 22
 usc_section: "2431g"
 chapter: 32
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 2431g"
-generated_at: "2026-03-30T06:34:00.539Z"
+generated_at: "2026-03-30T06:36:52.894Z"
 status: "active"
 ---
 

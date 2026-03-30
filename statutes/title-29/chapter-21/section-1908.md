@@ -3,9 +3,9 @@ title: "Section 1908 - Registry"
 usc_title: 29
 usc_section: "1908"
 chapter: 21
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "29 U.S.C. § 1908"
-generated_at: "2026-03-30T06:34:08.690Z"
+generated_at: "2026-03-30T06:36:59.956Z"
 status: "active"
 ---
 

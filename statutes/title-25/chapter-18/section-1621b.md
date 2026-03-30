@@ -3,9 +3,9 @@ title: "Section 1621b - Health promotion and disease prevention services"
 usc_title: 25
 usc_section: "1621b"
 chapter: 18
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "25 U.S.C. § 1621b"
-generated_at: "2026-03-30T06:33:40.433Z"
+generated_at: "2026-03-30T06:36:41.756Z"
 status: "active"
 ---
 

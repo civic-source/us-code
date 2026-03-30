@@ -3,9 +3,9 @@ title: "Section 1113 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1113"
 chapter: 22
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 1113"
-generated_at: "2026-03-30T06:33:07.758Z"
+generated_at: "2026-03-30T06:36:34.822Z"
 status: "active"
 ---
 

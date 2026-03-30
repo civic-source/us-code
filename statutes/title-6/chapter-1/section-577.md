@@ -3,9 +3,9 @@ title: "Section 577 - Urban and other high risk area communications capabilities
 usc_title: 6
 usc_section: "577"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "6 U.S.C. § 577"
-generated_at: "2026-03-30T06:32:22.202Z"
+generated_at: "2026-03-30T06:36:11.239Z"
 status: "active"
 ---
 

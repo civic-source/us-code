@@ -3,9 +3,9 @@ title: "Section 19b - Reducing lead in drinking water"
 usc_title: 42
 usc_section: "19b"
 chapter: 6
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 19b"
-generated_at: "2026-03-30T06:35:24.628Z"
+generated_at: "2026-03-30T06:37:31.105Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(A)** the Administrator determines, based on affordability criteria established by the State under section 300j–12(d)(3) of this title , to be a disadvantaged community; and
     - **(B)** proposes to—
       - **(i)** carry out a lead reduction project at a public water system or nontransient noncommunity water system that has exceeded the lead action level established by the Administrator under section 300g–1 of this title at any time during the 3-year period preceding the date of submission of the application of the eligible entity; or
-      - **(ii)** address lead levels in water for human consumption at a school, daycare, or other facility that primarily serves children or other vulnerable human subpopulation described in section 1458(a)(1).
+      - **(ii)** address lead levels in water for human consumption at a school, daycare, or other facility that primarily serves children or other vulnerable human subpopulation described in section 300j–18(a)(1) of this title .
   - **(4)**
     - **(A)** Subject to subparagraph (B), the non-Federal share of the total cost of a project funded by a grant under this subsection shall be not less than 20 percent.
     - **(B)** The Administrator may reduce or eliminate the non-Federal share under subparagraph (A) for reasons of affordability, as the Administrator determines to be appropriate.

@@ -3,9 +3,9 @@ title: "Section 1738o - Sale of qualified debt to eligible countries"
 usc_title: 7
 usc_section: "1738o"
 chapter: 41
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 1738o"
-generated_at: "2026-03-30T06:32:29.851Z"
+generated_at: "2026-03-30T06:36:14.483Z"
 status: "active"
 ---
 

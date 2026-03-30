@@ -3,9 +3,9 @@ title: "Section 178 - Hotel regulations"
 usc_title: 16
 usc_section: "178"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 178"
-generated_at: "2026-03-30T06:33:07.628Z"
+generated_at: "2026-03-30T06:36:34.684Z"
 status: "active"
 ---
 

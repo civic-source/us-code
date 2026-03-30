@@ -3,9 +3,9 @@ title: "Section 188 - Interagency Council on the Strategic Capability of the Nat
 usc_title: 10
 usc_section: "188"
 chapter: 7
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 188"
-generated_at: "2026-03-30T06:32:26.998Z"
+generated_at: "2026-03-30T06:36:17.701Z"
 status: "active"
 ---
 

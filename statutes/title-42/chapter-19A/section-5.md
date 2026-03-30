@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 95–467, title IV , § 410(a), Oct. 17, 1
 usc_title: 42
 usc_section: "5"
 chapter: 19
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T06:35:24.872Z"
+generated_at: "2026-03-30T06:37:31.341Z"
 status: "repealed"
 ---
 

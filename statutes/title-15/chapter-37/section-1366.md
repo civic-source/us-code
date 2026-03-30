@@ -3,9 +3,9 @@ title: "Section 1366 - Termination of payments for noncompliance with law or div
 usc_title: 15
 usc_section: "1366"
 chapter: 37
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "15 U.S.C. § 1366"
-generated_at: "2026-03-30T06:32:44.016Z"
+generated_at: "2026-03-30T06:36:27.082Z"
 status: "active"
 ---
 

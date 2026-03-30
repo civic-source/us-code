@@ -3,9 +3,9 @@ title: "Section 6302 - General provisions"
 usc_title: 5
 usc_section: "6302"
 chapter: 63
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "5 U.S.C. § 6302"
-generated_at: "2026-03-30T06:32:17.509Z"
+generated_at: "2026-03-30T06:36:08.089Z"
 status: "active"
 ---
 

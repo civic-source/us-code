@@ -3,9 +3,9 @@ title: "Section 1446 - Price support levels for designated nonbasic agricultural
 usc_title: 7
 usc_section: "1446"
 chapter: 35
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 1446"
-generated_at: "2026-03-30T06:32:29.832Z"
+generated_at: "2026-03-30T06:36:14.465Z"
 status: "active"
 ---
 

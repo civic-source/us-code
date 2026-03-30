@@ -3,9 +3,9 @@ title: "Section 12552 - Definitions"
 usc_title: 34
 usc_section: "12552"
 chapter: 121
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "34 U.S.C. § 12552"
-generated_at: "2026-03-30T06:34:28.636Z"
+generated_at: "2026-03-30T06:37:08.142Z"
 status: "active"
 ---
 

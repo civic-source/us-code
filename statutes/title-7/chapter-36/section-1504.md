@@ -3,9 +3,9 @@ title: "Section 1504 - Capital stock of Corporation"
 usc_title: 7
 usc_section: "1504"
 chapter: 36
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 1504"
-generated_at: "2026-03-30T06:32:29.834Z"
+generated_at: "2026-03-30T06:36:14.467Z"
 status: "active"
 ---
 

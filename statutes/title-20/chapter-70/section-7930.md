@@ -3,9 +3,9 @@ title: "Section 7930 - Sense of Congress"
 usc_title: 20
 usc_section: "7930"
 chapter: 70
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "20 U.S.C. § 7930"
-generated_at: "2026-03-30T06:32:57.404Z"
+generated_at: "2026-03-30T06:36:38.222Z"
 status: "active"
 ---
 

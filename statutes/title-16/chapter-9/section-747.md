@@ -3,9 +3,9 @@ title: "Section 747 - Omitted"
 usc_title: 16
 usc_section: "747"
 chapter: 9
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 747"
-generated_at: "2026-03-30T06:33:07.734Z"
+generated_at: "2026-03-30T06:36:34.796Z"
 status: "omitted"
 ---
 

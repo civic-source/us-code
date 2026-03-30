@@ -3,9 +3,9 @@ title: "Section 116 - Oklahoma"
 usc_title: 28
 usc_section: "116"
 chapter: 5
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "28 U.S.C. § 116"
-generated_at: "2026-03-30T06:34:12.370Z"
+generated_at: "2026-03-30T06:36:59.101Z"
 status: "active"
 ---
 

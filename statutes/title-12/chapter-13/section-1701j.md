@@ -3,9 +3,9 @@ title: "Section 1701j - Repealed. Aug. 2, 1954, ch. 649 , title VIII, § 813, 68
 usc_title: 12
 usc_section: "1701j"
 chapter: 13
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "12 U.S.C. § 1701j"
-generated_at: "2026-03-30T06:32:36.048Z"
+generated_at: "2026-03-30T06:36:23.258Z"
 status: "repealed"
 ---
 

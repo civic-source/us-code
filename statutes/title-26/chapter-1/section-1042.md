@@ -3,9 +3,9 @@ title: "Section 1042 - Sales of stock to employee stock ownership plans or certa
 usc_title: 26
 usc_section: "1042"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 1042"
-generated_at: "2026-03-30T06:34:25.216Z"
+generated_at: "2026-03-30T06:37:05.561Z"
 status: "active"
 ---
 

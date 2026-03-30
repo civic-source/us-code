@@ -3,9 +3,9 @@ title: "Section 961 - Authorization of appropriations"
 usc_title: 16
 usc_section: "961"
 chapter: 16
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 961"
-generated_at: "2026-03-30T06:33:07.754Z"
+generated_at: "2026-03-30T06:36:34.818Z"
 status: "active"
 ---
 

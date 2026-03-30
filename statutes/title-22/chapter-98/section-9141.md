@@ -3,9 +3,9 @@ title: "Section 9141 - Authorization for judicial training on international pare
 usc_title: 22
 usc_section: "9141"
 chapter: 98
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 9141"
-generated_at: "2026-03-30T06:34:00.620Z"
+generated_at: "2026-03-30T06:36:52.971Z"
 status: "active"
 ---
 

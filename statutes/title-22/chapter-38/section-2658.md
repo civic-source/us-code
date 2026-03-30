@@ -3,9 +3,9 @@ title: "Section 2658 - Repealed. Pub. L. 103–236, title I , § 162(a), Apr. 30
 usc_title: 22
 usc_section: "2658"
 chapter: 38
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 2658"
-generated_at: "2026-03-30T06:34:00.545Z"
+generated_at: "2026-03-30T06:36:52.900Z"
 status: "repealed"
 ---
 

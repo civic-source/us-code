@@ -3,9 +3,9 @@ title: "Section 2043 - Domiciliary care programs"
 usc_title: 38
 usc_section: "2043"
 chapter: 20
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "38 U.S.C. § 2043"
-generated_at: "2026-03-30T06:34:41.306Z"
+generated_at: "2026-03-30T06:37:16.298Z"
 status: "active"
 ---
 

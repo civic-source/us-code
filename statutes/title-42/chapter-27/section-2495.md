@@ -3,9 +3,9 @@ title: "Section 2495 - National Advisory Committee on Education of the Deaf"
 usc_title: 42
 usc_section: "2495"
 chapter: 27
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 2495"
-generated_at: "2026-03-30T06:35:24.901Z"
+generated_at: "2026-03-30T06:37:31.370Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2138 - Omitted"
 usc_title: 19
 usc_section: "2138"
 chapter: 12
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "19 U.S.C. § 2138"
-generated_at: "2026-03-30T06:33:04.904Z"
+generated_at: "2026-03-30T06:36:31.849Z"
 status: "omitted"
 ---
 

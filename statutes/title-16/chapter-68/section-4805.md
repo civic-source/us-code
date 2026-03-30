@@ -3,9 +3,9 @@ title: "Section 4805 - Omitted"
 usc_title: 16
 usc_section: "4805"
 chapter: 68
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 4805"
-generated_at: "2026-03-30T06:33:07.822Z"
+generated_at: "2026-03-30T06:36:34.891Z"
 status: "omitted"
 ---
 

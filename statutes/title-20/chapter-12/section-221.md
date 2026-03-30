@@ -3,9 +3,9 @@ title: "Section 221 - Instructions of citizens from American republics; Governme
 usc_title: 20
 usc_section: "221"
 chapter: 12
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "20 U.S.C. § 221"
-generated_at: "2026-03-30T06:32:57.289Z"
+generated_at: "2026-03-30T06:36:38.102Z"
 status: "active"
 ---
 

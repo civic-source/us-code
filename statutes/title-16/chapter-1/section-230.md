@@ -3,9 +3,9 @@ title: "Section 230 - Establishment; description of area"
 usc_title: 16
 usc_section: "230"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 230"
-generated_at: "2026-03-30T06:33:07.630Z"
+generated_at: "2026-03-30T06:36:34.689Z"
 status: "active"
 ---
 

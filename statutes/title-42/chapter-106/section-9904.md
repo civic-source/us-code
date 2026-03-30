@@ -3,9 +3,9 @@ title: "Section 9904 - Establishment of block grant program"
 usc_title: 42
 usc_section: "9904"
 chapter: 106
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 9904"
-generated_at: "2026-03-30T06:35:25.068Z"
+generated_at: "2026-03-30T06:37:31.545Z"
 status: "active"
 ---
 

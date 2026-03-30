@@ -3,9 +3,9 @@ title: "Section 2903 - Conservation plans"
 usc_title: 16
 usc_section: "2903"
 chapter: 49
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 2903"
-generated_at: "2026-03-30T06:33:07.799Z"
+generated_at: "2026-03-30T06:36:34.867Z"
 status: "active"
 ---
 

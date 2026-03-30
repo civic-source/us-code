@@ -3,9 +3,9 @@ title: "Section 66 - Personal liability of representatives of stockholders"
 usc_title: 12
 usc_section: "66"
 chapter: 2
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "12 U.S.C. § 66"
-generated_at: "2026-03-30T06:32:36.019Z"
+generated_at: "2026-03-30T06:36:23.229Z"
 status: "active"
 ---
 

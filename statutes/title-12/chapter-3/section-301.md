@@ -3,9 +3,9 @@ title: "Section 301 - Powers and duties of board of directors; suspension of mem
 usc_title: 12
 usc_section: "301"
 chapter: 3
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "12 U.S.C. § 301"
-generated_at: "2026-03-30T06:32:36.024Z"
+generated_at: "2026-03-30T06:36:23.234Z"
 status: "active"
 ---
 

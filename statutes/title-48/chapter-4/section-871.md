@@ -3,9 +3,9 @@ title: "Section 871 - Omitted"
 usc_title: 48
 usc_section: "871"
 chapter: 4
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "48 U.S.C. § 871"
-generated_at: "2026-03-30T06:35:28.021Z"
+generated_at: "2026-03-30T06:37:38.002Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5102 - Application"
 usc_title: 46
 usc_section: "5102"
 chapter: 51
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "46 U.S.C. § 5102"
-generated_at: "2026-03-30T06:35:28.650Z"
+generated_at: "2026-03-30T06:37:35.140Z"
 status: "active"
 ---
 

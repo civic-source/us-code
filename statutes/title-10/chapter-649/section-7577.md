@@ -3,9 +3,9 @@ title: "Section 7577 - Quarters: Nurse Corps officers; assignment in hospitals"
 usc_title: 10
 usc_section: "7577"
 chapter: 649
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 7577"
-generated_at: "2026-03-30T06:32:27.117Z"
+generated_at: "2026-03-30T06:36:17.813Z"
 status: "active"
 ---
 

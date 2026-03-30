@@ -3,9 +3,9 @@ title: "Section 9909 - Designation and redesignation of eligible entities in uns
 usc_title: 42
 usc_section: "9909"
 chapter: 106
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 9909"
-generated_at: "2026-03-30T06:35:25.068Z"
+generated_at: "2026-03-30T06:37:31.546Z"
 status: "active"
 ---
 

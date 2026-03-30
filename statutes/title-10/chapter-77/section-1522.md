@@ -3,9 +3,9 @@ title: "Section 1522 - Posthumous warrants"
 usc_title: 10
 usc_section: "1522"
 chapter: 77
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 1522"
-generated_at: "2026-03-30T06:32:27.048Z"
+generated_at: "2026-03-30T06:36:17.748Z"
 status: "active"
 ---
 

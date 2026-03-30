@@ -3,9 +3,9 @@ title: "Section 556 - Chief clerk; other employees"
 usc_title: 29
 usc_section: "556"
 chapter: 12
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "29 U.S.C. § 556"
-generated_at: "2026-03-30T06:34:08.649Z"
+generated_at: "2026-03-30T06:36:59.913Z"
 status: "active"
 ---
 

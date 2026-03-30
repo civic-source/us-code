@@ -3,9 +3,9 @@ title: "Section 1139 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 1
 usc_title: 22
 usc_section: "1139"
 chapter: 14
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 1139"
-generated_at: "2026-03-30T06:34:00.505Z"
+generated_at: "2026-03-30T06:36:52.862Z"
 status: "repealed"
 ---
 

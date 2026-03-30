@@ -3,9 +3,9 @@ title: "Section 14706 - Liability of carriers under receipts and bills of lading
 usc_title: 49
 usc_section: "14706"
 chapter: 147
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "49 U.S.C. § 14706"
-generated_at: "2026-03-30T06:35:52.482Z"
+generated_at: "2026-03-30T06:37:37.628Z"
 status: "active"
 ---
 

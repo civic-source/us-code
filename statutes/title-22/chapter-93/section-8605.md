@@ -3,9 +3,9 @@ title: "Section 8605 - Definitions"
 usc_title: 22
 usc_section: "8605"
 chapter: 93
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 8605"
-generated_at: "2026-03-30T06:34:00.614Z"
+generated_at: "2026-03-30T06:36:52.965Z"
 status: "active"
 ---
 

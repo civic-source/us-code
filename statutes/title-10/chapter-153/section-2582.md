@@ -3,9 +3,9 @@ title: "Section 2582 - Repealed. Pub. L. 112–81, div. A, title X , § 1061(19)
 usc_title: 10
 usc_section: "2582"
 chapter: 153
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 2582"
-generated_at: "2026-03-30T06:32:27.085Z"
+generated_at: "2026-03-30T06:36:17.783Z"
 status: "repealed"
 ---
 

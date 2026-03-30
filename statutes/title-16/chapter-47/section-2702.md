@@ -3,9 +3,9 @@ title: "Section 2702 - Loans for feasibility studies"
 usc_title: 16
 usc_section: "2702"
 chapter: 47
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 2702"
-generated_at: "2026-03-30T06:33:07.798Z"
+generated_at: "2026-03-30T06:36:34.866Z"
 status: "active"
 ---
 

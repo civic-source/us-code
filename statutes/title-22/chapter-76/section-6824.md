@@ -3,9 +3,9 @@ title: "Section 6824 - Advisory Board"
 usc_title: 22
 usc_section: "6824"
 chapter: 76
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 6824"
-generated_at: "2026-03-30T06:34:00.595Z"
+generated_at: "2026-03-30T06:36:52.947Z"
 status: "active"
 ---
 

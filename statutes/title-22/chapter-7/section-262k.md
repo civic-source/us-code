@@ -3,9 +3,9 @@ title: "Section 262k - Financial assistance to international financial instituti
 usc_title: 22
 usc_section: "262k"
 chapter: 7
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 262k"
-generated_at: "2026-03-30T06:34:00.479Z"
+generated_at: "2026-03-30T06:36:52.840Z"
 status: "active"
 ---
 

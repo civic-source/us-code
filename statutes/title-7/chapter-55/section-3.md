@@ -3,9 +3,9 @@ title: "Section 3 - Authority of designated employees; retroactive revocation of
 usc_title: 7
 usc_section: "3"
 chapter: 55
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T06:32:29.878Z"
+generated_at: "2026-03-30T06:36:14.511Z"
 status: "active"
 ---
 

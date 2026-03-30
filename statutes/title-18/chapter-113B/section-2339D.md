@@ -3,9 +3,9 @@ title: "Section 2339D - Receiving military-type training from a foreign terroris
 usc_title: 18
 usc_section: "2339D"
 chapter: 113
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "18 U.S.C. § 2339D"
-generated_at: "2026-03-30T06:32:47.497Z"
+generated_at: "2026-03-30T06:36:30.564Z"
 status: "active"
 ---
 

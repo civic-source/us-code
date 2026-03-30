@@ -3,9 +3,9 @@ title: "Section 10905 - Offering abandoned rail properties for sale for public p
 usc_title: 49
 usc_section: "10905"
 chapter: 109
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "49 U.S.C. § 10905"
-generated_at: "2026-03-30T06:35:52.475Z"
+generated_at: "2026-03-30T06:37:37.622Z"
 status: "active"
 ---
 

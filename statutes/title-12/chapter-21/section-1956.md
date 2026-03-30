@@ -3,9 +3,9 @@ title: "Section 1956 - Criminal penalty"
 usc_title: 12
 usc_section: "1956"
 chapter: 21
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "12 U.S.C. § 1956"
-generated_at: "2026-03-30T06:32:36.110Z"
+generated_at: "2026-03-30T06:36:23.317Z"
 status: "active"
 ---
 

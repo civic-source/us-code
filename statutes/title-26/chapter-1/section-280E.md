@@ -3,9 +3,9 @@ title: "Section 280E - Expenditures in connection with the illegal sale of drugs
 usc_title: 26
 usc_section: "280E"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 280E"
-generated_at: "2026-03-30T06:34:25.139Z"
+generated_at: "2026-03-30T06:37:05.482Z"
 status: "active"
 ---
 

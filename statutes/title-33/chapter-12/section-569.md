@@ -3,9 +3,9 @@ title: "Section 569 - Personal equipment for employees; use of funds for purpose
 usc_title: 33
 usc_section: "569"
 chapter: 12
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "33 U.S.C. § 569"
-generated_at: "2026-03-30T06:34:36.627Z"
+generated_at: "2026-03-30T06:37:11.894Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 123e - Transferred"
 usc_title: 2
 usc_section: "123e"
 chapter: 4
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "2 U.S.C. § 123e"
-generated_at: "2026-03-30T06:32:10.133Z"
+generated_at: "2026-03-30T06:36:08.950Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8755 - Medal of honor: presentation of Medal of Honor Flag"
 usc_title: 10
 usc_section: "8755"
 chapter: 857
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 8755"
-generated_at: "2026-03-30T06:32:27.121Z"
+generated_at: "2026-03-30T06:36:17.817Z"
 status: "active"
 ---
 

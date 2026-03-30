@@ -3,9 +3,9 @@ title: "Section 207 - Grades, ranks, and titles of commissioned corps"
 usc_title: 42
 usc_section: "207"
 chapter: 6
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 207"
-generated_at: "2026-03-30T06:35:24.529Z"
+generated_at: "2026-03-30T06:37:31.016Z"
 status: "active"
 ---
 

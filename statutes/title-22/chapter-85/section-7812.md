@@ -3,9 +3,9 @@ title: "Section 7812 - Support for human rights and democracy programs"
 usc_title: 22
 usc_section: "7812"
 chapter: 85
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 7812"
-generated_at: "2026-03-30T06:34:00.606Z"
+generated_at: "2026-03-30T06:36:52.958Z"
 status: "active"
 ---
 

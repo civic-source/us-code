@@ -3,9 +3,9 @@ title: "Section 4251 - Imposition of tax"
 usc_title: 26
 usc_section: "4251"
 chapter: 33
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 4251"
-generated_at: "2026-03-30T06:34:25.256Z"
+generated_at: "2026-03-30T06:37:05.602Z"
 status: "active"
 ---
 

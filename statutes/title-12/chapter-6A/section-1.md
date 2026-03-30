@@ -3,9 +3,9 @@ title: "Section 1 - Annual competitiveness report"
 usc_title: 12
 usc_section: "1"
 chapter: 6
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T06:32:36.034Z"
+generated_at: "2026-03-30T06:36:23.244Z"
 status: "active"
 ---
 

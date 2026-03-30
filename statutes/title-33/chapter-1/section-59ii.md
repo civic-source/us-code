@@ -3,9 +3,9 @@ title: "Section 59ii - Declaration of nonnavigability of a portion of the canal 
 usc_title: 33
 usc_section: "59ii"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "33 U.S.C. § 59ii"
-generated_at: "2026-03-30T06:34:36.618Z"
+generated_at: "2026-03-30T06:37:11.886Z"
 status: "active"
 ---
 

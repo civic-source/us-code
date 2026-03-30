@@ -3,9 +3,9 @@ title: "Section 5501 - Commitment actions"
 usc_title: 38
 usc_section: "5501"
 chapter: 55
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "38 U.S.C. § 5501"
-generated_at: "2026-03-30T06:34:41.329Z"
+generated_at: "2026-03-30T06:37:16.322Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 136b - Omitted"
 usc_title: 2
 usc_section: "136b"
 chapter: 5
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "2 U.S.C. § 136b"
-generated_at: "2026-03-30T06:32:10.134Z"
+generated_at: "2026-03-30T06:36:08.951Z"
 status: "omitted"
 ---
 

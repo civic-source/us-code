@@ -3,9 +3,9 @@ title: "Section 2003 - Regulations"
 usc_title: 42
 usc_section: "2003"
 chapter: 22
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 2003"
-generated_at: "2026-03-30T06:35:24.883Z"
+generated_at: "2026-03-30T06:37:31.351Z"
 status: "active"
 ---
 

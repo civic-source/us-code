@@ -3,9 +3,9 @@ title: "Section 804 - Project works affecting navigable waters; requirements ins
 usc_title: 16
 usc_section: "804"
 chapter: 12
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 804"
-generated_at: "2026-03-30T06:33:07.738Z"
+generated_at: "2026-03-30T06:36:34.800Z"
 status: "active"
 ---
 

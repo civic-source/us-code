@@ -3,9 +3,9 @@ title: "Section 103 - Nonenforceability of undertakings in conflict with public 
 usc_title: 29
 usc_section: "103"
 chapter: 6
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "29 U.S.C. § 103"
-generated_at: "2026-03-30T06:34:08.643Z"
+generated_at: "2026-03-30T06:36:59.906Z"
 status: "active"
 ---
 

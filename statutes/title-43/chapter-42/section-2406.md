@@ -3,9 +3,9 @@ title: "Section 2406 - Miscellaneous"
 usc_title: 43
 usc_section: "2406"
 chapter: 42
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "43 U.S.C. § 2406"
-generated_at: "2026-03-30T06:34:52.457Z"
+generated_at: "2026-03-30T06:37:18.915Z"
 status: "active"
 ---
 

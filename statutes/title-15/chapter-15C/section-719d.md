@@ -3,9 +3,9 @@ title: "Section 719d - Federal and State officer or agency and other interested 
 usc_title: 15
 usc_section: "719d"
 chapter: 15
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "15 U.S.C. § 719d"
-generated_at: "2026-03-30T06:32:44.003Z"
+generated_at: "2026-03-30T06:36:27.067Z"
 status: "active"
 ---
 

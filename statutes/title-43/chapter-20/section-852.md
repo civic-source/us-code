@@ -3,9 +3,9 @@ title: "Section 852 - Selections to supply deficiencies of school lands"
 usc_title: 43
 usc_section: "852"
 chapter: 20
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "43 U.S.C. § 852"
-generated_at: "2026-03-30T06:34:52.427Z"
+generated_at: "2026-03-30T06:37:18.886Z"
 status: "active"
 ---
 

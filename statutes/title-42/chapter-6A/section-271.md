@@ -3,9 +3,9 @@ title: "Section 271 - Penalties for violation of quarantine laws"
 usc_title: 42
 usc_section: "271"
 chapter: 6
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 271"
-generated_at: "2026-03-30T06:35:24.564Z"
+generated_at: "2026-03-30T06:37:31.044Z"
 status: "active"
 ---
 

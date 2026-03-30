@@ -3,9 +3,9 @@ title: "Section 3682 - Notice to victims of order of special forfeiture"
 usc_title: 18
 usc_section: "3682"
 chapter: 232
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "18 U.S.C. § 3682"
-generated_at: "2026-03-30T06:32:47.512Z"
+generated_at: "2026-03-30T06:36:30.578Z"
 status: "active"
 ---
 

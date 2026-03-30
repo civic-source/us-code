@@ -3,9 +3,9 @@ title: "Section 6428 - Repealed. Pub. L. 113–295, div. A, title II , § 221(a)
 usc_title: 26
 usc_section: "6428"
 chapter: 65
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 6428"
-generated_at: "2026-03-30T06:34:25.302Z"
+generated_at: "2026-03-30T06:37:05.648Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 643 - Definitions applicable to subparts A, B, C, and D"
 usc_title: 26
 usc_section: "643"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 643"
-generated_at: "2026-03-30T06:34:25.185Z"
+generated_at: "2026-03-30T06:37:05.530Z"
 status: "active"
 ---
 

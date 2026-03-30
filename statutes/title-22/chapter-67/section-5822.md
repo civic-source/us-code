@@ -3,9 +3,9 @@ title: "Section 5822 - Business and Agriculture Advisory Council"
 usc_title: 22
 usc_section: "5822"
 chapter: 67
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 5822"
-generated_at: "2026-03-30T06:34:00.583Z"
+generated_at: "2026-03-30T06:36:52.935Z"
 status: "active"
 ---
 

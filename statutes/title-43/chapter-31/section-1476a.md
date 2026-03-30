@@ -3,9 +3,9 @@ title: "Section 1476a - Unsworn written statements subject to penalties of prese
 usc_title: 43
 usc_section: "1476a"
 chapter: 31
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "43 U.S.C. § 1476a"
-generated_at: "2026-03-30T06:34:52.438Z"
+generated_at: "2026-03-30T06:37:18.897Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2706 - Natural resources"
 usc_title: 33
 usc_section: "2706"
 chapter: 40
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "33 U.S.C. § 2706"
-generated_at: "2026-03-30T06:34:36.679Z"
+generated_at: "2026-03-30T06:37:11.947Z"
 status: "active"
 ---
 

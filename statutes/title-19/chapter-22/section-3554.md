@@ -3,9 +3,9 @@ title: "Section 3554 - Africa trade and development policy"
 usc_title: 19
 usc_section: "3554"
 chapter: 22
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "19 U.S.C. § 3554"
-generated_at: "2026-03-30T06:33:04.930Z"
+generated_at: "2026-03-30T06:36:31.877Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3193 - Receiving agent’s authority over offenders"
 usc_title: 18
 usc_section: "3193"
 chapter: 209
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "18 U.S.C. § 3193"
-generated_at: "2026-03-30T06:32:47.504Z"
+generated_at: "2026-03-30T06:36:30.571Z"
 status: "active"
 ---
 

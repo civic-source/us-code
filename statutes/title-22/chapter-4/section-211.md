@@ -3,9 +3,9 @@ title: "Section 211 - Repealed. July 3, 1926, ch. 772 , § 4, 44 Stat. 887"
 usc_title: 22
 usc_section: "211"
 chapter: 4
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "22 U.S.C. § 211"
-generated_at: "2026-03-30T06:34:00.475Z"
+generated_at: "2026-03-30T06:36:52.839Z"
 status: "repealed"
 ---
 

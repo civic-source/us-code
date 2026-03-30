@@ -3,9 +3,9 @@ title: "Section 253 - Professional responsibility and quality review"
 usc_title: 6
 usc_section: "253"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "6 U.S.C. § 253"
-generated_at: "2026-03-30T06:32:22.190Z"
+generated_at: "2026-03-30T06:36:11.228Z"
 status: "active"
 ---
 

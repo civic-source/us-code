@@ -3,9 +3,9 @@ title: "Section 18051 - State flexibility to establish basic health programs for
 usc_title: 42
 usc_section: "18051"
 chapter: 157
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 18051"
-generated_at: "2026-03-30T06:35:25.167Z"
+generated_at: "2026-03-30T06:37:31.647Z"
 status: "active"
 ---
 

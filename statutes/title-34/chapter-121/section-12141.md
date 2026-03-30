@@ -3,9 +3,9 @@ title: "Section 12141 - Grant authorization"
 usc_title: 34
 usc_section: "12141"
 chapter: 121
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "34 U.S.C. § 12141"
-generated_at: "2026-03-30T06:34:28.630Z"
+generated_at: "2026-03-30T06:37:08.136Z"
 status: "active"
 ---
 

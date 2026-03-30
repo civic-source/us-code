@@ -3,9 +3,9 @@ title: "Section 2049 - Loans for Senate Restaurants"
 usc_title: 2
 usc_section: "2049"
 chapter: 30
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "2 U.S.C. § 2049"
-generated_at: "2026-03-30T06:32:10.162Z"
+generated_at: "2026-03-30T06:36:08.980Z"
 status: "active"
 ---
 

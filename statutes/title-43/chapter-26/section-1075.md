@@ -3,9 +3,9 @@ title: "Section 1075 - Repealed. Pub. L. 94–579, title VII , §§ 702, 703(a),
 usc_title: 43
 usc_section: "1075"
 chapter: 26
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "43 U.S.C. § 1075"
-generated_at: "2026-03-30T06:34:52.432Z"
+generated_at: "2026-03-30T06:37:18.891Z"
 status: "repealed"
 ---
 

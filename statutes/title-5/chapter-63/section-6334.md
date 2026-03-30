@@ -3,9 +3,9 @@ title: "Section 6334 - Donations of leave"
 usc_title: 5
 usc_section: "6334"
 chapter: 63
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "5 U.S.C. § 6334"
-generated_at: "2026-03-30T06:32:17.511Z"
+generated_at: "2026-03-30T06:36:08.090Z"
 status: "active"
 ---
 

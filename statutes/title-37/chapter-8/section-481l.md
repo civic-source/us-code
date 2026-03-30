@@ -3,9 +3,9 @@ title: "Section 481l - Travel and transportation allowances: attendance of membe
 usc_title: 37
 usc_section: "481l"
 chapter: 8
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "37 U.S.C. § 481l"
-generated_at: "2026-03-30T06:34:39.160Z"
+generated_at: "2026-03-30T06:37:14.336Z"
 status: "active"
 ---
 

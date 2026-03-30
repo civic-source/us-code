@@ -3,9 +3,9 @@ title: "Section 3412 - Investigations; power to subpena and take oaths and affir
 usc_title: 7
 usc_section: "3412"
 chapter: 65
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 3412"
-generated_at: "2026-03-30T06:32:29.896Z"
+generated_at: "2026-03-30T06:36:14.528Z"
 status: "active"
 ---
 

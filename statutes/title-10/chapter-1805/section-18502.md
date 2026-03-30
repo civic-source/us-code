@@ -3,9 +3,9 @@ title: "Section 18502 - Reserve components: supplies, services, and facilities"
 usc_title: 10
 usc_section: "18502"
 chapter: 1805
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 18502"
-generated_at: "2026-03-30T06:32:27.138Z"
+generated_at: "2026-03-30T06:36:17.834Z"
 status: "active"
 ---
 

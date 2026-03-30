@@ -3,9 +3,9 @@ title: "Section 3041f - Repealed. Pub. L. 95–478, title V , § 501(a), Oct. 18
 usc_title: 42
 usc_section: "3041f"
 chapter: 35
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 3041f"
-generated_at: "2026-03-30T06:35:24.910Z"
+generated_at: "2026-03-30T06:37:31.379Z"
 status: "repealed"
 ---
 

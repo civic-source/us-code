@@ -3,9 +3,9 @@ title: "Section 7925 - Active operations; liability for remedial action"
 usc_title: 42
 usc_section: "7925"
 chapter: 88
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 7925"
-generated_at: "2026-03-30T06:35:25.031Z"
+generated_at: "2026-03-30T06:37:31.506Z"
 status: "active"
 ---
 

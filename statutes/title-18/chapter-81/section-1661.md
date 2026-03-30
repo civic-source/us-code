@@ -3,9 +3,9 @@ title: "Section 1661 - Robbery ashore"
 usc_title: 18
 usc_section: "1661"
 chapter: 81
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "18 U.S.C. § 1661"
-generated_at: "2026-03-30T06:32:47.485Z"
+generated_at: "2026-03-30T06:36:30.552Z"
 status: "active"
 ---
 

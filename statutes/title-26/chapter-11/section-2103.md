@@ -3,9 +3,9 @@ title: "Section 2103 - Definition of gross estate"
 usc_title: 26
 usc_section: "2103"
 chapter: 11
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 2103"
-generated_at: "2026-03-30T06:34:25.241Z"
+generated_at: "2026-03-30T06:37:05.586Z"
 status: "active"
 ---
 

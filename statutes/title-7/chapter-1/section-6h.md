@@ -3,9 +3,9 @@ title: "Section 6h - False self-representation as registered entity member prohi
 usc_title: 7
 usc_section: "6h"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 6h"
-generated_at: "2026-03-30T06:32:29.774Z"
+generated_at: "2026-03-30T06:36:14.410Z"
 status: "active"
 ---
 

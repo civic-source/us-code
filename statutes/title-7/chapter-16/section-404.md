@@ -3,9 +3,9 @@ title: "Section 404 - Authorization of appropriations"
 usc_title: 7
 usc_section: "404"
 chapter: 16
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 404"
-generated_at: "2026-03-30T06:32:29.806Z"
+generated_at: "2026-03-30T06:36:14.440Z"
 status: "active"
 ---
 

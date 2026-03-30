@@ -3,9 +3,9 @@ title: "Section 3143 - Operational files of the National Reconnaissance Office"
 usc_title: 50
 usc_section: "3143"
 chapter: 44
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "50 U.S.C. § 3143"
-generated_at: "2026-03-30T06:35:36.734Z"
+generated_at: "2026-03-30T06:37:40.083Z"
 status: "active"
 ---
 

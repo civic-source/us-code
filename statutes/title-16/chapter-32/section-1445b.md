@@ -3,9 +3,9 @@ title: "Section 1445b - Enhancing support for national marine sanctuaries"
 usc_title: 16
 usc_section: "1445b"
 chapter: 32
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 1445b"
-generated_at: "2026-03-30T06:33:07.775Z"
+generated_at: "2026-03-30T06:36:34.841Z"
 status: "active"
 ---
 

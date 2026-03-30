@@ -3,9 +3,9 @@ title: "Section 60102 - Definitions"
 usc_title: 34
 usc_section: "60102"
 chapter: 601
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "34 U.S.C. § 60102"
-generated_at: "2026-03-30T06:34:28.655Z"
+generated_at: "2026-03-30T06:37:08.162Z"
 status: "active"
 ---
 

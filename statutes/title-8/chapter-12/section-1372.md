@@ -3,9 +3,9 @@ title: "Section 1372 - Program to collect information relating to nonimmigrant f
 usc_title: 8
 usc_section: "1372"
 chapter: 12
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "8 U.S.C. § 1372"
-generated_at: "2026-03-30T06:32:21.843Z"
+generated_at: "2026-03-30T06:36:11.802Z"
 status: "active"
 ---
 

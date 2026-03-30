@@ -3,9 +3,9 @@ title: "Section 777c - Division of annual appropriations"
 usc_title: 16
 usc_section: "777c"
 chapter: 10
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 777c"
-generated_at: "2026-03-30T06:33:07.736Z"
+generated_at: "2026-03-30T06:36:34.798Z"
 status: "active"
 ---
 

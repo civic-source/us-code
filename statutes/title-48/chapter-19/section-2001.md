@@ -3,9 +3,9 @@ title: "Section 2001 - Findings"
 usc_title: 48
 usc_section: "2001"
 chapter: 19
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "48 U.S.C. § 2001"
-generated_at: "2026-03-30T06:35:28.037Z"
+generated_at: "2026-03-30T06:37:38.016Z"
 status: "active"
 ---
 

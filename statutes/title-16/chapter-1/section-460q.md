@@ -3,9 +3,9 @@ title: "Section 460q - Establishment; boundaries; administration; integrated man
 usc_title: 16
 usc_section: "460q"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 460q"
-generated_at: "2026-03-30T06:33:07.677Z"
+generated_at: "2026-03-30T06:36:34.736Z"
 status: "active"
 ---
 

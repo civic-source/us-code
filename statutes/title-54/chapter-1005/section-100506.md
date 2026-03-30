@@ -3,9 +3,9 @@ title: "Section 100506 - Boundary changes to System units"
 usc_title: 54
 usc_section: "100506"
 chapter: 1005
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "54 U.S.C. § 100506"
-generated_at: "2026-03-30T06:35:55.452Z"
+generated_at: "2026-03-30T06:37:42.762Z"
 status: "active"
 ---
 

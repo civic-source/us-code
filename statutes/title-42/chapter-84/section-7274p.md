@@ -3,9 +3,9 @@ title: "Section 7274p - Transferred"
 usc_title: 42
 usc_section: "7274p"
 chapter: 84
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 7274p"
-generated_at: "2026-03-30T06:35:24.997Z"
+generated_at: "2026-03-30T06:37:31.469Z"
 status: "transferred"
 ---
 

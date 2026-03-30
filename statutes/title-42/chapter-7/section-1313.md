@@ -3,9 +3,9 @@ title: "Section 1313 - Assistance for United States citizens returned from forei
 usc_title: 42
 usc_section: "1313"
 chapter: 7
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "42 U.S.C. § 1313"
-generated_at: "2026-03-30T06:35:24.701Z"
+generated_at: "2026-03-30T06:37:31.176Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** The Secretary may provide assistance under paragraph (1) directly or through utilization of the services and facilities of appropriate public or private agencies and organizations, in accordance with agreements providing for payment, in advance or by way of reimbursement, as may be determined by the Secretary, of the cost thereof. Such cost shall be determined by such statistical, sampling, or other method as may be provided in the agreement.
 - **(b)** The Secretary is authorized to develop plans and make arrangements for provision of temporary assistance within the United States to individuals specified in subsection (a)(1). Such plans shall be developed and such arrangements shall be made after consultation with the Secretary of State, the Attorney General, and the Secretary of Defense. To the extent feasible, assistance provided under subsection (a) shall be provided in accordance with the plans developed pursuant to this subsection, as modified from time to time by the Secretary.
 - **(c)** For purposes of this section, the term “temporary assistance” means money payments, medical care, temporary billeting, transportation, and other goods and services necessary for the health or welfare of individuals (including guidance, counseling, and other welfare services) furnished to them within the United States upon their arrival in the United States and for such period after their arrival, not exceeding ninety days, as may be provided in regulations of the Secretary; except that assistance under this section may be furnished beyond such ninety-day period in the case of any citizen or dependent upon a finding by the Secretary that the circumstances involved necessitate or justify the furnishing of assistance beyond such period in that particular case.
-- **(d)** The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2009 , except that, in the case of fiscal year 2010, the total amount of such assistance provided during that fiscal year shall not exceed $25,000,000.
+- **(d)** The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2009 , except that, in the case of fiscal years 2017 and 2018, the total amount of such assistance provided during each such fiscal year shall not exceed $25,000,000.
 - **(e)**
   - **(1)** The Secretary may accept on behalf of the United States gifts, in cash or in kind, for use in carrying out the program established under this section. Gifts in the form of cash shall be credited to the appropriation account from which this program is funded, in addition to amounts otherwise appropriated, and shall remain available until expended.
   - **(2)** Gifts accepted under paragraph (1) shall be available for obligation or other use by the United States only to the extent and in the amounts provided in appropriation Acts.

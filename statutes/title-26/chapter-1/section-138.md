@@ -3,9 +3,9 @@ title: "Section 138 - Medicare Advantage MSA"
 usc_title: 26
 usc_section: "138"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "26 U.S.C. § 138"
-generated_at: "2026-03-30T06:34:25.113Z"
+generated_at: "2026-03-30T06:37:05.456Z"
 status: "active"
 ---
 

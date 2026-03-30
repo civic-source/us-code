@@ -3,9 +3,9 @@ title: "Section 3741 - Definitions"
 usc_title: 38
 usc_section: "3741"
 chapter: 37
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "38 U.S.C. § 3741"
-generated_at: "2026-03-30T06:34:41.322Z"
+generated_at: "2026-03-30T06:37:16.315Z"
 status: "active"
 ---
 

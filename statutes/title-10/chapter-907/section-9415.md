@@ -3,9 +3,9 @@ title: "Section 9415 - Renumbered § 349]"
 usc_title: 10
 usc_section: "9415"
 chapter: 907
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 9415"
-generated_at: "2026-03-30T06:32:27.124Z"
+generated_at: "2026-03-30T06:36:17.820Z"
 status: "renumbered"
 ---
 

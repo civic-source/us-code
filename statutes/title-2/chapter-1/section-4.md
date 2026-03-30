@@ -3,9 +3,9 @@ title: "Section 4 - Omitted"
 usc_title: 2
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "2 U.S.C. § 4"
-generated_at: "2026-03-30T06:32:10.129Z"
+generated_at: "2026-03-30T06:36:08.948Z"
 status: "omitted"
 ---
 

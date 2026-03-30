@@ -3,9 +3,9 @@ title: "Section 944a - Publication of rural telephone bank policies and regulati
 usc_title: 7
 usc_section: "944a"
 chapter: 31
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 944a"
-generated_at: "2026-03-30T06:32:29.818Z"
+generated_at: "2026-03-30T06:36:14.451Z"
 status: "active"
 ---
 

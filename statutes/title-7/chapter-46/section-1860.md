@@ -3,9 +3,9 @@ title: "Section 1860 - Federal irrigation, drainage, and flood-control projects"
 usc_title: 7
 usc_section: "1860"
 chapter: 46
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "7 U.S.C. § 1860"
-generated_at: "2026-03-30T06:32:29.852Z"
+generated_at: "2026-03-30T06:36:14.485Z"
 status: "active"
 ---
 

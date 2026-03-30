@@ -3,9 +3,9 @@ title: "Section 2271 - Petitions"
 usc_title: 19
 usc_section: "2271"
 chapter: 12
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "19 U.S.C. § 2271"
-generated_at: "2026-03-30T06:33:04.907Z"
+generated_at: "2026-03-30T06:36:31.852Z"
 status: "active"
 ---
 

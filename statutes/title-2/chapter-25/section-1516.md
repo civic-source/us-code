@@ -3,9 +3,9 @@ title: "Section 1516 - Authorization of appropriations"
 usc_title: 2
 usc_section: "1516"
 chapter: 25
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "2 U.S.C. § 1516"
-generated_at: "2026-03-30T06:32:10.154Z"
+generated_at: "2026-03-30T06:36:08.973Z"
 status: "active"
 ---
 

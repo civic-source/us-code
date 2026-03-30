@@ -3,9 +3,9 @@ title: "Section 2546a - Customer-oriented acquisition system"
 usc_title: 10
 usc_section: "2546a"
 chapter: 149
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "10 U.S.C. § 2546a"
-generated_at: "2026-03-30T06:32:27.084Z"
+generated_at: "2026-03-30T06:36:17.782Z"
 status: "active"
 ---
 

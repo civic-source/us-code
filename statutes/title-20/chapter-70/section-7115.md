@@ -3,9 +3,9 @@ title: "Section 7115 - Allocations to local educational agencies"
 usc_title: 20
 usc_section: "7115"
 chapter: 70
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "20 U.S.C. § 7115"
-generated_at: "2026-03-30T06:32:57.390Z"
+generated_at: "2026-03-30T06:36:38.208Z"
 status: "active"
 ---
 

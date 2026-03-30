@@ -3,9 +3,9 @@ title: "Section 410z - Establishment"
 usc_title: 16
 usc_section: "410z"
 chapter: 1
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 410z"
-generated_at: "2026-03-30T06:33:07.644Z"
+generated_at: "2026-03-30T06:36:34.702Z"
 status: "active"
 ---
 

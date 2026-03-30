@@ -3,9 +3,9 @@ title: "Section 5340 - Apportionments based on growing States and high density S
 usc_title: 49
 usc_section: "5340"
 chapter: 53
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "49 U.S.C. § 5340"
-generated_at: "2026-03-30T06:35:52.472Z"
+generated_at: "2026-03-30T06:37:37.619Z"
 status: "active"
 ---
 

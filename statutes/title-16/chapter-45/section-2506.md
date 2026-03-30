@@ -3,9 +3,9 @@ title: "Section 2506 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2506"
 chapter: 45
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 2506"
-generated_at: "2026-03-30T06:33:07.797Z"
+generated_at: "2026-03-30T06:36:34.864Z"
 status: "repealed"
 ---
 

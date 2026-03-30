@@ -3,9 +3,9 @@ title: "Section 332 - General bonus authority for officers"
 usc_title: 37
 usc_section: "332"
 chapter: 5
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "37 U.S.C. § 332"
-generated_at: "2026-03-30T06:34:39.153Z"
+generated_at: "2026-03-30T06:37:14.330Z"
 status: "active"
 ---
 

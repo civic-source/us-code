@@ -3,9 +3,9 @@ title: "Section 471h - Cooperation with public and private agencies, organizatio
 usc_title: 16
 usc_section: "471h"
 chapter: 2
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "16 U.S.C. § 471h"
-generated_at: "2026-03-30T06:33:07.702Z"
+generated_at: "2026-03-30T06:36:34.763Z"
 status: "active"
 ---
 

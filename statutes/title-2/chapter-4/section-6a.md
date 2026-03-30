@@ -3,9 +3,9 @@ title: "Section 6a - Transferred"
 usc_title: 2
 usc_section: "6a"
 chapter: 4
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "2 U.S.C. § 6a"
-generated_at: "2026-03-30T06:32:10.132Z"
+generated_at: "2026-03-30T06:36:08.950Z"
 status: "transferred"
 ---
 

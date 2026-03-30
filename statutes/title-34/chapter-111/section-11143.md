@@ -3,9 +3,9 @@ title: "Section 11143 - Eligibility of States"
 usc_title: 34
 usc_section: "11143"
 chapter: 111
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "34 U.S.C. § 11143"
-generated_at: "2026-03-30T06:34:28.626Z"
+generated_at: "2026-03-30T06:37:08.133Z"
 status: "active"
 ---
 

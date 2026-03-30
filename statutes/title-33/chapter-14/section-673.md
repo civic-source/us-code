@@ -3,9 +3,9 @@ title: "Section 673 - Order by commission directing method of mining, etc.; expe
 usc_title: 33
 usc_section: "673"
 chapter: 14
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "33 U.S.C. § 673"
-generated_at: "2026-03-30T06:34:36.630Z"
+generated_at: "2026-03-30T06:37:11.898Z"
 status: "active"
 ---
 

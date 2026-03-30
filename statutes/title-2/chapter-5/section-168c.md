@@ -3,9 +3,9 @@ title: "Section 168c - Printing and distribution of decennial editions and suppl
 usc_title: 2
 usc_section: "168c"
 chapter: 5
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "2 U.S.C. § 168c"
-generated_at: "2026-03-30T06:32:10.136Z"
+generated_at: "2026-03-30T06:36:08.953Z"
 status: "active"
 ---
 

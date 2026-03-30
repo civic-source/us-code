@@ -3,9 +3,9 @@ title: "Section 41105 - Concerted action"
 usc_title: 46
 usc_section: "41105"
 chapter: 411
-current_through: "PL 115-55"
+current_through: "PL 115-57"
 classification: "46 U.S.C. § 41105"
-generated_at: "2026-03-30T06:35:28.664Z"
+generated_at: "2026-03-30T06:37:35.153Z"
 status: "active"
 ---
 
